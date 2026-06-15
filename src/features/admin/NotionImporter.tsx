@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import type { CourseTreeNode } from '@/types'
-import { parseNotionMarkdown, collectStats, type ParseStats } from '@/lib/import/notionMarkdown'
+import { parseNotionMarkdown, type ParseStats } from '@/lib/import/notionMarkdown'
 import { CourseTree } from '@/features/courses/CourseTree'
 import { MemoryRouter } from 'react-router-dom'
 
