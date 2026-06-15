@@ -1,0 +1,31 @@
+{
+  "courses": [
+    {
+      "id": "course-toan-thay-a-khoa-1",
+      "title": "Toán 10 - Nền tảng Đại số",
+      "gradeLevel": "lop-10",
+      "subjectId": "toan",
+      "teacher": "Thầy Nguyễn Văn A",
+      "tags": ["đại số", "nền tảng"],
+      "lessonCount": 3
+    },
+    {
+      "id": "course-van-co-b-khoa-x",
+      "title": "Ngữ Văn 12 - Nghị luận văn học",
+      "gradeLevel": "lop-12",
+      "subjectId": "ngu-van",
+      "teacher": "Cô Trần Thị B",
+      "tags": ["nghị luận", "ôn thi"],
+      "lessonCount": 2
+    },
+    {
+      "id": "course-anh-thay-c-khoa-1",
+      "title": "Tiếng Anh 12 - Ngữ pháp trọng tâm",
+      "gradeLevel": "lop-12-tn-thpt",
+      "subjectId": "tieng-anh",
+      "teacher": "Thầy Lê Văn C",
+      "tags": ["ngữ pháp", "TN THPT"],
+      "lessonCount": 2
+    }
+  ]
+}

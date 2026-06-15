@@ -1,0 +1,87 @@
+{
+  "id": "exam-hsa-demo",
+  "title": "HSA - Đánh giá năng lực (Demo)",
+  "description": "Đề demo có block Định tính / Định lượng / Khoa học / Tiếng Anh.",
+  "gradeLevel": "lop-12",
+  "subjectId": "hsa",
+  "examSystem": "hsa",
+  "examType": "Đề tổng hợp",
+  "durationMinutes": 60,
+  "hasAnswers": true,
+  "sourceName": "2TF529 Demo",
+  "year": 2025,
+  "topics": ["tổng hợp"],
+  "tags": ["demo", "HSA"],
+  "blocks": [
+    {
+      "id": "dinh-luong",
+      "title": "Phần 1. Tư duy định lượng (Toán)",
+      "questions": [
+        {
+          "id": "h1",
+          "type": "single_choice",
+          "prompt": "Đạo hàm của $f(x) = x^2$ tại $x = 3$ bằng?",
+          "choices": [
+            { "id": "a", "text": "3" },
+            { "id": "b", "text": "6" },
+            { "id": "c", "text": "9" }
+          ],
+          "correctChoiceIds": ["b"],
+          "explanation": "$f'(x) = 2x$, nên $f'(3) = 6$."
+        }
+      ]
+    },
+    {
+      "id": "dinh-tinh",
+      "title": "Phần 2. Tư duy định tính (Ngữ văn - Ngôn ngữ)",
+      "questions": [
+        {
+          "id": "h2",
+          "type": "single_choice",
+          "prompt": "Từ nào sau đây là từ láy?",
+          "choices": [
+            { "id": "a", "text": "xanh xao" },
+            { "id": "b", "text": "nhà cửa" },
+            { "id": "c", "text": "sách vở" }
+          ],
+          "correctChoiceIds": ["a"],
+          "explanation": "“xanh xao” là từ láy âm đầu."
+        }
+      ]
+    },
+    {
+      "id": "khoa-hoc",
+      "title": "Phần 3. Khoa học (Lí - Hóa - Sinh - Sử - Địa)",
+      "questions": [
+        {
+          "id": "h3",
+          "type": "single_choice",
+          "prompt": "Đơn vị của lực trong hệ SI là?",
+          "choices": [
+            { "id": "a", "text": "Jun (J)" },
+            { "id": "b", "text": "Niutơn (N)" },
+            { "id": "c", "text": "Oát (W)" }
+          ],
+          "correctChoiceIds": ["b"]
+        }
+      ]
+    },
+    {
+      "id": "tieng-anh",
+      "title": "Phần 4. Tiếng Anh",
+      "questions": [
+        {
+          "id": "h4",
+          "type": "single_choice",
+          "prompt": "Choose the correct word: She ____ to school every day.",
+          "choices": [
+            { "id": "a", "text": "go" },
+            { "id": "b", "text": "goes" },
+            { "id": "c", "text": "going" }
+          ],
+          "correctChoiceIds": ["b"]
+        }
+      ]
+    }
+  ]
+}

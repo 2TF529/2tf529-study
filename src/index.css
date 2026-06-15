@@ -1,111 +1,179 @@
+@import 'tailwindcss';
+@import 'katex/dist/katex.min.css';
+
+/*
+  Theme system via CSS variables on :root[data-theme].
+  Themes: light, dark, sepia, contrast. Density: cozy | compact.
+*/
+
 :root {
-  --text: #6b6375;
-  --text-h: #08060d;
-  --bg: #fff;
-  --border: #e5e4e7;
-  --code-bg: #f4f3ec;
-  --accent: #aa3bff;
-  --accent-bg: rgba(170, 59, 255, 0.1);
-  --accent-border: rgba(170, 59, 255, 0.5);
-  --social-bg: rgba(244, 243, 236, 0.5);
-  --shadow:
-    rgba(0, 0, 0, 0.1) 0 10px 15px -3px, rgba(0, 0, 0, 0.05) 0 4px 6px -2px;
-
-  --sans: system-ui, 'Segoe UI', Roboto, sans-serif;
-  --heading: system-ui, 'Segoe UI', Roboto, sans-serif;
-  --mono: ui-monospace, Consolas, monospace;
-
-  font: 18px/145% var(--sans);
-  letter-spacing: 0.18px;
-  color-scheme: light dark;
-  color: var(--text);
-  background: var(--bg);
-  font-synthesis: none;
-  text-rendering: optimizeLegibility;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-
-  @media (max-width: 1024px) {
-    font-size: 16px;
-  }
+  --color-bg: #f7f8fa;
+  --color-surface: #ffffff;
+  --color-surface-2: #f1f3f5;
+  --color-border: #e2e6ea;
+  --color-text: #1f2933;
+  --color-text-muted: #5b6770;
+  --color-primary: #2563eb;
+  --color-primary-contrast: #ffffff;
+  --color-accent: #0f766e;
+  --color-danger: #dc2626;
+  --color-success: #16a34a;
+  --font-scale: 1;
+  --density-gap: 1rem;
+  --density-pad: 1rem;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --text: #9ca3af;
-    --text-h: #f3f4f6;
-    --bg: #16171d;
-    --border: #2e303a;
-    --code-bg: #1f2028;
-    --accent: #c084fc;
-    --accent-bg: rgba(192, 132, 252, 0.15);
-    --accent-border: rgba(192, 132, 252, 0.5);
-    --social-bg: rgba(47, 48, 58, 0.5);
-    --shadow:
-      rgba(0, 0, 0, 0.4) 0 10px 15px -3px, rgba(0, 0, 0, 0.25) 0 4px 6px -2px;
-  }
-
-  #social .button-icon {
-    filter: invert(1) brightness(2);
-  }
+:root[data-theme='dark'] {
+  --color-bg: #0f1419;
+  --color-surface: #171c23;
+  --color-surface-2: #1f262f;
+  --color-border: #2b333d;
+  --color-text: #e4e8ed;
+  --color-text-muted: #9aa4af;
+  --color-primary: #5b9bff;
+  --color-primary-contrast: #0b1220;
+  --color-accent: #2dd4bf;
+  --color-danger: #f87171;
+  --color-success: #4ade80;
 }
 
-#root {
-  width: 1126px;
-  max-width: 100%;
-  margin: 0 auto;
-  text-align: center;
-  border-inline: 1px solid var(--border);
-  min-height: 100svh;
-  display: flex;
-  flex-direction: column;
-  box-sizing: border-box;
+:root[data-theme='sepia'] {
+  --color-bg: #f4ecd8;
+  --color-surface: #fbf5e6;
+  --color-surface-2: #efe4cb;
+  --color-border: #ddcca8;
+  --color-text: #433422;
+  --color-text-muted: #7a6a4f;
+  --color-primary: #9a6a2f;
+  --color-primary-contrast: #fbf5e6;
+  --color-accent: #6b705c;
+  --color-danger: #b3402c;
+  --color-success: #5f7d3a;
+}
+
+:root[data-theme='contrast'] {
+  --color-bg: #000000;
+  --color-surface: #000000;
+  --color-surface-2: #0a0a0a;
+  --color-border: #ffffff;
+  --color-text: #ffffff;
+  --color-text-muted: #e0e0e0;
+  --color-primary: #ffff00;
+  --color-primary-contrast: #000000;
+  --color-accent: #00ffff;
+  --color-danger: #ff5555;
+  --color-success: #55ff55;
+}
+
+:root[data-density='compact'] {
+  --density-gap: 0.5rem;
+  --density-pad: 0.625rem;
+}
+
+html {
+  font-size: calc(100% * var(--font-scale));
 }
 
 body {
   margin: 0;
+  background-color: var(--color-bg);
+  color: var(--color-text);
+  font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  line-height: 1.6;
 }
 
-h1,
-h2 {
-  font-family: var(--heading);
-  font-weight: 500;
-  color: var(--text-h);
-}
-
-h1 {
-  font-size: 56px;
-  letter-spacing: -1.68px;
-  margin: 32px 0;
-  @media (max-width: 1024px) {
-    font-size: 36px;
-    margin: 20px 0;
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
   }
 }
-h2 {
-  font-size: 24px;
-  line-height: 118%;
-  letter-spacing: -0.24px;
-  margin: 0 0 8px;
-  @media (max-width: 1024px) {
-    font-size: 20px;
-  }
-}
-p {
-  margin: 0;
+
+a {
+  color: var(--color-primary);
 }
 
-code,
-.counter {
-  font-family: var(--mono);
+.surface {
+  background-color: var(--color-surface);
+  border: 1px solid var(--color-border);
+}
+.surface-2 {
+  background-color: var(--color-surface-2);
+}
+.text-muted {
+  color: var(--color-text-muted);
+}
+
+.btn {
   display: inline-flex;
-  border-radius: 4px;
-  color: var(--text-h);
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  border-radius: 0.625rem;
+  padding: 0.55rem 1rem;
+  font-weight: 600;
+  border: 1px solid var(--color-border);
+  background-color: var(--color-surface);
+  color: var(--color-text);
+  cursor: pointer;
+  transition: filter 0.15s ease, background-color 0.15s ease;
+}
+.btn:hover {
+  filter: brightness(0.97);
+}
+.btn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+.btn-primary {
+  background-color: var(--color-primary);
+  color: var(--color-primary-contrast);
+  border-color: var(--color-primary);
 }
 
-code {
-  font-size: 15px;
-  line-height: 135%;
-  padding: 4px 8px;
-  background: var(--code-bg);
+.input,
+.select {
+  background-color: var(--color-surface);
+  color: var(--color-text);
+  border: 1px solid var(--color-border);
+  border-radius: 0.5rem;
+  padding: 0.45rem 0.7rem;
+  width: 100%;
+}
+
+.badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  font-size: 0.75rem;
+  font-weight: 600;
+  padding: 0.15rem 0.5rem;
+  border-radius: 999px;
+  border: 1px solid var(--color-border);
+  background-color: var(--color-surface-2);
+  color: var(--color-text-muted);
+}
+.badge-success {
+  color: var(--color-success);
+  border-color: var(--color-success);
+}
+.badge-danger {
+  color: var(--color-danger);
+  border-color: var(--color-danger);
+}
+
+.markdown :where(p, ul, ol) {
+  margin: 0.4rem 0;
+}
+.markdown :where(ul, ol) {
+  padding-left: 1.25rem;
+}
+.markdown code {
+  background-color: var(--color-surface-2);
+  padding: 0.1rem 0.3rem;
+  border-radius: 0.3rem;
 }

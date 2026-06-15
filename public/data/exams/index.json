@@ -1,0 +1,49 @@
+{
+  "exams": [
+    {
+      "id": "exam-toan-10-gk1-demo",
+      "title": "Toán 10 - Giữa kì 1 (Demo)",
+      "description": "Đề demo có đáp án, nhiều dạng câu, có LaTeX.",
+      "gradeLevel": "lop-10",
+      "subjectId": "toan",
+      "examSystem": "truong",
+      "examType": "Giữa kì 1",
+      "durationMinutes": 45,
+      "hasAnswers": true,
+      "sourceName": "2TF529 Demo",
+      "year": 2025,
+      "topics": ["mệnh đề", "hàm số"],
+      "tags": ["demo", "có đáp án"]
+    },
+    {
+      "id": "exam-hsa-demo",
+      "title": "HSA - Đánh giá năng lực (Demo)",
+      "description": "Đề demo có block Định tính / Định lượng / Khoa học / Tiếng Anh.",
+      "gradeLevel": "lop-12",
+      "subjectId": "hsa",
+      "examSystem": "hsa",
+      "examType": "Đề tổng hợp",
+      "durationMinutes": 60,
+      "hasAnswers": true,
+      "sourceName": "2TF529 Demo",
+      "year": 2025,
+      "topics": ["tổng hợp"],
+      "tags": ["demo", "HSA"]
+    },
+    {
+      "id": "exam-tieng-anh-12-demo-no-answer",
+      "title": "Tiếng Anh 12 - Thi thử (Demo, chưa có đáp án)",
+      "description": "Đề demo chưa có đáp án, chỉ lưu bài làm.",
+      "gradeLevel": "lop-12-tn-thpt",
+      "subjectId": "tieng-anh",
+      "examSystem": "tn-thpt",
+      "examType": "Thi thử TN THPT",
+      "durationMinutes": 50,
+      "hasAnswers": false,
+      "sourceName": "2TF529 Demo",
+      "year": 2025,
+      "topics": ["reading"],
+      "tags": ["demo", "chưa có đáp án"]
+    }
+  ]
+}

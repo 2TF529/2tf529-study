@@ -1,0 +1,95 @@
+{
+  "id": "exam-toan-10-gk1-demo",
+  "title": "Toán 10 - Giữa kì 1 (Demo)",
+  "description": "Đề demo có đáp án, nhiều dạng câu, có LaTeX.",
+  "gradeLevel": "lop-10",
+  "subjectId": "toan",
+  "examSystem": "truong",
+  "examType": "Giữa kì 1",
+  "durationMinutes": 45,
+  "hasAnswers": true,
+  "sourceName": "2TF529 Demo",
+  "year": 2025,
+  "topics": ["mệnh đề", "hàm số"],
+  "tags": ["demo", "có đáp án"],
+  "blocks": [
+    {
+      "id": "tn",
+      "title": "Phần I. Trắc nghiệm",
+      "questions": [
+        {
+          "id": "q1",
+          "type": "single_choice",
+          "prompt": "Nghiệm của phương trình $x^2 - 5x + 6 = 0$ là?",
+          "choices": [
+            { "id": "a", "text": "$x = 1$ hoặc $x = 6$" },
+            { "id": "b", "text": "$x = 2$ hoặc $x = 3$" },
+            { "id": "c", "text": "$x = -2$ hoặc $x = -3$" },
+            { "id": "d", "text": "Vô nghiệm" }
+          ],
+          "correctChoiceIds": ["b"],
+          "explanation": "Phân tích: $x^2 - 5x + 6 = (x-2)(x-3) = 0$.",
+          "points": 1
+        },
+        {
+          "id": "q2",
+          "type": "multiple_choice",
+          "prompt": "Những số nào sau đây là số nguyên tố?",
+          "choices": [
+            { "id": "a", "text": "2" },
+            { "id": "b", "text": "9" },
+            { "id": "c", "text": "11" },
+            { "id": "d", "text": "15" }
+          ],
+          "correctChoiceIds": ["a", "c"],
+          "explanation": "2 và 11 là số nguyên tố; 9 = 3×3, 15 = 3×5.",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "dung-sai",
+      "title": "Phần II. Đúng/Sai",
+      "questions": [
+        {
+          "id": "q3",
+          "type": "true_false_group",
+          "prompt": "Cho hàm số $f(x) = 2x + 1$. Xét tính đúng/sai của các mệnh đề:",
+          "statements": [
+            { "id": "s1", "text": "$f(0) = 1$", "answer": true },
+            { "id": "s2", "text": "$f(x)$ là hàm số nghịch biến", "answer": false },
+            { "id": "s3", "text": "Đồ thị cắt trục tung tại điểm $(0; 1)$", "answer": true }
+          ],
+          "groupScoring": "per_statement",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "tra-loi-ngan",
+      "title": "Phần III. Trả lời ngắn",
+      "questions": [
+        {
+          "id": "q4",
+          "type": "short_answer",
+          "prompt": "Tính giá trị biểu thức $\\sqrt{16} + 3$.",
+          "acceptableAnswers": ["7"],
+          "caseInsensitive": true,
+          "explanation": "$\\sqrt{16} = 4$, nên $4 + 3 = 7$.",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "tu-luan",
+      "title": "Phần IV. Tự luận",
+      "questions": [
+        {
+          "id": "q5",
+          "type": "essay_info",
+          "prompt": "Giải và biện luận phương trình $mx + 1 = 0$ theo tham số $m$. (Phần này không chấm tự động.)"
+        }
+      ]
+    }
+  ]
+}

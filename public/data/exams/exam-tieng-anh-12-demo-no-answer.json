@@ -1,0 +1,42 @@
+{
+  "id": "exam-tieng-anh-12-demo-no-answer",
+  "title": "Tiếng Anh 12 - Thi thử (Demo, chưa có đáp án)",
+  "description": "Đề demo chưa có đáp án, chỉ lưu bài làm.",
+  "gradeLevel": "lop-12-tn-thpt",
+  "subjectId": "tieng-anh",
+  "examSystem": "tn-thpt",
+  "examType": "Thi thử TN THPT",
+  "durationMinutes": 50,
+  "hasAnswers": false,
+  "sourceName": "2TF529 Demo",
+  "year": 2025,
+  "topics": ["reading"],
+  "tags": ["demo", "chưa có đáp án"],
+  "blocks": [
+    {
+      "id": "reading",
+      "title": "Reading",
+      "passage": "Read the following passage and answer the questions.\n\n*Da Lat is a city in the Central Highlands of Vietnam, famous for its cool climate and flowers.*",
+      "questions": [
+        {
+          "id": "e1",
+          "type": "single_choice",
+          "prompt": "Where is Da Lat located?",
+          "choices": [
+            { "id": "a", "text": "The Mekong Delta" },
+            { "id": "b", "text": "The Central Highlands" },
+            { "id": "c", "text": "The Red River Delta" }
+          ]
+        },
+        {
+          "id": "e2",
+          "type": "essay_info",
+          "prompt": "Look at the chart below and describe the trend. (Câu có ảnh minh họa - placeholder.)",
+          "images": [
+            { "src": "/assets/questions/placeholder-chart.svg", "alt": "Biểu đồ minh họa (placeholder)" }
+          ]
+        }
+      ]
+    }
+  ]
+}
