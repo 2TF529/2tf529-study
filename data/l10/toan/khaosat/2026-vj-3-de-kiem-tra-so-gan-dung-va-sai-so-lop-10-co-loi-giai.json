@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-3-de-kiem-tra-so-gan-dung-va-sai-so-lop-10-co-loi-giai",
+  "sourceId": "vietjack:3-de-kiem-tra-so-gan-dung-va-sai-so-lop-",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.Đề kiểm tra Số gần đúng và sai số lớp 10 (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Phần 1. Câu hỏi trắc nghiệm nhiều phương án lựa chọn . Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi, thí sinh chỉ chọn 1 phương án. Cho hình chữ nhật ABC D. Gọi AL và CI tương ứng là đường cao của các tam giác ADB và BC D. Cho biết \\(DL = LI = IB = 1\\) . Diện tích của hình chữ nhật ABCD (chính xác đến hàng phần trăm) là:",
+      "options": [
+        "A. 4,24",
+        "B. 2,242",
+        "C. 4,2",
+        "D. 4,2426"
+      ],
+      "answer": "A",
+      "note": "Chọn A Ta có: \\(A{L^2} = BL.LD = 2\\) do đó \\(AL = \\sqrt 2 \\). Lại có \\(BD = 3\\) Suy ra diện tích của hình chữ nhật là: \\[3\\sqrt 2 = 3.1,41421356... \\approx 4,24264... \\approx 4,24\\]"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Biết số gần đúng \\(a = 37975421\\) có độ chính xác \\(d = 150\\) . Hãy xác định các chữ số đáng tin của a .",
+      "options": [
+        "A. 3, 7, 9",
+        "B. 3, 7, 9, 7",
+        "C. 3, 7, 9, 7, 5",
+        "D. 3, 7, 9, 7, 5, 4"
+      ],
+      "answer": "C",
+      "note": "Chọn C Vì sai số tuyệt đối đến hàng trăm nên các chữ số hàng nghìn trở lên của a là đáng tin. Vậy các chữ số đáng tin của a là 3, 7, 9, 7, 5."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Biết số gần đúng \\(a = 7975421\\) có độ chính xác \\(d = 150\\) . Hãy ước lượng sai số tương đối của a .",
+      "options": [
+        "A. \\({\\delta _a} \\le 0,0000099\\)",
+        "B. \\({\\delta _a} \\le 0,000039\\)",
+        "C. \\({\\delta _a} \\ge 0,0000039\\)",
+        "D. \\({\\delta _a} < 0,000039\\)"
+      ],
+      "answer": "C",
+      "note": "Chọn C Theo Ví dụ 1 ta có các chữ số đáng tin của a là 3, 7, 9, 7, 5 \\( \\Rightarrow \\) Cách viết chuẩn của \\(a = {37975.10^3}\\) Sai số tương đối thỏa mãn: \\({\\delta _a} \\le \\frac{{150}}{{37975421}} = 0,0000039\\) (tức là không vượt quá \\(0,0000039\\))."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Biết số gần đúng \\(a = 173,4592\\) có sai số tương đối không vượt quá \\(\\frac{1}{{10000}}\\) , hãy ước lượng sai số tuyệt đối của a và viết a dưới dạng chuẩn.",
+      "options": [
+        "A. \\({\\Delta _a} \\le 0,17;a = 173,4\\)",
+        "B. \\({\\Delta _a} \\le 0,017;a = 173,5\\)",
+        "C. \\({\\Delta _a} \\le 0,4592;a = 173,5\\)",
+        "D. \\({\\Delta _a} \\le 0,017;a = 173,4\\)"
+      ],
+      "answer": "B",
+      "note": "Chọn B Từ công thức \\({\\delta _a} = \\frac{{{\\Delta _a}}}{{\\left| a \\right|}}\\), ta có \\({\\Delta _a} \\le 173,4592.\\frac{1}{{10000}} = 0,017\\) Vậy chữ số đáng tin là 1, 7, 3, 4. Dạng chuẩn của a là \\(a = 173,5\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho giá trị gần đúng của \\[\\frac{8}{{17}}\\] là \\[0,47\\] . Sai số tuyệt đối của số \\[0,47\\] là:",
+      "options": [
+        "A. \\[0,001\\] .",
+        "B. \\[0,002\\] .",
+        "C. \\[0,003\\] .",
+        "D. \\[0,004\\] ."
+      ],
+      "answer": "A",
+      "note": "Chọn A Ta có \\(\\frac{8}{{17}} = 0,470588235294...\\) nên sai số tuyệt đối của \\(0,47\\) là \\(\\Delta = \\left| {0,47 - \\frac{8}{{17}}} \\right| < \\left| {0,47 - 4,471} \\right| = 0,001\\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho giá trị gần đúng của \\[\\frac{3}{7}\\] là \\[0,429\\] . Sai số tuyệt đối của số \\[0,429\\] là:",
+      "options": [
+        "A. \\[0,0001\\] .",
+        "B. \\[0,0002\\] .",
+        "C. \\[0,0004\\] .",
+        "D. \\[0,0005\\] ."
+      ],
+      "answer": "D",
+      "note": "Chọn D Ta có \\(\\frac{3}{7} = 0,428571...\\) nên sai số tuyệt đối của \\(0,429\\) là \\(\\Delta = \\left| {0,429 - \\frac{3}{7}} \\right| < \\left| {0,429 - 4,4285} \\right| = 0,0005\\)."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Qua điều tra dân số kết quả thu được số đân ở tỉnh B là \\[2.731.425\\] người với sai số ước lượng không quá \\[200\\] người. Các chữ số không đáng tin ở các hàng là:",
+      "options": [
+        "A. Hàng đơn vị.",
+        "B. Hàng chục.",
+        "C. Hàng trăm.",
+        "D. Cả A, B, C."
+      ],
+      "answer": "D",
+      "note": "Chọn D Ta có \\(\\frac{{100}}{2} = 50 < d = 200 < 500 = \\frac{{1000}}{2}\\) các chữ số đáng tin là các chữ số hàng nghìn trở đi."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Nếu lấy \\[3,14\\] làm giá trị gần đúng của \\(\\pi \\) thì sai số là:",
+      "options": [
+        "A. \\[0,001\\] .",
+        "B. \\[0,002\\] .",
+        "C. \\[0,003\\] .",
+        "D. \\[0,004\\] ."
+      ],
+      "answer": "A",
+      "note": "Chọn A Ta có \\(\\pi = 3,141592654...\\) nên sai số tuyệt đối của \\(3,14\\) là \\(\\Delta = \\left| {3,14 - \\pi } \\right| < \\left| {3,14 - 3,141} \\right| = 0,001\\)."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-6-20-cau-trac-nghiem-toan-10-chan-troi-sang-tao-bai-2-xac-suat-cu",
+  "sourceId": "vietjack:6-20-cau-trac-nghiem-toan-10-chan-troi-s",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "6.20 câu trắc nghiệm Toán 10 Chân trời sáng tạo Bài 2. Xác suất của biến cố (Đúng sai - Trả lời ngắn) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Gieo xúc xắc hai lần, xác suất của biến cố kết quả của hai lần gieo là như nhau bằng",
+      "options": [
+        "A. \\(\\frac{1}{2}\\) .",
+        "B. \\(\\frac{5}{{36}}\\) .",
+        "C. \\(\\frac{1}{6}\\) .",
+        "D. \\(\\frac{1}{3}\\) ."
+      ],
+      "answer": "C",
+      "note": "Số phần tử của không gian mẫu là \\(n\\left( \\Omega \\right) = 36\\) . Gọi \\(A\\) là biến cố “Kết quả hai lần gieo là như nhau”. Khi đó \\(A = \\left\\{ {\\left( {1;1} \\right),\\left( {2;2} \\right),\\left( {3;3} \\right),\\left( {4;4} \\right),\\left( {5;5} \\right),\\left( {6;6} \\right)} \\right\\} \\Rightarrow n\\left( A \\right) = 6\\) . Do đó \\(P\\left( A \\right) = \\frac{6}{{36}} = \\frac{1}{6}\\) . Chọn C ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Chọn ngẫu nhiên một số tự nhiên bé hơn 10. Xác suất để chọn được số chia hết cho 5 là",
+      "options": [
+        "A. \\(\\frac{1}{5}\\) .",
+        "B. \\(\\frac{1}{{10}}\\) .",
+        "C. \\(\\frac{2}{9}\\) .",
+        "D. \\(\\frac{1}{9}\\) ."
+      ],
+      "answer": "A",
+      "note": "Số phần tử của không gian mẫu là \\(n\\left( \\Omega \\right) = 10\\) . Gọi \\(A\\) là biến cố “Chọn được số chia hết cho 5”. Khi đó \\(A = \\left\\{ {0;5} \\right\\} \\Rightarrow n\\left( A \\right) = 2\\) . Suy ra \\(P\\left( A \\right) = \\frac{2}{{10}} = \\frac{1}{5}\\) . Chọn A ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Gieo 1 đồng xu liên tiếp 3 lần. Tính xác suất của biến cố \\(A\\) : “Lần đầu xuất hiện mặt sấp”.",
+      "options": [
+        "A. \\(\\frac{3}{8}\\) .",
+        "B. \\(\\frac{1}{2}\\) .",
+        "C. \\(\\frac{1}{4}\\) .",
+        "D. \\(\\frac{7}{8}\\) ."
+      ],
+      "answer": "B",
+      "note": "Số phần tử của không gian mẫu là \\(n\\left( \\Omega \\right) = 8\\) . \\(A = \\left\\{ {SSS,SNN,SSN,SNS} \\right\\} \\Rightarrow n\\left( A \\right) = 4\\) . Suy ra \\(P\\left( A \\right) = \\frac{4}{8} = \\frac{1}{2}\\) . Chọn B ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Trong một chiếc hộp có 5 viên bi màu đỏ, 6 viên bi màu xanh. An lấy ngẫu nhiên ra 3 viên bi. Tính xác suất để 3 viên bi lấy ra đều là màu đỏ.",
+      "options": [
+        "A. \\(\\frac{2}{{33}}\\) .",
+        "B. \\(\\frac{5}{6}\\) .",
+        "C. \\(\\frac{5}{{11}}\\) .",
+        "D. \\(\\frac{{31}}{{33}}\\) ."
+      ],
+      "answer": "A",
+      "note": "Số phần tử của không gian mẫu là \\(C_{11}^3 = 165\\) . Số cách lấy ra 3 viên bi đều là màu đỏ là \\(C_5^3 = 10\\) . Xác suất để 3 viên bi lấy ra đều là màu đỏ là \\(P = \\frac{{10}}{{165}} = \\frac{2}{{33}}\\) . Chọn A ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Một nhóm học sinh gồm 6 học sinh nam và 4 học sinh nữ. Chọn ngẫu nhiên đồng thời 3 học sinh. Tính xác suất để trong 3 học sinh được chọn luôn có học sinh nữ?",
+      "options": [
+        "A. \\(\\frac{1}{3}\\) .",
+        "B. \\(\\frac{5}{6}\\) .",
+        "C. \\(\\frac{2}{3}\\) .",
+        "D. \\(\\frac{1}{6}\\) ."
+      ],
+      "answer": "B",
+      "note": "Số phần tử của không gian mẫu là \\(n\\left( \\Omega \\right) = C_{10}^3 = 120\\) . Gọi \\(A\\) là biến cố “Chọn 3 học sinh luôn có học sinh nữ”. \\(\\overline A \\) là biến cố “Chọn 3 học sinh không có học sinh nữ”. Khi đó \\(n\\left( {\\overline A } \\right) = C_6^3 = 20\\) . Khi đó \\(P\\left( A \\right) = 1 - P\\left( {\\overline A } \\right) = 1 - \\frac{{20}}{{120}} = \\frac{5}{6}\\) . Chọn B ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Đội tuyển học sinh giỏi Toán 10 gồm 8 học sinh, trong đó có 5 học sinh nam. Chọn ngẫu nhiên 5 học sinh đi thi học sinh giỏi cấp tỉnh. Xác suất để 5 học sinh được chọn đi thi có cả nam và nữ và học sinh nam nhiều hơn học sinh nữ là",
+      "options": [
+        "A. \\(P = \\frac{{11}}{{56}}\\) .",
+        "B. \\(P = \\frac{{45}}{{56}}\\) .",
+        "C. \\(P = \\frac{{46}}{{56}}\\) .",
+        "D. \\(P = \\frac{{55}}{{56}}\\) ."
+      ],
+      "answer": "B",
+      "note": "Số phần tử của không gian mẫu là \\(C_8^5 = 56\\) . Gọi \\(A\\) là biến cố “5 học sinh được chọn đi thi có cả nam và nữ và học sinh nam nhiều hơn học sinh nữ ” TH1: Chọn được 3 nam 2 nữ có \\(C_5^3 \\cdot C_3^2 = 30\\) cách. TH2: Chọn được 4 nam 1 nữ có \\(C_5^4 \\cdot C_3^1 = 15\\) cách. Suy ra \\(n\\left( A \\right) = 30 + 15 = 45\\) cách. Suy ra \\(P\\left( A \\right) = \\frac{{45}}{{56}}\\) . Chọn B ."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Một hộp chứa 4 bi xanh, 3 bi đỏ và 2 bi vàng. Chọn ngẫu nhiên 2 bi. Tính xác suất để chọn được 2 bi cùng màu.",
+      "options": [
+        "A. \\(\\frac{5}{{18}}\\) .",
+        "B. \\(\\frac{2}{9}\\) .",
+        "C. \\(\\frac{9}{{36}}\\) .",
+        "D. \\(\\frac{3}{{12}}\\) ."
+      ],
+      "answer": "A",
+      "note": "Số phần tử của không gian mẫu là \\(C_9^2 = 36\\) . Gọi \\(A\\) là biến cố “Chọn được 2 bi cùng màu”. TH1: Chọn được 2 bi màu xanh có \\(C_4^2 = 6\\) cách. TH2: Chọn được 2 bi màu đỏ có \\(C_3^2 = 3\\) cách. TH3: Chọn được 2 bi màu vàng có 1 cách. Suy ra \\(n\\left( A \\right) = 6 + 3 + 1 = 10\\) . Do đó \\(P\\left( A \\right) = \\frac{{10}}{{36}} = \\frac{5}{{18}}\\) . Chọn A ."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Một hộp chứa 4 viên bi trắng, 5 viên bi đỏ và 6 viên bi xanh. Lấy ngẫu nhiên từ hộp ra 4 viên bi. Xác suất để 4 viên bi được chọn có đủ ba màu và số bi đỏ nhiều nhất là",
+      "options": [
+        "A. \\(\\frac{{16}}{{91}}\\) .",
+        "B. \\(\\frac{2}{9}\\) .",
+        "C. \\(\\frac{9}{{36}}\\) .",
+        "D. \\(\\frac{3}{{12}}\\) ."
+      ],
+      "answer": "A",
+      "note": "Số phần tử của không gian mẫu là \\(n\\left( \\Omega \\right) = C_{15}^4 = 1365\\) . Gọi \\(A\\) là biến cố “Chọn được 4 viên bi có đủ ba màu và số bi đỏ nhiều nhất”. Khi đó \\(n\\left( A \\right) = C_4^1 \\cdot C_5^2 \\cdot C_6^1 = 240\\) . Khi đó \\(P\\left( A \\right) = \\frac{{240}}{{1365}} = \\frac{{16}}{{91}}\\) . Chọn A ."
+    }
+  ]
+}

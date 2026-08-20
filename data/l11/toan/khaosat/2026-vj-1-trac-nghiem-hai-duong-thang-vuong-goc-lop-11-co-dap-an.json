@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-1-trac-nghiem-hai-duong-thang-vuong-goc-lop-11-co-dap-an",
+  "sourceId": "vietjack:1-trac-nghiem-hai-duong-thang-vuong-goc-",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.Trắc nghiệm Hai đường thẳng vuông góc lớp 11 (có đáp án)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: TRẮC NGHIỆM NHIỀU LỰA CHỌN Trong không gian, góc giữa hai đường thẳng a và b là góc giữa hai đường thẳng a' và b' thỏa mãn:",
+      "options": [
+        "A. Cùng đi qua một điểm và lần lượt song song hoặc trùng với a và b.",
+        "B. Lần lượt song song hoặc trùng với a và b.",
+        "C. Cùng đi qua một điểm và lần lượt song song với a và b.",
+        "D. Lần lượt song song với a và b."
+      ],
+      "answer": "A",
+      "note": "A Theo định nghĩa: trong không gian, góc giữa hai đường thẳng a và b là góc giữa hai đường thẳng a' và b' cùng đi qua một điểm và lần lượt song song hoặc trùng với a và b."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Trong không gian, hai đường thẳng a và b được gọi là vuông góc với nhau nếu góc giữa chúng bằng",
+      "options": [
+        "A. 90°.",
+        "B. 45°.",
+        "C. 0°.",
+        "D. 180°."
+      ],
+      "answer": "A",
+      "note": "A Hai đường thẳng a và b được gọi là vuông góc với nhau nếu góc giữa chúng bằng 90°."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho hình chóp S.ABCD có đáy ABCD là hình chữ nhật. Gọi M, N lần lượt là trung điểm của SC và SD (tham khảo hình vẽ). Khẳng định nào dưới đây đúng?",
+      "options": [
+        "A. MN ^ AC .",
+        "B. MN ^ BD .",
+        "C. MN ^ AB .",
+        "D. MN ^ BC ."
+      ],
+      "answer": "D",
+      "note": "D Ta có MN là đường trung bình của tam giác SCD. Suy ra MN // CD. Ta có MN // CD và BC ^ CD nên MN ^ BC."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hình hộp ABCD.A'B'C'D' có các mặt là hình thoi. Phát biểu nào sau đây là đúng?",
+      "options": [
+        "A. AB ^ AD .",
+        "B. BD ^ A'C' .",
+        "C. DD' ^ DC .",
+        "D. BD ^ AB ."
+      ],
+      "answer": "B",
+      "note": "B Do (BD, A'C') = (BD, AC) = 90°. (Vì BD, AC là hai đường chéo của hình thoi)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hình chóp S.ABCD có đáy ABCD là hình thoi. Gọi I, J lần lượt là trung điểm của SA và SC. Phát biểu nào sau đây là đúng?",
+      "options": [
+        "A. AB ^ AD.",
+        "B. IJ ^ SA.",
+        "C. IJ ^ BD.",
+        "D. BD ^ AB."
+      ],
+      "answer": "C",
+      "note": "C Do I, J lần lượt là trung điểm của SA và SC Þ IJ // AC. Mà AC ^ BD (vì BD, AC là hai đường chéo của hình thoi). Suy ra IJ ^ BD."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho hình chóp S.ABCD có đáy ABCD là hình thoi, cạnh bên SA = AB và SA ^ BC. Tính góc giữa SD, BC.",
+      "options": [
+        "A. 45°.",
+        "B. 30°.",
+        "C. 60°.",
+        "D. 90°."
+      ],
+      "answer": "A",
+      "note": "A Do SA ^ BC Þ SA ^ AD nên tam giác SAD vuông tại A. Vì BC // AD nên góc giữa BC với SD chính là góc giữa AD với SD. Vì tam giác SAD vuông cân tại A nên \\(\\widehat {SAD} = 45^\\circ \\) ."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Cho hình chóp S.ABCD có đáy ABCD là hình chữ nhật với AB = 2a, BC = a. Các cạnh bên của hình chóp cùng bằng \\(a\\sqrt 2 \\) . Tính góc giữa hai đường thẳng AB và SC.",
+      "options": [
+        "A. 45°.",
+        "B. 30°.",
+        "C. 60°.",
+        "D. 90°."
+      ],
+      "answer": "A",
+      "note": "A Ta có AB // CD nên (AB, SC) = (CD, SC) = \\(\\widehat {SCD}\\) . Gọi M là trung điểm của CD. Tam giác SCM vuông tại M và có \\(SC = a\\sqrt 2 \\) , CM = a nên là tam giác vuông cân tại M nên \\(\\widehat {SCD} = 45^\\circ \\) . Vậy (AB, SC) = 45°."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho hình chóp S.ABCD có tất cả các cạnh đều bằng a. Gọi I và J lần lượt là trung điểm của SC và BC. Số đo của góc (IJ, CD) bằng",
+      "options": [
+        "A. 45°.",
+        "B. 30°.",
+        "C. 60°.",
+        "D. 90°."
+      ],
+      "answer": "C",
+      "note": "C Ta có IJ // SB và CD // AB nên (IJ, CD) = (SB, AB) = \\(\\widehat {SBA} = 60^\\circ \\) . (vì tam giác SAB là tam giác đều cạnh a)."
+    }
+  ]
+}

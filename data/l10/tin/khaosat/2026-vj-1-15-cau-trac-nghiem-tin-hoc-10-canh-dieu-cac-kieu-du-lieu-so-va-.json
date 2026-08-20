@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-10-canh-dieu-cac-kieu-du-lieu-so-va-",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-10-canh-die",
+  "grade": "l10",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 10 Cánh diều Các kiểu dữ liệu số và câu lệnh vào - ra đơn giản có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho đoạn chương trình sau: a=3.4 print(type(a)) Kết quả trên màn hình là kiểu dữ liệu:",
+      "options": [
+        "A. int",
+        "B. float",
+        "C. str",
+        "D. bool"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Vì a=3.4 ⇒ a là kiểu float (kiểu số thực)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu lệnh nhập với biến kiểu nguyên là:",
+      "options": [
+        "A. Biến=(input(dòng thông báo)",
+        "B. Biến=float(input(dòng thông báo))",
+        "C. Biến=input()",
+        "D. Biến=int(input(dòng thông báo))"
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Câu lệnh nhập với biến kiểu nguyên là: Biến=int(input(dòng thông báo))"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu lệnh nhập với biến kiểu thực là:",
+      "options": [
+        "A. Biến=(input(dòng thông báo)",
+        "B. Biến=float(input(dòng thông báo))",
+        "C. Biến=input()",
+        "D. Biến=int(input(dòng thông báo))"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Câu lệnh nhập với biến kiểu thực là: Biến=float(input(dòng thông báo))"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Để nhập từ bàn phím biến a kiểu nguyên ta viết:",
+      "options": [
+        "A. a=input(‘n=’)",
+        "B. a=float(input(‘n=’))",
+        "C. a=int(input(‘n=’))",
+        "D. a=int()"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Câu lệnh nhập với biến kiểu nguyên là: Biến=int(input(dòng thông báo))"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Để nhập từ bàn phím biến b kiểu thực ta viết:",
+      "options": [
+        "A. b=input(‘n=’)",
+        "B. b=float(input(‘n=’))",
+        "C. b=int(input(‘n=’))",
+        "D. b=int()"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Câu lệnh nhập với biến kiểu thực là: Biến=float(input(dòng thông báo))"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu lệnh đưa giá trị các biểu thức ra màn hình là:",
+      "options": [
+        "A. print()",
+        "B. print(‘danh sách biểu thức’)",
+        "C. print danh sách biểu thức",
+        "D. print(danh sách biểu thức)"
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Câu lệnh đưa giá trị các biểu thức ra màn hình là: print(danh sách biểu thức)"
+    }
+  ]
+}

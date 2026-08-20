@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-6-20-cau-trac-nghiem-toan-11-canh-dieu-cap-so-cong-co-dap-an",
+  "sourceId": "vietjack:6-20-cau-trac-nghiem-toan-11-canh-dieu-c",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "6.20 câu trắc nghiệm Toán 11 Cánh diều Cấp số cộng có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho cấp số cộng (u n ) với số hạng đầu u 1 và công sai d. Số hạng tổng quát của cấp số cộng đã cho được tính theo công thức nào dưới đây ?",
+      "options": [
+        "A. \\[{{\\rm{u}}_{\\rm{n}}}{\\rm{ = }}{{\\rm{u}}_{\\rm{1}}}{\\rm{.}}{{\\rm{d}}^{\\rm{n}}}\\]",
+        "B. \\[{{\\rm{u}}_{\\rm{n}}}{\\rm{ = }}{{\\rm{u}}_{\\rm{1}}}{\\rm{.}}{{\\rm{d}}^{{\\rm{n}} - {\\rm{1}}}}\\]",
+        "C. \\[{{\\rm{u}}_{\\rm{n}}}{\\rm{ = }}{{\\rm{u}}_{\\rm{1}}}{\\rm{ + nd}}\\]",
+        "D. \\[{{\\rm{u}}_{\\rm{n}}}{\\rm{ = }}{{\\rm{u}}_{\\rm{1}}}{\\rm{ + }}\\left( {{\\rm{n}} - {\\rm{1}}} \\right){\\rm{d}}\\]"
+      ],
+      "answer": "D",
+      "note": "Theo định lí ta có công thức số hạng tổng quát của cấp số cộng là: \\[{{\\rm{u}}_{\\rm{n}}}{\\rm{ = }}{{\\rm{u}}_{\\rm{1}}}{\\rm{ + }}\\left( {{\\rm{n}} - {\\rm{1}}} \\right){\\rm{d}}\\] Đáp án cần chọn là: D"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho cấp số cộng (u n ) với số hạng đầu u 1 và công sai . Tổng n số hạng đầu tiên của cấp số cộng đã cho được tính theo công thức nào dưới đây ?",
+      "options": [
+        "A. \\[{{\\rm{S}}_{\\rm{n}}}{\\rm{ = n}}{{\\rm{u}}_{\\rm{1}}}{\\rm{ + }}\\frac{{{\\rm{n}}\\left( {{\\rm{n}} - {\\rm{1}}} \\right){\\rm{d}}}}{{\\rm{2}}}\\]",
+        "B. \\[{{\\rm{S}}_{\\rm{n}}}{\\rm{ = n}}{{\\rm{u}}_{\\rm{1}}}{\\rm{ + n}}\\left( {{\\rm{n}} - {\\rm{1}}} \\right){\\rm{d}}\\]",
+        "C. \\[{{\\rm{S}}_{\\rm{n}}}{\\rm{ = }}\\frac{{{\\rm{n}}{{\\rm{u}}_{\\rm{1}}}{\\rm{ + n}}\\left( {{\\rm{n}} - {\\rm{1}}} \\right){\\rm{d}}}}{{\\rm{2}}}\\]",
+        "D. \\[{{\\rm{S}}_{\\rm{n}}}{\\rm{ = n}}{{\\rm{u}}_{\\rm{1}}}{\\rm{ + }}\\frac{{{{\\rm{n}}^{\\rm{2}}}{\\rm{d}}}}{{\\rm{2}}}\\]"
+      ],
+      "answer": "A",
+      "note": "Theo định lí ta có công thức tính tổng n số hạng đầu tiên của cấp số cộng là: \\[{{\\rm{S}}_{\\rm{n}}}{\\rm{ = }}\\frac{{{\\rm{n}}\\left[ {{\\rm{2}}{{\\rm{u}}_{\\rm{1}}}{\\rm{ + }}\\left( {{\\rm{n}} - {\\rm{1}}} \\right){\\rm{d}}} \\right]}}{{\\rm{2}}}{\\rm{ = }}\\frac{{{\\rm{2n}}{{\\rm{u}}_{\\rm{1}}}{\\rm{ + n}}\\left( {{\\rm{n}} - {\\rm{1}}} \\right){\\rm{d}}}}{{\\rm{2}}}{\\rm{ = n}}{{\\rm{u}}_{\\rm{1}}}{\\rm{ + }}\\frac{{{\\rm{n}}\\left( {{\\rm{n}} - {\\rm{1}}} \\right){\\rm{d}}}}{{\\rm{2}}}\\] Đáp án cần chọn là: A"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Dãy số nào sau đây là cấp số cộng?",
+      "options": [
+        "A. \\(\\left\\{ {\\begin{array}{*{20}{c}}{{{\\rm{u}}_{\\rm{1}}}{\\rm{ = 1}}}\\\\{{u_{{\\rm{n + 1}}}}{\\rm{ = }}{{\\rm{u}}_{\\rm{n}}}{\\rm{ + 1}},n \\ge 1}\\end{array}} \\right.\\)",
+        "B. \\(\\left\\{ {\\begin{array}{*{20}{c}}{{{\\rm{u}}_{\\rm{1}}}{\\rm{ = }} - {\\rm{1}}}\\\\{{u_{{\\rm{n + 1}}}}{\\rm{ = }} - 3{u_n},n \\ge 1}\\end{array}} \\right.\\)",
+        "C. \\(\\left\\{ {\\begin{array}{*{20}{c}}{{{\\rm{u}}_{\\rm{1}}}{\\rm{ = }} - 2}\\\\{{u_{{\\rm{n + 1}}}}{\\rm{ = }}2{u_n} + 3,n \\ge 1}\\end{array}} \\right.\\)",
+        "D. \\(\\left\\{ {\\begin{array}{*{20}{c}}{{{\\rm{u}}_{\\rm{1}}}{\\rm{ = }}\\frac{\\pi }{2}}\\\\{{u_{{\\rm{n + 1}}}}{\\rm{ = }}\\sin \\left( {\\frac{\\pi }{{\\pi - 1}}} \\right),n \\ge 1}\\end{array}} \\right.\\)"
+      ],
+      "answer": "B",
+      "note": "Dựa vào định lí ta thấy dãy số \\(\\left\\{ {\\begin{array}{*{20}{c}}{{{\\rm{u}}_{\\rm{1}}}{\\rm{ = 1}}}\\\\{{u_{{\\rm{n + 1}}}}{\\rm{ = }}{{\\rm{u}}_{\\rm{n}}}{\\rm{ + 1}},n \\ge 1}\\end{array}} \\right.\\)là cấp số cộng với công sai d = 1. Đáp án cần chọn là: B"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho cấp số cộng (u n ) với \\[{{\\rm{u}}_{\\rm{1}}}{\\rm{ = }} - {\\rm{2}}\\] và \\[{{\\rm{u}}_{\\rm{2}}}{\\rm{ = 3}}\\]. Công sai của cấp số cộng đã cho bằng:",
+      "options": [
+        "A. 5.",
+        "B. −5.",
+        "C. 1.",
+        "D. −1."
+      ],
+      "answer": "A",
+      "note": "Ta có: \\[{{\\rm{u}}_{\\rm{2}}}{\\rm{ = }}{{\\rm{u}}_{\\rm{1}}}{\\rm{ + d}} \\Leftrightarrow {\\rm{d = }}{{\\rm{u}}_{\\rm{2}}} - {{\\rm{u}}_{\\rm{1}}}{\\rm{ = 3}} - \\left( { - {\\rm{2}}} \\right){\\rm{ = 5}}\\] Đáp án cần chọn là: A"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Trong các dãy số sau, dãy nào là cấp số cộng:",
+      "options": [
+        "A. \\[{{\\rm{u}}_{\\rm{n}}}{\\rm{ = 19n}} - {\\rm{5}}\\]",
+        "B. \\[{{\\rm{u}}_{\\rm{n}}}{\\rm{ = }}{\\left( { - {\\rm{1}}} \\right)^{\\rm{n}}}{\\rm{ + 10n}}\\]",
+        "C. \\[{{\\rm{u}}_{\\rm{n}}}{\\rm{ = }}{{\\rm{n}}^{\\rm{2}}}{\\rm{ + n + 1}}\\]",
+        "D. \\[{{\\rm{u}}_{\\rm{n}}}{\\rm{ = 2}}{{\\rm{n}}^{\\rm{3}}}{\\rm{ + 1}}\\]"
+      ],
+      "answer": "A",
+      "note": "Xét đáp án A. Ta có: \\[{{\\rm{u}}_{{\\rm{n + 1}}}}{\\rm{ = 19}}\\left( {{\\rm{n + 1}}} \\right) - {\\rm{5 = 19n + 19}} - {\\rm{5 = 19n + 14}}\\] Xét hiệu: \\[{{\\rm{u}}_{{\\rm{n + 1}}}} - {{\\rm{u}}_{\\rm{n}}}{\\rm{ = }}\\left( {{\\rm{19n + 14}}} \\right) - \\left( {{\\rm{19n}} - {\\rm{5}}} \\right){\\rm{ = 19n + 14}} - {\\rm{19n + 5 = 19}}\\] Vậy dãy số là cấp số cộng có công sai d = 19 . Xét đáp án B. Ta có: \\[{{\\rm{u}}_{\\rm{1}}}{\\rm{ = }}{\\left( { - {\\rm{1}}} \\right)^{\\rm{1}}}{\\rm{ + 10}}{\\rm{.1 = 9; }}{{\\rm{u}}_{\\rm{2}}}{\\rm{ = }}{\\left( { - {\\rm{1}}} \\right)^{\\rm{2}}}{\\rm{ + 10}}{\\rm{.2 = 21 = }}{{\\rm{u}}_{\\rm{1}}}{\\rm{ + 12; }}{{\\rm{u}}_{\\rm{3}}}{\\rm{ = }}{\\left( { - {\\rm{1}}} \\right)^{\\rm{3}}}{\\rm{ + 10}}{\\rm{.3 = 29 = }}{{\\rm{u}}_{\\rm{2}}}{\\rm{ + 8}}\\]Vậy dãy số không là cấp số cộng. Xét đáp án C. Ta có: \\[{{\\rm{u}}_{\\rm{1}}}{\\rm{ = }}{{\\rm{1}}^{\\rm{2}}}{\\rm{ + 1 + 1 = 3; }}{{\\rm{u}}_{\\rm{2}}}{\\rm{ = }}{{\\rm{2}}^{\\rm{2}}}{\\rm{ + 2 + 1 = 7 = }}{{\\rm{u}}_{\\rm{1}}}{\\rm{ + 4; }}{{\\rm{u}}_{\\rm{3}}}{\\rm{ = }}{{\\rm{3}}^{\\rm{2}}}{\\rm{ + 3 + 1 = 13 = }}{{\\rm{u}}_{\\rm{2}}}{\\rm{ + 6}}\\] Vậy dãy số không là cấp số cộng. Xét đáp án D. Ta có: \\[{{\\rm{u}}_{\\rm{1}}}{\\rm{ = 2}}{\\rm{.}}{{\\rm{1}}^{\\rm{3}}}{\\rm{ + 1 = 3; }}{{\\rm{u}}_{\\rm{2}}}{\\rm{ = 2}}{\\rm{.}}{{\\rm{2}}^{\\rm{3}}}{\\rm{ + 1 = 17 = }}{{\\rm{u}}_{\\rm{1}}}{\\rm{ + 14; }}{{\\rm{u}}_{\\rm{3}}}{\\rm{ = 2}}{\\rm{.}}{{\\rm{3}}^{\\rm{3}}}{\\rm{ + 1 = 55 = }}{{\\rm{u}}_{\\rm{2}}}{\\rm{ + 38}}\\] Vậy dãy số không là cấp số cộng. Đáp án cần chọn là: A"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho cấp số cộng (u n ) có số hạng đầu u 1 = 2 và công sai d = −3. Tổng của 10 số hạng đầu tiên của cấp số cộng đã cho bằng:",
+      "options": [
+        "A. −115.",
+        "B. −130.",
+        "C. 115.",
+        "D. 130."
+      ],
+      "answer": "A",
+      "note": "\\[{{\\rm{S}}_{{\\rm{10}}}}{\\rm{ = }}\\frac{{{\\rm{10}}{\\rm{.}}\\left[ {{\\rm{2}}{{\\rm{u}}_{\\rm{1}}}{\\rm{ + 9d}}} \\right]}}{{\\rm{2}}}{\\rm{ = }}\\frac{{{\\rm{10}}{\\rm{.}}\\left[ {{\\rm{2}}{\\rm{.2 + 9}}{\\rm{.}}\\left( { - {\\rm{3}}} \\right)} \\right]}}{{\\rm{2}}}{\\rm{ = }} - {\\rm{115}}\\] Đáp án cần chọn là: A"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Cho cấp số cộng (u n ), biết: \\[{{\\rm{u}}_{\\rm{1}}}{\\rm{ = }} - {\\rm{1, }}{{\\rm{u}}_{\\rm{4}}}{\\rm{ = 8}}\\]. Lựa chọn đáp án đúng .",
+      "options": [
+        "A. d = 3",
+        "B. d = 1",
+        "C. d = – 3",
+        "D. d = – 1"
+      ],
+      "answer": "A",
+      "note": "\\[{{\\rm{u}}_{\\rm{4}}}{\\rm{ = }}{{\\rm{u}}_{\\rm{1}}} + 3{\\rm{d}} \\Leftrightarrow 8\\,\\,{\\rm{ = }} - 1 + 3{\\rm{d}} \\Leftrightarrow {\\rm{3d = 9}} \\Leftrightarrow {\\rm{d = 3}}\\] Đáp án cần chọn là: A"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho cấp số cộng (u n ), biết \\[{{\\rm{u}}_{\\rm{1}}}{\\rm{ = }} - {\\rm{5, d = 3}}\\]. Số 100 là số hạng thứ bao nhiêu?",
+      "options": [
+        "A. Số thứ 25.",
+        "B. Số thứ 26.",
+        "C. Số thứ 35.",
+        "D. Số thứ 36."
+      ],
+      "answer": "D",
+      "note": "\\[{{\\rm{u}}_{\\rm{n}}}{\\rm{ = }}{{\\rm{u}}_{\\rm{1}}}{\\rm{ + }}\\left( {{\\rm{n}} - {\\rm{1}}} \\right){\\rm{d}} \\Leftrightarrow {\\rm{100 = }} - {\\rm{5 + }}\\left( {{\\rm{n}} - {\\rm{1}}} \\right){\\rm{.3}} \\Leftrightarrow \\left( {{\\rm{n}} - {\\rm{1}}} \\right){\\rm{.3 = 105}} \\Leftrightarrow {\\rm{n}} - {\\rm{1 = 35}} \\Leftrightarrow {\\rm{n = 36}}\\] Đáp án cần chọn là: D"
+    }
+  ]
+}

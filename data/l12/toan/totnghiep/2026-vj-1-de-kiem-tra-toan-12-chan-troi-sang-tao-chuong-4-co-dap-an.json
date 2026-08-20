@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-de-kiem-tra-toan-12-chan-troi-sang-tao-chuong-4-co-dap-an",
+  "sourceId": "vietjack:1-de-kiem-tra-toan-12-chan-troi-sang-tao",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "title": "1.Đề kiểm tra Toán 12 Chân trời sáng tạo Chương 4 có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Phần 1. Trắc nghiệm nhiều phương án lựa chọn Mỗi câu hỏi thí sinh chỉ chọn một phương án. Tìm nguyên hàm của hàm số \\(f\\left( x \\right) = 2025\\sin x\\) .",
+      "options": [
+        "A. \\(\\int {2025\\sin x\\,{\\rm{d}}x} = \\sin 2025x + C\\) .",
+        "B. \\(\\int {2025\\sin x\\,{\\rm{d}}x} = {\\sin ^{2025}}x + C\\) .",
+        "C. \\(\\int {2025\\sin x\\,{\\rm{d}}x} = - 2025\\cos x + C\\) .",
+        "D. \\(\\int {2025\\sin x\\,{\\rm{d}}x} = 2025\\cos x + C\\) ."
+      ],
+      "answer": "C",
+      "note": "Chọn C Ta có \\(\\int {2025\\sin x\\,{\\rm{d}}x} = - 2025\\cos x + C\\)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Nguyên hàm \\(F\\left( x \\right)\\) của hàm số \\(f\\left( x \\right) = {e^x} + 2\\sin x\\) thỏa mãn \\(F\\left( 0 \\right) = 20\\) là:",
+      "options": [
+        "A. \\(F\\left( x \\right) = - {e^x} - 2\\cos x + 23\\) .",
+        "B. \\(F\\left( x \\right) = {e^x} - 2\\cos x + 21\\) .",
+        "C. \\(F\\left( x \\right) = {e^x} + 2\\cos x + 17\\) .",
+        "D. \\(F\\left( x \\right) = {e^x} + 2\\sin x + 19\\) ."
+      ],
+      "answer": "B",
+      "note": "Chọn B \\(F\\left( x \\right) = \\int {f\\left( x \\right){\\rm{d}}x = \\int {\\left( {{e^x} + 2\\sin x} \\right)} } \\,{\\rm{d}}x = {e^x} - 2\\cos x + C\\) Mà \\(F\\left( 0 \\right) = 20 \\Leftrightarrow {e^0} - 2\\cos 0 + C = 20 \\Leftrightarrow C = 21\\) . Vậy \\(F\\left( x \\right) = {e^x} - 2\\cos x + 21\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Biết \\(\\int\\limits_0^1 {f\\left( x \\right){\\rm{d}}x = 3} \\) và \\(\\int\\limits_0^1 {g\\left( x \\right){\\rm{d}}x = - 2} \\) . Khi đó \\[\\int\\limits_0^1 {\\left[ {f\\left( x \\right) + g\\left( x \\right)} \\right]{\\rm{d}}x} \\] bằng",
+      "options": [
+        "A. \\(1.\\)",
+        "B. \\(5.\\)",
+        "C. \\( - 1\\) .",
+        "D. \\( - 6.\\)"
+      ],
+      "answer": "A",
+      "note": "Chọn A \\[\\int\\limits_0^1 {\\left[ {f\\left( x \\right) + g\\left( x \\right)} \\right]{\\rm{d}}x} = \\int\\limits_0^1 {f\\left( x \\right){\\rm{d}}x} + \\int\\limits_0^1 {g\\left( x \\right){\\rm{d}}x} = 3 + \\left( { - 2} \\right) = 1.\\]"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hàm số \\(y = f\\left( x \\right)\\) có đạo hàm liên tục trên \\(\\left[ {0;2} \\right]\\) , \\(f\\left( 0 \\right) = 1\\) và \\(\\int\\limits_0^2 {f'\\left( x \\right){\\rm{d}}x = - 3} \\) . Tính \\(f\\left( 2 \\right).\\)",
+      "options": [
+        "A. \\(f\\left( 2 \\right) = - 4\\) .",
+        "B. \\(f\\left( 2 \\right) = - 2\\) .",
+        "C. \\(f\\left( 2 \\right) = 4\\) .",
+        "D. \\(f\\left( 2 \\right) = - 3\\) ."
+      ],
+      "answer": "B",
+      "note": "Chọn B Khối tròn xoay được tạo thành khi quay hình phẳng \\(\\left( H \\right)\\) quanh trục \\[Ox\\] có thể tích là \\(V = \\pi \\int\\limits_1^3 {{{\\left( {{x^2} - 4x} \\right)}^2}} {\\rm{d}}x = \\frac{{406}}{{15}}\\pi \\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hình phẳng \\(\\left( H \\right)\\) giới hạn bởi đồ thị hàm số \\[y = {x^2} - 4x\\] , trục hoành và hai đường thẳng \\[x = 1\\] và \\[x = 3\\] . Khối tròn xoay được tạo thành khi quay hình phẳng \\(\\left( H \\right)\\) quanh trục \\[Ox\\] có thể tích là",
+      "options": [
+        "A. \\(V = \\frac{{406}}{{15}}\\) .",
+        "B. \\(V = \\frac{{406}}{{15}}\\pi \\) .",
+        "C. \\(V = \\frac{{22}}{3}\\pi \\) .",
+        "D. D . \\(V = \\frac{{512}}{{15}}\\pi \\) ."
+      ],
+      "answer": "B",
+      "note": "Chọn B Khối tròn xoay được tạo thành khi quay hình phẳng \\(\\left( H \\right)\\) quanh trục \\[Ox\\] có thể tích là \\(V = \\pi \\int\\limits_1^3 {{{\\left( {{x^2} - 4x} \\right)}^2}} {\\rm{d}}x = \\frac{{406}}{{15}}\\pi \\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Diện tích hình phẳng được giới hạn bởi đồ thị hàm số \\(y = f\\left( x \\right)\\) , trục hoành, trục tung và đường thẳng \\(x = a\\) , \\(a > 0\\) (phần tô đậm trong hình vẽ) được tính theo công thức",
+      "options": [
+        "A. \\(S = \\int\\limits_0^c {f\\left( x \\right){\\rm{d}}x} - \\int\\limits_a^c {f\\left( x \\right){\\rm{d}}x} \\) .",
+        "B. \\(S = - \\int\\limits_0^a {f\\left( x \\right){\\rm{d}}x} \\) .",
+        "C. \\(S = - \\int\\limits_0^c {f\\left( x \\right){\\rm{d}}x} + \\int\\limits_a^c {f\\left( x \\right){\\rm{d}}x} \\) .",
+        "D. \\(S = \\int\\limits_0^c {f\\left( x \\right){\\rm{d}}x} + \\int\\limits_a^c {f\\left( x \\right){\\rm{d}}x} \\) ."
+      ],
+      "answer": "A",
+      "note": "Chọn A Diện tích hình phẳng: \\[S = \\int\\limits_0^a {\\left| {f\\left( x \\right)} \\right|{\\rm{d}}x} = \\int\\limits_0^c {\\left| {f\\left( x \\right)} \\right|{\\rm{d}}x} + \\int\\limits_c^a {\\left| {f\\left( x \\right)} \\right|{\\rm{d}}x} = \\int\\limits_0^c {f\\left( x \\right){\\rm{d}}x} - \\int\\limits_a^c {f\\left( x \\right){\\rm{d}}x} \\]."
+    }
+  ]
+}

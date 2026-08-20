@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-1-bo-4-de-thi-giua-ki-2-tin-hoc-11-nam-2025-2026-co-dap-an",
+  "sourceId": "vietjack:1-bo-4-de-thi-giua-ki-2-tin-hoc-11-nam-2",
+  "grade": "l11",
+  "subjectSlug": "tin",
+  "examType": "giuaki2",
+  "year": 2026,
+  "title": "1.Bộ 4 đề thi giữa kì 2 Tin học 11 năm 2025-2026 (có đáp án)",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Học sinh trả lời từ câu 1 đến câu 15. Mỗi câu hỏi chỉ có một phương án. (5đ) Để khai báo khoá ngoài, nháy vào thẻ nào trong hình bên dưới?",
+      "options": [
+        "A. Nháy vào thẻ Foreign keys.",
+        "B. Nháy vào thẻ Check containts.",
+        "C. Nháy vào thẻ Indexes.",
+        "D. Nháy vào thẻ Basic."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là A."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Để khai báo khoá chính cho trường, ta thực hiện:",
+      "options": [
+        "A. Nháy chuột phải vào tên trường muốn khai báo khoá chính, chọn Add column, chọn KEY.",
+        "B. Nháy chuột phải vào tên trường muốn khai báo khoá chính, chọn Add column, chọn PRIMARY.",
+        "C. Nháy chuột phải vào tên trường muốn khai báo khoá chính, chọn Create new index, chọn PRIMARY.",
+        "D. Nháy chuột phải vào tên trường muốn khai báo khoá chính, chọn Create new index, chọn KEY."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là C."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Tổ hợp phím nào được dùng để xoá các hàng dữ liệu đã được đánh dấu chọn trong HeidiSQL?",
+      "options": [
+        "A. Ctrl+Delete",
+        "B. Alt+D",
+        "C. Shift+Delete",
+        "D. Ctrl+X"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là A."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Quan sát giao diện cửa sổ làm việc của HeidiSQL, cho biết chức năng các vùng được đánh số (1), (2), (3)?",
+      "options": [
+        "A. Vùng (1) là vùng danh sách các CSDL đã có, vùng (2) là vùng làm việc chính, vùng (3) là vùng gõ câu truy vấn.",
+        "B. Vùng (1) là vùng gõ câu truy vấn, vùng (2) là vùng danh sách các CSDL đã có, vùng (3) là vùng làm việc chính.",
+        "C. Vùng (1) là vùng danh sách các CSDL đã có, vùng (2) là vùng gõ câu truy vấn, vùng (3) là vùng làm việc chính.",
+        "D. Vùng (1) là vùng làm việc chính, vùng (2) là vùng gõ câu truy vấn, vùng (3) là vùng danh sách các CSDL đã có."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là C."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Để tìm tất cả nhạc sĩ có tên chứa chữ \"H\" (như \"Hoàng Hiệp\" hay \"Hoàng Thi Thơ\"), bạn nên thiết lập bộ lọc nhanh nào cho cột `tenNhacsi`?",
+      "options": [
+        "A. LIKE \"%H%\"",
+        "B. LIKE \"H%\"",
+        "C. LIKE \"%H\"",
+        "D. = \"H\""
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là A."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Thông báo này xuất hiện khi nào?",
+      "options": [
+        "A. Xoá một Cơ sở dữ liệu.",
+        "B. Xoá một dòng dữ liệu.",
+        "C. Xoá một bảng dữ liệu.",
+        "D. Xoá một cột dữ liệu."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là B."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Việc ứng dụng CSDL trong quản lí sẽ hạn chế được:",
+      "options": [
+        "A. Kịp thời.",
+        "B. Tiện lợi.",
+        "C. Nhanh chóng.",
+        "D. Sai sót."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là D."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Chọn câu trả lời đúng nhất. Tại sao phải tổ chức lại bảng dữ liệu gồm nhiều bảng thay vì ít bảng hơn?",
+      "options": [
+        "A. Hạn chế dữ liệu bị trùng lặp.",
+        "B. Để dễ nhập dữ liệu hơn.",
+        "C. Để nhìn đẹp mắt hơn.",
+        "D. Để ngắn gọn và dễ hiểu."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là A."
+    }
+  ]
+}

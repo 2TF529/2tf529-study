@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-12-chan-troi-sang-tao-bai-f11-co-dap",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-12-chan-tro",
+  "grade": "l12",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 12 Chân trời sáng tạo Bài F11 có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Để định kiểu màu nền xen kẽ cho các hàng trong bảng, thuộc tính CSS nào cần sử dụng?",
+      "options": [
+        "A. border-collapse",
+        "B. nth-child",
+        "C. border-color",
+        "D. background-color"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Để định kiểu màu nền xen kẽ cho các hàng chẵn và lẻ trong bảng, bạn cần sử dụng thuộc tính nth-child để chọn các hàng và áp dụng màu nền cho chúng."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Để hiển thị đường viền đơn cho bảng, thuộc tính CSS nào cần sử dụng?",
+      "options": [
+        "A. border-style",
+        "B. border-color",
+        "C. border-collapse",
+        "D. border-width"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Để hiển thị đường viền đơn cho bảng, bạn sử dụng thuộc tính border-collapse với giá trị collapse."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Để đặt màu nền cho hàng tiêu đề trong bảng thành màu xanh và chữ trắng, thuộc tính nào cần sử dụng?",
+      "options": [
+        "A. background-color và color",
+        "B. border-color và text-color",
+        "C. padding",
+        "D. text-align và border-width"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Để đặt màu nền cho hàng tiêu đề thành màu xanh và chữ trắng, bạn sử dụng thuộc tính background-color để đặt màu nền và color để đặt màu chữ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Để đặt phần tử &lt;div&gt; nằm bên trái và bên phải của trang web, thuộc tính CSS nào cần sử dụng?",
+      "options": [
+        "A. margin",
+        "B. padding",
+        "C. float",
+        "D. position"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Để đặt phần tử &lt;div&gt; bên trái hoặc bên phải của trang web, bạn sử dụng thuộc tính float với giá trị left hoặc right."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Để khắc phục lỗi bố cục khi chiều cao của hai phần tử &lt;div&gt; không bằng nhau, thuộc tính CSS nào cần sử dụng?",
+      "options": [
+        "A. float",
+        "B. margin",
+        "C. clear",
+        "D. overflow"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Để khắc phục lỗi bố cục khi chiều cao của hai phần tử &lt;div&gt; không bằng nhau và có phần tử khác bên dưới, bạn sử dụng giá trị both cho thuộc tính clear để tạo vùng ngăn cách với phần tử bên dưới."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Để định kiểu cho trạng thái hover của các hàng trong bảng, thuộc tính CSS nào cần sử dụng?",
+      "options": [
+        "A. tr:nth-child()",
+        "B. tr:hover",
+        "C. tr:active",
+        "D. tr:focus"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Để định kiểu cho trạng thái hover của các hàng trong bảng, bạn sử dụng lớp giả tr:hover."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-10-ket-noi-tri-thuc-bai-20-co-dap-an",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-10-ket-noi-",
+  "grade": "l10",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu trắc nghiệm Tin học 10 Kết nối tri thức Bài 20 có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Số công việc cần phải lặp với số lần xác định? 1) Đếm số học sinh của lớp. 2) Đếm số chia hết cho 5 trong đoạn từ 10 tới 100. 3) Đọc tên lần lượt từng học sinh của một lớp có 30 em. 4) Chạy 5 vòng sân bóng. 5) Tính tổng các số có 2 chữ số.",
+      "options": [
+        "A. 3.",
+        "B. 4.",
+        "C. 5.",
+        "D. 2."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Các công việc cần phải lặp với số lần xác định: 2, 3, 4, 5."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Biến chạy trong vòng lặp for i in range(&lt;giá trị cuối&gt;) tăng lên mấy đơn vị sau mỗi lần lặp?",
+      "options": [
+        "A. 1.",
+        "B. 2.",
+        "C. 0.",
+        "D. Tất cả đều sai."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Sau mỗi lần lặp biến chạy sẽ tăng thêm 1 đơn vị."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho các câu lệnh sau , hãy chỉ ra câu lệnh đúng:",
+      "options": [
+        "A. x = 0 for i in range(10): x = x + 1",
+        "B. x = 0 for i in range(10): x:= x + 1",
+        "C. x = 0 for i in range(10) x = x + 1",
+        "D. x:= 0 for i in range(10): x = x + 1"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Lệnh gán không có dấu “:”."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Trong Python, câu lệnh nào dưới đây được viết đúng?",
+      "options": [
+        "A. for i in range(10): prin(“A”).",
+        "B. for i in range(10): print(“A”).",
+        "C. for i in range(10): print(A).",
+        "D. for i in range(10) print(“A”)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Sau câu lệnh for có dấu hai chấm “:” và in ra xâu kí tự cần có cặp dấu nháy kép “”."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Trong câu lệnh lặp: j=0 for j in range(10): j = j + 2 print(j) Khi kết thúc câu lệnh trên, câu lệnh print(j) được thực hiện bao nhiêu lần?",
+      "options": [
+        "A. 10 lần.",
+        "B. 1 lần.",
+        "C. 5 lần.",
+        "D. Không thực hiện."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Lệnh print() không nằm trong khối lệnh lặp nên chỉ được thực hiện 1 lần."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong câu lệnh lặp: j = 0 for j in range(10): print(\"A\") Khi kết thúc câu lệnh trên lệnh có bao nhiêu chữ “A” xuất hiện?",
+      "options": [
+        "A. 10 lần.",
+        "B. 1 lần.",
+        "C. 5 lần.",
+        "D. Không thực hiện."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Lệnh print nằm trong vòng lặp nên sẽ xuất hiện 10 lần theo giá trị của j từ 0 tới 9."
+    }
+  ]
+}

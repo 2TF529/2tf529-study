@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-10-bai-tap-nhan-biet-va-chung-minh-duong-thang-vuong-goc-voi-ma",
+  "sourceId": "vietjack:1-10-bai-tap-nhan-biet-va-chung-minh-duo",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.10 Bài tập Nhận biết và chứng minh đường thẳng vuông góc với mặt phẳng (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho hình chóp S.ABC có đáy ABC là tam giác cân tại A, điểm I và H lần lượt là trung điểm của AB và BC. Trên đoạn CI và SA lần lượt lấy hai điểm M, N sao cho MC = 2MI, NA = 2NS. Biết SH ⊥ (ABC). Khẳng định nào sau đây là đúng?",
+      "options": [
+        "A. SN vuông góc với AC;",
+        "B. MN vuông góc với AB;",
+        "C. SH vuông góc với NA;",
+        "D. BC vuông góc với AB."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Do điểm M thuộc đường trung tuyến CI và MC = 2MI M là trọng tâm tam giác ABC nên AH giao CI tại M Ta có: N A N S = M A M H = 2 Do đó, MN // SH Mặt khác, SH ⊥ (ABC) nên MN ⊥ (ABC). Suy ra MN vuông góc với AB."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hình chóp S.ABC, các tam giác ABC và SBC là các tam giác nhọn. Gọi H và K lần lượt là trực tâm của tam giác ABC và SBC. Khẳng định nào sau đây là đúng?",
+      "options": [
+        "A. BC vuông góc với (SAM);",
+        "B. SK vuông góc với (SMC);",
+        "C. AH vuông góc với (SBM);",
+        "D. BC vuông góc với (ABC)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Giả sử AH vuông góc với BC tại M Ta có: BC vuông góc với AM BC vuông góc với SA Do đó, BC ⊥ (SAM)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho hình chóp S.ABC, các tam giác ABC và SBC là các tam giác nhọn. Gọi H và K lần lượt là trực tâm của tam giác ABC và SBC. Khẳng định nào sau đây là đúng?",
+      "options": [
+        "A. SC ⊥ (SAM);",
+        "B. SC ⊥ (MAK);",
+        "C. SC ⊥ (BHK);",
+        "D. SC ⊥ (BHA)."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Do H là trực tâm của tam giác ABC nên BH vuông góc với AC Mặt khác, SA vuông góc với (ABC) nên BH vuông góc với SA Do đó, BH vuông góc với (SAC) ⇒ BH vuông góc với SC Lại có: BK vuông góc với SC Do đó, SC vuông góc với (BHK)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hình chóp S.ABCD có đáy là hình vuông cạnh a. Mặt bên SAB là tam giác đều, SCD là tam giác vuông cân đỉnh S. Gọi I, J lần lượt là trung điểm của AB và CD. Gọi H là hình chiếu của S lên IJ, đường thẳng SH vuông góc với mặt phẳng nào sau đây?",
+      "options": [
+        "A. (SAB);",
+        "B. (SCD);",
+        "C. (ABCD)",
+        "D. (SAD)."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có: ∆SAB đều cạnh a nên S I = a 3 2 Tứ giác IBCJ là hình chữ nhật nên IJ = BC = a ∆SCD là tam giác vuông cân đỉnh S ⇒ SJ = C D 2 = a 2 Do đó, SJ 2 + SI 2 = IJ 2 = a 2 ⇒ ∆SIJ vuông tại S. Do ∆SCD cân tại S nên SJ ⊥ CD Do AB // CD ⇒ SJ ⊥ (SAB) Chứng minh tương tự ta có SI ⊥ (SCD) ⇒ SI ⊥ CD Mà CD ⊥ IJ ⇒ CD ⊥ (SIJ) ⇒ CD ⊥ SH Do SH ⊥ IJ ⇒ SH ⊥ (ABCD)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Khẳng định nào sau đây là sai?",
+      "options": [
+        "A. Nếu d ⊥ (α) thì d vuông góc với hai đường thẳng trong (α);",
+        "B. Nếu đường thẳng d vuông góc với hai đường thẳng nằm trong trong (α) thì d ⊥ (α);",
+        "C. Nếu đường thẳng d vuông góc với hai đường thẳng cắt nhau nằm trong (α) thì d vuông góc mọi đường thẳng nằm trong (α);",
+        "D. Nếu d ⊥ (α) và đường thẳng a // (α) thì d ⊥ α."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Đường thẳng d vuông góc với hai đường thẳng cắt nhau nằm trong (α) thì d ⊥ (α), từ đó suy ra d vuông góc mọi đường thẳng nằm trong (α). Vậy đáp án B sai, do thiếu yếu tố cắt nhau."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho hình chóp S.ABCD có SA ⊥ (ABCD) và tam giác ABC vuông ở B, AH là đường cao của ∆SAB. Khẳng định nào sau đây sai?",
+      "options": [
+        "A. SA ⊥ (ABC);",
+        "B. BC ⊥ (SAB);",
+        "C. AH ⊥ (SBC);",
+        "D. AC ⊥ (SAB)."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Do SA ⊥ (ABCD) nên SA ⊥ (ABC) Do tam giác ABC vuông tại B nên BC ⊥ AB, do SA ⊥ (ABCD) nên BC ⊥ SA. Do đó, BC ⊥ (SAB) Do BC ⊥ (SAB) nên AH ⊥ BC, do AH là đường cao nên AH ⊥ SB, do đó, AH ⊥ (SBC). Vậy A, B, C đúng. Do đó đáp án D là sai."
+    }
+  ]
+}

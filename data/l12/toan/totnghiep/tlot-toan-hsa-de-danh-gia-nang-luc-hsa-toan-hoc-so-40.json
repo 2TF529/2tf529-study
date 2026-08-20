@@ -1,0 +1,404 @@
+{
+  "id": "tlot-toan-hsa-de-danh-gia-nang-luc-hsa-toan-hoc-so-40",
+  "title": "Đề thi thử ĐGNL HSA Toán học (De Danh Gia Nang Luc HSA Toán Học So 40)",
+  "grade": "l12",
+  "examType": "totnghiep",
+  "source": "tailieuonthi.org",
+  "year": 2025,
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "<p>Trong hệ trục tọa độ Oxyz cho trước (đơn vị trên hệ trục tọa độ là mét), một trạm thu phát sóng 5G<br>có bán kính vùng phủ sóng của trạm ở ngưỡng 1000 m được đặt ở vị trí I (100;50;550 ) . Gọi a, b lần<br>lượt là giá trị nguyên lớn nhất và giá trị nguyên nhỏ nhất của m để một người dùng điện thoại ở vị<br>trí M ( m - 120; m + 80; m ) có thể sử dụng dịch vụ của trạm nói trên. Tính P = a + 2b .</p>",
+      "answer": "A",
+      "options": [
+        "A. $P=143$",
+        "B. $P=134$",
+        "C. $P=154$",
+        "D. $P=123$"
+      ],
+      "explanation": "<p>Phương pháp giải<br>Sử dụng khoảng cách giữa hai điểm trong không gian.<br>Lời giải<br>Để một người dùng điện thoại ở vị trí M ( m - 120; m + 170; m ) có thể sử dụng dịch vụ của trạm thu<br>phát sóng 5G có bán kính vùng phủ sóng của trạm ở ngưỡng 1000 m được đặt ở vị trí I (100;50;550 )<br>thì $IM\\le 1000$<br>Û IM 2 ≤ 10002</p><p>Û (m - 120 - 100) 2 + ( m + 170 - 50) 2 + (m - 550) 2 ≤ 1000 2</p><p>Û (m - 220)2 + (m - 120) 2 + (m - 550) 2 ≤ 10002</p><p>Û 3m 2 - \\$1300m-634700\\le 0$<br>Û -291, 77 ≤ $m\\le 725,11$</p><p>Ta có: a, b lần lượt là giá trị nguyên lớn nhất và giá trị nguyên nhỏ nhất của m<br>Nên $a=725$ và $b=-291$ .<br>Vậy P = a + \\$2b=725$ + 2. ( -291) = 143 .</p>"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "<p>H S A</p><p>x+7<br>Có bao nhiêu giá trị nguyên m > -50 để đồ thị hàm số y = có đúng hai đường tiệm cận?<br> x + 2 x + 2m<br> 2</p>",
+      "answer": "D",
+      "options": [
+        "A. 23",
+        "B. 25",
+        "C. 31",
+        "D. 32"
+      ],
+      "explanation": "<p>Phương pháp giải<br>Áp dụng kiến thức về các đường tiệm cận của đồ thị hàm số.<br>Lời giải<br> ì $x\\ge -7$<br>Hàm số xác định khi và chỉ khi: í 2<br> î x + 2 x + \\$2m\\ne 0$</p><p>æ x+7 ö<br>Ta có lim y = lim çç ÷ = 0 Þ $y=0$ là tiệm cận ngang của đồ thị hàm số.<br> x ®+∞ x ®+∞ x 2 + 2 x + 2 m ÷<br> è ø<br>Hàm số không có tiệm cận xiên.<br>Suy ra để hàm số có đúng hai đường tiệm cận thì phương trình x 2 + 2 x + \\$2m=0$ có đúng 1 nghiệm<br>lớn hơn hoặc bằng -7 (2)<br> 1<br>Xét (1): x 2 + 2 x + \\$2m=0$ Û m = - x 2 - x<br> 2<br> 1<br>Đặt $f(x)$ = - x 2 - x<br> 2<br>Để phương trình x 2 + 2 x + \\$2m=0$ có đúng 1 nghiệm lớn hơn hoặc bằng -7 thì đường thẳng y = m<br>giao đồ thị hàm số $f(x)$ tại đúng 1 điểm có hoành độ lớn hơn hoặc bằng -7 (2)</p><p>Ta có: f ¢ ( x ) = - x - 1</p><p>f ¢ ( x ) = 0 Þ $x=-1$</p><p>Ta có bảng biến thiên của hàm số $f(x)$ :<br> H S A</p><p>Dựa vào bảng biến thiên, suy ra (2) Û $m\\le -17,5$<br>Mà m > -50, m Î Z<br>Þ m Î -49; -48; -47;¼; -18</p><p>Vậy có<br> ( -18) - ( -49 ) + 1 = 32 giá trị m thỏa mãn ycbt.<br> 1</p>"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "<p>Cho hàm số y = x 4 - 2 ( m - 3 ) x 2 + 2m - 1 . Có bao nhiêu giá trị nguyên m Î  -2025; 2025 để hàm số đã<br>cho có ba điểm cực trị và các cực trị đều mang giá trị âm?</p>",
+      "answer": "A",
+      "options": [
+        "A. 0",
+        "B. 5",
+        "C. 8",
+        "D. 10"
+      ],
+      "explanation": "<p>Phương pháp giải<br>Sử dụng kiến thức về cực trị của hàm số.<br>Lời giải<br> H S A</p><p>Ta có: y¢ = 4 x3 - 4 ( m - 3) x</p><p>éx = 0<br>y¢ = 0 Û 4 x 3 - 4 ( m - 3) $x=0$ Û 4 x éë x 2 - ( m - 3) ùû = 0 Û ê 2<br> ëx = m - 3<br>Để hàm số có 3 cực trị thì m - 3 > 0 Û m > 3 (1)<br>Khi đó các điểm cực trị của hàm số là $x=0$; x = m - 3; x = - m - 3 .<br>Để các giá trị cực trị của hàm số đều mang giá trị âm thì:<br>ì<br>ï y (0) 4 + 6<br> î<br> 1<br>Ûm< (2)<br> 2<br>Kết hợp (1) và (2) ta được m ÎÆ<br>Vậy không có giá trị nào của m thỏa mãn ycbt.</p>"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "<p>Một khối lập phương có độ dài cạnh 2 cm là được chia thành 8 khối lập phương cạnh 1 cm. Hỏi có<br>bao nhiêu tam giác được tạo thành từ các đỉnh của khối lập phương cạnh 1 cm?</p>",
+      "answer": "B",
+      "options": [
+        "A. 2898",
+        "B. 2876",
+        "C. 2915",
+        "D. 2012"
+      ],
+      "explanation": "<p>Phương pháp giải<br>Để tạo ra được một tam giác ta cần ba điểm phân biệt không thẳng hàng.<br> H S A</p><p>Lời giải</p><p>Chia khối lập phương cạnh 2 cm thành 8 khối lập phương cạnh 1 cm ta có tất cả 27 điểm.<br>Chọn 3 điểm bất kì trong 27 điểm ta có C273 cách.<br>Có tất cả số bộ 3 điểm thẳng hàng là 8.2 + 6.2 + 4.2 + 4 + 3 + 2 + 2 + 2 = 49 .<br>Vậy có C273 - 49 = 2876 tam giác.</p>"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "<p>Phương trình log 4 ( x + 1) 2 + 2 = log 2 4 - x + log 8 (4 + x)3 có bao nhiêu nghiệm?</p>",
+      "answer": "C",
+      "options": [
+        "A. Vô nghiệm",
+        "B. Một nghiệm",
+        "C. Hai nghiệm",
+        "D. Ba nghiệm"
+      ],
+      "explanation": "<p>Phương pháp giải<br>Sử dụng kiến thức về biến đổi phương trình logarit<br>Lời giải<br>Điều kiện: -4 < x < 4 và $x\\ne -1$ .<br>Ta có log 4 ( x + 1) 2 + 2 = log 2 4 - x + log 8 (4 + x)3</p><p>Û log 2 ( 4 x + 1 ) = log 2 éë( 4 - x )( 4 + x ) ùû<br> H S A</p><p>é 4 ( x + 1) = 16 - x 2 é x 2 + \\$4x-12=0$<br>Û \\$4x+1=16$ - x Û ê2<br> Ûê 2<br> êë 4 ( x + 1) = x - 16<br> 2<br> ë x - \\$4x-20=0$</p><p>éx = 2<br> ê $x=-6$<br>Û êê .<br> $x=2$+2 6<br> ê<br> êë $x=2$ - 2 6</p><p>Đối chiếu điều kiện, phương trình đã cho có hai nghiệm $x=2$ và $x=2$ - 2 6 .</p>"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "<p>Cho hàm số y = $f(x)$ có bảng biến thiên như sau. Hỏi mệnh đề nào sau đây đúng?</p>",
+      "answer": "A",
+      "options": [
+        "A. Giá trị cực tiểu của hàm số bằng 4",
+        "B. Hàm số đồng biến trên $(-3;1)$ \\ -1",
+        "C. Cực đại của hàm số là -2",
+        "D. max $y=-2$ (1:+ \\infty )"
+      ],
+      "explanation": "<p>Phương pháp giải<br>Sử dụng các kiến thức sự biến thiên của một hàm số.<br>Lời giải<br>B sai vì không sử dụng cách viết tập hợp không liên tục với khoảng biến thiên.<br>C sai vì không phân biệt là điểm cực đại hay giá trị cực đại.<br>D sai vì trên khoảng (1; +∞ ) hàm số không có GTLN.</p>"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "<p>H S A</p><p>Giá dầu hôm nay là 81 USD. Giả sử giá dầu ngày mai giảm 10% và ngày kia tăng 10% (sự thay đổi<br>tính theo giá dầu của ngày hôm trước đó). Hỏi giá dầu thô của ngày kia là bao nhiêu?</p>",
+      "answer": "C",
+      "options": [
+        "A. 81 USD",
+        "B. 80 USD",
+        "C. 80,19 USD",
+        "D. 81,19 USD"
+      ],
+      "explanation": "<p>Phương pháp giải<br>Sử dụng kiến thức liên quan đến tăng, giảm phần trăm<br>Lời giải<br>Giá dầu của ngày mai là 81. (100% - 10% ) = 72,9 USD.</p><p>Già dầu của ngày kia là 72,9. (100% + 10% ) = 80,19 USD.</p>"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "<p>æ æ æ x2 ööö<br>Tập xác định của hàm số $f(x)$ = log 4 ç log 5 çç log 3 ç x - - 77 \\div \\div \\div \\div chứa bao nhiêu phần tử nguyên?<br> ç è 324 ø ø \\div ø<br> è è</p>",
+      "answer": "C",
+      "options": [
+        "A. 37",
+        "B. 36",
+        "C. 35",
+        "D. Vô số"
+      ],
+      "explanation": "<p>Phương pháp giải<br>Hàm số log a $f(x)$ (a > 0, $a\\ne 1$) xác định khi và chỉ khi $f(x)$ > 0 .</p><p>Lời giải<br> æ æ x2 öö<br>Hàm số xác định khi log 5 çç log3 ç x - - 77 ÷ ÷÷ > 0<br> è è 324 øø</p><p>æ x2 ö<br>Û log 3 ç x - - 77 ÷ > 1<br> è 324 ø</p><p>x2<br>Û x- - 77 > 3<br> 324<br> x2<br>Û- + x - 80 > 0<br> 324<br>Û 144 < x < 180<br>Lại có x Î Z Þ x Î 145;146;147;¼;179</p><p>179 - 145<br>Vậy số phần tử nguyên của tập xác định là + 1 = 35 .<br> 1</p>"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "content": "<p>Cho hình chóp S . ABCD có đáy là hình chữ nhật cạnh $AB=2$ AD = 2a . Tam giác SAB đều và nằm<br> H S A</p><p>trong mặt phẳng vuông góc với đáy ( ABCD ) . Tính khoảng cách từ A đến mặt phẳng ( SBD ) .</p><p>a a 3 a 3</p>",
+      "answer": null,
+      "options": [
+        "A. a",
+        "B. 2 4 2"
+      ],
+      "explanation": "<p>Phương pháp giải<br>Sử dụng tỉ lệ khoảng cách<br>Lời giải</p><p>Gọi I là trung điểm của AB Þ SI ^ AB .<br> ì SI ^ AB<br> ï<br>Ta có: í( SAB ) ^ ( ABCD )( gt ) Þ SI ^ ( ABCD ) .<br> ï( SAB ) Ç ( ABCD ) = AB<br> î</p><p>Xét DSAB đều có cạnh bằng 2a Þ SI = a 3<br>Kẻ AK ^ BD tại K . Ta xét DBAD có:<br> 1 1 1 1 1 5 2a 5<br> 2<br> = 2<br> + 2<br> = 2 + 2 = 2 Þ AK = .<br>AK AB AD 4a a 4a 5</p><p>1 5a<br>Kẻ JI ^ BD tại J Þ JI / / AK Þ JI = AK = . Ta có: BD ^ SI Þ BD ^ ( SJI ) .<br> 2 5</p><p>Kẻ HI ^ SJ tại H Þ IH ^ ( SBD ) tại H Þ d ( I ; ( SBD ) ) = IH .</p><p>1 1 1 5 1 16 a 3<br>Xét ΔSJI có: 2<br> = 2 + 2 = 2 + 2 = 2 Þ HI = .<br> HI JI SI a 3a 3a 4<br> H S A</p><p>Do I là trung điểm của AB nên:<br>d ( A; ( SBD ) ) AB a 3<br> = = 2 Þ d ( A; ( SBD ) ) = 2d ( I ; ( SBD ) ) = .<br> d ( I ; ( SBD ) ) AI 2</p>"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "content": "<p>Cho hàm số y = $f(x)$ có đạo hàm f ¢ ( x ) có đồ thị như hình vẽ bên.</p><p>1<br>Số điểm cực đại của hàm số $g(x)$ = $f(x)$ - x3 là<br> 9</p>",
+      "answer": "A",
+      "options": [
+        "A. 1",
+        "B. 2",
+        "C. 3",
+        "D. 4"
+      ],
+      "explanation": "<p>Phương pháp giải<br>Sử dụng tương giao hai đồ thị hàm số để tìm cực trị hàm hợp<br>Lời giải<br> 1<br>Ta có g ¢ ( x ) = f ¢ ( x ) - x 2 .<br> 3<br> 1 2<br>g¢ ( x) = 0 Û f ¢( x) = x . (1)<br> 3<br> 1 æ 1ö æ 1ö æ 4ö<br>Vẽ parabol ( P ) : y = x 2 . Ta thấy ( P ) đi qua các điểm ç -1; ÷ , $(0;0)$ , ç1; ÷ , ç 2; ÷ , $(3;3)$ .<br> 3 3 è 3<br> ø è 3<br> ø è ø</p><p>Parabol này cắt đồ thị y = f ¢ ( x ) tại các điểm có hoành độ lần lượt là a Î $(-1;0)$ , b Î $(1;2)$ và<br> H S A</p><p>c Î ( 2; +∞ ) . Suy ra (1) có các nghiệm là: x = a, x = b, x = c .</p><p>1<br>Bảng biến thiên của hàm $g(x)$ = $f(x)$ - x3 như sau:<br> 9</p><p>Từ bảng biến thiên ta thấy hàm số đã cho có một điểm cực đại.</p><p>Dựa vào thông tin sau đây và trả lời các câu hỏi từ câu 16 đến câu 17:<br>Một cuộc thi có 3 vòng. Vòng 1 lấy 90% thí sinh, vòng 2 lấy 80% thí sinh đã qua vòng 1, vòng 3 lấy<br>90% thí sinh của vòng 2. Biết rằng khả năng của các thí sinh là như nhau.</p>"
+    },
+    {
+      "id": 11,
+      "type": "single",
+      "content": "<p>Xác suất để một thí sinh lọt qua cả ba vòng là</p>",
+      "answer": "B",
+      "options": [
+        "A. 0,684",
+        "B. 0,648",
+        "C. 0,468",
+        "D. 0,846"
+      ],
+      "explanation": "<p>Phương pháp giải<br>Sử dụng kiến thức về xác suất có điều kiện.<br>Lời giải<br> H S A</p><p>Gọi A1 là biến cố \"Thí sinh qua vòng 1\"<br>A2 là biến cố \"Thí sinh qua vòng 2\"</p><p>A3 là biến cố \"Thí sinh qua vòng 3\"</p><p>B là biến cố \"Thí sinh vượt qua 3 vòng thi\"</p><p>Ta có P ( B ) = P ( A1 A2 A3 ) = P ( A1 ) P ( A2 ∣ A1 ) P ( A3 ∣ A1 A2 )</p><p>9 8 9<br>= . . = 64,8% = 0, 648<br> 10 10 10</p>"
+    },
+    {
+      "id": 12,
+      "type": "single",
+      "content": "<p>Xác suất để một thí sinh bị loại ở vòng 2 nếu biết rằng thí sinh đó bị loại là</p>",
+      "answer": "A",
+      "options": [
+        "A. 0,511",
+        "B. 0,512",
+        "C. 0,513",
+        "D. 0,514"
+      ],
+      "explanation": "<p>Phương pháp giái<br>Sử dụng kiến thức về xác suất có điều kiện.<br>Lời giải</p><p>( )<br>Thí sinh bị loại với xác suất $PB=1$ - P ( B ) = 0,352 .</p><p>Theo công thức xác suất có điều kiện:</p><p>(<br> P A1 A2 B) = P ( A ) P ( A ∣ A ) P ( B∣ A A )<br> (<br>P A1 A2 ∣ B = ) P ( B)<br> 1 2</p><p>P ( B)<br> 1 1 2</p><p>Theo giả thiết:<br>P ( A1 ) = 0,9</p><p>( )<br>P A2 ∣ A1 = 1 - P ( A2 ∣ A1 ) = 1 - 0,8 = 0, 2</p><p>( )<br>P B ∣ A1 A2 = 1 (vì A1 A2 là biến cố đã bị loại ở vòng 2 nên đã bị loại với xác suất 1)</p><p>Thay các giả thiết trên vào (1) ta có:</p><p>(<br>P A1 A2 ∣ B = ) 0,9.0,<br> 0, 352<br> 2<br> = 0,511 .<br> H S A</p>"
+    },
+    {
+      "id": 13,
+      "type": "single",
+      "content": "<p>1<br>Tìm họ nguyên hàm của hàm số y = x 2 - 3x + .<br> x<br> x 3 3x 1 x3 1</p>",
+      "answer": "C",
+      "options": [
+        "A. - - 2 + C, C Î R",
+        "B. - 3x + 2 + C , C Î R 3 ln3 x 3 x x 3 3x x3 3x",
+        "C. - + ln x + C , C Î R",
+        "D. - - ln x + C , C Î R 3 ln3 3 ln3"
+      ],
+      "explanation": "<p>Phương pháp giải<br>Sử dụng công thức nguyên hàm của các hàm cơ bản.<br>Lời giải<br> æ 1ö x3 3x<br>Ta có: ò ç x 2 - 3x + ÷ dx = - + ln x + C , C Î R<br> è x ø3 ln3</p>"
+    },
+    {
+      "id": 14,
+      "type": "single",
+      "content": "<p>p<br>Cho hàm số y = $f(x)$ có f ( 0 ) = 0 và f ¢ ( x ) = sin x - cos x - 4sin x, \"x Î R . Tính I = ò 16 $f(x)$ dx .<br> 8 8 6</p><p>0</p>",
+      "answer": "D",
+      "options": [
+        "A. I = 10p 2",
+        "B. I = 160p",
+        "C. I = 16p 2",
+        "D. I = -10p 2"
+      ],
+      "explanation": "<p>Phương pháp giải<br>Sử dụng công thức lượng giác để đưa về hàm số lượng giác bậc nhất. Áp dụng tính nguyên hàm của<br>hàm số lượng giác.<br>Lời giải<br>Ta có: sin 8 x - cos8 x - 4sin 6 x = ( sin 4 x - cos 4 x )( sin 4 x + cos 4 x ) - 4sin 6 x</p><p>( )( )<br>= sin 2 x - cos 2 x sin 4 x + cos 4 x - 4sin 6 x</p><p>= cos 4 xsin 2 x - sin 4 xcos2 x - cos 6 x - 3sin 6 x</p><p>(<br>= cos 4 xsin 2 x - sin 4 xcos2 x - 2sin 6 x - cos6 x + sin 6 x )<br> ( ) ( ) (<br>= sin 2 x cos 4 x - sin 4 x - sin 4 x cos 2 x + sin 2 x - 1 - 3cos 2 x.sin 2 x )<br> 3 5<br>= 4 cos 2 x.sin 2 x - 2sin 4 x - 1 = - cos4 x + cos2 x - .<br> 4 4<br> H S A</p><p>Suy ra: $f(x)$ = ò f ¢ ( x ) dx = ò ( sin 8 x - cos8 x - 4sin 6 x ) dx</p><p>æ 3 5ö 3 1 5<br>= ò ç - cos4 x + cos2 x - ÷ dx = - sin4 x + sin2 x - x + C .<br> è 4 4ø 16 2 4</p><p>Vì f ( 0 ) = 0 Þ $C=0$ .<br> 3 1 5<br>Vậy $f(x)$ = - sin4 x + sin2 x - x .<br> 16 2 4<br> p p<br>Suy ra: I = ò 16 $f(x)$ dx = ò 16 æç -<br> 3 1 5 ö<br> sin4 x + sin2 x - x ÷ dx<br> 0 0 è 16 2 4 ø</p><p>p p<br> æ3 ö<br> = ò ( -3sin4 x + 8sin2 x - 20 x ) dx = ç cos4 x - 4cos2 x - 10 x 2 ÷ = -10p 2<br> 0 è4 ø0</p>"
+    },
+    {
+      "id": 16,
+      "type": "single",
+      "content": "<p>Hai chiếc tàu thuỷ cùng xuất phát từ vị trí A , đi thẳng theo hai hướng tạo với nhau một góc 60o . Tàu<br>B chạy với tốc độ 50 km/h , tàu C với tốc độ 20 km/h . Hỏi sau 2 giờ hai tàu cách nhau bao nhiêu<br> H S A</p><p>km?</p>",
+      "answer": "B",
+      "options": [
+        "A. 10 19 km",
+        "B. 20 19 km",
+        "C. 20 13 km",
+        "D. 10 13 km"
+      ],
+      "explanation": "<p>Phương pháp giải<br>Sử dụng định lí cosin.<br>Lời giải<br>Ta có:<br>Sau 2h quãng đường tàu B chạy được là: 50.2 = 100 km<br>Sau 2h quãng đường tàu C chạy được là: 20.2 = 40 km .</p><p>Vậy sau 2h hai tàu cách nhau là: 1002 + 402 - 2.100.40.cos60o = 20 19 km .</p>"
+    },
+    {
+      "id": 17,
+      "type": "single",
+      "content": "<p>Kết quả khảo sát thời gian sử dụng liên tục (đơn vị: giờ) từ lúc sạc đầy cho đến khi hết của pin một<br>số máy vi tính cùng loại được mô tả bằng biểu đồ sau<br> H S A</p><p>Hãy xác định độ lệch chuẩn của thời gian sử dụng pin (kết quả được làm tròn đến hàng phần trăm).</p>",
+      "answer": "A",
+      "options": [
+        "A. 0,19",
+        "B. 0,18",
+        "C. 0,17",
+        "D. 0,16"
+      ],
+      "explanation": "<p>Phương pháp giải<br>Sử dụng công thức tính độ lệch chuẩn của mẫu số liệu ghép nhóm.<br>Lời giải<br> Giá trị đại diện 7,3 7,5 7,7 7,9<br> Số máy 2 4 7 5<br>Cỡ mẫu: $n=18$<br> 2.7,3 + 4.7,5 + 7.7, 7 + 5.7,9<br>Số trung bình: x = » 7, 67<br> 18<br> 2.7,32 + 4.7,52 + 7.7, 7 2 + 5.7,9 2<br>Phương sai: $S=2$<br> - 7, 67 2 » 0, 04<br> 18</p><p>Độ lệch chuẩn: $s=0$, 04 » 0,19</p>"
+    },
+    {
+      "id": 19,
+      "type": "single",
+      "content": "<p>Trong không gian Oxyz , cho mặt phẳng ( P ) : 2 x - y + \\$2z+3=0$ và hai đường thẳng<br> x y -1 z + 1 x - 2 y -1 z + 3<br>d1 : = = ; d2 : = = . Xét các điểm A, B lần lượt di động trên d1 và d 2 sao cho<br> 3 -1 1 1 -2 1<br>AB song song với mặt phẳng ( P ) . Tập hợp trung điểm của đoạn thẳng AB là<br> r</p>",
+      "answer": "A",
+      "options": [
+        "A. Một đường thẳng có vectơ chỉ phương u = ( -9;8; -5 ) r",
+        "B. Một đường thẳng có vectơ chỉ phương u = ( -5;9;8 ) r",
+        "C. Một đường thẳng có vectơ chỉ phương u = (1; -2; -5 ) r",
+        "D. Một đường thẳng có vectơ chỉ phương u = (1;5; -2 )"
+      ],
+      "explanation": "<p>Phương pháp giải<br>Sử dụng kiến thức về điểm thuộc đường thẳng trong không gian.<br>Lời giải<br>A Î d1 Þ A ( 3a;1 - a; -1 + a ) ; B Î d 2 Þ B ( 2 + b;1 - 2b; -3 + b ) .<br>uuur r<br>AB = ( 2 + b - 3a; -2b + a; b - 2 - a ) ; nP = ( 2; -1; 2 ) .<br> H S A</p><p>uuur r 2<br>Do AB / / ( P ) nên AB.$nP=0$ Û a = b .<br> 3<br>Tọa độ trung điểm của đoạn thẳng AB là<br> æ 3a + 2 + b 2 - 2b - a -4 + a + b ö æ 3 8 5 ö<br>Iç ; ; ÷ hay I ç1 + b;1 - b; -2 + b ÷<br> è 2 2 2 ø è 2 6 6 ø</p><p>Suy ra tập hợp trung điểm của đoạn thẳng AB là một đường thẳng có vectơ chỉ phương<br>r<br>u = ( -9;8; -5 ) .</p>"
+    },
+    {
+      "id": 20,
+      "type": "single",
+      "content": "<p>Trong không gian Oxyz cho mặt cầu ( S ) : x 2 + y 2 + z 2 - 2 x - 4 y - \\$6z-2=0$ và mặt phẳng<br>(a ) : 4 x + 3 y - \\$12z+10=0$ . Lập phương trình mặt phẳng ( b ) thỏa mãn đồng thời các điều kiện: Tiếp<br>xúc với ( S ) ; song song với (a ) và cắt trục Oz ở điểm có cao độ dương. Gọi phương trình mặt<br>phẳng ( b ) là Ax + By + $Cz+D=0$ , tính tổng A + B + C + D .</p>",
+      "answer": "D",
+      "options": [
+        "A. 21",
+        "B. -31",
+        "C. -83",
+        "D. 73"
+      ],
+      "explanation": "<p>Phương pháp giải<br>Từ các điều kiện Tiếp xúc với ( S ) ; song song với (a ) và cắt trục Oz ở điểm có cao độ dương để<br>lập phương trình mặt phẳng ( b ) .</p><p>Lời giải<br>Mặt cầu ( S ) có tâm I (1; 2;3) , bán kính $R=4$ .</p><p>Mặt phẳng ( b ) song song với (a ) nên có phương trình dạng 4 x + 3 y - \\$12z+c=0$ ( $c\\ne 10$ ) .</p><p>4.1 + 3.2 - 12.3 + c -26 + c<br>( b ) tiếp xúc với ( S ) Û d ( I ; ( b ) ) = R Û =4Û =4<br> 4 2 + 32 + 122 13</p><p>é-26 + $c=52$ éc = 78<br>Ûê Ûê<br> ë -26 + $c=-52$ ëc = -26</p><p>æ 13 ö<br>Nếu $c=78$ thì ( b ) : 4 x + 3 y - \\$12z+78=0$ . Mặt phẳng ( b ) cắt trục Oz ở điểm M ç 0;0; ÷ có cao độ<br> è 2ø<br>dương.<br> H S A</p><p>æ 13 ö<br>Nếu $c=-26$ thì ( b ) : 4 x + 3 y - \\$12z-26=0$ . Mặt phẳng ( b ) cắt trục Oz ở điểm M ç 0;0; - ÷ có cao<br> è 6ø<br>độ âm.<br>Suy ra mặt phẳng ( b ) : 4 x + 3 y - \\$12z+78=0$ .</p><p>Vậy $A+B+C+D=4$ + 3 + ( -12 ) + 78 = 73 .</p>"
+    },
+    {
+      "id": 21,
+      "type": "single",
+      "content": "<p>Khảo sát thời gian tự học của một số học sinh khối 11 thu được mẫu số liệu ghép nhóm sau:</p><p>Thời gian (phút) 0; 20 )  20; 40)  40; 60 ) 60;80 ) 80;100 )<br> Số học sinh 5 9 12 10 6<br>Mốt của mẫu số liệu trên là</p>",
+      "answer": "B",
+      "options": [
+        "A. 42",
+        "B. 52",
+        "C. 53",
+        "D. 54"
+      ],
+      "explanation": "<p>Phương pháp giải<br>Sử dụng công thức tìm mốt của mẫu số liệu ghép nhóm.<br>Lời giải<br>Mốt M 0 chứa trong nhóm  40; 60 )</p><p>Do đó: $um=40$; $um+1=60$ Þ um +1 - $um=60$ - 40 = 20<br>$nm-1=9$; $nm=12$; $nm+1=10$</p><p>12 - 9<br>M 0 = 40 + ( 60 - 20 ) = 52 .<br> (12 - 9 ) + (12 - 10 )</p>"
+    },
+    {
+      "id": 22,
+      "type": "single",
+      "content": "<p>Để đánh giá kết quả của một đề tài sau khi áp dụng vào thực tiễn dạy học người ta thực nghiệm bằng<br>cách ra đề kiểm tra một tiết cho ba lớp 12A, 12B và 12C. Kết quả điểm của học sinh ba lớp như sau:</p><p>Điểm 5;6 ) 6;7 ) 7;8) 8;10<br> Lớp 12A<br> Số học sinh 9 14 12 5<br> H S A</p><p>Điểm 5;6 ) 6;7 ) 7;8) 8;10<br> Lớp 12B<br> Số học sinh 12 16 8 3</p><p>Điểm 5;6 ) 6;7 ) 7;8) 8;10<br> Lớp 12C<br> Số học sinh 15 17 5 1<br>Lớp nào có tỉ lệ học sinh đạt điểm giỏi cao nhất?</p>",
+      "answer": "A",
+      "options": [
+        "A. Lớp 12A",
+        "B. Lớp 12B",
+        "C. Lớp 12C",
+        "D. Cả 3 lớp có tỉ lệ học sinh đạt điểm giỏi bằng nhau"
+      ],
+      "explanation": "<p>Phương pháp giải<br>Tính tần suất của học sinh đạt điểm giỏi của các lớp 12A, 12B, 12C và so sánh.<br>Lời giải<br> 5 ´ 100<br>Lớp 12A: Tần suất của lớp 8;10 là = 12,5%<br> 9 + 14 + 12 + 5<br> 3 ´100<br>Lớp 12B: Tần suất của lớp 8;10 là = 7, 7%<br> 12 + 16 + 8 + 3<br> 1´100<br>Lớp 12C: Tần suất của lớp 8;10 là = 2, 6%<br> 15 + 17 + 5 + 1<br>Vậy lớp 12A có tỉ lệ học sinh đạt điểm giỏi cao nhất.</p>"
+    },
+    {
+      "id": 23,
+      "type": "single",
+      "content": "<p>Trong mặt phẳng tọa độ Oxy , cho tam giác ABC có A $(-3;0)$ , B $(3;0)$ và C $(2;6)$ . Gọi H ( a; b ) là trực<br>tâm của tam giác đã cho. Tính a - 6b .</p>",
+      "answer": "B",
+      "options": [
+        "A. 3",
+        "B. -3",
+        "C. 7",
+        "D. -7"
+      ],
+      "explanation": "<p>Phương pháp giải<br>Hai vecto vuông góc có tích vô hướng bằng 0<br>Lời giải<br>Gọi H ( a; b ) là trực tâm của tam giác đã cho.<br> uuur uuur uuur uuur<br>Ta có: AH = ( a + 3; b ) , BC = $(-1;6)$ , BH = ( a - 3; b ) , AC = $(5;6)$<br> H S A</p><p>Vì H là trực tâm tam giác ABC nên:<br> uuur uuur ì ìa = 2<br>ì AH ^ BC ìï AH .$BC=0$ ì -a - 3 + \\$6b=0$ ï -a + \\$6b=3$ ï<br>í Û í uuur uuur Ûí Ûí Ûí 5<br>î BH ^ AC ïî BH . $AC=0$ î5a - 15 + \\$6b=0$ ï5a + \\$6b=15$ îïb = 6<br> î<br>Suy ra a - \\$6b=-3$ .</p>"
+    },
+    {
+      "id": 24,
+      "type": "single",
+      "content": "<p>Ba người cùng bắn vào 1 bia. Xác suất bắn trúng đích của người thứ nhất, thứ hai, thứ ba lần lượt là<br>0,9; 0, 5; 0, 6 . Tính xác suất để có đúng 1 người bắn trúng đích.</p>",
+      "answer": "C",
+      "options": [
+        "A. 0,42",
+        "B. 0,38",
+        "C. 0,23",
+        "D. 0,21"
+      ],
+      "explanation": "<p>Phương pháp giải<br>Sử dụng tìm biến cố giao của các biến cố độc lập:<br>Nếu A, B, C là các biến cố độc lập thì P ( ABC ) = P ( A) .P ( B ) .P ( C ) .</p><p>Lời giải<br>Gọi X là biến cố \"có đúng 1 người bắn trúng đích\".<br>Gọi A là biến cố \"người thứ nhất bắn trúng đích\" Þ P ( A ) = 0,9; $PA=0,1$ . ( )<br>Gọi B là biến cố \"người thứ hai bắn trúng đích\" Þ P ( B ) = 0, 5; $PB=0,5$ . ( )<br>Gọi C là biến cố \"người thứ ba bắn trúng đích\" Þ P ( C ) = 0, 6; $PC=0$, 4 . ( )<br>Vì A, B, C là ba biến cố độc lập nên ta có:</p><p>( ) (<br>P ( X ) = P ABC + P ABC + ABC ) ( )<br>= 0, 9 ´ 0,5 ´ 0, 4 + 0,1´ 0,5 ´ 0, 4 + 0,1´ 0,5 ´ 0, 6 = 0, 23 .</p>"
+    },
+    {
+      "id": 25,
+      "type": "single",
+      "content": "<p>Cho hàm số $f(x)$ , đồ thị của hàm số y = $f'(x)$ là đường cong như hình vẽ.<br> H S A</p><p>é 3 ù<br>Giá trị nhỏ nhất của hàm số $g(x)$ = f ( 2 x + 1) - 4 x - 3 trên đoạn ê - ;1ú bằng<br> ë 2 û</p>",
+      "answer": "D",
+      "options": [
+        "A. f ( 0 ) + 2",
+        "B. f ( 0 ) + 1",
+        "C. f (1) + 1",
+        "D. f (1) - 3"
+      ],
+      "explanation": "<p>Phương pháp giải<br>Dựa vào đồ thị hàm số y = $f'(x)$ .</p><p>Lời giải<br>Đặt $t=2$ x + 1 Þ t Î  -2;3 , xét hàm số $h(t)$ = $f(t)$ - 2t - 1 trên  -2;3 .</p><p>é $t=-1$<br>Ta có h¢ ( x ) = f ¢ ( x ) - 2, h¢ ( t ) = 0 Û êêt = 1 .<br> êët = 2</p><p>h¢ ( x ) > 0 Û f ¢ ( x ) > 2 Û x Î $(1;3)$</p><p>h¢ ( x ) < 0 Û f ¢ ( x ) < 2 Û x Î $(-2;1)$</p><p>Ta có bảng biến thiên sau<br> H S A</p><p>Ta có minh ( t ) = h (1) = f (1) - 3 .<br>  -2;3</p>"
+    },
+    {
+      "id": 26,
+      "type": "single",
+      "content": "<p>Ký hiệu X là số phần tử của tập hợp X . Mệnh đề nào sai trong các mệnh đề sau?<br> H S A</p>",
+      "answer": "C",
+      "options": [
+        "A. A Ç B = Æ Þ A + B = A È B + A Ç B",
+        "B. A Ç B \\neq Æ Þ A + B = A È B - A Ç B",
+        "C. A Ç B \\neq Æ Þ A + B = A È B + A Ç B",
+        "D. A Ç B = Æ Þ A + B = A È B"
+      ],
+      "explanation": "<p>Phương pháp giải<br>Sử dụng kiến thức về tập hợp.<br>Lời giải<br>Kiểm tra các đáp án bằng cách vẽ biểu đồ Ven cho hai trường hợp A Ç B = Æ và A Ç B ≠ Æ</p>"
+    },
+    {
+      "id": 27,
+      "type": "single",
+      "content": "<p>Số giờ có ánh sáng mặt trời của một địa phương năm không nhuận được cho bởi<br> æ p<br>y = 4sin ç ( x - 60 ) ö \\div + 10 với 1 \\le $x\\le 365$ là số ngày trong năm. Ngày 25/5/2025 thì số giờ có ánh<br> è 178 ø<br>sáng mặt trời của địa phương này gần với con số nào nhất?</p>",
+      "answer": "D",
+      "options": [
+        "A. 2 giờ",
+        "B. 12 giờ",
+        "C. 13 giờ 30 phút",
+        "D. 14 giờ"
+      ],
+      "explanation": "<p>H S A</p><p>Phương pháp giải<br>Phân biệt thời gian và thời điểm.<br>Lời giải<br>Ngày 25/5/2025 là ngày thứ 145 của năm<br> æ p<br>Nên số giờ có ánh sáng mặt trời là y = 4sin ç (145 - 60 ) ö÷ + 10 » 14 (giờ)<br> è 178 ø</p>"
+    },
+    {
+      "id": 28,
+      "type": "single",
+      "content": "<p>Cho hàm số y = $f(x)$ có đạo hàm trên R và có đồ thị là đường cong trong hình vẽ bên dưới.</p><p>Đặt $g(x)$ = f éë $f(x)$ ùû . Tìm số nghiệm của phương trình g ¢ ( x ) = 0 .</p>",
+      "answer": "C",
+      "options": [
+        "A. 6",
+        "B. 7",
+        "C. 8",
+        "D. 4"
+      ],
+      "explanation": "<p>Phương pháp giải<br>Ứng dụng đạo hàm hàm hợp và tương giao đồ thị.<br>Lời giải<br> é é f ¢( x) = 0<br> ê f ¢( x) = 0 ê<br>Ta có g ¢ ( x ) = f ¢ ( x ) . f ¢ éë $f(x)$ ùû = 0 Û ê Û ê $f(x)$ = 0 .<br> f ¢ éë $f(x)$ ùû = 0<br> ê ê $f(x)$ = m Î $(1;3)$<br> ë ë<br> H S A</p><p>Phương trình f ¢ ( x ) = 0 có 2 nghiệm</p><p>Phương trình $f(x)$ = 0 có 3 nghiệm</p><p>Phương trình $f(x)$ = m Î $(1;3)$ có 3 nghiệm</p><p>Vậy phương trình có 8 nghiệm.</p>"
+    },
+    {
+      "id": 29,
+      "type": "single",
+      "content": "<p>Trong không gian với hệ tọa độ Oxyz cho ba điểm M ( 2;3; -1) , N ( -1;1;1) và P (1; m - 1; 2 ) . Tìm m để<br>tam giác MNP vuông tại N .</p>",
+      "answer": "A",
+      "options": [
+        "A. $m=0$",
+        "B. $m=2$",
+        "C. $m=-6$",
+        "D. $m=-4$"
+      ],
+      "explanation": "<p>Phương pháp giải<br>Hai vecto vuông góc thì có tích vô hướng bằng 0.<br>Lời giải<br>uuuur uuur<br>MN ( -3; -2; 2 ) ; NP ( 2; m - 2;1) .<br> uuuur uuur<br>Tam giác MNP vuông tại N Û MN .$NP=0$ Û -6 - 2 ( m - 2 ) + 2 = 0 Û $m-2=-2$ Û $m=0$</p>"
+    },
+    {
+      "id": 30,
+      "type": "single",
+      "content": "<p>ì x 2 - 7 x + 12<br> ï khi $x\\ne 3$<br>Cho hàm số y = í x - 3 .<br> ï -1 khi $x=3$<br> î<br>Mệnh đề nào sau đây đúng?</p>",
+      "answer": "D",
+      "options": [
+        "A. Hàm số liên tục nhưng không có đạo hàm tại x0 = 3",
+        "B. Hàm số gián đoạn và không có đạo hàm tại x0 = 3",
+        "C. Hàm số có đạo hàm nhưng không liên tục tại x0 = 3",
+        "D. Hàm số liên tục và có đạo hàm tại x0 = 3"
+      ],
+      "explanation": "<p>Phương pháp giải<br> H S A</p><p>Hàm số liên tục và có đạo hàm tại x0 nếu lim $f(x)$ = lim $f(x)$ = f ( x0 ) .<br> x ® x0+ x ® x0-</p><p>Lời giải<br> x 2 - 7 x + 12<br>lim = lim( x - 4 ) = -1 = y ( 3) nên hàm số liên tục tại x0 = 3 .<br>x ®3 x -3 x ®3</p>"
+    },
+    {
+      "id": 31,
+      "type": "single",
+      "content": "<p>Trong các công thức sau, công thức nào sai?</p>",
+      "answer": "B",
+      "options": [
+        "A. cos2a = cos2 a - sin 2 a .",
+        "B. cos2a = cos2 a + sin 2 a .",
+        "C. cos2a = 2cos2 a - 1 .",
+        "D. cos2a = 1 - 2sin 2 a ."
+      ],
+      "explanation": "<p>Phương pháp giải<br>Các công thức biến đổi lượng giác.<br>Lời giải<br>Ta có cos2a = cos 2 a - sin 2 a = 2cos2 $a-1=1$ - 2sin 2 a .</p>"
+    },
+    {
+      "id": 32,
+      "type": "single",
+      "content": "<p>Trong không gian với hệ tọa độ Oxyz , cho hai điểm A (1;0;0 ) , B ( 0; 0; 2 ) và mặt cầu</p><p>( S ) : x 2 + y 2 + z 2 - 2 x - \\$2y+1=0$ . Số mặt phẳng chứa hai điểm A, B và tiếp xúc với mặt cầu ( S ) là</p>",
+      "answer": "A",
+      "options": [
+        "A. 1 mặt phẳng",
+        "B. 2 mặt phẳng",
+        "C. 3 mặt phẳng",
+        "D. 4 mặt phẳng"
+      ],
+      "explanation": "<p>Phương pháp giải<br>Dựa vào các dữ kiện tìm phương trình mặt phẳng.<br>Lời giải<br>Gọi phương trình mặt phẳng là: ( P ) : Ax + By + $Cz+D=0$ ( A2 + B 2 + C 2 ≠ 0 ) .</p><p>Theo đề bài, mặt phẳng qua A, B nên ta có:<br>ìA+ $D=0$ ì A = 2C<br>í Ûí . Vậy mặt phẳng ( P ) có dạng: 2Cx + By + Cz - \\$2C=0$ .<br>î2C + $D=0$ î D = -2C</p><p>( S ) có tâm I (1,1, 0 ) và $R=1$ .<br> H S A</p><p>Vì ( P ) tiếp xúc với ( S ) nên</p><p>2C + B - 2C<br>d( L( P ) ) = R Û = 1 Û B 2 = 5C 2 + B 2 Û $C=0$ .<br> 5C + B<br> 2 2</p><p>Suy ra A = $D=0$ .<br>Suy ra phương trình mặt phẳng ( P ) : $y=0$ .</p><p>Vậy có 1 mặt phẳng.</p>"
+    }
+  ],
+  "subjectSlug": "toan",
+  "duration": 75,
+  "passages": {},
+  "answerSource": "partial",
+  "repairNote": "Đã dựng lại từ PDF đáp án in sẵn của Tailieuonthi; không tự suy đoán đáp án. Lời giải đã tách khỏi đề và công thức rõ ràng được chuyển sang LaTeX.",
+  "sourceUrl": "https://tailieuonthi.org/de-danh-gia-nang-luc-hsa-toan-hoc-so-40/"
+}

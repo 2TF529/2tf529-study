@@ -1,0 +1,104 @@
+{
+  "id": "2026-vj-5-22-cau-trac-nghiem-toan-11-canh-dieu-bai-2-gioi-han-cua-ham-so-",
+  "sourceId": "vietjack:5-22-cau-trac-nghiem-toan-11-canh-dieu-b",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "5.22 câu Trắc nghiệm Toán 11 Cánh diều Bài 2. Giới hạn của hàm số (Đúng-sai, trả lời ngắn) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: TRẮC NGHIỆM NHIỀU LỰA CHỌN Cho \\(\\mathop {\\lim }\\limits_{x \\to 1} f\\left( x \\right) = - 3\\) và \\(\\mathop {\\lim }\\limits_{x \\to 1} g\\left( x \\right) = 5\\) . Giá trị \\(\\mathop {\\lim }\\limits_{x \\to 1} \\left[ {f\\left( x \\right) + g\\left( x \\right)} \\right]\\) bằng",
+      "options": [
+        "A. 8.",
+        "B. −8.",
+        "C. −15.",
+        "D. 2."
+      ],
+      "answer": "D",
+      "note": "D \\(\\mathop {\\lim }\\limits_{x \\to 1} \\left[ {f\\left( x \\right) + g\\left( x \\right)} \\right]\\)\\( = \\mathop {\\lim }\\limits_{x \\to 1} f\\left( x \\right) + \\mathop {\\lim }\\limits_{x \\to 1} g\\left( x \\right) = - 3 + 5 = 2\\)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Nếu \\(\\mathop {\\lim }\\limits_{x \\to 3} f\\left( x \\right) = 2\\) thì \\(\\mathop {\\lim }\\limits_{x \\to 3} \\left[ {4x - 3f\\left( x \\right)} \\right]\\) bằng",
+      "options": [
+        "A. 2.",
+        "B. −1.",
+        "C. 3.",
+        "D. 6."
+      ],
+      "answer": "D",
+      "note": "D \\(\\mathop {\\lim }\\limits_{x \\to 3} \\left[ {4x - 3f\\left( x \\right)} \\right]\\)\\( = \\mathop {\\lim }\\limits_{x \\to 3} \\left( {4x} \\right) - 3\\mathop {\\lim }\\limits_{x \\to 3} f\\left( x \\right) = 12 - 3.2 = 6\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: \\(\\mathop {\\lim }\\limits_{x \\to 2} \\frac{{5x - 5}}{{2x}}\\) bằng",
+      "options": [
+        "A. \\(\\frac{5}{4}\\) .",
+        "B. −∞.",
+        "C. 0.",
+        "D. +∞."
+      ],
+      "answer": "A",
+      "note": "A \\(\\mathop {\\lim }\\limits_{x \\to 2} \\frac{{5x - 5}}{{2x}}\\)\\( = \\frac{{5.2 - 5}}{{2.2}} = \\frac{5}{4}\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Giới hạn \\(\\mathop {\\lim }\\limits_{x \\to + \\infty } \\frac{{x - 3}}{{x + 2}}\\) bằng",
+      "options": [
+        "A. 0.",
+        "B. \\( - \\frac{3}{2}\\) .",
+        "C. +∞.",
+        "D. 1."
+      ],
+      "answer": "D",
+      "note": "D \\(\\mathop {\\lim }\\limits_{x \\to + \\infty } \\frac{{x - 3}}{{x + 2}}\\)\\( = \\mathop {\\lim }\\limits_{x \\to + \\infty } \\frac{{1 - \\frac{3}{x}}}{{1 + \\frac{2}{x}}} = 1\\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Tính giới hạn \\(\\mathop {\\lim }\\limits_{x \\to - \\infty } \\frac{{\\sqrt {3{x^2} + 1} }}{x}\\) .",
+      "options": [
+        "A. \\( - \\sqrt 3 \\) .",
+        "B. +∞ .",
+        "C. −3.",
+        "D. \\(\\sqrt 3 \\) ."
+      ],
+      "answer": "A",
+      "note": "A \\(\\mathop {\\lim }\\limits_{x \\to - \\infty } \\frac{{\\sqrt {3{x^2} + 1} }}{x}\\)\\( = \\mathop {\\lim }\\limits_{x \\to - \\infty } \\frac{{ - x\\sqrt {3 + \\frac{1}{{{x^2}}}} }}{x}\\)\\( = - \\mathop {\\lim }\\limits_{x \\to - \\infty } \\sqrt {3 + \\frac{1}{{{x^2}}}} = - \\sqrt 3 \\)."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Tính giới hạn \\(\\mathop {\\lim }\\limits_{x \\to 1} \\frac{{\\sqrt {10 - {x^2}} - 3}}{{1 - {x^2}}}\\) .",
+      "options": [
+        "A. 1.",
+        "B. \\(\\frac{1}{6}\\) .",
+        "C. 0.",
+        "D. \\( - \\frac{1}{6}\\) ."
+      ],
+      "answer": "B",
+      "note": "B \\(\\mathop {\\lim }\\limits_{x \\to 1} \\frac{{\\sqrt {10 - {x^2}} - 3}}{{1 - {x^2}}}\\)\\( = \\mathop {\\lim }\\limits_{x \\to 1} \\frac{{1 - {x^2}}}{{\\left( {1 - {x^2}} \\right)\\left( {\\sqrt {10 - {x^2}} + 3} \\right)}}\\)\\( = \\mathop {\\lim }\\limits_{x \\to 1} \\frac{1}{{\\sqrt {10 - {x^2}} + 3}} = \\frac{1}{6}\\)."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Biết rằng \\(\\mathop {\\lim }\\limits_{x \\to {5^ - }} f\\left( x \\right) = 3\\) và \\(\\mathop {\\lim }\\limits_{x \\to {5^ + }} f\\left( x \\right) = 4\\) . Mệnh đề nào sau đây đúng?",
+      "options": [
+        "A. \\(\\mathop {\\lim }\\limits_{x \\to 5} f\\left( x \\right) = 3\\) .",
+        "B. \\(\\mathop {\\lim }\\limits_{x \\to 5} f\\left( x \\right) = 4\\) .",
+        "C. \\(\\mathop {\\lim }\\limits_{x \\to 5} f\\left( x \\right)\\) không tồn tại .",
+        "D. \\(\\mathop {\\lim }\\limits_{x \\to 5} f\\left( x \\right) = 7\\) ."
+      ],
+      "answer": "C",
+      "note": "C Vì \\(\\mathop {\\lim }\\limits_{x \\to {5^ + }} f\\left( x \\right)\\)\\( \\ne \\mathop {\\lim }\\limits_{x \\to {5^ - }} f\\left( x \\right)\\) nên không tồn tại \\(\\mathop {\\lim }\\limits_{x \\to 5} f\\left( x \\right)\\)."
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "id": "l12-toan-totnghiep-2026-de-khao-sat-chat-luong-thpt-mon-toan-so-gddt-thanh-hoa-nam-2026-lan-2",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "code": "THPT_TKT_2026_TH_02",
+  "title": "Đề khảo sát chất lượng THPT môn Toán Sở GD&ĐT Thanh Hóa năm 2026 - Lần 2",
+  "duration": 90,
+  "answerSource": "official",
+  "source": "https://dolthpt.vn/de-khao-sat-chat-luong-thpt-mon-toan-so-gddt-thanh-hoa-nam-2026-lan-2-co-dap-an",
+  "notes": "Nội dung, đáp án và lời giải được nhập từ bản công khai của DOL THPT.",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "content": "Khi thống kê chiều cao (đơn vị: cm) của 100 học sinh lớp 12 trường trung học phổ thông X, người ta thu được mẫu số liệu ghép nhóm như bảng dưới.\nNhóm chứa mốt của mẫu số liệu đã cho là\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gddt-thanh-hoa-nam-2026-lan-2/cau-01.webp\" alt=\"Hình minh họa câu 1\" loading=\"lazy\"></figure>",
+      "chuong": "các số đặc trưng đo xu thế trung tâm của mẫu số liệu ghép nhóm",
+      "dang": "mốt của mẫu số liệu ghép nhóm",
+      "type": "single",
+      "options": [
+        "A. $[180;186)$.",
+        "B. \\$40$.",
+        "C. $[162;168)$.",
+        "D. $[168;174)$."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Bảng tần số ghép nhóm chiều cao của \\$100$ học sinh chia thành \\$6$ nhóm.\n- Tần số tương ứng các nhóm lần lượt là \\$5, 18, 40, 26, 8, 3$.\n❓ **Hiểu câu hỏi:**\n- Nhóm chứa mốt là nhóm có tần số lớn nhất trong bảng tần số ghép nhóm.\n🔎 **Hướng dẫn cách làm:**\n- So sánh các tần số \\$5, 18, 40, 26, 8, 3$, ta thấy giá trị lớn nhất là \\$40$.\n- Tần số \\$40$ ứng với nhóm $[162;168)$, nên đây là nhóm chứa mốt.\n✅ **Đáp án:** Chọn C. $[162;168)$."
+    },
+    {
+      "id": 2,
+      "content": "Họ nguyên hàm của hàm số $f(x)=x^3$ là",
+      "chuong": "nguyên hàm và tích phân",
+      "dang": "nguyên hàm của một số hàm số thường gặp",
+      "type": "single",
+      "options": [
+        "A. $\\dfrac{x^4}{4}+C$.",
+        "B. \\$3x^2+C$.",
+        "C. $x^4+C$.",
+        "D. \\$4x^4+C$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số cần tìm nguyên hàm là $f(x)=x^3$.\n❓ **Hiểu câu hỏi:**\n- Áp dụng công thức nguyên hàm cơ bản $\\displaystyle\\int x^\\alpha\\,dx=\\dfrac{x^{\\alpha+1}}{\\alpha+1}+C$ với $\\alpha\\ne -1$.\n🔎 **Hướng dẫn cách làm:**\n- Với $\\alpha=3$, ta có $\\displaystyle\\int x^3\\,dx=\\dfrac{x^{3+1}}{3+1}+C=\\dfrac{x^4}{4}+C$.\n✅ **Đáp án:** Chọn A. $\\dfrac{x^4}{4}+C$."
+    },
+    {
+      "id": 3,
+      "content": "Cho hàm số $y=f(x)$ liên tục trên $\\mathbb{R}\\setminus\\{1;3\\}$ và có bảng xét dấu của đạo hàm $f'(x)$ như hình vẽ dưới đây.\nSố điểm cực trị của hàm số $y=f(x)$ là\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gddt-thanh-hoa-nam-2026-lan-2/cau-03.webp\" alt=\"Hình minh họa câu 3\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "cực trị của hàm số",
+      "type": "single",
+      "options": [
+        "A. \\$1$.",
+        "B. \\$2$.",
+        "C. \\$4$.",
+        "D. \\$3$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số $y=f(x)$ liên tục trên $\\mathbb{R}\\setminus\\{1;3\\}$, tức không xác định tại $x=1$ và $x=3$.\n- Bảng xét dấu $f'(x)$ cho thấy $f'$ đổi dấu tại $x=-2, 1, 2, 3$.\n❓ **Hiểu câu hỏi:**\n- Điểm cực trị là điểm thuộc tập xác định mà tại đó $f'$ đổi dấu.\n🔎 **Hướng dẫn cách làm:**\n- Tại $x=-2$: $f'$ đổi dấu từ $+$ sang $-$ và hàm xác định tại $x=-2$ nên đây là điểm cực đại.\n- Tại $x=2$: $f'$ đổi dấu từ $+$ sang $-$ và hàm xác định tại $x=2$ nên đây là điểm cực đại.\n- Tại $x=1$ và $x=3$: hàm số không xác định nên không phải điểm cực trị, dù $f'$ đổi dấu.\n- Vậy hàm số có \\$2$ điểm cực trị.\n✅ **Đáp án:** Chọn B. \\$2$."
+    },
+    {
+      "id": 4,
+      "content": "Đường tiệm cận ngang của đồ thị hàm số $y=\\dfrac{2x+1}{x+1}$ là",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "đường tiệm cận ngang",
+      "type": "single",
+      "options": [
+        "A. $y=2$.",
+        "B. $x=-1$.",
+        "C. $y=-1$.",
+        "D. $x=2$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số $y=\\dfrac{2x+1}{x+1}$ là hàm phân thức bậc nhất trên bậc nhất.\n❓ **Hiểu câu hỏi:**\n- Tiệm cận ngang của đồ thị hàm số $y=f(x)$ là đường $y=L$ với $L=\\displaystyle\\lim_{x\\to\\pm\\infty}f(x)$.\n🔎 **Hướng dẫn cách làm:**\n- Với hàm $y=\\dfrac{ax+b}{cx+d}$ ($c\\ne 0$), tiệm cận ngang là $y=\\dfrac{a}{c}$.\n- Áp dụng cho hàm đã cho: $y=\\dfrac{2}{1}=2$.\n✅ **Đáp án:** Chọn A. $y=2$."
+    },
+    {
+      "id": 5,
+      "content": "Nghiệm của phương trình $\\log_5(2x-1)=1$ là",
+      "chuong": "hàm số mũ và hàm số lôgarit",
+      "dang": "phương trình lôgarit",
+      "type": "single",
+      "options": [
+        "A. $x=\\dfrac{1}{2}$.",
+        "B. $x=2$.",
+        "C. $x=3$.",
+        "D. $x=1$."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Phương trình lôgarit cơ bản $\\log_5(2x-1)=1$.\n❓ **Hiểu câu hỏi:**\n- Áp dụng định nghĩa lôgarit: $\\log_a f(x)=c\\Leftrightarrow f(x)=a^c$ (với điều kiện $f(x)>0$).\n🔎 **Hướng dẫn cách làm:**\n- Điều kiện xác định: \\$2x-1>0\\Leftrightarrow x>\\dfrac{1}{2}$.\n- Phương trình tương đương \\$2x-1=5^1=5\\Leftrightarrow 2x=6\\Leftrightarrow x=3$.\n- Đối chiếu điều kiện $x=3>\\dfrac{1}{2}$ thỏa mãn.\n✅ **Đáp án:** Chọn C. $x=3$."
+    },
+    {
+      "id": 6,
+      "content": "Cho hình lăng trụ đứng $ABCD.A'B'C'D'$ có đáy $ABCD$ là hình vuông cạnh $a$, $AA'=2a$. Thể tích khối lăng trụ đã cho bằng\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gddt-thanh-hoa-nam-2026-lan-2/cau-06.webp\" alt=\"Hình minh họa câu 6\" loading=\"lazy\"></figure>",
+      "chuong": "quan hệ vuông góc trong không gian",
+      "dang": "thể tích",
+      "type": "single",
+      "options": [
+        "A. $\\dfrac{4a^3}{3}$.",
+        "B. \\$4a^3$.",
+        "C. \\$2a^3$.",
+        "D. $\\dfrac{2a^3}{3}$."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hình lăng trụ đứng có đáy là hình vuông cạnh $a$ và chiều cao $AA'=2a$.\n❓ **Hiểu câu hỏi:**\n- Thể tích khối lăng trụ tính bằng công thức $V=S_{\\text{đáy}}\\cdot h$.\n🔎 **Hướng dẫn cách làm:**\n- Diện tích đáy: $S_{\\text{đáy}}=a\\cdot a=a^2$.\n- Chiều cao của lăng trụ đứng chính là $AA'=2a$.\n- Vậy $V=a^2\\cdot 2a=2a^3$.\n✅ **Đáp án:** Chọn C. \\$2a^3$."
+    },
+    {
+      "id": 7,
+      "content": "Trong không gian với hệ trục tọa độ $Oxyz$, cho mặt phẳng $(P): 3x+2y-z+2=0$. Một vectơ pháp tuyến của $(P)$ là",
+      "chuong": "phương pháp tọa độ trong không gian",
+      "dang": "vectơ pháp tuyến và cặp vectơ chỉ phương của mặt phẳng",
+      "type": "single",
+      "options": [
+        "A. $\\vec{n}=(2;-1;2)$.",
+        "B. $\\vec{n}=(3;2;1)$.",
+        "C. $\\vec{n}=(3;2;2)$.",
+        "D. $\\vec{n}=(3;2;-1)$."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Mặt phẳng $(P): 3x+2y-z+2=0$ ở dạng tổng quát $Ax+By+Cz+D=0$.\n❓ **Hiểu câu hỏi:**\n- Mặt phẳng $Ax+By+Cz+D=0$ có vectơ pháp tuyến $\\vec{n}=(A;B;C)$.\n🔎 **Hướng dẫn cách làm:**\n- Đối chiếu hệ số $x, y, z$ trong phương trình, ta có $A=3, B=2, C=-1$.\n- Vậy một vectơ pháp tuyến của $(P)$ là $\\vec{n}=(3;2;-1)$.\n✅ **Đáp án:** Chọn D. $\\vec{n}=(3;2;-1)$."
+    },
+    {
+      "id": 8,
+      "content": "Cho hình hộp $ABCD.A'B'C'D'$. Khẳng định nào sau đây đúng?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gddt-thanh-hoa-nam-2026-lan-2/cau-08.webp\" alt=\"Hình minh họa câu 8\" loading=\"lazy\"></figure>",
+      "chuong": "vectơ và hệ trục tọa độ trong không gian",
+      "dang": "tổng và hiệu của hai vectơ trong không gian",
+      "type": "single",
+      "options": [
+        "A. $\\overrightarrow{BA}+\\overrightarrow{BC}+\\overrightarrow{BB'}=\\overrightarrow{BD'}$.",
+        "B. $\\overrightarrow{C'A}=\\overrightarrow{AB}+\\overrightarrow{AD}+\\overrightarrow{AA'}$.",
+        "C. $\\overrightarrow{BA}+\\overrightarrow{BC}+\\overrightarrow{BB'}=\\overrightarrow{D'B}$.",
+        "D. $\\overrightarrow{AB}+\\overrightarrow{BC}+\\overrightarrow{CC'}=\\overrightarrow{C'A}$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hình hộp $ABCD.A'B'C'D'$ với các đỉnh được đặt tên theo quy ước.\n❓ **Hiểu câu hỏi:**\n- Quy tắc hình hộp: với hình hộp xét tại đỉnh $B$, ba cạnh đồng quy tại $B$ là $BA, BC, BB'$ và đường chéo từ $B$ là $BD'$ (đỉnh đối diện $B$ qua tâm).\n🔎 **Hướng dẫn cách làm:**\n- Áp dụng quy tắc hình hộp tại đỉnh $B$: $\\overrightarrow{BA}+\\overrightarrow{BC}+\\overrightarrow{BB'}=\\overrightarrow{BD'}$.\n- Kiểm tra: $\\overrightarrow{BA}+\\overrightarrow{BC}=\\overrightarrow{BD}$ (quy tắc hình bình hành ở mặt đáy), rồi $\\overrightarrow{BD}+\\overrightarrow{BB'}=\\overrightarrow{BD}+\\overrightarrow{DD'}=\\overrightarrow{BD'}$.\n- Vậy đẳng thức ở phương án A đúng.\n✅ **Đáp án:** Chọn A. $\\overrightarrow{BA}+\\overrightarrow{BC}+\\overrightarrow{BB'}=\\overrightarrow{BD'}$."
+    },
+    {
+      "id": 9,
+      "content": "Trong không gian với hệ trục tọa độ $Oxyz$, cho $\\vec{a}=-\\vec{i}+3\\vec{j}-5\\vec{k}$. Tọa độ của vectơ $\\vec{a}$ là",
+      "chuong": "vectơ và hệ trục tọa độ trong không gian",
+      "dang": "tọa độ của điểm, tọa độ của vectơ trong không gian",
+      "type": "single",
+      "options": [
+        "A. $(-1;3;-5)$.",
+        "B. $(1;-3;5)$.",
+        "C. $(-5;3;-1)$.",
+        "D. $(5;-3;1)$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Vectơ $\\vec{a}=-\\vec{i}+3\\vec{j}-5\\vec{k}$ được phân tích theo các vectơ đơn vị $\\vec{i}, \\vec{j}, \\vec{k}$.\n❓ **Hiểu câu hỏi:**\n- Nếu $\\vec{a}=x\\vec{i}+y\\vec{j}+z\\vec{k}$ thì tọa độ của $\\vec{a}$ là $(x;y;z)$.\n🔎 **Hướng dẫn cách làm:**\n- Đối chiếu các hệ số của $\\vec{i}, \\vec{j}, \\vec{k}$, ta có $x=-1, y=3, z=-5$.\n- Vậy $\\vec{a}=(-1;3;-5)$.\n✅ **Đáp án:** Chọn A. $(-1;3;-5)$."
+    },
+    {
+      "id": 10,
+      "content": "Cho hình phẳng $(H)$ được giới hạn bởi đồ thị hàm số $y=\\sqrt{4x-x^2}$ và trục hoành. Tính thể tích khối tròn xoay sinh ra khi quay hình phẳng $(H)$ xung quanh trục $Ox$.",
+      "chuong": "nguyên hàm và tích phân",
+      "dang": "ứng dụng tích phân để tính thể tích vật thể",
+      "type": "single",
+      "options": [
+        "A. $\\dfrac{32}{3}$.",
+        "B. $\\dfrac{32\\pi}{3}$.",
+        "C. $\\dfrac{32\\pi^2}{3}$.",
+        "D. $\\dfrac{31\\pi}{3}$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hình phẳng $(H)$ giới hạn bởi $y=\\sqrt{4x-x^2}$ và trục $Ox$.\n❓ **Hiểu câu hỏi:**\n- Thể tích khối tròn xoay quanh $Ox$: $V=\\pi\\displaystyle\\int_a^b [f(x)]^2\\,dx$.\n🔎 **Hướng dẫn cách làm:**\n- Để $y=\\sqrt{4x-x^2}$ xác định, cần \\$4x-x^2\\ge 0\\Leftrightarrow 0\\le x\\le 4$, nên $a=0, b=4$.\n- Ta có $[f(x)]^2=4x-x^2$, nên $V=\\pi\\displaystyle\\int_0^4 (4x-x^2)\\,dx=\\pi\\left[2x^2-\\dfrac{x^3}{3}\\right]_0^4$.\n- Tính $V=\\pi\\left(32-\\dfrac{64}{3}\\right)=\\pi\\cdot\\dfrac{32}{3}=\\dfrac{32\\pi}{3}$.\n✅ **Đáp án:** Chọn B. $\\dfrac{32\\pi}{3}$."
+    },
+    {
+      "id": 11,
+      "content": "Cho cấp số cộng $(u_n)$ có số hạng đầu $u_1=2$ và công sai $d=3$. Tính $u_5$.",
+      "chuong": "dãy số. cấp số cộng và cấp số nhân",
+      "dang": "số hạng tổng quát của cấp số cộng",
+      "type": "single",
+      "options": [
+        "A. $u_5=6$.",
+        "B. $u_5=32$.",
+        "C. $u_5=17$.",
+        "D. $u_5=14$."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cấp số cộng có $u_1=2$ và công sai $d=3$.\n❓ **Hiểu câu hỏi:**\n- Số hạng tổng quát của cấp số cộng là $u_n=u_1+(n-1)d$.\n🔎 **Hướng dẫn cách làm:**\n- Áp dụng với $n=5$: $u_5=u_1+4d=2+4\\cdot 3=14$.\n✅ **Đáp án:** Chọn D. $u_5=14$."
+    },
+    {
+      "id": 12,
+      "content": "Phương trình $\\sin x=\\dfrac{1}{2}$ có các nghiệm là:",
+      "chuong": "hàm số lượng giác và phương trình lượng giác",
+      "dang": "phương trình sinx=m",
+      "type": "single",
+      "options": [
+        "A. $x=\\dfrac{\\pi}{6}+k2\\pi;\\ x=\\dfrac{5\\pi}{6}+k2\\pi,\\ k\\in\\mathbb{Z}$.",
+        "B. $x=\\dfrac{\\pi}{6}+k\\pi;\\ x=\\dfrac{5\\pi}{6}+k\\pi,\\ k\\in\\mathbb{Z}$.",
+        "C. $x=\\dfrac{\\pi}{3}+k2\\pi;\\ x=\\dfrac{2\\pi}{3}+k2\\pi,\\ k\\in\\mathbb{Z}$.",
+        "D. $x=\\dfrac{\\pi}{3}+k\\pi;\\ x=\\dfrac{-\\pi}{3}+k\\pi,\\ k\\in\\mathbb{Z}$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Phương trình lượng giác cơ bản $\\sin x=\\dfrac{1}{2}$.\n❓ **Hiểu câu hỏi:**\n- Phương trình $\\sin x=m$ với $|m|\\le 1$ có hai họ nghiệm: $x=\\alpha+k2\\pi$ và $x=\\pi-\\alpha+k2\\pi$, trong đó $\\sin\\alpha=m$.\n🔎 **Hướng dẫn cách làm:**\n- Vì $\\sin\\dfrac{\\pi}{6}=\\dfrac{1}{2}$ nên ta chọn $\\alpha=\\dfrac{\\pi}{6}$.\n- Áp dụng công thức: $x=\\dfrac{\\pi}{6}+k2\\pi$ hoặc $x=\\pi-\\dfrac{\\pi}{6}+k2\\pi=\\dfrac{5\\pi}{6}+k2\\pi$ với $k\\in\\mathbb{Z}$.\n✅ **Đáp án:** Chọn A. $x=\\dfrac{\\pi}{6}+k2\\pi;\\ x=\\dfrac{5\\pi}{6}+k2\\pi,\\ k\\in\\mathbb{Z}$."
+    }
+  ]
+}

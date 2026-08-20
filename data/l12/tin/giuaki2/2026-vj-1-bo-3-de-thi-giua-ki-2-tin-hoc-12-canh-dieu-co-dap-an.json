@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-1-bo-3-de-thi-giua-ki-2-tin-hoc-12-canh-dieu-co-dap-an",
+  "sourceId": "vietjack:1-bo-3-de-thi-giua-ki-2-tin-hoc-12-canh-",
+  "grade": "l12",
+  "subjectSlug": "tin",
+  "examType": "giuaki2",
+  "year": 2026,
+  "title": "1.Bộ 3 đề thi giữa kì 2 Tin học 12 Cánh diều có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Thí sinh trả lời từ câu 1 đến câu 24. Mỗi câu hỏi thí sinh chỉ chọn một phương án. Khi khai báo nhiều giá trị cho một thuộc tính của Cascading Style Sheets (CSS), chúng ta sử dụng dấu gì để phân cách?",
+      "options": [
+        "A. Dấu phẩy.",
+        "B. Dấu chấm phẩy.",
+        "C. Dấu hai chấm.",
+        "D. Dấu gạch ngang."
+      ],
+      "answer": "A",
+      "note": "Chọn A"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Trong các khai báo Cascading Style Sheets (CSS), khai báo nào là đúng cú pháp?",
+      "options": [
+        "A. h1{color: Blue;}",
+        "B. h1 color: Blue;",
+        "C. h1= {color: Blue}",
+        "D. h1(color: Blue;)"
+      ],
+      "answer": "A",
+      "note": "Chọn A"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Nội dung phần body trong tệp home.html có đoạn HTML như sau: &lt;h2 id = “dautrang”&gt; Đầu trang &lt;/h2&gt; Phương án nào dưới đây là đúng khi khai báo siêu liên kết đến phần tử h2 thông qua định danh “dautrang” trong cùng một trang web?",
+      "options": [
+        "A. &lt;a href = \"dautrang\"&gt; Về đầu trang &lt;/a&gt;",
+        "B. &lt;a href = \"#dautrang \"&gt; Về đầu trang &lt;/a&gt;",
+        "C. &lt;a href = \"dautrang.html\"&gt; Về đầu trang &lt;/a&gt;",
+        "D. &lt;a href = \"https://www. dautrang.vn\"&gt; Về đầu trang &lt;/a&gt;"
+      ],
+      "answer": "B",
+      "note": "Chọn B"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Nếu muốn đoạn văn bản có nội dung “Thông tin liên hệ” chữ màu xanh dương thì đoạn mã HTML nào sau đây là đúng?",
+      "options": [
+        "A. &lt;p style=\"color: blue;\"&gt;Thông tin liên hệ &lt;/p&gt;",
+        "B. &lt;p style color= \"blue\" &gt;Thông tin liên hệ &lt;/p&gt;",
+        "C. &lt;p style=color: \"blue\";&gt;Thông tin liên hệ &lt;/p&gt;",
+        "D. &lt;p style=\"color: \"blue\";\"&gt;Thông tin liên hệ &lt;/p&gt;"
+      ],
+      "answer": "A",
+      "note": "Chọn A"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu nào sau đây mô tả đúng chức năng của Cascading Style Sheets (CSS)?",
+      "options": [
+        "A. Chỉ giúp định dạng nội dung văn bản.",
+        "B. Không ảnh hưởng đến cấu trúc của trang web.",
+        "C. Giúp trang web trở nên đẹp mắt hơn.",
+        "D. Cho phép tách biệt nội dung khỏi cách trình bày."
+      ],
+      "answer": "D",
+      "note": "Chọn D"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Để hiển thị nội dung của trang Thongtin.html trong trang web Index.html , thì trong trang Index.html ta sẽ sử dụng câu lệnh nào trong các câu lệnh sau đây?",
+      "options": [
+        "A. &lt;a href=\"Thongtin.html\" target=\"_blank\"&gt; Thông tin &lt;/a&gt;",
+        "B. &lt;a href=\"Thongtin.html\" target=\"_seft\"&gt; Thông tin &lt;/a&gt;",
+        "C. &lt;link rel=\"stylesheet\" type=\"text/css\" href=\"Thongtin.html\"&gt;",
+        "D. &lt;iframe src=\"Thongtin.html\" width=\"300\" height=\"300\"&gt;&lt;/iframe&gt;"
+      ],
+      "answer": "D",
+      "note": "Chọn D"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Muốn định dạng phần văn bản “Nội dung” của danh sách có thứ tự bắt đầu bằng kí tự “C” ta sử dụng câu lệnh nào trong các câu lệnh sau đây là đúng?",
+      "options": [
+        "A. &lt;ol type=\"A\" start=\"3\"&gt;&lt;li&gt;Nội dung&lt;/li&gt;&lt;/ol&gt;",
+        "B. &lt;ol type=\"A\" start=\"C\"&gt;&lt;li&gt;Nội dung&lt;/li&gt;&lt;/ol&gt;",
+        "C. &lt;ol type=\"C\"&gt;&lt;li&gt;Nội dung&lt;/li&gt;&lt;/ol&gt;",
+        "D. &lt;ul type=\"A\" start=\"C\"&gt;&lt;li&gt;Nội dung&lt;/li&gt;&lt;/ul&gt;"
+      ],
+      "answer": "A",
+      "note": "Chọn A"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Trong phần thông tin đăng nhập trên trang web được viết bằng HTML, nơi nhập mật khẩu của người dùng chỉ cho phép hiển thị dấu chấm tròn thì thuộc tính type của phần tử input ta cần gán giá trị nào sau đây?",
+      "options": [
+        "A. “password”.",
+        "B. “radio”.",
+        "C. “button”.",
+        "D. “text”."
+      ],
+      "answer": "A",
+      "note": "Chọn A"
+    }
+  ]
+}

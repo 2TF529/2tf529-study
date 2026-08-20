@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-3-de-kiem-tra-day-so-lop-11-co-loi-giai",
+  "sourceId": "vietjack:3-de-kiem-tra-day-so-lop-11-co-loi-giai",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.Đề kiểm tra Dãy số lớp 11 (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Phần 1. Câu hỏi trắc nghiệm nhiều phương án lựa chọn . Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi, thí sinh chỉ chọn 1 phương án. Cho dãy số \\(\\left( {{u_n}} \\right)\\) biết \\({u_1} = 2\\) và \\({u_n} = \\frac{{{u_{n - 1}} + 1}}{2}\\) với mọi \\(n \\ge 2\\) . Ba số hạng đầu tiên của dãy số lần lượt là:",
+      "options": [
+        "A. \\(2;1;\\frac{3}{2}\\) .",
+        "B. \\(2;\\frac{3}{2};\\frac{5}{2}\\) .",
+        "C. \\(2;\\frac{3}{2};\\frac{5}{4}\\) .",
+        "D. \\(2;\\frac{3}{2};2\\) ."
+      ],
+      "answer": "C",
+      "note": "Chọn C"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho dãy số \\(\\left( {{u_n}} \\right)\\) biết \\({u_n} = {3^n}\\) . Số hạng \\({u_{n + 1}}\\) bằng:",
+      "options": [
+        "A. \\({3^n}.3\\) .",
+        "B. \\({3^n} + 3\\) .",
+        "C. \\({3^n} + 1\\) .",
+        "D. \\(3(n + 1)\\) ."
+      ],
+      "answer": "A",
+      "note": "Chọn A"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trong các dãy số \\(\\left( {{u_n}} \\right)\\) được xác định như sau, dãy số giảm là:",
+      "options": [
+        "A. \\({u_n} = \\frac{{3n - 1}}{{n + 1}}\\) .",
+        "B. \\({u_n} = {n^3}\\) .",
+        "C. \\({u_n} = \\frac{1}{{{3^{n + 1}}}}\\) .",
+        "D. \\({u_n} = \\sqrt n \\) ."
+      ],
+      "answer": "C",
+      "note": "Chọn C"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho dãy số \\(\\left( {{u_n}} \\right)\\) biết \\({u_n} = \\cos n\\) . Dãy số \\(\\left( {{u_n}} \\right)\\) là:",
+      "options": [
+        "A. Dãy số tăng.",
+        "B. Dãy số giảm.",
+        "C. Dãy số bị chặn.",
+        "D. Dãy số bị chặn dưới, không bị chặn trên."
+      ],
+      "answer": "C",
+      "note": "Chọn C"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho dãy số \\(\\left( {{u_n}} \\right)\\) thỏa mãn \\({u_n} = \\frac{{{2^{n - 1}} + 1}}{n}\\) . Tìm số hạng thứ \\(10\\) của dãy số đã cho.",
+      "options": [
+        "A. \\(51,2\\) .",
+        "B. \\(51,3\\) .",
+        "C. \\(51,1\\) .",
+        "D. \\(102,3\\) ."
+      ],
+      "answer": "C",
+      "note": "Chọn B Ta có: \\({u_{10}} = \\frac{{{2^{10 - 1}} + 1}}{{10}}\\)\\( = 51,3\\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho dãy số \\(\\left( {{u_n}} \\right)\\) , biết \\({u_n} = {\\left( { - 1} \\right)^{n + 1}}\\sqrt {n + 1} \\) . Mệnh đề nào sau đây đúng?",
+      "options": [
+        "A. \\({u_8} = 3\\) .",
+        "B. \\({u_8} = - 3\\) .",
+        "C. \\({u_8} = \\sqrt 8 \\) .",
+        "D. \\({u_8} = - \\sqrt 8 \\) ."
+      ],
+      "answer": "B",
+      "note": "Chọn B Ta có \\({u_8} = {\\left( { - 1} \\right)^{8 + 1}}\\sqrt {8 + 1} = - 3\\)."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Cho dãy số \\(\\left( {{u_n}} \\right)\\) cho bởi công thức tổng quát \\({u_n} = 3 + 4{n^2},\\,\\,n \\in {\\mathbb{N}^*}\\) . Khi đó \\({u_5}\\) bằng",
+      "options": [
+        "A. \\(103\\) .",
+        "B. \\(23\\) .",
+        "C. \\(503\\) .",
+        "D. \\( - 97\\) ."
+      ],
+      "answer": "A",
+      "note": "Chọn A \\({u_n} = 3 + 4{n^2} \\Rightarrow {u_5} = 3 + {4.5^2} = 103\\)."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho dãy số \\(\\left( {{u_n}} \\right)\\) với \\({u_n} = {3^n}.\\) Tính \\({u_{n + 1}}?\\)",
+      "options": [
+        "A. \\({u_{n + 1}} = {3^n} + 3.\\) .",
+        "B. \\({u_{n + 1}} = {3.3^n}.\\) .",
+        "C. \\({u_{n + 1}} = {3^n} + 1.\\) .",
+        "D. \\({u_{n + 1}} = 3\\left( {n + 1} \\right).\\)"
+      ],
+      "answer": "B",
+      "note": "Chọn B Ta có \\({u_{n + 1}} = {3^{n + 1}} = {3.3^n}.\\)."
+    }
+  ]
+}

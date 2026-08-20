@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-11-canh-dieu-bai-5-truy-van-trong-co",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-11-canh-die",
+  "grade": "l11",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 11 Cánh diều Bài 5: Truy vấn trong cơ sở dữ liệu quan hệ có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Truy vấn trong cơ sở dữ liệu (CSDL) là gì?",
+      "options": [
+        "A. Một thao tác trên dữ liệu để thêm, sửa, hoặc xóa bản ghi",
+        "B. Một phát biểu yêu cầu khai thác dữ liệu từ CSDL",
+        "C. Một phát biểu thực hiện thay đổi cấu trúc của bảng trong CSDL",
+        "D. Một chức năng đặc biệt chỉ có trong hệ quản trị CSDL quan hệ"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Truy vấn là một phát biểu thể hiện yêu cầu thao tác hoặc khai thác dữ liệu từ CSDL."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Ngôn ngữ truy vấn phổ biến nhất trong các hệ quản trị CSDL quan hệ là gì?",
+      "options": [
+        "A. Python",
+        "B. HTML",
+        "C. SQL",
+        "D. XML"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: SQL (Structured Query Language) là ngôn ngữ truy vấn phổ biến nhất cho các hệ quản trị CSDL quan hệ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: : Mệnh đề nào trong SQL được sử dụng để chỉ ra thông tin cần hiển thị?",
+      "options": [
+        "A. SELECT",
+        "B. FROM",
+        "C. WHERE",
+        "D. UPDATE"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Mệnh đề SELECT trong câu truy vấn SQL dùng để xác định các trường dữ liệu mà ta muốn hiển thị."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Trong câu lệnh SQL, mệnh đề WHERE có chức năng gì?",
+      "options": [
+        "A. Xác định bảng dữ liệu sẽ được truy cập",
+        "B. Chỉ ra thông tin cần hiển thị",
+        "C. Xác định điều kiện để lọc dữ liệu",
+        "D. Chỉ định các trường cần cập nhật"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Mệnh đề WHERE trong SQL được sử dụng để chỉ định các điều kiện để lọc bản ghi từ bảng dữ liệu."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Để lấy mã định danh, tên học sinh và điểm Toán của những học sinh có điểm Toán dưới 5.0, câu truy vấn SQL nào sau đây là đúng?",
+      "options": [
+        "A. SELECT MA_DINH_DANH, TEN, DIEM_TOAN FROM HOC_SINH WHERE DIEM_TOAN <= 5.0",
+        "B. SELECT MA_DINH_DANH, TEN, DIEM_TOAN FROM HOC_SINH WHERE DIEM_TOAN < 5.0",
+        "C. SELECT * FROM HOC_SINH WHERE DIEM_TOAN < 5.0",
+        "D. SELECT MA_DINH_DANH, TEN FROM HOC_SINH WHERE DIEM_TOAN < 5.0"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Truy vấn B đúng vì nó lấy mã định danh, tên học sinh và điểm Toán của những học sinh có điểm Toán dưới 5.0, đúng với điều kiện yêu cầu và cấu trúc của câu truy vấn"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong SQL, mệnh đề nào chỉ định bảng mà dữ liệu được truy xuất?",
+      "options": [
+        "A. SELECT",
+        "B. UPDATE",
+        "C. WHERE",
+        "D. FROM"
+      ],
+      "answer": "D",
+      "note": "Đáp án: D Giải thích: Mệnh đề FROM trong SQL dùng để chỉ định bảng dữ liệu cần truy cập để lấy thô"
+    }
+  ]
+}

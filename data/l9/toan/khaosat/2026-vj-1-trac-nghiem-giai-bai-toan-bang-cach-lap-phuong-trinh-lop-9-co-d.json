@@ -1,0 +1,78 @@
+{
+  "id": "2026-vj-1-trac-nghiem-giai-bai-toan-bang-cach-lap-phuong-trinh-lop-9-co-d",
+  "sourceId": "vietjack:1-trac-nghiem-giai-bai-toan-bang-cach-la",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.Trắc nghiệm Giải bài toán bằng cách lập phương trình lớp 9 (có đáp án)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Chiều dài của mảnh đất hình chữ nhật tính theo \\(x\\) là",
+      "options": [
+        "A. \\(x + 14\\)(m).",
+        "B. \\(x - 14\\) (m).",
+        "C. \\(14.x\\) (m).",
+        "D. \\(x:14\\) (m)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Gọi chiều rộng của mảnh đất là \\(x\\) (m) với \\(x > 0.\\) Vì chiều dài hơn chiều rộng \\(14\\) m nên ta có chiều dài là \\(x + 14\\) (m)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Nếu gọi mảnh đất hình chữ nhật với các đỉnh là \\(A,\\,\\,B,\\,\\,C,\\,\\,D,\\) thì biểu thức nào sau đây biểu diễn độ dài đường chéo của hình chữ nhật?",
+      "options": [
+        "A. \\(B{D^2} = A{C^2} + A{B^2}.\\)",
+        "B. \\(B{D^2} = A{D^2} + A{B^2}.\\)",
+        "C. \\(B{D^2} = A{D^2} + A{C^2}.\\)",
+        "D. \\(B{D^2} = A{C^2} - A{B^2}.\\)"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Áp dụng định lý Pythagore trong tam giác vuông \\(ABD\\) vuông tại \\(A\\) ta có: \\(B{D^2} = A{D^2} + A{B^2}.\\)"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Dựa vào biểu thức biểu diễn độ dài đường chéo ở Câu 2, hãy lập phương trình cho bài toán",
+      "options": [
+        "A. \\({x^2} + {\\left( {x - 14} \\right)^2} = {26^2}.\\)",
+        "B. \\({x^2} - {\\left( {x + 14} \\right)^2} = {26^2}.\\)",
+        "C. \\({x^2} + {\\left( {x + 14} \\right)^2} = {26^2}.\\)",
+        "D. \\({\\left( {x + 7} \\right)^2} - {x^2} = {26^2}.\\,\\)"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Dựa vào biểu thức biểu diễn độ dài đường chéo ở Câu 2 , ta lập được phương trình cho bài toán \\({x^2} + {\\left( {x + 14} \\right)^2} = {26^2}.\\)"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Giải phương trình ở Câu 3 , và kết luận về độ dài của chiều dài và rộng của mảnh đất hình chữ nhật.",
+      "options": [
+        "A. Chiều dài: \\(24\\) m; chiều rộng: \\(14\\) m.",
+        "B. Chiều dài: \\(34\\) m; chiều rộng: \\(10\\) m.",
+        "C. Chiều dài: \\(14\\) m; chiều rộng: \\(7\\) m.",
+        "D. Chiều dài: \\(24\\) m; chiều rộng: \\(10\\) m."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Ta có \\({x^2} + {\\left( {x + 14} \\right)^2} = {26^2}.\\) \\({x^2} + {x^2} + 28x + 196 = 676\\) \\(2{x^2} + 28x - 480 = 0\\) \\({x^2} + 14x - 240 = 0\\) Ta có: \\(\\Delta ' = {7^2} - 1.\\left( { - 240} \\right) = 289\\) Phương trình có hai nghiệm phân biệt \\({x_1} = \\frac{{ - 7 - \\sqrt {289} }}{1} = - 24\\) (không thỏa mãn điều kiện); \\({x_2} = \\frac{{ - 7 + \\sqrt {289} }}{1} = 10\\) (thỏa mãn điều kiện); Vậy chiều rộng của mảnh đất hình chữ nhật là \\(10\\) m và chiều dài của mảnh đất hình chữ nhật là \\(10 + 14 = 24\\,\\,\\left( {\\rm{m}} \\right).\\)"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: II. Thông hiểu Hai vòi nước cùng chảy vào bể thì 6 giờ đầy bể. Nếu mỗi vòi chảy một mình cho đây bể thì vòi thứ hai cần nhiều hơn vòi thứ nhất 3 giờ. Nếu gọi thời gian vòi thứ nhất chảy một mình đầy bể là \\(x\\) (giờ) với \\(x > 6.\\) Phương trình của bài toán này là",
+      "options": [
+        "A. \\(\\frac{1}{x} + \\frac{1}{{x + 3}} = \\frac{1}{6}.\\)",
+        "B. \\(\\frac{1}{x} + \\frac{1}{{x - 3}} = \\frac{1}{6}.\\)",
+        "C. \\(\\frac{1}{x} - \\frac{1}{{x + 3}} = \\frac{1}{6}.\\)",
+        "D. \\(\\frac{1}{x} - \\frac{1}{{x - 3}} = \\frac{1}{6}.\\)"
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A Gọi thời gian vòi thứ nhất chảy một mình đầy bể là \\(x\\) (giờ) với \\(x > 6.\\) Vì nều mỗi vòi chảy một mình cho đây bể thì vòi thứ hai cần nhiều hơn vòi thứ nhất 3 giờ nên thời gian vòi thứ hai chảy một mình đầy bể là \\(x - 3\\) (giờ) Trong \\(1\\) giờ, vòi thứ nhất chảy được \\(\\frac{1}{x}\\) (bể) Trong \\(1\\) giờ, vòi thứ nhất chảy được \\(\\frac{1}{{x - 3}}\\) (bể) Trong \\(1\\) giờ, cả hai vòi chảy được \\(\\frac{1}{6}\\) (bể) Phương trình của bài toán là: \\(\\frac{1}{x} + \\frac{1}{{x + 3}} = \\frac{1}{6}.\\)"
+    }
+  ]
+}

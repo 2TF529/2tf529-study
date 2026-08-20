@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-3-10-bai-tap-nguyen-ham-cua-ham-so-luong-giac-co-loi-giai",
+  "sourceId": "vietjack:3-10-bai-tap-nguyen-ham-cua-ham-so-luong",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.10 bài tập Nguyên hàm của hàm số lượng giác có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho hàm số f(x) = 1 + sinx. Khẳng định nào dưới đây đúng?",
+      "options": [
+        "A. \\(\\int {f\\left( x \\right)dx} = x - \\cos x + C\\);",
+        "B. \\(\\int {f\\left( x \\right)dx} = x + \\sin x + C\\);",
+        "C. \\(\\int {f\\left( x \\right)dx} = x + \\cos x + C\\);",
+        "D. \\(\\int {f\\left( x \\right)dx} = \\cos x + C\\)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A \\(\\int {f\\left( x \\right)dx} = \\int {\\left( {1 + \\sin x} \\right)dx} = x - \\cos x + C\\)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hàm số \\(f\\left( x \\right) = 1 - \\frac{1}{{{{\\cos }^2}x}}\\). Khẳng định nào dưới đây đúng?",
+      "options": [
+        "A. \\(\\int {f\\left( x \\right)dx} = x + \\tan x + C\\);",
+        "B. \\(\\int {f\\left( x \\right)dx} = x + \\cot x + C\\);",
+        "C. \\(\\int {f\\left( x \\right)dx} = x - \\tan x + C\\);",
+        "D. \\(\\int {f\\left( x \\right)dx} = x - \\cot x + C\\)."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C \\(\\int {f\\left( x \\right)dx} = \\int {\\left( {1 - \\frac{1}{{{{\\cos }^2}x}}} \\right)dx} = x - \\tan x + C\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Họ nguyên hàm của hàm số f(x) = cosx + 6x là",
+      "options": [
+        "A. sinx + 3x 2 + C;",
+        "B. −sinx + 3x 2 + C;",
+        "C. sinx + 6x 2 + C;",
+        "D. −sinx + C."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Có \\(\\int {f\\left( x \\right)dx} = \\int {\\left( {\\cos x + 6x} \\right)dx} = \\sin x + 3{x^2} + C\\)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Tìm nguyên hàm của hàm số f(x) = 2sinx + 3x.",
+      "options": [
+        "A. \\(\\int {\\left( {2\\sin x + 3x} \\right)dx} = - 2\\cos x + \\frac{3}{2}{x^2} + C\\);",
+        "B. \\(\\int {\\left( {2\\sin x + 3x} \\right)dx} = 2\\cos x + 3{x^2} + C\\);",
+        "C. \\(\\int {\\left( {2\\sin x + 3x} \\right)dx} = {\\sin ^2}x + \\frac{3}{2}x + C\\);",
+        "D. \\(\\int {\\left( {2\\sin x + 3x} \\right)dx} = \\sin 2x + \\frac{3}{2}{x^2} + C\\)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A \\(\\int {\\left( {2\\sin x + 3x} \\right)dx} = - 2\\cos x + \\frac{3}{2}{x^2} + C\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Họ nguyên hàm của hàm số \\(f\\left( x \\right) = \\frac{1}{x} + \\sin x\\) là",
+      "options": [
+        "A. lnx – cosx + C;",
+        "B. \\( - \\frac{1}{{{x^2}}} - \\cos x + C\\);",
+        "C. ln|x| + cosx + C;",
+        "D. ln|x| − cosx + C."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Ta có \\(\\int {f\\left( x \\right)} dx = \\int {\\left( {\\frac{1}{x} + \\sin x} \\right)} dx = \\ln \\left| x \\right| - \\cos x + C\\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho hàm số \\(f\\left( x \\right) = \\cos \\frac{x}{2}\\sin \\frac{x}{2}\\). Khẳng định nào dưới đây đúng?",
+      "options": [
+        "A. \\(\\int {\\cos \\frac{x}{2}\\sin \\frac{x}{2}dx} = \\frac{1}{2}\\sin x + C\\);",
+        "B. \\(\\int {\\cos \\frac{x}{2}\\sin \\frac{x}{2}dx} = \\frac{1}{2}\\cos x + C\\);",
+        "C. \\(\\int {\\cos \\frac{x}{2}\\sin \\frac{x}{2}dx} = - \\frac{1}{2}\\sin x + C\\);",
+        "D. \\(\\int {\\cos \\frac{x}{2}\\sin \\frac{x}{2}dx} = - \\frac{1}{2}\\cos x + C\\)."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D \\(\\int {\\cos \\frac{x}{2}\\sin \\frac{x}{2}dx} = \\frac{1}{2}\\int {\\sin xdx} = - \\frac{1}{2}\\cos x + C\\)."
+    }
+  ]
+}

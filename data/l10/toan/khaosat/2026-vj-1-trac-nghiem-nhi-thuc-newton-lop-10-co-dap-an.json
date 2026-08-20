@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-trac-nghiem-nhi-thuc-newton-lop-10-co-dap-an",
+  "sourceId": "vietjack:1-trac-nghiem-nhi-thuc-newton-lop-10-co-",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.Trắc nghiệm Nhị thức Newton lớp 10 (có đáp án)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Trong khai triển nhị thức (a + 2) n + 6 (n ∈ ℕ) . Có tất cả 17 số hạng. Vậy n bằng",
+      "options": [
+        "A. 17;",
+        "B. 11;",
+        "C. 10;",
+        "D. 12."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là: C Ta có trong khai triển (a + b) n có n + 1 số hạng. Trong khai triển (a + 2) n + 6 (n ∈ ℕ) có tất cả 17 số hạng nên ta có n + 6 = 16. Vậy n = 10 ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Tổng số mũ của a và b trong mỗi hạng tử khi khai triển biểu thức (a + b) 7 bằng",
+      "options": [
+        "A. 5;",
+        "B. 6;",
+        "C. 7;",
+        "D. 8."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là: C Ta có tổng số mũ của a, b trong mỗi hạng tử khi khai triển (a + b) n luôn bằng n. Vậy tổng số mũ của a và b trong mỗi hạng tử khi khai triển biểu thức (a + b) 7 bằng 7."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Biểu thức C 9 7 (5x) 2 (-6y 2 ) 7 là một số hạng trong khai triển nhị thức nào dưới đây",
+      "options": [
+        "A. (5x – 6y) 5 ;",
+        "B. (5x – 6y 2 ) 7 ;",
+        "C. (5x – 6y 2 ) 9 ;",
+        "D. (5x – 6y 2 ) 18 ."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải. Đáp án đúng là: C Vì trong khai tiển (a + b) n thì trong mỗi số hạng tổng số mũ của a và b luôn bằng n Do đó, thay a = 5x, b = - 6y 2 thì tổng số mũ của a và b bằng 9. Đáp án C đúng"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Số hạng tử trong khai triển (2x + y) 6 bằng",
+      "options": [
+        "A. 7;",
+        "B. 6;",
+        "C. 5;",
+        "D. 4."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A Ta có trong khai triển (a + b) n có n + 1 hạng tử. Vậy trong khai triển (2x + y) 6 có 7 hạng tử."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Hệ số của x 7 trong khai triển của (3 – x) 9 là",
+      "options": [
+        "A. 36;",
+        "B. 324;",
+        "C. - 324;",
+        "D. – 36."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là: C Ta có công thức số hạng tổng quát trong khai triển (a + b) n là C n k a n – k .b k (k ≤ n) Thay a = 3, b = - x và n = 9 vào trong công thức ta có C 9 k 3 9 – k .(- x) k = (- 1) k C 9 k 3 9 – k .(x) k Vì tìm hệ số của x 7 nên ta có x k = x 7 ⇒ k = 7 Hệ số của x 7 trong khai triển là (-1) 7 C 9 7 .3 2 = - 324."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Hệ số của x 5 trong khai triển (1 + x) 12 bằng",
+      "options": [
+        "A. 820;",
+        "B. 210;",
+        "C. 792;",
+        "D. 220."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là: C Ta có công thức số hạng tổng quát trong khai triển (a + b) n là C n k a n – k .b k (k ≤ n) Thay a = 1, b = x và n = 12 vào trong công thức ta có C 12 k 1 12 − k . x k Vì tìm hệ số của x 5 nên ta có x k = x 5 ⇒ k = 5 Hệ số của x 5 trong khai triển là C 12 5 .1 7 = 792."
+    }
+  ]
+}

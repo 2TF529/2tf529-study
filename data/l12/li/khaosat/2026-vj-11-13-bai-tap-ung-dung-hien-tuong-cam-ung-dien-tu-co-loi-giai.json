@@ -1,0 +1,65 @@
+{
+  "id": "2026-vj-11-13-bai-tap-ung-dung-hien-tuong-cam-ung-dien-tu-co-loi-giai",
+  "sourceId": "vietjack:11-13-bai-tap-ung-dung-hien-tuong-cam-un",
+  "grade": "l12",
+  "subjectSlug": "li",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "11.13 bài tập Ứng dụng hiện tượng cảm ứng điện từ (có lời giải)",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Nhận định nào sau đây là không đúng khi nói về vai trò của máy biến áp trong truyền tải điện năng?",
+      "options": [
+        "A. Máy biến áp có vai trò quan trọng trong chuyển đổi dòng một chiều thành dòng xoay chiều giúp dòng điện xoay chiều được sử dụng rộng rãi hiện nay.",
+        "B. Máy biến áp có vai trò lớn trong truyền tải điện năng đi xa, giúp giảm hao phí trên đường truyền.",
+        "C. Máy biến áp có vai trò quan trọng trong truyền tải dòng điện xoay chiều giúp tăng điện áp trước khi truyền và giảm điện áp ở nơi sử dụng.",
+        "D. Máy biến áp có vai trò lớn trong việc giảm chi phí truyền tải điện năng từ nhà máy đến nơi sử dụng."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là A Máy biến áp không dùng cho dòng một chiều."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Đối với máy biến áp lí tưởng, cuộn sơ cấp có N 1 vòng dây, cuộn thứ cấp có N 2 vòng dây. Cuộn thứ cấp nối với điện trở thành mạch kín, khi máy hoạt động, điện áp và cường độ dòng điện hiệu dụng ở cuộn sơ cấp và thứ cấp lần lượt là U 1 , I 1 và U 2 , I 2 . Mối liên hệ nào sau đây là sai?",
+      "options": [
+        "A. \\(\\frac{{{{\\rm{N}}_1}}}{{\\;{{\\rm{N}}_2}}} = \\frac{{{{\\rm{I}}_2}}}{{{{\\rm{I}}_1}}}.\\)",
+        "B. \\(\\frac{{{{\\rm{N}}_1}}}{{\\;{{\\rm{N}}_2}}} = \\frac{{{{\\rm{U}}_2}}}{{{{\\rm{U}}_1}}}.\\)",
+        "C. \\(\\frac{{{U_2}}}{{{U_1}}} = \\frac{{{I_1}}}{{{I_2}}}.\\)",
+        "D. \\(\\frac{{{N_1}}}{{{U_1}}} = \\frac{{{N_2}}}{{{U_2}}}.\\)"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là B \\(\\frac{{{{\\rm{N}}_1}}}{{\\;{{\\rm{N}}_2}}} = \\frac{{{{\\rm{I}}_2}}}{{{{\\rm{I}}_1}}} = \\frac{{{U_2}}}{{{U_1}}}.\\)"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Để giảm bớt hao phí do toả nhiệt trên đường dây khi cần tải điện năng đi xa bằng dòng điện xoay chiều, có thể dùng biện pháp",
+      "options": [
+        "A. tăng hiệu điện thế ở nơi sản xuất điện lên n lần để giảm hao phí do toả nhiệt trên đường dây n 2 lần.",
+        "B. xây dựng nhà máy gần nơi tiêu thụ điện để giảm chiều dài đường dây truyền tải điện.",
+        "C. giảm hiệu điện thế máy phát điện n lần để giảm cường độ dòng điện trên dây n lần, giảm công suất toả nhiệt xuống n lần.",
+        "D. dùng dây dẫn bằng vật liệu siêu dẫn có đường kính lớn."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là A \\[{P_{hp}} = \\frac{{{P^2}}}{{{U^2}}}R = \\frac{{{P^2}}}{{{U^2}}}.\\rho \\frac{\\ell }{S}\\] nên để giảm hao phí có thể sử dụng các cách sau: - Tăng điện áp nơi truyền đi - Tăng tiết diện dây dẫn (tốn kém) - Giảm chiều dài dây dẫn - Thay đổi vật liệu dẫn"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Trong cuộn thứ cấp của máy biến áp có số vòng bằng 1000 xuất hiện suất điện động bằng 600 V. Nếu máy biến áp được nối vào mạng với hiệu điện thế 120 V điện thế thì số vòng trong cuộn sơ cấp là",
+      "options": [
+        "A. 500 vòng.",
+        "B. 400 vòng.",
+        "C. 600 vòng.",
+        "D. 200 vòng."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là D \\[\\frac{{{N_1}}}{{{N_2}}} = \\frac{{{U_1}}}{{{U_2}}} \\Rightarrow \\frac{{{N_1}}}{{1000}} = \\frac{{120}}{{600}} \\Rightarrow {N_1} = 200\\]"
+    }
+  ]
+}

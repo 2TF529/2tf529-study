@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-3-10-bai-tap-cac-yeu-to-anh-huong-len-dien-tro-co-loi-giai",
+  "sourceId": "vietjack:3-10-bai-tap-cac-yeu-to-anh-huong-len-di",
+  "grade": "l11",
+  "subjectSlug": "li",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.10 Bài tập Các yếu tố ảnh hưởng lên điện trở (có lời giải)",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: So sánh đèn sợi đốt và điện trở nhiệt thuận. Phát biểu nào sau đây là đúng?",
+      "options": [
+        "A. Điện trở của cả hai đều tăng nhanh theo nhiệt độ.",
+        "B. Điện trở của cả hai đều tăng chậm theo nhiệt độ.",
+        "C. Điện trở đèn sợi đốt tăng nhanh hơn so với điện trở nhiệt thuận.",
+        "D. Điện trở đèn sợi đốt tăng chậm hơn so với điện trở nhiệt thuận."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là D Điện trở đèn sợi đốt tăng chậm hơn so với điện trở nhiệt thuận."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Điện trở của một đèn sợi đốt tăng theo nhiệt độ vì",
+      "options": [
+        "A. mật độ electron dẫn giảm.",
+        "B. mật độ electron dẫn tăng.",
+        "C. sự tán xạ với các electron dẫn bởi ion ở nút mạng tăng.",
+        "D. sự tán xạ với các electron dẫn bởi ion ở nủt mạng giảm."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là C Điện trở của một đèn sợi đốt tăng theo nhiệt độ vì sự tán xạ với các electron dẫn bởi ion ở nút mạng tăng."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Đặt một hiệu điện thế U vào hai đầu một đoạn dây nào đó thì dòng điện chạy qua có cường độ là I. Khẳng định: \"Điện trở R của đoạn dây được xác định bởi R = U I \". A. chỉ đúng đối với vật liệu thuần trở. B. đúng với vật liệu thuần trở và không thuần trở. C. chỉ đúng đối với vật liệu không thuần trở. D. luôn không đúng với mọi vật liệu.",
+      "options": [
+        "A. chỉ đúng đối với vật liệu thuần trở.",
+        "B. đúng với vật liệu thuần trở và không thuần trở.",
+        "C. chỉ đúng đối với vật liệu không thuần trở.",
+        "D. luôn không đúng với mọi vật liệu."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là B Đây chính là định nghĩa điện trở theo công thức (17.1) SGK."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Đặc điểm của điện trở nhiệt có hệ số nhiệt điện trở",
+      "options": [
+        "A. dương khi nhiệt độ tăng thì điện trở tăng.",
+        "B. dương khi nhiệt độ tăng thì điện trở giảm.",
+        "C. âm khi nhiệt độ tăng thì điện trở tăng.",
+        "D. âm khi nhiệt độ tăng thì điện trở giảm về bằng 0."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là A Đặc điểm của điện trở nhiệt có hệ số nhiệt điện trở dương khi nhiệt độ tăng thì điện trở tăng. Công thức điện trở R = ρ l S nên khi nhiệt độ tăng thì điện trở suất tăng do đó điện trở tăng."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Khi cho dòng điện chạy qua một sợi dây thép thì nhiệt độ của sợi dây này tăng thêm 250 0 C và điện trở của nó tăng gấp đôi. Xác định hệ số nhiệt điện trở của một sợi dây thép này.",
+      "options": [
+        "A. 0,004 K −1 .",
+        "B. 0,002 K −1 .",
+        "C. 0,04 K −1 .",
+        "D. 0.005 K −1 ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là A R 2 R 1 ≈ 1 + α t 2 − t 1 ⇒ 2 = 1 + α .250 ⇒ α = 0 , 004 K − 1"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Ở nhiệt độ t 1 = 25°C, hiệu điện thế giữa hai cực của bóng đèn là U 1 = 20 mV thì cường độ dòng điện qua đèn là I 1 = 8 mA. Khi sáng bình thường, hiệu điện thê giừa hai cực của bóng đèn là U 2 = 240 V thì cường độ dòng điện chạy qua đèn là I 2 = 8 A. Biết hệ số nhiệt điện trở của dây tóc làm bóng đèn là α = 4,2.10° K . Nhiệt độ của dây tóc bóng đèn khi đèn sáng bình thường là",
+      "options": [
+        "A. 2020 0 C",
+        "B. 2220 0 C",
+        "C. 2120 0 C",
+        "D. 2644 0 C."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là D Điện trở dây tóc ở 25 0 C và khi sáng bình thường: R 1 = U 1 I 1 = 20.10 − 3 8.10 − 3 = 2 , 5 Ω R 2 = U 2 I 2 = 240 8 = 30 Ω R 2 R 1 ≈ 1 + α t 2 − t 1 ⇒ 30 2 , 5 = 1 + 4 , 2.10 − 3 t − 25 ⇒ t 2 = 2644 0 C"
+    }
+  ]
+}

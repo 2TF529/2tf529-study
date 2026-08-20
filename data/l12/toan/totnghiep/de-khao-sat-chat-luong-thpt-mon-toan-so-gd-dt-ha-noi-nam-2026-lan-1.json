@@ -1,0 +1,196 @@
+{
+  "id": "l12-toan-totnghiep-2026-de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-ha-noi-nam-2026-lan-1",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "code": "THPT_TKT_2026_HN_01",
+  "title": "Đề khảo sát chất lượng THPT môn Toán Sở GD&ĐT Hà Nội năm 2026 - Lần 1",
+  "duration": 90,
+  "answerSource": "official",
+  "source": "https://dolthpt.vn/tot-nghiep-thpt/pdf-de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-ha-noi-nam-2026-lan-1-co-dap-an",
+  "notes": "Nội dung, đáp án và lời giải được nhập từ bản công khai của DOL THPT.",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "content": "Kết quả kiểm tra Toán của \\$40$ học sinh lớp \\$12A$ được cho bởi bảng sau.\nMốt của mẫu số liệu ghép nhóm trên thuộc khoảng điểm nào sau đây?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-ha-noi-nam-2026-lan-1/cau-01.webp\" alt=\"Hình minh họa câu 1\" loading=\"lazy\"></figure>",
+      "chuong": "các số đặc trưng đo xu thế trung tâm của mẫu số liệu ghép nhóm",
+      "dang": "mốt của mẫu số liệu ghép nhóm",
+      "type": "single",
+      "options": [
+        "A. $[2;4)$",
+        "B. $[6;8)$",
+        "C. $[4;6)$",
+        "D. $[8;10]$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Tổng số học sinh: \\$40$.\n- Bảng phân phối tần số (khoảng điểm và số học sinh): - $[0;2):\\;0$\n  - $[2;4):\\;8$\n  - $[4;6):\\;15$\n  - $[6;8):\\;10$\n  - $[8;10]:\\;7$\n- (Dựa trên hình/ma trận dữ liệu): bảng thể hiện rõ tần số của từng khoảng điểm như trên.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi: \"Mốt của mẫu số liệu ghép nhóm trên thuộc khoảng điểm nào?\" — tức là tìm khoảng điểm có số học sinh nhiều nhất.\n- Kiến thức cần dùng: *mốt của dữ liệu ghép nhóm* là khoảng lớp (modal class) có tần số lớn nhất.\n🔎 **Hướng dẫn cách làm:**\n- Liệt kê các tần số theo từng khoảng (như phần \"Thông tin đề bài\"): \\$0,\\;8,\\;15,\\;10,\\;7.$\n- Xác định giá trị lớn nhất trong dãy tần số: $\\max\\{0,8,15,10,7\\}=15.$\n- Tần số lớn nhất là \\$15$ ứng với khoảng $[4;6).$\n- Do đó, mốt chính là khoảng có tần số lớn nhất: $[4;6).$\n✅ **Đáp án: **Chọn $C. [4;6)$"
+    },
+    {
+      "id": 2,
+      "content": "Cho hàm số $y=f(x)$ liên tục và không âm trên đoạn $[0;2]$. Thể tích khối tròn xoay sinh ra khi quay quanh trục $Ox$ hình phẳng giới hạn bởi đồ thị hàm số $y=f(x)$, trục hoành và hai đường thẳng $x=0,x=2$ là",
+      "chuong": "nguyên hàm và tích phân",
+      "dang": "ứng dụng tích phân để tính thể tích vật thể",
+      "type": "single",
+      "options": [
+        "A. $\\int_0^2[f(x)]^2\\,dx$",
+        "B. $\\pi\\int_0^2[f(x)]^2\\,dx$",
+        "C. $\\pi\\int_0^2f(x)\\,dx$",
+        "D. $\\int_0^2f(x)\\,dx$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số $y=f(x)$ liên tục trên đoạn $[0;2]$.\n- Hàm số không âm trên đoạn $[0;2]$ (tức là $f(x)\\ge 0$ với mọi $x\\in[0,2]$).\n- Hình phẳng giới hạn bởi đường cong $y=f(x)$, trục hoành (Ox), và hai đường thẳng $x=0$ và $x=2$.\n- Hình đó quay quanh trục $Ox$, ta cần tính thể tích khối tròn xoay sinh ra.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi: Tính thể tích khối tròn xoay khi quay vùng đã cho quanh trục $Ox$.\n🔎 **Hướng dẫn cách làm:**\n- Chia khối theo các lát mỏng vuông góc với trục $Ox$ tại một điểm $x$, mỗi lát có độ dày $dx$.\n- Bán kính của lát tròn tại vị trí $x$ chính là khoảng cách từ trục $Ox$ đến đồ thị: $r=f(x)$ (do $f(x)\\ge0$).\n- Diện tích mặt cắt ngang (một đĩa) là $\\pi r^2=\\pi [f(x)]^2$.\n- Cộng (tích phân) các lát từ $x=0$ đến $x=2$ ta được thể tích toàn phần:\n$V=\\int_0^2\\pi[f(x)]^2\\,dx=\\pi\\int_0^2[f(x)]^2\\,dx.$\n✅ **Đáp án:** Chọn B. $\\pi\\int_0^2[f(x)]^2\\,dx$"
+    },
+    {
+      "id": 3,
+      "content": "Tập nghiệm của bất phương trình $\\log_2(x-1)\\le 3$ là",
+      "chuong": "hàm số mũ và hàm số lôgarit",
+      "dang": "bất phương trình lôgarit",
+      "type": "single",
+      "options": [
+        "A. $[1;9]$",
+        "B. $(1;9]$",
+        "C. $(-\\infty;9]$",
+        "D. $(1;9)$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Bất phương trình: $\\log_2(x-1)\\le 3$\n- Yêu cầu: Tìm tập nghiệm của bất phương trình.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu tìm tất cả các giá trị của $x$ thỏa mãn $\\log_2(x-1)\\le 3$.\n- Cần áp dụng kiến thức về miền xác định của hàm logarit và tính chất đơn điệu của logarit với cơ số lớn hơn 1.\n🔎 **Hướng dẫn cách làm:**\n- Xác định miền xác định của biểu thức logarit: vì có $\\log_2(x-1)$ nên cần $x-1>0$, tức là $x>1$.\n- Vì cơ số \\$2>1$ nên hàm $\\log_2 t$ là hàm đồng biến trên miền xác định. Do đó bất phương trình\n$\\log_2(x-1)\\le 3$\ntương đương với\n$x-1\\le 2^3.$\n- Tính giá trị phía phải: \\$2^3=8$, nên\n$x-1\\le 8\\Longrightarrow x\\le 9.$\n- Kết hợp với điều kiện miền xác định $x>1$ ta được:\n\\$1<x\\le 9.$\n✅ **Đáp án:** Chọn B. $(1;9]$"
+    },
+    {
+      "id": 4,
+      "content": "Cho hàm số $y=f(x)$ có đạo hàm trên $\\mathbb{R}$ và có bảng xét dấu của $f\\,\\prime(x)$ như sau. Số điểm cực trị của hàm số $y=f(x)$ là\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-ha-noi-nam-2026-lan-1/cau-04.webp\" alt=\"Hình minh họa câu 4\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "cực trị của hàm số",
+      "type": "single",
+      "options": [
+        "A. \\$2$",
+        "B. \\$1$",
+        "C. \\$3$",
+        "D. \\$0$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số $y=f(x)$ có đạo hàm trên $\\mathbb{R}$.\n- Bảng xét dấu của $f'(x)$ cho biết: - $f'(x)<0$ trên khoảng $(-\\infty,-3)$;\n  - $f'(-3)=0$ và $f'(x)>0$ trên khoảng $(-3,1)$;\n  - $f'(1)=0$ và $f'(x)>0$ trên khoảng $(1,2)$;\n  - $f'(2)=0$ và $f'(x)<0$ trên khoảng $(2,+\\infty)$.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu: xác định số điểm cực trị (cực đại hoặc cực tiểu) của hàm $y=f(x)$ dựa trên bảng xét dấu của $f'(x)$.\n- Cần vận dụng khái niệm: một điểm tới hạn $x_0$ là điểm cực trị khi và chỉ khi dấu của $f'(x)$ đổi chiều qua $x_0$ (từ - sang + là cực tiểu; từ + sang - là cực đại).\n🔎 **Hướng dẫn cách làm:**\n- Xác định các điểm tới hạn từ bảng: $x=-3,\\; x=1,\\; x=2$ (tại đó $f'(x)=0$).\n- Kiểm tra dấu của $f'(x)$ ở hai bên mỗi điểm: - Tại $x=-3$: trái của $-3$ là khoảng có $f'(x)<0$, phải của $-3$ là khoảng có $f'(x)>0$. Dấu đổi từ - sang + ⇒ $x=-3$ là một điểm cực tiểu.\n  - Tại $x=1$: trái của \\$1$ là khoảng có $f'(x)>0$ (từ $(-3,1)$), phải của \\$1$ là khoảng có $f'(x)>0$ (trong $(1,2)$). Dấu không đổi (vẫn +) ⇒ $x=1$ không phải là điểm cực trị.\n  - Tại $x=2$: trái của \\$2$ là khoảng có $f'(x)>0$, phải của \\$2$ là khoảng có $f'(x)<0$. Dấu đổi từ + sang - ⇒ $x=2$ là một điểm cực đại.\n- Kết luận: có 2 điểm trong các điểm tới hạn là điểm cực trị (một cực tiểu tại $x=-3$ và một cực đại tại $x=2$).\n✅ **Đáp án:** Chọn  $A. 2$"
+    },
+    {
+      "id": 5,
+      "content": "Trong không gian với hệ trục tọa độ $Oxyz$, cho mặt phẳng $(P):x-2y+2z-1=0$. Một vectơ pháp tuyến của mặt phẳng $(P)$ có tọa độ là",
+      "chuong": "phương pháp tọa độ trong không gian",
+      "dang": "vectơ pháp tuyến và cặp vectơ chỉ phương của mặt phẳng",
+      "type": "single",
+      "options": [
+        "A. $(1;-2;2)$",
+        "B. $(-1;-2;2)$",
+        "C. $(1;2;2)$",
+        "D. $(-1;1;2)$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Trong không gian với hệ trục tọa độ $Oxyz$.\n- Mặt phẳng $(P):\\;x-2y+2z-1=0$.\n- Cần tìm một vectơ pháp tuyến của mặt phẳng $(P)$.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu xác định một vectơ pháp tuyến của mặt phẳng đã cho.\n- Kiến thức cần áp dụng: hệ số của $x,y,z$ trong phương trình mặt phẳng dạng $ax+by+cz+d=0$ cho ta vectơ pháp tuyến $\\vec{n}=(a,b,c)$.\n🔎 **Hướng dẫn cách làm:**\n- Phương trình tổng quát của một mặt phẳng là $ax+by+cz+d=0$, vectơ pháp tuyến là $\\vec{n}=(a,b,c)$.\n- So sánh với phương trình $(P):\\;x-2y+2z-1=0$ ta thấy $a=1,\\;b=-2,\\;c=2$.\n- Vậy một vectơ pháp tuyến là $\\vec{n}=(1,-2,2)$.\n- Kiểm tra các phương án sai: - B: $(-1,-2,2)$ không tỉ lệ với $(1,-2,2)$ nên sai.\n  - C: $(1,2,2)$ có hệ số thứ hai khác dấu nên sai.\n  - D: $(-1,1,2)$ cũng không tỉ lệ nên sai.\n✅ **Đáp án:** Chọn A. $(1;-2;2)$"
+    },
+    {
+      "id": 6,
+      "content": "Cho cấp số nhân $(u_n)$ có số hạng đầu tiên $u_1=3$ và công bội $q=-2$. Số hạng thứ tư của cấp số nhân đã cho là",
+      "chuong": "dãy số. cấp số cộng và cấp số nhân",
+      "dang": "số hạng tổng quát của cấp số nhân",
+      "type": "single",
+      "options": [
+        "A. $u_4=-48$",
+        "B. $u_4=-24$",
+        "C. $u_4=-4$",
+        "D. $u_4=48$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cấp số nhân có số hạng đầu là $u_1=3$.\n- Công bội là $q=-2$.\n- Cần tìm số hạng thứ tư $u_4$.\n❓ **Hiểu câu hỏi:**\n- Bài toán yêu cầu tính số hạng thứ tư của một cấp số nhân.\n- Ta dùng công thức số hạng tổng quát của cấp số nhân: $u_n=u_1\\cdot q^{n-1}$.\n🔎 **Hướng dẫn cách làm:**\n- Với cấp số nhân, để tìm số hạng thứ $n$, ta dùng công thức: $u_n=u_1\\cdot q^{n-1}$.\n- Thay $n=4$ vào công thức, ta được: $u_4=u_1\\cdot q^{4-1}$.\n- Thay tiếp $u_1=3$ và $q=-2$, ta có: $u_4=3\\cdot (-2)^3$.\n- Tính lũy thừa trước: $(-2)^3=-8$.\n- Khi đó: $u_4=3\\cdot (-8)=-24$.\n- Vậy số hạng thứ tư là $u_4=-24$.\n✅ **Đáp án:** Chọn B. $u_4=-24$"
+    },
+    {
+      "id": 7,
+      "content": "Cho hình hộp $ABCD.A\\,\\prime B\\,\\prime C\\,\\prime D\\,\\prime$ (tham khảo hình vẽ). Khi đó, tổng $\\overrightarrow{AB}+\\overrightarrow{AD}+\\overrightarrow{DD\\,\\prime}$ bằng\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-ha-noi-nam-2026-lan-1/cau-07.webp\" alt=\"Hình minh họa câu 7\" loading=\"lazy\"></figure>",
+      "chuong": "vectơ và hệ trục tọa độ trong không gian",
+      "dang": "tổng và hiệu của hai vectơ trong không gian",
+      "type": "single",
+      "options": [
+        "A. $\\overrightarrow{AD\\,\\prime}$",
+        "B. $\\overrightarrow{C\\,\\prime A}$",
+        "C. $\\overrightarrow{AC\\,\\prime}$",
+        "D. $\\overrightarrow{D\\,\\prime A}$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cho hình hộp $ABCD.A'B'C'D'$ và cần tính tổng $\\overrightarrow{AB}+\\overrightarrow{AD}+\\overrightarrow{DD'}$.\n- Các đáp án đều là các vectơ nên ta cần biến đổi tổng vectơ về một vectơ quen thuộc trong hình hộp.\n❓ **Hiểu câu hỏi:**\n- Bài toán hỏi tổng của ba vectơ đã cho bằng vectơ nào trong các đáp án $A,B,C,D$.\n- Ta dùng quy tắc hình bình hành trên đáy hình hộp và tính chất các cạnh song song, bằng nhau trong hình hộp.\n🔎 **Hướng dẫn cách làm:**\n- Trên mặt đáy $ABCD$, ta có $\\overrightarrow{AB}+\\overrightarrow{AD}=\\overrightarrow{AC}$ vì $ABCD$ là hình bình hành.\n- Khi đó tổng đã cho trở thành: $\\overrightarrow{AB}+\\overrightarrow{AD}+\\overrightarrow{DD'}=\\overrightarrow{AC}+\\overrightarrow{DD'}$.\n- Trong hình hộp, các cạnh bên song song và bằng nhau nên: $\\overrightarrow{DD'}=\\overrightarrow{CC'}$.\n- Thay vào, ta được: $\\overrightarrow{AC}+\\overrightarrow{CC'}=\\overrightarrow{AC'}$.\n- Vậy: $\\overrightarrow{AB}+\\overrightarrow{AD}+\\overrightarrow{DD'}=\\overrightarrow{AC'}$.\n✅ **Đáp án:** Chọn C. $\\overrightarrow{AC'}$"
+    },
+    {
+      "id": 8,
+      "content": "Họ nguyên hàm của hàm số $f(x)=x^7$ là",
+      "chuong": "nguyên hàm và tích phân",
+      "dang": "nguyên hàm của một số hàm số thường gặp",
+      "type": "single",
+      "options": [
+        "A. $\\dfrac{x^8}{8}+C$",
+        "B. \\$7x^6+C$",
+        "C. \\$8x^8+C$",
+        "D. $\\dfrac{x^7}{7}+C$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số đã cho là $f(x)=x^7$.\n- Bài toán yêu cầu tìm họ nguyên hàm của hàm số này.\n❓ **Hiểu câu hỏi:**\n- Ta cần tìm một hàm $F(x)$ sao cho $F'(x)=x^7$.\n- Muốn làm được điều đó, ta dùng công thức nguyên hàm cơ bản: $\\int x^n,dx=\\frac{x^{n+1}}{n+1}+C \\text{ với } n\\ne -1$.\n🔎 **Hướng dẫn cách làm:**\n- Với bài này, ta có $f(x)=x^7$ nên số mũ của $x$ là \\$7$.\n- Áp dụng công thức nguyên hàm: $\\int x^7,dx=\\frac{x^{7+1}}{7+1}+C$.\n- Rút gọn lại, ta được: $\\int x^7,dx=\\frac{x^8}{8}+C$.\n- So sánh với các đáp án đã cho, biểu thức đúng là $\\frac{x^8}{8}+C$.\n✅ **Đáp án:** Chọn A. $\\frac{x^8}{8}+C$"
+    },
+    {
+      "id": 9,
+      "content": "Cho hình chóp $O.ABC$ có $OA,OB,OC$ đôi một vuông góc với nhau và $OA=a,OB=b,OC=c$. Thể tích của khối chóp $O.ABC$ bằng",
+      "chuong": "quan hệ vuông góc trong không gian",
+      "dang": "thể tích",
+      "type": "single",
+      "options": [
+        "A. $abc$",
+        "B. $\\dfrac{abc}{3}$",
+        "C. $\\dfrac{abc}{2}$",
+        "D. $\\dfrac{abc}{6}$"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hình chóp $O.ABC$ có ba cạnh $OA,OB,OC$ đôi một vuông góc với nhau.\n- Độ dài các cạnh là $OA=a,\\ OB=b,\\ OC=c$.\n- Cần tính thể tích của khối chóp $O.ABC$.\n❓ **Hiểu câu hỏi:**\n- Đây là hình chóp tam giác có ba cạnh xuất phát từ đỉnh $O$ vuông góc đôi một.\n- Ta dùng công thức thể tích của khối chóp vuông ba cạnh: $V=\\frac{1}{6}abc$.\n🔎 **Hướng dẫn cách làm:**\n- Vì $OA,OB,OC$ đôi một vuông góc, nên ta có thể xem $OA,OB,OC$ lần lượt là ba kích thước vuông góc của khối chóp.\n- Thể tích của khối chóp loại này được tính theo công thức: $V=\\frac{1}{6}\\cdot OA\\cdot OB\\cdot OC$.\n- Thay các độ dài đã cho vào, ta được: $V=\\frac{1}{6}\\cdot a\\cdot b\\cdot c$.\n- Suy ra: $V=\\frac{abc}{6}$.\n- Đối chiếu với các đáp án đã cho, ta chọn đáp án đúng.\n✅ **Đáp án:** Chọn D. $\\frac{abc}{6}$"
+    },
+    {
+      "id": 10,
+      "content": "Tập xác định của hàm số $y=\\tan x$ là",
+      "chuong": "hàm số lượng giác và phương trình lượng giác",
+      "dang": "định nghĩa hàm số lượng giác",
+      "type": "single",
+      "options": [
+        "A. $\\mathbb{R}\\setminus\\left\\{\\dfrac{\\pi}{2}+k2\\pi\\mid k\\in\\mathbb{Z}\\right\\}$",
+        "B. $\\mathbb{R}\\setminus\\{k\\pi\\mid k\\in\\mathbb{Z}\\}$",
+        "C. $\\mathbb{R}\\setminus\\{k2\\pi\\mid k\\in\\mathbb{Z}\\}$",
+        "D. $\\mathbb{R}\\setminus\\left\\{\\dfrac{\\pi}{2}+k\\pi\\mid k\\in\\mathbb{Z}\\right\\}$"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Môn: MATH\n- Hàm số: $y=\\tan x$\n- Yêu cầu: Tìm tập xác định của hàm số\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu xác định tất cả các giá trị của $x$ mà hàm số $y=\\tan x$ xác định.\n- Cần nhớ: $\\tan x=\\dfrac{\\sin x}{\\cos x}$ nên hàm số không xác định khi mẫu số bằng 0, tức là khi $\\cos x=0$.\n🔎 **Hướng dẫn cách làm:**\n- Viết lại định nghĩa: $\\tan x=\\dfrac{\\sin x}{\\cos x}.$\n- Hàm số xác định khi và chỉ khi $\\cos x\\neq 0.$\n- Giải phương trình $\\cos x=0$. Ta biết nghiệm tổng quát là\n$x=\\dfrac{\\pi}{2}+k\\pi\\quad (k\\in\\mathbb{Z}).$\n- Vậy những giá trị $x$ làm cho hàm vô định là $\\dfrac{\\pi}{2}+k\\pi\\ (k\\in\\mathbb{Z}).$\n- Do đó tập xác định của $y=\\tan x$ là tất cả các số thực trừ các điểm trên:\n$\\mathbb{R}\\setminus\\left\\{\\dfrac{\\pi}{2}+k\\pi\\mid k\\in\\mathbb{Z}\\right\\}.$\n✅ **Đáp án:** Chọn  $D. \\mathbb{R}\\setminus\\left\\{\\dfrac{\\pi}{2}+k\\pi\\mid k\\in\\mathbb{Z}\\right\\}$"
+    },
+    {
+      "id": 11,
+      "content": "Trong không gian với hệ trục tọa độ $Oxyz$, cho vectơ $\\vec{u}=3\\vec{i}-2\\vec{j}+\\vec{k}$. Tọa độ của vectơ $\\vec{u}$ là",
+      "chuong": "vectơ và hệ trục tọa độ trong không gian",
+      "dang": "tọa độ của điểm, tọa độ của vectơ trong không gian",
+      "type": "single",
+      "options": [
+        "A. $(1;3;-2)$",
+        "B. $(3;1;-2)$",
+        "C. $(3;-2;1)$",
+        "D. $(-2;3;1)$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Không gian với hệ trục tọa độ $Oxyz$.\n- Cho vectơ $\\vec{u}=3\\vec{i}-2\\vec{j}+\\vec{k}$.\n- Yêu cầu: tìm tọa độ của vectơ $\\vec{u}$.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu đọc các hệ số của $\\vec{i},\\vec{j},\\vec{k}$ trong biểu diễn của vectơ để cho được tọa độ.\n- Kiến thức cần dùng: quy ước cơ bản trong không gian 3 chiều: nếu $\\vec{v}=x\\vec{i}+y\\vec{j}+z\\vec{k}$ thì tọa độ của $\\vec{v}$ là $(x;y;z)$.\n🔎 **Hướng dẫn cách làm:**\n- Viết lại vectơ đã cho: $\\vec{u}=3\\vec{i}-2\\vec{j}+\\vec{k}.$\n- Nhận xét: hệ số của $\\vec{i}$ là \\$3$ (tương ứng hoành độ), của $\\vec{j}$ là $-2$ (tương ứng tung độ), của $\\vec{k}$ là \\$1$ (tương ứng cao độ).\n- Tọa độ của $\\vec{u}$ là: $(3;-2;1).$\n✅ **Đáp án:** Chọn  $C. (3;-2;1)$"
+    },
+    {
+      "id": 12,
+      "content": "Cho hàm số $y=f(x)$ có đồ thị như hình vẽ. Tổng của giá trị lớn nhất và giá trị nhỏ nhất của hàm số đã cho trên đoạn $[-2;2]$ bằng\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-ha-noi-nam-2026-lan-1/cau-12.webp\" alt=\"Hình minh họa câu 12\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "cách tìm giá trị lớn nhất và giá trị nhỏ nhất của hàm số trên một đoạn",
+      "type": "single",
+      "options": [
+        "A. \\$0$",
+        "B. $-1$",
+        "C. $-5$",
+        "D. $-6$"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Đồ thị của hàm số $y=f(x)$ được cho trên hình vẽ, và cần xét trên đoạn $[-2;2]$.\n- Từ hình, ta đọc được giá trị tại một số điểm đặc biệt: tại $x=-1$ thì hàm số đạt giá trị $-1$, và tại $x=1$ thì hàm số đạt giá trị $-5$.\n- Trên đoạn $[-2;2]$, đầu mút bên trái cho giá trị $-5$ và tại $x=2$ cho giá trị $-1$.\n❓ **Hiểu câu hỏi:**\n- Bài toán yêu cầu tìm tổng của giá trị lớn nhất và giá trị nhỏ nhất của hàm số trên đoạn $[-2;2]$.\n- Muốn làm được điều đó, ta cần đọc từ đồ thị giá trị lớn nhất và nhỏ nhất của $f(x)$ trên cả đoạn đã cho.\n🔎 **Hướng dẫn cách làm:**\n- Quan sát đồ thị trên đoạn $[-2;2]$, điểm cao nhất của đường cong có tung độ là $-1$.\n- Vậy giá trị lớn nhất của hàm số trên đoạn là $\\max f(x)=-1$.\n- Điểm thấp nhất của đường cong có tung độ là $-5$.\n- Vậy giá trị nhỏ nhất của hàm số trên đoạn là $\\min f(x)=-5$.\n- Khi đó tổng hai giá trị này là: $-1+(-5)=-6$.\n✅ **Đáp án:** Chọn D. $-6$"
+    }
+  ]
+}

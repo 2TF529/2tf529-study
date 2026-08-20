@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-4-10-bai-tap-so-sanh-hai-mau-so-lieu-tuong-dong-va-xem-xet-mau-na",
+  "sourceId": "vietjack:4-10-bai-tap-so-sanh-hai-mau-so-lieu-tuo",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "4.10 Bài tập So sánh hai mẫu số liệu tương đồng và xem xét mẫu nào ổn định hơn (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Hai huyện A và B phát động phong trào hiến máu trong 7 ngày. Số lượng người đến hiến máu trong 7 ngày của 2 huyện được thống kê trong bảng dưới đây: Ngày Huyện 1 2 3 4 5 6 7 Huyện A 50 42 45 55 34 60 47 Huyện B 40 53 44 62 32 55 40 Sử dụng kiến thức về khoảng biến thiên và khoảng tứ phân vị, xác định xem số lượng người tham gia của huyện nào ổn định hơn?",
+      "options": [
+        "A. Huyện A;",
+        "B. Huyện B;",
+        "C. Số người tham gia ở hai huyện đều ổn định như nhau;",
+        "D. Số người tham gia ở hai huyện đều không ổn định."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A. - Sắp xếp số lượng người tham gia hiến máu của huyện A trong 7 ngày theo thứ tự không giảm ta có: 34; 42; 45; 47; 50; 55; 60. + Giá trị nhỏ nhất của mẫu số liệu trên là 34. + Giá trị lớn nhất của mẫu số liệu trên là 60. Suy ra khoảng biến thiên R A = 60 – 34 = 26. Ta lại có: + Giá trị tứ phân vị thứ nhất là trung vị của mẫu: 34; 42; 45. Do đó Q 1A = 42. + Giá trị tứ phân vị thứ ba là trung vị của mẫu: 50; 55; 60. Do đó Q 3A = 55. Suy ra khoảng tứ phân vị ∆ QA = Q 3A – Q 1A = 55 – 42 = 13. - Sắp xếp số lượng người tham gia hiến máu của huyện B trong 7 ngày theo thứ tự không giảm ta có: 32; 40; 40; 44; 53; 55; 62. + Giá trị nhỏ nhất của mẫu số liệu trên là 32. + Giá trị lớn nhất của mẫu số liệu trên là 62. Suy ra khoảng biến thiên R B = 62 – 32 = 30. Ta lại có: + Giá trị tứ phân vị thứ nhất là trung vị của mẫu: 32; 40; 40. Do đó Q 1B = 40. + Giá trị tứ phân vị thứ ba là trung vị của mẫu: 53; 55; 62. Do đó Q 3B = 55. Suy ra khoảng tứ phân vị ∆ QB = Q 3B – Q 1B = 55 – 40 = 15. Ta thấy khoảng biến thiên và khoảng tứ phân vị trong số lượng người tham gia hiến máu của huyện A bé hơn huyện B nên số lượng người tham gia của huyện A ổn định hơn."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Hai huyện A và B phát động phong trào hiến máu trong 7 ngày. Số lượng người đến hiến máu trong 7 ngày của 2 huyện được thống kê trong bảng dưới đây: Sử dụng kiến thức về phương sai và độ lệch chuẩn, xác định xem số lượng người tham gia của huyện nào ổn định hơn?",
+      "options": [
+        "A. Huyện A;",
+        "B. Huyện B;",
+        "C. Số người tham gia ở hai huyện đều ổn định như nhau;",
+        "D. Số người tham gia ở hai huyện đều không ổn định."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A. - Số trung bình lượng người tham gia hiến máu trong 7 ngày của huyện A là: x A ¯ = 50 + 42 + 45 + 55 + 34 + 60 + 47 7 ≈ 47 , 57 Công thức tính phương sai của một mẫu số liệu là: S 2 = 1 n x 1 − x ¯ 2 + x 2 − x ¯ 2 + ... + x n − x ¯ 2 Thay số ta có: = 1 7 [( 50 – 47,57) 2 + ( 42 – 47,57) 2 + ( 45 – 47,57) 2 + ( 55 – 47,57) 2 + ( 34 – 47,57) 2 + ( 60 – 47,57) 2 + ( 47 – 47,57) 2 ] ≈ 62,53. Do đó phương sai của mẫu số liệu trên là 62,53. Độ lệch chuẩn của mẫu số liệu trên là S A = S A 2 = 62 , 53 ≈ 7,91. - Số trung bình lượng người tham gia hiến máu trong 7 ngày của huyện B là: x ¯ B = 40 + 53 + 44 + 62 + 32 + 55 + 40 7 ≈ 46 , 57 Công thức tính phương sai của một mẫu số liệu là: S 2 = 1 n x 1 − x ¯ 2 + x 2 − x ¯ 2 + ... + x n − x ¯ 2 Thay số ta có: = 1 7 [( 40 – 46,57) 2 + ( 53 – 46,57) 2 + ( 44 – 46,57) 2 + ( 62 – 46,57) 2 + ( 32 – 46,57) 2 + ( 55 – 46,57) 2 + ( 40 – 46,57) 2 ] ≈ 93,67. Do đó phương sai của mẫu số liệu trên là 93,67. Độ lệch chuẩn của mẫu số liệu trên là S B = S B 2 = 93 , 67 ≈ 9,68. Ta thấy phương sai và độ lệch chuẩn trong số lượng người tham gia hiến máu của huyện A bé hơn huyện B nên số lượng người tham gia của huyện A ổn định hơn."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Số giờ sử dụng Internet của hai bạn Nhung và Ngân trong 5 ngày được thống kê trong bảng dưới đây: Sử dụng kiến thức về khoảng biến thiên và khoảng tứ phân vị, xác định xem số giờ sử dụng Internet của bạn nào ổn định hơn?",
+      "options": [
+        "A. Ngân;",
+        "B. Nhung;",
+        "C. Số giờ sử dụng Internet của hai bạn đều ổn định như nhau;",
+        "D. Số giờ sử dụng Internet của hai bạn đều không ổn định."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải: Đáp án đúng là: B. - Sắp xếp số giờ sử dụng Internet của bạn Nhung theo thứ tự không giảm ta có: 2; 4; 5; 5; 6. + Giá trị nhỏ nhất của mẫu số liệu trên là 2 + Giá trị lớn nhất của mẫu số liệu trên là 6 Suy ra khoảng biến thiên R 1 = 6 – 2 = 4. Ta lại có: + Giá trị tứ phân vị thứ nhất là trung vị của mẫu: 2; 4. Do đó Q 1 = 2 + 4 2 = 3 + Giá trị tứ phân vị thứ ba là trung vị của mẫu: 5; 6. Do đó Q 3 = 5 + 6 2 = 5 , 5 Suy ra khoảng tứ phân vị ∆ Q1 = Q 3 – Q 1 = 5,5 – 3 = 2,5. - Sắp xếp số giờ sử dụng Internet của bạn Ngân theo thứ tự không giảm ta có: 1; 3; 5; 6; 7. + Giá trị nhỏ nhất của mẫu số liệu trên là 1 + Giá trị lớn nhất của mẫu số liệu trên là 7 Suy ra khoảng biến thiên R 2 = 7 – 1 = 6. Do đó của mẫu số liệu trên là 6. Ta lại có: + Giá trị tứ phân vị thứ nhất là trung vị của mẫu: 1; 3. Do đó Q 1' = 1 + 3 2 = 2 + Giá trị tứ phân vị thứ ba là trung vị của mẫu: 6; 7. Do đó Q 3' = 6 + 7 2 = 6 , 5 . Suy ra khoảng tứ phân vị ∆ Q2 = Q 3' – Q 1' = 6,5 – 2 = 4,5 Ta thấy khoảng biến thiên và khoảng tứ phân vị trong số giờ sử dụng Internet của bạn Nhung bé hơn Ngân nên số giờ sử dụng Internet của bạn Nhung ổn định hơn."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Số giờ sử dụng Internet của hai bạn Nhung và Ngân trong 5 ngày được thống kê trong bảng dưới đây: Sử dụng kiến thức về phương sai và độ lệch chuẩn, xác định xem số giờ sử dụng Internet của bạn nào ổn định hơn?",
+      "options": [
+        "A. Ngân;",
+        "B. Nhung;",
+        "C. Số giờ sử dụng Internet của hai bạn đều ổn định như nhau;",
+        "D. Số giờ sử dụng Internet của hai bạn đều không ổn định."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải: Đáp án đúng là: B. - Số giờ trung bình sử dụng Internet của bạn Nhung là: x ¯ 1 = 5 + 2 + 6 + 4 + 5 5 = 4 , 4 Công thức tính phương sai của một mẫu số liệu là: S 2 = 1 n x 1 − x ¯ 2 + x 2 − x ¯ 2 + ... + x n − x ¯ 2 Thay số ta có: S 2 2 = 1 5 [( 5 – 4,4) 2 + ( 2 – 4,4) 2 + ( 6 – 4,4) 2 + ( 4 – 4,4) 2 + ( 5 – 4,4) 2 ] = 1,84. Do đó phương sai của mẫu số liệu trên là 1,84. Độ lệch chuẩn của mẫu số liệu trên là S 1 = S 1 2 = 1 , 84 ≈ 1,36. - Số giờ trung bình sử dụng Internet của bạn Ngân là: x ¯ 2 = 3 + 1 + 6 + 5 + 7 5 = 4 , 4 Công thức tính phương sai của một mẫu số liệu là: S 2 = 1 n x 1 − x ¯ 2 + x 2 − x ¯ 2 + ... + x n − x ¯ 2 Thay số ta có: S 2 2 = 1 5 [( 3 – 4,4) 2 + ( 1 – 4,4) 2 + ( 6 – 4,4) 2 + ( 5 – 4,4) 2 + ( 7 – 4,4) 2 ] = 4,64. Do đó phương sai của mẫu số liệu trên là 4,64. Độ lệch chuẩn của mẫu số liệu trên là S 2 = S 2 2 = 4 , 64 = ≈ 2,15. Ta thấy phương sai và độ lệch chuẩn trong số giờ sử dụng Internet của bạn Nhung bé hơn Ngân nên số giờ sử dụng Internet của bạn Nhung ổn định hơn."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Số lượng bệnh nhân khỏi bệnh của hai bệnh viện A và B trong 6 ngày được thống kê trong bảng dưới đây: Sử dụng kiến thức về khoảng biến thiên và khoảng tứ phân vị, xác định xem số lượng bệnh nhân khỏi bệnh của bệnh viện nào ổn định hơn?",
+      "options": [
+        "A. Bệnh viện A;",
+        "B. Bệnh viện B;",
+        "C. Số lượng bệnh nhân khỏi bệnh của cả hai bệnh viện đều ổn định như nhau;",
+        "D. Số lượng bệnh nhân khỏi bệnh của cả hai bệnh viện đều không ổn định."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải: Đáp án đúng là: B. - Sắp xếp số lượng bệnh nhân khỏi bệnh của bệnh viện A theo thứ tự không giảm ta có: 15; 20; 24; 29; 32; 44. + Giá trị nhỏ nhất của mẫu số liệu trên là 15 + Giá trị lớn nhất của mẫu số liệu trên là 44 Suy ra khoảng biến thiên R A = 44 – 15 = 29. Ta lại có: + Giá trị tứ phân vị thứ nhất là trung vị của mẫu: 15; 20; 24. Do đó Q 1A = 20. + Giá trị tứ phân vị thứ ba là trung vị của mẫu: 29; 32; 44. Do đó Q 3A = 32. Suy ra khoảng tứ phân vị ∆ QA = Q 3A – Q 1A = 32 – 20 = 12. - Sắp xếp số lượng bệnh nhân khỏi bệnh của bệnh viện B theo thứ tự không giảm ta có: 15; 20; 25; 26; 30; 33. + Giá trị nhỏ nhất của mẫu số liệu trên là 15 + Giá trị lớn nhất của mẫu số liệu trên là 33 Suy ra khoảng biến thiên R B = 33 – 15 = 18. Ta lại có: + Giá trị tứ phân vị thứ nhất là trung vị của mẫu: 15; 20; 25. Do đó Q 1B = 20. + Giá trị tứ phân vị thứ ba là trung vị của mẫu: 26; 30; 33. Do đó Q 3B = 30. Suy ra ∆ QB = Q 3B – Q 1B = 30 – 20 = 10. Do đó khoảng tứ phân vị của mẫu số liệu trên là 10. Ta thấy khoảng biến thiên và khoảng tứ phân vị trong số lượng bệnh nhân khỏi bệnh của bệnh viện B bé hơn bệnh viện A nên số lượng bệnh nhân khỏi bệnh của bệnh viện B ổn định hơn."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Số lượng bệnh nhân khỏi bệnh của hai bệnh viện A và B trong 6 ngày được thống kê trong bảng dưới đây: Sử dụng kiến thức về phương sai và độ lệch chuẩn, xác định xem số lượng bệnh nhân khỏi bệnh của bệnh viện nào ổn định hơn?",
+      "options": [
+        "A. Bệnh viện A;",
+        "B. Bệnh viện B;",
+        "C. Số lượng bệnh nhân khỏi bệnh của cả hai bệnh viện đều ổn định như nhau;",
+        "D. Số lượng bệnh nhân khỏi bệnh của cả hai bệnh viện đều không ổn định."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải: Đáp án đúng là: B. - Số lượng bệnh nhân khỏi bệnh trung bình của bệnh viện A là: x ¯ A = 15 + 32 + 44 + 24 + 20 + 29 6 ≈ 27 , 33 Công thức tính phương sai của một mẫu số liệu là: S 2 = 1 n x 1 − x ¯ 2 + x 2 − x ¯ 2 + ... + x n − x ¯ 2 Thay số ta có: S A 2 = 1 6 [(1 5 – 27,33) 2 + (32 – 27,33) 2 + (44 – 27,33) 2 + (24 – 27,33) 2 + (20 – 27,33) 2 + (29 – 27,33) 2 ] ≈ 86,56. Do đó phương sai của mẫu số liệu trên là 86,56. Độ lệch chuẩn của mẫu số liệu trên là S A = S A 2 = 86 , 56 ≈ 9,3. - Số giờ trung bình sử dụng Internet của bạn Ngân là: x ¯ B = 20 + 25 + 33 + 15 + 26 + 30 6 ≈ 24 , 83 Công thức tính phương sai của một mẫu số liệu là: S 2 = 1 n x 1 − x ¯ 2 + x 2 − x ¯ 2 + ... + x n − x ¯ 2 Thay số ta có: S B 2 = 1 6 [( 20 – 24,83) 2 + ( 25 – 24,83) 2 + ( 33 – 24,83) 2 + ( 15 – 24,83) 2 + ( 26 – 24,83) 2 + ( 30 – 24,83) 2 ] ≈ 35,81. Do đó phương sai của mẫu số liệu trên là 35,81. Độ lệch chuẩn của mẫu số liệu trên là S B = S B 2 = 35 , 81 ≈ 5,98. Ta thấy phương sai và độ lệch chuẩn trong số lượng bệnh nhân khỏi bệnh của bệnh viện B bé hơn bệnh viện A nên số lượng bệnh nhân khỏi bệnh của bệnh viện B ổn định hơn."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-de-thi-giua-ki-2-tin-hoc-11-nam-2024-2025-thpt-bac-giang-co-dap-a",
+  "sourceId": "vietjack:de-thi-giua-ki-2-tin-hoc-11-nam-2024-202",
+  "grade": "l11",
+  "subjectSlug": "tin",
+  "examType": "giuaki2",
+  "year": 2026,
+  "title": "Đề thi giữa kì 2 Tin học 11 năm 2024-2025 THPT (Bắc Giang) có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: A. PHẦN TRẮC NGHIỆM (7,0 điểm) Phần I: Trắc nghiệm chọn phương án đúng Khi xóa dữ liệu trong bảng nhacsi, hệ quản trị cơ sở dữ liệu MySQL sẽ làm gì nếu giá trị idNhacsi tồn tại trong bảng bannhac?",
+      "options": [
+        "A. Không thực hiện gì.",
+        "B. Yêu cầu xác nhận xóa.",
+        "C. Ngăn chặn việc xóa.",
+        "D. Xóa luôn dòng dữ liệu trong bảng bannhac."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là C."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Khi tạo trường \"idNhacsi\", tuỳ chọn nào cần bỏ đánh dấu?",
+      "options": [
+        "A. ALLOW NULL.",
+        "B. PRIMARY KEY.",
+        "C. AUTO_INCREMENT.",
+        "D. DEFAULT VALUE."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là A."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cài đặt và cập nhật các hệ QTCSDL là?",
+      "options": [
+        "A. Các nhà cung cấp bổ sung tinh năng hay sửa lỗi, loại bỏ những phần lạc hậu, thêm vào tính năng mới.",
+        "B. Chuyển đổi thông tin các dữ liệu sang một hệ quản trị mới.",
+        "C. Hình thức lấy thêm tiền của người dùng chứ không có gì thay đổi.",
+        "D. Nâng cao dung lượng của mô hình quản lý, khiến nó rối thêm."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là A."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Khi muốn lấy ra danh sách dữ liệu thỏa mãn yêu cầu, bạn phải thực hiện thao tác nào?",
+      "options": [
+        "A. Thêm mới dữ liệu",
+        "B. Sử dụng bộ lọc",
+        "C. Xóa dữ liệu",
+        "D. Chỉnh sửa dữ liệu"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là B."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Tại sao việc xóa dữ liệu trong bảng nhacsi không thể tùy tiện thực hiện?",
+      "options": [
+        "A. Vì dữ liệu này rất quan trọng.",
+        "B. Vì MySQL không cho phép xóa.",
+        "C. Vì dữ liệu này không thể thay đổi.",
+        "D. Vì nó có thể gây lỗi dữ liệu tham chiếu."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là D."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Lợi ích chính của việc sử dụng hệ quản trị cơ sở dữ liệu (QTCSDL) trên máy tính so với quản lý dữ liệu thủ công là gì?",
+      "options": [
+        "A. Tốn ít công sức và dễ kiểm soát hơn.",
+        "B. Không có sự khác biệt lớn.",
+        "C. Chỉ tốn thời gian hơn.",
+        "D. Khó kiểm soát hơn."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là A."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Nhà quản trị CSDL là?",
+      "options": [
+        "A. Người thực thi các sự cố về hư hỏng thiết bị lưu trữ.",
+        "B. Người thực thi các sự cố về không gian và thời gian.",
+        "C. Người thực thi các hoạt động quản trị CSDL.",
+        "D. Người thực thi các sự cố về nguồn điện."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là C."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Một trong những lý do chính khiến MySQL được sử dụng rộng rãi trong quản trị cơ sở dữ liệu trên Internet là gì?",
+      "options": [
+        "A. MySQL khó sử dụng nhưng rất mạnh mẽ.",
+        "B. MySQL chỉ hỗ trợ các ứng dụng cục bộ.",
+        "C. MySQL hỗ trợ tốt các giao dịch trực tuyến và bảo mật dữ liệu.",
+        "D. MySQL là phần mềm thương mại đắt tiền."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là C."
+    }
+  ]
+}

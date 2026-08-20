@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-7-22-cau-trac-nghiem-toan-11-canh-dieu-bai-2-cap-so-cong-dung-sai",
+  "sourceId": "vietjack:7-22-cau-trac-nghiem-toan-11-canh-dieu-b",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "7.22 câu Trắc nghiệm Toán 11 Cánh diều Bài 2. Cấp số cộng (Đúng-sai, trả lời ngắn) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: TRẮC NGHIỆM NHIỀU LỰA CHỌN Trong các dãy số sau, dãy số nào là một cấp số cộng?",
+      "options": [
+        "A. 1; −2; −4; −6; −8.",
+        "B. 1; −3; −6; −9; −12.",
+        "C. 1; −3; −7; −11; −15.",
+        "D. 1; −3; −5; −7; −9."
+      ],
+      "answer": "C",
+      "note": "C Ta có −3 = 1 + (−4); −7 = (−3) + (−4); −11 = (−7) + (−4); −15 = (−11) + (−4). Do đó dãy số 1; −3; −7; −11; −15 là một cấp số cộng với công sai d = −4."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Trong các dãy số sau đây, dãy nào là cấp số cộng?",
+      "options": [
+        "A. u n = 3 n .",
+        "B. u n = (−3) n + 1 .",
+        "C. u n = 3n + 1.",
+        "D. u n = 2 n + 1 ."
+      ],
+      "answer": "C",
+      "note": "C Xét dãy u n = 3n + 1. Có u n + 1 = 3(n + 1) + 1 = 3n + 4. Có u n + 1 – u n = 3n + 4 – (3n + 1) = 3. Vậy dãy số u n = 3n + 1 là cấp số cộng với công sai d = 3."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho cấp số cộng (u n ) với u 1 = 2, u 2 = 7. Công sai của cấp số cộng đã cho bằng",
+      "options": [
+        "A. 5.",
+        "B. \\(\\frac{2}{7}\\) .",
+        "C. −5.",
+        "D. \\(\\frac{7}{2}\\) ."
+      ],
+      "answer": "A",
+      "note": "A Ta có d = u 2 – u 1 = 7 – 2 = 5."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho cấp số cộng (u n ) với u 1 = 2022 và công sai d = 7. Giá trị của u 6 bằng",
+      "options": [
+        "A. 2043.",
+        "B. 2064.",
+        "C. 2050.",
+        "D. 2057."
+      ],
+      "answer": "D",
+      "note": "D Ta có u 6 = u 1 + 5d = 2022 + 5.7 = 2057."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho cấp số cộng (u n ) với u 17 = 33 và u 33 = 65 thì công sai bằng",
+      "options": [
+        "A. 1.",
+        "B. 2.",
+        "C. 2,5.",
+        "D. 11."
+      ],
+      "answer": "B",
+      "note": "B Theo đề ta có \\(\\left\\{ \\begin{array}{l}{u_1} + 16d = 33\\\\{u_1} + 32d = 65\\end{array} \\right.\\)\\( \\Leftrightarrow \\left\\{ \\begin{array}{l}{u_1} = 1\\\\d = 2\\end{array} \\right.\\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Một cấp số cộng gồm 5 số hạng. Hiệu số hạng đầu và số hạng cuối bằng 20. Tìm công sai d của cấp số cộng đã cho.",
+      "options": [
+        "A. d = 5.",
+        "B. d = 4.",
+        "C. d = −4.",
+        "D. d = −5."
+      ],
+      "answer": "D",
+      "note": "D Theo đề ta có u 1 – u 5 = 20 Û u 1 – (u 1 + 4d) = 20 Û d = −5."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Cho (u n ) là cấp số cộng có số hạng đầu bằng 2, công sai bằng 5. Tổng 10 số hạng đầu tiên của cấp số cộng đó bằng",
+      "options": [
+        "A. −410.",
+        "B. −205.",
+        "C. 245.",
+        "D. −230."
+      ],
+      "answer": "C",
+      "note": "C Ta có u 10 = u 1 + 9d = 2 + 9.5 = 47. Khi đó \\({S_{10}} = \\frac{{\\left( {{u_1} + {u_{10}}} \\right).10}}{2} = \\frac{{\\left( {2 + 47} \\right).10}}{2} = 245\\)."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho cấp số cộng (u n ) biết u 5 + u 7 = 19. Giá trị u 2 + u 10 bằng",
+      "options": [
+        "A. 38.",
+        "B. 29.",
+        "C. 12.",
+        "D. 19."
+      ],
+      "answer": "D",
+      "note": "D Ta có u 5 + u 7 = 19 Û u 2 + 3d + u 10 – 3d = 19 Û u 2 + u 10 = 19."
+    }
+  ]
+}

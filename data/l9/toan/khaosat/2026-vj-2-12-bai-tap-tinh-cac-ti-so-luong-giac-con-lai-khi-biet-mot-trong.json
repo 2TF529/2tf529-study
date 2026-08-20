@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-12-bai-tap-tinh-cac-ti-so-luong-giac-con-lai-khi-biet-mot-trong",
+  "sourceId": "vietjack:2-12-bai-tap-tinh-cac-ti-so-luong-giac-c",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.12 bài tập Tính các tỉ số lượng giác còn lại khi biết một trong bốn tỉ số lượng giác có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho ∆ABC vuông tại B như hình bên. Khẳng định nào dưới đây là đúng?",
+      "options": [
+        "A. sin A = \\(\\frac{4}{3}\\).",
+        "B. sin A = \\(\\frac{4}{5}\\).",
+        "C. sin A = \\(\\frac{3}{5}\\).",
+        "D. sin A = \\(\\frac{3}{4}\\)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có: sin A = \\(\\frac{{BC}}{{AC}} = \\frac{4}{5}\\)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho ∆ABC vuông tại B như hình bên. Khẳng định nào dưới đây là đúng?",
+      "options": [
+        "A. cos A = \\(\\frac{4}{{\\sqrt {17} }}\\).",
+        "B. cos A = \\(\\frac{1}{4}\\).",
+        "C. cos A = \\(\\frac{1}{{\\sqrt {17} }}\\).",
+        "D. cos A = \\(4\\)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có: cos A = \\(\\frac{{AB}}{{AC}} = \\frac{4}{{\\sqrt {17} }}\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho ∆ABC vuông tại B như hình bên. Khẳng định nào dưới đây là sai ?",
+      "options": [
+        "A. sin A = \\(\\frac{{\\sqrt 6 }}{2}\\).",
+        "B. cos A = \\(\\frac{{\\sqrt {10} }}{2}\\).",
+        "C. tan A = \\(\\frac{{\\sqrt 6 }}{{\\sqrt {10} }}\\).",
+        "D. cot A = \\(\\frac{2}{{\\sqrt 6 }}\\)."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Ta có: cot A = \\(\\frac{{AB}}{{BC}} = \\frac{{\\sqrt {10} }}{{\\sqrt 6 }}\\)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho tam giác ABC vuông tại B, có AB = 2, AC = 3. Giá trị của tan C là",
+      "options": [
+        "A. \\(\\frac{2}{3}\\).",
+        "B. \\(\\frac{3}{2}\\).",
+        "C. \\(\\frac{2}{{\\sqrt 5 }}\\).",
+        "D. \\(\\frac{{\\sqrt 5 }}{2}\\)."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Áp dụng đinhỵ lí Pythagore vào tam giác ABC vuông tại B, ta có: AB 2 + BC 2 = AC 2 2 2 + BC 2 = 3 2 BC 2 = 3 2 – 2 2 BC = \\(\\sqrt 5 \\). Do đó, tan C = \\(\\frac{2}{{\\sqrt 5 }}\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho tam giác ABC vuông tại A có AB = 5 cm, AC = 12 cm. Giá trị của cos B là",
+      "options": [
+        "A. \\(\\frac{5}{{12}}\\).",
+        "B. \\(\\frac{{12}}{{13}}\\).",
+        "C. \\(\\frac{5}{{13}}\\).",
+        "D. \\(\\frac{{12}}{5}\\)."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Áp dụng định lí Pythagore vào tam giác ABC vuông tại A, ta có: AB 2 + AC 2 = BC 2 5 2 + 12 2 = BC 2 Suy ra BC = 13 cm. Ta có: cos B = \\(\\frac{{AB}}{{BC}} = \\frac{5}{{13}}\\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho tam giác ABC vuông tại A như hình vẽ bên. Chọn khẳng định sai trong các khẳng định dưới đây.",
+      "options": [
+        "A. sin B = \\(\\frac{{12}}{{13}}\\).",
+        "B. cos B = \\(\\frac{5}{{13}}\\).",
+        "C. tan B = \\(\\frac{{13}}{5}\\).",
+        "D. cot B = \\(\\frac{5}{{12}}\\)."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Áp dụng định lí Pythagore vào tam giác ABC vuông tại A, ta có: AB 2 + AC 2 = BC 2 5 2 + 12 2 = BC 2 Suy ra BC = 13 cm. Ta có: tan B = \\(\\frac{{AC}}{{AB}} = \\frac{{12}}{5}\\)."
+    }
+  ]
+}

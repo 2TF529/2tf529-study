@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-trac-nghiem-dien-tro-dinh-luat-ohm-lop-11-co-dap-an",
+  "sourceId": "vietjack:1-trac-nghiem-dien-tro-dinh-luat-ohm-lop",
+  "grade": "l11",
+  "subjectSlug": "li",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.Trắc nghiệm Điện trở. Định luật Ohm lớp 11 (có đáp án)",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Đường đặc tuyến Vôn - Ampe biểu diễn sự phụ thuộc của cường độ dòng điện qua một điện trở vào hiệu điện thế hai đầu vật dẫn là đường",
+      "options": [
+        "A. cong hình elip.",
+        "B. thẳng.",
+        "C. hyperbol.",
+        "D. parabol."
+      ],
+      "answer": "B",
+      "note": "Đường đặc tuyến Vôn - Ampe biểu diễn sự phụ thuộc của cường độ dòng điện qua một điện trở vào hiệu điện thế hai đầu vật dẫn là đường thẳng vì I = U R . Đáp án đúng là B."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu nào dưới đây cho biết kim loại dẫn điện tốt?",
+      "options": [
+        "A. Khoảng cách giữa các ion nút mạng trong kim loại rất lớn.",
+        "B. Mật độ electron tự do trong kim loại rất lớn.",
+        "C. Mật độ các ion tự do lớn.",
+        "D. Giá trị điện tích chứa trong mỗi electron tự do của kim loại lớn hơn ở các chất khác."
+      ],
+      "answer": "B",
+      "note": "Vật dẫn điện là vật có chứa nhiều điện tích tự do. Theo thuyết electron về tính dẫn điện của kim loại: mật độ hạt tải điện trong kim loại là các electron tự do rất cao nên kim loại dẫn điện rất tốt. Đáp án đúng là B"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Điện trở suất của kim loại phụ thuộc vào yếu tố nào?",
+      "options": [
+        "A. Nhiệt độ của kim loại.",
+        "B. Kích thước của vật dẫn kim loại.",
+        "C. Bản chất của kim loại.",
+        "D. Nhiệt độ và bản chất của vật dẫn kim loại."
+      ],
+      "answer": "D",
+      "note": "Điện trở suất của kim loại phụ thuộc vào nhiệt độ và bản chất của vật dẫn kim loại. Đáp án đúng là D"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Khi tiết diện của khối kim loại đồng chất, tiết diện đều tăng 2 lần thì điện trở của khối kim loại",
+      "options": [
+        "A. tăng 2 lần.",
+        "B. tăng 4 lần.",
+        "C. giảm 2 lần.",
+        "D. giảm 4 lần."
+      ],
+      "answer": "C",
+      "note": "Công thức liên hệ giữa điện trở và điện trở suất của khối kim loại: R = ρ l S . Khi tiết diện S của khối kim loại đồng chất, tiết diện đều tăng 2 lần thì điện trở của khối kim loại giảm 2 lần. Đáp án đúng là C"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Một sợi dây đồng có điện trở R 1 ở 50 0 C, hệ số nhiệt điện trở a = 4,3.10 -3 K -1 . Điện trở của sợi dây đó ở 100 0 C là 90 W . Tính điện trở của sợi dây đồng ở 50 0 C?",
+      "options": [
+        "A. 33 W .",
+        "B. 75,6 W .",
+        "C. 170 W .",
+        "D. 89 W ."
+      ],
+      "answer": "B",
+      "note": "Áp dụng công thức: R = R 0 1 + α t − t o ta có: R 1 R 2 = 1 + α t 1 − t o 1 + α t 2 − t o . Thay số ta được: R 1 90 = 1 + 4,3.10 − 3 50 − 20 1 + 4,3.10 − 3 100 − 20 ⇒ R1 = 75,6 W. Đáp án đúng là B"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Một sợi dây đồng có điện trở 74 W ở 50 0 C, điện trở của sợi dây đó ở 100 0 C là 90 W . Hệ số nhiệt điện trở của dây đồng là:",
+      "options": [
+        "A. a = 4,1.10 -3 K -1 .",
+        "B. a = 4,4.10 -3 K -1 .",
+        "C. a = 4,9.10 -3 K -1 .",
+        "D. a = 4,3.10 -3 K -1 ."
+      ],
+      "answer": "C",
+      "note": "Áp dụng công thức: R = R 0 1 + α ( t − t 0 ) , Lập tỉ số: R 1 R 2 = 1 + α t 1 − t o 1 + α t 2 − t o Thay số: 74 90 = 1 + α 50 − 20 1 + α 100 − 20 ⇒ α = 4,9.10 − 3 K − 1 Đáp án đúng là C"
+    }
+  ]
+}

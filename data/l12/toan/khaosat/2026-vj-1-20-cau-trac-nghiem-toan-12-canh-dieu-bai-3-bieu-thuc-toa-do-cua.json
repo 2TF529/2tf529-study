@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-1-20-cau-trac-nghiem-toan-12-canh-dieu-bai-3-bieu-thuc-toa-do-cua",
+  "sourceId": "vietjack:1-20-cau-trac-nghiem-toan-12-canh-dieu-b",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.20 câu Trắc nghiệm Toán 12 Cánh diều Bài 3. Biểu thức tọa độ của các phép toán vectơ có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: I. Nhận biết Trong không gian \\(Oxyz\\), cho vectơ \\(\\overrightarrow a = \\left( { - 2;6;2} \\right)\\). Vectơ \\(\\frac{3}{2}\\overrightarrow a \\) có tọa độ là",
+      "options": [
+        "A. \\(\\left( { - 6;9;6} \\right).\\)",
+        "B. \\(\\left( { - 3;9;3} \\right).\\)",
+        "C. \\(\\left( {6;9;6} \\right).\\)",
+        "D. \\(\\left( { - 3;6;3} \\right).\\)"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có: \\(\\frac{3}{2}\\overrightarrow a \\) = \\(\\frac{3}{2}\\left( { - 2;6;2} \\right) = \\left( {\\frac{3}{2}.\\left( { - 2} \\right);\\frac{3}{2}.6;\\frac{3}{2}.2} \\right) = \\left( { - 3;9;3} \\right).\\)"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Trong không gian \\(Oxyz\\), cho hai điểm \\(M\\left( {1; - 2;2} \\right)\\) và \\(N\\left( {1;0;4} \\right)\\). Tọa độ trung điểm của đoạn thẳng \\(MN\\) là",
+      "options": [
+        "A. \\(\\left( {1; - 1;3} \\right).\\)",
+        "B. \\(\\left( {0;2;2} \\right).\\)",
+        "C. \\(\\left( {2; - 2;6} \\right).\\)",
+        "D. \\(\\left( {1;0;3} \\right).\\)"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Gọi \\(I\\left( {x;y;z} \\right)\\) là trung điểm \\(MN\\), ta có: \\(\\left\\{ \\begin{array}{l}x = \\frac{{1 + 1}}{2} = 1\\\\y = \\frac{{ - 2 + 0}}{2} = - 1\\\\z = \\frac{{2 + 4}}{2} = 3\\end{array} \\right.\\) ⇒ \\(I\\left( {1; - 1;3} \\right).\\)"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trong không gian \\(Oxyz\\), cho vectơ \\(\\overrightarrow u = \\left( {1; - 2;3} \\right)\\). Vectơ nào sau đây cùng phương với vectơ \\(\\overrightarrow u \\) ?",
+      "options": [
+        "A. \\(\\overrightarrow a = \\left( {2;4;6} \\right).\\)",
+        "B. \\(\\overrightarrow b = \\left( { - 3;6; - 9} \\right).\\)",
+        "C. \\(\\overrightarrow c = \\left( {\\frac{1}{2}; - 2;\\frac{3}{2}} \\right).\\)",
+        "D. \\(\\overrightarrow d = \\left( { - 1; - 2; - 3} \\right).\\)"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Xét các đáp án, ta thấy: \\(\\overrightarrow b = \\left( { - 3;6; - 9} \\right) = - 3\\left( {1; - 2;3} \\right) = - 3\\overrightarrow u \\). Suy ra \\(\\overrightarrow u = - 3\\overrightarrow b \\) nên hai vectơ \\(\\overrightarrow u ,\\overrightarrow b \\) cùng phương."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Trong không gian \\(Oxyz\\), cho ba điểm \\(A\\left( {3;2; - 5} \\right)\\), \\(B\\left( {1;2;4} \\right)\\), \\(C\\left( {2;5; - 2} \\right)\\). Tọa độ trọng tâm \\(G\\) của tam giác \\(ABC\\) là",
+      "options": [
+        "A. \\(\\left( {6;9 - 3} \\right).\\)",
+        "B. \\(\\left( {2;3; - 1} \\right).\\)",
+        "C. \\(\\left( {2;3;1} \\right).\\)",
+        "D. \\(\\left( {6;9;3} \\right).\\)"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Gọi tọa độ điểm \\(G\\left( {x;y;z} \\right)\\), ta có: \\(\\left\\{ \\begin{array}{l}x = \\frac{{3 + 1 + 2}}{3} = 2\\\\y = \\frac{{2 + 2 + 5}}{3} = 3\\\\z = \\frac{{ - 5 + 4 + \\left( { - 2} \\right)}}{3} = - 1\\end{array} \\right.\\) ⇒ \\(G\\left( {2;3; - 1} \\right).\\)"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Trong không gian \\(Oxyz\\), cho hai vectơ \\(\\overrightarrow a = \\left( {1;2;3} \\right)\\), \\(\\overrightarrow b = \\left( {4;5;6} \\right)\\). Tọa độ vectơ \\(\\overrightarrow a + \\overrightarrow b \\) là",
+      "options": [
+        "A. \\(\\left( {5;7;9} \\right).\\)",
+        "B. \\(\\left( {3;7;9} \\right).\\)",
+        "C. \\(\\left( {5;3;9} \\right).\\)",
+        "D. \\(\\left( {3;5;9} \\right).\\)"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có: \\(\\overrightarrow a + \\overrightarrow b \\) = \\(\\left( {1 + 4;2 + 5;3 + 6} \\right) = \\left( {5;7;9} \\right)\\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: II. Thông hiểu Trong không gian \\(Oxyz\\), cho hai vectơ \\(\\overrightarrow u = \\left( {1;2;3} \\right)\\) và \\(\\overrightarrow v = \\left( {4; - 5;6} \\right)\\). Vectơ \\(2\\overrightarrow u - 3\\overrightarrow v \\) cùng phương với vectơ nào?",
+      "options": [
+        "A. \\(\\overrightarrow c = \\left( {4; - 10;18} \\right).\\)",
+        "B. \\(\\overrightarrow c = \\left( { - 10;19; - 12} \\right).\\)",
+        "C. \\(\\overrightarrow c = \\left( { - 10; - 11; - 12} \\right).\\)",
+        "D. \\(\\overrightarrow c = \\left( { - 4; - 10;18} \\right).\\)"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có: \\(2\\overrightarrow u = \\left( {2;4;6} \\right)\\), \\(3\\overrightarrow v = \\left( {12; - 15;18} \\right)\\). Suy ra \\(2\\overrightarrow u - 3\\overrightarrow v = \\left( { - 10;19; - 12} \\right).\\) Do đó chọn B."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Trong không gian \\(Oxyz\\), cho hai điểm \\(A\\left( {0;2;1} \\right)\\) và \\(B\\left( {3; - 2;1} \\right)\\). Độ dài đoạn thẳng \\(AB\\) bằng",
+      "options": [
+        "A. \\(5.\\)",
+        "B. \\(3.\\)",
+        "C. \\(9.\\)",
+        "D. \\(25.\\)"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có: \\(\\overrightarrow {AB} = \\left( {3; - 4;0} \\right)\\). Do đó \\(AB = \\sqrt {{3^2} + {{\\left( { - 4} \\right)}^2} + {0^2}} = 5\\)"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Trong không gian \\(Oxyz\\), cho hai vectơ \\(\\overrightarrow a = \\left( {3;0;1} \\right)\\) và \\(\\overrightarrow c = \\left( {1;1;0} \\right)\\). Tọa độ của vectơ \\(\\overrightarrow b \\) thỏa mãn đẳng thức \\(\\overrightarrow b - \\overrightarrow a + 2\\overrightarrow c = \\overrightarrow 0 \\) là",
+      "options": [
+        "A. \\(\\left( {5;3; - 9} \\right).\\)",
+        "B. \\(\\left( {1; - 2;1} \\right)\\)",
+        "C. \\(\\left( { - 3; - 7; - 9} \\right).\\)",
+        "D. \\(\\left( { - 1; - 2;1} \\right)\\)"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có: \\(\\overrightarrow b - \\overrightarrow a + 2\\overrightarrow c = \\overrightarrow 0 \\) hay \\(\\overrightarrow b = \\overrightarrow a - 2\\overrightarrow c + \\overrightarrow 0 \\). Có: \\(\\overrightarrow a = \\left( {3;0;1} \\right)\\), \\(2\\overrightarrow c = \\left( {2;2;0} \\right)\\), \\(\\overrightarrow 0 = \\left( {0;0;0} \\right)\\). Do đó, \\(\\overrightarrow b = \\overrightarrow a - 2\\overrightarrow c + \\overrightarrow 0 = \\left( {1; - 2;1} \\right)\\)"
+    }
+  ]
+}

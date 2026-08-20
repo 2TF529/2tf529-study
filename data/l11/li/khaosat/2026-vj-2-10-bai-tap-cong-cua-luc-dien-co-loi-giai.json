@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-10-bai-tap-cong-cua-luc-dien-co-loi-giai",
+  "sourceId": "vietjack:2-10-bai-tap-cong-cua-luc-dien-co-loi-gi",
+  "grade": "l11",
+  "subjectSlug": "li",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.10 Bài tập Công của lực điện (có lời giải)",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Công của lực điện trong dịch chuyển của một điện tích trong điện trường đều được tính bằng công thức: A=qEd , trong đó:",
+      "options": [
+        "A. d là quãng đường đi được của điện tích q.",
+        "B. d là độ dịch chuyển của điện tích q.",
+        "C. d là hình chiếu của độ dịch chuyển trên phương vuông góc với đường sức điện trường.",
+        "D. d là hình chiếu của độ dịch chuyển trên phương song song với đường sức điện trường."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là D Công của lực điện trong dịch chuyển của một điện tích trong điện trường đều được tính bằng công thức: A = qEd , trong đó: d là hình chiếu của độ dịch chuyển trên phương song song với đường sức điện trường."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Công của lực điện trong dịch chuyển của một điện tích q trong điện trường từ điểm M đến điểm N không phụ thuộc vào",
+      "options": [
+        "A. cung đường dịch chuyển.",
+        "B. điện tích q.",
+        "C. điện trường E → .",
+        "D. vị trí điểm M ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là A Công của lực điện trong dịch chuyển của một điện tích q trong điện trường từ điểm đến điểm không phụ thuộc vào cung đường dịch chuyển mà chỉ phụ thuộc vào vị trí điểm M và N."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho một hạt mang điện dương chuyển động từ điểm A đến điểm B, C, D theo các quỹ đạo khác nhau trong điện trường đều như hình vẽ. Gọi A 1 , A 2 , A 3 lần lượt là công do điện trường sinh ra khi hạt chuyển động trên các quỹ đạo (1), (2), (3). Nhận xét nào sau đây đúng?",
+      "options": [
+        "A. A 1 > A 3",
+        "B. A 1 > A 2",
+        "C. A 2 > A 3",
+        "D. A 3 > A 1"
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là D Điện tích chuyển động từ A đến B có phương vuông góc với điện trường nên không sinh công do đó A 1 = 0. Điện tích chuyển động từ A đến D cùng hướng với điện trường nên công sinh ra lớn nhất. Do đó A 1 < A 2 < A 3 ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Một điện tích q chuyển động từ điểm A đến P theo lộ trình như hình vẽ (A → Q → N → P) trong điện trường đều. Đáp án nào sau đây là đúng khi nói về mối quan hệ giữa công của lực điện trường làm dịch chuyển điện tích trên từng đoạn đường?",
+      "options": [
+        "A. A AQ = A QN",
+        "B. A AN = A NP",
+        "C. A AN = A QN",
+        "D. A AQ = A AP"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là B A AN = A NP = 0 vì hướng dịch chuyển vuông góc với điện trường."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Công của lực điện trường dịch chuyển một điện tích 5.10 -6 C dọc theo chiều một đường sức trong một điện trường đều 1000 V/m trên quãng đường dài 0,5m là",
+      "options": [
+        "A. 25.10 -3 J.",
+        "B. 5.10 -3 J.",
+        "C. 2,5.10 -3 J.",
+        "D. 5.10 -4 J."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là C A = qEd = qEscos = 5.10 -6 .1000.0,5.cos0 0 = 2,5.10 -3 J."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Công của lực điện trường dịch chuyển một điện tích 2μC dọc theo chiều một đường sức trong một điện trường đều 1000 V/m trên quãng đường dài 1 m là",
+      "options": [
+        "A. 2 mJ.",
+        "B. 1 mJ.",
+        "C. 1000 J.",
+        "D. 2000 J."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là A A = qEd = 2.10 -6 .1000.1 = 2.10 -3 J = 2 mJ"
+    }
+  ]
+}

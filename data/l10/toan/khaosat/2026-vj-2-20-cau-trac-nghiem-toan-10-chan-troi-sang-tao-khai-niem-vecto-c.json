@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-20-cau-trac-nghiem-toan-10-chan-troi-sang-tao-khai-niem-vecto-c",
+  "sourceId": "vietjack:2-20-cau-trac-nghiem-toan-10-chan-troi-s",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.20 câu Trắc nghiệm Toán 10 chân trời sáng tạo Khái niệm vectơ có đáp án (Phần 2)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Vectơ có điểm đầu là A, điểm cuối là B được kí hiệu là?",
+      "options": [
+        "A. AB;",
+        "B. A B → ;",
+        "C. B A → ;",
+        "D. Cả 3 phương án trên."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Vectơ có điểm đầu là A, điểm cuối là B được kí hiệu là A B → ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hình bình hành ABCD. Có bao nhiêu vectơ khác 0 → có điểm đầu là các đỉnh A, B, C?",
+      "options": [
+        "A. 2",
+        "B. 3",
+        "C. 6",
+        "D. 9"
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Có 9 vectơ khác 0 → có điểm đầu và điểm cuối là các đỉnh A, B, C. Đó là các vectơ A B → , A C → , A D → , B A → , B C → , B D → , C A → , C B → , C D → ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Mệnh đề nào sau đây đúng?",
+      "options": [
+        "A. a → cùng hướng với b → khi và chỉ khi chúng có cùng phương và độ dài;",
+        "B. a → luôn có 2 vectơ cùng phương với nó;",
+        "C. a → bất kì không có vectơ nào cùng phương với nó;",
+        "D. a → cùng phương với b → khi và chỉ khi chúng có giá song song hoặc trùng nhau."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D a → cùng phương với b → khi và chỉ khi chúng có giá song song hoặc trùng nhau."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Điều kiện cần và đủ để A B → = M N → là 2 vectơ A B → và M N → …",
+      "options": [
+        "A. cùng phương;",
+        "B. cùng hướng;",
+        "C. cùng hướng, cùng độ dài;",
+        "D. cùng phương, cùng độ dài."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Hai vectơ bằng nhau nếu chúng có cùng hướng và cùng độ lớn. Vậy ta chọn C."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hình bình hành ABCD, vectơ nào bằng với vectơ A B → ?",
+      "options": [
+        "A. C D → ;",
+        "B. B A → ;",
+        "C. C A → ;",
+        "D. D C → ."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Trong hình bình hành thì A B → = D C → ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho B là trung điểm của AC. Khẳng định nào sau đây là đúng?",
+      "options": [
+        "A. A B → = − A C → ;",
+        "B. A C → = − C B → ;",
+        "C. A B → = − C B → ;",
+        "D. Cả A, B, C đều đúng."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Vì B là trung điểm của AC nên AB = BC do đó A B → = B C → . Mà B C → = − C B → nên A B → = − C B → . Vậy ta chọn C."
+    }
+  ]
+}

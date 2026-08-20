@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-2-cac-dang-bai-tap-bien-co-hop-bien-co-giao-bien-co-doc-lap-lop-1",
+  "sourceId": "vietjack:2-cac-dang-bai-tap-bien-co-hop-bien-co-g",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.Các dạng bài tập Biến cố hợp, biến cố giao, biến cố độc lập lớp 11 (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho hai biến cố A và B. Biến cố hợp của A và B là biến cố",
+      "options": [
+        "A. “A và B xảy ra”;",
+        "B. “A hoặc B xảy ra”;",
+        "C. “A xảy ra”;",
+        "D. “B xảy ra hoặc cả A và B xảy ra”."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Xét A và B là hai biến cố. Biến cố:\"A hoặc B xảy ra\" được gọi là biến cố hợp của A và B, kí hiệu là A ∪ B."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hai biến cố A và B. Biến cố giao của A và B là biến cố:",
+      "options": [
+        "A. “Cả A và B đều xảy ra”;",
+        "B. “A hoặc B xảy ra”;",
+        "C. “A xảy ra”;",
+        "D. “B xảy ra hoặc cả A và B đều xảy ra”."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Xét A và B là hai biến cố. Biến cố: \"Cả A và B đều xảy ra\" được gọi là biến cố giao của A và B, kí hiệu là AB."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trong hộp kín có 10 quả bóng màu xanh và 8 quả bóng màu đỏ, các quả bóng có kích thước và khối lượng giống nhau. Lấy ngẫu nhiên đồng thời 2 quả bóng. Xét các biến cố: A: “Hai quả bóng lấy ra có màu xanh”; B: “Hai quả bóng lấy ra có màu đỏ”. Chọn phát biểu sai trong những phát biểu sau đây:",
+      "options": [
+        "A. Biến cố hợp của hai biến cố A và B là: “Hai quả bóng lấy ra cùng có màu đỏ hoặc màu xanh”;",
+        "B. Biến cố hợp của hai biến cố A và B là: “Hai quả bóng lấy ra có màu khác nhau”;",
+        "C. Biến cố hợp của hai biến cố A và B là: “Hai quả bóng lấy ra có cùng màu”;",
+        "D. Biến cố giao của hai biến cố A và B là Ø."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Biến cố hợp của hai biến cố A và B là: “Hai quả bóng lấy ra cùng có màu đỏ hoặc màu xanh” hoặc “Hai quả bóng lấy ra có cùng màu”. Do đó, B sai."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Một hộp có 52 chiếc thẻ cùng loại, mỗi thẻ được ghi một trong các số; hai thẻ khác nhau thì ghi hai số khác nhau. Rút ngẫu nhiên 1 chiếc thẻ trong hộp. Xét biến cố A: \"Số xuất hiện trên thẻ được rút ra là số chia hết cho 3\" và biến cố B: \"Số xuất hiện trên thẻ được rút ra là số chia hết cho 4\". Biến cố giao của hai biến cố A và B được phát biểu là:",
+      "options": [
+        "A. “Số xuất hiện trên thẻ là số vừa chia hết cho 3 vừa chia hết cho 4”;",
+        "B. “Số xuất hiện trên thẻ là số chia hết cho 3 hoặc chia hết cho 4”;",
+        "C. “Số xuất hiện trên thẻ là số chia hết cho 12”;",
+        "D. Cả A và C đều đúng."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Biến cố giao của hai biến cố A và B là biến cố “A và B đều xảy ra”. Do đó biến cố giao của A và B là: “Số xuất hiện trên thẻ là số vừa chia hết cho 3 vừa chia hết cho 4” hoặc “Số xuất hiện trên thẻ là số chia hết cho 12”."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Một hộp có 52 chiếc thẻ cùng loại, mỗi thẻ được ghi một trong các số; hai thẻ khác nhau thì ghi hai số khác nhau. Rút ngẫu nhiên 1 chiếc thẻ trong hộp. Xét biến cố A: “Số xuất hiện trên thẻ là số lẻ\" và biến cố B: \"Số xuất hiện trên thẻ là số nguyên tố\". Biến cố giao của A và B được phát biểu là",
+      "options": [
+        "A. “Số xuất hiện trên thẻ là số lẻ hoặc số nguyên tố”;",
+        "B. “Số xuất hiện trên thẻ là số nguyên tố lẻ”;",
+        "C. “Số xuất hiện trên thẻ là các số nguyên tố khác số 2”;",
+        "D. Cả B và C đều đúng."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Biến cố giao của hai biến cố A và B là biến cố “A và B đều xảy ra”. Vì các số nguyên tố đều là số lẻ ngoại trừ số 2. Do đó, biến cố giao của A và B là “Số xuất hiện trên thẻ là số nguyên tố lẻ” hoặc “Số xuất hiện trên thẻ là các số nguyên tố khác số 2”. Vậy ta chọn phương án D."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Xét phép thử gieo ngẫu nhiên một con xúc xắc đồng chất sáu mặt. Gọi A là biến cố: \"Số chấm thu được là số chẵn\", B là biến cố: \"Số chấm thu được là số không chia hết cho 4\". Mô tả biến cố A giao B ta được tập hợp",
+      "options": [
+        "A. {2; 6};",
+        "B. {2; 4; 6};",
+        "C. {1; 2; 3; 5; 6};",
+        "D. {1; 2; 3}."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có: A = {2; 4; 6}, B = {1; 2; 3; 5; 6}. Suy ra: A ∩ B = {2; 6}."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Hai xạ thủ bắn cung vào bia. Gọi X 1 và X 2 lần lượt là các biến cố \"Xạ thủ thứ nhất bắn trúng bia\" và \"Xạ thủ thứ hai bắn trúng bia\". Cho biến cố B: \"Có đúng một trong hai xạ thủ bắn trúng bia\". Biểu diễn biến cố B theo hai biến cố X 1 và X 2 ta được",
+      "options": [
+        "A. B = X 1 ∪ X 2 ;",
+        "B. B = X 1 ¯ X 2 ∩ X 1 X 2 ¯ ;",
+        "C. B = X 1 ¯ X 2 ∪ X 1 X 2 ¯ ;",
+        "D. B = X 1 X 2 ¯ ∪ X 1 X 2 ¯ ."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C B: \"Có đúng một trong hai xạ thủ bắn trúng bia\". Khi đó B gồm các trường hợp có thể xảy ra là: TH1: Xạ thủ thứ nhất bắn trượt và xạ thủ thứ hai bắn trúng là biến cố X 1 ¯ X 2 TH2: Xạ thủ thứ nhất bắn trúng và xạ thủ thứ hai bắn trượt là biến cố X 1 X 2 ¯ . Do đó B = X 1 ¯ X 2 ∪ X 1 X 2 ¯ ."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Ba người cùng bắn vào một bia. Gọi các biến cố A 1 : “Người thứ nhất bắn trúng bia”, A 2 : “Người thứ hai bắn trúng bia” và A 3 : “Người thứ ba bắn trúng bia”. Biến cố “có đúng 1 người bắn trùng bia” là",
+      "options": [
+        "A. A 1 A 2 A 3 ;",
+        "B. A 1 ∪ A 2 ∪ A 3 ;",
+        "C. A 1 A 2 A 3 ¯ ∪ A 1 ¯ A 2 A 3 ¯ ∪ A 1 A 2 ¯ A 3 ;",
+        "D. ( A 1 ∪ A 2 ¯ ∪ A 3 ¯ ) ( A 1 ¯ ∪ A 2 ∪ A 3 ¯ ) ( A 1 ¯ ∪ A 2 ¯ ∪ A 3 ) ."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Để có đúng 1 người bắn trúng ta có 3 trường hợp sau: TH1: Chỉ có người thứ nhất bắn trúng và cả hai người còn lại trượt là biến cố A 1 A 2 A 3 ¯ ; TH2: Chỉ có người thứ hai bắn trúng và cả hai người còn lại trượt là biến cố A 1 ¯ A 2 A 3 ¯ ; TH3: Chỉ có người thứ ba bắn trúng và cả hai người còn lại trượt là biến cố A 1 A 2 ¯ A 3 ."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-11-ket-noi-tri-thuc-bai-12-co-dap-an",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-11-ket-noi-",
+  "grade": "l11",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 11 Kết nối tri thức Bài 12 có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Hệ quản trị cơ sở dữ liệu (DBMS) có chức năng gì?",
+      "options": [
+        "A. Cung cấp công cụ tạo lập cơ sở dữ liệu.",
+        "B. Cập nhật và truy xuất dữ liệu.",
+        "C. Kiểm soát quyền truy cập dữ liệu và sao lưu dự phòng.",
+        "D. Tất cả các ý trên."
+      ],
+      "answer": "D",
+      "note": "Đáp án: D Giải thích: Hệ quản trị cơ sở dữ liệu (DBMS) cung cấp nhiều chức năng, bao gồm việc tạo lập cơ sở dữ liệu, cập nhật và truy xuất dữ liệu, bảo mật và sao lưu để đảm bảo an toàn dữ liệu."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Chức năng nào sau đây thuộc nhóm chức năng định nghĩa dữ liệu của hệ QTCSDL?",
+      "options": [
+        "A. Khai báo cơ sở dữ liệu với tên gọi xác định.",
+        "B. Thêm, sửa, xóa dữ liệu trong bảng.",
+        "C. Sao lưu và khôi phục dữ liệu.",
+        "D. Truy xuất dữ liệu theo tiêu chí khác nhau."
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Nhóm chức năng định nghĩa dữ liệu bao gồm việc khai báo cơ sở dữ liệu và tạo lập kiến trúc bên trong của nó, trong khi các chức năng khác thuộc nhóm thao tác dữ liệu và bảo mật"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Hệ QTCSDL hỗ trợ người dùng truy xuất dữ liệu bằng cách nào?",
+      "options": [
+        "A. Cung cấp giao diện lập trình ứng dụng cho người dùng cuối.",
+        "B. Thực hiện truy vấn theo các tiêu chí khác nhau.",
+        "C. Cài đặt ràng buộc toàn vẹn dữ liệu.",
+        "D. Thực hiện sao lưu dữ liệu."
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Truy xuất dữ liệu là một chức năng cơ bản của hệ QTCSDL, giúp người dùng thực hiện truy vấn theo tiêu chí cụ thể để lấy thông tin từ cơ sở dữ liệu."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Trong hệ cơ sở dữ liệu tập trung, dữ liệu được lưu trữ ở đâu?",
+      "options": [
+        "A. Trên nhiều máy tính ở các địa điểm khác nhau.",
+        "B. Trên một máy tính duy nhất.",
+        "C. Trên nhiều máy chủ ở các quốc gia khác nhau.",
+        "D. Trên các máy trạm và máy chủ riêng biệt."
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Hệ cơ sở dữ liệu tập trung lưu trữ toàn bộ dữ liệu trên một máy tính duy nhất, khác với hệ cơ sở dữ liệu phân tán."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Ưu điểm của hệ cơ sở dữ liệu phân tán là gì?",
+      "options": [
+        "A. Khó khăn trong việc đảm bảo tính nhất quán và bảo mật dữ liệu.",
+        "B. Chi phí duy trì thấp.",
+        "C. Tính sẵn sàng và độ tin cậy cao hơn.",
+        "D. Không cần bổ sung thêm trạm dữ liệu khi mở rộng."
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Hệ cơ sở dữ liệu phân tán có ưu điểm là tính sẵn sàng và độ tin cậy cao do dữ liệu có thể được sao lưu ở nhiều trạm khác nhau."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Chức năng sao lưu dự phòng của hệ QTCSDL nhằm mục đích gì?",
+      "options": [
+        "A. Giảm thiểu chi phí lưu trữ.",
+        "B. Đảm bảo dữ liệu không bị mất mát trong trường hợp sự cố.",
+        "C. Tăng tốc độ truy xuất dữ liệu.",
+        "D. Hỗ trợ người dùng thao tác dữ liệu dễ dàng hơn."
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Chức năng sao lưu dự phòng giúp bảo vệ dữ liệu khỏi mất mát do sự cố và khôi phục lại khi cần."
+    }
+  ]
+}

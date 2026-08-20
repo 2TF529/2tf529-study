@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-5-de-kiem-tra-bien-co-hop-bien-co-giao-va-quy-tac-cong-xac-suat-c",
+  "sourceId": "vietjack:5-de-kiem-tra-bien-co-hop-bien-co-giao-v",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "5.Đề kiểm tra Biến cố hợp biến cố giao và quy tắc cộng xác suất (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho hai biến cố \\[A\\] và \\[B\\] là hai biến cố xung khắc. Biết \\[P\\left( A \\right) = \\frac{1}{4}\\], \\[P\\left( {A \\cup B} \\right) = \\frac{1}{2}\\]. Tính \\[P\\left( B \\right)\\]",
+      "options": [
+        "A. \\[\\frac{1}{8}\\].",
+        "B. \\[\\frac{1}{4}\\].",
+        "C. \\[\\frac{1}{3}\\].",
+        "D. \\[\\frac{3}{4}\\]."
+      ],
+      "answer": "B",
+      "note": "Vì \\[A\\] và \\[B\\] là các biến cố xung khắc nên \\[P\\left( {A \\cup B} \\right) = P\\left( A \\right) + P\\left( B \\right)\\]. Suy ra \\[P\\left( B \\right) = P\\left( {A \\cup B} \\right) - P\\left( A \\right) = \\frac{1}{2} - \\frac{1}{4} = \\frac{1}{4}\\]."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho \\[A\\], \\[B\\] là hai biến cố xung khắc. Biết \\(P\\left( A \\right) = \\frac{1}{5}\\), \\(P\\left( {A \\cup B} \\right) = \\frac{1}{3}\\). Tính \\[P\\left( B \\right)\\].",
+      "options": [
+        "A. \\[\\frac{3}{5}\\].",
+        "B. \\[\\frac{8}{{15}}\\].",
+        "C. \\[\\frac{2}{{15}}\\].",
+        "D. \\[\\frac{1}{{15}}\\]."
+      ],
+      "answer": "C",
+      "note": "\\[A\\], \\[B\\] là hai biến cố xung khắc. Suy ra \\(P\\left( {A \\cup B} \\right) = P\\left( A \\right) + P\\left( B \\right)\\)\\( \\Rightarrow P\\left( B \\right) = \\frac{1}{3} - \\frac{1}{5} = \\frac{2}{{15}}\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho \\[A\\] và \\[B\\] là hai biến cố độc lập. Biết \\[P\\left( B \\right) = 0,5\\], \\[P\\left( {A \\cup B} \\right) = 0,7\\]. Tính \\[P\\left( A \\right)\\]",
+      "options": [
+        "A. \\[0,2\\].",
+        "B. \\[0,5\\].",
+        "C. \\[0,7\\].",
+        "D. \\[0,4\\]."
+      ],
+      "answer": "D",
+      "note": "Đáp án do hệ thống đối chiếu chuẩn xác"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Lớp có học sinh gồm nam và nữ. Thầy giáo chủ nhiệm cần chọn ngẫu nhiên trong lớp một nhóm gồm học sinh để tham gia văn nghệ kỉ niệm ngày thành lập trường. Tính xác suất nhóm thầy chọn được có ít nhất học sinh nữ.",
+      "options": [
+        "A. 193 247",
+        "B. \\(\\frac{{552}}{{1235}}.\\)",
+        "C. \\(\\frac{{253}}{{1235}}.\\)",
+        "D. \\(\\frac{{161}}{{247}}.\\)"
+      ],
+      "answer": "D",
+      "note": "Ta có: \\(n\\left( \\Omega \\right) = C_{40}^3\\). Xét biến cố \\(A\\)là biến cố cần tìm => \\[n\\left( A \\right) = C_{16}^1.C_{24}^2 + C_{24}^3\\] Xác suất \\(P\\left( A \\right) = \\frac{{n\\left( A \\right)}}{{n\\left( \\Omega \\right)}} = \\frac{{161}}{{247}}.\\)"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Trong ngân hàng câu hỏi kiểm tra có 20 câu hỏi trắc nghiệm và 10 câu hỏi tự luận. Thầy giáo cần chọn ngẫu nhiên 5 câu hỏi để tạo thành một đề kiểm tra. Xác suất để thầy giáo chọn được đề chỉ có 1 hoặc 2 câu hỏi tự luận gần nhất với giá trị nào sau đây?",
+      "options": [
+        "A. \\(0,5.\\)",
+        "B. \\(0,6.\\)",
+        "C. \\(0,7.\\)",
+        "D. \\(0,8.\\)"
+      ],
+      "answer": "C",
+      "note": "Ta có: \\(n\\left( \\Omega \\right) = C_{30}^5.\\) Gọi biến cố\\(A\\): “Đề có \\(1\\) câu hỏi tự luận”. => \\(n\\left( A \\right) = C_{10}^1.C_{20}^4\\) => \\(P\\left( A \\right) = \\frac{{n\\left( A \\right)}}{{n\\left( \\Omega \\right)}} \\approx 0,34\\). Gọi biến cố \\(B\\): “Đề có \\(2\\) câu hỏi tự luận”. => \\(n\\left( B \\right) = C_{10}^2.C_{20}^3\\) => \\(P\\left( B \\right) = \\frac{{n\\left( B \\right)}}{{n\\left( \\Omega \\right)}} \\approx 0,36\\). Do \\(A\\) và \\(B\\) là hai biến cố xung khắc => \\(P\\left( {A \\cup B} \\right) = P\\left( A \\right) + P\\left( B \\right) \\approx 0,7.\\)"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Lớp có 44 học sinh gồm 24 học sinh giỏi và 20 học sinh khá. Thầy giáo chủ nhiệm cần chọn ngẫu nhiên trong lớp một nhóm gồm 3 học sinh để kiểm tra kiến thức cũ. Tính xác suất trong 3 bạn thầy chọn số học sinh giỏi nhiều hơn học sinh khá.",
+      "options": [
+        "A. \\(\\frac{1}{{14}}.\\)",
+        "B. \\(\\frac{{1886}}{{3311}}.\\)",
+        "C. \\(\\frac{{1380}}{{3311}}.\\)",
+        "D. \\(\\frac{{46}}{{301}}.\\)"
+      ],
+      "answer": "B",
+      "note": "Ta có: \\(n\\left( \\Omega \\right) = C_{44}^3\\). Xét biến cố \\(A\\)là biến cố cần tìm. Xét các TH sau: TH1: 3 HSG, 0 HSK có \\(C_{24}^3.C_{20}^0\\) cách. TH2: 2 HSG, 1 HSK có \\(C_{24}^2.C_{20}^1\\) cách. => \\(n\\left( A \\right) = 7544\\) => \\(P\\left( A \\right) = \\frac{{n\\left( A \\right)}}{{n\\left( \\Omega \\right)}} = \\frac{{1886}}{{3311}}\\)."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Cho \\(A\\), \\(B\\) là hai biến cố xung khắc. Đẳng thức nào sau đây đúng?",
+      "options": [
+        "A. \\(P\\left( {A \\cup B} \\right) = P\\left( A \\right) + P\\left( B \\right)\\)",
+        "B. \\(P\\left( {A \\cup B} \\right) = P\\left( A \\right).P\\left( B \\right)\\)",
+        "C. \\(P\\left( {A \\cup B} \\right) = P\\left( A \\right) - P\\left( B \\right)\\)",
+        "D. \\(P\\left( {A \\cap B} \\right) = P\\left( A \\right) + P\\left( B \\right)\\)"
+      ],
+      "answer": "A",
+      "note": "Ta có \\(P\\left( {A \\cup B} \\right) = P\\left( A \\right) + P\\left( B \\right) - P\\left( {A \\cap B} \\right)\\). Vì \\(A\\), \\(B\\) là hai biến cố xung khắc nên \\(A \\cap B = \\emptyset \\). Từ đó suy ra \\(P\\left( {A \\cup B} \\right) = P\\left( A \\right) + P\\left( B \\right)\\)."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Gieo \\[2\\] con xúc xắc cân đối và đồng chất. Gọi \\(A\\) là biến cố “Tích số chấm xuất hiện là số lẻ”. Biến cố nào sau đây xung khắc với biến cố \\(A\\)?",
+      "options": [
+        "A. “Xuất hiện hai mặt có cùng số chấm”.",
+        "B. “Tổng số chấm xuất hiện là số lẻ”.",
+        "C. “Xuất hiện it nhất một mặt có số chấm là số lẻ”.",
+        "D. “Xuất hiện hai mặt có số chấm khác nhau”."
+      ],
+      "answer": "B",
+      "note": "Ta có biến cố “Tổng số chấm xuất hiện là số lẻ” xung khắc với biến cố “tích số chấm xuất hiện là số lẻ”."
+    }
+  ]
+}

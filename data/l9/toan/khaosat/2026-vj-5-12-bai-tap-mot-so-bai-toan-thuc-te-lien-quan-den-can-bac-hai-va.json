@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-5-12-bai-tap-mot-so-bai-toan-thuc-te-lien-quan-den-can-bac-hai-va",
+  "sourceId": "vietjack:5-12-bai-tap-mot-so-bai-toan-thuc-te-lie",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "5.12 bài tập Một số bài toán thực tế liên quan đến căn bậc hai và căn thức bậc hai có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Trong vật lí, quãng đường S (tính bằng mét) của một vật rơi tự do được cho bởi công thức S = 4,9t 2 , trong đó l là tời gian rơi (tính bằng giây). Hỏi sau bao nhiêu giây thì vật sẽ chạm đất nếu được thả rơi tự do từ độ cao 122,5 mét?",
+      "options": [
+        "A. 5s.",
+        "B. 15s.",
+        "C. 25s.",
+        "D. 20s."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Từ công thức S = 4,9t 2 suy ra t 2 = \\(\\frac{S}{{4,9}}\\), suy ra t = \\(\\sqrt {\\frac{S}{{4,9}}} \\) (vì t > 0). Vật đang ở độ cao 122,5 m rơi chạm đất thì vật đã rơi được quãng đường là S = 122,5 m. Thay S = 122,5 m vào phương trình t = \\(\\sqrt {\\frac{S}{{4,9}}} = \\sqrt {\\frac{{122,5}}{{4,9}}} = 5(s)\\). Vậy sau 5 s thì vật rơi chạm đất."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Để lái xe an toàn khi đi qua đoạn đường có dạng cung tròn, người lái cần biết tốc độ tối đa cho phép là bao nhiêu. Vì thế, ở những đoạn đường đó thường có bảng chỉ dẫn cho tốc độ tối đa cho phép của ô tô. Tốc độ tối đa cho phép v (m/s) được tính bởi công thức v = \\(\\sqrt {rgu} \\), trong đó r(m) là bán kính của cung đường g = 9,8 m/s 2 , μ = 0,12 là hệ số ma sát trượt của đường. Tính vận tốc tối đa cho phép v (m/s) để lái xe an toàn khi đi qua đoạn đường có dạng cung tròn với bán kính r = 400 m (làm tròn đến hàng phần mười).",
+      "options": [
+        "A. 22 m/s.",
+        "B. 20 m/s.",
+        "C. 2,2 m/s.",
+        "D. 0,22 m/s."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có công thức: v = \\(\\sqrt {rgu} \\). Thay r = 400, g = 9,8 và μ = 0,12, ta có: v = \\(\\sqrt {400.9,8.0,12} \\) ≈ 22 m/s. Vậy tốc độ tối đa cho phép là khoảng 22 m/s."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Một trạm phát sóng được đặt ở vị trí B cách đường tàu một khoảng AB = 300 (m). Đầu tàu đang ở vị trí C, cách vị trí A một khoảng AC = x (m). Tính khoảng cách BC khi AC = 1 000 mét.",
+      "options": [
+        "A. 1 404 m.",
+        "B. 1 044 m.",
+        "C. 1 400 m.",
+        "D. 1 440 m."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có khoảng cách từ trạm sóng đên đầu tàu là BC \\( = \\sqrt {A{B^2} + A{C^2}} = \\sqrt {{{300}^2} + {{1000}^2}} \\approx 1044\\) (m)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Để chuẩn bị trồng cây trên vỉa hè, người ta để lại những ô đất hình tròn có diện tích khoảng 2 cm 2 . Em hãy ước lượng (với độ chính xác 0,005) đường kính của các ô đất đó khoảng bao nhiêu mét?",
+      "options": [
+        "A. 0,8 m.",
+        "B. 1,6 m.",
+        "C. 16 m.",
+        "D. 8 m."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có diện tích ô đất hình tròn là S = πr 2 , suy ra r = \\(\\sqrt {\\frac{S}{\\pi }} = \\sqrt {\\frac{2}{\\pi }} \\) (m). Đường kính của các ô đất đó là: d = 2r ≈ 1,6 m."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Đại Kim tự táp Giza là Kim tự tháp Ai Cập lớn nhất và là lăng mộ của Vương triều thứ Tư của pharaoh Khufu. Nền kim tự tháp có dạng hình vuông với diện tích khoảng 53 052 m 2 . Hỏi độ dài cạnh nền của kim tự tháp đó là bao nhiêu mét? (làm tròn kết quả đến hàng phần mười)",
+      "options": [
+        "A. 23,03 m.",
+        "B. 23,3 m.",
+        "C. 230,3 m.",
+        "D. 203 m."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Gọi cạnh hình vuông (nền kim tự tháp) là x, điều kiện x > 0, đơn vị m. Diện tích hình vuông là: x 2 = 53 052. Suy ra x = \\(\\sqrt {53052} \\) ≈ 230,3 m. Vậy độ dài cạnh nền của kim tự tháp khoảng 230,3 m."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Giông bão thổi mạnh, một cây bị gãy gập xuống làm ngọn cây chạm đất và tạo với phương nằm ngang một góc 45° (minh họa ở hình bên). Người ta đo được khoảng cách từ chỗ ngọn cây đến gốc cây là 4,5 m. Giả sử cây mọc vuông góc với mặt đấy, hãy tính chiều cao của cây đó theo đơn vị mét (làm tròn kết quả đến hàng phần mười).",
+      "options": [
+        "A. 4,5 m.",
+        "B. 10,9 m.",
+        "C. 19 m.",
+        "D. 9 m."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Xem đoạn bị gãy là CB, đoạn còn lại (thẳng đứng) là AC. Như vậy, độ dài của cây khi chưa bị gãy là AC + BC. Do tam giác ABC vuông tại A và \\(\\widehat {ABC}\\) = 45°, suy ra tam giác ABC vuông cân tại A. Suy ra AC = AB = 4,5 m. Áp dụng định lí Pythagore trong tam giác ABC, ta có: AB 2 + AC 2 = BC 2 4,5 2 + 4,5 2 = BC 2 Suy ra BC = \\(\\sqrt {2.4,{5^2}} = \\sqrt {40,5} \\) m. Vậy chiều cao cây trước khi gãy là: 4,5 + \\(\\sqrt {40,5} \\) ≈ 10,9 m."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-11-canh-dieu-bai-15-cau-truc-du-lieu",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-11-canh-die",
+  "grade": "l11",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 11 Cánh diều Bài 15: Cấu trúc dữ liệu danh sách liên kết và ứng dụng có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Danh sách liên kết (linked list) là gì?",
+      "options": [
+        "A. Một cấu trúc dữ liệu lưu trữ các phần tử liên tiếp trong bộ nhớ.",
+        "B. Một cấu trúc dữ liệu chứa các nút không liên tục trong bộ nhớ.",
+        "C. Một mảng động.",
+        "D. Một loại cây."
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Danh sách liên kết bao gồm các nút không được lưu trữ thành một khối liên tục mà có thể nằm rải rác trong bộ nhớ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Thành phần nào không phải của một nút trong danh sách liên kết?",
+      "options": [
+        "A. Data",
+        "B. Next",
+        "C. Previous",
+        "D. Address"
+      ],
+      "answer": "D",
+      "note": "Đáp án: D Giải thích: Thành phần của một nút trong danh sách liên kết bao gồm Data và Next (hoặc Previous trong danh sách liên kết kép). \"Address\" không phải là một thành phần riêng biệt."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Thời gian thực hiện việc thêm nút vào đầu danh sách liên kết là bao nhiêu?",
+      "options": [
+        "A. O(n)",
+        "B. O(1)",
+        "C. O(log n)",
+        "D. O(n 2 )"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Thêm nút vào đầu danh sách liên kết có thời gian thực hiện là O(1), không phụ thuộc vào độ dài của danh sách."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Khi nào danh sách liên kết sẽ có lợi thế hơn danh sách mảng?",
+      "options": [
+        "A. Khi cần lưu trữ một tập hợp số lượng cố định các phần tử.",
+        "B. Khi cần thực hiện nhiều thao tác thêm và gỡ bỏ phần tử.",
+        "C. Khi cần duyệt qua từng phần tử theo chỉ số.",
+        "D. Khi kích thước của danh sách không thay đổi"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Danh sách liên kết có lợi thế khi cần thực hiện nhiều thao tác thêm và gỡ bỏ phần tử ở bất kỳ vị trí nào trong danh sách."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Khi gỡ bỏ nút trong danh sách liên kết, điều gì cần được thực hiện?",
+      "options": [
+        "A. Chỉ cần thay đổi giá trị Data của nút.",
+        "B. Thay đổi con trỏ của nút trước nó để trỏ đến nút sau nó.",
+        "C. Chỉ cần xóa nút đó mà không cần làm gì khác.",
+        "D. Thay đổi con trỏ Head để trỏ đến nút tiếp theo."
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Để gỡ bỏ một nút, cần phải thay đổi con trỏ của nút trước nó để trỏ đến nút sau nó, điều này giúp duy trì tính liên kết của danh sách."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Danh sách liên kết kép có đặc điểm gì khác so với danh sách liên kết đơn?",
+      "options": [
+        "A. Chỉ có một con trỏ Next.",
+        "B. Có cả con trỏ Next và Prev.",
+        "C. Không thể duyệt ngược.",
+        "D. Các nút được lưu trữ liên tục trong bộ nhớ"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Danh sách liên kết kép có cả con trỏ Next (trỏ đến nút tiếp theo) và con trỏ Prev (trỏ đến nút trước đó)."
+    }
+  ]
+}

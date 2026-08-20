@@ -1,0 +1,78 @@
+{
+  "id": "2026-vj-2-cac-dang-bai-tap-tich-vo-huong-cua-hai-vecto-lop-10-co-loi-giai",
+  "sourceId": "vietjack:2-cac-dang-bai-tap-tich-vo-huong-cua-hai",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.Các dạng bài tập Tích vô hướng của hai vecto lớp 10 (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho tam giác ABC vuông cân tại A. Tính góc giữa hai vectơ C A → và B C → .",
+      "options": [
+        "A. 45°;",
+        "B. 135°;",
+        "C. 90°;",
+        "D. 120°."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải: Đáp án đúng là: B. Trên tia đối của CB lấy D sao cho CB = CD Ta có: C D → = B C → Khi đó: C A → , B C → = C A → , C D → = A C D ^ Do tam giác ABC vuông cân tại A nên A C B ^ = 45 ° . Ta có: A C D ^ + A C B ^ = 180 ° (hai góc kề bù) ⇒ A C D ^ = 180 ° − A C B ^ = 180 ° − 45 ° = 135 ° Vậy C A → , B C → = 135 ° ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho tam giác ABC vuông tại A có: AB = 4, BC = 8. Tính C B → , C A → .",
+      "options": [
+        "A. 90°;",
+        "B. 60°;",
+        "C. 30°;",
+        "D. 45°."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải: Đáp án đúng là: C. Xét tam giác ABC vuông tại A có: sin A C B ^ = A B B C = 4 8 = 1 2 ⇒ A C B ^ = 30 ° Vậy C B → , C A → = A C B ^ = 30 ° ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho tam giác ABC vuông tại B. Có AB = 3, AC = 6. Tính A B → , A C → .",
+      "options": [
+        "A. 90°;",
+        "B. 60°;",
+        "C. 30°;",
+        "D. 45°."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải: Đáp án đúng là: B. Xét tam giác ABC vuông tại A có: c o s B A C ^ = A B A C = 3 6 = 1 2 ⇒ C A B ^ = 60 ° Vậy A B → , A C → = C A B ^ = 60 ° ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho tam giác ABC có AB = 5, AC = 6, BC = 4. Tính côsin của góc B A → , B C → .",
+      "options": [
+        "A. 1 8",
+        "B. 3 8",
+        "C. 7 8",
+        "D. 1 2"
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A. Ta có: B A → , B C → = A B C ^ Xét tam giác ABC Áp dụng định lí côsin ta có: cos A B C ^ = B A 2 + B C 2 − A C 2 2 B A . B C = 5 2 + 4 2 − 6 2 2.5.4 = 1 8 Vậy c o s B A → , B C → = c o s A B C ^ = 1 8 ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho tam giác ABC có AB = 12, BC = 15, AC = 13. Tính c o s A B → , A C → .",
+      "options": [
+        "A. 1 39",
+        "B. 1 3",
+        "C. 1 9",
+        "D. 11 39"
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải: Đáp án đúng là: D. Ta có: A B → , A C → = B A C ^ Xét tam giác ABC Áp dụng định lí côsin ta có: cos B A C ^ = A B 2 + A C 2 − B C 2 2 A B . A C = 12 2 + 13 2 − 15 2 2.12.13 = 11 39 Vậy c o s A B → , A C → = 11 39 ."
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "id": "l12-li-totnghiep-2026-de-thi-thu-tn-thpt-vat-ly-truong-le-thanh-tong-tinh-tp-ho-chi-minh-lan-1-2026",
+  "grade": "l12",
+  "subjectSlug": "li",
+  "examType": "totnghiep",
+  "year": 2026,
+  "code": "THPT_TTL_HCM_2026_01",
+  "title": "Đề thi thử tốt nghiệp THPT môn Vật Lý Trường Lê Thánh Tông Sở GD&ĐT TP Hồ Chí Minh lần 1 năm 2026",
+  "duration": 50,
+  "answerSource": "official",
+  "source": "https://dolthpt.vn/tot-nghiep-thpt/pdf-de-thi-thu-tn-thpt-vat-ly-truong-le-thanh-tong-tinh-tp-ho-chi-minh-lan-1-2026-co-dap-an",
+  "notes": "Nội dung, đáp án và lời giải được nhập từ bản công khai của DOL THPT.",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "content": "Đơn vị của từ thông có thể là gì?",
+      "chuong": "từ trường",
+      "dang": "lý thuyết: từ trường",
+      "type": "single",
+      "options": [
+        "A. Tesla trên mét (T/m).",
+        "B. Tesla nhân mét (T.m).",
+        "C. Tesla trên mét bình phương (T/m²).",
+        "D. Tesla nhân mét bình phương (T.m²)."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Từ kiến thức vật lí phổ thông, từ thông $\\Phi$ được định nghĩa (với trường đều và vuông góc) là tích cảm ứng từ B với diện tích S; tổng quát hơn: - $\\Phi = B\\,S\\cos\\theta$\n- Nhận dạng đơn vị: lấy cả hai vế công thức để suy đơn vị: - Đơn vị của $\\Phi$ bằng đơn vị của $B$ nhân với đơn vị của $S$:\n  - $[\\Phi]=[B]\\cdot[S]=\\text{Tesla}\\times\\text{m}^2=\\text{T·m}^2.$\n- Ví dụ kiểm tra: nếu $B=1\\ \\text{T}$ đi qua một diện tích $S=1\\ \\text{m}^2$ vuông góc, thì $\\Phi=1\\ \\text{T}\\cdot 1\\ \\text{m}^2=1\\ \\text{Wb}$ (weber), tức bằng \\$1\\ \\text{T·m}^2$.\n- Suy ra các phương án khác sai vì không đúng chiều của đơn vị: T/m, T·m, T/m² đều không bằng T·m².\n✅ **Đáp án:** D. Tesla nhân mét bình phương (T.m²)."
+    },
+    {
+      "id": 2,
+      "content": "Khi nói về sóng điện từ, phát biểu nào sau đây là đúng?",
+      "chuong": "từ trường",
+      "dang": "lý thuyết: điện từ trường. mô hình sóng điện từ",
+      "type": "single",
+      "options": [
+        "A. Khi truyền trong chân không, sóng điện từ không mang theo năng lượng.",
+        "B. Sóng điện từ có thể là sóng dọc hoặc sóng ngang.",
+        "C. Sóng điện từ luôn lan truyền với tốc độ $c = 3 \\cdot 10^8$ m/s.",
+        "D. Tốc độ truyền sóng điện từ phụ thuộc vào môi trường."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Sóng điện từ mang năng lượng và năng lượng truyền theo sóng; vì vậy phát biểu A sai. (Ở mức THPT: ánh sáng truyền năng lượng, làm nóng, tác dụng quang điện, v.v.)\n- Sóng điện từ trong chân không và trong vật chất là sóng *ngang* (các vectơ điện trường và từ trường vuông góc với hướng truyền), không phải sóng dọc → phát biểu B sai.\n- Vận tốc ánh sáng trong chân không là $c = 3 \\cdot 10^8\\ \\text{m/s}$; nhưng khi sóng điện từ truyền trong môi trường vật chất (ví dụ thủy tinh, nước), tốc độ giảm theo chiết suất của môi trường. Công thức liên quan (mức THPT): - Nếu chiết suất môi trường là $n$ thì vận tốc trong môi trường là $v=\\frac{c}{n}.$\n  - Vì thế vận tốc phụ thuộc vào môi trường: trong chân không $v=c$, trong thủy tinh (ví dụ $n\\approx 1.5$) thì $v\\approx \\frac{c}{1.}5}\\approx 2\\cdot10^8\\ \\text{m/s}.$\n- Do đó phát biểu C là sai vì nó bỏ qua trường hợp trong môi trường vật chất; phát biểu D nêu đúng: tốc độ truyền sóng điện từ phụ thuộc vào môi trường.\n✅ **Đáp án:** D. Tốc độ truyền sóng điện từ phụ thuộc vào môi trường."
+    },
+    {
+      "id": 3,
+      "content": "Một khung dây kín (C) chuyển động trong một vùng từ trường đều có cảm ứng từ $\\vec{B}$ như hình vẽ. Dòng điện cảm ứng xuất hiện trong khung dây có chiều ngược chiều kim đồng hồ khi khung dây chuyển động theo hướng nào?\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tn-thpt-vat-ly-truong-le-thanh-tong-tinh-tp-ho-chi-minh-lan-1-2026/cau-03.webp\" alt=\"Hình minh họa câu 3\" loading=\"lazy\"></figure>",
+      "chuong": "từ trường",
+      "dang": "bài tập: tìm độ lớn và chiều dòng điện cảm ứng",
+      "type": "single",
+      "options": [
+        "A. Hướng 1.",
+        "B. Hướng 2.",
+        "C. Hướng 3 hoặc hướng 4.",
+        "D. Dòng điện cảm ứng không xuất hiện trong khung dây kín (C) khi khung dây chuyển động trong vùng từ trường theo cả 4 hướng kể trên."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Dựng biểu thức thông lượng từ qua mặt nằm ngang của khung (trường hợp từ vuông góc với mặt khung và đều):\n$\\Phi = \\int \\vec{B}\\cdot d\\vec{S} = B\\cdot S$\n(với $B$ là cảm ứng từ, $S$ là diện tích phần khung nằm trong vùng từ trường).\n- Định luật Faraday cho suất điện động cảm ứng:\n$\\mathcal{E} = -\\dfrac{d\\Phi}{dt}.$\nDấu âm (nguyên lí Lenz) cho biết dòng cảm ứng tạo từ trường ngược chiều với sự thay đổi thông lượng.\n- Xác định chiều từ trường do dòng cảm ứng tạo ra: - Nếu thông lượng vào trong trang (dấu \"x\") đang tăng, thì dòng cảm ứng phải tạo một từ trường ra khỏi trang để chống lại sự tăng đó. Dòng tạo từ trường ra khỏi trang là dòng chạy theo chiều ngược chiều kim đồng hồ (quan sát từ phía trước trang).\n  - Nếu thông lượng vào trong trang đang giảm, dòng cảm ứng phải tạo từ trường vào trong trang, và đó là dòng theo chiều kim đồng hồ.\n- Áp dụng vào hình: khi khung chuyển động theo *Hướng 2 (sang trái)*, phần khung nhận được thêm nhiều đường sức từ vào trang (thông lượng vào trang tăng). Do đó $\\dfrac{d\\Phi}{dt}>0$ (tăng vào trong trang). Theo Lenz, dòng cảm ứng phải tạo từ trường ra khỏi trang để chống lại sự tăng này — nên dòng cảm ứng là **ngược chiều kim đồng hồ**.\n- Các hướng còn lại: chuyển sang phải hoặc ra khỏi vùng làm giảm thông lượng hoặc không thay đổi tùy hình, kết quả là không cho chiều ngược chiều kim đồng hồ như yêu cầu.\n✅ **Đáp án:** B. Hướng 2."
+    },
+    {
+      "id": 4,
+      "content": "Cho các phát biểu sau:(1) Độ lớn từ thông qua một mạch kín càng lớn khi số lượng đường sức từ xuyên qua mạch kín đó càng nhỏ.(2) Đơn vị của từ thông là weber.(3) Khi từ thông qua mặt giới hạn bởi một khung dây dẫn kín biến thiên theo thời gian thì trong khung dây xuất hiện dòng điện cảm ứng.(4) Trong hiện tượng cảm ứng điện từ, dòng điện cảm ứng sinh ra trong một khung dây dẫn kín có tác dụng chống lại sự biến thiên từ thông qua chính khung dây đó. Trong các phát biểu trên, có mấy phát biểu đúng?",
+      "chuong": "từ trường",
+      "dang": "lý thuyết: từ thông. hiện tượng cảm ứng điện từ",
+      "type": "single",
+      "options": [
+        "A. 4",
+        "B. 2",
+        "C. 3.",
+        "D. 1."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Xác định công thức và đơn vị: - Từ thông qua một mặt phẳng diện tích A trong trường đều B được cho bởi $\\Phi=BS\\cos\\theta$ (với $\\theta$ là góc giữa $\\vec B$ và pháp tuyến của mặt).\n- Kiểm tra từng phát biểu: - Phát biểu (1): nói rằng từ thông càng lớn khi số lượng đường sức xuyên qua càng nhỏ. Sai — trực giác và công thức cho thấy càng nhiều đường sức (tức B hoặc diện tích hoặc cosθ lớn) thì $\\Phi$ càng lớn. Vậy (1) *sai*.\n  - Phát biểu (2): đơn vị của từ thông là weber. Đúng — theo định nghĩa, Wb là đơn vị từ thông. Vậy (2) *đúng*.\n  - Phát biểu (3): nếu từ thông qua mặt giới hạn khung dây kín biến thiên theo thời gian thì xuất hiện dòng cảm ứng trong khung. Đúng — định luật Faraday cho biết suất điện động cảm ứng tỉ lệ với tốc độ biến thiên từ thông và nếu mạch kín dẫn được thì có dòng cảm ứng. Công thức: $\\mathcal{E}=-\\dfrac{d\\Phi}{dt}$ (nếu mạch đóng sẽ có dòng). Vậy (3) *đúng*.\n  - Phát biểu (4): dòng cảm ứng sinh ra có tác dụng chống lại sự biến thiên từ thông — đúng theo luật Lenz (dấu âm trong công thức Faraday biểu thị chiều của suất điện động làm chống lại sự thay đổi từ thông). Vậy (4) *đúng*.\n- Kết luận trung gian: các phát biểu đúng là (2), (3) và (4) — tổng cộng 3 phát biểu đúng.\n✅ **Đáp án:** C. 3."
+    },
+    {
+      "id": 5,
+      "content": "Quá trình chuyển hóa nào sau đây là quá trình ngưng tụ?",
+      "chuong": "vật lí nhiệt",
+      "dang": "lý thuyết: cấu trúc của chất. sự chuyển thể",
+      "type": "single",
+      "options": [
+        "A. Từ thể lỏng sang thể rắn.",
+        "B. Từ thể rắn sang thể khí.",
+        "C. Từ thể lỏng sang thể khí.",
+        "D. Từ thể khí sang thể lỏng."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Định nghĩa ngưng tụ: ngưng tụ là quá trình hơi (khí) chuyển thành chất lỏng khi làm mất nhiệt hoặc gặp bề mặt lạnh.\n- Viết dưới dạng biểu diễn: $\\text{Ngưng tụ: khí} \\rightarrow \\text{lỏng}$\n- So sánh từng phương án với định nghĩa: - A: \"Từ thể lỏng sang thể rắn.\" → đây là *đông đặc* (đóng băng), không phải ngưng tụ.\n  - B: \"Từ thể rắn sang thể khí.\" → đây là *thăng hoa* (nếu trực tiếp) hoặc hóa rắn sang khí, không phải ngưng tụ.\n  - C: \"Từ thể lỏng sang thể khí.\" → đây là *bay hơi/hoá hơi*, ngược với ngưng tụ.\n  - D: \"Từ thể khí sang thể lỏng.\" → đúng khái niệm ngưng tụ. Ví dụ thực tế: hơi nước gặp mặt kính lạnh tạo thành giọt nước (hình đính kèm mô tả trường hợp này).\n- Kết luận: phương án D trùng với định nghĩa ngưng tụ.\n✅ **Đáp án:** D. Từ thể khí sang thể lỏng."
+    },
+    {
+      "id": 6,
+      "content": "Nếu tăng nhiệt độ của một hệ mà không làm thay đổi thể tích của nó thì nội năng của nó sẽ như thế nào?",
+      "chuong": "vật lí nhiệt",
+      "dang": "lý thuyết: nội năng. định luật i nhiệt động lực học",
+      "type": "single",
+      "options": [
+        "A. tăng.",
+        "B. giảm.",
+        "C. ban đầu tăng, sau đó giảm.",
+        "D. luôn không đổi."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Áp dụng định luật I nhiệt động lực học: $\\Delta U=Q+A$, trong đó $\\Delta U$ là biến thiên nội năng, $Q$ là nhiệt lượng truyền cho hệ, $A$ là công mà hệ thực hiện.\n- Khi thể tích không đổi, công do hệ thực hiện là $A=P\\Delta V=0$ (vì $\\Delta V = 0$). Do đó: $\\Delta U = Q.$\n- Nếu nhiệt độ của hệ tăng thì trung bình các phần tử cấu thành có động năng lớn hơn → hệ nhận nhiệt (truyền nhiệt dương), tức là $Q>0$, nên $\\Delta U>0$. Vậy nội năng tăng.\n- Với khí lí tưởng (mô hình học phổ biến ở chương trình THPT): nội năng tỷ lệ thuận với nhiệt độ tuyệt đối. Cụ thể với khí đơn chất:\n$U = \\frac{f}{2}\\,nRT,$\ntrong đó $f$ là bậc tự do, $n$ số mol, $R$ hằng số khí lý tưởng, $T$ nhiệt độ. Khi $T$ tăng thì $U$ tăng (ví dụ khí đơn nguyên tử: $U=\\frac{3}{2}nRT$).\n- Kết luận: ở điều kiện bài cho (thể tích không đổi và tăng nhiệt độ), nội năng của hệ sẽ tăng.\n✅ **Đáp án:** A. tăng."
+    },
+    {
+      "id": 7,
+      "content": "Một sóng điện từ có tần số \\$10^6$ Hz truyền trong một môi trường với tốc độ \\$3 \\cdot 10^8$ m/s. Trong môi trường đó, sóng điện từ này có bước sóng là:",
+      "chuong": "từ trường",
+      "dang": "bài tập: sóng điện từ",
+      "type": "single",
+      "options": [
+        "A. 200 m.",
+        "B. 30 m.",
+        "C. 150 m.",
+        "D. 300 m."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Ghi công thức liên hệ: $\\lambda = \\dfrac{v}{f}$.\n- Thay số vào công thức: - $\\lambda = \\dfrac{3\\cdot 10^8\\ \\text{m/s}}{10^6\\ \\text{Hz}}$.\n  - Tính: $\\lambda = 3\\cdot 10^{8-6}\\ \\text{m} = 3\\cdot 10^2\\ \\text{m}$.\n  - Kết luận: $\\lambda = 300\\ \\text{m}$.\n- Kiểm tra đơn vị: m/s chia cho Hz (1/s) cho kết quả là mét (m) — hợp lệ.\n- Lưu ý về hình ảnh đính kèm: [IMAGE DESCRIPTION] (không thay đổi kết quả tính vì đầy đủ dữ kiện đã có trong đề).\n✅ **Đáp án:** D. 300 m."
+    },
+    {
+      "id": 8,
+      "content": "Hình bên diễn tả chiều cảm ứng từ tạo bởi dòng điện không đổi I chạy trong một vòng dây dẫn hình tròn tại các điểm nằm trong mặt phẳng dây dẫn. Tại điểm nào có kí hiệu không đúng với chiều của cảm ứng từ tại đó?\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tn-thpt-vat-ly-truong-le-thanh-tong-tinh-tp-ho-chi-minh-lan-1-2026/cau-08.webp\" alt=\"Hình minh họa câu 8\" loading=\"lazy\"></figure>",
+      "chuong": "từ trường",
+      "dang": "bài tập: tìm độ lớn và chiều dòng điện cảm ứng",
+      "type": "single",
+      "options": [
+        "A. Điểm M.",
+        "B. Điểm Q.",
+        "C. Điểm N.",
+        "D. Điểm P."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Xác định chiều chung bằng quy tắc bàn tay phải: quấn các ngón theo chiều của dòng cùng chiều kim đồng hồ → ngón cái chỉ vào trong trang. Vậy từ trường ở vùng bên trong vòng (gần tâm) hướng vào trong trang (ký hiệu × ở tâm là đúng).\n- Đối với các điểm nằm trong mặt phẳng nhưng **ngoài vòng**, trường từ của vòng trông giống trường của một chùm lưỡng cực từ: trên mặt phẳng ngang ngoài vòng, chiều của $\\vec B$ ngược với chiều ở tâm (tức là ra ngoài trang). Vì vậy các điểm ngoài vòng được ký hiệu • (ra ngoài trang) là hợp lý.\n- Áp dụng cho từng điểm của hình: - Điểm N (tâm): × → vào trang. Với dòng điện chiều kim đồng hồ, tại tâm từ vào trang ⇒ ký hiệu **đúng**.\n  - Điểm Q (nằm **trong** vòng, dưới tâm): hình vẽ cho • (ra ngoài trang). Nhưng mọi điểm nằm trong mặt phẳng và **bên trong vòng** đều có từ hướng vào trang (giống tâm) ⇒ ký hiệu ở Q **sai**.\n  - Điểm M và P (bên ngoài vòng, tiếp xúc trục ngang): hình vẽ cho • (ra ngoài trang). Điểm ngoài vòng đúng ra có từ hướng ra ngoài trang ⇒ ký hiệu ở M và P **đúng**.\n✅ **Đáp án:** B. Điểm Q."
+    },
+    {
+      "id": 9,
+      "content": "Điểm có định dưới và có định trên của một nhiệt kế bị hỏng là \\$5^\\circ F$ và \\$99^\\circ F$. Nếu số chỉ của nhiệt kế là \\$52^\\circ$ thì nhiệt độ tương ứng trên thang đo Fahrenheit là:",
+      "chuong": "vật lí nhiệt",
+      "dang": "bài tập: đổi nhiệt độ nâng cao",
+      "type": "single",
+      "options": [
+        "A. \\$154^\\circ F$.",
+        "B. \\$122^\\circ F$.",
+        "C. \\$151^\\circ F$.",
+        "D. \\$132^\\circ F$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Gọi: - $r$ là số chỉ trên nhiệt kế hỏng,\n  - $T$ là nhiệt độ thật theo Fahrenheit.\n- Theo đề: khi $r=5$ thì $T=32^\\circ F$ (điểm đóng băng của nước), và khi $r=99$ thì $T=212^\\circ F$ (điểm sôi của nước).\n- Vì quan hệ là tuyến tính, viết:\n$T = a r + b.$\n- Từ hai điều kiện:\n\\$32 = a\\cdot 5 + b,$\n\\$212 = a\\cdot 99 + b.$\n- Trừ hai phương trình để tìm hệ số góc $a$:\n\\$212-32 = a(99-5) \\Rightarrow 180 = a\\cdot 94 \\Rightarrow a = \\dfrac{180}{94} = \\dfrac{90}{47}.$\n- Tìm hệ số chuyển vị $b$ từ \\$32 = a\\cdot 5 + b$:\n$b = 32 - a\\cdot 5 = 32 - \\dfrac{90}{47}\\cdot 5 = 32 - \\dfrac{450}{47}.$\n(Không cần tính giá trị thập phân trung gian nếu nội suy trực tiếp.)\n- Muốn biết nhiệt độ thật khi $r=52$, dùng công thức:\n$T = 32 + a(52-5).$\nThay $a=\\dfrac{180}{94}$ và \\$52-5=47$:\n$T = 32 + \\dfrac{180}{94}\\cdot 47 = 32 + 180\\cdot \\dfrac{47}{94} = 32 + 180\\cdot \\dfrac{1}{2} = 32 + 90 = 122^\\circ F.$\n- Vậy nhiệt độ tương ứng là \\$122^\\circ F.$\n✅ **Đáp án:** B. \\$122^\\circ F$."
+    },
+    {
+      "id": 10,
+      "content": "Thanh kim loại dẫn điện có thể lăn không ma sát dọc theo hai đoạn dây dẫn không nhiễm từ (Hình vẽ). Khi đóng công tắc K, dòng điện chạy theo chiều mũi tên, lúc này thanh kim loại sẽ:\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tn-thpt-vat-ly-truong-le-thanh-tong-tinh-tp-ho-chi-minh-lan-1-2026/cau-10.webp\" alt=\"Hình minh họa câu 10\" loading=\"lazy\"></figure>",
+      "chuong": "từ trường",
+      "dang": "thí nghiệm: lực từ. cảm ứng từ",
+      "type": "single",
+      "options": [
+        "A. lăn về bên phải.",
+        "B. lăn về bên trái.",
+        "C. đứng yên.",
+        "D. chuyển động đi lên cực bắc của nam châm."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Xác định chiều từ trường: giữa hai cực N (trên) và S (dưới) → chiều từ trường từ trên xuống dưới (từ N → S).\n- Xác định chiều dòng điện qua thanh: mũi tên trên hình chỉ dòng chạy từ trái sang phải qua thanh.\n- Công thức lực từ: $\\vec{F}=I\\,\\vec{L}\\times\\vec{B}$ hoặc dùng quy tắc bàn tay trái của Fleming: - Ngón trỏ chỉ chiều từ trường (từ N → S) → xuống dưới.\n  - Ngón giữa chỉ chiều dòng điện → sang phải.\n  - Ngón cái chỉ chiều lực tác dụng lên thanh → kết luận lực tác dụng vuông góc với mặt phẳng (theo quy tắc sẽ hướng vào trong/xa người trên hình).\n- Giải thích chuyển động lăn: lực từ tác dụng lên thanh tạo một moment (momen lực) làm thanh lăn trên hai dây dẫn. Với hình học và chiều lực như trên, kết quả là thanh lăn về phía bên phải (kết luận này khớp với bài toán kiểu “thanh lăn trên ray trong từ trường” — khi dòng chạy theo chiều mũi tên và từ trường theo N→S, thanh lăn sang phải).\n✅ **Đáp án:** A. lăn về bên phải."
+    },
+    {
+      "id": 11,
+      "content": "Khi nhiệt độ của một khối khí lí tưởng tăng từ \\$27^\\circ C$ đến \\$927^\\circ C$ thì tốc độ cân bằng phương của các phân tử sẽ:",
+      "chuong": "khí lí tưởng",
+      "dang": "bài tập: tính toán động năng, áp suất, tốc độ căn quân phương.",
+      "type": "single",
+      "options": [
+        "A. tăng gấp bốn lần.",
+        "B. tăng gấp đôi.",
+        "C. giảm 4 lần.",
+        "D. giảm 2 lần."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Chuyển nhiệt độ từ độ C sang Kelvin bằng công thức $T(K)=T(^{\\circ}C)+273.$ - $T_1=27+273=300\\ \\text{K}.$\n  - $T_2=927+273=1200\\ \\text{K}.$\n- Công thức cho tốc độ cân bằng phương (RMS) của phân tử khí (tỉ lệ theo nhiệt độ) là:\n$v_{rms}\\propto\\sqrt{T}$\n(hoặc rõ hơn $v_{rms}=\\sqrt{\\frac{3k_BT}{m}}$ hoặc $v_{rms}=\\sqrt{\\frac{3RT}{M}}$).\n- Tỉ số giữa hai tốc độ là:\n$\\frac{v_{2}}{v_{1}}=\\sqrt{\\frac{T_2}{T_}1}}=\\sqrt{\\frac{1200}{30}0}}=\\sqrt{4}=2.$\n- Kết luận: tốc độ cân bằng phương tăng gấp 2 lần.\n✅ **Đáp án:** B. tăng gấp đôi."
+    },
+    {
+      "id": 12,
+      "content": "Khi sét đánh, có dòng điện tích âm chuyển động từ đám mây xuống mặt đất. Từ trường của Trái Đất hướng về phía Bắc. Tia sét bị từ trường Trái Đất làm lệch hướng theo hướng nào?",
+      "chuong": "từ trường",
+      "dang": "thực tế: lực từ. cảm ứng từ",
+      "type": "single",
+      "options": [
+        "A. Bắc.",
+        "B. Nam.",
+        "C. Đông.",
+        "D. Tây."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Công thức lực Lorenxơ: $\\mathbf{F}=q(\\mathbf{v}\\times\\mathbf{B}).$\n- Chọn hệ trục dễ hình dung: lấy +x về phía Đông , +y về phía Bắc, +z hướng lên\n- Vận tốc của điện tích âm chuyển xuống nghĩa là: $\\mathbf{v}=-v\\,\\mathbf{k}\\quad (v>0).$\n- Từ trường của Trái Đất hướng Bắc: $\\mathbf{B}=B\\,\\mathbf{j}\\quad (B>0).$\n- Tính tích vectơ:\n$\\mathbf{v}\\times\\mathbf{B}=(-v\\mathbf{k})\\times(B\\mathbf{j})=-vB(\\mathbf{k}\\times\\mathbf{j}).$\nBiết $\\mathbf{k}\\times\\mathbf{j}=-\\mathbf{i}$, nên\n$\\mathbf{v}\\times\\mathbf{B}=-vB(-\\mathbf{i})=vB\\mathbf{i},$\ntức là hướng về phía Đông.\n- Lực lên điện tích: $\\mathbf{F}=q(vB\\mathbf{i}).$ Vì điện tích là âm (q<0), nên hướng lực ngược với $\\mathbf{i}$, tức là về phía Tây.\n- Kết luận bằng quy tắc bàn tay phải: v×B cho hướng Đông, nhưng do q âm nên lực ngược lại — hướng Tây.\n✅ **Đáp án:** D. Tây."
+    },
+    {
+      "id": 13,
+      "content": "Như hình vẽ, cuộn dây M và cuộn dây P được quấn trên cùng một lõi sắt. Phát biểu nào sau đây là sai?\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tn-thpt-vat-ly-truong-le-thanh-tong-tinh-tp-ho-chi-minh-lan-1-2026/cau-13.webp\" alt=\"Hình minh họa câu 13\" loading=\"lazy\"></figure>",
+      "chuong": "từ trường",
+      "dang": "thí nghiệm: lực từ. cảm ứng từ",
+      "type": "single",
+      "options": [
+        "A. Ngay khi đóng khoá $K$, cuộn dây $M$ và cuộn dây $P$ dây nhau.",
+        "B. Khi đóng khoá $K$ và dòng điện đã ổn định, số chỉ của ampe kế là 0.",
+        "C. Ngay khi ngắt khoá $K$, dòng điện chạy qua ampe kế có chiều từ $b$ đến $a$.",
+        "D. Ngay khi ngắt khoá $K$, từ trường của dòng điện cảm ứng trong cuộn dây $P$ hướng sang trái."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Khi nào có suất điện động cảm ứng? Áp dụng định luật Faraday:\n$\\mathcal{E} = -N\\frac{d\\Phi}{d}t}$\nTrong đó $\\Phi$ là thông lượng từ qua cuộn, $N$ là số vòng dây.\n- Bước 1: Khi đóng khóa *K* và dòng điện đã ổn định, $\\dfrac{d\\Phi}{dt}=0$ nên suất điện động cảm ứng trong cuộn *P* bằng 0 → ampe kế chỉ số 0. (Điều này kiểm chứng phương án B là đúng.)\n- Bước 2: Ngay khi ngắt khóa *K*, dòng điện trong cuộn *M* giảm nhanh → thông lượng từ trong lõi giảm ($d\\Phi/dt<0$).\n- Bước 3: Theo quy tắc Lenz, dòng cảm ứng trong cuộn *P* xuất hiện sao cho từ trường do nó tạo ra ngược lại với sự biến thiên làm giảm từ thông, tức là nó cố giữ cho từ thông không giảm. Nói cách khác, từ trường do dòng cảm ứng sẽ có cùng hướng với từ trường ban đầu do cuộn *M* (không đổi chiều sang trái nếu ban đầu không phải như vậy).\n- Bước 4: Vì vậy nếu từ trường ban đầu trong lõi do cuộn *M* hướng sang phải thì ngay khi ngắt khóa, từ trường của dòng cảm ứng trong *P* cũng hướng sang phải (để chống lại sự giảm). Phát biểu “từ trường của dòng điện cảm ứng trong cuộn dây P hướng sang trái” là mâu thuẫn với quy tắc Lenz → phát biểu này là **sai**.\n✅ **Đáp án:** D. Ngay khi ngắt khoá K, từ trường của dòng điện cảm ứng trong cuộn dây P hướng sang trái."
+    },
+    {
+      "id": 14,
+      "content": "Một sóng điện từ truyền qua điểm M trong không gian. Cường độ điện trường và cảm ứng từ tại M biến thiên điều hòa với giá trị cực đại lần lượt là $E_0$ và $B_0$. Khi cảm ứng từ tại M bằng \\$0{,}5B_0$ thì cường độ điện trường tại đó có độ lớn là:",
+      "chuong": "từ trường",
+      "dang": "lý thuyết: điện từ trường. mô hình sóng điện từ",
+      "type": "single",
+      "options": [
+        "A. \\$0{,}25E_0$",
+        "B. $E_0$",
+        "C. \\$0{,}5E_0$",
+        "D. $\\dfrac{E_0\\sqrt{3}}{2}$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Ghi lại mối quan hệ giữa E và B trong sóng điện từ: $\\frac{E}{B}=\\frac{E_0}{B_}0}=c.$\n- Suy ra tỉ lệ giữa các giá trị tức thời và biên độ: $\\frac{E}{E_}0}=\\frac{B}{B_}0}.$\n- Thay $B=0{,}5B_0$ vào biểu thức trên: $\\frac{E}{E_}0}=0{,}5.$\n- Vậy $E=0{,}5E_0.$\n- (Kiểm tra bằng ví dụ số: nếu $E_0=100\\ \\text{V/m}$ và $B_0$ tương ứng, khi $B=0{,}5B_0$ thì $E=50\\ \\text{V/m}$, đúng tỉ lệ.)\n✅ **Đáp án:** C. \\$0{,}5E_0$"
+    },
+    {
+      "id": 15,
+      "content": "Một khung dây phẳng diện tích $S = 40\\,\\text{cm}^2$ đặt trong từ trường đều có vectơ cảm ứng từ $\\vec{B}$ hợp với mặt phẳng khung dây một góc $\\alpha = 60^\\circ$ và có độ lớn $B = 0{,}12\\,\\text{T}$. Từ thông qua khung dây này là:",
+      "chuong": "từ trường",
+      "dang": "bài tập: tính toán từ thông, suất điện động",
+      "type": "single",
+      "options": [
+        "A. \\$2{,}4 \\cdot 10^{-6} \\,\\text{Wb}$",
+        "B. \\$4{,}2 \\cdot 10^{-4} \\,\\text{Wb}$",
+        "C. \\$2{,}4 \\cdot 10^{-4} \\,\\text{Wb}$",
+        "D. \\$4{,}2 \\cdot 10^{-6} \\,\\text{Wb}$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Chuyển đổi đơn vị diện tích:\n$S = 40\\ \\text{cm}^2 = 40\\cdot10^{-4}\\ \\text{m}^2 = 4\\cdot10^{-3}\\ \\text{m}^2.$\n- Viết công thức từ thông và liên hệ góc:\nGóc giữa B và pháp tuyến $\\theta = 90^\\circ - \\alpha$ nên $\\cos\\theta = \\cos(90^\\circ-\\alpha)=\\sin\\alpha.$\nDo đó ta có:\n$\\Phi = B\\,S\\,\\sin\\alpha.$\n- Thay số vào:\n$\\Phi = 0{,}12\\cdot 4\\cdot10^{-3}\\cdot\\sin60^\\circ.$\nBiết $\\sin60^\\circ=\\frac{\\sqrt{3}}{2}\\approx0{,}8660,$ nên\n$\\Phi \\approx 0{,}12\\cdot4\\cdot10^{-3}\\cdot0{,}8660 = 4{,}16\\cdot10^{-4}\\ \\text{Wb}.$\n- Làm tròn theo số chữ số hợp lý: $\\Phi \\approx 4{,}2\\cdot10^{-4}\\ \\text{Wb}.$\n✅ **Đáp án:** B. \\$4{,}2 \\cdot 10^{-4}\\ \\text{Wb}$"
+    },
+    {
+      "id": 16,
+      "content": "Biết nhôm có nhiệt dung riêng \\$896\\, \\text{J}/(\\text{kg.K})$ và nhiệt nóng chảy riêng là \\$3{,}9 \\cdot 10^5\\, \\text{J}/\\text{kg}$. Nhiệt lượng cần cung cấp cho miếng nhôm khối lượng 200 g ở nhiệt độ \\$58^\\circ C$ để nó hoá lỏng hoàn toàn ở nhiệt độ nóng chảy \\$658^\\circ C$ là:",
+      "chuong": "vật lí nhiệt",
+      "dang": "bài tập tổng hợp chương 1",
+      "type": "single",
+      "options": [
+        "A. 107520 J.",
+        "B. 78000 J.",
+        "C. 185520 J.",
+        "D. 29520 kJ."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Tính biến thiên nhiệt độ: $\\Delta t = t_m - t_1 = 658 - 58 = 600\\ \\text{K}$ (độ C và K có cùng độ lớn cho Δt).\n- Tính nhiệt lượng để đun nóng từ \\$58^\\circ\\text{C}$ lên \\$658^\\circ\\text{C}$:\n$Q_1 = mc\\Delta t = 0{,}2\\cdot 896 \\cdot 600$\nTính: \\$896\\cdot 600 = 537600$ nên $Q_1 = 0{,}2\\cdot 537600 = 107520\\ \\text{J}$.\n- Tính nhiệt lượng cần cho quá trình nóng chảy hoàn toàn:\n$Q_2 = mL = 0{,}2\\cdot 3{,}9\\cdot 10^{5} = 0{,}2\\cdot 390000 = 78000\\ \\text{J}$.\n- Tổng nhiệt lượng:\n$Q = Q_1 + Q_2 = 107520 + 78000 = 185520\\ \\text{J}$.\n✅ **Đáp án:** C. 185520 J."
+    },
+    {
+      "id": 17,
+      "content": "Độ lớn suất điện động cảm ứng được xác định bằng định luật nào trong các định luật sau đây?",
+      "chuong": "từ trường",
+      "dang": "lý thuyết: từ thông. hiện tượng cảm ứng điện từ",
+      "type": "single",
+      "options": [
+        "A. Định luật Ohm cho vật dẫn kim loại.",
+        "B. Định luật Coulomb về tương tác điện.",
+        "C. Định luật Lenz về cảm ứng điện từ.",
+        "D. Định luật Faraday về cảm ứng điện từ."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Định nghĩa thông lượng từ: đối với một vòng dây có diện tích A đặt trong từ trường đều B, thông lượng là\n$\\Phi_B = BA\\cos\\theta.$\n- Định luật Faraday cho suất điện động cảm ứng: suất điện động (kí hiệu $\\mathcal{E}$) tỉ lệ với tốc độ biến thiên thông lượng từ:\n$\\mathcal{E} = -\\dfrac{d\\Phi_B}{dt}.$\nĐộ lớn của suất điện động là giá trị tuyệt đối:\n$|\\mathcal{E}| = \\left|\\dfrac{d\\Phi_B}{dt}\\right|.$\n- Ví dụ đơn giản: nếu diện tích A và góc θ không đổi mà từ thông thay đổi do B thay đổi theo thời gian, thì\n$\\Phi_B = BA\\cos\\theta \\quad\\Rightarrow\\quad |\\mathcal{E}| = A\\cos\\theta\\left|\\dfrac{dB}{dt}\\right|.$\n- Giải thích vì sao các phương án khác sai: - Định luật Lenz chỉ cho biết dấu (chiều) của $\\mathcal{E}$ (dấu âm trong công thức), tức là chiều của dòng cảm ứng, chứ không trực tiếp cho biểu thức độ lớn.\n  - Định luật Ohm ( $V=IR$ ) mô tả mối quan hệ giữa hiệu điện thế, cường độ dòng và điện trở của vật dẫn, không xác định suất điện động cảm ứng do biến thiên từ.\n  - Định luật Coulomb liên quan đến lực giữa hai điện tích điểm, không liên quan tới suất điện động cảm ứng.\n✅ **Đáp án:** D. Định luật Faraday về cảm ứng điện từ."
+    },
+    {
+      "id": 18,
+      "content": "Một đoạn dây đồng MN thẳng dài 16 cm, nặng 80 g được treo ở hai đầu bằng hai sợi dây mềm, rất nhẹ, cách điện sao cho MN nằm ngang. Ban đầu hai sợi dây treo có phương thẳng đứng. Đưa đoạn dây đồng vào trong từ trường đều có cảm ứng từ $B = 0{,}5\\, \\text{T}$ và các đường sức từ là những đường thẳng đứng hướng lên. Lấy $g = 10\\, \\text{m/s}^2$. Cho dòng điện qua dây MN có cường độ $I = 7{,}5\\, \\text{A}$ thì lực căng mỗi sợi dây treo có độ lớn là:\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tn-thpt-vat-ly-truong-le-thanh-tong-tinh-tp-ho-chi-minh-lan-1-2026/cau-18.webp\" alt=\"Hình minh họa câu 18\" loading=\"lazy\"></figure>",
+      "chuong": "từ trường",
+      "dang": "bài tập: lực từ nâng cao",
+      "type": "single",
+      "options": [
+        "A. 0,1 N.",
+        "B. 0,5 N.",
+        "C. 0,7 N.",
+        "D. 1,0 N."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Tính trọng lượng của dây:\n$mg=0{,}08\\cdot 10=0{,}8\\ \\text{N}.$\nVì treo hai đầu nên thành phần dọc của mỗi dây:\n$T_v=\\frac{mg}{2}=0{,}4\\ \\text{N}.$\n- Tính lực từ tác dụng lên dây (dài $L=0{,}16\\ \\text{m}$):\n$F=ILB=7{,}5\\cdot 0{,}16\\cdot 0{,}5=0{,}6\\ \\text{N}.$\nTheo hình, lực từ nằm ngang (vuông góc với từ trường thẳng đứng và dây nằm ngang).\n- Mỗi dây chịu nửa thành phần lực ngang để cân bằng lực từ:\n$T_h=\\frac{F}{2}=0{,}3\\ \\text{N}.$\n- Độ lớn lực căng mỗi dây là hợp lực của hai thành phần:\n$T=\\sqrt{T_v^2+T_h^2}=\\sqrt{0{,}4^2+0{,}3^2}=\\sqrt{0{,}25}=0{,}5\\ \\text{N}.$\n✅ **Đáp án:** B. 0,5 N."
+    }
+  ]
+}

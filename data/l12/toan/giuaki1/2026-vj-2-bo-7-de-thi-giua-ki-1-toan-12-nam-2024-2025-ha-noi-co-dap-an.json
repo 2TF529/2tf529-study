@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-2-bo-7-de-thi-giua-ki-1-toan-12-nam-2024-2025-ha-noi-co-dap-an",
+  "sourceId": "vietjack:2-bo-7-de-thi-giua-ki-1-toan-12-nam-2024",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "giuaki1",
+  "year": 2026,
+  "title": "2.Bộ 7 đề thi giữa kì 1 Toán 12 năm 2024-2025 Hà Nội (có đáp án)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi, thí sinh chỉ chọn một phương án. Cho hàm số \\(y = \\frac{{2{x^2} + 6x + 50}}{{x + 3}}\\). Hàm số nghịch biến trên khoảng nào trong các khoảng sau?",
+      "options": [
+        "A. \\(\\left( { - 3;2} \\right)\\).",
+        "B. \\(\\left( { - 3; + \\infty } \\right)\\).",
+        "C. \\(\\left( { - \\infty ; - 8} \\right)\\).",
+        "D. \\(\\left( { - 8;2} \\right)\\)."
+      ],
+      "answer": "A",
+      "note": "Tập xác định: \\(D = \\mathbb{R}\\backslash \\left\\{ { - 3} \\right\\}\\). Đạo hàm: \\(y' = \\frac{{\\left( {4x + 6} \\right)\\left( {x + 3} \\right) - \\left( {2{x^2} + 6x + 50} \\right)}}{{{{\\left( {x + 3} \\right)}^2}}} = \\frac{{4{x^2} + 18x + 18 - 2{x^2} - 6x - 50}}{{{{\\left( {x + 3} \\right)}^2}}} = \\frac{{2{x^2} + 12x - 32}}{{{{\\left( {x + 3} \\right)}^2}}}\\). Giải phương trình \\(y' = 0 \\Leftrightarrow 2{x^2} + 12x - 32 = 0 \\Leftrightarrow \\left[ {\\begin{array}{*{20}{c}}{x = 2}\\\\{x = - 8}\\end{array}} \\right.\\). Xét dấu \\(y'\\): Hàm số nghịch biến khi \\(y' < 0 \\Leftrightarrow 2{x^2} + 12x - 32 < 0 \\Leftrightarrow - 8 < x < 2\\). Kết hợp điều kiện \\(x \\ne - 3\\), hàm số nghịch biến trên các khoảng \\(\\left( { - 8; - 3} \\right)\\) và \\(\\left( { - 3;2} \\right)\\). Đối chiếu các phương án, khoảng \\(\\left( { - 3;2} \\right)\\) thỏa mãn. Chọn A."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hàm số \\(y = f\\left( x \\right)\\) xác định với mọi \\(x \\ne - 6\\) có bảng biến thiên như hình vẽ dưới đây. Hàm số đồng biến trên khoảng nào trong các khoảng sau?",
+      "options": [
+        "A. \\(\\left( { - \\infty ; - 1} \\right)\\).",
+        "B. \\(\\left( {3; + \\infty } \\right)\\).",
+        "C. \\(\\left( { - 7;2} \\right)\\).",
+        "D. \\(\\left( { - 6;2} \\right)\\)."
+      ],
+      "answer": "D",
+      "note": "Dựa vào bảng biến thiên, trên khoảng \\(\\left( { - 6;2} \\right)\\), đạo hàm \\(y'{\\kern 1pt} > 0\\) và hàm số liên tục trên khoảng này. Do đó hàm số đồng biến trên khoảng \\(\\left( { - 6;2} \\right)\\). Chọn D."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Đồ thị hàm số \\(y = \\frac{{ - 6{x^2} - 4x - 2}}{{3x - 4}}\\) nhận điểm nào làm tâm đối xứng trong các điểm sau?",
+      "options": [
+        "A. \\(\\left( { - \\frac{4}{3};\\frac{{11}}{{12}}} \\right)\\).",
+        "B. \\(\\left( {\\frac{4}{3}; - \\frac{{20}}{3}} \\right)\\).",
+        "C. \\(\\left( {0; - \\frac{{20}}{3}} \\right)\\).",
+        "D. \\(\\left( {\\frac{4}{3}; - 8} \\right)\\)."
+      ],
+      "answer": "B",
+      "note": "Ta có \\(y = \\frac{{ - 6{x^2} - 4x - 2}}{{3x - 4}} = - 2x - 4 - \\frac{{18}}{{3x - 4}}\\), do đó đồ thị hàm số đã cho có tiệm cận xiên là đường thẳng \\[y = - 2x - 4\\] và tiệm cận đứng là đường thẳng \\[x = \\frac{4}{3}\\]. Vậy tâm đối xứng của đồ thị hàm số là điểm có tọa độ \\(\\left( {\\frac{4}{3}; - \\frac{{20}}{3}} \\right)\\). Chọn B."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Đồ thị như hình vẽ dưới đây là của hàm số nào?",
+      "options": [
+        "A. \\(y = {x^3} + 2{x^2}\\).",
+        "B. \\(y = - {x^3} + 2{x^2}\\).",
+        "C. \\(y = - {x^3} + 2{x^2} + 2\\).",
+        "D. \\(y = - {x^3} - 2{x^2}\\)."
+      ],
+      "answer": "B",
+      "note": "Đồ thị hàm số đi qua gốc tọa độ \\(O\\left( {0;0} \\right)\\) nên loại phương án C. Nhánh cuối cùng đi xuống khi \\(x \\to + \\infty \\) suy ra hệ số bậc cao nhất \\(a < 0\\), loại phương án A. Đồ thị có điểm cực đại nằm ở phía bên phải trục tung (\\(x > 0\\)), thử nghiệm với \\(y = - {x^3} + 2{x^2}\\) có \\(y' = - 3{x^2} + 4x = 0 \\Leftrightarrow x = 0\\) hoặc \\(x = \\frac{4}{3} > 0\\) (hoàn toàn phù hợp). Chọn B."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hàm số \\(y = f\\left( x \\right)\\) có bảng biến thiên như sau. Tìm số đường tiệm cận ngang của đồ thị hàm số \\(y = f\\left( x \\right)\\).",
+      "options": [
+        "A. \\(3\\).",
+        "B. \\(1\\).",
+        "C. \\(0\\).",
+        "D. \\(2\\)."
+      ],
+      "answer": "D",
+      "note": "Ta có \\(\\mathop {{\\rm{lim}}}\\limits_{x \\to - \\infty } f\\left( x \\right) = - 6\\) và \\(\\mathop {\\lim }\\limits_{x \\to + \\infty } f\\left( x \\right) = 4\\). Do đó đồ thị hàm số có hai đường tiệm cận ngang riêng biệt là \\(y = - 6\\) và \\(y = 4\\). Chọn D."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho hàm số \\(y = f\\left( x \\right)\\) là hàm số bậc ba có đồ thị là đường cong trong như hình dưới đây. Hàm số đã cho nghịch biến trên khoảng nào dưới đây?",
+      "options": [
+        "A. \\(\\left( { - \\infty ;1} \\right)\\).",
+        "B. \\(\\left( { - 1; + \\infty } \\right)\\).",
+        "C. \\(\\left( {4; + \\infty } \\right)\\).",
+        "D. \\(\\left( { - 1;1} \\right)\\)."
+      ],
+      "answer": "D",
+      "note": "Dựa vào đồ thị hàm số bậc ba, ta thấy đồ thị đi xuống từ trái sang phải trên khoảng của biến \\(x\\) từ \\( - 1\\) đến \\(1\\). Do đó hàm số nghịch biến trên khoảng \\(\\left( { - 1;1} \\right)\\). Chọn D."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Tìm giá trị lớn nhất của hàm số \\(y = {x^3} - \\frac{{3{x^2}}}{2} - 6x - 4\\) trên khoảng \\(\\left( { - \\infty ; - 1} \\right)\\).",
+      "options": [
+        "A. \\( - 14\\).",
+        "B. \\( - 12\\).",
+        "C. \\( - \\frac{1}{2}\\).",
+        "D. \\( - \\frac{7}{2}\\)."
+      ],
+      "answer": "C",
+      "note": "Đạo hàm: \\(y' = 3{x^2} - 3x - 6\\). Giải \\(y' = 0 \\Leftrightarrow 3{x^2} - 3x - 6 = 0 \\Leftrightarrow \\left[ {\\begin{array}{*{20}{c}}{x = - 1}\\\\{x = 2}\\end{array}} \\right.\\). Lập bảng biến thiên trên khoảng \\(\\left( { - \\infty ; - 1} \\right)\\), ta thấy hàm số đồng biến từ \\( - \\infty \\) tăng lên đến giá trị tại điểm biên \\(x = - 1\\). Tại \\(x = - 1 \\Rightarrow y = {\\left( { - 1} \\right)^3} - \\frac{{3 \\cdot {{\\left( { - 1} \\right)}^2}}}{2} - 6 \\cdot \\left( { - 1} \\right) - 4 = - 1 - \\frac{3}{2} + 6 - 4 = - \\frac{1}{2}\\). Do đó \\(\\mathop {{\\rm{max}}}\\limits_{\\left( { - \\infty ; - 1} \\right)} y = - \\frac{1}{2}\\). Chọn C."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho hàm số \\(y = f\\left( x \\right)\\) có đồ thị như hình vẽ. Số nghiệm của phương trình \\(4f\\left( x \\right) + 3 = 0\\) là:",
+      "options": [
+        "A. \\(0\\).",
+        "B. \\(1\\).",
+        "C. \\(2\\).",
+        "D. \\(3\\)."
+      ],
+      "answer": "B",
+      "note": "Ta biến đổi phương trình: \\(4f\\left( x \\right) + 3 = 0 \\Leftrightarrow f\\left( x \\right) = - \\frac{3}{4}\\). Số nghiệm của phương trình đã cho là số giao điểm của đồ thị hàm số \\(y = f\\left( x \\right)\\) và đường thẳng nằm ngang \\(y = - \\frac{3}{4}\\). Dựa vào hình vẽ, đường thẳng này nằm dưới trục hoành và chỉ cắt đồ thị tại đúng \\(1\\) điểm duy nhất ở nhánh bên phải, do đó phương trình có \\(1\\) nghiệm. Chọn B."
+    }
+  ]
+}

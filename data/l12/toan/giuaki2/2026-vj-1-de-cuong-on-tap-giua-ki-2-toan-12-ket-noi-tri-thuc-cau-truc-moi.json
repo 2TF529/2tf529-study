@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-de-cuong-on-tap-giua-ki-2-toan-12-ket-noi-tri-thuc-cau-truc-moi",
+  "sourceId": "vietjack:1-de-cuong-on-tap-giua-ki-2-toan-12-ket-",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "giuaki2",
+  "year": 2026,
+  "title": "1.Đề cương ôn tập giữa kì 2 Toán 12 Kết nối tri thức cấu trúc mới (có tự luận) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho các hàm số \\(y = f\\left( x \\right),y = g\\left( x \\right)\\) liên tục trên \\(\\mathbb{R}\\). Khẳng định nào dưới đây đúng?",
+      "options": [
+        "A. \\(\\int {\\left( {f\\left( x \\right) + g\\left( x \\right)} \\right)dx} = \\int {f\\left( x \\right)dx} .\\int {g\\left( x \\right)dx} \\).",
+        "B. \\(\\int {f\\left( x \\right).g\\left( x \\right)dx} = \\int {f\\left( x \\right)dx} .\\int {g\\left( x \\right)dx} \\).",
+        "C. \\(\\int {\\frac{{f\\left( x \\right)}}{{g\\left( x \\right)}}dx} = \\frac{{\\int {f\\left( x \\right)dx} }}{{\\int {g\\left( x \\right)dx} }}\\).",
+        "D. \\(\\int {\\left( {f\\left( x \\right) - g\\left( x \\right)} \\right)dx} = \\int {f\\left( x \\right)dx} - \\int {g\\left( x \\right)dx} \\)."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D \\(\\int {\\left( {f\\left( x \\right) - g\\left( x \\right)} \\right)dx} = \\int {f\\left( x \\right)dx} - \\int {g\\left( x \\right)dx} \\) ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Biết \\(F\\left( x \\right)\\) là một nguyên hàm của hàm số \\(f\\left( x \\right)\\) trên \\(\\mathbb{R}\\). Tìm \\(G\\left( x \\right) = \\int {\\left[ {f\\left( x \\right) - 1} \\right]dx} \\).",
+      "options": [
+        "A. \\(G\\left( x \\right) = xF\\left( x \\right) - x + C\\).",
+        "B. \\(G\\left( x \\right) = F\\left( x \\right) - x + C\\).",
+        "C. \\(G\\left( x \\right) = xF\\left( x \\right) - 1 + C\\).",
+        "D. \\(G\\left( x \\right) = F\\left( x \\right) - 1 + C\\)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B \\(G\\left( x \\right) = \\int {\\left[ {f\\left( x \\right) - 1} \\right]dx} = \\int {f\\left( x \\right)dx} - \\int {dx} \\)\\( = F\\left( x \\right) - x + C\\) ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Họ tất cả các nguyên hàm của hàm số \\(f\\left( x \\right) = 2x + 6\\) là",
+      "options": [
+        "A. \\[{x^2} + C\\].",
+        "B. \\[{x^2} + 6x + C\\].",
+        "C. \\[2{x^2} + C\\].",
+        "D. \\[2{x^2} + 6x + C\\]."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B \\(\\int {\\left( {2x + 6} \\right)dx = {x^2} + 6x + C} \\)"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Hàm số nào trong các hàm số sau đây không là nguyên hàm của hàm số \\(y = {x^{2022}}\\) ?",
+      "options": [
+        "A. \\(\\frac{{{x^{2023}}}}{{2023}} + 1\\).",
+        "B. \\(\\frac{{{x^{2023}}}}{{2023}}\\).",
+        "C. \\(y = 2022{x^{2021}}\\).",
+        "D. \\(\\frac{{{x^{2023}}}}{{2023}} - 1\\)."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có: \\(\\int {{x^{2022}}{\\rm{d}}} x = \\frac{{{x^{2023}}}}{{2023}} + C,{\\rm{ }}C\\) là hằng số. Nên các phương án A, B, D đều là nguyên hàm của hàm số \\(y = {x^{2022}}\\) ."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Tìm nguyên hàm \\[F\\left( x \\right)\\] của hàm số \\[f\\left( x \\right)\\, = \\,\\left( {x + 1} \\right)\\left( {x + 2} \\right)\\left( {x + 3} \\right)?\\]",
+      "options": [
+        "A. \\[F\\left( x \\right)\\, = \\,\\frac{{{x^4}}}{4}\\, - \\,6{x^3}\\, + \\,\\frac{{11}}{2}{x^2} - \\,6x\\, + \\,C\\].",
+        "B. \\[F\\left( x \\right)\\, = \\,{x^4}\\, + \\,6{x^3}\\, + \\,11{x^2} + \\,6x\\, + \\,C\\].",
+        "C. \\[F\\left( x \\right)\\, = \\,\\frac{{{x^4}}}{4}\\, + 2{x^3}\\, + \\,\\frac{{11}}{2}{x^2} + \\,6x\\, + \\,C\\].",
+        "D. \\[F\\left( x \\right)\\, = \\,{x^3}\\, + \\,6{x^2}\\, + \\,11{x^2} + \\,6x\\, + \\,C\\]."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có: \\[f\\left( x \\right)\\, = \\,\\left( {x + 1} \\right)\\left( {x + 2} \\right)\\left( {x + 3} \\right) = \\,{x^3} + \\,6{x^2}\\, + \\,11x\\, + \\,6\\] . \\[ \\Rightarrow \\,\\,F\\left( x \\right)\\, = \\,\\int {\\left( {{x^3} + \\,6{x^2}\\, + \\,11x\\, + \\,6} \\right)} dx\\, = \\,\\,\\frac{{{x^4}}}{4}\\, + 2{x^3}\\, + \\,\\frac{{11}}{2}{x^2} + \\,6x\\, + \\,C\\] ."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Tìm nguyên hàm của hàm số \\(f\\left( x \\right) = {x^2} + \\frac{2}{{{x^2}}}\\).",
+      "options": [
+        "A. \\(\\int {f\\left( x \\right){\\rm{d}}x} = \\frac{{{x^3}}}{3} + \\frac{1}{x} + C\\).",
+        "B. \\(\\int {f\\left( x \\right){\\rm{d}}x} = \\frac{{{x^3}}}{3} - \\frac{2}{x} + C\\).",
+        "C. \\(\\int {f\\left( x \\right){\\rm{d}}x} = \\frac{{{x^3}}}{3} - \\frac{1}{x} + C\\).",
+        "D. \\(\\int {f\\left( x \\right){\\rm{d}}x} = \\frac{{{x^3}}}{3} + \\frac{2}{x} + C\\)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có \\(\\int {\\left( {{x^2} + \\frac{2}{{{x^2}}}} \\right){\\rm{d}}x} = \\frac{{{x^3}}}{3} - \\frac{2}{x} + C\\) ."
+    }
+  ]
+}

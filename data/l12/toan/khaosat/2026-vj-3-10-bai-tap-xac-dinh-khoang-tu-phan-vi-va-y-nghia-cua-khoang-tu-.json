@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-3-10-bai-tap-xac-dinh-khoang-tu-phan-vi-va-y-nghia-cua-khoang-tu-",
+  "sourceId": "vietjack:3-10-bai-tap-xac-dinh-khoang-tu-phan-vi-",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.10 bài tập Xác định khoảng tứ phân vị và ý nghĩa của khoảng tứ phân vị trong việc đo mức độ phân tán có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Một hãng xe ô tô thống kê lại số lần gặp sự cố về động cơ của 100 chiếc xe cùng loại sau 2 năm sử dụng đầu tiên ở bảng sau. Hãy tìm khoảng tứ phân vị của mẫu số liệu ghép nhóm này (làm tròn các kết quả đến hàng phần trăm). Số lần gặp sự cố [0,5; 2,5) [2,5; 4,5) [4,5; 6,5) [6,5; 8,5) [8,5; 10,5) Số xe 17 33 25 20 5",
+      "options": [
+        "A. 5,32;",
+        "B. 3,52;",
+        "C. 2,53;",
+        "D. 5,23."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Cỡ mẫu n = 100. Gọi x 1 ; x 2 ; …; x 100 lần lượt là số lần gặp sự cố của 100 chiếc xe cùng lại sau 2 năm sử dụng được xếp theo thứ tự không giảm. Ta có \\({Q_1} = \\frac{1}{2}\\left( {{x_{25}} + {x_{26}}} \\right) \\in \\left[ {2,5;4,5} \\right)\\) nên nhóm này chứa tứ phân vị thứ nhất. Suy ra \\({Q_1} = 2,5 + \\frac{{\\frac{{100}}{4} - 17}}{{33}}\\left( {4,5 - 2,5} \\right) \\approx 2,98\\). Có \\({Q_3} = \\frac{1}{2}\\left( {{x_{75}} + {x_{76}}} \\right) \\in \\left[ {2,5;4,5} \\right)\\). Mà x 75 ∈ [4,5; 6,5); x 76 [6,5; 8,5) nên Q 3 = 6,5. Vậy khoảng tứ phân vị của mẫu số liệu ghép nhóm là Q = Q 3 – Q 1 ≈ 6,5 – 2,98 = 3,52."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Bảng số liệu ghép nhóm tổng lượng mưa (đơn vị: mm) đo được vào tháng 7 từ năm 2005 đến 2024 tại một trạm quan trắc đặt ở Cà Mau Lượng mưa [150; 225) [225; 300) [300; 375) [375; 450) [450; 525) Số năm 3 5 3 6 3 Khoảng tứ phân vị của mẫu số liệu ghép nhóm bằng",
+      "options": [
+        "A. 375;",
+        "B. 170;",
+        "C. 225;",
+        "D. 200."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Cỡ mẫu n = 20. Gọi x 1 ; x 2 ; ...; x 20 là tổng lượng mưa đo được vào tháng 7 từ năm 2005 đến 2024 được xếp theo thứ tự không giảm. Ta có \\({Q_1} = \\frac{1}{2}\\left( {{x_5} + {x_6}} \\right) \\in \\left[ {225;300} \\right)\\) nên nhóm này chứa tứ phân vị thứ nhất. Ta có \\({Q_1} = 225 + \\frac{{\\frac{{20}}{4} - 3}}{5}\\left( {300 - 225} \\right) = 255\\). Có \\({Q_3} = \\frac{1}{2}\\left( {{x_{15}} + {x_{16}}} \\right) \\in \\left[ {375;450} \\right)\\) nên nhóm này chứa tứ phân vị thứ ba. Ta có \\({Q_3} = 375 + \\frac{{\\frac{{20.3}}{4} - 11}}{6}.75 = 425\\). Khoảng tứ phân vị của mẫu số liệu ghép nhóm là \\({\\Delta _Q} = {Q_3} - {Q_1} = 425 - 255 = 170\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Kiểm tra điện lượng của một số viên pin tiểu do một hãng sản xuất thu được kết quả sau. Hãy tìm khoảng tứ phân vị của mẫu số liệu ghép nhóm này? (Làm tròn các kết quả đến hàng phần trăm). Điện lượng (nghìn mAh) [0,9; 0,95) [0,95; 1,0) [1,0; 1,05) [1,05; 1,1) [1,1; 1,15) Số viên pin 10 20 35 15 5",
+      "options": [
+        "A. 0,06;",
+        "B. 0,08;",
+        "C. 0,07;",
+        "D. 0,09."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Cỡ mẫu n = 85. Gọi x 1 ; x 2 ; ...; x 85 là điện lượng của 85 viên pin tiểu được xếp theo thứ tự không giảm. Ta có \\({Q_1} = \\frac{1}{2}\\left( {{x_{21}} + {x_{22}}} \\right) \\in \\left[ {0,95;1,0} \\right)\\) nên nhóm này chứa tứ phân vị thứ nhất. Ta có \\({Q_1} = 0,95 + \\frac{{\\frac{{85}}{4} - 10}}{{20}}\\left( {1,0 - 0,95} \\right) \\approx 0,98\\). Có \\({Q_3} = \\frac{1}{2}\\left( {{x_{64}} + {x_{65}}} \\right) \\in \\left[ {1,0;1,05} \\right)\\). Ta có \\({Q_3} = 1,0 + \\frac{{\\frac{{3.85}}{4} - 30}}{{35}}.\\left( {1,05 - 1} \\right) \\approx 1,05\\). Vậy khoảng tứ phân vị của mẫu số liệu ghép nhóm Q = Q 3 – Q 1 ≈ 1,05 – 0,98 = 0,07."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho mẫu số liệu ghép nhóm về độ tuổi của dân cư của khu phố A như sau Nhóm [20; 30) [30; 40) [40; 50) [50; 60) [60; 70) [70; 80) Số người 24 26 20 15 11 4 Khoảng tứ phân vị của mẫu số liệu ghép nhóm đã cho là (làm tròn đến hàng phần trăm)",
+      "options": [
+        "A. 30,38;",
+        "B. 53,33;",
+        "C. 22,95;",
+        "D. 22,94."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Có n = 100. Gọi x 1 ; x 2 ; …; x 100 là tuổi của 100 dân cư khu phố A được xếp theo thứ tự không giảm. Có \\({Q_1} = \\frac{1}{2}\\left( {{x_{25}} + {x_{26}}} \\right) \\in \\left[ {30;40} \\right)\\) nên nhóm này chứa tứ phân vị thứ nhất. Có \\({Q_1} = 30 + \\frac{{\\frac{{100}}{4} - 24}}{{26}}.10 = \\frac{{395}}{{13}}\\). Có \\({Q_3} = \\frac{1}{2}\\left( {{x_{75}} + {x_{76}}} \\right) \\in \\left[ {50;60} \\right)\\) nên nhóm này chứa tứ phân vị thứ ba. Có \\({Q_3} = 50 + \\frac{{\\frac{{3.100}}{4} - 70}}{{15}}.10 = \\frac{{160}}{3}\\). Khoảng tứ phân vị của mẫu số liệu ghép nhóm là Q = Q 3 – Q 1 =\\(\\frac{{160}}{3} - \\frac{{395}}{{13}} = \\frac{{895}}{{39}} \\approx 22,95\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Lương tháng của một số nhân viên một văn phòng được ghi lại như sau (đơn vị: triệu đồng) Lương tháng (triệu đồng) [6; 8) [8; 10) [10; 12) [12; 14) Số nhân viên 3 6 8 7 Tìm khoảng tứ phân vị của dãy số liệu trên.",
+      "options": [
+        "A. 1,75;",
+        "B. 3,3;",
+        "C. 3,25;",
+        "D. 2,3."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Cỡ mẫu n = 24. Gọi x 1 ; x 2 ; …; x 24 là lương tháng của 24 nhân viên được xếp theo thứ tự không giảm. Có \\({Q_1} = \\frac{1}{2}\\left( {{x_6} + {x_7}} \\right) \\in \\left[ {8;10} \\right)\\) nên tứ phân vị thứ nhất của mẫu số liệu là \\({Q_1} = 8 + \\frac{{\\frac{{24}}{4} - 3}}{6}\\left( {10 - 8} \\right) = 9\\). Có \\({Q_3} = \\frac{1}{2}\\left( {{x_{18}} + {x_{19}}} \\right) \\in \\left[ {12;14} \\right)\\) nên tứ phân vị thứ ba của mẫu số liệu là \\({Q_3} = 12 + \\frac{{\\frac{{3.24}}{4} - 17}}{7}\\left( {14 - 12} \\right) \\approx 12,3\\). Khoảng tứ phân vị Q = Q 3 – Q 1 = 12,3 – 9 = 3,3."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Các bạn học sinh lớp 12A5 trả lời 40 câu hỏi trong một bài kiểm tra. Kết quả số câu trả lời đúng được thống kê ở bảng sau: Số câu trả lời đúng [16; 21) [21; 26) [26; 31) [31; 36) [36; 41) Số học sinh 4 8 8 16 4 Khoảng tứ phân vị của mẫu số liệu là",
+      "options": [
+        "A. 9,375;",
+        "B. 8,625;",
+        "C. 10,15;",
+        "D. 7,5."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Cỡ mẫu n = 40. Có \\({Q_1} = \\frac{{{x_{10}} + {x_{11}}}}{2}\\). Do x 10 ; x 11 [21; 26) nên nhóm này chứa tứ phân vị thứ nhất. Có \\({Q_1} = 21 + \\frac{{\\frac{{40}}{4} - 4}}{8}.5 = 24,75\\). Có \\({Q_3} = \\frac{{{x_{30}} + {x_{31}}}}{2}\\). Do x 30 ; x 31 ∈ [31;36) nên nhóm này chứa Q 3 . Có \\({Q_3} = 31 + \\frac{{\\frac{{3.40}}{4} - 20}}{{16}}.5 = 34,125\\). Khoảng biến thiên của mẫu số liệu Q = Q 3 – Q 1 = 34,125 – 24,75 = 9,375."
+    }
+  ]
+}

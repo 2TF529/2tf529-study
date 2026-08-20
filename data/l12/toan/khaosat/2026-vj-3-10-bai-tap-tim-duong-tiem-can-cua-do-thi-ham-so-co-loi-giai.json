@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-3-10-bai-tap-tim-duong-tiem-can-cua-do-thi-ham-so-co-loi-giai",
+  "sourceId": "vietjack:3-10-bai-tap-tim-duong-tiem-can-cua-do-t",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.10 bài tập Tìm đường tiệm cận của đồ thị hàm số có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho hàm số y = f(x) có \\[\\mathop {\\lim }\\limits_{x \\to + \\infty } f(x) = 1\\] và\\[\\mathop {\\lim }\\limits_{x \\to - \\infty } f(x) = - 1\\]. Khẳng định nào sau đây là khẳng định đúng?",
+      "options": [
+        "A. Đồ thị hàm số đã cho có hai tiệm cận ngang là các đường thẳng x = 1 và x = −1.",
+        "B. Đồ thị hàm số đã cho không có tiệm cận ngang.",
+        "C. Đồ thị hàm số đã cho có đúng một tiệm cận ngang.",
+        "D. Đồ thị hàm số đã cho có hai tiệm cận ngang là các đường thẳng y = 1 và y = −1."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Dựa vào định nghĩa đường tiệm cận ngang của đồ thị hàm số ta chọn đáp án D."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Tiệm cận ngang của đồ thị hàm số \\(y = \\frac{{x - 2}}{{x + 1}}\\) là",
+      "options": [
+        "A. y = −2;",
+        "B. y = 1;",
+        "C. x = −1;",
+        "D. x = 2."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có \\(\\mathop {\\lim }\\limits_{x \\to + \\infty } \\frac{{x - 2}}{{x + 1}} = 1\\) và \\(\\mathop {\\lim }\\limits_{x \\to - \\infty } \\frac{{x - 2}}{{x + 1}} = 1\\). Suy ra y = 1 là tiệm cận ngang của đồ thị hàm số."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Tiệm cận ngang của đồ thị hàm số \\(y = \\frac{{5x + 1}}{{x - 1}}\\) là",
+      "options": [
+        "A. y = 1;",
+        "B. \\(y = \\frac{1}{5}\\);",
+        "C. \\(y = - 1\\);",
+        "D. y = 5."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Ta có \\(\\mathop {\\lim }\\limits_{x \\to + \\infty } y = \\mathop {\\lim }\\limits_{x \\to + \\infty } \\frac{{5x + 1}}{{x - 1}} = 5;\\mathop {\\lim }\\limits_{x \\to - \\infty } y = \\mathop {\\lim }\\limits_{x \\to - \\infty } \\frac{{5x + 1}}{{x - 1}} = 5\\). Suy ra y = 5 là tiệm cận ngang của đồ thị hàm số."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Tiệm cận đứng của đồ thị hàm số \\(y = \\frac{{2x + 2}}{{x - 1}}\\) là",
+      "options": [
+        "A. x = 2;",
+        "B. x = −2;",
+        "C. x = 1;",
+        "D. x = −1."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Tập xác định D = ℝ\\{1}. Ta có \\(\\mathop {\\lim }\\limits_{x \\to {1^ - }} y = - \\,\\infty \\,;\\,\\mathop {\\lim }\\limits_{x \\to {1^ + }} y = + \\,\\infty \\), suy ra đồ thị có tiệm cận đứng là x = 1."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Đường tiệm cận đứng của đồ thị hàm số \\(y = \\frac{{{x^2} + 3x - 1}}{{x + 1}}\\) là:",
+      "options": [
+        "A. x = 2;",
+        "B. x = 0;",
+        "C. x = 1;",
+        "D. x = −1."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Ta có: \\(\\mathop {\\lim }\\limits_{x \\to - {1^ + }} \\frac{{{x^2} + 3x - 1}}{{x + 1}} = - \\infty \\) và \\(\\mathop {\\lim }\\limits_{x \\to - {1^ - }} \\frac{{{x^2} + 3x - 1}}{{x + 1}} = + \\infty \\). Vậy tiệm cận đứng là: x = −1."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Đồ thị hàm số \\(y = \\frac{{{x^2} + 2x + 2}}{{x + 1}}\\) có tiệm cận xiên là đường thẳng:",
+      "options": [
+        "A. y = x;",
+        "B. y = x – 1;",
+        "C. y = 2x – 1;",
+        "D. y = x + 1."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Ta có: \\(y = \\frac{{{x^2} + 2x + 2}}{{x + 1}} = x + 1 + \\frac{1}{{x + 1}}\\). Ta có \\(\\mathop {\\lim }\\limits_{x \\to \\pm \\infty } \\left[ {y - \\left( {x + 1} \\right)} \\right] = \\mathop {\\lim }\\limits_{x \\to \\pm \\infty } \\frac{1}{{x + 1}} = 0\\). Vậy tiệm cận xiên là: y = x + 1."
+    }
+  ]
+}

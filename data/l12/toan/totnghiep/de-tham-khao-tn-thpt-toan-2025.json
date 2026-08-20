@@ -1,0 +1,196 @@
+{
+  "id": "l12-toan-totnghiep-2025-de-tham-khao-tn-thpt-toan-2025",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2025,
+  "code": "THPT_TKT_2025",
+  "title": "Đề tham khảo tốt nghiệp THPT môn Toán năm 2025",
+  "duration": 90,
+  "answerSource": "official",
+  "source": "https://dolthpt.vn/tot-nghiep-thpt/pdf-de-tham-khao-tn-thpt-toan-2025-co-dap-an",
+  "notes": "Nội dung, đáp án và lời giải được nhập từ bản công khai của DOL THPT.",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "content": "Nguyên hàm của hàm số $f(x) = e^x$ là:",
+      "chuong": "nguyên hàm và tích phân",
+      "dang": "nguyên hàm của một số hàm số thường gặp",
+      "type": "single",
+      "options": [
+        "A. $\\frac{e^x}{x+1} + C$",
+        "B. $e^x + C$",
+        "C. $\\frac{e^x}{x} + C$",
+        "D. $x e^{x-1} + C$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**📃 Thông tin đề bài cho:**\n- Cho hàm số cần tìm nguyên hàm: $f(x) = e^x$.\n**❓ Hiểu câu hỏi:**\n- Câu hỏi yêu cầu tìm *nguyên hàm* (antiderivative) của hàm số đã cho.\n- Cần áp dụng quy tắc cơ bản của tích phân không xác định cho hàm mũ.\n**🔎 Hướng dẫn cách làm:**\n- Nhắc lại công thức cơ bản:\n$\\int e^x \\, dx = e^x + C.$\n- Lý do: vì khi lấy đạo hàm của $e^x + C$ ta được\n$\\frac{d}{d}x}\\bigl(e^x + C\\bigr) = e^x.$\n- Do đó, nguyên hàm của $f(x)=e^x$ là $e^x + C$.\n**✅ Đáp án:** $e^x + C$\n**❌ Các đáp án khác:**\n- Đáp án A: $\\frac{e^x}{x+}1} + C$ – không đúng vì tích phân của $e^x$ không sinh ra mẫu chứa $x+1$.\n- Đáp án C: $\\frac{e^x}{x} + C$ – sai vì không phù hợp với quy tắc $\\int e^x dx$.\n- Đáp án D: $x e^{x-1} + C$ – sai vì đây không phải nguyên hàm của $e^x$."
+    },
+    {
+      "id": 2,
+      "content": "Cho hàm số $y = f(x)$ liên tục, nhận giá trị dương trên đoạn $[a;b]$. Xét hình phẳng $(H)$ giới hạn bởi đồ thị hàm số $y = f(x)$, trục hoành và hai đường thẳng $x = a, x = b$. Khối tròn xoay được tạo thành khi quay hình phẳng $(H)$ quanh trục $Ox$ có thể tích là:",
+      "chuong": "nguyên hàm và tích phân",
+      "dang": "ứng dụng tích phân để tính thể tích vật thể",
+      "type": "single",
+      "options": [
+        "A. $V=\\pi\\int_a^b\\left|f(x)\\left|dx\\right.\\right.$",
+        "B. $V = \\pi^2 \\int_a^b f(x) dx$",
+        "C. $V = \\pi^2 \\int_a^b \\left[ f(x) \\right]^2 dx$",
+        "D. $V = \\pi \\int_a^b \\left[ f(x) \\right]^2 dx$"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**📃 Thông tin đề bài cho:**\n- Hàm số $y=f(x)$ liên tục, nhận giá trị dương trên đoạn $[a;b]$.\n- Vùng phẳng $(H)$ được giới hạn bởi đồ thị $y=f(x)$, trục hoành và hai đường thẳng $x=a$, $x=b$.\n- Quay vùng $(H)$ quanh trục $Ox$ để tạo khối tròn xoay, yêu cầu tính thể tích.\n**❓ Hiểu câu hỏi:**\n- Cần tính thể tích khối khi vùng dưới đồ thị $y=f(x)$ được quay quanh trục $Ox$.\n- Áp dụng *phương pháp đĩa* (disk method) trong tích phân.\n**🔎 Hướng dẫn cách làm:**\n- Khi quay quanh trục $Ox$, tại mỗi điểm $x\\in[a,b]$ ta có một “đĩa” (hình tròn) bán kính bằng khoảng cách từ đồ thị đến trục hoành, tức là $R(x)=f(x)\\,.$\n- Diện tích mặt cắt ngang của đĩa tại $x$ là: $S(x)=\\pi\\,[R(x)]^2=\\pi\\,[f(x)]^2.$\n- Tổng thể tích khối từ $x=a$ đến $x=b$ là tích phân: $V \\;=\\; \\int_a^b dV       \\;=\\;\\int_a^b \\pi\\,[f(x)]^2\\,dx       \\;=\\;\\pi\\int_a^b [f(x)]^2\\,dx.$\n**✅ Đáp án:** $V = \\pi \\int_a^b [f(x)]^2 \\,dx$\n**❌ Các đáp án khác:**\n- A: Công thức dùng tích phân lồng không phù hợp với phương pháp đĩa.\n- B: Sai hệ số và thiếu bình phương, phải là $\\pi$ (không phải $\\pi^2$) và $[f(x)]^2$.\n- C: Sai hệ số $\\pi$, không thể có $\\pi^2$ trong công thức đúng."
+    },
+    {
+      "id": 3,
+      "content": "Hai mẫu số liệu ghép nhóm $M_1, M_2$ có bảng tần số ghép nhóm như sau. Gọi $s_1, s_2$ lần lượt là độ lệch chuẩn của mẫu số liệu ghép nhóm $M_1, M_2$. Phát biểu nào sau đây là đúng?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-tham-khao-tn-thpt-toan-2025/cau-03.webp\" alt=\"Bảng tần số $M_1$ và $M_2$ có các nhóm và tần số như sau:\n$M_1$:\n- Nhóm $[8; 10)$: Tần số \\$3$\n- Nhóm $[10; 12)$: Tần số \\$4$\n- Nhóm $[12; 14)$: Tần số \\$8$\n- Nhóm $[14; 16)$: Tần số \\$6$\n- Nhóm $[16; 18)$: Tần số \\$4M_2$:\n- Nhóm $[8; 10)$: Tần số \\$3$\n- Nhóm $[10; 12)$: Tần số \\$4$\n- Nhóm $[12; 14)$: Tần số \\$8$\n- Nhóm $[14; 16)$: Tần số \\$6$\n- Nhóm $[16; 18)$: Tần số \\$4$\" loading=\"lazy\"></figure>",
+      "chuong": "các số đặc trưng đo mức độ phân tán cho mẫu số liệu ghép nhóm",
+      "dang": "sử dụng phương sai, độ lệch chuẩn đo độ rủi ro",
+      "type": "single",
+      "options": [
+        "A. $s_1 = s_2$",
+        "B. $s_1 = 2s_2$",
+        "C. \\$2s_1 = s_2$",
+        "D. \\$4s_1 = s_2$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**📃 Thông tin đề bài cho:**\n- Có hai mẫu số liệu ghép nhóm là $M_1$ và $M_2$ với bảng tần số như nhau: - Các lớp: $[8;10)$, $[10;12)$, $[12;14)$, $[14;16)$, $[16;18)$\n  - Tần số: lần lượt là \\$3, 4, 8, 6, 4$ cho cả $M_1$ và $M_2$\n- Gọi $s_1, s_2$ là độ lệch chuẩn mẫu của hai mẫu số liệu trên.\n**❓ Hiểu câu hỏi:**\n- Câu hỏi yêu cầu tìm phát biểu đúng về mối quan hệ giữa $s_1$ và $s_2$.\n- Vì hai bảng tần số giống nhau, nên điểm khác biệt (nếu có) sẽ đến từ giá trị cụ thể của mỗi mẫu.\n- Cần tính độ lệch chuẩn mẫu của từng nhóm để so sánh $s_1$ và $s_2$.\n**🔎 Hướng dẫn cách làm bằng máy tính cầm tay Casio FX - 580 VN/ Vinacal 680EX PLUS:**\n👉🏻 **Bước 1: Bật bảng thống kê**\n**SHIFT** → **MENU** → **▼** → **3: Statistics** → **1: On**\n👉🏻 **Bước 2: Vào chế độ thống kê**\n**MENU** → **6: Statistics** → **1: 1-Variable**\n👉🏻 **Bước 3: Nhập dữ liệu thống kê**\n- **Tính giá trị giữa các khoảng:** - $[8;10) \\Rightarrow 9$\n  - $[10;12) \\Rightarrow 11$\n  - $[12;14) \\Rightarrow 13$\n  - $[14;16) \\Rightarrow 15$\n  - $[16;18) \\Rightarrow 17$\n- **Nhập dữ liệu vào máy:** - Nhập các giá trị: \\$9, 11, 13, 15, 17$ vào cột $x$\n  - Nhập tần số tương ứng: \\$3, 4, 8, 6, 4$ vào cột $\\text{Freq}$\n👉🏻 **Bước 4: Gọi kết quả thống kê**\n**OPTN** → **3: 1-Variable Calc**\nChú ý giá trị $s_x$: đây là **độ lệch chuẩn mẫu** cần so sánh\n👉🏻 **Bước 5: Kết luận**\nVì hai bảng tần số giống nhau và giá trị của các lớp giống nhau, nên ta có:\n- $s_1 = s_2$\n**✅ Đáp án: ** $s_1 = s_2$\n**❌ Các đáp án khác:**\n- $s_1 > s_2$ – Sai vì dữ liệu giống hệt nhau nên không có sự khác biệt về độ lệch chuẩn.\n- $s_1 < s_2$ – Sai vì tương tự, độ phân tán giống nhau.\n- $s_1 \\neq s_2$ – Sai vì khẳng định sự khác biệt mà không có cơ sở."
+    },
+    {
+      "id": 4,
+      "content": "Trong không gian với hệ trục tọa độ $Oxyz$, phương trình của đường thẳng đi qua điểm $M(1;-3;5)$ và có một vectơ chỉ phương $\\vec{u}(2;-1;1)$ là:",
+      "chuong": "phương pháp tọa độ trong không gian",
+      "dang": "phương trình đường thẳng",
+      "type": "single",
+      "options": [
+        "A. $\\frac{x-1}{2} = \\frac{y-3}{-1} = \\frac{z-5}{1}$",
+        "B. $\\frac{x-1}{2}=\\frac{y-3}{-1}=\\frac{z+5}{1}$",
+        "C. $\\frac{x-1}{2} = \\frac{y+3}{-1} = \\frac{z-5}{1}$",
+        "D. $\\frac{x+1}{2} = \\frac{y+3}{-1} = \\frac{z-5}{1}$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**📃 Thông tin đề bài cho:**\n- Điểm $M(1;\\,-3;\\,5)$ thuộc đường thẳng cần xác định.\n- Vectơ chỉ phương $\\vec{u}(2;\\,-1;\\,1)$.\n- *Hình vẽ minh họa hệ trục Oxyz, điểm M và vectơ u cho ta hướng đi của đường thẳng.*\n**❓ Hiểu câu hỏi:**\n- Cần tìm phương trình của đường thẳng trong không gian qua điểm $M$ và có vectơ chỉ phương $\\vec{u}$.\n- Áp dụng công thức phương trình đối xứng của đường thẳng:  với $(x_0,y_0,z_0)$ là điểm cho trước và $(a,b,c)$ là thành phần vectơ chỉ phương.\n**🔎 Hướng dẫn cách làm:**\n- Bước 1: Viết phương trình tham số của đường thẳng qua $M$ với tham số $t$:\n- Bước 2: Từ mỗi biểu thức, đưa về dạng $t$:\n- Bước 3: Kết hợp lại để có phương trình đối xứng:\n**✅ Đáp án:**\n**❌ Các đáp án khác:**\n- A. $\\displaystyle \\frac{x-1}{2}=\\frac{y-3}{-}1}=\\frac{z-5}{1}$: sai ở vế $y$, phải là $y+3$ vì $y_0=-3$.\n- B. $\\displaystyle \\frac{x-1}{2}=\\frac{y-3}{-}1}=\\frac{z+5}{1}$: sai cả dấu ở $y$ và $z$.\n- D. $\\displaystyle \\frac{x+1}{2}=\\frac{y+3}{-}1}=\\frac{z-5}{1}$: sai ở vế $x$, phải là $x-1$."
+    },
+    {
+      "id": 5,
+      "content": "Cho hàm số $y = \\frac{ax + b}{cx + }d} \\ (c \\ne 0, ad - bc \\ne 0)$ có đồ thị như hình. Tiệm cận ngang của đồ thị hàm số là:\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-tham-khao-tn-thpt-toan-2025/cau-05.webp\" alt=\"Đồ thị hàm số $y = \\dfrac{ax + b}{cx + d}$ có các đặc điểm sau:\n1. **Tiệm cận đứng:** - $x = -1$\n2. **Tiệm cận ngang:** - $y = \\dfrac{1}{2}$\n3. **Các điểm đặc biệt đi qua:** - $(0; -\\dfrac{1}{2})$ - $(1; 0)$\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "đường tiệm cận ngang",
+      "type": "single",
+      "options": [
+        "A. $x=-1$",
+        "B. $y = \\frac{1}{2}$",
+        "C. $y=-1$",
+        "D. $x = \\frac{1}{2}$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**📃 Thông tin đề bài cho:**\n- Hàm số $y = \\frac{ax + b}{cx + }d}$ với $c \\neq 0$ và $ad - bc \\neq 0$.\n- Đồ thị có tiệm cận đứng $x = -1$.\n- Đồ thị có tiệm cận ngang cần xác định.\n- Đồ thị đi qua các điểm $(0, -\\tfrac12)$ và $(1, 0)$.\n**❓ Hiểu câu hỏi:**\n- Câu hỏi yêu cầu xác định **tiệm cận ngang** của đồ thị hàm phân thức bậc nhất trên bậc nhất.\n- Kiến thức cần dùng: với hàm $y = \\frac{a x + b}{c x + }d}$, khi $x \\to \\pm\\infty$ thì $y \\to \\frac{a}{c}$.\n**🔎 Hướng dẫn cách làm:**\n- Nhận xét: Đây là hàm phân thức bậc nhất trên bậc nhất, nên tiệm cận ngang có dạng $y = \\frac{a}{c}$.\n- Từ đồ thị (một đường kẻ ngang chấm ở mức $y = \\tfrac12$), ta thấy đồ thị càng xa trục tung thì càng tiến gần đường thẳng $y = \\tfrac12$.\n- Do đó, tiệm cận ngang của hàm số là $y=\\frac{1}{2}$.\n**✅ Đáp án:** $y = \\frac12$\n**❌ Các đáp án khác:**\n- A. $x=-1$ không phải tiệm cận ngang mà là đường thẳng đứng.\n- C. $y=-1$ sai vì đồ thị tiến đến $y = \\tfrac12$, không phải 1.\n- D. $x = \\tfrac12$ cũng là đường thẳng đứng, không phải ngang."
+    },
+    {
+      "id": 6,
+      "content": "Tập nghiệm của bất phương trình $\\log_2(x - 1) < 3$ là:",
+      "chuong": "hàm số mũ và hàm số lôgarit",
+      "dang": "bất phương trình lôgarit",
+      "type": "single",
+      "options": [
+        "A. $(1;9)$",
+        "B. $(-\\infty; 9)$",
+        "C. $(9; +\\infty)$",
+        "D. $(1;7)$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**📃 Thông tin đề bài cho:**\n- Bất phương trình cần giải: $\\log_2(x - 1) < 3$\n**❓ Hiểu câu hỏi:**\n- Tìm tập hợp các giá trị của $x$ để thỏa bất phương trình\n- Cần áp dụng hai kiến thức chính:\n• Điều kiện xác định của hàm logarit\n• Tính chất đơn điệu (tăng) của hàm số $\\log_2 t$ với cơ số 2 > 1\n**🔎 Hướng dẫn cách làm:**\n- Xác định điều kiện xác định:\n$x - 1 > 0\\;\\Longrightarrow\\;x > 1.$\n- Sử dụng tính chất hàm logarit tăng:\n$\\log_2(x - 1) < 3\\;\\Longrightarrow\\;x - 1 < 2^3.$\n- Tính lũy thừa:\n\\$2^3 = 8\\;\\Longrightarrow\\;x - 1 < 8\\;\\Longrightarrow\\;x < 9.$\n- Kết hợp hai điều kiện:\n\\$1 < x < 9.$\n- Vậy tập nghiệm của bất phương trình là:\n$(1;9).$\n**✅ Đáp án:** $(1;9)$\n**❌ Các đáp án khác:**\n- B. $(-\\infty; 9)$: Bỏ qua điều kiện $x>1$, sai vì logarit không xác định khi $x\\le1$.\n- C. $(9; +\\infty)$: Mâu thuẫn với yêu cầu $x<9$.\n- D. $(1;7)$: Giới hạn trên lấy sai, phải là 9 chứ không phải 7."
+    },
+    {
+      "id": 7,
+      "content": "Trong không gian với hệ trục tọa độ $Oxyz$, cho mặt phẳng $(P)$ có phương trình $x - 3y - z + 8 = 0$. Vector nào sau đây là một vector pháp tuyến của mặt phẳng $(P)$?",
+      "chuong": "phương pháp tọa độ trong không gian",
+      "dang": "phương trình tổng quát của mặt phẳng",
+      "type": "single",
+      "options": [
+        "A. $\\vec{n}_1(1; -3; 1)$",
+        "B. $\\vec{n}_2(1; -3; -1)$",
+        "C. $\\vec{n}_3(1;-3;8)$",
+        "D. $\\vec{n}_4(1; 3; 8)$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**📃 Thông tin đề bài cho:**\n- Trong không gian với hệ trục tọa độ $Oxyz$.\n- Mặt phẳng $(P)$ có phương trình\n**❓ Hiểu câu hỏi:**\n- Câu hỏi yêu cầu tìm **vector pháp tuyến** của mặt phẳng $(P)$.\n- Áp dụng kiến thức về dạng tổng quát của phương trình mặt phẳng trong không gian.\n**🔎 Hướng dẫn cách làm:**\n- Bước 1: Nhận dạng dạng tổng quát của phương trình mặt phẳng:\n- Bước 2: Vector pháp tuyến $\\vec{n} = (a,\\,b,\\,c)$.\n- Bước 3: So sánh với phương trình đã cho $x - 3y - z + 8 = 0$: - $a = 1$, $b = -3$, $c = -1$.\n  - Vậy $\\vec{n} = (1;\\,-3;\\,-1)$.\n- Bước 4: Đối chiếu với các phương án đã cho để chọn đáp án đúng.\n**✅ Đáp án:** B. $\\displaystyle \\vec{n}_2(1;\\,-3;\\,-1)$\n**❌ Các đáp án khác:**\n- A. $\\vec{n}_1(1;\\,-3;\\,1)$ sai dấu thành phần thứ ba.\n- C. $\\vec{n}_3(1;\\,-3;\\,8)$ nhầm lấy hệ số tự do $d=8$ thay vì $c$.\n- D. $\\vec{n}_4(1;\\,3;\\,8)$ sai cả thành phần $y$ và $z$."
+    },
+    {
+      "id": 8,
+      "content": "Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình chữ nhật và $SA \\perp (ABCD)$. Mặt phẳng nào sau đây vuông góc với mặt phẳng $(ABCD)$?",
+      "chuong": "quan hệ vuông góc trong không gian",
+      "dang": "góc giữa hai mặt phẳng, hai mặt phẳng vuông góc",
+      "type": "single",
+      "options": [
+        "A. $(SAB)$",
+        "B. $(SBC)$",
+        "C. $(SCD)$",
+        "D. $(SBD)$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**📃 Thông tin đề bài cho:**\n- Hình chóp $S.ABCD$ có đáy $ABCD$ là hình chữ nhật.\n- $SA\\perp (ABCD)$.\n- Câu hỏi: Mặt phẳng nào sau đây vuông góc với mặt phẳng $(ABCD)$?\n**❓ Hiểu câu hỏi:**\n- Muốn tìm một mặt phẳng vuông góc với $(ABCD)$.\n- Áp dụng định nghĩa: *Một mặt phẳng *$\\alpha$* vuông góc với mặt phẳng *$\\beta$* nếu và chỉ nếu *$\\alpha$* chứa một đường thẳng *$d$* sao cho *$d\\perp\\beta$*.*\n**🔎 Hướng dẫn cách làm**\n- Bước 1: Xác định đường thẳng vuông góc với đáy: từ giả thiết ta có\n$SA\\perp (ABCD).$\n- Bước 2: Chọn mặt phẳng chứa đường thẳng $SA$. Mặt phẳng $(SAB)$ chứa $SA$ và đường thẳng $AB$.\n- Bước 3: Vì $(SAB)$ chứa đường thẳng $SA$ mà $SA\\perp (ABCD)$, nên theo định nghĩa,\n$(SAB)\\perp (ABCD).$\n- Bước 4: Kiểm tra các phương án khác: các mặt phẳng $(SBC)$, $(SCD)$, $(SBD)$ đều không chứa đường thẳng $SA$, nên không thể chứa đoạn thẳng vuông góc với đáy, do đó chúng không vuông góc với $(ABCD)$.\n**✅ Đáp án:** $(SAB)$\n**❌ Các đáp án khác:**\n- B. $(SBC)$: không chứa đường thẳng $SA\\perp(ABCD)$, nên không vuông góc với đáy.\n- C. $(SCD)$: không chứa $SA$, vì vậy không có đường thẳng vuông góc với đáy.\n- D. $(SBD)$: cũng không chứa $SA$, nên không thỏa điều kiện vuông góc."
+    },
+    {
+      "id": 9,
+      "content": "Nghiệm của phương trình \\$2^x = 6$ là:",
+      "chuong": "hàm số mũ và hàm số lôgarit",
+      "dang": "hàm số mũ",
+      "type": "single",
+      "options": [
+        "A. $x = \\log_6 2$",
+        "B. $x = 3$",
+        "C. $x = 4$",
+        "D. $x = \\log_2 6$"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**📃 Thông tin đề bài cho:**\n- Phương trình cần giải: \\$2^x = 6$\n**❓ Hiểu câu hỏi:**\n- Yêu cầu tìm giá trị của $x$ sao cho \\$2^x$ bằng 6.\n- Học sinh cần vận dụng kiến thức về logarit để giải phương trình mũ.\n**🔎 Hướng dẫn cách làm:**\n- Bước 1: Nhận thấy phương trình có dạng $a^x = b$ với $a>0$, $a\\neq1$, $b>0$.\n- Bước 2: Áp dụng log cơ số 2 hai vế để đưa số mũ về dạng biểu thức logarit:\n$\\log_2\\bigl(2^x\\bigr) = \\log_2(6)$\n- Bước 3: Sử dụng tính chất $\\log_a(a^x)=x$:\n$x = \\log_2(6)$\n**✅ Đáp án:**\n$x = \\log_2 6$\n**❌ Các đáp án khác:**\n- A. $x = \\log_6 2$ sai vì $\\log_6 2 = \\tfrac{1}{\\log_2 6}$, không bằng $\\log_2 6$.\n- B. $x = 3$ sai vì \\$2^3 = 8 \\neq 6$.\n- C. $x = 4$ sai vì \\$2^4 = 16 \\neq 6$."
+    },
+    {
+      "id": 10,
+      "content": "Cấp số cộng $(u_n)$ có $u_1 = 1$ và $u_2 = 3$. Số hạng $u_5$ của cấp số cộng là:",
+      "chuong": "dãy số. cấp số cộng và cấp số nhân",
+      "dang": "số hạng tổng quát của cấp số cộng",
+      "type": "single",
+      "options": [
+        "A. \\$5$",
+        "B. \\$7$",
+        "C. \\$9$",
+        "D. \\$11$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**📃 Thông tin đề bài cho:**\n- Cấp số cộng $(u_n)$\n- $u_1 = 1$\n- $u_2 = 3$\n**❓ Hiểu câu hỏi:**\n- Cần tìm số hạng thứ 5, $u_5$, của cấp số cộng đã cho.\n- Phải áp dụng công thức số hạng tổng quát của cấp số cộng.\n**🔎 Hướng dẫn cách làm:**\n- Xác định công sai $d$ của cấp số cộng:\n$d = u_2 - u_1 = 3 - 1 = 2.$\n- Ghi lại công thức tổng quát của cấp số cộng:\n$u_n = u_1 + (n - 1)\\,d.$\n- Thay $n = 5$ vào công thức:\n$u_5 = u_1 + (5 - 1)\\,d = 1 + 4 \\times 2 = 1 + 8 = 9.$\n**✅ Đáp án: **$9$\n**❌ Các đáp án khác:**\n- A. 5: Sai vì đã lấy $d = 1$ thay vì 2, dẫn đến $u_5 = 1 + 4\\cdot1 = 5$.\n- B. 7: Sai vì tính nhầm $d$ hoặc nhầm thứ tự số hạng.\n- D. 11: Sai vì giả sử $d = 2.5$ hoặc tính thêm bước không chính xác."
+    },
+    {
+      "id": 11,
+      "content": "Cho hình hộp $ABCD.A'B'C'D'$ (minh họa như hình). Phát biểu nào sau đây là đúng?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-tham-khao-tn-thpt-toan-2025/cau-11.webp\" alt=\"Hình hộp chữ nhật với các đỉnh:\n- Đỉnh đáy dưới: $A, B, C, D$\n- Đỉnh đáy trên: $A', B', C', D'$\n**Các đường chéo không gian:**\n- $AC'$ (nét đứt)\n- $BD'$ (nét đứt)\n**Các mặt phẳng song song:**\n- $(ABCD) \\parallel (A'B'C'D')$\n**Các cạnh song song:**\n- $AB \\parallel A'B' \\parallel CD \\parallel C'D'$\n- $AD \\parallel A'D' \\parallel BC \\parallel B'C'$\n- $AA' \\parallel BB' \\parallel CC' \\parallel DD'$\" loading=\"lazy\"></figure>",
+      "chuong": "vectơ và hệ trục tọa độ trong không gian",
+      "dang": "tổng và hiệu của hai vectơ trong không gian",
+      "type": "single",
+      "options": [
+        "A. $\\overrightarrow{AB}+\\overrightarrow{BB^{\\prime}}+\\overrightarrow{B^{\\prime}A^{\\prime}}=\\overrightarrow{AC^{\\prime}}$",
+        "B. $\\overrightarrow{AB}+\\overrightarrow{BC^{\\prime}}+\\overrightarrow{C^{\\prime}D^{\\prime}}=\\overrightarrow{AC^{\\prime}}$",
+        "C. $\\overrightarrow{AB}+\\overrightarrow{AC}+\\overrightarrow{AA^{\\prime}}=\\overrightarrow{AC^{\\prime}}$",
+        "D. $\\overrightarrow{AB}+\\overrightarrow{AA^{\\prime}}+\\overrightarrow{AD^{}}=\\overrightarrow{AC^{\\prime}}$"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**📃 Thông tin đề bài cho:**\n- Hình hộp chữ nhật $ABCD.A'B'C'D'$ với các đỉnh đáy dưới là $A,B,C,D$ và đỉnh đáy trên là $A',B',C',D'$.\n- Các cạnh đối song song: $AB\\parallel C'D',\\;AD\\parallel B'C',\\;AA'\\parallel CC',$ v.v.\n- Hỏi phát biểu nào sau đây đúng biểu diễn vectơ $\\overrightarrow{AC'}$?\n**❓ Hiểu câu hỏi:**\n- Cần diễn đạt vectơ từ điểm $A$ đến $C'$ dưới dạng tổng các vectơ cạnh của hình hộp.\n- Áp dụng tính chất song song và bằng nhau của các cạnh trong hình hộp chữ nhật:\n*BC = AD, CC' = AA'*.\n- Sử dụng phép cộng vectơ theo đường gấp khúc nối các điểm.\n**🔎 Hướng dẫn cách làm:**\n- Chọn đường gấp khúc từ $A$ đến $C'$ qua hai đỉnh trung gian, ví dụ $A\\to B\\to C\\to C'\\,.$\n- Viết tổng vectơ theo đường gấp khúc:\n$\\overrightarrow{AC'}=\\overrightarrow{AB}+\\overrightarrow{BC}+\\overrightarrow{CC'}\\,.$\n- Áp dụng:\n$\\overrightarrow{BC}=\\overrightarrow{AD}\\quad(\\text{vì }BC\\parallel AD,\\;BC=AD),$\n$\\overrightarrow{CC'}=\\overrightarrow{AA'}\\quad(\\text{vì }CC'\\parallel AA',\\;CC'=AA').$\n- Thay vào biểu thức:\n$\\overrightarrow{AC'}=\\overrightarrow{AB}+\\overrightarrow{AD}+\\overrightarrow{AA'}\\,.$\n- Do phép cộng vectơ khả chuyển, có thể viết lại thành:\n$\\overrightarrow{AB}+\\overrightarrow{AA'}+\\overrightarrow{AD}=\\overrightarrow{AC'}\\,.$\n**✅ Đáp án:**\n$\\overrightarrow{AB}+\\overrightarrow{AA'}+\\overrightarrow{AD}=\\overrightarrow{AC'}$\n**❌ Các đáp án khác:**\n- A. $\\overrightarrow{AB}+\\overrightarrow{BB'}+\\overrightarrow{B'A'}=\\overrightarrow{AC'}$\nSai vì đường gấp khúc $A\\to B\\to B'\\to A'$ kết thúc ở $A'$, không đến $C'$.\n- B. $\\overrightarrow{AB}+\\overrightarrow{BC'}+\\overrightarrow{C'D'}=\\overrightarrow{AC'}$\nSai vì đường gấp khúc $A\\to B\\to C'\\to D'$ kết thúc ở $D'$, không đến $C'$.\n- C. $\\overrightarrow{AB}+\\overrightarrow{AC}+\\overrightarrow{AA'}=\\overrightarrow{AC'}$\nSai vì $\\overrightarrow{AC}$ không phải là vectơ cạnh cơ bản; thay vào đó $\\overrightarrow{AC}=\\overrightarrow{AB}+\\overrightarrow{AD}$ dẫn đến kết quả không đúng."
+    },
+    {
+      "id": 12,
+      "content": "Cho hàm số có đồ thị như hình vẽ. Hàm số đã cho đồng biến trên khoảng nào sau đây?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-tham-khao-tn-thpt-toan-2025/cau-12.webp\" alt=\"Đồ thị hàm số có các đặc điểm sau:\n1. **Các điểm đi qua đồ thị:** - $(0; 0)$ - $(-1; -2)$ - $(1; 2)$\n2. **Tính chất đơn điệu:** - Hàm số nghịch biến trên khoảng $(-\\infty; -1)$. - Hàm số đồng biến trên khoảng $(-1; 0)$. - Hàm số đồng biến trên khoảng $(0; 1)$. - Hàm số nghịch biến trên khoảng $(1; +\\infty)$.\n3. **Các điểm cực trị:** - Cực tiểu tại $(-1; -2)$. - Cực đại tại $(1; 2)$.\n4. **Tiệm cận:** - Không có tiệm cận đứng, ngang, xiên.\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "tính đơn điệu của hàm số",
+      "type": "single",
+      "options": [
+        "A. $(−\\infty; -1)$",
+        "B. $(−\\infty;-1)$",
+        "C. $(−1;1)$",
+        "D. $(1; +\\infty)$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**📃 Thông tin đề bài cho:**\n- Đồ thị hàm số đi qua các điểm $(-1,-2)$, $(0,0)$, $(1,2)$.\n- Hàm số *nghịch biến* trên khoảng $(-\\infty; -1)$.\n- Hàm số *đồng biến* trên khoảng $(-1;0)$ và $(0;1)$.\n- Hàm số *nghịch biến* trên khoảng $(1; +\\infty)$.\n**❓ Hiểu câu hỏi:**\n- Xác định khoảng mà hàm số **đồng biến**.\n- Dựa vào tính chất đơn điệu đã cho từ đồ thị.\n**🔎 Hướng dẫn cách làm:**\n- Từ thông tin đồ thị, ta liệt kê các khoảng đơn điệu:\n• Nghịch biến trên $(-\\infty; -1)$.\n• Đồng biến trên $(-1;0)$ và $(0;1)$.\n• Nghịch biến trên $(1; +\\infty)$.\n- Hai khoảng đồng biến $(-1;0)$ và $(0;1)$ liền kề nhau, nên hợp lại thành khoảng đồng biến chung là $(-1;1)$.\n- Kiểm tra các phương án:\n• A, B: $(-\\infty; -1)$ – sai (hàm giảm).\n• C: $(-1;1)$ – đúng (hợp khoảng tăng).\n• D: $(1; +\\infty)$ – sai (hàm giảm).\n**✅ Đáp án:** $(-1;1)$\n**❌ Các đáp án khác:**\n- A. $(-\\infty; -1)$ – Khoảng này hàm số **nghịch biến**, không phải đồng biến.\n- B. $(-\\infty; -1)$ – Tương tự A, không thỏa.\n- D. $(1; +\\infty)$ – Hàm số giảm trên khoảng này, không phải tăng."
+    }
+  ]
+}

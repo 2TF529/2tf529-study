@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-12-ket-noi-tri-thuc-bai-4-co-dap-an",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-12-ket-noi-",
+  "grade": "l12",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 12 Kết nối tri thức Bài 4 có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Câu 1: Giao thức mạng là gì?",
+      "options": [
+        "A. Phần cứng trong mạng",
+        "B. Tập hợp các quy định về cách thức giao tiếp trong mạng",
+        "C. Phần mềm dùng để kiểm tra bảo mật",
+        "D. Một loại thiết bị mạng"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Giao thức mạng bao gồm các quy định về định dạng, ý nghĩa, và cách xử lý dữ liệu để đảm bảo việc truyền dữ liệu giữa các thiết bị trong mạng được thực hiện chính xác và hiệu quả."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Giao thức IP làm nhiệm vụ gì trong mạng?",
+      "options": [
+        "A. Xác định địa chỉ MAC cho các thiết bị",
+        "B. Chia dữ liệu thành các gói nhỏ",
+        "C. Thiết lập địa chỉ và dẫn đường các gói dữ liệu",
+        "D. Kiểm tra lỗi trong truyền dữ liệu"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Giao thức IP quy định cách thiết lập địa chỉ cho các thiết bị trong mạng và cách dẫn đường cho các gói dữ liệu từ thiết bị gửi đến thiết bị nhận"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Có bao nhiêu phiên bản địa chỉ IP chính?",
+      "options": [
+        "A. 1",
+        "B. 2",
+        "C. 3",
+        "D. 4"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Có hai phiên bản địa chỉ IP chính là IPv4 và IPv6."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Địa chỉ IP khác với địa chỉ MAC ở điểm nào?",
+      "options": [
+        "A. IP là địa chỉ phần cứng, MAC là địa chỉ logic",
+        "B. IP là địa chỉ tạm thời, MAC là địa chỉ cố định",
+        "C. IP là địa chỉ của giao diện mạng, MAC là địa chỉ của thiết bị vật lý",
+        "D. IP là địa chỉ trong mạng LAN, MAC là địa chỉ trong mạng WAN"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Địa chỉ IP xác định vị trí của thiết bị trên mạng, trong khi địa chỉ MAC là địa chỉ vật lý của card mạng của thiết bị."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Router trong mạng đóng vai trò gì?",
+      "options": [
+        "A. Chia sẻ tài nguyên mạng",
+        "B. Chuyển tiếp bưu phẩm dữ liệu",
+        "C. Kiểm tra lỗi dữ liệu",
+        "D. Tạo và quản lý kết nối VPN"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Router chuyển tiếp các gói dữ liệu giữa các mạng khác nhau, giống như cách bưu cục chuyển tiếp bưu phẩm."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Giao thức nào đảm bảo dữ liệu được truyền đến đúng ứng dụng và theo thứ tự?",
+      "options": [
+        "A. IP",
+        "B. TCP",
+        "C. UDP",
+        "D. HTTP"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Giao thức TCP đảm bảo rằng dữ liệu đến đúng ứng dụng và theo đúng thứ tự bằng cách chia dữ liệu thành các gói, xác nhận gửi và gửi lại nếu cần thiết."
+    }
+  ]
+}

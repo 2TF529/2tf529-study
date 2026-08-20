@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-10-bai-tap-su-dung-cac-cong-thuc-tinh-dao-ham-cua-tong-hieu-tic",
+  "sourceId": "vietjack:2-10-bai-tap-su-dung-cac-cong-thuc-tinh-",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.10 Bài tập Sử dụng các công thức tính đạo hàm của tổng, hiệu, tích, thương các hàm số và đạo hàm của hàm số hợp (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Đạo hàm của hàm số y = sin(2x – 1) là:",
+      "options": [
+        "A. 2cos(2x – 1);",
+        "B. cos(2x – 1);",
+        "C. – 2cos(2x – 1);",
+        "D. – cos(2x – 1)."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A Ta có y ' (x) = (2x – 1) ' cos(2x – 1) = 2cos(2x – 1)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Đạo hàm của hàm số y = (2x + 7)(3x – 5) tại điểm x 0 = 4 là:",
+      "options": [
+        "A. –31;",
+        "B. 5;",
+        "C. 59;",
+        "D. 11."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải: Đáp án đúng là: C Ta có y ' (x) = (2x + 7) ' (3x – 5) + (2x + 7)(3x – 5) ' = 2(3x – 5) + 3(2x + 7) = 12x + 11. y ' (4) = 12 . 4 + 11 = 59."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Đạo hàm của hàm số y = (– x – 6) 5 tại điểm x 0 = –3 là:",
+      "options": [
+        "A. 81;",
+        "B. –81;",
+        "C. 405;",
+        "D. –405."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải: Đáp án đúng là: D Ta có y ' (x) = 5 . (–x – 6) 4 . (–x – 6) ' = –5(–x – 6) 4 . y ' (–3) = –5(3 – 6) 4 = –405."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Đạo hàm của hàm số y = e 12x + 4 là:",
+      "options": [
+        "A. e 12x + 4 ;",
+        "B. 12e 12x + 4 ;",
+        "C. –12e 12x + 4;",
+        "D. –e 12x + 4 ."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải: Đáp án đúng là: B Ta có y ' (x) = (12x + 4) ' . e 12x + 4 = 12e 12x + 4 ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Đạo hàm của hàm số y = log 4 (9x – 2) tại điểm x 0 = 1 3 là:",
+      "options": [
+        "A. 1 ln 4 ;",
+        "B. 9 ln 4 ;",
+        "C. 9 9 x − 2 ln 4 ;",
+        "D. 2 ln 4 ."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải: Đáp án đúng là: B Với x > 2 9 , ta có: y ' (x) = ( 9 x − 2 ) ' ( 9 x − 2 ) ln 4 = 9 9 x − 2 ln 4 . Vì 1 3 > 2 9 nên 1 3 = 9 9 ⋅ 1 3 − 2 ln 4 = 9 ln 4 ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Đạo hàm của hàm số y = cot(3x 2 – x + 2) là:",
+      "options": [
+        "A. − 6 x − 1 sin 2 ( 3 x 2 − x + 2 ) ;",
+        "B. 6 x − 1 sin 2 ( 3 x 2 − x + 2 ) ;",
+        "C. 1 − 6 x sin 2 ( 3 x 2 − x + 2 ) ;",
+        "D. − 6 x − 1 sin ( 3 x 2 − x + 2 ) ."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A Ta có y ' (x) = − ( 3 x 2 − x + 2 ) ' sin 2 ( 3 x 2 − x + 2 ) = − 6 x − 1 sin 2 ( 3 x 2 − x + 2 ) ."
+    }
+  ]
+}

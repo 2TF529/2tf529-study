@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-12-20-cau-trac-nghiem-toan-10-chan-troi-sang-tao-bai-2-ham-so-bac",
+  "sourceId": "vietjack:12-20-cau-trac-nghiem-toan-10-chan-troi-",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "12.20 câu trắc nghiệm Toán 10 Chân trời sáng tạo Bài 2: Hàm số bậc hai (Đúng sai - Trả lời ngắn) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Phần I: Trắc nghiệm nhiều phương án lựa chọn Cho hàm số \\[y = - {x^2} + 4x + 1\\] . Khẳng định nào sau đây sai?",
+      "options": [
+        "A. Trên khoảng \\[\\left( { - \\infty ;1} \\right)\\], hàm số đồng biến.",
+        "B. Hàm số nghịch biến trên khoảng \\[\\left( {2; + \\infty } \\right)\\] và đồng biến trên khoảng \\[\\left( { - \\infty ;2} \\right)\\].",
+        "C. Trên khoảng \\[\\left( {3; + \\infty } \\right)\\], hàm số nghịch biến.",
+        "D. Hàm số nghịch biến trên khoảng \\[\\left( {4; + \\infty } \\right)\\] và đồng biến trên khoảng \\[\\left( { - \\infty ;4} \\right)\\]."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Đỉnh của parabol có hoành độ: \\[{x_I} = - \\frac{b}{{2a}} = 2\\]. Vì \\(a = - 1 < 0\\) nên hàm số đồng biến trên khoảng \\[\\left( { - \\infty ;2} \\right)\\] và nghịch biến trên khoảng \\[\\left( {2; + \\infty } \\right)\\]. Mà \\[\\left( { - \\infty ;1} \\right) \\subset \\left( { - \\infty ;2} \\right)\\] và \\[\\left( {3; + \\infty } \\right) \\subset \\left( {2; + \\infty } \\right)\\]. Vậy khẳng định D sai."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Hàm số \\(f\\left( x \\right) = {x^2} - 2x + 3\\) đồng biến trên khoảng nào dưới đây?",
+      "options": [
+        "A. \\(\\left( {1; + \\infty } \\right)\\) .",
+        "B. \\(\\left( { - 2; + \\infty } \\right)\\) .",
+        "C. \\(\\left( { - \\infty ;1} \\right)\\) .",
+        "D. \\(\\left( { - 3; + \\infty } \\right)\\)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có hàm số \\(\\left( P \\right):\\,y = f\\left( x \\right) = {x^2} - 2x + 3\\) là hàm số bậc hai có hệ số \\(a = 1\\) nên \\[\\left( P \\right)\\] có bề lõm hướng lên. Hoành độ đỉnh của parabol \\({x_I} = \\frac{{ - b}}{{2a}} = 1\\). Do đó hàm số đồng biến trên khoảng \\(\\left( {1; + \\infty } \\right)\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho parabol \\(\\left( P \\right):y = 3{x^2} - 2x + 1\\) . Điểm nào sau đây là đỉnh của \\(\\left( P \\right)\\) ?",
+      "options": [
+        "A. \\(I\\left( {0;1} \\right)\\) .",
+        "B. \\(I\\left( {\\frac{1}{3};\\,\\frac{2}{3}} \\right)\\) .",
+        "C. \\(I\\left( { - \\frac{1}{3};\\,\\frac{2}{3}} \\right)\\) .",
+        "D. \\(I\\left( {\\frac{1}{3};\\, - \\frac{2}{3}} \\right)\\) ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Hoành độ đỉnh của \\(\\left( P \\right):y = 3{x^2} - 2x + 1\\) là x = − b 2 a = 1 3 ⇒ y = 3 ⋅ 1 3 2 − 2 ⋅ 1 3 + 1 = 2 3 Vậy I 1 3 ; 2 3"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Đồ thị nào sau đây là đồ thị của hàm số \\[y = {x^2} - 2x - 3\\] ?",
+      "options": [
+        "A. Hình \\[1\\] .",
+        "B. Hình \\[2\\] .",
+        "C. Hình \\[3\\] .",
+        "D. Hình \\[4\\]."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Dựa vào đồ thị có: \\[\\left( P \\right):y = f\\left( x \\right) = {x^2} - 2x - 3\\] có \\[a = 1 > 0\\] nên \\[\\left( P \\right)\\] có bề lõm hướng lên (loại hình \\[2\\]). \\[\\left( P \\right)\\] có đỉnh \\[I\\] có \\[{x_I} = 1\\] (loại hình \\[1\\] và \\[3\\]). Vậy \\[\\left( P \\right):y = f\\left( x \\right) = {x^2} - 2x - 3\\] có đồ thị là hình \\[4\\]."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Xác định các hệ số \\(a\\) và \\(b\\) để parabol \\(\\left( P \\right):y = a{x^2} + 4x - b\\) có đỉnh \\(I\\left( { - 1; - 5} \\right)\\) .",
+      "options": [
+        "A. \\(\\left\\{ \\begin{array}{l}a = 3\\\\b = - 2\\end{array} \\right..\\)",
+        "B. \\(\\left\\{ \\begin{array}{l}a = 3\\\\b = 2\\end{array} \\right..\\)",
+        "C. \\(\\left\\{ \\begin{array}{l}a = 2\\\\b = 3\\end{array} \\right..\\)",
+        "D. \\(\\left\\{ \\begin{array}{l}a = 2\\\\b = - 3\\end{array} \\right..\\)"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có: \\({x_I} = - 1 \\Rightarrow - \\frac{4}{{2a}} = - 1 \\Rightarrow a = 2.\\) Hơn nữa \\(I \\in \\left( P \\right)\\) nên \\( - 5 = a - 4 - b \\Rightarrow b = 3.\\)"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho hàm số \\[y = a{x^2} + bx + c\\] có đồ thị như hình bên. Khẳng định nào sau đây đúng?",
+      "options": [
+        "A. \\[a > 0\\] , \\[b > 0\\] , \\[c > 0\\] .",
+        "B. \\[a > 0\\], \\[b < 0\\], \\[c < 0\\].",
+        "C. \\[a < 0\\] , \\[b < 0\\] , \\[c > 0\\] .",
+        "D. \\[a < 0\\], \\[b > 0\\], \\[c > 0\\]."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Dựa vào đồ thị, nhận thấy: * Đồ thị hàm số là một parabol có bề lõm quay xuống dưới nên \\(a < 0\\). * Đồ thị cắt trục tung tại tung độ bằng \\(c\\) nên \\(c > 0\\). * Đồ thị cắt trục hoành tại hai điểm có hoành độ \\({x_1} = - 1\\) và \\({x_2} = 3\\) nên \\({x_1},{x_2}\\) là hai nghiệm của phương trình \\[a{x^2} + bx + c = 0\\] mà theo Vi-et \\[{x_1} + {x_2} = - \\frac{b}{a} = 2\\]\\[ \\Leftrightarrow b = - 2a \\Rightarrow b > 0\\]. Vậy \\[a < 0\\], \\[b > 0\\], \\[c > 0\\]."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Tọa độ giao điểm của \\(\\left( P \\right)\\,:\\,y = {x^2} - 4x\\) với đường thẳng \\(d\\,:\\,y = - x - 2\\) là",
+      "options": [
+        "A. \\(M\\left( {0;\\, - 2} \\right)\\) , \\(N\\left( {2;\\, - 4} \\right)\\) .",
+        "B. \\(M\\left( { - 1;\\, - 1} \\right)\\), \\(N\\left( { - 2;\\,0} \\right)\\).",
+        "C. \\(M\\left( {\\, - 3;\\,1} \\right)\\) , \\(N\\left( {3;\\, - 5} \\right)\\) .",
+        "D. \\(M\\left( {1;\\, - 3} \\right)\\), \\(N\\left( {2;\\, - 4} \\right)\\)."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Hoành độ giao điểm của \\(\\left( P \\right)\\) và \\(d\\) là nghiệm của phương trình: \\({x^2} - 4x = - x - 2\\, \\Leftrightarrow \\,{x^2} - 3x + 2 = 0\\, \\Leftrightarrow \\,\\left[ \\begin{array}{l}x = 1\\\\x = 2\\end{array} \\right.\\). Vậy tọa độ giao điểm của \\(\\left( P \\right)\\) và \\(d\\) là \\(M\\left( {1;\\, - 3} \\right)\\), \\(N\\left( {2;\\, - 4} \\right)\\)."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Khẳng định nào dưới đây đúng?",
+      "options": [
+        "A. Hàm số \\(y = - 3{x^2} + x + 2\\) có giá trị lớn nhất bằng \\(\\frac{{25}}{{12}}\\).",
+        "B. Hàm số \\(y = - 3{x^2} + x + 2\\) có giá trị nhỏ nhất bằng \\(\\frac{{25}}{{12}}\\).",
+        "C. Hàm số \\(y = - 3{x^2} + x + 2\\) có giá trị lớn nhất bằng \\(\\frac{{25}}{3}\\).",
+        "D. Hàm số \\(y = - 3{x^2} + x + 2\\) có giá trị nhỏ nhất bằng \\(\\frac{{25}}{3}\\)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có \\(\\Delta = {1^2} - 4 \\cdot \\left( { - 3} \\right) \\cdot 2 = 25\\). Vì \\(a = - 3 < 0\\) nên hàm số có giá trị lớn nhất là: \\(\\frac{{ - \\Delta }}{{4a}} = \\frac{{25}}{{12}}\\)."
+    }
+  ]
+}

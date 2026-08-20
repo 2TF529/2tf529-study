@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-trac-nghiem-bai-tap-cuoi-chuong-8-lop-9-co-dap-an",
+  "sourceId": "vietjack:1-trac-nghiem-bai-tap-cuoi-chuong-8-lop-",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.Trắc nghiệm Bài tập cuối chương 8 lớp 9 (có đáp án)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: I. Nhận biết Các kết quả của phép thử nào sau đây không cùng khả năng xảy ra?",
+      "options": [
+        "A. Gieo một con xúc xắc 2 lần.",
+        "B. Tung một đồng xu 2 lần.",
+        "C. Chọn ngẫu nhiên một số có 3 chữ số.",
+        "D. Xạ thủ bắn vào một tấm bia hình tròn có các đường tròn đồng tâm."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Khả năng xuất hiện các mặt của 1 con xúc xắc là như nhau nên các kết quả của phép thử A là đồng khả năng. Khả năng xuất hiện các mặt của 1 đồng xu là như nhau nên các kết quả của phép thử B là đồng khả năng. Khả năng xuất hiện được chọn của các số là như nhau nên các kết quả của phép thử C là đồng khả năng. Các vòng tròn đồng tâm trên tấm bia có diện tích khác nhau nên các kết quả của phép thử D không đồng khả năng."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Trong một hộp có các tờ giấy giống nhau ghi các số từ 1 đến 18. Lấy ngẫu nhiên một tờ giấy trong hộp. Số phần tử của không gian mẫu của phép thử là",
+      "options": [
+        "A. 1.",
+        "B. 9.",
+        "C. 18.",
+        "D. 24."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Không gian mẫu của phép thử là \\(\\Omega = \\left\\{ {1;\\,\\,2;\\,\\,3;...;\\,\\,17;\\,\\,18} \\right\\}\\). Vậy không gian mẫu của phép thử có \\(\\frac{{18 - 1}}{1} + 1 = 18\\) (phần tử)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Chọn ngẫu nhiên một số tự nhiên có 3 chữ số. Số kết quả thuận lợi cho biến cố “Số được chọn chia hết cho 10” là",
+      "options": [
+        "A. 900.",
+        "B. 90.",
+        "C. 9.",
+        "D. 5."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Các kết quả thuận lợi cho biến cố là \\[100\\,;\\,\\,110\\,;\\,\\,120\\,;\\,\\, \\ldots \\,;\\,\\,980\\,;\\,\\,990.\\] Số kết quả thuận lợi cho biến cố là \\(\\frac{{990 - 100}}{{10}} + 1 = 90\\) (kết quả)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Một hộp chứa 4 quả cầu trắng và 6 quả cầu xanh có kích thước và khối lượng như nhau. Lấy ngẫu nhiên 3 quả cầu từ trong hộp. Hoạt động nào sau đây không phải là biến cố của phép thử trên?",
+      "options": [
+        "A. Ba quả cầu lấy ra cùng màu với nhau.",
+        "B. Ba quả cầu lấy ra có ít nhất một quả màu trắng.",
+        "C. Ba quả cầu lấy ra gồm có ba màu.",
+        "D. Ba quả cầu lấy ra có nhiều nhất hai quả cầu màu xanh."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Các quả cầu trong hộp chỉ có hai màu trắng và xanh nên không thể xảy ra trường hợp lấy được ba quả cầu có ba màu."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Bạn An viết lên bảng một số tự nhiên có 2 chữ số và nhỏ hơn 50. Số kết quả thuận lợi của biến cố “Số được viết là số tròn chục” là",
+      "options": [
+        "A. 10.",
+        "B. 15.",
+        "C. 20.",
+        "D. 30."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Không gian mẫu của phép thử là \\[\\Omega = \\left\\{ {10\\,;\\,\\,11\\,;\\,\\,1\\,2\\,;\\,\\,13\\,;\\,\\,...\\,;\\,\\,48\\,;\\,\\,49\\,;\\,\\,50} \\right\\}\\]. Không gian mẫu của phép thử có \\(\\frac{{50 - 10}}{1} + 1 = 41\\) (phần tử). Các kết quả thuận lợi cho biến cố là \\[10\\,;\\,\\,20\\,;\\,\\,30\\,;\\,\\,40;\\,\\,50.\\] Do đó có 5 kết quả thuận lợi cho biến cố."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: II. Thông hiểu Lấy ngẫu nhiên hai viên bi từ một thùng có 4 bi xanh, 5 bi đỏ và 6 bi vàng. Số phần tử của không gian mẫu là",
+      "options": [
+        "A. 30.",
+        "B. 17.",
+        "C. 105.",
+        "D. 210."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Tổng số bi trong thùng là \\(4 + 5 + 6 = 15\\) (viên bi). Số cách chọn ngẫu nhiên 1 viên bi là 15 cách chọn. Số cách chọn ngẫu nhiên viên bi còn lại là 14 cách chọn. Suy ra số cách lấy ngẫu nhiên hai viên bi từ thùng là \\(15 \\cdot 14 = 210\\) (cách). Tuy nhiên mỗi cách chọn đã bị tính 2 lần. Do đó số phần tử của không gian mẫu là: \\(\\frac{{210}}{2} = 105\\) (phần tử)."
+    }
+  ]
+}

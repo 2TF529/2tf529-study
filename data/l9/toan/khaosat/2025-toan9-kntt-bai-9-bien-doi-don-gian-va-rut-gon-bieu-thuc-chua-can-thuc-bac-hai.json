@@ -1,0 +1,684 @@
+{
+  "id": "l9-toan-khaosat-2025-toan9-kntt-bai-9-bien-doi-don-gian-va-rut-gon-bieu-thuc-chua-can",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2025,
+  "code": "Bài 9: Biến đổi đơn giản và rút gọn biểu thức chứa căn thức bậc hai",
+  "title": "TOAN9 - KNTT-Bài 9: Biến đổi đơn giản và rút gọn biểu thức chứa căn thức bậc hai",
+  "duration": 87,
+  "answerSource": "official",
+  "sourceId": "hochanh:7168",
+  "passages": {
+    "p1": "App không chấm điểm câu hỏi này!\nBạn lựa chọn đạt / không đạt để tự chấm.",
+    "p2": "Sử dụng dữ kiện dưới đây để trả lời Bài 5, 6.\nMột khu đất hình tam giác vuông tiếp giáp hai thửa ruộng hình vuông có diện tích như hình vẽ bên dưới. <figure class=\"question-figure\"><img src=\"data/l9/toan/khaosat/assets/2025-toan9-kntt-bai-9-bien-doi-don-gian-va-rut-gon-bieu-thuc-chua-can-thuc-bac-hai/hinh-03.webp\" alt=\"Hình minh họa của đoạn đọc\" loading=\"lazy\"></figure>",
+    "p3": "Sử dụng dữ kiện của bài toán dưới đây để trả lời Bài 8, 9, 10.\nCho hình vuông ABCD được chia thành hai hình vuông và hai hình chữ nhật như hình vẽ. <figure class=\"question-figure\"><img src=\"data/l9/toan/khaosat/assets/2025-toan9-kntt-bai-9-bien-doi-don-gian-va-rut-gon-bieu-thuc-chua-can-thuc-bac-hai/hinh-04.webp\" alt=\"Hình minh họa của đoạn đọc\" loading=\"lazy\"></figure>"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "I. Nhân biết\nKhử mẫu biểu thức \\(\\sqrt {\\frac{3}{7}} \\) ta được",
+      "options": [
+        "A. \\(\\frac{3}{7}\\) .",
+        "B. \\(\\frac{{3\\sqrt{7} }}{7}\\) .",
+        "C. \\(\\frac{3}{{\\sqrt{7} }}\\) .",
+        "D. \\(\\frac{{\\sqrt {21} }}{7}\\) ."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Đưa thừa số ra ngoài dấu căn của \\(\\sqrt {96} \\) , ta được",
+      "options": [
+        "A. \\(4\\sqrt{6} \\) .",
+        "B. \\(3\\sqrt{8} \\) .",
+        "C. \\(5\\sqrt{6} \\) .",
+        "D. \\(3\\sqrt {10} \\) ."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Đưa thừa số vào trong dấu căn của \\(3\\sqrt {11} \\) ta được",
+      "options": [
+        "A. \\(\\sqrt {33} \\) .",
+        "B. \\(\\sqrt {99} \\) .",
+        "C. \\(\\sqrt {22} \\) .",
+        "D. \\(\\sqrt {14} \\) ."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Cho biểu thức \\(A < 0,\\,\\,B \\ge 0\\) , khẳng định nào sau đây đúng?",
+      "options": [
+        "A. \\(\\sqrt {{A^2}B} = A\\sqrt{B} \\) .",
+        "B. \\(\\sqrt {{A^2}B} = - A\\sqrt{B} \\) .",
+        "C. \\(\\sqrt {{A^2}B} = - B\\sqrt{A} \\) .",
+        "D. \\(\\sqrt {{A^2}B} = B\\sqrt{A} \\) ."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Chọn phát biểu sai trong các phát biểu sau:",
+      "options": [
+        "A. Nếu \\(a\\) là một số dương và \\(b\\) là một số không âm thì \\(\\sqrt {{a^2}b} = a\\sqrt{b} \\) .",
+        "B. Nếu \\(a\\) và \\(b\\) là hai số không âm thì \\(\\sqrt {{a^2}b} = a\\sqrt{b} \\) .",
+        "C. Nếu hai số \\(a,b\\) không âm thì \\(a\\sqrt{b} = - \\sqrt {{a^2}b} \\) .",
+        "D. Với các biểu thức \\(A,B\\) và \\(B > 0\\) , ta có: \\(\\frac{A}{{\\sqrt{B} }} = \\frac{{A\\sqrt{B} }}{B}\\) ."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "II. Thông hiểu\nGiá trị của biểu thức \\(\\sqrt {200\\sqrt{3} - 100} \\) là",
+      "options": [
+        "A. \\(100\\sqrt {\\sqrt{3} - 1} \\) .",
+        "B. \\(10\\sqrt {2\\sqrt{3} - 1} \\) .",
+        "C. \\(100\\sqrt {\\sqrt{3} + 1} \\) .",
+        "D. \\(10\\sqrt {2\\sqrt{3} + 1} \\) ."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Trục căn thức ở mẫu của \\(\\frac{{x + \\sqrt{5} }}{{\\sqrt{x} }}\\) ta được",
+      "options": [
+        "A. \\(\\sqrt{x} + 5\\) .",
+        "B. \\(\\frac{{\\sqrt{x} + \\sqrt{5} }}{x}\\) .",
+        "C. \\(\\frac{{x + \\sqrt{5} }}{x}\\) .",
+        "D. \\(\\frac{{\\sqrt{x} \\left( {x + \\sqrt{5} } \\right)}}{x}\\) ."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Rút gọn biểu thức \\(\\sqrt {128{a^4}{b^4}} - 5{b^2}\\) ta được",
+      "options": [
+        "A. \\({b^2}\\left( {8\\sqrt{2} {a^2} - 5} \\right)\\) .",
+        "B. \\(8\\sqrt{2} {a^2} - 5\\) .",
+        "C. \\({b^2}\\left( {64\\sqrt{2} {a^2} - 5} \\right)\\) .",
+        "D. \\(64\\sqrt{2} {a^2} - 5\\) ."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "content": "Giá trị của biểu thức \\(3\\sqrt{5} - \\sqrt {6 - 2\\sqrt{5} } \\) là",
+      "options": [
+        "A. \\(2\\sqrt{5} + 1\\) .",
+        "B. \\(2\\sqrt{5} - 1\\) .",
+        "C. \\(\\sqrt{5} - 1\\) .",
+        "D. \\(\\sqrt{5} + 1\\) ."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "content": "Trong các biểu thức sau đây, biểu thức có giá trị bằng với biểu thức \\(\\frac{1}{{2 + \\sqrt{x} }} - \\frac{1}{{2 - \\sqrt{x} }}\\) là",
+      "options": [
+        "A. \\( - \\frac{{2\\sqrt{x} }}{{4 - x}}\\) .",
+        "B. \\( - \\frac{{2\\sqrt{x} }}{{4 - {x^2}}}\\) .",
+        "C. \\( - \\frac{{2\\sqrt{x} }}{{2 - x}}\\) .",
+        "D. \\( - \\frac{{2\\sqrt{x} }}{{4 + x}}\\) ."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 11,
+      "type": "single",
+      "content": "Với \\(xy \\ne 0\\) thì biểu thức \\(0,3{x^3}{y^2}\\sqrt {\\frac{9}{{{x^4}{y^8}}}} \\) bằng",
+      "options": [
+        "A. \\(\\frac{{0,3}}{{{y^2}}}\\) .",
+        "B. \\(\\frac{{0,9\\left| x \\right|}}{{{y^2}}}\\) .",
+        "C. \\(\\frac{{0,9x}}{{{y^2}}}\\) .",
+        "D. \\(\\frac{{0,3\\left| x \\right|}}{{{y^2}}}\\) ."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 12,
+      "type": "single",
+      "content": "Giá trị của biểu thức \\(\\sqrt {{{\\left( {a - \\sqrt{3} } \\right)}^2}} + \\sqrt{2} \\) khi \\(a = \\sqrt{2} \\) là",
+      "options": [
+        "A. \\(\\sqrt{3} \\) .",
+        "B. \\(2\\sqrt{2} - 2\\) .",
+        "C. \\(2\\sqrt{3} \\) .",
+        "D. \\(\\sqrt{2} \\) ."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 13,
+      "type": "single",
+      "content": "Áp suất \\(P\\,\\,\\left( {{\\rm{lb/}}\\,{\\rm{i}}{{\\rm{n}}^{\\rm{2}}}} \\right)\\) cần thiết để ép nước qua một ống dài \\(L\\,\\,\\left( {{\\rm{ft}}} \\right)\\) và đường kính \\(d\\) (in) với tốc độ \\(v\\) (ft/s) được cho bởi công thức: \\(P = 0,00161 \\cdot \\frac{{{v^2}L}}{d}\\) .\n( Nguồn: Engineering Problems Illustrating Mathematics, John W. Cell, năm 1943 )\nB iểu thức biểu diễn của \\(v\\) theo \\(P,\\,\\,L\\) và \\(d\\) là",
+      "options": [
+        "A. \\(v = \\sqrt {\\frac{{Pd}}{{0,00161L}}} \\) .",
+        "B. \\(v = P\\sqrt {\\frac{d}{{0,00161L}}} \\) .",
+        "C. \\(v = d\\sqrt {\\frac{P}{{0,00161L}}} \\) .",
+        "D. \\(v = L\\sqrt {\\frac{{Pd}}{{0,00161}}} \\) ."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 14,
+      "type": "single",
+      "content": "Trong thuyết tương đối, khối lượng \\(m\\,\\,\\left( {{\\rm{kg}}} \\right)\\) của một vật khi chuyển động với vận tốc \\(v\\,\\,\\left( {{\\rm{m/}}\\,{\\rm{s}}} \\right)\\) được cho bởi công thức\n\\(m = \\frac{{{m_0}}}{{\\sqrt {1 - \\frac{{{v^2}}}{{{c^2}}}} }}\\) ,\ntrong đó \\({m_0}\\) là khối lượng của vật khi đứng yên;\n\\(c\\) (m/s) là vận tốc của ánh sáng trong chân không.\nKhối lượng \\(m\\) của vật còn có thể được tính bằng công thức nào dưới đây?",
+      "options": [
+        "A. \\(m = \\frac{{{m_0}.\\sqrt {1 - \\frac{{{v^2}}}{{{c^2}}}} }}{{1 - \\frac{{{v^2}}}{{{c^2}}}}}\\) .",
+        "B. \\(m = \\frac{{{m_0}}}{{1 - \\frac{{{v^2}}}{{{c^2}}}}}\\) .",
+        "C. \\(m = {m_0}.\\sqrt {1 - \\frac{{{v^2}}}{{{c^2}}}} \\) .",
+        "D. \\(m = \\frac{{\\sqrt {1 - \\frac{{{v^2}}}{{{c^2}}}} }}{{1 - \\frac{{{v^2}}}{{{c^2}}}}}\\) ."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 15,
+      "type": "single",
+      "content": "Với \\(x = 2\\) , biểu thức \\(5\\sqrt {3x} - \\sqrt {12x} + \\sqrt {75x} - 15\\) bằng \\(a\\sqrt {bx} - c\\) . Khi đó, giá trị của biểu thức \\(S = a + b + c\\) bằng",
+      "options": [
+        "A. 27.",
+        "B. 29.",
+        "C. 25.",
+        "D. 23."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 16,
+      "type": "single",
+      "content": "Giá trị của biểu thức A = 200 − 32 + 72 là",
+      "options": [
+        "A. 0.",
+        "B. 12 2 .",
+        "C. 8 2 .",
+        "D. 20 2 ."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 17,
+      "type": "single",
+      "content": "Giá trị của biểu thức \\(A = \\sqrt {50} - \\sqrt {128} + \\sqrt {162} - \\sqrt {18} \\) là",
+      "options": [
+        "A. \\(3\\sqrt{2} \\) .",
+        "B. \\(5\\sqrt{2} \\) .",
+        "C. \\(2\\sqrt{2} \\) .",
+        "D. \\(6\\sqrt{2} \\) ."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 18,
+      "type": "single",
+      "content": "Giá trị của biểu thức \\(A = \\frac{1}{y}\\sqrt {16y} .\\frac{1}{3}y\\sqrt {\\frac{{27}}{y}} \\) với y > 0 là",
+      "options": [
+        "A. 0.",
+        "B. \\(12\\sqrt{3} \\) .",
+        "C. \\(8\\sqrt{3} \\) .",
+        "D. \\(15\\sqrt{3} \\) ."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 19,
+      "type": "single",
+      "content": "Tính giá trị của biểu thức \\(B = 4\\sqrt{3} + \\sqrt {27} - \\sqrt {45} + \\sqrt{5} \\) .",
+      "options": [
+        "A. \\(B = 7\\sqrt{3} - 2\\sqrt{5} \\) .",
+        "B. \\(B = 7\\sqrt{3} + 2\\sqrt{5} \\) .",
+        "C. \\(B = - 7\\sqrt{3} - 2\\sqrt{5} \\) .",
+        "D. \\(B = - 7\\sqrt{3} + 2\\sqrt{5} \\) ."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 20,
+      "type": "single",
+      "content": "Tính giá trị của biểu thức \\(A = \\sqrt {63} - \\sqrt {252} - \\sqrt {343} + \\sqrt {175} \\) .",
+      "options": [
+        "A. \\(\\sqrt{7} \\) .",
+        "B. \\(3\\sqrt{7} \\) .",
+        "C. \\(11\\sqrt{7} \\) .",
+        "D. \\(5\\sqrt{7} \\) ."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 21,
+      "type": "single",
+      "content": "Tính giá trị của biểu thức \\(B = 4\\sqrt {20} - 3\\sqrt {125} - 5\\sqrt {45} + 15\\sqrt {\\frac{1}{5}} \\) .",
+      "options": [
+        "A. \\(B = - 9\\sqrt{5} \\) .",
+        "B. \\(B = 9\\sqrt{5} \\) .",
+        "C. \\(B = - 19\\sqrt{5} \\) .",
+        "D. \\(B = 19\\sqrt{5} \\) ."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 22,
+      "type": "single",
+      "content": "Giá trị của biểu thức B = 5 − 3 − 29 − 12 5 là",
+      "options": [
+        "A. 1.",
+        "B. − 5 .",
+        "C. 5 .",
+        "D. 2 5 ."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 23,
+      "type": "single",
+      "content": "Rút gọn biểu thức \\(B = \\sqrt {{a^2} + 6a + 9} + \\sqrt {{a^2} - 6a + 9} \\) với −3 \\le a \\le 3.",
+      "options": [
+        "A. 3.",
+        "B. a – 3.",
+        "C. a + 3.",
+        "D. 2a."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 24,
+      "type": "single",
+      "content": "Giá trị của biểu thức \\(A = \\sqrt {6 + 2\\sqrt {5 - \\sqrt {13 + \\sqrt {48} } } } \\) là",
+      "options": [
+        "A. \\(\\sqrt{3} + 1\\) .",
+        "B. \\(\\sqrt{3} - 1\\)",
+        "C. \\( - \\sqrt{3} + 1\\) .",
+        "D. \\( - \\sqrt{3} - 1\\) ."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 25,
+      "type": "single",
+      "content": "Giá trị của biểu thức \\(B = \\sqrt {4 + \\sqrt {5\\sqrt{3} + \\sqrt {48 - 10\\sqrt {7 + 4\\sqrt{3} } } } } \\) là",
+      "options": [
+        "A. \\(B = \\sqrt {4 + \\sqrt {4\\sqrt{3} + 5} } \\) .",
+        "B. \\(B = \\sqrt {4 + \\sqrt {4\\sqrt{3} - 5} } \\) .",
+        "C. \\(B = \\sqrt {4 + \\sqrt {4\\sqrt{5} + 5} } \\) .",
+        "D. \\(B = \\sqrt {5 + \\sqrt {4\\sqrt{3} + 5} } \\) ."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 26,
+      "type": "single",
+      "content": "Rút gọn biểu thức \\(A = \\frac{{\\sqrt {14} - \\sqrt{7} }}{{2 - \\sqrt{2} }}\\) ta được",
+      "options": [
+        "A. 7.",
+        "B. \\(\\frac{{\\sqrt {14} }}{2}\\) .",
+        "C. −7.",
+        "D. \\( - \\frac{{\\sqrt {14} }}{2}\\) ."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 27,
+      "type": "single",
+      "content": "Rút gọn biểu thức \\(B = \\sqrt {\\frac{{3 - \\sqrt{5} }}{{3 + \\sqrt{5} }}} \\) ta được",
+      "options": [
+        "A. \\(\\frac{{3 - \\sqrt{5} }}{2}\\) .",
+        "B. \\(\\frac{{3 + \\sqrt{5} }}{2}\\) .",
+        "C. \\(\\frac{{ - 3 - \\sqrt{5} }}{2}\\) .",
+        "D. \\(\\frac{{3\\sqrt{5} }}{2}\\) ."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 28,
+      "type": "single",
+      "content": "Rút gọn biểu thức B = a b + b b a + b − a b (a, b > 0) ta được",
+      "options": [
+        "A. 0.",
+        "B. 1.",
+        "C. a b .",
+        "D. − a b ."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 29,
+      "type": "single",
+      "content": "Rút gọn biểu thức A = a a − b − b a + b (a, b \\ge 0, a \\neq b) ta được",
+      "options": [
+        "A. a + b a − b .",
+        "B. a − b a + b .",
+        "C. 1.",
+        "D. 0."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 30,
+      "type": "single",
+      "content": "Kết quả của phép tính A = ( 15 6 + 1 − 4 6 − 2 − 12 3 − 6 ) ( 11 + 6 ) là",
+      "options": [
+        "A. A = − 52 6 − 227 .",
+        "B. A = − 52 6 + 227 .",
+        "C. A = 52 6 − 227 .",
+        "D. A = 52 6 + 227 ."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 31,
+      "type": "single",
+      "content": "Kết quả của biểu thức A = ( 1 − 5 + 5 1 + 5 ) ( 5 − 5 1 − 5 − 1 ) là",
+      "options": [
+        "A. 8.",
+        "B. −4.",
+        "C. 4.",
+        "D. 2."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 32,
+      "type": "single",
+      "content": "Thực hiện phép tính A = ( 2 3 − 1 + 3 3 − 2 + 15 3 − 3 ) . 1 3 + 5 được kết quả là",
+      "options": [
+        "A. −1.",
+        "B. 1.",
+        "C. − 1 2 .",
+        "D. 1 2 ."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 33,
+      "type": "single",
+      "content": "Thực hiện phép tính \\(B = \\left( {\\frac{{\\sqrt {14} - \\sqrt{7} }}{{1 - \\sqrt{2} }} + \\frac{{\\sqrt {15} - \\sqrt{5} }}{{1 - \\sqrt{3} }}} \\right):\\frac{1}{{\\sqrt{7} - \\sqrt{5} }}\\) .",
+      "options": [
+        "A. 2.",
+        "B. −2.",
+        "C. \\({\\left( {\\sqrt{7} - \\sqrt{5} } \\right)^2}\\) .",
+        "D. 0."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 34,
+      "type": "single",
+      "content": "Rút gọn biểu thức \\(B = \\frac{{\\left( {a\\sqrt{b} + b} \\right)\\left( {\\sqrt{a} + \\sqrt{b} } \\right)}}{{a - b}}.\\sqrt {\\frac{{ab + {b^2} - 2\\sqrt {a{b^3}} }}{{a\\left( {a + 2\\sqrt{b} } \\right) + b}}} \\)\nvới (a, b > 0) được",
+      "options": [
+        "A. a.",
+        "B. b.",
+        "C. 0.",
+        "D. 1."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 35,
+      "type": "single",
+      "content": "Rút gọn biểu thức A = 2 + 3 2 − 3 + 2 − 3 2 + 3 ta được",
+      "options": [
+        "A. 0.",
+        "B. 1.",
+        "C. 4.",
+        "D. 2 3 ."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 36,
+      "type": "single",
+      "content": "Giá trị nhỏ nhất của biểu thức \\(A = \\frac{{x + 2}}{{\\sqrt{x} }}\\) (x > 0) là",
+      "options": [
+        "A. \\(2\\sqrt{2} \\) .",
+        "B. 4.",
+        "C. 2.",
+        "D. \\(\\sqrt{2} \\) ."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 37,
+      "type": "single",
+      "content": "Giá trị lớn nhất của biểu thức \\(B = \\frac{{2\\sqrt{x} + 9}}{{\\sqrt{x} + 2}}\\) (x \\ge 0) là",
+      "options": [
+        "A. \\(\\frac{9}{2}\\) .",
+        "B. \\( - \\frac{9}{2}\\) .",
+        "C. 0.",
+        "D. 1."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 38,
+      "type": "single",
+      "content": "Biểu thức \\(C = \\frac{{2\\sqrt{x} + 11}}{{3\\sqrt{x} + 2}}\\) đạt giá trị lớn nhất tại x bằng:",
+      "options": [
+        "A. \\(\\frac{{11}}{2}\\) .",
+        "B. \\( - \\frac{{11}}{2}\\) .",
+        "C. 0.",
+        "D. 1."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 39,
+      "type": "single",
+      "content": "Biểu thức \\(D = \\frac{{x - \\sqrt{x} + 1}}{x}\\) đạt giá trị nhỏ nhất tại x bằng:",
+      "options": [
+        "A. \\(\\frac{3}{4}\\) .",
+        "B. 4.",
+        "C. \\(\\frac{1}{4}.\\)",
+        "D. 2."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 40,
+      "type": "single",
+      "content": "Cho biểu thức \\(D = \\left( {\\frac{{\\sqrt{x} - 2}}{{x - 1}} - \\frac{{\\sqrt{x} + 2}}{{x + 2\\sqrt{x} + 1}}} \\right).\\frac{{{{\\left( {1 - x} \\right)}^2}}}{2}\\) với x \\ge 0, x \\neq 1. Giá trị lớn nhất của D là:",
+      "options": [
+        "A. \\(\\frac{1}{4}\\) .",
+        "B. \\( - \\frac{1}{4}\\) .",
+        "C. \\(\\frac{1}{2}\\) .",
+        "D. 1."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 41,
+      "type": "single",
+      "content": "Cho biểu thức \\(A = \\frac{{\\sqrt{x} }}{{\\sqrt{x} - 1}} + \\frac{{\\sqrt{x} }}{{x - 1}}\\) và \\(B = \\frac{{\\sqrt{x} + 2}}{{x + \\sqrt{x} }}\\) với x > 0 và x \\neq 1. Tính giá trị nhỏ nhất của \\(P = \\frac{A}{B} + 2018\\) khi x > 1",
+      "options": [
+        "A. 4.",
+        "B. 2020.",
+        "C. 2018.",
+        "D. 2022."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 42,
+      "type": "single",
+      "content": "Cho biểu thức \\(P = \\frac{{x - 9}}{{\\sqrt{x} }}\\) và \\(Q = \\frac{{\\sqrt{x} + 1}}{{\\sqrt{x} + 3}} - \\frac{{2\\sqrt{x} + 5}}{{9 - x}}\\) với x > 0 và x \\neq 9. Tổng tất cả các giá trị của x để A = P.Q đạt giá trị nhỏ nhất là",
+      "options": [
+        "A. 4.",
+        "B. 0.",
+        "C. 2.",
+        "D. \\(2\\sqrt{2} \\) ."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 43,
+      "type": "single",
+      "content": "Cho biểu thức \\(A = \\frac{{\\sqrt{x} + 5}}{{2\\sqrt{x} - 1}}\\) và \\(B = \\frac{{\\sqrt{x} + 1}}{{\\sqrt{x} - 1}} + \\frac{{\\sqrt{x} - 1}}{{\\sqrt{x} + 1}} - \\frac{{3\\sqrt{x} + 1}}{{x - 1}}\\) với x \\ge 0, x \\neq 1, x \\neq \\(\\frac{1}{4}\\) . Giá trị của x để M = A.B đạt giá trị lớn nhất là:",
+      "options": [
+        "A. 4.",
+        "B. 5.",
+        "C. 0.",
+        "D. 1."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 44,
+      "type": "single",
+      "content": "Cho biểu thức \\(A = \\frac{{\\sqrt{x} - 2}}{{\\sqrt{x} + 3}}\\) và \\(B = \\left( {\\frac{{3\\sqrt{x} + 6}}{{x - 4}} + \\frac{{\\sqrt{x} }}{{\\sqrt{x} - 2}}} \\right):\\frac{{x - 9}}{{\\sqrt{x} - 3}}\\) với\nx \\ge 0, x \\neq 4, x \\neq 9. Giá trị lớn nhất của biểu thức M = A.B là:",
+      "options": [
+        "A. \\(\\frac{1}{3}\\) .",
+        "B. 0.",
+        "C. \\( - \\frac{1}{3}\\) .",
+        "D. 1."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 45,
+      "type": "single",
+      "content": "Cho hai biểu thức \\(P = \\frac{{x + 3}}{{\\sqrt{x} - 2}}\\) và \\(Q = \\frac{{\\sqrt{x} - 1}}{{\\sqrt{x} + 2}} - \\frac{{5\\sqrt{x} - 2}}{{4 - x}}\\) với x > 0 và\nx \\neq 4. Giá trị của x để biểu thức \\(\\frac{P}{Q}\\) đạt giá trị nhỏ nhất là",
+      "options": [
+        "A. \\(3\\sqrt{2} \\) .",
+        "B. \\(2\\sqrt{3} \\) .",
+        "C. 0.",
+        "D. 3."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 46,
+      "type": "single",
+      "content": "Khi bay vào không gian, trọng lượng P (N) của một phi hành gia ở vị trí cách mặt đất một độ cao h (m) được tính theo công thức P = \\(\\frac{{{{28014.10}^{12}}}}{{{{\\left( {{{64.10}^5} + h} \\right)}^2}}}\\) . Ở độ cao bao nhiêu mét thì trọng lượng của phi hành gia là 619 N? (làm tròn đến kết quả phần mười).",
+      "options": [
+        "A. 327 322,3 (m).",
+        "B. 327 (m).",
+        "C. 327,3 (m).",
+        "D. 3 273,3 (m)."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 47,
+      "type": "single",
+      "content": "Ngày 28/9/2018, sau trận động đất 7,5 độ Richter, cơn sóng thần cao hơn 6 m đã tràn vào đảo Sulawesi (Indonesia) và tàn phá thành phpps Palu gây thiệt hại vô vùng to lớn. Tốc dộ cơn sóng thần v (m/s) và chiều sâu đại dương d (m) của nơi bắt đầu sóng thần liên hệ bởi công thức v = \\(\\sqrt {dg} \\) trong đó g = 9,81 m/s 2 .\nTheo tính toán của các nhà khoa học địa chất, tốc độ cơn sóng thần ngày 28/9/2018 là 800 km/h. Hãy tính chiều sâu đại dương của nơi tâm chấn động đất gây ra sóng thần (làm tròn đến kết quả hàng đơn vị của mét).",
+      "options": [
+        "A. 503,4 m.",
+        "B. 5,034 m.",
+        "C. 50,34 m.",
+        "D. 0,53 m."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 48,
+      "type": "single",
+      "content": "Biết rằng nhiệt lượng tỏa ra trên dây dẫn được cho bởi công thức Q = I 2 Rt, trong đó Q là nhiệt lượng tính bằng đơn vị Joule (J), R là điện trở tính bằng \\(\\Omega \\) , I là cường độ dòng điện được tính bằng Ampe, t là thời gian tính bằng giây (s). Dòng điện chạy qua một dây dẫn có R = 10 \\(\\Omega \\) trong thời gian 5 giây. Cường độ dòng điện là bao nhiêu ampe để nhiệt lượng tỏa ra trên dây dẫn đạt 800 J?",
+      "options": [
+        "A. −4 A.",
+        "B. 4 A.",
+        "C. 16 A.",
+        "D. 2,5 A."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 49,
+      "type": "single",
+      "content": "Biết rằng hình thang và hình chữ nhật có diện tích bằng nhau. Tính chiều cao h của hình thang. <figure class=\"question-figure\"><img src=\"data/l9/toan/khaosat/assets/2025-toan9-kntt-bai-9-bien-doi-don-gian-va-rut-gon-bieu-thuc-chua-can-thuc-bac-hai/hinh-01.webp\" alt=\"Hình minh họa của câu hỏi\" loading=\"lazy\"></figure>",
+      "options": [
+        "A. \\(\\sqrt{6} + \\sqrt{3} \\) .",
+        "B. \\(6\\sqrt{6} \\) .",
+        "C. \\(12 + 6\\sqrt{2} \\) .",
+        "D. \\(12 - 6\\sqrt{2} \\) ."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 50,
+      "type": "single",
+      "content": "Một vườn hoa gồm ba hình vuông X, Y, Z lần lượt có diện tích như hình vẽ. <figure class=\"question-figure\"><img src=\"data/l9/toan/khaosat/assets/2025-toan9-kntt-bai-9-bien-doi-don-gian-va-rut-gon-bieu-thuc-chua-can-thuc-bac-hai/hinh-02.webp\" alt=\"Hình minh họa của câu hỏi\" loading=\"lazy\"></figure> Chu vi của vườn hoa đó là:",
+      "options": [
+        "A. \\(12\\sqrt{2} \\) m.",
+        "B. \\(8\\sqrt{2} \\) m.",
+        "C. \\(16\\sqrt{2} \\) m.",
+        "D. \\(36\\sqrt{2} \\) m."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 51,
+      "passageId": "p2",
+      "type": "single",
+      "content": "Cạnh của thửa ruộng hình vuông lớn là:",
+      "options": [
+        "A. \\(40\\sqrt{2} \\) m.",
+        "B. \\(30\\sqrt{2} \\) m.",
+        "C. \\(50\\sqrt{2} \\) m.",
+        "D. \\(120\\sqrt{2} \\) m."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 52,
+      "passageId": "p2",
+      "type": "single",
+      "content": "Độ dài cạnh huyền của tam giác hình vuông màu xanh là:",
+      "options": [
+        "A. \\(40\\sqrt{2} \\) m.",
+        "B. \\(30\\sqrt{2} \\) m.",
+        "C. \\(50\\sqrt{2} \\) m.",
+        "D. \\(120\\sqrt{2} \\) m."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 53,
+      "passageId": "p3",
+      "type": "single",
+      "content": "Độ dài đường chéo của hình vuông AMIN là",
+      "options": [
+        "A. \\(\\sqrt{2} \\) cm.",
+        "B. \\(3\\sqrt{2} \\) cm.",
+        "C. \\(2\\sqrt{2} \\) cm.",
+        "D. \\(5\\sqrt{2} \\) cm."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 54,
+      "passageId": "p3",
+      "type": "single",
+      "content": "Độ dài đường chéo của hình vuông CEIF là",
+      "options": [
+        "A. \\(\\sqrt{2} \\) cm.",
+        "B. \\(3\\sqrt{2} \\) cm.",
+        "C. \\(2\\sqrt{2} \\) cm.",
+        "D. \\(5\\sqrt{2} \\) cm."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 55,
+      "passageId": "p3",
+      "type": "single",
+      "content": "Độ dài đường chéo của hình vuông ABCD là:",
+      "options": [
+        "A. \\(\\sqrt{2} \\) cm.",
+        "B. \\(3\\sqrt{2} \\) cm.",
+        "C. \\(2\\sqrt{2} \\) cm.",
+        "D. \\(5\\sqrt{2} \\) cm."
+      ],
+      "answer": "D"
+    }
+  ]
+}

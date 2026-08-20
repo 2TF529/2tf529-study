@@ -1,0 +1,196 @@
+{
+  "id": "l12-toan-totnghiep-2026-de-kscl-thpt-toan-truong-thpt-an-duong-tinh-hai-phong-2026-lan-1",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "code": "THPT_TTT_2026_HP_01",
+  "title": "Đề khảo sát chất lượng THPT môn Toán trường THPT An Dương Sở GD&ĐT Hải Phòng năm 2026 - Lần 1",
+  "duration": 90,
+  "answerSource": "official",
+  "source": "https://dolthpt.vn/tot-nghiep-thpt/pdf-de-kscl-thpt-toan-truong-thpt-an-duong-tinh-hai-phong-2026-lan-1-co-dap-an",
+  "notes": "Nội dung, đáp án và lời giải được nhập từ bản công khai của DOL THPT.",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "content": "Cho hàm số $y=f(x)$ có đồ thị $(C)$ như hình vẽ. Tiệm cận ngang của đồ thị hàm số là đường thẳng có phương trình\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-kscl-thpt-toan-truong-thpt-an-duong-tinh-hai-phong-2026-lan-1/cau-01.webp\" alt=\"Hình minh họa câu 1\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "đường tiệm cận ngang",
+      "type": "single",
+      "options": [
+        "A. $x=-1$",
+        "B. $x=1$",
+        "C. $y=2$",
+        "D. $y=-2$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cho hàm số $y=f(x)$ có đồ thị $(C)$ như hình vẽ.\n- Trên hình vẽ có: - Trục tọa độ $Ox, Oy$\n  - Một đường thẳng song song với trục $Ox$ đi qua mức $y=2$\n- Các phương án trả lời gồm: - $x=-1$\n  - $x=1$\n  - $y=2$\n  - $y=-2$\n❓ **Hiểu câu hỏi:**\n- Bài toán yêu cầu **tìm tiệm cận ngang** của đồ thị hàm số.\n- Học sinh cần áp dụng kiến thức: - Khái niệm **tiệm cận ngang**: Đường thẳng $y=L$ được gọi là tiệm cận ngang của đồ thị nếu khi $x \\to \\pm\\infty$ thì $f(x) \\to L$.\n  - Quan sát đồ thị để xem đồ thị “tiến gần” đường thẳng nào khi $x$ rất lớn hoặc rất nhỏ.\n🔎 **Hướng dẫn cách làm:**\n- Bước 1: Nhắc lại định nghĩa - Tiệm cận ngang có dạng $y = L$ (là **đường thẳng song song trục **$Ox$).\n- Bước 2: Quan sát đồ thị khi $x \\to +\\infty$ - Nhánh bên phải của đồ thị tiến gần đến đường thẳng $y=2$.\n- Bước 3: Quan sát đồ thị khi $x \\to -\\infty$ - Nhánh bên trái của đồ thị cũng tiến gần đến đường thẳng $y=2$.\n- Bước 4: Kết luận - Vì đồ thị tiến sát đường thẳng $y=2$ khi $x$ tiến ra vô cực nên $y=2$ là tiệm cận ngang.\n- Bước 5: Loại các phương án sai - $x=-1, x=1$ là các đường thẳng **đứng** → không phải tiệm cận ngang.\n  - $y=-2$ không đúng theo hình vẽ.\n✅ **Đáp án:    **$\\boxed{y=2}$\n👉 **Chọn đáp án C.**"
+    },
+    {
+      "id": 2,
+      "content": "Cho hàm số $y=f(x)$ có bảng biến thiên như sau. Hàm số đã cho đồng biến trên khoảng nào dưới đây?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-kscl-thpt-toan-truong-thpt-an-duong-tinh-hai-phong-2026-lan-1/cau-02.webp\" alt=\"Hình minh họa câu 2\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "tính đơn điệu của hàm số",
+      "type": "single",
+      "options": [
+        "A. $(-1;1)$",
+        "B. $(1;+\\infty)$",
+        "C. $(0;1)$",
+        "D. $(-1;0)$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cho hàm số $y=f(x)$ có **bảng biến thiên**.\n- Các mốc quan trọng trên trục $x$ là: - $x=-1,; x=0,; x=1$\n- Dấu của đạo hàm $f'(x)$: - $f'(x)>0$ trên $(-\\infty,-1)$\n  - $f'(x)<0$ trên $(-1,0)$\n  - $f'(x)>0$ trên $(0,1)$\n  - $f'(x)<0$ trên $(1,+\\infty)$\n- Các phương án lựa chọn: - A. $(-1;1)$\n  - B. $(1;+\\infty)$\n  - C. $(0;1)$\n  - D. $(-1;0)$\n❓ **Hiểu câu hỏi:**\n- Bài toán hỏi: **Hàm số đồng biến trên khoảng nào?**\n- Học sinh cần áp dụng kiến thức: - Hàm số **đồng biến** trên khoảng khi $f'(x)>0$ trên khoảng đó.\n  - Đọc bảng biến thiên để xác định dấu của $f'(x)$.\n🔎 **Hướng dẫn cách làm:**\n- Bước 1: Nhắc lại kiến thức quan trọng - Hàm số **đồng biến** ⇔ $f'(x)>0$.\n- Bước 2: Quan sát hàng $f'(x)$ trong bảng biến thiên - $f'(x)>0$ trên các khoảng:\n$(-\\infty,-1)\\quad \\text{và}\\quad (0,1)$\n- Bước 3: So sánh với các phương án - $(-1;1)$ ❌ vì trong đó có đoạn $(-1,0)$ thì $f'(x)<0$\n  - $(1;+\\infty)$ ❌ vì $f'(x)<0$\n  - $(0;1)$ ✅ vì $f'(x)>0$\n  - $(-1;0)$ ❌ vì $f'(x)<0$\n- Bước 4: Chọn khoảng thỏa mãn yêu cầu bài toán.\n✅ **Đáp án:   **$\\boxed{(0;1)}$\n👉 **Chọn đáp án C.**"
+    },
+    {
+      "id": 3,
+      "content": "Cho cấp số cộng $(u_n)$ có số hạng đầu $u_1=3$, công sai $d=-4$. Số hạng thứ năm của cấp số cộng là",
+      "chuong": "dãy số. cấp số cộng và cấp số nhân",
+      "dang": "số hạng tổng quát của cấp số cộng",
+      "type": "single",
+      "options": [
+        "A. $-3072$",
+        "B. $-13$",
+        "C. $-17$",
+        "D. \\$768$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- *Cấp số cộng* $(u_n)$ có số hạng đầu $u_1=3$.\n- Công sai $d=-4$.\n- Yêu cầu: tìm số hạng thứ năm $u_5$.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu tính số hạng thứ 5 của một cấp số cộng.\n- Cần áp dụng công thức của cấp số cộng và thực hiện phép tính cộng / nhân đơn giản.\n🔎 **Hướng dẫn cách làm:**\n- Công thức tổng quát của cấp số cộng:\n$u_n = u_1 + (n-1)d$\n- Áp dụng với $n=5$:\n$u_5 = u_1 + (5-1)d$\n- Thay số: $u_5 = 3 + 4\\cdot(-4)$\n- Tính: \\$4\\cdot(-4)=-16$ nên $u_5=3-16=-13$\n- Kiểm tra bằng cách liệt kê các số hạng:\n$u_1=3,\\; u_2=3+(-4)=-1,\\; u_3=-5,\\; u_4=-9,\\; u_5=-13$ — đúng như kết quả.\n✅ **Đáp án:** $\\text{B. -13}$"
+    },
+    {
+      "id": 4,
+      "content": "Một chất điểm chuyển động có phương trình $s=2t^2+3t$ ($t$ tính bằng giây, $s$ tính bằng mét). Vận tốc của chất điểm tại thời điểm $t_0=2$ (giây) bằng",
+      "chuong": "đạo hàm",
+      "dang": "đạo hàm của hàm số tại một điểm",
+      "type": "single",
+      "options": [
+        "A. \\$19,m/s$",
+        "B. \\$22,m/s$",
+        "C. \\$11,m/s$",
+        "D. \\$9,m/s$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm vị trí theo thời gian của một chất điểm: $s(t)=2t^2+3t$ (đơn vị: $t$ tính bằng giây, $s$ tính bằng mét).\n- Yêu cầu: vận tốc tại thời điểm $t_0=2\\ \\text{s}$.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu tính vận tốc tức thời của chất điểm tại thời điểm $t_0=2\\ \\text{s}$.\n- Kiến thức cần áp dụng: vận tốc tức thời là đạo hàm của hàm li độ theo thời gian, tức là $v(t)=\\dfrac{ds}{dt}$.\n🔎 **Hướng dẫn cách làm:**\n- Viết công thức liên hệ giữa vận tốc và quãng đường: $v(t)=s'(t)=\\frac{ds}{d}t}.$\n- Tính đạo hàm của $s(t)=2t^2+3t$ theo $t$:\n$s'(t)=\\frac{d}{d}t}(2t^2+3t)=4t+3.$\n- Thay $t=2$ vào biểu thức vận tốc:\n$v(2)=4\\cdot 2+3=8+3=11.$\n- Ghi đơn vị: vận tốc có đơn vị mét trên giây (m/s), nên kết quả là \\$11\\ \\text{m/s}.$\n✅ **Đáp án:** $C. 11\\ \\text{m/s}$"
+    },
+    {
+      "id": 5,
+      "content": "Doanh thu bán hàng trong \\$20$ ngày được lựa chọn ngẫu nhiên của một cửa hàng được ghi lại ở bảng sau (đơn vị: triệu đồng). Số trung bình của mẫu số liệu trên thuộc khoảng nào trong các khoảng dưới đây?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-kscl-thpt-toan-truong-thpt-an-duong-tinh-hai-phong-2026-lan-1/cau-05.webp\" alt=\"Hình minh họa câu 5\" loading=\"lazy\"></figure>",
+      "chuong": "các số đặc trưng đo xu thế trung tâm của mẫu số liệu ghép nhóm",
+      "dang": "số trung bình của mẫu số liệu ghép nhóm",
+      "type": "single",
+      "options": [
+        "A. $[11;13)$",
+        "B. $[13;15)$",
+        "C. $[9;11)$",
+        "D. $[7;9)$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Doanh thu (triệu đồng) được phân bố theo các lớp: $[5;7),\\ [7;9),\\ [9;11),\\ [11;13),\\ [13;15)$ .\n- Số ngày tương ứng (tần suất): \\$2,\\ 7,\\ 7,\\ 3,\\ 1$.\n- Tổng số ngày mẫu: \\$20$.\n- Câu hỏi: tìm khoảng chứa số trung bình mẫu của 20 ngày trên.\n❓ **Hiểu câu hỏi:**\n- Cần tính số trung bình mẫu (giá trị trung bình) của dữ liệu nhóm.\n- Kiến thức cần dùng: với dữ liệu phân bố theo lớp, dùng tâm lớp để xấp xỉ giá trị trung bình mẫu.\n- Sau khi tính trung bình, xác định khoảng (trong các phương án) chứa giá trị trung bình đó.\n🔎 **Hướng dẫn cách làm:**\n- Xác định tâm mỗi lớp: - $m_1=\\frac{5+7}{2}=6,\\ m_2=8,\\ m_3=10,\\ m_4=12,\\ m_5=14.$\n- Ghi tần suất tương ứng: $f_1=2,\\ f_2=7,\\ f_3=7,\\ f_4=3,\\ f_5=1.$\n- Công thức tính trung bình mẫu xấp xỉ cho dữ liệu theo lớp:\n$\\bar{x}=\\frac{\\sum_{i} f_i m_i}{\\sum_{i} f_i}.$\n- Tính tử số:\n$\\sum f_i m_i = 6\\cdot2 + 8\\cdot7 + 10\\cdot7 + 12\\cdot3 + 14\\cdot1$\n$=12 + 56 + 70 + 36 + 14 = 188.$\n- Chia cho tổng tần suất (n = 20):\n$\\bar{x}=\\frac{188}{2}0}=9{.}4.$\n- Kết luận: \\$9{.}4$ nằm trong khoảng $[9;11).$\n✅ **Đáp án:** C. $[9;11)$"
+    },
+    {
+      "id": 6,
+      "content": "Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình chữ nhật với $AD=a$, cạnh bên $SA$ vuông góc với đáy và $SA=a\\sqrt{3}$. Số đo của góc nhị diện $[S,DC,B]$ bằng",
+      "chuong": "quan hệ vuông góc trong không gian",
+      "dang": "góc nhị diện",
+      "type": "single",
+      "options": [
+        "A. \\$90^\\circ$",
+        "B. \\$60^\\circ$",
+        "C. \\$30^\\circ$",
+        "D. \\$45^\\circ$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cho hình chóp $S.ABCD$.\n- Đáy $ABCD$ là hình chữ nhật.\n- $AD = a$.\n- $SA \\perp (ABCD)$.\n- $SA = a\\sqrt{3}$.\n- Yêu cầu: tính **góc nhị diện** $[S,DC,B]$.\n❓ **Hiểu câu hỏi:**\n- Góc nhị diện $[S,DC,B]$ là **góc giữa hai mặt phẳng**: - Mặt phẳng $(ABCD)$\n  - Mặt phẳng $(SCD)$\n- Học sinh cần áp dụng: - Cách xác định góc nhị diện thông qua **hai đường thẳng cùng vuông góc với giao tuyến**.\n  - Kiến thức tam giác vuông và tỉ số lượng giác.\n🔎 **Hướng dẫn cách làm:**\n- **Bước 1: Xác định hai mặt phẳng và giao tuyến chung** - Hai mặt phẳng cần xét là $(ABCD)$ và $(SCD)$.\n  - Giao tuyến chung của hai mặt phẳng là:\n$CD$\n- **Bước 2: Tìm đường thẳng vuông góc với **$CD$** trong mặt phẳng **$(ABCD)$ - Vì $ABCD$ là hình chữ nhật nên:    $AD \\perp CD$\n  - Do đó, $AD \\subset (ABCD)$ và $AD \\perp CD$.\n- **Bước 3: Tìm đường thẳng vuông góc với **$CD$** trong mặt phẳng **$(SCD)$ - Do $SA \\perp (ABCD)$ nên:   $SA \\perp CD$\n  - Trong tam giác $SAD$, ta có:   $SD \\perp CD$\n  - Suy ra:   $SD \\subset (SCD)\\quad \\text{và}\\quad SD \\perp CD$.\n- **Bước 4: Xác định góc nhị diện** - Góc nhị diện $[S,DC,B]$ chính là **góc giữa hai đường thẳng **$AD$** và **$SD$, tức là:\n$\\widehat{SDA}$\n- **Bước 5: Tính góc **$\\widehat{SDA}$ - Xét tam giác $SAD$ vuông tại $A$:    $SA \\perp AD$\n  - Ta có:   $SA = a\\sqrt{3}, \\quad AD = a$\n  - Tính độ dài $SD$:   $SD = \\sqrt{SA^2 + AD^2} = \\sqrt{3a^2 + a^2} = 2a$\n  - Khi đó:   $\\tan \\widehat{SDA} = \\frac{SA}{S}D} = \\frac{a\\sqrt{3}}{2a} = \\frac{\\sqrt{3}}{2}$\n  - Suy ra:   $\\widehat{SDA} = 60^\\circ$\n- **Bước 6: Kết luận** - Góc nhị diện $[S,DC,B] = 60^\\circ$.\n✅ **Đáp án:** $\\boxed{60^\\circ}$"
+    },
+    {
+      "id": 7,
+      "content": "Cho hàm số $y=f(x)$ có đồ thị như hình vẽ. Khi đó $\\lim_{x\\to +\\infty}f(x)$ bằng\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-kscl-thpt-toan-truong-thpt-an-duong-tinh-hai-phong-2026-lan-1/cau-07.webp\" alt=\"Hình minh họa câu 7\" loading=\"lazy\"></figure>",
+      "chuong": "giới hạn. hàm số liên tục",
+      "dang": "giới hạn hữu hạn của hàm số tại vô cực",
+      "type": "single",
+      "options": [
+        "A. $-\\infty$",
+        "B. $+\\infty$",
+        "C. \\$1$",
+        "D. $-1$"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cho hàm số $y=f(x)$ có **đồ thị như hình vẽ**.\n- Trên đồ thị ta quan sát được: - Có một đường thẳng đứng (tiệm cận đứng) tại $x=1$.\n  - Có một đường thẳng ngang (tiệm cận ngang) tại $y=-1$.\n- Cần tính giới hạn:\n$\\lim_{x\\to +\\infty} f(x)$\n- Các phương án trả lời: - A. $-\\infty$\n  - B. $+\\infty$\n  - C. \\$1$\n  - D. $-1$\n❓ **Hiểu câu hỏi:**\n- Bài toán hỏi: **Giá trị mà hàm số tiến tới khi **$x$** tăng rất lớn**.\n- Học sinh cần áp dụng kiến thức: - Khái niệm **giới hạn của hàm số khi **$x \\to +\\infty$.\n  - Mối liên hệ giữa **giới hạn hữu hạn** và **tiệm cận ngang** của đồ thị.\n🔎 **Hướng dẫn cách làm:**\n- **Bước 1: Quan sát nhánh đồ thị bên phải** - Xét phần đồ thị ứng với $x > 1$ (bên phải trục tung và bên phải tiệm cận đứng).\n- **Bước 2: Xét hành vi của đồ thị khi **$x$** tăng dần** - Khi $x \\to +\\infty$, nhánh đồ thị đi xuống và **tiến dần đến đường thẳng **$y=-1$.\n- **Bước 3: Nhận xét về giới hạn** - Vì đồ thị tiến sát (nhưng không cắt) đường thẳng $y=-1$ nên:\n$\\lim_{x\\to +\\infty} f(x) = -1$\n- **Bước 4: So sánh với các phương án** - Không tiến tới $+\\infty$ hay $-\\infty$ ❌\n  - Không tiến tới \\$1$ ❌\n  - Tiến tới $-1$ ✅\n✅ **Đáp án:**  $\\boxed{-1}$\n👉 **Chọn đáp án D.**"
+    },
+    {
+      "id": 8,
+      "content": "Nghiệm của phương trình $\\sqrt{3}+3\\tan x=0$ là",
+      "chuong": "hàm số lượng giác và phương trình lượng giác",
+      "dang": "phương trình tanx=m",
+      "type": "single",
+      "options": [
+        "A. $x=\\dfrac{\\pi}{2}+k\\pi$",
+        "B. $x=-\\dfrac{\\pi}{6}+k\\pi$",
+        "C. $x=\\dfrac{\\pi}{3}+k\\pi$",
+        "D. $x=\\dfrac{\\pi}{2}+k2\\pi$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Phương trình: $\\sqrt{3}+3\\tan x=0.$\n❓ **Hiểu câu hỏi:**\n- Cần tìm mọi nghiệm của phương trình chứa hàm số lượng giác $\\tan x$.\n- Kiến thức cần dùng: phép biến đổi đại số, công thức nghiệm tổng quát của phương trình $\\tan x = a$ (tính tuần hoàn của hàm tan).\n🔎 **Hướng dẫn cách làm:**\n- Chuyển vế: \\$3\\tan x = -\\sqrt{3}.$\n- Chia cả hai vế cho 3: $\\tan x = -\\dfrac{\\sqrt{3}}{3} = -\\dfrac{1}{\\sqrt{3}}.$\n- Nhận thấy $\\tan\\left(\\dfrac{\\pi}{6}\\right)=\\dfrac{1}{\\sqrt{3}},$ nên $\\tan x = -\\tan\\left(\\dfrac{\\pi}{6}\\right)=\\tan\\left(-\\dfrac{\\pi}{6}\\right).$\n- Dùng nghiệm tổng quát của phương trình $\\tan x=\\tan\\alpha$ là $x=\\alpha+k\\pi,\\ k\\in\\mathbb{Z}.$\nVậy nghiệm tổng quát ở đây là\n$x=-\\dfrac{\\pi}{6}+k\\pi,\\quad k\\in\\mathbb{Z}.$\n- Kiểm tra nhanh với $k=0$: $x=-\\dfrac{\\pi}{6}$,\n$\\sqrt{3}+3\\tan\\left(-\\dfrac{\\pi}{6}\\right)=\\sqrt{3}+3\\left(-\\dfrac{1}{\\sqrt{3}}\\right)=\\sqrt{3}-\\sqrt{3}=0.$\nThỏa mãn phương trình. (Lưu ý: các giá trị $\\tan x$ không xác định tại $x=\\dfrac{\\pi}{2}+k\\pi$, nhưng nghiệm tìm được không trùng các điểm đó.)\n✅ **Đáp án:**  $\\text{B. }x=-\\dfrac{\\pi}{6}+k\\pi$"
+    },
+    {
+      "id": 9,
+      "content": "Cho hình lập phương $ABCD.A'B'C'D'$. Mệnh đề nào sau đây sai?",
+      "chuong": "vectơ và hệ trục tọa độ trong không gian",
+      "dang": "tổng và hiệu của hai vectơ trong không gian",
+      "type": "single",
+      "options": [
+        "A. $\\overrightarrow{AC}=\\overrightarrow{AB}+\\overrightarrow{AD}$",
+        "B. $\\overrightarrow{AB}=\\overrightarrow{CD}$",
+        "C. $|\\overrightarrow{AB}|=|\\overrightarrow{CD}|$",
+        "D. $\\overrightarrow{AB}+\\overrightarrow{AD}+\\overrightarrow{AA'}=\\overrightarrow{AC'}$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cho hình lập phương $ABCD.A'B'C'D'$.\n- Các mệnh đề được cho (A, B, C, D) trong đề; ta cần xác định mệnh đề nào *sai*.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi: Trong các mệnh đề cho về hình lập phương, mệnh đề nào là *sai*?\n- Kiến thức cần dùng: - Tính chất của hình vuông (cạnh đối song song và bằng nhau, hướng có thể ngược nhau).\n  - Quy tắc cộng vectơ (vectơ nối tổng bằng vectơ nối trực tiếp).\n  - Quan hệ giữa vectơ trong không gian đối với các cạnh và đường chéo của lập phương.\n🔎 **Hướng dẫn cách làm:**\n- Nhận xét tôpô của hình: Thông thường các đỉnh của đáy được đặt theo thứ tự quanh hình vuông là $A \\to B \\to C \\to D$.\n- Xét mệnh đề B: $\\overrightarrow{AB}=\\overrightarrow{CD}$. - Hai vectơ $\\overrightarrow{AB}$ và $\\overrightarrow{CD}$ có cùng độ lớn và song song (vì là các cạnh đối của hình vuông), nhưng hướng của chúng là ngược nhau. Do đó ta có $\\overrightarrow{AB}=-\\overrightarrow{CD}$ chứ không bằng nhau.\n  - Ví dụ tọa độ (theo kiến thức lớp 10–11): đặt $A(0,0,0),\\ B(1,0,0),\\ C(1,1,0),\\ D(0,1,0)$. Khi đó - $\\overrightarrow{AB}=B-A=(1,0,0),$\n    - $\\overrightarrow{CD}=D-C=(0,1,0)-(1,1,0)=(-1,0,0).$\n    - Rõ ràng $\\overrightarrow{AB}\\neq\\overrightarrow{CD},\\ \\overrightarrow{AB}=-\\overrightarrow{CD}.$\n- Kiểm tra nhanh các mệnh đề khác để đối chiếu: - A: $\\overrightarrow{AC}=\\overrightarrow{AB}+\\overrightarrow{AD}$ — đúng (phép cộng vectơ trong tam giác hoặc quy tắc hình bình hành).\n  - C: $|\\overrightarrow{AB}|=|\\overrightarrow{CD}|$ — đúng (các cạnh đối của hình vuông có cùng độ dài).\n  - D: $\\overrightarrow{AB}+\\overrightarrow{AD}+\\overrightarrow{AA'}=\\overrightarrow{AC'}$ — đúng, vì $\\overrightarrow{AB}+\\overrightarrow{AD}=\\overrightarrow{AC}$ và cộng thêm $\\overrightarrow{AA'}$ cho ta $\\overrightarrow{AC'}$.\n✅ **Đáp án:** B. $\\overrightarrow{AB}=\\overrightarrow{CD}$"
+    },
+    {
+      "id": 10,
+      "content": "Trong không gian với hệ tọa độ $Oxyz$, cho hình bình hành $ABCD$ có $A(2;1;-3),\\ B(0;-2;2),\\ C(4;-3;0)$. Tọa độ điểm $D$ là",
+      "chuong": "phương pháp tọa độ trong không gian",
+      "dang": "bài tập cuối chương 5",
+      "type": "single",
+      "options": [
+        "A. $(2;0;-5)$",
+        "B. $(6;0;-5)$",
+        "C. $(2;0;5)$",
+        "D. $(6;0;5)$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Điểm A có tọa độ $A(2;1;-3)$.\n- Điểm B có tọa độ $B(0;-2;2)$.\n- Điểm C có tọa độ $C(4;-3;0)$.\n- Hình bình hành $ABCD$ trong không gian với hệ tọa độ $Oxyz$.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi: Tìm tọa độ điểm $D$ để tứ giác $ABCD$ là một hình bình hành.\n- Cần áp dụng kiến thức về vectơ trong không gian: tính toán vectơ giữa hai điểm và đặc tính của hình bình hành (các cạnh đối song song và bằng nhau).\n🔎 **Hướng dẫn cách làm:**\n- Vì $ABCD$ là hình bình hành theo thứ tự A→B→C→D, ta có vectơ $\\vec{AB}=\\vec{DC}$.\n- Viết phương trình vectơ: $\\vec{AB}=\\vec{B}-\\vec{A},\\quad \\vec{DC}=\\vec{C}-\\vec{D}$. Từ $\\vec{AB}=\\vec{DC}$ suy ra\n$\\vec{B}-\\vec{A}=\\vec{C}-\\vec{D}\\Rightarrow \\vec{D}=\\vec{A}+\\vec{C}-\\vec{B}.$\n- Thay tọa độ vào công thức:\n$\\vec{D}=\\big(2;1;-3\\big)+\\big(4;-3;0\\big)-\\big(0;-2;2\\big).$\n- Tính từng thành phần:\n$x_D=2+4-0=6,$\n$y_D=1+(-3)-(-2)=1-3+2=0,$\n$z_D=-3+0-2=-5.$\n- Vậy $D(6;0;-5)$. Kiểm tra nhanh: $\\vec{AB}=(0-2,\\,-2-1,\\,2-(-3))=(-2,-3,5)$ và $\\vec{DC}=(4-6,\\,-3-0,\\,0-(-5))=(-2,-3,5)$ — đúng bằng nhau.\n✅ **Đáp án:**  $B. (6;0;-5)$"
+    },
+    {
+      "id": 11,
+      "content": "Tìm $a$ để hàm số $y=\\log_a x\\ (0<a\\ne1)$ có đồ thị như hình bên\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-kscl-thpt-toan-truong-thpt-an-duong-tinh-hai-phong-2026-lan-1/cau-11.webp\" alt=\"Hình minh họa câu 11\" loading=\"lazy\"></figure>",
+      "chuong": "hàm số mũ và hàm số lôgarit",
+      "dang": "hàm số lôgarit",
+      "type": "single",
+      "options": [
+        "A. $a=2$",
+        "B. $a=\\sqrt{2}$",
+        "C. $a=-\\dfrac{1}{2}$",
+        "D. $a=\\dfrac{1}{2}$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cho hàm số $y=\\log_a x \\quad (0<a\\ne1)$.\n- Đồ thị của hàm số được cho như hình vẽ.\n- Trên đồ thị, ta thấy: - Đồ thị đi qua điểm có hoành độ $x=2$ và tung độ $y=2$, tức là:\n$\\log_a 2 = 2$\n- Các phương án: - A. $a=2$\n  - B. $a=\\sqrt{2}$\n  - C. $a=-\\frac12$\n  - D. $a=\\frac12$\n❓ **Hiểu câu hỏi:**\n- Bài toán yêu cầu **tìm cơ số**$a$ của hàm logarithm sao cho đồ thị đúng như hình.\n- Học sinh cần áp dụng: - Định nghĩa logarithm:\n$\\log_a b = c \\iff a^c=b$\n  - Tính chất đồ thị hàm số $y=\\log_a x$: - Đồng biến khi $a>1$\n    - Nghịch biến khi \\$0<a<1$\n🔎 **Hướng dẫn cách làm:**\n- **Bước 1: Dựa vào điểm đặc biệt trên đồ thị** - Từ hình vẽ ta có:   $\\log_a 2 = 2$\n- **Bước 2: Đưa về dạng mũ tương đương** - Theo định nghĩa logarithm:   $a^2 = 2$\n- **Bước 3: Giải phương trình tìm **$a$ - Ta được:   $a=\\sqrt{2}$\n- **Bước 4: Kiểm tra điều kiện cơ số** - $\\sqrt{2} > 1$ nên đồ thị **đồng biến**, phù hợp với hình vẽ.\n  - Các phương án còn lại: - $a=\\frac12$ → đồ thị nghịch biến ❌\n    - $a=-\\frac12$ → không thỏa điều kiện cơ số ❌\n✅ **Đáp án:    **$\\boxed{a=\\sqrt{2}}$\n👉 **Chọn đáp án B.**"
+    },
+    {
+      "id": 12,
+      "content": "Nghiệm của phương trình $\\log_2 x=3$ là",
+      "chuong": "hàm số mũ và hàm số lôgarit",
+      "dang": "phương trình lôgarit",
+      "type": "single",
+      "options": [
+        "A. $x=2$",
+        "B. $x=9$",
+        "C. $x=8$",
+        "D. $x=3$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Phương trình: $\\log_2 x = 3$\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu tìm nghiệm của phương trình logarithm: giá trị của $x$ thỏa mãn $\\log_2 x = 3.$\n- Cần vận dụng kiến thức: định nghĩa logarit cơ bản — nếu $\\log_a b = c$ thì equivalently $b = a^c$, và điều kiện xác định của logarit là $x>0.$\n🔎 **Hướng dẫn cách làm:**\n- Theo định nghĩa logarit, từ $\\log_2 x = 3$ ta viết lại dưới dạng mũ:\n$x = 2^3.$\n- Tính giá trị mũ:\n\\$2^3 = 8.$\n- Kiểm tra điều kiện xác định: $x=8>0$ nên nghiệm hợp lệ.\n- Kiểm tra các phương án sai (nhẩm nhanh): - Nếu $x=2$ thì $\\log_2 2 = 1 \\neq 3.$\n  - Nếu $x=9$ thì $\\log_2 9 \\approx 3{.}17 \\neq 3.$\n  - Nếu $x=3$ thì $\\log_2 3 \\approx 1{.}585 \\neq 3.$\n✅ **Đáp án:** $\\text{C. } x=8$"
+    }
+  ]
+}

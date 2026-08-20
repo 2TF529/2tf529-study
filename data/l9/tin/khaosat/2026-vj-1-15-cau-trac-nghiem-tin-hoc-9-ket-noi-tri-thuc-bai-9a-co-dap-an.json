@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-9-ket-noi-tri-thuc-bai-9a-co-dap-an",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-9-ket-noi-t",
+  "grade": "l9",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu trắc nghiệm Tin học 9 Kết nối tri thức Bài 9a có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Công cụ Xác thực Dữ liệu (Data Validation) được sử dụng trong phần mềm bảng tính nhằm mục đích gì?",
+      "options": [
+        "A. Tự động định dạng văn bản trong ô.",
+        "B. Hạn chế kiểu dữ liệu hoặc giá trị nhập vào ô.",
+        "C. Tự động lưu trữ dữ liệu nhập vào ô.",
+        "D. Tạo công thức tính toán cho ô dữ liệu."
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Công cụ Data Validation được sử dụng để hạn chế loại dữ liệu hoặc giá trị dữ liệu nhập vào ô tính, đảm bảo tính chính xác và phù hợp với yêu cầu của bài toán."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Loại xác thực dữ liệu nào dùng để chỉ chấp nhận các số nguyên trong ô?",
+      "options": [
+        "A. List",
+        "B. Whole Number",
+        "C. Decimal",
+        "D. Custom"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Whole Number là tùy chọn trong Data Validation chỉ cho phép nhập các số nguyên"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Để xác thực dữ liệu bằng cách chọn từ danh sách thả xuống, bạn cần chọn tùy chọn nào trong hộp thoại Data Validation?",
+      "options": [
+        "A. Decimal",
+        "B. List",
+        "C. Whole Number",
+        "D. Text Length"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: List cho phép chọn dữ liệu từ danh sách thả xuống, giúp kiểm soát các giá trị được nhập vào ô."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Trong hộp thoại Data Validation, mục Source dùng để làm gì?",
+      "options": [
+        "A. Chọn kiểu dữ liệu cho ô.",
+        "B. Định nghĩa công thức tính toán.",
+        "C. Xác định danh sách dữ liệu nguồn cho tùy chọn List.",
+        "D. Hiển thị thông báo lỗi khi nhập sai dữ liệu."
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Source xác định vùng chứa các giá trị nguồn khi sử dụng kiểu dữ liệu List."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Khi nào màn hình sẽ hiển thị thông báo lỗi trong Data Validation?",
+      "options": [
+        "A. Khi ô không có công thức.",
+        "B. Khi nhập dữ liệu không đúng với điều kiện xác thực.",
+        "C. Khi ô trống không nhập liệu.",
+        "D. Khi nhập dữ liệu trùng lặp trong bảng."
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Data Validation sẽ hiển thị thông báo lỗi nếu dữ liệu nhập không thỏa mãn điều kiện đã đặt."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Để nhập thông báo nhắc nhở người dùng khi nhập dữ liệu, bạn sử dụng thẻ nào trong Data Validation?",
+      "options": [
+        "A. Settings",
+        "B. Input Message",
+        "C. Error Alert",
+        "D. Data Tools"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: I nput Message cho phép hiển thị thông báo hướng dẫn khi ô được chọn."
+    }
+  ]
+}

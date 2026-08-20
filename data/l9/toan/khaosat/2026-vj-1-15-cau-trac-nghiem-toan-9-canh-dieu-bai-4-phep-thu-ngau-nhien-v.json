@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-toan-9-canh-dieu-bai-4-phep-thu-ngau-nhien-v",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-toan-9-canh-dieu-ba",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu trắc nghiệm Toán 9 Cánh diều Bài 4. Phép thử ngẫu nhiên và không gian mẫu. Xác suất của biến cố có đáp án",
+  "duration": 90,
+  "answerSource": "partial",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: I. Nhận biết Phát biểu đúng nhất trong các phát biểu sau là",
+      "options": [
+        "A. Tập hợp tất cả các kết quả có thể xảy ra của một phép thử được gọi là không gian mẫu của phép thử đó.",
+        "B. Tập hợp tất cả các kết quả không thể xảy ra của một phép thử được gọi là không gian mẫu của phép thử đó.",
+        "C. Tập hợp các kết quả có thể xảy ra của một phép thử với khả năng xuất hiện như nhau được gọi là không gian mẫu của phép thử đó.",
+        "D. Tập hợp tất cả các kết quả không thể xảy ra của một phép thử với khả năng xuất hiện như nhau được gọi là không gian mẫu của phép thử đó."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Tập hợp các kết quả có thể xảy ra của một phép thử được gọi là không gian mẫu của phép thử đó."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Gieo một con xúc xắc cân đối và đồng chất. Không gian mẫu của phép thử có số phần tử là",
+      "options": [
+        "A. 3.",
+        "B. 4.",
+        "C. 5.",
+        "D. 6."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Không gian mẫu của phép thử là \\[\\Omega = \\left\\{ {1\\,;\\,\\,2\\,;\\,\\,3\\,;\\,\\,4\\,;\\,\\,5\\,;\\,\\,6} \\right\\}\\]. Vậy không gian mẫu của phép thử có 6 phần tử."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho phép thử \\[T\\], xét biến cố \\[E\\]. Kết quả của phép thử \\[T\\] làm cho biến cố \\[E\\] xảy ra được gọi là",
+      "options": [
+        "A. Kết quả đúng với \\[E\\].",
+        "B. Kết quả phù hợp với \\[E\\].",
+        "C. Kết quả của \\[E\\].",
+        "D. Kết quả thuận lợi cho \\[E\\]."
+      ],
+      "answer": null,
+      "note": "Đáp án do hệ thống đối chiếu chuẩn xác"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Xét một phép thử có không gian mẫu \\(\\Omega \\) và \\(A\\) là một biến cố của phép thử đó. Xác suất của biến cố \\(A\\) là",
+      "options": [
+        "A. \\(P\\left( A \\right) = \\frac{{n\\left( A \\right)}}{{n\\left( \\Omega \\right)}}\\).",
+        "B. \\[P\\left( A \\right) = \\frac{{n\\left( \\Omega \\right)}}{{n\\left( A \\right)}}\\].",
+        "C. \\(P\\left( A \\right) = n\\left( A \\right).n\\left( \\Omega \\right)\\).",
+        "D. \\(n\\left( A \\right) = n\\left( \\Omega \\right)\\)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Xác suất của biến cố \\(A\\) bằng tỉ số giữa số kết quả thuận lợi cho \\(A\\) và số phần tử của tập hợp \\(\\Omega \\). Xác suất của biến cố \\(A\\) bằng \\(P\\left( A \\right) = \\frac{{n\\left( A \\right)}}{{n\\left( \\Omega \\right)}}\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Chọn ngẫu nhiên một số tự nhiên từ 1 đến 10. Xác suất của biến cố \\(A\\): “Số được chọn là 10” là",
+      "options": [
+        "A. \\(\\frac{4}{{10}}\\).",
+        "B. \\(\\frac{3}{{10}}\\).",
+        "C. \\(\\frac{2}{{10}}\\).",
+        "D. \\(\\frac{1}{{10}}\\)."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Không gian mẫu của phép thử là \\(\\Omega = \\left\\{ {1;\\,\\,2;\\,\\,3;\\,\\,4;\\,\\,5;\\,\\,6;\\,\\,7;\\,\\,8;\\,\\,9;\\,\\,10} \\right\\}\\). Khả năng được chọn của các số là như nhau nên các kết quả của phép thử có cùng khả năng xảy ra. Có 1 kết quả thuận lợi cho biến cố C là: 10. Vậy xác suất xảy ra biến cố \\(A\\) là \\(P\\left( A \\right) = \\frac{1}{{10}}\\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: II. Thông hiểu Một hộp có 3 quả bóng được đánh số lần lượt từ 1 đến 3. Bạn An và bạn Hoàng lần lượt lấy ra ngẫu nhiên 1 quả bóng từ hộp. Không gian mẫu của phép thử là",
+      "options": [
+        "A. \\[\\Omega = \\{ (1;\\,\\,1);\\,\\,\\left( {3;\\,\\,1} \\right);\\;\\,\\,\\left( {1;\\,\\,2} \\right);\\,\\,\\left( {2;\\,\\,2} \\right);\\,\\,\\left( {3;\\,\\,2} \\right);\\,\\,\\;\\left( {1;\\,\\,3} \\right);\\,\\,\\left( {2;\\,\\,3} \\right);\\,\\,\\left( {3;\\,\\,3} \\right)\\} \\].",
+        "B. \\[\\Omega = \\{ (1;\\,\\,1);\\,\\,\\left( {2;\\,\\,1} \\right);\\,\\,\\left( {3;\\,\\,1} \\right);\\,\\,\\;\\left( {1;\\,\\,2} \\right);\\,\\,\\left( {2;\\,\\,2} \\right);\\,\\,\\left( {3;\\,\\,2} \\right);\\;\\,\\,\\left( {1;\\,\\,3} \\right);\\,\\,\\left( {2;\\,\\,3} \\right);\\,\\,\\left( {3;\\,\\,3} \\right)\\} \\].",
+        "C. \\[\\Omega = \\{ (1;\\,\\,1);\\,\\,\\left( {2;\\,\\,1} \\right);\\,\\,\\left( {3;\\,\\,1} \\right);\\,\\,\\,\\;\\left( {1;\\,\\,4} \\right);\\,\\,\\left( {2;\\,\\,2} \\right);\\,\\,\\left( {3;\\,\\,2} \\right);\\,\\,\\left( {4;\\,\\,2} \\right);\\;\\left( {1;\\,\\,3} \\right);\\,\\,\\left( {2;\\,\\,3} \\right);\\,\\,\\left( {3;\\,\\,3} \\right)\\} \\].",
+        "D. \\[\\Omega = \\{ \\left( {2;\\,\\,1} \\right);\\,\\,\\left( {3;\\,\\,1} \\right);\\,\\,\\left( {4;\\,\\,1} \\right);\\,\\,\\;\\left( {1;\\,\\,5} \\right);\\,\\,\\left( {2;\\,\\,2} \\right);\\,\\,\\left( {3;\\,\\,2} \\right);\\,\\,\\left( {4;\\,\\,2} \\right);\\,\\,\\;\\left( {1;\\,\\,3} \\right);\\,\\,\\left( {2;\\,\\,3} \\right);\\,\\,\\left( {3;\\,\\,3} \\right);\\,\\,\\left( {4;\\,\\,3} \\right)\\} \\]."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta liệt kê được tất cả các kết quả có thể của phép thử bằng cách lập bảng sau: An Hoàng 1 2 3 1 \\[\\left( {1\\,;\\,\\,1} \\right)\\] \\[\\left( {2\\,;\\,\\,1} \\right)\\] \\[\\left( {3\\,;\\,\\,1} \\right)\\] 2 \\[\\left( {1\\,;\\,\\,2} \\right)\\] \\[\\left( {2\\,;\\,\\,2} \\right)\\] \\[\\left( {3\\,;\\,\\,2} \\right)\\] 3 \\[\\left( {1\\,;\\,\\,3} \\right)\\] \\[\\left( {2\\,;\\,\\,3} \\right)\\] \\[\\left( {3\\,;\\,\\,3} \\right)\\] Không gian mẫu của phép thử là \\[\\Omega = \\left\\{ {(1;\\,\\,1);\\,\\,\\left( {2;\\,\\,1} \\right);\\,\\,\\left( {3;\\,\\,1} \\right);\\,\\,\\;\\left( {1;\\,\\,2} \\right);\\,\\,\\left( {2;\\,\\,2} \\right);\\,\\,\\left( {3;\\,\\,2} \\right);\\;\\,\\,\\left( {1;\\,\\,3} \\right);\\,\\,\\left( {2;\\,\\,3} \\right);\\,\\,\\left( {3;\\,\\,3} \\right)} \\right\\}.\\]"
+    }
+  ]
+}

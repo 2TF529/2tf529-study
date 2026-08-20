@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-15-cau-trac-nghiem-tin-hoc-10-canh-dieu-cac-kieu-du-lieu-so-va-",
+  "sourceId": "vietjack:2-15-cau-trac-nghiem-tin-hoc-10-canh-die",
+  "grade": "l10",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.15 câu Trắc nghiệm Tin học 10 Cánh diều Các kiểu dữ liệu số và câu lệnh vào - ra đơn giản có đáp án (Phần 2)",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Trong python để ghi dữ liệu ra màn hình ta sử dụng lệnh nào?",
+      "options": [
+        "A. Write",
+        "B. Print( danh sách biểu thức)",
+        "C. Output",
+        "D. print(danh sách biểu thức)"
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Câu lệnh print() sẽ in ra màn hình giá trị các biểu thức theo đúng thứ tự và cách nhau bởi dấu cách."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Để in ra dòng lệnh “Xin chào bạn” ta sử dụng lệnh nào dưới đây?",
+      "options": [
+        "A. Print(‘Xin chào bạn’)",
+        "B. prin(Xin chào bạn)",
+        "C. print(‘Xin chào bạn)",
+        "D. print(“Xin chào bạn”)"
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Xâu ký tự sẽ để trong cặp dấu nháy đơn ‘’ hoặc nháy kép “”"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Chọn phương án trả lời đúng khi nhập số nguyên p từ bàn phím.",
+      "options": [
+        "A. p=input(“Nhập số nguyên p: ”)",
+        "B. p=int(“Nhập số nguyên p: ”)",
+        "C. p=int(input(“Nhập số nguyên p: ”))",
+        "D. p=interger(input(“Nhập số nguyên p:”))"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Để nhập dữ liệu kiểu số nguyên ta dùng lệnh int(input())"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Lệnh nào trong các lệnh sau sẽ báo lỗi.",
+      "options": [
+        "A. int(“12+45”)",
+        "B. float(123.56)",
+        "C. float(“123,5.5”)",
+        "D. int(12.3)"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Nếu để (“12+45”) Python sẽ hiểu đây là kiểu ký tự, không phải là kiểu nguyên"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Lệnh nào sẽ trả lại giá trị là xâu kí tự?",
+      "options": [
+        "A. str(150)",
+        "B. int(“1110”)",
+        "C. float(“15.0”)",
+        "D. float(7)"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Sau khi thực hiện lệnh này, Python sẽ hiểu đây là ký tự 150 không phải là số 150"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Để nhập dữ liệu kiểu số thực từ bàn phím, ta dùng lệnh nào?",
+      "options": [
+        "A. x:=float(input(&lt;dòng thông báo&gt;))",
+        "B. x=float(input(&lt;dòng thông báo&gt;))",
+        "C. x=(input(&lt;dòng thông báo&gt;))",
+        "D. x=float((&lt;dòng thông báo&gt;))"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Biến = float(input(dòng thông báo))"
+    }
+  ]
+}

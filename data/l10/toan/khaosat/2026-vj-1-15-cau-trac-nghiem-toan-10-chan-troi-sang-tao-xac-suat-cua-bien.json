@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-toan-10-chan-troi-sang-tao-xac-suat-cua-bien",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-toan-10-chan-troi-s",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu  Trắc nghiệm Toán 10  chân trời sáng tạo Xác suất của biến cố có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Xác suất của biến cố A kí hiệu là P(A). Biến cố A ¯ là biến cố đối của A, có xác suất là P ( A ¯ ) . Chọn phát biểu sai trong các phát biểu sau:",
+      "options": [
+        "A. Với mọi biến cố A, 0 ≤ P(A) ≤ 1 ;",
+        "B. P( Ω ) = 1, P( ∅ ) = 0 ;",
+        "C. Xác suất của mỗi biến cố đo lường xảy ra của biến cố đó. Biến cố có khả năng xảy ra càng cao thì xác suất của nó càng xa 1 ;",
+        "D. P ( A ¯ ) + P ( A ) = 1."
+      ],
+      "answer": "C",
+      "note": "Xác suất của mỗi biến cố đo lường xảy ra của biến cố đó. Biến cố có khả năng xảy ra càng cao thì xác suất của nó càng gần 1. Do đó phương án C là sai. Ta chọn phương án C."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Chọn khẳng định đúng trong các khẳng định sau:",
+      "options": [
+        "A. A ¯ = Ω \\ A ;",
+        "B. P ( A ¯ ) + P(A) = 1 ;",
+        "C. Với mọi biến cố A, 0 ≤ P(A) ≤ 1 ;",
+        "D. Cả 3 phương án trên đều đúng."
+      ],
+      "answer": "D",
+      "note": "Phương án A: là khẳng định đúng. Phương án B: P + P(A) = 1 là khẳng định đúng. Phương án C: Với mọi biến cố A, 0 ≤ P(A) ≤ 1 là khẳng định đúng. Ta chọn phương án D."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Gieo một con xúc xắc. Xác suất để mặt chấm chẵn xuất hiện là?",
+      "options": [
+        "A. 0,2;",
+        "B. 0,3;",
+        "C. 0,4;",
+        "D. 0,5."
+      ],
+      "answer": "D",
+      "note": "Không gian mẫu: Ω = {1; 2; 3; 4; 5; 6}. Do đó số phần tử của không gian mẫu là n(Ω) = 6. Biến cố xuất hiện mặt chẵn là 3 lần do A = {2; 4; 6} Suy ra n(A) = 3. Suy ra P(A) = n ( A ) n ( Ω ) = 3 6 = 0 , 5 Vậy ta chọn phương án D."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Trong hộp có 3 viên bi xanh và 5 viên bi đỏ. Lấy ngẫu nhiên trong hộp 3 viên bi. Xác suất của biến cố A: “Lấy ra được 3 viên bi màu đỏ” là:",
+      "options": [
+        "A. P(A) = 13/28",
+        "B. P(A) = 5/8",
+        "C. P(A) = 23/28",
+        "D. P(A) = 3/28"
+      ],
+      "answer": "B",
+      "note": "– Tính số phần tử của không gian mẫu: Lấy 3 viên bi ngẫu nhiên trong 8 viên bi có C 8 3 cách. Do đó số phần tử của không gian mẫu là n( Ω) = C 8 3 = 56. – Tính số kết quả thuận lợi cho biến cố A: Lấy được 3 viên bi màu đỏ trong số 5 viên bi màu đỏ có C 5 3 cách. Do đó, số kết quả thuận lợi cho biến cố A là n(A) = C 5 3 = 10. Xác suất của biến cố A: “Lấy ra được 3 viên bi màu đỏ” là: P(A) = n ( A ) n ( Ω ) = 10 56 = 5 28 Vậy xác suất của biến cố A là P(A) = 5/28 Ta chọn phương án B."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Tung một đồng xu cân đối và đồng chất 3 lần liên tiếp. Xác suất của biến cố A: “Trong 3 lần tung có ít nhất 1 lần xuất hiện mặt sấp” là:",
+      "options": [
+        "A. P(A) =7/8",
+        "B. P(A) =1/2",
+        "C. P(A) =3/8",
+        "D. P(A) =1/8"
+      ],
+      "answer": "A",
+      "note": "Kí hiệu S nếu tung được mặt sấp, N nếu tung được mặt ngửa. Các kết quả có thể xảy ra trong 3 lần tung được thể hiện trong sơ đồ hình cây dưới đây: Có tất cả 8 kết quả xảy ra, trong đó có 7 kết quả thuận lợi cho biến cố A. Do đó: P(A) = 7/8 Ta chọn phương án A"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong hộp có 6 quả cầu đỏ và 4 quả cầu xanh, lấy ngẫu nhiên đồng thời 4 quả cầu. Xác suất để 4 quả cầu lấy ra cùng màu là:",
+      "options": [
+        "A. P = 8/105",
+        "B. P = 18/105",
+        "C. P = 24/105",
+        "D. P = 4/53"
+      ],
+      "answer": "A",
+      "note": "Gọi A là biến cố “4 quả cầu lấy ra cùng màu”. Lấy 4 quả trong tổng số 6 + 4 = 10 quả có C 10 4 cách. Do đó, số phần tử của không gian mẫu là n( Ω) = C 10 4 = 210. Ta xét hai trường hợp: • Trường hợp 1: 4 quả cầu lấy ra đều màu đỏ thì có C 6 4 = 15 cách. • Trường hợp 2: 4 quả cầu lấy ra đều màu xanh thì có C 4 4 = 1 cách. Do đó, số kết quả thuận lợi cho biến cố A là: n(A) = 15 + 1 = 16. Xác suất của biến cố A là: P(A) = n ( A ) n ( Ω ) = 16 210 = 8 105 . Ta chọn phương án C."
+    }
+  ]
+}

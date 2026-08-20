@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-20-cau-trac-nghiem-toan-10-canh-dieu-ham-so-va-do-thi-co-dap-an",
+  "sourceId": "vietjack:2-20-cau-trac-nghiem-toan-10-canh-dieu-h",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.20 câu Trắc nghiệm Toán 10 Cánh diều Hàm số và đồ thị có đáp án (Phần 2)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho hàm số y = f(x) xác định trên khoảng (a; b). Hàm số y = f(x) gọi là đồng biến trên khoảng (a; b) khi?",
+      "options": [
+        "A. ∀ x 1 , x 2 Î (a; b), x 1 < x 2 Þ f(x 1 ) < f(x 2 );",
+        "B. ∀ x 1 , x 2 Î (a; b), x 1 > x 2 Þ f(x 1 ) < f(x 2 );",
+        "C. ∀ x 1 , x 2 Î (a; b), x 1 = x 2 Þ f(x 1 ) < f(x 2 );",
+        "D. ∀ x 1 , x 2 Î (a; b), x 1 ≤ x 2 Þ f(x 1 ) < f(x 2 )."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Hàm số y = f(x) gọi là đồng biến trên khoảng (a; b) khi ∀ x 1 , x 2 Î (a; b), x 1 < x 2 Þ f(x 1 ) < f(x 2 )."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hàm số y = f(x) xác định trên khoảng (a; b). Hàm số y = f(x) gọi là nghịch biến trên khoảng (a; b) khi?",
+      "options": [
+        "A. ∀ x 1 , x 2 Î (a; b), x 1 < x 2 Þ f(x 1 ) < f(x 2 );",
+        "B. ∀ x 1 , x 2 Î (a; b), x 1 < x 2 Þ f(x 1 ) > f(x 2 );",
+        "C. ∀ x 1 , x 2 Î (a; b), x 1 < x 2 Þ f(x 1 ) = f(x 2 );",
+        "D. ∀ x 1 , x 2 Î (a; b), x 1 < x 2 Þ f(x 1 ) ≤ f(x 2 )."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Hàm số y = f(x) gọi là đồng biến trên khoảng (a; b) khi ∀ x 1 , x 2 Î (a; b), x 1 < x 2 Þ f(x 1 ) > f(x 2 )."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Công thức nào sau đây không phải là hàm số?",
+      "options": [
+        "A. y = x – 1;",
+        "B. y = x 2 + 1 ;",
+        "C. y = 1 x ;",
+        "D. |y| = 5x."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Công thức |y| = 5x, ứng với x > 0 tìm được hai giá trị của y là y = 5x và y = −5x nên |y| = 5x không phải là hàm số."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Điểm nào sau đây thuộc đồ thị hàm số y = 3|x – 2| + 3|x| − 2?",
+      "options": [
+        "A. (2; 4);",
+        "B. (1; −1);",
+        "C. (−2; −10);",
+        "D. (0; −4)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Đặt y = f(x) = 3|x – 2| + 3|x| − 2. Ta có: f(2) = 3|2 – 2| + 3.|2| − 2 = 4 nên (2; 4) thuộc đồ thị hàm số."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hàm số y = f(x) = |−9x|. Khẳng định nào sau đây là sai?",
+      "options": [
+        "A. f(−1) = 9;",
+        "B. f(2) = 18;",
+        "C. f(−2) = 18;",
+        "D. f 1 9 = −1."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Ta có: f(−1) = |−9.(−1)| = |9| = 9. Vậy A đúng. f(2) = |−9.2| = |−18| = 18. Vậy B đúng. f(−2) = |−9.(−2)| = |18| = 18. Vậy C đúng. f 1 9 = − 9. 1 9 = |−1| = 1. Vậy D sai."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Điểm nào sau đây thuộc đồ thị y = 1 x - 1 ?",
+      "options": [
+        "A. M 1 (2; 1);",
+        "B. M 2 (1; 1);",
+        "C. M 3 (2; 0);",
+        "D. M 4 (0; −2)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Thay x = 2 vào hàm số y = 1 x - 1 ta được 1 2 − 1 = 1. Vậy M1(2; 1) thuộc đồ thị y = 1 x - 1 ."
+    }
+  ]
+}

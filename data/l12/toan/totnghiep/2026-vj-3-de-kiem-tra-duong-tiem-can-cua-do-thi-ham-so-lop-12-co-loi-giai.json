@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-3-de-kiem-tra-duong-tiem-can-cua-do-thi-ham-so-lop-12-co-loi-giai",
+  "sourceId": "vietjack:3-de-kiem-tra-duong-tiem-can-cua-do-thi-",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "title": "3.Đề kiểm tra Đường tiệm cận của đồ thị hàm số lớp 12 (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Thí sinh trả lời từ câu 1 đến câu 12 Mỗi câu hỏi thí sinh chỉ chọn một phương án. Cho hàm số \\(y = f\\left( x \\right)\\) có \\(\\mathop {\\lim }\\limits_{x \\to + \\infty } f\\left( x \\right) = 2\\) , \\(\\mathop {\\lim }\\limits_{x \\to - \\infty } f\\left( x \\right) = + \\infty \\) .",
+      "options": [
+        "A. Đồ thị hàm số đã cho có hai tiệm cận ngang phân biệt.",
+        "B. Đồ thị hàm số đã cho có đúng một tiệm cận ngang là đường thẳng \\(x = 2\\) .",
+        "C. C . Đồ thị hàm số đã cho có đúng một tiệm cận ngang.",
+        "D. Đồ thị hàm số đã cho không có tiệm cận ngang"
+      ],
+      "answer": "C",
+      "note": "Ta có: \\(\\mathop {\\lim }\\limits_{x \\to + \\infty } f\\left( x \\right) = 2\\) \\( \\Rightarrow \\) đường thẳng \\(y = 2\\) là tiệm cận ngang của \\(y = f\\left( x \\right)\\)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Tiệm cận ngang của đồ thị hàm số \\(y = \\frac{{x - 2}}{{x + 1}}\\) là",
+      "options": [
+        "A. \\(y = - 2\\)",
+        "B. \\(x = - 1\\)",
+        "C. \\(x = 2\\)",
+        "D. \\(y = 1\\)"
+      ],
+      "answer": "D",
+      "note": "Ta có \\(\\mathop {\\lim }\\limits_{x \\to + \\infty } \\frac{{x - 2}}{{x + 1}} = 1\\) và \\(\\mathop {\\lim }\\limits_{x \\to - \\infty } \\frac{{x - 2}}{{x + 1}} = 1\\) Suy ra \\(y = 1\\) là tiệm cận ngang của đồ thị hàm số."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho hàm số \\(y = f\\left( x \\right)\\) có đồ thị như hình vẽ. Đồ thị hàm số đã cho có đường tiệm cận ngang là",
+      "options": [
+        "A. A . \\(y = - 1\\)",
+        "B. \\(x = 1\\)",
+        "C. \\(x = 0\\)",
+        "D. \\(y = 1\\)"
+      ],
+      "answer": "A",
+      "note": "Từ đồ thị hàm số ta thấy: hàm số đã cho có một tiệm cận ngang \\(y = - 1\\)"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hàm số \\(y = f\\left( x \\right)\\) có bảng biến thiên như sau: Số đường tiệm cận ngang của đồ thị hàm số \\(y = f\\left( x \\right)\\)",
+      "options": [
+        "A. \\(1\\)",
+        "B. \\(4\\)",
+        "C. \\(2\\)",
+        "D. \\(3.\\)"
+      ],
+      "answer": "C",
+      "note": "Do \\(\\mathop {\\lim }\\limits_{x \\to + \\infty } y = - 1;\\,\\mathop {\\lim }\\limits_{x \\to - \\infty } y = 1 \\Rightarrow \\) đồ thị có 2 tiệm cận ngang là \\(y = \\pm 1\\)"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hàm số \\(y = f\\left( x \\right)\\) có \\(\\mathop {\\lim }\\limits_{x \\to - {2^ + }} f\\left( x \\right) = + \\infty \\) và \\(\\mathop {\\lim }\\limits_{x \\to - {2^ - }} f\\left( x \\right) = - \\infty \\)",
+      "options": [
+        "A. Đồ thị hàm số đã cho có hai tiệm cận đứng phân biệt.",
+        "B. Đồ thị hàm số đã cho có đúng một tiệm cận ngang là đường thẳng \\(y = 2\\) .",
+        "C. C . Đồ thị hàm số đã cho có đúng một tiệm cận đứng là đường thẳng \\(x = 2\\) .",
+        "D. Đồ thị hàm số đã cho không có tiệm cận đứng"
+      ],
+      "answer": "C",
+      "note": "Ta thấy: \\(\\mathop {\\lim }\\limits_{x \\to - {2^ + }} f\\left( x \\right) = + \\infty \\) và \\(\\mathop {\\lim }\\limits_{x \\to - {2^ - }} f\\left( x \\right) = - \\infty \\). Vậy tiệm cận đứng của đồ thị hàm số đã cho là \\(x = - 2\\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Tiệm cận đứng của đồ thị hàm số \\(y = \\frac{{x - 1}}{{x - 3}}\\) là",
+      "options": [
+        "A. A . \\(x = 3\\)",
+        "B. \\(x = - 3\\)",
+        "C. \\(x = - 1\\)",
+        "D. \\(x = 1\\)"
+      ],
+      "answer": "A",
+      "note": "\\(\\mathop {\\lim }\\limits_{x \\to {3^ - }} \\frac{{x - 1}}{{x - 3}} = - \\infty \\). Suy ta tiệm cận đứng là đường thẳng \\(x = 3\\)."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Đ ường tiệm cận đứng của đồ thi hàm số \\(y = \\frac{{{x^2} + 3x - 1}}{{x + 1}}\\) là:",
+      "options": [
+        "A. A . \\(x = - 1\\) .",
+        "B. \\(x = 1\\) .",
+        "C. \\(x = 0\\) .",
+        "D. \\(x = 2\\) ."
+      ],
+      "answer": "A",
+      "note": "Chọn A Ta có: \\(\\mathop {\\lim }\\limits_{x \\to - {1^ + }} \\frac{{{x^2} + 3x - 1}}{{x + 1}} = - \\infty \\) và \\(\\mathop {\\lim }\\limits_{x \\to - {1^ - }} \\frac{{{x^2} + 3x - 1}}{{x + 1}} = + \\infty \\). Vậy tiệm cận đứng là: \\(x = - 1\\)."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho hàm số \\(y = f(x)\\) có đồ thị như hình vẽ bên. Tiệm cận đứng của đồ thị là",
+      "options": [
+        "A. \\(x = - 1\\) .",
+        "B. \\(x = 1\\) .",
+        "C. \\(x = 0\\) .",
+        "D. \\(x = 2\\) ."
+      ],
+      "answer": "B",
+      "note": "Chọn B Từ đồ thị hàm số \\(y = f(x)\\) ta thấy Ta có: \\(\\mathop {\\lim }\\limits_{x \\to {1^ + }} f(x) = - \\infty \\) và \\(\\mathop {\\lim }\\limits_{x \\to {1^ - }} f(x) = + \\infty \\). Vậy tiệm cận đứng là: \\(x = 1\\)."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-8-12-bai-tap-mot-so-bai-toan-thuc-te-ung-dung-tinh-don-dieu-va-cu",
+  "sourceId": "vietjack:8-12-bai-tap-mot-so-bai-toan-thuc-te-ung",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "8.12 bài tập Một số bài toán thực tế ứng dụng tính đơn điệu và cực trị của hàm số có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Một chất điểm chuyển động theo quy luật \\(S = - \\frac{1}{3}{t^3} + 4{t^2} + 9t\\) với t ≥ 0 (giây) là khoảng thời gian tính từ lúc vật bắt đầu chuyển động và S (mét) là quãng đường vật chuyển động trong thời gian đó. Hỏi trong khoảng thời gian 10 giây, kể từ lúc bắt đầu chuyển động, khoảng thời gian nào vận tốc của vật tăng?",
+      "options": [
+        "A. (0; 5);",
+        "B. (0; 4);",
+        "C. (4; 10);",
+        "D. (3; 10)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có v = S' = −t 2 + 8t + 9, t ∈ (0; 10). Có v'(t) = −2t + 8 ; v'(t) = 0 t = 4 ∈ (0; 10). Bảng biến thiên: Từ bảng biến thiên ta có trong khoảng thời gian (0; 4) thì vận tốc của vật tăng."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Sau khi phát hiện một bệnh dịch, các chuyên gia y tế ước tính số người nhiễm bệnh kể từ ngày xuất hiện bệnh nhân đầu tiên đến ngày thứ t là f(t) = 45t 2 – t 3 , t = 0; 1; 2; ...; 25. Nếu coi f(t) là hàm số xác định trên đoạn [0; 25] thì đạo hàm f'(t ) được xem là tốc độ truyền bệnh (người/ngày) tại thời điểm t . Xác định khoảng thời gian mà tốc độ truyền bệnh giảm?",
+      "options": [
+        "A. (0; 15);",
+        "B. (0; 10);",
+        "C. (15; 25);",
+        "D. (10; 25)."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Có f'(t) = 90t – 3t 2 ; f\"(t) = 90 – 6t; f\"(t) = 0 t = 15. Bảng biến thiên Dựa vào bảng biến thiên, ta có khoảng thời gian (15; 25) ngày thì tốc độ truyền bệnh giảm."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Một con cá hồi bơi ngược dòng để vượt khoảng cách là 300 km. Vận tốc dòng nước là 6 km/h. Nếu vận tốc bơi của cá khi nước đứng yên là v (km/h) thì năng lượng tiêu hao của cá trong t giờ được cho bởi công thức E(v) = cv 3 t, trong đó c là hằng số và E tính bằng Jun. Vận tốc bơi của cá khi nước đứng yên nằm ở khoảng nào thì năng lượng tiêu hao của cá giảm?",
+      "options": [
+        "A. (6; 10);",
+        "B. (6; 12);",
+        "C. (6; 9);",
+        "D. (9; +∞)."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Khi bơi ngược dòng vận tốc của cá là: v – 6 (km/h) Thời gian để cá vượt khoảng cách 300 km là \\(t = \\frac{{300}}{{v - 6}}\\left( {v > 6} \\right)\\). Năng lượng tiêu hao của cá khi vượt khoảng cách 300km là: E(v) = cv 3 t \\( = c{v^3}.\\frac{{300}}{{v - 6}} = 300c.\\frac{{{v^3}}}{{v - 6}}\\). Có \\(E'\\left( v \\right) = 600c{v^2}\\frac{{v - 9}}{{{{\\left( {v - 6} \\right)}^2}}};E'\\left( v \\right) = 0 \\Rightarrow v = 9\\) (vì v > 6). Bảng biến thiên: Vận tốc bơi của cá khi nước đứng yên nằm ở khoảng (6; 9) thì năng lượng tiêu hao của cá giảm."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Độ giảm huyết áp của một bệnh nhân được cho bởi công thức G(x) = 0,025x 2 (30 – x), trong đó x là liều lượng thuốc được tiêm cho bệnh nhân (x được tính bằng miligam). Liều lượng thuốc cần tiêm cho bệnh nhân nằm trong khoảng nào để huyết áp bệnh nhân tăng?",
+      "options": [
+        "A. (0; 20);",
+        "B. (0; 30);",
+        "C. (20; +∞);",
+        "D. (0; 25)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có: G(x) = 0,75x 2 – 0,025x 3 ; G'(x) = 1,5x – 0,075x 2 ; G'(x) = 0 x = 0 hoặc x = 20. Bảng biến thiên: Liều lượng thuốc cần tiêm cho bệnh nhân nằm trong khoảng (0; 20) thì huyết áp bệnh nhân tăng."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Để giảm nhiệt độ trong phòng từ 28°C, một hệ thống làm mát được phép hoạt động trong 10 phút. Gọi T (đơn vị °C) là nhiệt độ phòng ở phút thứ t được cho bởi công thức T = −0,008t 3 – 0,16t + 28 với t ∈ [1; 10]. Trong thời gian 10 phút kể từ khi hệ thống làm mát bắt đầu hoạt động, nhiệt độ trong phòng tăng hay giảm?",
+      "options": [
+        "A. Tăng;",
+        "B. Giảm;",
+        "C. Tăng rồi giảm;",
+        "D. Giảm rồi tăng ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có T' = −0,024t 2 – 0,16 < 0, ∀t ∈ [1; 10]. Suy ra hàm số T nghịch biến trên đoạn [1; 10]. Do đó nhiệt độ trong phòng giảm."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Công suất P (đơn vị W) của một mạch điện được cung cấp bởi một nguồn pin 12V được cho bởi công thức P = 12I – 0,5I 2 với I (đơn vị A) là cường độ dòng điện. Hỏi công suất P tăng trong khoảng cường độ dòng điện nào?",
+      "options": [
+        "A. (0; 20);",
+        "B. (4; 20);",
+        "C. (12; +∞);",
+        "D. (0; 12)."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Xét hàm số P = 12I – 0,5I 2 với I ≥ 0. Ta có P' = 12 – I; P' = 0 I = 12. Bảng biến thiên: Từ bảng biến thiên ta có công suất P tăng trong khoảng cường độ dòng điện (0; 12)."
+    }
+  ]
+}

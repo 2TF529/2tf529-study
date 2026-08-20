@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-3-10-bai-tap-van-dung-toa-do-cua-vecto-de-giai-quyet-mot-so-bai-t",
+  "sourceId": "vietjack:3-10-bai-tap-van-dung-toa-do-cua-vecto-d",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.10 bài tập Vận dụng tọa độ của vectơ để giải quyết một số bài toán liên quan đến thực tiễn có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Hình bên mô tả một sân cầu lông với kích thước tiêu chuẩn quốc tế. Với hệ tọa độ Oxyz được thiết lập như hình bên (đơn vị trên mỗi trục là mét), giả sử AB là một trụ cầu lông để căng lưới, hãy xác định tọa độ của B.",
+      "options": [
+        "A. (6,1; 6,7; 1,55);",
+        "B. (6,7; 6,1; 1,55);",
+        "C. (6,1; 0; 1,55);",
+        "D. (0; 6,7; 1,55)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Tọa độ điểm B(6,7; 6,1; 1,55)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Ở một sân bay, vị trí của máy bay được xác định bởi điểm M trong không gian Oxyz như hình bên. Gọi H là hình chiếu vuông góc của M xuống mặt phẳng (Oxy). Cho biết OM = 50; \\(\\left( {\\overrightarrow i ,\\overrightarrow {OH} } \\right) = 64^\\circ ;\\left( {\\overrightarrow {OH} ,\\overrightarrow {OM} } \\right) = 48^\\circ \\). Tìm tọa độ điểm M.",
+      "options": [
+        "A. M(37,2; 14,7; 30,1);",
+        "B. M(14,7; 37,2; 30,1);",
+        "C. M(30,1; 14,7; 37,2);",
+        "D. M(14,7; 30,1; 37,2)."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Tam giác OMH vuông tại H, có OH = OM.cos48° ≈ 33,5; OC = MH = OM.sin48° ≈ 37,2. Tam giác OAH vuông tại A, có OA = OH.cos64° ≈ 14,7; OB = AH = OH.sin64° ≈ 30,1. Suy ra \\(\\overrightarrow {OM} = \\overrightarrow {OC} + \\overrightarrow {OH} = \\overrightarrow {OC} + \\overrightarrow {OA} + \\overrightarrow {OB} = 14,7\\overrightarrow i + 30,1\\overrightarrow j + 37,2\\overrightarrow k \\). Vậy M(14,7; 30,1; 37,2). Dùng dữ liệu sau để trả lời các câu hỏi ở bài 3, bài 4, bài 5 Cần trục chân đế là kiểu cột quay được sử dụng để phục vụ công việc xếp dỡ hàng hóa chủ yếu ngoài các cảng bến, bãi (hình ảnh minh họa). Ta chọn hệ trục Oxyz thỏa mãn trục Ox trùng với trục chân đế, trục Oy vuông góc với trục Ox và trục Oz trùng với trục cần cẩu (theo đơn vị mét, như hình vẽ). Gọi M là vị trí tại đỉnh cần cẩu, H là hình chiếu của M lên (Oxy). Biết tay cần KM của cần trục dài 50m, trục cần OK dài 50m, \\(\\left( {\\overrightarrow k ,\\overrightarrow {KM} } \\right) = 60^\\circ ;\\left( {\\overrightarrow i ,\\overrightarrow {OH} } \\right) = 45^\\circ \\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Điểm M có cao độ z M là bao nhiêu?",
+      "options": [
+        "A. \\(\\frac{{100\\sqrt 3 }}{2}\\);",
+        "B. 93,3;",
+        "C. 75;",
+        "D. 60."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta gọi E là hình chiếu của M lên Oz. Ta có EK = MK.cos60° = 50.cos60° = 25 m z M = OE = OK + KE = 50 + 25 = 75 m."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Tọa độ điểm H là",
+      "options": [
+        "A. \\(\\left( {25\\sqrt 2 ;25\\sqrt 2 ;0} \\right)\\);",
+        "B. (25; 25; 0);",
+        "C. \\(\\left( {\\frac{{25\\sqrt 6 }}{2};\\frac{{25\\sqrt 6 }}{2};0} \\right)\\);",
+        "D. \\(\\left( {\\frac{{5\\sqrt 2 }}{2};\\frac{{5\\sqrt 2 }}{2};0} \\right)\\)."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta gọi E là hình chiếu của M lên Oz. Ta có ME = MK.sin60° = \\(50.\\frac{{\\sqrt 3 }}{2} = 25\\sqrt 3 \\). Suy ra \\(OH = ME = 25\\sqrt 3 \\) m. Gọi P, Q lần lượt là hình chiếu của M lên Ox, Oy. Vì \\(\\left( {\\overrightarrow i ,\\overrightarrow {OH} } \\right) = 45^\\circ \\Rightarrow OP = OQ = OH.\\frac{{\\sqrt 2 }}{2} = \\frac{{25\\sqrt 6 }}{2}\\). Vậy điểm \\(H\\left( {\\frac{{25\\sqrt 6 }}{2};\\frac{{25\\sqrt 6 }}{2};0} \\right)\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Tọa độ vectơ \\(\\overrightarrow {KM} \\) là",
+      "options": [
+        "A. \\(\\left( {25\\sqrt 2 ;25\\sqrt 2 ;25} \\right)\\);",
+        "B. (25; 25; 25);",
+        "C. \\(\\left( {\\frac{{25\\sqrt 6 }}{2};\\frac{{25\\sqrt 6 }}{2};25} \\right)\\);",
+        "D. \\(\\left( {\\frac{{25\\sqrt 2 }}{2};\\frac{{25\\sqrt 2 }}{2};25} \\right)\\)."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Vì \\(H\\left( {\\frac{{25\\sqrt 6 }}{2};\\frac{{25\\sqrt 6 }}{2};0} \\right)\\) và OE = 75 nên \\(M\\left( {\\frac{{25\\sqrt 6 }}{2};\\frac{{25\\sqrt 6 }}{2};75} \\right)\\). Mà K Oz nên K(0; 0; 50). Vậy \\(\\overrightarrow {KM} = \\left( {\\frac{{25\\sqrt 6 }}{2};\\frac{{25\\sqrt 6 }}{2};25} \\right)\\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Theo quy định của liên đoàn bóng chuyền quốc tế (FIVB), sân bóng chuyền có hình dạng chữ nhật. Kích thước tiêu chuẩn của sân bóng chuyền là 9m × 18 m. Chiều cao của lưới bóng chuyền là 2,24 m đối với nữ. Ta chọn hệ trục Oxyz cho sân đó như hình vẽ thứ hai (đơn vị trên mỗi trục là mét). Giả sử AB là một trụ để căng lưới bóng chuyền. Hãy xác định tọa độ của vectơ \\(\\overrightarrow {AB} \\).",
+      "options": [
+        "A. (9; 9; 0);",
+        "B. (9; 9; 2,24);",
+        "C. (0; 0; 2,24);",
+        "D. (0; 0; −2,24)."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Gọi tọa độ điểm A(x A ; y A ; z A ). Vì một nửa chiều dài của sân là 9 m nên x A = 9. Do chiều rộng của sân là 9 m nên y A = 9. Điểm A (Oxy) nên z A = 0. Do đó tọa độ điểm A(9; 9; 0). Độ dài đoạn thẳng AB = 2,24 m nên B(9; 9; 2,24). Vậy ta có \\(\\overrightarrow {AB} = \\left( {0;0;2,24} \\right)\\)."
+    }
+  ]
+}

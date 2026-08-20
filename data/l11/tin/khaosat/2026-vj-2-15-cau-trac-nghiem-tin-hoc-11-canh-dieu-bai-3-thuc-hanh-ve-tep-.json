@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-15-cau-trac-nghiem-tin-hoc-11-canh-dieu-bai-3-thuc-hanh-ve-tep-",
+  "sourceId": "vietjack:2-15-cau-trac-nghiem-tin-hoc-11-canh-die",
+  "grade": "l11",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.15 câu Trắc nghiệm Tin học 11 Cánh diều Bài 3: Thực hành về tệp, mảng và danh sách có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Lệnh nào được dùng để mở tệp “data.txt” chỉ để đọc dữ liệu trong Python?",
+      "options": [
+        "A. open(\"data.txt\", \"w\")",
+        "B. open(\"data.txt\", \"r\")",
+        "C. open(\"data.txt\", \"a\")",
+        "D. open(\"data.txt\", \"x\")"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: \"r\" là chế độ mở tệp chỉ để đọc. \"w\" mở để ghi đè, \"a\" mở để ghi thêm, và \"x\" mở để tạo tệp mới."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu lệnh nào dùng để đóng tệp đã mở trong Python?",
+      "options": [
+        "A. close(\"file.txt\")",
+        "B. file.close()",
+        "C. file.shutdown()",
+        "D. shutdown(file)"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: file.close() là phương thức đúng để đóng tệp đã mở trong Python."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu lệnh nào dùng để đọc tất cả nội dung từ tệp “file.txt” và lưu vào một chuỗi?",
+      "options": [
+        "A. file.readlines()",
+        "B. file.readline()",
+        "C. file.read()",
+        "D. file.split()"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: file.read() đọc toàn bộ nội dung của tệp và trả về chuỗi. readlines() trả về danh sách các dòng."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Để lấy các phần tử có chỉ số lẻ từ danh sách a, ta sử dụng lệnh nào?",
+      "options": [
+        "A. a[::2]",
+        "B. a[1::2]",
+        "C. a[::-1]",
+        "D. a[1:]"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: a[1::2] chọn các phần tử có chỉ số lẻ, bắt đầu từ chỉ số 1 và bước nhảy là 2."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Phương thức sort () trong danh sách ds.sort () làm gì?",
+      "options": [
+        "A. Đảo ngược danh sách",
+        "B. Sắp xếp danh sách theo thứ tự tăng dần",
+        "C. Xóa tất cả các phần tử trong danh sách",
+        "D. Sao chép danh sách"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: sort() sắp xếp danh sách theo thứ tự tăng dần."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Lệnh nào sẽ chèn một phần tử x vào vị trí chỉ số y trong danh sách ds?",
+      "options": [
+        "A. ds.insert(y, x)",
+        "B. ds.append(x, y)",
+        "C. ds.add(y, x)",
+        "D. ds.insert(x, y)"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: insert(y, x) chèn x vào vị trí chỉ số y trong danh sách."
+    }
+  ]
+}

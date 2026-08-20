@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-3-6-bai-toan-moi-lien-he-giua-dong-nang-va-cong-cua-luc-co-dap-an",
+  "sourceId": "vietjack:3-6-bai-toan-moi-lien-he-giua-dong-nang-",
+  "grade": "l10",
+  "subjectSlug": "li",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.6 Bài toán mối liên hệ giữa động năng và công của lực có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Từ mặt đất, một vật được ném lên thẳng đứng với vận tốc ban đầu 4 m/s. Bỏ qua sức cản không khí. Cho g = 10 m/s 2 . Vị trí cao nhất mà vật lên được cách mặt đất một khoảng bằng",
+      "options": [
+        "A. 0,4 m",
+        "B. 0,8 m",
+        "C. 0,6 m",
+        "D. 2 m"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có: khi vật lên đến vị trí cao nhất thì vận tốc bằng 0. Trong quá trình vật chuyển động hướng lên thì trọng lực sinh công âm: A = − P . h = − m g h Áp dụng định lí biến thiên động năng ta có: W d 2 − W d 1 = A ⇔ 0 − 1 2 m v 2 = − m g h ⇒ h = v 2 2 g = 4 2 2.10 = 0 , 8 m"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Một chiếc xe mô tô có khối lượng 220 kg đang chạy với tốc độ 14 m/s. Công cần thực hiện để tăng tốc xe lên tốc độ 19 m/s là bao nhiêu?",
+      "options": [
+        "A. 18150 J.",
+        "B. 21560 J.",
+        "C. 39710 J.",
+        "D. 2750 J."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Công cần thực hiện bằng độ biến thiên động năng: A = W d 2 − W d 1 = 1 2 m v 2 2 − 1 2 m v 1 2 = 1 2 .220. 19 2 − 14 2 = 18150 J"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Động năng của một vật tăng khi",
+      "options": [
+        "A. vận tốc của vật giảm.",
+        "B. vận tốc của vật không đổi.",
+        "C. các lực tác dụng lên vật sinh công dương.",
+        "D. các lực tác dụng lên vật không sinh công."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là C. Động năng được xác định bởi công thức: W đ = 1 2 m v 2 . → Động năng của vật tăng khi v tăng → ∆W đ > 0 → A ngoại lực > 0 → Các lực tác dụng lên vật sinh công dương."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Một vật có khối lượng 10 kg đang chuyển động với tốc độ 5 km/h trên mặt bàn nằm ngang. Do có ma sát, vật chuyển động chậm dần đều và đi được 1 m thì dừng lại. Tính hệ số ma sát giữa vật và mặt bàn. Lấy gia tốc trọng trường g = 9,8 m/s 2 .",
+      "options": [
+        "A. 0,05.",
+        "B. 0,1",
+        "C. 0,2.",
+        "D. 0,3."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là B. Đổi 5 km/h = 1,4 m/s Động năng của vật bằng công của lực ma sát: W đ = A ↔ 1 2 m v 2 = F m s . s . cos α hay 1 2 m v 2 = μ m g . s . cos α ⇒ μ = v 2 2 g . s . cos α = 1 , 4 2 2.9 , 8.1. cos 0 0 = 0,1"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Một ô tô khối lượng m đang chuyển động với vận tốc v → thì tài xế tắt máy. Công của lực ma sát tác dụng lên xe làm xe dừng lại là",
+      "options": [
+        "A. A= m v 2 2",
+        "B. A= - m v 2 2",
+        "C. A= m v 2",
+        "D. A=- m v 2"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Công của lực ma sát bằng độ biến thiên động năng của vật. Khi dừng lại thì vận tốc bằng 0. A F m s = W d 2 − W d 1 = 0 − 1 2 m v 2 = − 1 2 m v 2"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Một viên đạn có khối lượng 14 g bay theo phương ngang với vận tốc 400 m/s xuyên qua tấm gỗ dày 5 cm, sau khi xuyên qua gỗ, đạn có vận tốc 120 m/s. Tính lực cản trung bình của tấm gỗ tác dụng lên viên đạn.",
+      "options": [
+        "A. 20384 N.",
+        "B. 20000 N.",
+        "C. 10500 N.",
+        "D. 20500 N."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là : A. Xét theo phương ngang, áp dụng định lí động năng ta có: Δ W d = A ⇔ 1 2 . m . ν 2 − 1 2 . m . ν 0 2 = A c ⇒ 1 2 .14.10 − 3 120 2 − 400 2 = F c .5.10 − 2 cos180 0 ⇒ F c = 20384 N"
+    }
+  ]
+}

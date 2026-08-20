@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-30-cau-trac-nghiem-toan-10-chan-troi-sang-tao-bai-tap-cuoi-chuo",
+  "sourceId": "vietjack:2-30-cau-trac-nghiem-toan-10-chan-troi-s",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.30 câu Trắc nghiệm Toán 10 chân trời sáng tạo Bài tập cuối chương 8 (Phần 2) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Giả sử một công việc có thể được thực hiện theo một trong ba phương án. Phương án A có 3 cách thực hiện, phương án B có 4 cách thực hiện, phương án C có 7 cách thực hiện (các cách thực hiện của cả ba phương án là khác nhau đôi một). Số cách thực hiện công việc đó là:",
+      "options": [
+        "A. 14 cách;",
+        "B. 19 cách;",
+        "C. 84 cách;",
+        "D. 31 cách."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A Công việc có ba phương án thực hiện: ⦁ Phương án A có 3 cách thực hiện; ⦁ Phương án B có 4 cách thực hiện; ⦁ Phương án C có 7 cách thực hiện. Ta thấy mỗi cách thực hiện của phương án này không trùng với bất kì cách nào của phương án kia. Do đó, theo quy tắc cộng, ta có 3 + 4 + 7 = 14 cách thực hiện công việc đã cho. Vậy ta chọn phương án A."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Giả sử một công việc được chia thành ba công đoạn. Công đoạn A có 8 cách thực hiện; ứng với mỗi cách đó có 3 cách thực hiện công đoạn B; ứng với mỗi cách thực hiện công đoạn A và mỗi cách thực hiện công đoạn B có 6 cách thực hiện công đoạn C. Khi đó số cách thực hiện công việc đã cho là:",
+      "options": [
+        "A. 17 cách;",
+        "B. 26 cách;",
+        "C. 30 cách;",
+        "D. 144 cách."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải Đáp án đúng là: D Công việc được chia thành ba công đoạn: ⦁ Công đoạn A có 8 cách thực hiện; ⦁ Công đoạn B: ứng với mỗi cách thực hiện công đoạn A, có 3 cách thực hiện; ⦁ Công đoạn C: ứng với mỗi cách thực hiện công đoạn A và mỗi cách thực hiện công đoạn B, có 6 cách thực hiện. Theo quy tắc nhân, ta có 8 . 3 . 6 = 144 cách thực hiện công việc đã cho. Vậy ta chọn phương án D."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho tập hợp A có n phần tử (n ≥ 1) và số nguyên k (1 ≤ k ≤ n). Phát biểu nào sau đây sai ?",
+      "options": [
+        "A. Một chỉnh hợp chập k của n phần tử trên là mỗi cách lấy k phần tử của tập A và sắp xếp chúng theo một thứ tự;",
+        "B. Một hoán vị của tập A là mỗi cách sắp xếp n phần tử của tập A theo một thứ tự;",
+        "C. Một tổ hợp chập k của n phần tử là mỗi cách lấy k phần tử của A;",
+        "D. Mỗi hoán vị của n phần tử cũng chính là tổ hợp chập n của n phần tử đó."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải Đáp án đúng là: D ⦁ Mỗi cách sắp xếp n phần tử của tập A theo một thứ tự gọi là một hoán vị các phần tử đó. Do đó phương án B là phát biểu đúng. ⦁ Mỗi cách lấy k phần tử của A và sắp xếp chúng theo một thứ tự gọi là một chỉnh hợp chập k của n phần tử đó. Do đó phương án A là phát biểu đúng. ⦁ Mỗi tập con gồm k phần tử của A được gọi là một tổ hợp chập k của n phần tử. Do đó phương án C là phát biểu đúng. ⦁ Mỗi hoán vị của n phần tử cũng chính là chỉnh hợp chập n của n phần tử đó. Do đó phương án D là phát biểu sai. Vậy ta chọn phương án D."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho n ≥ 1 , n ∈ ℤ và 1 ≤ k ≤ n. Phát biểu nào sau đây sai ?",
+      "options": [
+        "A. P 0 = 1;",
+        "B. P n = C n n ;",
+        "C. C n k = C n n − k ;",
+        "D. A n k = k ! . C n k ."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải Đáp án đúng là: B ⦁ Ta quy ước: P 0 = 0! = 1. Do đó phương án A đúng. ⦁ Ta có C n k = C n n − k , với 0 ≤ k ≤ n. ⦁ Ta có P n = A n n . Do đó phương án B sai. Do đó phương án C đúng. ⦁ Ta có k ! . C n k = k ! . n ! k ! . n − k ! = n ! n − k ! = A n k . Do đó phương án D đúng. Vậy ta chọn phương án B."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho tập hợp X gồm n phần tử (n ≥ 1) và số nguyên k (1 ≤ k ≤ n). Một chỉnh hợp chập k của n phần tử là:",
+      "options": [
+        "A. Một kết quả bất kì của sự sắp xếp k phần tử bất kì của tập hợp X;",
+        "B. Một kết quả của việc lấy k phần tử từ n phần tử của tập X và sắp xếp chúng theo một thứ tự nào đó;",
+        "C. Một số được tính bởi công thức: n(n – 1)(n – 2)…(n – k + 1);",
+        "D. Một kết quả của việc lấy k phần tử từ n phần tử của tập X."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải Đáp án đúng là: B Mỗi cách lấy k phần tử của tập X và sắp xếp chúng theo một thứ tự gọi là một chỉnh hợp chập k của n phần tử đó. Vậy ta chọn phương án B."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Biểu thức C 4 0 . x 4 + C 4 1 . x 3 y + C 4 2 . x 2 y 2 + C 4 3 . x y 3 + C 4 4 . y 4 bằng:",
+      "options": [
+        "A. (x + y) 4 ;",
+        "B. (x – y) 4 ;",
+        "C. (x + y) 5 ;",
+        "D. (x – y) 5 ."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A Theo công thức nhị thức Newton, ta có: C 4 0 . x 4 + C 4 1 . x 3 y + C 4 2 . x 2 y 2 + C 4 3 . x y 3 + C 4 4 . y 4 = x + y 4 . Vậy ta chọn phương án A."
+    }
+  ]
+}

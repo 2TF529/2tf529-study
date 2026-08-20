@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-8-20-cau-trac-nghiem-toan-10-chan-troi-sang-tao-bai-2-dinh-li-cos",
+  "sourceId": "vietjack:8-20-cau-trac-nghiem-toan-10-chan-troi-s",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "8.20 câu Trắc nghiệm Toán 10 Chân trời sáng tạo Bài 2. Định lí côsin và định lí sin (Đúng-sai, trả lời ngắn) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho \\[\\Delta ABC\\] có \\[AB = 5\\]; \\(\\widehat A = 40^\\circ \\); \\(\\widehat B = 60^\\circ \\). Độ dài \\[BC\\] gần nhất với kết quả nào?",
+      "options": [
+        "A. \\[3,7\\].",
+        "B. \\[3,3\\].",
+        "C. \\[3,5\\].",
+        "D. \\[3,1\\]."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có \\(\\widehat C = 180^\\circ - \\widehat A - \\widehat B = 180^\\circ - 40^\\circ - 60^\\circ = 80^\\circ \\). Áp dụng định lý sin: \\[\\frac{{BC}}{{\\sin A}} = \\frac{{AB}}{{\\sin C}} \\Rightarrow BC = \\frac{{AB}}{{\\sin C}} \\cdot \\sin A = \\frac{5}{{\\sin 80^\\circ }} \\cdot \\sin 40^\\circ \\approx 3,3\\]."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho tam giác \\(ABC\\) có \\(AB = 4\\)cm, \\(BC = 7\\)cm, \\(AC = 9\\)cm. Tính \\(\\cos A\\).",
+      "options": [
+        "A. \\(\\cos A = - \\frac{2}{3}\\).",
+        "B. \\(\\cos A = \\frac{1}{2}\\).",
+        "C. \\(\\cos A = \\frac{1}{3}\\).",
+        "D. \\(\\cos A = \\frac{2}{3}\\)."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Ta có \\(\\cos A = \\frac{{A{B^2} + A{C^2} - B{C^2}}}{{2 \\cdot AB \\cdot AC}}\\)\\( = \\frac{{{4^2} + {9^2} - {7^2}}}{{2 \\cdot 4 \\cdot 9}} = \\frac{2}{3}\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho \\(\\Delta ABC\\) có góc \\(\\widehat {BAC} = 60^\\circ \\) và cạnh \\(BC = \\sqrt 3 \\). Tính bán kính của đường tròn ngoại tiếp \\(\\Delta ABC\\).",
+      "options": [
+        "A. \\(R = 4\\).",
+        "B. \\(R = 1\\).",
+        "C. \\(R = 2\\).",
+        "D. \\(R = 3\\)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Theo định lí sin: \\(\\frac{{BC}}{{\\sin A}} = 2R \\Rightarrow R = \\frac{{BC}}{{2\\sin A}} = \\frac{{\\sqrt 3 }}{{2 \\cdot \\frac{{\\sqrt 3 }}{2}}} = 1\\)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho \\(\\Delta ABC\\) với các cạnh \\(AB = c,\\,\\,AC = b,\\,\\,BC = a\\). Gọi \\(R,\\,\\,r,\\,\\,S\\) lần lượt là bán kính đường tròn ngoại tiếp, nội tiếp và diện tích của tam giác \\(ABC\\). Công thức nào sau đây sai ?",
+      "options": [
+        "A. \\[S = \\frac{1}{2}ab\\sin A\\].",
+        "B. \\(S = \\frac{1}{2}ab\\sin C\\).",
+        "C. \\[S = \\frac{{abc}}{{4R}}\\].",
+        "D. \\[S = \\frac{{\\left( {a + b + c} \\right)r}}{2}\\]."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Công thức tính diện tích sai là \\[S = \\frac{1}{2}ab\\sin A\\]."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho tam giác ABC có \\(a = 8,b = 10\\), góc \\(C\\) bằng \\(60^\\circ \\). Độ dài cạnh \\(c\\) là:",
+      "options": [
+        "A. \\(c = 3\\sqrt {21} \\).",
+        "B. \\(c = 7\\sqrt 2 \\).",
+        "C. \\(c = 2\\sqrt {11} \\).",
+        "D. \\(c = 2\\sqrt {21} \\)."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D \\({c^2} = {a^2} + {b^2} - 2ab\\cos C\\) \\({c^2} = {8^2} + {10^2} - 2 \\cdot 8 \\cdot 10\\cos 60^\\circ = 84 \\Rightarrow c = 2\\sqrt {21} \\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho tam giác \\(ABC\\) có chu vi bằng 12 và bán kính đường tròn nội tiếp bằng 1. Diện tích của tam giác \\(ABC\\) bằng",
+      "options": [
+        "A. \\(12\\).",
+        "B. \\(3\\).",
+        "C. \\(6\\).",
+        "D. \\(24\\)."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Nửa chu vi tam giác \\(ABC\\) là: \\(p = \\frac{{12}}{2} = 6\\). Diện tích của tam giác \\(ABC\\) là: \\(S = pr = 6 \\cdot 1 = 6\\)."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Một tam giác có ba cạnh là \\(13,14,15\\). Diện tích tam giác đó bằng",
+      "options": [
+        "A. \\(84\\,.\\)",
+        "B. \\[\\sqrt {84} \\,.\\]",
+        "C. \\(42\\,.\\)",
+        "D. \\[\\sqrt {168} \\,.\\]"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có \\(p = \\frac{{a + b + c}}{2} = \\frac{{13 + 14 + 15}}{2} = 21\\). Vậy \\(S = \\sqrt {p\\left( {p - a} \\right)\\left( {p - b} \\right)\\left( {p - c} \\right)} = 84\\) (công thức Heron)."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho tam giác \\(ABC\\), biết \\(a = 13,b = 14,c = 15.\\) Tính góc \\(B\\).",
+      "options": [
+        "A. \\(59^\\circ 49'.\\)",
+        "B. \\(53^\\circ 7'.\\)",
+        "C. \\(59^\\circ 29'\\,.\\)",
+        "D. \\(62^\\circ 22'.\\)"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có \\(\\cos B = \\frac{{{a^2} + {c^2} - {b^2}}}{{2ac}} = \\frac{{{{13}^2} + {{15}^2} - {{14}^2}}}{{2 \\cdot 13 \\cdot 15}} = \\frac{{33}}{{65}}\\). Suy ra \\(\\widehat B \\approx 59^\\circ 29'\\)."
+    }
+  ]
+}

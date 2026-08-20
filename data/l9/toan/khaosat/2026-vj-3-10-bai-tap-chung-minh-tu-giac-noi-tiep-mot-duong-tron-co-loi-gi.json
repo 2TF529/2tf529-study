@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-3-10-bai-tap-chung-minh-tu-giac-noi-tiep-mot-duong-tron-co-loi-gi",
+  "sourceId": "vietjack:3-10-bai-tap-chung-minh-tu-giac-noi-tiep",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.10 bài tập Chứng minh tứ giác nội tiếp một đường tròn có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Tứ giác nào sau đây luôn nội tiếp được đường tròn?",
+      "options": [
+        "A. Hình thoi.",
+        "B. Hình bình hành.",
+        "C. Hình thang.",
+        "D. Hình chữ nhật."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Hình chữ nhật là một tứ giác nội tiếp đường tròn, có tâm là giao điểm của hai đường chéo và bán kính bằng một nửa độ dài đường chéo."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho tam giác ABC có ba góc nhọn. Vẽ các đường cao BD và CE của tam giác ABC. Gọi H là giao điểm của BD và CE. Chọn khẳng định đúng nhất trong các khẳng định dưới đây.",
+      "options": [
+        "A. Tứ giác ADHE là tứ giác nội tiếp.",
+        "B. Tứ giác BCDE là tứ giác nội tiếp.",
+        "C. Cả A và B đều đúng.",
+        "D. Cả A và B đều sai."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Vì BD, CE là các đường cao của ∆ABC nên BD ⊥ AC và CE ⊥ AB. Suy ra \\[\\widehat {AEH} = \\widehat {ADH} = 90^\\circ \\]. Xét ∆AEH vuông tại E nên H, E, A thuộc đường tròn đường kính AH (1) Xét ∆ADH vuông tại D nên D, A, H thuộc đường tròn đường kính AH (2). Từ (1) và (2) suy ra A, E, D, H cùng thuộc một đường tròn. Suy ra ADHE là tứ giác nội tiếp. Xét tứ giác BCDE. Gọi O là trung điểm của BC. Vì BD, CE là các đường cao của ∆ABC nên DB ⊥ AC và CE ⊥ AB. Suy ra \\[\\widehat {BDC} = \\widehat {BEC} = 90^\\circ \\]. Xét tam giác BDC, có \\[\\widehat {BDC} = 90^\\circ \\] và DO là trung tuyến nên OD = OC = OB = \\[\\frac{1}{2}BC\\]. Xét tam giác BEC có \\[\\widehat {BEC} = 90^\\circ \\] và EO là trung tuyến nên OE = OC = OB = \\[\\frac{1}{2}BC\\]. Từ đấy suy ra OE = OC = OB = OD. Vậy tứ giác BCDE nội tiếp đường tròn tâm O là trung điểm BC."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Tứ giác ở hình nào dưới đây là tứ giác nội tiếp?",
+      "options": [
+        "A. Hình 2.",
+        "B. Hình 3.",
+        "C. Hình 4.",
+        "D. Hình 5."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Trong các hình trên, nhận thấy Hình 4 là tứ giác nội tiếp."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho đường tròn (O) đường kính AB. Gọi H là điểm nằm giữa O và B. Kẻ dây CD vuông góc với AB tại H. Trên cung nhỏ AC lấy điểm E kẻ CK vuông góc với AE tại K. Đường thẳng DE cắt CK tại F. Chọn câu đúng",
+      "options": [
+        "A. AHCK là tứ giác nội tiếp.",
+        "B. AHCK không nội tiếp đường tròn.",
+        "C. \\[\\widehat {EAO} = \\widehat {HCK}\\].",
+        "D. AH.AB = AD.BD."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Xét (O) có CH ⊥ AB (gt) nên \\[\\widehat {CHA} = 90^\\circ \\]; CK ⊥ AK (gt) nên \\[\\widehat {CKA} = 90^\\circ \\]. Có ∆CAH vuông tại H nên H, A, C cùng thuộc đường tròn đường kính AC. Có ∆CKA vuông tại K nên K, A, C cùng thuộc đường tròn đường kính AC. Do đó, K, H, A, C cùng thuộc đường tròn đường kính AC. Suy ra AHCK là tứ giác nội tiếp. Chứng minh được ∆HAD ᔕ ∆DAB (g.g) nên \\[\\frac{{AH}}{{AD}} = \\frac{{AD}}{{AB}}\\] hay AH.AB = AD 2 ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho nửa đường tròn (O; R) đường kính BC. Lấy điểm A trên tia đối của tia CB. Kẻ tiếp tuyến AF, Bx của nửa đường tròn (O) (với F là tiếp điểm). Tia AF cắt tia Bx của nửa đường tròn tại D. Khi đó, tứ giác OBDF là",
+      "options": [
+        "A. Hình thang.",
+        "B. Hình thang cân.",
+        "C. Tứ giác nội tiếp.",
+        "D. Hình bình hành."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Xét tứ giác BDFO, có: \\[\\widehat {DBO} = \\widehat {OFD} = 90^\\circ \\] nên bốn điểm B, O, D, F cùng thuộc đường tròn đường kính DO. Hay BOFD là tứ giác nội tiếp."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho hình vẽ sau. Chọn khẳng định sai trong các khẳng định dưới đây",
+      "options": [
+        "A. Bốn điểm M, Q, N, C nằm trên một đường tròn.",
+        "B. Bốn điểm A, N, M, B nằm trên một đường tròn.",
+        "C. Đường tròn qua ANB có tâm là trung điểm của đoạn AB.",
+        "D. Bốn điểm A, B, M, C nằm trên một đường tròn."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có \\[\\widehat {BNA} = 90^\\circ ,\\widehat {AMB} = 90^\\circ \\]. Xét ∆BAN vuông tại N nên B, A, N cùng thuộc đường tròn đường kính AB. Xét ∆AMB vuông tại M nên A, M, B cùng thuộc đường tròn đường kính AB. Do đó, A, N, M, B cùng thuộc một đường tròn."
+    }
+  ]
+}

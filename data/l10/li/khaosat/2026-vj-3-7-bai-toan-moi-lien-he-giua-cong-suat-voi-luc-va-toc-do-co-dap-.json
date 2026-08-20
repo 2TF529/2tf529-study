@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-3-7-bai-toan-moi-lien-he-giua-cong-suat-voi-luc-va-toc-do-co-dap-",
+  "sourceId": "vietjack:3-7-bai-toan-moi-lien-he-giua-cong-suat-",
+  "grade": "l10",
+  "subjectSlug": "li",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.7 Bài toán mối liên hệ giữa công suất với lực và tốc độ có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Một gàu nước khối lượng 10 kg được kéo cho chuyển động đều lên độ cao 5 m trong khoảng thời gian 1 phút 40 giây (Lấy g = 10 m/s 2 ). Công suất trung bình của lực kéo là:",
+      "options": [
+        "A. 0,5 W.",
+        "B. 5 W.",
+        "C. 50 W.",
+        "D. 500 W."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là B. Đổi 1 phút 40 giây = 100 s Lực kéo vật lên bằng trọng lượng của vật: F = P = mg = 10.10 = 100 N Vật chuyển động thẳng đều nên vận tốc của vật là: v = s t = 5 100 = 0 , 05 m / s Công suất trung bình của lực kéo là: P = A t = F . s t = F . v = 100.0,05 = 5 W"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Một ô tô có công suất của động cơ là 100 kW đang chạy trên đường với vận tốc 36 km/h. Lực kéo của động cơ lúc đó là",
+      "options": [
+        "A. 1000 N.",
+        "B. 10 4 N.",
+        "C. 2778 N.",
+        "D. 360 N."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Đổi 36 km/h = 10 m/s. Trong trường hợp lực kéo của động cơ không đổi, công suất trung bình của động cơ bằng: P = A t = F . s t = F . v ⇒ F = P v = 100.1000 10 = 10000 N"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Một lực F không đổi liên tục kéo một vật chuyển động với vận tốc có độ lớn v theo hướng của F. Công suất của lực F là",
+      "options": [
+        "A. F . v . t",
+        "B. F . v",
+        "C. F.t",
+        "D. F . v 2"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là : B. B - đúng vì, P = A t = F . d t = F . v"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Trong mùa sinh sản, cá hồi bơi dọc theo con sông dài 3000 km trong 90 ngày để đến thượng nguồn của con sông. Trong suốt quá trình này, trung bình mỗi con cá hồi phải sinh công 1,7.10 6 J. Tính lực trung bình của cá hồi khi bơi.",
+      "options": [
+        "A. 5,6 N.",
+        "B. 56 N.",
+        "C. 0,56 N.",
+        "D. 560 N."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là C Đổi: 90 ngày = 90.86400 = 7776000 s Công suất trung bình của cá hồi: P = A t = 1 , 7.10 6 7776000 ≈ 0 , 22 J Tốc độ trung bình của cá hồi: v = s t = 3000000 7776000 ≈ 0 , 39 m / s Lực trung bình của cá hồi khi bơi: F = P v = 0 , 22 0 , 39 ≈ 0 , 56 N"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Một lực F → không đổi liên tục kéo 1 vật chuyển động với vận tốc F → theo hướng của lực F → .Công suất của lực F → là:",
+      "options": [
+        "A. F.v",
+        "B. F.v 2",
+        "C. F.t",
+        "D. Fvt"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Công suất: P = F → . v → = F . v α = 0"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Một ô tô khối lượng 1 tấn đang hoạt động với công suất 5 kW và chuyển động thẳng đều với vận tốc 54 km/h thì lên dốc. Hỏi động cơ ô tô phải hoạt động với công suất bằng bao nhiêu để có thể lên dốc với tốc độ như cũ? Biết hệ số ma sát giữa bánh xe và mặt đường không đổi, dốc nghiêng góc 2,3 0 so với mặt đường nằm ngang và g = 10 m/s 2 .",
+      "options": [
+        "A. 1000 W.",
+        "B. 5000 W.",
+        "C. 2500 W.",
+        "D. 11010 W."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là D. Mà F m s = μ N = μ . P . cos α = μ m g . cos α ⇔ F = mg(sin α + μ cos α ) = 10000.(sin2,3 0 + 1 30 cos2,3 0 ) = 734(N) ⇒ P = F.v = 11010 W"
+    }
+  ]
+}

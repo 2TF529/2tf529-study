@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-1-22-cau-trac-nghiem-toan-11-canh-dieu-bai-tap-cuoi-chuong-iii-du",
+  "sourceId": "vietjack:1-22-cau-trac-nghiem-toan-11-canh-dieu-b",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.22 câu Trắc nghiệm Toán 11 Cánh diều Bài tập cuối chương III (Đúng-sai, trả lời ngắn) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: TRẮC NGHIỆM NHIỀU LỰA CHỌN Cho dãy (u n ) có limu n = 3, dãy (v n ) có limv n = 5. Tính lim(u n .v n ).",
+      "options": [
+        "A. 15.",
+        "B. 8.",
+        "C. 5.",
+        "D. 3."
+      ],
+      "answer": "A",
+      "note": "A lim(u n v n ) = 3.5 = 15."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Tìm dạng hữu tỉ của số thập phân vô hạn tuần hoàn P = 2,13131313….",
+      "options": [
+        "A. \\(P = \\frac{{212}}{{99}}\\) .",
+        "B. \\(P = \\frac{{213}}{{100}}\\) .",
+        "C. \\(P = \\frac{{211}}{{100}}\\) .",
+        "D. \\(P = \\frac{{211}}{{99}}\\) ."
+      ],
+      "answer": "D",
+      "note": "D Ta có \\(P = 2,13131313... = 2 + \\frac{{13}}{{100}} + \\frac{{13}}{{{{100}^2}}} + \\frac{{13}}{{{{100}^3}}} + ...\\) Ta có \\(\\frac{{13}}{{100}} + \\frac{{13}}{{{{100}^2}}} + \\frac{{13}}{{{{100}^3}}} + ...\\) là tổng của cấp số nhân lùi vô hạn với \\({u_1} = \\frac{{13}}{{100}}\\) và \\(q = \\frac{1}{{100}}\\). Khi đó \\(P = 2 + \\frac{{\\frac{{13}}{{100}}}}{{1 - \\frac{1}{{100}}}} = \\frac{{211}}{{99}}\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho \\(\\lim \\frac{{a{n^2} - 4n + 7}}{{5{n^2} - n - 2}} = 6\\) . Khẳng định nào đúng.",
+      "options": [
+        "A. a = 6.",
+        "B. a = 3.",
+        "C. a = 30.",
+        "D. a = 11."
+      ],
+      "answer": "C",
+      "note": "C \\(\\lim \\frac{{a{n^2} - 4n + 7}}{{5{n^2} - n - 2}} = 6\\)\\( \\Leftrightarrow \\lim \\frac{{a - \\frac{4}{n} + \\frac{7}{{{n^2}}}}}{{5 - \\frac{1}{n} - \\frac{2}{{{n^2}}}}} = 6\\)\\( \\Leftrightarrow \\frac{a}{5} = 6 \\Leftrightarrow a = 30\\)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho giới hạn \\(\\mathop {\\lim }\\limits_{x \\to {x_0}} f\\left( x \\right) = 2;\\mathop {\\lim }\\limits_{x \\to {x_0}} g\\left( x \\right) = 3\\) . Tính \\(\\mathop {\\lim }\\limits_{x \\to {x_0}} \\left[ {3f\\left( x \\right) - 4g\\left( x \\right)} \\right]\\) .",
+      "options": [
+        "A. 5.",
+        "B. 2.",
+        "C. −6.",
+        "D. 3."
+      ],
+      "answer": "C",
+      "note": "C \\(\\mathop {\\lim }\\limits_{x \\to {x_0}} \\left[ {3f\\left( x \\right) - 4g\\left( x \\right)} \\right]\\)\\( = 3\\mathop {\\lim }\\limits_{x \\to {x_0}} f\\left( x \\right) - 4\\mathop {\\lim }\\limits_{x \\to {x_0}} g\\left( x \\right) = 3.2 - 4.3 = - 6\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Tính giới hạn \\(L = \\mathop {\\lim }\\limits_{x \\to 3} \\frac{{x - 3}}{{x + 3}}\\) .",
+      "options": [
+        "A. −∞.",
+        "B. 0.",
+        "C. +∞.",
+        "D. 1."
+      ],
+      "answer": "B",
+      "note": "B \\(L = \\mathop {\\lim }\\limits_{x \\to 3} \\frac{{x - 3}}{{x + 3}} = \\frac{{3 - 3}}{{3 + 3}} = 0\\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong bốn giới hạn sau đây, giới hạn nào bằng −∞?",
+      "options": [
+        "A. \\(\\mathop {\\lim }\\limits_{x \\to + \\infty } \\frac{{ - 3x + 4}}{{x - 2}}\\) .",
+        "B. \\(\\mathop {\\lim }\\limits_{x \\to {2^ - }} \\frac{{ - 3x + 4}}{{x - 2}}\\) .",
+        "C. \\(\\mathop {\\lim }\\limits_{x \\to {2^ + }} \\frac{{ - 3x + 4}}{{x - 2}}\\) .",
+        "D. \\(\\mathop {\\lim }\\limits_{x \\to - \\infty } \\frac{{ - 3x + 4}}{{x - 2}}\\) ."
+      ],
+      "answer": "C",
+      "note": "C Ta có \\(\\mathop {\\lim }\\limits_{x \\to {2^ + }} \\left( { - 3x + 4} \\right) = - 2;\\mathop {\\lim }\\limits_{x \\to {2^ + }} \\left( {x - 2} \\right) = 0\\) và x – 2 > 0 khi x → 2 + . Do đó \\(\\mathop {\\lim }\\limits_{x \\to {2^ + }} \\frac{{ - 3x + 4}}{{x - 2}} = - \\infty \\)."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Cho \\(I = \\mathop {\\lim }\\limits_{x \\to 0} \\frac{{2\\left( {\\sqrt {3x + 1} - 1} \\right)}}{x}\\) và \\(J = \\mathop {\\lim }\\limits_{x \\to - 1} \\frac{{{x^2} - x - 2}}{{x + 1}}\\) . Tính I – J.",
+      "options": [
+        "A. 6.",
+        "B. 3.",
+        "C. −6.",
+        "D. 0."
+      ],
+      "answer": "A",
+      "note": "A \\(I = \\mathop {\\lim }\\limits_{x \\to 0} \\frac{{2\\left( {\\sqrt {3x + 1} - 1} \\right)}}{x}\\)\\( = \\mathop {\\lim }\\limits_{x \\to 0} \\frac{{2.3x}}{{x\\left( {\\sqrt {3x + 1} + 1} \\right)}}\\)\\( = \\mathop {\\lim }\\limits_{x \\to 0} \\frac{6}{{\\sqrt {3x + 1} + 1}} = 3\\). \\(J = \\mathop {\\lim }\\limits_{x \\to - 1} \\frac{{{x^2} - x - 2}}{{x + 1}}\\)\\( = \\mathop {\\lim }\\limits_{x \\to - 1} \\frac{{\\left( {x - 2} \\right)\\left( {x + 1} \\right)}}{{x + 1}}\\)\\( = \\mathop {\\lim }\\limits_{x \\to - 1} \\left( {x - 2} \\right) = - 3\\). Do đó I – J = 6."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Tính giới hạn \\(\\mathop {\\lim }\\limits_{x \\to - \\infty } \\left( {2{x^3} - {x^2} + 1} \\right)\\) .",
+      "options": [
+        "A. +∞.",
+        "B. −∞.",
+        "C. 2.",
+        "D. 0."
+      ],
+      "answer": "B",
+      "note": "B \\(\\mathop {\\lim }\\limits_{x \\to - \\infty } \\left( {2{x^3} - {x^2} + 1} \\right) = \\mathop {\\lim }\\limits_{x \\to - \\infty } \\left[ {{x^3}\\left( {2 - \\frac{1}{x} + \\frac{1}{{{x^3}}}} \\right)} \\right]\\). Vì \\(\\mathop {\\lim }\\limits_{x \\to - \\infty } {x^3} = - \\infty \\) và \\(\\mathop {\\lim }\\limits_{x \\to - \\infty } \\left( {2 - \\frac{1}{x} + \\frac{1}{{{x^3}}}} \\right) = 2\\) nên \\(\\mathop {\\lim }\\limits_{x \\to - \\infty } \\left( {2{x^3} - {x^2} + 1} \\right) = - \\infty \\)."
+    }
+  ]
+}

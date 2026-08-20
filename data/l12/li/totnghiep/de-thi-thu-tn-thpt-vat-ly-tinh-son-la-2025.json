@@ -1,0 +1,271 @@
+{
+  "id": "l12-li-totnghiep-2025-de-thi-thu-tn-thpt-vat-ly-tinh-son-la-2025",
+  "grade": "l12",
+  "subjectSlug": "li",
+  "examType": "totnghiep",
+  "year": 2025,
+  "code": "THPT_TTL_SL_2025_01",
+  "title": "Đề thi thử tốt nghiệp THPT môn Vật Lý Sở GD&ĐT Sơn La năm 2025",
+  "duration": 50,
+  "answerSource": "official",
+  "source": "https://dolthpt.vn/tot-nghiep-thpt/pdf-de-thi-thu-tn-thpt-vat-ly-tinh-son-la-2025-co-dap-an",
+  "notes": "Nội dung, đáp án và lời giải được nhập từ bản công khai của DOL THPT.",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "content": "Cobalt – 60 là một chất phóng xạ phát ra tia gamma và được ứng dụng để tiêu diệt tế bào ung thư, khử trùng dụng cụ y tế, hoặc kiểm tra chất lượng sản phẩm trong công nghiệp. Hạt Cobalt – 60 phân rã phóng xạ theo phương trình $^{60}_{27}\\text{Co} \\rightarrow ^{60}_{28}\\text{Ni} + X + \\bar{\\nu}$, hạt X được phát ra là hạt",
+      "chuong": "vật lí hạt nhân",
+      "dang": "bài tập: phóng xạ cơ bản",
+      "type": "single",
+      "options": [
+        "A. proton",
+        "B. neutrino",
+        "C. neutron",
+        "D. electron"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Viết lại phương trình tổng quát:\n$^{60}_{27}\\text{Co} \\rightarrow ^{60}_{28}\\text{Ni} + X + \\bar{\\nu}$\n- Bảo toàn số khối ($A$):\n\\$60 = 60 + A_X + 0 \\quad\\Longrightarrow\\quad A_X = 0$\n- Bảo toàn số proton (số hiệu nguyên tố $Z$):\n\\$27 = 28 + Z_X + 0 \\quad\\Longrightarrow\\quad Z_X = -1$\n- Hạt có số khối \\$0$ và điện tích $-1$ là {\\it electron} (hay $\\beta^-$).\n- Kiểm tra các lựa chọn: - Proton ($^1_1$): $A=1$, $Z=1$ → không thỏa mãn.\n  - Neutrino ($^0_0$): trùng với $\\bar{\\nu}$, không phải $X$.\n  - Neutron ($^1_0$): $A=1$, $Z=0$ → không thỏa mãn.\n  - Electron ($^0_{-1}$): duy nhất thỏa mãn cả hai điều kiện.\n**✅ Đáp án:** $\\text{electron}$\n**❌ Các đáp án khác:**\n- A. proton: làm tăng cả số khối và số proton, không khớp số khối $A$.\n- B. neutrino: hạt neutrino đã có trong biểu thức dưới dạng $\\bar{\\nu}$, không phải $X$.\n- C. neutron: số khối $A=1$ nên không thỏa mãn bảo toàn số khối."
+    },
+    {
+      "id": 2,
+      "content": "Để giám sát quá trình hô hấp của bệnh nhân, các nhân viên y tế sử dụng một dải mong gồm 200 vòng dây lồng ngang quấn lên ngực bệnh nhân như hình bên. Khi bệnh nhân hít vào, điện tích của các vòng dây tăng lên một lượng 50 cm$^2$. Biết từ trường Trái Đất tại vị trí đang xét được xem gần đúng là đều và có độ lớn cảm ứng từ là B, các dòng cảm ứng trung bình sinh ra bởi cuộn dây tăng lên từ 1,25 s, khi đó độ lớn suất điện động cảm ứng trung bình sinh ra bởi cuộn dây trong quá trình đó tính là \\$2,4.10^{-5}\\,\\text{V}$. Giá trị của cảm ứng từ B của từ trường Trái Đất là\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tn-thpt-vat-ly-tinh-son-la-2025/cau-02.webp\" alt=\"Hình minh họa câu 2\" loading=\"lazy\"></figure>",
+      "chuong": "từ trường",
+      "dang": "thực tế: từ thông. hiện tượng cảm ứng điện từ",
+      "type": "single",
+      "options": [
+        "A. \\$60\\,\\mu\\text{T}$",
+        "B. \\$56\\,\\mu\\text{T}$",
+        "C. \\$50\\,\\mu\\text{T}$",
+        "D. \\$62\\,\\mu\\text{T}$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Xác định số vòng dây thực sự cắt từ trường: do dải dây quấn khép kín quanh ngực, các vòng dây đối xứng có thể triệt tiêu nhau, nên ta chỉ lấy số vòng hiệu dụng $N_{ eff}=100$.\n- Tính tổng diện tích cắt từ trường:\n  $\\Delta S_{ total} = N_{ eff}\\,\\Delta S = 100 \\times 5\\times10^{-3}\\,\\text{m}^2 = 0{,}5\\,\\text{m}^2$\n- Áp dụng định luật Faraday:\n  $B = \\frac{|\\bar{\\mathcal{E}}|\\,\\Delta t}{\\Delta S_{ total}}\n = \\frac{2{,}4\\times10^{-5}\\times1{,}25}{0{,}5}\n = 6{,}0\\times10^{-5}\\,\\text{T}$\n- Đổi sang microtesla:\n  \\$6{,}0\\times10^{-5}\\,\\text{T} = 60\\,\\mu\\text{T}$\n**✅ Đáp án:** 60 µT\n**❌ Các đáp án khác:**\n- 56 µT: sai do chưa xác định đúng số vòng hiệu dụng.\n- 50 µT: sai do tính thiếu tổng diện tích cắt từ trường.\n- 62 µT: sai do làm tròn không chính xác."
+    },
+    {
+      "id": 3,
+      "content": "Phát biểu nào sau đây là sai khi nói về sóng điện từ?",
+      "chuong": "từ trường",
+      "dang": "lý thuyết: điện từ trường. mô hình sóng điện từ",
+      "type": "single",
+      "options": [
+        "A. sóng điện từ không lan truyền được trong chân không",
+        "B. sóng điện từ là sóng ngang và mang năng lượng",
+        "C. sóng điện từ là điện từ trường lan truyền trong không gian theo thời gian",
+        "D. tại mọi điểm trên phương truyền sóng, dao động của điện trường và từ trường luôn cùng pha nhau"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Bước 1: Nhớ lại rằng sóng điện từ có thể tự do lan truyền trong chân không (điều này là cơ bản trong vật lý).\n- Bước 2: Kiểm tra từng phát biểu:\n• B đúng vì sóng điện từ dao động vuông góc hướng truyền (sóng ngang) và luôn mang năng lượng.\n• C đúng vì sóng điện từ thực chất là điện trường và từ trường biến thiên lan truyền trong không gian theo thời gian.\n• D đúng vì tại mọi điểm dọc theo hướng truyền, dao động của điện trường và từ trường luôn cùng pha.\n• A sai vì trái với thực tế: sóng điện từ hoàn toàn có thể lan truyền trong chân không.\n- Bước 3: Nhận ra phát biểu A là phát biểu **sai**.\n**✅ Đáp án:** A\n**❌ Các đáp án khác:**\n- B: Đúng vì sóng điện từ thực sự là sóng ngang và mang năng lượng.\n- C: Đúng vì bản chất sóng điện từ là điện trường và từ trường biến thiên lan truyền.\n- D: Đúng vì dao động của điện trường và từ trường luôn đồng pha tại mọi điểm truyền sóng."
+    },
+    {
+      "id": 4,
+      "content": "Trong xi lanh đóng có 2 lít hỗn hợp khí áp suất 1 atm và nhiệt độ 27°C. Pít tông nén xuống làm thể tích hỗn hợp giảm bớt 1,5 lít và áp suất tăng lên thêm 8 atm. Nhiệt độ hỗn hợp khí nén bằng",
+      "chuong": "khí lí tưởng",
+      "dang": "bài tập: phương trình trạng thái khí lí tưởng",
+      "type": "single",
+      "options": [
+        "A. 1000 K",
+        "B. 230 K",
+        "C. 675 K",
+        "D. 570 K"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Bước 1: Viết công thức khí lí tưởng cho quá trình nén đẳng chất lượng:\n$\\frac{P_1 V_1}{T_}1} = \\frac{P_2 V_2}{T_}2}\\,.$\n- Bước 2: Chuyển vế để tính T₂:\n$T_2 = \\frac{P_2\\,V_2}{P_1\\,V_}1}\\;T_1\\,.$\n- Bước 3: Thay số cụ thể:\nP₂ = 9 atm, V₂ = 0,5 lít, P₁ = 1 atm, V₁ = 2 lít, T₁ = 300 K\n$T_2 = \\frac{9 \\times 0.5}{1 \\times }2} \\times 300\n   = \\frac{4.5}{2} \\times 300\n   = 2.25 \\times 300\n   = 675\\ \\text{K}\\,.$\n- Bước 4: Kết luận: T₂ = 675 K.\n**✅ Đáp án:** 675 K\n**❌ Các đáp án khác:**\n- 1000 K: Sai vì không thỏa mãn tỉ lệ giữa tích P·V và T.\n- 230 K: Sai vì khi nén khí, nhiệt độ phải tăng chứ không thể giảm dưới 300 K.\n- 570 K: Sai do nhầm lẫn khi tính tỉ số $\\tfrac{P_2V_2}{P_1V_1}\\!$."
+    },
+    {
+      "id": 5,
+      "content": "Một bình kín chứa khí hydrogen với thể tích 0,5 m$^3$ và áp suất \\$1,013.10^5$ Pa. Cho biết khối lượng mol của khí hydrogen là 2 g/mol, giá trị trung bình của căn bậc hai tốc độ các phân tử khi là \\$4,106\\,\\text{m/s}^2$. Số phân tử khí chứa trong bình là",
+      "chuong": "khí lí tưởng",
+      "dang": "bài tập: tính toán n, m, n, m",
+      "type": "single",
+      "options": [
+        "A. \\$5,42.10^{28}$",
+        "B. \\$4,01.10^{25}$",
+        "C. \\$1,14.10^{25}$",
+        "D. \\$4,11.10^{25}$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Tính khối lượng của một phân tử hydrogen:\n- Dùng công thức áp suất trong lý thuyết động học:\n- Giải để tìm $N$:\n- Thay số:\n**✅ Đáp án:** \\$1,14.10^{25}$\n**❌ Các đáp án khác:**\n- A. \\$5,42\\times10^{28}$: Sai, lớn hơn giá trị tính được rất nhiều.\n- B. \\$4,01\\times10^{25}$: Sai do chưa áp dụng đúng hệ thức động học.\n- D. \\$4,11\\times10^{25}$: Sai so với kết quả chính xác tính được."
+    },
+    {
+      "id": 6,
+      "content": "Một khối khí lí tưởng có thể tích không đổi được nung nóng sao cho áp suất của nó tăng lên. Nội năng của khối khí sẽ",
+      "chuong": "vật lí nhiệt",
+      "dang": "lý thuyết: nội năng. định luật i nhiệt động lực học",
+      "type": "single",
+      "options": [
+        "A. không đổi",
+        "B. tăng lên",
+        "C. giảm đi",
+        "D. tăng lên rồi giảm xuống"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Bước 1: Viết phương trình trạng thái khí lí tưởng\n$pV = nRT$\nVới $V$ cố định, nếu khí được nung nóng thì $T$ tăng ⇒ $p$ tăng.\n- Bước 2: Nhắc lại công thức biến thiên nội năng của khí lí tưởng phụ thuộc chỉ vào nhiệt độ\n- Bước 3: Vì khí được nung nóng ⇒ nhiệt độ tăng ⇒ $\\Delta T>0$\n⇒ $\\Delta U = nC_v\\,\\Delta T > 0$\n- Kết luận: nội năng của khối khí sẽ **tăng lên**.\n**✅ Đáp án:** $\\text{tăng lên}$\n**❌ Các đáp án khác:**\n- “không đổi”: sai, vì nội năng của khí lí tưởng thay đổi khi $T$ thay đổi.\n- “giảm đi”: sai, khí được nung nóng nên nhiệt độ không thể giảm.\n- “tăng lên rồi giảm xuống”: sai, trong quá trình nung nhiệt đẳng tích nội năng chỉ tăng."
+    },
+    {
+      "id": 7,
+      "content": "Quá trình một chất khí chuyển trực tiếp sang thể rắn được gọi là quá trình",
+      "chuong": "vật lí nhiệt",
+      "dang": "lý thuyết: cấu trúc của chất. sự chuyển thể",
+      "type": "single",
+      "options": [
+        "A. ngưng kết",
+        "B. hóa hơi",
+        "C. thăng hoa",
+        "D. đông đặc"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Bước 1: Liệt kê các quá trình chuyển pha thường gặp:\n• Hóa hơi: chất lỏng hấp thụ nhiệt, chuyển thành khí.\n• Ngưng tụ: chất khí mất nhiệt, chuyển thành chất lỏng.\n• Đông đặc: chất lỏng mất nhiệt, chuyển thành chất rắn.\n• Thăng hoa: chất rắn trực tiếp chuyển thành khí (qua nhiệt).\n- Bước 2: Tìm quá trình ngược với thăng hoa:\n• Thăng hoa là rắn → khí.\n• Ngược lại, khí → rắn gọi là **ngưng kết**.\n- Bước 3: Loại trừ các đáp án sai dựa trên định nghĩa:\n• Hóa hơi: sai (lỏng → khí).\n• Thăng hoa: sai (rắn → khí).\n• Đông đặc: sai (lỏng → rắn).\n**✅ Đáp án:** ngưng kết\n**❌ Các đáp án khác:**\n- B. hóa hơi: quá trình lỏng chuyển thành khí, không phải khí → rắn.\n- C. thăng hoa: quá trình rắn chuyển thành khí, ngược chiều yêu cầu.\n- D. đông đặc: quá trình lỏng chuyển thành rắn, khí chưa qua lỏng."
+    },
+    {
+      "id": 8,
+      "content": "Số hạt không mang điện trong nguyên tử silver $^{107}_{47}\\text{Ag}$ là",
+      "chuong": "vật lí hạt nhân",
+      "dang": "bài tập: tính toán a, z, n",
+      "type": "single",
+      "options": [
+        "A. \\$47$",
+        "B. \\$107$",
+        "C. \\$60$",
+        "D. \\$154$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Xác định số khối A = 107 từ ký hiệu $^{107}_{47}\\text{Ag}$.\n- Xác định số proton Z = 47 từ ký hiệu dưới góc.\n- Ở nguyên tử trung hòa, số electron = số proton, nhưng chúng ta chỉ cần A và Z để tính nơtron.\n- Áp dụng công thức:\n**✅ Đáp án:** \\$60$\n**❌ Các đáp án khác:**\n- A. 47: Đây là số proton (Z), không phải số nơtron.\n- B. 107: Đây là số khối (A), không phải số nơtron.\n- D. 154: Không có cơ sở trong các giá trị A và Z đã cho."
+    },
+    {
+      "id": 10,
+      "content": "Một dây dẫn thẳng dài có dòng điện chạy qua. Trong mặt phẳng vuông góc với dây dẫn, lấy bốn điểm A, C, D cùng nằm trên đường thẳng cắt dây dẫn tại P sao cho C là trung điểm của AD như hình vẽ. Từ trường của dòng điện gây ra tại A và D có độ lớn cảm ứng từ lần lượt là \\$6.10^{-4}\\,\\text{T}$ và \\$3.10^{-4}\\,\\text{T}$. Biết độ lớn cảm ứng từ tại điểm nằm trong từ trường của dòng điện chạy trong dây dẫn thẳng dài, cách dây dẫn một khoảng $r\\ (\\text{m})$ được xác định bằng biểu thức $B = 2.10^{-7}\\,\\dfrac{I}{r} \\ (\\text{T})$. Độ lớn cảm ứng từ tại điểm C là\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tn-thpt-vat-ly-tinh-son-la-2025/cau-10.webp\" alt=\"Hình minh họa câu 10\" loading=\"lazy\"></figure>",
+      "chuong": "từ trường",
+      "dang": "thí nghiệm: lực từ. cảm ứng từ",
+      "type": "single",
+      "options": [
+        "A. \\$4.10^{-4}\\,\\text{T}$",
+        "B. \\$4{,}5.10^{-4}\\,\\text{T}$",
+        "C. \\$9.10^{-4}\\,\\text{T}$",
+        "D. \\$4.10^{-3}\\,\\text{T}$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Bước 1: Gọi khoảng cách từ dây tới A, D, C lần lượt là $r_A,\\,r_D,\\,r_C$.\n- Bước 2: Từ công thức $B = \\dfrac{kI}{r}\\;(k=2\\times10^{-7})$ ta có\n$r_A = \\dfrac{kI}{B_A},\\quad r_D = \\dfrac{kI}{B_D}.$\n- Bước 3: Vì C là trung điểm của A và D nên\n$r_C = \\frac{r_A + r_D}{2}.$\n- Bước 4: Độ lớn cảm ứng tại C là\n$B_C = \\dfrac{kI}{r_C} = \\dfrac{kI}{\\frac{r_A + r_D}{2}} = \\dfrac{2\\,kI}{r_A + r_D}.$\n- Bước 5: Thay $r_A, r_D$ vào:\n$B_C = \\dfrac{2\\,kI}{\\frac{kI}{B_}A} + \\frac{kI}{B_}D}}\n    = \\dfrac{2}{\\frac1{B_A} + \\frac1{B_D}}\n    = \\dfrac{2\\,B_A\\,B_D}{B_A + B_D}.$\n- Bước 6: Thay số $B_A = 6\\times10^{-4},\\;B_D = 3\\times10^{-4}$ vào:\n$B_C = \\dfrac{2 \\times (6\\times10^{-4})(3\\times10^{-4})}{6\\times10^{-4} + 3\\times10^{-4}}\n  = 4\\times10^{-4}\\,\\text{T}.$\n**✅ Đáp án:** \\$4.10^{-4}\\,\\text{T}$\n**❌ Các đáp án khác:**\n- 4{,}5.10⁻⁴ T: sai do không tính đúng trung bình nghịch đảo.\n- 9.10⁻⁴ T: gấp đôi giá trị cần tìm.\n- 4.10⁻³ T: thừa một bậc độ lớn so với kết quả."
+    },
+    {
+      "id": 11,
+      "content": "Cho ba hạt nhân X, Y và Z có số nucleon tương ứng là $A_X, A_Y, A_Z$ với $A_X = 2A_Y = 0{,}5A_Z$. Biết năng lượng liên kết của từng hạt nhân tương ứng là $W_{lkX}, W_{lkY}, W_{lkZ}$ với $W_{lkZ} < W_{lkX} < W_{lkY}$. Các hạt nhân này được sắp xếp theo thứ tự tính bền vững giảm dần là",
+      "chuong": "vật lí hạt nhân",
+      "dang": "bài tập: năng lượng liên kết",
+      "type": "single",
+      "options": [
+        "A. X, Y, Z",
+        "B. Y, X, Z",
+        "C. Y, Z, X",
+        "D. Z, X, Y"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Bước 1: Giả sử $A_X = a$, khi đó - $A_Y = \\frac{a}{2}$\n  - $A_Z = 2a$\n- Bước 2: Viết độ bền trung bình cho từng hạt nhân: - X: $\\frac{W_{lkX}}{A_X} = \\frac{W_{lkX}}{a}$\n  - Y: $\\frac{W_{lkY}}{A_Y} = \\frac{W_{lkY}}{a/2} = \\frac{2W_{lkY}}{a}$\n  - Z: $\\frac{W_{lkZ}}{A_Z} = \\frac{W_{lkZ}}{2a}$\n- Bước 3: So sánh thứ tự dùng $W_{lkZ} < W_{lkX} < W_{lkY}$: - Vì $W_{lkY} > W_{lkX}$ ⇒ $\\frac{2W_{lkY}}{a} > \\frac{W_{lkX}}{a}$, nên Y bền hơn X.\n  - Vì $W_{lkX} > W_{lkZ}$ ⇒ $\\frac{W_{lkX}}{a} > \\frac{W_{lkZ}}{2a}$, nên X bền hơn Z.\n- Bước 4: Kết luận thứ tự giảm dần: Y → X → Z.\n**✅ Đáp án:** $\\text{Y, X, Z}$\n**❌ Các đáp án khác:**\n- A. X, Y, Z: Sai vì X không bền hơn Y (thực tế $W_{lkY} > W_{lkX}$).\n- C. Y, Z, X: Sai vì Z không bền hơn X (thực tế $W_{lkX} > W_{lkZ}$).\n- D. Z, X, Y: Sai vì Z không phải là hạt nhân bền nhất."
+    },
+    {
+      "id": 12,
+      "content": "Một khung dây có diện tích S gồm N vòng dây đặt trong từ trường đều có cảm ứng từ B, góc giữa vectơ cảm ứng từ và mặt phẳng khung dây là $\\alpha$. Từ thông qua khung được tính theo công thức",
+      "chuong": "từ trường",
+      "dang": "bài tập: tính toán từ thông, suất điện động",
+      "type": "single",
+      "options": [
+        "A. $\\Phi = NBS\\cos\\alpha$",
+        "B. $\\Phi = BS\\cos\\alpha$",
+        "C. $\\Phi = NBS\\sin\\alpha$",
+        "D. $\\Phi = BS\\sin\\alpha$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Công thức chung của từ thông qua một mặt phẳng diện tích S:\n$\\Phi=B\\,S\\cos\\theta$\nvới $\\theta$ là góc giữa vectơ $\\mathbf B$ và **pháp tuyến** của mặt đó.\n- Ở đề bài, góc cho là giữa $\\mathbf B$ và **mặt phẳng** khung, bằng $\\alpha$.\n- Góc giữa $\\mathbf B$ và pháp tuyến lúc này là \\$90^\\circ - \\alpha$.\n- Thay vào công thức:\n$\\Phi = B\\,S\\cos(90^\\circ - \\alpha) = B\\,S\\sin\\alpha\\,.$\n- Vì có N vòng dây nên nhân thêm N:\n$\\Phi = N\\,B\\,S\\,\\sin\\alpha\\,.$\n**✅ Đáp án:** $\\Phi = NBS\\sin\\alpha$\n**❌ Các đáp án khác:**\n- A: $\\Phi = NBS\\cos\\alpha$ — sai hàm lượng giác do nhầm góc với pháp tuyến.\n- B: $\\Phi = BS\\cos\\alpha$ — thiếu số vòng dây N và sai hàm lượng giác.\n- D: $\\Phi = BS\\sin\\alpha$ — thiếu số vòng dây N."
+    },
+    {
+      "id": 13,
+      "content": "Trong một mẫu chất phóng xạ, tại thời điểm ban đầu $(t = 0)$, mẫu chất có N0 hạt nhân. Biết hằng số phóng xạ và chu kì bán rã của chất phóng xạ này lần lượt là $\\lambda$ và T. Sau đó một khoảng thời gian t, số lượng hạt nhân còn lại trong mẫu chất đó $N_t$ được xác định bằng biểu thức nào sau đây?",
+      "chuong": "vật lí hạt nhân",
+      "dang": "lý thuyết: hiện tượng phóng xạ",
+      "type": "single",
+      "options": [
+        "A. $N_t = N_0 e^{\\lambda t}$",
+        "B. $N_t = N_0 e^{-\\lambda t}$",
+        "C. $N_t = N_0.2^{-t/T}$",
+        "D. $N_t = N_0.2^{t/T}$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n-\n**✅ Đáp án:**\n**❌ Các đáp án khác:**\n- A. $N_t = N_0 e^{\\lambda t}$ — số hạt tăng theo thời gian, ngược với hiện tượng phóng xạ.\n- C. $N_t = N_0\\cdot0.2^{-t/T}$ — dùng cơ số 0.2 sai, phải là 2 để biểu diễn bán rã.\n- D. $N_t = N_0\\cdot2^{t/T}$ — cũng cho số hạt tăng lên thay vì giảm."
+    },
+    {
+      "id": 14,
+      "content": "Nhiệt kế điện tử được thiết kế sử dụng cảm biến nhiệt để đo nhiệt độ. Cảm biến được kết nối với một bảng vi mạch điện tử được lập trình sẵn. Khi quá trình đo diễn ra, cảm biến sẽ thu thập thông tin, truyền đến bảng điều khiển và sau đó được hiển thị trên màn hình kết quả đo. Nhiệt kế này hoạt động bằng cách cảm nhận bức xạ nào?\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tn-thpt-vat-ly-tinh-son-la-2025/cau-14.webp\" alt=\"Hình minh họa câu 14\" loading=\"lazy\"></figure>",
+      "chuong": "vật lí nhiệt",
+      "dang": "thực tế: thang nhiệt độ",
+      "type": "single",
+      "options": [
+        "A. bức xạ tử ngoại",
+        "B. ánh sáng nhìn thấy",
+        "C. bức xạ hồng ngoại",
+        "D. tia X"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Xác định các loại bức xạ điện từ quen thuộc: - *Bức xạ tử ngoại* (UV),\n  - *Ánh sáng nhìn thấy*,\n  - *Bức xạ hồng ngoại* (IR),\n  - *Tia X*.\n- Nhiệt độ cơ thể ~37 °C tương ứng vùng bức xạ chủ yếu trong phổ hồng ngoại.\n- Cảm biến nhiệt kế điện tử được thiết kế để thu nhận bức xạ hồng ngoại phát ra từ mô trong tai khi nhiệt độ thay đổi.\n- Các loại còn lại (tử ngoại, nhìn thấy, tia X) không phải là bức xạ nhiệt chủ yếu ở nhiệt độ cơ thể người.\n**✅ Đáp án:** $\\text{bức xạ hồng ngoại}$\n**❌ Các đáp án khác:**\n- A: bức xạ tử ngoại – Tia UV có năng lượng cao hơn, không liên quan tới phát xạ nhiệt cơ thể ở 37 °C.\n- B: ánh sáng nhìn thấy – Bước sóng quá ngắn, cơ thể người không phát xạ đậm đặc ở vùng này.\n- D: tia X – Tia X năng lượng rất cao, không dùng để đo nhiệt độ cơ thể."
+    },
+    {
+      "id": 15,
+      "content": "Trong hệ thống làm mát của động cơ nhiệt, động cơ được làm mát nhờ dòng chảy tuần hoàn của nước đi vào các chi tiết cần làm mát hấp thụ nhiệt và đi ra các ống làm mát để giảm nhiệt độ. Cho rằng nhiệt độ của dòng nước khi đi ra khỏi các chi tiết cần làm mát là 56°C. Mỗi giờ có 50 kg nước bơm qua, biết nhiệt độ của nước trước khi vào máy là 35°C; nhiệt dung riêng của nước là \\$4180\\,\\text{J/(kg.K)}$. Nhiệt độ của nước tăng bao nhiêu °C khi qua các chi tiết cần làm mát?\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tn-thpt-vat-ly-tinh-son-la-2025/cau-15.webp\" alt=\"Hình minh họa câu 15\" loading=\"lazy\"></figure>",
+      "chuong": "vật lí nhiệt",
+      "dang": "thực tế: nhiệt dung riêng",
+      "type": "single",
+      "options": [
+        "A. 95",
+        "B. 25",
+        "C. 21",
+        "D. 45"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Bước 1: Nhận thấy rằng nhiệt độ tăng của nước chính là hiệu số giữa nhiệt độ ra và nhiệt độ vào.\n- Bước 2: Viết biểu thức\n$\\Delta T = T_{ ra} - T_{ vào}$\n- Bước 3: Thay số\n$\\Delta T = 56\\;^\\circ\\mathrm{C} - 35\\;^\\circ\\mathrm{C} = 21\\;^\\circ\\mathrm{C}.$\n**✅ Đáp án:** \\$21$\n**❌ Các đáp án khác:**\n- A. 95: Sai vì không phải giá trị hiệu số nhiệt độ.\n- B. 25: Sai do nhầm phép trừ 56 − 35.\n- D. 45: Nhầm lẫn hoàn toàn với giá trị cần tìm."
+    },
+    {
+      "id": 16,
+      "content": "Trong hệ thống làm mát của động cơ nhiệt, động cơ được làm mát nhờ dòng chảy tuần hoàn của nước đi vào các chi tiết cần làm mát hấp thụ nhiệt và đi ra các ống làm mát để giảm nhiệt độ. Cho rằng nhiệt độ của dòng nước khi đi ra khỏi các chi tiết cần làm mát là 56°C. Mỗi giờ có 50 kg nước bơm qua, biết nhiệt độ của nước trước khi vào máy là 35°C; nhiệt dung riêng của nước là \\$4180\\,\\text{J/(kg.K)}$. Nhiệt lượng mà nước thu vào trong mỗi giờ là\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tn-thpt-vat-ly-tinh-son-la-2025/cau-16.webp\" alt=\"Hình minh họa câu 16\" loading=\"lazy\"></figure>",
+      "chuong": "vật lí nhiệt",
+      "dang": "thực tế: nhiệt dung riêng",
+      "type": "single",
+      "options": [
+        "A. \\$4389\\,\\text{kJ}$",
+        "B. \\$8778\\,\\text{kJ}$",
+        "C. \\$15048\\,\\text{kJ}$",
+        "D. \\$6270\\,\\text{kJ}$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Xác định độ chênh nhiệt:\n$\\Delta T = 56 - 35 = 21\\;(\\mathrm{K})$\n- Viết công thức:\n$Q = m \\times c \\times \\Delta T$\n- Thay số và tính lần lượt: 1. $m \\times c = 50\\,\\mathrm{kg} \\times 4180\\,\\mathrm{J/(kg\\cdot K)} = 209000\\,\\mathrm{J/K}$\n  2. $Q = 209000\\,\\mathrm{J/K} \\times 21\\,\\mathrm{K} = 4389000\\,\\mathrm{J}$\n- Đổi đơn vị sang kJ:\n\\$4389000\\,\\mathrm{J} = 4389\\,\\mathrm{kJ}$\n**✅ Đáp án:** \\$4389\\;\\mathrm{kJ}$\n**❌ Các đáp án khác:**\n- B. 8778 kJ: gấp đôi kết quả thật (nhân nhầm hệ số).\n- C. 15048 kJ: giá trị quá lớn, không khớp với m·c·ΔT.\n- D. 6270 kJ: sai do thay sai nhiệt dung hoặc ΔT."
+    },
+    {
+      "id": 17,
+      "content": "Máy phát điện xoay chiều một pha hoạt động dựa trên hiện tượng cảm ứng điện từ. Khi một khung dây quay của stator sẽ xuất hiện hiện tượng cảm ứng điện từ trong cuộn dây stator khi",
+      "chuong": "từ trường",
+      "dang": "lý thuyết: máy phát điện xoay chiều",
+      "type": "single",
+      "options": [
+        "A. từ trường qua cuộn dây biến thiên",
+        "B. cuộn dây được giữ cố định",
+        "C. từ trường qua cuộn dây không đổi",
+        "D. rôto và stato đứng yên"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**✅ Đáp án:**\ntừ trường qua cuộn dây biến thiên\n**❌ Các đáp án khác:**\n- cuộn dây được giữ cố định: không đủ điều kiện sinh suất điện động, vì chỉ cố định cuộn dây chưa nói đến sự thay đổi thông lượng.\n- từ trường qua cuộn dây không đổi: thông lượng không đổi ⇒ $\\frac{d\\Phi}{d}t}=0$ ⇒ không có suất điện động cảm ứng.\n- rôto và stato đứng yên: nếu cả hai đều không chuyển động thì thông lượng không thay đổi, không sinh dòng cảm ứng."
+    },
+    {
+      "id": 18,
+      "content": "Trong máy phát điện xoay chiều một pha mô tả ở trên, vai trò của stato là",
+      "chuong": "từ trường",
+      "dang": "lý thuyết: máy phát điện xoay chiều",
+      "type": "single",
+      "options": [
+        "A. tạo ra từ trường quay",
+        "B. đứng yên và chứa các cuộn dây để quét suất điện động cảm ứng",
+        "C. cảm ứng dòng điện trong từ trường",
+        "D. tạo dòng điện một chiều"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Quan sát hình mô tả máy phát điện xoay chiều:\n• Phần ở giữa quay được gọi là rôto, thường mang nam châm hoặc cuộn dây từ trường.\n• Phần bao quanh không quay gọi là stato, bên trong có các cuộn dây quấn quanh lõi thép.\n- Khi rôto quay, từ trường do rôto tạo ra sẽ biến thiên và cắt ngang qua các cuộn dây của stato.\n- Theo định luật cảm ứng điện từ Faraday, khi từ thông qua một cuộn dây thay đổi, suất điện động xoay chiều $\\mathcal{E}$ sẽ được cảm ứng trong cuộn dây đó.\n- Do đó, **stato giữ vai trò đứng yên và chứa các cuộn dây để từ trường biến thiên cắt qua, sinh suất điện động xoay chiều.**\n**✅ Đáp án:** đứng yên và chứa các cuộn dây để quét suất điện động cảm ứng\n**❌ Các đáp án khác:**\n- A. tạo ra từ trường quay: đây là chức năng của rôto, không phải stato.\n- C. cảm ứng dòng điện trong từ trường: sai về cách diễn đạt và không nêu rõ việc chứa cuộn dây; quá trình đúng là cảm ứng suất điện động.\n- D. tạo dòng điện một chiều: máy phát xoay chiều chỉ tạo ra điện xoay chiều, không phải dòng điện một chiều."
+    }
+  ]
+}

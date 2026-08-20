@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-25-cau-trac-nghiem-toan-10-chan-troi-sang-tao-bai-tap-cuoi-chuo",
+  "sourceId": "vietjack:2-25-cau-trac-nghiem-toan-10-chan-troi-s",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.25 câu Trắc nghiệm Toán 10 chân trời sáng tạo Bài tập cuối chương 5 có đáp án (Phần 2)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho B là trung điểm của AC. Khẳng định nào sau đây là đúng?",
+      "options": [
+        "A. A B → = − A C → ;",
+        "B. A C → = − C B → ;",
+        "C. A B → = − C B → ;",
+        "D. Cả A, B, C đều đúng."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Vì B là trung điểm của AC nên AB = BC do đó A B → = B C → . Mà B C → = − C B → nên A B → = − C B → . Vậy ta chọn C."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Gọi I là giao điểm của hai đường chéo của hình bình hành MNPQ. Đẳng thức nào sau đây sai?",
+      "options": [
+        "A. M N → = Q P → ;",
+        "B. I M → , I P → cùng hướng;",
+        "C. I N → , I Q → là 2 vectơ cùng phương;",
+        "D. M I → = P I → ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Theo hình vẽ ta thấy B là khẳng định sai bởi I M → , I P → là hai vectơ ngược hướng."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho MNPQ là hình bình hành. Khi đó ta có:",
+      "options": [
+        "A. M N → + M Q → = M P → ;",
+        "B. M N → − M Q → = M P → ;",
+        "C. M N → + M P → = M Q → ;",
+        "D. M N → − M P → = M Q → ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A MNPQ là hình bình hành nên MP là đường chéo, khi đó theo quy tắc hình bình hành ta có: M N → + M Q → = M P → . Vậy ta chọn phương án A."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho 3 điểm O, A, B. Chọn khẳng định đúng?",
+      "options": [
+        "A. O A → − O B → = A B → ;",
+        "B. B A → − B O → = O A → ;",
+        "C. A O → − A B → = O B → ;",
+        "D. B O → − B A → = O A → ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Với 3 điểm O, A, B thì ta có: O A → − O B → = B A → , B A → − B O → = O A → , A O → − A B → = B O → , B O → − B A → = A O → . Vậy ta chọn phương án B."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho lục giác đều ABCDEF tâm O. Số các vectơ khác O B → và khác vectơ-không, cùng phương với O B → có điểm đầu hoặc điểm cuối là các đỉnh của lục giác là:",
+      "options": [
+        "A. 5",
+        "B. 6",
+        "C. 7",
+        "D. 9"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Theo hình vẽ ta thấy có 9 vectơ thỏa mãn là: B O → , E O → , O E → , D C → , C D → , F A → , A F → , E B → , B E → ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho 3 điểm M, N, P sao cho M N → = − 3 N P → . Chọn khẳng định đúng:",
+      "options": [
+        "A. M, N, P thẳng hàng;",
+        "B. MN = 3NP;",
+        "C. Điểm P nằm giữa hai điểm M và N;",
+        "D. Cả A, B, C đều đúng."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Ta có: • M N → = − 3 N P → suy ra M, N, P thẳng hàng, do đó phương án A đúng. • M N → = − 3 N P → suy ra MN = 3NP, do đó phương án B đúng. • M N → = − 3 N P → nên M N → , N P → ngược hướng. Do đó điểm P nằm giữa hai điểm M và N nên phương án C đúng. Vậy ta chọn phương án D."
+    }
+  ]
+}

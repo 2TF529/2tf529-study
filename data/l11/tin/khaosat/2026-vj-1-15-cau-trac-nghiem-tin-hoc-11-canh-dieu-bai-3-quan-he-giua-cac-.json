@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-11-canh-dieu-bai-3-quan-he-giua-cac-",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-11-canh-die",
+  "grade": "l11",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 11 Cánh diều Bài 3: Quan hệ giữa các bảng và khóa ngoài trong cơ sở dữ liệu quan hệ có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Dư thừa dữ liệu có thể dẫn đến vấn đề gì?",
+      "options": [
+        "A. Dữ liệu không nhất quán khi cập nhật",
+        "B. Dữ liệu luôn chính xác và dễ quản lý",
+        "C. Dữ liệu luôn được bảo mật cao",
+        "D. Không ảnh hưởng đến quá trình tìm kiếm dữ liệu"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Dư thừa dữ liệu có thể dẫn đến dữ liệu không nhất quán khi cập nhật, vì việc nhập lại nhiều lần thông tin giống nhau sẽ tăng khả năng xảy ra sai sót."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Mục tiêu chính của việc thiết kế cơ sở dữ liệu là gì?",
+      "options": [
+        "A. Tăng cường khả năng tìm kiếm dữ liệu",
+        "B. Giảm thiểu dư thừa dữ liệu",
+        "C. Tăng số lượng bảng trong cơ sở dữ liệu",
+        "D. Đảm bảo mọi bảng đều chứa thông tin giống nhau"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Mục tiêu chính của việc thiết kế cơ sở dữ liệu là giảm thiểu dư thừa dữ liệu để đảm bảo tính chính xác và giảm rủi ro sai sót khi cập nhật thông tin."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Liên kết giữa các bảng trong cơ sở dữ liệu được thực hiện thông qua cái gì?",
+      "options": [
+        "A. Khóa chính",
+        "B. Khóa ngoài",
+        "C. Cả A và B",
+        "D. Không có liên kết nào"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Liên kết giữa các bảng trong cơ sở dữ liệu được thực hiện thông qua cặp khóa chính và khóa ngoài, trong đó khóa ngoài tham chiếu đến khóa chính của bảng khác."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Ràng buộc khóa ngoài đảm bảo điều gì trong cơ sở dữ liệu?",
+      "options": [
+        "A. Mọi giá trị khóa ngoài đều phải xuất hiện trong trường khóa ở bảng được tham chiếu",
+        "B. Mọi giá trị khóa chính đều phải xuất hiện trong khóa ngoài",
+        "C. Không có giá trị nào có thể bị xóa khỏi bảng",
+        "D. Không cần thiết phải kiểm tra tính hợp lệ của dữ liệu"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Ràng buộc khóa ngoài đảm bảo rằng mọi giá trị của khóa ngoài trong bảng tham chiếu phải xuất hiện trong giá trị khóa ở bảng được tham chiếu, giúp duy trì tính toàn vẹn dữ liệu."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Hệ quản trị cơ sở dữ liệu giúp gì cho người sử dụng?",
+      "options": [
+        "A. Tự động cập nhật mọi thông tin mà không cần người dùng",
+        "B. Kiểm soát tất cả thao tác cập nhật và ràng buộc giữa các bảng",
+        "C. Loại bỏ hoàn toàn khả năng sai sót khi nhập dữ liệu",
+        "D. Giúp người dùng tạo ra nhiều bảng không có liên kết"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Hệ quản trị cơ sở dữ liệu giúp kiểm soát tất cả thao tác cập nhật, đảm bảo rằng không có vi phạm nào đối với ràng buộc khóa ngoài giữa các bảng."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Khi có giá trị khóa ngoài không xuất hiện trong bảng được tham chiếu, điều gì xảy ra?",
+      "options": [
+        "A. Dữ liệu vẫn hợp lệ",
+        "B. Không xảy ra vấn đề gì",
+        "C. Xuất hiện hiện tượng mất tham chiếu",
+        "D. Tự động tạo ra giá trị mới trong bảng được tham chiếu"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Khi có giá trị khóa ngoài không xuất hiện trong bảng được tham chiếu, sẽ xảy ra hiện tượng mất tham chiếu, dẫn đến việc không thể xác định thông tin liên quan."
+    }
+  ]
+}

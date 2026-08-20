@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-de-thi-cuoi-ki-1-toan-11-nam-2025-2026-thpt-phan-huy-chu-dong-da-",
+  "sourceId": "vietjack:de-thi-cuoi-ki-1-toan-11-nam-2025-2026-t",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "cuoiki1",
+  "year": 2026,
+  "title": "Đề thi cuối kì 1 Toán 11 năm 2025-2026 THPT Phan Huy Chú (Đống Đa-Hà Nội) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: CÂU TRẮC NGHIỆM NHIỀU PHƯƠNG ÁN LỰA CHỌN (3 điểm). Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh chỉ chọn một phương án. Cho cấp số cộng \\(\\left( {{u_n}} \\right)\\) có số hạng đầu \\({u_1} = 3\\) và công sai \\(d = 6\\) . Số hạng tổng quát của cấp số cộng đã cho là",
+      "options": [
+        "A. \\({u_n} = 3n + 6\\) .",
+        "B. \\({u_n} = 6n - 3\\) .",
+        "C. \\({u_n} = \\frac{{{6^n}}}{3}\\) .",
+        "D. \\({u_n} = 6n + 3\\) ."
+      ],
+      "answer": "B",
+      "note": "Số hạng tổng quát của cấp số cộng \\(\\left( {{u_n}} \\right)\\) được tính theo công thức: \\({u_n} = {u_1} + \\left( {n - 1} \\right)d\\) . Thay \\({u_1} = 3\\) và \\(d = 6\\) vào công thức, ta có: \\({u_n} = 3 + \\left( {n - 1} \\right) \\cdot 6 = 3 + 6n - 6 = 6n - 3\\) . Chọn B."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Trong các dãy số hữu hạn sau, dãy số nào là cấp số nhân?",
+      "options": [
+        "A. \\(1;3;5;7;9\\) .",
+        "B. \\(1;2;3;4;5\\) .",
+        "C. \\(1;2;4;6;8\\) .",
+        "D. \\(1;2;4;8;16\\) ."
+      ],
+      "answer": "D",
+      "note": "Một dãy số là cấp số nhân nếu tỷ số giữa hai số hạng liên tiếp không đổi (bằng công bội \\(q\\) ). Xét dãy số ở phương án D: \\(1;2;4;8;16\\) ta có \\(\\frac{2}{1} = \\frac{4}{2} = \\frac{8}{4} = \\frac{{16}}{8} = 2\\) . Do đó, đây là một cấp số nhân với số hạng đầu \\({u_1} = 1\\) và công bội \\(q = 2\\) . Chọn D."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho hình hộp \\(ABCD.A'B'C'D'\\) (như hình vẽ dưới đây). Khẳng định nào sau đây là sai?",
+      "options": [
+        "A. Các mặt đối diện của hình hộp là các hình bình hành bằng nhau.",
+        "B. Các mặt đối diện của hình hộp song song với nhau.",
+        "C. Các đường chéo của hình hộp cùng đi qua trung điểm của mỗi đường.",
+        "D. Hình hộp đã cho có 8 đường chéo."
+      ],
+      "answer": "D",
+      "note": "Hình hộp có 4 đường chéo là \\(AC'\\) , \\(A'C\\) , \\(BD'\\) , \\(B'D\\) cùng cắt nhau tại trung điểm của mỗi đường. Do đó, khẳng định “Hình hộp đã cho có 8 đường chéo” là sai . Chọn D."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Giá trị \\(\\mathop {\\lim }\\limits_{x \\to 1} \\frac{{3{x^2} - 4x + 1}}{{x - 1}}\\) bằng",
+      "options": [
+        "A. \\( - 2\\) .",
+        "B. \\( - 1\\) .",
+        "C. \\(\\frac{1}{2}\\) .",
+        "D. \\(2\\) ."
+      ],
+      "answer": "D",
+      "note": "Ta có dạng vô định \\(\\frac{0}{0}\\) . Phân tích tử thức thành nhân tử: \\(3{x^2} - 4x + 1 = \\left( {x - 1} \\right)\\left( {3x - 1} \\right)\\) . Khi đó: \\(\\mathop {\\lim }\\limits_{x \\to 1} \\frac{{3{x^2} - 4x + 1}}{{x - 1}} = \\mathop {\\lim }\\limits_{x \\to 1} \\frac{{\\left( {x - 1} \\right)\\left( {3x - 1} \\right)}}{{x - 1}} = \\mathop {\\lim }\\limits_{x \\to 1} \\left( {3x - 1} \\right) = 3 \\cdot 1 - 1 = 2\\) . Chọn D."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Giá trị của \\(\\lim \\frac{{{n^2} + n + 1}}{{3{n^2} - 2n}}\\) bằng",
+      "options": [
+        "A. \\( - \\infty \\) .",
+        "B. \\( + \\infty \\) .",
+        "C. \\(\\frac{1}{3}\\) .",
+        "D. \\(0\\) ."
+      ],
+      "answer": "C",
+      "note": "Chia cả tử và mẫu cho \\({n^2}\\) : \\(\\lim \\frac{{{n^2} + n + 1}}{{3{n^2} - 2n}} = \\lim \\frac{{1 + \\frac{1}{n} + \\frac{1}{{{n^2}}}}}{{3 - \\frac{2}{n}}} = \\frac{{1 + 0 + 0}}{{3 - 0}} = \\frac{1}{3}\\) . Chọn C."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Khẳng định nào dưới đây đúng?",
+      "options": [
+        "A. Nếu mặt phẳng \\(\\left( P \\right)\\) chứa hai đường thẳng cắt nhau \\(a,b\\) và \\(a,b\\) vuông góc với mặt phẳng \\(\\left( Q \\right)\\) thì \\(\\left( P \\right)\\) song song với \\(\\left( Q \\right)\\) .",
+        "B. Nếu mặt phẳng \\(\\left( P \\right)\\) chứa hai đường thẳng cắt nhau \\(a,b\\) và đường thẳng \\(a\\) hoặc \\(b\\) song song với mặt phẳng \\(\\left( Q \\right)\\) thì \\(\\left( P \\right)\\) song song với \\(\\left( Q \\right)\\) .",
+        "C. Nếu mặt phẳng \\(\\left( P \\right)\\) chứa đường thẳng \\(a\\) và đường thẳng \\(a\\) song song với mặt phẳng \\(\\left( Q \\right)\\) thì \\(\\left( P \\right)\\) song song với \\(\\left( Q \\right)\\) .",
+        "D. Nếu mặt phẳng \\(\\left( P \\right)\\) chứa hai đường thẳng cắt nhau \\(a,b\\) và \\(a,b\\) cùng song song với mặt phẳng \\(\\left( Q \\right)\\) thì \\(\\left( P \\right)\\) song song với \\(\\left( Q \\right)\\) ."
+      ],
+      "answer": "D",
+      "note": "Theo định lý về điều kiện để hai mặt phẳng song song: Nếu mặt phẳng \\(\\left( P \\right)\\) chứa hai đường thẳng cắt nhau \\(a,b\\) và hai đường thẳng này cùng song song với mặt phẳng \\(\\left( Q \\right)\\) thì \\(\\left( P \\right){\\rm{//}}\\left( Q \\right)\\) . Chọn D."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Cho hình chóp \\(S.ABCD\\) có \\(ABCD\\) là hình thoi. Gọi \\(M\\) là trung điểm \\(SA\\) , điểm \\(N\\) thuộc \\(AD\\) sao cho \\(MN\\) song song với mặt phẳng \\(\\left( {SBD} \\right)\\) . Giao tuyến của mặt phẳng \\(\\left( {SNB} \\right)\\) và mặt phẳng \\(\\left( {MBD} \\right)\\) là",
+      "options": [
+        "A. đường thẳng \\(BN\\) .",
+        "B. đường thẳng \\(BE\\) với \\(E = DM \\cap SN\\) .",
+        "C. đường thẳng \\(BO\\) với \\(O = BN \\cap DM\\) .",
+        "D. đường thẳng \\(SB\\) ."
+      ],
+      "answer": "B",
+      "note": "Xét hai mặt phẳng \\(\\left( {SNB} \\right)\\) và \\(\\left( {MBD} \\right)\\) : Điểm \\(B\\) thuộc cả hai mặt phẳng \\(\\left( {SNB} \\right)\\) và \\(\\left( {MBD} \\right)\\) , nên \\(B\\) là điểm chung thứ nhất. Trong mặt phẳng \\(\\left( {SAD} \\right)\\) , gọi \\(E = SN \\cap DM\\) . Khi đó \\(E \\in SN \\subset \\left( {SNB} \\right)\\) và \\(E \\in DM \\subset \\left( {MBD} \\right)\\) , do đó \\(E\\) là điểm chung thứ hai. Vậy giao tuyến của \\(\\left( {SNB} \\right)\\) và \\(\\left( {MBD} \\right)\\) là đường thẳng \\(BE\\) với \\(E = DM \\cap SN\\) . Chọn B."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho tứ giác \\(ABCD\\) có \\(AC\\) và \\(BD\\) giao nhau tại \\(O\\) và một điểm \\(S\\) không thuộc mặt phẳng \\(\\left( {ABCD} \\right)\\) . Trên đoạn \\(SC\\) lấy một điểm \\(M\\) không trùng với \\(S\\) và \\(C\\) (tham khảo hình vẽ). Giao điểm của đường thẳng \\(SD\\) và mặt phẳng \\(\\left( {ABM} \\right)\\) là",
+      "options": [
+        "A. Giao điểm của \\(SD\\) và \\(AM\\) .",
+        "B. Giao điểm của \\(SD\\) và \\(BK\\) (với \\(K = SO \\cap AM\\) ).",
+        "C. Giao điểm của \\(SD\\) và \\(MK\\) (với \\(K = SO \\cap AM\\) ).",
+        "D. Giao điểm của \\(SD\\) và \\(AB\\) ."
+      ],
+      "answer": "B",
+      "note": "Xét mặt phẳng \\(\\left( {SAC} \\right)\\) , gọi \\(K = SO \\cap AM\\) . Vì \\(K \\in SO \\subset \\left( {SBD} \\right)\\) nên \\(K\\) nằm trong mặt phẳng \\(\\left( {SBD} \\right)\\) . Mặt phẳng \\(\\left( {SBD} \\right)\\) chứa đường thẳng \\(SD\\) . Đường thẳng \\(BK\\) thuộc cả mặt phẳng \\(\\left( {ABM} \\right)\\) (vì \\(K \\in AM \\subset \\left( {ABM} \\right)\\) ) và mặt phẳng \\(\\left( {SBD} \\right)\\) . Do đó, trong mặt phẳng \\(\\left( {SBD} \\right)\\) , giao điểm của \\(SD\\) và \\(BK\\) chính là giao điểm của \\(SD\\) với mặt phẳng \\(\\left( {ABM} \\right)\\) . Chọn B."
+    }
+  ]
+}

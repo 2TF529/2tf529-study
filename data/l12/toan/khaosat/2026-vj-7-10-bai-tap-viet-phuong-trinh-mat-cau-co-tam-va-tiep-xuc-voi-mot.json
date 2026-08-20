@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-7-10-bai-tap-viet-phuong-trinh-mat-cau-co-tam-va-tiep-xuc-voi-mot",
+  "sourceId": "vietjack:7-10-bai-tap-viet-phuong-trinh-mat-cau-c",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "7.10 bài tập Viết phương trình mặt cầu có tâm và tiếp xúc với một mặt phẳng có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Trong không gian với hệ tọa độ Oxyz, cho điểm A(2; 1; 1) và mặt phẳng (P): 2x – y + 2z + 1 = 0. Phương trình mặt cầu tâm A tiếp xúc với mặt phẳng (P) là:",
+      "options": [
+        "A. (x – 2) 2 + (y − 1) 2 + (z – 1) 2 = 4;",
+        "B. (x − 2) 2 + (y − 1) 2 + (z − 1) 2 = 9;",
+        "C. (x − 2) 2 + (y − 1) 2 + (z − 1) 2 = 3;",
+        "D. (x − 2) 2 + (y − 1) 2 + (z − 1) 2 = 5."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có \\(R = d\\left( {A,\\left( P \\right)} \\right) = \\frac{{\\left| {2.2 - 1 + 2.1 + 1} \\right|}}{{\\sqrt {{2^2} + {{\\left( { - 1} \\right)}^2} + {2^2}} }} = 2\\). Phương trình mặt cầu cần lập là: (x – 2) 2 + (y − 1) 2 + (z – 1) 2 = 4."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho A(1; 0; 0), B(0; 2; 0), C(0; 0; 3). Mặt cầu có tâm là gốc tọa độ O, tiếp xúc với mặt phẳng (ABC) có bán kính bằng",
+      "options": [
+        "A. \\(\\sqrt {\\frac{6}{7}} \\);",
+        "B. \\(\\frac{6}{7}\\);",
+        "C. \\(\\frac{{49}}{{36}}\\);",
+        "D. \\(\\frac{7}{6}\\)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Phương trình mặt phẳng (ABC): \\(\\frac{x}{1} + \\frac{y}{2} + \\frac{z}{3} = 1\\) 6x + 3y + 2z – 6 = 0. Có \\(R = d\\left( {O,\\left( {ABC} \\right)} \\right) = \\frac{{\\left| 6 \\right|}}{{\\sqrt {{6^2} + {3^2} + {2^2}} }} = \\frac{6}{7}\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trong không gian với hệ tọa độ Oxyz, phương trình nào dưới đây là phương trình của mặt cầu có tâm I(1; 2; −1) và tiếp xúc với mặt phẳng (P): x – 2y – 2z – 8 = 0.",
+      "options": [
+        "A. (x + 1) 2 + (y + 2) 2 + (z – 1) 2 = 3;",
+        "B. (x − 1) 2 + (y − 2) 2 + (z + 1) 2 = 3;",
+        "C. (x − 1) 2 + (y − 2) 2 + (z + 1) 2 = 9;",
+        "D. (x + 1) 2 + (y + 2) 2 + (z − 1) 2 = 9."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có \\(R = d\\left( {I,\\left( P \\right)} \\right) = \\frac{{\\left| {1 - 2.2 - 2.\\left( { - 1} \\right) - 8} \\right|}}{{\\sqrt {{1^2} + {{\\left( { - 2} \\right)}^2} + {{\\left( { - 2} \\right)}^2}} }} = 3\\). Do đó phương trình mặt cầu (S): (x − 1) 2 + (y − 2) 2 + (z + 1) 2 = 9."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Trong không gian với hệ trục tọa độ Oxyz, phương trình nào dưới đây là phương trình của mặt cầu có tâm I(−1; 1; 2) và tiếp xúc với mặt phẳng (P): 2x – y – 3z – 5 = 0.",
+      "options": [
+        "A. (x − 1) 2 + (y + 1) 2 + (z + 2) 2 = \\(\\sqrt {14} \\);",
+        "B. (x + 1) 2 + (y − 1) 2 + (z − 2) 2 = 14;",
+        "C. (x + 1) 2 − (y − 1) 2 − (z − 2) 2 = 14;",
+        "D. (x + 1) + (y + 2) + (z – 1) = 14."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có \\(R = d\\left( {I,\\left( P \\right)} \\right) = \\frac{{\\left| {2.\\left( { - 1} \\right) - 1 - 3.2 - 5} \\right|}}{{\\sqrt {{2^2} + {{\\left( { - 1} \\right)}^2} + {{\\left( { - 3} \\right)}^2}} }} = \\sqrt {14} \\). Phương trình mặt cầu cần lập là: (x + 1) 2 + (y − 1) 2 + (z − 2) 2 = 14."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Trong không gian với hệ tọa độ Oxyz, phương trình mặt cầu (S) có tâm I(−1; 2; 1) và tiếp xúc với mặt phẳng (P) có phương trình x – 2y – 2z – 2 = 0 là:",
+      "options": [
+        "A. (x + 1) 2 + (y − 2) 2 + (z − 1) 2 = 3;",
+        "B. (x + 1) 2 + (y − 2) 2 + (z − 1) 2 = 9;",
+        "C. (x + 1) 2 + (y − 2) 2 + (z + 1) 2 = 3;",
+        "D. (x + 1) 2 + (y − 2) 2 + (z + 1) 2 = 9."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có \\(R = d\\left( {I,\\left( P \\right)} \\right) = \\frac{{\\left| { - 1 - 2.2 - 2.1 - 2} \\right|}}{{\\sqrt {{1^2} + {{\\left( { - 2} \\right)}^2} + {{\\left( { - 2} \\right)}^2}} }} = 3\\). Phương trình mặt cầu cần tìm là (x + 1) 2 + (y − 2) 2 + (z − 1) 2 = 9."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong không gian Oxyz, cho điểm I(3; 4; 2). Phương trình mặt cầu tâm I và tiếp xúc với trục Oz là",
+      "options": [
+        "A. (x − 3) 2 + (y − 4) 2 + (z − 2) 2 = 16;",
+        "B. (x − 3) 2 + (y − 4) 2 + (z − 2) 2 = 4;",
+        "C. (x − 3) 2 + (y − 4) 2 + (z − 2) 2 = 5;",
+        "D. (x − 3) 2 + (y − 4) 2 + (z − 2) 2 = 25."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Gọi H là hình chiếu vuông góc của I lên trục Oz, suy ra H(0; 0; 2). Ta có \\(\\overrightarrow {HI} = \\left( {3;4;0} \\right)\\). Mặt cầu tâm I và tiếp xúc trục Oz có bán kính: \\(R = d\\left( {I,Oz} \\right) = HI = \\sqrt {{3^2} + {4^2} + {0^2}} = 5\\). Suy ra phương trình mặt cầu: (x − 3) 2 + (y − 4) 2 + (z − 2) 2 = 25."
+    }
+  ]
+}

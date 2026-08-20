@@ -1,0 +1,104 @@
+{
+  "id": "2026-vj-1-20-cau-trac-nghiem-toan-12-canh-dieu-bai-1-khoang-bien-thien-kh",
+  "sourceId": "vietjack:1-20-cau-trac-nghiem-toan-12-canh-dieu-b",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.20 câu Trắc nghiệm Toán 12 Cánh diều Bài 1. Khoảng biến thiên, khoảng tứ phân vị của mẫu số liệu ghép nhóm có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: I. Nhận biết Gọi \\({Q_1},{Q_2},{Q_3}\\) là tứ phân vị thứ nhất, tứ phân vị thứ hai và thứ ba của mẫu số liệu ghép nhóm. Khoảng tứ phân vị của mẫu số liệu ghép nhóm là:",
+      "options": [
+        "A. \\(\\Delta Q = {Q_1} - {Q_3}.\\)",
+        "B. \\(\\Delta Q = {Q_3} - {Q_1}.\\)",
+        "C. \\(\\Delta Q = {Q_1} - {Q_2}.\\)",
+        "D. \\(\\Delta Q = {Q_2} - {Q_1}.\\)"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Khoảng tứ phân vị của mẫu ghép nhóm có công thức là: \\(\\Delta Q = {Q_3} - {Q_1}.\\)"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Bảng sau thống kê khối lượng một quả cam được chọn ngẫu nhiên trong một thùng hàng. Khoảng biến thiên của mẫu số liệu ghép nhóm trên là:",
+      "options": [
+        "A. 10 gam.",
+        "B. 12 gam.",
+        "C. 2 gam.",
+        "D. 20 gam."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Khoảng biến thiên của mẫu số liệu ghép nhóm trên là: \\(R = 90 - 80 = 10\\) (gam)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Một vườn thú ghi lại tuổi thọ (đơn vị: năm) của 20 con hổ và thu được kết quả như sau: Khoảng biến thiên của mẫu số liệu ghép nhóm này là",
+      "options": [
+        "A. \\(3.\\)",
+        "B. \\(4.\\)",
+        "C. \\(5.\\)",
+        "D. \\(6.\\)"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Khoảng biến thiên của mẫu số liệu ghép nhóm trên là: \\(R = 19 - 14 = 5.\\)"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Một vườn thú ghi lại tuổi thọ (đơn vị: năm) của 20 con hổ và thu được kết quả như sau: Nhóm chứa tứ phân vị thứ nhất là:",
+      "options": [
+        "A. \\(\\left[ {14;15} \\right).\\)",
+        "B. \\(\\left[ {15;16} \\right).\\)",
+        "C. \\(\\left[ {16;17} \\right).\\)",
+        "D. \\(\\left[ {17;18} \\right).\\)"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có: \\(\\frac{n}{4} = \\frac{{20}}{4} = 5\\) nên nhóm chứa tứ phân vị thứ nhất là nhóm \\(\\left[ {16;17} \\right).\\)"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Doanh thu bán hàng trong 20 ngày được lựa chọn ngẫu nhiên của một cửa hàng được ghi lại ở bảng sau (đơn vị: triệu đồng). Tứ phân vị thứ ba của mẫu số liệu trên gần nhất với giá trị nào trong các giá trị sau?",
+      "options": [
+        "A. \\(10.\\)",
+        "B. \\(11.\\)",
+        "C. \\(12.\\)",
+        "D. \\(13.\\)"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có: \\(\\frac{{3n}}{4} = \\frac{{3.20}}{4} = 15\\) nên nhóm chứa tứ phân vị thứ ba là nhóm \\(\\left[ {9;11} \\right)\\). Do đó, \\({Q_3} = 9 + \\frac{{15 - \\left( {2 + 7} \\right)}}{7}\\left( {11 - 9} \\right) = \\frac{{75}}{7} \\approx 10,71.\\) Vậy tứ phân vị thứ ba gần nhất với giá trị 11."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Khoảng tứ phân vị của mẫu số liệu ghép nhóm lớp 11A là:",
+      "options": [
+        "A. \\(7,81.\\)",
+        "B. \\(8,81.\\)",
+        "C. \\(3.\\)",
+        "D. \\(1.\\)"
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Xét mẫu số liệu ghép nhóm của lớp 11A, ta có: Cỡ mẫu \\({n_A} = 1 + 11 + 22 + 6 = 40\\). Có \\(\\frac{n}{4} = 10\\) nên nhóm chưa tứ phân vị thứ nhất là \\(\\left[ {7;8} \\right)\\). Do đó, \\({Q_1} = 7 + \\frac{{10 - \\left( {1 + 0} \\right)}}{{11}}\\left( {8 - 7} \\right) = \\frac{{86}}{{11}}.\\) Có \\(\\frac{{3n}}{4} = 30\\) nên nhóm chứa tứ phân vị thứ ba là \\(\\left[ {8;9} \\right)\\). Do đó, \\({Q_3} = 8 + \\frac{{30 - \\left( {1 + 0 + 11} \\right)}}{{22}}\\left( {9 - 8} \\right) = \\frac{{97}}{{11}}.\\)\\[\\] Khoảng tứ phân vị của mẫu số liệu lớp 11A là: \\(\\Delta {Q_A} = \\frac{{97}}{{11}} - \\frac{{86}}{{11}} = 1.\\)"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Khoảng tứ phân vị của mẫu số liệu ghép nhóm lớp 11B gần nhất với giá trị nào dưới đây:",
+      "options": [
+        "A. \\(7,5.\\)",
+        "B. \\(9,167.\\)",
+        "C. \\(1,67.\\)",
+        "D. \\(1.\\)"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Xét mẫu số liệu ghép nhóm của học sinh lớp 11B: Cỡ mẫu \\({n_B} = 0 + 6 + 8 + 14 + 12 = 40\\). Có \\(\\frac{n}{4} = 10\\) nên nhóm chưa tứ phân vị thứ nhất là \\(\\left[ {7;8} \\right)\\). Do đó, \\({Q_1} = 7 + \\frac{{10 - \\left( {0 + 6} \\right)}}{8}\\left( {8 - 7} \\right) = 7,5.\\) Có \\(\\frac{{3n}}{4} = 30\\) nên nhóm chứa tứ phân vị thứ ba là \\(\\left[ {9;10} \\right)\\). Do đó, \\({Q_3} = 9 + \\frac{{30 - \\left( {0 + 6 + 8 + 14} \\right)}}{{12}}\\left( {10 - 9} \\right) = \\frac{{55}}{6}.\\) Vậy khoảng tứ phân vị của mẫu số liệu lớp 11B là: \\(\\Delta {Q_B} = {Q_3} - {Q_1} = \\frac{{55}}{6} - 7,5 = \\frac{5}{3} \\approx 1,67.\\)"
+    }
+  ]
+}

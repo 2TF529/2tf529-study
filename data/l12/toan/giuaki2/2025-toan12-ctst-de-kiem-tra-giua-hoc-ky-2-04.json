@@ -1,0 +1,160 @@
+{
+  "id": "l12-toan-giuaki2-2025-hochanh-1495",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "giuaki2",
+  "year": 2025,
+  "code": "HocHanh 1495",
+  "title": "TOAN12 - CTST - Đề kiểm tra giữa học kỳ 2 - 04",
+  "duration": 90,
+  "answerSource": "official",
+  "passages": {
+    "p1": "App không chấm điểm câu hỏi này!\nBạn lựa chọn đạt / không đạt để tự chấm."
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Mệnh đề nào sau đây sai?",
+      "options": [
+        "A. \\(\\int {\\left( {f\\left( x \\right) - g\\left( x \\right)} \\right){\\rm{d}}x} = \\int {f\\left( x \\right){\\rm{d}}x} - \\int {g\\left( x \\right){\\rm{d}}x} \\) , với mọi hàm số \\(f\\left( x \\right);g\\left( x \\right)\\) liên tục trên \\(\\mathbb{R}.\\)",
+        "B. \\(\\int {kf\\left( x \\right){\\rm{d}}x} = k\\int {f\\left( x \\right){\\rm{d}}x} \\) , với mọi hằng số \\(k\\) và với mọi hàm số \\(f\\left( x \\right)\\) liên tục trên \\(\\mathbb{R}\\) .",
+        "C. \\(\\int {\\left( {f\\left( x \\right) + g\\left( x \\right)} \\right){\\rm{d}}x} = \\int {f\\left( x \\right){\\rm{d}}x} + \\int {g\\left( x \\right){\\rm{d}}x} \\) , với mọi hàm số \\(f\\left( x \\right);g\\left( x \\right)\\) liên tục trên \\(\\mathbb{R}.\\)",
+        "D. \\(\\int {f'\\left( x \\right){\\rm{d}}x} = f\\left( x \\right) + C\\) với mọi hàm số \\(f\\left( x \\right)\\) có đạo hàm liên tục trên \\(\\mathbb{R}\\) ."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Cho biết \\(F\\left( x \\right)\\) là một nguyên hàm của hàm số \\(f\\left( x \\right)\\) . Tìm \\(I = \\int {\\left[ {2f\\left( x \\right) + 1} \\right]{\\rm{d}}x} \\) .",
+      "options": [
+        "A. \\(I = 2F\\left( x \\right) + 1 + C\\) .",
+        "B. \\(I = 2xF\\left( x \\right) + 1 + C\\) .",
+        "C. \\(I = 2xF\\left( x \\right) + x + C\\) .",
+        "D. \\(I = 2F\\left( x \\right) + x + C\\) ."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Nếu \\(\\int\\limits_1^2 {f(x){\\rm{d}}x} = 5\\) và \\(\\int\\limits_2^3 {f(x){\\rm{d}}x} = - 2\\) thì \\(\\int\\limits_1^3 {f(x){\\rm{d}}x} \\) bằng",
+      "options": [
+        "A. \\(3\\) .",
+        "B. \\(7\\) .",
+        "C. \\( - 10\\) .",
+        "D. \\( - 7\\) ."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Cho hàm số \\(f(x)\\) và \\(F(x)\\) liên tục trên \\(\\mathbb{R}\\) thỏa \\(F'(x) = f(x),\\forall x \\in \\mathbb{R}\\) . Biết \\(F(0) = 2\\) và \\(F(1) = 9\\) , mệnh đề nào sau đây đúng?",
+      "options": [
+        "A. \\(\\int_0^1 f (x){\\rm{d}}x = - 3\\) .",
+        "B. \\(\\int_0^1 f (x){\\rm{d}}x = 7\\) .",
+        "C. \\(\\int_0^1 f (x){\\rm{d}}x = 1\\) .",
+        "D. \\(\\int_0^1 f (x){\\rm{d}}x = 3\\) ."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Diện tích \\(S\\) của hình phẳng giới hạn bởi đường cong \\(y = 3{x^2} + 1\\) , trục hoành và hai đường thẳng \\(x = 0,x = 2\\) được tính bởi công thức",
+      "options": [
+        "A. \\(S = \\int\\limits_0^2 {{{\\left( {3{x^2} + 1} \\right)}^2}dx} \\) .",
+        "B. \\(S = \\pi \\int\\limits_0^2 {{{\\left( {3{x^2} + 1} \\right)}^2}dx} \\) .",
+        "C. \\(S = \\int\\limits_0^2 {\\left( {3{x^2} + 1} \\right)dx} \\) .",
+        "D. \\(S = \\pi \\int\\limits_0^2 {\\left( {3{x^2} + 1} \\right)dx} \\) ."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Diện tích hình phẳng giới hạn bởi các đường \\(y = {x^2}\\) và \\(y = 4x - 3\\) là",
+      "options": [
+        "A. \\(S = \\frac{3}{4}\\) .",
+        "B. \\(S = \\frac{4}{3}\\) .",
+        "C. \\(S = \\frac{2}{3}\\) .",
+        "D. \\(S = 2\\) ."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Trong không gian \\(Oxyz\\) , mặt phẳng \\(\\left( P \\right):x + y + z + 1 = 0\\) có một vectơ pháp tuyến là",
+      "options": [
+        "A. \\(\\overrightarrow {{n_1}} = \\left( { - 1;1;1} \\right)\\) .",
+        "B. \\(\\overrightarrow {{n_4}} = \\left( {1;1; - 1} \\right)\\) .",
+        "C. \\(\\overrightarrow {{n_3}} = \\left( {1;1;1} \\right)\\) .",
+        "D. \\(\\overrightarrow {{n_2}} = \\left( {1; - 1;1} \\right)\\) ."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Trong không gian \\(Oxyz\\) , cho mặt phẳng \\(\\left( \\alpha \\right):x + y + 2z - 1 = 0\\) . Mặt phẳng \\(\\left( \\alpha \\right)\\) song song với mặt phẳng nào sau đây?",
+      "options": [
+        "A. \\(\\left( Q \\right):3x + 3y + 6z - 1 = 0\\) .",
+        "B. \\(\\left( P \\right):2x + 2y + 4z - 2 = 0\\) .",
+        "C. \\(\\left( R \\right):x + y - z - 1 = 0\\) .",
+        "D. \\(\\left( S \\right): - x - y - 2z + 1 = 0\\) ."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "content": "Trong không gian \\(Oxyz\\) , cho mặt phẳng \\(\\left( P \\right)\\,:\\,x - 3y + 5z - 2 = 0\\) . Điểm nào dưới đây thuộc mặt phẳng \\(\\left( P \\right)\\) ?",
+      "options": [
+        "A. \\(N\\left( {1\\,;\\,1\\,;\\,7} \\right)\\) .",
+        "B. \\(Q\\left( {4\\,;\\,4\\,;\\,2} \\right)\\) .",
+        "C. \\(P\\left( {4\\,;\\, - 1\\,;\\,3} \\right)\\) .",
+        "D. \\(M\\left( {0\\,;\\,0\\,;\\,2} \\right)\\) ."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "content": "Cho mặt phẳng \\(\\left( P \\right):x + 2y + 2z - 6 = 0\\) ; \\(M\\left( {1\\,;\\,2\\,;\\,3} \\right)\\) . Khoảng cách từ \\(M\\) đến \\(\\left( P \\right)\\) bằng",
+      "options": [
+        "A. \\(d\\left( {M,\\,\\left( P \\right)} \\right) = \\frac{5}{9}\\) .",
+        "B. \\(d\\left( {M,\\,\\left( P \\right)} \\right) = \\frac{{11}}{9}\\) .",
+        "C. \\(d\\left( {M,\\,\\left( P \\right)} \\right) = \\frac{{11}}{3}\\) .",
+        "D. \\(d\\left( {M,\\left( P \\right)} \\right) = \\frac{5}{3}\\) ."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 11,
+      "type": "single",
+      "content": "Trong không gian \\(Oxyz\\) , cho 3 điểm \\(M\\left( {2;1; - 3} \\right)\\) , \\(N\\left( {1;0;2} \\right)\\) ; \\(P\\left( {2; - 3;5} \\right)\\) . Tìm một vectơ pháp tuyến \\(\\overrightarrow n \\) của mặt phẳng \\(\\left( {MNP} \\right)\\) .",
+      "options": [
+        "A. \\(\\overrightarrow n = \\left( {12;4;8} \\right)\\) .",
+        "B. \\(\\overrightarrow n = \\left( {8;12;4} \\right)\\) .",
+        "C. \\(\\overrightarrow n = \\left( {3;1;2} \\right)\\) .",
+        "D. \\(\\overrightarrow n = \\left( {3;2;1} \\right)\\) ."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 12,
+      "type": "single",
+      "content": "Trong không gian với hệ tọa độ \\(Oxyz\\) , cho điểm \\(A\\left( {2;0; - 4} \\right)\\) . Mặt phẳng trung trực của đoạn thẳng \\(OA\\) có phương trình là",
+      "options": [
+        "A. \\(x - 2y - 5z = 0\\) .",
+        "B. \\(x - 2y - 5 = 0\\) .",
+        "C. \\(x - 2z - 5 = 0\\) .",
+        "D. \\(x - 2z - 10 = 0\\) ."
+      ],
+      "answer": "D"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-bo-3-de-thi-giua-ki-1-toan-10-nam-2025-2026-tp-ho-chi-minh-co-d",
+  "sourceId": "vietjack:1-bo-3-de-thi-giua-ki-1-toan-10-nam-2025",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "giuaki1",
+  "year": 2026,
+  "title": "1.Bộ 3 đề thi giữa kì 1 Toán 10 năm 2025-2026 TP.Hồ Chí Minh (có đáp án)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn (5 điểm). Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ chọn một phương án. Giá trị của \\({\\rm{tan}}30^\\circ + {\\rm{cot}}30^\\circ \\) bằng bao nhiêu?",
+      "options": [
+        "A. \\(2\\) .",
+        "B. \\(\\frac{{2\\sqrt 3 }}{3}\\) .",
+        "C. \\(\\frac{{1 + \\sqrt 3 }}{3}\\) .",
+        "D. \\(\\frac{{4\\sqrt 3 }}{3}\\) ."
+      ],
+      "answer": "D",
+      "note": "Ta có giá trị lượng giác của các góc đặc biệt: \\({\\rm{tan}}30^\\circ = \\frac{{\\sqrt 3 }}{3}\\) \\({\\rm{cot}}30^\\circ = \\sqrt 3 \\) Thay vào biểu thức ta được: \\({\\rm{tan}}{30^ \\circ } + {\\rm{cot}}{30^ \\circ } = \\frac{{\\sqrt 3 }}{3} + \\sqrt 3 = \\frac{{\\sqrt 3 + 3\\sqrt 3 }}{3} = \\frac{{4\\sqrt 3 }}{3}\\) . Chọn D."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Một xưởng sản xuất bàn và ghế. Một chiếc bàn cần \\(1,5\\) giờ lắp ráp và \\(1\\) giờ hoàn thiện. Một chiếc ghế cần \\(1\\) giờ lắp ráp và \\(2\\) giờ hoàn thiện. Bộ phận lắp ráp có \\(3\\) công nhân, bộ phận hoàn thiện có \\(4\\) công nhân. Mỗi công nhân không làm việc quá \\(8\\) giờ một ngày và năng suất lao động của công nhân ở mỗi bộ phận đều như nhau. Thị trường luôn tiêu thụ hết sản phẩm của xưởng và lượng ghế tiêu thụ không vượt quá \\(3,5\\) lần số bàn. Một chiếc bàn lãi \\(600\\) nghìn đồng, một chiếc ghế lãi \\(450\\) nghìn đồng. Hỏi trong một ngày, xưởng cần sản xuất bao nhiêu chiếc bàn, chiếc ghế để thu được lợi nhuận cao nhất?",
+      "options": [
+        "A. \\(8\\) chiếc bàn và \\(12\\) chiếc ghế.",
+        "B. \\(4\\) chiếc bàn và \\(14\\) chiếc ghế.",
+        "C. \\(10\\) chiếc bàn và \\(12\\) chiếc ghế.",
+        "D. \\(4\\) chiếc bàn và \\(12\\) chiếc ghế."
+      ],
+      "answer": "A",
+      "note": "Gọi \\(x\\) là số chiếc bàn và \\(y\\) là số chiếc ghế mà xưởng sản xuất trong một ngày ( \\(x \\ge 0\\) , \\(y \\ge 0\\) , \\(x,y \\in \\mathbb{N}\\) ). Tổng số giờ làm việc tối đa của bộ phận lắp ráp trong một ngày là: \\(3 \\times 8 = 24\\) (giờ). Do đó, ta có bất phương trình: \\(1,5x + 1y \\le 24\\) . Tổng số giờ làm việc tối đa của bộ phận hoàn thiện trong một ngày là: \\(4 \\times 8 = 32\\) (giờ). Do đó, ta có bất phương trình: \\(1x + 2y \\le 32\\) . Lượng ghế tiêu thụ không vượt quá \\(3,5\\) lần số bàn: \\(y \\le 3,5x \\Leftrightarrow 3,5x - y \\ge 0\\) . Ta có hệ bất phương trình ràng buộc: \\(\\left\\{ {\\begin{array}{*{20}{l}}{x \\ge 0}\\\\{y \\ge 0}\\\\{1,5x + y \\le 24}\\\\{x + 2y \\le 32}\\\\{3,5x - y \\ge 0}\\end{array}} \\right.\\) . Số tiền lãi miền nghiệm thu được là: \\(F\\left( {x;y} \\right) = 600x + 450y\\) (nghìn đồng). Miền nghiệm của hệ là miền đa giác tạo bởi các đỉnh giao điểm. Để tìm điểm tối ưu, ta kiểm tra giá trị của các phương án được cho sẵn trong các đáp án xem có thỏa mãn hệ bất phương trình hay không và tính lợi nhuận: Xét đáp án A ( \\(x = 8,y = 12\\) ): \\(1,5 \\times 8 + 12 = 24 \\le 24\\) (Thỏa mãn) \\(8 + 2 \\times 12 = 32 \\le 32\\) (Thỏa mãn) \\(3,5 \\times 8 - 12 = 16 \\ge 0\\) (Thỏa mãn) Lợi nhuận: \\(F\\left( {8;12} \\right) = 600 \\times 8 + 450 \\times 12 = 4800 + 5400 = 10200\\) nghìn đồng. Xét đáp án B ( \\(x = 4,y = 14\\) ): \\(1,5 \\times 4 + 14 = 20 \\le 24\\) (Thỏa mãn) \\(4 + 2 \\times 14 = 32 \\le 32\\) (Thỏa mãn) \\(3,5 \\times 4 - 14 = 0 \\ge 0\\) (Thỏa mãn) Lợi nhuận: \\(F\\left( {4;14} \\right) = 600 \\times 4 + 450 \\times 14 = 2400 + 6300 = 8700\\) nghìn đồng. Xét đáp án C ( \\(x = 10,y = 12\\) ): \\(1,5 \\times 10 + 12 = 27 > 24\\) (Không thỏa mãn hệ) Xét đáp án D ( \\(x = 4,y = 12\\) ): Thỏa mãn hệ, lợi nhuận: \\(F\\left( {4;12} \\right) = 600 \\times 4 + 450 \\times 12 = 2400 + 5400 = 7800\\) nghìn đồng. So sánh các giá trị thỏa mãn, lợi nhuận lớn nhất là \\(10200\\) nghìn đồng khi sản xuất \\(8\\) chiếc bàn và \\(12\\) chiếc ghế. Chọn A."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Phần không bị gạch, kể cả biên trong hình vẽ là miền nghiệm của hệ bất phương trình nào?",
+      "options": [
+        "A. \\(\\left\\{ {\\begin{array}{*{20}{l}}{y \\le 0}\\\\{x + y \\le - 2}\\end{array}} \\right.\\) .",
+        "B. \\(\\left\\{ {\\begin{array}{*{20}{l}}{y \\le 0}\\\\{x + y \\ge - 2}\\end{array}} \\right.\\) .",
+        "C. \\(\\left\\{ {\\begin{array}{*{20}{l}}{y \\ge 0}\\\\{x + y \\le - 2}\\end{array}} \\right.\\) .",
+        "D. \\(\\left\\{ {\\begin{array}{*{20}{l}}{y \\ge 0}\\\\{x + y \\ge - 2}\\end{array}} \\right.\\) ."
+      ],
+      "answer": "B",
+      "note": "Dựa vào hình vẽ ta thấy: Miền nghiệm nằm hoàn toàn ở phía dưới trục hoành \\(Ox\\) (trục \\(y = 0\\) ). Do đó ta phải có \\(y \\le 0\\) . Loại đáp án C và D. Đường thẳng ranh giới thứ hai cắt trục \\(Ox\\) tại điểm \\(\\left( { - 2;0} \\right)\\) và cắt trục \\(Oy\\) tại điểm \\(\\left( {0; - 2} \\right)\\) . Phương trình đường thẳng này có dạng: \\(\\frac{x}{{ - 2}} + \\frac{y}{{ - 2}} = 1 \\Leftrightarrow x + y = - 2\\) . Thử tọa độ điểm gốc tọa độ \\(O\\left( {0;0} \\right)\\) vào biểu thức \\(x + y\\) : ta có \\(0 + 0 = 0 > - 2\\) . Trên hình vẽ, phần chứa điểm \\(O\\left( {0;0} \\right)\\) không bị gạch (thuộc miền nghiệm). Do đó bất phương trình phải là \\(x + y \\ge - 2\\) . Hệ bất phương trình tương ứng là \\(\\left\\{ {\\begin{array}{*{20}{l}}{y \\le 0}\\\\{x + y \\ge - 2}\\end{array}} \\right.\\) . Chọn B."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho △ A B C , gọi \\(r,R\\) lần lượt là bán kính đường tròn nội tiếp và ngoại tiếp , \\(p\\) là nửa chu vi. Đặt \\(AB = c\\) , \\(AC = b\\) , \\(BC = a\\) . Diện tích được tính theo công thức nào?",
+      "options": [
+        "A. \\(S = \\sqrt {\\left( {p - a} \\right)\\left( {p - b} \\right)\\left( {p - c} \\right)} \\) .",
+        "B. \\(S = \\frac{{abc}}{{4r}}\\) .",
+        "C. \\(S = pr\\) .",
+        "D. \\(S = \\frac{1}{2}ac{\\rm{sin}}A\\)"
+      ],
+      "answer": "C",
+      "note": "Theo lý thuyết hệ thức lượng trong tam giác, diện tích tam giác \\(ABC\\) được tính theo công thức bán kính đường tròn nội tiếp là: \\(S = pr\\) . Phương án A sai vì thiếu hệ số \\(p\\) trong căn (công thức đúng là Heron: \\(S = \\sqrt {p\\left( {p - a} \\right)\\left( {p - b} \\right)\\left( {p - c} \\right)} \\) ). Phương án B sai vì công thức đúng theo bán kính đường tròn ngoại tiếp phải là \\(S = \\frac{{abc}}{{4R}}\\) . Phương án D sai vì công thức đúng phải là \\(S = \\frac{1}{2}ac{\\rm{sin}}B\\) hoặc \\(S = \\frac{1}{2}bc{\\rm{sin}}A\\) . Chọn C."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Mệnh đề phủ định của mệnh đề \\(T\\) : \" \\(\\exists x \\in \\mathbb{R},{x^2} > 0\\) \" là:",
+      "options": [
+        "A. \\(\\bar T\\) : \" \\(\\forall x \\in \\mathbb{R},{x^2} \\le 0\\) \".",
+        "B. \\(\\bar T\\) : \" \\(\\forall x \\in \\mathbb{R},{x^2} > 0\\) \".",
+        "C. \\(\\bar T\\) : \" \\(\\exists x \\in \\mathbb{R},{x^2} < 0\\) \".",
+        "D. \\(\\bar T\\) : \" \\(\\forall x \\in \\mathbb{R},{x^2} \\ge 0\\) \"."
+      ],
+      "answer": "A",
+      "note": "Ta có phủ định của ký hiệu tồn tại ( \\(\\exists \\) ) là với mọi ( \\(\\forall \\) ), phủ định của dấu lớn hơn ( \\( > \\) ) là dấu nhỏ hơn hoặc bằng ( \\( \\le \\) ). Do đó, phủ định của mệnh đề \\(T\\) là \\(\\bar T\\) : \" \\(\\forall x \\in \\mathbb{R},{x^2} \\le 0\\) \". Chọn A."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho hai tập hợp \\(A = \\left( {1;5} \\right]\\) ; \\(B = \\left( {2;7} \\right]\\) . Tập hợp \\(A\\backslash B\\) là:",
+      "options": [
+        "A. \\(\\left( { - 1;2} \\right)\\) .",
+        "B. \\(\\left( { - 1;7} \\right]\\) .",
+        "C. \\(\\left( {1;2} \\right]\\) .",
+        "D. \\(\\left( {2;5} \\right)\\) ."
+      ],
+      "answer": "C",
+      "note": "Tập hợp hiệu \\(A\\backslash B\\) gồm các phần tử thuộc \\(A\\) nhưng không thuộc \\(B\\) . Ta có: \\(A = \\left( {1;5} \\right]\\) và \\(B = \\left( {2;7} \\right]\\) . Do đó, \\(A\\backslash B = \\left( {1;2} \\right]\\) . Chọn C."
+    }
+  ]
+}

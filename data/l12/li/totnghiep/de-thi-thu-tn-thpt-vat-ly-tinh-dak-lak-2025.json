@@ -1,0 +1,286 @@
+{
+  "id": "l12-li-totnghiep-2025-de-thi-thu-tn-thpt-vat-ly-tinh-dak-lak-2025",
+  "grade": "l12",
+  "subjectSlug": "li",
+  "examType": "totnghiep",
+  "year": 2025,
+  "code": "THPT_TTL_DL_2025_01",
+  "title": "Đề thi thử tốt nghiệp THPT môn Vật Lý Sở GD&ĐT Đắk Lắk năm 2025",
+  "duration": 50,
+  "answerSource": "official",
+  "source": "https://dolthpt.vn/tot-nghiep-thpt/pdf-de-thi-thu-tn-thpt-vat-ly-tinh-dak-lak-2025-co-dap-an",
+  "notes": "Nội dung, đáp án và lời giải được nhập từ bản công khai của DOL THPT.",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "content": "Trong hệ SI, đơn vị của nhiệt nóng chảy riêng là",
+      "chuong": "vật lí nhiệt",
+      "dang": "lý thuyết: nhiệt nóng chảy riêng",
+      "type": "single",
+      "options": [
+        "A. $\\text{J/kg}$",
+        "B. $\\text{J/(J}_\\lambda)$",
+        "C. $\\text{kg/J}$",
+        "D. $\\text{J/(kg.K)}$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Theo định nghĩa, nhiệt nóng chảy riêng $L$ là năng lượng $Q$ cần cung cấp để làm tan chảy một khối lượng $m$ chất ở nhiệt độ nóng chảy, tức là\n$L = \\frac{Q}{m}$\n- Trong hệ SI, - Đơn vị của năng lượng $Q$ là $\\text{J}$\n  - Đơn vị của khối lượng $m$ là $\\text{kg}$\n- Do đó đơn vị của $L$ là\n$[L] = \\frac{[\\;Q\\;]}{[\\;m\\;}]} = \\frac{\\text{J}}{\\text{kg}}$\n**✅ Đáp án:** $\\text{J/kg}$\n**❌ Các đáp án khác:**\n- J/(Jₗ): lẫn lộn hai đơn vị cùng là năng lượng, không có ý nghĩa vật lý\n- kg/J: là nghịch đảo của đơn vị cần tìm\n- J/(kg·K): đây là đơn vị của nhiệt dung riêng, không phải nhiệt nóng chảy riêng"
+    },
+    {
+      "id": 2,
+      "content": "Biết nhiệt dung riêng của nước là \\$4200\\ \\text{J/(kg.K)}$, nhiệt hóa hơi riêng của nước ở \\$100^\\circ C$ là \\$2{,}26 \\cdot 10^6\\ \\text{J/kg}$. Nhiệt lượng cần thiết để làm cho 500 g nước ở \\$20^\\circ C$ chuyển hoàn toàn thành hơi nước ở \\$100^\\circ C$ là",
+      "chuong": "vật lí nhiệt",
+      "dang": "bài tập: nhiệt hóa hơi riêng",
+      "type": "single",
+      "options": [
+        "A. \\$1298\\ \\text{kJ}$",
+        "B. \\$1130\\ \\text{kJ}$",
+        "C. \\$168\\ \\text{kJ}$",
+        "D. \\$2596\\ \\text{kJ}$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Tính khối lượng: $m = 0{,}5\\ \\text{kg}$\n- Tính độ tăng nhiệt độ: $\\Delta T = T_2 - T_1 = 100 - 20 = 80\\ \\text{K}$\n- Tính nhiệt lượng để gia nhiệt nước từ \\$20^\\circ C$ lên \\$100^\\circ C$:\n$Q_1 = m \\times c \\times \\Delta T = 0{,}5 \\times 4200 \\times 80 = 168000\\ \\text{J}$\n- Tính nhiệt lượng để hoá hơi ở \\$100^\\circ C$:\n$Q_2 = m \\times L = 0{,}5 \\times 2{,}26\\times10^6 = 1{,}13\\times10^6\\ \\text{J}$\n- Tổng nhiệt lượng cần thiết:\n$Q = Q_1 + Q_2 = 168000 + 1130000 = 1298000\\ \\text{J} = 1298\\ \\text{kJ}$\n**✅ Đáp án:** \\$1298\\ \\text{kJ}$\n**❌ Các đáp án khác:**\n- B. \\$1130\\ \\text{kJ}$: chỉ tính nhiệt lượng hoá hơi, bỏ sót phần gia nhiệt.\n- C. \\$168\\ \\text{kJ}$: chỉ tính phần gia nhiệt, không tính hoá hơi.\n- D. \\$2596\\ \\text{kJ}$: sai do tính nhầm, gấp đôi kết quả đúng."
+    },
+    {
+      "id": 3,
+      "content": "Một lượng khí lí tưởng xác định thực hiện quá trình biến đổi trạng thái có đồ thị biểu diễn như hình vẽ. Quá trình biến đổi trạng thái này là\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tn-thpt-vat-ly-tinh-dak-lak-2025/cau-03.webp\" alt=\"Hình minh họa câu 3\" loading=\"lazy\"></figure>",
+      "chuong": "khí lí tưởng",
+      "dang": "đồ thị: định luật boyle",
+      "type": "single",
+      "options": [
+        "A. quá trình đẳng tích.",
+        "B. quá trình nén đẳng nhiệt.",
+        "C. quá trình đẳng áp.",
+        "D. quá trình đẳng nhiệt."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Quan sát đồ thị: trục hoành là *p*, trục tung là *T*; đường thẳng nằm ngang biểu thị\n- Theo định nghĩa:\n• Quá trình **đẳng nhiệt**: nhiệt độ T không đổi.\n• Quá trình **đẳng áp**: áp suất p không đổi.\n• Quá trình **đẳng tích**: thể tích V không đổi.\n- Ở đây T không đổi khi p thay đổi ⇒ đây là **quá trình đẳng nhiệt**.\n**✅ Đáp án:** $\\text{quá trình đẳng nhiệt}$\n**❌ Các đáp án khác:**\n- A: **đẳng tích** – không liên quan, vì đồ thị không thể hiện thể tích.\n- B: **nén đẳng nhiệt** – mặc dù đúng về đẳng nhiệt, nhưng đề không yêu cầu phân biệt quá trình nén hay giãn.\n- C: **đẳng áp** – p không đổi phải cho đường thẳng dọc trên trục p, khác với đồ thị cho."
+    },
+    {
+      "id": 4,
+      "content": "Sóng điện từ",
+      "chuong": "từ trường",
+      "dang": "lý thuyết: điện từ trường. mô hình sóng điện từ",
+      "type": "single",
+      "options": [
+        "A. không lan truyền được trong chân không.",
+        "B. chi lan truyền trong các môi trường đàn hồi như rắn, lỏng, khí.",
+        "C. có thể lan truyền được trong chân không.",
+        "D. lan truyền được cả trong chân không và trong các môi trường vật chất."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Nhắc lại khái niệm *sóng điện từ*: - Là sự biến thiên giao thoa giữa điện trường và từ trường lan truyền trong không gian.\n- Xác định đặc điểm truyền sóng điện từ: - Vì truyền bằng biến thiên điện – từ trường, sóng điện từ không cần môi trường cơ học (như chất đàn hồi) để truyền.\n- Kết luận về môi trường lan truyền: - Sóng điện từ có thể truyền được trong chân không (vì không cần chất làm môi trường).\n  - Đồng thời cũng truyền được trong các môi trường vật chất (không khí, thủy tinh, nước…).\n- So sánh với các phương án: chọn thông tin đầy đủ nhất.\n**✅ Đáp án:** $D$\n**❌ Các đáp án khác:**\n- A. “không lan truyền được trong chân không.” Sai, vì sóng điện từ hoàn toàn truyền được trong chân không.\n- B. “chỉ lan truyền trong các môi trường đàn hồi như rắn, lỏng, khí.” Sai, đó là tính chất của sóng cơ, không phải sóng điện từ.\n- C. “có thể lan truyền được trong chân không.” Chỉ nêu đúng 1 phần (chân không) nhưng thiếu lan truyền trong môi trường vật chất."
+    },
+    {
+      "id": 5,
+      "content": "Số nucleon có trong hạt nhân $^{90}_{40}\\text{Zr}$ là",
+      "chuong": "vật lí hạt nhân",
+      "dang": "bài tập: tính toán a, z, n",
+      "type": "single",
+      "options": [
+        "A. 40",
+        "B. 90",
+        "C. 130",
+        "D. 50"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Bước 1: Nhận diện kí hiệu hạt nhân $^{90}_{40}\\text{Zr}$ - Số bên trên (90) gọi là *số khối A*.\n  - Số bên dưới (40) gọi là *số proton Z*.\n- Bước 2: Viết công thức tổng quát cho số nucleon  với - $A$ là số khối (số nucleon)\n  - $Z$ là số proton\n  - $N$ là số neutron\n- Bước 3: Nhìn vào hạt nhân, ta có $A = 90$. Do đó *số nucleon* chính bằng 90.\n**✅ Đáp án:** 90\n**❌ Các đáp án khác:**\n- A. 40: Đây là số proton $Z$, không phải tổng số nucleon.\n- C. 130: Sai vì không tương ứng với bất kỳ tổng proton + neutron nào trong hạt nhân đã cho.\n- D. 50: Đây là số neutron $N = A - Z = 90 - 40$, không phải tổng số nucleon."
+    },
+    {
+      "id": 6,
+      "content": "Gọi P, V và T lần lượt là áp suất, thể tích và nhiệt độ tuyệt đối của một khối khí lí tưởng xác định. Công thức nào sau đây mô tả đúng định luật Charles?",
+      "chuong": "khí lí tưởng",
+      "dang": "lý thuyết: định luật charles",
+      "type": "single",
+      "options": [
+        "A. $\\dfrac{P}{T} = \\text{hằng số}$",
+        "B. $pT = \\text{hằng số}$",
+        "C. $\\dfrac{V}{T} = \\text{hằng số}$",
+        "D. $V \\cdot T = \\text{hằng số}$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Định luật Charles phát biểu: *ở áp suất không đổi*, thể tích của một lượng khí tỉ lệ thuận với nhiệt độ tuyệt đối.\n- Viết tỉ lệ thuận này dưới dạng công thức:\n$\\frac{V}{T} = \\text{hằng số}$\n- Giải thích: khi P giữ không đổi, nếu T tăng gấp đôi thì V cũng tăng gấp đôi, nên tỉ số V/T không đổi.\n- Đối chiếu với các phương án cho sẵn: - A: $\\frac{P}{T} = \\text{hằng số}$ ✗ (liên hệ sai đại lượng, P không giữ tỉ lệ với T trong định luật Charles)\n  - B: $P\\,T = \\text{hằng số}$ ✗ (sai tích hai đại lượng, đây không phải định luật Charles)\n  - D: $V \\cdot T = \\text{hằng số}$ ✗ (sai tích V và T, ngược với tỉ lệ thuận cần biểu diễn dưới dạng tỉ số)\n**✅ Đáp án:** $\\frac{V}{T} = \\text{hằng số}$\n**❌ Các đáp án khác:**\n- A. Sai vì Charles đề cập đến V và T, chứ không phải P và T.\n- B. Sai vì biểu thức P·T không liên quan đến định luật Charles (và áp suất không đổi).\n- D. Sai vì định luật Charles là tỉ số V/T không đổi, không phải tích V·T."
+    },
+    {
+      "id": 7,
+      "content": "Quá trình một chất chuyển từ thể rắn sang thể lỏng được gọi là quá trình",
+      "chuong": "vật lí nhiệt",
+      "dang": "lý thuyết: cấu trúc của chất. sự chuyển thể",
+      "type": "single",
+      "options": [
+        "A. ngưng tụ.",
+        "B. thăng hoa.",
+        "C. đông đặc.",
+        "D. nóng chảy."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Bước 1: Viết lại định nghĩa từng quá trình chuyển pha:\n• Ngưng tụ: khí → lỏng\n• Thăng hoa: rắn → khí (không qua pha lỏng)\n• Đông đặc: lỏng → rắn\n• Nóng chảy: rắn → lỏng\n- Bước 2: So sánh với yêu cầu của đề: ta cần quá trình *rắn → lỏng*.\n- Bước 3: Nhận thấy chỉ có “nóng chảy” là khớp với phép biến đổi này.\n**✅ Đáp án:** $D.\\;nóng\\;chảy$\n**❌ Các đáp án khác:**\n- A. ngưng tụ: là quá trình *khí → lỏng*, không phải rắn sang lỏng.\n- B. thăng hoa: là quá trình *rắn → khí*, bỏ qua pha lỏng.\n- C. đông đặc: là quá trình *lỏng → rắn*, ngược lại với yêu cầu."
+    },
+    {
+      "id": 8,
+      "content": "Để xác định chiều của lực từ tác dụng lên một đoạn dây dẫn thẳng mang dòng điện người ta sử dụng quy tắc bàn tay trái. Chiều (1), (2), (3) trên hình vẽ lần lượt là chiều của\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tn-thpt-vat-ly-tinh-dak-lak-2025/cau-08.webp\" alt=\"Hình minh họa câu 8\" loading=\"lazy\"></figure>",
+      "chuong": "từ trường",
+      "dang": "bài tập: lực từ tác dụng lên dây dẫn mang điện",
+      "type": "single",
+      "options": [
+        "A. lực từ, dòng điện, cảm ứng từ.",
+        "B. lực từ, cảm ứng từ, dòng điện.",
+        "C. cảm ứng từ, dòng điện, lực từ.",
+        "D. dòng điện, cảm ứng từ, lực từ."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Duỗi ba ngón cái, trỏ, giữa sao cho vuông góc: - *Ngón cái* chỉ chiều *lực từ*.\n  - *Ngón trỏ* chỉ chiều *cảm ứng từ*.\n  - *Ngón giữa* chỉ chiều *dòng điện*.\n- So sánh với hình vẽ: - Mũi tên (1) trùng hướng ngón cái → (1) là *lực từ*.\n  - Mũi tên (2) trùng hướng ngón giữa → (2) là *dòng điện*.\n  - Mũi tên (3) trùng hướng ngón trỏ → (3) là *cảm ứng từ*.\n**✅ Đáp án:** $\\text{lực từ, dòng điện, cảm ứng từ.}$\n**❌ Các đáp án khác:**\n- B: \"lực từ, cảm ứng từ, dòng điện.\" – Hoán đổi dòng điện và cảm ứng từ, không khớp hình vẽ.\n- C: \"cảm ứng từ, dòng điện, lực từ.\" – (1) phải là lực từ, không phải cảm ứng từ.\n- D: \"dòng điện, cảm ứng từ, lực từ.\" – (1) phải là lực từ, không phải dòng điện."
+    },
+    {
+      "id": 9,
+      "content": "Một khối lượng khí lí tưởng xác định được biến đổi trạng thái có thể tích $V$ và áp suất $p$ ứng với các điểm a, b, c, d như hình vẽ. Khối khí có nhiệt độ nhỏ nhất ứng với trạng thái của điểm nào?\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tn-thpt-vat-ly-tinh-dak-lak-2025/cau-09.webp\" alt=\"Hình minh họa câu 9\" loading=\"lazy\"></figure>",
+      "chuong": "khí lí tưởng",
+      "dang": "đồ thị: phương trình trạng thái khí lí tưởng",
+      "type": "single",
+      "options": [
+        "A. a",
+        "B. d",
+        "C. b",
+        "D. c"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Từ phương trình khí lý tưởng:  với $nR$ không đổi, suy ra $T \\propto pV$.\n- Tính tích $pV$ tại mỗi điểm: - Điểm a: $p_aV_a = 2 \\times 1 = 2$\n  - Điểm b: $p_bV_b = 4 \\times 1 = 4$\n  - Điểm c: $p_cV_c = 2 \\times 4 = 8$\n  - Điểm d: $p_dV_d = 1 \\times 2 = 2$\n- Nhận thấy giá trị nhỏ nhất của $pV$ là **2**, xảy ra tại điểm **a** (đồng thời bằng với d nhưng không nhỏ hơn).\n- Vậy điểm **a** cho nhiệt độ thấp nhất.\n**✅ Đáp án:** $A$\n**❌ Các đáp án khác:**\n- d: $pV = 2$ bằng a, không phải nhỏ hơn.\n- b: $pV = 4 > 2$.\n- c: $pV = 8 > 2$."
+    },
+    {
+      "id": 10,
+      "content": "Một vật được làm lạnh từ \\$28^\\circ C$ xuống \\$3^\\circ C$. Nhiệt độ của vật theo thang Kelvin giảm đi bao nhiêu Kelvin?",
+      "chuong": "vật lí nhiệt",
+      "dang": "bài tập: đổi nhiệt độ cơ bản",
+      "type": "single",
+      "options": [
+        "A. \\$298\\ \\text{K}$",
+        "B. \\$276\\ \\text{K}$",
+        "C. \\$31\\ \\text{K}$",
+        "D. \\$25\\ \\text{K}$"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Công thức chuyển đổi từ ℃ sang K là:\n$T_K = T_C + 273$\n- Gọi $T_{1K}$ là nhiệt độ ban đầu theo K và $T_{2K}$ là nhiệt độ sau khi làm lạnh theo K:\n$T_{1K} = 28^\\circ C + 273 = 301\\ \\text{K}$\n$T_{2K} = 3^\\circ C + 273 = 276\\ \\text{K}$\n- Độ giảm nhiệt độ theo Kelvin là hiệu số:\n$\\Delta T_K = T_{1K} - T_{2K} = 301\\ \\text{K} - 276\\ \\text{K} = 25\\ \\text{K}$\n- *Lưu ý:* Vì khi lấy hiệu, phần +273 ở cả hai nhiệt độ triệt tiêu lẫn nhau, nên thực chất $\\Delta T_K = 28 - 3 = 25\\ \\text{K}$.\n**✅ Đáp án:** \\$25\\ \\text{K}$\n**❌ Các đáp án khác:**\n- A. \\$298\\ \\text{K}$ – Đây là nhiệt độ của 25°C quy đổi sang Kelvin, không phải độ giảm.\n- B. \\$276\\ \\text{K}$ – Đây là nhiệt độ 3°C khi quy đổi, không phải độ chênh.\n- C. \\$31\\ \\text{K}$ – Không khớp với hiệu số 28 – 3 = 25."
+    },
+    {
+      "id": 11,
+      "content": "Hình vẽ mô tả một dynamo gắn trên xe đạp và sơ đồ cấu tạo của nó. Khi xe đạp chạy, bánh xe làm cho núm ấn động quay, kéo theo nam châm quay. Khi đó trong cuộn dây xuất hiện dòng điện, làm cho bóng đèn mắc nối tiếp với cuộn dây sáng lên. Nguyên tắc hoạt động của dynamo gắn trên xe đạp dựa trên hiện tượng nào?\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tn-thpt-vat-ly-tinh-dak-lak-2025/cau-11.webp\" alt=\"Hình minh họa câu 11\" loading=\"lazy\"></figure>",
+      "chuong": "từ trường",
+      "dang": "bài tập: guitar điện, bếp từ, dynamo xe đạp, loa điện",
+      "type": "single",
+      "options": [
+        "A. hiện tượng nhiễm điện do cọ xát.",
+        "B. hiện tượng cảm ứng điện từ.",
+        "C. hiện tượng ma sát.",
+        "D. hiện tượng tích điện."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Xác định hiện tượng vật lý liên quan: khi nam châm quay tương đối so với cuộn dây, từ thông qua cuộn dây thay đổi → sinh điện.\n- Loại trừ các đáp án không phù hợp: - Nhiễm điện do cọ xát: chỉ tạo điện tĩnh trên bề mặt vật, không sinh dòng điện trong dây dẫn.\n  - Hiện tượng ma sát: liên quan đến lực cản chuyển động, không sinh dòng điện.\n  - Tích điện: nói về điện tích tĩnh, không phải dòng điện sinh ra do từ trường biến thiên.\n- Kết luận: quá trình này chính là **hiện tượng cảm ứng điện từ**.\n**✅ Đáp án:** $B$\n**❌ Các đáp án khác:**\n- A. Nhiễm điện do cọ xát: tạo điện tĩnh, không sinh dòng điện liên tục.\n- C. Hiện tượng ma sát: chỉ mô tả lực cản, không liên quan đến sinh điện.\n- D. Hiện tượng tích điện: đề cập đến tích điện tĩnh, không giải thích được việc sinh dòng điện trong cuộn dây."
+    },
+    {
+      "id": 12,
+      "content": "Hình vẽ mô tả một dynamo gắn trên xe đạp và sơ đồ cấu tạo của nó. Khi xe đạp chạy, bánh xe làm cho núm ấn động quay, kéo theo nam châm quay. Khi đó trong cuộn dây xuất hiện dòng điện, làm cho bóng đèn mắc nối tiếp với cuộn dây sáng lên. Khi xe đạp tăng tốc thì độ sáng của bóng đèn sẽ như thế nào?\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tn-thpt-vat-ly-tinh-dak-lak-2025/cau-12.webp\" alt=\"Hình minh họa câu 12\" loading=\"lazy\"></figure>",
+      "chuong": "từ trường",
+      "dang": "bài tập: guitar điện, bếp từ, dynamo xe đạp, loa điện",
+      "type": "single",
+      "options": [
+        "A. tăng lên rồi giảm xuống.",
+        "B. tăng lên.",
+        "C. không đổi.",
+        "D. giảm xuống."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Theo định luật Faraday, suất điện động cảm ứng trong cuộn dây là\n$\\varepsilon = -\\,N\\,\\frac{d\\Phi}{d}t}\\,,$\ntrong đó $N$ là số vòng dây, $\\Phi$ là từ thông qua mỗi vòng.\n- Khi nam châm quay với tốc độ góc $\\omega$, thay đổi từ thông nhanh hơn nên\n$|\\varepsilon|\\propto \\frac{\\Delta \\Phi}{\\Delta }t}\\propto \\omega\\,.$\n- Mạch điện gồm cuộn dây và bóng đèn mắc nối tiếp có điện trở tổng $R$ gần như không đổi, do đó cường độ dòng điện\n$I = \\frac{|\\varepsilon|}{R}\\propto \\omega\\,.$\n- Độ sáng của đèn phụ thuộc vào công suất tiêu thụ\n$P = I^2\\,R_{ đèn}\\,,$\nkhi $I$ tăng thì $P$ tăng và đèn sẽ sáng hơn.\n**✅ Đáp án:** tăng lên.\n**❌ Các đáp án khác:**\n- tăng lên rồi giảm xuống: sai, suất điện động và dòng điện tăng liên tục với tốc độ quay, không có pha giảm.\n- không đổi: sai, suất điện động không giữ nguyên mà tăng khi tốc độ quay tăng.\n- giảm xuống: sai, ngược với định luật cảm ứng điện từ."
+    },
+    {
+      "id": 13,
+      "content": "Tia $\\alpha$ là dòng các hạt nhân nào?",
+      "chuong": "vật lí hạt nhân",
+      "dang": "lý thuyết: hiện tượng phóng xạ",
+      "type": "single",
+      "options": [
+        "A. $^4_2\\text{He}$",
+        "B. $^2_1\\text{H}$",
+        "C. $^3_1\\text{H}$",
+        "D. $^1_1\\text{H}$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Nhớ lại: *tia α* thực chất là hạt nhân nguyên tử heli.\n- Hạt nhân heli có\n• Số proton $Z = 2$\n• Số neutron = 2\n• Số khối $A = Z + \\text{số neutron} = 4$\n- Biểu diễn công thức hạt nhân: $^A_Z\\text{X}$\n- Đánh giá từng lựa chọn:\n• $^4_2\\text{He}$: Z=2, A=4 → đúng là hạt nhân heli\n• $^2_1\\text{H}$: Z=1, A=2 → deuterium (1p+1n), không phải heli\n• $^3_1\\text{H}$: Z=1, A=3 → tritium (1p+2n), không phải heli\n• $^1_1\\text{H}$: Z=1, A=1 → proton, không phải heli\n**✅ Đáp án:** $^4_2\\text{He}$\n**❌ Các đáp án khác:**\n- B: $^2_1\\text{H}$ là deuterium, không phải hạt nhân heli\n- C: $^3_1\\text{H}$ là tritium, không phải hạt nhân heli\n- D: $^1_1\\text{H}$ là proton, không phải hạt nhân heli"
+    },
+    {
+      "id": 14,
+      "content": "Một hạt nhân có số khối là 8 sẽ ban xảy có sự đồng thời loại tia nào sau đây?",
+      "chuong": "vật lí hạt nhân",
+      "dang": "lý thuyết: hiện tượng phóng xạ",
+      "type": "single",
+      "options": [
+        "A. Tia X.",
+        "B. Tia $\\alpha$",
+        "C. Tia $\\beta$",
+        "D. Tia tử ngoại"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Hạt nhân rất nhẹ (A = 8) thường không đủ năng lượng để phát *tia α*, vì phát α chỉ xảy ra ở hạt nhân nặng.\n- *Tia X* và *tia tử ngoại* phát sinh từ quá trình chuyển động và chuyển mức năng lượng của electron, không phải do phân rã hạt nhân.\n- Hạt nhân nhẹ có thể phân rã β để chuyển neutron thành proton kèm theo electron và phản quang điện tử (antineutrino):\n$n \\;\\to\\; p + e^- + \\bar{\\nu}_e$\n- Do đó, hạt nhân A = 8 sẽ phát **tia β**.\n**✅ Đáp án:** $\\beta$\n**❌ Các đáp án khác:**\n- A. Tia X: Phát sinh từ quá trình tương tác của electron, không phải phân rã hạt nhân.\n- B. Tia α: Yêu cầu hạt nhân rất nặng để tách ra hạt α (He).\n- D. Tia tử ngoại: Cũng là bức xạ điện từ từ electron, không phải do thay đổi thành phần hạt nhân."
+    },
+    {
+      "id": 15,
+      "content": "Để tạo ra dòng điện xoay chiều, người ta cho một khung dây dẫn phẳng ABCD gồm 100 vòng dây, mỗi vòng dây có diện tích $S = 100\\ \\text{cm}^2$, quay đều với tốc độ \\$3000/\\pi\\ (\\text{vòng/phút})$ quanh một trục vuông góc với các đường sức của một từ trường đều có cảm ứng từ $B = 0{,}2\\ \\text{T}$ như hình vẽ. Suất điện động hiệu dụng trong khung dây là\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tn-thpt-vat-ly-tinh-dak-lak-2025/cau-15.webp\" alt=\"Hình minh họa câu 15\" loading=\"lazy\"></figure>",
+      "chuong": "từ trường",
+      "dang": "bài tập: máy phát điện. điện xoay chiều",
+      "type": "single",
+      "options": [
+        "A. \\$22{,}2\\ \\text{V}$",
+        "B. \\$6{,}28\\ \\text{V}$",
+        "C. \\$10\\sqrt{2}\\ \\text{V}$",
+        "D. \\$5\\sqrt{2}\\ \\text{V}$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Đổi đơn vị diện tích về mét vuông:\n$S = 100\\ \\text{cm}^2 = 100 \\times 10^{-4}\\ \\text{m}^2 = 10^{-2}\\ \\text{m}^2.$\n- Tính tần số quay $f$ (vòng/s) từ tốc độ cho sẵn (vòng/phút):\n$f = \\frac{3000/\\pi}{6}0} = \\frac{50}{\\p}i}\\ \\text{Hz}.$\n- Tính tốc độ góc $\\omega = 2\\pi f = 2\\pi \\times \\frac{50}{\\p}i} = 100\\ \\text{rad/s}.$\n- Tính suất điện động cực đại:\n$\\mathcal{E}_{\\max}\n= N\\,B\\,A\\,\\omega\n= 100 \\times 0{,}2 \\times 10^{-2} \\times 100\n= 20\\ \\text{V}.$\n- Tính suất điện động hiệu dụng:\n$\\mathcal{E}_{ eff}\n= \\frac{\\mathcal{E}_{\\max}}{\\sqrt{2}}\n= \\frac{20}{\\sqrt}{2}}\n= 10\\sqrt{2}\\ \\text{V}.$\n**✅ Đáp án:** \\$10\\sqrt{2}\\ \\text{V}$\n**❌ Các đáp án khác:**\n- A. 22,2 V: Giá trị quá lớn, do tính nhầm ω hoặc quên chia √2.\n- B. 6,28 V: Quá nhỏ, có thể chỉ lấy $\\omega/10$ hoặc quên nhân N và A.\n- D. 5√2 V: Bằng nửa đáp án đúng, do thiếu hệ số 2 khi tính ω hoặc N."
+    },
+    {
+      "id": 16,
+      "content": "Phản ứng nào sau đây là phản ứng phân hạch?",
+      "chuong": "vật lí hạt nhân",
+      "dang": "lý thuyết: năng lượng liên kết & phản ứng hạt nhân",
+      "type": "single",
+      "options": [
+        "A. $^2_1\\text{H} + ^2_1\\text{H} \\rightarrow ^4_2\\text{He}$",
+        "B. $^1_0\\text{n} + ^{235}_{92}\\text{U} \\rightarrow ^{95}_{39}\\text{Y} + ^{138}_{53}\\text{I} + 3 ^1_0\\text{n}$",
+        "C. $^2_1\\text{H} + ^3_1\\text{H} \\rightarrow ^4_2\\text{He} + ^1_0\\text{n}$",
+        "D. $^{210}_{84}\\text{Po} \\rightarrow ^{206}_{82}\\text{Pb} + ^4_2\\text{He}$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Xác định đặc điểm của từng loại phản ứng hạt nhân:\n• **Phân hạch**: hạt nhân nặng tách ra, sinh neutron.\n• **Nhiệt hạch (fusion)**: hai hạt nhân nhẹ hợp thành hạt nhân nặng hơn.\n• **Phóng xạ (decay)**: hạt nhân tự phân rã, thường phát α, β, γ.\n- Đánh giá từng phương án:\n• Phản ứng 1 (D + D → He): hai hạt nhẹ kết hợp ⇒ *nhiệt hạch*.\n• Phản ứng 2 (n + U-235 → Y + I + 3 n): hạt nhân U-235 nặng tách thành hai mảnh Yuktri và Iod, kèm neutron ⇒ **phân hạch**.\n• Phản ứng 3 (D + T → He + n): hai hạt nhẹ hợp thành He ⇒ *nhiệt hạch*.\n• Phản ứng 4 (Po → Pb + α): hạt nhân tự phân rã α ⇒ *phóng xạ α*.\n**✅ Đáp án:**\n$^1_0\\text{n} + ^{235}_{92}\\text{U} \\rightarrow ^{95}_{39}\\text{Y} + ^{138}_{53}\\text{I} + 3\\,^1_0\\text{n}$\n**❌ Các đáp án khác:**\n- A: D + D → He là *nhiệt hạch*, không phải phân hạch.\n- C: D + T → He + n là *nhiệt hạch*, không phải phân hạch.\n- D: Po → Pb + α là phân rã α, không phải phân hạch."
+    },
+    {
+      "id": 17,
+      "content": "Cặp các hạt nhân nào sau đây không được gọi là đồng vị?",
+      "chuong": "vật lí hạt nhân",
+      "dang": "lý thuyết: hạt nhân và mô hình nguyên tử",
+      "type": "single",
+      "options": [
+        "A. $^{60}_{27}\\text{Co},\\ ^{60}_{28}\\text{Ni}$",
+        "B. $^1_1\\text{H},\\ ^2_1\\text{H}$",
+        "C. $^1_1\\text{H},\\ ^3_1\\text{H}$",
+        "D. $^{63}_{29}\\text{Cu},\\ ^{65}_{29}\\text{Cu}$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Xác định $Z$ và $A$ của mỗi hạt nhân từ ký hiệu $^{A}_{Z}X$.\n- Nhắc lại:\n*Đồng vị* ⇔ $Z_1 = Z_2$ và $A_1 \\ne A_2$.\n- Kiểm tra từng cặp:\n• Cặp $^{60}_{27}\\mathrm{Co}$ ( $Z=27,A=60$ ) và $^{60}_{28}\\mathrm{Ni}$ ( $Z=28,A=60$ ):\n  – $Z$ khác nhau ⇒ **không phải đồng vị**.\n• Cặp $^{1}_{1}\\mathrm{H}$ ( $Z=1,A=1$ ) và $^{2}_{1}\\mathrm{H}$ ( $Z=1,A=2$ ):\n  – $Z$ giống nhau, $A$ khác nhau ⇒ đồng vị.\n• Cặp $^{1}_{1}\\mathrm{H}$ ( $Z=1,A=1$ ) và $^{3}_{1}\\mathrm{H}$ ( $Z=1,A=3$ ):\n  – $Z$ giống nhau, $A$ khác nhau ⇒ đồng vị.\n• Cặp $^{63}_{29}\\mathrm{Cu}$ ( $Z=29,A=63$ ) và $^{65}_{29}\\mathrm{Cu}$ ( $Z=29,A=65$ ):\n  – $Z$ giống nhau, $A$ khác nhau ⇒ đồng vị.\n**✅ Đáp án:** A. $^{60}_{27}\\mathrm{Co},\\;^{60}_{28}\\mathrm{Ni}$\n**❌ Các đáp án khác:**\n- B. $^{1}_{1}\\mathrm{H},\\;^{2}_{1}\\mathrm{H}$ – cùng $Z=1$, khác $A$ ⇒ *đồng vị* (loại).\n- C. $^{1}_{1}\\mathrm{H},\\;^{3}_{1}\\mathrm{H}$ – cùng $Z=1$, khác $A$ ⇒ *đồng vị* (loại).\n- D. $^{63}_{29}\\mathrm{Cu},\\;^{65}_{29}\\mathrm{Cu}$ – cùng $Z=29$, khác $A$ ⇒ *đồng vị* (loại)."
+    },
+    {
+      "id": 18,
+      "content": "Xung quanh vật nào sau đây không tồn tại từ trường?",
+      "chuong": "từ trường",
+      "dang": "lý thuyết: từ trường",
+      "type": "single",
+      "options": [
+        "A. Nam châm.",
+        "B. Dòng điện không đổi.",
+        "C. Điện tích chuyển động.",
+        "D. Điện tích đứng yên."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Xung quanh điện tích đứng yên có điện trường chứ không có từ trường\n**✅ Đáp án:** $\\text{Điện tích đứng yên}$\n**❌ Các đáp án khác:**\n- A. Nam châm (luôn có từ trường quanh nó).\n- B. Dòng điện không đổi (tạo từ trường cố định quanh dây dẫn theo $B=\\frac{\\mu_0 I}{2\\pi }r}$).\n- C. Điện tích chuyển động (tạo từ trường theo định luật Biot–Savart)."
+    }
+  ]
+}

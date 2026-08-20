@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-6-10-bai-tap-van-dung-tich-phan-vao-giai-quyet-bai-toan-lien-quan",
+  "sourceId": "vietjack:6-10-bai-tap-van-dung-tich-phan-vao-giai",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "6.10 bài tập Vận dụng tích phân vào giải quyết bài toán liên quan thực tế có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Vận tốc của một vật chuyển động là v(t) = 3t 2 + 5 (m/s). Quãng đường vật đó đi được từ giây thứ 4 đến giây thứ 10 là",
+      "options": [
+        "A. 669 m;",
+        "B. 696 m;",
+        "C. 699 m;",
+        "D. 966 m."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Quãng đường vật đó đi được từ giấy thứ 4 đến giây thứ 10 là \\(\\int\\limits_4^{10} {\\left( {3{t^2} + 5} \\right)dt} = 966\\) m."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Một vật chuyển động với gia tốc a(t) = 2cost (m/s 2 ), biết rằng tại thời điểm bắt đầu chuyển động, vật có vận tốc bằng 0. Tính quãng đường vật đi được từ thời điểm t = 0 (s) đến thời điểm t = π (s).",
+      "options": [
+        "A. 5 m;",
+        "B. 3 m;",
+        "C. 2 m;",
+        "D. 4 m."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Có \\(v\\left( t \\right) = \\int {2\\cos tdt = 2\\sin t + C} \\). Vì v(0) = 0 nên C = 0. Do đó v(t) = 2sint. Quãng đường vật đi được là \\(\\int\\limits_0^\\pi {2\\sin tdt} = \\left. { - 2\\cos t} \\right|_0^\\pi = 4\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Một ô tô đang chuyển động với vận tốc 24 m/s thì người lái xe đạp phanh. Từ thời điểm đó, ô tô chuyển động thẳng, chậm dần đều với vận tốc biến thiên theo thời gian được xác định bởi quy luật v(t) = −4t + 24 (m/s) trong đó t là khoảng thời gian tính bằng giây kể từ lúc người lái xe bắt đầu đạp phanh. Quãng đường ô tô đi được từ lúc người lái xe bắt đầu đạp phanh đến khi xe dừng hẳn bằng",
+      "options": [
+        "A. 42 m;",
+        "B. 64 m;",
+        "C. 72 m;",
+        "D. 50 m."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Khi xe dừng hẳn ta có v(t) = 0 −4t + 24 = 0 t = 6 (giây). Ta có quãng đường ô tô đi được là \\(s = \\int\\limits_0^6 {\\left( { - 4t + 24} \\right)dt} = 72\\) m."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Một vật chuyển động với vận tốc ban đầu bằng 0, vận tốc biến đổi theo quy luật và có gia tốc a = 0,3 m/s 2 . Xác định quãng đường vật đó đi được trong 40 phút đầu tiên.",
+      "options": [
+        "A. 12000 m;",
+        "B. 240 m;",
+        "C. 864000 m;",
+        "D. 3200 m."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Đổi 40 phút = 2400 giây. Ta có v(t) = \\(\\int {0,3dt} = 0,3t + C\\). Do v(0) = 0 nên C = 0. Do đó v(t) = 0,3t. Quãng đường đi được trong 40 phút đầu tiên là \\(s = \\int\\limits_0^{2400} {0,3tdt} = 864000\\) m."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Giả sử tốc độ v (m/s) của một thang máy di chuyển từ tầng 1 lên tầng cao nhất theo thời gian t giây được cho bởi \\(v\\left( t \\right) = \\left\\{ \\begin{array}{l}t\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;khi\\;0 \\le t \\le 2\\\\2\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;khi\\;2 < t \\le 20\\\\12 - 0,5t\\;khi\\;20 < t \\le 24\\end{array} \\right.\\). Tính quãng đường chuyển động của thang máy. </>",
+      "options": [
+        "A. 58 m;",
+        "B. 56 m;",
+        "C. 42 m;",
+        "D. 45 m."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có \\(s = \\int\\limits_0^{24} {v\\left( t \\right)dt} = \\int\\limits_0^2 {tdt} + \\int\\limits_2^{20} {2dt} + \\int\\limits_{20}^{24} {\\left( {12 - 0,5t} \\right)dt} \\) \\( = \\left. {\\frac{{{t^2}}}{2}} \\right|_0^2 + \\left. {2t} \\right|_2^{20} + \\left. {\\left( {12t - \\frac{{{t^2}}}{4}} \\right)} \\right|_{20}^{24}\\)\\( = 2 + 36 + 4 = 42\\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho hai quả bóng A, B di chuyển ngược chiều nhau va chạm với nhau. Sau va chạm mỗi quả bóng nảy ngược lại một đoạn thì dừng hẳn. Biết sau khi va chạm, quả bóng A nảy ngược lại với vận tốc v A (t) = 8 – 2t (m/s) và quả bóng B nảy ngược lại với vận tốc v B (t) = 12 – 4t (m/s). Tính khoảng cách giữa hai quả bóng sau khi đã dừng hẳn (giả sử hai quả bóng đều chuyển động thẳng).",
+      "options": [
+        "A. 36 m;",
+        "B. 32 m;",
+        "C. 34 m;",
+        "D. 30 m."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Thời gian quả bóng A chuyển động từ lúc va chạm đến khi dừng hẳn là 8 – 2t = 0 t = 4 giây. Quãng đường quả bóng A di chuyển là \\({s_A} = \\int\\limits_0^4 {\\left( {8 - 2t} \\right)dt} = 16\\) m. Thời gian quả bóng B chuyển động từ lúc va chạm đến khi dừng hẳn là 12 – 4t = 0 t = 3 giây. Quãng đường quả bóng B di chuyển là \\({s_B} = \\int\\limits_0^3 {\\left( {12 - 4t} \\right)dt} = 18m\\). Khoảng cách giữa hai quả bóng sau khi dừng hẳn là S = s A + s B = 34 m."
+    }
+  ]
+}

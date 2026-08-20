@@ -1,0 +1,134 @@
+{
+  "id": "l11-tin-cuoiki1-2026-10-de-thi-cuoi-ki-1-tin-hoc-11-nam-2026-co-dap-an-15a2ceb468-de-01",
+  "grade": "l11",
+  "subjectSlug": "tin",
+  "examType": "cuoiki1",
+  "year": 2026,
+  "code": "Đề 01",
+  "title": "10+ Đề thi Cuối kì 1 Tin học 11 năm 2026 có đáp án - Đề 01",
+  "duration": 45,
+  "answerSource": "missing",
+  "sourceUrl": "https://www.vietjack.com/de-kiem-tra-lop-11/de-kiem-tra-hoc-ki-1-tin-hoc-11.jsp",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 1:&lt;/strong&gt; Khái niệm nào sau đây là đúng về tên dành riêng ?",
+      "options": [
+        "A. Là tên được dùng với ý nghĩa riêng, xác định bằng cách khai báo trước khi sử dụng",
+        "B. Là tên được NNLT quy định dùng với ý nghĩa riêng xác định, không được sử dụng với ý nghĩa khác",
+        "C. Là tên được NNLT dùng với ý nghĩa nhất định nào đó",
+        "D. Là các hằng hay biến"
+      ],
+      "answer": null
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 2:&lt;/strong&gt; Chọn biểu diễn tên sai trong các biểu diễn dưới đây:",
+      "options": [
+        "A. _Baitap1",
+        "B. Baitap1",
+        "C. Baitap_1",
+        "D. Baitap#1"
+      ],
+      "answer": null
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 3&lt;/strong&gt;: Giá trị nào dưới đây là hằng số học:",
+      "options": [
+        "A. ‘Lop 11A1’",
+        "B. TRUE",
+        "C. ’1.5’",
+        "D. Tất cả đều sai"
+      ],
+      "answer": null
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 4&lt;/strong&gt;: Trong những biểu diễn dưới đây, biểu diễn nào không phải là từ khóa trong Pascal?",
+      "options": [
+        "A. end",
+        "B. begin",
+        "C. sqr",
+        "D. program"
+      ],
+      "answer": null
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 5&lt;/strong&gt;: Trong ngôn ngữ lập trình Pascal, từ khóa USES dùng để:",
+      "options": [
+        "A. Khai báo biến",
+        "B. Khai báo thư viện",
+        "C. Khai báo tên chương trình",
+        "D. Khai báo hằng"
+      ],
+      "answer": null
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 6&lt;/strong&gt;: Trong Pascal, cú pháp để khai báo tên chương trình là:",
+      "options": [
+        "A. Program &lt;tên chương trình&gt;.",
+        "B. Program &lt;tên chương trình&gt;",
+        "C. Program &lt;tên chương trình&gt;;",
+        "D. Program &lt;tên chương trình&gt;,"
+      ],
+      "answer": null
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 7&lt;/strong&gt;: Để khai báo biến a là kiểu lôgic, ta chọn cách khai báo:",
+      "options": [
+        "A. var a : boolean;",
+        "B. var a : real;",
+        "C. var a : byte;",
+        "D. var a : char;"
+      ],
+      "answer": null
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 8&lt;/strong&gt;: Trong các kiểu dữ liệu sau, kiểu nào cần bộ nhớ lớn nhất:",
+      "options": [
+        "A. Byte",
+        "B. Real",
+        "C. Integer",
+        "D. Longint"
+      ],
+      "answer": null
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 9&lt;/strong&gt;: Biến X có thể nhận các giá trị từ ‘A’ đến ‘Z’, chọn khai báo đúng:",
+      "options": [
+        "A. Var X : real;",
+        "B. Var X : Byte;",
+        "C. Var X : Integer;",
+        "D. Var X : char;"
+      ],
+      "answer": null
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 10&lt;/strong&gt;: Biến X có thể nhận các giá trị: 5; 10; 15; 20 và biến Y có thể nhận các giá trị là: 0,1; 0,2; 0,3; 0,4; 0,5. Khai báo nào trong các khai báo sau đây là đúng và ít tốn dung lượng bộ nhớ nhất?",
+      "options": [
+        "A. Var X, Y: byte;",
+        "B. Var X: byte; Y: real;",
+        "C. Var X, Y: real;",
+        "D. Var X: byte; Y: char;"
+      ],
+      "answer": null
+    }
+  ]
+}

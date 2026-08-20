@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-1-bo-3-de-thi-giua-hoc-ki-2-tin-hoc-lop-9-chan-troi-sang-tao-co-d",
+  "sourceId": "vietjack:1-bo-3-de-thi-giua-hoc-ki-2-tin-hoc-lop-",
+  "grade": "l9",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.Bộ 3 đề thi giữa học kì 2 Tin học lớp 9 Chân trời sáng tạo có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Hàm COUNTIF trong bảng tính có ý nghĩa gì?",
+      "options": [
+        "A. Hàm thống kê.",
+        "B. Hàm tính tổng.",
+        "C. Hàm đếm có điều kiện.",
+        "D. Hàm có điều kiện."
+      ],
+      "answer": "C",
+      "note": "Chọn C"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: \"sum_range\" trong hàm SUMIF có ý nghĩa gì?",
+      "options": [
+        "A. Phạm vi ô cần tính tổng.",
+        "B. Điều kiện để tính tổng.",
+        "C. Phạm vi ô chứa điều kiện.",
+        "D. Giá trị cần tìm kiếm."
+      ],
+      "answer": "A",
+      "note": "Chọn A"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Công thức chung của hàm SUMIF là gì?",
+      "options": [
+        "A. =SUM(range, criteria)",
+        "B. =COUNTIF(range, criteria)",
+        "C. =AVERAGEIF(range, criteria, [average_range])",
+        "D. =SUMIF(range, criteria, [sum_range])"
+      ],
+      "answer": "D",
+      "note": "Chọn D"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Bảng tính hỗ trợ quản lí tài chính gia đình thường gồm mấy trang tính?",
+      "options": [
+        "A. 1.",
+        "B. 2.",
+        "C. 3.",
+        "D. 4."
+      ],
+      "answer": "B",
+      "note": "Chọn B"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Trong công thức chung của COUNTIF, tham số criteria có ý nghĩa gì?",
+      "options": [
+        "A. Phạm vi chứa các ô tính cần kiểm tra để đếm.",
+        "B. Điều kiện kiểm tra các ô tính trong phạm vi range.",
+        "C. Phạm vi chứa các giá trị không hợp lệ.",
+        "D. Điều kiện xác thực dữ liệu để tạo bảng tính."
+      ],
+      "answer": "B",
+      "note": "Chọn B"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Để tìm giá trị lớn nhất trong cột chi, ta sử dụng hàm nào?",
+      "options": [
+        "A. =MAX(range)",
+        "B. =MIN(range)",
+        "C. =AVERAGE(range)",
+        "D. =COUNTIF(range,criteria)"
+      ],
+      "answer": "A",
+      "note": "Chọn A"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Loại dữ liệu trong cột “ Ngày thu/chi ” là:",
+      "options": [
+        "A. kiểu dữ liệu số.",
+        "B. kiểu dữ liệu văn bản.",
+        "C. kiểu dữ liệu tiền tệ.",
+        "D. kiểu dữ liệu ngày tháng năm."
+      ],
+      "answer": "D",
+      "note": "Chọn D"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Hàm nào trong Excel dùng để đếm số ô tính trong vùng dữ liệu thoả mãn điều kiện?",
+      "options": [
+        "A. COUNT.",
+        "B. SUMIF.",
+        "C. COUNTIF.",
+        "D. INDEX."
+      ],
+      "answer": "C",
+      "note": "Chọn C"
+    }
+  ]
+}

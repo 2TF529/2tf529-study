@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-cac-dang-bai-tap-dau-cua-tam-thuc-bac-hai-lop-10-co-loi-giai",
+  "sourceId": "vietjack:2-cac-dang-bai-tap-dau-cua-tam-thuc-bac-",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.Các dạng bài tập Dấu của tam thức bậc hai lớp 10 (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho f(x) = ax 2 + bx + c (a ≠ 0) và Δ = b 2 – 4ac. Dấu của Δ khi f(x) luôn cùng dấu với hệ số a với mọi x ∈ ℝ là",
+      "options": [
+        "A. Δ < 0 ;",
+        "B. Δ = 0 ;",
+        "C. Δ > 0 ;",
+        "D. Δ ≥ 0 ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Theo định lí về dấu của tam thức bậc hai ta có f(x) luôn cùng dấu với hệ số a với mọi x ∈ ℝ khi Δ < 0."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho tam thức bậc hai f(x) = ax 2 + bx + c (a ≠ 0). Mệnh đề nào sau đây đúng?",
+      "options": [
+        "A. Nếu Δ > 0 thì f(x) luôn cùng dấu với hệ số a, với mọi x ∈ ℝ ;",
+        "B. Nếu Δ < 0 thì f(x) luôn trái dấu với hệ số a, với mọi x ∈ ℝ ;",
+        "C. Nếu Δ = 0 thì f(x) luôn cùng dấu với hệ số a, với mọi \\[x \\in \\mathbb{R}\\backslash \\left\\{ { - \\frac{b}{{2a}}} \\right\\};\\]",
+        "D. Nếu Δ < 0 thì f(x) luôn cùng dấu với hệ số b, với mọi x ∈ ℝ ."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Theo định lí về dấu của tam thức bậc hai. – Phương án A sai. Vì nếu Δ > 0 thì f(x) có hai nghiệm phân biệt x 1 và x 2 (x 1 < x 2 ). Khi đó, f(x) cùng dấu với hệ số a với mọi x ∈ (–∞; x 1 ) ∪ (x 2 ; +∞); f(x) trái dấu với hệ số a với mọi x ∈ (x 1 ; x 2 ). – Phương án B sai. Vì nếu Δ < 0 thì f(x) cùng dấu với hệ số a với mọi x ∈ ℝ . – Phương án C đúng. – Phương án D sai. Vì nếu Δ < 0 thì f(x) cùng dấu với hệ số a với mọi x ∈ ℝ ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho tam thức f(x) = ax 2 + bx + c (a ≠ 0) và Δ = b 2 – 4ac. Ta có f(x) ≤ 0 với mọi x ∈ ℝ khi và chỉ khi",
+      "options": [
+        "A. \\(\\left\\{ \\begin{array}{l}a < 0\\\\\\Delta \\le 0\\end{array} \\right.\\) ;",
+        "B. \\(\\left\\{ \\begin{array}{l}a \\le 0\\\\\\Delta < 0\\end{array} \\right.\\) ;",
+        "C. \\(\\left\\{ \\begin{array}{l}a < 0\\\\\\Delta \\ge 0\\end{array} \\right.\\) ;",
+        "D. \\(\\left\\{ \\begin{array}{l}a > 0\\\\\\Delta \\le 0\\end{array} \\right.\\) ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Áp dụng định lý về dấu của tam thức bậc hai ta có: f(x) ≤ 0 với mọi x ∈ ℝ khi và chỉ khi \\(\\left\\{ \\begin{array}{l}a < 0\\\\\\Delta \\le 0\\end{array} \\right..\\)"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho tam thức f(x) = x 2 – 8x + 16. Khẳng định nào sau đây là đúng?",
+      "options": [
+        "A. Phương trình f(x) = 0 vô nghiệm;",
+        "B. f(x) > 0 với mọi x ∈ ℝ ;",
+        "C. f(x) ≥ 0 với mọi x ∈ ℝ;",
+        "D. f(x) < 0 khi x < 4."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có f(x) có Δ’ = (–4) 2 – 1.16 = 0. Mà a = 1 > 0 và f(x) = 0 ⇔ x = 4 Suy ra f(x) > 0 với mọi x ∈ ℝ\\{4} Do đó f(x) ≥ 0 với mọi x ∈ ℝ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho f(x) = ax 2 + bx + c (a ≠ 0) có đồ thị đi qua ba điểm (0; 1); (1; –2); (3; 0). Kết luận nào sau đây đúng?",
+      "options": [
+        "A. f(x) âm trong khoảng \\(\\left( {\\frac{1}{4};3} \\right)\\);",
+        "B. f(x) âm trong khoảng \\(\\left( { - \\infty ;\\frac{1}{4}} \\right)\\);",
+        "C. f(x) âm trong khoảng (3; +∞);",
+        "D. f(x) dương trong khoảng \\(\\left( {\\frac{1}{4};3} \\right)\\)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Xét f(x) = ax 2 + bx + c (a ≠ 0): ⦁ Ta có đồ thị đi qua điểm (0; 1) nên f(0) = 1. Khi đó a.0 2 + b.0 + c = 1, suy ra c = 1. ⦁ Ta có đồ thị đi qua điểm (1; –2) nên f(1) = –2. Khi đó a.1 2 + b.1 + c = –2, suy ra a + b + c = –2 (1) Thế c = 1 vào (1) ta được a + b + 1 = –2. Do đó a + b = –3 (2) ⦁ Ta có đồ thị đi qua điểm (3; 0) nên f(3) = 0. Khi đó a.3 2 + b.3 + c = 0, suy ra 9a + 3b + c = 0 (3) Thế c = 1 vào (3) ta được 9a + 3b = –1 (4) Từ (3) và (4) ta có hệ phương trình \\[\\left\\{ \\begin{array}{l}a + b = - 3\\\\9a + 3b = 4\\end{array} \\right. \\Leftrightarrow \\left\\{ \\begin{array}{l}3a + 3b = - 9\\\\9a + 3b = - 1\\end{array} \\right. \\Leftrightarrow \\left\\{ \\begin{array}{l}a + b = - 3\\\\6a = 8\\end{array} \\right. \\Leftrightarrow \\left\\{ \\begin{array}{l}b = - 3 - a\\\\a = \\frac{4}{3}\\end{array} \\right. \\Leftrightarrow \\left\\{ \\begin{array}{l}b = - \\frac{{13}}{3}\\\\a = \\frac{4}{3}\\end{array} \\right.\\] Vậy ta có tam thức bậc hai \\(f\\left( x \\right) = \\frac{4}{3}{x^2} - \\frac{{13}}{3}x + 1.\\) Ta có \\[\\Delta = {\\left( { - \\frac{{13}}{3}} \\right)^2} - 4.\\frac{4}{3}.1 = \\frac{{121}}{9} > 0\\] và \\(a = \\frac{4}{3} > 0\\) Suy ra f(x) có 2 nghiệm phân biệt là: \\[{x_1} = \\frac{{\\frac{{13}}{3} + \\sqrt {\\frac{{121}}{9}} }}{{2.\\frac{4}{3}}} = 3;\\,\\,{x_2} = \\frac{{\\frac{{13}}{3} - \\sqrt {\\frac{{121}}{9}} }}{{2.\\frac{4}{3}}} = \\frac{1}{4}\\] Ta có bảng xét dấu của f(x) như sau: Vậy f(x) âm trong khoảng \\(\\left( {\\frac{1}{4};3} \\right)\\) và f(x) dương trong hai khoảng \\(\\left( { - \\infty ;\\frac{1}{4}} \\right)\\) và (3; +∞). Ta chọn phương án A."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho tam thức bậc hai f(x) = –2x 2 + 8x – 8. Trong các mệnh đề sau, mệnh đề nào đúng?",
+      "options": [
+        "A. f(x) < 0 với mọi x ∈ ℝ ;",
+        "B. f(x) ≥ 0 với mọi x ∈ ℝ ;",
+        "C. f(x) ≤ 0 với mọi x ∈ ℝ ;",
+        "D. f(x) > 0 với mọi x ∈ ℝ ."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có f(x) = –2(x 2 – 4x + 4) = –2(x – 2) 2 ≤ 0 với mọi x ∈ ℝ. Vậy: f(x) ≤ 0 với mọi x ∈ ℝ."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-5-22-cau-trac-nghiem-toan-11-canh-dieu-bai-3-ham-so-luong-giac-va",
+  "sourceId": "vietjack:5-22-cau-trac-nghiem-toan-11-canh-dieu-b",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "5.22 câu Trắc nghiệm Toán 11 Cánh diều Bài 3. Hàm số lượng giác và đồ thị (Đúng-sai, trả lời ngắn) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: TRẮC NGHIỆM NHIỀU LỰA CHỌN Trong các hàm số sau, hàm số nào là hàm số chẵn?",
+      "options": [
+        "A. \\(y = \\sin x.\\)",
+        "B. \\(y = \\cos x.\\)",
+        "C. \\(y = \\tan x.\\)",
+        "D. \\(y = \\cot x.\\)"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Nhắc lại kiến thức cơ bản: - Hàm số \\(y = \\sin x\\) là hàm số lẻ. - Hàm số \\(y = \\cos x\\) là hàm số chẵn. - Hàm số \\(y = \\tan x\\) là hàm số lẻ. - Hàm số \\(y = \\cot x\\) là hàm số lẻ. Vậy B là đáp án đúng."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Tìm chu kì \\(T\\) của hàm số \\[y = \\sin \\left( {5x - \\frac{\\pi }{4}} \\right).\\]",
+      "options": [
+        "A. \\[T = \\frac{{2\\pi }}{5}.\\]",
+        "B. \\[T = \\frac{{5\\pi }}{2}.\\]",
+        "C. \\[T = \\frac{\\pi }{2}.\\]",
+        "D. \\[T = \\frac{\\pi }{8}.\\]"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Hàm số \\(y = \\sin \\left( {ax + b} \\right)\\) tuần hoàn với chu kì \\(T\\,\\, = \\,\\,\\frac{{2\\pi }}{{\\left| a \\right|}}\\). Áp dụng: Hàm số \\[y = \\sin \\left( {5x - \\frac{\\pi }{4}} \\right)\\] tuần hoàn với chu kì \\[T = \\frac{{2\\pi }}{5}.\\]"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Tìm tập xác định \\(D\\) của hàm số \\(y = \\frac{{1 + \\sin x}}{{\\cos x - 1}}.\\)",
+      "options": [
+        "A. \\(D = \\mathbb{R}.\\)",
+        "B. \\(D = \\mathbb{R}\\backslash \\left\\{ {\\frac{\\pi }{2} + k\\pi ,k \\in \\mathbb{Z}} \\right\\}.\\)",
+        "C. \\(D = \\mathbb{R}\\backslash \\left\\{ {k\\pi ,k \\in \\mathbb{Z}} \\right\\}.\\)",
+        "D. \\(D = \\mathbb{R}\\backslash \\left\\{ {k2\\pi ,k \\in \\mathbb{Z}} \\right\\}.\\)"
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Hàm số xác định khi và chỉ khi \\(\\cos x - 1 \\ne 0 \\Leftrightarrow \\cos x \\ne 1 \\Leftrightarrow x \\ne k2\\pi ,{\\rm{ }}k \\in \\mathbb{Z}.\\) Vậy tập xác định \\(D = \\mathbb{R}\\backslash \\left\\{ {k2\\pi ,k \\in \\mathbb{Z}} \\right\\}.\\)"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Trong các hàm số sau, hàm số nào có đồ thị đối xứng qua trục tung?",
+      "options": [
+        "A. \\(y = \\sin \\,x\\cos 2x.\\)",
+        "B. \\(y = {\\sin ^3}x.\\cos \\left( {x - \\frac{\\pi }{2}} \\right).\\)",
+        "C. \\(y = \\frac{{\\tan \\,x}}{{{{\\tan }^2}x + 1}}.\\)",
+        "D. \\(y = \\cos x{\\sin ^3}x.\\)"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta dễ dàng kiểm tra được A, C, D là các hàm số lẻ nên có đồ thị đối xứng qua gốc tọa độ \\(O\\). Xét đáp án B, ta có \\[y = f\\left( x \\right) = {\\sin ^3}x.\\cos \\left( {x - \\frac{\\pi }{2}} \\right) = {\\sin ^3}x.\\sin x = {\\sin ^4}x\\]. Kiểm tra được đây là hàm số chẵn nên có đồ thị đối xứng qua trục tung."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Trong các hàm số sau, hàm số nào có đồ thị đối xứng qua gốc tọa độ?",
+      "options": [
+        "A. \\(y = \\cot 4x.\\)",
+        "B. \\(y = \\frac{{\\sin x + 1}}{{\\cos x}}.\\)",
+        "C. \\(y = {\\tan ^2}x.\\)",
+        "D. \\(y = \\left| {\\cot x} \\right|.\\)"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta kiểm tra được đáp án A là hàm số lẻ nên có đồ thị đối xứng qua gốc tọa độ. Đáp án B là hàm số không chẵn, không lẻ. Đáp án C và D là các hàm số chẵn."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Tìm tập giá trị \\(T\\) của hàm số \\(y = 3\\cos 2x + 5.\\)",
+      "options": [
+        "A. \\(T = \\left[ { - 1;1} \\right].\\)",
+        "B. \\(T = \\left[ { - 1;11} \\right].\\)",
+        "C. \\(T = \\left[ {2;8} \\right].\\)",
+        "D. \\(T = \\left[ {5;8} \\right].\\)"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Hàm số \\(y = 5 + 4\\sin 2x\\cos 2x\\) có tất cả bao nhiêu giá trị nguyên?",
+      "options": [
+        "A. \\(3.\\)",
+        "B. \\(4.\\)",
+        "C. \\(5.\\)",
+        "D. \\(6.\\)"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có \\(y = 5 + 4\\sin 2x\\cos 2x = 5 + 2\\sin 4x\\). Mà − 1 ≤ sin 4 x ≤ 1 → − 2 ≤ 2 sin 4 x ≤ 2 → 3 ≤ 5 + 2 sin 4 x ≤ 7 → 3 ≤ y ≤ 7 → y ∈ ℤ y ∈ 3 ; 4 ; 5 ; 6 ; 7 nên \\(y\\) có \\(5\\) giá trị nguyên."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Tìm giá trị nhỏ nhất \\(m\\) của hàm số \\(y = - \\sqrt 2 \\sin \\left( {2016x + 2017} \\right)\\).",
+      "options": [
+        "A. \\(m = - 2016\\sqrt 2 .\\)",
+        "B. \\(m = - \\sqrt 2 .\\)",
+        "C. \\(m = - 1.\\)",
+        "D. \\(m = - 2017\\sqrt 2 .\\)"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có − 1 ≤ sin 2016 x + 2017 ≤ 1 → 2 ≥ − 2 sin 2016 x + 2017 ≥ − 2 . Do đó giá trị nhỏ nhất của hàm số là \\( - \\sqrt 2 .\\)"
+    }
+  ]
+}

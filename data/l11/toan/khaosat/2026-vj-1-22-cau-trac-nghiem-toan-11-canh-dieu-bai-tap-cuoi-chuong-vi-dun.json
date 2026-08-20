@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-1-22-cau-trac-nghiem-toan-11-canh-dieu-bai-tap-cuoi-chuong-vi-dun",
+  "sourceId": "vietjack:1-22-cau-trac-nghiem-toan-11-canh-dieu-b",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.22 câu Trắc nghiệm Toán 11 Cánh diều Bài tập cuối chương VI (Đúng-sai, trả lời ngắn) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: TRẮC NGHIỆM NHIỀU LỰA CHỌN Cho hai hàm số f(x) = a x và g(x) = log a x. Với 0 < a < 1, chọn khẳng định đúng trong các khẳng định sau:",
+      "options": [
+        "A. f(x) nghịch biến và g(x) đồng biến trên tập xác định.",
+        "B. f(x) đồng biến và g(x) nghịch biến trên tập xác định.",
+        "C. f(x) và g(x) đồng biến trên tập xác định.",
+        "D. f(x) và g(x) nghịch biến trên tập xác định."
+      ],
+      "answer": "D",
+      "note": "D Với 0 < a < 1 thì hàm số f(x) và g(x) nghịch biến trên tập xác định."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Với a là số thực dương tùy ý, \\({\\log _2}\\frac{{{a^4}}}{4}\\) bằng",
+      "options": [
+        "A. −2 + 4log 2 a.",
+        "B. \\(4{\\log _2}\\frac{a}{4}\\).",
+        "C. log 2 a.",
+        "D. 2 – 4log 2 a."
+      ],
+      "answer": "A",
+      "note": "A \\({\\log _2}\\frac{{{a^4}}}{4} = {\\log _2}{a^4} - {\\log _2}4 = 4{\\log _2}a - 2\\) ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho các số thực dương a, b. Mệnh đề nào sau đây đúng?",
+      "options": [
+        "A. \\({\\log _2}\\frac{{2\\sqrt[3]{a}}}{{{b^3}}} = 1 + \\frac{1}{3}{\\log _2}a - \\frac{1}{3}{\\log _2}b\\) .",
+        "B. \\({\\log _2}\\frac{{2\\sqrt[3]{a}}}{{{b^3}}} = 1 + \\frac{1}{3}{\\log _2}a - 3{\\log _2}b\\) .",
+        "C. \\({\\log _2}\\frac{{2\\sqrt[3]{a}}}{{{b^3}}} = 1 + \\frac{1}{3}{\\log _2}a + 3{\\log _2}b\\) .",
+        "D. \\({\\log _2}\\frac{{2\\sqrt[3]{a}}}{{{b^3}}} = 1 + \\frac{1}{3}{\\log _2}a + \\frac{1}{3}{\\log _2}b\\)."
+      ],
+      "answer": "B",
+      "note": "B \\({\\log _2}\\frac{{2\\sqrt[3]{a}}}{{{b^3}}} = {\\log _2}2 + {\\log _2}\\sqrt[3]{a} - {\\log _2}{b^3} = 1 + \\frac{1}{3}{\\log _2}a - 3{\\log _2}b\\) ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Tìm tập xác định D của hàm số y = log(x 2 + 2x + 3).",
+      "options": [
+        "A. D = Æ.",
+        "B. D = ℝ\\{−2; −1}.",
+        "C. D = ℝ.",
+        "D. D = (−∞; −2) È (−1; +∞)."
+      ],
+      "answer": "C",
+      "note": "C Điều kiện: x 2 + 2x + 3 > 0 Û (x + 1) 2 + 2 > 0, ∀ x Î ℝ. Vậy tập xác định của hàm số là D = ℝ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Biểu thức \\(\\sqrt[3]{{a\\sqrt {{a^5}} }}\\left( {a > 0} \\right)\\) được viết dưới dạng lũy thừa là",
+      "options": [
+        "A. \\({a^{\\frac{3}{{10}}}}\\).",
+        "B. \\({a^{\\frac{5}{6}}}\\).",
+        "C. \\({a^{\\frac{7}{6}}}\\).",
+        "D. \\({a^{\\frac{7}{{10}}}}\\)."
+      ],
+      "answer": "C",
+      "note": "C \\(\\sqrt[3]{{a\\sqrt {{a^5}} }} = \\sqrt[3]{{a.{a^{\\frac{5}{2}}}}} = \\sqrt[3]{{{a^{\\frac{7}{2}}}}} = {a^{\\frac{7}{6}}}\\) ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Phương trình log(54 – x 3 ) = 3logx có nghiệm là",
+      "options": [
+        "A. x = 2.",
+        "B. x = 4.",
+        "C. x = 1.",
+        "D. x = 3."
+      ],
+      "answer": "D",
+      "note": "D Điều kiện \\(\\left\\{ \\begin{array}{l}x > 0\\\\54 - {x^3} > 0\\end{array} \\right.\\)\\( \\Leftrightarrow \\left\\{ \\begin{array}{l}x > 0\\\\x < 3\\sqrt[3]{2}\\end{array} \\right.\\) . log(54 – x 3 ) = 3logx Û log(54 – x 3 ) = logx 3 Û 54 – x 3 = x 3 Û x = 3 (thỏa mãn). Vậy nghiệm của phương trình là x = 3."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Tập nghiệm S của bất phương trình log 2 (2x + 4) ≥ 0 là",
+      "options": [
+        "A. \\(S = \\left[ { - \\frac{3}{2}; + \\infty } \\right)\\).",
+        "B. \\(S = \\left( { - \\frac{3}{2}; + \\infty } \\right)\\).",
+        "C. S = [−2; +∞).",
+        "D. (−2; +∞)."
+      ],
+      "answer": "A",
+      "note": "A Điều kiện: 2x + 4 > 0 Û x > −2. log 2 (2x + 4) ≥ 0 Û 2x + 4 ≥ 1 Û \\(x \\ge - \\frac{3}{2}\\) . Kết hợp với điều kiện, ta có tập nghiệm của bất phương trình \\(S = \\left[ { - \\frac{3}{2}; + \\infty } \\right)\\) ."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho bất phương trình \\({\\left( {\\frac{2}{3}} \\right)^{{x^2} - x + 1}} > {\\left( {\\frac{2}{3}} \\right)^{2x - 1}}\\) có tập nghiệm S = (a; b). Giá trị của b – a bằng",
+      "options": [
+        "A. −2.",
+        "B. 1.",
+        "C. −1.",
+        "D. 2."
+      ],
+      "answer": "B",
+      "note": "B \\({\\left( {\\frac{2}{3}} \\right)^{{x^2} - x + 1}} > {\\left( {\\frac{2}{3}} \\right)^{2x - 1}}\\)\\( \\Leftrightarrow {x^2} - x + 1 < 2x - 1\\)\\( \\Leftrightarrow {x^2} - 3x + 2 < 0\\) Û 1 < x < 2. Vậy tập nghiệm của bất phương trình là S = (1; 2). Suy ra a = 1 và b = 2. Do đó b – a = 2 – 1 = 1."
+    }
+  ]
+}

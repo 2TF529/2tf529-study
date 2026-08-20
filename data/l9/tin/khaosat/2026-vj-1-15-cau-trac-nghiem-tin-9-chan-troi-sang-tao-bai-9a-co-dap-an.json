@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-9-chan-troi-sang-tao-bai-9a-co-dap-an",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-9-chan-troi-san",
+  "grade": "l9",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu trắc nghiệm Tin 9 Chân trời sáng tạo Bài 9a có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Hàm nào sau đây dùng để trích xuất giá trị tháng từ dữ liệu kiểu ngày?",
+      "options": [
+        "A. YEAR",
+        "B. MONTH",
+        "C. DAY",
+        "D. DATE"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Hàm MONTH được sử dụng để trích xuất giá trị tháng từ dữ liệu kiểu ngày"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Để lấy dữ liệu từ một trang tính khác trong Excel, cần thêm ký tự nào vào trước địa chỉ ô tính?",
+      "options": [
+        "A. #",
+        "B. $",
+        "C. !",
+        "D. @"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Ký tự ! được sử dụng để chỉ rằng địa chỉ ô tính thuộc về một trang tính khác trong workbook."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Công thức =IF(C3>B3,\"Chi>Thu\",\"Chi<=Thu\") trả về giá trị gì nếu C3 = 5000 và B3 = 3000?",
+      "options": [
+        "A. Chi>Thu",
+        "B. Chi<=Thu",
+        "C. Chi=Thu",
+        "D. Không giá trị nào"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Vì 5000 > 3000, hàm IF trả về giá trị \"Chi>Thu\"."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Khi sao chép công thức, cần dùng ký hiệu nào để giữ cố định hàng hoặc cột?",
+      "options": [
+        "A. @",
+        "B. $",
+        "C. &",
+        "D. %"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Ký hiệu $ cố định hàng hoặc cột khi sao chép công thức."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Kết quả của công thức =MONTH(DATE(2023,12,8)) là gì?",
+      "options": [
+        "A. 8",
+        "B. 12",
+        "C. 2023",
+        "D. Không xác định"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Hàm MONTH trả về tháng trong dữ liệu kiểu ngày, ở đây là tháng 12."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Công thức =IF(C3>B3,\"Chi>Thu\",IF(C3=B3,\"Chi=Thu\",\"Chi<Thu\")) sử dụng loại hàm gì?",
+      "options": [
+        "A. Hàm đơn",
+        "B. Hàm IF lồng nhau",
+        "C. Hàm điều kiện",
+        "D. Hàm lặp"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Công thức sử dụng nhiều hàm IF lồng nhau để kiểm tra các điều kiện."
+    }
+  ]
+}

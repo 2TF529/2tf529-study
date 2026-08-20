@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-cac-dang-bai-tap-day-so-lop-11-co-loi-giai",
+  "sourceId": "vietjack:2-cac-dang-bai-tap-day-so-lop-11-co-loi-",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.Các dạng bài tập Dãy số lớp 11 (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho dãy số (u n ) với u n = 2n - 1. Năm số hạng đầu tiên của dãy số là:",
+      "options": [
+        "A. 1; 3; 5; 7; 9.",
+        "B. 1; 2; 3; 4; 5.",
+        "C. 2; 4; 6; 8; 10.",
+        "D. -1; 1; 3; 5; 7."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Thay lần lượt n = 1, 2, 3, 4, 5 vào công thức tổng quát của dãy số, ta được: u 1 = 2 × 1 - 1 = 1; u 2 = 2 × 2 - 1 = 3; u 3 = 2 × 3 - 1 = 5; u 4 = 2 × 4 - 1 = 7; u 5 = 2 × 5 - 1 = 9. Vậy năm số hạng đầu tiên của dãy số là 1; 3; 5; 7; 9."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho dãy số (u n ) với u n = \\(\\frac{{n + 1}}{{2n + 1}}\\). Số hạng thứ 4 của dãy số là:",
+      "options": [
+        "A. u 4 = \\(\\frac{5}{9}\\).",
+        "B. u 4 = \\(\\frac{4}{9}\\).",
+        "C. u 4 = \\(\\frac{5}{7}\\).",
+        "D. u 4 = \\(\\frac{2}{3}\\)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Để tìm số hạng thứ 4 của dãy số, ta thay n = 4 vào công thức tổng quát: u 4 = \\(\\frac{{4 + 1}}{{2 \\cdot 4 + 1}}\\) = \\(\\frac{5}{9}\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho dãy số (u n ) có công thức tổng quát u n = (-1) n × 2 n . Số hạng u 5 bằng bao nhiêu?",
+      "options": [
+        "A. 32.",
+        "B. -32.",
+        "C. -10.",
+        "D. 10."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Thay n = 5 vào công thức tổng quát của dãy số, ta được: u 5 = (-1) 5 × 2 5 = (-1) × 32 = -32."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho dãy số (u n ) có công thức tổng quát u n = n 2 - 4n + 3. Số 8 là số hạng thứ mấy của dãy số?",
+      "options": [
+        "A. Số hạng thứ 3.",
+        "B. Số hạng thứ 4.",
+        "C. Số hạng thứ 5.",
+        "D. Số hạng thứ 6."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Xét phương trình n 2 - 4n + 3 = 8 ⇔ n 2 - 4n - 5 = 0 ⇔ n = 5 (thỏa mãn n ∈ ℕ*) hoặc n = \\( - 1\\) (loại). Vậy số 8 là số hạng thứ 5 của dãy số."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho dãy số (u n ) với u n = \\(\\sin \\left( {\\frac{{n\\pi }}{2}} \\right) + \\cos (n\\pi )\\). Số hạng u 3 của dãy số bằng:",
+      "options": [
+        "A. 0.",
+        "B. \\( - 2\\).",
+        "C. 2.",
+        "D. \\( - 1.\\)"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Thay n = 3 vào công thức tổng quát của dãy số, ta được: u 3 = \\(\\sin \\left( {\\frac{{3\\pi }}{2}} \\right) + \\cos (3\\pi )\\) = (-1) + (-1) = -2."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho dãy số (u n ) với u n = \\(\\frac{{2n - 1}}{{n + 1}}\\). Xét tính đúng hay sai của các mệnh đề sau:",
+      "options": [
+        "A. Số hạng đầu tiên của dãy số là u 1 = 1.",
+        "B. Số hạng thứ hai của dãy số u 2 = 1.",
+        "C. Số \\(\\frac{3}{2}\\) là số hạng thứ 5 của dãy số.",
+        "D. Số hạng u 10 = \\(\\frac{{21}}{{11}}\\)."
+      ],
+      "answer": "C",
+      "note": "Đáp án: a) Sai. b) Đúng. c) Đúng. d) Sai. a) Sai. Ta có u 1 = \\[\\frac{{2.1 - 1}}{{1 + 1}}\\] = \\(\\frac{1}{2}\\). b) Đúng. Ta có u 2 = \\(\\frac{{2.2 - 1}}{{2 + 1}}\\) = \\(\\frac{3}{3}\\) = 1. c) Đúng. Xét phương trình \\(\\frac{{2n - 1}}{{n + 1}}\\) = \\(\\frac{3}{2}\\) ⇔ 2(2n - 1) = 3(n + 1) ⇔ 4n - 2 = 3n + 3 ⇔ n = 5 (thỏa mãn n ∈ ℕ*). Do đó, số \\(\\frac{3}{2}\\) chính là số hạng thứ 5 của dãy số. d) Sai. Ta có số hạng thứ 10 của dãy số là u 10 = \\(\\frac{{2.10 - 1}}{{10 + 1}}\\) = \\(\\frac{{19}}{{11}}\\)."
+    }
+  ]
+}

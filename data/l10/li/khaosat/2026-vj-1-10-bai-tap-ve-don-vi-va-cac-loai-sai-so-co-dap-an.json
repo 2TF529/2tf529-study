@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-10-bai-tap-ve-don-vi-va-cac-loai-sai-so-co-dap-an",
+  "sourceId": "vietjack:1-10-bai-tap-ve-don-vi-va-cac-loai-sai-s",
+  "grade": "l10",
+  "subjectSlug": "li",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.10 Bài tập về đơn vị và các loại sai số có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Đơn vị nào sau đây không thuộc thứ nguyên L [Chiều dài]?",
+      "options": [
+        "A. Dặm.",
+        "B. Hải lí.",
+        "C. Năm ánh sáng.",
+        "D. Năm."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D D – sai vì năm là đơn vị đo thời gian."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Chọn đáp án có từ/ cụm từ thích hợp để hoàn thành các câu sau: - Các số hạng trong phép cộng (hoặc trừ) phải có cùng (1) … và nên chuyển về cùng (2) …. - (3) … của một biểu thức vật lí phải có cùng thứ nguyên.",
+      "options": [
+        "A. (1) đơn vị; (2) thứ nguyên; (3) Đại lượng.",
+        "B. (1) thứ nguyên; (2) đại lượng; (3) Hai vế.",
+        "C. (1) đơn vị; (2) đại lượng; (3) Hai vế.",
+        "D. (1) thứ nguyên; (2) đơn vị; (3) Hai vế."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D - Các số hạng trong phép cộng (hoặc trừ) phải có cùng (1) thứ nguyên và nên chuyển về cùng (2) đơn vị. - (3) Hai vế của một biểu thức vật lí phải có cùng thứ nguyên."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trong các phép đo dưới đây, đâu là phép đo trực tiếp? (1) Dùng thước đo chiều cao. (2) Dùng cân đo cân nặng. (3) Dùng cân và ca đong đo khối lượng riêng của nước. (4) Dùng đồng hồ và cột cây số đo tốc độ của người lái xe.",
+      "options": [
+        "A. (1), (2).",
+        "B. (1), (2), (4).",
+        "C. (2), (3), (4).",
+        "D. (2), (4)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A - Phép đo trực tiếp: (1) Dùng thước đo chiều cao. (2) Dùng cân đo cân nặng. - Phép đo gián tiếp: (3) Dùng cân và ca đong đo khối lượng riêng của nước. (4) Dùng đồng hồ và cột cây số đo tốc độ của người lái xe."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Đáp án nào sau đây gồm có một đơn vị cơ bản và một đơn vị dẫn xuất?",
+      "options": [
+        "A. Mét, kilogam.",
+        "B. Niuton, mol.",
+        "C. Paxcan, jun.",
+        "D. Candela, kelvin."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B A – đơn vị cơ bản. B – Niu tơn là đơn vị dẫn xuất, mol là đơn vị cơ bản. C – đơn vị dẫn xuất. D – đơn vị cơ bản."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Viên bi hình cầu có bán kính r đang chuyển động với tốc độ v trong dầu. Viên bi chịu tác dụng của lực cản có độ lớn được cho bởi biểu thức F = c.r.v, trong đó c là một hằng số. Xác định đơn vị của c theo đơn vị của lực, chiều dài và thời gian trong hệ SI.",
+      "options": [
+        "A. N.m.s.",
+        "B. N.m -2 .s.",
+        "C. N.m/s.",
+        "D. N/m -2 .s."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Theo đề bài: F = c.r.v, ta được: c = F r . v Suy ra đơn vị của c là N.m -2 .s."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Một vật có khối lượng m và thể tích V, có khối lượng riêng ρ được xác định bằng công thức ρ = m V . Biết sai số tương đối của m và V lần lượt là 12% và 5%. Hãy xác định sai số tương đối của ρ .",
+      "options": [
+        "A. 16%.",
+        "B. 15%.",
+        "C. 17%.",
+        "D. 18%."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Vì ρ = m V nên: δ ρ = δ m + δ V = 12 % + 5 % = 17 %"
+    }
+  ]
+}

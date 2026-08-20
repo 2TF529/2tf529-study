@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-5-10-bai-tap-mot-so-bai-toan-ham-hop-lien-quan-den-gia-tri-lon-nh",
+  "sourceId": "vietjack:5-10-bai-tap-mot-so-bai-toan-ham-hop-lie",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "5.10 bài tập Một số bài toán hàm hợp liên quan đến giá trị lớn nhất và giá trị nhỏ nhất của hàm số của hàm có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho hàm số y = f(x) liên tục trên [−2; 3] và có đồ thị như hình vẽ bên dưới. Gọi M và m lần lượt là giá trị lớn nhất và nhỏ nhất của hàm số y = f(2cos5x + 1). Giá trị của M – 2m bằng bao nhiêu?",
+      "options": [
+        "A. M – 2m = 5;",
+        "B. M – 2m = 3;",
+        "C. M – 2m = 6;",
+        "D. M – 2m = 7."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có −1 ≤ cos5x ≤ 1 −1 ≤ 2cos5x + 1 ≤ 3. Đặt t = 2cos5x + 1 với x ∈ [−2; 3] thì t ∈ [−1; 3]. Khi đó, y = f(2cos5x + 1) = f(t) với t ∈ [−1; 3]. Suy ra: M = 5; m = 0 M – 2m = 5."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Giá trị lớn nhất của hàm số f(x) = |x 3 – 3x 2 – 1| trên đoạn [−1; 3] là",
+      "options": [
+        "A. 1;",
+        "B. 2;",
+        "C. 3;",
+        "D. 5."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Xét hàm số g(x) = x 3 – 3x 2 – 1; g'(x) = 3x 2 – 6x. Có g'(x) = 0 x = 0 hoặc x = 2 (đều thuộc (−1; 3)). Ta có f(−1) = |g(−1)| = 5; f(0) = |g(0)| = 1; f(2) = |g(2)| = 5; f(3) = |g(3)| = 1. Vậy \\(\\mathop {\\max }\\limits_{\\left[ { - \\,1;3} \\right]} f\\left( x \\right) = 5\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho hàm số y = f(x) có đạo hàm của hàm số như sau: f'(x) = (x – 3)(x + 3)(x – 1) 2 . Gọi g(x) = f(−2x + 3). Khi đó giá trị nhỏ nhất của hàm số g(x) trên đoạn [0; 3] là:",
+      "options": [
+        "A. g(1);",
+        "B. g(2);",
+        "C. g(3);",
+        "D. g(0)."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Ta có bảng biến thiên của hàm số y = f(x) Ta có: g'(x) = −2f'(−2x + 3). Có g'(x) = 0 \\( \\Leftrightarrow \\left[ \\begin{array}{l} - 2x + 3 = - 3\\\\ - 2x + 3 = 1\\\\ - 2x + 3 = 3\\end{array} \\right. \\Leftrightarrow \\left[ \\begin{array}{l}x = 3\\\\x = 1\\\\x = 0\\end{array} \\right.\\) Ta có x = 1 là nghiệm bội chẵn nên ta có bảng biến thiên của hàm số g(x). Dựa vào bảng biến thiên ta có giá trị nhỏ nhất của hàm số g(x) trên đoạn [0; 3] là g(0)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hàm số y = f(x) liên tục trên tập ℝ và có bảng biến thiên như sau Gọi M, m lần lượt là giá trị lớn nhất và giá trị nhỏ nhất của hàm số y = f(x 2 – 2x) trên đoạn \\(\\left[ { - \\frac{3}{2};\\frac{7}{2}} \\right]\\). Tìm khẳng định sai trong các khẳng định sau.",
+      "options": [
+        "A. M.m > 10;",
+        "B. \\[\\frac{M}{m} < 2\\];",
+        "C. M – m > 3;",
+        "D. M + m > 7."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Đặt t = x 2 – 2x. Ta có \\[x \\in \\left[ { - \\frac{3}{2};\\frac{7}{2}} \\right] \\Leftrightarrow - \\frac{5}{2} \\le x - 1 \\le \\frac{5}{2} \\Leftrightarrow 0 \\le {\\left( {x - 1} \\right)^2} \\le \\frac{{25}}{4}\\] \\[ \\Leftrightarrow - 1 \\le {\\left( {x - 1} \\right)^2} - 1 \\le \\frac{{21}}{4}\\] nên \\[t \\in \\left[ { - 1;\\frac{{21}}{4}} \\right]\\]. Xét hàm số \\[y = f\\left( t \\right),t \\in \\left[ { - 1;\\frac{{21}}{4}} \\right]\\] Từ bảng biến thiên suy ra: \\(m = \\mathop {\\min }\\limits_{t \\in \\left[ { - 1;\\frac{{21}}{4}} \\right]} f\\left( t \\right) = f\\left( 1 \\right) = 2,M = \\mathop {\\max }\\limits_{t \\in \\left[ { - 1;\\frac{{21}}{4}} \\right]} f\\left( t \\right) = f\\left( {\\frac{{21}}{4}} \\right) = 5 \\Rightarrow \\frac{M}{m} > 2\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hàm số y = f(x) có đồ thị như hình vẽ. Gọi M, m là các giá trị lớn nhất, giá trị nhỏ nhất của hàm số \\(y = \\sqrt {2x - {x^2}} \\). Giá trị của 2M – m bằng",
+      "options": [
+        "A. −1;",
+        "B. −2;",
+        "C. −3;",
+        "D. −5."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Đặt \\(t = \\sqrt {2x - {x^2}} \\), ta có \\(0 \\le t \\le 1\\). Hàm số \\(y = \\sqrt {2x - {x^2}} \\) trở thành y = f(t) với 0 ≤ t ≤ 1. Dựa vào đồ thị ta suy ra M = −3; m = −5. Vậy 2M – m = −1."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho hàm số y = f(x) liên tục trên ℝ có đồ thị như hình vẽ Gọi M và m tương ứng là giá trị lớn nhất và giá trị nhỏ nhất của hàm số y = f(1 − cosx) trên \\(\\left[ {0;\\frac{{3\\pi }}{2}} \\right]\\). Giá trị của M + m bằng",
+      "options": [
+        "A. 1;",
+        "B. 2;",
+        "C. \\(\\frac{1}{2}\\);",
+        "D. \\(\\frac{3}{2}\\)."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Đặt t = 1 – cosx t ∈ [0; 2]. Dựa vào đồ thị ta thấy \\(\\mathop {\\max }\\limits_{\\left[ {0;2} \\right]} f\\left( t \\right) = 2;\\mathop {\\min }\\limits_{\\left[ {0;2} \\right]} f\\left( t \\right) = - \\frac{3}{2} \\Rightarrow M + n = \\frac{1}{2}\\)."
+    }
+  ]
+}

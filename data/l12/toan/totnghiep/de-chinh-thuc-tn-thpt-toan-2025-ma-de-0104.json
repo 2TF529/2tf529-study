@@ -1,0 +1,196 @@
+{
+  "id": "l12-toan-totnghiep-2025-de-chinh-thuc-tn-thpt-toan-2025-ma-de-0104",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2025,
+  "code": "THPT_CTT_2025_0104",
+  "title": "Đề chính thức tốt nghiệp THPT môn Toán năm 2025 - Mã đề 0104",
+  "duration": 90,
+  "answerSource": "official",
+  "source": "https://dolthpt.vn/tot-nghiep-thpt/pdf-de-chinh-thuc-tn-thpt-toan-2025-ma-de-0104-co-dap-an",
+  "notes": "Nội dung, đáp án và lời giải được nhập từ bản công khai của DOL THPT.",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "content": "Cho cấp số cộng $(u_n)$ với $u_1 = 2$ và công sai $d = 3$. Giá trị của $u_5$ bằng",
+      "chuong": "dãy số. cấp số cộng và cấp số nhân",
+      "dang": "số hạng tổng quát của cấp số cộng",
+      "type": "single",
+      "options": [
+        "A. \\$14$",
+        "B. \\$17$",
+        "C. \\$15$",
+        "D. \\$12$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**📃 Thông tin đề bài cho:**\n- Dãy số $(u_n)$ là một **cấp số cộng**.\n- Số hạng đầu $u_1 = 2$.\n- Công sai $d = 3$.\n- Yêu cầu tìm giá trị của $u_5$.\n**❓ Hiểu câu hỏi:**\n- Câu hỏi asks for số hạng thứ 5 của cấp số cộng.\n- Cần áp dụng công thức của cấp số cộng.\n**🔎 Hướng dẫn cách làm:**\n- Với cấp số cộng, công thức tổng quát:\n$u_n = u_1 + (n - 1)\\,d.$\n- Thay $n = 5$, $u_1 = 2$, $d = 3$ vào công thức:\n$u_5 = 2 + (5 - 1)\\times 3.$\n- Tính chi tiết:\n\\$5 - 1 = 4,$\n\\$4 \\times 3 = 12,$\n$u_5 = 2 + 12 = 14.$\n**✅ Đáp án:** \\$14$\n**❌ Các đáp án khác:**\n- B. 17: Sai vì nếu tính $(5-1)\\times3 + 2$ thì kết quả là 14, không phải 17.\n- C. 15: Sai vì \\$2 + 4\\times3 = 14$, không phải 15.\n- D. 12: Sai vì \\$12$ chỉ là kết quả của \\$4\\times3$, chưa cộng với $u_1 = 2$."
+    },
+    {
+      "id": 2,
+      "content": "Trong mặt phẳng với hệ tọa độ $Oxy$, diện tích $S$ của hình phẳng giới hạn bởi đồ thị hàm số $y = 2x + 1$, trục hoành và hai đường thẳng $x = 1, x = 2$ được xác định bằng công thức nào sau đây?",
+      "chuong": "nguyên hàm và tích phân",
+      "dang": "ứng dụng tích phân để tính diện tích hình phẳng",
+      "type": "single",
+      "options": [
+        "A. $S = \\int_1^2 (2x + 1)^2 \\, dx$",
+        "B. $S = \\pi \\int_1^2 (2x + 1)^2 \\, dx$",
+        "C. $S = \\int_1^2 (2x + 1)\\, dx$",
+        "D. $S = \\pi \\int_1^2 (2x + 1)\\, dx$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**📃 Thông tin đề bài cho:**\n- Đồ thị hàm số $y = 2x + 1$\n- Hai đường thẳng $x = 1$ và $x = 2$\n- Trục hoành $y = 0$\n- Yêu cầu: tìm công thức tích phân xác định diện tích vùng\n**❓ Hiểu câu hỏi:**\n- Tính diện tích hình phẳng giới hạn bởi các đường đã cho\n- Áp dụng công thức diện tích dưới đường cong bằng tích phân\n**🔎 Hướng dẫn cách làm:**\n- Xác định hàm trên và hàm dưới: - Hàm trên: $f(x) = 2x + 1$\n  - Hàm dưới: $g(x) = 0$\n- Giới hạn tích phân: từ $x = 1$ đến $x = 2$\n- Công thức diện tích:\n$S = \\int_a^b \\bigl[f(x) - g(x)\\bigr]\\,dx$\n- Thay số vào công thức:\n$S = \\int_1^2 \\bigl[(2x + 1) - 0\\bigr]\\,dx = \\int_1^2 (2x + 1)\\,dx$\n**✅ Đáp án:** $S = \\int_1^2 (2x + 1)\\,dx$\n**❌ Các đáp án khác:**\n- A. $\\int_1^2 (2x + 1)^2\\,dx$ không đúng vì biểu thức bị bình phương, không phải phép hiệu của hai hàm.\n- B. $\\pi \\int_1^2 (2x + 1)^2\\,dx$ sai vì có thêm hệ số $\\pi$ và bình phương hàm số.\n- D. $\\pi \\int_1^2 (2x + 1)\\,dx$ dư thừa hệ số $\\pi$, không phải tích phân cho diện tích phẳng."
+    },
+    {
+      "id": 3,
+      "content": "Cho khối chóp $O.ABC$ có $OA$ vuông góc với mặt phẳng $(ABC)$, tam giác $ABC$ vuông tại $A$ và $OA = 2, AB = 3, AC = 6$. Thể tích của khối chóp $O.ABC$ bằng",
+      "chuong": "quan hệ vuông góc trong không gian",
+      "dang": "thể tích",
+      "type": "single",
+      "options": [
+        "A. \\$36$",
+        "B. \\$12$",
+        "C. \\$6$",
+        "D. \\$18$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**📃 Thông tin đề bài cho:**\n- Theo hình vẽ, trong khối chóp $O.ABC$: $OA$ vuông góc với mặt phẳng $(ABC)$.\n- Tam giác $ABC$ vuông tại $A$.\n- Độ dài các cạnh: $OA = 2$, $AB = 3$, $AC = 6$.\n**❓ Hiểu câu hỏi:**\n- Câu hỏi yêu cầu tính thể tích khối chóp $O.ABC$.\n- Công thức chung:\n$\\displaystyle V = \\frac{1}{3}\\times S_{\\text{đáy}} \\times \\text{chiều cao}.$\n- Ở đây, đáy là tam giác $ABC$ vuông tại $A$, chiều cao tương ứng chính là $OA$.\n**🔎 Hướng dẫn cách làm:**\n- Bước 1: Tính diện tích tam giác đáy $ABC$.\n- Bước 2: Xác định chiều cao của khối chóp ứng với đáy là $OA = 2$.\n- Bước 3: Áp dụng công thức thể tích:\n**✅ Đáp án:** \\$6$\n**❌ Các đáp án khác:**\n- A. 36: bỏ qua hệ số $\\tfrac{1}{3}$ và tính sai diện tích đáy.\n- B. 12: có thể tính nhầm diện tích đáy thành 6 hoặc quên thừa số $\\tfrac{1}{3}$.\n- D. 18: tính sai cả diện tích đáy lẫn sử dụng sai công thức thể tích."
+    },
+    {
+      "id": 4,
+      "content": "Trong không gian với hệ tọa độ $Oxyz$, cho mặt phẳng $(P): 2x - 4y + 3z - 9 = 0$. Vectơ nào sau đây là một vectơ pháp tuyến của mặt phẳng $(P)$?",
+      "chuong": "phương pháp tọa độ trong không gian",
+      "dang": "phương trình tổng quát của mặt phẳng",
+      "type": "single",
+      "options": [
+        "A. $\\vec{n}_4 = (2; -4; 3)$",
+        "B. $\\vec{n}_3 = (-2; 4; 3)$",
+        "C. $\\vec{n}_1 = (2; 4; 3)$",
+        "D. $\\vec{n}_2 = (2; 4; -3)$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**📃 Thông tin đề bài cho:**\n- Hệ tọa độ không gian Oxyz.\n- Phương trình mặt phẳng (P): 2x – 4y + 3z – 9 = 0.\n**❓ Hiểu câu hỏi:**\n- Yêu cầu tìm một *vectơ pháp tuyến* của mặt phẳng (P).\n- Nhận biết rằng hệ số của x, y, z trong phương trình chính là thành phần của vectơ pháp tuyến.\n**🔎 Hướng dẫn cách làm:**\n- Viết tổng quát phương trình mặt phẳng:\n$Ax + By + Cz + D = 0.$\n- Khi đó, vectơ pháp tuyến là\n$\\vec n = (A; B; C).$\n- So sánh với (P):\n\\$2x - 4y + 3z - 9 = 0$\nnên\n$A = 2,\\quad B = -4,\\quad C = 3.$\n- Vậy\n$\\vec n = (2; -4; 3).$\n- Đánh giá các phương án: - A. $(2; -4; 3)$ – khớp đúng với $(A;B;C)$.\n  - B. $(-2; 4; 3)$ – dấu không tương ứng với hệ số gốc.\n  - C. $(2; 4; 3)$ – thành phần y sai dấu.\n  - D. $(2; 4; -3)$ – thành phần y và z sai dấu.\n**✅ Đáp án:** A. $\\vec n = (2; -4; 3)$\n**❌ Các đáp án khác:**\n- B. Dấu các thành phần không đồng nhất với phương trình gốc.\n- C. Thành phần y có dấu ngược so với hệ số –4.\n- D. Thành phần y và z đều sai dấu."
+    },
+    {
+      "id": 5,
+      "content": "Cho hình chóp tứ giác đều $S.ABCD$ (xem hình dưới). Gọi $O$ là giao điểm của $AC$ và $BD$. Phát biểu nào sau đây là đúng?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-chinh-thuc-tn-thpt-toan-2025-ma-de-0104/cau-05.webp\" alt=\"Hình vẽ biểu diễn hình chóp tứ giác đều $S.ABCD$, trong đó đáy $ABCD$ là hình vuông (do là tứ giác đều), và đỉnh $S$ nằm thẳng đứng phía trên tâm $O$ của đáy.\nGọi $O$ là giao điểm của hai đường chéo $AC$ và $BD$ của hình vuông $ABCD$, tức là $O$ là tâm của hình vuông $ABCD$.\nVì hình chóp là **hình chóp tứ giác đều**, nên:\n- Tâm đáy $O$ chính là hình chiếu vuông góc của đỉnh $S$ xuống mặt đáy.\n- Do đó, $SO \\perp (ABCD)$.\n**Phát biểu đúng là**:\n$SO \\perp (ABCD)$.\" loading=\"lazy\"></figure>",
+      "chuong": "vectơ và hệ trục tọa độ trong không gian",
+      "dang": "tổng và hiệu của hai vectơ trong không gian",
+      "type": "single",
+      "options": [
+        "A. $\\overrightarrow{SA} + \\overrightarrow{SB} + \\overrightarrow{SC} + \\overrightarrow{SD} = \\vec{0}$",
+        "B. $\\overrightarrow{SA} + \\overrightarrow{SB} + \\overrightarrow{SC} + \\overrightarrow{SD} = 2\\overrightarrow{SO}$",
+        "C. $\\overrightarrow{SA} + \\overrightarrow{SB} + \\overrightarrow{SC} + \\overrightarrow{SD} = 4\\overrightarrow{SO}$",
+        "D. $\\overrightarrow{SA} + \\overrightarrow{SB} + \\overrightarrow{SC} + \\overrightarrow{SD} = \\overrightarrow{SO}$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**📃 Thông tin đề bài cho:**\n- Hình chóp tứ giác đều $S.ABCD$, đáy là hình vuông.\n- $O$ là giao điểm hai đường chéo $AC$ và $BD$ nên là tâm hình vuông $ABCD$.\n- Cần tìm giá trị của: $\\overrightarrow{SA} + \\overrightarrow{SB} + \\overrightarrow{SC} + \\overrightarrow{SD}$.\n**❓ Hiểu câu hỏi:**\n- Xét tổng các vectơ có chung điểm đầu là $S$ và điểm cuối là các đỉnh đáy.\n- Phải dùng kiến thức: - Tính chất tâm hình vuông: tổng các vectơ từ tâm đến các đỉnh bằng vectơ không.\n  - Biến đổi vectơ theo công thức: $\\overrightarrow{SA} = \\overrightarrow{SO} + \\overrightarrow{OA}$.\n**🔎 Hướng dẫn cách làm:**\n- Biến đổi từng vectơ theo định lý trung gian:\n$\\overrightarrow{SA} = \\overrightarrow{SO} + \\overrightarrow{OA}$\n$\\overrightarrow{SB} = \\overrightarrow{SO} + \\overrightarrow{OB}$\n$\\overrightarrow{SC} = \\overrightarrow{SO} + \\overrightarrow{OC}$\n$\\overrightarrow{SD} = \\overrightarrow{SO} + \\overrightarrow{OD}$\n- Cộng lại:\n$\\overrightarrow{SA} + \\overrightarrow{SB} + \\overrightarrow{SC} + \\overrightarrow{SD} = 4\\overrightarrow{SO} + (\\overrightarrow{OA} + \\overrightarrow{OB} + \\overrightarrow{OC} + \\overrightarrow{OD})$\n- Do $O$ là tâm hình vuông $ABCD$ nên:\n$\\overrightarrow{OA} + \\overrightarrow{OB} + \\overrightarrow{OC} + \\overrightarrow{OD} = \\vec{0}$\n- Suy ra:\n$\\overrightarrow{SA} + \\overrightarrow{SB} + \\overrightarrow{SC} + \\overrightarrow{SD} = 4\\overrightarrow{SO}$\n**✅ Đáp án:** $\\boxed{C}$\n**❌ Các đáp án khác:**\n- $A$: sai vì tổng không bằng $\\vec{0}$, mà là 4 lần $\\overrightarrow{SO}$.\n- $B$: sai vì thiếu hệ số, lẽ ra phải là 4 chứ không phải 2.\n- $D$: sai vì chỉ bằng $\\overrightarrow{SO}$ là quá nhỏ so với thực tế."
+    },
+    {
+      "id": 6,
+      "content": "Một người chia thời lượng (đơn vị: giây) thực hiện các cuộc gọi điện thoại của mình trong một tuần thành sáu nhóm và lập bảng tần số ghép nhóm như sau. Từ phân vị thứ ba $Q_3$ (đơn vị: giây) của mẫu số liệu ghép nhóm trên bảng là:\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-chinh-thuc-tn-thpt-toan-2025-ma-de-0104/cau-06.webp\" alt=\"Bảng tần số cho biết dữ liệu được chia thành 6 lớp (nhóm) với các khoảng giá trị và số lượng phần tử tương ứng trong từng lớp như sau:\n- Nhóm $[0; 30)$ có 10 phần tử.\n- Nhóm $[30; 60)$ có 11 phần tử.\n- Nhóm $[60; 90)$ có 8 phần tử.\n- Nhóm $[90; 120)$ có 6 phần tử.\n- Nhóm $[120; 150)$ có 4 phần tử.\n- Nhóm $[150; 180)$ có 1 phần tử.\nTổng cộng có: \\$10 + 11 + 8 + 6 + 4 + 1 = 40$ phần tử.\nLớp có tần số lớn nhất là lớp $[30; 60)$ với tần số là 11. Đây là **mode class** (lớp có mốt).\" loading=\"lazy\"></figure>",
+      "chuong": "các số đặc trưng đo mức độ phân tán cho mẫu số liệu ghép nhóm",
+      "dang": "khoảng tứ phân vị",
+      "type": "single",
+      "options": [
+        "A. \\$100$",
+        "B. \\$95$",
+        "C. \\$90$",
+        "D. \\$105$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**📃 Thông tin đề bài cho:**\n- Bảng tần số gồm 6 lớp: - $[0;30)$: 10\n  - $[30;60)$: 11\n  - $[60;90)$: 8\n  - $[90;120)$: 6\n  - $[120;150)$: 4\n  - $[150;180)$: 1\n- Yêu cầu: tính **tứ phân vị thứ ba** $Q_3$\n- Các đáp án: 90, 95, 100, 105\n**❓ Hiểu câu hỏi:**\n- Tìm $Q_3$, tức là giá trị mà 75% số liệu nhỏ hơn hoặc bằng nó.\n- Áp dụng công thức tứ phân vị: $Q_3 = u_m + \\dfrac{\\dfrac{3n}{4} - C}{n_m} \\cdot (u_{m+1} - u_m)$\n**🔎 Hướng dẫn cách làm:**\n- **Bước 1: Tính tổng tần số** $n = 10 + 11 + 8 + 6 + 4 + 1 = 40$\n- **Bước 2: Tính vị trí **$Q_3$**:**\n$\\dfrac{3n}{4} = \\dfrac{3 \\cdot 40}{4} = 30$\n- **Bước 3: Tính lũy tích tần số để xác định lớp chứa **$Q_3$ - $[0;30)$: 10\n  - $[30;60)$: 21\n  - $[60;90)$: 29\n  - $[90;120)$: 35 → chứa vị trí thứ 30\n⇒ Lớp chứa $Q_3$ là $[90;120)$\n- **Bước 4: Xác định các giá trị** - $u_m = 90$, $u_{m+1} = 120$\n  - $n_m = 6$\n  - $C = 10 + 11 + 8 = 29$\n- **Bước 5: Áp dụng công thức** $Q_3 = 90 + \\dfrac{30 - 29}{6} \\cdot (120 - 90)\n= 90 + \\dfrac{1}{6} \\cdot 30\n= 90 + 5 = 95$\n**✅ Đáp án:** B. 95\n**❌ Các đáp án khác:**\n- **A. 100**: Sai vì cộng sai phần bù, lấy $dfrac{1}{6} \\cdot 30 = 10$ là sai\n- **C. 90**: Sai vì quên cộng phần bù\n- **D. 105**: Sai vì cộng quá phần bù hoặc sai lớp chứa."
+    },
+    {
+      "id": 7,
+      "content": "Nghiệm của phương trình \\$2^{2x+1} = 8$ là",
+      "chuong": "hàm số mũ và hàm số lôgarit",
+      "dang": "phương trình mũ",
+      "type": "single",
+      "options": [
+        "A. $x = \\dfrac{3}{2}$",
+        "B. $x = \\dfrac{5}{2}$",
+        "C. $x = 1$",
+        "D. $x = 3$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**📃 Thông tin đề bài cho:**\n- Phương trình cần giải: \\$2^{2x+1} = 8$\n**❓ Hiểu câu hỏi:**\n- Yêu cầu tìm giá trị của $x$ sao cho phương trình đúng.\n- Cần áp dụng *tính chất cơ số bằng nhau của lũy thừa*.\n**🔎 Hướng dẫn cách làm:**\n- Biểu diễn \\$8$ dưới dạng lũy thừa cơ số \\$2$:\n\\$8 = 2^3.$\n- Khi đó phương trình trở thành:\n\\$2^{2x+1} = 2^3.$\n- Do hai biểu thức có cùng cơ số \\$2$ và luôn dương, ta so sánh số mũ:\n\\$2x + 1 = 3.$\n- Giải phương trình bậc nhất:\n\\$2x = 3 - 1 = 2 \\quad\\Longrightarrow\\quad x = 1.$\n**✅ Đáp án:** $x = 1$\n**❌ Các đáp án khác:**\n- A. $x = \\tfrac{3}{2}$ sai vì khi thay vào ta được \\$2^{2\\cdot\\frac{3}{2}+1}=2^4=16\\neq8$.\n- B. $x = \\tfrac{5}{2}$ sai vì khi thay vào ta được \\$2^{2\\cdot\\frac{5}{2}+1}=2^6=64\\neq8$.\n- D. $x = 3$ sai vì khi thay vào ta được \\$2^{2\\cdot3+1}=2^7=128\\neq8$."
+    },
+    {
+      "id": 8,
+      "content": "Cho hàm số $y = \\dfrac{ax + b}{cx + d} \\ (ac \\neq 0, ad - bc \\neq 0)$ có bảng biến thiên như dưới đây. Đường tiệm cận đứng của đồ thị hàm số đã cho có phương trình là\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-chinh-thuc-tn-thpt-toan-2025-ma-de-0104/cau-08.webp\" alt=\"Bảng biến thiên trong hình cho ta các thông tin sau:\n– Hàm số **nghịch biến** trên các khoảng $(-\\infty; -2)$ và $( -2; +\\infty )$.\n– Hàm số **không có cực trị**, vì đạo hàm không đổi dấu khi đi qua điểm $x = -2$.\n– Giá trị của hàm số:\n- Khi $x \\to -\\infty$ thì $y \\to 1$.\n- Khi $x \\to -2^-$ thì $y \\to -\\infty$.\n- Khi $x \\to -2^+$ thì $y \\to +\\infty$.\n- Khi $x \\to +\\infty$ thì $y \\to 1$.\n– Từ bảng biến thiên ta thấy: $\\lim\\limits_{x \\to \\pm\\infty} y = 1$ và hàm số không xác định tại $x = -2$, nên đây là bảng biến thiên của một **hàm phân thức** có tiệm cận đứng là $x = -2$ và tiệm cận ngang là $y = 1$.\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "đường tiệm cận đứng",
+      "type": "single",
+      "options": [
+        "A. $y = -2$",
+        "B. $x = 1$",
+        "C. $y = 1$",
+        "D. $x = -2$"
+      ],
+      "answer": "D",
+      "explanation": "**Input Summary**\n- Cho hàm phân thức\n- Bảng biến thiên cho biết:\n• Hàm số nghịch biến trên $(-\\infty,-2)$ và $(-2,+\\infty)$.\n• Khi $x\\to -2^-$, $y\\to -\\infty$; khi $x\\to -2^+$, $y\\to +\\infty$.\n• Hàm số không xác định tại $x=-2$.\n- Các phương án cho đường tiệm cận đứng:\n• $y=-2$\n• $x=1$\n• $y=1$\n• $x=-2$\n**Problem Requirements**\n- Xác định phương trình của đường tiệm cận **đứng** của đồ thị hàm số đã cho.\n**Solution Approach**\n1. **Khái niệm tiệm cận đứng**\nVới hàm phân thức $\\displaystyle y=\\frac{ax+b}{cx+}d}$, mọi điểm $x$ khiến mẫu số bằng 0 là nơi đồ thị có thể có tiệm cận đứng.\n2. **Tìm nghiệm mẫu số**\nMẫu số $cx+d=0$ $\\Rightarrow$ $x=-\\tfrac{d}{c}$.\n3. **Sử dụng bảng biến thiên** - Bảng cho thấy hàm không xác định tại $x=-2$.\n  - Khi $x\\to -2^-$, $y\\to -\\infty$; khi $x\\to -2^+$, $y\\to +\\infty$.\n⇒ Đúng là có tiệm cận đứng tại $x=-2$.\n4. **Loại trừ các phương án sai** - $y=-2$ và $y=1$ là các đường ngang (tiệm cận ngang), không phải đứng.\n  - $x=1$ sai vì không trùng với giá trị làm mẫu số bằng 0.\n**Final Answer**\nĐường tiệm cận đứng là"
+    },
+    {
+      "id": 9,
+      "content": "Tập nghiệm của phương trình $\\sin x = 1$ là",
+      "chuong": "hàm số lượng giác và phương trình lượng giác",
+      "dang": "phương trình sinx=m",
+      "type": "single",
+      "options": [
+        "A. $S = \\left\\{rac{\\pi}{2} + k\\pi \\mid k \\in \\mathbb{Z} right\\}$",
+        "B. $S = \\left\\{frac{\\pi}{2} + 2k\\pi \\mid k \\in \\mathbb{Z} right\\}$",
+        "C. $S = \\left\\{ k\\pi \\mid k \\in \\mathbb{Z} right\\}$",
+        "D. $S = \\left\\{ k2\\pi \\mid k \\in \\mathbb{Z} right\\}$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**📃 Thông tin đề bài cho:**\n- Phương trình cần giải: $\\sin x = 1$\n**❓ Hiểu câu hỏi:**\n- Tìm tập nghiệm chung của phương trình $\\sin x = 1$.\n- Áp dụng kiến thức về giá trị cực đại của hàm số sin và công thức nghiệm tổng quát.\n**🔎 Hướng dẫn cách làm:**\n- Hàm số $\\sin x$ có giá trị lớn nhất bằng 1 và chỉ đạt tại các điểm:\n$x = \\frac{\\pi}{2} + 2k\\pi\\,,\\quad k \\in \\mathbb{Z}\\,.$\n- Giải thích: - Trên đồ thị hàm số $y = \\sin x$, điểm cao nhất (y = 1) xuất hiện khi góc đối bằng bán kính, tức $x = \\frac{\\pi}{2}$ trong khoảng $[0,2\\pi)$.\n  - Do tính tuần hoàn với chu kỳ \\$2\\pi$, ta cộng thêm \\$2k\\pi$ để được nghiệm tổng quát.\n- So sánh các phương án: - Phương án A cho $x = \\frac{\\pi}{2} + k\\pi$ sẽ lẫn cả nghiệm $\\sin x = -1$ khi $k$ chẵn lẻ khác nhau.\n  - Phương án C và D chỉ cho nghiệm của sin bằng 0, không đúng.\n**✅ Đáp án:**\n$S = \\left\\{\\frac{\\pi}{2} + 2k\\pi \\mid k \\in \\mathbb{Z}\\right\\}$\n**❌ Các đáp án khác:**\n- A. $\\left\\{\\frac{\\pi}{2} + k\\pi \\mid k \\in \\mathbb{Z}\\right\\}$: Bao gồm cả nghiệm sin(x)=−1 khi $k$ lẻ.\n- C. $\\{k\\pi \\mid k\\in\\mathbb{Z}\\}$: Chỉ là các nghiệm sin(x)=0.\n- D. $\\{k2\\pi \\mid k\\in\\mathbb{Z}\\}$: Chỉ là các nghiệm sin(x)=0."
+    },
+    {
+      "id": 10,
+      "content": "Cho hình lăng trụ $ABC.A'B'C'$ (xem hình dưới). Đường thẳng $B'C'$ song song với mặt phẳng nào sau đây?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-chinh-thuc-tn-thpt-toan-2025-ma-de-0104/cau-10.webp\" alt=\"Hình vẽ là một hình lăng trụ tam giác đứng có đáy là tam giác $ABC$ và mặt trên là tam giác $A'B'C'$. Các cạnh bên là các đoạn thẳng song song và bằng nhau: $AA'$, $BB'$, $CC'$.\nCác yếu tố đặc trưng:\n- Các mặt bên là các hình bình hành.\n- Các cạnh bên vuông góc với mặt đáy nên đây là **lăng trụ đứng**.\n- Hai đáy $ABC$ và $A'B'C'$ là hai tam giác bằng nhau và nằm trong hai mặt phẳng song song.\nKết luận: Đây là **hình lăng trụ tam giác đứng**.\" loading=\"lazy\"></figure>",
+      "chuong": "quan hệ song song trong không gian",
+      "dang": "đường thẳng song song với mặt phẳng",
+      "type": "single",
+      "options": [
+        "A. $(ABC)$",
+        "B. $(A'B'C')$",
+        "C. $(AB'C')$",
+        "D. $(B'BC)$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**📃 Thông tin đề bài cho:**\n- Hình lăng trụ tam giác đứng $ABC.A'B'C'$, trong đó các cạnh bên $AA'$, $BB'$, $CC'$ vuông góc với mặt đáy và song song với nhau.\n- Hai đáy là tam giác $ABC$ và $A'B'C'$ nằm trong hai mặt phẳng song song.\n- Cần xác định mặt phẳng nào song song với đường thẳng $B'C'$.\n**❓ Hiểu câu hỏi:**\n- Cần tìm mặt phẳng sao cho đường thẳng $B'C'$ song song với mặt phẳng đó.\n- Áp dụng tính chất: *nếu một đường thẳng song song với một đường thẳng nằm trong mặt phẳng thì nó song song với cả mặt phẳng đó*.\n**🔎 Hướng dẫn cách làm:**\n- Bước 1: Trong lăng trụ, các cạnh tương ứng của hai đáy song song với nhau, nên\n$B'C' \\parallel BC\\,.$\n- Bước 2: Xét mặt phẳng đáy $(ABC)$, ta có\n$BC \\subset (ABC)\\,.$\n- Bước 3: Từ $B'C' \\parallel BC$ và $BC \\subset (ABC)$ suy ra\n$B'C' \\parallel (ABC)\\,.$\n**✅ Đáp án:** $(ABC)$\n**❌ Các đáp án khác:**\n- (A'B'C'): B'C' nằm trên mặt này nên không phải song song mà nằm trong mặt phẳng.\n- (AB'C'): B'C' cũng thuộc mặt phẳng này, nên không song song.\n- (B'BC): Đường thẳng B'C' cắt mặt phẳng này tại điểm B' nên không song song."
+    },
+    {
+      "id": 11,
+      "content": "Trong không gian với hệ tọa độ $Oxyz$, mặt phẳng đi qua gốc tọa độ và nhận $\\vec{n} = (-1; 0; 3)$ làm một vectơ pháp tuyến có phương trình tổng quát là",
+      "chuong": "phương pháp tọa độ trong không gian",
+      "dang": "phương trình tổng quát của mặt phẳng",
+      "type": "single",
+      "options": [
+        "A. $-x + 3z = 0$",
+        "B. $-x + 3y = 0$",
+        "C. $-x - 3z = 0$",
+        "D. $-y + 3z = 0$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**📃 Thông tin đề bài cho:**\n- Cho hệ tọa độ $Oxyz$.\n- Vectơ pháp tuyến của mặt phẳng là $\\vec{n}=(-1;0;3)$.\n- Mặt phẳng phải đi qua gốc tọa độ $O(0,0,0)$.\n**❓ Hiểu câu hỏi:**\n- Yêu cầu tìm phương trình tổng quát của mặt phẳng biết vectơ pháp tuyến và một điểm (gốc O).\n- Ứng dụng công thức mặt phẳng trong không gian.\n**🔎 Hướng dẫn cách làm:**\n- Công thức tổng quát của mặt phẳng có vectơ pháp tuyến $\\vec{n}=(a,b,c)$ và đi qua điểm $(x_0,y_0,z_0)$ là:\n$a(x-x_0)+b(y-y_0)+c(z-z_0)=0.$\n- Ở đây $a=-1,\\;b=0,\\;c=3$ và $(x_0,y_0,z_0)=(0,0,0)$, thay vào ta được:\n$-1(x-0)+0(y-0)+3(z-0)=0.$\n- Rút gọn lại:\n$-x+3z=0.$\n**✅ Đáp án:** $-x+3z=0$\n**❌ Các đáp án khác:**\n- B: $-x+3y=0$ — Sai vì hệ số của $y$ không đúng (pháp tuyến có thành phần $b=0$, không có $y$).\n- C: $-x-3z=0$ — Sai dấu của hệ số $z$ (phải là +3, không phải -3).\n- D: $-y+3z=0$ — Sai vì thiếu biến $x$ và hệ số $y$ không tương ứng với pháp tuyến."
+    },
+    {
+      "id": 12,
+      "content": "Họ nguyên hàm của hàm số $f(x) = \\sin x + \\cos x$ là",
+      "chuong": "nguyên hàm và tích phân",
+      "dang": "nguyên hàm của một số hàm số thường gặp",
+      "type": "single",
+      "options": [
+        "A. $\\cos x + \\sin x + C$",
+        "B. $\\cos x - \\sin x + C$",
+        "C. $-\\cos x - \\sin x + C$",
+        "D. $-\\cos x + \\sin x + C$"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**📃 Thông tin đề bài cho:**\n- Hàm số: $f(x) = \\sin x + \\cos x$\n- Yêu cầu: Tìm họ nguyên hàm $F(x)$ sao cho $F'(x)=f(x)$.\n**❓ Hiểu câu hỏi:**\n- Cần tìm $F(x)$ sao cho\n- Áp dụng các công thức cơ bản:\n**🔎 Hướng dẫn cách làm:**\n- Tính tích phân từng phần: - $\\displaystyle \\int \\sin x\\,dx = -\\cos x + C_1$\n  - $\\displaystyle \\int \\cos x\\,dx = \\sin x + C_2$\n- Tổng hợp kết quả:  với $C = C_1 + C_2$.\n- Kiểm tra lại đạo hàm:  trùng khớp với $f(x)$.\n**✅ Đáp án:** D. $-\\cos x + \\sin x + C$\n**❌ Các đáp án khác:**\n- A. $\\cos x + \\sin x + C$: khi đó $F'(x) = -\\sin x + \\cos x \\neq \\sin x + \\cos x$.\n- B. $\\cos x - \\sin x + C$: khi đó $F'(x) = -\\sin x - \\cos x = -(\\sin x + \\cos x)$.\n- C. $-\\cos x - \\sin x + C$: khi đó $F'(x) = \\sin x - \\cos x \\neq \\sin x + \\cos x$."
+    }
+  ]
+}

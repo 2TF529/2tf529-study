@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-12-20-cau-trac-nghiem-toan-12-chan-troi-sang-tao-bai-3-ung-dung-h",
+  "sourceId": "vietjack:12-20-cau-trac-nghiem-toan-12-chan-troi-",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "12.20 câu trắc nghiệm Toán 12 Chân trời sáng tạo Bài 3. Ứng dụng hình học của tích phân (Đúng sai - Trả lời ngắn) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: TRẮC NGHIỆM NHIỀU LỰA CHỌN Diện tích hình phẳng giới hạn bởi đồ thị của hàm số \\(y = {e^x} - 2\\) , trục hoành và hai đường thẳng \\(x = 0,x = \\ln 4\\) là",
+      "options": [
+        "A. 1.",
+        "B. 3.",
+        "C. 2ln2 – 1.",
+        "D. 3 – 4ln2."
+      ],
+      "answer": "A",
+      "note": "Chọn A Diện tích cần tìm là \\(S = \\int\\limits_0^{\\ln 4} {\\left| {{e^x} - 2} \\right|dx} \\)\\( = \\int\\limits_0^{\\ln 2} {\\left| {{e^x} - 2} \\right|dx} + \\int\\limits_{\\ln 2}^{\\ln 4} {\\left| {{e^x} - 2} \\right|dx} \\)\\( = - \\int\\limits_0^{\\ln 2} {\\left( {{e^x} - 2} \\right)dx} + \\int\\limits_{\\ln 2}^{\\ln 4} {\\left( {{e^x} - 2} \\right)dx} \\) \\( = \\left. {\\left( {2x - {e^x}} \\right)} \\right|_0^{\\ln 2} + \\left. {\\left( {{e^x} - 2x} \\right)} \\right|_{\\ln 2}^{\\ln 4}\\)\\( = 2\\ln 2 - 1 + 2 - 2\\ln 2 = 1\\)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Diện tích hình phẳng giới hạn bởi trục Ox, trục Oy, đồ thị hàm số \\(y = f\\left( x \\right)\\) và đường thẳng \\(x = 2\\) được tính theo công thức nào dưới đây?",
+      "options": [
+        "A. \\(\\int\\limits_2^0 {\\left| {f\\left( x \\right)} \\right|dx} \\) .",
+        "B. \\(\\int\\limits_0^2 {\\left| {f\\left( x \\right) - 2} \\right|dx} \\) .",
+        "C. \\(\\int\\limits_0^2 {f\\left( x \\right)dx} \\) .",
+        "D. \\(\\int\\limits_0^2 {\\left| {f\\left( x \\right)} \\right|dx} \\) ."
+      ],
+      "answer": "D",
+      "note": "Chọn D Diện tích cần tìm là \\(\\int\\limits_0^2 {\\left| {f\\left( x \\right)} \\right|dx} \\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Gọi \\(S\\) là diện tích hình phẳng giới hạn bởi các đường \\(y = {3^x},y = 0,x = 0,x = 2\\) . Mệnh đề nào dưới đây đúng?",
+      "options": [
+        "A. \\(\\int\\limits_0^2 {{3^x}dx} \\) .",
+        "B. \\(\\pi \\int\\limits_0^2 {{3^{2x}}dx} \\) .",
+        "C. \\(\\pi \\int\\limits_0^2 {{3^x}dx} \\) .",
+        "D. \\(\\int\\limits_0^2 {{3^{2x}}dx} \\) ."
+      ],
+      "answer": "A",
+      "note": "Chọn A Diện tích cần tìm là \\(S = \\int\\limits_0^2 {\\left| {{3^x}} \\right|dx} = \\int\\limits_0^2 {{3^x}dx} \\)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Diện tích hình phẳng giới hạn bởi đồ thị hàm số \\(y = \\cos x\\) , trục tung, trục hoành và đường thẳng \\(x = \\pi \\) bằng",
+      "options": [
+        "A. 2.",
+        "B. 3.",
+        "C. 1.",
+        "D. 4."
+      ],
+      "answer": "A",
+      "note": "Chọn A Diện tích cần tìm là \\(S = \\int\\limits_0^\\pi {\\left| {\\cos x} \\right|dx} = \\int\\limits_0^{\\frac{\\pi }{2}} {\\cos xdx} - \\int\\limits_{\\frac{\\pi }{2}}^\\pi {\\cos xdx} \\)\\( = \\left. {\\sin x} \\right|_0^{\\frac{\\pi }{2}} - \\left. {\\sin x} \\right|_{\\frac{\\pi }{2}}^\\pi \\)\\( = 1 + 1 = 2\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Tính diện tích S của hình phẳng (phần gạch sọc) trong hình sau",
+      "options": [
+        "A. \\(S = \\frac{{16}}{3}\\) .",
+        "B. \\(S = \\frac{{10}}{3}\\) .",
+        "C. \\(S = \\frac{{11}}{3}\\) .",
+        "D. \\(S = \\frac{7}{3}\\) ."
+      ],
+      "answer": "A",
+      "note": "Chọn A Diện tích cần tìm là \\(S = \\int\\limits_0^4 {\\left| {\\sqrt x - \\left( {x - 2} \\right)} \\right|dx} \\)\\( = \\int\\limits_0^4 {\\left( {\\sqrt x - \\left( {x - 2} \\right)} \\right)dx} \\)\\( = \\left. {\\left( {\\frac{2}{3}{x^{\\frac{3}{2}}} - \\frac{{{x^2}}}{2} + 2x} \\right)} \\right|_0^4 = \\frac{{16}}{3}\\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho đồ thị của hàm số \\(y = f\\left( x \\right)\\) như hình vẽ Biết \\(\\int\\limits_{ - 2}^1 {f\\left( x \\right)dx} = a,\\int\\limits_1^2 {f\\left( x \\right)dx} = b\\) . Tính diện tích S của phần hình phẳng được gạch chéo.",
+      "options": [
+        "A. \\(S = - a - b\\) .",
+        "B. \\(S = a + b\\) .",
+        "C. \\(S = b - a\\) .",
+        "D. \\(S = a - b\\) ."
+      ],
+      "answer": "C",
+      "note": "Chọn C Diện tích cần tìm là \\(S = \\int\\limits_{ - 2}^2 {\\left| {f\\left( x \\right)} \\right|dx} = \\int\\limits_{ - 2}^1 {\\left| {f\\left( x \\right)} \\right|dx} + \\int\\limits_1^2 {\\left| {f\\left( x \\right)} \\right|dx} \\)\\( = - \\int\\limits_{ - 2}^1 {f\\left( x \\right)dx} + \\int\\limits_1^2 {f\\left( x \\right)dx} \\)\\( = - a + b\\)."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Thể tích khối tròn xoay sinh ra khi cho hình phẳng (H) giới hạn bởi các đường \\(y = x\\sqrt x \\) ; y = 0; x = 0; x = 1 xoay quanh trục Ox là",
+      "options": [
+        "A. \\(S = \\frac{1}{4}\\) .",
+        "B. \\(S = \\frac{\\pi }{4}\\) .",
+        "C. \\(S = \\frac{{2\\pi }}{5}\\) .",
+        "D. \\(S = \\frac{\\pi }{2}\\) ."
+      ],
+      "answer": "B",
+      "note": "Chọn B Thể tích cần tìm là \\(V = \\pi \\int\\limits_0^1 {{{\\left( {x\\sqrt x } \\right)}^2}dx} = \\pi \\int\\limits_0^1 {{x^3}dx} = \\left. {\\pi \\frac{{{x^4}}}{4}} \\right|_0^1 = \\frac{\\pi }{4}\\)."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho hình phẳng (H) giới hạn bởi đồ thị hàm số \\(y = - {x^2} + 3x - 2\\) , trục hoành và hai đường thẳng \\(x = 1,x = 2\\) . Quay (H) quanh trục hoành được khối tròn xoay có thể tích là",
+      "options": [
+        "A. \\(V = \\int\\limits_1^2 {\\left| {{x^2} - 3x + 2} \\right|dx} \\) .",
+        "B. \\(V = \\int\\limits_1^2 {{{\\left| {{x^2} - 3x + 2} \\right|}^2}dx} \\) .",
+        "C. \\(V = \\pi \\int\\limits_1^2 {{{\\left( {{x^2} - 3x + 2} \\right)}^2}dx} \\) .",
+        "D. \\(V = \\pi \\int\\limits_1^2 {\\left| {{x^2} - 3x + 2} \\right|dx} \\) ."
+      ],
+      "answer": "C",
+      "note": "Chọn C Thể tích cần tìm là\\(V = \\pi \\int\\limits_1^2 {{{\\left( {{x^2} - 3x + 2} \\right)}^2}dx} \\)."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-toan-10-canh-dieu-hoan-vi-chinh-hop-co-dap-a",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-toan-10-canh-dieu-h",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Toán 10 Cánh Diều Hoán vị, chỉnh hợp có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Số cách chọn một ban chấp hành gồm một trưởng ban, một phó ban, một thư kí và một thủ quỹ được chọn từ 16 thành viên là:",
+      "options": [
+        "A. 4;",
+        "B. \\(\\frac{{16!}}{4}\\) ;",
+        "C. \\(\\frac{{16!}}{{12!.4!}}\\) ;",
+        "D. \\(\\frac{{16!}}{{12!}}\\) ."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải Đáp án đúng là: D Mỗi cách chọn 4 trong 16 thành viên để bầu ban chấp hành (có phân biệt thứ tự) là một chỉnh hợp chập 4 của 16 phần tử \\(A_{16}^4 = \\frac{{16!}}{{\\left( {16 - 4} \\right)!}} = \\frac{{16!}}{{12!}}\\) ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Có bao nhiêu cách xếp 6 người thành một hàng dọc",
+      "options": [
+        "A. 720;",
+        "B. 6;",
+        "C. 120;",
+        "D. 480."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A Mỗi cách xếp 6 người thành một hàng dọc là một hoán vị của 6 người đó. Vậy số cách xếp 6 người thành một hàng dọc là: 6! = 720"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Xếp 6 người A, B, C, D, E, F thành một hàng dọc. Hỏi có bao nhiêu cách sắp xếp nếu A đứng đầu hàng",
+      "options": [
+        "A. 120;",
+        "B. 48;",
+        "C. 720;",
+        "D. 240."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A Vì A đứng đầu hàng nên A có 1 cách xếp Xếp 5 người còn lại vào 5 vị trí có 5! = 120 cách xếp. Vậy có 1.120 = 120 cách xếp"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Xếp ngẫu nhiên 3 bạn nam và 4 bạn nữ ngồi vào bảy ghế kê theo hàng ngang. Hỏi có bao nhiêu cách xếp sao cho 3 bạn nam ngồi cạnh nhau?",
+      "options": [
+        "A. 720;",
+        "B. 1440;",
+        "C. 288;",
+        "D. 240."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải Đáp án đúng là: B Vì xếp 3 bạn nam luôn ngồi cạnh nhau nên ta coi 3 bạn nam là một vị trí xếp. Vậy ta còn 5 vị trí để xếp. Mỗi cách xếp 5 vị trí này là một hoán vị của 5 phần tử. Vậy số cách xếp 5 vị trí là: 5! = 120 (cách) Ngoài 5 vị trí xếp trên trong nhóm 3 bạn nam ta cũng xếp 3 bạn vào 3 vị trí số cách xếp này là 3! = 12 (cách) Áp dụng quy tắc nhân ta có số cách xếp 3 bạn nam và 4 bạn nữ ngồi thành một hàng ngang thoả mãn 3 bạn nam ngồi cạnh nhau là: 12.120 = 1440 (cách)"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Trong một buổi hoà nhạc, có các ban nhạc của các trường đại học từ Huế, Đà Nằng, Quy Nhơn, Nha Trang, Đà Lạt tham dự. Tìm số cách xếp đặt thứ tự để các ban nhạc Nha Trang sẽ biểu diễn đầu tiên.",
+      "options": [
+        "A. 4;",
+        "B. 20;",
+        "C. 24;",
+        "D. 120."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là: C Vì có 5 ban nhạc tham gia biểu diễn mà ban nhạc Nha Trang biểu diễn đầu tiên nên ta sắp xếp thứ tự biểu diễn của 4 ban nhạc còn lại có 4! = 24 cách."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Giá trị của x thoả mãn phương trình \\[A_x^{10} + A_x^9 = 9A_x^8\\] là:",
+      "options": [
+        "A. x = 10;",
+        "B. x = 9;",
+        "C. x = 11;",
+        "D. x = 12."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải Đáp án đúng là: B Điều kiện: x ≥ 10; x \\( \\in \\) ℕ Ta có \\[A_x^{10} + A_x^9 = 9A_x^8 \\Leftrightarrow \\frac{{x!}}{{\\left( {x - 10} \\right)!}} + \\frac{{x!}}{{\\left( {x - 9} \\right)!}} = 9.\\frac{{x!}}{{\\left( {x - 8} \\right)!}}\\] \\[ \\Leftrightarrow \\frac{{x!}}{{\\left( {x - 8} \\right)!}}\\left( {\\frac{1}{{\\left( {x - 10} \\right)(x - 9)}} + \\frac{1}{{x - 9}}} \\right) = 9.\\frac{{x!}}{{\\left( {x - 8} \\right)!}}\\] \\( \\Leftrightarrow \\left[ \\begin{array}{l}\\frac{1}{{\\left( {x - 10} \\right)(x - 9)}} + \\frac{1}{{x - 9}} = 9\\\\\\frac{{x!}}{{\\left( {x - 8} \\right)!}} = 0\\end{array} \\right. \\Leftrightarrow 9{x^2} - 172x + 821 = 0 \\Leftrightarrow \\left[ \\begin{array}{l}x = \\frac{{91}}{9}\\\\x = 9\\end{array} \\right.\\) TH1. \\(\\frac{1}{{\\left( {x - 10} \\right)(x - 9)}} + \\frac{1}{{x - 9}} = 9 \\Leftrightarrow 9{x^2} - 172x + 821 = 0 \\Leftrightarrow \\left[ \\begin{array}{l}x = \\frac{{91}}{9}\\\\x = 9\\end{array} \\right.\\) Kết hợp với điều kiện ta được x = 9 thoả mãn. TH2. \\(\\frac{{x!}}{{\\left( {x - 8} \\right)!}} = 0\\) Vì x ≥ 10 nên \\(\\frac{{x!}}{{\\left( {x - 8} \\right)!}} \\ne 0\\). Vậy x = 9."
+    }
+  ]
+}

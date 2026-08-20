@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-trac-nghiem-doan-mach-noi-tiep-song-song-co-dap-an",
+  "sourceId": "vietjack:1-trac-nghiem-doan-mach-noi-tiep-song-so",
+  "grade": "l9",
+  "subjectSlug": "sinh",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.Trắc nghiệm Đoạn mạch nối tiếp, song song (có đáp án)",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho đoạn mạch gồm điện trở R 1 mắc nối tiếp với điện trở R 2 mắc vào mạch điện. Gọi I, I 1 , I 2 lần lượt là cường độ dòng điện của toàn mạch, cường độ dòng điện qua R 1 , R 2 . Biểu thức nào sau đây đúng?",
+      "options": [
+        "A. I = I 1 = I 2 .",
+        "B. I = I 1 + I 2 .",
+        "C. I ≠ I 2 = I 2 .",
+        "D. I 1 ≠ I 2 ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có, trong đoạn mạch mắc nối tiếp thì: Cường độ dòng điện có giá trị như nhau tại mọi điểm: I = I 1 = I 2 = … = I n"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Phát biểu nào dưới đây không đúng đối với đoạn mạch gồm các điện trở mắc nối tiếp?",
+      "options": [
+        "A. Cường độ dòng điện là như nhau tại mọi vị trí của đoạn mạch.",
+        "B. Hiệu điện thế giữa hai đầu đoạn mạch bằng tổng các hiệu điện thế giữa hai đầu mỗi điện trở mắc trong đoạn mạch.",
+        "C. Hiệu điện thế giữa hai đầu đoạn mạch bằng hiệu điện thế giữa hai đầu mỗi điện trở mắc trong đoạn mạch.",
+        "D. Hiệu điện thế giữa hai đầu mỗi điện trở mắc trong đoạn mạch tỉ lệ thuận với điện trở đó."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C A, B, D - đúng C - sai vì: Hiệu điện thế giữa hai đầu đoạn mạch bằng tổng hiệu điện thế giữa hai đầu mỗi điện trở thành phần: U = U 1 + U 2 + … + U n"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho mạch điện gồm R 1 = 10Ω ; R 2 = 15Ω được mắc nối tiếp vào nguồn điện có hiệu điện thế 9V. Tính điện trở tương đương của mạch điện.",
+      "options": [
+        "A. 6Ω.",
+        "B. 25Ω.",
+        "C. 10Ω.",
+        "D. 15Ω."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có: R = R 1 + R 2 = 10 + 15 = 25Ω"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Phát biểu nào dưới đây không đúng đối với đoạn mạch gồm các điện trở mắc song song?",
+      "options": [
+        "A. Cường độ dòng điện trong mạch chính bằng tổng cường độ dòng điện trong các mạch rẽ.",
+        "B. Hiệu điện thế giữa hai đầu đoạn mạch bằng tổng các hiệu điện thế giữa hai đầu mỗi điện trở mắc trong đoạn mạch.",
+        "C. Hiệu điện thế giữa hai đầu đoạn mạch bằng hiệu điện thế giữa hai đầu mỗi điện trở mắc trong đoạn mạch.",
+        "D. Hiệu điện thế giữa hai đầu mỗi điện trở mắc trong đoạn mạch tỉ lệ thuận với điện trở đó."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: B A, C, D - đúng B - sai vì: Hiệu điện thế hai đầu đoạn mạch song song bằng hiệu điện thế hai đầu mỗi đoạn mạch rẽ: U = U 1 = U 2 = … = U n"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Biểu thức nào sau đây xác định điện trở tương đương của đoạn mạch có hai điện trở R 1 , R 2 mắc song song?",
+      "options": [
+        "A. 1 R t đ = 1 R 1 + 1 R 2 .",
+        "B. R t đ = R 1 R 2 R 1 - R 2 .",
+        "C. R tđ = R 1 + R 2 .",
+        "D. R tđ = R 1 - R 2 ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có: Nghịch đảo điện trở tương đương của đoạn mạch song song bằng tổng các nghịch đảo điện trở các đoạn mạch rẽ: 1 R t đ = 1 R 1 + 1 R 2"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Muốn đo cường độ dòng điện chạy qua vật dẫn cần các dụng cụ gì và mắc dụng cụ đó với vật cần đo là:",
+      "options": [
+        "A. Điện kế mắc song song với vật cần đo.",
+        "B. Vôn kế mắc nối tiếp với vật cần đo.",
+        "C. Ampe kế mắc nối tiếp với vật cần đo.",
+        "D. Ampe kế mắc song song với vật cần đo."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Muốn đo cường độ dòng điện chạy qua vật dẫn cần ampe kế và mắc nối tiếp với vật cần đo."
+    }
+  ]
+}

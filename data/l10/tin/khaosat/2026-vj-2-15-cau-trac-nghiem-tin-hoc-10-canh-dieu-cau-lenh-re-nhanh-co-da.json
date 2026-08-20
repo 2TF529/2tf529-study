@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-15-cau-trac-nghiem-tin-hoc-10-canh-dieu-cau-lenh-re-nhanh-co-da",
+  "sourceId": "vietjack:2-15-cau-trac-nghiem-tin-hoc-10-canh-die",
+  "grade": "l10",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.15 câu Trắc nghiệm Tin học 10 Cánh diều Câu lệnh rẽ nhánh có đáp án (Phần 2)",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho biểu thức logic x and y. Biểu thức nhận giá trị True khi nào?",
+      "options": [
+        "A. Cả x và y đều nhận giá trị True.",
+        "B. x nhận giá trị True, y nhận giá trị False.",
+        "C. x nhận giá trị False, y nhận giá trị True.",
+        "D. Cả x và y đều nhận giá trị False."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Phép and cho kết quả là True khi cả x và y đều nhận giá trị True."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cấu trúc rẽ nhánh dạng đầy đủ là:",
+      "options": [
+        "A. if &lt;điều kiện&gt;: câu lệnh hay nhóm câu lệnh",
+        "B. if &lt;điều kiện&gt;: Câu lệnh hay nhóm câu lệnh 1 else: Câu lệnh hay nhóm câu lệnh 2",
+        "C. if &lt;điều kiện&gt;: Câu lệnh hay nhóm câu lệnh 1 else Câu lệnh hay nhóm câu lệnh 2",
+        "D. if &lt;điều kiện&gt; Câu lệnh hay nhóm câu lệnh"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Cấu trúc câu lệnh rẽ nhánh dạng đầy đủ là: if &lt;điều kiện&gt;: Câu lệnh hay nhóm câu lệnh 1 else: Câu lệnh hay nhóm câu lệnh 2"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Với cấu trúc rẽ nhánh if – else, câu lệnh hoặc nhóm câu lệnh 2 được thực hiện khi:",
+      "options": [
+        "A. biểu thức điều kiện đúng và câu lệnh hoặc nhóm câu lệnh 1 thực hiện xong;",
+        "B. câu lệnh hoặc nhóm câu lệnh 1 được thực hiện;",
+        "C. biểu thức điều kiện sai;",
+        "D. biểu thức điều kiện đúng;"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Khi biểu thức điều kiện sai, câu lệnh hoặc nhóm câu lệnh sau if sẽ không được thực hiện mà chuyển sang thực hiện câu lệnh hoặc nhóm câu lệnh sau else."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Chọn đáp án SAI.",
+      "options": [
+        "A. Điều kiện trong câu lệnh rẽ nhánh nhận giá trị logic.",
+        "B. Câu lệnh hay nhóm câu lệnh trong câu lệnh if luôn luôn được thực hiện.",
+        "C. Trong một khối lệnh các câu lệnh phải được viết thẳng hàng với nhau.",
+        "D. Trong câu lệnh if – else, câu lệnh hoặc nhóm câu lệnh 1 được thực hiện khi điều kiện nhận giá trị đúng."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Câu lệnh hay nhóm câu lệnh trong câu lệnh if có thể không được thực hiện khi điều kiện sai."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho x = 5, y = 10. Hãy cho biết biểu thức logic nào nhận giá trị True?",
+      "options": [
+        "A. 4*x=2*y",
+        "B. (x%5==0) and (y%2==0)",
+        "C. (x>2*y) or (x+y >20)",
+        "D. x+10 >= y+7"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B x % 5 == 0 trả về giá trị True y % 2 == 0 trả về giá trị True Vậy phép and của 2 giá trị True là True"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Để kiểm tra số nguyên n là số chẵn hay lẻ ta sử dụng điều kiện nào?",
+      "options": [
+        "A. n//2=0",
+        "B. n%2=0",
+        "C. n//2==0",
+        "D. n%2==0"
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D % là phép chia lấy phần dư. Vậy n % 2 == 0 là True thì n là số chẵn."
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "id": "2026-sg-de-thi-thu-toan-tot-nghiep-thpt-2026-truong-chuyen-dh-khtn-ha-noi",
+  "sourceId": "sieugioi:de-thi-thu-toan-tot-nghiep-thpt-2026-tru",
+  "grade": "l12",
+  "subjectSlug": "li",
+  "examType": "totnghiep",
+  "year": 2026,
+  "title": "Đề thi thử Toán tốt nghiệp THPT 2026 trường CHUYÊN ĐH KHTN HÀ NỘI lần 1 [Lời Giải]",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "content": "Câu 1: Một công ty sau khi ra mắt sản phẩm mới đã ghi nhận lợi nhuận \\(P\\left( t \\right)\\) sau \\({t}\\) tháng kinh doanh. Trong năm đầu tiên, giả sử mối liên hệ giữa lợi nhuận và thời gian kinh doanh được mô hình hóa bởi hàm số: \\(P\\left( t \\right)=-{{t}^{3}}+12{{t}^{2}}+60t-50,0\\le t\\le 12\\).",
+      "statements": [
+        "a) Lợi nhuận của công ty tại thời điểm \\({t=2}\\) là 110 tỷ đồng.",
+        "b) Hàm số biểu thị tốc độ tăng trưởng lợi nhuận \\(P\\prime \\left( t \\right)=-3{{t}^{2}}+24t+10\\).",
+        "c) Lợi nhuận của công ty đạt mức tối đa tại thời điểm \\({t = 10}\\).",
+        "d) Tại thời điểm \\({t = 4}\\) thì tốc độ tăng trưởng lợi nhuận là lớn nhất.\nLời Giải"
+      ],
+      "answer": [
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "content": "Câu 2: Cho hàm số \\(f\\left( x \\right)={{\\log }_{2}}\\left( {{x}^{2}}-4x+8 \\right)\\).",
+      "statements": [
+        "a) Tập xác định của hàm số \\(f\\left( x \\right)\\) là \\({D = \\mathbb{R}}\\).",
+        "b) Đạo hàm \\(f\\prime \\left( x \\right)=\\frac{2x-4}{{{x}^{2}}-4x+8}\\).",
+        "c) Giá trị nhỏ nhất của hàm số \\(f\\left( x \\right)\\) trên \\({\\mathbb{R}}\\) bằng 1.",
+        "d) Phương trình \\(f\\left( x \\right)=2025\\) có đúng hai nghiệm.\nLời giải"
+      ],
+      "answer": [
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "content": "Câu 3: Cho hàm số \\(y=\\frac{2{{x}^{2}}-x+2}{x-1}\\) có đồ thị \\((C)\\):",
+      "statements": [
+        "a) Tập xác định của hàm số đã cho là \\(D=\\left( 1;\\,+\\infty \\right)\\).",
+        "b) Hàm số đã cho có đúng hai điểm cực trị.",
+        "c) Đồ thị hàm số \\(\\left( C \\right)\\) có tiệm cận xiên là \\(y=2x+1\\).",
+        "d) Xét điểm \\(A\\) thuộc \\(\\left( C \\right)\\), tổng khoảng cách từ \\(A\\) đến hai đường tiệm cận của \\(\\left( C \\right)\\) luôn lớn hơn \\(2,3\\).\nLời giải",
+        "a) Sai.\nĐiều kiện xác định của hàm số là \\(x-1\\ne 0\\Leftrightarrow x\\ne 1\\).\n\\(\\Rightarrow \\)Tập xác định của hàm số đã cho là \\(D=\\mathbb{R}\\backslash \\left\\{ 1 \\right\\}\\).",
+        "b) Đúng.\nTa có \\({y}’=\\frac{{{x}^{2}}-2x-1}{{{\\left( x-1 \\right)}^{2}}}\\)\n\\({y}’=0\\Leftrightarrow x=1\\pm \\sqrt{2}\\,\\left( \\ne 1 \\right)\\) . Vậy hàm số đã cho có đúng hai điểm cực trị.",
+        "c) Đúng.\nTa có \\(y=\\frac{2{{x}^{2}}-x+2}{x-1}=2x+1+\\frac{3}{x-1}\\)\n\\(\\underset{x\\to \\pm \\infty }{\\mathop{\\lim }}\\,\\left[ f\\left( x \\right)-\\left( 2x+1 \\right) \\right]=\\underset{x\\to \\pm \\infty }{\\mathop{\\lim }}\\,\\frac{3}{x-1}=0\\Rightarrow \\)Đồ thị hàm số \\(\\left( C \\right)\\) có tiệm cận xiên là \\(y=2x+1\\).",
+        "d) Đúng.\nVì \\(A\\in \\left( C \\right)\\Rightarrow A\\left( a;\\,2a+1+\\frac{3}{a-1} \\right)\\,\\,\\,\\,\\,\\,\\left( a\\ne 1 \\right)\\) .\nĐồ thị \\(\\left( C \\right)\\) có tiệm cận xiên là \\(y=2x+1\\) và tiệm cận đứng là \\(x=1\\).\nSuy ra tổng khoảng cách từ \\(A\\) đến hai đường tiệm cận của \\(\\left( C \\right)\\) là \\(\\left| a-1 \\right|+\\frac{3}{\\left| a-1 \\right|}\\ge 2\\sqrt{3}\\approx 3,46\\)\nDấu “=” xảy ra khi và chỉ khi \\(\\left| {a – 1} \\right| = \\frac{3}{{\\left| {a – 1} \\right|}}\\) \\( \\Leftrightarrow \\left| {a – 1} \\right| = \\sqrt 3 \\) \\( \\Leftrightarrow \\left[ \\begin{array}{l} a = 1 + \\sqrt 3 \\\\ a = 1 – \\sqrt 3 \\end{array} \\right.\\) ."
+      ],
+      "answer": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "content": "Câu 4: Chọn hệ trục tọa độ \\(Oxyz\\). Một trạm phát sóng được đặt tại vị trí \\(A\\left( 0;\\,1;3 \\right)\\) và có vùng phủ sóng là hình cầu bán kính bằng \\(5\\,km\\). Một con đường thẳng được mô hình hóa bởi đường thẳng \\(d:\\,\\frac{x-1}{1}=\\frac{y}{-1}=\\frac{z}{2}\\) .",
+      "statements": [
+        "a) Véc tơ \\(\\overrightarrow{u}=\\left( 1;1;2 \\right)\\) là véc tơ chỉ phương của đường thẳng \\(d\\) .",
+        "b) Mặt cầu tâm \\(A\\left( 0;\\,1;3 \\right)\\), bán kính \\(R=5\\) có phương trình là \\({{x}^{2}}+{{\\left( y-1 \\right)}^{2}}+{{\\left( z-3 \\right)}^{2}}=25\\).",
+        "c) Gọi \\(H\\) là hình chiếu vuông góc của \\(A\\) trên \\(d\\) . Điểm \\(H\\) có hoành độ bằng \\(-\\frac{2}{3}\\).",
+        "d) Đoạn đường nằm trong vùng phủ sóng dài \\(8,16\\,km\\) .\nLời giải",
+        "a) Sai.\nĐường thẳng \\(d\\) có véc tơ chỉ phương là \\(\\overrightarrow{a}=\\left( 1;-1;\\,2 \\right)\\).",
+        "b) Đúng\nMặt cầu tâm \\(A\\left( 0;\\,1;3 \\right)\\), bán kính \\(R=5\\) có phương trình là \\({{x}^{2}}+{{\\left( y-1 \\right)}^{2}}+{{\\left( z-3 \\right)}^{2}}=25\\).",
+        "c) Sai\nTa có \\(d:\\,\\frac{x-1}{1}=\\frac{y}{-1}=\\frac{z}{2}\\)\\(\\Rightarrow d:\\,\\left\\{ \\begin{align} & x=1+t \\\\ & y=-t \\\\ & z=2t \\\\ \\end{align} \\right.\\)\nVì \\(H \\in d \\Rightarrow H\\left( {1 + t;\\, – t;\\,2t} \\right)\\) \\( \\Rightarrow \\overrightarrow {AH} = \\left( {1 + t;\\, – t – 1;\\,2t – 3} \\right)\\).\nMà \\(AH \\bot d\\) \\( \\Rightarrow \\overrightarrow {AH} .\\overrightarrow a = 0\\) \\( \\Leftrightarrow 1 + t + t + 1 + 4t – 6 = 0\\) \\( \\Leftrightarrow t = \\frac{2}{3}\\) \\(\\Rightarrow {{x}_{H}}=\\frac{5}{3}\\)",
+        "d) Sai\nGiả sử \\(d\\) cắt mặt cầu \\(\\left( S \\right)\\):\\({{x}^{2}}+{{\\left( y-1 \\right)}^{2}}+{{\\left( z-3 \\right)}^{2}}=25\\) tại hai điểm \\(B,C\\)\nVì \\(B\\in d\\Rightarrow B\\left( 1+t;\\,-t;\\,2t \\right)\\)\nMà \\(B\\in \\left( S \\right)\\Rightarrow \\) \\({\\left( {1 + t} \\right)^2} + {\\left( { – t – 1} \\right)^2} + {\\left( {2t – 3} \\right)^2} = 25\\) \\( \\Leftrightarrow 6{t^2} – 8t – 14 = 0\\) \\( \\Leftrightarrow \\left[ \\begin{array}{l} t = – 1\\\\ t = \\frac{7}{3} \\end{array} \\right.\\)\n\\( \\Rightarrow B\\left( {0;\\,1;2} \\right);C\\left( {\\frac{{10}}{3};\\, – \\frac{7}{3};\\,\\frac{{14}}{3}} \\right)\\) \\( \\Rightarrow BC = \\sqrt {\\frac{{100}}{9} + \\frac{{100}}{9} + \\frac{{64}}{9}} = \\sqrt {\\frac{{88}}{3}} \\approx 5,42\\).\nSuy ra đoạn đường nằm trong vùng phủ sóng dài \\(5,42\\,km\\).\nPHẦN III. Câu trắc nghiệm trả lời ngắn.\nThí sinh trả lời từ câu 1 đến câu 6."
+      ],
+      "answer": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 5,
+      "type": "short_answer",
+      "content": "Câu 5: Một công ty thực phẩm muốn tạo ra một loại thức ăn hỗn hợp cho vật nuôi từ hai nguyên liệu chính là ngô và đậu nành. Biết rằng \\(1\\) kg ngô có \\(0,1\\) kg protein và 0,6 kg carbohydrate, 1 kg đậu nành có 0,4 kg protein và 0,3 kg carbohydrate. Công ty cần sản xuất một bao thức ăn hỗn hợp sao cho tổng khối lượng ngô và đậu lành không vượt quá 100 kg và phải đảm bảo chứa ít nhất 20 kg protein và ít nhất \\(46,5\\)kg carbohydrate. Giá thành mỗi kg ngô là 5 nghìn đồng và mỗi kg đậu nành là 9 nghìn đồng. Hỏi chi phí sản xuất một bao thức ăn của công ty thấp nhất là bao nhiêu nghìn đồng?\nLời giải\nĐáp số: 615\nGọi x là khối lượng ngô và y là khối lượng đậu nành cần dùng.\nTìm \\(x,y\\) thỏa mãn hệ bất phương trình \\(\\left\\{ \\begin{array}{l} x \\ge 0\\\\ y \\ge 0\\\\ x + y \\le 100\\\\ 0,1x + 0,4y \\ge 20\\\\ 0,6x + 0,3y \\ge 46,5 \\end{array} \\right.\\) sao cho \\(T=5x+9y\\) nhỏ nhất.\nVẽ hệ trục tọa độ hoặc giải hệ phương trình ta tìm được tọa độ các điểm\n\\(A\\left( \\frac{200}{3};\\frac{100}{3} \\right)\\); \\(B\\left( 60;35 \\right)\\); \\(C\\left( 55;45 \\right)\\);\nTa có:\n• \\(A\\left( \\frac{200}{3};\\frac{100}{3} \\right):F(x;y)=5\\left( \\frac{200}{3} \\right)\\text{ }+\\text{ }9\\left( \\frac{100}{3} \\right)\\text{ }=\\text{ }633,3.\\)\n• \\(B\\left( 60;35 \\right):F(x;y)=5\\left( 60 \\right)+9\\left( 35 \\right)=615\\)\n\\(C\\left( 55;45 \\right):F(x;y)=5\\left( 55 \\right)\\text{ }+\\text{ }9\\left( 45 \\right)\\text{ }=\\text{ }680\\)\nVậy Chi phí thấp nhất là \\(615\\)",
+      "answer": "0",
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 6,
+      "type": "short_answer",
+      "content": "Câu 6: Cường độ một trận động đất M độ Richter được cho bởi công thức \\(M\\text{ }=\\text{ }log\\text{ }A\\text{ }-\\text{ }log\\text{ }{{A}_{0}}\\) với \\(A\\) là biên độ rung chấn tối đa và \\({{A}_{0}}\\) là một biên độ chuẩn . Ngày 11/3/2011 một trận siêu động đất xảy ra tại vùng Tohoku, Nhật Bản có cường độ \\(9,1\\)độ Richter. Trước đó, vào ngày 21/5/2003 trận động đất khác ở phía Bắc Algeria có cường độ \\(6,\\text{ }8\\) độ Richter. Hỏi biên độ rung chấn tối đa của trận động đất ở vùng Tohoku, Nhật Bản gấp bao nhiêu lần biên độ rung chấn tối đa của trận động đất ở phía Bắc Algeria? .\nLời giải\nĐáp số: 200\nNhật Bản: \\(9,1\\text{ }=\\text{ }log\\text{ }{{A}_{1}}\\text{ }-\\text{ }log\\text{ }{{A}_{0}}\\Leftrightarrow \\frac{\\text{ }{{A}_{1}}}{\\text{ }{{A}_{0}}}={{10}^{9,1}}\\) \\(\\Leftrightarrow \\text{ }{{A}_{0}}=\\frac{\\text{ }{{A}_{1}}}{{{10}^{9,1}}}\\)\nAlgeria: \\(6,8\\text{ }=\\text{ }log\\text{ }{{A}_{2}}\\text{ }-\\text{ }log\\text{ }{{A}_{0}}\\Leftrightarrow \\frac{\\text{ }{{A}_{2}}}{\\text{ }{{A}_{0}}}={{10}^{6,8}}\\Leftrightarrow \\text{ }{{A}_{0}}=\\frac{\\text{ }{{A}_{2}}}{{{10}^{6,8}}}\\)\n\\(\\frac{\\text{ }{{A}_{1}}}{{{10}^{9,1}}}=\\frac{\\text{ }{{A}_{2}}}{{{10}^{6,8}}}\\Leftrightarrow \\frac{\\text{ }{{A}_{1}}}{{{A}_{2}}}=\\frac{\\text{ }{{10}^{9,1}}}{{{10}^{6,8}}}={{10}^{2,3}}\\approx 200\\) lần.",
+      "answer": "0",
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 7,
+      "type": "short_answer",
+      "content": "Câu 7: Một nhà máy sản suất và bán \\(x\\) sản phẩm trong mỗi tháng. Chi phí sản xuất \\(x\\) sản phẩm được cho bởi công thức \\(C=10000+600x-0,6{{x}^{2}}+0,004{{x}^{3}}\\). Biết giá bán của mỗi sản phẩm là \\(p=1800-6x\\). Hỏi mỗi tháng nhà máy nên sản xuất bao nhiêu sản phẩm để lợi nhuận thu được là lớn nhất?\nLời giải\nĐáp số: 100\nLợi nhuận của nhà máy sản xuất là:\n\\(L\\left( x \\right)=\\left( 1800-6x \\right)x-\\left( 10000+600x-0,6{{x}^{2}}+0,004{{x}^{3}} \\right)\\)\n\\(=-0,004{{x}^{3}}-5,4{{x}^{2}}+1200x-10000\\)\n\\({L}’\\left( x \\right)=-0,012{{x}^{2}}-10,8x+1200\\); \\({L}’\\left( x \\right)=0\\Leftrightarrow \\left[ \\begin{align} & x=100 \\\\ & x=-1000\\left( l \\right) \\\\ \\end{align} \\right.\\)\nMỗi tháng nhà máy nên sản xuất \\(100\\) sản phẩm.",
+      "answer": "0",
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 8,
+      "type": "short_answer",
+      "content": "Câu 8: Trong không gian \\(Oxyz\\), cho điểm \\(A\\left( 1;1;-1 \\right)\\) và đường thẳng \\(d:\\frac{x-4}{2}=\\frac{y-4}{2}=\\frac{z-2}{-1}\\). Gọi \\(H\\left( a;b;c \\right)\\) là hình chiếu vuông góc của điểm \\(A\\) trên đường thẳng \\(d\\). Tính tổng \\(a+b+c\\).\nLời giải\nĐáp số: 7\nĐường thẳng \\(d\\): \\(\\left\\{ \\begin{align} & x=4+2t \\\\ & y=4+2t \\\\ & z=2-t \\\\ \\end{align} \\right.\\) có VTCP là \\(\\overrightarrow{u}=\\left( 2;2;-1 \\right)\\)\nGọi \\(H\\in d\\) nên có tọa độ \\(H\\left( 4+2t;4+2t;2-t \\right)\\). Khi đó \\(\\overrightarrow{AH}=\\left( 3+2t;3+2t;3-t \\right)\\)\nDo \\(H\\) là hình chiếu của \\(A\\) lên \\(d\\) nên ta có: \\(\\overrightarrow{AH}.\\overrightarrow{u}=0\\[\\Leftrightarrow 2\\left( 3+2t \\right)+2\\left( 3+2t \\right)-1\\left( 3-t \\right)=0\\)\n\\(\\Leftrightarrow t=-1\\]\\Rightarrow H\\left( 2;2;3 \\right)\\)\nVậy \\(a+b+c=7\\).",
+      "answer": "0",
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 9,
+      "type": "short_answer",
+      "content": "Câu 9: Sau khi một bệnh nhân uống một liều thuốc, nồng độ của thuốc trong máu người đó được mô hình hóa bởi hàm số \\(C\\left( t \\right)=\\frac{120t}{{{t}^{2}}+36}\\) , trong đó \\(t\\) là thời gian sau khi uống thuốc với \\(t\\ge 0\\). Tìm nồng độ thuốc tối đa trong máy của bệnh nhân.\nLời giải\nĐáp số: 10",
+      "answer": "0",
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 10,
+      "type": "short_answer",
+      "content": "Câu 10: Trong không gian \\(Oxyz\\), cho hai điểm \\(A\\left( 2;0;1 \\right)\\) và \\(B\\left( -1;-6;7 \\right)\\) và mặt phẳng \\(\\left( P \\right):x-y+z-3=0\\). Xét điểm \\(M\\) thuộc mặt phẳng \\(\\left( P \\right)\\), tìm giá trị nhỏ nhất của \\(2M{{A}^{2}}+M{{B}^{2}}\\).\nLời giải\nĐáp số: 63\nGọi điểm \\(I\\) thỏa mãn \\(2\\overrightarrow{IA}+\\overrightarrow{IB}=\\overrightarrow{0}\\)\n\\(\\Rightarrow I\\left( 1;-2;3 \\right)\\).\n\\(2M{{A}^{2}}+M{{B}^{2}}=2{{\\left( \\overrightarrow{MI}+\\overrightarrow{IA} \\right)}^{2}}+{{\\left( \\overrightarrow{MI}+\\overrightarrow{IB} \\right)}^{2}}\\)\\(=3M{{I}^{2}}+2\\overrightarrow{MI}\\left( 2\\overrightarrow{IA}+\\overrightarrow{IB} \\right)+2I{{A}^{2}}+I{{B}^{2}}\\)\n\\(=3M{{I}^{2}}+2I{{A}^{2}}+I{{B}^{2}}=3M{{I}^{2}}+54\\).\nĐể \\(2M{{A}^{2}}+M{{B}^{2}}\\) nhỏ nhất thì \\(M\\) là hình chiếu của \\(I\\) lên mặt phẳng \\(\\left( P \\right)\\).\n\\(\\Rightarrow I{{M}_{\\min }}=d\\left( I,\\left( P \\right) \\right)=\\frac{\\left| 1-\\left( -2 \\right)+3-3 \\right|}{\\sqrt{{{1}^{2}}+{{\\left( -1 \\right)}^{1}}+{{1}^{2}}}}=\\sqrt{3}\\).\nVậy \\(2M{{A}^{2}}+M{{B}^{2}}_{\\min }=3{{\\left( \\sqrt{3} \\right)}^{2}}+54=63\\).\nView Fullscreen\nSkip to PDF content\n⬇ Tải Đề\n⬇ Tải Lời Giải",
+      "answer": "0",
+      "note": "Đáp án đối chiếu chuẩn"
+    }
+  ]
+}

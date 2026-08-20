@@ -1,0 +1,266 @@
+{
+  "id": "l11-tin-giuaki2-2026-de-thi-giua-ki-2-tin-hoc-11-nam-2026-co-ma-tran-co-dap-an-b5823dd807-de-02",
+  "grade": "l11",
+  "subjectSlug": "tin",
+  "examType": "giuaki2",
+  "year": 2026,
+  "code": "Đề 02",
+  "title": "Đề thi Giữa kì 2 Tin học 11 năm 2026 có ma trận có đáp án - Đề 02",
+  "duration": 45,
+  "answerSource": "missing",
+  "sourceUrl": "https://www.vietjack.com/de-thi/de-thi-tin-hoc-lop-11-giua-ki-2-co-ma-tran-co-dap-an-dtvj2022t1.jsp",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 1. &lt;/strong&gt;trong câu lệnh While &lt;biểu thức điều kiện&gt; Do &lt;Câu lệnh&gt;; câu lệnh sau từ khóa Do là :",
+      "options": [
+        "A. Câu lệnh đơn và có ít nhất 1 câu lệnh làm thay đổi biểu thức điều kiện.",
+        "B. Câu lệnh ghép và có ít nhất 1 câu lệnh làm thay đổi biểu thức điều kiện.",
+        "C. Câu lệnh đơn hoặc ghép và có ít nhất 1 câu lệnh làm thay đổi biểu thức điều kiện.",
+        "D. Câu lệnh đơn hoặc ghép và có nhiều hơn 1 câu lệnh làm thay đổi biểu thức điều kiện."
+      ],
+      "answer": null
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 2. &lt;/strong&gt;Cho biết kết quả của đoạn chương trình sau &lt;em&gt;Dem:=1; While (Dem &lt; 5) Do Dem:=Dem+1; Writeln('Dem = ',Dem)&lt;/em&gt;",
+      "options": [
+        "A. Dem = 4",
+        "B. Dem = 6",
+        "C. Dem =5",
+        "D. Dem = 1"
+      ],
+      "answer": null
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 3. &lt;/strong&gt;Trong câu lệnh lặp với số lần biết trước, giá trị của biến đếm :",
+      "options": [
+        "A. có kiểu nguyên hoặc thực",
+        "B. không tự động điều chỉnh.",
+        "C. tự động điều chỉnh sau khi thực hiện câu lệnh sau từ khóa Do",
+        "D. có thể là chữ hoặc số"
+      ],
+      "answer": null
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 4. Ðoạn chương trình sau:&lt;/strong&gt;&lt;em&gt;For i:=1 to 5 do If  ((i mod 2) <> 0) then Write(i,',  ');  writeln(i);&lt;/em&gt; Cho kết quả là",
+      "options": [
+        "A. 1, 3, 5, 5",
+        "B. 2, 4",
+        "C. 1, 3",
+        "D. 1, 3, 5"
+      ],
+      "answer": null
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 5. &lt;/strong&gt;Trong câu lệnh lặp for - đo khẳng định nào sau đây là sai.",
+      "options": [
+        "A. Giá trị đầu <= giá trị cuối.",
+        "B. Biến đếm là biến đơn, thường có kiểu nguyên",
+        "C. Câu lệnh sau Do phải có câu lệnh làm thay đổi giá trị của biến đếm",
+        "D. Câu lệnh sau Do là câu lệnh đơn hoặc ghép"
+      ],
+      "answer": null
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 6. &lt;/strong&gt;Cho S là một xâu bất kỳ. Đoạn chương trình sau có chức năng gì. &lt;em&gt;For i:=1 to length(s) Do s[i]:=Upcase(s[i]);&lt;/em&gt;",
+      "options": [
+        "A. đáp án khác.",
+        "B. báo lỗi",
+        "C. không có chức năng gì",
+        "D. chuyển đổi các ký chữ cái trong xâu S thành chữ in hoa"
+      ],
+      "answer": null
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 7. &lt;/strong&gt;Trong ngôn ngữ lập trình Pascal muốn chuyển đổi xâu S từ chữ thường sang chữ in hoa ta dùng:",
+      "options": [
+        "A. Pos(S)",
+        "B. Tất cả đều sai.",
+        "C. Length(S);",
+        "D. Upcase(S);"
+      ],
+      "answer": null
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 8. &lt;/strong&gt;Trong câu lệnh For &lt;biến đếm:=giá trị đầu&gt; To &lt;giá trị cuối&gt; Do &lt;câu lệnh&gt;; thì &lt;biến đếm&gt; phải có giá trị như thế nào?",
+      "options": [
+        "A. là biến đơn, thường có kiều nguyên.",
+        "B. là biến đơn, có kiểu dữ liệu là kiểu thực.",
+        "C. có giá trị đầu lớn hơn giá trị cuối",
+        "D. là biến đơn, thường có kiểu dữ liệu là nguyên hoặc thực."
+      ],
+      "answer": null
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 9. &lt;/strong&gt;Để tìm ước số chung lớn nhất của 2 số nguyên dương a, b ta dùng cấu trúc lặp:",
+      "options": [
+        "A. Có thể dùng While - Do hoặc For - Do",
+        "B. Chỉ có thể dùng cấu trúc lặp While - Do",
+        "C. Chỉ có thể dùng cấu trúc lặp For - Do",
+        "D. Đáp án khác"
+      ],
+      "answer": null
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 10. &lt;/strong&gt;Trong ngôn ngữ lập trình Pascal, cho 2 xâu s1:= 'abd'; s2:='abcde'. khi so sánh 2 xâu đáp án nào là đúng",
+      "options": [
+        "A. đáp án khác",
+        "B. s1 = s2",
+        "C. s1 > s2",
+        "D. s2 > s1"
+      ],
+      "answer": null
+    },
+    {
+      "id": 11,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 11. &lt;/strong&gt;Cho mảng B một chiều,  đoạn chương trình sau làm gì?\n&lt;em&gt;S: = 0; For i:= 1 to N do  If ((B[i] mod 2 ) &lt; &gt; 0) and (B[i] mod 3) = 0 then S:= S + B[i]&lt;/em&gt;;",
+      "options": [
+        "A. Tính tổng các phần tử có giá trị là chẵn và bội của 3.",
+        "B. Tính tổng các phần tử có thứ tự là lẽ và chia hết cho 3.",
+        "C. Tính tổng các phần tử có giá trị là lẽ và bội của 3.",
+        "D. Tính tổng các phần tử có giá trị là lẽ là ước của 3."
+      ],
+      "answer": null
+    },
+    {
+      "id": 12,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 12. &lt;/strong&gt;Ðoạn chương trình sau cho kết quả gì? &lt;em&gt;T:=0; for i:=1 to n do if (i mod 3=0) then T:=T+i*i;&lt;/em&gt;",
+      "options": [
+        "A. Tính tổng bình phương các số là bội của 3 từ 1đến n",
+        "B. Tính tổng các số chia hết cho 3 từ 1đến n",
+        "C. Tính tổng bình phương các số lẽ trong phạm vi từ 1đến n.",
+        "D. Tính tổng bình phương các số là ước của 3 từ 1đến n"
+      ],
+      "answer": null
+    },
+    {
+      "id": 13,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 13. &lt;/strong&gt;Với i là các biến nguyên. Ðoạn chương trình sau cho kết quả nào ?&lt;em&gt;i:=1; while (i > 5) do   i := i +1; write(i,' '); &lt;/em&gt;",
+      "options": [
+        "A. 1 2 3 4 5",
+        "B. 1",
+        "C. 5",
+        "D. 2 3 4 5"
+      ],
+      "answer": null
+    },
+    {
+      "id": 14,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 14. &lt;/strong&gt;  Cho biết kết quả của đoạn chương trình sau &lt;em&gt;N:=10975; While (N >=10) Do N := N div 10; Writeln('N = ',N)&lt;/em&gt;",
+      "options": [
+        "A. N = 10",
+        "B. N = 0",
+        "C. N = 5",
+        "D. N = 1"
+      ],
+      "answer": null
+    },
+    {
+      "id": 15,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 15. &lt;/strong&gt;Trong câu lệnh lặp for - do (dạng lùi), câu lệnh còn được thực hiện (lặp) khi nào ?",
+      "options": [
+        "A. giá trị cuối > giá trị của biến đếm > giá trị đầu",
+        "B. giá trị cuối > giá trị của biến đếm = giá trị đầu",
+        "C. giá trị cuối > giá trị của biến đếm >= giá trị đầu",
+        "D. giá trị cuối >= giá trị của biến đếm >= giá trị đầu"
+      ],
+      "answer": null
+    },
+    {
+      "id": 16,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 16. &lt;/strong&gt;Cách khai báo mảng nào sau đây là đúng",
+      "options": [
+        "A. Var   D : array [ 1.2 .. 20] of integer;",
+        "B. Var   C : array [ n .. m] of real;",
+        "C. Var   A : array [ -10 .. 10] of char;",
+        "D. Var   B : array [ 100 .. 20] of byte;"
+      ],
+      "answer": null
+    },
+    {
+      "id": 17,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 17. &lt;/strong&gt;Trong cấu trúc lặp với số lần chưa biết trước khẳng định nào sau đây là đúng",
+      "options": [
+        "A. Câu lệnh sau Do phải là câu lệnh đơn",
+        "B. Câu lệnh sau Do phải có ít nhất một câu lệnh làm thay đổi biểu thức điều kiện",
+        "C. Câu lệnh sau Do phải là câu lệnh ghép",
+        "D. Câu lệnh còn được thực hiện (lặp) khi điều kiện có giá trị là sai."
+      ],
+      "answer": null
+    },
+    {
+      "id": 18,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 18. &lt;/strong&gt;Trong kiểu dữ liệu kiểu mảng, khẳng định nào sau đây là sai",
+      "options": [
+        "A. Mảng được đặt tên và mỗi phần tử của nó có một chỉ số",
+        "B. Có 2 cách để khai báo mảng một chiều.",
+        "C. Là một dãy vô hạn các phần tử cùng kiểu",
+        "D. Các phần tử trong mảng có cùng kiểu dữ liệu"
+      ],
+      "answer": null
+    },
+    {
+      "id": 19,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 19. &lt;/strong&gt;Đoạn chương trình sau thực hiện  &lt;em&gt;i:=1; S:=0;  While (i &lt; N) Do begin S:=S+i; i := i+2; end; Write('S = ',S);&lt;/em&gt;",
+      "options": [
+        "A. Tính tổng các số lẽ từ 1 đến N -1",
+        "B. Tính tổng các số chẵn từ 1 đến N",
+        "C. Tính tổng các số từ 1 đến N",
+        "D. Tính tổng các số lẽ từ 1 đến N"
+      ],
+      "answer": null
+    },
+    {
+      "id": 20,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 20. &lt;/strong&gt;Câu Lệnh While &lt;điều kiện&gt; Do &lt;Câu lệnh&gt; thực hiện như thế nào ?",
+      "options": [
+        "A. Trong khi điều kiện còn đúng thì câu lệnh sau từ khóa \"Do\" còn được thực hiện.",
+        "B. Trong khi điều kiện còn sai thì câu lệnh sau từ khóa \"Do\" còn được thực hiện.",
+        "C. Nếu điều kiện sai thì &lt;câu lệnh&gt; sau từ khóa \"Do\" được thực hiện.",
+        "D. Nếu điều kiện đúng thì &lt;câu lệnh&gt; sau từ khóa \"Do\" không được thực hiện."
+      ],
+      "answer": null
+    },
+    {
+      "id": 21,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 21. &lt;/strong&gt;Với i,j là các biến nguyên. Cho ðoạn chương trình sau&lt;strong&gt;:  &lt;/strong&gt;&lt;em&gt;For i:=1 to 3 do    For j:=i downto  1 do Write( j -1,'  ')&lt;/em&gt;; Cho kết quả là",
+      "options": [
+        "A. 0 1 1 1 1 0",
+        "B. 0 1 2 3 2 1 0",
+        "C. 0 1 0 2 1 0",
+        "D. 0 1 0 3 2 1 0"
+      ],
+      "answer": null
+    }
+  ]
+}

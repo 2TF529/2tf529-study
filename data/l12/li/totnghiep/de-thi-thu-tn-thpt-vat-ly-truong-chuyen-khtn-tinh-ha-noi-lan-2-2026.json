@@ -1,0 +1,286 @@
+{
+  "id": "l12-li-totnghiep-2026-de-thi-thu-tn-thpt-vat-ly-truong-chuyen-khtn-tinh-ha-noi-lan-2-2026",
+  "grade": "l12",
+  "subjectSlug": "li",
+  "examType": "totnghiep",
+  "year": 2026,
+  "code": "THPT_TTL_HN_2026_02",
+  "title": "Đề thi thử tốt nghiệp THPT môn Vật Lý Trường Chuyên KHTN Sở GD&ĐT Hà Nội lần 2 năm 2026",
+  "duration": 50,
+  "answerSource": "official",
+  "source": "https://dolthpt.vn/tot-nghiep-thpt/pdf-de-thi-thu-tn-thpt-vat-ly-truong-chuyen-khtn-tinh-ha-noi-lan-2-2026-co-dap-an",
+  "notes": "Nội dung, đáp án và lời giải được nhập từ bản công khai của DOL THPT.",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "content": "Đặt điện xoay chiều có biểu thức $u = 200\\sqrt{2}\\cos(100\\pi t)$ (V) vào hai đầu điện trở $R = 100\\Omega$. Nhiệt lượng tỏa ra trên điện trở sau 2 phút là",
+      "chuong": "từ trường",
+      "dang": "bài tập: máy phát điện. điện xoay chiều",
+      "type": "single",
+      "options": [
+        "A. \\$96\\text{ J}$",
+        "B. \\$96\\text{ kJ}$",
+        "C. \\$48\\text{ kJ}$",
+        "D. \\$48\\text{ J}$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Xác định biên độ (điện áp cực đại) từ biểu thức: $U_0=200\\sqrt{2}\\ \\text{V}.$\n- Tính điện áp hiệu dụng:\n$U_{\\text{rms}}=\\frac{U_0}{\\sqrt}{2}}=\\frac{200\\sqrt{2}}{\\sqrt{2}}=200\\ \\text{V}.$\n- Công suất trung bình trên điện trở:\n$P=\\frac{U_{\\text{rms}}^2}{R}=\\frac{200^2}{10}0}=400\\ \\text{W}.$\n- Nhiệt lượng tỏa ra trong $t=120\\ \\text{s}$ là:\n$Q=P\\cdot t=400\\times120=48\\,000\\ \\text{J}=48\\ \\text{kJ}.$\n✅ **Đáp án:** C. \\$48\\ \\text{kJ}$"
+    },
+    {
+      "id": 2,
+      "content": "Gọi $\\mu$ là mật độ phân tử khí, m và $\\overline{v^2}$ lần lượt là khối lượng và trung bình của bình phương tốc độ chuyển động nhiệt của các phân tử khí. Áp suất khí tác dụng lên thành bình được tính bằng biểu thức nào sau đây?",
+      "chuong": "khí lí tưởng",
+      "dang": "lý thuyết: áp suất khí theo mô hình động học phân tử. quan hệ giữa động năng phân tử và nhiệt độ",
+      "type": "single",
+      "options": [
+        "A. $p = \\frac{3}{2}\\mu m\\overline{v^{2}}$",
+        "B. $p = \\frac{1}{3}\\mu m\\overline{v^{2}}$",
+        "C. $p = \\frac{2}{3}\\mu m\\overline{v^{2}}$",
+        "D. $p = 3\\mu m\\overline{v^{2}}$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Xét một bình có diện tích mặt thành là $S$ và chiều dài theo trục $x$ là $L$, thể tích $V=SL$.\n- Với một phân tử có thành phần vận tốc theo $x$ là $v_x$, khi va chạm vào thành (theo phương $x$) độ biến thiên xung lượng là $\\Delta p = 2mv_x$ (giả sử va chạm đàn hồi).\n- Số lần phân tử đó va chạm với thành trong một giây là $\\dfrac{|v_x|}{2L}$ (đi tới rồi quay lại).\n- Do đó lực trung bình do một phân tử tạo ra lên thành là\n$F_{1} = \\Delta p \\times \\text{tần số} = 2mv_x \\cdot \\frac{|v_x|}{2}L} = \\frac{m v_x^2}{L}.$\n- Tổng lực do tất cả $N$ phân tử tạo ra:\n$F = \\frac{m}{L}\\sum_{i=1}^{N} v_{x,i}^2.$\n- Áp suất là lực trên đơn vị diện tích:\n$p=\\frac{F}{A}=\\frac{m}{A}L}\\sum_{i=1}^{N} v_{x,i}^2=\\frac{m}{V}\\sum_{i=1}^{N} v_{x,i}^2.$\n- Viết bằng mật độ phân tử $\\mu=\\dfrac{N}{V}$ và giá trị trung bình:\n$p=\\mu m\\overline{v_x^{2}}.$\n- Do chuyển động phân tử là đẳng hướng, ta có\n$\\overline{v_x^{2}}=\\frac{1}{3}\\overline{v^{2}}.$\n- Thay vào biểu thức cho $p$ được:\n$p=\\frac{1}{3}\\,\\mu m\\,\\overline{v^{2}}.$\n✅ **Đáp án:** B. p = $\\frac{1}{3}\\mu m\\overline{v^{2}}$"
+    },
+    {
+      "id": 3,
+      "content": "Trong các đại lượng sau đây đại lượng nào không phải là thông số trạng thái của một lượng khí?",
+      "chuong": "khí lí tưởng",
+      "dang": "lý thuyết: phương trình trạng thái khí lí tưởng",
+      "type": "single",
+      "options": [
+        "A. Áp suất.",
+        "B. Khối lượng.",
+        "C. Nhiệt độ tuyệt đối.",
+        "D. Thể tích."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Bước 1: Nhớ định nghĩa: *thông số trạng thái* là những đại lượng (như áp suất, thể tích, nhiệt độ, ...) cho biết trạng thái cân bằng của một lượng khí. Với một lượng khí xác định (khối lượng cố định), chỉ cần biết hai đại lượng độc lập (ví dụ P và V hoặc P và T) là xác định được trạng thái.\n- Bước 2: Viết phương trình trạng thái khí lí tưởng:\n$PV = nRT.$\nVì $n=\\frac{m}{M},$ ta có thể viết:\n$PV = \\frac{m}{M}RT.$\nPhương trình trên cho thấy P, V, T liên hệ với nhau và phụ thuộc cả vào lượng chất (qua m hay n).\n- Bước 3: Phân tích từng đại lượng: - Áp suất (P): thay đổi khi trạng thái thay đổi → là thông số trạng thái.\n  - Thể tích (V): thay đổi khi trạng thái thay đổi → là thông số trạng thái.\n  - Nhiệt độ tuyệt đối (T): trực tiếp mô tả trạng thái → là thông số trạng thái.\n  - Khối lượng (m): cho biết lượng khí có trong hệ (đại lượng mở rộng), nhưng khi nói “một lượng khí” thường hiểu là lượng đó đã cố định; khối lượng không mô tả trạng thái cân bằng thay đổi của cùng một lượng khí (nó chỉ thay đổi khi thêm bớt khí). Vì vậy trong ngữ cảnh “một lượng khí” khối lượng không được coi là thông số trạng thái dùng để mô tả trạng thái của lượng khí đó.\n- Bước 4: Kết luận: Các thông số trạng thái của một lượng khí (đã cho lượng đó cố định) là áp suất, thể tích, nhiệt độ tuyệt đối; khối lượng không phải là thông số trạng thái trong ngữ cảnh này.\n✅ **Đáp án:** B. Khối lượng."
+    },
+    {
+      "id": 4,
+      "content": "Đặc điểm và tính chất nào dưới đây không đúng về chất rắn kết tinh?",
+      "chuong": "vật lí nhiệt",
+      "dang": "lý thuyết: cấu trúc của chất. sự chuyển thể",
+      "type": "single",
+      "options": [
+        "A. Có cấu trúc tinh thể.",
+        "B. Có dạng hình học xác định.",
+        "C. Có nhiệt độ nóng chảy xác định.",
+        "D. Có nhiệt độ nóng chảy không xác định."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Chất rắn kết tinh là chất rắn có các hạt (nguyên tử, ion hoặc phân tử) sắp xếp theo một mạng tinh thể có trật tự dài hạn. Vì vậy: - Phát biểu \"Có cấu trúc tinh thể.\" là đúng.\n  - Do cấu tạo tinh thể có trật tự, nhiều tinh thể có các mặt phẳng và cạnh rõ rệt, nên chúng thường có *dạng hình học xác định* (ví dụ: muối ăn NaCl tạo khối có dạng lập phương). Vậy phát biểu \"Có dạng hình học xác định.\" là đúng.\n- Về nhiệt độ nóng chảy: một đặc trưng quan trọng của chất rắn kết tinh là có nhiệt độ nóng chảy xác định — tức là ở một nhiệt độ xác định (dưới áp suất cho trước) chất rắn chuyển sang lỏng. Ví dụ: nước đá (chất rắn kết tinh của H2O) nóng chảy ở 0°C (ở 1 atm); muối ăn NaCl nóng chảy ở một nhiệt độ xác định lớn hơn. Do đó, phát biểu \"Có nhiệt độ nóng chảy không xác định.\" là **sai** đối với chất rắn kết tinh.\n- Kết luận: phát biểu không đúng về chất rắn kết tinh là phương án nêu rằng chúng không có nhiệt độ nóng chảy xác định.\n✅ **Đáp án:** D. Có nhiệt độ nóng chảy không xác định."
+    },
+    {
+      "id": 5,
+      "content": "Một trong những thông số cần thiết để một chất được ứng dụng làm mát của động cơ nhiệt là",
+      "chuong": "vật lí nhiệt",
+      "dang": "thực tế: nhiệt dung riêng",
+      "type": "single",
+      "options": [
+        "A. có nhiệt độ nóng chảy riêng lớn.",
+        "B. có khối lượng riêng lớn.",
+        "C. có nhiệt độ nóng chảy lớn.",
+        "D. có nhiệt dung riêng lớn."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Một chất làm mát phải hấp thụ nhiều nhiệt từ động cơ mà không làm tăng nhiệt độ quá nhanh; theo công thức [Q = mc\\Delta T,] với cùng khối lượng $m$ và cùng biến thiên nhiệt độ $\\Delta T$, giá trị nhiệt lượng $Q$ tỉ lệ thuận với nhiệt dung riêng $c$.\n- Do đó, nếu muốn một khối lượng chất làm mát thu được nhiều nhiệt (tốt cho việc làm mát) thì cần chọn chất có nhiệt dung riêng lớn — nghĩa là với cùng độ tăng nhiệt, chất đó có thể hấp thụ nhiều nhiệt hơn.\n- Kiểm tra các phương án sai: - A: “có nhiệt độ nóng chảy riêng lớn.” — Cụm từ này không hợp lý; chỉ có “nhiệt độ nóng chảy” chứ không có “nóng chảy riêng”, và nhiệt độ nóng chảy cao không phải là điều kiện chung cần cho chất làm mát (thường cần chất ở dạng lỏng trong dải nhiệt độ hoạt động).\n  - B: “có khối lượng riêng lớn.” — Khối lượng riêng lớn không đảm bảo khả năng hấp thụ nhiệt lớn; nhiệt dung riêng mới quyết định lượng nhiệt thu nhận trên mỗi đơn vị khối lượng.\n  - C: “có nhiệt độ nóng chảy lớn.” — Nhiệt độ nóng chảy cao không nhất thiết cần thiết; thậm chí chất làm mát cần có điểm đông đặc thấp và điểm sôi phù hợp để hoạt động trong dải nhiệt độ động cơ.\n✅ **Đáp án:** D. có nhiệt dung riêng lớn."
+    },
+    {
+      "id": 6,
+      "content": "Quạt trần sử dụng trong các phòng học của nhà trường khi hoạt động đã biến đổi",
+      "chuong": "năng lượng, công, công suất",
+      "dang": "lý thuyết: năng lượng. công cơ học",
+      "type": "single",
+      "options": [
+        "A. nhiệt năng thành cơ năng và điện năng.",
+        "B. cơ năng thành điện năng và nhiệt năng.",
+        "C. điện năng thành nhiệt năng và cơ năng.",
+        "D. điện năng thành quang năng và nhiệt năng."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Quạt trần được cấp điện nên ban đầu có nguồn năng lượng là *điện năng*.\n- Điện năng dùng để chạy mô-tơ làm quay cánh quạt => sinh ra *cơ năng* (năng lượng động học của cánh quạt và luồng gió).\n- Một phần điện năng bị chuyển thành nhiệt do điện trở của cuộn dây, do ma sát ở ổ trục và do tổn hao khác => sinh ra *nhiệt năng*.\n- Ta có biểu thức công suất tiêu thụ: $P = VI$ (V: hiệu điện thế, I: dòng điện).\n- Công suất này phân bố thành công suất cơ hữu ích và công suất tổn hao thành nhiệt:\n- Các phương án khác sai vì: - A (nhiệt năng thành cơ năng và điện năng): không đúng, quạt không lấy năng lượng từ nhiệt mà từ điện.\n  - B (cơ năng thành điện năng và nhiệt năng): quạt không biến cơ năng thành điện năng (không phát điện).\n  - D (điện năng thành quang năng và nhiệt năng): quạt không sinh ra ánh sáng nên không tạo quang năng đáng kể.\n✅ **Đáp án:** C. điện năng thành nhiệt năng và cơ năng."
+    },
+    {
+      "id": 7,
+      "content": "Một khung dây gồm 500 vòng, diện tích mỗi vòng là \\$50\\text{ cm}^{2}$, được đặt trong một từ trường đều có vector cảm ứng từ vuông góc với mặt phẳng khung dây. Cho cảm ứng từ tăng đều theo thời gian thì suất điện động cảm ứng xuất hiện trong khung dây có độ lớn là \\$0,05\\text{ V}$. Tốc độ biến thiên của cảm ứng từ theo thời gian là",
+      "chuong": "từ trường",
+      "dang": "bài tập: tính toán từ thông, suất điện động",
+      "type": "single",
+      "options": [
+        "A. \\$0,05\\text{ T/s}$",
+        "B. \\$0,5\\mu\\text{T/s}$",
+        "C. \\$0,2\\mu\\text{T/s}$",
+        "D. \\$0,02\\text{ T/s}$"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Áp dụng định luật Faraday cho khung dây có N vòng: $\\mathcal{E}=N\\left|\\dfrac{d\\Phi}{dt}\\right|$, với từ thông của một vòng $\\Phi=B\\cdot S\\ \\ (\\text{vì }B\\perp S)$.\n- Do đó $\\dfrac{d\\Phi}{dt}=S\\,\\dfrac{dB}{dt}$ và\n$\\mathcal{E}=N\\,S\\left|\\dfrac{dB}{dt}\\right|.$\n- Giải cho $\\dfrac{dB}{dt}$:\n$\\left|\\dfrac{dB}{dt}\\right|=\\dfrac{\\mathcal{E}}{N\\,S}.$\n- Đổi diện tích: \\$50\\ \\text{cm}^2=50\\times10^{-4}\\ \\text{m}^2=0{,}005\\ \\text{m}^2.$\n- Thay số vào:\n$\\left|\\dfrac{dB}{dt}\\right|=\\dfrac{0{,}05}{500\\times0{,}005}=\\dfrac{0{,}05}{2{,}5}=0{,}02\\ \\text{T/s}.$\n- Vậy tốc độ biến thiên của cảm ứng từ là \\$0{,}02\\ \\text{T/s}.$\n✅ **Đáp án:** D."
+    },
+    {
+      "id": 8,
+      "content": "Xét phản ứng nhiệt hạch: $\\text{ }^{2}_{1}\\text{H} + \\text{ }^{2}_{1}\\text{H} \\to \\text{ }^{4}_{2}\\text{He} + 3,25\\text{ MeV}$. Nếu quá trình nhiệt hạch sử dụng hết \\$100\\text{g } \\text{ }^{2}_{1}\\text{H}$ thì tổng năng lượng tỏa ra là bao nhiêu? Biết khối lượng mol của $\\text{ }^{2}_{1}\\text{H}$ là \\$2\\text{ g/mol}$ và $N_{A} = 6,02.10^{23} \\text{ mol}^{-1}$",
+      "chuong": "vật lí hạt nhân",
+      "dang": "bài tập: phản ứng nhiệt hạch",
+      "type": "single",
+      "options": [
+        "A. \\$7,83.10^{12}\\text{ J}$",
+        "B. \\$7,83.10^{9}\\text{ MeV}$",
+        "C. \\$7,83.10^{9}\\text{ J}$",
+        "D. \\$7,83.10^{12}\\text{ MeV}$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Tính số mol của deuteri:\n- Tính số hạt nhân $^{2}_{1}\\text{H}$:\n- Mỗi phản ứng tiêu thụ 2 hạt deuteri, nên số phản ứng xảy ra là:\n- Chuyển năng lượng mỗi phản ứng sang joule:\n- Tổng năng lượng tỏa ra:\n✅ **Đáp án:** A."
+    },
+    {
+      "id": 9,
+      "content": "Một lượng khí lý tưởng đựng trong một xi lanh có piston chuyển động được. Các thông số trạng thái của lượng khí lúc đầu là \\$1\\text{ atm}$, \\$10\\text{ lít}$ và \\$300\\text{ K}$. Khi piston nén khí, áp suất của khí tăng lên tới \\$2,5\\text{ atm}$, thể tích giảm còn \\$5\\text{ lít}$. Nhiệt độ của khí sau khi nén bằng",
+      "chuong": "khí lí tưởng",
+      "dang": "bài tập: phương trình trạng thái khí lí tưởng",
+      "type": "single",
+      "options": [
+        "A. \\$400\\text{ K.}$",
+        "B. \\$750\\text{ K.}$",
+        "C. \\$450\\text{ K.}$",
+        "D. \\$375\\text{ K.}$"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Viết định luật khí lí tưởng: $PV = nRT$.\n- Vì $n$ và $R$ không đổi, suy ra: $\\frac{P_1V_1}{T_}1}=\\frac{P_2V_2}{T_}2}$.\n- Suy ra biểu thức cho $T_2$:\n$T_2 = T_1\\cdot\\frac{P_2V_2}{P_1V_}1}.$\n- Thay số vào (chú ý các đơn vị áp suất và thể tích giống nhau nên có thể thay trực tiếp):\n$T_2 = 300\\cdot\\frac{2{,}5\\times 5}{1\\times 10}\\ \\text{K}.$\n- Tính toán:\n$\\frac{2{,}5\\times 5}{10}=\\frac{12{,}5}{10}=1{,}25,$\nnên\n$T_2 = 300\\times 1{,}25 = 375\\ \\text{K}.$\n✅ **Đáp án:** D. \\$375\\text{ K.}$"
+    },
+    {
+      "id": 10,
+      "content": "Một miếng đồng có khối lượng \\$2\\text{ kg}$ ở nhiệt độ $t^{0}(\\text{C})$ và \\$1,5\\text{ kg}$ nước đá ở $-15^{0}\\text{C}$ được đặt vào bình cách nhiệt có khối lượng không đáng kể. Sau khi đạt cân bằng nhiệt, trong bình có \\$0,5\\text{ kg}$ nước. Biết nhiệt dung riêng của nước đá là \\$2100\\text{ J/(kg.K)}$, của đồng là \\$390\\text{ J/(kg.K)}$ và nhiệt nóng chảy riêng của nước đá là \\$3,34.10^{5}\\text{ J/kg}$. Nhiệt độ ban đầu của miếng đồng gần nhất với giá trị nào sau đây?",
+      "chuong": "vật lí nhiệt",
+      "dang": "bài tập tổng hợp chương 1",
+      "type": "single",
+      "options": [
+        "A. \\$220^{0}\\text{C}$",
+        "B. \\$275^{0}\\text{C}$",
+        "C. \\$327^{0}\\text{C}$",
+        "D. \\$307^{0}\\text{C}$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Gọi nhiệt độ cuối là $t_f=0^{0}\\text{C}$.\n- Nhiệt lượng đồng tỏa ra khi nguội từ $t_0$ xuống \\$0^{0}\\text{C}$:\n$Q_{\\text{đồng}}=m_{\\text{đồng}}\\,c_{\\text{đồng}}\\,(t_0-0)=2\\cdot390\\cdot t_0.$\n- Nhiệt lượng cần thiết để làm ấm toàn bộ 1{,}5 kg đá từ $-15^{0}\\text{C}$ lên \\$0^{0}\\text{C}$:\n$Q_1=m_{\\text{đá}}\\,c_{\\text{đá}}\\,(0-(-15))=1{,}5\\cdot2100\\cdot15.$\n- Nhiệt lượng cần để làm tan \\$0{,}5\\ \\text{kg}$ đá thành nước ở \\$0^{0}\\text{C}$:\n$Q_2=m_{\\text{tan}}\\,\\lambda=0{,}5\\cdot3{,}34\\times10^5.$\n- Áp dụng cân bằng nhiệt (nhiệt đồng tỏa = nhiệt đá nhận):\n\\$2\\cdot390\\cdot t_0 = 1{,}5\\cdot2100\\cdot15 + 0{,}5\\cdot3{,}34\\times10^{5}.$\n- Tính các thành phần:\n\\$1{,}5\\cdot2100\\cdot15 = 47\\,250\\ \\text{J},$\n\\$0{,}5\\cdot3{,}34\\times10^{5} = 167\\,000\\ \\text{J}.$\nTổng nhiệt cần: $Q_1+Q_2=47\\,250+167\\,000=214\\,250\\ \\text{J}.$\n- Giải cho $t_0$:\n\\$780\\,t_0 = 214\\,250\\quad\\Rightarrow\\quad t_0=\\dfrac{214\\,250}{780}\\approx274{,}7\\ ^{0}\\text{C}\\approx275^{0}\\text{C}.$\n✅ **Đáp án:** B. \\$275^{0}\\text{C}$"
+    },
+    {
+      "id": 11,
+      "content": "Nhiệt nóng chảy riêng của nước đá bằng \\$3,34.10^{5}\\text{ J/kg}$, nhiệt lượng cần thiết để làm nóng chảy hoàn toàn \\$100\\text{ g}$ nước đá ở nhiệt độ nóng chảy là",
+      "chuong": "vật lí nhiệt",
+      "dang": "bài tập: nhiệt nóng chảy riêng",
+      "type": "single",
+      "options": [
+        "A. \\$334\\text{ kJ.}$",
+        "B. $-33,4\\text{ kJ.}$",
+        "C. \\$33,4\\text{ J.}$",
+        "D. \\$33,4\\text{ MJ.}$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Công thức sử dụng:\n$Q=m\\lambda$\n- Chuyển đơn vị khối lượng: \\$100\\ \\text{g} = 0{,}1\\ \\text{kg}.$\n- Thay số vào công thức:\n- Chuyển sang kJ để dễ đọc:\n- Về dấu: giá trị tuyệt đối của nhiệt lượng cần cung cấp cho băng là +33,4 kJ (nhiệt được truyền vào băng). Trong một số bài toán người ta viết dấu âm nếu xét hệ là phần làm mất nhiệt (ví dụ môi trường trao nhiệt cho băng thì môi trường mất nhiệt: -33,4 kJ). Tuy nhiên về độ lớn năng lượng cần truyền vào để làm chảy là 33,4 kJ.\n✅ **Đáp án:** B. -33,4 kJ."
+    },
+    {
+      "id": 12,
+      "content": "Các hạt nhân đồng vị có",
+      "chuong": "vật lí hạt nhân",
+      "dang": "lý thuyết: hạt nhân và mô hình nguyên tử",
+      "type": "single",
+      "options": [
+        "A. cùng số khối.",
+        "B. cùng khối lượng.",
+        "C. cùng số proton.",
+        "D. cùng số neutron."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Đồng vị là những hạt nhân của cùng một nguyên tố (tức cùng một chữ cái hoá học), nên chúng có cùng số proton. (Đây là định nghĩa của nguyên tố: số proton quyết định).\n- Vì cùng số proton nên chúng có cùng số hiệu nguyên tử $Z$.\n- Tuy nhiên, đồng vị có thể có số neutron khác nhau, do đó số khối $A$ có thể khác nhau giữa các đồng vị.\n- Ví dụ cụ thể: Cacbon-12 và Cacbon-14 đều là đồng vị của nguyên tố C: - Cacbon-12: $Z=6,\\ N=6,\\ A=12$\n  - Cacbon-14: $Z=6,\\ N=8,\\ A=14$\n  - Như vậy cả hai đều *cùng số proton* nhưng khác số neutron và khác số khối.\n- Do đó các phương án A (cùng số khối), B (cùng khối lượng), D (cùng số neutron) đều sai, vì đồng vị thường có số khối và số neutron khác nhau, và khối lượng khác nhau.\n✅ **Đáp án:** C. cùng số proton."
+    },
+    {
+      "id": 13,
+      "content": "Một lượng khí lí tưởng có khối lượng mol phân tử $M = 32\\text{ g/mol}$ chứa trong cylinder và được giữ bằng piston nhẹ. Để làm nóng đẳng áp cần truyền cho khối khí một nhiệt lượng \\$20\\text{ J}$, lúc này nhiệt độ khối khí tăng thêm \\$10^{0}\\text{C}$ và nội năng của khí tăng thêm \\$15\\text{ J}$. Khối lượng khí trong xilanh này gần nhất với giá trị nào dưới đây? Lấy hằng số khí $R = 8,31\\text{ J/mol.K}$",
+      "chuong": "vật lí nhiệt",
+      "dang": "bài tập: định luật i nhiệt động lực học",
+      "type": "single",
+      "options": [
+        "A. \\$2,0\\text{ g}$",
+        "B. \\$1,6\\text{ g}$",
+        "C. \\$3,2\\text{ g}$",
+        "D. \\$1,8\\text{ g}$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Ở quá trình đẳng áp: $Q = nC_p\\Delta T$ và thay đổi nội năng $\\Delta U = nC_v\\Delta T$.\n- Lấy hiệu hai biểu thức trên hoặc dùng công thức tổng quát: $Q - \\Delta U = nR\\Delta T$ (do $C_p - C_v = R$).\n- Từ đó suy ra số mol khí $n$:  Thay số:\n- Khối lượng khí là: $m=nM$ (với $M$ tính bằng g/mol để thu được gam):\n- Làm tròn theo các lựa chọn đáp án, giá trị gần nhất là \\$2{,}0\\ \\text{g}$.\n✅ **Đáp án:**  A. \\$2,0\\text{ g}$"
+    },
+    {
+      "id": 14,
+      "content": "Nội dung nào sau đây không phải là mô hình động học phân tử về cấu tạo chất?",
+      "chuong": "vật lí nhiệt",
+      "dang": "lý thuyết: cấu trúc của chất. sự chuyển thể",
+      "type": "single",
+      "options": [
+        "A. Lực liên kết phân tử chỉ có lực hút, không có lực đẩy.",
+        "B. Các chất được cấu tạo từ các hạt riêng biệt là phân tử.",
+        "C. Các phân tử chuyển động không ngừng. Nhiệt độ của vật càng cao thì tốc độ chuyển động của các phân tử cấu tạo nên vật càng lớn.",
+        "D. Giữa các phân tử có lực hút và lực đẩy gọi chung là lực liên kết phân tử."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Mô hình động học phân tử nêu các ý chính (kiến thức THPT): - Các chất được cấu tạo từ những hạt rất nhỏ (nguyên tử, phân tử) và các hạt đó tách rời nhau (không dính liền).\n  - Các phân tử chuyển động không ngừng; khi nhiệt độ tăng, năng lượng động học trung bình của phân tử tăng => vận tốc trung bình tăng. (Ví dụ: năng lượng động học trung bình của phân tử khí lý tưởng tỉ lệ với nhiệt độ: $\\overline{E_k}=\\frac{3}{2}kT$ )\n  - Giữa các phân tử tồn tại lực liên kết phân tử, gồm cả lực hút và lực đẩy tùy khoảng cách giữa các phân tử.\n- Kiểm tra từng phương án: - B là đúng vì mô hình khẳng định vật được cấu tạo từ các hạt (phân tử).\n  - C là đúng vì mô hình khẳng định phân tử chuyển động không ngừng và nhiệt độ tăng làm vận tốc phân tử tăng.\n  - D là đúng vì khẳng định rõ: giữa các phân tử có cả lực hút và lực đẩy, gọi chung là lực liên kết phân tử.\n  - A nói rằng lực liên kết phân tử chỉ có lực hút, không có lực đẩy — điều này mâu thuẫn với mô hình động học phân tử ở trên. Thực tế khi hai phân tử đến rất gần nhau xuất hiện lực đẩy (do tương tác giữa lớp electron/điều kiện không cho chồng chập), nên không thể nói chỉ có lực hút.\n✅ **Đáp án:** A. Lực liên kết phân tử chỉ có lực hút, không có lực đẩy."
+    },
+    {
+      "id": 15,
+      "content": "Ảnh chụp xương bàn chân của một người bệnh như hình bên. Trong kỹ thuật chụp ảnh này, loại tia nào đã được sử dụng?\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tn-thpt-vat-ly-truong-chuyen-khtn-tinh-ha-noi-lan-2-2026/cau-15.webp\" alt=\"Hình minh họa câu 15\" loading=\"lazy\"></figure>",
+      "chuong": "vật lí hạt nhân",
+      "dang": "thực tế: hiện tượng phóng xạ",
+      "type": "single",
+      "options": [
+        "A. Tia hồng ngoại",
+        "B. Tia gamma",
+        "C. Tia X.",
+        "D. Tia tử ngoại"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Áp dụng kiến thức phổ điện từ: - *Tia X* là bức xạ điện từ có bước sóng rất ngắn và năng lượng đủ lớn để xuyên qua mô mềm nhưng bị hấp thụ mạnh bởi xương (do calcium và mật độ cao), nên tạo hình xương rõ trên phim.\n  - *Tia gamma* cũng là bức xạ năng lượng cao nhưng nguồn phát là phóng xạ hạt nhân; trong thực hành y tế, ảnh chụp xương thông thường dùng ống tia X, không dùng tia gamma để chụp phim xương.\n  - *Tia hồng ngoại* có bước sóng dài, năng lượng thấp, dùng cho ảnh nhiệt — không tạo ảnh chi tiết giải phẫu xương.\n  - *Tia tử ngoại (UV)* cũng không dùng để tạo ảnh xuyên thấu cấu trúc xương trên phim.\n- Loại trừ và kết luận: - Vì hình ảnh là radiograph điển hình của xương (xương sáng trên nền tối) và kỹ thuật chụp xương thông thường dùng ống tia X, nên đáp án đúng là **Tia X**.\n✅ **Đáp án:** C. Tia X."
+    },
+    {
+      "id": 16,
+      "content": "Suất điện động cảm ứng xuất hiện trong mạch kín (C) biến thiên theo thời gian được cho bởi đồ thị như hình vẽ. Tại thời điểm $t = 0$, vectơ pháp tuyến của mạch (C) hợp với vectơ cảm ứng từ một góc bằng\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tn-thpt-vat-ly-truong-chuyen-khtn-tinh-ha-noi-lan-2-2026/cau-16.webp\" alt=\"Hình minh họa câu 16\" loading=\"lazy\"></figure>",
+      "chuong": "từ trường",
+      "dang": "đồ thị: từ thông. hiện tượng cảm ứng điện từ",
+      "type": "single",
+      "options": [
+        "A. \\$150^{0}$",
+        "B. \\$90^{0}$",
+        "C. \\$30^{0}$",
+        "D. \\$60^{0}$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Suất điện động cảm ứng do thay đổi từ thông của một vòng dây có diện tích S và từ trường đều B, với góc giữa vectơ pháp tuyến và từ trường là $\\theta(t)$, ta có:  và  (nếu $\\theta(t)=\\omega t+\\theta_0$ với tốc độ góc $\\omega$ không đổi).\n- Do đó, $e(t)$ tỉ lệ với $\\sin\\theta(t)$ và biên độ của $e$ là $E_{\\text{max}}=BS\\omega$. Tại $t=0$:\n- Từ đồ thị đọc được tỉ số: - Giả sử đồ thị cho thấy $e(0)=1$ (đơn vị tùy đồ thị) và biên độ $E_{\\text{max}}=2$, khi đó\n  - Từ đó suy ra $\\theta_0=30^\\circ\\ \\text{hoặc}\\ 150^\\circ$ (hai nghiệm trong khoảng \\$0^\\circ<\\theta_0<180^\\circ$ cho sin dương).\n- Để chọn nghiệm đúng, xem xét dấu đạo hàm của $e(t)$ tại $t=0$ (hình cho thấy đồ thị tại $t=0$ đang đi xuống, tức là $\\dfrac{de}{dt}\\bigg|_{t=0}<0$). - Tính đạo hàm: $\\dfrac{de}{dt}=E_{\\text{max}}\\omega\\cos\\theta(t)$ (đại khái tỉ lệ với $\\cos\\theta$ tại thời điểm tương ứng).\n  - Tại $t=0$: dấu của $\\dfrac{de}{dt}$ cùng dấu với $\\cos\\theta_0$. Vì $\\dfrac{de}{dt}\\big|_{0}<0$ nên $\\cos\\theta_0<0$.\n  - Kết hợp với $\\sin\\theta_0>0$, ta có $\\theta_0$ thuộc khoảng $(90^\\circ,180^\\circ)$. Trong hai nghiệm \\$30^\\circ$ và \\$150^\\circ$ chỉ có \\$150^\\circ$ thỏa.\n- Vậy góc giữa vectơ pháp tuyến của mạch và vectơ cảm ứng từ tại $t=0$ là \\$150^\\circ$.\n✅ **Đáp án:** A."
+    },
+    {
+      "id": 17,
+      "content": "Một electron trong đèn hình tivi kiểu cũ chuyển động về phía trước (Ox) với tốc độ $v = 5.10^{6} \\text{ m/s}$. Bao quanh đèn hình có các cuộn dây tạo ra từ trường với cường độ $B = 0,05 \\text{ T}$ nằm trong mặt phẳng xOy và hợp với Ox một góc $\\alpha = 60^{0}$ như hình vẽ. Trong từ trường, lực từ tác dụng lên điện tích q được xác định bởi $f = |q|v.B.\\sin\\alpha$ với $\\alpha = (\\vec{v}, \\vec{B})$. Độ lớn của lực từ tác dụng lên electron là\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tn-thpt-vat-ly-truong-chuyen-khtn-tinh-ha-noi-lan-2-2026/cau-17.webp\" alt=\"Hình minh họa câu 17\" loading=\"lazy\"></figure>",
+      "chuong": "từ trường",
+      "dang": "thực tế: lực từ. cảm ứng từ",
+      "type": "single",
+      "options": [
+        "A. \\$7.10^{-14}\\text{ N}$",
+        "B. \\$3,5.10^{-14}\\text{ N}$",
+        "C. \\$4.10^{-14}\\text{ N}$",
+        "D. \\$2.10^{-14}\\text{ N}$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Viết công thức:\n$f=|q|\\,v\\,B\\,\\sin\\alpha.$\n- Thay số vào (đơn vị đã phù hợp):\n$f=1{,}6\\cdot10^{-19}\\times 5\\cdot10^{6}\\times 0{,}05\\times\\sin60^\\circ.$\n- Tính từng bước: - \\$1{,}6\\cdot10^{-19}\\times 5\\cdot10^{6}=8{,}0\\cdot10^{-13}$\n  - \\$8{,}0\\cdot10^{-13}\\times 0{,}05=4{,}0\\cdot10^{-14}$\n  - $\\sin60^\\circ=\\frac{\\sqrt{3}}{2}\\approx0{,}8660$\n  - $f=4{,}0\\cdot10^{-14}\\times 0{,}8660\\approx 3{,}464\\cdot10^{-14}\\ \\text{N}.$\n- Làm tròn hợp lý (hai chữ số có nghĩa): $f\\approx 3{,}5\\cdot10^{-14}\\ \\text{N}.$\n- Lưu ý: điện tích electron là âm nhưng vì đề hỏi về độ lớn nên ta dùng $|q|$.\n✅ **Đáp án:** B."
+    },
+    {
+      "id": 18,
+      "content": "Số proton trong hạt nhân $\\text{ }^{56}_{26}\\text{Fe}$ nhiều hơn số hạt neutron trong hạt nhân $\\text{ }^{27}_{13}\\text{Al}$ là",
+      "chuong": "vật lí hạt nhân",
+      "dang": "bài tập: tính toán a, z, n",
+      "type": "single",
+      "options": [
+        "A. \\$13.$",
+        "B. \\$12.$",
+        "C. \\$14.$",
+        "D. \\$15.$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Số proton trong $^{56}_{26}\\text{Fe}$ là số nguyên tử: $\\text{proton}_{\\text{Fe}} = Z_{\\text{Fe}} = 26.$\n- Số neutron trong $^{27}_{13}\\text{Al}$ bằng: $n_{\\text{Al}} = A_{\\text{Al}} - Z_{\\text{Al}} = 27 - 13 = 14.$\n- Hiệu cần tìm: $\\text{proton}_{\\text{Fe}} - n_{\\text{Al}} = 26 - 14 = 12.$\n- Kiểm tra nhanh các đáp án sai: 13, 14, 15 đều không bằng kết quả tính được 12.\n✅ **Đáp án:** B. 12."
+    }
+  ]
+}

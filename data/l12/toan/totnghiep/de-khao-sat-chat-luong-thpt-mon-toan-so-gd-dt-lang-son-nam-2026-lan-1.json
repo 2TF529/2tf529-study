@@ -1,0 +1,196 @@
+{
+  "id": "l12-toan-totnghiep-2026-de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-lang-son-nam-2026-lan-1",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "code": "THPT_TKT_2026_LS_01",
+  "title": "Đề khảo sát chất lượng THPT môn Toán Sở GD&ĐT Lạng Sơn năm 2026 - Lần 1",
+  "duration": 90,
+  "answerSource": "official",
+  "source": "https://dolthpt.vn/tot-nghiep-thpt/pdf-de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-lang-son-nam-2026-lan-1-co-dap-an",
+  "notes": "Nội dung, đáp án và lời giải được nhập từ bản công khai của DOL THPT.",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "content": "Cho cấp số cộng $(u_n)$ có $u_1=1, u_2=4$. Số hạng thứ tư là",
+      "chuong": "dãy số. cấp số cộng và cấp số nhân",
+      "dang": "số hạng tổng quát của cấp số cộng",
+      "type": "single",
+      "options": [
+        "A. $u_4=9$",
+        "B. $u_4=12$",
+        "C. $u_4=13$",
+        "D. $u_4=10$"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Đây là cấp số cộng với $u_1=1$ và $u_2=4$.\n❓ **Hiểu câu hỏi:**\n- Cần tìm số hạng thứ tư $u_4$ của cấp số cộng.\n- Trước hết tìm công sai rồi dùng công thức $u_n=u_1+(n-1)d$.\n🔎 **Hướng dẫn cách làm:**\n- Ta có công sai $d=u_2-u_1=4-1=3$.\n- Suy ra $u_4=u_1+3d=1+3\\cdot 3=10$.\n- Vậy số hạng thứ tư của dãy là \\$10$.\n✅ **Đáp án:** Chọn D. $u_4=10$"
+    },
+    {
+      "id": 2,
+      "content": "Trong không gian, cho hình hộp $ABCD.EFGH$. Mệnh đề nào sau đây đúng?",
+      "chuong": "vectơ",
+      "dang": "tổng của hai vectơ",
+      "type": "single",
+      "options": [
+        "A. $\\overrightarrow{AB}+\\overrightarrow{AD}+\\overrightarrow{AE}=\\overrightarrow{AG}$",
+        "B. $\\overrightarrow{DA}+\\overrightarrow{DC}+\\overrightarrow{DE}=\\overrightarrow{DF}$",
+        "C. $\\overrightarrow{BA}+\\overrightarrow{BC}+\\overrightarrow{BE}=\\overrightarrow{BH}$",
+        "D. $\\overrightarrow{EA}+\\overrightarrow{EF}+\\overrightarrow{EB}=\\overrightarrow{EC}$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hình hộp $ABCD.EFGH$ có ba cạnh xuất phát từ $A$ là $\\overrightarrow{AB},\\overrightarrow{AD},\\overrightarrow{AE}$.\n❓ **Hiểu câu hỏi:**\n- Cần chọn mệnh đề đúng về tổng các vectơ trong hình hộp.\n- Ta dùng quy tắc hình hộp: đường chéo không gian bằng tổng ba vectơ cạnh xuất phát từ cùng một đỉnh.\n🔎 **Hướng dẫn cách làm:**\n- Trong hình hộp, đi từ $A$ đến $G$ có thể đi theo ba cạnh $AB, AD, AE$.\n- Vì vậy $\\overrightarrow{AG}=\\overrightarrow{AB}+\\overrightarrow{AD}+\\overrightarrow{AE}$.\n- Do đó mệnh đề đúng là phương án $A$.\n✅ **Đáp án:** Chọn A. $\\overrightarrow{AB}+\\overrightarrow{AD}+\\overrightarrow{AE}=\\overrightarrow{AG}$"
+    },
+    {
+      "id": 3,
+      "content": "Một học sinh tiến hành thống kê nhiệt độ trung bình tại nơi mình sống trong vòng \\$40$ ngày và thu được bảng số liệu sau. Tứ phân vị thứ nhất của bảng số liệu trên bằng\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-lang-son-nam-2026-lan-1/cau-03.webp\" alt=\"Hình minh họa câu 3\" loading=\"lazy\"></figure>",
+      "chuong": "các số đặc trưng đo xu thế trung tâm của mẫu số liệu ghép nhóm",
+      "dang": "tứ phân vị của mẫu số liệu ghép nhóm",
+      "type": "single",
+      "options": [
+        "A. \\$23,5$",
+        "B. \\$27$",
+        "C. \\$26,5$",
+        "D. \\$22,6$"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Mẫu số liệu ghép nhóm có \\$40$ ngày.\n- Các lớp là $[19;22), [22;25), [25;28), [28;31)$ với tần số lần lượt là \\$7,15,12,6$.\n❓ **Hiểu câu hỏi:**\n- Cần tìm tứ phân vị thứ nhất $Q_1$ của mẫu số liệu ghép nhóm.\n- Dùng công thức $Q_1=L+\\dfrac{\\frac{n}{4}-F}{f}\\cdot h$.\n🔎 **Hướng dẫn cách làm:**\n- Ta có $\\dfrac{n}{4}=\\dfrac{40}{4}=10$.\n- Tần số tích lũy sau lớp đầu là \\$7$, sau lớp thứ hai là \\$22$ nên vị trí thứ \\$10$ nằm trong lớp $[22;25)$.\n- Ở đây $L=22, F=7, f=15, h=3$.\n- Suy ra $Q_1=22+\\dfrac{10-7}{15}\\cdot 3=22{,}6$.\n✅ **Đáp án:** Chọn D. \\$22{,}6$"
+    },
+    {
+      "id": 4,
+      "content": "Nghiệm của phương trình $\\cos 2x=1$ là",
+      "chuong": "hàm số lượng giác và phương trình lượng giác",
+      "dang": "phương trình cosx=m",
+      "type": "single",
+      "options": [
+        "A. $x=k\\pi, k\\in\\mathbb{Z}$",
+        "B. $x=\\pi+2k\\pi, k\\in\\mathbb{Z}$",
+        "C. $x=\\dfrac{\\pi}{2}+k\\pi, k\\in\\mathbb{Z}$",
+        "D. $x=\\pi+k\\pi, k\\in\\mathbb{Z}$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Phương trình đã cho là $\\cos 2x=1$.\n❓ **Hiểu câu hỏi:**\n- Cần tìm nghiệm tổng quát của phương trình lượng giác.\n- Ta dùng kết quả cơ bản $\\cos t=1 \\Leftrightarrow t=2k\\pi, k\\in\\mathbb{Z}$.\n🔎 **Hướng dẫn cách làm:**\n- Đặt $t=2x$ thì $\\cos 2x=1\\Leftrightarrow 2x=2k\\pi$ với $k\\in\\mathbb{Z}$.\n- Chia cả hai vế cho \\$2$, ta được $x=k\\pi, k\\in\\mathbb{Z}$.\n- Vậy nghiệm đúng là phương án $A$.\n✅ **Đáp án:** Chọn A. $x=k\\pi,\\ k\\in\\mathbb{Z}$"
+    },
+    {
+      "id": 5,
+      "content": "Với $a$ là số thực dương tùy ý, $\\log_3(9a)$ bằng",
+      "chuong": "hàm số mũ và hàm số lôgarit",
+      "dang": "tính chất của lôgarit",
+      "type": "single",
+      "options": [
+        "A. \\$3+a$",
+        "B. \\$2+\\log_3 a$",
+        "C. \\$3+\\log_3 a$",
+        "D. \\$2\\log_3 a$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- $a>0$ và biểu thức cần tính là $\\log_3(9a)$.\n❓ **Hiểu câu hỏi:**\n- Cần rút gọn một biểu thức lôgarit.\n- Dùng tính chất $\\log_3(xy)=\\log_3 x+\\log_3 y$.\n🔎 **Hướng dẫn cách làm:**\n- Ta có $\\log_3(9a)=\\log_3 9+\\log_3 a$.\n- Vì \\$9=3^2$ nên $\\log_3 9=2$.\n- Suy ra $\\log_3(9a)=2+\\log_3 a$.\n✅ **Đáp án:** Chọn B. \\$2+\\log_3 a$"
+    },
+    {
+      "id": 6,
+      "content": "Cho hàm số $y=f(x)$ có đồ thị như bên dưới. Hàm số đã cho nghịch biến trên khoảng nào trong các khoảng sau đây?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-lang-son-nam-2026-lan-1/cau-06.webp\" alt=\"Hình minh họa câu 6\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "tính đơn điệu của hàm số",
+      "type": "single",
+      "options": [
+        "A. $(0;2)$",
+        "B. $(-1;1)$",
+        "C. $(-1;0)$",
+        "D. $(1;2)$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Đồ thị của hàm số $y=f(x)$ được cho sẵn.\n❓ **Hiểu câu hỏi:**\n- Cần tìm khoảng mà hàm số nghịch biến.\n- Quan sát đồ thị: hàm số nghịch biến trên đoạn đồ thị đi xuống khi $x$ tăng.\n🔎 **Hướng dẫn cách làm:**\n- Từ hình vẽ, nhánh bên trái đạt cực đại tại $x=-1$ rồi đi xuống khi $x$ tăng đến gần \\$0$.\n- Vì vậy trên khoảng $(-1;0)$, hàm số nghịch biến.\n- Các khoảng còn lại đều chứa đoạn hàm tăng nên không phù hợp.\n✅ **Đáp án:** Chọn C. $(-1;0)$"
+    },
+    {
+      "id": 7,
+      "content": "Cho hình chóp $S.ABC$. Gọi $I,J$ lần lượt là trung điểm của các cạnh $SA,SB$. Khẳng định nào dưới đây đúng?",
+      "chuong": "quan hệ song song trong không gian",
+      "dang": "điều kiện và tính chất của đường thẳng song song với mặt phẳng",
+      "type": "single",
+      "options": [
+        "A. $IJ\\parallel (SAB)$",
+        "B. $IJ\\parallel (SAC)$",
+        "C. $IJ\\parallel (ABC)$",
+        "D. $IJ\\parallel (SBC)$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Trong hình chóp $S.ABC$, $I$ và $J$ lần lượt là trung điểm của $SA$ và $SB$.\n❓ **Hiểu câu hỏi:**\n- Cần xét vị trí của đường thẳng $IJ$ với các mặt phẳng đã cho.\n- Ta dùng tính chất đoạn trung bình trong tam giác $SAB$.\n🔎 **Hướng dẫn cách làm:**\n- Trong tam giác $SAB$, vì $I$ và $J$ là trung điểm của $SA$ và $SB$ nên $IJ\\parallel AB$.\n- Đường thẳng $AB$ nằm trong mặt phẳng $(ABC)$.\n- Do đó $IJ\\parallel (ABC)$.\n✅ **Đáp án:** Chọn C. $IJ\\parallel (ABC)$"
+    },
+    {
+      "id": 8,
+      "content": "Họ nguyên hàm của hàm số $f(x)=\\sin x$ là",
+      "chuong": "nguyên hàm và tích phân",
+      "dang": "nguyên hàm của một hàm số",
+      "type": "single",
+      "options": [
+        "A. $F(x)=-\\tan x+C$",
+        "B. $F(x)=\\cos x+C$",
+        "C. $F(x)=-\\cos x+C$",
+        "D. $F(x)=\\tan x+C$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cần tìm họ nguyên hàm của hàm số $f(x)=\\sin x$.\n❓ **Hiểu câu hỏi:**\n- Ta nhớ rằng đạo hàm của $-\\cos x$ là $\\sin x$.\n- Vì thế nguyên hàm của $\\sin x$ là $-\\cos x+C$.\n🔎 **Hướng dẫn cách làm:**\n- Ta có $\\left(-\\cos x\\right)'=\\sin x$.\n- Vậy họ nguyên hàm của $f(x)=\\sin x$ là $F(x)=-\\cos x+C$.\n- Do đó chọn phương án $C$.\n✅ **Đáp án:** Chọn C. $F(x)=-\\cos x+C$"
+    },
+    {
+      "id": 9,
+      "content": "Trong không gian $Oxyz$, cho mặt phẳng $(P):2x-y+4z-1=0$. Một vectơ pháp tuyến của $(P)$ là",
+      "chuong": "phương pháp tọa độ trong không gian",
+      "dang": "vectơ pháp tuyến và cặp vectơ chỉ phương của mặt phẳng",
+      "type": "single",
+      "options": [
+        "A. $\\vec{n}_3=(2;1;4)$",
+        "B. $\\vec{n}_4=(2;4;-1)$",
+        "C. $\\vec{n}_1=(-2;1;-4)$",
+        "D. $\\vec{n}_2=(2;-1;-1)$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Mặt phẳng $(P)$ có phương trình \\$2x-y+4z-1=0$.\n❓ **Hiểu câu hỏi:**\n- Cần tìm một vectơ pháp tuyến của mặt phẳng.\n- Với phương trình $Ax+By+Cz+D=0$, một vectơ pháp tuyến là $\\vec n=(A;B;C)$.\n🔎 **Hướng dẫn cách làm:**\n- Từ phương trình đã cho, ta lấy được một vectơ pháp tuyến là $\\vec n=(2;-1;4)$.\n- Mọi vectơ cùng phương với vectơ này đều là vectơ pháp tuyến của mặt phẳng.\n- Trong các phương án, $(-2;1;-4)=-1\\cdot (2;-1;4)$ nên phù hợp.\n✅ **Đáp án:** Chọn C. $\\vec{n}_1=(-2;1;-4)$"
+    },
+    {
+      "id": 10,
+      "content": "Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình thoi tâm $O$, $SA=SC, SB=SD$. Trong các khẳng định sau, khẳng định nào đúng?",
+      "chuong": "quan hệ vuông góc trong không gian",
+      "dang": "tính chất đường thẳng vuông góc với mặt phẳng",
+      "type": "single",
+      "options": [
+        "A. $SC\\perp (ABCD)$",
+        "B. $SO\\perp (ABCD)$",
+        "C. $SB\\perp (ABCD)$",
+        "D. $SA\\perp (ABCD)$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Đáy $ABCD$ là hình thoi có tâm $O$.\n- $SA=SC$ và $SB=SD$.\n❓ **Hiểu câu hỏi:**\n- Cần xác định đường thẳng nào vuông góc với mặt phẳng đáy.\n- Ta dùng tính chất: điểm cách đều hai đầu đoạn thẳng nằm trên mặt phẳng trung trực của đoạn đó.\n🔎 **Hướng dẫn cách làm:**\n- Vì $SA=SC$ nên điểm $S$ nằm trên mặt phẳng trung trực của đoạn $AC$.\n- Vì $SB=SD$ nên điểm $S$ cũng nằm trên mặt phẳng trung trực của đoạn $BD$.\n- Hai mặt phẳng trung trực này cắt nhau theo đường thẳng đi qua $O$ và vuông góc với cả $AC$ lẫn $BD$, tức là vuông góc với mặt phẳng $(ABCD)$.\n- Do đó $SO\\perp (ABCD)$.\n✅ **Đáp án:** Chọn B. $SO\\perp (ABCD)$"
+    },
+    {
+      "id": 11,
+      "content": "Trong không gian $Oxyz$, cho các vectơ $\\vec{u}=(1;-2;2)$ và $\\vec{v}=(1;3;-5)$. Tọa độ của vectơ $\\vec{w}=\\vec{u}-\\vec{v}$ là",
+      "chuong": "vectơ và hệ trục tọa độ trong không gian",
+      "dang": "tọa độ của điểm, tọa độ của vectơ trong không gian",
+      "type": "single",
+      "options": [
+        "A. $(2;1;-3)$",
+        "B. $(0;1;-3)$",
+        "C. $(0;-5;7)$",
+        "D. $(0;5;-7)$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- $\\vec u=(1;-2;2)$ và $\\vec v=(1;3;-5)$.\n- Cần tính $\\vec w=\\vec u-\\vec v$.\n❓ **Hiểu câu hỏi:**\n- Muốn trừ hai vectơ, ta trừ từng tọa độ tương ứng.\n- Tính lần lượt hoành độ, tung độ và cao độ của $\\vec w$.\n🔎 **Hướng dẫn cách làm:**\n- Ta có $\\vec w=(1-1; -2-3; 2-(-5))$.\n- Suy ra $\\vec w=(0;-5;7)$.\n- Vậy đáp án đúng là phương án $C$.\n✅ **Đáp án:** Chọn C. $(0;-5;7)$"
+    },
+    {
+      "id": 12,
+      "content": "Cho hàm số $f(x)$ liên tục trên $\\mathbb{R}$, thỏa mãn $\\int_0^4 f(x)\\,dx=-3$ và $\\int_4^3 f(x)\\,dx=2$. Khi đó, $\\int_0^3 f(x)\\,dx$ bằng",
+      "chuong": "nguyên hàm và tích phân",
+      "dang": "tính chất của tích phân",
+      "type": "single",
+      "options": [
+        "A. $-5$",
+        "B. $-1$",
+        "C. \\$1$",
+        "D. \\$5$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- $\\int_0^4 f(x)\\,dx=-3$ và $\\int_4^3 f(x)\\,dx=2$.\n❓ **Hiểu câu hỏi:**\n- Cần tính $\\int_0^3 f(x)\\,dx$.\n- Ta dùng tính chất đổi cận và cộng tích phân trên các khoảng kề nhau.\n🔎 **Hướng dẫn cách làm:**\n- Từ $\\int_4^3 f(x)\\,dx=2$ suy ra $\\int_3^4 f(x)\\,dx=-2$.\n- Ta có $\\int_0^4 f(x)\\,dx=\\int_0^3 f(x)\\,dx+\\int_3^4 f(x)\\,dx$.\n- Do đó $-3=\\int_0^3 f(x)\\,dx-2$ nên $\\int_0^3 f(x)\\,dx=-1$.\n✅ **Đáp án:** Chọn B. $-1$"
+    }
+  ]
+}

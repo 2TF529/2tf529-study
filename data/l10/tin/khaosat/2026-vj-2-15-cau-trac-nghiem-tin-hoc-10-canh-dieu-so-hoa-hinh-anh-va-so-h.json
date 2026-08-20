@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-15-cau-trac-nghiem-tin-hoc-10-canh-dieu-so-hoa-hinh-anh-va-so-h",
+  "sourceId": "vietjack:2-15-cau-trac-nghiem-tin-hoc-10-canh-die",
+  "grade": "l10",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.15 câu Trắc nghiệm Tin học 10 Cánh diều Số hóa hình ảnh và số hóa âm thanh có đáp án (Phần 2)",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Rời rạc hóa màu là",
+      "options": [
+        "A. Cho tương ứng mỗi màu với một dãy bit.",
+        "B. Cho tương ứng mỗi pixel là một dãy bit.",
+        "C. Một phần tử ảnh (pixel).",
+        "D. Độ phân giải của ảnh."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Rời rạc hóa màu là cho tương ứng mỗi màu với một dãy bit nhất định gọi là mã nhị phân của màu. Màu khác nhau thì mã nhị phân khác nhau."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Lượng tử hóa trong số hóa âm thanh là quá trình chuyển đổi cái gì?",
+      "options": [
+        "A. Giá trị mẫu liên tục thành các giá trị rời rạc.",
+        "B. Giá trị mẫu rời rạc thành các giá trị mẫu liên tục.",
+        "C. Chia một âm thanh thành nhiều ô vuông rất nhỏ.",
+        "D. Phóng đại âm thanh to quá mức so với giá trị ban đầu."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Quá trình chuyển đổi giá trị mẫu liên tục thành các giá trị rời rạc được gọi là lượng tử hóa."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trong các câu sau, câu nào đúng? Để số hóa âm thanh, có độ trung thực cao (Hi-Fi), ta cần:",
+      "options": [
+        "A. Đồng thời giảm tốc độ lấy mẫu và giảm độ sâu bit.",
+        "B. Giảm tốc độ lấy mẫu và tăng độ sâu bit.",
+        "C. Đồng thời tăng tốc độ lấy mẫu và tăng độ sâu bit.",
+        "D. Tăng tốc độ lấy mẫu và giảm độ sâu bit."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Để số hóa âm thanh, có độ trung thực cao (Hi-Fi), ta cần đồng thời tăng tốc độ lấy mẫu và tăng độ sâu bit."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Độ sâu bit trong số hóa âm thanh là độ dài dãy bit biểu diễn các giá trị biên độ sau khi rời rạc. Em hãy chọn câu SAI trong các câu sau đây:",
+      "options": [
+        "A. Độ sâu bit càng lớn thì càng xa với đồ thị hình sóng ban đầu.",
+        "B. Độ sâu bit càng lớn thì âm thanh càng to.",
+        "C. Độ sâu bit càng lớn thì càng xấp xỉ với đồ thị hình sóng ban đầu.",
+        "D. Độ sâu bit càng lớn thì càng có nhiều mức biên độ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Độ sâu bit càng lớn thì âm thanh càng to là sai."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Độ phân giải của hình ảnh có thông tin như hình là bao nhiêu?",
+      "options": [
+        "A. 32 × 32",
+        "B. 595",
+        "C. 595 × 595",
+        "D. 220"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Chiều cao và chiều rộng của ảnh đều là 595 pixel"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Độ sâu của hình ảnh trắng đen bên dưới là",
+      "options": [
+        "A. 1",
+        "B. 2",
+        "C. 3",
+        "D. 4"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ảnh đen trắng chỉ có 2 sắc độ màu là đen và trắng tương ứng với độ sâu màu là 1"
+    }
+  ]
+}

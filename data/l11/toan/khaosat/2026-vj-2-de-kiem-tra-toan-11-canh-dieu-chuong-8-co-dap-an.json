@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-de-kiem-tra-toan-11-canh-dieu-chuong-8-co-dap-an",
+  "sourceId": "vietjack:2-de-kiem-tra-toan-11-canh-dieu-chuong-8",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.Đề kiểm tra Toán 11 Cánh diều Chương 8 có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Phần 1. Trắc nghiệm nhiều phương án lựa chọn Mỗi câu hỏi thí sinh chỉ chọn một phương án. Cho hình chóp \\(S.ABC\\) có đáy là tam giác vuông tại \\(B\\) và \\(SA \\bot \\left( {ABC} \\right)\\) . Chọn khẳng định sai trong các khẳng định sau:",
+      "options": [
+        "A. \\(BC \\bot SC\\) .",
+        "B. \\(BC \\bot SA\\) .",
+        "C. \\(BC \\bot AB\\) .",
+        "D. \\(BC \\bot SB\\) ."
+      ],
+      "answer": "A",
+      "note": "Vì \\(\\Delta ABC\\) vuông tại \\(B\\) nên \\(BC \\bot AB\\) (1). Vì \\(SA \\bot \\left( {ABC} \\right) \\Rightarrow SA \\bot BC\\) (2). Từ (1) và (2), suy ra \\(BC \\bot \\left( {SAB} \\right) \\Rightarrow BC \\bot SB\\) . Chọn A ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hình chóp \\(S.ABCD\\) có đáy là hình bình hành, \\(\\widehat {SAB} = 60^\\circ \\) . Góc giữa hai đường thẳng \\(SA\\) và \\(CD\\) có số đo là",
+      "options": [
+        "A. \\(30^\\circ \\) .",
+        "B. \\(45^\\circ \\) .",
+        "C. \\(60^\\circ \\) .",
+        "D. \\(90^\\circ \\) ."
+      ],
+      "answer": "C",
+      "note": "Vì \\(ABCD\\) là hình bình hành nên \\(AB//CD\\). Suy ra \\(\\left( {SA,CD} \\right) = \\left( {SA,AB} \\right) = \\widehat {SAB} = 60^\\circ \\) . Chọn C ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho hình chóp \\(S.ABCD\\) có đáy là hình vuông. Gọi \\(M,N\\) lần lượt là trung điểm của \\(SA\\) và \\(SC\\) . Chọn khẳng định đúng trong các khẳng định sau:",
+      "options": [
+        "A. \\(MN \\bot BD\\) .",
+        "B. \\(MN \\bot SD\\) .",
+        "C. \\(MN \\bot SA\\) .",
+        "D. \\(MN \\bot SB\\) ."
+      ],
+      "answer": "A",
+      "note": "Vì \\(ABCD\\) là hình vuông nên \\(AC \\bot BD\\) (1). Vì \\(M,N\\) lần lượt là trung điểm của \\(SA\\) và \\(SC\\) nên \\(MN\\) là đường trung bình của \\(\\Delta SAC\\). Suy ra \\(MN//AC\\) (2). Từ (1) và (2), suy ra \\(MN \\bot BD\\). Chọn A ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hình chóp \\(S.ABC\\) có đáy là tam giác vuông tại \\(B\\) và \\(SA \\bot \\left( {ABC} \\right)\\) . Hình chiếu của \\(SC\\) lên \\(\\left( {ABC} \\right)\\) là",
+      "options": [
+        "A. \\(SB\\) .",
+        "B. \\(BC\\) .",
+        "C. \\(AB\\) .",
+        "D. \\(AC\\) ."
+      ],
+      "answer": "D",
+      "note": "Vì \\(SA \\bot \\left( {ABC} \\right)\\) nên hình chiếu của \\(SC\\) lên mặt phẳng \\(\\left( {ABC} \\right)\\) là \\(AC\\) . Chọn D ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hình chóp \\(S.ABCD\\) có đáy là hình vuông và \\(SA \\bot \\left( {ABCD} \\right)\\) . Chọn khẳng định đúng trong các khẳng định sau:",
+      "options": [
+        "A. \\(AB \\bot \\left( {SBC} \\right)\\) .",
+        "B. \\(BC \\bot \\left( {SAC} \\right)\\) .",
+        "C. \\(AB \\bot \\left( {SAC} \\right)\\) .",
+        "D. \\(BC \\bot \\left( {SAB} \\right)\\) ."
+      ],
+      "answer": "D",
+      "note": "Ta có \\(SA \\bot \\left( {ABCD} \\right) \\Rightarrow SA \\bot BC\\) mà \\(BC \\bot AB\\) nên \\(BC \\bot \\left( {SAB} \\right)\\). Chọn D ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho hai đường thẳng phân biệt \\(a,b\\) và \\(a \\bot \\left( P \\right)\\) . Chọn khẳng định đúng trong các khẳng định sau:",
+      "options": [
+        "A. \\(b \\bot a \\Rightarrow b//\\left( P \\right)\\) .",
+        "B. \\(b \\bot \\left( P \\right) \\Rightarrow b \\bot a\\) .",
+        "C. \\(b \\bot a \\Rightarrow b \\subset \\left( P \\right)\\) .",
+        "D. \\(b \\subset \\left( P \\right) \\Rightarrow b \\bot a\\) ."
+      ],
+      "answer": "D",
+      "note": "\\(a \\bot \\left( P \\right),b \\subset \\left( P \\right) \\Rightarrow b \\bot a\\) . Chọn D ."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-toan-9-chan-troi-sang-tao-bai-1-bat-dang-thu",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-toan-9-chan-troi-sa",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu trắc nghiệm Toán 9 Chân trời sáng tạo Bài 1. Bất đẳng thức có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: I. Nhận biết Khẳng định “\\(x\\) nhỏ hơn 5” được diễn tả là",
+      "options": [
+        "A. \\[x < 5\\].",
+        "B. \\[x > 5\\].",
+        "C. \\[x \\le 5\\].",
+        "D. \\[x \\ge 5\\]."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Để diễn tả \\[x\\] nhỏ hơn 5, ta có bất đẳng thức \\[x < 5\\]."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Khẳng định “\\(a\\) không lớn hơn \\(b\\)” được diễn tả là",
+      "options": [
+        "A. \\[a < b\\].",
+        "B. \\[a > b\\].",
+        "C. \\[a \\ge b\\].",
+        "D. \\[a \\le b\\]"
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Ta có \\(a\\) không lớn hơn \\(b\\) khi \\(a\\) nhỏ hơn hoặc \\(a\\) bằng \\(b\\). Do đó, để diễn tả \\(a\\) không lớn hơn \\(b\\), ta có bất đẳng thức \\[a \\le b\\]."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Nếu \\[a > b\\] thì:",
+      "options": [
+        "A. \\[a + 2 > b + 2\\].",
+        "B. \\[a + 2 < b + 2\\].",
+        "C. \\[a - 2 < b - 2\\].",
+        "D. \\(\\frac{1}{a} < \\frac{1}{b}\\)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Áp dụng tính chất liên hệ với phép cộng của bất đẳng thức. Cộng cả 2 vế của bất đẳng thức \\[a > b\\] với 2 ta được \\[a + 2 > b + 2\\]. Vậy \\[a + 2 > b + 2\\]."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Vế trái của bất đẳng thức \\({x^3} + 3 > x - \\frac{1}{2}\\) là",
+      "options": [
+        "A. \\({x^3} + 3\\).",
+        "B. \\({x^3} + \\frac{1}{2}\\).",
+        "C. \\( - \\frac{1}{2}\\).",
+        "D. \\({x^3} - \\frac{1}{2}\\)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Vế trái của bất đẳng thức trên là \\({x^3} + 3\\), vế phải của bất đẳng thức trên là \\(x - \\frac{1}{2}\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Với ba số \\(a,b,c\\), ta có:",
+      "options": [
+        "A. Nếu \\(a > b\\) thì \\(a + c \\le b + c\\).",
+        "B. Nếu \\(a < b\\) thì \\(a + c \\ge b + c\\).",
+        "C. Nếu \\(a \\le b\\) thì \\(a + c \\le b + c\\).",
+        "D. Nếu \\(a \\ge b\\) thì \\(a + c \\le b + c\\)."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Khi cộng hai vế của một bất đẳng thức với cùng một số thì dấu của bất đẳng thức không đổi. Vì vậy nếu \\(a \\le b\\) thì \\(a + c \\le b + c\\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: II. Thông hiểu So sánh hai số \\(a\\) và \\(b\\), nếu \\[a + 2024 < b + 2024\\].",
+      "options": [
+        "A. \\[a < b\\].",
+        "B. \\[a > b\\].",
+        "C. \\[a \\ge b\\].",
+        "D. \\[a \\le b\\]."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có: \\[a + 2024 < b + 2024\\] Suy ra: \\[a + 2024--2024 < b + 2024--2024\\] (trừ hai vế của bất đẳng thức cho 2014) \\[a < b\\]. Vậy \\[a < b\\]."
+    }
+  ]
+}

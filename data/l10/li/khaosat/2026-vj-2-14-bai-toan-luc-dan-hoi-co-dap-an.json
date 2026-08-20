@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-14-bai-toan-luc-dan-hoi-co-dap-an",
+  "sourceId": "vietjack:2-14-bai-toan-luc-dan-hoi-co-dap-an",
+  "grade": "l10",
+  "subjectSlug": "li",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.14 Bài toán lực đàn hồi có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Một lò xo có chiều dài tự nhiên là 30 cm, khi bị nén lò xo dài 24 cm và lực đàn hồi của nó bằng 5 N. Hỏi khi lực đàn hồi của lò xo bị nén bằng 10N thì chiều dài của nó bằng bao nhiêu?",
+      "options": [
+        "A. 18 cm.",
+        "B. 40 cm.",
+        "C. 48 cm.",
+        "D. 22 cm."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là A Đổi đơn vị: l 0 = 30 cm = 0,3 m; l = 24 cm = 0,24 m Lò xo bị nén nên: D l = l 0 – l = 0,3 – 0,24 = 0,06 Độ cứng của lò xo: k = F Δ l = 5 0 , 06 = 250 3 N / m Khi lực đàn hồi của lò xo nén bằng 10 N thì độ biến dạng của lò xo là: Δ l ' = F ' k = 10 250 3 = 0 , 12 m Chiều dài của lò xo lúc này là: D l’ = l 0 – l’ Þ l’ = l 0 - D l’ = 0,3 – 0,12 = 0,18 m = 18 cm"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Một lò xo khi treo vật m 1 = 100g thì nó có chiều dài 31 cm. Treo thêm vào lò xo đó vật m 2 = 100 g thì nó có chiều dài 32 cm. Tính chiều dài ban đầu của lò xo và độ cứng k của lò xo. Lấy g = 10 m/s 2 .",
+      "options": [
+        "A. l 0 = 30 cm và k = 100 N/m.",
+        "B. l 0 = 30 cm và k = 200 N/m",
+        "C. l 0 = 33 cm và k = 100 N/m.",
+        "D. l 0 = 33 cm và k = 200 N/m."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là A + Khi treo vật m 1 = 100g = 0,1kg thì l 1 = 31 cm = 0,31 m k( l 1 - l 0 ) = m 1 g = 1 (1) + Khi treo thêm vào lò xo vật m 2 = 100g = 0,1kg thì l 2 = 32 cm = 0,32 m k( l 2 - l 0 ) = (m 1 + m­ 2 ) g = 2 (2)"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Một lò xo có các vòng giống hệt nhau, có chiều dài tự nhiên là l 0 = 24 cm, độ cứng k = 100 N/m. Người ta cắt lò xo này thành hai lò xo có chiều dài tự nhiên l 1 = 8 cm, l 2 = 16 cm. Độ cứng k 1 , k 2 của mỗi lò xo tạo thành có giá trị là:",
+      "options": [
+        "A. k 1 = 300 N/m; k 2­ = 150 N/m.",
+        "B. k 1 = 150 N/m; k 2­ = 300 N/m.",
+        "C. k 1 = 150 N/m; k 2­ = 150 N/m.",
+        "D. k 1 = 300 N/m; k 2­ = 300 N/m."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là A Ta có: k l 0 = k 1 l 1 = k 2 l 2 Û 100. 0,24 = k 1 .0,08 = k 2 . 0,16 Þ k 1 = 300 N/m; k 2­ = 150 N/m."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Hai lò xo có khối lượng không đáng kể, có độ cứng lần lượt là k 1 = 1 N/cm, k 2 = 150 N/m được mắc như hình vẽ. Độ cứng của hệ hai lò xo ghép là bao nhiêu?",
+      "options": [
+        "A. 160 N/m.",
+        "B. 250 N/m.",
+        "C. 60 N/m.",
+        "D. 50 N/m."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là B Đổi k 1 = 1 N/cm = 100 N/m Hệ hai lò xo ghép song song nên độ cứng của hệ: k // = k 1 + k 2 = 250 N/m"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Chọn các nhận xét đúng về biến dạng của lò xo trong Hình 22.1, biết Hình 22.1a thể hiện lò xo đang có chiều dài tự nhiên.",
+      "options": [
+        "A. Hình 22.1b cho thấy lò xo có biến dạng dãn.",
+        "B. Hình 22.1b cho thấy lò xo có biến dạng nén.",
+        "C. Hình 22.1c cho thấy lò xo có biến dạng dãn.",
+        "D. Hình 22.1c cho thấy lò xo có biến dạng nén."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B và C Biến dạng nén: chiều dài của vật ngắn hơn chiều dài tự nhiên. Biến dạng dãn: chiều dài của vật lớn hơn chiều dài tự nhiên. Dựa vào hình vẽ ta thấy hình b đang có biến dạng nén, hình c đang có biến dạng dãn."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Đồ thị biểu diễn mối liên hệ giữa độ biến dạng của vật đàn hồi đối và lực tác dụng có dạng:",
+      "options": [
+        "A. đường cong hướng xuống.",
+        "B. đường cong hướng lên.",
+        "C. đường thẳng không đi qua gốc tọa độ.",
+        "D. đường thẳng đi qua gốc tọa độ."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Trong giới hạn đàn hồi của vật, lực đàn hồi và độ biến dạng tỉ lệ thuận với nhau nên đồ thị biểu diễn mỗi quan hệ của chúng có dạng một đường thẳng đi qua gốc tọa độ."
+    }
+  ]
+}

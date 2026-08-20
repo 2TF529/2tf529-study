@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Lịch sử làm bài</title>
+<script>(function(){var d=document.documentElement;d.setAttribute("data-theme", localStorage.getItem("theme") || (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light"));d.setAttribute("data-palette", localStorage.getItem("palette") || "9");})();</script>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <h1>Giao diện thi trên máy tính</h1>
+  <div class="badge">LỊCH SỬ LÀM BÀI</div>
+</header>
+<nav class="top-nav">
+  <button class="hamburger" id="hamburger-btn" aria-label="Menu">☰</button>
+  <div class="nav-links">
+    <a href="index.html" class="nav-link">Trang chủ</a>
+    <a href="explore.html" class="nav-link">Tìm đề thi</a>
+    <a href="on-tap.html" class="nav-link">Ôn theo dạng</a>
+    <a href="lich-su.html" class="nav-link active">Lịch sử</a>
+    <a href="ung-ho.html" class="nav-link">Ủng hộ</a>
+  </div>
+  <div class="nav-controls">
+    <select id="palette-select" class="palette-select" aria-label="Chọn tông màu">
+      <option value="1">🔵 Xanh dương - be ấm</option>
+      <option value="2">🟢 Xanh lá - cam đất</option>
+      <option value="3">🟣 Tím - hồng pastel</option>
+      <option value="4">🔷 Navy dịu + màu môn học</option>
+      <option value="5">🌊 Đại dương cyan</option>
+      <option value="6">🌸 Hoa anh đào</option>
+      <option value="7">🔥 Lửa ấm</option>
+      <option value="8">🌿 Rừng xanh</option>
+      <option value="9">🖤 Monochrome</option>
+      <option value="10">☕ Cà phê vintage</option>
+    </select>
+    <button class="theme-toggle" id="theme-toggle" aria-label="Chuyển giao diện">🌙</button>
+  </div>
+</nav>
+
+<div class="container">
+  <div class="page-title">Lịch sử làm bài</div>
+
+  <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:14px;flex-wrap:wrap;gap:8px;">
+    <div class="result-count" id="history-count"></div>
+    <button class="btn secondary" id="clear-btn" style="font-size:12px;padding:6px 14px;">Xoá lịch sử</button>
+  </div>
+
+  <div class="exam-list" id="history-list"></div>
+</div>
+
+<script src="js/theme.js"></script>
+<script src="js/history.js?v=20260819-1"></script>
+<script src="js/calculator.js?v=20260819-1"></script>
+<script src="js/whiteboard.js?v=20260819-1"></script>
+<script src="js/translate.js?v=20260819-1"></script>
+<script src="js/security.js?v=20260821-1"></script>
+<script src="js/shield.js?v=20260821-1"></script>
+<script src="js/sw-register.js?v=20260819-1"></script>
+</body>
+</html>

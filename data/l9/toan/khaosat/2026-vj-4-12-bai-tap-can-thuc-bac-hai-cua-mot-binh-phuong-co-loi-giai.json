@@ -1,0 +1,78 @@
+{
+  "id": "2026-vj-4-12-bai-tap-can-thuc-bac-hai-cua-mot-binh-phuong-co-loi-giai",
+  "sourceId": "vietjack:4-12-bai-tap-can-thuc-bac-hai-cua-mot-bi",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "4.12 bài tập Căn thức bậc hai của một bình phương có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Rút gọn biểu thức \\(\\sqrt {{x^2} + 2x + 1} \\) với x > −1 là",
+      "options": [
+        "A. x + 1.",
+        "B. x – 1.",
+        "C. 1 – x.",
+        "D. −x – 1."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có: \\(\\sqrt {{x^2} + 2x + 1} = \\sqrt {{{\\left( {x + 1} \\right)}^2}} = x + 1\\) (do x > −1)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Rút gọn biểu thức \\(\\sqrt {{x^2} - 10x + 25} \\) với x < 5 là",
+      "options": [
+        "A. x – 5.",
+        "B. x + 5.",
+        "C. 5 – x.",
+        "D. −x – 5."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có: \\(\\sqrt {{x^2} - 10x + 25} = \\sqrt {{{\\left( {x - 5} \\right)}^2}} = \\left| {x - 5} \\right| = 5 - x\\) (do x < 5)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Rút gọn biểu thức \\(\\sqrt {{{\\left( {3 - \\sqrt {10} } \\right)}^2}} \\) ta được",
+      "options": [
+        "A. \\(\\sqrt {10} - 3\\).",
+        "B. \\(3 - \\sqrt {10} \\).",
+        "C. \\(\\sqrt {10} + 3\\).",
+        "D. \\( - \\sqrt {10} - 3\\)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A \\(\\sqrt {{{\\left( {3 - \\sqrt {10} } \\right)}^2}} = \\left| {3 - \\sqrt {10} } \\right| = \\sqrt {10} - 3\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Rút gọn biểu thức A = \\(\\sqrt {x + 2\\sqrt {x - 1} } - \\sqrt {x - 2\\sqrt {x - 1} } \\) với mọi x ≥ 2 được",
+      "options": [
+        "A. 0.",
+        "B. \\(2\\sqrt {x - 1} \\).",
+        "C. 2.",
+        "D. \\( - 2\\sqrt {x - 1} \\)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Với mọi x ≥ 2, ta có: A = \\(\\sqrt {x + 2\\sqrt {x - 1} } - \\sqrt {x - 2\\sqrt {x - 1} } \\) = \\(\\sqrt {x - 1 + 2\\sqrt {x - 1} + 1} - \\sqrt {x - 1 - 2\\sqrt {x - 1} + 1} \\) = \\(\\sqrt {{{\\left( {\\sqrt {x - 1} + 1} \\right)}^2}} - \\sqrt {{{\\left( {\\sqrt {x - 1} + 1} \\right)}^2}} \\) = \\(\\sqrt {x - 1} + 1 - \\left( {\\sqrt {x - 1} + 1} \\right)\\) = \\(\\sqrt {x - 1} + 1 - \\sqrt {x - 1} - 1 = 0\\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Rút gọn biểu thức \\(B = \\sqrt {x + 4\\sqrt {x - 4} } + \\sqrt {x - 4\\sqrt {x - 4} } \\) với 4 ≤ x ≤ 8 được",
+      "options": [
+        "A. 4.",
+        "B. 0 .",
+        "C. \\(\\sqrt {x - 4} \\).",
+        "D. \\(2\\sqrt {x - 4} \\)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Với 4 ≤ x ≤ 8, ta có: \\(B = \\sqrt {x + 4\\sqrt {x - 4} } + \\sqrt {x - 4\\sqrt {x - 4} } \\) \\(B = \\sqrt {x - 4 + 4\\sqrt {x - 4} + 4} + \\sqrt {x - 4 - 4\\sqrt {x - 4} + 4} \\) \\(B = \\sqrt {{{\\left( {\\sqrt {x - 4} + 2} \\right)}^2}} + \\sqrt {{{\\left( {\\sqrt {x - 4} - 2} \\right)}^2}} \\) B = \\(\\sqrt {x - 4} \\) + 2 + \\(\\left| {\\sqrt {x - 4} - 2} \\right|\\) B = \\(\\sqrt {x - 4} \\) + 2 + 2 − \\(\\sqrt {x - 4} \\) B = 4."
+    }
+  ]
+}

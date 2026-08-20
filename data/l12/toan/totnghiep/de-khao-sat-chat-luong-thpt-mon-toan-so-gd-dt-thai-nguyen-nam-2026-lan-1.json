@@ -1,0 +1,196 @@
+{
+  "id": "l12-toan-totnghiep-2026-de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-thai-nguyen-nam-2026-lan-1",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "code": "THPT_TKT_2026_TN_01",
+  "title": "Đề khảo sát chất lượng THPT môn Toán Sở GD&ĐT Thái Nguyên năm 2026 - Lần 1",
+  "duration": 90,
+  "answerSource": "official",
+  "source": "https://dolthpt.vn/tot-nghiep-thpt/pdf-de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-thai-nguyen-nam-2026-lan-1-co-dap-an",
+  "notes": "Nội dung, đáp án và lời giải được nhập từ bản công khai của DOL THPT.",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "content": "Cho hình chóp $S.ABCD$ có $SA$ vuông góc với mặt phẳng $(ABCD)$, tứ giác $ABCD$ là hình vuông, $SA=3$ và $AB=1$. Thể tích của khối chóp $S.ABCD$ bằng",
+      "chuong": "quan hệ vuông góc trong không gian",
+      "dang": "thể tích",
+      "type": "single",
+      "options": [
+        "A. \\$2$",
+        "B. \\$1$",
+        "C. \\$3$",
+        "D. \\$9$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hình chóp $S.ABCD$ có $SA$ vuông góc với mặt phẳng $(ABCD)$.\n- Tứ giác $ABCD$ là hình vuông.\n- $SA = 3$.\n- $AB = 1$.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi: Tính thể tích khối chóp $S.ABCD$.\n- Cần áp dụng công thức thể tích khối chóp: $V = \\frac{1}{3} S_{\\text{đáy}} \\cdot h.$\n- Xác định diện tích đáy $S_{ABCD}$ và chiều cao $h$ (độ dài đoạn vuông góc từ đỉnh đến mặt đáy).\n🔎 **Hướng dẫn cách làm:**\n- Vì $ABCD$ là hình vuông với cạnh $AB=1$, nên diện tích đáy là\n$S_{ABCD}=AB^2=1^2=1.$\n- Do $SA\\perp (ABCD)$, nên chiều cao của khối chóp chính là $SA$, tức\n$h=SA=3.$\n- Áp dụng công thức thể tích:\n$V=\\frac{1}{3}S_{ABCD}\\cdot h=\\frac{1}{3}\\cdot 1\\cdot 3=1.$\n- Vậy thể tích khối chóp bằng \\$1$.\n✅ **Đáp án: **Chọn B. \\$1$"
+    },
+    {
+      "id": 2,
+      "content": "Cho hình hộp $ABCD.EFGH$ (tham khảo hình vẽ). Đường thẳng $GF$ song song với mặt phẳng nào sau đây?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-thai-nguyen-nam-2026-lan-1/cau-02.webp\" alt=\"Hình minh họa câu 2\" loading=\"lazy\"></figure>",
+      "chuong": "quan hệ song song trong không gian",
+      "dang": "đường thẳng song song với mặt phẳng",
+      "type": "single",
+      "options": [
+        "A. $(ACGE)$",
+        "B. $(ABFE)$",
+        "C. $(ABCD)$",
+        "D. $(BDHF)$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hình hộp chữ nhật $ABCD.EFGH$ (theo hình vẽ).\n- Xét đường thẳng $GF$ (nằm trên mặt trên của hình hộp).\n- Hỏi: $GF$ song song với mặt phẳng nào trong các phương án đã cho?\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu xác định mặt phẳng nào trong các phương án sao cho $GF$ song song với mặt phẳng đó.\n- Cần vận dụng kiến thức: trong hình hộp, hai mặt đối diện (mặt trên và mặt dưới) là song song; một đường thẳng nằm trong một mặt phẳng sẽ song song với mặt phẳng song song với mặt phẳng chứa nó.\n🔎 **Hướng dẫn cách làm:**\n- Quan sát hình (mô tả hình): điểm $F$ và $G$ là hai đỉnh thuộc mặt trên $EFGH$, do đó $GF$ là một cạnh nằm hoàn toàn trong mặt phẳng $(EFGH)$.\n- Trong hình hộp, mặt trên $(EFGH)$ song song với mặt đáy $(ABCD)$. Ta có:\n$(EFGH)\\parallel (ABCD).$\n- Vì $GF\\subset (EFGH)$ và $(EFGH)\\parallel (ABCD),$ suy ra theo tính chất hình học:\n$GF\\parallel (ABCD).$\n- Vậy đường thẳng $GF$ song song với mặt phẳng $(ABCD)$.\n✅ **Đáp án:** C. $(ABCD)$"
+    },
+    {
+      "id": 3,
+      "content": "Nghiệm của phương trình $\\log_2(x-1)=3$ là",
+      "chuong": "hàm số mũ và hàm số lôgarit",
+      "dang": "phương trình lôgarit",
+      "type": "single",
+      "options": [
+        "A. $x=9$",
+        "B. $x=4$",
+        "C. $x=7$",
+        "D. $x=10$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Môn: MATH\n- Phương trình: $\\log_2(x-1)=3$\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu tìm nghiệm của phương trình $\\log_2(x-1)=3$.\n- Cần áp dụng định nghĩa logarit: nếu $\\log_a b = c$ thì tương đương với $b = a^c$.\n- Cần xét điều kiện xác định của logarit: biểu thức trong dấu log phải dương, tức là $x-1>0$.\n🔎 **Hướng dẫn cách làm:**\n- Áp dụng định nghĩa logarit: từ $\\log_2(x-1)=3$ ta có - $x-1 = 2^3.$\n- Tính lũy thừa: - \\$2^3=8,$ nên $x-1=8.$\n- Giải để tìm $x$: - $x=8+1=9.$\n- Kiểm tra điều kiện xác định: - Cần $x-1>0$; với $x=9$ thì \\$9-1=8>0$, thỏa điều kiện. Vậy nghiệm hợp lệ.\n✅ **Đáp án:** Chọn  A. $x=9$"
+    },
+    {
+      "id": 4,
+      "content": "Cho hàm số đa thức bậc bốn $y=f(x)$ có đồ thị như hình vẽ. Hàm số đã cho đồng biến trên khoảng nào dưới đây?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-thai-nguyen-nam-2026-lan-1/cau-04.webp\" alt=\"Hình minh họa câu 4\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "tính đơn điệu của hàm số",
+      "type": "single",
+      "options": [
+        "A. $(-1;0)$",
+        "B. $(-\\infty;-1)$",
+        "C. $(-\\infty;1)$",
+        "D. $(-1;+\\infty)$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số là đa thức bậc bốn $y=f(x)$ có đồ thị như hình vẽ (hàm chẵn, đối xứng qua trục $Oy$).\n- Đồ thị có hai cực đại tại $x=-1$ và $x=1$, cùng một cực tiểu tại $x=0$.\n- Đồ thị đi lên khi tiến về điểm cực đại từ bên trái và đi xuống sau cực đại; tương tự cho các đoạn khác (các đầu mút của đồ thị giật xuống âm vô cùng).\n❓ **Hiểu câu hỏi:**\n- Câu hỏi: \"Hàm số đã cho đồng biến trên khoảng nào dưới đây?\"\n🔎 **Hướng dẫn cách làm:**\n- Quan sát các cực trị đã cho: cực đại tại $x=-1$, cực tiểu tại $x=0$, cực đại tại $x=1$.\n- Xét từng khoảng giữa các điểm đặc biệt này, nhìn chiều đồ thị từ trái sang phải: - Trên khoảng $(-\\infty,-1)$: khi $x$ tăng đến $-1$, đồ thị đi lên đến cực đại tại $x=-1$. Do đó hàm đồng biến trên $(-\\infty,-1)$.\n  - Trên khoảng $(-1,0)$: từ cực đại tại $-1$ đến cực tiểu tại \\$0$, đồ thị đi xuống ⇒ hàm nghịch biến trên $(-1,0)$.\n  - Trên khoảng $(0,1)$: từ cực tiểu tại \\$0$ đến cực đại tại \\$1$, đồ thị đi lên ⇒ hàm đồng biến trên $(0,1)$.\n  - Trên khoảng $(1,+\\infty)$: sau cực đại tại \\$1$ đồ thị đi xuống ⇒ hàm nghịch biến trên $(1,+\\infty)$.\n- Tổng kết: hàm đồng biến trên hai khoảng $(-\\infty,-1)$ và $(0,1)$. Trong các phương án cho sẵn, chỉ có phương án chứa đúng một khoảng đồng biến có sẵn là $(-\\infty;-1)$; các phương án khác sai vì: - A: $(-1;0)$ là khoảng nghịch biến.\n  - C: $(-\\infty;1)$ không đúng vì trên đoạn $(-1,0)$ hàm không đồng biến.\n  - D: $(-1;+\\infty)$ không đúng vì trên $(1,+\\infty)$ hàm không đồng biến.\n✅ **Đáp án: **Chọn  $B. (-\\infty;-1)$"
+    },
+    {
+      "id": 5,
+      "content": "Tiệm cận ngang của đồ thị hàm số $y=\\dfrac{2x-5}{x+2}$ là đường thẳng có phương trình",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "đường tiệm cận ngang",
+      "type": "single",
+      "options": [
+        "A. $y=-2$",
+        "B. $y=\\dfrac{5}{2}$",
+        "C. $y=\\dfrac{2}{5}$",
+        "D. $y=2$"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số $y=\\dfrac{2x-5}{x+2}$\n- Yêu cầu: tìm tiệm cận ngang của đồ thị hàm số.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi hỏi: phương trình của tiệm cận ngang của đồ thị hàm số cho trước là gì.\n- Kiến thức cần dùng: so sánh bậc đa thức ở tử và mẫu; khi bậc tử bằng bậc mẫu thì tiệm cận ngang là đường thẳng có phương trình bằng tỉ số các hệ số dẫn đầu; cũng có thể chứng minh bằng giới hạn khi $x\\to\\pm\\infty$.\n🔎 **Hướng dẫn cách làm:**\n- Xác định bậc của tử và mẫu: cả tử \\$2x-5$ và mẫu $x+2$ đều là đa thức bậc 1, nên bậc bằng nhau.\n- Quy tắc: nếu bậc tử bằng bậc mẫu thì tiệm cận ngang là $y=\\dfrac{\\text{hệ số của } x \\text{ ở tử}}{\\text{hệ số của } x \\text{ ở mẫu}}.$\nỨng dụng ở đây: hệ số dẫn đầu tử là \\$2$, hệ số dẫn đầu mẫu là \\$1$, nên tiệm cận ngang là $y=\\dfrac{2}{1}=2.$\n- Kiểm tra bằng giới hạn:\n$\\lim_{x\\to\\infty}\\dfrac{2x-5}{x+2}=\\lim_{x\\to\\infty}\\dfrac{2-\\tfrac{5}{x}}{1+\\tfrac{2}{x}}= \\dfrac{2-0}{1+0}=2.$\nTương tự $\\lim_{x\\to-\\infty}\\dfrac{2x-5}{x+2}=2.$\nVì vậy đường ngang tiếp xúc ở vô cực là $y=2.$\n✅ **Đáp án:** Chọn D. $y=2$"
+    },
+    {
+      "id": 6,
+      "content": "Nguyên hàm của hàm số $f(x)=2^x+x$ là",
+      "chuong": "nguyên hàm và tích phân",
+      "dang": "nguyên hàm của một số hàm số thường gặp",
+      "type": "single",
+      "options": [
+        "A. $\\dfrac{2^x}{\\ln 2}+x^2+C$",
+        "B. $\\dfrac{2^x}{\\ln 2}+\\dfrac{x^2}{2}+C$",
+        "C. \\$2^x+\\dfrac{x^2}{2}+C$",
+        "D. \\$2^x+x^2+C$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cần tìm nguyên hàm của hàm số $f(x)=2^x+x$.\n❓ **Hiểu câu hỏi:**\n- Ta cần tìm một hàm $F(x)$ sao cho $F'(x)=f(x)$.\n- Muốn làm được, ta tính $\\int \\left(2^x+x\\right),dx$.\n- Dùng hai công thức quen thuộc: $\\int a^x,dx=\\frac{a^x}{\\ln }a}+C \\quad (a>0,\\ a\\ne 1)$ và $\\int x,dx=\\frac{x^2}{2}+C$.\n🔎 **Hướng dẫn cách làm:**\n- Ta viết nguyên hàm cần tìm là $\\int \\left(2^x+x\\right),dx$.\n- Dùng tính chất nguyên hàm của tổng: $\\int \\left(2^x+x\\right),dx=\\int 2^x,dx+\\int x,dx$.\n- Với phần thứ nhất, ta có $\\int 2^x,dx=\\frac{2^x}{\\ln }2}$ vì đạo hàm của \\$2^x$ là \\$2^x\\ln 2$.\n- Với phần thứ hai, ta có $\\int x,dx=\\frac{x^2}{2}$.\n- Cộng hai kết quả lại, ta được $\\int \\left(2^x+x\\right),dx=\\frac{2^x}{\\ln }2}+\\frac{x^2}{2}+C$.\n- So sánh với các đáp án đã cho, biểu thức đúng là đáp án $B$.\n✅ **Đáp án:** Chọn B. $\\frac{2^x}{\\ln }2}+\\frac{x^2}{2}+C$"
+    },
+    {
+      "id": 7,
+      "content": "Đồ thị của hàm số nào dưới đây có dạng như đường cong trong hình vẽ?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-thai-nguyen-nam-2026-lan-1/cau-07.webp\" alt=\"Hình minh họa câu 7\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "khảo sát và vẽ đồ thị hàm số đa thức bậc ba",
+      "type": "single",
+      "options": [
+        "A. $y=\\dfrac{2x-1}{x+2}$",
+        "B. $y=x^3-3x+1$",
+        "C. $y=-x^3+3x+1$",
+        "D. $y=\\dfrac{x^2-1}{2x-1}$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hình vẽ cho thấy đồ thị có dạng của một hàm bậc ba, với nhánh trái đi xuống và nhánh phải đi lên.\n- Các đáp án gồm: hai hàm phân thức và hai hàm bậc ba.\n❓ **Hiểu câu hỏi:**\n- Ta cần chọn hàm số có dạng đồ thị giống hình đã cho.\n- Muốn làm nhanh, ta nhìn dấu của hệ số bậc cao nhất và dạng chung của đồ thị.\n🔎 **Hướng dẫn cách làm:**\n- Đồ thị đã cho có dạng hàm bậc ba, không thể là hàm phân thức. Vậy loại $A$ và $D$.\n- Nhánh trái đi xuống, nhánh phải đi lên nên hệ số của $x^3$ phải dương. Vì thế loại $C$, chỉ còn $B$.\n- Với $y=x^3-3x+1$, ta có $y'=3x^2-3=3(x-1)(x+1)$, nên đồ thị có một cực đại và một cực tiểu, đúng với hình vẽ.\n✅ **Đáp án:** Chọn B. $y=x^3-3x+1$"
+    },
+    {
+      "id": 8,
+      "content": "Trong không gian với hệ tọa độ $Oxyz$, hình chiếu vuông góc của điểm $M(2;1;-1)$ trên mặt phẳng $(Oxz)$ có tọa độ là",
+      "chuong": "vectơ và hệ trục tọa độ trong không gian",
+      "dang": "tọa độ của điểm, tọa độ của vectơ trong không gian",
+      "type": "single",
+      "options": [
+        "A. $(0;1;0)$",
+        "B. $(2;1;0)$",
+        "C. $(0;1;-1)$",
+        "D. $(2;0;-1)$"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Điểm đã cho là $M(2;1;-1)$ và cần tìm hình chiếu vuông góc của điểm này trên mặt phẳng $(Oxz)$.\n❓ **Hiểu câu hỏi:**\n- Ta cần tìm tọa độ hình chiếu vuông góc của điểm $M$ lên mặt phẳng $(Oxz)$.\n- Mặt phẳng $(Oxz)$ có phương trình $y=0$.\n- Khi chiếu vuông góc lên $(Oxz)$, hoành độ và tung độ theo trục $z$ giữ nguyên, còn tung độ $y$ trở thành \\$0$.\n🔎 **Hướng dẫn cách làm:**\n- Điểm $M$ có tọa độ $\\left(2;1;-1\\right)$.\n- Vì chiếu lên mặt phẳng $(Oxz)$ nên ta cho $y=0$.\n- Giữ nguyên $x=2$ và $z=-1$, nên hình chiếu là $\\left(2;0;-1\\right)$.\n- Đối chiếu các đáp án, ta chọn đáp án $D$.\n✅ **Đáp án:** Chọn D. $\\left(2;0;-1\\right)$"
+    },
+    {
+      "id": 9,
+      "content": "Cho cấp số cộng $(u_n)$ có $u_1=2$ và $u_4=11$. Công sai của cấp số cộng đã cho bằng",
+      "chuong": "dãy số. cấp số cộng và cấp số nhân",
+      "dang": "số hạng tổng quát của cấp số cộng",
+      "type": "single",
+      "options": [
+        "A. \\$1$",
+        "B. \\$2$",
+        "C. \\$4$",
+        "D. \\$3$"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cấp số cộng $(u_n)$.\n- $u_1 = 2$.\n- $u_4 = 11$.\n- Yêu cầu: tìm công sai của cấp số cộng (ký hiệu là $d$).\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu tìm công sai $d$ của một cấp số cộng.\n- Cần vận dụng công thức số hạng tổng quát của cấp số cộng: $u_n = u_1 + (n-1)d$.\n🔎 **Hướng dẫn cách làm:**\n- Viết công thức tổng quát: $u_n = u_1 + (n-1)d$.\n- Áp dụng cho $n=4$: $u_4 = u_1 + (4-1)d$.\n- Thay số đã biết: \\$11 = 2 + 3d$.\n- Giải phương trình để tìm $d$: - Trừ 2 hai vế: \\$11 - 2 = 3d$.\n  - Suy ra: \\$9 = 3d$.\n  - Do đó: $d = \\dfrac{9}{3} = 3$.\n- Kiểm tra nhanh: nếu $d=3$ thì dãy là \\$2,5,8,11,...$ và đúng $u_4=11$.\n✅ **Đáp án: **Chọn D. \\$3$"
+    },
+    {
+      "id": 10,
+      "content": "Trong không gian với hệ tọa độ $Oxyz$, cho vectơ $\\vec a=(2;-1;3)$, $\\vec b=(1;3;-2)$. Tọa độ của vectơ $\\vec c=\\vec a-2\\vec b$ là",
+      "chuong": "vectơ và hệ trục tọa độ trong không gian",
+      "dang": "biểu thức tọa độ của phép cộng hai vectơ, phép trừ hai vectơ, phép nhân một số với một vectơ",
+      "type": "single",
+      "options": [
+        "A. $(0;-7;7)$",
+        "B. $(4;-7;7)$",
+        "C. $(0;7;7)$",
+        "D. $(0;-7;-7)$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cho vectơ $\\vec a=(2;-1;3)$.\n- Cho vectơ $\\vec b=(1;3;-2)$.\n- Yêu cầu tìm tọa độ của $\\vec c=\\vec a-2\\vec b$.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu tính toán vectơ $\\vec c$ bằng cách lấy hiệu giữa $\\vec a$ và gấp đôi $\\vec b$.\n- Cần áp dụng hai kiến thức cơ bản về vectơ: nhân vectơ với một số (nhân vô hướng) và phép cộng/trừ vectơ theo từng thành phần.\n🔎 **Hướng dẫn cách làm:**\n- Tính \\$2\\vec b$ bằng cách nhân từng thành phần của $\\vec b$ với 2:\n- Lấy hiệu theo từng thành phần:\n- Tính từng thành phần:\n- Vậy tọa độ của $\\vec c$ là $(0;-7;7)$.\n✅ **Đáp án:** Chọn A. $(0;-7;7)$"
+    },
+    {
+      "id": 11,
+      "content": "Mỗi ngày bác An đều đi bộ để rèn luyện sức khỏe. Quãng đường đi bộ mỗi ngày của bác An trong \\$20$ ngày được thống kê ở bảng sau. Khoảng tứ phân vị của mẫu số liệu ghép nhóm trên là\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-thai-nguyen-nam-2026-lan-1/cau-11.webp\" alt=\"Hình minh họa câu 11\" loading=\"lazy\"></figure>",
+      "chuong": "các số đặc trưng đo mức độ phân tán cho mẫu số liệu ghép nhóm",
+      "dang": "khoảng tứ phân vị",
+      "type": "single",
+      "options": [
+        "A. \\$0,5$",
+        "B. \\$0,9$",
+        "C. \\$0,575$",
+        "D. \\$0,975$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Quãng đường (km) theo các lớp: $[2{,}7;3{,}0),\\;[3{,}0;3{,}3),\\;[3{,}3;3{,}6),\\;[3{,}6;3{,}9),\\;[3{,}9;4{,}2)$\n- Số ngày (tần số) tương ứng: \\$3,\\;6,\\;5,\\;4,\\;2$\n- Tổng số quan sát: $N=20$\n- Bước lớp (độ rộng lớp) mỗi lớp: $h=0{,}3$\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu tìm \"khoảng tứ phân vị\" (khoảng IQR = $Q_3 - Q_1$) của mẫu ghép nhóm.\n- Cần áp dụng công thức tính tứ phân vị cho dữ liệu ghép nhóm (nội suy tuyến tính trong lớp chứa tứ phân vị).\n🔎 **Hướng dẫn cách làm:**\n- Tính tần số tích lũy từng lớp: - Sau lớp 1: \\$3$\n  - Sau lớp 2: \\$3+6=9$\n  - Sau lớp 3: \\$9+5=14$\n  - Sau lớp 4: \\$14+4=18$\n  - Sau lớp 5: \\$18+2=20$\n- Vị trí tứ phân vị: - $Q_1$ tại vị trí \\$0{,}25N=0{,}25\\times20=5$ (quan sát thứ 5) → nằm trong lớp 2 $[3{,}0;3{,}3)$.\n  - $Q_3$ tại vị trí \\$0{,}75N=0{,}75\\times20=15$ (quan sát thứ 15) → nằm trong lớp 4 $[3{,}6;3{,}9)$.\n- Công thức tính cho dữ liệu ghép nhóm: - $Q_1 = L_1 + \\dfrac{0{,}25N - F_0}{f_1}\\times h$ - Với lớp 2: $L_1=3{,}0,\\;F_0=3\\;(\\text{tần số tích lũy trước lớp}),\\;f_1=6$\n    - Thay số: $Q_1 = 3{,}0 + \\dfrac{5-3}{6}\\times0{,}3 = 3{,}0 + \\dfrac{2}{6}\\times0{,}3 = 3{,}0 + 0{,}1 = 3{,}1$\n  - $Q_3 = L_3 + \\dfrac{0{,}75N - F_0}{f_3}\\times h$ - Với lớp 4: $L_3=3{,}6,\\;F_0=14,\\;f_3=4$\n    - Thay số: $Q_3 = 3{,}6 + \\dfrac{15-14}{4}\\times0{,}3 = 3{,}6 + \\dfrac{1}{4}\\times0{,}3 = 3{,}6 + 0{,}075 = 3{,}675$\n- Tính khoảng tứ phân vị (IQR): - $\\text{IQR} = Q_3 - Q_1 = 3{,}675 - 3{,}1 = 0{,}575$\n✅ **Đáp án: **Chọn C. \\$0,575$"
+    },
+    {
+      "id": 12,
+      "content": "Cho hàm số $f(x)$ có bảng biến thiên như hình vẽ. Giá trị cực tiểu của hàm số đã cho là\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-thai-nguyen-nam-2026-lan-1/cau-12.webp\" alt=\"Hình minh họa câu 12\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "cực trị của hàm số",
+      "type": "single",
+      "options": [
+        "A. $y=1$",
+        "B. $y=0$",
+        "C. $y=-1$",
+        "D. $y=2$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số $f(x)$ có bảng biến thiên (đã cho theo hình).\n- Tại các điểm mốc: $x=-1,\\,0,\\,1$ giá trị hàm lần lượt là $f(-1)=2,\\;f(0)=1,\\;f(1)=2$ (theo bảng).\n- Dấu của đạo hàm $f'(x)$ trên các khoảng: $(-\\infty,-1):+,\\;(-1,0):-,\\;(0,1):+,\\;(1,\\infty):-.$\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu xác định *giá trị cực tiểu* của hàm số đã cho.\n- Kiến thức cần dùng: định nghĩa điểm cực tiểu (điểm mà đạo hàm đổi từ âm sang dương) và đọc giá trị hàm từ bảng biến thiên.\n🔎 **Hướng dẫn cách làm:**\n- Từ bảng biến thiên (mô tả hình): chú ý dấu của $f'(x)$: - Trên khoảng $(-1,0)$, $f'(x)<0$ (hàm giảm).\n  - Trên khoảng $(0,1)$, $f'(x)>0$ (hàm tăng).\n- Khi $f'(x)$ đổi dấu từ âm sang dương tại $x=0$ thì $x=0$ là một điểm **cực tiểu địa phương**.\n- Giá trị của hàm tại điểm đó theo bảng là $f(0)=1$.\n- Các điểm khác: tại $x=-1$ và $x=1$ đạo hàm đổi dấu từ dương sang âm nên là cực đại; không phải cực tiểu.\n- Do đó giá trị cực tiểu của hàm là $y=1$.\n✅ **Đáp án:** A. $y=1$"
+    }
+  ]
+}

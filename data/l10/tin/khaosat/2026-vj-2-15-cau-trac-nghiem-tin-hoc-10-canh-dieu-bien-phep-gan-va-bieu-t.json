@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-15-cau-trac-nghiem-tin-hoc-10-canh-dieu-bien-phep-gan-va-bieu-t",
+  "sourceId": "vietjack:2-15-cau-trac-nghiem-tin-hoc-10-canh-die",
+  "grade": "l10",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.15 câu Trắc nghiệm Tin học 10 Cánh diều Biến, phép gán và biểu thức số học có đáp án (Phần 2)",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Trong các tên sau, tên nào là tên biến đúng trong ngôn ngữ lập trình Python?",
+      "options": [
+        "A. 12",
+        "B. and",
+        "C. Not",
+        "D. A"
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Tên biến không bắt đầu bằng số, không trùng với từ khóa."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Trong các tên sau, tên nào không phải biến trong ngôn ngữ lập trình Python.",
+      "options": [
+        "A. X",
+        "B. Y",
+        "C. or",
+        "D. B"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Tên biến không được trùng với từ khóa (or là 1 từ khóa trong Python)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Đâu là quy tắc đúng khi đặt tên biến trong Python?",
+      "options": [
+        "A. Tên biến có thể bắt đầu bằng dấu gạch dưới “_” hoặc số.",
+        "B. Tên biến có thể bắt đầu bằng dấu gạch dưới “_” hoặc chữ cái.",
+        "C. Tên biến có thể có các kí hiệu như !, @, #.",
+        "D. Tên biến không phân biệt chữ hoa và chữ thường."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Tên biến có thể bắt đầu bằng dấu gạch dưới “_” hoặc chữ cái."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Trong ngôn ngữ lập trình Python, câu lệnh nào sau đây là khai báo biến?",
+      "options": [
+        "A. x= “Tin hoc ket noi tri thuc”",
+        "B. x<>100",
+        "C. x==100",
+        "D. x!=100"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Đáp án B là biểu thức điều kiện, đáp án C là phép so sánh bằng, đáp án D là phép so sánh không bằng."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Trong phép toán số học với số nguyên, phép toán chia lấy phần nguyên trong Python là:",
+      "options": [
+        "A. %",
+        "B. //",
+        "C. **",
+        "D. div"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Phép toán chia lấy phần nguyên là // Phép toán chia lấy phần dư là % Phép toán lũy thừa là ** Trong python k chứa div"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong các phép toán trong dữ liệu kiểu số, trong Python phép toán nào có ưu tiên cao nhất?",
+      "options": [
+        "A. **",
+        "B. //",
+        "C. %",
+        "D. *, /"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Nếu có các phép tính cộng, trừ, nhân, chia, nâng lên lũy thừa, ta thực hiện phép tính nâng lên lũy thừa trước, rồi đến phép nhân và phép chia, cuối cùng đến phép cộng và trừ."
+    }
+  ]
+}

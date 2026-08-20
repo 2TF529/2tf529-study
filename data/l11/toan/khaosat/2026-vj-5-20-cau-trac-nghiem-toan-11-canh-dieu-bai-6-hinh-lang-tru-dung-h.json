@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-5-20-cau-trac-nghiem-toan-11-canh-dieu-bai-6-hinh-lang-tru-dung-h",
+  "sourceId": "vietjack:5-20-cau-trac-nghiem-toan-11-canh-dieu-b",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "5.20 câu trắc nghiệm Toán 11 Cánh diều Bài 6. Hình lăng trụ đứng, hình chóp đều. Thể tích của một số hình khối (Đúng sai - trả lời ngắn) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: TRẮC NGHIỆM NHIỀU LỰA CHỌN Cho hình lăng trụ đứng tam giác ABC.A'B'C'. Khẳng định nào sau đây sai?",
+      "options": [
+        "A. Các mặt bên của lăng trụ là các hình chữ nhật bằng nhau.",
+        "B. Các cạnh bên của lăng trụ bằng nhau và vuông góc với đáy.",
+        "C. Hai mặt đáy song song với nhau.",
+        "D. Hai tam giác ở 2 mặt đáy là hai tam giác bằng nhau."
+      ],
+      "answer": "A",
+      "note": "A Các mặt bên của lăng trụ là các hình chữ nhật."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hình chóp tứ giác đều S.ABCD có O là tâm của đáy. Khẳng định nào sau đây đúng?",
+      "options": [
+        "A. SO ^ AC.",
+        "B. SA ^ AC.",
+        "C. SO ^ SC.",
+        "D. SA ^ AB."
+      ],
+      "answer": "A",
+      "note": "A Vì S.ABCD đều nên SO ^ (ABCD) Þ SO ^ AC."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho hình lập phương ABCD.A'B'C'D'. Chọn khẳng định sai.",
+      "options": [
+        "A. (ABCD) ^ (ABB'A').",
+        "B. (ABCD) ^ (ABC'D').",
+        "C. (ABCD) ^ (CDD'C').",
+        "D. (ABCD) ^ (C'D'B'A')."
+      ],
+      "answer": "B",
+      "note": "B Vì ABCD.A'B'C'D' là hình lập phương nên (ABCD) và (ABC'D') không vuông góc với nhau."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Chọn khẳng định đúng?",
+      "options": [
+        "A. Hình lăng trụ có các cạnh bên vuông góc với mặt đáy là hình lăng trụ đứng.",
+        "B. Hình lăng trụ có các cạnh bên song song với mặt đáy là hình lăng trụ đứng.",
+        "C. Các mặt bên hình lăng trụ đứng là tam giác đều.",
+        "D. Các mặt bên của hình lăng trụ đứng là tam giác."
+      ],
+      "answer": "A",
+      "note": "A Hình lăng trụ có các cạnh bên vuông góc với mặt đáy là hình lăng trụ đứng."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hình lập phương ABCD.A'B'C'D'. Góc giữa hai đường thẳng AB và A'C' bằng",
+      "options": [
+        "A. 60°.",
+        "B. 45°.",
+        "C. 90°.",
+        "D. 30°."
+      ],
+      "answer": "B",
+      "note": "B Ta có AB // A'B' nên (AB, A'C') = (A'B', A'C') = 45°."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho hình lập phương (như hình vẽ). Đường vuông góc chung của hai đường thẳng chéo nhau CD và AA' là",
+      "options": [
+        "A. BB'.",
+        "B. AD.",
+        "C. CA.",
+        "D. CC'."
+      ],
+      "answer": "B",
+      "note": "B Vì ABCD.A'B'C'D' là hình lập phương nên AA' ^ AD và AD ^ CD. Do đó AD là đoạn vuông góc chung của hai đường thẳng chéo nhau CD và AA'."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Cho hình hộp chữ nhật ABCD.A'B'C'D'. Tính khoảng cách từ A' đến mặt phẳng (ABCD) biết AA' = a.",
+      "options": [
+        "A. a.",
+        "B. 2a.",
+        "C. 3a.",
+        "D. \\(\\frac{a}{2}\\)."
+      ],
+      "answer": "A",
+      "note": "A Vì AA' ^ (ABCD) nên d(A', (ABCD)) = AA' = a."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho khối chóp diện tích đáy bằng S và chiều cao h. Khi đó thể tích V của khối chóp bằng:",
+      "options": [
+        "A. \\(V = \\frac{1}{2}S.h\\).",
+        "B. \\(V = \\frac{1}{3}S.h\\).",
+        "C. V = S.h.",
+        "D. \\(V = \\frac{1}{6}S.h\\)."
+      ],
+      "answer": "B",
+      "note": "B \\(V = \\frac{1}{3}S.h\\) ."
+    }
+  ]
+}

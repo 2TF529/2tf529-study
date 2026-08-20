@@ -1,0 +1,286 @@
+{
+  "id": "l12-li-totnghiep-2026-de-thi-thu-tn-thpt-vat-ly-truong-que-vo-1-tinh-bac-ninh-lan-1-2026",
+  "grade": "l12",
+  "subjectSlug": "li",
+  "examType": "totnghiep",
+  "year": 2026,
+  "code": "THPT_TTL_BN_2026_02",
+  "title": "Đề thi thử tốt nghiệp THPT môn Vật Lý Trường THPT Quế Võ 1 Sở GD&ĐT Bắc Ninh lần 1 năm 2026",
+  "duration": 50,
+  "answerSource": "official",
+  "source": "https://dolthpt.vn/tot-nghiep-thpt/pdf-de-thi-thu-tn-thpt-vat-ly-truong-que-vo-1-tinh-bac-ninh-lan-1-2026-co-dap-an",
+  "notes": "Nội dung, đáp án và lời giải được nhập từ bản công khai của DOL THPT.",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "content": "Nhiệt lượng cần cung cấp cho vật khi vật bắt đầu nóng chảy tới khi vật nóng chảy hoàn toàn phụ thuộc vào",
+      "chuong": "vật lí nhiệt",
+      "dang": "lý thuyết: nhiệt nóng chảy riêng",
+      "type": "single",
+      "options": [
+        "A. khối lượng của vật và tính chất của chất làm vật.",
+        "B. khối lượng của vật và nhiệt độ nóng chảy của chất làm vật.",
+        "C. nhiệt độ nóng chảy của chất làm vật và thời gian cung cấp năng lượng nhiệt cho vật.",
+        "D. tính chất của chất làm vật và nhiệt độ nóng chảy của chất làm vật."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Định nghĩa: Nhiệt ẩn nóng chảy (ký hiệu $\\lambda$) là nhiệt lượng cần cho mỗi đơn vị khối lượng để chuyển từ trạng thái rắn sang lỏng ở nhiệt độ nóng chảy.\n- Công thức cơ bản: Nhiệt lượng cần cung cấp để làm tan chảy hoàn toàn một vật có khối lượng $m$ là\n$Q=m\\lambda$\ntrong đó $Q$ là nhiệt lượng (J), $m$ là khối lượng (kg), $\\lambda$ là nhiệt nóng chảy riêng (J/kg).\n- Giải thích: Từ công thức thấy rõ $Q$ phụ thuộc tỉ lệ thuận vào $m$ và tỉ lệ thuận vào $\\lambda$ (tính chất của chất làm vật).\n✅ **Đáp án:** A. khối lượng của vật và tính chất của chất làm vật."
+    },
+    {
+      "id": 2,
+      "content": "Trong một xilanh hình trụ đặt thẳng đứng, piston có diện tích $S = 200 \\ cm^2$, có chứa đầy nước đóng băng ở nhiệt độ $t = 0^\\circ C$ (áp suất 1 atm). Trong xilanh có một thiết bị làm nóng có công suất tỏa nhiệt $P = 1 \\ kW$. Sau khi thiết bị được bật, piston bắt đầu hạ xuống. Khối lượng riêng của nước và nước đá lần lượt là $D_r = 1000 \\ kg/m^3$ và $D_d = 910 \\ kg/m^3$, nhiệt nóng chảy riêng của nước đá là $\\lambda = 3{,}4.10^5 \\ J/kg$. Bỏ qua sự trao đổi nhiệt của nước, nước đá với piston, xilanh và môi trường. Hỏi piston hạ xuống với tốc độ trung bình gần nhất với giá trị nào sau đây?",
+      "chuong": "vật lí nhiệt",
+      "dang": "thực tế: nhiệt nóng chảy riêng",
+      "type": "single",
+      "options": [
+        "A. \\$0{,}98 \\ mm/phút$",
+        "B. \\$0{,}91 \\ mm/phút$",
+        "C. \\$0{,}87 \\ mm/phút$",
+        "D. \\$0{,}62 \\ mm/phút$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Piston có diện tích $S = 200\\ \\text{cm}^2 = 0{,}02\\ \\text{m}^2$.\n- Nhiệt độ ban đầu của nước đá $t = 0^\\circ C$ (áp suất 1 atm).\n- Công suất bộ gia nhiệt $P = 1\\ \\text{kW} = 1000\\ \\text{W}$.\n- Khối lượng riêng của nước: $D_r = 1000\\ \\text{kg/m}^3$.\n- Khối lượng riêng của nước đá: $D_d = 910\\ \\text{kg/m}^3$.\n- Nhiệt nóng chảy riêng của nước đá: $\\lambda = 3{,}4\\cdot 10^5\\ \\text{J/kg}$.\n- Bỏ qua trao đổi nhiệt với piston, xilanh và môi trường.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu tìm tốc độ trung bình piston hạ xuống khi thiết bị gia nhiệt tan chảy nước đá với công suất cho trước.\n- Cần biết: lượng khối lượng tan chảy trên đơn vị thời gian từ công suất và nhiệt nóng chảy, rồi từ đó tính tốc độ thay đổi thể tích và suy ra tốc độ piston hạ (vì $\\Delta V = S\\cdot \\Delta h$).\n🔎 **Hướng dẫn cách làm:**\n- Tính tốc độ khối lượng tan chảy (khối lượng nước tạo ra trên đơn vị thời gian): - $\\frac{dm}{d}t}=\\frac{P}{\\lambd}a}.$\n  - Thay số: $\\frac{dm}{d}t}=\\frac{1000}{3}{,}4\\cdot10^5}\\ \\text{kg/s}\\approx 2{,}9412\\cdot10^{-3}\\ \\text{kg/s}.$\n- Thể tích riêng (thể tích trên một khối lượng) của nước và nước đá là $\\frac{1}{D_}r},\\ \\frac{1}{D_}d}$.\n- Tốc độ thay đổi thể tích do tan chảy (thể tích giảm khi băng chuyển thành nước): - $\\frac{dV}{d}t}=\\frac{dm}{d}t}\\left(\\frac{1}{D_}r}-\\frac{1}{D_}d}\\right).$\n  - Vì $\\frac{1}{D_}r}<\\frac{1}{D_}d}$ nên $\\frac{dV}{d}t}<0$ (thể tích giảm).\n  - Tính độ lớn (tốc độ giảm thể tích):\n$\\left|\\frac{dV}{d}t}\\right|=\\frac{dm}{d}t}\\left(\\frac{1}{D_}d}-\\frac{1}{D_}r}\\right).$\n  - Thay số:\n$\\left|\\frac{dV}{d}t}\\right|=2{,}9412\\cdot10^{-3}\\left(\\frac{1}{91}0}-\\frac{1}{100}0}\\right)\\ \\text{m}^3/\\text{s}.$\n$\\left(\\frac{1}{91}0}-\\frac{1}{100}0}\\right)=\\frac{1000-910}{910\\cdot100}0}=\\frac{90}{91000}0}\\approx9{,}8901\\cdot10^{-5}.$\n$\\left|\\frac{dV}{d}t}\\right|\\approx 2{,}9412\\cdot10^{-3}\\times9{,}8901\\cdot10^{-5}\\approx 2{,}9088\\cdot10^{-7}\\ \\text{m}^3/\\text{s}.$\n- Tốc độ piston hạ (chiều cao giảm trên đơn vị thời gian) liên hệ với tốc độ thể tích: - $v=\\frac{\\left|\\frac{dV}{d}t}\\right|}{S}.$\n  - Thay số:\n$v=\\frac{2{,}9088\\cdot10^{-7}}{0{,}02}\\ \\text{m/s}\\approx 1{,}4544\\cdot10^{-5}\\ \\text{m/s}.$\n- Chuyển sang mm/phút: - \\$1{,}4544\\cdot10^{-5}\\ \\text{m/s}=1{,}4544\\cdot10^{-2}\\ \\text{mm/s}.$\n  - Nhân 60 để được mm/phút:\n$v\\approx 1{,}4544\\cdot10^{-2}\\times60\\approx 0{,}87264\\ \\text{mm/phút}\\approx 0{,}87\\ \\text{mm/phút}.$\n✅ **Đáp án:** C. 0,87 mm/phút"
+    },
+    {
+      "id": 3,
+      "content": "Nguyên nhân nào sau đây là áp suất chất khí?",
+      "chuong": "khí lí tưởng",
+      "dang": "lý thuyết: thuyết động học phân tử chất khí",
+      "type": "single",
+      "options": [
+        "A. Do các phân tử khí chuyển động va chạm vào thành bình.",
+        "B. Do chất khí có khối lượng nhỏ.",
+        "C. Do các phân tử khí có kích thước nhỏ so với khoảng cách giữa chúng.",
+        "D. Do giữa các phân tử khí có lực tương tác phân tử."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Áp suất được định nghĩa là lực tác dụng trên một đơn vị diện tích: $p=\\frac{F}{S}$.\n- Ở mức độ mô tả đơn giản (mô hình động học chất khí), các phân tử khí chuyển động hỗn độn và va chạm vào thành bình. Mỗi lần va chạm, thành bình nhận một lực nhỏ (thay đổi động lượng). Tổng các lực do nhiều va chạm trên một diện tích tạo thành áp lực lên thành bình — tức là áp suất.\n- Vì vậy nguyên nhân trực tiếp của áp suất là sự va chạm của các phân tử khí vào thành bình (tạo lực trên thành bình), chứ không phải các yếu tố khác được nêu ở phương án B, C, D: - B (khối lượng nhỏ): Khối lượng từng phân tử không phải là nguyên nhân trực tiếp tạo áp suất; ngay cả phân tử có khối lượng lớn vẫn tạo áp suất nếu chúng va chạm vào thành bình.\n  - C (kích thước nhỏ so với khoảng cách): Đây là đặc điểm của khí lý tưởng nhưng chỉ nói về hình dạng/không gian giữa phân tử, không trực tiếp là nguyên nhân tạo áp suất.\n  - D (lực tương tác giữa các phân tử): Lực tương tác giữa phân tử ảnh hưởng đến tính chất thực của khí (ví dụ khí thực khác khí lý tưởng), nhưng áp suất chủ yếu do va chạm vào thành bình chứ không do lực hút giữa phân tử.\n✅ **Đáp án:** A. Do các phân tử khí chuyển động va chạm vào thành bình."
+    },
+    {
+      "id": 4,
+      "content": "Vận động viên điền kinh bị mất rất nhiều nước trong khi thi đấu. Các vận động viên thường chỉ có thể chuyển hoá khoảng 20% năng lượng từ nội năng cơ thể thành năng lượng dùng cho các hoạt động của cơ thể. Phần năng lượng còn lại chuyển thành nhiệt thải ra ngoài nhờ sự bay hơi của nước qua hô hấp và da để giữ cho nhiệt độ cơ thể không đổi. Nếu vận động viên dùng hết \\$10800 \\ kJ$ trong cuộc thi thì có khoảng bao nhiêu lít nước đã thoát ra ngoài cơ thể? Coi nhiệt độ cơ thể của vận động viên hoàn toàn không đổi và nhiệt hoá hơi riêng của nước ở nhiệt độ cơ thể của vận động viên là \\$2{,}4.10^6 \\ J/kg$. Biết khối lượng riêng của nước là \\$1{,}0.10^3 \\ kg/m^3$.",
+      "chuong": "vật lí nhiệt",
+      "dang": "thực tế: nhiệt hóa hơi riêng",
+      "type": "single",
+      "options": [
+        "A. \\$1{,}6 (l)$",
+        "B. \\$4{,}6 (l)$",
+        "C. \\$3{,}51 (l)$",
+        "D. \\$3{,}6 (l)$"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Vận động viên dùng hết \\$10800\\ \\text{kJ}$ (năng lượng tiêu thụ).\n- Chỉ có \\$20\\%$ năng lượng chuyển thành công, phần còn lại \\$80\\%$ chuyển thành nhiệt thoát ra.\n- Nhiệt hoá hơi riêng của nước ở thân nhiệt: \\$2{,}4\\cdot 10^6\\ \\text{J/kg}$.\n- Khối lượng riêng của nước: \\$1{,}0\\cdot 10^3\\ \\text{kg/m}^3$.\n- Hình ảnh đính kèm: không cung cấp thông tin bổ sung (không ảnh hưởng tới việc tính toán).\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu tính thể tích (tính bằng lít) của nước đã bay hơi khi phần lớn năng lượng tiêu thụ biến thành nhiệt.\n- Cần biết: chuyển đổi kJ → J, tính phần năng lượng biến thành nhiệt (80%), dùng công thức nhiệt hoá hơi $Q = mL$ để tìm khối lượng nước và dùng mật độ để đổi ra thể tích.\n🔎 **Hướng dẫn cách làm:**\n- Chuyển đổi năng lượng sang đơn vị SI: \\$10800\\ \\text{kJ} = 10800\\times 10^3\\ \\text{J} = 1{,}08\\times10^7\\ \\text{J}.$\n- Phần năng lượng trở thành nhiệt (dùng để bốc hơi nước): $Q_{\\text{bay hơi}}=0{,}8\\times 1{,}08\\times10^7\\ \\text{J}=8{,}64\\times10^6\\ \\text{J}.$\n- Dùng công thức nhiệt hoá hơi để tính khối lượng nước bốc hơi:\n$m=\\dfrac{Q_{\\text{bay hơi}}}{L}=\\dfrac{8{,}64\\times10^6}{2{,}4\\times10^6}=3{,}6\\ \\text{kg}.$\n- Đổi khối lượng sang thể tích: với $\\rho=1{,}0\\times10^3\\ \\text{kg/m}^3$, ta có\n$V=\\dfrac{m}{\\rho}=\\dfrac{3{,}6}{1{,}0\\times10^3}=3{,}6\\times10^{-3}\\ \\text{m}^3=3{,}6\\ \\text{lít}.$\n- Vậy khoảng nước thoát ra là \\$3{,}6\\ \\text{lít}.$\n✅ **Đáp án:** D. 3,6"
+    },
+    {
+      "id": 5,
+      "content": "Nội năng của vật trong hình nào sau đây đang giảm?\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tn-thpt-vat-ly-truong-que-vo-1-tinh-bac-ninh-lan-1-2026/cau-05.webp\" alt=\"Hình minh họa câu 5\" loading=\"lazy\"></figure>",
+      "chuong": "vật lí nhiệt",
+      "dang": "thực tế: nội năng. định luật i nhiệt động lực học",
+      "type": "single",
+      "options": [
+        "A. Hình 1",
+        "B. Hình 2",
+        "C. Hình 3",
+        "D. Hình 4"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Áp dụng quy tắc định tính: nội năng của một vật thay đổi tùy theo việc nó nhận hay tỏa nhiệt. (Theo định luật nhiệt động học bậc nhất có thể viết tổng quát: $\\Delta U=Q+A$, ở đây nếu không có công đáng kể thì dấu của $Q$ (nhiệt trao đổi) quyết định dấu của $\\Delta U$.)\n- Xét từng hình dựa trên mô tả ảnh: - Hình 1: Có mài kim loại và tia lửa (ma sát sinh nhiệt). Vật được gia nhiệt tại chỗ ⇒ vật nhận nhiệt ⇒ *nội năng tăng*.\n  - Hình 2: Ly đá có nhiều viên đá và có ngưng tụ trên thành ly; viên đá đang ở trong không khí ấm hơn nên đá sẽ tan (hút nhiệt từ không khí). Viên đá/khối lạnh nhận nhiệt ⇒ *nội năng của đá tăng* (có thể làm tan đá).\n  - Hình 3: Ấm đang sôi trên bếp, có hơi bốc ra. Ấm đang được đun (nhận nhiệt từ bếp); mặc dù một phần hơi mang năng lượng ra nhưng hình cho thấy nguồn nhiệt vẫn cung cấp ⇒ tổng thể ấm/water đang nhận nhiệt hoặc ít nhất chuyển sang hơi (nội năng không giảm). Khi đang sôi, nhiệt cung cấp làm thay đổi pha (nội năng của nước hơi tăng).\n  - Hình 4: Tô phở có hơi bốc lên trong không khí (món ăn vừa ăn hoặc đang để nguội), hơi thoát và phở tỏa nhiệt ra môi trường ⇒ phở đang nguội đi ⇒ *nội năng giảm*.\n✅ **Đáp án:** D. Hình 4"
+    },
+    {
+      "id": 6,
+      "content": "Hai cốc A và cốc B trong hình bên đang ở trạng thái cân bằng nhiệt, đều chứa nước và nước đá. So với nhiệt độ của nước trong cốc B thì nhiệt độ của nước trong cốc A\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tn-thpt-vat-ly-truong-que-vo-1-tinh-bac-ninh-lan-1-2026/cau-06.webp\" alt=\"Hình minh họa câu 6\" loading=\"lazy\"></figure>",
+      "chuong": "vật lí nhiệt",
+      "dang": "lý thuyết: thang nhiệt độ",
+      "type": "single",
+      "options": [
+        "A. thấp hơn",
+        "B. đang tăng nhanh hơn",
+        "C. là bằng nhau",
+        "D. cao hơn"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Khi một hệ gồm nước và nước đá ở trạng thái cân bằng nhiệt, nhiệt độ của hệ bằng nhiệt độ nóng chảy/đóng băng của nước tinh khiết (dưới áp suất khí quyển), tức là 0°C. Ta có:\n$T_{\\text{cân bằng}}=0^\\circ\\text{C}.$\n- Trong hình, cả hai cốc A và B đều có đồng thời nước lỏng và băng và đang ở trạng thái cân bằng nhiệt (không có hiện tượng nóng lên hay lạnh xuống tổng quát). Do đó nhiệt độ của nước trong mỗi cốc bằng nhiệt độ nóng chảy của băng.\n$T_A = T_B = 0^\\circ\\text{C}.$\n- Giải thích thêm bằng khái niệm nhiệt ẩn: Khi có trao đổi nhiệt giữa nước và băng, năng lượng trao đổi được dùng để làm tan hoặc đóng băng băng (nhiệt ẩn), chứ không làm thay đổi nhiệt độ cho đến khi một trong hai pha biến mất. Công thức liên quan cho lượng nhiệt cần để tan/đông:\n$Q=m\\lambda,$\nvới $m$ là khối lượng băng tan/đông và $\\lambda$ là nhiệt ẩn nóng chảy.\n- Ở đây, dù cốc B có nhiều đá hơn cốc A, cả hai vẫn còn đá và nước; nên cả hai đều giữ ở cùng một nhiệt độ cân bằng là 0°C. Vì vậy nhiệt độ nước trong A so với B là *bằng nhau*.\n✅ **Đáp án:** C. là bằng nhau"
+    },
+    {
+      "id": 7,
+      "content": "Khi nhiệt độ tuyệt đối tăng thêm 6K thì nhiệt độ Celsius tăng thêm bao nhiêu độ?",
+      "chuong": "vật lí nhiệt",
+      "dang": "bài tập: đổi nhiệt độ cơ bản",
+      "type": "single",
+      "options": [
+        "A. nhiệt độ Celsius giảm thêm 6°C",
+        "B. nhiệt độ Celsius tăng thêm 6°C",
+        "C. nhiệt độ Celsius tăng thêm \\$267^\\circ C$",
+        "D. nhiệt độ Celsius tăng thêm \\$279^\\circ C$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n- Cần áp dụng mối liên hệ giữa nhiệt độ tuyệt đối (Kelvin) và nhiệt độ Celsius.\n🔎 **Hướng dẫn cách làm:**\n- Công thức liên hệ giữa nhiệt độ tuyệt đối $T$ (đo bằng K) và nhiệt độ Celsius $t$ (đo bằng $^\\circ$C) là:\n$T = t + 273$\n(hoặc chính xác hơn $T = t + 273{.}15$, nhưng trong bài lớp phổ thông thường dùng 273)\n- Lấy hiệu hai trạng thái để tìm sự thay đổi: nếu nhiệt độ tuyệt đối tăng thêm $\\Delta T$ thì\n$\\Delta T = \\Delta t$\nvì hằng số 273 bị triệt tiêu khi lấy hiệu.\n- Ở đây cho $\\Delta T = 6\\ \\text{K}$, nên\n$\\Delta t = 6\\ ^\\circ\\text{C}.$\n- Không cần biết giá trị tuyệt đối ban đầu của nhiệt độ, chỉ cần biết mối quan hệ chênh lệch giữa hai thang là bằng nhau.\n✅ **Đáp án:** B. nhiệt độ Celsius tăng thêm 6°C"
+    },
+    {
+      "id": 8,
+      "content": "Hình bên dưới là các dụng cụ để đo nhiệt dung riêng của nước. Dụng cụ số (1) là gì?\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tn-thpt-vat-ly-truong-que-vo-1-tinh-bac-ninh-lan-1-2026/cau-08.webp\" alt=\"Hình minh họa câu 8\" loading=\"lazy\"></figure>",
+      "chuong": "vật lí nhiệt",
+      "dang": "thí nghiệm: nhiệt dung riêng",
+      "type": "single",
+      "options": [
+        "A. cân điện tử",
+        "B. nhiệt lượng kế",
+        "C. nhiệt kế điện tử",
+        "D. biến thế nguồn"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Quan sát đặc điểm của dụng cụ (1): - Là một hộp nguồn lớn, có tay xách, nhiều cọc đầu ra (jack) màu đỏ và xanh; có núm vặn lớn để điều chỉnh; phù hợp với thiết bị điều chỉnh điện áp/nguồn điện.\n- So sánh với các lựa chọn sai: - *Cân điện tử* (A): thường có mặt phẳng để đặt vật và màn hình hiển thị khối lượng; không có nhiều cọc ra vào như trong hình => không đúng.\n  - *Nhiệt lượng kế* (B): trong hình, bình cách nhiệt màu vàng (dụng cụ (4)) là nhiệt lượng kế; dụng cụ (1) không phải bình cách nhiệt => không đúng.\n  - *Nhiệt kế điện tử* (C): là que đo nhiệt/đầu dò (dụng cụ (3)) chứ không phải hộp nguồn lớn => không đúng.\n- Kết luận: Dụng cụ (1) có hình dạng và chức năng giống thiết bị cung cấp/điều chỉnh nguồn điện—tức **biến thế nguồn** (hay nguồn biến thế) dùng để thay đổi điện áp cung cấp cho thí nghiệm.\n✅ **Đáp án:** D. biến thế nguồn"
+    },
+    {
+      "id": 9,
+      "content": "Khi một chất lỏng đang sôi thì năng lượng mà các phân tử chất lỏng nhận được lúc này được dùng để làm gì?",
+      "chuong": "vật lí nhiệt",
+      "dang": "lý thuyết: cấu trúc của chất. sự chuyển thể",
+      "type": "single",
+      "options": [
+        "A. phá vỡ các liên kết với các phân tử xung quanh",
+        "B. giảm nhiệt độ của chất lỏng",
+        "C. tạo ra lực liên kết với các phân tử xung quanh",
+        "D. tăng nhiệt độ của chất lỏng"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Khi một chất lỏng bắt đầu sôi (ở nhiệt độ sôi), nhiệt lượng truyền vào không làm tăng nhiệt độ nữa mà dùng để làm công phá vỡ liên kết giữa các phân tử, giúp các phân tử thoát ra khỏi pha lỏng thành hơi. Đây là khái niệm nhiệt ẩn của quá trình bay hơi (nhiệt hóa hơi).\n- Ta có công thức biểu diễn nhiệt lượng cần cho chuyển pha: $Q = mL$ với $Q$ là nhiệt lượng, $m$ là khối lượng chất lỏng chuyển sang hơi, $L$ là nhiệt ẩn (nhiệt hóa hơi) của chất đó.\n- Vì vậy trong khi sôi: - Nhiệt lượng dùng để phá vỡ liên kết giữa các phân tử (đúng).\n  - Nhiệt lượng không làm giảm nhiệt độ của chất lỏng (sai) — nhiệt độ giữ ở điểm sôi cho đến khi pha chuyển đổi hoàn toàn.\n  - Nhiệt lượng không tạo ra lực liên kết mới giữa các phân tử (sai) — ngược lại, nó làm yếu/pha vỡ liên kết.\n  - Nhiệt lượng không làm tăng nhiệt độ trong khi sôi (sai) — tăng nhiệt độ chỉ xảy ra khi chưa đạt đến điểm sôi hoặc sau khi tất cả chất lỏng đã bay hơi.\n- Ví dụ kiểm chứng: Đun nước ở áp suất khí quyển chuẩn; khi đạt 100°C, nước sôi và nhiệt độ giữ ở ~100°C trong suốt quá trình sôi dù vẫn cung cấp nhiệt — năng lượng đó dùng để hóa hơi nước (phá liên kết giữa phân tử nước).\n✅ **Đáp án:** A. phá vỡ các liên kết với các phân tử xung quanh"
+    },
+    {
+      "id": 10,
+      "content": "Trong khoảng thời gian từ phút thứ 5 đến phút thứ 9, chì đang ở trạng thái nào?\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tn-thpt-vat-ly-truong-que-vo-1-tinh-bac-ninh-lan-1-2026/cau-10.webp\" alt=\"Hình minh họa câu 10\" loading=\"lazy\"></figure>",
+      "chuong": "vật lí nhiệt",
+      "dang": "lý thuyết: cấu trúc của chất. sự chuyển thể",
+      "type": "single",
+      "options": [
+        "A. rắn",
+        "B. rắn và lỏng",
+        "C. khí",
+        "D. lỏng"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Từ bảng (ảnh đính kèm): nhiệt độ tại phút 5, 6, 7, 8, 9 đều là \\$327^\\circ C$.\n- So sánh với điểm nóng chảy của chì: điểm nóng chảy của chì khoảng \\$327^\\circ C$.\n- Khi vật được nung tới đúng điểm nóng chảy và nhiệt độ không tăng mà vẫn nhận nhiệt, năng lượng dùng để phá liên kết trong cấu trúc rắn — tức là xảy ra quá trình nóng chảy. Trong quá trình này, vật tồn tại đồng thời ở cả hai trạng thái *rắn* và *lỏng* (giai đoạn chuyển tiếp), vì vậy nhiệt độ giữ không đổi.\n- Do đó, trong khoảng thời gian nhiệt độ giữ ở \\$327^\\circ C$ (phút 5 đến 9), chì đang ở trạng thái vừa là *rắn* vừa là *lỏng* (đang nóng chảy).\n✅ **Đáp án:** B. rắn và lỏng"
+    },
+    {
+      "id": 11,
+      "content": "Trong một nhiệt lượng kế bằng nhôm khối lượng $m_{Al} = 300\\,g$ có một cục nước đá nặng $m_{dd}$ gam. Nhiệt độ của nhiệt lượng kế và nước đá là $t = -5^\\circ C$. Sau đó, người ta cho $m_{hm}$ gam hơi nước ở $t = 100^\\circ C$ vào nhiệt lượng kế và khi đạt cân bằng nhiệt độ thì nhiệt độ nhiệt lượng kế là $t = 25^\\circ C$. Lúc đó, trong nhiệt lượng kế có 500 gam nước. Cho biết nhiệt hoá hơi riêng của nước $L = 2{,}26.10^3\\,J/g$, nhiệt nóng chảy riêng của nước đá $\\lambda = 334\\,J/g$, nhiệt dung riêng của nhôm, của nước đá và của nước lần lượt là $c_{Al} = 0{,}88\\,J/g.K$, $c_{dd} = 2{,}09\\,J/g.K$ và $c_n = 4{,}19\\,J/g.K$. Giá trị của $(m_{nd}+3m_{hn})$ gần giá trị nào nhất?",
+      "chuong": "vật lí nhiệt",
+      "dang": "bài tập: nhiệt nóng chảy riêng",
+      "type": "single",
+      "options": [
+        "A. 226 gam",
+        "B. 269 gam",
+        "C. 192 gam",
+        "D. 653,8 gam"
+      ],
+      "answer": "D",
+      "explanation": "😎 **Cùng DOL xem qua cách giải câu này nhé!**\n🔎 Hướng dẫn cách làm\nBước 1: Đặt ẩn\nGọi:\n$m_{đ}=x,(g)$\nThì lượng nước ban đầu:\n\\$500-x,(g)$\nBước 2: Viết phương trình cân bằng nhiệt\nNhiệt thu:\n- Nhôm tăng nhiệt:\n\\$300\\cdot 0,88(25-(-5))$\n- Đá tăng từ $-5\\to 0$:\n$x\\cdot 2,09(0-(-5))$\n- Đá nóng chảy:\n$x\\cdot 334$\n- Nước tan ra tăng từ \\$0\\to 25$:\n$x\\cdot 4,19(25-0)$\nNhiệt tỏa (hơi nước):\n- Ngưng tụ:\n$m_{hn}L$\n- Nước ngưng tụ nguội từ \\$100\\to 25$:\n$m_{hn}\\cdot 4,19(100-25)$\nBước 3: Giải ra khối lượng\nTừ phương trình cân bằng nhiệt, giải được:\n$m_{đ}=423,1,g,\\qquad m_{hn}=76,9,g$\nBước 4: Tính yêu cầu đề bài\n$m_{đ}+3m_{hn}=423,1+3\\cdot 76,9$\n$=653,8,(g)$\n✅ Chọn **D. 653,8 gam**"
+    },
+    {
+      "id": 12,
+      "content": "Năm 1827 Robert Brown làm thí nghiệm để quan sát chuyển động nhiệt của hạt phấn hoa trong cốc chứa nước bằng kính hiển vi. Nhận xét nào sau đây không đúng?",
+      "chuong": "khí lí tưởng",
+      "dang": "lý thuyết: thuyết động học phân tử chất khí",
+      "type": "single",
+      "options": [
+        "A. Các hạt phấn hoa chuyển động hỗn loạn, không ngừng.",
+        "B. Nhiệt độ càng cao thì hạt phấn hoa chuyển động càng chậm.",
+        "C. Các hạt phấn hoa bị các phân tử nước va đập vào.",
+        "D. Quỹ đạo của hạt phấn hoa có dạng gấp khúc và không theo quy luật."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Brownian motion: hạt phấn hoa chuyển động hỗn loạn, không ngừng do bị các phân tử nước va đập liên tục. (Điều này giải thích các phương án A, C, D đều đúng).\n- Ảnh hưởng của nhiệt độ: khi nhiệt độ tăng, các phân tử chất lỏng có động năng trung bình lớn hơn nên va chạm với hạt phấn mạnh hơn và/hoặc thường xuyên hơn. Về mặt lý thuyết ta có quan hệ (mức độ trung bình của động năng tỉ lệ thuận với nhiệt độ tuyệt đối):\n$\\overline{E_k}\\propto T$\n(hoặc công thức mô tả trung bình động năng phân tử: $\\overline{E_k}=\\tfrac{3}{2}kT$, đây là ý tưởng cơ bản: tăng T → tăng động năng).\n- Kết luận từ ý trên: khi tăng nhiệt độ, chuyển động nhiệt của phân tử mạnh hơn → hạt phấn bị va chạm mạnh hơn và chuyển động nhanh, hỗn loạn hơn chứ không chậm đi.\n- Do đó phát biểu \"Nhiệt độ càng cao thì hạt phấn hoa chuyển động càng chậm.\" là trái với thực nghiệm và lý thuyết — đây là phát biểu **sai**. Hình đính kèm (IMAGE DESCRIPTION) nếu quan sát ở nhiệt độ cao hơn sẽ cho thấy chuyển động mạnh/tận biến hơn so với nhiệt độ thấp.\n✅ **Đáp án:** B. Nhiệt độ càng cao thì hạt phấn hoa chuyển động càng chậm."
+    },
+    {
+      "id": 13,
+      "content": "Khi thép đang nóng cháy được làm nguội nhanh về nhiệt độ phòng sẽ giúp tăng độ cứng cho thép và cách làm như vậy sẽ được gọi là tôi thép. Người ta có thể sử dụng nước để làm hạ nhiệt độ nhanh cho thép đang nóng đỏ vì",
+      "chuong": "vật lí nhiệt",
+      "dang": "thực tế: nhiệt dung riêng",
+      "type": "single",
+      "options": [
+        "A. nhiệt độ nóng chảy của nước thấp hơn nhiều so với thép.",
+        "B. sử dụng nước là do thói quen vì thật ra có thể để thép nóng đỏ trong không khí thì thép cũng hạ nhanh về nhiệt độ phòng.",
+        "C. nhiệt dung riêng của nước cao hơn nhiều so với thép trong khi đó nhiệt độ sôi của nước lại thấp hơn nhiều so với nhiệt độ nóng chảy của thép.",
+        "D. nước có khả năng bốc hơi rất nhanh khi gặp kim loại nóng."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Nêu khái niệm liên quan: - *Nhiệt dung riêng* c là đại lượng cho biết bao nhiêu nhiệt lượng Q cần để nâng nhiệt độ một khối lượng m của chất lên ΔT: $Q = mc\\Delta T.$\n  - Khi chất lỏng sôi và bay hơi, còn phải truyền nhiệt cho quá trình bay hơi: $Q_{\\text{bay hơi}} = mL,$ trong đó L là nhiệt ẩn bay hơi.\n- So sánh nước và thép về mặt vật lý ở trình độ THPT: - Nước có **nhiệt dung riêng rất lớn** (khoảng 4200 J/kg·°C), lớn hơn nhiều so với nhiệt dung riêng của kim loại như thép. Vì vậy, để hạ cùng một lượng nhiệt của vật nóng, một khối nước có thể hấp thụ nhiều nhiệt hơn mà chỉ tăng ít nhiệt độ. Theo công thức $Q = mc\\Delta T$, c lớn → cùng m và ΔT → Q lớn hơn.\n  - Nước có **nhiệt độ sôi (100°C)** rất thấp so với nhiệt độ nóng của thép đỏ (hàng trăm đến hàng nghìn °C, thậm chí gần nhiệt độ nóng chảy của thép). Do đó khi tiếp xúc với thép rất nóng, nước sẽ hấp thụ nhiệt mạnh và chuyển sang hơi, giải phóng (lấy đi) lượng nhiệt lớn nhờ cả tăng nhiệt độ và bay hơi (nhiệt ẩn). Công thức $Q = mc\\Delta T + mL$ cho thấy bay hơi lấy đi thêm nhiều nhiệt.\n- Giải thích vì sao các phương án khác sai: - A sai vì nói “nhiệt độ nóng chảy của nước thấp hơn nhiều so với thép” — từ ngữ sai: nước có nhiệt độ *nóng chảy* (băng tan) là 0°C, chứ điều quan trọng ở đây là **nhiệt độ sôi** của nước và khả năng hấp thụ nhiệt. Ý A không nêu đúng lý do chính.\n  - B sai vì để thép nóng đỏ nguội trong không khí không làm nguội nhanh như dùng nước; không khí có nhiệt dung riêng và mật độ thấp hơn nhiều nên khả năng lấy nhiệt kém hơn nước. Vì vậy dùng nước mới giúp làm nguội nhanh.\n  - D nói “nước có khả năng bốc hơi rất nhanh khi gặp kim loại nóng” — điều này đúng phần nào nhưng chưa đầy đủ: yếu tố quyết định là nước có nhiệt dung riêng lớn và còn có nhiệt ẩn bay hơi lớn, nên khi nước bị làm nóng và bay hơi nó lấy đi rất nhiều nhiệt từ thép. Nói nước “bốc hơi rất nhanh” là mô tả chứ không giải thích cơ bản bằng các đại lượng vật lý (c và L).\n- Kết luận: lý do chính là nước có **nhiệt dung riêng lớn** và **nhiệt độ sôi thấp so với nhiệt độ của thép nóng**, nên nước hấp thụ được nhiều nhiệt nhanh chóng (kể cả qua bay hơi), làm thép nguội nhanh — đó là lý do đúng.\n✅ **Đáp án:** C. nhiệt dung riêng của nước cao hơn nhiều so với thép trong khi đó nhiệt độ sôi của nước lại thấp hơn nhiều so với nhiệt độ nóng chảy của thép."
+    },
+    {
+      "id": 14,
+      "content": "Hai chất có cùng khối lượng, được cung cấp cùng một nhiệt lượng như nhau. Chất nào có nhiệt dung riêng lớn hơn?",
+      "chuong": "vật lí nhiệt",
+      "dang": "lý thuyết: nhiệt dung riêng",
+      "type": "single",
+      "options": [
+        "A. Chất cần tốn nhiều nhiệt lượng hơn khối chi.",
+        "B. Khối chi cần nhiều nhiệt lượng hơn khối đồng.",
+        "C. Cả hai khối đều cần nhiệt lượng như nhau.",
+        "D. Không khẳng định được."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Công thức cơ bản: $Q = mc\\Delta T.$\n- Từ đó suy ra nhiệt dung riêng: $c=\\dfrac{Q}{m\\Delta T}.$\n- Vì ở đây Q và m giống nhau cho hai chất, nên: - Nhiệt dung riêng tỉ lệ nghịch với độ tăng nhiệt độ: nếu một chất có độ tăng nhiệt độ nhỏ hơn (ΔT nhỏ hơn) khi nhận cùng Q thì chất đó có c lớn hơn.\n- Ví dụ cụ thể để kiểm chứng: - Giả sử m = 1 kg và Q = 1000 J cho cả hai.\n  - Nếu chất A tăng nhiệt độ ΔT_A = 2°C ⇒ $c_A=\\dfrac{1000}{1\\cdot 2}=500\\ \\text{J/kg°C}.$\n  - Nếu chất B tăng nhiệt độ ΔT_B = 5°C ⇒ $c_B=\\dfrac{1000}{1\\cdot 5}=200\\ \\text{J/kg°C}.$\n  - Kết luận: chất A có nhiệt dung riêng lớn hơn vì nó có ΔT nhỏ hơn khi nhận cùng Q.\n✅ **Đáp án:** A. Chất cần tốn nhiều nhiệt lượng hơn khối chi."
+    },
+    {
+      "id": 15,
+      "content": "Cho đồ thị nhiệt độ theo thời gian của một chất như hình. Biết ban đầu chất ở thể rắn. Hỏi thời gian nóng chảy của lượng chất trong hình bằng bao nhiêu?\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tn-thpt-vat-ly-truong-que-vo-1-tinh-bac-ninh-lan-1-2026/cau-15.webp\" alt=\"Hình minh họa câu 15\" loading=\"lazy\"></figure>",
+      "chuong": "vật lí nhiệt",
+      "dang": "đồ thị: cấu trúc của chất. sự chuyển thể",
+      "type": "single",
+      "options": [
+        "A. 5 phút",
+        "B. 10 phút",
+        "C. 15 phút",
+        "D. 25 phút"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Nhận xét đồ thị theo mô tả hình ảnh: chất được nung nóng từ (0,0) đến (10,80) — đây là quá trình tăng nhiệt độ của thể rắn; từ (10,80) đến (25,80) đường nằm ngang thể hiện quá trình nóng chảy (nhiệt độ không đổi = 80°C); sau 25 phút nhiệt độ lại tăng — đã kết thúc nóng chảy.\n- Gọi thời điểm bắt đầu nóng chảy là $t_1=10\\ (\\text{phút})$ và thời điểm kết thúc nóng chảy là $t_2=25\\ (\\text{phút})$.\n- Thời gian nóng chảy là hiệu hai thời điểm:\n$t_{\\text{nóng chảy}} = t_2 - t_1.$\n- Thay số:\n$t_{\\text{nóng chảy}} = 25 - 10 = 15\\ (\\text{phút}).$\n✅ **Đáp án:** C. 15 phút"
+    },
+    {
+      "id": 16,
+      "content": "Hơ nóng một khối khí trong ống nghiệm có nút đậy kín (không quá chặt) như hình a và kết quả nút bật ra khỏi ống nghiệm (hình b). Chọn câu sai.\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tn-thpt-vat-ly-truong-que-vo-1-tinh-bac-ninh-lan-1-2026/cau-16.webp\" alt=\"Hình minh họa câu 16\" loading=\"lazy\"></figure>",
+      "chuong": "vật lí nhiệt",
+      "dang": "thí nghiệm",
+      "type": "single",
+      "options": [
+        "A. Khi bị đốt nóng, nội năng của khí trong ống nghiệm tăng lên.",
+        "B. Nội năng của khí trong ống nghiệm tăng là do thế năng của các phân tử khí tăng còn động năng của các phân tử khí không tăng.",
+        "C. Khi nhiệt độ tăng thì các phân tử khí va chạm với thành bình nhiều và mạnh hơn.",
+        "D. Áp suất khí trong ống tăng lên tạo ra lực đẩy đủ lớn làm bật nút đậy ra khỏi ống nghiệm."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Khi hơ nóng khí trong ống nghiệm (ống gần kín, thể tích gần cố định): - Nhiệt độ T của khí tăng → vận tốc trung bình của phân tử tăng → động năng trung bình của phân tử tăng.\n  - Đối với khí lí tưởng, nội năng U tỉ lệ với nhiệt độ. Ví dụ với khí đơn nguyên tử:  hoặc nói chung với số bậc tự do f:  Do đó tăng T → U tăng do tăng động năng phân tử.\n- Áp dụng phương trình trạng thái: - Ở thể tích xấp xỉ không đổi, khi T tăng thì áp suất P tăng theo tỉ lệ:\n  - Áp suất tăng tạo lực đẩy lên nút, nếu lực đẩy lớn hơn lực giữ nút (nút không quá chặt) thì nút bật ra — đây chính là mô tả hình a → hình b (hình cho thấy nút bay ra và hơi/khí phun ra).\n- Vậy phát biểu cần kiểm tra: \"Nội năng của khí trong ống nghiệm tăng là do thế năng của các phân tử khí tăng còn động năng của các phân tử khí không tăng.\" - Điều này mâu thuẫn với thực tế vật lí của khí: khi bị hơ nóng, động năng trung bình (liên quan trực tiếp đến nhiệt độ) tăng; thế năng giữa phân tử trong khí lý tưởng thường không đóng vai trò chính (gần như không đổi nếu không có sự tương tác mạnh/pha biến). Do đó câu này sai.\n✅ **Đáp án:** B. Nội năng của khí trong ống nghiệm tăng là do thế năng của các phân tử khí tăng còn động năng của các phân tử khí không tăng."
+    },
+    {
+      "id": 17,
+      "content": "Quy ước về dấu nào sau đây phù hợp với công thức $\\Delta U = A + Q$ của nguyên lí I NĐLH?",
+      "chuong": "vật lí nhiệt",
+      "dang": "lý thuyết: nội năng. định luật i nhiệt động lực học",
+      "type": "single",
+      "options": [
+        "A. Vật nhận công $A < 0$; vật nhận nhiệt $Q < 0$.",
+        "B. Vật thực hiện công $A > 0$; vật truyền nhiệt $Q > 0$.",
+        "C. Vật thực hiện công $A > 0$; vật nhận nhiệt $Q < 0$.",
+        "D. Vật nhận công $A > 0$; vật nhận nhiệt $Q > 0$."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Nguyên lí I NĐLH được viết dưới dạng $\\Delta U = A + Q$: biến thiên nội năng bằng tổng công và nhiệt nhập vào hệ (theo dấu qui ước).\n- Quy ước dấu thông dụng (theo chương trình THPT): - Nếu hệ nhận công thì ta lấy $A > 0$; nếu hệ thực hiện (nhả) công ra môi trường thì $A < 0$.\n  - Nếu hệ nhận nhiệt thì ta lấy $Q > 0$; nếu hệ truyền nhiệt ra ngoài thì $Q < 0$.\n- Kiểm tra bằng ví dụ đơn giản: - Nén chậm khí trong xilanh bằng lực bên ngoài (làm công vào hệ), không trao đổi nhiệt nhiều: hệ nhận công ⇒ $A>0$, $Q\\approx 0$ ⇒ $\\Delta U>0$ (nội năng tăng). Điều này phù hợp với quy ước trên.\n  - Nếu hệ tự giãn nở đẩy pit-tông ra và truyền nhiệt ra môi trường: hệ thực hiện công (A<0) và truyền nhiệt (Q<0) ⇒ $\\Delta U$ giảm. Cũng phù hợp.\n- Vì vậy quy ước đúng là: hệ nhận công và nhận nhiệt đều được biểu diễn bằng các số dương trong công thức.\n✅ **Đáp án:** D. Vật nhận công $A > 0$; vật nhận nhiệt $Q > 0$."
+    },
+    {
+      "id": 18,
+      "content": "Bảng dưới đây ghi tên các loại nhiệt kế và nhiệt độ ghi trên thang đo của chúng. Để đo nhiệt độ của cơ thể người ta cần dùng nhiệt kế nào?\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tn-thpt-vat-ly-truong-que-vo-1-tinh-bac-ninh-lan-1-2026/cau-18.webp\" alt=\"Hình minh họa câu 18\" loading=\"lazy\"></figure>",
+      "chuong": "vật lí nhiệt",
+      "dang": "thực tế: thang nhiệt độ",
+      "type": "single",
+      "options": [
+        "A. nhiệt kế thủy ngân",
+        "B. nhiệt kế kim loại",
+        "C. nhiệt kế y tế",
+        "D. nhiệt kế rượu"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Xác định phạm vi nhiệt độ cơ thể người: theo chương trình phổ thông, nhiệt độ cơ thể người bình thường khoảng 36–37°C; nhiệt độ sốt có thể lên đến trên 38°C, và cần đo chính xác trong khoảng khoảng 34°C đến 42°C để phát hiện trạng thái hạ thân nhiệt hoặc sốt cao.\n- Kiểm tra thang đo của các loại nhiệt kế trong bảng (dựa trên nội dung ảnh): - Thủy ngân: -10°C đến 110°C — có thể đo được nhưng không chuyên dụng cho đo cơ thể (kích thước và độ chính xác khác).\n  - Rượu: -30°C đến 60°C — thang đủ rộng nhưng không phải loại dùng cho đo thân nhiệt chính xác.\n  - Kim loại: 0°C đến 400°C — dùng cho đo nhiệt độ cao (không phù hợp đo cơ thể).\n  - Y tế: 34°C đến 42°C — thang đo được thiết kế chính xác cho khoảng nhiệt độ cơ thể người.\n✅ **Đáp án:** C. nhiệt kế y tế"
+    }
+  ]
+}

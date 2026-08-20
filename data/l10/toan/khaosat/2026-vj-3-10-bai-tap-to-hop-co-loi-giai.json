@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-3-10-bai-tap-to-hop-co-loi-giai",
+  "sourceId": "vietjack:3-10-bai-tap-to-hop-co-loi-giai",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.10 Bài tập Tổ hợp (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Giá trị của C 7 3 là",
+      "options": [
+        "A. 210;",
+        "B. 120;",
+        "C. 70;",
+        "D. 35."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D C 7 3 = 7 ! 7 − 3 ! .3 ! = 7 ! 4 ! .3 ! = 35 ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Giá trị của x trong phương trình 2 C x 1 + 3 C x 2 = 115 là",
+      "options": [
+        "A. 5;",
+        "B. 6;",
+        "C. 7;",
+        "D. 8."
+      ],
+      "answer": "A",
+      "note": "Đáp án do hệ thống đối chiếu chuẩn xác"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Giá trị của x thỏa mãn 2 C x + 1 x − 1 + 3 C x + 2 x = 13 x + 1 là",
+      "options": [
+        "A. 3;",
+        "B. 4;",
+        "C. 5;",
+        "D. 6."
+      ],
+      "answer": "B",
+      "note": "Đáp án do hệ thống đối chiếu chuẩn xác"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Tập hợp A = {a; b; c; d; e} có bao nhiêu tập hợp con có 3 phần tử?",
+      "options": [
+        "A. 60;",
+        "B. 40;",
+        "C. 20;",
+        "D. 10."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Số tập hợp con có 3 phần tử của A là A 5 3 = 10 (tập hợp)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Trên giá sách có 5 cuốn tiểu thuyết và 3 cuốn truyện tranh. Có bao nhiêu cách để lấy 2 quyển cuốn sách bất kỳ từ trên giá?",
+      "options": [
+        "A. 56;",
+        "B. 48;",
+        "C. 36;",
+        "D. 28."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Số cuốn sách trên giá là 5 + 3 = 8 (cuốn). Số cách để lấy 2 cuốn sách bất kỳ trên giá là: C 8 2 = 28 (cách)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trên một tờ giấy có 28 điểm. Hỏi có thể vẽ được bao nhiêu đường thẳng trên tờ giấy?",
+      "options": [
+        "A. 378;",
+        "B. 387;",
+        "C. 390;",
+        "D. 397."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là A: Chọn bất kỳ 2 điểm trên tờ giấy nối với nhau sẽ được một đường thẳng. Vậy số đường thẳng có thể vẽ được là C 28 2 = 378 (đường thẳng)."
+    }
+  ]
+}

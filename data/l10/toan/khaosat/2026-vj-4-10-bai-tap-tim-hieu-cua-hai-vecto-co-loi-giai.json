@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-4-10-bai-tap-tim-hieu-cua-hai-vecto-co-loi-giai",
+  "sourceId": "vietjack:4-10-bai-tap-tim-hieu-cua-hai-vecto-co-l",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "4.10 Bài tập Tìm hiệu của hai vectơ (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho 4 điểm bất kì A, B, C, O. Đẳng thức nào sau đây đúng ?",
+      "options": [
+        "A. O A → = O B → − B A →",
+        "B. A B → = O B → + O A →",
+        "C. A B → = A C → + B C →",
+        "D. O A → = C A → − C O →"
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải: Đáp án đúng là: D. Ta có: C A → − C O → = C A → + O C → = O C → + C A → = O A → ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hai điểm phân biệt A, B. Gọi I là trung điểm của đoạn thẳng AB. Khẳng định nào sau đây là đúng ?",
+      "options": [
+        "A. I A → − I B → = 0 →",
+        "B. A I → − B I → = 0 →",
+        "C. I A → − B I → = 0 →",
+        "D. I A → + A B → = 0 →"
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải: Đáp án đúng là: C. Ta có: I A → − B I → = I A → + I B → Mà do I là trung điểm của AB nên I B → = − I A → = A I → Do đó: I A → − B I → = I A → + I B → = I A → + A I → = I I → = 0 →"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho ba điểm phân biệt A, B, C. Đẳng thức nào sau đây là đúng ?",
+      "options": [
+        "A. A B → − B C → = C A →",
+        "B. A B → + C A → = B C →",
+        "C. C A → − B A → = C B →",
+        "D. A B → + A C → = B C →"
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải: Đáp án đúng là: C. Ta có: C A → − B A → = C A → + A B → = C B → ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hình bình hành ABCD tâm O. Khẳng định nào sau đây là sai ?",
+      "options": [
+        "A. B D → = D C → − B C →",
+        "B. B D → = C D → − C B →",
+        "C. B D → = B C → + C D →",
+        "D. A C → = A B → + A D →"
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A. Ta có: D C → − B C → = D C → + C B → = D B → Vậy D B → = D C → − B C → . Do đó A sai. Ta có: C D → − C B → = B D → nên B đúng. Theo quy tắc 3 điểm ta có: B D → = B C → + C D → nên C đúng. Theo quy tắc hình bình hành ta có: A C → = A B → + A D → nên D đúng."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho 4 điểm bất kì A, B, C, D. Khẳng định nào sau đây là đúng ?",
+      "options": [
+        "A. O A → = C A → + C O →",
+        "B. B C → − A C → + A B → = 0 →",
+        "C. B A → = O B → − O A →",
+        "D. O A → = O B → − B A →"
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải: Đáp án đúng là: B. Ta có: B C → − A C → + A B → = B C → + C A → + A B → = B C → + C A → + A B → = B A → + A B → = B B → = 0 → ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho hình vuông ABCD tâm O. Khi đó, O A → − O B → = ?",
+      "options": [
+        "A. C D →",
+        "B. A B →",
+        "C. A C →",
+        "D. B D →"
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A. Xét 3 điểm A, O, B có: O A → − O B → = B A → Do ABCD là hình vuông nên ta có: B A → = C D → Vậy O A → − O B → = C D → ."
+    }
+  ]
+}

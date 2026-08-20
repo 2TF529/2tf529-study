@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-1-trac-nghiem-ham-so-mu-va-ham-so-logarit-lop-11-co-dap-an",
+  "sourceId": "vietjack:1-trac-nghiem-ham-so-mu-va-ham-so-logari",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.Trắc nghiệm Hàm số mũ và hàm số lôgarit lớp 11 (có đáp án)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: TRẮC NGHIỆM NHIỀU LỰA CHỌN Hàm số nào sau đây là hàm số mũ",
+      "options": [
+        "A. y = 4 x .",
+        "B. y = x 3 .",
+        "C. \\(y = \\frac{{2x + 1}}{{3x - 2}}\\).",
+        "D. y = log 6 x."
+      ],
+      "answer": "A",
+      "note": "A Hàm số y = 4 x là hàm số mũ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Tập xác định của hàm số y = 2 x là",
+      "options": [
+        "A. ℝ.",
+        "B. [0; +∞).",
+        "C. ℝ\\{0}.",
+        "D. (0; +∞)."
+      ],
+      "answer": "A",
+      "note": "A Tập xác định của hàm số là ℝ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Hàm số nào dưới đây đồng biến trên tập xác định của nó?",
+      "options": [
+        "A. \\(y = {\\left( {\\frac{1}{\\pi }} \\right)^x}\\).",
+        "B. \\(y = {\\left( {\\frac{2}{3}} \\right)^x}\\).",
+        "C. \\(y = {\\left( {\\sqrt 3 } \\right)^x}\\).",
+        "D. \\(y = {\\left( {0,5} \\right)^x}\\)."
+      ],
+      "answer": "C",
+      "note": "C Vì \\(\\sqrt 3 > 1\\) nên hàm số \\(y = {\\left( {\\sqrt 3 } \\right)^x}\\) đồng biến trên tập xác định của nó."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Tập xác định các hàm số y = log 2 x là",
+      "options": [
+        "A. (−∞; +∞).",
+        "B. [0; +∞).",
+        "C. [2; +∞).",
+        "D. (0; +∞)."
+      ],
+      "answer": "D",
+      "note": "D Tập xác định của hàm số y = log 2 x là D = (0; +∞)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Tập xác định của hàm số y = log 3 (x + 3) là",
+      "options": [
+        "A. ℝ\\{−3}.",
+        "B. (−3; +∞).",
+        "C. [−3; +∞).",
+        "D. (0; +∞)."
+      ],
+      "answer": "B",
+      "note": "B Điều kiện x + 3 > 0 Û x > −3. Vậy tập xác định của hàm số D = (−3; +∞)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong các hàm số sau hàm số nào nghịch biến trên ℝ.",
+      "options": [
+        "A. y = log 3 x 2 .",
+        "B. y = logx 3 .",
+        "C. \\(y = {\\left( {\\frac{e}{4}} \\right)^x}\\).",
+        "D. \\(y = {\\left( {\\frac{2}{5}} \\right)^{ - x}}\\)."
+      ],
+      "answer": "C",
+      "note": "C Hàm số mũ \\(y = {a^x}\\) với 0 < a < 1 nghịch biến trên ℝ. Ta có \\(0 < \\frac{e}{4} < 1\\) nên hàm số \\(y = {\\left( {\\frac{e}{4}} \\right)^x}\\) nghịch biến trên ℝ."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Đồ thị hàm số y = log 3 x cắt đường thẳng x = 9 tại điểm có tung độ bằng",
+      "options": [
+        "A. 2.",
+        "B. 1.",
+        "C. 4.",
+        "D. 3."
+      ],
+      "answer": "A",
+      "note": "A Thay x = 9 vào hàm số ta được y = log 3 9 = 2. Vậy đồ thị hàm số y = log 3 x cắt đường thẳng x = 9 tại điểm có tung độ bằng 2."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho các hàm số y = log 4 x; y = log 2 (x – 1); y = log 2 (x – 5); \\(y = {\\log _{\\sqrt 3 }}x\\). Có bao nhiêu đồ thị hàm số đi qua điểm M(3; 1).",
+      "options": [
+        "A. 2.",
+        "B. 1.",
+        "C. 4.",
+        "D. 3."
+      ],
+      "answer": "B",
+      "note": "B Thay tọa độ điểm M vào các hàm số ta thấy điểm M thỏa mãn hàm số y = log 2 (x – 1). Do đó có 1 đồ thị hàm số đi qua điểm M(3; 1)."
+    }
+  ]
+}

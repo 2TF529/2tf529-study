@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-12-ket-noi-tri-thuc-bai-15-co-dap-an",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-12-ket-noi-",
+  "grade": "l12",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 12 Kết nối tri thức Bài 15 có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Câu 1: Hệ màu nào được sử dụng trong CSS để biểu diễn màu sắc bằng ba giá trị số từ 0 đến 255?",
+      "options": [
+        "A. CMYK",
+        "B. RGB",
+        "C. HSL",
+        "D. HEX"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Hệ màu RGB sử dụng ba giá trị số (R - Red, G - Green, B - Blue) từ 0 đến 255 để biểu diễn màu sắc."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Thuộc tính CSS nào được sử dụng để định dạng màu chữ?",
+      "options": [
+        "A. background-color",
+        "B. color",
+        "C. border",
+        "D. font-color"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Thuộc tính color trong CSS được sử dụng để thiết lập màu sắc cho văn bản"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trong hệ màu HSL, giá trị nào biểu thị độ bão hòa của màu?",
+      "options": [
+        "A. H (Hue)",
+        "B. S (Saturation)",
+        "C. L (Lightness)",
+        "D. A (Alpha)"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: S (Saturation) trong hệ màu HSL biểu thị độ bão hòa hay độ đậm đặc của màu, từ 0% (màu xám) đến 100% (màu đầy đủ)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Thuộc tính CSS nào sau đây không có tính kế thừa?",
+      "options": [
+        "A. color",
+        "B. background-color",
+        "C. border",
+        "D. font-size"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Trong CSS, thuộc tính border không có tính kế thừa, nghĩa là nó không tự động áp dụng cho các phần tử con."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Mã màu hexa #ff0000 biểu thị màu gì trong hệ RGB?",
+      "options": [
+        "A. Màu xanh lá cây",
+        "B. Màu xanh dương",
+        "C. Màu đỏ",
+        "D. Màu đen"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Mã màu hexa #ff0000 biểu thị màu đỏ, với giá trị R (Red) là 255, G (Green) và B (Blue) là 0."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Bộ chọn CSS nào áp dụng định dạng cho các phần tử &lt;p&gt; là con trực tiếp của &lt;div&gt;?",
+      "options": [
+        "A. div p",
+        "B. div > p",
+        "C. div + p",
+        "D. div ~ p"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Bộ chọn div > p áp dụng định dạng cho các phần tử &lt;p&gt; là con trực tiếp của &lt;div&gt;."
+    }
+  ]
+}

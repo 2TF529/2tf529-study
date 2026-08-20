@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-de-thi-cuoi-ki-1-toan-10-nam-2025-2026-thpt-viet-duc-ha-noi-co-da",
+  "sourceId": "vietjack:de-thi-cuoi-ki-1-toan-10-nam-2025-2026-t",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "cuoiki1",
+  "year": 2026,
+  "title": "Đề thi cuối kì 1 Toán 10 năm 2025-2026 THPT Việt Đức (Hà Nội) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn (3,0 điểm). Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh chỉ chọn một phương án. Cho tam giác \\(ABC\\) đều tâm \\(O\\). Gọi \\(M\\) là trung điểm của \\(BC\\). Góc giữa vectơ \\(\\overrightarrow {OM} \\) và vectơ \\(\\overrightarrow {AB} \\) bằng:",
+      "options": [
+        "A. \\(120^\\circ \\).",
+        "B. \\(30^\\circ \\).",
+        "C. \\(60^\\circ \\).",
+        "D. \\(150^\\circ \\)."
+      ],
+      "answer": "B",
+      "note": "Vì tam giác \\(ABC\\) đều nên đường trung tuyến \\(AM\\) đồng thời là đường cao và đường phân giác. Tâm \\(O\\) nằm trên đoạn thẳng \\(AM\\), do đó vectơ \\(\\overrightarrow {OM} \\) cùng hướng với vectơ \\(\\overrightarrow {AM} \\). Suy ra: \\(\\left( {\\overrightarrow {OM} ,\\overrightarrow {AB} } \\right) = \\left( {\\overrightarrow {AM} ,\\overrightarrow {AB} } \\right)\\) Trong tam giác vuông \\(ABM\\) (vuông tại \\(M\\)), \\(\\widehat {BAM}\\) là góc giữa đường phân giác \\(AM\\) và cạnh \\(AB\\) nên \\(\\widehat {BAM} = \\frac{{\\widehat {BAC}}}{2} = \\frac{{60^\\circ }}{2} = 30^\\circ \\). Do đó, \\(\\left( {\\overrightarrow {OM} ,\\overrightarrow {AB} } \\right) = 30^\\circ \\). Chọn B."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho số gần đúng \\(a = 8\\,141\\,378\\) với độ chính xác \\(d = 300\\) . Hãy viết quy tròn số \\(a\\) .",
+      "options": [
+        "A. \\(8\\,143\\,000\\) .",
+        "B. \\(8\\,141\\,400\\) .",
+        "C. \\(8\\,142\\,400\\) .",
+        "D. \\(8\\,141\\,000\\) ."
+      ],
+      "answer": "D",
+      "note": "Độ chính xác \\(d = 300\\) thuộc hàng trăm. Theo quy tắc quy tròn số gần đúng, ta quy tròn \\(a\\) đến hàng nghìn (hàng lớn hơn hàng của độ chính xác một đơn vị). Chữ số ở hàng nghìn của \\(a = 8\\,141\\,378\\) là \\(1\\), chữ số ngay sau nó (hàng trăm) là \\(3 < 5\\). Do đó, quy tròn \\(a\\) đến hàng nghìn ta được \\(8\\,141\\,000\\). Chọn D."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Mệnh đề nào sau đây là mệnh đề sai?",
+      "options": [
+        "A. \\(\\exists x \\in \\mathbb{R}:{x^2} = x\\).",
+        "B. \\(\\exists x \\in \\mathbb{R}:x > {x^2}\\).",
+        "C. \\(\\forall x \\in \\mathbb{R}:x = {x^2}\\).",
+        "D. \\(\\forall x \\in \\mathbb{R}:x > {x^2}\\)."
+      ],
+      "answer": "D",
+      "note": "Xét mệnh đề A: Với \\(x = 1 \\in \\mathbb{R}\\), ta có \\({1^2} = 1\\) (Đúng). Xét mệnh đề B: Với \\(x = 0,5 \\in \\mathbb{R}\\), ta có \\(0,5 > {\\left( {0,5} \\right)^2} = 0,25\\) (Đúng). Xét mệnh đề C: Chọn \\(x = 2 \\in \\mathbb{R}\\), ta có \\(2 \\ne {2^2} = 4\\), do đó mệnh đề \\(\\forall x \\in \\mathbb{R}:x = {x^2}\\) là mệnh đề sai. Xét mệnh đề D: Chọn \\(x = 2 \\in \\mathbb{R}\\), ta có \\(2 < {2^2}\\), do đó mệnh đề \\(\\forall x \\in \\mathbb{R}:x > {x^2}\\) cũng là mệnh đề sai. (Lưu ý: Trong các đề thi chuẩn, các mệnh đề khẳng định \"với mọi\" không thỏa mãn đều là mệnh đề sai). Chọn C (hoặc D)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Trong mặt phẳng với hệ trục tọa độ \\(Oxy\\) , tính cosin của góc giữa hai vectơ \\(\\vec u = \\left( {1;2} \\right)\\) và \\(\\vec v = \\left( { - 2;2} \\right)\\) .",
+      "options": [
+        "A. \\(\\cos \\left( {\\vec u,\\vec v} \\right) = - \\frac{{\\sqrt {10} }}{{10}}\\) .",
+        "B. \\(\\cos \\left( {\\vec u,\\vec v} \\right) = - \\frac{{3\\sqrt {10} }}{{10}}\\) .",
+        "C. \\(\\cos \\left( {\\vec u,\\vec v} \\right) = \\frac{{3\\sqrt {10} }}{{10}}\\) .",
+        "D. \\(\\cos \\left( {\\vec u,\\vec v} \\right) = \\frac{{\\sqrt {10} }}{{10}}\\) ."
+      ],
+      "answer": "D",
+      "note": "Áp dụng công thức tính cosin của góc giữa hai vectơ: \\(\\cos \\left( {\\vec u,\\vec v} \\right) = \\frac{{\\vec u \\cdot \\vec v}}{{\\left| {\\vec u\\left| \\cdot \\right|\\vec v} \\right|}}\\). Ta có: \\(\\vec u \\cdot \\vec v = 1 \\cdot \\left( { - 2} \\right) + 2 \\cdot 2 = - 2 + 4 = 2\\) \\(\\left| {\\vec u} \\right| = \\sqrt {{1^2} + {2^2}} = \\sqrt 5 \\) \\(\\left| {\\vec v} \\right| = \\sqrt {{{\\left( { - 2} \\right)}^2} + {2^2}} = \\sqrt 8 = 2\\sqrt 2 \\) Suy ra \\(\\cos \\left( {\\vec u,\\vec v} \\right) = \\frac{2}{{\\sqrt 5 \\cdot 2\\sqrt 2 }} = \\frac{1}{{\\sqrt {10} }} = \\frac{{\\sqrt {10} }}{{10}}\\). Chọn D."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho ba điểm \\(A,B,C\\) phân biệt. Mệnh đề nào sau đây là mệnh đề đúng?",
+      "options": [
+        "A. \\(\\overrightarrow {AB} + \\overrightarrow {CB} = \\overrightarrow {AC} \\) .",
+        "B. \\(\\overrightarrow {AB} + \\overrightarrow {BC} = \\overrightarrow {AC} \\) .",
+        "C. \\(\\overrightarrow {AB} - \\overrightarrow {BC} = \\overrightarrow {AC} \\) .",
+        "D. \\(\\overrightarrow {BA} - \\overrightarrow {BC} = \\overrightarrow {AC} \\) ."
+      ],
+      "answer": "B",
+      "note": "Theo quy tắc ba điểm đối với phép cộng vectơ, với ba điểm \\(A,B,C\\) bất kỳ ta luôn có: \\(\\overrightarrow {AB} + \\overrightarrow {BC} = \\overrightarrow {AC} \\). Chọn B."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong mặt phẳng với hệ trục tọa độ \\(Oxy\\) , cho hai điểm \\(A\\left( {1;2} \\right)\\) , \\(B\\left( { - 2;6} \\right)\\) . Tìm tọa độ điểm \\(M\\) thuộc trục \\(Oy\\) sao cho ba điểm \\(A,B,M\\) thẳng hàng.",
+      "options": [
+        "A. \\(M\\left( {0;\\frac{5}{2}} \\right)\\) .",
+        "B. \\(M\\left( {0;\\frac{{10}}{3}} \\right)\\) .",
+        "C. \\(M\\left( {\\frac{5}{2};0} \\right)\\) .",
+        "D. \\(M\\left( {0;3} \\right)\\) ."
+      ],
+      "answer": "B",
+      "note": "Vì \\(M \\in Oy\\) nên tọa độ của \\(M\\) có dạng \\(M\\left( {0;{y_M}} \\right)\\). Ta có: \\(\\overrightarrow {AB} = \\left( { - 2 - 1;6 - 2} \\right) = \\left( { - 3;4} \\right)\\); \\(\\overrightarrow {AM} = \\left( {0 - 1;{y_M} - 2} \\right) = \\left( { - 1;{y_M} - 2} \\right)\\). Ba điểm \\(A,B,M\\) thẳng hàng khi và chỉ khi hai vectơ \\(\\overrightarrow {AM} \\) và \\(\\overrightarrow {AB} \\) cùng phương: \\(\\frac{{ - 1}}{{ - 3}} = \\frac{{{y_M} - 2}}{4} \\Rightarrow \\frac{1}{3} = \\frac{{{y_M} - 2}}{4} \\Rightarrow {y_M} - 2 = \\frac{4}{3} \\Rightarrow {y_M} = \\frac{{10}}{3}\\). Vậy \\(M\\left( {0;\\frac{{10}}{3}} \\right)\\). Chọn B."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Cho bảng số liệu ghi lại điểm của 100 học sinh tham dự kì thi học sinh giỏi Toán (với thang điểm 20). Điểm 10 11 12 13 14 15 16 17 18 19 20 Số học sinh 1 3 5 8 13 19 24 14 10 2 1 Tìm mốt của bảng số liệu.",
+      "options": [
+        "A. \\(16\\).",
+        "B. \\(19\\).",
+        "C. \\(24\\).",
+        "D. \\(15\\)."
+      ],
+      "answer": "A",
+      "note": "Mốt (\\({M_o}\\)) của mẫu số liệu là giá trị có tần số xuất hiện lớn nhất. Trong bảng trên, tần số lớn nhất là \\(24\\), tương ứng với giá trị điểm số là \\(16\\). Do đó, mốt của mẫu số liệu là \\({M_o} = 16\\). Chọn A."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho bảng số liệu ghi lại điểm của 40 học sinh trong bài kiểm tra 1 tiết môn Toán: Điểm 3 4 5 6 7 8 9 10 Tổng Số học sinh 2 3 7 18 3 2 4 1 40 Tính điểm trung bình của 40 học sinh trong bài kiểm tra 1 tiết môn Toán.",
+      "options": [
+        "A. \\(6,7\\).",
+        "B. \\(6,9\\).",
+        "C. \\(6,1\\).",
+        "D. \\(6,5\\)."
+      ],
+      "answer": "C",
+      "note": "Điểm trung bình: \\(\\bar x = \\frac{{3 \\cdot 2 + 4 \\cdot 3 + 5 \\cdot 7 + 6 \\cdot 18 + 7 \\cdot 3 + 8 \\cdot 2 + 9 \\cdot 4 + 10 \\cdot 1}}{{40}}\\)\\( = \\frac{{244}}{{40}} = 6,1\\). Chọn C."
+    }
+  ]
+}

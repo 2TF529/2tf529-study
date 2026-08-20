@@ -1,0 +1,65 @@
+{
+  "id": "2026-vj-3-4-bai-tap-xac-dinh-dieu-kien-de-xay-ra-song-dung-voi-song-dung-",
+  "sourceId": "vietjack:3-4-bai-tap-xac-dinh-dieu-kien-de-xay-ra",
+  "grade": "l11",
+  "subjectSlug": "li",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.4 Bài tập Xác định điều kiện để xảy ra sóng dừng với sóng dừng có một đầu cố định, một đầu tự do (có lời giải)",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Khi có sóng dừng trên sợi dây đàn hồi AB với đầu A là điểm nút và đầu B là điểm bụng thì",
+      "options": [
+        "A. điểm trên dây cách đầu A một đoạn bằng nửa bước sóng là điểm bụng.",
+        "B. điểm trên dây cách đầu A một đoạn bằng một phần tư bước sóng là điểm nút.",
+        "C. điểm trên dây cách đầu B một đoạn bằng ba phần tư bước sóng là điểm bụng.",
+        "D. điểm trên dây cách đầu B một đoạn bằng một phần tư bước sóng là điểm nút."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là D"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Một sợi dây đàn hồi dài 130 cm, có đầu A cố định, đầu B tự do dao động với tần số 100 Hz, vận tốc truyền sóng trên dây là 40 m/s. Số nút và bụng sóng trên dây là",
+      "options": [
+        "A. 6 nút sóng và 6 bụng sóng.",
+        "B. 7 nút sóng và 6 bụng sóng.",
+        "C. 7 nút sóng và 7 bụng sóng.",
+        "D. 6 nút sóng và 7 bụng sóng."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là C l = k + 1 2 v 2 f ⇒ k = 6. Vậy số bụng = số nút = k + 1 = 7."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Dây AB dài 21cm treo lơ lửng, đầu trên A gắn vào nhánh âm thoa dao động với tần số 100Hz Tốc độ truyền sóng trên dây là 4m/s ta thấy trên dây có sóng dừng. Số nút, số bụng trên dây lần lượt là",
+      "options": [
+        "A. 11, 10.",
+        "B. 11,11",
+        "C. 10,11",
+        "D. 10,10"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là B l = 2 k + 1 λ 4 = 2 k + 1 v 4 f ⇔ k = 4 f l v − 1 1 2 = 4.0 , 21.100 4 − 1 1 2 = 10 Suy ra số nút sóng bằng số bụng sóng n = k + 1 = 11"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Một thanh thép mảnh dài 1,2 m được đặt nằm ngang phía dưới một nam châm điện. Cho dòng điện xoay chiều chạy qua nam châm điện thì trên dây thép xuất hiện sóng dừng với 6 bụng sóng với đầu cố định là nút và đầu tự do là bụng. Nếu tốc độ truyền sóng trên thanh là 60 m/s thì tần số của dòng điện xoay chiều là",
+      "options": [
+        "A. 60 Hz.",
+        "B. 63,1 Hz.",
+        "C. 68,75 Hz.",
+        "D. 70,3 Hz."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là C Theo giả thiết, sóng có đầu cố định là nút, đầu tự do là bụng nên: l = k λ 2 + λ 4 Trên dây có 6 bụng sóng ⇒ k = 5 ⇒ 1 , 2 = 5 λ 2 + λ 4 ⇒ λ = 24 55 ( m ) Tần số sóng trên dây là: f = v λ = 137 , 5 ( H z ) Vì f sóng = 2f điện => f điện = 137 , 5 2 = 68,75 Hz."
+    }
+  ]
+}

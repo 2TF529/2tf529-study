@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-2-cac-dang-bai-tap-dinh-luat-boyle-lop-12-co-loi-giai",
+  "sourceId": "vietjack:2-cac-dang-bai-tap-dinh-luat-boyle-lop-1",
+  "grade": "l12",
+  "subjectSlug": "li",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.Các dạng bài tập Định luật Boyle lớp 12 (có lời giải)",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: CÂU HỎI TRẮC NGHIỆM NHIỀU ĐÁP ÁN LỰA CHỌN Chọn câu đúng khi nói về đường đẳng nhiệt trong hệ trục tọa độ (pOV).",
+      "options": [
+        "A. Là một đường cong hyperbol biểu diễn mối quan hệ của áp suất vào thể tích của một lượng khí xác định khi nhiệt độ không đổi.",
+        "B. Là đường thẳng song song với trục OV biểu diễn mối quan hệ giữa áp suất và thể tích.",
+        "C. Là đường thẳng kéo dài đi qua gốc tọa độ.",
+        "D. Là đường biểu diễn mối quan hệ giữa thể tích và nhiệt độ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là A"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Một bình chứa 10 lít khí ở áp suất 2 atm. Người ta nén khí trong bình đến áp suất 4 atm. Nhiệt độ lượng khí trong toàn bộ quá trình là không đổi. Thể tích của khí sau khi nén là bao nhiêu?",
+      "options": [
+        "A. 0,5 lít.",
+        "B. 5 lít.",
+        "C. 1,5 lít.",
+        "D. 1 lít."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là B Áp dụng định luật Boyle, ta có: \\({{\\rm{p}}_1}{{\\rm{V}}_1} = {{\\rm{p}}_2}{{\\rm{V}}_2} \\Rightarrow {{\\rm{V}}_2} = \\frac{{{{\\rm{p}}_1}{{\\rm{V}}_1}}}{{{{\\rm{p}}_2}}} = \\frac{{10.2}}{4} = 5\\;{\\rm{L}}\\)"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Xét quá trình biến đổi đẳng nhiệt của một lượng khí xác định. Để tăng thể tích của lượng khí lên 10% thì áp suất của lượng khí đó thay đổi như thế nào?",
+      "options": [
+        "A. Áp suất giảm \\(9,1\\% .\\)",
+        "B. Áp suất tăng \\(9,1\\% .\\)",
+        "C. Áp suất giảm 1,9%.",
+        "D. Áp suất tăng 1,9%."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là A Theo định luật Boyle, ở nhiệt độ không đổi: \\({{\\rm{p}}_1}{{\\rm{V}}_1} = {{\\rm{p}}_2}{{\\rm{V}}_2} \\Rightarrow {{\\rm{p}}_1}{{\\rm{V}}_1} = {{\\rm{p}}_2}\\left( {{{\\rm{V}}_1} + \\frac{{10}}{{100}}{{\\rm{V}}_1}} \\right).\\) \\( \\Rightarrow {p_1} = \\frac{{11}}{{10}}{p_2} \\Rightarrow {p_2} = \\frac{{10}}{{11}}{p_1} = 0,909{p_1} = 90,9\\% {p_1} \\Rightarrow \\) Áp suất giảm \\(9,1\\% .\\)"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Một chất khí chiếm thể tích 250 ml ở áp suất 750 mmHg và 25 °C. Cần phải tăng áp suất thêm bao nhiêu để giảm thể tích khí xuống 200 ml ở cùng nhiệt độ?",
+      "options": [
+        "A. 1875 mmHg.",
+        "B. 18,75 mmHg.",
+        "C. 187,5 mmHg.",
+        "D. 1,875 mmHg."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là C Ta có: \\({p_1}{{\\rm{V}}_1} = {{\\rm{p}}_2}{{\\rm{V}}_2} \\Rightarrow {{\\rm{p}}_2} = \\frac{{{{\\rm{p}}_1}{{\\rm{V}}_1}}}{{{{\\rm{V}}_2}}} = \\frac{{750.250}}{{200}} = 937,5{\\rm{mmHg}}.\\) Do đó áp suất tăng thêm là \\(\\Delta p = {p_2} - {p_1} = 937,5 - 750 = 187,5{\\rm{mmHg}}.\\)"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Một quả bóng đá có dung tích 2,5 lít. Người ta bơm không khí ở áp suất 10 5 Pa vào bóng. Mỗi lần bơm được 125 cm 3 không khí. Biết trước khi bơm, trong bóng có không khí ở áp suất 10 5 Pa và nhiệt độ không đổi trong thời gian bơm. Áp suất không khí trong quả bóng sau 20 lần bơm bằng",
+      "options": [
+        "A. 5.10 5 Pa.",
+        "B. 2,5.10 5 Pa.",
+        "C. 2.10 5 Pa.",
+        "D. 7,5.10 5 Pa."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là C Theo định luật Boyle thì: \\({\\rm{pV}} = {{\\rm{p}}_0}\\left( {{\\rm{V}} + {\\rm{n}}{{\\rm{V}}_0}} \\right) \\Rightarrow {\\rm{p}} = \\frac{{{{10}^5} \\cdot (2,5 + 20 \\cdot 0,125)}}{{2,5}} = 2 \\cdot {10^5}\\;{\\rm{Pa}}\\)"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Nén khí đẳng nhiệt từ thể tích 9 lít đến thể tích 6 lít thì thấy áp suất tăng lên một lượng 40 kPa. Áp suất ban đầu của khí là",
+      "options": [
+        "A. 20 kPa.",
+        "B. 40 kPa.",
+        "C. 80 kPa.",
+        "D. 60 kPa."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là C Áp dụng định luật Boyle cho lượng khí ở trạng thái đầu và sau ta có: \\(\\left\\{ {\\begin{array}{*{20}{l}}{{p_1}{V_1} = {p_2}{V_2}}\\\\{\\Delta p = {p_2} - {p_1}}\\end{array} \\Rightarrow \\left\\{ {\\begin{array}{*{20}{l}}{{p_1} = \\frac{{{p_2}{V_2}}}{{{V_1}}} = \\frac{{\\left( {40 + {p_1}} \\right){V_2}}}{{{V_1}}}}\\\\{{p_2} - {p_1} = 40}\\end{array} \\Rightarrow \\left\\{ {\\begin{array}{*{20}{l}}{{p_1} = \\frac{{\\left( {40 + {p_1}} \\right) \\cdot 6}}{9} = 80{\\rm{kPa}}}\\\\{{p_2} = 120{\\rm{kPa}}}\\end{array}} \\right.} \\right.} \\right.\\)"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Trong các hệ thức sau đây hệ thức nào không phù hợp với định luật Boyle?",
+      "options": [
+        "A. \\({\\rm{p}} \\sim \\frac{1}{{{\\rm{V}}}}.\\)",
+        "B. \\({p_1}{V_1} = {p_2}{V_2}.\\)",
+        "C. \\({\\rm{V}} \\sim \\frac{1}{{\\rm{p}}}.\\)",
+        "D. \\({\\rm{V}} \\sim {\\rm{p}}.\\)"
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là D"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Một ống thủy tinh hình trụ có chiều dài 1 m, một đầu để hở và một đầu được bịt kín. Nhúng ống thủy tinh đó vào trong nước theo hướng thẳng đứng sao cho đầu được bịt kín hướng lên trên (như hình vẽ). Người ta quan sát thấy mực nước trong ống thấp hơn mực nước ngoài ống là 40 cm. Cho biết trọng lượng riêng của nước là d = 10000 N/m 3 áp suất khí quyển là p 0 = 1,013.10 5 N/m 2 và nhiệt độ trong nước là không thay đổi. Chiều cao của cột nước trong ống là",
+      "options": [
+        "A. 14 cm.",
+        "B. 60 cm.",
+        "C. 38 cm.",
+        "D. 20 cm."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là C Ta có: \\[{p_0}{V_0} = p \\cdot V \\Rightarrow {p_0} \\cdot S \\cdot \\ell = \\left( {{p_0} + {\\rm{dh}}} \\right) \\cdot S(\\ell - x)\\] \\( \\Rightarrow 1,013 \\cdot {10^5} \\cdot 1 = \\left( {1,013 \\cdot {{10}^5} + {{10}^4} \\cdot 0,4} \\right) \\cdot (1 - x) \\Rightarrow x \\approx 0,038(\\;{\\rm{m}}) = 38\\;{\\rm{cm}}\\)"
+    }
+  ]
+}

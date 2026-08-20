@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-5-de-kiem-tra-phep-tinh-logarit-co-loi-giai",
+  "sourceId": "vietjack:5-de-kiem-tra-phep-tinh-logarit-co-loi-g",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "5.Đề kiểm tra Phép tính lôgarit (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Giá trị \\[A = {\\log _9}\\sqrt[4]{{27}}\\] bằng:",
+      "options": [
+        "A. \\[\\frac{1}{2}\\]",
+        "B. \\[\\frac{3}{8}\\]",
+        "C. \\[\\frac{5}{4}\\]",
+        "D. 2"
+      ],
+      "answer": "B",
+      "note": "\\[A = {\\log _9}\\sqrt[4]{{27}} = {\\log _{{3^2}}}{3^{\\frac{3}{4}}} = \\frac{3}{8}\\]"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Giá trị \\[A = {\\log _{\\frac{1}{a}}}\\sqrt[3]{{{a^8}}}\\] với \\(0 < a \\ne 1\\)bằng:",
+      "options": [
+        "A. \\[ - \\frac{8}{3}\\]",
+        "B. \\[ - 2\\]",
+        "C. \\[\\frac{5}{3}\\]",
+        "D. 4"
+      ],
+      "answer": "A",
+      "note": "\\[A = {\\log _{\\frac{1}{a}}}\\sqrt[3]{{{a^8}}} = {\\log _{{a^{ - 1}}}}{a^{\\frac{8}{3}}} = - \\frac{8}{3}\\]"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Xét số thực dương \\(a\\)khác \\(1\\), giá trị của biểu thức \\(N = {\\log _a}\\sqrt {a\\sqrt a } \\)bằng",
+      "options": [
+        "A. \\( - \\frac{3}{4}\\).",
+        "B. \\(\\frac{3}{4}\\).",
+        "C. \\[\\frac{4}{3}\\].",
+        "D. \\(\\frac{3}{2}\\)."
+      ],
+      "answer": "B",
+      "note": "Chọn B Ta có \\(N = {\\log _a}\\sqrt {a\\sqrt a } = {\\log _a}{a^{\\frac{3}{4}}} = \\frac{3}{4}\\)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Giá trị \\[A = {\\log _a}\\left( {\\frac{{{a^2}\\sqrt[3]{{{a^5}}}\\sqrt[5]{{{a^9}}}}}{{\\sqrt[{15}]{{{a^7}}}}}} \\right)\\] với \\(0 < a \\ne 1\\) bằng:",
+      "options": [
+        "A. \\(5\\)",
+        "B. \\[\\frac{{12}}{5}\\]",
+        "C. \\[\\frac{9}{5}\\]",
+        "D. \\(2\\)"
+      ],
+      "answer": "A",
+      "note": "\\[A = {\\log _a}\\left( {\\frac{{{a^2}\\sqrt[3]{{{a^5}}}\\sqrt[5]{{{a^9}}}}}{{\\sqrt[{15}]{{{a^7}}}}}} \\right) = {\\log _a}\\frac{{{a^2}.{a^{\\frac{5}{3}}}.{a^{\\frac{9}{5}}}}}{{{a^{\\frac{7}{{15}}}}}} = {\\log _a}{a^5} = 5\\]"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Giá trị \\[{a^{2 - 3{{\\log }_a}b}}\\] (\\(0 < a \\ne 1\\), \\(b > 0\\)) bằng:",
+      "options": [
+        "A. \\[{a^2}{b^{ - 3}}\\]",
+        "B. \\[{a^2}b\\]",
+        "C. \\[{a^2}{b^3}\\]",
+        "D. \\[a{b^2}\\]"
+      ],
+      "answer": "A",
+      "note": "\\[{a^{2 - 3{{\\log }_a}b}} = \\frac{{{a^2}}}{{{a^{3{{\\log }_a}b}}}} = \\frac{{{a^2}}}{{{b^3}}} = {a^2}{b^{ - 3}}\\]"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho \\(\\log 5 = a\\) thì \\[A = {\\mathop{\\rm l}\\nolimits} og\\frac{1}{{125}}\\] theo a?",
+      "options": [
+        "A. \\(3a\\)",
+        "B. \\( - 3a\\)",
+        "C. \\(4 - 3a\\)",
+        "D. \\(6(a - 1)\\)"
+      ],
+      "answer": "B",
+      "note": "\\[A = {\\mathop{\\rm l}\\nolimits} og\\frac{1}{{125}} = \\log {5^{ - 3}} = - 3\\log 5 = - 3a\\]"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Cho \\(\\log 2 = a\\) thì \\(A = \\log 20\\) bằng?",
+      "options": [
+        "A. \\(a + 1\\)",
+        "B. \\(a + 2\\)",
+        "C. \\(2\\left( {1 - a} \\right)\\)",
+        "D. \\(2\\left( {1 + a} \\right)\\)"
+      ],
+      "answer": "A",
+      "note": "\\(A = \\log 20 = \\log 2.10 = \\log 2 + \\log 10 = \\log 2 + 1 = a + 1\\)"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho \\[a\\] là số thực dương tùy ý, \\[\\ln \\left( {9a} \\right) - \\ln \\left( {7a} \\right)\\] bằng?",
+      "options": [
+        "A. \\[\\frac{{\\ln \\left( {9a} \\right)}}{{\\ln \\left( {7a} \\right)}}\\].",
+        "B. \\[\\ln \\frac{9}{7}\\].",
+        "C. \\[\\ln \\left( {2a} \\right)\\].",
+        "D. \\[\\frac{{\\ln 9}}{{\\ln 7}}\\]."
+      ],
+      "answer": "B",
+      "note": "Với \\[0 < a,a \\ne 1\\] và \\[{b_1},{b_2} > 0\\] ta có \\[{\\log _a}\\left( {\\frac{{{b_1}}}{{{b_2}}}} \\right) = {\\log _a}{b_1} - {\\log _a}{b_2}\\] \\[ \\Rightarrow \\ln \\left( {9a} \\right) - \\ln \\left( {7a} \\right) = \\ln \\left( {\\frac{{9a}}{{7a}}} \\right) = \\ln \\frac{9}{7}\\]"
+    }
+  ]
+}

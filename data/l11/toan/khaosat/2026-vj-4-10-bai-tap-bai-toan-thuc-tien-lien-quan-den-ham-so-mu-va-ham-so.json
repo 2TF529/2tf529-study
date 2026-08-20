@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-4-10-bai-tap-bai-toan-thuc-tien-lien-quan-den-ham-so-mu-va-ham-so",
+  "sourceId": "vietjack:4-10-bai-tap-bai-toan-thuc-tien-lien-qua",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "4.10 Bài tập Bài toán thực tiễn liên quan đến hàm số mũ và hàm số lôgarit (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Số lượng của loại vi khuẩn A trong một phòng thí nghiệm được tính theo công thức s(t) = s(0).2 t , trong đó s(0) là số lượng vi khuẩn A lúc ban đầu, s(t) là số lượng vi khuẩn A có sau t phút. Biết sau 3 phút thì số lượng vi khuẩn A là 625 nghìn con. Hỏi sau bao lâu, kể từ lúc ban đầu, số lượng vi khuẩn A là 10 triệu con?",
+      "options": [
+        "A. 5 phút;",
+        "B. 6 phút;",
+        "C. 7 phút;",
+        "D. 8 phút."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Sau 3 phút thì số lượng vi khuẩn A là 625 nghìn con nên ta có: 625 000 = s(0).2 3 Þ s(0) = 78125 (con vi khuẩn). Tại thời điểm t số lượng vi khuẩn A là 10 triệu con nên ta có: s t = s 0 .2 t ⇔ 2 t = s t s 0 ⇔ 2 t = 10 000 000 78 125 ⇔ 2 t = 128 ⇔ t = 7 . Vậy sau 7 phút kể từ lúc ban đầu, số lượng vi khuẩn A là 10 triệu con."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Bà Mai gửi tiết kiệm ngân hàng Vietcombank số tiền 50 triệu đồng với lãi suất 0,79% một tháng, theo phương thức lãi kép. Tính số tiền cả vốn lẫn lãi bà Mai nhận được sau 2 năm? (làm tròn đến hàng nghìn)",
+      "options": [
+        "A. 60 393 000 đồng;",
+        "B. 50 793 000 đồng;",
+        "C. 50 790 000 đồng;",
+        "D. 59 4 80 000 đồng."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Nhận xét: đây là bài toán lãi kép với chu kỳ là một tháng. Áp dụng công thức: S = A . (1 + r) n với A = 50 triệu đồng, r% = 0,79% và n = 24 tháng. Ta có: S = 50 . (1 + 0,0079) 24 » 60,393 (triệu đồng) = 60 393 000 đồng."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Bạn An gửi tiết kiệm một số tiền ban đầu là 1 000 000 đồng với lãi suất 0,58%/tháng (không kỳ hạn). Hỏi bạn An phải gửi bao nhiêu tháng thì được cả vốn lẫn lãi bằng hoặc vượt quá 1 300 000 đồng?",
+      "options": [
+        "A. 46 tháng;",
+        "B. 44 tháng;",
+        "C. 45 tháng;",
+        "D. 47 tháng."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có: n = log 1 , 0058 1300000 1000000 ≈ 45 , 3662737 (tháng). Để nhận được số tiền cả vốn lẫn lãi bằng hoặc vượt quá 1 300 000 đồng thì bạn An phải gửi ít nhất là 46 tháng."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Một người được lãnh lương khởi điểm là 3 triệu đồng/tháng. Cứ 3 tháng thì lương người đó được tăng thêm 7% /tháng. Hỏi sau 36 năm người đó lĩnh được tất cả số tiền là bao nhiêu?",
+      "options": [
+        "A. » 641 triệu đồng;",
+        "B. » 644 triệu đồng;",
+        "C. » 41 triệu đồng;",
+        "D. » 42 triệu đồng."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Áp dụng công thức: Tổng số tiền nhận được sau kn tháng là S k n = A k 1 + r k − 1 r . S 36 = 3.10 6 .12. 1 , 07 12 − 1 0 , 07 ≈ 643984245 , 8 ≈ 644 000 000 (đồng) Vậy sau 36 năm người đó lĩnh được tất cả số tiền là 644 triệu đồng."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Một người có 58 000 000đ gửi tiết kiệm ngân hàng (theo hình thức lãi kép ) trong 8 tháng thì lĩnh về được 61 329 000đ. Lãi suất hàng tháng là:",
+      "options": [
+        "A. 7%;",
+        "B. 0,7%;",
+        "C. 0,07%;",
+        "D. 0,007%."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Áp dụng công thức lãi kép ta được: r % = 61329000 58000000 8 - 1 ≈ 0 , 7 % Vậy lãi suất hàng tháng là 0,7%."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong một nghiên cứu, một nhóm học sinh được cho xem cùng một danh sách các loài động vật và được kiểm tra lại xem họ còn nhớ bao nhiêu phần trăm danh sách đó sau mỗi tháng. Giả sử sau t tháng, khả năng nhớ trung bình của nhóm học sinh đó được tính theo công thức M(t) = 75 – 20ln(t + 1), 0 ≤ t ≤ 12 (đơn vị: %). Hãy tính khả năng nhớ trung bình của nhóm học sinh đó sau 6 tháng.",
+      "options": [
+        "A. 36,08%;",
+        "B. 37,08%;",
+        "C. 38,08%;",
+        "D. 39,08%."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Sau 6 tháng, tức là t = 6. Khả năng nhớ trung bình của nhóm học sinh đó sau 6 tháng là M(6) = 75 – 20ln(6 + 1) = 75 – 20ln7 ≈ 36,08%."
+    }
+  ]
+}

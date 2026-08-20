@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-4-10-bai-tap-ap-dung-cong-thuc-luong-giac-vao-cac-bai-toan-rut-go",
+  "sourceId": "vietjack:4-10-bai-tap-ap-dung-cong-thuc-luong-gia",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "4.10 Bài tập Áp dụng công thức lượng giác vào các bài toán rút gọn, chứng minh đẳng thức lượng giác (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Giá trị biểu thức sin π 15 c o s π 10 + sin π 10 c o s π 15 c o s 2 π 15 c o s π 5 − sin 2 π 15 sin π 5 bằng",
+      "options": [
+        "A. 1;",
+        "B. −1;",
+        "C. − 3 2 ;",
+        "D. 3 2 ."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A sin π 15 c o s π 10 + sin π 10 c o s π 15 c o s 2 π 15 c o s π 5 − sin 2 π 15 sin π 5 = sin π 15 + π 10 c o s 2 π 15 + π 5 = sin π 6 c o s π 3 = 1 2 1 2 = 1 ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho góc a thỏa mãn \\(0 < \\alpha < \\frac{\\pi }{2}\\) và \\(\\sin \\alpha = \\frac{2}{3}\\) . Tính \\(P = \\frac{{1 + \\sin 2\\alpha + cos2\\alpha }}{{\\sin \\alpha + cos\\alpha }}\\) .",
+      "options": [
+        "A. \\(P = - \\frac{{2\\sqrt 5 }}{3}\\) ;",
+        "B. \\(P = \\frac{3}{2}\\) ;",
+        "C. \\(P = \\frac{{2\\sqrt 5 }}{3}\\) ;",
+        "D. \\(P = - \\frac{3}{2}\\) ."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải: Đáp án đúng là: C \\(P = \\frac{{1 + \\sin 2\\alpha + cos2\\alpha }}{{\\sin \\alpha + cos\\alpha }}\\)\\( = \\frac{{\\left( {1 + cos2\\alpha } \\right) + \\sin 2\\alpha }}{{\\sin \\alpha + cos\\alpha }}\\)\\( = \\frac{{2co{s^2}\\alpha + 2\\sin \\alpha cos\\alpha }}{{\\sin \\alpha + cos\\alpha }}\\) \\( = \\frac{{2cos\\alpha \\left( {\\sin \\alpha + cos\\alpha } \\right)}}{{\\sin \\alpha + cos\\alpha }}\\)\\( = 2cos\\alpha \\) . Có sin 2 a + cos 2 a = 1 mà \\(\\sin \\alpha = \\frac{2}{3}\\) nên \\(co{s^2}\\alpha = \\frac{5}{9}\\) . Vì \\(0 < \\alpha < \\frac{\\pi }{2}\\) nên cos a > 0. Do đó \\(cos\\alpha = \\frac{{\\sqrt 5 }}{3}\\) . Vậy \\(P = \\frac{{2\\sqrt 5 }}{3}\\) ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Đơn giản biểu thức A = 2 c o s 2 x − 1 sin x + cos x ta được kết quả là",
+      "options": [
+        "A. A = sinx – cosx;",
+        "B. A = cosx + sinx;",
+        "C. A = −sinx – cosx;",
+        "D. A = cosx – sinx."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải: Đáp án đúng là: D A = 2 c o s 2 x − 1 sin x + cos x = c o s 2 x sin x + cos x = c o s 2 x − sin 2 x sin x + cos x = c o s x − sin x c o s x + sin x sin x + cos x = c o s x − sin x ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Rút gọn biểu thức P = cos a − c o s 5 a sin 4 a + sin 2 a với (sin4a + sin2a ≠ 0) ta được",
+      "options": [
+        "A. P = 2cota;",
+        "B. P = 2cosa;",
+        "C. P = 2tana",
+        "D. P = 2sina."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải: Đáp án đúng là: D . P = cos a − c o s 5 a sin 4 a + sin 2 a = 2 sin 3 a sin 2 a 2 sin 3 a cos a = sin 2 a cos a = 2 sin a cos a cos a = 2 sin a"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Rút gọn biểu thức \\(A = \\frac{{1 + cos\\alpha + cos2\\alpha + cos3\\alpha }}{{2co{s^2}\\alpha + cos\\alpha - 1}}\\) bằng",
+      "options": [
+        "A. P = −2cos a ;",
+        "B. P = cos a ;",
+        "C. P = 2cos a ;",
+        "D. P = 2sin a ."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải: Đáp án đúng là: C \\(A = \\frac{{1 + cos\\alpha + cos2\\alpha + cos3\\alpha }}{{2co{s^2}\\alpha + cos\\alpha - 1}}\\) \\( = \\frac{{\\left( {1 + cos2\\alpha } \\right) + \\left( {cos\\alpha + cos3\\alpha } \\right)}}{{2co{s^2}\\alpha + cos\\alpha - 1}}\\) \\( = \\frac{{2co{s^2}\\alpha + 2cos2\\alpha cos\\alpha }}{{\\left( {2co{s^2}\\alpha - 1} \\right) + cos\\alpha }}\\) \\( = \\frac{{2cos\\alpha \\left( {cos2\\alpha + cos\\alpha } \\right)}}{{cos2\\alpha + cos\\alpha }}\\) \\( = 2cos\\alpha \\) ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Biểu thức thu gọn của biểu thức \\(B = \\left( {\\frac{1}{{cos2x}} + 1} \\right) \\cdot \\tan x\\) là",
+      "options": [
+        "A. cot2x;",
+        "B. tan2x;",
+        "C. cos2x;",
+        "D. sinx."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải: Đáp án đúng là: B \\(B = \\left( {\\frac{1}{{cos2x}} + 1} \\right) \\cdot \\tan x\\)\\[ = \\frac{{1 + cos2x}}{{cos2x}} \\cdot \\frac{{\\sin x}}{{\\cos x}}\\]\\[ = \\frac{{2{{\\cos }^2}x}}{{cos2x}} \\cdot \\frac{{\\sin x}}{{\\cos x}}\\]\\[ = \\frac{{2\\cos x\\sin x}}{{cos2x}}\\]\\[ = \\frac{{\\sin 2x}}{{cos2x}} = \\tan 2x\\]"
+    }
+  ]
+}

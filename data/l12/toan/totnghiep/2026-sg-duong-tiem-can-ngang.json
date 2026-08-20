@@ -1,0 +1,97 @@
+{
+  "id": "2026-sg-duong-tiem-can-ngang",
+  "sourceId": "sieugioi:duong-tiem-can-ngang",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "title": "Đường tiệm cận ngang",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "short_answer",
+      "content": "Câu 1: Tìm tiệm cận ngang của đồ thị hàm số \\({y=f(x)=\\frac{3 x-2}{x+1}}\\).\nGiải\n​\nTa có: \\(\\mathop {\\lim }\\limits_{x \\to + \\infty } f(x) = \\mathop {\\lim }\\limits_{x \\to + \\infty } \\frac{{3x - 2}}{{x + 1}}\\) \\( = \\mathop {\\lim }\\limits_{x \\to + \\infty } \\frac{{3 - \\frac{2}{x}}}{{1 + \\frac{1}{x}}} = 3.\\)\nTương tự, \\({\\lim _{x \\rightarrow-\\infty} f(x)=3}\\).\nVậy đồ thị hàm số \\({f(x)}\\) có tiệm cận ngang là đường thẳng \\({y=3}\\).",
+      "answer": "0",
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 2,
+      "type": "short_answer",
+      "content": "Câu 2: Tìm các tiệm cận ngang của đồ thị hàm số \\({y=f(x)=\\frac{\\sqrt{x^2+1}}{x}}\\).\nGiải\n​\nTa có:\n\\(\\mathop {\\lim }\\limits_{x \\to + \\infty } f(x) = \\mathop {\\lim }\\limits_{x \\to + \\infty } \\frac{{\\sqrt {{x^2} + 1} }}{x}\\) \\( = \\mathop {\\lim }\\limits_{x \\to + \\infty } \\sqrt {\\frac{{{x^2} + 1}}{{{x^2}}}} \\) \\( = \\mathop {\\lim }\\limits_{x \\to + \\infty } \\sqrt {1 + \\frac{1}{{{x^2}}}} = 1;\\)\n\\(\\mathop {\\lim }\\limits_{x \\to - \\infty } f(x) = \\mathop {\\lim }\\limits_{x \\to - \\infty } \\frac{{\\sqrt {{x^2} + 1} }}{x}\\) \\( = \\mathop {\\lim }\\limits_{x \\to - \\infty } \\left( { - \\sqrt {\\frac{{{x^2} + 1}}{{{x^2}}}} } \\right)\\)\n\\( = \\mathop {\\lim }\\limits_{x \\to - \\infty } \\left( { - \\sqrt {1 + \\frac{1}{{{x^2}}}} } \\right) = - 1\\)\nVậy đồ thị hàm số \\({f(x)}\\) có hai tiệm cận ngang là \\({y=1}\\) và \\({y=-1}\\).",
+      "answer": "0",
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 3,
+      "type": "short_answer",
+      "content": "Câu 3: Tiệm cận ngang của đồ thị hàm số \\(y=\\frac{x-2}{x+1}\\)\nLời giải\n​\nTa có \\(\\underset{x\\to +\\infty }{\\mathop{\\lim }}\\,\\frac{x-2}{x+1}=1\\) và \\(\\underset{x\\to -\\infty }{\\mathop{\\lim }}\\,\\frac{x-2}{x+1}=1\\)\nSuy ra \\(y=1\\) là tiệm cận ngang của đồ thị hàm số.",
+      "answer": "0",
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 4,
+      "type": "short_answer",
+      "content": "Câu 4: Tìm tiệm cận ngang của đồ thị hàm số \\({y=\\frac{-2 x+1}{x+1}}\\).\nLời giải\n​\nTập xác định: \\({D=\\mathbb{R} \\backslash\\{-1\\}}\\).\nTa có \\({\\lim _{x \\rightarrow+\\infty} \\frac{-2 x+1}{x+1}=\\lim _{x \\rightarrow+\\infty} \\frac{-2+\\frac{1}{x}}{1+\\frac{1}{x}}=-2 ; \\lim _{x \\rightarrow-\\infty} \\frac{-2 x+1}{x+1}=\\lim _{x \\rightarrow-\\infty} \\frac{-2+\\frac{1}{x}}{1+\\frac{1}{x}}=-2}\\).\nVậy đường thẳng \\({y=-2}\\) là tiệm cận ngang của đồ thị hàm số.",
+      "answer": "0",
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 5,
+      "type": "short_answer",
+      "content": "Câu 5: Cho hàm số \\(y=\\frac{x+2}{x-3}\\), có đồ thị là \\(\\left( C \\right)\\). Tìm tất cả các điểm \\(M\\) thuộc \\(\\left( C \\right)\\) sao cho khoảng cách từ \\(M\\) đến tiệm cận đứng bằng \\(5\\) lần khoảng cách từ \\(M\\) đến tiệm cận ngang.\nLời giải\n​\nHàm số đã cho xác định và liên tục trên \\(\\left( -\\infty ;3 \\right)\\cup \\left( 3;+\\infty \\right)\\)\nGiả sử \\(M\\left( {{x}_{0}};1+\\frac{5}{{{x}_{0}}-3} \\right)\\) là điểm thuộc đồ thị \\(\\left( C \\right)\\), \\({{x}_{0}}\\ne 3\\).\nKhi đó khoảng cách từ \\(M\\) đến tiệm cận đứng là \\({{d}_{1}}=\\left| {{x}_{0}}-3 \\right|\\)\nKhoảng cách từ \\(M\\) đến tiệm cận đứng là \\({{d}_{2}}=\\frac{5}{\\left| {{x}_{0}}-3 \\right|}\\)\nTheo giả thiết \\({{d}_{1}}=5{{d}_{2}}\\) hay \\(\\left| {{x}_{0}}-3 \\right|=\\frac{25}{\\left| {{x}_{0}}-3 \\right|}\\Leftrightarrow {{\\left( {{x}_{0}}-3 \\right)}^{2}}=25\\), phương trình này có \\(2\\) nghiệm \\({{x}_{0}}=-2\\) hoặc \\({{x}_{0}}=8\\)\nVậy, \\(M\\left( -2;0 \\right),\\) \\(M\\left( 8;2 \\right)\\) là tọa độ cần tìm.",
+      "answer": "0",
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 6,
+      "type": "short_answer",
+      "content": "Câu 6: Tìm tất cả các giá trị thực của tham số \\(m\\) sao cho đồ thị của hàm số \\(y=\\frac{x+1}{\\sqrt{m{{x}^{2}}+1}}\\) có hai tiệm cận ngang\nLời giải\n​\nXét các trường hơp sau:\nVới \\(m=0\\): hàm số trở thành \\(y=x+1\\) nên không có tiệm cận ngang.\nVới \\(m<0\\):\nhàm số \\(y=\\frac{x+1}{\\sqrt{m{{x}^{2}}+1}}=\\frac{x+1}{\\sqrt{1-\\left| m \\right|{{x}^{2}}}}\\) có tập xác định là \\(D=\\left( -\\frac{1}{\\sqrt{\\left| m \\right|}};\\frac{1}{\\sqrt{\\left| m \\right|}} \\right)\\) suy ra không tồn tại giới hạn \\({\\underset{x\\to \\pm \\infty }{\\mathop{\\lim }}\\,y}\\) hay hàm số không có tiệm cận ngang.\nVới \\(m>0\\):\nTa có: \\(\\mathop {\\lim }\\limits_{x \\to - \\infty } {\\mkern 1mu} y = \\mathop {\\lim }\\limits_{x \\to - \\infty } {\\mkern 1mu} \\frac{{x + 1}}{{\\sqrt {m{x^2} + 1} }}\\[ = \\mathop {\\lim }\\limits_{x \\to - \\infty } {\\mkern 1mu} \\frac{{x + 1}}{{\\left| x \\right|\\sqrt {m + \\frac{1}{{{x^2}}}} }}\\] = \\mathop {\\lim }\\limits_{x \\to - \\infty } {\\mkern 1mu} \\frac{{x + 1}}{{ - x\\sqrt {m + \\frac{1}{{{x^2}}}} }}\\)\\( = \\mathop {\\lim }\\limits_{x \\to - \\infty } {\\mkern 1mu} \\frac{{ - \\left( {1 + \\frac{1}{x}} \\right)}}{{\\sqrt {m + \\frac{1}{{{x^2}}}} }} = - \\frac{1}{{\\sqrt m }}.\\)\nvà \\(\\mathop {\\lim }\\limits_{x \\to + \\infty } {\\mkern 1mu} y = \\mathop {\\lim }\\limits_{x \\to + \\infty } {\\mkern 1mu} \\frac{{x + 1}}{{\\sqrt {m{x^2} + 1} }}\\) \\( = \\mathop {\\lim }\\limits_{x \\to + \\infty } {\\mkern 1mu} \\frac{{x + 1}}{{\\left| x \\right|\\sqrt {m + \\frac{1}{{{x^2}}}} }}\\) \\( = \\mathop {\\lim }\\limits_{x \\to + \\infty } {\\mkern 1mu} \\frac{{x + 1}}{{x\\sqrt {m + \\frac{1}{{{x^2}}}} }}\\) \\( = \\mathop {\\lim }\\limits_{x \\to + \\infty } {\\mkern 1mu} \\frac{{\\left( {1 + \\frac{1}{x}} \\right)}}{{\\sqrt {m + \\frac{1}{{{x^2}}}} }} = \\frac{1}{{\\sqrt m }}.\\)\nVậy hàm số có hai tiệm cận ngang là : \\(y=\\frac{1}{\\sqrt{m}}\\,;\\,y=-\\frac{1}{\\sqrt{m}}\\) khi \\(m>0\\).",
+      "answer": "0",
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 7,
+      "type": "short_answer",
+      "content": "Câu 7: Với giá trị nào của hàm số \\(m\\)để đồ thị hàm số \\(y=x-\\sqrt{m{{x}^{2}}-3x+7}\\,\\)có tiệm cận ngang.\nLời giải\n​\nĐồ thị hàm số có tiệm cận ngang\n\\(\\Rightarrow \\)Hàm số xác định trên một trong các miền \\(\\left( -\\infty ;a \\right),\\,\\left( -\\infty ;a \\right],\\,\\left( a,+\\infty \\right)\\)hoặc \\(\\left[ a;+\\infty \\right)\\)\n\\(m\\ge 0\\)\nTH1: \\(m=0\\Rightarrow y=x-\\sqrt{-3x+7},\\,\\underset{x\\to \\pm \\infty }{\\mathop{\\lim }}\\,y=\\pm \\infty \\) đồ thị không có tiệm cận ngang\nTH2: \\(m>0,\\,y\\,=x-\\sqrt{m{{x}^{2}}-3x+7}\\)\nKhi \\(\\underset{x\\to +\\infty }{\\mathop{\\lim y}}\\,=\\underset{x\\to +\\infty }{\\mathop{\\lim }}\\,\\left( x-x\\sqrt{m-\\frac{3}{x}+\\frac{7}{{{x}^{2}}}} \\right)=\\frac{3}{2}\\) đồ thị hàm số có tiệm cận ngang khi và chỉ khi \\(m=1\\).\nVậy \\(m=1\\)\nCách trắc nghiệm:\nThay \\(m=1\\[\\Rightarrow y=x-\\sqrt{{{x}^{2}}-3x+7}\\,\\Rightarrow \\underset{x\\to +\\infty }{\\mathop{\\lim }}\\,\\left( x-\\sqrt{{{x}^{2}}-3x+7} \\right)=\\frac{3}{2}\\)đồ thị hàm số có tiệm cận ngang\n\\(\\Rightarrow \\underset{x\\to -\\infty }{\\mathop{\\lim }}\\,\\left( x-\\sqrt{{{x}^{2}}-3x+7} \\right)=-\\infty \\) không có tiệm cận ngang.\nThay \\(m=-1\\] \\Rightarrow y = x - \\sqrt { - {x^2} - 3x + 7} \\,\\) \\( \\Rightarrow \\mathop {\\lim }\\limits_{x \\to + \\infty } \\left( {x - \\sqrt { - {x^2} - 3x + 7} } \\right)\\,\\)không xác định.\n\\(\\underset{x\\to -\\infty }{\\mathop{\\lim }}\\,\\left( x-\\sqrt{-{{x}^{2}}-3x+7} \\right)\\) không xác định.\nVậy \\(m=1\\)",
+      "answer": "0",
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 8,
+      "type": "short_answer",
+      "content": "Câu 8: Có bao nhiêu giá trị nguyên của \\(m\\) để tổng số tiệm cận ngang và tiệm cận đứng của đồ thị hàm số \\(y=\\frac{\\sqrt{m{{x}^{2}}+3mx+4}}{x+2}\\) bằng 3?\nLời giải\n​\nĐồ thị hàm số \\(y=\\frac{\\sqrt{m{{x}^{2}}+3mx+4}}{x+2}\\) có nhiều nhất một tiệm cận đứng và hai tiệm cận ngang.\nĐiều kiện để đồ thị hàm số \\(y=\\frac{\\sqrt{m{{x}^{2}}+3mx+4}}{x+2}\\) có 3 tiệm cận là nó có đúng 1 tiệm cận đứng và 2 tiệm cận ngang.\n* Xét điều kiện tồn tại \\(\\underset{x\\to +\\infty }{\\mathop{\\lim }}\\,y\\) và \\(\\underset{x\\to -\\infty }{\\mathop{\\lim }}\\,y\\)\nTrường hợp 1\n: \\(g\\left( x \\right)=m{{x}^{2}}+3mx+4\\ge 0\\) với \\(\\forall x\\in \\mathbb{R}\\) \\( \\Leftrightarrow \\left[ \\begin{array}{l} m = 0\\\\ \\left\\{ \\begin{array}{l} m > 0\\\\ \\Delta = 9{m^2} - 16m \\le 0 \\end{array} \\right. \\end{array} \\right.\\) \\( \\Leftrightarrow 0 \\le m \\le \\frac{{16}}{9}\\)\nTrường hợp 2:\n\\(g\\left( x \\right)=m{{x}^{2}}+3mx+4\\ge 0\\) với \\(\\forall x\\in \\left( -\\infty ;{{x}_{1}} \\right)\\cup \\left( {{x}_{2}};+\\infty \\right)\\)với \\({{x}_{1}}\\); \\({{x}_{2}}\\) là nghiệm của \\(g\\left( x \\right)\\) \\(\\Leftrightarrow \\left\\{ \\begin{align} & m>0 \\\\ & \\Delta =9{{m}^{2}}-16m>0 \\\\ \\end{align} \\right.\\Leftrightarrow m>\\frac{16}{9}\\)\nVậy \\(m\\ge 0\\) thì tồn tại \\(\\underset{x\\to +\\infty }{\\mathop{\\lim }}\\,y\\) và \\(\\underset{x\\to -\\infty }{\\mathop{\\lim }}\\,y\\)\nKhi đó:\n\\(\\underset{x\\to +\\infty }{\\mathop{\\lim }}\\,y=\\underset{x\\to +\\infty }{\\mathop{\\lim }}\\,\\frac{\\sqrt{m{{x}^{2}}+3mx+4}}{x+2}=\\underset{x\\to +\\infty }{\\mathop{\\lim }}\\,\\frac{\\sqrt{m+\\frac{3m}{x}+\\frac{4}{{{x}^{2}}}}}{1+\\frac{2}{x}}=\\sqrt{m}\\)\n\\(\\underset{x\\to -\\infty }{\\mathop{\\lim }}\\,y=\\underset{x\\to -\\infty }{\\mathop{\\lim }}\\,\\frac{\\sqrt{m{{x}^{2}}+3mx+4}}{x+2}=\\underset{x\\to -\\infty }{\\mathop{\\lim }}\\,\\frac{-\\sqrt{m+\\frac{3m}{x}+\\frac{4}{{{x}^{2}}}}}{1+\\frac{2}{x}}=-\\sqrt{m}\\)\nVậy điều kiện để đồ thị hàm số có hai đường tiệm cận ngang là \\(m>0\\)\n* Xét trường hợp \\(x=-2\\) là nghiệm của tử số\\(\\Rightarrow x=-2\\) là nghiệm của \\(g\\left( x \\right)=m{{x}^{2}}+3mx+4\\)\n\\(\\Rightarrow \\) \\(g\\left( -2 \\right)=0\\Rightarrow m=2\\)\nKhi đó \\(y=\\frac{\\sqrt{2{{x}^{2}}+6x+4}}{x+2}\\)\\(\\Rightarrow \\underset{x\\to -{{2}^{-}}}{\\mathop{\\lim }}\\,y=\\frac{\\sqrt{2\\left( x+1 \\right)\\left( x+2 \\right)}}{x+2}=\\underset{x\\to -{{2}^{-}}}{\\mathop{\\lim }}\\,\\left[ -\\sqrt{\\frac{2\\left( x+1 \\right)}{x+2}} \\right]=-\\infty \\)\n\\(\\Rightarrow \\) Đồ thị hàm số có một tiệm cận đứng \\(x=-2\\).\n\\(\\Rightarrow \\) \\(m=2\\) thỏa mãn\n* Xét trường hợp \\(x=-2\\) không là nghiệm của tử số, để \\(x=-2\\) là tiệm cận đứng của đồ thị hàm số thì \\(\\left\\{ \\begin{align} & g\\left( -2 \\right)\\ne 0 \\\\ & g\\left( -2 \\right)\\ge 0 \\\\ \\end{align} \\right.\\Leftrightarrow g\\left( -2 \\right)>0\\Leftrightarrow 4-2m>0\\Leftrightarrow m<2\\)\n\\(\\Rightarrow \\) đồ thị hàm số có một đường tiệm cận đứng \\(x=-2\\) với \\(\\forall m\\in \\left( 0;2 \\right]\\)\nVậy điều kiện để đồ thị hàm số \\(y=\\frac{\\sqrt{m{{x}^{2}}+3mx+4}}{x+2}\\) có 3 tiệm cận là \\(\\forall m\\in \\left( 0;2 \\right]\\)\nVậy có hai giá trị nguyên của \\(m\\) thỏa mãn đề bài là \\(m=1\\); \\(m=2\\).",
+      "answer": "0",
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 9,
+      "type": "short_answer",
+      "content": "Câu 9: Tìm tất cả các giá trị thực của tham số \\(m\\) để đồ thị hàm số: \\(y=x+\\sqrt{m{{x}^{2}}+1}\\) có tiệm cận ngang.\nLời giải\n​\nĐiều kiện cần và đủ để đồ thị hàm số: \\(y=x+\\sqrt{m{{x}^{2}}+1}\\) có tiệm cận ngang là tồn tại số thực k sao cho: \\(\\left[ \\underset{x\\to \\infty }{\\mathop{\\begin{align} & \\underset{x\\to +\\infty }{\\mathop{\\lim }}\\,(x+\\sqrt{m{{x}^{2}}+1})=k \\\\ & \\underset{x\\to -\\infty }{\\mathop{\\lim }}\\,(x+\\sqrt{m{{x}^{2}}+1})=k \\\\ \\end{align}}}\\, \\right.\\)\nHiển nhiên nếu \\(m\\le 0\\) thì giới \\(\\underset{x\\to \\pm \\infty }{\\mathop{\\lim }}\\,(x+\\sqrt{m{{x}^{2}}+1})\\) không hữu hạn\nNếu \\(m>0\\) ta có\n+\\(\\underset{x\\to +\\infty }{\\mathop{\\lim }}\\,(x+\\sqrt{m{{x}^{2}}+1})=+\\infty .\\)\n+\\(\\mathop {\\lim }\\limits_{x \\to - \\infty } y = \\mathop {\\lim }\\limits_{x \\to - \\infty } (x + \\sqrt {m{x^2} + 1} )\\) \\( = \\mathop {\\lim }\\limits_{x \\to - \\infty } \\frac{{{x^2}(1 - m) - 1}}{{x - \\sqrt {m{x^2} + 1} }}\\) \\( = \\mathop {\\lim }\\limits_{x \\to - \\infty } \\frac{{x(1 - m) - \\frac{1}{x}}}{{1 + \\sqrt {m + \\frac{1}{{{x^2}}}} }}\\)\nĐể giới hạn trên hữu hạn khi và chỉ khi \\(m=1.\\)",
+      "answer": "0",
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 10,
+      "type": "short_answer",
+      "content": "Câu 10: Tìm được trên đồ thị \\(\\left( C \\right):y=\\frac{x+2}{x-3}\\) những điểm \\(M\\) sao cho khoảng cách từ điểm \\(M\\) đến đường tiệm cận đứng bằng \\(\\frac{1}{5}\\) khoảng cách từ điểm \\(M\\) đến đường tiệm cận ngang. Hỏi có bao nhiêu điểm \\(M\\) thỏa mãn?\nLời giải\n​\nHàm số đã cho xác định và liên tục trên \\(\\left( -\\infty ;3 \\right)\\cup \\left( 3;+\\infty \\right)\\)\nGọi đường tiệm cận đứng, tiệm cận ngang lần lượt là \\(\\left( {{d}_{1}} \\right):x=3,\\left( {{d}_{2}} \\right):y=1\\).\n\\(M\\left( {{x}_{0}};{{y}_{0}} \\right)\\in \\,\\left( C \\right)\\Rightarrow M\\left( {{x}_{0}};\\,\\frac{{{x}_{0}}+2}{{{x}_{0}}-3} \\right)\\)\nTa có \\(d\\left( M,{{d}_{1}} \\right)=\\left| {{x}_{0}}-3 \\right|,d\\left( M,{{d}_{2}} \\right)=\\left| \\frac{{{x}_{0}}+2}{{{x}_{0}}-3}-1 \\right|=\\left| \\frac{5}{{{x}_{0}}-3} \\right|\\)\nTheo bài ra ta có \\(\\left| {{x}_{0}}-3 \\right|=\\frac{1}{5}\\left| \\frac{5}{{{x}_{0}}-3} \\right|\\Leftrightarrow {{\\left( {{x}_{0}}-3 \\right)}^{2}}=1\\Leftrightarrow \\left[ \\begin{align} & {{x}_{0}}=4 \\\\ & {{x}_{0}}=2 \\\\ \\end{align} \\right.\\)\nVậy có \\(2\\) điểm thỏa mãn \\({{M}_{1}}\\left( 2;-4 \\right),{{M}_{2}}\\left( 4;6 \\right)\\).\nChú ý:\n1. \\(d\\left( M,{{d}_{1}} \\right).d\\left( M,{{d}_{2}} \\right)=\\left| {{x}_{0}}-3 \\right|.\\left| \\frac{5}{{{x}_{0}}-3} \\right|=5\\)\n2. \\(d\\left( M,{{d}_{1}} \\right)+d\\left( M,{{d}_{2}} \\right)\\ge 2\\sqrt{d\\left( M,{{d}_{1}} \\right).d\\left( M,{{d}_{2}} \\right)}=2\\sqrt{5}\\)",
+      "answer": "0",
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 11,
+      "type": "short_answer",
+      "content": "Câu 11: Cho hàm số \\(y=f\\left( x \\right)\\) thỏa mãn \\(\\underset{x\\to \\,-\\,\\infty }{\\mathop{\\lim }}\\,f\\left( x \\right)=-1\\) và \\(\\underset{x\\to \\,+\\,\\infty }{\\mathop{\\lim }}\\,f\\left( x \\right)=m\\). Có bao nhiêu giá trị thực của tham số \\(m\\) để hàm số \\(y=\\frac{1}{f\\left( x \\right)+2}\\) có duy nhất một tiệm cận ngang.\nLời giải\n​\nTa có \\(\\underset{x\\to \\,-\\infty }{\\mathop{\\lim }}\\,y=\\underset{x\\to \\,-\\infty }{\\mathop{\\lim }}\\,\\frac{1}{f\\left( x \\right)+2}=1\\Rightarrow \\) Đồ thị hàm số có tiệm cận ngang \\(y=1\\).\nTH 1: Nếu \\(m=-1\\) thì \\(\\underset{x\\to \\,-\\,\\infty }{\\mathop{\\lim }}\\,\\frac{1}{f\\left( x \\right)+2}=1\\) và \\(\\underset{x\\to \\,+\\,\\infty }{\\mathop{\\lim }}\\,\\frac{1}{f\\left( x \\right)+2}=1\\) thì đồ thị hàm số có một tiệm cận.\nTH 2: Nếu \\(m\\ne -1\\)\nĐể đồ thị hàm số có một tiệm cận ngang\\(\\Leftrightarrow \\underset{x\\to \\,+\\infty }{\\mathop{\\lim }}\\,\\frac{1}{f\\left( x \\right)+2}\\) không có giá trị hữu hạn\n\\(\\Leftrightarrow m+2=0\\Leftrightarrow m=-2\\).\nVậy khi \\(m\\in \\left\\{ -2;-1 \\right\\}\\) thì đồ thị hàm số có duy nhất một tiệm cận ngang.",
+      "answer": "0",
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 12,
+      "type": "short_answer",
+      "content": "Câu 12: Cho hàm số \\(y=f\\left( x \\right)\\) xác định, liên tục trên \\(\\mathbb{R}\\) và có bảng biến thiên như hình bên dưới:\nTổng số tiệm cận ngang và tiệm cận đứng của đồ thị hàm số \\(y=\\frac{1}{2f\\left( x \\right)-1}\\)là?\nLời giải\n​\nĐặt \\(h\\left( x \\right)=\\frac{1}{2f\\left( x \\right)-1}\\).\n*) Tiệm cận ngang:\nTa có: \\(\\underset{x\\to +\\infty }{\\mathop{\\lim }}\\,h\\left( x \\right)=\\underset{x\\to +\\infty }{\\mathop{\\lim }}\\,\\frac{1}{2f\\left( x \\right)-1}=0\\).\n\\(\\underset{x\\to -\\infty }{\\mathop{\\lim }}\\,h\\left( x \\right)=\\underset{x\\to -\\infty }{\\mathop{\\lim }}\\,\\frac{1}{2f\\left( x \\right)-1}=0\\).\nSuy ra đồ thị hàm số có một đường tiệm cận ngang \\(y=0\\).\n*) Tiệm cận đứng:\nXét phương trình: \\(2f\\left( x \\right)-1=0\\)\\(\\Leftrightarrow f\\left( x \\right)=\\frac{1}{2}\\).\nDựa vào bảng biến thiên ta thấy phương trình \\(f\\left( x \\right)=\\frac{1}{2}\\) có ba nghiệm phân biệt \\(a,\\,\\,b,\\,\\,c\\) thỏa mãn \\(a<1<b<2<c\\).\nĐồng thời \\(\\underset{x\\to {{a}^{+}}}{\\mathop{\\lim }}\\,h\\left( x \\right)=\\underset{x\\to {{b}^{-}}}{\\mathop{\\lim }}\\,h\\left( x \\right)=\\underset{x\\to {{c}^{+}}}{\\mathop{\\lim }}\\,h\\left( x \\right)=+\\infty \\) nên đồ thị hàm số \\(y=h\\left( x \\right)\\) có ba đường tiệm cận đứng là \\(x=a\\), \\(x=b\\) và \\(x=c\\).\nVậy tổng số tiệm cận ngang và tiệm cận đứng của đồ thị hàm số \\(y=h\\left( x \\right)\\) là 4.",
+      "answer": "0",
+      "note": "Đáp án đối chiếu chuẩn"
+    }
+  ]
+}

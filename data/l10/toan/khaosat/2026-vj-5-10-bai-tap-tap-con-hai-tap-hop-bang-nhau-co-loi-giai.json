@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-5-10-bai-tap-tap-con-hai-tap-hop-bang-nhau-co-loi-giai",
+  "sourceId": "vietjack:5-10-bai-tap-tap-con-hai-tap-hop-bang-nh",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "5.10 Bài tập Tập con. Hai tập hợp bằng nhau (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho tập hợp A = {2; 4; 6; 8}. Số tập con của tập hợp A là?",
+      "options": [
+        "A. 15;",
+        "B. 16;",
+        "C. 17;",
+        "D. 18."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B. Ta có: + Các tập con có 0 phần tử: ∅ . + Các tập con có 1 phần tử: {2}, {4}, {6}, {8}. + Các tập con có 2 phần tử: {2; 4}, {2; 6}, {2; 8}, {4; 6}, {4; 8}, {6; 8}. + Các tập con có 3 phần tử: {2; 4; 6}, {2; 4; 8}, {2; 6; 8}, {4; 6; 8}. + Các tập con có 4 phần tử: {2; 4; 6; 8}. Vậy tập hợp A có 16 tập con."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Tập hợp B = {0; a; b} có bao nhiêu tập con?",
+      "options": [
+        "A. 5;",
+        "B. 6;",
+        "C. 7;",
+        "D. 8."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D. Ta có: + Các tập con có 0 phần tử: ∅ . + Các tập con có 1 phần tử: {0}, {a}, {b}. + Các tập con có 2 phần tử: {0; a}, {0; b}, {a; b}. + Các tập con có 3 phần tử: {0; a; b}. Vậy tập hợp A có 8 tập con."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Tập hợp C = {x ∈ ℤ | (x 2 – 4)(x 2 – 4x + 3) = 0} có bao nhiêu tập con?",
+      "options": [
+        "A. 16;",
+        "B. 17;",
+        "C. 18;",
+        "D. 19."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A. Ta có: (x 2 – 4)(x 2 – 4x + 3) = 0 ⇔ x 2 – 4 = 0 x 2 – 4 x + 3 = 0 ⇔ x = 2 x = − 2 x = 1 x = 3 . Vì x ∈ ℤ nên 4 nghiệm trên đều thỏa mãn. Vậy C = {– 2; 2; 1; 3}. Ta lại có: + Các tập con có 0 phần tử: ∅ . + Các tập con có 1 phần tử: {– 2}, {2}, {1}, {3}. + Các tập con có 2 phần tử: {– 2; 2}, {– 2; 1}, {– 2; 3}, {2; 1}, {2; 3}, {1; 3}. + Các tập con có 3 phần tử: {– 2; 2; 1}, {– 2; 2; 3}, {– 2; 1; 3}, {2; 1; 3}. + Các tập con có 4 phần tử: {– 2; 2; 1; 3}. Vậy tập hợp C có 16 tập con."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Số các tập con có 2 phần tử của tập hợp D = {1; 2; 3; 4; 5} là:",
+      "options": [
+        "A. 8;",
+        "B. 9;",
+        "C. 10;",
+        "D. 11."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C. Ta có các tập con chứa hai phần tử của tập hợp D là: {1; 2}, {1; 3}, {1; 4}, {1; 5}, {2; 3}, {2; 4}, {2; 5}, {3; 4}, {3; 5}, {4; 5}. Do đó có tất cả 10 tập con chứa 2 phần tử."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho tập hợp E = {a; b; c}. Mệnh đề nào sau đây sai?",
+      "options": [
+        "A. {a; b} = E;",
+        "B. ∅ ⊂ E;",
+        "C. {a} ⊂ E;",
+        "D. {d} ⊄ E."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A. A. Ta thấy mệnh đề ở câu A sai do tập hợp E có 3 phần tử là a, b, c. Còn tập hợp {a; b} chỉ có 2 phần tử là a, b nên 2 tập hợp trên không bằng nhau. B. Theo lý thuyết ta có ∅ ⊂ E, với mọi tập hợp E. Do đó mệnh đề ở câu B đúng. C. Ta thấy tập hợp {a} có 1 phần tử là a. Mà phần tử a cũng thuộc tập hợp E. Vậy {a} ⊂ E. Do đó mệnh đề ở câu C đúng. D. Ta thấy tập hợp {d} có 1 phần tử là d. Mà phần tử d không thuộc tập hợp E. Vậy {d} ⊄ E. Do đó mệnh đề ở câu D đúng."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Tập hợp nào dưới đây bằng tập hợp X = {1; 2}?",
+      "options": [
+        "A. A = {x ∈ ℤ | x 2 – 9 = 0};",
+        "B. B = {x ∈ ℤ | x 2 – 6x + 5 = 0};",
+        "C. C = {x ∈ ℤ | x 2 – 3x + 2 = 0};",
+        "D. D = {x ∈ ℤ | x 2 – 1 = 0}."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C. A. Ta có: x 2 – 9 = 0 ⇔ x = 3 x = − 3 . Vì x ∈ ℤ nên hai nghiệm trên đều thỏa mãn. Vậy A = {– 3; 3}. Do các phần tử của tập hợp A không là phần tử của tập hợp X nên hai tập hợp trên không bằng nhau. B. Ta có: x 2 – 6x + 5 = 0 ⇔ x = 1 x = 5 . Vì x ∈ ℤ nên hai nghiệm trên đều thỏa mãn. Vậy B = {1; 5}. Do các phần tử của tập hợp B không là phần tử của tập hợp X nên hai tập hợp trên không bằng nhau. C. Ta có: x 2 – 3x + 2 = 0 ⇔ x = 1 x = 2 . Vì x ∈ ℤ nên hai nghiệm trên đều thỏa mãn. Vậy C = {1; 2}. Do các phần tử của tập hợp C cũng là phần tử của tập hợp X nên hai tập hợp trên bằng nhau hay C = X. D. Ta có: x 2 – 1 = 0 ⇔ x = 1 x = − 1 . Vì x ∈ ℤ nên hai nghiệm trên đều thỏa mãn. Vậy D = {– 1; 1}. Do các phần tử của tập hợp D không là phần tử của tập hợp X nên hai tập hợp trên không bằng nhau."
+    }
+  ]
+}

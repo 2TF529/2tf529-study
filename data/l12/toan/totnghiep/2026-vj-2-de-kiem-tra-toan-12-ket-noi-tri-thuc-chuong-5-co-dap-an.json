@@ -1,0 +1,78 @@
+{
+  "id": "2026-vj-2-de-kiem-tra-toan-12-ket-noi-tri-thuc-chuong-5-co-dap-an",
+  "sourceId": "vietjack:2-de-kiem-tra-toan-12-ket-noi-tri-thuc-c",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "title": "2.Đề kiểm tra Toán 12 Kết nối tri thức Chương 5 có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Trong không gian \\(Oxyz\\), cho mặt phẳng \\(\\left( P \\right):x + y - z + 1 = 0\\). Điểm nào sau đây thuộc mặt phẳng \\(\\left( P \\right)?\\)",
+      "options": [
+        "A. \\(A\\left( {1;1;3} \\right).\\)",
+        "B. \\(B\\left( {1;1; - 3} \\right).\\)",
+        "C. \\(C\\left( {3;1;1} \\right).\\)",
+        "D. \\(D\\left( { - 1; - 1;3} \\right).\\)"
+      ],
+      "answer": "D",
+      "note": "Chọn đáp án A Ta có: \\(1 + 1 - 3 + 1 = 0 \\Rightarrow \\) điểm \\(A\\left( {1;1;3} \\right) \\in \\left( P \\right).\\)"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Trong không gian \\(Oxyz\\), cho đường thẳng \\(d:\\frac{{x - 3}}{2} = \\frac{{y - 4}}{{ - 5}} = \\frac{{z + 5}}{3}\\). Điểm nào sau đây thuộc đường thẳng \\(d\\)?",
+      "options": [
+        "A. \\(M\\left( {3;4; - 5} \\right)\\).",
+        "B. \\(N\\left( {2; - 5;3} \\right)\\).",
+        "C. \\(P\\left( { - 3; - 4;5} \\right)\\).",
+        "D. \\(Q\\left( {2;5; - 3} \\right)\\)."
+      ],
+      "answer": "A",
+      "note": "Chọn đáp án A Thay tọa độ của điểm \\(M\\left( {3;4; - 5} \\right)\\) vào phương trình đường thẳng \\(d\\) ta có \\(\\frac{{3 - 3}}{2} = \\frac{{4 - 4}}{{ - 5}} = \\frac{{ - 5 + 5}}{3}.\\) Do đó \\(M \\in d\\)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Trong không gian tọa độ \\[Oxyz\\] , cho đường thẳng \\[\\left( d \\right)\\]có phương trình \\[\\frac{{x + 1}}{{ - 2}} = \\frac{{2 - y}}{3} = \\frac{z}{2}\\] . Vectơ nào sau đây là một vectơ chỉ phương của đường thẳng \\[\\left( d \\right)\\]?",
+      "options": [
+        "A. \\[\\overrightarrow u = \\left( { - 2; - 3;2} \\right)\\].",
+        "B. \\[\\overrightarrow u = \\left( { - 2;3;2} \\right)\\].",
+        "C. \\[\\overrightarrow u = \\left( {2; - 3; - 2} \\right)\\].",
+        "D. \\[\\overrightarrow u = \\left( { - 2; - 3; - 2} \\right)\\]."
+      ],
+      "answer": "A",
+      "note": "Chọn đáp án A Từ phương trình \\[\\frac{{x + 1}}{{ - 2}} = \\frac{{2 - y}}{3} = \\frac{z}{2} \\Leftrightarrow \\frac{{x + 1}}{{ - 2}} = \\frac{{y - 2}}{{ - 3}} = \\frac{z}{2}\\], khi đó một vectơ chỉ phương của đường thẳng \\[\\left( d \\right)\\] là \\[\\overrightarrow u = \\left( { - 2; - 3;2} \\right)\\]."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Trong không gian với hệ trục tọa độ \\[Oxyz\\], cho đường thẳng \\[d:\\frac{{x - 1}}{4} = \\frac{{y - 2}}{3} = \\frac{{z - 3}}{{ - 7}}\\]. Phương trình mặt phẳng đi qua \\[A\\left( {1;2;3} \\right)\\] và vuông góc với đường thẳng d là",
+      "options": [
+        "A. \\[4x + 3y + 7z - 11 = 0\\].",
+        "B. \\[4x + 3y + 7z + 11 = 0\\].",
+        "C. \\[4x + 3y - 7z + 11 = 0\\].",
+        "D. \\[4x + 3y - 7z - 11 = 0\\]."
+      ],
+      "answer": "C",
+      "note": "Chọn đáp án C Vì mặt phẳng vuông góc với đường thẳng d nên \\[\\overrightarrow n = \\overrightarrow u = \\left( {4;3; - 7} \\right)\\]. Phương trình mặt phẳng đi qua \\[A\\left( {1;2;3} \\right)\\] và có vectơ pháp tuyến \\[\\overrightarrow n = \\left( {4;3; - 7} \\right)\\]. \\[4\\left( {x - 1} \\right) + 3\\left( {y - 2} \\right) - 7\\left( {z - 3} \\right) = 0\\]\\[ \\Leftrightarrow 4x + 3y - 7z + 11 = 0\\]."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong không gian \\(Oxyz\\), cho hai điểm \\(A\\left( {1;3; - 2} \\right),B\\left( {2; - 2; - 1} \\right)\\). Phương trình đường thẳng \\(AB\\) là",
+      "options": [
+        "A. \\(\\frac{{x + 1}}{1} = \\frac{{y + 3}}{{ - 5}} = \\frac{{z - 2}}{1}\\).",
+        "B. \\(\\frac{{x - 1}}{1} = \\frac{{y - 3}}{3} = \\frac{{z + 2}}{{ - 2}}\\).",
+        "C. \\(\\frac{{x - 2}}{1} = \\frac{{y + 2}}{{ - 5}} = \\frac{{z + 1}}{1}\\).",
+        "D. \\(\\frac{{x + 2}}{1} = \\frac{{y - 2}}{{ - 5}} = \\frac{{z - 1}}{1}\\)."
+      ],
+      "answer": "C",
+      "note": "Chọn đáp án C Vectơ chỉ phương của đường thẳng \\(AB\\) là \\(\\overrightarrow u = \\overrightarrow {AB} = \\left( {1; - 5;1} \\right)\\). Phương trình đường thẳng \\(AB\\) là \\(\\frac{{x - 2}}{1} = \\frac{{y + 2}}{{ - 5}} = \\frac{{z + 1}}{1}\\)."
+    }
+  ]
+}

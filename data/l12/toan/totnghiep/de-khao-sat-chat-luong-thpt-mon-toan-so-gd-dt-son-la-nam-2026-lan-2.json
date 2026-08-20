@@ -1,0 +1,196 @@
+{
+  "id": "l12-toan-totnghiep-2026-de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-son-la-nam-2026-lan-2",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "code": "THPT_TKT_2026_SL_02",
+  "title": "Đề khảo sát chất lượng THPT môn Toán Sở GD&ĐT Sơn La năm 2026 - Lần 2",
+  "duration": 90,
+  "answerSource": "official",
+  "source": "https://dolthpt.vn/tot-nghiep-thpt/pdf-de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-son-la-nam-2026-lan-2-co-dap-an",
+  "notes": "Nội dung, đáp án và lời giải được nhập từ bản công khai của DOL THPT.",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "content": "Doanh thu bán hàng trong \\$20$ ngày được lựa chọn ngẫu nhiên của một cửa hàng được ghi lại ở bảng sau (đơn vị: triệu đồng). Số trung bình của mẫu số liệu trên thuộc khoảng nào trong các khoảng dưới đây?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-son-la-nam-2026-lan-2/cau-01.webp\" alt=\"Hình minh họa câu 1\" loading=\"lazy\"></figure>",
+      "chuong": "các số đặc trưng đo xu thế trung tâm của mẫu số liệu ghép nhóm",
+      "dang": "số trung bình của mẫu số liệu ghép nhóm",
+      "type": "single",
+      "options": [
+        "A. $[7;9)$.",
+        "B. $[9;11)$.",
+        "C. $[11;13)$.",
+        "D. $[13;15)$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Bảng tần số có các lớp doanh thu là $[5;7),[7;9),[9;11),[11;13),[13;15)$.\n- Số ngày tương ứng là \\$2,7,7,3,1$.\n❓ **Hiểu câu hỏi:**\n- Cần tính số trung bình mẫu của số liệu ghép nhóm.\n- Ta dùng trung điểm mỗi lớp rồi tính trung bình có trọng số.\n🔎 **Hướng dẫn cách làm:**\n- Trung điểm các lớp lần lượt là \\$6,8,10,12,14$.\n- Số trung bình mẫu là $\\overline{x}=\\dfrac{2\\cdot 6+7\\cdot 8+7\\cdot 10+3\\cdot 12+1\\cdot 14}{20}=\\dfrac{188}{20}=9{,}4$.\n- Vì \\$9{,}4\\in [9;11)$ nên chọn khoảng $[9;11)$.\n✅ **Đáp án:** Chọn B. $[9;11)$"
+    },
+    {
+      "id": 2,
+      "content": "Cho hình chóp đều $S.ABCD$ có cạnh đáy bằng $a\\sqrt{2}$, cạnh bên bằng \\$2a$. Thể tích khối chóp $S.ABCD$ là",
+      "chuong": "quan hệ vuông góc trong không gian",
+      "dang": "thể tích",
+      "type": "single",
+      "options": [
+        "A. $\\dfrac{4a^3}{3}$.",
+        "B. $\\dfrac{a^3}{3}$.",
+        "C. $\\dfrac{2a^3\\sqrt{3}}{3}$.",
+        "D. $\\dfrac{2a^3}{3}$."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hình chóp đều $S.ABCD$ có đáy là hình vuông cạnh $a\\sqrt{2}$.\n- Cạnh bên là $SA=SB=SC=SD=2a$.\n❓ **Hiểu câu hỏi:**\n- Cần tính thể tích khối chóp.\n- Ta dùng công thức $V=\\dfrac{1}{3}S_{\\text{đáy}}\\cdot h$.\n🔎 **Hướng dẫn cách làm:**\n- Vì đáy là hình vuông cạnh $a\\sqrt{2}$ nên $S_{\\text{đáy}}=\\left(a\\sqrt{2}\\right)^2=2a^2$.\n- Gọi $O$ là tâm đáy. Khi đó $OA$ bằng nửa đường chéo hình vuông nên $OA=a$.\n- Trong tam giác vuông $SOA$, ta có $SO=\\sqrt{SA^2-OA^2}=\\sqrt{\\left(2a\\right)^2-a^2}=a\\sqrt{3}$.\n- Vậy $V=\\dfrac{1}{3}\\cdot 2a^2\\cdot a\\sqrt{3}=\\dfrac{2a^3\\sqrt{3}}{3}$.\n✅ **Đáp án:** Chọn C. $\\dfrac{2a^3\\sqrt{3}}{3}$"
+    },
+    {
+      "id": 3,
+      "content": "Cho hình chóp $S.ABCD$ có đáy là hình bình hành tâm $O$, $SA=SC$, $SB=SD$. Trong các khẳng định sau khẳng định nào đúng?",
+      "chuong": "quan hệ vuông góc trong không gian",
+      "dang": "đường thẳng vuông góc với mặt phẳng",
+      "type": "single",
+      "options": [
+        "A. $SO\\perp (ABCD)$.",
+        "B. $SC\\perp (ABCD)$.",
+        "C. $SB\\perp (ABCD)$.",
+        "D. $SA\\perp (ABCD)$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Đáy $ABCD$ là hình bình hành có tâm $O$.\n- Ta có $SA=SC$ và $SB=SD$.\n❓ **Hiểu câu hỏi:**\n- Cần chọn khẳng định đúng về đường thẳng vuông góc với mặt phẳng đáy.\n- Ta dùng tính chất đường trung trực trong không gian.\n🔎 **Hướng dẫn cách làm:**\n- Vì $SA=SC$ nên điểm $S$ nằm trên mặt phẳng trung trực của đoạn $AC$.\n- Vì $SB=SD$ nên điểm $S$ nằm trên mặt phẳng trung trực của đoạn $BD$.\n- Hai mặt phẳng trung trực này cắt nhau theo đường thẳng đi qua tâm $O$ của hình bình hành, tức là đường thẳng $SO$.\n- Đường thẳng $SO$ đồng thời vuông góc với $AC$ và $BD$, mà $AC,BD$ là hai đường cắt nhau trong mặt phẳng $\\left(ABCD\\right)$, nên $SO\\perp \\left(ABCD\\right)$.\n✅ **Đáp án:** Chọn A. $SO \\perp (ABCD)$"
+    },
+    {
+      "id": 4,
+      "content": "Trong không gian $Oxyz$, vectơ nào sau đây là vectơ pháp tuyến của mặt phẳng $(P):2x-y+z+3=0$?",
+      "chuong": "phương pháp tọa độ trong không gian",
+      "dang": "vectơ pháp tuyến và cặp vectơ chỉ phương của mặt phẳng",
+      "type": "single",
+      "options": [
+        "A. $\\vec{n}_1=(2;-1;1)$.",
+        "B. $\\vec{n}_3=(2;-1;3)$.",
+        "C. $\\vec{n}_2=(2;1;1)$.",
+        "D. $\\vec{n}_4=(-1;1;3)$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Mặt phẳng đã cho là $(P):2x-y+z+3=0$.\n❓ **Hiểu câu hỏi:**\n- Cần tìm một vectơ pháp tuyến của mặt phẳng.\n- Với mặt phẳng dạng $Ax+By+Cz+D=0$ thì một vectơ pháp tuyến là $\\left(A;B;C\\right)$.\n🔎 **Hướng dẫn cách làm:**\n- Ở đây các hệ số của $x,y,z$ lần lượt là \\$2,-1,1$.\n- Vì vậy một vectơ pháp tuyến của $(P)$ là $\\vec{n}=(2;-1;1)$.\n- Đối chiếu các phương án, đó là phương án $A$.\n✅ **Đáp án:** Chọn A. $\\vec{n}_1=(2;-1;1)$"
+    },
+    {
+      "id": 5,
+      "content": "Cho $\\int_0^1 f(x)\\,dx=1$ và $\\int_1^2 f(x)\\,dx=-4$. Tích phân $\\int_0^2 f(x)\\,dx$ bằng",
+      "chuong": "nguyên hàm và tích phân",
+      "dang": "tính chất của tích phân",
+      "type": "single",
+      "options": [
+        "A. \\$3$.",
+        "B. \\$5$.",
+        "C. $-3$.",
+        "D. $-5$."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Ta biết $\\int_0^1 f(x)\\,dx=1$ và $\\int_1^2 f(x)\\,dx=-4$.\n❓ **Hiểu câu hỏi:**\n- Cần tính $\\int_0^2 f(x)\\,dx$.\n- Ta dùng tính chất cộng của tích phân trên các khoảng kề nhau.\n🔎 **Hướng dẫn cách làm:**\n- Theo tính chất tích phân, $\\int_0^2 f(x)\\,dx=\\int_0^1 f(x)\\,dx+\\int_1^2 f(x)\\,dx$.\n- Thay số vào, ta được $\\int_0^2 f(x)\\,dx=1+\\left(-4\\right)=-3$.\n- Vậy giá trị cần tìm là $-3$.\n✅ **Đáp án:** Chọn C. $-3$"
+    },
+    {
+      "id": 6,
+      "content": "Cho hàm số $y=f(x)$ có đồ thị như hình vẽ. Điểm cực tiểu của hàm số đó là\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-son-la-nam-2026-lan-2/cau-06.webp\" alt=\"Hình minh họa câu 6\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "cực trị của hàm số",
+      "type": "single",
+      "options": [
+        "A. $x=-2$.",
+        "B. $x=2$.",
+        "C. $x=0$.",
+        "D. $y=-2$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Đồ thị hàm số đã cho có một điểm thấp nhất tại nhánh bên phải.\n- Trên hình, hoành độ điểm cực tiểu được đánh dấu là \\$2$.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu hoành độ của điểm cực tiểu.\n- Ta chỉ cần đọc trực tiếp từ đồ thị.\n🔎 **Hướng dẫn cách làm:**\n- Điểm cực tiểu là điểm mà đồ thị đi xuống rồi đi lên.\n- Trên hình, điểm đó có hoành độ $x=2$ và tung độ $y=-2$.\n- Vì phương án hỏi theo dạng hoành độ nên ta chọn $x=2$.\n✅ **Đáp án:** Chọn B. $x=2$"
+    },
+    {
+      "id": 7,
+      "content": "Họ tất cả các nguyên hàm của hàm số $f(x)=\\sin x$ là",
+      "chuong": "nguyên hàm và tích phân",
+      "dang": "nguyên hàm của một số hàm số thường gặp",
+      "type": "single",
+      "options": [
+        "A. $-\\sin x+C$.",
+        "B. $\\sin x+C$.",
+        "C. $-\\cos x+C$.",
+        "D. $\\cos x+C$."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cần tìm họ nguyên hàm của hàm số $f(x)=\\sin x$.\n❓ **Hiểu câu hỏi:**\n- Ta nhớ công thức nguyên hàm cơ bản của hàm số lượng giác.\n- Nguyên hàm của $\\sin x$ là hàm có đạo hàm bằng $\\sin x$.\n🔎 **Hướng dẫn cách làm:**\n- Ta có $\\dfrac{d}{dx}\\left(-\\cos x\\right)=\\sin x$.\n- Vì vậy họ nguyên hàm của $\\sin x$ là $-\\cos x+C$.\n- Đối chiếu đáp án, đó là phương án $C$.\n✅ **Đáp án:** Chọn C. $-\\cos x + C$"
+    },
+    {
+      "id": 8,
+      "content": "Trong không gian $Oxyz$, cho mặt cầu $(S):(x-2)^2+(y+1)^2+(z-3)^2=4$. Tâm của $(S)$ có tọa độ là",
+      "chuong": "phương pháp tọa độ trong không gian",
+      "dang": "phương trình mặt cầu",
+      "type": "single",
+      "options": [
+        "A. $(-2;1;-3)$.",
+        "B. $(-4;2;-6)$.",
+        "C. $(4;-2;6)$.",
+        "D. $(2;-1;3)$."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Mặt cầu có phương trình $\\left(x-2\\right)^2+\\left(y+1\\right)^2+\\left(z-3\\right)^2=4$.\n❓ **Hiểu câu hỏi:**\n- Cần tìm tâm mặt cầu.\n- Ta so sánh với dạng chuẩn $\\left(x-a\\right)^2+\\left(y-b\\right)^2+\\left(z-c\\right)^2=R^2$.\n🔎 **Hướng dẫn cách làm:**\n- Từ phương trình chuẩn, tâm mặt cầu là $I(a;b;c)$.\n- Ở đây ta đọc được ngay $a=2,b=-1,c=3$.\n- Vậy tâm mặt cầu là $(2;-1;3)$.\n✅ **Đáp án:** Chọn D. $(2;-1;3)$"
+    },
+    {
+      "id": 9,
+      "content": "Giá trị lớn nhất của hàm số $f(x)=x^4-2x^2+5$ trên đoạn $[-2;2]$ là",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "cách tìm giá trị lớn nhất và giá trị nhỏ nhất của hàm số trên một đoạn",
+      "type": "single",
+      "options": [
+        "A. $\\max_{[-2;2]}f(x)=13$.",
+        "B. $\\max_{[-2;2]}f(x)=14$.",
+        "C. $\\max_{[-2;2]}f(x)=-4$.",
+        "D. $\\max_{[-2;2]}f(x)=23$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số là $f(x)=x^4-2x^2+5$ trên đoạn $[-2;2]$.\n❓ **Hiểu câu hỏi:**\n- Cần tìm giá trị lớn nhất của hàm số trên đoạn kín.\n- Ta xét đạo hàm để tìm các điểm tới hạn rồi so sánh giá trị.\n🔎 **Hướng dẫn cách làm:**\n- Ta có $f'(x)=4x^3-4x=4x\\left(x^2-1\\right)$.\n- Suy ra các điểm cần xét là $x=-1,0,1$, đồng thời phải xét thêm hai đầu mút $x=-2,2$.\n- Tính được $f\\left(-2\\right)=13,\\ f\\left(-1\\right)=4,\\ f\\left(0\\right)=5,\\ f\\left(1\\right)=4,\\ f\\left(2\\right)=13$.\n- Giá trị lớn nhất là \\$13$.\n✅ **Đáp án:** Chọn A. $\\max_{[-2;2]} f(x)=13$"
+    },
+    {
+      "id": 10,
+      "content": "Tiệm cận ngang của đồ thị hàm số $y=\\dfrac{4x+1}{x-1}$ là",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "đường tiệm cận ngang",
+      "type": "single",
+      "options": [
+        "A. $y=2$.",
+        "B. $x=1$.",
+        "C. $y=4$.",
+        "D. $x=4$."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số đã cho là $y=\\dfrac{4x+1}{x-1}$.\n❓ **Hiểu câu hỏi:**\n- Cần tìm tiệm cận ngang của đồ thị.\n- Với phân thức hữu tỉ có tử và mẫu cùng bậc, tiệm cận ngang là tỉ số hệ số của các hạng tử bậc cao nhất.\n🔎 **Hướng dẫn cách làm:**\n- Hệ số của $x$ ở tử là \\$4$.\n- Hệ số của $x$ ở mẫu là \\$1$.\n- Vì vậy tiệm cận ngang là $y=\\dfrac{4}{1}=4$.\n✅ **Đáp án:** Chọn C. $y=4$"
+    },
+    {
+      "id": 11,
+      "content": "Cho hai biến cố độc lập $A,B$. Biết $P(A)=\\dfrac{1}{5},\\,P(B)=\\dfrac{2}{3}$. $P(AB)$ bằng",
+      "chuong": "các quy tắc tính xác suất",
+      "dang": "công thức nhân xác suất cho hai biến cố độc lập",
+      "type": "single",
+      "options": [
+        "A. $\\dfrac{13}{15}$.",
+        "B. $\\dfrac{2}{15}$.",
+        "C. $\\dfrac{3}{5}$.",
+        "D. $\\dfrac{11}{15}$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hai biến cố $A,B$ độc lập.\n- Ta có $P(A)=\\dfrac{1}{5}$ và $P(B)=\\dfrac{2}{3}$.\n❓ **Hiểu câu hỏi:**\n- Cần tính xác suất giao của hai biến cố độc lập.\n- Với hai biến cố độc lập, ta dùng công thức $P\\left(A\\cap B\\right)=P(A)P(B)$.\n🔎 **Hướng dẫn cách làm:**\n- Áp dụng công thức, ta có $P\\left(A\\cap B\\right)=\\dfrac{1}{5}\\cdot \\dfrac{2}{3}$.\n- Tính ra được $P\\left(A\\cap B\\right)=\\dfrac{2}{15}$.\n- Đó là phương án $B$.\n✅ **Đáp án:** Chọn B. $\\dfrac{2}{15}$"
+    },
+    {
+      "id": 12,
+      "content": "Cho cấp số cộng $(u_n)$ có số hạng đầu $u_1=2$ và công sai $d=5$. Giá trị của $u_4$ bằng",
+      "chuong": "dãy số. cấp số cộng và cấp số nhân",
+      "dang": "số hạng tổng quát của cấp số cộng",
+      "type": "single",
+      "options": [
+        "A. \\$12$.",
+        "B. \\$22$.",
+        "C. \\$250$.",
+        "D. \\$17$."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cấp số cộng $(u_n)$ có $u_1=2$ và công sai $d=5$.\n❓ **Hiểu câu hỏi:**\n- Cần tính số hạng thứ \\$4$.\n- Ta dùng công thức $u_n=u_1+\\left(n-1\\right)d$.\n🔎 **Hướng dẫn cách làm:**\n- Thay $n=4$ vào công thức, ta có $u_4=u_1+3d$.\n- Suy ra $u_4=2+3\\cdot 5=17$.\n- Vậy đáp án đúng là \\$17$.\n✅ **Đáp án:** Chọn D. \\$17$"
+    }
+  ]
+}

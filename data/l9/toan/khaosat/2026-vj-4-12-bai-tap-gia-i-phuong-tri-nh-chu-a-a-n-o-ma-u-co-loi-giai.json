@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-4-12-bai-tap-gia-i-phuong-tri-nh-chu-a-a-n-o-ma-u-co-loi-giai",
+  "sourceId": "vietjack:4-12-bai-tap-gia-i-phuong-tri-nh-chu-a-a",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "4.12 bài tập Giải phương trình chứa ẩn ở mẫu có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Phương trình \\(\\frac{4}{{x - 1}} = \\frac{x}{{x - 2}}\\) có nghiệm là",
+      "options": [
+        "A. Phương trình vô nghiệm.",
+        "B. Phương trình vô số nghiệm.",
+        "C. x = 1.",
+        "D. x = 2."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Điều kiện xác định: x ≠ 1 và x ≠ 2. Giải phương trình, ta có: \\(\\frac{4}{{x - 1}} = \\frac{x}{{x - 2}}\\) suy ra \\(\\frac{{4\\left( {x - 2} \\right)}}{{\\left( {x - 1} \\right)\\left( {x - 2} \\right)}} = \\frac{{x\\left( {x - 1} \\right)}}{{\\left( {x - 1} \\right)\\left( {x - 2} \\right)}}\\) Suy ra 4(x – 2) = x(x – 1) hay x 2 – 5x + 8 = 0. Ta có: ∆ = 5 2 – 4.8 = 25 – 32 = −6 < 0. Do đó, phương trình x 2 – 5x + 8 = 0 vô nghiệm. Vậy phương trình \\(\\frac{4}{{x - 1}} = \\frac{x}{{x - 2}}\\) vô nghiệm."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Nghiệm của phương trình \\(\\frac{{11}}{x} = \\frac{9}{{x + 1}} + \\frac{2}{{x - 4}}\\) là",
+      "options": [
+        "A. x = 44.",
+        "B. x = 22.",
+        "C. x = −44.",
+        "D. x = 4."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Điều kiện xác định: x ≠ 0, x ≠ −1, x ≠ 4. Giải phương trình, ta có: \\(\\frac{{11}}{x} = \\frac{9}{{x + 1}} + \\frac{2}{{x - 4}}\\) \\(\\frac{{11.\\left( {x + 1} \\right).\\left( {x - 4} \\right)}}{{x\\left( {x + 1} \\right).\\left( {x - 4} \\right)}} = \\frac{{9x\\left( {x - 4} \\right)}}{{x\\left( {x + 1} \\right).\\left( {x - 4} \\right)}} + \\frac{{2x\\left( {x + 1} \\right)}}{{x\\left( {x + 1} \\right).\\left( {x - 4} \\right)}}\\) 11(x + 1)(x – 4) = 9x(x – 4) + 2x(x + 1) 11(x 2 – 3x – 4) = 9x 2 – 36x + 2x 2 + 2x 11x 2 – 33x – 44 = 11x 2 – 34x x – 44 = 0 x = 44 (thỏa mãn). Vậy phương trình có nghiệm là x = 44."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Phương trình \\(\\frac{{x - 1}}{{x - 2}} - 3 + x = \\frac{1}{{x - 2}}\\) có nghiệm là",
+      "options": [
+        "A. x = 4 hoặc x = −2.",
+        "B. x = −4 hoặc x = 2.",
+        "C. x = −4.",
+        "D. x = 2."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Điều kiện xác định: x ≠ 2. Ta có: \\(\\frac{{x - 1}}{{x - 2}} - 3 + x = \\frac{1}{{x - 2}}\\) \\(\\frac{{x - 1 + \\left( {x - 3} \\right)\\left( {x - 2} \\right)}}{{x - 2}} = \\frac{1}{{x - 2}}\\) x – 1 + (x + 3)(x – 2) = 1 x – 1 + x 2 + x – 6 – 1 = 0 x 2 + 2x – 8 = 0 x 2 – 2x + 4x – 8 = 0 x(x – 2) + 4(x – 2) = 0 (x + 4)(x – 2) = 0 Suy ra x + 4 = 0 hoặc x – 2 = 0 khi x = −4 (thỏa mãn) hoặc x = 2 (loại). Vậy nghiệm của phương trình là x = −4."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Phương trình \\(\\frac{3}{{4\\left( {x - 5} \\right)}} + \\frac{{15}}{{50 - 2{x^2}}} = \\frac{7}{{6x + 30}}\\) có nghiệm là",
+      "options": [
+        "A. x = 5.",
+        "B. x = −5.",
+        "C. Phương trình vô nghiệm.",
+        "D. Phương trình vô số nghiệm."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Điều kiện xác định: x ≠ 5 và x ≠ −5. Ta có: \\(\\frac{3}{{4\\left( {x - 5} \\right)}} + \\frac{{15}}{{50 - 2{x^2}}} = \\frac{7}{{6x + 30}}\\) \\(\\frac{3}{{4\\left( {x - 5} \\right)}} - \\frac{{15}}{{2\\left( {x - 5} \\right)\\left( {x + 5} \\right)}} = \\frac{7}{{6\\left( {x + 5} \\right)}}\\) \\(\\frac{{9\\left( {x + 5} \\right)}}{{12\\left( {x - 5} \\right)\\left( {x + 5} \\right)}} - \\frac{{15.6}}{{12\\left( {x - 5} \\right)\\left( {x + 5} \\right)}} = \\frac{{14\\left( {x - 5} \\right)}}{{6\\left( {x + 5} \\right)\\left( {x - 5} \\right)}}\\) 9(x + 5) – 90 = 14(x – 5) 9x + 45 – 90 = 14x – 70 5x = 25 x = 5 (loại). Vậy phương trình không có nghiệm thỏa mãn."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Nghiệm của phương trình \\(\\frac{2}{{{x^2} - 4}} - \\frac{1}{{x\\left( {x - 2} \\right)}} + \\frac{{x - 4}}{{x\\left( {x + 2} \\right)}} = 0\\) là",
+      "options": [
+        "A. x = 2 hoặc x = 3.",
+        "B. x = 2 hoặc x = −3.",
+        "C. x = 2.",
+        "D. x = 3."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Điều kiện xác định: x ≠ 0, x ≠ 2 và x ≠ −2. Ta có: \\(\\frac{2}{{{x^2} - 4}} - \\frac{1}{{x\\left( {x - 2} \\right)}} + \\frac{{x - 4}}{{x\\left( {x + 2} \\right)}} = 0\\) \\(\\frac{{2x}}{{x\\left( {x - 2} \\right)\\left( {x + 2} \\right)}} - \\frac{{x + 2}}{{x\\left( {x - 2} \\right)\\left( {x + 2} \\right)}} + \\frac{{\\left( {x - 4} \\right)\\left( {x - 2} \\right)}}{{x\\left( {x + 2} \\right)\\left( {x - 2} \\right)}} = 0\\) 2x – x – 2 + x 2 – 6x + 8 = 0 x 2 – 5x + 6 = 0 x 2 – 2x − 3x + 6 = 0 x(x – 2) – 3(x – 2) = 0 (x – 2)(x – 3) = 0 Suy ra x – 2 = 0 hoặc x – 3 = 0 khi x = 2 (loại) hoặc x = 3 (thỏa mãn). Vậy nghiệm của phương trình là x = 3."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Phương trình \\(\\frac{1}{{3 - x}} - \\frac{1}{{x + 1}} = \\frac{x}{{x - 3}} - \\frac{{{{\\left( {x - 1} \\right)}^2}}}{{{x^2} - 2x - 3}}\\) có nghiệm là",
+      "options": [
+        "A. x = \\(\\frac{3}{5}\\).",
+        "B. x = \\( - \\frac{3}{5}\\).",
+        "C. x = \\(\\frac{2}{5}\\).",
+        "D. x = 1."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Điều kiện xác định: x ≠ −1 và x ≠ 3. Ta có: \\(\\frac{1}{{3 - x}} - \\frac{1}{{x + 1}} = \\frac{x}{{x - 3}} - \\frac{{{{\\left( {x - 1} \\right)}^2}}}{{{x^2} - 2x - 3}}\\) \\(\\frac{{ - x - 1}}{{\\left( {x + 1} \\right)\\left( {x - 3} \\right)}} - \\frac{{x - 3}}{{\\left( {x + 1} \\right)\\left( {x - 3} \\right)}} = \\frac{{x\\left( {x + 1} \\right)}}{{\\left( {x + 1} \\right)\\left( {x - 3} \\right)}} - \\frac{{{{\\left( {x - 1} \\right)}^2}}}{{\\left( {x - 1} \\right)\\left( {x + 3} \\right)}}\\) −x – 1 – x + 3 = x 2 + x – x 2 + 2x – 1 2 – 2x = 3x – 1 5x = 3 x = \\(\\frac{3}{5}\\) (thỏa mãn). Vậy nghiệm của phương trình là x = \\(\\frac{3}{5}\\)."
+    }
+  ]
+}

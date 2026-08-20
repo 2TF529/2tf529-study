@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-5-10-bai-tap-xac-suat-cua-bien-co-doi-co-loi-giai",
+  "sourceId": "vietjack:5-10-bai-tap-xac-suat-cua-bien-co-doi-co",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "5.10 Bài tập Xác suất của biến cố đối (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Một hộp đựng 9 viên bi trong đó có 4 viên bi đỏ và 5 viên bi xanh. Lấy ngẫu nhiên từ hộp 3 viên bi. Xác suất để 3 viên bi lấy ra có ít nhất 1 viên bi màu xanh là",
+      "options": [
+        "A. 20 21",
+        "B. 5 14",
+        "C. 1 21",
+        "D. 5 42"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Số phần tử không gian mẫu: n Ω = C 9 3 = 84 . Gọi biến cố A: “Lấy được ít nhất 1 viên bi màu xanh”. A ¯ : “Lấy được 3 viên bi màu đỏ”. Suy ra n A ¯ = C 4 3 = 4 . Do đó P A ¯ = n A ¯ n Ω = 4 84 = 1 21 . Vậy xác suất của biến cố A là: P A = 1 − P A ¯ =1 − 1 21 = 20 21 ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Một chiếc hộp đựng 7 viên bi màu xanh, 6 viên bi màu đen, 5 viên bi màu đỏ, 4 viên bi màu trắng. Chọn ngẫu nhiên ra 4 viên bi, xác suất để lấy được ít nhất 2 viên bi cùng màu là",
+      "options": [
+        "A. 2 808 7 315",
+        "B. 185 209",
+        "C. 24 209",
+        "D. 4 507 7 315"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Không gian mẫu là số cách chọn ngẫu nhiên 4 viên bi từ 22 viên bi đã cho. Suy ra số phần tử của không gian mẫu là n Ω = C 22 4 = 7 315. Gọi A là biến cố “Lấy được 4 viên bi trong đó có ít nhất hai viên bi cùng màu” . A ¯ : “Lấy được 4 viên bi trong đó không có hai viên bi nào cùng màu”. Suy ra số phần tử của biến cố A ¯ là n A ¯ = C 7 1 ⋅ C 6 1 ⋅ C 5 1 ⋅ C 4 1 = 840. Do đó P A ¯ = n A ¯ n Ω = 840 7 315 = 24 209 Vậy xác suất cần tính P A = 1 − P A ¯ = 1 − 24 209 = 185 209 ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trong một buổi liên hoan có 10 cặp nam nữ, trong đó có 4 cặp vợ chồng. Chọn ngẫu nhiên 3 người để biểu diễn một tiết mục văn nghệ. Xác suất để 3 người được chọn không có cặp vợ chồng nào là",
+      "options": [
+        "A. 94 95",
+        "B. 1 95",
+        "C. 6 95",
+        "D. 89 95"
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Không gian mẫu là số cách chọn ngẫu nhiên 3 người trong 20 người. Suy ra số phần tử không gian mẫu là n Ω = C 20 3 = 1 140. Gọi A là biến cố “3 người được chọn không có cặp vợ chồng nào”. A ¯ : “3 người được chọn luôn có 1 cặp vợ chồng”. Chọn 1 cặp vợ chồng trong 4 cặp vợ chồng, có C 4 1 cách. Chọn thêm 1 người trong 18 người còn lại, có C 18 1 cách. Suy ra số phần tử của biến cố A ¯ là n A ¯ = C 4 1 ⋅ C 18 1 = 72. Do đó P A ¯ = n A ¯ n Ω = 72 1 140 = 6 95 . Vậy xác suất cần tính P A = 1 − P A ¯ = 1 − 6 95 = 89 95 ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Một lớp học có 40 học sinh trong đó có 4 cặp anh em sinh đôi. Trong buổi họp đầu năm, thầy giáo chủ nhiệm lớp muốn chọn ra 3 học sinh để làm cán sự lớp gồm lớp trưởng, lớp phó và bí thư. Xác suất để chọn ra 3 học sinh làm cán sự lớp mà không có cặp anh em sinh đôi nào là",
+      "options": [
+        "A. 64 65",
+        "B. 1 65",
+        "C. 1 256",
+        "D. 255 256"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Không gian mẫu là số cách chọn ngẫu nhiên 3 học sinh trong 40 học sinh. Suy ra số phần tử không gian mẫu là n Ω = C 40 3 = 9 880. Gọi A là biến cố “3 học sinh được chọn không có cặp anh em sinh đôi nào”. A ¯ : “3 học sinh được chọn luôn có 1 cặp anh em sinh đôi”. – Chọn 1 cặp em sinh đôi trong 4 cặp em sinh đôi, có C 4 1 cách. – Chọn thêm 1 học sinh trong 38 học sinh còn lại, có C 38 1 cách. Suy ra số phần tử của biến cố A ¯ là n A ¯ = C 4 1 ⋅ C 38 1 = 152 . Do đó P A ¯ = n A ¯ n Ω = 152 9 880 = 1 65 . Vậy xác suất cần tính là: P A = 1 − P A ¯ = 1 − 1 65 = 64 65 ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Một người có 10 đôi giày khác nhau và trong lúc đi du lịch vội vã, lấy ngẫu nhiên 4 chiếc. Xác suất để trong 4 chiếc giày lấy ra có ít nhất một đôi là",
+      "options": [
+        "A. 3 7",
+        "B. 13 64",
+        "C. 99 323",
+        "D. 224 323"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Không gian mẫu là số cách chọn ngẫu nhiên 4 chiếc giày từ 20 chiếc giày. Suy ra số phần tử của không gian mẫu là n(Ω) = C 20 4 = 4 845. Gọi A là biến cố “4 chiếc giày lấy ra có ít nhất một đôi”. A ¯ : “4 chiếc giày được chọn không có đôi nào”. – Số cách chọn 4 đôi giày từ 10 đôi giày là C 10 4 . – Mỗi đôi chọn ra 1 chiếc, mỗi chiếc có C 2 1 cách chọn. Suy ra 4 chiếc có C 2 1 4 cách chọn. Số phần tử của biến cố A ¯ là n A ¯ = C 10 4 ⋅ C 2 1 4 = 3 360 . Do đó P A ¯ = n A ¯ n Ω = 3 360 4 845 = 224 323 . Vậy xác suất cần tính là: P A = 1 − P A ¯ = 1 − 224 323 = 99 323 ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong hộp I có các viên bi đánh số từ 1 đến 5, hộp II có các viên bi đánh số từ 6 đến 10. Các viên bi cùng kích cỡ. Lấy ngẫu nhiên ở mỗi hộp 1 viên bi. Xác suất để tổng các số viết trên 2 viên bi lấy ra không nhỏ hơn 7 là",
+      "options": [
+        "A. 1",
+        "B. 1 5",
+        "C. 3 5",
+        "D. 0"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A"
+    }
+  ]
+}

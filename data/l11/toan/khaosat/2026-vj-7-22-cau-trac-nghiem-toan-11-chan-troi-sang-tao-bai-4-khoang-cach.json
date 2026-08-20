@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-7-22-cau-trac-nghiem-toan-11-chan-troi-sang-tao-bai-4-khoang-cach",
+  "sourceId": "vietjack:7-22-cau-trac-nghiem-toan-11-chan-troi-s",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "7.22 câu trắc nghiệm Toán 11 Chân trời sáng tạo Bài 4. Khoảng cách trong không gian (Đúng sai - Trả lời ngắn) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: TRẮC NGHIỆM NHIỀU LỰA CHỌN Cho hình chóp S.ABCD có đáy là hình vuông tâm O, SA vuông góc với đáy ABCD. Xác định khoảng cách từ điểm S đến AB?",
+      "options": [
+        "A. SO.",
+        "B. SA.",
+        "C. SB.",
+        "D. SD."
+      ],
+      "answer": "B",
+      "note": "B Vì SA ^ (ABCD) Þ SA ^ AB Þ d(S, AB) = SA."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hình chóp S.ABCD có đáy là hình vuông cạnh a và SA ^ (ABCD), SA = a. Khoảng cách từ S đến mặt phẳng (ABCD) là",
+      "options": [
+        "A. \\(a\\sqrt 2 \\).",
+        "B. a.",
+        "C. \\(\\frac{a}{2}\\).",
+        "D. \\(\\frac{{3a}}{4}\\)."
+      ],
+      "answer": "B",
+      "note": "B Vì SA ^ (ABCD) nên d(S, (ABCD)) = SA = a."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho hình chóp S.ABCD có đáy ABCD là hình vuông cạnh a, SA ^ (ABCD). Tính khoảng cách từ điểm B đến mặt phẳng (SAC).",
+      "options": [
+        "A. \\(\\frac{a}{2}\\).",
+        "B. \\(\\frac{{a\\sqrt 2 }}{2}\\).",
+        "C. \\(\\frac{{a\\sqrt 2 }}{3}\\).",
+        "D. \\(\\frac{{a\\sqrt 2 }}{4}\\)."
+      ],
+      "answer": "B",
+      "note": "B Gọi AC Ç BD = O. Vì SA ^ (ABCD) Þ SA ^ BO. Ta có BO ^ SA, BO ^ AC Þ BO ^ (SAC). Khi đó d(B, (SAC)) = BO \\( = \\frac{1}{2}BD = \\frac{1}{2}\\sqrt {A{B^2} + A{D^2}} = \\frac{1}{2}\\sqrt {{a^2} + {a^2}} = \\frac{{a\\sqrt 2 }}{2}\\) ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hình chóp \\[S.ABCD\\] có \\[SA \\bot \\left( {ABCD} \\right)\\], đáy \\[ABCD\\] là hình thang vuông cạnh \\[a\\]. Gọi \\[I\\] và \\[J\\] lần lượt là trung điểm của \\[AB\\] và \\[CD\\]. Tính khoảng cách giữa đường thẳng \\[IJ\\] và \\[\\left( {SAD} \\right)\\].",
+      "options": [
+        "A. \\(\\frac{{a\\sqrt 2 }}{2}\\).",
+        "B. \\(\\frac{{a\\sqrt 3 }}{3}\\).",
+        "C. \\(\\frac{a}{2}\\).",
+        "D. \\(\\frac{a}{3}\\)."
+      ],
+      "answer": "C",
+      "note": "C Ta có: Vì \\[IJ\\] // \\[AD\\] nên \\[IJ\\] // \\[\\left( {SAD} \\right)\\]\\[ \\Rightarrow d\\left( {IJ,\\left( {SAD} \\right)} \\right) = d\\left( {I,\\left( {SAD} \\right)} \\right) = IA = \\frac{a}{2}\\] ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hình lăng trụ tứ giác đều \\[ABCD.A'B'C'D'\\]có cạnh đáy bằng\\[a\\]. Gọi \\[M\\], \\[N\\], \\[P\\] lần lượt là trung điểm của \\[AD\\], \\[DC\\], \\[A'D'\\]. Tính khoảng cách giữa hai mặt phẳng \\[\\left( {MNP} \\right)\\] và \\[\\left( {ACC'} \\right)\\].",
+      "options": [
+        "A. \\(\\frac{{a\\sqrt 3 }}{3}\\).",
+        "B. \\(\\frac{a}{4}\\).",
+        "C. \\(\\frac{a}{3}\\).",
+        "D. \\(\\frac{{a\\sqrt 2 }}{4}\\)."
+      ],
+      "answer": "D",
+      "note": "D Ta có: \\[\\left( {MNP} \\right)\\] // \\[\\left( {ACA'} \\right)\\]\\[ \\Rightarrow d\\left( {\\left( {MNP} \\right),\\left( {ACA'} \\right)} \\right) = d\\left( {P,\\left( {ACA'} \\right)} \\right) = \\frac{1}{2}OD' = \\frac{{a\\sqrt 2 }}{4}\\] ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho hình lập phương \\[ABCD.A'B'C'D'\\] cạnh \\[a.\\] Khoảng cách giữa \\[\\left( {AB'C} \\right){\\rm{ v\\`a }}\\left( {A'DC'} \\right)\\] bằng :",
+      "options": [
+        "A. \\(a\\sqrt 3 \\) .",
+        "B. \\(a\\sqrt 2 \\) .",
+        "C. \\(\\frac{a}{3}\\) .",
+        "D. \\(\\frac{{a\\sqrt 3 }}{3}\\) ."
+      ],
+      "answer": "D",
+      "note": "D Ta có \\[d\\left( {\\left( {AB'C} \\right),\\left( {A'DC'} \\right)} \\right) = d\\left( {B',\\left( {A'DC'} \\right)} \\right) = d\\left( {D',\\left( {A'DC'} \\right)} \\right)\\] Gọi \\(O'\\) là tâm của hình vuông \\[A'B'C'D'\\] . Gọi \\(I\\) là hình chiếu của \\(D'\\) trên \\(O'D\\) , suy ra \\(I\\) là hình chiếu của \\(D'\\) trên \\[\\left( {A'DC'} \\right)\\] . \\[d\\left( {\\left( {AB'C} \\right),\\left( {A'DC'} \\right)} \\right) = d\\left( {D',\\left( {A'DC'} \\right)} \\right) = D'I = \\frac{{D'O'.D'D}}{{\\sqrt {D'{{O'}^2} + D'{D^2}} }} = \\frac{{\\frac{{a\\sqrt 2 }}{2}.a}}{{\\sqrt {{{\\left( {\\frac{{a\\sqrt 2 }}{2}} \\right)}^2} + {a^2}} }} = \\frac{{a\\sqrt 3 }}{3}.\\]"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Cho hình chóp \\[S.ABCD\\] có \\[SA \\bot \\left( {ABCD} \\right)\\], đáy \\[ABCD\\] là hình chữ nhật với\\[AC = a\\sqrt 5 \\]và \\[BC = a\\sqrt 2 \\]. Tính khoảng cách giữa \\[SD\\] và \\[BC\\].",
+      "options": [
+        "A. \\(\\frac{{3a}}{4}\\) .",
+        "B. \\(\\frac{{2a}}{3}\\) .",
+        "C. \\(\\frac{{a\\sqrt 3 }}{2}\\) .",
+        "D. \\[a\\sqrt 3 \\] ."
+      ],
+      "answer": "D",
+      "note": "D Ta có: \\[BC\\] // \\[\\left( {SAD} \\right)\\] \\[ \\Rightarrow d\\left( {BC,SD} \\right) = d\\left( {BC,\\left( {SAD} \\right)} \\right) = d\\left( {B,\\left( {SAD} \\right)} \\right)\\] . Mà \\[\\left\\{ \\begin{array}{l}AB \\bot AD\\\\AB \\bot SA\\end{array} \\right. \\Rightarrow AB \\bot \\left( {SAD} \\right) \\Rightarrow d\\left( {B,\\left( {SAD} \\right)} \\right) = AB\\] . Ta có: \\[AB = \\sqrt {A{C^2} - B{C^2}} = \\sqrt {5{a^2} - 2{a^2}} = \\sqrt 3 a\\] ."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho hình lập phương ABCD.A'B'C'D' cạnh bằng a (tham khảo hình vẽ). Khoảng cách giữa hai đường thẳng BD và A'C' bằng",
+      "options": [
+        "A. a.",
+        "B. \\(\\sqrt 2 a\\) .",
+        "C. \\(\\frac{{\\sqrt 3 }}{2}a\\).",
+        "D. \\(a\\sqrt 3 \\) ."
+      ],
+      "answer": "A",
+      "note": "A Ta có \\[\\left\\{ \\begin{array}{l}\\left( {ABCD} \\right)//\\left( {A'B'C'D'} \\right)\\\\BD \\subset \\left( {ABCD} \\right)\\\\A'C' \\subset \\left( {A'B'C'D'} \\right)\\end{array} \\right.\\] Þ d(BD, A'C') = d((ABCD), (A'B'C'D')) = AA' = a."
+    }
+  ]
+}

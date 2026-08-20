@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-cac-dang-bai-tap-thuc-hanh-tinh-xac-suat-theo-dinh-nghia-co-die",
+  "sourceId": "vietjack:2-cac-dang-bai-tap-thuc-hanh-tinh-xac-su",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.Các dạng bài tập Thực hành tính xác suất theo định nghĩa cổ điển lớp 10 (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Một lớp có 40 học sinh, trong đó có 4 học sinh tên Anh. Trong một lần kiểm tra bài cũ, thầy giáo gọi ngẫu nhiên hai học sinh trong lớp lên bảng. Xác suất để hai học sinh tên Anh lên bảng bằng",
+      "options": [
+        "A. 1 10",
+        "B. 1 20",
+        "C. 1 130",
+        "D. 1 75"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Chọn ngẫu nhiên 2 học sinh từ 40 học sinh. Số phần tử của không gian mẫu n Ω = C 40 2 = 780 . Gọi A là biến cố: “Gọi hai học sinh tên Anh lên bảng” Ta có n A = C 4 2 = 6 . Vậy xác suất cần tìm là P A = 6 780 = 1 130 ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Hộp A có 4 viên bi trắng, 5 viên bi đỏ và 6 viên bi xanh. Hộp B có 7 viên bi trắng, 6 viên bi đỏ và 5 viên bi xanh. Lấy ngẫu nhiên mỗi hộp một viên bi, xác suất để hai viên bi được lấy ra có cùng màu là",
+      "options": [
+        "A. 91 135",
+        "B. 44 135",
+        "C. 88 135",
+        "D. 45 88"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Chọn mỗi hộp 1 viên bi. Số phần tử của không gian mẫu: n Ω = C 15 1 ⋅ C 18 1 = 270. Biến cố A: “ Hai viên bi được lấy ra có cùng màu” Trường hợp 1 : 2 viên màu trắng, có C 4 1 ⋅ C 7 1 = 28 cách chọn. Trường hợp 2 : 2 viên màu đỏ, có C 5 1 ⋅ C 6 1 = 30 cách chọn. Trường hợp 3 : 2 viên màu xanh, có C 6 1 ⋅ C 5 1 = 30 cách chọn. Số cách chọn từ mỗi hộp 1 viên bi sau cho 2 viên bi cùng màu là: 28 + 30 + 30 = 88. Suy ra n(A) = 88. Vậy xác suất cần tìm là P A = n A n Ω = 88 270 = 44 135 ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trong một đợt kiểm tra định kỳ, giáo viên chuẩn bị một hộp đựng 15 câu hỏi gồm 5 câu hỏi Hình học và 10 câu hỏi Đại số khác nhau. Mỗi học sinh bốc ngẫu nhiên từ hộp đó 3 câu hỏi để làm đề thi cho mình. Xác suất để một học sinh bốc được đúng một câu hình học là",
+      "options": [
+        "A. 45 91",
+        "B. 3 4",
+        "C. 200 273",
+        "D. 2 3"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Xét phép thử: “ Chọn 3 câu hỏi từ 15 câu hỏi”. Suy ra, n Ω = C 15 3 = 455. Gọi A là biến cố: “ Chọn được đúng 1 câu hình” – Có C 5 1 cách chọn 1 câu từ 5 câu Hình học. – Có C 10 2 cách chọn 2 câu trong 10 câu Đại số. Suy ra n A = C 5 1 ⋅ C 10 2 = 225. Xác suất biến cố A là: P A = n A n Ω = 225 455 = 45 91 ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Có 5 học sinh không quen biết nhau cùng đến một cửa hàng kem có 6 quầy phục vụ. Xác suất để có 3 học sinh cùng vào một quầy và 2 học sinh còn lại vào một quầy khác là",
+      "options": [
+        "A. C 5 3 ⋅ C 6 1 ⋅ 5! 6 5",
+        "B. C 5 3 ⋅ C 6 1 ⋅ C 5 1 6 5",
+        "C. C 5 3 .C 6 1 .5! 5 6",
+        "D. C 5 3 .C 6 1 .C 5 1 5 6"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có mỗi học sinh có 6 cách chọn quầy phục vụ nên n Ω = 6 5 . Gọi A là biến cố thỏa mãn yêu cầu bài toán. Chọn 3 học sinh trong 5 học sinh để vào cùng một quầy C 5 3 . Sau đó chọn 1 quầy trong 6 quầy để các em vào là C 6 1 . Còn 2 học sinh còn lại có C 5 1 cách chọn quầy để vào cùng. Nên n A = C 5 3 ⋅ C 6 1 ⋅ C 5 1 . Vậy P A = n A n Ω = C 5 3 ⋅ C 6 1 ⋅ C 5 1 6 5 ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Một hộp đựng 9 viên bi trong đó có 4 viên bi đỏ và 5 viên bi xanh. Lấy ngẫu nhiên từ hộp 3 viên bi. Xác suất để 3 viên bi lấy ra có ít nhất 2 viên bi màu xanh là",
+      "options": [
+        "A. 10 21",
+        "B. 5 14",
+        "C. 25 42",
+        "D. 5 42"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Lấy ngẫu nhiên 3 viên bi từ 9 viên trong hộp. Số phần tử không gian mẫu: n Ω = C 9 3 . Gọi biến cố A: “Lấy được ít nhất 2 viên bi màu xanh”. Trường hợp 1 : 2 viên màu xanh, 1 viên khác màu xanh. Có C 5 2 ⋅ C 4 1 cách chọn Trường hợp 2: 3 viên màu xanh có C 5 3 cách chọn Suy ra . n A = C 5 2 ⋅ C 4 1 + C 5 3 Vậy P A = C 5 2 ⋅ C 4 1 +C 5 3 C 9 3 = 25 42 ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Đội tuyển học sinh giỏi Toán 12 trường THPT Yên Dũng số 3 gồm 8 học sinh, trong đó có 5 học sinh nam. Chọn ngẫu nhiên 5 học sinh đi thi học sinh giỏi cấp Huyện. Xác suất để 5 học sinh được chọn đi thi có cả nam và nữ và học sinh nam nhiều hơn học sinh nữ là",
+      "options": [
+        "A. 11 56",
+        "B. 45 56",
+        "C. 46 56",
+        "D. 55 56"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Chọn ngẫu nhiên 5 em từ 8 học sinh. Số phần tử của không gian mẫu là: n Ω = C 8 5 = 56 . Gọi A là biến cố: “ 5 học sinh được chọn đi thi có cả nam và nữ và học sinh nam nhiều hơn học sinh nữ”. Xét các khả năng xảy ra của A Trường hợp 1 : 5 học sinh được chọn gồm 4 nam và 1 nữ. Số cách chọn là C 5 4 ⋅ C 3 1 = 15. Trường hợp 2 : 5 học sinh được chọn gồm 3 nam và 2 nữ. Số cách chọn là C 5 3 ⋅ C 3 2 = 30. Số phần tử của biến cố A là n(A) = 15 + 30 = 45. Xác suất của biến cố A là P A = n A n Ω = 45 56 ."
+    }
+  ]
+}

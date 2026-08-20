@@ -1,0 +1,65 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-10-canh-dieu-cau-lenh-lap-co-dap-an",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-10-canh-die",
+  "grade": "l10",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 10 Cánh diều Câu lệnh lặp có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Trong Python có mấy dạng lặp:",
+      "options": [
+        "A. 1",
+        "B. 2",
+        "C. 3",
+        "D. 4"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Trong Python có 2 dạng lặp: Lặp với số lần biết trước và lặp với số lần không biết trước."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho đoạn lệnh sau: for i in range(5): print(i) Trên màn hình i có các giá trị là:",
+      "options": [
+        "A. 0 1 2 3 4 5",
+        "B. 1 2 3 4 5",
+        "C. 0 1 2 3 4",
+        "D. 1 2 3 4"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Vì i sẽ nhận các giá trị 0,1,2,3,4 theo cấu trúc vòng for."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho đoạn lệnh sau: for i in range(1,5): print(i) Trên màn hình i có các giá trị là:",
+      "options": [
+        "A. 0 1 2 3 4 5",
+        "B. 1 2 3 4 5",
+        "C. 0 1 2 3 4",
+        "D. 1 2 3 4"
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Vì i sẽ nhận các giá trị 1,2,3,4 theo cấu trúc vòng for."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho đoạn chương trình sau: s=0 for i in range(6): s=s+i Sau khi thực hiện đoạn chương trình trên giá trị của s là:",
+      "options": [
+        "A. 1",
+        "B. 15",
+        "C. 6",
+        "D. 21"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Vì i chạy từ 0 ⇒ 5, s=1+2+3+4+5=15"
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "id": "l12-li-totnghiep-2025-de-thi-thu-tn-thpt-vat-ly-tinh-hau-giang-lan-2-2025",
+  "grade": "l12",
+  "subjectSlug": "li",
+  "examType": "totnghiep",
+  "year": 2025,
+  "code": "THPT_TTL_HG_2025_01",
+  "title": "Đề thi thử tốt nghiệp THPT môn Vật Lý Sở GD&ĐT Hậu Giang lần 2 năm 2025",
+  "duration": 50,
+  "answerSource": "official",
+  "source": "https://dolthpt.vn/tot-nghiep-thpt/pdf-de-thi-thu-tn-thpt-vat-ly-tinh-hau-giang-lan-2-2025-co-dap-an",
+  "notes": "Nội dung, đáp án và lời giải được nhập từ bản công khai của DOL THPT.",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "content": "Một lượng khí lí tưởng được chứa trong một xi lanh hình trụ có pít-tông đóng kín như hình bên. Biết diện tích đáy của pít-tông là \\$24\\,\\mathrm{cm^2}$, áp suất khí trong xi lanh bằng áp suất bên ngoài \\$105\\,\\mathrm{Pa}$, thể tích khí trong xi lanh là \\$240\\,\\mathrm{cm^3}$. Cần một lực bằng bao nhiêu niutơn để dịch chuyển chậm pít-tông sang trái \\$2\\,\\mathrm{cm}$, rồi giữ pít-tông cố định ở vị trí đó? Bỏ qua mọi ma sát, coi quá trình trên đẳng nhiệt.\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tn-thpt-vat-ly-tinh-hau-giang-lan-2-2025/cau-01.webp\" alt=\"Hình minh họa câu 1\" loading=\"lazy\"></figure>",
+      "chuong": "khí lí tưởng",
+      "dang": "bài tập: bài tập pít tông - xi lanh - cột thủy ngân",
+      "type": "single",
+      "options": [
+        "A. 20 N.",
+        "B. 40 N.",
+        "C. 10 N.",
+        "D. 60 N."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Tính thể tích cuối cùng sau khi dịch chuyển: thể tích giảm bằng $A\\Delta x$, nên  Thay số:\n- Vì quá trình đẳng nhiệt: $p_iV_i=p_fV_f$, nên\n- Khi giữ pít-tông cố định ở vị trí mới, để cân bằng lực theo hướng ngang: lực do tay (hoặc nguồn ngoài) phải bù phần chênh lệch áp suất giữa trong và ngoài. Theo cân bằng:  Vì $p_{\\text{ngoài}}=p_i=10^5\\ \\mathrm{Pa}$, nên  Tính ra:\n✅ **Đáp án:** D. 60 N."
+    },
+    {
+      "id": 2,
+      "content": "Cho đồ thị hai đường đẳng áp của cùng một khối khí xác định như hình bên. Kết luận nào sau đây đúng khi so sánh $p_1$ và $p_2$?\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tn-thpt-vat-ly-tinh-hau-giang-lan-2-2025/cau-02.webp\" alt=\"Hình minh họa câu 2\" loading=\"lazy\"></figure>",
+      "chuong": "khí lí tưởng",
+      "dang": "đồ thị: định luật charles",
+      "type": "single",
+      "options": [
+        "A. Chưa đủ điều kiện để kết luận.",
+        "B. $p_1 < p_2$",
+        "C. $p_1 > p_2$",
+        "D. $p_1 = p_2$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Với quá trình đẳng áp: *V ∝ T*, suy ra\n- Độ dốc của đường V–T cho bởi\n- Đường nào có độ dốc lớn hơn ⇒ $\\frac{nR}{p}$ lớn hơn ⇒ áp suất p nhỏ hơn.\n- Trên đồ thị, đường p₁ dốc hơn đường p₂ ⇒\n**✅ Đáp án:** $p_1 < p_2$\n**❌ Các đáp án khác:**\n- A. Chưa đủ điều kiện để kết luận: Sai vì độ dốc đủ để xác định áp suất.\n- C. $p_1 > p_2$: Sai, độ dốc lớn hơn tương ứng với áp suất nhỏ hơn.\n- D. $p_1 = p_2$: Sai, nếu bằng thì hai đường phải trùng độ dốc, trong khi ở đây độ dốc khác nhau."
+    },
+    {
+      "id": 3,
+      "content": "Đặt mạch điện lại gần một kim nam châm được treo bằng sợi dây mảnh như hình bên. Khi đóng công tắc K thì kim nam châm sẽ\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tn-thpt-vat-ly-tinh-hau-giang-lan-2-2025/cau-03.webp\" alt=\"Hình minh họa câu 3\" loading=\"lazy\"></figure>",
+      "chuong": "từ trường",
+      "dang": "thí nghiệm: từ trường",
+      "type": "single",
+      "options": [
+        "A. bị đẩy sang phải.",
+        "B. bị hút sang trái.",
+        "C. bị hút sang trái rồi bị đẩy sang phải.",
+        "D. vẫn đứng yên."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Xác định chiều dòng điện trong cuộn dây: - Dòng điện chảy từ cực dương pin → lên đầu trái cuộn dây → qua các vòng dây → ra đầu phải → qua công tắc K → về cực âm pin\n- Áp dụng *quy tắc nắm tay phải* cho solenoid: - Quấn ngón tay theo chiều dòng điện trong các vòng dây, ngón cái chỉ hướng từ cực Nam → cực Bắc của nam châm điện\n  - Kết quả: đầu phải solenoid là cực Bắc, đầu trái là cực Nam\n- Tương tác giữa hai nam châm (cùng cực Bắc): - Cực Bắc của solenoid sẽ **đẩy** cực Bắc (nửa vàng) của kim nam châm\n  - Do đó kim nam châm ngay lập tức bị xoay/quay sao cho nửa vàng lùi về bên phải\n**✅ Đáp án:** $\\text{bị đẩy sang phải.}$\n**❌ Các đáp án khác:**\n- B. bị hút sang trái: Sai vì hai cực Bắc không hút mà đẩy nhau\n- C. bị hút sang trái rồi bị đẩy sang phải: Sai vì không có giai đoạn hút, kim luôn bị đẩy ngay\n- D. vẫn đứng yên: Sai vì khi có từ trường tương tác, kim sẽ chịu lực và chuyển động"
+    },
+    {
+      "id": 4,
+      "content": "Trong một phản ứng hạt nhân, tổng khối lượng của các hạt nhân tham gia",
+      "chuong": "vật lí hạt nhân",
+      "dang": "lý thuyết: năng lượng liên kết & phản ứng hạt nhân",
+      "type": "single",
+      "options": [
+        "A. luôn giảm.",
+        "B. tăng hoặc giảm tuỳ theo phản ứng.",
+        "C. được bảo toàn.",
+        "D. luôn tăng."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Nhắc lại công thức liên hệ khối lượng và năng lượng:\n$E = mc^2$\n- Xét hai loại phản ứng hạt nhân chính:\n• Phản ứng **toả năng lượng** (ngoại sinh): một phần khối lượng chuyển thành năng lượng ⇒ tổng khối lượng sau phản ứng **giảm** so với trước.\n• Phản ứng **thu năng lượng** (nội sinh): hấp thụ năng lượng ⇒ khối lượng sau phản ứng **tăng** so với trước.\n- Kết luận: tổng khối lượng không phải luôn bảo toàn hay chỉ giảm/ chỉ tăng, mà **có thể giảm hoặc tăng** tuỳ tính chất thu hay toả năng lượng của phản ứng.\n**✅ Đáp án:** $tăng\\;hoặc\\;giảm\\;tuỳ\\;theo\\;phản\\;ứng$\n**❌ Các đáp án khác:**\n- luôn giảm: chỉ đúng với phản ứng toả năng lượng, không áp dụng cho phản ứng thu năng lượng.\n- được bảo toàn: bỏ qua việc chuyển hoá khối lượng – năng lượng, nên sai.\n- luôn tăng: chỉ đúng với phản ứng thu năng lượng, không đúng với phản ứng toả năng lượng."
+    },
+    {
+      "id": 5,
+      "content": "Một dây dẫn được uốn thành một khung dây có dạng tam giác vuông tại A, với $AM = 4\\,\\mathrm{cm}$, $AN = 3\\,\\mathrm{cm}$ có dòng điện với cường độ \\$5\\,\\mathrm{A}$ chạy qua. Đặt khung dây vào trong từ trường đều có vectơ cảm ứng từ song song với cạnh AN như hình bên. Biết độ lớn cảm ứng từ là \\$3 \\cdot 10^{-3}\\,\\mathrm{T}$ và giữ khung dây cố định. Lực từ tác dụng lên cạnh MN có độ lớn là\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tn-thpt-vat-ly-tinh-hau-giang-lan-2-2025/cau-05.webp\" alt=\"Hình minh họa câu 5\" loading=\"lazy\"></figure>",
+      "chuong": "từ trường",
+      "dang": "bài tập: lực từ tác dụng lên dây dẫn mang điện",
+      "type": "single",
+      "options": [
+        "A. \\$3{,}6\\,\\mathrm{mN}$",
+        "B. \\$0{,}12\\,\\mathrm{mN}$",
+        "C. \\$0{,}9\\,\\mathrm{mN}$",
+        "D. \\$0{,}6\\,\\mathrm{mN}$"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Xác định độ dài cạnh MN theo định lý Pythagore:\n$MN = \\sqrt{AM^2 + AN^2} = \\sqrt{(0.04)^2 + (0.03)^2}\\,\\mathrm{m} = 0.05\\,\\mathrm{m}.$\n- Xác định góc α giữa MN và phương ngang (AN):\nTừ tam giác,\n$\\tan\\alpha = \\frac{AM}{A}N} = \\frac{4}{3}\\;\\Rightarrow\\;\\sin\\alpha = \\frac{4}{5}.$\n- Áp dụng công thức lực từ:\n**✅ Đáp án:** \\$0{,}6\\,\\mathrm{mN}$\n**❌ Các đáp án khác:**\n- 3,6 mN: sai do không xét góc α (chưa nhân sin α).\n- 0,12 mN: sai do tính L hoặc sin α chưa đúng.\n- 0,9 mN: sai giá trị sin α hoặc B không chuẩn."
+    },
+    {
+      "id": 6,
+      "content": "Khi đun nước bằng ấm nhôm trên bếp gas, ta thấy nước nóng lên nhanh hơn so với khi đun bằng ấm sứ là vì",
+      "chuong": "vật lí nhiệt",
+      "dang": "thực tế: nhiệt dung riêng",
+      "type": "single",
+      "options": [
+        "A. Nhôm có nhiệt dung riêng nhỏ hơn sứ, nên dễ nóng hơn.",
+        "B. Nhôm có khả năng giữ nhiệt tốt hơn so với sứ.",
+        "C. Nhôm dẫn nhiệt kém hơn sứ.",
+        "D. Sứ hấp thụ nhiệt tốt hơn nhôm."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Xác định khái niệm **nhiệt dung riêng** $c$: - Là nhiệt lượng cần để làm nóng 1 kg chất lên 1 °C.\n  - Công thức chung:\n- Khi đun nước, tổng nhiệt lượng bếp cung cấp sẽ chia cho nước và cho ấm:\n- Giả sử hai ấm có khối lượng gần như nhau, để làm nóng lên cùng một $\\Delta T$, nếu $c_{\\text{nhôm}} < c_{\\text{sứ}}$ thì ấm nhôm cần ít nhiệt hơn ấm sứ. Phần nhiệt dư sẽ truyền vào nước, giúp nước trong ấm nhôm sôi nhanh hơn.\n- Đánh giá các đáp án sai: - B: “Nhôm giữ nhiệt tốt hơn” – không liên quan đến tốc độ tăng nhiệt, ngược lại nhôm tỏa nhiệt nhanh.\n  - C: “Nhôm dẫn nhiệt kém hơn sứ” – sai, thực tế nhôm dẫn nhiệt rất tốt.\n  - D: “Sứ hấp thụ nhiệt tốt hơn nhôm” – sai hoàn toàn về bản chất vật liệu.\n**✅ Đáp án:** A. Nhôm có nhiệt dung riêng nhỏ hơn sứ, nên dễ nóng hơn."
+    },
+    {
+      "id": 7,
+      "content": "Biết khối lượng của proton, neutron và hạt nhân $_{9}^{19}\\mathrm{F}$ lần lượt là \\$1{,}0073\\,u$; \\$1{,}0087\\,u$ và \\$18{,}9934\\,u$. Độ hụt khối của hạt nhân $_{9}^{19}\\mathrm{F}$ là",
+      "chuong": "vật lí hạt nhân",
+      "dang": "bài tập: năng lượng liên kết",
+      "type": "single",
+      "options": [
+        "A. \\$0{,}1593\\,u$",
+        "B. \\$0{,}1506\\,u$",
+        "C. \\$0{,}1529\\,u$",
+        "D. \\$0{,}1478\\,u$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Xác định số proton và neutron:\n• Proton: $Z = 9$\n• Neutron: $A - Z = 19 - 9 = 10$\n- Tính tổng khối lượng proton và neutron:\n$m_{\\text{tổng}} = 9 \\times 1{,}0073 + 10 \\times 1{,}0087$\n- Tính từng phần:\n\\$9 \\times 1{,}0073 = 9{,}0657\\,u\\quad;\\quad 10 \\times 1{,}0087 = 10{,}0870\\,u$\n⇒ $m_{\\text{tổng}} = 9{,}0657 + 10{,}0870 = 19{,}1527\\,u$\n- Áp dụng công thức độ hụt khối:\n$\\Delta m = 19{,}1527 - 18{,}9934 = 0{,}1593\\,u$\n**✅ Đáp án:** \\$0{,}1593\\,u$\n**❌ Các đáp án khác:**\n- B. \\$0{,}1506\\,u$: Sai do tính khối lượng neutron không chính xác.\n- C. \\$0{,}1529\\,u$: Nhầm lẫn trong tính tổng khối lượng proton và neutron.\n- D. \\$0{,}1478\\,u$: Sai do cộng nhầm các thành phần thành phần."
+    },
+    {
+      "id": 8,
+      "content": "Khi bị sốt cao, người ta thường lau người bằng khăn thấm nước ấm. Việc làm này giúp hạ sốt vì",
+      "chuong": "vật lí nhiệt",
+      "dang": "bài tập tổng hợp chương 1",
+      "type": "single",
+      "options": [
+        "A. Nước làm giảm hoạt động của vi khuẩn gây sốt.",
+        "B. Nước trên da bay hơi, lấy đi nhiệt lượng từ cơ thể.",
+        "C. Nước làm mát da ngay lập tức.",
+        "D. Nước có tính dẫn nhiệt cao hơn không khí."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Nước ấm thấm vào khăn khi tiếp xúc với da sẽ thấm ẩm bề mặt da.\n- Quá trình bay hơi của nước đòi hỏi phải hút một lượng nhiệt (nhiệt ẩn) từ môi trường xung quanh, ở đây là da và máu gần da.\n- Nhiệt lượng này được “mang đi” cùng hơi nước, làm giảm nhiệt độ bề mặt da và dần dần hạ thân nhiệt.\n- Đánh giá từng phương án: - “Nước làm giảm hoạt động của vi khuẩn gây sốt” sai vì hạ nhiệt ở đây là do mất nhiệt, không phải diệt vi khuẩn.\n  - “Nước làm mát da ngay lập tức” sai vì nước ấm không làm lạnh tức thì; cơ chế chính là bay hơi.\n  - “Nước có tính dẫn nhiệt cao hơn không khí” sai vì dẫn nhiệt kém quan trọng hơn so với nhiệt ẩn của bay hơi.\n**✅ Đáp án:** $\\text{Nước trên da bay hơi, lấy đi nhiệt lượng từ cơ thể.}$\n**❌ Các đáp án khác:**\n- Nước làm giảm hoạt động của vi khuẩn gây sốt: Sai, hạ nhiệt là do mất nhiệt chứ không phải do tác động lên vi khuẩn.\n- Nước làm mát da ngay lập tức: Sai, nước ấm không đưa nhiệt đi nhanh bằng cơ chế bay hơi.\n- Nước có tính dẫn nhiệt cao hơn không khí: Sai, tính dẫn nhiệt kém quan trọng hơn nhiệt ẩn bay hơi."
+    },
+    {
+      "id": 9,
+      "content": "Đối với một lượng khí lí tưởng xác định, khi nhiệt độ không đổi thì áp suất",
+      "chuong": "khí lí tưởng",
+      "dang": "lý thuyết: định luật boyle",
+      "type": "single",
+      "options": [
+        "A. tỉ lệ nghịch với thể tích.",
+        "B. tỉ lệ nghịch với bình phương thể tích.",
+        "C. tỉ lệ thuận với thể tích.",
+        "D. tỉ lệ thuận với bình phương thể tích."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Bước 1: Viết phương trình trạng thái khí lí tưởng:\n- Bước 2: Vì quá trình đẳng nhiệt nên $n$, $R$, $T$ đều không đổi.\n- Bước 3: Từ đó suy ra\n- Bước 4: So sánh với các lựa chọn: - “Tỉ lệ nghịch với thể tích” ⇒ đúng với $P \\propto 1/V$.\n  - Các lựa chọn còn lại (bình phương hoặc tỉ lệ thuận) không phù hợp.\n**✅ Đáp án:** $\\text{tỉ lệ nghịch với thể tích.}$\n**❌ Các đáp án khác:**\n- B. tỉ lệ nghịch với bình phương thể tích: sai vì chỉ ngược 1 lần, không phải bình phương.\n- C. tỉ lệ thuận với thể tích: sai vì ngược dấu so với thực nghiệm.\n- D. tỉ lệ thuận với bình phương thể tích: sai hoàn toàn, không liên quan đến định luật."
+    },
+    {
+      "id": 10,
+      "content": "Một hạt nhân có kí hiệu $_{Z}^{A}X$, A được gọi là",
+      "chuong": "vật lí hạt nhân",
+      "dang": "lý thuyết: hạt nhân và mô hình nguyên tử",
+      "type": "single",
+      "options": [
+        "A. số electron.",
+        "B. số nucleon.",
+        "C. số neutron.",
+        "D. số proton."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Quan sát biểu thức $_{Z}^{A}X$: - Chỉ số dưới $Z$ biểu diễn *số proton*.\n  - Chỉ số trên $A$ là tổng số proton và neutron trong hạt nhân.\n- Proton và neutron gọi chung là *nucleon*.\n- Do đó ta có:  tức là $A$ chính là *số nucleon* (còn gọi là số khối).\n- Kiểm tra lại các lựa chọn khác: - *Số electron*: electron nằm ở vỏ nguyên tử, không thuộc hạt nhân.\n  - *Số neutron*: chỉ đếm neutron, thiếu proton.\n  - *Số proton*: chỉ đếm proton, thiếu neutron.\n**✅ Đáp án:** $\\text{số nucleon}$\n**❌ Các đáp án khác:**\n- A. số electron: Electron không có trong hạt nhân, nằm ở lớp vỏ nguyên tử.\n- C. số neutron: Chỉ tính neutron, không bao gồm proton.\n- D. số proton: Chỉ tính proton, không bao gồm neutron."
+    },
+    {
+      "id": 11,
+      "content": "Biết $c$ là tốc độ ánh sáng trong chân không. Hệ thức mô tả mối liên hệ giữa khối lượng $m$ và năng lượng $E$ là",
+      "chuong": "vật lí hạt nhân",
+      "dang": "lý thuyết: năng lượng liên kết & phản ứng hạt nhân",
+      "type": "single",
+      "options": [
+        "A. $E = mc$",
+        "B. $E = \\frac{1}{2}mc$",
+        "C. $E = \\frac{1}{2}mc^2$",
+        "D. $E = mc^2$"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Một số hình ảnh đính kèm minh họa quá trình chuyển hóa khối lượng thành năng lượng theo thuyết tương đối của Einstein. Ta thấy biểu tượng $m$ (khối lượng) và $E$ (năng lượng) được nối với nhau qua bình phương tốc độ ánh sáng $c^2$.\n- Bước 1: Nhắc lại lý thuyết Einstein về tương đương khối lượng – năng lượng:\n$E = mc^2$\n- Bước 2: Giải thích công thức: - $E$: năng lượng tương đương (đơn vị J).\n  - $m$: khối lượng (đơn vị kg).\n  - $c$: tốc độ ánh sáng trong chân không (khoảng \\$3\\times10^8$ m/s), do đó $c^2$ rất lớn.\n- Bước 3: Đánh giá các phương án: - Phương án A: $E = mc$ → thiếu bình phương $c^2$, không đúng.\n  - Phương án B: $E = \\tfrac12\\,mc$ → sai cả hệ số và thiếu $c^2$.\n  - Phương án C: $E = \\tfrac12\\,mc^2$ → sai vì hệ số $\\tfrac12$ không có trong công thức gốc.\n  - Phương án D: $E = mc^2$ → đúng với lý thuyết của Einstein.\n**✅ Đáp án:** D. $E = mc^2$\n**❌ Các đáp án khác:**\n- A. $E = mc$: thiếu bình phương tốc độ ánh sáng.\n- B. $E = \\tfrac12\\,mc$: sai hệ số và thiếu $c^2$.\n- C. $E = \\tfrac12\\,mc^2$: sai hệ số $\\tfrac12$."
+    },
+    {
+      "id": 12,
+      "content": "Trong các tính chất sau, tính chất nào **không phải** của chất khí?",
+      "chuong": "khí lí tưởng",
+      "dang": "lý thuyết: thuyết động học phân tử chất khí",
+      "type": "single",
+      "options": [
+        "A. Có hình dạng cố định.",
+        "B. Tác dụng lực lên mọi phần diện tích của bình chứa.",
+        "C. Chiếm toàn bộ thể tích của hình chứa.",
+        "D. Các phân tử chuyển động hỗn loạn, không ngừng."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Chất khí không có hình dạng cố định, nó thay đổi theo bình chứa.\n- Chất khí luôn tác dụng áp suất (lực trên đơn vị diện tích) lên thành bình chứa.\n- Chất khí luôn giãn nở để chiếm toàn bộ thể tích của bình chứa.\n- Các phân tử khí chuyển động hỗn loạn, không ngừng (chuyển động nhiệt).\n- Vậy tính chất nào không đúng với chất khí? - “Có hình dạng cố định” là mâu thuẫn với đặc điểm không có hình dạng cố định.\n**✅ Đáp án:** A. Có hình dạng cố định.\n**❌ Các đáp án khác:**\n- B. Chất khí có áp suất, nên tác dụng lực lên mọi phần diện tích bình chứa.\n- C. Chất khí giãn nở lấp đầy toàn bộ thể tích bình chứa.\n- D. Phân tử khí chuyển động hỗn loạn, liên tục theo lý thuyết động học phân tử."
+    },
+    {
+      "id": 13,
+      "content": "Một khung dây có diện tích $S$, được đặt trong từ trường đều có cảm ứng từ $B$, góc giữa vectơ cảm ứng từ và vectơ pháp tuyến là $\\alpha$. Từ thông $\\Phi$ qua diện tích $S$ được tính theo công thức",
+      "chuong": "từ trường",
+      "dang": "lý thuyết: từ thông. hiện tượng cảm ứng điện từ",
+      "type": "single",
+      "options": [
+        "A. $\\Phi = BS \\cdot \\cos \\alpha$",
+        "B. $\\Phi = BS \\cdot \\sin \\alpha$",
+        "C. $\\Phi = BS \\cdot \\tan \\alpha$",
+        "D. $\\Phi = BS \\cdot \\cot \\alpha$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Theo định nghĩa, từ thông qua một mặt phẳng là tích vô hướng giữa vectơ cảm ứng từ $\\vec B$ và vectơ diện tích $\\vec S$:\n$\\Phi = \\vec B \\cdot \\vec S$\n- Với $|\\vec B|=B$, $|\\vec S|=S$ và góc giữa hai vectơ là $\\alpha$, ta có công thức nhân vô hướng:\n$\\Phi = BS \\cos\\alpha$\n- Vì bài cho $\\alpha$ là góc giữa $\\vec B$ và vectơ pháp tuyến của mặt $S$ (đúng góc dùng trong công thức cosin), kết quả chính xác là $BS\\cos\\alpha$.\n**✅ Đáp án:**\n$\\Phi = BS \\cdot \\cos \\alpha$\n**❌ Các đáp án khác:**\n- B. $\\Phi = BS \\cdot \\sin \\alpha$ – sai vì dùng sin thay cho cos (sin đo góc với mặt phẳng, không phải với pháp tuyến).\n- C. $\\Phi = BS \\cdot \\tan \\alpha$ – sai vì tan không xuất hiện trong định nghĩa tích vô hướng.\n- D. $\\Phi = BS \\cdot \\cot \\alpha$ – sai vì cot cũng không đúng trong công thức từ thông."
+    },
+    {
+      "id": 14,
+      "content": "Người ta truyền nhiệt lượng \\$100\\,J$ cho khối khí trong một xi lanh kín. Khối khí nở ra thực hiện công \\$70\\,J$ đẩy pittông di chuyển. Độ biến thiên nội năng của khối khí là",
+      "chuong": "vật lí nhiệt",
+      "dang": "bài tập: định luật i nhiệt động lực học",
+      "type": "single",
+      "options": [
+        "A. \\$40\\,J$",
+        "B. \\$20\\,J$",
+        "C. \\$30\\,J$",
+        "D. \\$50\\,J$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Nhìn hình minh họa: một xi lanh kín chứa khí, khí nở ra đẩy pittông → khí thực hiện công ra ngoài.\n- Viết *định luật I nhiệt động học*:\n- Chuyển vế để tính $ΔU$:\n- Thay số vào công thức:\n- Kết luận: nội năng tăng \\$30\\,J$.\n**✅ Đáp án:** \\$30\\,J$\n**❌ Các đáp án khác:**\n- 40 J: sai vì \\$100 - 70 = 30$, không phải 40\n- 20 J: sai vì thiếu 10 J so với kết quả đúng\n- 50 J: sai vì công đã trừ đi không đủ lớn để cho ΔU = 50 J"
+    },
+    {
+      "id": 15,
+      "content": "Lực từ không phải là lực tương tác giữa",
+      "chuong": "từ trường",
+      "dang": "lý thuyết: lực từ. cảm ứng từ",
+      "type": "single",
+      "options": [
+        "A. hai điện tích đứng yên.",
+        "B. một nam châm và một dòng điện.",
+        "C. hai nam châm.",
+        "D. hai dòng điện."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Nhắc lại công thức tổng quát của lực từ lên điện tích chuyển động:  Trong đó:\n• $q$ là điện tích,\n• $\\mathbf{v}$ là vận tốc của điện tích,\n• $\\mathbf{B}$ là cảm ứng từ.\n- Từ công thức trên ta thấy nếu $\\mathbf{v}=0$ (điện tích đứng yên), thì $\\mathbf{F}=0$\n- Kiểm tra từng cặp đối tượng:\n• Hai điện tích đứng yên: không có chuyển động → không sinh lực từ.\n• Một nam châm và một dòng điện: có dòng điện chuyển động → có lực từ.\n• Hai nam châm: tương tác từ trường giữa hai nam châm → có lực từ.\n• Hai dòng điện: dòng điện tạo từ trường và tương tác với dòng kia → có lực từ.\n**✅ Đáp án:** A\n**❌ Các đáp án khác:**\n- B: một nam châm và một dòng điện — có lực từ giữa nam châm và dòng điện.\n- C: hai nam châm — hai nam châm đặt gần nhau tương tác với nhau qua lực từ.\n- D: hai dòng điện — hai dòng điện song song hút hoặc đẩy nhau qua lực từ."
+    },
+    {
+      "id": 16,
+      "content": "Công thức liên hệ giữa hằng số Boltzmann ($k$) với số Avogadro ($N_A$) và hằng số khí lí tưởng ($R$) là",
+      "chuong": "khí lí tưởng",
+      "dang": "lý thuyết: phương trình trạng thái khí lí tưởng",
+      "type": "single",
+      "options": [
+        "A. $k = \\frac{N_A}{R}$",
+        "B. $k = N_A R^2$",
+        "C. $k = \\frac{R}{N_A}$",
+        "D. $k = \\frac{N_A}{R^2}$"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Từ định nghĩa của hằng số khí lí tưởng ta có hệ thức:\n$R = N_A \\, k.$\n- Muốn tìm $k$, ta chia hai vế cho $N_A$:\n$k = \\frac{R}{N_}A}.$\n- So sánh với các phương án đã cho: - Phương án A: $k = \\frac{N_A}{R}$ – đổi nhầm tử và mẫu.\n  - Phương án B: $k = N_A\\,R^2$ – không đúng về mặt công thức và đơn vị.\n  - Phương án C: $k = \\frac{R}{N_}A}$ – khớp với kết quả vừa tìm được.\n**✅ Đáp án:** $k = \\frac{R}{N_}A}$ (Phương án C)\n**❌ Các đáp án khác:**\n- A. $k = \\frac{N_A}{R}$: ngược vị trí tử và mẫu, không đúng.\n- B. $k = N_A\\,R^2$: sai công thức và sai đơn vị."
+    },
+    {
+      "id": 17,
+      "content": "Trường hợp nào dưới đây làm biến đổi nội năng của vật **không do thực hiện công**?",
+      "chuong": "vật lí nhiệt",
+      "dang": "thực tế: nội năng. định luật i nhiệt động lực học",
+      "type": "single",
+      "options": [
+        "A. Nung sắt trong lò.",
+        "B. Khuấy nước.",
+        "C. Mài dao.",
+        "D. Đóng đinh."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Nội năng của vật thay đổi theo công thức $\\Delta U = Q + W$.\n- Nếu chỉ truyền nhiệt (hút hoặc tỏa nhiệt) thì $W=0$ và $\\Delta U = Q$.\n- Xét từng trường hợp: - Nung sắt trong lò: sắt nhận nhiệt từ lò, không có lực cơ học tác dụng lên vật → chỉ có Q, W=0.\n  - Khuấy nước: khi khuấy có lực (công) sinh nhiệt, nội năng tăng do W từ cánh khuấy.\n  - Mài dao: khi mài có ma sát, ma sát sinh công biến thành nhiệt → W≠0.\n  - Đóng đinh: lực búa tác dụng lên đinh là công cơ học → W≠0.\n**✅ Đáp án:** $\\text{Nung sắt trong lò}$\n**❌ Các đáp án khác:**\n- Khuấy nước: nội năng tăng do công cơ học của cánh khuấy (W≠0).\n- Mài dao: nội năng tăng do công ma sát khi mài (W≠0).\n- Đóng đinh: nội năng tăng do công của lực búa đập (W≠0)."
+    },
+    {
+      "id": 18,
+      "content": "Dòng điện xoay chiều chạy qua một đoạn mạch có biểu thức: $i = 3\\cos\\left(100\\pi t + \\frac{\\pi}{2}\\right)\\,\\mathrm{(A)}$. Pha ban đầu của cường độ dòng điện này là",
+      "chuong": "từ trường",
+      "dang": "bài tập: máy phát điện. điện xoay chiều",
+      "type": "single",
+      "options": [
+        "A. \\$3\\,\\mathrm{rad}$",
+        "B. \\$100\\pi\\,\\mathrm{rad}$",
+        "C. $\\frac{\\pi}{2}\\,\\mathrm{rad}$",
+        "D. \\$100\\,\\mathrm{rad}$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Xét biểu thức tổng quát của dòng điện xoay chiều:\n$i = I_0\\cos(\\omega t + \\varphi)\\,.$\n- Nhận dạng các thông số từ đề bài:\n$I_0 = 3\\ \\mathrm{A},\\quad \\omega = 100\\pi\\ \\mathrm{rad/s},\\quad \\varphi = \\frac{\\pi}{2}\\ \\mathrm{rad}.$\n- Vậy, pha ban đầu chính là:\n$\\varphi = \\frac{\\pi}{2}\\ \\mathrm{rad}.$\n- Đánh giá các phương án sai: - 3 rad: đây là biên độ cực đại $I_0$, không phải pha ban đầu.\n  - 100π rad: đây là tần số góc $\\omega$, không phải pha ban đầu.\n  - 100 rad: giá trị này không liên quan đến pha ban đầu.\n**✅ Đáp án:** $\\frac{\\pi}{2}\\,\\mathrm{rad}$\n**❌ Các đáp án khác:**\n- A. 3 rad: Đây là biên độ cực đại, không phải pha ban đầu.\n- B. 100π rad: Đây là tần số góc ω, không phải pha ban đầu.\n- D. 100 rad: Sai, không phải pha ban đầu."
+    }
+  ]
+}

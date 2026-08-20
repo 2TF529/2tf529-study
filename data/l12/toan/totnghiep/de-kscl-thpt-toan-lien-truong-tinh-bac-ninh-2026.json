@@ -1,0 +1,196 @@
+{
+  "id": "l12-toan-totnghiep-2026-de-kscl-thpt-toan-lien-truong-tinh-bac-ninh-2026",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "code": "THPT_TTT_2026_BN_06",
+  "title": "Đề khảo sát chất lượng THPT môn Toán Liên Trường THPT Sở GD&ĐT Bắc Ninh năm 2026",
+  "duration": 90,
+  "answerSource": "official",
+  "source": "https://dolthpt.vn/tot-nghiep-thpt/pdf-de-kscl-thpt-toan-lien-truong-tinh-bac-ninh-2026-co-dap-an",
+  "notes": "Nội dung, đáp án và lời giải được nhập từ bản công khai của DOL THPT.",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "content": "Cho hình chóp $S.ABC$, gọi $G$ là trọng tâm tam giác $ABC$. Khẳng định nào sau đây là đúng?",
+      "chuong": "vectơ và hệ trục tọa độ trong không gian",
+      "dang": "tổng và hiệu của hai vectơ trong không gian",
+      "type": "single",
+      "options": [
+        "A. $\\overrightarrow{SA}+\\overrightarrow{SB}+\\overrightarrow{SC}=3\\overrightarrow{SG}$",
+        "B. $\\overrightarrow{SA}+\\overrightarrow{SB}+\\overrightarrow{SC}=2\\overrightarrow{SG}$",
+        "C. $\\overrightarrow{SA}+\\overrightarrow{SB}+\\overrightarrow{SC}=\\overrightarrow{SG}$",
+        "D. $\\overrightarrow{SA}+\\overrightarrow{SB}+\\overrightarrow{SC}=4\\overrightarrow{SG}$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hình chóp *S.ABC*.\n- *G* là trọng tâm tam giác *ABC*.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu chọn khẳng định đúng về mối liên hệ vectơ giữa các điểm *S, A, B, C, G*.\n- Cần vận dụng tính chất của trọng tâm tam giác (quan hệ các vectơ từ trọng tâm tới các đỉnh) và phép cộng vectơ.\n🔎 **Hướng dẫn cách làm:**\n- Đặt xuất phát là điểm *G*, nhớ tính chất trọng tâm: tổng các vectơ từ trọng tâm đến các đỉnh bằng vectơ không: $\\overrightarrow{GA}+\\overrightarrow{GB}+\\overrightarrow{GC}=\\overrightarrow{0}.$\n- Viết các vectơ từ *S* đến từng đỉnh theo vectơ từ *S* đến *G* cộng vectơ từ *G* đến đỉnh:\n$\\overrightarrow{SA}=\\overrightarrow{SG}+\\overrightarrow{GA},$\n$\\overrightarrow{SB}=\\overrightarrow{SG}+\\overrightarrow{GB},$\n$\\overrightarrow{SC}=\\overrightarrow{SG}+\\overrightarrow{GC}.$\n- Cộng ba biểu thức trên:\n- Dùng tính chất trọng tâm ở trên, ta có $\\overrightarrow{GA}+\\overrightarrow{GB}+\\overrightarrow{GC}=\\overrightarrow{0}$. Vậy:\n$\\overrightarrow{SA}+\\overrightarrow{SB}+\\overrightarrow{SC}=3\\overrightarrow{SG}.$\n- Kết luận: phương trình đúng là phương trình ở lựa chọn A.\n✅ **Đáp án:** $A. \\overrightarrow{SA}+\\overrightarrow{SB}+\\overrightarrow{SC}=3\\overrightarrow{SG}$"
+    },
+    {
+      "id": 2,
+      "content": "Trong mặt phẳng tọa độ $Oxy$, phương trình nào trong các phương trình dưới đây là phương trình của một đường tròn?",
+      "chuong": "phương pháp toạ độ trong mặt phẳng",
+      "dang": "phương trình đường tròn",
+      "type": "single",
+      "options": [
+        "A. $(x+2)^2+y^2=9$",
+        "B. $\\dfrac{x^2}{7}+\\dfrac{y^2}{5}=1$",
+        "C. $x^2+2y^2=2$",
+        "D. $\\dfrac{x^2}{9}-\\dfrac{y^2}{4}=1$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Các phương trình cần xét: - A: $(x+2)^2+y^2=9$\n  - B: $\\dfrac{x^2}{7}+\\dfrac{y^2}{5}=1$\n  - C: $x^2+2y^2=2$\n  - D: $\\dfrac{x^2}{9}-\\dfrac{y^2}{4}=1$\n- Có hình ảnh đính kèm nhưng không có mô tả nội dung cụ thể, nên không cung cấp thông tin thêm.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi: \"Phương trình nào trong các phương trình dưới đây là phương trình của một **đường tròn**?\"\n- Kiến thức cần dùng: dạng chuẩn của phương trình đường tròn trong mặt phẳng tọa độ: - $(x-a)^2+(y-b)^2=R^2$ với $R>0$.\n- Cần kiểm tra từng phương trình xem có dạng giống như trên hay không.\n🔎 **Hướng dẫn cách làm:**\n- Nhắc lại: *Phương trình đường tròn* có dạng $(x-a)^2+(y-b)^2=R^2$. Nếu một phương trình là tổng của hai bình phương đều có hệ số 1 trước hai bình phương và vế phải dương thì đó là đường tròn (sau khi quy về dạng chuẩn).\n- Kiểm tra từng phương trình: - A: $(x+2)^2+y^2=9$ - Đây đúng là dạng $(x-(-2))^2+(y-0)^2=3^2$, tức là tâm $(-2,0)$, bán kính $R=3$. Vì vậy A là phương trình đường tròn.\n  - B: $\\dfrac{x^2}{7}+\\dfrac{y^2}{5}=1$ - Viết lại: $\\frac{x^2}{7}+\\frac{y^2}{5}=1$. Đây là dạng tổng hai bình phương nhưng hệ số khác nhau (tương đương $\\frac{x^2}{7}+\\frac{y^2}{5}=1$) => đây là **elip**, không phải đường tròn (để là đường tròn thì hai mẫu số phải bằng nhau).\n  - C: $x^2+2y^2=2$ - Chia hai vế cho 2: $\\frac{x^2}{2}+y^2=1$ hoặc viết $\\frac{x^2}{2}+\\frac{y^2}{1}=1$. Hai hệ số khác nhau nên đây cũng là **elip**, không phải đường tròn.\n  - D: $\\dfrac{x^2}{9}-\\dfrac{y^2}{4}=1$ - Có dấu trừ giữa hai biểu thức, đây là dạng của **hyperbol** (đường hypebol), chắc chắn không phải đường tròn.\n✅ **Đáp án:**  $A. \\ (x+2)^2+y^2=9$"
+    },
+    {
+      "id": 3,
+      "content": "Thể tích của khối lăng trụ đứng $ABC.A'B'C'$ biết $AA'=2a,,AB=3a,,AC=4a$ và $AB\\perp AC$ bằng",
+      "chuong": "quan hệ vuông góc trong không gian",
+      "dang": "thể tích",
+      "type": "single",
+      "options": [
+        "A. \\$8a^3$",
+        "B. \\$12a^3$",
+        "C. \\$24a^3$",
+        "D. \\$4a^3$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Khối lăng trụ đứng $ABC.A'B'C'$.\n- $AA' = 2a$ (độ dài các cạnh bên = chiều cao của lăng trụ).\n- $AB = 3a,\\; AC = 4a$ và $AB \\perp AC$ (tam giác đáy vuông tại A).\n- Hình đính kèm mô tả lăng trụ đứng với đáy là tam giác vuông $ABC$ (góc vuông tại A) và cạnh bên thẳng đứng $AA'$.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu tính *thể tích* của lăng trụ đứng, cần áp dụng công thức tính thể tích lăng trụ.\n- Cần biết: diện tích đáy (tam giác vuông) và chiều cao (cạnh bên) của lăng trụ.\n🔎 **Hướng dẫn cách làm:**\n- Công thức thể tích lăng trụ: $V = S_{\\text{đáy}} \\cdot h.$\n- Đáy là tam giác vuông tại A với hai cạnh kề là $AB$ và $AC$, nên diện tích đáy:\n$S_{\\triangle ABC} = \\dfrac{1}{2}\\cdot AB \\cdot AC = \\dfrac{1}{2}\\cdot (3a)\\cdot(4a) = 6a^{2}.$\n- Chiều cao của lăng trụ chính là $AA' = 2a.$\n- Thể tích:\n$V = S_{\\triangle ABC}\\cdot AA' = 6a^{2}\\cdot 2a = 12a^{3}.$\n✅ **Đáp án:**  $\\text{B. }12a^{3}$"
+    },
+    {
+      "id": 4,
+      "content": "Giá trị lớn nhất của hàm số $f(x)=x^3-3x^2-9x+10$ trên đoạn $[-2;2]$ bằng",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "cách tìm giá trị lớn nhất và giá trị nhỏ nhất của hàm số trên một đoạn",
+      "type": "single",
+      "options": [
+        "A. $-1$",
+        "B. $-12$",
+        "C. \\$15$",
+        "D. \\$10$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số: $f(x)=x^3-3x^2-9x+10$\n- Đoạn xét: $[-2;2]$\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu tìm **giá trị lớn nhất** của hàm số trên đoạn kín $[-2;2]$.\n- Kiến thức cần dùng: tìm điểm tới hạn bằng đạo hàm, rồi so sánh giá trị của hàm tại các điểm tới hạn nằm trong đoạn và tại các mút của đoạn.\n🔎 **Hướng dẫn cách làm:**\n- Tính đạo hàm: $f'(x)=3x^2-6x-9=3(x^2-2x-3)=3(x-3)(x+1).$\n- Tìm nghiệm của $f'(x)=0$: ta có $x=3$ và $x=-1.$ - Trong hai nghiệm này, chỉ $x=-1$ nằm trong đoạn $[-2;2].$\n- Cần so sánh giá trị của $f$ tại các điểm: các mút $x=-2, x=2$ và điểm tới hạn $x=-1$.\n- Tính giá trị: - $f(-1)=(-1)^3-3(-1)^2-9(-1)+10=-1-3+9+10=15.$\n  - $f(-2)=(-2)^3-3(-2)^2-9(-2)+10=-8-12+18+10=8.$\n  - $f(2)=2^3-3\\cdot2^2-9\\cdot2+10=8-12-18+10=-12.$\n- So sánh: trong ba giá trị \\$15,\\,8,\\,-12$, giá trị lớn nhất là \\$15$ tại $x=-1$.\n✅ **Đáp án:** C. \\$15$"
+    },
+    {
+      "id": 5,
+      "content": "Đẳng thức lượng giác nào dưới đây SAI?",
+      "chuong": "hàm số lượng giác và phương trình lượng giác",
+      "dang": "công thức nhân đôi",
+      "type": "single",
+      "options": [
+        "A. $\\cos2\\alpha=2\\cos^2\\alpha-1$",
+        "B. $\\sin2\\alpha=2\\sin\\alpha\\cos\\alpha$",
+        "C. $\\cos2\\alpha=1-2\\sin^2\\alpha$",
+        "D. $\\cos2\\alpha=\\sin^2\\alpha-\\cos^2\\alpha$"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Các công thức nhân đôi cơ bản: - $\\sin 2\\alpha = 2\\sin\\alpha\\cos\\alpha$\n  - $\\cos 2\\alpha = \\cos^2\\alpha - \\sin^2\\alpha$\n  - $\\cos 2\\alpha = 2\\cos^2\\alpha - 1$\n  - $\\cos 2\\alpha = 1 - 2\\sin^2\\alpha$\n❓ **Hiểu câu hỏi:**\n- Chọn **đẳng thức lượng giác sai** trong 4 lựa chọn.\n- Cần áp dụng kiến thức về **công thức nhân đôi** của $\\sin 2\\alpha$ và $\\cos 2\\alpha$.\n🔎 **Hướng dẫn cách làm:**\n- So sánh từng lựa chọn với công thức chuẩn:\n- A: $\\cos 2\\alpha = 2\\cos^2\\alpha - 1$ → đúng (công thức nhân đôi của cos).\n- B: $\\sin 2\\alpha = 2\\sin\\alpha\\cos\\alpha$ → đúng (công thức nhân đôi của sin).\n- C: $\\cos 2\\alpha = 1 - 2\\sin^2\\alpha$ → đúng (biến đổi từ công thức nhân đôi).\n- D: Đề cho $\\cos 2\\alpha = \\sin^2\\alpha - \\cos^2\\alpha$\nTrong khi công thức đúng là $\\cos 2\\alpha = \\cos^2\\alpha - \\sin^2\\alpha$\nMà $\\sin^2\\alpha - \\cos^2\\alpha = -(\\cos^2\\alpha - \\sin^2\\alpha) = -\\cos 2\\alpha$ → nên D sai.\n✅ **Đáp án:** D"
+    },
+    {
+      "id": 6,
+      "content": "Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình bình hành tâm $O$, $M$ là trung điểm $SA$. Khẳng định nào sau đây là đúng?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-kscl-thpt-toan-lien-truong-tinh-bac-ninh-2026/cau-06.webp\" alt=\"Hình minh họa câu 6\" loading=\"lazy\"></figure>",
+      "chuong": "quan hệ song song trong không gian",
+      "dang": "đường thẳng song song với mặt phẳng",
+      "type": "single",
+      "options": [
+        "A. $OM//(SAD)$",
+        "B. $OM//(SAB)$",
+        "C. $OM//(SBD)$",
+        "D. $OM//(SCD)$"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hình chóp $S.ABCD$ có đáy $ABCD$ là hình bình hành, tâm $O$.\n- $O$ là giao điểm hai đường chéo nên $O$ là trung điểm của $AC$ và $BD$.\n- $M$ là trung điểm của $SA$.\n❓ **Hiểu câu hỏi:**\n- Chọn khẳng định đúng về quan hệ song song: $OM \\parallel (,\\text{mặt phẳng nào},)$.\n- Kiến thức cần dùng: tính chất trung điểm và **đường trung bình trong tam giác**, và nhận biết “đường thẳng song song với một đường nằm trong mặt phẳng thì song song với mặt phẳng đó”.\n🔎 **Hướng dẫn cách làm:**\n- Vì $O$ là trung điểm của $AC$ và $M$ là trung điểm của $SA$ nên xét tam giác $SAC$.\n- Trong tam giác $SAC$, đoạn nối hai trung điểm $M$ của $SA$ và $O$ của $AC$ là đường trung bình, do đó:\n$OM \\parallel SC.$\n- Mà $SC \\subset (SCD)$ (vì $S, C, D$ xác định mặt phẳng $(SCD)$ và đường thẳng $SC$ nằm trong đó).\n- Suy ra: $OM \\parallel (SCD).$\n✅ **Đáp án:** D. $OM \\parallel (SCD)$"
+    },
+    {
+      "id": 7,
+      "content": "Trong mặt phẳng $Oxy$, cho hai điểm $B(-1;3)$ và $C(3;1)$. Độ dài vectơ $\\overrightarrow{BC}$ bằng",
+      "chuong": "vectơ",
+      "dang": "biểu thức tọa độ của các phép toán vectơ",
+      "type": "single",
+      "options": [
+        "A. \\$2\\sqrt{5}$",
+        "B. \\$2$",
+        "C. $\\sqrt{5}$",
+        "D. \\$6$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Điểm $B(-1;3)$ và $C(3;1)$ trong mặt phẳng $Oxy$.\n- Yêu cầu: tính độ dài vectơ $\\overrightarrow{BC}$.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu tìm độ dài (magnitude) của vectơ $\\overrightarrow{BC}$.\n- Kiến thức cần dùng: công thức khoảng cách giữa hai điểm trong mặt phẳng hoặc công thức độ dài vectơ.\n🔎 **Hướng dẫn cách làm:**\n- Tính thành phần của vectơ $\\overrightarrow{BC}$ bằng hiệu tọa độ:\n$\\overrightarrow{BC}=(x_C-x_B,\\;y_C-y_B)=(3-(-1),\\;1-3)=(4,-2).$\n- Áp dụng công thức độ dài vectơ:\n$|\\overrightarrow{BC}|=\\sqrt{(4)^2+(-2)^2}=\\sqrt{16+4}=\\sqrt{20}.$\n- Rút gọn: $\\sqrt{20}=2\\sqrt5.$ Vì độ dài luôn không âm nên có thể viết dưới dạng $|2\\sqrt5|=2\\sqrt5.$\n- Kết luận: độ dài vectơ $\\overrightarrow{BC}$ bằng \\$2\\sqrt5$, tương ứng với lựa chọn có biểu thức $|2\\sqrt5|.$\n✅ **Đáp án:**  $A. |2\\sqrt5|$"
+    },
+    {
+      "id": 8,
+      "content": "Cho cấp số cộng $(u_n)$ có số $u_3=6$ và $u_7=-2$. Tìm số hạng đầu tiên?",
+      "chuong": "dãy số. cấp số cộng và cấp số nhân",
+      "dang": "số hạng tổng quát của cấp số cộng",
+      "type": "single",
+      "options": [
+        "A. $u_1=-14$",
+        "B. $u_1=10$",
+        "C. $u_1=2$",
+        "D. $u_1=-10$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cấp số cộng $(u_n)$ có: - $u_3 = 6$\n  - $u_7 = -2$\n❓ **Hiểu câu hỏi:**\n- Tìm số hạng đầu tiên $u_1$ của cấp số cộng.\n- Cần dùng công thức số hạng tổng quát của cấp số cộng:\n$u_n = u_1 + (n-1)d$\nvới $d$ là công sai.\n🔎 **Hướng dẫn cách làm:**\n- Viết theo công thức:\n$u_3 = u_1 + 2d = 6$\n$u_7 = u_1 + 6d = -2$\n- Lấy phương trình thứ hai trừ phương trình thứ nhất:\n$(u_1+6d) - (u_1+2d) = -2 - 6$\n\\$4d = -8 \\Rightarrow d = -2$\n- Thế $d=-2$ vào $u_3 = u_1 + 2d = 6$:\n$u_1 + 2(-2) = 6 \\Rightarrow u_1 - 4 = 6 \\Rightarrow u_1 = 10$\n✅ **Đáp án:** B. $u_1 = 10$"
+    },
+    {
+      "id": 9,
+      "content": "Thời gian (phút) để học sinh hoàn thành một câu hỏi thi được cho như sau. Mốt (đơn vị: phút) của mẫu số liệu trên gần nhất số nào sau đây\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-kscl-thpt-toan-lien-truong-tinh-bac-ninh-2026/cau-09.webp\" alt=\"Hình minh họa câu 9\" loading=\"lazy\"></figure>",
+      "chuong": "các số đặc trưng đo xu thế trung tâm của mẫu số liệu ghép nhóm",
+      "dang": "mốt của mẫu số liệu ghép nhóm",
+      "type": "single",
+      "options": [
+        "A. \\$12,67$",
+        "B. \\$17,42$",
+        "C. \\$14,56$",
+        "D. \\$17,17$"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Bảng tần số theo lớp thời gian (phút): - $[0{,}5;10{,}5):\\ 2$ học sinh\n  - $[10{,}5;20{,}5):\\ 10$ học sinh\n  - $[20{,}5;30{,}5):\\ 6$ học sinh\n  - $[30{,}5;40{,}5):\\ 4$ học sinh\n  - $[40{,}5;50{,}5):\\ 3$ học sinh\n- Bề rộng mỗi lớp: $h = 20{,}5-10{,}5 = 10.$\n❓ **Hiểu câu hỏi:**\n- Tìm **mốt** (giá trị xuất hiện “nhiều nhất”) của mẫu số liệu ghép lớp.\n- Cần dùng công thức mốt cho số liệu ghép lớp:\n$Mo = L + h\\cdot \\frac{f_1-f_0}{2f_1-f_0-f_}2}$\ntrong đó lớp có tần số lớn nhất là lớp mốt.\n🔎 **Hướng dẫn cách làm:**\n- Lớp có tần số lớn nhất là $[10{,}5;20{,}5)$ nên đây là **lớp mốt**.\n- Xác định các đại lượng: - $L = 10{,}5$ (cận dưới lớp mốt)\n  - $h = 10$\n  - $f_1 = 10$ (tần số lớp mốt)\n  - $f_0 = 2$ (tần số lớp trước)\n  - $f_2 = 6$ (tần số lớp sau)\n- Thay vào công thức: $M_o=10{,}5+10\\cdot\\frac{10-2}{2\\cdot10 - 2 - }6}=10{,}5+10\\cdot\\frac{8}{1}2}=10{,}5+6{,}666\\ldots\\approx17{,}17.$\n✅ **Đáp án:** D. \\$17{,}17$"
+    },
+    {
+      "id": 10,
+      "content": "Cho tam giác $ABC$. Trong các khẳng định sau, khẳng định nào sai?",
+      "chuong": "hệ thức lượng trong tam giác",
+      "dang": "định lí sin",
+      "type": "single",
+      "options": [
+        "A. $\\sin C=\\dfrac{c\\sin A}{a}$",
+        "B. $b\\sin B=2R$",
+        "C. $\\dfrac{a}{\\sin A}=2R$",
+        "D. $\\sin A=\\dfrac{a}{2R}$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Tam giác $ABC$, gọi: - $a,b,c$ lần lượt đối diện với $A,B,C$.\n  - $R$ là bán kính đường tròn ngoại tiếp tam giác.\n- Hệ thức định luật sin:\n$\\frac{a}{\\sin }A}=\\frac{b}{\\sin }B}=\\frac{c}{\\sin }C}=2R.$\n❓ **Hiểu câu hỏi:**\n- Chọn **khẳng định sai** trong các mệnh đề A, B, C, D.\n- Cần áp dụng trực tiếp định luật sin và các biến đổi tương đương từ công thức trên.\n🔎 **Hướng dẫn cách làm:**\n- Từ $\\frac{a}{\\sin }A}=\\frac{c}{\\sin }C}$ suy ra: $\\sin C=\\frac{c\\sin A}{a}$\n→ A đúng.\n- Từ $\\frac{b}{\\sin }B}=2R$ suy ra: $b=2R\\sin B \\Rightarrow b\\sin B = 2R\\sin^2 B$\n(không thể kết luận $b\\sin B=2R$)\n→ B sai.\n- Từ định luật sin có ngay: $\\frac{a}{\\sin }A}=2R$\n→ C đúng.\n- Từ $\\frac{a}{\\sin }A}=2R$ suy ra: $\\sin A=\\frac{a}{2}R}$\n→ D đúng.\n✅ **Đáp án:** B"
+    },
+    {
+      "id": 11,
+      "content": "Tung một đồng xu cân đối và đồng chất \\$1$ lần. Xác suất để xuất hiện mặt sấp là",
+      "chuong": "tính xác suất theo định nghĩa cổ điển",
+      "dang": "bài tập cuối chương 9",
+      "type": "single",
+      "options": [
+        "A. \\$0,25$",
+        "B. \\$1$",
+        "C. \\$0$",
+        "D. \\$0,5$"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Tung một đồng xu cân đối và đồng chất 1 lần.\n- Cần xác định xác suất để xuất hiện mặt sấp.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi: Xác suất xuất hiện mặt sấp khi tung 1 đồng xu cân đối là bao nhiêu?\n- Cần áp dụng kiến thức: không gian mẫu của một phép thử có các kết quả cân xứng và công thức xác suất cơ bản.\n🔎 **Hướng dẫn cách làm:**\n- Xác định không gian mẫu: khi tung một đồng xu cân đối, không gian mẫu là $S=\\{\\text{mặt ngửa},\\ \\text{mặt sấp}\\}$, nên tổng số kết quả là 2.\n- Xác định số kết quả thuận lợi: để xuất hiện mặt sấp có đúng 1 kết quả thuận lợi.\n- Áp dụng công thức xác suất: $P=\\frac{\\text{số kết quả thuận lợi}}{\\text{tổng số kết quả}}$\n- Thay số vào: $P(\\text{mặt sấp})=\\frac{1}{2}$\n- Chuyển sang dạng thập phân (dùng dấu phẩy theo chuẩn Việt Nam): $\\frac{1}{2}=0{,}5$\n- Vì đồng xu cân đối nên không có yếu tố làm lệch, kết quả trên là chính xác.\n✅ **Đáp án:** D. \\$0{,}5$"
+    },
+    {
+      "id": 12,
+      "content": "Nếu một vật có khối lượng $m(kg)$ thì lực hấp dẫn $\\overrightarrow{P}$ của Trái Đất tác dụng lên vật được xác định theo công thức $\\overrightarrow{P}=m\\overrightarrow{g}$, trong đó $\\overrightarrow{g}$ là gia tốc rơi tự do có độ lớn $g=|9,8m/s^2|$. Tính độ lớn của lực hấp dẫn của Trái Đất tác dụng lên một quả táo có khối lượng $|102|$ gam (Hình).\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-kscl-thpt-toan-lien-truong-tinh-bac-ninh-2026/cau-12.webp\" alt=\"Hình minh họa câu 12\" loading=\"lazy\"></figure>",
+      "chuong": "vectơ",
+      "dang": "bài tập cuối chương 4",
+      "type": "single",
+      "options": [
+        "A. \\$0,9996N$",
+        "B. \\$0,8996N$",
+        "C. \\$0,9196N$",
+        "D. \\$0,5996N$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Khối lượng của quả táo: $m=|102|\\ \\text{gam}$ (tức là \\$102\\ \\text{g}$).\n- Gia tốc rơi tự do: $\\overrightarrow{g}$ có độ lớn $g=9,8\\ \\text{m/s}^2$.\n- Công thức lực hấp dẫn (trọng lực): $\\overrightarrow{P}=m\\overrightarrow{g}$.\n- Hình vẽ: quả táo trong lòng bàn tay, tâm quả táo ghi ký hiệu *m* và mũi tên đỏ hướng xuống dưới biểu diễn vectơ trọng lực $\\overrightarrow{P}$ (độ lớn cần tính).\n❓ **Hiểu câu hỏi:**\n- Yêu cầu: Tính **độ lớn** của lực hấp dẫn (trọng lực) của Trái Đất tác dụng lên quả táo.\n- Cần áp dụng: công thức $P=mg$ và quy đổi đơn vị từ gam sang kilogram.\n🔎 **Hướng dẫn cách làm:**\n- Chuyển khối lượng từ gam sang kilogram:  $m=102\\ \\text{g}=0{,}102\\ \\text{kg}$\n- Áp dụng công thức độ lớn lực hấp dẫn (trọng lực):  $P=mg$\n- Thay số vào:  $P=0{,}102\\times 9{,}8=0{,}9996\\ \\text{N}$\n- Kiểm tra ý nghĩa với hình: mũi tên đỏ hướng xuống là vectơ $\\overrightarrow{P}$ có độ lớn vừa tính, phù hợp với công thức $\\overrightarrow{P}=m\\overrightarrow{g}$.\n✅ **Đáp án:**$A. 0,9996N$"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-11-bai-tap-tim-giao-tuyen-cua-hai-mat-phang-co-loi-giai",
+  "sourceId": "vietjack:2-11-bai-tap-tim-giao-tuyen-cua-hai-mat-",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.11 Bài tập Tìm giao tuyến của hai mặt phẳng (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho tứ diện ABCD. M và N là trung điểm của AD và AC. G là trọng tâm tam giác BCD. Giao tuyến của 2 mặt phẳng (GMN) và (BCD) là đường thẳng",
+      "options": [
+        "A. q ua M và song song với AB ;",
+        "B. q ua N và song song với BD ;",
+        "C. q ua G và song song với CD ;",
+        "D. q ua G và song song với BC ."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có: M N ∥ C D M N ⊂ G M N ; C D ⊂ B C D B C D ∩ G M N = G ⇒ G M N ∩ B C D = G s ∥ C D ∥ M N . Đáp án đúng là C"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hình chóp S. ABCD có đáy là hình thang với các cạnh đáy là AB và CD. M và N là trung điểm AD và BC. G là trọng tâm tam giác SAB. Giao tuyến của (SAB) và (MNG) là:",
+      "options": [
+        "A. SC ;",
+        "B. Đường thẳng qua S và song song với AB ;",
+        "C. Đường thẳng qua G và song song với CD ;",
+        "D. Đường thẳng qua G và cắt BC."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Vì M và N lần lượt là trung điểm của AD và BC . Nên MN là đường trung bình của hình thang ABCD . Do đó MN // AB // CD . Ta có: M N ∥ A B M N ⊂ G M N ; A B ⊂ S A B G ∈ S A B ∩ G M N Suy ra (GMN) ∩ (SAB) = Gx // MN // AB ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho hình bình hành ABCD và điểm S nằm ngoài (ABCD). E là một điểm bất kì thuộc cạnh SA. Giao tuyến của mặt phẳng (ECD) và (SAB) là",
+      "options": [
+        "A. Qua E và song song với AD ;",
+        "B. Qua E và song song với AB ;",
+        "C. Qua E và song song với AC ;",
+        "D. Qua E và song song với BD ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có: C D ∥ A B C D ⊂ E C D ; A B ⊂ S A B M ∈ S A B ∩ E C D Do đó (SAB) ∩ (SCD) = d, với d // AB // CD và E ∈ d ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hình thoi ABCD và S nằm ngoài (ABCD). O là giao điểm của AC và BD. E và F lần lượt là trung điểm của CD và AE. Giao tuyến của (SFO) và (SCD) là",
+      "options": [
+        "A. Qua A và song song EC ;",
+        "B. Qua E và song song FO ;",
+        "C. Qua S và song song FO ;",
+        "D. Qua O và song song EC ."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Vì F và O là trung điểm của AE và AC nên FO là đường trung bình của tam giác ACE. Suy ra FO // EC . Ta có: F O ∥ E C F O ⊂ S F O ; E C ⊂ S E C S ∈ S F O ∩ S E C . Do đó (SFO) ∩ (SEC) = Sx // FO // EC ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hình thoi ABCD và S nằm ngoài (ABCD). Lấy điểm E trên SA sao cho 2SE = EA; Lấy điểm F trên SB sao cho 2SF = FB. Điểm H nằm trên cạnh SC không trùng với S. Giao tuyến của (EFH) và (SCD) là",
+      "options": [
+        "A. Qua A và song song AB ;",
+        "B. Qua F và song song CD ;",
+        "C. Qua H và song song CD ;",
+        "D. Đáp án khác ."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có: 2SE = EA và 2SF = FB nên S E E A = S F F B = 1 2 . Suy ra EF // AB (định lí Thalès đảo) (1) Lại có ABCD là hình thoi nên AB // CD (2) Từ (1) và (2) suy ra: EF // CD. Ta có: E F ∥ C D E F ⊂ E F H ; C D ⊂ S C D H ∈ E F H ∩ S C D . Suy ra (EFH) ∩ (SCD) = Hx // EF // CD ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho tứ diện ABCD và ba điểm P , Q , R lần lượt trên cạnh AB , CD và BC. Biết rằng PR // AC. G iao điểm S của mp(PQR) và cạnh AD là",
+      "options": [
+        "A. giao điểm của đường thẳng Qx và AD với Qx // AC ;",
+        "B. giao điểm của đường thẳng Px và AD với Px // BD ;",
+        "C. giao điểm của đường thẳng Rx và AD với Rx // BD ;",
+        "D. giao điểm của đường thẳng Qx và AD với Qx // BD ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Chọn mặt phẳng phụ chứa AD là (ACD). Ta có: P R ∥ A C P R ⊂ P Q R ; A C ⊂ A C D Q ∈ P Q R ∩ A C D ⇒ (PQR) ∩ (ACD) = Qx // PR // AC + Trong mặt phẳng (ACD); Qx cắt AD tại S ta được điểm S cần tìm."
+    }
+  ]
+}

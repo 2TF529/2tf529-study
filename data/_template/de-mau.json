@@ -1,0 +1,23 @@
+{
+  "id": "GRADE-SUBJECTSLUG-EXAMTYPE-YEAR-CODE",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2025,
+  "code": "Đề 01",
+  "title": "Môn học X - Khối Y - Loại kỳ thi Z - Năm - Đề 01",
+  "duration": 90,
+  "answerSource": "ai",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "chuong": "(Tùy chọn) Tên chương/chủ đề, ví dụ: Ứng dụng đạo hàm - để câu này xuất hiện trong 'Ôn theo dạng + chương'",
+      "dang": "(Tùy chọn) Tên dạng bài cụ thể trong chương đó, ví dụ: Xét tính đơn điệu của hàm số",
+      "content": "Nội dung câu hỏi, công thức viết bằng LaTeX trong dấu $...$",
+      "options": ["A. Đáp án 1", "B. Đáp án 2", "C. Đáp án 3", "D. Đáp án 4"],
+      "answer": "A"
+    }
+  ]
+}

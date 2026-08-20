@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-1-22-cau-trac-nghiem-toan-12-canh-dieu-bai-tap-cuoi-chuong-iv-dun",
+  "sourceId": "vietjack:1-22-cau-trac-nghiem-toan-12-canh-dieu-b",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.22 câu trắc nghiệm Toán 12 Cánh diều Bài tập cuối chương IV (Đúng sai - Trả lời ngắn) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: TRẮC NGHIỆM NHIỀU LỰA CHỌN Diện tích hình phẳng giới hạn bởi hai parabol \\(y = - {x^2} + 3;y = 2{x^2} + 3x - 3\\) và hai đường thẳng \\(x = - 2;x = 1\\) bằng:",
+      "options": [
+        "A. \\(11,5.\\)",
+        "B. \\(12,5.\\)",
+        "C. \\(10,5.\\)",
+        "D. \\(13,5.\\)"
+      ],
+      "answer": "D",
+      "note": "Chọn D Diện tích cần tìm là \\(S = \\int\\limits_{ - 2}^1 {\\left| {\\left( { - {x^2} + 3} \\right) - \\left( {2{x^2} + 3x - 3} \\right)} \\right|dx} \\)\\( = \\int\\limits_{ - 2}^1 {\\left| { - 3{x^2} - 3x + 6} \\right|dx} \\)\\( = \\int\\limits_{ - 2}^1 {\\left( { - 3{x^2} - 3x + 6} \\right)dx} \\) \\( = \\left. {\\left( { - {x^3} - 3\\frac{{{x^2}}}{2} + 6x} \\right)} \\right|_{ - 2}^1 = 13,5\\)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Hàm số \\(F\\left( x \\right)\\) là một nguyên hàm của hàm số \\(y = \\frac{1}{x}\\) trên \\(\\left( { - \\infty ;0} \\right)\\) thỏa mãn \\(F\\left( { - 2} \\right) = 0\\) . Khẳng định nào sau đây đúng?",
+      "options": [
+        "A. \\(F\\left( x \\right) = \\ln \\left| x \\right| + \\ln 2,\\forall x \\in \\left( { - \\infty ;0} \\right)\\) .",
+        "B. \\(F\\left( x \\right) = \\ln \\left( {\\frac{{ - x}}{2}} \\right),\\forall x \\in \\left( { - \\infty ;0} \\right)\\) .",
+        "C. \\(F\\left( x \\right) = \\ln \\left| x \\right| + C,\\forall x \\in \\left( { - \\infty ;0} \\right)\\) với C là một số thực bất kì.",
+        "D. \\(F\\left( x \\right) = \\ln \\left( { - x} \\right) + C,\\forall x \\in \\left( { - \\infty ;0} \\right)\\) với C là một số thực bất kì."
+      ],
+      "answer": "B",
+      "note": "Chọn B \\(F\\left( x \\right) = \\int {\\frac{1}{x}dx} = \\ln \\left( { - x} \\right) + C,\\forall x \\in \\left( { - \\infty ;0} \\right)\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho hàm số \\(f(x)\\) có đạo hàm \\(f'(x)\\) liên tục trên \\(\\mathbb{R}\\) , \\(\\int\\limits_0^4 {f'\\left( x \\right)dx = 6} \\) và \\(f(0) = 2\\) . Giá trị của \\(f(4)\\) là:",
+      "options": [
+        "A. 4.",
+        "B. 8.",
+        "C. 7.",
+        "D. \\(2.\\)"
+      ],
+      "answer": "B",
+      "note": "Chọn B \\(\\int\\limits_0^4 {f'\\left( x \\right)dx = \\left. {f\\left( x \\right)} \\right|_0^4} = f\\left( 4 \\right) - f\\left( 0 \\right)\\)\\( \\Rightarrow f\\left( 4 \\right) = \\int\\limits_0^4 {f'\\left( x \\right)} + f\\left( 0 \\right) = 6 + 2 = 8\\)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hàm số \\(f(x)\\) liên tục trên \\(\\mathbb{R}\\) và \\(\\int\\limits_1^2 {f(x)dx = 4} \\) . Tính \\(\\int\\limits_1^2 {3f(x)dx} \\) .",
+      "options": [
+        "A. 4.",
+        "B. 8.",
+        "C. 12.",
+        "D. \\(6.\\)"
+      ],
+      "answer": "C",
+      "note": "Chọn C \\(\\int\\limits_1^2 {3f(x)dx} = 3\\int\\limits_1^2 {f(x)dx} = 3.4 = 12\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Một ô tô đang chạy với vận tốc 30 m/s thì người lái xe đạp phanh. Từ thời điểm đó ô tô chuyển động với vận tốc \\(v(t) = 30 - 3t\\) (m/s), trong đó t (tính bằng giây) là thời gian kể từ lúc bắt đầu đạp phanh. Quãng đường ô tô di chuyển từ lúc đạp phanh đến khi dừng hẳn bằng bao nhiêu mét?",
+      "options": [
+        "A. 170 (m).",
+        "B. 150 (m)",
+        "C. 100 (m).",
+        "D. 140 (m)."
+      ],
+      "answer": "B",
+      "note": "Chọn B Khi ô tô dừng hẳn thì \\(v(t) = 30 - 3t = 0 \\Leftrightarrow t = 10\\). Quãng đường ô tô di chuyển được là \\(s = \\int\\limits_0^{10} {\\left( {30 - 3t} \\right)dt} = \\left. {\\left( {30t - \\frac{{3{t^2}}}{2}} \\right)} \\right|_0^{10} = 150\\)m."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Diện tích hình phẳng giới hạn bởi đồ thị hàm số \\(y = cosx\\) , trục hoành và hai đường thẳng \\(x = \\frac{\\pi }{6};x = \\frac{\\pi }{4}\\) bằng:",
+      "options": [
+        "A. \\(\\frac{{\\sqrt 2 - 1}}{2}.\\)",
+        "B. \\(\\sqrt 2 - 1.\\)",
+        "C. \\(\\sqrt 2 + 1.\\)",
+        "D. \\(\\frac{{1 - \\sqrt 2 }}{2}.\\)"
+      ],
+      "answer": "A",
+      "note": "Chọn A Diện tích cần tìm là \\(S = \\int\\limits_{\\frac{\\pi }{6}}^{\\frac{\\pi }{4}} {\\left| {\\cos x} \\right|dx} \\)\\( = \\int\\limits_{\\frac{\\pi }{6}}^{\\frac{\\pi }{4}} {\\cos xdx} \\)\\( = \\left. {\\sin x} \\right|_{\\frac{\\pi }{6}}^{\\frac{\\pi }{4}} = \\frac{{\\sqrt 2 - 1}}{2}\\)."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Thể tích khối tròn xoay sinh ra khi quay quanh trục Ox hình phẳng giới hạn bởi đồ thị hàm số \\(y = x + 1\\) , trục hoành và hai đường thẳng \\(x = - 1;x = 2\\) bằng:",
+      "options": [
+        "A. \\(V = \\frac{{9\\pi }}{2}.\\)",
+        "B. \\(V = \\frac{{15\\pi }}{2}.\\)",
+        "C. \\(V = 21\\pi .\\)",
+        "D. \\(V = 9\\pi .\\)"
+      ],
+      "answer": "D",
+      "note": "Chọn D Thể tích cần tìm là \\(V = \\pi \\int\\limits_{ - 1}^2 {{{\\left( {x + 1} \\right)}^2}dx} = \\left. {\\pi \\frac{{{{\\left( {x + 1} \\right)}^3}}}{3}} \\right|_{ - 1}^2 = 9\\pi \\)."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Biết \\(\\int {f(x)dx = \\frac{{{3^x}}}{{\\ln 3}}} + C\\) ( C là hằng số). Khẳng định nào sau đây đúng?",
+      "options": [
+        "A. \\(f(x) = {3^x}.\\)",
+        "B. \\(f(x) = \\frac{{{3^x}}}{{\\ln 3}} + C.\\)",
+        "C. \\(f(x) = \\frac{{{3^x}}}{{\\ln 3}}.\\)",
+        "D. \\(f(x) = {3^x} + C.\\)"
+      ],
+      "answer": "A",
+      "note": "Chọn A Ta có \\(f\\left( x \\right) = {\\left( {\\frac{{{3^x}}}{{\\ln 3}} + C} \\right)^\\prime } = {3^x}\\)."
+    }
+  ]
+}

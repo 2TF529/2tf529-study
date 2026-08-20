@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-cac-dang-bai-tap-vi-tri-tuong-doi-giua-hai-duong-thang-goc-va-k",
+  "sourceId": "vietjack:2-cac-dang-bai-tap-vi-tri-tuong-doi-giua",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.Các dạng bài tập Vị trí tương đối giữa hai đường thằng. Góc và khoảng cách lớp 10 (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Trong mặt phẳng tọa độ Oxy, cho hai đường thẳng d 1 : x + y – 3 = 0 và d 2 : 2x + y – 3 = 0. Khẳng định nào sau đây đúng?",
+      "options": [
+        "A. d 1 // d 2 ;",
+        "B. d 1 trùng d 2 ;",
+        "C. d 1 , d 2 cắt nhau và không vuông góc;",
+        "D. d 1 ⊥ d 2 ."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Đường thẳng d 1 có vectơ pháp tuyến là \\({\\overrightarrow n _1}\\left( {1;1} \\right)\\). Đường thẳng d 2 có vectơ pháp tuyến là \\({\\overrightarrow n _2}\\left( {2;1} \\right)\\). Ta có 1.1 – 1.2 = –1 nên \\({\\overrightarrow n _1}\\) và \\({\\overrightarrow n _2}\\) không cùng phương và \\({\\overrightarrow n _1} \\cdot {\\overrightarrow n _2} = 1 \\cdot 2 + 1 \\cdot 1 = 3 \\ne 0\\) nên d 1 , d 2 cắt nhau và không vuông góc."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Trong mặt phẳng tọa độ Oxy, cho hai đường thẳng \\[{d_1}:\\left\\{ \\begin{array}{l}x = - 3 + 4t\\\\y = 2 - 6t\\end{array} \\right.\\] và \\({d_2}:\\left\\{ \\begin{array}{l}x = 2 - 2t'\\\\y = - 8 + 4t'\\end{array} \\right..\\) Khẳng định nào sau đây đúng?",
+      "options": [
+        "A. d 1 // d 2 ;",
+        "B. d 1 trùng d 2 ;",
+        "C. d 1 , d 2 cắt nhau và không vuông góc;",
+        "D. d 1 ⊥ d 2 ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Đường thẳng d 1 có vectơ chỉ phương là \\({\\overrightarrow u _1}\\left( {4; - 6} \\right)\\). Đường thẳng d 2 có vectơ chỉ phương là \\({\\overrightarrow u _2}\\left( { - 2;4} \\right)\\). Ta có 4.4 – (–6).(–2) = 4 nên \\({\\overrightarrow u _1}\\) và \\({\\overrightarrow u _2}\\) không cùng phương. Lấy A(–3; 2) ∈ d 1 , thay x = –3 và y = 2 vào \\({d_2}:\\left\\{ \\begin{array}{l}x = 2 - 2t'\\\\y = - 8 + 4t'\\end{array} \\right.\\) ta được: \\(\\left\\{ \\begin{array}{l} - 3 = 2 - 2t'\\\\2 = - 8 + 4t'\\end{array} \\right. \\Leftrightarrow \\left\\{ \\begin{array}{l}t' = \\frac{5}{2}\\\\t' = \\frac{5}{2}\\end{array} \\right. \\Leftrightarrow t' = \\frac{5}{2}\\) Do đó A ∈ d 2 nên hai đường thẳng d 1 và d 2 trùng nhau."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trong mặt phẳng tọa độ Oxy, đường thẳng d: x – 2y – 1 = 0 song song với đường thẳng có phương trình nào sau đây?",
+      "options": [
+        "A. x + 2y + 1 = 0;",
+        "B. 2x – y = 0;",
+        "C. – x + 2y + 1 = 0;",
+        "D. – 2x + 4y – 1 = 0."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Ta kiểm tra lần lượt các đường thẳng: + Với d 1 : x + 2y + 1 = 0, ta xét tỉ số \\(\\frac{1}{1} \\ne \\frac{{ - 2}}{2}\\) nên d cắt d 1 . + Với d 2 : 2x – y = 0, ta xét tỉ số \\(\\frac{1}{2} \\ne \\frac{{ - 2}}{{ - 1}}\\) nên d cắt d 2 . + Với d 3 : – x + 2y + 1 = 0, ta xét tỉ số \\(\\frac{1}{{ - 1}} = \\frac{{ - 2}}{2} = \\frac{{ - 1}}{2}\\) nên d trùng d 3 . + Với d 4 :– 2x + 4y – 1 = 0, ta xét tỉ số \\(\\frac{1}{{ - 2}} = \\frac{{ - 2}}{4} \\ne \\frac{{ - 1}}{{ - 1}}\\) nên d song song d 4 . Vậy ta chọn phương án D."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Trong mặt phẳng tọa độ Oxy, tọa độ giao điểm của hai đường thẳng d 1 : 7x – 3y + 16 = 0 và d 2 : x + 10 = 0 là",
+      "options": [
+        "A. A(–10; –18);",
+        "B. B(10; 18);",
+        "C. C(–10; 18);",
+        "D. D(10; –18)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Để tìm giao điểm của hai đường thẳng d 1 và d 2 ta giải hệ phương trình: \\[\\left\\{ \\begin{array}{l}7x - 3y + 16 = 0\\\\x + 10 = 0\\end{array} \\right. \\Leftrightarrow \\left\\{ \\begin{array}{l}x = - 10\\\\y = - 18\\end{array} \\right.\\]. Vậy tọa độ giao điểm của hai đường thẳng là A(–10; –18)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Trong mặt phẳng tọa độ Oxy, tọa độ giao điểm của hai đường thẳng d 1 : \\(\\left\\{ \\begin{array}{l}x = - 3 + 4t\\\\y = 2 + 5t\\end{array} \\right.\\)và d 2 : \\(\\left\\{ \\begin{array}{l}x = 1 + 4t'\\\\y = 7 - 5t'\\end{array} \\right.\\) là",
+      "options": [
+        "A. (1; 7);",
+        "B. (–3; 2);",
+        "C. (2; –3);",
+        "D. (5; 1);"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Tọa độ giao điểm của hai đường thẳng d 1 và d 2 là nghiệm của hệ phương trình: \\(\\left\\{ \\begin{array}{l} - 3 + 4t = 1 + 4t'\\\\2 + 5t = 7 - 5t'\\end{array} \\right. \\Leftrightarrow \\left\\{ \\begin{array}{l}t - t' = 1\\\\t + t' = 1\\end{array} \\right. \\Leftrightarrow \\left\\{ \\begin{array}{l}t = 1\\\\t' = 0\\end{array} \\right.\\). Thay giá trị t = 1 vào phương trình đường thẳng d 1 ta tìm được \\(\\left\\{ \\begin{array}{l}x = 1\\\\y = 7\\end{array} \\right.\\). Vậy tọa độ giao điểm của hai đường thẳng d 1 và d 2 là: (1; 7)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong mặt phẳng tọa độ Oxy, với giá trị nào của m thì hai đường thẳng d 1 : (m – 3)x + 2y + m 2 – 1 = 0 và d 2 : –x + my + m 2 – 2m + 1 = 0 cắt nhau?",
+      "options": [
+        "A. m ≠ 1;",
+        "B. m ≠ 1 và m ≠ 2;",
+        "C. m ≠ 2;",
+        "D. m ≠ 1 hoặc m ≠ 2."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Để d 1 và d 2 cắt nhau ta tìm nghiệm của hệ phương trình \\(\\left\\{ \\begin{array}{l}\\left( {m - 3} \\right)x + 2y + {m^2} - 1 = 0\\\\ - x + my + {m^2} - 2m + 1 = 0\\end{array} \\right.\\). Trường hợp 1. Với m = 0 thì ta có hệ phương trình \\(\\left\\{ \\begin{array}{l} - 3x + 2y - 1 = 0\\\\ - x + 1 = 0\\end{array} \\right.\\) có nghiệm duy nhất, thỏa mãn d 1 và d 2 cắt nhau. Trường hợp 2. Với m ≠ 0, để d 1 và d 2 cắt nhau thì \\[\\frac{{m - 3}}{{ - 1}} \\ne \\frac{2}{m} \\Leftrightarrow {m^2} - 3m \\ne - 2\\] \\[ \\Leftrightarrow {m^2} - 3m + 2 \\ne 0 \\Leftrightarrow \\left\\{ \\begin{array}{l}m \\ne 1\\\\m \\ne 2\\end{array} \\right.\\]. Vậy m ≠ 1, m ≠ 2 thỏa mãn yêu cầu bài toán."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-4-12-bai-tap-tinh-ti-so-luong-giac-trong-tam-giac-vuong-co-loi-gi",
+  "sourceId": "vietjack:4-12-bai-tap-tinh-ti-so-luong-giac-trong",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "4.12 bài tập Tính tỉ số lượng giác trong tam giác vuông có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho tam giác ABC vuông tại A có AB = 2 cm, AC = 3 cm. Giá trị tan C là",
+      "options": [
+        "A. \\(\\frac{2}{3}\\).",
+        "B. \\(\\frac{3}{2}\\).",
+        "C. \\(\\frac{2}{{\\sqrt {13} }}\\)",
+        "D. \\(\\frac{3}{{\\sqrt {13} }}\\)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có: tan C = \\(\\frac{{AB}}{{AC}} = \\frac{2}{3}\\)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho tam giác ABC vuông tại A có AB = 5 cm và BC = \\(5\\sqrt 2 \\) cm. Số đo của góc B là:",
+      "options": [
+        "A. 45°.",
+        "B. 30°.",
+        "C. 60°.",
+        "D. 75°."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có: cos B = \\(\\frac{{AB}}{{BC}} = \\frac{5}{{5\\sqrt 2 }} = \\frac{1}{{\\sqrt 2 }}\\). Nhận thấy cos B = cos45°. Suy ra \\(\\widehat B = 45^\\circ \\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho tam giác MNP có MN = 5 cm, MP = 12 cm, NP = 13 cm. Khẳng định nào dưới đây là sai?",
+      "options": [
+        "A. Tam giác MNP vuông tại M.",
+        "B. sin N = \\(\\frac{{12}}{{13}}\\).",
+        "C. cos N = \\(\\frac{5}{{13}}\\).",
+        "D. tan N = \\(\\frac{5}{{12}}\\)."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Áp dụng định lí pythagore đảo, ta có: MN 2 + MP 2 = 5 2 + 12 2 = 169 = 13 2 = NP 2 . Suy ra tam giác MNP vuông tại M. Ta có: sin N = \\(\\frac{{12}}{{13}}\\); cos N = \\(\\frac{5}{{13}}\\), tan N = \\(\\frac{{12}}{5}\\)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho tam giác ABC vuông tại A có AB = 8 cm và BC = 17 cm. Mệnh đề nào dưới đây là sai?",
+      "options": [
+        "A. sin B = \\(\\frac{{15}}{{17}}\\).",
+        "B. cos B = \\(\\frac{8}{{17}}\\).",
+        "C. tan B = \\(\\frac{{17}}{8}\\).",
+        "D. cot C = \\(\\frac{8}{{15}}\\)."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Xét tam giác ABC vuông tại A, áp dụng định lí Pythagore, ta có: AB 2 + AC 2 = BC 2 AC 2 = BC 2 – AB 2 = 17 2 – 8 2 = 225. AC = 15 (cm). Ta có: sin B = \\(\\frac{{AC}}{{BC}} = \\frac{{15}}{{17}}\\); cos B = \\(\\frac{{AB}}{{BC}} = \\frac{{15}}{{17}}\\); tan B = \\(\\frac{{AC}}{{AB}} = \\frac{{15}}{8}\\); cot B = \\(\\frac{{AB}}{{AC}} = \\frac{8}{{15}}\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho tam giác ABC vuông tại A có AC = 0,9 cm và AB = 1,2 cm. Khẳng định nào dưới đây là đúng?",
+      "options": [
+        "A. sin C = \\(\\frac{3}{5}\\).",
+        "B. cos C = \\(\\frac{4}{5}\\).",
+        "C. tan C = \\(\\frac{4}{3}\\).",
+        "D. cot C = \\(\\frac{5}{4}\\)."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Xét tam giác ABC vuông tại A, áp dụng định lí Pythagore, ta có: AB 2 + AC 2 = BC 2 BC 2 = 1,2 2 + 0,9 2 = 2,25. BC = 1,5 (cm). Ta có: sin C = \\(\\frac{{AB}}{{BC}} = \\frac{{1,2}}{{1,5}} = \\frac{4}{5}\\); cos C = \\(\\frac{{AC}}{{BC}} = \\frac{{0,9}}{{1,5}} = \\frac{3}{5}\\); tan C = \\(\\frac{{AB}}{{AC}} = \\frac{{1,2}}{{0,9}} = \\frac{4}{3}\\); cot C = \\(\\frac{{AC}}{{AB}} = \\frac{{0,9}}{{1,2}} = \\frac{3}{4}\\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho tam giác ABC vuông tại A có AB = 6 cm, AC = 8 cm. Chọn khẳng định sai trong các khẳng định dưới đây?",
+      "options": [
+        "A. sin B = cos C = 0,8.",
+        "B. cos B = sin C = 0,6.",
+        "C. tan B = cot C = \\(\\frac{4}{3}\\).",
+        "D. cot B = tan C = \\(\\frac{5}{3}\\)."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Áp dụng định lí Pythagore vào tam giác ABC, ta có: AB 2 + AC 2 = BC 2 , suy ra BC 2 = 6 2 + 8 2 = 100, do đó BC = 10 cm. Ta có: sin B = cos C = \\(\\frac{{AC}}{{BC}} = \\frac{8}{{10}} = 0,8\\); cos B = sin C = \\(\\frac{{AB}}{{BC}} = \\frac{6}{{10}} = 0,6\\); tan B = cot C = \\(\\frac{{AB}}{{AC}} = \\frac{6}{8} = \\frac{3}{4}\\); cot B = tan C = \\(\\frac{{AC}}{{AB}} = \\frac{8}{6} = \\frac{4}{3}\\)."
+    }
+  ]
+}

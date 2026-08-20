@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-12-ket-noi-tri-thuc-bai-16-co-dap-an",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-12-ket-noi-",
+  "grade": "l12",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 12 Kết nối tri thức Bài 16 có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Câu 1: Phần tử khối trong HTML thường có đặc điểm gì?",
+      "options": [
+        "A. Luôn nằm trong một phần tử khác",
+        "B. Không có chiều rộng cố định",
+        "C. Bắt đầu từ đầu hàng và kéo dài suốt chiều rộng của trang web",
+        "D. Luôn là phần tử inline"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Phần tử khối (block level) thường bắt đầu từ đầu hàng và kéo dài suốt chiều rộng của trang web."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Thuộc tính display: none; trong CSS có tác dụng gì?",
+      "options": [
+        "A. Chuyển phần tử thành phần tử inline",
+        "B. Chuyển phần tử thành phần tử block",
+        "C. Ẩn phần tử mà không hiển thị trên trang web",
+        "D. Chuyển phần tử thành phần tử nội tuyến"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Thuộc tính display: none; sẽ làm ẩn phần tử này trên trang web, không hiển thị cho người dùng."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Các thuộc tính khung trong CSS không áp dụng được cho loại phần tử nào?",
+      "options": [
+        "A. Phần tử khối",
+        "B. Phần tử nội tuyến",
+        "C. Phần tử block",
+        "D. Phần tử với ID cụ thể"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Các thuộc tính khung chỉ có thể thiết lập cho phần tử nội tuyến mà không có các thông số chiều cao và chiều rộng."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Để định dạng một nhóm phần tử có cùng ý nghĩa, ta nên sử dụng bộ chọn nào?",
+      "options": [
+        "A. ID",
+        "B. Class",
+        "C. Inline",
+        "D. Block"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Sử dụng bộ chọn class để định dạng chung cho các phần tử có cùng ý nghĩa."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Mỗi phần tử HTML có thể có bao nhiêu ID?",
+      "options": [
+        "A. Nhiều ID",
+        "B. Một ID",
+        "C. Không có ID",
+        "D. Tùy thuộc vào phần tử"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Mỗi phần tử HTML chỉ có thể có một ID duy nhất trong một trang web."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Khi đặt tên cho ID và class, điều nào không đúng?",
+      "options": [
+        "A. Tên phải phân biệt chữ hoa và chữ thường",
+        "B. Tên bắt đầu bằng số",
+        "C. Không chứa dấu cách và các ký tự đặc biệt",
+        "D. Phải có ít nhất một ký tự không phải là số"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Tên ID và class không được bắt đầu bằng số."
+    }
+  ]
+}

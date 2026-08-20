@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-6-de-kiem-tra-phep-tinh-luy-thua-co-loi-giai",
+  "sourceId": "vietjack:6-de-kiem-tra-phep-tinh-luy-thua-co-loi-",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "6.Đề kiểm tra Phép tính lũy thừa (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Với \\(a\\) là số thực dương tùy ý, \\(\\sqrt {{a^3}} \\) bằng",
+      "options": [
+        "A. \\({a^6}\\).",
+        "B. \\({a^{\\frac{3}{2}}}\\).",
+        "C. \\({a^{\\frac{2}{3}}}\\).",
+        "D. \\({a^{\\frac{1}{6}}}\\)."
+      ],
+      "answer": "B",
+      "note": "Với \\(a > 0\\) ta có \\(\\sqrt {{a^3}} = {a^{\\frac{3}{2}}}.\\)"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho \\(a > 0,m,n \\in \\mathbb{R}\\). Khẳng định nào sau đây đúng?",
+      "options": [
+        "A. \\({a^m} + {a^n} = {a^{m + n}}.\\).",
+        "B. \\({a^m}.{a^n} = {a^{m - n}}.\\).",
+        "C. \\({({a^m})^n} = {({a^n})^m}.\\).",
+        "D. \\(\\frac{{{a^m}}}{{{a^n}}} = {a^{n - m}}.\\)."
+      ],
+      "answer": "A",
+      "note": "Tính chất lũy thừa."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Rút gọn biểu thức \\(Q = {b^{\\frac{5}{3}}}:\\sqrt[3]{b}\\) với \\(b > 0\\).",
+      "options": [
+        "A. \\(Q = {b^{ - \\frac{4}{3}}}\\).",
+        "B. \\(Q = {b^{\\frac{4}{3}}}\\).",
+        "C. \\(Q = {b^{\\frac{5}{9}}}\\).",
+        "D. \\(Q = {b^2}\\)."
+      ],
+      "answer": "B",
+      "note": "\\(Q = {b^{\\frac{5}{3}}}:\\sqrt[3]{b} = {b^{\\frac{5}{3}}}:{b^{\\frac{1}{3}}} = {b^{\\frac{4}{3}}}\\)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho a là số thực dương. Viết và rút gọn biểu thức \\[{a^{\\frac{3}{{2024}}}}.\\sqrt[{2024}]{a}\\] dưới dạng lũy thừa với số mũ hữu tỉ. Tìm số mũ của biểu thức rút gọn đó.",
+      "options": [
+        "A. \\(\\frac{2}{{1005}}\\).",
+        "B. \\(\\frac{1}{{506}}\\).",
+        "C. \\(\\frac{3}{{2012}}\\).",
+        "D. \\(\\frac{3}{{{{2024}^2}}}\\)"
+      ],
+      "answer": "B",
+      "note": "\\({a^{\\frac{4}{{2024}}}} = {a^{\\frac{1}{{506}}}}\\). Vậy số mũ của biểu thức rút gọn bằng \\(\\frac{1}{{506}}\\) ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho \\(a\\) là số thực dương khác \\(1\\). Khi đó \\(\\sqrt[4]{{{a^{\\frac{2}{3}}}}}\\) bằng:",
+      "options": [
+        "A. \\(\\sqrt[3]{{{a^2}}}\\).",
+        "B. \\({a^{\\frac{8}{3}}}\\).",
+        "C. \\({a^{\\frac{3}{8}}}\\).",
+        "D. \\(\\sqrt[6]{a}\\)."
+      ],
+      "answer": "D",
+      "note": "Ta có: \\(\\sqrt[4]{{{a^{\\frac{2}{3}}}}} = {\\left( {{a^{\\frac{2}{3}}}} \\right)^{\\frac{1}{4}}} = {a^{\\frac{2}{3}.\\frac{1}{4}}} = {a^{\\frac{1}{6}}} = \\sqrt[6]{a}\\)"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: So sánh ba số: \\({\\left( {0,2} \\right)^{0,3}}\\), \\({\\left( {0,7} \\right)^{3,2}}\\) và \\({\\sqrt 3 ^{0,2}}\\) ta được:",
+      "options": [
+        "A. \\[{\\left( {0,7} \\right)^{3,2}} < {\\left( {0,2} \\right)^{0,3}} < {\\sqrt 3 ^{0,2}}\\].",
+        "B. \\[{\\left( {0,2} \\right)^{0,3}} < {\\left( {0,7} \\right)^{3,2}} < {\\sqrt 3 ^{0,2}}\\].",
+        "C. \\[{\\sqrt 3 ^{0,2}} < {\\left( {0,2} \\right)^{0,3}} < {\\left( {0,7} \\right)^{3,2}}\\].",
+        "D. \\[{\\left( {0,2} \\right)^{0,3}} < {\\sqrt 3 ^{0,2}} < {\\left( {0,7} \\right)^{3,2}}\\]."
+      ],
+      "answer": "B",
+      "note": "\\({\\left( {0,2} \\right)^{0,3}} = {\\left( {0,2} \\right)^{\\frac{3}{{10}}}} = {\\left[ {{{\\left( {0,2} \\right)}^3}} \\right]^{\\frac{1}{{10}}}} = {\\left( {0,008} \\right)^{\\frac{1}{{10}}}}\\). \\({\\left( {0,7} \\right)^{3,2}} = {\\left( {0,7} \\right)^{\\frac{{32}}{{10}}}} = {\\left[ {{{\\left( {0,7} \\right)}^{32}}} \\right]^{\\frac{1}{{10}}}}\\). \\({\\sqrt 3 ^{0,2}} = {\\left( 3 \\right)^{\\frac{1}{2}.\\frac{2}{{10}}}} = {3^{\\frac{1}{{10}}}}\\). Do \\({\\left( {0,7} \\right)^{32}} < 0,008 < 3\\) nên \\[{\\left( {0,7} \\right)^{3,2}} < {\\left( {0,2} \\right)^{0,3}} < {\\sqrt 3 ^{0,2}}\\]."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Nếu \\({\\left( {a - 2} \\right)^{\\frac{1}{4}}} < {\\left( {a - 2} \\right)^{\\frac{1}{3}}}\\) thì khẳng định nào sau đây là đúng?",
+      "options": [
+        "A. \\(2 < a < 3\\).",
+        "B. \\(a > 2\\).",
+        "C. \\(a < 3\\).",
+        "D. \\(a > 3\\)."
+      ],
+      "answer": "D",
+      "note": "Ta có: \\(\\frac{1}{4} < \\frac{1}{3}\\) và \\({\\left( {a - 2} \\right)^{\\frac{1}{4}}} < {\\left( {a - 2} \\right)^{\\frac{1}{3}}}\\) nên \\(a - 2 > 1 \\Leftrightarrow a > 3\\)."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho \\[x,y > 0\\] và \\[\\alpha ,\\beta \\in \\mathbb{R}\\]. Tìm đẳng thức sai dưới đây?",
+      "options": [
+        "A. \\[{\\left( {xy} \\right)^\\alpha } = {x^\\alpha }.{y^\\alpha }\\].",
+        "B. \\[{x^\\alpha } + {y^\\alpha } = {\\left( {x + y} \\right)^\\alpha }\\].",
+        "C. \\[{\\left( {{x^\\alpha }} \\right)^\\beta } = {x^{\\alpha \\beta }}\\].",
+        "D. \\[{x^\\alpha }.{x^\\beta } = {x^{\\alpha + \\beta }}\\]."
+      ],
+      "answer": "B",
+      "note": "Theo tính chất của lũy thừa thì đẳng thức \\[{x^\\alpha } + {y^\\alpha } = {\\left( {x + y} \\right)^\\alpha }\\] Sai."
+    }
+  ]
+}

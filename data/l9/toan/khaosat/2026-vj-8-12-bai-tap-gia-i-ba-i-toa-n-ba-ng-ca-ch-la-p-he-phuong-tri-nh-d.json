@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-8-12-bai-tap-gia-i-ba-i-toa-n-ba-ng-ca-ch-la-p-he-phuong-tri-nh-d",
+  "sourceId": "vietjack:8-12-bai-tap-gia-i-ba-i-toa-n-ba-ng-ca-c",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "8.12 bài tập Giải bài toán bằng cách lập hệ phương trình dạng toán liên quan đến kiến thức hình học có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Một hình thang có diện tích là 140 cm 2 , chiều cao 8 cm. Tính độ dài các đáy của hình thang, biết chúng hơn kém nhau 5 cm.",
+      "options": [
+        "A. Đáy lớn là 15 cm, đáy nhỏ là 20 cm.",
+        "B. Đáy lớn là 20 cm, đáy nhỏ là 15 cm.",
+        "C. Đáy lớn là 25 cm, đáy nhỏ là 10 cm.",
+        "D. Đáy lớn là 21 cm, đáy nhỏ là 14 cm."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Gọi độ dài đáy lớn và đáy nhỏ của hình thang lần lượt là x, y (x > 5, x > y > 0, cm). Diện tích hình thang là 140 cm 2 nên ta có \\(\\frac{{\\left( {x + y} \\right).8}}{2} = 140\\) hay x + y = 35 (1) Đáy lớn hơn đáy bé 5 cm nên ta có phương trình x – y = 5 (2). Từ (1) và (2) ta có hệ phương trình \\(\\left\\{ \\begin{array}{l}x + y = 35\\\\x - y = 5\\end{array} \\right.\\). Thế x = 5 + y vào phương trình (1) ta được 5 + 2y = 35 hay y = 15 (thỏa mãn). Thay y = 15 vào phương trình x – y = 5 suy ra x = 20 (thỏa mãn). Vậy đáy lớn của hình thang là 20 cm, đáy nhỏ là 15 cm."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Một mảnh vườn hình chữ nhật có chu vi 34 m. Nếu tăng chiều dài 3 m và chiều rộng 2 m thì diện tích tăng thêm 45 m 2 . Chiều dài của mảnh vườn là",
+      "options": [
+        "A. 12 m.",
+        "B. 5 m.",
+        "C. 17 m.",
+        "D. 7 m."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Gọi chiều dài và chiều rộng của mảnh vườn lần lượt là x, y (0 < y < x, m). Theo đề chu vi của mảnh vườn là 34 m nên ta có phương trình: 2(x + y) = 34 suy ra x + y = 17 (1) Diện tích mảnh vườn là xy (m 2 ). Nếu tăng chiều dài 3 m và chiều rộng 2 m thì diện tích tăng thêm 45 m 2 nên ta có phương trình (x + 3)(y + 2) = xy + 45 hay 2x + 3y = 39 (2) Từ (1) và (2) ta có hệ phương trình \\(\\left\\{ \\begin{array}{l}x + y = 17\\\\2x + 3y = 39\\end{array} \\right.\\) Từ phương trình (1) ta có x = 17 – y. Thế x = 17 – y vào phương trình (2) ta có 2(17 – y) + 3y = 39 hay y = 5 (thỏa mãn). Thay y = 5 vào phương trình (1) ta có x = 12 (thỏa mãn). Vậy chiều dài của mảnh vườn là 12 m."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Một thửa đất hình chữ nhật có chu vi bằng 198 m, diện tích bằng 2430 m 2 . Chiều rộng của thửa đất đó là",
+      "options": [
+        "A. 54 m.",
+        "B. 45 m",
+        "C. 55 m.",
+        "D. 44 m."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Gọi chiều dài, chiều rộng của mảnh vườn lần lượt là x, y (x > y > 0, m). Chu vi mảnh vườn bằng 198 m nên 2(x + y) = 198 hay x + y = 99 (1). Diện tích mảnh vườn bằng 2430 m 2 nên ta có xy = 2430 (2). Từ (1) và (2) ta có hệ phương trình \\(\\left\\{ \\begin{array}{l}x + y = 99\\\\xy = 2430\\end{array} \\right.\\). Từ phương trình (1) ta có x = 99 – y. Thay x = 99 – y vào phương trình (2), ta được: (99 – y).y = 2430 hay y 2 – 99y + 2430 = 0 hay y 2 – 54y – 45y + 2430 = 0. Suy ra (y – 54)(y – 45) = 0 Do đó y = 54 (thỏa mãn) hoặc y = 45 (thỏa mãn). Với y = 54 thay vào phương trình (1) được x = 45 (loại do x > y). Với y = 45 thay vào phương trình (1) được y = 54 (thỏa mãn). Vậy chiều rộng của thửa ruộng là 45 m."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Một mảnh đất hình chữ nhật có độ dài đường chéo là 13 m và chiều dài lớn hơn chiều rộng là 7 m. Chu vi của mảnh đất đó là",
+      "options": [
+        "A. 12 m.",
+        "B. 5 m.",
+        "C. 17 m.",
+        "D. 34 m."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Gọi chiều dài, chiều rộng của mảnh đất lần lượt là x, y (x > 7, x > y > 0, đơn vị: m). Mảnh đất có đường chéo là 13 m nên ta có phương trình: x 2 + y 2 = 13 2 (Định lý Pythagore) (1). Chiều dài lớn hơn chiều rộng là 7 m nên ta có phương trình: x – y = 7 (2) Từ (1) và (2) ta có hệ phương trình \\(\\left\\{ \\begin{array}{l}{x^2} + {y^2} = {13^2}\\\\x - y = 7\\end{array} \\right.\\). Thay x = 7 + y vào phương trình (1) ta được: (7 + y) 2 + y 2 = 13 2 hay 2y 2 + 14y – 120 = 0 hay 2y 2 – 10y + 24y – 120 = 0 Suy ra (y – 5)(2y + 24) = 0 nên y = 5 (thỏa mãn) hoặc y = −12 (loại). Thay y = 5 vào phương trình (2) được x = 12 (thỏa mãn). Do đó, chiều dài mảnh đất là 12 m và chiều rộng mảnh đất là 5 m. Chu vi mảnh đất hình chữ nhật đó là: 2(5 + 12) = 34 (m)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Một hình chữ nhật có chu vi là 70 m, nếu giảm chiều rộng đi 3 m và tăng chiều dài 5 m thì diện tích như cũ. Chiều dài và chiều rộng của hình chữ nhật đó lần lượt là",
+      "options": [
+        "A. 20 m và 15 m.",
+        "B. 15 m và 20 m.",
+        "C. 22 m và 13 m.",
+        "D. 25 m và 10 m."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Gọi chiều dài, chiều rộng của hình chữ nhật đó lần lượt là x, y (x > y > 0, m). Chu vi hình chữ nhật là 70 m nên 2(x + y) = 70 hay x + y = 35 (1). Diện tích của hình chữ nhật là xy (m 2 ). Nếu giảm chiều rộng đi 3 m và tăng chiều dài 5 m thì diện tích như cũ nên ta có phương trình (x + 5)(y – 3) = xy hay 5y – 3x = 15 (2) Từ (1) và (2) ta có hệ phương trình \\(\\left\\{ \\begin{array}{l}x + y = 35\\\\5y - 3x = 15\\end{array} \\right.\\). Từ (1) ta có y = 35 – x. Thế y = 35 – x vào phương trình (2) ta được: 5(35 – x) – 3x = 15 hay 8x = 160 nên x = 20 (thỏa mãn) Thay x = 20 vào (1) được y = 15 (thỏa mãn). Vậy chiều dài và chiều rộng của hình chữ nhật lần lượt là 20 m và 15 m."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Nhà bạn Nam được ông bà để lại cho một mảnh đất hình chữ nhật. Khi bạn Hiền đến nhà Nam chơi, Nam đố Hiền tìm ra kích thước của mảnh đất khi cho biết: mảnh đất đó có chiều dài gấp bốn lần chiều rộng và nếu giảm chiều rộng đi 2 m, tăng chiều dài lên gấp đôi thì diện tích mảnh đất đó sẽ tăng thêm 20 m 2 . Hãy giúp Hiền tính chiều rộng của mảnh đất đó.",
+      "options": [
+        "A. 5 m.",
+        "B. 20 m.",
+        "C. 15 m.",
+        "D. 25 m."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Gọi chiều dài và chiều rộng của mảnh đất lần lượt là x, y (x > y > 2, m). Theo đề chiều dài gấp bốn lần chiều rộng nên ta có x = 4y (1). Diện tích mảnh đất đó là xy (m 2 ). Nếu giảm chiều rộng 2m vào tăng chiều dài lên gấp đôi thì diện tích tăng thêm 20 m 2 nên ta có phương trình 2x(y – 2) = xy + 20 hay xy – 4x = 20 (2) Từ (1) và (2) ta có hệ phương trình \\(\\left\\{ \\begin{array}{l}x = 4y\\\\xy - 4x = 20\\end{array} \\right.\\). Thế x = 4y vào phương trình (2) được 4y 2 – 8x – 20 = 0 hay y 2 – 4y – 5 = 0. Suy ra (y – 5)(y + 1) = 0 nên y = 5 (thỏa mãn) hoặc y = −1. Với y = 5 thì x = 20 (thỏa mãn). Vậy chiều rộng của mảnh đất đó là 5 m."
+    }
+  ]
+}

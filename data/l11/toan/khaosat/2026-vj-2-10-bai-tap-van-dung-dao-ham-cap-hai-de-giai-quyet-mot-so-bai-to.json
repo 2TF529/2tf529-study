@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-10-bai-tap-van-dung-dao-ham-cap-hai-de-giai-quyet-mot-so-bai-to",
+  "sourceId": "vietjack:2-10-bai-tap-van-dung-dao-ham-cap-hai-de",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.10 Bài tập Vận dụng đạo hàm cấp hai để giải quyết một số bài toán thực tiễn (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Một vật chuyển động thẳng có phương trình s(t) = 5 4 t 2 − 1 2 t 4 + 9 t 3 , trong đó s tính bằng mét, t là thời gian tính bằng giây. Gia tốc tức thời của vật tại thời điểm t = 6 (s) là:",
+      "options": [
+        "A. 101 m/s 2 ;",
+        "B. 105 m/s 2 ;",
+        "C. 92,5 m/s 2 ;",
+        "D. 110,5 m/s 2"
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải: Đáp án đúng là: D Ta có s ' ( t ) = 5 2 t − 2 t 3 + 27 t 2 ; a ( t ) = = 5 2 − 6 t 2 + 54 t . Gia tốc tức thời tại thời điểm t = 6 là a(6) = 5 2 − 6.6 2 + 54.6 = 110 , 5 m/s 2 ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Phương trình chuyển động của một viên bi được cho bởi s(t) = 2t 2 + sin π 6 t , trong đó s tính bằng centimét, t là thời gian tính bằng giây. Gia tốc của viên bi (làm tròn đến hàng phần trăm) tại thời điểm t = 2 (s) là:",
+      "options": [
+        "A. 4,01 cm/s 2 ;",
+        "B. 3,76 cm/s 2 ;",
+        "C. 4 cm/s 2 ;",
+        "D. 3,9 cm/s 2 ."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải: Đáp án đúng là: B Ta có = 4t + π 6 cos π 6 t ; a(t) = = 4 − π 6 2 sin π 6 t . Gia tốc của viên bi tại thời điểm t = 2 (s) là a(2) = 4 − π 6 2 sin π 6 ⋅ 2 ≈ 3 , 76 cm/s 2 ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Chuyển động của một vật có phương trình s(t) = 1 1 − 2 t trong đó s tính bằng centimét, t là thời gian tính bằng giây. Tại thời điểm vận tốc bằng 2 cm/s thì gia tốc vật bằng:",
+      "options": [
+        "A. 1 cm/s 2 ;",
+        "B. 80 cm/s 2 ;",
+        "C. –8 cm/s 2 ;",
+        "D. –1 cm/s 2 ."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải: Đáp án đúng là: C Ta có = 2 (1 − 2t) 2 ; a(t) = = − 2 1 − 2 t 2 ' ( 1 − 2 t ) 4 = 8 ( 1 − 2 t) ( 1 − 2 t ) 4 = 8 ( 1 − 2 t ) 3 . Tại thời điểm vận tốc bằng 2 cm/s hay v(t) = 2, tức là 2 (1 − 2t) 2 = 2 . Suy ra (1 – 2t) 2 = 1. Suy ra t = 0 hoặc t = 1. Khi đó, a(0) = 8 ( 1 − 2.0 ) 3 = 8 ; a(1) = 8 ( 1 − 2.1 ) 3 = − 8 cm/s 2 ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Một chất điểm chuyển động theo phương trình s(t) = 3t 4 + 7t 3 – 5t 2 , trong đó s tính bằng centimét, t là thời gian tính bằng giây. Tại thời điểm t 0 vật có gia tốc bằng 68 cm/s 2 . Khi đó giá trị của t 0 là:",
+      "options": [
+        "A. 0;",
+        "B. − 13 6 ;",
+        "C. 1;",
+        "D. 2."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải: Đáp án đúng là: C Ta có s ' (t) = 12t 3 + 21t 2 – 10t; a(t) = s '' (t) = 36t 2 + 42t – 10. Tại thời điểm t 0 vật có gia tốc bằng 68 cm/s 2 nên a(t 0 ) = 36 t 0 2 + 42t 0 – 10 = 68. Suy ra 36 t 0 2 + 42t 0 – 78 = 0. Suy ra t 0 = 1 hoặc t 0 = − 13 6 . Vì t ≥ 0 nên t 0 = 1 (s)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Một ca nô chạy với phương trình chuyển động là s(t) = 1 3 t 3 − 2 t 2 + 4 t , trong đó s tính bằng mét, t là thời gian tính bằng giây. Gia tốc của ca nô tại thời điểm vận tốc bị triệt tiêu là:",
+      "options": [
+        "A. 0 m/s 2 ;",
+        "B. 1 m/s 2 ;",
+        "C. 2 m/s 2 ;",
+        "D. 3 m/s 2 ."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A Ta có v(t) = s ' (t) = t 2 – 4t + 4; a(t) = s '' (t) = 2t – 4. Tại thời điểm vận tốc bị triệt tiêu nghĩa là v(t) = 0, khi đó t 2 – 4t + 4 = 0. Suy ra t = 2 (s). Vậy gia tốc lúc này là a(2) = 2 . 2 – 4 = 0 m/s 2 ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho một vật chuyển động thẳng xác định bởi phương trình s(t) = 4t 3 – 9t 2 + 12t, trong đó s tính bằng centimét, t là thời gian tính bằng giây. Vận tốc tại thời điểm gia tốc bị triệt tiêu là:",
+      "options": [
+        "A. 1 4 cm/s;",
+        "B. 12 4 cm/s;",
+        "C. 3 4 cm/s;",
+        "D. 21 4 cm/s."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải: Đáp án đúng là: D Ta có v(t) = s ' (t) = 12t 2 – 18t + 12; a(t) = s '' (t) = 24t – 18. Tại thời điểm gia tốc bị triệt tiêu nghĩa là a(t) = 0, tức là 24t – 18 = 0. Suy ra t = 3 4 (s). Vận tốc tại thời điểm gia tốc triệt tiêu là: v 3 4 = 12 ⋅ 3 4 2 − 18 ⋅ 3 4 + 12 = 21 4 (cm/s)."
+    }
+  ]
+}

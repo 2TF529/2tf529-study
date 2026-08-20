@@ -1,0 +1,196 @@
+{
+  "id": "l12-toan-totnghiep-2026-de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-lao-cai-nam-2026-lan-1",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "code": "THPT_TKT_2026_LC_01",
+  "title": "Đề khảo sát chất lượng THPT môn Toán Sở GD&ĐT Lào Cai năm 2026 - Lần 1",
+  "duration": 90,
+  "answerSource": "official",
+  "source": "https://dolthpt.vn/tot-nghiep-thpt/pdf-de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-lao-cai-nam-2026-lan-1-co-dap-an",
+  "notes": "Nội dung, đáp án và lời giải được nhập từ bản công khai của DOL THPT.",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "content": "Cho hình lập phương $ABCD.EFGH$. Góc giữa hai đường thẳng $AF$ và $EG$ là",
+      "chuong": "quan hệ vuông góc trong không gian",
+      "dang": "góc giữa hai đường thẳng",
+      "type": "single",
+      "options": [
+        "A. \\$60^\\circ$",
+        "B. \\$0^\\circ$",
+        "C. \\$90^\\circ$",
+        "D. \\$30^\\circ$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cho hình lập phương $ABCD.EFGH$.\n- Cần tìm góc giữa hai đường thẳng $AF$ và $EG$.\n- Các đáp án là \\$60^\\circ,\\ 0^\\circ,\\ 90^\\circ,\\ 30^\\circ$.\n❓ **Hiểu câu hỏi:**\n- Góc giữa hai đường thẳng chéo nhau thường được đưa về góc giữa hai đường thẳng cắt nhau và song song tương ứng.\n- Trong hình lập phương, hai mặt $ABCD$ và $EFGH$ song song với nhau, nên hai đường chéo tương ứng $AC$ và $EG$ song song.\n- Sau đó ta chỉ cần tìm góc giữa $AF$ và $AC$.\n🔎 **Hướng dẫn cách làm:**\n- Vì hai mặt $ABCD$ và $EFGH$ song song nên đường chéo của hai mặt này cũng song song với nhau, do đó $AC \\parallel EG$.\n- Vậy góc giữa $AF$ và $EG$ bằng góc giữa $AF$ và $AC$, tức là bằng $\\angle FAC$.\n- Gọi cạnh hình lập phương là $a$. Khi đó:\n- $AF=a\\sqrt{2}$ vì $AF$ là đường chéo của hình vuông $ABEF$.\n- $AC=a\\sqrt{2}$ vì $AC$ là đường chéo của hình vuông $ABCD$.\n- $FC=a\\sqrt{2}$ vì $FC$ là đường chéo của hình vuông $BCGF$.\n- Suy ra $AF=AC=FC=a\\sqrt{2}$, nên tam giác $AFC$ là tam giác đều.\n- Do đó $\\angle FAC=60^\\circ$.\n- Vậy góc giữa hai đường thẳng $AF$ và $EG$ là \\$60^\\circ$.\n✅ **Đáp án:** Chọn A. \\$60^\\circ$"
+    },
+    {
+      "id": 2,
+      "content": "Trong không gian $Oxyz$, cho hai điểm $A(1;1;-3)$ và $B(2;-1;-1)$. Độ dài đoạn $AB$ bằng",
+      "chuong": "vectơ và hệ trục tọa độ trong không gian",
+      "dang": "tọa độ của điểm, tọa độ của vectơ trong không gian",
+      "type": "single",
+      "options": [
+        "A. \\$3$",
+        "B. \\$4$",
+        "C. \\$3\\sqrt{2}$",
+        "D. \\$4\\sqrt{2}$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hai điểm đã cho là $A(1;1;-3)$ và $B(2;-1;-1)$.\n- Cần tính độ dài đoạn thẳng $AB$.\n❓ **Hiểu câu hỏi:**\n- Đây là bài toán khoảng cách giữa hai điểm trong không gian.\n- Ta dùng công thức $AB=\\sqrt{(x_B-x_A)^2+(y_B-y_A)^2+(z_B-z_A)^2}$.\n🔎 **Hướng dẫn cách làm:**\n- Ta có $\\overrightarrow{AB}=(2-1;-1-1;-1-(-3))=(1;-2;2)$.\n- Vậy $AB=\\sqrt{1^2+(-2)^2+2^2}=\\sqrt{1+4+4}=\\sqrt{9}=3$.\n✅ **Đáp án:** Chọn A. \\$3$"
+    },
+    {
+      "id": 3,
+      "content": "Khảo sát thời gian tự học ở nhà của học sinh khối \\$9$ ở trường $X$, ta thu được bảng số liệu. Phương sai của mẫu số liệu ghép nhóm là\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-lao-cai-nam-2026-lan-1/cau-03.webp\" alt=\"Hình minh họa câu 3\" loading=\"lazy\"></figure>",
+      "chuong": "các số đặc trưng đo mức độ phân tán cho mẫu số liệu ghép nhóm",
+      "dang": "phương sai và độ lệch chuẩn",
+      "type": "single",
+      "options": [
+        "A. \\$1601,64$",
+        "B. \\$1603$",
+        "C. \\$1602$",
+        "D. \\$1601,9$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Bảng tần số ghép nhóm có các lớp $[0;30),[30;60),[60;90),[90;120),[120;150)$ với tần số lần lượt là \\$9,10,9,15,7$.\n- Cần tính phương sai của mẫu số liệu ghép nhóm.\n❓ **Hiểu câu hỏi:**\n- Ta lấy trung điểm mỗi lớp để đại diện cho lớp đó.\n- Sau đó dùng công thức $s^2=\\dfrac{1}{n}\\sum n_i\\left(x_i-\\overline{x}\\right)^2$.\n🔎 **Hướng dẫn cách làm:**\n- Trung điểm các lớp là \\$15,45,75,105,135$ và tổng số học sinh là $n=9+10+9+15+7=50$.\n- Số trung bình là $\\overline{x}=\\dfrac{9\\cdot15+10\\cdot45+9\\cdot75+15\\cdot105+7\\cdot135}{50}=75,6$.\n- Phương sai là $s^2=\\dfrac{9(15-75,6)^2+10(45-75,6)^2+9(75-75,6)^2+15(105-75,6)^2+7(135-75,6)^2}{50}$.\n- Tính ra $s^2=1601,64$.\n✅ **Đáp án:** Chọn A. \\$1601,64$"
+    },
+    {
+      "id": 4,
+      "content": "Tập nghiệm của bất phương trình \\$3^{x-1}\\ge 9$ là",
+      "chuong": "hàm số mũ và hàm số lôgarit",
+      "dang": "bất phương trình mũ",
+      "type": "single",
+      "options": [
+        "A. $(-\\infty;3]$",
+        "B. $[2;+\\infty)$",
+        "C. $[3;+\\infty)$",
+        "D. $(-\\infty;2)$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cần giải bất phương trình \\$3^{x-1}\\ge 9$.\n- Ta có thể viết \\$9$ dưới dạng lũy thừa của \\$3$.\n❓ **Hiểu câu hỏi:**\n- Vì cơ số \\$3>1$ nên hàm số mũ đồng biến.\n- Khi cùng cơ số, ta chỉ cần so sánh các số mũ.\n🔎 **Hướng dẫn cách làm:**\n- Viết \\$9=3^2$, khi đó bất phương trình trở thành \\$3^{x-1}\\ge 3^2$.\n- Vì \\$3>1$ nên $x-1\\ge 2$.\n- Suy ra $x\\ge 3$.\n- Vậy tập nghiệm là $[3;+\\infty)$.\n✅ **Đáp án:** Chọn C. $[3;+\\infty)$"
+    },
+    {
+      "id": 5,
+      "content": "Khi cắt một vật thể bởi mặt phẳng vuông góc với trục $Ox$ tại điểm có hoành độ $x$ thì mặt cắt là hình vuông có độ dài cạnh là $\\sqrt{3-x^2}(-\\sqrt{3}\\le x\\le \\sqrt{3})$. Thể tích của vật thể đã cho bằng",
+      "chuong": "nguyên hàm và tích phân",
+      "dang": "ứng dụng tích phân để tính thể tích vật thể",
+      "type": "single",
+      "options": [
+        "A. \\$4\\pi\\sqrt{3}$",
+        "B. \\$4\\sqrt{3}$",
+        "C. $\\pi\\sqrt{3}$",
+        "D. $\\sqrt{3}$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Mặt cắt vuông góc với trục $Ox$ tại vị trí $x$ là hình vuông.\n- Cạnh hình vuông bằng $\\sqrt{3-x^2}$ với $-\\sqrt{3}\\le x\\le \\sqrt{3}$.\n❓ **Hiểu câu hỏi:**\n- Thể tích vật thể bằng tích phân của diện tích mặt cắt.\n- Diện tích hình vuông là bình phương cạnh của nó.\n🔎 **Hướng dẫn cách làm:**\n- Tại vị trí $x$, diện tích mặt cắt là $S(x)=\\left(\\sqrt{3-x^2}\\right)^2=3-x^2$.\n- Vậy thể tích là $V=\\int_{-\\sqrt{3}}^{\\sqrt{3}}(3-x^2)\\,dx$.\n- Ta tính được $V=\\left[3x-\\dfrac{x^3}{3}\\right]_{-\\sqrt{3}}^{\\sqrt{3}}=4\\sqrt{3}$.\n✅ **Đáp án:** Chọn B. \\$4\\sqrt{3}$"
+    },
+    {
+      "id": 6,
+      "content": "Cho hàm số $y=f(x)=\\dfrac{ax^2+bx+c}{mx+n}$ có đồ thị như hình vẽ dưới đây. Đường tiệm cận xiên của đồ thị hàm số đã cho có phương trình là\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-lao-cai-nam-2026-lan-1/cau-06.webp\" alt=\"Hình minh họa câu 6\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "đường tiệm cận xiên",
+      "type": "single",
+      "options": [
+        "A. $y=x-1$",
+        "B. $y=x+3$",
+        "C. $y=3x+1$",
+        "D. $y=x-2$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Đồ thị cho sẵn là đồ thị của một hàm phân thức bậc hai trên bậc nhất.\n- Cần tìm phương trình đường tiệm cận xiên từ hình vẽ.\n❓ **Hiểu câu hỏi:**\n- Đường tiệm cận xiên là một đường thẳng.\n- Chỉ cần đọc hai điểm rõ ràng nằm trên đường thẳng đó rồi lập phương trình.\n🔎 **Hướng dẫn cách làm:**\n- Từ hình vẽ, đường tiệm cận xiên đi qua hai điểm $\\left(0;3\\right)$ và $\\left(1;4\\right)$.\n- Hệ số góc là $k=\\dfrac{4-3}{1-0}=1$.\n- Vì đường thẳng đi qua điểm $\\left(0;3\\right)$ nên tung độ gốc là \\$3$.\n- Do đó phương trình tiệm cận xiên là $y=x+3$.\n✅ **Đáp án:** Chọn B. $y=x+3$"
+    },
+    {
+      "id": 7,
+      "content": "Cho cấp số nhân $(u_n)$ với $u_1=3$ và công bội $q=4$. Giá trị của $u_2$ bằng",
+      "chuong": "dãy số. cấp số cộng và cấp số nhân",
+      "dang": "định nghĩa cấp số nhân",
+      "type": "single",
+      "options": [
+        "A. $\\dfrac{4}{3}$",
+        "B. $\\dfrac{3}{4}$",
+        "C. \\$12$",
+        "D. \\$5$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cấp số nhân đã cho có $u_1=3$ và công bội $q=4$.\n- Cần tìm số hạng thứ hai $u_2$.\n❓ **Hiểu câu hỏi:**\n- Với cấp số nhân, mỗi số hạng sau bằng số hạng trước nhân với công bội.\n- Ta dùng công thức $u_{n+1}=u_n\\cdot q$.\n🔎 **Hướng dẫn cách làm:**\n- Từ công thức trên, $u_2=u_1\\cdot q=3\\cdot4=12$.\n✅ **Đáp án:** Chọn C. \\$12$"
+    },
+    {
+      "id": 8,
+      "content": "Nguyên hàm của hàm số $y=5^x$ là",
+      "chuong": "nguyên hàm và tích phân",
+      "dang": "nguyên hàm của một số hàm số thường gặp",
+      "type": "single",
+      "options": [
+        "A. $x5^{x-1}+C$",
+        "B. \\$5^x\\ln5+C$",
+        "C. $\\dfrac{5^x}{\\ln5}+C$",
+        "D. $\\dfrac{5^{x+1}}{x+1}+C$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cần tìm nguyên hàm của hàm số $y=5^x$.\n- Đây là dạng nguyên hàm cơ bản của hàm mũ.\n❓ **Hiểu câu hỏi:**\n- Ta dùng công thức $\\int a^x\\,dx=\\dfrac{a^x}{\\ln a}+C$ với $a>0$ và $a\\ne1$.\n- Ở đây $a=5$ nên áp dụng trực tiếp được.\n🔎 **Hướng dẫn cách làm:**\n- Suy ra $\\int 5^x\\,dx=\\dfrac{5^x}{\\ln5}+C$.\n✅ **Đáp án:** Chọn C. $\\dfrac{5^x}{\\ln5}+C$"
+    },
+    {
+      "id": 9,
+      "content": "Trong không gian $Oxyz$, cho hai vectơ $\\vec{a}=(1;2;-1)$ và $\\vec{b}=(2;-1;3)$. Tọa độ của vectơ \\$4\\vec{a}-\\vec{b}$ là",
+      "chuong": "vectơ và hệ trục tọa độ trong không gian",
+      "dang": "biểu thức tọa độ của phép cộng hai vectơ, phép trừ hai vectơ, phép nhân một số với một vectơ",
+      "type": "single",
+      "options": [
+        "A. $(2;9;-7)$",
+        "B. $(2;9;7)$",
+        "C. $(-2;9;7)$",
+        "D. $(-2;-9;7)$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hai vectơ đã cho là $\\vec{a}=(1;2;-1)$ và $\\vec{b}=(2;-1;3)$.\n- Cần tính tọa độ vectơ \\$4\\vec{a}-\\vec{b}$.\n❓ **Hiểu câu hỏi:**\n- Ta nhân vectơ $\\vec{a}$ với \\$4$ rồi trừ từng tọa độ tương ứng của $\\vec{b}$.\n- Phép toán vectơ được thực hiện theo từng thành phần.\n🔎 **Hướng dẫn cách làm:**\n- Ta có \\$4\\vec{a}=4(1;2;-1)=(4;8;-4)$.\n- Do đó \\$4\\vec{a}-\\vec{b}=(4;8;-4)-(2;-1;3)=(2;9;-7)$.\n✅ **Đáp án:** Chọn A. $(2;9;-7)$"
+    },
+    {
+      "id": 10,
+      "content": "Cho hình lập phương $ABCD.A'B'C'D'$. Khi đó $\\overrightarrow{AD'}$ bằng vectơ nào sau đây?",
+      "chuong": "vectơ và hệ trục tọa độ trong không gian",
+      "dang": "tổng và hiệu của hai vectơ trong không gian",
+      "type": "single",
+      "options": [
+        "A. $\\overrightarrow{B'C'}$",
+        "B. $\\overrightarrow{BC'}$",
+        "C. $\\overrightarrow{BB'}$",
+        "D. $\\overrightarrow{BC}$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Trong hình lập phương $ABCD.A'B'C'D'$, cần tìm vectơ bằng với $\\overrightarrow{AD'}$.\n- Các cạnh song song và bằng nhau trong hình lập phương cho ta các vectơ bằng nhau.\n❓ **Hiểu câu hỏi:**\n- Ta có thể đặt tọa độ để so sánh hai vectơ.\n- Hai vectơ bằng nhau khi chúng cùng hướng và cùng độ dài.\n🔎 **Hướng dẫn cách làm:**\n- Đặt $A(0;0;0),B(a;0;0),D(0;a;0),A'(0;0;a)$ thì $D'(0;a;a)$ và $C'(a;a;a)$.\n- Khi đó $\\overrightarrow{AD'}=(0;a;a)$.\n- Mặt khác $\\overrightarrow{BC'}=C'-B=(a;a;a)-(a;0;0)=(0;a;a)$.\n- Vậy $\\overrightarrow{AD'}=\\overrightarrow{BC'}$.\n✅ **Đáp án:** Chọn B. $\\overrightarrow{BC'}$"
+    },
+    {
+      "id": 11,
+      "content": "Tập xác định của hàm số $y=\\cot x$ là",
+      "chuong": "hàm số lượng giác và phương trình lượng giác",
+      "dang": "định nghĩa hàm số lượng giác",
+      "type": "single",
+      "options": [
+        "A. $\\mathbb{R}\\setminus\\left\\lbrace{k\\pi,k\\in\\mathbb{Z}}\\right\\rbrace$",
+        "B. $\\mathbb{R}\\setminus\\left\\lbrace{2k\\pi,k\\in\\mathbb{Z}}\\right\\rbrace$",
+        "C. $\\mathbb{R}\\setminus{\\left\\lbrace\\dfrac{\\pi}{2}+k\\pi,k\\in\\mathbb{Z}\\right\\rbrace}$",
+        "D. $\\mathbb{R}\\setminus{\\left\\lbrace\\dfrac{\\pi}{2}+2k\\pi,k\\in\\mathbb{Z}\\right\\rbrace}$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số đã cho là $y=\\cot x$.\n- Ta biết $\\cot x=\\dfrac{\\cos x}{\\sin x}$.\n❓ **Hiểu câu hỏi:**\n- Hàm số xác định khi mẫu khác \\$0$.\n- Vì vậy ta cần loại các giá trị làm $\\sin x=0$.\n🔎 **Hướng dẫn cách làm:**\n- Điều kiện xác định là $\\sin x\\ne0$.\n- Mà $\\sin x=0\\Leftrightarrow x=k\\pi$ với $k\\in\\mathbb{Z}$.\n- Vậy tập xác định là $\\mathbb{R}\\setminus\\left\\{k\\pi\\mid k\\in\\mathbb{Z}\\right\\}$.\n✅ **Đáp án:** Chọn A. $\\mathbb{R}\\setminus\\left\\{k\\pi\\mid k\\in\\mathbb{Z}\\right\\}$"
+    },
+    {
+      "id": 12,
+      "content": "Cho hàm số $f(x)$ có bảng biến thiên như sau. Hàm số đã cho đạt cực đại tại\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-lao-cai-nam-2026-lan-1/cau-12.webp\" alt=\"Hình minh họa câu 12\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "cực trị của hàm số",
+      "type": "single",
+      "options": [
+        "A. $x=1$",
+        "B. $x=-1$",
+        "C. $x=2$",
+        "D. $x=-2$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Bảng biến thiên cho biết dấu của $f'(x)$ và sự tăng giảm của hàm số.\n- Cần xác định điểm mà hàm số đạt cực đại.\n❓ **Hiểu câu hỏi:**\n- Hàm số đạt cực đại tại điểm mà $f'(x)$ đổi dấu từ dương sang âm.\n- Ta đọc trực tiếp điều này trên bảng biến thiên.\n🔎 **Hướng dẫn cách làm:**\n- Từ bảng biến thiên, tại $x=-1$ thì $f'(x)$ đổi dấu từ $+$ sang $-$.\n- Vì vậy hàm số tăng rồi giảm khi đi qua $x=-1$, nên đây là điểm cực đại.\n✅ **Đáp án:** Chọn B. $x=-1$"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-de-thi-cuoi-ki-1-toan-10-nam-2025-2026-thpt-chuyen-ha-noi-amsterd",
+  "sourceId": "vietjack:de-thi-cuoi-ki-1-toan-10-nam-2025-2026-t",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "cuoiki1",
+  "year": 2026,
+  "title": "Đề thi cuối kì 1 Toán 10 năm 2025-2026 THPT Chuyên Hà Nội Amsterdam (Hà Nội) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn (3,0 điểm). Học sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi, học sinh chỉ chọn một phương án. Phủ định của mệnh đề là mệnh đề nào sau đây:",
+      "options": [
+        "A. \" 1985 + 40 < 2025 \" .",
+        "B. \" 1985 + 40 > 2025 \" .",
+        "C. \" 1985 + 40 ≤ 2025 \" .",
+        "D. \" 1985 + 40 ≠ 2025 \" ."
+      ],
+      "answer": "D",
+      "note": "Phủ định của mệnh đề chứa dấu đẳng thức \\( = \\) là mệnh đề chứa dấu khác \\( \\ne \\). Mệnh đề phủ định của P : \" 1985 + 40 = 2025 \" là P ¯ : \" 1985 + 40 ≠ 2025 \" . Chọn D."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hai tập hợp \\(A = \\left[ { - 3;4} \\right)\\) và \\(B = \\left( { - 1; + \\infty } \\right)\\) . Khi đó, tập hợp \\(A\\backslash B\\) là:",
+      "options": [
+        "A. \\(\\left[ { - 3; - 1} \\right)\\) .",
+        "B. \\(\\left\\{ { - 3; - 2; - 1} \\right\\}\\) .",
+        "C. \\(\\left[ {4; + \\infty } \\right)\\) .",
+        "D. \\(\\left[ { - 3; - 1} \\right]\\) ."
+      ],
+      "answer": "D",
+      "note": "Tập hiệu \\(A\\backslash B = \\left\\{ {x \\in \\mathbb{R}\\mid x \\in A{\\rm{\\;v\\`a \\;}}x \\notin B} \\right\\}\\). Ta có \\(x \\in A \\Rightarrow - 3 \\le x < 4\\) và \\(x \\notin B \\Rightarrow x \\le - 1\\). Kết hợp hai điều kiện: \\( - 3 \\le x \\le - 1 \\Rightarrow A\\backslash B = \\left[ { - 3; - 1} \\right]\\). Chọn D."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Miền nghiệm của bất phương trình bậc nhất hai ẩn \\(19x - 12y \\ge 25\\) là nửa mặt phẳng (kể cả đường thẳng \\(d\\) có phương trình \\(19x - 12y = 25\\) ) không chứa điểm có tọa độ nào sau đây?",
+      "options": [
+        "A. \\(\\left( {2;0} \\right)\\) .",
+        "B. \\(\\left( { - 1; - 4} \\right)\\) .",
+        "C. \\(\\left( {0; - 2} \\right)\\) .",
+        "D. \\(\\left( {1; - 1} \\right)\\) ."
+      ],
+      "answer": "C",
+      "note": "Thử tọa độ từng điểm vào vế trái \\(F\\left( {x,y} \\right) = 19x - 12y\\): Tại \\(A\\left( {2;0} \\right)\\): \\(19 \\cdot 2 - 12 \\cdot 0 = 38 \\ge 25\\) (thỏa mãn). Tại \\(B\\left( { - 1; - 4} \\right)\\): \\(19 \\cdot \\left( { - 1} \\right) - 12 \\cdot \\left( { - 4} \\right) = - 19 + 48 = 29 \\ge 25\\) (thỏa mãn). Tại \\(C\\left( {0; - 2} \\right)\\): \\(19 \\cdot 0 - 12 \\cdot \\left( { - 2} \\right) = 24 < 25\\) (không thỏa mãn). Tại \\(D\\left( {1; - 1} \\right)\\): \\(19 \\cdot 1 - 12 \\cdot \\left( { - 1} \\right) = 19 + 12 = 31 \\ge 25\\) (thỏa mãn). Vậy điểm \\(\\left( {0; - 2} \\right)\\) không thuộc miền nghiệm của bất phương trình. Chọn C."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho góc \\(\\alpha \\) thỏa mãn \\(0^\\circ < \\alpha < 90^\\circ \\) . Khi đó, biểu thức \\(\\tan \\alpha \\cdot \\tan \\left( {90^\\circ - \\alpha } \\right)\\) bằng:",
+      "options": [
+        "A. \\(0\\) .",
+        "B. \\(1\\) .",
+        "C. \\({\\tan ^2}\\alpha \\) .",
+        "D. \\({\\tan ^2}\\alpha + {\\cot ^2}\\alpha \\) ."
+      ],
+      "answer": "B",
+      "note": "Với \\(0^\\circ < \\alpha < 90^\\circ \\), áp dụng công thức hai góc phụ nhau ta có \\(\\tan \\left( {90^\\circ - \\alpha } \\right) = \\cot \\alpha \\). Do đó: \\(\\tan \\alpha \\cdot \\tan \\left( {90^\\circ - \\alpha } \\right) = \\tan \\alpha \\cdot \\cot \\alpha = 1\\). Chọn B."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hai điểm \\(A,B\\) phân biệt. Tập hợp tất cả các điểm \\(M\\) thỏa mãn \\(\\overrightarrow {AM} \\) cùng hướng với \\(\\overrightarrow {AB} \\) là hình gì?",
+      "options": [
+        "A. Đường thẳng \\(AB\\) .",
+        "B. Tia \\(AB\\) .",
+        "C. Đoạn thẳng \\(AB\\) .",
+        "D. Tia đối của tia \\(AB\\) ."
+      ],
+      "answer": "B",
+      "note": "Theo định nghĩa về hướng của vectơ, tập hợp điểm \\(M\\) sao cho \\(\\overrightarrow {AM} \\) cùng hướng với \\(\\overrightarrow {AB} \\) là tia \\(AB\\). Chọn B."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho ba vectơ \\(\\vec a,\\vec b,\\vec c\\) đều khác vectơ \\(\\vec 0\\) . Khẳng định nào sau đây là sai?",
+      "options": [
+        "A. Ba vectơ \\(\\vec a,\\vec b,\\vec c\\) đều cùng phương với vectơ \\(\\vec 0\\) .",
+        "B. Nếu các vectơ \\(\\vec a\\) và \\(\\vec b\\) đều ngược hướng với vectơ \\(\\vec c\\) thì hai vectơ \\(\\vec a\\) và \\(\\vec b\\) cùng hướng.",
+        "C. Nếu vectơ \\(\\vec a\\) không cùng hướng với vectơ \\(\\vec b\\) thì hai vectơ \\(\\vec a\\) và \\(\\vec b\\) ngược hướng.",
+        "D. Nếu các vectơ \\(\\vec a\\) và \\(\\vec b\\) đều cùng phương với vectơ \\(\\vec c\\) thì hai vectơ \\(\\vec a\\) và \\(\\vec b\\) cùng phương."
+      ],
+      "answer": "C",
+      "note": "Khẳng định A đúng vì vectơ \\(\\vec 0\\) cùng phương với mọi vectơ. Khẳng định B đúng vì hai vectơ cùng ngược hướng với vectơ thứ ba (khác \\(\\vec 0\\)) thì cùng hướng với nhau. Khẳng định C sai vì nếu hai vectơ không cùng phương thì chúng không cùng hướng và cũng không ngược hướng. Khẳng định D đúng theo tính chất bắc cầu của quan hệ cùng phương. Chọn C."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Cho tứ giác \\(ABCD\\) có \\(\\overrightarrow {AB} = \\overrightarrow {DC} \\) . Mệnh đề nào sau đây là sai?",
+      "options": [
+        "A. \\(BA = DC\\) .",
+        "B. Tứ giác \\(ABCD\\) là hình bình hành.",
+        "C. \\(\\overrightarrow {BC} = \\overrightarrow {AD} \\) .",
+        "D. \\(\\overrightarrow {AC} = \\overrightarrow {BD} \\) ."
+      ],
+      "answer": "D",
+      "note": "Từ đẳng thức \\(\\overrightarrow {AB} = \\overrightarrow {DC} \\), ta suy ra đoạn thẳng \\(AB = CD\\) và \\(AB{\\rm{//}}CD\\), đồng thời hướng từ \\(A\\) đến \\(B\\) cùng hướng từ \\(D\\) đến \\(C\\). Do đó tứ giác \\(ABCD\\) là hình bình hành. Trong hình bình hành \\(ABCD\\): \\(BA = DC\\) (đúng vì \\(AB = CD\\)). \\(\\overrightarrow {BC} = \\overrightarrow {AD} \\) (đúng). \\(\\overrightarrow {AC} = \\overrightarrow {BD} \\) là sai vì hai đường chéo \\(AC\\) và \\(BD\\) cắt nhau, không cùng hướng và không bằng nhau về độ dài trong hình bình hành tổng quát. Chọn D."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho ba điểm \\(A,B,I\\) phân biệt. Điều kiện cần và đủ để điểm \\(I\\) là trung điểm của đoạn thẳng \\(AB\\) là:",
+      "options": [
+        "A. \\(\\overrightarrow {IA} + \\overrightarrow {IB} = \\vec 0\\) .",
+        "B. \\(\\overrightarrow {IA} = \\overrightarrow {IB} \\) .",
+        "C. \\(\\left| {\\overrightarrow {IA} } \\right| = \\left| {\\overrightarrow {IB} } \\right|\\) .",
+        "D. \\(\\overrightarrow {IA} + \\overrightarrow {IB} = \\overrightarrow {AB} \\) ."
+      ],
+      "answer": "A",
+      "note": "Theo tính chất trung điểm, điểm \\(I\\) là trung điểm của đoạn thẳng \\(AB\\) khi và chỉ khi \\(\\overrightarrow {IA} + \\overrightarrow {IB} = \\vec 0.\\) Chọn A."
+    }
+  ]
+}

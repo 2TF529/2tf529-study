@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-11-canh-dieu-bai-9-lap-trinh-thuat-t",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-11-canh-die",
+  "grade": "l11",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 11 Cánh diều Bài 9: Lập trình thuật toán sắp xếp nhanh có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Thuật toán sắp xếp nhanh thuộc loại thuật toán nào?",
+      "options": [
+        "A. Tìm kiếm tuyến tính",
+        "B. Tìm kiếm nhị phân",
+        "C. Chia để trị",
+        "D. Đệ quy"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Thuật toán sắp xếp nhanh (Quick Sort) sử dụng chiến lược chia để trị, nơi mà dãy số được phân đoạn thành các phần nhỏ hơn và sắp xếp từng phần một."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Trong thuật toán sắp xếp nhanh, giá trị nào được chọn làm pivot?",
+      "options": [
+        "A. Phần tử nhỏ nhất trong dãy",
+        "B. Phần tử lớn nhất trong dãy",
+        "C. Bất kỳ phần tử nào trong dãy",
+        "D. Phần tử đứng ở giữa"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Pivot có thể là bất kỳ phần tử nào trong dãy, tuy nhiên, việc lựa chọn pivot có thể ảnh hưởng đến hiệu suất của thuật toán."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Lược đồ phân đoạn Lomuto sử dụng chỉ số nào để thực hiện việc phân đoạn?",
+      "options": [
+        "A. Chỉ số j",
+        "B. Chỉ số i",
+        "C. Chỉ số k",
+        "D. Chỉ số p"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Trong lược đồ phân đoạn Lomuto, chỉ số i được duy trì để xác định vị trí phân tách, trong khi chỉ số j được sử dụng để duyệt dãy số."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Lượt kiểm tra trong phân đoạn Hoare bắt đầu từ đâu?",
+      "options": [
+        "A. Bắt đầu từ vị trí trái và di chuyển sang phải",
+        "B. Bắt đầu từ vị trí phải và di chuyển sang trái",
+        "C. Cả hai đầu dãy số cùng tiến vào giữa",
+        "D. Từ giữa dãy số"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Phân đoạn Hoare rà soát từ hai phía, trái và phải, cùng tiến dần vào giữa để tìm các phần tử vi phạm yêu cầu phân đoạn."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Để sắp xếp một danh sách theo thứ tự giảm dần trong thuật toán Quick Sort, điều gì cần được thay đổi?",
+      "options": [
+        "A. Thay đổi giá trị pivot",
+        "B. Thay đổi phép so sánh trong câu lệnh if",
+        "C. Thay đổi cấu trúc của thuật toán",
+        "D. Thay đổi biến đầu vào"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Để sắp xếp giảm dần, phép so sánh trong câu lệnh if a[j] &lt;= pivot: cần được thay đổi thành if a[j] &gt;= pivot:."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong thuật toán phân đoạn Lomuto, giá trị nào được sử dụng làm pivot?",
+      "options": [
+        "A. Phần tử đầu tiên",
+        "B. Phần tử cuối cùng",
+        "C. Phần tử giữa",
+        "D. Phần tử bất kỳ"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Trong thuật toán phân đoạn Lomuto, giá trị của phần tử đứng cuối dãy được chọn làm pivot."
+    }
+  ]
+}

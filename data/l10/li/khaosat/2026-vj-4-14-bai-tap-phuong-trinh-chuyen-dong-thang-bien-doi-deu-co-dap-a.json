@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-4-14-bai-tap-phuong-trinh-chuyen-dong-thang-bien-doi-deu-co-dap-a",
+  "sourceId": "vietjack:4-14-bai-tap-phuong-trinh-chuyen-dong-th",
+  "grade": "l10",
+  "subjectSlug": "li",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "4.14 bài tập Phương trình chuyển động thẳng biến đổi đều có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Một ô tô chuyển động thẳng nhanh dần đều với vận tốc v 0 = 5 m / s . Trong giây thứ 5 xe đi được quãng đường 10 m. Tính gia tốc của xe?",
+      "options": [
+        "A. a = 10 9 m / s 2",
+        "B. a = 1 , 2 m / s 2",
+        "C. a = 1 , 4 m / s 2",
+        "D. a = 4 3 m / s 2"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là A Quãng đường ô tô đi được trong 5 giây đầu là: s 5 = v 0 t 5 + 1 2 a t 5 2 = 5.5 + 1 2 . a .5 2 = 25 + 12 , 5 a Quãng đường ô tô đi được trong 4 giây đầu là: s 4 = v 0 t 4 + 1 2 a . t 4 2 = 5.4 + 1 2 . a .4 2 = 20 + 8 a Quãng đường đi được trong giây thứ 5 là: s = s 5 − s 4 = 25 + 12 , 5 a − 20 − 8 a = 5 + 4 , 5 a = 10 ⇒ a = 10 9 m / s 2"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Lúc 9 giờ một xe máy ở A chuyển động thẳng đều với vận tốc v = 60 km/h đuổi theo xe máy ở B đang chuyển động với vận tốc 40 km/h. Biết khoảng cách AB = 25 km. Viết phương trình chuyển động của hai xe. Hỏi xe B đuổi kịp xe A lúc mấy giờ và ở đâu?",
+      "options": [
+        "A. Hai xe gặp nhau lúc 10 giờ 15 phút, tại vị trí cách A là 75 km.",
+        "B. Hai xe gặp nhau lúc 10 giờ 30 phút, tại vị trí cách A là 75 km.",
+        "C. Hai xe gặp nhau lúc 10 giờ 15 phút, tại vị trí cách A là 50 km.",
+        "D. Hai xe gặp nhau lúc 10 giờ 30 phút, tại vị trí cách A là 50 km."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là A Chọn gốc tọa độ tại A, gốc thời gian là lúc 8 giờ, chiều dương cùng chiều chuyển động. Phương trình chuyển động của: Xe A: x A = x 0 A + v A t = 0 + 60 t (1) Xe B: x B = x 0 B + v B t = 25 + 40 t (2) Khi hai xe gặp nhau: x A = x B ⇔ 60 t = 25 + 40 t ⇔ t = 1 , 25 h Thay t = 1,25h vào phương trình (1) ta được: x A = 60.1 , 25 = 75 k m Vậy hai xe gặp nhau tại vị trí cách gốc tọa độ 75 km vào lúc 10 giờ 15 phút."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trên đường thẳng từ nhà đến chỗ làm việc của B, cùng một lúc xe 1 khởi hành từ nhà đến chỗ làm với vận tốc v 1 = 60 km/h. Xe thứ 2 từ chỗ làm đi cùng chiều với vận tốc v 2 = 40 km/h. Biết quãng đường từ nhà đến chỗ làm việc của B là 30 km. Lập phương trình chuyển động của mỗi xe với cùng hệ quy chiếu?",
+      "options": [
+        "A. x 1 = 60 t , x 2 = 40 t",
+        "B. x 1 = 30 + 40 t , x 2 = 60 t",
+        "C. x 1 = 30 + 60 t , x 2 = 30 + 40 t",
+        "D. x 1 = 60 t , x 2 = 30 + 40 t"
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là D Chọn gốc tọa độ tại nhà của B, gốc thời gian lúc hai xe xuất phát. Chọn chiều dương cùng chiều với chiều chuyển động của hai xe Phương trình chuyển động của xe 1 là: x 1 = x 01 + v 1 . t = 0 + 60 t = 60 t Phương trình chuyển động của xe 2 là: x 2 = x 02 + v 2 . t = 30 + 40 t"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Ở trên một đoạn dốc thẳng dài 120 m, An và Bình đều đi xe đạp và khởi hành cùng một lúc ở hai đầu đoạn dốc. An đi lên dốc với vận tốc 6 m/s chuyển động chậm dần đều với gia tốc có độ lớn 0 , 2 m / s 2 . Bình đi xuống dốc với vận tốc 2 m/s và chuyển động nhanh dần đều với gia tốc có độ lớn 0 , 25 m / s 2 . Xác định thời gian và vị trí An và Bình gặp nhau?",
+      "options": [
+        "A. Hai bạn gặp nhau sau 14,4 s từ khi chuyển động, tại điểm cách đỉnh dốc 54,72 m.",
+        "B. Hai bạn gặp nhau sau 10,4 s từ khi chuyển động, tại điểm cách đỉnh dốc 50,72 m.",
+        "C. Hai bạn gặp nhau sau 8 s từ khi chuyển động, tại điểm cách đỉnh dốc 45 m.",
+        "D. Hai bạn gặp nhau sau 12 s từ khi chuyển động, tại điểm cách đỉnh dốc 52 m."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là A Chọn chiều dương là chiều từ đỉnh đến chân dốc, gốc tọa độ tại đỉnh dốc, gốc thời gian là lúc cả 2 bạn bắt đầu chuyển động. Phương trình chuyển động có dạng: x = x 0 + v 0 t + 1 2 a t 2 Phương trình chuyển động của Bình có dạng: x 1 = 0 + 2 t + 1 2 .0 , 25. t 2 = 2 t + 1 8 t 2 Phương trình chuyển động của An có dạng: x 2 = 120 − 6 t + 1 2 .0 , 2. t 2 = 120 − 6 t + 0 , 1 t 2 Khi hai bạn gặp nhau thì x 1 = x 2 2 t + 1 8 t 2 = 120 − 6 t + 0 , 1 t 2 ⇔ t ≈ 14 , 4 s = > x = 2 t + 1 8 . t 2 ≈ 54 , 72 m Vậy sau 14,4 s kể từ khi bắt đầu chuyển động thì hai bạn gặp nhau tại điểm cách đỉnh dốc một đoạn 54,72 m."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Một xe chuyển động nhanh dần đều với vận tốc ban đầu 4 m/s. Trong giây thứ 3 xe đi được 5 m. Tính quãng đường xe đi được trong 10 s?",
+      "options": [
+        "A. A . 30 m .",
+        "B. 40 m .",
+        "C. 50 m .",
+        "D. 60 m ."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là D Quãng đường xe đi trong 3 giây đầu là: s 3 = v 0 t 3 + 1 2 a . t 3 2 = 4.3 + 1 2 a .3 2 = 12 + 4 , 5 a Quãng đường xe đi được trong 2 giây là: s 2 = v 0 t 2 + 1 2 a t 2 2 = 4.2 + 1 2 a .2 2 = 8 + 2 a Quãng đường xe đi trong giây thứ 3 là: s = s 3 − s 2 = 12 + 4 , 5 a − 8 − 2 a = 4 + 2 , 5 a = 5 = > a = 0 , 4 m / s 2 Quãng đường xe đi được trong 10 s là: s 10 = v 0 t 10 + 1 2 a . t 10 2 = 4.10 + 1 2 .0 , 4.10 2 = 60 m"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Một xe chuyển động chậm dần đều với tốc độ đầu 36 km/h. Trong giây thứ 6 xe đi được 7,25 m. Tính quãng đường xe đi được trong giây thứ 8.",
+      "options": [
+        "A. 7,25 m.",
+        "B. 57,75 m.",
+        "C. 64 m.",
+        "D. 6,25 m."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là D Đổi: v 0 = 36 km/h = 10 m/s. Quãng đường xe đi được trong giây thứ 6 bằng hiệu quãng đường xe đi được trong 6 giây trừ đi quãng đường xe đi được trong 5 giây. s 6 = v 0 .6 + a .6 2 2 − v 0 .5 − a .5 2 2 = 7 , 25 m Suy ra a = - 0,5 m/s 2 . Quãng đường xe đi được trong giây thứ 8 bằng hiệu quãng đường xe đi được trong 8 giây trừ đi quãng đường xe đi được trong 7 giây. s 8 = v 0 .8 + a .8 2 2 − v 0 .7 − a .7 2 2 = 6 , 25 m"
+    }
+  ]
+}

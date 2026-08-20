@@ -1,0 +1,248 @@
+{
+  "id": "l11-tin-cuoiki1-2026-10-de-thi-tin-hoc-11-hoc-ki-1-nam-2026-cau-truc-moi-co-dap-an-c722cdefb0-de-04",
+  "grade": "l11",
+  "subjectSlug": "tin",
+  "examType": "cuoiki1",
+  "year": 2026,
+  "code": "Đề 04",
+  "title": "10+ Đề thi Tin học 11 Học kì 1 năm 2026 (cấu trúc mới, có đáp án) - Đề 04",
+  "duration": 45,
+  "answerSource": "missing",
+  "sourceUrl": "https://www.vietjack.com/de-kiem-tra-lop-11/de-kiem-tra-tin-hoc-11-hoc-ki-1.jsp",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 1:&lt;/strong&gt; Chương trình dịch Pascal sẽ cấp phát bao nhiêu byte bộ nhớ cho các biến trong khai báo sau:\nVar M, N, I: INTEGER;\nP, A, B: REAL;\nX: EXTENDED;\nK: WORD;",
+      "options": [
+        "A. 44;",
+        "B. 36;",
+        "C. 38;",
+        "D. 42."
+      ],
+      "answer": null
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 2:&lt;/strong&gt; Biết rằng a, b, c là độ dài ba cạnh của một tam giác, biểu thức quan hệ nào sau đây cho kết quả true?",
+      "options": [
+        "A. c + a > b;",
+        "B. a - b > c;",
+        "C. c – b ≥ a;",
+        "D. c - a > b."
+      ],
+      "answer": null
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 3&lt;/strong&gt;: Xét biểu thức logic: (m mod 100 &lt; 10) and (m div 100 &gt; 0). Với giá trị nào của m dưới đây biểu thức trên cho giá trị false?",
+      "options": [
+        "A. 208",
+        "B. 2009",
+        "C. 166509",
+        "D. 99"
+      ],
+      "answer": null
+    },
+    {
+      "id": 4,
+      "type": "short_answer",
+      "content": "&lt;strong&gt;Câu 4&lt;/strong&gt;: Biểu thức Pascal: (a+cos(x))/sqrt(sqr(a)+sqr(x)+1) khi chuyển sang toán học có dạng:",
+      "answer": null
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 5&lt;/strong&gt;: Cho đoạn chương trình sau: x:= 10; y:= 30; writeln(‘x+y’); kết quả màn hình sẽ là gì?",
+      "options": [
+        "A. 20",
+        "B. x+y",
+        "C. 10",
+        "D. 30"
+      ],
+      "answer": null
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 6&lt;/strong&gt;: Biến X có thể nhận giá trị: 0.5; 1.5; 2.5; 3.5; 4.5 và biến Y có thể nhận các giá trị 0; 1; 3; 5; 7; 9. Khai báo biến nào sau đây là đúng?",
+      "options": [
+        "A. Var X: Byte; Y: Real;",
+        "B. Var X: Real; Y: Byte;",
+        "C. Var X, Y: Integer;",
+        "D. Var X, Y: Byte;"
+      ],
+      "answer": null
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 7&lt;/strong&gt;: Biểu thức ((35 mod 9) div 5) có kết quả là mấy?",
+      "options": [
+        "A. 1",
+        "B. 3",
+        "C. 4",
+        "D. 2"
+      ],
+      "answer": null
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 8&lt;/strong&gt;: Cho đoạn chương trình:\nKq:=1;\nFor i:=1 to 5 do\nKq:=Kq*i;\nKết quả sau khi chạy là :",
+      "options": [
+        "A. 0",
+        "B. 120",
+        "C. 60",
+        "D. 20"
+      ],
+      "answer": null
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 9&lt;/strong&gt;: Cho biết kết quả của đoạn chương trình sau?\nN:=5; Tong:=0;\nFor i:=1 to n do\nIf (i mod 2=0) then Tong:=Tong + i;\nWrite(Tong);",
+      "options": [
+        "A. 3",
+        "B. 1",
+        "C. 6",
+        "D. 2"
+      ],
+      "answer": null
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 10&lt;/strong&gt;: Trong ngôn ngữ lập trình Pascal, cho đoạn chương trình:\ni:=1;\nWhile i <5 do\nBegin\nif I mod 3 = 0 then Write(‘TIN HOC’);\ni:=i+1;\nEnd;\n&lt;strong&gt;Chữ TIN HOC được in ra màn hình mấy lần&lt;/strong&gt;",
+      "options": [
+        "A. 3",
+        "B. 2",
+        "C. 1",
+        "D. 0"
+      ],
+      "answer": null
+    },
+    {
+      "id": 11,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 11&lt;/strong&gt;: Trong pascal, biểu diễn sqr(x) có nghĩa là:",
+      "options": [
+        "A. Bình phương của x",
+        "B. Căn bậc hai của x",
+        "C. Giá trị tuyệt đối của x",
+        "D. Luỹ thừa cơ số e của x"
+      ],
+      "answer": null
+    },
+    {
+      "id": 12,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 12&lt;/strong&gt;: Cho biết kết quả của biểu thức (2*((45 mod 3) +12)) div 5 là bao nhiêu?",
+      "options": [
+        "A. 2",
+        "B. 4",
+        "C. 6",
+        "D. 8"
+      ],
+      "answer": null
+    },
+    {
+      "id": 13,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 13&lt;/strong&gt;: Xét biểu thức logic: (n mod 100 > 10) and (n div 100 < 10)\n&lt;strong&gt;Với giá trị nào của n sau đây, biểu thức có giá trị đúng?&lt;/strong&gt;",
+      "options": [
+        "A. 121",
+        "B. 2001",
+        "C. 201",
+        "D. 1200"
+      ],
+      "answer": null
+    },
+    {
+      "id": 14,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 14&lt;/strong&gt;: Biểu thức nào không phải là biểu thức trong Pascal?",
+      "options": [
+        "A. (a+x)*(b+y)/2",
+        "B. ( m div 5 >=2 ) hoặc ( m <=2)",
+        "C. a*sqr(x) + b*x + c = 0",
+        "D. Not (a >10)"
+      ],
+      "answer": null
+    },
+    {
+      "id": 15,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 15&lt;/strong&gt;: Phép toán nào đúng khi số nguyên A là số lẻ:",
+      "options": [
+        "A. A mod 2 = 0",
+        "B. A div 2 = 1",
+        "C. A div 2 = 0",
+        "D. A mod 2 = 1"
+      ],
+      "answer": null
+    },
+    {
+      "id": 16,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 16&lt;/strong&gt;: Biểu thức 3 div 7 có giá trị là:",
+      "options": [
+        "A. 2",
+        "B. 1",
+        "C. 0",
+        "D. 7"
+      ],
+      "answer": null
+    },
+    {
+      "id": 17,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 17&lt;/strong&gt;: Để nhập giá trị cho 2 biến a và b ta dùng lệnh:",
+      "options": [
+        "A. Write(a,b);",
+        "B. Real(a.b);",
+        "C. Read(‘a,b’);",
+        "D. Readln(a,b);"
+      ],
+      "answer": null
+    },
+    {
+      "id": 18,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 18&lt;/strong&gt;: Để đưa ra màn hình giá trị của biến a kiểu nguyên và biến b kiểu thực ta dùng lệnh:",
+      "options": [
+        "A. Write(a:8:3, b:8);",
+        "B. Readln(a,b);",
+        "C. Writeln(a:8, b:8:3);",
+        "D. Writeln(a:8:3, b:8:3);"
+      ],
+      "answer": null
+    },
+    {
+      "id": 19,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 19&lt;/strong&gt;: Để biên dịch chương trình, trong Pascal ta nhấn tổ hợp phím:",
+      "options": [
+        "A. Ctrl + F9",
+        "B. Alt + F9",
+        "C. Alt + F8",
+        "D. Shift + F9"
+      ],
+      "answer": null
+    },
+    {
+      "id": 20,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 20&lt;/strong&gt;: Cho biết kết quả sau khi thực hiện lệnh:\nBegin\na := 100;   b := 30;   x := a div b;   Write(x);\nEnd.",
+      "options": [
+        "A. 10",
+        "B. 33",
+        "C. 3",
+        "D. 1"
+      ],
+      "answer": null
+    }
+  ]
+}

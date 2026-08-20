@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-7-20-cau-trac-nghiem-toan-12-chan-troi-sang-tao-bai-2-phuong-sai-",
+  "sourceId": "vietjack:7-20-cau-trac-nghiem-toan-12-chan-troi-s",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "7.20 câu trắc nghiệm Toán 12 Chân trời sáng tạo Bài 2: Phương sai và độ lệch chuẩn của mẫu số liệu ghép nhóm (Đúng sai - Trả lời ngắn) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: TRẮC NGHIỆM NHIỀU LỰA CHỌN Mẫu số liệu ghép nhóm có độ lệch chuẩn bằng 9 thì có phương sai bằng",
+      "options": [
+        "A. 9.",
+        "B. 3.",
+        "C. 18.",
+        "D. 81."
+      ],
+      "answer": "D",
+      "note": "Phương sai của mẫu số liệu là 9 2 = 81."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Một mẫu số liệu ghép nhóm có phương sai bằng 16 thì có độ lệch chuẩn bằng bao nhiêu?",
+      "options": [
+        "A. 4.",
+        "B. 8.",
+        "C. 256.",
+        "D. 32"
+      ],
+      "answer": "A",
+      "note": "Độ lệch chuẩn của mẫu số liệu là \\(\\sqrt {16} = 4\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Khối lượng 66 quả bưởi da xanh ở lô hàng A được ghi lại ở bảng sau: Khối lượng (kg) [1,2; 1,4) [1,4; 1,6) [1,6; 1,8) [1,8; 2,0) [2,0; 2,2) [2,2; 2,4) Số quả bưởi 5 7 9 16 21 8 Khối lượng trung bình của mỗi quả bưởi gần nhất với kết quả nào dưới đây?",
+      "options": [
+        "A. 5.",
+        "B. 8.",
+        "C. 2.",
+        "D. 3."
+      ],
+      "answer": "C",
+      "note": "Khối lượng (kg) [1,2; 1,4) [1,4; 1,6) [1,6; 1,8) [1,8; 2,0) [2,0; 2,2) [2,2; 2,4) Giá trị đại diện 1,3 1,5 1,7 1,9 2,1 2,3 Số quả bưởi 5 7 9 16 21 8 Ta có \\(\\overline x = \\frac{{1,3.5 + 1,5.7 + 1,7.9 + 1,9.16 + 2,1.21 + 2,3.8}}{{5 + 7 + 9 + 16 + 21 + 8}} \\approx 2\\)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Số tiền ghi trên hóa đơn của 150 khách hàng lấy ngẫu nhiên trong một ngày của một siêu thị cho ở bảng dưới đây Số tiền (nghìn đồng) [50; 100) [100; 150) [150; 200) [200; 250) [250; 300) Tần số 6 9 39 66 30 Hãy tính độ lệch chuẩn của mẫu số liệu ghép nhóm trên",
+      "options": [
+        "A. 49,24.",
+        "B. 21,03.",
+        "C. 24,25.",
+        "D. 49,41."
+      ],
+      "answer": "A",
+      "note": "Số tiền (nghìn đồng) [50; 100) [100; 150) [150; 200) [200; 250) [250; 300) Giá trị đại diện 75 125 175 225 275 Tần số 6 9 39 66 30 Ta có \\(\\overline x = \\frac{{75.6 + 125.9 + 175.39 + 225.66 + 275.30}}{{6 + 9 + 39 + 66 + 30}} = 210\\). Phương sai: \\({s^2} = \\frac{{{{75}^2}.6 + {{125}^2}.9 + {{175}^2}.39 + {{225}^2}.66 + {{275}^2}.30}}{{6 + 9 + 39 + 66 + 30}} - {210^2} = 2425\\). Độ lệch chuẩn: \\(s = \\sqrt {2425} \\approx 49,24\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho mẫu số liệu ghép nhóm về số tiền để mua 25 cây dừa giống như sau Số tiền (nghìn đồng) [0; 10) [10; 20) [20; 30) [30; 40) [40; 50) Số cây 4 6 7 5 3 Phương sai của mẫu số liệu trên là",
+      "options": [
+        "A. 154,45.",
+        "B. 154,56.",
+        "C. 24,25",
+        "D. 66,35."
+      ],
+      "answer": "B",
+      "note": "Số tiền (nghìn đồng) [0; 10) [10; 20) [20; 30) [30; 40) [40; 50) Giá trị đại diện 5 15 25 35 45 Số cây 4 6 7 5 3 Ta có \\(\\overline x = \\frac{{5.4 + 15.6 + 25.7 + 35.5 + 45.3}}{{4 + 6 + 7 + 5 + 3}} = 23,8\\). Phương sai: \\({s^2} = \\frac{{{5^2}.4 + {{15}^2}.6 + {{25}^2}.7 + {{35}^2}.5 + {{45}^2}.3}}{{4 + 6 + 7 + 5 + 3}} - {23,8^2} = 154,56\\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Thống kê tổng số giờ nắng trong tháng 9 tại một trạm quan trắc đặt ở Thành phố Hồ Chí Minh trong các năm từ năm 2005 đến năm 2024 được thống kê như sau Số giờ nắng [80; 98) [98; 116) [116; 134) [134; 152) [152; 170) Số năm 3 6 3 5 3 Phương sai của mẫu số liệu ghép nhóm trên gần nhất với con số nào sau đây?",
+      "options": [
+        "A. 566,6.",
+        "B. 566.",
+        "C. 566,",
+        "D. 566,2."
+      ],
+      "answer": "D",
+      "note": "Số giờ nắng [80; 98) [98; 116) [116; 134) [134; 152) [152; 170) Giá trị đại diện 89 107 125 143 161 Số năm 3 6 3 5 3 \\(\\overline x = \\frac{{89.3 + 107.6 + 125.3 + 143.5 + 161.3}}{{3 + 6 + 3 + 5 + 3}} = 124,1\\). Phương sai: \\({s^2} = \\frac{{{{89}^2}.3 + {{107}^2}.6 + {{125}^2}.3 + {{143}^2}.5 + {{161}^2}.3}}{{3 + 6 + 3 + 5 + 3}} - {124,1^2} \\approx 566,2\\)."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Quãng đường đi bộ mỗi ngày (đơn vị: km) của thầy Minh trong 30 ngày được thống kê lại ở bảng sau. Quãng đường (km) [2,7; 3,0) [3,0; 3,3) [3,3; 3,6) [3,6; 3,9) [3,9; 4,2) Số ngày 5 8 7 6 4 Độ lệch chuẩn của mẫu số liệu ghép nhóm này gần nhất với con số nào sau đây?",
+      "options": [
+        "A. 0,38.",
+        "B. 0,39.",
+        "C. 0,4.",
+        "D. \\(\\frac{{2737}}{{18000}}\\) ."
+      ],
+      "answer": "B",
+      "note": "Quãng đường (km) [2,7; 3,0) [3,0; 3,3) [3,3; 3,6) [3,6; 3,9) [3,9; 4,2) Giá trị đại diện 2,85 3,15 3,45 3,75 4,05 Số ngày 5 8 7 6 4 Ta có \\(\\overline x = \\frac{{2,85.5 + 3,15.8 + 3,45.7 + 3,75.6 + 4,05.4}}{{5 + 8 + 7 + 6 + 4}} = 3,41\\). Phương sai: \\({s^2} = \\frac{{{{2,85}^2}.5 + {{3,15}^2}.8 + {{3,45}^2}.7 + {{3,75}^2}.6 + {{4,05}^2}.4}}{{5 + 8 + 7 + 6 + 4}} - {3,41^2} = 0,1484\\). Độ lệch chuẩn \\(s = \\sqrt {0,1484} \\approx 0,39\\)."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho bảng số liệu ghép nhóm về chiều cao đo được của 30 học sinh nam lớp 12A đầu năm học 2025 – 2026 của một trường THPT như sau Chiều cao (cm) [150; 155) [155; 160) [160; 165) [165; 170) [170; 175) Số học sinh 3 7 10 7 3 Tính độ lệch chuẩn của mẫu số liệu ghép nhóm",
+      "options": [
+        "A. 5,63.",
+        "B. 5,64.",
+        "C. 5,65.",
+        "D. \\(\\sqrt {71} \\) ."
+      ],
+      "answer": "A",
+      "note": "Chiều cao (cm) [150; 155) [155; 160) [160; 165) [165; 170) [170; 175) Giá trị đại diện 152,5 157,5 162,5 167,5 172,5 Số học sinh 3 7 10 7 3 Ta có \\(\\overline x = \\frac{{152,5.3 + 157,5.7 + 162,5.10 + 167,5.7 + 172,5.3}}{{3 + 7 + 10 + 7 + 3}} = 162,5\\). Phương sai: \\({s^2} = \\frac{{{{152,5}^2}.3 + {{157,5}^2}.7 + {{162,5}^2}.10 + {{167,5}^2}.7 + {{172,5}^2}.3}}{{3 + 7 + 10 + 7 + 3}} - {162,5^2} \\approx 31,67\\). Độ lệch chuẩn: \\(s = \\sqrt {31,67} \\approx 5,63\\)."
+    }
+  ]
+}

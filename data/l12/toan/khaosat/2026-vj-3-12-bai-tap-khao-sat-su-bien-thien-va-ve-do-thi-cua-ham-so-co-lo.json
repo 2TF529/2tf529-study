@@ -1,0 +1,65 @@
+{
+  "id": "2026-vj-3-12-bai-tap-khao-sat-su-bien-thien-va-ve-do-thi-cua-ham-so-co-lo",
+  "sourceId": "vietjack:3-12-bai-tap-khao-sat-su-bien-thien-va-v",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.12 bài tập Khảo sát sự biến thiên và vẽ đồ thị của hàm số có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 3: Đồ thị của hàm số y = x 3 – 3x + 2 cắt trục tung tại điểm có tung độ bằng",
+      "options": [
+        "A. 0;",
+        "B. 1;",
+        "C. 2;",
+        "D. −2."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Gọi M(x 0 ; y 0 ) là giao điểm của đồ thị hàm số với trục tung. Ta có x 0 = 0 y 0 = 2."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 4: Số giao điểm của đồ thị hàm số y = x 3 – 3x + 1 và trục hoành là",
+      "options": [
+        "A. 3;",
+        "B. 0;",
+        "C. 2;",
+        "D. 1."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Tập xác định: ℝ. Ta có: y' = 3x 2 – 3 = 3(x 2 – 1); y' = 0 x = ± 1. Bảng biến thiên Từ bảng biến thiên ta thấy đồ thị hàm số cắt trục hoành tại 3 điểm phân biệt."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 5: Cho hàm số y = (x – 3)(x 2 + 2) có đồ thị (C). Mệnh đề nào dưới đây đúng?",
+      "options": [
+        "A. (C) cắt trục hoành tại hai điểm;",
+        "B. (C) cắt trục hoành tại một điểm;",
+        "C. (C) không cắt trục hoành;",
+        "D. (C) cắt trục hoành tại ba điểm."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Phương trình hoành độ giao điểm của (C) và trục hoành là: (x – 3)(x 2 + 2) = 0 x = 3 nghĩa là (C) cắt trục hoành tại một điểm."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 6: Đồ thị hàm số y = x 3 – 3x + 2 là hình nào trong 4 hình dưới đây? Hình 1 Hình 2 Hình 3 Hình 4",
+      "options": [
+        "A. Hình 1;",
+        "B. Hình 2;",
+        "C. Hình 3;",
+        "D. Hình 4."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Vì \\(\\mathop {\\lim }\\limits_{x \\to - \\infty } \\left( {{x^3} - 3x + 2} \\right) = - \\infty \\) nên loại C và D. Đồ thị hàm số y = x 3 – 3x + 2 đi qua (−1; 4) nên chọn B."
+    }
+  ]
+}

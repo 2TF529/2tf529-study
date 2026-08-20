@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-12-canh-dieu-trinh-bay-noi-dung-theo",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-12-canh-die",
+  "grade": "l12",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 12 Cánh diều Trình bày nội dung theo dạng danh sách, bảng biểu có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Câu 1: Thẻ nào được sử dụng để tạo danh sách xác định thứ tự trong HTML?",
+      "options": [
+        "A. &lt;ul&gt;",
+        "B. &lt;ol&gt;",
+        "C. &lt;li&gt;",
+        "D. &lt;table&gt;"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Thẻ &lt;ol&gt; được sử dụng để tạo danh sách xác định thứ tự. Các mục trong danh sách này sẽ được đánh số thứ tự tự động."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Thẻ nào được sử dụng để tạo các mục nội dung trong danh sách?",
+      "options": [
+        "A. &lt;ol&gt;",
+        "B. &lt;ul&gt;",
+        "C. &lt;li&gt;",
+        "D. &lt;table&gt;"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Thẻ &lt;li&gt; được sử dụng để khai báo các mục nội dung trong danh sách, cho cả danh sách xác định thứ tự và không xác định thứ tự."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Thuộc tính nào được sử dụng để xác định thứ tự bắt đầu của danh sách xác định thứ tự?",
+      "options": [
+        "A. type",
+        "B. start",
+        "C. order",
+        "D. list"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Thuộc tính start được sử dụng để xác định số bắt đầu của danh sách xác định thứ tự, ví dụ: &lt;ol start=\"5\"&gt; sẽ bắt đầu từ số 5."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Thẻ nào được sử dụng để tạo bảng trong HTML?",
+      "options": [
+        "A. &lt;ul&gt;",
+        "B. &lt;li&gt;",
+        "C. &lt;table&gt;",
+        "D. &lt;div&gt;"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Thuộc tính start được sử dụng để xác định số bắt đầu của danh sách xác định thứ tự, ví dụ: &lt;ol start=\"5\"&gt; sẽ bắt đầu từ số 5."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Thẻ nào được sử dụng để tạo các hàng trong bảng?",
+      "options": [
+        "A. &lt;td&gt;",
+        "B. &lt;th&gt;",
+        "C. &lt;tr&gt;",
+        "D. &lt;caption&gt;"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Thẻ &lt;tr&gt; được sử dụng để khai báo các hàng trong bảng, mỗi hàng chứa một hoặc nhiều ô dữ liệu."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Thuộc tính nào trong thẻ &lt;table&gt; được sử dụng để thêm chú thích cho bảng?",
+      "options": [
+        "A. caption",
+        "B. header",
+        "C. note",
+        "D. description"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Thẻ &lt;caption&gt; được sử dụng để thêm chú thích cho bảng và phải được khai báo ngay sau thẻ mở &lt;table&gt;."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-1-trac-nghiem-dao-ham-cap-hai-lop-11-co-dap-an",
+  "sourceId": "vietjack:1-trac-nghiem-dao-ham-cap-hai-lop-11-co-",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.Trắc nghiệm Đạo hàm cấp hai lớp 11 (có đáp án)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: TRẮC NGHIỆM NHIỀU LỰA CHỌN Cho hàm số \\(y = {x^5} - 3{x^4} + x + 1\\) với \\(x \\in \\mathbb{R}\\) . Đạo hàm \\(y''\\) của hàm số là",
+      "options": [
+        "A. \\(y'' = 5{x^3} - 12{x^2} + 1\\) .",
+        "B. \\(y'' = 5{x^4} - 12{x^3}\\).",
+        "C. \\(y'' = 20{x^2} - 36{x^3}\\) .",
+        "D. \\(y'' = 20{x^3} - 36{x^2}\\) ."
+      ],
+      "answer": "D",
+      "note": "D Ta có \\(y = {x^5} - 3{x^4} + x + 1\\)\\( \\Rightarrow y' = 5{x^4} - 12{x^3} + 1 \\Rightarrow y'' = 20{x^3} - 36{x^2}\\) ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Tính đạo hàm cấp hai của hàm số \\(y = - 3\\cos x\\) tại điểm \\({x_0} = \\frac{\\pi }{2}\\) .",
+      "options": [
+        "A. \\(y''\\left( {\\frac{\\pi }{2}} \\right) = - 3\\) .",
+        "B. \\(y''\\left( {\\frac{\\pi }{2}} \\right) = 5\\).",
+        "C. \\(y''\\left( {\\frac{\\pi }{2}} \\right) = 0\\).",
+        "D. \\(y''\\left( {\\frac{\\pi }{2}} \\right) = 3\\)."
+      ],
+      "answer": "C",
+      "note": "C \\(y = - 3\\cos x\\)\\( \\Rightarrow y' = 3\\sin x;\\,y'' = 3\\cos x\\) . \\(y''\\left( {\\frac{\\pi }{2}} \\right) = 0\\) ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho hàm số \\(f\\left( x \\right) = \\,{\\left( {3x - 7} \\right)^5}\\) . Tính \\(f''\\left( 2 \\right)\\) .",
+      "options": [
+        "A. A . \\(f''\\left( 2 \\right)\\, = \\,0\\) .",
+        "B. B . \\(f''\\left( 2 \\right)\\, = \\,20\\) .",
+        "C. C . \\(f''\\left( 2 \\right)\\, = \\,\\, - 180\\) .",
+        "D. \\(f''\\left( 2 \\right)\\, = \\,\\,30\\) ."
+      ],
+      "answer": "C",
+      "note": "C \\(f\\left( x \\right) = \\,{\\left( {3x - 7} \\right)^5}\\) \\(f'\\left( x \\right)\\,\\, = \\,15{\\left( {3x - 7} \\right)^4}\\) . \\(f''\\left( x \\right) = \\,\\,180\\,{\\left( {3x - 7} \\right)^3}\\) . Vậy \\(f''\\left( 2 \\right)\\, = \\,\\, - 180\\) ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho \\(y = \\sqrt {2x - {x^2}} \\) , tính giá trị biểu thức \\(A = {y^3}.y''\\) .",
+      "options": [
+        "A. \\(1\\) .",
+        "B. \\(0\\) .",
+        "C. \\( - 1\\) .",
+        "D. Đáp án khác."
+      ],
+      "answer": "C",
+      "note": "C Ta có: \\(y' = \\frac{{1 - x}}{{\\sqrt {2x - {x^2}} }},\\,\\,\\,y'' = \\frac{{ - 1}}{{{{\\left( {\\sqrt {2x - {x^2}} } \\right)}^3}}}\\) Do đó: \\(A = {y^3}.y'' = - 1\\) ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Đạo hàm cấp hai của hàm số \\(y = \\frac{{3x + 1}}{{x + 2}}\\) là",
+      "options": [
+        "A. \\(y'' = \\frac{{10}}{{{{\\left( {x + 2} \\right)}^2}}}\\) .",
+        "B. \\(y'' = - \\frac{5}{{{{\\left( {x + 2} \\right)}^4}}}\\) .",
+        "C. \\(y'' = - \\frac{5}{{{{\\left( {x + 2} \\right)}^3}}}\\) .",
+        "D. \\(y'' = - \\frac{{10}}{{{{\\left( {x + 2} \\right)}^3}}}\\) ."
+      ],
+      "answer": "D",
+      "note": "D Ta có \\(y = 3 - \\frac{5}{{x + 2}} \\Rightarrow y' = \\frac{5}{{{{\\left( {x + 2} \\right)}^2}}};y'' = - \\frac{{10}}{{{{\\left( {x + 2} \\right)}^3}}}\\) ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Đạo hàm cấp hai của hàm số \\(y = {\\cos ^2}x\\) là",
+      "options": [
+        "A. \\(y'' = - 2\\cos 2x\\).",
+        "B. \\(y'' = - 2\\sin 2x\\).",
+        "C. \\(y'' = 2\\cos 2x\\).",
+        "D. \\(y'' = 2\\sin 2x\\)."
+      ],
+      "answer": "A",
+      "note": "A \\(y' = 2\\cos x.\\left( { - \\sin x} \\right)\\)\\( = - \\sin 2x\\)\\( \\Rightarrow y'' = - 2\\cos 2x\\) ."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Cho hàm số \\[y = {x^3} - 3{x^2} + x + 1\\] . Phương trình \\(y'' = 0\\) có nghiệm.",
+      "options": [
+        "A. \\[x = 2\\] .",
+        "B. \\[x = 4\\].",
+        "C. \\[x = 1\\].",
+        "D. \\[x = 3\\]."
+      ],
+      "answer": "C",
+      "note": "C Ta có \\[y' = 3{x^2} - 6x + 1\\] , \\[y'' = 6x - 6\\]\\[ \\Rightarrow y'' = 0\\]\\[ \\Leftrightarrow x = 1\\] ."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho hàm số \\(f\\left( x \\right) = \\frac{1}{{2x - 1}}\\) . Tính \\(f''\\left( { - 1} \\right)\\) .",
+      "options": [
+        "A. \\( - \\frac{8}{{27}}\\) .",
+        "B. \\(\\frac{2}{9}\\) .",
+        "C. \\(\\frac{8}{{27}}\\).",
+        "D. \\( - \\frac{4}{{27}}\\)."
+      ],
+      "answer": "A",
+      "note": "A \\(f'\\left( x \\right) = \\frac{{ - 2}}{{{{\\left( {2x - 1} \\right)}^2}}}\\) , \\(f''\\left( x \\right) = \\frac{8}{{{{\\left( {2x - 1} \\right)}^3}}}\\) . Khi đó \\(f''\\left( { - 1} \\right) = - \\frac{8}{{27}}\\) ."
+    }
+  ]
+}

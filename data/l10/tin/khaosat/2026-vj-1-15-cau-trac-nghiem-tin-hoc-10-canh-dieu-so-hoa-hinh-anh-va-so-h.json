@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-10-canh-dieu-so-hoa-hinh-anh-va-so-h",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-10-canh-die",
+  "grade": "l10",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 10 Cánh diều Số hóa hình ảnh và số hóa âm thanh có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Pixel là:",
+      "options": [
+        "A. Là phần tử nhỏ nhất của mỗi bức ảnh.",
+        "B. Là phần tử lớn nhất của mỗi bức ảnh.",
+        "C. Là một mảnh ghép của bức ảnh.",
+        "D. Là một bức ảnh."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Pixel là phần tử nhỏ nhất của mỗi bức hình. Mỗi pixel là một ô vuông chỉ chứa đúng 1 màu duy nhất."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Một bức ảnh có thông tin kích thước “Dimensions: 1600 ×1200”, vậy bức ảnh có số điểm ảnh là:",
+      "options": [
+        "A. 1600",
+        "B. 1 920 000",
+        "C. 1200",
+        "D. 2800"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Số điểm ảnh là tích của chiều ngang và chiều cao: 1600 × 1200 =1 920 000"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Độ phân giải điểm ảnh thể hiện bằng:",
+      "options": [
+        "A. Chiều ngang của ảnh.",
+        "B. Chiều cao của ảnh.",
+        "C. Cặp hai số điểm ảnh theo chiều ngang và chiều dọc.",
+        "D. Tích chiều ngang và chiều cao của ảnh."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Độ phân giải điểm ảnh thể hiện bằng cặp hai số điểm ảnh theo chiều ngang và chiều dọc."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Một bức ảnh khi phóng to quá mức so với kích ban đầu bị “vỡ” ảnh là do:",
+      "options": [
+        "A. Ảnh có độ phân giải thấp.",
+        "B. Ảnh có độ phân giải cao.",
+        "C. Ảnh có nhiều điểm ảnh.",
+        "D. Ảnh có nhiều pixel."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Số điểm ảnh thấp thì ảnh khi phóng to quá mức so với kích ban đầu bị “vỡ” ảnh."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Hệ màu RGB có số lượng màu là:",
+      "options": [
+        "A. 255",
+        "B. 256",
+        "C. 257",
+        "D. 16 777 216"
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Với mỗi bộ 3 số R,G,B nguyên trong khoảng [0, 255] sẽ cho ra một màu khác nhau. Do có 256 cách chọn R, 256 cách chọn màu G, 256 cách chọn B => tổng số màu có thể tạo ra bằng hệ màu RGB là: 2 8 × 2 8 × 2 8 = 16 777 216"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong hệ màu RGB giá trị cường độ của mỗi màu biến thiên từ:",
+      "options": [
+        "A. 0 đến 256",
+        "B. 0 đến 255",
+        "C. 0 đến 257",
+        "D. 0 đến 258"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Hệ màu RGB dành 1 byte để thể hiện cường độ của mỗi màu trong tổ hợp, vì vậy giá trị cường độ của mỗi màu biến thiên từ: 0 đến 255."
+    }
+  ]
+}

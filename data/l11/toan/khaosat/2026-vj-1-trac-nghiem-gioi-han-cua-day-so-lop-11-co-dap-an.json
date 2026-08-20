@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-1-trac-nghiem-gioi-han-cua-day-so-lop-11-co-dap-an",
+  "sourceId": "vietjack:1-trac-nghiem-gioi-han-cua-day-so-lop-11",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.Trắc nghiệm Giới hạn của dãy số lớp 11 (có đáp án)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Kết quả của giới hạn \\[\\mathop {{\\rm{lim}}}\\limits_{} \\left( {\\frac{{{\\rm{sin5n}}}}{{{\\rm{3n}}}} - {\\rm{2}}} \\right)\\] bằng:",
+      "options": [
+        "A. −2",
+        "B. 3",
+        "C. 0",
+        "D. Phương án D"
+      ],
+      "answer": "A",
+      "note": "Ta có \\[{\\rm{0}} \\le \\left| {\\frac{{{\\rm{sin5n}}}}{{{\\rm{3n}}}}} \\right| \\le \\frac{{\\rm{1}}}{{\\rm{n}}}\\] mà \\[\\lim \\frac{1}{{\\rm{n}}} = 0\\] Nên theo nguyên lý kẹp có: \\[{\\mathop{\\rm li}\\nolimits} {\\rm{m}}\\,\\frac{{{\\rm{sin5n}}}}{{{\\rm{3n}}}}{\\rm{ = 0}}\\] do đó \\[\\mathop {\\lim }\\limits_{} \\left( {\\frac{{{\\rm{sin5n}}}}{{{\\rm{3n}}}} - 2} \\right) = - 2\\] Đáp án cần chọn là: A"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Kết quả của giới hạn bằng:",
+      "options": [
+        "A. 2",
+        "B. 1",
+        "C. Phương án C",
+        "D. 0"
+      ],
+      "answer": "D",
+      "note": "Ta có Đáp án cần chọn là: D"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Kết quả của giới hạn bằng:",
+      "options": [
+        "A. −15",
+        "B. −10",
+        "C. 10",
+        "D. 15"
+      ],
+      "answer": "B",
+      "note": "Đáp án cần chọn là: B"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Kết quả của giới hạn bằng:",
+      "options": [
+        "A. Phương án A",
+        "B. Phương án B",
+        "C. + ∞",
+        "D. 1"
+      ],
+      "answer": "B",
+      "note": "Ta có Đáp án cần chọn là: B"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Kết quả của giới hạn bằng:",
+      "options": [
+        "A. 0",
+        "B. 2",
+        "C. 3",
+        "D. Phương án D"
+      ],
+      "answer": "D",
+      "note": "Ta có \\[{\\rm{C}}_{\\rm{n}}^{\\rm{2}}{\\rm{ < }}{{\\rm{2}}^{\\rm{n}}}\\] Khi \\[{\\rm{n}} \\to \\infty \\Rightarrow {2^{\\rm{n}}} < {3^{\\rm{n}}}\\] do đó \\[{\\rm{C}}_{\\rm{n}}^{\\rm{2}}{\\rm{ < }}{{\\rm{3}}^{\\rm{n}}} \\Rightarrow \\frac{{{\\rm{n}}\\left( {{\\rm{n}} - {\\rm{1}}} \\right)}}{{\\rm{2}}}{\\rm{ < }}{{\\rm{3}}^{\\rm{n}}}\\] Ta có lim 3 n = + ∞ 0 ≤ n 3 n ≤ n C n 2 = n n n − 1 2 lim 1 3 n = 0 = 2 n − 1 → 0 ⇒ lim n 3 n = 0 ⇒ lim 3 n = + ∞ lim 2 − n 3 n + 2 + 1 3 n = 2 > 0 \\[ \\Rightarrow \\lim \\sqrt {{{2.3}^{\\rm{n}}} - {\\rm{n}} + 2} = + \\infty \\] Đáp án cần chọn là: D"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Kết quả của giới hạn \\[\\lim \\frac{{3\\sin {\\rm{n}} + 4\\cos {\\rm{n}}}}{{{\\rm{n}} + 1}}\\] bằng:",
+      "options": [
+        "A. 1",
+        "B. 0",
+        "C. 2",
+        "D. 3"
+      ],
+      "answer": "B",
+      "note": "Ta có \\[0 \\le \\left| {\\frac{{3\\sin {\\rm{n}} + 4\\cos {\\rm{n}}}}{{{\\rm{n}} + 1}}} \\right| \\le \\left| {\\frac{{\\left( {{3^2} + {4^2}} \\right).\\left( {{{\\sin }^2}{\\rm{n}} + {{\\cos }^2}{\\rm{n}}} \\right)}}{{{\\rm{n}} + 1}}} \\right| = \\frac{5}{{{\\rm{n}} + 1}} \\to 0\\] Theo nguyên lý kẹp ta suy ra \\[\\lim \\frac{{3\\sin {\\rm{n}} + 4\\cos {\\rm{n}}}}{{{\\rm{n}} + 1}} = 0\\] Đáp án cần chọn là: B"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Chọn khẳng định đúng:",
+      "options": [
+        "A. \\[\\lim {{\\rm{u}}_{\\rm{n}}}{\\rm{ = 0}}\\] nếu \\[\\left| {{{\\rm{u}}_{\\rm{n}}}} \\right|\\] có thể nhỏ hơn môt số dương bé tùy ý, kể từ một số hạng nào đó trở đi",
+        "B. \\[\\lim {{\\rm{u}}_{\\rm{n}}}{\\rm{ = 0}}\\] nếu \\[\\left| {{{\\rm{u}}_{\\rm{n}}}} \\right|\\] có thể lớn hơn môt số dương bé tùy ý, kể từ một số hạng nào đó trở đi",
+        "C. \\[\\lim {{\\rm{u}}_{\\rm{n}}}{\\rm{ = 0}}\\] nếu u n có thể nhỏ hơn môt số dương bé tùy ý, kể từ một số hạng nào đó trở đi",
+        "D. \\[\\lim {{\\rm{u}}_{\\rm{n}}}{\\rm{ = 0}}\\] nếu u n có thể lớn hơn môt số dương bé tùy ý, kể từ một số hạng nào đó trở đi"
+      ],
+      "answer": "A",
+      "note": "Định nghĩa 1 \\[\\lim {{\\rm{u}}_{\\rm{n}}}{\\rm{ = 0}}\\] nếu \\[\\left| {{{\\rm{u}}_{\\rm{n}}}} \\right|\\] có thể nhỏ hơn môt số dương bé tùy ý, kể từ một số hạng nào đó trở đi Đáp án cần chọn là: A"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho dãy số (un) với trong đó a là tham số thực. Để dãy số có giới hạn bằng 2, giá trị của a là",
+      "options": [
+        "A. 10",
+        "B. 8",
+        "C. 6",
+        "D. 4"
+      ],
+      "answer": "A",
+      "note": "Ta có Đáp án cần chọn là: A"
+    }
+  ]
+}

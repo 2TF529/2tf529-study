@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-2-de-kiem-tra-bai-tap-cuoi-chuong-8-lop-10-co-loi-giai",
+  "sourceId": "vietjack:2-de-kiem-tra-bai-tap-cuoi-chuong-8-lop-",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.Đề kiểm tra Bài tập cuối chương 8 lớp 10 (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Một công việc được hoàn thành bởi một trong hai phương án khác nhau. Gọi tập hợp\\(A\\)là tập hợp các cách thực hiện theo phương án thứ nhất, tập hợplà tập hợp các cách thực hiện theo phương án thứ hai. Hỏi số cách thực hiện công việc bằng số phần tử của tập hợp nào dưới đây?",
+      "options": [
+        "A. B \\ A .",
+        "B. A ∩ B .",
+        "C. A \\ B .",
+        "D. A ∪ B ."
+      ],
+      "answer": "D",
+      "note": "Quy tắc cộng thực chất là quy tắc đếm số phần tử của hai tập hợp khi hai tập hợp này không giao nhau"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Giả sử An muốn mua một chiếc áo sơ mi cỡ 39 hoặc cỡ 40 . Áo cỡ 39 có 5 màu khác nhau, áo cỡ 40 có 4 màu khác nhau. Hỏi An có bao nhiêu cách mua một chiếc áo?",
+      "options": [
+        "A. 4 .",
+        "B. 5 .",
+        "C. 9 .",
+        "D. 20 ."
+      ],
+      "answer": "C",
+      "note": "Nếu chọn cỡ áo thì sẽ có\\(B\\) \\[5\\] cách. Nếu chọn cỡ áo \\[40\\] thì sẽ có \\[4\\] cách. Theo qui tắc cộng, ta có \\[5 + 4 = 9\\] cách chọn mua một chiếc áo."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Một quán phục vụ ăn sáng có bán phở, bún và bánh cuốn. Phở có 3 loại là phở bò, phở gà và phở cua. Bún có 4 loại là bún ốc, bún chả, bún thang và bún cá. Bánh cuốn có 2 loại là bánh cuốn chả và bánh cuốn nem. Một khách hàng muốn chọn một món để ăn sáng. Hỏi khách hàng đó có bao nhiêu cách lựa chọn?",
+      "options": [
+        "A. \\[3\\].",
+        "B. \\[4\\].",
+        "C. \\[9\\].",
+        "D. \\[2\\]."
+      ],
+      "answer": "C",
+      "note": "Theo quy tắc cộng, số cách chọn một món để ăn sáng là \\(3 + 4 + 2 = 9\\)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Có bao nhiêu số tự nhiên gồm 7 chữ số khác nhau và chia hết cho 5?",
+      "options": [
+        "A. 532.",
+        "B. 5040.",
+        "C. 114240.",
+        "D. 53760."
+      ],
+      "answer": "C",
+      "note": "Gọi \\(X = \\overline {{a_1}{a_2}{a_3}{a_4}{a_5}{a_6}{a_7}} \\) là số có 7 chữ số khác nhau và X chia hết cho 5. Ta có hai khả năng sau: \\( * \\)\\({a_7} = 0\\): Có \\(A_9^6\\) cách chọn và sắp xếp 6 chữ số còn lại. \\( * \\)\\({a_7} = 5\\): Có 8 cách chọn \\({a_1}\\); có \\(A_8^5\\) cách chọn và sắp xếp 5 chữ số còn lại. Vậy ta có thể lập được tất cả là \\(A_9^6 + 8A_8^5 = 114240.\\)"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Từ các chữ số \\(0,\\,1,\\,2,\\,3,\\,4,\\,5,6\\) có thể lập được bao nhiêu số tự nhiên có hai chữ số khác nhau và chia hết cho \\(3\\)?",
+      "options": [
+        "A. \\[9\\].",
+        "B. \\[10\\].",
+        "C. \\[11\\].",
+        "D. \\[12\\]."
+      ],
+      "answer": "D",
+      "note": "Số tự nhiên có hai chữ số khác nhau và chia hết cho \\(3\\) gồm những số: 12, 21, 15, 51, 24, 42, 30, 36, 63, 45, 54, 60. Như vậy có 12 số."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Từ tập \\(\\left\\{ {1;2;3;4;5} \\right\\}\\) lập được bao nhiêu số tự nhiên chẵn có hai chữ số.",
+      "options": [
+        "A. \\[5\\].",
+        "B. \\[25\\].",
+        "C. \\[8\\].",
+        "D. \\[10\\]."
+      ],
+      "answer": "D",
+      "note": "Gọi số tự nhiên thỏa mãn yêu cầu bài toán là \\(\\overline {ab} \\). Chọn \\(b\\) có 2 cách; Chọn \\(a\\) có 5 cách; Suy ra có 10 số."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Các thành phố \\(A\\), \\(B\\), \\(C\\) được nối với nhau bởi các con đường như hình vẽ. Hỏi có bao nhiêu cách đi từ thành phố\\(A\\) đến thành phố \\(C\\) mà qua thành phố \\(B\\)chỉ một lần?",
+      "options": [
+        "A. 8.",
+        "B. \\(4\\).",
+        "C. \\(12\\).",
+        "D. \\(6\\)."
+      ],
+      "answer": "A",
+      "note": "Từ thành phố\\(A\\) đến thành phố \\(B\\) có 4 cách đi; Từ thành phố\\(B\\) đến thành phố \\(C\\) có 2 cách đi; Theo quy tắc nhân có \\(4.2 = 8\\) cách đi từ thành phố\\(A\\) đến thành phố \\(C\\) mà qua thành phố \\(B\\)chỉ một lần"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Có bao nhiêu số tự nhiên có 5 chữ số?",
+      "options": [
+        "A. \\(30240\\).",
+        "B. \\(27216\\).",
+        "C. \\(59049\\).",
+        "D. \\(90000\\)."
+      ],
+      "answer": "D",
+      "note": "Ta gọi số tự nhiên gồm 5 chữ số có dạng: \\(\\overline {abcde} \\,\\) \\(a\\) có 9 cách chọn vì \\(a \\ne 0\\). Các chữ số còn lại là \\(b,\\,c,\\,d,e\\), mỗi chữ số có 10 cách chọn. Theo quy tắc nhân, ta có số các số tự nhiên gồm có \\(5\\) chữ số là: \\({9.10^4} = 90000\\) số."
+    }
+  ]
+}

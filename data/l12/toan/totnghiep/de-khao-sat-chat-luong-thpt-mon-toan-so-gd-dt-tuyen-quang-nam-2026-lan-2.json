@@ -1,0 +1,196 @@
+{
+  "id": "l12-toan-totnghiep-2026-de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-tuyen-quang-nam-2026-lan-2",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "code": "THPT_TKT_2026_TQ_02",
+  "title": "Đề khảo sát chất lượng THPT môn Toán Sở GD&ĐT Tuyên Quang năm 2026 - Lần 2",
+  "duration": 90,
+  "answerSource": "official",
+  "source": "https://dolthpt.vn/tot-nghiep-thpt/pdf-de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-tuyen-quang-nam-2026-lan-2-co-dap-an",
+  "notes": "Nội dung, đáp án và lời giải được nhập từ bản công khai của DOL THPT.",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "content": "Cho hàm số $f(x)$ liên tục trên $\\mathbb{R}$. Gọi $S$ là diện tích hình phẳng giới hạn bởi đồ thị hàm số $y=f(x)$, trục hoành và hai đường thẳng $x=-1, x=2$ (xem hình dưới). Phát biểu nào sau đây là đúng?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-tuyen-quang-nam-2026-lan-2/cau-01.webp\" alt=\"Hình minh họa câu 1\" loading=\"lazy\"></figure>",
+      "chuong": "nguyên hàm và tích phân",
+      "dang": "ứng dụng tích phân để tính diện tích hình phẳng",
+      "type": "single",
+      "options": [
+        "A. $S=\\int_{-1}^{1} f(x)dx-\\int_{1}^{2} f(x)dx$.",
+        "B. $S=-\\int_{-1}^{1} f(x)dx-\\int_{1}^{2} f(x)dx$.",
+        "C. $S=-\\int_{-1}^{1} f(x)dx+\\int_{1}^{2} f(x)dx$.",
+        "D. $S=\\int_{-1}^{1} f(x)dx+\\int_{1}^{2} f(x)dx$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Đồ thị $y=f(x)$ nằm phía trên trục hoành trên đoạn $[-1;1]$.\n- Đồ thị nằm phía dưới trục hoành trên đoạn $[1;2]$.\n❓ **Hiểu câu hỏi:**\n- Diện tích hình phẳng được tính bằng tích phân của giá trị tuyệt đối: $S=\\int |f(x)|dx$.\n🔎 **Hướng dẫn cách làm:**\n- Trên đoạn $[-1;1]$, ta có $f(x)\\geq 0$ nên phần diện tích là $\\int_{-1}^{1}f(x)dx$.\n- Trên đoạn $[1;2]$, ta có $f(x)\\leq 0$ nên phần diện tích là $-\\int_{1}^{2}f(x)dx$.\n- Suy ra $S=\\int_{-1}^{1} f(x)dx-\\int_{1}^{2} f(x)dx$.\n✅ **Đáp án:** Chọn A."
+    },
+    {
+      "id": 2,
+      "content": "Cho hình chóp $S.ABC$ có $SA$ vuông góc với mặt phẳng $(ABC)$, tam giác $ABC$ vuông tại $B$ và $AB=a, SA=a, AH$ là đường cao của tam giác $SAB$ (xem hình dưới). Khoảng cách từ điểm $A$ đến mặt phẳng $(SBC)$ bằng\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-tuyen-quang-nam-2026-lan-2/cau-02.webp\" alt=\"Hình minh họa câu 2\" loading=\"lazy\"></figure>",
+      "chuong": "quan hệ vuông góc trong không gian",
+      "dang": "khoảng cách từ một điểm đến một đường thẳng, đến một mặt phẳng",
+      "type": "single",
+      "options": [
+        "A. $\\dfrac{\\sqrt{2}a}{3}$.",
+        "B. $\\dfrac{\\sqrt{5}a}{5}$.",
+        "C. $\\dfrac{\\sqrt{2}a}{2}$.",
+        "D. $\\dfrac{2\\sqrt{5}a}{5}$."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- $SA\\perp(ABC)$, tam giác $ABC$ vuông tại $B$.\n- $AB=a$ và $SA=a$.\n❓ **Hiểu câu hỏi:**\n- Khoảng cách từ $A$ đến $(SBC)$ trong cấu hình này chính là độ dài đường cao tương ứng trong tam giác vuông $SAB$.\n🔎 **Hướng dẫn cách làm:**\n- Vì $SA\\perp AB$ và $SA=AB=a$ nên tam giác $SAB$ vuông cân tại $A$.\n- Đường cao từ $A$ đến cạnh $SB$ có độ dài $AH=\\dfrac{SA\\cdot AB}{SB}=\\dfrac{a^2}{a\\sqrt{2}}=\\dfrac{a\\sqrt{2}}{2}$.\n- Suy ra $d(A,(SBC))=\\dfrac{a\\sqrt{2}}{2}$.\n✅ **Đáp án:** Chọn C."
+    },
+    {
+      "id": 3,
+      "content": "Cho $\\int_1^2 f(x)dx=-3$ và $\\int_1^2 g(x)dx=4$. Giá trị của tích phân $\\int_1^2 [f(x)+2g(x)]dx$ bằng",
+      "chuong": "nguyên hàm và tích phân",
+      "dang": "tính chất của tích phân",
+      "type": "single",
+      "options": [
+        "A. \\$5$.",
+        "B. $-2$.",
+        "C. \\$2$.",
+        "D. \\$1$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- $\\int_1^2 f(x)dx=-3$ và $\\int_1^2 g(x)dx=4$.\n❓ **Hiểu câu hỏi:**\n- Dùng tính tuyến tính của tích phân: $\\int(f+2g)=\\int f+2\\int g$.\n🔎 **Hướng dẫn cách làm:**\n- Ta có $\\int_1^2 [f(x)+2g(x)]dx=\\int_1^2 f(x)dx+2\\int_1^2 g(x)dx$.\n- Thay số được $-3+2\\cdot 4=5$.\n✅ **Đáp án:** Chọn A."
+    },
+    {
+      "id": 4,
+      "content": "Trong không gian với hệ tọa độ $Oxyz$, cho hai điểm $A(1;2;0)$ và $B(2;3;-1)$. Mặt phẳng đi qua điểm $A$ và vuông góc với đường thẳng $AB$ có phương trình là",
+      "chuong": "phương pháp tọa độ trong không gian",
+      "dang": "lập phương trình tổng quát của mặt phẳng",
+      "type": "single",
+      "options": [
+        "A. $x+y-z-3=0$.",
+        "B. \\$2x+y-z-3=0$.",
+        "C. $x-y-z-3=0$.",
+        "D. $x+y-z+3=0$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- $A(1;2;0)$, $B(2;3;-1)$.\n- Mặt phẳng cần tìm đi qua $A$ và vuông góc với đường thẳng $AB$.\n❓ **Hiểu câu hỏi:**\n- Nếu mặt phẳng vuông góc với đường thẳng $AB$ thì $\\overrightarrow{AB}$ là một vectơ pháp tuyến của mặt phẳng.\n🔎 **Hướng dẫn cách làm:**\n- Ta có $\\overrightarrow{AB}=(1;1;-1)$.\n- Mặt phẳng qua $A(1;2;0)$ có phương trình $(x-1)+(y-2)-z=0$.\n- Rút gọn được $x+y-z-3=0$.\n✅ **Đáp án:** Chọn A."
+    },
+    {
+      "id": 5,
+      "content": "Mẫu số liệu ghép nhóm thống kê thời gian sử dụng mạng xã hội trong ngày của các học sinh tổ 1 của lớp 12A được cho như bảng. Phương sai của mẫu số liệu trên bằng\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-tuyen-quang-nam-2026-lan-2/cau-05.webp\" alt=\"Hình minh họa câu 5\" loading=\"lazy\"></figure>",
+      "chuong": "các số đặc trưng đo mức độ phân tán cho mẫu số liệu ghép nhóm",
+      "dang": "phương sai và độ lệch chuẩn",
+      "type": "single",
+      "options": [
+        "A. \\$13{,}15$.",
+        "B. \\$28{,}5$.",
+        "C. \\$162{,}75$.",
+        "D. \\$160$."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Các giá trị đại diện của các nhóm là \\$5,15,25,35,45$.\n- Tần số tương ứng là \\$4,6,12,8,10$.\n❓ **Hiểu câu hỏi:**\n- Tính số trung bình rồi dùng công thức phương sai mẫu số liệu ghép nhóm.\n🔎 **Hướng dẫn cách làm:**\n- Số trung bình là $\\bar{x}=\\dfrac{4\\cdot5+6\\cdot15+12\\cdot25+8\\cdot35+10\\cdot45}{40}=28{,}5$.\n- Phương sai là $s^2=\\dfrac{1}{40}\\sum n_i(x_i-28{,}5)^2$.\n- Tính được $s^2=162{,}75$.\n✅ **Đáp án:** Chọn C."
+    },
+    {
+      "id": 6,
+      "content": "Cho hình chóp $S.ABCD$ có $SD$ vuông góc với mặt phẳng $(ABCD)$, $ABCD$ hình chữ nhật và $AB=4a, BC=a, SD=2a$. Thể tích khối chóp $S.ABCD$ bằng",
+      "chuong": "quan hệ vuông góc trong không gian",
+      "dang": "thể tích",
+      "type": "single",
+      "options": [
+        "A. \\$3a^3$.",
+        "B. \\$8a^3$.",
+        "C. $\\dfrac{2}{3}a^3$.",
+        "D. $\\dfrac{8}{3}a^3$."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Đáy $ABCD$ là hình chữ nhật có $AB=4a, BC=a$.\n- Chiều cao khối chóp là $SD=2a$.\n❓ **Hiểu câu hỏi:**\n- Thể tích khối chóp: $V=\\dfrac{1}{3}S_{\\text{đáy}}h$.\n🔎 **Hướng dẫn cách làm:**\n- Diện tích đáy là $S_{ABCD}=AB\\cdot BC=4a^2$.\n- Thể tích là $V=\\dfrac{1}{3}\\cdot4a^2\\cdot2a=\\dfrac{8}{3}a^3$.\n✅ **Đáp án:** Chọn D."
+    },
+    {
+      "id": 7,
+      "content": "Cho cấp số cộng $(u_n)$ có $u_2=2$ và $u_3=6$. Công sai của cấp số cộng đã cho bằng",
+      "chuong": "dãy số. cấp số cộng và cấp số nhân",
+      "dang": "định nghĩa cấp số cộng",
+      "type": "single",
+      "options": [
+        "A. \\$4$.",
+        "B. \\$8$.",
+        "C. \\$12$.",
+        "D. \\$3$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cấp số cộng có $u_2=2$ và $u_3=6$.\n❓ **Hiểu câu hỏi:**\n- Công sai của cấp số cộng là $d=u_{n+1}-u_n$.\n🔎 **Hướng dẫn cách làm:**\n- Ta có $d=u_3-u_2=6-2=4$.\n✅ **Đáp án:** Chọn A."
+    },
+    {
+      "id": 8,
+      "content": "Nghiệm của phương trình $\\log_2(x+7)=5$ là",
+      "chuong": "hàm số mũ và hàm số lôgarit",
+      "dang": "phương trình lôgarit",
+      "type": "single",
+      "options": [
+        "A. $x=18$.",
+        "B. $x=25$.",
+        "C. $x=3$.",
+        "D. $x=39$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Phương trình cần giải là $\\log_2(x+7)=5$.\n❓ **Hiểu câu hỏi:**\n- Dùng định nghĩa lôgarit: $\\log_a b=c\\Leftrightarrow b=a^c$.\n🔎 **Hướng dẫn cách làm:**\n- Ta có $x+7=2^5=32$.\n- Suy ra $x=25$ và thỏa mãn điều kiện $x>-7$.\n✅ **Đáp án:** Chọn B."
+    },
+    {
+      "id": 9,
+      "content": "Trong không gian với hệ tọa độ $Oxyz$, cho điểm $A(3;-1;1)$. Hình chiếu vuông góc của điểm $A$ trên mặt phẳng $(Oyz)$ là điểm nào dưới đây?",
+      "chuong": "vectơ và hệ trục tọa độ trong không gian",
+      "dang": "tọa độ của điểm, tọa độ của vectơ trong không gian",
+      "type": "single",
+      "options": [
+        "A. $P(0;-1;0)$.",
+        "B. $N(0;-1;1)$.",
+        "C. $Q(0;0;1)$.",
+        "D. $M(3;0;0)$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Điểm $A(3;-1;1)$.\n- Mặt phẳng $(Oyz)$ có phương trình $x=0$.\n❓ **Hiểu câu hỏi:**\n- Hình chiếu của một điểm lên $(Oyz)$ giữ nguyên tung độ và cao độ, còn hoành độ bằng \\$0$.\n🔎 **Hướng dẫn cách làm:**\n- Từ $A(3;-1;1)$, thay hoành độ \\$3$ bằng \\$0$.\n- Hình chiếu là $(0;-1;1)$.\n✅ **Đáp án:** Chọn B."
+    },
+    {
+      "id": 10,
+      "content": "Cho hình hộp $ABCD.A'B'C'D'$. Tổng $\\overrightarrow{AB}+\\overrightarrow{B'C'}+\\overrightarrow{DD'}$ bằng\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-tuyen-quang-nam-2026-lan-2/cau-10.webp\" alt=\"Hình minh họa câu 10\" loading=\"lazy\"></figure>",
+      "chuong": "vectơ và hệ trục tọa độ trong không gian",
+      "dang": "tổng và hiệu của hai vectơ trong không gian",
+      "type": "single",
+      "options": [
+        "A. $\\overrightarrow{AC}$.",
+        "B. $\\overrightarrow{C'A}$.",
+        "C. $\\overrightarrow{AC'}$.",
+        "D. $\\overrightarrow{A'C}$."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Trong hình hộp, các cạnh song song và bằng nhau theo từng phương.\n- Cần tính tổng $\\overrightarrow{AB}+\\overrightarrow{B'C'}+\\overrightarrow{DD'}$.\n❓ **Hiểu câu hỏi:**\n- Dùng quy tắc cộng vectơ trong hình hộp.\n🔎 **Hướng dẫn cách làm:**\n- Ta có $\\overrightarrow{B'C'}=\\overrightarrow{AD}$ và $\\overrightarrow{DD'}=\\overrightarrow{AA'}$.\n- Do đó $\\overrightarrow{AB}+\\overrightarrow{B'C'}+\\overrightarrow{DD'}=\\overrightarrow{AB}+\\overrightarrow{AD}+\\overrightarrow{AA'}$.\n- Tổng ba vectơ theo ba cạnh xuất phát từ $A$ bằng $\\overrightarrow{AC'}$.\n✅ **Đáp án:** Chọn C."
+    },
+    {
+      "id": 11,
+      "content": "Cho hàm số $y=\\sin x$. Phát biểu nào sau đây là sai?",
+      "chuong": "hàm số lượng giác và phương trình lượng giác",
+      "dang": "hàm số chẵn, hàm số lẻ, hàm số tuần hoàn",
+      "type": "single",
+      "options": [
+        "A. Hàm số đã cho là hàm số chẵn.",
+        "B. Hàm số đã cho là hàm số tuần hoàn với chu kỳ \\$2\\pi$.",
+        "C. Hàm số đã cho có tập giá trị là đoạn $[-1;1]$.",
+        "D. Hàm số đã cho có tập xác định là $\\mathbb{R}$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số đã cho là $y=\\sin x$.\n❓ **Hiểu câu hỏi:**\n- Xét các tính chất cơ bản của hàm số sin.\n🔎 **Hướng dẫn cách làm:**\n- Hàm số $y=\\sin x$ xác định trên $\\mathbb{R}$ và có tập giá trị $[-1;1]$.\n- Hàm số $y=\\sin x$ tuần hoàn chu kỳ \\$2\\pi$.\n- Vì $\\sin(-x)=-\\sin x$ nên hàm số sin là hàm lẻ, không phải hàm chẵn.\n✅ **Đáp án:** Chọn A."
+    },
+    {
+      "id": 12,
+      "content": "Cho hàm số $f(x)$ có bảng biến thiên như hình. Giá trị cực đại của hàm số đã cho bằng\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-tuyen-quang-nam-2026-lan-2/cau-12.webp\" alt=\"Hình minh họa câu 12\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "cực trị của hàm số",
+      "type": "single",
+      "options": [
+        "A. \\$3$.",
+        "B. $-1$.",
+        "C. $-2$.",
+        "D. \\$2$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Bảng biến thiên cho thấy tại $x=2$, đạo hàm đổi dấu từ $+$ sang $-$.\n- Giá trị hàm số tại điểm đó là $f(2)=3$.\n❓ **Hiểu câu hỏi:**\n- Cực đại xuất hiện khi hàm số chuyển từ tăng sang giảm.\n🔎 **Hướng dẫn cách làm:**\n- Từ bảng biến thiên, hàm số tăng trên $(-2;2)$ rồi giảm trên $(2;+\\infty)$.\n- Do đó $x=2$ là điểm cực đại.\n- Giá trị cực đại là $f(2)=3$.\n✅ **Đáp án:** Chọn A."
+    }
+  ]
+}

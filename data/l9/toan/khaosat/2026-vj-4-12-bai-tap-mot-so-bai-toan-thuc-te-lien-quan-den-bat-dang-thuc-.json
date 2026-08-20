@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-4-12-bai-tap-mot-so-bai-toan-thuc-te-lien-quan-den-bat-dang-thuc-",
+  "sourceId": "vietjack:4-12-bai-tap-mot-so-bai-toan-thuc-te-lie",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "4.12 bài tập Một số bài toán thực tế liên quan đến bất đẳng thức có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Một tấm bìa cứng hình chữ nhật có chiều dài là 50 cm và chiều rộng là 30 cm. Bạn Linh cắt ở mỗi góc một tấm bìa hình vuông cạnh x (cm) và xếp phần còn lại thành một hình hộp không nắp. Tìm x để diện tích xung quanh của hình hộp chữ nhật sau khi cắt là lớn nhất.",
+      "options": [
+        "A. x = 800.",
+        "B. x = 100.",
+        "C. x = 10.",
+        "D. x = 8."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Diện tích tấm bìa hình chữ nhật này là: 50.30 = 1500 (cm 2 ). Chiều dài sau khi cắt tấm bìa là: 50 – 2x (cm). Chiều rộng sau khi cắt tấm bìa là: 30 – 2x (cm). Diện tích xung quanh của hộp là: 2x (50 – 2x + 30 – 2x) = 2x(80 – 4x) = −8x 2 + 160x (cm 2 ). Diện tích xung quanh của hình hộp chữ nhật sau khi cắt là lớn nhất thì −8x 2 + 160x đạt giá trị lớn nhất. Ta có: −8x 2 + 160x = −8(x 2 – 20x + 100) + 800 = −8(x – 10) 2 + 800. Nhận thấy −8(x – 10) 2 ≤ 0 nên −8(x – 10) 2 + 800 ≤ 800. Dấu “=” xảy ra khi x – 10 = 0 hay x = 10. Vậy diện tích xung quanh hình hộp chữ nhật là 800 cm 2 khi x = 10 cm."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Một cửa hàng chuyên kinh doanh máy tính tại Hà Nội. Một loại máy tính có giá nhập vào một chiếc là 18 triệu đồng và bán ra với giá 22 triệu đồng. Với giá bán như trên thì một năm số lượng máy tính bán được dự kiến 500 chiếc. Để tăng thêm lượng tiêu thụ dòng máy tính này, chủ cửa hàng dự định giảm giá bán và ước lượng cứ giảm 200 nghìn một chiếc thì số lượng máy tính bán ra trong năm sẽ tăng 50 chiếc. Vậy cửa hàng phải bán với giá bao nhiêu để sau khi giảm giá lợi nhuận thu được sẽ cao nhất?",
+      "options": [
+        "A. 21 triệu đồng.",
+        "B. 17 triệu đồng.",
+        "C. 19 triệu đồng.",
+        "D. 20 triệu đồng."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Gọi x là giá mà cửa hàng phải bán để sau khi giảm giá thu được lợi nhuận cao nhất (x > 0, triệu đồng). Theo đề, số tiền mà của hàng sẽ giảm là 22 – x (triệu đồng) mỗi chiếc. Khi đó, số lượng máy tính tăng lên là: 50(22 – x) : 0,2 = 250(22 – x) chiếc. Do đó, số lượng máy tính mà doanh nghiệp bán được là: 500 + 250(22 – x) = 6000 – 250x (chiếc) Doanh thu mà cửa hàng sẽ đạt được là: (6000 – 250x)x (triệu đồng). Tiền mà cửa hàng bỏ ra để nhập máy tính sẽ là: 18(6000 – 250x) = 108000 – 4500x (triệu đồng) Lợi nhuận mà cửa hàng thu được sau khi bán giá mới là: (6000 – 250x)x – 108000 + 4500x = −250x 2 + 10500x – 108000 (triệu đồng). Ta có: −250x 2 + 10500x – 108000 = −250(x – 21) 2 + 2250 ≤ 2250. Dấu “=” xảy ra khi −250(x – 21) 2 = 0 suy ra x – 21 = 0 khi x = 21. Vậy cửa hàng bán với giá 21 triệu đồng thì doanh thu nhận được là lớn nhất."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Một sợi dây thép AC có chiều dài 8 m được chia thành hai phần AB, AC (như hình vẽ minh họa dưới đây). Mỗi phần đều được uốn thành một hình vuông. Hỏi phải chia sợi dây ban đầu như thế nào để tổng diện tích hai hình vuông thu được sau khi uốn là nhỏ nhất?",
+      "options": [
+        "A. AB = BC = 4 m.",
+        "B. AB = 2 m, BC = 6 m.",
+        "C. AB = 3 m, BC = 5 m.",
+        "D. AB = 5 m, BC = 4 m."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Gọi cạnh hình vuông được uốn từ đoạn AB là x (0 < x < 8, m). Lúc này, độ dài đoạn AB chính là chu vi hình vuông đó và bằng 4x (m). Do đó, độ dài đoạn BC là 8 – 4x (m). Suy ra độ dài cạnh hình vuông được uốn bởi đoạn BC là \\[\\frac{{8 - 4x}}{4}\\] = 2 – x (m). Tổng diện tích hai hình vuông lúc này là x 2 + (2 – x) 2 (m 2 ). Ta có: x 2 + (2 – x) 2 = 2x 2 – 4x + 4 = 2(x 2 – 2x + 1) + 2 = 2(x – 1) 2 + 2 ≥ 2. Tổng diện tích hai hình vuông đạt giá trị nhỏ nhất bằng 2 m 2 khi x – 1 = 0 hay x = 1. Khi đó, độ dài đoạn thẳng AB = 4 m và độ dài đoạn thẳng BC = 8 – 4 = 4 m hay B là trung điểm của đoạn AC. Vậy để tổng diện tích hai hình vuông đạt giá trị lớn nhất thì ta chia đoạn dây thép thành hai phần bằng nhau AB = BC = 4 m."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Xưa kia có một vị tể tướng nổi tiếng thông thái. Đến khi tể tướng muốn cáo quan về quê, nhà vua liền ban thưởng bằng cách đưa cho tể tướng một đoạn dây dài 300 mét và nói: “Ngươi hãy căng sợi dây này thành một hình chữ nhật, sao cho hai đầu dây chạm vào nhau. Khi đó, mảnh đất hình chữ nhật sẽ thuộc về ngươi”. Hỏi tể tướng sẽ căng sợi dây như thế nào để mảnh đất có diện tích lớn nhất?",
+      "options": [
+        "A. Căng thành hình vuông với độ dài cạnh là 75 m.",
+        "B. Căng thành hình vuông với độ dài cạnh là 50 m.",
+        "C. Căng thành hình vuông với độ dài cạnh là 100 m.",
+        "D. Căng thành hình vuông với độ dài cạnh là 25 m."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A • Gọi kích thước hình chữ nhật mà tể tướng sẽ căng là x và y (0 < x, y < 150). Khi đó, ta có chu vi mảnh đất hình chữ nhật đó là 300 m, suy ra x + y = 300 : 2 = 150 (m). Diện tích của mảnh đất là S = xy (m 2 ). • Chứng minh bổ đề: \\[\\frac{{{{\\left( {x + y} \\right)}^2}}}{4} \\ge xy\\] với mọi x, y > 0. Thật vậy, với mọi x, y > 0, ta có: (x – y) 2 ≥ 0 x 2 – 2xy + y 2 ≥ 0 (x + y) 2 – 4xy ≥ 0 \\[\\frac{{{{\\left( {x + y} \\right)}^2}}}{4} \\ge xy\\]. Đẳng thức xảy ra khi x = y. Áp dụng bất đẳng thức trên, ta có: \\[S = xy \\le \\frac{{{{\\left( {x + y} \\right)}^2}}}{4}\\] Suy ra S ≤ \\[\\frac{{{{150}^2}}}{4}\\] = 5 625. Dấu “=” xảy ra khi x = y = \\[\\frac{{150}}{4}\\] = 75 m. Vậy tể tướng đó cần căng sợi dây bao quanh mảnh đất hình vuông có cạnh 75 m để mảnh đất nhận được có diện tích lớn nhất."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Bạn Nam làm một căn nhà đồ chơi bằng gỗ có phần mái là một chóp tứ giác đều. Biết các cạnh bên của mái nhà bạn Nam dùng các thanh gỗ có chiều dài 16 cm. Bạn Nam dự định dùng giấy màu để phủ kín phần mái nhà. Gọi độ dài cạnh đáy của phần mái là 2x (cm). Hỏi diện tích giấy màu cần sử dụng nhiều nhất là bao nhiêu?",
+      "options": [
+        "A. 512 cm 2 .",
+        "B. 256 cm 2 .",
+        "C. 128 cm 2 .",
+        "D. 1048 cm 2 ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Diện tích giấy màu cần sử dụng chỉnh bằng tổng diện tích bốn mặt bên là các tam giác cân có cạnh bên bằng 16 cm và cạnh đáy bằng 2x cm. Xét tam giác SBC, kẻ đường cao SH vuông với BC tại H. Do tam giác SBC cân tại S nên SH vừa là đường cao, vừa là đường trung trực. Suy ra H là trung điểm của BC. Suy ra BH = HC = \\[\\frac{{BC}}{2}\\] = x cm (0 < x < 16). Áp dụng định li Pythagore vào tam giác SHC, ta có: SH 2 + HC 2 = SC 2 SH 2 = 16 2 – x 2 SH 2 = 256 – x 2 SH = \\(\\sqrt {256 - {x^2}} \\) Diện tích tam giác SBC là \\(\\frac{1}{2}.2x.\\sqrt {256 - {x^2}} = x\\sqrt {256 - {x^2}} {\\rm{ }}\\)(cm 2 ). Diện tích giấy màu cần sử dụng là 4\\(x\\sqrt {256 - {x^2}} \\)(cm 2 ). Thực hiện tính giá trị lớn nhất của S = 4\\(x\\sqrt {256 - {x^2}} \\) với 0 < x < 16. Ta có: \\(4x\\sqrt {256 - {x^2}} = 4\\sqrt {256{x^2} - {x^4}} \\) \\( = 4\\sqrt { - \\left( {{x^4} - 2.128{x^2} + {{128}^2}} \\right) + {{128}^2}} \\) \\( = 4\\sqrt { - {{\\left( {{x^2} - 128} \\right)}^2} + {{128}^2}} \\le 4\\sqrt {{{128}^2}} = 512\\). Do đó, S ≤ 512. Dấu “=” xảy ra khi x 2 – 128 = 0 hay x = \\(8\\sqrt 2 \\) (0 < x < 16). Vậy diện tích giấy màu cần sử dụng nhiều nhất là 512 cm 2 ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Bác Sơn muốn xây một bể chứa nước có dạng hình hộp chữ nhật không nắp có thể tích bằng 72 m 3 . Đáy bể có dạng hình chữ nhật với chiều rộng là x (m), chiều dài gấp đôi chiều rộng. Bác Sơn muốn phần diện tích cần xây (bao gồm diện tích xung quanh và diện tích đáy bể) là nhỏ nhất để tiết kiệm chi phí thì x phải bằng bao nhiêu ( kết quả làm tròn đến hàng phần trăm )?",
+      "options": [
+        "A. x = 3,78 m.",
+        "B. x = 3,8 m.",
+        "C. x = 4,7 m.",
+        "D. x = 3,77 m."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Chiều dài của đáy bể là 2x (m). Diện tích đáy của bể là 2x 2 (m 2 ). Chiều cao của bể là: \\[\\frac{{72}}{{2{x^2}}} = \\frac{{36}}{{{x^2}}}\\] (m 2 ). Diện tích xung quanh của bể là 2. \\[\\frac{{36}}{{{x^2}}}\\].(x + 2x) = \\[\\frac{{216}}{x}\\] (m 2 ). Diện tích cần xây bằng tổng diện tích xung quanh và diện tích đáy của bể và bằng: \\[\\frac{{216}}{x}\\] + 2x 2 (m 2 ). Do x là chiều rộng của bể nên x > 0, áp dụng bất đẳng thức Cauchy ta có: \\(2{x^2} + \\frac{{216}}{x} = 2{x^2} + \\frac{{108}}{x} + \\frac{{108}}{x} \\ge 3\\sqrt[3]{{2{x^2} \\cdot \\frac{{108}}{x} \\cdot \\frac{{108}}{x}}}{\\rm{ }}\\) Suy ra 2x 2 + \\[\\frac{{216}}{x}\\] ≥ 3\\(\\sqrt[3]{{23328}}\\) ≈ 3,78 m. Vậy muốn diện tích cần xây là tiết kiệm chi phí nhất thì x ≈ 3,78 m."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-11-ket-noi-tri-thuc-bai-19-co-dap-an",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-11-ket-noi-",
+  "grade": "l11",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 11 Kết nối tri thức Bài 19 có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Khi tạo lập cơ sở dữ liệu mới trong MySQL, bộ mã ký tự mặc định nào thường được sử dụng?",
+      "options": [
+        "A. ASCII",
+        "B. utf8mb3",
+        "C. Unicode 2 byte",
+        "D. utf8mb4"
+      ],
+      "answer": "D",
+      "note": "Đáp án: D Giải thích: Bộ mã ký tự utf8mb4 là một phiên bản mở rộng của UTF-8, hỗ trợ đầy đủ các ký tự Unicode và thường được dùng làm bộ mã mặc định cho các cơ sở dữ liệu mới trong MySQL."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Để tạo bảng \"nhacsi\" với trường \"idNhacsi\" và \"tenNhacsi\", kiểu dữ liệu của \"idNhacsi\" là gì?",
+      "options": [
+        "A. VARCHAR",
+        "B. INT",
+        "C. TEXT",
+        "D. FLOAT"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Trường \"idNhacsi\" được khai báo với kiểu dữ liệu INT, vì nó là một trường dùng để lưu trữ các số nguyên, thường dùng làm khóa chính."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trong quá trình tạo bảng, nếu muốn trường \"idNhacsi\" tự động tăng giá trị, ta phải chọn tùy chọn nào?",
+      "options": [
+        "A. AUTO_INCREMENT",
+        "B. UNSIGNED",
+        "C. NOT NULL",
+        "D. DEFAULT"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Tùy chọn AUTO_INCREMENT cho phép giá trị của trường \"idNhacsi\" tự động tăng lên mỗi khi có bản ghi mới được thêm vào bảng."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Để thiết lập trường \"idNhacsi\" làm khóa chính, ta phải thực hiện thao tác nào?",
+      "options": [
+        "A. Chọn AUTO_INCREMENT",
+        "B. Chọn khóa ngoại",
+        "C. Chọn PRIMARY trong phần Create new index",
+        "D. Chọn VARCHAR"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Để ấn định một trường làm khóa chính, ta phải nhấp chuột phải vào trường đó và chọn tùy chọn PRIMARY trong phần Create new index."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Nếu vô tình chọn sai trường làm khóa chính, cách nào sau đây đúng để sửa lại?",
+      "options": [
+        "A. Xóa bảng và tạo lại",
+        "B. Nhấp chuột phải vào trường sai và chọn Delete column",
+        "C. Nhấp đúp chuột vào trường sai và sửa lại khóa chính",
+        "D. Đặt trường sai làm khóa ngoại"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Khi chọn sai trường làm khóa chính, ta có thể nhấp đúp vào trường đó và sửa lại bằng cách chọn đúng trường cần làm khóa chính."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Sau khi hoàn tất việc khai báo bảng, bước cuối cùng để lưu bảng là gì?",
+      "options": [
+        "A. Đóng cửa sổ tạo bảng",
+        "B. Nhấn nút Lưu",
+        "C. Chọn Export",
+        "D. Chọn Commit"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Sau khi tạo bảng, bước cuối cùng để lưu bảng là nhấn nút Lưu, sau đó bảng sẽ xuất hiện trong danh sách các bảng của cơ sở dữ liệu."
+    }
+  ]
+}

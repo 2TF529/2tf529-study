@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-6-12-bai-tap-tim-gia-tri-lon-nhat-gia-tri-nho-nhat-cua-bieu-thuc-",
+  "sourceId": "vietjack:6-12-bai-tap-tim-gia-tri-lon-nhat-gia-tr",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "6.12 bài tập Tìm giá trị lớn nhất, giá trị nhỏ nhất của biểu thức chứa căn bậc hai có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Giá trị nhỏ nhất của biểu thức \\(A = \\frac{{x + 2}}{{\\sqrt x }}\\) (x > 0) là",
+      "options": [
+        "A. \\(2\\sqrt 2 \\).",
+        "B. 4.",
+        "C. 2.",
+        "D. \\(\\sqrt 2 \\)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có: \\(A = \\frac{{x + 2}}{{\\sqrt x }} = \\sqrt x + \\frac{2}{{\\sqrt x }}\\). Với x > 0, áp dụng bất đẳng thức Cauchy, ta có: \\(\\sqrt x + \\frac{2}{{\\sqrt x }} \\ge 2\\sqrt {\\sqrt x \\frac{2}{{\\sqrt x }}} = 2\\sqrt 2 \\). Dấu “=” xảy ra khi \\(\\sqrt x = \\frac{2}{{\\sqrt x }}\\) hay x = 2. Vậy GTNN của A = \\(2\\sqrt 2 \\) khi x = 2."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Giá trị lớn nhất của biểu thức \\(B = \\frac{{2\\sqrt x + 9}}{{\\sqrt x + 2}}\\) (x ≥ 0) là",
+      "options": [
+        "A. \\(\\frac{9}{2}\\).",
+        "B. \\( - \\frac{9}{2}\\).",
+        "C. 0.",
+        "D. 1."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có: \\(B = \\frac{{2\\sqrt x + 9}}{{\\sqrt x + 2}} = 2 + \\frac{5}{{\\sqrt x + 2}}\\). Với x ≥ 0, ta có: \\(\\sqrt x + 2 \\ge 2\\) suy ra \\(\\frac{5}{{\\sqrt x + 2}} \\le \\frac{5}{2}\\). Do đó, 2 + \\(\\frac{5}{{\\sqrt x + 2}} \\le \\frac{5}{2} + 2\\) hay B ≤ \\(\\frac{9}{2}\\). Dấu “=” xảy ra khi x = 0. Vật GTLN của B = \\(\\frac{9}{2}\\) khi x = 0."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Biểu thức \\(C = \\frac{{2\\sqrt x + 11}}{{3\\sqrt x + 2}}\\) đạt giá trị lớn nhất tại x bằng:",
+      "options": [
+        "A. \\(\\frac{{11}}{2}\\).",
+        "B. \\( - \\frac{{11}}{2}\\).",
+        "C. 0.",
+        "D. 1."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Điều kiện: x ≥ 0. Ta có: \\(C = \\frac{{2\\sqrt x + 11}}{{3\\sqrt x + 2}} = \\frac{{2\\left( {\\sqrt x + \\frac{2}{3}} \\right) + \\frac{{29}}{3}}}{{3\\left( {\\sqrt x + \\frac{2}{3}} \\right)}} = \\frac{2}{3} + \\frac{{29}}{{3\\left( {3\\sqrt x + 2} \\right)}}\\). Với x ≥ 0, ta có: \\(3\\sqrt x + 2 \\ge 2\\) suy ra \\(3\\left( {3\\sqrt x + 2} \\right) \\ge 6\\). Do đó, \\(\\frac{{29}}{{3\\left( {3\\sqrt x + 2} \\right)}} \\le \\frac{{29}}{6}\\) . Suy ra \\(\\frac{2}{3} + \\frac{{29}}{{3\\left( {3\\sqrt x + 2} \\right)}} \\le \\frac{{11}}{2}\\) hay C ≤ \\(\\frac{{11}}{2}\\). Dấu “=” xảy ra khi x = 0. Vậy GTLN của C = \\(\\frac{{11}}{2}\\) khi x = 0."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Biểu thức \\(D = \\frac{{x - \\sqrt x + 1}}{x}\\) đạt giá trị nhỏ nhất tại x bằng:",
+      "options": [
+        "A. \\(\\frac{3}{4}\\).",
+        "B. 4.",
+        "C. \\(\\frac{1}{4}.\\)",
+        "D. 2."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Điều kiện xác định: x > 0. Ta có: \\(D = \\frac{{x - \\sqrt x + 1}}{x} = 1 - \\frac{1}{{\\sqrt x }} + \\frac{1}{x} = \\frac{3}{4} + \\frac{1}{4} - 2.\\frac{1}{2}\\frac{1}{{\\sqrt x }} + \\frac{1}{x} = \\frac{3}{4} + {\\left( {\\frac{1}{2} - \\frac{1}{{\\sqrt x }}} \\right)^2}\\). Nhận thấy \\({\\left( {\\frac{1}{2} - \\frac{1}{{\\sqrt x }}} \\right)^2} \\ge 0\\) nên \\(\\frac{3}{4} + {\\left( {\\frac{1}{2} - \\frac{1}{{\\sqrt x }}} \\right)^2} \\ge \\frac{3}{4}\\) hay D \\( \\ge \\frac{3}{4}\\). Dấu “=” xảy ra khi \\(\\frac{1}{2} - \\frac{1}{{\\sqrt x }} = 0\\) suy ra \\(\\sqrt x = 2\\) khi x = 4. Vậy GTNN của của D = \\(\\frac{3}{4}\\) khi x = 4."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho biểu thức \\(D = \\left( {\\frac{{\\sqrt x - 2}}{{x - 1}} - \\frac{{\\sqrt x + 2}}{{x + 2\\sqrt x + 1}}} \\right).\\frac{{{{\\left( {1 - x} \\right)}^2}}}{2}\\) với x ≥ 0, x ≠ 1. Giá trị lớn nhất của D là:",
+      "options": [
+        "A. \\(\\frac{1}{4}\\).",
+        "B. \\( - \\frac{1}{4}\\).",
+        "C. \\(\\frac{1}{2}\\).",
+        "D. 1."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Với x ≥ 0, x ≠ 1, ta có: \\(D = \\left( {\\frac{{\\sqrt x - 2}}{{x - 1}} - \\frac{{\\sqrt x + 2}}{{x + 2\\sqrt x + 1}}} \\right).\\frac{{{{\\left( {1 - x} \\right)}^2}}}{2}\\) \\(D = \\left[ {\\frac{{\\left( {\\sqrt x - 2} \\right){{\\left( {\\sqrt x + 1} \\right)}^2}}}{{\\left( {x - 1} \\right){{\\left( {\\sqrt x + 1} \\right)}^2}}} - \\frac{{\\left( {\\sqrt x + 2} \\right)\\left( {x - 1} \\right)}}{{\\left( {x - 1} \\right){{\\left( {\\sqrt x + 1} \\right)}^2}}}} \\right].\\frac{{{{\\left( {1 - x} \\right)}^2}}}{2}\\) \\(D = \\left[ {\\frac{{\\left( {\\sqrt x - 2} \\right){{\\left( {\\sqrt x + 1} \\right)}^2} - \\left( {\\sqrt x + 2} \\right)\\left( {x - 1} \\right)}}{{\\left( {x - 1} \\right){{\\left( {\\sqrt x + 1} \\right)}^2}}}} \\right].\\frac{{{{\\left( {1 - x} \\right)}^2}}}{2}\\) \\(D = \\frac{{\\left[ {x\\sqrt x + 2x + \\sqrt x - 2x - 4\\sqrt x - 2 - x\\sqrt x + \\sqrt x - 2x + 2} \\right]}}{{{{\\left( {\\sqrt x + 1} \\right)}^2}}}.\\frac{{\\left( {x - 1} \\right)}}{2}\\) \\(D = \\frac{{\\left( { - 2x - 2\\sqrt x } \\right)}}{{{{\\left( {\\sqrt x + 1} \\right)}^2}}}.\\frac{{\\left( {x - 1} \\right)}}{2} = \\frac{{ - 2\\sqrt x \\left( {\\sqrt x + 1} \\right)}}{{{{\\left( {\\sqrt x + 1} \\right)}^2}}}.\\frac{{\\left( {\\sqrt x - 1} \\right)\\left( {\\sqrt x + 1} \\right)}}{2} = - \\sqrt x \\left( {\\sqrt x - 1} \\right)\\). Ta có: \\(D = - \\sqrt x \\left( {\\sqrt x - 1} \\right) = - x + \\sqrt x = - x + 2.\\frac{1}{2}\\sqrt x - \\frac{1}{4} + \\frac{1}{4} = - {\\left( {\\sqrt x - \\frac{1}{2}} \\right)^2} + \\frac{1}{4}\\). Nhận thấy \\( - {\\left( {\\sqrt x - \\frac{1}{2}} \\right)^2} \\le 0\\) nên \\( - {\\left( {\\sqrt x - \\frac{1}{2}} \\right)^2} + \\frac{1}{4} \\le \\frac{1}{4}\\). Dấu “=” xảy ra khi x = \\(\\frac{1}{4}\\). Vậy GTLN của D = \\(\\frac{1}{4}\\) khi x = \\(\\frac{1}{4}\\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho biểu thức \\(A = \\frac{{\\sqrt x }}{{\\sqrt x - 1}} + \\frac{{\\sqrt x }}{{x - 1}}\\) và \\(B = \\frac{{\\sqrt x + 2}}{{x + \\sqrt x }}\\) với x > 0 và x ≠ 1. Tính giá trị nhỏ nhất của \\(P = \\frac{A}{B} + 2018\\) khi x > 1",
+      "options": [
+        "A. 4.",
+        "B. 2020.",
+        "C. 2018.",
+        "D. 2022."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Với x > 0 và x ≠ 1, ta có: \\(A = \\frac{{\\sqrt x }}{{\\sqrt x - 1}} + \\frac{{\\sqrt x }}{{x - 1}} = \\frac{{\\sqrt x \\left( {\\sqrt x + 1} \\right)}}{{\\left( {\\sqrt x - 1} \\right)\\left( {\\sqrt x + 1} \\right)}} + \\frac{{\\sqrt x }}{{\\left( {\\sqrt x - 1} \\right)\\left( {\\sqrt x + 1} \\right)}} = \\frac{{x + 2\\sqrt x }}{{\\left( {\\sqrt x - 1} \\right)\\left( {\\sqrt x + 1} \\right)}}\\). Có: \\(P = \\frac{A}{B} + 2018\\) với x > 1. \\( = \\frac{{x + 2\\sqrt x }}{{\\left( {\\sqrt x - 1} \\right)\\left( {\\sqrt x + 1} \\right)}}:\\frac{{\\sqrt x + 2}}{{x + \\sqrt x }} + 2018\\) \\( = \\frac{{\\sqrt x \\left( {\\sqrt x + 2} \\right)}}{{\\left( {\\sqrt x - 1} \\right)\\left( {\\sqrt x + 1} \\right)}}.\\frac{{\\sqrt x \\left( {\\sqrt x + 1} \\right)}}{{\\sqrt x + 2}} + 2018\\) \\( = \\frac{x}{{\\sqrt x - 1}} + 2018\\) \\( = \\frac{{x - 1}}{{\\sqrt x - 1}} + \\frac{1}{{\\sqrt x - 1}} + 2018\\) \\( = \\sqrt x + 1 + \\frac{1}{{\\sqrt x - 1}} + 2018\\) \\( = \\sqrt x - 1 + \\frac{1}{{\\sqrt x - 1}} + 2020\\) Với x > 1, áp dụng bất đẳng thức Cauchy, ta có: \\(\\sqrt x - 1 + \\frac{1}{{\\sqrt x - 1}} \\ge 2\\sqrt {\\left( {\\sqrt x - 1} \\right).\\frac{1}{{\\sqrt x - 1}}} = 2\\) Suy ra \\(\\sqrt x - 1 + \\frac{1}{{\\sqrt x - 1}} + 2020 \\ge 2022\\). Dấu “=” xảy ra khi \\(\\sqrt x - 1 = \\frac{1}{{\\sqrt x - 1}}\\) hay x = 4 (do x > 1). Vậy GTNN của P = 2022 khi x = 4."
+    }
+  ]
+}

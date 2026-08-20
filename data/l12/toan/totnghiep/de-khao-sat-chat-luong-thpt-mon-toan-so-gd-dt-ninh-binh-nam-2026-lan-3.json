@@ -1,0 +1,196 @@
+{
+  "id": "l12-toan-totnghiep-2026-de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-ninh-binh-nam-2026-lan-3",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "code": "THPT_TKT_2026_NB_03",
+  "title": "Đề khảo sát chất lượng THPT môn Toán Sở GD&ĐT Ninh Bình năm 2026 - Lần 3",
+  "duration": 90,
+  "answerSource": "official",
+  "source": "https://dolthpt.vn/tot-nghiep-thpt/pdf-de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-ninh-binh-nam-2026-lan-3-co-dap-an",
+  "notes": "Nội dung, đáp án và lời giải được nhập từ bản công khai của DOL THPT.",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "content": "Hàm số $F(x)=\\ln x$ là nguyên hàm của hàm số nào dưới đây trên khoảng $(0;+\\infty)$?",
+      "chuong": "nguyên hàm và tích phân",
+      "dang": "nguyên hàm của một hàm số",
+      "type": "single",
+      "options": [
+        "A. $f(x)=2026-\\dfrac{1}{x}$.",
+        "B. $f(x)=-\\dfrac{1}{x}$.",
+        "C. $f(x)=\\dfrac{1}{x}$.",
+        "D. $f(x)=2026+\\dfrac{1}{x}$."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- $F(x)=\\ln x$ trên khoảng $(0;+\\infty)$.\n❓ **Hiểu câu hỏi:**\n- Một hàm số $F(x)$ là nguyên hàm của $f(x)$ khi $F'(x)=f(x)$ trên khoảng đang xét.\n🔎 **Hướng dẫn cách làm:**\n- Lấy đạo hàm: $F'(x)=(\\ln x)'=\\dfrac{1}{x}$.\n- Vậy hàm số cần tìm là $f(x)=\\dfrac{1}{x}$.\n✅ **Đáp án:** Chọn C."
+    },
+    {
+      "id": 2,
+      "content": "Nghiệm của phương trình $\\cot(3x-45^\\circ)=\\dfrac{\\sqrt{3}}{3}$ là",
+      "chuong": "hàm số lượng giác và phương trình lượng giác",
+      "dang": "phương trình cotx=m",
+      "type": "single",
+      "options": [
+        "A. $x=25^\\circ+180^\\circ k, k\\in\\mathbb Z$.",
+        "B. $x=35^\\circ+60^\\circ k, k\\in\\mathbb Z$.",
+        "C. $x=30^\\circ+60^\\circ k, k\\in\\mathbb Z$.",
+        "D. $x=60^\\circ+180^\\circ k, k\\in\\mathbb Z$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Phương trình cần giải là $\\cot(3x-45^\\circ)=\\dfrac{\\sqrt3}{3}$.\n❓ **Hiểu câu hỏi:**\n- Đặt $u=3x-45^\\circ$, đưa phương trình về dạng lượng giác cơ bản rồi giải theo $x$.\n🔎 **Hướng dẫn cách làm:**\n- Vì $\\cot 60^\\circ=\\dfrac{\\sqrt3}{3}$ nên $u=60^\\circ+180^\\circ k,\\ k\\in\\mathbb Z$.\n- Suy ra \\$3x-45^\\circ=60^\\circ+180^\\circ k$.\n- Do đó \\$3x=105^\\circ+180^\\circ k$, nên $x=35^\\circ+60^\\circ k,\\ k\\in\\mathbb Z$.\n✅ **Đáp án:** Chọn B."
+    },
+    {
+      "id": 3,
+      "content": "Cho hàm số $f(x)$ liên tục trên đoạn $[a;b]$. Biết $\\int_a^b f(x)\\,dx=2026$, giá trị của $\\int_b^a 2f(x)\\,dx$ là",
+      "chuong": "nguyên hàm và tích phân",
+      "dang": "tính chất của tích phân",
+      "type": "single",
+      "options": [
+        "A. $-4052$.",
+        "B. \\$4052$.",
+        "C. \\$1013$.",
+        "D. $-1013$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- $\\int_a^b f(x)\\,dx=2026$.\n- Cần tính $\\int_b^a 2f(x)\\,dx$.\n❓ **Hiểu câu hỏi:**\n- Dùng tính chất đổi cận của tích phân và đưa hằng số ra ngoài dấu tích phân.\n🔎 **Hướng dẫn cách làm:**\n- Ta có $\\int_b^a 2f(x)\\,dx=2\\int_b^a f(x)\\,dx$.\n- Khi đổi cận: $\\int_b^a f(x)\\,dx=-\\int_a^b f(x)\\,dx=-2026$.\n- Vậy $\\int_b^a 2f(x)\\,dx=2\\cdot(-2026)=-4052$.\n✅ **Đáp án:** Chọn A."
+    },
+    {
+      "id": 4,
+      "content": "Nghiệm của phương trình $\\log_4(x-1)=3$ là",
+      "chuong": "hàm số mũ và hàm số lôgarit",
+      "dang": "phương trình lôgarit",
+      "type": "single",
+      "options": [
+        "A. $x=68$.",
+        "B. $x=65$.",
+        "C. $x=66$.",
+        "D. $x=63$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Phương trình $\\log_4(x-1)=3$.\n- Điều kiện: $x-1>0$, tức là $x>1$.\n❓ **Hiểu câu hỏi:**\n- Chuyển phương trình lôgarit sang dạng mũ rồi tìm $x$.\n🔎 **Hướng dẫn cách làm:**\n- Từ $\\log_4(x-1)=3$ suy ra $x-1=4^3=64$.\n- Do đó $x=65$, thỏa mãn điều kiện $x>1$.\n✅ **Đáp án:** Chọn B."
+    },
+    {
+      "id": 5,
+      "content": "Cho hàm số $y=f(x)$ liên tục trên đoạn $[-1;5]$ và có đồ thị như hình vẽ. Gọi $M$ và $m$ lần lượt là giá trị lớn nhất và nhỏ nhất của hàm số đã cho trên $[-1;5]$. Giá trị của $M-m$ bằng\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-ninh-binh-nam-2026-lan-3/cau-05.webp\" alt=\"Hình minh họa câu 5\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "cách tìm giá trị lớn nhất và giá trị nhỏ nhất của hàm số trên một đoạn",
+      "type": "single",
+      "options": [
+        "A. \\$1$.",
+        "B. \\$4$.",
+        "C. \\$6$.",
+        "D. \\$5$."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số liên tục trên đoạn $[-1;5]$ và có đồ thị trong đề.\n- Cần tìm hiệu giữa giá trị lớn nhất $M$ và giá trị nhỏ nhất $m$ trên đoạn đó.\n❓ **Hiểu câu hỏi:**\n- Đọc giá trị cao nhất và thấp nhất của đồ thị trên đoạn $[-1;5]$.\n🔎 **Hướng dẫn cách làm:**\n- Từ đồ thị, giá trị lớn nhất là $M=3$.\n- Giá trị nhỏ nhất là $m=-2$.\n- Vậy $M-m=3-(-2)=5$.\n✅ **Đáp án:** Chọn D."
+    },
+    {
+      "id": 6,
+      "content": "Trong không gian với hệ trục tọa độ $Oxyz$, cho đường thẳng $d:\\dfrac{x-3}{2}=\\dfrac{4-y}{5}=\\dfrac{z+1}{3}$. Vectơ nào dưới đây là một vectơ chỉ phương của $d$?",
+      "chuong": "phương pháp tọa độ trong không gian",
+      "dang": "phương trình đường thẳng",
+      "type": "single",
+      "options": [
+        "A. $\\vec u_2=(2;4;-1)$.",
+        "B. $\\vec u_1=(2;5;3)$.",
+        "C. $\\vec u_4=(3;4;-1)$.",
+        "D. $\\vec u_3=(2;-5;3)$."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Đường thẳng $d:\\dfrac{x-3}{2}=\\dfrac{4-y}{5}=\\dfrac{z+1}{3}$.\n❓ **Hiểu câu hỏi:**\n- Đưa phương trình đối xứng về tham số để đọc vectơ chỉ phương.\n🔎 **Hướng dẫn cách làm:**\n- Đặt $\\dfrac{x-3}{2}=\\dfrac{4-y}{5}=\\dfrac{z+1}{3}=t$.\n- Khi đó $x=3+2t,\\ y=4-5t,\\ z=-1+3t$.\n- Vectơ chỉ phương của $d$ là $(2;-5;3)$.\n✅ **Đáp án:** Chọn D."
+    },
+    {
+      "id": 7,
+      "content": "Cho cấp số nhân $(u_n)$ có $u_1=-2$ và công bội $q=3$. Số hạng $u_2$ là",
+      "chuong": "dãy số. cấp số cộng và cấp số nhân",
+      "dang": "số hạng tổng quát của cấp số nhân",
+      "type": "single",
+      "options": [
+        "A. $u_2=-18$.",
+        "B. $u_2=6$.",
+        "C. $u_2=1$.",
+        "D. $u_2=-6$."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cấp số nhân có $u_1=-2$ và công bội $q=3$.\n❓ **Hiểu câu hỏi:**\n- Trong cấp số nhân, số hạng sau bằng số hạng trước nhân với công bội.\n🔎 **Hướng dẫn cách làm:**\n- Ta có $u_2=u_1q=(-2)\\cdot3=-6$.\n✅ **Đáp án:** Chọn D."
+    },
+    {
+      "id": 8,
+      "content": "Cho hình chóp $S.ABCD$ có cạnh bên $SA$ vuông góc với mặt phẳng đáy $(ABCD)$. Hình chiếu của đường thẳng $SC$ trên mặt phẳng $(ABCD)$ là đường thẳng",
+      "chuong": "quan hệ vuông góc trong không gian",
+      "dang": "phép chiếu vuông góc",
+      "type": "single",
+      "options": [
+        "A. $SB$.",
+        "B. $AB$.",
+        "C. $AC$.",
+        "D. $SA$."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hình chóp $S.ABCD$ có $SA\\perp(ABCD)$.\n- Cần tìm hình chiếu của đường thẳng $SC$ lên mặt phẳng đáy $(ABCD)$.\n❓ **Hiểu câu hỏi:**\n- Hình chiếu của một đường thẳng được xác định bởi hình chiếu của hai điểm thuộc đường thẳng đó.\n🔎 **Hướng dẫn cách làm:**\n- Vì $SA\\perp(ABCD)$ nên hình chiếu của $S$ lên $(ABCD)$ là $A$.\n- Điểm $C$ đã nằm trên $(ABCD)$ nên hình chiếu của $C$ vẫn là $C$.\n- Do đó hình chiếu của $SC$ lên $(ABCD)$ là đường thẳng $AC$.\n✅ **Đáp án:** Chọn C."
+    },
+    {
+      "id": 9,
+      "content": "Tại một hội thảo quốc tế có \\$50$ nhà khoa học, trong đó có \\$31$ người thành thạo tiếng Anh, \\$21$ người thành thạo tiếng Pháp và \\$5$ người thành thạo cả tiếng Anh và tiếng Pháp. Chọn ngẫu nhiên một người trong hội thảo. Xác suất để người được chọn thành thạo ít nhất một trong hai thứ tiếng Anh hoặc Pháp là",
+      "chuong": "các quy tắc tính xác suất",
+      "dang": "biến cố hợp",
+      "type": "single",
+      "options": [
+        "A. $\\dfrac{47}{50}$.",
+        "B. $\\dfrac{52}{50}$.",
+        "C. $\\dfrac{36}{50}$.",
+        "D. $\\dfrac{57}{50}$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Có \\$50$ nhà khoa học.\n- \\$31$ người thành thạo tiếng Anh, \\$21$ người thành thạo tiếng Pháp, \\$5$ người thành thạo cả hai thứ tiếng.\n❓ **Hiểu câu hỏi:**\n- Cần tính xác suất của biến cố người được chọn thành thạo ít nhất một trong hai thứ tiếng, tức là biến cố hợp.\n🔎 **Hướng dẫn cách làm:**\n- Số người thành thạo ít nhất một trong hai thứ tiếng là \\$31+21-5=47$.\n- Chọn ngẫu nhiên một người trong \\$50$ người nên xác suất là $\\dfrac{47}{50}$.\n✅ **Đáp án:** Chọn A."
+    },
+    {
+      "id": 10,
+      "content": "Trong không gian với hệ trục toạ độ $Oxyz$, phương trình nào dưới đây là phương trình của một mặt cầu?",
+      "chuong": "phương pháp tọa độ trong không gian",
+      "dang": "phương trình mặt cầu",
+      "type": "single",
+      "options": [
+        "A. $x^2+y^2-z^2-4x+2y+2z-3=0$.",
+        "B. $x^2+2y^2+z^2-4x+2y+2z-10=0$.",
+        "C. $x^2+y^2+z^2-4x+2y+2z-2=0$.",
+        "D. $x^2+y^2+z^2-4xy+2y+2z+8=0$."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cần nhận ra phương trình có dạng mặt cầu trong không gian $Oxyz$.\n❓ **Hiểu câu hỏi:**\n- Phương trình mặt cầu có hệ số của $x^2,y^2,z^2$ bằng nhau, cùng dấu, không có hạng tử tích chéo, và bán kính bình phương dương.\n🔎 **Hướng dẫn cách làm:**\n- Phương án A có hạng tử $-z^2$ nên không phải dạng mặt cầu.\n- Phương án B có hệ số của $y^2$ khác hệ số của $x^2,z^2$ nên không phải dạng mặt cầu.\n- Phương án D có hạng tử tích chéo $xy$ nên không phải dạng mặt cầu.\n- Phương án C: $x^2+y^2+z^2-4x+2y+2z-2=0$.\n- Hoàn thành bình phương: $(x-2)^2+(y+1)^2+(z+1)^2=8$, là phương trình mặt cầu.\n✅ **Đáp án:** Chọn C."
+    },
+    {
+      "id": 11,
+      "content": "Trong không gian với hệ trục tọa độ $Oxyz$, cho hai vectơ $\\vec a=(5;3;-2)$ và $\\vec b=2\\vec i+3\\vec k-\\vec j$. Tìm tọa độ của vectơ $\\vec u=2\\vec a+3\\vec b$.",
+      "chuong": "vectơ và hệ trục tọa độ trong không gian",
+      "dang": "tổng và hiệu của hai vectơ trong không gian",
+      "type": "single",
+      "options": [
+        "A. $\\vec u=(10;6;-4)$.",
+        "B. $\\vec u=(16;3;5)$.",
+        "C. $\\vec u=(16;15;-7)$.",
+        "D. $\\vec u=(10;-3;-6)$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- $\\vec a=(5;3;-2)$.\n- $\\vec b=2\\vec i+3\\vec k-\\vec j=(2;-1;3)$.\n- Cần tìm $\\vec u=2\\vec a+3\\vec b$.\n❓ **Hiểu câu hỏi:**\n- Nhân vectơ với số rồi cộng theo từng tọa độ.\n🔎 **Hướng dẫn cách làm:**\n- \\$2\\vec a=2(5;3;-2)=(10;6;-4)$.\n- \\$3\\vec b=3(2;-1;3)=(6;-3;9)$.\n- Vậy $\\vec u=(10;6;-4)+(6;-3;9)=(16;3;5)$.\n✅ **Đáp án:** Chọn B."
+    },
+    {
+      "id": 12,
+      "content": "Cho hàm số $y=f(x)$ liên tục trên $\\mathbb R$ và có bảng xét dấu của đạo hàm như bảng. Số điểm cực đại của hàm số đã cho là\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-ninh-binh-nam-2026-lan-3/cau-12.webp\" alt=\"Hình minh họa câu 12\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "cực trị của hàm số",
+      "type": "single",
+      "options": [
+        "A. \\$2$.",
+        "B. \\$5$.",
+        "C. \\$4$.",
+        "D. \\$3$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Dấu của $y'$ theo thứ tự là $- ,0,+,0,-,0,+,0,-$ qua các mốc $-3,-2,3,5$.\n❓ **Hiểu câu hỏi:**\n- Điểm cực đại xuất hiện khi đạo hàm đổi dấu từ dương sang âm.\n🔎 **Hướng dẫn cách làm:**\n- Tại $x=-3$, $y'$ đổi dấu từ âm sang dương nên đó là điểm cực tiểu.\n- Tại $x=-2$, $y'$ đổi dấu từ dương sang âm nên đó là điểm cực đại.\n- Tại $x=3$, $y'$ đổi dấu từ âm sang dương nên đó là điểm cực tiểu.\n- Tại $x=5$, $y'$ đổi dấu từ dương sang âm nên đó là điểm cực đại.\n- Vậy hàm số có \\$2$ điểm cực đại.\n✅ **Đáp án:** Chọn A."
+    }
+  ]
+}

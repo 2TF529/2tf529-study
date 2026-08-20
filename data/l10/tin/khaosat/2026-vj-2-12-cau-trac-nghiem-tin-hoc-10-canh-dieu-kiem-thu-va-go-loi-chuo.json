@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-12-cau-trac-nghiem-tin-hoc-10-canh-dieu-kiem-thu-va-go-loi-chuo",
+  "sourceId": "vietjack:2-12-cau-trac-nghiem-tin-hoc-10-canh-die",
+  "grade": "l10",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.12 câu Trắc nghiệm Tin học 10 Cánh diều Kiểm thử và gỡ lỗi chương trình có đáp án (Phần 2)",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Khi gõ sai cú pháp 1 lệnh, chương trình sẽ dừng lại và báo lỗi, đó là loại lỗi gì?",
+      "options": [
+        "A. Lỗi logic",
+        "B. Lỗi ngoại lệ",
+        "C. Lỗi cú pháp",
+        "D. Cả 3 lỗi trên"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Lỗi cú pháp sẽ có dòng thông báo Syntax Error"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Lỗi NameError có nghĩa là gì?",
+      "options": [
+        "A. Lỗi xảy ra khi chương trình muốn tìm một tên nhưng không thấy.",
+        "B. Lỗi kiểu dữ liệu",
+        "C. Lỗi cú pháp",
+        "D. Lỗi xảy ra khi lệnh cố gắng truy cập phần tử của danh sách nhưng chỉ số vượt qua giới hạn"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Lỗi xảy ra khi chương trình muốn tìm một tên nhưng không thấy."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho câu lệnh sau: while True print(“Hello”) . Chương trình sẽ báo lỗi gì?",
+      "options": [
+        "A. invalid syntax",
+        "B. ValueError",
+        "C. IndexError",
+        "D. TypeError"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Báo lỗi cú pháp vì sau điều kiện while phải có dấu hai chấm."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Hãy chọn báo lỗi đúng, sau khi thực hiện câu lệnh sau: int(‘abc’)",
+      "options": [
+        "A. TypeEror",
+        "B. NameError",
+        "C. ValueError",
+        "D. IndexError"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C abc là ký tự không thể ép về kiểu nguyên được."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho đoạn chương trình tính tổng các số dương của dãy số A sau: Chương trình có bao nhiêu lỗi?",
+      "options": [
+        "A. 1",
+        "B. 2",
+        "C. 0",
+        "D. 3"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B - Python phân biệt chữ hoa chữ thường nên S và s là khác nhau - Sau if phải có dấu hai chấm"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Khi thực hiện tìm lỗi trong chương trình và kiểm thử, dữ liệu kiểm thử chia thành mấy nhóm?",
+      "options": [
+        "A. 1",
+        "B. 2",
+        "C. 3",
+        "D. 4"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Dữ liệu kiểm thử chia thành 3 nhóm: - Kiểm thử những trường hợp thường gặp trong thực tế. - Kiểm thử những trường hợp đặc biệt (ví dụ, khi danh sách chỉ bao gồm một phần tử). - Kiểm thử những trường hợp các tham số nhận giá trị lớn nhất có thể."
+    }
+  ]
+}

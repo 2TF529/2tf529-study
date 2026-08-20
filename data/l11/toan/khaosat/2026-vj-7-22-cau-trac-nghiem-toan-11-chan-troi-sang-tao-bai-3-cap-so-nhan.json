@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-7-22-cau-trac-nghiem-toan-11-chan-troi-sang-tao-bai-3-cap-so-nhan",
+  "sourceId": "vietjack:7-22-cau-trac-nghiem-toan-11-chan-troi-s",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "7.22 câu trắc nghiệm Toán 11 Chân trời sáng tạo Bài 3. Cấp số nhân (Đúng sai - Trả lời ngắn) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: TRẮC NGHIỆM NHIỀU LỰA CHỌN Dãy số nào sau đây không phải là cấp số nhân?",
+      "options": [
+        "A. \\(1;{\\rm{ }}2;{\\rm{ }}4;{\\rm{ }}8;{\\rm{ }} \\cdots \\) .",
+        "B. \\(3;{\\rm{ }}{3^2};{\\rm{ }}{3^3};{\\rm{ }}{3^4};{\\rm{ }} \\cdots \\) .",
+        "C. \\(4;{\\rm{ }}2;{\\rm{ 1; }}\\frac{1}{2};{\\rm{ }}\\frac{1}{4};{\\rm{ }} \\cdots \\) .",
+        "D. \\(\\frac{1}{\\pi };{\\rm{ }}\\frac{1}{{{\\pi ^2}}};{\\rm{ }}\\frac{1}{{{\\pi ^4}}};{\\rm{ }}\\frac{1}{{{\\pi ^6}}};{\\rm{ }} \\cdots \\) ."
+      ],
+      "answer": "D",
+      "note": "D 1 π ; 1 π 2 ; 1 π 4 ; 1 π 6 ; ⋯ → u 2 u 1 = 1 π = 1 π 2 = u 3 u 2"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Trong các dãy số cho dưới đây, dãy số nào là cấp số nhân?",
+      "options": [
+        "A. 1; 2; 3; 4; 5.",
+        "B. 1; 3; 6; 9; 12.",
+        "C. 2; 4; 6; 8; 10.",
+        "D. 2; 2; 2; 2; 2."
+      ],
+      "answer": "D",
+      "note": "D Ta thấy ở đáp án D có u 1 = u 2 = u 3 = u 4 = u 5 = 2 nên đây là câp số nhân với công bội q = 1."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho cấp số nhân \\[\\left( {{u_n}} \\right)\\] có \\[{u_1} = - 2\\] và công bội \\[q = 3\\] . Số hạng \\[{u_2}\\] là:",
+      "options": [
+        "A. \\[{u_2} = - 6\\] .",
+        "B. \\[{u_2} = 6\\] .",
+        "C. \\[{u_2} = 1\\] .",
+        "D. \\[{u_2} = - 18\\] ."
+      ],
+      "answer": "A",
+      "note": "A Số hạng \\[{u_2}\\] là: \\[{u_2} = {u_1}.q\\]\\[ = - 6\\]."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho cấp số nhân \\[\\left( {{u_n}} \\right)\\] có \\[{u_n} = 81\\] và \\[{u_{n + 1}} = 9.\\] Mệnh đề nào sau đây đúng?",
+      "options": [
+        "A. \\[q = \\frac{1}{9}\\,.\\]",
+        "B. \\[q = 9\\,.\\]",
+        "C. \\[q = - 9.\\]",
+        "D. \\[q = - \\frac{1}{9}.\\]"
+      ],
+      "answer": "A",
+      "note": "A Công bội \\(q = \\frac{{{u_{n + 1}}}}{{{u_n}}} = \\frac{9}{{81}} = \\frac{1}{9}\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho cấp số nhân (u n ) có u 1 = −2 và u 5 = −162. Công bội q bằng",
+      "options": [
+        "A. q = −3.",
+        "B. q = 3.",
+        "C. q = 3; q = −3.",
+        "D. q = −2."
+      ],
+      "answer": "C",
+      "note": "C Ta có u 5 = −162 Û u 1 .q 4 = −162 \\( \\Leftrightarrow {q^4} = \\frac{{ - 162}}{{{u_1}}} = \\frac{{ - 162}}{{ - 2}} = 81\\) Û q = 3 hoặc q = −3."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho cấp số nhân có u 1 = −3; \\(q = \\frac{2}{3}\\) . Tính u 5 .",
+      "options": [
+        "A. \\({u_5} = - \\frac{{27}}{{16}}\\) .",
+        "B. \\({u_5} = - \\frac{{16}}{{27}}\\) .",
+        "C. \\({u_5} = \\frac{{16}}{{27}}\\) .",
+        "D. \\({u_5} = \\frac{{27}}{{16}}\\) ."
+      ],
+      "answer": "B",
+      "note": "B Ta có u 5 = u 1 .q 4 = \\(\\left( { - 3} \\right).{\\left( {\\frac{2}{3}} \\right)^4} = - \\frac{{16}}{{27}}\\)."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Cho cấp số nhân \\[\\left( {{u_n}} \\right)\\] có \\[{u_1} = 3\\] và \\[q = - 2\\] . Số \\(192\\) là số hạng thứ mấy của cấp số nhân đã cho?",
+      "options": [
+        "A. Số hạng thứ 5.",
+        "B. Số hạng thứ 6.",
+        "C. Số hạng thứ 7.",
+        "D. Không là số hạng của cấp số đã cho."
+      ],
+      "answer": "C",
+      "note": "C \\(192 = {u_n} = {u_1}{q^{n - 1}} = 3.{\\left( { - 2} \\right)^{n - 1}} \\Leftrightarrow {\\left( { - 1} \\right)^{n - 1}}{.2^{n - 1}} = 64 = {\\left( { - 1} \\right)^6}{.2^6} \\Leftrightarrow n = 7.\\)"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho dãy số \\(4;12;36;108;324,...\\) . Số hạng thứ 10 của dãy số đó là?",
+      "options": [
+        "A. \\(73872\\) .",
+        "B. \\(77832\\) .",
+        "C. \\(72873\\) .",
+        "D. \\(78732\\) ."
+      ],
+      "answer": "D",
+      "note": "D Xét dãy số \\(4;12;36;108;324,...\\) là cấp số nhân có \\({u_1} = 4\\), \\(q = 3\\). Số hạng thứ \\(10\\) của dãy số là \\({u_{10}}\\)\\( = {u_1}.{q^9}\\)\\( = {4.3^9}\\)\\( = 78732\\)."
+    }
+  ]
+}

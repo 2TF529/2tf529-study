@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-1-20-cau-trac-nghiem-toan-11-canh-dieu-bai-tap-cuoi-chuong-vii-du",
+  "sourceId": "vietjack:1-20-cau-trac-nghiem-toan-11-canh-dieu-b",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.20 câu Trắc nghiệm Toán 11 Cánh diều Bài tập cuối chương VII (Đúng-sai, trả lời ngắn) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: TRẮC NGHIỆM NHIỀU LỰA CHỌN Chọn mệnh đề đúng",
+      "options": [
+        "A. \\({\\left( {{x^\\alpha }} \\right)^\\prime } = \\alpha {x^{\\alpha - 1}}\\) (x > 0, α Î ℝ).",
+        "B. \\({\\left( {{a^x}} \\right)^\\prime } = {a^x}\\) (a > 0; a ≠ 1).",
+        "C. C' = 1 với C là hằng số.",
+        "D. (cosx)' = sinx."
+      ],
+      "answer": "A",
+      "note": "A \\({\\left( {{a^x}} \\right)^\\prime } = {a^x}.\\ln a\\) ; C' = 0; (cosx)' = −sinx."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Tính đạo hàm của hàm số y = cosx – lnx.",
+      "options": [
+        "A. \\(y' = \\cos x + \\frac{1}{x}\\).",
+        "B. y' = −sinx + x.",
+        "C. \\(y' = \\sin x - \\frac{1}{x}\\).",
+        "D. \\(y' = - \\sin x - \\frac{1}{x}\\)."
+      ],
+      "answer": "D",
+      "note": "D \\(y' = - \\sin x - \\frac{1}{x}\\) ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Tiếp tuyến của đồ thị hàm số \\(y = \\frac{{2x - 3}}{{x - 1}}\\) tại điểm có hoành độ x 0 = 2 có hệ số góc bằng",
+      "options": [
+        "A. \\(\\frac{1}{9}\\).",
+        "B. −1.",
+        "C. 1.",
+        "D. −5."
+      ],
+      "answer": "C",
+      "note": "C Có \\(y' = \\frac{1}{{{{\\left( {x - 1} \\right)}^2}}}\\) . Tiếp tuyến của đồ thị hàm số \\(y = \\frac{{2x - 3}}{{x - 1}}\\) tại điểm có hoành độ x 0 = 2 có hệ số góc bằng \\(y'\\left( 2 \\right) = \\frac{1}{{{{\\left( {2 - 1} \\right)}^2}}} = 1\\) ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Đạo hàm của hàm số \\(y = \\sqrt {1 - 2{x^2}} \\) là kết quả nào sau đây?",
+      "options": [
+        "A. \\(\\frac{{2x}}{{\\sqrt {1 - 2{x^2}} }}\\).",
+        "B. \\(\\frac{{ - 4x}}{{\\sqrt {1 - 2{x^2}} }}\\).",
+        "C. \\(\\frac{{ - 2x}}{{\\sqrt {1 - 2{x^2}} }}\\).",
+        "D. \\(\\frac{1}{{2\\sqrt {1 - 2{x^2}} }}\\)."
+      ],
+      "answer": "C",
+      "note": "C \\(y' = \\frac{{{{\\left( {1 - 2{x^2}} \\right)}^\\prime }}}{{2\\sqrt {1 - 2{x^2}} }} = \\frac{{ - 4x}}{{2\\sqrt {1 - 2{x^2}} }} = \\frac{{ - 2x}}{{\\sqrt {1 - 2{x^2}} }}\\) ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Tìm đạo hàm của hàm số y = ln(3x – 2).",
+      "options": [
+        "A. \\(y' = \\frac{{3\\ln 3}}{{\\left( {3x - 2} \\right)}}\\).",
+        "B. \\(y' = \\frac{1}{{\\left( {3x - 2} \\right)\\ln 2}}\\).",
+        "C. \\(y' = \\frac{1}{{3x - 2}}\\).",
+        "D. \\(y' = \\frac{3}{{3x - 2}}\\)."
+      ],
+      "answer": "D",
+      "note": "D Ta có \\(y' = \\frac{{{{\\left( {3x - 2} \\right)}^\\prime }}}{{3x - 2}} = \\frac{3}{{3x - 2}}\\) ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Tìm đạo hàm của hàm số y = (x + 1)e x .",
+      "options": [
+        "A. y' = (x + 3)e x .",
+        "B. y' = (x + 1)e x .",
+        "C. y' = (x + 2)e x .",
+        "D. y' = (x – 1)e x ."
+      ],
+      "answer": "C",
+      "note": "C Ta có y' = e x + (x + 1)e x = (x + 2)e x ."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Cho hàm số y = 2 x với x Î ℝ. Đạo hàm y\" của hàm số là",
+      "options": [
+        "A. y\" = 2 x ln2.",
+        "B. y\" = 2 x ln4.",
+        "C. y\" = 2 x .",
+        "D. y\" = 2 x ln 2 2."
+      ],
+      "answer": "D",
+      "note": "D Ta có y' = 2 x ln2; y\" = 2 x ln 2 2."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Một chất điểm có phương trình chuyển động là \\(s\\left( t \\right) = \\sin \\frac{\\pi }{{3t + 1}} + 2{t^2}\\)(m). Vận tốc chuyển động của chất điểm tại thời điểm t = 1 giây gần bằng",
+      "options": [
+        "A. 3,48 m/s.",
+        "B. 3,58 m/s.",
+        "C. 4,36 m/s.",
+        "D. 4,28 m/s."
+      ],
+      "answer": "B",
+      "note": "B Có v(t) = s'(t) = \\({\\left( {\\frac{\\pi }{{3t + 1}}} \\right)^\\prime }\\cos \\frac{\\pi }{{3t + 1}} + 4t\\)\\( = \\frac{{ - 3\\pi }}{{{{\\left( {3t + 1} \\right)}^2}}}\\cos \\frac{\\pi }{{3t + 1}} + 4t\\) . Suy ra \\(v\\left( 1 \\right) = \\frac{{ - 3\\pi }}{{{{\\left( {3.1 + 1} \\right)}^2}}}\\cos \\frac{\\pi }{{3.1 + 1}} + 4.1 \\approx 3,58\\) m/s."
+    }
+  ]
+}

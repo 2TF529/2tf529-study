@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-1-20-cau-trac-nghiem-toan-12-canh-dieu-bai-2-cong-thuc-xac-suat-t",
+  "sourceId": "vietjack:1-20-cau-trac-nghiem-toan-12-canh-dieu-b",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.20 câu trắc nghiệm Toán 12 Cánh diều Bài 2. Công thức xác suất toàn phần. Công thức Bayes có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: I. Nhận biết Cho \\(A,B\\) là các biến cố của một phép thử \\(T\\). Biết rằng \\(0 < P\\left( B \\right) < 1\\), xác suất của biến cố A được tính theo công thức nào sau đây?",
+      "options": [
+        "A. \\(P\\left( A \\right) = P\\left( B \\right).P\\left( {A|B} \\right) + P\\left( {\\overline B } \\right).P\\left( {A|\\overline B } \\right).\\)",
+        "B. \\(P\\left( A \\right) = P\\left( B \\right).P\\left( {A|B} \\right) + P\\left( {\\overline B } \\right).P\\left( {B|\\overline A } \\right).\\)",
+        "C. \\(P\\left( A \\right) = P\\left( B \\right).P\\left( {A|B} \\right) + P\\left( {\\overline A } \\right).P\\left( {A|\\overline B } \\right).\\)",
+        "D. \\(P\\left( A \\right) = P\\left( B \\right).P\\left( {A|B} \\right) + P\\left( {\\overline A } \\right).P\\left( {B|\\overline A } \\right).\\)"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Công thức tính xác suất toàn phần: \\(P\\left( A \\right) = P\\left( B \\right).P\\left( {A|B} \\right) + P\\left( {\\overline B } \\right).P\\left( {A|\\overline B } \\right).\\)"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho \\(A,B\\) là các biến cố của một phép thử \\(T\\). Biết rằng \\(0 < P\\left( B \\right)\\), xác suất để biến cố A với điều kiện biến cố B đã xảy ra được tính theo công thức nào dưới đây? </>",
+      "options": [
+        "A. \\(P\\left( {A|B} \\right) = \\frac{{P\\left( A \\right)}}{{P\\left( B \\right)}}.\\)",
+        "B. \\(P\\left( {A|B} \\right) = \\frac{{P\\left( A \\right).P\\left( {B|A} \\right)}}{{P\\left( B \\right)}}.\\)",
+        "C. \\(P\\left( {A|B} \\right) = \\frac{{P\\left( B \\right).P\\left( {B|A} \\right)}}{{P\\left( A \\right)}}.\\)",
+        "D. \\(P\\left( {A|B} \\right) = \\frac{{P\\left( B \\right)}}{{P\\left( A \\right)}}.\\)"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Theo công thức xác suất toàn phần, ta có: \\(P\\left( A \\right) = P\\left( B \\right).P\\left( {A|B} \\right) + P\\left( {\\overline B } \\right).P\\left( {A|\\overline B } \\right).\\) Do đó, công thức Bayes, còn có thể viết dưới dạng: \\(P\\left( {A|B} \\right) = \\frac{{P\\left( A \\right).P\\left( {B|A} \\right)}}{{P\\left( B \\right)}}.\\)"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho \\(A,B\\) là các biến cố của một phép thử \\(T\\). Biết rằng \\(P\\left( A \\right) > 0\\) và \\(0 < P\\left( B \\right) < 1.\\) Xác suất của biến cố B với điều kiện biến cố A đã xảy ra được tính theo công thức nào?",
+      "options": [
+        "A. \\(P\\left( {B|A} \\right) = \\frac{{P\\left( A \\right).P\\left( {A|B} \\right)}}{{P\\left( B \\right).P\\left( {A|B} \\right) + P\\left( {\\overline B } \\right).P\\left( {A|\\overline B } \\right)}}.\\)",
+        "B. \\(P\\left( {B|A} \\right) = \\frac{{P\\left( B \\right).P\\left( {A|B} \\right)}}{{P\\left( A \\right).P\\left( {B|A} \\right) + P\\left( {\\overline A } \\right).P\\left( {B|\\overline A } \\right)}}.\\)",
+        "C. \\(P\\left( {B|A} \\right) = \\frac{{P\\left( B \\right).P\\left( {A|B} \\right)}}{{P\\left( B \\right).P\\left( {A|B} \\right) + P\\left( {\\overline B } \\right).P\\left( {A|\\overline B } \\right)}}.\\)",
+        "D. \\(P\\left( {B|A} \\right) = \\frac{{P\\left( A \\right).P\\left( {A|B} \\right)}}{{P\\left( A \\right).P\\left( {B|A} \\right) + P\\left( {\\overline B } \\right).P\\left( {A|\\overline B } \\right)}}.\\)"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Cho \\(A,B\\) là các biến cố của một phép thử \\(T\\). Biết rằng \\(P\\left( A \\right) > 0\\) và \\(0 < P\\left( B \\right) < 1.\\) Ta có công thức \\(P\\left( {B|A} \\right) = \\frac{{P\\left( B \\right).P\\left( {A|B} \\right)}}{{P\\left( B \\right).P\\left( {A|B} \\right) + P\\left( {\\overline B } \\right).P\\left( {A|\\overline B } \\right)}}.\\)"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Nếu hai biến cố \\(A,B\\) thỏa mãn \\(P\\left( A \\right) = 0,3,P\\left( B \\right) = 0,6\\) và \\(P\\left( {A|B} \\right) = 0,4\\) thì \\(P\\left( {B|A} \\right)\\) bằng",
+      "options": [
+        "A. 0,5.",
+        "B. 0,6.",
+        "C. 0,8.",
+        "D. 0,2."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có: \\(P\\left( {B|A} \\right) = \\frac{{P\\left( B \\right).P\\left( {A|B} \\right)}}{{P\\left( A \\right)}} = \\frac{{0,6.0,4}}{{0,3}} = 0,8.\\)"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hai biến cố \\(A,B\\) với \\(P\\left( B \\right) = 0,6;{\\rm{ }}P\\left( {A|B} \\right) = 0,7\\) và \\(P\\left( {A|\\overline B } \\right) = 0,4.\\) Khi đó, \\(P\\left( A \\right)\\) bằng",
+      "options": [
+        "A. 0,7.",
+        "B. 0,4.",
+        "C. 0,58.",
+        "D. 0,52."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có: \\(P\\left( {\\overline B } \\right) = 1 - P\\left( B \\right) = 1 - 0,6 = 0,4.\\) Theo công thức xác suất toàn phần, ta có: \\(P\\left( A \\right) = P\\left( B \\right).P\\left( {A|B} \\right) + P\\left( {\\overline B } \\right).P\\left( {A|\\overline B } \\right)\\) \\( = 0,6.0,7 + 0,4.0,4 = 0,58.\\)"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: II. Thông hiểu Cho hai biến cố \\(A,B\\) với \\(P\\left( B \\right) = 0,8;{\\rm{ }}P\\left( {A|B} \\right) = 0,7\\) và \\(P\\left( {A|\\overline B } \\right) = 0,45.\\) Tính \\(P\\left( A \\right)\\).",
+      "options": [
+        "A. 0,25.",
+        "B. 0,65.",
+        "C. 0,55.",
+        "D. 0,5."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có: \\(P\\left( {\\overline B } \\right) = 1 - P\\left( B \\right) = 1 - 0,8 = 0,2.\\) Theo công thức xác suất toàn phần, ta có: \\(P\\left( A \\right) = P\\left( B \\right).P\\left( {A|B} \\right) + P\\left( {\\overline B } \\right).P\\left( {A|\\overline B } \\right)\\) \\( = 0,8.0,7 + 0,2.0,45 = 0,65.\\)"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Cho hai biến cố \\(A,B\\) với \\(P\\left( B \\right) = 0,3;{\\rm{ }}P\\left( A \\right) = 0,4\\) và \\(P\\left( {A|B} \\right) = 0,25.\\) Khi đó, \\(P\\left( {B|A} \\right)\\) bằng",
+      "options": [
+        "A. 0,1875.",
+        "B. 0,48.",
+        "C. 0,333.",
+        "D. 0,95."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Theo công thức Bayes, ta có: \\(P\\left( {B|A} \\right) = \\frac{{P\\left( B \\right).P\\left( {A|B} \\right)}}{{P\\left( A \\right)}} = \\frac{{0,3.0,25}}{{0,4}} = 0,1875.\\)"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Một trường liên cấp có 3 khối gồm khối tiểu học, khối THCS và khối THPT. Tỉ lệ học sinh mỗi khối như sau: Khối tiểu học chiếm 25%, khối THCS chiếm 45%, khối THPT chiếm 30%. Xác suất học sinh tham gia ngoại khóa ở các khối tương ứng 30% khối tiểu học, 50% khối THCS, 40% khối THPT. Chọn ngẫu nhiên một học sinh trong trường. tính xác suất để học sinh được chọn tham gia hoạt động ngoại khóa.",
+      "options": [
+        "A. 0,42.",
+        "B. 0,24.",
+        "C. 0,3.",
+        "D. 0,25."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Gọi A là biến cố: “Học sinh tham gia là học sinh khối tiểu học”, B là biến cố: “Học sinh tham gia là học sinh khối THCS”, C là biến cố: “Học sinh tham gia là học sinh khối THPT”, D là biến cố: “Học sinh tham gia hoạt động ngoại khóa”. Theo đề, ta có: P(A) = 0,25; P(B) = 0,45; P(C) = 0,3; P(D | A) = 0,3; P(D | B) = 0,5; P(D | C) = 0,4. Áp dụng công thức tính xác suất toàn phần, có: Xác suất học sinh tham gia ngoại khóa của trường đó là: P(D) = P(A).P(D | A) + P(B).P(D | B) + P(C).P(D | C) = 0,25.0,3 + 0,45.0,5 + 0,3.0,4 = 0,42."
+    }
+  ]
+}

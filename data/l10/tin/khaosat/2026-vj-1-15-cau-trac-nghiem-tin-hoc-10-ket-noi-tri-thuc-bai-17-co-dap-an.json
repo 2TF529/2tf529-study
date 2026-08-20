@@ -1,0 +1,78 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-10-ket-noi-tri-thuc-bai-17-co-dap-an",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-10-ket-noi-",
+  "grade": "l10",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu trắc nghiệm Tin học 10 Kết nối tri thức Bài 17 có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Trong ngôn ngữ Python, tên nào sau đây là từ khoá ?",
+      "options": [
+        "A. program, sqr.",
+        "B. uses, var.",
+        "C. include, const.",
+        "D. D . if, else."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Từ khoá là các từ đặc biệt tham gia vào cấu trúc của ngôn ngữ lập trình như if, else, none, True, and, def,…"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Đâu là quy tắc đúng khi đặt tên biến cho Python?",
+      "options": [
+        "A. Tên biến có thể bắt đầu bằng dấu gạch dưới “_”",
+        "B. B . Có thể sử dụng keyword làm tên biến",
+        "C. C . Tên biến có thể bắt đầu bằng một chữ số",
+        "D. Tên biến có thể có các kí hiệu @, #, %, &,…"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là A Tên biến chỉ gồm các chữ cái tiếng Anh, các chữ số từ 0 đến 9 và kí tự gạch dưới “_”, không bắt đầu bằng chữ số."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Từ khoá của một ngôn ngữ lâp trình là:",
+      "options": [
+        "A. là những từ dành riêng.",
+        "B. cho một mục đích sử dụng nhất định.",
+        "C. có thể đặt tên cho biến.",
+        "D. Cả A và B"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Từ khoá là các từ đặc biệt tham gia vào cấu trúc của ngôn ngữ lập trình. Không được phép đặt tên biến hay các định danh trùng với từ khoá"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Trong ngôn ngữ lập trình Python, từ khoá và tên:",
+      "options": [
+        "A. Có ý nghĩa như nhau.",
+        "B. Người lập trình phải tuân theo quy tắc đặt tên.",
+        "C. Có thể trùng nhau.",
+        "D. D . Cả ba đáp án trên đều đúng."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Người lập trình phải tuân theo quy tắc đặt tên của ngôn ngữ Python, và không được phép đặt tên biến hay các định danh trùng với từ khoá"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Trong ngôn ngữ Python, tên nào sau đây đặt sai theo quy tắc?",
+      "options": [
+        "A. 11tinhoc.",
+        "B. tinhoc11.",
+        "C. tin_hoc.",
+        "D. _11."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Tên biến không được bắt đầu bằng chữ số"
+    }
+  ]
+}

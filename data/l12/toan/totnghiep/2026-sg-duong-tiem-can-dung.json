@@ -1,0 +1,146 @@
+{
+  "id": "2026-sg-duong-tiem-can-dung",
+  "sourceId": "sieugioi:duong-tiem-can-dung",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "title": "Đường tiệm cận đứng",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "short_answer",
+      "content": "Câu 1: Tìm tiệm cận đứng của đồ thị hàm số \\({y=f(x)=\\frac{3-x}{x+2}}\\).\nGiải\n​\nTa có: \\({\\lim _{x \\rightarrow-2^{+}} f(x)=\\lim _{x \\rightarrow-2^{+}} \\frac{3-x}{x+2}=+\\infty}\\). Tương tự, \\({\\lim _{x \\rightarrow-2^{-}} f(x)=-\\infty}\\). Vậy đồ thị hàm số \\({f(x)}\\) có tiệm cận đứng là đường thẳng \\({x=-2}\\).",
+      "answer": "0",
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 2,
+      "type": "short_answer",
+      "content": "Câu 2: Tìm tiệm cận đứng của đồ thị hàm số \\({y=f(x)=\\frac{x^2+2}{x}}\\).\nGiải\n​\nTa có: \\({\\lim _{x \\rightarrow 0^{+}} f(x)=\\lim _{x \\rightarrow 0^{+}} \\frac{x^2+2}{x}=+\\infty}\\). Tương tự, \\({\\lim _{x \\rightarrow 0^{-}} f(x)=-\\infty}\\). Vậy đồ thị hàm số \\({f(x)}\\) có tiệm cận đứng là đường thẳng \\({x=0}\\).",
+      "answer": "0",
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 3,
+      "type": "short_answer",
+      "content": "Câu 3: Tiệm cận đứng của đồ thị hàm số \\(y=\\frac{x-1}{x-3}\\)\nLời giải.\n\\(\\underset{x\\to {{3}^{-}}}{\\mathop{\\lim }}\\,\\frac{x-1}{x-3}=-\\infty \\). Suy ta tiệm cận đứng là đường thẳng \\(x=3\\).",
+      "answer": "0",
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 4,
+      "type": "short_answer",
+      "content": "Câu 4: Tiệm cận đứng của đồ thị hàm số \\(y=\\frac{2x-2}{x+1}\\)\nLời giải\nTa có \\(\\underset{x\\to -{{1}^{+}}}{\\mathop{\\lim }}\\,y=\\underset{x\\to -{{1}^{+}}}{\\mathop{\\lim }}\\,\\frac{2x-2}{x+1}=-\\infty \\) và \\(\\underset{x\\to -{{1}^{-}}}{\\mathop{\\lim }}\\,y=\\underset{x\\to -{{1}^{-}}}{\\mathop{\\lim }}\\,\\frac{2x-2}{x+1}=+\\infty \\) nên đường thẳng \\(x=-1\\) là tiệm cận đứng của đồ thị hàm số.",
+      "answer": "0",
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 5,
+      "type": "short_answer",
+      "content": "Câu 5: Tiệm cận đứng của đồ thị hàm số \\(y=\\frac{3x+2}{x-2}\\)\nLời giải\nTa có \\(\\underset{x\\to {{2}^{+}}}{\\mathop{\\lim }}\\,y=\\underset{x\\to {{2}^{+}}}{\\mathop{\\lim }}\\,\\frac{3x+2}{x-2}=+\\infty \\), \\(\\underset{x\\to {{2}^{-}}}{\\mathop{\\lim }}\\,y=\\underset{x\\to {{2}^{-}}}{\\mathop{\\lim }}\\,\\frac{3x+2}{x-2}=-\\infty \\) nên suy ra tiệm cận đứng của đồ thị hàm số đã cho là \\(x=2\\).",
+      "answer": "0",
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 6,
+      "type": "short_answer",
+      "content": "Câu 6: Tiệm cận đứng của đồ thị hàm số \\(y=\\frac{3x-1}{x-2}\\).\nLời giải\nTa có \\(\\underset{x\\to {{2}^{+}}}{\\mathop{\\lim }}\\,y=\\underset{x\\to {{2}^{+}}}{\\mathop{\\lim }}\\,\\frac{3x-1}{x-2}=+\\infty \\); \\(\\underset{x\\to {{2}^{-}}}{\\mathop{\\lim }}\\,y=\\underset{x\\to {{2}^{-}}}{\\mathop{\\lim }}\\,\\frac{3x-1}{x-2}=-\\infty \\). Suy ra tiệm cận đứng của đồ thị hàm số đã cho có phương trình là \\(x=2\\).",
+      "answer": "0",
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 7,
+      "type": "short_answer",
+      "content": "Câu 7: Đồ thị hàm số \\({{y}=\\frac{2 {x}^2-3 {x}+{m}}{{x}-{m}}}\\) là \\({\\left({C}_{{m}}\\right)}\\). Tìm giá trị của \\({{m}}\\) làm cho \\({\\left({C}_{{m}}\\right)}\\) không có tiệm cận đứng.\nLời giải\nHàm số không có tiệm cận đứng khi \\({{x}={m}}\\) là nghiệm của:\n\\({2 x^2-3 x+m=0}\\) tức là \\({2 m^2-2 m=0 \\Leftrightarrow\\left[\\begin{array}{l}m=0 \\\\ m=1\\end{array}\\right.}\\)",
+      "answer": "0",
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 8,
+      "type": "short_answer",
+      "content": "Câu 8: Với giá trị nào của \\({{m}}\\) thì đồ thị hàm số \\({{y}=\\frac{{mx}-1}{2 {x}+{m}}}\\) có tiệm cận đứng đi qua \\({{M}(-1, \\sqrt{2})}\\)Lời giải\nTa có \\({\\lim _{{x} \\rightarrow-\\frac{{m}}{2}} {y}=\\infty}\\). Vậy \\({{x}=-\\frac{{m}}{2}}\\) là tiệm cận đứng của đồ thị hàm số.\nĐể tiệm cận đứng qua \\({{M}(-1, \\sqrt{2})}\\) thì \\({-\\frac{{m}}{2}=-1 \\Leftrightarrow {m}=2}\\).",
+      "answer": "0",
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 9,
+      "type": "short_answer",
+      "content": "Câu 9: Tìm số tiệm cận đứng của đồ thị hàm số: \\(y=\\frac{{{x}^{2}}-3x-4}{{{x}^{2}}-16}\\)\nLời giải\nTa có \\(y=\\frac{{{x}^{2}}-3x-4}{{{x}^{2}}-16}=\\frac{x+1}{x+4}\\)(với điều kiện xác định), do đó đồ thị hàm có 1 tiệm cận đứng.",
+      "answer": "0",
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 10,
+      "type": "short_answer",
+      "content": "Câu 10: Số tiệm cận đứng của đồ thị hàm số \\(y=\\frac{\\sqrt{x+9}-3}{{{x}^{2}}+x}\\) là bao nhiêu?\nLời giải\nTập xác định của hàm số: \\(D=\\left[ -9;+\\infty \\right)\\backslash \\left\\{ 0;-1 \\right\\}\\)\nTa có: \\(\\underset{x\\to {{\\left( -1 \\right)}^{+}}}{\\mathop{\\lim }}\\,y=\\) \\(\\underset{x\\to {{\\left( -1 \\right)}^{+}}}{\\mathop{\\lim }}\\,\\frac{\\sqrt{x+9}-3}{{{x}^{2}}+x}\\[=+\\infty \\) và \\(\\underset{x\\to {{\\left( -1 \\right)}^{-}}}{\\mathop{\\lim }}\\,y\\) \\(=\\underset{x\\to {{\\left( -1 \\right)}^{-}}}{\\mathop{\\lim }}\\,\\frac{\\sqrt{x+9}-3}{{{x}^{2}}+x}\\]=-\\infty \\).\n\\(\\Rightarrow \\) TCĐ: \\(x=-1\\).\n\\(\\underset{x\\to {{0}^{+}}}{\\mathop{\\lim }}\\,y=\\[\\underset{x\\to {{0}^{+}}}{\\mathop{\\lim }}\\,\\frac{\\sqrt{x+9}-3}{{{x}^{2}}+x}\\]=\\underset{x\\to {{0}^{+}}}{\\mathop{\\lim }}\\,\\frac{x}{\\left( {{x}^{2}}+x \\right)\\left( \\sqrt{x+9}+3 \\right)}\\[=\\underset{x\\to {{0}^{+}}}{\\mathop{\\lim }}\\,\\frac{1}{\\left( x+1 \\right)\\left( \\sqrt{x+9}+3 \\right)}\\]=\\frac{1}{6}\\).\n\\(\\underset{x\\to {{0}^{-}}}{\\mathop{\\lim }}\\,y=\\[\\underset{x\\to {{0}^{-}}}{\\mathop{\\lim }}\\,\\frac{\\sqrt{x+9}-3}{{{x}^{2}}+x}\\]=\\underset{x\\to {{0}^{-}}}{\\mathop{\\lim }}\\,\\frac{x}{\\left( {{x}^{2}}+x \\right)\\left( \\sqrt{x+9}+3 \\right)}\\[=\\underset{x\\to {{0}^{-}}}{\\mathop{\\lim }}\\,\\frac{1}{\\left( x+1 \\right)\\left( \\sqrt{x+9}+3 \\right)}\\]=\\frac{1}{6}\\).\n\\(\\Rightarrow \\) \\(x=0\\) không là đường tiệm cận đứng của đồ thị hàm số.\nVậy đồ thị hàm số có \\(1\\) tiệm cận đứng",
+      "answer": "0",
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 11,
+      "type": "short_answer",
+      "content": "Câu 11: Có bao nhiêu giá trị nguyên của tham để \\(m\\) đồ thị hàm số \\(y=\\frac{\\sqrt{-{{x}^{2}}+2016x+2017}-24\\sqrt{7}}{x-m}\\) có tiệm cận đứng?\nLời giải\nBiểu thức: \\(\\sqrt{-{{x}^{2}}+2016x+2017}\\) có nghĩa khi \\(-{{x}^{2}}+2016x+2017\\ge 0\\Leftrightarrow -1\\le x\\le 2017\\).\nĐặt \\(f\\left( x \\right)=\\sqrt{-{{x}^{2}}+2016x+2017}\\).\nXét \\(x-m=0\\Leftrightarrow x=m\\). Vậy đồ thị nếu có tiệm cận đứng chỉ có thể là \\(x=m\\), khi đó điều kiện là: \\(\\left\\{ \\begin{array}{l} - 1 \\le x \\le 2017\\\\ f\\left( m \\right) \\ne 0 \\end{array} \\right.\\) \\( \\Leftrightarrow \\left\\{ \\begin{array}{l} m \\in \\left[ { - 1;2017} \\right]\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\left( 1 \\right)\\\\ \\sqrt { - {m^2} + 2016m + 2017} \\ne 24\\sqrt 7 \\left( * \\right) \\end{array} \\right.\\)\nTa có \\(\\left( * \\right)\\Leftrightarrow {{m}^{2}}-2016m+2015\\ne 0\\Leftrightarrow \\left\\{ \\begin{align} & m\\ne 1 \\\\ & m\\ne 2015 \\\\ \\end{align} \\right.\\left( 2 \\right)\\)\nTừ \\(\\left( 1 \\right),\\left( 2 \\right)\\Rightarrow m\\in \\left[ -1;2017 \\right]\\backslash \\left\\{ 1;2015 \\right\\}\\xrightarrow{m\\in \\mathbb{Z}}\\) có \\(2019-2=2017\\)số nguyên \\(m\\) thỏa mãn bài toán đáp án C.",
+      "answer": "0",
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 12,
+      "type": "short_answer",
+      "content": "Câu 12: Tìm tất cả các giá trị của tham số thực \\(m\\) sao cho đồ thị hàm số \\(y=\\frac{x-1}{{{x}^{3}}+3{{x}^{2}}+m+1}\\) có đúng một tiệm cận đứng?\nLời giải\nĐặt \\(f\\left( x \\right)={{x}^{3}}+3{{x}^{2}}+m+1\\).\n+ Nếu \\(f\\left( 1 \\right)=0\\Rightarrow m=-5\\). Khi đó \\(f\\left( x \\right)={{x}^{3}}+3{{x}^{2}}-4=\\left( x-1 \\right){{\\left( x+2 \\right)}^{2}}\\) nên\n\\(y=\\frac{x-1}{f\\left( x \\right)}=\\frac{1}{{{\\left( x-2 \\right)}^{2}}}\\). Như vậy, đồ thị hàm số có 1 tiệm cận đứng \\(x=2\\).\n+ Nếu \\(m\\ne -5\\) thì đồ thị hàm số có một tiệm cận đứng khi \\(f\\left( x \\right)\\) có đúng 1 nghiệm thực khác \\(1.\\)\nXét \\(f\\left( x \\right)={{x}^{3}}+3{{x}^{2}}+m+1\\) có \\({f}'\\left( x \\right)=3{{x}^{2}}+6x=3x\\left( x+2 \\right)\\) và hàm số đạt cực đại tại \\(x=-2,f\\left( -2 \\right)=m+5\\); hàm số đạt cực tiểu tại \\(x=0,f\\left( 0 \\right)=m+1\\).\nĐể \\(f\\left( x \\right)={{x}^{3}}+3{{x}^{2}}+m+1\\) có đúng 1 nghiệm thực khi\n\\(\\left[ {\\begin{array}{*{20}{l}} {f\\left( { - 2} \\right) < 0}\\\\ {f\\left( 0 \\right) > 0} \\end{array}} \\right.\\) \\( \\Leftrightarrow \\left[ {\\begin{array}{*{20}{l}} {m + 5 < 0}\\\\ {m + 1 > 0} \\end{array}} \\right.\\) \\( \\Leftrightarrow \\left[ {\\begin{array}{*{20}{l}} {m < - 5}\\\\ {m > - 1} \\end{array}} \\right.\\)\nVậy đồ thi hàm số đã cho có đúng một tiệm cận đứng khi \\(\\left[ \\begin{align} & m\\le -5 \\\\ & m>-1 \\\\ \\end{align} \\right.\\).",
+      "answer": "0",
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 13,
+      "type": "short_answer",
+      "content": "Câu 13: Gọi \\(n,d\\) lần lượt là số đường tiệm cận ngang và số tiệm cận đứng của đồ thị hàm số \\(y=\\frac{\\sqrt{1-x}}{\\left( x-1 \\right)\\sqrt{x}}\\). Khẳng định nào sau đây là đúng?\nLời giải\nTập xác định: \\(D=\\left( 0;1 \\right)\\).\nTừ tập xác định suy ra đồ thị hàm số không có tiệm cận ngang. \\(n=0\\).\n+) \\(\\underset{x\\to {{0}^{+}}}{\\mathop{\\lim }}\\,y=\\underset{x\\to {{0}^{+}}}{\\mathop{\\lim }}\\,\\frac{\\sqrt{1-x}}{\\left( x-1 \\right)\\sqrt{x}}=\\underset{x\\to {{0}^{+}}}{\\mathop{\\lim }}\\,\\frac{-1}{\\sqrt{1-x}\\sqrt{x}}=-\\infty \\)\n+) \\(\\underset{x\\to {{1}^{-}}}{\\mathop{\\lim }}\\,y=\\underset{x\\to {{1}^{-}}}{\\mathop{\\lim }}\\,\\frac{\\sqrt{1-x}}{\\left( x-1 \\right)\\sqrt{x}}=\\underset{x\\to {{1}^{-}}}{\\mathop{\\lim }}\\,\\frac{-1}{\\sqrt{1-x}\\sqrt{x}}=-\\infty \\)\nSuy ra đồ thị hàm số có hai tiệm cận đứng, \\(d=2\\).",
+      "answer": "0",
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 14,
+      "type": "short_answer",
+      "content": "Câu 14: Cho hàm số \\(y=f(x)\\) thỏa mãn \\(f(\\tan x)={{\\cos }^{4}}x\\). Tìm tất cả các giá trị thực của \\(m\\) để đồ thị hàm số \\(g(x)=\\frac{2019}{f(x)-m}\\) có hai tiệm cận đứng.\nLời giải\n\\(f(\\tan x)={{\\cos }^{4}}x\\Leftrightarrow f(\\tan x)=\\frac{1}{{{\\left( 1+{{\\tan }^{2}}x \\right)}^{2}}}\\) \\(\\Rightarrow f(t)=\\frac{1}{{{(1+{{t}^{2}})}^{2}}}\\)\nHàm số \\(g(x)=\\frac{2019}{f(x)-m}\\Rightarrow g(x)=\\frac{2019}{\\frac{1}{{{(1+{{x}^{2}})}^{2}}}-m}\\)\nHàm số \\(g(x)\\) có hai tiện cận đứng khi và chỉ khi phương trình \\(\\frac{1}{{{(1+{{x}^{2}})}^{2}}}-m=0\\) có hai nghiệm phân biệt \\(\\Leftrightarrow {{(1+{{x}^{2}})}^{2}}=\\frac{1}{m}>1\\Leftrightarrow 0<m<1\\).",
+      "answer": "0",
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 15,
+      "type": "short_answer",
+      "content": "Câu 15: Cho hàm số bậc ba \\(f\\left( x\\right)=a{{x}^{3}}+b{{x}^{2}}+cx+d\\) có đồ thị như hình vẽ sau.\nHỏi đồ thị hàm số \\(g\\left( x \\right)=\\frac{\\left( {{x}^{2}}-3x+2 \\right)\\sqrt{x-1}}{\\left( x+1 \\right)\\left[ {{f}^{2}}\\left( x \\right)-f\\left( x \\right) \\right]}\\) có bao nhiêu tiệm cận đứng?\nLời giải\nTa có \\(g\\left( x \\right)=\\frac{\\left( x-1 \\right)\\left( x-2 \\right)\\sqrt{x-1}}{\\left( x+1 \\right)f\\left( x \\right)\\left[ f\\left( x \\right)-1 \\right]}\\)\nĐkxđ: \\(\\left\\{ \\begin{align} & x\\ge 1 \\\\ & f\\left( x \\right)\\ne 0 \\\\ & f\\left( x \\right)\\ne 1 \\\\ \\end{align} \\right.\\)\nDựa vào đồ thị hàm số \\(y=f\\left( x \\right)\\), ta có: \\(f\\left( x \\right)=0\\Leftrightarrow \\left[ \\begin{align} & x=2 \\\\ & x={{x}_{1}} \\\\ \\end{align} \\right.\\) với \\(x=2\\) là nghiệm kép, \\({{x}_{1}}\\in \\left( 0;\\,1 \\right)\\). \\(f\\left( x \\right)=1\\Leftrightarrow \\left[ \\begin{align} & x=1 \\\\ & x={{x}_{2}} \\\\ & x={{x}_{3}} \\\\ \\end{align} \\right.\\) với \\({{x}_{2}}\\in \\left( 1;\\,2 \\right);\\,{{x}_{3}}>2\\).\nVậy \\(g\\left( x \\right)=\\frac{\\left( x-1 \\right)\\left( x-2 \\right)\\sqrt{x-1}}{{{a}^{2}}\\left( x+1 \\right){{\\left( x-2 \\right)}^{2}}\\left( x-{{x}_{1}} \\right)\\left( x-1 \\right)\\left( x-{{x}_{2}} \\right)\\left( x-{{x}_{3}} \\right)}\\) \\(=\\frac{\\sqrt{x-1}}{{{a}^{2}}\\left( x+1 \\right)\\left( x-2 \\right)\\left( x-{{x}_{1}} \\right)\\left( x-{{x}_{2}} \\right)\\left( x-{{x}_{3}} \\right)}\\)\nVậy đồ thị hàm số có 3 TCĐ \\(x=2;\\,x={{x}_{2}};\\,x={{x}_{3}}\\) (do \\(x\\ge 1\\) nên ta loại \\(x=-1;\\,x={{x}_{1}}\\)).",
+      "answer": "0",
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 16,
+      "type": "short_answer",
+      "content": "Câu 16: Hàm số \\(y=\\frac{\\sqrt{3x+1}+ax+b}{{{\\left( x-1 \\right)}^{2}}}\\) không có tiệm cận đứng. Khi đó hiệu \\[a-b\\] bằng?\nLời giải\nDo hàm số không có tiệm cận đứng nên \\(f\\left( x \\right)=\\sqrt{3x+1}+ax+b={{\\left( x-1 \\right)}^{2}}g\\left( x \\right)\\).\nSuy ra \\(\\left\\{ \\begin{array}{l} f\\left( 1 \\right) = 0\\\\ f'\\left( 1 \\right) = 0 \\end{array} \\right.\\) \\( \\Leftrightarrow \\left\\{ \\begin{array}{l} a + b + 2 = 0\\\\ a + \\frac{3}{4} = 0 \\end{array} \\right.\\) \\( \\Leftrightarrow \\left\\{ \\begin{array}{l} a = - \\frac{3}{4}\\\\ b = - \\frac{5}{4} \\end{array} \\right. \\Rightarrow a - b = \\frac{1}{2}\\)",
+      "answer": "0",
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 17,
+      "type": "short_answer",
+      "content": "Câu 17: Cho hàm số \\(y=\\frac{x+2}{x-3}\\), có đồ thị là \\(\\left( C \\right)\\). Tìm tất cả các điểm \\(M\\) thuộc \\(\\left( C \\right)\\) sao cho khoảng cách từ \\(M\\) đến tiệm cận đứng bằng \\(5\\) lần khoảng cách từ \\(M\\) đến tiệm cận ngang.\nLời giải.\nHàm số đã cho xác định và liên tục trên \\(\\left( -\\infty ;3 \\right)\\cup \\left( 3;+\\infty \\right)\\)\nGiả sử \\(M\\left( {{x}_{0}};1+\\frac{5}{{{x}_{0}}-3} \\right)\\) là điểm thuộc đồ thị \\(\\left( C \\right)\\), \\({{x}_{0}}\\ne 3\\).\nKhi đó khoảng cách từ \\(M\\) đến tiệm cận đứng là \\({{d}_{1}}=\\left| {{x}_{0}}-3 \\right|\\)\nKhoảng cách từ \\(M\\) đến tiệm cận đứng là \\({{d}_{2}}=\\frac{5}{\\left| {{x}_{0}}-3 \\right|}\\)\nTheo giả thiết \\({{d}_{1}}=5{{d}_{2}}\\) hay \\(\\left| {{x}_{0}}-3 \\right|=\\frac{25}{\\left| {{x}_{0}}-3 \\right|}\\Leftrightarrow {{\\left( {{x}_{0}}-3 \\right)}^{2}}=25\\), phương trình này có \\(2\\) nghiệm \\({{x}_{0}}=-2\\) hoặc \\({{x}_{0}}=8\\)\nVậy, \\(M\\left( -2;0 \\right),\\) \\(M\\left( 8;2 \\right)\\) là tọa độ cần tìm.",
+      "answer": "0",
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 18,
+      "type": "short_answer",
+      "content": "Câu 18: Cho hàm số \\(y\\,=\\,f(x)\\) liên tục trên \\(\\mathbb{R}\\backslash \\left\\{ 1 \\right\\}\\) và có bảng biến thiên như sau:\nĐồ thị \\(y\\,=\\,\\frac{1}{2\\,f\\left( x \\right)\\,+\\,3}\\) có bao nhiêu đường tiệm cận đứng?\nLời giải\nĐặt \\(y\\,=g\\left( x \\right)\\,=\\frac{1}{2\\,f\\left( x \\right)\\,+\\,3}\\) có tử số là \\[1\\ne 0,\\,\\forall x\\in \\mathbb{R}\\]\nTa có \\(2\\,f\\left( x \\right)\\,+\\,3\\,=\\,0\\,\\Leftrightarrow \\,f\\left( x \\right)\\,=\\,-\\frac{3}{2}\\) (1).\nTừ bảng biến thiên có phương trình (1) có 2 nghiệm phân biệt: \\({{x}_{1}}\\,\\in \\,(-\\infty \\,;\\,0)\\,,\\,{{x}_{2}}\\,\\in \\,(0\\,;\\,1)\\).\nDo đó đồ thị hàm số \\(y\\,=\\,\\frac{1}{2\\,f\\left( x \\right)\\,+\\,3}\\) có 2 đường tiệm cận đứng.",
+      "answer": "0",
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 19,
+      "type": "short_answer",
+      "content": "Câu 19: Cho hàm số \\(y=f\\left( x \\right)=a{{x}^{3}}+b{{x}^{2}}+cx+d\\) có đồ thị như bên dưới.\nHỏi đồ thị hàm số \\(y=\\frac{\\left( {{x}^{2}}-2x \\right)\\sqrt{2-x}}{\\left( x-3 \\right)\\left[ {{f}^{2}}\\left( x \\right)-f\\left( x \\right) \\right]}\\) có bao nhiêu đường tiệm cận đứng\nLời giải\nTa có \\({y}'\\left( x \\right)=3a{{x}^{2}}+2bx+c\\).\nDựa vào đồ thị hàm số, ta thấy hàm số đạt cực trị tại \\(x=0\\), \\(x=2\\). Do đó, ta có hệ\n\\(\\left\\{ \\begin{align} & y\\left( 0 \\right)=1 \\\\ & y\\left( 2 \\right)=-3 \\\\ & {y}'\\left( 0 \\right)=0 \\\\ & {y}'\\left( 2 \\right)=0 \\\\ \\end{align} \\right.\\) \\(\\Rightarrow \\left\\{ \\begin{align} & d=1 \\\\ & c=0 \\\\ & 12a+4b=0 \\\\ & 8a+4b=-4 \\\\ \\end{align} \\right.\\) \\(\\Rightarrow \\left\\{ \\begin{align} & a=1 \\\\ & b=-3 \\\\ & c=0 \\\\ & d=1 \\\\ \\end{align} \\right.\\).\nVậy \\(y=f\\left( x \\right)={{x}^{3}}-3{{x}^{2}}+1\\).\nKhi đó \\(y=\\frac{\\left( {{x}^{2}}-2x \\right)\\sqrt{2-x}}{\\left( x-3 \\right)\\left[ {{f}^{2}}\\left( x \\right)-f\\left( x \\right) \\right]}\\[=\\frac{\\left( {{x}^{2}}-2x \\right)\\sqrt{2-x}}{\\left( x-3 \\right)\\left( {{x}^{3}}-3{{x}^{2}}+1 \\right)\\left( {{x}^{3}}-3{{x}^{2}} \\right)}\\]=\\frac{\\left( {{x}^{2}}-2x \\right)\\sqrt{2-x}}{{{x}^{2}}{{\\left( x-3 \\right)}^{2}}\\left( {{x}^{3}}-3{{x}^{2}}+1 \\right)}\\).\nTa có \\({{x}^{2}}{{\\left( x-3 \\right)}^{2}}\\left( {{x}^{3}}-3{{x}^{2}}+1 \\right)=0\\[\\Leftrightarrow \\left[ \\begin{align} & x=0 \\\\ & x=3 \\\\ & x={{x}_{1}}\\in \\left( -1;\\,0 \\right) \\\\ & x={{x}_{2}}\\in \\left( 0;\\,1 \\right) \\\\ & x={{x}_{3}}\\in \\left( 2;\\,3 \\right) \\\\ \\end{align} \\right.\\).\nHàm số \\(y=\\frac{\\left( {{x}^{2}}-2x \\right)\\sqrt{2-x}}{{{x}^{2}}{{\\left( x-3 \\right)}^{2}}\\left( {{x}^{3}}-3{{x}^{2}}+1 \\right)}\\) có tập xác định \\(D=\\left( -\\infty ;\\,2 \\right]\\backslash \\left\\{ 0;\\,{{x}_{1}};\\,{{x}_{2}} \\right\\}\\).\n\\(\\underset{x\\to {{0}^{+}}}{\\mathop{\\lim }}\\,\\frac{\\left( {{x}^{2}}-2x \\right)\\sqrt{2-x}}{{{x}^{2}}{{\\left( x-3 \\right)}^{2}}\\left( {{x}^{3}}-3{{x}^{2}}+1 \\right)}\\]=\\underset{x\\to {{0}^{+}}}{\\mathop{\\lim }}\\,\\frac{x\\left( x-2 \\right)\\sqrt{2-x}}{{{x}^{2}}{{\\left( x-3 \\right)}^{2}}\\left( {{x}^{3}}-3{{x}^{2}}+1 \\right)}\\)\\(=\\underset{x\\to {{0}^{+}}}{\\mathop{\\lim }}\\,\\frac{\\left( x-2 \\right)\\sqrt{2-x}}{x{{\\left( x-3 \\right)}^{2}}\\left( {{x}^{3}}-3{{x}^{2}}+1 \\right)}=-\\infty \\).\nSuy ra \\(x=0\\) là đường tiệm cận đứng.\n\\(\\underset{x\\to x_{1}^{+}}{\\mathop{\\lim }}\\,\\frac{\\left( {{x}^{2}}-2x \\right)\\sqrt{2-x}}{{{x}^{2}}{{\\left( x-3 \\right)}^{2}}\\left( {{x}^{3}}-3{{x}^{2}}+1 \\right)}=+\\infty \\), \\(\\underset{x\\to x_{2}^{+}}{\\mathop{\\lim }}\\,\\frac{\\left( {{x}^{2}}-2x \\right)\\sqrt{2-x}}{{{x}^{2}}{{\\left( x-3 \\right)}^{2}}\\left( {{x}^{3}}-3{{x}^{2}}+1 \\right)}=+\\infty \\).\nSuy ra \\(x={{x}_{1}}\\) và \\(x={{x}_{2}}\\) cũng là các đường tiệm cận đứng của đồ thị hàm số.",
+      "answer": "0",
+      "note": "Đáp án đối chiếu chuẩn"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-4-10-bai-tap-tim-mot-diem-thoa-man-mot-dang-thuc-vecto-cho-truoc-",
+  "sourceId": "vietjack:4-10-bai-tap-tim-mot-diem-thoa-man-mot-d",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "4.10 Bài tập Tìm một điểm thỏa mãn một đẳng thức vectơ cho trước (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Điểm I thỏa mãn I A → + 2 I B → = 0 → là:",
+      "options": [
+        "A. I nằm trên nửa đường thẳng AB theo hướng từ B về A với I A = 2 3 A B ;",
+        "B. I nằm trên nửa đường thẳng AB theo hướng từ A về B với I A = 2 3 A B ;",
+        "C. I nằm trên nửa đường thẳng song song với AB theo hướng từ B về A với I A = 2 3 A B ;",
+        "D. I nằm trên nửa đường thẳng AB theo hướng từ B về A với I A = 1 3 A B ."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A. Theo quy tắc ba điểm, ta có: I A → + 2 I B → = I A → + 2 I A → + A B → = 3 I A → + 2 A B → . Mà I A → + 2 I B → = 0 → Do đó: 3 I A → + 2 A B → = 0 → ⇔ I A → = − 2 3 A B → ⇔ I A → = 2 3 B A → Vậy I nằm trên nửa đường thẳng AB theo hướng từ B về A với I A = 2 3 A B ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Điểm K thỏa mãn: K A → + 2 K B → = C B → là:",
+      "options": [
+        "A. K là trung điểm của BC;",
+        "B. K là trọng tâm của tam giác ABC;",
+        "C. K là trực tâm của tam giác ABC;",
+        "D. K là trung điểm của AB."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải: Đáp án đúng là: B. Ta có: K A → + 2 K B → = C B → ⇔ K A → + 2 K B → − C B → = 0 → ⇔ K A → + K B → + K B → + B C → = 0 → ⇔ K A → + K B → + K C → = 0 → Vậy K là trọng tâm của tam giác ABC."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho tam giác ABC. Điểm P thỏa mãn C P → = K A → + 2 K B → − 3 K C → với K tùy ý là điểm thỏa mãn:",
+      "options": [
+        "A. C P → = C A → + 2 C B →",
+        "B. C P → = C A → − 2 C B →",
+        "C. C P → = 2 C A → + 2 C B →",
+        "D. C P → = 2 C A → - 2 C B →"
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A. Ta có: C P → = K A → + 2 K B → − 3 K C → ⇔ C P → = K C → + C A → + 2 K C → + C B → − 3 K C → (quy tắc ba điểm) ⇔ C P → = C A → + 2 C B → Vậy tập hợp điểm P thỏa mãn C P → = C A → + 2 C B → ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho tứ giác ABCD, I là trung điểm BD. Tìm điểm O thỏa mãn O B → + 4 O C → = 2 O D →",
+      "options": [
+        "A. O là đỉnh của hình bình hành IBON với I N → = 5 3 I C → ;",
+        "B. O là đỉnh của hình bình hành IBON với I N → = 4 3 I C → ;",
+        "C. O là đỉnh của hình bình hành IBON với I N → = I C → ;",
+        "D. O là đỉnh của hình bình hành IBON với I N → = 2 3 I C → ."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải: Đáp án đúng là: B. Ta có: O B → + 4 O C → = 2 O D → ⇔ O B → + 4 O B → + B C → = 2 O B → + B D → (quy tắc ba điểm) ⇔ 3 O B → = 2 B D → − 4 B C → ⇔ 3 O B → = 2 B D → − B C → − 2 B C → (quy tắc trừ hai vectơ) ⇔ 3 O B → = 2 B D → − 4 B C → ⇔ 3 O B → = 2 B D → + 4 C B → ⇔ 3 O B → = 2 C B → + B D → + 2 C B → ⇔ 3 O B → = 2 C D → + 2 C B → (quy tắc ba điểm) ⇔ 3 O B → = 4 C I → (do I là trung điểm của BD nên C D → + C B → = 2 C I → ) ⇔ O B → = 4 3 C I → Vậy O là đỉnh của hình bình hành IBON với I N → = 4 3 I C → ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho tứ giác ABCD và điểm O bất kì sao cho O B → + 4 O C → − 2 O D → = 0 → . Tìm điểm M thỏa mãn hệ thức M B → + 4 M C → − 2 M D → = 3 M A → .",
+      "options": [
+        "A. M thuộc đường trung trực của đoạn thẳng OA;",
+        "B. M thuộc đường trung trực của đoạn thẳng DA;",
+        "C. M thuộc đường trung trực của đoạn thẳng CA;",
+        "D. M thuộc đường trung trực của đoạn thẳng CD."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A. Ta có: M B → + 4 M C → − 2 M D → = 3 M A → ⇔ M O → + O B → + 4 M O → + O C → − 2 M O → + O D → = 3 M A → (quy tắc ba điểm) ⇔ 3 M O → + O B → + 4 O C → − 2 O D → = 3 M A → ⇔ 3 M O → = 3 M A → (do O B → + 4 O C → − 2 O D → = 0 → ) ⇔ M O → = M A → ⇔ MO = MA. Vậy M thuộc đường trung trực của đoạn thẳng OA."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho hai điểm A, B phân biệt. Xác định điểm M biết 2 M A → − 3 M B → = 0 → .",
+      "options": [
+        "A. M nằm trên tia AB và AM = 4AB;",
+        "B. M nằm trên tia AB và AM = AB;",
+        "C. M nằm trên tia AB và AM = 3AB;",
+        "D. M nằm trên tia AB và AM = 2AB."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải: Đáp án đúng là: C. Ta có: 2 M A → − 3 M B → = 0 → ⇔ 2 M A → − 3 M A → + A B → = 0 → (quy tắc ba điểm) ⇔ − M A → − 3 A B → = 0 → ⇔ A M → = 3 A B → Vậy M nằm trên tia AB và AM = 3AB."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-1-de-on-luyen-toan-chuong-6-vecto-va-he-truc-toa-do-trong-khong-g",
+  "sourceId": "vietjack:1-de-on-luyen-toan-chuong-6-vecto-va-he-",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "title": "1.Đề ôn luyện Toán Chương 6. Vectơ và hệ trục tọa độ trong không gian (đề số 1)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho hình lập phương \\(ABCD.A'B'C'D'\\) cạnh \\(a\\) . Khẳng định nào sau đây là sai ?",
+      "options": [
+        "A. \\[\\left| {\\overrightarrow {BD} } \\right| = a\\sqrt 2 \\] .",
+        "B. \\[\\left| {\\overrightarrow {BD'} } \\right| = a\\sqrt 3 \\] .",
+        "C. \\[\\overrightarrow {AC} + \\overrightarrow {A'C'} = \\vec 0\\] .",
+        "D. \\[\\overrightarrow {BA} + \\overrightarrow {BC} + \\overrightarrow {BB'} = \\overrightarrow {BD'} \\] ."
+      ],
+      "answer": "C",
+      "note": "Ta có \\[\\left| {\\overrightarrow {BD} } \\right| = BD = \\sqrt {{a^2} + {a^2}} = a\\sqrt 2 \\] nên khẳng định ở phương án A đúng. \\[\\left| {\\overrightarrow {BD'} } \\right| = BD' = \\sqrt {{a^2} + {a^2} + {a^2}} = a\\sqrt 3 \\] nên khẳng định ở phương án B đúng. Theo quy tắc hình hộp, ta có \\[\\overrightarrow {BA} + \\overrightarrow {BC} + \\overrightarrow {BB'} = \\overrightarrow {BD'} \\] nên khẳng định ở phương án D đúng. Ta có \\(\\overrightarrow {AC} + \\overrightarrow {A'C'} = \\overrightarrow {AC} + \\overrightarrow {AC} = 2\\overrightarrow {AC} \\ne \\overrightarrow 0 \\) nên khẳng định ở phương án C sai . Chọn C ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hình chóp \\(S.ABCD\\) có đáy \\(ABCD\\) là hình bình hành tâm \\(O\\) . Tổng \\(\\overrightarrow {SA} + \\overrightarrow {SB} + \\overrightarrow {SC} + \\overrightarrow {SD} \\) bằng",
+      "options": [
+        "A. \\(4\\overrightarrow {SO} \\) .",
+        "B. \\(8\\overrightarrow {SO} \\) .",
+        "C. \\(3\\overrightarrow {SO} \\) .",
+        "D. \\(2\\overrightarrow {SO} \\) ."
+      ],
+      "answer": "A",
+      "note": "Ta có \\(O\\) là trung điểm \\(AC,\\,\\,BD\\) . Khi đó \\(\\overrightarrow {SA} + \\overrightarrow {SC} = 2\\overrightarrow {SO} ;\\,\\,\\overrightarrow {SB} + \\overrightarrow {SD} = 2\\overrightarrow {SO} \\) . \\( \\Rightarrow \\overrightarrow {SA} + \\overrightarrow {SB} + \\overrightarrow {SC} + \\overrightarrow {SD} = 4\\overrightarrow {SO} \\) . Chọn A ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho tứ diện ABCD , gọi \\(G\\) là trọng tâm của tam giác BCD . Phát biểu nào sau đây là đúng ?",
+      "options": [
+        "A. \\(\\overrightarrow {GA} + \\overrightarrow {GB} + \\overrightarrow {GC} + \\overrightarrow {GD} = \\vec 0\\) .",
+        "B. \\(\\overrightarrow {AB} + \\overrightarrow {BC} + \\overrightarrow {CD} = \\overrightarrow {DA} \\) .",
+        "C. \\(\\overrightarrow {AB} + \\overrightarrow {DC} - \\overrightarrow {DB} = \\overrightarrow {CA} \\) .",
+        "D. \\(\\overrightarrow {AB} + \\overrightarrow {AC} + \\overrightarrow {AD} = 3\\overrightarrow {AG} \\) ."
+      ],
+      "answer": "D",
+      "note": "Vì là trọng tâm của tam giác BCD nên với mọi điểm A bất kì ta có: \\(\\overrightarrow {AB} + \\overrightarrow {AC} + \\overrightarrow {AD} = 3\\overrightarrow {AG} \\) . Chọn D ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho tứ diện đều ABCD có cạnh \\(a\\) . Tích vô hướng \\(\\overrightarrow {BA} \\cdot \\overrightarrow {BC} \\) bằng",
+      "options": [
+        "A. \\( - \\frac{{{a^2}\\sqrt 3 }}{2}\\) .",
+        "B. \\( - \\frac{{{a^2}}}{2}\\) .",
+        "C. \\(\\frac{{{a^2}}}{2}\\) .",
+        "D. \\(\\frac{{{a^2}\\sqrt 3 }}{2}\\) ."
+      ],
+      "answer": "C",
+      "note": "Ta có \\(\\overrightarrow {BA} \\cdot \\overrightarrow {BC} = BA \\cdot BC \\cdot {\\rm{cos}}\\left( {\\overrightarrow {BA} ,\\overrightarrow {BC} } \\right) = a \\cdot a \\cdot {\\rm{cos}}60^\\circ = \\frac{{{a^2}}}{2}\\) . Chọn C ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Trong không gian \\(Oxyz\\) , cho các vectơ \\(\\vec u = \\vec i + 2\\vec j - 3\\vec k,\\vec v = 2\\vec i - \\vec j + \\vec k,\\vec w = \\vec u + \\vec v\\) . Toạ độ của vectơ \\(\\vec w\\) là",
+      "options": [
+        "A. \\(\\vec w = \\left( {3; - 1;2} \\right)\\) .",
+        "B. \\(\\vec w = \\left( {3;1; - 2} \\right)\\) .",
+        "C. \\(\\vec w = \\left( {3;1;2} \\right)\\) .",
+        "D. \\(\\vec w = \\left( {3; - 1; - 2} \\right)\\) ."
+      ],
+      "answer": "B",
+      "note": "Ta có u → = i → + 2 j → - 3 k → v → = 2 i → - j → + k → ⇒ w → = u → + v → = 3 i → + j → - 2 k → . Vậy \\(\\vec w = \\left( {3;1; - 2} \\right)\\) . Chọn B ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong không gian với hệ tọa độ Oxyz , cho hai điểm \\(A\\left( {2; - 1; - 1} \\right),B\\left( { - 3;2; - 2} \\right)\\) . Tọa độ của \\(\\overrightarrow {AB} \\) là",
+      "options": [
+        "A. \\(\\left( {5; - 3; - 1} \\right)\\) .",
+        "B. \\(\\left( {5; - 3;1} \\right)\\) .",
+        "C. \\(\\left( { - 5;1; - 1} \\right)\\) .",
+        "D. \\(\\left( { - 5;3; - 1} \\right)\\) ."
+      ],
+      "answer": "D",
+      "note": "Ta có \\(\\overrightarrow {AB} = \\left( { - 5;3; - 1} \\right)\\) . Chọn D ."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Trong không gian \\(Oxyz\\) , cho tam giác \\(ABC\\) với \\(A\\left( {1;3;4} \\right),B\\left( {2; - 1;0} \\right),C\\left( {3;1;2} \\right)\\) . Tọa độ trọng tâm \\(G\\) của tam giác \\(ABC\\) là",
+      "options": [
+        "A. \\(G\\left( {3;\\frac{2}{3};3} \\right)\\) .",
+        "B. \\(G\\left( {2; - 1;2} \\right)\\) .",
+        "C. \\(G\\left( {2;1;2} \\right)\\) .",
+        "D. \\(G\\left( {6;3;6} \\right)\\) ."
+      ],
+      "answer": "C",
+      "note": "Tọa độ trọng tâm \\(G\\) của tam giác \\(ABC\\) là \\(G\\left( {2;1;2} \\right)\\) . Chọn C ."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Trong không gian Oxyz , cho điểm \\(M\\) thoả mãn \\(\\overrightarrow {OM} = 2\\vec i + 3\\vec j - 4\\vec k\\) . Tìm tọa độ điểm \\(H\\) là hình chiếu vuông góc của điểm \\(M\\) lên mặt phẳng \\(\\left( {Oyz} \\right)\\) .",
+      "options": [
+        "A. \\(H\\left( {2;0;0} \\right)\\) .",
+        "B. \\(H\\left( {0;3; - 4} \\right)\\) .",
+        "C. \\(H\\left( {2;3; - 4} \\right)\\) .",
+        "D. \\(H\\left( { - 2; - 3;4} \\right)\\) ."
+      ],
+      "answer": "B",
+      "note": "Có \\(\\overrightarrow {OM} = 2\\vec i + 3\\vec j - 4\\vec k\\) suy ra \\(M\\left( {2;3; - 4} \\right)\\) . Hình chiếu vuông góc của điểm \\(M\\) lên mặt phẳng \\(\\left( {Oyz} \\right)\\) là \\(H\\left( {0;3; - 4} \\right)\\) . Chọn B ."
+    }
+  ]
+}

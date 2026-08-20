@@ -1,0 +1,196 @@
+{
+  "id": "l12-toan-totnghiep-2026-de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-son-la-nam-2026-lan-1",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "code": "THPT_TKT_2026_SL_01",
+  "title": "Đề khảo sát chất lượng THPT môn Toán Sở GD&ĐT Sơn La năm 2026 - Lần 1",
+  "duration": 90,
+  "answerSource": "official",
+  "source": "https://dolthpt.vn/tot-nghiep-thpt/pdf-de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-son-la-nam-2026-lan-1-co-dap-an",
+  "notes": "Nội dung, đáp án và lời giải được nhập từ bản công khai của DOL THPT.",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "content": "Mỗi ngày bác Sơn đều đi bộ để rèn luyện sức khỏe. Quãng đường đi bộ mỗi ngày (đơn vị: km) của bác Sơn được thống kê ở bảng sau.\nKhoảng tứ phân vị của mẫu số liệu ghép nhóm trên là\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-son-la-nam-2026-lan-1/cau-01.webp\" alt=\"Hình minh họa câu 1\" loading=\"lazy\"></figure>",
+      "chuong": "các số đặc trưng đo mức độ phân tán cho mẫu số liệu ghép nhóm",
+      "dang": "khoảng tứ phân vị",
+      "type": "single",
+      "options": [
+        "A. \\$0,975$",
+        "B. \\$0,5$",
+        "C. \\$0,9$",
+        "D. \\$0,575$"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Các lớp giá trị (km): $[2,7;3,0),\\;[3,0;3,3),\\;[3,3;3,6),\\;[3,6;3,9),\\;[3,9;4,2)$\n- Tần số tương ứng (số ngày): \\$3,\\;6,\\;5,\\;4,\\;2$\n- Tổng số quan sát: $n=3+6+5+4+2=20$\n- Chiều rộng mỗi lớp: $h=0{,}3$\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu tính *khoảng tứ phân vị* (IQR) của mẫu ghép nhóm, tức là $\\text{IQR}=Q_3-Q_1$.\n- Cần xác định vị trí phần tử thứ $\\dfrac{n}{4}$ và $\\dfrac{3n}{4}$, xác định lớp chứa Q1 và Q3, rồi nội suy trong lớp đó.\n🔎 **Hướng dẫn cách làm:**\n- Xác định vị trí: - $\\dfrac{n}{4}= \\dfrac{20}{4}=5$ (quan sát thứ 5 → Q1)\n  - $\\dfrac{3n}{4}= \\dfrac{3\\cdot20}{4}=15$ (quan sát thứ 15 → Q3)\n- Tính phân bố tích lũy để tìm lớp chứa Q1 và Q3: - Tần số tích lũy: 3, 9, 14, 18, 20 → Vậy: - Quan sát thứ 5 nằm trong lớp thứ hai $[3{,}0;3{,}3)$ (lớp có $f=6$, tần suất tích lũy trước lớp là $c=3$).\n    - Quan sát thứ 15 nằm trong lớp thứ tư $[3{,}6;3{,}9)$ (lớp có $f=4$, tần suất tích lũy trước lớp là $c=14$).\n- Công thức nội suy cho phân vị trong dữ liệu nhóm: - Với phân vị ở vị trí $pn$ thuộc lớp có biên dưới $L$, tần số lớp $f$, tần suất tích lũy trước lớp $c$ và chiều rộng lớp $h$:\n- Áp dụng cho Q1 (p = 1/4): - $L_{1}=3{,}0,\\;c=3,\\;f=6$\n  - $Q_1 = 3{,}0 + \\frac{5-3}{6}\\cdot 0{,}3 = 3{,}0 + \\frac{2}{6}\\cdot 0{,}3 = 3{,}0 + 0{,}1 = 3{,}1$\n- Áp dụng cho Q3 (p = 3/4): - $L_{3}=3{,}6,\\;c=14,\\;f=4$\n  - $Q_3 = 3{,}6 + \\frac{15-14}{4}\\cdot 0{,}3 = 3{,}6 + \\frac{1}{4}\\cdot 0{,}3 = 3{,}6 + 0{,}075 = 3{,}675$\n- Tính khoảng tứ phân vị: - $\\text{IQR} = Q_3 - Q_1 = 3{,}675 - 3{,}1 = 0{,}575$\n✅ **Đáp án: **Chọn D. \\$0,575$"
+    },
+    {
+      "id": 2,
+      "content": "Trong không gian $Oxyz$, cho vectơ $\\vec u=2\\vec i-5\\vec k$. Tọa độ của vectơ $\\vec u$ là",
+      "chuong": "vectơ và hệ trục tọa độ trong không gian",
+      "dang": "tọa độ của điểm, tọa độ của vectơ trong không gian",
+      "type": "single",
+      "options": [
+        "A. $(2;-5;0)$",
+        "B. $(0;2;-5)$",
+        "C. $(2;0;5)$",
+        "D. $(2;0;-5)$"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Trong không gian $Oxyz$ có vectơ $\\vec u=2\\vec i-5\\vec k$.\n- Yêu cầu: tìm tọa độ của vectơ $\\vec u$ theo hệ tọa độ $Oxyz$.\n- Biết: $\\vec i=(1;0;0),\\ \\vec j=(0;1;0),\\ \\vec k=(0;0;1)$.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu xác định bộ ba thành phần (tọa độ) của vectơ theo các vectơ đơn vị $\\vec i,\\vec j,\\vec k$.\n- Cần biết cách đọc hệ số trước $\\vec i,\\vec j,\\vec k$ để ghi thành tọa độ dạng $(x;y;z)$.\n🔎 **Hướng dẫn cách làm:**\n- Nhận dạng biểu diễn: $\\vec u=2\\vec i-5\\vec k$ có nghĩa là hệ số trước $\\vec i$ là \\$2$, trước $\\vec j$ không xuất hiện nên là \\$0$, trước $\\vec k$ là $-5$.\n- Ghi thành tọa độ theo thứ tự $(x;y;z)$: $x=2,\\ y=0,\\ z=-5$.\n- Vậy tọa độ của $\\vec u$ là $(2;0;-5)$.\n✅ **Đáp án:** Chọn D. $(2;0;-5)$"
+    },
+    {
+      "id": 3,
+      "content": "Cho cấp số nhân $(u_n)$ có $u_1=2$ và $u_2=6$. Số hạng $u_4$ của cấp số nhân đó là",
+      "chuong": "dãy số. cấp số cộng và cấp số nhân",
+      "dang": "số hạng tổng quát của cấp số nhân",
+      "type": "single",
+      "options": [
+        "A. \\$27$",
+        "B. \\$54$",
+        "C. \\$162$",
+        "D. \\$11$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cấp số nhân $(u_n)$ với $u_1 = 2$ và $u_2 = 6$.\n- Yêu cầu: tìm số hạng $u_4$ của cấp số nhân.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu tính số hạng thứ 4 $u_4$ của một cấp số nhân.\n- Cần biết khái niệm tỷ số công bội $r$ của cấp số nhân và công thức số hạng tổng quát:\n$u_n = u_1 \\cdot r^{\\,n-1}.$\n🔎 **Hướng dẫn cách làm:**\n- Tính công bội $r$ từ hai số hạng đầu:\n$r=\\frac{u_2}{u_}1}=\\frac{6}{2}=3.$\n- Áp dụng công thức số hạng tổng quát với $n=4$:\n$u_4 = u_1\\cdot r^{\\,4-1} = 2\\cdot r^{3}.$\n- Thay $r=3$ vào:\n$u_4 = 2\\cdot 3^{3} = 2\\cdot 27 = 54.$\n✅ **Đáp án:** Chọn B. \\$54$"
+    },
+    {
+      "id": 4,
+      "content": "Cho hình lập phương $ABCD.A_1B_1C_1D_1$ (tham khảo hình vẽ bên). Phát biểu nào sau đây đúng?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-son-la-nam-2026-lan-1/cau-04.webp\" alt=\"Hình minh họa câu 4\" loading=\"lazy\"></figure>",
+      "chuong": "vectơ và hệ trục tọa độ trong không gian",
+      "dang": "biểu thức tọa độ của phép cộng hai vectơ, phép trừ hai vectơ, phép nhân một số với một vectơ",
+      "type": "single",
+      "options": [
+        "A. $\\overrightarrow{AC_1}=\\overrightarrow{AA_1}+\\overrightarrow{AB}$",
+        "B. $\\overrightarrow{AC_1}=\\overrightarrow{AA_1}+\\overrightarrow{AB}+\\overrightarrow{AD}$",
+        "C. $\\overrightarrow{AC_1}=\\overrightarrow{AA_1}+\\overrightarrow{AC}$",
+        "D. $\\overrightarrow{AC_1}=\\overrightarrow{AA_1}+\\overrightarrow{CA_1}$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cho hình lập phương $ABCD.A_1B_1C_1D_1$.\n- Cần xét véc-tơ $\\overrightarrow{AC_1}$.\n- Các phương án đều là các cách phân tích véc-tơ trong hình lập phương.\n❓ **Hiểu câu hỏi:**\n- Ta cần tìm đẳng thức véc-tơ đúng của $\\overrightarrow{AC_1}$.\n- Muốn làm được, ta dùng quy tắc cộng véc-tơ theo đường đi và tính chất các cạnh song song, bằng nhau trong hình lập phương.\n🔎 **Hướng dẫn cách làm:**\n- Đi từ điểm $A$ đến điểm $C_1$ theo đường $A \\to C \\to C_1$, ta có: $\\overrightarrow{AC_1}=\\overrightarrow{AC}+\\overrightarrow{CC_1}$\n- Trong hình lập phương, các cạnh thẳng đứng bằng nhau và cùng hướng nên: $\\overrightarrow{CC_1}=\\overrightarrow{AA_1}$\n- Thay vào, suy ra: $\\overrightarrow{AC_1}=\\overrightarrow{AC}+\\overrightarrow{AA_1}$\n- Ở mặt đáy $ABCD$ là hình vuông, véc-tơ đường chéo đáy được phân tích thành: $\\overrightarrow{AC}=\\overrightarrow{AB}+\\overrightarrow{AD}$\n- Vậy: $\\overrightarrow{AC_1}=\\overrightarrow{AA_1}+\\overrightarrow{AB}+\\overrightarrow{AD}$\n- So sánh với các đáp án đã cho, ta thấy phương án đúng là phương án $B$.\n✅ **Đáp án:** Chọn B. $\\overrightarrow{AC_1}=\\overrightarrow{AA_1}+\\overrightarrow{AB}+\\overrightarrow{AD}$"
+    },
+    {
+      "id": 5,
+      "content": "Cho hàm số $y=f(x)$ thỏa mãn $f(1)=-2$, $f(2)=1$ và có đạo hàm liên tục trên đoạn $[1;2]$. Giá trị của tích phân $I=\\int_1^2f^{\\prime}(x)\\,dx$ là",
+      "chuong": "nguyên hàm và tích phân",
+      "dang": "tính chất của tích phân",
+      "type": "single",
+      "options": [
+        "A. $I=-1$",
+        "B. $I=2$",
+        "C. $I=-3$",
+        "D. $I=3$"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số $y=f(x)$ thỏa mãn $f(1)=-2$.\n- Hàm số $y=f(x)$ thỏa mãn $f(2)=1$.\n- $f'$ liên tục trên đoạn $[1;2]$ (suy ra $f'$ nguyên tích được trên đoạn).\n- Cần tính tích phân $I=\\int_1^2 f\\,'(x)\\,dx$.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu tính giá trị của tích phân xác định của đạo hàm $f'(x)$ trên đoạn $[1,2]$.\n- Kiến thức cần dùng:\n$\\int_a^b f'(x)\\,dx = f(b)-f(a).$\n- Việc $f'$ liên tục đảm bảo tích phân và định lý cơ bản áp dụng được.\n🔎 **Hướng dẫn cách làm:**\n- Áp dụng định lý cơ bản của giải tích:\n$\\int_1^2 f'(x)\\,dx = f(2)-f(1).$\n- Thay các giá trị đã cho: $f(2)=1,\\quad f(1)=-2.$\n- Do đó:\n$I=\\int_1^2 f'(x)\\,dx = 1 - (-2) = 3.$\n✅ **Đáp án:** Chọn  $D. I=3$"
+    },
+    {
+      "id": 6,
+      "content": "Họ tất cả các nguyên hàm của hàm số $y=\\sin x+\\cos x$ là",
+      "chuong": "nguyên hàm và tích phân",
+      "dang": "nguyên hàm của một số hàm số thường gặp",
+      "type": "single",
+      "options": [
+        "A. $\\int(\\sin x+\\cos x)\\,dx=\\sin x+\\cos x+C$",
+        "B. $\\int(\\sin x+\\cos x)\\,dx=-\\sin x-\\cos x+C$",
+        "C. $\\int(\\sin x+\\cos x)\\,dx=-\\sin x+\\cos x+C$",
+        "D. $\\int(\\sin x+\\cos x)\\,dx=\\sin x-\\cos x+C$"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số cần tìm nguyên hàm: $y=\\sin x+\\cos x$\n- Yêu cầu: tìm tất cả các nguyên hàm (nguyên hàm tổng quát) của hàm số trên.\n- Công thức nguyên hàm cơ bản cần nhớ: nguyên hàm của $\\sin x$ và $\\cos x$.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu: tìm biểu thức của mọi nguyên hàm của hàm $\\sin x+\\cos x$ (tức tìm $\\int(\\sin x+\\cos x)\\,dx$).\n- Cần áp dụng: tính chất tuyến tính của tích phân và công thức nguyên hàm cơ bản: - $\\int \\sin x\\,dx$ và $\\int \\cos x\\,dx$.\n🔎 **Hướng dẫn cách làm:**\n- Vì tích phân là tuyến tính, ta tách: - $\\int(\\sin x+\\cos x)\\,dx=\\int\\sin x\\,dx+\\int\\cos x\\,dx.$\n- Áp dụng công thức nguyên hàm cơ bản: - Ta biết $\\int\\sin x\\,dx=-\\cos x + C_1$ .\n  - Ta biết $\\int\\cos x\\,dx=\\sin x + C_2$.\n- Cộng hai kết quả và gộp hằng số thành một hằng số duy nhất $C$: - $\\int(\\sin x+\\cos x)\\,dx=-\\cos x+\\sin x + C = \\sin x-\\cos x + C.$\n✅ **Đáp án:** Chọn  $D. \\int(\\sin x+\\cos x)\\,dx=\\sin x-\\cos x+C$"
+    },
+    {
+      "id": 7,
+      "content": "Tiệm cận đứng của đồ thị hàm số $y=\\dfrac{2x-1}{x-1}$ là đường thẳng có phương trình",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "đường tiệm cận đứng",
+      "type": "single",
+      "options": [
+        "A. $y=1$",
+        "B. $x=1$",
+        "C. $y=2$",
+        "D. $x=2$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số đã cho là $y=\\frac{2x-1}{x-}1}$.\n- Cần tìm tiệm cận đứng của đồ thị.\n- Các lựa chọn gồm: $y=1,\\ x=1,\\ y=2,\\ x=2$.\n❓ **Hiểu câu hỏi:**\n- Tiệm cận đứng của phân thức hữu tỉ thường là nghiệm của mẫu số.\n- Đồng thời tại đó tử số phải khác \\$0$.\n🔎 **Hướng dẫn cách làm:**\n- Xét mẫu số: $x-1=0 \\Rightarrow x=1$.\n- Thay $x=1$ vào tử số: \\$2\\cdot 1-1=1\\ne 0$.\n- Vậy đồ thị có tiệm cận đứng là $x=1$.\n✅ **Đáp án:** Chọn B. $x=1$"
+    },
+    {
+      "id": 8,
+      "content": "Cho mặt phẳng $(P):3x-y+z-2=0$. Vectơ nào trong các vectơ dưới đây là một vectơ pháp tuyến của mặt phẳng $(P)$?",
+      "chuong": "phương pháp tọa độ trong không gian",
+      "dang": "vectơ pháp tuyến và cặp vectơ chỉ phương của mặt phẳng",
+      "type": "single",
+      "options": [
+        "A. $\\vec n=(3;-1;1)$",
+        "B. $\\vec n=(3;-1;2)$",
+        "C. $\\vec n=(3;-1;-2)$",
+        "D. $\\vec n=(3;-1;0)$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Mặt phẳng $(P):\\;3x - y + z - 2 = 0.$\n- Các hệ số của $x,y,z$ trên mặt phẳng là \\$3,\\;-1,\\;1$.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi: Vectơ nào trong các vectơ cho là một vectơ pháp tuyến của mặt phẳng $(P)$?\n- Kiến thức cần áp dụng: với phương trình mặt phẳng $ax+by+cz+d=0$, vectơ pháp tuyến là $\\vec n=(a,b,c).$\n🔎 **Hướng dẫn cách làm:**\n- Nhận diện dạng của phương trình mặt phẳng: $ax+by+cz+d=0.$\n- So sánh với $(P):\\;3x - y + z - 2 = 0$ ta có $a=3,\\; b=-1,\\; c=1.$\n- Do đó vectơ pháp tuyến của mặt phẳng $(P)$ là $\\vec n=(3,-1,1).$\n✅ **Đáp án:** Chọn A. $\\vec{n}=(3;-1;1)$"
+    },
+    {
+      "id": 9,
+      "content": "Nghiệm của phương trình $\\log_2(x+1)=3$ là",
+      "chuong": "hàm số mũ và hàm số lôgarit",
+      "dang": "phương trình lôgarit",
+      "type": "single",
+      "options": [
+        "A. $x=9$",
+        "B. $x=7$",
+        "C. $x=8$",
+        "D. $x=5$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Phương trình: $\\log_2(x+1)=3$\n- Lưu ý về logarit: cơ số \\$2$ là hợp lệ (dương và khác \\$1$).\n- Điều kiện xác định của biểu thức logarit: biểu thức bên trong log phải dương.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu tìm nghiệm của phương trình logarit đã cho.\n- Cần áp dụng kiến thức: điều kiện xác định của logarit và chuyển đổi giữa dạng logarit và dạng mũ: - $\\log_a b = c \\iff b = a^c$\n🔎 **Hướng dẫn cách làm:**\n- Xác định điều kiện xác định: vì $\\log_2(x+1)$ có nghĩa khi và chỉ khi $x+1>0$, tức là $x>-1$.\n- Chuyển phương trình logarit sang dạng mũ bằng công thức: $\\log_2(x+1)=3 \\iff x+1=2^3$.\n- Tính: \\$2^3=8$ nên $x+1=8 \\Rightarrow x=7$.\n- Kiểm tra nghiệm: với $x=7$, ta có $x+1=8>0$ (thỏa điều kiện) và $\\log_2(8)=3$ đúng.\n✅ **Đáp án:** Chọn  $B. x=7$"
+    },
+    {
+      "id": 10,
+      "content": "Tập nghiệm của phương trình $\\cos x=1$ là",
+      "chuong": "hàm số lượng giác và phương trình lượng giác",
+      "dang": "phương trình cosx=m",
+      "type": "single",
+      "options": [
+        "A. $S=\\{2k\\pi\\mid k\\in\\mathbb{Z}\\}$",
+        "B. $S=\\left\\{\\dfrac{\\pi}{2}+2k\\pi\\mid k\\in\\mathbb{Z}\\right\\}$",
+        "C. $S=\\left\\{\\dfrac{\\pi}{2}+k\\pi\\mid k\\in\\mathbb{Z}\\right\\}$",
+        "D. $S=\\{k\\pi\\mid k\\in\\mathbb{Z}\\}$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Phương trình cần giải: $\\cos x = 1$\n- Các phương án (đã biết): A là $S=\\{2k\\pi\\mid k\\in\\mathbb{Z}\\}$; B, C, D là những tập nghiệm khác (không đúng).\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu tìm tập mọi nghiệm của phương trình $\\cos x = 1$.\n- Cần vận dụng kiến thức về hàm lượng giác (giá trị của hàm cosine trên vòng lượng giác) và tính tuần hoàn của hàm cosine.\n🔎 **Hướng dẫn cách làm:**\n- Ta biết trên vòng lượng giác, $\\cos 0 = 1$ và hàm cosine có chu kỳ \\$2\\pi$, nghĩa là $\\cos(x+2\\pi)=\\cos x\\ \\text{với mọi }x.$\n- Áp dụng hệ thức tổng quát: nếu $\\cos x=\\cos \\alpha$ thì nghiệm là $x=2k\\pi\\pm\\alpha\\quad(k\\in\\mathbb{Z}).$\nỞ đây, $\\alpha=0$, nên\n$x=2k\\pi\\pm 0 \\implies x=2k\\pi\\quad(k\\in\\mathbb{Z}).$\n- Kiểm tra các phương án sai: - Với $x=\\dfrac{\\pi}{2}+2k\\pi$ (phương án B), ta có $\\cos\\left(\\dfrac{\\pi}{2}+2k\\pi\\right)=0\\neq1.$\n  - Với $x=\\dfrac{\\pi}{2}+k\\pi$ (phương án C), cũng cho $\\cos=\\;0\\;(\\text{hoặc }0),$ không bằng 1.\n  - Với $x=k\\pi$ (phương án D), ta có $\\cos(k\\pi)=(-1)^k$, chỉ bằng 1 khi $k$ chẵn (tức các giá trị \\$2m\\pi$), nên tập $\\{k\\pi\\mid k\\in\\mathbb{Z}\\}$ chứa thêm nghiệm không thỏa mãn (ví dụ $x=\\pi$ không thỏa).\n- Do đó tập nghiệm đúng là $\\{2k\\pi\\mid k\\in\\mathbb{Z}\\}.$\n✅ **Đáp án: **Chọn  $A. S=\\{2k\\pi\\mid k\\in\\mathbb{Z}\\}$"
+    },
+    {
+      "id": 11,
+      "content": "Cho hình lăng trụ $ABC.A\\,\\prime B\\,\\prime C\\,\\prime$ như hình vẽ. Đường thẳng nào sau đây song song với mặt phẳng $(ACC\\,\\prime A\\,\\prime)$?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-son-la-nam-2026-lan-1/cau-11.webp\" alt=\"Hình minh họa câu 11\" loading=\"lazy\"></figure>",
+      "chuong": "quan hệ song song trong không gian",
+      "dang": "đường thẳng song song với mặt phẳng",
+      "type": "single",
+      "options": [
+        "A. $AA\\,\\prime$",
+        "B. $BB\\,\\prime$",
+        "C. $AC$",
+        "D. $AB$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cho hình lăng trụ $ABC.A'B'C'$.\n- Xét mặt phẳng $\\left(ACC'A'\\right)$.\n- Các đáp án: $AA',\\ BB',\\ AC',\\ AB$.\n❓ **Hiểu câu hỏi:**\n- Cần tìm một đường thẳng song song với mặt phẳng $\\left(ACC'A'\\right)$.\n- Chỉ cần chỉ ra đường thẳng đó song song với một đường nằm trong mặt phẳng và không cắt mặt phẳng.\n🔎 **Hướng dẫn cách làm:**\n- Trong mặt phẳng $\\left(ACC'A'\\right)$ có đường thẳng $AA'$.\n- Ta có trong lăng trụ: $BB' \\parallel AA'$.\n- Đồng thời $BB'$ không nằm trong mặt phẳng $\\left(ACC'A'\\right)$, nên suy ra $BB' \\parallel \\left(ACC'A'\\right)$.\n- Vậy đường cần tìm là $BB'$, và nó song song với $AA'$ trong mặt phẳng.\n✅ **Đáp án:** Chọn B. $BB'$"
+    },
+    {
+      "id": 12,
+      "content": "Cho hình chóp $S.ABC$ có $SA\\perp(ABC)$, $SA=3$; $\\triangle ABC$ vuông cân tại $A$ với $AB=4$. Thể tích khối chóp $S.ABC$ bằng",
+      "chuong": "quan hệ vuông góc trong không gian",
+      "dang": "thể tích",
+      "type": "single",
+      "options": [
+        "A. \\$48$",
+        "B. \\$16$",
+        "C. \\$8$",
+        "D. \\$24$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- $SA\\perp(ABC)$\n- $SA=3$\n- $\\triangle ABC$ vuông cân tại $A$ với $AB=4$\n- Tìm thể tích khối chóp $S.ABC$\n❓ **Hiểu câu hỏi:**\n- Cần tính thể tích khối chóp có đáy là tam giác $ABC$ và đỉnh $S$.\n- Áp dụng công thức thể tích khối chóp: $V=\\dfrac{1}{3}S_{base}\\cdot h$, trong đó $S_{base}$ là diện tích đáy và $h$ là khoảng cách từ đỉnh tới mặt đáy.\n- Biết $SA\\perp(ABC)$ nên $h=SA$.\n🔎 **Hướng dẫn cách làm:**\n- Vì $\\triangle ABC$ vuông cân tại $A$ và cho $AB=4$ nên $AC=AB=4$.\n- Diện tích tam giác $ABC$:\n$S_{ABC}=\\dfrac{1}{2}\\cdot AB\\cdot AC=\\dfrac{1}{2}\\cdot 4\\cdot 4=8.$\n- Chiều cao của khối chóp bằng khoảng cách từ $S$ đến mặt phẳng $ABC$, tức $h=SA=3$ (do $SA\\perp(ABC)$).\n- Thể tích khối chóp:\n$V=\\dfrac{1}{3}S_{ABC}\\cdot h=\\dfrac{1}{3}\\cdot 8\\cdot 3=8.$\n✅ **Đáp án:** $\\text{C. 8}$"
+    }
+  ]
+}

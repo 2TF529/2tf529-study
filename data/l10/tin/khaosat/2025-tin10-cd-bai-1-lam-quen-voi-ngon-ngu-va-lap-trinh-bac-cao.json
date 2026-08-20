@@ -1,0 +1,262 @@
+{
+  "id": "l10-tin-khaosat-2025-tin10-cd-bai-1-lam-quen-voi-ngon-ngu-va-lap-trinh-bac-cao",
+  "grade": "l10",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2025,
+  "code": "",
+  "title": "TIN10 - CD-Bài 1. Làm quen với ngôn ngữ và lập trình bậc cao",
+  "duration": 28,
+  "answerSource": "official",
+  "sourceId": "hochanh:6009",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Python là:",
+      "options": [
+        "A. Ngôn ngữ lập trình bậc cao.",
+        "B. Ngôn ngữ lập trình bậc thấp.",
+        "C. Chương trình dịch.",
+        "D. Ngôn ngữ máy."
+      ],
+      "answer": "A",
+      "note": "Đáp án do AI tự động giải & xác minh (tham khảo)"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Trong ngôn ngữ lập trình Python, để in ra màn hình ta sử dụng lệnh:",
+      "options": [
+        "A. write()",
+        "B. Print()",
+        "C. cout<<",
+        "D. read()"
+      ],
+      "answer": "B",
+      "note": "Đáp án do AI tự động giải & xác minh (tham khảo)"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Trong ngôn ngữ lập trình Python, để in ra màn hình câu lệnh ‘xin chao’ ta viết:",
+      "options": [
+        "A. print()",
+        "B. print(xin chao)",
+        "C. print(‘xin chao’)",
+        "D. print xin chao"
+      ],
+      "answer": "C",
+      "note": "Đáp án do AI tự động giải & xác minh (tham khảo)"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Khẳng định nào sau đây là sai khi nói về ngôn ngữ Python ?",
+      "options": [
+        "A. Python phân biệt chữ hoa và chữ thường.",
+        "B. Python là ngôn ngữ lập trình bậc cao.",
+        "C. Python được dùng để phát triển các ứng dụng web, phần mềm ứng dụng, điều khiển robot...",
+        "D. Python là ngôn ngữ máy tính có thể trực tiếp hiểu và thực hiện được."
+      ],
+      "answer": "D",
+      "note": "Đáp án do AI tự động giải & xác minh (tham khảo)"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Một ô tô đi từ A đến B với vận tốc v(km/h). Câu lệnh để tính ‘Thời gian ô tô đó đi hết quãng đường k(km)’ là:",
+      "options": [
+        "A. print(k/v)",
+        "B. print(‘k/v’)",
+        "C. print(“k/v”)",
+        "D. print k/v"
+      ],
+      "answer": "A",
+      "note": "Đáp án do AI tự động giải & xác minh (tham khảo)"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Trong cửa sổ Shell của Python:",
+      "options": [
+        "A. Thực hiện ngay từng câu lệnh và thấy được kết quả.",
+        "B. Không thực hiện ngay từng câu lệnh và không thấy được kết quả.",
+        "C. Không thể thực hiện bất kì câu lệnh nào.",
+        "D. Không thể thực hiện từng câu lệnh mà thực hiện toàn bộ."
+      ],
+      "answer": "A",
+      "note": "Đáp án do AI tự động giải & xác minh (tham khảo)"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Khẳng định nào sau đây về Python là đúng?",
+      "options": [
+        "A. Python là một ngôn ngữ lập trình bậc cao.",
+        "B. Python là một ngôn ngữ thông dịch.",
+        "C. Python là ngôn ngữ lập trình hướng đối tượng.",
+        "D. Tất cả các đáp án đều đúng"
+      ],
+      "answer": "D",
+      "note": "Đáp án do AI tự động giải & xác minh (tham khảo)"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Chọn phát biểu sai ?",
+      "options": [
+        "A. Cửa sổ Shell, cho phép viết và thực hiện ngay các biểu thức hoặc câu lệnh.",
+        "B. Ngôn ngữ lập trình trực quan như Scratch dễ dùng và thích hợp với các bạn nhỏ tuổi.",
+        "C. Trong Python, không phân biệt chữ hoa và chữ thường.",
+        "D. Python là ngôn ngữ lập trình bậc cao phổ biến rộng rãi trên thế giới."
+      ],
+      "answer": "C",
+      "note": "Đáp án do AI tự động giải & xác minh (tham khảo)"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "content": "Python được dùng để:",
+      "options": [
+        "A. phát triển các ứng dụng web, phần mềm ứng dụng",
+        "B. lập trình games, điều khiển robot",
+        "C. xử lí ảnh, phân tích dữ liệu, ...",
+        "D. Cả A, B và C."
+      ],
+      "answer": "D",
+      "note": "Đáp án do AI tự động giải & xác minh (tham khảo)"
+    },
+    {
+      "id": 11,
+      "type": "single",
+      "content": "Dãy kí tự muốn in ra màn hình bằng câu lệnh print( ) cần đặt trong cặp dấu gì?",
+      "options": [
+        "A. nháy đơn",
+        "B. nháy kép",
+        "C. ngoặc kép",
+        "D. Cả A, B đều đúng."
+      ],
+      "answer": "D",
+      "note": "Đáp án do AI tự động giải & xác minh (tham khảo)"
+    },
+    {
+      "id": 12,
+      "type": "single",
+      "content": "Trong ngôn ngữ lập trình Python, phát biểu nào sau đây là đúng ?",
+      "options": [
+        "A. Python là ngôn ngữ lập trình bậc cao duy nhất",
+        "B. Chương trình máy tính là một dãy các câu lệnh mà máy tính không hiểu được.",
+        "C. Python phân biệt chữ hoa với chữ thường.",
+        "D. Dãy kí tự muốn in ra màn hình dùng câu lệnh print( ) và không cần dùng cặp nháy."
+      ],
+      "answer": "C",
+      "note": "Đáp án do AI tự động giải & xác minh (tham khảo)"
+    },
+    {
+      "id": 13,
+      "type": "single",
+      "content": "Cho đoạn chương trình sau: a=b=1 c=1 d=2 print(a+b+c+d) Kết quả trên màn hình là:",
+      "options": [
+        "A. 3",
+        "B. 4",
+        "C. 5",
+        "D. 6"
+      ],
+      "answer": "C",
+      "note": "Đáp án do AI tự động giải & xác minh (tham khảo)"
+    },
+    {
+      "id": 14,
+      "type": "single",
+      "content": "Hình vuông có cạnh là 10(cm). Ta có thể dùng Python để viết chương trình tính diện tích hình vuông là:",
+      "options": [
+        "A. print(‘dien tich hinh vuong la:’,a*a)",
+        "B. print(‘dien tich hinh vuong la:a*a’)",
+        "C. print(dien tich hinh vuong la:a*a)",
+        "D. print ‘dien tich hinh vuong la:’,a*a"
+      ],
+      "answer": "A",
+      "note": "Đáp án do AI tự động giải & xác minh (tham khảo)"
+    },
+    {
+      "id": 15,
+      "type": "single",
+      "content": "Đâu là ngôn ngữ lập trình trực quan?",
+      "options": [
+        "A. Scratch",
+        "B. Python",
+        "C. C++",
+        "D. Java"
+      ],
+      "answer": "A",
+      "note": "Đáp án do AI tự động giải & xác minh (tham khảo)"
+    },
+    {
+      "id": 16,
+      "type": "single",
+      "content": "Cho biết các khẳng định nào sau đây là đúng?",
+      "options": [
+        "A. Python là một ngôn ngữ lập trình bậc cao.",
+        "B. Python không là một ngôn ngữ hướng đối tượng",
+        "C. Python là một ngôn ngữ thông dịch",
+        "D. Python hỗ trợ lập trình vi điều khiển."
+      ],
+      "answer": "A",
+      "note": "Đáp án do AI tự động giải & xác minh (tham khảo)"
+    },
+    {
+      "id": 17,
+      "type": "single",
+      "content": "Loại ngôn ngữ nào mà máy tính có thể trực tiếp hiểu và thực hiện được?",
+      "options": [
+        "A. Ngôn ngữ máy",
+        "B. Ngôn ngữ lập trình bậc cao",
+        "C. Hợp ngữ",
+        "D. Ngôn ngữ tự nhiên"
+      ],
+      "answer": "A",
+      "note": "Đáp án do AI tự động giải & xác minh (tham khảo)"
+    },
+    {
+      "id": 18,
+      "type": "single",
+      "content": "Phát biểu nào sau đây sai?",
+      "options": [
+        "A. Để giải bài toán bằng máy tính phải viết chương trình mô tả thuật toán giải bài toán đó.",
+        "B. Mọi người sử dụng máy tính đều phải biết lập trình.",
+        "C. Máy tính điện tử có thể chạy các chương trình.",
+        "D. Một bài toán có thể có nhiều thuật toán để giải."
+      ],
+      "answer": "B",
+      "note": "Đáp án do AI tự động giải & xác minh (tham khảo)"
+    },
+    {
+      "id": 19,
+      "type": "single",
+      "content": "Python là ngôn ngữ lập trình có mã nguồn:",
+      "options": [
+        "A. Mở",
+        "B. Đóng",
+        "C. Liên kết",
+        "D. Rộng"
+      ],
+      "answer": "A",
+      "note": "Đáp án do AI tự động giải & xác minh (tham khảo)"
+    },
+    {
+      "id": 20,
+      "type": "single",
+      "content": "Ngôn ngữ lập trình Python do ai viết?",
+      "options": [
+        "A. Pascal",
+        "B. Microsoft",
+        "C. Guido van Rossum",
+        "D. James Gosling"
+      ],
+      "answer": "C",
+      "note": "Đáp án do AI tự động giải & xác minh (tham khảo)"
+    }
+  ]
+}

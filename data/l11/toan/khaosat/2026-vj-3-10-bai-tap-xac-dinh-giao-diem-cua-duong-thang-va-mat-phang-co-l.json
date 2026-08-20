@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-3-10-bai-tap-xac-dinh-giao-diem-cua-duong-thang-va-mat-phang-co-l",
+  "sourceId": "vietjack:3-10-bai-tap-xac-dinh-giao-diem-cua-duon",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.10 Bài tập Xác định giao điểm của đường thẳng và mặt phẳng (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Với một đường thẳng d bất kỳ và một mặt phẳng (P), trường hợp mối quan hệ có thể xảy ra là",
+      "options": [
+        "A. d nằm trên (P);",
+        "B. d song song với (P);",
+        "C. d cắt (P);",
+        "D. Cả ba phương án trên."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Với đường thẳng d nằm trên mặt phẳng (P) thì d và (P) có",
+      "options": [
+        "A. Không điểm chung;",
+        "B. Một điểm chung duy nhất;",
+        "C. Vô số điểm chung;",
+        "D. Cả ba phương án trên."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Với một đường thẳng nằm trên mặt phẳng thì chúng có vô số điểm chung."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Với đường thẳng d song song với mặt phẳng (P) thì d và (P) có",
+      "options": [
+        "A. Không điểm chung;",
+        "B. Một điểm chung duy nhất;",
+        "C. Vô số điểm chung;",
+        "D. Cả ba phương án trên."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Với một đường thẳng song song với mặt phẳng thì chúng không có điểm chung."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Với đường thẳng d đi qua mặt phẳng (P) thì d và (P) có",
+      "options": [
+        "A. Không điểm chung;",
+        "B. Một điểm chung duy nhất;",
+        "C. Vô số điểm chung;",
+        "D. Cả ba phương án trên."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Khi một đường thẳng cắt nhau với mặt phẳng thì chúng có 1 điểm chung duy nhất."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho tứ diện ABCD. Gọi E và F lần lượt là trung điểm của AB và CD; G là trọng tâm tam giác BCD. Giao điểm của đường thẳng EG và mặt phẳng (ACD) là:",
+      "options": [
+        "A. Điểm F;",
+        "B. Giao điểm của EG và AC;",
+        "C. Giao điểm của EG và CD;",
+        "D. Giao điểm của EG và AF."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Vì G là trọng tâm tam giác BCD; F là trung điểm của CD nên G ∈ BF ⊂ (ABF) E là trung điểm của AB nên E ∈ (ABF). Do đó ta chọn mp phụ chứa EG là (ABF). Dễ thấy giao tuyến của (ACD) và (ABF) là AF. Trên mp(ABF), gọi M là giao điểm của EG và AF . Vậy giao điểm của EG và mp(ACD) là giao điểm M của EG và AF. Vậy đáp án đúng là C."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Có 4 điểm A, B, C, D không đồng phẳng. Lấy hai điểm E và F trên AD và AB sao cho EF không song song với BD. Giao điểm của đường thẳng EF với (BCD) là",
+      "options": [
+        "A. Giao điểm của EF và BD;",
+        "B. Giao điểm của EF và BC;",
+        "C. Giao điểm của EF và BA;",
+        "D. Giao điểm của EF và AD."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A EF và BD cùng nằm trên mặt phẳng ABD và không song song với nhau. Gọi H là giao điểm của EF và BD. Chọn mặt phẳng phụ chứa EF là (ABD). Dễ thấy BD là giao tuyến của (ABD) và (BCD). EF và BD cắt nhau tại H. Vậy H là giao điểm của EF và (BCD). Đáp án đúng là A."
+    }
+  ]
+}

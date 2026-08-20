@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-10-10-bai-tap-goc-giua-duong-thang-va-mat-phang-co-loi-giai",
+  "sourceId": "vietjack:10-10-bai-tap-goc-giua-duong-thang-va-ma",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "10.10 bài tập Góc giữa đường thẳng và mặt phẳng có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Trong không gian Oxyz, góc giữa trục Oy và mặt phẳng (Oxz) bằng",
+      "options": [
+        "A. 90°;",
+        "B. 60°;",
+        "C. 30°;",
+        "D. 45°."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Vì Oy (Oxz) nên góc giữa Oy và mặt phẳng (Oxz) bằng 90°."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Trong không gian với hệ tọa độ Oxyz, cho đường thẳng d có phương trình tham số \\(\\left\\{ \\begin{array}{l}x = - 2t\\\\y = 6 + t\\\\z = 1 - 3t\\end{array} \\right.\\) và mặt phẳng (P): 2x – y + 3z + 12 = 0. Tìm sin của góc giữa d và (P).",
+      "options": [
+        "A. 0°;",
+        "B. 1;",
+        "C. 0;",
+        "D. 90°."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Đường thẳng d có một vectơ chỉ phương \\(\\overrightarrow u = \\left( { - 2;1; - 3} \\right)\\). Mặt phẳng (P) có một vectơ pháp tuyến \\(\\overrightarrow n = \\left( {2; - 1;3} \\right)\\). Ta có \\(\\overrightarrow u = - \\overrightarrow n \\) nên d (P) (d, (P)) = 90°. Do đó sin(d, (P)) = 1."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trong không gian với hệ tọa độ Oxyz, cho đường thẳng \\(\\Delta :\\frac{{x - 2}}{1} = \\frac{{y + 2}}{2} = \\frac{z}{{ - 2}}\\) và mặt phẳng (P): 2x – y + 2z – 2022 = 0. Gọi α là góc giữa đường thẳng và mặt phẳng (P). Khẳng định nào sau đây đúng?",
+      "options": [
+        "A. \\(\\sin \\alpha = - \\frac{4}{9}\\);",
+        "B. \\(\\sin \\alpha = \\frac{4}{9}\\);",
+        "C. \\(\\cos \\alpha = - \\frac{4}{9}\\);",
+        "D. \\(\\cos \\alpha = \\frac{4}{9}\\)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Đường thẳng có một vectơ chỉ phương \\(\\overrightarrow u = \\left( {1;2; - 2} \\right)\\); mặt phẳng (P) có một vectơ pháp tuyến \\(\\overrightarrow n = \\left( {2; - 1;2} \\right)\\). Ta có \\(\\sin \\alpha = \\frac{{\\left| {\\overrightarrow u .\\overrightarrow n } \\right|}}{{\\left| {\\overrightarrow u } \\right|.\\left| {\\overrightarrow n } \\right|}} = \\frac{{\\left| {1.2 + 2.\\left( { - 1} \\right) + \\left( { - 2} \\right).2} \\right|}}{{\\sqrt {{1^2} + {2^2} + {{\\left( { - 2} \\right)}^2}} .\\sqrt {{2^2} + {{\\left( { - 1} \\right)}^2} + {2^2}} }} = \\frac{4}{9}\\)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Trong không gian Oxyz, cho A(0; 1; 0), góc giữa đường thẳng OA và mặt phẳng (Oxz) bằng",
+      "options": [
+        "A. 60°;",
+        "B. 45°;",
+        "C. 90°;",
+        "D. 0°."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có OA (Oxz) nên góc giữa đường thẳng OA và mặt phẳng (Oxz) bằng 90°."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Trong không gian Oxyz, hãy tính số đo góc α giữa đường thẳng \\(\\Delta :\\frac{x}{1} = \\frac{y}{2} = \\frac{{z - 1}}{{ - 1}}\\) và mặt phẳng (P): x – y + 2z + 1 = 0.",
+      "options": [
+        "A. 30°;",
+        "B. 60°;",
+        "C. 150°;",
+        "D. 120°."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Đường thẳng có một vectơ chỉ phương \\(\\overrightarrow u = \\left( {1;2; - 1} \\right)\\); mặt phẳng (P) có một vectơ pháp tuyến \\(\\overrightarrow n = \\left( {1; - 1;2} \\right)\\). Ta có \\(\\sin \\alpha = \\frac{{\\left| {\\overrightarrow u .\\overrightarrow n } \\right|}}{{\\left| {\\overrightarrow u } \\right|.\\left| {\\overrightarrow n } \\right|}} = \\frac{{\\left| {1.1 + 2.\\left( { - 1} \\right) + \\left( { - 1} \\right).2} \\right|}}{{\\sqrt {{1^2} + {2^2} + {{\\left( { - 1} \\right)}^2}} .\\sqrt {{1^2} + {{\\left( { - 1} \\right)}^2} + {2^2}} }} = \\frac{1}{2}\\) α = 30°."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong không gian Oxyz, côsin của góc giữa đường thẳng chứa trục Oy và mặt phẳng (P): 4x – 3y + \\(\\sqrt 2 z\\) - 7 = 0 bằng",
+      "options": [
+        "A. \\(\\frac{{\\sqrt 2 }}{{\\sqrt 3 }}\\);",
+        "B. \\(\\frac{2}{{\\sqrt 3 }}\\);",
+        "C. \\(\\frac{1}{{\\sqrt 3 }}\\);",
+        "D. \\(\\frac{4}{{\\sqrt 3 }}\\)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Đường thẳng chứa trục Oy có một vectơ chỉ phương \\(\\overrightarrow j = \\left( {0;1;0} \\right)\\); mặt phẳng (P) có một vectơ pháp tuyến \\(\\overrightarrow n = \\left( {4; - 3;\\sqrt 2 } \\right)\\). Gọi α là góc giữa đường thẳng và mặt phẳng trên. Ta có \\(\\sin \\alpha = \\frac{{\\left| {\\overrightarrow u .\\overrightarrow n } \\right|}}{{\\left| {\\overrightarrow u } \\right|.\\left| {\\overrightarrow n } \\right|}} = \\frac{{\\left| {0.4 + 1.\\left( { - 3} \\right) + 0.\\sqrt 2 } \\right|}}{{\\sqrt {{0^2} + {1^2} + {0^2}} .\\sqrt {{4^2} + {{\\left( { - 3} \\right)}^2} + {{\\left( {\\sqrt 2 } \\right)}^2}} }} = \\frac{1}{{\\sqrt 3 }}\\). Suy ra \\(\\cos \\alpha = \\sqrt {1 - {{\\sin }^2}\\alpha } = \\frac{{\\sqrt 2 }}{{\\sqrt 3 }}\\)."
+    }
+  ]
+}

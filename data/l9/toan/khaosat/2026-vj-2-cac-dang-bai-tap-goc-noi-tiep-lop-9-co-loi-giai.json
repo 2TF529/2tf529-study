@@ -1,0 +1,65 @@
+{
+  "id": "2026-vj-2-cac-dang-bai-tap-goc-noi-tiep-lop-9-co-loi-giai",
+  "sourceId": "vietjack:2-cac-dang-bai-tap-goc-noi-tiep-lop-9-co",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.Các dạng bài tập Góc nội tiếp lớp 9 (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Hình nào dưới đây biểu diễn góc nội tiếp?",
+      "options": [
+        "A. Hình 1.",
+        "B. Hình 2.",
+        "C. Hình 3.",
+        "D. Hình 4."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Góc ở đỉnh nằm trên đường tròn và hai cạnh chứa hai dây cung của đường tròn gọi là góc nội tiếp. Do đó, Hình 2 biểu diễn góc nội tiếp."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Góc nội tiếp chắn nửa đường tròn bằng bao nhiêu độ?",
+      "options": [
+        "A. 45°.",
+        "B. 90°.",
+        "C. 60°.",
+        "D. 120°."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Góc nội tiếp chắn nửa đường tròn bằng 90°."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho đường tròn tâm O và hai đường kính AB, CD. Biết rằng \\[\\widehat {AOC} = 60^\\circ \\]. Chọn khẳng định sai trong các khẳng định dưới đây.",
+      "options": [
+        "A. \\[\\widehat {BOC} = 120^\\circ \\].",
+        "B. \\[\\widehat {ABC} = 60^\\circ \\].",
+        "C. \\[\\widehat {ADC} = 30^\\circ \\].",
+        "D. \\[\\widehat {BAC} = \\widehat {CDB} = 60^\\circ \\]."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có: \\[\\widehat {AOC} + \\widehat {BOC} = 180^\\circ \\] (kề bù) Do đó, \\[\\widehat {BOC} = 180^\\circ - 60^\\circ = 120^\\circ \\]. Suy ra A đúng. Lại có \\[\\widehat {ABC}\\] và \\[\\widehat {ADC}\\] là các góc nội tiếp chắn cung AC, \\[\\widehat {AOC}\\] là góc ở tâm chắn cung AC. Do đó, \\[\\widehat {ABC} = \\widehat {ADC} = \\frac{1}{2}\\widehat {AOC} = \\frac{1}{2}.60^\\circ = 30^\\circ \\]. Do đó, B sai và C đúng. Có \\[\\widehat {BAC} = \\widehat {BDC} = \\frac{1}{2}\\widehat {BOC} = \\frac{1}{2}.120^\\circ = 60^\\circ \\]."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho đường tròn (O) và điểm I nằm ngoài (O). Từ điểm I kẻ hai dây cung AB và CD (A nằm giữa I và B,C nằm giữa I và D) sao cho \\[\\widehat {CAB} = 120^\\circ \\]. Khi đó:",
+      "options": [
+        "A. \\[\\widehat {IAC} = \\widehat {CDB} = 70^\\circ \\].",
+        "B. \\[\\widehat {IAC} = \\widehat {CDB} = 60^\\circ \\].",
+        "C. \\[\\widehat {IAC} = 60^\\circ ,\\widehat {CDB} = 70^\\circ .\\]",
+        "D. \\[\\widehat {IAC} = 70^\\circ ,\\widehat {CDB} = 60^\\circ \\]."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có: \\[\\widehat {CAB} = 120^\\circ \\] nên \\[\\widehat {CAI} = 180^\\circ - \\widehat {CAB} = 180^\\circ - 120^\\circ = 60^\\circ \\]. Ta có: sd lớn = 2\\[\\widehat {CAB} = 240^\\circ \\]. Do đó, sđ nhỏ = 360° − 240° = 120°. Suy ra (góc nội tiếp)."
+    }
+  ]
+}

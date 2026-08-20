@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-12-canh-dieu-thiet-bi-mang-co-dap-an",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-12-canh-die",
+  "grade": "l12",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 12 Cánh diều Thiết bị mạng có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Switch có chức năng chính gì trong mạng LAN?",
+      "options": [
+        "A. Kết nối mạng LAN với Internet",
+        "B. Chuyển tiếp gói tin giữa các thiết bị trong mạng LAN",
+        "C. Tăng tốc độ Internet",
+        "D. Kết nối các mạng LAN khác nhau"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Switch hoạt động bằng cách đọc địa chỉ MAC của các gói tin và chuyển tiếp chúng đến đúng cổng kết nối thiết bị đích trong mạng LAN, giúp tăng hiệu suất mạng và quản lý dữ liệu hiệu quả."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Thiết bị nào dùng để kết nối nhiều mạng với nhau và định tuyến lưu lượng dữ liệu giữa các mạng?",
+      "options": [
+        "A. Switch",
+        "B. Router",
+        "C. Access Point",
+        "D. Modem"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Router được sử dụng để kết nối các mạng khác nhau, chẳng hạn như mạng LAN với mạng WAN (Internet), và định tuyến lưu lượng dữ liệu giữa các mạng thông qua việc xây dựng bảng định tuyến."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Thiết bị nào trong mạng cho phép kết nối không dây và có thể trang bị ăng-ten để phát sóng Wi-Fi?",
+      "options": [
+        "A. Router",
+        "B. Switch",
+        "C. Modem",
+        "D. Access Point"
+      ],
+      "answer": "D",
+      "note": "Đáp án: D Giải thích: Access Point (AP) là thiết bị phát sóng Wi-Fi, cho phép các thiết bị như điện thoại thông minh, máy tính xách tay kết nối không dây vào mạng. Một số AP cũng có thể hoạt động như một Router Wi-Fi nếu có cổng WAN."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cáp nào trong mạng có khả năng truyền tải dữ liệu nhanh nhất?",
+      "options": [
+        "A. Cáp đồng trục",
+        "B. Cáp xoắn đôi",
+        "C. Cáp quang",
+        "D. Cáp điện"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Cáp quang sử dụng sợi thủy tinh để truyền tín hiệu ánh sáng, cho phép truyền dữ liệu ở tốc độ rất cao và khoảng cách xa mà không bị suy hao tín hiệu, vượt trội so với các loại cáp khác."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Máy chủ (Server) không có chức năng nào sau đây?",
+      "options": [
+        "A. Lưu trữ dữ liệu",
+        "B. Phát sóng Wi-Fi",
+        "C. Cung cấp dịch vụ email",
+        "D. Chia sẻ trang web"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Máy chủ (Server) chủ yếu được dùng để lưu trữ và quản lý dữ liệu, cung cấp các dịch vụ như email, trang web, nhưng không có chức năng phát sóng Wi-Fi. Chức năng phát sóng Wi-Fi thường thuộc về các thiết bị như Router hoặc Access Point."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Modem có vai trò chính gì trong việc kết nối Internet?",
+      "options": [
+        "A. Kết nối mạng nội bộ với mạng Internet",
+        "B. Điều khiển băng thông mạng LAN",
+        "C. Lưu trữ dữ liệu",
+        "D. Phát sóng Wi-Fi"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Modem là thiết bị kết nối với nhà cung cấp dịch vụ Internet (ISP), chuyển đổi tín hiệu từ ISP thành tín hiệu kỹ thuật số mà mạng nội bộ có thể sử dụng, giúp kết nối các thiết bị trong mạng nội bộ với Internet."
+    }
+  ]
+}

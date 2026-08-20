@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-10-15-cau-trac-nghiem-toan-9-chan-troi-sang-tao-bai-1-phuong-trin",
+  "sourceId": "vietjack:10-15-cau-trac-nghiem-toan-9-chan-troi-s",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "10.15 câu Trắc nghiệm Toán 9 Chân trời sáng tạo Bài 1. Phương trình quy về phương trình bậc nhất một ẩn có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Trong các phương trình sau, phương trình nào có dạng phương trình tích",
+      "options": [
+        "A. \\(\\left( {3x + 1} \\right)\\left( {x - 3} \\right) = 1.\\)",
+        "B. \\(x\\left( {x - 2} \\right) + \\left( {6x + 5} \\right)\\left( {x + 1} \\right) = 0.\\)",
+        "C. \\(x - 5 = - 2x + 3.\\)",
+        "D. \\(\\left( {x + 6} \\right)\\left( {5 - 2x} \\right) = 0.\\)"
+      ],
+      "answer": "D",
+      "note": "Chọn D Phương trình tích có dạng \\(\\left( {{a_1}x + {b_1}} \\right)\\left( {{a_2}x + {b_2}} \\right) = 0\\) nên phương trình \\(\\left( {x + 6} \\right)\\left( {5 - 2x} \\right) = 0\\) có dạng phương trình tích."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho một phương trình tích có dạng \\(\\left( {{a_1}x + {b_1}} \\right)\\left( {{a_2}x + {b_2}} \\right) = 0\\) . Khi đó, kết luận nào sau đây là đúng?",
+      "options": [
+        "A. \\({a_1}x + {b_1} = 0\\) hoặc \\({a_2}x + {b_2} = 0.\\)",
+        "B. \\({a_1}x + {b_1} = {a_2}x + {b_2} = 1.\\)",
+        "C. \\({a_1}x = {a_2}x.\\)",
+        "D. \\({a_1}x + {b_1} = 1\\) và \\({a_2}x + {b_2} = 0.\\)"
+      ],
+      "answer": "A",
+      "note": "Chọn A Ta có \\(\\left( {{a_1}x + {b_1}} \\right)\\left( {{a_2}x + {b_2}} \\right) = 0\\) \\({a_1}x + {b_1} = 0\\) hoặc \\({a_2}x + {b_2} = 0.\\)"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Có mấy bước để giải phương trình chứa ẩn ở mẫu",
+      "options": [
+        "A. 1.",
+        "B. 2.",
+        "C. 3.",
+        "D. 4."
+      ],
+      "answer": "D",
+      "note": "Chọn D Cách giải phương trình chứa ẩn ở mẫu: Bước 1: Tìm điều kiện xác định của phương trình. Bước 2: Quy đồng mẫu thức hai vế của phương trình, rồi khử mẫu. Bước 3: Giải phương trình vừa nhận được. Bước 4: Xét mỗi giá trị vừa tìm được ở Bước 3, giá trị nào thỏa mãn điều kiện xác định thì đó là nghiệm của phương trình đã cho. Vậy có \\(4\\)bước để giải phương trình chứa ẩn ở mẫu."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Điều kiện xác định của phương trình \\(\\frac{1}{{x - 2}} + \\frac{1}{x} = 3\\) là",
+      "options": [
+        "A. \\(x \\ne 2.\\)",
+        "B. \\(x \\ne 0.\\)",
+        "C. \\(x \\ne 2\\) và \\(x \\ne 0.\\)",
+        "D. \\(x \\ne \\frac{1}{2}.\\)"
+      ],
+      "answer": "C",
+      "note": "Chọn C Điều kiện xác định của phương trình là \\(x - 2 \\ne 0\\) và \\(x \\ne 0\\)hay \\(x \\ne 2\\) và \\(x \\ne 0.\\) Vậy điều kiện xác định của phương trình là \\(x \\ne 2\\) và \\(x \\ne 0.\\)"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Mẫu thức chung của phương trình \\(\\frac{3}{{x - 2}} + \\frac{1}{{x + 1}} = 0\\) là:",
+      "options": [
+        "A. \\(x\\left( {x - 2} \\right)\\left( {x + 1} \\right).\\)",
+        "B. \\({\\left( {x - 2} \\right)^2}.\\)",
+        "C. \\({\\left( {x + 1} \\right)^2}.\\)",
+        "D. \\(\\left( {x - 2} \\right)\\left( {x + 1} \\right).\\)"
+      ],
+      "answer": "D",
+      "note": "Chọn D Mẫu thức chung của phương trình đã cho là \\(\\left( {x - 2} \\right)\\left( {x + 1} \\right).\\)"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Tập nghiệm của phương trình \\(\\left( {{x^2} - 9} \\right)\\left( {4 - x} \\right) = 0\\) là",
+      "options": [
+        "A. \\(x = - 3;\\,x = 3\\) và \\(x = 4.\\)",
+        "B. \\(x = - 3;\\,x = 3\\) và \\(x = - 4.\\)",
+        "C. \\(x = 3\\) và \\(x = 4.\\)",
+        "D. \\(x = - 3\\) và \\(x = 3.\\)"
+      ],
+      "answer": "A",
+      "note": "Chọn A Ta có \\(\\left( {{x^2} - 9} \\right)\\left( {4 - x} \\right) = 0\\) \\({x^2} - 9 = 0\\) hoặc \\(4 - x = 0\\) \\(x = 3\\) hoặc \\(x = - 3\\) hoặc \\(x = 4.\\) Vậy phương trình đã cho có ba nghiệm là \\(x = - 3;\\,x = 3\\) và \\(x = 4.\\)"
+    }
+  ]
+}

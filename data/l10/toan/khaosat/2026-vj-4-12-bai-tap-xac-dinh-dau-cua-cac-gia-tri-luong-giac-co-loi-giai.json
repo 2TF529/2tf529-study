@@ -1,0 +1,65 @@
+{
+  "id": "2026-vj-4-12-bai-tap-xac-dinh-dau-cua-cac-gia-tri-luong-giac-co-loi-giai",
+  "sourceId": "vietjack:4-12-bai-tap-xac-dinh-dau-cua-cac-gia-tr",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "4.12 Bài tập Xác định dấu của các giá trị lượng giác (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 3: Cho α là góc nhọn. Khẳng định nào sau đây là đúng?",
+      "options": [
+        "A. sin α < 0;",
+        "B. cos α < 0;",
+        "C. tan α < 0;",
+        "D. cot α > 0."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải: Đáp án đúng là: D. Vì α là góc nhọn nên sin α > 0, cos α > 0, tan α > 0, cot α > 0. Vậy A, B, C sai và D đúng."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 4: Cho β là góc tù. Tìm khẳng định đúng trong các khẳng định dưới đây?",
+      "options": [
+        "A. cos β > 0;",
+        "B. sin β > 0;",
+        "C. tan β > 0;",
+        "D. cot β > 0."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải: Đáp án đúng là: B. Vì β là góc tù nên sin β > 0, cos β < 0 , tan β < 0, cot β < 0. Vậy B đúng, A, C, D sai."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 5: Giá trị nào của α trong các giá trị dưới đây thỏa mãn sin α và cos α cùng dấu?",
+      "options": [
+        "A. 32°;",
+        "B. 90°;",
+        "C. 120°;",
+        "D. 150°."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A. Ta có sin α và cos α cùng dấu khi 0° < α < 90°. Trong các đáp án đã cho, chỉ có đáp án A thỏa mãn."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 6: Với giá trị nào của góc γ dưới đây thì sin γ. cos γ có giá trị âm?",
+      "options": [
+        "A. γ = 0°;",
+        "B. 0° < γ < 90°;",
+        "C. γ = 90°;",
+        "D. 90° < γ < 180°."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải: Đáp án đúng là: D. +) Với γ = 0°, ta có sin γ = 0, cos γ = 1. Do đó: sin γ . cos γ = 0 . 1 = 0. +) Với 0° < γ < 90°, suy ra sin γ > 0, cos γ > 0. Do đó sin γ . cos γ > 0. +) Với γ = 90°, ta có sin γ = 1, cos γ = 0. Do đó sin γ . cos γ = 1 . 0 = 0. +) Với 90° < γ < 180° suy ra sin γ > 0, cos γ < 0. Do đó sin γ . cos γ < 0. Vậy với γ thỏa mãn 90° < γ < 180° thì sin γ . cos γ nhận giá trị âm."
+    }
+  ]
+}

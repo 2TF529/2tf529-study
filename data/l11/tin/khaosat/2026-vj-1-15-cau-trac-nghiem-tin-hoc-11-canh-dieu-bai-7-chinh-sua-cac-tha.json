@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-11-canh-dieu-bai-7-chinh-sua-cac-tha",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-11-canh-die",
+  "grade": "l11",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 11 Cánh diều Bài 7: Chỉnh sửa các thành phần giao diện có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Khung nhìn nào giúp chỉnh sửa chi tiết cấu trúc của báo cáo trong Microsoft Access?",
+      "options": [
+        "A. Report View",
+        "B. Design View",
+        "C. Layout View",
+        "D. Print Preview"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Design View cho phép người dùng xem và chỉnh sửa cấu trúc của các thành phần báo cáo, bao gồm các phần như Header, Footer, và Detail"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Phần nào của báo cáo hiển thị số trang và ngày tháng?",
+      "options": [
+        "A. Report Header",
+        "B. Page Footer",
+        "C. Detail",
+        "D. Report Footer"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Page Footer xuất hiện ở cuối mỗi trang và thường chứa thông tin như số trang và ngày tháng."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Điều khiển nào trong báo cáo Microsoft Access được kết nối với dữ liệu từ bảng hoặc truy vấn?",
+      "options": [
+        "A. Label",
+        "B. Text Box",
+        "C. Button",
+        "D. Combo Box"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Text Box là điều khiển hiển thị dữ liệu từ bảng hoặc truy vấn và sẽ tự động cập nhật khi dữ liệu thay đổi."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Nhãn tên trường trong báo cáo có thể:",
+      "options": [
+        "A. Kết nối trực tiếp với dữ liệu",
+        "B. Hiển thị và chỉnh sửa dữ liệu",
+        "C. Chỉ là một tiêu đề hiển thị thông tin không thay đổi",
+        "D. Không thể chỉnh sửa"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Nhãn tên trường (Label) chỉ là phần văn bản dùng để hiển thị thông tin tiêu đề và không kết nối với dữ liệu."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Khung nhìn nào cho phép điều chỉnh kích thước và di chuyển các phần tử trong báo cáo?",
+      "options": [
+        "A. Print Preview",
+        "B. Report View",
+        "C. Layout View",
+        "D. Datasheet View"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Layout View cho phép người dùng thay đổi kích thước, di chuyển và bố trí các phần tử như Text Box và Label trong báo cáo."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Để di chuyển một phần tử trong báo cáo, cần sử dụng dải lệnh nào?",
+      "options": [
+        "A. Design",
+        "B. Arrange",
+        "C. Data",
+        "D. Format"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Dải lệnh Arrange chứa các nút lệnh cho phép chèn thêm cột, hàng, và di chuyển các phần tử trong báo cáo."
+    }
+  ]
+}

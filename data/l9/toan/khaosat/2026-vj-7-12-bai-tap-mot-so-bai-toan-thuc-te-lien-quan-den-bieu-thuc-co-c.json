@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-7-12-bai-tap-mot-so-bai-toan-thuc-te-lien-quan-den-bieu-thuc-co-c",
+  "sourceId": "vietjack:7-12-bai-tap-mot-so-bai-toan-thuc-te-lie",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "7.12 bài tập Một số bài toán thực tế liên quan đến biểu thức có chứa căn thức bậc hai có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Khi bay vào không gian, trọng lượng P (N) của một phi hành gia ở vị trí cách mặt đất một độ cao h (m) được tính theo công thức P = \\(\\frac{{{{28014.10}^{12}}}}{{{{\\left( {{{64.10}^5} + h} \\right)}^2}}}\\). Ở độ cao bao nhiêu mét thì trọng lượng của phi hành gia là 619 N? (làm tròn đến kết quả phần mười).",
+      "options": [
+        "A. 327 322,3 (m).",
+        "B. 327 (m).",
+        "C. 327,3 (m).",
+        "D. 3 273,3 (m)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Vì trọng lượng của phi hành gia là 619 N nên ta có: 619 = \\(\\frac{{{{28014.10}^{12}}}}{{{{\\left( {{{64.10}^5} + h} \\right)}^2}}}\\) (64.10 5 + h) 2 = \\(\\frac{{{{28014.10}^{12}}}}{{619}}\\) 64.10 5 + h = \\(\\sqrt {\\frac{{{{28014.10}^{12}}}}{{619}}} \\) h = \\(\\sqrt {\\frac{{{{28014.10}^{12}}}}{{619}}} \\) − 64.10 5 ≈ 327 322,3 (m)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Ngày 28/9/2018, sau trận động đất 7,5 độ Richter, cơn sóng thần cao hơn 6 m đã tràn vào đảo Sulawesi (Indonesia) và tàn phá thành phpps Palu gây thiệt hại vô vùng to lớn. Tốc dộ cơn sóng thần v (m/s) và chiều sâu đại dương d (m) của nơi bắt đầu sóng thần liên hệ bởi công thức v = \\(\\sqrt {dg} \\) trong đó g = 9,81 m/s 2 . Theo tính toán của các nhà khoa học địa chất, tốc độ cơn sóng thần ngày 28/9/2018 là 800 km/h. Hãy tính chiều sâu đại dương của nơi tâm chấn động đất gây ra sóng thần (làm tròn đến kết quả hàng đơn vị của mét).",
+      "options": [
+        "A. 503,4 m.",
+        "B. 5,034 m.",
+        "C. 50,34 m.",
+        "D. 0,53 m."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Đổi 800 (km/h) = \\(\\frac{{2000}}{9}\\) (m/s). Khi đó, ta có: \\(\\frac{{2000}}{9} = \\sqrt {9,81d} \\) Suy ra 9,81d = \\({\\left( {\\frac{{2000}}{9}} \\right)^2}\\) Do đó, d = \\({\\left( {\\frac{{2000}}{9}} \\right)^2}\\): 9,81 ≈ 5,034 m."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Biết rằng nhiệt lượng tỏa ra trên dây dẫn được cho bởi công thức Q = I 2 Rt, trong đó Q là nhiệt lượng tính bằng đơn vị Joule (J), R là điện trở tính bằng \\(\\Omega \\), I là cường độ dòng điện được tính bằng Ampe, t là thời gian tính bằng giây (s). Dòng điện chạy qua một dây dẫn có R = 10 \\(\\Omega \\) trong thời gian 5 giây. Cường độ dòng điện là bao nhiêu ampe để nhiệt lượng tỏa ra trên dây dẫn đạt 800 J?",
+      "options": [
+        "A. −4 A.",
+        "B. 4 A.",
+        "C. 16 A.",
+        "D. 2,5 A."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Để nhiệt lượng tỏa ra trên dây dẫn đạt 800 J thì Q = 800 J. Suy ra 50I 2 = 800 Suy ra I 2 = 16 Do đó, I = \\(\\sqrt {16} \\) = 4 (A) (vì I > 0). Vậy cường độ dòng điện là 4 Amphe thì nhiệt lượng tỏa ra trên dây dẫn đạt 800 J."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Biết rằng hình thang và hình chữ nhật có diện tích bằng nhau. Tính chiều cao h của hình thang.",
+      "options": [
+        "A. \\(\\sqrt 6 + \\sqrt 3 \\).",
+        "B. \\(6\\sqrt 6 \\).",
+        "C. \\(12 + 6\\sqrt 2 \\).",
+        "D. \\(12 - 6\\sqrt 2 \\)."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Diện tích hình chữ nhật là: \\(\\sqrt {12} .\\sqrt 8 = \\sqrt {12.8} = 6\\sqrt 6 \\) (đvdt). Vì hình thang và hình chữ nhật có diện tích bằng nhau nên diện tích hình thang là \\(6\\sqrt 6 \\) (đvdt). Khi đó, diện tích hình thang là: \\(\\frac{{\\sqrt {24} + \\sqrt {12} }}{2}.h = 6\\sqrt 6 \\). Ta có: \\(\\frac{{\\sqrt {24} + \\sqrt {12} }}{2} = \\frac{{\\sqrt {4.6} + \\sqrt {4.3} }}{2} = \\frac{{2\\sqrt 6 + 2\\sqrt 3 }}{2} = \\sqrt 6 + \\sqrt 3 \\). Do đó, \\(\\left( {\\sqrt 6 + \\sqrt 3 } \\right)h = 6\\sqrt 6 \\) Suy ra h = \\(\\frac{{6\\sqrt 6 }}{{\\sqrt 6 + \\sqrt 3 }} = \\frac{{6\\sqrt 6 \\left( {\\sqrt 6 - \\sqrt 3 } \\right)}}{{\\left( {\\sqrt 6 + \\sqrt 3 } \\right)\\left( {\\sqrt 6 - \\sqrt 3 } \\right)}} = \\frac{{6\\sqrt 6 \\left( {\\sqrt 6 - \\sqrt 3 } \\right)}}{3} = 2\\sqrt 6 \\left( {\\sqrt 6 - \\sqrt 3 } \\right)\\). Vậy chiều cao của hình thang là h = \\(2\\sqrt 6 \\left( {\\sqrt 6 - \\sqrt 3 } \\right) = 12 - 6\\sqrt 2 \\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cạnh của thửa ruộng hình vuông lớn là:",
+      "options": [
+        "A. \\(40\\sqrt 2 \\) m.",
+        "B. \\(30\\sqrt 2 \\) m.",
+        "C. \\(50\\sqrt 2 \\) m.",
+        "D. \\(120\\sqrt 2 \\) m."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Hình vuông lớn có diện tích là 3 200 m 2 . Khi đó, cạnh của thửa ruộng hình vuông lớn là: \\(\\sqrt {3200} = \\sqrt {2.1600} = 40\\sqrt 2 \\) (m)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Độ dài cạnh huyền của tam giác hình vuông màu xanh là:",
+      "options": [
+        "A. \\(40\\sqrt 2 \\) m.",
+        "B. \\(30\\sqrt 2 \\) m.",
+        "C. \\(50\\sqrt 2 \\) m.",
+        "D. \\(120\\sqrt 2 \\) m."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Hình vuông bé có diện tích là 1 800 m 2 . Khi đó, cạnh của hình vuông bé là \\(\\sqrt {1800} = \\sqrt {2.900} = 30\\sqrt 2 \\) (m). Hình tam giác vuông có hai cạnh góc vuông là hai cạnh của hình vuông trong hình vẽ trên. Độ dài cạnh huyền của tam giác vuông là: \\(\\sqrt {{{\\left( {30\\sqrt 2 } \\right)}^2} + {{\\left( {40\\sqrt 2 } \\right)}^2}} = 50\\sqrt 2 \\) (m). Vậy chu vi của tam giác vuông là: \\(30\\sqrt 2 + 40\\sqrt 2 + 50\\sqrt 2 = 120\\sqrt 2 \\) (m)."
+    }
+  ]
+}

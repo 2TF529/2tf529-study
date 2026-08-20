@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-4-10-bai-tap-cach-xac-dinh-so-quy-tron-cua-so-gan-dung-voi-do-chi",
+  "sourceId": "vietjack:4-10-bai-tap-cach-xac-dinh-so-quy-tron-c",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "4.10 Bài tập Cách xác định số quy tròn của số gần đúng với độ chính xác cho trước (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Giả sử biết số đúng là 82 172,3. Tìm sai số tuyệt đối khi quy tròn số này đến hàng chục.",
+      "options": [
+        "A. 2,1",
+        "B. 2,2",
+        "C. 2,3",
+        "D. 2,4"
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải: Đáp án đúng là: C. Số quy tròn đến hàng chục của 82 172,3 là 82 170. Sai số tuyệt đối là Δ = |82 170 – 82 172,3| = 2,3."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Viết số quy tròn của số gần đúng b biết b ¯ = 12 409,12 ± 0,5.",
+      "options": [
+        "A. 12 410;",
+        "B. 12 409,1;",
+        "C. 12 000;",
+        "D. 12 409"
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải: Đáp án đúng là: D. Hàng lớn nhất của độ chính xác d = 0,5 là hàng phần mười nên ta quy tròn b đến hàng đơn vị. Vậy số quy tròn của b là 12 409."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho số gần đúng a = 517 992 với độ chính xác d = 100. Viết số quy tròn của số a.",
+      "options": [
+        "A. 517 000;",
+        "B. 520 000;",
+        "C. 518 000;",
+        "D. 517 900."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải: Đáp án đúng là: C. Hàng lớn nhất của độ chính xác d = 100 là hàng trăm, nên ta quy tròn a đến hàng nghìn. Vậy số quy tròn của a là 518 000."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho số gần đúng a = 2 127 với độ chính xác d = 2. Viết số quy tròn của số a.",
+      "options": [
+        "A. 2 130;",
+        "B. 2 100;",
+        "C. 2 127;",
+        "D. 2 100."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A. Hàng lớn nhất của độ chính xác d = 2 là hàng đơn vị, nên ta quy tròn a đến hàng chục. Vậy số quy tròn của a là 2 130."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Giả sử biết số đúng là 14 869,79. Tìm sai số tuyệt đối khi quy tròn số này đến hàng trăm.",
+      "options": [
+        "A. 20,21;",
+        "B. 21,20;",
+        "C. 30,21;",
+        "D. 21,30."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải: Đáp án đúng là: C. Số quy tròn đến hàng trăm của 14 869,79 là 14 900. Sai số tuyệt đối là Δ = |14 900 – 14 869,79| = 30,21."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Hãy viết số quy tròn của số gần đúng​​ a = 15,318 ​​ biết​​ a ¯ = 15,318 ± 0,05.",
+      "options": [
+        "A. ​​ 15,3;",
+        "B. ​​ 15,31;",
+        "C. ​​ 15,32;",
+        "D. ​​ 15,4."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A. Hàng lớn nhất của độ chính xác d = 0,05 là hàng phần trăm nên ta quy tròn a đến hàng phần mười. Vậy số quy tròn của a là 15,3."
+    }
+  ]
+}

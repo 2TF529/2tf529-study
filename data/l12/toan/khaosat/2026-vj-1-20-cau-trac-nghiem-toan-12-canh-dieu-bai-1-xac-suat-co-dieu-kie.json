@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-1-20-cau-trac-nghiem-toan-12-canh-dieu-bai-1-xac-suat-co-dieu-kie",
+  "sourceId": "vietjack:1-20-cau-trac-nghiem-toan-12-canh-dieu-b",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.20 câu trắc nghiệm Toán 12 Cánh diều Bài 1. Xác suất có điều kiện có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: I. Nhận biết Cho hai biến cố \\(A\\) và \\(B\\) bất kì, với \\(P\\left( B \\right) > 0\\). Chọn khẳng định sai trong các khẳng định dưới đây:",
+      "options": [
+        "A. \\(P\\left( {A|B} \\right) = \\frac{{P\\left( {AB} \\right)}}{{P\\left( B \\right)}}.\\)",
+        "B. \\(P\\left( {A|B} \\right).P\\left( B \\right) = P\\left( {AB} \\right).\\)",
+        "C. \\(P\\left( B \\right) = \\frac{{P\\left( {AB} \\right)}}{{P\\left( {A|B} \\right)}}.\\)",
+        "D. \\(P\\left( B \\right) = \\frac{{P\\left( {A|B} \\right)}}{{P\\left( {AB} \\right)}}.\\)"
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hai biến cố \\(A\\) và \\(B\\) là hai biến cố độc lập và \\(P\\left( A \\right) > 0,P\\left( B \\right) > 0\\). Chọn khẳng định sai trong các khẳng định dưới đây.",
+      "options": [
+        "A. \\(P\\left( {A|B} \\right) = \\frac{{P\\left( {AB} \\right)}}{{P\\left( B \\right)}} = \\frac{{P\\left( A \\right).P\\left( B \\right)}}{{P\\left( B \\right)}} = P\\left( A \\right).\\)",
+        "B. \\(P\\left( {B|A} \\right) = \\frac{{P\\left( {BA} \\right)}}{{P\\left( A \\right)}} = \\frac{{P\\left( A \\right).P\\left( B \\right)}}{{P\\left( A \\right)}} = P\\left( B \\right).\\)",
+        "C. \\(P\\left( {A|B} \\right) = \\frac{{P\\left( {BA} \\right)}}{{P\\left( A \\right)}} = \\frac{{P\\left( A \\right).P\\left( B \\right)}}{{P\\left( A \\right)}} = P\\left( B \\right).\\)",
+        "D. \\(P\\left( {AB} \\right) = P\\left( A \\right).P\\left( B \\right).\\)"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho hai biến cố \\(A\\) và \\(B\\) là hai biến cố độc lập, với \\(P\\left( A \\right) = 0,2024\\), \\(P\\left( B \\right) = 0,2025\\). Tính \\(P\\left( {A|B} \\right)\\).",
+      "options": [
+        "A. \\(0,7976.\\)",
+        "B. \\(0,7975.\\)",
+        "C. \\(0,2025.\\)",
+        "D. \\(0,2024.\\)"
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Do \\(A\\) và \\(B\\) là hai biến cố độc lập, nên ta có: \\(P\\left( {A|B} \\right) = \\frac{{P\\left( {AB} \\right)}}{{P\\left( B \\right)}} = \\frac{{P\\left( A \\right).P\\left( B \\right)}}{{P\\left( B \\right)}} = P\\left( A \\right)\\), Suy ra \\(P\\left( {A|B} \\right) = P\\left( A \\right) = 0,2024.\\)"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hai biến cố \\(A\\) và \\(B\\) là hai biến cố độc lập, với \\(P\\left( A \\right) = 0,24\\), \\(P\\left( B \\right) = 0,25\\). Tính \\(P\\left( {B|\\overline A } \\right)\\).",
+      "options": [
+        "A. \\(0,25.\\)",
+        "B. \\(0,24.\\)",
+        "C. \\(0,06.\\)",
+        "D. \\(0,49.\\)"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có: \\(P\\left( {B|\\overline A } \\right) = P\\left( B \\right) = 0,25.\\)"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hai biến cố \\(A\\) và \\(B\\) là hai biến cố độc lập, với \\(P\\left( A \\right) = 0,6\\), \\(P\\left( B \\right) = 0,7,\\) \\(P\\left( {A \\cap B} \\right) = 0,3\\). Tính \\(P\\left( {A|B} \\right)\\).",
+      "options": [
+        "A. \\(\\frac{3}{7}.\\)",
+        "B. \\(\\frac{1}{2}.\\)",
+        "C. \\(\\frac{6}{7}.\\)",
+        "D. \\(\\frac{1}{7}.\\)"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có: \\(P\\left( {A|B} \\right) = \\frac{{P\\left( {A \\cap B} \\right)}}{{P\\left( B \\right)}} = \\frac{{0,3}}{{0,7}} = \\frac{3}{7}.\\)"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: II. Thông hiểu Cho hai biến cố \\(A\\) và \\(B\\) với \\(P\\left( A \\right) = 0,8\\), \\(P\\left( B \\right) = 0,65\\), \\(P\\left( {A \\cap \\overline B } \\right) = 0,55\\). Tính \\(P\\left( {A \\cap B} \\right)\\).",
+      "options": [
+        "A. \\(0,25.\\)",
+        "B. \\(0,1.\\)",
+        "C. \\(0,15.\\)",
+        "D. \\(0,35.\\)"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có: \\(P\\left( {A \\cap B} \\right) + P\\left( {A \\cap \\overline B } \\right) = P\\left( A \\right)\\) \\(P\\left( {A \\cap B} \\right) = P\\left( A \\right) - P\\left( {A \\cap \\overline B } \\right) = 0,8 - 0,55 = 0,25.\\)"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Một hộp chứa 4 quả bóng được đánh số từ 1 đến 4. An lấy ngẫu nhiên một quả bóng, bỏ ra ngoài, rồi lấy tiếp một quả bóng nữa. Xét các biến cố: A: “Quả bóng lấy ra lần đầu có số chẵn”. B: “Quả bóng lấy ra lần đầu có số lẻ”. Tính xác suất có điều kiện \\(P\\left( {A|B} \\right).\\)",
+      "options": [
+        "A. \\(\\frac{1}{3}.\\)",
+        "B. \\(\\frac{1}{2}.\\)",
+        "C. \\(\\frac{2}{3}.\\)",
+        "D. \\(\\frac{3}{4}.\\)"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Xác suất để quả bóng đầu tiên là số chẵn là: \\(P\\left( A \\right) = \\frac{2}{4} = \\frac{1}{2}.\\) Xác suất để quả bóng đầu tiên có số lẻ là: \\(P\\left( B \\right) = \\frac{2}{4} = \\frac{1}{2}.\\) Khi đã lấy được một quả bóng lẻ (là 1 hoặc 3), chúng ta có 3 quả còn lại trong hộp và trong đó có 2 quả đánh số chẵn. Do đó, P(A | B) = \\(\\frac{2}{3}.\\)"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Một hộp kín đựng 20 tấm thẻ giống nhau được đánh số từ 1 đến 20. Một người rút ngẫu nhiên ra một tấm thẻ từ trong hộp. Người đó được thông báo rằng thẻ rút ra mang số chẵn. Tính xác suất để người đó rút được thẻ số 10.",
+      "options": [
+        "A. \\(0,4.\\)",
+        "B. \\(0,3.\\)",
+        "C. \\(0,2.\\)",
+        "D. \\(0,1.\\)"
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Theo đề bài, hộp có 20 tấm thẻ được đánh số từ 1 đến 20 nên có 10 tấm thẻ mang số chẵn trong hộp. Biết rằng thẻ rút ra là số chẵn, xác suất để người đó rút ra được thẻ số 10 là \\(\\frac{1}{{10}} = 0,1.\\)"
+    }
+  ]
+}

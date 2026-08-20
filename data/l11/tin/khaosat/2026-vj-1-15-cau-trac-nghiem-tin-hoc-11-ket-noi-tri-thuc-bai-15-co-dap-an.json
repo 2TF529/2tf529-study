@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-11-ket-noi-tri-thuc-bai-15-co-dap-an",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-11-ket-noi-",
+  "grade": "l11",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 11 Kết nối tri thức Bài 15 có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Trong mô hình phân quyền bảo mật cơ sở dữ liệu, nhóm người dùng nào có quyền thêm dữ liệu mới nhưng không có quyền sửa hoặc xóa dữ liệu cũ?",
+      "options": [
+        "A. Nhóm khách (guest)",
+        "B. Nhóm quản trị viên (admin)",
+        "C. Nhóm người dùng thường (regular user)",
+        "D. Nhóm người dùng có quyền nhập dữ liệu (moderator)"
+      ],
+      "answer": "D",
+      "note": "Đáp án: D Giải thích: Nhóm \"moderator\" thường có quyền thêm dữ liệu mới vào cơ sở dữ liệu, nhưng không có quyền sửa hoặc xóa dữ liệu đã tồn tại. Các quyền hạn này được giới hạn để đảm bảo an ninh và bảo vệ dữ liệu khỏi bị sửa đổi không cần thiết."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Để bảo vệ cơ sở dữ liệu khỏi sự tấn công qua mạng, biện pháp nào dưới đây là cần thiết?",
+      "options": [
+        "A. Sử dụng mật khẩu mạnh cho tài khoản người dùng",
+        "B. Thực hiện sao lưu dữ liệu định kỳ",
+        "C. Giám sát truy cập và ghi lại nhật ký (log file)",
+        "D. Cả A, B và C"
+      ],
+      "answer": "D",
+      "note": "Đáp án: D Giải thích: Tất cả các biện pháp này đều cần thiết. Mật khẩu mạnh giúp ngăn chặn truy cập trái phép, sao lưu định kỳ đảm bảo dữ liệu không bị mất khi có sự cố, và giám sát truy cập giúp phát hiện các hoạt động đáng ngờ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Sự cố nào sau đây có thể xảy ra và gây mất an toàn cho dữ liệu trong cơ sở dữ liệu?",
+      "options": [
+        "A. Thiết bị lưu trữ bị hư hỏng do quá tuổi thọ",
+        "B. Mất nguồn điện đột ngột",
+        "C. Lỗi phần mềm quản trị cơ sở dữ liệu",
+        "D. Cả A, B và C"
+      ],
+      "answer": "D",
+      "note": "Đáp án: D Giải thích: Cả ba sự cố trên đều có thể gây ra mất an toàn dữ liệu. Hư hỏng thiết bị lưu trữ và mất điện đột ngột là các nguyên nhân phổ biến, trong khi lỗi phần mềm cũng có thể gây hỏng dữ liệu hoặc mất khả năng truy cập."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Khi xây dựng chính sách bảo mật cơ sở dữ liệu, yếu tố nào dưới đây là quan trọng nhất?",
+      "options": [
+        "A. Quyền hạn người dùng",
+        "B. Ý thức trách nhiệm của người dùng đối với tài khoản của mình",
+        "C. Kế hoạch xử lý sự cố",
+        "D. Tất cả các yếu tố trên đều quan trọng"
+      ],
+      "answer": "D",
+      "note": "Đáp án: D Giải thích: Một chính sách bảo mật hiệu quả cần kết hợp các yếu tố: phân quyền người dùng, ý thức trách nhiệm của họ với tài khoản và kế hoạch xử lý sự cố để đảm bảo dữ liệu an toàn."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Tại sao việc sao lưu dữ liệu định kỳ lại quan trọng trong bảo vệ an toàn cơ sở dữ liệu?",
+      "options": [
+        "A. Giúp đảm bảo quyền truy cập hợp pháp cho người dùng",
+        "B. Giúp khôi phục dữ liệu khi có sự cố hỏng hóc thiết bị",
+        "C. Đảm bảo các tài khoản người dùng không bị mất",
+        "D. Ngăn chặn các cuộc tấn công qua mạng"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Sao lưu định kỳ cho phép khôi phục dữ liệu khi hệ thống gặp sự cố, giúp ngăn ngừa mất mát dữ liệu vĩnh viễn."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Giải pháp nào giúp đảm bảo dữ liệu không bị mất khi thiết bị lưu trữ bị hỏng?",
+      "options": [
+        "A. Chỉ sử dụng thiết bị mới",
+        "B. Sao lưu định kỳ và sử dụng thiết bị lưu trữ bảo vệ dữ liệu",
+        "C. Đặt mật khẩu cho thiết bị lưu trữ",
+        "D. Sử dụng hệ điều hành an toàn"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Sao lưu định kỳ và sử dụng các thiết bị lưu trữ có tính năng bảo vệ dữ liệu giúp đảm bảo dữ liệu không bị mất khi thiết bị bị hỏng."
+    }
+  ]
+}

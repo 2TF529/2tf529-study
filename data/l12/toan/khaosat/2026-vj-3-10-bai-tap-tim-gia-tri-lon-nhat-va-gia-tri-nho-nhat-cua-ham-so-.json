@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-3-10-bai-tap-tim-gia-tri-lon-nhat-va-gia-tri-nho-nhat-cua-ham-so-",
+  "sourceId": "vietjack:3-10-bai-tap-tim-gia-tri-lon-nhat-va-gia",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.10 bài tập Tìm giá trị lớn nhất và giá trị nhỏ nhất của hàm số trên một khoảng, đoạn hay nửa khoảng có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Giá trị lớn nhất của hàm số f(x) = x 3 – 3x 2 – 9x +10 trên đoạn [−2; 2] bằng",
+      "options": [
+        "A. −12;",
+        "B. 10;",
+        "C. 15;",
+        "D. −2."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Xét hàm số f(x) = x 3 – 3x 2 – 9x +10 trên đoạn [−2; 2] , ta có: f'(x) = 3x 2 – 6x – 9. Có f'(x) = 0 3x 2 – 6x – 9 = 0 x = −1 [−2; 2] hoặc x = 3 [−2; 2] Có f(−2) = 8; f(−1) = 15; f(2) = −12. Suy ra \\[\\mathop {max}\\limits_{\\left[ { - 2;\\,2} \\right]\\,} f\\left( x \\right) = f\\left( { - 1} \\right) = 15\\]."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Trên đoạn [1; 5], hàm số \\(y = x + \\frac{4}{x}\\) đạt giá trị nhỏ nhất tại điểm",
+      "options": [
+        "A. x = 5;",
+        "B. x = 2;",
+        "C. x = 1;",
+        "D. x = 4."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có \\(y' = 1 - \\frac{4}{{{x^2}}} \\Rightarrow y' = 0 \\Leftrightarrow {x^2} = 4 \\Rightarrow x = 2\\) (vì x (1; 5)). Khi đó y(1) = 5; y(2) = 4 và \\(y\\left( 5 \\right) = \\frac{{29}}{5}\\). Do đó \\(\\mathop {\\min }\\limits_{\\left[ {1;5} \\right]} y = 4\\) tại x = 2."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Giá trị nhỏ nhất của hàm số \\(y = \\frac{{x - 1}}{{x + 1}}\\) trên đoạn [0; 3] là:",
+      "options": [
+        "A. −3;",
+        "B. \\(\\frac{1}{2}\\);",
+        "C. −1;",
+        "D. 1."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Hàm số đã cho liên tục trên [0; 3] Ta có \\(y' = \\frac{2}{{{{\\left( {x + 1} \\right)}^2}}} > 0\\) với ∀x [0; 3] . Có y (0) = −1; \\(y\\left( 3 \\right) = \\frac{1}{2}\\). Do đó \\(\\mathop {\\min }\\limits_{\\left[ {0;3} \\right]} y = y(0) = - 1\\)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Hàm số y = cos2x – 3 đạt giá trị nhỏ nhất trên đoạn [0; π] bằng:",
+      "options": [
+        "A. −4;",
+        "B. −3;",
+        "C. −2;",
+        "D. 0."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có: $y'=-2\\sin2x;\\ y'=0 \\Leftrightarrow \\sin2x=0 \\Leftrightarrow x=\\frac{k\\pi}{2}\\ (k\\in\\mathbb{Z})$. Vì $x\\in[0;\\pi]$ nên $0\\le \\frac{k\\pi}{2}\\le \\pi \\Leftrightarrow 0\\le k\\le 2$. Mà $k$ là số nguyên nên $k\\in\\{0;1;2\\}$. Do đó, $x\\in\\left\\{0;\\frac{\\pi}{2};\\pi\\right\\}$. Do đó, $y(0)=-2;\\ y\\left(\\frac{\\pi}{2}\\right)=-4;\\ y(\\pi)=-2$. Vậy $\\min_{[0;\\pi]} y=-4$."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Tìm giá trị nhỏ nhất của hàm số f(x) = (x − 3)e 2x .",
+      "options": [
+        "A. \\[\\mathop {\\min }\\limits_\\mathbb{R} f\\left( x \\right) = - \\frac{{{e^5}}}{2}\\];",
+        "B. \\[\\mathop {\\min }\\limits_\\mathbb{R} f\\left( x \\right) = \\frac{{{e^5}}}{2}\\];",
+        "C. \\[\\mathop {\\min }\\limits_\\mathbb{R} f\\left( x \\right) = {e^5}\\];",
+        "D. Không tồn tại."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có: f'(x) = (2x – 5)e 2x ; f'(x) = 0 \\(x = \\frac{5}{2}\\). Bảng biến thiên của hàm số: Vậy \\(\\mathop {\\min }\\limits_\\mathbb{R} f\\left( x \\right) = - \\frac{{{e^5}}}{2}\\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Tìm giá trị lớn nhất của hàm số \\[y = f(x) = \\frac{x}{{{x^2} + 1}}\\] trên nửa khoảng (0; +∞).",
+      "options": [
+        "A. 2;",
+        "B. \\[\\frac{1}{2}\\];",
+        "C. \\[\\frac{1}{4}\\];",
+        "D. 4."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B \\(f'\\left( x \\right) = \\frac{{ - {x^2} + 1}}{{{{\\left( {{x^2} + 1} \\right)}^2}}}\\). \\(f'\\left( x \\right) = 0 \\Leftrightarrow \\frac{{ - {x^2} + 1}}{{{{\\left( {{x^2} + 1} \\right)}^2}}} = 0 \\Leftrightarrow x = 1\\) Bảng biến thiên Vậy giá trị lớn nhất là \\[\\frac{1}{2}\\] khi x = 1."
+    }
+  ]
+}

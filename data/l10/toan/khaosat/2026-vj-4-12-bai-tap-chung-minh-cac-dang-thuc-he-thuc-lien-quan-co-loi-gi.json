@@ -1,0 +1,65 @@
+{
+  "id": "2026-vj-4-12-bai-tap-chung-minh-cac-dang-thuc-he-thuc-lien-quan-co-loi-gi",
+  "sourceId": "vietjack:4-12-bai-tap-chung-minh-cac-dang-thuc-he",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "4.12 Bài tập Chứng minh các đẳng thức, hệ thức liên quan (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 3: Cho tam giác ABC thỏa mãn sin 2 A = sinB.sinC. Khẳng định nào sau đây là đúng?",
+      "options": [
+        "A. a 2 = bc;",
+        "B. a 2 = b;",
+        "C. a 2 = c;",
+        "D. a = bc."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A. Áp dụng định lý hệ quả sin ta có \\(\\sin A = \\frac{a}{{2R}}\\), \\(\\sin B = \\frac{b}{{2R}}\\), \\(\\sin C = \\frac{c}{{2R}}\\). Do đó ta có: sin 2 A = sinB.sinC \\( \\Leftrightarrow {\\left( {\\frac{a}{{2R}}} \\right)^2} = \\frac{b}{{2R}}.\\frac{c}{{2R}}\\)\\( \\Leftrightarrow {a^2} = bc\\)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 4: Cho tam giác ABC. Khẳng định nào sau đây là đúng?",
+      "options": [
+        "A. \\[\\frac{{\\tan A}}{{\\tan B}} = \\frac{{{a^2} + {b^2} - {c^2}}}{{{c^2} + {b^2} - {a^2}}}\\];",
+        "B. \\[\\frac{{\\tan A}}{{\\tan B}} = \\frac{{{c^2} + {b^2} - {a^2}}}{{{c^2} + {b^2} - {a^2}}}\\];",
+        "C. \\[\\frac{{\\tan A}}{{\\tan B}} = \\frac{{{c^2} + {a^2} - {b^2}}}{{{c^2} + {b^2} - {a^2}}}\\];",
+        "D. \\[\\frac{{\\tan A}}{{\\tan B}} = \\frac{{2\\left( {{c^2} + {a^2} - {b^2}\\,} \\right)}}{{{c^2} + {b^2} - {a^2}}}\\]."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải: Đáp án đúng là: C. Theo định lí sin trong tam giác ABC ta có: \\(\\frac{a}{{\\sin A}} = \\frac{b}{{\\sin B}} = \\frac{c}{{\\sin C}}\\) Suy ra \\(\\sin A = \\frac{{a.\\sin C}}{c}\\); \\(\\sin B = \\frac{{b.\\sin C}}{c}\\). Lại có: \\(\\cos A = \\frac{{{b^2} + {c^2} - {a^2}}}{{2bc}}\\); \\(\\cos B = \\frac{{{a^2} + {c^2} - {b^2}}}{{2ac}}\\). Do đó: \\[\\tan A = \\frac{{\\sin A}}{{\\cos A}} = \\frac{{\\frac{{a.\\sin C}}{c}}}{{\\frac{{{b^2} + {c^2} - {a^2}}}{{2bc}}}} = \\frac{{2ab\\sin C}}{{{b^2} + {c^2} - {a^2}}}\\] \\[\\tan B = \\frac{{\\sin B}}{{\\cos B}} = \\frac{{\\frac{{b.\\sin C}}{c}}}{{\\frac{{{a^2} + {c^2} - {b^2}}}{{2ac}}}} = \\frac{{2ab\\sin C}}{{{a^2} + {c^2} - {b^2}}}\\] . Vậy \\[\\frac{{\\tan A}}{{\\tan B}} = \\frac{{{c^2} + {a^2} - {b^2}}}{{{c^2} + {b^2} - {a^2}}}\\]."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 5: Cho tam giác ABC. Trên cạnh AB, AC lần lượt lấy hai điểm M, N. Khẳng định nào sau đây là đúng?",
+      "options": [
+        "A. \\(\\frac{{{S_{AMN}}}}{{{S_{ABC}}}} = \\frac{{AM}}{{AB}}.\\frac{{AN}}{{AC}}\\);",
+        "B. \\(\\frac{{{S_{AMN}}}}{{{S_{ABC}}}} = \\frac{{AC}}{{AB}}.\\frac{{AN}}{{AM}}\\);",
+        "C. \\(\\frac{{{S_{AMN}}}}{{{S_{ABC}}}} = \\frac{{AB}}{{AM}}.\\frac{{AN}}{{AC}}\\);",
+        "D. \\(\\frac{{{S_{AMN}}}}{{{S_{ABC}}}} = \\frac{{MN}}{{AB}}.\\frac{{AN}}{{AC}}\\)."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A. Diện tích tam giác AMN là: \\({S_{AMN}} = \\frac{1}{2}.AM.AN.\\sin \\widehat {MAN}\\). Diện tích tam giác ABC là: \\({S_{ABC}} = \\frac{1}{2}.AB.AC.\\sin \\widehat {BAC}\\). Do \\(\\widehat {MAN} = \\widehat {BAC}\\) (hai góc trùng nhau) Nên \\(\\frac{{{S_{AMN}}}}{{{S_{ABC}}}} = \\frac{{AM}}{{AB}}.\\frac{{AN}}{{AC}}\\)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 6: Cho tam giác ABC. Khẳng định nào sau đây là đúng?",
+      "options": [
+        "A. sin B = sin B. cos C + sin C. cos B;",
+        "B. sin A = sin B. cos C + sin C. cos B;",
+        "C. sin C = sin B. cos C + sin C. cos B;",
+        "D. sin A + sin B = sin B. cos C + sin C. cos B."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải: Đáp án đúng là: B. Áp dụng công thức tính diện tích tam giác ta có: \\(S = \\frac{1}{2}ab\\sin C = \\frac{1}{2}bc\\sin A = \\frac{1}{2}ac\\sin B\\) Suy ra: \\(\\sin A = \\frac{{2S}}{{bc}}\\); \\(\\sin B = \\frac{{2S}}{{ac}}\\); \\(\\sin C = \\frac{{2S}}{{ab}}\\). Lại có: \\(\\cos B = \\frac{{{a^2} + {c^2} - {b^2}}}{{2ac}}\\); \\(\\cos C = \\frac{{{a^2} + {b^2} - {c^2}}}{{2ab}}\\). Do đó, ta có: sin B. cos C + sin C. cos B = \\(\\frac{{2S}}{{ac}}.\\frac{{{a^2} + {b^2} - {c^2}}}{{2ab}} + \\frac{{2S}}{{ab}}.\\frac{{{a^2} + {c^2} - {b^2}}}{{2ac}}\\) \\( = \\frac{S}{{{a^2}bc}}\\left( {{a^2} + {b^2} - {c^2} + {a^2} + {c^2} - {b^2}} \\right)\\) \\( = \\frac{S}{{{a^2}bc}}.2{a^2} = \\frac{{2S}}{{bc}} = \\sin A\\) . Vậy sinA = sin B. cos C + sin C. cos B."
+    }
+  ]
+}

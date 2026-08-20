@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-11-canh-dieu-bai-1-kieu-mang-va-cau-",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-11-canh-die",
+  "grade": "l11",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 11 Cánh diều Bài 1: Kiểu mảng và cấu trúc mảng có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Mảng là gì?",
+      "options": [
+        "A. Tập hợp các phần tử có kiểu dữ liệu khác nhau, được lưu trữ không liên tục trong bộ nhớ.",
+        "B. Tập hợp các phần tử có cùng kiểu dữ liệu, được lưu trữ liền kề trong bộ nhớ.",
+        "C. Một biến có khả năng chứa nhiều giá trị kiểu dữ liệu khác nhau.",
+        "D. Tập hợp các phần tử có kiểu dữ liệu khác nhau, lưu trữ ngẫu nhiên trong bộ nhớ."
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Mảng là tập hợp các phần tử có cùng kiểu dữ liệu, lưu trữ thành một khối các ô nhớ liền kề trong bộ nhớ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Trong Python, để khai báo mảng số nguyên, chúng ta dùng cú pháp nào?",
+      "options": [
+        "A. array('i', [2, 5, 4])",
+        "B. array('f', [2.0, 5.0, 4.0])",
+        "C. array('d', [2, 5, 4])",
+        "D. array('s', [2, 5, 4]"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Trong Python, 'i' là ký tự viết tắt cho kiểu số nguyên khi khai báo mảng"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Khi sử dụng danh sách thay cho mảng trong Python, lợi ích chính là gì?",
+      "options": [
+        "A. Danh sách không có giới hạn kích thước.",
+        "B. Danh sách linh hoạt hơn và có nhiều phương thức hỗ trợ.",
+        "C. Danh sách chỉ chứa các phần tử kiểu số nguyên.",
+        "D. Danh sách lưu trữ các phần tử không liên tục trong bộ nhớ."
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Danh sách trong Python linh hoạt hơn mảng và có thêm nhiều phương thức hỗ trợ xử lý dữ liệu"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Trong ví dụ array('f', [7.5, 5.0, 8.5, 4.5, 5.0]), kiểu của các phần tử trong mảng là gì?",
+      "options": [
+        "A. Số nguyên",
+        "B. Chuỗi",
+        "C. Số thực",
+        "D. Boolean"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Ký tự 'f' đại diện cho kiểu dữ liệu số thực (float) trong mảng."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Chỉ số của các phần tử trong mảng được đánh số từ đâu?",
+      "options": [
+        "A. Từ 0",
+        "B. Từ 1",
+        "C. Từ -1",
+        "D. Bắt đầu từ giá trị ngẫu nhiên"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Trong hầu hết các ngôn ngữ lập trình, bao gồm Python, chỉ số của mảng bắt đầu từ 0."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cú pháp nào dùng để tính tổng các phần tử trong một mảng số thực mangThuc?",
+      "options": [
+        "A. sum(mangThuc)",
+        "B. total(mangThuc)",
+        "C. average(mangThuc)",
+        "D. summation(mangThuc)"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Hàm sum() có sẵn trong Python để tính tổng các phần tử của mảng hoặc danh sách."
+    }
+  ]
+}

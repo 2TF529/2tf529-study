@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-10-ket-noi-tri-thuc-bai-21-co-dap-an",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-10-ket-noi-",
+  "grade": "l10",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu trắc nghiệm Tin học 10 Kết nối tri thức Bài 21 có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Trong các phát biểu sau, phát biểu nào chưa chính xác?",
+      "options": [
+        "A. While là lệnh lặp với số lần không biết trước.",
+        "B. For là lệnh lặp với số lần xác định trước.",
+        "C. Khối lệnh lặp while được thực hiện cho đến khi &lt;điều kiện&gt; = False.",
+        "D. Số lần lặp của lệnh lặp for luôn được xác định bởi vùng giá trị của lệnh range()."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Số lần lặp của lệnh lặp for thường được xác định bởi vùng giá trị của lệnh range()."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho đoạn chương trình python sau: Tong = 0 while Tong < 10: Tong = Tong + 1 Sau khi đoạn chương trình trên được thực hiện, giá trị của tổng bằng bao nhiêu:",
+      "options": [
+        "A. 9.",
+        "B. 10.",
+        "C. 11.",
+        "D. 12."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Giá trị của Tong tăng từ 1 tới 10."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho biết kết quả của đoạn chương trình dưới đây: a = 10 while a < 11: print(a)",
+      "options": [
+        "A. Trên màn hình xuất hiện một số 10.",
+        "B. Trên màn hình xuất hiện 10 chữ a.",
+        "C. Trên màn hình xuất hiện một số 11.",
+        "D. Chương trình bị lặp vô tận."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Vì a = 10 luôn nhỏ hơn 11 nên chương trình bị lặp vô hạn."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu lệnh sau giải bài toán nào: while M != N: if M > N: M = M – N else: N = N – M",
+      "options": [
+        "A. Tìm UCLN của M và N.",
+        "B. Tìm BCNN của M và N.",
+        "C. Tìm hiệu nhỏ nhất của M và N.",
+        "D. Tìm hiệu lớn nhất của M và N."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Tính tổng S = 1 + 2 + 3 + 4 +… + n + … cho đến khi S>10000. Điều kiện nào sau đây cho vòng lặp while là đúng:",
+      "options": [
+        "A. while S >= 10000.",
+        "B. while S < 10000.",
+        "C. while S <= 10000.",
+        "D. While S >10000."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Đề bài yêu cầu tính tổng S cho đến khi S > 10000 tức là điều kiện của vòng lặp là S <= 10000."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Hãy đưa ra kết quả trong đoạn lệnh sau: x = 1 while (x <= 5): print(“python”) x = x + 1",
+      "options": [
+        "A. 5 từ python.",
+        "B. 4 từ python.",
+        "C. 3 từ python.",
+        "D. Không có kết quả."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A x chạy từ 1 đến 5 nên “python” xuất hiện 5 lần"
+    }
+  ]
+}

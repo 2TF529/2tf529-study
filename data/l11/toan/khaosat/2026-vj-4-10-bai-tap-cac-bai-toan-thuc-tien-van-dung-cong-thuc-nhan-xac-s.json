@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-4-10-bai-tap-cac-bai-toan-thuc-tien-van-dung-cong-thuc-nhan-xac-s",
+  "sourceId": "vietjack:4-10-bai-tap-cac-bai-toan-thuc-tien-van-",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "4.10 Bài tập Các bài toán thực tiễn vận dụng công thức nhân xác suất (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Một bệnh truyền nhiễm có xác suất lây bệnh là 0,9 nếu tiếp xúc với người bệnh mà không đeo khẩu trang; là 0,15 nếu tiếp xúc với người bệnh mà có đeo khẩu trang. Anh Hà tiếp xúc với một người bệnh hai lần, trong đó có một lần đeo khẩu trang và một lần không đeo khẩu trang. Xác suất anh Hà bị lây bệnh từ người bệnh mà anh tiếp xúc đó là",
+      "options": [
+        "A. 0,9;",
+        "B. 0,15;",
+        "C. 0,135;",
+        "D. 0,19."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Gọi A là biến cố “anh Hà bị lây bệnh từ người bệnh nếu tiếp xúc với người bệnh mà không đeo khẩu trang\". P(A) = 0,9. Gọi B là biến cố “anh Hà bị lây bệnh từ người bệnh nếu tiếp xúc với người bệnh mà có đeo khẩu trang\". P(B) = 0,15. Vì A và B là 2 biến cố độc lập nên xác suất của biến cố \"anh Hà bị lây bệnh từ người bệnh mà anh tiếp xúc đó” là: P(AB) = 0,9 . 0,15 = 0,135"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Minh mua 2 bóng đèn. Theo một kết quả thống kê, tỉ lệ bị hỏng trong năm đầu sử dụng của loại bóng đèn Minh mua là 23%. Xác suất để cả hai bóng đèn đều không bị hỏng trong năm đầu sử dụng là",
+      "options": [
+        "A. 0,23;",
+        "B. 0,0529;",
+        "C. 0,1771;",
+        "D. 0,5929."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Do tỉ lệ bóng bị hỏng trong năm đầu sử dụng là 23% nên xác suất 1 bóng bị hỏng trong năm đầu sử dụng là 0,23. Xác suất để 1 bóng không bị hỏng trong năm đầu sử dụng là 1 – 0,23 = 0,77. Gọi A là biến cố: “Cả hai bóng đèn đều không bị hỏng trong năm đầu sử dụng”. Do đó P(A) = 0,77.0,77 = 0,5929."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Một người vừa gieo một con xúc xắc để ghi lại số chấm xuất hiện, sau đó người này tiếp tục chọn ngẫu nhiên một lá bài từ bộ bài 52 lá. Xác suất để số chấm trên con xúc xắc là lớn nhất và chọn được một lá bài tây là",
+      "options": [
+        "A. 1 6",
+        "B. 1 26",
+        "C. 2 13",
+        "D. 1 13"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Gọi A là biến cố: \"Số chấm của xúc xắc lớn nhất\", B là biến cố: \"Chọn được một lá bài tây\". Dễ thấy A và B là hai biến cố độc lập. Ta có: A = {6} nên P A = 1 6 . Ta biết bộ bài 52 lá thì có 12 lá bài tây, nên xác suất chọn được một lá bài tây là Ta có biến cố AB là “ Số chấm trên con xúc xắc là lớn nhất và chọn được một lá bài tây”. Suy ra P A B = P A . P B = 1 6 . 3 13 = 1 26 ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Trên một bảng quảng cáo, người ta mắc 1 hệ thống bóng đèn. Hệ thống này gồm 2 bóng mắc nối tiếp. Khả năng bị hỏng của mỗi bóng đèn sau 6 giờ thắp sáng liên tục là 0,15. Biết tình trạng của mỗi bóng đèn là độc lập. Xác suất để hệ thống đèn bị hỏng (không sáng) sau 6 giờ thắp sáng là",
+      "options": [
+        "A. 0,0225;",
+        "B. 0,9775;",
+        "C. 0,2775;",
+        "D. 0,6215."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Nhận xét: Hệ thống đèn chỉ hoạt động bình thường khi cả hai bóng bình thường. Gọi A là biến cố: \"Hệ thống đèn bị hỏng sau 6 giờ thắp sáng \" thì A ¯ là biến cố “Hệ thống đèn hoạt động bình thường sau 6 giờ thắp sáng”. Do khả năng bị hỏng của mỗi bóng đèn sau 6 giờ thắp sáng liên tục là 0,15 nên xác suất để 1 bóng đèn hoạt động bình thường sau 6 giờ thắp sáng là 1 – 0,15 = 0,85. Xác suất để hệ thống đèn hoạt động bình thường sau 6 giờ thắp sáng là: P A ¯ = 0 , 85 . 0 , 85 = 0 , 7225 Suy ra: P A = 1 − 0 , 7225 = 0 , 2775 ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Trên một bảng quảng cáo, người ta mắc 1 hệ thống bóng đèn. Hệ thống này gồm 2 bóng mắc song song. Khả năng bị hỏng của mỗi bóng đèn sau 6 giờ thắp sáng liên tục là 0,15. Biết tình trạng của mỗi bóng đèn là độc lập. Xác suất để hệ thống đèn hoạt động bình thường sau 6 giờ thắp sáng là",
+      "options": [
+        "A. 0,0225;",
+        "B. 0,9775;",
+        "C. 0,5656;",
+        "D. 0,6215 ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Nhận xét: Hệ thống đèn gồm 2 bóng được mắc song song nên nó chỉ hỏng khi cả hai bóng đều hỏng. Gọi A là biến cố: \"Hệ thống đèn bị hỏng sau 6 giờ thắp sáng \" thì A ¯ là biến cố “Hệ thống đèn hoạt động bình thường sau 6 giờ thắp sáng”. Do khả năng bị hỏng của mỗi bóng đèn sau 6 giờ thắp sáng liên tục là 0,15 nên xác suất để 1 bóng đèn bị hỏng sau 6 giờ thắp sáng là 0,15. Xác suất để hệ thống đèn bị hỏng sau 6 giờ thắp sáng là P(A) = 0,15.0,15 = 0,0225. Vậy xác suất để hệ thống đèn hoạt động bình thường là P A ¯ = 1 − P A = 1 – 0 , 0225 = 0 , 9775."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong một đội tuyển có 2 vận động viên An và Bình thi đấu với xác suất chiến thắng lần lượt là 0,7 và 0,6. Giả sử mỗi người thi đấu một trận độc lập nhau. Xác suất để đội tuyển thắng cả hai trận là",
+      "options": [
+        "A. 0,26 ;",
+        "B. 0,38 ;",
+        "C. 0,88;",
+        "D. 0,42."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Gọi A là biến cố \"Vận động viên An chiến thắng\", P(A) = 0,7. B là biến cố \"Vận động viên Bình chiến thắng\", P(B) = 0,6. AB là biến cố \"Đội tuyển thắng cả hai trận\". Do A và B là hai biến cố độc lập nên P(AB) = P(A).P(B) = 0,7 . 0,6 = 0,42."
+    }
+  ]
+}

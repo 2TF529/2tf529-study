@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-10-bai-tap-cong-sai-so-hang-dau-va-so-hang-tong-quat-cua-cap-so",
+  "sourceId": "vietjack:2-10-bai-tap-cong-sai-so-hang-dau-va-so-",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.10 Bài tập Công sai, số hạng đầu và số hạng tổng quát của cấp số cộng (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho cấp số cộng (u n ) có u 1 = 0,4 và công sai d = 1. Số hạng thứ 10 của cấp số cộng này là",
+      "options": [
+        "A. 1,6;",
+        "B. 1,4;",
+        "C. 10,4;",
+        "D. 9,4."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Số hạng tổng quát của cấp số cộng (u n ) là: u n = u 1 + (n − 1)d. \\(\\Rightarrow \\) số hạng thứ 10 của cấp số cộng là: u 10 = 0,4 + (10 − 1) . 1 = 9,4."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho cấp số cộng (u n ) có u 1 = −2 và công sai d = 3. Hỏi có bao nhiêu số hạng của cấp số thỏa mãn u n < 11?",
+      "options": [
+        "A. 3;",
+        "B. 4;",
+        "C. 5;",
+        "D. 6."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Cấp số cộng có u 1 = −2 và công sai d = 3 nên số hạng tổng quát của cấp số cộng là: u n = u 1 + (n − 1) . d = −2 + 3(n − 1) = 3n – 5. Để u n < 11 thì 3n − 5 < 11 \\(\\Leftrightarrow \\) 3n < 16 \\(\\Leftrightarrow \\) n < \\(\\frac{{16}}{3}\\) . Mà n nguyên dương nên n ∈ {1; 2; 3; 4; 5}. Vậy có 5 số hạng của cấp số cộng thỏa mãn điều kiện."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Giả sử có ba số hạng xen giữa các số 2 và 22 tạo thành cấp số cộng có 5 số hạng. Tổng của ba số hạng xen giữa đó là",
+      "options": [
+        "A. 36;",
+        "B. 28;",
+        "C. 32;",
+        "D. 30."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Khi viết ba số xen giữa hai số 2 và 22 để được cấp số cộng có 5 số hạng thì: u 1 = 2 và u 5 = 22. + Lại có: u 5 = u 1 + (5 − 1).d nên 22 = 2 + 4.d \\(\\Leftrightarrow \\) 20 = 4.d \\(\\Leftrightarrow \\) d = 5. + Suy ra: u 2 = u 1 + d = 2 + 5 = 7; u 3 = u 1 + 2d = 2 + 2 . 5 = 12; Và u 4 = u 1 + 3d = 2 + 3 . 5 = 17. \\(\\Rightarrow \\) u 2 + u 3 + u 4 = 7 + 12 + 17 = 36."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho dãy số (u n ) với u n = 7 − 2n. Khẳng định nào sau đây là sai?",
+      "options": [
+        "A. 3 số hạng đầu của dãy u 1 = 5; u 2 = 3 và u 3 = 1;",
+        "B. Số hạng thứ n + 1 là u n + 1 = 8 − 2n;",
+        "C. Là cấp số cộng có d = −2;",
+        "D. Số hạng thứ 4: u 4 = −1."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có: u 1 = 7 – 2.1 = 5; u 2 = 7 – 2.2 = 3; u 3 = 7 – 2.3 = 1; u 4 = 7 – 2.4 = –1. \\(\\Rightarrow \\) Đáp án A, D đúng. Số hạng thứ n+1 là: u n + 1 = 7 − 2(n + 1) = 5 − 2n. \\(\\Rightarrow \\) B sai. Xét hiệu: u n + 1 − u n = (5 − 2n) − (7 − 2n) = −2 \\(\\Rightarrow \\) (u n ) là cấp số cộng với công sai d = −2. \\(\\Rightarrow \\) C đúng."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho cấp số cộng (u n ) có u 3 = −15 và u 14 = 18. Các giá trị u 1 , d của cấp số cộng là",
+      "options": [
+        "A. u 1 = −21; d = 3.",
+        "B. u 1 = −20; d = 2.",
+        "C. u 1 = −21; d = −3.",
+        "D. u 1 = −20 ; d = −2."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có: \\(\\left\\{ \\begin{array}{l}{u_3} = {u_1} + 2d\\\\{u_{14}} = {u_1} + 13d\\end{array} \\right.\\) Từ giả thiết suy ra: \\(\\left\\{ \\begin{array}{l} - 15 = {u_1} + 2d\\\\18 = {u_1} + 13d\\end{array} \\right.\\) \\(\\Leftrightarrow \\) \\(\\left\\{ \\begin{array}{l}{u_1} = - 21\\\\d = 3\\end{array} \\right.\\)"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho cấp số cộng (u n ) thỏa mãn: \\(\\left\\{ \\begin{array}{l}{u_5} = 19\\\\{u_9} = 35\\end{array} \\right.\\) . Số hạng thứ 10 của cấp số cộng là",
+      "options": [
+        "A. 39;",
+        "B. 27;",
+        "C. 36;",
+        "D. 42."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Theo giả thiết ta có: \\(\\left\\{ {\\begin{array}{*{20}{l}}{{u_5} = 19}\\\\{{u_9} = 35}\\end{array} \\Leftrightarrow \\left\\{ {\\begin{array}{*{20}{l}}{{u_1} + 4d = 19}\\\\{{u_1} + 8d = 35}\\end{array} \\Leftrightarrow \\left\\{ {\\begin{array}{*{20}{l}}{{u_1} = 3}\\\\{d = 4}\\end{array}} \\right.} \\right.} \\right.\\) . Số hạng thứ 10 của cấp số cộng là: u 10 = u 1 + 9d = 3 + 9 . 4 = 39."
+    }
+  ]
+}

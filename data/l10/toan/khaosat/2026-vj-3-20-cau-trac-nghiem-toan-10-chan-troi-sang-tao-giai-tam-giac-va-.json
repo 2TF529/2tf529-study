@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-3-20-cau-trac-nghiem-toan-10-chan-troi-sang-tao-giai-tam-giac-va-",
+  "sourceId": "vietjack:3-20-cau-trac-nghiem-toan-10-chan-troi-s",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.20 câu Trắc nghiệm Toán 10 chân trời sáng tạo Giải tam giác và ứng dụng thực tế có đáp án (Phần 2)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho ∆ABC biết b = 32, c = 45, \\[\\widehat A = 87^\\circ \\] . Khẳng định nào sau đây đúng ?",
+      "options": [
+        "A. a ≈ 53,8, \\(\\widehat B \\approx 37^\\circ ,\\,\\,\\widehat C \\approx 56^\\circ \\) ;",
+        "B. a ≈ 2898,3, \\(\\widehat B \\approx 37^\\circ ,\\,\\,\\widehat C \\approx 56^\\circ \\) ;",
+        "C. a ≈ 53,8, \\(\\widehat B \\approx 56^\\circ ,\\,\\,\\widehat C \\approx 37^\\circ \\) ;",
+        "D. a ≈ 55,2, \\(\\widehat B \\approx 37^\\circ ,\\,\\,\\widehat C \\approx 56^\\circ \\) ;."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A Áp dụng định lí côsin cho D ABC, ta có: a 2 = b 2 + c 2 – 2bc.cosA = 32 2 + 45 2 – 2.32.45.cos87° ≈ 2898,3 Suy ra a ≈ \\(\\sqrt {2898,3} \\) ≈ 53,8. Theo định lí sin, ta có \\(\\frac{a}{{\\sin A}} = \\frac{b}{{\\sin B}}\\) Suy ra \\(\\sin B = \\frac{{b.\\sin A}}{a} \\approx \\frac{{32.\\sin 87^\\circ }}{{53,8}} \\approx 0,6\\) . Do đó \\(\\widehat B \\approx 37^\\circ \\) ( \\(\\widehat B \\approx 180^\\circ - 37^\\circ = 143^\\circ \\) không thỏa mãn do \\(\\widehat A + \\widehat B \\approx 87^\\circ + 143^\\circ = 230^\\circ > 180^\\circ )\\) ∆ABC có: \\(\\widehat A + \\widehat B + \\widehat C = 180^\\circ \\) (định lí tổng ba góc trong một tam giác) Suy ra \\(\\widehat C = 180^\\circ - \\left( {\\widehat A + \\widehat B} \\right) \\approx 180^\\circ - \\left( {87^\\circ + 37^\\circ } \\right) = 56^\\circ \\) . Vậy a ≈ 53,8, \\(\\widehat B \\approx 37^\\circ ,\\,\\,\\widehat C \\approx 56^\\circ \\) . Do đó ta chọn phương án A."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho ∆ABC biết \\(\\widehat A = 60^\\circ ,\\,\\,\\widehat B = 40^\\circ \\) , c = 14. Khẳng định nào sau đây sai ?",
+      "options": [
+        "A. \\(\\widehat C = 80^\\circ \\) ;",
+        "B. a ≈ 12,3;",
+        "C. b ≈ 9,1;",
+        "D. Cả A và C đều sai."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải Đáp án đúng là: D ⦁ ∆ABC có: \\(\\widehat A + \\widehat B + \\widehat C = 180^\\circ \\) (định lí tổng ba góc trong một tam giác) Suy ra \\(\\widehat C = 180^\\circ - \\left( {\\widehat A + \\widehat B} \\right) = 180^\\circ - \\left( {60^\\circ + 40^\\circ } \\right) = 80^\\circ \\) . Do đó phương án A đúng. ⦁ Theo định lí sin, ta có: \\(\\frac{a}{{\\sin A}} = \\frac{b}{{\\sin B}} = \\frac{c}{{\\sin C}}\\) . Suy ra \\(a = \\frac{{c.\\sin A}}{{\\sin C}} = \\frac{{14.\\sin 60^\\circ }}{{\\sin 80^\\circ }} \\approx 12,3\\) . Do đó phương án B đúng. Ta có \\(\\frac{b}{{\\sin B}} = \\frac{c}{{\\sin C}}\\) Suy ra \\(b = \\frac{{c.\\sin B}}{{\\sin C}} = \\frac{{14.\\sin 40^\\circ }}{{\\sin 80^\\circ }} \\approx 9,1\\) . Do đó phương án C đúng, phương án D sai. Vậy ta chọn phương án D."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho ∆ABC biết \\(a = \\sqrt 6 \\) , b = 2, \\(c = 1 + \\sqrt 3 \\) . Khẳng định nào sau đây đúng nhất ?",
+      "options": [
+        "A. \\(\\widehat A = 60^\\circ \\) ;",
+        "B. \\(\\widehat B = 45^\\circ \\) ;",
+        "C. \\(\\widehat C = 75^\\circ \\) ;",
+        "D. Cả A, B, C đều đúng."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải Đáp án đúng là: D Theo hệ quả của định lí côsin, ta có: ⦁ \\(\\cos A = \\frac{{{b^2} + {c^2} - {a^2}}}{{2bc}} = \\frac{{{2^2} + {{\\left( {1 + \\sqrt 3 } \\right)}^2} - {{\\left( {\\sqrt 6 } \\right)}^2}}}{{2.2.\\left( {1 + \\sqrt 3 } \\right)}} = \\frac{1}{2}\\) . Suy ra \\(\\widehat A = 60^\\circ \\) . ⦁ \\(\\cos B = \\frac{{{a^2} + {c^2} - {b^2}}}{{2ac}} = \\frac{{{{\\left( {\\sqrt 6 } \\right)}^2} + {{\\left( {1 + \\sqrt 3 } \\right)}^2} - {2^2}}}{{2.\\sqrt 6 .\\left( {1 + \\sqrt 3 } \\right)}} = \\frac{{\\sqrt 2 }}{2}\\) . Suy ra \\(\\widehat B = 45^\\circ \\) . ⦁ \\(\\cos C = \\frac{{{a^2} + {b^2} - {c^2}}}{{2ab}} = \\frac{{{{\\left( {\\sqrt 6 } \\right)}^2} + {2^2} - {{\\left( {1 + \\sqrt 3 } \\right)}^2}}}{{2.\\sqrt 6 .2}} = \\frac{{\\sqrt 6 - \\sqrt 2 }}{4}\\) . Suy ra \\(\\widehat C = 75^\\circ \\) . Vậy ta chọn phương án D."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho \\(\\widehat A = 120^\\circ ,\\,\\,\\widehat B = 45^\\circ \\) , R = 2. Khẳng định nào sau đây sai ?",
+      "options": [
+        "A. \\(BC = 2\\sqrt 2 ,\\,\\,AC = 2\\sqrt 3 ,\\,\\,AB = \\sqrt 6 + \\sqrt 2 ,\\,\\,\\widehat C = 15^\\circ \\) ;",
+        "B. \\(BC = 2\\sqrt 3 ,\\,\\,AC = 2\\sqrt 2 ,\\,\\,AB = \\sqrt 6 + \\sqrt 2 ,\\,\\,\\widehat C = 15^\\circ \\) ;",
+        "C. \\(BC = 2\\sqrt 3 ,\\,\\,AC = 2\\sqrt 2 ,\\,\\,AB = \\sqrt 6 - \\sqrt 2 ,\\,\\,\\widehat C = 15^\\circ \\) ;",
+        "D. \\(BC = 2\\sqrt 2 ,\\,\\,AC = 2\\sqrt 3 ,\\,\\,AB = \\sqrt 6 - \\sqrt 2 ,\\,\\,\\widehat C = 15^\\circ \\) ."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là: C Theo hệ quả định lí sin, ta có: ⦁ BC = 2R.sinA = 2.2.sin120° = \\(2\\sqrt 3 \\) . ⦁ AC = 2R.sinB = 2.2.sin45° = \\(2\\sqrt 2 \\) . Theo định lí côsin, ta có BC 2 = AC 2 + AB 2 – 2.AC.AB.cosA Suy ra \\({\\left( {2\\sqrt 3 } \\right)^2} = {\\left( {2\\sqrt 2 } \\right)^2} + A{B^2} - 2.2\\sqrt 2 .AB.\\cos 120^\\circ \\) Khi đó \\(A{B^2} + 2\\sqrt 2 .AB - 4 = 0\\) Vì vậy \\(AB = \\sqrt 6 - \\sqrt 2 \\) hoặc \\(AB = - \\sqrt 6 - \\sqrt 2 \\) Vì AB là độ dài một cạnh của ∆ABC nên ta có AB > 0. Do đó ta nhận \\(AB = \\sqrt 6 - \\sqrt 2 \\) . ∆ABC có \\(\\widehat A + \\widehat B + \\widehat C = 180^\\circ \\) (định lí tổng ba góc trong một tam giác) Suy ra \\(\\widehat C = 180^\\circ - \\left( {\\widehat A + \\widehat B} \\right) = 180^\\circ - \\left( {120^\\circ + 45^\\circ } \\right) = 15^\\circ \\) . Vậy ta chọn phương án C."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho ∆ABC, biết \\(\\widehat A = 60^\\circ \\) , \\({h_c} = 2\\sqrt 3 \\) , R = 6. Khẳng định nào sau đây đúng ?",
+      "options": [
+        "A. \\(a = 6\\sqrt 3 ,\\,\\,b = 2 + 4\\sqrt 6 ,c = 4;\\) ;",
+        "B. \\(a = 6\\sqrt 3 ,\\,\\,b = 4,\\,\\,c = 2 + 4\\sqrt 6 \\) ;",
+        "C. \\(a = 6\\sqrt 3 ,\\,\\,b = 4,c = 2 + \\sqrt 6 ;\\)",
+        "D. \\(a = 6\\sqrt 3 ,\\,\\,b = 2 + \\sqrt 6 ,c = 4\\) ."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải Đáp án đúng là: B ⦁ Theo hệ quả định lí sin, ta có: a = 2R.sinA = 2.6.sin60° = \\(6\\sqrt 3 \\) . ⦁ Ta có S = \\(\\frac{1}{2}c{h_c} = \\frac{1}{2}bc\\sin A\\,\\) . Suy ra h c = b.sinA Do đó \\(b = \\frac{{{h_c}}}{{\\sin A}} = \\frac{{2\\sqrt 3 }}{{\\sin 60^\\circ }} = 4\\) . ⦁ Theo định lí côsin, ta có a 2 = b 2 + c 2 – 2bc.cosA Suy ra \\({\\left( {6\\sqrt 3 } \\right)^2} = {4^2} + {c^2} - 2.4.c.\\cos 60^\\circ \\) Khi đó c 2 – 4c – 92 = 0 Vì vậy \\(c = 2 + 4\\sqrt 6 \\) hoặc \\(c = 2 - 4\\sqrt 6 \\) . Vì c là độ dài một cạnh của ∆ABC nên c > 0. Do đó ta nhận \\(c = 2 + 4\\sqrt 6 \\) . Vậy ta chọn phương án B."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho ∆ABC có AB = 4, AC = 5 và \\(\\cos A = \\frac{3}{5}\\) . Độ dài đường cao kẻ từ A bằng:",
+      "options": [
+        "A. \\(\\frac{{16\\sqrt {17} }}{{17}}\\) ;",
+        "B. \\(\\frac{{16\\sqrt {29} }}{{29}}\\) ;",
+        "C. 8;",
+        "D. 10."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A Theo định lí côsin, ta có BC 2 = AB 2 + AC 2 – 2.AB.AC.cosA \\( = {4^2} + {5^2} - 2.4.5.\\frac{3}{5} = 17\\) . Suy ra \\(BC = \\sqrt {17} \\) . Nửa chu vi ∆ABC là: \\(p = \\frac{{AB + AC + BC}}{2} = \\frac{{4 + 5 + \\sqrt {17} }}{2} = \\frac{{9 + \\sqrt {17} }}{2}\\) . Diện tích ∆ABC là: \\(S = \\sqrt {p\\left( {p - AB} \\right)\\left( {p - AC} \\right)\\left( {p - BC} \\right)} \\) \\( = \\sqrt {\\frac{{9 + \\sqrt {17} }}{2}\\left( {\\frac{{9 + \\sqrt {17} }}{2} - 4} \\right)\\left( {\\frac{{9 + \\sqrt {17} }}{2} - 5} \\right)\\left( {\\frac{{9 + \\sqrt {17} }}{2} - \\sqrt {17} } \\right)} \\) = 8 (đơn vị diện tích). Ta có \\(S = \\frac{1}{2}.BC.{h_a}\\) \\( \\Leftrightarrow 8 = \\frac{1}{2}.\\sqrt {17} .{h_a}\\) \\( \\Leftrightarrow {h_a} = \\frac{{16\\sqrt {17} }}{{17}}\\) Vậy ta chọn đáp án A."
+    }
+  ]
+}

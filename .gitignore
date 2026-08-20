@@ -1,0 +1,30 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.cache/
+node_modules/
+
+# Temporary downloads and crawler/recovery workspaces
+.drive_inbox_*/
+.tmp_*/
+tmp/
+temp/
+scratch/
+reports/
+quarantine/
+*.tmp
+*.temp
+*.log
+*.part
+*.crdownload
+
+# Local secrets
+.env
+.env.*
+!.env.example
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db

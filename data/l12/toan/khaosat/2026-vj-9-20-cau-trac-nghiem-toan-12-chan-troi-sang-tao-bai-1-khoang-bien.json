@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-9-20-cau-trac-nghiem-toan-12-chan-troi-sang-tao-bai-1-khoang-bien",
+  "sourceId": "vietjack:9-20-cau-trac-nghiem-toan-12-chan-troi-s",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "9.20 câu trắc nghiệm Toán 12 Chân trời sáng tạo Bài 1: Khoảng biến thiên và khoảng tứ phân vị của mẫu số liệu ghép nhóm (Đúng sai - Trả lời ngắn) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: TRẮC NGHIỆM NHIỀU LỰA CHỌN Xét mẫu số liệu ghép nhóm được cho ở bảng sau: Nếu n 1 và n k cùng khác 0 thì khoảng biến thiên mẫu số liệu trên được tính theo công thức:",
+      "options": [
+        "A. R = n k – n 1 .",
+        "B. R = n k .u k + 1 – n 1 u 1 .",
+        "C. R = u k + 1 – u 1 .",
+        "D. R = u 1 – u k + 1 ."
+      ],
+      "answer": "C",
+      "note": "R = u k + 1 – u 1 ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho bảng số liệu khảo sát về tuổi thọ (đơn vị: nghìn giờ) của một loại bóng đèn: Khoảng biến thiên của mẫu số liệu trên:",
+      "options": [
+        "A. R = 10.",
+        "B. R = 6.",
+        "C. R = 8.",
+        "D. R = 16."
+      ],
+      "answer": "A",
+      "note": "R = 13 – 3 = 10."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Thống kê điểm môn Toán giữa kì của lớp 11A và 11B ta thu được bảng như sau Gọi R 1 ; R 2 là khoảng biến thiên của mẫu số liệu ghép nhóm về điểm thi môn Toán giữa kì của lớp 11A và 11B. Từ bảng trên, kết luận nào sau đây đúng:",
+      "options": [
+        "A. R 1 < 4.",
+        "B. R 2 = 10.",
+        "C. R 1 > R 2 .",
+        "D. Điểm môn Toán của lớp 11B có độ phân tán lớn hơn điểm môn Toán của lớp 11A."
+      ],
+      "answer": "D",
+      "note": "R1 = 10 – 4 = 6; R2 = 8 – 0 = 8. Vì 6 < 8 nên điểm môn Toán của lớp 11B có độ phân tán lớn hơn điểm môn Toán của lớp 11A."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Thời gian hoành thành một bài tập (đơn vị: phút) của một số học sinh thu được kết quả sau: Tìm khoảng biến thiên cho mẫu số liệu ghép nhóm trên.",
+      "options": [
+        "A. 4.",
+        "B. 15.",
+        "C. 20.",
+        "D. 16."
+      ],
+      "answer": "C",
+      "note": "R = 20 – 0 = 20."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Xét mẫu số liệu ghép nhóm cho bởi bảng sau: Khoảng biến thiên của mẫu số liệu ghép nhóm đã cho bằng",
+      "options": [
+        "A. 5.",
+        "B. 40.",
+        "C. 70.",
+        "D. 100."
+      ],
+      "answer": "D",
+      "note": "R = 100 – 0 = 100."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Thời gian (phút) đi từ nhà đến nơi làm việc của các nhân viên một công ty như sau: Khoảng tứ phân vị của mẫu số liệu trên gần với số nào nhất?",
+      "options": [
+        "A. 22,1.",
+        "B. 11,8.",
+        "C. 21.",
+        "D. 11,7."
+      ],
+      "answer": "D",
+      "note": "Cỡ mẫu n = 6 + 14 + 30 + 25 + 22 + 15 + 8 = 120. Gọi x1; x2; ...; x120 là thời gian đi từ nhà đến nơi làm việc của 120 nhân viên được xếp theo thứ tự không giảm. Ta có \\({Q_1} = \\frac{{{x_{30}} + {x_{31}}}}{2}\\) mà x30; x31 Î [25; 30) nên nhóm này chứa tứ phân vị thứ nhất. Ta có \\({Q_1} = 25 + \\frac{{\\frac{{120}}{4} - 20}}{{30}}.5 = \\frac{{80}}{3}\\). Ta có \\({Q_3} = \\frac{{{x_{90}} + {x_{91}}}}{2}\\) mà x90; x91 Î [35; 40) nên nhóm này chứa tứ phân vị thứ ba. Ta có \\({Q_3} = 35 + \\frac{{\\frac{{3.120}}{4} - 75}}{{22}}.5 = \\frac{{845}}{{22}}\\). Suy ra \\({\\Delta _Q} = \\frac{{845}}{{22}} - \\frac{{80}}{3} \\approx 11,7\\)."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Bảng sau thống kê cân nặng của 50 quả xoài được lựa chọn ngẫu nhiên sau khi thu hoạch ở một nông trường như sau: Khoảng tứ phân vị của mẫu số liệu trên là",
+      "options": [
+        "A. 319,23.",
+        "B. 382,72.",
+        "C. 63,50.",
+        "D. 65,43."
+      ],
+      "answer": "C",
+      "note": "Cỡ mẫu n = 3 + 13 + 18 + 11 + 5 = 50. Gọi x1; x2; …; x50 lần lượt là cân nặng của 50 quả xoài được xếp theo thứ tự không giảm. Ta có Q1 = x13 Î [290; 330) nên nhóm này chứa tứ phân vị thứ nhất. Ta có \\({Q_1} = 290 + \\frac{{\\frac{{50}}{4} - 3}}{{13}}.40 = \\frac{{4150}}{{13}}.\\) Ta có \\({Q_3} = {x_{38}} \\in \\left[ {370;410} \\right]\\) nên nhóm này chứa tứ phân vị thứ ba. Ta có \\({Q_3} = 370 + \\frac{{\\frac{{3.50}}{4} - 34}}{{11}}.40 = \\frac{{4210}}{{11}}\\). Suy ra \\({\\Delta _Q} = \\frac{{4210}}{{11}} - \\frac{{4150}}{{13}} \\approx 63,5\\)."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Bảng dưới đây biểu diễn mẫu số liệu ghép nhóm về số tiền (đơn vị: nghìn đồng) mà 12 khách hàng mua sách ở một cửa hàng trong một ngày. Xác định khoảng tứ phân vị của mẫu số liệu ghép nhóm trên.",
+      "options": [
+        "A. \\(\\frac{{65}}{6}\\).",
+        "B. \\(\\frac{{55}}{3}\\).",
+        "C. \\(\\frac{{12}}{5}\\).",
+        "D. \\(\\frac{{312}}{5}\\)."
+      ],
+      "answer": "A",
+      "note": "Gọi x1; x2; …; x12 là số tiền (nghìn đồng) của 12 khách hàng mua sách được xếp theo thứ tự không giảm. Ta có \\({Q_1} = \\frac{{{x_3} + {x_4}}}{2}\\) mà x3; x4 Î [50; 60) nên nhóm này chứa tứ phân vị thứ nhất. Ta có \\({Q_1} = 50 + \\frac{{\\frac{{12}}{4} - 2}}{6}.10 = \\frac{{155}}{3}\\). Ta có \\({Q_3} = \\frac{{{x_9} + {x_{10}}}}{2}\\) mà x9; x10 Î [60; 70) nên nhóm này chứa tứ phân vị thứ ba. Ta có \\({Q_3} = 60 + \\frac{{\\frac{{3.12}}{4} - 8}}{4}.10 = \\frac{{125}}{2}\\). Suy ra \\({\\Delta _Q} = \\frac{{125}}{2} - \\frac{{155}}{3} = \\frac{{65}}{6}\\)."
+    }
+  ]
+}

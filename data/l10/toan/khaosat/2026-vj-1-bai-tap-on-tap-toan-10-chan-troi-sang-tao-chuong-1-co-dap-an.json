@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-1-bai-tap-on-tap-toan-10-chan-troi-sang-tao-chuong-1-co-dap-an",
+  "sourceId": "vietjack:1-bai-tap-on-tap-toan-10-chan-troi-sang-",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.Bài tập ôn tập Toán 10 Chân trời sáng tạo Chương 1 có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: A. Trắc nghiệm Dạng 1. Trắc nghiệm nhiều phương án lựa chọn Mỗi câu hỏi thí sinh chỉ chọn một phương án. Kí hiệu nào sau đây để chỉ \\(\\sqrt 2 \\) không phải là số hữu tỉ?",
+      "options": [
+        "A. \\(\\sqrt 2 \\in \\mathbb{Q}\\).",
+        "B. \\(\\sqrt 2 = \\mathbb{Q}\\).",
+        "C. \\(\\sqrt 2 \\subset \\mathbb{Q}\\).",
+        "D. \\(\\sqrt 2 \\notin \\mathbb{Q}\\)."
+      ],
+      "answer": "D",
+      "note": "\\(\\sqrt 2 \\notin \\mathbb{Q}\\). Chọn D."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho tập \\(X = \\left\\{ {x \\in \\mathbb{N}|2{x^2} - 5x + 3 = 0} \\right\\}\\). Chọn khẳng định đúng.",
+      "options": [
+        "A. \\(X = \\left\\{ {\\frac{3}{2}} \\right\\}\\).",
+        "B. \\(X = \\left\\{ 1 \\right\\}\\).",
+        "C. \\(X = \\left\\{ 0 \\right\\}\\).",
+        "D. \\(X = \\left\\{ {1;\\frac{3}{2}} \\right\\}\\)."
+      ],
+      "answer": "B",
+      "note": "Ta có \\(2{x^2} - 5x + 3 = 0\\)\\( \\Leftrightarrow \\left[ \\begin{array}{l}x = \\frac{3}{2}\\\\x = 1\\end{array} \\right.\\). Mà \\(x \\in \\mathbb{N}\\) nên \\(x = 1\\). Vậy \\(X = \\left\\{ 1 \\right\\}\\). Chọn B."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Các phần tử của tập hợp \\(E = \\left\\{ {x \\in \\mathbb{R}|\\left( {{x^2} - 1} \\right)\\left( {{x^2} - 3x + 2} \\right) = 0} \\right\\}\\) là",
+      "options": [
+        "A. \\(\\left\\{ {1;2} \\right\\}\\).",
+        "B. \\(\\left\\{ { - 1;1} \\right\\}\\).",
+        "C. \\(\\left\\{ { - 1;1;2} \\right\\}\\).",
+        "D. \\(\\left\\{ { - 1;2} \\right\\}\\)."
+      ],
+      "answer": "C",
+      "note": "\\(\\left( {{x^2} - 1} \\right)\\left( {{x^2} - 3x + 2} \\right) = 0 \\Leftrightarrow \\left[ \\begin{array}{l}{x^2} - 1 = 0\\\\{x^2} - 3x + 2 = 0\\end{array} \\right.\\)\\( \\Leftrightarrow \\left[ \\begin{array}{l}x = \\pm 1\\\\x = 1\\\\x = 2\\end{array} \\right.\\). Vậy \\(E = \\left\\{ { - 1;1;2} \\right\\}\\). Chọn C."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Phủ định của mệnh đề \\(S\\): “\\(\\exists x \\in \\mathbb{R},{x^2} + x + 1 < 0\\)” là",
+      "options": [
+        "A. \\(\\exists x \\in \\mathbb{R},{x^2} + x + 1 \\ge 0\\).",
+        "B. \\(\\exists x \\notin \\mathbb{R},{x^2} + x + 1 \\ge 0\\).",
+        "C. \\(\\forall x \\in \\mathbb{R},{x^2} + x + 1 \\ge 0\\).",
+        "D. \\(\\forall x \\in \\mathbb{R},{x^2} + x + 1 < 0\\)."
+      ],
+      "answer": "C",
+      "note": "Phủ định của mệnh đề \\(S\\) là \\(\\forall x \\in \\mathbb{R},{x^2} + x + 1 \\ge 0\\). Chọn C."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Tập hợp \\(P\\) được biểu diễn trên trục số như sau: Chọn khẳng định đúng trong các khẳng định sau?",
+      "options": [
+        "A. \\(P = \\left[ {0;4} \\right)\\).",
+        "B. \\(P = \\left( {0;4} \\right)\\).",
+        "C. \\(P = \\left( {0;4} \\right]\\).",
+        "D. \\(P = \\left[ {0;4} \\right]\\)."
+      ],
+      "answer": "C",
+      "note": "\\(P = \\left( {0;4} \\right]\\). Chọn C."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Kí hiệu nào sau đây dùng để viết đúng mệnh đề “3 là số tự nhiên”?",
+      "options": [
+        "A. \\(3 \\le \\mathbb{N}\\).",
+        "B. \\(\\left\\{ 3 \\right\\} \\in \\mathbb{N}\\).",
+        "C. \\(3 \\subset \\mathbb{N}\\).",
+        "D. \\(3 \\in \\mathbb{N}\\)."
+      ],
+      "answer": "D",
+      "note": "\\(3 \\in \\mathbb{N}\\). Chọn D."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Cho mệnh đề “Có học sinh trong lớp 10A không thích học môn Toán”. Mệnh đề phủ định của mệnh đề này là:",
+      "options": [
+        "A. “Mọi học sinh trong lớp 10A đều không thích học môn Toán”.",
+        "B. “Có một học sinh trong lớp 10A thích học môn Toán”.",
+        "C. “Mọi học sinh trong lớp 10A đều thích học môn Toán”.",
+        "D. “Mọi học sinh trong lớp 10A đều thích học môn Văn”."
+      ],
+      "answer": "C",
+      "note": "“Mọi học sinh trong lớp 10A đều thích học môn Toán” là mệnh đề phủ định. Chọn C."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Tập hợp \\(A = \\left\\{ {1;2;3;4;5;6;7} \\right\\}\\) còn được viết dưới dạng là",
+      "options": [
+        "A. \\(A = \\left\\{ {n \\in \\mathbb{N}|1 < n \\le 7} \\right\\}\\).",
+        "B. \\(A = \\left\\{ {n \\in \\mathbb{N}|1 < n < 7} \\right\\}\\).",
+        "C. \\(A = \\left\\{ {n \\in \\mathbb{N}|0 < n \\le 7} \\right\\}\\).",
+        "D. \\(A = \\left\\{ {n \\in \\mathbb{N}|n \\le 7} \\right\\}\\)."
+      ],
+      "answer": "C",
+      "note": "\\(A = \\left\\{ {n \\in \\mathbb{N}|0 < n \\le 7} \\right\\}\\). Chọn C."
+    }
+  ]
+}

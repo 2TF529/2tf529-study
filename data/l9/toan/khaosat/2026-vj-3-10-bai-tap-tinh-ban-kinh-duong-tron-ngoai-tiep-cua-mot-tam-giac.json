@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-3-10-bai-tap-tinh-ban-kinh-duong-tron-ngoai-tiep-cua-mot-tam-giac",
+  "sourceId": "vietjack:3-10-bai-tap-tinh-ban-kinh-duong-tron-ng",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.10 bài tập Tính bán kính đường tròn ngoại tiếp của một tam giác vuông có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Đường tròn ngoại tiếp tam giác vuông có bán kính bằng",
+      "options": [
+        "A. Nửa cạnh huyền của tam giác vuông đó.",
+        "B. Cạnh huyền của tam giác vuông đó.",
+        "C. Hai lần cạnh huyền của tam giác vuông đó.",
+        "D. Độ dài một cạnh góc vuông của tam giác vuông đó."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Đường tròn ngoại tiếp tam giác vuông có bán kính bằng nửa cạnh huyền của tam giác vuông đó."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho tam giác ABC có AB = 3 cm, AC = 4 cm, BC = 5 cm. Chọn khẳng định sai trong các khẳng định dưới đây.",
+      "options": [
+        "A. Tam giác ABC vuông tại A.",
+        "B. Điểm B thuộc đường tròn đường kính AC.",
+        "C. Đường tròn ngoại tiếp tam giác ABC có tâm là trung điểm cạnh BC.",
+        "D. Điểm A thuộc đường tròn đường kính BC."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Áp dụng định lý Pythagore đảo, nhận thấy 3 2 + 4 2 = 25 = 5 2 . Do đó, tam giác ABC vuông tại A. Suy ra đường tròn ngoại tiếp tam giác ABC có tâm là trung điểm cạnh BC. Điểm A thuộc đường tròn đường kính BC. Do đó, khẳng định B là khẳng định sai."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho tam giác ABC có AB = 13 cm, AC = 12 cm, BC = 5 cm. Khẳng định nào sau đây là đúng? Tâm đường tròn ngoại tiếp tam giác ABC là",
+      "options": [
+        "A. Trung điểm cạnh AC.",
+        "B. Điểm nằm trên cạnh AB và cách C một khoảng bằng 6,5 cm.",
+        "C. Giao ba đường trung tuyến của tam giác ABC.",
+        "D. Trung điểm cạnh CB và cách A một khoảng bằng 6,5 cm."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Áp dụng định kí Pythagore đảo trong tam giác ABC, có: AC 2 + BC 2 = 12 2 + 5 2 = 13 2 hay AC 2 + BC 2 = BA 2 . Suy ra tam giác ABC vuông tại C. Do đó, tâm đường tròn ngoại tiếp tam giác ABC là trung điểm cạnh AB, nằm cách C một khoảng bằng 6,5 cm."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Nếu một tam giác có một cạnh là đường kính của đường tròn ngoại tiếp tam giác thì tam giác đó là",
+      "options": [
+        "A. tam giác đều.",
+        "B. tam giác vuông.",
+        "C. tam giác tù.",
+        "D. tam giác cân."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Nếu một tam giác có một cạnh là đường kính của đường tròn ngoại tiếp tam giác thì tam giác đó là tam giác vuông."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho tam giác ABC vuông tại A với AB = 18 cm, AC = 24 cm. Bán kính đường tròn ngoại tiếp tam giác đó là",
+      "options": [
+        "A. 30 cm.",
+        "B. 10 cm.",
+        "C. 20 cm.",
+        "D. 15 cm."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Áp dụng định lý Pythagore vào tam giác ABC, có: AB 2 + AC 2 = BC 2 hay BC 2 = 900 nên BC = 30 cm. Do tam giác ABC vuông tại A nên bán kính đường tròn ngoại tiếp là trung điểm của BC và bằng 15 cm."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Xác định tâm và bán kính của đường tròn đi qua cả ba đỉnh của tam giác ABC vuông tại A, AB = AC = a.",
+      "options": [
+        "A. Tâm là A và bán kính R = \\[a\\sqrt 2 \\].",
+        "B. Tâm là trung điểm cạnh huyền AC và bán kính R = \\[a\\sqrt 2 \\].",
+        "C. Tâm là trung điểm cạnh huyền BC và bán kính R = \\[\\frac{{a\\sqrt 2 }}{2}\\].",
+        "D. Tâm là điểm B và bán kính là R = \\[\\frac{{a\\sqrt 2 }}{2}\\]."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Do tam giác ABC vuông tại A nên tâm của đường tròn ngoại tiếp tam giác là trung điểm của cạnh huyền BC. Áp dụng định lí Pythagore, ta có: AB 2 + AC 2 = BC 2 hay BC = \\[a\\sqrt 2 \\]. Do đó, bán kính đường tròn ngoại tiếp tam giác là R = \\[\\frac{{BC}}{2} = \\frac{{a\\sqrt 2 }}{2}\\]."
+    }
+  ]
+}

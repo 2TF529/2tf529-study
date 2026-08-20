@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-3-de-kiem-tra-cong-thuc-xac-suat-toan-phan-cong-thuc-bayes-lop-12",
+  "sourceId": "vietjack:3-de-kiem-tra-cong-thuc-xac-suat-toan-ph",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "title": "3.Đề kiểm tra Công thức xác suất toàn phần – công thức Bayes lớp 12 (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho 2 biến cố \\[A\\] và \\[B\\], tìm \\[P\\left( A \\right)\\] biết \\[P\\left( {A|B} \\right) = 0,8;\\] \\[P\\left( {A|\\overline B } \\right) = 0,3\\]; \\[P\\left( B \\right) = 0,4\\].",
+      "options": [
+        "A. \\(0,1\\).",
+        "B. \\[0,5\\].",
+        "C. \\[0,04\\].",
+        "D. \\[0,55\\]."
+      ],
+      "answer": "B",
+      "note": "Ta có \\[P\\left( B \\right) = 0,4 \\Rightarrow P\\left( {\\overline B } \\right) = 1 - 0,4 = 0,6\\]. Theo công thức xác suất toàn phần: \\[P\\left( A \\right) = P\\left( B \\right).P\\left( {A|B} \\right) + P\\left( {\\overline B } \\right).P\\left( {A|\\overline B } \\right)\\]\\[ \\Leftrightarrow P\\left( A \\right) = 0,4.0,8\\, + 0,6.0,3 = 0,5\\]."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho 2 biến cố \\[A\\] và \\[B\\] biết \\[P\\left( {A|B} \\right) = 0,08;\\] \\[P\\left( {\\overline A |\\overline B } \\right) = 0,63;\\] \\[P\\left( B \\right) = 0,03\\]. Khi đó xác suất xảy ra biến cố \\[A\\] là bao nhiêu?",
+      "options": [
+        "A. \\(0,112\\).",
+        "B. \\[0,5231\\].",
+        "C. \\[0,3613\\].",
+        "D. \\[0,063\\]."
+      ],
+      "answer": "C",
+      "note": "Ta có: \\[P\\left( B \\right) = 0,03 \\Rightarrow P\\left( {\\overline B } \\right) = 1 - 0,03 = 0,97\\]. \\[P\\left( {\\overline A |\\overline B } \\right) = 0,63 \\Rightarrow P\\left( {A|\\overline B } \\right) = 1 - 0,63 = 0,37\\]. Theo công thức xác suất toàn phần: \\[P\\left( A \\right) = P\\left( B \\right).P\\left( {A|B} \\right) + P\\left( {\\overline B } \\right).P\\left( {A|\\overline B } \\right)\\]\\[ \\Leftrightarrow P\\left( A \\right) = 0,03.0,08 + 0,97.0,37 = 0,3613\\]."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho hai biến cố \\(A\\) và \\(B\\) với \\(0 < P\\left( B \\right) < 1\\). Khẳng định nào sau đây là đúng?",
+      "options": [
+        "A. \\[P\\left( A \\right) = P\\left( B \\right)P\\left( {A|B} \\right) + P\\left( {\\overline B } \\right)P\\left( {A|\\overline B } \\right)\\].",
+        "B. \\[P\\left( A \\right) = P\\left( A \\right)P\\left( {A|B} \\right) + P\\left( {\\overline A } \\right)P\\left( {A|\\overline B } \\right)\\].",
+        "C. \\[P\\left( A \\right) = P\\left( B \\right)P\\left( {A|\\overline B } \\right) + P\\left( {\\overline B } \\right)P\\left( {A|B} \\right)\\].",
+        "D. \\[P\\left( A \\right) = P\\left( B \\right)P\\left( {A|B} \\right) - P\\left( {\\overline B } \\right)P\\left( {A|\\overline B } \\right)\\]."
+      ],
+      "answer": "A",
+      "note": "Theo công thức xác suất toàn phần, ta có: \\[P\\left( A \\right) = P\\left( B \\right)P\\left( {A|B} \\right) + P\\left( {\\overline B } \\right)P\\left( {A|\\overline B } \\right)\\]."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hai biến cố \\[A\\] và \\[B\\]. Biết \\[P\\left( B \\right) = 0,01\\]; \\[P\\left( {A|B} \\right) = 0,7\\]; \\[P\\left( {A|\\overline B } \\right) = 0,09\\]. Khi đó \\[P\\left( A \\right)\\] bằng",
+      "options": [
+        "A. \\(0,0079\\).",
+        "B. \\(0,0961\\).",
+        "C. \\(0,0916\\).",
+        "D. \\(0,0970\\)."
+      ],
+      "answer": "B",
+      "note": "Ta có: \\[P\\left( B \\right) = 0,01 \\Rightarrow P\\left( {\\overline B } \\right) = 1 - 0,01 = 0,99\\]. Theo công thức xác suất toàn phần, ta có: \\[P\\left( A \\right) = P\\left( B \\right)P\\left( {A|B} \\right) + P\\left( {\\overline B } \\right)P\\left( {A|\\overline B } \\right) = 0,01.0,7 + 0,99.0,09 = 0,0961\\]."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hai biến cố \\(A\\) và \\(B\\) với \\(P\\left( B \\right) = 0,8\\), \\(P\\left( {A|B} \\right) = 0,7\\), \\(P\\left( {A|\\overline B } \\right) = 0,45\\). Tính \\(P\\left( A \\right)\\).",
+      "options": [
+        "A. \\(0,25\\).",
+        "B. \\(0,65\\).",
+        "C. \\(0,55\\).",
+        "D. \\(0,5\\)."
+      ],
+      "answer": "B",
+      "note": "Ta có \\(P\\left( {\\overline B } \\right) = 1 - P\\left( B \\right) = 1 - 0,8 = 0,2\\). Công thức xác suất toàn phần\\(P\\left( A \\right) = P\\left( B \\right).P\\left( {A|B} \\right) + P\\left( {\\overline B } \\right).P\\left( {A|\\overline B } \\right) = 0,8.0,7 + 0,2.0,45 = 0,65\\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho hai biến cố \\[A\\] và \\[B\\], với \\[P\\left( A \\right) = 0,2\\], \\[P\\left( B \\right) = 0,26\\], \\[P\\left( {B|A} \\right) = 0,7\\]. Tính \\[P\\left( {A|B} \\right)\\].",
+      "options": [
+        "A. \\(\\frac{7}{{13}}\\).",
+        "B. \\(\\frac{6}{{13}}\\).",
+        "C. \\(\\frac{4}{{13}}\\).",
+        "D. \\(\\frac{9}{{13}}\\)."
+      ],
+      "answer": "A",
+      "note": "Theo công thức Bayes, ta có . P A | B = P A . P B | A P B = 0 , 2.0 , 7 0 , 26 = 7 13"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Cho hai biến cố A và B , với P B = 0 , 8 , P A | B = 0 , 7 , P A | B ¯ = 0 , 45 . Tính P B | A .",
+      "options": [
+        "A. 0,25 .",
+        "B. 56 65 .",
+        "C. 0,65 .",
+        "D. 0,5 ."
+      ],
+      "answer": "B",
+      "note": "+ Ta có: .\\[P\\left( {A|B} \\right) = \\frac{{P\\left( A \\right).P\\left( {B|A} \\right)}}{{P\\left( B \\right)}} = \\frac{{0,2.0,7}}{{0,26}} = \\frac{7}{{13}}\\] + Công thức Bayes: \\[P\\left( {B|A} \\right) = \\frac{{P\\left( B \\right)P\\left( {A|B} \\right)}}{{P\\left( B \\right)P\\left( {A|B} \\right) + P\\left( {\\overline B } \\right)P\\left( {A|\\overline B } \\right)}}\\] \\[ \\Rightarrow P\\left( {B|A} \\right) = \\frac{{0,8.0,7}}{{0,8.0,7 + 0,2.0,45}} = \\frac{{56}}{{65}}\\]."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho hai biến cố \\[A\\] và \\[B\\], với \\[P\\left( A \\right) = 0,2\\], \\[P\\left( {B|A} \\right) = 0,7\\], \\[P\\left( {B|\\overline A } \\right) = 0,15\\]. Tính \\[P\\left( {A|B} \\right)\\].",
+      "options": [
+        "A. \\[\\frac{7}{{13}}\\].",
+        "B. \\[\\frac{6}{{13}}\\].",
+        "C. \\[\\frac{4}{{13}}\\].",
+        "D. \\[\\frac{9}{{13}}\\]."
+      ],
+      "answer": "A",
+      "note": "+ Ta có: \\[P\\left( A \\right) = 0,2\\]\\[ \\Rightarrow P\\left( {\\overline A } \\right) = 0,8\\], \\[P\\left( {B|A} \\right) = 0,7\\], \\[P\\left( {B|\\overline A } \\right) = 0,15\\]. + \\[P\\left( B \\right) = P\\left( A \\right).P\\left( {B|A} \\right) + P\\left( {\\overline A } \\right).P\\left( {B|\\overline A } \\right)\\]\\[ \\Rightarrow P\\left( B \\right) = 0,2.0,7 + 0,8.0,15 = 0,26\\]. + Theo công thức Bayes: \\[P\\left( {A|B} \\right) = \\frac{{P\\left( A \\right).P\\left( {B|A} \\right)}}{{P\\left( B \\right)}}\\]\\[ \\Rightarrow P\\left( {A|B} \\right) = \\frac{{0,2.0,7}}{{0,26}} = \\frac{7}{{13}}\\]."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-11-ket-noi-tri-thuc-bai-23-co-dap-an",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-11-ket-noi-",
+  "grade": "l11",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 11 Kết nối tri thức Bài 23 có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Phương pháp kiểm thử nào dưới đây có thể giúp tăng độ tin cậy của chương trình nhưng không chứng minh được tính đúng của thuật toán?",
+      "options": [
+        "A. Kiểm thử bằng chứng minh lôgic toán học",
+        "B. Sử dụng các bộ dữ liệu kiểm thử",
+        "C. Sử dụng phương pháp quy nạp toán học",
+        "D. Xem xét thời gian chạy của chương trình"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Sử dụng các bộ dữ liệu kiểm thử có thể giúp phát hiện các lỗi và tăng độ tin cậy của chương trình. Tuy nhiên, điều này không thể chứng minh tính đúng của thuật toán một cách tuyệt đối."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Phương pháp nào sau đây thường được sử dụng để chứng minh tính đúng của thuật toán một cách chắc chắn?",
+      "options": [
+        "A. Kiểm thử bằng cách chạy nhiều lần",
+        "B. Dùng dữ liệu kiểm thử ngẫu nhiên",
+        "C. Chứng minh bằng lôgic toán học",
+        "D. Kiểm tra độ phức tạp tính toán"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Để chứng minh tính đúng của một thuật toán, lôgic toán học là phương pháp tin cậy và chuẩn xác nhất, vì nó đảm bảo tính đúng cho mọi trường hợp."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Mục đích chính của việc kiểm thử chương trình là gì?",
+      "options": [
+        "A. Đảm bảo chương trình chạy nhanh nhất có thể",
+        "B. Phát hiện lỗi và sửa lỗi để tăng độ tin cậy của chương trình",
+        "C. Chứng minh chương trình không bao giờ sai",
+        "D. Đánh giá khả năng tối ưu của thuật toán"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Kiểm thử chủ yếu để tìm và sửa lỗi, từ đó làm tăng độ tin cậy của chương trình, mặc dù không đảm bảo chứng minh được tính đúng của thuật toán."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Trong kiểm thử chương trình, tại sao không thể chỉ dựa vào các bộ dữ liệu kiểm thử để chứng minh tính đúng của thuật toán?",
+      "options": [
+        "A. Vì các bộ dữ liệu kiểm thử thường có sai sót",
+        "B. Vì kiểm thử không kiểm tra được tất cả các tình huống có thể xảy ra",
+        "C. Vì thuật toán luôn có khả năng chạy sai",
+        "D. Vì kiểm thử chỉ làm tăng thời gian chạy của chương trình"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Các bộ dữ liệu kiểm thử không thể bao quát mọi trường hợp có thể xảy ra trong thực tế, nên chúng chỉ giúp phát hiện lỗi và tăng độ tin cậy, không thể chứng minh được tính đúng."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Tiêu chí nào dưới đây thường được xem xét khi đánh giá hiệu quả của một thuật toán?",
+      "options": [
+        "A. Tính đơn giản và dễ hiểu",
+        "B. Thời gian và không gian bộ nhớ sử dụng",
+        "C. Khả năng phát hiện lỗi tự động",
+        "D. Độ dài của mã lệnh"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Để đánh giá hiệu quả, cần xem xét thời gian và không gian bộ nhớ mà thuật toán tiêu thụ, vì đây là hai yếu tố quan trọng ảnh hưởng đến hiệu suất của chương trình"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Một chương trình có thể tối ưu về mặt thời gian nhưng không tối ưu về mặt nào dưới đây?",
+      "options": [
+        "A. Tính đúng của thuật toán",
+        "B. Dung lượng bộ nhớ sử dụng",
+        "C. Khả năng kiểm thử",
+        "D. Độ phức tạp logic"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Một chương trình có thể chạy nhanh (tối ưu về thời gian), nhưng có thể tiêu tốn bộ nhớ nhiều, tức là không tối ưu về dung lượng bộ nhớ."
+    }
+  ]
+}

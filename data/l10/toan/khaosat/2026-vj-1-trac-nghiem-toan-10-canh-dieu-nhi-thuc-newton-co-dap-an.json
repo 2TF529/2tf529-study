@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-trac-nghiem-toan-10-canh-dieu-nhi-thuc-newton-co-dap-an",
+  "sourceId": "vietjack:1-trac-nghiem-toan-10-canh-dieu-nhi-thuc",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.Trắc nghiệm Toán 10 Cánh Diều Nhi thức Newton có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Trong khai triển nhị thức (a + 2) n - 5 (n \\( \\in \\) ℕ) . Có tất cả 6 số hạng. Vậy n bằng",
+      "options": [
+        "A. 17;",
+        "B. 21;",
+        "C. 25;",
+        "D. 11."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải Đáp án đúng là: D Ta có trong khai triển (a + b) n có n + 1 số hạng Trong khai triển (a + 2) n - 5 (n \\( \\in \\) ℕ) có tất cả 6 số hạng nên ta có n – 5 = 6 Vậy n = 11 ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Khai triển các biểu thức sau: (a + 2) 4 là:",
+      "options": [
+        "A. a 4 + 2 4 ;",
+        "B. a 4 + 2a 2 b 2 + 2 4 ;",
+        "C. a 4 + 8a 3 + 24a 2 + 32a + 16;",
+        "D. a 4 + 32a 3 + 24a 2 + 8a + 16."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là: C Ta có: (a + 2) 4 = a 4 + 4.a 3 .2 + 6.a 2 .2 2 + 4.a.2 3 + 2 4 = a 4 + 8a 3 + 24a 2 + 32a + 16."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trong các phát biểu sau, phát biểu nào sai?",
+      "options": [
+        "A. \\({\\left( {a + b} \\right)^4} = {a^4} + 4{a^3}b + 6{a^2}{b^2} + 4a{b^3} + {b^4}\\) ;",
+        "B. \\({\\left( {a - b} \\right)^4} = {a^4} - 4{a^3}b + 6{a^2}{b^2} - 4a{b^3} + {b^4}\\) ;",
+        "C. \\({\\left( {a + b} \\right)^4} = {b^4} + 4{b^3}a + 6{b^2}{a^2} + 4b{a^3} + {a^4}\\) ;",
+        "D. \\({\\left( {a + b} \\right)^4} = {a^4} + {b^4}\\) ."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải. Đáp án đúng là: D Ta có: \\({\\left( {a + b} \\right)^4} = {a^4} + 4{a^3}b + 6{a^2}{b^2} + 4a{b^3} + {b^4}\\) . Do đó A, C đúng và D sai. \\({\\left( {a - b} \\right)^4} = {a^4} - 4{a^3}b + 6{a^2}{b^2} - 4a{b^3} + {b^4}\\) . Do đó B đúng."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Số hạng chứa x 4 trong khai triển biểu thức (2x + 3) 5 là:",
+      "options": [
+        "A. 32x 4 ;",
+        "B. 240x 4 ;",
+        "C. 720;",
+        "D. 240."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải Đáp án đúng là: B Ta có (a + b) 5 = a 5 + 5a 4 b +10a 3 b 2 + 10a 2 b 3 + 5ab 4 + b 5 Do đó: (2x + 3) 5 = (2x) 5 + 5(2x) 4 .3 +10(2x) 3 .3 2 + 10(2x) 2 .3 3 + 5.(2x).3 4 + 3 5 = 32x 5 + 240x 4 + 720x 3 + 1 080x 2 + 810x + 243 Vậy trong khai triển số hạng chứa x 4 là 240x 4 ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Hệ số của x 5 trong khai triển của (5 – 2x) 5 là",
+      "options": [
+        "A. 400;",
+        "B. – 32;",
+        "C. 3 125;",
+        "D. – 6 250."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải Đáp án đúng là: B Ta có (a + b) 5 = a 5 + 5a 4 b +10a 3 b 2 + 10a 2 b 3 + 5ab 4 + b 5 Do đó: (5 – 2x) 5 = 5 5 + 5.5 4 .(– 2x) + 10.5 3 .(– 2x) 2 + 10.5 2 .(– 2x) 3 + 5.5.(– 2x) 4 + (– 2x) 5 = 3 125 – 6 250x + 5 000x 2 – 2 000x 3 + 400x 4 – 32x 5 = – 32x 5 + 400x 4 – 2 000x 3 + 5 000x 2 – 6 250x + 3 125 Hệ số của x 5 trong khai triển là – 32 ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Tổng hệ số của x 3 và x 2 trong khai triển (1 + 2x) 4 là :",
+      "options": [
+        "A. 24;",
+        "B. 44;",
+        "C. 20;",
+        "D. 54."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải Đáp án đúng là: B Ta có: (a + b) 4 = a 4 + 4a 3 b + 5a 2 b 2 + 4ab 3 + b 4 . Do đó (1 + 2x) 4 = 1 4 + 4.1 3 .(2x) + 5.1 2 .(2x) 2 + 4.1.(2x) 3 + (2x) 4 = 1 + 8x + 20x 2 + 24x 3 + 16x 4 Suy ra hệ số của x 3 là 24 và hệ số của x 2 là 20. Khi đó ta có tổng hai hệ số bằng 24 + 20 = 44."
+    }
+  ]
+}

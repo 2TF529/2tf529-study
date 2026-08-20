@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-13-bai-toan-2-vat-gap-nhau-co-dap-an",
+  "sourceId": "vietjack:1-13-bai-toan-2-vat-gap-nhau-co-dap-an",
+  "grade": "l10",
+  "subjectSlug": "li",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.13 Bài toán 2 vật gặp nhau có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Lúc 9 giờ một xe máy ở A chuyển động thẳng đều với vận tốc v = 60 km/h đuổi theo xe máy ở B đang chuyển động với vận tốc 40 km/h. Biết khoảng cách AB = 25 km. Viết phương trình chuyển động của hai xe. Hỏi xe B đuổi kịp xe A lúc mấy giờ và ở đâu?",
+      "options": [
+        "A. Hai xe gặp nhau lúc 10 giờ 15 phút, tại vị trí cách A là 75 km.",
+        "B. Hai xe gặp nhau lúc 10 giờ 30 phút, tại vị trí cách A là 75 km.",
+        "C. Hai xe gặp nhau lúc 10 giờ 15 phút, tại vị trí cách A là 50 km.",
+        "D. Hai xe gặp nhau lúc 10 giờ 30 phút, tại vị trí cách A là 50 km."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Chọn gốc tọa độ tại A, mốc thời gian là lúc 8 giờ, chiều dương cùng chiều chuyển động. Phương trình chuyển động của: Xe A: x A = x 0 A + v A t = 0 + 60 t (1) Xe B: x B = x 0 B + v B t = 25 + 40 t (2) Khi hai xe gặp nhau: x A = x B ⇔ 60 t = 25 + 40 t ⇔ t = 1 , 25 h Thay t = 1,25h vào phương trình (1) ta được: x A = 60.1 , 25 = 75 k m Vậy hai xe gặp nhau tại vị trí cách gốc tọa độ 75 km vào lúc 10 giờ 15 phút."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Trên đường thẳng từ nhà đến chỗ làm việc của B, cùng một lúc xe 1 khởi hành từ nhà đến chỗ làm với vận tốc v 1 = 60 km/h. Xe thứ 2 từ chỗ làm đi cùng chiều với vận tốc v 2 = 40 km/h. Biết quãng đường từ nhà đến chỗ làm việc của B là 30 km. Lập phương trình chuyển động của mỗi xe với cùng hệ quy chiếu?",
+      "options": [
+        "A. x 1 = 60 t , x 2 = 40 t .",
+        "B. x 1 = 30 + 40 t , x 2 = 60 t .",
+        "C. x 1 = 30 + 60 t , x 2 = 30 + 40 t .",
+        "D. x 1 = 60 t , x 2 = 30 + 40 t ."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Chọn gốc tọa độ tại nhà của B, mốc thời gian lúc hai xe xuất phát. Chọn chiều dương cùng chiều với chiều chuyển động của hai xe Phương trình chuyển động của xe 1 là: x 1 = x 01 + v 1 . t = 0 + 60 t = 60 t Phương trình chuyển động của xe 2 là: x 2 = x 02 + v 2 . t = 30 + 40 t"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Ở trên một đoạn dốc thẳng dài 120 m, An và Bình đều đi xe đạp và khởi hành cùng một lúc ở hai đầu đoạn dốc. An đi lên dốc với vận tốc 6 m/s chuyển động chậm dần đều với gia tốc có độ lớn 0 , 2 m / s 2 . Bình đi xuống dốc với vận tốc 2 m/s và chuyển động nhanh dần đều với gia tốc có độ lớn 0 , 25 m / s 2 . Xác định thời gian và vị trí An và Bình gặp nhau?",
+      "options": [
+        "A. Hai bạn gặp nhau sau 14,4 s từ khi chuyển động, tại điểm cách đỉnh dốc 54,72 m.",
+        "B. Hai bạn gặp nhau sau 10,4 s từ khi chuyển động, tại điểm cách đỉnh dốc 50,72 m.",
+        "C. Hai bạn gặp nhau sau 8 s từ khi chuyển động, tại điểm cách đỉnh dốc 45 m.",
+        "D. Hai bạn gặp nhau sau 12 s từ khi chuyển động, tại điểm cách đỉnh dốc 52 m."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Chọn chiều dương là chiều từ đỉnh đến chân dốc, gốc tọa độ tại đỉnh dốc, mốc thời gian là lúc cả 2 bạn bắt đầu chuyển động. Phương trình chuyển động có dạng: x = x 0 + v 0 t + 1 2 a t 2 Phương trình chuyển động của Bình có dạng: x 1 = 0 + 2 t + 1 2 .0 , 25. t 2 = 2 t + 1 8 t 2 Phương trình chuyển động của An có dạng: x 2 = 120 − 6 t + 1 2 .0 , 2. t 2 = 120 − 6 t + 0 , 1 t 2 Khi hai bạn gặp nhau thì x 1 = x 2 2 t + 1 8 t 2 = 120 − 6 t + 0 , 1 t 2 ⇔ t ≈ 14 , 4 s = > x = 2 t + 1 8 . t 2 ≈ 54 , 72 m Vậy sau 14,4s kể từ khi bắt đầu chuyển động thì hai bạn gặp nhau tại điểm cách đỉnh dốc một đoạn 54,72m."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Viết phương trình tọa độ của hai vật",
+      "options": [
+        "A. x A = 20t – 1 2 t 2 ; x B = 300 – 8t.",
+        "B. x A = 40t – 1 2 t 2 ; x B = 500 – 4t .",
+        "C. x A = 10t –2t 2 ; x B = 100 – 8t.",
+        "D. x A = 20t –t 2 ; x B = 300 – 4t."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A + Theo bài ra gốc tọa độ tại A, chiều dương từ A đến B, mốc thời gian là lúc vật 1 qua A + Đối vật qua A: x 0 A = 0 m ; v 0 A = 20 m / s ; a A = − 1 m / s 2 ; x A = 20 t − 0 , 5. t 2 ; v A = 20 − t + Đối vật qua B: x 0 B = 300 m ; v 0 B = − 8 m / s ; a B = 0 m / s 2 ; x B = 300 − 8 t"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Xác định thời điểm và vị trí gặp nhau?",
+      "options": [
+        "A. Không chuyển động, 12,435 s .",
+        "B. Đang chuyển động, 14,435 s .",
+        "C. Không chuyển động, 10,435 s .",
+        "D. Đang chuyển động, 11,435 s ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B + Khi hai vật gặp nhau nên ⇒ x A = x B ⇒ 20 t − 0 , 5 t 2 = 300 − 8 t ⇒ 0 , 5 t 2 − 28 t + 300 = 0 ⇔ t 1 = 41 , 565 s t 2 = 14 , 435 s + t 1 = 41 , 565 s ; t 2 = 14 , 435 s Với t 1 = 41 , 565 s ⇒ x = 20.41 , 565 − 0 , 5.41 , 565 2 = − 32 , 5246 m L Với t 2 = 14 , 435 s ⇒ x = 20.14 , 435 − 0 , 5.14 , 435 2 = 184 , 5154 m T / M Vậy sau 14,435s thì hai vật gặp nhau; v A = 20 − 14 , 435 = 5 , 565 m / s khi hai vật gặp nhau vật A vẫn đang chuyển động."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Khi vật thứ hai đến A thì vật 1 đang ở đâu?",
+      "options": [
+        "A. Cách A 200 m, cách B 100 m .",
+        "B. Cách A 300 m, cách B 100 m .",
+        "C. Cách A 100 m, cách B 200 m .",
+        "D. Cách A 150 m, cách B 100 m ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Khi vật 2 đến A ta có x B = 0 ⇒ 300 − 8 t = 0 ⇒ t = 37 , 5 s Vật 1 dừng lại khi v A = 0 ⇒ 20 − t = 0 ⇒ t = 20 s ⇒ x A = 20.20 − 1 2 .20 2 = 200 m Vậy khi vật 2 đến A thì vật một cách A là 200 m cách B là 100m"
+    }
+  ]
+}

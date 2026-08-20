@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-4-20-cau-trac-nghiem-toan-11-canh-dieu-bai-1-day-so-dung-sai-tra-",
+  "sourceId": "vietjack:4-20-cau-trac-nghiem-toan-11-canh-dieu-b",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "4.20 câu Trắc nghiệm Toán 11 Cánh diều Bài 1. Dãy số (Đúng-sai, trả lời ngắn) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: TRẮC NGHIỆM NHIỀU LỰA CHỌN Cho dãy số (u n ) biết u 1 = 2 và \\({u_n} = \\frac{{{u_{n - 1}} + 1}}{2}\\) với n ³ 2. Ba số hạng đầu tiên của dãy số lần lượt là:",
+      "options": [
+        "A. \\(2;1;\\frac{3}{2}\\) .",
+        "B. \\(2;\\frac{3}{2};\\frac{5}{2}\\) .",
+        "C. \\(2;\\frac{3}{2};\\frac{5}{4}\\) .",
+        "D. \\(2;\\frac{3}{2};2\\) ."
+      ],
+      "answer": "C",
+      "note": "C Ta có u 1 = 2; \\({u_2} = \\frac{{2 + 1}}{2} = \\frac{3}{2};{u_3} = \\frac{{\\frac{3}{2} + 1}}{2} = \\frac{5}{4}\\)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho dãy số (u n ) biết \\({u_n} = \\frac{{2{n^2} - 1}}{{{n^2} + 2}}\\) . Số hạng u 10 là",
+      "options": [
+        "A. \\(\\frac{{19}}{{12}}\\) .",
+        "B. \\(\\frac{{33}}{{34}}\\) .",
+        "C. \\(\\frac{{199}}{{102}}\\) .",
+        "D. \\(\\frac{3}{4}\\) ."
+      ],
+      "answer": "C",
+      "note": "C \\({u_{10}} = \\frac{{{{2.10}^2} - 1}}{{{{10}^2} + 2}} = \\frac{{199}}{{102}}\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho dãy số (u n ) biết \\({u_n} = \\frac{{n + 1}}{{3n - 2}}\\) . Số \\(\\frac{8}{{19}}\\) là số hạng thứ mấy của dãy số?",
+      "options": [
+        "A. 8 .",
+        "B. 6 .",
+        "C. 9 .",
+        "D. 7 ."
+      ],
+      "answer": "D",
+      "note": "D Theo đề ta có \\(\\frac{{n + 1}}{{3n - 2}} = \\frac{8}{{19}}\\)\\( \\Leftrightarrow 19\\left( {n + 1} \\right) = 8\\left( {3n - 2} \\right)\\)\\( \\Leftrightarrow 5n = 35 \\Leftrightarrow n = 7\\)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho dãy (u n ) xác định bởi \\(\\left\\{ \\begin{array}{l}{u_1} = 3\\\\{u_{n + 1}} = \\frac{{{u_n}}}{2} + 2\\end{array} \\right.\\) . Mệnh đề nào sau đây sai?",
+      "options": [
+        "A. \\({u_2} = \\frac{5}{2}\\) .",
+        "B. \\({u_4} = \\frac{{31}}{8}\\) .",
+        "C. \\({u_3} = \\frac{{15}}{4}\\) .",
+        "D. \\({u_5} = \\frac{{63}}{{16}}\\) ."
+      ],
+      "answer": "A",
+      "note": "A Ta có \\({u_2} = \\frac{{{u_1}}}{2} + 2 = \\frac{3}{2} + 2 = \\frac{7}{2}\\); \\({u_3} = \\frac{{{u_2}}}{2} + 2 = \\frac{7}{4} + 2 = \\frac{{15}}{4}\\); \\({u_4} = \\frac{{{u_3}}}{2} + 2 = \\frac{{15}}{8} + 2 = \\frac{{31}}{8}\\); \\({u_5} = \\frac{{{u_4}}}{2} + 2 = \\frac{{31}}{{16}} + 2 = \\frac{{63}}{{16}}\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho dãy số có các số hạng đầu là 8; 15; 22; 29; 36; ... Số hạng tổng quát của dãy số này là",
+      "options": [
+        "A. u n = 7n + 7 .",
+        "B. u n = 7n .",
+        "C. u n = 7n + 1.",
+        "D. u n không viết được dưới dạng công thức."
+      ],
+      "answer": "C",
+      "note": "C Ta có 8 = 7.1 + 1; 15 = 7.2 + 1; 22 = 7.3 + 1; 29 = 7.4 + 1; 36 = 7.5 + 1; … Vậy dãy trên có số hạng tổng quát là u n = 7n + 1."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho các dãy số sau. Dãy số nào là dãy số tăng?",
+      "options": [
+        "A. 1; 1; 1; 1; 1; 1; ... .",
+        "B. \\(1;\\frac{1}{2};\\frac{1}{4};\\frac{1}{8};\\frac{1}{{16}};....\\) .",
+        "C. \\(1; - \\frac{1}{2};\\frac{1}{4}; - \\frac{1}{8};\\frac{1}{{16}};....\\) .",
+        "D. 1; 3; 5; 7; 9; …."
+      ],
+      "answer": "D",
+      "note": "D Xét đáp án A: 1; 1; 1; 1; 1; 1; .... đây là dãy hằng nên không tăng không giảm. Xét đáp án B: \\(1;\\frac{1}{2};\\frac{1}{4};\\frac{1}{8};\\frac{1}{{16}};....\\)Þ u1 > u2 > u3 > ... > un > ... nên dãy này là dãy giảm. Xét đáp án C: \\(1; - \\frac{1}{2};\\frac{1}{4}; - \\frac{1}{8};\\frac{1}{{16}};....\\) Þ u1 > u2 < u3 nên dãy này không tăng, không giảm. Xét đáp án D: 1; 3; 5; 7; 9; …. Þ un < un + 1, n Î ℕ* nên dãy này là dãy tăng."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Trong các dãy (u n ) sau đây dãy nào là dãy số giảm?",
+      "options": [
+        "A. u n = (−1) n .",
+        "B. u n = 2 n .",
+        "C. u n = 3n + 1 .",
+        "D. \\({u_n} = \\frac{1}{{{3^n}}}\\) ."
+      ],
+      "answer": "D",
+      "note": "D Xét dãy số (u n ) có \\({u_n} = \\frac{1}{{{3^n}}}\\), ta thấy u n > 0, ∀n Î ℕ* và \\(\\frac{{{u_{n + 1}}}}{{{u_n}}} = \\frac{{\\frac{1}{{{3^{n + 1}}}}}}{{\\frac{1}{{{3^n}}}}} = \\frac{1}{3} < 1\\) nên dãy số (u n ) là dãy số giảm."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Xét tính bị chặn của dãy số (u n ) với \\({u_n} = \\frac{1}{{1.2}} + \\frac{1}{{2.3}} + ... + \\frac{1}{{n\\left( {n + 1} \\right)}}\\) .",
+      "options": [
+        "A. Không bị chặn.",
+        "B. Bị chặn trên.",
+        "C. Bị chặn dưới.",
+        "D. Bị chặn."
+      ],
+      "answer": "D",
+      "note": "D Ta có \\({u_n} = 1 - \\frac{1}{2} + \\frac{1}{2} - \\frac{1}{3} + ... + \\frac{1}{n} - \\frac{1}{{n + 1}} = 1 - \\frac{1}{{n + 1}}\\). Do đó 0 < u n £ 1, ∀n ³ 1. Vậy dãy số đã cho bị chặn."
+    }
+  ]
+}

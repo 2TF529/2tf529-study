@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-3-10-bai-tap-bai-toan-co-loi-van-co-loi-giai",
+  "sourceId": "vietjack:3-10-bai-tap-bai-toan-co-loi-van-co-loi-",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.10 Bài tập Bài toán có lời văn (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Bạn Khoa muốn mua một số quần áo mới. Biết những chiếc áo là bằng giá nhau và mỗi chiếc trị giá 100 nghìn đồng, những chiếc quần bằng giá nhau và mỗi chiếc trị giá 150 nghìn đồng. Bạn Khoa chỉ cầm số tiền là 1 triệu đồng. Gọi x là số áo bạn Khoa mua, y là số quần bạn Khoa mua, x, y là số tự nhiên, các bất phương trình mô tả số tiền bạn Khoa mua quần áo là:",
+      "options": [
+        "A. 10x + 15y ≥ 100; x ≥ 0; y ≥ 0;",
+        "B. 10x + 15y ≤ 100; x ≥ 0; y ≥ 0;",
+        "C. 10x + 15y > 100; x ≥ 0; y ≥ 0;",
+        "D. 10x + 15y ≥ 100; x < 0; y > 0."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Gọi x là số áo bạn Khoa mua, y là số quần bạn Khoa mua nên ta có: x ≥ 0; y ≥ 0. Để mua x chiếc áo, bạn Khoa phải trả số tiền là: 100 000x (đồng) Để mua y chiếc quần, bạn Khoa phải trả số tiền là: 150 000y (đồng) Bạn Khoa chỉ cầm số tiền là 1 triệu đồng nên ta có: 100 000x + 150 000y ≤ 1 000 000 ⇔ 10x + 15y ≤ 100 Vậy các bất phương trình mô tả số tiền bạn Khoa mua quần áo là: 10x + 15y ≤ 100; x ≥ 0; y ≥ 0."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cô giáo yêu cầu học sinh phải làm ít nhất 15 điểm tích lũy bài tập, phải bao gồm cả bài tập loại dễ và bài tập loại khó. Biết rằng, làm một bài tập loại dễ tích lũy được 2 điểm, làm một bài tập loại khó tích lũy được 5 điểm. Gọi x là số bài tập loại dễ mà học sinh làm, gọi y là số bài tập loại khó mà học sinh làm, x, y là số tự nhiên, các bất phương trình mô tả số điểm tích lũy của học sinh là:",
+      "options": [
+        "A. 2x + 5y ≥ 15; x ≥ 0; y ≥ 0;",
+        "B. 2x + 5y < 15; x ≥ 0; y ≥ 0;",
+        "C. 2x + 5y = 15; x ≥ 0; y ≥ 0;",
+        "D. 2x + 5y ≥ 15; x > 0; y > 0."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D. Gọi x là số bài tập loại dễ mà học sinh làm, gọi y là số bài tập loại khó mà học sinh làm, x, y là số tự nhiên, và số bài tập phải bao gồm cả bài tập loại dễ và bài tập loại khó nên ta có: x > 0; y > 0 Học sinh làm x bài tập loại dễ thì sẽ tích lũy được số điểm là: 2x (điểm) Học sinh làm y bài tập loại khó thì sẽ tích lũy được số điểm là: 5y (điểm) Cô giáo yêu cầu học sinh phải làm ít nhất 15 điểm tích lũy bài tập, phải bao gồm cả bài tập loại dễ và bài tập loại khó nên ta có: 2x + 5y ≥ 15 Vậy các bất phương trình mô tả số điểm tích lũy của học sinh là: 2x + 5y ≥ 15; x > 0; y > 0."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cô Hằng cần mua phần thưởng tặng các bạn học sinh khá và học sinh giỏi của lớp. Biết số tiền mua phần thưởng không được vượt quá 3 triệu đồng. Biết số học sinh giỏi là 10 em, số học sinh khá là 15 em. Gọi x (đồng) là giá tiền một phần thưởng cho học sinh giỏi, y (đồng) là giá tiền một phần thưởng cho học sinh khá. Các bất phương trình mô tả số tiền mua phần thưởng cho các bạn học sinh khá và giỏi là:",
+      "options": [
+        "A. 10x + 15y ≤ 3000000; x > 0; y > 0;",
+        "B. 10x + 15y > 3000000; x > 0; y > 0;",
+        "C. 10x + 15y ≤ 3000000; x ≥ 0; y ≤ 0;",
+        "D. 10x + 15y ≤ 3000000; x ≥ 0; y ≥ 0."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A. Gọi x (nghìn) là giá tiền một phần thưởng cho học sinh giỏi, y (nghìn) là giá tiền một phần thưởng cho học sinh khá nên ta có: x > 0; y > 0. Để mua phần thưởng cho 10 em học sinh giỏi cần chi số tiền là: 10x (nghìn) Để mua phần thưởng cho 15 em học sinh khá cần chi số tiền là: 15y (nghìn) Biết số tiền mua phần thưởng không được vượt quá 3 triệu đồng nên ta có: 10x + 15y ≤ 3 000 000 Vậy các bất phương trình mô tả số tiền mua phần thưởng cho các bạn học sinh khá và giỏi là: 10x + 15y ≤ 3 000 000; x > 0; y > 0"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Bạn Vân có tối đa 120 phút để trồng rau trong vườn. Biết có hai loại rau là rau cải và rau muống, rau cải trồng mất 5 phút, rau muống trồng mất 7 phút. Gọi số cây rau cải bạn Vân trồng được là x cây, số cây rau muống bạn Vân trồng được là y cây. Các bất phương trình mô tả thời gian bạn Vân trồng rau là:",
+      "options": [
+        "A. 7x + 5y ≥ 120; x > 0; y > 0;",
+        "B. 5x + 7y ≤ 120; x ≥ 0; y ≥ 0;",
+        "C. 7x + 5y > 120; x > 0; y > 0;",
+        "D. 7x + 5y < 120; x < 0; y > 0."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Gọi số cây rau cải bạn Vân trồng được là x cây, số cây rau muống bạn Vân trồng được là y cây nên ta có: x ≥ 0; y ≥ 0. Thời gian Vân trồng x cây rau cải là: 5x (phút) Thời gian Vân trồng y cây rau muống là: 7y (phút) Bạn Vân có tối đa 120 phút để trồng rau trong vườn nên ta có: 5x + 7y ≤ 120 Vậy các bất phương trình mô tả thời gian bạn Vân trồng rau là: 5x + 7y ≤ 120; x ≥ 0; y ≥ 0."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cửa hàng X bán hai loại nước cam là nước cam loại I và nước cam loại II. Biết để pha chế một cốc nước cam loại I thì cần 3 quả cam, để pha chế một cốc nước cam loại II thì cần 2 quả cam. Cửa hàng chỉ nhập về 50 quả cam. Gọi số cốc nước cam loại I phải pha là x, số cốc nước cam loại II phải là y. Các bất phương trình mô tả số cốc nước cam loại I và loại II cửa hàng pha là:",
+      "options": [
+        "A. 2x – 3y ≤ 50; x ≥ 0; y ≥ 0;",
+        "B. 3x + 2y > 50; x ≥ 0; y ≥ 0;",
+        "C. 3x + 2y ≤ 50; x ≥ 0; y ≥ 0.",
+        "D. 2x + 3y ≤ 50; x < 0; y ≥ 0."
+      ],
+      "answer": "C",
+      "note": "Gọi số cốc nước cam loại I phải pha là x, só cốc nước cam loại II phải là y nên ta có: x ≥ 0; y ≥ 0 Số cam để pha x cốc nước cam loại I là: 3x Số cam để pha x cốc nước cam loại II là: 2y Cửa hàng chỉ nhập về 50 quả cam nên ta có: 3x + 2y ≤ 50 Vậy các bất phương trình mô tả số cốc nước cam loại I và loại II cửa hàng pha là: 3x + 2y ≤ 50; x ≥ 0; y ≥ 0."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Một khu để xe máy và ô tô có tối đa 50 chỗ đỗ xe. Biết 1 chiếc xe máy ứng với 1 chỗ đỗ, 1 chiếc ô tô ứng với 3 chỗ đỗ. Gọi x là số xe máy vào đỗ, y là số xe ô tô vào đỗ. Các bất phương trình mô tả số chỗ đã được đỗ là:",
+      "options": [
+        "A. x + 3y ≤ 50; x ≥ 0; y ≥ 0;",
+        "B. x + 3y > 50; x ≥ 0; y ≥ 0;",
+        "C. x + 3y ≥ 50; x ≥ 0; y ≥ 0;",
+        "D. x + 3y ≥ 50; x < 0; y ≥ 0."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Gọi x là số xe máy vào đỗ, y là số xe ô tô vào đỗ nên ta có: x ≥ 0; y ≥ 0 Số chỗ đỗ ứng với x chiếc xe máy là: x (chỗ) Số chỗ đỗ ứng với y chiếc ô tô là: 3y (chỗ) Khu để xe máy và ô tô có tối đa 50 chỗ đỗ xe nên ta có: x + 3y ≤ 50 Vậy các bất phương trình mô tả số chỗ đã được đỗ là: x + 3y ≤ 50; x ≥ 0; y ≥ 0."
+    }
+  ]
+}

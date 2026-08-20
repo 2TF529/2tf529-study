@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-20-cau-trac-nghiem-toan-10-canh-dieu-giai-tam-giac-co-dap-an-ph",
+  "sourceId": "vietjack:2-20-cau-trac-nghiem-toan-10-canh-dieu-g",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.20 câu Trắc nghiệm Toán 10 Cánh diều Giải Tam Giác có đáp án (Phần 2)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Trong tam giác ABC có BC = a, CA = b, AB = c, h a , h b lần lượt là chiều cao hạ từ các đỉnh A và B, R là bán kính đường tròn ngoại tiếp tam giác. Mệnh đề nào sau đây là đúng?",
+      "options": [
+        "A. a.c = R.h b ;",
+        "B. a.b = 4R;",
+        "C. b.c = 2R.h a ;",
+        "D. a 2 = R.h a ."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Áp dụng các công thức tính diện tích tam giác ABC. Ta có: S = 1 2 a.ha ⇔ a b c 4 R = 1 2 a.ha. Suy ra ha = b c 2 R ⇔ bc = 2R.ha."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho tam giác ABC có BC = a, CA = b, AB = c, S là diện tích của tam giác ABC. Mệnh đề nào sau đây là sai?",
+      "options": [
+        "A. S = 1 2 b c . sin A ;",
+        "B. S = 1 2 a c . sin B ;",
+        "C. S = 1 2 a b . sin B ;",
+        "D. S = 1 2 a b . sin C ."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Diện tích S của tam giác ABC là: S = 1 2 b c . sin A = 1 2 a c . sin B = 1 2 a b . sin C ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho tam giác ABC có AB = 7; B ^ = 70°; C ^ = 45°. Tính diện tích của tam giác ABC.",
+      "options": [
+        "A. S = 85,2;",
+        "B. S = 80;",
+        "C. S = 29;",
+        "D. S = 29,5."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Tam giác ABC có A ^ + B ^ + C ^ = 180° (định lí tổng 3 góc trong tam giác) Suy ra A ^ = 180° − B ^ + C ^ = 180° − (70° + 45°) = 65°. Áp dụng định lý sin trong tam giác ABC ta có: A B sin C = A C sin B AC = A B . sin B sin C = 7. sin 70 ° sin 45 ° . Diện tích tam giác ABC là S = .AB.AC.sin A = .7. .sin65° ≈ 29,5. (đvdt) Vậy diện tích tam giác ABC khoảng 29,5 (đvdt)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Mảnh vườn hình tam giác của gia đình bạn Minh có chiều dài các cạnh là AB = 10 m, AC = 15 m, BC = 12 m. Hỏi diện tích mảnh vườn của gia đình bạn Minh là bao nhiêu mét vuông?",
+      "options": [
+        "A. 37 m 2 ;",
+        "B. 1800 m 2 ;",
+        "C. 330 m 2 ;",
+        "D. 59,81 m 2 ."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Ta có: p = 10 + 12 + 15 2 = 18,5 (m). Diện tích mảnh vườn là: S = 18,5. ( 18,5 − 10 ) . ( 18,5 − 12 ) . ( 18,5 − 15 ) ≈ 59,81 (m2)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Trong tam giác ABC, có BC = a, CA = b, AB = c, h a , h b , h c lần lượt là chiều cao hạ từ các đỉnh A, B và C. Hệ thức nào sau đây là sai?",
+      "options": [
+        "A. c.h c = ab.sinC;",
+        "B. h b = b.sinB;",
+        "C. h a = b.sinC;",
+        "D. h a = c.sinB."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Áp dụng các công thức tính diện tích tam giác, ta có: 1 2 a.ha = 1 2 ab.sinC = 1 2 ac.sinB Suy ra ha = b.sinC = c.sinB. Vậy mệnh đề đáp án C và D đúng. Ta có: 1 2 c.hc = 1 2 ab.sinC. Suy ra c.hc = ab.sinC. Vậy đáp án A đúng. Vậy mệnh đề sai là B."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Tam giác ABC có AB = 5, BC = 7, CA = 8. Số đo góc A bằng:",
+      "options": [
+        "A. 30°;",
+        "B. 45°;",
+        "C. 60°;",
+        "D. 90°."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Theo hệ quả của định lí côsin, ta có: cosA = A B 2 + A C 2 − B C 2 2. A B . A C = 5 2 + 8 2 − 7 2 2.5.8 = 1 2 . Do đó, A ^ = 60°."
+    }
+  ]
+}

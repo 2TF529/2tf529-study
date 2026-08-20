@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-3-20-cau-trac-nghiem-toan-11-chan-troi-sang-tao-bai-1-hai-duong-t",
+  "sourceId": "vietjack:3-20-cau-trac-nghiem-toan-11-chan-troi-s",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.20 câu trắc nghiệm Toán 11 Chân trời sáng tạo Bài 1. Hai đường thẳng vuông góc (Đúng sai - Trả lời ngắn) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: TRẮC NGHIỆM NHIỀU LỰA CHỌN Trong các mệnh đề sau, mệnh đề nào đúng?",
+      "options": [
+        "A. Hai đường thẳng cùng vuông góc với một đường thẳng thì song song với nhau.",
+        "B. Một đường thẳng vuông góc với một trong hai đường thẳng vuông góc với nhau thì song song với đường thẳng còn lại.",
+        "C. Hai đường thẳng cùng vuông góc với một đường thẳng thì vuông góc với nhau.",
+        "D. Một đường thẳng vuông góc với một trong hai đường thẳng song song thì vuông góc với đường thẳng kia."
+      ],
+      "answer": "D",
+      "note": "D Một đường thẳng vuông góc với một trong hai đường thẳng song song thì vuông góc với đường thẳng kia."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho tứ diện ABCD có AB = CD. Gọi I, J, E, F lần lượt là trung điểm của AC, BC, BD, AD. Góc (IE, JF) bằng",
+      "options": [
+        "A. 30°.",
+        "B. 45°.",
+        "C. 60°.",
+        "D. 90°."
+      ],
+      "answer": "D",
+      "note": "D Ta có IF là đường trung bình của D ACD \\( \\Rightarrow \\left\\{ \\begin{array}{l}IF//CD\\\\IF = \\frac{1}{2}CD\\end{array} \\right.\\) . Lại có JE là đường trung bình của D BCD \\( \\Rightarrow \\left\\{ \\begin{array}{l}JE//CD\\\\JE = \\frac{1}{2}CD\\end{array} \\right.\\) . Suy ra \\(\\left\\{ \\begin{array}{l}IF = JE\\\\IF//JE\\end{array} \\right.\\) Þ tứ giác IJEF là hình bình hành. Lại có \\(\\left\\{ \\begin{array}{l}IJ = \\frac{1}{2}AB\\\\JE = \\frac{1}{2}CD\\end{array} \\right.\\) mà AB = CD nên IJ = JE. Do đó IJEF là hình thoi. Suy ra (IE, JF) = 90°."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho hình chóp S.ABCD có tất cả các cạnh đều bằng a. Gọi I và J lần lượt là trung điểm của SC và BC. Số đo của góc (IJ, CD) bằng",
+      "options": [
+        "A. 90°.",
+        "B. 45°.",
+        "C. 30°.",
+        "D. 60°."
+      ],
+      "answer": "D",
+      "note": "D Gọi O là tâm của hình thoi ABCD Þ OJ là đường trung bình của D BCD. Suy ra \\(\\left\\{ \\begin{array}{l}OJ//CD\\\\OJ = \\frac{1}{2}CD\\end{array} \\right.\\) . Vì CD // OJ Þ (IJ, CD) = (IJ, OJ). Vì \\(IJ = \\frac{1}{2}SB = \\frac{a}{2};OJ = \\frac{1}{2}CD = \\frac{a}{2};OI = \\frac{1}{2}SA = \\frac{a}{2}\\) nên D IOJ đều. Suy ra (IJ, CD) = (IJ, OJ) = \\(\\widehat {IJO} = 60^\\circ \\) ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hình chóp S.ABCD có tất cả các cạnh đều bằng nhau. Gọi I và J lần lượt là trung điểm của SC và BC. Số đo của góc (IJ, CD) bằng",
+      "options": [
+        "A. 90°.",
+        "B. 45°.",
+        "C. 30°.",
+        "D. 60°."
+      ],
+      "answer": "D",
+      "note": "D Ta có IJ là đường trung bình của D SBC nên IJ // SB. Vì IJ // SB và CD // AB nên (IJ, CD) = (SB, AB) = \\(\\widehat {SBA} = 60^\\circ \\) (do D SAB đều)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hình chóp tứ giác S.ABCD có tất cả các cạnh đều bằng a. Số đo góc giữa hai đường thẳng SA và CD bằng",
+      "options": [
+        "A. 90°.",
+        "B. 45°.",
+        "C. 30°.",
+        "D. 60°."
+      ],
+      "answer": "D",
+      "note": "D Vì AB // CD nên (SA, CD) = (SA, AB). Tam giác SAB đều cạnh a \\( \\Rightarrow \\widehat {SAB} = 60^\\circ \\) . Vậy (SA, CD)= 60°."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho lăng trụ ABC.A'B'C' có tất cả các cạnh bằng nhau (tham khảo hình vẽ) Góc giữa hai đường thẳng AB và C'A' bằng",
+      "options": [
+        "A. 30°.",
+        "B. 60°.",
+        "C. 45°.",
+        "D. 90°."
+      ],
+      "answer": "B",
+      "note": "B Tam giác ABC là tam giác đều suy ra \\(\\widehat {BAC} = 60^\\circ \\) . Lại có CA // C'A' nên (AB, C'A') = (AB, CA) = \\(\\widehat {BAC} = 60^\\circ \\) ."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Trong không gian, cho hai đường thẳng a và b vuông góc với nhau. Khi đó:",
+      "options": [
+        "A. Hai đường thẳng a và b có thể cắt nhau hoặc chéo nhau.",
+        "B. Hai đường thẳng a và b luôn cắt nhau.",
+        "C. Hai đường thẳng a và b chéo nhau.",
+        "D. Hai đường thẳng a và b song song với nhau."
+      ],
+      "answer": "A",
+      "note": "A Do tính chất: trong không gian hai đường thẳng a và b vuông góc với nhau thì có thể cắt nhau hoặc chéo nhau."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Trong không gian cho hai đường thẳng a và b song song với nhau, nếu đường thẳng c vuông góc với đường thẳng a thì",
+      "options": [
+        "A. Đường thẳng c vuông góc với đường thẳng b.",
+        "B. Đường thẳng c song song với đường thẳng b.",
+        "C. Đường thẳng c song song hoặc trùng với đường thẳng b.",
+        "D. Đường thẳng c cắt đường thẳng b tại một điểm."
+      ],
+      "answer": "A",
+      "note": "A Do tính chất: Trong không gian cho hai đường thẳng song song với nhau, nếu đường thẳng nào vuông góc với đường thẳng này thì cũng vuông góc với đường thẳng kia."
+    }
+  ]
+}

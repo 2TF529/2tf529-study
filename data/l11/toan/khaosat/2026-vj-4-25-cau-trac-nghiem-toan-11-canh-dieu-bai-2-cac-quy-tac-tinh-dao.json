@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-4-25-cau-trac-nghiem-toan-11-canh-dieu-bai-2-cac-quy-tac-tinh-dao",
+  "sourceId": "vietjack:4-25-cau-trac-nghiem-toan-11-canh-dieu-b",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "4.25 câu Trắc nghiệm Toán 11 Cánh diều Bài 2. Các quy tắc tính đạo hàm (Đúng-sai, trả lời ngắn) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: TRẮC NGHIỆM NHIỀU LỰA CHỌN Cho u = u(x), v = v(x), v(x) ≠ 0 và k là hằng số. Công thức nào sau đây là sai?",
+      "options": [
+        "A. (u + v)' = u' + v'.",
+        "B. \\({\\left( {\\frac{1}{v}} \\right)^\\prime } = - \\frac{{v'}}{v}\\).",
+        "C. (u.v)' = u'.v + u.v'.",
+        "D. (ku)' = ku'."
+      ],
+      "answer": "B",
+      "note": "B \\({\\left( {\\frac{1}{v}} \\right)^\\prime } = - \\frac{{v'}}{{{v^2}}}\\) ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Chọn khẳng định đúng trong các khẳng định dưới đây.",
+      "options": [
+        "A. \\({\\left( {\\ln x} \\right)^\\prime } = - \\frac{1}{x}\\).",
+        "B. \\({\\left( {{{\\log }_2}x} \\right)^\\prime } = \\frac{1}{{x\\ln x}}\\).",
+        "C. \\({\\left( {{{\\log }_2}x} \\right)^\\prime } = \\frac{1}{{2\\ln x}}\\).",
+        "D. \\({\\left( {{{\\log }_3}x} \\right)^\\prime } = \\frac{1}{{x\\ln 3}}\\)."
+      ],
+      "answer": "D",
+      "note": "D \\({\\left( {{{\\log }_3}x} \\right)^\\prime } = \\frac{1}{{x\\ln 3}}\\) ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Chọn khẳng định sai trong các khẳng định dưới đây.",
+      "options": [
+        "A. (sinx)' = cosx.",
+        "B. (cosx)' = −sinx.",
+        "C. \\({\\left( {\\tan x} \\right)^\\prime } = \\frac{1}{{{{\\cos }^2}x}}\\).",
+        "D. \\({\\left( {\\cot x} \\right)^\\prime } = \\frac{1}{{{{\\sin }^2}x}}\\)."
+      ],
+      "answer": "D",
+      "note": "D \\({\\left( {\\cot x} \\right)^\\prime } = - \\frac{1}{{{{\\sin }^2}x}}\\) ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Hàm số y = 2 x xác định trên ℝ có công thức đạo hàm",
+      "options": [
+        "A. y' = 2 x .",
+        "B. y' = 2 x ln2.",
+        "C. \\({y^\\prime } = \\frac{{{2^x}}}{{\\ln 2}}\\).",
+        "D. \\({y^\\prime } = 2x\\ln 2\\)."
+      ],
+      "answer": "B",
+      "note": "B y' = 2 x ln2."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Với x > 0, đạo hàm của hàm số y = 2 x + log 5 x là",
+      "options": [
+        "A. \\(y' = {2^x}\\ln 2 + \\frac{1}{{x\\ln 2}}\\).",
+        "B. \\(y' = {2^x} + \\frac{1}{{x\\ln 5}}\\).",
+        "C. \\(y' = {2^x}\\ln 2 + \\frac{1}{{\\ln 5}}\\).",
+        "D. \\(y' = {2^x}\\ln 2 + \\frac{1}{{x\\ln 5}}\\)."
+      ],
+      "answer": "D",
+      "note": "D \\(y' = {2^x}\\ln 2 + \\frac{1}{{x\\ln 5}}\\) ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Tính đạo hàm của hàm số y = 2sin3x + cos2x.",
+      "options": [
+        "A. y' = 6cos3x – 2sin2x.",
+        "B. y' = 2cos3x + sin2x.",
+        "C. y' = −6cos3x + 2sin2x.",
+        "D. y' = 2cos3x – sin2x."
+      ],
+      "answer": "A",
+      "note": "A y' = 2.cos3x. (3x)' – sin2x. (2x)' = 6cos3x – 2sin2x."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Cho (e 2x + ln3x)' \\( = a.{e^{2x}} + \\frac{b}{x}\\left( {a;b \\in \\mathbb{Z}} \\right)\\). Tổng a + b bằng",
+      "options": [
+        "A. 3.",
+        "B. 2.",
+        "C. 5.",
+        "D. 1."
+      ],
+      "answer": "A",
+      "note": "A (e 2x + ln3x)' \\( = {e^{2x}}.{\\left( {2x} \\right)^\\prime } + \\frac{{{{\\left( {3x} \\right)}^\\prime }}}{{3x}} = 2.{e^{2x}} + \\frac{1}{x}\\) . Suy ra a = 2; b = 1. Do đó a + b = 3."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Đạo hàm của hàm số \\(y = {\\log _4}\\left( {2{x^2} - 3} \\right)\\) là",
+      "options": [
+        "A. \\(y' = \\frac{{4x}}{{\\left( {2{x^2} - 3} \\right)\\ln 2}}\\).",
+        "B. \\(y' = \\frac{{4x}}{{2{x^2} - 3}}\\).",
+        "C. \\(y' = \\frac{1}{{\\left( {2{x^2} - 3} \\right)\\ln 4}}\\).",
+        "D. \\(y' = \\frac{{2x}}{{\\left( {2{x^2} - 3} \\right)\\ln 2}}\\)."
+      ],
+      "answer": "D",
+      "note": "D \\(y' = {\\left[ {{{\\log }_4}\\left( {2{x^2} - 3} \\right)} \\right]^\\prime } = \\frac{{{{\\left( {2{x^2} - 3} \\right)}^\\prime }}}{{\\left( {2{x^2} - 3} \\right)\\ln 4}} = \\frac{{4x}}{{\\left( {2{x^2} - 3} \\right)\\ln 4}} = \\frac{{2x}}{{\\left( {2{x^2} - 3} \\right)\\ln 2}}\\) ."
+    }
+  ]
+}

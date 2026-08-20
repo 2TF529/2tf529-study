@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-3-10-bai-tap-su-bien-thien-va-do-thi-cua-ham-so-mu-ham-so-logarit",
+  "sourceId": "vietjack:3-10-bai-tap-su-bien-thien-va-do-thi-cua",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.10 Bài tập Sự biến thiên và đồ thị của hàm số mũ, hàm số lôgarit (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Trong các mệnh đề sau, mệnh đề nào đúng?",
+      "options": [
+        "A. Đồ thị hàm số lôgarit nằm bên phải trục tung;",
+        "B. Đồ thị hàm số lôgarit nằm bên trái trục tung;",
+        "C. Đồ thị hàm số mũ nằm bên phải trục tung;",
+        "D. Đồ thị hàm số mũ nằm bên trái trục tung."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Vì hàm số lôgarit y = log a x có tập xác định là (0; +∞) nên đồ thị hàm số luôn nằm bên phải trục tung."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Trong các mệnh đề sau, mệnh đề nào đúng?",
+      "options": [
+        "A. Đồ thị hàm số y = a x và đồ thị hàm số y = log a x đối xứng nhau qua đường thẳng y = x;",
+        "B. Hàm số y = a x với 0 < a < 1 đồng biến trên khoảng (-∞; +∞);",
+        "C. Hàm số y = a x với a > 1 nghịch biến trên khoảng (-∞; +∞);",
+        "D. Đồ thị hàm số y = a x với a > 0 và a ≠ 1 luôn đi qua điểm M(a; 1)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A + Mệnh đề B sai vì hàm số y = a x với 0 < a < 1 nghịch biến trên khoảng (-∞; +∞). + Mệnh đề C sai vì hàm số y = a x với a > 1 đồng biến trên khoảng (-∞; +∞). + Mệnh đề D sai vì đồ thị hàm số y = a x với a < 0 và a ≠ 1 luôn đi qua điểm M(a; a a ) hoặc M(0; 1) chứ không phải M(a; 1). Do đó, chỉ có mệnh đề A là đúng."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Đối xứng qua trục hoành của đồ thị hàm số y = log 2 x là đồ thị nào trong các đồ thị hàm số sau?",
+      "options": [
+        "A. y = log 1 2 x",
+        "B. y = 2 x ;",
+        "C. y = log 2 x",
+        "D. y = 1 2 x"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Dựa vào lý thuyết Đồ thị hàm số y = f(x) đối xứng qua trục hoành ta được đồ thị hàm số y = -f(x) . Do đó đồ thị hàm số y = log 2 x đối xứng qua trục hoành ta được đồ thị hàm số y = − log 2 x . Thực hiện phép biến đổi: y = − log 2 x = log 1 2 x ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Hàm số nào sau đây đồng biến trên khoảng (0; +∞) ?",
+      "options": [
+        "A. y = log 2 2 x",
+        "B. y = log e 3 x",
+        "C. y = log e 2 x",
+        "D. y = log π 4 x"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Áp dụng lý thuyết : “ Hàm số y = log a x đồng biến khi a > 1, nghịch biến khi 0 < a < 1”. Trong các hàm số đã cho chỉ có hàm số đồng biến vì cơ số a = e 2 > 1 ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Điều kiện của a để hàm số y = (2a - 5) x nghịch biến trên ℝ là:",
+      "options": [
+        "A. 5 2 < a < 3",
+        "B. 5 2 ≤ a ≤ 3",
+        "C. a > 3 ;",
+        "D. D . a < 5 2"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Hàm số y = (2a - 5) x nghịch biến trên ℝ khi 0 < 2a - 5 < 1 ⇔ 5 2 < a < 3 ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Tìm tất cả các giá trị của tham số để hàm số đồng biến.",
+      "options": [
+        "A. a = 1;",
+        "B. a = 2;",
+        "C. a ∈ (1; 2);",
+        "D. a ∈ (-∞; 1) ∪ (2; +∞)."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Điều kiện để hàm số đồng biến là: a 2 − 3 a + 3 > 1 ⇔ a 2 − 3 a + 2 > 0 ⇔ a < 1 a > 2 Vậy a ∈ (-∞; 1) ∪ (2; +∞)."
+    }
+  ]
+}

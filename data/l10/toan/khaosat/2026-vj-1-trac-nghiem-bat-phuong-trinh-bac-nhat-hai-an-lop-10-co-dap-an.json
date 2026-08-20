@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-trac-nghiem-bat-phuong-trinh-bac-nhat-hai-an-lop-10-co-dap-an",
+  "sourceId": "vietjack:1-trac-nghiem-bat-phuong-trinh-bac-nhat-",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.Trắc nghiệm Bất phương trình bậc nhất hai ẩn lớp 10 (có đáp án)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Bất phương trình nào sau đây là bất phương trình bậc nhất hai ẩn?",
+      "options": [
+        "A. x 2 + y > 0;",
+        "B. x 2 + 3y 2 = 2;",
+        "C. – x + y 3 ≤ 0;",
+        "D. x – y < 1."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D x 2 + y > 0 là bất phương trình bậc hai. Do đó đáp án A sai. x 2 + 3y 2 = 2 là phương trình bậc hai. Do đó đáp án B sai. –x + y 3 ≤ 0 là bất phương trình bậc ba. Do đó đáp án C sai. x – y < 1 có dạng bất phương trình bậc nhất hai ẩn (ẩn x và ẩn y) với: a = 1; b = –1; c = 1. Do đó đáp án D đúng."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Bất phương trình nào sau đây là bất phương trình bậc nhất hai ẩn?",
+      "options": [
+        "A. x 2 < 3x – 7y;",
+        "B. x + 3y 2 ≥0;",
+        "C. – 2 2 x + y ≤4;",
+        "D. 0x – 0y ≤ 5."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C x 2 < 3x – 7y và x + 3y 2 ≥ 0 là bất phương trình hai ẩn bậc hai; 0x – 0y ≤ 5 có hệ số của x và y đồng thời bằng 0. Vì vậy, A, B, D không phải là bất phương trình bậc nhất hai ẩn. Ta có: –2 2 x + y ≤ 4 ⇔ –4x + y ≤ 4. Vì –4x + y ≤ 4 có dạng bất phương trình bậc nhất hai ẩn với a = –4; b = 1; c = 4 nên đáp án C đúng."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Bất phương trình nào tương đương với bất phương trình 3x – y > 7(x – 4y) + 1?",
+      "options": [
+        "A. 4x – 27y + 1 > 0;",
+        "B. 4x – 27y + 1 ≥ 0;",
+        "C. 4x – 27y < – 1;",
+        "D. 4x – 27y + 1 ≤ 0."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có : 3x – y > 7(x – 4y) + 1 ⇔ 3x – y > 7x – 28 y + 1 ⇔ 0 > 7x – 3x – 28y + y + 1 ⇔ 4x – 27y + 1 < 0 ⇔ 4x – 27y < –1. Vậy ta chọn phương án C."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho bất phương trình x + y ≤ 2 (1). Chọn khẳng định đúng trong các khẳng định sau:",
+      "options": [
+        "A. Bất phương trình (1) chỉ có một nghiệm duy nhất;",
+        "B. Bất phương trình (1) chỉ có hai nghiệm;",
+        "C. Bất phương trình (1) luôn có vô số nghiệm;",
+        "D. D . Bất phương trình (1) vô nghiệm."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Trên mặt phẳng tọa độ, đường thẳng d: x + y = 2 chia mặt phẳng thành hai nửa mặt phẳng. Với cặp số (x; y) = (0; 0) ta có: 0 + 0 = 0 < 2. Suy ra cặp số (x; y) = (0; 0) là một nghiệm của bất phương trình x + y ≤ 2 (1). Vậy miền nghiệm của bất phương trình x + y ≤ 2 là nửa mặt phẳng bờ là đường thẳng d có chứa điểm O(0;0) (kể cả d). Do đó, bất phương trình (1) luôn có vô số nghiệm. Vậy ta chọn phương án C."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Miền nghiệm của bất phương trình: –3x + y > 0 chứa điểm nào trong các điểm sau:",
+      "options": [
+        "A. (–3; 0);",
+        "B. (3; 2);",
+        "C. (0; 0);",
+        "D. (1; 1);"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A + Đối với cặp số (x; y) = (–3; 0) ta có : –3.(–3) + 0 = 9 > 0. Suy ra cặp số (x; y) = (–3; 0) là một nghiệm của bất phương trình –3x + y > 0. Do đó miền nghiệm của bất phương trình –3x + y > 0 chứa điểm (–3; 0). + Đối với cặp số (x; y) = (3; 2) ta có : –3. 3 + 2 = –7 < 0. Suy ra cặp số (x; y) = (3; 2) không phải là nghiệm của bất phương trình –3x + y > 0. Do đó miền nghiệm của bất phương trình –3x + y > 0 không chứa điểm (3; 2). + Đối với cặp số (x; y) = (0; 0) ta có : –3. 0 + 0 = 0. Suy ra cặp số (x; y) = ( 0; 0) không phải là nghiệm của bất phương trình –3x + y > 0. Do đó miền nghiệm của bất phương trình –3x + y > 0 không chứa điểm (0; 0). + Đối với cặp số (x; y) = (1; 1) ta có : –3. 1 + 1 = –2 < 0. Suy ra cặp số (x; y) = (1; 1) không phải là nghiệm của bất phương trình –3x + y > 0. Do đó miền nghiệm của bất phương trình –3x + y > 0 không chứa điểm (1; 1). Vậy miền nghiệm của bất phương trình –3x + y > 0 chứa điểm (–3; 0). Vậy ta chọn phương án A."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Bạn Lan để dành được 300 nghìn đồng. Trong một đợt ủng hộ học sinh khó khăn, bạn Lan đã ủng hộ x tờ tiền loại 10 nghìn đồng, y tờ tiền loại 20 nghìn đồng từ tiền để dành của mình. Trong các bất phương trình sau, bất phương trình nào diễn tả giới hạn về tổng số tiền mà bạn Lan đã ủng hộ.",
+      "options": [
+        "A. x + y < 300 ;",
+        "B. 10x + y < 300 ;",
+        "C. 10x + 20y > 300;",
+        "D. 10x + 20y ≤ 300."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Số tiền mệnh giá 10 nghìn đồng là: 10x (nghìn đồng) Số tiền mệnh giá 20 nghìn đồng là: 20y (nghìn đồng) Tổng số tiền bạn Lan đã ủng hộ là: 10x + 20y (nghìn đồng). Vì tổng số tiền Lan ủng hộ không vượt quá số tiền Lan để dành được là 300 nghìn đồng nên ta có bất phương trình: 10x + 20y ≤ 300. Vậy ta chọn đáp án D."
+    }
+  ]
+}

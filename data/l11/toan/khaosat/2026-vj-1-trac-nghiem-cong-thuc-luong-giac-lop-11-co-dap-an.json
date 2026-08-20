@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-trac-nghiem-cong-thuc-luong-giac-lop-11-co-dap-an",
+  "sourceId": "vietjack:1-trac-nghiem-cong-thuc-luong-giac-lop-1",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.Trắc nghiệm Công thức lượng giác lớp 11 (có đáp án)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Khẳng định nào sau đây đúng?",
+      "options": [
+        "A. sin 2018 a = 2018 sin a . cos a .",
+        "B. sin 2018 a = 2018 sin 1009 a . cos 1009 a .",
+        "C. sin 2018 a = 2 sin a cos a .",
+        "D. sin 2018 a = 2 sin 1009 a . cos 1009 a ."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Áp dụng công thức sin 2 α = 2 sin α . cos α ta được sin 2018 a = 2 sin 1009 a . cos 1009 a"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Khẳng định nào sai trong các khẳng định sau?",
+      "options": [
+        "A. sin 2 x = 1 − cos 2 x 2 .",
+        "B. sin 2 x = 1 + cos 2 x 2 .",
+        "C. sin x = 2 sin x 2 cos x 2 .",
+        "D. cos 3 x = cos 3 x − sin 3 x ."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Ta có cos 3 x = 4 cos 3 x − 3 cos x ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Công thức nào sau đây đúng?",
+      "options": [
+        "A. cos 3 a = 3 cos a − 4 cos 3 a .",
+        "B. cos 3 a = 4 cos 3 a − 3 cos a .",
+        "C. cos 3 a = 3 cos 3 a − 4 cos a .",
+        "D. cos 3 a = 4 cos a − 3 cos 3 a ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho 0 < α , β < π 2 và thỏa mãn tan α = 1 7 , tan β = 3 4 . Góc α + β có giá trị bằng",
+      "options": [
+        "A. π 3 .",
+        "B. π 4 .",
+        "C. π 6 .",
+        "D. π 2 ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có tan α + β = tan α + tan β 1 − tan α . tan β = 1 7 + 3 4 1 − 1 7 . 3 4 = 1 suy ra a + b = π 4 ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Nếu tan a + b = 7 , tan a − b = 4 thì giá trị đúng của tan 2a là",
+      "options": [
+        "A. − 11 27 .",
+        "B. 11 27 .",
+        "C. - 13 27 .",
+        "D. 13 27 ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có tan 2 a = tan a + b + a − b = tan a + b + tan a − b 1 + tan a + b . tan a − b = 7 + 4 1 − 7.4 = − 11 27 ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Rút gọn biểu thức M = tan x − tan y .",
+      "options": [
+        "A. M = tan x − y .",
+        "B. M = sin x + y cos x . cos y .",
+        "C. M = sin x − y cos x . cos y .",
+        "D. M = tan x − tan y 1 + tan x . tan y ."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có M = tan x − tan y = sin x cos x − sin y cos y = sin x cos y − cos x sin y cos x cos y = sin x − y cos x cos y ."
+    }
+  ]
+}

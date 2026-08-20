@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-10-canh-dieu-so-hoa-van-ban-co-dap-a",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-10-canh-die",
+  "grade": "l10",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 10 Cánh diều Số hóa văn bản có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Khẳng định nào sau đây là đúng khi nói về bảng mã ASCII?",
+      "options": [
+        "A. ASCII là viết tắt của cụm từ American Standard Code for Information Interchange, có nghĩa là chuẩn mã trao đổi thông tin Hoa Kỳ. Đây là bộ mã hóa ký tự cho bảng chữ cái La Tinh và được dùng để hiển thị văn bản trong máy tính.",
+        "B. Bảng mã được thiết kế với mục đích thống nhất mã kí tự để máy tính có thể “viết chữ” của rất nhiều ngôn ngữ khác nhau trên thế giới.",
+        "C. Là bảng mã dùng để gõ chữ tiếng việt trên máy tính.",
+        "D. Là bảng mã mã hóa được 250 kí tự."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A ASCII là viết tắt của cụm từ American Standard Code for Information Interchange, có nghĩa là chuẩn mã trao đổi thông tin Hoa Kỳ. Đây là bộ mã hóa ký tự cho bảng chữ cái La Tinh và được dùng để hiển thị văn bản trong máy tính."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Khẳng định nào sau đây là đúng khi nói về bảng mã UNICODE?",
+      "options": [
+        "A. Không gian mã Unicode được chia thành các khối, cứ hai khối mã sẽ được dành riêng cho cho một ngôn ngữ cụ thể.",
+        "B. Bảng mã được thiết kế với mục đích thống nhất mã kí tự để máy tính có thể “viết chữ” của rất nhiều ngôn ngữ khác nhau trên thế giới.",
+        "C. Là bảng mã mã hóa được 250 kí tự.",
+        "D. Là bảng mã không hỗ trợ Tiếng Việt."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Bảng mã UNICODE là bảng mã được thiết kế với mục đích thống nhất mã kí tự để máy tính có thể “viết chữ” của rất nhiều ngôn ngữ khác nhau trên thế giới."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Bộ mã ASCII dùng bao nhiêu bit để mã hoá các kí tự:",
+      "options": [
+        "A. 7",
+        "B. 1",
+        "C. 2",
+        "D. 8"
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Hiện nay, người ta mở rộng bảng mã ASCII bằng cách sử dụng mã nhị phân dài 8 bit."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Trong bảng mã ASCII 1 kí tự được mã hóa bằng bao nhiêu bit?",
+      "options": [
+        "A. 7",
+        "B. 8",
+        "C. 16",
+        "D. 32"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Mã ASCII của một kí tự là dãy 7 bit."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Hãy chọn mệnh đề đúng trong các mệnh đề sau:",
+      "options": [
+        "A. Bộ mã ASCII dùng để mã hoá thông tin dạng hình ảnh.",
+        "B. Bộ mã ASCII dùng để mã hoá thông tin dạng văn bản.",
+        "C. Bộ mã ASCII dùng để mã hoá thông tin dạng âm thanh.",
+        "D. Bộ mã UNICODE có thể mã hoá được 65536 kí tự khác nhau, cho phép thể hiện trong máy tính văn bản của hầu hết các ngôn ngữ trên thế giới."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Bộ mã UNICODE có thể mã hoá được 65536 kí tự khkác nhau, cho phép thể hiện trong máy tính văn bản của hầu hết các ngôn ngữ trên thế giới."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong các bộ mã dưới đây, bộ mã nào không hỗ trợ Tiếng Việt?",
+      "options": [
+        "A. ASCII",
+        "B. UNICODE",
+        "C. TCVN3",
+        "D. VNI"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Có 2 bộ mã chữ Việt chủ yếu biến dựa trên bộ mã ASCII là TCVN3 và VNI thường được sử dụng. Ngoài ra, còn có bộ mã UNICODE, bộ mã này được dùng chung cho mọi quốc gia trên thế giới."
+    }
+  ]
+}

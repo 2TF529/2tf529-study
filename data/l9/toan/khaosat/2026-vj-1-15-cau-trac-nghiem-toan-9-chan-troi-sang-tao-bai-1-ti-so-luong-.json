@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-toan-9-chan-troi-sang-tao-bai-1-ti-so-luong-",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-toan-9-chan-troi-sa",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu trắc nghiệm Toán 9 Chân trời sáng tạo Bài 1. Tỉ số lượng giác của góc nhọn có đáp án",
+  "duration": 90,
+  "answerSource": "partial",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Căn bậc hai của một số \\(a\\) không âm là một số \\(x\\) sao cho",
+      "options": [
+        "A. \\(a = x\\).",
+        "B. \\(a = {x^2}\\).",
+        "C. \\(x = - {a^2}\\).",
+        "D. \\(x = 2a\\)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Căn bậc hai của một số \\(a\\) không âm là một số \\(x\\) sao cho \\(a = {x^2}\\)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Số nào sau đây là căn bậc hai của 9?",
+      "options": [
+        "A. 3.",
+        "B. 5.",
+        "C. 9.",
+        "D. 81."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Do \\({3^2} = 9\\) nên 3 là căn bậc hai của 9."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Điều kiện xác định của biểu thức \\(\\frac{{x + 3}}{{\\sqrt {2 - x} }}\\) là",
+      "options": [
+        "A. \\(x \\ge 0\\).",
+        "B. \\(x < 0\\).",
+        "C. \\(x \\ge 2\\).",
+        "D. \\(x < 2\\)."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Để biểu thức \\(\\frac{{x + 3}}{{\\sqrt {2 - x} }}\\) xác định thì \\(2 - x > 0\\) hay \\(x < 2\\)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Giá trị của biểu thức \\(\\sqrt[3]{{27.28}}\\) bằng",
+      "options": [
+        "A. \\(9\\sqrt[3]{{28}}\\).",
+        "B. \\(27\\sqrt[3]{{28}}\\).",
+        "C. \\(3\\sqrt[3]{{28}}\\).",
+        "D. \\( - 3\\sqrt[3]{{28}}\\)."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C \\(\\sqrt[3]{{27.28}} = \\sqrt[3]{{{3^3}.28}} = \\sqrt[3]{{{3^3}}}.\\sqrt[3]{{28}} = 3\\sqrt[3]{{28}}\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Trục căn thức ở mẫu của biểu thức \\[\\frac{{\\sqrt {16} }}{{\\sqrt 5 }}\\] ta được",
+      "options": [
+        "A. \\(\\frac{{\\sqrt {16} }}{5}\\).",
+        "B. \\(\\frac{{4\\sqrt 5 }}{5}\\).",
+        "C. \\(\\frac{{16\\sqrt 5 }}{5}\\).",
+        "D. \\( - \\frac{{4\\sqrt 5 }}{5}\\)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có \\[\\frac{{\\sqrt {16} }}{{\\sqrt 5 }} = \\frac{4}{{\\sqrt 5 }} = \\frac{{4.\\sqrt 5 }}{{\\sqrt 5 .\\sqrt 5 }} = \\frac{{4\\sqrt 5 }}{5}\\]."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Giá trị của \\[x\\] thì căn thức \\[\\frac{3}{{\\sqrt { - {x^2} - 2021} }}\\] có nghĩa là",
+      "options": [
+        "A. \\(x < 0\\).",
+        "B. \\(x > 0\\).",
+        "C. \\(x > 3\\).",
+        "D. Không có giá trị của \\[x.\\]"
+      ],
+      "answer": null,
+      "note": "Đáp án đúng là: Biểu thức \\[\\frac{3}{{\\sqrt { - {x^2} - 2021} }}\\] có nghĩa khi \\( - {x^2} - 2021 > 0\\). Do \\({x^2} \\ge 0\\) với mọi \\(x\\) nên \\( - {x^2} \\le 0\\) với mọi \\(x\\), do đó \\( - {x^2} - 2021 < 0\\) với mọi \\(x \\in \\mathbb{R}.\\) Vậy không có giá trị của \\[x\\] để biểu thức có nghĩa."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-20-cau-trac-nghiem-toan-10-canh-dieu-quy-tac-cong-quy-tac-nhan-",
+  "sourceId": "vietjack:2-20-cau-trac-nghiem-toan-10-canh-dieu-q",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.20 câu Trắc nghiệm Toán 10 Cánh diều  Quy tắc cộng. Quy tắc nhân. Sơ đồ hình cây (Phần 2) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Một lớp có 31 học sinh nam và 16 học sinh nữ. Có bao nhiêu cách chọn một học sinh làm lớp trưởng của lớp.",
+      "options": [
+        "A. 31;",
+        "B. 16;",
+        "C. 47;",
+        "D. 15."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là: C Theo quy tắc cộng ta có số cách chọn một học sinh làm lớp trưởng là: 31 + 16 = 47 (cách)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Có thể lập được bao nhiêu số có hai chữ số từ các số 1; 2; 3; 4 sao cho hai chữ số của số lập được đều khác nhau",
+      "options": [
+        "A. 4;",
+        "B. 16;",
+        "C. 12;",
+        "D. 10."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là: C Có 4 cách chọn chữ số hàng chục, có ba cách chọn chữ số hàng đơn vị (khác với chữ số hàng chục đã chọn). Chọn chữ số hàng chục và chọn chữ số hàng đơn vị là hai hành động được diễn ra liên tiếp nên ta dùng quy tắc nhân. Số các số lập được là: 4 . 3 = 12 (số)"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Bạn An dự định mua quà sinh nhật cho mẹ là một dây chuyền. Có ba kiểu mặt dây chuyền là: hình cỏ bốn lá, hình trái tim và hình giọt nước; có 2 loại dây là dạng xoắn, dạng chỉ. Hỏi bạn An có mấy cách chọn dây chuyền tặng mẹ.",
+      "options": [
+        "A. 3;",
+        "B. 2;",
+        "C. 5;",
+        "D. 6."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải Đáp án đúng là: D Chọn một chiếc dây chuyền thì cần thực hiện hai hành động là: + Chọn mặt dây: có 3 cách + Chọn dây: Có 2 cách. Do đó, số cách bạn An chọn dây chuyền tặng mẹ là: 2 . 3 = 6 (cách)"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Phương tiện bạn Khoa có thể chọn đi từ Hải Dương xuống Hà Nội rồi từ Hà Nội vào Đà Lạt được thể hiện qua sơ đồ cây sau: Hỏi bạn Khoa có mấy cách chọn đi từ Hải Dương xuống Hà Nội rồi từ Hà Nội vào Đà Lạt.",
+      "options": [
+        "A. 3;",
+        "B. 4;",
+        "C. 5;",
+        "D. 6."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải Đáp án đúng là: B Cách cách chọn là: Xe máy – Máy bay; Xe máy – Xe khách; Xe khách – Xe khách; Xe khách – Máy bay."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Từ các chữ số 6; 7; 8; 9, có thể lập được bao nhiêu chữ số tự nhiên có 3 chữ số.",
+      "options": [
+        "A. 64;",
+        "B. 24;",
+        "C. 81;",
+        "D. 50."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A Số cách chọn chữ số hàng trăm là 4 Số cách chọn chữ số hàng chục là 4 (do đề bài không yêu cầu các chữ số khác nhau) Số cách chọn chữ số hàng đơn vị là 4 (do đề bài không yêu cầu các chữ số khác nhau) Có thể lập được số các số tự nhiên có ba chữ số từ bốn chữ số đã cho là: 4 . 4 . 4 = 64 (số)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Hà dự định mua một cây bút và một quyển vở làm quà sinh nhật. Các cây bút có 6 màu vỏ khác nhau và các quyển vở có 5 màu bìa khác nhau. Hỏi bạn Hà có bao nhiêu cách chọn quà sinh nhật.",
+      "options": [
+        "A. 30;",
+        "B. 11;",
+        "C. 6;",
+        "D. 5."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A Chọn quà sinh nhật thì cần thực hiện hai hành động là: + Chọn bút: có 6 cách + Chọn vở: Có 5 cách. Do đó, số cách bạn Hà chọn quà sinh nhật là: 5 . 6 = 30 (cách)."
+    }
+  ]
+}

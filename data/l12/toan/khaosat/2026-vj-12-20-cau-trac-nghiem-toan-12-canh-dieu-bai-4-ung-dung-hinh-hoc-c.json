@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-12-20-cau-trac-nghiem-toan-12-canh-dieu-bai-4-ung-dung-hinh-hoc-c",
+  "sourceId": "vietjack:12-20-cau-trac-nghiem-toan-12-canh-dieu-",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "12.20 câu trắc nghiệm Toán 12 Cánh diều Bài 4. Ứng dụng hình học của tích phân (Đúng sai - Trả lời ngắn) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: TRẮC NGHIỆM NHIỀU LỰA CHỌN Hình phẳng S gồm hai phần được đánh dấu trong hình vẽ bên. Diện tích hình S được tính theo công thức nào dưới đây",
+      "options": [
+        "A. \\(S = \\int\\limits_{ - 2}^0 {f\\left( x \\right)dx} + \\int\\limits_0^3 {f\\left( x \\right)dx} \\) .",
+        "B. \\(S = - \\int\\limits_{ - 2}^0 {f\\left( x \\right)dx} - \\int\\limits_0^3 {f\\left( x \\right)dx} \\) .",
+        "C. \\(S = - \\int\\limits_{ - 2}^0 {f\\left( x \\right)dx} + \\int\\limits_0^3 {f\\left( x \\right)dx} \\) .",
+        "D. \\(S = \\int\\limits_{ - 2}^0 {f\\left( x \\right)dx} - \\int\\limits_0^3 {f\\left( x \\right)dx} \\) ."
+      ],
+      "answer": "D",
+      "note": "Chọn D \\(S = \\int\\limits_{ - 2}^3 {\\left| {f\\left( x \\right)} \\right|dx} = \\int\\limits_{ - 2}^0 {\\left| {f\\left( x \\right)} \\right|dx} + \\int\\limits_0^3 {\\left| {f\\left( x \\right)} \\right|dx} \\)\\( = \\int\\limits_{ - 2}^0 {f\\left( x \\right)dx} - \\int\\limits_0^3 {f\\left( x \\right)dx} \\)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Gọi S là diện tích hình phẳng giới hạn bởi đồ thị hàm số \\(y = {x^2} - 2021\\) , trục hoành, \\(x = - 2,x = 4\\) . Mệnh đề nào sau đây đúng.",
+      "options": [
+        "A. \\(S = \\int\\limits_{ - 2}^4 {\\left| {{x^2} - 2021} \\right|dx} \\) .",
+        "B. \\(S = \\int\\limits_4^{ - 2} {\\left| {{x^2} - 2021} \\right|dx} \\) .",
+        "C. \\(S = \\int\\limits_{ - 2}^4 {{{\\left( {{x^2} - 2021} \\right)}^2}dx} \\) .",
+        "D. \\(S = \\int\\limits_{ - 2}^4 {\\left( {{x^2} - 2021} \\right)dx} \\) ."
+      ],
+      "answer": "A",
+      "note": "Chọn A \\(S = \\int\\limits_{ - 2}^4 {\\left| {{x^2} - 2021} \\right|dx} \\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho hình phẳng D giới hạn bởi đồ thị \\(\\left( P \\right):y = 2x - {x^2}\\) và trục Ox. Tính thể tích của khối tròn xoay tạo thành khi cho D quay quanh trục Ox.",
+      "options": [
+        "A. \\(V = \\frac{{17\\pi }}{{15}}\\) .",
+        "B. \\(V = \\frac{{16\\pi }}{{15}}\\) .",
+        "C. \\(V = \\frac{{19\\pi }}{{15}}\\) .",
+        "D. \\(V = \\frac{{13\\pi }}{{15}}\\) ."
+      ],
+      "answer": "B",
+      "note": "Chọn B \\(2x - {x^2} = 0 \\Rightarrow \\left[ \\begin{array}{l}x = 0\\\\x = 2\\end{array} \\right.\\). Thể tích khối tròn xoay tạo thành là \\(V = \\pi \\int\\limits_0^2 {\\left( {2x - {x^2}} \\right)dx} = \\pi \\int\\limits_0^2 {\\left( {4{x^2} - 4{x^3} + {x^4}} \\right)dx} \\)\\( = \\left. {\\pi \\left( {4\\frac{{{x^3}}}{3} - {x^4} + \\frac{{{x^5}}}{5}} \\right)} \\right|_0^2 = \\frac{{16\\pi }}{{15}}\\)"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Tính diện tích hình phẳng giới hạn bởi đồ thị hàm số \\(y = {e^x}\\) , trục hoành và hai đường thẳng \\(x = 0\\) và \\(x = 3\\) .",
+      "options": [
+        "A. \\(e\\left( {{e^2} - 1} \\right)\\) .",
+        "B. \\({e^3} - 1\\) .",
+        "C. \\({e^3}\\) .",
+        "D. \\({e^2} - 1\\) ."
+      ],
+      "answer": "B",
+      "note": "Chọn B Diện tích cần tìm là \\(S = \\int\\limits_0^3 {{e^x}dx} = \\left. {{e^x}} \\right|_0^3 = {e^3} - 1\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hình phẳng giới hạn bởi đồ thị hàm số \\(f\\left( x \\right) = \\cos \\frac{x}{2}\\) , trục hoành và hai đường thẳng \\(x = 0,x = \\pi \\) . Thể tích khối tròn xoay tạo thành khi cho hình phẳng đó quay quanh trục Ox là",
+      "options": [
+        "A. \\({\\pi ^2} - \\pi \\) .",
+        "B. \\(2\\pi \\) .",
+        "C. \\(\\frac{{{\\pi ^2}}}{2}\\) .",
+        "D. \\({\\pi ^2} - 1\\) ."
+      ],
+      "answer": "C",
+      "note": "Chọn C Thể tích cần tìm là \\(V = \\pi \\int\\limits_0^\\pi {{{\\cos }^2}\\frac{x}{2}} dx\\)\\[ = \\pi \\int\\limits_0^\\pi {\\frac{{1 + \\cos x}}{2}} dx\\]\\[ = \\left. {\\frac{\\pi }{2}\\left( {x + \\sin x} \\right)} \\right|_0^\\pi \\]\\[ = \\frac{{{\\pi ^2}}}{2}\\]."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Tính diện tích S của hình phẳng (phần gạch sọc) trong hình sau",
+      "options": [
+        "A. \\(S = \\frac{{16}}{3}\\) .",
+        "B. \\(S = \\frac{{10}}{3}\\) .",
+        "C. \\(S = \\frac{{11}}{3}\\) .",
+        "D. \\(S = \\frac{7}{3}\\) ."
+      ],
+      "answer": "A",
+      "note": "Chọn A Diện tích cần tìm là \\(S = \\int\\limits_0^4 {\\left| {\\sqrt x - \\left( {x - 2} \\right)} \\right|dx} \\)\\( = \\int\\limits_0^4 {\\left( {\\sqrt x - \\left( {x - 2} \\right)} \\right)dx} \\)\\( = \\left. {\\left( {\\frac{2}{3}{x^{\\frac{3}{2}}} - \\frac{{{x^2}}}{2} + 2x} \\right)} \\right|_0^4 = \\frac{{16}}{3}\\)."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Diện tích hình phẳng giới hạn bởi trục Ox, trục Oy, đồ thị hàm số \\(y = f\\left( x \\right)\\) và đường thẳng \\(x = 2\\) được tính theo công thức nào dưới đây?",
+      "options": [
+        "A. \\(\\int\\limits_2^0 {\\left| {f\\left( x \\right)} \\right|dx} \\) .",
+        "B. \\(\\int\\limits_0^2 {\\left| {f\\left( x \\right) - 2} \\right|dx} \\) .",
+        "C. \\(\\int\\limits_0^2 {f\\left( x \\right)dx} \\) .",
+        "D. \\(\\int\\limits_0^2 {\\left| {f\\left( x \\right)} \\right|dx} \\) ."
+      ],
+      "answer": "D",
+      "note": "Chọn D Diện tích cần tìm là \\(\\int\\limits_0^2 {\\left| {f\\left( x \\right)} \\right|dx} \\)."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho hình phẳng \\(\\left( H \\right)\\) giới hạn bởi các đường \\(y = {x^2} + 3,y = 0,x = 0,x = 2\\) . Gọi \\(V\\) là thể tích khối tròn xoay được tạo thành khi quay \\(\\left( H \\right)\\) xung quanh trục \\(Ox\\) . Mệnh đề nào sau đây đúng?",
+      "options": [
+        "A. \\(V = \\pi \\int\\limits_0^2 {{{\\left( {{x^2} + 3} \\right)}^2}dx} \\) .",
+        "B. \\(V = \\int\\limits_0^2 {\\left( {{x^2} + 3} \\right)dx} \\) .",
+        "C. \\(V = \\int\\limits_0^2 {{{\\left( {{x^2} + 3} \\right)}^2}dx} \\) .",
+        "D. \\(V = \\pi \\int\\limits_0^2 {\\left( {{x^2} + 3} \\right)dx} \\) ."
+      ],
+      "answer": "A",
+      "note": "Chọn A Thể tích của vật thể được tạo nên là \\(V = \\pi \\int\\limits_0^2 {{{\\left( {{x^2} + 3} \\right)}^2}dx} \\)."
+    }
+  ]
+}

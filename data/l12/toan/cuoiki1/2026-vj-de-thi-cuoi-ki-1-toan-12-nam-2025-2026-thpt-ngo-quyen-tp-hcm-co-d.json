@@ -1,0 +1,104 @@
+{
+  "id": "2026-vj-de-thi-cuoi-ki-1-toan-12-nam-2025-2026-thpt-ngo-quyen-tp-hcm-co-d",
+  "sourceId": "vietjack:de-thi-cuoi-ki-1-toan-12-nam-2025-2026-t",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "cuoiki1",
+  "year": 2026,
+  "title": "Đề thi cuối kì 1 Toán 12 năm 2025-2026 THPT Ngô Quyền (TP.HCM) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: CÂU TRẮC NGHIỆM NHIỀU PHƯƠNG ÁN LỰA CHỌN (3,0 điểm) Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh chỉ chọn một phương án. Dữ liệu về tốc độ của 100 xe ô tô lưu thông trên một đoạn đường cao tốc vào giờ cao điểm được trích xuất từ camera của cơ quan cảnh sát giao thông cho bởi mẫu số liệu ghép nhóm: Tốc độ (km/h) \\(\\left[ {60;70} \\right)\\) \\(\\left[ {70;80} \\right)\\) \\(\\left[ {80;90} \\right)\\) \\(\\left[ {90;100} \\right)\\) \\(\\left[ {100;110} \\right)\\) Số xe 10 20 20 35 15 Tứ phân vị thứ nhất của mẫu số liệu trên thuộc nhóm nào dưới đây?",
+      "options": [
+        "A. \\(\\left[ {90;100} \\right)\\).",
+        "B. \\(\\left[ {80;90} \\right)\\).",
+        "C. \\(\\left[ {70;80} \\right)\\).",
+        "D. \\(\\left[ {60;70} \\right)\\)."
+      ],
+      "answer": "C",
+      "note": "Ta có \\(\\frac{N}{4} = \\frac{{100}}{4} = 25\\). Nhóm thứ nhất \\(\\left[ {60;70} \\right)\\) có tần số tích lũy là \\(c{f_1} = 10\\). Nhóm thứ hai \\(\\left[ {70;80} \\right)\\) có tần số tích lũy là \\(c{f_2} = 10 + 20 = 30\\). Vì \\(10 < 25 \\le 30\\) nên giá trị tứ phân vị thứ nhất \\({Q_1}\\) thuộc vào nhóm \\(\\left[ {70;80} \\right)\\). Đáp án đúng: C"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hàm số \\(y = f\\left( x \\right)\\). Biết \\(\\mathop {\\lim }\\limits_{x \\to + \\infty } f\\left( x \\right) = 1\\) và \\(\\mathop {\\lim }\\limits_{x \\to - 2} f\\left( x \\right) = - \\infty \\), tiệm cận đứng của đồ thị hàm số là",
+      "options": [
+        "A. \\(y = 1\\).",
+        "B. \\(y = - 2\\).",
+        "C. \\(x = - 2\\).",
+        "D. \\(x = 1\\)."
+      ],
+      "answer": "C",
+      "note": "Theo định nghĩa về đường tiệm cận đứng của đồ thị hàm số \\(y = f\\left( x \\right)\\): Nếu hoặc l i m x → x 0 − f ( x ) = ± ∞ thì đường thẳng x = x 0 là tiệm cận đứng của đồ thị hàm số. Ở đây ta có l i m x → − 2 f ( x ) = − ∞ , do đó đường thẳng x = − 2 là tiệm cận đứng của đồ thị hàm số. Đáp án đúng: C"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Biết rằng giá trị nhỏ nhất của hàm số \\(f\\left( x \\right) = \\frac{{mx + 5}}{{x - m}}\\) trên đoạn \\(\\left[ {0;1} \\right]\\) bằng \\( - 7\\) . Khẳng định nào sau đây đúng?",
+      "options": [
+        "A. \\(m=3\\).",
+        "B. \\(m=\\frac{5}{7}\\).",
+        "C. \\(m=2\\).",
+        "D. \\(m=-2\\)."
+      ],
+      "answer": "C",
+      "note": "Điều kiện xác định của hàm số là \\(x \\ne m\\) . Để hàm số liên tục trên đoạn \\(\\left[ {0;1} \\right]\\) thì giá trị \\(m\\) không được thuộc vào đoạn \\(\\left[ {0;1} \\right]\\) (tức là \\(m \\notin \\left[ {0;1} \\right]\\) ). Đạo hàm của hàm số trên các khoảng xác định là: \\(f'\\left( x \\right) = \\frac{{ - {m^2} - 5}}{{{{\\left( {x - m} \\right)}^2}}}\\) . Vì \\( - {m^2} - 5 < 0\\) với mọi số thực \\(m\\) , nên \\(f'\\left( x \\right) < 0\\) với mọi \\(x \\ne m\\) . Do đó, hàm số luôn nghịch biến trên từng khoảng xác định và liên tục trên đoạn \\(\\left[ {0;1} \\right]\\) . Vì hàm số nghịch biến trên \\(\\left[ {0;1} \\right]\\) nên giá trị nhỏ nhất của hàm số trên đoạn này sẽ đạt tại điểm \\(x = 1\\) : \\(\\mathop {\\min }\\limits_{\\left[ {0;1} \\right]} f\\left( x \\right) = f\\left( 1 \\right) = \\frac{{m \\cdot 1 + 5}}{{1 - m}} = \\frac{{m + 5}}{{1 - m}}\\) . Theo giả thiết, giá trị nhỏ nhất này bằng \\( - 7\\) : \\(\\frac{{m + 5}}{{1 - m}} = - 7 \\Leftrightarrow m + 5 = - 7\\left( {1 - m} \\right) \\Leftrightarrow m + 5 = - 7 + 7m \\Leftrightarrow 6m = 12 \\Leftrightarrow m = 2\\) . Kiểm tra điều kiện: \\(m = 2 \\notin \\left[ {0;1} \\right]\\) (thỏa mãn điều kiện hàm số liên tục trên \\(\\left[ {0;1} \\right]\\) ). Đáp án đúng: C"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hàm số y = f ( x ) có đồ thị như hình vẽ sau. Điểm cực tiểu của đồ thị hàm số \\(y = f\\left( x \\right)\\) là",
+      "options": [
+        "A. \\(x = 1\\).",
+        "B. \\(x = - 1\\).",
+        "C. \\(M\\left( { - 1; - 1} \\right)\\).",
+        "D. \\(M\\left( {1;3} \\right)\\)."
+      ],
+      "answer": "C",
+      "note": "Dựa vào đồ thị hàm số \\(y = f\\left( x \\right)\\) đã cho, ta thấy: + Điểm cực tiểu của đồ thị là \\(M\\left( { - 1; - 1} \\right)\\). + Điểm cực đại của đồ thị hàm số là \\(\\left( {1;3} \\right)\\). Đáp án đúng: C"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 6: Cho hàm số đa thức \\(y = f\\left( x \\right)\\). Hàm số \\(y = f'\\left( x \\right)\\) có đồ thị là đường cong trong hình vẽ. Hàm số \\(y = f\\left( x \\right)\\) đồng biến trên khoảng nào sau đây?",
+      "options": [
+        "A. \\(\\left( { - \\infty ; - 2} \\right)\\).",
+        "B. \\(\\left( {3; + \\infty } \\right)\\).",
+        "C. \\(\\left( {1;3} \\right)\\).",
+        "D. \\(\\left( {0;2} \\right)\\)."
+      ],
+      "answer": "C",
+      "note": "Hàm số \\(y = f\\left( x \\right)\\) đồng biến trên khoảng nào thì đạo hàm \\(f'\\left( x \\right) \\ge 0\\) trên khoảng đó. Nhìn vào đồ thị hàm số \\(y = f'\\left( x \\right)\\): Đồ thị nằm phía trên trục hoành \\(Ox\\) (tương ứng \\(f'\\left( x \\right) > 0\\)) trên khoảng \\(\\left( {1;3} \\right)\\). Trên các khoảng \\(\\left( { - \\infty ;1} \\right)\\) và \\(\\left( {3; + \\infty } \\right)\\), đồ thị hàm số nằm phía dưới trục hoành, tương ứng với \\(f'\\left( x \\right) \\le 0\\). Vậy hàm số \\(y = f\\left( x \\right)\\) đồng biến trên khoảng \\(\\left( {1;3} \\right)\\). Đáp án đúng: C"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 7: Cho hàm số \\(y = f\\left( x \\right)\\) liên tục và có đồ thị trên đoạn \\(\\left[ { - 2;4} \\right]\\) như hình vẽ. Gọi \\(m,n\\) lần lượt là giá trị lớn nhất và nhỏ nhất của hàm số \\(y = f\\left( x \\right)\\) trên đoạn \\(\\left[ { - 2;4} \\right]\\). Tính \\(m - n\\).",
+      "options": [
+        "A. \\(5\\).",
+        "B. \\(3\\).",
+        "C. \\(11\\).",
+        "D. \\( - 2\\)."
+      ],
+      "answer": "C",
+      "note": "Dựa vào đồ thị của hàm số trên đoạn \\(\\left[ { - 2;4} \\right]\\): Điểm cao nhất của đồ thị là điểm có tọa độ \\(\\left( { - 2;7} \\right)\\), suy ra giá trị lớn nhất của hàm số trên đoạn này là: \\(m = \\mathop {\\max }\\limits_{\\left[ { - 2;4} \\right]} f\\left( x \\right) = f\\left( { - 2} \\right) = 7\\). Điểm thấp nhất của đồ thị là điểm có tọa độ \\(\\left( {4; - 4} \\right)\\), suy ra giá trị nhỏ nhất của hàm số trên đoạn này là: \\(n = \\mathop {\\min }\\limits_{\\left[ { - 2;4} \\right]} f\\left( x \\right) = f\\left( 4 \\right) = - 4\\). Vậy \\(m - n = 7 - \\left( { - 4} \\right) = 11\\). Đáp án đúng: C"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 8: Khi điều tra cân nặng của 50 bé trai 6 tuổi ở một địa phương, người ta thống kê được kết quả như sau: Cân nặng (kg) [18; 20) [20; 22) [22; 24) [24; 26) Tần số 6 23 12 9 Khoảng biến thiên của mẫu số liệu ghép nhóm trên bằng:",
+      "options": [
+        "A. \\(8\\).",
+        "B. \\(18\\).",
+        "C. \\(26\\).",
+        "D. \\(2\\)."
+      ],
+      "answer": "A",
+      "note": "Khoảng biến thiên của mẫu số liệu ghép nhóm (ký hiệu là \\(R\\)) được tính bằng hiệu số giữa đầu mút phải của nhóm cuối cùng và đầu mút trái của nhóm đầu tiên: \\(R = 26 - 18 = 8{\\rm{\\;(kg)}}\\). Đáp án đúng: A"
+    }
+  ]
+}

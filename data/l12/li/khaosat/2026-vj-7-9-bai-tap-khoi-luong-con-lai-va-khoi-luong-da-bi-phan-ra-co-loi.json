@@ -1,0 +1,78 @@
+{
+  "id": "2026-vj-7-9-bai-tap-khoi-luong-con-lai-va-khoi-luong-da-bi-phan-ra-co-loi",
+  "sourceId": "vietjack:7-9-bai-tap-khoi-luong-con-lai-va-khoi-l",
+  "grade": "l12",
+  "subjectSlug": "li",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "7.9 bài tập Khối lượng còn lại và khối lượng đã bị phân rã (có lời giải)",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Khối lượng còn lại và khối lượng đã bị phân rã Na24 là một chất phóng xạ \\({\\beta ^ - }\\) có chu kỳ bán rã T = 15 giờ. Một mẫu Na24 nguyên chất ở thời điểm t = 0 có khối lượng m o = 72 g. Sau một khoảng thời gian t, khối lượng của mẫu chất chỉ còn m = 18 g. Thời gian t có giá trị",
+      "options": [
+        "A. 30 giờ.",
+        "B. 45 giờ.",
+        "C. 120 giờ.",
+        "D. 60 giờ."
+      ],
+      "answer": "A",
+      "note": "\\[m = {m_0}{e^{ - \\frac{{\\ln 2}}{T}t}} \\Rightarrow \\frac{{{m_0}}}{m} = {e^{ - \\frac{{\\ln 2}}{T}t}} \\Rightarrow \\frac{{72}}{{18}} = {e^{\\frac{{\\ln 2}}{{15}}t}} \\Rightarrow t = 30\\left( h \\right) \\Rightarrow \\]Chọn A"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 3: Công thức nào dưới đây đúng với nội dung của định luật phóng xạ?",
+      "options": [
+        "A. \\({\\rm{m}} = {{\\rm{m}}_0}{{\\rm{e}}^{\\lambda {\\rm{t}}}}.\\)",
+        "B. \\({\\rm{m}} = {{\\rm{m}}_0}{{\\rm{e}}^{ - \\lambda {\\rm{t}}}}.\\)",
+        "C. \\(m = {m_0}{e^{ - \\frac{\\lambda }{t}}}.\\)",
+        "D. \\({\\rm{m}} = {{\\rm{m}}_0}{{\\rm{e}}^{ - \\frac{{\\rm{t}}}{{\\rm{T}}}}}.\\)"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là B"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 4: Một mẫu phóng xạ có chu kì bán rã là 3 ngày. Sau 9 ngày, khối lượng của mẫu phóng xạ này còn lại là 2 kg. Khối lượng ban đầu của mẫu là bao nhiêu?",
+      "options": [
+        "A. 15 kg.",
+        "B. 16 kg.",
+        "C. 17 kg.",
+        "D. 14 kg."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là B Từ công thức \\({\\rm{m}} = {{\\rm{m}}_0}{2^{ - \\frac{t}{T}}} \\Rightarrow 2 = {m_0}{.2^{ - \\frac{9}{3}}} \\Rightarrow {m_0} = 16\\) kg."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 5: Chu kì bán rã của một mẫu phóng xạ là 6 giờ. Lúc đầu mẫu có khối lượng 2,4.10 -2 kg. Hỏi sau một ngày đêm, khối lượng của mẫu còn lại bằng bao nhiêu?",
+      "options": [
+        "A. 3.10 -3 kg.",
+        "B. 1,5.10 -3 kg.",
+        "C. 2,5.10 -3 kg.",
+        "D. 2,10 -3 kg."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là B Áp dụng công thức \\({\\rm{m}} = {{\\rm{m}}_0}{2^{ - \\frac{t}{T}}} = 2,{4.10^{ - 2}}{.2^{ - \\frac{{24}}{6}}} = 1,{5.10^{ - 4}}kg.\\)"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 6: Sau 3 giờ phóng xạ, số hạt nhân của một mẫu đồng vị phóng xạ chỉ còn 25% số hạt nhân ban đầu. Chu kì bán rã của đồng vị này là",
+      "options": [
+        "A. 1 giờ.",
+        "B. 2 giờ.",
+        "C. 2,5 giờ.",
+        "D. 1,5 giờ."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là D Áp dụng công thức \\(m = {m_0}{.2^{ - \\frac{t}{T}}} \\Rightarrow 0,25{m_0} = {m_0}{.2^{ - \\frac{3}{T}}} \\Rightarrow T = 1,5\\) giờ."
+    }
+  ]
+}

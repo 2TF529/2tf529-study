@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-12-bai-tap-chung-minh-mot-duong-thang-la-tiep-tuyen-cua-duong-t",
+  "sourceId": "vietjack:2-12-bai-tap-chung-minh-mot-duong-thang-",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.12 bài tập Chứng minh một đường thẳng là tiếp tuyến của đường tròn có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho đường tròn (O) và đường thẳng a. Kẻ OH vuông góc với đường thẳng a tại H, biết OH = R khi đó đường thẳng a và đường tròn (O)",
+      "options": [
+        "A. Cắt nhau.",
+        "B. Tiếp xúc.",
+        "C. Không cắt nhau.",
+        "D. Không xác định được."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Theo đề OH ⊥ a tại H và OH = R nên OH tiếp xúc với (O)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Nếu một đường thẳng đi qua một điểm của đường tròn và …. Thì đường thẳng ấy là một tiếp tuyến của đường tròn. Điền vào chỗ chấm.",
+      "options": [
+        "A. song song với bán kính đi qua điểm đó.",
+        "B. đường thẳng cắt đường tròn.",
+        "C. đường thẳng không cắt đường tròn.",
+        "D. đường thẳng vuông góc với đường tròn."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho tam giác ABC có AC = 3 cm, AB = 4 cm, BC = 5 cm. Vẽ đường tròn (C, AC). Khẳng định nào sau đây là đúng?",
+      "options": [
+        "A. BC là tiếp tuyến của (C; CA).",
+        "B. AB là tiếp tuyến của (C; CA).",
+        "C. AB là cát tuyến của đường tròn (C; CA).",
+        "D. Đường thẳng BC cắt đường tròn (C; CA) tại một điểm."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Áp dụng định lí Pythagore đảo, ta có: AC 2 + AB 2 = 3 2 + 4 2 = 25 = 5 2 = BC 2 . Suy ra tam giác ABC vuông tại A hay CA ⊥ AB. Do đó AB là tiếp tuyến của đường tròn (C; CA)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho (O; 4 cm). Đường thẳng d là tiếp tuyến của đường tròn (O; 4 cm), khi đó:",
+      "options": [
+        "A. Khoảng cách từ O đến đường thẳng d bằng 4 cm.",
+        "B. Khoảng cách từ O đến đường thẳng d nhỏ hơn 4 cm.",
+        "C. Khoảng cách từ O đến đường thẳng d lớn hơn 4 cm.",
+        "D. Khoảng cách từ O đến đường thẳng d bằng 5 cm."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Đường thẳng d là tiếp tuyến của đường tròn (O; 4 cm), khi đó khoảng cách từ O đến đường thẳng d bằng 4 cm."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho đường tròn (O; R). Cát tuyến qua A ở ngoài (O) cắt (O) tại B và C. Cho biết AB = BC và kẻ đường kính COD. Tính độ dài đoạn thẳng AD.",
+      "options": [
+        "A. AD = R.",
+        "B. AD = 3R.",
+        "C. AD = \\(\\frac{R}{2}\\).",
+        "D. AD = 2R."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Xét (O) có OB = OC = OD nên BO = \\(\\frac{{DC}}{2}\\) hay ∆BDC vuông tại B suy ra BD ⊥ AC. ∆ABD = ∆CBD nên DA = DC = 2R."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho đường tròn (O; 5 cm). Cát tuyến qua A ở ngoài (O) cắt (O) tại B và C. Cho biết AB = BC và kẻ đường kính \\(\\widehat {COD}\\). Tính độ dài đoạn thẳng AD.",
+      "options": [
+        "A. AD = 2,5 cm.",
+        "B. AD = 10 cm.",
+        "C. AD = 5 cm.",
+        "D. AD = 15 cm."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Xét (O) có OB = OC = OD nên BO = \\(\\frac{{DC}}{2}\\) hay ∆BDC vuông tại B suy ra BD ⊥ AC. ∆ABD = ∆CBD nên DA = DC = 2R = 10 cm."
+    }
+  ]
+}

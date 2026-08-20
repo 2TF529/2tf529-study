@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-de-kiem-tra-toan-12-ket-noi-tri-thuc-chuong-1-co-dap-an",
+  "sourceId": "vietjack:2-de-kiem-tra-toan-12-ket-noi-tri-thuc-c",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "title": "2.Đề kiểm tra Toán 12 Kết nối tri thức Chương 1 có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Phần 1. Trắc nghiệm nhiều phương án lựa chọn Mỗi câu hỏi thí sinh chỉ chọn một phương án. Cho hàm số \\(f\\left( x \\right)\\) có bảng biến thiên như sau: Hàm số đã cho đồng biến trên khoảng nào dưới đây?",
+      "options": [
+        "A. \\(\\left( { - \\infty ; - 1} \\right)\\) .",
+        "B. \\(\\left( { - 1;0} \\right)\\) .",
+        "C. \\(\\left( { - 1;1} \\right)\\) .",
+        "D. \\(\\left( {0;1} \\right)\\) ."
+      ],
+      "answer": "B",
+      "note": "Chọn B Từ bảng biến thiên, ta thấy hàm số đồng biến trên khoảng \\(\\left( { - 1;0} \\right)\\)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Phương trình đường tiệm cận ngang của đồ thị hàm số \\(y = \\frac{{2x + 5}}{{x + 1}}\\) là:",
+      "options": [
+        "A. \\(y = 2\\) .",
+        "B. \\(y = 3\\) .",
+        "C. \\(y = - 1\\) .",
+        "D. \\(x = 1\\) ."
+      ],
+      "answer": "A",
+      "note": "Chọn A Ta có \\(\\mathop {\\lim }\\limits_{x \\to + \\infty } y = 2 \\Rightarrow y = 2\\)là tiệm cận ngang"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho hàm số \\(y = f\\left( x \\right)\\) xác định, liên tục trên \\(\\mathbb{R}\\) và có bảng biến thiên: Khẳng định nào sau đây là khẳng định sai ?",
+      "options": [
+        "A. Hàm số có giá trị cực tiểu bằng \\( - 1\\) .",
+        "B. Hàm số có giá trị nhỏ nhất bằng \\( - 1\\) .",
+        "C. Hàm số có đúng một cực trị.",
+        "D. Hàm số đạt cực đại tại \\(x = 0\\) và đạt cực tiểu tại \\(x = 1\\) ."
+      ],
+      "answer": "D",
+      "note": "Chọn D Dựa vào bảng biến thiên, nhận thấy đạo hàm \\(y'\\) của hàm số chỉ đổi dấu một lần khi \\(x\\) đi qua \\({x_0} = 1\\) nên hàm số chỉ có một cực trị duy nhất, do đó phương án D sai."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hàm số \\(y = f\\left( x \\right)\\) có bảng biến thiên sau: S ố nghiệm phương trình \\(2f\\left( x \\right) - 5 = 0\\) là:",
+      "options": [
+        "A. \\(2\\) .",
+        "B. \\(1\\) .",
+        "C. \\(3\\) .",
+        "D. \\(0\\) ."
+      ],
+      "answer": "B",
+      "note": "Chọn B Ta có: \\[2f\\left( x \\right) - 5 = 0 \\Leftrightarrow f\\left( x \\right) = \\frac{5}{2}\\]. Từ bảng biến thiên của hàm số \\(y = f\\left( x \\right)\\) suy ra số nghiệm phương trình \\(2f\\left( x \\right) - 5 = 0\\) là \\(1\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Đường cong dưới là đồ thị của hàm số nào trong các đáp án A, B, C, D?",
+      "options": [
+        "A. \\(y = - {x^3} + 12x + 2\\) .",
+        "B. \\(y = - {x^4} + 2{x^2} + 1\\) .",
+        "C. \\(y = {x^3} - 3x - 2\\) .",
+        "D. \\(y = {x^3} - 12x + 2\\) ."
+      ],
+      "answer": "D",
+      "note": "Chọn D Đồ thị đã cho là đồ thị hàm bậc 3 có hệ số \\(a > 0\\) (do \\(\\mathop {\\lim }\\limits_{x \\to + \\infty } \\left( {a{x^3} + b{x^2} + cx + d} \\right) = + \\infty \\) nếu \\(a > 0\\) ). Loại A, B. Đồ thị cắt trục tung tại điểm có tung độ dương nên chọn D."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Hàm số \\(y = f\\left( x \\right)\\) xác định và liên tục trên \\(\\left( { - \\infty ; + \\infty } \\right)\\) có bảng biến thiên như hình vẽ sau. Giá trị lớn nhất của \\(y = f\\left( x \\right)\\) trên \\(\\left[ {1;5} \\right]\\) bằng",
+      "options": [
+        "A. \\(2\\) .",
+        "B. \\(4\\) .",
+        "C. \\(3\\) .",
+        "D. \\(1\\) ."
+      ],
+      "answer": "C",
+      "note": "Chọn C Từ bảng biến thiên suy ra giá trị lớn nhất của \\(y = f\\left( x \\right)\\) trên \\(\\left[ {1;5} \\right]\\) bằng \\(3\\)."
+    }
+  ]
+}

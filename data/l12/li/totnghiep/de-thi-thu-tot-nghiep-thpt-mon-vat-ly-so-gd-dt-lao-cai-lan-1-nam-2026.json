@@ -1,0 +1,286 @@
+{
+  "id": "l12-li-totnghiep-2026-de-thi-thu-tot-nghiep-thpt-mon-vat-ly-so-gd-dt-lao-cai-lan-1-nam-2026",
+  "grade": "l12",
+  "subjectSlug": "li",
+  "examType": "totnghiep",
+  "year": 2026,
+  "code": "THPT_TTL_LC_2026_01",
+  "title": "Đề thi thử tốt nghiệp THPT môn Vật Lý Sở GD&ĐT Lào Cai lần 1 năm 2026",
+  "duration": 50,
+  "answerSource": "official",
+  "source": "https://dolthpt.vn/tot-nghiep-thpt/pdf-de-thi-thu-tot-nghiep-thpt-mon-vat-ly-so-gd-dt-lao-cai-lan-1-nam-2026-co-dap-an",
+  "notes": "Nội dung, đáp án và lời giải được nhập từ bản công khai của DOL THPT.",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "content": "Xét một khối khí xác định. Gọi $p$ là áp suất của khí, $\\mu$ là mật độ phân tử khí, $m$ là khối lượng của phân tử khí, $\\overline{v^2}$ là trung bình của bình phương tốc độ các phân tử khí. Công thức nào sau đây mô tả đúng mối liên hệ giữa các đại lượng đã nêu?",
+      "chuong": "khí lí tưởng",
+      "dang": "lý thuyết: áp suất khí theo mô hình động học phân tử. quan hệ giữa động năng phân tử và nhiệt độ",
+      "type": "single",
+      "options": [
+        "A. $p = \\frac{2}{3}\\mu m\\overline{v^2}$",
+        "B. $p = \\frac{1}{3}\\mu m\\overline{v^2}$",
+        "C. $p = 3\\mu m\\overline{v^2}$",
+        "D. $p = \\frac{3}{2}\\mu m\\overline{v^2}$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Áp suất là lực trên đơn vị diện tích do các phân tử va chạm thành bình gây ra; lực bằng tần suất thay đổi động lượng của các phân tử va chạm lên thành.\n- Xét thành bình vuông góc với trục x. Khi một phân tử có thành phần vận tốc theo x là $v_x$ va chạm đàn hồi với thành, độ thay đổi động lượng theo x là $\\Delta p_x = 2 m v_x$.\n- Số phân tử có thành phần vận tốc dương và vượt qua một đơn vị diện tích trong một đơn vị thời gian tỉ lệ với $\\mu v_x/2$ (chỉ tính những phân tử đi về phía thành). Nhân với $\\Delta p_x$ và tích phân theo phân bố vận tốc cho ta áp suất:\n$p = \\mu m \\overline{v_x^2}.$\n- Do tính đẳng hướng của chuyển động (các phương x, y, z tương đương), bình phương vận tốc theo mỗi phương bằng một phần ba của bình phương vận tốc toàn phần:\n$\\overline{v_x^2} = \\frac{1}{3}\\,\\overline{v^2}.$\n- Thay vào biểu thức cho p ta được:\n$p = \\mu m \\overline{v_x^2} = \\mu m \\cdot \\frac{1}{3}\\,\\overline{v^2} = \\frac{1}{3}\\,\\mu m\\,\\overline{v^2}.$\n✅ **Đáp án:** B. $p = \\frac{1}{3}\\mu m\\overline{v^2}$"
+    },
+    {
+      "id": 2,
+      "content": "Thực nghiệm cho thấy, nước (thể lỏng), nước đá (thể rắn) và hơi nước (thể khí) có thể tồn tại đồng thời ở một trạng thái có nhiệt độ \\$0,01^\\circ\\text{C}$ và áp suất khoảng \\$612\\text{ Pa}$ như hình bên. Điểm B gọi là điểm ba của nước. Một học sinh phát biểu các nội dung sau:- Từ điểm ba, giữ nguyên nhiệt độ và tăng áp suất thì toàn bộ hệ chuyển sang thể lỏng.- Từ điểm ba, giữ nguyên áp suất và tăng nhiệt độ thì toàn bộ hệ chuyển sang thể khí.- Điểm ba của nước có nhiệt độ \\$273,16\\text{ K}$ và áp suất \\$1\\text{ atm}$.- Từ điểm ba, giữ nguyên áp suất và giảm nhiệt độ thì toàn bộ hệ chuyển sang thể rắn.Số phát biểu đúng là\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tot-nghiep-thpt-mon-vat-ly-so-gd-dt-lao-cai-lan-1-nam-2026/cau-02.webp\" alt=\"Hình minh họa câu 2\" loading=\"lazy\"></figure>",
+      "chuong": "vật lí nhiệt",
+      "dang": "đồ thị: cấu trúc của chất. sự chuyển thể",
+      "type": "single",
+      "options": [
+        "A. 1",
+        "B. 3",
+        "C. 4",
+        "D. 2"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Bình A: \\$5$ lít nước ở \\$70^{\\circ}C$.\n- Bình B: \\$3$ lít nước ở \\$25^{\\circ}C$.\n- Lần 1: rót \\$2$ lít từ A sang B.\n- Sau cân bằng, lần 2: rót \\$2$ lít từ B sang A.\n- Khối lượng riêng nước: \\$1000\\ kg/m^3$ (tức là \\$1\\ \\text{lít} = 1\\ \\text{kg}$).\n- Các bình cách nhiệt (không trao đổi nhiệt với môi trường).\n❓ **Hiểu câu hỏi:**\n- Câu hỏi: *Tìm nhiệt độ cuối cùng của nước trong bình A (độ C), làm tròn đến chữ số hàng đơn vị.*\n- Cần áp dụng: **bảo toàn năng lượng (nhiệt)** khi trộn nước, và hiểu rằng khối lượng nước tính theo lít = kg.\n🔎 **Hướng dẫn cách làm:**\n- Sau lần rót thứ nhất, trong A còn \\$5-2=3$ lít nước vẫn ở \\$70^{\\circ}C$ (loại bỏ khối lượng nóng không làm thay đổi nhiệt độ còn lại trong bình A ngay lập tức).\n- Bình B nhận \\$2$ lít ở \\$70^{\\circ}C$ trộn với \\$3$ lít ở \\$25^{\\circ}C$. Nhiệt độ cân bằng của B là:\n$T_{B1}=\\frac{2\\cdot70+3\\cdot25}{2+}3}=\\frac{140+75}{5}=\\frac{215}{5}=43^{\\circ}C.$\n- Sau đó rót \\$2$ lít từ B (ở \\$43^{\\circ}C$) về A. Khi đó A có \\$3$ lít ở \\$70^{\\circ}C$ trộn với \\$2$ lít ở \\$43^{\\circ}C$. Nhiệt độ cuối cùng của A là:\n$T_A=\\frac{3\\cdot70+2\\cdot43}{3+}2}=\\frac{210+86}{5}=\\frac{296}{5}=59.2^{\\circ}C.$\n- Làm tròn đến chữ số hàng đơn vị: \\$59^{\\circ}C.$\n✅ **Đáp án:** 59°C"
+    },
+    {
+      "id": 3,
+      "content": "Theo phương trình trạng thái của khí lí tưởng, tích của áp suất $p$ và thể tích $V$ của một khối lượng khí lí tưởng xác định",
+      "chuong": "khí lí tưởng",
+      "dang": "lý thuyết: phương trình trạng thái khí lí tưởng",
+      "type": "single",
+      "options": [
+        "A. tỉ lệ nghịch với nhiệt độ Celsius.",
+        "B. tỉ lệ thuận với nhiệt độ Celsius.",
+        "C. tỉ lệ nghịch với nhiệt độ tuyệt đối.",
+        "D. tỉ lệ thuận với nhiệt độ tuyệt đối."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Viết phương trình trạng thái của khí lí tưởng:\n$pV = nRT$\ntrong đó $n$ là số mol khí (khối lượng cố định ⇒ $n$ không đổi), $R$ là hằng số khí, $T$ là nhiệt độ tuyệt đối (Kelvin).\n- Do $n$ và $R$ là hằng số với khối lượng khí cố định, ta có:\n$pV = nR\\,T \\quad\\Rightarrow\\quad pV \\propto T.$\nVậy tích $pV$ tỉ lệ thuận với nhiệt độ $T$ ở đơn vị tuyệt đối (Kelvin).\n- Lưu ý về độ C: nhiệt độ tuyệt đối liên hệ với độ C bằng\n$T(K)=t(^{\\circ}C)+273{.}15.$\nDo có hằng số cộng nên $pV$ không tỉ lệ thuận với nhiệt độ theo °C (không có tính chất tỉ lệ thuần túy).\n- Kiểm tra nhanh bằng ví dụ số: nếu $nR=1$, khi $T=273\\ \\text{K}$ (0°C) thì $pV=273$; khi $T=546\\ \\text{K}$ (273°C) thì $pV=546$ — tăng gấp 2 khi $T$ tăng gấp 2 (theo Kelvin), chứng tỏ tỉ lệ thuận với nhiệt độ tuyệt đối.\n✅ **Đáp án:** D. tỉ lệ thuận với nhiệt độ tuyệt đối."
+    },
+    {
+      "id": 4,
+      "content": "Các khí có bản chất khác nhau, khối lượng khác nhau nhưng ...(1)... như nhau thì động năng trung bình của các phân tử ...(2).... Điền vào chỗ trống các cụm từ thích hợp.",
+      "chuong": "khí lí tưởng",
+      "dang": "lý thuyết: áp suất khí theo mô hình động học phân tử. quan hệ giữa động năng phân tử và nhiệt độ",
+      "type": "single",
+      "options": [
+        "A. (1) nhiệt độ; (2) khác nhau.",
+        "B. (1) nhiệt độ; (2) bằng nhau.",
+        "C. (1) mật độ phân tử; (2) khác nhau.",
+        "D. (1) áp suất; (2) khác nhau."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Định nghĩa động năng trung bình của một phân tử: $\\overline{E_k}=\\tfrac{1}{2}m\\overline{v^2}$ trong đó $m$ là khối lượng phân tử, $\\overline{v^2}$ là vận tốc bình phương trung bình.\n- Theo thuyết động học chất khí (khí lí tưởng), động năng trung bình của một phân tử chỉ phụ thuộc vào nhiệt độ tuyệt đối $T$: $\\overline{E_k}=\\tfrac{3}{2}kT$ với $k$ là hằng số Boltzmann.\n- Từ hai công thức trên ta thấy dù $m$ khác nhau, nếu $T$ bằng nhau thì $\\tfrac{1}{2}m\\overline{v^2}=\\tfrac{3}{2}kT\\ \\Rightarrow\\ \\overline{E_k}\\ \\text{chỉ phụ thuộc vào}\\ T.$\n- Nghĩa là: cùng một nhiệt độ $T$ -> cùng giá trị động năng trung bình của phân tử, còn vận tốc trung bình bậc hai $\\overline{v^2}$ sẽ khác để bù cho sự khác nhau của $m$. Ví dụ: ở cùng $T=300\\ \\text{K}$, cả He và O2 đều có cùng $\\overline{E_k}=\\tfrac{3}{2}kT\\approx 6{,}2\\times 10^{-21}\\ \\text{J}$ nhưng He (nhẹ) có vận tốc trung bình lớn hơn O2 (nặng).\n- Lưu ý: kết luận đúng trong khung thuyết khí lí tưởng (mô hình được dạy ở chương trình THPT).\n✅ **Đáp án:** B. (1) nhiệt độ; (2) bằng nhau."
+    },
+    {
+      "id": 5,
+      "content": "Hình nào sau đây biểu diễn không đúng vector lực từ tác dụng lên đoạn dây dẫn mang dòng điện đặt trong từ trường?\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tot-nghiep-thpt-mon-vat-ly-so-gd-dt-lao-cai-lan-1-nam-2026/cau-05.webp\" alt=\"Hình minh họa câu 5\" loading=\"lazy\"></figure>",
+      "chuong": "từ trường",
+      "dang": "lý thuyết: lực từ. cảm ứng từ",
+      "type": "single",
+      "options": [
+        "A. Hình 4.",
+        "B. Hình 2.",
+        "C. Hình 3.",
+        "D. Hình 1."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Hình 1: - Từ hình: từ trường hướng vào trong trang (ký hiệu ⊗), dòng điện đi chếch từ dưới trái lên trên phải.\n  - Áp dụng quy tắc tay phải (ngón cái theo I, ngón trỏ vào trong trang) → lòng bàn tay hướng về trên và trái.\n  - Kết luận: lực hướng lên trái, khớp với mũi tên vec(F) trên Hình 1 → Hình 1 **đúng**.\n- Hình 2: - Từ hình: từ trường hướng sang phải, dòng điện vào trong trang (⊗).\n  - Quy tắc tay phải: ngón cái vào trong trang, ngón trỏ sang phải → lòng bàn tay chỉ xuống.\n  - Kết luận: lực hướng xuống, khớp với vec(F) trên Hình 2 → Hình 2 **đúng**.\n- Hình 3: - Từ hình: dòng điện và từ trường đều cùng hướng sang phải (song song).\n  - Công thức $\\vec{F}=I\\,\\vec{l}\\times\\vec{B}$ cho biết tích có hướng bằng không khi hai vectơ song song ⇒ $\\vec{F}=\\vec{0}$ (không có lực từ).\n  - Trên hình vẽ lại có một mũi tên vec(F) hướng lên (không bằng 0) → mâu thuẫn với lý thuyết.\n  - Kết luận: Hình 3 **sai** (vì vẽ lực khi thực tế lực phải bằng 0).\n- Hình 4: - Từ hình: từ trường hướng thẳng xuống, dòng điện đi chếch từ trên trái xuống dưới phải.\n  - Áp dụng quy tắc tay phải (ngón cái theo I, ngón trỏ theo B xuống) → hướng lực có thành phần trông giống hướng xuống theo cách trình bày ở hình (theo trực quan quy tắc tay phải).\n  - Kết luận: Hình 4 được vẽ phù hợp với quy tắc tay phải trong mô tả → Hình 4 **đúng**.\n✅ **Đáp án:** C. Hình 3."
+    },
+    {
+      "id": 6,
+      "content": "Trong sơ đồ như hình vẽ bên, nếu đặt một kim nam châm thử tại điểm O thì cực Nam của kim nam châm chỉ về phía\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tot-nghiep-thpt-mon-vat-ly-so-gd-dt-lao-cai-lan-1-nam-2026/cau-06.webp\" alt=\"Hình minh họa câu 6\" loading=\"lazy\"></figure>",
+      "chuong": "từ trường",
+      "dang": "lý thuyết: từ trường",
+      "type": "single",
+      "options": [
+        "A. điểm T.",
+        "B. điểm N.",
+        "C. điểm Đ.",
+        "D. điểm B."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Bình A: \\$5$ lít nước ở \\$70^{\\circ}C$.\n- Bình B: \\$3$ lít nước ở \\$25^{\\circ}C$.\n- Lần 1: rót \\$2$ lít từ A sang B.\n- Sau cân bằng, lần 2: rót \\$2$ lít từ B sang A.\n- Khối lượng riêng nước: \\$1000\\ kg/m^3$ (tức là \\$1\\ \\text{lít} = 1\\ \\text{kg}$).\n- Các bình cách nhiệt (không trao đổi nhiệt với môi trường).\n❓ **Hiểu câu hỏi:**\n- Câu hỏi: *Tìm nhiệt độ cuối cùng của nước trong bình A (độ C), làm tròn đến chữ số hàng đơn vị.*\n- Cần áp dụng: **bảo toàn năng lượng (nhiệt)** khi trộn nước, và hiểu rằng khối lượng nước tính theo lít = kg.\n🔎 **Hướng dẫn cách làm:**\n- Sau lần rót thứ nhất, trong A còn \\$5-2=3$ lít nước vẫn ở \\$70^{\\circ}C$ (loại bỏ khối lượng nóng không làm thay đổi nhiệt độ còn lại trong bình A ngay lập tức).\n- Bình B nhận \\$2$ lít ở \\$70^{\\circ}C$ trộn với \\$3$ lít ở \\$25^{\\circ}C$. Nhiệt độ cân bằng của B là:\n$T_{B1}=\\frac{2\\cdot70+3\\cdot25}{2+}3}=\\frac{140+75}{5}=\\frac{215}{5}=43^{\\circ}C.$\n- Sau đó rót \\$2$ lít từ B (ở \\$43^{\\circ}C$) về A. Khi đó A có \\$3$ lít ở \\$70^{\\circ}C$ trộn với \\$2$ lít ở \\$43^{\\circ}C$. Nhiệt độ cuối cùng của A là:\n$T_A=\\frac{3\\cdot70+2\\cdot43}{3+}2}=\\frac{210+86}{5}=\\frac{296}{5}=59.2^{\\circ}C.$\n- Làm tròn đến chữ số hàng đơn vị: \\$59^{\\circ}C.$\n✅ **Đáp án:** 59°C"
+    },
+    {
+      "id": 7,
+      "content": "Chuyển động Brown chứng tỏ các phân tử chất khí",
+      "chuong": "khí lí tưởng",
+      "dang": "lý thuyết: thuyết động học phân tử chất khí",
+      "type": "single",
+      "options": [
+        "A. chuyển động qua lại quanh một vị trí cân bằng.",
+        "B. đứng yên, không chuyển động.",
+        "C. chuyển động hỗn loạn, không ngừng.",
+        "D. chuyển động theo một đường thẳng xác định."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Nhắc lại hiện tượng: Chuyển động Brown là chuyển động giật giật, không theo quy luật của các hạt nhỏ (ví dụ hạt phấn hoa) khi quan sát dưới kính hiển vi.\n- Giải thích theo thuyết động học: - Các phân tử khí (hoặc chất lỏng) luôn chuyển động nhiệt độ > 0 K và va chạm lẫn nhau.\n  - Khi một phân tử khí va chạm với hạt nhỏ (hạt phấn), các va chạm không cân bằng theo thời gian làm hạt nhỏ chuyển động một cách ngẫu nhiên.\n- So sánh với các phương án sai: - A (chuyển động qua lại quanh vị trí cân bằng): thường mô tả dao động của phần tử liên kết trong chất rắn hoặc con lắc, không giống chuyển động Brown vốn ngẫu nhiên và không có vị trí cân bằng xác định.\n  - B (đứng yên): mâu thuẫn với quan sát thực nghiệm (hạt dao động liên tục).\n  - D (theo một đường thẳng xác định): chỉ đúng cho chuyển động của một phân tử giữa hai va chạm trong không gian trống, nhưng tổng hợp các va chạm liên tiếp tạo ra chuyển động ngẫu nhiên chứ không theo đường thẳng dài hạn.\n- Kết luận: hiện tượng Brown là bằng chứng rằng phân tử không đứng yên mà luôn chuyển động một cách hỗn loạn, không ngừng do va chạm nhiệt động học.\n✅ **Đáp án:**  C. chuyển động hỗn loạn, không ngừng."
+    },
+    {
+      "id": 8,
+      "content": "Ở những ngày rất lạnh, nhiều khu vực ở nước ta như Sa Pa, Y Tý,... nước có thể bị đóng băng. Hiện tượng này thể hiện sự chuyển thể nào của chất?",
+      "chuong": "vật lí nhiệt",
+      "dang": "lý thuyết: cấu trúc của chất. sự chuyển thể",
+      "type": "single",
+      "options": [
+        "A. Ngưng tụ.",
+        "B. Nóng chảy.",
+        "C. Đông đặc.",
+        "D. Hóa hơi."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Xác định trạng thái ban đầu và trạng thái sau cùng: nước (lỏng) → băng (rắn).\n- Định nghĩa: quá trình chuyển từ trạng thái lỏng sang trạng thái rắn gọi là **đông đặc** (hay còn gọi là sự đông kết/đông đá).\n- Giải thích ngắn: khi nhiệt độ giảm xuống dưới nhiệt độ đông của nước (khoảng 0°C dưới áp suất khí quyển), các phân tử mất động năng, sắp xếp thành mạng tinh thể rắn, và quá trình này giải phóng nhiệt ẩn (nhiệt nóng chảy). Hàm lượng nhiệt tỏa ra có thể biểu diễn bằng công thức:\n$Q = mL_f$\ntrong đó $Q$ là nhiệt lượng tỏa ra, $m$ là khối lượng, $L_f$ là nhiệt nóng chảy (latent heat of fusion).\n- Đối chiếu với các đáp án sai: - **Ngưng tụ** là khí → lỏng (không đúng).\n  - **Nóng chảy** là rắn → lỏng (ngược lại).\n  - **Hóa hơi** là lỏng → khí (không đúng).\n✅ **Đáp án:** C. Đông đặc."
+    },
+    {
+      "id": 9,
+      "content": "Vào mùa hè, nước trong hồ thường lạnh hơn không khí. Ví dụ, nước trong hồ bơi có thể ở \\$22^\\circ\\text{C}$ trong khi nhiệt độ không khí là \\$25^\\circ\\text{C}$. Mặc dù không khí ấm hơn nhưng bạn vẫn cảm thấy lạnh khi ra khỏi nước. Điều này được giải thích là do:",
+      "chuong": "vật lí nhiệt",
+      "dang": "lý thuyết: cấu trúc của chất. sự chuyển thể",
+      "type": "single",
+      "options": [
+        "A. Nước trên da bạn đã bay hơi.",
+        "B. Nước cách nhiệt tốt hơn không khí.",
+        "C. Hơi nước trong không khí bị ngưng tụ trên da bạn.",
+        "D. Trong không khí có hơi nước."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Khi nước trên da bay hơi, quá trình bay hơi cần năng lượng để chuyển pha từ lỏng sang hơi; năng lượng này lấy từ da và môi trường xung quanh, làm giảm nhiệt độ da => cảm thấy lạnh.\n- Công thức cho nhiệt cần để bay hơi một khối lượng nước m là:  với $L_v$ là nhiệt hóa hơi riêng của nước (xấp xỉ \\$2{,}5\\times10^{6}\\ \\text{J/kg}$).\n- So sánh với năng lượng cần để làm ấm cùng khối lượng nước một vài độ:  với $c\\approx 4200\\ \\text{J/(kg·K)}$.\n- Ví dụ minh họa đơn giản: giả sử có $m=0{,}01\\ \\text{kg}$ (10 g) nước trên da. - Năng lượng hút khi bay hơi toàn bộ 10 g là\n  - Năng lượng cần để làm ấm 10 g nước từ \\$22^\\circ\\text{C}$ lên \\$25^\\circ\\text{C}$ là\n  - So sánh cho thấy năng lượng do bay hơi lấy đi (≈25000 J) lớn hơn rất nhiều so với năng lượng chỉ để tăng nhiệt vài độ; do đó bay hơi làm da mất nhiều nhiệt và bạn cảm thấy lạnh.\n- Giải thích vì sao các phương án sai không hợp lý: - (B) Nước cách nhiệt tốt hơn không khí: không đúng trong ngữ cảnh này — nếu nước giữ nhiệt thì khi ra khỏi nước bạn không bị lạnh hơn; thực tế hiệu ứng là do bay hơi.\n  - (C) Hơi nước ngưng tụ trên da: ngưng tụ giải phóng nhiệt, làm ấm da, không làm lạnh.\n  - (D) Trong không khí có hơi nước: sự có mặt của hơi nước không giải thích hiện tượng cảm thấy lạnh; chính bay hơi từ da mới làm lạnh.\n✅ **Đáp án:** A. Nước trên da bạn đã bay hơi."
+    },
+    {
+      "id": 10,
+      "content": "Trên đồ thị $p - T$ biểu diễn hai trạng thái (1) và (2) của cùng một khối lượng khí xác định. Gọi thể tích của các trạng thái (1), (2) lần lượt là $V_1$, $V_2$ (Hình vẽ bên). Thông tin nào sau đây là đúng?\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tot-nghiep-thpt-mon-vat-ly-so-gd-dt-lao-cai-lan-1-nam-2026/cau-10.webp\" alt=\"Hình minh họa câu 10\" loading=\"lazy\"></figure>",
+      "chuong": "khí lí tưởng",
+      "dang": "đồ thị: phương trình trạng thái khí lí tưởng",
+      "type": "single",
+      "options": [
+        "A. $V_1 = V_2$",
+        "B. $V_1 < V_2$",
+        "C. $V_1 > V_2$",
+        "D. $V_1 \\le V_2$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Phương trình trạng thái khí lí tưởng: $pV = nRT$.\n- Với cùng một khối lượng khí, $n$ và $R$ không đổi; trên đồ thị hai trạng thái cùng áp ⇒ $p$ không đổi.\n- Từ đó: $V=\\dfrac{nRT}{p}$, khi $n,R,p$ cố định thì $V \\propto T$ (thể tích tỉ lệ thuận với nhiệt độ tuyệt đối).\n- Vì trên hình $T_2 > T_1$ nên tương ứng $V_2 > V_1$.\n- Suy ra quan hệ đúng là $V_1 < V_2$.\n✅ **Đáp án:** B. $V_1 < V_2$"
+    },
+    {
+      "id": 11,
+      "content": "Phát biểu nào sau đây sai?",
+      "chuong": "vật lí nhiệt",
+      "dang": "lý thuyết: cấu trúc của chất. sự chuyển thể",
+      "type": "single",
+      "options": [
+        "A. Nhiệt độ sôi không phụ thuộc vào áp suất trên bề mặt chất lỏng.",
+        "B. Sự sôi là quá trình hóa hơi xảy ra cả ở mặt thoáng và trong lòng khối chất lỏng.",
+        "C. Tốc độ bay hơi phụ thuộc nhiệt độ, diện tích mặt thoáng, áp suất và bản chất của chất lỏng.",
+        "D. Sự bay hơi là quá trình hóa hơi xảy ra ở mặt thoáng của chất lỏng."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Hiểu định nghĩa: *sôi* xảy ra khi áp suất hơi bão hòa của chất lỏng bằng với áp suất ngoài (áp suất trên bề mặt). Ta viết điều kiện này dưới dạng:\n$p_{\\text{hơi}} = p_{\\text{ngoài}}.$\n- Do đó, *nhiệt độ sôi* là nhiệt độ tại đó áp suất hơi bão hòa đạt bằng áp suất ngoài. Nếu áp suất ngoài thay đổi thì nhiệt độ cần để đạt được áp suất hơi ấy cũng thay đổi ⇒ *nhiệt độ sôi phụ thuộc vào áp suất ngoài*.\n- Ví dụ, quan sát thực tế: - Ở áp suất khí quyển chuẩn (1 atm), nước sôi ở 100°C.\n  - Ở cao nguyên, áp suất khí quyển nhỏ hơn, nước sôi ở nhiệt độ thấp hơn 100°C (ví dụ ~90°C tùy độ cao).\n  - Trong nồi áp suất, áp suất trong nồi lớn hơn 1 atm, nên nước sôi ở nhiệt độ cao hơn 100°C, giúp nấu chín nhanh hơn.\n- Nhận xét các phương án: - B đúng: sôi có thể xảy ra cả ở mặt thoáng và trong lòng chất lỏng (sủi bọt).\n  - C đúng: tốc độ bay hơi phụ thuộc các yếu tố nêu.\n  - D đúng: bay hơi là quá trình hóa hơi chỉ xảy ra ở mặt thoáng.\n  - A khẳng định ngược lại với định nghĩa và thực nghiệm (nói rằng nhiệt độ sôi không phụ thuộc vào áp suất ngoài) ⇒ A là phát biểu **sai**.\n✅ **Đáp án:** A. Nhiệt độ sôi không phụ thuộc vào áp suất trên bề mặt chất lỏng."
+    },
+    {
+      "id": 12,
+      "content": "Ở Việt Nam, người ta xây dựng đường dây tải điện \\$500\\text{ kV}$ để truyền tải điện năng nhằm mục đích",
+      "chuong": "từ trường",
+      "dang": "thực tế: ứng dụng hiện tượng cảm ứng điện từ",
+      "type": "single",
+      "options": [
+        "A. giảm công suất nhà máy điện.",
+        "B. tăng cường độ dòng điện chạy trên dây tải.",
+        "C. tăng công suất nhà máy điện.",
+        "D. giảm hao phí điện năng do toả nhiệt trên dây tải."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Công thức tổn hao công suất do tỏa nhiệt trên dây dẫn (định luật Joule):\n$P_{\\text{loss}} = I^2 R$\ntrong đó $I$ là cường độ dòng điện qua dây, $R$ là điện trở của dây.\n- Công suất đang truyền (xấp xỉ) liên hệ với điện áp và dòng điện:\n$P = V\\cdot I$\n(với cùng công suất truyền P, nếu tăng điện áp V thì cường độ dòng I giảm).\n- Từ $I=\\dfrac{P}{V}$ thay vào công thức tổn hao:\n$P_{\\text{loss}} = \\left(\\dfrac{P}{V}\\right)^2 R=\\dfrac{P^2 R}{V^2}.$\nNhư vậy tổn hao tỉ lệ nghịch với bình phương điện áp: tăng điện áp sẽ làm giảm tổn hao rất nhiều.\n- Ví dụ minh hoạ (dễ hiểu): Giả sử cần truyền một công suất cố định $P=100\\ \\text{MW}$ qua hai đường dây: 110 kV và 500 kV. Dòng điện tương ứng là\n$I_{110}=\\dfrac{100\\times10^6}{110\\times10^3}\\approx909\\ \\text{A},\\quad I_{500}=\\dfrac{100\\times10^6}{500\\times10^3}=200\\ \\text{A}.$\nTổn hao tỉ lệ với $I^2$ nên tỉ số tổn hao xấp xỉ\n$\\left(\\dfrac{I_{500}}{I_{110}}\\right)^2=\\left(\\dfrac{200}{909}\\right)^2\\approx0{.}048,$\ntức là tổn hao ở 500 kV chỉ khoảng 4,8% so với ở 110 kV — giảm rất nhiều.\n- Kết luận logic: Mục tiêu của đường dây cao áp như 500 kV là giảm cường độ dòng điện cần thiết để truyền một công suất cho trước, từ đó giảm tổn hao trên dây (tỏa nhiệt). Nó không làm giảm công suất nhà máy (A, C sai) và cũng không làm tăng cường độ dòng chạy trên dây (B sai).\n✅ **Đáp án:** D. giảm hao phí điện năng do toả nhiệt trên dây tải."
+    },
+    {
+      "id": 13,
+      "content": "Đường sức từ có dạng là đường thẳng, song song, cùng chiều cách đều nhau xuất hiện",
+      "chuong": "từ trường",
+      "dang": "lý thuyết: từ trường",
+      "type": "single",
+      "options": [
+        "A. xung quanh thanh nam châm thẳng.",
+        "B. xung quanh dòng điện thẳng.",
+        "C. xung quanh dòng điện tròn.",
+        "D. trong lòng của nam châm chữ U."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Nhận xét về tính chất \"thẳng, song song, cùng chiều, cách đều nhau\": - Những đặc điểm này miêu tả *một từ trường đều* trong vùng quan sát — vectơ cảm ứng từ cùng phương, cùng chiều và có độ lớn không đổi.\n- Xét từng phương án: - A (xung quanh thanh nam châm thẳng): đường sức từ đi ra từ cực Bắc rồi cong ra ngoài và vào cực Nam; ngoài vùng giữa hai cực chúng không thẳng song song đều — nên không phải.\n  - B (xung quanh dòng điện thẳng): đường sức từ là các đường tròn đồng tâm quanh dây dẫn (theo quy tắc nắm bàn tay phải), không phải đường thẳng song song — nên không phải.\n  - C (xung quanh dòng điện tròn): đường sức từ cũng là các đường cong (vòng tròn hoặc dạng vòng), không thẳng song song — nên không phải.\n  - D (trong lòng của nam châm chữ U): giữa hai cực gần nhau của nam châm chữ U (mũ chữ U) xuất hiện một vùng giữa hai cực có từ trường xấp xỉ đều — trong vùng đó đường sức từ gần như thẳng, song song, cùng chiều và cách đều nhau. Do đó phù hợp với mô tả.\n- Kết luận logic: chỉ phương án D mô tả đúng nơi xuất hiện các đường sức có tính chất nêu trên.\n✅ **Đáp án:** D. trong lòng của nam châm chữ U."
+    },
+    {
+      "id": 14,
+      "content": "Dùng một ampe kế nhiệt để đo cường độ dòng điện trong một mạch điện xoay chiều. Số chỉ của ampe kế cho biết",
+      "chuong": "từ trường",
+      "dang": "lý thuyết: máy phát điện xoay chiều",
+      "type": "single",
+      "options": [
+        "A. cường độ dòng điện tức thời trong mạch.",
+        "B. cường độ dòng điện cực đại trong mạch.",
+        "C. cường độ dòng điện hiệu dụng trong mạch.",
+        "D. cường độ dòng điện trung bình trong mạch."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- số chỉ của ampe kế nhiệt cho biết cường độ hiệu dụng của dòng xoay chiều.\n✅ **Đáp án:** C. cường độ dòng điện hiệu dụng trong mạch."
+    },
+    {
+      "id": 15,
+      "content": "Hệ thức $\\Delta U = A + Q$ khi $Q > 0$ và $A < 0$ mô tả quá trình",
+      "chuong": "vật lí nhiệt",
+      "dang": "lý thuyết: nội năng. định luật i nhiệt động lực học",
+      "type": "single",
+      "options": [
+        "A. hệ nhận nhiệt và nhận công.",
+        "B. hệ truyền nhiệt và nhận công.",
+        "C. hệ nhận nhiệt và sinh công.",
+        "D. hệ truyền nhiệt và sinh công."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Theo định nghĩa, phương trình tổng quát của cân bằng năng lượng có dạng $\\Delta U = Q + A$ ở đây viết là $\\Delta U = A + Q$ — tức là tổng nhiệt nhận vào và công nhận vào làm thay đổi nội năng. Do đó ở công thức này, khi $A>0$ thì đó là công do ngoại lực thực hiện cho hệ (hệ nhận công); khi $A<0$ thì công đó âm nghĩa là hệ thực hiện công ra ngoài (hệ sinh công).\n- Vì đề cho $Q>0$ nên hệ *nhận nhiệt* (hấp thụ nhiệt từ môi trường).\n- Vì đề cho $A<0$ nên công theo quy ước trong phương trình là âm → hệ không nhận công mà ngược lại *sinh công* (công do hệ sinh ra ra môi trường).\n- Kết hợp hai kết luận trên: hệ vừa nhận nhiệt, vừa sinh công. Ví dụ minh họa: chất khí trong xi-lanh được cung cấp nhiệt ($Q>0$), nở ra và đẩy pittông sinh công (công do hệ thực hiện ⇒ $A<0$ theo quy ước công cho hệ).\n✅ **Đáp án:** C. hệ nhận nhiệt và sinh công."
+    },
+    {
+      "id": 16,
+      "content": "Các tương tác sau đây, tương tác không phải tương tác từ là tương tác giữa",
+      "chuong": "từ trường",
+      "dang": "lý thuyết: từ trường",
+      "type": "single",
+      "options": [
+        "A. nam châm và dòng điện đứng yên.",
+        "B. hai dây dẫn mang dòng điện đứng yên.",
+        "C. hai điện tích đứng yên.",
+        "D. hai nam châm đứng yên."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Áp dụng cho từng phương án: - Hai điện tích đứng yên: tạo lực Coulomb (điện), không phải lực từ → không phải tương tác từ.\n  - Hai dây dẫn có dòng điện (đứng yên về vị trí nhưng có dòng): tạo từ trường và tương tác từ.\n  - Hai nam châm đứng yên: tương tác do từ trường giữa hai nam châm → tương tác từ.\n  - Nam châm và dòng điện: tương tác từ (tương tác giữa từ trường và dòng điện).\n- Kết luận: phương án mô tả \"hai điện tích đứng yên\" là phương án duy nhất là tương tác không phải tương tác từ.\n✅ **Đáp án:** C. hai điện tích đứng yên."
+    },
+    {
+      "id": 17,
+      "content": "Một khối khí lí tưởng xác định có áp suất bằng áp suất khí quyển. Nếu giữ nhiệt độ của khối khí đó không đổi và làm cho áp suất của nó bằng hai lần áp suất khí quyển thì thể tích của khối khí",
+      "chuong": "khí lí tưởng",
+      "dang": "bài tập: định luật boyle",
+      "type": "single",
+      "options": [
+        "A. bằng một nửa giá trị ban đầu.",
+        "B. bằng bốn lần giá trị ban đầu.",
+        "C. bằng hai lần giá trị ban đầu.",
+        "D. bằng giá trị ban đầu."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Định luật Boi-lơ (cho quá trình đẳng nhiệt với lượng khí không đổi) phát biểu: $P_1V_1 = P_2V_2.$\n- Gọi $P_1$ và $V_1$ là áp suất và thể tích ban đầu; $P_2$ và $V_2$ là sau khi thay đổi.\n- Theo đề bài, $P_2 = 2P_1.$\n- Thay vào phương trình Boi-lơ: $P_1V_1 = (2P_1)V_2.$\n- Rút gọn theo $P_1$ (không bằng 0): $V_1 = 2V_2.$\n- Suy ra: $V_2 = \\frac{1}{2}V_1.$\n- Nghĩa là thể tích mới bằng một nửa thể tích ban đầu.\n✅ **Đáp án:** A. bằng một nửa giá trị ban đầu."
+    },
+    {
+      "id": 18,
+      "content": "Xét một khối khí lí tưởng xác định thực hiện các đẳng quá trình biến đổi trạng thái. Hình nào sau đây không phải là đồ thị biểu diễn quá trình đẳng nhiệt?\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tot-nghiep-thpt-mon-vat-ly-so-gd-dt-lao-cai-lan-1-nam-2026/cau-18.webp\" alt=\"Hình minh họa câu 18\" loading=\"lazy\"></figure>",
+      "chuong": "khí lí tưởng",
+      "dang": "đồ thị: định luật boyle",
+      "type": "single",
+      "options": [
+        "A. Hình 3.",
+        "B. Hình 4.",
+        "C. Hình 1.",
+        "D. Hình 2."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Định nghĩa đẳng nhiệt cho khí lí tưởng: nếu nhiệt độ T không đổi trong quá trình, gọi là đẳng nhiệt. Áp dụng phương trình trạng thái khí lí tưởng:\n$PV = nRT.$\nVới T không đổi (đẳng nhiệt) ta có:\n$PV=\\text{const} \\quad\\Rightarrow\\quad P=\\frac{\\text{const}}{V},$\ntức đồ thị trên mặt P–V là một đường cong dạng hyperbol giảm dần.\n- Kiểm tra từng hình theo mô tả: - Hình 1 (P–V): đồ thị là đường cong giảm dần (hyperbol) — phù hợp với $P=\\frac{\\text{const}}{V}$ ⇒ đẳng nhiệt.\n  - Hình 2 (V–T): đường thẳng đứng tại một giá trị T cố định ⇒ T không đổi ⇒ đẳng nhiệt (dù đồ thị là V–T chứ không phải P–V, nhưng điều quan trọng là T giữ nguyên).\n  - Hình 4 (T–P): đường ngang tức T cố định ⇒ đẳng nhiệt.\n  - Hình 3 (P–V): đường ngang trên đồ thị P–V nghĩa là P không đổi (đẳng áp), không phải đường hyperbol của đẳng nhiệt. Do P giữ nguyên, nếu V thay đổi thì T phải thay đổi theo $T=\\frac{PV}{n}R}$ ⇒ T không cố định ⇒ không phải đẳng nhiệt.\n- Kết luận: Hình duy nhất không biểu diễn đẳng nhiệt là Hình 3.\n✅ **Đáp án:** A. Hình 3."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-9-10-bai-tap-phat-bieu-dinh-ly-dinh-ly-dao-duoi-dang-dieu-kien-ca",
+  "sourceId": "vietjack:9-10-bai-tap-phat-bieu-dinh-ly-dinh-ly-d",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "9.10 Bài tập Phát biểu định lý, định lý đảo dưới dạng điều kiện cần, điều kiện đủ (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Trong các mệnh đề sau, mệnh đề nào có phát biểu là định lý?",
+      "options": [
+        "A. Nếu một tứ giác là hình chữ nhật thì tứ giác đó có bốn cạnh bằng nhau;",
+        "B. Nếu một số tự nhiên tận cùng là 5 thì số đó chia hết cho 5;",
+        "C. Nếu một tự nhiên chia hết cho 3 thì nó chia hết cho 9;",
+        "D. Nếu một tứ giác có hai đường chéo vuông góc với nhau thì tứ giác đó là hình thoi."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B. A. Vì hình chữ nhật có hai cặp cạnh đối bằng nhau nên mệnh đề ở câu A sai. Do đó mệnh đề trên không phải là định lý. B. Mệnh đề ở câu B đúng do dấu hiệu để một số chia hết cho 5 là số đó có chữ số tận cùng là 0 hoặc 5. Vì vậy mệnh đề câu B là định lý. C. Ta có một số chia hết cho 9 thì nó cũng chia hết cho 3, tuy nhiên một số chia hết cho 3 thì nó chưa chắc chia hết cho 9. Chẳng hạn số 3 chia hết cho 3 nhưng nó không chia hết cho 9. Nên mệnh đề ở câu C sai và nó không phải là định lý. D. Mệnh đề ở câu D sai do một tứ giác có hai đường chéo vuông góc với nhau thì chưa chắc nó đã là hình thoi. Vì vậy mệnh đề trên không phải là định lý."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho định lý sau: “Nếu hai tam giác bằng nhau thì hai tam giác đó đồng dạng”. Phát biểu định lý trên dưới dạng điều kiện cần.",
+      "options": [
+        "A. Hai tam giác bằng nhau kéo theo hai tam giác đó đồng dạng;",
+        "B. Hai tam giác bằng nhau là điều kiện cần để hai tam giác đó đồng dạng;",
+        "C. Hai tam giác đồng dạng là điều kiện cần để hai tam giác đó bằng nhau;",
+        "D. Hai tam giác bằng nhau tương đương với hai tam giác đó đồng dạng."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C. Ta có: P: “Hai tam giác bằng nhau”. Q: “Hai tam giác đó đồng dạng”. Ta thấy định lý trên có dạng P ⇒ Q có thể được phát biểu dưới dạng điều kiện cần như sau: Q là điều kiện cần để có P. Do đó định lý đã cho được phát biểu dưới dạng điều kiện cần là: Hai tam giác đồng dạng là điều kiện cần để hai tam giác đó bằng nhau."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho định lý sau: “Nếu một số tự nhiên chỉ chia hết cho 1 và chính nó thì số đó là số nguyên tố”. Phát biểu định lý trên dưới dạng điều kiện đủ.",
+      "options": [
+        "A. Một số tự nhiên chỉ chia hết cho 1 và chính nó khi và chỉ khi số đó là số nguyên tố;",
+        "B. Một số tự nhiên chỉ chia hết cho 1 và chính nó là điều kiện đủ để số đó là số nguyên tố;",
+        "C. Một số tự nhiên là số nguyên tố là điều kiện đủ để số đó chia hết cho 1 và chính nó;",
+        "D. Điều kiện cần và đủ để một số tự nhiên chỉ chia hết cho 1 và chính nó là số đó là số nguyên tố."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B. Ta có: P: “ Nếu một số tự nhiên chỉ chia hết cho 1 và chính nó”. Q: “Số đó là số nguyên tố”. Ta thấy định lý trên có dạng P ⇒ Q có thể được phát biểu dưới dạng điều kiện đủ như sau: P là điều kiện đủ để có Q. Do đó định lý đã cho được phát biểu dưới dạng điều kiện đủ là: Một số tự nhiên chỉ chia hết cho 1 và chính nó là điều kiện đủ để số đó là số nguyên tố."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho các mệnh đề sau: (1) Nếu tích của hai số a và b lớn hơn 0 thì a và b đều dương. (2) Nếu a, b là hai số nguyên dương thì tích của chúng cũng là một số nguyên dương. (3) Nếu tích của hai số a và b là một số nguyên âm thì trong hai số đó phải có một số nguyên dương và một số nguyên âm. Trong các mệnh đề trên, có bao nhiêu mệnh đề là định lý?",
+      "options": [
+        "A. 0;",
+        "B. 1;",
+        "C. 2;",
+        "D. 3."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C. (1) Ta có ví dụ sau : a = – 2, b = – 4 a.b = (– 2).(– 4) = 8 Từ ví dụ trên ta thấy mặc dù tích của a và b là một số dương nhưng a và b đều là các số âm. Do đó mệnh đề (1) sai và không phải là định lý. (2) Ta có ví dụ sau: Tích của hai số nguyên dương là một số nguyên dương là mệnh đề đúng (tích của hai số nguyên cùng dấu là số nguyên dương). Do đó mệnh đề (2) là định lý. (3) Ta có ví dụ sau : Tích của hai số nguyên khác dấu thì là số nguyên âm. Do đó mệnh đề (3) là định lý. Vậy có hai mệnh đề là định lý."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho định lý sau: “Một tam giác là tam giác đều thì tam giác đó có ba đường phân giác bằng nhau”. Phát biểu định lý đảo của định lý trên dưới dạng điều kiện cần.",
+      "options": [
+        "A. Một tam giác là tam giác đều là điều kiện cần để tam giác đó có ba đường phân giác bằng nhau;",
+        "B. Một tam giác có ba đường phân giác bằng nhau là điều kiện cần để tam giác đó là tam giác đều;",
+        "C. Một tam giác là tam giác đều khi và chỉ khi tam giác đó có ba đường phân giác bằng nhau;",
+        "D. Một tam giác là tam giác đều là điều kiện cần và đủ để tam giác đó có ba đường phân giác bằng nhau."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A. Xét mệnh đề “Một tam giác là tam giác đều thì tam giác đó có ba đường phân giác bằng nhau” ta có: P: “Một tam giác là tam giác đều” Q: “Tam giác đó có ba đường phân giác bằng nhau” Định lý đảo Q ⇒ P của định lý trên được phát biểu như sau: “Một tam giác có ba đường phân giác bằng nhau thì tam giác đó là tam giác đều”. Xét định lý đảo trên ta có : A: “Một tam giác có ba đường phân giác bằng nhau”. B: “Tam giác đó là tam giác đều”. Ta thấy định lý trên có dạng A ⇒ B có thể được phát biểu dưới dạng điều kiện cần như sau: B là điều kiện cần để có A. Do đó định lý đã cho được phát biểu dưới dạng điều kiện cần là: “Một tam giác là tam giác đều là điều kiện cần để tam giác đó có ba đường phân giác bằng nhau”."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho định lý sau: “Nếu mỗi số nguyên a, b chia hết cho 7 thì tổng các bình phương của chúng chia hết cho 7”. Phát biểu định lý đảo của định lý trên dưới dạng điều kiện đủ.",
+      "options": [
+        "A. Mỗi số nguyên a, b chia hết cho 7 tương đương với tổng các bình phương của chúng chia hết cho 7;",
+        "B. Mỗi số nguyên a, b chia hết cho 7 là điều kiện đủ để tổng các bình phương của chúng chia hết cho 7;",
+        "C. Tổng bình phương của hai số nguyên a, b chia hết cho 7 là điều kiện đủ để mỗi số nguyên đó chia hết cho 7;",
+        "D. Mỗi số nguyên a, b chia hết cho 7 kéo theo tổng các bình phương của chúng chia hết cho 7."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C. Xét mệnh đề “Nếu mỗi số nguyên a, b chia hết cho 7 thì tổng các bình phương của chúng chia hết cho 7” ta có: P: “Mỗi số nguyên a, b chia hết cho 7” Q: “Tổng bình phương của chúng chia hết cho 7” Định lý đảo Q ⇒ P của định lý trên được phát biểu như sau: “Nếu tổng bình phương của hai số a và b chia hết cho 7 thì mỗi số nguyên đó chi hết cho 7”. Xét định lý đảo trên ta có : A: “Tổng bình phương của hai số a và b chia hết cho 7”. B: “Mỗi số nguyên đó chi hết cho 7”. Ta thấy định lý trên có dạng A ⇒ B có thể được phát biểu dưới dạng điều kiện đủ như sau: A là điều kiện đủ để có B. Do đó định lý đã cho được phát biểu dưới dạng điều kiện đủ là: “Tổng bình phương của hai số nguyên a, b chia hết cho 7 là điều kiện đủ để mỗi số nguyên đó chia hết cho 7”."
+    }
+  ]
+}

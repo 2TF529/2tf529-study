@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-4-9-bai-tap-xac-dinh-sai-so-cua-phep-do-gian-tiep-co-dap-an",
+  "sourceId": "vietjack:4-9-bai-tap-xac-dinh-sai-so-cua-phep-do-",
+  "grade": "l10",
+  "subjectSlug": "li",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "4.9 bài tập Xác định sai số của phép đo gián tiếp có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Một bánh xe có bán kính là R = 10,0 ± 0,5 cm. Sai số tương đối của chu vi bánh xe là:",
+      "options": [
+        "A. 0,05%.",
+        "B. 5%.",
+        "C. 10%.",
+        "D. 25%."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Sai số tương đối của bán kính: δ R = Δ R R ¯ = 0 , 5 10 , 0 = 5 % Chu vi hình tròn: p = 2. π . R Suy ra: δ p = δ R = 5 %"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Một vật có khối lượng m và thể tích V, có khối lượng riêng ρ được xác định bằng công thức ρ = m V . Biết sai số tương đối của m và V lần lượt là 12% và 5%. Hãy xác định sai số tương đối của .",
+      "options": [
+        "A. 16%.",
+        "B. 15%.",
+        "C. 17%.",
+        "D. 18%."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là C Vì ρ = m V nên: δ ρ = δ m + δ V = 12 % + 5 % = 17 %"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Chọn đáp án đúng",
+      "options": [
+        "A. Sai số tuyệt đối của phép đo cho biết phạm vi biến thiên của giá trị đo được và bằng tổng của sai số ngẫu nhiên và sai số dụng cụ.",
+        "B. Sai số tương đối cho biết mức độ chính xác của phép đo, được xác định bằng tỉ số giữa sai số tuyệt đối và giá trị trung bình của đại lượng cần đo.",
+        "C. Công thức sai số tương đối là δ x = Δ x x ¯ .100 %",
+        "D. D. Cả A, B, C đều đúng."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D. - Sai số tuyệt đối của phép đo cho biết phạm vi biến thiên của giá trị đo được và bằng tổng của sai số ngẫu nhiên và sai số dụng cụ. - Sai số tương đối cho biết mức độ chính xác của phép đo, được xác định bằng tỉ số giữa sai số tuyệt đối và giá trị trung bình của đại lượng cần đo - Công thức sai số tương đối là δ x = Δ x x ¯ .100 %"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Phép đo nào sau đây là phép đo gián tiếp.",
+      "options": [
+        "A. Đo chiều cao của học sinh trong lớp.",
+        "B. Đo cân nặng của học sinh trong lớp.",
+        "C. Đo thời gian đi từ nhà đến trường.",
+        "D. Đo vận tốc đi xe đạp từ nhà đến trường."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Đo vận tốc đi xe đạp từ nhà đến trường thông qua quãng đường và thời gian, nên là phép đo gián tiếp."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Có những sai số phép đo nào?",
+      "options": [
+        "A. Sai số hệ thống và sai số tỉ đối.",
+        "B. Sai số ngẫu nhiên và sai số tuyệt đối.",
+        "C. Sai số hệ thống và sai số ngẫu nhiên.",
+        "D. Sai số tỉ đối và sai số tuyệt đối."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Có hai loại sai số phép đo: sai số hệ thống và sai số ngẫu nhiên."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Sai số tỉ đối là:",
+      "options": [
+        "A. tỉ số giữa sai số tuyệt đối và giá trị trung bình của phép đo.",
+        "B. tỉ số phần trăm giữa sai số tuyệt đối và giá trị trung bình của phép đo.",
+        "C. tỉ số giữa giá trị trung bình của phép đo và sai số tuyệt đối.",
+        "D. tỉ số phần trăm giữa giá trị trung bình của phép đo và sai số tuyệt đối."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Sai số tỉ đối là tỉ số phần trăm giữa sai số tuyệt đối và giá trị trung bình của phép đo."
+    }
+  ]
+}

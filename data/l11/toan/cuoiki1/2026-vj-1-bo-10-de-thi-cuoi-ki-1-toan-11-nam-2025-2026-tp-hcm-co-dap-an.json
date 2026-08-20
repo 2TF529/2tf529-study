@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-1-bo-10-de-thi-cuoi-ki-1-toan-11-nam-2025-2026-tp-hcm-co-dap-an",
+  "sourceId": "vietjack:1-bo-10-de-thi-cuoi-ki-1-toan-11-nam-202",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "cuoiki1",
+  "year": 2026,
+  "title": "1.Bộ 10 đề thi cuối kì 1 Toán 11 năm 2025-2026 TP.HCM (có đáp án)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: (3.0 điểm) Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi học sinh chỉ chọn một phương án. Giá trị của \\(\\cos \\left( {\\alpha + 2025\\pi } \\right)\\) bằng",
+      "options": [
+        "A. \\(\\cos \\alpha \\).",
+        "B. \\( - \\cos \\alpha \\).",
+        "C. \\(\\sin \\alpha \\).",
+        "D. \\( - \\sin \\alpha \\)."
+      ],
+      "answer": "B",
+      "note": "Chọn B Có \\(\\cos \\left( {\\alpha + 2025\\pi } \\right) = \\cos \\left( {\\pi + \\alpha + 2024\\pi } \\right) = \\cos \\left( {\\pi + \\alpha } \\right) = - \\cos \\alpha \\)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho \\(\\cos \\alpha = - \\frac{1}{3}\\) \\(\\left( {\\frac{\\pi }{2} < \\alpha < \\pi } \\right)\\). Giá trị của \\(\\sin \\alpha \\) bằng:",
+      "options": [
+        "A. \\(\\frac{8}{9}\\) .",
+        "B. \\( - \\frac{{2\\sqrt 2 }}{3}\\) .",
+        "C. \\(\\frac{{2\\sqrt 2 }}{3}\\) .",
+        "D. \\( - \\frac{8}{9}\\) ."
+      ],
+      "answer": "C",
+      "note": "Chọn C Vì \\(\\frac{\\pi }{2} < \\alpha < \\pi \\Rightarrow \\sin \\alpha > 0\\). Nên \\(\\sin \\alpha = \\sqrt {1 - {{\\cos }^2}\\alpha } = \\sqrt {1 - {{\\left( { - \\frac{1}{3}} \\right)}^2}} = \\frac{{2\\sqrt 2 }}{3}\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Hàm số nào sau đây là hàm số lẻ?",
+      "options": [
+        "A. \\(f\\left( x \\right) = - \\cos x + 1\\).",
+        "B. \\(f\\left( x \\right) = \\sin x \\cdot \\cos x\\).",
+        "C. \\(f\\left( x \\right) = x + \\cos x\\).",
+        "D. \\(f\\left( x \\right) = {\\tan ^2}x\\)."
+      ],
+      "answer": "B",
+      "note": "Chọn B Xét hàm số \\(f\\left( x \\right) = \\sin x \\cdot \\cos x\\) có tập xác định \\[D = \\mathbb{R}\\] là tập đối xứng. Vì \\(f\\left( { - x} \\right) = \\sin \\left( { - x} \\right) \\cdot \\cos \\left( { - x} \\right) = - \\sin x \\cdot \\cos x = - f\\left( x \\right) \\Rightarrow \\) hàm số lẻ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Nghiệm của phương trình \\(2\\cos x + 1 = 0\\) là:",
+      "options": [
+        "A. \\(x = \\pm \\frac{{2\\pi }}{3} + k2\\pi ,k \\in \\mathbb{Z}\\).",
+        "B. \\(x = \\pm \\frac{{2\\pi }}{3} + k\\pi ,k \\in \\mathbb{Z}\\).",
+        "C. \\(x = \\pm \\frac{\\pi }{6} + k2\\pi ,k \\in \\mathbb{Z}\\).",
+        "D. \\(x = \\pm \\frac{{5\\pi }}{6} + k2\\pi ,k \\in \\mathbb{Z}\\)."
+      ],
+      "answer": "A",
+      "note": "Chọn A Ta có \\(2\\cos x + 1 = 0 \\Leftrightarrow \\cos x = - \\frac{1}{2} = \\cos \\frac{{2\\pi }}{3} \\Rightarrow x = \\pm \\frac{{2\\pi }}{3} + k2\\pi ,k \\in \\mathbb{Z}\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho dãy số \\(\\left( {{u_n}} \\right)\\) được xác định bởi \\(\\left\\{ {\\begin{array}{*{20}{l}}{{u_1} = 3}\\\\{{u_{n + 1}} = {u_n} - 2}\\end{array}} \\right.(n \\ge 1)\\). Số hạng tổng quát của dãy số là:",
+      "options": [
+        "A. \\({u_n} = 2n - 5\\).",
+        "B. \\({u_n} = 2n + 1\\).",
+        "C. \\({u_n} = 3 - 2n\\).",
+        "D. \\({u_n} = 5 - 2n\\)."
+      ],
+      "answer": "D",
+      "note": "Chọn D Vì \\({u_{n + 1}} = {u_n} - 2 \\Leftrightarrow {u_{n + 1}} - {u_n} = - 2 \\Rightarrow \\left( {{u_n}} \\right)\\) là cấp số cộng với \\({u_1} = 3\\) và công sai \\(d = - 2\\). \\( \\Rightarrow {u_n} = {u_1} + \\left( {n - 1} \\right)d = 3 - 2\\left( {n - 1} \\right) = 5 - 2n\\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho cấp số cộng \\(\\left( {{u_n}} \\right)\\) có \\({u_1} = 1\\) và công sai \\(d = 4\\). Tổng 10 số hạng đầu của cấp số cộng là:",
+      "options": [
+        "A. 180.",
+        "B. 190.",
+        "C. 200.",
+        "D. 198."
+      ],
+      "answer": "B",
+      "note": "Chọn B Ta có \\({S_{10}} = \\frac{{10}}{2}\\left[ {2{u_1} + \\left( {10 - 1} \\right)d} \\right] = 5 \\cdot \\left[ {2 \\cdot 1 + 9 \\cdot 4} \\right] = 190\\)."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Trong các dãy số sau, dãy số nào là một cấp số nhân?",
+      "options": [
+        "A. \\({u_n} = 2n + 3\\).",
+        "B. \\({u_n} = {n^3}\\).",
+        "C. \\({u_n} = 2 \\cdot {3^n}\\).",
+        "D. \\({u_n} = \\frac{2}{n}\\)."
+      ],
+      "answer": "C",
+      "note": "Chọn C Xét dãy số \\({u_n} = 2 \\cdot {3^n}\\), vì \\(\\frac{{{u_{n + 1}}}}{{{u_n}}} = \\frac{{2 \\cdot {3^{n + 1}}}}{{2 \\cdot {3^n}}} = 3 \\Rightarrow {u_n} = 2 \\cdot {3^n}\\) là cấp số nhân."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Khẳng định nào sau đây sai?",
+      "options": [
+        "A. \\(\\lim {\\left( {\\sqrt 2 } \\right)^n} = 0\\).",
+        "B. \\(\\lim {\\left( {\\frac{1}{3}} \\right)^n} = 0\\).",
+        "C. \\(\\lim {\\left( { - \\frac{1}{3}} \\right)^n} = 0\\).",
+        "D. \\(\\lim \\frac{2}{{{{\\left( {\\sqrt 2 } \\right)}^n}}} = 0\\)."
+      ],
+      "answer": "A",
+      "note": "Chọn A Vì \\(q = \\sqrt 2 > 1 \\Rightarrow \\mathop {\\lim \\left( {\\sqrt 2 } \\right)}\\limits^n = + \\infty \\)."
+    }
+  ]
+}

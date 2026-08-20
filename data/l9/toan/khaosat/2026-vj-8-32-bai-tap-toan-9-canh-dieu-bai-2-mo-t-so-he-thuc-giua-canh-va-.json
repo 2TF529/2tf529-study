@@ -1,0 +1,104 @@
+{
+  "id": "2026-vj-8-32-bai-tap-toan-9-canh-dieu-bai-2-mo-t-so-he-thuc-giua-canh-va-",
+  "sourceId": "vietjack:8-32-bai-tap-toan-9-canh-dieu-bai-2-mo-t",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "8.32 bài tập Toán 9 Cánh diều Bài 2. Một số hệ thức giữa cạnh và góc của tam giác vuông và ứng dụng có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho tam giác MNP vuông tại N. Hệ thức nào sau đây đúng?",
+      "options": [
+        "A. \\(MN = MP.\\sin P\\) .",
+        "B. \\(MN = MP.\\cos P\\) .",
+        "C. \\(MN = MP.\\tan P\\) .",
+        "D. \\(MN = MP.\\cot P\\) ."
+      ],
+      "answer": "A",
+      "note": "Chọn A Ta có: O10-2024-GV154 \\(\\sin P = \\frac{{MN}}{{MP}} \\Rightarrow MN = MP.\\sin P\\)"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho tam giác MNP vuông tại N. Hệ thức nào sau đây là đúng?",
+      "options": [
+        "A. \\(NP = MP.\\cos P\\) .",
+        "B. \\(NP = MN.\\cos P\\) .",
+        "C. \\(NP = MN.\\tan P\\) .",
+        "D. \\(NP = MP.\\cot P\\) ."
+      ],
+      "answer": "B",
+      "note": "Chọn B Ta có: O10-2024-GV154 \\(\\cot P = \\frac{{NP}}{{MN}} \\Rightarrow NP = MN.\\cot P\\)"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho tam giác ABC vuông tại A có \\(BC = a,AC = b,AB = c\\) . Chọn khẳng định sai ?",
+      "options": [
+        "A. \\(b = a.\\sin B = a.\\cos C\\) .",
+        "B. \\(a = c.\\tan B = c.\\cot C\\) .",
+        "C. \\({a^2} = {b^2} + {c^2}\\) .",
+        "D. \\(c = a.\\sin C = a.\\cos B\\) ."
+      ],
+      "answer": "B",
+      "note": "Chọn B + Theo định lý Pytago ta có \\({a^2} = {b^2} + {c^2}\\)nên C đúng + Theo hệ thức về cạnh và góc trong tam giác vuông ta có: O10-2024-GV154 \\(\\begin{array}{l}b = a.\\sin B = a.\\cos C\\\\b = c.\\tan B = c.\\cot C\\\\c = a.\\sin C = a.\\cos B\\\\c = b.\\tan C = b.\\cot B\\end{array}\\) Nên A, D đúng."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho tam giác ABC vuông tại A có \\(BC = a,AC = b,AB = c\\) . Chọn khẳng định đúng?",
+      "options": [
+        "A. \\(b = c.\\sin 50^\\circ \\) .",
+        "B. \\(b = a.\\tan 50^\\circ \\) .",
+        "C. \\(b = c.\\cot 50^\\circ \\) .",
+        "D. \\(c = b.\\cot 50^\\circ \\) ."
+      ],
+      "answer": "D",
+      "note": "Chọn D + Theo hệ thức về cạnh và góc trong tam giác vuông ta có: O10-2024-GV154 \\(c = b.\\cot 50^\\circ \\)"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Giải tam giác \\[ABC\\] vuông tại \\[B\\] . Cho biết \\[AC = 15\\,\\,{\\rm{cm}}\\,,\\,\\,\\widehat A = 52^\\circ \\] (làm tròn kết quả đến chữ số thập phân thứ nhất)",
+      "options": [
+        "A. \\[\\widehat C = 38^\\circ \\,,\\,\\,AB = 8,4\\,\\,{\\rm{cm}}\\,,\\,\\,BC = 10,5\\,\\,{\\rm{cm}}\\] .",
+        "B. \\[\\widehat C = 38^\\circ \\,,\\,\\,AB = 9,2\\,\\,{\\rm{cm}}\\,,\\,\\,BC = 11,8\\,\\,{\\rm{cm}}\\] .",
+        "C. \\[\\widehat C = 38^\\circ ,AB = 9,8\\,\\,{\\rm{cm}}\\,,\\,\\,BC = 12,4\\,\\,{\\rm{cm}}\\] .",
+        "D. \\[\\widehat C = 38^\\circ ,AB = 9,2\\,\\,{\\rm{cm}}\\,,\\,\\,BC = 12,4\\,\\,{\\rm{cm}}\\] ."
+      ],
+      "answer": "B",
+      "note": "Chọn B Ta có \\[ABC\\] vuông tại \\[B \\Rightarrow \\widehat A + \\widehat C = 90^\\circ \\] Mà \\[\\widehat A = 52^\\circ \\Rightarrow \\widehat C = 38^\\circ \\] + \\[AB = AC.\\sin C = 15.\\sin 38^\\circ \\approx 9,2cm\\] + \\[BC = AC.\\sin A = 15.\\sin 52^\\circ \\approx 11,8cm\\]"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho tam giác \\(ABC\\) vuông tại A có \\(AC = 20\\,\\,cm,\\widehat C = 60^\\circ \\) . Tính \\(AB,BC\\) .",
+      "options": [
+        "A. \\[AB = 20\\sqrt 3 ;BC = 40\\] .",
+        "B. \\[AB = 20\\sqrt 3 ;BC = 40\\sqrt 3 \\] .",
+        "C. \\[AB = 20;BC = 40\\] .",
+        "D. \\[AB = 20;BC = 20\\sqrt 3 \\] ."
+      ],
+      "answer": "A",
+      "note": "Chọn A + Theo hệ thức về cạnh và góc trong tam giác vuông ta có: \\[AB = AC.\\tan C = 20.\\tan 30^\\circ = 20\\sqrt 3 \\] \\(AC = BC.\\cos C \\Rightarrow BC = \\frac{{AC}}{{\\cos 30^\\circ }} = \\frac{{20}}{{\\frac{1}{2}}} = 40\\)"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Giải tam giác \\[MNP\\] có \\[\\widehat N = 70^\\circ ;\\,\\,\\widehat P = 38^\\circ \\] , đường cao \\[MI = 8cm\\] . Diện tích \\[\\Delta MNP\\] bằng? (làm tròn kết quả đến chữ số thập phân thứ hai)",
+      "options": [
+        "A. \\[42,65c{m^2}\\] .",
+        "B. \\[48,08c{m^2}\\] .",
+        "C. \\[51,54c{m^2}\\] .",
+        "D. \\[52,68c{m^2}\\] ."
+      ],
+      "answer": "D",
+      "note": "Chọn D Ta có: \\[NI = MI.\\cot N = 8.cot70^\\circ = 2,91\\left( {cm} \\right)\\] + \\[PI = MI.\\cot P = 8.\\cot 38^\\circ = 8.\\frac{1}{{0,78}} = 10,26\\left( {cm} \\right)\\] \\[ \\Rightarrow NP = NI + IP = 2,91 + 10,26 = 13,17\\left( {cm} \\right)\\] \\[ \\Rightarrow {S_{MNP}} = \\frac{1}{2}.8.13,17 = 52,68\\left( {c{m^2}} \\right)\\]"
+    }
+  ]
+}

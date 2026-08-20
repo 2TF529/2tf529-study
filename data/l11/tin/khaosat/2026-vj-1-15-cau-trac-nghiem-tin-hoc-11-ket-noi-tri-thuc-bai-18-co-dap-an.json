@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-11-ket-noi-tri-thuc-bai-18-co-dap-an",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-11-ket-noi-",
+  "grade": "l11",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 11 Kết nối tri thức Bài 18 có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Trong cấu trúc bảng banthuam(idBanthuam, idBannhac, idCasi), trường nào được chọn làm khóa chính?",
+      "options": [
+        "A. idBanthuam",
+        "B. idBannhac",
+        "C. idCasi",
+        "D. tenBannhac"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: idBanthuam là khóa chính vì nó xác định duy nhất một bản thu âm, giúp dễ dàng truy cập và quản lý thông tin về các bản thu âm."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Tại sao cần tách bảng casi(idCasi, tenCasi) thay vì lưu trữ trực tiếp tenCas i trong bảng banthuam?",
+      "options": [
+        "A. Giúp giảm dung lượng lưu trữ và tránh trùng lặp dữ liệu",
+        "B. Giúp lưu trữ nhiều ca sĩ hơn",
+        "C. Giúp truy vấn nhanh hơn",
+        "D. Giúp quản lý các bản nhạc phức tạp hơn"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Việc tách bảng giúp giảm dung lượng lưu trữ, vì tên ca sĩ có thể lặp lại nhiều lần nếu không tách ra, và sẽ gây khó khăn khi cần chỉnh sửa tên."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trong cấu trúc bảng bannhac(idBannhac , tenBannhac, idNhacsi), trường idNhacsi là gì?",
+      "options": [
+        "A. Khóa chính",
+        "B. Khóa ngoài",
+        "C. Khóa cắm trùng lặp",
+        "D. Chỉ mụ"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: idNhacsi là khóa ngoài tham chiếu đến bảng nhacsi(idNhacsi, tenNhacsi), liên kết thông tin về nhạc sĩ với bản nhạc."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Khi cần quản lý thêm thông tin ngày sinh của các ca sĩ trong CSDL, nên thay đổi như thế nào?",
+      "options": [
+        "A. Thêm trường ngaysinh vào bảng banthuam",
+        "B. Thêm trường ngaysinh vào bảng casi",
+        "C. Tạo bảng mới lưu trữ thông tin ngày sinh",
+        "D. Không cần thay đổi"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Ngày sinh là thông tin liên quan đến ca sĩ, nên cần thêm trường ngaysinh vào bảng casi."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Nếu muốn quản lý thêm thông tin nơi sinh của nhạc sĩ, CSDL cần thay đổi như thế nào?",
+      "options": [
+        "A. Thêm trường noisinh vào bảng nhacsi",
+        "B. Thêm trường noisinh vào bảng bannhac",
+        "C. Tạo bảng mới lưu trữ nơi sinh",
+        "D. Không cần thay đổi"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Nơi sinh là thông tin liên quan đến nhạc sĩ, nên cần thêm trường noisinh vào bảng nhacsi."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trường nào trong bảng banthuam(idBanthuam, idBannhac, idCasi) là khóa ngoài?",
+      "options": [
+        "A. idBanthuam",
+        "B. idBannhac và idCasi",
+        "C. tenBannhac",
+        "D. tenCasi"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: idBannhac và idCasi là khóa ngoài tham chiếu đến bảng bannhac và casi, liên kết thông tin bản nhạc và ca sĩ."
+    }
+  ]
+}

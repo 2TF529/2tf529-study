@@ -1,0 +1,78 @@
+{
+  "id": "2026-vj-1-trac-nghiem-chuyen-dong-nem-lop-10-co-dap-an",
+  "sourceId": "vietjack:1-trac-nghiem-chuyen-dong-nem-lop-10-co-",
+  "grade": "l10",
+  "subjectSlug": "li",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.Trắc nghiệm Chuyển động ném lớp 10 (có đáp án)",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Khi ném một vật theo phương ngang (bỏ qua sức cản của không khí), thời gian chuyển động của vật phụ thuộc vào",
+      "options": [
+        "A. Vận tốc ném.",
+        "B. Độ cao từ chỗ ném đến mặt đất.",
+        "C. Khối lượng của vật.",
+        "D. Thời điểm ném."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B. B - đúng vì công thức tính thời gian rơi trong chuyển động ném ngang là \\[{\\rm{t = }}\\sqrt {\\frac{{{\\rm{2}}{\\rm{.H}}}}{{\\rm{g}}}} \\]với H là độ cao của vật từ chỗ bị ném đến mặt đất."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Công thức tính tầm xa của vật bị ném ngang?",
+      "options": [
+        "A. \\[{\\rm{L = }}{{\\rm{v}}_0}.\\sqrt {\\frac{{{\\rm{2}}{\\rm{.H}}}}{{\\rm{g}}}} \\].",
+        "B. \\[{\\rm{L = }}{{\\rm{v}}_0}.\\sqrt {\\frac{{\\rm{H}}}{{\\rm{g}}}} \\].",
+        "C. \\[{\\rm{L = }}\\sqrt {\\frac{{{\\rm{2}}{\\rm{.H}}}}{{\\rm{g}}}} \\].",
+        "D. \\[{\\rm{L = }}\\sqrt {2.{\\rm{g}}{\\rm{.H}}} \\]."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A. A - đúng vì công thức tính tầm xa của vật bị ném ngang là \\[{\\rm{L = }}{{\\rm{v}}_0}.\\sqrt {\\frac{{{\\rm{2}}{\\rm{.H}}}}{{\\rm{g}}}} \\]."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Nếu từ cùng một độ cao đồng thời ném các vật khác nhau với vận tốc khác nhau thì vật nào có vận tốc ném lớn hơn sẽ có tầm bay xa",
+      "options": [
+        "A. lớn hơn.",
+        "B. nhỏ hơn.",
+        "C. bằng nhau.",
+        "D. còn phụ thuộc vào khối lượng của các vật."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A. A - đúng vì dựa vào công thức tầm xa của chuyển động ném ngang là \\[{\\rm{L = }}{{\\rm{v}}_0}.\\sqrt {\\frac{{{\\rm{2}}{\\rm{.H}}}}{{\\rm{g}}}} \\], tầm xa phụ thuộc vào độ cao và vận tốc ném."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Một vật được ném theo phương ngang với vận tốc ban đầu là \\[{{\\rm{v}}_0} = 30\\]m/s từ một độ cao h = 80 m so với mặt đất. Lấy \\[{\\rm{g}} = 10{\\rm{m/}}{{\\rm{s}}^{\\rm{2}}}\\]. Bỏ qua sức cản của không khí. Tính thời gian rơi và tầm xa của vật.",
+      "options": [
+        "A. 2 s; 120 m.",
+        "B. 4 s; 120 m.",
+        "C. 8 s; 240 m.",
+        "D. 2,8 s; 84 m."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B. Thời gian rơi của vật là \\[{\\rm{t = }}\\sqrt {\\frac{{{\\rm{2}}{\\rm{.H}}}}{{\\rm{g}}}} = \\sqrt {\\frac{{2.80}}{{10}}} = 4({\\rm{s}}).\\] Tầm xa của vật là \\[L = {v_0}.\\sqrt {\\frac{{2.H}}{g}} = 30.\\sqrt {\\frac{{2.80}}{{10}}} = 120(m)\\]."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Một máy bay bay theo phương ngang ở độ cao 10 km với tốc độ 720 km/h. Viên phi công phải thả quả bom từ xa cách mục tiêu (theo phương ngang) bao nhiêu để quả bom rơi trúng mục tiêu? Lấy \\[{\\rm{g}} = 10{\\rm{m/}}{{\\rm{s}}^{\\rm{2}}}\\].",
+      "options": [
+        "A. 9,7 km.",
+        "B. 8,6 km.",
+        "C. 8,2 km.",
+        "D. 8,9 km."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D. \\[{\\rm{L = }}{{\\rm{v}}_0}.\\sqrt {\\frac{{{\\rm{2}}{\\rm{.H}}}}{{\\rm{g}}}} = \\frac{{{{720.10}^3}}}{{3600}}.\\sqrt {\\frac{{{{2.10.10}^3}}}{{10}}} = 8,{9.10^3}(m)\\]."
+    }
+  ]
+}

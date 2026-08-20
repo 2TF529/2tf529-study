@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-30-cau-trac-nghiem-toan-10-chan-troi-sang-tao-on-tap-chuong-10-",
+  "sourceId": "vietjack:2-30-cau-trac-nghiem-toan-10-chan-troi-s",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.30 câu Trắc nghiệm Toán 10 chân trời sáng tạo Ôn tập chương 10 (Phần 2) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Biến cố không bao giờ xảy ra là:",
+      "options": [
+        "A. Biến cố không thể;",
+        "B. Biến cố chắc chắn;",
+        "C. Phép thử;",
+        "D. Không gian mẫu."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A ⦁ Biến cố chắc chắn là biến cố luôn xảy ra, kí hiệu là Ω. Do đó phương án B sai. ⦁ Biến cố không thể là biến cố không bao giờ xảy ra, kí hiệu là ∅ . Do đó phương án A đúng. ⦁ Phép thử ngẫu nhiên (gọi tắt là phép thử) là một hoạt động mà ta không thể biết trước được kết quả của nó. Do đó phương án C sai. ⦁ Tập hợp tất cả các kết quả có thể có của phép thử ngẫu nhiên được gọi là không gian mẫu. Do đó phương án D sai. Vậy ta chọn phương án A."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho biến cố A có không gian mẫu Ω và là biến cố đối của biến cố A. Khẳng định nào sau đây sai ?",
+      "options": [
+        "A. n(Ω) = P(A).n(A);",
+        "B. A = Ω \\ A ¯ ;",
+        "C. P A ¯ + P A = P Ω ;",
+        "D. n(A) = P(A).n(Ω)."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A ⦁ Xác suất của biến cố A là: P A = n A n Ω . Suy ra n Ω = n A P A và n(A) = P(A).n(Ω). Vì vậy phương án A sai, phương án D đúng. ⦁ Ta có A ¯ = Ω \\ A nên A = Ω \\ A ¯ . Do đó phương án B đúng. ⦁ Ta có P A ¯ + P A = 1 và P(Ω) = 1. Suy ra P A ¯ + P A = P Ω . Do đó phương án C đúng. Vậy ta chọn phương án A."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Nguyên lí xác suất bé được phát biểu như thế nào?",
+      "options": [
+        "A. Nếu một biến cố có xác suất rất bé thì trong một phép thử, biến cố đó có xác suất bằng 0;",
+        "B. Nếu một biến cố có xác suất rất bé thì trong một phép thử, biến cố đó không chắc sẽ xảy ra;",
+        "C. Nếu một biến cố có xác suất rất bé thì trong một phép thử, biến cố đó chắc chắn sẽ xảy ra;",
+        "D. Nếu một biến cố có xác suất rất bé thì trong một phép thử, biến cố đó sẽ không xảy ra."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải Đáp án đúng là: D Theo Lí thuyết Xác suất, Nguyên lí xác suất bé được phát biểu như sau: Nếu một biến cố có xác suất rất bé thì trong một phép thử, biến cố đó sẽ không xảy ra. Vậy ta chọn phương án D."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Mệnh đề nào sau đây đúng ?",
+      "options": [
+        "A. Biến cố chắc chắn là biến cố không bao giờ xảy ra;",
+        "B. Mỗi tập con của không gian mẫu được gọi là một biến cố;",
+        "C. Một kết quả thuộc biến cố A được gọi là kết quả làm cho biến cố A không xảy ra;",
+        "D. Biến cố có khả năng xảy ra càng cao thì xác suất của nó càng gần 0."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải Đáp án đúng là: B Phương án A sai , vì b iến cố chắc chắn là biến cố luôn xảy ra. Phương án B đúng. Phương án C sai , vì m ột kết quả thuộc biến cố A được gọi là kết quả làm cho biến cố A xảy ra, hoặc kết quả thuận lợi cho biến cố A. Phương án D sai , vì b iến cố có khả năng xảy ra càng cao thì xác suất của nó càng gần 1. Vậy ta chọn phương án B."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Một hộp chứa 4 quả cầu trắng và 6 quả cầu xanh có kích thước và khối lượng như nhau. Lấy ngẫu nhiên 3 quả cầu từ trong hộp. Hoạt động nào sau đây không phải là biến cố của phép thử trên?",
+      "options": [
+        "A. Ba quả cầu lấy ra cùng màu với nhau;",
+        "B. Ba quả cầu lấy ra có ít nhất một quả màu trắng;",
+        "C. Ba quả cầu lấy ra gồm có ba màu;",
+        "D. Ba quả cầu lấy ra có nhiều nhất hai quả cầu màu xanh."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là: C Ta thấy các quả cầu trong hộp chỉ có hai màu là trắng và xanh nên phép thử trên không thể có biến cố: “Ba quả cầu lấy ra gồm có ba màu” được. Do đó hoạt động của phương án C không phải là biến cố của phép thử đã cho. Vậy ta chọn phương án C."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho biến cố A có không gian mẫu là Ω và là biến cố đối của biến cố A. Khẳng định nào sau đây sai ?",
+      "options": [
+        "A. P(A) ≥ 0, với mọi biến cố A;",
+        "B. P( ∅ ) = 0;",
+        "C. P(Ω) > 1 ;",
+        "D. P(A) ≤ 1, với mọi biến cố A."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là: C ⦁ Với mọi biến cố A, ta có 0 ≤ P(A) ≤ 1. Do đó phương án A, D đúng. ⦁ P(Ω) = 1 và P( ∅ ) = 0. Do đó phương án B đúng, phương án C sai. Vậy ta chọn phương án C."
+    }
+  ]
+}

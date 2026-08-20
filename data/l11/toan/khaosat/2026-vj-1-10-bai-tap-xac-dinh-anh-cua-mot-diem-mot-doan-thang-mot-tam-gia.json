@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-10-bai-tap-xac-dinh-anh-cua-mot-diem-mot-doan-thang-mot-tam-gia",
+  "sourceId": "vietjack:1-10-bai-tap-xac-dinh-anh-cua-mot-diem-m",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.10 Bài tập Xác định ảnh của một điểm, một đoạn thẳng, một tam giác, một đường tròn, … qua phép chiếu song song (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho hình tứ diện có D, E, F, M, N, K lần lượt là trung điểm của các cạnh SA, SB, SC, AB, AC, BC (Như hình vẽ). Khẳng định nào dưới đây là đúng?",
+      "options": [
+        "A. Tam giác AMN là ảnh của tam giác DEF lên mặt phẳng đáy qua phép chiếu song song theo phương SB;",
+        "B. Tam giác BMK là ảnh của tam giác DEF lên mặt phẳng đáy qua phép chiếu song song theo phương SB;",
+        "C. Tam giác AMN là ảnh của tam giác DEF lên mặt phẳng đáy qua phép chiếu song song theo phương SC;",
+        "D. Tam giác CKN là ảnh của tam giác DEF lên mặt phẳng đáy qua phép chiếu song song theo phương SB."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta dễ dàng nhận thấy: MD và KF là các đường trung bình của các tam giác SAB và SBC. Do đó: MD // SB, KF // SB; M và K Î (ABC). Þ M, K là ảnh của D, F lên (ABC) qua phép chiếu song song theo phương SB. E Î SB, SB Ç (ABC) = B Þ B là ảnh của E lên (ABC) qua phép chiếu song song theo phương SB. Từ chứng minh trên ta kết luận đáp án đúng là C."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hình nón đỉnh S, đáy là đường tròn tâm O đường kính AB = 4. D, E lần lượt là trung điểm của SA và SB. Vẽ đường tròn tâm O ¢ đường kính DE. Biết SO vuông góc với mặt phẳng đáy. Ảnh của đường tròn (O ¢ ) lên mặt phẳng đáy qua phép chiếu song song theo phương SO có bán kính dài bao nhiêu?",
+      "options": [
+        "A. 2;",
+        "B. 4;",
+        "C. 3;",
+        "D. 1."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Do O ¢ Î SO, SO cắt mặt phẳng đáy tại O; Þ O là ảnh của O ¢ lên mặt phẳng đáy qua phép chiếu song song theo phương SO. Lần lượt kẻ các đường song song với SO, đi qua D và E, cắt đáy lần lượt tại M và N. Do đó, ảnh của (O ¢ ) lên mặt phẳng đáy qua phép chiếu song song theo phương SO là (O) đường kính MN. Nhận thấy DO ¢ OM là một hình chữ nhật Þ DO ¢ = MO; Mà DO ¢ = 1 2 AO (DO ¢ là đường trung bình của tam giác SAO); Û DO ¢ = 1 2 . 1 2 .AB = 1. Þ MO = DO ¢ = 1."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho hình lăng trụ ABC.A ¢ B ¢ C ¢ , M là trung điểm của AC. Thực hiện phép chiếu song song lên mặt phẳng chiếu (A ¢ B ¢ C ¢ ) theo phương CC’ biến M thành M’. Chọn mệnh đề đúng?",
+      "options": [
+        "A. M ¢ là trung điểm của A ¢ B ¢ ;",
+        "B. M ¢ là trung điểm của B ¢ C ¢ ;",
+        "C. M ¢ là trung điểm của A ¢ C ¢ ;",
+        "D. Cả ba đáp án trên đều sai."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Từ M kẻ đường thẳng song song với CC ¢ , cắt mặt phẳng đáy tại M ¢ . Nhận thấy M là trung điểm của AC nên MM ¢ là đường trung bình của tứ giác ACC ¢ A ¢ . Suy ra M ¢ là trung điểm của A ¢ C ¢ ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho mặt phẳng (α), tam giác ABC nằm trên mặt phẳng ( a ); phương chiếu d. Biết hình chiếu (theo phương d) của tam giác ABC lên mặt phẳng (P) là một đoạn thẳng. Khẳng định nào sau đây đúng?",
+      "options": [
+        "A. (P) // (α);",
+        "B. (P) ≡ (α);",
+        "C. d Ì (α) hoặc (α) // d;",
+        "D. Không có đáp án đúng."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Hình chiếu của tam giác ABC trên (P) là một đoạn thẳng, suy ra các đường thẳng đi qua A, B, C và song song với phương chiếu d là đồng phẳng. Điều này xảy ra khi d nằm trên ( a ) hoặc d // ( a )."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Có hình lăng trụ ABC.A ¢ B ¢ C ¢ ; AB, A ¢ B ¢ có trung điểm lần lượt là I và I ¢ . Qua phép chiếu song song lên mặt phẳng chiếu (CBB ¢ C ¢ ) theo phương chiếu AI biến I ¢ thành điểm nào sau đây ?",
+      "options": [
+        "A. A ¢ ;",
+        "B. B ¢ ;",
+        "C. C ¢ ;",
+        "D. I."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Nhận thấy: I ¢ B ¢ // AI, I ¢ B ¢ Ç CBB ¢ C ¢ = B ¢ . Suy ra B ¢ là ảnh của I ¢ lên CBB ¢ C ¢ qua phép chiếu song song theo phương AI."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Thực hiện phép chiếu song song lên mặt phẳng (P), hai đường thẳng d 1 và d 2 có hình chiếu là hai đường thẳng song song a và b. Khi đó",
+      "options": [
+        "A. d 1 và d 2 phải song song với nhau;",
+        "B. d 1 và d 2 phải cắt nhau;",
+        "C. d 1 và d 2 có thể chéo nhau hoặc song song với nhau;",
+        "D. d 1 và d 2 không thể song song."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Nếu a // b, suy ra mặt phẳng (a, d 1 ) song song mặt phẳng (b, d 2 ). Khi đó a và b có thể song song hoặc chéo nhau."
+    }
+  ]
+}

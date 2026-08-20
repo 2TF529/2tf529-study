@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-12-22-cau-trac-nghiem-toan-12-chan-troi-sang-tao-bai-2-tich-phan-",
+  "sourceId": "vietjack:12-22-cau-trac-nghiem-toan-12-chan-troi-",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "12.22 câu trắc nghiệm Toán 12 Chân trời sáng tạo Bài 2. Tích phân (Đúng sai - Trả lời ngắn) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: TRẮC NGHIỆM NHIỀU LỰA CHỌN Biết \\(\\int\\limits_1^2 {f\\left( x \\right)dx} = 2\\). Khi đó \\(\\int\\limits_1^2 {2f\\left( x \\right)dx} \\) bằng",
+      "options": [
+        "A. 2.",
+        "B. −4.",
+        "C. 4.",
+        "D. −2."
+      ],
+      "answer": "C",
+      "note": "Chọn C \\(\\int\\limits_1^2 {2f\\left( x \\right)dx} \\)\\( = 2\\int\\limits_1^2 {f\\left( x \\right)dx} = 2.2 = 4\\) ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Biết \\(\\int\\limits_1^2 {f\\left( x \\right)dx} = 2\\) và \\(\\int\\limits_1^2 {g\\left( x \\right)dx} = 6\\) . Khi đó, \\(\\int\\limits_1^2 {\\left[ {f\\left( x \\right) - g\\left( x \\right)} \\right]dx} \\) bằng",
+      "options": [
+        "A. −4.",
+        "B. 8.",
+        "C. 4.",
+        "D. −8."
+      ],
+      "answer": "A",
+      "note": "Chọn A \\(\\int\\limits_1^2 {\\left[ {f\\left( x \\right) - g\\left( x \\right)} \\right]dx} \\)\\( = \\int\\limits_1^2 {f\\left( x \\right)dx} - \\int\\limits_1^2 {g\\left( x \\right)dx} = 2 - 6 = - 4\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho hàm số \\(f\\left( x \\right)\\) có đạo hàm trên đoạn \\(\\left[ {1;2} \\right],f\\left( 1 \\right) = 1\\) và \\(\\int\\limits_1^2 {f'\\left( x \\right)dx} = 5\\) . Giá trị \\(f\\left( 2 \\right)\\) bằng",
+      "options": [
+        "A. 6.",
+        "B. 4.",
+        "C. 3.",
+        "D. 7."
+      ],
+      "answer": "A",
+      "note": "Chọn A Ta có \\(\\int\\limits_1^2 {f'\\left( x \\right)dx} = \\left. {f\\left( x \\right)} \\right|_1^2 = f\\left( 2 \\right) - f\\left( 1 \\right)\\) \\( \\Rightarrow f\\left( 2 \\right) - f\\left( 1 \\right) = 5 \\Rightarrow f\\left( 2 \\right) = 6\\)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Giả sử f là hàm số liên tục trên khoảng K và a, b, c là các số bất kỳ trên khoảng K. Khẳng định nào sau đây sai?",
+      "options": [
+        "A. \\(\\int\\limits_a^b {f\\left( x \\right)dx} = \\int\\limits_a^b {f\\left( t \\right)dt} \\) .",
+        "B. \\(\\int\\limits_a^c {f\\left( x \\right)dx} + \\int\\limits_c^b {f\\left( x \\right)} dx = \\int\\limits_a^b {f\\left( x \\right)dx} \\) .",
+        "C. \\(\\int\\limits_a^a {f\\left( x \\right)dx} = 1\\) .",
+        "D. \\(\\int\\limits_a^b {f\\left( x \\right)dx} = - \\int\\limits_b^a {f\\left( x \\right)dx} \\) ."
+      ],
+      "answer": "C",
+      "note": "Chọn C \\[\\int\\limits_a^a {f\\left( x \\right)dx} = \\left. {F\\left( x \\right)} \\right|_a^a = F\\left( a \\right) - F\\left( a \\right) = 0\\]."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho \\(\\int\\limits_0^2 {f\\left( x \\right)dx} = 5\\) và \\(\\int\\limits_0^5 {f\\left( x \\right)dx} = - 3\\) , khi đó \\(\\int\\limits_2^5 {f\\left( x \\right)dx} \\) bằng",
+      "options": [
+        "A. 8.",
+        "B. 15.",
+        "C. −8.",
+        "D. −15."
+      ],
+      "answer": "C",
+      "note": "Chọn C \\(\\int\\limits_0^5 {f\\left( x \\right)dx} = \\int\\limits_0^2 {f\\left( x \\right)dx} + \\int\\limits_2^5 {f\\left( x \\right)dx} \\)\\( \\Rightarrow \\int\\limits_2^5 {f\\left( x \\right)dx} = \\int\\limits_0^5 {f\\left( x \\right)dx} - \\int\\limits_0^2 {f\\left( x \\right)dx} = - 3 - 5 = - 8\\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Tích phân \\(\\int\\limits_2^3 {{{\\left( {2x - 1} \\right)}^4}dx} \\) có giá trị bằng",
+      "options": [
+        "A. 1.",
+        "B. 2.",
+        "C. \\(\\frac{{282}}{3}\\) .",
+        "D. \\(\\frac{{2882}}{{10}}\\) ."
+      ],
+      "answer": "D",
+      "note": "Chọn D \\(\\int\\limits_2^3 {{{\\left( {2x - 1} \\right)}^4}dx} = \\left. {\\frac{{{{\\left( {2x - 1} \\right)}^5}}}{{10}}} \\right|_2^3 = \\frac{{3125}}{{10}} - \\frac{{243}}{{10}} = \\frac{{2882}}{{10}}\\)."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Giá trị tích phân \\(I = \\int\\limits_0^1 {\\frac{{2x + 9}}{{x + 3}}dx} \\) là \\(a + b\\ln 2 + c\\ln 3\\left( {a,b,c \\in \\mathbb{Z}} \\right)\\) . Tính giá trị biểu thức \\(a - b + c\\) .",
+      "options": [
+        "A. 1.",
+        "B. 0.",
+        "C. −7.",
+        "D. 2."
+      ],
+      "answer": "C",
+      "note": "Chọn C \\(I = \\int\\limits_0^1 {\\frac{{2x + 9}}{{x + 3}}dx} \\)\\( = \\int\\limits_0^1 {\\frac{{2\\left( {x + 3} \\right) + 3}}{{x + 3}}dx} \\) \\( = \\int\\limits_0^1 {\\left( {2 + \\frac{3}{{x + 3}}} \\right)dx} = \\left. {2x + 3\\ln \\left( {x + 3} \\right)} \\right|_0^1 = 2 + 3\\ln 4 - 3\\ln 3 = 2 + 6\\ln 2 - 3\\ln 3\\). Suy ra \\(a = 2;b = 6;c = - 3\\). Do đó \\(a - b + c = 2 - 6 - 3 = - 7\\)."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho biết \\(\\int\\limits_0^{\\frac{\\pi }{2}} {\\left( {4 - \\sin x} \\right)dx} = a\\pi + b\\) với a, b là các số nguyên. Giá trị của biểu thức \\(a + b\\) bằng.",
+      "options": [
+        "A. 1.",
+        "B. −4.",
+        "C. 6.",
+        "D. 3."
+      ],
+      "answer": "A",
+      "note": "Chọn A \\(\\int\\limits_0^{\\frac{\\pi }{2}} {\\left( {4 - \\sin x} \\right)dx} = \\left. {4x + \\cos x} \\right|_0^{\\frac{\\pi }{2}} = 2\\pi - 1\\). Suy ra \\(a = 2;b = - 1\\). Do đó \\(a + b = 1\\)."
+    }
+  ]
+}

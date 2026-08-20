@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-9-chan-troi-sang-tao-bai-8a-co-dap-an",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-9-chan-troi-san",
+  "grade": "l9",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu trắc nghiệm Tin 9 Chân trời sáng tạo Bài 8a có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cú pháp của hàm SUMIF trong Excel là gì?",
+      "options": [
+        "A. =SUMIF(range, criteria, [sum_range])",
+        "B. =SUMIF(criteria, range, [sum_range])",
+        "C. =SUMIF([sum_range], range, criteria)",
+        "D. =SUMIF(range, [sum_range], criteria)"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Cú pháp chính xác của hàm SUMIF là =SUMIF(range, criteria, [sum_range]), trong đó range là phạm vi kiểm tra, criteria là điều kiện, và [sum_range] là vùng cần tính tổng."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Hàm =SUMIF(A2:A10, \"Lương\", B2:B10) sẽ làm gì?",
+      "options": [
+        "A. Tính tổng các ô trong cột A có giá trị là \"Lương\".",
+        "B. Tính tổng các ô trong cột B tương ứng với các ô trong cột A có giá trị là \"Lương\".",
+        "C. Đếm số ô trong cột B có giá trị là \"Lương\".",
+        "D. Đếm số ô trong cột A có giá trị là \"Lương\"."
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Hàm này kiểm tra các ô trong cột A có giá trị là \"Lương\" và tính tổng giá trị tương ứng ở cột B."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Điều kiện nào đúng để tính tổng các ô có giá trị lớn hơn 10?",
+      "options": [
+        "A. \">=10\"",
+        "B. \">10\"",
+        "C. \"<10\"",
+        "D. \"=10\""
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Điều kiện \">10\" sẽ tính tổng các ô có giá trị lớn hơn 10."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Hàm =SUMIF(C2:C10, \"*Lương*\", D2:D10) sẽ làm gì?",
+      "options": [
+        "A. Tính tổng các ô trong cột D có chứa từ \"Lương\".",
+        "B. Tính tổng các ô trong cột C có chứa từ \"Lương\".",
+        "C. Đếm số ô trong cột D có chứa từ \"Lương\".",
+        "D. Đếm số ô trong cột C có chứa từ \"Lương\"."
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Dấu * trong điều kiện *Lương* cho phép tìm bất kỳ chuỗi ký tự có chứa từ \"Lương\" trong cột C, sau đó tính tổng các giá trị tương ứng trong cột D."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Hàm =SUMIF(B2:B10, \">5000\") sẽ:",
+      "options": [
+        "A. Tính tổng các ô trong cột B có giá trị nhỏ hơn hoặc bằng 5000.",
+        "B. Tính tổng các ô trong cột B có giá trị lớn hơn 5000.",
+        "C. Đếm số ô trong cột B có giá trị lớn hơn 5000.",
+        "D. Tính tổng các ô trong cột B có giá trị bằng 5000."
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Điều kiện \">5000\" giới hạn việc tính tổng cho các giá trị trong cột B lớn hơn 5000."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Khi không điền tham số [sum_range], hàm SUMIF sẽ:",
+      "options": [
+        "A. Tính tổng các ô trong range thỏa mãn criteria.",
+        "B. Đếm các ô trong range thỏa mãn criteria.",
+        "C. Trả về lỗi.",
+        "D. Không thực hiện bất kỳ tính toán nào."
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Nếu không có [sum_range], hàm SUMIF sẽ tính tổng trực tiếp các giá trị trong range đáp ứng criteria."
+    }
+  ]
+}

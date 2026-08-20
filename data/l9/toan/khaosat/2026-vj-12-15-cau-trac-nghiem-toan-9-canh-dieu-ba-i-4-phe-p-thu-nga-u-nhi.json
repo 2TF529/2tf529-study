@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-12-15-cau-trac-nghiem-toan-9-canh-dieu-ba-i-4-phe-p-thu-nga-u-nhi",
+  "sourceId": "vietjack:12-15-cau-trac-nghiem-toan-9-canh-dieu-b",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "12.15 câu Trắc nghiệm Toán 9 Cánh diều Bài 4. Phép thử ngẫu nhiều và không gian mẫu. Xác suất của biến cố (Phần 2) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho phép thử \\[T\\] , xét biến cố \\[E\\] . Kết quả của phép thử \\[T\\] làm cho biến cố \\[E\\] xảy ra được gọi là",
+      "options": [
+        "A. Kết quả đúng với \\[E\\] .",
+        "B. Kết quả phù hợp với \\[E\\] .",
+        "C. Kết quả của \\[E\\] .",
+        "D. Kết quả thuận lợi cho \\[E\\] ."
+      ],
+      "answer": "D",
+      "note": "Chọn D Kết quả của phép thử \\[T\\] làm cho biến cố \\[E\\] xảy ra được gọi là kết quả thuận lợi cho \\[E\\]."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Giả sử các kết quả có thể của phép thử T là đồng khả năng xảy ra. Khi đó xác suất của biến cố \\[E\\] có liên quan tới T được ký hiệu là",
+      "options": [
+        "A. \\(A\\left( E \\right)\\) .",
+        "B. \\(P\\left( E \\right)\\) .",
+        "C. \\(Q\\left( E \\right)\\) .",
+        "D. \\(n\\left( E \\right)\\) ."
+      ],
+      "answer": "B",
+      "note": "Chọn B Xác suất của biến cố \\[E\\] có liên quan tới T được ký hiệu là \\(P\\left( E \\right)\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trong các phép thử sau, phép thử mà các kết quả không có cùng khả năng xảy ra là",
+      "options": [
+        "A. Gieo một đồng xu cân đối và đồng chất.",
+        "B. Lấy ngẫu nhiên 1 viên bi từ một hộp có 10 viên bi giống nhau được đánh số từ 1 đến 10.",
+        "C. Lấy ngẫu nhiên 1 tấm thẻ từ một hộp chứa 2 tấm thẻ ghi số 5 và 5 tấm thẻ ghi số 2 và xem số của nó.",
+        "D. Các kết quả của các phép thử trên đều có cùng khả năng xảy ra."
+      ],
+      "answer": "C",
+      "note": "Chọn C  Các kết quả của phép thử A có cùng khả năng xảy ra vì khả năng gieo ra mặt sấp và ngửa là như nhau.  Các kết quả của phép thử B có cùng khả năng xảy ra vì các viên bi giống nhau nên khả năng được lựa chọn của các viên bi là như nhau.  Các kết quả của phép thử C không cùng khả năng xảy ra vì không thể khẳng định các thẻ lấy ra có cùng khối lượng, kích thước."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Xét một phép thử có không gian mẫu \\(\\Omega \\) và \\(A\\) là một biến cố của phép thử đó. Xác suất của biến cố \\(A\\) là",
+      "options": [
+        "A. \\(P\\left( A \\right) = \\frac{{n\\left( A \\right)}}{{n\\left( \\Omega \\right)}}\\) .",
+        "B. \\[P\\left( A \\right) = \\frac{{n\\left( \\Omega \\right)}}{{n\\left( A \\right)}}\\] .",
+        "C. \\(P\\left( A \\right) = n\\left( A \\right).n\\left( \\Omega \\right)\\) .",
+        "D. \\(n\\left( A \\right) = n\\left( \\Omega \\right)\\) ."
+      ],
+      "answer": "A",
+      "note": "Chọn A Xác suất của biến cố \\(A\\) bằng tỉ số giữa số kết quả thuận lợi cho \\(A\\) và số phần tử của tập hợp \\(\\Omega \\). Xác suất của biến cố \\(A\\) bằng \\(P\\left( A \\right) = \\frac{{n\\left( A \\right)}}{{n\\left( \\Omega \\right)}}\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Chọn ngẫu nhiên một số tự nhiên từ 1 đến 10. Xác suất của biến cố \\(A\\) : “Số được chọn là 10” là",
+      "options": [
+        "A. \\(\\frac{4}{{10}}\\) .",
+        "B. \\(\\frac{3}{{10}}\\) .",
+        "C. \\(\\frac{2}{{10}}\\) .",
+        "D. \\(\\frac{1}{{10}}\\) ."
+      ],
+      "answer": "D",
+      "note": "Chọn D Không gian mẫu của phép thử là \\(\\Omega = \\left\\{ {1;\\,\\,2;\\,\\,3;\\,\\,4;\\,\\,5;\\,\\,6;\\,\\,7;\\,\\,8;\\,\\,9;\\,\\,10} \\right\\}\\). Khả năng được chọn của các số là như nhau nên các kết quả của phép thử có cùng khả năng xảy ra. Có 1 kết quả thuận lợi cho biến cố C là: 10. Vậy xác suất xảy ra biến cố \\(A\\) là \\(P\\left( A \\right) = \\frac{1}{{10}}\\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Một đĩa tròn bằng bìa cứng được chia làm 12 phần bằng nhau và ghi các số \\[1\\,;\\,\\,2\\,;\\,\\,3\\,;\\,\\,...\\,;\\,\\,12.\\] Chiếc kim được gắn cố định vào trục quay ở tâm của đĩa. Xét phép thử “Quay đĩa tròn một lần”. Xác suất của biến cố \\[D\\] : “Chiếc kim chỉ vào hình quạt ghi số nguyên tố” là:",
+      "options": [
+        "A. \\(P\\left( D \\right) = \\frac{3}{{12}}\\) .",
+        "B. \\(P\\left( D \\right) = \\frac{5}{{12}}\\) .",
+        "C. \\(P\\left( D \\right) = \\frac{7}{{12}}\\) .",
+        "D. \\(P\\left( D \\right) = \\frac{9}{{12}}\\) ."
+      ],
+      "answer": "B",
+      "note": "Chọn B Không gian mẫu của phép thử là \\[\\Omega = \\left\\{ {1\\,;\\,\\,2\\,;\\,\\,3\\,;\\,\\,4\\,;\\,\\,5\\,;\\,\\,6\\,;\\,\\,7\\,;\\,\\,8\\,;\\,\\,9\\,;\\,\\,10\\,;\\,\\,11\\,;\\,\\,12} \\right\\}\\]. Khả năng quay vào các số là như nhau nên các kết quả của phép thử có cùng khả năng xảy ra. Các kết quả thuận lợi cho biến cố \\[D\\] là: \\[2\\,;\\,\\,3\\,;\\,\\,5\\,;\\,\\,7\\,;\\,\\,11.\\] Vậy xác suất xảy ra biến cố \\[D\\] là \\(P\\left( D \\right) = \\frac{5}{{12}}\\)."
+    }
+  ]
+}

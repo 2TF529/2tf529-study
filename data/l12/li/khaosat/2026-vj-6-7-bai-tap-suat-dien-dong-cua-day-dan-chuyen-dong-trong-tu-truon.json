@@ -1,0 +1,52 @@
+{
+  "id": "2026-vj-6-7-bai-tap-suat-dien-dong-cua-day-dan-chuyen-dong-trong-tu-truon",
+  "sourceId": "vietjack:6-7-bai-tap-suat-dien-dong-cua-day-dan-c",
+  "grade": "l12",
+  "subjectSlug": "li",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "6.7 Bài tập Suất điện động của dây dẫn chuyển động trong từ trường (có lời giải)",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Một dây dẫn thẳng dài 0,20 m chuyển động đều với tốc độ 3,0 m/s trong từ trường và vuông góc với cảm ứng từ có độ lớn 0,10 T. Suất điện động cảm ứng giữa hai đầu dây là",
+      "options": [
+        "A. 0,5 V.",
+        "B. 0,06 V.",
+        "C. 0,05 V.",
+        "D. 0,04 V."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là B \\({e_c} = B\\ell v\\sin \\alpha = 0,1.0,2.3.\\sin 90^\\circ = 0,06\\,V\\)"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 4: Trong hình vẽ, từ trường đều có phương ngang, cảm ứng từ B = 0,5 T có chiều như hình vẽ. Hai thanh xx’, yy’ dẫn điện song song, cách nhau 20 cm trong mặt phẳng thẳng đứng. Hai đầu x, y được nối với một nguồn điện có suất điện động E = 12 V, điện trở trong r = 1. Đoạn dây MN nằm ngang, hai đầu M và N tiếp xúc và có ma sát không đáng kể với hai thanh xx’, yy’. Cho biết MN không chuyển động. Bỏ qua điện trở của đoạn dây MN, xx’; yy’ và các chỗ tiếp xúc. Lấy g = 10 m/s 2 . Khối lượng của thanh MN là",
+      "options": [
+        "A. 120 g.",
+        "B. 12 g.",
+        "C. 24 g.",
+        "D. 240 g."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là A Ta có: \\({\\rm{I}} = \\frac{{\\rm{E}}}{{\\rm{r}}} = \\frac{{12}}{1} = 12\\;{\\rm{A}}\\) Thanh cân bằng: \\({\\rm{P}} = {\\rm{F}} \\Rightarrow {\\rm{mg}} = {\\rm{BI}}\\ell \\)\\( \\Rightarrow {\\rm{m}} = \\frac{{{\\rm{BI}}\\ell }}{{\\rm{g}}} = \\frac{{0,5 \\cdot 12 \\cdot 0,2}}{{10}} = 0,12\\;{\\rm{kg}} = 120\\;{\\rm{g}}\\)"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 5: Một thanh nhôm MN, khối lượng 0,20 kg chuyển động trong từ trường đều và luôn tiếp xúc với hai thanh ray đặt song song cách nhau 1,6 m nằm ngang, nằm trong mặt phẳng hình vẽ. Từ trường ngược hướng với trọng lực, có độ lớn B = 0,05 T. Hệ số ma sát giữa thanh nhôm MN và hai thanh ray là = 0,40. Biết thanh nhôm chuyển đều và điện trở của mạch không đổi. Lấy g = 10 m/s 2 . Bỏ qua hiện tượng cảm ứng điện từ. Thanh nhôm chuyển động về phía",
+      "options": [
+        "A. gần nguồn và có I = 10A.",
+        "B. xa nguồn và có I = 10 A.",
+        "C. gần nguồn và có I = 5 A.",
+        "D. xa nguồn và có I = 5 A."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là B - Theo quy tắc bàn tay trái, hướng của lực từ có dạng như hình vẽ, có độ lớn - Vì chuyển động đều nên lực từ cân bằng với lực \\( \\Rightarrow B\\ell I = \\mu {\\rm{mg}} \\Rightarrow I = \\frac{{\\mu {\\rm{mg}}}}{{B\\ell }} \\Rightarrow I = \\frac{{0,4 \\cdot 0,2 \\cdot 10}}{{0,05 \\cdot 1,6}} = 10\\;{\\rm{A}}\\)"
+    }
+  ]
+}

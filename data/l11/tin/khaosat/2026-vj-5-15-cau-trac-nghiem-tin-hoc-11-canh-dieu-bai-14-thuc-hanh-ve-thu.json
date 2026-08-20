@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-5-15-cau-trac-nghiem-tin-hoc-11-canh-dieu-bai-14-thuc-hanh-ve-thu",
+  "sourceId": "vietjack:5-15-cau-trac-nghiem-tin-hoc-11-canh-die",
+  "grade": "l11",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "5.15 câu Trắc nghiệm Tin học 11 Cánh diều Bài 14: Thực hành về thư viện các hàm tự định nghĩa có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Thư viện myLib được tạo ra nhằm mục đích gì?",
+      "options": [
+        "A. Chứa mã nguồn của tất cả các chương trình Python.",
+        "B. Chứa các hàm tự viết để thực hiện các thuật toán sắp xếp và tìm kiếm.",
+        "C. Lưu trữ dữ liệu đầu vào của người dùng.",
+        "D. Để lưu trữ hình ảnh và âm thanh."
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Thư viện myLib được tạo ra để chứa các hàm mà người lập trình tự viết nhằm thực hiện các thuật toán sắp xếp và tìm kiếm, giúp tái sử dụng mã nguồn."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Tệp nào là cần thiết để Python nhận diện myLib như một gói thư viện?",
+      "options": [
+        "A. myLib.py",
+        "B. init.py",
+        "C. library.py",
+        "D. setup.py"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Tệp __init__.py được sử dụng để cho Python biết rằng thư mục đó là một gói (package), cho phép chúng ta import các mô-đun trong thư mục đó."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Hàm nào được sử dụng để thực hiện việc sắp xếp dãy số trong mySort.py?",
+      "options": [
+        "A. sort()",
+        "B. sorted()",
+        "C. sxNoibot()",
+        "D. mySort()"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Trong mySort.py, hàm sxNoibot() được sử dụng để thực hiện thuật toán sắp xếp nổi bọt (bubble sort) cho dãy số."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Khi muốn sử dụng thư viện myLib trong một chương trình khác, ta cần thực hiện thao tác gì?",
+      "options": [
+        "A. Tạo một tệp mới có tên myLib.py.",
+        "B. Nhập from myLib import mySort và from myLib import mySearch.",
+        "C. Sao chép toàn bộ mã nguồn của myLib vào chương trình.",
+        "D. Không cần làm gì cả."
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Để sử dụng thư viện myLib, ta cần khai báo import thư viện trong chương trình, điều này cho phép sử dụng các hàm đã định nghĩa trong thư viện."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Tại sao nên cắt bỏ các hàm đã có trong thư viện myLib khi viết lại chương trình chính?",
+      "options": [
+        "A. Để chương trình dễ đọc hơn và tránh lặp lại mã.",
+        "B. Để tiết kiệm dung lượng lưu trữ.",
+        "C. Để giảm thiểu số lượng tệp cần quản lý.",
+        "D. Để tránh xung đột tên hàm"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Cắt bỏ các hàm đã có trong thư viện giúp chương trình dễ đọc hơn và tránh việc lặp lại mã, tăng tính tối ưu và bảo trì cho chương trình."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Nếu một hàm tự viết không có trong thư viện myLib, ta nên làm gì?",
+      "options": [
+        "A. Bỏ qua và không sử dụng hàm đó.",
+        "B. Cắt dán mã nguồn của hàm vào thư viện myLib.",
+        "C. Viết lại hàm đó trong chương trình chính.",
+        "D. Thay thế hàm bằng một hàm có sẵn trong Python"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Nếu phát hiện hàm tự viết không có trong thư viện myLib, người lập trình nên cắt dán mã nguồn của hàm vào thư viện để có thể sử dụng lại trong các chương trình sau."
+    }
+  ]
+}

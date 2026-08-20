@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-4-12-bai-tap-xac-dinh-vi-tri-tuong-doi-cua-hai-duong-tron-co-loi-",
+  "sourceId": "vietjack:4-12-bai-tap-xac-dinh-vi-tri-tuong-doi-c",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "4.12 bài tập Xác định vị trí tương đối của hai đường tròn có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Nếu hai đường tròn tiếp xúc nhau thì số điểm chung của hai đường tròn là:",
+      "options": [
+        "A. 1.",
+        "B. 2.",
+        "C. 3.",
+        "D. 0."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Hai đường tròn tiếp xúc nhau thì có 1 điểm chung duy nhất."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Nếu hai đường tròn không cắ nhau thì số điểm chung của hai đường tròn là:",
+      "options": [
+        "A. 1.",
+        "B. 2.",
+        "C. 3.",
+        "D. 0."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Hai đường tròn không cắt nhau thì số điểm chung của hai đường tròn là 0."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho hai đường tròn (O; R) và (O ' ; r) với R > r cắt nhau tại hai điểm phân biệt và OO ' = d. Chọn khẳng định đúng:",
+      "options": [
+        "A. d = R – r.",
+        "B. d > R + r.",
+        "C. R – r < d < R + r.",
+        "D. d < R – r."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Hai đường tròn (O; R) và (O ' ; r) có (R > r) cắt nhau. Khi đó (O) và (O ' ) có hai điểm chung và đường nối tâm là đường trung trực của đoạn AB. Hệ thức liên hệ R – r < d < R + r."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hai đường tròn (O; 8 cm) và (O ' ; 6 cm) cắt nhau tại A, B sao cho OA là tiếp tuyến của (O ' ). Độ dài dây AB là:",
+      "options": [
+        "A. AB = 8,6 cm.",
+        "B. AB = 6,9 cm.",
+        "C. AB = 4,8 cm.",
+        "D. AB = 9,6 cm."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Vì OA là tiếp tuyến của (O ' ) nên ∆OAO ' vuông tại A. Vì (O) và (O ' ) cắt nhau tại A, B nên đường nối tâm OO ' là đường trung trực của đoạn AB. Gọi giao điểm của AB và OO ' là I thì AB ⊥ OO ' tại I là trung điểm của AB. Xét ∆IAO và ∆AO ' O có: \\(\\widehat {OIA} = \\widehat {OAO'} = 90^\\circ \\), \\(\\widehat {AOI} = \\widehat {O'OA}\\) Suy ra ∆IAO ∽ ∆AO ' O (g.g) suy ra \\(\\frac{{IA}}{{AO'}} = \\frac{{AO}}{{OO'}}\\) hay IA = \\(\\frac{{AO'.AO}}{{OO'}} = \\frac{{8.6}}{{\\sqrt {{6^2} + {8^2}} }} = \\frac{{48}}{{10}}\\) = 4,8 cm. Do đó, AB = 2AI = 9,6 cm."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hai đường tròn (O; 6 cm) và (O ' ; 2 cm) cắt nhau tại A, B sao cho OA là tiếp tuyến của (O ' ). Độ dài dây AB là:",
+      "options": [
+        "A. AB = \\(3\\sqrt {10} \\) cm.",
+        "B. AB = \\(\\frac{{6\\sqrt {10} }}{5}\\) cm.",
+        "C. AB = \\(\\frac{{3\\sqrt {10} }}{5}\\) cm.",
+        "D. AB = \\(\\frac{{\\sqrt {10} }}{5}\\) cm."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Vì OA là tiếp tuyến của (O ' ) nên ∆OAO ' vuông tại A. Vì (O) và (O ' ) cắt nhau tại A, B nên đường nối tâm OO ' là đường trung trực của đoạn AB. Gọi giao điểm của AB và OO ' là I thì AB ⊥ OO ' tại I là trung điểm của AB. Xét ∆IAO và ∆AO ' O có: \\(\\widehat {OIA} = \\widehat {OAO'} = 90^\\circ \\), \\(\\widehat {AOI} = \\widehat {O'OA}\\) Suy ra ∆IAO ∽ ∆AO ' O (g.g) suy ra \\(\\frac{{IA}}{{AO'}} = \\frac{{AO}}{{OO'}}\\) hay IA = \\(\\frac{{AO'.AO}}{{OO'}} = \\frac{{2.6}}{{\\sqrt {{6^2} + {2^2}} }} = \\frac{{12}}{{2\\sqrt {10} }} = \\frac{{6\\sqrt {10} }}{{10}}\\) cm. Do đó, AB = 2AI = \\(\\frac{{6\\sqrt {10} }}{5}\\) cm."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Vị trí tương đối của hai đường tròn là:",
+      "options": [
+        "A. Nằm ngoài nhau.",
+        "B. Cắt nhau.",
+        "C. Tiếp xúc ngoài.",
+        "D. Tiếp xúc trong."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Vì hai đường tròn có một điểm chung là A và OO ' = AO – \\(\\frac{{AO}}{2}\\) = R – r nên hai đường tròn tiếp xúc trong."
+    }
+  ]
+}

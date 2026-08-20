@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-9-ket-noi-tri-thuc-bai-16-co-dap-an",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-9-ket-noi-t",
+  "grade": "l9",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu trắc nghiệm Tin học 9 Kết nối tri thức Bài 16 có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Trong bài toán tính lương, bước nào cần sử dụng cấu trúc rẽ nhánh?",
+      "options": [
+        "A. Nhập thời gian làm việc.",
+        "B. Tính tiền lương cơ bản và vượt mức.",
+        "C. Xuất kết quả tiền lương.",
+        "D. Gán giá trị cho biến trung gian."
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Cấu trúc rẽ nhánh được dùng để kiểm tra thời gian làm việc có vượt định mức hay không, từ đó tính tiền lương cơ bản và tiền lương vượt mức."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Ngôn ngữ lập trình Scratch yêu cầu gì để biểu diễn số thập phân?",
+      "options": [
+        "A. Dùng dấu phẩy (,).",
+        "B. Dùng dấu chấm (.).",
+        "C. Dùng cả dấu phẩy và dấu chấm.",
+        "D. Không hỗ trợ số thập phân."
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Trong Scratch, số thập phân được biểu diễn bằng dấu chấm (.) thay cho dấu phẩy (,) trong cách viết của tiếng Việt."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trong thuật toán tính lương, biến nào là biến đầu ra?",
+      "options": [
+        "A. tgian_laodong.",
+        "B. tien_luong.",
+        "C. tgian_dmuc.",
+        "D. muc_luong."
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Biến tien_luong là kết quả cuối cùng cần tính và hiển thị, được xem là biến đầu ra."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Khi nhập sai dữ liệu trong bài toán tính lương, chương trình cần thực hiện điều gì?",
+      "options": [
+        "A. Hiển thị cảnh báo và dừng chương trình.",
+        "B. Tự động sửa dữ liệu.",
+        "C. Yêu cầu nhập lại dữ liệu.",
+        "D. Chuyển sang bước tính lương."
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Khi dữ liệu đầu vào không hợp lệ (âm hoặc không phải số), chương trình yêu cầu người dùng nhập lại để đảm bảo tính đúng của kết quả."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cấu trúc nào phù hợp để kiểm tra thời gian làm việc có vượt định mức hay không?",
+      "options": [
+        "A. Lặp.",
+        "B. Rẽ nhánh.",
+        "C. Tuần tự.",
+        "D. Kết hợp cả 3 cấu trúc."
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Cấu trúc rẽ nhánh được sử dụng để kiểm tra các điều kiện như thời gian làm việc vượt định mức hay không."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong bài toán tìm giá trị lớn nhất, khi nhập vào giá trị không hợp lệ, chương trình cần:",
+      "options": [
+        "A. Tính toán giá trị lớn nhất từ dữ liệu đã nhập.",
+        "B. Bỏ qua giá trị không hợp lệ và tiếp tục.",
+        "C. Dừng chương trình ngay lập tức.",
+        "D. Hiển thị lỗi và kết thúc."
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Chương trình cần xử lý dữ liệu không hợp lệ bằng cách bỏ qua và tiếp tục nhận các giá trị hợp lệ."
+    }
+  ]
+}

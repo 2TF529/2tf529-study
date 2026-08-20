@@ -1,0 +1,196 @@
+{
+  "id": "l12-toan-totnghiep-2026-de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-dong-thap-nam-2026-lan-1",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "code": "THPT_TKT_2026_ĐT_01",
+  "title": "Đề khảo sát chất lượng THPT môn Toán Sở GD&ĐT Đồng Tháp năm 2026 - Lần 1",
+  "duration": 90,
+  "answerSource": "official",
+  "source": "https://dolthpt.vn/tot-nghiep-thpt/pdf-de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-dong-thap-nam-2026-lan-1-co-dap-an",
+  "notes": "Nội dung, đáp án và lời giải được nhập từ bản công khai của DOL THPT.",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "content": "Cho hàm số $f(x)=\\left(\\sin \\dfrac{x}{2}-\\cos \\dfrac{x}{2}\\right)^2$. Khẳng định nào sau đây là đúng?",
+      "chuong": "nguyên hàm và tích phân",
+      "dang": "nguyên hàm của một số hàm số thường gặp",
+      "type": "single",
+      "options": [
+        "A. $\\int f(x)dx=x-\\cos x+C$",
+        "B. $\\int f(x)dx=-x-\\cos x+C$",
+        "C. $\\int f(x)dx=x+\\cos x+C$",
+        "D. $\\int f(x)dx=x-\\sin x+C$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số $f(x)=\\left(\\sin\\dfrac{x}{2}-\\cos\\dfrac{x}{2}\\right)^2$.\n- Cần chọn một nguyên hàm đúng của $f(x)$.\n❓ **Hiểu câu hỏi:**\n- Rút gọn biểu thức lượng giác trước, rồi lấy nguyên hàm từng hạng tử.\n🔎 **Hướng dẫn cách làm:**\n- Ta có $\\left(\\sin\\dfrac{x}{2}-\\cos\\dfrac{x}{2}\\right)^2=\\sin^2\\dfrac{x}{2}+\\cos^2\\dfrac{x}{2}-2\\sin\\dfrac{x}{2}\\cos\\dfrac{x}{2}=1-\\sin x$.\n- Suy ra $\\int f(x)dx=\\int(1-\\sin x)dx=x+\\cos x+C$.\n- Đối chiếu với bốn phương án, biểu thức $x+\\cos x+C$ xuất hiện ở phương án C.\n✅ **Đáp án:** Chọn C."
+    },
+    {
+      "id": 2,
+      "content": "Một người thống kê lại thời gian thực hiện các cuộc gọi điện thoại của người đó trong một tuần ở bảng. Thời gian người đó gọi điện trung bình trong tuần gần nhất với giá trị nào sau đây?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-dong-thap-nam-2026-lan-1/cau-02.webp\" alt=\"Hình minh họa câu 2\" loading=\"lazy\"></figure>",
+      "chuong": "các số đặc trưng đo xu thế trung tâm của mẫu số liệu ghép nhóm",
+      "dang": "số trung bình của mẫu số liệu ghép nhóm",
+      "type": "single",
+      "options": [
+        "A. \\$125$ giây",
+        "B. \\$126$ giây",
+        "C. \\$127$ giây",
+        "D. \\$128$ giây"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Các lớp thời gian gọi là $[0;60),[60;120),[120;180),[180;240),[240;300),[300;360)$.\n- Tần số tương ứng là \\$9,9,5,7,2,1$.\n❓ **Hiểu câu hỏi:**\n- Dùng giá trị đại diện của mỗi lớp để tính số trung bình mẫu số liệu ghép nhóm.\n🔎 **Hướng dẫn cách làm:**\n- Giá trị đại diện của các lớp lần lượt là \\$30,90,150,210,270,330$.\n- Tổng số cuộc gọi là \\$9+9+5+7+2+1=33$.\n- Số trung bình là $\\bar x=\\dfrac{30\\cdot9+90\\cdot9+150\\cdot5+210\\cdot7+270\\cdot2+330\\cdot1}{33}\\approx126{,}36$ giây.\n- Giá trị gần nhất trong các đáp án là \\$126$ giây.\n✅ **Đáp án:** Chọn B."
+    },
+    {
+      "id": 3,
+      "content": "Trong không gian $Oxyz$, cho hai điểm $A(3;1;-2), B(2;-3;5)$. Điểm $M$ thuộc đoạn $AB$ sao cho $MA=2MB$, tọa độ điểm $M$ là",
+      "chuong": "vectơ và hệ trục tọa độ trong không gian",
+      "dang": "tọa độ của điểm, tọa độ của vectơ trong không gian",
+      "type": "single",
+      "options": [
+        "A. $\\left(\\dfrac{3}{2};-5;\\dfrac{17}{2}\\right)$",
+        "B. $\\left(\\dfrac{7}{3};-\\dfrac{5}{3};\\dfrac{8}{3}\\right)$",
+        "C. $(1;-7;12)$",
+        "D. $(4;5;-9)$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hai điểm $A(3;1;-2)$, $B(2;-3;5)$.\n- Điểm $M$ thuộc đoạn $AB$ và $MA=2MB$.\n❓ **Hiểu câu hỏi:**\n- Vì $MA:MB=2:1$ nên $M$ gần $B$ hơn; dùng công thức chia đoạn theo tỉ số.\n🔎 **Hướng dẫn cách làm:**\n- Từ $MA:MB=2:1$, ta có $\\overrightarrow{AM}=\\dfrac{2}{3}\\overrightarrow{AB}$.\n- Tọa độ điểm chia đoạn là $M=\\dfrac{A+2B}{3}$.\n- Suy ra $M\\left(\\dfrac{3+2\\cdot2}{3};\\dfrac{1+2(-3)}{3};\\dfrac{-2+2\\cdot5}{3}\\right)=\\left(\\dfrac73;-\\dfrac53;\\dfrac83\\right)$.\n✅ **Đáp án:** Chọn B."
+    },
+    {
+      "id": 4,
+      "content": "Đồ thị hàm số $y=\\dfrac{2x^2+7x-5}{4x-2}$ có đường tiệm cận xiên là",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "đường tiệm cận xiên",
+      "type": "single",
+      "options": [
+        "A. $y=x+4$",
+        "B. $y=\\dfrac{1}{2}x+2$",
+        "C. $y=2x+6$",
+        "D. $y=\\dfrac{1}{2}x$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số $y=\\dfrac{2x^2+7x-5}{4x-2}$.\n- Cần tìm tiệm cận xiên của đồ thị.\n❓ **Hiểu câu hỏi:**\n- Với phân thức có bậc tử lớn hơn bậc mẫu đúng \\$1$, chia đa thức để tách phần tuyến tính.\n🔎 **Hướng dẫn cách làm:**\n- Chia đa thức được $\\dfrac{2x^2+7x-5}{4x-2}=\\dfrac12x+2-\\dfrac{1}{4x-2}$.\n- Khi $x\\to\\pm\\infty$, phần dư $-\\dfrac{1}{4x-2}\\to0$.\n- Vì vậy tiệm cận xiên là đường thẳng $y=\\dfrac12x+2$.\n✅ **Đáp án:** Chọn B."
+    },
+    {
+      "id": 5,
+      "content": "Cho hình chóp $S.ABCD$ có đáy là hình thoi tâm $O$, $SA\\perp(ABCD)$. Khẳng định nào sau đây là SAI?",
+      "chuong": "quan hệ vuông góc trong không gian",
+      "dang": "điều kiện hai mặt phẳng vuông góc",
+      "type": "single",
+      "options": [
+        "A. $[S;AC;B]=90^\\circ$",
+        "B. $[S;BD;A]=\\widehat{SOA}$",
+        "C. $[S;BD;C]=\\widehat{SOA}$",
+        "D. $(SAC)\\perp(SBD)$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hình chóp $S.ABCD$ có đáy là hình thoi tâm $O$.\n- $SA\\perp(ABCD)$.\n❓ **Hiểu câu hỏi:**\n- Dùng tính chất hai đường chéo hình thoi vuông góc và quan hệ vuông góc giữa đường thẳng với mặt phẳng để kiểm tra từng mệnh đề.\n🔎 **Hướng dẫn cách làm:**\n- Trong hình thoi, $AC\\perp BD$ tại $O$; lại có $SA\\perp(ABCD)$ nên $SA\\perp BD$.\n- Vì $BD$ vuông góc với hai đường cắt nhau $SA,AC$ trong mặt phẳng $(SAC)$ nên $BD\\perp(SAC)$, suy ra $(SAC)\\perp(SBD)$.\n- Các góc liên quan đến mặt phẳng chứa $BD$ phải lấy theo hình chiếu vuông góc lên mặt phẳng vuông góc với $BD$; khi thay điểm $C$, mệnh đề $[S;BD;C]=\\widehat{SOA}$ không còn đúng.\n- Do đó khẳng định sai là phương án C.\n✅ **Đáp án:** Chọn C."
+    },
+    {
+      "id": 6,
+      "content": "Ta có $\\int_{-1}^{1}|e^x-1|dx=ae+be^{-1}+c$ với $a,b,c\\in\\mathbb{Z}$. Tính giá trị của biểu thức $a+b+c$.",
+      "chuong": "nguyên hàm và tích phân",
+      "dang": "tính chất của tích phân",
+      "type": "single",
+      "options": [
+        "A. \\$3$",
+        "B. \\$2$",
+        "C. \\$0$",
+        "D. $-2$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Tích phân $\\int_{-1}^{1}|e^x-1|dx=ae+be^{-1}+c$ với $a,b,c\\in\\mathbb Z$.\n- Cần tính $a+b+c$.\n❓ **Hiểu câu hỏi:**\n- Xét dấu của $e^x-1$ tại mốc $x=0$ để bỏ dấu giá trị tuyệt đối.\n🔎 **Hướng dẫn cách làm:**\n- Trên $[-1;0]$, $e^x-1<0$ nên $|e^x-1|=1-e^x$.\n- Trên $[0;1]$, $e^x-1\\ge0$ nên $|e^x-1|=e^x-1$.\n- Khi đó $\\int_{-1}^{1}|e^x-1|dx=\\int_{-1}^{0}(1-e^x)dx+\\int_{0}^{1}(e^x-1)dx=e^{-1}+e-2$.\n- Suy ra $a=1,b=1,c=-2$ nên $a+b+c=0$.\n✅ **Đáp án:** Chọn C."
+    },
+    {
+      "id": 7,
+      "content": "Trong không gian với hệ tọa độ $Oxyz$, mặt phẳng $(P)$ chứa trục $Ox$ và vuông góc với mặt phẳng $(\\alpha):2x-3y+4z-5=0$ có phương trình là",
+      "chuong": "phương pháp tọa độ trong không gian",
+      "dang": "điều kiện để hai mặt phẳng vuông góc với nhau",
+      "type": "single",
+      "options": [
+        "A. \\$4y+3z=0$",
+        "B. \\$4y-3z=0$",
+        "C. \\$3x+2y=0$",
+        "D. \\$3x+4y-1=0$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Mặt phẳng $(P)$ chứa trục $Ox$.\n- Mặt phẳng $(P)$ vuông góc với $(\\alpha):2x-3y+4z-5=0$.\n❓ **Hiểu câu hỏi:**\n- Mặt phẳng chứa $Ox$ có dạng $ay+bz=0$; hai mặt phẳng vuông góc khi tích vô hướng hai vectơ pháp tuyến bằng \\$0$.\n🔎 **Hướng dẫn cách làm:**\n- Vì $(P)$ chứa trục $Ox$ nên phương trình không có hằng số và không có thành phần $x$: $(P):ay+bz=0$, với pháp tuyến $\\vec n_P=(0,a,b)$.\n- Mặt phẳng $(\\alpha)$ có pháp tuyến $\\vec n_\\alpha=(2,-3,4)$.\n- Điều kiện vuông góc là $\\vec n_P\\cdot\\vec n_\\alpha=0\\Rightarrow -3a+4b=0$.\n- Phương án A có $\\vec n=(0,4,3)$ và $-3\\cdot4+4\\cdot3=0$, đồng thời chứa $Ox$.\n✅ **Đáp án:** Chọn A."
+    },
+    {
+      "id": 8,
+      "content": "Trong không gian với hệ tọa độ $Oxyz$, cho mặt phẳng $(P):2x+y-z-1=0$. Đường thẳng nào dưới đây song song với mặt phẳng $(P)$?",
+      "chuong": "phương pháp tọa độ trong không gian",
+      "dang": "phương trình đường thẳng",
+      "type": "single",
+      "options": [
+        "A. $\\dfrac{x-1}{-1}=\\dfrac{y+3}{-3}=\\dfrac{z+1}{1}$",
+        "B. $\\dfrac{x+1}{2}=\\dfrac{y-3}{1}=\\dfrac{z-1}{-1}$",
+        "C. $\\dfrac{x+1}{-1}=\\dfrac{y-2}{3}=\\dfrac{z}{1}$",
+        "D. $\\dfrac{x+1}{-1}=\\dfrac{y-2}{2}=\\dfrac{z}{1}$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Mặt phẳng $(P):2x+y-z-1=0$ có pháp tuyến $\\vec n=(2,1,-1)$.\n- Cần chọn đường thẳng song song với $(P)$.\n❓ **Hiểu câu hỏi:**\n- Đường thẳng song song với mặt phẳng khi vectơ chỉ phương vuông góc với pháp tuyến mặt phẳng và đường thẳng không nằm trong mặt phẳng.\n🔎 **Hướng dẫn cách làm:**\n- Với phương án C, vectơ chỉ phương là $\\vec u=(-1,3,1)$.\n- Ta có $\\vec u\\cdot\\vec n=(-1)\\cdot2+3\\cdot1+1\\cdot(-1)=0$ nên đường thẳng có phương song song với mặt phẳng.\n- Điểm thuộc đường thẳng C là $(-1;2;0)$; thay vào $(P)$ được \\$2(-1)+2-0-1=-1\\ne0$, nên đường thẳng không nằm trong mặt phẳng.\n- Vì vậy đường thẳng ở phương án C song song với $(P)$.\n✅ **Đáp án:** Chọn C."
+    },
+    {
+      "id": 9,
+      "content": "Cho cấp số cộng $(u_n)$, biết $u_2=4;u_6=8$. Tìm số hạng thứ \\$100$ của cấp số cộng đó.",
+      "chuong": "dãy số. cấp số cộng và cấp số nhân",
+      "dang": "số hạng tổng quát của cấp số cộng",
+      "type": "single",
+      "options": [
+        "A. \\$106$",
+        "B. \\$102$",
+        "C. \\$100$",
+        "D. \\$104$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cấp số cộng $(u_n)$ có $u_2=4$ và $u_6=8$.\n- Cần tìm $u_{100}$.\n❓ **Hiểu câu hỏi:**\n- Dùng công thức $u_n=u_1+(n-1)d$ hoặc lấy hiệu hai số hạng để tìm công sai.\n🔎 **Hướng dẫn cách làm:**\n- Ta có $u_6-u_2=4d=8-4=4$ nên $d=1$.\n- Từ $u_2=u_1+d=4$ suy ra $u_1=3$.\n- Do đó $u_{100}=u_1+99d=3+99=102$.\n✅ **Đáp án:** Chọn B."
+    },
+    {
+      "id": 10,
+      "content": "Tập nghiệm của phương trình $\\cos x=-1$ là",
+      "chuong": "hàm số lượng giác và phương trình lượng giác",
+      "dang": "phương trình cosx=m",
+      "type": "single",
+      "options": [
+        "A. $S=\\left\\{-\\dfrac{\\pi}{3}+k2\\pi, k\\in\\mathbb{Z}\\right\\}$",
+        "B. $S=\\left\\{\\pi+k2\\pi, k\\in\\mathbb{Z}\\right\\}$",
+        "C. $S=\\left\\{\\dfrac{\\pi}{2}+2k\\pi, k\\in\\mathbb{Z}\\right\\}$",
+        "D. $S=\\left\\{-\\dfrac{\\pi}{2}+k2\\pi, k\\in\\mathbb{Z}\\right\\}$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Phương trình lượng giác $\\cos x=-1$.\n- Cần chọn tập nghiệm tổng quát.\n❓ **Hiểu câu hỏi:**\n- Cosin bằng $-1$ tại góc $\\pi$ và lặp lại theo chu kì \\$2\\pi$.\n🔎 **Hướng dẫn cách làm:**\n- Ta có $\\cos \\pi=-1$.\n- Hàm số $\\cos x$ có chu kì \\$2\\pi$ nên nghiệm tổng quát là $x=\\pi+2k\\pi,\\ k\\in\\mathbb Z$.\n- Tập nghiệm này đúng với phương án B.\n✅ **Đáp án:** Chọn B."
+    },
+    {
+      "id": 11,
+      "content": "Đường cong trong hình bên là đồ thị của hàm số nào dưới đây?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-dong-thap-nam-2026-lan-1/cau-11.webp\" alt=\"Hình minh họa câu 11\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "khảo sát và vẽ đồ thị hàm số đa thức bậc ba",
+      "type": "single",
+      "options": [
+        "A. $y=-x^3+3x-4$",
+        "B. $y=-x^3+3x^2+4$",
+        "C. $y=-x^3+3x^2-4$",
+        "D. $y=x^3+3x^2-4$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Đồ thị đã cho là một hàm bậc ba có hệ số bậc ba âm.\n- Đồ thị có cực tiểu tại gần $(0;-4)$ và cực đại tại gần $(2;0)$.\n❓ **Hiểu câu hỏi:**\n- Đối chiếu hình dạng, tung độ tại $x=0$ và vị trí cực trị với từng hàm số.\n🔎 **Hướng dẫn cách làm:**\n- Hệ số bậc ba âm nên loại hàm $y=x^3+3x^2-4$.\n- Tại $x=0$, đồ thị cắt trục tung ở $y=-4$, nên các phương án có hằng số $+4$ không phù hợp.\n- Với $y=-x^3+3x^2-4$, ta có $y'=-3x^2+6x=-3x(x-2)$ nên cực trị tại $x=0$ và $x=2$; giá trị $y(0)=-4, y(2)=0$ đúng với hình vẽ.\n✅ **Đáp án:** Chọn C."
+    },
+    {
+      "id": 12,
+      "content": "Tập nghiệm của bất phương trình $\\log_{\\frac{1}{2}}(x-2)>-5$ là",
+      "chuong": "hàm số mũ và hàm số lôgarit",
+      "dang": "bất phương trình lôgarit",
+      "type": "single",
+      "options": [
+        "A. $(2;34)$",
+        "B. $(-\\infty;34)$",
+        "C. $(2;+\\infty)$",
+        "D. $(34;+\\infty)$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Bất phương trình $\\log_{\\frac12}(x-2)>-5$.\n- Cần tìm tập nghiệm.\n❓ **Hiểu câu hỏi:**\n- Xét điều kiện xác định và nhớ rằng cơ số $\\dfrac12<1$ nên khi bỏ logarit phải đổi chiều bất phương trình.\n🔎 **Hướng dẫn cách làm:**\n- Điều kiện xác định là $x-2>0\\Rightarrow x>2$.\n- Vì \\$0<\\dfrac12<1$, từ $\\log_{\\frac12}(x-2)>-5$ suy ra $x-2<\\left(\\dfrac12\\right)^{-5}=32$.\n- Kết hợp điều kiện được \\$0<x-2<32\\Rightarrow 2<x<34$.\n- Vậy tập nghiệm là $(2;34)$.\n✅ **Đáp án:** Chọn A."
+    }
+  ]
+}

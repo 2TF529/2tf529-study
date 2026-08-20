@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-6-10-bai-tap-ung-dung-thuc-te-cua-do-thi-ham-so-y-ax2-a-0-co-loi-",
+  "sourceId": "vietjack:6-10-bai-tap-ung-dung-thuc-te-cua-do-thi",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "6.10 bài tập Ứng dụng thực tế của đồ thị hàm số y = ax2 (a ≠ 0) có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Công thức \\(E = \\frac{1}{2}m{v^2}\\) (J) được dùng để tính động năng của một vật có khối lượng m (kg) khi chuyển động với vận tốc v (m/s). Giả sử có một quả bóng có khối lượng 1,5 kg đang bay với vận tốc 8 m/s thì động năng của quả bóng đó là",
+      "options": [
+        "A. 12 J.",
+        "B. 24 J.",
+        "C. 48J.",
+        "D. 96 J."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Động năng của quả bóng được nói đến ở bài toán chính là giá trị của hàm số \\(E = \\frac{1}{2}m{v^2}\\) tại m = 1,5 kg và v = 8 m/s. Vậy động năng của quả bóng đó là: \\(E = \\frac{1}{2} \\cdot 1,5 \\cdot {8^2} = 48\\) (J)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Một vật rơi tự do ở độ cao so với mặt đất 400 (m). Quãng đường chuyển động s (m) của vật rơi tự do phụ thuộc vào thời gian t (giây) theo công thức s = 4t 2 . Sau khi vật rơi được 3 giây thì vật cách mặt đất bao nhiêu mét?",
+      "options": [
+        "A. 24 m.",
+        "B. 36 m.",
+        "C. 364 m.",
+        "D. 376 m."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Sau khi rơi được 3 giây thì quãng đường chuyển động của vật là: s = 4.3 2 = 36 (m). Vậy lúc đó, vật còn cách mặt đất là: 400 – 36 = 364 (m)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Một vật rơi tự do ở độ cao so với mặt đất 400 (m). Quãng đường chuyển động s (m) của vật rơi tự do phụ thuộc vào thời gian t (giây) theo công thức s = 4t 2 . Thời gian để vật chuyển động được quãng đường 100 m là",
+      "options": [
+        "A. 3,5 giây.",
+        "B. 4 giây.",
+        "C. 5 giây.",
+        "D. 6 giây."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Thay s = 100 vào s = 4t 2 , ta được: 100 = 4.t 2 t 2 = 25 Suy ra t = 5 (do t > 0). Vậy thời gian để vật chuyển động hết quãng đường 100 m là 5 giây."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Một vật rơi tự do ở độ cao so với mặt đất 400 (m). Quãng đường chuyển động s (m) của vật rơi tự do phụ thuộc vào thời gian t (giây) theo công thức s = 4t 2 . Mất bao lâu để vật chạm đất?",
+      "options": [
+        "A. 5 giây.",
+        "B. 7 giây.",
+        "C. 9 giây.",
+        "D. 10 giây."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Vật chạm đất khi quãng đường chuyển động là 400 m. Thay s = 400 vào s = 4t 2 , ta được: 400 = 4.t 2 t 2 = 100 Suy ra t = 10 (do t > 0). Vậy mất 10 giây để vật chạm đất khi rơi tự do từ độ cao 400 m."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Một khách du lịch chơi trò Bungee từ tháp Macao với độ cao 234 mét so với mặt đất. Quãng đường chuyển động S (đơn vị tính bằng mét) của người rơi phụ thuộc vào thời gian t (đơn vị tính bằng giây) được cho bởi công thức: \\(S = \\frac{{13}}{2}{t^2}.\\) Sau khoảng thời gian bao lâu thì du khách cách mặt đất 71,5 mét?",
+      "options": [
+        "A. 3,3 giây.",
+        "B. 4,5 giây.",
+        "C. 5 giây.",
+        "D. 6 giây."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Khi du khách cách mặt đất 71,5 mét thì người đó đã rơi được quãng đường là: S = 234 – 71,5 = 162,5 (m). Thay S = 162,5 vào \\(S = \\frac{{13}}{2}{t^2},\\) ta được: \\(162,5 = \\frac{{13}}{2}{t^2},\\) suy ra t 2 = 25 nên t = 5 (do t > 0). Vậy sau 5 giây thì du khách cách mặt đất 71,5 mét."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Lực F (N) của gió khi thổi vuông góc vào cánh buồm tỉ lệ thuận với bình phương tốc độ v (m/s) của gió theo công thức F = av 2 (a là một hằng số). Biết rằng khi tốc độ gió là 2 m/s thì lực tác động lên cánh buồm của con thuyền bằng 120 N. Hàm số biểu thị lực tác động lên cánh buồm của con thuyền là",
+      "options": [
+        "A. F = 20v 2 .",
+        "B. F = 30v 2 .",
+        "C. 40v 2 .",
+        "D. 50v 2 ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Thay v = 2 và F = 120 vào công thức F = av 2 , ta được: 120 = a.2 2 120 = a.4 a = 30. Vậy hàm số biểu thị lực tác động lên cánh buồm của con thuyền là F = 30v 2 ."
+    }
+  ]
+}

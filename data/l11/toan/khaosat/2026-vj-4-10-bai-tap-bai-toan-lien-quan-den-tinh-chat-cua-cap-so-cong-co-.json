@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-4-10-bai-tap-bai-toan-lien-quan-den-tinh-chat-cua-cap-so-cong-co-",
+  "sourceId": "vietjack:4-10-bai-tap-bai-toan-lien-quan-den-tinh",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "4.10 Bài tập Bài toán liên quan đến tính chất của cấp số cộng (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho a, b, c theo thứ tự lập thành cấp số cộng, đẳng thức nào sau đây là đúng?",
+      "options": [
+        "A. a 2 + c 2 = 2ab + 2bc;",
+        "B. a 2 – c 2 = 2ab – 2bc;",
+        "C. a 2 + c 2 = 2ab – 2bc;",
+        "D. a 2 – c 2 = ab – bc;"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có a, b, c theo thứ tự lập thành cấp số cộng khi và chỉ khi: b – a = c – b ⇔ (b – a) 2 = (c – b) 2 ⇔ b 2 – 2ab + a 2 = c 2 – 2bc + b 2 ⇔ a 2 – c 2 = 2ab – 2bc."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho 3 số a, b và c theo thứ tự lập thành cấp số cộng, đẳng thức nào sau đây là đúng?",
+      "options": [
+        "A. a 2 + c 2 = 2ab + 2bc + 2ac;",
+        "B. a 2 – c 2 = 2ab + 2bc – 2ac;",
+        "C. a 2 + c 2 = 2ab + 2bc – 2ac;",
+        "D. a 2 – c 2 = 2ab – 2bc + 2ac."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có 3 số a, b, c theo thứ tự lập thành cấp số cộng khi và chỉ khi: b – a = c – b ⇔ (b – a) 2 = (c – b) 2 ⇔ b 2 – 2ab + a 2 = c 2 – 2bc + b 2 ⇔ a 2 – c 2 = 2ab – 2bc ⇔ a 2 + c 2 = 2c 2 + 2ab – 2bc ⇔ a 2 + c 2 = 2ab + 2c(c – b) ⇔ a 2 + c 2 = 2ab + 2c(b – a) = 2ab + 2bc – 2ac."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho 3 số a; b và c theo thứ tự lập thành cấp số cộng, ba số nào dưới đây cũng lập thành một cấp số cộng ?",
+      "options": [
+        "A. 2b 2 , a, c 2 ;",
+        "B. –2c, –2b, –2a;",
+        "C. 2b, a, c;",
+        "D. 2b, –a, –c."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có a,b,c theo thứ tự lập thành cấp số cộng khi và chỉ khi: a + c = 2b ⇔ – 2(a + c) = – 2.2b ⇔ (– 2a) + (– 2c) = 2.(– 2b) ⇔ – 2c, –2b, –2a lập thành một cấp số cộng."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho ba số a, b, c là ba số hạng liên tiếp của một cấp số cộng. Đẳng thức nào sau đây sai?",
+      "options": [
+        "A. a 2 – 2ab = c 2 – 2bc;",
+        "B. a 2 – 2ab = ac;",
+        "C. – ac = c 2 – 2bc;",
+        "D. a 2 + 2bc = c 2 – 2ab."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Vì a, b, c là ba số hạng liên tiếp của một cấp số cộng nên: a + c = 2b ⇔ a = 2b – c Ta có: a 2 – 2ab = a 2 – a(a + c) = – ac = – c(2b – c) = c 2 – 2bc. Vậy a 2 − 2ab = c 2 − 2bc ; a 2 − 2ab = − ac và − ac = c 2 − 2bc."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho a, b và c là ba số hạng liên tiếp của một cấp số cộng. Đẳng thức nào sau đây đúng?",
+      "options": [
+        "A. a 2 + 8bc = (2a + c) 2 ;",
+        "B. a 2 + 8bc = 4a 2 + c 2 + b 2 ;",
+        "C. a 2 + 8bc = (2b + c) 2 ;",
+        "D. a 2 + 8bc = (b + c) 2 ."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có a, b và c theo thứ tự lập thành cấp số cộng nên a + c = 2b ⇔ a = 2b – c Khi đó: a 2 + 8bc = (2b – c) 2 + 8bc = 4b 2 – 4bc + c 2 + 8bc = 4b 2 + 4bc + c 2 = (2b + c) 2 ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho ba số a, b và c theo thứ tự lập thành cấp số cộng. Ba số nào sau đây cũng lập thành cấp số cộng?",
+      "options": [
+        "A. a 2 + ab + b 2 ; a 2 + ac + c 2 ; b 2 + bc + c 2 ;",
+        "B. a 2 + b 2 ; a 2 + c 2 , b 2 + c 2 ;",
+        "C. a 2 + ab + bc; b 2 + bc + ab; c 2 + bc + c 2 ;",
+        "D. A, B, C đều sai."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta chứng minh ba số: a 2 + ab + b 2 ; a 2 + ac + c 2 ; theo thứ tự lập thành cấp số cộng. Thật vậy: (a 2 + ab + b 2 ) + (b 2 + bc + c 2 ) = 2(a 2 + ac + c 2 ) (*) ⇔ 2b 2 + ab + bc = a 2 + 2ac + c 2 ⇔ 2b 2 + b(a + c) = (a + c) 2 ⇔ 2b 2 + 2b 2 = (2b) 2 ⇔ 4b 2 = 4b 2 (luôn đúng) nên (*) đúng. Do đó ba số: a 2 + ab + b 2 ; a 2 + ac + c 2 ; b 2 + bc + c 2 theo thứ tự lập thành cấp số cộng."
+    }
+  ]
+}

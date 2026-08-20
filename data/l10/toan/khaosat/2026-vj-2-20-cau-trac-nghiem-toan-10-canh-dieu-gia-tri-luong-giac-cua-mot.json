@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-20-cau-trac-nghiem-toan-10-canh-dieu-gia-tri-luong-giac-cua-mot",
+  "sourceId": "vietjack:2-20-cau-trac-nghiem-toan-10-canh-dieu-g",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.20 câu Trắc nghiệm Toán 10 Cánh diều Giá Trị Lượng Giác Của Một Góc Từ 0° Đến 180°. Định Lí Côsin Và Định Lí Sin Trong Tam Giác có đáp án (Phần 2)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Khẳng định nào sau đây là đúng?",
+      "options": [
+        "A. sin157° = −sin23°;",
+        "B. sin157° = −cos23°;",
+        "C. sin157° = cos23°;",
+        "D. sin157° = sin23°."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Ta có: 157° + 23° = 180° Do đó, sin157° = sin23°."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho góc x thoả 0° < x < 90°. Mệnh đề nào sau đây là sai?",
+      "options": [
+        "A. cos x < 0;",
+        "B. sin x > 0;",
+        "C. tan x > 0;",
+        "D. cot x > 0."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Vì 0° < x < 90° nên sin x > 0, cos x > 0, tan x > 0, cot x > 0. Suy ra cos x < 0 sai."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho góc α là góc tù. Khẳng định nào sau đây là đúng?",
+      "options": [
+        "A. tan α < 0;",
+        "B. sin α < 0;",
+        "C. cot α > 0;",
+        "D. cos α > 0."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có góc α là góc tù ⇒ 90° < α < 180° ⇒ sin α > 0 cos α < 0 ⇒ tan α = sin α cos α < 0, cot α = c o s α sin α < 0."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Giá trị của cos 30° + sin 60° bằng bao nhiêu?",
+      "options": [
+        "A. 3 3 ;",
+        "B. 3 2 ;",
+        "C. 3 ;",
+        "D. 1."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Áp dụng bảng giá trị lượng giác của các góc đặc biệt, ta có: cos 30 ° + sin 60 ° = 3 2 + 3 2 = 3 ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho α và β là hai góc khác nhau và bù nhau, trong các đẳng thức sau đây đẳng thức nào sai?",
+      "options": [
+        "A. sin α = sin β;",
+        "B. cos α = – cos β;",
+        "C. tan α = – tan β;",
+        "D. cot α = cot β."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Áp dụng mối liên hệ hai góc bù nhau, ta có: sin α = sin β; cos α = – cos β; tan α = – tan β; cot α = – cot β. Vậy đáp án A, B, C đúng và đáp án D sai."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Biết cos α = - 5 13 và 90° < α < 180°. Giá trị của sin α và tan α lần lượt là?",
+      "options": [
+        "A. − 12 13 ; 2 3 ;",
+        "B. 2 3 ; − 5 12 ;",
+        "C. − 12 13 ; 12 5 ;",
+        "D. 12 13 ; − 12 5 ."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Ta có sin2α + cos2α = 1 ⇒ sin2α = 1 – cos2α = 1 − − 5 13 2 = 144 169 ⇒ sin α = ± 12 13 . Vì 90° < α < 180° nên sin α > 0 ⇒ sin α = 12 13 ⇒ tan α = sin α cos α = - 12 5 ."
+    }
+  ]
+}

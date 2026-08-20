@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-1-trac-nghiem-phuong-trinh-mat-cau-lop-12-co-dap-an",
+  "sourceId": "vietjack:1-trac-nghiem-phuong-trinh-mat-cau-lop-1",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.Trắc nghiệm Phương trình mặt cầu lớp 12 (có đáp án)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: I. Nhận biết Trong không gian \\[Oxyz\\], mặt cầu tâm \\[I\\left( {{x_0};{y_0};{z_0}} \\right)\\] bán kính \\[R\\] có phương trình là:",
+      "options": [
+        "A. \\[{\\left( {x - {x_0}} \\right)^2} + {\\left( {y - {y_0}} \\right)^2} + {\\left( {z - {z_0}} \\right)^2} = {R^2}.\\]",
+        "B. \\[\\left( {x - {x_0}} \\right) + \\left( {y - {y_0}} \\right) + \\left( {z - {z_0}} \\right) = R.\\]",
+        "C. \\[\\left( {x - {x_0}} \\right) + \\left( {y - {y_0}} \\right) + \\left( {z - {z_0}} \\right) = {R^2}.\\]",
+        "D. \\[{\\left( {x - {x_0}} \\right)^2} - {\\left( {y - {y_0}} \\right)^2} - {\\left( {z - {z_0}} \\right)^2} = {R^2}.\\]"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Trong không gian với hệ trục tọa độ \\[Oxyz\\], phương trình nào sau đây là phương trình mặt cầu",
+      "options": [
+        "A. \\[{x^2} + {y^2} + {z^2} - 2x = 0.\\]",
+        "B. \\[{x^2} + {y^2} - {z^2} + 2x - y + 1 = 0.\\]",
+        "C. \\[2{x^2} + {y^2} = {\\left( {x + y} \\right)^2} - {z^2} + 2x + 1.\\]",
+        "D. \\[{\\left( {x + y} \\right)^2} = 2xy - {z^2} - 1.\\]"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Phương trình mặt cầu có dạng \\[{x^2} + {y^2} + {z^2} - 2ax - 2by - 2cz + d = 0\\] với \\[d = {a^2} + {b^2} + {c^2} - {R^2}.\\] Xét các đáp án, chỉ có đáp án A thỏa mãn, đồng thời ta có thể viết lại như sau: \\[{x^2} + {y^2} + {z^2} - 2x = 0\\] hay \\[{\\left( {x - 1} \\right)^2} + {y^2} + {z^2} = 1\\]."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trong không gian với hệ trục tọa độ \\[Oxyz\\], cho mặt cầu có phương trình \\[\\left( S \\right):\\]\\[{\\left( {x - 1} \\right)^2} + {y^2} + {\\left( {z + 3} \\right)^2} = 16\\] có tâm là",
+      "options": [
+        "A. \\[I\\left( {1;0;3} \\right).\\]",
+        "B. \\[I\\left( { - 1;0; - 3} \\right).\\]",
+        "C. \\[I\\left( {1;0; - 3} \\right).\\]",
+        "D. \\[I\\left( {1;2; - 3} \\right).\\]"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có: \\[{\\left( {x - 1} \\right)^2} + {y^2} + {\\left( {z + 3} \\right)^2} = 16\\] \\[ \\Leftrightarrow {\\left( {x - 1} \\right)^2} + {y^2} + {\\left( {z - \\left( { - 3} \\right)} \\right)^2} = {4^2}\\] Do đó, tâm mặt cầu là \\[I\\left( {1;0; - 3} \\right).\\]"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho điểm \\[M\\] nằm ngoài mặt cầu \\[S\\left( {O;R} \\right)\\]. Khẳng định nào sau đây là đúng?",
+      "options": [
+        "A. \\[OM < R.\\] </>",
+        "B. \\[OM = R.\\]",
+        "C. \\[OM > R.\\]",
+        "D. \\[OM \\le R.\\]"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Điều kiện đề phương trình \\[{x^2} + {y^2} + {z^2} - 2ax - 2by - 2cz + d = 0\\] là phương trình mặt cầu là",
+      "options": [
+        "A. \\[a + b + c - d > 0.\\]",
+        "B. \\[{a^2} + {b^2} + {c^2} + d > 0.\\]",
+        "C. \\[{a^2} + {b^2} + {c^2} - d > 0.\\]",
+        "D. \\[{a^2} + {b^2} + {c^2} - d \\ge 0.\\]"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Phương trình mặt cầu có dạng \\[{x^2} + {y^2} + {z^2} - 2ax - 2by - 2cz + d = 0\\] với \\[d = {a^2} + {b^2} + {c^2} - {R^2}.\\] Để xác định một mặt cầu khi và chỉ khi \\[{R^2} = {a^2} + {b^2} + {c^2} - d > 0.\\]"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: II. Thông hiểu Trong không gian với hệ trục tọa độ \\[Oxyz\\], cho mặt cầu \\[\\left( S \\right):\\] \\[{x^2} + {y^2} + {z^2} - 4x - 2y + 2z - 3 = 0\\] và một điểm \\[M\\left( {4;2; - 2} \\right)\\]. Mệnh đề nào sau đây là đúng?",
+      "options": [
+        "A. Điểm M là tâm của mặt cầu (S).",
+        "B. Điểm M nằm trên mặt cầu (S).",
+        "C. Điểm M nằm trong mặt cầu (S).",
+        "D. Điểm M nằm ngoài mặt cầu (S)."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có: \\[{x^2} + {y^2} + {z^2} - 4x - 2y + 2z - 3 = 0\\] \\[{\\left( {x - 2} \\right)^2} + {\\left( {y - 1} \\right)^2} + {\\left( {z + 1} \\right)^2} = 9\\]. Do đó, tâm của mặt cầu là \\[I\\left( {2;1; - 1} \\right)\\]. Thay \\[M\\left( {4;2; - 2} \\right)\\] vào phương trình mặt cầu, ta được \\[{\\left( {4 - 2} \\right)^2} + {\\left( {2 - 1} \\right)^2} + {\\left( { - 2 + 1} \\right)^2} = 6 < 9\\]. Do đó điểm M nằm trong mặt cầu. </>"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Trong không gian với hệ trục tọa độ \\[Oxyz\\], cho mặt cầu có phương trình \\[\\left( S \\right):\\] \\[{x^2} + {y^2} + {z^2} - 2x + 10y + 3z + 1 = 0\\] đi qua điểm có tọa độ nào sau đây",
+      "options": [
+        "A. \\[\\left( {3; - 2; - 4} \\right).\\]",
+        "B. \\[\\left( {4; - 1;0} \\right).\\]",
+        "C. \\[\\left( {2;1;9} \\right).\\]",
+        "D. \\[\\left( { - 1;3; - 1} \\right).\\]"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta thay tọa độ các điểm ở từng đáp án vào phương trình mặt cầu \\[\\left( S \\right)\\]. Với \\[A\\left( {3; - 2; - 4} \\right)\\], có: \\[{3^2} + {\\left( { - 2} \\right)^2} + {\\left( { - 4} \\right)^2} - 2.3 + 10.\\left( { - 2} \\right) + 3.\\left( { - 4} \\right) + 1 = - 8 \\ne 0\\]. Do đó mặt cầu (S) không đi qua điểm có tọa độ \\[\\left( {3; - 2; - 4} \\right).\\] Với \\[B\\left( {4; - 1;0} \\right)\\], có: \\[{4^2} + {\\left( { - 1} \\right)^2} + {0^2} - 2.4 + 10.\\left( { - 1} \\right) + 3.0 + 1 = 0\\]. Do đó, mặt cầu (S) đi qua điểm có tọa độ \\[\\left( {4; - 1;0} \\right).\\] Với \\[C\\left( {2;1;9} \\right)\\], có: \\[{2^2} + {1^2} + {9^2} - 2.2 + 10.1 + 3.9 + 1 = 120 \\ne 0.\\] Do đó, mặt cầu (S) không đi qua điểm có tọa độ \\[\\left( {2;1;9} \\right).\\] Với điểm \\[D\\left( { - 1;3; - 1} \\right)\\], có: \\[{\\left( { - 1} \\right)^2} + {3^2} + {\\left( { - 1} \\right)^2} - 2.\\left( { - 1} \\right) + 10.3 + 3.\\left( { - 1} \\right) + 1 = 41 \\ne 0\\]. Do đó, mặt cầu (S) không đi qua điểm có tọa độ \\[\\left( { - 1;3; - 1} \\right).\\]"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Phương trình mặt cầu tâm \\[I\\left( {1; - 2;3} \\right)\\] bán kính \\[R = 3\\] là",
+      "options": [
+        "A. \\[{\\left( {x - 1} \\right)^2} + {\\left( {y + 2} \\right)^2} + {\\left( {z - 3} \\right)^2} = 3.\\]",
+        "B. \\[{\\left( {x - 1} \\right)^2} + {\\left( {y + 2} \\right)^2} + {\\left( {z - 3} \\right)^2} = 9.\\]",
+        "C. \\[{\\left( {x + 1} \\right)^2} + {\\left( {y - 2} \\right)^2} + {\\left( {z + 3} \\right)^2} = 9.\\]",
+        "D. \\[{\\left( {x + 1} \\right)^2} + {\\left( {y - 2} \\right)^2} + {\\left( {z + 3} \\right)^2} = 3.\\]"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Phương trình mặt cầu tâm \\[I\\left( {1; - 2;3} \\right)\\] bán kính \\[R = 3\\] là \\[{\\left( {x - 1} \\right)^2} + {\\left( {y + 2} \\right)^2} + {\\left( {z - 3} \\right)^2} = {3^2}\\] hay \\[{\\left( {x - 1} \\right)^2} + {\\left( {y + 2} \\right)^2} + {\\left( {z - 3} \\right)^2} = 9.\\]"
+    }
+  ]
+}

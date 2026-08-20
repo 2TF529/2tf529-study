@@ -1,0 +1,196 @@
+{
+  "id": "l12-toan-totnghiep-2026-de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-nghe-an-nam-2026-lan-3",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "code": "THPT_TKT_2026_NA_03",
+  "title": "Đề khảo sát chất lượng THPT môn Toán Sở GD&ĐT Nghệ An năm 2026 - Lần 3",
+  "duration": 90,
+  "answerSource": "official",
+  "source": "https://dolthpt.vn/tot-nghiep-thpt/pdf-de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-nghe-an-nam-2026-lan-3-co-dap-an",
+  "notes": "Nội dung, đáp án và lời giải được nhập từ bản công khai của DOL THPT.",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "content": "Cho hình phẳng $(H)$ giới hạn bởi các đường $y=x+2$, $y=0$, $x=0$, $x=2$. Gọi $V$ là thể tích của khối tròn xoay được tạo thành khi quay $(H)$ xung quanh trục $Ox$. Mệnh đề nào dưới đây đúng?",
+      "chuong": "nguyên hàm và tích phân",
+      "dang": "ứng dụng tích phân để tính thể tích vật thể",
+      "type": "single",
+      "options": [
+        "A. $V=\\int_0^2(x+2)dx$.",
+        "B. $V=\\int_0^2(x+2)^2dx$.",
+        "C. $V=\\pi\\int_0^2(x+2)^2dx$.",
+        "D. $V=\\pi\\int_0^2(x+2)dx$."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Miền phẳng nằm dưới đồ thị $y=x+2$ trên đoạn $[0;2]$ và phía trên trục $Ox$.\n- Miền được quay quanh trục $Ox$.\n❓ **Hiểu câu hỏi:**\n- Thể tích khối tròn xoay quanh $Ox$ dùng công thức $V=\\pi\\int_a^b [f(x)]^2dx$.\n🔎 **Hướng dẫn cách làm:**\n- Bán kính thiết diện là $R(x)=x+2$ trên đoạn $[0;2]$.\n- Suy ra $V=\\pi\\int_0^2(x+2)^2dx$.\n✅ **Đáp án:**Chọn C. $V=\\pi\\int_0^2(x+2)^2dx$."
+    },
+    {
+      "id": 2,
+      "content": "Nếu $\\int_0^2 f(x)dx=2$ thì $\\int_2^0 3f(x)dx$ bằng",
+      "chuong": "nguyên hàm và tích phân",
+      "dang": "tính chất của tích phân",
+      "type": "single",
+      "options": [
+        "A. $-6$.",
+        "B. \\$6$.",
+        "C. $-12$.",
+        "D. \\$12$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Ta có $\\int_0^2 f(x)dx=2$.\n- Cần tính $\\int_2^0 3f(x)dx$.\n❓ **Hiểu câu hỏi:**\n- Dùng tính chất đổi cận và nhân hằng số của tích phân.\n🔎 **Hướng dẫn cách làm:**\n- Ta có $\\int_2^0 3f(x)dx=-3\\int_0^2 f(x)dx$.\n- Thay $\\int_0^2 f(x)dx=2$, được $\\int_2^0 3f(x)dx=-6$.\n✅ **Đáp án:**Chọn A. $-6$."
+    },
+    {
+      "id": 3,
+      "content": "Trong không gian với hệ trục tọa độ $Oxyz$, mặt cầu $(S)$ có phương trình $(x-1)^2+(y+2)^2+(z-1)^2=16$. Tìm tọa độ tâm $I$ và bán kính $R$ của mặt cầu $(S)$.",
+      "chuong": "phương pháp tọa độ trong không gian",
+      "dang": "phương trình mặt cầu",
+      "type": "single",
+      "options": [
+        "A. $I(1;-2;1), R=4$.",
+        "B. $I(-1;2;-1), R=16$.",
+        "C. $I(-1;2;-1), R=4$.",
+        "D. $I(1;-2;1), R=16$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Phương trình mặt cầu là $(x-1)^2+(y+2)^2+(z-1)^2=16$.\n❓ **Hiểu câu hỏi:**\n- So sánh với dạng chuẩn $(x-a)^2+(y-b)^2+(z-c)^2=R^2$.\n🔎 **Hướng dẫn cách làm:**\n- Từ phương trình, tâm là $I(1;-2;1)$.\n- Bán kính thỏa $R^2=16$ nên $R=4$.\n✅ **Đáp án:**Chọn A. $I(1;-2;1), R=4$."
+    },
+    {
+      "id": 4,
+      "content": "Tập nghiệm của phương trình $\\tan x=1$ là",
+      "chuong": "hàm số lượng giác và phương trình lượng giác",
+      "dang": "phương trình tanx=m",
+      "type": "single",
+      "options": [
+        "A. $S=\\left\\{-\\dfrac{\\pi}{4}+k\\pi\\mid k\\in\\mathbb{Z}\\right\\}$.",
+        "B. $S=\\left\\{\\dfrac{\\pi}{4}+2k\\pi\\mid k\\in\\mathbb{Z}\\right\\}$.",
+        "C. $S=\\left\\{\\dfrac{\\pi}{4}+k\\pi\\mid k\\in\\mathbb{Z}\\right\\}$.",
+        "D. $S=\\left\\{-\\dfrac{\\pi}{4}+2k\\pi\\mid k\\in\\mathbb{Z}\\right\\}$."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Phương trình đã cho là $\\tan x=1$.\n❓ **Hiểu câu hỏi:**\n- Nghiệm cơ bản của $\\tan x=1$ là $x=\\dfrac{\\pi}{4}$ và chu kì của $\\tan x$ là $\\pi$.\n🔎 **Hướng dẫn cách làm:**\n- Suy ra nghiệm tổng quát là $x=\\dfrac{\\pi}{4}+k\\pi$ với $k\\in\\mathbb{Z}$.\n- Tập nghiệm đúng là $S=\\left\\{\\dfrac{\\pi}{4}+k\\pi\\mid k\\in\\mathbb{Z}\\right\\}$.\n✅ **Đáp án:**Chọn C. $S=\\left\\{\\dfrac{\\pi}{4}+k\\pi\\mid k\\in\\mathbb{Z}\\right\\}$."
+    },
+    {
+      "id": 5,
+      "content": "Cho hàm số $y=f(x)$ liên tục trên đoạn $[-4;6]$ và có bảng biến thiên như hình. Giá trị nhỏ nhất của hàm số $y=f(x)$ trên đoạn $[-4;6]$ bằng\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-nghe-an-nam-2026-lan-3/cau-05.webp\" alt=\"Hình minh họa câu 5\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "cách tìm giá trị lớn nhất và giá trị nhỏ nhất của hàm số trên một đoạn",
+      "type": "single",
+      "options": [
+        "A. $-4$.",
+        "B. $-48$.",
+        "C. $-146$.",
+        "D. \\$114$."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Bảng biến thiên cho các giá trị -146, 16, -48, 114.\n❓ **Hiểu câu hỏi:**\n- Giá trị nhỏ nhất trên đoạn là giá trị nhỏ nhất trong các giá trị thể hiện ở bảng.\n🔎 **Hướng dẫn cách làm:**\n- So sánh các giá trị, ta có $-146< -48<16<114$.\n- Vậy giá trị nhỏ nhất trên đoạn $[-4;6]$ là -146.\n✅ **Đáp án:**Chọn C. $-146$."
+    },
+    {
+      "id": 6,
+      "content": "Đạo hàm cấp hai của hàm số $y=x^3$ là",
+      "chuong": "đạo hàm",
+      "dang": "khái niệm đạo hàm cấp hai",
+      "type": "single",
+      "options": [
+        "A. $y''=6$.",
+        "B. $y''=6x$.",
+        "C. $y''=3x$.",
+        "D. $y''=3x^2$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số đã cho là $y=x^3$.\n❓ **Hiểu câu hỏi:**\n- Đạo hàm cấp hai là đạo hàm của đạo hàm cấp một.\n🔎 **Hướng dẫn cách làm:**\n- Ta có $y'=3x^2$.\n- Suy ra $y''=6x$.\n✅ **Đáp án:**Chọn B. $y''=6x$."
+    },
+    {
+      "id": 7,
+      "content": "Cho hàm số $y=\\dfrac{ax+b}{cx+d}$ với $ac\\ne0$, $ad-bc\\ne0$ có đồ thị như hình vẽ. Phương trình tiệm cận đứng và tiệm cận ngang của đồ thị lần lượt là\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-nghe-an-nam-2026-lan-3/cau-07.webp\" alt=\"Hình minh họa câu 7\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "đường tiệm cận đứng",
+      "type": "single",
+      "options": [
+        "A. $x=-1, y=-2$.",
+        "B. $x=-1, y=2$.",
+        "C. $x=2, y=-1$.",
+        "D. $x=1, y=2$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Đồ thị cho một tiệm cận đứng và một tiệm cận ngang.\n- Trên hình, các đường tiệm cận lần lượt là $x=-1$ và $y=2$.\n❓ **Hiểu câu hỏi:**\n- Đọc tiệm cận đứng theo đường thẳng đứng, tiệm cận ngang theo đường thẳng ngang mà đồ thị tiến sát.\n🔎 **Hướng dẫn cách làm:**\n- Đồ thị tiến sát đường thẳng đứng $x=-1$.\n- Đồ thị tiến sát đường thẳng ngang $y=2$.\n- Vậy tiệm cận đứng và tiệm cận ngang lần lượt là $x=-1$ và $y=2$.\n✅ **Đáp án:**Chọn B. $x=-1, y=2$."
+    },
+    {
+      "id": 8,
+      "content": "Hai mẫu số liệu ghép nhóm $M_1, M_2$ có bảng tần số ghép nhóm như hình. Gọi $\\Delta Q_1,\\Delta Q_2$ lần lượt là khoảng tứ phân vị của $M_1, M_2$. Phát biểu nào sau đây đúng?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-nghe-an-nam-2026-lan-3/cau-08.webp\" alt=\"Hình minh họa câu 8\" loading=\"lazy\"></figure>",
+      "chuong": "các số đặc trưng đo mức độ phân tán cho mẫu số liệu ghép nhóm",
+      "dang": "khoảng tứ phân vị",
+      "type": "single",
+      "options": [
+        "A. $\\Delta Q_1=\\Delta Q_2$.",
+        "B. $\\Delta Q_1=2\\Delta Q_2$.",
+        "C. \\$4\\Delta Q_1=\\Delta Q_2$.",
+        "D. \\$2\\Delta Q_1=\\Delta Q_2$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hai mẫu có cùng dãy tần số 2,5,7,3,3.\n- Các khoảng của $M_2$ là các khoảng của $M_1$ tịnh tiến sang phải 1 đơn vị.\n❓ **Hiểu câu hỏi:**\n- Khoảng tứ phân vị $\\Delta Q=Q_3-Q_1$ không đổi khi toàn bộ dữ liệu được tịnh tiến cùng một lượng.\n🔎 **Hướng dẫn cách làm:**\n- Vì hai mẫu chỉ khác nhau bởi phép tịnh tiến thêm 1 nên $Q_1$ và $Q_3$ của $M_2$ đều tăng thêm 1.\n- Hiệu $Q_3-Q_1$ không thay đổi sau phép tịnh tiến.\n- Do đó $\\Delta$ $Q_1=\\Delta$ $Q_2$.\n✅ **Đáp án:**Chọn A. $\\Delta Q_1=\\Delta Q_2$."
+    },
+    {
+      "id": 9,
+      "content": "Cho hình hộp chữ nhật $ABCD.A'B'C'D'$. Khẳng định nào dưới đây là đúng?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-nghe-an-nam-2026-lan-3/cau-09.webp\" alt=\"Hình minh họa câu 9\" loading=\"lazy\"></figure>",
+      "chuong": "vectơ và hệ trục tọa độ trong không gian",
+      "dang": "vectơ trong không gian",
+      "type": "single",
+      "options": [
+        "A. $\\overrightarrow{AD}=\\overrightarrow{BC}$.",
+        "B. $\\overrightarrow{AD}=\\overrightarrow{A'C}$.",
+        "C. $\\overrightarrow{AD}=\\overrightarrow{CB}$.",
+        "D. $\\overrightarrow{AD}=\\overrightarrow{A'B'}$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Trong hình hộp chữ nhật, đáy ABCD là hình chữ nhật.\n- Hai cạnh AD và BC song song, cùng hướng và bằng nhau.\n❓ **Hiểu câu hỏi:**\n- Hai vectơ bằng nhau khi chúng cùng hướng và cùng độ dài.\n🔎 **Hướng dẫn cách làm:**\n- Vì AD và BC là hai cạnh đối của hình chữ nhật ABCD nên $\\overrightarrow{AD}=\\overrightarrow{BC}$.\n- Các lựa chọn còn lại không cùng hướng hoặc không cùng độ dài với $\\overrightarrow{AD}$.\n✅ **Đáp án:**Chọn A. $\\overrightarrow{AD}=\\overrightarrow{BC}$."
+    },
+    {
+      "id": 10,
+      "content": "Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình chữ nhật và $SA\\perp(ABCD)$. Đường thẳng nào sau đây vuông góc với mặt phẳng $(SAD)$?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-nghe-an-nam-2026-lan-3/cau-10.webp\" alt=\"Hình minh họa câu 10\" loading=\"lazy\"></figure>",
+      "chuong": "quan hệ vuông góc trong không gian",
+      "dang": "đường thẳng vuông góc với mặt phẳng",
+      "type": "single",
+      "options": [
+        "A. $BC$.",
+        "B. $SB$.",
+        "C. $SC$.",
+        "D. $CD$."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Đáy ABCD là hình chữ nhật nên $CD\\perp AD$.\n- Vì $SA\\perp(ABCD)$ nên $SA\\perp CD$.\n❓ **Hiểu câu hỏi:**\n- Một đường thẳng vuông góc với hai đường thẳng cắt nhau trong một mặt phẳng thì vuông góc với mặt phẳng đó.\n🔎 **Hướng dẫn cách làm:**\n- Trong mặt phẳng $(SAD)$, hai đường thẳng SA và AD cắt nhau.\n- Ta có $CD\\perp SA$ và $CD\\perp AD$.\n- Suy ra $CD\\perp(SAD)$.\n✅ **Đáp án:**Chọn D. $CD$."
+    },
+    {
+      "id": 11,
+      "content": "Trong không gian với hệ trục tọa độ $Oxyz$, mặt phẳng $(P)$ có phương trình \\$3(x-2)+2(y-2)-4(z+3)=0$. Điểm nào sau đây thuộc mặt phẳng $(P)$?",
+      "chuong": "phương pháp tọa độ trong không gian",
+      "dang": "phương trình tổng quát của mặt phẳng",
+      "type": "single",
+      "options": [
+        "A. $Q(-2;-3;4)$.",
+        "B. $N(-2;-2;3)$.",
+        "C. $M(2;2;-3)$.",
+        "D. $P(3;2;-4)$."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Mặt phẳng $(P)$ có phương trình \\$3(x-2)+2(y-2)-4(z+3)=0$.\n❓ **Hiểu câu hỏi:**\n- Một điểm thuộc mặt phẳng khi tọa độ của điểm đó thỏa mãn phương trình mặt phẳng.\n🔎 **Hướng dẫn cách làm:**\n- Thay $M(2;2;-3)$ vào vế trái, được \\$3(2-2)+2(2-2)-4(-3+3)=0$.\n- Vì vế trái bằng 0 nên $M(2;2;-3)$ thuộc $(P)$.\n✅ **Đáp án:**Chọn C. $M(2;2;-3)$."
+    },
+    {
+      "id": 12,
+      "content": "Cho cấp số cộng $(u_n)$ với $u_1=1$ và công sai $d=-2$. Giá trị của $u_3$ bằng",
+      "chuong": "dãy số. cấp số cộng và cấp số nhân",
+      "dang": "số hạng tổng quát của cấp số cộng",
+      "type": "single",
+      "options": [
+        "A. \\$4$.",
+        "B. $-5$.",
+        "C. $-8$.",
+        "D. $-3$."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cấp số cộng có $u_1=1$ và $d=-2$.\n❓ **Hiểu câu hỏi:**\n- Số hạng tổng quát của cấp số cộng là $u_n=u_1+(n-1)d$.\n🔎 **Hướng dẫn cách làm:**\n- Ta có $u_3=u_1+2d$.\n- Thay số được $u_3=1+2\\cdot(-2)=-3$.\n✅ **Đáp án:**Chọn D. $-3$."
+    }
+  ]
+}

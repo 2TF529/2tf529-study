@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-toan-9-canh-dieu-tao-bai-3-can-thuc-bac-hai-",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-toan-9-canh-dieu-ta",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Toán 9 Cánh diều tạo Bài 3. Căn thức bậc hai và căn thức bậc ba của biểu thức đại số có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: I. Nhận biết Biểu thức nào sau đây không phải là căn thức bậc hai?",
+      "options": [
+        "A. \\(\\sqrt {x + 2} \\).",
+        "B. \\(\\sqrt 2 \\).",
+        "C. \\(\\sqrt {\\frac{1}{x}} \\).",
+        "D. \\(1 - 2\\sqrt x \\)."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Biểu thức \\(1 - 2\\sqrt x \\) không là căn thức bậc hai."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Điều kiện xác định của biểu thức \\(\\sqrt { - 12x + 5} \\) là",
+      "options": [
+        "A. \\(x < \\frac{5}{{12}}\\). </>",
+        "B. \\(x \\le \\frac{5}{{12}}\\).",
+        "C. \\(x > \\frac{5}{{12}}\\).",
+        "D. \\(x \\ge \\frac{5}{{12}}\\)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Để biểu thức \\(\\sqrt { - 12x + 5} \\) xác định thì \\( - 12x + 5 \\ge 0\\) hay \\( - 12x \\ge - 5\\), tức là \\(x \\le \\frac{5}{{12}}\\). Vậy ta chọn phương án B."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Biểu thức nào sau đây là một căn thức bậc ba?",
+      "options": [
+        "A. 6.",
+        "B. \\(\\sqrt[3]{{\\frac{1}{x}}}\\).",
+        "C. \\(1 + \\sqrt[3]{x}.\\)",
+        "D. \\(\\sqrt[3]{6}\\)."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Biểu thức \\(1 + \\sqrt[3]{x}\\) không phải là căn thức bậc ba."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Điều kiện xác định của biểu thức \\(\\sqrt[3]{{3x}}\\) là",
+      "options": [
+        "A. \\(x > 0.\\)",
+        "B. \\(x < 0.\\) </>",
+        "C. \\(x \\ge 0.\\)",
+        "D. \\(x \\in \\mathbb{R}.\\)"
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Biểu thức \\(\\sqrt[3]{{3x}}\\) xác định với mọi số thực \\(x\\) vì \\(3x\\) xác thực với mọi \\(x \\in \\mathbb{R}.\\)"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Khẳng định nào sau đây là sai?",
+      "options": [
+        "A. Biểu thức \\(\\sqrt {x - \\frac{1}{x}} \\) là căn thức bậc hai.",
+        "B. Biểu thức \\(x - \\sqrt[3]{x}\\) không phải là căn thức bậc ba.",
+        "C. Biểu thức \\(\\sqrt[3]{{\\frac{1}{x}}}\\) xác định với mọi \\(x \\in \\mathbb{R}.\\)",
+        "D. Biểu thức \\(\\sqrt {x - 1} \\) có điều kiện xác định là \\(x \\ge 1.\\)"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Biểu thức \\(\\sqrt[3]{{\\frac{1}{x}}}\\) xác định khi \\(\\frac{1}{x}\\) xác định, mà \\(\\frac{1}{x}\\) xác định khi \\(x \\ne 0.\\)"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: II. Thông hiểu Giá trị của \\[x\\] để biểu thức \\(\\frac{x}{{x - 2}} + \\sqrt {2 - x} \\) có nghĩa là",
+      "options": [
+        "A. \\(x \\ge 2\\).",
+        "B. \\(x > 2\\).",
+        "C. \\(x \\le 2\\).",
+        "D. \\(x < 2\\)."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Biểu thức \\(\\frac{x}{{x - 2}} + \\sqrt {2 - x} \\) có nghĩa khi và chỉ khi \\(x - 2 \\ne 0\\) và \\(2 - x \\ge 0\\). Ta có: ⦁ \\(x - 2 \\ne 0\\) khi \\(x \\ne 2\\); ⦁ \\(2 - x \\ge 0\\) khi \\(x \\le 2.\\) Như vậy, biểu thức \\(\\frac{x}{{x - 2}} + \\sqrt {2 - x} \\) xác định khi \\(x < 2.\\) Ta chọn phương án D."
+    }
+  ]
+}

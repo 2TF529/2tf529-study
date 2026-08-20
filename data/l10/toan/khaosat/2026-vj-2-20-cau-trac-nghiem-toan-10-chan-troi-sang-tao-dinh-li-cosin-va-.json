@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-20-cau-trac-nghiem-toan-10-chan-troi-sang-tao-dinh-li-cosin-va-",
+  "sourceId": "vietjack:2-20-cau-trac-nghiem-toan-10-chan-troi-s",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.20 câu Trắc nghiệm Toán 10 chân trời sáng tạo Định lí côsin và định lí sin có đáp án (Phần 2)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho tam giác ABC bất kì có BC = a, AC = b và AB = c. Đẳng thức nào đúng ?",
+      "options": [
+        "A. b 2 = a 2 + c 2 – ac.cosB;",
+        "B. a 2 = b 2 + c 2 + 2bc.cosA;",
+        "C. c 2 = b 2 + a 2 + ab.cosC;",
+        "D. c 2 = b 2 + a 2 – 2ab.cosC."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải Đáp án đúng là: D Theo định lí côsin ta có: a 2 = b 2 + c 2 – 2bc.cosA; b 2 = a 2 + c 2 – 2ac.cosB; c 2 = b 2 + a 2 – 2ab.cosC. Do đó phương án D là đúng. Vậy ta chọn phương án D."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho tam giác ABC có AB = c, BC = a và AC = b . Gọi R là bán kính đường tròn ngoại tiếp tam giác ABC . Trong các mệnh đề sau, mệnh đề nào sai ?",
+      "options": [
+        "A. \\(\\frac{a}{{\\sin A}} = 2R;\\)",
+        "B. .",
+        "C. b = 2R.sinA;",
+        "D. c = 2R.sinC."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là: C Theo định lí sin ta có: \\[\\frac{a}{{\\sin A}} = \\frac{b}{{\\sin B}} = \\frac{c}{{\\sin C}} = 2R.\\] Do đó A đúng. Từ \\[\\frac{a}{{\\sin A}} = \\frac{b}{{\\sin B}}\\] ta s uy ra \\(b = \\frac{a}{{\\sin A}}.\\sin B = \\frac{{a.\\sin B}}{{\\sin A}}.\\) Do đó B đúng. Ta cũng có hệ quả định lí sin: b = 2R.sinB và c = 2R.sinC. Do đó C sai và D đúng. Vậy ta chọn phương án C."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho tam giác ABC bất kì có BC = a, AC = b và AB = c. Công thức tính diện tích tam giác ABC nào sau đây là đúng :",
+      "options": [
+        "A. S = \\(\\frac{1}{2}\\) bc.sinA;",
+        "B. S = \\(\\frac{1}{2}\\) ac.sinA;",
+        "C. S = \\(\\frac{1}{2}\\) bc.sinB;",
+        "D. S = \\(\\frac{1}{2}\\) ab.sinB."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A Ta có công thức tính diện tích tam giác ABC là: \\(S = \\frac{1}{2}bc\\sin A = \\frac{1}{2}ac\\sin B = \\frac{1}{2}ab\\sin C.\\) Do đó ta chọn phương án A."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho tam giác ABC bất kì có BC = a, AC = b và AB = c. Gọi h a , h b , h c độ dài các đường cao lần lượt ứng với các cạnh BC, CA, AB. Biết tam giác ABC có diện tích là S. Khẳng định nào sau đây là đúng ?",
+      "options": [
+        "A. h a = \\(\\frac{S}{a};\\)",
+        "B. h b = \\(\\frac{{2S}}{b};\\)",
+        "C. h c = \\(\\frac{S}{{2c}};\\)",
+        "D. h a = \\(\\frac{{4S}}{a}.\\)"
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải Đáp án đúng là: B Ta có công thức tính diện tích tam giác ABC là: S = \\(\\frac{1}{2}\\) ah a = \\(\\frac{1}{2}\\) bh b = \\(\\frac{1}{2}\\) ch c Do đó ta có: h a = \\(\\frac{{2S}}{a};\\) h b = \\(\\frac{{2S}}{b};\\) h c = \\(\\frac{{2S}}{c}.\\) Vậy ta chọn phương án B."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho tam giác ABC bất kì có BC = a, AC = b và AB = c. Gọi R, r lần lượt là bán kính đường tròn ngoại tiếp và nội tiếp tam giác; p, S lần lượt là nửa chu vi và diện tích tam giác. Khẳng định nào sau đây là đúng ?",
+      "options": [
+        "A. S = \\(\\frac{1}{2}\\) abc;",
+        "B. \\(\\frac{a}{{\\sin A}} = R;\\)",
+        "C. \\(\\cos B = \\frac{{{b^2} + {c^2} - {a^2}}}{{2bc}};\\)",
+        "D. \\(r = \\frac{S}{p}.\\)"
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải Đáp án đúng là: D Theo hệ quả định lí côsin ta có: \\(\\cos B = \\frac{{{a^2} + {c^2} - {b^2}}}{{2ac}}.\\) Do đó C sai. Theo định lí sin ta có: \\(\\frac{a}{{\\sin A}} = 2R.\\) Do đó B sai. Ta có các công thức tính diện tích tam giác như sau: • S = \\(\\frac{{abc}}{{4R}}.\\) Do đó A sai. • S = pr, suy ra \\(r = \\frac{S}{p}.\\) Do đó D đúng. Vậy ta chọn phương án D."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho tam giác ABC có BC = a, AC = b và AB = c. Biết \\(\\widehat C = 120^\\circ .\\) Khẳng định nào sau đây là đúng ?",
+      "options": [
+        "A. c 2 = a 2 + b 2 – ab;",
+        "B. c 2 = a 2 + b 2 + ab;",
+        "C. c 2 = a 2 + b 2 – 3ab;",
+        "D. c 2 = a 2 + b 2 + 3ab."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải Đáp án đúng là: B Theo định lí côsin ta có: c 2 = a 2 + b 2 – 2ab.cosC. Mà \\(\\widehat C = 120^\\circ \\) nên cosC = \\( - \\frac{1}{2}\\) Do đó c 2 = a 2 + b 2 – 2ab. \\(\\left( { - \\frac{1}{2}} \\right)\\) = c 2 = a 2 + b 2 + ab. Vậy ta chọn phương án B."
+    }
+  ]
+}

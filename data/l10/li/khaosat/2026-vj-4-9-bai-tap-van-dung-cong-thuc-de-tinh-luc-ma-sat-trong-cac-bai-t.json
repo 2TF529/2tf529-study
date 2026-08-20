@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-4-9-bai-tap-van-dung-cong-thuc-de-tinh-luc-ma-sat-trong-cac-bai-t",
+  "sourceId": "vietjack:4-9-bai-tap-van-dung-cong-thuc-de-tinh-l",
+  "grade": "l10",
+  "subjectSlug": "li",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "4.9 bài tập Vận dụng công thức để tính lực ma sát trong các bài toán đơn giản có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Một người đi xe đạp có khối lượng tổng cộng m = 86 kg đang chuyển động trên đường nằm ngang với vận tốc v 0 = 4 m/s. Nếu người đi xe ngừng đạp và hãm phanh để giữ không cho các bánh xe quay, xe trượt đi một đoạn đường 2 m thì dừng lại. Lực nào đã gây ra gia tốc cho xe? Tính độ lớn của lực này.",
+      "options": [
+        "A. Lực ma sát lăn, 344 N.",
+        "B. Lực ma sát trượt, 344 N.",
+        "C. Lực ma sát nghỉ, 344 N.",
+        "D. Trọng lực, 860 N."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Gia tốc của chuyển động được tính bằng công thức: a = v t 2 − v 0 2 2. s = 0 − 16 2.2 = − 4 m / s 2 Lực gây ra gia tốc này là lực ma sát trượt của mặt đường tác dụng lên lốp xe: F m s = m . a = 86. − 4 = − 344 N Dấu “-“ chứng tỏ lực ma sát trượt ngược chiều chuyển động."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Lực ma sát trượt tỉ lệ với lực ép vuông góc giữa các bề mặt lại với nhau thông qua biểu thức nào?",
+      "options": [
+        "A. μ = F m s − N",
+        "B. μ = N F m s",
+        "C. μ = F m s . N",
+        "D. μ = F m s N"
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Lực ma sát trượt tỉ lệ với lực ép vuông góc giữa các bề mặt lại với nhau thông qua biểu thức: μ = F m s N"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Một thùng hàng có khối lượng 54,0 kg được đặt trên mặt sàn nằm ngang và phải cần lực đẩy ít nhất bằng 108 N để làm thùng hàng bắt đầu chuyển động. Lực ma sát nghỉ cực đại tác dụng lên thùng hàng.",
+      "options": [
+        "A. 529,2 N.",
+        "B. 162 N.",
+        "C. 108 N.",
+        "D. 54 N."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Lực ma sát nghỉ khi vật bắt đầu chuyển động là lực ma sát nghỉ cực đại, và thỏa mãn công thức F ma sát trượt ≤ F ma sát nghỉ cực đại . Lực đẩy ít nhất bằng 108 N để thùng bắt đầu chuyển động chính là lực ma sát nghỉ cực đại."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Nhận định nào sau đây về lực ma sát là sai?",
+      "options": [
+        "A. Lực ma sát trượt luôn ngược chiều so với chiều chuyển động tương đối giữa các vật.",
+        "B. Lực ma sát trượt xuất hiện giữa bề mặt tiếp xúc của hai vật, có độ lớn tỉ lệ thuận với áp lực của vật lên mặt tiếp xúc.",
+        "C. Hệ số ma sát trượt phụ thuộc vào vật liệu và tình trạng mặt tiếp xúc.",
+        "D. Lực ma sát trượt tỉ lệ thuận với trọng lượng của vật."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Công thức tính lực ma sát trượt F mst = μ.N Vậy lực ma sát trượt tỉ lệ thuận với độ lớn của áp lực N của vật lên mặt tiếp xúc."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Tính hệ số ma sát trượt giữa mặt đường và lốp xe. Lất g = 10 m/s 2 .",
+      "options": [
+        "A. 0,1.",
+        "B. 0,2.",
+        "C. 0,4.",
+        "D. 0,3."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Hệ số ma sát trượt giữa lốp xe với mặt đường được tính từ công thức: F m s = μ N ⇒ μ = F m s N , vì ô tô chuyển động trên đường nằm ngang nên N = P = mg ⇒ μ = 344 86.10 = 0 , 4"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Kéo một lực F theo phương ngang để một vật trượt trên mặt phẳng nằm ngang với vận tốc không đổi. Biết vật có khối lượng m, hệ số ma sát trượt là µ thì:",
+      "options": [
+        "A. F > μmg .",
+        "B. F < μmg .",
+        "C. F = μmg .",
+        "D. F ≥ 2 μmg ."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Khi vật chuyển động với vận tốc không đổi trên mặt phẳng nằm ngang, vật chịu tác dụng của 2 lực cân bằng theo phương ngang là lực kéo F và lực ma sát trượt F mst . Ta có: F = F mst = µ.N Khi vật chuyển động trên mặt phẳng ngang N = P = m.g. Vậy F = µmg."
+    }
+  ]
+}

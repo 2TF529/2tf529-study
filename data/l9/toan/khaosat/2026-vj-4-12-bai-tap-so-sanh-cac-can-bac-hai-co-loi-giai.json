@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-4-12-bai-tap-so-sanh-cac-can-bac-hai-co-loi-giai",
+  "sourceId": "vietjack:4-12-bai-tap-so-sanh-cac-can-bac-hai-co-",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "4.12 bài tập So sánh các căn bậc hai có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Điền dấu thích hợp vào ô trống 5 4 2 . . . . . 2 3 7 .",
+      "options": [
+        "A. >.",
+        "B. <.",
+        "C. =.",
+        "D. ≤."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có: \\(\\frac{5}{4}\\sqrt 2 = \\sqrt {\\frac{{25}}{{16}}.2} = \\sqrt {\\frac{{25}}{8}} \\); \\(\\frac{2}{3}\\sqrt 7 = \\sqrt {\\frac{4}{9}.7} = \\sqrt {\\frac{{28}}{9}} \\) Vì \\(\\frac{{25}}{8} > \\frac{{28}}{9}\\) nên \\(\\sqrt {\\frac{{25}}{8}} > \\sqrt {\\frac{{28}}{9}} \\). Suy ra \\(\\frac{5}{4}\\sqrt 2 < \\frac{2}{3}\\sqrt 7 \\)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Điền dấu thích hợp vào ô trống - 3 11 . . . . - 2 23 .",
+      "options": [
+        "A. >.",
+        "B. <.",
+        "C. =.",
+        "D. ≤."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có: \\( - \\sqrt {{3^2}.11} = - \\sqrt {99} \\); \\( - 2\\sqrt {23} = - \\sqrt {{2^2}.23} = - \\sqrt {92} \\). Vì \\( - \\sqrt {92} > - \\sqrt {99} \\) nên \\( - 3\\sqrt {11} {\\rm{ < }} - 2\\sqrt {23} \\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Điền dấu thích hợp vào ô trống 3 + 7 . . . . 8 + 2 .",
+      "options": [
+        "A. >.",
+        "B. <.",
+        "C. =.",
+        "D. ≤."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có: \\(\\sqrt 8 + \\sqrt 2 = 2\\sqrt 2 + \\sqrt 2 = 3\\sqrt 2 = \\sqrt {18} \\)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Điền dấu thích hợp vào ô trống 2019 + 2022 . . . . 2020 + 2021 .",
+      "options": [
+        "A. >.",
+        "B. <.",
+        "C. =.",
+        "D. ≤."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có: \\(\\sqrt {2019} {\\rm{ + }}\\sqrt {2022} {\\rm{ < }}\\sqrt {2020} + \\sqrt {2021} \\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Sắp xếp các số sau đây theo thứ tự tăng dần: \\(6\\sqrt 3 ;7\\sqrt 2 ;15\\sqrt {\\frac{2}{9}} ;9\\sqrt {1\\frac{2}{9}} \\) ta được:",
+      "options": [
+        "A. \\(6\\sqrt 3 ;7\\sqrt 2 ;15\\sqrt {\\frac{2}{9}} ;9\\sqrt {1\\frac{2}{9}} \\).",
+        "B. \\(15\\sqrt {\\frac{2}{9}} ;7\\sqrt 2 ;9\\sqrt {1\\frac{2}{9}} ;6\\sqrt 3 \\).",
+        "C. \\(6\\sqrt 3 ;9\\sqrt {1\\frac{2}{9}} ;7\\sqrt 2 ;15\\sqrt {\\frac{2}{9}} \\).",
+        "D. \\(6\\sqrt 3 ;15\\sqrt {\\frac{2}{9}} ;7\\sqrt 2 ;9\\sqrt {1\\frac{2}{9}} \\)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có: \\(6\\sqrt 3 = \\sqrt {108} ;7\\sqrt 2 = \\sqrt {98} ;\\) \\(15\\sqrt {\\frac{2}{9}} = \\sqrt {{{15}^2}.\\frac{2}{9}} = \\sqrt {50} ;9\\sqrt {1\\frac{2}{9}} = \\sqrt {{9^2}.\\frac{{11}}{9}} = \\sqrt {99} \\). Vì \\(\\sqrt {50} < \\sqrt {98} < \\sqrt {99} < \\sqrt {108} \\) nên \\(15\\sqrt {\\frac{2}{9}} < 7\\sqrt 2 < 9\\sqrt {1\\frac{2}{9}} < 6\\sqrt 3 \\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Sắp xếp các số \\(3\\sqrt 5 ;2\\sqrt 6 ;\\sqrt {29} ;4\\sqrt 2 \\) theo thứ tự tăng dần ta được:",
+      "options": [
+        "A. \\(2\\sqrt 6 ;3\\sqrt 5 ;4\\sqrt 2 ;\\sqrt {29} \\).",
+        "B. \\(3\\sqrt 5 ;2\\sqrt 6 ;\\sqrt {29} ;4\\sqrt 2 \\).",
+        "C. \\(2\\sqrt 6 ;\\sqrt {29} ;4\\sqrt 2 ;3\\sqrt 5 \\).",
+        "D. \\(3\\sqrt 5 ;4\\sqrt 2 ;\\sqrt {29} ;2\\sqrt 6 \\)."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có: \\(3\\sqrt 5 = \\sqrt {45} ;2\\sqrt 6 = \\sqrt {24} ;4\\sqrt 2 = \\sqrt {32} \\). Vì \\(\\sqrt {24} < \\sqrt {29} < \\sqrt {32} < \\sqrt {45} \\) nên \\(2\\sqrt 6 < \\sqrt {29} < 4\\sqrt 2 < 3\\sqrt 5 \\)."
+    }
+  ]
+}

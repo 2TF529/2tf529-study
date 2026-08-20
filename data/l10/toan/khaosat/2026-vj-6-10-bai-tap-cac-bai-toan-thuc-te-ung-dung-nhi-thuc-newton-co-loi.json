@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-6-10-bai-tap-cac-bai-toan-thuc-te-ung-dung-nhi-thuc-newton-co-loi",
+  "sourceId": "vietjack:6-10-bai-tap-cac-bai-toan-thuc-te-ung-du",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "6.10 Bài tập Các bài toán thực tế ứng dụng nhị thức Newton (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Bác Minh gửi ngân hàng 200 triệu đồng với lãi suất 2,8%/tháng trong 12 tháng. Biết tiền lãi của năm trước sẽ được cộng vào tiền gốc của năm sau đó. Công thức tính số tiền bác An nhận được sau 5 năm là",
+      "options": [
+        "A. 200(1 + 2,8%) 12 ;",
+        "B. 200(1 + 0,028 12 );",
+        "C. 200[1 + (2,8%) 12 ];",
+        "D. 200(1 + 0,028 . 12);"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Công thức tính số tiền bác Minh nhận được sau 12 tháng là : 200(1 + 2,8%) 12 (triệu đồng)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Bác Minh gửi ngân hàng 200 triệu đồng với lãi suất 6,5%/năm trong 4 năm. Số tiền gần đúng mà bác Minh nhận được sau 4 năm là",
+      "options": [
+        "A. 247,07;",
+        "B. 257,07;",
+        "C. 267,07;",
+        "D. 277,07."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Số tiền bác Minh nhận được sau 4 năm: 200(1 + 6,5%) 4 = 200(1 + 0,065) 4 ≈ 200(1 4 + 4 . 1 3 . 0,065 + 6 . 1 2 . 0,065 2 ) = 257,07 (triệu đồng)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Sau một cuộc khảo sát, người ta thu được kết quả số dân của một đất nước tăng thêm 3,2% mỗi năm. Hiện tại đất nước đó có 300 triệu dân. Hỏi sau 5 năm dân số của đất nước đó là bao nhiêu triệu dân? (làm tròn đến chữ số hàng đơn vị)",
+      "options": [
+        "A. 349;",
+        "B. 350;",
+        "C. 351;",
+        "D. 352."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Dân số của đất nước đó sau 5 năm là: 300(1 + 3,2%) 5 = 300(1 + 0,032) 5 ≈ 300(1 5 + 5 . 1 4 . 0,032+ 10 . 1 3 . 0,032 2 ) ≈ 351 (triệu dân)"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Sau một cuộc khảo sát, người ta thu được kết quả số dân của một đất nước tăng thêm 2,7% mỗi năm. Hiện tại đất nước đó có 500 triệu dân. Hỏi sau 5 năm dân số của đất nước đó tăng thêm bao nhiêu triệu dân? (làm tròn đến chữ số hàng đơn vị)",
+      "options": [
+        "A. 68;",
+        "B. 69;",
+        "C. 70;",
+        "D. 71."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là D: Dân số của đất nước đó sau 5 năm là: 500(1 + 2,7%) 5 = 500(1 + 0,027) 5 ≈ 500(1 5 + 5 . 1 4 . 0,027+ 10 . 1 3 . 0,027 2 ) ≈ 571 (triệu dân) Số dân tăng lên là : 571 – 500 = 71 (triệu dân). Vậy sau 5 năm dân số của đất nước đó tăng thêm 71 triệu dân."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cô Thu đang thực hiện chế độ ăn kiêng giảm cân. Trung bình mỗi tháng cô giảm được 0,8% cân nặng. Hỏi sau 4 tháng cô Thu giảm được bao nhiêu phần trăm cân nặng? (làm tròn đến chữ số thập phân thứ 2).",
+      "options": [
+        "A. 3,94% ;",
+        "B. 3,92% ;",
+        "C. 3,90% ;",
+        "D. 3,88% ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Gọi a (kg) là cân nặng hiện tại của cô Thu. Cân nặng của cô Thu sau 4 tháng là a(1 – 0,8%) 4 = 500(1 – 0,008) 4 ≈ a[1 5 + 5 . 1 4 . ( – 0,008)+ 10 . 1 3 . ( – 0,008) 2 ] ≈ 0,9606a = 96,06%a (kg) Số phần trăm cân nặng cô Thu đã giảm được là: 100% – 96,06% = 3,94% (cân nặng). Vậy sau 4 tháng cô Thu giảm được 3,94% cân nặng."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Bác Minh gửi ngân hàng 1 tỷ đồng với lãi suất 3,6%/3 tháng trong 12 tháng. Sau 1 năm, số tiền bác Minh nhận được là bao nhiêu tỷ đồng, biết tiền lãi của năm trước sẽ được cộng vào tiền gốc của năm sau đó? (làm tròn đến chữ số thập phân thứ 2)",
+      "options": [
+        "A. 1,12;",
+        "B. 1,15;",
+        "C. 1,17;",
+        "D. 1,19."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Số tiền bác Minh nhận được sau 4 kỳ hạn là: 1(1 + 3,6%) 4 = (1 + 0,036) 4 ≈ 1 4 + 4 . 1 3 . 0,036 + 6 . 1 2 . 0,036 2 ≈ 1,15 (tỷ đồng)."
+    }
+  ]
+}

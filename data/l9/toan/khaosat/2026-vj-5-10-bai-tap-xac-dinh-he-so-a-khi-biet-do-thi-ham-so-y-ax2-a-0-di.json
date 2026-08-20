@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-5-10-bai-tap-xac-dinh-he-so-a-khi-biet-do-thi-ham-so-y-ax2-a-0-di",
+  "sourceId": "vietjack:5-10-bai-tap-xac-dinh-he-so-a-khi-biet-d",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "5.10 bài tập Xác định hệ số a khi biết đồ thị hàm số y = ax2 (a ≠ 0) đi qua điểm M(x0; y0) có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Đồ thị của hàm số nào sau đây đi qua điểm A(–3; 12)?",
+      "options": [
+        "A. \\(y = \\frac{3}{4}{x^2}.\\)",
+        "B. \\(y = \\frac{4}{3}{x^2}.\\)",
+        "C. y = 4x 2 .",
+        "D. y = 3x 2 ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Gọi hàm số của đồ thị cần tìm có dạng y = ax 2 (a ≠ 0). Vì đồ thị của hàm số nào sau đây đi qua điểm A(–3; 12) nên ta có: 12 = a.(–3) 2 12 = a.9 \\(a = \\frac{4}{3}\\) (thỏa mãn). Khi đó, ta có hàm số \\(y = \\frac{4}{3}{x^2}.\\) Vậy ta chọn phương án B."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Giá trị m > 0 để đồ thị hàm số y = (m 2 – 2)x 2 đi qua điểm A(1; 2) là",
+      "options": [
+        "A. m = 1.",
+        "B. m = 2.",
+        "C. m = 3.",
+        "D. m = 4."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Vì đồ thị hàm số y = (m 2 – 2)x 2 đi qua điểm A(1; 2) nên ta có: 2 = (m 2 – 2).1 2 2 = m 2 – 2 m 2 = 4 m = 2 (thỏa mãn m > 0) hoặc m = –2 (không thỏa mãn m > 0). Vậy ta chọn phương án B."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trong mặt phẳng tọa độ Oxy, cho điểm A(1; 3) thuộc đồ thị hàm số y = ax 2 (a ≠ 0). Hỏi điểm nào dưới đây thuộc đồ thị hàm số đã cho?",
+      "options": [
+        "A. A(2; 12).",
+        "B. B(–2; –12).",
+        "C. C(–3; 12).",
+        "D. D(3; 12)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Vì điểm A(1; 3) thuộc đồ thị hàm số y = ax 2 (a ≠ 0) nên ta có: 3 = a.1 2 3 = a a = 3 (thỏa mãn). Khi đó, ta có hàm số y = 3x 2 . ⦁ Thay x = 2 vào hàm số y = 3x 2 , ta được: y = 3.2 2 = 12. Do đó điểm A(2; 12) thuộc đồ thị hàm số y = 3x 2 . ⦁ Thay x = –2 vào hàm số y = 3x 2 , ta được: y = 3.(–2) 2 = 12 ≠ –12. Do đó điểm B(–2; –12) không thuộc đồ thị hàm số y = 3x 2 . ⦁ Thay x = –3 vào hàm số y = 3x 2 , ta được: y = 3.(–3) 2 = 27 ≠ 12. Do đó điểm C(–3; 12) không thuộc đồ thị hàm số y = 3x 2 . ⦁ Thay x = 3 vào hàm số y = 3x 2 , ta được: y = 3.3 2 = 27 ≠ 12. Do đó điểm D(3; 12) không thuộc đồ thị hàm số y = 3x 2 . Vậy ta chọn phương án A."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Giá trị của m để đồ thị hàm số y = (–3m + 1)x 2 đi qua điểm A(x; y) với (x; y) là nghiệm của hệ phương trình \\(\\left\\{ \\begin{array}{l}4x - 3y = - 2\\\\x - 2y = - 3\\end{array} \\right.\\) là",
+      "options": [
+        "A. \\(m = \\frac{1}{3}.\\)",
+        "B. \\(m = - \\frac{1}{3}.\\)",
+        "C. m = 3.",
+        "D. m = –3."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Sử dụng máy tính cầm tay, ta giải được hệ phương trình \\(\\left\\{ \\begin{array}{l}4x - 3y = - 2\\\\x - 2y = - 3\\end{array} \\right.\\) có nghiệm là (1; 2). Như vậy ta có tọa độ điểm A là A(1; 2). Do đồ thị hàm số y = (–3m + 1)x 2 đi qua điểm A(1; 2) nên ta có: 2 = (–3m + 1).1 2 2 = –3m + 1 –3m = 1 \\(m = - \\frac{1}{3}.\\) Vậy \\(m = - \\frac{1}{3}\\) là giá trị cần tìm."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hàm số y = ax 2 (a ≠0) có đồ thị như hình vẽ sau: Hệ số a của hàm số trên là",
+      "options": [
+        "A. a = –2.",
+        "B. a = 2.",
+        "C. \\(a = - \\frac{1}{4}.\\)",
+        "D. \\(a = \\frac{1}{4}.\\)"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Quan sát đồ thị, ta thấy đồ thị hàm số y = ax 2 (a ≠0) đi qua điểm (2; –1). Thay x = 2 và y = –1 vào hàm số y = ax 2 (a ≠0), ta được: –1 = a.2 2 –1 = a.4 \\(a = - \\frac{1}{4}\\) (thỏa mãn điều kiện). Vậy ta chọn phương án C."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong mặt phẳng tọa độ Oxy, cho parabol (P): y = ax 2 (a ≠ 0) và đường thẳng (d): y = 5x – 4. Giá trị của a để đường thẳng (d) cắt (P) tại điểm có hoành độ bằng –2 là",
+      "options": [
+        "A. \\(a = \\frac{7}{2}.\\)",
+        "B. \\(a = - \\frac{7}{2}.\\)",
+        "C. \\(a = - \\frac{1}{{98}}.\\)",
+        "D. \\(a = \\frac{1}{{98}}.\\)"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Thay x = –2 vào hàm số y = 5x – 4, ta có: y = 5.(–2) – 4 = –14. Như vậy, parabol (P) cắt đường thẳng (d): y = 5x – 4 tại điểm có tọa độ (–2; –14). Do parabol (P): y = ax 2 (a ≠ 0) đi qua điểm (–2; –14) nên ta có: –14 = a.(–2) 2 –14 = a.4 \\(a = - \\frac{7}{2}.\\) Vậy ta chọn phương án B."
+    }
+  ]
+}

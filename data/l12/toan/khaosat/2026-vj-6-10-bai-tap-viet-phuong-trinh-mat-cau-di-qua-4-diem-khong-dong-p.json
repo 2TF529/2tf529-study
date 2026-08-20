@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-6-10-bai-tap-viet-phuong-trinh-mat-cau-di-qua-4-diem-khong-dong-p",
+  "sourceId": "vietjack:6-10-bai-tap-viet-phuong-trinh-mat-cau-d",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "6.10 bài tập Viết phương trình mặt cầu đi qua 4 điểm không đồng phẳng có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Trong không gian Oxyz, cho 4 điểm A(1; 1; 0), B(3; 1; 2), C(−1; 1; 2), D(1; −1; 2). Viết phương trình mặt cầu ngoại tiếp tứ diện ABCD.",
+      "options": [
+        "A. (x – 1) 2 + (y − 1) 2 + (z – 2) 2 = 4;",
+        "B. (x + 1) 2 + (y + 1) 2 + (z + 2) 2 = 4;",
+        "C. (x − 1) 2 + (y − 1) 2 + (z − 2) 2 = 2;",
+        "D. (x + 1) 2 + (y + 1) 2 + (z + 2) 2 = 4."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D A. Phương trình mặt cầu ngoại tiếp tứ diện ABCD có dạng: B. x 2 + y 2 + z 2 – 2ax – 2by – 2cz + d = 0 (a 2 + b 2 + c 2 – d > 0). C. Vì A, B, C, D (S) nên ta có hệ phương trình \\(\\left\\{ \\begin{array}{l}2a + 2b - d = 2\\\\6a + 2b + 4c - d = 14\\\\ - 2a + 2b + 4c - d = 6\\\\2a - 2b + 4c - d = 6\\end{array} \\right.\\)\\( \\Leftrightarrow \\left\\{ \\begin{array}{l}a = 1\\\\b = 1\\\\c = 2\\\\d = 2\\end{array} \\right.\\). Vậy (x − 1) 2 + (y − 1) 2 + (z − 2) 2 = 4."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Trong không gian Oxyz, viết phương trình mặt cầu ngoại tiếp tứ diện OABC biết A(−2; 1; 3), B(1; −1; 0), C(2; 0; 1).",
+      "options": [
+        "A. \\({x^2} + {y^2} + {z^2} + \\frac{1}{7}x + \\frac{{15}}{7}y - \\frac{{37}}{7}z = 0\\);",
+        "B. \\({x^2} + {y^2} + {z^2} + \\frac{1}{{14}}x + \\frac{{15}}{{14}}y - \\frac{{37}}{{14}}z = 0\\);",
+        "C. \\({x^2} + {y^2} + {z^2} + \\frac{1}{7}x - \\frac{{15}}{7}y + \\frac{{37}}{7}z = 0\\);",
+        "D. \\({x^2} + {y^2} + {z^2} - \\frac{1}{{14}}x - \\frac{{15}}{{14}}y + \\frac{{37}}{{14}}z = 0\\)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A D. Phương trình mặt cầu ngoại tiếp tứ diện OABC có dạng: A. x 2 + y 2 + z 2 – 2ax – 2by – 2cz + d = 0 (a 2 + b 2 + c 2 – d > 0). B. Vì O, A, B, C (S) nên ta có hệ phương trình \\(\\left\\{ \\begin{array}{l}d = 0\\\\4a - 2b - 6c + d = - 14\\\\ - 2a + 2b + d = - 2\\\\ - 4a - 2c + d = - 5\\end{array} \\right.\\)\\( \\Leftrightarrow \\left\\{ \\begin{array}{l}a = - \\frac{1}{{14}}\\\\b = - \\frac{{15}}{{14}}\\\\c = \\frac{{37}}{{14}}\\\\d = 0\\end{array} \\right.\\). Vậy phương trình mặt cầu cần lập: \\({x^2} + {y^2} + {z^2} + \\frac{1}{7}x + \\frac{{15}}{7}y - \\frac{{37}}{7}z = 0\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trong không gian với hệ tọa độ Oxyz, cho các điểm A(2; 0; 0), B(0; 4; 0), C(0; 0; 4). Phương trình nào sau đây là phương trình mặt cầu ngoại tiếp tứ diện OABC (O là gốc tọa độ).",
+      "options": [
+        "A. x 2 + y 2 + z 2 – 2x + 4y – 4z = 0;",
+        "B. (x − 1) 2 + (y − 2) 2 + (z − 2) 2 = 9;",
+        "C. (x − 2) 2 + (y − 4) 2 + (z − 4) 2 = 20;",
+        "D. x 2 + y 2 + z 2 + 2x – 4y + 4z = 9."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B C. Phương trình mặt cầu ngoại tiếp tứ diện OABC có dạng: D. x 2 + y 2 + z 2 – 2ax – 2by – 2cz + d = 0 (a 2 + b 2 + c 2 – d > 0). A. Vì O, A, B, C (S) nên ta có hệ phương trình \\(\\left\\{ \\begin{array}{l} - 4a + d = - 4\\\\ - 8b + d = - 16\\\\ - 8c + d = - 16\\\\d = 0\\end{array} \\right.\\)\\( \\Leftrightarrow \\left\\{ \\begin{array}{l}a = 1\\\\b = 2\\\\c = 2\\\\d = 0\\end{array} \\right.\\). Bán kính \\(R = \\sqrt {{a^2} + {b^2} + {c^2} - d} = 3\\). Do đó (x − 1) 2 + (y − 2) 2 + (z − 2) 2 = 9."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Trong không gian với hệ tọa độ Oxyz, cho các điểm A(6; −2; 3), B(0; 1; 6), C(2; 0; −1), D(4; 1; 0). Phương trình nào sau đây là phương trình mặt cầu ngoại tiếp tứ diện ABCD.",
+      "options": [
+        "A. x 2 + y 2 + z 2 + 4x − 2y + 6z – 3 = 0;",
+        "B. 2x 2 + y 2 + z 2 − 4x + 2y − 6z – 3 = 0;",
+        "C. x 2 + y 2 + z 2 − 4x + 2y − 6z – 3 = 0;",
+        "D. x 2 + y 2 + z 2 − 4x + 2y − 6z + 3 = 0."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C B. Phương trình mặt cầu ngoại tiếp tứ diện ABCD có dạng: C. x 2 + y 2 + z 2 – 2ax – 2by – 2cz + d = 0 (a 2 + b 2 + c 2 – d > 0). D. Vì A, B, C, D (S) nên ta có hệ phương trình \\(\\left\\{ \\begin{array}{l} - 12a + 4b - 6c + d = - 49\\\\ - 2b - 12c + d = - 37\\\\ - 4a + 2c + d = - 5\\\\ - 8a - 2b + d = - 17\\end{array} \\right.\\)\\( \\Leftrightarrow \\left\\{ \\begin{array}{l}a = 2\\\\b = - 1\\\\c = 3\\\\d = - 3\\end{array} \\right.\\). Vậy phương trình mặt cầu: x 2 + y 2 + z 2 − 4x + 2y − 6z – 3 = 0."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho bốn điểm A(1; 0; 0), B(0; 1; 0), C(0; 0; 1), D(1; 1; 1). Mặt cầu ngoại tiếp tứ diện ABCD có phương trình là:",
+      "options": [
+        "A. \\({\\left( {x + \\frac{1}{2}} \\right)^2} + {\\left( {y + \\frac{1}{2}} \\right)^2} + {\\left( {z + \\frac{1}{2}} \\right)^2} = \\frac{3}{4}\\);",
+        "B. \\({\\left( {x - \\frac{1}{2}} \\right)^2} + {\\left( {y - \\frac{1}{2}} \\right)^2} + {\\left( {z - \\frac{1}{2}} \\right)^2} = \\frac{{\\sqrt 3 }}{2}\\);",
+        "C. \\({\\left( {x - \\frac{1}{2}} \\right)^2} + {\\left( {y - \\frac{1}{2}} \\right)^2} + {\\left( {z - \\frac{1}{2}} \\right)^2} = \\frac{3}{4}\\);",
+        "D. \\({\\left( {x + \\frac{1}{2}} \\right)^2} + {\\left( {y + \\frac{1}{2}} \\right)^2} + {\\left( {z + \\frac{1}{2}} \\right)^2} = \\frac{{\\sqrt 3 }}{2}\\)."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C A. Phương trình mặt cầu ngoại tiếp tứ diện ABCD có dạng: B. x 2 + y 2 + z 2 – 2ax – 2by – 2cz + d = 0 (a 2 + b 2 + c 2 – d > 0). C. Vì A, B, C, D (S) nên ta có hệ phương trình \\(\\left\\{ \\begin{array}{l} - 2a + d = - 1\\\\ - 2b + d = - 1\\\\ - 2c + d = 1\\\\ - 2a - 2b - 2c + d = - 3\\end{array} \\right.\\)\\( \\Leftrightarrow \\left\\{ \\begin{array}{l}a = \\frac{1}{2}\\\\b = \\frac{1}{2}\\\\c = \\frac{1}{2}\\\\d = 0\\end{array} \\right.\\). Bán kính \\(R = \\sqrt {{a^2} + {b^2} + {c^2} - d} = \\frac{{\\sqrt 3 }}{2}\\). Vậy phương trình mặt cầu: \\({\\left( {x - \\frac{1}{2}} \\right)^2} + {\\left( {y - \\frac{1}{2}} \\right)^2} + {\\left( {z - \\frac{1}{2}} \\right)^2} = \\frac{3}{4}\\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong không gian Oxyz cho 4 điểm A(1; 0; 0), B(0; 1; 0), C(0; 0; −1), D(2; −1; 1). Viết phương trình mặt cầu ngoại tiếp tứ diện ABCD.",
+      "options": [
+        "A. x 2 + y 2 + z 2 + 5x + 5y − 5z – 6 = 0;",
+        "B. \\({x^2} + {y^2} + {z^2} + \\frac{5}{2}x + \\frac{5}{2}y - \\frac{5}{2}z - 6 = 0\\);",
+        "C. x 2 + y 2 + z 2 +5x + 5y − 5z + 6 = 0;",
+        "D. \\({x^2} + {y^2} + {z^2} + \\frac{5}{2}x + \\frac{5}{2}y - \\frac{5}{2}z + 6 = 0\\)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A D. Phương trình mặt cầu ngoại tiếp tứ diện ABCD có dạng: A. x 2 + y 2 + z 2 – 2ax – 2by – 2cz + d = 0 (a 2 + b 2 + c 2 – d > 0). B. Vì A, B, C, D (S) nên ta có hệ phương trình \\(\\left\\{ \\begin{array}{l} - 2a + d = - 1\\\\ - 2b + d = - 1\\\\2c + d = - 1\\\\ - 4a + 2b - 2c + d = - 6\\end{array} \\right.\\)\\( \\Leftrightarrow \\left\\{ \\begin{array}{l}a = - \\frac{5}{2}\\\\b = - \\frac{5}{2}\\\\c = \\frac{5}{2}\\\\d = - 6\\end{array} \\right.\\). Vậy mặt cầu (S): x 2 + y 2 + z 2 + 5x + 5y − 5z – 6 = 0."
+    }
+  ]
+}

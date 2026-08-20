@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-4-10-bai-tap-van-dung-dinh-li-ba-duong-vuong-goc-de-chung-minh-ha",
+  "sourceId": "vietjack:4-10-bai-tap-van-dung-dinh-li-ba-duong-v",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "4.10 Bài tập Vận dụng định lí ba đường vuông góc để chứng minh hai đường thẳng vuông góc (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Khẳng định nào sau đây là đúng?",
+      "options": [
+        "A. Cho đường thẳng a không vuông góc với mặt phẳng (P) và đường thẳng b nằm trong (P). Khi đó, điều kiện cần và đủ để b vuông góc với a là b vuông góc với hình chiếu a' của a trên (P);",
+        "B. Cho đường thẳng a không vuông góc với mặt phẳng (P) và đường thẳng b nằm trong (P). Khi đó, điều kiện cần và đủ để b vuông góc với a là b song song với hình chiếu a' của a trên (P);",
+        "C. Cho đường thẳng a vuông góc với mặt phẳng (P) và đường thẳng b nằm trong (P). Khi đó, điều kiện cần và đủ để b vuông góc với a là b vuông góc với hình chiếu a' của a trên (P);",
+        "D. Cho đường thẳng a tùy ý và đường thẳng b nằm trong (P). Khi đó, điều kiện cần và đủ để b vuông góc với a là b vuông góc với hình chiếu a' của a trên (P)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Cho đường thẳng a không vuông góc với mặt phẳng (P) và đường thẳng b nằm trong (P). Khi đó, điều kiện cần và đủ để b vuông góc với a là b vuông góc với hình chiếu a' của a trên (P)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hình chóp S.ABCD có đáy ABCD là hình vuông, SA ⊥ (ABCD). Đường thẳng SB vuông góc với đường thẳng nào sau đây?",
+      "options": [
+        "A. AD;",
+        "B. CD ;",
+        "C. AC;",
+        "D. AB."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Do SA ⊥ (ABCD) nên hình chiếu vuông góc của S lên (ABCD) là A. Do đó, hình chiếu vuông góc của SB lên (ABCD) là AB. Do ABCD là hình vuông nên AB ⊥ AD. Suy ra: SB ⊥ AD (định lí ba đường vuông góc)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho hình chóp S.ABCD có đáy ABCD là hình vuông, H là tâm hình vuông ABCD, SH ⊥ (ABCD). Đường thẳng SA vuông góc với đường thẳng nào sau đây?",
+      "options": [
+        "A. AD;",
+        "B. BD;",
+        "C. AC;",
+        "D. AB."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Vì SH ⊥ (ABCD) nên hình chiếu vuông góc của SA lên (ABCD) là AH Vì ABCD là hình vuông, H là tâm hình vuông ABCD nên AH vuông góc với BD Do đó, SA vuông góc với BD (định lí ba đường vuông góc)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hình chóp S.ABCD có đáy ABCD là hình vuông, SA ⊥ (ABCD). Khẳng định nào sau đây là đúng?",
+      "options": [
+        "A. Tam giác SDC vuông tại D;",
+        "B. Tam giác SDC vuông tại C;",
+        "C. Tam giác SDC cân tại S;",
+        "D. Tam giác SDC cân tại D."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Do SA ⊥ (ABCD) nên hình chiếu vuông góc của S lên (ABCD) là A. Do đó, hình chiếu vuông góc của SD lên (ABCD) là AD. Do ABCD là hình vuông nên CD ⊥ AD. Suy ra: SD ⊥ CD (định lí ba đường vuông góc). Do đó, tam giác SCD vuông tại D."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hình chóp S.ABCD có đáy là hình vuông, SA vuông góc với đáy. Kẻ AH ⊥ SB tại H, AK ⊥ SB tại K. Khẳng định nào sau đây là sai?",
+      "options": [
+        "A. SB ⊥ BC;",
+        "B. SC ⊥ BD;",
+        "C. SD ⊥ CD;",
+        "D. SO ⊥ AC."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Do SA ⊥ (ABCD) nên hình chiếu vuông góc của S lên (ABCD) là A, do đó, hình chiếu vuông góc của SC lên (ABCD) là AC. Mà do ABCD là hình vuông nên AC ⊥ BD Theo định lí ba đường vuông góc, ta có: SC ⊥ BD Do SA ⊥ (ABCD) nên hình chiếu vuông góc của S lên (ABCD) là A, do đó, hình chiếu vuông góc của SB lên (ABCD) là AB. Mà do ABCD là hình vuông nên AB ⊥ BC Theo định lí ba đường vuông góc, ta có: SB ⊥ BC Do SA ⊥ (ABCD) nên hình chiếu vuông góc của S lên (ABCD) là A, do đó, hình chiếu vuông góc của SD lên (ABCD) là AD. Mà do ABCD là hình vuông nên AD ⊥ CD Theo định lí ba đường vuông góc, ta có: SD ⊥ CD Vậy các đáp án A, B, C đúng nên D sai."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho hình chóp S.ABCD có đáy ABCD là hình chữ nhật, AB = a, BC = a 2 . SA vuông góc với đáy. Gọi M là trung điểm của AD. Đường thẳng BM vuông góc với đường thẳng:",
+      "options": [
+        "A. SC;",
+        "B. AB;",
+        "C. SD;",
+        "D. CD."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A"
+    }
+  ]
+}

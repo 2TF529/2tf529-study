@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-1-trac-nghiem-bai-tap-cuoi-chuong-v-lop-11-co-dap-an",
+  "sourceId": "vietjack:1-trac-nghiem-bai-tap-cuoi-chuong-v-lop-",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.Trắc nghiệm Bài tập cuối chương V lớp 11 (có đáp án)",
+  "duration": 90,
+  "answerSource": "partial",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: TRẮC NGHIỆM NHIỀU LỰA CHỌN Cho hàm số f(x) xác định trên ℝ, liên tục tại x = 1 và thỏa mãn \\(\\mathop {\\lim }\\limits_{x \\to 1} f\\left( x \\right) = 5\\). Khi đó f(1) bằng bao nhiêu?",
+      "options": [
+        "A. f(1) = −5.",
+        "B. f(1) = 1.",
+        "C. f(1) = −1.",
+        "D. f(1) = 5."
+      ],
+      "answer": "D",
+      "note": "D Hàm số liên tục tại x = 1 khi \\(\\mathop {\\lim }\\limits_{x \\to 1} f\\left( x \\right) = f\\left( 1 \\right) = 5\\) ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho a là số thực thỏa mãn \\(\\mathop {\\lim }\\limits_{n \\to + \\infty } \\frac{{\\left( {a - 1} \\right)n + 2}}{{2n + 9}} = 1\\). Khẳng định nào sau đây đúng?",
+      "options": [
+        "A. a Î (−5; −1).",
+        "B. a Î (4; 10).",
+        "C. a Î (−1; 1).",
+        "D. a Î (1; 4)."
+      ],
+      "answer": "D",
+      "note": "D \\(\\mathop {\\lim }\\limits_{n \\to + \\infty } \\frac{{\\left( {a - 1} \\right)n + 2}}{{2n + 9}} = 1\\)\\( \\Leftrightarrow \\mathop {\\lim }\\limits_{n \\to + \\infty } \\frac{{\\left( {a - 1} \\right) + \\frac{2}{n}}}{{2 + \\frac{9}{n}}} = 1\\)\\( \\Leftrightarrow \\frac{{a - 1}}{2} = 1\\)\\( \\Leftrightarrow a = 3\\) ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho \\(\\mathop {\\lim }\\limits_{x \\to 1} f\\left( x \\right) = - 3\\) và \\(\\mathop {\\lim }\\limits_{x \\to 1} g\\left( x \\right) = 5\\). Giá trị của \\(\\mathop {\\lim }\\limits_{x \\to 1} \\left[ {f\\left( x \\right) + g\\left( x \\right)} \\right]\\) bằng",
+      "options": [
+        "A. 8.",
+        "B. −8.",
+        "C. −15.",
+        "D. 2."
+      ],
+      "answer": "D",
+      "note": "D \\(\\mathop {\\lim }\\limits_{x \\to 1} \\left[ {f\\left( x \\right) + g\\left( x \\right)} \\right]\\)\\( = \\mathop {\\lim }\\limits_{x \\to 1} f\\left( x \\right) + \\mathop {\\lim }\\limits_{x \\to 1} g\\left( x \\right) = - 3 + 5 = 2\\) ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Tính \\[\\mathop {\\lim }\\limits_{n \\to + \\infty } \\frac{{3n + 1}}{{n + 2}}\\] bằng",
+      "options": [
+        "A. −∞.",
+        "B. \\(\\frac{1}{2}\\).",
+        "C. +∞.",
+        "D. 3."
+      ],
+      "answer": null,
+      "note": "D \\[\\mathop {\\lim }\\limits_{n \\to + \\infty } \\frac{{3n + 1}}{{n + 2}}\\]\\[ = \\mathop {\\lim }\\limits_{n \\to + \\infty } \\frac{{3 + \\frac{1}{n}}}{{1 + \\frac{2}{n}}} = 3\\] ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Hàm số \\(y = \\frac{1}{{{x^2} - 3x + 2}}\\) liên tục trên khoảng nào dưới đây?",
+      "options": [
+        "A. (1; 2).",
+        "B. (−1; 2).",
+        "C. (−∞; 2).",
+        "D. (1; +∞)."
+      ],
+      "answer": "A",
+      "note": "A Điều kiện: D = ℝ\\{1; 2}. Do đó hàm số liên tục trên các khoảng (−∞; 1); (1; 2) và (2; +∞)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Hàm số nào dưới đây gián đoạn tại điểm x 0 = 1?",
+      "options": [
+        "A. \\(y = \\frac{{x - 1}}{{{x^2} + 1}}\\).",
+        "B. \\(y = \\frac{{x - 1}}{{x + 1}}\\).",
+        "C. \\(y = \\frac{{x + 1}}{{x - 1}}\\).",
+        "D. \\(y = \\sqrt {x + 1} \\)."
+      ],
+      "answer": "C",
+      "note": "C Ta có hàm số \\(y = \\frac{{x + 1}}{{x - 1}}\\) không xác định tại x = 1. Do đó hàm số \\(y = \\frac{{x + 1}}{{x - 1}}\\) gián đoạn tại điểm x 0 = 1."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Tính \\(\\mathop {\\lim }\\limits_{x \\to 1} \\left( {3{x^2} - 2x + 1} \\right)\\).",
+      "options": [
+        "A. 1.",
+        "B. 3.",
+        "C. +∞.",
+        "D. 2."
+      ],
+      "answer": "D",
+      "note": "D \\(\\mathop {\\lim }\\limits_{x \\to 1} \\left( {3{x^2} - 2x + 1} \\right) = {3.1^2} - 2.1 + 1 = 2\\) ."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho \\(\\mathop {\\lim }\\limits_{x \\to {x_0}} f\\left( x \\right) = L < 0\\) và \\(\\mathop {\\lim }\\limits_{x \\to {x_0}} g\\left( x \\right) = - \\infty \\). Kết quả nào dưới đây đúng?",
+      "options": [
+        "A. \\(\\mathop {\\lim }\\limits_{x \\to {x_0}} f\\left( x \\right).g\\left( x \\right) = - \\infty \\).",
+        "B. \\(\\mathop {\\lim }\\limits_{x \\to {x_0}} f\\left( x \\right).g\\left( x \\right) = + \\infty \\).",
+        "C. \\(\\mathop {\\lim }\\limits_{x \\to {x_0}} f\\left( x \\right).g\\left( x \\right) = M < 0\\).",
+        "D. \\(\\mathop {\\lim }\\limits_{x \\to {x_0}} f\\left( x \\right).g\\left( x \\right) = L\\)."
+      ],
+      "answer": "B",
+      "note": "B \\(\\mathop {\\lim }\\limits_{x \\to {x_0}} f\\left( x \\right).g\\left( x \\right) = + \\infty \\) ."
+    }
+  ]
+}

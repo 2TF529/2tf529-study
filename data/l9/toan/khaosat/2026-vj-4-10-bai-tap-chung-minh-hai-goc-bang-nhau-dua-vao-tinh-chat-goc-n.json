@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-4-10-bai-tap-chung-minh-hai-goc-bang-nhau-dua-vao-tinh-chat-goc-n",
+  "sourceId": "vietjack:4-10-bai-tap-chung-minh-hai-goc-bang-nha",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "4.10 bài tập Chứng minh hai góc bằng nhau dựa vào tính chất góc nội tiếp có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Khẳng định nào sau đây là sai?",
+      "options": [
+        "A. Trong một đường tròn, góc nội tiếp chắn nửa đường tròn là góc vuông.",
+        "B. Trong một đường tròn, hai góc nội tiếp bằng nhau chắn hai cung bằng nhau.",
+        "C. Trong một đường tròn, hai góc nội tiếp cùng chắn cùng một cung thì bằng nhau.",
+        "D. Trong một đường tròn, hai góc nội tiếp bằng nhau thì cùng chắn một cung."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Trong một đường tròn, hai góc nội tiếp bằng nhau có thể chắn cùng một cung hoặc chắn hai cung bằng nhau."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Góc ABH bằng góc",
+      "options": [
+        "A. \\[\\widehat {MCA}.\\]",
+        "B. \\[\\widehat {ABH}\\].",
+        "C. \\[\\widehat {MCO}\\].",
+        "D. \\[\\widehat {AMC}\\]."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Ta có \\[\\widehat {MCA} = 90^\\circ \\] (góc nội tiếp chắn nửa đường tròn) \\[\\widehat {ABC} = \\widehat {AMC}\\] (góc nội tiếp cùng chắn cung AC)"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Góc OAC bằng góc",
+      "options": [
+        "A. AMC.",
+        "B. BAH.",
+        "C. OCM.",
+        "D. ABH."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có \\[\\widehat {MCA} = 90^\\circ \\] (góc nội tiếp chắn nửa đường tròn) \\[\\widehat {ABC} = \\widehat {AMC}\\] (góc nội tiếp cùng chắn cung AC) Xét ∆HBA và ∆CMA, có: \\[\\widehat {MCA} = \\widehat {BHA} = 90^\\circ \\] \\[\\widehat {ABC} = \\widehat {AMC}\\] (cmt) Do đó, ∆HBA ᔕ ∆CMA (g.g) Suy ra \\[\\widehat {BAH} = \\widehat {CAM}\\] (hai góc tương ứng) Hay \\[\\widehat {BAH} = \\widehat {CAO}\\]."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho nửa đường tròn (O) đường kính AB và dây AC. Lấy N là điểm chính giữa cung CB. Ta có góc CAN bằng",
+      "options": [
+        "A. Góc NAB.",
+        "B. Góc NBA.",
+        "C. Góc ANB.",
+        "D. Góc ANC."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có N là điểm chính giữa cung CB nên . Do đó, \\[\\widehat {CAN} = \\widehat {NAB}\\] (góc nội tiếp chắn hai cung bằng nhau)"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho đường tròn (O) đường kính AB và một dây cung AM có số đo nhỏ hơn 90°. Vẽ các dây MC ⊥ AB, MD ∕∕ AB. Lúc này, ta có:",
+      "options": [
+        "A. \\[\\widehat {DMB} = \\widehat {ADC}\\].",
+        "B. \\[\\widehat {DBM} = \\widehat {ADC}\\].",
+        "C. \\[\\widehat {DMB} = \\widehat {ACD}\\].",
+        "D. \\[\\widehat {DMB} = \\widehat {ABD}\\]."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có: \\[\\widehat {DMB} = \\widehat {DAC}\\] (cùng chắn cung DB) Có AB ⊥ MC suy ra (đường kính vuông góc với một dây) Ta lại có MD ∕∕ AB suy ra (hai cung chắn giữa hai dây song song) Do đó nên \\[\\widehat {DMB} = \\widehat {ADC}\\] (góc nội tiếp chắn hai cung bằng nhau)"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho tam giác ABC (AB < AC) nội tiếp đường tròn (O), đường trung tuyến AM. Lấy điểm D trên cung BC không chứa A sao cho \\[\\widehat {BAD} = \\widehat {CAM}\\]. Khi đó, ta có:",
+      "options": [
+        "A. \\[\\widehat {ADB} = \\widehat {CDM}\\].",
+        "B. \\[\\widehat {ABD} = \\widehat {CMD}\\].",
+        "C. \\[\\widehat {ADB} = \\widehat {DCM}\\].",
+        "D. \\[\\widehat {ABD} = \\widehat {CDM}\\]."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có: \\[\\widehat {BAD} = \\widehat {CAM}\\] (gt) \\[\\widehat {BDA} = \\widehat {ACM}\\] (góc nội tiếp chắn cung AB) \\[\\widehat {BAM} = \\widehat {DAC} = \\widehat {BAD} + \\widehat {DAM}\\] \\[\\widehat {ABM} = \\widehat {ADC}\\] (góc nội tiếp) Do đó, ∆ABM ᔕ ∆ADC (g.g) Suy ra \\[\\frac{{BA}}{{AD}} = \\frac{{BM}}{{DC}} = \\frac{{MC}}{{CD}}\\]. Kết hợp với điều kiện \\[\\widehat {ABD} = \\widehat {BCD}\\] (góc nội tiếp chắn cung BD) Do đó, ∆BAD ᔕ ∆MCD (c.g.c) Suy ra \\[\\widehat {ABD} = \\widehat {MDC}\\] (hai góc tương ứng)"
+    }
+  ]
+}

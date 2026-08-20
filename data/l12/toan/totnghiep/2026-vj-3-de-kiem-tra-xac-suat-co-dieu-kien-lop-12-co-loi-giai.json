@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-3-de-kiem-tra-xac-suat-co-dieu-kien-lop-12-co-loi-giai",
+  "sourceId": "vietjack:3-de-kiem-tra-xac-suat-co-dieu-kien-lop-",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "title": "3.Đề kiểm tra Xác suất có điều kiện lớp 12 (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho hai biến cố \\(A\\) và \\(B\\) là hai biến cố độc lập, với \\(P\\left( A \\right) = 0,2024\\); \\(P\\left( B \\right) = 0,2025\\). Tính \\(P\\left( {A\\left| B \\right.} \\right)\\).",
+      "options": [
+        "A. \\(0,7976\\).",
+        "B. \\(0,7975\\).",
+        "C. \\(0,2025\\).",
+        "D. \\(0,2024\\)."
+      ],
+      "answer": "D",
+      "note": "Chọn D \\(A\\) và \\(B\\) là hai biến cố độc lập nên: \\(P\\left( {A\\left| B \\right.} \\right) = P\\left( A \\right) = 0,2024\\)"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hai biến cố \\(A\\)và \\(B\\), với \\(P\\left( A \\right) = 0,8\\); \\(P\\left( B \\right) = 0,65\\); \\(P\\left( {A \\cap \\overline B } \\right) = 0,55\\). Tính \\(P\\left( {A \\cap B} \\right)\\).",
+      "options": [
+        "A. \\(0,25\\).",
+        "B. \\(0,1\\).",
+        "C. \\(0,15\\).",
+        "D. \\(0,35\\)."
+      ],
+      "answer": "A",
+      "note": "Chọn A Ta có \\(P\\left( {A \\cap \\overline B } \\right) + P\\left( {A \\cap B} \\right) = P\\left( A \\right) \\Rightarrow P\\left( {A \\cap B} \\right) = P\\left( A \\right) - P\\left( {A \\cap \\overline B } \\right) = 0,8 - 0,55 = 0,25\\)"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Gieo hai con xúc sắc cân đối và đồng chất. Tính xác suất để tổng số chấm xuất hiện trên hai con xúc xắc bằng \\(6\\). Biết rằng con xúc xắc thứ nhất xuất hiện mặt \\(4\\)chấm.",
+      "options": [
+        "A. \\[\\frac{2}{6}\\]",
+        "B. \\[\\frac{1}{2}\\]",
+        "C. \\[\\frac{1}{6}\\]",
+        "D. \\[\\frac{5}{6}\\]"
+      ],
+      "answer": "C",
+      "note": "Chọn C Gọi \\(A\\) là biến cố “con xúc xắc thứ nhất xuất hiện mặt \\(4\\)chấm” Gọi \\(B\\) là biến cố “Tổng số chấm xuất hiện trên \\(2\\)con xác xắc bằng \\(6\\)”. Khi con xúc xắc thứ nhất đã xuất hiện mặt \\(4\\)chấm thì lần thứ hai xuất hiện \\(2\\)chấm thì tổng hai lần xuất hiện là \\(6\\)chấm thì \\(P\\left( {B\\left| A \\right.} \\right) = \\frac{1}{6}\\)"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Một lớp có \\(95\\)sinh viên, trong đó có \\(40\\)nam và \\(55\\) nữ. Trong kỳ thi môn Xác suất thống kê có \\(23\\) sinh viên đạt điểm giỏi (trong đó có \\(12\\) nam và \\(11\\) nữ). Gọi ngẫu nhiên một sinh viên trong danh sách lớp. Tìm xác suất gọi được sinh viên đạt điểm giỏi môn Xác suất thông kê, biết rằng sinh viên đó là nữ?",
+      "options": [
+        "A. \\[\\frac{1}{5}\\]",
+        "B. \\[\\frac{{11}}{{23}}\\]",
+        "C. \\[\\frac{{12}}{{23}}\\]",
+        "D. \\[\\frac{{11}}{{19}}\\]"
+      ],
+      "answer": "A",
+      "note": "Gọi \\(A\\) là biến cố “gọi được sinh viên nữ” Gọi \\(B\\) là biến cố “gọi được sinh viên đạt điểm giỏi môn Xác suất thống kê”. Ta đi tính \\(P\\left( {B\\left| A \\right.} \\right)\\) Ta có: \\(n\\left( A \\right) = \\frac{{55}}{{95}}\\); \\(n\\left( {A \\cap B} \\right) = \\frac{{11}}{{95}}\\) Do đó. \\(P\\left( {B\\left| A \\right.} \\right) = \\frac{{P\\left( {A \\cap B} \\right)}}{{P\\left( A \\right)}} = \\frac{{n\\left( {A \\cap B} \\right)}}{{n\\left( A \\right)}} = \\frac{{\\frac{{11}}{{95}}}}{{\\frac{{55}}{{95}}}} = \\frac{{11}}{{55}} = \\frac{1}{5}\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Một mảnh đất chia thành hai khu vườn. Khu A có 150 cây ăn quả, khu B có 200 cây ăn quả. Trong đó, số cây Táo ở khu A và khu B lần lượt là 50 cây và 100 cây. Chọn ngẫu nhiên 1 cây trong mảnh đất. Xác suất cây được chọn là cây Táo , biết rằng cây đó ở khu B, là :",
+      "options": [
+        "A. \\(\\frac{1}{2}\\).",
+        "B. \\(\\frac{1}{4}\\).",
+        "C. \\(\\frac{1}{3}\\).",
+        "D. \\(\\frac{2}{3}\\)."
+      ],
+      "answer": "A",
+      "note": "Chọn A Xét các biến cố : \\(E:\\) “Cây chọn được là cây Táo”, \\(F:\\) “Cây chọn được ở khu B” Ta có: \\(P\\left( {E\\left| F \\right.} \\right) = \\frac{{n\\left( {E \\cap F} \\right)}}{{n\\left( F \\right)}} = \\frac{{100}}{{200}} = \\frac{1}{2}\\). Vậy xác suất cây được chọn là cây Táo, biết rằng cây đó ở Khu B, là \\(\\frac{1}{2}\\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Một hộp chứa 8 bi trắng, 2 bi đỏ. Lần lượt bốc từng bi và không trả lại bi được bốc vào hộp. Giả sử lần đầu tiên bốc được bi trắng. Xác suất lần thứ 2 bốc được bi đỏ là",
+      "options": [
+        "A. \\[\\frac{2}{9}\\].",
+        "B. \\[\\frac{1}{{10}}\\].",
+        "C. \\[\\frac{8}{9}\\].",
+        "D. \\[\\frac{2}{5}\\]."
+      ],
+      "answer": "A",
+      "note": "Chọn A Gọi A là biến cố “lần 1 bốc được bi trắng” Gọi B là biến cố “lần 2 bốc được bi đỏ” Xác suất lần 2 bốc được bi đỏ khi lần 1 đã bốc được bi trắng là \\[P\\left( {B|A} \\right)\\] Ta có: \\[P\\left( A \\right) = \\frac{{8.9}}{{10.9}} = \\frac{4}{5}\\]; \\[P\\left( {A \\cap B} \\right) = \\frac{{8.2}}{{10.9}} = \\frac{8}{{45}}\\] Do đó: \\[P\\left( {B|A} \\right) = \\frac{{P\\left( {A \\cap B} \\right)}}{{P\\left( A \\right)}} = \\frac{{\\frac{8}{{45}}}}{{\\frac{4}{5}}} = \\frac{2}{9}\\]."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Khảo sát về sở thích uống trà sữa của 200 em học sinh theo giới tính và loại trà sữa ta được bảng số liệu sau: Chọn ngẫu nhiên một bạn học sinh. Nếu đã chọn được một bạn nữ thì xác suất để bạn nữ thích uống vị hồng trà là bao nhiêu?",
+      "options": [
+        "A. \\(\\frac{8}{{13}}\\).",
+        "B. \\(\\frac{5}{8}\\).",
+        "C. \\(\\frac{3}{4}\\).",
+        "D. \\(\\frac{2}{5}\\)"
+      ],
+      "answer": "A",
+      "note": "Chọn A Gọi A là biến cố “chọn được bạn nữ” suy ra \\[P\\left( A \\right) = \\frac{{130}}{{200}} = \\frac{{13}}{{20}}\\]. B là biến cố “chọn được bạn thích uống hồng trà”. Khi đó \\[P\\left( {AB} \\right) = \\frac{{80}}{{200}} = \\frac{2}{5}\\]. Nếu đã chọn được một bạn nữ thì xác suất để bạn nữ thích uống vị hồng trà là \\[P\\left( {B|A} \\right) = \\frac{{P\\left( {AB} \\right)}}{{P\\left( A \\right)}} = \\frac{8}{{13}}\\]."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Lớp 12A có 45 học sinh gồm \\(25\\) nam và \\(20\\) nữ. Trong kì kiểm tra cuối kì 2 môn Toán có \\(15\\) học sinh đạt điểm giỏi trong đó có \\(8\\) nam và \\(7\\) nữ. Gọi tên ngẫu nhiên một học sinh trong danh sách lớp. Tìm xác suất để gọi được học sinh đạt điểm giỏi môn Toán biết rằng học sinh đó là nữ .",
+      "options": [
+        "A. \\(\\frac{7}{{20}}\\).",
+        "B. \\(\\frac{4}{5}\\).",
+        "C. \\(\\frac{8}{{25}}\\).",
+        "D. \\(\\frac{2}{3}\\)."
+      ],
+      "answer": "A",
+      "note": "Chọn A Gọi A là biến cố “ Gọi được học sinh đạt điểm giỏi môn Toán”. Gọi B là biến cố “ Gọi được học sinh nữ”. Khi đó xác suất để gọi được học sinh đạt điểm giỏi môn Toán và là học sinh nữ là xác suất của biến cố A với điều kiện B. Ta đi tính \\(P\\left( {A|B} \\right) = \\frac{{P\\left( {A \\cap B} \\right)}}{{P\\left( B \\right)}}\\). Ta có : \\(n\\left( \\Omega \\right) = 45\\); \\(n\\left( B \\right) = 20 \\Rightarrow P\\left( B \\right) = \\frac{{20}}{{45}}\\); \\(n\\left( {A \\cap B} \\right) = 7 \\Rightarrow P\\left( {A \\cap B} \\right) = \\frac{7}{{45}}\\). Suy ra : \\(P\\left( {A|B} \\right) = \\frac{{P\\left( {A \\cap B} \\right)}}{{P\\left( B \\right)}} = \\frac{{\\frac{7}{{45}}}}{{\\frac{{20}}{{45}}}} = \\frac{7}{{20}}\\)."
+    }
+  ]
+}

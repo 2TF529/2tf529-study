@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-3-15-cau-trac-nghiem-tin-hoc-11-canh-dieu-bai-12-thuc-hanh-thiet-",
+  "sourceId": "vietjack:3-15-cau-trac-nghiem-tin-hoc-11-canh-die",
+  "grade": "l11",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.15 câu Trắc nghiệm Tin học 11 Cánh diều Bài 12: Thực hành thiết kế và lập trình theo mô đun ( tiếp theo) có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Khi thực hiện hàm ptDiem, yêu cầu nào dưới đây là chính xác?",
+      "options": [
+        "A. Đếm số điểm thuộc các mức xếp hạng và chỉ trả về giá trị điểm trung bình.",
+        "B. Đếm số điểm thuộc mỗi mức xếp hạng và trả về các giá trị: điểm trung bình, max, min.",
+        "C. Chỉ đếm số điểm thuộc mỗi mức xếp hạng Tốt, Khá, Đạt, Chưa đạt.",
+        "D. Chỉ tìm max và min của dãy điểm số."
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Yêu cầu của hàm ptDiem là đếm số điểm thuộc mỗi mức xếp hạng và tính các giá trị tổng quát như điểm trung bình, max và min."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Để thực hiện các tính toán trong hàm ptDiem, phương pháp nào là tối ưu hơn?",
+      "options": [
+        "A. Duyệt dãy điểm nhiều lần, mỗi lần làm một việc.",
+        "B. Duyệt dãy điểm một lần, đồng thời làm nhiều việc.",
+        "C. Chỉ duyệt để tính max và min.",
+        "D. Không cần duyệt dãy điểm."
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Duyệt dãy điểm một lần và làm đồng thời nhiều việc sẽ giúp chương trình chạy nhanh và hiệu quả hơn."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Hàm ptHocSinh cần thực hiện chức năng nào trong số sau đây?",
+      "options": [
+        "A. Đếm số điểm thuộc mỗi mức xếp hạng.",
+        "B. Gọi hàm ptDiem và lưu kết quả vào tệp \"phantich_theoHS.txt\".",
+        "C. Tính tổng điểm trung bình của lớp.",
+        "D. Xuất điểm cao nhất và thấp nhất ra màn hình."
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Hàm ptHocSinh có nhiệm vụ chính là gọi hàm ptDiem và lưu kết quả vào tệp \"phantich_theoHS.txt\"."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Trong hàm ptHocSinh, điều kiện nào dưới đây sẽ ghi tên học sinh vào tệp “xetKhenThuong.txt”?",
+      "options": [
+        "A. Khi điểm trung bình của học sinh đạt mức \"Tốt\".",
+        "B. Khi số lượng điểm đạt mức \"Khá\" nhiều hơn 3.",
+        "C. Khi giá trị chamDiem của học sinh lớn hơn 0.",
+        "D. Khi điểm của học sinh có điểm \"Đạt\" ít nhất một lần."
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Điều kiện để ghi tên học sinh vào tệp \"xetKhenThuong.txt\" là khi chamDiem lớn hơn 0."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Trong hàm ptMonHoc, kết quả phân tích cần được ghi vào tệp nào?",
+      "options": [
+        "A. \"phantich_theoHS.txt\"",
+        "B. \"xetKhenThuong.txt\"",
+        "C. \"phantich_theoMon.txt\"",
+        "D. \"phanloai_diem.txt\""
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Kết quả phân tích của từng môn học sẽ được ghi vào tệp \"phantich_theoMon.txt\"."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Để định dạng số thực với 2 chữ số phần lẻ, hàm nào dưới đây được đề xuất?",
+      "options": [
+        "A. str()",
+        "B. int()",
+        "C. round()",
+        "D. format()"
+      ],
+      "answer": "D",
+      "note": "Đáp án: D Giải thích: Hàm format() giúp định dạng số thực với số chữ số thập phân mong muốn, chẳng hạn {:.2f} để hiển thị 2 chữ số phần lẻ."
+    }
+  ]
+}

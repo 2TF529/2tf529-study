@@ -1,0 +1,42 @@
+/* Cloudflare Workers / Pages static asset cache headers */
+/css/*
+  Cache-Control: public, max-age=604800, stale-while-revalidate=86400
+
+/js/*
+  Cache-Control: public, max-age=604800, stale-while-revalidate=86400
+
+/sw.js
+  Cache-Control: public, max-age=0, must-revalidate
+
+/data/stats.json
+  Cache-Control: public, max-age=300, stale-while-revalidate=86400
+
+/data/id-map.json
+  Cache-Control: public, max-age=300, stale-while-revalidate=86400
+
+/data/index.json
+  Cache-Control: public, max-age=300, stale-while-revalidate=86400
+
+/data/explore-index.json
+  Cache-Control: public, max-age=300, stale-while-revalidate=86400
+
+/data/topic-index.json
+  Cache-Control: public, max-age=300, stale-while-revalidate=86400
+
+/data/taxonomy.json
+  Cache-Control: public, max-age=3600, stale-while-revalidate=86400
+
+/data/*
+  Cache-Control: public, max-age=86400, stale-while-revalidate=604800
+
+/*.html
+  Cache-Control: public, max-age=0, must-revalidate
+
+/*
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: DENY
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=()
+  Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+  Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob: https:; frame-src https://www.desmos.com; connect-src 'self' https://translate.googleapis.com; font-src 'self' data:; frame-ancestors 'none'; base-uri 'self'; form-action 'self'
+  X-DNS-Prefetch-Control: on

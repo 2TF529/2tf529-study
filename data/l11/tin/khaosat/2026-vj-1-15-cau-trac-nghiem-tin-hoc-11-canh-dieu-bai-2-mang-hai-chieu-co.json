@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-11-canh-dieu-bai-2-mang-hai-chieu-co",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-11-canh-die",
+  "grade": "l11",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 11 Cánh diều Bài 2: Mảng hai chiều có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Mảng hai chiều có thể được mô tả như là một:",
+      "options": [
+        "A. Mảng một chiều",
+        "B. Mảng các phần tử khác nhau",
+        "C. Bảng hình chữ nhật gồm các phần tử sắp xếp thành hàng và cột",
+        "D. Bảng hình tròn gồm các phần tử sắp xếp ngẫu nhiên"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Mảng hai chiều được gọi là ma trận và là một bảng hình chữ nhật với các phần tử sắp xếp thành hàng và cột."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Để truy cập một phần tử trong mảng hai chiều, cần phải biết:",
+      "options": [
+        "A. Chỉ số hàng và cột của phần tử đó",
+        "B. Chỉ số hàng của phần tử đó",
+        "C. Chỉ số cột của phần tử đó",
+        "D. Kích thước của mảng"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Để xác định vị trí của một phần tử trong mảng hai chiều, cần biết chỉ số hàng và cột của nó."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trong Python, kiểu dữ liệu nào có thể được sử dụng để tạo mảng hai chiều?",
+      "options": [
+        "A. Tuple",
+        "B. Dictionary",
+        "C. List",
+        "D. Set"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Kiểu list trong Python có thể sử dụng để tạo mảng hai chiều bằng cách lồng danh sách vào nhau."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Để khai báo một mảng hai chiều gồm 3 hàng và 4 cột chứa số nguyên trong C++, cú pháp đúng là:",
+      "options": [
+        "A. int array[4][3];",
+        "B. int array[3][4];",
+        "C. int array[4, 3];",
+        "D. int array(3, 4);"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Để khai báo mảng hai chiều với 3 hàng và 4 cột, cần viết là int array[3][4]; trong C++."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cấu trúc bộ nhớ của mảng hai chiều được tổ chức:",
+      "options": [
+        "A. Theo hàng và ngẫu nhiên trong bộ nhớ",
+        "B. Theo cột và không liên tục",
+        "C. Liên tục như một mảng một chiều",
+        "D. Ngẫu nhiên không có trật tự"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Mảng hai chiều được lưu trữ trong bộ nhớ theo cách liên tục như một mảng một chiều, sắp xếp các hàng nối tiếp nhau."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Để truy cập phần tử ở hàng thứ hai, cột thứ ba trong mảng matrix hai chiều, cú pháp nào là đúng trong Python?",
+      "options": [
+        "A. matrix(2,3)",
+        "B. matrix[1][2]",
+        "C. matrix[2][3]",
+        "D. matrix(1,2)"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Python sử dụng cú pháp matrix[1][2] vì chỉ số hàng và cột bắt đầu từ 0, nên hàng thứ hai là 1 và cột thứ ba là 2."
+    }
+  ]
+}

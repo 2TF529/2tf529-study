@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Thi Thử Trực Tuyến</title>
+<script>(function(){var d=document.documentElement;d.setAttribute("data-theme", localStorage.getItem("theme") || (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light"));d.setAttribute("data-palette", localStorage.getItem("palette") || "9");})();</script>
+<link rel="stylesheet" href="css/style.css?v=20260813-1">
+</head>
+<body>
+
+<header class="site-header">
+  <h1>WEBSITE THI THỬ</h1>
+  <div class="badge">2TF SCHOOL <br>2TF 529</div>
+</header>
+<nav class="top-nav">
+  <button class="hamburger" id="hamburger-btn" aria-label="Menu">☰</button>
+  <div class="nav-links">
+    <a href="index.html" class="nav-link active">Trang chủ</a>
+    <a href="explore.html" class="nav-link">Tìm đề thi</a>
+    <a href="on-tap.html" class="nav-link">Ôn theo dạng</a>
+    <a href="lich-su.html" class="nav-link">Lịch sử</a>
+    <a href="ung-ho.html" class="nav-link">Ủng hộ</a>
+  </div>
+  <div class="nav-controls">
+    <select id="palette-select" class="palette-select" aria-label="Chọn tông màu">
+      <option value="1">🔵 Xanh dương - be ấm</option>
+      <option value="2">🟢 Xanh lá - cam đất</option>
+      <option value="3">🟣 Tím - hồng pastel</option>
+      <option value="4">🔷 Navy dịu + màu môn học</option>  
+      <option value="5">🌊 Đại dương cyan</option>
+      <option value="6">🌸 Hoa anh đào</option>
+      <option value="7">🔥 Lửa ấm</option>
+      <option value="8">🌿 Rừng xanh</option>
+      <option value="9">🖤 Monochrome</option>
+      <option value="10">☕ Cà phê vintage</option>
+    </select>
+    <button class="theme-toggle" id="theme-toggle" aria-label="Chuyển giao diện">🌙</button>
+  </div>
+</nav>
+
+<div class="container">
+  <div class="hero-card">
+    <span class="hero-eyebrow">Luyện thi · Ôn tập · Miễn phí</span>
+    <h2>Chọn kỳ thi bạn muốn luyện tập</h2>
+    <p class="lead">Làm quen với giao diện phòng thi trên máy tính trước ngày thi thật.</p>
+    <div class="choice-grid">
+      <a class="choice-btn" href="explore.html?grade=l12&amp;type=totnghiep">
+        <span class="icon">🎓</span>
+        THI TỐT NGHIỆP THPT
+        <span class="sub">Giống giao diện Bộ Giáo dục</span>
+      </a>
+      <a class="choice-btn" href="explore.html?grade=l11">
+        <span class="icon">📘</span>
+        ĐỀ KHỐI 11
+        <span class="sub">Xem nhanh các đề dành cho lớp 11</span>
+      </a>
+      <a class="choice-btn" href="explore.html?grade=l10">
+        <span class="icon">📗</span>
+        ĐỀ KHỐI 10
+        <span class="sub">Xem nhanh các đề dành cho lớp 10</span>
+      </a>
+      <a class="choice-btn" href="explore.html?grade=l9&amp;type=tuyensinh10">
+        <span class="icon">✏️</span>
+        THI TUYỂN SINH 9 LÊN 10
+        <span class="sub">Luyện đề vào lớp 10</span>
+      </a>
+      <a class="choice-btn" href="explore.html?type=hsg" style="grid-column:1/-1;">
+        <span class="icon">🏅</span>
+        HỌC SINH GIỎI
+        <span class="sub">Đề thi chọn học sinh giỏi các cấp</span>
+      </a>
+      <a class="choice-btn" href="explore.html?subject=tong-hop" style="grid-column:1/-1;">
+        <span class="icon">🧠</span>
+        ĐÁNH GIÁ NĂNG LỰC / TƯ DUY
+        <span class="sub">TSA · V-ACT · V-SAT · HSA · BCA · QĐA</span>
+      </a>
+      <a class="choice-btn" href="explore.html?group=ngoai-ngu" style="grid-column:1/-1;">
+        <span class="icon">🌐</span>
+        ÔN THI NGOẠI NGỮ
+        <span class="sub">IELTS · TOEIC · HSK · TOPIK · JLPT</span>
+      </a>
+    </div>
+    <a href="explore.html" class="hero-more">Xem tất cả đề thi (mọi khối, mọi môn) →</a>
+    <div class="stat-strip" id="stat-strip">Đang tải số liệu hệ thống...</div>
+  </div>
+
+  <div class="ontap-banner">
+    <div>
+      <span class="hero-eyebrow" style="margin-bottom:8px;">Chế độ luyện tập</span>
+      <h3>Ôn theo dạng bài + chương</h3>
+      <p>Đang tiếp tục phát triển</p>
+    </div>
+    <a class="btn" href="on-tap.html">Bắt đầu ôn tập →</a>
+  </div>
+
+  <div class="community-card">
+    <div class="community-notice">
+      <span class="icn">📣</span>
+      <div><b>Thông báo:</b> 2 nhóm dưới đây là nhóm chia sẻ <b>tài liệu và khóa học FREE của nhóm </b> — nhóm liên cấp THCS-THPT-ĐẠI HỌC - Mọi người cần gì cứ vào hỏi, có mọi người hỗ trợ.</div>
+    </div>
+    <div class="community-links">
+      <a class="community-link telegram" href="https://t.me/ttfshool" target="_blank" rel="noopener">
+        <span class="icon">✈️</span>
+        <span>
+          <b>Nhóm Telegram</b>
+          <small>t.me/ttfshool</small>
+        </span>
+      </a>
+      <a class="community-link discord" href="https://discord.gg/WS4VdsYxtQ" target="_blank" rel="noopener">
+        <span class="icon">🎮</span>
+        <span>
+          <b>Nhóm Discord</b>
+          <small>discord.gg/WS4VdsYxtQ</small>
+        </span>
+      </a>
+    </div>
+  </div>
+</div>
+
+<p class="footer-note">Web đang trong quá trình hoàn thiện, nếu bạn thấy đề sai, thiếu đáp án hoặc có ý tưởng cải thiện, đừng ngại nhắn Ad qua Telegram/Discord — Cảm ơn mọi người đã ủng hộ nhóm! 🙏</p>
+
+<script src="js/theme.js"></script>
+<script src="js/home.js?v=20260819-1"></script>
+<script src="js/calculator.js?v=20260819-1"></script>
+<script src="js/whiteboard.js?v=20260819-1"></script>
+<script src="js/translate.js?v=20260819-1"></script>
+<script src="js/security.js?v=20260821-1"></script>
+<script src="js/shield.js?v=20260821-1"></script>
+<script src="js/sw-register.js?v=20260819-1"></script>
+</body>
+</html>

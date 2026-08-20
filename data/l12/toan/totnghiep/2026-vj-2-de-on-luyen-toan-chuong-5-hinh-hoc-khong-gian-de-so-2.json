@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-2-de-on-luyen-toan-chuong-5-hinh-hoc-khong-gian-de-so-2",
+  "sourceId": "vietjack:2-de-on-luyen-toan-chuong-5-hinh-hoc-kho",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "title": "2.Đề ôn luyện Toán Chương 5. Hình học không gian (đề số 2)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho hình hộp chữ nhật \\(ABCD.A\\prime B\\prime C\\prime D\\prime \\) có \\(AB = a,{\\rm{ }}AD = \\sqrt 3 a,{\\rm{ }}AA\\prime = 2\\sqrt 3 a\\) (tham khảo hình vẽ). Khoảng cách giữa hai mặt phẳng \\(\\left( {ABCD} \\right)\\) và \\(\\left( {A'B'C'D'} \\right)\\) bằng",
+      "options": [
+        "A. \\(a\\) .",
+        "B. \\(2a\\sqrt 3 \\) .",
+        "C. \\(3a\\) .",
+        "D. \\(a\\sqrt 3 \\) ."
+      ],
+      "answer": "B",
+      "note": "Vì \\(\\left( {ABCD} \\right){\\rm{//}}\\left( {A'B'C'D'} \\right)\\) nên \\[d\\left( {\\left( {ABCD} \\right),\\left( {A'B'C'D'} \\right)} \\right) = d\\left( {A,\\left( {A'B'C'D'} \\right)} \\right) = AA' = 2a\\sqrt 3 \\] . Chọn B ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hình chóp \\({\\rm{S}}.ABCD\\) có đáy \\(ABCD\\) là hình chữ nhật tâm \\(O\\) , \\(SO \\bot \\left( {ABCD} \\right)\\) . Gọi \\(H,\\,K\\) lần lượt là trung điểm của \\(BC,\\,AD\\) . Khẳng định nào sau đây đúng?",
+      "options": [
+        "A. \\(BC \\bot \\left( {SAB} \\right)\\) .",
+        "B. \\(BC \\bot \\left( {SHK} \\right)\\) .",
+        "C. \\(HK \\bot \\left( {SCD} \\right)\\) .",
+        "D. \\(HK \\bot \\left( {SBD} \\right)\\) ."
+      ],
+      "answer": "B",
+      "note": "Vì \\(H,K\\) lần lượt là trung điểm của \\[BC,AD \\Rightarrow HK{\\rm{//}}AB \\Rightarrow BC \\bot HK\\] . Lại có \\(SO \\bot \\left( {ABCD} \\right) \\Rightarrow BC \\bot SO\\) . Do đó \\(BC \\bot \\left( {SHK} \\right)\\) . Chọn B ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho hình chóp \\(S.ABC\\) có đáy \\(ABC\\) là tam giác vuông tại \\(B.\\) Cạnh bên \\(SA\\) vuông góc với mặt phẳng đáy. Biết \\(SA = AB = 2a\\) , \\(BC = 3a\\) . Tính thể tích của \\(S.ABC\\) là",
+      "options": [
+        "A. \\[3{a^3}\\] .",
+        "B. \\[4{a^3}\\] .",
+        "C. \\[2{a^3}\\] .",
+        "D. \\[{a^3}\\] ."
+      ],
+      "answer": "C",
+      "note": "Ta có \\(V = \\frac{1}{3}{S_{ABC}} \\cdot SA = \\frac{1}{3} \\cdot \\frac{1}{2}AB \\cdot BC \\cdot SA = 2{a^3}\\) . Chọn C ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hình chóp \\(S.ABCD\\) có đáy là hình vuông tâm \\(O\\) cạnh là \\[a\\] , \\(SA\\) vuông góc với đáy \\(ABCD\\) và \\[SB = 2a\\] . K hoảng cách từ điểm \\(S\\) đến đường thẳng \\(AB\\) bằng",
+      "options": [
+        "A. \\(a\\sqrt 2 \\) .",
+        "B. \\(a\\sqrt 3 \\) .",
+        "C. \\(a\\) .",
+        "D. \\(2a\\) ."
+      ],
+      "answer": "B",
+      "note": "Vì \\(SA \\bot \\left( {ABCD} \\right) \\Rightarrow SA \\bot AB \\Rightarrow d\\left( {S,AB} \\right) = SA\\) . Tam giác \\(SAB\\) vuông tại \\(A\\) nên \\(SA = \\sqrt {S{B^2} - A{B^2}} = \\sqrt {{{\\left( {2a} \\right)}^2} - {a^2}} = a\\sqrt 3 \\) . Vậy \\(d\\left( {S,AB} \\right) = SA = a\\sqrt 3 \\) . Chọn B ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hình lập phương \\(ABCD.A'B'C'D'\\) . Góc giữa hai đường thẳng \\(AB\\) và \\(A'C'\\) bằng",
+      "options": [
+        "A. \\(30^\\circ \\) .",
+        "B. \\(90^\\circ \\) .",
+        "C. \\(60^\\circ \\) .",
+        "D. \\(45^\\circ \\) ."
+      ],
+      "answer": "D",
+      "note": "Do \\(AB{\\rm{//}}A'B'\\) nên góc giữa hai đường thẳng \\(AB\\) và \\(A'C'\\) bằng góc giữa hai đường thẳn g \\(A'B'\\) và \\(A'C'\\) bằng \\(\\widehat {C'A'B'} = 45^\\circ \\) . Chọn D ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho hình lăng trụ đứng \\[ABC.A'B'C'\\] có đáy \\[ABC\\] là tam giác vuông tại \\[A\\] . Góc giữa đường thẳng \\[AB\\] và mặt phẳng \\[\\left( {ACC'A'} \\right)\\] bằng",
+      "options": [
+        "A. \\[60^\\circ \\] .",
+        "B. \\[90^\\circ \\] .",
+        "C. \\[45^\\circ \\] .",
+        "D. \\[30^\\circ \\] ."
+      ],
+      "answer": "B",
+      "note": "Ta có \\[\\left\\{ \\begin{array}{l}AB \\bot AC\\\\AA' \\bot \\left( {ABC} \\right) \\Rightarrow AB \\bot AA'\\end{array} \\right. \\Rightarrow AB \\bot \\left( {ACC'A'} \\right)\\] . Vậy g óc giữa đường thẳng \\[AB\\] và mặt phẳng \\[\\left( {ACC'A'} \\right)\\] bằng \\[90^\\circ \\] . Chọn B ."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Cho hình chóp cụt đều có diện tích hai đáy lần lượt bằng \\(4\\sqrt 3 \\) và \\(\\sqrt 3 \\) , chiều cao bằng 4. Thể tích khối chóp cụt đều đã cho bằng",
+      "options": [
+        "A. \\(V = \\frac{{28\\sqrt 3 }}{3}\\) .",
+        "B. \\(V = \\frac{{24\\sqrt 3 }}{3}\\) .",
+        "C. \\(V = \\frac{{28\\sqrt 3 }}{9}\\) .",
+        "D. \\(V = 28\\sqrt 3 \\) ."
+      ],
+      "answer": "A",
+      "note": "Ta có \\[V = \\frac{1}{3}\\left( {S + S' + \\sqrt {S \\cdot S'} } \\right) \\cdot h = \\frac{1}{3}\\left( {4\\sqrt 3 + \\sqrt 3 + \\sqrt {4\\sqrt 3 \\cdot \\sqrt 3 } } \\right) \\cdot 4 = \\frac{{28\\sqrt 3 }}{3}\\] . Chọn A ."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Khối chóp \\(S.ABC\\) có diện tích đáy \\(ABC\\) bằng 5. Thể tích khối chóp \\(S.ABC\\) bằng 15. Khoảng cách từ \\[S\\] đến mặt phẳng \\[\\left( {ABC} \\right)\\] là",
+      "options": [
+        "A. 60.",
+        "B. 16.",
+        "C. 4.",
+        "D. 9"
+      ],
+      "answer": "D",
+      "note": "Ta có \\[V = \\frac{1}{3}S \\cdot d\\left( {S,\\left( {ABC} \\right)} \\right) \\Rightarrow d\\left( {S,\\left( {ABC} \\right)} \\right) = \\frac{{3V}}{S} = \\frac{{3 \\cdot 15}}{5} = 9\\] . Chọn D ."
+    }
+  ]
+}

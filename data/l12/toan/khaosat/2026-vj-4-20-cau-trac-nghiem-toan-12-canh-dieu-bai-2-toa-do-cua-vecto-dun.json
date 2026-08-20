@@ -1,0 +1,104 @@
+{
+  "id": "2026-vj-4-20-cau-trac-nghiem-toan-12-canh-dieu-bai-2-toa-do-cua-vecto-dun",
+  "sourceId": "vietjack:4-20-cau-trac-nghiem-toan-12-canh-dieu-b",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "4.20 câu trắc nghiệm Toán 12 Cánh diều Bài 2. Tọa độ của vectơ (Đúng sai - Trả lời ngắn) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Trong không gian Oxyz, cho \\(\\overrightarrow {AO} = \\overrightarrow i - 2\\overrightarrow j + 3\\overrightarrow k \\). Tọa độ của điểm A là",
+      "options": [
+        "A. (−1; 2; −3).",
+        "B. (2; −3; −1).",
+        "C. (−3; 2; −1).",
+        "D. (2; −1; −3)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng: A \\(\\overrightarrow {AO} = \\overrightarrow i - 2\\overrightarrow j + 3\\overrightarrow k \\)\\( \\Rightarrow \\overrightarrow {OA} = - \\overrightarrow i + 2\\overrightarrow j - 3\\overrightarrow k \\)  A(−1; 2; −3)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Trong không gian Oxyz, điểm nào sau đây thuộc trục Oy?",
+      "options": [
+        "A. M (0; 5; 0).",
+        "B. N (4; 0; 0).",
+        "C. P (0; 0; 6).",
+        "D. Q (4; 5; 0)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng: A M(0; 5; 0)  Oy."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trong không gian Oxyz, điểm nào sau đây nằm trên mặt phẳng tọa độ (Oyz).",
+      "options": [
+        "A. N (0; 4; −1).",
+        "B. P (−2; 0; 3).",
+        "C. M (3; 4; 0).",
+        "D. Q (2; 0; 0)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng: A N(0; 4; −1)  (Oyz)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Trong không gian với hệ tọa độ Oxyz, cho hình lập phương ABCD.A'B'C'D' có độ dài cạnh bằng 1 như hình vẽ. Tọa độ \\(\\overrightarrow {AC} \\) là:",
+      "options": [
+        "A. (2; 0; 0).",
+        "B. (1; 1; 0).",
+        "C. (0; 0; 4).",
+        "D. (0; 1; 4)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng: B Ta có A(0; 0; 0), C(1; 1; 0). Suy ra \\(\\overrightarrow {AC} = \\left( {1;1;0} \\right)\\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong không gian Oxyz, cho tam giác ABC có các điểm A(1; 0; 3), B(2; 3; −4), C(−3; 1; 2). Tìm tọa độ điểm D sao cho tứ giác ABCD là hình bình hành.",
+      "options": [
+        "A. (−4; −2; 9).",
+        "B. (4; 2; 9).",
+        "C. (−2; 4; −5).",
+        "D. (6; 2; −3)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng: A Gọi D(x; y; z). Ta có \\(\\overrightarrow {CD} = \\left( {x + 3;y - 1;z - 2} \\right)\\) và \\(\\overrightarrow {BA} = \\left( { - 1; - 3;7} \\right)\\). Tứ giác ABCD là hình bình hành khi và chỉ khi \\(\\overrightarrow {BA} = \\overrightarrow {CD} \\)\\( \\Leftrightarrow \\left\\{ \\begin{array}{l}x + 3 = - 1\\\\y - 1 = - 3\\\\z - 2 = 7\\end{array} \\right.\\)\\( \\Leftrightarrow \\left\\{ \\begin{array}{l}x = - 4\\\\y = - 2\\\\z = 9\\end{array} \\right.\\). Suy ra \\(C\\left( { - 4; - 2;9} \\right)\\)."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Trong không gian với hệ trục tọa độ Oxyz, cho hình hộp chữ nhật ABCD.A'B'C'D' có điểm A trùng với gốc tọa độ O, điểm B nằm trên tia Ox, điểm D nằm trên tia Oy, điểm A' nằm trên tia Oz. Biết AB = 2; AD = 4; AA' = 3. Gọi tọa độ của C' là (a; b; c). Khi đó biểu thức a + c có giá trị là",
+      "options": [
+        "A. −4.",
+        "B. 9.",
+        "C. 3.",
+        "D. 6."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng: C Theo giả thiết có \\(\\overrightarrow {AB} = 2\\overrightarrow i ;\\overrightarrow {AD} = 4\\overrightarrow j ;\\overrightarrow {AA'} = 3\\overrightarrow k \\). Áp dụng quy tắc hình hộp ta có: \\(\\overrightarrow {AC'} = \\overrightarrow {AB} + \\overrightarrow {AD} + \\overrightarrow {AA'} = 2\\overrightarrow i + 4\\overrightarrow j + 3\\overrightarrow k \\). Suy ra C'(2; 4; 3). Do đó a + b – c = 2 + 4 – 3 = 3."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Trong không gian với hệ tọa độ Oxyz cho hình hộp ABCD.A'B'C'D'. Biết A(2; 4; 0), B(4; 0; 0), C(−1; 4; −7) và D'(6; 8; 10). Tọa độ điểm B' là",
+      "options": [
+        "A. B'(8; 4; 10).",
+        "B. B'(6; 12; 0).",
+        "C. B'(10; 8; 6).",
+        "D. B'(13; 0; 17)."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng: D Gọi D(x; y; z). Có \\(\\overrightarrow {AB} = \\left( {2; - 4;0} \\right),\\overrightarrow {DC} = \\left( { - x - 1;4 - y; - z - 7} \\right)\\). Vì ABCD là hình bình hành nên \\(\\overrightarrow {AB} = \\overrightarrow {DC} \\)\\( \\Leftrightarrow \\left\\{ \\begin{array}{l} - x - 1 = 2\\\\4 - y = - 4\\\\ - z - 7 = 0\\end{array} \\right.\\)\\( \\Leftrightarrow \\left\\{ \\begin{array}{l}x = - 3\\\\y = 8\\\\z = - 7\\end{array} \\right.\\) D(−3; 8; −7). Gọi B'(x; y; z). Có \\(\\overrightarrow {BB'} = \\left( {x - 4;y;z} \\right),\\overrightarrow {DD'} = \\left( {9;0;17} \\right)\\). Vì \\(\\overrightarrow {BB'} = \\overrightarrow {DD'} \\) nên \\(\\left\\{ \\begin{array}{l}x - 4 = 9\\\\y = 0\\\\z = 17\\end{array} \\right.\\)\\( \\Leftrightarrow \\left\\{ \\begin{array}{l}x = 13\\\\y = 0\\\\z = 17\\end{array} \\right.\\) B'(13; 0; 17)."
+    }
+  ]
+}

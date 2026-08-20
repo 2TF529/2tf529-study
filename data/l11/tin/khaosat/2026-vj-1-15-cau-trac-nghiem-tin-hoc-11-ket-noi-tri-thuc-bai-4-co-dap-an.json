@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-11-ket-noi-tri-thuc-bai-4-co-dap-an",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-11-ket-noi-",
+  "grade": "l11",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 11 Kết nối tri thức Bài 4 có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Thành phần nào sau đây là bộ phận chính của CPU?",
+      "options": [
+        "A. Bộ số học và lôgic (ALU)",
+        "B. Bộ điều khiển (Control Unit)",
+        "C. Bộ nhớ đệm (Cache)",
+        "D. Cả A và B đều đúng"
+      ],
+      "answer": "D",
+      "note": "Đáp án: D Giải thích: CPU được cấu tạo từ hai bộ phận chính là Bộ số học và lôgic (ALU) và Bộ điều khiển (Control Unit). Bộ nhớ đệm là một phần bổ sung chứ không phải là bộ phận chính."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Bộ nhớ nào sau đây có khả năng lưu trữ dữ liệu tạm thời và mất dữ liệu khi tắt máy?",
+      "options": [
+        "A. ROM",
+        "B. RAM",
+        "C. SSD",
+        "D. HDD"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: RAM (Random Access Memory) là bộ nhớ có thể ghi dữ liệu tạm thời trong khi chạy các chương trình, nhưng không giữ được dữ liệu lâu dài khi tắt máy."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Thành phần nào trong CPU chịu trách nhiệm thực hiện các phép tính số học và lôgic?",
+      "options": [
+        "A. Bộ điều khiển",
+        "B. Bộ nhớ đệm",
+        "C. Bộ số học và lôgic (ALU)",
+        "D. Thanh ghi"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Bộ số học và lôgic (ALU) là thành phần của CPU chuyên thực hiện các phép tính số học và lôgic."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Loại bộ nhớ nào chỉ có thể đọc và không thể ghi hay xóa dữ liệu?",
+      "options": [
+        "A. RAM",
+        "B. ROM",
+        "C. SSD",
+        "D. HDD"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: ROM (Read Only Memory) là bộ nhớ chỉ có thể đọc và không thể ghi hoặc xóa, và thường dùng để lưu trữ các dữ liệu hệ thống cố định."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Bộ xử lý đa lõi (multi-core) có ưu điểm gì so với bộ xử lý đơn lõi (single-core)?",
+      "options": [
+        "A. Tăng dung lượng bộ nhớ",
+        "B. Thực hiện song song nhiều công việc",
+        "C. Tiết kiệm điện năng",
+        "D. Giảm kích thước bộ nhớ đệm"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Bộ xử lý đa lõi cho phép máy tính thực hiện song song nhiều công việc, tăng hiệu suất xử lý."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Tốc độ của CPU thường được đánh giá bằng thông số nào sau đây?",
+      "options": [
+        "A. Dung lượng bộ nhớ trong",
+        "B. Tần số xung nhịp",
+        "C. Dung lượng ổ cứng",
+        "D. Thời gian truy cập bộ nhớ"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Tốc độ của CPU thường được đo bằng tần số xung nhịp, đơn vị là GHz, thể hiện số xung nhịp trong một giây"
+    }
+  ]
+}

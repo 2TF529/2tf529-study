@@ -1,0 +1,78 @@
+{
+  "id": "2026-vj-6-10-bai-tap-chung-minh-hai-vecto-hay-hai-duong-thang-vuong-goc-c",
+  "sourceId": "vietjack:6-10-bai-tap-chung-minh-hai-vecto-hay-ha",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "6.10 Bài tập Chứng minh hai vectơ hay hai đường thẳng vuông góc (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho tam giác ABC có B A → . B C → = 0 → . Khẳng định nào sau đây là đúng ?",
+      "options": [
+        "A. Tam giác ABC vuông tại A;",
+        "B. Tam giác ABC vuông tại B;",
+        "C. Tam giác ABC vuông tại C;",
+        "D. Tam giác ABC là tam giác cân."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải: Đáp án đúng là: B. Ta có: B A → . B C → = 0 → ⇔ B A → ⊥ B C → ⇔ B A ⊥ B C Do đó, tam giác ABC vuông tại B."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hình vuông ABCD. Khẳng định nào sau đây là đúng ?",
+      "options": [
+        "A. A B → . A C → = 0",
+        "B. A B → . C D → = 0",
+        "C. A B → . A D → = 0",
+        "D. A B → . B D → = 0"
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải: Đáp án đúng là: C. Ta có: Do ABCD là hình vuông nên A B ⊥ A D ⇔ A B → ⊥ A D → ⇔ A B → . A D → = 0 ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho hình thoi ABCD tâm O. Khẳng định nào sau đây là sai ?",
+      "options": [
+        "A. A B → . A C → = 0",
+        "B. A C → . B D → = 0",
+        "C. A O → . D O → = 0",
+        "D. O B → . O C → = 0"
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A. Do ABCD là hình thoi nên AB không vuông góc với AC nên A B → . A C → ≠ 0 . Hai đường chéo AC và BD của hình thoi vuông góc với nhau tại O nên A C → . B D → = 0 ; A O → . D O → = 0 ; O B → . O C → = 0 ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho đường tròn (O; R) có hai dây cung AA’, BB’ vuông góc với nhau tại S, gọi M là trung điểm của AB. Hai đường thẳng nào sau đây vuông góc với nhau ?",
+      "options": [
+        "A. SM và AB;",
+        "B. SM và SA;",
+        "C. SM và A’B’;",
+        "D. SM và AB’."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải: Đáp án đúng là: C. Ta có: S M → . A ' B ' → = 1 2 S A → + S B → S B ' → − S A ' → (áp dụng quy tắc trung điểm và quy tắc trừ) = 1 2 S A → . S B ' → − S A → . S A → ' + S B → . S B ' → − S B → . S A → ' Lại có: AA’ vuông góc với BB’ tại S nên ta có: S A → . S B ' → = 0 SB → . SA ' → = 0 S A → . S A ' → = S B → . S B ' → Từ đó suy ta S M → . A ' B ' → = 0 Vậy SM vuông góc với A’B’."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hình thang ABCD với hai đáy là AB, CD có: A B → − A D → . A C → = 0 . Khẳng định nào sau đây là đúng ?",
+      "options": [
+        "A. BD vuông góc với AC;",
+        "B. AB vuông góc với AC;",
+        "C. AB vuông góc với DC;",
+        "D. BD vuông góc với DC."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A. Ta có: A B → − A D → . A C → = 0 ⇔ D B → . A C → = 0 → ⇔ D B → ⊥ A C → Vậy BD vuông góc với AC."
+    }
+  ]
+}

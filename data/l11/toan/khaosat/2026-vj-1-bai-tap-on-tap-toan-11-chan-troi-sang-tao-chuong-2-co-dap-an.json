@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-1-bai-tap-on-tap-toan-11-chan-troi-sang-tao-chuong-2-co-dap-an",
+  "sourceId": "vietjack:1-bai-tap-on-tap-toan-11-chan-troi-sang-",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.Bài tập ôn tập Toán 11 Chân trời sáng tạo Chương 2 có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Dãy số nào dưới đây là dãy số hữu hạn?",
+      "options": [
+        "A. Dãy các số nguyên tố lớn hơn 10.",
+        "B. Dãy các số tự nhiên chẵn nhỏ hơn 50.",
+        "C. Dãy các số tự nhiên chia hết cho 5.",
+        "D. Dãy các số chính phương."
+      ],
+      "answer": "B",
+      "note": "Dãy các số tự nhiên chẵn nhỏ hơn 50 là dãy số hữu hạn. Chọn B."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Trong các dãy số \\({u_n}\\) cho bởi số hạng tổng quát \\({u_n}\\) sau, dãy số nào bị chặn?",
+      "options": [
+        "A. \\({u_n} = {n^2}\\).",
+        "B. \\({u_n} = {2^n}\\).",
+        "C. \\({u_n} = \\frac{1}{{n + 1}}\\).",
+        "D. \\({u_n} = \\sqrt {n + 1} \\)."
+      ],
+      "answer": "C",
+      "note": "Ta có \\(0 < \\frac{1}{{n + 1}} < 1\\) nên \\({u_n} = \\frac{1}{{n + 1}}\\)là dãy số bị chặn. Chọn C."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho các dãy số sau, dãy số nào là dãy số vô hạn?",
+      "options": [
+        "A. \\(0;2;4;6;8;10\\).",
+        "B. \\(1;\\frac{1}{2};\\frac{1}{4};\\frac{1}{8};...;\\frac{1}{{{2^n}}};...\\).",
+        "C. \\(1;4;9;16;25\\).",
+        "D. \\(1;1;1;1;1\\)."
+      ],
+      "answer": "B",
+      "note": "Dãy số \\(1;\\frac{1}{2};\\frac{1}{4};\\frac{1}{8};...;\\frac{1}{{{2^n}}};...\\) là dãy số vô hạn. Chọn B."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho dãy số \\(\\left( {{u_n}} \\right)\\) vứi \\({u_1} = 1\\) và \\({u_{n + 1}} = {u_n} - 2\\). Năm số hạng đầu của dãy số là",
+      "options": [
+        "A. \\(1;3;5;7;9\\).",
+        "B. \\(1; - 1; - 3; - 5; - 7\\).",
+        "C. \\(1; - 2;3;5;7\\).",
+        "D. \\( - 2; - 1;0;1;2\\)."
+      ],
+      "answer": "B",
+      "note": "Ta có \\({u_2} = {u_1} - 2 = 1 - 2 = - 1;{u_3} = {u_2} - 2 = - 1 - 2 = - 3\\); \\({u_4} = {u_3} - 2 = - 3 - 2 = - 5\\); \\({u_5} = {u_4} - 2 = - 5 - 2 = - 7\\). 5 số hạng đầu của dãy số là \\(1; - 1; - 3; - 5; - 7\\). Chọn B."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho dãy số \\( - 1;1; - 1;...\\). Số hạng tổng quát của dãy số là",
+      "options": [
+        "A. \\({u_n} = 1\\).",
+        "B. \\({u_n} = - 1\\).",
+        "C. \\({u_n} = {\\left( { - 1} \\right)^n}\\).",
+        "D. \\({u_n} = {\\left( { - 1} \\right)^{n + 1}}\\)."
+      ],
+      "answer": "C",
+      "note": "Số hạng tổng quát của dãy số trên là \\({u_n} = {\\left( { - 1} \\right)^n}\\). Chọn C."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho cấp số nhân \\({u_n}\\) có \\({u_1} = 2\\) và \\({u_4} = 16\\). Tìm công bội q.",
+      "options": [
+        "A. \\(\\left[ \\begin{array}{l}q = 2\\\\q = - 2\\end{array} \\right.\\).",
+        "B. \\(q = - 2\\).",
+        "C. \\(q = 2\\).",
+        "D. \\(q = \\pm \\frac{1}{2}\\)."
+      ],
+      "answer": "C",
+      "note": "Ta có \\({u_4} = {u_1}{q^3}\\)\\( \\Leftrightarrow 16 = 2{q^3}\\)\\( \\Leftrightarrow {q^3} = 8 \\Leftrightarrow q = 2\\). Chọn C."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Cho cấp số cộng \\(\\left( {{u_n}} \\right)\\) có \\({u_1} = 10\\) và công sai \\(d = 2\\). Tổng 10 số hạng đầu tiên của dãy là",
+      "options": [
+        "A. \\({S_{10}} = 110\\).",
+        "B. \\({S_{10}} = 100\\).",
+        "C. \\({S_{10}} = 21\\).",
+        "D. \\({S_{10}} = 190\\)."
+      ],
+      "answer": "D",
+      "note": "Ta có \\({S_{10}} = \\frac{{10}}{2}\\left( {2{u_1} + 9d} \\right) = \\frac{{10}}{2}\\left( {20 + 9 \\cdot 2} \\right) = 190\\). Chọn D."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Trong các dãy số \\(\\left( {{u_n}} \\right)\\) cho bởi số hạng tổng quát \\({u_n}\\) sau, dãy số nào là dãy số giảm?",
+      "options": [
+        "A. \\({u_n} = \\frac{n}{{n + 1}}\\).",
+        "B. \\({u_n} = {n^3}\\).",
+        "C. \\({u_n} = 2n\\).",
+        "D. \\({u_n} = - {n^2}\\)."
+      ],
+      "answer": "D",
+      "note": "Xét dãy \\({u_n} = - {n^2}\\). Ta có \\({u_{n + 1}} - {u_n} = - {\\left( {n + 1} \\right)^2} + {n^2} = - 2n - 1 < 0,\\forall n \\in {\\mathbb{N}^*}\\). Do đó \\({u_n} = - {n^2}\\) là dãy số giảm. Chọn D."
+    }
+  ]
+}

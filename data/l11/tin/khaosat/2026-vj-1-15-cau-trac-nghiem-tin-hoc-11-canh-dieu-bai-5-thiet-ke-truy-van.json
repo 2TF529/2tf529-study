@@ -1,0 +1,90 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-11-canh-dieu-bai-5-thiet-ke-truy-van",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-11-canh-die",
+  "grade": "l11",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 11 Cánh diều Bài 5: Thiết kế truy vấn có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Truy vấn SELECT trong Access được sử dụng để làm gì?",
+      "options": [
+        "A. Chọn và hiển thị dữ liệu từ một hoặc nhiều bảng",
+        "B. Xoá dữ liệu trong bảng",
+        "C. Tạo bảng mới",
+        "D. Cập nhật dữ liệu trong bảng"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Truy vấn SELECT cho phép người dùng chọn và hiển thị dữ liệu từ một hoặc nhiều bảng trong cơ sở dữ liệu, giúp dễ dàng lấy thông tin mà không cần thao tác trực tiếp trên bảng."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Để tạo một truy vấn đơn giản trong Access, bước đầu tiên cần thực hiện là gì?",
+      "options": [
+        "A. Nhấp vào \"Create Query Design\"",
+        "B. Nhấp vào \"Create Table\"",
+        "C. Nhấp vào \"Run Query\"",
+        "D. Nhấp vào \"Import Data\""
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Bước đầu tiên để thiết kế truy vấn là chọn \"Create Query Design\" để bắt đầu tạo truy vấn từ bảng dữ liệu."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trong thiết kế truy vấn, phần nào cho phép sắp xếp kết quả truy vấn?",
+      "options": [
+        "A. Hàng Field",
+        "B. Hàng Sort",
+        "C. Hàng Criteria",
+        "D. Hàng Table"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Hàng Sort trong lưới QBE được sử dụng để xác định cách sắp xếp kết quả truy vấn theo một hoặc nhiều trường."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Khi nào thì bạn nên sử dụng truy vấn có tham số?",
+      "options": [
+        "A. Khi bạn muốn chọn tất cả các bản ghi",
+        "B. Khi bạn muốn mời người sử dụng nhập một giá trị trong khi chạy truy vấn",
+        "C. Khi bạn muốn xoá dữ liệuD. Khi bạn muốn tạo bảng mới"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Truy vấn có tham số cho phép người dùng nhập giá trị khi truy vấn chạy, giúp tăng tính linh hoạt trong việc lấy dữ liệu."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Tiêu chí lựa chọn trong truy vấn được thể hiện ở đâu?",
+      "options": [
+        "A. Trong phần lưới ô hàng Sort",
+        "B. Trong phần lưới ô hàng Criteria",
+        "C. Trong phần lưới ô hàng Field",
+        "D. Trong phần lưới ô hàng Table"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Tiêu chí lựa chọn được viết trong hàng Criteria, cho phép xác định các bản ghi nào sẽ được chọn dựa trên điều kiện nhất định."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Để tạo một truy vấn nối hai bảng, bạn cần thực hiện thao tác nào?",
+      "options": [
+        "A. Chọn một bảng và nhấn Add",
+        "B. Nhấn vào \"Create\" và chọn \"Make Table\"",
+        "C. Chọn nhiều bảng và nhấn Add",
+        "D. Nhấn vào \"Delete Query\""
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Để tạo truy vấn nối hai bảng, bạn cần chọn cả hai bảng trong hộp thoại Show Table và nhấn Add để thêm chúng vào truy vấn."
+    }
+  ]
+}

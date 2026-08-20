@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-trac-nghiem-phuong-trinh-luong-giac-co-ban-lop-11-co-dap-an",
+  "sourceId": "vietjack:1-trac-nghiem-phuong-trinh-luong-giac-co",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.Trắc nghiệm Phương trình lượng giác cơ bản lớp 11 (có đáp án)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Nghiệm của phương trình sin x = − 1 là:",
+      "options": [
+        "A. x = − π 2 + k π k ∈ ℤ .",
+        "B. x = − π 2 + k 2 π k ∈ ℤ .",
+        "C. x = k π k ∈ ℤ .",
+        "D. x = 3 π 2 + k π k ∈ ℤ ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B sin x = − 1 ⇔ x = − π 2 + k 2 π , k ∈ ℤ ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Nghiệm của phương trình cos x = 1 là:",
+      "options": [
+        "A. x = k π k ∈ ℤ .",
+        "B. x = π 2 + k 2 π k ∈ ℤ .",
+        "C. x = k 2 π k ∈ ℤ .",
+        "D. x = π 2 + k π k ∈ ℤ ."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C cos x = 1 ⇔ x = k 2 π , k ∈ ℤ"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Tìm tất cả các giá trị thực của tham số m để phương trình sin x = m có nghiệm.",
+      "options": [
+        "A. m ≤ 1 .",
+        "B. m ≥ − 1 .",
+        "C. − 1 ≤ m ≤ 1 .",
+        "D. m ≤ − 1 ."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Với mọi x ∈ ℝ , ta luôn có − 1 ≤ sin x ≤ 1 . Do đó, phương trình x = m có nghiệm khi và chỉ khi − 1 ≤ m ≤ 1 ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Nghiệm của phương trình 3 + 3 tan x = 0 là:",
+      "options": [
+        "A. x = π 3 + k π k ∈ ℤ .",
+        "B. x = π 2 + k 2 π k ∈ ℤ .",
+        "C. x = − π 6 + k π k ∈ ℤ .",
+        "D. x = π 2 + k π k ∈ ℤ ."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C 3 + 3 tan x = 0 ⇔ tan x = − 3 3 ⇔ x = − π 6 + k π k ∈ ℤ"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Tập nghiệm của phương trình sin 2 x = sin x là",
+      "options": [
+        "A. S = k 2 π ; π 3 + k 2 π k ∈ ℤ .",
+        "B. S = k 2 π ; π 3 + k 2 π 3 k ∈ ℤ .",
+        "C. S = k 2 π ; − π 3 + k 2 π k ∈ ℤ .",
+        "D. S = k 2 π ; π + k 2 π k ∈ ℤ ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có sin 2 x = sin x ⇔ 2 x = x + k 2 π 2 x = π − x + k 2 π ⇔ x = k 2 π x = π 3 + k 2 π 3 k ∈ ℤ ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Phương trình sin 2 x = cos x có nghiệm là",
+      "options": [
+        "A. x = π 6 + k π 3 x = π 2 + k 2 π k ∈ ℤ .",
+        "B. x = π 6 + k π 3 x = π 3 + k 2 π k ∈ ℤ .",
+        "C. x = π 6 + k 2 π x = π 2 + k 2 π k ∈ ℤ .",
+        "D. x = π 6 + k 2 π 3 x = π 2 + k 2 π k ∈ ℤ ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A sin 2 x = cos x ⇔ sin 2 x = sin π 2 − x ⇔ x = π 6 + k π 3 x = π 2 + k 2 π k ∈ ℤ ."
+    }
+  ]
+}

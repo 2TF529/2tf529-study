@@ -1,0 +1,78 @@
+{
+  "id": "2026-vj-3-10-bai-tap-viet-phuong-trinh-mat-cau-co-tam-va-ban-kinh-cho-tru",
+  "sourceId": "vietjack:3-10-bai-tap-viet-phuong-trinh-mat-cau-c",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.10 bài tập Viết phương trình mặt cầu có tâm và bán kính cho trước có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Trong các phương trình sau, phương trình nào là phương trình mặt cầu tâm I(1; −2; 3), bán kính R = 3.",
+      "options": [
+        "A. (x – 1) 2 + (y + 2) 2 + (z – 3) 2 = 3;",
+        "B. (x – 1) 2 + (y + 2) 2 + (z – 3) 2 = 9;",
+        "C. (x + 1) 2 + (y − 2) 2 + (z + 3) 2 = 3;",
+        "D. (x + 1) 2 + (y − 2) 2 + (z + 3) 2 = 9."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Phương trình mặt cầu tâm I(1; −2; 3), bán kính R = 3 là: (x – 1) 2 + (y + 2) 2 + (z – 3) 2 = 9."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Trong hệ trục tọa độ Oxyz, phương trình mặt cầu I(2; 1; −2) bán kính R = 2 là",
+      "options": [
+        "A. (x – 2) 2 + (y − 1) 2 + (z – 2) 2 = 2 2 ;",
+        "B. x 2 + y 2 + z 2 – 4x – 2y + 4z + 5 = 0;",
+        "C. x 2 + y 2 + z 2 + 4x – 2y + 4z + 5 = 0;",
+        "D. (x − 2) 2 + (y − 1) 2 + (z + 2) 2 = 2."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Phương trình mặt cầu I(2; 1; −2) bán kính R = 2 là (x – 2) 2 + (y – 1) 2 + (z + 2) 2 = 2 2 x 2 + y 2 + z 2 – 4x – 2y + 4z + 5 = 0."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trong không gian Oxyz, mặt cầu có tâm I(−1; 2; 0) đường kính bằng 10 có phương trình là",
+      "options": [
+        "A. (x – 1) 2 + (y + 2) 2 + z 2 = 100;",
+        "B. (x + 1) 2 + (y − 2) 2 + z 2 = 100;",
+        "C. (x + 1) 2 + (y − 2) 2 + z 2 = 25;",
+        "D. (x − 1) 2 + (y + 2) 2 + z 2 = 25."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Đường kính bằng 10 nên bán kính R = 5. Phương trình mặt cầu tâm I(−1; 2; 0), bán kính R = 5 là (x + 1) 2 + (y − 2) 2 + z 2 = 25."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Trong không gian Oxyz, mặt cầu có tâm I(2; 3; −6) và bán kính bằng 4 có phương trình là",
+      "options": [
+        "A. (x – 2) 2 + (y − 3) 2 + (z + 6) 2 = 16;",
+        "B. (x + 2) 2 + (y + 3) 2 + (z – 6) 2 = 16;",
+        "C. (x + 2) 2 + (y + 3) 2 + (z – 6) 2 = 4;",
+        "D. (x − 2) 2 + (y − 3) 2 + (z + 6) 2 = 4."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Mặt cầu có tâm I(2; 3; −6) và bán kính bằng 4 có phương trình là (x – 2) 2 + (y − 3) 2 + (z + 6) 2 = 16."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Trong không gian Oxyz, phương trình nào dưới đây là phương trình mặt cầu tâm I(1; 0; −2), bán kính R = 4.",
+      "options": [
+        "A. (x + 1) 2 + y 2 + (z − 2) 2 = 4;",
+        "B. (x − 1) 2 + y 2 + (z + 2) 2 = 4;",
+        "C. (x − 1) 2 + y 2 + (z + 2) 2 = 16;",
+        "D. (x + 1) 2 + y 2 + (z − 2) 2 = 16."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Phương trình mặt cầu tâm I(1; 0; −2), bán kính R = 4 là (x − 1) 2 + y 2 + (z + 2) 2 = 16."
+    }
+  ]
+}

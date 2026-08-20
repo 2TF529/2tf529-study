@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-12-chan-troi-sang-tao-bai-f10-co-dap",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-12-chan-tro",
+  "grade": "l12",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 12 Chân trời sáng tạo Bài F10 có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Khi muốn thay đổi kiểu của siêu liên kết trong trạng thái bình thường, bạn sử dụng lớp giả nào trong CSS?",
+      "options": [
+        "A. a:hover",
+        "B. a:active",
+        "C. a:visited",
+        "D. a:link"
+      ],
+      "answer": "D",
+      "note": "Đáp án: D Giải thích: Lớp giả a:link được sử dụng để định kiểu cho siêu liên kết trong trạng thái bình thường (khi chưa được nhấp chuột hoặc tương tác)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Để thay đổi kiểu của siêu liên kết khi người dùng di chuột qua, bạn sử dụng lớp giả nào?",
+      "options": [
+        "A. a:focus",
+        "B. a:visited",
+        "C. a:active",
+        "D. a:hover"
+      ],
+      "answer": "D",
+      "note": "Đáp án: D Giải thích: Lớp giả a:hover được sử dụng để định kiểu cho siêu liên kết khi người dùng di chuột qua liên kết."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Để định kiểu cho siêu liên kết khi nó đang được kích hoạt, bạn nên sử dụng lớp giả nào?",
+      "options": [
+        "A. a:focus",
+        "B. a:link",
+        "C. a:active",
+        "D. a:hover"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Lớp giả a:active được sử dụng để định kiểu cho siêu liên kết khi nó đang được nhấp chuột hoặc kích hoạt."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Để thay đổi kiểu của siêu liên kết đã được truy cập, bạn sử dụng lớp giả nào?",
+      "options": [
+        "A. a:focus",
+        "B. a:hover",
+        "C. a:visited",
+        "D. a:active"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Lớp giả a:visited được sử dụng để định kiểu cho siêu liên kết đã được truy cập trước đó."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Để định kiểu cho siêu liên kết khi nó đang được người dùng chọn bằng bàn phím, bạn nên sử dụng lớp giả nào?",
+      "options": [
+        "A. a:focus",
+        "B. a:link",
+        "C. a:visited",
+        "D. a:hover"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Lớp giả a:focus được sử dụng để định kiểu cho siêu liên kết khi nó đang được người dùng chọn bằng bàn phím."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Để định kiểu cho dấu đầu dòng trong danh sách bằng một hình ảnh, bạn nên sử dụng thuộc tính nào?",
+      "options": [
+        "A. list-style-type",
+        "B. list-style-position",
+        "C. list-style-image",
+        "D. list-style"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Thuộc tính list-style-image được sử dụng để định kiểu dấu đầu dòng trong danh sách bằng một hình ảnh."
+    }
+  ]
+}

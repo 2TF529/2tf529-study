@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-1-22-cau-trac-nghiem-toan-11-canh-dieu-bai-tap-cuoi-chuong-ii-dun",
+  "sourceId": "vietjack:1-22-cau-trac-nghiem-toan-11-canh-dieu-b",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.22 câu Trắc nghiệm Toán 11 Cánh diều Bài tập cuối chương II (Đúng-sai, trả lời ngắn) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: TRẮC NGHIỆM NHIỀU LỰA CHỌN Cho dãy số (u n ) biết \\({u_n} = \\frac{1}{n}\\) . Khẳng định nào đúng?",
+      "options": [
+        "A. Dãy số (u n ) có \\({u_6} = \\frac{1}{6}\\) .",
+        "B. Dãy số (u n ) là dãy số tăng.",
+        "C. Dãy số (u n ) là dãy số không tăng không giảm.",
+        "D. Dãy số (u n ) là dãy số tăng, bị chặn trên."
+      ],
+      "answer": "A",
+      "note": "A Ta có \\({u_6} = \\frac{1}{6}\\). Vì \\(0 < \\frac{1}{n} \\le 1\\) nên dãy số (u n ) là dãy bị chặn."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Trong các dãy số (u n ) cho bởi số hạng tổng quát u n sau, dãy số nào tăng?",
+      "options": [
+        "A. \\({u_n} = \\frac{1}{{{2^n}}}\\) .",
+        "B. \\({u_n} = \\frac{1}{n}\\) .",
+        "C. \\({u_n} = \\frac{{n + 5}}{{3n + 1}}\\) .",
+        "D. \\({u_n} = \\frac{{2n - 1}}{{2n + 1}}\\) ."
+      ],
+      "answer": "D",
+      "note": "D Xét dãy \\({u_n} = \\frac{{2n - 1}}{{2n + 1}}\\). Ta có \\({u_{n + 1}} = \\frac{{2\\left( {n + 1} \\right) - 1}}{{2\\left( {n + 1} \\right) + 1}} = \\frac{{2n + 1}}{{2n + 3}}\\). Ta có \\({u_{n + 1}} - {u_n} = \\frac{{2n + 1}}{{2n + 3}} - \\frac{{2n - 1}}{{2n + 1}}\\)\\( = \\frac{{{{\\left( {2n + 1} \\right)}^2} - \\left( {2n - 1} \\right)\\left( {2n + 3} \\right)}}{{\\left( {2n + 3} \\right)\\left( {2n + 1} \\right)}}\\)\\( = \\frac{4}{{\\left( {2n + 3} \\right)\\left( {2n + 1} \\right)}} > 0,\\forall n \\in \\mathbb{N}*\\). Do đó dãy \\({u_n} = \\frac{{2n - 1}}{{2n + 1}}\\) là dãy tăng."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho cấp số cộng (u n ), u 1 = 3 và u 2 = −1. Tìm số hạng thứ ba của cấp số cộng.",
+      "options": [
+        "A. u 3 = 4.",
+        "B. u 3 = 2.",
+        "C. u 3 = −5.",
+        "D. u 3 = −7."
+      ],
+      "answer": "C",
+      "note": "C Ta có d = u 2 – u 1 = −1 – 3 = −4. Khi đó u 3 = u 1 + 2d = 3 + 2.(−4) = −5."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho cấp số cộng (u n ) có u 4 = −12; u 14 = 18. Tổng của 16 số hạng đầu tiên của cấp số cộng đó là",
+      "options": [
+        "A. S 16 = 24.",
+        "B. S 16 = 26.",
+        "C. S 16 = 25.",
+        "D. S 16 = 20."
+      ],
+      "answer": "A",
+      "note": "A Ta có \\(\\left\\{ \\begin{array}{l}{u_4} = - 12\\\\{u_{14}} = 18\\end{array} \\right.\\)\\( \\Leftrightarrow \\left\\{ \\begin{array}{l}{u_1} + 3d = - 12\\\\{u_1} + 13d = 18\\end{array} \\right.\\)\\( \\Leftrightarrow \\left\\{ \\begin{array}{l}{u_1} = - 21\\\\d = 3\\end{array} \\right.\\). Khi đó \\({S_{16}} = \\frac{{\\left[ {2{u_1} + \\left( {16 - 1} \\right)d} \\right].16}}{2}\\)\\( = \\frac{{\\left[ {2.\\left( { - 21} \\right) + \\left( {16 - 1} \\right).3} \\right].16}}{2} = 24\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Một cấp số nhân có sáu số hạng, số hạng đầu là 2 và số hạng thứ sáu bằng 486. Gọi q là công bội của cấp số nhân đó. Giá trị của q là",
+      "options": [
+        "A. q = 2.",
+        "B. q = 3.",
+        "C. q = 6.",
+        "D. q = 4."
+      ],
+      "answer": "B",
+      "note": "B Theo đề ta có \\(\\left\\{ \\begin{array}{l}{u_1} = 2\\\\{u_6} = 486\\end{array} \\right.\\)\\( \\Leftrightarrow \\left\\{ \\begin{array}{l}{u_1} = 2\\\\{u_1}{q^5} = 486\\end{array} \\right.\\)\\( \\Leftrightarrow \\left\\{ \\begin{array}{l}{u_1} = 2\\\\2{q^5} = 486\\end{array} \\right.\\)\\( \\Leftrightarrow \\left\\{ \\begin{array}{l}{u_1} = 2\\\\{q^5} = 243\\end{array} \\right.\\)\\( \\Leftrightarrow \\left\\{ \\begin{array}{l}{u_1} = 2\\\\q = 3\\end{array} \\right.\\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong các dãy số (u n ) cho bởi số hạng tổng quát u n sau, dãy số nào là một cấp số nhân?",
+      "options": [
+        "A. u n = 7 – 3 n .",
+        "B. u n = 7.3 n .",
+        "C. \\({u_n} = \\frac{7}{{3n}}\\) .",
+        "D. u n = 7 – 3n."
+      ],
+      "answer": "B",
+      "note": "B Xét dãy số (u n ) có u n = 7.3 n Þ u n + 1 = 7.3 n + 1 . Khi đó \\(\\frac{{{u_{n + 1}}}}{{{u_n}}} = \\frac{{{{7.3}^{n + 1}}}}{{{{7.3}^n}}} = 3\\) Þ u n + 1 = 3u n . Vậy dãy số (u n ) có số hạng tổng quát u n = 7.3 n là một cấp số nhân với công bội q = 3."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Cho cấp số cộng (u n ) có u 1 = −3, u 6 = 27. Tính công sai d.",
+      "options": [
+        "A. d = 7.",
+        "B. d = 5.",
+        "C. d = 8.",
+        "D. d = 6."
+      ],
+      "answer": "D",
+      "note": "D Ta có u 6 = u 1 + 5d = 27 Þ d = 6."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho cấp số nhân (u n ) biết u n = 2 n . Tính tổng 10 số hạng đầu của cấp số nhân trên.",
+      "options": [
+        "A. 2 − 2 11 .",
+        "B. 2 11 – 1.",
+        "C. 2 11 – 2.",
+        "D. 2 11 ."
+      ],
+      "answer": "C",
+      "note": "C Ta có u 1 = 2, u 2 = 2 2 Þ công bội của cấp số nhân là \\(q = \\frac{{{u_2}}}{{{u_1}}} = 2\\). Khi đó \\({S_{10}} = {u_1}.\\frac{{1 - {q^{10}}}}{{1 - q}} = 2.\\frac{{1 - {2^{10}}}}{{1 - 2}} = {2^{11}} - 2\\)."
+    }
+  ]
+}

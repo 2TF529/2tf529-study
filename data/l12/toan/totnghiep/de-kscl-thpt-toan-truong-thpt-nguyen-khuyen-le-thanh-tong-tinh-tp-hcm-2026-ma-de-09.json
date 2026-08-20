@@ -1,0 +1,196 @@
+{
+  "id": "l12-toan-totnghiep-2026-de-kscl-thpt-toan-truong-thpt-nguyen-khuyen-le-thanh-tong-tinh-tp-hcm-2026-ma-de-09",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "code": "THPT_TTT_2026_HCM_NK&LTT_09",
+  "title": "Đề khảo sát chất lượng THPT môn Toán trường THPT Nguyễn Khuyến & Lê Thánh Tông Sở GD&ĐT TP.HCM năm 2026 - Mã đề 09",
+  "duration": 90,
+  "answerSource": "official",
+  "source": "https://dolthpt.vn/tot-nghiep-thpt/pdf-de-kscl-thpt-toan-truong-thpt-nguyen-khuyen-le-thanh-tong-tinh-tp-hcm-2026-ma-de-09-co-dap-an",
+  "notes": "Nội dung, đáp án và lời giải được nhập từ bản công khai của DOL THPT.",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "content": "Nghiệm của phương trình \\$2^{x-1}=3$ là",
+      "chuong": "hàm số mũ và hàm số lôgarit",
+      "dang": "phương trình mũ",
+      "type": "single",
+      "options": [
+        "A. $x=3$",
+        "B. $x=1+\\log_2 3$",
+        "C. $x=\\log_2 6$",
+        "D. $x=2$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Phương trình: \\$2^{x-1}=3$\n❓ **Hiểu câu hỏi:**\n- Yêu cầu: Tìm nghiệm của phương trình mũ \\$2^{x-1}=3$.\n- Kiến thức cần dùng: tính chất phép chia lũy thừa, định nghĩa logarit cơ bản và công thức chuyển đổi logarit (nhất là $\\log_a(bc)=\\log_a b+\\log_a c$).\n🔎 **Hướng dẫn cách làm:**\n- Bắt đầu từ phương trình đã cho: \\$2^{x-1}=3.$\n- Nhân cả hai vế với \\$2$ (hoặc viết \\$2^{x-1}=\\dfrac{2^x}{2}$) để đưa về dạng \\$2^x$: - \\$2^{x-1}=\\dfrac{2^x}{2}=3 \\Rightarrow 2^x=6.$\n- Lấy logarit cơ số \\$2$ của hai vế (hoặc áp dụng định nghĩa logarit): - $x=\\log_2 6.$\n- Ta cũng có thể viết dưới dạng khác bằng cách tách \\$6=2\\cdot 3$ và dùng tính chất logarit: - $\\log_2 6=\\log_2(2\\cdot3)=\\log_2 2+\\log_2 3=1+\\log_2 3.$\n  - Vậy hai dạng $x=\\log_2 6$ và $x=1+\\log_2 3$ là tương đương nhau.\n✅ **Đáp án:  **C. $x=\\log_2 6$"
+    },
+    {
+      "id": 2,
+      "content": "Giá trị cực đại của hàm số $f(x)=2x^3-9x^2-24x+1$ là",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "cực trị của hàm số",
+      "type": "single",
+      "options": [
+        "A. −1",
+        "B. 14",
+        "C. 4",
+        "D. −111"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số $f(x)=2x^3-9x^2-24x+1$.\n- Yêu cầu: tìm *giá trị cực đại* của hàm số.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu tìm *giá trị lớn nhất tại điểm cực đại* của hàm số (nếu có).\n- Cần dùng kiến thức: đạo hàm để tìm điểm tới hạn và xét dấu đạo hàm thứ hai (bài toán cực trị của hàm số đa thức bậc ba).\n🔎 **Hướng dẫn cách làm:**\n- Tính đạo hàm bậc nhất: $f'(x)=\\frac{d}{d}x}(2x^3-9x^2-24x+1)=6x^2-18x-24.$\n- Giải phương trình $f'(x)=0$:\n\\$6x^2-18x-24=0 \\;\\Rightarrow\\; x^2-3x-4=0.$\nPhân tích: $(x-4)(x+1)=0 \\;\\Rightarrow\\; x=4 \\text{ hoặc } x=-1.$\n- Dùng đạo hàm bậc hai để phân loại:\n$f''(x)=\\frac{d}{d}x}(6x^2-18x-24)=12x-18.$ - Tại $x=4$: $f''(4)=12\\cdot4-18=48-18=30>0$ nên $x=4$ là điểm cực tiểu.\n  - Tại $x=-1$: $f''(-1)=12(-1)-18=-12-18=-30<0$ nên $x=-1$ là điểm cực đại.\n- Tính giá trị hàm tại điểm cực đại $x=-1$:\n$f(-1)=2(-1)^3-9(-1)^2-24(-1)+1=-2-9+24+1=14.$\n✅ **Đáp án:**  $B. 14$"
+    },
+    {
+      "id": 3,
+      "content": "Cho lăng trụ $ABC.A'B'C'$. Khẳng định nào sau đây đúng?",
+      "chuong": "vectơ và hệ trục tọa độ trong không gian",
+      "dang": "tổng và hiệu của hai vectơ trong không gian",
+      "type": "single",
+      "options": [
+        "A. $\\overrightarrow{BA}+\\overrightarrow{A'C'}=\\overrightarrow{BC}$",
+        "B. $\\overrightarrow{BA}+\\overrightarrow{A'C'}=\\overrightarrow{BC'}$",
+        "C. $\\overrightarrow{BA}+\\overrightarrow{A'C'}=\\overrightarrow{C'B}$",
+        "D. $\\overrightarrow{BA}+\\overrightarrow{A'C'}=\\overrightarrow{B'C}$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cho lăng trụ $ABC.A'B'C'$ (hai đáy $ABC$ và $A'B'C'$ song song và bằng nhau; các cạnh bên $AA',BB',CC'$ song song và bằng nhau).\n- Các lựa chọn đưa ra các đẳng thức về tổng các vectơ (đơn vị tùy theo định hướng điểm).\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu kiểm tra khẳng định nào đúng về đẳng thức vectơ trong lăng trụ.\n- Cần vận dụng kiến thức về: - Tính chất vectơ trong tam giác: $\\overrightarrow{BA}+\\overrightarrow{AC}=\\overrightarrow{BC}.$\n  - Tính chất lăng trụ: hai đáy bằng và song song nên các vectơ tương ứng bằng nhau, cụ thể $\\overrightarrow{A'C'}=\\overrightarrow{AC}.$\n🔎 **Hướng dẫn cách làm:**\n- Vì trong tam giác $ABC$ theo quy tắc hình học vectơ (quy tắc hình tam giác) ta có:  $\\overrightarrow{BA}+\\overrightarrow{AC}=\\overrightarrow{BC}.$\n- Do $A'B'C'$ là đáy tương ứng của lăng trụ, đáy trên song song và bằng đáy dưới, nên vectơ từ $A'$ đến $C'$ bằng vectơ từ $A$ đến $C$:   $\\overrightarrow{A'C'}=\\overrightarrow{AC}.$\n- Thay $\\overrightarrow{A'C'}$ bằng $\\overrightarrow{AC}$ vào đẳng thức ở trên:  $\\overrightarrow{BA}+\\overrightarrow{A'C'}=\\overrightarrow{BA}+\\overrightarrow{AC}=\\overrightarrow{BC}.$\n- Vậy đẳng thức   $\\overrightarrow{BA}+\\overrightarrow{A'C'}=\\overrightarrow{BC}$   là đúng.\n✅ **Đáp án:** A. $\\overrightarrow{BA}+\\overrightarrow{A'C'}=\\overrightarrow{BC}$"
+    },
+    {
+      "id": 4,
+      "content": "Cho hàm số $y=f(x)$ xác định trên đoạn $[-1;6]$ và có đồ thị như hình vẽ. Hàm số đã cho nghịch biến trên khoảng nào sau đây?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-kscl-thpt-toan-truong-thpt-nguyen-khuyen-le-thanh-tong-tinh-tp-hcm-2026-ma-de-09/cau-04.webp\" alt=\"Hình minh họa câu 4\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "tính đơn điệu của hàm số",
+      "type": "single",
+      "options": [
+        "A. $(−1;2)$",
+        "B. $(0;2)$",
+        "C. $(2;6)$",
+        "D. $(−2;0)$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số $y=f(x)$ xác định trên đoạn $[-1;6]$ và có đồ thị như hình kèm theo.\n- Đồ thị gồm hai đoạn: một đường cong màu xanh từ $x=-1$ đến $x=2$ (đạt cực đại gần $x\\approx -0.5$ đến \\$0$ rồi giảm đến điểm cực tiểu tại $x=2$), và một đoạn thẳng màu nâu tăng từ điểm tại $x=2$ đến $x=6$.\n- Trên đồ thị có các đường nét đứt dọc tại $x=-1,\\;x=2,\\;x=6$ để đánh dấu các điểm đặc biệt.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi: Hàm số đã cho *nghịch biến* (tức là giảm) trên khoảng nào trong các đáp án cho trước?\n- Cần vận dụng khái niệm *nghịch biến*: với mọi $x_1<x_2$ trong khoảng, phải có $f(x_1)>f(x_2)$.\n🔎 **Hướng dẫn cách làm:**\n- Đầu tiên, nhớ định nghĩa: một hàm nghịch biến trên khoảng $I$ khi\n$\\forall x_1,x_2\\in I,\\ x_1<x_2\\Rightarrow f(x_1)>f(x_2).$\n- Nhìn vào đồ thị (theo mô tả hình): - Từ $x=-1$ đồ thị tăng lên đến một cực đại gần $x\\approx -0.5$–0, nên trên khoảng $(-1,\\text{cực đại})$ hàm **không** giảm.\n  - Từ điểm cực đại đó tiếp tục đi xuống, đồ thị giảm cho đến điểm cực tiểu tại $x=2$. Vì điểm cực đại nằm khoảng trước $x=0$ (gần $-0.5$–0), nên đoạn giảm chứa toàn bộ khoảng $(0,2)$.\n  - Từ $x=2$ trở đi đồ thị là một đường thẳng đi lên (tăng), nên không giảm trên $(2,6)$.\n- Kiểm tra các đáp án: - A: $(−1;2)$ — sai vì trên phần đầu (từ $-1$ đến cực đại) đồ thị tăng.\n  - B: $(0;2)$ — đúng vì giữa \\$0$ và \\$2$ đồ thị đi xuống từ phía dương qua trục x đến điểm cực tiểu tại \\$2$. Mọi $x_1<x_2$ trong $(0,2)$ đều có $f(x_1)>f(x_2)$.\n  - C: $(2;6)$ — sai vì sau \\$2$ đồ thị tăng.\n  - D: $(−2;0)$ — không nằm hoàn toàn trong miền định nghĩa $[-1,6]$ và phần $(-1,0)$ không hoàn toàn giảm.\n✅ **Đáp án:** $B. (0;2)$"
+    },
+    {
+      "id": 5,
+      "content": "Trong không gian, cho ba vectơ $\\vec{a},\\vec{b},\\vec{c}$ và số thực $k$. Khẳng định nào sau đây sai?",
+      "chuong": "vectơ và hệ trục tọa độ trong không gian",
+      "dang": "bài tập cuối chương 2",
+      "type": "single",
+      "options": [
+        "A. $\\vec{a}\\cdot\\vec{b}=\\vec{b}\\cdot\\vec{a}$",
+        "B. $(\\vec{a}\\cdot\\vec{b})^2=(a^2)(b^2)$",
+        "C. $\\vec{a}\\cdot(\\vec{b}+\\vec{c})=\\vec{a}\\cdot\\vec{b}+\\vec{a}\\cdot\\vec{c}$",
+        "D. $(k\\vec{a})\\cdot\\vec{b}=k(\\vec{a}\\cdot\\vec{b})=\\vec{a}\\cdot(k\\vec{b})$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Trong không gian, cho ba vectơ $\\vec{a},\\vec{b},\\vec{c}$ và số thực $k$.\n- Cần chọn khẳng định **sai** trong các lựa chọn.\n❓ **Hiểu câu hỏi:**\n- Bài yêu cầu xác định khẳng định nào trong các tính chất liên quan đến tích vô hướng của vectơ là **sai**.\n- Cần áp dụng các kiến thức cơ bản về tích vô hướng: công thức đại số và quan hệ với độ lớn vectơ và góc giữa hai vectơ.\n🔎 **Hướng dẫn cách làm:**\n- Nhắc lại định nghĩa/tính chất cơ bản của tích vô hướng: - $\\vec{a}\\cdot\\vec{b}=|\\vec{a}|\\,|\\vec{b}|\\cos\\theta$ với $\\theta$ là góc giữa $\\vec{a}$ và $\\vec{b}$.\n  - Do đó $(\\vec{a}\\cdot\\vec{b})^2 = |\\vec{a}|^2\\,|\\vec{b}|^2\\cos^2\\theta.$\n- Phân tích khẳng định cần kiểm tra (lựa chọn B): - Khẳng định B là $(\\vec{a}\\cdot\\vec{b})^2=(a^2)(b^2).$\n  - Ở đây ký hiệu $a^2$ và $b^2$ hiểu là $|\\vec{a}|^2$ và $|\\vec{b}|^2$.\n- So sánh với biểu thức đúng từ định nghĩa: - Từ công thức trên, để có $(\\vec{a}\\cdot\\vec{b})^2 = |\\vec{a}|^2\\,|\\vec{b}|^2$ thì cần $\\cos^2\\theta = 1$, tức là $\\cos\\theta = \\pm 1$ hay góc $\\theta = 0$ hoặc $\\theta=\\pi$ (hai vectơ cùng phương hoặc ngược phương).\n  - Vậy phương trình chỉ đúng khi $\\vec{a}$ và $\\vec{b}$ song song (cùng hoặc ngược hướng). Nó **không đúng** với mọi cặp vectơ nói chung.\n- Dùng phản ví dụ đơn giản: - Chọn $\\vec{a}=(1,0,0),\\ \\vec{b}=(0,1,0)$ (vuông góc). - Ta có $\\vec{a}\\cdot\\vec{b}=0\\Rightarrow (\\vec{a}\\cdot\\vec{b})^2=0.$\n    - Nhưng $|\\vec{a}|^2=1,\\ |\\vec{b}|^2=1\\Rightarrow (a^2)(b^2)=1.$\n    - Rõ ràng \\$0\\neq 1$, nên khẳng định B sai.\n- Kiểm tra nhanh các lựa chọn còn lại: - A: $\\vec{a}\\cdot\\vec{b}=\\vec{b}\\cdot\\vec{a}$ — đúng (tích vô hướng giao hoán).\n  - C: $\\vec{a}\\cdot(\\vec{b}+\\vec{c})=\\vec{a}\\cdot\\vec{b}+\\vec{a}\\cdot\\vec{c}$ — đúng (tính phân phối).\n  - D: $(k\\vec{a})\\cdot\\vec{b}=k(\\vec{a}\\cdot\\vec{b})=\\vec{a}\\cdot(k\\vec{b})$ — đúng (nhân vô hướng với vô hướng).\n✅ **Đáp án:**  $B. \\; (\\vec{a}\\cdot\\vec{b})^2=(a^2)(b^2)$"
+    },
+    {
+      "id": 6,
+      "content": "Cho cấp số cộng $(u_n)$ với $u_1=-1$, công sai $d=3$. Tổng năm số hạng đầu tiên của cấp số cộng đó bằng",
+      "chuong": "dãy số. cấp số cộng và cấp số nhân",
+      "dang": "tổng n số hạng đầu của một cấp số cộng",
+      "type": "single",
+      "options": [
+        "A. 11",
+        "B. −5",
+        "C. 25",
+        "D. 50"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cấp số cộng $(u_n)$ với $u_1 = -1$.\n- Công sai $d = 3$.\n- Yêu cầu: tính tổng năm số hạng đầu tiên của cấp số cộng đó.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu tìm $S_5$ — tổng của 5 số hạng đầu tiên của cấp số cộng.\n- Cần áp dụng các kiến thức: công thức số hạng tổng quát của cấp số cộng và công thức tính tổng n số hạng đầu tiên.\n- Các khái niệm quan trọng: *cấp số cộng*, *công sai*, *số hạng tổng quát*, *tổng n số hạng*.\n🔎 **Hướng dẫn cách làm:**\n- Công thức số hạng tổng quát của cấp số cộng: $u_n = u_1 + (n-1)d$.\n- Tính số hạng thứ 5: $u_5 = u_1 + (5-1)d = -1 + 4\\cdot 3 = -1 + 12 = 11.$\n- Công thức tổng n số hạng đầu tiên của cấp số cộng: $S_n = \\frac{n(u_1 + u_n)}{2}.$\n- Áp dụng cho $n=5$: $S_5 = \\frac{5(u_1 + u_5)}{2} = \\frac{5(-1 + 11)}{2} = \\frac{5\\cdot 10}{2} = 25.$\n- (Kiểm tra bằng cách cộng từng số hạng: $-1 + 2 + 5 + 8 + 11 = 25$, khớp với kết quả trên.)\n✅ **Đáp án:** $C. 25$"
+    },
+    {
+      "id": 7,
+      "content": "Giá trị nhỏ nhất của hàm số $f(x)=x^4-8x^2+a,,(a\\in\\mathbb{R})$ trên đoạn $[-1;3]$ bằng",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "cách tìm giá trị lớn nhất và giá trị nhỏ nhất của hàm số trên một đoạn",
+      "type": "single",
+      "options": [
+        "A. $−6$",
+        "B. $a$",
+        "C. $−16+a$",
+        "D. \\$9+a$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số $f(x)=x^4-8x^2+a,\\quad a\\in\\mathbb{R}$\n- Xét trên đoạn $[-1;3]$\n- Cần tìm giá trị nhỏ nhất của hàm số trên đoạn đó.\n- Câu hỏi yêu cầu tìm giá trị nhỏ nhất của một đa thức bậc 4 có tham số $a$ trên đoạn $[-1;3]$.\n- Kiến thức cần dùng: đạo hàm để tìm điểm tới hạn trong đoạn, đồng thời so sánh giá trị tại các điểm tới hạn và hai đầu mút của đoạn.\n🔎 **Hướng dẫn cách làm:**\n- Tính đạo hàm:\n$f'(x)=4x^3-16x=4x(x^2-4)=4x(x-2)(x+2).$\n- Tìm điểm tới hạn (nghiệm của $f'(x)=0$): $x=-2,\\,0,\\,2.$ Trong đó trên đoạn $[-1;3]$ ta chỉ quan tâm tới $x=0$ và $x=2$ (vì $-2\\notin[-1,3]$).\n- Cộng thêm hai đầu mút của đoạn: $x=-1$ và $x=3$.\n- Tính giá trị hàm tại các điểm cần xét: - $f(0)=0^4-8\\cdot0^2+a=a.$\n  - $f(2)=2^4-8\\cdot2^2+a=16-32+a=-16+a.$\n  - $f(-1)=(-1)^4-8\\cdot(-1)^2+a=1-8+a=-7+a.$\n  - $f(3)=3^4-8\\cdot3^2+a=81-72+a=9+a.$\n- So sánh các giá trị: $a,\\ -16+a,\\ -7+a,\\ 9+a.$ Thành phần không phụ thuộc vào $a$ là các hệ số trước $+a$; trong bốn số này nhỏ nhất là $-16+a$ (vì $-16< -7<0<9$). Vậy giá trị nhỏ nhất của $f$ trên đoạn là $-16+a$, đạt tại $x=2$.\n✅ **Đáp án:**  $\\text{C. }-16+a$"
+    },
+    {
+      "id": 8,
+      "content": "Tập giá trị của hàm số $y=f(x)$ trên đoạn $[-1;5]$ là\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-kscl-thpt-toan-truong-thpt-nguyen-khuyen-le-thanh-tong-tinh-tp-hcm-2026-ma-de-09/cau-08.webp\" alt=\"Hình minh họa câu 8\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "định nghĩa giá trị lớn nhất và giá trị nhỏ nhất",
+      "type": "single",
+      "options": [
+        "A. $[-1;5]$",
+        "B. $[1;3]$",
+        "C. $[-1;3]$",
+        "D. $[1;5]$"
+      ],
+      "answer": "C",
+      "explanation": "😎 **Cùng DOL xem qua cách giải câu này nhé!**\n📄 **Thông tin đề bài cho:**\n- Đồ thị hàm số trên đoạn xác định từ $x=-1$ đến $x=5$ (có các điểm đánh dấu).\n- Hàm bắt đầu tại điểm $(-1,1)$, đạt cực đại tại $(1,3)$ và kết thúc tại $(5,-1)$ (các điểm đều là chấm đặc).\n- Đường cong liên tục: từ $(-1,1)$ đi lên đến $(1,3)$ rồi đi xuống thẳng đến $(5,-1)$.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi: Tập giá trị (range) của hàm số $y=f(x)$ trên đoạn $[-1;5]$ là gì?\n- Cần xác định giá trị lớn nhất và nhỏ nhất của $y$ trên đoạn, và vì đồ thị liên tục trên đoạn nên tất cả các giá trị giữa min và max đều được hàm nhận.\n🔎 **Hướng dẫn cách làm:**\n- Dùng thông tin từ đồ thị (mô tả ảnh): - Hàm tại $x=-1$ có giá trị $y=1$ (điểm bắt đầu).\n  - Hàm có cực đại tại $x=1$ là $y=3$ (chấm đặc tại $(1,3)$), nên giá trị lớn nhất trên đoạn là \\$3$.\n  - Hàm tại $x=5$ có giá trị $y=-1$ (chấm đặc tại $(5,-1)$), nên giá trị nhỏ nhất trên đoạn là $-1$.\n- Vì đồ thị từ $x=-1$ đến $x=1$ tăng từ $y=1$ đến $y=3$, và từ $x=1$ đến $x=5$ giảm từ $y=3$ đến $y=-1$, nên mọi giá trị $y$ giữa $-1$ và \\$3$ đều xuất hiện trên đồ thị (liên tục).\n- Do đó tập giá trị của hàm trên đoạn $[-1;5]$ là đoạn giá trị từ $-1$ đến \\$3$, bao gồm cả hai đầu mút: $[-1;3]$.\n✅ **Đáp án: C. **$[-1;3]$"
+    },
+    {
+      "id": 9,
+      "content": "Mỗi ngày bác Bình đều đi bộ để rèn luyện sức khỏe. Quãng đường đi bộ mỗi ngày (đơn vị: $\\text{km}$) của bác Bình trong 20 ngày được thống kê lại như bảng sau. Khoảng biến thiên của mẫu số liệu ghép nhóm trên bảng là\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-kscl-thpt-toan-truong-thpt-nguyen-khuyen-le-thanh-tong-tinh-tp-hcm-2026-ma-de-09/cau-09.webp\" alt=\"Hình minh họa câu 9\" loading=\"lazy\"></figure>",
+      "chuong": "các số đặc trưng đo mức độ phân tán cho mẫu số liệu ghép nhóm",
+      "dang": "khoảng biến thiên",
+      "type": "single",
+      "options": [
+        "A. 1,2",
+        "B. 362",
+        "C. 3,39",
+        "D. 1,5"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Bảng tần suất cho quãng đường (km) trong 20 ngày: các lớp khoảng là [2,7; 3,0), [3,0; 3,3), [3,3; 3,6), [3,6; 3,9), [3,9; 4,2).\n- Tần suất tương ứng (số ngày): 3, 6, 5, 4, 2 (tổng = 20 ngày).\n- Yêu cầu: tính **khoảng biến thiên** của mẫu số liệu ghép nhóm này.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu tính *khoảng biến thiên* (range) của dữ liệu được cho theo lớp.\n- Kiến thức cần dùng: định nghĩa khoảng biến thiên là hiệu giữa giá trị lớn nhất và nhỏ nhất của mẫu; với dữ liệu ghép nhóm ta lấy mốc biên của lớp đầu và lớp cuối làm min và max.\n🔎 **Hướng dẫn cách làm:**\n- Nhắc lại công thức: $\\text{Khoảng biến thiên} = \\max - \\min$\n- Với dữ liệu ghép nhóm: - Giá trị nhỏ nhất (min) được lấy là biên dưới của lớp đầu: $\\min = 2,7.$\n  - Giá trị lớn nhất (max) được lấy là biên trên của lớp cuối: $\\max = 4,2.$\n- Thay vào công thức:\n$\\text{Khoảng biến thiên} = 4,2 - 2,7 = 1,5.$\n- Nhận xét: vì bảng cho theo các lớp [2,7;...;4,2), ta dùng biên của lớp cuối (4,2) và biên của lớp đầu (2,7) để ước lượng khoảng biến thiên.\n✅ **Đáp án:**  $D. 1,5$"
+    },
+    {
+      "id": 10,
+      "content": "Trong không gian Oxyz, cho hai điểm $A(1;1;2)$ và $B(3;1;0)$. Trung điểm của đoạn thẳng $AB$ có tọa độ là",
+      "chuong": "vectơ và hệ trục tọa độ trong không gian",
+      "dang": "tọa độ của điểm, tọa độ của vectơ trong không gian",
+      "type": "single",
+      "options": [
+        "A. $(2;1;1)$",
+        "B. $(4;2;2)$",
+        "C. $(2;0;-2)$",
+        "D. $(1;0;-1)$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Điểm A có toạ độ $A(1;1;2)$.\n- Điểm B có toạ độ $B(3;1;0)$.\n- Bài toán yêu cầu tìm trung điểm của đoạn thẳng $AB$ trong không gian $Oxyz$.\n❓ **Hiểu câu hỏi:**\n- Bài toán hỏi: toạ độ trung điểm của đoạn thẳng nối hai điểm A và B là gì?\n- Cần áp dụng công thức trung điểm trong không gian 3 chiều:\n$M\\left(\\dfrac{x_A+x_B}{2},\\dfrac{y_A+y_B}{2},\\dfrac{z_A+z_B}{2}\\right).$\n🔎 **Hướng dẫn cách làm:**\n- Viết công thức trung điểm cho hai điểm $A(x_A,y_A,z_A)$ và $B(x_B,y_B,z_B)$:\n$M\\left(\\dfrac{x_A+x_B}{2},\\dfrac{y_A+y_B}{2},\\dfrac{z_A+z_B}{2}\\right).$\n- Thay toạ độ của $A(1;1;2)$ và $B(3;1;0)$ vào công thức:\n$M\\left(\\dfrac{1+3}{2},\\dfrac{1+1}{2},\\dfrac{2+0}{2}\\right).$\n- Tính từng thành phần: - Hoành độ: $\\dfrac{1+3}{2}=\\dfrac{4}{2}=2.$\n  - Tung độ: $\\dfrac{1+1}{2}=\\dfrac{2}{2}=1.$\n  - Cao độ (tọa độ z): $\\dfrac{2+0}{2}=\\dfrac{2}{2}=1.$\n- Vậy trung điểm có toạ độ $M(2;1;1)$, tương ứng với đáp án trong danh sách lựa chọn.\n✅ **Đáp án:** $A. (2;1;1)$"
+    },
+    {
+      "id": 11,
+      "content": "Đường tiệm cận xiên của đồ thị hàm số $y=\\dfrac{x^2+2x-2}{x-2}$ là",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "đường tiệm cận xiên",
+      "type": "single",
+      "options": [
+        "A. $y=-x+3$",
+        "B. $y=x+3$",
+        "C. $y=x-3$",
+        "D. $y=x+4$"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số: $y=\\dfrac{x^2+2x-2}{x-2}$\n- Yêu cầu: tìm *đường tiệm cận xiên* của đồ thị hàm số trên.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi hỏi: \"Đường tiệm cận xiên của đồ thị hàm số là gì?\" — tức là tìm đường thẳng dạng $y=mx+b$ mà đồ thị tiến tới khi $x\\to\\pm\\infty$.\n- Kiến thức cần dùng: phép chia đa thức (chia đa thức để tìm thương và dư) và giới hạn khi $x\\to\\infty$ để xác định đường tiệm cận xiên.\n🔎 **Hướng dẫn cách làm:**\n- Chia đa thức: chia tử số $x^2+2x-2$ cho mẫu $x-2$.\n- Thực hiện chia: - Lấy thuật toán chia: $x^2\\div x = x$. Nhân: $x(x-2)=x^2-2x$.\n  - Lấy hiệu: $(x^2+2x-2)-(x^2-2x)=4x-2$.\n  - Tiếp tục: \\$4x\\div x=4$. Nhân: \\$4(x-2)=4x-8$.\n  - Lấy hiệu: $(4x-2)-(4x-8)=6$ (là phần dư).\n- Suy ra:\n$\\dfrac{x^2+2x-2}{x-2}=x+4+\\dfrac{6}{x-2}.$\n- Khi $x\\to\\pm\\infty$ thì $\\dfrac{6}{x-2}\\to 0$, nên đồ thị tiến tới đường thẳng\n$y=x+4.$\n- Vậy *đường tiệm cận xiên* là $y=x+4$.\n✅ **Đáp án:**  $\\text{D. }y=x+4$"
+    },
+    {
+      "id": 12,
+      "content": "Trong không gian Oxyz, cho điểm $A(-3;1;-4)$, $B(1;-5;2)$. Đường thẳng $AB$ cắt mặt phẳng $(Oxy)$ tại điểm",
+      "chuong": "phương pháp tọa độ trong không gian",
+      "dang": "phương trình đường thẳng",
+      "type": "single",
+      "options": [
+        "A. $M(-\\tfrac13;-3;0)$",
+        "B. $N(\\tfrac13;3;0)$",
+        "C. $P(0;3;1)$",
+        "D. $Q(-3;1;0)$"
+      ],
+      "answer": "A",
+      "explanation": "😎 **Cùng DOL xem qua cách giải câu này nhé!**\n📄 **Thông tin đề bài cho:**\n- Điểm $A(-3;1;-4)$.\n- Điểm $B(1;-5;2)$.\n- Mặt phẳng $(Oxy)$ (tức là mặt phẳng có $z=0$).\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu tìm giao điểm giữa đường thẳng $AB$ và mặt phẳng $(Oxy)$.\n- Cần áp dụng kiến thức về **phương trình tham số của đường thẳng** và **điều kiện để một điểm thuộc mặt phẳng Oxy** ($z=0$).\n🔎 **Hướng dẫn cách làm:**\n- Tính vectơ chỉ phương của $AB$:\n$\\overrightarrow{AB}=B-A=(1-(-3);,-5-1;,2-(-4))=(4;-6;6).$\n- Viết phương trình tham số của đường thẳng $AB$ (lấy tham số $t$, với $t=0$ tại $A$)\n- Giao với mặt phẳng $(Oxy)$ có điều kiện $z=0$, suy ra:\n$-4+6t=0\\Rightarrow t=\\dfrac{4}{6}=\\dfrac{2}{3}.$\n- Thay $t=\\dfrac{2}{3}$ vào các tọa độ:\n$x=-3+4\\cdot\\dfrac{2}{3}=-3+\\dfrac{8}{3}=-\\dfrac{1}{3},$\n$y=1-6\\cdot\\dfrac{2}{3}=1-4=-3,$\n$z=0.$\n- Vậy giao điểm là:  $M\\left(-\\dfrac{1}{3};-3;0\\right).$\n✅ **Đáp án:   ** $M\\left(-\\dfrac{1}{3};-3;0\\right)$"
+    }
+  ]
+}

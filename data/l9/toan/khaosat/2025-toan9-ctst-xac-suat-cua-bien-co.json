@@ -1,0 +1,195 @@
+{
+  "id": "l9-toan-khaosat-2025-toan9-ctst-xac-suat-cua-bien-co",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2025,
+  "code": "Xác suất của biến cố",
+  "title": "TOAN9 - CTST - Xác suất của biến cố",
+  "duration": 15,
+  "answerSource": "official",
+  "sourceId": "hochanh:7274",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "I. Nhận biết\nCho phép thử \\(T\\) , xét biến cố \\(E\\) . Kết quả của phép thử \\(T\\) làm cho biến cố \\(E\\) xảy ra được gọi là",
+      "options": [
+        "A. Kết quả đúng với \\(E\\) .",
+        "B. Kết quả phù hợp với \\(E\\) .",
+        "C. Kết quả của \\(E\\) .",
+        "D. Kết quả thuận lợi cho \\(E\\) ."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Giả sử các kết quả có thể của phép thử T là đồng khả năng xảy ra. Khi đó xác suất của biến cố \\(E\\) có liên quan tới T được ký hiệu là",
+      "options": [
+        "A. \\(A\\left( E \\right)\\) .",
+        "B. \\(P\\left( E \\right)\\) .",
+        "C. \\(Q\\left( E \\right)\\) .",
+        "D. \\(n\\left( E \\right)\\) ."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Trong các phép thử sau, phép thử mà các kết quả không có cùng khả năng xảy ra là",
+      "options": [
+        "A. Gieo một đồng xu cân đối và đồng chất.",
+        "B. Lấy ngẫu nhiên 1 viên bi từ một hộp có 10 viên bi giống nhau được đánh số từ 1 đến 10.",
+        "C. Lấy ngẫu nhiên 1 tấm thẻ từ một hộp chứa 2 tấm thẻ ghi số 5 và 5 tấm thẻ ghi số 2 và xem số của nó.",
+        "D. Các kết quả của các phép thử trên đều có cùng khả năng xảy ra."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Xét một phép thử có không gian mẫu \\(\\Omega \\) và \\(A\\) là một biến cố của phép thử đó. Xác suất của biến cố \\(A\\) là",
+      "options": [
+        "A. \\(P\\left( A \\right) = \\frac{{n\\left( A \\right)}}{{n\\left( \\Omega \\right)}}\\) .",
+        "B. \\(P\\left( A \\right) = \\frac{{n\\left( \\Omega \\right)}}{{n\\left( A \\right)}}\\) .",
+        "C. \\(P\\left( A \\right) = n\\left( A \\right).n\\left( \\Omega \\right)\\) .",
+        "D. \\(n\\left( A \\right) = n\\left( \\Omega \\right)\\) ."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Chọn ngẫu nhiên một số tự nhiên từ 1 đến 10. Xác suất của biến cố \\(A\\) : “Số được chọn là 10” là",
+      "options": [
+        "A. \\(\\frac{4}{{10}}\\) .",
+        "B. \\(\\frac{3}{{10}}\\) .",
+        "C. \\(\\frac{2}{{10}}\\) .",
+        "D. \\(\\frac{1}{{10}}\\) ."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "II. Thông hiểu\nMột đĩa tròn bằng bìa cứng được chia làm 12 phần bằng nhau và ghi các số \\(1\\,;\\,\\,2\\,;\\,\\,3\\,;\\,\\,...\\,;\\,\\,12.\\) Chiếc kim được gắn cố định vào trục quay ở tâm của đĩa. Xét phép thử “Quay đĩa tròn một lần”. Xác suất của biến cố \\(D\\) : “Chiếc kim chỉ vào hình quạt ghi số nguyên tố” là:",
+      "options": [
+        "A. \\(P\\left( D \\right) = \\frac{3}{{12}}\\) .",
+        "B. \\(P\\left( D \\right) = \\frac{5}{{12}}\\) .",
+        "C. \\(P\\left( D \\right) = \\frac{7}{{12}}\\) .",
+        "D. \\(P\\left( D \\right) = \\frac{9}{{12}}\\) ."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Một hộp có 20 viên bi với kích thước và khối lượng như nhau. Bạn Ngân viết lên các viên bi đó các số \\(1\\,;\\,\\,2\\,;\\,\\,3\\,;\\,\\,...\\,;\\,\\,20;\\) hai viên bi khác nhau thì viết hai số khác nhau. Xét phép thử “Lấy ngẫu nhiên một viên bi trong hộp”. Xác suất của biến cố \\(D\\) : “Số xuất hiện trên viên bi được lấy ra chia 7 dư 1” là",
+      "options": [
+        "A. \\(\\frac{3}{{20}}\\) .",
+        "B. \\(\\frac{5}{{20}}\\) .",
+        "C. \\(\\frac{7}{{20}}\\) .",
+        "D. \\(\\frac{9}{{20}}\\) ."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Viết ngẫu nhiên một số tự nhiên lớn hơn 499 và nhỏ hơn \\(1\\,\\,000.\\) Số kết quả có thể xảy ra của phép thử là",
+      "options": [
+        "A. 300.",
+        "B. 400.",
+        "C. 500.",
+        "D. 501."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "content": "Một hộp có 52 chiếc thẻ cùng loại, mỗi thẻ được ghi một trong các số \\(1\\,,\\,\\,2\\,,\\,\\,3\\,,\\,\\,...\\,,\\,\\,52;\\) hai thẻ khác nhau thì ghi số khác nhau. Rút ngẫu nhiên một thẻ trong hộp. Xác suất các biến cố “Số xuất hiện trên thẻ được rút ra là số lớn hơn 19 và nhỏ hơn 51” là",
+      "options": [
+        "A. \\(\\frac{1}{2}\\) .",
+        "B. \\(\\frac{1}{3}\\) .",
+        "C. \\(\\frac{{31}}{{52}}\\) .",
+        "D. \\(\\frac{{37}}{{52}}\\) ."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "content": "Nhóm học sinh tình nguyện khối 9 của một trường trung học cơ sở có 6 bạn, trong đó có 3 bạn nam là: Trung (lớp 9A); Quý (lớp 9A); Việt (lớp 9C) và 3 bạn nữ là: An (lớp 9A); Châu (lớp 9B); Hương (lớp 9D). Chọn ngẫu nhiên một bạn trong nhóm đó để tham gia hoạt động tình nguyện của trường. Xác suất của biến cố “Bạn được chọn thuộc lớp 9A” là",
+      "options": [
+        "A. \\(\\frac{1}{2}\\) .",
+        "B. \\(\\frac{1}{3}\\) .",
+        "C. \\(\\frac{1}{4}\\) .",
+        "D. \\(\\frac{1}{5}\\) ."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 11,
+      "type": "single",
+      "content": "Trên mặt phẳng cho năm điểm phân biệt A, B, C, D, E, trong đó không có ba điểm nào thẳng hàng. Hai điểm A, B được tô màu đỏ, ba điểm C, D, E được tô màu xanh. Bạn Châu chọn ra ngẫu nhiên một điểm tô màu đỏ và một điểm tô màu xanh (trong năm điểm đó) để nối thành một đoạn thẳng. Số kết quả có thể xảy ra là",
+      "options": [
+        "A. 5.",
+        "B. 6.",
+        "C. 7.",
+        "D. 8."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 12,
+      "type": "single",
+      "content": "Bạn Tùng gieo một con xúc xắc liên tiếp hai lần. Xác suất của biến cố \\(D\\) : “Kết quả lần gieo thứ nhất là 6” là:",
+      "options": [
+        "A. \\(\\frac{1}{6}\\) .",
+        "B. \\(\\frac{1}{{36}}\\) .",
+        "C. \\(\\frac{1}{3}\\) .",
+        "D. \\(\\frac{1}{{24}}\\) ."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 13,
+      "type": "single",
+      "content": "III. Vận dụng\nGieo một đồng xu cân đối và đồng chất 3 lần. Xác suất để cả ba lần đều xuất hiện mặt sấp là",
+      "options": [
+        "A. \\(\\frac{4}{8}\\) .",
+        "B. \\(\\frac{2}{8}\\) .",
+        "C. \\(\\frac{1}{8}\\) .",
+        "D. \\(\\frac{6}{8}\\) ."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 14,
+      "type": "single",
+      "content": "Chọn ngẫu nhiên một số có 2 chữ số. Xác suất để tích hai chữ số của số được chọn bằng 8 là",
+      "options": [
+        "A. \\(\\frac{1}{{45}}\\) .",
+        "B. \\(\\frac{2}{{45}}\\) .",
+        "C. \\(\\frac{1}{{16}}\\) .",
+        "D. \\(\\frac{1}{{30}}\\) ."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 15,
+      "type": "single",
+      "content": "Bạn Tùng gieo một con xúc xắc liên tiếp hai lần.\nXét các biến cố sau:\nE: “Cả hai lần gieo con xúc xắc đều xuất hiện mặt có số chấm là số nguyên tố”;\nF: “Cả hai lần gieo con xúc xắc đều không xuất hiện mặt có số chấm là số chẵn”.\nBiến cố nào có xác suất xảy ra lớn hơn?",
+      "options": [
+        "A. Biến cố E.",
+        "B. Biến cố F.",
+        "C. Hai biến cố có xác suất xảy ra bằng nhau.",
+        "D. Không thể xác định được."
+      ],
+      "answer": "C"
+    }
+  ]
+}

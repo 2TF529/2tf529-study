@@ -1,0 +1,134 @@
+{
+  "id": "l11-tin-cuoiki2-2026-de-thi-cuoi-ki-2-tin-hoc-11-co-dap-an-nam-2026-24cefc6dd4-de-01",
+  "grade": "l11",
+  "subjectSlug": "tin",
+  "examType": "cuoiki2",
+  "year": 2026,
+  "code": "Đề 01",
+  "title": "Đề thi Cuối kì 2 Tin học 11 có đáp án năm 2026 - Đề 01",
+  "duration": 45,
+  "answerSource": "missing",
+  "sourceUrl": "https://www.vietjack.com/de-kiem-tra-lop-11/de-kiem-tra-hoc-ki-2-tin-hoc-11.jsp",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 1:&lt;/strong&gt; Biến Hoten lưu trữ giá trị hằng xâu ‘Nguyen Van Troi’ thì Hoten[7] cho ta kí tự là:",
+      "options": [
+        "A. ‘ ’",
+        "B. ‘y’",
+        "C. ‘e’",
+        "D. ‘n’"
+      ],
+      "answer": null
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 2:&lt;/strong&gt; Trong Pascal, cú pháp khai báo biến kiểu xâu là:",
+      "options": [
+        "A. Var &lt; độ dài lớn nhất của xâu &gt; = string [tên biến xâu] ;",
+        "B. Var &lt;tên biến xâu&gt; = string [độ dài lớn nhất của xâu] ;",
+        "C. Var &lt;tên biến xâu&gt; : string [độ dài lớn nhất của xâu] ;",
+        "D. Var &lt; độ dài lớn nhất của xâu &gt; : string [tên biến xâu] ;"
+      ],
+      "answer": null
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 3&lt;/strong&gt;: Cho đoạn chương trình sau:\n&lt;strong&gt;write(‘abc’+‘123456’);&lt;/strong&gt;\n&lt;strong&gt;Kết quả in ra màn hình là:&lt;/strong&gt;",
+      "options": [
+        "A. ‘123456abc’",
+        "B. ‘abc123456’",
+        "C. ‘123456’",
+        "D. ‘abc’"
+      ],
+      "answer": null
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 4&lt;/strong&gt;: Trong các phát biểu sau, phát biểu nào sai?",
+      "options": [
+        "A. Xâu A lớn hơn xâu B nếu kí tự dầu tiên khác nhau giữa chúng kể tử trái sang trong xâu A có mã ASCII lớn hơn",
+        "B. Xâu A lớn hơn xâu B nếu độ dài xâu A lớn hơn độ dài xâu B",
+        "C. Nếu A và B là các xâu có độ dài khác nhau và A là đoạn đầu của B thì A nhỏ hơn B",
+        "D. Hai xâu bằng nhau nếu chúng giống nhau hoàn toàn"
+      ],
+      "answer": null
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 5&lt;/strong&gt;: Cho đoạn chương trình sau:\n&lt;strong&gt;s := ‘123456789’;&lt;/strong&gt;\n&lt;strong&gt;delete (s, 1, 8);&lt;/strong&gt;\n&lt;strong&gt;write(s);&lt;/strong&gt;\n&lt;strong&gt;Kết quả in ra màn hình là:&lt;/strong&gt;",
+      "options": [
+        "A. ‘6789’",
+        "B. ‘789’",
+        "C. ‘9’",
+        "D. ‘’"
+      ],
+      "answer": null
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 6&lt;/strong&gt;: Cho đoạn chương trình sau:\n&lt;strong&gt;s1 := ‘123’; s2 := ‘abcd’; &lt;/strong&gt;\n&lt;strong&gt;insert (s1, s2 ,3);&lt;/strong&gt;\n&lt;strong&gt;write(s2);&lt;/strong&gt;\n&lt;strong&gt;Kết quả in ra màn hình là:&lt;/strong&gt;",
+      "options": [
+        "A. ‘ab123cd’",
+        "B. ‘123abcd’",
+        "C. ‘a123bcd’",
+        "D. ‘abc123d’"
+      ],
+      "answer": null
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 7&lt;/strong&gt;: Cho đoạn chương trình sau:\n&lt;strong&gt;s1 := ‘123456789’;&lt;/strong&gt;\n&lt;strong&gt;s2 := copy(s1, 3, 5);&lt;/strong&gt;\n&lt;strong&gt;write(s2);&lt;/strong&gt;\n&lt;strong&gt;Kết quả in ra màn hình là:&lt;/strong&gt;",
+      "options": [
+        "A. ‘567’",
+        "B. 567",
+        "C. 34567",
+        "D. ‘34567’"
+      ],
+      "answer": null
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 8&lt;/strong&gt;: Cho đoạn chương trình sau:\n&lt;strong&gt;s := ‘200 ki tu’; &lt;/strong&gt;\n&lt;strong&gt;write(length(s));&lt;/strong&gt;\n&lt;strong&gt;Kết quả in ra màn hình là:&lt;/strong&gt;",
+      "options": [
+        "A. 200",
+        "B. 9",
+        "C. ‘9’",
+        "D. ‘200’"
+      ],
+      "answer": null
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 9&lt;/strong&gt;: Cho đoạn chương trình sau:\n&lt;strong&gt;s1 := ‘1010’; s2 := ‘1001010’;&lt;/strong&gt;\n&lt;strong&gt;write(pos(s1, s2)); &lt;/strong&gt;\n&lt;strong&gt;Kết quả in ra màn hình là:&lt;/strong&gt;",
+      "options": [
+        "A. 0",
+        "B. ‘0’",
+        "C. 4",
+        "D. ‘4’"
+      ],
+      "answer": null
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 10&lt;/strong&gt;: Cho đoạn chương trình sau:\n&lt;strong&gt;s := 'Mua Thu';&lt;/strong&gt;\n&lt;strong&gt;write(upcase(s[5]));&lt;/strong&gt;\n&lt;strong&gt;Kết quả in ra màn hình là:&lt;/strong&gt;",
+      "options": [
+        "A. ‘M’",
+        "B. ‘U’",
+        "C. ‘A’",
+        "D. ‘T’"
+      ],
+      "answer": null
+    }
+  ]
+}

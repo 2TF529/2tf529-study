@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-bo-19-de-thi-giua-ki-1-toan-11-co-dap-an",
+  "sourceId": "vietjack:2-bo-19-de-thi-giua-ki-1-toan-11-co-dap-",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "giuaki1",
+  "year": 2026,
+  "title": "2.Bộ 19 đề thi Giữa kì 1 Toán 11 có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh chỉ chọn một phương án. Cho dãy số u 1 = 4 u n + 1 = u n + n . Năm số hạng đầu của dãy số là",
+      "options": [
+        "A. \\[4,\\,16,\\,32,\\,64,\\,128.\\]",
+        "B. \\[4,\\,6,\\,9,\\,13,\\,18.\\]",
+        "C. \\[4,\\,5,\\,7,\\,10,\\,14.\\]",
+        "D. \\[4,\\,5,\\,6,\\,7,\\,8.\\]"
+      ],
+      "answer": "C",
+      "note": "Chọn C"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Trong các công thức sau, công thức nào sai ?",
+      "options": [
+        "A. \\[\\cot 2x = \\frac{{{{\\cot }^2}x - 1}}{{2\\cot x}}\\] .",
+        "B. \\[\\cos 3x = 4{\\cos ^3}x - 3\\cos x\\] .",
+        "C. \\[\\tan 2x = \\frac{{2\\tan x}}{{1 + {{\\tan }^2}x}}\\] .",
+        "D. \\[\\sin 3x = 3\\sin x - 4{\\sin ^3}x\\] ."
+      ],
+      "answer": "C",
+      "note": "Chọn C Ta có \\[\\tan 2x = \\frac{{\\sin 2x}}{{\\cos 2x}} = \\frac{{2\\sin x\\cos x}}{{2{{\\cos }^2}x - 1}} = \\frac{{{{\\cos }^2}x\\left( {\\frac{{2\\sin x}}{{\\cos x}}} \\right)}}{{{{\\cos }^2}x\\left( {2 - \\frac{1}{{{{\\cos }^2}x}}} \\right)}} = \\frac{{2\\tan x}}{{2 - \\left( {1 + {{\\tan }^2}x} \\right)}} = \\frac{{2\\tan x}}{{1 - {{\\tan }^2}x}}\\]"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trong các mệnh đề sau, mệnh đề nào đúng ?",
+      "options": [
+        "A. Hai đường thẳng phân biệt không song song thì cheo nhau.",
+        "B. Hai đường thẳng lần lượt nằm trên hai mặt phẳng phân biệt thì chéo nhau.",
+        "C. Hai đường thẳng chéo nhau thì không có điểm chung.",
+        "D. Hai đường thẳng không có điểm chung thì chéo nhau."
+      ],
+      "answer": "C",
+      "note": "Chọn C Đáp án C đúng, vì hai đường thẳng chéo nhau là hai đường thẳng không cùng nằm trong mặt phẳng nên chúng không có điểm chung."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho cấp số cộng \\(\\left( {{u_n}} \\right)\\) có số hạng đầu \\({u_1}\\) và công sai \\(d\\) . Công thức tìm số hạng tổng quát \\({u_n}\\) là:",
+      "options": [
+        "A. \\({u_n} = n{u_1} + d\\) .",
+        "B. \\({u_n} = {u_1} + nd\\) .",
+        "C. \\({u_n} = {u_1} + \\left( {n - 1} \\right)d\\) .",
+        "D. \\({u_n} = {u_1} + \\left( {n + 1} \\right)d\\) ."
+      ],
+      "answer": "C",
+      "note": "Chọn C Công thức tìm số hạng tổng quát \\({u_n}\\)là: \\({u_n} = {u_1} + \\left( {n - 1} \\right)d.\\)"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Trong tam giác \\[ABC\\] , đẳng thức nào dưới đây luôn đúng?",
+      "options": [
+        "A. \\[{\\rm{cos}}\\,A = \\sin \\,B\\] .",
+        "B. \\[{\\rm{cos}}\\frac{{A + B}}{2} = \\sin \\frac{C}{2}\\] .",
+        "C. \\(\\tan \\,A = \\cot \\left( {B + \\frac{\\pi }{2}} \\right)\\) .",
+        "D. \\(\\sin \\left( {A + B} \\right) = {\\rm{cos }}C\\) ."
+      ],
+      "answer": "B",
+      "note": "Chọn B Ta có: \\[{\\rm{cos}}\\frac{{A + B}}{2} = {\\rm{cos}}\\frac{{{{180}^0} - C}}{2} = {\\rm{cos}}\\left( {{{90}^0} - \\frac{C}{2}} \\right) = \\sin \\frac{C}{2}\\]."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho tứ diện \\(ABCD\\). Gọi \\(M\\,,\\,\\,N\\) lần lượt là trung điểm của \\(AB\\,,\\,CD\\) và điểm \\(P\\) thuộc cạnh \\(BC\\) sao cho \\(P\\) không là trung điểm của \\(BC\\). Cặp đường thẳng nào sau đây không cắt nhau?",
+      "options": [
+        "A. \\(MN\\) và \\(BD\\) .",
+        "B. \\(MP\\) và \\(AC\\) .",
+        "C. \\(PN\\) và \\(BD\\) .",
+        "D. \\(AP\\) và \\(CM\\) ."
+      ],
+      "answer": "A",
+      "note": "Chọn A"
+    }
+  ]
+}

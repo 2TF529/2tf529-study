@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-10-bai-tap-tinh-xac-suat-cua-bien-co-lien-quan-den-phep-thu-khi",
+  "sourceId": "vietjack:2-10-bai-tap-tinh-xac-suat-cua-bien-co-l",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.10 bài tập Tính xác suất của biến cố liên quan đến phép thử khi các kết quả của phép thử đồng khả năng có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Gieo hai đồng xu cân đối và đồng chất. Xác suất của biến cố “Hai đồng xu đều xuất hiện mặt sấp” là",
+      "options": [
+        "A. \\[\\frac{1}{4}.\\]",
+        "B. 1.",
+        "C. \\[\\frac{3}{4}.\\]",
+        "D. \\[\\frac{1}{2}.\\]"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Số không gian mẫu của phép thử là: Ω = {SS, SN, NS, NN} nên n(Ω) = 4. Kết quả thuận lợi cho biến cố “Hai đồng xu đều xuất hiện mặt sấp” là: SS. Do đó, có 1 kết quả thuận lợi cho biến cố trên. Suy ra xác suất của biến cố này là: \\[\\frac{1}{4}.\\]"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Gieo một con xúc xắc cân đối và đồn chất. Xác suất của biến cố “Xuất hiện mặt có số chấm là bội của 3” là",
+      "options": [
+        "A. \\[\\frac{1}{6}.\\]",
+        "B. \\[\\frac{1}{3}.\\]",
+        "C. \\[\\frac{1}{2}.\\]",
+        "D. \\[\\frac{2}{3}.\\]"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Không gian mẫu Ω = {mặt 1 chấm, mặt 2 chấm, mặt 3 chấm, mặt 4 chấm, mặt 5 chấm; mặt 6 chấm} Do đó, số phần tử của không gian mẫu là 6 phần tử. Kết quả thuận lợi cho biến cố “Xuất hiện mặt có số chấm là 3” là: mặt 3 chấm, mặt 6 chấm. Suy ra xác suất của biến cố đó là: \\[\\frac{2}{6} = \\frac{1}{3}.\\]"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: An có 10 tấm thẻ cùng loại được đánh số từ 1 đến 10. An rút ngẫu nhiên một tấm thẻ. Xác suất của biến cố “Lấy được tấm thẻ ghi số có hai chữ số” là",
+      "options": [
+        "A. 1 10 .",
+        "B. 1 5 .",
+        "C. 9 10 .",
+        "D. 1."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Số phần tử của không gian mẫu là 10 phần tử. Kết quả thuận lợi cho biến cố “An lấy được tấm thẻ ghi số có hai chữ số” là thẻ số 10. Do đó, có 1 kết quả thuận lợi cho biến cố trên. Xác suất của biến cố đó là: 1 10 ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Nam gieo một con xúc xắc, Hà gieo một đồng xu đều cân đối và đồng chất. Xác suất của biến cố “Con xúc xắc xuất hiện mặt 6 chấm” là",
+      "options": [
+        "A. 1 12 .",
+        "B. Phương án B",
+        "C. Phương án C",
+        "D. Phương án D"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có bảng sau: Nam Hà Mặt 1 chấm Mặt 2 chấm Mặt 3 chấm Mặt 4 chấm Mặt 5 chấm Mặt 6 chấm S (S; 1) (S; 2) (S; 3) (S; 4) (S; 5) (S; 6) N (N; 1) (N; 2) (N; 3) (N; 4) (N; 5) (N; 6) Do đó, không gian mẫu của phép thử có 12 phần tử. Kết quả thuận lợi của biến cố “Con xúc xắc xuất hiện mặt 6 chấm” là (S; 6); (N; 6). Do đó có 2 kết quả thuận lợi cho biến cố. Suy ra xác suất của biến cố là:"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Bình và Minh đều có 10 tấm thẻ cùng loại được đánh số từ 1 đến 10. Hai bạn đồng thời rút ngẫu nhiên một tấm thẻ. Xác suất của biến cố “Tích chữ số trên hai tấm thẻ được rút ra là số nhỏ hơn 4” là",
+      "options": [
+        "A. 1 20 .",
+        "B. 4 100 .",
+        "C. 4 10 .",
+        "D. 6 100 ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Số phần tử của không gian mẫu là: 10.10 = 100 (phần tử). Kết quả thuận lợi cho biến cố “Tích chữ số trên hai tấm thẻ được rút ra là số nhỏ hơn 4” là (1; 1); (1; 2); (1; 3); (2; 1); (3; 1). Do đó, có 5 kết quả thuận lợi cho biến cố trên. Suy ra xác suất của biến cố đó là: 5 100 = 1 20"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Viết ngẫu nhiên một số tự nhiên lớn hơn 299 và nhỏ hơn 601. Xác suất của biến cố “Số tự nhiên được viết ra chia hết cho 9” là",
+      "options": [
+        "A. 32 301",
+        "B. 33 301",
+        "C. 32 300",
+        "D. 33 300"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có: Ω = {300; 301; …; 599; 600}. Do đó, số phần tử không gian mẫu là: (600 – 300) : 1 + 1 = 301 (phần tử). Kết quả thuận lợi của biến cố “Số tự nhiên được viết ra chi hết cho 9” là: {306; 315; …; 594}. Do đó, số kết quả thuận lợi là: (594 – 306) : 9 + 1 = 33. Suy ra, xác suất của biến cố “Số tự nhiên được viết ra chia hết cho 9” là: 33 301"
+    }
+  ]
+}

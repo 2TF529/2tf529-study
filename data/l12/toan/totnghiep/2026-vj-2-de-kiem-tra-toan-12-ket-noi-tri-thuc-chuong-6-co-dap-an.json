@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-de-kiem-tra-toan-12-ket-noi-tri-thuc-chuong-6-co-dap-an",
+  "sourceId": "vietjack:2-de-kiem-tra-toan-12-ket-noi-tri-thuc-c",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "title": "2.Đề kiểm tra Toán 12 Kết nối tri thức Chương 6 có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho hai biến cố \\[A\\] và \\[B\\], với \\[P\\left( B \\right) = 0,8\\], \\[P\\left( {AB} \\right) = 0,4\\]. Tính \\[P\\left( {A|B} \\right)\\].",
+      "options": [
+        "A. \\(\\frac{1}{2}\\).",
+        "B. \\(\\frac{1}{4}\\).",
+        "C. \\(\\frac{1}{8}\\).",
+        "D. \\(2\\)."
+      ],
+      "answer": "A",
+      "note": "Chọn đáp án A Ta có: \\[P\\left( {A|B} \\right) = \\frac{{P\\left( {AB} \\right)}}{{P\\left( B \\right)}} = \\frac{{0,4}}{{0,8}} = \\frac{1}{2}\\]."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hai xúc xắc cân đối và đồng chất. Gieo lần lượt từng xúc xắc trong hai xúc xắc đó. Xét các biến cố: A: “Tổng số chấm trên hai xúc xắc bằng 7”; B: “Xúc xắc thứ nhất xuất hiện mặt 1 chấm”. Tính \\(P\\left( {\\left. {A\\,} \\right|B} \\right)\\).",
+      "options": [
+        "A. \\(6\\).",
+        "B. \\(36\\).",
+        "C. \\(\\frac{1}{{36}}\\).",
+        "D. \\(\\frac{1}{6}\\)."
+      ],
+      "answer": "A",
+      "note": "Chọn đáp án A Không gian mẫu có số phần tử là 36. Xác suất để tổng số chấm xuất hiện trên hai xúc xắc bằng 7, biết rằng xúc xắc thứ nhất xuất hiện mặt 1 chấm, là xác suất có điều kiện \\(P\\left( {\\left. {A\\,} \\right|B} \\right)\\). Biến cố \\(A \\cap B\\) chỉ có 1 kết quả thuận lợi là xúc xắc thứ nhất xuất hiện mặt 1 chấm và xúc xắc thứ hai xuất hiện mặt 6 chấm nên \\(P\\left( {A \\cap B} \\right) = \\frac{1}{{36}}.\\) Có 6 khả năng xảy ra khi xúc xắc thứ nhất xuất hiện mặt 1 chấm nên \\(P\\left( B \\right) = \\frac{6}{{36}} = \\frac{1}{6}\\). Suy ra: \\(P\\left( {\\left. {A\\,} \\right|B} \\right) = \\frac{{P\\left( {A \\cap B} \\right)}}{{P\\left( B \\right)}} = \\frac{{\\frac{1}{{36}}}}{{\\frac{1}{6}}} = \\frac{1}{6}\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho hai biến cố \\(A,\\,B\\) với \\(P\\left( B \\right) = 0,8;P\\left( {A|B} \\right) = 0,5\\). Tính \\[P\\left( {AB} \\right)\\].",
+      "options": [
+        "A. \\(\\frac{3}{7}\\).",
+        "B. \\(0,4\\).",
+        "C. \\(0,8\\).",
+        "D. \\(0,5\\)."
+      ],
+      "answer": "B",
+      "note": "Chọn đáp án B Ta có \\(P\\left( {AB} \\right) = P\\left( {A|B} \\right)P\\left( B \\right) = 0,5.0,8 = 0,4\\)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hai biến cố \\(A\\) và \\(B\\) với \\(P\\left( B \\right) = 0,8\\), \\(P\\left( {A|B} \\right) = 0,7\\), \\(P\\left( {A|\\overline B } \\right) = 0,45\\). Tính \\(P\\left( A \\right)\\).",
+      "options": [
+        "A. \\(0,25\\).",
+        "B. \\(0,65\\).",
+        "C. \\(0,55\\).",
+        "D. \\(0,5\\)."
+      ],
+      "answer": "B",
+      "note": "Chọn đáp án B Ta có: \\(P\\left( {\\overline B } \\right) = 1 - P\\left( B \\right) = 1 - 0,8 = 0,2\\). Công thức xác suất toàn phần: \\(P\\left( A \\right) = P\\left( B \\right).P\\left( {A|B} \\right) + P\\left( {\\overline B } \\right).P\\left( {A|\\overline B } \\right) = 0,8.0,7 + 0,2.0,45 = 0,65\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Giả sử \\(A\\) và \\(B\\) là hai biến cố ngẫu nhiên thỏa mãn \\(P\\left( A \\right) > 0\\) và \\[0 < P\\left( B \\right) < 1\\]. Khẳng định nào sau đây đúng?",
+      "options": [
+        "A. \\(P\\left( {B|A} \\right) = \\frac{{P\\left( B \\right) + P\\left( {A|B} \\right)}}{{P\\left( B \\right)P\\left( {A|B} \\right) + P\\left( {\\overline B } \\right)P\\left( {A|\\overline B } \\right)}}\\).",
+        "B. \\(P\\left( {B|A} \\right) = \\frac{{P\\left( B \\right)P\\left( {A|B} \\right)}}{{P\\left( B \\right)P\\left( {A|B} \\right) - P\\left( {\\overline B } \\right)P\\left( {A|\\overline B } \\right)}}\\).",
+        "C. \\(P\\left( {B|A} \\right) = \\frac{{P\\left( B \\right)P\\left( {A|B} \\right)}}{{P\\left( B \\right)P\\left( {A|\\overline B } \\right) + P\\left( {\\overline B } \\right)P\\left( {A|B} \\right)}}\\).",
+        "D. \\(P\\left( {B|A} \\right) = \\frac{{P\\left( B \\right)P\\left( {A|B} \\right)}}{{P\\left( B \\right)P\\left( {A|B} \\right) + P\\left( {\\overline B } \\right)P\\left( {A|\\overline B } \\right)}}\\)."
+      ],
+      "answer": "D",
+      "note": "Chọn đáp án D Giả sử \\(A\\) và \\(B\\) là hai biến cố ngẫu nhiên thỏa mãn \\(P\\left( A \\right) > 0\\) và \\[0 < P\\left( B \\right) < 1\\], khi đó ta có công thức Bayes \\(P\\left( {B|A} \\right) = \\frac{{P\\left( B \\right)P\\left( {A|B} \\right)}}{{P\\left( B \\right)P\\left( {A|B} \\right) + P\\left( {\\overline B } \\right)P\\left( {A|\\overline B } \\right)}}\\)hay \\(P\\left( {B|A} \\right) = \\frac{{P\\left( B \\right)P\\left( {A|B} \\right)}}{{P\\left( A \\right)}}\\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho hai biến cố \\[A\\] và \\[B\\], với \\[P\\left( A \\right) = 0,2\\], \\[P\\left( B \\right) = 0,26\\], \\[P\\left( {B|A} \\right) = 0,7\\]. Tính \\[P\\left( {A|B} \\right)\\].",
+      "options": [
+        "A. \\(\\frac{7}{{13}}\\).",
+        "B. \\(\\frac{6}{{13}}\\).",
+        "C. \\(\\frac{4}{{13}}\\).",
+        "D. \\(\\frac{9}{{13}}\\)."
+      ],
+      "answer": "A",
+      "note": "Chọn đáp án A Theo công thức Bayes, ta có: \\[P\\left( {A|B} \\right) = \\frac{{P\\left( A \\right).P\\left( {B|A} \\right)}}{{P\\left( B \\right)}} = \\frac{{0,2.0,7}}{{0,26}} = \\frac{7}{{13}}\\]."
+    }
+  ]
+}

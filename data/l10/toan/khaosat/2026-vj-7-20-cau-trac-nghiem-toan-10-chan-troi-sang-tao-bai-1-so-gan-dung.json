@@ -1,0 +1,65 @@
+{
+  "id": "2026-vj-7-20-cau-trac-nghiem-toan-10-chan-troi-sang-tao-bai-1-so-gan-dung",
+  "sourceId": "vietjack:7-20-cau-trac-nghiem-toan-10-chan-troi-s",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "7.20 câu trắc nghiệm Toán 10 Chân trời sáng tạo Bài 1: Số gần đúng và sai số (Đúng sai - Trả lời ngắn) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Phần I. Trắc nghiệm nhiều phương án lựa chọn Số quy tròn của số 456 572 với độ chính xác là",
+      "options": [
+        "A. 456 000.",
+        "B. 457 000.",
+        "C. 450 000.",
+        "D. D . 460 000."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Hàng lớn nhất của độ chính xác là hàng nghìn. Quy tròn số 456 572 đến hàng chục nghìn ta được số gần đúng là 460 000."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Xấp xỉ số bởi số . Hãy đánh giá sai số tuyệt đối biết: $3,14159265 < \\pi < 3,14159266.$",
+      "options": [
+        "A. A . .",
+        "B. .",
+        "C. Phương án C",
+        "D. Phương án D"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có (sử dụng máy tính bỏ túi) : $\\frac{{355}}{{113}} \\approx 3,14159292... < 3,1415929293$ . Do vậy $0 < \\frac{{355}}{{113}} - \\pi < 3,14159293 - 3,14159265$ . Vậy sai số tuyệt đối nhỏ hơn ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Kết quả đo chiều dài một cây cầu có độ chính xác là 0,75 m với dụng cụ đo đảm bảo sai số tương đối không vượt quá . Tính độ dài gần đúng của cầu.",
+      "options": [
+        "A. 500,1 m .",
+        "B. 499,9 m .",
+        "C. C . 500 m .",
+        "D. 501 m ."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Độ dài của cây cầu là: (m) ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Khi sử dụng máy tính bỏ túi với 10 chữ số thập phân ta được: . Giá trị gần đúng của chính xác đến hàng phần trăm là:",
+      "options": [
+        "A. Phương án A",
+        "B. Phương án B",
+        "C. Phương án C",
+        "D. D ."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Cần lấy chính xác đến hàng phần trăm nên ta phải lấy 2 chữ số thập phân. Vì đứng sau số 2 ở hàng phần trăm là số nên theo nguyên lý làm tròn ta được kết quả là"
+    }
+  ]
+}

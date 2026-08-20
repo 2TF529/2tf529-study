@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-de-cuong-on-tap-giua-ki-1-toan-10-canh-dieu-cau-truc-moi-co-dap",
+  "sourceId": "vietjack:1-de-cuong-on-tap-giua-ki-1-toan-10-canh",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "giuaki1",
+  "year": 2026,
+  "title": "1.Đề cương ôn tập giữa kì 1 Toán 10 Cánh diều cấu trúc mới có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Phần I. Câu trắc nghiệm nhiều phương án lựa chọn. Mỗi câu chỉ chọn một phương án. Câu nào sau đây không là mệnh đề?",
+      "options": [
+        "A. Bạn đã làm bài tập toán chưa?",
+        "B. 3 < 1.",
+        "C. Tam giác đều là tam giác có ba cạnh bằng nhau.",
+        "D. 4 – 5 = 1."
+      ],
+      "answer": "A",
+      "note": "Đáp án A không phải là mệnh đề. Chọn A ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Mệnh đề phủ định của mệnh đề “ \\(\\forall x \\in \\mathbb{R},{x^2} + x + 5 > 0\\) ” là",
+      "options": [
+        "A. \\(\\exists x \\in \\mathbb{R},{x^2} + x + 5 \\le 0\\) .",
+        "B. \\(\\forall x \\in \\mathbb{R},{x^2} + x + 5 \\le 0\\) .",
+        "C. \\(\\exists x \\in \\mathbb{R},{x^2} + x + 5 < 0\\) .",
+        "D. \\(\\forall x \\in \\mathbb{R},{x^2} + x + 5 < 0\\) ."
+      ],
+      "answer": "A",
+      "note": "Mệnh đề \\(\\exists x \\in \\mathbb{R},{x^2} + x + 5 \\le 0\\) là mệnh đề phủ định của mệnh đề \\(\\forall x \\in \\mathbb{R},{x^2} + x + 5 > 0\\) . Chọn A ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Chọn mệnh đề đúng",
+      "options": [
+        "A. \\(\\exists x \\in \\mathbb{N},{x^2} \\le x\\) .",
+        "B. \\(\\forall x \\in \\mathbb{R},15{x^2} - 8x + 1 > 0\\) .",
+        "C. \\(\\exists x \\in \\mathbb{R},\\left| x \\right| < 0\\) .",
+        "D. \\(\\exists x \\in \\mathbb{R}, - {x^2} > 0\\) ."
+      ],
+      "answer": "A",
+      "note": "Mệnh đề \\(\\exists x \\in \\mathbb{N},{x^2} \\le x\\) đúng vì có \\(x = 0\\) thỏa mãn \\({0^2} \\le 0\\) . Chọn A ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Trong các mệnh đề sau, mệnh đề nào sai?",
+      "options": [
+        "A. Tất cả các số tự nhiên đều không âm.",
+        "B. Nếu tứ giác ABCD có hai đường chéo cắt nhau tại trung điểm mỗi đường thì tứ giác ABCD là hình bình hành.",
+        "C. Nếu tứ giác ABCD có hai đường chéo bằng nhau thì tứ giác ABCD là hình chữ nhật.",
+        "D. Nếu tứ giác ABCD là hình thoi thì tứ giác ABCD có hai đường chéo vuông góc với nhau."
+      ],
+      "answer": "C",
+      "note": "Nếu tứ giác ABCD có hai đường chéo bằng nhau thì tứ giác ABCD là hình chữ nhật là mệnh đề sai. Chọn C ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu nào sau đây là mệnh đề sai ?",
+      "options": [
+        "A. \\(8\\) là hợp số.",
+        "B. 17 là số nguyên tố.",
+        "C. 25 là số chính phương.",
+        "D. 21 chia hết cho 5."
+      ],
+      "answer": "D",
+      "note": "21 không chia hết cho 5. Do đó D là mệnh đề sai. Chọn D ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho mệnh đề P: \" π là một số vô tỉ\". Mệnh đề nào sau đây là mệnh đề phủ định của P ?",
+      "options": [
+        "A. \\(\\pi \\) là một số vô tỉ.",
+        "B. \\(\\pi \\) không là một số vô tỉ.",
+        "C. \\(\\pi \\) không là một số thực.",
+        "D. \\(\\pi \\) không là một số hữu tỉ."
+      ],
+      "answer": "B",
+      "note": "Mệnh đề phủ định là \\(\\pi \\) không là một số vô tỉ. Chọn B ."
+    }
+  ]
+}

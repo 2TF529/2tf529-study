@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-10-canh-dieu-he-nhi-phan-va-ung-dung",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-10-canh-die",
+  "grade": "l10",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 10 Cánh diều  Hệ nhị phân và ứng dụng có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho x=0, y=1 Kết quả của phép x AND y là:",
+      "options": [
+        "A. 0",
+        "B. 1",
+        "C. 2",
+        "D. 3"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Phép toán x AND y còn gọi là phép nhân logic ⇒ x=0,y=1 thì x AND y có kết quả là 0"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho x=0 Kết quả của phép NOT x là:",
+      "options": [
+        "A. 0",
+        "B. 1",
+        "C. 2",
+        "D. 3"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Phép toán NOT cho kết quả trái ngược với đầu vào."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho x=0, y=0 Kết quả của phép x OR y là:",
+      "options": [
+        "A. 0",
+        "B. 1",
+        "C. 2",
+        "D. 3"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Phép toán OR cho kết quả là 0 khi và chỉ khi cả hai bit toán hạng đều là 0."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho x=01001 Kết quả của phép NOT x là:",
+      "options": [
+        "A. 01001",
+        "B. 10001",
+        "C. 10110",
+        "D. 10111"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Phép toán NOT cho kết quả trái ngược với đầu vào."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Dãy bit 1001 biểu diễn số nào ở hệ thập phân?",
+      "options": [
+        "A. 2",
+        "B. 6",
+        "C. 8",
+        "D. 9"
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D 1001(cơ số 2) = 1 × 2 3 + 0 × 2 2 + 0 × 2 1 + 1×2 0 = 9 (cơ số 10)"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Số 8 ở hệ thập phân chuyển sang hệ nhị phân có biểu diễn:",
+      "options": [
+        "A. 0001",
+        "B. 1001",
+        "C. 1000",
+        "D. 0101"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Vì 8 = 1× 2 3 + 0 × 2 2 + 0 × 2 1 + 0 × 2 0"
+    }
+  ]
+}

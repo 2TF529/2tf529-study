@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-3-10-bai-tap-rut-gon-bieu-thuc-va-chung-minh-dang-thuc-luong-giac",
+  "sourceId": "vietjack:3-10-bai-tap-rut-gon-bieu-thuc-va-chung-",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.10 Bài tập Rút gọn biểu thức và chứng minh đẳng thức lượng giác (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Biểu thức rút gọn H = 2cos x – 3cos ( π – x) + 5sin \\(\\left( {\\frac{{7\\pi }}{2} - x} \\right)\\) + cot \\(\\left( {\\frac{{3\\pi }}{2} - x} \\right)\\) bằng",
+      "options": [
+        "A. tan x;",
+        "B. cot x;",
+        "C. sin x;",
+        "D. cos x."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A Ta có: H = 2cos x – 3cos ( π – x) + 5sin \\(\\left( {\\frac{{7\\pi }}{2} - x} \\right)\\) + cot \\(\\left( {\\frac{{3\\pi }}{2} - x} \\right)\\) = 2cos x + 3cos x + 5sin \\(\\left( {2\\pi + \\pi + \\frac{\\pi }{2} - x} \\right)\\) + cot \\(\\left( {\\pi + \\frac{\\pi }{2} - x} \\right)\\) = 5cos x + 5sin \\(\\left( {\\pi + \\frac{\\pi }{2} - x} \\right)\\) + cot \\(\\left( {\\frac{\\pi }{2} - x} \\right)\\) = 5cos x – 5sin \\(\\left( {\\frac{\\pi }{2} - x} \\right)\\) + tan x = 5cos x – 5 cos x + tan x = tan x."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Biểu thức đ ơn giản của K = (1 – sin 2 x)cot 2 x + (1 – cot 2 x) là",
+      "options": [
+        "A. sin 2 x;",
+        "B. cos 2 x;",
+        "C. – sin 2 x;",
+        "D. – cos 2 x."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A K = (1 – sin 2 x)cot 2 x + (1 – cot 2 x) = cot 2 x – sin 2 x.cot 2 x + 1 – cot 2 x = − sin 2 x . cos 2 x sin 2 x + 1 = – cos 2 x + 1 = sin 2 x."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Rút gọn biểu thức M = cos α − π 2 + sin ( α – π ) ta được",
+      "options": [
+        "A. cos α + sin α ;",
+        "B. 2sin α ;",
+        "C. sin α – cos α ;",
+        "D. 0"
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải Đáp án đúng là: D M = cos α − π 2 + sin (α – π) = cos π 2 − α – sin α = sin α – sin α = 0."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Biết \\(P = \\frac{{{{\\left( {\\sin \\alpha - c{\\rm{os}}\\alpha } \\right)}^2} - 1}}{{\\cot \\alpha - \\sin \\alpha c{\\rm{os }}\\alpha }} = a{\\tan ^2}\\alpha .\\) Giá trị của a là",
+      "options": [
+        "A. 1;",
+        "B. 2;",
+        "C. – 2;",
+        "D. 3."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là: C \\(P = \\frac{{{{\\left( {\\sin \\alpha - c{\\rm{os}}\\alpha } \\right)}^2} - 1}}{{\\cot \\alpha - \\sin \\alpha c{\\rm{os }}\\alpha }}\\)\\( = \\frac{{{{\\sin }^2}\\alpha - 2\\sin \\alpha c{\\rm{os }}\\alpha + {\\rm{co}}{{\\rm{s}}^2}\\alpha - 1}}{{\\frac{{{\\rm{cos }}\\alpha }}{{{\\rm{sin }}\\alpha }} - \\sin \\alpha \\cos \\alpha }}\\) \\( = \\frac{{ - 2\\sin \\alpha c{\\rm{os}}\\alpha {\\rm{sin}}\\alpha }}{{{\\rm{cos}}\\alpha - {\\rm{si}}{{\\rm{n}}^2}\\alpha \\cos \\alpha }}\\) \\( = \\frac{{ - 2{{\\sin }^2}\\alpha c{\\rm{os }}\\alpha }}{{{\\rm{cos }}\\alpha \\left( {1 - {{\\sin }^2}\\alpha } \\right)}}\\) \\( = \\frac{{ - 2{{\\sin }^2}\\alpha }}{{{\\rm{co}}{{\\rm{s}}^2}\\alpha }}\\) = \\( - 2{\\tan ^2}\\alpha \\) . Vậy a = – 2."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Đơn giản biểu thức Q = sin 4 x – cos 4 x + 2cos 2 x , ta có Q bằng",
+      "options": [
+        "A. 0;",
+        "B. 1;",
+        "C. 2;",
+        "D. – 1."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải Đáp án đúng là: B Ta có: Q = sin 4 x – cos 4 x + 2cos 2 x = (sin 2 x – cos 2 x)( sin 2 x + cos 2 x) + 2cos 2 x = sin 2 x – cos 2 x + 2cos 2 x = sin 2 x + cos 2 x = 1."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Mệnh đề nào sau đây là đúng ?",
+      "options": [
+        "A. tan 2 x – sin 2 x = tan 2 x.sin 2 x;",
+        "B. tan 2 x – sin 2 x = tan 2 x.cos 2 x;",
+        "C. tan 2 x – sin 2 x = cot 2 x.cos 2 x;",
+        "D. tan 2 x – sin 2 x = sin 2 x.cos 2 x."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A Ta có: tan 2 x – sin 2 x = sin 2 x cos 2 x − sin 2 x = sin 2 x 1 cos 2 x − 1 = sin 2 x(1 + tan 2 x – 1) = tan 2 x.sin 2 x."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-toan-10-chan-troi-sang-tao-hoan-vi-chinh-hop",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-toan-10-chan-troi-s",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Toán 10 chân trời sáng tạo Hoán vị, chỉnh hợp và tổ hợp có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Số tập hợp con có 3 phần tử của một tập hợp có 7 phần tử là:",
+      "options": [
+        "A. \\[C_7^3\\] ;",
+        "B. \\[A_7^3\\] ;",
+        "C. \\[\\frac{{7!}}{{3!}}\\] ;",
+        "D. 7."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta chọn 3 phần tử bất kỳ trong 7 phần tử ta sẽ được một tập con có 3 phần tử của tập có 7 phần tử. Vậy mỗi cách chọn như vậy là là một tổ hợp chập 3 của 7 phần tử. Số tập con là \\[C_7^3\\]"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Có bao nhiêu cách xếp 8 người vào một bàn tròn",
+      "options": [
+        "A. 720;",
+        "B. 5040;",
+        "C. 40320;",
+        "D. 35280."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Vì xếp vào bàn tròn nên vị trí xếp đầu tiên là như nhau nên có 1 cách xếp, ta xếp 7 người còn lại vào 7 vị trí nên có 7! Cách xếp Vậy có 1.7! = 5040 cách xếp"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Một tổ gồm 12 học sinh trong đó có bạn An. Hỏi có bao nhiêu cách chọn 4 em đi trực trong đó phải có An:",
+      "options": [
+        "A. 990;",
+        "B. 495;",
+        "C. 220;",
+        "D. 165."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Chọn An có 1 cách chọn. Chọn 3 bạn trong 11 bạn còn lại có \\(C_{11}^3 = 165\\) cách chọn. Vậy có 1.165 = 165 cách chọn."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Có bao nhiêu cách lập các nhóm gồm 2, 3, 5 học sinh từ một tổ có 10 học sinh?",
+      "options": [
+        "A. \\(C_{10}^2\\) + \\(C_8^3\\) + \\(C_5^5\\) ;",
+        "B. \\(C_{10}^2\\) . \\(C_{10}^3\\) . \\(C_{10}^5\\) ;",
+        "C. \\(C_{10}^2\\) . \\(C_8^3\\) . \\(C_5^5\\) ;",
+        "D. \\(C_{10}^2\\) + \\(C_{10}^3\\) + \\(C_{10}^5\\) ."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: C Ta lập nhóm có 2 học sinh: ta chọn bất kỳ 2 học sinh trong 10 học sinh có \\(C_{10}^2\\) cách Ta lập nhóm có 3 học sinh: vì chọn 2 học sinh để lập nhóm đầu tiên nên còn lại 8 học sinh, ta chọn 3 học sinh bất kì trong 8 học sinh có \\(C_8^3\\) cách Ta lập nhóm có 5 học sinh: vì đã lập nhóm có 2 và 3 học sinh nên còn lại 5 học sinh, ta chọn 5 học sinh để lập thành nhóm có \\(C_5^5\\) cách Vậy có \\(C_{10}^2\\) . \\(C_8^3\\) . \\(C_5^5\\) cách"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Có bao nhiêu vectơ khác vectơ \\(\\overrightarrow 0 \\) được tạo thành từ 10 điểm phân biệt khác nhau",
+      "options": [
+        "A. 45;",
+        "B. 90;",
+        "C. 35;",
+        "D. 55."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Giả sử ta có 2 điểm A, B phân biệt thì có hai vectơ là vectơ \\(\\overrightarrow {AB} \\) và vectơ \\(\\overrightarrow {BA} \\) Vì cứ chọn 2 điểm bất kỳ trong 10 điểm ta được hai vectơ nên mỗi cách chọn ra 2 điểm trong 10 điểm là một tổ hợp chập 2 của 10 phần tử. Hay số vectơ được tạo thành từ 10 điểm phân biệt là chỉnh hợp chập 2 của 10. Vậy số vectơ được tạo thành từ 10 điểm phân biệt khác nhau là 2. \\(C_{10}^2\\) = \\(A_{10}^2\\) = 90 (vectơ)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Một tổ có 10 học sinh. Hỏi có bao nhiêu cách chọn ra 2 học sinh từ tổ đó để giữ hai chức vụ tổ trưởng và tổ phó.",
+      "options": [
+        "A. 90;",
+        "B. 45;",
+        "C. 1814400;",
+        "D. 100."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Mỗi cách chọn ra 2 học sinh từ một tổ có 10 học sinh và phân công giữ chức vụ tổ trưởng, tổ phó là một chỉnh hợp chập 2 của 10 phần tử. Số cách chọn là \\[A_{10}^2\\] = 90 cách."
+    }
+  ]
+}

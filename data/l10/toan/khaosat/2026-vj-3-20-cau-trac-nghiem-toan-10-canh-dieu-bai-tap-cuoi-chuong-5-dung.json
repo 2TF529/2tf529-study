@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-3-20-cau-trac-nghiem-toan-10-canh-dieu-bai-tap-cuoi-chuong-5-dung",
+  "sourceId": "vietjack:3-20-cau-trac-nghiem-toan-10-canh-dieu-b",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.20 câu trắc nghiệm Toán 10 Cánh diều Bài tập cuối chương 5 (Đúng sai - trả lời ngắn) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Hệ số lớn nhất trong khai triển \\({\\left( {\\frac{1}{4} + \\frac{3}{4}x} \\right)^4}\\) là",
+      "options": [
+        "A. \\(\\frac{{27}}{{128}}\\).",
+        "B. \\(\\frac{9}{{32}}\\).",
+        "C. \\(\\frac{{27}}{{32}}\\).",
+        "D. \\(\\frac{{27}}{{64}}\\)."
+      ],
+      "answer": "D",
+      "note": "\\({\\left( {\\frac{1}{4} + \\frac{3}{4}x} \\right)^4} = {\\left( {\\frac{1}{4}} \\right)^4} + 4 \\cdot {\\left( {\\frac{1}{4}} \\right)^3} \\cdot \\left( {\\frac{3}{4}x} \\right) + 6 \\cdot {\\left( {\\frac{1}{4}} \\right)^2} \\cdot {\\left( {\\frac{3}{4}x} \\right)^2} + 4 \\cdot \\left( {\\frac{1}{4}} \\right) \\cdot {\\left( {\\frac{3}{4}x} \\right)^3} + {\\left( {\\frac{3}{4}x} \\right)^4}\\) \\( = \\frac{1}{{256}} + \\frac{3}{{64}}x + \\frac{{27}}{{128}}{x^2} + \\frac{{27}}{{64}}{x^3} + \\frac{{81}}{{256}}{x^4}\\) . Hệ số lớn nhất trong khai triển là \\(\\frac{{27}}{{64}}\\) . Chọn D ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Tìm hệ số của số hạng chứa \\({x^{10}}\\) trong khai triển của biểu thức \\({\\left( {3{x^3} - \\frac{2}{{{x^2}}}} \\right)^5}\\) .",
+      "options": [
+        "A. \\( - 810\\).",
+        "B. \\(826\\).",
+        "C. \\(810\\).",
+        "D. \\(421\\)."
+      ],
+      "answer": "A",
+      "note": "\\({\\left( {3{x^3} - \\frac{2}{{{x^2}}}} \\right)^5} = {\\left( {3{x^3}} \\right)^5} + 5 \\cdot {\\left( {3{x^3}} \\right)^4} \\cdot \\left( { - \\frac{2}{{{x^2}}}} \\right) + 10 \\cdot {\\left( {3{x^3}} \\right)^3} \\cdot {\\left( { - \\frac{2}{{{x^2}}}} \\right)^2} + 10 \\cdot {\\left( {3{x^3}} \\right)^2} \\cdot {\\left( { - \\frac{2}{{{x^2}}}} \\right)^3} + 5 \\cdot \\left( {3{x^3}} \\right) \\cdot {\\left( { - \\frac{2}{{{x^2}}}} \\right)^4} + {\\left( { - \\frac{2}{{{x^2}}}} \\right)^5}\\) \\[ = 243{x^{15}} - 810{x^{10}} + 1080{x^5} - 720 + \\frac{{240}}{{{x^5}}} - \\frac{{32}}{{{x^{10}}}}\\] . Hệ số của số hạng chứa \\({x^{10}}\\) là \\( - 810\\) . Chọn A ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Biết rằng \\({\\left( {2x + 1} \\right)^{100}} = {a_0} + {a_1}x + {a_2}{x^2} + ... + {a_{100}}{x^{100}}\\) . Tính \\(S = {a_0} + {a_1} + {a_2} + ... + {a_{100}}.\\)",
+      "options": [
+        "A. \\(100\\).",
+        "B. \\({3^{100}}\\).",
+        "C. \\({2^{100}}\\).",
+        "D. \\({4^{200}}\\)."
+      ],
+      "answer": "B",
+      "note": "Thay \\(x = 1\\) vào biểu thức ta được \\({\\left( {2 \\cdot 1 + 1} \\right)^{100}} = {a_0} + {a_1} + {a_2} + ... + {a_{100}}\\)\\( \\Rightarrow S = {3^{100}}\\) . Chọn B ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Từ các chữ số \\(1;2;3;4;5;6\\) có thể lập được bao nhiêu chữ số tự nhiên bé hơn 100?",
+      "options": [
+        "A. \\(36\\).",
+        "B. \\(62\\).",
+        "C. \\(54\\).",
+        "D. \\(42\\)."
+      ],
+      "answer": "D",
+      "note": "TH1: Số lập được có 1 chữ số. Có 6 số lập được trong trường hợp này. TH2: Số lập được có hai chữ số. Giả sử số cần lập là \\(\\overline {ab} \\) . Có 6 cách chọn \\(a\\) , có 6 cách chọn \\(b\\) . Vậy trong trường hợp này có \\(6 \\cdot 6 = 36\\) số. Vậy có tất cả \\(6 + 36 = 42\\) số tự nhiên lập được từ các chữ số trên bé hơn 100. Chọn D ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Một lớp được chia thành 4 tổ \\(1;2;3;4\\) để tham gia hoạt động thực hành trải nghiệm. Sau khi các tổ thực hiện xong hoạt động, giáo viên sắp xếp thứ tự trình bày của 4 tổ. Có bao nhiêu cách sắp xếp thứ tự các tổ trình bày?",
+      "options": [
+        "A. \\(12\\).",
+        "B. \\(24\\).",
+        "C. \\(42\\).",
+        "D. \\({4^4}\\)."
+      ],
+      "answer": "B",
+      "note": "Có \\(4! = 24\\) cách sắp xếp thứ tự các tổ trình bày. Chọn B ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Một tổ gồm 5 bạn học sinh nam và 4 học sinh nữ. Có bao nhiêu cách chọn 4 bạn sao cho trong đó luôn có bạn nam và nữ?",
+      "options": [
+        "A. \\(120\\).",
+        "B. \\(126\\).",
+        "C. \\(6\\).",
+        "D. \\(60\\)."
+      ],
+      "answer": "A",
+      "note": "TH1: Chọn được 1 nam và 3 nữ có \\(C_5^1 \\cdot C_4^3 = 20\\) cách. TH2: Chọn được 2 nam và 2 nữ có \\(C_5^2 \\cdot C_4^2 = 60\\) cách. TH3: Chọn được 3 nam và 1 nữ có \\(C_5^3 \\cdot C_4^1 = 40\\) cách. Vậy có \\(20 + 60 + 40 = 120\\) cách chọn 4 bạn sao cho trong đó luôn có bạn nam và nữ. Chọn A ."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Trong mặt phẳng cho một tập hợp gồm 1024 điểm phân biệt. Có bao nhiêu vectơ khác vectơ \\(\\overrightarrow 0 \\) có điểm đầu và điểm cuối thuộc tập hợp điểm này?",
+      "options": [
+        "A. \\(1024!\\).",
+        "B. \\(C_{1024}^2\\).",
+        "C. \\(A_{1024}^2\\).",
+        "D. \\(C_{1024}^1 + C_{1023}^1\\)."
+      ],
+      "answer": "C",
+      "note": "Có \\(A_{1024}^2\\) vectơ khác vectơ \\(\\overrightarrow 0 \\) có điểm đầu và điểm cuối thuộc tập hợp điểm này. Chọn C ."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Tổ của Minh và Hằng có 7 học sinh. Số cách xếp 7 học sinh ấy theo hàng dọc mà Minh đứng đầu hàng, Hằng đứng cuối hàng là",
+      "options": [
+        "A. \\(110\\).",
+        "B. \\(125\\).",
+        "C. \\(120\\).",
+        "D. \\(100\\)."
+      ],
+      "answer": "C",
+      "note": "Xếp Minh đứng đầu hàng, Hằng đứng cuối hàng, 5 vị trí còn lại ta có \\(5! = 120\\) cách xếp. Chọn C ."
+    }
+  ]
+}

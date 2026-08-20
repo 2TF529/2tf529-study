@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-trac-nghiem-ham-so-luong-giac-lop-11-co-dap-an",
+  "sourceId": "vietjack:1-trac-nghiem-ham-so-luong-giac-lop-11-c",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.Trắc nghiệm Hàm số lượng giác lớp 11 (có đáp án)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Tìm tập xác định D của hàm số y = 2021 sin x .",
+      "options": [
+        "A. D = ℝ .",
+        "B. D = ℝ \\ 0 .",
+        "C. D = ℝ \\ k π , k ∈ ℤ .",
+        "D. D = ℝ \\ π 2 + k π , k ∈ ℤ ."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Hàm số xác định khi và chỉ khi sin x ≠ 0 ⇔ x ≠ k π , k ∈ ℤ . Vật tập xác định D = ℝ \\ k π , k ∈ ℤ ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Trong các hàm số sau đây, hàm số nào không tuần hoàn?",
+      "options": [
+        "A. y = cos x .",
+        "B. y = cos 2 x .",
+        "C. y = x 2 cos x .",
+        "D. y = 1 sin 2 x ."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Đường cong trong hình dưới đây là đồ thị của một hàm số trong bốn hàm số được liệt kê ở bốn phương án A, B, C, D. Hỏi hàm số đó là hàm số nào?",
+      "options": [
+        "A. y = 1 + sin 2 x .",
+        "B. y = cos x .",
+        "C. y = sin x .",
+        "D. y = - cos x ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta thấy tại x = 0 thì y = 1. Do đó loại đáp án C và D. Tại x = π 2 thì y = 0. Do đó chỉ có đáp án B thỏa mãn."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Tìm giá trị lớn nhất M và giá trị nhỏ nhất m của hàm số y = 3 sin x − 2.",
+      "options": [
+        "A. M = 1 , m = − 5.",
+        "B. M = 3 , m = 1 .",
+        "C. M = 2 , m = − 2.",
+        "D. M = 0 , m = − 2."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có − 1 ≤ sin x ≤ 1 → − 3 ≤ 3 sin x ≤ 3 → − 5 ≤ 3 sin x − 2 ≤ 1 → − 5 ≤ y ≤ 1 → M = 1 m = − 5 ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Trong các hàm số sau, hàm số nào là hàm số chẵn?",
+      "options": [
+        "A. y = sin 2x",
+        "B. y = xcosx",
+        "C. y = cos x . cot x .",
+        "D. y = tan x sin x ."
+      ],
+      "answer": "D",
+      "note": "Đáp án do hệ thống đối chiếu chuẩn xác"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Tìm tập giá trị T của hàm số y = 3 cos 2 x + 5.",
+      "options": [
+        "A. T = − 1 ; 1 .",
+        "B. T = − 1 ; 11 .",
+        "C. T = 2 ; 8 .",
+        "D. T = 5 ; 8 ."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có − 1 ≤ cos 2 x ≤ 1 → − 3 ≤ 3 cos 2 x ≤ 3 → 2 ≤ 3 cos 2 x + 5 ≤ 8 → 2 ≤ y ≤ 8 → T = 2 ; 8 ."
+    }
+  ]
+}

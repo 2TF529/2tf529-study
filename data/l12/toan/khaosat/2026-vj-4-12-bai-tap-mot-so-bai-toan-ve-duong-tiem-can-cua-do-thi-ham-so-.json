@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-4-12-bai-tap-mot-so-bai-toan-ve-duong-tiem-can-cua-do-thi-ham-so-",
+  "sourceId": "vietjack:4-12-bai-tap-mot-so-bai-toan-ve-duong-ti",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "4.12 bài tập Một số bài toán về đường tiệm cận của đồ thị hàm số có chứa tham số có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Tìm tất cả các giá trị thực của tham số m để đồ thị hàm số \\[y = \\frac{{mx - 8}}{{x + 2}}\\] có hai đường tiệm cận.",
+      "options": [
+        "A. m ≠ 4;",
+        "B. m ≠ −4;",
+        "C. m = 4;",
+        "D. m = −4."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Với m = −4 thì \\[y = \\frac{{ - 4x - 8}}{{x + 2}} = - 4\\] không thỏa mãn. Do đó m ≠ −4 thì hàm số luôn có hai đường tiệm cận x = −2; y = m."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hàm số \\(y = \\frac{{ax + 1}}{{bx - 2}}.\\) Tìm a, b để đồ thị hàm số có x = 1 là tiệm cận đứng và \\(y = \\frac{1}{2}\\) là tiệm cận ngang.",
+      "options": [
+        "A. a = −1; b = 2;",
+        "B. a = 4; b = 4;",
+        "C. a = 1; b = 2;",
+        "D. a = −1; b = −2."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C +) b = 0 đồ thị hàm số \\(y = \\frac{{ax + 1}}{{ - 2}}\\) không có tiệm cận. +) b ≠ 0, tập xác định của hàm số \\(y = \\frac{{ax + 1}}{{bx - 2}}\\) là \\[D = \\mathbb{R}\\backslash \\left\\{ {\\frac{2}{b}} \\right\\}\\]. \\[\\mathop {\\lim }\\limits_{x \\to \\pm \\infty } y = \\mathop {\\lim }\\limits_{x \\to \\pm \\infty } \\frac{{ax + 1}}{{bx - 2}} = \\mathop {\\lim }\\limits_{x \\to \\pm \\infty } \\frac{{a + \\frac{1}{x}}}{{b - \\frac{2}{x}}} = \\frac{a}{b}\\]. đồ thị hàm số \\(y = \\frac{{ax + 1}}{{bx - 2}}\\) có tiệm cận ngang là đường thẳng \\(y = \\frac{a}{b} \\Rightarrow \\frac{a}{b} = \\frac{1}{2} \\Leftrightarrow b = 2a\\). \\[\\mathop {\\lim }\\limits_{x \\to {{\\frac{2}{b}}^ + }} y = \\mathop {\\lim }\\limits_{x \\to {{\\frac{2}{b}}^ + }} \\frac{{ax + 1}}{{bx - 2}} = \\left[ \\begin{array}{l} + \\infty \\\\ - \\infty \\end{array} \\right.\\]. đồ thị hàm số \\(y = \\frac{{ax + 1}}{{bx - 2}}\\) có tiệm cận đứng là đường thẳng\\(x = \\frac{2}{b} \\Rightarrow \\frac{2}{b} = 1 \\Leftrightarrow b = 2 \\Rightarrow a = 1\\). Vậy a = 1; b = 2."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Tìm tất cả các giá trị của tham số thực m để đồ thị hàm số \\(y = \\frac{{{x^2} + m}}{{{x^2} - 3x + 2}}\\) có đúng hai đường tiệm cận.",
+      "options": [
+        "A. m = −1;",
+        "B. m ∈ {1; 4};",
+        "C. m = 4;",
+        "D. m ∈ {−1; −4}."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D \\(y = \\frac{{{x^2} + m}}{{{x^2} - 3x + 2}} = \\frac{{{x^2} + m}}{{\\left( {x - 1} \\right)\\left( {x - 2} \\right)}}\\). \\[\\mathop {\\lim y}\\limits_{x \\to \\pm \\infty } = 1 \\Rightarrow \\] y = 1 là đường tiệm cận ngang. Đồ thị hàm số \\(y = \\frac{{{x^2} + m}}{{{x^2} - 3x + 2}}\\) có đúng hai đường tiệm cận khi và chỉ khi đồ thị hàm số có đúng một tiệm cận đứng. Suy ra phương trình x 2 + m = 0 nhận nghiệm x = 1 hoặc x = 2. Khi đó: m = −1 hoặc m = −4. Với m = −1 có một tiệm cận đứng x = 2. Với m = −4 có một tiệm cận đứng x = 1. Vậy m ∈ {−1; −4}."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Tìm tất cả giá trị của tham số m để đường tiệm cận xiên của đồ thị hàm số \\(y = 2mx + 3 - \\frac{4}{{x + 1}}\\) đi qua điểm M(1; 7).",
+      "options": [
+        "A. m = 1;",
+        "B. m = 3;",
+        "C. m = 2;",
+        "D. m = −2."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Xét \\(\\mathop {\\lim }\\limits_{x \\to \\pm \\infty } \\left( {y - \\left( {2mx + 3} \\right)} \\right) = \\mathop {\\lim }\\limits_{x \\to \\pm \\infty } \\frac{{ - 4}}{{x + 1}} = 0\\). Vậy đường tiệm cận xiên có phương trình y = 2mx + 3. Đường thẳng này qua điểm M(1; 7) nên 2m.1 + 3 = 7 m = 2."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Biết rằng đồ thị của hàm số \\(y = \\frac{{\\left( {n - 3} \\right)x + n - 2017}}{{x + m + 3}}\\) (m, n là các số thực) nhận trục hoành làm tiệm cận ngang và trục tung là tiệm cận đứng. Tính tổng m + n.",
+      "options": [
+        "A. 0;",
+        "B. −3;",
+        "C. 3;",
+        "D. 6."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Đồ thị hàm số nhận x = −m – 3 làm tiệm cận đứng −m – 3 = 0 m = −3. Đồ thị hàm số nhận y = n – 3 làm tiệm cận ngang n – 3 = 0 n = 3. Vậy m + n = 0."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Có bao nhiêu giá trị nguyên dương của tham số m để đồ thị hàm số \\[y = \\frac{{x - 1}}{{{x^2} - 8x + m}}\\] có 3 đường tiệm cận?",
+      "options": [
+        "A. 14;",
+        "B. 8;",
+        "C. 15;",
+        "D. 16."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có \\(\\mathop {\\lim }\\limits_{x \\to - \\infty } \\frac{{x - 1}}{{{x^2} - 8x + m}} = \\mathop {\\lim }\\limits_{x \\to + \\infty } \\frac{{x - 1}}{{{x^2} - 8x + m}} = 0\\) nên đồ thị hàm số có một tiện cận ngang y = 0. Đồ thị hàm số có 3 đường tiệm cận khi và chỉ khi đồ thị hàm số có hai đường tiệm cận đứng phương trình x 2 – 8x + m = 0 có hai nghiệm phân biệt khác 1.\\( \\Leftrightarrow \\left\\{ \\begin{array}{l}\\Delta ' = 16 - m > 0\\\\m - 7 \\ne 0\\end{array} \\right. \\Leftrightarrow \\left\\{ \\begin{array}{l}m < 16\\\\m \\ne 7\\end{array} \\right.\\). Kết hợp với điều kiện m nguyên dương ta có m ∈ {1; 2; 3; …; 6; 8; …; 15}. Vậy có 14 giá trị của m thỏa mãn đề bài."
+    }
+  ]
+}

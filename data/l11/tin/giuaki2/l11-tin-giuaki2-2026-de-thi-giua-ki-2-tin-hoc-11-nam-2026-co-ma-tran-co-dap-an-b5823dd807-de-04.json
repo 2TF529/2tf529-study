@@ -1,0 +1,272 @@
+{
+  "id": "l11-tin-giuaki2-2026-de-thi-giua-ki-2-tin-hoc-11-nam-2026-co-ma-tran-co-dap-an-b5823dd807-de-04",
+  "grade": "l11",
+  "subjectSlug": "tin",
+  "examType": "giuaki2",
+  "year": 2026,
+  "code": "Đề 04",
+  "title": "Đề thi Giữa kì 2 Tin học 11 năm 2026 có ma trận có đáp án - Đề 04",
+  "duration": 45,
+  "answerSource": "missing",
+  "sourceUrl": "https://www.vietjack.com/de-thi/de-thi-tin-hoc-lop-11-giua-ki-2-co-ma-tran-co-dap-an-dtvj2022t1.jsp",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 1.  &lt;/strong&gt;Hãy chọn phương án ghép đúng. Độ dài tối đa của xâu kí tự trong PASCAL là",
+      "options": [
+        "A. 256;",
+        "B. 255;",
+        "C. 65535;",
+        "D. Tùy ý;"
+      ],
+      "answer": null
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 2.  &lt;/strong&gt;Hãy chọn phương án ghép đúng. Cho xâu S là ‘Hanoi-Vietnam’. Kết quả của hàm Length(S) là&lt;strong&gt;  &lt;/strong&gt;",
+      "options": [
+        "A. 12;",
+        "B. 13",
+        "C. 14",
+        "D. 15"
+      ],
+      "answer": null
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 3.  &lt;/strong&gt;Hãy chọn phương án ghép đúng. Cho xâu S là ‘Hanoi-Vietnam’. Kết quả của hàm Pos(‘Vietnam’,S) là&lt;strong&gt;  &lt;/strong&gt;",
+      "options": [
+        "A. 5;",
+        "B. 6;",
+        "C. 7;",
+        "D. 8;"
+      ],
+      "answer": null
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 4.  &lt;/strong&gt;Cho khai báo sau:  &lt;em&gt;Var hoten : String;&lt;/em&gt;\nPhát biểu nào dưới đây là đúng ?",
+      "options": [
+        "A. Câu lệnh sai vì thiếu độ dài tối đa của xâu;",
+        "B. Xâu có độ dài lớn nhất là 0;",
+        "C. Xâu có độ dài lớn nhất là 255;",
+        "D. Cần phải khai báo kích thước của xâu sau đó;"
+      ],
+      "answer": null
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 5.  &lt;/strong&gt;Hãy chọn phương án ghép đúng nhất. Thủ tục chuẩn Insert(S1,S2,vt) thực hiện",
+      "options": [
+        "A. chèn xâu S1 vào S2 bắt đầu từ vị trí vt ;",
+        "B. chèn xâu S2 vào S1 bắt đầu từ vị trí vt ;",
+        "C. nối xâu S2 vào S1;",
+        "D. sao chép vào cuối S1 một phần của S2 từ vị trí vt ;"
+      ],
+      "answer": null
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 6.  &lt;/strong&gt;Đoạn chương trình sau in ra kết quả nào?",
+      "options": [
+        "A. 6;",
+        "B. 7;",
+        "C. 10;",
+        "D. Chương trình có lỗi;"
+      ],
+      "answer": null
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 7.  &lt;/strong&gt;Cho str  là một xâu kí tự, đoạn chương trình sau thực hiện công việc gì?\n&lt;em&gt;for  i := length(str) downto 1 do &lt;/em&gt;\n&lt;em&gt;write(str[i]) ;&lt;/em&gt;",
+      "options": [
+        "A. In xâu ra màn hình;",
+        "B. In từng kí tự xâu ra màn hình;",
+        "C. In từng kí tự ra màn hình theo thứ tự ngược, trừ kí tự đầu tiên;",
+        "D. In từng kí tự ra màn hình theo thứ tự ngược;"
+      ],
+      "answer": null
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 8.  &lt;/strong&gt;Cho str  là một xâu kí tự, đoạn chương trình sau thực hiện công việc gì&lt;strong&gt;  &lt;/strong&gt;",
+      "options": [
+        "A. Dịch chuyển các kí tự của xâu về sau 1 vị trí;",
+        "B. Dịch chuyển các kí tự của sâu lên trước một vị trí;",
+        "C. Khởi tạo lại mọi kí tự của xâu bằng kí tự đầu tiên;",
+        "D. Khởi tạo lại mọi kí tự của xâu bằng kí tự cuối cùng;"
+      ],
+      "answer": null
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 9.  &lt;/strong&gt;Hãy chọn phương án ghép đúng nhất. Kiểu dữ liệu có cấu trúc",
+      "options": [
+        "A. là kiểu dữ liệu chuẩn do mỗi ngôn ngữ lập trình cho sẵn, người lập trình chỉ cần khai báo nhờ các tên chuẩn;",
+        "B. là kiểu dữ liệu do người lập trình xây dựng từ những kiểu dữ liệu đã có;",
+        "C. trong mỗi ngôn ngữ lập trình đều có cách thức xây dựng giống nhau;",
+        "D. trong ngôn ngữ lập trình bậc cao chỉ là kiểu mảng, bản ghi và xâu;"
+      ],
+      "answer": null
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 10.  &lt;/strong&gt;Trong ngôn ngữ lập trình Pascal, xâu kí tự là?",
+      "options": [
+        "A. Mảng các ký tự;",
+        "B. Dãy các kí tự trong bảng mã ASCII;",
+        "C. Tập hợp các chữ cái trong bảng chữ cái tiếng Anh;",
+        "D. Tập hợp các chữ cái và các chữ số trong bảng chữ cái tiếng Anh;"
+      ],
+      "answer": null
+    },
+    {
+      "id": 11,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 11.  &lt;/strong&gt;Trong ngôn ngữ lập trình Pascal, cách khai báo xâu kí tự nào sau đây là đúng?",
+      "options": [
+        "A. S := file of string ;",
+        "B. S : file of char ;",
+        "C. S : string;",
+        "D. Cả 3 câu đều đúng ;"
+      ],
+      "answer": null
+    },
+    {
+      "id": 12,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 12.  &lt;/strong&gt;Trong ngôn ngữ lập trình Pascal, xâu kí tự có tối đa?",
+      "options": [
+        "A. 8 kí tự;",
+        "B. 256 kí tự;",
+        "C. 16 kí tự;",
+        "D. 255 kí tự;"
+      ],
+      "answer": null
+    },
+    {
+      "id": 13,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 13.  &lt;/strong&gt;Trong ngôn ngữ lập trình Pascal, xâu kí tự không có kí tự nào gọi là?",
+      "options": [
+        "A. Xâu không;",
+        "B. Xâu rỗng;",
+        "C. Xâu trắng;",
+        "D. Không phải là xâu kí tự;"
+      ],
+      "answer": null
+    },
+    {
+      "id": 14,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 14.  &lt;/strong&gt;Trong ngôn ngữ lập trình Pascal, phần tử đầu tiên của xâu ký tự mang chỉ số là?",
+      "options": [
+        "A. 0",
+        "B. Do người lập trình khai báo",
+        "C. 1",
+        "D. Không có chỉ số"
+      ],
+      "answer": null
+    },
+    {
+      "id": 15,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 15.  &lt;/strong&gt;Trong ngôn ngữ lập trình Pascal, khai báo nào trong các khai báo sau là  sai khi khai báo xâu kí tự?",
+      "options": [
+        "A. S : string;",
+        "B. X1 : string[100];",
+        "C. S : string[256];",
+        "D. X1 : string[1];"
+      ],
+      "answer": null
+    },
+    {
+      "id": 16,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 16.  &lt;/strong&gt;Trong ngôn ngữ lập trình Pascal, thủ tục Delete(c, a, b) thực hiện công việc gì trong các việc sau?",
+      "options": [
+        "A. Xóa trong xâu kí tự c   a kí tự bắt đầu từ vị trí b;",
+        "B. Xóa trong xâu a   b kí tự từ vị trí c;",
+        "C. Xóa trong xâu c   b kí tự bắt đầu từ vị trí a;",
+        "D. Xóa trong xâu b   c kí tự bắt đầu từ vị trí a;"
+      ],
+      "answer": null
+    },
+    {
+      "id": 17,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 17.  &lt;/strong&gt;Trong ngôn ngữ lập trình Pascal, hàm Length(S) cho kết quả gì ?",
+      "options": [
+        "A. Độ dài xâu S khi khai báo;",
+        "B. Số ký tự hiện có của xâu S không tính các dấu cách;",
+        "C. Số ký tự của xâu không tính dấu cách cuối cùng",
+        "D. Số ký tự hiện có của xâu S."
+      ],
+      "answer": null
+    },
+    {
+      "id": 18,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 18.  &lt;/strong&gt;Trong ngôn ngữ lập trình Pascal, sau khi chương trình thực hiện xong đoạn chương trình sau, giá trị của biến S là?\nS := ‘Ha Noi Mua thu’;\nDelete(S,7,8);\nInsert(‘Mua thu’, S, 1);",
+      "options": [
+        "A. Ha Noi Mua thu;",
+        "B. Mua thu Ha Noi mua thu;",
+        "C. Mua thu Ha Noi;",
+        "D. Ha Noi;"
+      ],
+      "answer": null
+    },
+    {
+      "id": 19,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 19.  &lt;/strong&gt;Phát biểu nào dưới đây về kiểu mảng là phù hợp?",
+      "options": [
+        "A. Là một tập hợp các số nguyên;",
+        "B. Độ dài tối đa của mảng là 255;",
+        "C. Là một dãy hữu hạn các phần tử cùng kiểu;",
+        "D. Mảng không thể chứa kí tự;"
+      ],
+      "answer": null
+    },
+    {
+      "id": 20,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 20.  &lt;/strong&gt;Hãy chọn phương án ghép đúng nhất. Để khai báo số phần tử của mảng trong PASCAL, người lập trình cần&lt;strong&gt;  &lt;/strong&gt;",
+      "options": [
+        "A. khai báo một hằng số là số phần tử của mảng;",
+        "B. khai báo chỉ số bắt đầu và kết thúc của mảng;",
+        "C. khai báo chỉ số kết thúc của mảng;",
+        "D. không cần khai báo gì, hệ thống sẽ tự xác định;"
+      ],
+      "answer": null
+    },
+    {
+      "id": 21,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 21.  &lt;/strong&gt;Phát biểu nào dưới đây về chỉ số của mảng là phù hợp nhất?",
+      "options": [
+        "A. Dùng để truy cập đến một phần tử bất kì trong mảng;",
+        "B. Dùng để quản lí kích thước của mảng;",
+        "C. Dùng trong vòng lặp với mảng;",
+        "D. Dùng trong vòng lặp với mảng để quản lí kích thước của mảng;"
+      ],
+      "answer": null
+    },
+    {
+      "id": 22,
+      "type": "short_answer",
+      "content": "&lt;strong&gt;Câu 1:  &lt;/strong&gt;Cho mảng A gồm N phần tử thuộc kiểu nguyên dương (N≤500)? Viết chương trình thực hiện tính tổng các số chia hết cho 3 hoặc cho 5.",
+      "answer": null
+    }
+  ]
+}

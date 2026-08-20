@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-11-canh-dieu-bai-4-cac-bieu-mau-cho-",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-11-canh-die",
+  "grade": "l11",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 11 Cánh diều Bài 4: Các biểu mẫu cho xem và cập nhập dữ liệu có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Biểu mẫu trong hệ quản trị cơ sở dữ liệu có chức năng chính nào?",
+      "options": [
+        "A. Tạo báo cáo tự động từ cơ sở dữ liệu",
+        "B. Cung cấp giao diện thuận tiện cho người dùng tương tác với cơ sở dữ liệu",
+        "C. Thực hiện tính toán phức tạp dựa trên dữ liệu",
+        "D. Quản lý việc sao lưu cơ sở dữ liệu"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Biểu mẫu là giao diện thân thiện, giúp người dùng dễ dàng xem, nhập và cập nhật dữ liệu, tránh các lỗi khi tương tác trực tiếp với cơ sở dữ liệu."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Biểu mẫu cho phép người dùng thực hiện thao tác nào dưới đây?",
+      "options": [
+        "A. Tạo và xóa bảng trong cơ sở dữ liệu",
+        "B. Hiển thị dữ liệu và thực hiện thao tác cập nhật, chỉnh sửa",
+        "C. Thay đổi cấu trúc cơ sở dữ liệu",
+        "D. Quản lý quyền truy cập cơ sở dữ liệu"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Biểu mẫu giúp hiển thị dữ liệu một cách rõ ràng và cho phép người dùng thực hiện cập nhật, chỉnh sửa dữ liệu mà không ảnh hưởng đến cấu trúc cơ sở dữ liệu."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Lợi ích của việc sử dụng biểu mẫu thay vì tương tác trực tiếp với bảng dữ liệu là gì?",
+      "options": [
+        "A. Giảm thiểu lỗi khi cập nhật dữ liệu",
+        "B. Cung cấp thêm không gian lưu trữ cho dữ liệu",
+        "C. Tăng tốc độ truy vấn dữ liệu",
+        "D. Cải thiện bảo mật cơ sở dữ liệu"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Biểu mẫu giúp hạn chế lỗi khi nhập hoặc sửa dữ liệu và tránh vi phạm các ràng buộc dữ liệu"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Biểu mẫu nào sau đây thường không cho phép người dùng chỉnh sửa dữ liệu?",
+      "options": [
+        "A. Biểu mẫu cập nhật dữ liệu",
+        "B. Biểu mẫu hiển thị báo cáo",
+        "C. Biểu mẫu chỉ hiển thị dữ liệu",
+        "D. Biểu mẫu quản lý quyền truy cập"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Biểu mẫu hiển thị dữ liệu chỉ cho phép xem thông tin mà không cho phép người dùng chỉnh sửa."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Công cụ nào trong hệ quản trị cơ sở dữ liệu thường được sử dụng để tạo biểu mẫu tự động?",
+      "options": [
+        "A. Form Wizard",
+        "B. Table Design",
+        "C. Query Builder",
+        "D. Report Generator"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Form Wizard giúp người dùng nhanh chóng tạo biểu mẫu từ dữ liệu có sẵn với giao diện thân thiện."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Biểu mẫu có thể hiển thị dữ liệu từ bao nhiêu bảng khác nhau?",
+      "options": [
+        "A. Chỉ từ một bảng",
+        "B. Tối đa từ hai bảng",
+        "C. Không giới hạn số bảng",
+        "D. Chỉ từ bảng chứa khóa chính"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Biểu mẫu có thể hiển thị dữ liệu từ nhiều bảng khác nhau, giúp người dùng dễ dàng xem và thao tác với các thông tin liên quan."
+    }
+  ]
+}

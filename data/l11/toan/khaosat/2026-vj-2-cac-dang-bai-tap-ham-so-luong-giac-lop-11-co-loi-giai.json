@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-2-cac-dang-bai-tap-ham-so-luong-giac-lop-11-co-loi-giai",
+  "sourceId": "vietjack:2-cac-dang-bai-tap-ham-so-luong-giac-lop",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.Các dạng bài tập Hàm số lượng giác lớp 11 (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Tập xác định của hàm số y = 2023tan 2024 2x là",
+      "options": [
+        "A. \\(D = \\mathbb{R}\\backslash \\left\\{ {\\frac{\\pi }{2} + k\\pi |k \\in \\mathbb{Z}} \\right\\}\\) ;",
+        "B. \\(D = \\mathbb{R}\\backslash \\left\\{ {\\frac{{k\\pi }}{2}|k \\in \\mathbb{Z}} \\right\\}\\) ;",
+        "C. \\(D = \\mathbb{R}\\) ;",
+        "D. \\(D = \\mathbb{R}\\backslash \\left\\{ {\\frac{\\pi }{4} + \\frac{{k\\pi }}{2}|k \\in \\mathbb{Z}} \\right\\}\\) ."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Biểu thức 2023tan 2024 2x có nghĩa khi cos2x ≠ 0, tức là \\(2x \\ne \\frac{\\pi }{2} + k\\pi \\left( {k \\in \\mathbb{Z}} \\right)\\) . Hay \\(x \\ne \\frac{\\pi }{4} + \\frac{{k\\pi }}{2}\\left( {k \\in \\mathbb{Z}} \\right)\\) . Vậy tập xác định của hàm số đã cho là: \\[D = \\mathbb{R}\\backslash \\left\\{ {\\frac{\\pi }{4} + \\frac{{k\\pi }}{2}|k \\in \\mathbb{Z}} \\right\\}\\] ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Hàm số y = cot2a + 2cosa + 3 có tập xác định là",
+      "options": [
+        "A. \\(D = \\mathbb{R}\\backslash \\left\\{ {\\frac{{k\\pi }}{4}|k \\in \\mathbb{Z}} \\right\\}\\) ;",
+        "B. \\(D = \\mathbb{R}\\backslash \\left\\{ {\\frac{{k\\pi }}{8}|k \\in \\mathbb{Z}} \\right\\}\\) ;",
+        "C. \\(D = \\mathbb{R}\\backslash \\left\\{ {\\frac{{k\\pi }}{2}|k \\in \\mathbb{Z}} \\right\\}\\) ;",
+        "D. \\(D = \\mathbb{R}\\backslash \\left\\{ {k\\pi |k \\in \\mathbb{Z}} \\right\\}\\) ."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Biểu thức cot2a + 2cosa + 3 có nghĩa khi sin2a ≠ 0, tức là \\(2a \\ne k\\pi \\left( {k \\in \\mathbb{Z}} \\right)\\) . Hay \\(a \\ne \\frac{{k\\pi }}{2}\\left( {k \\in \\mathbb{Z}} \\right)\\) . Vậy tập xác định của hàm số đã cho là \\[D = \\mathbb{R}\\backslash \\left\\{ {\\frac{{k\\pi }}{2}|k \\in \\mathbb{Z}} \\right\\}\\] ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Tập xác định của hàm số y = 2cotx + sin3x là",
+      "options": [
+        "A. \\[D = \\mathbb{R}\\backslash \\left\\{ {\\frac{\\pi }{2} + k\\pi |k \\in \\mathbb{Z}} \\right\\}\\] ;",
+        "B. \\(D = \\mathbb{R}\\backslash \\left\\{ {k\\pi |k \\in \\mathbb{Z}} \\right\\}\\) ;",
+        "C. \\(D = \\mathbb{R}\\) ;",
+        "D. \\(D = \\mathbb{R}\\backslash \\left\\{ {\\frac{{k\\pi }}{2}| \\in \\mathbb{Z}} \\right\\}\\) ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Biểu thức y = 2cotx + sin3x có nghĩa khi sinx ≠ 0, tức là \\(x \\ne k\\pi \\left( {k \\in \\mathbb{Z}} \\right)\\) . Vậy tập xác định của hàm số đã cho là \\[D = \\mathbb{R}\\backslash \\left\\{ {k\\pi |k \\in \\mathbb{Z}} \\right\\}\\] ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Tập xác định của hàm số \\(y = \\tan \\left( {x + \\frac{{2\\pi }}{3}} \\right)\\) là",
+      "options": [
+        "A. \\(D = \\mathbb{R}\\backslash \\left\\{ { - \\frac{{2\\pi }}{3} + k\\pi |k \\in \\mathbb{Z}} \\right\\}\\) ;",
+        "B. \\(D = \\mathbb{R}\\backslash \\left\\{ {\\frac{\\pi }{2} + k\\pi |k \\in \\mathbb{Z}} \\right\\}\\) ;",
+        "C. \\(D = \\mathbb{R}\\backslash \\left\\{ { - \\frac{\\pi }{6} + k\\pi |k \\in \\mathbb{Z}} \\right\\}\\) ;",
+        "D. \\(D = \\mathbb{R}\\backslash \\left\\{ {k\\pi |k \\in \\mathbb{Z}} \\right\\}\\) ."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Biểu thức \\(\\tan \\left( {x + \\frac{{2\\pi }}{3}} \\right)\\) có nghĩa khi \\(\\cos \\left( {x + \\frac{{2\\pi }}{3}} \\right) \\ne 0\\) , tức là \\(x + \\frac{{2\\pi }}{3} \\ne \\frac{\\pi }{2} + k\\pi \\left( {k \\in \\mathbb{Z}} \\right)\\) hay \\(x \\ne - \\frac{\\pi }{6} + k\\pi \\left( {k \\in \\mathbb{Z}} \\right)\\) . Vậy tập xác định của hàm số đã cho là \\[D = \\mathbb{R}\\backslash \\left\\{ { - \\frac{\\pi }{6} + k\\pi |k \\in \\mathbb{Z}} \\right\\}\\] ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Tập xác định của hàm số \\(y = \\frac{1}{{{{\\sin }^2}x - {{\\cos }^2}x}}\\) là",
+      "options": [
+        "A. \\(D = \\mathbb{R}\\backslash \\left\\{ {\\frac{\\pi }{2} + k\\pi |k \\in \\mathbb{Z}} \\right\\}\\) ;",
+        "B. \\(D = \\mathbb{R}\\backslash \\left\\{ {\\frac{{k\\pi }}{2}|k \\in \\mathbb{Z}} \\right\\}\\) ;",
+        "C. \\(D = \\mathbb{R}\\) ;",
+        "D. \\(D = \\mathbb{R}\\backslash \\left\\{ {\\frac{\\pi }{4} + \\frac{{k\\pi }}{2}|k \\in \\mathbb{Z}} \\right\\}\\) ."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Ta có: \\(y = \\frac{1}{{{{\\sin }^2}x - {{\\cos }^2}x}} = - \\frac{1}{{\\cos 2x}}\\) ( công thức góc nhân đôi ) Do đó, biểu thức \\(\\frac{1}{{{{\\sin }^2}x - {{\\cos }^2}x}}\\) có nghĩa khi cos2x ≠ 0, tức là \\(2x \\ne \\frac{\\pi }{2} + k\\pi ,k \\in \\mathbb{Z}\\) . Hay \\(x \\ne \\frac{\\pi }{4} + \\frac{{k\\pi }}{2}\\left( {k \\in \\mathbb{Z}} \\right)\\) . Vậy tập xác định của hàm số đã cho là \\[D = \\mathbb{R}\\backslash \\left\\{ {\\frac{\\pi }{4} + \\frac{{k\\pi }}{2}|k \\in \\mathbb{Z}} \\right\\}\\] ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Tập nào sau đây là tập xác định của hàm số \\(y = \\frac{{\\cot x}}{{\\sin x - 1}}\\) ?",
+      "options": [
+        "A. \\[D = \\mathbb{R}\\backslash \\left\\{ {\\frac{\\pi }{2} + k2\\pi |k \\in \\mathbb{Z}} \\right\\}\\] ;",
+        "B. \\(D = \\mathbb{R}\\backslash \\left\\{ {\\frac{{k\\pi }}{2}|k \\in \\mathbb{Z}} \\right\\}\\) ;",
+        "C. \\[D = \\mathbb{R}\\backslash \\left\\{ {k\\pi ;\\frac{\\pi }{2} + k2\\pi |k \\in \\mathbb{Z}} \\right\\}\\] ;",
+        "D. \\(D = \\mathbb{R}\\backslash \\left\\{ {\\frac{\\pi }{2} + \\frac{{k\\pi }}{2}|k \\in \\mathbb{Z}} \\right\\}\\) ."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có: \\(y = \\frac{{\\cot x}}{{\\sin x - 1}} = \\frac{{\\frac{{\\cos x}}{{\\sin x}}}}{{\\sin x - 1}} = \\frac{{\\cos x}}{{\\sin x\\left( {\\sin x - 1} \\right)}}\\) . Biểu thức \\(y = \\frac{{\\cot x}}{{\\sin x - 1}}\\) có nghĩa khi \\(\\left\\{ \\begin{array}{l}\\sin x \\ne 0\\\\\\sin x \\ne 1\\end{array} \\right.\\) , tức là \\(\\left\\{ \\begin{array}{l}x \\ne k\\pi \\\\x \\ne \\frac{\\pi }{2} + k2\\pi \\end{array} \\right.\\left( {k \\in \\mathbb{Z}} \\right)\\) . Vậy tập xác định của hàm số đã cho là \\[D = \\mathbb{R}\\backslash \\left\\{ {k\\pi ;\\frac{\\pi }{2} + k2\\pi |k \\in \\mathbb{Z}} \\right\\}\\] ."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Xét bốn mệnh đề sau: (1) Hàm số y = sin x có tập xác định là ℝ. (2) Hàm số y = cos x có tập xác định là ℝ. (3) Hàm số y = tan x có tập xác định là ℝ\\{kπ}. (4) Hàm số y = cot x có tập xác định là \\(\\mathbb{R}\\backslash \\left\\{ {k\\frac{\\pi }{2}} \\right\\}\\) . Số mệnh đề đúng trong các mệnh đề trên là",
+      "options": [
+        "A. 1;",
+        "B. 2;",
+        "C. 3;",
+        "D. 4."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Các hàm số y = sin x, y = cos x có tập xác định là ℝ. Vậy (1) và (2) đúng. Hàm số y = tan x có tập xác định là \\(\\mathbb{R}\\backslash \\left\\{ {\\frac{\\pi }{2} + k\\pi ,k \\in \\mathbb{Z}} \\right\\}\\) . Vậy (3) sai. Hàm số y = cot x có tập xác định là \\(\\mathbb{R}\\backslash \\left\\{ {k\\pi ,k \\in \\mathbb{Z}} \\right\\}\\) . Vậy (4) sai."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Hàm số \\(y = \\frac{{\\sqrt {2 + \\cos x} }}{{\\sin 3x}}\\) có tập xác định là",
+      "options": [
+        "A. \\[D = \\mathbb{R}\\backslash \\left\\{ {\\frac{{k\\pi }}{3}|k \\in \\mathbb{Z}} \\right\\}\\] ;",
+        "B. \\(D = \\mathbb{R}\\backslash \\left\\{ {k\\pi |k \\in \\mathbb{Z}} \\right\\}\\) ;",
+        "C. \\[D = \\mathbb{R}\\backslash \\left\\{ {\\frac{{k\\pi }}{4}|k \\in \\mathbb{Z}} \\right\\}\\] ;",
+        "D. \\(D = \\mathbb{R}\\backslash \\left\\{ {\\frac{{k\\pi }}{2}|k \\in \\mathbb{Z}} \\right\\}\\) ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Biểu thức \\(\\frac{{\\sqrt {2 + \\cos x} }}{{\\sin 3x}}\\) có nghĩa khi \\(\\left\\{ \\begin{array}{l}2 + \\cos x \\ge 0\\\\\\sin 3x \\ne 0\\end{array} \\right.\\) . (1) Mặt khác ∀ x ∈ ℝ: –1 ≤ cosx ≤ 1 ⇔ 1 ≤ cosx + 2 ≤ 3. Lúc đó, (1) ⇔ sin3x ≠ 0, hay \\(x \\ne \\frac{{k\\pi }}{3}\\left( {k \\in \\mathbb{Z}} \\right)\\) . Vậy tập xác định của hàm số đã cho là \\[D = \\mathbb{R}\\backslash \\left\\{ {\\frac{{k\\pi }}{3}|k \\in \\mathbb{Z}} \\right\\}\\] ."
+    }
+  ]
+}

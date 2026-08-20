@@ -1,0 +1,55 @@
+{
+  "id": "2026-sg-thi-thude-thi-thu-tot-nghiep-thpt-2026-mon-toan-so-gd-dt-quang-ni",
+  "sourceId": "sieugioi:thi-thude-thi-thu-tot-nghiep-thpt-2026-m",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "title": "Thi ThửĐề thi thử tốt nghiệp THPT 2026 môn Toán sở GD&ĐT Quảng Ninh (lần 1)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "short_answer",
+      "content": "Câu 1: Trong không gian với hệ trục tọa độ \\(Oxyz\\), cho hai điểm \\(A(6;0;4)\\), \\(B(-3;-2;1)\\) và mặt phẳng \\((P): x+y+5z+1=0\\). Biết \\(M\\) là điểm thuộc mặt phẳng \\((P)\\) sao cho \\(MA+MB\\) đạt giá trị nhỏ nhất, tính độ dài đoạn \\(OM\\) (không làm tròn các bước trung gian, chỉ làm tròn kết quả cuối cùng tới hàng phần trăm).",
+      "answer": "0",
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 2,
+      "type": "short_answer",
+      "content": "Câu 2: Mô hình \\(EOQ\\) (Economic Order Quantity) được công bố năm 1913 là một công cụ quản trị vận hành dùng để xác định lượng hàng nhập kho tối ưu. Giả sử một cửa hàng thức ăn cho mèo có nhu cầu tiêu thụ hàng hóa đều đặn với tốc độ bán hàng \\(d = 100\\) hộp/ ngày. Các thông số chi phí được xác định như sau:\n\\(K = 1.000.000\\) đồng: chi phí cố định cho mỗi lần đặt hàng (phí vận chuyển, nhân công…);\n\\(c\\) đồng/ hộp: giá nhập mỗi hộp hàng (giả định không đổi và không có chiết khấu);\n\\(h = 500\\) đồng/hộp/ngày: đơn giá lưu kho (chi phí lưu giữ một hộp hàng trong kho trong một ngày).\nGọi \\(Q\\) (hộp) là số lượng hàng mà người bán nhập vào trong mỗi lần đặt hàng. Thời gian tiêu thụ hết lượng hàng là \\(\\frac{Q}{d}\\) (ngày). Tổng chi phí cho một chu kỳ đặt hàng và tiêu thụ hết hàng là \\(f = K + cQ + \\frac{hQ^2}{2d}\\).\nHỏi cửa hàng nên nhập bao nhiêu hộp trong mỗi lần đặt hàng để chi phí trung bình mỗi ngày là nhỏ nhất (không làm tròn các bước trung gian, chỉ làm tròn kết quả cuối cùng tới hàng đơn vị)?",
+      "answer": "0",
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 3,
+      "type": "short_answer",
+      "content": "Câu 3: Trong một cuộc thi, có 7 thí sinh đã giúp cố định chỗ ngồi quanh một bàn tròn và giám thị có 3 mã đề khác nhau (giả sử số lượng đề thi của mỗi mã là nhiều tùy ý). Hỏi có bao nhiêu cách phát đề cho các thí sinh, mỗi thí sinh 1 đề sao cho hai thí sinh ngồi cạnh nhau thì khác mã đề?",
+      "answer": "0",
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 4,
+      "type": "short_answer",
+      "content": "Câu 4: Vệ tinh Van Allen Probes được phóng lên không gian để nghiên cứu các vành đai bức xạ bao quanh Trái Đất. Vệ tinh này bay theo một quỹ đạo có chu kỳ 10 giờ - nghĩa là mỗi vòng bay quanh Trái Đất kéo dài đúng 10 giờ. Cứ mỗi vòng bay, vệ tinh lại xuyên qua vùng bức xạ mạnh và tích lũy thêm\nliều bức xạ\n. Biết rằng đơn vị của bức xạ là Gray (Gy), và khi tổng\nliều bức xạ\nchiếu vào vệ tinh đạt 1000 Gray, thì vệ tinh hỏng hoàn toàn. Khoảng cách từ tâm Trái Đất đến vệ tinh được mô hình hóa bằng hàm số \\(R(T) = 7000 + 3000T\\) (km), trong đó \\(T\\) là thời gian tính bằng giờ, \\(0 \\leq T \\leq 10\\), kể từ đầu vòng bay. Công thức\nsuất liều bức xạ\n- tức là lượng bức xạ vệ tinh nhận được trong 1 giờ, phụ thuộc vào khoảng cách \\(R\\) (km) từ vệ tinh tới tâm Trái Đất, là \\(D(R) = 60 \\cdot \\left(\\frac{R}{25000}\\right)^2\\) milliGray/giờ. Biết rằng do tính đối xứng và chu kỳ của quỹ đạo bay, tổng liều bức xạ vệ tinh nhận được trong một vòng bay 10 giờ được tính bằng công thức \\(L = 2\\displaystyle\\int_{0}^{5} D(R(T))\\,dT\\), và \\(1 \\text{ Gray} = 1000 \\text{ milliGray}\\). Tính số năm hoạt động của vệ tinh từ lúc bắt đầu hoạt động tới khi hỏng hoàn toàn\n(không làm tròn các bước trung gian, chỉ làm tròn kết quả cuối cùng tới hai chữ số thập phân sau dấu phẩy, coi một năm có 365 ngày, mỗi ngày có 24 giờ).",
+      "answer": "0",
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 5,
+      "type": "short_answer",
+      "content": "Câu 5: Trong âm nhạc, một\nquãng tám\n(octave) là khoảng cách âm thanh từ nốt Đô tới nốt Đô tiếp theo, theo thứ tự từ thấp đến cao là:\nĐô – Đô# – Rê – Rê# –\nMi (E4)\n– Pha – Pha# – Sol – Sol# –\nLa (A4)\n– La# – Si – Đô\ntrong đó khoảng cách giữa hai nốt liền tiếp gọi là một\nnửa cung\n(semitone). Hai nốt cách nhau \\(n\\) nửa cung thì tỷ lệ tần số của nốt cao \\(f_{nc}\\) và tần số nốt thấp \\(f_{nt}\\) là \\(\\frac{f_{nc}}{f_{nt}} = 2^{\\frac{n}{12}}\\); cho biết tần số chuẩn của nốt La (A4) là 440 Hz. Trên đàn guitar, dây số 1 là nốt Mi (E4) đang bị chùng do thời tiết, tần số đo được hiện tại đang là 300 Hz. Để căng lại dây đàn cho chuẩn, ta dùng núm xoay, và cứ vặn núm xoay \\(90°\\) thì nốt nhạc được tăng lên một nửa cung. Hỏi phải xoay núm của dây số 1 một góc bao nhiêu độ để dây số 1 trở về âm chuẩn\n(không làm tròn các bước trung gian, chỉ làm tròn kết quả cuối cùng tới hàng đơn vị)?",
+      "answer": "0",
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 6,
+      "type": "short_answer",
+      "content": "Câu 6: Cho hình lăng trụ \\(ABC.A'B'C'\\) có đáy \\(ABC\\) là tam giác đều cạnh bằng 2, hình chiếu của \\(A'\\) trên \\((ABC)\\) trùng với trung điểm \\(M\\) của \\(AB\\); góc giữa cạnh bên và mặt đáy bằng \\(60°\\). Gọi \\(N\\) là trung điểm của \\(CC'\\). Tính khoảng cách từ \\(B'\\) tới mặt phẳng \\((A'MN)\\)\n(không làm tròn các bước trung gian, chỉ làm tròn kết quả cuối cùng tới hàng phần trăm).",
+      "answer": "0",
+      "note": "Đáp án đối chiếu chuẩn"
+    }
+  ]
+}

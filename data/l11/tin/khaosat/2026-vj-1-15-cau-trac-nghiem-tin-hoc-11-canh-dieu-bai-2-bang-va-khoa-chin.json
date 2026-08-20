@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-11-canh-dieu-bai-2-bang-va-khoa-chin",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-11-canh-die",
+  "grade": "l11",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 11 Cánh diều Bài 2: Bảng và khóa chính trong cơ sở dữ liệu quan hệ có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Trong cơ sở dữ liệu quan hệ, mỗi bảng chứa gì?",
+      "options": [
+        "A. Chỉ một hàng dữ liệu",
+        "B. Một tập hợp các cột và hàng",
+        "C. Một danh sách các mối quan hệ",
+        "D. Chỉ các hàng không có cột"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Trong cơ sở dữ liệu quan hệ, bảng là tập hợp các hàng (bản ghi) và cột (trường), trong đó mỗi cột biểu thị một thuộc tính và mỗi hàng biểu thị một bản ghi."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Trong một bảng, khóa chính là gì?",
+      "options": [
+        "A. Một trường chứa các giá trị lặp lại",
+        "B. Một trường có thể để trống",
+        "C. Một trường hoặc tập hợp các trường dùng để xác định duy nhất bản ghi",
+        "D. Một tập hợp các trường không thể thay đổi"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Khóa chính là một trường hoặc tập hợp các trường dùng để xác định duy nhất một bản ghi trong bảng, không cho phép các giá trị trùng lặp."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Tại sao cần chỉ định khóa chính trong bảng?",
+      "options": [
+        "A. Để tạo ra nhiều bản ghi giống nhau",
+        "B. Để ngăn chặn lỗi cập nhật dữ liệu",
+        "C. Để đảm bảo mỗi bản ghi được xác định duy nhất",
+        "D. Để giảm kích thước cơ sở dữ liệu"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Khóa chính đảm bảo rằng mỗi bản ghi trong bảng là duy nhất và không thể có hai bản ghi giống hệt nhau."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Khóa chính có thể bao gồm những gì?",
+      "options": [
+        "A. Một trường duy nhất",
+        "B. Một hoặc nhiều trường",
+        "C. Một tập hợp các bảng",
+        "D. Không liên quan đến các trường"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Khóa chính có thể bao gồm một trường hoặc nhiều trường, miễn là nó có thể xác định duy nhất mỗi bản ghi trong bảng."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Khóa chính trong bảng thường được chọn dựa trên tiêu chí nào?",
+      "options": [
+        "A. Số lượng ký tự của các giá trị trong trường",
+        "B. Độ phổ biến của dữ liệu trong trường",
+        "C. Khả năng xác định duy nhất bản ghi",
+        "D. Độ phức tạp của các giá trị"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Khóa chính phải có khả năng xác định duy nhất một bản ghi trong bảng để tránh các bản ghi trùng lặp."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trường nào sau đây có thể làm khóa chính tốt nhất cho bảng chứa thông tin học sinh?",
+      "options": [
+        "A. Họ và tên",
+        "B. Ngày sinh",
+        "C. Mã số học sinh",
+        "D. Địa chỉ nhà"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Mã số học sinh là duy nhất cho mỗi học sinh, do đó có thể sử dụng để làm khóa chính nhằm xác định mỗi bản ghi một cách rõ ràng."
+    }
+  ]
+}

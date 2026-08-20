@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-3-10-bai-tap-tim-khoang-bien-thien-khoang-tu-phan-vi-cac-gia-tri-",
+  "sourceId": "vietjack:3-10-bai-tap-tim-khoang-bien-thien-khoan",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.10 Bài tập Tìm khoảng biến thiên, khoảng tứ phân vị, các giá trị ngoại lệ, độ lệch chuẩn và phương sai mẫu số liệu cho trước (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho mẫu số liệu sau: 12; 5; 8; 11; 6; 20; 22. Tính khoảng biến thiên của mẫu số liệu trên.",
+      "options": [
+        "A. 16",
+        "B. 17",
+        "C. 18",
+        "D. 19"
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải: Đáp án đúng là: B. Sắp xếp mẫu số liệu trên theo thứ tự không giảm ta có: 5; 6; 8; 11; 12; 20; 22. + Giá trị nhỏ nhất của mẫu số liệu trên là 5. + Giá trị lớn nhất của mẫu số liệu trên là 22. Ta có: R = 22 – 5 = 17. Do đó khoảng biến thiên của mẫu số liệu trên là 17."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho mẫu số liệu sau: 5; 6; 12; 2; 5; 17; 23; 15; 10. Tính khoảng tứ phân vị của mẫu số liệu trên.",
+      "options": [
+        "A. 8",
+        "B. 9",
+        "C. 10",
+        "D. 11"
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải: Đáp án đúng là: D. Sắp xếp mẫu số liệu trên theo thứ tự không giảm ta có: 2; 5; 5; 6; 10; 12; 15; 17; 23. + Giá trị tứ phân vị thứ nhất là trung vị của mẫu: 2; 5; 5; 6. Do đó Q 1 = 5 + 5 2 = 5 . + Giá trị tứ phân vị thứ ba là trung vị của mẫu: 12; 15; 17; 23. Do đó Q 3 = 15 + 17 2 = 16 . Ta có: ∆ Q = Q 3 – Q 1 = 16 – 5 = 11 Do đó khoảng tứ phân vị của mẫu số liệu trên là 11."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho mẫu số liệu sau: 7; 2; 10; 12; 5. Tìm phương sai của mẫu số liệu trên.",
+      "options": [
+        "A. 12,56;",
+        "B. 12,32;",
+        "C. 10,55;",
+        "D. 13,26."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A. Số trung bình của mẫu số liệu trên là: x ¯ = 7 + 2 + 10 + 12 + 5 5 = 7 , 2 Công thức tính phương sai của một mẫu số liệu là: S 2 = 1 n x 1 − x ¯ 2 + x 2 − x ¯ 2 + ... + x n − x ¯ 2 Thay số ta có: S 2 = 1 5 [( 7 – 7,2) 2 + ( 2 – 7,2) 2 + ( 10 – 7,2) 2 + ( 12 – 7,2) 2 + ( 5 – 7,2) 2 ] = 12,56. Do đó phương sai của mẫu số liệu trên là 12,56."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho mẫu số liệu sau: 10; 3; 6; 9; 15. Tìm độ lệch chuẩn của mẫu số liệu trên (làm tròn đến hàng phần trăm).",
+      "options": [
+        "A. 3,03;",
+        "B. 4,03;",
+        "C. 5,03;",
+        "D. 6,03."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải: Đáp án đúng là: B. Số trung bình của mẫu số liệu trên là: x ¯ = 10 + 3 + 6 + 9 + 15 5 = 8 , 6 Công thức tính phương sai của một mẫu số liệu là: S 2 = 1 n x 1 − x ¯ 2 + x 2 − x ¯ 2 + ... + x n − x ¯ 2 Thay số ta có: S 2 = 1 5 [( 10 – 8,6) 2 + ( 3 – 8,6) 2 + ( 6 – 8,6) 2 + ( 9 – 8,6) 2 + ( 15 – 8,6) 2 ] = 16,24. Do đó phương sai của mẫu số liệu trên là 16,24. Độ lệch chuẩn của mẫu số liệu trên là S = S 2 = 16 , 24 ≈ 4,03."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho mẫu số liệu sau đây: 9; 1; 19; 25; 15; 43; 39; 28. Giá trị nào sau đây là giá trị ngoại lệ của mẫu số liệu trên?",
+      "options": [
+        "A. 1",
+        "B. 9",
+        "C. 43",
+        "D. Không có giá trị nào."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải: Đáp án đúng là: D. Sắp xếp mẫu số liệu trên theo thứ tự không giảm ta có: 1; 9; 15; 19; 25; 28; 39; 43. + Giá trị tứ phân vị thứ nhất là trung vị của mẫu: 1; 9; 15; 19. Do đó Q 1 = 9 + 15 2 = 12 . + Giá trị tứ phân vị thứ ba là trung vị của mẫu: 25; 28; 39; 43. Do đó Q 3 = 28 + 39 2 = 33 , 5 Khoảng tứ phân vị của mẫu: ∆ Q = Q 3 – Q 1 = 33,5 – 12 = 21,5. Ta có: + Q 3 + 1,5∆ Q = 33,5 + 1,5.21,5 = 65,75 + Q 1 – 1,5∆ Q = 12 – 1,5.21,5 = – 20,25 Vì không có giá trị nào của x thuộc mẫu số liệu trên thỏa mãn x > Q 3 + 1,5∆ Q hoặc x < Q 1 – 1,5∆ Q nên mẫu số liệu trên không có giá trị ngoại lệ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho mẫu số liệu sau: 2; 9; 12; 16; 3; 5; 12; 33; 24; 27. Tính khoảng tứ phân vị của mẫu số liệu trên.",
+      "options": [
+        "A. 17",
+        "B. 18",
+        "C. 19",
+        "D. 20"
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải: Đáp án đúng là: C. Sắp xếp mẫu số liệu trên theo thứ tự không giảm ta có: 2; 3; 5; 9; 12; 12; 16; 24; 27; 33. + Giá trị tứ phân vị thứ nhất là trung vị của mẫu: 2; 3; 5; 9; 12. Do đó Q 1 = 5. + Giá trị tứ phân vị thứ ba là trung vị của mẫu: 12; 16; 24; 27; 33. Do đó Q 3 = 24. Ta có : ∆ Q = Q 3 – Q 1 = 24 – 5 = 19. Do đó khoảng tứ phân vị của mẫu số liệu trên là 19."
+    }
+  ]
+}

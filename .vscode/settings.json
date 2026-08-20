@@ -1,0 +1,19 @@
+{
+  "liveServer.settings.ignoreFiles": [
+    "data/**",
+    "scratch/**",
+    "scripts/**",
+    ".git/**",
+    "node_modules/**"
+  ],
+  "files.watcherExclude": {
+    "**/data/**": true,
+    "**/scratch/**": true,
+    "**/scripts/**": true,
+    "**/.git/**": true
+  },
+  "search.exclude": {
+    "**/data/**": true,
+    "**/scratch/**": true
+  }
+}

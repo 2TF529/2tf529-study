@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-3-20-cau-trac-nghiem-toan-11-canh-dieu-bai-3-duong-thang-va-mat-p",
+  "sourceId": "vietjack:3-20-cau-trac-nghiem-toan-11-canh-dieu-b",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.20 câu Trắc nghiệm Toán 11 Cánh diều Bài 3. Đường thẳng và mặt phẳng song song (Đúng-sai, trả lời ngắn) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Chọn khẳng định đúng trong các khẳng định sau",
+      "options": [
+        "A. Hai đường thẳng phân biệt cùng song song với một mặt phẳng thì song song với nhau.",
+        "B. Nếu a // (P) thì tồn tại trong (P) đường thẳng b để b // a.",
+        "C. Nếu \\(\\left\\{ \\begin{array}{l}a//\\left( P \\right)\\\\b \\subset \\left( P \\right)\\end{array} \\right.\\) thì a // b.",
+        "D. Nếu a // (P) và đường thẳng b cắt mặt phẳng (P) thi hai đường thẳng a và b cắt nhau."
+      ],
+      "answer": "B",
+      "note": "Chọn B"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho mặt phẳng (α) và đường thẳng d (α). Khẳng định nào sau đây sai?",
+      "options": [
+        "A. Nếu d // (α) thì trong (α) tồn tại đường thẳng sao cho // d.",
+        "B. Nếu d // (α) và b (α) thì b // d.",
+        "C. Nếu d (α) = {A} và d' (α) thì d và d' hoặc cắt nhau hoặc chéo nhau. danh từ : nốt đô",
+        "D. Nếu d // c, c (α) thì d // (α)."
+      ],
+      "answer": "B",
+      "note": "Chọn B"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho các mệnh đề: 1) a // b, b (P) a // (P). 2) a // (P), a (Q) với mọi (Q) và (Q) (P) = b b // a. 3) Nếu hai mặt phẳng cắt nhau cùng song song với một đường thẳng thì giao tuyến của chúng cũng song song với đường thẳng đó. 4) Nếu a, b là hai đường thẳng chéo nhau thì có vô số mặt phẳng chứa a và song song với b. Số mệnh đề đúng là:",
+      "options": [
+        "A. 3.",
+        "B. 1.",
+        "C. 2.",
+        "D. 4."
+      ],
+      "answer": "A",
+      "note": "Chọn A"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hình chóp S.ABCD có đáy ABCD là hình bình hành. Đường thẳng AD song song với mặt phẳng nào trong các mặt phẳng dưới đây?",
+      "options": [
+        "A. (SBC).",
+        "B. (ABCD).",
+        "C. (SAC).",
+        "D. (SAB)."
+      ],
+      "answer": "A",
+      "note": "Do AD // BC mà BC Ì (SBC) nên AD // (SBC). Chọn A"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho tứ diện ABCD. Gọi G là trọng tâm tam giác ABD. M là điểm trên cạnh BC sao cho MB = 2MC. Khi đó đường thẳng MG song song với mặt phẳng nào dưới đây?",
+      "options": [
+        "A. (ACD).",
+        "B. (BCD).",
+        "C. (ABD).",
+        "D. (ABC)."
+      ],
+      "answer": "A",
+      "note": "Chọn A. Gọi E là trung điểm AD. Xét DBCE có \\(\\frac{{BG}}{{BE}} = \\frac{{BM}}{{BC}} = \\frac{2}{3}\\) nên suy ra MG // CE mà CE Ì (ACD) Þ MG // (ACD)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho hình chóp tứ giác S.ABCD. Gọi M và N lần lượt là trung điểm của SB và BD. Khẳng định nào sau đây đúng?",
+      "options": [
+        "A. MN // (SAD).",
+        "B. MN // (SBC).",
+        "C. MN // (SAB).",
+        "D. MN // (SAC)."
+      ],
+      "answer": "A",
+      "note": "Chọn A. Vì M, N lần lượt là trung điểm của SB và BD nên MN là đường trung bình của DSBD. Suy ra MN // SD mà SD Ì (SAD) nên MN // (SAD)."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Cho hình chóp S.ABCD có đáy là hình bình hành. Gọi M, N lần lượt là trung điểm của SA và AB. Khẳng định nào sau đây đúng?",
+      "options": [
+        "A. MN // BD.",
+        "B. MN // (SBC).",
+        "C. MN // (SAB).",
+        "D. MN cắt BC."
+      ],
+      "answer": "B",
+      "note": "ChọnB Vì M, N lần lượt là trung điểm của SA và AB nên MN là đường trung bình của DSAB. Suy ra MN // SB mà SB Ì (SBC) nên MN // (SBC)."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho tứ diện ABCD. Gọi G là trọng tâm của tam giác ABD, M thuộc cạnh AB sao cho AM = 2MB, N thuộc cạnh BD sao cho BD = 3DN, P thuộc cạnh AD sao cho \\(PA = \\frac{1}{2}PD\\). Khẳng định nào sau đây đúng?",
+      "options": [
+        "A. GN // (ACD).",
+        "B. GM // (ABC).",
+        "C. GN // (ABC).",
+        "D. GM // (ACD)."
+      ],
+      "answer": "A",
+      "note": "Chọn A. Gọi I là trung điểm của AD. Vì G là trọng tâm tam giác ABD nên \\(\\frac{{BG}}{{BI}} = \\frac{2}{3}\\) (1). Lại có BD = 3DN nên \\(\\frac{{BN}}{{BD}} = \\frac{2}{3}\\) (2). Từ (1) và (2), suy ra GN // ID mà ID Ì (ACD) nên GN // (ACD)."
+    }
+  ]
+}

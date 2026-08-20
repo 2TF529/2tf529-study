@@ -1,0 +1,78 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-10-ket-noi-tri-thuc-bai-22-co-dap-an",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-10-ket-noi-",
+  "grade": "l10",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu trắc nghiệm Tin học 10 Kết nối tri thức Bài 22 có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Đoạn lệnh sau làm nhiệm vụ gì? A = [] for x in range(10): A. append(int(input()))",
+      "options": [
+        "A. Nhập dữ liệu từ bàn phím cho mảng A có 10 phần tử là số nguyên.",
+        "B. Nhập dữ liệu từ bàn phím cho mảng A có 10 phần tử là số thực.",
+        "C. Nhập dữ liệu từ bàn phím cho mảng A có 10 phần tử là xâu.",
+        "D. Không có đáp án đúng."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Hàm append() thêm phần tử vào cuối danh sách và hàm int(input()) chuyển kiểu dữ liệu nhập vào sang kiểu số nguyên."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Chọn phát biểu đúng khi nói về dữ liệu kiểu mảng(List) trong python.",
+      "options": [
+        "A. Dữ liệu kiểu mảng là tập hợp các phần tử không có thứ tự và mọi phần tử có cùng một kiểu dữ liệu.",
+        "B. Dữ liệu kiểu mảng là tập hợp các phần tử có thứ tự và mỗi một phần tử trong mảng có thể có các kiểu dữ liệu khác nhau.",
+        "C. Dữ liệu kiểu m ảng là tập hợp các phần tử c ó thứ tự và mọi phần tử phải c ó cùng một kiểu dữ liệu.",
+        "D. Tất cả ý trên đều sai."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B List là kiểu dữ liệu mảng trong python và các phần tử của danh sách có thể có các kiểu dữ liệu khác nhau."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cách khai báo biến mảng sau đây, cách nào sai ?",
+      "options": [
+        "A. ls = [1, 2, 3]",
+        "B. ls = [x for x in range(3)]",
+        "C. ls = [int(x) for x in input().split()]",
+        "D. ls = list(3)."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho khai báo mảng sau: A = list(“3456789”) Để in giá trị phần tử thứ 2 của mảng một chiều A ra màn hình ta viết:",
+      "options": [
+        "A. print(A[2]).",
+        "B. print(A[1]).",
+        "C. print(A[3]).",
+        "D. print(A[0])."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Trong mảng, các phần tử đánh số thứ tự từ 0 nên phần tử thứ hai trong mảng có chỉ số là 1."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Chương trình sau thực hiện công việc gì? A=[] for i in range(1, 1001): if(i % 7 == 0) and (i % 5 !=0): A.append(str(i)) print(','.join(A))",
+      "options": [
+        "A. Tìm tất cả các số chia hết cho 7 nhưng không phải bội số của 5, nằm trong đoạn 1 và 1000.",
+        "B. Tìm tất cả các số chia hết cho 7 nhưng không phải bội số của 5, nằm trong đoạn 1 và 1000 và chuỗi thu được in trên một dòng, có dấu “,” ngăn cách giữa các số.",
+        "C. Tìm tất cả các số chia hết cho 7 và là bội số của 5, nằm trong đoạn 1 và 1000.",
+        "D. Tìm tất cả các số không chia hết cho 7 nhưng là phải bội số của 5, nằm trong đoạn 1 và 1000."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Chúng ta sử dụng phương thức join() trong python để nối các chuỗi ký tự là phần tử trong một list lại với nhau, bằng một hoặc một chuỗi ký tự phân cách. Phương thức append() thêm phần tử vào cuối danh sách."
+    }
+  ]
+}

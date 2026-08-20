@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-3-21-cau-trac-nghiem-toan-10-canh-dieu-bai-4-bat-phuong-trinh-bac",
+  "sourceId": "vietjack:3-21-cau-trac-nghiem-toan-10-canh-dieu-b",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.21 câu Trắc nghiệm Toán 10 Cánh diều Bài 4. Bất phương trình bậc hai một ẩn (Đúng-sai, trả lời ngắn) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Tập xác định của hàm số \\(y = \\sqrt { - {x^2} + 2x + 3} \\) là:",
+      "options": [
+        "A. \\(\\left( {1;3} \\right)\\).",
+        "B. \\(\\left( { - \\infty ; - 1} \\right) \\cup \\left( {3; + \\infty } \\right)\\).",
+        "C. C . \\(\\left[ { - 1;3} \\right]\\).",
+        "D. \\(\\left( { - \\infty ; - 1} \\right] \\cup \\left[ {3; + \\infty } \\right)\\)."
+      ],
+      "answer": "C",
+      "note": "Hàm số \\(y = \\sqrt { - {x^2} + 2x + 3} \\) xác định khi \\( - {x^2} + 2x + 3 \\ge 0 \\Leftrightarrow - 1 \\le x \\le 3\\). Vậy tập xác định của hàm số là \\(D = \\left[ { - 1;3} \\right]\\)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Trong các bất phương trình sau, đâu là bất phương trình bậc hai một ẩn?",
+      "options": [
+        "A. \\({x^2} + {y^2} - 1 \\le 0\\).",
+        "B. \\(x + y < 0\\).",
+        "C. \\(2{x^2} - 3 > 0\\).",
+        "D. \\({x^2} - 2y \\ge 0\\)."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Bất phương trình \\(2{x^2} - 3 > 0\\) là bất phương trình bậc hai một ẩn."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho bất phương trình \\[{x^2} - 6x + 4 > 0\\]. Trong các giá trị sau đây của \\[x\\], giá trị nào là nghiệm của bất phương trình đã cho?",
+      "options": [
+        "A. \\[x = 1\\].",
+        "B. \\[x = 3\\].",
+        "C. \\[x = - 1\\].",
+        "D. \\[x = 4\\]."
+      ],
+      "answer": "C",
+      "note": "Thay lần lượt từ giá trị của \\[x\\] vào bất phương trình đã cho ta thấy \\[x = - 1\\] thỏa mãn nên đây là nghiệm của bấy phương trình."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Số nghiệm nguyên của bất phương trình \\(2{x^2} - 3x - 15 \\le 0\\) là",
+      "options": [
+        "A. A . \\(6\\).",
+        "B. \\(5\\).",
+        "C. \\[8\\].",
+        "D. \\[7\\]."
+      ],
+      "answer": "A",
+      "note": "Xét \\(f\\left( x \\right) = 2{x^2} - 3x - 15\\). \\(f\\left( x \\right) = 0\\)\\( \\Leftrightarrow x = \\frac{{3 \\pm \\sqrt {129} }}{4}\\). Ta có bảng xét dấu: Tập nghiệm của bất phương trình là \\(S = \\left[ {\\frac{{3 - \\sqrt {129} }}{4};\\,\\frac{{3 + \\sqrt {129} }}{4}} \\right]\\). Do đó bất phương trình có \\(6\\) nghiệm nguyên là \\( - 2\\), \\( - 1\\), \\(0\\), \\(1\\), \\(2\\), \\(3\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Tập nghiệm của bất phương trình \\({x^2} + 9 > 6x\\) là",
+      "options": [
+        "A. \\[\\left( {3; + \\infty } \\right)\\].",
+        "B. B . \\(\\mathbb{R}\\backslash \\left\\{ 3 \\right\\}\\).",
+        "C. \\(\\mathbb{R}\\).",
+        "D. \\[\\left( {--\\infty ;3} \\right)\\]."
+      ],
+      "answer": "B",
+      "note": "Ta có \\({x^2} + 9 > 6x\\)\\( \\Leftrightarrow {\\left( {x - 3} \\right)^2} > 0\\)\\( \\Leftrightarrow x \\ne 3\\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Tìm tập nghiệm của bất phương trình \\({x^2} + 5x + 4 > 0\\).",
+      "options": [
+        "A. \\(S = \\mathbb{R}\\).",
+        "B. \\(S = \\emptyset \\).",
+        "C. \\(S = \\left( { - \\infty ; - 4} \\right) \\cup \\left( { - 1; + \\infty } \\right)\\).",
+        "D. \\(\\left( { - \\infty ; - 4} \\right] \\cup \\left[ { - 1; + \\infty } \\right)\\)."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có \\({x^2} + 5x + 4 > 0 \\Leftrightarrow x \\in \\left( { - \\infty ; - 4} \\right) \\cup \\left( { - 1; + \\infty } \\right)\\). Vậy \\(S = \\left( { - \\infty ; - 4} \\right) \\cup \\left( { - 1; + \\infty } \\right)\\). Ta Có \\ ({x^2} + 5x + 4> 0 \\ leftrightarrow x \\ in \\ left ({ - \\ infty; - 4} \\ right) \\ Cup \\ trái ({ - 1; + \\ infty} \\ phải)"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Tập nghiệm của bất phương trình \\({x^2} + x - 1 \\ge 2{x^2} - 7\\) là",
+      "options": [
+        "A. \\(S = \\left[ { - 2;\\,3} \\right]\\).",
+        "B. \\(S = \\left( { - \\infty ;\\, - 2} \\right] \\cup \\left[ {3;\\, + \\infty } \\right)\\).",
+        "C. \\(S = \\mathbb{R}\\backslash \\left\\{ { - 2;\\,3} \\right\\}\\).",
+        "D. \\(S = \\emptyset \\)."
+      ],
+      "answer": "A",
+      "note": "Ta có \\({x^2} + x - 1 \\ge 2{x^2} - 7 \\Leftrightarrow - {x^2} + x + 6 \\ge 0 \\Leftrightarrow - 2 \\le x \\le 3\\)."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Tập nghiệm của bất phương trình \\( - {x^2} + 4x - 3 \\ge 0\\) có dạng \\(\\left[ {a;b} \\right]\\) với \\(a,b\\) là các số nguyên và \\(a < b\\). Khi đó \\(a + 2b\\) bằng",
+      "options": [
+        "A. \\(4\\).",
+        "B. \\( - 4\\).",
+        "C. \\(5\\).",
+        "D. \\(7\\)."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Ta có \\( - {x^2} + 4x - 3 \\ge 0 \\Leftrightarrow 1 \\le x \\le 3\\). Tập nghiệm của bất phương trình đã cho là \\(S = \\left[ {1;3} \\right]\\). Suy ra \\(a = 1\\); \\(b = 3\\). Vậy \\(a + 2b = 1 + 2 \\cdot 3 = 7\\)."
+    }
+  ]
+}

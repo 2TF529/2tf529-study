@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-5-10-bai-tap-cach-xac-dinh-so-gan-dung-cua-mot-so-voi-do-chinh-xa",
+  "sourceId": "vietjack:5-10-bai-tap-cach-xac-dinh-so-gan-dung-c",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "5.10 Bài tập Cách xác định số gần đúng của một số với độ chính xác cho trước (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho a ¯ = 2 . Xác định số gần đúng của a ¯ với độ chính xác d = 0,02.",
+      "options": [
+        "A. 1,414;",
+        "B. 1,42;",
+        "C. 1,41;",
+        "D. 1,415."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải: Đáp án đúng là: C. Ta có: a ¯ = 2 = 1,414213562... Hàng của chữ số khác 0 đầu tiên bên trái của d = 0,02 là hàng phần trăm. Quy tròn a ¯ đến hàng phần trăm ta được số gần đúng của a ¯ là a = 1,41."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho a ¯ = 3 3 . Xác định số gần đúng của a ¯ với độ chính xác d = 0,004.",
+      "options": [
+        "A. 0,578;",
+        "B. 0,577;",
+        "C. 0,5773;",
+        "D. 0,5774."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải: Đáp án đúng là: B. Ta có: a ¯ = 3 3 = 0,5773502692... Hàng của chữ số khác 0 đầu tiên bên trái của d = 0,004 là hàng phần nghìn. Quy tròn a ¯ đến hàng phần nghìn ta được số gần đúng của a ¯ là a = 0,577."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho a ¯ = 2 7 . Xác định số gần đúng của a ¯ với độ chính xác d = 0,05.",
+      "options": [
+        "A. 0,28;",
+        "B. 0,285;",
+        "C. 0,286;",
+        "D. 0,29."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải: Đáp án đúng là: D. Ta có: a ¯ = 2 7 = 0,2857142857... Hàng của chữ số khác 0 đầu tiên bên trái của d = 0,05 là hàng phần trăm. Quy tròn a ¯ đến hàng phần trăm ta được số gần đúng của a ¯ là a = 0,29."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho a ¯ = 5 . Xác định số gần đúng của a ¯ với độ chính xác d = 0,0001.",
+      "options": [
+        "A. 2,236;",
+        "B. 2,237;",
+        "C. 2,24;",
+        "D. 2,2361."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải: Đáp án đúng là: D. Ta có: a ¯ = 5 = 2,236067977... Hàng của chữ số khác 0 đầu tiên bên trái của d = 0,0001 là hàng phần chục nghìn. Quy tròn a ¯ đến hàng phần chục nghìn ta được số gần đúng của a ¯ là a = 2,2361."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho a ¯ = 3 − 5 2 . Xác định số gần đúng của a ¯ với độ chính xác d = 0,001.",
+      "options": [
+        "A. – 1,634;",
+        "B. – 1,633;",
+        "C. – 1,6339;",
+        "D. – 1,63."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A. Ta có: a ¯ = 3 − 5 2 = – 1,633974596... Hàng của chữ số khác 0 đầu tiên bên trái của d = 0,001 là hàng phần nghìn. Quy tròn a ¯ đến hàng phần nghìn ta được số gần đúng của a ¯ là a = – 1,634."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho a ¯ = 2 + 3 3 . Xác định số gần đúng của a ¯ với độ chính xác d = 0,006.",
+      "options": [
+        "A. 1,47;",
+        "B. 1,471;",
+        "C. 1,472;",
+        "D. 1,4714."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải: Đáp án đúng là: B. Ta có: a ¯ = 2 + 3 3 = 1,471404521... Hàng của chữ số khác 0 đầu tiên bên trái của d = 0,006 là hàng phần nghìn. Quy tròn a ¯ đến hàng phần nghìn ta được số gần đúng của a ¯ là a = 1,471."
+    }
+  ]
+}

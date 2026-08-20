@@ -1,0 +1,196 @@
+{
+  "id": "l12-toan-totnghiep-2026-de-kscl-thpt-toan-lien-truong-thpt-tinh-nghe-an-2026-lan-1",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "code": "THPT_TTT_2026_NA_01",
+  "title": "Đề khảo sát chất lượng THPT môn Toán Liên trường THPT Sở GD&ĐT Nghệ An năm 2026 - Lần 1",
+  "duration": 90,
+  "answerSource": "official",
+  "source": "https://dolthpt.vn/tot-nghiep-thpt/pdf-de-kscl-thpt-toan-lien-truong-thpt-tinh-nghe-an-2026-lan-1-co-dap-an",
+  "notes": "Nội dung, đáp án và lời giải được nhập từ bản công khai của DOL THPT.",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "content": "Cho hàm số $y=f(x)$ có bảng biến thiên như hình vẽ bên. Mệnh đề nào dưới đây đúng?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-kscl-thpt-toan-lien-truong-thpt-tinh-nghe-an-2026-lan-1/cau-01.webp\" alt=\"Hình minh họa câu 1\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "cực trị của hàm số",
+      "type": "single",
+      "options": [
+        "A. $\\min_{\\mathbb{R}}y=4$.",
+        "B. $y_{CT}=0$.",
+        "C. $\\max_{\\mathbb{R}}y=5$.",
+        "D. $y_{CĐ}=5$."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số $y=f(x)$ có bảng biến thiên với các mốc $x=-\\infty;0,;1;+\\infty.$\n- Dấu của đạo hàm: - Trên $(-\\infty,0): y'<0$ (hàm giảm).\n  - Tại $x=0: y'=0.$\n  - Trên $(0,1): y'>0$ (hàm tăng).\n  - Tại $x=1:$ ký hiệu $||$ (đạo hàm không xác định).\n  - Trên $(1,+\\infty): y'<0$ (hàm giảm).\n- Giá trị/giới hạn của $y$: - Khi $x\\to -\\infty,; y\\to +\\infty.$\n  - $f(0)=4.$\n  - Tại $x=1$ bảng cho $f(1)=5.$\n  - Khi $x\\to +\\infty,; y\\to -\\infty.$\n❓ **Hiểu câu hỏi:**\n- Chọn mệnh đề **đúng** trong các phát biểu A, B, C, D.\n- Cần áp dụng: dấu của $y'$ để suy ra tính đơn điệu, từ đó kết luận **cực tiểu/cực đại** và kiểm tra **GTLN/GTNN trên** $\\mathbb{R}$ dựa vào giới hạn ở $\\pm\\infty.$\n🔎 **Hướng dẫn cách làm:**\n- Vì trên $(-\\infty,0)$ có $y'<0$ và trên $(0,1)$ có $y'>0$ nên hàm **đổi từ giảm sang tăng** tại $x=0$\n$\\Rightarrow x=0 \\text{ là điểm cực tiểu},\\quad y_{CT}=f(0)=4.$\n- Vì trên $(0,1)$ có $y'>0$ và trên $(1,+\\infty)$ có $y'<0$ nên hàm **đổi từ tăng sang giảm** tại $x=1$\n$\\Rightarrow x=1 \\text{ là điểm cực đại},\\quad y_{CĐ}=f(1)=5.$\n- Kiểm tra GTLN/GTNN: - $\\lim_{x\\to -\\infty}f(x)=+\\infty$ nên hàm **không có GTLN** trên $\\mathbb{R}$ (không thể có $\\max_{\\mathbb{R}} y = 5$).\n  - $\\lim_{x\\to +\\infty}f(x)=-\\infty$ nên hàm **không có GTNN** trên $\\mathbb{R}$ (không thể có $\\min_{\\mathbb{R}} y = 4$).\n✅ **Đáp án:** D. $y_{CĐ}=5.$"
+    },
+    {
+      "id": 2,
+      "content": "Tìm công sai $d$ của cấp số cộng $(u_n),\\ n\\in\\mathbb{N}^*$ có $u_1=1;\\ u_4=13$.",
+      "chuong": "dãy số. cấp số cộng và cấp số nhân",
+      "dang": "số hạng tổng quát của cấp số cộng",
+      "type": "single",
+      "options": [
+        "A. $d=\\dfrac{1}{3}$.",
+        "B. $d=3$.",
+        "C. $d=\\dfrac{1}{4}$.",
+        "D. $d=4$."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- *Gồm một cấp số cộng* $(u_n),\\ n\\in\\mathbb{N}^*$.\n- $u_1 = 1.$\n- $u_4 = 13.$\n❓ **Hiểu câu hỏi:**\n- Tìm *công sai* $d$ của cấp số cộng đã cho.\n- Cần áp dụng công thức tổng quát của cấp số cộng: công thức biểu diễn phần tử thứ n theo $u_1$ và $d$.\n🔎 **Hướng dẫn cách làm:**\n- Công thức tổng quát của cấp số cộng: $u_n = u_1 + (n-1)d.$\n- Áp dụng cho $n=4$: $u_4 = u_1 + 3d.$\n- Thay các giá trị đã cho: \\$13 = 1 + 3d.$\n- Giải phương trình để tìm $d$: \\$3d = 13 - 1 = 12 \\Rightarrow d = \\dfrac{12}{3} = 4.$\n- Kiểm tra nhanh: d = 4 cho các số hạng đầu: $u_1=1,\\ u_2=5,\\ u_3=9,\\ u_4=13$ — đúng với dữ kiện.\n✅ **Đáp án:** D. $d=4$"
+    },
+    {
+      "id": 3,
+      "content": "Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình vuông cạnh $a$. Biết $SA\\perp(ABCD)$ và $SA=a\\sqrt{3}$. Thể tích của khối chóp $S.ABCD$ là:",
+      "chuong": "quan hệ vuông góc trong không gian",
+      "dang": "thể tích",
+      "type": "single",
+      "options": [
+        "A. $a^3\\sqrt{3}$.",
+        "B. $\\dfrac{a^3\\sqrt{3}}{3}$.",
+        "C. $\\dfrac{a^3}{4}$.",
+        "D. $\\dfrac{a^3\\sqrt{3}}{12}$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hình chóp $S.ABCD$ có đáy $ABCD$ là hình vuông cạnh $a$.\n- $SA\\perp(ABCD)$.\n- $SA=a\\sqrt{3}$.\n- (Hình đính kèm) Hình vẽ cho thấy đỉnh $S$ cách mặt đáy theo chiều cao bằng $SA$.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu tính thể tích khối chóp $S.ABCD$.\n- Cần áp dụng công thức thể tích khối chóp: thể tích = $\\tfrac{1}{3}$ × diện tích đáy × chiều cao.\n- Diện tích đáy là diện tích hình vuông cạnh $a$: $a^2$. Chiều cao là $SA$ vì $SA\\perp(ABCD)$.\n🔎 **Hướng dẫn cách làm:**\n- Diện tích đáy: $S_{đáy}=a^2.$\n- Chiều cao của khối chóp là $h=SA=a\\sqrt{3}$ (do $SA\\perp(ABCD)$).\n- Áp dụng công thức thể tích khối chóp: $V=\\frac{1}{3}\\,S_{đáy}\\cdot h.$\n- Thay các giá trị vào: $V=\\frac{1}{3}\\cdot a^2\\cdot a\\sqrt{3}=\\frac{1}{3}a^3\\sqrt{3}.$\n✅ **Đáp án:** B. $\\dfrac{a^3\\sqrt{3}}{3}$"
+    },
+    {
+      "id": 4,
+      "content": "Một cuộc khảo sát được thực hiện để điều tra số giờ sử dụng điện thoại và tivi của \\$40$ học sinh lớp \\$11A$ trong một tuần. Thu được kết quả như sau:Nhóm chứa mốt là ?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-kscl-thpt-toan-lien-truong-thpt-tinh-nghe-an-2026-lan-1/cau-04.webp\" alt=\"Hình minh họa câu 4\" loading=\"lazy\"></figure>",
+      "chuong": "các số đặc trưng đo xu thế trung tâm của mẫu số liệu ghép nhóm",
+      "dang": "mốt của mẫu số liệu ghép nhóm",
+      "type": "single",
+      "options": [
+        "A. $[4;6)$",
+        "B. $[0;2)$",
+        "C. $[2;4)$",
+        "D. $[6;8)$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Tổng số học sinh khảo sát: *40*.\n- Bảng phân bố (dựa vào ảnh đính kèm): - Thời gian $[0;2)$ : Số học sinh = *6*\n  - Thời gian $[2;4)$ : Số học sinh = *18*\n  - Thời gian $[4;6)$ : Số học sinh = *12*\n  - Thời gian $[6;8)$ : Số học sinh = *4*\n❓ **Hiểu câu hỏi:**\n- Câu hỏi: \"Nhóm chứa mốt là ?\" — tức là nhóm thời gian nào chứa mốt (mode) của dữ liệu.\n- Kiến thức cần dùng: Khái niệm *mốt* trong phân bố tần số — mốt là giá trị hoặc lớp có tần số lớn nhất.\n🔎 **Hướng dẫn cách làm:**\n- Liệt kê các tần số theo thứ tự các lớp: \\$6,\\;18,\\;12,\\;4.$\n- Tìm tần số lớn nhất bằng cách so sánh: $\\max\\{6,18,12,4\\}=18.$\n- Tần số lớn nhất 18 tương ứng với lớp thời gian $[2;4).$\n- Dựa trên các lựa chọn (A: $[4;6)$, B: $[0;2)$, C: $[2;4)$, D: $[6;8)$), lớp chứa mốt là lựa chọn C.\n✅ **Đáp án:** $C. [2;4)$"
+    },
+    {
+      "id": 5,
+      "content": "Đạo hàm của hàm số $y=3^x$ là:",
+      "chuong": "đạo hàm",
+      "dang": "đạo hàm của một số hàm số thường gặp",
+      "type": "single",
+      "options": [
+        "A. $y'=\\dfrac{3^x}{\\ln3}$.",
+        "B. $y'=\\dfrac{-3^x}{\\ln3}$.",
+        "C. $y'=-3^x\\ln3$.",
+        "D. $y'=3^x\\ln3$."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số cần lấy đạo hàm: $y=3^x.$\n- Các đáp án liên quan đến biểu thức đạo hàm của hàm mũ cơ số \\$3$.\n❓ **Hiểu câu hỏi:**\n- Yêu cầu: tính đạo hàm $y'$ của hàm số $y=3^x.$\n- Kiến thức cần dùng: công thức đạo hàm hàm mũ $\\left(a^x\\right)'=a^x\\ln a\\quad (a>0,;a\\ne 1).$\n🔎 **Hướng dẫn cách làm:**\n- Nhận thấy $a=3$ nên áp dụng trực tiếp công thức: $\\left(3^x\\right)'=3^x\\ln 3.$\n- Vậy: $y'=3^x\\ln 3.$\n✅ **Đáp án:** D. $y'=3^x\\ln 3.$"
+    },
+    {
+      "id": 6,
+      "content": "Cho lăng trụ tam giác đều $ABCA'B'C'$ có cạnh đáy $AB=a$, cạnh bên $AA'=2a$. Khoảng cách giữa hai mặt đáy của lăng trụ bằng?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-kscl-thpt-toan-lien-truong-thpt-tinh-nghe-an-2026-lan-1/cau-06.webp\" alt=\"Hình minh họa câu 6\" loading=\"lazy\"></figure>",
+      "chuong": "quan hệ vuông góc trong không gian",
+      "dang": "khoảng cách giữa các đường thẳng và mặt phẳng song song, giữa hai mặt phẳng song song",
+      "type": "single",
+      "options": [
+        "A. $a\\sqrt{5}$.",
+        "B. \\$2a$.",
+        "C. $a$.",
+        "D. \\$3a$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Lăng trụ tam giác đều $ABCA'B'C'.$\n- Cạnh đáy: $AB=a$ (nên tam giác $ABC$ đều cạnh $a$).\n- Cạnh bên: $AA'=2a.$\n- Hỏi: khoảng cách giữa hai mặt đáy $\\left(ABC\\right)$ và $\\left(A'B'C'\\right).$\n❓ **Hiểu câu hỏi:**\n- “Khoảng cách giữa hai mặt đáy” chính là **chiều cao của lăng trụ**, tức là độ dài đoạn vuông góc từ mặt đáy dưới lên mặt đáy trên.\n- Với **lăng trụ đều**, các cạnh bên vuông góc với mặt đáy, nên chiều cao bằng độ dài cạnh bên.\n🔎 **Hướng dẫn cách làm:**\n- Vì là **lăng trụ tam giác đều** nên: $AA'\\perp (ABC).$\n- Do đó, khoảng cách giữa hai mặt đáy bằng chiều cao lăng trụ: $d\\left((ABC),(A'B'C')\\right)=AA'.$\n- Mà $AA'=2a$ nên: $d\\left((ABC),(A'B'C')\\right)=2a.$\n✅ **Đáp án:** B. \\$2a.$"
+    },
+    {
+      "id": 7,
+      "content": "Phương trình $\\sin x=-\\dfrac{\\sqrt{3}}{2}$ có tổng nghiệm dương nhỏ nhất và nghiệm âm lớn nhất bằng",
+      "chuong": "hàm số lượng giác và phương trình lượng giác",
+      "dang": "phương trình sinx=m",
+      "type": "single",
+      "options": [
+        "A. \\$2\\pi$",
+        "B. $\\dfrac{\\pi}{3}$",
+        "C. $\\dfrac{4\\pi}{3}$",
+        "D. $\\pi$"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Phương trình lượng giác:\n$\\sin x=-\\frac{\\sqrt{3}}{2}.$\n- Yêu cầu: tính **tổng** của - nghiệm dương nhỏ nhất,\n  - và nghiệm âm lớn nhất.\n❓ **Hiểu câu hỏi:**\n- Ta cần tìm các nghiệm của phương trình $\\sin x=-\\frac{\\sqrt{3}}{2}$.\n- Sau đó chọn: - $x_+$: nghiệm **dương nhỏ nhất**,\n  - $x_-$: nghiệm **âm lớn nhất** (gần 0 nhất nhưng vẫn âm),\n- rồi tính $x_+ + x_-$.\n🔎 **Hướng dẫn cách làm:**\n- Ta có góc liên quan: $\\sin\\left(\\frac{\\pi}{3}\\right)=\\frac{\\sqrt{3}}{2}\\Rightarrow \\sin x=-\\frac{\\sqrt{3}}{2} \\text{ ứng với } \\frac{\\pi}{3} \\text{ ở phía âm}.$\n- Trong $[0,2\\pi)$, các nghiệm là:$x=\\frac{4\\pi}{3}\\quad \\text{hoặc}\\quad x=\\frac{5\\pi}{3}.$\n- Nghiệm dương nhỏ nhất là: $x_+=\\frac{4\\pi}{3}.$\n- Để tìm nghiệm âm lớn nhất, lấy nghiệm dương gần \\$0$ nhất rồi trừ \\$2\\pi$:\n$x_-=\\frac{5\\pi}{3}-2\\pi=\\frac{5\\pi}{3}-\\frac{6\\pi}{3}=-\\frac{\\pi}{3}.$\n- Tính tổng: $x_+ + x_-=\\frac{4\\pi}{3}+\\left(-\\frac{\\pi}{3}\\right)=\\frac{3\\pi}{3}=\\pi.$\n✅ **Đáp án:** D. $\\pi.$"
+    },
+    {
+      "id": 8,
+      "content": "Tiệm cận đứng của đồ thị hàm số $y=\\dfrac{5}{x-1}$ là đường thẳng có phương trình ?",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "đường tiệm cận đứng",
+      "type": "single",
+      "options": [
+        "A. $x=5$",
+        "B. $y=0$",
+        "C. $y=1$",
+        "D. $x=1$"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số: $y=\\dfrac{5}{x-1}$.\n- Câu hỏi: Tiệm cận đứng của đồ thị hàm số là đường thẳng có phương trình nào?\n❓ **Hiểu câu hỏi:**\n- Cần xác định phương trình của tiệm cận *đứng* của đồ thị hàm số.\n- Kiến thức cần dùng: với hàm phân thức, tiệm cận đứng xảy ra tại các giá trị $x$ làm mẫu số bằng 0 và hàm trở nên vô hạn (±∞).\n🔎 **Hướng dẫn cách làm:**\n- Xét mẫu số của hàm: $x-1.$\n- Giải phương trình $x-1=0 \\Rightarrow x=1.$\n- Kiểm tra giới hạn hai bên tại $x=1$: - $\\lim_{x\\to1^+}\\dfrac{5}{x-1}=+\\infty$\n  - $\\lim_{x\\to1^-}\\dfrac{5}{x-1}=-\\infty$\n- Vì hai giới hạn một bên cho ±∞, đường thẳng $x=1$ là tiệm cận đứng của đồ thị.\n✅ **Đáp án:** D. $x=1$"
+    },
+    {
+      "id": 9,
+      "content": "Số giao điểm của đồ thị hai hàm số $y=x^2-3x-1$ và $y=x^3-1$ là",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "bài tập cuối chương 1",
+      "type": "single",
+      "options": [
+        "A. \\$1$",
+        "B. \\$0$",
+        "C. \\$3$",
+        "D. \\$2$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hai đồ thị: $y=x^2-3x-1 \\quad \\text{và} \\quad y=x^3-1.$\n- Số giao điểm của hai đồ thị bằng số nghiệm thực của phương trình hoành độ giao điểm.\n❓ **Hiểu câu hỏi:**\n- Ta cần tìm **số nghiệm thực** của phương trình:\n$x^2-3x-1=x^3-1.$\n- Kiến thức dùng: lập phương trình giao điểm và xét số nghiệm của phương trình đó.\n🔎 **Hướng dẫn cách làm:**\n- Cho hai hàm số bằng nhau: $x^2-3x-1=x^3-1.$\n- Chuyển vế và rút gọn: $x^3-x^2+3x=0.$\n- Đặt nhân tử chung $x$: $x(x^2-x+3)=0.$\n- Suy ra: $x=0 \\quad \\text{hoặc} \\quad x^2-x+3=0.$\n- Xét phương trình bậc hai:\n$\\Delta = (-1)^2-4\\cdot 1\\cdot 3=1-12=-11<0,$\nnên $x^2-x+3=0$ **không có nghiệm thực**.\n- Vậy chỉ có 1 nghiệm thực là $x=0$ ⇒ hai đồ thị cắt nhau tại **1 điểm**.\n✅ **Đáp án:** A. \\$1.$"
+    },
+    {
+      "id": 10,
+      "content": "Cho hình lập phương $ABCDA'B'C'D'$. Hãy chọn kết luận Sai\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-kscl-thpt-toan-lien-truong-thpt-tinh-nghe-an-2026-lan-1/cau-10.webp\" alt=\"Hình minh họa câu 10\" loading=\"lazy\"></figure>",
+      "chuong": "quan hệ song song trong không gian",
+      "dang": "hai mặt phẳng song song",
+      "type": "single",
+      "options": [
+        "A. $A'B\\parallel(CDD'C')$.",
+        "B. $CC'\\parallel(ABB'A')$.",
+        "C. $BD\\parallel A'C'$.",
+        "D. $(ABCD)\\parallel(A'B'C'D')$."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hình lập phương $ABCDA'B'C'D'.$\n- Các mệnh đề: - A. $A'B \\parallel (CDD'C').$\n  - B. $CC' \\parallel (ABB'A').$\n  - C. $BD \\parallel A'C'.$\n  - D. $(ABCD)\\parallel (A'B'C'D').$\n- Yêu cầu: chọn kết luận **Sai**.\n❓ **Hiểu câu hỏi:**\n- Ta cần xác định mệnh đề nào **không đúng** về quan hệ song song giữa: - đường thẳng và mặt phẳng: $d \\parallel (P)$\n  - đường thẳng và đường thẳng: $d_1 \\parallel d_2$\n  - mặt phẳng và mặt phẳng: $(P)\\parallel (Q)$\n🔎 **Hướng dẫn cách làm:**\n- Nhận xét ngay: hai mặt đối của hình lập phương luôn song song nên:\n$(ABCD)\\parallel (A'B'C'D') \\Rightarrow \\text{D đúng.}$\n- Xét B: các cạnh bên $AA',BB',CC',DD'$ song song nhau. Mặt phẳng $(ABB'A')$ chứa $AA'$ và $BB'$ nên $CC'$ song song với một đường thẳng nằm trong mặt phẳng đó, lại không cắt mặt phẳng, do đó: $CC' \\parallel (ABB'A') \\Rightarrow \\text{B đúng.}$\n- Xét A: đường thẳng $A'B$ nằm trong mặt phẳng $(ABB'A')$. Hai mặt bên đối nhau của lập phương song song: $(ABB'A')\\parallel (CDD'C').$\nVì vậy mọi đường thẳng nằm trong $(ABB'A')$ đều song song với $(CDD'C')$:\n$A'B \\parallel (CDD'C') \\Rightarrow \\text{A đúng.}$\n- Xét C (quan trọng): kiểm tra $BD \\parallel A'C'.$\nĐặt hệ tọa độ cho lập phương cạnh \\$1$:\n$A'(0,0,0);B'(1,0,0);C'(1,1,0);D'(0,1,0),$\n$A(0,0,1);B(1,0,1);C(1,1,1);D(0,1,1).$\nKhi đó: $\\overrightarrow{BD}=D-B=(-1,1,0),$  $\\overrightarrow{A'C'}=C'-A'=(1,1,0).$\nHai vectơ $(-1,1,0)$ và $(1,1,0)$ **không cùng phương** (không phải bội số của nhau) nên:\n$BD \\not\\parallel A'C'.$\nVậy C là mệnh đề **sai**.\n✅ **Đáp án:** C. $BD \\not\\parallel A'C'.$"
+    },
+    {
+      "id": 11,
+      "content": "Cho hàm số $y=f(x)$ xác định và liên tục trên khoảng $(-\\infty;+\\infty)$, có bảng biến thiên như hình sau: Mệnh đề nào sau đây đúng ?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-kscl-thpt-toan-lien-truong-thpt-tinh-nghe-an-2026-lan-1/cau-11.webp\" alt=\"Hình minh họa câu 11\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "tính đơn điệu của hàm số",
+      "type": "single",
+      "options": [
+        "A. Hàm số nghịch biến trên khoảng $(-\\infty;-1)$.",
+        "B. Hàm số nghịch biến trên khoảng $(-\\infty;2)$.",
+        "C. Hàm số đồng biến trên khoảng $(1;+\\infty)$.",
+        "D. Hàm số đồng biến trên khoảng $(-1;+\\infty)$."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số $y=f(x)$ xác định và liên tục trên $(-\\infty;+\\infty).$\n- Bảng biến thiên cho dấu của đạo hàm: - Trên $(-\\infty,-1): y'>0.$\n  - Tại $x=-1: y'=0.$\n  - Trên $(-1,1): y'<0.$\n  - Tại $x=1: y'=0.$\n  - Trên $(1,+\\infty): y'>0.$\n❓ **Hiểu câu hỏi:**\n- Chọn mệnh đề đúng về tính **đồng biến/nghịch biến** của hàm số.\n- Dựa vào quy tắc: - Nếu $y'>0$ trên một khoảng ⇒ hàm **đồng biến** trên khoảng đó.\n  - Nếu $y'<0$ trên một khoảng ⇒ hàm **nghịch biến** trên khoảng đó.\n🔎 **Hướng dẫn cách làm:**\n- Trên $(-\\infty,-1)$ có $y'>0$ nên hàm **đồng biến** (không phải nghịch biến) ⇒ A sai.\n- Trên $(-\\infty,2)$ không thể nghịch biến vì: - $(-\\infty,-1)$ thì đồng biến,\n  - $(-1,1)$ thì nghịch biến,\n  - $(1,2)$ thì đồng biến\n⇒ B sai.\n- Trên $(1,+\\infty)$ có $y'>0$ nên hàm **đồng biến** ⇒ C đúng.\n- Trên $(-1,+\\infty)$ có đoạn $(-1,1)$ là nghịch biến nên không thể đồng biến toàn khoảng ⇒ D sai.\n✅ **Đáp án:** C. Hàm số đồng biến trên khoảng $(1;+\\infty).$"
+    },
+    {
+      "id": 12,
+      "content": "Đường cong trong hình dưới đây là đồ thị của hàm số nào?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-kscl-thpt-toan-lien-truong-thpt-tinh-nghe-an-2026-lan-1/cau-12.webp\" alt=\"Hình minh họa câu 12\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "khảo sát và vẽ đồ thị hàm số đa thức bậc ba",
+      "type": "single",
+      "options": [
+        "A. $y=-x^3+3x^2-4$.",
+        "B. $y=-x^3+3x^2+1$.",
+        "C. $y=x^3-3x^2+1$.",
+        "D. $y=-x^3+2x^2-1$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Đồ thị là một hàm bậc ba.\n- Nhìn hình thấy có: - Một điểm cực tiểu tại $x=0$ với tung độ $y=1.$\n  - Một điểm cực đại tại $x=2$ với tung độ $y=5$ (đường gạch chỉ rõ $x=2$ và $y=5$).\n- Nhánh phải đi xuống khi $x\\to +\\infty$ nên hệ số bậc ba **âm**.\n❓ **Hiểu câu hỏi:**\n- Chọn hàm số trong 4 đáp án sao cho đồ thị có đúng các cực trị: - Cực tiểu tại $x=0$,\n  - Cực đại tại $x=2$,\n  - Và đi qua các giá trị $f(0)=1; f(2)=5.$\n- Kiến thức dùng: đạo hàm để tìm điểm cực trị và thay giá trị để kiểm tra.\n🔎 **Hướng dẫn cách làm:**\n- Vì đồ thị có cực trị tại $x=0$ và $x=2$ nên đạo hàm phải có nghiệm:\n$f'(x)=k\\cdot x(x-2)\\quad (k\\ne 0).$\n- Xét các đáp án có dạng bậc ba hệ số đầu âm (phù hợp nhánh phải đi xuống): A, B, D.\n- Thử đáp án B: $y=-x^3+3x^2+1.$ - Tính đạo hàm: $y'=-3x^2+6x=-3x(x-2).$\n⇒ nghiệm đúng là $x=0$ và $x=2$ (khớp hình).\n  - Tính giá trị tại các điểm cực trị:\n$y(0)=1\\quad (\\text{khớp cực tiểu } y=1),$\n$y(2)=-8+12+1=5\\quad (\\text{khớp cực đại } y=5).$\n- Vậy đồ thị đúng là của hàm ở đáp án B.\n✅ **Đáp án:** B. $y=-x^3+3x^2+1.$"
+    }
+  ]
+}

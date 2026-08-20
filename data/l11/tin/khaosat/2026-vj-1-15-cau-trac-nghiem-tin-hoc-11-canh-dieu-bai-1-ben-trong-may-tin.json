@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-11-canh-dieu-bai-1-ben-trong-may-tin",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-11-canh-die",
+  "grade": "l11",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 11 Cánh diều Bài 1: Bên trong Máy tính có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Cổng logic AND có chức năng gì?",
+      "options": [
+        "A. Thực hiện phép cộng logic",
+        "B. Thực hiện phép trừ logic",
+        "C. Thực hiện phép nhân logic",
+        "D. Thực hiện phép chia logic"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Cổng AND cho đầu ra là 1 khi và chỉ khi tất cả các đầu vào đều là 1, tức là nó thực hiện phép nhân logic. Nếu một trong hai đầu vào là 0, đầu ra sẽ là 0."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Trong bảng chân lý của cổng OR, đầu ra sẽ là 1 khi nào?",
+      "options": [
+        "A. Khi cả hai đầu vào đều bằng 0",
+        "B. Khi cả hai đầu vào đều bằng 1",
+        "C. Khi ít nhất một đầu vào bằng 1",
+        "D. Khi chỉ có một đầu vào bằng 0"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Cổng OR thực hiện phép cộng logic. Đầu ra của nó là 1 nếu bất kỳ đầu vào nào là 1. Chỉ khi cả hai đầu vào là 0, đầu ra mới bằng 0."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cổng logic NOT có bao nhiêu đầu vào?",
+      "options": [
+        "A. 1",
+        "B. 2",
+        "C. 3",
+        "D. 4"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Cổng NOT là cổng đảo ngược, chỉ có một đầu vào và cho ra kết quả ngược lại với giá trị đầu vào. Nếu đầu vào là 0, đầu ra là 1, và ngược lại."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Phép cộng hai số nhị phân dài nhiều bit thực hiện từ:",
+      "options": [
+        "A. Từ trái sang phải",
+        "B. Từ phải sang trái",
+        "C. Cùng lúc từ hai phía",
+        "D. Thực hiện ngẫu nhiên"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Khi cộng hai số nhị phân, phép cộng bắt đầu từ bit phải nhất (bit có giá trị thấp nhất). Từ đó, kết quả sẽ được tính theo thứ tự từ phải sang trái, giống như cộng trong hệ thập phân, và có thể có bit nhớ mang sang các cột bên trái."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Trong một mạch cộng đầy đủ, có bao nhiêu đầu vào?",
+      "options": [
+        "A. 1",
+        "B. 2",
+        "C. 3",
+        "D. 4"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C. Giải thích: Mạch cộng đầy đủ (Full Adder) có ba đầu vào: hai đầu vào là các bit cần cộng, và đầu vào thứ ba là bit nhớ từ phép cộng trước đó (nếu có)"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: CPU đóng vai trò gì trong máy tính?",
+      "options": [
+        "A. Lưu trữ dữ liệu dài hạn",
+        "B. Xử lý và thực thi lệnh",
+        "C. Quản lý kết nối mạng",
+        "D. Tăng cường dung lượng RAM"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: CPU (Central Processing Unit – Bộ xử lý trung tâm) là bộ phận thực hiện việc xử lý và thực thi các lệnh trong máy tính. Nó được coi là \"bộ não\" của máy tính, đảm nhận các công việc như tìm nạp lệnh, giải mã lệnh, và thực thi lệnh."
+    }
+  ]
+}

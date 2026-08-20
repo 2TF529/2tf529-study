@@ -1,0 +1,65 @@
+{
+  "id": "2026-vj-4-12-bai-tap-van-dung-dao-ham-va-khao-sat-ham-so-de-giai-quyet-mo",
+  "sourceId": "vietjack:4-12-bai-tap-van-dung-dao-ham-va-khao-sa",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "4.12 bài tập Vận dụng đạo hàm và khảo sát hàm số để giải quyết một số vấn đề liên quan đến thực tiễn có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 3: Cho chất điểm chuyển động với phương trình s = −t 3 + 6t 2 với t ∈ [0; 6]. Tại thời điểm nào thì vận tốc của chất điểm bằng 0?",
+      "options": [
+        "A. 1s;",
+        "B. 3s;",
+        "C. 2s;",
+        "D. 4s."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Ta có v(t) = s'(t) = −3t 2 + 12t. Có v(t) = 0 −3t 2 + 12t = 0 t = 0 hoặc t = 4. Vậy tại thời điểm t = 4 s thì vận tốc của chất điểm bằng 0."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 4: Một vật chuyển động với phương trình S(t) = t 3 + 4t 2 , trong đó t (giây) là khoảng thời gian tính từ lúc vật bắt đầu di chuyển, S(t) (mét) là quãng đường vật chuyển động trong t giây. Tính gia tốc của vật tại thời điểm vận tốc bằng 11 m/s.",
+      "options": [
+        "A. 14 (m/s 2 );",
+        "B. 12 (m/s 2 );",
+        "C. 13 (m/s 2 );",
+        "D. 11 (m/s 2 );"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Có v(t) = S'(t) = 3t 2 +8t; a(t) = v'(t) = 6t + 8. Thời điểm vận tốc bằng 11 m/s ứng với 3t 2 +8t = 11 t = 1 (giây). Gia tốc của vật cần tìm là a(1) = 6 + 8 =14 (m/s 2 )."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 5: Một vật chuyển động theo quy luật s = −2t 3 + 24t 2 + 9t – 3 với t là khoảng thời gian tính từ lúc bắt đầu chuyển động và s là quãng đường vật đi được trong khoảng thời gian đó. Hỏi trong khoảng thời gian 10 giây, kể từ lúc bắt đầu chuyển động, vận tốc lớn nhất của vật đạt được bằng bao nhiêu?",
+      "options": [
+        "A. 289 m/s.",
+        "B. 105 m/s.",
+        "C. 111 m/s.",
+        "D. 487 m/s."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có v(t) = s' = −6t 2 + 48t +9. Xét hàm số v(t) = −6t 2 + 48t +9, t [0; 10]. Ta có v'(t) = −12t + 48 = 0 t = 4 (thỏa mãn). Ta có v(0) = 9; v(4) = 105; v(10) = −111 \\( \\Rightarrow \\mathop {\\max }\\limits_{\\left[ {0;10} \\right]} v\\left( t \\right) = v\\left( 4 \\right) = 105\\)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 6: Một vật chuyển động với phương trình \\(s\\left( t \\right) = - \\frac{1}{3}{t^3} + 4{t^2} + 9t\\), trong đó t tính bằng giây và s tính bằng mét. Chọn đáp án sai .",
+      "options": [
+        "A. Vận tốc của vật tại thời điểm t = 3 giây là v(3) = 1 m/s;",
+        "B. Quãng đường vật đi được từ lúc bắt đầu chuyển động đến khi vật đứng yên là 162 m;",
+        "C. Gia tốc của vật tại thời điểm t = 3 giây là a(3) = 2 m/s 2 ;",
+        "D. Trong 9 giây đầu tiên, vật tăng vận tốc khi t [0; 4]."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A a) Ta có v(t) = s'(t) = −t 2 + 8t + 9 v(3) = 24 m/s. b) Vật đứng yên khi v(t) = 0 −t 2 + 8t + 9 = 0 t = −1 (ktm) hoặc t = 9 (tm). Quãng đường vật chuyển động được đến thời điểm t = 9 là: \\(s\\left( 9 \\right) = - \\frac{1}{3}{.9^3} + {4.9^2} + 9.9 = 162\\) (m). c) Có a(t) = v'(t) = −2t + 8. Gia tốc của vật tại thời điểm t = 3 giây là a(3) = 2 m/s 2 . d) Xét hàm v(t) = −t 2 + 8t + 9; v'(t) = −2t + 8; v'(t) = 0 t = 4. Bảng biến thiên của hàm số v(t) = −t 2 + 8t + 9 với t ∈ [0; 9]. Trong 9 giây đầu tiên, vật tăng vận tốc khi t [0; 4]."
+    }
+  ]
+}

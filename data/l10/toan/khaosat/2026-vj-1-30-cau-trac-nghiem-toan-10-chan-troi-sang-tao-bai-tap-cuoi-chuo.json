@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-1-30-cau-trac-nghiem-toan-10-chan-troi-sang-tao-bai-tap-cuoi-chuo",
+  "sourceId": "vietjack:1-30-cau-trac-nghiem-toan-10-chan-troi-s",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.30 câu Trắc nghiệm Toán 10 chân trời sáng tạo Bài tập cuối chương 5 có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho 5 điểm M, N, P, Q, R. Tính tổng M N → + P Q → + R N → + N P → + Q R → .",
+      "options": [
+        "A. M R →",
+        "B. M N →",
+        "C. P R →",
+        "D. M P →"
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải Đáp án đúng là: B Ta có M N → + P Q → + R N → + N P → + Q R → = M N → + N P → + P Q → + Q R → + R N → . = M P → + P R → + R N → = M R → + R N → = M N → . Vậy ta chọn đáp án B."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho M, N, P lần lượt là trung điểm các cạnh AB, BC, CA của tam giác ABC. Hỏi vectơ M P → + N P → bằng vectơ nào?",
+      "options": [
+        "A. A P →",
+        "B. B P →",
+        "C. M N →",
+        "D. M B → + N B →"
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải Đáp án đúng là: B Tam giác ABC có N, P lần lượt là trung điểm BC và AC. Do đó NP là đường trung bình của tam giác ABC. Suy ra NP = BM (M là trung điểm AB) . Mà N P → , B M → cùng hướng. Do đó N P → = B M → . Ta có M P → + N P → = M P → + B M → = B P → . Vậy ta chọn đáp án B."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho M, N, P, Q là bốn điểm tùy ý. Trong các hệ thức sau, hệ thức nào sai?",
+      "options": [
+        "A. M N → N P → + P Q → = M N → . N P → + M N → . P Q →",
+        "B. M P → . M N → = − M N → . M P →",
+        "C. M N → . P Q → = P Q → . M N →",
+        "D. M N → − P Q → M N → + P Q → = M N 2 − P Q 2"
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải Đáp án đúng là: B Đáp án A đúng theo tính chất phân phối của tích vô hướng. Đáp án B sai. Sửa lại: M P → . M N → = M N → . M P → . Đáp án C đúng theo tính chất giao hoán của tích vô hướng. Đáp án D đúng theo bình phương vô hướng và hằng đẳng thức ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho tam giác ABC có BC = a, CA = b, AB = c. Gọi M là trung điểm BC. Tính A M → . B C → .",
+      "options": [
+        "A. A M → . B C → = b 2 − c 2 2",
+        "B. A M → . B C → = c 2 + b 2 2",
+        "C. A M → . B C → = c 2 + b 2 + a 2 2",
+        "D. A M → . B C → = c 2 + b 2 − a 2 2"
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A Vì M là trung điểm BC nên ta có A B → + A C → = 2 A M → . Khi đó A M → . B C → = 1 2 A B → + A C → . B C → = 1 2 A C → + A B → A C → − A B → = 1 2 A C → 2 − A B → 2 = 1 2 A C 2 − A B 2 = b 2 − c 2 2 . Vậy ta chọn đáp án A."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Nếu A B → = A C → thì",
+      "options": [
+        "A. Tam giác ABC là tam giác cân;",
+        "B. Tam giác ABC là tam giác đều;",
+        "C. A là trung điểm của đoạn thẳng BC;",
+        "D. Điểm B trùng với điểm C."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải Đáp án đúng là: D A B → = A C → ⇒ A, B, C là ba điểm thẳng hàng và B, C nằm cùng phía so với A. Mà AB = AC nê n B ≡ C ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho hình vuông ABCD tâm O. Tính tổng A B → , D C → + A D → , C B → + C O → , D C → .",
+      "options": [
+        "A. 45 ° ;",
+        "B. 405 ° ;",
+        "C. 315 ° ;",
+        "D. 225 ° ."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là: C Ta có A B → , D C → cùng hướng nên A B → , D C → = 0 ° . Ta có A D → , C B → ngược hướng nên A D → , C B → = 180 ° . Vẽ C E → = D C → . Khi đó ta có C O → , D C → = C O → , C E → = O C E ^ . Vì ABCD là hình vuông có OC là đường chéo nên O C B ^ = 45 ° . Ta có BC ⊥ CD (ABCD là hình vuông) Suy ra BC ⊥ CE, do đó B C E ^ = 90 ° . Ta có O C E ^ = O C B ^ + B C E ^ = 45 ° + 90 ° = 135 ° . Vậy A B → , D C → + A D → , C B → + C O → , D C → = 0 ° + 180 ° + 135 ° = 315 ° . Vậy ta chọn đáp án C."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Cho tam giác ABC. Gọi D, E, F lần lượt là trung điểm của các cạnh BC, CA, AB. Đẳng thức nào sau đây đúng?",
+      "options": [
+        "A. A D → + B E → + C F → = A B → + A C → + B C →",
+        "B. A D → + B E → + C F → = A F → + C E → + B D →",
+        "C. A D → + B E → + C F → = A E → + B F → + C D →",
+        "D. A D → + B E → + C F → = B A → + B C → + A C →"
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là: C Ta có A D → + B E → + C F → = A E → + E D → + B F → + F E → + C D → + D F → = A E → + B F → + C D → + E D → + D F → + F E → = A E → + B F → + C D → + E F → + F E → = A E → + B F → + C D → + E E → = A E → + B F → + C D → + 0 → = A E → + B F → + C D → Vậy ta chọn đáp án C."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho hai vectơ không cùng phương a → và b → . Mệnh đề nào sau đây đúng?",
+      "options": [
+        "A. Không có vectơ nào cùng phương với cả hai vectơ a → và b → ;",
+        "B. Có vô số vectơ cùng phương với cả hai vectơ a → và b → ;",
+        "C. Có một vectơ cùng phương với cả hai vectơ a → và b → , đó là 0 → ;",
+        "D. Cả A, B, C đều sai."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là: C Vì 0 → cùng phương với mọi vectơ nên có một vectơ cùng phương với cả hai vectơ a → và b → , đó là 0 → ."
+    }
+  ]
+}

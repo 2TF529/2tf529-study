@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-3-10-bai-tap-ung-dung-tich-phan-de-tinh-the-tich-vat-the-co-loi-g",
+  "sourceId": "vietjack:3-10-bai-tap-ung-dung-tich-phan-de-tinh-",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.10 bài tập Ứng dụng tích phân để tính thể tích vật thể có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho hình phẳng D giới hạn bởi đường cong y = x 2 + 1, trục hoành và các đường thẳng x = 0, x = 3. Khối tròn xoay tạo thành khi quay D quanh trục hoành có thể tích V bằng",
+      "options": [
+        "A. V = 12π;",
+        "B. \\(V = \\frac{{348\\pi }}{5}\\);",
+        "C. V = 32π;",
+        "D. V = 9π."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Có \\(V = \\pi \\int\\limits_0^3 {{{\\left( {{x^2} + 1} \\right)}^2}dx} = \\frac{{348\\pi }}{5}\\)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho vật thể (T) được giới hạn bởi hai mặt phẳng x = −2; x = 2. Biết rằng thiết diện của vật thể bị cắt bởi mặt phẳng vuông góc với trục Ox tại điểm có hoành độ x, x [−2; 2] là một hình vuông có cạnh bằng \\(\\sqrt {4 - {x^2}} \\). Thể tích của vật thể (T) bằng",
+      "options": [
+        "A. V = π;",
+        "B. \\(V = \\frac{{32}}{3}\\);",
+        "C. \\(V = \\frac{{32\\pi }}{3}\\);",
+        "D. \\(\\frac{8}{3}\\)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Thể tích của vật thể là \\(V = \\int\\limits_{ - 2}^2 {{{\\left( {\\sqrt {4 - {x^2}} } \\right)}^2}dx} = \\int\\limits_{ - 2}^2 {\\left( {4 - {x^2}} \\right)dx} = \\left. {\\left( {4x - \\frac{{{x^3}}}{3}} \\right)} \\right|_{ - 2}^2 = \\frac{{32}}{3}\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Tính thể tích V của một vật thể nằm giữa hai mặt phẳng biết rằng thiết diện của vật thể bị cắt bởi mặt phẳng vuông góc với trục Ox tại điểm có hoành độ x (0 ≤ x ≤ π) là một ta giác đều cạnh \\(2\\sqrt {\\sin x} \\).",
+      "options": [
+        "A. V = \\(2\\pi \\sqrt 3 \\);",
+        "B. V = 3;",
+        "C. \\(V = 2\\sqrt 3 \\);",
+        "D. 3π."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Có \\(V = \\int\\limits_0^\\pi {S\\left( x \\right)dx} = \\int\\limits_0^\\pi {\\frac{{\\sqrt 3 }}{4}{{\\left( {2\\sqrt {\\sin x} } \\right)}^2}dx} = \\int\\limits_0^\\pi {\\sqrt 3 \\sin xdx} = \\left. { - \\sqrt 3 \\cos x} \\right|_0^\\pi = 2\\sqrt 3 \\)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Tính thể tích V của phần vật thể giới hạn bởi hai mặt phẳng x = 1 và x = 4, biết rằng khi cắt vật thể bởi mặt phẳng vuông góc với trục Ox tại điểm có hoành độ x bất kì (1 ≤ x ≤ 4) thì được thiết diện là một nửa lục giác đều có độ dài cạnh là 2x.",
+      "options": [
+        "A. V = \\(21\\sqrt 3 \\);",
+        "B. V = 21;",
+        "C. \\(V = 63\\sqrt 3 \\);",
+        "D. 63."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Diện tích thiết diện \\(S\\left( x \\right) = 3.\\frac{{{{\\left( {2x} \\right)}^2}\\sqrt 3 }}{4} = 3{x^2}\\sqrt 3 \\). Do đó thể tích vật thể \\(V = \\int\\limits_1^4 {3{x^2}\\sqrt 3 dx} = \\left. {\\sqrt 3 {x^3}} \\right|_1^4 = 63\\sqrt 3 \\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Gọi D là hình phẳng giới hạn bởi các đường y = e 3x , y = 0, x = 0 và x = 1. Thể tích của khối tròn xoay tạo thành khi quay D quanh trục Ox bằng",
+      "options": [
+        "A. V = \\(\\pi \\int\\limits_0^1 {{e^{3x}}dx} \\);",
+        "B. \\(V = \\int\\limits_0^1 {{e^{6x}}dx} \\);",
+        "C. \\(V = \\pi \\int\\limits_0^1 {{e^{6x}}dx} \\);",
+        "D. \\(V = \\int\\limits_0^1 {{e^{3x}}dx} \\)."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C \\(V = \\pi \\int\\limits_0^1 {{{\\left( {{e^{3x}}} \\right)}^2}dx} = \\pi \\int\\limits_0^1 {{e^{6x}}dx} \\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho hình (H) giới hạn bởi các đường y = x 2 – 2x, trục hoành. Quay hình phẳng (H) quanh trục Ox ta được khối tròn xoay có thể tích là",
+      "options": [
+        "A. \\(\\frac{{496\\pi }}{{15}}\\);",
+        "B. \\(\\frac{{32\\pi }}{{15}}\\);",
+        "C. \\(\\frac{{4\\pi }}{3}\\);",
+        "D. \\(\\frac{{16\\pi }}{{15}}\\)."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Có x 2 – 2x = 0 x = 0 hoặc x = 2. Thể tích \\(V = \\pi \\int\\limits_0^2 {{{\\left( {{x^2} - 2x} \\right)}^2}dx} = \\pi \\int\\limits_0^2 {\\left( {{x^4} - 4{x^3} + 4{x^2}} \\right)dx} \\)\\( = \\left. {\\pi \\left( {\\frac{{{x^5}}}{5} - {x^4} + \\frac{{4{x^3}}}{3}} \\right)} \\right|_0^2 = \\frac{{16\\pi }}{{15}}\\)."
+    }
+  ]
+}

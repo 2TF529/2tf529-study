@@ -1,0 +1,78 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-10-canh-dieu-kieu-du-lieu-danh-sach-",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-10-canh-die",
+  "grade": "l10",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 10 Cánh diều Kiểu dữ liệu danh sách - Xử lí danh sách có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Để biết kích thước của danh sách ta dùng hàm:",
+      "options": [
+        "A. type()",
+        "B. len()",
+        "C. sort()",
+        "D. pop()"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Để biết kích thước của danh sách ta dùng hàm:len()"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 3: Để thêm phần tử vào cuối danh sách ta dùng hàm:",
+      "options": [
+        "A. append()",
+        "B. pop()",
+        "C. clear()",
+        "D. remove()"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Để thêm phần tử vào cuối danh sách ta dùng hàm append()"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 4: Để xóa phần tử thứ 2 trong danh sách a ta dùng lệnh:",
+      "options": [
+        "A. del(2)",
+        "B. del a[2]",
+        "C. del a",
+        "D. remove(2)"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Để xóa phần tử thứ 2 trong danh sách a ta dùng lệnh sau: del a[2]"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 5: Để xóa tất cả các phần tử trong danh sách, ta gọi hàm thành viên:",
+      "options": [
+        "A. append()",
+        "B. pop()",
+        "C. clear()",
+        "D. remove()"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Để xóa tất cả các phần tử trong danh sách, ta gọi hàm thành viên: clear()"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 6: Để gọi đến phần tử đầu tiên trong danh sách a ta dùng lệnh:",
+      "options": [
+        "A. a[1]",
+        "B. a[0]",
+        "C. a0",
+        "D. a[]"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Phần tử đầu tiên trong danh sách là phần tử a[0]"
+    }
+  ]
+}

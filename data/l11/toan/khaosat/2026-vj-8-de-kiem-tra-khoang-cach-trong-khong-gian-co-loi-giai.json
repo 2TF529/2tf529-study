@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-8-de-kiem-tra-khoang-cach-trong-khong-gian-co-loi-giai",
+  "sourceId": "vietjack:8-de-kiem-tra-khoang-cach-trong-khong-gi",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "8.Đề kiểm tra Khoảng cách trong không gian (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Trong mặt phẳng \\(\\left( \\alpha \\right)\\), cho tam giác \\(ABC\\) vuông tại \\(A\\) có \\(AB = 3a\\) và \\(AC = 4a\\). Khoảng cách từ điểm \\(B\\) đến đường thẳng \\(AC\\) bằng",
+      "options": [
+        "A. \\(4a\\).",
+        "B. \\(5a\\).",
+        "C. \\(a\\).",
+        "D. \\(3a\\)."
+      ],
+      "answer": "D",
+      "note": "Tam giác \\(ABC\\) vuông tại \\(A\\) \\( \\Rightarrow BA \\bot AC\\) \\( \\Rightarrow d\\left( {B,AC} \\right) = 3a\\)"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hình chóp \\(S.ABCD\\) có đáy \\(ABCD\\) là hình chữ nhật với \\(AB = 2a,\\;AD = 3a\\). Biết \\(SA\\) vuông góc với mặt phẳng đáy và \\(SA = 5a\\). Khoảng cách từ điểm \\(C\\) đến mặt phẳng \\(\\left( {SAB} \\right)\\) bằng",
+      "options": [
+        "A. \\(3a\\).",
+        "B. \\(2a\\).",
+        "C. \\(a\\sqrt {13} \\).",
+        "D. \\(5a\\)."
+      ],
+      "answer": "A",
+      "note": "\\(\\left\\{ \\begin{array}{l}BC \\bot AB\\\\BC \\bot SA\\end{array} \\right. \\Rightarrow BC \\bot \\left( {SAB} \\right) \\Rightarrow d\\left( {C,\\left( {SAB} \\right)} \\right) = CB = 3a\\)"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho hình lập phương \\(ABCD.A'B'C'D'\\) có cạnh bằng \\(a\\). Khoảng cách giữa hai đường thẳng \\(AB\\) và \\(DC\\) bằng",
+      "options": [
+        "A. \\(a\\).",
+        "B. \\(a\\sqrt 2 \\).",
+        "C. \\(a\\sqrt 3 \\).",
+        "D. \\(2a\\)."
+      ],
+      "answer": "A",
+      "note": "\\(AD \\bot DC \\Rightarrow d\\left( {A,\\;DC} \\right) = AD\\). \\(AB//CD \\Rightarrow d\\left( {AB,\\;DC} \\right) = d\\left( {A,\\;DC} \\right) = AD = a\\)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hình chóp \\(S.ABCD\\) có đáy \\(ABCD\\) là hình vuông có cạnh bằng \\(a\\). Biết \\(SA\\) vuông góc với mặt phẳng đáy và \\(SA = 2a\\). Khoảng cách từ đường thẳng \\(BC\\) đến mặt phẳng \\(\\left( {SAD} \\right)\\) bằng",
+      "options": [
+        "A. \\(a\\).",
+        "B. \\(2a\\).",
+        "C. \\(a\\sqrt 5 \\).",
+        "D. \\(\\frac{{2a}}{{\\sqrt 5 }}\\)."
+      ],
+      "answer": "A",
+      "note": "\\(\\left\\{ \\begin{array}{l}BA \\bot AD\\\\BA \\bot SA\\end{array} \\right. \\Rightarrow BA \\bot \\left( {SAD} \\right) \\Rightarrow d\\left( {B,\\left( {SAD} \\right)} \\right) = BA = a\\) Ta có: \\(BC//\\left( {SAD} \\right)\\)\\( \\Rightarrow d\\left( {BC,\\left( {SAD} \\right)} \\right) = d\\left( {B,\\left( {SAD} \\right)} \\right) = BA = a\\)"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hình hộp chữ nhật \\(ABCD.A'B'C'D'\\) có \\(AB = a,\\;AD = b,\\;AA' = c.\\) Khoảng cách giữa \\(\\left( {ABCD} \\right)\\) và \\(\\left( {A'B'C'D'} \\right)\\) bằng",
+      "options": [
+        "A. \\(\\sqrt {{a^2} + {b^2} + {c^2}} \\).",
+        "B. \\(c\\).",
+        "C. \\(a\\).",
+        "D. \\(b\\)."
+      ],
+      "answer": "B",
+      "note": "Ta có: \\(\\left( {ABCD} \\right)//\\left( {A'B'C'D'} \\right)\\)\\( \\Rightarrow d\\left( {\\left( {ABCD} \\right),\\left( {A'B'C'D'} \\right)} \\right) = d\\left( {A,\\left( {A'B'C'D'} \\right)} \\right) = AA' = c\\)"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho hình lăng trụ đứng \\(ABC.A'B'C'\\) có đáy \\(ABC\\) là tam giác vuông cân tại \\(B\\) và \\(AB = 4a\\) (tham khảo hình bên). Khoảng cách từ \\(C\\) đến mặt phẳng \\(\\left( {ABB'A'} \\right)\\) bằng",
+      "options": [
+        "A. \\[2a\\].",
+        "B. \\(2\\sqrt 2 a\\).",
+        "C. \\[4a\\].",
+        "D. \\(4\\sqrt 2 a\\)."
+      ],
+      "answer": "C",
+      "note": "Ta có: \\[\\left\\{ \\begin{array}{l}CB \\bot AB\\\\CB \\bot BB'\\end{array} \\right.\\]\\[ \\Rightarrow CB \\bot \\left( {ABB'A'} \\right)\\] Suy ra: \\[d\\left( {C;\\left( {ABB'A'} \\right)} \\right) = CB = AB = 4a\\]."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Cho hình lập phương \\[ABCD.A'B'C'D'\\] có cạnh bằng \\(a\\) (tham khảo hình vẽ). Khoảng cách giữa hai đường thẳng \\(B'D'\\) và \\(BD\\) bằng",
+      "options": [
+        "A. \\(\\frac{a}{2}\\).",
+        "B. \\(a\\).",
+        "C. \\(\\sqrt 2 a\\).",
+        "D. \\(\\frac{{a\\sqrt 2 }}{2}\\)."
+      ],
+      "answer": "B",
+      "note": "Ta thấy hai đường thẳng \\(B'D'\\) và \\(BD\\) song song với nhau. Có: \\[\\left\\{ \\begin{array}{l}BB' \\bot BD\\\\BB' \\bot B'D'\\end{array} \\right.\\]\\[ \\Rightarrow d\\left( {B'D';BD} \\right) = BB' = a\\]."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho hình lăng trụ đều \\(ABC.A'B'C'\\) có tất cả các cạnh bằng \\(a\\). Khoảng cách giữa hai mặt phẳng \\(\\left( {ABC} \\right)\\) và \\(\\left( {A'B'C'} \\right)\\) bằng",
+      "options": [
+        "A. \\(a\\).",
+        "B. \\(\\frac{a}{2}\\).",
+        "C. \\(a\\sqrt 3 \\).",
+        "D. \\(\\frac{{a\\sqrt 3 }}{2}\\)."
+      ],
+      "answer": "A",
+      "note": "Do \\(\\left( {A'B'C'} \\right)\\,\\,{\\rm{//}}\\,\\,\\left( {ABC} \\right)\\) nên \\[d\\left( {\\left( {A'B'C'} \\right)\\,{\\rm{;}}\\,\\left( {ABC} \\right)} \\right) = d\\left( {A'\\,{\\rm{;}}\\,\\left( {ABC} \\right)} \\right) = A'A = a\\]."
+    }
+  ]
+}

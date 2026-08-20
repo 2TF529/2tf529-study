@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-15-cau-trac-nghiem-tin-hoc-10-canh-dieu-cau-lenh-lap-co-dap-an-",
+  "sourceId": "vietjack:2-15-cau-trac-nghiem-tin-hoc-10-canh-die",
+  "grade": "l10",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.15 câu Trắc nghiệm Tin học 10 Cánh diều Câu lệnh lặp có đáp án (Phần 2)",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cú pháp đầy đủ của hàm range() là:",
+      "options": [
+        "A. range(end, step)",
+        "B. range(start, end, step)",
+        "C. range(start, step)",
+        "D. range(1, end, step)"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Hàm range(start, end, step) dùng để khởi tạo dãy số nguyên bắt đầu từ start đến stop – 1, bước nhảy là step."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Hàm range(101) sẽ tạo ra:",
+      "options": [
+        "A. một dãy số từ 0 đến 100",
+        "B. một dãy số từ 1 đến 101",
+        "C. 101 số ngẫu nhiên",
+        "D. một dãy số ngẫu nhiên 101"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Hàm range(m,n) dùng để khởi tạo dãy số nguyên từ m đến n-1 (với m<n)"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Hàm range(101, 1, -1) sẽ tạo ra:",
+      "options": [
+        "A. một dãy số từ 101 về 1",
+        "B. một dãy số từ 100 về -1",
+        "C. một dãy số từ 100 về 2",
+        "D. một dãy số từ 101 về 2"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Hàm này tạo ra 1 dãy số từ 101 về 2, với bước nhảy là -1"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cú pháp đúng của câu lệnh lặp for:",
+      "options": [
+        "A. for &lt;biến chạy&gt; in range(m, n): Khối lệnh cần lặp",
+        "B. for &lt;biến chạy&gt; in range(m, n). Khối lệnh cần lặp",
+        "C. for &lt;biến chạy&gt; in: Khối lệnh cần lặp",
+        "D. for &lt;biến chạy&gt; range(m, n): Khối lệnh cần lặp"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A For là lệnh lặp với số lần lặp biết trước. Số lần lặp thường được xác định bởi vùng giá rị của range()"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Kết quả của đoạn chương trình sau: for i in range(3, 10): print(i)",
+      "options": [
+        "A. in ra màn hình các số từ 3 đến 10",
+        "B. in ra màn hình các số từ 1 đến 10",
+        "C. in ra màn hình các số từ 0 đến 10",
+        "D. in ra màn hình các số từ 3 đến 9"
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Đoạn chương trình trên in ra màn hình các số từ 3 đến 9."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Kết quả của đoạn chương trình sau: for x in range(3, 10, 2): print(x)",
+      "options": [
+        "A. In ra màn hình các số lẻ từ 3 đến 10",
+        "B. In ra màn hình các số chẵn từ 3 đến 10",
+        "C. In ra màn hình các số từ 3 đến 10",
+        "D. In ra màn hình các số từ 0 đến 10"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Vì bước nhảy ở đây là 2 nên dãy số được in ra là 3, 5, 7, 9"
+    }
+  ]
+}

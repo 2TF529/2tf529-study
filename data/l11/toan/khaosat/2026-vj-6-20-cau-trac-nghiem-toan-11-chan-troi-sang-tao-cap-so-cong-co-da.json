@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-6-20-cau-trac-nghiem-toan-11-chan-troi-sang-tao-cap-so-cong-co-da",
+  "sourceId": "vietjack:6-20-cau-trac-nghiem-toan-11-chan-troi-s",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "6.20 câu trắc nghiệm Toán 11 Chân trời sáng tạo Cấp số cộng có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho cấp số cộng (u n ) với số hạng đầu u 1 và công sai d. Số hạng tổng quát của cấp số cộng đã cho được tính theo công thức nào dưới đây ?",
+      "options": [
+        "A. \\[{{\\rm{u}}_{\\rm{n}}}{\\rm{ = }}{{\\rm{u}}_{\\rm{1}}}{\\rm{.}}{{\\rm{d}}^{\\rm{n}}}\\]",
+        "B. \\[{{\\rm{u}}_{\\rm{n}}}{\\rm{ = }}{{\\rm{u}}_{\\rm{1}}}{\\rm{.}}{{\\rm{d}}^{{\\rm{n}} - {\\rm{1}}}}\\]",
+        "C. \\[{{\\rm{u}}_{\\rm{n}}}{\\rm{ = }}{{\\rm{u}}_{\\rm{1}}}{\\rm{ + nd}}\\]",
+        "D. \\[{{\\rm{u}}_{\\rm{n}}}{\\rm{ = }}{{\\rm{u}}_{\\rm{1}}}{\\rm{ + }}\\left( {{\\rm{n}} - {\\rm{1}}} \\right){\\rm{d}}\\]"
+      ],
+      "answer": "D",
+      "note": "Theo định lí ta có công thức số hạng tổng quát của cấp số cộng là: \\[{{\\rm{u}}_{\\rm{n}}}{\\rm{ = }}{{\\rm{u}}_{\\rm{1}}}{\\rm{ + }}\\left( {{\\rm{n}} - {\\rm{1}}} \\right){\\rm{d}}\\] Đáp án cần chọn là: D"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho cấp số cộng (u n ) với số hạng đầu u 1 và công sai . Tổng n số hạng đầu tiên của cấp số cộng đã cho được tính theo công thức nào dưới đây ?",
+      "options": [
+        "A. \\[{{\\rm{S}}_{\\rm{n}}}{\\rm{ = n}}{{\\rm{u}}_{\\rm{1}}}{\\rm{ + }}\\frac{{{\\rm{n}}\\left( {{\\rm{n}} - {\\rm{1}}} \\right){\\rm{d}}}}{{\\rm{2}}}\\]",
+        "B. \\[{{\\rm{S}}_{\\rm{n}}}{\\rm{ = n}}{{\\rm{u}}_{\\rm{1}}}{\\rm{ + n}}\\left( {{\\rm{n}} - {\\rm{1}}} \\right){\\rm{d}}\\]",
+        "C. \\[{{\\rm{S}}_{\\rm{n}}}{\\rm{ = }}\\frac{{{\\rm{n}}{{\\rm{u}}_{\\rm{1}}}{\\rm{ + n}}\\left( {{\\rm{n}} - {\\rm{1}}} \\right){\\rm{d}}}}{{\\rm{2}}}\\]",
+        "D. \\[{{\\rm{S}}_{\\rm{n}}}{\\rm{ = n}}{{\\rm{u}}_{\\rm{1}}}{\\rm{ + }}\\frac{{{{\\rm{n}}^{\\rm{2}}}{\\rm{d}}}}{{\\rm{2}}}\\]"
+      ],
+      "answer": "A",
+      "note": "Theo định lí ta có công thức tính tổng n số hạng đầu tiên của cấp số cộng là: \\[{{\\rm{S}}_{\\rm{n}}}{\\rm{ = }}\\frac{{{\\rm{n}}\\left[ {{\\rm{2}}{{\\rm{u}}_{\\rm{1}}}{\\rm{ + }}\\left( {{\\rm{n}} - {\\rm{1}}} \\right){\\rm{d}}} \\right]}}{{\\rm{2}}}{\\rm{ = }}\\frac{{{\\rm{2n}}{{\\rm{u}}_{\\rm{1}}}{\\rm{ + n}}\\left( {{\\rm{n}} - {\\rm{1}}} \\right){\\rm{d}}}}{{\\rm{2}}}{\\rm{ = n}}{{\\rm{u}}_{\\rm{1}}}{\\rm{ + }}\\frac{{{\\rm{n}}\\left( {{\\rm{n}} - {\\rm{1}}} \\right){\\rm{d}}}}{{\\rm{2}}}\\] Đáp án cần chọn là: A"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Dãy số nào sau đây là cấp số cộng?",
+      "options": [
+        "A. \\(\\left\\{ {\\begin{array}{*{20}{c}}{{{\\rm{u}}_{\\rm{1}}}{\\rm{ = 1}}}\\\\{{u_{{\\rm{n + 1}}}}{\\rm{ = }}{{\\rm{u}}_{\\rm{n}}}{\\rm{ + 1}},n \\ge 1}\\end{array}} \\right.\\)",
+        "B. \\(\\left\\{ {\\begin{array}{*{20}{c}}{{{\\rm{u}}_{\\rm{1}}}{\\rm{ = }} - {\\rm{1}}}\\\\{{u_{{\\rm{n + 1}}}}{\\rm{ = }} - 3{u_n},n \\ge 1}\\end{array}} \\right.\\)",
+        "C. \\(\\left\\{ {\\begin{array}{*{20}{c}}{{{\\rm{u}}_{\\rm{1}}}{\\rm{ = }} - 2}\\\\{{u_{{\\rm{n + 1}}}}{\\rm{ = }}2{u_n} + 3,n \\ge 1}\\end{array}} \\right.\\)",
+        "D. \\(\\left\\{ {\\begin{array}{*{20}{c}}{{{\\rm{u}}_{\\rm{1}}}{\\rm{ = }}\\frac{\\pi }{2}}\\\\{{u_{{\\rm{n + 1}}}}{\\rm{ = }}\\sin \\left( {\\frac{\\pi }{{\\pi - 1}}} \\right),n \\ge 1}\\end{array}} \\right.\\)"
+      ],
+      "answer": "B",
+      "note": "Dựa vào định lí ta thấy dãy số \\(\\left\\{ {\\begin{array}{*{20}{c}}{{{\\rm{u}}_{\\rm{1}}}{\\rm{ = 1}}}\\\\{{u_{{\\rm{n + 1}}}}{\\rm{ = }}{{\\rm{u}}_{\\rm{n}}}{\\rm{ + 1}},n \\ge 1}\\end{array}} \\right.\\)là cấp số cộng với công sai d = 1. Đáp án cần chọn là: B"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho cấp số cộng (u n ) với \\[{{\\rm{u}}_{\\rm{1}}}{\\rm{ = }} - {\\rm{2}}\\] và \\[{{\\rm{u}}_{\\rm{2}}}{\\rm{ = 3}}\\]. Công sai của cấp số cộng đã cho bằng:",
+      "options": [
+        "A. 5.",
+        "B. −5.",
+        "C. 1.",
+        "D. −1."
+      ],
+      "answer": "A",
+      "note": "Ta có: \\[{{\\rm{u}}_{\\rm{2}}}{\\rm{ = }}{{\\rm{u}}_{\\rm{1}}}{\\rm{ + d}} \\Leftrightarrow {\\rm{d = }}{{\\rm{u}}_{\\rm{2}}} - {{\\rm{u}}_{\\rm{1}}}{\\rm{ = 3}} - \\left( { - {\\rm{2}}} \\right){\\rm{ = 5}}\\] Đáp án cần chọn là: A"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Trong các dãy số (u n ) cho bởi số hạng tổng quát u n sau, dãy số nào không phải là một cấp số cộng :",
+      "options": [
+        "A. \\[{{\\rm{u}}_{\\rm{n}}}{\\rm{ = 5}} - {\\rm{2n}}\\]",
+        "B. \\[{{\\rm{u}}_{\\rm{n}}}{\\rm{ = }}{{\\rm{2}}^{\\rm{n}}}\\]",
+        "C. \\[{{\\rm{u}}_{\\rm{n}}}{\\rm{ = }}\\frac{{\\rm{n}}}{{\\rm{2}}} - {\\rm{3}}\\]",
+        "D. \\[{{\\rm{u}}_{\\rm{n}}}{\\rm{ = }}\\frac{{{\\rm{2}} - {\\rm{3n}}}}{{\\rm{5}}}\\]"
+      ],
+      "answer": "B",
+      "note": "Xét đáp A. Ta có: \\[{{\\rm{u}}_{{\\rm{n + 1}}}}{\\rm{ = 5}} - {\\rm{2}}\\left( {{\\rm{n + 1}}} \\right){\\rm{ = 5}} - {\\rm{2n}} - {\\rm{2 = 3}} - {\\rm{2n}}\\] Xét hiệu: \\[{{\\rm{u}}_{{\\rm{n + 1}}}} - {{\\rm{u}}_{\\rm{n}}}{\\rm{ = }}\\left( {{\\rm{3}} - {\\rm{2n}}} \\right) - \\left( {{\\rm{5}} - {\\rm{2n}}} \\right){\\rm{ = 3}} - {\\rm{2n}} - {\\rm{5 + 2n = }} - {\\rm{2}}\\] Vậy dãy số là cấp số cộng có công sai d = −2. Xét đáp B. Ta có: \\[{{\\rm{u}}_{\\rm{1}}}{\\rm{ = }}{{\\rm{2}}^{\\rm{1}}}{\\rm{ = 2; }}{{\\rm{u}}_{\\rm{2}}}{\\rm{ = }}{{\\rm{2}}^{\\rm{2}}}{\\rm{ = 4 = }}{{\\rm{u}}_{\\rm{1}}}{\\rm{ + 2; }}{{\\rm{u}}_{\\rm{3}}}{\\rm{ = }}{{\\rm{2}}^{\\rm{3}}}{\\rm{ = 8 = }}{{\\rm{u}}_{\\rm{2}}}{\\rm{ + 4}}\\] Vậy dãy số không là cấp số cộng. Xét đáp C. Ta có: \\[{{\\rm{u}}_{{\\rm{n + 1}}}}{\\rm{ = }}\\frac{{{\\rm{n + 1}}}}{{\\rm{2}}} - {\\rm{3 = }}\\frac{{\\rm{n}}}{{\\rm{2}}}{\\rm{ + }}\\frac{{\\rm{1}}}{{\\rm{2}}} - {\\rm{3 = }}\\frac{{\\rm{n}}}{{\\rm{2}}} - \\frac{{\\rm{5}}}{{\\rm{2}}}\\] Xét hiệu: \\[{{\\rm{u}}_{{\\rm{n + 1}}}} - {{\\rm{u}}_{\\rm{n}}}{\\rm{ = }}\\left( {\\frac{{\\rm{n}}}{{\\rm{2}}} - \\frac{{\\rm{5}}}{{\\rm{2}}}} \\right) - \\left( {\\frac{{\\rm{n}}}{{\\rm{2}}} - {\\rm{3}}} \\right){\\rm{ = }}\\frac{{\\rm{n}}}{{\\rm{2}}} - \\frac{{\\rm{5}}}{{\\rm{2}}} - \\frac{{\\rm{n}}}{{\\rm{2}}}{\\rm{ + 3 = }}\\frac{{\\rm{1}}}{{\\rm{2}}}\\] Vậy dãy số là cấp số cộng có công sai \\[{\\rm{d = }}\\frac{{\\rm{1}}}{{\\rm{2}}}\\] Xét đáp D. Ta có: \\[{{\\rm{u}}_{{\\rm{n + 1}}}}{\\rm{ = }}\\frac{{{\\rm{2}} - {\\rm{3}}\\left( {{\\rm{n + 1}}} \\right)}}{{\\rm{5}}}{\\rm{ = }}\\frac{{{\\rm{2}} - {\\rm{3n}} - {\\rm{3}}}}{{\\rm{5}}}{\\rm{ = }}\\frac{{ - {\\rm{1}} - {\\rm{3n}}}}{{\\rm{5}}}\\] Xét hiệu: \\[{{\\rm{u}}_{{\\rm{n + 1}}}} - {{\\rm{u}}_{\\rm{n}}}{\\rm{ = }}\\frac{{ - {\\rm{1}} - {\\rm{3n}}}}{{\\rm{5}}} - \\frac{{{\\rm{2}} - {\\rm{3n}}}}{{\\rm{5}}}{\\rm{ = }}\\frac{{ - {\\rm{1}} - {\\rm{3n}} - {\\rm{2 + 3n}}}}{{\\rm{5}}}{\\rm{ = }} - \\frac{{\\rm{3}}}{{\\rm{5}}}\\] Vậy dãy số là cấp số cộng có công sai\\[{\\rm{d = }} - \\frac{3}{5}\\] Đáp án cần chọn là: B"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho cấp số cộng (u n ), biết \\[{{\\rm{u}}_{{\\rm{1 }}}}{\\rm{ = }} - {\\rm{5, d = 3}}\\]. Chọn đáp án đúng .",
+      "options": [
+        "A. \\[{{\\rm{u}}_{{\\rm{15}}}}{\\rm{ = 34}}\\]",
+        "B. \\[{{\\rm{u}}_{{\\rm{15}}}}{\\rm{ = 37}}\\]",
+        "C. \\[{{\\rm{u}}_{{\\rm{13}}}}{\\rm{ = 34}}\\]",
+        "D. \\[{{\\rm{u}}_{{\\rm{13}}}}{\\rm{ = 37}}\\]"
+      ],
+      "answer": "B",
+      "note": "\\[{{\\rm{u}}_{{\\rm{13}}}}{\\rm{ = }}{{\\rm{u}}_{\\rm{1}}}{\\rm{ + 12d = }} - {\\rm{5 + 12}}{\\rm{.3 = 31}}\\] \\[{{\\rm{u}}_{{\\rm{15}}}}{\\rm{ = }}{{\\rm{u}}_{\\rm{1}}}{\\rm{ + 14d = }} - {\\rm{5 + 14}}{\\rm{.3 = 37}}\\] Đáp án cần chọn là: B"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Cho cấp số cộng (u n ) có số hạng đầu u 1 = 2 và công sai d = −3. Tổng của 10 số hạng đầu tiên của cấp số cộng đã cho bằng:",
+      "options": [
+        "A. −115.",
+        "B. −130.",
+        "C. 115.",
+        "D. 130."
+      ],
+      "answer": "A",
+      "note": "\\[{{\\rm{S}}_{{\\rm{10}}}}{\\rm{ = }}\\frac{{{\\rm{10}}{\\rm{.}}\\left[ {{\\rm{2}}{{\\rm{u}}_{\\rm{1}}}{\\rm{ + 9d}}} \\right]}}{{\\rm{2}}}{\\rm{ = }}\\frac{{{\\rm{10}}{\\rm{.}}\\left[ {{\\rm{2}}{\\rm{.2 + 9}}{\\rm{.}}\\left( { - {\\rm{3}}} \\right)} \\right]}}{{\\rm{2}}}{\\rm{ = }} - {\\rm{115}}\\] Đáp án cần chọn là: A"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho cấp số cộng (u n ), biết \\[{{\\rm{u}}_{\\rm{1}}}{\\rm{ = }} - {\\rm{5, d = 3}}\\]. Số 100 là số hạng thứ bao nhiêu?",
+      "options": [
+        "A. Số thứ 25.",
+        "B. Số thứ 26.",
+        "C. Số thứ 35.",
+        "D. Số thứ 36."
+      ],
+      "answer": "D",
+      "note": "\\[{{\\rm{u}}_{\\rm{n}}}{\\rm{ = }}{{\\rm{u}}_{\\rm{1}}}{\\rm{ + }}\\left( {{\\rm{n}} - {\\rm{1}}} \\right){\\rm{d}} \\Leftrightarrow {\\rm{100 = }} - {\\rm{5 + }}\\left( {{\\rm{n}} - {\\rm{1}}} \\right){\\rm{.3}} \\Leftrightarrow \\left( {{\\rm{n}} - {\\rm{1}}} \\right){\\rm{.3 = 105}} \\Leftrightarrow {\\rm{n}} - {\\rm{1 = 35}} \\Leftrightarrow {\\rm{n = 36}}\\] Đáp án cần chọn là: D"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-3-bo-10-de-thi-cuoi-ki-2-toan-11-canh-dieu-co-dap-an",
+  "sourceId": "vietjack:3-bo-10-de-thi-cuoi-ki-2-toan-11-canh-di",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "cuoiki2",
+  "year": 2026,
+  "title": "3.Bộ 10 đề thi cuối kì 2 Toán 11 Cánh diều có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Chọn ngẫu nhiên hai số khác nhau từ \\[21\\] số nguyên dương đầu tiên. Xác xuất để chọn được hai số có tổng là một số chẵn bằng:",
+      "options": [
+        "A. \\(\\frac{{11}}{{21}}\\).",
+        "B. \\(\\frac{{221}}{{441}}\\).",
+        "C. \\(\\frac{{10}}{{21}}\\).",
+        "D. \\(\\frac{1}{2}\\)."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là: C Số cách chọn 2 số trong 21 số nguyên dương đầu tiên là \\(C_{21}^2 = 210\\) (cách). Trong 21 số nguyên dương đầu tiên có 11 số lẻ và 10 số chẵn. Để tổng hai số chọn được là số chẵn thì 2 số được chọn có cùng tính chẵn lẻ tức là cùng chẵn hoặc cùng lẻ. TH1: Hai số được chọn cùng lẻ có \\(C_{11}^2 = 55\\) (cách) TH2: Hai số được chọn cùng chẵn có \\(C_{10}^2 = 45\\)(cách). Vậy xác xuất để chọn được hai số có tổng là một số chẵn bằng: \\(\\frac{{55 + 45}}{{210}} = \\frac{{10}}{{21}}\\)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho biểu thức: \\(P = {x^{\\frac{3}{2}}}.\\sqrt[5]{x}\\) với \\(x > 0\\). Mệnh đề nào dưới đây đúng?",
+      "options": [
+        "A. \\[{x^{\\frac{{17}}{{10}}}}\\].",
+        "B. \\[{x^{\\frac{3}{{10}}}}\\].",
+        "C. \\[{x^{\\frac{4}{7}}}\\].",
+        "D. \\[{x^{\\frac{{13}}{2}}}\\]."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A Ta có \\(P = {x^{\\frac{3}{2}}}.\\sqrt[5]{x}\\)\\( = {x^{\\frac{3}{2}}}.{x^{\\frac{1}{5}}} = {x^{\\frac{{17}}{{10}}}}\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho \\(a\\) là số thực dương khác \\[1\\]. Mệnh đề nào dưới đây đúng với mọi số dương \\(x,{\\rm{ }}y\\)?",
+      "options": [
+        "A. \\({\\log _a}\\frac{x}{y} = {\\log _a}x + {\\log _a}y\\).",
+        "B. \\({\\log _a}\\frac{x}{y} = \\frac{{{{\\log }_a}x}}{{{{\\log }_a}y}}\\).",
+        "C. \\({\\log _a}\\frac{x}{y} = {\\log _a}\\left( {x - y} \\right)\\).",
+        "D. \\({\\log _a}\\frac{x}{y} = {\\log _a}x - {\\log _a}y\\)."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải Đáp án đúng là: D \\({\\log _a}\\frac{x}{y} = {\\log _a}x - {\\log _a}y\\)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Tập xác định của hàm số \\(y = {\\log _2}\\left( {x - 2} \\right)\\) là",
+      "options": [
+        "A. \\(D = \\mathbb{R}\\).",
+        "B. \\(D = \\mathbb{R}\\backslash \\left\\{ 2 \\right\\}\\).",
+        "C. \\(D = \\left( {2; + \\infty } \\right)\\).",
+        "D. \\(D = \\left( { - \\infty ;2} \\right)\\)."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là: C Điều kiện \\(x - 2 > 0 \\Leftrightarrow x > 2.\\) Tập xác định của hàm số \\(D = \\left( {2; + \\infty } \\right)\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Nghiệm của phương trình \\({\\log _3}\\left( {2x - 1} \\right) = 2\\) là",
+      "options": [
+        "A. \\[x = \\frac{{11}}{2}\\].",
+        "B. \\[x = 10\\].",
+        "C. \\[x = 5\\].",
+        "D. \\[x = 4\\]."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là: C Ta có \\({\\log _3}\\left( {2x - 1} \\right) = 2\\)\\( \\Leftrightarrow \\left\\{ \\begin{array}{l}2x - 1 > 0\\\\2x - 1 > {3^2}\\end{array} \\right.\\)\\( \\Leftrightarrow \\left\\{ \\begin{array}{l}x > \\frac{1}{2}\\\\x = 5\\end{array} \\right. \\Leftrightarrow x = 5\\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Nghiệm của phương trình \\({3^{x - 2}} = 9\\) là.",
+      "options": [
+        "A. \\(x = 4\\).",
+        "B. \\(x = - 3\\).",
+        "C. \\(x = - 4\\).",
+        "D. \\(x = 3\\)."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A Ta có \\({3^{x - 2}} = 9\\)\\( \\Leftrightarrow {3^{x - 2}} = {3^2} \\Leftrightarrow x - 2 = 2 \\Leftrightarrow x = 4\\)."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Tập nghiệm của bất phương trình sau: \\[\\log \\left( {x - 21} \\right) + \\log x < 2\\] là",
+      "options": [
+        "A. \\(\\left( { - 4;25} \\right)\\).",
+        "B. \\(\\left( {25; + \\infty } \\right)\\).",
+        "C. \\(\\left( {0;25} \\right)\\).",
+        "D. \\(\\left( {21;25} \\right)\\)."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải Đáp án đúng là: D Điều kiện: \\(x > 21\\). Ta có \\[\\log \\left( {x - 21} \\right) + \\log x < 2\\] \\[ \\Leftrightarrow \\log \\left[ {x\\left( {x - 21} \\right)} \\right] < 2\\] \\[ \\Leftrightarrow x\\left( {x - 21} \\right) < 100\\] \\[ \\Leftrightarrow {x^2} - 21x - 100 < 0\\] \\[ \\Leftrightarrow - 4 < x < 25\\]. Kết hợp với điều kiện, ta có tập nghiệm của phương trình là \\(S = \\left( {21;25} \\right)\\)."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Số nghiệm nguyên của bất phương trình \\({7^{ - {x^2} - 5x + 7}} > {\\left( {\\frac{1}{7}} \\right)^{2x + 3}}\\) là",
+      "options": [
+        "A. 8.",
+        "B. 3",
+        "C. 2.",
+        "D. 6."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải Đáp án đúng là: D \\({7^{ - {x^2} - 5x + 7}} > {\\left( {\\frac{1}{7}} \\right)^{2x + 3}}\\) \\( \\Leftrightarrow {7^{ - {x^2} - 5x + 7}} > {7^{ - 2x - 3}}\\) \\( \\Leftrightarrow - {x^2} - 5x + 7 > - 2x - 3\\) \\( \\Leftrightarrow - {x^2} - 3x + 10 > 0\\) \\( \\Leftrightarrow - 5 < x < 2\\). Mà \\(x \\in \\mathbb{Z}\\) nên \\(x \\in \\left\\{ { - 4; - 3; - 2; - 1;0;1} \\right\\}\\)."
+    }
+  ]
+}

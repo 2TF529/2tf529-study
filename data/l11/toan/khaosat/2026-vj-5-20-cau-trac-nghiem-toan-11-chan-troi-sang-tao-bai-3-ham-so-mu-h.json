@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-5-20-cau-trac-nghiem-toan-11-chan-troi-sang-tao-bai-3-ham-so-mu-h",
+  "sourceId": "vietjack:5-20-cau-trac-nghiem-toan-11-chan-troi-s",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "5.20 câu trắc nghiệm Toán 11 Chân trời sáng tạo Bài 3. Hàm số mũ. Hàm số lôgarit (Đúng sai - Trả lời ngắn) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: TRẮC NGHIỆM NHIỀU LỰA CHỌN Hàm số nào sau đây đồng biến trên ℝ.",
+      "options": [
+        "A. \\(y = {\\left( {\\sqrt 5 - 2} \\right)^x}\\) .",
+        "B. \\(y = {\\left( {\\frac{3}{\\pi }} \\right)^x}\\) .",
+        "C. y = 0,7 x .",
+        "D. \\(y = {\\left( {\\frac{e}{2}} \\right)^x}\\) ."
+      ],
+      "answer": "D",
+      "note": "D Ta có \\(\\frac{e}{2} > 1\\) nên hàm số \\(y = {\\left( {\\frac{e}{2}} \\right)^x}\\)đồng biến trên ℝ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Tập xác định của hàm số y = ln(x – 2) là",
+      "options": [
+        "A. [2; +∞).",
+        "B. (2; +∞).",
+        "C. ℝ.",
+        "D. ℝ\\{2}."
+      ],
+      "answer": "B",
+      "note": "B Điều kiện: x – 2 > 0 Û x > 2."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Hàm số nào sau đây không là hàm số mũ?",
+      "options": [
+        "A. \\(y = {\\left( {\\frac{2}{3}} \\right)^x}\\) .",
+        "B. \\(y = {\\left( {\\frac{2}{3}} \\right)^{ - x}}\\) .",
+        "C. y = x 7 .",
+        "D. \\(y = {\\left( {\\frac{e}{2}} \\right)^x}\\) ."
+      ],
+      "answer": "C",
+      "note": "C Hàm số y = x 7 không là hàm số mũ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hàm số y = 5 x có tập xác định là",
+      "options": [
+        "A. ℝ.",
+        "B. (0; +∞).",
+        "C. (−∞; 0).",
+        "D. (1; +∞)."
+      ],
+      "answer": "A",
+      "note": "A Hàm số y = 5 x có tập xác định là ℝ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Hàm số y = log a x có đồ thị đi qua điểm nào sau đây?",
+      "options": [
+        "A. (1; 0) .",
+        "B. (a; 1) .",
+        "C. (a 2 ; 2) .",
+        "D. Tất cả các điểm trên ."
+      ],
+      "answer": "D",
+      "note": "D Thay tọa độ các điểm vào hàm số y = log a x ta thấy đều thỏa mãn."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho a > 0, b > 1, a ≠ 1; b ≠ 1. Đồ thị hàm số y = a x và y = log b x được cho như hình vẽ bên. Trong các mệnh đề dưới đây, mệnh đề nào đúng?",
+      "options": [
+        "A. a > 1, b > 1 .",
+        "B. a > 1, 0 < b < 1 .",
+        "C. 0 < a < 1, b > 1 .",
+        "D. 0 < a < 1, 0 < b < 1 ."
+      ],
+      "answer": "B",
+      "note": "B Dựa vào đồ thị hàm số, ta thấy y = a x là hàm số đồng biến. Do đó a > 1. Hàm số y = log b x là hàm số nghịch biến nên 0 < b < 1."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Tập xác định của hàm số y = log(x 2 – 3x + 2) là",
+      "options": [
+        "A. D = (−∞; 1) È (2; +∞) .",
+        "B. D = (1; 2) .",
+        "C. D = (−∞; 1] È [2; +∞) .",
+        "D. D = [1; 2] ."
+      ],
+      "answer": "A",
+      "note": "A Điều kiện: x 2 – 3x + 2 > 0 Û \\(\\left[ \\begin{array}{l}x > 2\\\\x < 1\\end{array} \\right.\\). Tập xác định D = (−∞; 1) È (2; +∞)."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho đường cong trong hình bên là đồ thị của một trong bốn hàm số được liệt kê ở bốn phương án A, B, C, D dưới đây. Hàm số đó là hàm số nào?",
+      "options": [
+        "A. y = log 4 x .",
+        "B. y = log 0,25 x .",
+        "C. \\(y = - \\frac{1}{2}x\\) .",
+        "D. y = log 0,5 x."
+      ],
+      "answer": "D",
+      "note": "D Dựa vào đồ thị ta thấy đây là đồ thị hàm số y = log a x với 0 < a < 1. Loại A, C. Đồ thị hàm số đi qua điểm (2; −1) thay vào hàm số y = log 0,5 x ta được y = log 0,5 2 = −1."
+    }
+  ]
+}

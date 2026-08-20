@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-20-cau-trac-nghiem-toan-10-canh-dieu-dau-cua-tam-thuc-bac-hai-c",
+  "sourceId": "vietjack:2-20-cau-trac-nghiem-toan-10-canh-dieu-d",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.20 câu Trắc nghiệm Toán 10 Cánh diều Dấu của tam thức bậc hai có đáp án (Phần 2)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho f(x) = ax 2 + bx + c (a > 0) có ∆ = b 2 – 4ac ≤ 0. Mệnh đề nào sau đây là đúng?",
+      "options": [
+        "A. f(x) ≥ 0, ∀x ∈ ℝ;",
+        "B. f(x0 ≤ 0, ∀x ∈ ℝ;",
+        "C. f(x) = 0, ∀x ∈ ℝ;",
+        "D. Tồn tại x để f(x) < 0."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Tam thức bậc hai f(x) = ax 2 + bx + c (a > 0) có ∆ = b 2 – 4ac ≤ 0 thì f(x) ≥ 0, ∀x ∈ ℝ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho f(x) = ax 2 + bx + c (a ≠ 0). Điều kiện để f(x) ≤ 0, ∀ x ∈ ℝ là:",
+      "options": [
+        "A. a < 0 Δ ≤ 0 ;",
+        "B. a < 0 Δ ≥ 0 ;",
+        "C. a > 0 Δ < 0 ;",
+        "D. a < 0 Δ > 0 ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có: f(x) ≤ 0, ∀x ∈ ℝ khi a < 0 và ∆ ≤ 0. Vậy đáp án đúng là A."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho f(x) = ax 2 + bx + c (a ≠ 0). Điều kiện để f(x) < 0, ∀ x ∈ ℝ là:",
+      "options": [
+        "A. a < 0 Δ ≤ 0 ;",
+        "B. a < 0 Δ = 0 ;",
+        "C. a > 0 Δ < 0 ;",
+        "D. a < 0 Δ < 0 ."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Ta có: f(x) < 0, ∀x ∈ ℝ khi a < 0 và ∆ < 0. Vậy đáp án đúng là D."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho f(x) = ax 2 + bx + c (a ≠ 0). Điều kiện để f(x) ≥ 0, ∀ x ∈ ℝ là:",
+      "options": [
+        "A. a > 0 Δ ≤ 0 ;",
+        "B. a > 0 Δ ≥ 0 ;",
+        "C. a > 0 Δ < 0 ;",
+        "D. a < 0 Δ > 0 ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có: f(x) ≥ 0, ∀x ∈ ℝ khi a > 0 và ∆ ≤ 0. Vậy đáp án đúng là A."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho f(x) = ax 2 + bx + c (a ≠ 0) có ∆ = b 2 – 4ac < 0. Mệnh đề nào sau đây là đúng?",
+      "options": [
+        "A. f(x) > 0, ∀x ∈ ℝ;",
+        "B. f(x) < 0, ∀x ∈ ℝ;",
+        "C. f(x) không đổi dấu;",
+        "D. Tồn tại x để f(x) = 0."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Đáp án A, B sai vì chưa biết dấu của a nên chưa kết luận được dấu của f(x). Vì ∆ < 0 và a ≠ 0 nên f(x) không đổi dấu trên ℝ nên đáp án C đúng. Do ∆ < 0 nên phương trình f(x) = 0 vô nghiệm, do đó không tồn tại x để f(x) = 0 nên đáp án D sai."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho f(x) = ax 2 + bx + c (a ≠ 0). Điều kiện để f(x) > 0, ∀ x ∈ ℝ là:",
+      "options": [
+        "A. a > 0 Δ ≤ 0 ;",
+        "B. a > 0 Δ ≥ 0 ;",
+        "C. a > 0 Δ < 0 ;",
+        "D. a > 0 Δ > 0 ."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có: f(x) > 0, ∀x ∈ ℝ khi a > 0 và ∆ < 0. Vậy ta chọn đáp án C."
+    }
+  ]
+}

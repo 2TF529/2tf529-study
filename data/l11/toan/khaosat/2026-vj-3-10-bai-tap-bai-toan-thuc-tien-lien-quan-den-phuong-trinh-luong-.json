@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-3-10-bai-tap-bai-toan-thuc-tien-lien-quan-den-phuong-trinh-luong-",
+  "sourceId": "vietjack:3-10-bai-tap-bai-toan-thuc-tien-lien-qua",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.10 Bài tập Bài toán thực tiễn liên quan đến phương trình lượng giác (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Số giờ có ánh sáng mặt trời của một thành phố A ở vĩ độ 40° Bắc trong ngày thứ t của một năm không nhuận được cho bởi hàm số: d t = 3 sin π 182 t − 80 + 12 , với t ∈ ℤ và 0 ≤ t ≤ 365. Thành phố A có đúng 15 giờ có ánh sáng mặt trời vào ngày nào trong năm?",
+      "options": [
+        "A. 171;",
+        "B. 170;",
+        "C. 169;",
+        "D. 168."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A Giả sử thành phố A có đúng 15 giờ có ánh sáng mặt trời vào ngày thứ t 0 . Ta có: d t 0 = 3 sin π 182 t 0 − 80 + 12 Mà d(t 0 ) = 15 nên ta có: 3 sin π 182 t 0 − 80 + 12 = 15 ⇔ 3 sin π 182 t 0 − 80 = 3 ⇔ sin π 182 t 0 − 80 = 1 ⇔ π 182 t 0 − 80 = π 2 + k 2 π , k ∈ ℤ ⇔ t 0 – 80 = 91 + 364k, k ∈ ℤ ⇔ t 0 = 364k + 171, k ∈ ℤ Mà 0 ≤ t 0 ≤ 365 ⇔ –171 ≤ 364k ≤ 194 ⇔ –0,47 ≤ k ≤ 0,53 Mà k ∈ ℤ nên k = 0 Nếu k = 0 thì t 0 = 171 Vậy thành phố A có đúng 15 giờ có ánh sáng mặt trời vào ngày thứ 171."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Số giờ có ánh sáng mặt trời của một thành phố A ở vĩ độ 40° Bắc trong ngày thứ t của một năm không nhuận được cho bởi hàm số: d t = 3 sin π 182 t − 80 + 12 , với t ∈ ℤ và 0 ≤ t ≤ 365. Vào ngày nào trong năm thì thành phố A có đúng 9 giờ có ánh sáng mặt trời?",
+      "options": [
+        "A. 351;",
+        "B. 352;",
+        "C. 353;",
+        "D. 354."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải: Đáp án đúng là: C Giả sử thành phố A có đúng 9 giờ có ánh sáng mặt trời vào ngày thứ t 0 . Ta có: d t 0 = 3 sin π 182 t 0 − 80 + 12 Mà d(t 0 ) = 9 nên ta có: 3 sin π 182 t 0 − 80 + 12 = 9 ⇔ 3 sin π 182 t 0 − 80 = − 3 ⇔ sin π 182 t 0 − 80 = − 1 ⇔ π 182 t 0 − 80 = − π 2 + k 2 π , k ∈ ℤ ⇔ t 0 – 80 = –91 + 364k , k ∈ ℤ ⇔ t 0 = 364k – 11, k ∈ ℤ Mà 0 ≤ t 0 ≤ 365 ⇔ 11 ≤ 364k ≤ 376 ⇔ 0,03 ≤ k ≤ 1,03 Mà k ∈ ℤ nên k = 1 Nếu k = 1 thì t 0 = 353 Vậy thành phố A có đúng 9 giờ có ánh sáng mặt trời vào ngày thứ 353."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Một quả đạn pháp được bắn khỏi nòng pháp với vận tốc ban đầu v 0 = 500 m/s hợp với phương ngang một góc α. Trong Vật lí, ta biết rằng, nếu bỏ qua sức cản của không khí và coi quả đạn pháo được bắn ra từ mặt đất thì quỹ đạo của quả đạn tuân theo phương trình y = − g 2 v 0 2 cos 2 α x 2 + x tan α , ở đó g = 9,8 m/s 2 là gia tốc trọng trường. Tìm góc bắn α để quả đạn trúng mục tiêu cách vị trí đặt khẩu pháo 22 000 m.",
+      "options": [
+        "A. α ≈ 29 ° 47 ' 37 ' ' ;",
+        "B. α ≈ 28 ° 47 ' 36 ' ' ;",
+        "C. α ≈ 29 ° 47 ' 30 ' ' ;",
+        "D. α ≈ 29 ° 40 ' 36 ' ' ."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A Vì v 0 = 500 m/s và g = 9,8 m/s 2 nên ta có phương trình quỹ đạo của quả đạn là: y = − 9 , 8 2.500 2 cos 2 α x 2 + x tan α = − 49 2500000 cos 2 α x 2 + x tan α \\. Quả đạn chạm đất khi y = 0, khi đó − 49 2500000 cos 2 α x 2 + x tan α = 0 ⇔ x − 49 2500000 cos 2 α x + tan α = 0 ⇔ x = 0 x = 2500000 cos 2 α . tan α 49 ⇔ x = 0 x = 2500000 cos α . sin α 49 ⇔ x = 0 x = 1250000 sin 2 α 49 Loại x = 0 (đạn pháo chưa được bắn) Vậy tầm xa mà quả đạn đạt tới là x = 1250000 sin 2 α 49 (m). Để quả đạn trúng mục tiêu cách vị trí đặt khẩu pháp 22 000 m thì x = 22 000 m. Khi đó: 1250000 sin 2 α 49 = 22000 ⇔ ⇔ ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Trong hình vẽ, khi được kéo ra khỏi vị trí cân bằng ở điểm O và buông tay, lực đàn hồi của lò xo khiến vật A gắn ở đầu lò xo dao động quanh O. Tọa độ s (cm) của A trên trục Ox vào thời điểm t (giây) sau khi buông tay được xác định bởi công thức s = 10 sin 10 t + π 2 . Vào thời điểm nào dưới dây thì s = − 5 3 cm?",
+      "options": [
+        "A. − π 3 ;",
+        "B. − π 12 ;",
+        "C. − π 6 ;",
+        "D. − π 4 ."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải Đáp án đúng là: B Khi s = − 5 3 cm thì: 10 sin 10 t + π 2 = − 5 3 ⇔ sin 10 t + π 2 = − 3 2 ⇔ sin 10 t + π 2 = sin − π 3 ⇔ 10 t + π 2 = − π 3 + k 2 π 10 t + π 2 = 4 π 3 + k 2 π , k ∈ ℤ ⇔ 10 t = − 5 π 6 + k 2 π 10 t = 5 π 6 + k 2 π , k ∈ ℤ ⇔ t = − π 12 + k π 5 t = π 12 + k π 5 , k ∈ ℤ Khi k = 0 thì t = − π 12 hoặc t = π 12 ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Theo Định luật khúc xạ ánh sáng, khi một tia sáng được chiếu tới mặt phân cách giữa hai môi trường trong suốt không đồng chất thì tỉ số sin i sin r , với i là góc tới và r là góc khúc xạ, là một hằng số phụ thuộc vào chiết suất của hai môi trường. Biết rằng khi góc tới là 45° thì góc khúc xạ bằng 30°. Khi góc tới là 60° thì góc khúc xạ là bao nhiêu?",
+      "options": [
+        "A. 30°;",
+        "B. 45°;",
+        "C. 38°;",
+        "D. 60°."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải: Đáp án đúng là: C Khi góc tới là 45° thì góc khúc xạ bằng 30° nên ta có: Tỉ số sin i sin r = sin 45 ° sin 30 ° = 2 Khi góc tới là 60° thì ta có: sin 60 ° sin r = 2 ⇔ sin 60 ° = 2 sin r ⇔ 2 sin r = 3 2 ⇔ sin r = 6 4 ⇔ sin r ≈ sin 38 ° ⇔ r ≈ 38 ° ( T M ) r ≈ 142 ° ( K T M ) ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Vận tốc của con lắc đơn v (cm/s) được cho bởi công thức: \\(v(t) = - 4\\cos \\left( {\\frac{2}{3}t + \\frac{\\pi }{4}} \\right)\\) . Tại thời điểm nào dưới đây thì vận tốc của con lắc đơn bằng 2 cm/s?",
+      "options": [
+        "A. \\( - \\frac{{5\\pi }}{8}\\) ;",
+        "B. \\(\\frac{{5\\pi }}{3}\\) ;",
+        "C. \\(\\frac{\\pi }{8}\\) ;",
+        "D. \\(\\frac{{5\\pi }}{8}\\) ."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Vận tốc bằng 2 cm/s thì: \\(2 = - 4\\cos \\left( {\\frac{2}{3}t + \\frac{\\pi }{4}} \\right)\\) \\( \\Leftrightarrow \\cos \\left( {\\frac{2}{3}t + \\frac{\\pi }{4}} \\right) = - \\frac{1}{2}\\) \\( \\Leftrightarrow \\cos \\left( {\\frac{2}{3}t + \\frac{\\pi }{4}} \\right) = \\cos \\left( {\\frac{{2\\pi }}{3}} \\right)\\) \\( \\Leftrightarrow \\left[ \\begin{array}{l}\\frac{2}{3}t + \\frac{\\pi }{4} = \\frac{{2\\pi }}{3} + k2\\pi \\\\\\frac{2}{3}t + \\frac{\\pi }{4} = - \\frac{{2\\pi }}{3} + k2\\pi \\end{array} \\right.\\) , k ∈ ℤ \\( \\Leftrightarrow \\left[ \\begin{array}{l}t = \\frac{{5\\pi }}{8} + k3\\pi \\\\t = - \\frac{{11\\pi }}{8} + k3\\pi \\end{array} \\right.\\) , k ∈ ℤ Với k = 0 thì t = \\(\\frac{{5\\pi }}{8}\\) ."
+    }
+  ]
+}

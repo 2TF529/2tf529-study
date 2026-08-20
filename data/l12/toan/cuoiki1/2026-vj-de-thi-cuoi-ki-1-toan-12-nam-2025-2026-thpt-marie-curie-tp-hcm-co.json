@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-de-thi-cuoi-ki-1-toan-12-nam-2025-2026-thpt-marie-curie-tp-hcm-co",
+  "sourceId": "vietjack:de-thi-cuoi-ki-1-toan-12-nam-2025-2026-t",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "cuoiki1",
+  "year": 2026,
+  "title": "Đề thi cuối kì 1 Toán 12 năm 2025-2026 THPT Marie Curie (TP.HCM) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Trắc nghiệm nhiều phương án (3.0 điểm). Thí sinh làm từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh chỉ chọn một phương án. Chuẩn bị cho cuộc thi nhảy hiện đại. Bạn Ri tập nhảy trong \\(18\\) ngày và bạn ấy thống kê lại ở bảng sau: Thời gian (phút) \\(\\left[ {20;25} \\right)\\) \\(\\left[ {25;30} \\right)\\) \\(\\left[ {30;35} \\right)\\) \\(\\left[ {35;40} \\right)\\) \\(\\left[ {40;45} \\right)\\) Số ngày \\(6\\) \\(6\\) \\(4\\) \\(1\\) \\(1\\) Phương sai của mẫu số liệu ghép nhóm có giá trị gần nhất với giá trị nào dưới đây?",
+      "options": [
+        "A. \\(33,25\\).",
+        "B. \\(31,25\\).",
+        "C. \\(25,21\\).",
+        "D. \\(32,25\\)."
+      ],
+      "answer": "B",
+      "note": "Xác định giá trị đại diện \\({c_i}\\) của từng nhóm: Nhóm \\(\\left[ {20;25} \\right)\\): \\({c_1} = \\frac{{20 + 25}}{2} = 22,5\\). Nhóm \\(\\left[ {25;30} \\right)\\): \\({c_2} = \\frac{{25 + 30}}{2} = 27,5\\). Nhóm \\(\\left[ {30;35} \\right)\\): \\({c_3} = \\frac{{30 + 35}}{2} = 32,5\\). Nhóm \\(\\left[ {35;40} \\right)\\): \\({c_4} = \\frac{{35 + 40}}{2} = 37,5\\). Nhóm \\(\\left[ {40;45} \\right)\\): \\({c_5} = \\frac{{40 + 45}}{2} = 42,5\\). Tính số trung bình cộng \\(\\bar x\\): \\(\\bar x = \\frac{{6 \\cdot 22,5 + 6 \\cdot 27,5 + 4 \\cdot 32,5 + 1 \\cdot 37,5 + 1 \\cdot 42,5}}{{18}} = \\frac{{135 + 165 + 130 + 37,5 + 42,5}}{{18}} = \\frac{{510}}{{18}} = \\frac{{85}}{3}\\). Tính phương sai \\({s^2}\\): \\({s^2} = \\frac{1}{{18}}\\left[ {6 \\cdot {{\\left( {22,5} \\right)}^2} + 6 \\cdot {{\\left( {27,5} \\right)}^2} + 4 \\cdot {{\\left( {32,5} \\right)}^2} + 1 \\cdot {{\\left( {37,5} \\right)}^2} + 1 \\cdot {{\\left( {42,5} \\right)}^2}} \\right] - {\\left( {\\frac{{85}}{3}} \\right)^2}\\)\\( = 31,25\\). Chọn đáp án: B."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Người ta tiến hành phỏng vấn hai nhóm khán giả về một bộ phim “Mưa đỏ” mới công chiếu. Nhóm A gồm nhữ khán giả thuộc lứa tuổi 20 đến 30, nhóm B thuộc lứa tuổi trên 30. Người được hỏi ý kiến phải đánh giá bộ phim bằng cách cho điểm theo một số tiêu chí nêu trong phiếu điều tra và sau đó lấy tổng số điểm (thang điểm 100). Bảng dưới đây trình bày kết quả điều tra hai nhóm khán giả: Điểm \\(\\left[ {50;60} \\right)\\) \\(\\left[ {60;70} \\right)\\) \\(\\left[ {70;80} \\right)\\) \\(\\left[ {80;90} \\right)\\) \\(\\left[ {90;100} \\right)\\) Số người của nhóm A \\(6\\) \\(10\\) \\(14\\) \\(12\\) \\(8\\) Số người của nhóm B \\(0\\) \\(8\\) \\(14\\) \\(28\\) \\(0\\) Phát biểu nào sau đây sai?",
+      "options": [
+        "A. Khoảng biến thiên của điểm đánh giá từ số người nhóm B là \\(40\\).",
+        "B. Tổng số người được hỏi ý kiến của nhóm A là \\(50\\).",
+        "C. Căn cứ vào khoảng biến thiên thì ý kiến đánh giá của nhóm khán giả A phân tán hơn so với nhóm khán giả B.",
+        "D. Khoảng biến thiên của điểm đánh giá từ số người nhóm A là \\(50\\)."
+      ],
+      "answer": "A",
+      "note": "Ta có \\({n_A} = 6 + 10 + 14 + 12 + 8 = 50\\). Do đó phát biểu B đúng. Đối với nhóm A, các nhóm điểm có người đánh giá là từ \\(\\left[ {50;60} \\right)\\) đến \\(\\left[ {90;100} \\right)\\). Khoảng biến thiên của nhóm A tính theo công thức ghép nhóm là: \\({R_A} = 100 - 50 = 50\\). Do đó phát biểu D đúng. Đối với nhóm B, các nhóm điểm có người đánh giá là từ \\(\\left[ {60;70} \\right)\\) đến \\(\\left[ {80;90} \\right)\\) (do nhóm \\(\\left[ {50;60} \\right)\\) và nhóm \\(\\left[ {90;100} \\right)\\) đều có số người bằng \\(0\\)). Khoảng biến thiên của nhóm B là: \\({R_B} = 90 - 60 = 30\\). Phát biểu A nói rằng \"Khoảng biến thiên của điểm đánh giá từ số người nhóm B là 40\" là Sai. Vì \\({R_A} = 50 > {R_B} = 30\\), ý kiến nhóm A phân tán hơn nhóm B là đúng (Phát biểu C đúng). Chọn đáp án: A."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trong không gian \\(Oxyz\\), cho vectơ \\(\\vec a = \\left( {2; - 1;3} \\right)\\) và điểm \\(M\\) thỏa mãn \\(\\overrightarrow {OM} = \\vec a\\). Khi đó điểm \\(M\\) có tọa độ là:",
+      "options": [
+        "A. \\(\\left( {2; - 1;0} \\right)\\).",
+        "B. \\(\\left( {2; - 1;3} \\right)\\).",
+        "C. \\(\\left( {2;0;3} \\right)\\).",
+        "D. \\(\\left( {2;1;3} \\right)\\)."
+      ],
+      "answer": "B",
+      "note": "Trong hệ tọa độ \\(Oxyz\\), tọa độ của điểm \\(M\\) chính là tọa độ của vectơ vị trí \\(\\overrightarrow {OM} \\). Vì \\(\\overrightarrow {OM} = \\vec a = \\left( {2; - 1;3} \\right)\\), nên tọa độ của điểm \\(M\\) là \\(M\\left( {2; - 1;3} \\right)\\). Chọn đáp án: B."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Giáo viên chủ nhiệm thống kê lại điểm trung bình cuối năm của các học sinh lớp 10 ở bảng sau: Điểm trung bình [5; 6) [6; 7) [7; 8) [8; 9) [9; 10) Số học sinh \\(1\\) \\(0\\) \\(11\\) \\(22\\) \\(6\\) Số trung bình của mẫu số liệu ghép nhóm trên là:",
+      "options": [
+        "A. \\(8,3\\).",
+        "B. \\(8,6\\).",
+        "C. \\(7,4\\).",
+        "D. \\(9,1\\)."
+      ],
+      "answer": "A",
+      "note": "Xác định giá trị đại diện của từng nhóm: \\(5,5\\); \\(6,5\\); \\(7,5\\); \\(8,5\\); \\(9,5\\). Tổng số học sinh (cỡ mẫu): \\(n = 1 + 0 + 11 + 22 + 6 = 40\\). Số trung bình cộng \\(\\bar x\\): \\(\\bar x = \\frac{{1 \\cdot 5,5 + 0 \\cdot 6,5 + 11 \\cdot 7,5 + 22 \\cdot 8,5 + 6 \\cdot 9,5}}{{40}} = \\frac{{5,5 + 0 + 82,5 + 187 + 57}}{{40}} = \\frac{{332}}{{40}} = 8,3\\). Chọn đáp án: A."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hàm số \\(y = f\\left( x \\right)\\) có đạo hàm \\(f'\\left( x \\right) = {x^3} - 2{x^2} + x\\), \\(\\forall x \\in \\mathbb{R}\\). Hàm số \\(y = f\\left( x \\right)\\) có bao nhiêu điểm cực trị?",
+      "options": [
+        "A. \\(2\\).",
+        "B. \\(3\\).",
+        "C. \\(0\\).",
+        "D. \\(1\\)."
+      ],
+      "answer": "D",
+      "note": "Ta giải phương trình đạo hàm bằng 0: \\(f'\\left( x \\right) = 0 \\Leftrightarrow {x^3} - 2{x^2} + x = 0 \\Leftrightarrow x\\left( {{x^2} - 2x + 1} \\right) = 0 \\Leftrightarrow x{\\left( {x - 1} \\right)^2} = 0 \\Leftrightarrow \\left[ {\\begin{array}{*{20}{c}}{x = 0}\\\\{x = 1}\\end{array}} \\right.\\). Trong đó: \\(x = 0\\) là nghiệm đơn (đạo hàm đổi dấu qua nghiệm này). \\(x = 1\\) là nghiệm kép (đạo hàm không đổi dấu khi qua \\(x = 1\\)). Do đó, hàm số chỉ có đúng 1 điểm cực trị tại \\(x = 0\\). Chọn đáp án: D."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho hàm số \\(y = \\frac{{{x^2} + 1}}{{ - {x^2} + 4}}\\) có bảng biến thiên như hình vẽ. Mệnh đề nào sau đây đúng?",
+      "options": [
+        "A. Đồ thị hàm số không có đường tiệm cận nào.",
+        "B. Đồ thị hàm số có đường tiệm cận xiên là \\(y = - x + 1\\).",
+        "C. Đồ thị hàm số có đường tiệm cận ngang là \\(y = - 1\\).",
+        "D. Đồ thị hàm số có đường tiệm cận đứng là \\(x = - 1\\)."
+      ],
+      "answer": "C",
+      "note": "Xét giới hạn của hàm số khi \\(x \\to \\pm \\infty \\): \\(\\mathop {\\lim }\\limits_{x \\to - \\infty } y = \\mathop {\\lim }\\limits_{x \\to - \\infty } \\frac{{{x^2} + 1}}{{ - {x^2} + 4}} = - 1\\) \\(\\mathop {\\lim }\\limits_{x \\to + \\infty } y = \\mathop {\\lim }\\limits_{x \\to + \\infty } \\frac{{{x^2} + 1}}{{ - {x^2} + 4}} = - 1\\) Do đó đồ thị hàm số có một đường tiệm cận ngang là đường thẳng \\(y = - 1\\). Chọn đáp án: C."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Hàm số nào sau đây có bảng biến thiên như hình vẽ bên dưới?",
+      "options": [
+        "A. \\(y = \\frac{{ - {x^2} - 2x + 1}}{{x + 2}}\\).",
+        "B. \\(y = \\frac{{x + 1}}{{x + 2}}\\).",
+        "C. \\(y = \\frac{{ - {x^2} - 2x + 1}}{{x - 2}}\\).",
+        "D. \\(y = \\frac{{ - x + 1}}{{x + 2}}\\)."
+      ],
+      "answer": "A",
+      "note": "Dựa vào bảng biến thiên, hàm số có tiệm cận đứng là \\(x = - 2\\). Khi \\(x \\to \\pm \\infty \\), nhánh hàm số tiến ra vô cực theo dạng tiệm cận xiên \\(y = - x\\). Xét hàm số \\(y = \\frac{{ - {x^2} - 2x + 1}}{{x + 2}}\\): Tập xác định: \\(D = \\mathbb{R}\\backslash \\left\\{ { - 2} \\right\\}\\). Đạo hàm: \\[y' = \\frac{{\\left( { - 2x - 2} \\right)\\left( {x + 2} \\right) - \\left( { - {x^2} - 2x + 1} \\right)}}{{{{\\left( {x + 2} \\right)}^2}}} = \\frac{{ - {x^2} - 4x - 5}}{{{{\\left( {x + 2} \\right)}^2}}} = \\frac{{ - {{\\left( {x + 2} \\right)}^2} - 1}}{{{{\\left( {x + 2} \\right)}^2}}} < 0\\,\\forall x \\in D\\]. Hàm số luôn nghịch biến trên các khoảng \\(\\left( { - \\infty ; - 2} \\right)\\) và \\(\\left( { - 2; + \\infty } \\right)\\), hoàn toàn phù hợp với bảng biến thiên đã cho. Chọn đáp án: A."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Hàm số \\(y = \\frac{x}{{x - 1}}\\) nghịch biến trên khoảng nào sau đây?",
+      "options": [
+        "A. \\(\\left( {0; + \\infty } \\right)\\).",
+        "B. \\(\\left( { - \\infty ; + \\infty } \\right)\\).",
+        "C. \\(\\left( { - 2;2} \\right)\\).",
+        "D. \\(\\left( { - \\infty ;0} \\right)\\)."
+      ],
+      "answer": "D",
+      "note": "Tập xác định: \\(D = \\mathbb{R}\\backslash \\left\\{ 1 \\right\\}\\). Đạo hàm: \\(y' = \\frac{{ - 1}}{{{{\\left( {x - 1} \\right)}^2}}} < 0,\\forall x \\in D\\). Do đó hàm số đã cho luôn nghịch biến trên các khoảng \\(\\left( { - \\infty ;1} \\right)\\) và \\(\\left( {1; + \\infty } \\right)\\). Mà \\(\\left( { - \\infty ;0} \\right)\\) là khoảng con của khoảng \\(\\left( { - \\infty ;1} \\right)\\) nên hàm số đã cho nghịch biến trên khoảng \\(\\left( { - \\infty ;0} \\right)\\). Chọn đáp án: D."
+    }
+  ]
+}

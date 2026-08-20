@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-12-ket-noi-tri-thuc-bai-9-co-dap-an",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-12-ket-noi-",
+  "grade": "l12",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 12 Kết nối tri thức Bài 9 có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Câu 1: Để tạo danh sách có thứ tự, chúng ta sử dụng thẻ nào trong HTML?",
+      "options": [
+        "A. &lt;ul&gt;",
+        "B. &lt;ol&gt;",
+        "C. &lt;dl&gt;",
+        "D. &lt;li&gt;"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Thẻ &lt;ol&gt; (ordered list) được sử dụng để tạo danh sách có thứ tự, trong đó các mục được đánh số theo thứ tự."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Thuộc tính nào được sử dụng để xác định kiểu đánh số trong danh sách có thứ tự?",
+      "options": [
+        "A. start",
+        "B. list-style-type",
+        "C. type",
+        "D. order"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Thuộc tính type trong thẻ &lt;ol&gt; xác định kiểu đánh số cho danh sách, chẳng hạn như số (1), chữ cái (A, a), chữ số La Mã (I, i)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Để tạo danh sách không có thứ tự, chúng ta sử dụng thẻ nào?",
+      "options": [
+        "A. &lt;ol&gt;",
+        "B. &lt;dl&gt;",
+        "C. &lt;ul&gt;",
+        "D. &lt;li&gt;"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Thẻ &lt;ul&gt; (unordered list) được sử dụng để tạo danh sách không có thứ tự, trong đó các mục thường được hiển thị với các kí hiệu đầu dòng như dấu chấm, vòng tròn."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Để thay đổi kí tự đầu dòng trong danh sách không có thứ tự, chúng ta sử dụng thuộc tính nào?",
+      "options": [
+        "A. type",
+        "B. list-style-type",
+        "C. start",
+        "D. bullet-type"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Thuộc tính list-style-type trong thẻ &lt;ul&gt; được sử dụng để thay đổi kiểu kí tự đầu dòng của danh sách không có thứ tự."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Thẻ nào được sử dụng để tạo danh sách mô tả?",
+      "options": [
+        "A. &lt;ul&gt;",
+        "B. &lt;ol&gt;",
+        "C. &lt;dl&gt;",
+        "D. &lt;li&gt;"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Thẻ &lt;dl&gt; (description list) được sử dụng để tạo danh sách mô tả, nơi mỗi mục được kèm theo một mô tả."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong cấu trúc danh sách mô tả, thẻ &lt;dt&gt; có chức năng gì?",
+      "options": [
+        "A. Định nghĩa từ khóa",
+        "B. Định nghĩa mô tả",
+        "C. Tạo mục không có thứ tự",
+        "D. Tạo mục có thứ tự"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Thẻ &lt;dt&gt; (definition term) trong danh sách mô tả được sử dụng để định nghĩa từ khóa, từ hoặc cụm từ cần được giải thích hoặc mô tả."
+    }
+  ]
+}

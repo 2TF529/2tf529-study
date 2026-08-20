@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-3-20-cau-trac-nghiem-toan-10-canh-dieu-bai-4-xac-suat-cua-bien-co",
+  "sourceId": "vietjack:3-20-cau-trac-nghiem-toan-10-canh-dieu-b",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.20 câu trắc nghiệm Toán 10 Cánh diều Bài 4. Xác suất của biến cố trong một số trò chơi đơn giản (Đúng sai - trả lời ngắn) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Dạng 1. Trắc nghiệm nhiều phương án lựa chọn Mỗi câu hỏi thí sinh chỉ chọn một phương án. Gieo hai con xúc xắc. Số phần tử của biến cố để tổng số chấm trên hai mặt bằng 11 là:",
+      "options": [
+        "A. \\(2\\).",
+        "B. \\(4\\).",
+        "C. \\(5\\).",
+        "D. \\(6\\)."
+      ],
+      "answer": "A",
+      "note": "\\(A\\) là biến cố “Tổng số chấm trên hai mặt bằng 11”. Suy ra \\(A = \\left\\{ {\\left( {5;6} \\right),\\left( {6;5} \\right)} \\right\\} \\Rightarrow n\\left( A \\right) = 2\\). Chọn A."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Gieo một con xúc xắc. Số phần tử của biến cố “Xuất hiện mặt chấm lẻ” là",
+      "options": [
+        "A. \\(2\\).",
+        "B. \\(4\\).",
+        "C. \\(3\\).",
+        "D. \\(6\\)."
+      ],
+      "answer": "C",
+      "note": "\\(A = \\left\\{ {1;3;5} \\right\\} \\Rightarrow n\\left( A \\right) = 3\\). Chọn C."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Chọn ngẫu nhiên một số tự nhiên bé hơn 10. Xác suất để chọn được số chia hết cho 5 là",
+      "options": [
+        "A. \\(\\frac{1}{5}\\).",
+        "B. \\(\\frac{1}{{10}}\\).",
+        "C. \\(\\frac{2}{9}\\).",
+        "D. \\(\\frac{1}{9}\\)."
+      ],
+      "answer": "A",
+      "note": "Số phần tử của không gian mẫu là \\(n\\left( \\Omega \\right) = 10\\). Gọi \\(A\\) là biến cố “Chọn được số chia hết cho 5”. Khi đó \\(A = \\left\\{ {0;5} \\right\\} \\Rightarrow n\\left( A \\right) = 2\\). Suy ra \\(P\\left( A \\right) = \\frac{2}{{10}} = \\frac{1}{5}\\). Chọn A."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Gieo 1 đồng xu liên tiếp 3 lần. Tính xác suất của biến cố \\(A\\): “Lần đầu xuất hiện mặt sấp”.",
+      "options": [
+        "A. \\(\\frac{3}{8}\\).",
+        "B. \\(\\frac{1}{2}\\).",
+        "C. \\(\\frac{1}{4}\\).",
+        "D. \\(\\frac{7}{8}\\)."
+      ],
+      "answer": "B",
+      "note": "Số phần tử của không gian mẫu là \\(n\\left( \\Omega \\right) = 8\\). \\(A = \\left\\{ {SSS,SNN,SSN,SNS} \\right\\} \\Rightarrow n\\left( A \\right) = 4\\). Suy ra \\(P\\left( A \\right) = \\frac{4}{8} = \\frac{1}{2}\\). Chọn B."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Chọn ngẫu nhiên một số nguyên dương không lớn hơn 20. Gọi \\(A\\) là biến cố “Số được chọn là số chia hết cho 3”. Biến cố \\(\\overline A \\) có bao nhiêu phần tử?",
+      "options": [
+        "A. \\(13\\).",
+        "B. \\(14\\).",
+        "C. \\(12\\).",
+        "D. \\(15\\)."
+      ],
+      "answer": "B",
+      "note": "\\(\\overline A \\) là biến cố “Số được chọn là số không chia hết cho 3”. Khi đó \\(\\overline A = \\left\\{ {1;2;4;5;7;8;10;11;13;14;16;17;19;20} \\right\\}\\)\\( \\Rightarrow n\\left( {\\overline A } \\right) = 14\\). Chọn B."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Số phần tử của không gian mẫu trong phép thử tung đồng xu ba lần bằng",
+      "options": [
+        "A. \\(6\\).",
+        "B. \\(8\\).",
+        "C. \\(7\\).",
+        "D. \\(5\\)."
+      ],
+      "answer": "B",
+      "note": "Số phần tử của không gian mẫu trong phép thử tung đồng xu ba lần bằng \\({2^3} = 8\\). Chọn B."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Cho biến cố \\(A\\): “Tổng số chấm của 2 lần gieo xúc xắc bằng 5”. Mệnh đề nào sau đây là đúng?",
+      "options": [
+        "A. \\(A = \\left\\{ {\\left( {1;4} \\right),\\left( {2;3} \\right),\\left( {3;2} \\right),\\left( {4;1} \\right)} \\right\\}\\).",
+        "B. \\(A = \\left\\{ {\\left( {1;4} \\right),\\left( {2;3} \\right)} \\right\\}\\).",
+        "C. \\(A = \\left\\{ {\\left( {3;2} \\right),\\left( {4;1} \\right)} \\right\\}\\).",
+        "D. \\(A = \\left\\{ {\\left( {1;4} \\right),\\left( {2;3} \\right),\\left( {3;2} \\right),\\left( {4;1} \\right),\\left( {1;5} \\right),\\left( {5;1} \\right)} \\right\\}\\)."
+      ],
+      "answer": "A",
+      "note": "\\(A = \\left\\{ {\\left( {1;4} \\right),\\left( {2;3} \\right),\\left( {3;2} \\right),\\left( {4;1} \\right)} \\right\\}\\). Chọn A."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Gieo xúc xắc hai lần, xác suất của biến cố kết quả của hai lần gieo là như nhau bằng",
+      "options": [
+        "A. \\(\\frac{1}{2}\\).",
+        "B. \\(\\frac{5}{{36}}\\).",
+        "C. \\(\\frac{1}{6}\\).",
+        "D. \\(\\frac{1}{3}\\)."
+      ],
+      "answer": "C",
+      "note": "Số phần tử của không gian mẫu là \\(n\\left( \\Omega \\right) = 36\\). Gọi \\(A\\) là biến cố “Kết quả hai lần gieo là như nhau”. Khi đó \\(A = \\left\\{ {\\left( {1;1} \\right),\\left( {2;2} \\right),\\left( {3;3} \\right),\\left( {4;4} \\right),\\left( {5;5} \\right),\\left( {6;6} \\right)} \\right\\} \\Rightarrow n\\left( A \\right) = 6\\). Do đó \\(P\\left( A \\right) = \\frac{6}{{36}} = \\frac{1}{6}\\). Chọn C."
+    }
+  ]
+}

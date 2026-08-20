@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-12-canh-dieu-thuc-hanh-dinh-dang-van",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-12-canh-die",
+  "grade": "l12",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 12 Cánh diều Thực hành định dạng văn bản và tạo siêu liên kết có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Câu 1: Khi tạo tệp HTML trong Sublime Text, bạn nên lưu tệp với phần mở rộng nào để trình duyệt có thể nhận diện đúng định dạng?",
+      "options": [
+        "A. .txt",
+        "B. .html",
+        "C. .htm",
+        "D. .css"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Tệp HTML cần phải có phần mở rộng .html hoặc .htm để trình duyệt web có thể nhận diện và hiển thị nội dung đúng cách. .txt là định dạng tệp văn bản thuần túy và .css là định dạng cho các tệp định kiểu."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Thẻ nào trong phần tử &lt;head&gt; được dùng để đặt tiêu đề của trang web?",
+      "options": [
+        "A. &lt;meta&gt;",
+        "B. &lt;title&gt;",
+        "C. &lt;header&gt;",
+        "D. &lt;body&gt;"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Thẻ &lt;title&gt; được sử dụng để đặt tiêu đề của trang web và sẽ hiển thị trên tab của trình duyệt. Thẻ &lt;meta&gt; dùng để khai báo thông tin về trang web, &lt;header&gt; là phần đầu của trang, và &lt;body&gt; chứa nội dung chính."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Thẻ nào được sử dụng để tạo tiêu đề chính (Heading 1) trong HTML?",
+      "options": [
+        "A. &lt;h1&gt;",
+        "B. &lt;h2&gt;",
+        "C. &lt;h3&gt;",
+        "D. &lt;h4&gt;"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Thẻ &lt;h1&gt; được dùng để tạo tiêu đề chính, trong khi các thẻ &lt;h2&gt;, &lt;h3&gt;, và &lt;h4&gt; tạo các tiêu đề phụ với độ quan trọng giảm dần."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Để thêm chú thích vào trong mã HTML, bạn nên sử dụng cặp thẻ nào?",
+      "options": [
+        "A. &lt;!-- và --&gt;",
+        "B. &lt;comment&gt; và &lt;/comment&gt;",
+        "C. {! và !}",
+        "D. /* và */"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Chú thích trong HTML được đặt trong cặp thẻ &lt;!-- và --&gt;. Các cặp thẻ khác không phải là cú pháp dành cho HTML."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Khi làm nổi bật nội dung cho trang web, để cập nhật tệp HTML bạn nên làm gì?",
+      "options": [
+        "A. Mở và lưu tệp với một tên mới",
+        "B. Xóa nội dung của tệp và viết lại từ đầu",
+        "C. Chỉ sửa nội dung mà không cần lưu",
+        "D. Xóa các thẻ HTML cũ"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Để cập nhật và làm nổi bật nội dung, bạn nên mở tệp HTML, thực hiện các thay đổi cần thiết, và sau đó lưu tệp với một tên mới để tránh ghi đè lên phiên bản trước đó."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Để tạo siêu liên kết trong HTML, bạn sử dụng thẻ nào?",
+      "options": [
+        "A. &lt;link&gt;",
+        "B. &lt;a&gt;",
+        "C. &lt;url&gt;",
+        "D. &lt;href&gt;"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Thẻ &lt;a&gt; (anchor) được sử dụng để tạo liên kết trong HTML. Thuộc tính href của thẻ &lt;a&gt; chỉ định địa chỉ URL của liên kết."
+    }
+  ]
+}

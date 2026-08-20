@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-trac-nghiem-su-roi-tu-do-lop-10-co-dap-an",
+  "sourceId": "vietjack:1-trac-nghiem-su-roi-tu-do-lop-10-co-dap",
+  "grade": "l10",
+  "subjectSlug": "li",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.Trắc nghiệm Sự rơi tự do lớp 10 (có đáp án)",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Chuyển động dưới đây được coi là sự rơi tự do nếu được thả rơi ?",
+      "options": [
+        "A. Một cái lá cây rụng.",
+        "B. Một sợi chỉ.",
+        "C. Một chiếc khăn tay.",
+        "D. Một mẩu phấn."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Trọng lượng của mẩu phấn lớn hơn nhiều so với sức cản của không khí tác dụng lên nó, do đó ta bỏ qua sức cản của không khí, coi như mẩu phấn chỉ rơi dưới tác dụng của trọng lực và coi sự rơi của mẩu phấn là rơi tự do."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Đặc điểm nào dưới đây không phải là đặc điểm của chuyển động rơi tự do của các vật?",
+      "options": [
+        "A. Chuyển động theo phương thẳng đứng, chiều từ trên xuống.",
+        "B. Chuyển động thẳng, nhanh dần đều.",
+        "C. Tại một nơi và ở gần mặt đất, mọi vật rơi tự do như nhau.",
+        "D. Lúc t = 0 thì vận tốc ban đầu theo phương ngang khác không."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Chuyển động rơi tự do có đặc điểm : Chuyển động theo phương thẳng đứng và có chiều từ trên xuống dưới. Chuyển động rơi tư do là chuyển động thẳng nhanh dần đều với vận tốc ban đầu theo phương ngang bằng 0. Ở cùng một nơi trên Trái Đất và ở gần mặt đất, các vật rơi tự do đều có cùng một gia tốc g, thường lấy \\[g = 9,8m/{s^2}\\] hoặc \\[g = 10m/{s^2}\\]"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Chuyển động của vật nào dưới đây có thể coi là chuyển động rơi tự do?",
+      "options": [
+        "A. Một vận động viên nhảy dù đã buông dù và đang rơi trong không trung.",
+        "B. Một quả táo rụng từ trên cây đang rơi xuống đất.",
+        "C. Một chiếc lá rụng đang rơi từ trên cây xuống đất.",
+        "D. Một chiếc thang máy đang chuyển động đi xuống."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B A- Sai vì: Khi đã buông dù, lực cản của không khí rất lớn tác dụng vào vận động viên. B- Đúng vì: lực cản của không khí tác dụng vào quả táo không đáng kể nên coi là rơi tự do. C- Sai vì: lực cản của không khí tác dụng vào chiếc lá đáng kể nên không thể coi là rơi tự do. D- Sai vì: Thang máy còn chịu thêm tác dụng của lực căng của dây treo nên không coi là rơi tự do."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Một vật rơi tự do không vận tốc ban đầu từ độ cao h xuống đất, tại nơi có gia tốc trọng trường g. Công thức tính độ lớn v của vật khi chạm đất là:",
+      "options": [
+        "A. \\(v = 2gh\\)",
+        "B. \\(v = \\sqrt {2gh} \\)",
+        "C. \\(v = \\sqrt {\\frac{{2h}}{g}} \\)",
+        "D. \\(v = \\sqrt {gh} \\)"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Áp dụng công thức tính vận tốc trong chuyển động thẳng biến đổi đều\\[v = {v_0} + a.t\\] với vận tốc ban đầu v 0 = 0 và a = g. Thời gian kể từ lúc bắt đầu rơi đến khi chạm đất là: \\[t = \\sqrt {\\frac{{2h}}{g}} \\] Thay vào biểu thức \\[v = {v_0} + a.t = g.\\sqrt {\\frac{{2h}}{g}} = \\sqrt {2gh} \\]"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Một vật rơi tự do không vận tốc ban đầu từ đỉnh tháp với gia tốc \\[g = 10m/{s^2}\\], sau 3s thì chạm đất. Chiều cao của tháp là?",
+      "options": [
+        "A. 35 m.",
+        "B. 40 m.",
+        "C. 45 m.",
+        "D. 50 m."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Áp dụng công thức tính quãng đường đi được trong rơi tự do \\[s = \\frac{1}{2}g{t^2}\\] \\[h = s = \\frac{1}{2}g{t^2} = 0,{5.10.3^2} = 45m\\]"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Một vật rơi tự do, trong 4 s cuối cùng rơi được 320 m. Tính thời gian rơi của vật. Lấy \\[g = 10m/{s^2}\\]",
+      "options": [
+        "A. 20 s.",
+        "B. 10 s.",
+        "C. 40 s.",
+        "D. không đủ dữ kiện để tính."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Gọi: Thời gian rơi cả quãng đường là t. - Quãng đường rơi trong khoảng thời gian t: \\[{\\rm{s}} = \\;\\frac{1}{2}g{t^2}\\] - Quãng đường vật rơi được trong khoảng thời gian (t – 4 ): \\[s' = \\frac{1}{2}g{\\left( {t - 4} \\right)^2}\\] Ta có: \\[h - \\;h' = 320\\]\\[ \\Rightarrow \\]\\[\\frac{1}{2}g{t^2} - \\frac{1}{2}g{\\left( {t - 4} \\right)^2} = 320\\] Suy ra t = 10 s."
+    }
+  ]
+}

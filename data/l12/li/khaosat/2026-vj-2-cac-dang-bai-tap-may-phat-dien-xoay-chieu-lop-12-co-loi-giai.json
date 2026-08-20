@@ -1,0 +1,104 @@
+{
+  "id": "2026-vj-2-cac-dang-bai-tap-may-phat-dien-xoay-chieu-lop-12-co-loi-giai",
+  "sourceId": "vietjack:2-cac-dang-bai-tap-may-phat-dien-xoay-ch",
+  "grade": "l12",
+  "subjectSlug": "li",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.Các dạng bài tập Máy phát điện xoay chiều lớp 12 (có lời giải)",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Giá trị cực đại của một dòng điện xoay chiều là 10 A, giá trị hiệu dụng của nó là",
+      "options": [
+        "A. 28 A.",
+        "B. 3,1 A.",
+        "C. 7,1 A.",
+        "D. 14 A."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là C \\[I = \\frac{{{I_0}}}{{\\sqrt 2 }} = \\frac{{10}}{{\\sqrt 2 }} = 7,07\\,A\\]"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Tốc độ toả nhiệt trên điện trở R có cường độ dòng điện hiệu dụng I được tính bằng công thức nào sau đây?",
+      "options": [
+        "A. 0,5.RI 2 .",
+        "B. RI 2 .",
+        "C. 2RI 2 .",
+        "D. 4RI 2 ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là B \\[P = {I^2}R\\]"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Đặt một điện áp xoay chiều có giá trị cực đại là 200 V vào hai đầu một điện trở 50 . Cường độ dòng điện hiệu dụng qua điện trở là",
+      "options": [
+        "A. 2,8 A.",
+        "B. 4,0 A.",
+        "C. 5,6 A.",
+        "D. 2,0 A."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là A \\[I = \\frac{U}{R} = \\frac{{\\frac{{{U_0}}}{{\\sqrt 2 }}}}{R} = \\frac{{\\frac{{200}}{{\\sqrt 2 }}}}{{50}} = 2,83\\,A\\]"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Một điện áp xoay chiều có giá trị cực đại là 200 V. Giá trị hiệu dụng của điện áp này là",
+      "options": [
+        "A. 282 V.",
+        "B. 200 V.",
+        "C. 141 V.",
+        "D. 100 V."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là C \\[U = \\frac{{{U_0}}}{{\\sqrt 2 }} = \\frac{{200}}{{\\sqrt 2 }} = 141,4\\,V\\]"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Điện áp hiệu dụng thông thường ở mạng điện gia đình là 220 V, điện áp cực đại là",
+      "options": [
+        "A. 440 V.",
+        "B. 311 V.",
+        "C. 156 V.",
+        "D. 110 V."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là B \\[{U_0} = U\\sqrt 2 = 220\\sqrt 2 = 311,1\\,V\\]"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 7: Dòng điện xoay chiều qua đoạn mạch chỉ có điện trở thuần 10 , có giá trị cực đại \\(0,1\\sqrt 2 \\) A, công suất toả nhiệt của đoạn mạch là",
+      "options": [
+        "A. 0,1 W.",
+        "B. 1,0 W.",
+        "C. 0,5 W.",
+        "D. 2 W."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là A \\[P = {I^2}R = \\frac{{I_0^2}}{2}R = \\frac{{{{\\left( {0,1\\sqrt 2 } \\right)}^2}}}{2}.10 = 0,1\\,W\\]"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 8: Một đoạn mạch điện xoay chiều chỉ có điện trở thuần với giá trị 200 . Đặt hiệu điện thế \\(u = 100\\sqrt 2 \\cos 100\\pi t(V)\\) vào hai đầu đoạn mạch trên thì",
+      "options": [
+        "A. dòng điện chạy trong mạch có giá trị hiệu dụng bằng \\(\\sqrt 2 \\) A.",
+        "B. dòng điện chạy trong mạch có tần số 100 Hz.",
+        "C. công suất toả nhiệt trên điện trở bằng 200 W.",
+        "D. dòng điện chạy trong mạch có giá trị hiệu dụng bằng 0,5 A."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là D \\[I = \\frac{{{I_0}}}{{\\sqrt 2 }} = \\frac{{{U_0}}}{{R\\sqrt 2 }} = \\frac{{100\\sqrt 2 }}{{200\\sqrt 2 }} = 0,5\\,A\\] \\[f = \\frac{\\omega }{{2\\pi }} = \\frac{{100\\pi }}{{2\\pi }} = 50\\,Hz\\] \\[P = {I^2}R = 0,{5^2}.200 = 50\\,W\\]"
+    }
+  ]
+}

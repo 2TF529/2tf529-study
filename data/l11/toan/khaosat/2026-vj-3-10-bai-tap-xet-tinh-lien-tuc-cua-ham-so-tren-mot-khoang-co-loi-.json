@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-3-10-bai-tap-xet-tinh-lien-tuc-cua-ham-so-tren-mot-khoang-co-loi-",
+  "sourceId": "vietjack:3-10-bai-tap-xet-tinh-lien-tuc-cua-ham-s",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.10 Bài tập Xét tính liên tục của hàm số trên một khoảng (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Hàm số f x = x 2 + 3 x + 5 x − 3 liên tục trên các khoảng",
+      "options": [
+        "A. − ∞ ; 3 ;",
+        "B. 3 ; + ∞ ;",
+        "C. A và B đều đúng;",
+        "D. A và B đều sai."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta thấy tập xác định của hàm số là − ∞ ; 3 ∪ 3 ; + ∞ . Vậy hàm số f(x) liên tục trên các khoảng − ∞ ; 3 và 3 ; + ∞ ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Hàm số f x = x 2 + 2 x + 3 x 2 − 4 x + 3 liên tục trên các khoảng",
+      "options": [
+        "A. − ∞ ; 3 ;",
+        "B. (1;3) ;",
+        "C. 3 ; + ∞ ;",
+        "D. Tất cả các đáp án đều đúng."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D f x = x 2 + 2 x + 3 x 2 − 4 x + 3 = x 2 + 2 x + 3 x − 3 x − 1 . Ta thấy tập xác định của hàm số là − ∞ ; 3 ∪ 1 ; 3 ∪ 3 ; + ∞ . Vậy hàm số f(x) liên tục trên các khoảng − ∞ ; 3 , (1; 3) và 3 ; + ∞ ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho hàm số f x = x 2 − 5 x + 6 2 x 3 − 16 khi x < 2 2 − x khi x ≥ 2 . Hàm số đã cho:",
+      "options": [
+        "A. Liên tục trên ℝ;",
+        "B. Liên tục tại mọi điểm;",
+        "C. Không liên tục trên 2 ; + ∞ ;",
+        "D. Gián đoạn tại điểm x = 2."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hàm số f x = 2 x + 3 x 2 − x − 6 . Khẳng định đúng là",
+      "options": [
+        "A. Hàm số liên tục trên ℝ;",
+        "B. Hàm số gián đoạn tại x = –2, x = 3 ;",
+        "C. Hàm số liên tục tại x = –2, x = 3 ;",
+        "D. Tất cả đều sai."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B f x = 2 x + 3 x 2 − x − 6 = 2 x + 3 x − 3 x + 2 . Ta thấy tập xác định của hàm số là − ∞ ; − 2 ∪ − 2 ; 3 ∪ 3 ; + ∞ . Vậy hàm số f(x) liên tục trên các khoảng − ∞ ; − 2 , ( –2 ;3) và 3 ; + ∞ , h àm số gián đoạn tại x = –2, x = 3."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hàm số f x = x 2 − 3 x − 3 , x ≠ 3 2 3 , x = 3 . Khẳng định đúng trong các khẳng định sau là",
+      "options": [
+        "A. f(x) gián đoạn tại x = 3 ;",
+        "B. f(x) liên tục tại x = 3 ;",
+        "C. f(x) không liên tục trên ℝ;",
+        "D. Tất cả đều sai."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong các hàm số sau, hàm số liên tục trên ℝ là",
+      "options": [
+        "A. f(x) = x 2 + 3;",
+        "B. f(x) = x + 3 ;",
+        "C. f(x) = 1 x + 3 ;",
+        "D. Không có hàm số nào liên tục trên ℝ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Chỉ có hàm số f(x) = x 2 + 3 liên tục trên ℝ. Hàm số f(x) = x + 3 gián đoạn khi x < –3, hàm số f(x) = 1 x + 3 gián đoạn tại x = –3."
+    }
+  ]
+}

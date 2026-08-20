@@ -1,0 +1,196 @@
+{
+  "id": "l12-toan-totnghiep-2026-de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-quang-ninh-nam-2026-lan-1",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "code": "THPT_TKT_2026_QN_02",
+  "title": "Đề khảo sát chất lượng THPT môn Toán Sở GD&ĐT Quảng Ninh năm 2026 - Lần 1",
+  "duration": 90,
+  "answerSource": "official",
+  "source": "https://dolthpt.vn/tot-nghiep-thpt/pdf-de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-quang-ninh-nam-2026-lan-1-co-dap-an",
+  "notes": "Nội dung, đáp án và lời giải được nhập từ bản công khai của DOL THPT.",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "content": "Nghiệm của phương trình $\\log_3(x+1)=2$ là",
+      "chuong": "hàm số mũ và hàm số lôgarit",
+      "dang": "phương trình lôgarit",
+      "type": "single",
+      "options": [
+        "A. $x=6$.",
+        "B. $x=5$.",
+        "C. $x=8$.",
+        "D. $x=10$."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Phương trình cần giải là $\\log_3(x+1)=2$.\n- Các đáp án cho sẵn là $x=6$, $x=5$, $x=8$, $x=10$.\n❓ **Hiểu câu hỏi:**\n- Đây là bài giải phương trình lôgarit.\n- Ta dùng quy tắc $\\log_a b=c \\Leftrightarrow b=a^c$.\n- Cần kiểm tra điều kiện xác định $x+1>0$.\n🔎 **Hướng dẫn cách làm:**\n- Điều kiện xác định là $x+1>0 \\Leftrightarrow x>-1$.\n- Từ $\\log_3(x+1)=2$ suy ra $x+1=3^2=9$.\n- Vậy $x=8$.\n- Giá trị này thỏa điều kiện nên nhận.\n✅ **Đáp án:** Chọn C. $x=8$"
+    },
+    {
+      "id": 2,
+      "content": "Cho hàm số $y=f(x)$ liên tục trên $\\mathbb{R}$ và có bảng xét dấu của $f'(x)$ như bảng. Số điểm cực đại của hàm số $y=f(x)$ là\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-quang-ninh-nam-2026-lan-1/cau-02.webp\" alt=\"Hình minh họa câu 2\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "cực trị của hàm số",
+      "type": "single",
+      "options": [
+        "A. \\$1$.",
+        "B. \\$2$.",
+        "C. \\$3$.",
+        "D. \\$4$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Bảng dấu của $f'(x)$ cho biết dấu của đạo hàm trên các khoảng.\n- Ta thấy $f'(x)$ đổi dấu tại $x=-1,0,1,2$.\n❓ **Hiểu câu hỏi:**\n- Cần đếm số điểm cực đại của hàm số $y=f(x)$.\n- Điểm cực đại xuất hiện khi $f'(x)$ đổi dấu từ $+$ sang $-$.\n🔎 **Hướng dẫn cách làm:**\n- Tại $x=-1$, đạo hàm đổi dấu từ $+$ sang $-$ nên hàm số có một điểm cực đại.\n- Tại $x=0$, đạo hàm đổi dấu từ $-$ sang $+$ nên đây là điểm cực tiểu.\n- Tại $x=1$, đạo hàm đổi dấu từ $+$ sang $-$ nên có thêm một điểm cực đại.\n- Tại $x=2$, đạo hàm không đổi dấu nên không phải cực trị.\n- Vậy hàm số có \\$2$ điểm cực đại.\n✅ **Đáp án:** Chọn B. \\$2$"
+    },
+    {
+      "id": 3,
+      "content": "Cho hình chóp tứ giác đều $S.ABCD$ có độ dài cạnh đáy là $\\sqrt{2}$ và tam giác $SAC$ đều. Độ dài cạnh bên của hình chóp đã cho bằng",
+      "chuong": "quan hệ vuông góc trong không gian",
+      "dang": "hình chóp đều và hình chóp cụt đều",
+      "type": "single",
+      "options": [
+        "A. \\$2$.",
+        "B. $\\sqrt{2}$.",
+        "C. \\$1$.",
+        "D. $\\sqrt{3}$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hình chóp tứ giác đều $S.ABCD$ có cạnh đáy bằng $\\sqrt{2}$.\n- Tam giác $SAC$ là tam giác đều.\n❓ **Hiểu câu hỏi:**\n- Cần tìm độ dài cạnh bên của hình chóp.\n- Vì tam giác $SAC$ đều nên $SA=SC=AC$.\n🔎 **Hướng dẫn cách làm:**\n- Đáy $ABCD$ là hình vuông cạnh $\\sqrt{2}$ nên đường chéo $AC$ bằng $\\sqrt{(\\sqrt{2})^2+(\\sqrt{2})^2}=\\sqrt{4}=2$.\n- Do tam giác $SAC$ đều nên $SA=AC=2$.\n- Cạnh bên của hình chóp là $SA$.\n✅ **Đáp án:** Chọn A. \\$2$"
+    },
+    {
+      "id": 4,
+      "content": "Trong không gian với hệ trục tọa độ $Oxyz$, mặt phẳng đi qua $M(1;2;-4)$ và vuông góc với trục $Oz$ có phương trình là",
+      "chuong": "phương pháp tọa độ trong không gian",
+      "dang": "lập phương trình tổng quát của mặt phẳng",
+      "type": "single",
+      "options": [
+        "A. $x+2y-4z-21=0$.",
+        "B. $z=-4$.",
+        "C. $z=4$.",
+        "D. $x+2y+4z-21=0$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Mặt phẳng đi qua điểm $M(1;2;-4)$.\n- Mặt phẳng vuông góc với trục $Oz$.\n❓ **Hiểu câu hỏi:**\n- Mặt phẳng vuông góc với trục $Oz$ sẽ có vectơ pháp tuyến cùng phương với $Oz$.\n- Vì vậy phương trình mặt phẳng có dạng $z=c$.\n🔎 **Hướng dẫn cách làm:**\n- Thay tọa độ điểm $M(1;2;-4)$ vào dạng $z=c$, ta được $c=-4$.\n- Vậy mặt phẳng cần tìm là $z=-4$.\n✅ **Đáp án:** Chọn B. $z=-4$"
+    },
+    {
+      "id": 5,
+      "content": "Cho hình lăng trụ đứng $ABC.A'B'C'$ có tất cả các cạnh bằng \\$1$. Góc tạo bởi đường thẳng $A'C$ và mặt phẳng $(ABC)$ bằng",
+      "chuong": "quan hệ vuông góc trong không gian",
+      "dang": "góc giữa đường thẳng và mặt phẳng",
+      "type": "single",
+      "options": [
+        "A. \\$45^\\circ$.",
+        "B. \\$90^\\circ$.",
+        "C. \\$60^\\circ$.",
+        "D. \\$30^\\circ$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Lăng trụ đứng $ABC.A'B'C'$ có tất cả các cạnh bằng \\$1$.\n- Cần tìm góc giữa đường thẳng $A'C$ và mặt phẳng $(ABC)$.\n❓ **Hiểu câu hỏi:**\n- Góc giữa một đường thẳng và một mặt phẳng bằng góc giữa đường thẳng đó với hình chiếu vuông góc của nó lên mặt phẳng.\n- Hình chiếu của $A'C$ lên $(ABC)$ là $AC$.\n🔎 **Hướng dẫn cách làm:**\n- Vì lăng trụ đứng và các cạnh đáy bằng \\$1$ nên tam giác $ABC$ đều cạnh \\$1$, do đó $AC=1$.\n- Ta có $AA'=1$ và $AA'\\perp (ABC)$ nên tam giác $A'AC$ vuông tại $A$.\n- Trong tam giác vuông $A'AC$, hai cạnh góc vuông là $AA'=AC=1$ nên tam giác vuông cân.\n- Vậy $\\widehat{(A'C,AC)}=45^\\circ$.\n- Đây chính là góc giữa $A'C$ và mặt phẳng $(ABC)$.\n✅ **Đáp án:** Chọn A. \\$45^\\circ$"
+    },
+    {
+      "id": 6,
+      "content": "Tập giá trị của hàm số $y=3\\cos 2x$ là",
+      "chuong": "hàm số lượng giác và phương trình lượng giác",
+      "dang": "đồ thị và tính chất của hàm số y=cosx",
+      "type": "single",
+      "options": [
+        "A. $T=[-6;6]$.",
+        "B. $T=[-3;3]$.",
+        "C. $T=\\mathbb{R}$.",
+        "D. $T=[-2;2]$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số đã cho là $y=3\\cos 2x$.\n❓ **Hiểu câu hỏi:**\n- Cần tìm tập giá trị của hàm số lượng giác.\n- Ta dùng tính chất $-1\\leq \\cos 2x\\leq 1$.\n🔎 **Hướng dẫn cách làm:**\n- Từ $-1\\leq \\cos 2x\\leq 1$.\n- Nhân cả ba vế với \\$3$, ta được $-3\\leq 3\\cos 2x\\leq 3$.\n- Vậy tập giá trị của hàm số là $[-3;3]$.\n✅ **Đáp án:** Chọn B. $T=[-3;3]$"
+    },
+    {
+      "id": 7,
+      "content": "Họ nguyên hàm của hàm số $f(x)=x-\\dfrac{1}{x^2}$ là",
+      "chuong": "nguyên hàm và tích phân",
+      "dang": "nguyên hàm của một hàm số",
+      "type": "single",
+      "options": [
+        "A. $\\dfrac{1}{2}x^2+\\dfrac{1}{x}-C$.",
+        "B. \\$1+\\dfrac{1}{x}+C$.",
+        "C. $x+\\dfrac{1}{x}+C$.",
+        "D. $\\dfrac{1}{2}x^2-\\dfrac{1}{x}+C$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số cần lấy nguyên hàm là $f(x)=x-\\dfrac{1}{x^2}$.\n❓ **Hiểu câu hỏi:**\n- Ta cần tính $\\int \\left(x-\\dfrac{1}{x^2}\\right)\\,dx$.\n- Dùng quy tắc nguyên hàm của lũy thừa.\n🔎 **Hướng dẫn cách làm:**\n- Viết $\\dfrac{1}{x^2}=x^{-2}$.\n- Khi đó $\\int \\left(x-\\dfrac{1}{x^2}\\right)\\,dx=\\int x\\,dx-\\int x^{-2}\\,dx$.\n- Ta có $\\int x\\,dx=\\dfrac{x^2}{2}$ và $\\int x^{-2}\\,dx=-x^{-1}=-\\dfrac{1}{x}$.\n- Vậy $\\int \\left(x-\\dfrac{1}{x^2}\\right)\\,dx=\\dfrac{x^2}{2}+\\dfrac{1}{x}+C$.\n✅ **Đáp án:** Chọn A. $\\dfrac{1}{2}x^2+\\dfrac{1}{x}+C$"
+    },
+    {
+      "id": 8,
+      "content": "Cho cấp số nhân $(u_n)$ với $u_1=2$ và $u_5=162$. Giá trị của công bội $q$ bằng",
+      "chuong": "dãy số. cấp số cộng và cấp số nhân",
+      "dang": "số hạng tổng quát của cấp số nhân",
+      "type": "single",
+      "options": [
+        "A. $q=\\dfrac{1}{3}$.",
+        "B. $q=\\pm 3$.",
+        "C. $q=3$.",
+        "D. $q=\\pm \\dfrac{1}{3}$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cấp số nhân $(u_n)$ có $u_1=2$.\n- $u_5=162$.\n❓ **Hiểu câu hỏi:**\n- Cần tìm công bội $q$.\n- Ta dùng công thức $u_n=u_1q^{n-1}$.\n🔎 **Hướng dẫn cách làm:**\n- Từ công thức cấp số nhân, ta có $u_5=u_1q^4$.\n- Thay số vào được \\$162=2q^4$ nên $q^4=81$.\n- Vì \\$81=3^4$ nên $q=\\pm 3$.\n✅ **Đáp án:** Chọn B. $q=\\pm 3$"
+    },
+    {
+      "id": 9,
+      "content": "Trong không gian với hệ trục tọa độ $Oxyz$, cho các điểm $A(1;1;2), B(3;2;-3)$. Phương trình mặt cầu $(S)$ có tâm $A$ và đi qua điểm $B$ là",
+      "chuong": "phương pháp tọa độ trong không gian",
+      "dang": "phương trình mặt cầu",
+      "type": "single",
+      "options": [
+        "A. $(x-1)^2+(y-1)^2+(z-2)^2=30$.",
+        "B. $(x+1)^2+(y+1)^2+(z+2)^2=30$.",
+        "C. $(x-1)^2+(y-1)^2+(z-2)^2=\\sqrt{30}$.",
+        "D. $(x+1)^2+(y+1)^2+(z+2)^2=\\sqrt{30}$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Mặt cầu có tâm $A(1;1;2)$ và đi qua $B(3;2;-3)$.\n❓ **Hiểu câu hỏi:**\n- Muốn viết phương trình mặt cầu, ta cần tâm và bán kính.\n- Bán kính ở đây là độ dài $AB$.\n🔎 **Hướng dẫn cách làm:**\n- Tính $AB^2=(3-1)^2+(2-1)^2+(-3-2)^2=4+1+25=30$.\n- Vậy $R^2=30$.\n- Phương trình mặt cầu tâm $A(1;1;2)$ là $\\left(x-1\\right)^2+\\left(y-1\\right)^2+\\left(z-2\\right)^2=30$.\n✅ **Đáp án:** Chọn A. $\\left(x-1\\right)^2+\\left(y-1\\right)^2+\\left(z-2\\right)^2=30$"
+    },
+    {
+      "id": 10,
+      "content": "Doanh thu bán hàng trong \\$20$ ngày của một cửa hàng được ghi lại ở bảng sau (đơn vị: triệu đồng).\nTứ phân vị thứ ba của mẫu số liệu trên gần nhất với giá trị nào trong các giá trị sau?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-quang-ninh-nam-2026-lan-1/cau-10.webp\" alt=\"Hình minh họa câu 10\" loading=\"lazy\"></figure>",
+      "chuong": "các số đặc trưng đo xu thế trung tâm của mẫu số liệu ghép nhóm",
+      "dang": "tứ phân vị của mẫu số liệu ghép nhóm",
+      "type": "single",
+      "options": [
+        "A. \\$13$.",
+        "B. \\$12$.",
+        "C. \\$11$.",
+        "D. \\$10$."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Bảng tần số ghép nhóm có các lớp $[5;7),[7;9),[9;11),[11;13),[13;15)$.\n- Tần số tương ứng là \\$2,7,7,3,1$ nên cỡ mẫu là \\$20$.\n❓ **Hiểu câu hỏi:**\n- Cần tìm tứ phân vị thứ ba $Q_3$ của mẫu ghép nhóm.\n- Với $n=20$, vị trí của $Q_3$ là $\\dfrac{3n}{4}=15$.\n🔎 **Hướng dẫn cách làm:**\n- Tần số tích lũy lần lượt là \\$2,9,16,19,20$.\n- Vị trí thứ \\$15$ nằm trong lớp $[9;11)$.\n- Dùng công thức nội suy cho dữ liệu ghép nhóm: $Q_3=9+\\dfrac{15-9}{7}\\cdot 2$.\n- Suy ra $Q_3=9+\\dfrac{12}{7}\\approx 10{,}71$.\n- Giá trị gần nhất trong các đáp án là \\$11$.\n✅ **Đáp án:** Chọn C. \\$11$"
+    },
+    {
+      "id": 11,
+      "content": "Trong không gian với hệ trục tọa độ $Oxyz$, một vật thể nằm giữa hai mặt phẳng $x=a; x=b$ với $a<b$, thiết diện của vật thể bị cắt bởi mặt phẳng vuông góc với trục $Ox$ tại điểm có hoành độ $x\\left(a\\leq x\\leq b\\right)$ là một hình phẳng có diện tích bằng $S(x)$, $S(x)$ là một hàm liên tục trên $[a;b]$. Thể tích vật thể được tính bằng công thức",
+      "chuong": "nguyên hàm và tích phân",
+      "dang": "ứng dụng tích phân để tính thể tích vật thể",
+      "type": "single",
+      "options": [
+        "A. $\\pi\\int_a^b S(x)\\,dx$.",
+        "B. $\\pi\\int_a^b (S(x))^2\\,dx$.",
+        "C. $\\int_a^b (S(x))^2\\,dx$.",
+        "D. $\\int_a^b S(x)\\,dx$."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Thiết diện vuông góc với trục $Ox$ tại hoành độ $x$ có diện tích $S(x)$.\n- Vật thể nằm giữa hai mặt phẳng $x=a$ và $x=b$.\n❓ **Hiểu câu hỏi:**\n- Đây là bài tính thể tích bằng phương pháp cắt lớp.\n- Thể tích bằng tích phân của diện tích các thiết diện.\n🔎 **Hướng dẫn cách làm:**\n- Một lát cắt rất mỏng tại vị trí $x$ có thể tích gần đúng là $S(x)\\,dx$.\n- Cộng tất cả các lát cắt từ $a$ đến $b$, ta được $V=\\int_a^b S(x)\\,dx$.\n- Vì đề bài đã cho trực tiếp diện tích thiết diện nên không cần thêm $\\pi$.\n✅ **Đáp án:** Chọn D. $\\int_a^b S(x)\\,dx$"
+    },
+    {
+      "id": 12,
+      "content": "Cho tứ diện $ABCD$. Gọi $M,N$ lần lượt là trung điểm của $AD$ và $BC$. Tổng $\\overrightarrow{AB}+\\overrightarrow{DC}$ bằng",
+      "chuong": "vectơ và hệ trục tọa độ trong không gian",
+      "dang": "tổng và hiệu của hai vectơ trong không gian",
+      "type": "single",
+      "options": [
+        "A. $\\overrightarrow{0}$.",
+        "B. \\$2\\overrightarrow{NM}$.",
+        "C. \\$2\\overrightarrow{AD}$.",
+        "D. \\$2\\overrightarrow{MN}$."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- $M,N$ lần lượt là trung điểm của $AD$ và $BC$.\n- Cần tính $\\overrightarrow{AB}+\\overrightarrow{DC}$.\n❓ **Hiểu câu hỏi:**\n- Ta biến đổi các vectơ theo vectơ vị trí.\n- Mục tiêu là đưa biểu thức về vectơ $\\overrightarrow{MN}$.\n🔎 **Hướng dẫn cách làm:**\n- Ta có $\\overrightarrow{AB}=\\overrightarrow{OB}-\\overrightarrow{OA}$ và $\\overrightarrow{DC}=\\overrightarrow{OC}-\\overrightarrow{OD}$.\n- Vì thế $\\overrightarrow{AB}+\\overrightarrow{DC}=\\overrightarrow{OB}+\\overrightarrow{OC}-\\overrightarrow{OA}-\\overrightarrow{OD}$.\n- Do $M,N$ là trung điểm nên $\\overrightarrow{OM}=\\dfrac{\\overrightarrow{OA}+\\overrightarrow{OD}}{2}$ và $\\overrightarrow{ON}=\\dfrac{\\overrightarrow{OB}+\\overrightarrow{OC}}{2}$.\n- Suy ra \\$2\\overrightarrow{MN}=2\\left(\\overrightarrow{ON}-\\overrightarrow{OM}\\right)=\\overrightarrow{OB}+\\overrightarrow{OC}-\\overrightarrow{OA}-\\overrightarrow{OD}$.\n- Vậy $\\overrightarrow{AB}+\\overrightarrow{DC}=2\\overrightarrow{MN}$.\n✅ **Đáp án:** Chọn D. \\$2\\overrightarrow{MN}$"
+    }
+  ]
+}

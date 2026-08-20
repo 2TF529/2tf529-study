@@ -1,0 +1,116 @@
+{
+  "id": "2026-vj-5-20-cau-trac-nghiem-toan-11-chan-troi-sang-tao-day-so-co-dap-an",
+  "sourceId": "vietjack:5-20-cau-trac-nghiem-toan-11-chan-troi-s",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "5.20 câu trắc nghiệm Toán 11 Chân trời sáng tạo Dãy số có đáp án",
+  "duration": 90,
+  "answerSource": "partial",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho dãy số (u n ) được xác định như sau: \\[{{\\rm{u}}_{\\rm{1}}}{\\rm{ = 1}}\\] và \\[{{\\rm{u}}_{{\\rm{n + 1}}}}{\\rm{ = 3}} - {{\\rm{u}}_{\\rm{n}}}\\] với \\[{\\rm{n}} \\ge 1.\\]. Số hạng u 2 bằng",
+      "options": [
+        "A. – 1",
+        "B. 1",
+        "C. 2",
+        "D. – 2"
+      ],
+      "answer": "C",
+      "note": "\\[{{\\rm{u}}_{\\rm{2}}}{\\rm{ = 3}} - {{\\rm{u}}_{\\rm{1}}}{\\rm{ = 3}} - {\\rm{1 = 2}}\\] Đáp án cần chọn là: C"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Mệnh đề nào sau đây sai ?",
+      "options": [
+        "A. Dãy số tăng là dãy số bị chặn dưới.",
+        "B. Không phải mọi dãy số đều tăng hoặc giảm.",
+        "C. Dãy số giảm là dãy số bị chặn trên.",
+        "D. Dãy số bị chặn là dãy số không tăng, cũng không giảm."
+      ],
+      "answer": "D",
+      "note": "Với dãy số (u n ) ta có: Xét đáp án A. Nếu (u n ) là dãy số tăng thì ta có \\[{{\\rm{u}}_{\\rm{n}}} \\le {{\\rm{u}}_{\\rm{1}}},\\forall {\\rm{n}} \\in {\\mathbb{N}^ * }\\]. Vậy dãy số bị chặn dưới. Vậy A đúng. Xét đáp án B. Xét dãy số (u n ) có \\[{{\\rm{u}}_{\\rm{n}}}{\\rm{ = }}{\\left( { - {\\rm{1}}} \\right)^{\\rm{n}}}\\]. Ta có: \\[{{\\rm{u}}_{{\\rm{1 }}}}{\\rm{ = }}{\\left( { - {\\rm{1}}} \\right)^{\\rm{1}}}{\\rm{ = }} - {\\rm{1; }}{{\\rm{u}}_{\\rm{2}}}{\\rm{ = }}{\\left( { - {\\rm{1}}} \\right)^{\\rm{2}}}{\\rm{ = 1; }}{{\\rm{u}}_{\\rm{3}}}{\\rm{ = }}{\\left( { - {\\rm{1}}} \\right)^{\\rm{3}}}{\\rm{ = }} - {\\rm{1}}\\] Do đó dãy số không tăng không giảm. Vậy B đúng. Xét đáp án C. Nếu (u n ) là dãy số giảm thì ta có \\[{{\\rm{u}}_{\\rm{n}}} \\le {{\\rm{u}}_{\\rm{1}}},\\forall {\\rm{n}} \\in {\\mathbb{N}^ * }\\] Vậy dãy số bị chặn trên. Vậy C đúng. Xét đáp án D. Xét dãy số (u n ) có \\[{{\\rm{u}}_{{\\rm{n }}}}{\\rm{ = }}\\frac{{\\rm{1}}}{{{\\rm{n + 1}}}}\\] là dãy số tăng, bị chặn trên bởi 1 và bị chặn dưới bởi 0. Đáp án cần chọn là: D"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho dãy số (u n ) . Khẳng định nào sau đây đúng ?",
+      "options": [
+        "A. Nếu tồn tại số M > 0 sao cho \\[\\left| {{{\\rm{u}}_{\\rm{n}}}} \\right| \\le {\\rm{M, }}\\forall {\\rm{n}} \\in {\\mathbb{N}^ * }\\] thì (u n ) là dãy số bị chặn.",
+        "B. Nếu tồn tại cặp số M, m và tồn tại giá trị n sao cho \\[m \\le {u_n} \\le M\\] thì (u n ) là dãy số bị chặn.",
+        "C. Nếu tồn tại số m sao cho \\[{{\\rm{u}}_{\\rm{n}}} \\ge {\\rm{m}},\\forall {\\rm{n}} \\in {\\mathbb{N}^ * }\\] thì (u n ) là dãy số bị chặn.",
+        "D. Nếu tồn tại số M sao cho \\[{{\\rm{u}}_{\\rm{n}}} \\le {\\rm{M}},\\forall {\\rm{n}} \\in {\\mathbb{N}^ * }\\] thì (u n ) là dãy số bị chặn."
+      ],
+      "answer": "A",
+      "note": "Nếu tồn tại số M > 0 sao cho \\[\\left| {{{\\rm{u}}_{\\rm{n}}}} \\right| \\le {\\rm{M, }}\\forall {\\rm{n}} \\in {\\mathbb{N}^ * }\\left| {{u_n}} \\right| \\le M,\\forall n \\in {\\mathbb{N}^ * } \\Leftrightarrow - {\\rm{M}} \\le {{\\rm{u}}_{\\rm{n}}} \\le {\\rm{M}},\\forall {\\rm{n}} \\in {\\mathbb{N}^ * }\\] Vậy (u n ) là dãy số bị chặn. Đáp án cần chọn là: A"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho dãy số (u n ) xác định bởi công thức\\[{{\\rm{u}}_{\\rm{n}}}{\\rm{ = }}\\frac{{\\rm{n}}}{{{\\rm{n + 1}}}}\\] với \\[{\\rm{n}} \\ge 1\\]. Số hạng thứ 10 của dãy số là:",
+      "options": [
+        "A. \\[\\frac{9}{{10}}\\]",
+        "B. \\[\\frac{{10}}{{11}}\\]",
+        "C. \\[\\frac{{11}}{{10}}\\]",
+        "D. \\[\\frac{{10}}{9}\\]"
+      ],
+      "answer": "B",
+      "note": "\\[{{\\rm{u}}_{{\\rm{10}}}}{\\rm{ = }}\\frac{{{\\rm{10}}}}{{{\\rm{10 + 1}}}}{\\rm{ = }}\\frac{{{\\rm{10}}}}{{{\\rm{11}}}}\\] Đáp án cần chọn là: B"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho dãy số (u n ) xác định bởi công thức\\(\\left\\{ {\\begin{array}{*{20}{c}}{{{\\rm{u}}_{{\\rm{1 }}}}{\\rm{ = 1}}}\\\\{{{\\rm{u}}_{{\\rm{n + 1}}}}{\\rm{ = 10}}{{\\rm{u}}_{\\rm{n}}} - {\\rm{9n}}}\\end{array}} \\right.\\)với \\[{\\rm{n}} \\ge 1\\]. Ba số hạng đầu của dãy số là:",
+      "options": [
+        "A. 1; −8; −107.",
+        "B. 1; 1; −8.",
+        "C. 1; 1; 8 .",
+        "D. 1; 8; 107."
+      ],
+      "answer": "B",
+      "note": "\\[{{\\rm{u}}_{\\rm{1}}}{\\rm{ = 1; }}{{\\rm{u}}_{\\rm{2}}}{\\rm{ = 10}}{{\\rm{u}}_{\\rm{1}}} - {\\rm{9}}{\\rm{.1 = 10}}{\\rm{.1}} - {\\rm{9}}{\\rm{.1 = 1; }}{{\\rm{u}}_{\\rm{3}}}{\\rm{ = 10}}{{\\rm{u}}_{\\rm{2}}} - {\\rm{9}}{\\rm{.2 = 10}}{\\rm{.1}} - {\\rm{9}}{\\rm{.2 = }} - {\\rm{8}}\\] Đáp án cần chọn là: B"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho tổng \\[{{\\rm{S}}_{{\\rm{n }}}}{\\rm{ = }}\\frac{{\\rm{1}}}{{{\\rm{1}}{\\rm{.2}}}}{\\rm{ + }}\\frac{{\\rm{1}}}{{{\\rm{2}}{\\rm{.3}}}}{\\rm{ + }}\\frac{{\\rm{1}}}{{{\\rm{3}}{\\rm{.4}}}}{\\rm{ + }}...{\\rm{ + }}\\frac{{\\rm{1}}}{{{\\rm{n}}{\\rm{.}}\\left( {{\\rm{n + 1}}} \\right)}}\\]với\\[{\\rm{n}} \\in {\\mathbb{N}^ * }\\].Lựa chọn đáp án đúng.A. \\[{{\\rm{S}}_{{\\rm{2 }}}}{\\rm{ = }}\\frac{{\\rm{2}}}{{\\rm{3}}}\\]",
+      "options": [
+        "A. \\[{{\\rm{S}}_{{\\rm{2 }}}}{\\rm{ = }}\\frac{{\\rm{1}}}{{\\rm{6}}}\\]",
+        "B. \\[{{\\rm{S}}_{{\\rm{3 }}}}{\\rm{ = }}\\frac{{\\rm{1}}}{{\\rm{4}}}\\]",
+        "C. \\[{{\\rm{S}}_{{\\rm{3 }}}}{\\rm{ = }}\\frac{{\\rm{1}}}{{{\\rm{12}}}}\\]"
+      ],
+      "answer": null,
+      "note": "\\[{{\\rm{S}}_{{\\rm{2 }}}}{\\rm{ = }}\\frac{{\\rm{1}}}{{{\\rm{1}}{\\rm{.2}}}}{\\rm{ + }}\\frac{{\\rm{1}}}{{{\\rm{2}}{\\rm{.3}}}}{\\rm{ = }}\\frac{{\\rm{2}}}{{\\rm{3}}}{\\rm{; }}{{\\rm{S}}_{{\\rm{3 }}}}{\\rm{ = }}\\frac{{\\rm{1}}}{{{\\rm{1}}{\\rm{.2}}}}{\\rm{ + }}\\frac{{\\rm{1}}}{{{\\rm{2}}{\\rm{.3}}}}{\\rm{ + }}\\frac{{\\rm{1}}}{{{\\rm{3}}{\\rm{.4}}}}{\\rm{ = }}\\frac{{\\rm{3}}}{{\\rm{4}}}\\] Đáp án cần chọn là: A"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Cho dãy số (u n ) xác định bởi công thức \\[{{\\rm{u}}_{{\\rm{n }}}}{\\rm{ = }}\\frac{{{\\rm{n}} - {\\rm{1}}}}{{{\\rm{2n + 1}}}}\\]. Dãy số (u n ) là:",
+      "options": [
+        "A. Dãy số tăng.",
+        "B. Dãy số giảm.",
+        "C. Dãy số không tăng không giảm.",
+        "D. Dãy số vừa tăng vừa giảm."
+      ],
+      "answer": "A",
+      "note": "Ta có:\\[{{\\rm{u}}_{{\\rm{n + 1}}}}{\\rm{ = }}\\frac{{\\left( {{\\rm{n + 1}}} \\right) - {\\rm{1}}}}{{{\\rm{2}}\\left( {{\\rm{n + 1}}} \\right){\\rm{ + 1}}}}{\\rm{ = }}\\frac{{{\\rm{n + 1}} - {\\rm{1}}}}{{{\\rm{2n + 2 + 1}}}}{\\rm{ = }}\\frac{{\\rm{n}}}{{{\\rm{2n + 3}}}}\\] Xét hiệu: \\[{{\\rm{u}}_{{\\rm{n + 1}}}} - {{\\rm{u}}_{\\rm{n}}}{\\rm{ = }}\\frac{{\\rm{n}}}{{{\\rm{2n + 3}}}} - \\frac{{{\\rm{n}} - {\\rm{1}}}}{{{\\rm{2n + 1}}}}{\\rm{ = }}\\frac{{{\\rm{n}}\\left( {{\\rm{2n + 1}}} \\right) - \\left( {{\\rm{n}} - {\\rm{1}}} \\right)\\left( {{\\rm{2n + 3}}} \\right)}}{{\\left( {{\\rm{2n + 3}}} \\right)\\left( {{\\rm{2n + 1}}} \\right)}}\\] \\[{\\rm{ = }}\\frac{{\\left( {{\\rm{2}}{{\\rm{n}}^{\\rm{2}}}{\\rm{ + n}}} \\right) - \\left( {{\\rm{2}}{{\\rm{n}}^{\\rm{2}}} - {\\rm{2n + 3n}} - {\\rm{3}}} \\right)}}{{\\left( {{\\rm{2n + 3}}} \\right)\\left( {{\\rm{2n + 1}}} \\right)}}\\] \\[{\\rm{ = }}\\frac{{{\\rm{2}}{{\\rm{n}}^{\\rm{2}}}{\\rm{ + n}} - {\\rm{2}}{{\\rm{n}}^{\\rm{2}}}{\\rm{ + 2n}} - {\\rm{3n + 3}}}}{{\\left( {{\\rm{2n + 3}}} \\right)\\left( {{\\rm{2n + 1}}} \\right)}}{\\rm{ = }}\\frac{{\\rm{3}}}{{\\left( {{\\rm{2n + 3}}} \\right)\\left( {{\\rm{2n + 1}}} \\right)}}{\\rm{ > 0,}}\\forall {\\rm{n}} \\in {\\mathbb{N}^ * }\\] Vậy \\[{{\\rm{u}}_{{\\rm{n + 1}}}} - {{\\rm{u}}_{\\rm{n}}}{\\rm{ > 0}} \\Leftrightarrow {{\\rm{u}}_{{\\rm{n + 1 }}}}{\\rm{ > }}{{\\rm{u}}_{\\rm{n}}}\\]. Vậy dãy số (u n ) là dãy số tăng. Đáp án cần chọn là: A:"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Dãy số nào trong các dãy số sau là dãy số bị chặn?",
+      "options": [
+        "A. \\[{{\\rm{u}}_{\\rm{n}}}{\\rm{ = }}{\\left( { - {\\rm{1}}} \\right)^{\\rm{n}}}\\left( {{{\\rm{2}}^{\\rm{n}}}{\\rm{ + 1}}} \\right)\\]",
+        "B. \\[{{\\rm{u}}_{\\rm{n}}}{\\rm{ = }}\\frac{{{\\rm{2n}} - {\\rm{1}}}}{{{\\rm{n + 1}}}}\\]",
+        "C. \\[{{\\rm{u}}_{\\rm{n}}}{\\rm{ = }}{{\\rm{n}}^{\\rm{2}}} - {\\rm{4n + 3}}\\]",
+        "D. \\[{{\\rm{u}}_{\\rm{n}}}{\\rm{ = }}{{\\rm{n}}^{\\rm{3}}}{\\rm{ + }}\\sqrt {\\rm{n}} {\\rm{ + 1}}\\]"
+      ],
+      "answer": "B",
+      "note": "Với\\[{{\\rm{u}}_{\\rm{n}}}{\\rm{ = }}\\frac{{{\\rm{2n}} - {\\rm{1}}}}{{{\\rm{n + 1}}}}{\\rm{ = }}\\frac{{{\\rm{2}}\\left( {{\\rm{n + 1}}} \\right) - {\\rm{3}}}}{{{\\rm{n + 1}}}}{\\rm{ = 2}} - \\frac{{\\rm{3}}}{{{\\rm{n + 1}}}}\\] \\[\\forall {\\rm{n}} \\in {\\mathbb{N}^ * }\\]ta có: \\[{\\rm{n + 1 > 0}} \\Leftrightarrow \\frac{{\\rm{3}}}{{{\\rm{n + 1}}}}{\\rm{ > 0}} \\Leftrightarrow {\\rm{2}} - \\frac{{\\rm{3}}}{{{\\rm{n + 1}}}}{\\rm{ < 2}} \\Leftrightarrow {{\\rm{u}}_{{\\rm{n }}}}{\\rm{ < 2}}\\]. Vậy (u n ) bị chặn trên. \\[{\\rm{n}} \\ge 1 \\Leftrightarrow {\\rm{n + 1}} \\ge 1 + 1 \\Leftrightarrow {\\rm{n + 1}} \\ge 2 \\Leftrightarrow \\frac{{\\rm{3}}}{{{\\rm{n + 1}}}} \\le \\frac{3}{2} \\Leftrightarrow {\\rm{2}} - \\frac{{\\rm{3}}}{{{\\rm{n + 1}}}} \\ge {\\rm{2}} - \\frac{{\\rm{3}}}{{\\rm{2}}} \\Leftrightarrow {{\\rm{u}}_{\\rm{n}}} \\ge \\frac{1}{2}\\] Vậy (u n ) bị chặn dưới. Ta thấy dãy số (u n ) bị chặn trên và bị chặn dưới nên dãy số (u n ) bị chặn. Đáp án cần chọn là: B"
+    }
+  ]
+}

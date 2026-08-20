@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-2-de-cuong-on-tap-cuoi-ki-2-toan-10-canh-dieu-cau-truc-moi-co-dap",
+  "sourceId": "vietjack:2-de-cuong-on-tap-cuoi-ki-2-toan-10-canh",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "cuoiki2",
+  "year": 2026,
+  "title": "2.Đề cương ôn tập cuối kì 2 Toán 10 Cánh diều cấu trúc mới có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Trên bàn có \\[8\\] cây bút chì khác nhau, \\[6\\] cây bút bi khác nhau và \\[10\\] cuốn tập khác nhau. Một học sinh muốn chọn một đồ vật duy nhất hoặc một cây bút chì hoặc một cây bút bi hoặc một cuốn tập thì số cách chọn khác nhau là:",
+      "options": [
+        "A. \\[480.\\]",
+        "B. \\[24.\\]",
+        "C. \\[48.\\]",
+        "D. \\[60.\\]"
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải Đáp án đúng là: B \\( \\bullet \\) Nếu chọn một cây bút chì thì sẽ có \\[8\\] cách. \\( \\bullet \\) Nếu chọn một cây bút bi thì sẽ có \\[6\\] cách. \\( \\bullet \\) Nếu chọn một cuốn tập thì sẽ có \\[10\\] cách. Theo qui tắc cộng, ta có \\[8 + 6 + 10 = 24\\] cách chọn."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Một người có 4 cái quần, 6 cái áo, 3 chiếc cà vạt. Để chọn mỗi thứ một món thì có bao nhiêu cách chọn bộ \\(''\\) quần-áo-cà vạt \\(''\\) khác nhau?",
+      "options": [
+        "A. 13.",
+        "B. 72.",
+        "C. 12.",
+        "D. 30."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải Đáp án đúng là: B Để chọn một bộ \\(''\\) quần-áo-cà vạt \\(''\\) , ta có: \\( \\bullet \\) Có 4 cách chọn quần. \\( \\bullet \\) Có 6 cách chọn áo. \\( \\bullet \\) Có 3 cách chọn cà vạt. Vậy theo qui tắc nhân ta có \\(4 \\times 6 \\times 3 = 72\\) cách."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Số các số tự nhiên chẵn, gồm bốn chữ số khác nhau đôi một và không tận cùng bằng 0 là :",
+      "options": [
+        "A. 504.",
+        "B. 1792.",
+        "C. 953088.",
+        "D. 2296."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải Đáp án đúng là: B Gọi số cần tìm là \\(\\overline {abcd} \\) Có 4 cách chọn \\(d\\) , 8 cách chọn \\(a\\) , 8 cách chọn \\(b\\) và 7 cách chọn \\(c\\) . Vậy có tất cả : \\(4.8.8.7 = 1792\\) ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Từ các chữ số \\[0,{\\rm{ }}1,{\\rm{ }}2,{\\rm{ }}3,{\\rm{ }}4,{\\rm{ }}5\\] có thể lập được bao nhiêu số chẵn gồm \\[4\\] chữ số khác nhau?",
+      "options": [
+        "A. \\[156.\\]",
+        "B. \\[144.\\]",
+        "C. \\[96.\\]",
+        "D. \\[134.\\]"
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A Gọi số cần tìm có dạng \\[\\overline {abcd} \\] với \\[\\left( {a,b,c,d} \\right) \\in A = \\left\\{ {0,1,2,3,4,5} \\right\\}.\\] Vì \\[\\overline {abcd} \\] là số chẵn \\[ \\Rightarrow \\,\\,d = \\left\\{ {0,2,4} \\right\\}.\\] TH1. Nếu \\[d = 0,\\] số cần tìm là \\[\\overline {abc0} .\\] Khi đó: \\( \\bullet \\) \\[a\\] được chọn từ tập \\[A{\\rm{\\backslash }}\\left\\{ 0 \\right\\}\\] nên có \\[5\\] cách chọn. \\( \\bullet \\) \\[b\\] được chọn từ tập \\[A{\\rm{\\backslash }}\\left\\{ {0,\\,\\,a} \\right\\}\\] nên có \\[4\\] cách chọn. \\( \\bullet \\) \\[c\\] được chọn từ tập \\[A{\\rm{\\backslash }}\\left\\{ {0,\\,\\,a,\\,\\,b} \\right\\}\\] nên có \\[3\\] cách chọn. Như vậy, ta có \\[5 \\times 4 \\times 3 = 60\\] số có dạng \\[\\overline {abc0} .\\] TH2. Nếu \\[d = \\left\\{ {2,4} \\right\\} \\Rightarrow \\,\\,d:\\] có \\[2\\] cách chọn. Khi đó \\[a:\\] có \\[4\\] cách chọn, \\[b:\\] có \\[4\\] cách chọn và \\[c:\\] có \\[3\\] cách chọn. Như vậy, ta có \\[2 \\times 4 \\times 4 \\times 3 = 96\\] số cần tìm như trên. Vậy có tất cả \\[60 + 96 = 156\\] số cần tìm."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Từ các chữ số 1,2,3,4,5,6 có thể lập được bao nhiêu chữ số tự nhiên bé hơn 100?",
+      "options": [
+        "A. 36.",
+        "B. 62.",
+        "C. 54.",
+        "D. 42."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải Đáp án đúng là: D Các số bé hơn 100 chính là các số có một chữ số và hai chữ số được hình thành từ tập Từ tập \\(A\\) có thể lập được 6 số có một chữ số. Gọi số có hai chữ số có dạng \\(\\overline {ab} \\) với \\(a,b \\in A\\) Trong đó: \\(a\\) được chọn từ tập \\(A\\) nên có 6 cách chọn. \\(b\\) được chọn từ tập \\(A\\) nên có \\(6\\) cách chọn. Như vậy, ta có \\(6.6 = 36\\) số có hai chữ số. Vậy, từ \\(A\\) có thể lập được \\(36 + 6 = 42\\) số tự nhiên bé hơn 100."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Từ các chữ số \\[1\\] ; \\[2\\] ; \\[3\\] ; \\[4\\] có thể lập được bao nhiêu số tự nhiên có \\[4\\] chữ số đôi một khác nhau?",
+      "options": [
+        "A. \\(12\\) .",
+        "B. \\(24\\) .",
+        "C. \\(42\\) .",
+        "D. \\({4^4}\\) ."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải Đáp án đúng là: B Mỗi số tự nhiên có \\[4\\] chữ số đôi một khác nhau được tạo thành từ các chữ số \\[1\\] ; \\[2\\] ; \\[3\\] ; \\[4\\] là một hoán vị của \\[4\\] phần tử. Vậy số các số cần tìm là: \\[4! = 24\\] số."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Có bao nhiêu số tự nhiên có \\[5\\] chữ số, các chữ số khác \\[0\\] và đôi một khác nhau?",
+      "options": [
+        "A. \\(5!\\) .",
+        "B. \\({9^5}\\) .",
+        "C. \\(C_9^5\\) .",
+        "D. \\(A_9^5\\) ."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải Đáp án đúng là: D Mỗi số tự nhiên có \\[5\\] chữ số, các chữ số khác \\[0\\] và đôi một khác nhau là một chỉnh hợp chập \\[5\\] của \\[9\\] phần tử. Vậy số các số tự nhiên thỏa đề bài là \\(A_9^5\\) số."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Có bao nhiêu cách chọn \\(5\\) cầu thủ từ \\(11\\) cầu thủ trong một đội bóng để thực hiện đá \\(5\\) quả luân lưu \\(11{\\rm{ m}}\\) theo thứ tự quả thứ nhất đến quả thứ năm.",
+      "options": [
+        "A. \\(A_{11}^5\\) .",
+        "B. \\(C_{11}^5\\) .",
+        "C. \\(A_{11}^2.5!\\) .",
+        "D. \\(C_{10}^5\\) ."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A Số cách chọn \\(5\\) cầu thủ từ \\(11\\) cầu thủ trong một đội bóng để thực hiện đá \\(5\\) quả luân lưu \\(11{\\rm{ m}}\\) , theo thứ tự quả thứ nhất đến quả thứ năm là số chỉnh hợp chập \\(5\\) của \\(11\\) phần tử nên số cách chọn là \\(A_{11}^5\\) ."
+    }
+  ]
+}

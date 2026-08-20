@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-3-10-bai-tap-bai-toan-thuc-tien-lien-quan-den-ham-so-luong-giac-c",
+  "sourceId": "vietjack:3-10-bai-tap-bai-toan-thuc-tien-lien-qua",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.10 Bài tập Bài toán thực tiễn liên quan đến hàm số lượng giác (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Hằng ngày, mực nước của con kênh lên xuống theo thủy triều. Độ sâu h (mét) của mực nước trong kênh được tính tại thời điểm t (giờ) trong một ngày bởi công thức h t = 3 cos π t 8 + π 4 + 12 . Mực nước của con kênh cao nhất khi",
+      "options": [
+        "A. t = 13 (giờ);",
+        "B. t = 14 (giờ);",
+        "C. t = 15 (giờ);",
+        "D. t = 16 (giờ)."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải: Đáp án đúng là: B Mực nước của con kênh cao nhất khi h đạt giá trị lớn nhất ⇔ cos π t 8 + π 4 = 1 ⇔ π t 8 + π 4 = k 2 π k ∈ ℤ ⇔ t = 16 k − 2 k ∈ ℤ (1). Mặt khác 0 ≤ t ≤ 24, kết hợp với (1) ta được: 1 8 ≤ k ≤ 13 8 , k ∈ ℤ . Do đó k = 1. Với k = 1 thì t = 14 (giờ). Vậy mực nước của con kênh cao nhất khi t = 14 giờ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Một cây cầu có dạng cung OA là một phần của đồ thị hàm số y = 4 , 8 sin x 9 và được mô tả trong hệ trục tọa độ với đơn vị trục là mét như hình dưới. Giả sử chiều rộng của con sông là độ dài đoạn thẳng OA. Chiều rộng đó (làm tròn đến kết quả hàng phần mười) là",
+      "options": [
+        "A. 28,3 m;",
+        "B. 14,1 m;",
+        "C. 18,3 m;",
+        "D. 24,1 m."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A Hai vị trí O và A là hai vị trí chân cầu, tại hai vị trí này thì y = 0. Ta có y = 0 ⇔ 4 , 8 sin x 9 = 0 ⇔ sin x 9 = 0 ⇔ x 9 = k π (k ∈ ℤ). Suy ra x = 9kπ, k ∈ ℤ. Quan sát đồ thị ta thấy, đồ thị hàm số y = 4 , 8 sin x 9 cắt trục hoành tại điểm O và A liên tiếp nhau với x ≥ 0. Xét k = 0, ta có x 1 = 0; Xét k = 1, ta có x 2 = 9π. Mà x 1 = 0 nên đây là hoành độ của O, do đó x 2 = 9π là hoành độ của điểm A. Khi đó OA = 9π ≈ 28,3. Vậy chiều rộng của con sông xấp xỉ 28,3 m."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trong Địa lí, phép chiếu hình trụ được sử dụng để vẽ một bản đồ phẳng như trong hình vẽ. Trên bản đồ phẳng lấy đường xích đạo làm trục hoành và kinh tuyến 0° làm trục tung. Khi đó tung độ của một điểm có vĩ độ φ° (–90 < φ < 90) được cho bởi hàm số y = 20 tan π 180 φ (cm). Sử dụng đồ thị hàm số tan, hãy cho biết những điểm ở vĩ độ nào nằm cách xích đạo không quá 20 cm trên bản đồ.",
+      "options": [
+        "A. Vĩ độ từ –120° đến 120°;",
+        "B. Vĩ độ từ –75° đến 75°;",
+        "C. Vĩ độ từ –45° đến 45°;",
+        "D. Vĩ độ từ –90° đến 90°."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Vì điểm nằm cách xích đạo không quá 20 cm trên bản đồ nên ta có –20 ≤ y ≤ 20. Khi đó \\( - 20 \\le 20\\tan \\left( {\\frac{\\pi }{{180}}\\varphi } \\right) \\le 20\\) hay \\( - 1 \\le \\tan \\left( {\\frac{\\pi }{{180}}\\varphi } \\right) \\le 1\\) . Ta có –90 ≤ φ ≤ 90 khi và chỉ khi \\( - \\frac{\\pi }{2} < \\frac{\\pi }{{180}}\\varphi < \\frac{\\pi }{2}\\) . Xét đồ thị hàm số y = tanx trên khoảng \\(\\left( { - \\frac{\\pi }{2};\\frac{\\pi }{2}} \\right)\\) (hình vẽ). Ta thấy \\( - 1 \\le \\tan \\left( {\\frac{\\pi }{{180}}\\varphi } \\right) \\le 1\\) khi và chỉ khi \\( - \\frac{\\pi }{4} < \\frac{\\pi }{{180}}\\varphi < \\frac{\\pi }{4}\\) hay –45 ≤ φ ≤ 45. Vậy trên bản đồ, các điểm cách xích đạo không quá 20 cm nằm ở vĩ độ từ –45° đến 45°."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Khi đu quay hoạt động, vận tốc theo phương ngang của một cabin M phụ thuộc vào góc lượng giác α = (Ox, OM) theo hàm số v x = 0,3sinα (m/s) (hình vẽ). Dựa vào đồ thị của hàm số sin, hãy cho biết trong vòng quay đầu tiên (0 ≤ α ≤ 2π), góc α ở trong khoảng nào sau đây thì v x giảm?",
+      "options": [
+        "A. π 2 ; 2 π ;",
+        "B. 3 π 2 ; 2 π ;",
+        "C. 0 ; π 2 ;",
+        "D. π 2 ; π ."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải: Đáp án đúng là: D Ta có đồ thị hàm số v x = 0,3sinα Theo đồ thị, với góc α ∈ π 2 ; π hoặc α ∈ π ; 3 π 2 thì v x giảm (đồ thị hàm số đi xuống từ trái qua phải)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Khoảng cách từ tâm một guồng nước đến mặt nước và bán kính của guồng đều bằng 3 m. Xét gàu G của guồng. Ban đầu gàu G nằm ở vị trí A (hình vẽ). Viết hàm số h biểu diễn chiều cao (tính bằng mét) của gàu G so với mặt nước theo góc α = (OA, OG).",
+      "options": [
+        "A. h = 3sin α;",
+        "B. h = 3 + 3sin α;",
+        "C. h = 1 + 3sin α;",
+        "D. h = 2 + 3sin α."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải: Đáp án đúng là: B Điểm G là điểm biểu diễn cho góc lượng giác có số đo α . Bán kính của guồng là 3 m. Khi đó tọa độ điểm G là (3cos α ; 3sin α ). Do OB = 3 m nên c hiều cao của gàu đến mặt nước là: h = 3 + 3sin α ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong hình vẽ, một chiếc máy bay A bay ở độ cao 500 m theo một đường thẳng đi ngang qua phía trên trạm quan sát T ở mặt đất. Hình chiếu vuông góc của A lên mặt đất là H, α là góc lượng giác (T x , TA) (0 < α < π). Biểu diễn tọa độ x H của điểm H lên trục T x theo α.",
+      "options": [
+        "A. x H = 500cotα ;",
+        "B. x H = 500cosα ;",
+        "C. x H = 500sinα ;",
+        "D. x H = 500tanα ."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A Xét tam giác AHT vuông tại H có: cot α = T H A H ⇔ T H = A H ⋅ cot α = 500 ⋅ cot α Vậy trên trục T x, tọa độ x H = 500cotα."
+    }
+  ]
+}

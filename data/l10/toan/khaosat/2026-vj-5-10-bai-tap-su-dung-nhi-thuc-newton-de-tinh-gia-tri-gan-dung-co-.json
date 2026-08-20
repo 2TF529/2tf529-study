@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-5-10-bai-tap-su-dung-nhi-thuc-newton-de-tinh-gia-tri-gan-dung-co-",
+  "sourceId": "vietjack:5-10-bai-tap-su-dung-nhi-thuc-newton-de-",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "5.10 Bài tập Sử dụng nhị thức Newton để tính giá trị gần đúng (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Sử dụng 3 số hạng đầu tiên của khai triển nhị thức Newton, giá trị gần đúng của biểu thức (3 + 0,03) 4 là",
+      "options": [
+        "A. 84,2886;",
+        "B. 86,2886;",
+        "C. 44,2868;",
+        "D. 88,2886."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có (3 + 0,03) 4 ≈ 3 4 + 4 . 3 3 . 0,03 + 6 . 3 2 . 0,03 2 = 84,2886."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Sử dụng 2 số hạng đầu tiên của khai triển nhị thức Newton, giá trị gần đúng của biểu thức (3 + 0,03) 5 là",
+      "options": [
+        "A. 254,15;",
+        "B. 255,15;",
+        "C. 256,15;",
+        "D. 257,15."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có (3 + 0,03) 5 ≈ 3 5 + 5 . 3 4 . 0,03 = 255,15."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Sử dụng 4 số hạng đầu tiên của khai triển nhị thức Newton, giá trị gần đúng của biểu thức (3 − 0,02) 5 là",
+      "options": [
+        "A. 235,00728;",
+        "B. 236,00768;",
+        "C. 235,00125;",
+        "D. 236,00125."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A (3 − 0,02) 5 ≈ 3 5 + 5 . 3 4 . ( − 0,02) + 10 . 3 3 . ( − 0,02) 2 + 10 . 3 2 . ( − 0,02) 3 = 235,00728."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Sử dụng 3 số hạng đầu tiên của khai triển nhị thức Newton, giá trị gần đúng của biểu thức (3 − 0,02) 4 là",
+      "options": [
+        "A. 72,8616;",
+        "B. 74,8616;",
+        "C. 76,8616;",
+        "D. 78,8616."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Ta có (3 − 0,02) 4 ≈ 3 4 + 4 . 3 3 . ( − 0,02) + 6 . 3 2 . ( − 0,02) 2 = 78,8616."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: S ai số tuyệt đối khi dùng 3 số hạng đầu tiên để tính giá trị gần đúng của biểu thức (2 + 0,05) 4 là",
+      "options": [
+        "A. 0,00100625;",
+        "B. 0,00200625;",
+        "C. 0,00300625;",
+        "D. 0,00400625."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có: (2 + 0,05) 4 ≈ 2 4 + 4 . 2 3 . 0,05 + 6 . 2 2 . 0,05 2 = 17,66. Sử dụng máy tính cầm tay, ta kiểm tra được : (2 + 0,05) 4 = 17,66100625. Sai số tuyệt đối là: Δ = 17 , 66100625 − 17 , 66 = 0 , 00100625 ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: S ai số tuyệt đối khi dùng 3 số hạng đầu tiên để tính giá trị gần đúng của biểu thức (2 − 0,05) 4 là",
+      "options": [
+        "A. 0,00069375;",
+        "B. 0,00079375;",
+        "C. 0,00089375;",
+        "D. 0,00099375."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Ta có: (2 − 0,05) 4 ≈ 2 4 + 4 . 2 3 . ( − 0,05) + 6 . 2 2 . ( − 0,05) 2 = 14,46. Sử dụng máy tính cầm tay, ta kiểm tra được : (2 − 0,05) 4 = 14,45900625. Sai số tuyệt đối là: Δ = 14 , 45900625 − 14 , 46 = 0 , 00099375 ."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-1-bai-tap-on-tap-toan-10-chan-troi-sang-tao-chuong-8-co-dap-an",
+  "sourceId": "vietjack:1-bai-tap-on-tap-toan-10-chan-troi-sang-",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.Bài tập ôn tập Toán 10 Chân trời sáng tạo Chương 8 có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Tổng \\(T = C_5^0 + C_5^1 + C_5^2 + C_5^3 + C_5^4 + C_5^5\\) bằng",
+      "options": [
+        "A. \\({2^5}\\) .",
+        "B. \\(0\\) .",
+        "C. \\({2^6}\\) .",
+        "D. \\({2^4}\\) ."
+      ],
+      "answer": "A",
+      "note": "Xét khai triển \\({\\left( {x + 1} \\right)^5} = C_5^0 \\cdot {x^5} + C_5^1 \\cdot {x^4} + C_5^2 \\cdot {x^3} + C_5^3 \\cdot {x^2} + C_5^4 \\cdot x + C_5^5\\) . Với \\(x = 1\\) thì \\({\\left( {1 + 1} \\right)^5} = C_5^0 \\cdot {1^5} + C_5^1 \\cdot {1^4} + C_5^2 \\cdot {1^3} + C_5^3 \\cdot {1^2} + C_5^4 \\cdot 1 + C_5^5\\) Suy ra \\(T = C_5^0 + C_5^1 + C_5^2 + C_5^3 + C_5^4 + C_5^5 = {2^5}\\) . Chọn A ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Có thể lập được bao nhiêu vectơ từ các đỉnh của hình ngũ giác đều?",
+      "options": [
+        "A. \\(A_6^2\\) .",
+        "B. \\(5!\\) .",
+        "C. \\(C_5^2\\) .",
+        "D. \\(A_5^2\\) ."
+      ],
+      "answer": "D",
+      "note": "Có \\(A_5^2\\) vectơ lập được. Chọn D ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Một công việc hoàn thành bởi ba hành động liên tiếp. Nếu hàng động thứ nhất có \\(a\\) cách thực hiện, hành động thứ hai có \\(b\\) cách thực hiện, hành động thứ ba có \\(c\\) cách thực hiện (các cách thực hiện của ba hành động khác nhau đôi một) thì số cách hoàn thành công việc đó là:",
+      "options": [
+        "A. \\(a + b + c\\) .",
+        "B. \\(abc\\) .",
+        "C. \\(ab + c\\) .",
+        "D. \\(1\\) ."
+      ],
+      "answer": "B",
+      "note": "Số cách hoàn thành công việc là \\(abc\\) . Chọn B ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Một bó hoa có 5 hoa hồng trắng, 6 hoa hồng đỏ và 7 hoa hồng vàng. Hỏi có mấy cách chọn lấy ba bông hoa có đủ cả ba màu.",
+      "options": [
+        "A. \\(18\\) .",
+        "B. \\(240\\) .",
+        "C. \\(210\\) .",
+        "D. \\(120\\) ."
+      ],
+      "answer": "C",
+      "note": "Số cách chọn 3 bông hoa có đủ ba màu là \\(5 \\cdot 6 \\cdot 7 = 210\\) . Chọn C ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Từ các số 1; 5; 6; 7 có thể lập được bao nhiêu số tự nhiên có 4 chữ số đôi một khác nhau?",
+      "options": [
+        "A. \\(256\\) .",
+        "B. \\(12\\) .",
+        "C. \\(24\\) .",
+        "D. \\(64\\) ."
+      ],
+      "answer": "C",
+      "note": "Có \\(4! = 24\\) số tự nhiên có 4 chữ số đôi một khác nhau. Chọn C ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong một trường THPT, khối 10 có 280 học sinh nam và 325 học sinh nữ. Nhà trường cần chọn một học sinh ở khối 10 đi dự hội thảo khoa học. Hỏi nhà trường có bao nhiêu cách chọn?",
+      "options": [
+        "A. \\(325\\) .",
+        "B. \\(280\\) .",
+        "C. \\(605\\) .",
+        "D. \\(45\\) ."
+      ],
+      "answer": "C",
+      "note": "Số cách chọn một học sinh đi dự hội thảo khoa học là \\(280 + 325 = 605\\) . Chọn C ."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Trong khai triển nhị thức Newton của \\({\\left( {a + b} \\right)^4}\\) có bao nhiêu số hạng?",
+      "options": [
+        "A. \\(5\\) .",
+        "B. \\(4\\) .",
+        "C. \\(3\\) .",
+        "D. \\(6\\) ."
+      ],
+      "answer": "A",
+      "note": "Trong khai triển nhị thức Newton của \\({\\left( {a + b} \\right)^4}\\) có 5 số hạng. Chọn A ."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Khai triển theo công thức nhị thức Newton \\({\\left( {x - y} \\right)^4}\\) ta được",
+      "options": [
+        "A. \\({x^4} - 4{x^3}y + 6{x^2}{y^2} - 4x{y^3} - {y^4}\\) .",
+        "B. \\({x^4} + 4{x^3}y + 6{x^2}{y^2} - 4x{y^3} + {y^4}\\) .",
+        "C. \\({x^4} - 4{x^3}y - 6{x^2}{y^2} - 4x{y^3} + {y^4}\\) .",
+        "D. \\({x^4} - 4{x^3}y + 6{x^2}{y^2} - 4x{y^3} + {y^4}\\) ."
+      ],
+      "answer": "D",
+      "note": "\\({\\left( {x - y} \\right)^4} = {x^4} - 4{x^3}y + 6{x^2}{y^2} - 4x{y^3} + {y^4}\\) . Chọn D ."
+    }
+  ]
+}

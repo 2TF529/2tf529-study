@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-6-20-cau-trac-nghiem-toan-10-canh-dieu-bai-5-xac-suat-cua-bien-co",
+  "sourceId": "vietjack:6-20-cau-trac-nghiem-toan-10-canh-dieu-b",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "6.20 câu trắc nghiệm Toán 10 Cánh diều Bài 5. Xác suất của biến cố (Đúng sai - trả lời ngắn) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Dạng 1. Trắc nghiệm nhiều phương án lựa chọn Mỗi câu hỏi thí sinh chỉ chọn một phương án. Trên giá sách có 4 quyển Toán, 3 quyển Vật lý, 2 quyển Hóa học. Lấy ngẫu nhiên 3 quyển sách trên kệ sách. Số phần tử của không gian mẫu là",
+      "options": [
+        "A. \\(10\\).",
+        "B. \\(84\\).",
+        "C. \\(12\\).",
+        "D. \\(6\\)."
+      ],
+      "answer": "B",
+      "note": "Số phần tử của không gian mẫu là \\(C_9^3 = 84\\). Chọn B."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Một hộp chứa 4 bi xanh, 3 bi đỏ và 2 bi vàng. Chọn ngẫu nhiên 2 bi. Tính xác suất để chọn được 2 bi cùng màu.",
+      "options": [
+        "A. \\(\\frac{5}{{18}}\\).",
+        "B. \\(\\frac{2}{9}\\).",
+        "C. \\(\\frac{9}{{36}}\\).",
+        "D. \\(\\frac{3}{{12}}\\)."
+      ],
+      "answer": "A",
+      "note": "Số phần tử của không gian mẫu là \\(C_9^2 = 36\\). Gọi \\(A\\) là biến cố “Chọn được 2 bi cùng màu”. TH1: Chọn được 2 bi màu xanh có \\(C_4^2 = 6\\) cách. TH2: Chọn được 2 bi màu đỏ có \\(C_3^2 = 3\\) cách. TH3: Chọn được 2 bi màu vàng có 1 cách. Suy ra \\(n\\left( A \\right) = 6 + 3 + 1 = 10\\). Do đó \\(P\\left( A \\right) = \\frac{{10}}{{36}} = \\frac{5}{{18}}\\). Chọn A."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Một hộp chứa 4 viên bi trắng, 5 viên bi đỏ và 6 viên bi xanh. Lấy ngẫu nhiên từ hộp ra 4 viên bi. Xác suất để 4 viên bi được chọn có đủ ba màu và số bi đỏ nhiều nhất là",
+      "options": [
+        "A. \\(\\frac{{16}}{{91}}\\).",
+        "B. \\(\\frac{2}{9}\\).",
+        "C. \\(\\frac{9}{{36}}\\).",
+        "D. \\(\\frac{3}{{12}}\\)."
+      ],
+      "answer": "A",
+      "note": "Số phần tử của không gian mẫu là \\(n\\left( \\Omega \\right) = C_{15}^4 = 1365\\). Gọi \\(A\\) là biến cố “Chọn được 4 viên bi có đủ ba màu và số bi đỏ nhiều nhất”. Khi đó \\(n\\left( A \\right) = C_4^1 \\cdot C_5^2 \\cdot C_6^1 = 240\\). Khi đó \\(P\\left( A \\right) = \\frac{{240}}{{1365}} = \\frac{{16}}{{91}}\\). Chọn A."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho 100 tấm thẻ được đánh số từ 1 đến 100, chọn ngẫu nhiên 3 tấm thẻ. Xác suất để chọn được 3 tấm thẻ có tổng các số ghi trên thẻ là số chia hết cho 2 là",
+      "options": [
+        "A. \\(\\frac{5}{6}\\).",
+        "B. \\(\\frac{1}{2}\\).",
+        "C. \\(\\frac{5}{7}\\).",
+        "D. \\(\\frac{3}{4}\\)."
+      ],
+      "answer": "B",
+      "note": "Số phần tử của không gian mẫu là \\(n\\left( \\Omega \\right) = C_{100}^3 = 161700\\). Gọi \\(A\\) là biến cố “Tổng các số ghi trên thẻ là số chia hết cho 2”. Từ 1 đến 100 có 50 số chẵn và 50 số lẻ. TH1: Chọn được 3 số chẵn có \\(C_{50}^3\\) cách. TH2: Chọn được 1 số chẵn và 2 số lẻ có \\(C_{50}^1 \\cdot C_{50}^2\\) cách. Suy ra \\(n\\left( A \\right) = C_{50}^3 + C_{50}^1 \\cdot C_{50}^2 = 80850\\). Khi đó \\(P\\left( A \\right) = \\frac{{n\\left( A \\right)}}{{n\\left( \\Omega \\right)}} = \\frac{{80850}}{{161700}} = \\frac{1}{2}\\). Chọn B."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Rút ngẫu nhiên đồng thời 2 thẻ từ một hộp có 20 tấm thẻ được đánh số từ 1 đến 20. Xác suất để tổng hai số trên hai tấm thẻ được rút ra bằng 10 là",
+      "options": [
+        "A. \\(\\frac{9}{{190}}\\).",
+        "B. \\(\\frac{2}{{95}}\\).",
+        "C. \\(\\frac{5}{{190}}\\).",
+        "D. \\(\\frac{4}{{95}}\\)."
+      ],
+      "answer": "B",
+      "note": "Số phần tử của không gian mẫu là \\(C_{20}^2 = 190\\). Gọi \\(A\\) là biến cố “Tổng hai số trên hai tấm thẻ được rút ra bằng 10”. Ta có \\(1 + 9 = 2 + 8 = 3 + 7 = 4 + 6\\)\\( \\Rightarrow n\\left( A \\right) = 4\\). Vậy \\(P\\left( A \\right) = \\frac{4}{{190}} = \\frac{2}{{95}}\\). Chọn B."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Từ một hộp chứa 16 quả cầu gồm 7 quả màu đỏ và 9 quả màu xanh. Lấy ngẫu nhiên đồng thời hai quả. Xác suất để lấy được hai quả có màu khác nhau bằng",
+      "options": [
+        "A. \\(\\frac{2}{{15}}\\).",
+        "B. \\(\\frac{{21}}{{40}}\\).",
+        "C. \\(\\frac{3}{{10}}\\).",
+        "D. \\(\\frac{7}{{40}}\\)."
+      ],
+      "answer": "B",
+      "note": "Số phần tử của không gian mẫu là \\(C_{16}^2 = 120\\). Gọi \\(A\\) là biến cố “Lấy được hai quả khác màu”. Suy ra \\(n\\left( A \\right) = C_7^1 \\cdot C_9^1 = 63\\). Khi đó \\(P\\left( A \\right) = \\frac{{63}}{{120}} = \\frac{{21}}{{40}}\\). Chọn B."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Để lì xì đầu năm cho các cháu, bác A chuẩn bị 30 bao lì xì có họa tiết khác nhau gồm 15 bao mỗi bao mệnh giá 50 nghìn, 10 bao mỗi bao mệnh giá 100 nghìn đồng và 5 bao mỗi bao mệnh giá 200 nghìn đồng. Bạn Minh nhỏ tuổi nhất nên được bốc trước 3 bao lì xì. Xác suất để bạn Minh nhận được 300 nghìn tiền lì xì là",
+      "options": [
+        "A. \\(\\frac{6}{{203}}\\).",
+        "B. \\(\\frac{{15}}{{116}}\\).",
+        "C. \\(\\frac{{129}}{{812}}\\).",
+        "D. \\(\\frac{{139}}{{812}}\\)."
+      ],
+      "answer": "C",
+      "note": "Số phần tử của không gian mẫu là \\(C_{30}^3 = 4060\\). Gọi \\(A\\) là biến cố “Minh nhận được 300 nghìn tiền lì xì”. TH1: 3 bao lì xì đều có mệnh giá 100 nghìn. Có \\(C_{10}^3 = 120\\) cách. TH2: 2 bao lì xì có mệnh giá 50 nghìn và 1 bao mệnh giá 200 nghìn. Có \\(C_{15}^2 \\cdot C_5^1 = 525\\) cách. Suy ra \\(n\\left( A \\right) = 120 + 525 = 645\\). Do đó \\(P\\left( A \\right) = \\frac{{645}}{{4060}} = \\frac{{129}}{{812}}\\). Chọn C."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Trong một chiếc hộp có 5 viên bi màu đỏ, 6 viên bi màu xanh. An lấy ngẫu nhiên ra 3 viên bi. Tính xác suất để 3 viên bi lấy ra đều là màu đỏ.",
+      "options": [
+        "A. \\(\\frac{2}{{33}}\\).",
+        "B. \\(\\frac{5}{6}\\).",
+        "C. \\(\\frac{5}{{11}}\\).",
+        "D. \\(\\frac{{31}}{{33}}\\)."
+      ],
+      "answer": "A",
+      "note": "Số phần tử của không gian mẫu là \\(C_{11}^3 = 165\\). Số cách lấy ra 3 viên bi đều là màu đỏ là \\(C_5^3 = 10\\). Xác suất để 3 viên bi lấy ra đều là màu đỏ là \\(P = \\frac{{10}}{{165}} = \\frac{2}{{33}}\\). Chọn A."
+    }
+  ]
+}

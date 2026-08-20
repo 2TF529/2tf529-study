@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-cac-dang-bai-tap-thuc-hanh-tinh-sai-so-trong-phep-do-ghi-ket-qu",
+  "sourceId": "vietjack:1-cac-dang-bai-tap-thuc-hanh-tinh-sai-so",
+  "grade": "l10",
+  "subjectSlug": "li",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.Các dạng bài tập Thực hành tính sai số trong phép đo. Ghi kết quả đo lớp 10 (có lời giải)",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Hình vẽ thể hiện nhiệt kế đo nhiệt độ t 1 ( 0 C) và t 2 ( 0 C) của một dung dịch trước và sau khi đun. Hãy xác định và ghi kết quả độ tăng nhiệt độ t của dung dịch này.",
+      "options": [
+        "A. t = 44 , 0 ± 1 , 0 ° C",
+        "B. t = 44 , 0 + 1 , 0 ° C",
+        "C. t = 44 , 0 − 1 , 0 ° C",
+        "D. t = 44 , 0 ° C"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là A Độ chia nhỏ nhất của dụng cụ đo là 1 o C nên sai số hệ thống là 0,5 o C. Từ hình vẽ, ta đọc được t 1 = 24 , 0 ± 0 , 5 ° C và t 2 = 68 , 0 ± 0 , 5 ° C . Suy ra: t ¯ = t 2 ¯ − t 1 ¯ = 68 , 0 − 24 , 0 = 44 , 0 ° C Sai số tuyệt đối: Δ t = Δ t 2 + Δ t 1 = 0 , 5 + 0 , 5 = 1 , 0 ° C Vậy độ tăng nhiệt độ của dung dịch là: t = t ¯ ± Δ t = 44 , 0 ± 1 , 0 ° C"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Bảng ghi thời gian rơi của một vật giữa hai điểm cố định Thời gian rơi Lần 1 Lần 2 Lần 3 Lần 4 0,345 0,346 0,342 0,343 Sai số tuyệt đối trung bình của thời gian rơi là bao nhiêu?",
+      "options": [
+        "A. 0,015.",
+        "B. 0,0015.",
+        "C. 0,006.",
+        "D. 0,024."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Giá trị trung bình: t ¯ = t 1 + t 2 + t 3 + t 4 4 = 0 , 344 Sai số tuyệt đối trung bình: Δ t ¯ = Δ t 1 + Δ t 2 + Δ t 3 + Δ t 4 4 = 0 , 344 − 0 , 345 + 0 , 344 − 0 , 346 + 0 , 344 − 0 , 342 + 0 , 344 − 0 , 343 4 = 0 , 0015"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Chọn câu đúng. Phép đo trực tiếp là:",
+      "options": [
+        "A. phép đo mà giá trị của đại lượng cần đo được đọc trực tiếp trên dụng cụ đo.",
+        "B. phép so sánh đại lượng vật lí cần đo với đại lượng cùng loại trực tiếp thông qua dụng cụ đo.",
+        "C. phép đo mà giá trị của đại lượng cần đo được xác định thông qua các đại lượng đo trực tiếp.",
+        "D. cả A và B."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D. A - đúng. B - đúng. C - sai."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Chọn đáp án đúng ?",
+      "options": [
+        "A. Sai số hệ thống là sai số có tính qui luật và được lặp lại ở tất cả các lần đo làm cho giá trị đo tăng hoặc giảm một lượng nhất định só với giá trị thực.",
+        "B. Sai số ngẫu nhiên là sai số xuất phát từ sai sót, phản xạ của người làm thí nghiệm hoặc từ những yếu tố ngẫu nhiên bên ngoài, thường có nguyên nhân không rõ ràng và dẫn đến sự phân tán của các kết quả đo xung quanh một giá trị trung bình.",
+        "C. Sai số hệ thống thường xuất phát từ dụng cụ đo, ngoài ra sai số hệ thống còn xuất phát từ độ chia nhỏ nhất của dụng cụ đo.",
+        "D. Cả A, B, C đều đúng."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D. A- đúng. B- đúng. C- đúng."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cách ghi kết quả đo của một đại lượng vật lí",
+      "options": [
+        "A. x = x ¯ ± Δ x",
+        "B. x = x 1 + x 2 + ... + x n n",
+        "C. x = Δ x x ¯",
+        "D. x = Δ x . x ¯"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A. Khi tiến hành đo đạc giá trị x của một đại lượng vật lí thường được ghi dưới dạng: x = x ¯ ± Δ x trong đó Δ x là sai số tuyệt đối của phép đo, là giá trị trung bình của đại lượng cần đo khi tiến hành phép đo nhiều lần."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Phép đo trực tiếp là:",
+      "options": [
+        "A. Phép đo một đại lượng trực tiếp bằng dụng cụ đo, kết quả đo được đọc trực tiếp trên dụng cụ đo đó.",
+        "B. Phép đo một đại lượng thông qua công thức liên hệ với các đại lượng được đo trực tiếp.",
+        "C. Phép đo sử dụng các công thức vật lí.",
+        "D. Phép đo có độ chính xác thấp."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Phép đo trực tiếp là phép đo một đại lượng trực tiếp bằng dụng cụ đo, kết quả đo được đọc trực tiếp trên dụng cụ đo đó."
+    }
+  ]
+}

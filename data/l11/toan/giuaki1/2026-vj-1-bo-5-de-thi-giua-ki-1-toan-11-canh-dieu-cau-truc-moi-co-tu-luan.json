@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-1-bo-5-de-thi-giua-ki-1-toan-11-canh-dieu-cau-truc-moi-co-tu-luan",
+  "sourceId": "vietjack:1-bo-5-de-thi-giua-ki-1-toan-11-canh-die",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "giuaki1",
+  "year": 2026,
+  "title": "1.Bộ 5 đề thi giữa kì 1 Toán 11 Cánh diều cấu trúc mới (có tự luận) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: A. TRẮC NGHIỆM NHIỀU PHƯƠNG ÁN LỰA CHỌN. Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh chỉ chọn một phương án. Cho \\(\\frac{{7\\pi }}{4} < \\alpha < 2\\pi \\) . Khẳng định nào sau đây đúng?",
+      "options": [
+        "A. \\(\\cos \\alpha > 0\\) .",
+        "B. \\(\\sin \\alpha > 0\\) .",
+        "C. \\(\\tan \\alpha > 0\\) .",
+        "D. \\(\\cot \\alpha > 0\\) ."
+      ],
+      "answer": "A",
+      "note": "Ta có \\(\\frac{{7\\pi }}{4} < \\alpha < 2\\pi \\Leftrightarrow \\frac{{3\\pi }}{2} + \\frac{\\pi }{4} < \\alpha < 2\\pi \\Rightarrow \\) điểm cuối của góc lượng giác \\(\\alpha \\) ở góc phần tư thứ IV. Do đó \\(\\cos \\alpha > 0,\\,\\sin \\alpha < 0,\\,\\tan \\alpha < 0,\\,\\cot \\alpha < 0\\) . Chọn A ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Khẳng định nào dưới đây sai ?",
+      "options": [
+        "A. \\(\\cos 2a = 2\\cos a - 1\\) .",
+        "B. \\(2{\\sin ^2}a = 1 - \\cos 2a\\) .",
+        "C. \\(\\sin \\left( {a + b} \\right) = \\sin a\\cos b + \\sin b\\cos a\\) .",
+        "D. \\(\\sin 2a = 2\\sin a \\cdot \\cos a\\) ."
+      ],
+      "answer": "A",
+      "note": "Ta có \\(\\cos 2a = 2{\\cos ^2}a - 1\\) nên khẳng định ở phương án \\({\\rm{A}}\\) sai. Chọn A ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Mệnh đề nào dưới đây đúng?",
+      "options": [
+        "A. Hàm số \\(y = \\cot x\\) là hàm số chẵn.",
+        "B. Hàm số \\(y = \\sin x\\) là hàm số chẵn.",
+        "C. Hàm số \\(y = \\tan x\\) là hàm số chẵn.",
+        "D. Hàm số \\(y = \\cos x\\) là hàm số chẵn."
+      ],
+      "answer": "D",
+      "note": "Hàm số \\(y = \\cos x\\) là hàm số chẵn. Các hàm số \\(y = \\sin x\\) , \\(y = \\tan x\\) , \\(y = \\cot x\\) là các hàm số lẻ. Chọn D ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Tìm n ghiệm của phương trình \\(\\cos x = - \\frac{1}{2}.\\)",
+      "options": [
+        "A. \\(x = \\pm \\frac{\\pi }{3} + k2\\pi ,k \\in \\mathbb{Z}.\\)",
+        "B. \\(x = \\pm \\frac{{2\\pi }}{3} + k2\\pi ,k \\in \\mathbb{Z}.\\)",
+        "C. \\(x = \\pm \\frac{\\pi }{6} + k2\\pi ,k \\in \\mathbb{Z}.\\)",
+        "D. D . \\(x = \\pm \\frac{\\pi }{6} + k\\pi ,k \\in \\mathbb{Z}.\\)"
+      ],
+      "answer": "B",
+      "note": "Ta có \\(\\cos x = - \\frac{1}{2} \\Leftrightarrow x = \\pm \\frac{{2\\pi }}{3} + k2\\pi ,k \\in \\mathbb{Z}.\\) Chọn B ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho dãy số \\(\\left( {{u_n}} \\right)\\) xác định bởi \\(\\left\\{ \\begin{array}{l}{u_1} = 2\\\\{u_{n + 1}} = \\frac{1}{3}\\left( {{u_n} + 1} \\right)\\end{array} \\right..\\) Tìm số hạng \\({u_3}.\\)",
+      "options": [
+        "A. \\({u_3} = \\frac{5}{9}.\\)",
+        "B. \\({u_3} = 1.\\)",
+        "C. \\({u_3} = \\frac{2}{3}.\\)",
+        "D. \\({u_3} = \\frac{{14}}{{27}}.\\)"
+      ],
+      "answer": "C",
+      "note": "\\({u_2} = \\frac{1}{3}\\left( {{u_1} + 1} \\right) = \\frac{1}{3}\\left( {2 + 1} \\right) = 1\\) . \\({u_3} = \\frac{1}{3}\\left( {{u_2} + 1} \\right) = \\frac{1}{3}\\left( {1 + 1} \\right) = \\frac{2}{3}\\) . Chọn C ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho cấp số cộng \\(\\left( {{u_n}} \\right)\\) , biết \\({u_1} = 2,{u_2} = 8\\) . C ông sai của cấp số cộng là",
+      "options": [
+        "A. \\(d = 10\\) .",
+        "B. \\(d = 6.\\)",
+        "C. \\(d = 4.\\)",
+        "D. \\(d = 16.\\)"
+      ],
+      "answer": "B",
+      "note": "Ta có \\({u_2} = {u_1} + d \\Leftrightarrow 8 = 2 + d \\Leftrightarrow d = 6.\\) Chọn B ."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Dãy số nào sau đây là cấp số nhân?",
+      "options": [
+        "A. \\(1\\) , \\( - 2\\) , \\(4\\) , \\( - 8\\) , \\( - 16\\) .",
+        "B. \\(2\\) , \\(22\\) , \\(222\\) , \\(22222\\) .",
+        "C. \\(3\\) , \\(6\\) , \\(12\\) , \\(24\\) .",
+        "D. \\(x\\) , \\(2x\\) , \\(3x\\) , \\(4x\\) với \\(x \\ne 0\\) ."
+      ],
+      "answer": "C",
+      "note": "Dãy đáp án A có \\(\\frac{{ - 8}}{4} \\ne \\frac{{ - 16}}{{ - 8}} \\Rightarrow \\) Không là cấp số nhân. Dãy đáp án B có \\(\\frac{{22}}{2} \\ne \\frac{{222}}{{22}} \\Rightarrow \\) Không là cấp số nhân. Dãy đáp án C có \\(\\frac{6}{3} = \\frac{{12}}{6} = \\frac{{24}}{{12}} = 2 \\Rightarrow \\) Dãy này là cấp số nhân. Chọn C ."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Mệnh đề nào sau đây đúng?",
+      "options": [
+        "A. Tứ diện có 4 mặt và 6 cạnh.",
+        "B. Tứ diện có 4 mặt và 4 cạnh.",
+        "C. Tứ diện có 4 mặt và 5 cạnh.",
+        "D. Tứ diện có 4 cạnh và 6 mặt."
+      ],
+      "answer": "A",
+      "note": "Tứ diện có 4 mặt và 6 cạnh. Chọn A ."
+    }
+  ]
+}

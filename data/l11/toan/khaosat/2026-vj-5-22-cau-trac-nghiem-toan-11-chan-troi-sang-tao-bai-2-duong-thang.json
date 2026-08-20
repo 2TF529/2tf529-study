@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-5-22-cau-trac-nghiem-toan-11-chan-troi-sang-tao-bai-2-duong-thang",
+  "sourceId": "vietjack:5-22-cau-trac-nghiem-toan-11-chan-troi-s",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "5.22 câu trắc nghiệm Toán 11 Chân trời sáng tạo Bài 2. Đường thẳng vuông góc với mặt phẳng (Đúng sai - Trả lời ngắn) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: TRẮC NGHIỆM NHIỀU LỰA CHỌN Cho điểm M và mặt phẳng (α) có bao nhiêu đường thẳng đi qua điểm M và vuông góc với mặt phẳng (α)?",
+      "options": [
+        "A. 2.",
+        "B. Vô số.",
+        "C. 0.",
+        "D. 1."
+      ],
+      "answer": "D",
+      "note": "D Theo tính chất qua một điểm cho trước chỉ có duy nhất một đường thẳng vuông góc với một mặt phẳng cho trước."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hình chóp tam giác đều S.ABC. Gọi O là trọng tâm của DABC. Đường thẳng d ^ SO (d Ë (ABC)). Khi đó:",
+      "options": [
+        "A. d // (ABC).",
+        "B. d ^ (SBC).",
+        "C. SO // AC.",
+        "D. SA // OC."
+      ],
+      "answer": "A",
+      "note": "A Ta có \\(\\left\\{ \\begin{array}{l}SO \\bot \\left( {ABC} \\right)\\\\d \\bot SO\\end{array} \\right. \\Rightarrow d//\\left( {ABC} \\right)\\) ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho điểm M và đường thẳng a có bao nhiêu mặt phẳng đi qua điểm M và vuông góc với đường thẳng a?",
+      "options": [
+        "A. 2.",
+        "B. Vô số.",
+        "C. 0.",
+        "D. 1."
+      ],
+      "answer": "D",
+      "note": "D Theo tính chất qua một điểm cho trước chỉ có duy nhất một mặt phẳng vuông góc với đường thẳng cho trước."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hình chóp S.ABC có SA vuông góc với mặt đáy (ABC). Mệnh đề nào sau đây là đúng?",
+      "options": [
+        "A. SA ^ SB.",
+        "B. SA ^ SC.",
+        "C. SA ^ AB.",
+        "D. SB ^ SC."
+      ],
+      "answer": "C",
+      "note": "C Có SA ^ (ABC) mà AB Ì (ABC) Þ SA ^ AB."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hình bình hành ABCD tâm O có bao nhiêu đường thẳng đi qua điểm O và vuông góc với mặt phẳng (ABCD)?",
+      "options": [
+        "A. 2.",
+        "B. Vô số.",
+        "C. 0.",
+        "D. 1."
+      ],
+      "answer": "D",
+      "note": "D Theo tính chất qua một điểm cho trước chỉ có duy nhất một đường thẳng vuông góc với một mặt phẳng cho trước."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho hình chóp S.ABCD có đáy ABCD là hình chữ nhật và SB ^ BC. Mệnh đề nào sau đây là đúng?",
+      "options": [
+        "A. SA ^ (ABCD).",
+        "B. SB ^ (ABCD).",
+        "C. BC ^ (SAC).",
+        "D. BC ^ (SAB)."
+      ],
+      "answer": "D",
+      "note": "D Ta có \\(\\left. \\begin{array}{l}BC \\bot SB,BC \\bot AB\\\\SB,AB \\subset \\left( {SAB} \\right)\\end{array} \\right\\} \\Rightarrow BC \\bot \\left( {SAB} \\right)\\) ."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Cho hình chóp S.ABC có đáy là tam giác vuông tại B, cạnh SA vuông góc với mặt phẳng đáy. Đường thẳng nào sau đây vuông góc với AC?",
+      "options": [
+        "A. SA.",
+        "B. AB.",
+        "C. BC.",
+        "D. SC."
+      ],
+      "answer": "A",
+      "note": "A Theo giả thiết SA ^ (ABC) Þ SA ^ AC."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho hình chóp tam giác S.ABC có SA = SB và AC = CB. Khẳng định nào sau đây đúng?",
+      "options": [
+        "A. BC ^ (SBC).",
+        "B. SB ^ AB.",
+        "C. SA ^ (ABC).",
+        "D. AB ^ SC."
+      ],
+      "answer": "D",
+      "note": "D Gọi D là trung điểm của AB. Vì tam giác SAB cân tại S và tam giác ABC cân tại C nên suy ra \\(\\left\\{ \\begin{array}{l}AB \\bot SD\\\\AB \\bot CD\\end{array} \\right. \\Rightarrow AB \\bot \\left( {SCD} \\right) \\Rightarrow AB \\bot SC\\) ."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-10-bai-tap-phuong-trinh-logarit-co-loi-giai",
+  "sourceId": "vietjack:2-10-bai-tap-phuong-trinh-logarit-co-loi",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.10 Bài tập Phương trình lôgarit (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Phương trình log 2 (x + 8) = 3 có nghiệm là:",
+      "options": [
+        "A. x = 1;",
+        "B. x = 0;",
+        "C. x = – 1;",
+        "D. Vô nghiệm."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Điều kiện: x + 8 > 0 hay x > – 8. Phương trình trở thành x + 8 = 2 3 hay x = 0 (thỏa mãn điều kiện). Vậy phương trình đã cho có nghiệm là x = 0."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Phương trình log 2 x = 4 có nghiệm là:",
+      "options": [
+        "A. x = 2;",
+        "B. x = 4;",
+        "C. x = 16;",
+        "D. x = 0."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Điều kiện: x > 0. Phương trình trở thành x = 2 4 hay x = 16 (thỏa mãn điều kiện). Vậy phương trình đã cho có nghiệm là x = 16."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Phương trình log 3 x − 1 = 5 có nghiệm là:",
+      "options": [
+        "A. x = 244;",
+        "B. x = – 242;",
+        "C. Cả A, B đều sai;",
+        "D. Cả A, B đều đúng."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Điều kiện: x − 1 > 0 luôn đúng với mọi x. Phương trình trở thành x − 1 = 3 5 hay x = 244 hoặc x = – 242 (thỏa mãn điều kiện). Vậy phương trình đã cho có tập nghiệm là S = {244; – 242}."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Số nghiệm của phương trình log 2 x − 3 x + 4 = 3 là:",
+      "options": [
+        "A. 0;",
+        "B. 1;",
+        "C. 2;",
+        "D. 3."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Điều kiện: x − 3 x + 4 > 0 x ≥ 0 Û x ³ 0. Phương trình trở thành x − 3 x + 4 = 2 3 . Từ đó x − 3 x − 4 = 0 Û x = − 1 (loại) hoặc x = 4 ⇔ x = 16 (thỏa mãn điều kiện). Vậy phương trình đã cho có 1 nghiệm."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Tập nghiệm S của phương trình log 3 ( x − 1 ) + log 1 3 x + 1 = 1 là:",
+      "options": [
+        "A. S = 5 + 33 2",
+        "B. S = 5 + 33 2 ; 5 − 33 2",
+        "C. S = 5 − 33 2",
+        "D. S = 33 − 5 2"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Điều kiện: x – 1 > 0 và x + 1 > 0, tức x > 1. Phương trình trở thành log 3 (x – 1) 2 – log 3 (x + 1) = 1. Từ đó log 3 ( x − 1 ) 2 x + 1 = 1 Û ( x − 1 ) 2 x + 1 = 3 Û (x − 1) 2 = 3(x + 1) Û x 2 – 5x – 2 = 0 Û x = 5 + 33 2 (thỏa mãn điều kiện) hoặc x = 5 − 33 2 (loại) . Vậy phương trình đã cho có nghiệm duy nhất x = 5 + 33 2 ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Tích tất cả các nghiệm của phương trình log 3 x 2 − 3 x + 2 x = 0 là:",
+      "options": [
+        "A. 2 + 2 ;",
+        "B. 2;",
+        "C. 2 - 2 ;",
+        "D. 0."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Điều kiện: x 2 − 3 x + 2 x > 0 , tức x > 2. Phương trình trở thành x 2 − 3 x + 2 x = 1 . Từ đó x 2 – 3x + 2 = x hay x 2 – 4x + 2 = 0. Từ đó tìm được x = 2 + 2 và x = 2 − 2 nhưng chỉ có nghiệm x = 2 + 2 thỏa mãn điều kiện. Vậy phương trình đã cho có nghiệm duy nhất x = 2 + 2 nên tích tất cả các nghiệm của phương trình là ."
+    }
+  ]
+}

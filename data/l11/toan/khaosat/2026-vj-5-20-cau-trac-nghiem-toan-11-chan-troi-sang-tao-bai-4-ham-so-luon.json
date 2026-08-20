@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-5-20-cau-trac-nghiem-toan-11-chan-troi-sang-tao-bai-4-ham-so-luon",
+  "sourceId": "vietjack:5-20-cau-trac-nghiem-toan-11-chan-troi-s",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "5.20 câu trắc nghiệm Toán 11 Chân trời sáng tạo Bài 4. Hàm số lượng giác và đồ thị (Đúng sai - Trả lời ngắn) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: TRẮC NGHIỆM NHIỀU LỰA CHỌN Tập xác định của hàm số \\(y = \\tan x\\) là:",
+      "options": [
+        "A. \\(\\mathbb{R}{\\rm{\\backslash }}\\left\\{ 0 \\right\\}\\) .",
+        "B. \\(\\mathbb{R}{\\rm{\\backslash }}\\left\\{ {\\frac{\\pi }{2} + k\\pi ,k \\in \\mathbb{Z}} \\right\\}.\\)",
+        "C. ℝ .",
+        "D. \\(\\mathbb{R}{\\rm{\\backslash }}\\left\\{ {k\\pi ,k \\in \\mathbb{Z}} \\right\\}\\) ."
+      ],
+      "answer": "B",
+      "note": "B Điều kiện xác định: \\(\\cos x \\ne 0 \\Leftrightarrow x \\ne \\frac{\\pi }{2} + k\\pi \\). Vậy tập xác định: \\(D = \\mathbb{R}{\\rm{\\backslash }}\\left\\{ {\\frac{\\pi }{2} + k\\pi ,k \\in \\mathbb{Z}} \\right\\}\\)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Tập xác định của hàm số \\(y = 2\\sin x\\) là",
+      "options": [
+        "A. \\(\\left[ {0;2} \\right]\\) .",
+        "B. \\(\\left[ { - 1;1} \\right]\\) .",
+        "C. \\(\\mathbb{R}\\) .",
+        "D. \\(\\left[ { - 2;2} \\right]\\) ."
+      ],
+      "answer": "C",
+      "note": "C Hàm số \\(y = 2\\sin x\\)có tập xác định là \\(\\mathbb{R}\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Tập xác định của hàm số \\(y = \\cot x\\) là:",
+      "options": [
+        "A. \\[\\mathbb{R}\\backslash \\left\\{ {k2\\pi ,k \\in \\mathbb{Z}} \\right\\}\\] .",
+        "B. \\[\\mathbb{R}\\backslash \\left\\{ {\\frac{\\pi }{2} + k\\pi ,k \\in \\mathbb{Z}} \\right\\}\\] .",
+        "C. \\[\\mathbb{R}\\backslash \\left\\{ {k\\pi ,k \\in \\mathbb{Z}} \\right\\}\\] .",
+        "D. \\[\\mathbb{R}\\backslash \\left\\{ {\\frac{\\pi }{2} + k2\\pi ,k \\in \\mathbb{Z}} \\right\\}\\] ."
+      ],
+      "answer": "C",
+      "note": "C Điều kiện:\\(\\sin x \\ne 0 \\Leftrightarrow x \\ne k\\pi ,k \\in \\mathbb{Z}\\), suy ra tập xác định của hàm số \\(y = \\cot x\\) là \\(D = \\mathbb{R}\\backslash \\left\\{ {k\\pi ,k \\in \\mathbb{Z}} \\right\\}\\)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Tập xác định của hàm số \\(y = \\tan 2x\\) là",
+      "options": [
+        "A. \\(D = \\mathbb{R}\\backslash \\left\\{ {\\frac{\\pi }{4} + k\\pi ,k \\in \\mathbb{Z}} \\right\\}\\) .",
+        "B. \\(D = \\mathbb{R}\\backslash \\left\\{ {\\frac{\\pi }{4} + k\\frac{\\pi }{2},k \\in \\mathbb{Z}} \\right\\}\\) .",
+        "C. \\(D = \\mathbb{R}\\backslash \\left\\{ {\\frac{\\pi }{2} + k\\pi ,k \\in \\mathbb{Z}} \\right\\}\\) .",
+        "D. \\(D = \\mathbb{R}\\backslash \\left\\{ {k\\frac{\\pi }{2},k \\in \\mathbb{Z}} \\right\\}\\) ."
+      ],
+      "answer": "B",
+      "note": "B Điều kiện xác định của hàm số: \\(\\cos 2x \\ne 0 \\Leftrightarrow 2x \\ne \\frac{\\pi }{2} + k\\pi \\Leftrightarrow x \\ne \\frac{\\pi }{4} + k\\frac{\\pi }{2},{\\rm{ }}k \\in \\mathbb{Z}\\). Vậy tập xác định của hàm số là \\(D = \\mathbb{R}\\backslash \\left\\{ {\\frac{\\pi }{4} + k\\frac{\\pi }{2},k \\in \\mathbb{Z}} \\right\\}\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho các hàm số: \\(y = \\sin 2x\\) , \\(y = \\cos x\\) , \\(y = \\tan x\\) , \\(y = \\cot x\\) . Có bao nhiêu hàm số tuần hoàn với chu kỳ \\(T = \\pi \\) .",
+      "options": [
+        "A. 1",
+        "B. 2",
+        "C. 3",
+        "D. 4"
+      ],
+      "answer": "C",
+      "note": "C Hàm số \\(y = \\tan x\\), \\(y = \\cot x\\) là hàm số tuần hoàn với chu kỳ \\(T = \\pi \\). Hàm số \\(y = \\sin 2x\\) là hàm số tuần hoàn với chu kỳ \\(T = \\frac{{2\\pi }}{2} = \\pi \\). Hàm số \\(y = \\cos x\\) là hàm số tuần hoàn với chu kỳ \\(T = 2\\pi \\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Khẳng định nào dưới đây là sai ?",
+      "options": [
+        "A. Hàm số \\(y = \\sin x\\) là hàm số lẻ.",
+        "B. Hàm số \\(y = \\cos x\\) là hàm số lẻ.",
+        "C. Hàm số \\(y = \\tan x\\) là hàm số lẻ.",
+        "D. Hàm số \\(y = \\cot x\\) là hàm số lẻ."
+      ],
+      "answer": "B",
+      "note": "B sai vì hàm số \\(y = \\cos x\\) là hàm số chẵn."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Hàm số nào sau đây là hàm số chẵn?",
+      "options": [
+        "A. \\(y = \\cot 4x\\) .",
+        "B. \\(y = \\tan 6x\\) .",
+        "C. \\(y = \\sin 2x\\) .",
+        "D. \\(y = \\cos x\\) ."
+      ],
+      "answer": "D",
+      "note": "D Xét hàm \\(y = \\cos x\\). TXĐ: \\(D = \\mathbb{R}\\). Khi đó \\[\\forall x \\in D \\Rightarrow - x \\in D\\]. Ta có \\(f\\left( { - x} \\right) = \\cos ( - x) = \\cos x = f\\left( x \\right)\\). Vậy \\(y = \\cos x\\) là hàm số chẵn."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Khẳng định nào sau đây sai?",
+      "options": [
+        "A. \\(y = \\tan x\\) nghịch biến trong \\(\\left( {0;\\;\\frac{\\pi }{2}} \\right)\\) .",
+        "B. \\(y = \\cos x\\) đồng biến trong \\(\\left( { - \\frac{\\pi }{2};\\;0} \\right)\\) .",
+        "C. \\(y = \\sin x\\) đồng biến trong \\(\\left( { - \\frac{\\pi }{2};\\;0} \\right)\\) .",
+        "D. \\(y = \\cot x\\) nghịch biến trong \\(\\left( {0;\\;\\frac{\\pi }{2}} \\right)\\) ."
+      ],
+      "answer": "A",
+      "note": "A Trên khoảng \\(\\left( {0;\\;\\frac{\\pi }{2}} \\right)\\) thì hàm số \\(y = \\tan x\\) đồng biến."
+    }
+  ]
+}

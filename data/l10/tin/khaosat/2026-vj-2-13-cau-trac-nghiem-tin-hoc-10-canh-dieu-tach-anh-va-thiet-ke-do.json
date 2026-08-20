@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-13-cau-trac-nghiem-tin-hoc-10-canh-dieu-tach-anh-va-thiet-ke-do",
+  "sourceId": "vietjack:2-13-cau-trac-nghiem-tin-hoc-10-canh-die",
+  "grade": "l10",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.13 câu Trắc nghiệm Tin học 10 Cánh diều Tách ảnh và thiết kế đồ họa với kênh alpha có đáp án (Phần 2)",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Chọn đáp án đúng. Kênh alpha là:",
+      "options": [
+        "A. Một lớp ảnh có nền trong suốt.",
+        "B. Một lớp ảnh đặc biệt được tự động tạo ra khi mở một ảnh mới.",
+        "C. Kênh chứa độ trong suốt của tất cả các điểm ảnh của một lớp ảnh.",
+        "D. Kênh chứa thông tin về không gian màu của một ảnh."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Kênh chứa độ trong suốt của tất cả các điểm ảnh của một lớp ảnh được gọi là kênh alpha"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Hãy cho biết phát biểu nào sau đây sai khi làm việc với văn bản trong GIMP",
+      "options": [
+        "A. Trong một văn bản có nhiều chữ ta có thể tô mỗi chữ bằng một màu khác nhau",
+        "B. Trong một văn bản có nhiều chữ ta có thể tùy chỉnh để mỗi chữ có độ cao thấp khác nhau",
+        "C. Có thể lật văn bản bằng công cụ Flip",
+        "D. Có thể đặt văn bản uốn lượn theo một đường cong"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Không thể lật văn bản bằng công cụ Flip"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Dùng công cụ nào trong GIMP để kiểm tra độ trong suốt của ảnh?",
+      "options": [
+        "A. Eraser",
+        "B. Crop",
+        "C. PaintBrush",
+        "D. AirBrush"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Dùng công cụ Eraser để tẩy 1 số chỗ trên ảnh. Nếu tẩy mà xuất hiện lớp caro phía dưới là ảnh có nền trong suốt."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Có mấy bước để thực hiện tách ảnh trong GIMP?",
+      "options": [
+        "A. 1",
+        "B. 2",
+        "C. 3",
+        "D. 4"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C 3 bước để thực hiện tách ảnh đó là: - Chọn ảnh nguồn và thêm kênh alpha vào lớp ảnh; - Chọn đối tượng cần tách ra khỏi nền ảnh; - Tách ảnh khỏi nền"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Đâu là công cụ chọn tự do trong GIMP?",
+      "options": [
+        "A. Phương án A",
+        "B. Phương án B",
+        "C. Phương án C",
+        "D. Phương án D"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C là biểu tượng của công cụ chọn tự do – Free Select."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong GIMP để chuyển kênh alpha sang lớp vùng chọn bằng lệnh nào?",
+      "options": [
+        "A. Layer\\ Transparency\\ Alpha to Selection",
+        "B. Layer\\ Transparency\\ Add Alpha Chanel",
+        "C. Layer\\ Transparency\\ Add to Selection",
+        "D. Các đáp án trên đều sai"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Để chuyển kênh alpha của lớp sang vùng chọn, dùng lệnh Layer\\ Transparency\\ Alpha to Selection hoặc chuột phải vào tên lớp, chọn Alpha to Selection."
+    }
+  ]
+}

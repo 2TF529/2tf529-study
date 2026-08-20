@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-de-thi-cuoi-ki-1-toan-10-nam-2025-2026-thpt-kim-lien-ha-noi-co-da",
+  "sourceId": "vietjack:de-thi-cuoi-ki-1-toan-10-nam-2025-2026-t",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "cuoiki1",
+  "year": 2026,
+  "title": "Đề thi cuối kì 1 Toán 10 năm 2025-2026 THPT Kim Liên (Hà Nội) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn (3,0 điểm). Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh chỉ chọn một phương án. Trong mặt phẳng tọa độ \\(Oxy\\) , cho các điểm \\(M\\left( {2;0} \\right)\\) , \\(N\\left( {2;2} \\right)\\) , \\(P\\left( { - 1;3} \\right)\\) lần lượt là trung điểm các cạnh \\(BC\\) , \\(CA\\) , \\(AB\\) của tam giác \\(ABC\\) . Tọa độ của điểm \\(B\\) là:",
+      "options": [
+        "A. \\(B\\left( { - 1; - 1} \\right)\\) .",
+        "B. \\(B\\left( { - 1;1} \\right)\\) .",
+        "C. \\(B\\left( {1;1} \\right)\\) .",
+        "D. \\(B\\left( {1; - 1} \\right)\\) ."
+      ],
+      "answer": "B",
+      "note": "Vì \\(P,M,N\\) lần lượt là trung điểm của \\(AB,BC,CA\\) nên ta chứng minh được \\(\\overrightarrow {BM} = \\overrightarrow {PN} \\). Từ đo suy ra \\(\\left\\{ \\begin{array}{l}{x_M} - {x_B} = {x_N} - {x_P}\\\\{y_M} - {y_B} = {y_N} - {y_P}\\end{array} \\right. \\Rightarrow \\left\\{ {\\begin{array}{*{20}{c}}{{x_B} = {x_P} + {x_M} - {x_N} = - 1 + 2 - 2 = - 1}\\\\{{y_B} = {y_P} + {y_M} - {y_N} = 3 + 0 - 2 = 1}\\end{array}} \\right.\\). Do đó, tọa độ điểm \\(B\\) là \\(B\\left( { - 1;1} \\right)\\). Chọn B."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Trong mặt phẳng tọa độ \\(Oxy\\) , cho hai vectơ \\(\\vec a = \\left( {4;3} \\right)\\) và \\(\\vec b = \\left( {1;7} \\right)\\) . Góc giữa hai vectơ \\(\\vec a\\) và \\(\\vec b\\) có số đo bằng:",
+      "options": [
+        "A. \\(90^\\circ \\) .",
+        "B. \\(60^\\circ \\) .",
+        "C. \\(45^\\circ \\) .",
+        "D. \\(30^\\circ \\) ."
+      ],
+      "answer": "C",
+      "note": "Áp dụng công thức tính góc giữa hai vectơ: \\(\\cos \\left( {\\vec a,\\vec b} \\right) = \\frac{{\\vec a \\cdot \\vec b}}{{\\left| {\\vec a\\left| \\cdot \\right|\\vec b} \\right|}} = \\frac{{4 \\cdot 1 + 3 \\cdot 7}}{{\\sqrt {{4^2} + {3^2}} \\cdot \\sqrt {{1^2} + {7^2}} }} = \\frac{{25}}{{5 \\cdot \\sqrt {50} }} = \\frac{{25}}{{25\\sqrt 2 }} = \\frac{{\\sqrt 2 }}{2}\\). Suy ra \\(\\left( {\\vec a,\\vec b} \\right) = 45^\\circ \\). Chọn C."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trong các câu sau, câu nào không phải là mệnh đề?",
+      "options": [
+        "A. Số 5 là số nguyên tố.",
+        "B. \\(\\pi + 1 < 4\\) .",
+        "C. Phương trình \\(3{x^2} - x - 4 = 0\\) có nghiệm nguyên.",
+        "D. Trường Kim Liên đẹp quá!"
+      ],
+      "answer": "D",
+      "note": "Câu “Trường Kim Liên đẹp quá!” là câu cảm thán, không thể xác định tính đúng hay sai, nên không phải là mệnh đề. Chọn D."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho số gần đúng \\(\\overline a = 4,1356 \\pm 0,001\\) . Số quy tròn của số gần đúng \\(4,1356\\) là:",
+      "options": [
+        "A. \\(4,135\\) .",
+        "B. \\(4,13\\) .",
+        "C. \\(4,14\\) .",
+        "D. \\(4,136\\) ."
+      ],
+      "answer": "C",
+      "note": "Độ chính xác \\(d = 0,001\\) ở hàng phần nghìn, do đó ta quy tròn số \\(a = 4,1356\\) đến hàng phần trăm (sau hàng phần nghìn một hàng). Chữ số ngay sau hàng phần trăm là \\(5 \\ge 5\\), nên ta cộng 1 đơn vị vào chữ số hàng phần trăm: \\(4,1356 \\approx 4,14\\). Chọn C."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Phần không gạch chéo thuộc hình nào sau đây biểu diễn miền nghiệm của bất phương trình \\(3x + 2y > - 6\\)?",
+      "options": [
+        "A. Phương án A",
+        "B. Phương án B",
+        "C. Phương án C",
+        "D. Phương án D"
+      ],
+      "answer": "B",
+      "note": "Đường thẳng ranh giới là \\(d:3x + 2y = - 6\\). Với \\(x = 0 \\Rightarrow y = - 3\\), đường thẳng qua điểm \\(\\left( {0; - 3} \\right)\\). Với \\(y = 0 \\Rightarrow x = - 2\\), đường thẳng qua điểm \\(\\left( { - 2;0} \\right)\\). Thử tọa độ gốc tọa độ \\(O\\left( {0;0} \\right)\\): . Do đó, miền nghiệm là nửa mặt phẳng bờ \\(d\\) chứa gốc tọa độ \\(O\\left( {0;0} \\right)\\) (không tính đường thẳng \\(d\\)). Đối chiếu với các hình vẽ: Hình B có đường thẳng đi qua \\(\\left( { - 2;0} \\right)\\) và \\(\\left( {0; - 3} \\right)\\), phần không bị gạch chéo chứa gốc tọa độ \\(O\\left( {0;0} \\right)\\). Chọn B."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho tam giác \\(ABC\\) , gọi \\(M\\) là trung điểm của \\(BC\\) và \\(G\\) là trọng tâm của tam giác \\(ABC\\) . Câu nào sau đây đúng?",
+      "options": [
+        "A. \\(\\overrightarrow {GB} + \\overrightarrow {GC} = 2\\overrightarrow {GA} \\) .",
+        "B. \\(\\overrightarrow {GB} + \\overrightarrow {GC} = 2\\overrightarrow {GM} \\) .",
+        "C. \\(\\overrightarrow {GB} + \\overrightarrow {GC} = \\overrightarrow {GA} \\) .",
+        "D. \\(\\overrightarrow {GB} + \\overrightarrow {GC} = \\overrightarrow {GM} \\) ."
+      ],
+      "answer": "B",
+      "note": "Vì \\(M\\) là trung điểm của \\(BC\\), theo quy tắc trung điểm với điểm \\(G\\) bất kỳ, ta có: \\(\\overrightarrow {GB} + \\overrightarrow {GC} = 2\\overrightarrow {GM} \\). Chọn B."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Cho \\(\\cos x = \\frac{1}{2}\\) . Tính giá trị biểu thức \\(P = 3{\\sin ^2}x + 4{\\cos ^2}x\\) .",
+      "options": [
+        "A. \\(\\frac{{15}}{4}\\) .",
+        "B. \\(\\frac{{13}}{4}\\) .",
+        "C. \\(\\frac{{11}}{4}\\) .",
+        "D. \\(\\frac{7}{4}\\) ."
+      ],
+      "answer": "B",
+      "note": "Ta có \\({\\sin ^2}x = 1 - {\\cos ^2}x = 1 - {\\left( {\\frac{1}{2}} \\right)^2} = \\frac{3}{4}\\). Thay vào biểu thức \\(P\\): \\(P = 3 \\cdot \\frac{3}{4} + 4 \\cdot {\\left( {\\frac{1}{2}} \\right)^2} = \\frac{9}{4} + 1 = \\frac{{13}}{4}\\). Chọn B."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho hình bình hành \\(ABCD\\) tâm \\(O\\) . Khẳng định nào dưới đây sai?",
+      "options": [
+        "A. \\(\\overrightarrow {AD} = \\overrightarrow {BC} \\) .",
+        "B. \\(\\overrightarrow {AB} = \\overrightarrow {DC} \\) .",
+        "C. \\(\\overrightarrow {OA} = \\overrightarrow {OB} \\) .",
+        "D. \\(\\overrightarrow {OA} = \\overrightarrow {CO} \\) ."
+      ],
+      "answer": "C",
+      "note": "Trong hình bình hành \\(ABCD\\), hai vectơ \\(\\overrightarrow {OA} \\) và \\(\\overrightarrow {OB} \\) không cùng hướng (và không cùng độ dài trừ trường hợp đặc biệt), nên \\(\\overrightarrow {OA} = \\overrightarrow {OB} \\) là khẳng định sai. Chọn C."
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-toan-10-canh-dieu-phuong-trinh-duong-thang-c",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-toan-10-canh-dieu-p",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu  Trắc nghiệm Toán 10 Cánh Diều Phương trình đường thẳng có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Vectơ nào dưới đây là một vectơ chỉ phương của đường thẳng song song với trục Ox?",
+      "options": [
+        "A. (1 ; 0);",
+        "B. (2; 0);",
+        "C. ( – 1; 2);",
+        "D. (1; 1)."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A Trục Ox : y = 0 có VTCP \\[\\vec i\\left( {1;0} \\right)\\] nên một đường thẳng song song với Ox cũng có VTCP là \\[\\vec i\\left( {1;0} \\right)\\] ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Vectơ nào dưới đây là một vectơ chỉ phương của đường thẳng song song với trục Oy?",
+      "options": [
+        "A. (2; –1);",
+        "B. (0; 1);",
+        "C. (3; 0);",
+        "D. (2; 2)."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải Đáp án đúng là: B Trục Oy : x = 0 có VTCP \\[\\vec j\\left( {0;1} \\right)\\] nên một đường thẳng song song với Oy cũng có VTCP là \\[\\vec j\\left( {0;1} \\right)\\] ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Vectơ nào dưới đây là một vectơ chỉ phương của đường thẳng đi qua gốc tọa độ O(0; 0) và điểm M(a; b)?",
+      "options": [
+        "A. (– a; – b);",
+        "B. (a; b);",
+        "C. (1; a);",
+        "D. (1; b)."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải Đáp án đúng là: B Ta có: \\[\\overrightarrow {OM} = \\left( {a;b} \\right)\\] \\[ \\Rightarrow \\] đường thẳng OM có VTCP: \\[\\vec u = \\overrightarrow {OM} = \\left( {a;b} \\right).\\]"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Vectơ nào dưới đây là một vectơ pháp tuyến của đường thẳng đi qua hai điểm A(a; 0) và B(0; b)?",
+      "options": [
+        "A. (a; – b);",
+        "B. (a; b);",
+        "C. (– b; a);",
+        "D. (b; a)."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A Ta có: \\[\\overrightarrow {AB} = \\left( { - a;b} \\right)\\] \\[ \\Rightarrow \\] đường thẳng AB có VTCP \\[\\overrightarrow {AB} = \\left( { - a;b} \\right)\\] hoặc \\[\\vec u = - \\overrightarrow {AB} = \\left( {a; - b} \\right).\\] \\[ \\Rightarrow \\] đường thẳng AB có VT PT là \\(\\overrightarrow n \\left( {b;a} \\right)\\) ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Một đường thẳng có bao nhiêu vectơ chỉ phương?",
+      "options": [
+        "A. 2;",
+        "B. 5;",
+        "C. 7;",
+        "D. Vô số."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải Đáp án đúng là: D Một đường thẳng có vô số vectơ chỉ phương"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-6-10-bai-tap-xac-dinh-cac-dai-luong-dua-vao-do-thi-x-v-a-co-loi-g",
+  "sourceId": "vietjack:6-10-bai-tap-xac-dinh-cac-dai-luong-dua-",
+  "grade": "l11",
+  "subjectSlug": "li",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "6.10 Bài tập Xác định các đại lượng dựa vào đồ thị x – v – a (có lời giải)",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Một vật dao động điều hòa trên trục Ox. Hình bên là đồ thị biểu diễn sự phụ thuộc của vận tốc v vào thời gian t. Tần số của dao động là",
+      "options": [
+        "A. 1,0 Hz.",
+        "B. 2,0 Hz.",
+        "C. 1,5 Hz.",
+        "D. 0,5 Hz"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là A Ta có 3 T 4 = 0 , 75 ⇒ T = l s. Vậy f = 1 T = 1 Hz."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Một vật dao động điều hòa trên trục Ox. Hình bên là đồ thị biểu diễn sự phụ thuộc của li độ x vào thời gian t. Tần số góc của dao động là",
+      "options": [
+        "A. 10 rad/s .",
+        "B. 10π rad / s .",
+        "C. 5π rad/s .",
+        "D. 5 rad/s ."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là C Ta có T 2 = 0 , 2 ⇒ T = 0 , 4 s . Vậy ω = 2π T = 5π rad/s."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Một vật dao động điều hòa trên trục Ox. Hình bên là đồ thị biểu diễn sự phụ thuộc của li độ x vào thời gian t. Phương trình vận tốc của vật là",
+      "options": [
+        "A. v = 4πcos(πt) cm/s",
+        "B. v = 2πcos(πt) cm/s.",
+        "C. v = 4πcos(πt + π/2) cm/s.",
+        "D. v = 8πcos(πt + π / 2) cm/s."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là C Ta có A = 4 cm. Và 3T 4 = 1,5 ⇒ T = 2 ⇒ ω = π rad/s. Pha ban đầu φ 0 = 0 ⇒ x = 4 cos π t cm ⇒ v = 4πcos πt + π 2 cm/s ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Một vật dao động điều hòa trên trục Ox. Hình bên là đồ thị biểu diễn sự phụ thuộc của li độ x vào thời gian t. Phương trình gia tốc của vật là",
+      "options": [
+        "A. a = π 2 cos π 2 t cm/s 2 .",
+        "B. a = 2π 2 cos π 2 t cm/s 2 .",
+        "C. a = 2π 2 cos πt + π 2 cm/s 2 .",
+        "D. a = π 2 cos πt + π 2 cm/s 2 ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là A Ta có A = 4 cm. Và T 4 = 1 , 0 ⇒ T = 4 ⇒ ω = π 2 rad/s. Pha ban đầu φ 0 = π ⇒ x = 4cos πt 2 + π cm ⇒ a = π 2 cos πt 2 cm/s 2 ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Một vật dao động điều hòa trên trục Ox Hình bên là đồ thị biểu diễn sự phụ thuộc của li độ x vào thời gian t. Biết rằng t 2 - t 1 = 0,75 s. Khi x = 3 cm thì gia tốc của vật là",
+      "options": [
+        "A. 12π cm/s 2 .",
+        "B. 8π cm/s 2 .",
+        "C. -12π 2 cm/s 2 .",
+        "D. -8π cm/s 2 ."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là C Dựa vào đồ thị ta có t 2 - t 1 = 3T 4 = 0,75 ⇒ T = 1,0 ⇒ ω = 2π T = 2π rad/s. Vậy a = -ω 2 x = - 2π 2 .3 = -12π 2 cm/s 2 ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Một vật dao động điều hòa dọc theo trục Ox. Hình bên là đồ thị biểu diễn sự phụ thuộc của li độ x vào thời gian t. Tần số góc của dao động",
+      "options": [
+        "A. 10 rad/s.",
+        "B. 10 π rad/s.",
+        "C. 5 π rad/s.",
+        "D. 5 rad/s."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là C Ta có T 2 = 0 , 2 ⇒ T = 0 , 4 s ⇒ ω = 2 π T = 5 π rad/s."
+    }
+  ]
+}

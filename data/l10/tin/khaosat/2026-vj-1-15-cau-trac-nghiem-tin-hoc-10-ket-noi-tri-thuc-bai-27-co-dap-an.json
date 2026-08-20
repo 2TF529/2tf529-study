@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-10-ket-noi-tri-thuc-bai-27-co-dap-an",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-10-ket-noi-",
+  "grade": "l10",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu trắc nghiệm Tin học 10 Kết nối tri thức Bài 27 có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Khi khai báo hàm, thành phần nào được định nghĩa và được dùng như biến trong hàm?",
+      "options": [
+        "A. Tham số.",
+        "B. Đối số.",
+        "C. Dữ liệu.",
+        "D. Giá trị."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Tham số được định nghĩa khi khai báo hàm và dùng như biến trong hàm."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Chọn phát biểu đúng trong các phát biểu sau:",
+      "options": [
+        "A. Lời gọi hàm không có lỗi nếu tham số được truyền chưa có giá trị.",
+        "B. Số lượng giá trị được truyền vào hàm bằng số tham số trong khai báo của hàm.",
+        "C. Tham số là giá trị được truyền vào khi gọi hàm.",
+        "D. Cả 3 phát biểu trên đều đúng."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Lời gọi hàm có lỗi nếu tham số được truyền chưa có giá trị. Đối số là giá trị được truyền vào khi gọi hàm."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Phát biểu nào bị sai ?",
+      "options": [
+        "A. Một hàm khi khai báo có một tham số nhưng khi gọi hàm có thể có 2 đối số.",
+        "B. Tham số được định nghĩa khi khai báo hàm.",
+        "C. Tham số và đối số có một số điểm khác nhau.",
+        "D. Khi gọi hàm, các tham số sẽ được truyền bằng giá trị thông qua đối số của hàm."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Một hàm khi khai báo có một tham số nhưng khi gọi hàm không thể có 2 đối số."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Giả sử hàm f có hai tham số khi khai báo. Khi gọi hàm, 2 giá trị đối số nào truyền vào sẽ gây lỗi?",
+      "options": [
+        "A. 2, 3.",
+        "B. 10, c.",
+        "C. “a”, “b”.",
+        "D. “a”, “3”."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Giá trị của c chưa xác định nên sẽ gây lỗi."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Khi gọi hàm f(1, 2, 3), khi định nghĩa hàm f có bao nhiêu tham số?",
+      "options": [
+        "A. 1.",
+        "B. 2.",
+        "C. 3.",
+        "D. 4."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Do có 3 đối số nên f cần có 3 tham số."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Các tham số của f có kiểu dữ liệu gì nếu hàm f được gọi như sau: f( ‘5.0’)",
+      "options": [
+        "A. str",
+        "B. float.",
+        "C. int.",
+        "D. Không xác định."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A “5.0” nên kiểu tham số là kiểu xâu."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-8-10-bai-tap-chung-minh-ba-diem-thang-hang-co-loi-giai",
+  "sourceId": "vietjack:8-10-bai-tap-chung-minh-ba-diem-thang-ha",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "8.10 Bài tập Chứng minh ba điểm thẳng hàng (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho tam giác ABC có trọng tâm G, lấy các điểm I, J thỏa mãn: I A → = 2 I B → , 3 J A → + 2 J C → = 0 → . Ba điểm nào sau đây thẳng hàng ?",
+      "options": [
+        "A. A, B, G;",
+        "B. A, C, G;",
+        "C. A, I, G;",
+        "D. I, J, G."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải: Đáp án đúng là: D. + Vì G là trọng tâm tam giác ABC nên G nằm trong tam giác ABC, do đó ba điểm A, B, G và A, C, G không thể thẳng hàng. + Vì I A → = 2 I B → nên A, I, B thẳng hàng và I không phải trung điểm AB nên A, I, G không thẳng hàng. + Ta có: G là trọng tâm tam giác ABC nên: J A → + J B → + J C → = 3 J G → ⇔ 2 J A → + 2 J B → + 2 J C → = 6 J G → Mà: 3 J A → + 2 J C → = 0 → ⇒ 2 J C → = − 3 J A → Nên: 2 J A → + 2 J B → − 3 J A → = 6 J G → ⇔ 2 J B → = 6 J G → + J A → Mặt khác: I A → = 2 I B → ⇔ I J → + J A → = 2 I J → + 2 J B → Mà 2 J B → = 6 J G → + J A → nên ta lại có: I J → + J A → = 2 I J → + 6 J G → + J A → ⇔ I J → = − 6 J G → Vậy I, J, G thẳng hàng."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho điểm A, B, C sao cho: C A → − 2 C B → = 0 → . Cho điểm M bất kỳ trong mặt phẳng và gọi M N → là vectơ định bởi M N → = M A → − 2 M B → . Ba điểm nào sau đây thẳng hàng ?",
+      "options": [
+        "A. M, N, A;",
+        "B. M, B, A;",
+        "C. M, N, C;",
+        "D. A, N, B."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải: Đáp án đúng là: C. Ta có: C A → − 2 C B → = 0 → ⇔ C A → − C B → = C B → ⇔ B A → = C B → ⇔ B C → + C A → = C B → ⇔ C A → − 2 C B → = 0 → Mặt khác ta có: M N → = M A → − 2 M B → = M C → + C A → − 2 M C → + C B → = − M C → + C A → − 2 C B → = − M C → ⇒ M N → = − M C → Vậy M, N, C thẳng hàng."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho tam giác ABC, lấy các điểm M, N, P thỏa mãn: M A → + M B → = 0 → , 3 A N → − 2 A C → = 0 → , P B → = 2 P C → . Ba điểm nào sau đây thẳng hàng ?",
+      "options": [
+        "A. M, N, P;",
+        "B. A, M, B;",
+        "C. A, N, C;",
+        "D. M, N, B."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A. Ta có: 3 A N → − 2 A C → = 0 → ⇔ 3 A M → + 3 M N → − 2 A P → − 2 P C → = 0 → (quy tắc ba điểm) ⇔ A M → + 3 M N → + 2 P M → − 2 P C → = 0 → Mà: A M → = M B → và 2 P C → = P B → nên ta có: A M → + 3 M N → + 2 P M → − 2 P C → = 0 → ⇔ M B → + 3 M N → + 2 P M → + B P → = 0 ⇔ M P → + 3 M N → + 2 P M → = 0 ⇔ 3 M N → = M P → . Vậy M, N, P thẳng hàng."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hình bình hành ABCD. Trên đoạn BC lấy điểm H, trên đoạn BD lấy điểm K sao cho: BH = CH, DK = 2BK. Ba điểm nào sau đây thẳng hàng ?",
+      "options": [
+        "A. A, K, H;",
+        "B. A, B, C;",
+        "C. A, K, C;",
+        "D. B, K, H."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A. Ta có: A K → = A B → + B K → = A B → + 1 3 B D → = A B → + 1 3 A D → − A B → = 2 3 A B → + 1 3 A D → ⇒ 3 A K → = 2 A B → + A D → (1) Lại có: A H → = A B → + B H → = A B → + 1 2 B C → Do ABCD là hình bình hành nên ta có: B C → = A D → Do đó, ta có: A H → = A B → + 1 2 A D → ⇒ 2 A H → = 2 A B → + A D → (2) Từ (1) và (2) ⇒ 3 A K → = 2 A H → ⇔ A K → = 2 3 A H → Vậy A, K, H thẳng hàng."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hình bình hành ABCD. Trên BC lấy điểm H, trên BD lấy điểm K sao cho: B H → = 1 5 B C → , B K → = 1 6 B D → . Ba điểm nào sau đây thẳng hàng ?",
+      "options": [
+        "A. A, K, H;",
+        "B. A, B, C;",
+        "C. A, K, C;",
+        "D. B, K, H."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A. Ta có: A K → = A B → + B K → = A B → + 1 6 B D → = A B → + 1 6 A D → − A B → = 5 6 A B → + 1 6 A D → ⇒ 6 A K → = 5 A B → + A D → (1) A H → = A B → + B H → = A B → + 1 5 B C → Do ABCD là hình bình hành nên ta có: B C → = A D → Do đó, ta có: A H → = A B → + 1 5 A D → ⇒ 5 A H → = 5 A B → + A D → (2) Từ (1) và (2) ⇒ 6 A K → = 5 A H → ⇔ A K → = 5 6 A H → Vậy A, K, H thẳng hàng."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho tam giác ABC có M, N, P thỏa mãn: M B → = 3 M C → , N A → + 3 N C → = 0 → , P A → + P B → = 0 → . Ba điểm nào sau đây thẳng hàng ?",
+      "options": [
+        "A. A, B, C;",
+        "B. M, N, A;",
+        "C. M, N, P;",
+        "D. B, N, C."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải: Đáp án đúng là: C. Ta có: P A → + P B → = 0 → ⇔ − A P → + P B → = 0 ⇔ − A P → + A B → − A P → = 0 → ⇔ A P → = 1 2 A B → N A → + 3 N C → = 0 → ⇔ − A N → + 3 A C → − A N → = 0 → ⇔ 4 A N → = 3 A C → ⇔ A N → = 3 4 A C → M B → = 3 M C → ⇔ A B → − A M → = 3 A C → − A M → ⇔ 2 A M → = 3 A C → − A B → ⇔ A M → = 3 2 A C → − 1 2 A B → Do đó, có: M P → = A P → − A M → = 1 2 A B → − 3 2 A C → + 1 2 A B → = A B → − 3 2 A C → M N → = A N → − A M → = 3 4 A C → − 3 2 A C → + 1 2 A B → = 1 2 A B → − 3 4 A C → ⇒ M P → = 2 M N → Vậy M, N, P thẳng hàng."
+    }
+  ]
+}

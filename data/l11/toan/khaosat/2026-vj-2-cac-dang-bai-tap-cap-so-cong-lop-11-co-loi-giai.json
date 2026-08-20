@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-2-cac-dang-bai-tap-cap-so-cong-lop-11-co-loi-giai",
+  "sourceId": "vietjack:2-cac-dang-bai-tap-cap-so-cong-lop-11-co",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.Các dạng bài tập Cấp số cộng lớp 11 (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Trong các dãy số dưới đây, dãy số nào là một cấp số cộng?",
+      "options": [
+        "A. (u n ) : 1 ; 1 ; 2 ; 3 ; 5 ; …;",
+        "B. (v n ) : 0 ; 2 ; 4 ; 6 ; 8 ; …;",
+        "C. (w n ) : 1 ; –1 ; 1 ; –1 ; …;",
+        "D. (t n ) : 2 ; 4 ; 8 ; 16 ; 32 ; …."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Có v 1 = 0, v 2 = 2, v 3 = 4, v 4 = 6, v 5­ = 8. Dễ thấy các số hạng của dãy số (v n ) là các số chẵn có hiệu giữa hai phần tử liên tiếp là 2 đơn vị. Do đó (v n ) là một cấp số cộng."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho các dãy số sau: (1): 0 ; 5 ; 10 ; 15 ; 20 ; … (2): 1 ; 4 ; 9 ; 16 ; 25 ; … (3): 3 ; 5 ; 7 ; 9 ; 11 ; 13 ; … (4): 5 ; –1 ; –7 ; –13 ; –19 ; … Các dãy số là cấp số cộng là",
+      "options": [
+        "A. 1 ; 2 ; 3;",
+        "B. 1;",
+        "C. 2 ; 3;",
+        "D. 1 ; 3 ; 4;"
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D • Xét dãy (1) là dãy số có hiệu 2 phần tử liên tiếp là: 5 – 0 = 10 – 5 = … = 5 \\(\\Rightarrow \\) Dãy (1) là cấp số cộng. • Xét dãy (2) là dãy số có hiệu 2 phần tử liên tiếp là: 4 – 1 = 3; 9 – 4 = 5; … khác nhau \\(\\Rightarrow \\) Dãy (2) không phải cấp số cộng. • Xét dãy (3) là dãy số có hiệu 2 phần tử liên tiếp là: 5 – 3 = 7 – 5 = … = 2 \\(\\Rightarrow \\) Dãy (3) là cấp số cộng. • Xét dãy (4) là dãy số có hiệu 2 phần tử liên tiếp là: – 1 – 5 = –7 – (– 1) = … = – 6 \\(\\Rightarrow \\) Dãy ( 4 ) là cấp số cộng. Vậy các dãy số thỏa mãn là cấp số cộng là: 1 ; 3 ; 4."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trong các dãy số dưới đây, dãy số không phải là một cấp số cộng?",
+      "options": [
+        "A. (u n ) : 0 ; 2 ; 4 ; 6 ; 8 ; …;",
+        "B. (v n ) : 1 ; 5 ; 9 ; 13 ; 17 ; …;",
+        "C. (w n ) : 2 ; –6 ; 18 ; –54 ; …;",
+        "D. (t n ) : 6 ; 12 ; 18 ; 24 ; 30 ; …."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Có w 1 = 2, w 2 = –6, w 3 = 18, w 4 = –54. n w n + 1 – w n 1 –8 2 –24 3 –72 \\(\\Rightarrow \\) Ta kết luận w n không phải một cấp số cộng. Vậy D là đáp án đúng."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Trong các dãy số dưới đây, dãy số nào là một cấp số cộng?",
+      "options": [
+        "A. –13n + 27;",
+        "B. –13n 2 + 27n;",
+        "C. − 13 n + 27 ;",
+        "D. (– 13) n + 27."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có: u n + 1 = −13(n + 1) + 27 = −13n + 14 \\(\\Rightarrow \\) u n + 1 − u n = (−13n + 14) − (−13n + 27) = −13 Suy ra: (u n ) là cấp số cộng với công sai d = −13."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Dãy số nào dưới đây không là cấp số cộng?",
+      "options": [
+        "A. u n = −3 − 8n;",
+        "B. u n = n + 2;",
+        "C. u n = 3n;",
+        "D. u n = 3. (−4) n − 8."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D • Xét phương án A: u n = −3 − 8n . Ta có u n + 1 = −3 − 8(n + 1) = −11 − 8n \\(\\Rightarrow \\) u n + 1 − u n = (−11 − 8n) − (−3 − 8n) = −8 \\(\\Rightarrow \\) (u n ) : u n = −3 − 8n là một cấp số cộng với công sai d = −8. • Xét phương án B: u n = n + 2 . Ta có u n + 1 = n + 1+ 2 = n + 3; \\(\\Rightarrow \\) u n + 1 − u n = (n + 3) − (n + 2) = 1 \\(\\Rightarrow \\) (u n ) : u n = n + 2 là một cấp số cộng với công sai d = 1. • Xét phương án C: u n = 3n . Ta có u n + 1 = 3(n + 1) = 3n + 3; \\(\\Rightarrow \\) u n + 1 − u n = 3n + 3 – 3n = 3 \\(\\Rightarrow \\) C (u n ) là một cấp số cộng với công sai d = 3. • Xét phương án D: u n = n + 2: Ta có u n + 1 = 3.(−4) n + 1 − 8; \\(\\Rightarrow \\) u n + 1 − u n = [3.(−4) n + 1 − 8] − [ 3.(−4) n − 8] = 3.(−4) n + 1 − 3.(−4) n . \\(\\Rightarrow \\) (u n + 1 − u n ) không phải là hằng số; còn phụ thuộc vào n. Nên dãy số (u n ) không là cấp số cộng. \\(\\Rightarrow \\) D đúng."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong các dãy số dưới đây, dãy số nào là một cấp số cộng?",
+      "options": [
+        "A. \\({u_n} = \\frac{1}{{n + 2}};\\)",
+        "B. \\[{u_n} = \\frac{{{n^2} - 2}}{n};\\]",
+        "C. \\({u_n} = \\frac{{{2^n}}}{n};\\)",
+        "D. \\(\\left\\{ \\begin{array}{l}{u_1} = 2\\\\{u_{n + 1}} = \\sqrt {2 + {u_n}} \\end{array} \\right.\\) ."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Ta có: u 2 = 2; u 3 = 2; u 4 = 2; u 5 = 2... Dự đoán: u n = 2 ∀ n ∈ ℕ * . Ta chứng minh u n = 2 bằng phương pháp quy nạp: + Với n = 1 ta có: u 1 = 2 nên đúng với n = 1. + Giả sử đúng với n = k, tức là: u k = 2. Ta chứng minh dãy số đúng với n = k + 1 hay u k + 1 = 2. Theo giả thiết ta có: \\[{u_{k + 1}} = \\sqrt {2 + {u_k}} = \\sqrt {2 + {\\rm{2}}} = 2\\] \\(\\Rightarrow \\) Đúng với n = k + 1, suy ra điều phải chứng minh. Vậy với mọi n ta có: u n = u n + 1 nên u n + 1 − u n = 0. \\(\\Rightarrow \\) Dãy số (u n ) là cấp số cộng với công sai d = 0."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Cho các dãy số sau, dãy số nào là cấp số cộng?",
+      "options": [
+        "A. \\({u_n} = \\frac{{n + 1}}{{n + 2}}\\) ;",
+        "B. u n = n 2 + 2n + 2;",
+        "C. u n = n + 10;",
+        "D. u n = 2 n + 3."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có: u n + 1 – u­ n = (n + 1) + 10 – n – 10 = 1 \\(\\Rightarrow \\) u n là cấp số cộng có công sai bằng 1."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho các dãy số sau đây: v n = −2n 2 + n + 1; \\({u_n} = \\frac{1}{{2n - 3}}\\) ; \\[{w_n} = \\frac{{{n^2} + 2n}}{{{n^2}}}\\] .Có bao nhiêu dãy số là cấp số cộng?",
+      "options": [
+        "A. 0;",
+        "B. 1;",
+        "C. 2;",
+        "D. 3."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A • Ta có: v n+1 = −2(n + 1) 2 + (n + 1) + 1= −2n 2 − 3n Xét hiệu: v n + 1 − v n = (−2n 2 − 3n) − (−2n 2 + n + 1) = −4n – 1. Do đó, hiệu (v n + 1 − v n ) còn phụ thuộc vào n nên (v n ) không là cấp số cộng. • Ta có: u n + 1 = – 2(n + 1) 2 + (n + 1) + 1 Xét hiệu: u n + 1 − u n = −2(n + 1) 2 + 2n 2 + 1 = – 4n – 1 phụ thuộc vào n. \\(\\Rightarrow \\) (u n ) không là cấp số cộng. + Ta có: \\({w_1} = - 1\\,;\\,\\,{w_2} = 1\\,;\\,\\,{w_3} = \\frac{1}{3}\\) \\(\\Rightarrow \\) w 3 − w 2 ≠ w 2 − w 1 nên dãy số (w n ) không phải là cấp số cộng."
+    }
+  ]
+}

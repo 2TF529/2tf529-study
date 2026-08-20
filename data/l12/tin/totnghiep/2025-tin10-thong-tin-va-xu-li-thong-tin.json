@@ -1,0 +1,195 @@
+{
+  "id": "data-l10-tin-khaosat-2025-tin10-thong-tin-va-xu-li-thong-tin",
+  "grade": "l12",
+  "subjectSlug": "tin",
+  "examType": "totnghiep",
+  "year": 2025,
+  "code": "Bài 1",
+  "title": "Tin học 10 - Thông tin và xử lí thông tin",
+  "duration": 15,
+  "answerSource": "official",
+  "sourceId": "hochanh:5968",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Thông tin khi đưa vào máy tính, chúng đều được biến đổi thành dạng chung đó là:",
+      "options": [
+        "A. Văn bản.",
+        "B. Âm thanh .",
+        "C. Hình ảnh .",
+        "D. Dãy bit ."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Quá trình xử lí thông tin gồm các bước nào?",
+      "options": [
+        "A. Tiếp nhận dữ liệu, xử lí dữ liệu, đưa ra kết quả.",
+        "B. Tiếp nhận thông tin, xử lí thông tin, đưa ra kết quả.",
+        "C. Tiếp nhận thông tin, chuyển thành dữ liệu, tính toán dữ liệu, đưa ra kết quả.",
+        "D. Cả ba đáp án đều sai."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Thông tin là gì?",
+      "options": [
+        "A. Các văn bản và số liệu.",
+        "B. Tất cả những gì mang lại cho chúng ta hiểu biết.",
+        "C. Văn bản, hình ảnh, âm thanh.",
+        "D. Hình ảnh, âm thanh ."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Chọn câu đúng trong các câu sau:",
+      "options": [
+        "A. 1MB = 1024KB .",
+        "B. 1 P B = 1024 GB .",
+        "C. 1ZB = 1024PB .",
+        "D. 1Bit = 1024B ."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Phát biểu nào sau đây là\nsai\nkhi nói về quan hệ giữa thông tin và dữ liệu?",
+      "options": [
+        "A. Dữ liệu là thông tin đã được đưa vào máy tính.",
+        "B. Thông tin là ý nghĩa của dữ liệu.",
+        "C. Thông tin và dữ liệu có tính độc lập tương đối.",
+        "D. Thông tin không có tính toàn vẹn."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Phát biểu nào sau đây là phù hợp nhất về khái niệm bit?",
+      "options": [
+        "A. Chính chữ số 1.",
+        "B. Một số có 1 chữ số.",
+        "C. Đơn vị đo khối lượng kiến thức.",
+        "D. Đơn vị đo lượng thông tin."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Mã hoá thông tin có mục đích gì?",
+      "options": [
+        "A. Để thay đổi lượng thông tin.",
+        "B. Để chuyển thông tin về dạng câu lệnh của ngôn ngữ máy.",
+        "C. Làm cho thông tin phù hợp với dữ liệu trong máy.",
+        "D. Cả A, B, C đều đúng."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Đơn vị đo lượng thông tin cơ sở là:",
+      "options": [
+        "A. Bit .",
+        "B. GHz .",
+        "C. GB .",
+        "D. Byte ."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "content": "Bản chất quá trình mã hóa thông tin?",
+      "options": [
+        "A. Chuyển dãy hệ nhị phân về hệ đếm khác .",
+        "B. Đưa thông tin vào máy tính.",
+        "C. Chuyển thông tin về bit nhị phân .",
+        "D. Nhận dạng thông tin ."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "content": "Chọn phát biểu đúng trong các câu sau:",
+      "options": [
+        "A. Dữ liệu là thông tin.",
+        "B. RAM là bộ nhớ ngoài .",
+        "C. Đĩa mềm là bộ nhớ trong .",
+        "D. Một byte có 8 bits ."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 11,
+      "type": "single",
+      "content": "1 byte có thể biểu diễn ở bao nhiêu trạng thái khác nhau:",
+      "options": [
+        "A. 65536 .",
+        "B. 256.",
+        "C. 255 .",
+        "D. 8 ."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 12,
+      "type": "single",
+      "content": "Chọn câu\nđúng\ntrong các câu dưới đây?",
+      "options": [
+        "A. Dữ liệu là thông tin đã được đưa vào trong máy tính.",
+        "B. CPU là vùng nhớ đóng vai trò trung gian giữa bộ nhớ và các thanh ghi.",
+        "C. Đĩa cứng là bộ nhớ trong.",
+        "D. 8 bytes = 1 bit ."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 13,
+      "type": "single",
+      "content": "Hãy chọn phương án ghép đúng: Hệ đếm nhị phân được sử dụng phổ biến trong tin học vì....",
+      "options": [
+        "A. Dễ biến đổi thành dạng biểu diễn trong hệ đếm 10.",
+        "B. Là số nguyên tố chẵn duy nhất.",
+        "C. Một mạch điện có hai trạng thái (có điện/không có điện) có thể dùng để thể hiện tương ứng \"1\", \"0\".",
+        "D. Dễ dùng."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 14,
+      "type": "single",
+      "content": "Chọn phát biểu\nsai\ntrong các câu sau:",
+      "options": [
+        "A. Máy tính xử lí đồng thời nhiều byte chứ không xử lí từng byte.",
+        "B. Các bộ phận của máy tính nối với nhau bởi các dây dẫn gọi là các tuyến.",
+        "C. Máy tính xử lí đồng thời một dãy bit chứ không xử lí từng bit.",
+        "D. Modem là một thiết bị hỗ trợ cho cả việc đưa thông tin vào và lấy thông tin ra."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 15,
+      "type": "single",
+      "content": "Hãy chọn phương án ghép đúng: Mã hóa thông tin thành dữ liệu là quá trình",
+      "options": [
+        "A. Chuyển thông tin bên ngoài thành thông tin bên trong máy tính.",
+        "B. Chuyển thông tin về dạng mà máy tính có thể xử lí được.",
+        "C. Chuyển thông tin về dạng mã ASCII.",
+        "D. Thay đổi hình thức biểu diễn để người khác không hiểu được."
+      ],
+      "answer": "B"
+    }
+  ]
+}

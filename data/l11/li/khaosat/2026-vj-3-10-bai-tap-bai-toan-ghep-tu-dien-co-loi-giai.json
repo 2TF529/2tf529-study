@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-3-10-bai-tap-bai-toan-ghep-tu-dien-co-loi-giai",
+  "sourceId": "vietjack:3-10-bai-tap-bai-toan-ghep-tu-dien-co-lo",
+  "grade": "l11",
+  "subjectSlug": "li",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.10 Bài tập Bài toán ghép tụ điện (có lời giải)",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Bộ ba tụ điện C 1 = C 2 = C 3 /2 ghép song song rồi nối vào nguồn có hiệu điện thế 45V thì điện tích của bộ tụ là 18.10 -4 C. Tính điện dung của các tụ điện:",
+      "options": [
+        "A. C 1 = C 2 = 5μF; C 3 = 10 μF",
+        "B. C 1 = C 2 = 8μF; C 3 = 16 μF",
+        "C. C 1 = C 2 = 10μF; C 3 = 20 μF",
+        "D. C 1 = C 2 = 15μF; C 3 = 30 μF"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là C 3 tụ ghép song song Þ U 1 = U 2 = U 3 = U = 45 V và Q 1 + Q 2 + Q 3 = Q Þ C 1 U 1 + C 2 U 2 + C 3 U 3 = Q Þ 4C 1 .U = Q Þ C 1 = Q 4 U = 18.10 − 4 4.45 = 10 -5 F = 10 μF Þ C 3 = 2C 1 = 20 μF"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Hai tụ điện có điện dung C 1 = 2 μF; C 2 = 3 μF mắc nối tiếp nhau. Tính điện dung của bộ tụ:",
+      "options": [
+        "A. 1,8 μF",
+        "B. 1,6 μF",
+        "C. 1,4 μF",
+        "D. 1,2 μF"
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là D C b = C 1 C 2 C 1 + C 2 = 2.3 2 + 3 = 1,2 μF"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Hai tụ điện có điện dung C 1 = 2 μF; C 2 = 3 μF mắc nối tiếp nhau. Đặt vào bộ tụ hiệu điện thế một chiều 50V thì hiệu điện thế của các tụ là:",
+      "options": [
+        "A. U 1 = 30 V; U 2 = 20 V.",
+        "B. U 1 = 20 V; U 2 = 30 V.",
+        "C. U 1 = 10 V; U 2 = 40 V.",
+        "D. U 1 = 250 V; U 2 = 25 V."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là A C b = C 1 C 2 C 1 + C 2 = 2.3 2 + 3 = 1,2 μF Vì tụ ghép nối tiếp nên Q = Q 1 = Q 2 Þ C b .U = C 1 U 1 = C 2 U 2 Þ U 1 = C b . U C 1 = 30 V và U 2 = C b . U C 2 = 20 V {hoặc U 2 = U – U 1 }."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Bốn tụ điện mắc thành bộ theo sơ đồ như hình vẽ. Biết C 1 = 1μF; C 2 = C 3 = 3 μF. Khi nối hai điểm M, N với nguồn điện thì C 1 có điện tích q 1 = 6μC và cả bộ tụ có điện tích q = 15,6 μC. Hiệu điện thế đặt vào bộ tụ đó là:",
+      "options": [
+        "A. 4 V.",
+        "B. 6 V.",
+        "C. 8 V.",
+        "D. 10 V."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là C Từ hình ta có (C 1 nt C 2 ) // (C 3 nt C 4 ) Þ q 1 = q 2 = 6 μC. Ta có U 1 = q 1 C 1 = 6 V và U 2 = q 2 C 2 = 2 V Þ U 12 = U 1 + U 2 = 8 V = U."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Bốn tụ điện mắc thành bộ theo sơ đồ như hình vẽ. Biết C 1 = 1μF; C 2 = C 3 = 3 μF. Khi nối hai điểm M, N với nguồn điện thì C 1 có điện tích q 1 = 6μC và cả bộ tụ có điện tích q = 15,6 μC. Điện dung C 4 là:",
+      "options": [
+        "A. 1 μF.",
+        "B. 2 μF.",
+        "C. 3 μF.",
+        "D. 4 μF."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là B Từ hình ta có (C 1 nt C 2 ) // (C 3 nt C 4 ) Þ q 1 = q 2 = 6 μC; q 3 = q 4 = q – q 1 = 9,6 μC. Mà U 1 = q 1 C 1 = 6 V và U 2 = q 2 C 2 = 2 V Þ U 12 = U 1 + U 2 = 8 V = U. U 3 = q 3 C 3 = 3,2 V Þ U 4 = U – U 3 = 4,8 V Vậy C 4 = q 4 U 4 = 2 μF."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Ba tụ C 1 = 3nF, C 2 = 2nF, C 3 = 20nF mắc như hình vẽ. Nối bộ tụ với hiệu điện thế 30V. Tính điện dung của cả bộ tụ:",
+      "options": [
+        "A. 2 nF.",
+        "B. 3 nF.",
+        "C. 4 nF.",
+        "D. 5 nF."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là C C 1 // C 2 Þ C 12 = C 1 + C 2 = 5 nF C 3 nt C 12 Þ C b = C 3 . C 12 C 3 + C 12 = 4 nF."
+    }
+  ]
+}

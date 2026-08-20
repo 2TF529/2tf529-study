@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-12-bai-toan-lien-quan-den-luc-huong-tam-co-dap-an",
+  "sourceId": "vietjack:2-12-bai-toan-lien-quan-den-luc-huong-ta",
+  "grade": "l10",
+  "subjectSlug": "li",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.12 Bài toán liên quan đến lực hướng tâm có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Một vật nhỏ khối lượng 200 g chuyển động tròn đều trên quỹ đạo bán kính 1 m. Biết trong 1 phút vật quay được 120 vòng. Tính độ lớn lực hướng tâm gây ra chuyển động tròn của vật.",
+      "options": [
+        "A. 316 N.",
+        "B. 31,6 N.",
+        "C. 3,16 N.",
+        "D. 0,316 N"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là B Tốc độ góc: ω = 2 π f = 2 π n t = 2 π .120 60 = 4 π r a d / s ⇒ F h t = m ω 2 R = 0 , 2 4 π 2 .1 ≈ 31 , 6 N"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Một vật nhỏ khối lượng 150 g chuyển động tròn đều trên quỹ đạo bán kính 1,5 m với tốc độ 2 m/s. Độ lớn lực hướng tâm gây ra chuyển động tròn của vật là:",
+      "options": [
+        "A. 0,13 N.",
+        "B. 0,2 N.",
+        "C. 1,0 N.",
+        "D. 0,4 N."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Lực hướng tâm: F h t = m a h t = m v 2 r = 0 , 15. 2 2 1 , 5 = 0 , 4 N"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Một vật đang chuyển động tròn đều dưới tác dụng của lực hướng tâm F. Nếu tăng bán kính quỹ đạo gấp hai lần so với trước và đồng thời giảm tốc độ còn một nửa thì so với ban đầu, lực hướng tâm",
+      "options": [
+        "A. giảm 8 lần.",
+        "B. giảm 4 lần.",
+        "C. giảm 2 lần.",
+        "D. không thay đổi."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Lực hướng tâm: F h t = m a h t = m v 2 r Tăng bán kính quỹ đạo gấp hai lần so với trước và đồng thời giảm tốc độ còn một nửa thì: F ' h t = m v ' 2 r ' = m v 2 2 2 r = 1 8 . m v 2 r"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Chọn đáp án sai . Công thức tính độ lớn lực hướng tâm?",
+      "options": [
+        "A. F h t = m . a h t",
+        "B. F h t = m . v 2 r",
+        "C. F h t = m . r . ω 2",
+        "D. F h t = r . ω 2"
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là : D. D - sai vì công thức độ lớn lực hướng tâm là: F h t = m . a h t = m . v 2 r = m . r . ω 2 ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Một xe đua chạy quanh một đường tròn nằm ngang, bán kính 250 m. Vận tốc xe không đổi có độ lớn là 50 m/s. Khối lượng xe là 2.10 3 k g . Độ lớn của lực hướng tâm của chiếc xe là:",
+      "options": [
+        "A. 10 N.",
+        "B. 4.10 2 N.",
+        "C. 4.10 3 N.",
+        "D. 2 .10 4 N."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là : D. Ta có: F h t = m . a h t = m . v 2 r = 2.10 3 . 50 2 250 = 2.10 4 N."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Một ôtô có khối lượng 1200 kg chuyển động đều qua một đoạn cầu vồng lên (coi là cung tròn) với tốc độ là 36 km/h. Biết bán kính cong của đoạn cầu là 50 m. Lấy g = 10 m / s 2 . Áp lực của ôtô vào mặt đường tại điểm cao nhất?",
+      "options": [
+        "A. 11950 N.",
+        "B. 11760 N.",
+        "C. 1410 N.",
+        "D. 9600 N."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là : D. Đổi 36 km/h = 10 m/s Khi ôtô chuyển động đến vị trí cao nhất trên mặt cầu vồng lên: F → h t = m . a → h t = P → + N → Chiếu lên chiều dương hướng vào tâm quỹ đạo ta có: N = P – F h t = m g – m a h t = m g − m v 2 r ⇒ N = m g − v 2 r = 1200. 10 − 10 2 50 = 9600 N"
+    }
+  ]
+}

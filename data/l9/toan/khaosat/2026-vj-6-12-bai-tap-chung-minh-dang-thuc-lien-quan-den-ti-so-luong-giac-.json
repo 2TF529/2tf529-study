@@ -1,0 +1,52 @@
+{
+  "id": "2026-vj-6-12-bai-tap-chung-minh-dang-thuc-lien-quan-den-ti-so-luong-giac-",
+  "sourceId": "vietjack:6-12-bai-tap-chung-minh-dang-thuc-lien-q",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "6.12 bài tập Chứng minh đẳng thức liên quan đến tỉ số lượng giác có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 4: Chọn hệ thức đúng được suy ra từ hệ thức cos 2 α + sin 2 α = 1 với 0° ≤ α ≤ 180°?",
+      "options": [
+        "A. \\({\\cos ^2}\\frac{\\alpha }{2} + {\\sin ^2}\\frac{\\alpha }{2} = \\frac{1}{2}\\).",
+        "B. \\({\\cos ^2}\\frac{\\alpha }{3} + {\\sin ^2}\\frac{\\alpha }{3} = \\frac{1}{3}\\).",
+        "C. \\({\\cos ^2}\\frac{\\alpha }{4} + {\\sin ^2}\\frac{\\alpha }{4} = \\frac{1}{4}\\).",
+        "D. \\(5\\left( {{{\\cos }^2}\\frac{\\alpha }{5} + {{\\sin }^2}\\frac{\\alpha }{5}} \\right) = 5\\)."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Ta có: cos 2 α + sin 2 α = 1 với 0° ≤ α ≤ 180° nên ta cũng có: \\({\\cos ^2}\\frac{\\alpha }{5} + {\\sin ^2}\\frac{\\alpha }{5}\\) = 1. Suy ra \\(5\\left( {{{\\cos }^2}\\frac{\\alpha }{5} + {{\\sin }^2}\\frac{\\alpha }{5}} \\right) = 5\\)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 5: Cho tam giác ABC, tìm đẳng thức sai trong các đẳng thức sau.",
+      "options": [
+        "A. sinA = sin(B + C).",
+        "B. tanA = tan(B + C).",
+        "C. cos\\(\\frac{A}{2}\\) = sin\\(\\frac{{B + C}}{2}\\) .",
+        "D. tanA = −tan(B + C)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Xét tam giác ABC, ta có: \\(\\widehat A + \\widehat B + \\widehat C = 180^\\circ \\) nên \\(\\widehat A = 180^\\circ - \\left( {\\widehat B + \\widehat C} \\right)\\) hay \\(\\widehat B + \\widehat C = 180^\\circ - \\widehat A\\). Do đó sin A = sin (180° − \\(\\widehat A\\)) = sin (B + C). Suy ra khẳng định A là đúng. Lại có \\(\\widehat A + \\widehat B + \\widehat C = 180^\\circ \\) suy ra \\(\\frac{{\\widehat A + \\widehat B + \\widehat C}}{2} = \\frac{{180^\\circ }}{2} = 90^\\circ \\). Do đó: cos\\(\\frac{A}{2}\\) = sin\\(\\frac{{B + C}}{2}\\) (hai góc phụ nhau). Suy ra khẳng định C là đúng. Mặt khác tanA = −tan(180° − A) = −tan(B + C). Suy ra khẳng định D là đúng. Vậy chọn đáp án B."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 6: Cho góc x với 0° < x < 90°. Trong các đẳng thức dưới đây, đẳng thức nào là đúng?",
+      "options": [
+        "A. \\(\\frac{{1 + \\cot x}}{{1 - \\cot x}} = \\frac{{\\tan x + 1}}{{\\tan x - 1}}\\).",
+        "B. \\(\\frac{{1 + \\cot x}}{{1 - \\cot x}} = \\frac{{\\tan x}}{{\\tan x - 1}}\\).",
+        "C. \\(\\frac{{1 + \\cot x}}{{1 - \\cot x}} = \\frac{{\\tan x + 1}}{{\\tan x}}\\).",
+        "D. \\(\\frac{{1 + \\cot x}}{{1 - \\cot x}} = \\frac{{{{\\tan }^2}x + 1}}{{\\tan x - 1}}\\)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có: cotx = \\(\\frac{{\\cos x}}{{\\sin x}}\\). Do đó, ta có: \\(\\frac{{1 + \\cot x}}{{1 - \\cot x}} = \\frac{{1 + \\frac{{\\cos x}}{{\\sin x}}}}{{1 - \\frac{{\\cos x}}{{\\sin x}}}} = \\frac{{\\frac{{\\sin x + \\cos x}}{{\\sin x}}}}{{\\frac{{\\sin x - \\cos x}}{{\\sin x}}}} = \\frac{{\\sin x + \\cos x}}{{\\sin x - \\cos x}} = \\frac{{\\frac{{\\sin x}}{{\\cos x}} + 1}}{{\\frac{{\\sin x}}{{\\cos x}} - 1}}\\) Suy ra \\(\\frac{{1 + \\cot x}}{{1 - \\cot x}} = \\frac{{\\tan x + 1}}{{\\tan x - 1}}\\)."
+    }
+  ]
+}

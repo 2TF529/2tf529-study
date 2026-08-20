@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-20-cau-trac-nghiem-toan-10-canh-dieu-tich-cua-mot-so-voi-mot-ve",
+  "sourceId": "vietjack:2-20-cau-trac-nghiem-toan-10-canh-dieu-t",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.20 câu Trắc nghiệm Toán 10 Cánh diều Tích Của Một Số Với Một Vectơ có đáp án (Phần 2)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho tam giác ABC có G là trọng tâm và I là trung điểm của BC. Đẳng thức nào sau đây là đúng?",
+      "options": [
+        "A. G A → = 2 G I → ;",
+        "B. I G → = − 1 3 I A → ;",
+        "C. G B → + G C → = 2 G I → ;",
+        "D. G B → + G C → = G A → ."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Vì I là trung điểm của BC suy ra I B → + I C → = 0 → Ta có G B → = G I → + I B → G C → = G I → + I C → ⇒ G B → + G C → = I B → + I C → + 2 G I → = 2 G I → ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hình vuông ABCD có tâm là O. Mệnh đề nào sau đây là sai?",
+      "options": [
+        "A. A B → + A D → = 2 A O → ;",
+        "B. A D → + D O → = − 1 2 C A → ;",
+        "C. O A → + O B → = 1 2 C B → ;",
+        "D. A C → + D B → = 2 A B → ."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho tam giác ABC vuông tại A, M là trung điểm BC. Khẳng định nào sau đây đúng?",
+      "options": [
+        "A. A M → = M B → = M C → ;",
+        "B. M B → = M C → ;",
+        "C. M B → = − M C → ;",
+        "D. A M → = B C → 2 ."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Vì M là trung điểm của BC nên M B → + M C → = 0 → ⇔ M B → = − M C → . Vậy đáp án C đúng."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho tam giác ABC. Gọi M và N lần lượt là trung điểm của AB và AC. Khẳng định nào sau đây sai?",
+      "options": [
+        "A. A B → = 2 A M → ;",
+        "B. A C → = 2 N C → ;",
+        "C. B C → = − 2 M N → ;",
+        "D. C N → = − 1 2 A C → ."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C +) Do M là trung điểm của AB nên AB = 2AM, hơn nữa hai vectơ A B → , A M → cùng hướng nên ta có A B → = 2 A M → . Vậy đáp án A đúng. +) Tương tự, N là trung điểm của AC nên ta cũng có A C → = 2 N C → hay C N → = − 1 2 A C → . Vậy đáp án B, D đúng. +) Vì M, N lần lượt là trung điểm của AB, AC. Suy ra MN là đường trung bình của tam giác ABC Þ MN // BC và M N = 1 2 B C . Do đó, hai vectơ B C → , M N → cùng phương. Mà B C → , M N → là hai vectơ cùng hướng nên B C → = 2 M N → . Vậy đáp án C sai."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho tam giác ABC có G là trọng tâm. Mệnh đề nào sau đây đúng?",
+      "options": [
+        "A. A B → + A C → = 2 3 A G → ;",
+        "B. B A → + B C → = 3 B G → ;",
+        "C. C A → + C B → = C G → ;",
+        "D. A B → + A C → + B C → = 0 → ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Gọi E là trung điểm của AC ⇒ B A → + B C → = 2 B E → . (1) Mà G là trọng tâm của tam giác ABC nên ta có: B E → = 3 2 B G → . (2) Từ (1), (2) suy ra: B A → + B C → = 2. 3 2 B G → = 3 B G → ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho tam giác đều ABC và điểm I thoả mãn I A → = 2 I B → . Mệnh đề nào sau đây đúng?",
+      "options": [
+        "A. C I → = C A → − 2 C B → 3 ;",
+        "B. C I → = C A → + 2 C B → 3 ;",
+        "C. C I → = − C A → + 2 C B → ;",
+        "D. C I → = C A → + 2 C B → − 3 ."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C"
+    }
+  ]
+}

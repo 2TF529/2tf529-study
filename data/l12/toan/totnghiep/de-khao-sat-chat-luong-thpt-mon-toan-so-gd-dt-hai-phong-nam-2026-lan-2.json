@@ -1,0 +1,196 @@
+{
+  "id": "l12-toan-totnghiep-2026-de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-hai-phong-nam-2026-lan-2",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "code": "THPT_TKT_2026_HP_03",
+  "title": "Đề khảo sát chất lượng THPT môn Toán Sở GD&ĐT Hải Phòng năm 2026 - Lần 2",
+  "duration": 90,
+  "answerSource": "official",
+  "source": "https://dolthpt.vn/tot-nghiep-thpt/pdf-de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-hai-phong-nam-2026-lan-2-co-dap-an",
+  "notes": "Nội dung, đáp án và lời giải được nhập từ bản công khai của DOL THPT.",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "content": "Cho hình hộp $ABCD.A'B'C'D'$. Mệnh đề nào dưới đây là sai?",
+      "chuong": "quan hệ song song trong không gian",
+      "dang": "điều kiện và tính chất của hai mặt phẳng song song",
+      "type": "single",
+      "options": [
+        "A. $(BDD')//(B'D'C)$.",
+        "B. $(ABA')//(B'D'C)$.",
+        "C. $(ADD'A')//(BCC'B')$.",
+        "D. $(ABCD)//(A'B'C'D')$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hình hộp $ABCD.A'B'C'D'$ có các cặp mặt đối song song và các mặt bên là hình bình hành.\n❓ **Hiểu câu hỏi:**\n- Cần chọn mệnh đề sai về quan hệ song song giữa hai mặt phẳng trong hình hộp.\n🔎 **Hướng dẫn cách làm:**\n- Mặt $(ABCD)$ song song với mặt $(A'B'C'D')$ nên phương án D đúng.\n- Hai mặt bên đối $(ADD'A')$ và $(BCC'B')$ song song nên phương án C đúng.\n- Mặt $(BDD')$ và mặt $(B'D'C)$ là hai mặt phẳng song song tương ứng trong hình hộp nên phương án A đúng.\n- Mặt $(ABA')$ và mặt $(B'D'C)$ không phải là hai mặt phẳng đối song song của hình hộp, nên mệnh đề này sai.\n✅ **Đáp án:** Chọn B."
+    },
+    {
+      "id": 2,
+      "content": "Cho hình lập phương $ABCD.A'B'C'D'$ có cạnh bằng $a$. Độ dài của vectơ $\\vec{u}=\\overrightarrow{A'C'}-\\overrightarrow{A'A}$ bằng\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-hai-phong-nam-2026-lan-2/cau-02.webp\" alt=\"Hình minh họa câu 2\" loading=\"lazy\"></figure>",
+      "chuong": "vectơ và hệ trục tọa độ trong không gian",
+      "dang": "tổng và hiệu của hai vectơ trong không gian",
+      "type": "single",
+      "options": [
+        "A. $a\\sqrt{6}$.",
+        "B. $a\\sqrt{2}$.",
+        "C. $\\dfrac{a\\sqrt{3}}{2}$.",
+        "D. $a\\sqrt{3}$."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hình lập phương có cạnh $a$.\n- Cần tính độ dài $\\vec{u}=\\overrightarrow{A'C'}-\\overrightarrow{A'A}$.\n❓ **Hiểu câu hỏi:**\n- Đặt ba vectơ cạnh đôi một vuông góc có độ dài $a$ để tính hiệu vectơ trong không gian.\n🔎 **Hướng dẫn cách làm:**\n- Trong hình lập phương, $\\overrightarrow{A'C'}$ là đường chéo mặt trên nên có hai thành phần cạnh bằng $a$.\n- Vectơ $\\overrightarrow{A'A}$ có một thành phần cạnh theo phương thẳng đứng, do đó $\\vec{u}$ có ba thành phần vuông góc cùng độ dài $a$.\n- Suy ra $|\\vec{u}|=\\sqrt{a^2+a^2+a^2}=a\\sqrt{3}$.\n✅ **Đáp án:** Chọn D. $a\\sqrt{3}$."
+    },
+    {
+      "id": 3,
+      "content": "Trong không gian $Oxyz$, cho hai đường thẳng $d_1:\\begin{cases}x=t\\\\y=1-2t\\\\z=-3t\\end{cases}$, $d_2:\\dfrac{x}{-4}=\\dfrac{y-1}{1}=\\dfrac{z+1}{5}$. Góc giữa hai đường thẳng $d_1,d_2$ bằng bao nhiêu độ?",
+      "chuong": "phương pháp tọa độ trong không gian",
+      "dang": "công thức tính góc giữa hai đường thẳng",
+      "type": "single",
+      "options": [
+        "A. \\$30^\\circ$.",
+        "B. \\$45^\\circ$.",
+        "C. \\$60^\\circ$.",
+        "D. \\$90^\\circ$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Vectơ chỉ phương của $d_1$ là $\\vec{u}_1=(1;-2;-3)$.\n- Vectơ chỉ phương của $d_2$ là $\\vec{u}_2=(-4;1;5)$.\n❓ **Hiểu câu hỏi:**\n- Góc giữa hai đường thẳng được tính qua góc giữa hai vectơ chỉ phương.\n🔎 **Hướng dẫn cách làm:**\n- Ta có $\\vec{u}_1\\cdot\\vec{u}_2=1\\cdot(-4)+(-2)\\cdot1+(-3)\\cdot5=-21$.\n- Độ dài hai vectơ là $|\\vec{u}_1|=\\sqrt{14}$ và $|\\vec{u}_2|=\\sqrt{42}$.\n- Suy ra $\\cos\\varphi=\\dfrac{|\\vec{u}_1\\cdot\\vec{u}_2|}{|\\vec{u}_1||\\vec{u}_2|}=\\dfrac{21}{\\sqrt{14}\\sqrt{42}}=\\dfrac{\\sqrt{3}}{2}$, nên $\\varphi=30^\\circ$.\n✅ **Đáp án:** Chọn A. \\$30^\\circ$."
+    },
+    {
+      "id": 4,
+      "content": "Cho hàm số $f(x)$ liên tục trên mỗi khoảng $\\left(-\\infty;-\\dfrac12\\right)$ và $\\left(-\\dfrac12;+\\infty\\right)$ và có bảng biến thiên như hình vẽ. Tiệm cận ngang của đồ thị hàm số là đường thẳng có phương trình\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-hai-phong-nam-2026-lan-2/cau-04.webp\" alt=\"Hình minh họa câu 4\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "đường tiệm cận ngang",
+      "type": "single",
+      "options": [
+        "A. $x=2$.",
+        "B. $y=2$.",
+        "C. $x=-\\dfrac12$.",
+        "D. $y=-\\dfrac12$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Bảng biến thiên cho thấy khi $x\\to -\\infty$ thì $y\\to 2$ và khi $x\\to +\\infty$ thì $y\\to 2$.\n❓ **Hiểu câu hỏi:**\n- Nếu $\\lim_{x\\to\\pm\\infty}f(x)=a$ thì đồ thị có tiệm cận ngang $y=a$.\n🔎 **Hướng dẫn cách làm:**\n- Từ bảng biến thiên, giới hạn của hàm số ở hai phía vô cực đều bằng \\$2$.\n- Vì vậy tiệm cận ngang của đồ thị là đường thẳng $y=2$.\n✅ **Đáp án:** Chọn B. $y=2$."
+    },
+    {
+      "id": 5,
+      "content": "Tập nghiệm của bất phương trình $\\log_{\\frac{1}{6}}(x-2)>-1$ là",
+      "chuong": "hàm số mũ và hàm số lôgarit",
+      "dang": "bất phương trình lôgarit",
+      "type": "single",
+      "options": [
+        "A. $\\left(2;\\dfrac{13}{6}\\right)$.",
+        "B. $\\left(\\dfrac{13}{6};+\\infty\\right)$.",
+        "C. $(2;8)$.",
+        "D. $(8;+\\infty)$."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Bất phương trình là $\\log_{\\frac16}(x-2)>-1$.\n- Cơ số $\\dfrac16$ nằm trong khoảng $(0;1)$.\n❓ **Hiểu câu hỏi:**\n- Với cơ số lôgarit nhỏ hơn \\$1$, khi bỏ lôgarit thì chiều bất phương trình đổi.\n🔎 **Hướng dẫn cách làm:**\n- Điều kiện xác định là $x-2>0$, nên $x>2$.\n- Vì \\$0<\\dfrac16<1$ nên $\\log_{\\frac16}(x-2)>-1$ tương đương $x-2<\\left(\\dfrac16\\right)^{-1}=6$.\n- Kết hợp điều kiện, ta được \\$2<x<8$.\n✅ **Đáp án:** Chọn C. $(2;8)$."
+    },
+    {
+      "id": 6,
+      "content": "Hình vẽ sau đây là đồ thị hàm số nào?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-hai-phong-nam-2026-lan-2/cau-06.webp\" alt=\"Hình minh họa câu 6\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "khảo sát và vẽ đồ thị hàm số đa thức bậc ba",
+      "type": "single",
+      "options": [
+        "A. $y=x^3-2x^2+1$.",
+        "B. $y=x^3-2x+1$.",
+        "C. $y=-x^3+2x^2+1$.",
+        "D. $y=x^3+2x^2+1$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Đề cho đồ thị của một hàm bậc ba và yêu cầu chọn công thức đúng trong 4 phương án.\n- Đồ thị có nhánh trái đi xuống, nhánh phải đi lên.\n- Đồ thị đi qua điểm có tung độ gốc $y(0)=1$.\n- Đồ thị cắt trục hoành tại $x=1$ và còn hai nghiệm gần $x\\approx -1{,}6$, $x\\approx 0{,}6$.\n- Đồ thị có một cực đại gần $x\\approx -0{,}82$ và một cực tiểu gần $x\\approx 0{,}82$.\n❓ **Hiểu câu hỏi:**\n- Ta so sánh từng phương án bằng các đặc trưng của đồ thị hàm bậc ba: dấu hệ số bậc ba, tung độ gốc, nghiệm và vị trí cực trị lấy từ đạo hàm.\n🔎 **Hướng dẫn cách làm:**\n- Vì nhánh trái đi xuống và nhánh phải đi lên nên hệ số của $x^3$ phải dương, do đó loại ngay phương án $C$.\n- Với phương án $A: y=x^3-2x^2+1$ và $D: y=x^3+2x^2+1$, ta có đạo hàm lần lượt là $y'_A=3x^2-4x$ và $y'_D=3x^2+4x$, nên các điểm cực trị là $x=0,\\ \\dfrac{4}{3}$ hoặc $x=-\\dfrac{4}{3},\\ 0$; các vị trí này không khớp với hình vẽ vì đồ thị cho cực trị gần $x=\\pm 0{,}82$.\n- Với phương án $B: y=x^3-2x+1$, ta có $y(0)=1$ đúng với đồ thị, đồng thời $y'=3x^2-2$ nên cực trị tại $x=\\pm\\sqrt{\\dfrac{2}{3}}\\approx \\pm 0{,}816$, đúng với vị trí cực đại và cực tiểu trên hình.\n- Kiểm tra thêm, $x^3-2x+1=(x-1)(x^2+x-1)$ nên các nghiệm là $x=1,\\ x=\\dfrac{-1+\\sqrt5}{2}\\approx 0{,}618,\\ x=\\dfrac{-1-\\sqrt5}{2}\\approx -1{,}618$, khớp với ba giao điểm của đồ thị với trục hoành.\n✅ **Đáp án:** Chọn B. $y=x^3-2x+1$."
+    },
+    {
+      "id": 7,
+      "content": "Trong không gian với hệ tọa độ $Oxyz$, cho điểm $M(2;-3;1)$ và mặt phẳng $(P):2x-2y+z+3=0$. Mặt phẳng đi qua điểm $M$ và song song với mặt phẳng $(P)$ có phương trình là",
+      "chuong": "phương pháp tọa độ trong không gian",
+      "dang": "lập phương trình tổng quát của mặt phẳng",
+      "type": "single",
+      "options": [
+        "A. $-2x-2y+z-11=0$.",
+        "B. \\$2x-2y+z-11=0$.",
+        "C. \\$2x-2y-z-11=0$.",
+        "D. \\$2x-2y+z+1=0$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Mặt phẳng $(P)$ có vectơ pháp tuyến $\\vec{n}=(2;-2;1)$.\n- Mặt phẳng cần tìm đi qua $M(2;-3;1)$ và song song với $(P)$.\n❓ **Hiểu câu hỏi:**\n- Hai mặt phẳng song song có cùng một vectơ pháp tuyến.\n🔎 **Hướng dẫn cách làm:**\n- Mặt phẳng cần tìm có dạng \\$2x-2y+z+D=0$.\n- Thay $M(2;-3;1)$ vào phương trình, ta được \\$2\\cdot2-2\\cdot(-3)+1+D=0$.\n- Suy ra $D=-11$, nên phương trình là \\$2x-2y+z-11=0$.\n✅ **Đáp án:** Chọn B. \\$2x-2y+z-11=0$."
+    },
+    {
+      "id": 8,
+      "content": "Biết $a,b$ là các số thực dương, khác \\$1$ thỏa mãn $\\log_a b=3$. Giá trị $\\log_{a^2}\\dfrac{a}{\\sqrt{b}}$ bằng",
+      "chuong": "hàm số mũ và hàm số lôgarit",
+      "dang": "tính chất của lôgarit",
+      "type": "single",
+      "options": [
+        "A. $\\dfrac32$.",
+        "B. $\\dfrac52$.",
+        "C. $-\\dfrac14$.",
+        "D. $\\dfrac58$."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Các số $a,b$ dương, khác \\$1$ và $\\log_a b=3$.\n❓ **Hiểu câu hỏi:**\n- Đổi dữ kiện lôgarit về dạng lũy thừa rồi đưa biểu thức về cùng cơ số $a$.\n🔎 **Hướng dẫn cách làm:**\n- Từ $\\log_a b=3$ suy ra $b=a^3$.\n- Khi đó $\\dfrac{a}{\\sqrt{b}}=\\dfrac{a}{a^{3/2}}=a^{-1/2}$.\n- Do đó $\\log_{a^2}\\dfrac{a}{\\sqrt{b}}=\\log_{a^2}a^{-1/2}=\\dfrac{-1/2}{2}=-\\dfrac14$.\n✅ **Đáp án:** Chọn C. $-\\dfrac14$."
+    },
+    {
+      "id": 9,
+      "content": "Nghiệm của phương trình $\\cos x=\\cos\\dfrac{\\pi}{4}$ là",
+      "chuong": "hàm số lượng giác và phương trình lượng giác",
+      "dang": "phương trình cosx=m",
+      "type": "single",
+      "options": [
+        "A. $x=\\dfrac{\\pi}{6}+k2\\pi, k\\in\\mathbb{Z}$.",
+        "B. $x=\\pm\\dfrac{\\pi}{3}+k2\\pi, k\\in\\mathbb{Z}$.",
+        "C. $x=-\\dfrac{\\pi}{6}+k2\\pi, k\\in\\mathbb{Z}$.",
+        "D. $x=\\pm\\dfrac{\\pi}{4}+k2\\pi, k\\in\\mathbb{Z}$."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Phương trình cần giải là $\\cos x=\\cos\\dfrac{\\pi}{4}$.\n❓ **Hiểu câu hỏi:**\n- Công thức nghiệm của $\\cos x=\\cos\\alpha$ là $x=\\pm\\alpha+k2\\pi$ với $k\\in\\mathbb{Z}$.\n🔎 **Hướng dẫn cách làm:**\n- Áp dụng với $\\alpha=\\dfrac{\\pi}{4}$, ta được $x=\\pm\\dfrac{\\pi}{4}+k2\\pi$.\n- Điều kiện của tham số là $k\\in\\mathbb{Z}$.\n✅ **Đáp án:** Chọn D. $x=\\pm\\dfrac{\\pi}{4}+k2\\pi, k\\in\\mathbb{Z}$."
+    },
+    {
+      "id": 10,
+      "content": "Cho cấp số nhân $(u_n)$ có số hạng đầu $u_1=2$ và $u_6=486$. Công bội $q$ bằng",
+      "chuong": "dãy số. cấp số cộng và cấp số nhân",
+      "dang": "số hạng tổng quát của cấp số nhân",
+      "type": "single",
+      "options": [
+        "A. $q=\\dfrac32$.",
+        "B. $q=3$.",
+        "C. $q=5$.",
+        "D. $q=\\dfrac23$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cấp số nhân có $u_1=2$ và $u_6=486$.\n❓ **Hiểu câu hỏi:**\n- Số hạng tổng quát của cấp số nhân là $u_n=u_1q^{n-1}$.\n🔎 **Hướng dẫn cách làm:**\n- Ta có $u_6=u_1q^5$ nên \\$486=2q^5$.\n- Suy ra $q^5=243=3^5$.\n- Do đó $q=3$.\n✅ **Đáp án:** Chọn B. $q=3$."
+    },
+    {
+      "id": 11,
+      "content": "Cho hàm số $f(x)$ liên tục trên $\\mathbb{R}$. Biết hàm số $F(x)$ là một nguyên hàm của hàm số $f(x)$ trên $\\mathbb{R}$ và $F(2)=6, F(4)=12$. Tích phân $\\int_2^4 f(x)dx$ bằng",
+      "chuong": "nguyên hàm và tích phân",
+      "dang": "tính chất của tích phân",
+      "type": "single",
+      "options": [
+        "A. $-2$.",
+        "B. \\$6$.",
+        "C. \\$2$.",
+        "D. \\$18$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số $F(x)$ là một nguyên hàm của $f(x)$.\n- Có $F(2)=6$ và $F(4)=12$.\n❓ **Hiểu câu hỏi:**\n- Theo định lí cơ bản của giải tích, $\\int_a^b f(x)dx=F(b)-F(a)$.\n🔎 **Hướng dẫn cách làm:**\n- Áp dụng công thức, $\\int_2^4 f(x)dx=F(4)-F(2)$.\n- Thay số ta được \\$12-6=6$.\n✅ **Đáp án:** Chọn B. \\$6$."
+    },
+    {
+      "id": 12,
+      "content": "Cân nặng (kg) của \\$50$ quả mít trong đợt thu hoạch của một trang trại được thống kê theo bảng ghép nhóm. Khối lượng trung bình của \\$50$ quả mít trên bảng là\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-hai-phong-nam-2026-lan-2/cau-12.webp\" alt=\"Hình minh họa câu 12\" loading=\"lazy\"></figure>",
+      "chuong": "các số đặc trưng đo xu thế trung tâm của mẫu số liệu ghép nhóm",
+      "dang": "số trung bình của mẫu số liệu ghép nhóm",
+      "type": "single",
+      "options": [
+        "A. \\$8{,}72\\ kg$.",
+        "B. \\$8{,}82\\ kg$.",
+        "C. \\$8{,}52\\ kg$.",
+        "D. \\$9{,}12\\ kg$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Các lớp cân nặng là $[4;6),[6;8),[8;10),[10;12),[12;14)$ với tần số lần lượt \\$6,12,19,9,4$.\n❓ **Hiểu câu hỏi:**\n- Số trung bình mẫu ghép nhóm được tính bằng trung bình có trọng số theo trung điểm lớp.\n🔎 **Hướng dẫn cách làm:**\n- Trung điểm các lớp là \\$5,7,9,11,13$.\n- Tổng có trọng số là \\$6\\cdot5+12\\cdot7+19\\cdot9+9\\cdot11+4\\cdot13=436$.\n- Số trung bình là $\\dfrac{436}{50}=8{,}72$ kg.\n✅ **Đáp án:** Chọn A. \\$8{,}72$ kg."
+    }
+  ]
+}

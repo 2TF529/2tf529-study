@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-1-bo-3-de-thi-cuoi-ki-2-tin-hoc-10-ket-noi-tri-thuc-2026-co-dap-a",
+  "sourceId": "vietjack:1-bo-3-de-thi-cuoi-ki-2-tin-hoc-10-ket-n",
+  "grade": "l10",
+  "subjectSlug": "tin",
+  "examType": "cuoiki2",
+  "year": 2026,
+  "title": "1.Bộ 3 đề thi cuối kì 2 Tin học 10 Kết nối tri thức (2026) có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Mỗi câu hỏi thí sinh chỉ chọn 1 phương án. Câu lệnh sau cho kết quả là gì? for i in range(0,12,2): print(i,end='''')",
+      "options": [
+        "A. 24681012",
+        "B. 13579",
+        "C. 0246810",
+        "D. 246810"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu lệnh sau cho kết quả là gì? for i in range(9,0,-1): print(i,end='''')",
+      "options": [
+        "A. 123456789",
+        "B. 987654321",
+        "C. 02468",
+        "D. 86420"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trong Python, muốn tách một xâu thành một danh sách gồm các từ ta dùng lệnh nào?",
+      "options": [
+        "A. Lệnh join()",
+        "B. Lệnh split()",
+        "C. Lệnh len()",
+        "D. Lệnh find()"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Kết quả của chương trình sau là: S=1 while S <=10: S = S + 1 print( S)",
+      "options": [
+        "A. 9",
+        "B. 10",
+        "C. 11",
+        "D. 12"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho danh sách a =[1, “One”, 3, 4, 10]. Giá trị của phần tử A[len(A)-1] là:",
+      "options": [
+        "A. 10",
+        "B. “One”",
+        "C. 4",
+        "D. Báo lỗi"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Kết quả của đoạn chương trình sau là >>> def f(x, y): z = x + y – 2 return x*y*z + 3 >>> f(0, 4)",
+      "options": [
+        "A. 27",
+        "B. 3",
+        "C. 33",
+        "D. 15"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Giả sử có các lệnh sau: >>> a, b = 0, 1 >>> def f(a, b): a = a * b b = b // 2 return a + b Giá trị của a, b bằng bao nhiêu sau khi thực hiện lệnh f(4, 9)?",
+      "options": [
+        "A. a=10; b=2",
+        "B. a=10; b=51",
+        "C. a=0; b=1",
+        "D. a=2; b=5"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho chương trình sau: Phương án nào sau đây nêu đúng lần lượt kết quả của chương trình?",
+      "options": [
+        "A. 2",
+        "B. 3",
+        "C. 9",
+        "D. 10"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C"
+    }
+  ]
+}

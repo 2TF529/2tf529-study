@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-toan-10-chan-troi-sang-tao-cac-phep-toan-tre",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-toan-10-chan-troi-s",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Toán 10 chân trời sáng tạo Các phép toán trên tập hợp có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Điền vào chỗ trống: “Tập hợp các phần tử thuộc A hoặc thuộc B gọi là ….”",
+      "options": [
+        "A. hợp của hai tập hợp;",
+        "B. giao của hai tập hợp;",
+        "C. hai tập hợp bằng nhau;",
+        "D. phần bù của hai tập hợp."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Tập hợp các phần tử thuộc A hoặc thuộc B gọi là hợp của hai tập hợp, kí hiệu A ∪ B."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Giao của hai tập hợp A và B kí hiệu như thế nào?",
+      "options": [
+        "A. A ∪ B;",
+        "B. A = B;",
+        "C. A ∩ B;",
+        "D. A ⊆ B."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Giao của hai tập hợp A và B kí hiệu là A ∩ B."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Điền vào chỗ trống: “Hiệu của tập hợp A và tập hợp B là ….”",
+      "options": [
+        "A. tập hợp các phần tử thuộc B nhưng không thuộc A;",
+        "B. tập hợp các phần tử thuộc A nhưng không thuộc B;",
+        "C. tập hợp các phần tử thuộc B và thuộc A;",
+        "D. tập hợp các phần tử thuộc B hoặc thuộc A."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Hiệu của tập hợp A và tập hợp B là tập hợp các phần tử thuộc A nhưng không thuộc B, kí hiệu là A\\B"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Kí hiệu C U A có nghĩa là gì?",
+      "options": [
+        "A. A là tập con của U;",
+        "B. U là tập con của A;",
+        "C. Tập A bằng tập U;",
+        "D. Phần bù của A trong U."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Nếu A là tập con của U thì hiệu U\\A gọi là phần bù của A trong U và kí hiệu C U A."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Nếu A và B là tập hợp hữu hạn thì công thức nào sau đây đúng ?",
+      "options": [
+        "A. n(A ∪ B) = n(A) + n(B);",
+        "B. n(A ∪ B) = n(A) + n(B) – n(A ∩ B);",
+        "C. n(A ∪ B) = n(A) - n(B);",
+        "D. n(A ∪ B) = n(A) + n(B) + n(A ∩ B)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Nếu A và B là tập hợp hữu hạn thì n(A ∪ B) = n(A) + n(B) – n(A ∩ B)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Nếu A và B không có phần tử chung thì:",
+      "options": [
+        "A. n(A ∪ B) = n(A) ‒ n(B);",
+        "B. n(A ∪ B) = n(A ∩ B);",
+        "C. n(A ∪ B) = n(A) × n(B);",
+        "D. A ∩ B = ∅."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Nếu A và B không có phần tử chung thì A ∩ B = ∅."
+    }
+  ]
+}

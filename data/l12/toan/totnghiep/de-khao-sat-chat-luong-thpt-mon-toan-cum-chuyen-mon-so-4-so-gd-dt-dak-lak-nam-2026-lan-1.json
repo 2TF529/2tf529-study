@@ -1,0 +1,196 @@
+{
+  "id": "l12-toan-totnghiep-2026-de-khao-sat-chat-luong-thpt-mon-toan-cum-chuyen-mon-so-4-so-gd-dt-dak-lak-nam-2026-lan-1",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "code": "THPT_TKT_2026_ĐLK_01",
+  "title": "Đề khảo sát chất lượng THPT môn Toán Cụm chuyên môn Số 4 Sở GD&ĐT Đắk Lắk năm 2026 - Lần 1",
+  "duration": 90,
+  "answerSource": "official",
+  "source": "https://dolthpt.vn/tot-nghiep-thpt/pdf-de-khao-sat-chat-luong-thpt-mon-toan-cum-chuyen-mon-so-4-so-gd-dt-dak-lak-nam-2026-lan-1-co-dap-an",
+  "notes": "Nội dung, đáp án và lời giải được nhập từ bản công khai của DOL THPT.",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "content": "Một trường THPT tổ chức khám sức khỏe miễn phí cho học sinh khối \\$12$, kết quả đo chiều cao của các nam sinh được cho trong bảng.\nKhoảng biến thiên $R$ của mẫu số liệu ghép nhóm trên là\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-cum-chuyen-mon-so-4-so-gd-dt-dak-lak-nam-2026-lan-1/cau-01.webp\" alt=\"Hình minh họa câu 1\" loading=\"lazy\"></figure>",
+      "chuong": "các số đặc trưng đo mức độ phân tán cho mẫu số liệu ghép nhóm",
+      "dang": "khoảng biến thiên",
+      "type": "single",
+      "options": [
+        "A. $R=30$.",
+        "B. $R=40$.",
+        "C. $R=5$.",
+        "D. $R=108$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Các lớp chiều cao trải từ \\$155$ cm đến \\$185$ cm.\n- Cần tìm khoảng biến thiên $R$ của mẫu số liệu ghép nhóm.\n❓ **Hiểu câu hỏi:**\n- Khoảng biến thiên bằng giá trị lớn nhất trừ giá trị nhỏ nhất.\n- Với bảng ghép nhóm, ta lấy cận trên lớp cuối trừ cận dưới lớp đầu.\n🔎 **Hướng dẫn cách làm:**\n- Giá trị nhỏ nhất lấy gần đúng là \\$155$.\n- Giá trị lớn nhất lấy gần đúng là \\$185$.\n- Suy ra $R=185-155=30$.\n- Vậy chọn đáp án chứa $R=30$.\n✅ **Đáp án:** Chọn A. $R=30$."
+    },
+    {
+      "id": 2,
+      "content": "Cho cấp số cộng $(u_n)$ có các số hạng đầu lần lượt là \\$5;9;13;17;\\ldots$. Tìm số hạng tổng quát $u_n$ của cấp số cộng?",
+      "chuong": "dãy số. cấp số cộng và cấp số nhân",
+      "dang": "số hạng tổng quát của cấp số cộng",
+      "type": "single",
+      "options": [
+        "A. $u_n=4n+1$.",
+        "B. $u_n=5n+1$.",
+        "C. $u_n=5n-1$.",
+        "D. $u_n=4n-1$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cấp số cộng có các số hạng đầu là \\$5;9;13;17;\\ldots$.\n- Ta có $u_1=5$ và công sai $d=4$.\n❓ **Hiểu câu hỏi:**\n- Cần tìm số hạng tổng quát của cấp số cộng.\n- Dùng công thức $u_n=u_1+(n-1)d$.\n🔎 **Hướng dẫn cách làm:**\n- Thay vào công thức: $u_n=5+(n-1)\\cdot 4$.\n- Rút gọn được $u_n=5+4n-4=4n+1$.\n- So sánh với các đáp án, ta chọn phương án đúng.\n✅ **Đáp án:** Chọn A. $u_n=4n+1$."
+    },
+    {
+      "id": 3,
+      "content": "Trong không gian, cho hình hộp $ABCD.A'B'C'D'$. Chọn mệnh đề sai.",
+      "chuong": "vectơ và hệ trục tọa độ trong không gian",
+      "dang": "tổng và hiệu của hai vectơ trong không gian",
+      "type": "single",
+      "options": [
+        "A. $\\overrightarrow{CA'}=\\overrightarrow{CB}+\\overrightarrow{CD}+\\overrightarrow{CC'}$.",
+        "B. $\\overrightarrow{C'A'}=\\overrightarrow{C'B'}+\\overrightarrow{C'D'}$.",
+        "C. $\\overrightarrow{AC'}=\\overrightarrow{AB}+\\overrightarrow{AD}+\\overrightarrow{AA'}$.",
+        "D. $\\overrightarrow{BD}=\\overrightarrow{BA}+\\overrightarrow{BC}+\\overrightarrow{BB'}$."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cho hình hộp $ABCD.A'B'C'D'$.\n- Cần chọn mệnh đề sai.\n❓ **Hiểu câu hỏi:**\n- Trong hình hộp, đường chéo đáy thỏa $\\overrightarrow{BD}=\\overrightarrow{BA}+\\overrightarrow{BC}$.\n- Các đẳng thức còn lại là các cách cộng vectơ theo những cạnh song song của hình hộp.\n🔎 **Hướng dẫn cách làm:**\n- Với đáy $ABCD$, ta chỉ có $\\overrightarrow{BD}=\\overrightarrow{BA}+\\overrightarrow{BC}$.\n- Do đó thêm $\\overrightarrow{BB'}$ vào thì đẳng thức bị sai.\n✅ **Đáp án:** Chọn D. $\\overrightarrow{BD}=\\overrightarrow{BA}+\\overrightarrow{BC}+\\overrightarrow{BB'}$."
+    },
+    {
+      "id": 4,
+      "content": "Cho hàm số $f(x)$ có đạo hàm $f'(x)=x(x-1)(x-2)^2,\\ \\forall x\\in\\mathbb{R}$. Số điểm cực trị của hàm số đã cho là",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "cực trị của hàm số",
+      "type": "single",
+      "options": [
+        "A. \\$1$.",
+        "B. \\$5$.",
+        "C. \\$2$.",
+        "D. \\$3$."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- $f'(x)=x(x-1)(x-2)^2$ với mọi $x\\in\\mathbb{R}$.\n❓ **Hiểu câu hỏi:**\n- Cực trị xuất hiện tại các nghiệm của $f'(x)=0$ mà dấu của $f'(x)$ đổi khi đi qua nghiệm đó.\n- Nghiệm bội chẵn thường không làm đổi dấu đạo hàm.\n🔎 **Hướng dẫn cách làm:**\n- Giải $f'(x)=0$ được $x=0,\\ x=1,\\ x=2$.\n- Vì $x=2$ là nghiệm bội chẵn nên khi qua $x=2$, dấu của $f'(x)$ không đổi.\n- Tại $x=0$ và $x=1$, đạo hàm đổi dấu nên hàm số có cực trị.\n- Vậy hàm số có \\$2$ điểm cực trị.\n✅ **Đáp án:** Chọn C. \\$2$."
+    },
+    {
+      "id": 5,
+      "content": "Nghiệm của phương trình $\\log_3(2x-1)=2$ là",
+      "chuong": "hàm số mũ và hàm số lôgarit",
+      "dang": "phương trình lôgarit",
+      "type": "single",
+      "options": [
+        "A. $x=\\dfrac{7}{2}$.",
+        "B. $x=\\dfrac{9}{2}$.",
+        "C. $x=5$.",
+        "D. $x=3$."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Phương trình là $\\log_3(2x-1)=2$.\n❓ **Hiểu câu hỏi:**\n- Cần giải phương trình lôgarit.\n- Dùng quy tắc $\\log_a b=c \\Leftrightarrow b=a^c$ kèm điều kiện xác định.\n🔎 **Hướng dẫn cách làm:**\n- Điều kiện là \\$2x-1>0 \\Leftrightarrow x>\\dfrac{1}{2}$.\n- Từ $\\log_3(2x-1)=2$ suy ra \\$2x-1=3^2=9$.\n- Suy ra \\$2x=10$ nên $x=5$.\n- Giá trị này thỏa điều kiện.\n✅ **Đáp án:** Chọn C. $x=5$."
+    },
+    {
+      "id": 6,
+      "content": "Kết quả đo chiều cao của \\$100$ cây keo ba năm tuổi tại một nông trường được cho ở bảng.\nKhoảng tứ phân vị của mẫu số liệu ghép nhóm bằng\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-cum-chuyen-mon-so-4-so-gd-dt-dak-lak-nam-2026-lan-1/cau-06.webp\" alt=\"Hình minh họa câu 6\" loading=\"lazy\"></figure>",
+      "chuong": "các số đặc trưng đo mức độ phân tán cho mẫu số liệu ghép nhóm",
+      "dang": "khoảng tứ phân vị",
+      "type": "single",
+      "options": [
+        "A. \\$0{,}115$.",
+        "B. \\$0{,}286$.",
+        "C. \\$0{,}886$.",
+        "D. \\$0{,}826$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Bảng tần số ghép nhóm có các lớp $[8{,}4;8{,}6),[8{,}6;8{,}8),[8{,}8;9{,}0),[9{,}0;9{,}2),[9{,}2;9{,}4)$ với tần số \\$5,12,25,44,14$.\n- Tổng số cây là \\$100$.\n❓ **Hiểu câu hỏi:**\n- Cần tìm khoảng tứ phân vị $\\Delta_Q=Q_3-Q_1$.\n- Dùng công thức nội suy cho dữ liệu ghép nhóm.\n🔎 **Hướng dẫn cách làm:**\n- Vị trí $Q_1$ là $\\dfrac{100}{4}=25$, nằm trong lớp $[8{,}8;9{,}0)$.\n- Do đó $Q_1=8{,}8+\\dfrac{25-17}{25}\\cdot 0{,}2=8{,}864$.\n- Vị trí $Q_3$ là $\\dfrac{3\\cdot 100}{4}=75$, nằm trong lớp $[9{,}0;9{,}2)$.\n- Suy ra $Q_3=9{,}0+\\dfrac{75-42}{44}\\cdot 0{,}2=9{,}15$.\n- Vậy $\\Delta_Q=9{,}15-8{,}864\\approx 0{,}286$.\n✅ **Đáp án:** Chọn B. \\$0{,}286$."
+    },
+    {
+      "id": 7,
+      "content": "Cho hình chóp $S.ABC$ có đáy là tam giác $ABC$ vuông tại $B$ và cạnh bên $SA$ vuông góc với mặt phẳng $(ABC)$. Mệnh đề nào sau đây sai?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-cum-chuyen-mon-so-4-so-gd-dt-dak-lak-nam-2026-lan-1/cau-07.webp\" alt=\"Hình minh họa câu 7\" loading=\"lazy\"></figure>",
+      "chuong": "quan hệ vuông góc trong không gian",
+      "dang": "liên hệ giữa quan hệ song song và quan hệ vuông góc của đường thẳng và mặt phẳng",
+      "type": "single",
+      "options": [
+        "A. $SA \\perp BC$.",
+        "B. $AB \\perp SC$.",
+        "C. $AB \\perp BC$.",
+        "D. $SB \\perp BC$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Tam giác $ABC$ vuông tại $B$.\n- $SA\\perp (ABC)$.\n❓ **Hiểu câu hỏi:**\n- Nếu một đường thẳng vuông góc với mặt phẳng thì nó vuông góc với mọi đường trong mặt phẳng đó.\n- Nếu một đường thẳng vuông góc với hai đường cắt nhau nằm trong một mặt phẳng thì nó vuông góc với mặt phẳng đó.\n🔎 **Hướng dẫn cách làm:**\n- Vì $SA\\perp (ABC)$ nên $SA\\perp BC$ và mệnh đề A đúng.\n- Do tam giác $ABC$ vuông tại $B$ nên $AB\\perp BC$, mệnh đề C đúng.\n- Ta có $BC\\perp AB$ và $BC\\perp SA$, mà $AB$ và $SA$ cắt nhau trong mặt phẳng $(SAB)$ nên $BC\\perp (SAB)$.\n- Suy ra $BC\\perp SB$, vì vậy mệnh đề D đúng.\n- Không có căn cứ để kết luận $AB\\perp SC$ nên mệnh đề B sai.\n✅ **Đáp án:** Chọn B. $AB\\perp SC$."
+    },
+    {
+      "id": 8,
+      "content": "Cho hàm số $y=f(x)$ có bảng biến thiên như sau. Hàm số đã cho đồng biến trên khoảng nào dưới đây?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-cum-chuyen-mon-so-4-so-gd-dt-dak-lak-nam-2026-lan-1/cau-08.webp\" alt=\"Hình minh họa câu 8\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "tính đơn điệu của hàm số",
+      "type": "single",
+      "options": [
+        "A. $(0;1)$.",
+        "B. $(1;+\\infty)$.",
+        "C. $(-1;1)$.",
+        "D. $(-1;0)$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Dựa vào bảng biến thiên, dấu của $f'(x)$ dương trên $(-\\infty;-1)$ và $(0;1)$.\n- Các đáp án hỏi khoảng đồng biến.\n❓ **Hiểu câu hỏi:**\n- Hàm số đồng biến trên những khoảng mà $f'(x)>0$.\n🔎 **Hướng dẫn cách làm:**\n- Từ bảng biến thiên, hàm số tăng trên $(-\\infty;-1)$.\n- Hàm số tiếp tục tăng trên $(0;1)$.\n- Trong bốn phương án, chỉ có $(0;1)$ là một khoảng đồng biến.\n✅ **Đáp án:** Chọn A. $(0;1)$."
+    },
+    {
+      "id": 9,
+      "content": "Trong không gian $Oxyz$, cho hình bình hành $ABCD$ có $A(-3;1;2)$, $B(-2;4;-1)$, $C(1;-3;3)$. Tọa độ điểm $D$ là",
+      "chuong": "vectơ và hệ trục tọa độ trong không gian",
+      "dang": "biểu thức tọa độ của phép cộng hai vectơ, phép trừ hai vectơ, phép nhân một số với một vectơ",
+      "type": "single",
+      "options": [
+        "A. $( -6;7;-2)$.",
+        "B. $(2;0;0)$.",
+        "C. $(0;-6;6)$.",
+        "D. $( -4;2;5)$."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- $A(-3;1;2),\\ B(-2;4;-1),\\ C(1;-3;3)$ là ba đỉnh liên tiếp của hình bình hành $ABCD$.\n❓ **Hiểu câu hỏi:**\n- Trong hình bình hành, ta có $\\overrightarrow{AD}=\\overrightarrow{BC}$.\n- Suy ra $D=A+C-B$.\n🔎 **Hướng dẫn cách làm:**\n- Tính $D=A+C-B$.\n- Hoành độ: $-3+1-(-2)=0$.\n- Tung độ: \\$1+(-3)-4=-6$.\n- Cao độ: \\$2+3-(-1)=6$.\n- Vậy $D(0;-6;6)$.\n✅ **Đáp án:** Chọn C. $(0;-6;6)$."
+    },
+    {
+      "id": 10,
+      "content": "Một chất điểm chuyển động thẳng được xác định bởi phương trình $s=t^3-3t^2+5t+2$, trong đó $t$ tính bằng giây và $s$ tính bằng mét. Gia tốc của chuyển động khi $t=3$ là",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "tốc độ thay đổi của một đại lượng",
+      "type": "single",
+      "options": [
+        "A. \\$17\\ \\text{m/s}^2$.",
+        "B. \\$12\\ \\text{m/s}^2$.",
+        "C. \\$24\\ \\text{m/s}^2$.",
+        "D. \\$14\\ \\text{m/s}^2$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Quãng đường là $s=t^3-3t^2+5t+2$.\n❓ **Hiểu câu hỏi:**\n- Gia tốc là đạo hàm của vận tốc, tức là đạo hàm bậc hai của quãng đường.\n- Ta tính $a(t)=s''(t)$.\n🔎 **Hướng dẫn cách làm:**\n- Ta có $v(t)=s'(t)=3t^2-6t+5$.\n- Suy ra $a(t)=v'(t)=6t-6$.\n- Tại $t=3$, $a(3)=6\\cdot 3-6=12$.\n- Đơn vị là $\\text{m/s}^2$.\n✅ **Đáp án:** Chọn B. \\$12\\ \\text{m/s}^2$."
+    },
+    {
+      "id": 11,
+      "content": "Một mẫu số liệu ghép nhóm có phương sai bằng \\$4$ thì có độ lệch chuẩn bằng bao nhiêu?",
+      "chuong": "các số đặc trưng đo mức độ phân tán cho mẫu số liệu ghép nhóm",
+      "dang": "phương sai và độ lệch chuẩn",
+      "type": "single",
+      "options": [
+        "A. \\$1$.",
+        "B. \\$3$.",
+        "C. \\$4$.",
+        "D. \\$2$."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Phương sai của mẫu số liệu ghép nhóm bằng \\$4$.\n❓ **Hiểu câu hỏi:**\n- Độ lệch chuẩn bằng căn bậc hai của phương sai.\n- Công thức là $s=\\sqrt{s^2}$.\n🔎 **Hướng dẫn cách làm:**\n- Vì phương sai bằng \\$4$ nên độ lệch chuẩn là $\\sqrt{4}=2$.\n- So sánh với các đáp án, ta chọn \\$2$.\n✅ **Đáp án:** Chọn D. \\$2$."
+    },
+    {
+      "id": 12,
+      "content": "Họ nghiệm phương trình \\$2\\sin x-\\sqrt{3}=0$ là",
+      "chuong": "hàm số lượng giác và phương trình lượng giác",
+      "dang": "phương trình sinx=m",
+      "type": "single",
+      "options": [
+        "A. $x=\\dfrac{\\pi}{3}+k2\\pi,\\ k\\in\\mathbb{Z};\\ x=\\dfrac{2\\pi}{3}+k2\\pi,\\ k\\in\\mathbb{Z}$.",
+        "B. $x=\\pm\\dfrac{\\pi}{6}+k2\\pi,\\ k\\in\\mathbb{Z}$.",
+        "C. $x=\\dfrac{\\pi}{6}+k2\\pi,\\ k\\in\\mathbb{Z};\\ x=\\dfrac{5\\pi}{6}+k2\\pi,\\ k\\in\\mathbb{Z}$.",
+        "D. $x=\\pm\\dfrac{\\pi}{3}+k2\\pi,\\ k\\in\\mathbb{Z}$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Phương trình là \\$2\\sin x-\\sqrt{3}=0$.\n❓ **Hiểu câu hỏi:**\n- Cần giải phương trình lượng giác cơ bản.\n- Đưa về dạng $\\sin x=m$.\n🔎 **Hướng dẫn cách làm:**\n- Từ phương trình suy ra $\\sin x=\\dfrac{\\sqrt{3}}{2}$.\n- Trên đường tròn lượng giác, điều này xảy ra khi $x=\\dfrac{\\pi}{3}+2k\\pi$ hoặc $x=\\dfrac{2\\pi}{3}+2k\\pi$ với $k\\in\\mathbb{Z}$.\n- Đối chiếu đáp án, ta chọn phương án phù hợp.\n✅ **Đáp án:** Chọn A. $x=\\dfrac{\\pi}{3}+2k\\pi,\\ x=\\dfrac{2\\pi}{3}+2k\\pi,\\ k\\in\\mathbb{Z}$."
+    }
+  ]
+}

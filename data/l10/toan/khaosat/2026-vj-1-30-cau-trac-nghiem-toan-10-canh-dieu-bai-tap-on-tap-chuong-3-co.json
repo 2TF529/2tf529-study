@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-1-30-cau-trac-nghiem-toan-10-canh-dieu-bai-tap-on-tap-chuong-3-co",
+  "sourceId": "vietjack:1-30-cau-trac-nghiem-toan-10-canh-dieu-b",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.30 câu Trắc nghiệm Toán 10 Cánh Diều Bài tập ôn tập chương 3 có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Điểm nào sau đây thuộc đồ thị hàm số y = 4x + 1",
+      "options": [
+        "A. (2; 3);",
+        "B. (0; 1);",
+        "C. (4; 5);",
+        "D. (0; 0)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B - Thay x = 2; y = 3 vào hàm số ta được: 3 = 4.1 + 1 (vô lí). Do đó, (2; 3) không thuộc đồ thị hàm số. - Thay x = 0; y = 1 vào hàm số ta được: 1 = 0.1 + 1 (luôn đúng). Do đó, (0; 1) thuộc đồ thị hàm số. - Thay x = 4; y = 5 vào hàm số ta được: 5 = 4.4 + 1 (vô lí). Do đó, (4; 5) không thuộc đồ thị hàm số. - Thay x = 0; y = 0 vào hàm số ta được: 0 = 4.0 + 1 (vô lí). Do đó, (0; 0) không thuộc đồ thị hàm số."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hàm số y = f(x) = 3 x . Khẳng định nào sau đây là đúng?",
+      "options": [
+        "A. f(3) = 9;",
+        "B. f(-1) = -3;",
+        "C. f(-2) = -6;",
+        "D. f(1) = 6."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Thay lần lượt các giá trị: 3; (-1); (-2); 1 vào biểu thức 3 x . Ta được: Khi x = 3 thay vào hàm số y: 3.3 = 9 = 9 . (Chọn A)"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Tập xác định của hàm số y = 3 x − 1 2 x − 2 là:",
+      "options": [
+        "A. D = ℝ ;",
+        "B. D = (1; 0);",
+        "C. D = (-∞; 1);",
+        "D. D = ℝ \\{1}."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Hàm số y = 3 x − 1 2 x − 2 xác định khi 2x - 2 ≠ 0 ⇔ 2 x ≠ 2 ⇔ x ≠ 1 Như vậy tập xác định của hàm số là D = ℝ \\{1}"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Tập xác định của hàm số y = x − 1 là:",
+      "options": [
+        "A. D = ℝ ;",
+        "B. D = (1; 0);",
+        "C. D = (-∞; 1);",
+        "D. D = 1 ; + ∞ ."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Hàm số y = x − 1 xác định ⇔ x − 1 ≥ 0 ⇔ x ≥ 1 Như vậy tập xác định của hàm số là D = 1 ; + ∞ ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Tìm tập xác định của hàm số y = f(x) = 1 x k h i x ≥ 1 x + 1 k h i x < 1",
+      "options": [
+        "A. D = {-1};",
+        "B. D = ℝ ;",
+        "C. D = [-1; +∞);",
+        "D. D = [-1; 1)."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Với x ≥ 1 thì f(x) = 1 x xác định với mọi x ≥ 1 (1) Với x < 1 thì f(x) = x + 1 . Khi đó hàm số xác định nếu x + 1 ≥ 0 ⇔ x ≥ − 1 . Kết hợp với điều kiện x < 1 thì f(x) = x + 1 xác định khi − 1 ≤ x < 1 (2) Kết hợp (1) và (2) ta được f(x) xác định với mọi x ≥ -1 hay D = [-1; + ∞ )"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Tìm tập xác định của y = 6 - 3 x − x - 1",
+      "options": [
+        "A. D = (1; 2);",
+        "B. D = [1; 2];",
+        "C. D = [1; 3];",
+        "D. D = [-1; 2];"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Để hàm số y xác định thì 6 - 3 x ≥ 0 x - 1 ≥ 0 ⇔ 3 x ≤ 6 x ≥ 1 ⇔ x ≤ 2 x ≥ 1 . Tập xác định: D = [1; 2]"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Bảng biến thiên ở dưới là bảng biến thiên của hàm số nào trong các hàm số được cho ở bốn phương án A, B, C, D sau đây?",
+      "options": [
+        "A. y = 2 x 2 + 2 x − 1",
+        "B. y = 2 x 2 + 2 x + 2",
+        "C. y = − 2 x 2 − 2 x",
+        "D. y = − 2 x 2 − 2 x + 1"
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Bảng biến thiên có bề lõm hướng xuống nên a < 0. Do đó, loại đáp án A và B. Đỉnh của parabol có tọa độ là − 1 2 ; 3 2 . Xét các đáp án còn lại: - Thay x = − 1 2 ; y = 3 2 vào phương trình y = − 2 x 2 − 2 x : 3 2 = − 2. − 1 2 2 − 2. − 1 2 = 1 2 . (Vô lý). Như vậy điểm − 1 2 ; 3 2 không thuộc đồ thị của hàm số. - Thay x = - 1 2 ; y = 3 2 vào phương trình y = − 2 x 2 − 2 x + 1 : 3 2 = − 2. − 1 2 2 − 2. − 1 2 + 1 = 3 2 . Như vậy − 1 2 ; 3 2 thuộc đồ thị hàm số"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Đồ thị sau đây là đồ thị của hàm số nào trong các phương án dưới đây?",
+      "options": [
+        "A. y = − x 2 + 3 x − 1",
+        "B. y = − 2 x 2 + 3 x − 1",
+        "C. y = 2 x 2 − 3 x + 1",
+        "D. y = x 2 − 3 x + 1"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Parabol có bề lõm hướng lên nên a > 0. Loại đáp án A, B. Parabol cắt trục hoành tại điểm 1 ; 0 , thay x = 1; y = 0 vào các phương trình: - Thay x = 1; y = 0 vào y = 2 x 2 − 3 x + 1 : 0 = 2. 1 2 - 3.1 + 1 = 0 như vậy điểm (1; 0) thuộc đồ thị hàm số. - Thay x = 1; y = 0 vào y = x 2 − 3 x + 1 : 0 = 1 2 - 3.1 + 1 = -1 như vậy điểm (1; 0) không thuộc đồ thị hàm số"
+    }
+  ]
+}

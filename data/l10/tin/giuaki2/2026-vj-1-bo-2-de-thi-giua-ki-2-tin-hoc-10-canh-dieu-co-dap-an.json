@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-1-bo-2-de-thi-giua-ki-2-tin-hoc-10-canh-dieu-co-dap-an",
+  "sourceId": "vietjack:1-bo-2-de-thi-giua-ki-2-tin-hoc-10-canh-",
+  "grade": "l10",
+  "subjectSlug": "tin",
+  "examType": "giuaki2",
+  "year": 2026,
+  "title": "1.Bộ 2 đề thi giữa kì 2 Tin học 10 Cánh diều có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho biểu thức logic x and y . Biểu thức nhận giá trị True khi nào?",
+      "options": [
+        "A. Cả x và y đều nhận giá trị True.",
+        "B. x nhận giá trị True, y nhận giá trị False.",
+        "C. x nhận giá trị False, y nhận giá trị True.",
+        "D. Cả x và y đều nhận giá trị False."
+      ],
+      "answer": "A",
+      "note": "Đáp án: A"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho x = 5, y = 10. Hãy cho biết biểu thức logic nào nhận giá trị True?",
+      "options": [
+        "A. 4*x=2*y",
+        "B. (x%5==0) and (y%2==0)",
+        "C. (x>2*y) or (x+y >20)",
+        "D. x+10 >= y+7"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Em hãy cho biết kết quả của chương trình sau: >>>a=5 >>>b=10 >>>if a < b: print(‘True’)",
+      "options": [
+        "A. 5",
+        "B. 10",
+        "C. True",
+        "D. Flase"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho A = 5, B = 10, giá trị logic của điều kiện nào là False?",
+      "options": [
+        "A. A < B",
+        "B. 2*A == B",
+        "C. A + 5 != B",
+        "D. A + 10 > B + 1"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Trong Python, với cấu trúc if – else thì &lt;câu lệnh hay nhóm câu lệnh 1&gt; được thực hiện khi:",
+      "options": [
+        "A. Điều kiện sai.",
+        "B. Điều kiện đúng.",
+        "C. Điều kiện bằng 0.",
+        "D. Điều kiện khác 0."
+      ],
+      "answer": "B",
+      "note": "Đáp án: B"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: &lt;Điều kiện&gt; trong câu lệnh rẽ nhánh là:",
+      "options": [
+        "A. Biểu thức tính toán.",
+        "B. Biểu thức logic.",
+        "C. Biểu thức quan hệ.",
+        "D. Các hàm toán học."
+      ],
+      "answer": "B",
+      "note": "Đáp án: B"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Chọn phát biểu đúng. Cho biểu thức: x or y",
+      "options": [
+        "A. Cho kết quả là False khi và chỉ khi x và y đều nhận giá trị False.",
+        "B. Cho kết quả là True khi x và y đều nhận giá trị True.",
+        "C. Đảo giá trị của x và y cho nhau",
+        "D. Cho kết quả là False khi và chỉ khi x hoặc y nhận giá trị False."
+      ],
+      "answer": "A",
+      "note": "Đáp án: A"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Hàm range(101) sẽ tạo ra:",
+      "options": [
+        "A. một dãy số từ 0 đến 100",
+        "B. một dãy số từ 1 đến 101",
+        "C. 101 số ngẫu nhiên",
+        "D. một dãy số ngẫu nhiên 101"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A"
+    }
+  ]
+}

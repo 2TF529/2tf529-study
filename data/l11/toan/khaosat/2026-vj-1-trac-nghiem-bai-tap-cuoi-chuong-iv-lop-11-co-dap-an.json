@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-1-trac-nghiem-bai-tap-cuoi-chuong-iv-lop-11-co-dap-an",
+  "sourceId": "vietjack:1-trac-nghiem-bai-tap-cuoi-chuong-iv-lop",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.Trắc nghiệm Bài tập cuối chương IV lớp 11 (có đáp án)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: TRẮC NGHIỆM NHIỀU LỰA CHỌN Cho tam giác ABC ở trong mặt phẳng (α) và phương l. Biết hình chiếu (theo phương l) của tam giác ABC lên mặt phẳng (P) là một đoạn thẳng. Khẳng định nào sau đây đúng?",
+      "options": [
+        "A. (α) // (P).",
+        "B. (α) ≡ (P).",
+        "C. (α) // l hoặc l Ì (α).",
+        "D. l Ì (P)."
+      ],
+      "answer": "C",
+      "note": "C Khi phương chiếu l thỏa mãn (α) // l hoặc l Ì (α) thì các đoạn thẳng AB, BC, CA có hình chiếu lên (P) nằm trên giao tuyến của (α) và (P)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho tứ diện ABCD. I và J theo thứ tự là trung điểm của AD và AC, G là trọng tâm tam giác BCD. Giao tuyến của hai mặt phẳng (GIJ) và (BCD) là đường thẳng",
+      "options": [
+        "A. qua I và song song với AB.",
+        "B. qua J và song song với BD.",
+        "C. qua G và song song với CD.",
+        "D. qua G và song song với BC."
+      ],
+      "answer": "C",
+      "note": "C Gọi d là giao tuyến của (GIJ) và (BCD). Ta có G Î (GIJ) Ç (BCD), IJ // CD, IJ Ì (GIJ), CD Ì (BCD). Suy ra d đi qua G và song song với CD."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho 4 điểm A, B, C, D không cùng nằm trên một mặt phẳng. Trên AB, AD lần lượt lấy 2 điểm M, N sao cho MN cắt BD tại I. Điểm I không thuộc mặt phẳng nào sau đây?",
+      "options": [
+        "A. (ABD).",
+        "B. (BCD).",
+        "C. (CMN).",
+        "D. (ACD)."
+      ],
+      "answer": "D",
+      "note": "D Vì I = MN Ç BD nên I Î (ABD), I Î (BCD), I Î (CMN)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho tứ diện ABCD. Gọi J, I lần lượt là trọng tâm các tam giác ABC và ABD. Chọn khẳng định đúng trong các khẳng định sau?",
+      "options": [
+        "A. IJ song song với CD.",
+        "B. IJ song song với AB.",
+        "C. IJ chéo CD.",
+        "D. IJ cắt AB."
+      ],
+      "answer": "A",
+      "note": "A Gọi M, N lần lượt là trung điểm của BD, BC. Suy ra MN là đường trung bình của tam giác BCD. Do đó MN // CD (1). Vì J, I lần lượt là trọng tâm các tam giác ABC và ABD nên \\(\\frac{{AI}}{{AM}} = \\frac{{AJ}}{{AN}} = \\frac{2}{3}\\) \\( \\Rightarrow IJ//MN\\) (2). Từ (1) và (2) suy ra IJ // CD."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Chọn khẳng định đúng.",
+      "options": [
+        "A. Trong không gian, hình chiếu song song của hai đường thẳng song song là hai đường thẳng song song.",
+        "B. Trong không gian, hình chiếu song song của hai đường thẳng song song là hai đường thẳng trùng nhau.",
+        "C. Trong không gian, hình chiếu song song của hai đường thẳng song song là hai đường thẳng song song hoặc trùng nhau.",
+        "D. Trong không gian hình chiếu song song của hai đường thẳng song song là hai đường thẳng bất kì."
+      ],
+      "answer": "C",
+      "note": "C Trong không gian, hình chiếu song song của hai đường thẳng song song là hai đường thẳng song song hoặc trùng nhau."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho hình chóp S.ABCD có ABCD là hình thang đáy lớn AD. Các điểm M, N lần lượt là trung điểm của các cạnh SA, SD. Khi đó MN song song với mặt phẳng nào dưới đây?",
+      "options": [
+        "A. (SAC).",
+        "B. (SBD).",
+        "C. (SBC).",
+        "D. (SCD)."
+      ],
+      "answer": "C",
+      "note": "C Do MN là đường trung bình của tam giác SAD nên MN // AD. Mà AD // BC (do ABCD là hình thang). Suy ra BC // MN. Lại có BC Ì (SBC) nên MN // (SBC)."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Trong các khẳng định sau khẳng định nào sai?",
+      "options": [
+        "A. Nếu một đường thẳng song song với một trong hai mặt phẳng song song thì nó song song với mặt phẳng còn lại.",
+        "B. Nếu một đường thẳng cắt một trong hai mặt phẳng song song thì nó cắt mặt phẳng còn lại.",
+        "C. Nếu hai đường thẳng song song thì chúng cùng nằm trên một mặt phẳng.",
+        "D. Nếu hai mặt phẳng phân biệt cùng song song với một mặt phẳng thì chúng song song với nhau."
+      ],
+      "answer": "A",
+      "note": "A Giả sử ( α ) // ( β ). Một đường thẳng a song song với (β) thì a có thể nằm trên (α)."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho hình hộp ABCD. A'B'C'D'. Mặt phẳng (AB'D') song song với mặt phẳng nào sau đây?",
+      "options": [
+        "A. (BA'C').",
+        "B. (BDA').",
+        "C. (ACD').",
+        "D. (C'BD)."
+      ],
+      "answer": "D",
+      "note": "D Ta có B'D' // BD; AD' // C'B. Suy ra (AB'D') // (C'BD)."
+    }
+  ]
+}

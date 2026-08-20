@@ -1,0 +1,196 @@
+{
+  "id": "l12-toan-totnghiep-2026-de-kscl-thpt-toan-truong-thpt-nguyen-khuyen-le-thanh-tong-tinh-tp-hcm-2026-ma-de-10",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "code": "THPT_TTT_2026_HCM_NK&LTT_10",
+  "title": "Đề khảo sát chất lượng THPT môn Toán trường THPT Nguyễn Khuyến & Lê Thánh Tông Sở GD&ĐT TP.HCM năm 2026 - Mã đề 10",
+  "duration": 90,
+  "answerSource": "official",
+  "source": "https://dolthpt.vn/tot-nghiep-thpt/pdf-de-kscl-thpt-toan-truong-thpt-nguyen-khuyen-le-thanh-tong-tinh-tp-hcm-2026-ma-de-10-co-dap-an",
+  "notes": "Nội dung, đáp án và lời giải được nhập từ bản công khai của DOL THPT.",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "content": "Trong hệ trục toạ độ Oxy, tiệm cận ngang của đồ thị hàm số $y=\\dfrac{2}{x-2}$ có phương trình là",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "đường tiệm cận ngang",
+      "type": "single",
+      "options": [
+        "A. $y=2$",
+        "B. $y=-1$",
+        "C. $y=0$",
+        "D. $x=2$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số: $y=\\dfrac{2}{x-2}$.\n- Xét tiệm cận ngang của đồ thị trong hệ trục tọa độ Oxy.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu xác định phương trình của *tiệm cận ngang* của đồ thị hàm số.\n- Cần biết khái niệm tiệm cận ngang: nếu $\\lim_{x\\to\\infty} f(x)=L$ hoặc $\\lim_{x\\to -\\infty} f(x)=L$ thì đường $y=L$ là tiệm cận ngang.\n- Với một phân thức hữu tỉ, khi bậc tử nhỏ hơn bậc mẫu thì tiệm cận ngang là $y=0$.\n🔎 **Hướng dẫn cách làm:**\n- Ghi lại hàm số: $y=\\dfrac{2}{x-2}.$\n- Xét giới hạn khi $x\\to\\infty$ và $x\\to-\\infty$: - $\\lim_{x\\to\\infty}\\dfrac{2}{x-2}=0,$ vì tử số bằng hằng số và mẫu tạo độ lớn vô hạn.\n  - $\\lim_{x\\to-\\infty}\\dfrac{2}{x-2}=0.$\n- Vì cả hai giới hạn tại vô cùng đều bằng 0, nên đường $y=0$ là tiệm cận ngang của đồ thị.\n- Lưu ý: đường $x=2$ là tiệm cận đứng (mẫu bằng 0 tại $x=2$), không phải tiệm cận ngang.\n✅ **Đáp án:** $C. \\; y=0$"
+    },
+    {
+      "id": 2,
+      "content": "Một dãy ghế gồm 8 chiếc ghế được xếp thành hàng ngang. Số cách xếp 5 bạn A, B, C, D, E ngồi vào 8 chiếc ghế sao cho mỗi bạn ngồi một ghế là",
+      "chuong": "đại số tổ hợp",
+      "dang": "bài tập cuối chương 8",
+      "type": "single",
+      "options": [
+        "A. 40",
+        "B. $A_8^3$",
+        "C. $C_8^5$",
+        "D. $A_8^5$"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Một dãy gồm 8 chiếc ghế xếp thành hàng ngang (hình đính kèm mô tả 8 ghế xếp thẳng hàng).\n- Năm bạn A, B, C, D, E cần được xếp ngồi, mỗi bạn ngồi một ghế.\n- Tìm số cách xếp các bạn vào 8 ghế (ghế khác nhau theo vị trí).\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu số cách chọn và sắp xếp 5 người phân biệt vào 8 vị trí phân biệt.\n- Cần áp dụng kiến thức về hoán vị lấy k phần tử của n phần tử: $A_n^k$.\n- Lưu ý: thứ tự ngồi quan trọng (vì mỗi ghế có vị trí khác nhau).\n🔎 **Hướng dẫn cách làm:**\n- Sử dụng công thức hoán vị: $A_n^k=\\frac{n!}{(n-k)}!}$, với ở đây $n=8,\\ k=5$.\n- Áp dụng: $A_8^5=\\frac{8!}{(8-5)}!}=\\frac{8!}{3}!}$.\n- Tính giá trị: $\\frac{8!}{3}!}=8\\cdot7\\cdot6\\cdot5\\cdot4=6720$.\n- Kiểm tra các phương án sai: 40 là quá nhỏ; $A_8^3$ là số cách xếp 3 người; $C_8^5$ là số cách chọn 5 ghế mà không xét thứ tự — đều không đúng với yêu cầu đề bài.\n✅ **Đáp án:** $D. A_8^5$"
+    },
+    {
+      "id": 3,
+      "content": "Trong không gian Oxyz, cho điểm $\\overrightarrow{OE}=2\\vec{i}-3\\vec{j}+4\\vec{k}$. Điểm đối xứng với điểm $E$ qua mặt phẳng $(Oyz)$ là điểm có toạ độ là",
+      "chuong": "vectơ và hệ trục tọa độ trong không gian",
+      "dang": "tọa độ của điểm, tọa độ của vectơ trong không gian",
+      "type": "single",
+      "options": [
+        "A. (−2;4;−3)",
+        "B. (2;−3;−4)",
+        "C. (−2;−3;4)",
+        "D. (2;3;−4)"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Điểm có vectơ vị trí $\\overrightarrow{OE}=2\\vec{i}-3\\vec{j}+4\\vec{k}$.\n- Mặt phẳng đối xứng là $(Oyz)$ (mặt phẳng chứa trục $Oy$ và $Oz$).\n❓ **Hiểu câu hỏi:**\n- Cần tìm tọa độ điểm đối xứng của điểm $E$ qua mặt phẳng $(Oyz)$.\n- Kiến thức cần dùng: quy tắc phản xạ qua mặt phẳng tọa độ — đặc biệt mặt phẳng $x=0$ (Oyz) đổi dấu hoành độ, tung độ và cao độ giữ nguyên.\n🔎 **Hướng dẫn cách làm:**\n- Từ $\\overrightarrow{OE}=2\\vec{i}-3\\vec{j}+4\\vec{k}$ suy ra tọa độ điểm $E$ là $(2;\\,-3;\\,4)$.\n- Mặt phẳng $(Oyz)$ có phương trình $x=0$. Phản xạ một điểm qua mặt phẳng $x=0$ nghĩa là hoành độ đổi dấu, còn tung độ và cao độ không đổi.\n- Nếu $E(x,y,z)=(2,-3,4)$ thì điểm đối xứng $E'$ có tọa độ $E'(-x;y;z)=(-2;-3;4)$\n✅ **Đáp án:** $C. (−2;−3;4)$"
+    },
+    {
+      "id": 4,
+      "content": "Cho hàm số $y=f(x)$ có một phần đồ thị như hình bên. Khoảng đồng biến của hàm số $y=f(x)$ là\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-kscl-thpt-toan-truong-thpt-nguyen-khuyen-le-thanh-tong-tinh-tp-hcm-2026-ma-de-10/cau-04.webp\" alt=\"Hình minh họa câu 4\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "tính đơn điệu của hàm số",
+      "type": "single",
+      "options": [
+        "A. (2;4)",
+        "B. (0;3)",
+        "C. (−1;0)",
+        "D. (1;3)"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cho hàm số $y=f(x)$ có một phần đồ thị như hình: có điểm đầu (-1, 3), đi xuống cắt trục hoành tại O(0,0), đạt **điểm cực tiểu** tại $x=1$ (dưới trục hoành), rồi tăng lên đến **đỉnh** (cực đại) tại (3, 3) (đỉnh nhọn), sau đó giảm và cắt trục hoành tại $x=4$.\n- Trục x có các mốc đánh dấu: -1, 1, 3, 4; trục y có mốc 3.\n- Các đoạn đồ thị: giảm từ -1 đến 1, tăng từ 1 đến 3, giảm từ 3 trở đi.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu: xác định **khoảng đồng biến** (khoảng hàm số tăng) của $y=f(x)$.\n- Cần áp dụng định nghĩa: hàm số đồng biến trên khoảng $I$ nếu với mọi $x_1<x_2$ thuộc $I$ thì $f(x_1)<f(x_2)$.\n🔎 **Hướng dẫn cách làm:**\n- Nhắc lại định nghĩa đồng biến: trên một khoảng $I$, nếu khi $x_1<x_2$ thì $f(x_1)<f(x_2)$.\n- Dựa vào hình: - Từ $x=-1$ đến $x=1$ đồ thị đi xuống → hàm giảm trên $(-1,1)$.\n  - Tại $x=1$ là điểm cực tiểu, sau đó đồ thị đi lên → hàm tăng trên khoảng từ $x=1$ đến $x=3$.\n  - Tại $x=3$ là điểm cực đại (đỉnh nhọn), sau $x=3$ đồ thị giảm → không đồng biến sau \\$3$.\n- Kết luận bằng ký hiệu: khoảng hàm đồng biến là $(1,3)$. (Ghi chú: các điểm 1 và 3 là các điểm cực trị, nên khoảng đồng biến là khoảng mở.)\n✅ **Đáp án:**  $D. (1;3)$"
+    },
+    {
+      "id": 5,
+      "content": "Cho hình chóp đều $S.ABCD$. Khẳng định nào dưới đây là sai?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-kscl-thpt-toan-truong-thpt-nguyen-khuyen-le-thanh-tong-tinh-tp-hcm-2026-ma-de-10/cau-05.webp\" alt=\"Hình minh họa câu 5\" loading=\"lazy\"></figure>",
+      "chuong": "vectơ và hệ trục tọa độ trong không gian",
+      "dang": "tọa độ của điểm, tọa độ của vectơ trong không gian",
+      "type": "single",
+      "options": [
+        "A. $\\overrightarrow{SA}+\\overrightarrow{SC}=\\overrightarrow{SB}+\\overrightarrow{SD}$",
+        "B. $\\overrightarrow{SA}+\\overrightarrow{SB}+\\overrightarrow{SC}+\\overrightarrow{SD}=\\vec{0}$",
+        "C. $\\overrightarrow{AD}+\\overrightarrow{AB}=\\overrightarrow{AC}$",
+        "D. $\\overrightarrow{BC}+\\overrightarrow{DS}=\\overrightarrow{AS}$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hình chóp đều *S.ABCD* (đáy ABCD là hình vuông hoặc hình bình hành có tâm O là giao của hai đường chéo).\n- O là giao điểm hai đường chéo AC và BD (trong hình O nằm ở tâm đáy).\n- Đoạn SO là trục (đường cao) của chóp (được vẽ bằng nét đứt trong hình).\n❓ **Hiểu câu hỏi:**\n- Câu hỏi: \"Khẳng định nào dưới đây là sai?\" — cần kiểm tra tính đúng/sai của các đẳng thức vectơ cho chóp đều.\n- Kiến thức cần dùng: vectơ vị trí liên hệ giữa các đỉnh với tâm đáy O, tính chất đối xứng của đáy (tổng các vectơ từ O đến các đỉnh đáy bằng 0).\n🔎 **Hướng dẫn cách làm:**\n- Gọi O là tâm đáy (giao của AC và BD). Từ hình (và tính đều của chóp) ta có sự đối xứng của bốn vectơ $\\overrightarrow{OA},\\overrightarrow{OB},\\overrightarrow{OC},\\overrightarrow{OD}$ nên\n$\\overrightarrow{OA}+\\overrightarrow{OB}+\\overrightarrow{OC}+\\overrightarrow{OD}=\\vec{0}.$\n- Viết mỗi vectơ từ S đến đỉnh qua O:\n$\\overrightarrow{SA}=\\overrightarrow{SO}+\\overrightarrow{OA},\\quad \\overrightarrow{SB}=\\overrightarrow{SO}+\\overrightarrow{OB}$, $\\overrightarrow{SC}=\\overrightarrow{SO}+\\overrightarrow{OC},\\quad \\overrightarrow{SD}=\\overrightarrow{SO}+\\overrightarrow{OD}.$\n- Cộng bốn phương trình trên:  Áp dụng tổng các $\\overrightarrow{OA}+\\overrightarrow{OB}+\\overrightarrow{OC}+\\overrightarrow{OD}=\\vec{0}$ ta được\n- Vì $S$ không trùng với $O$ nên $\\overrightarrow{SO}\\neq\\vec{0}$. Do đó tổng trên khác $\\vec{0}$.\n- Kết luận: đẳng thức $\\overrightarrow{SA}+\\overrightarrow{SB}+\\overrightarrow{SC}+\\overrightarrow{SD}=\\vec{0}$ là **sai**.\n✅ **Đáp án:**  $\\text{B. }\\overrightarrow{SA}+\\overrightarrow{SB}+\\overrightarrow{SC}+\\overrightarrow{SD}=\\vec{0}$"
+    },
+    {
+      "id": 6,
+      "content": "Đường cong ở hình bên là đồ thị của hàm số nào sau đây:\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-kscl-thpt-toan-truong-thpt-nguyen-khuyen-le-thanh-tong-tinh-tp-hcm-2026-ma-de-10/cau-06.webp\" alt=\"Hình minh họa câu 6\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "khảo sát và vẽ đồ thị hàm số phân thức hữu tỉ",
+      "type": "single",
+      "options": [
+        "A. $y=\\dfrac{-x^2-2x-2}{x+1}$",
+        "B. $y=\\dfrac{x^2+2x+2}{x-1}$",
+        "C. $y=\\dfrac{-x^2-2x}{x+1}$",
+        "D. $y=\\dfrac{x^2-2x+2}{x+1}$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Đồ thị là một hàm hữu tỉ có hai nhánh, có một đường tiệm cận đứng tại một giá trị x âm (có dấu -1 trên trục x) và một đường tiệm cận chéo (một đường thẳng).\n- Trên đồ thị ta thấy điểm tại x = 0 có giá trị y = -2 (trùng với vạch -2 trên trục Oy).\n- Các phương án hàm số cho sẵn: - A. $y=\\dfrac{-x^2-2x-2}{x+1}$\n  - B. $y=\\dfrac{x^2+2x+2}{x-1}$\n  - C. $y=\\dfrac{-x^2-2x}{x+1}$\n  - D. $y=\\dfrac{x^2-2x+2}{x+1}$\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu chọn hàm số nào tương ứng với đồ thị.\n- Cần kiểm tra: - Tiệm cận đứng (x = ?), dựa vào mẫu số bằng 0.\n  - Tiệm cận chéo (dạng ax + b), bằng cách chia đa thức (chia tử cho mẫu).\n  - Một vài điểm cụ thể trên đồ thị (ví dụ giá trị tại x = 0 hay x = -2) để so sánh với các hàm cho trước.\n🔎 **Hướng dẫn cách làm:**\n- Kiểm tra tiệm cận đứng: - Hàm có mẫu số $x+1$ có tiệm cận đứng tại $x=-1$ (phù hợp với vạch -1 trên trục x của đồ thị).\n  - Hàm B có mẫu $x-1$ → tiệm cận đứng tại $x=1$ (không phù hợp).\n- Tìm tiệm cận chéo của phương án A bằng chia đa thức: - Chia $-x^2-2x-2$ cho $x+1$: - $\\frac{-x^2-2x-2}{x+}1} = -x-1 -\\frac{1}{x+}1}.$\n    - Vậy tiệm cận chéo là $y=-x-1.$\n- Kiểm tra một vài điểm xác định để đối chiếu với đồ thị: - Với phương án A, khi $x=0$: - $y=\\dfrac{-0-0-2}{0+1}=-2.$ Đồ thị cho thấy điểm tại $x=0$ có $y=-2$ (khớp).\n  - Khi $x=-2$: - $y=\\dfrac{-(-2)^2-2(-2)-2}{-2+1}=\\dfrac{-4+4-2}{-1}=\\dfrac{-2}{-1}=2.$ Điểm $(-2,2)$ nằm trên nhánh phía trái (khớp với nhánh ở góc phần tư II).\n- So sánh với các phương án khác: - B: tiệm cận đứng $x=1$ (không khớp với vạch -1 trên đồ thị) và giá trị tại $x=0$ là $y=2$ (không khớp).\n  - C: khi $x=0$ cho $y=0$ (không khớp với $y=-2$ trên đồ thị).\n  - D: khi $x=0$ cho $y=2$ (không khớp).\n✅ **Đáp án:** $A. \\; y=\\dfrac{-x^2-2x-2}{x+1}$"
+    },
+    {
+      "id": 7,
+      "content": "Cho $X$ và $Y$ là hai biến cố độc lập. Biết xác suất của biến cố $X$ là \\$0{,}3$ và xác suất của biến cố $Y$ là \\$0{,}5$. Khi đó xác suất của biến cố $X \\cup Y$ bằng",
+      "chuong": "các quy tắc tính xác suất",
+      "dang": "biến cố hợp",
+      "type": "single",
+      "options": [
+        "A. 0,4",
+        "B. 0,65",
+        "C. 0,8",
+        "D. 0,85"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cho hai biến cố độc lập *X* và *Y*.\n- $P(X)=0{,}3$.\n- $P(Y)=0{,}5$.\n- Yêu cầu: tìm $P(X\\cup Y)$.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu tính xác suất của hợp hai biến cố $X\\cup Y$.\n- Cần áp dụng quy tắc cộng xác suất cho hai biến cố và tính giao của hai biến cố khi biết chúng độc lập: - Công thức tổng quát: $P(X\\cup Y)=P(X)+P(Y)-P(X\\cap Y)$.\n  - Nếu độc lập thì $P(X\\cap Y)=P(X)\\cdot P(Y)$.\n🔎 **Hướng dẫn cách làm:**\n- Viết công thức tổng quát: $P(X\\cup Y)=P(X)+P(Y)-P(X\\cap Y).$\n- Vì *X* và *Y* độc lập nên $P(X\\cap Y)=P(X)\\cdot P(Y).$\n- Tính giao: $P(X\\cap Y)=0{,}3\\times0{,}5=0{,}15.$\n- Thay vào công thức hợp: $P(X\\cup Y)=0{,}3+0{,}5-0{,}15=0{,}65.$\n- Kiểm tra nhanh: giá trị phải nằm trong khoảng [0,1] và phù hợp với P(X)+P(Y)-P(X)P(Y) — đây là kết quả hợp lý.\n✅ **Đáp án:**  $B. 0,65$"
+    },
+    {
+      "id": 8,
+      "content": "Trong không gian Oxyz, cho điểm $M(-1;1;-3)$ và mặt phẳng $(P):2x-y+2z+3=0$. Khoảng cách từ điểm $M$ đến mặt phẳng $(P)$ bằng",
+      "chuong": "quan hệ vuông góc trong không gian",
+      "dang": "khoảng cách từ một điểm đến một đường thẳng, đến một mặt phẳng",
+      "type": "single",
+      "options": [
+        "A. 4",
+        "B. −2",
+        "C. 3",
+        "D. 2"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Điểm $M(-1;1;-3)$.\n- Mặt phẳng $(P):\\;2x-y+2z+3=0.$\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu: Tính khoảng cách từ điểm $M$ đến mặt phẳng $(P)$.\n- Áp dụng công thức khoảng cách từ điểm $M(x_0,y_0,z_0)$ đến mặt phẳng $Ax+By+Cz+D=0$:\n$d=\\frac{|Ax_0+By_0+Cz_0+D|}{\\sqrt}{A^2+B^2+C^2}}.$\n🔎 **Hướng dẫn cách làm:**\n- Nhận dạng hệ số của mặt phẳng: $A=2,\\;B=-1,\\;C=2,\\;D=3.$\n- Tọa độ điểm: $x_0=-1,\\;y_0=1,\\;z_0=-3.$\n- Tính tử số:\n$Ax_0+By_0+Cz_0+D = 2(-1)+(-1)(1)+2(-3)+3 = -2-1-6+3 = -6.$\nGiá trị tuyệt đối: $| -6 | = 6.$\n- Tính mẫu số:\n$\\sqrt{A^2+B^2+C^2} = \\sqrt{2^2+(-1)^2+2^2} = \\sqrt{4+1+4} = \\sqrt{9} = 3.$\n- Khoảng cách:\n$d=\\frac{6}{3}=2.$\n✅ **Đáp án:** D. \\$2$"
+    },
+    {
+      "id": 9,
+      "content": "Mỗi ngày bác An đều đi bộ để rèn luyện sức khỏe. Quãng đường đi bộ mỗi ngày (đơn vị: $\\text{km}$) của bác An trong 20 ngày được thống kê lại như bảng sau. Độ lệch chuẩn của mẫu số liệu ghép nhóm có giá trị gần nhất với giá nào dưới đây?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-kscl-thpt-toan-truong-thpt-nguyen-khuyen-le-thanh-tong-tinh-tp-hcm-2026-ma-de-10/cau-09.webp\" alt=\"Hình minh họa câu 9\" loading=\"lazy\"></figure>",
+      "chuong": "các số đặc trưng đo xu thế trung tâm của mẫu số liệu ghép nhóm",
+      "dang": "số trung bình của mẫu số liệu ghép nhóm",
+      "type": "single",
+      "options": [
+        "A. 0,37",
+        "B. 0,13",
+        "C. 3,39",
+        "D. 0,36"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**📃 Thông tin đề bài cho:**\n- Quãng đường đi bộ mỗi ngày của bác An được chia thành các lớp (đơn vị km): - $[2{,}7;3{,}0)$ có 3 ngày\n  - $[3{,}0;3{,}3)$ có 6 ngày\n  - $[3{,}3;3{,}6)$ có 5 ngày\n  - $[3{,}6;3{,}9)$ có 4 ngày\n  - $[3{,}9;4{,}2)$ có 2 ngày\n- Tổng số ngày: 20\n- Yêu cầu: tính *độ lệch chuẩn của mẫu số liệu ghép nhóm*.\n**❓ Hiểu câu hỏi:**\n- Cần tính độ lệch chuẩn $s$ của số liệu ghép nhóm.\n- Ta sẽ dùng **giá trị đại diện** (trung điểm mỗi lớp) để tính toán.\n**🔎 Hướng dẫn cách làm:**\n- Bước 1: Xác định **giá trị đại diện** $x_i$ cho mỗi lớp: - $[2{,}7;3{,}0) \\Rightarrow x_1 = 2{,}85$\n  - $[3{,}0;3{,}3) \\Rightarrow x_2 = 3{,}15$\n  - $[3{,}3;3{,}6) \\Rightarrow x_3 = 3{,}45$\n  - $[3{,}6;3{,}9) \\Rightarrow x_4 = 3{,}75$\n  - $[3{,}9;4{,}2) \\Rightarrow x_5 = 4{,}05$\n- Bước 2: Tính **số trung bình**:\n$\\overline{x}=\\frac{1}{2}0}\\left(3\\cdot2{,}85+6\\cdot3{,}15+5\\cdot3{,}45+4\\cdot3{,}75+2\\cdot4{,}05\\right)=3{,}39$\n- Bước 3: Tính **phương sai**:\n$s^2=\\frac{1}{2}0}\\sum n_i(x_i-\\overline{x})^2$\nThay số vào (làm tròn hợp lý), ta được:\n$s^2 \\approx 0{,}13$\n- Bước 4: Tính **độ lệch chuẩn**:\n$s=\\sqrt{s^2}\\approx \\sqrt{0{,}13}\\approx 0{,}36$\n**✅ Đáp án:** **D.**$0{,}36$"
+    },
+    {
+      "id": 10,
+      "content": "Tập nghiệm của bất phương trình \\$5^{3x+1}<\\dfrac1{25}$ là",
+      "chuong": "hàm số mũ và hàm số lôgarit",
+      "dang": "bất phương trình mũ",
+      "type": "single",
+      "options": [
+        "A. (−1;+ \\infty )",
+        "B. (− \\infty ;1)",
+        "C. (1;+ \\infty )",
+        "D. (− \\infty ;−1)"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Môn: MATH.\n- Bất phương trình: \\$5^{3x+1}<\\dfrac{1}{25}$.\n- Nhận xét: $\\dfrac{1}{25}=5^{-2}$.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu tìm *tập nghiệm* (tập các giá trị của $x$) sao cho bất phương trình đúng.\n- Cần áp dụng kiến thức về hàm mũ: với cơ số \\$5>1$, hàm số \\$5^t$ là *đồng biến*, nên ta có thể so sánh hai lũy thừa cùng cơ số bằng cách so sánh số mũ.\n🔎 **Hướng dẫn cách làm:**\n- Viết lại vế phải cùng cơ số 5: $\\dfrac{1}{25}=5^{-2}.$\n- Do cơ số 5 lớn hơn 1, hàm mũ là đồng biến, nên bất phương trình tương đương với:\n\\$5^{3x+1}<5^{-2}\\Longleftrightarrow 3x+1<-2.$\n- Giải bất phương trình bậc nhất: \\$3x+1<-2\\Rightarrow 3x<-3\\Rightarrow x<-1.$\n- Vậy tập nghiệm là khoảng $(-\\infty;-1).$\n- Kiểm tra nhanh: với $x=-2$ ta có \\$5^{3(-2)+1}=5^{-5}=\\dfrac{1}{3125}<\\dfrac{1}{25}$ (đúng); với $x=0$ ta có \\$5^{1}=5>\\dfrac{1}{25}$ (sai). Kết luận hợp lý.\n✅ **Đáp án:**  $D. (−∞;−1)$"
+    },
+    {
+      "id": 11,
+      "content": "Cho lăng trụ tam giác đều $ABC.A'B'C'$ có cạnh bên bằng \\$3a$, đáy bằng \\$2a$. Số đo của góc nhị diện $[A',BC,A]$ bằng",
+      "chuong": "quan hệ vuông góc trong không gian",
+      "dang": "góc nhị diện",
+      "type": "single",
+      "options": [
+        "A. 60°",
+        "B. 45°",
+        "C. 120°",
+        "D. 30°"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**📃 Thông tin đề bài cho:**\n- Lăng trụ tam giác đều $ABC.A'B'C'$.\n- Đáy $ABC$ là tam giác đều cạnh \\$2a$.\n- Cạnh bên $AA' = BB' = CC' = 3a$.\n- Xét *góc nhị diện* $[A',,BC,,A]$.\n**❓ Hiểu câu hỏi:**\n- Góc nhị diện $[A',BC,A]$ là góc tạo bởi hai mặt phẳng: - Mặt phẳng $(A'BC)$\n  - Mặt phẳng $(ABC)$\n- Ta cần tính số đo góc giữa hai mặt phẳng này theo cạnh đã cho.\n**🔎 Hướng dẫn cách làm:**\n- Vì $ABC$ là tam giác đều nên: - $AB = BC = CA = 2a$\n  - Gọi $H$ là trung điểm của $BC$ thì $AH \\perp BC$.\n- Do lăng trụ đều: - $AA' \\perp (ABC)$\n  - Suy ra $A'H \\perp BC$.\n- Khi đó, góc nhị diện $[A',BC,A]$ chính là góc giữa hai đường thẳng: - $AH$ (trong mặt phẳng $(ABC)$)\n  - $A'H$ (trong mặt phẳng $(A'BC)$)\n- Xét tam giác vuông $AA'H$ tại $A$: - $AH = \\dfrac{\\sqrt{3}}{2}\\cdot 2a = \\sqrt{3}a$\n  - $AA' = 3a$\n- Áp dụng công thức cosin cho góc $\\widehat{HA'A}$:\n$\\cos\\varphi = \\frac{AH}{A'}H}$\n- Tính $A'H$:\n$A'H = \\sqrt{AH^2 + AA'^2} = \\sqrt{3a^2 + 9a^2} = 2\\sqrt{3}a$\n- Do đó:\n$\\cos\\varphi = \\frac{\\sqrt{3}a}{2\\sqrt{3}a} = \\frac{1}{2}$\n- Suy ra:\n$\\varphi = 60^\\circ$\n**✅ Đáp án:** **A. **$60^\\circ$"
+    },
+    {
+      "id": 12,
+      "content": "Cho cấp số nhân $(u_n)$ có $u_1=-3$ và $u_8=-243$. Số hạng $u_3$ của cấp số nhân đã cho là",
+      "chuong": "dãy số. cấp số cộng và cấp số nhân",
+      "dang": "số hạng tổng quát của cấp số nhân",
+      "type": "single",
+      "options": [
+        "A. −8",
+        "B. −81",
+        "C. −27",
+        "D. 9"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**📃 Thông tin đề bài cho:**\n- Cho cấp số nhân $(u_n)$.\n- Biết: - $u_1 = -3$\n  - $u_5 = -243$\n- Yêu cầu: tìm số hạng $u_3$.\n**❓ Hiểu câu hỏi:**\n- Đây là bài toán về **cấp số nhân**.\n- Cần sử dụng công thức số hạng tổng quát:\n$u_n = u_1 \\cdot q^{,n-1}$\ntrong đó $q$ là công bội.\n**🔎 Hướng dẫn cách làm:**\n- Áp dụng công thức cho $u_5$:\n$u_5 = u_1 \\cdot q^4$\n- Thay số:\n$-243 = -3 \\cdot q^4$\n- Chia hai vế cho $-3$:\n$q^4 = 81 = 3^4 \\Rightarrow q = 3$\n(vì $q$ dương để phù hợp với các đáp án).\n- Tính $u_3$:\n$u_3 = u_1 \\cdot q^2 = -3 \\cdot 3^2 = -27$\n**✅ Đáp án:** **C. **$-27$"
+    }
+  ]
+}

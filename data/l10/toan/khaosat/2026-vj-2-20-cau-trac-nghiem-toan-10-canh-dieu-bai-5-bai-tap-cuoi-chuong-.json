@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-20-cau-trac-nghiem-toan-10-canh-dieu-bai-5-bai-tap-cuoi-chuong-",
+  "sourceId": "vietjack:2-20-cau-trac-nghiem-toan-10-canh-dieu-b",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.20 câu Trắc nghiệm Toán 10 Cánh diều Bài 5. Bài tập cuối chương 5 (Phần 2) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Số các hoán vị của n phần tử là:",
+      "options": [
+        "A. n;",
+        "B. n + 1;",
+        "C. n – 1;",
+        "D. n!."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải Đáp án đúng là: D Số các hoán vị của n phần tử là n!."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Một lớp có 31 học sinh nam và 16 học sinh nữ. Có bao nhiêu cách chọn một học sinh làm lớp trưởng của lớp.",
+      "options": [
+        "A. 31;",
+        "B. 16;",
+        "C. 47;",
+        "D. 15."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là: C Theo quy tắc cộng ta có số cách chọn một học sinh làm lớp trưởng là: 31 + 16 = 47 (cách)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Tổ hợp chập k của n phần tử với 1 ≤ k ≤ n là:",
+      "options": [
+        "A. \\(C_n^k\\) ;",
+        "B. \\(C_k^n\\) ;",
+        "C. \\(A_n^k\\) ;",
+        "D. \\(A_k^n\\) ."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A Tổ hợp chập k của n phần tử với 1 ≤ k ≤ n là \\(C_n^k\\) ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Bạn An dự định mua quà sinh nhật cho mẹ là một dây chuyền. Có ba kiểu mặt dây chuyền là: hình cỏ bốn lá, hình trái tim và hình giọt nước; có 2 loại dây là dạng xoắn, dạng chỉ. Hỏi bạn An có mấy cách chọn dây chuyền tặng mẹ.",
+      "options": [
+        "A. 3;",
+        "B. 2;",
+        "C. 5;",
+        "D. 6."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải Đáp án đúng là: D Chọn một chiếc dây chuyền thì cần thực hiện hai hành động là: + Chọn mặt dây: có 3 cách + Chọn dây: Có 2 cách. Do đó, số cách bạn An chọn dây chuyền tặng mẹ là: 2 . 3 = 6 (cách)"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho tập A có n phần tử (n ∈ ℕ, n ≥ 2), k là số nguyên thỏa mãn 1 ≤ k ≤ n. Số các chỉnh hợp chập k của n phần tử trên là:",
+      "options": [
+        "A. n.k;",
+        "B. n.(n – 1).(n – 2)…(n – k + 1);",
+        "C. \\(\\frac{n}{k}\\) ;",
+        "D. \\(\\frac{k}{n}\\) ."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải Đáp án đúng là: B Ta kí hiệu \\(A_n^k\\) là số các chỉnh hợp chập k của n phần tử ( 1 ≤ k ≤ n) . Ta có: \\(A_n^k = n\\left( {n - 1} \\right)...\\left( {n - k + 1} \\right)\\)"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho tập A gồm 5 phần tử. Số tập con có 3 phần tử của A là:",
+      "options": [
+        "A. 5;",
+        "B. 10;",
+        "C. 15;",
+        "D. 20."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải Đáp án đúng là: B Mỗi tập con có 3 phần tử của tập A là một tổ hợp chậ p 3 của 5. Do đó, có số tập con là: \\(C_5^3 = 10\\) tập con."
+    }
+  ]
+}

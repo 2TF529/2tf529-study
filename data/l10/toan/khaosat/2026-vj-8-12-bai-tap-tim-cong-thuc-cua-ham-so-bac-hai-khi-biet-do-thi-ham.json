@@ -1,0 +1,65 @@
+{
+  "id": "2026-vj-8-12-bai-tap-tim-cong-thuc-cua-ham-so-bac-hai-khi-biet-do-thi-ham",
+  "sourceId": "vietjack:8-12-bai-tap-tim-cong-thuc-cua-ham-so-ba",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "8.12 Bài tập Tìm công thức của hàm số bậc hai khi biết đồ thị hàm số (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 3: Đồ thị hàm số trong hình sau là của hàm số bậc hai nào ?",
+      "options": [
+        "A. y = x 2 – 4x + 2;",
+        "B. y = –x 2 – 4x + 2;",
+        "C. y = –x 2 + 4x – 4;",
+        "D. y = x 2 – 4x + 4."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải: Đáp án đúng là: C. Hàm số bậc hai có dạng y = ax 2 + bx + c (a ≠ 0). Dựa vào hình vẽ, ta thấy đồ thị hàm số y = ax 2 + bx + c có bề lõm hướng xuống, đỉnh I(2; 0) và cắt trục tung tại điểm (0; – 4). Do đó ta có: a < 0 (1) \\( - \\frac{b}{{2a}} = 2\\) (2); \\( - \\frac{\\Delta }{{4a}} = 0 \\Leftrightarrow - \\frac{{{b^2} - 4ac}}{{4a}} = 0 \\Leftrightarrow {b^2} - 4ac = 0\\) (3) c = – 4 (4) Thay (4) vào (3) ta có: \\({b^2} - 4a.( - 4) = 0 \\Leftrightarrow {b^2} + 16a = 0\\) (5) Từ (2) ta có: b = –4a (6) Thay (6) vào (5) ta có: (–4a) 2 + 16a = 0 ⇔ 16a 2 + 16a = 0 ⇔ 16a(a + 1) = 0 ⇔ \\(\\left[ \\begin{array}{l}a = 0\\,\\,(L)\\\\a = - 1\\,\\,(TM)\\end{array} \\right.\\) Với a = –1 ta có: b = – 4.(– 1) = 4 Vậy hàm số y = ax 2 + bx + c là y = –x 2 + 4x – 4."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 4: Cho parabol như hình dưới. Xác định hàm số đó.",
+      "options": [
+        "A. y = 2x 2 – 3;",
+        "B. y = x 2 – 3;",
+        "C. y = x 2 – 5;",
+        "D. y = x 2 – 3x."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải: Đáp án đúng là: B. Gọi dạng của parabol trên là y = ax 2 + bx + c (a ≠ 0). Dựa vào hình vẽ, ta thấy đồ thị hàm số y = ax 2 + bx + c có bề lõm hướng lên, đỉnh I(0; –3) và cắt trục tung tại điểm (0; –3). Do đó ta có: a > 0 \\( - \\frac{b}{{2a}} = 0\\) ⇒ b = 0 c = –3 Dựa vào đồ thị ta còn thấy, đồ thị hàm số đi qua điểm (2; 1) do đó ta có: Tại x = 2 thì y = a.2 2 + b.2 + c = 1 Hay 4a + 2b + c = 1 Mà b = 0, c = –3 ⇒ 4a – 3 = 1 ⇒ 4a = 4 ⇒ a = 1 (TM) Vậy hàm số y = ax 2 + bx + c là y = x 2 – 3."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 5: Đường cong sau đây là đồ thị của hàm số bậc hai nào ?",
+      "options": [
+        "A. y = x 2 – 2x + 1;",
+        "B. y = x 2 – x – 1;",
+        "C. y = x 2 – 2x – 1;",
+        "D. y = –x 2 – 2x – 1."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải: Đáp án đúng là: C. Hàm số bậc hai có dạng y = ax 2 + bx + c (a ≠ 0). Dựa vào hình vẽ, ta thấy đồ thị hàm số y = ax 2 + bx + c có bề lõm hướng lên, đỉnh I(1; –2) và cắt trục tung tại điểm (0; –1). Do đó ta có: a > 0 (1) \\( - \\frac{b}{{2a}} = 1\\) (2); \\( - \\frac{\\Delta }{{4a}} = - 2 \\Leftrightarrow \\frac{{{b^2} - 4ac}}{{4a}} = 2 \\Leftrightarrow {b^2} - 4ac = 8a\\) (3) c = –1 (4) Thay (4) vào (3) ta có: b 2 – 4a.(–1) = 8a ⇔ b 2 – 4a = 0 (5) Từ (2) ta có: b = –2a (6) Thay (6) vào (5) ta có: (–2a) 2 – 4a = 0 ⇔ 4a 2 – 4a = 0 ⇔ 4a(a – 1) = 0 ⇔ \\(\\left[ \\begin{array}{l}a = 0\\,\\,(L)\\\\a = 1\\,\\,(TM)\\end{array} \\right.\\) Với a = 1 ta có: b = –2.1 = –2 Vậy hàm số y = ax 2 + bx + c là y = x 2 – 2x – 1."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 6: Cho hàm số y = ax 2 + bx + c (a ≠ 0) có đồ thị như hình dưới. Xác định hàm số đó.",
+      "options": [
+        "A. y = x 2 ;",
+        "B. y = 2x 2 ;",
+        "C. y = x 2 – 5;",
+        "D. y = x 2 + 4."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A. Dựa vào hình vẽ, ta thấy đồ thị hàm số y = ax 2 + bx + c có bề lõm hướng lên, đỉnh I(0; 0) và cắt trục tung tại điểm (0; 0). Do đó ta có: a > 0 \\( - \\frac{b}{{2a}} = 0\\) ⇒ b = 0 c = 0 Dựa vào đồ thị ta còn thấy, đồ thị hàm số đi qua điểm (1; 1) do đó ta có: Tại x = 1 thì y = a.1 2 + b.1 + c = 1 Hay a + b + c = 1 Mà b = 0, c = 0 ⇒ a = 1 (TM) Vậy hàm số y = ax 2 + bx + c là y = x 2 ."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-4-10-bai-tap-tinh-so-do-goc-chung-minh-hai-goc-bang-nhau-co-loi-g",
+  "sourceId": "vietjack:4-10-bai-tap-tinh-so-do-goc-chung-minh-h",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "4.10 bài tập Tính số đo góc, chứng minh hai góc bằng nhau có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho (O; 4) có dây AC bằng cạnh hình vuông nội tiếp và dây BC bằng cạnh tam giác đều nội tiếp đường tròn đó (điểm C và A nằm cùng phía với BO). Tính số đo góc ACB.",
+      "options": [
+        "A. 30°.",
+        "B. 45°.",
+        "C. 60°.",
+        "D. 15°."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Vì AC bằng cạnh của hình vuông nội tiếp (O) nên sđ = 90°. BC bằng cạnh của tam giác đều nội tiếp nên sđ = 120°. Do đó, sđ = 120° − 90° = 30°. Có \\[\\widehat {ACB}\\] là góc nội tiếp chắn cung AB nên ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho tam giác ABC có ba góc nhọn, đường cao AH và nội tiếp đường tròn tâm (O), đường kính AM. Góc BAH bằng",
+      "options": [
+        "A. góc AMC.",
+        "B. góc ABH.",
+        "C. góc ACM.",
+        "D. góc OCA."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Ta có: \\[\\widehat {ACM} = 90^\\circ \\] (góc nội tiếp chắn nửa đường tròn) Xét ∆ABH và ∆AMC, có: \\[\\widehat {ABH} = \\widehat {AMC}\\] (góc nội tiếp cùng chắn cung AC) \\[\\widehat {ACM} = \\widehat {AHB} = 90^\\circ \\] Do đó, ∆ABH ᔕ ∆AMC (g.g) Suy ra \\[\\widehat {BAH} = \\widehat {MAC}\\] hay \\[\\widehat {BAH} = \\widehat {OAC}\\]."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho tam giác ABC vuông tại A nội tiếp đường tròn (O; 4). Biết rằng AC = 4 cm. Lấy D là điểm bất kì khác A, B, C trên đường tròn. Chọn khẳng định đúng.",
+      "options": [
+        "A. \\[\\widehat {BDA} = 90^\\circ \\].",
+        "B. \\[\\widehat {BCA} = 30^\\circ \\].",
+        "C. \\[\\widehat {CDA} = 30^\\circ \\].",
+        "D. \\[\\widehat {CBA} = 60^\\circ \\]."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Xét ∆AOC, có OA = OC = AC = 4 cm. Suy ra tam giác AOC đều nên \\[\\widehat {OCA} = 60^\\circ \\]. Ta có: \\[\\widehat {OCA} = \\widehat {BDA} = 60^\\circ \\] (góc nội tiếp cùng chắn cung AB). Xét ∆ABC vuông tại A, có: \\[\\widehat {ACB} + \\widehat {ABC} = 90^\\circ \\] (hai góc phụ nhau) Do đó, \\[\\widehat {ABC} = 90^\\circ - \\widehat {ACB} = 90^\\circ - 60^\\circ = 30^\\circ .\\] Lại có, \\[\\widehat {ADC} = \\widehat {ABC} = 30^\\circ \\] (hai góc nội tiếp cùng chắn cung AC). Vậy \\[\\widehat {CDA} = 30^\\circ \\]."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho đường tròn như hình vẽ dưới đây. Biết rằng, CA = CD, \\[\\widehat {BDA} = 26^\\circ ,\\]\\[\\widehat {ACD} = 28^\\circ \\]. Số đo góc BAC là",
+      "options": [
+        "A. 90°.",
+        "B. 80°.",
+        "C. 50°.",
+        "D. 100°."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Xét ∆ACD có AC = CD nên ∆ACD cân tại C. Do đó, \\[\\widehat {DAC} = \\widehat {CDA} = \\frac{{180^\\circ - \\widehat {ACD}}}{2} = \\frac{{180^\\circ - 28^\\circ }}{2} = 76^\\circ \\]. Mà \\[\\widehat {CDB} + \\widehat {BDA} = \\widehat {ADC}\\]. \\[\\widehat {CDB} + 26^\\circ = 76^\\circ \\] \\[\\widehat {CDB} = 76^\\circ - 26^\\circ = 50^\\circ \\]. Mà \\[\\widehat {CDB} = \\widehat {BAC}\\] (góc nội tiếp cùng chắn cung BC). Do đó, \\[\\widehat {BAC} = 50^\\circ \\]."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho đường tròn tâm O và hai dây cung AB // CD. Trên cung AB lấy điểm M. Chọn khẳng định đúng trong các khẳng định dưới đây.",
+      "options": [
+        "A. \\[\\widehat {AMC} = \\widehat {BMD}\\].",
+        "B. \\[\\widehat {AMB} = \\widehat {CMD}.\\]",
+        "C. \\[\\widehat {AMC} = \\widehat {AMB}.\\]",
+        "D. \\[\\widehat {BMA} = \\widehat {BMD}.\\]"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có \\[\\widehat {AMC}\\] là góc nội tiếp chắn cung AC, \\[\\widehat {BMD}\\] là góc nội tiếp chắn cung BD. Mà AB // CD nên . Do đó, \\[\\widehat {AMC} = \\widehat {BMD}\\]."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho đường tròn tâm O, đường kính AC. Lấy B ∈ (O) sao cho \\[\\widehat {ACB} = 70^\\circ \\]. Kẻ BD ⊥ AC (D ∈ (O)). Số đo \\[\\widehat {CDB}\\] là",
+      "options": [
+        "A. 20°.",
+        "B. 30°.",
+        "C. 10°.",
+        "D. 40°."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có: \\[\\widehat {ABC} = 90^\\circ \\] (góc nội tiếp chắn nửa đường tròn) Có BD ⊥ AC với AC là đường kính đường tròn (O) nên AC là đường trung trực của BD. Do đó, \\[\\widehat {ACB} = \\widehat {ACD} = 70^\\circ \\]. Suy ra \\[\\widehat {CDB} = 90^\\circ - \\widehat {ACD} = 90^\\circ - 70^\\circ = 20^\\circ \\]."
+    }
+  ]
+}

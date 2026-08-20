@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-15-cau-trac-nghiem-tin-hoc-10-canh-dieu-chuong-trinh-con-va-thu",
+  "sourceId": "vietjack:2-15-cau-trac-nghiem-tin-hoc-10-canh-die",
+  "grade": "l10",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.15 câu Trắc nghiệm Tin học 10 Cánh diều Chương trình con và thư viện các chương trình con có sẵn có đáp án (Phần 2)",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Từ khóa dùng để khai báo hàm trong Python là?",
+      "options": [
+        "A. def",
+        "B. procedure",
+        "C. return",
+        "D. function"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Hàm trong Python được khai báo theo cú pháp: def tên_hàm(tham số): Các lệnh mô tả hàm"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Kí hiệu nào dùng để xác định các khối lệnh (khối lệnh của hàm, vòng lặp, …) trong Python?",
+      "options": [
+        "A. Thụt lề",
+        "B. Dấu ngoặc vuông [ ]",
+        "C. Dấu ngoặc nhọn { }",
+        "D. Dấu ngoặc đơn ( )"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Khối lệnh của hàm (thân hàm) phải được viết thụt vào 1 đoạn theo quy định của Python."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Hàm nào sau đây là hàm tích hợp sẵn trong Python?",
+      "options": [
+        "A. print",
+        "B. sqrt()",
+        "C. ptb1()",
+        "D. hoanvi()"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Python xây dựng một số hàm có sẵn. Sau tên hàm phải có các dấu mở, đóng ngoặc."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Ý nào sau đây không phải là cách viết một hàm trong Python?",
+      "options": [
+        "A. Cuối hàm phải kết thúc bằng lệnh End;",
+        "B. Tên hàm phải đặt theo quy tắc đặt tên trong Python",
+        "C. Tham số có thể có hoặc không",
+        "D. Phần thân hàm phải viết lùi vào."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Kết thúc hàm không cần lệnh nào"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Hàm có sẵn trong thư viện math là:",
+      "options": [
+        "A. sqrt()",
+        "B. input()",
+        "C. list()",
+        "D. print()"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A sqrt() là hàm tính căn bậc 2"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong Python, lời gọi hàm thực hiện phải đặt ở vị trí nào?",
+      "options": [
+        "A. Sau khi đã khai báo hàm",
+        "B. Trước khi khai báo hàm",
+        "C. Trong thân hàm",
+        "D. Không cần gọi hàm"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Lời gọi hàm được thực hiện sau khi đã khai báo hàm."
+    }
+  ]
+}

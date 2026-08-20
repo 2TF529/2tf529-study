@@ -1,0 +1,286 @@
+{
+  "id": "l12-li-totnghiep-2026-de-thi-thu-tn-thpt-vat-ly-tinh-ninh-binh-lan-2-2026",
+  "grade": "l12",
+  "subjectSlug": "li",
+  "examType": "totnghiep",
+  "year": 2026,
+  "code": "THPT_TTL_NB_2026_02",
+  "title": "Đề thi thử tốt nghiệp THPT môn Vật Lý Sở GD&ĐT Ninh Bình lần 2 năm 2026",
+  "duration": 50,
+  "answerSource": "official",
+  "source": "https://dolthpt.vn/tot-nghiep-thpt/pdf-de-thi-thu-tn-thpt-vat-ly-tinh-ninh-binh-lan-2-2026-co-dap-an",
+  "notes": "Nội dung, đáp án và lời giải được nhập từ bản công khai của DOL THPT.",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "content": "Trong hệ đơn vị SI, nhiệt nóng chảy riêng có đơn vị là",
+      "chuong": "vật lí nhiệt",
+      "dang": "lý thuyết: nhiệt nóng chảy riêng",
+      "type": "single",
+      "options": [
+        "A. J.K",
+        "B. J.s",
+        "C. J/kg",
+        "D. J/(kg.K)"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Ta biết công thức liên hệ: $Q=m\\lambda$, trong đó $Q$ là nhiệt lượng (đơn vị J), $m$ là khối lượng (đơn vị kg), $\\lambda$ là nhiệt nóng chảy riêng.\n- Suy ra $\\lambda=\\frac{Q}{m}$.\n- Xét đơn vị của $\\lambda$: $[\\lambda]=\\frac{\\text{đơn vị của }Q}{\\text{đơn vị của }m}=\\frac{\\text{J}}{\\text{kg}}=\\text{J/kg}.$\n- (Ví dụ minh họa) Nếu để làm tan 1 kg băng cần 334000 J thì $\\lambda=334000\\text{J/kg}$. Đơn vị là J/kg.\n✅ **Đáp án:** C. J/kg"
+    },
+    {
+      "id": 2,
+      "content": "Người ta thực hiện thay đổi nhiệt độ đối với một khối khí lí tưởng xác định. Nếu tăng nhiệt độ của khối khí này với áp suất không đổi thì khối lượng riêng của nó sẽ",
+      "chuong": "khí lí tưởng",
+      "dang": "lý thuyết: định luật charles",
+      "type": "single",
+      "options": [
+        "A. giảm.",
+        "B. có thể tăng hoặc giảm.",
+        "C. tăng.",
+        "D. không thay đổi."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Áp dụng phương trình trạng thái của khí lí tưởng:  trong đó $p$ là áp suất, $V$ thể tích, $m$ khối lượng, $R$ hằng số khí, $T$ nhiệt độ tuyệt đối.\n- Viết khối lượng riêng $\\rho$ theo định nghĩa:\n- Từ phương trình khí lí tưởng, chia cả hai vế cho $V$ và thay $m/V = \\rho$ ta được:\n- Khi $p$ và $R$ là hằng số, ta giải cho $\\rho$:\n- Từ biểu thức này thấy rằng $\\rho$ tỉ lệ nghịch với $T$. Vì vậy nếu tăng $T$ (ở áp suất không đổi) thì $\\rho$ sẽ giảm.\n- Ví dụ minh hoạ: nếu nhiệt độ tăng gấp đôi (từ 300 K lên 600 K) ở cùng áp suất thì $\\rho$ giảm còn một nửa.\n✅ **Đáp án:** A. giảm."
+    },
+    {
+      "id": 3,
+      "content": "Một khí cầu có lỗ hở phía dưới để áp suất khí trong và ngoài khí cầu như nhau; khi chưa được làm nóng thì không khí trong khí cầu có nhiệt độ bằng nhiệt độ bên ngoài là \\$28^{\\circ}C$; để khí cầu có thể bay lên người ta làm nóng không khí trong khí cầu lên \\$51^{\\circ}C$. So với số mol khí trong khí cầu khi chưa làm nóng, phần trăm số mol khí đã thoát ra khỏi khí cầu gần nhất với giá trị nào sau đây?",
+      "chuong": "khí lí tưởng",
+      "dang": "bài tập: phương trình trạng thái khí lí tưởng",
+      "type": "single",
+      "options": [
+        "A. \\$45,1\\%$",
+        "B. \\$7,1\\%$",
+        "C. \\$82,1\\%$",
+        "D. \\$7,6\\%$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Áp dụng định luật khí lý tưởng: - $PV = nRT$\n- Vì $P$ và $V$ không đổi, suy ra số mol tỉ lệ nghịch với nhiệt độ tuyệt đối $T$: - $n \\propto \\dfrac{1}{T} \\quad \\Rightarrow \\quad \\dfrac{n_2}{n_1}=\\dfrac{T_1}{T_2}$\n- Chuyển nhiệt độ từ °C sang K: - $T_1 = 28^\\circ C = 28 + 273 = 301\\ \\text{K}$\n  - $T_2 = 51^\\circ C = 51 + 273 = 324\\ \\text{K}$\n- Tính tỉ lệ số mol còn lại: - $\\dfrac{n_2}{n_1}=\\dfrac{301}{324}$\n- Tỉ lệ số mol đã thoát ra so với ban đầu: - $\\dfrac{n_1-n_2}{n_1}=1-\\dfrac{n_2}{n_1}=1-\\dfrac{301}{324}=\\dfrac{324-301}{324}=\\dfrac{23}{324}\\approx 0{,}0710$\n- Chuyển sang phần trăm: - \\$0{,}0710\\times100\\%\\approx7{,}10\\%\\approx7{,}1\\%$\n✅ **Đáp án:** B. \\$7,1\\%$"
+    },
+    {
+      "id": 4,
+      "content": "Gọi A và Q lần lượt là công và nhiệt lượng mà vật nhận được. Độ biến thiên nội năng $(\\Delta U)$ của vật là",
+      "chuong": "vật lí nhiệt",
+      "dang": "lý thuyết: nội năng. định luật i nhiệt động lực học",
+      "type": "single",
+      "options": [
+        "A. $\\Delta U = A + Q$",
+        "B. $\\Delta U = A - Q$",
+        "C. $\\Delta U = A.Q$",
+        "D. $\\Delta U = \\frac{A}{Q}$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Định luật I Nhiệt động học (dạng đơn giản trong chương trình THPT): độ biến thiên nội năng của vật bằng tổng nhiệt lượng truyền cho vật và công do ngoại lực thực hiện lên vật. Viết dưới dạng công thức:\n$\\Delta U = Q + A_{\\text{(đặt dấu + nếu vật nhận công)}}.$\n- Ở đề bài, A là công mà vật nhận được, Q là nhiệt lượng vật nhận được, nên cả hai đều dương khi vật nhận. Do đó ta có:\n$\\Delta U = A + Q.$\n- Ví dụ kiểm tra: nếu vật nhận được công A = 10 J và nhiệt Q = 20 J thì\n$\\Delta U = 10 + 20 = 30\\ \\text{J}.$\n- Giải thích tại sao các phương án khác sai: - $\\Delta U = A - Q$ sai vì trừ đi Q chỉ đúng khi Q được truyền ra khỏi vật (Q âm theo quy ước), nhưng đề nói Q là nhiệt lượng vật nhận được.\n  - $\\Delta U = A\\cdot Q$ và $\\Delta U = \\frac{A}{Q}$ sai vì nội năng thay đổi là tổng năng lượng truyền vào, không phải tích hay thương của A và Q.\n✅ **Đáp án:** A. $\\Delta U = A + Q$"
+    },
+    {
+      "id": 5,
+      "content": "Hình bên là đường đẳng áp của cùng một khối khí lí tưởng ứng với áp suất $p_1, p_2$. Nhận xét nào sau đây là đúng?\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tn-thpt-vat-ly-tinh-ninh-binh-lan-2-2026/cau-05.webp\" alt=\"Hình minh họa câu 5\" loading=\"lazy\"></figure>",
+      "chuong": "khí lí tưởng",
+      "dang": "đồ thị: định luật charles",
+      "type": "single",
+      "options": [
+        "A. $p_1 < p_2$",
+        "B. $p_1 \\leq p_2$",
+        "C. $p_1 > p_2$",
+        "D. $p_1 \\geq p_2$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Áp dụng định luật khí lí tưởng: $pV = nRT$ với $n$ và $R$ là hằng số khi là cùng một khối khí.\n- Viết lại dưới dạng V theo T (đẳng áp, p cố định): $V = \\frac{nR}{p}\\,T.$\n- Suy ra hệ số góc của đường thẳng trên đồ thị V–T là $m=\\frac{nR}{p}.$\n- Vì trên cùng một khối khí $n$ và $R$ không đổi, nên hệ số góc tỉ lệ nghịch với áp suất: nếu hệ số góc lớn hơn ⇒ áp suất nhỏ hơn.\n- Từ hình: đường của $p_2$ dốc hơn đường của $p_1$ ⇒ hệ số góc của $p_2$ lớn hơn hệ số góc của $p_1$ ⇒ $\\frac{nR}{p_}2}>\\frac{nR}{p_}1}$.\n- Rút ra: $p_2 < p_1$, tức là $p_1 > p_2$.\n✅ **Đáp án:** C."
+    },
+    {
+      "id": 6,
+      "content": "Nhiệt dung riêng của đồng là \\$380 \\text{ J/(kg.K)}$. Thông tin đó cho biết",
+      "chuong": "vật lí nhiệt",
+      "dang": "lý thuyết: nhiệt dung riêng",
+      "type": "single",
+      "options": [
+        "A. nhiệt lượng cần truyền cho 1 kg đồng để làm cho nhiệt độ của nó tăng thêm 1 K là 380 J.",
+        "B. khi truyền cho 1 kg đồng nhiệt lượng 1 J thì nhiệt độ của nó tăng thêm 380 K.",
+        "C. nhiệt lượng cần truyền cho một lượng đồng bất kì để nhiệt độ của nó tăng thêm 1 K là 380 J.",
+        "D. khi truyền cho 380 kg đồng nhiệt lượng 1 J thì nhiệt độ của nó tăng thêm 1 K."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Công thức liên quan: $Q=mc\\Delta T$, trong đó - $Q$ là nhiệt lượng (J),\n  - $m$ là khối lượng (kg),\n  - $c$ là nhiệt dung riêng (J/(kg·K)),\n  - $\\Delta T$ là độ tăng nhiệt độ (K).\n- Áp dụng cho 1 kg đồng và tăng nhiệt độ 1 K:  Vậy cần 380 J để làm 1 kg đồng nóng hơn 1 K.\n- Kiểm tra các phát biểu sai trong các phương án khác: - Nếu truyền cho 1 kg đồng nhiệt lượng \\$1\\ \\text{J}$ thì độ tăng nhiệt là  không phải 380 K (vì vậy phương án B sai).\n  - Nhiệt dung riêng được cho theo đơn vị trên mỗi kg; nó không áp dụng cho \"một lượng đồng bất kỳ\" (phải biết khối lượng). Do đó phát biểu rằng \"một lượng đồng bất kỳ\" cần 380 J để tăng 1 K là sai (phương án C sai).\n  - Để làm 380 kg đồng tăng 1 K cần nhiệt lượng  không phải 1 J (vì vậy phương án D sai).\n✅ **Đáp án:** A. nhiệt lượng cần truyền cho 1 kg đồng để làm cho nhiệt độ của nó tăng thêm 1 K là 380 J."
+    },
+    {
+      "id": 7,
+      "content": "Gọi p, V và T lần lượt là áp suất, thể tích và nhiệt độ tuyệt đối của một khối khí lí tưởng xác định. Công thức nào sau đây mô tả đúng định luật Charles?",
+      "chuong": "khí lí tưởng",
+      "dang": "lý thuyết: định luật charles",
+      "type": "single",
+      "options": [
+        "A. $VT = \\text{hằng số}$",
+        "B. $\\frac{V}{T} = \\text{hằng số}$",
+        "C. $\\frac{p}{T} = \\text{hằng số}$",
+        "D. $pV = \\text{hằng số}$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Áp dụng phương trình trạng thái khí lí tưởng: $pV = nRT$ (với n là số mol khí, R là hằng số khí).\n- Nếu là cùng một khối khí và giữ áp suất không đổi (p = không đổi) và n, R không đổi, ta có:\n$pV = nRT \\quad\\Rightarrow\\quad V = \\frac{nR}{p}\\,T.$\n- Chia hai vế cho T ta được:\n$\\frac{V}{T} = \\frac{nR}{p} = \\text{hằng số}.$\nNhư vậy, tại áp suất không đổi, thể tích tỉ lệ thuận với nhiệt độ tuyệt đối; biểu thức là $\\frac{V}{T} = \\text{hằng số}.$\n- Kiểm tra các phương án khác: - $VT = \\text{hằng số}$ sai — không tương ứng với định luật Charles.\n  - $\\frac{p}{T} = \\text{hằng số}$ sai — không phải dạng Charles.\n  - $pV = \\text{hằng số}$ là định luật Boyle (áp đảo khi T không đổi), không phải Charles.\n✅ **Đáp án:** B. $\\frac{V}{T} = \\text{hằng số}$"
+    },
+    {
+      "id": 8,
+      "content": "Vào ban đêm, hơi nước trong không khí chuyển thành các giọt sương. Đó là quá trình",
+      "chuong": "vật lí nhiệt",
+      "dang": "lý thuyết: cấu trúc của chất. sự chuyển thể",
+      "type": "single",
+      "options": [
+        "A. hóa hơi.",
+        "B. nóng chảy.",
+        "C. ngưng tụ.",
+        "D. đông đặc."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Bước 1: Xác định trạng thái ban đầu và trạng thái sau của nước trong hiện tượng. Ở đây: ban đầu là *hơi nước (khí)*, sau là *giọt sương (lỏng)*.\n- Bước 2: Nhớ định nghĩa các quá trình chuyển pha: - $\\text{chất lỏng} \\rightarrow \\text{chất khí}$ là *hóa hơi*.\n  - $\\text{chất khí} \\rightarrow \\text{chất lỏng}$ là *ngưng tụ*.\n  - $\\text{chất rắn} \\rightarrow \\text{chất lỏng}$ là *nóng chảy*.\n  - $\\text{chất lỏng} \\rightarrow \\text{chất rắn}$ là *đông đặc*.\n- Bước 3: So sánh với hiện tượng: khí → lỏng khớp với định nghĩa của *ngưng tụ*.\n- Bước 4: Ví dụ minh họa: khi nhiệt độ ban đêm giảm tới điểm sương (dew point), không khí bão hòa nên hơi nước mất năng lượng, ngưng tụ trên lá cây thành giọt sương — đúng là *ngưng tụ*.\n✅ **Đáp án:** C. ngưng tụ."
+    },
+    {
+      "id": 9,
+      "content": "Khi nói về khí lí tưởng, phát biểu nào sau đây không đúng?",
+      "chuong": "khí lí tưởng",
+      "dang": "lý thuyết: thuyết động học phân tử chất khí",
+      "type": "single",
+      "options": [
+        "A. Khí lí tưởng là khí tuân theo đúng các định luật Boyle và Charles.",
+        "B. Khí lí tưởng là chất khí gồm các phân tử có kích thước rất nhỏ, có thể bỏ qua.",
+        "C. Va chạm của các phân tử khí lí tưởng với nhau và với thành bình là va chạm hoàn toàn đàn hồi.",
+        "D. Khí lí tưởng là chất khí gồm các phân tử có khối lượng rất nhỏ có thể bỏ qua."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Kiểm tra từng phương án: - A: Khí lí tưởng tuân theo định luật chất khí (ví dụ các dạng tương quan p-V-T như Boyle, Charles) ⇒ **đúng**.\n  - B: Một trong những giả thiết là các phân tử có kích thước rất nhỏ (có thể xét là điểm) ⇒ **đúng**.\n  - C: Giả thiết va chạm là đàn hồi (không mất năng lượng) giữa các phân tử và thành bình ⇒ **đúng**.\n  - D: Phát biểu này nói khối lượng các phân tử \"rất nhỏ có thể bỏ qua\". Điều này mâu thuẫn với thực tế vì khối lượng phân tử xuất hiện trong công thức liên hệ giữa áp suất và chuyển động nhiệt của phân tử; khối lượng không thể bỏ qua. Cụ thể, từ thuyết động lực học ta có\n$pV=\\frac{1}{3}Nm\\overline{v^2},$\ntrong đó $m$ là khối lượng một phân tử, nên $m$ đóng vai trò quan trọng trong áp suất. Do vậy phát biểu D là **sai**.\n✅ **Đáp án:** D. Khí lí tưởng là chất khí gồm các phân tử có khối lượng rất nhỏ có thể bỏ qua."
+    },
+    {
+      "id": 10,
+      "content": "Nội năng của một vật",
+      "chuong": "vật lí nhiệt",
+      "dang": "lý thuyết: nội năng. định luật i nhiệt động lực học",
+      "type": "single",
+      "options": [
+        "A. phụ thuộc cả vào nhiệt độ và thể tích của vật.",
+        "B. phụ thuộc vào thể tích của vật, không phụ thuộc vào nhiệt độ của vật.",
+        "C. phụ thuộc vào nhiệt độ của vật, không phụ thuộc vào thể tích của vật.",
+        "D. không phụ thuộc vào nhiệt độ và cũng không phụ thuộc vào thể tích của vật."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Xác định định nghĩa: Nội năng là tổng các năng lượng vi mô, nên - năng lượng động học trung bình tỉ lệ với nhiệt độ ⇒ phần động học của $U$ phụ thuộc vào $T$. Ví dụ, với khí lí tưởng đơn nguyên tử: $U=\\frac{3}{2}nRT$ (chỉ phụ thuộc $T$).\n- Xem xét phần thế: Năng lượng thế giữa các phân tử phụ thuộc vào khoảng cách giữa chúng. Khi thể tích thay đổi, khoảng cách giữa phân tử thay đổi ⇒ phần thế của $U$ phụ thuộc vào $V$.\n- Kết luận tổng quát: Đối với vật thực (không phải luôn luôn là khí lí tưởng), nội năng là hàm của cả nhiệt độ và thể tích, tức $U=U(T,V).$\n- Lưu ý đặc biệt: Với khí lí tưởng (lý tưởng hóa), năng lượng thế giữa phân tử được coi là không đáng kể, nên $U$ chỉ phụ thuộc vào $T$. Điều này không mâu thuẫn với nhận xét tổng quát vì khí lí tưởng là trường hợp đặc biệt.\n✅ **Đáp án:** A. phụ thuộc cả vào nhiệt độ và thể tích của vật."
+    },
+    {
+      "id": 11,
+      "content": "Nhiệt nóng chảy riêng ở nhiệt độ nóng chảy dưới áp suất tiêu chuẩn của nước đá là \\$3,3.10^5 \\text{ J/kg}$. Nhiệt lượng cần cung cấp cho 500 g nước đá nóng chảy hoàn toàn ở nhiệt độ nóng chảy dưới áp suất tiêu chuẩn là",
+      "chuong": "vật lí nhiệt",
+      "dang": "bài tập: nhiệt nóng chảy riêng",
+      "type": "single",
+      "options": [
+        "A. \\$165 \\text{ kJ}.$",
+        "B. \\$660 \\text{ kJ}.$",
+        "C. \\$165 \\text{ J}.$",
+        "D. \\$660 \\text{ J}.$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Chuyển khối lượng sang SI: \\$500\\ \\text{g} = 0{,}5\\ \\text{kg}.$\n- Ghi công thức tính nhiệt lượng cần cung cấp để nóng chảy: $Q = mL.$\n- Thay số vào công thức: - $Q = 0{,}5\\ \\text{kg} \\times 3{,}3\\times10^{5}\\ \\text{J/kg}.$\n  - $Q = 1{,}65\\times10^{5}\\ \\text{J}.$\n- Chuyển sang đơn vị kJ để kết quả rõ ràng: - \\$1{,}65\\times10^{5}\\ \\text{J} = 165\\ \\text{kJ}.$\n- Vậy nhiệt lượng cần cung cấp là \\$165\\ \\text{kJ}.$\n✅ **Đáp án:** A. \\$165\\ \\text{kJ}.$"
+    },
+    {
+      "id": 12,
+      "content": "Trong các nhóm thông số dưới đây, nhóm thông số nào là nhóm các thông số trạng thái của một lượng khí xác định?",
+      "chuong": "khí lí tưởng",
+      "dang": "lý thuyết: phương trình trạng thái khí lí tưởng",
+      "type": "single",
+      "options": [
+        "A. Áp suất, nhiệt độ, thể tích.",
+        "B. Khối lượng, nhiệt độ, thể tích.",
+        "C. Khối lượng, áp suất, thể tích.",
+        "D. Áp suất, nhiệt độ, khối lượng."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Thông số trạng thái của một lượng khí thường là các đại lượng như áp suất P, thể tích V và nhiệt độ T. Chúng liên hệ với nhau bởi phương trình khí lí tưởng:\n$PV = nRT$\ntrong đó $n$ là số mol khí (tương ứng với lượng khí đã xác định) và $R$ là hằng số khí.\n- Vì đề cho \"một lượng khí xác định\", nên $n$ (hoặc khối lượng m) được coi là cố định. Khi $n$ cố định, trạng thái của khí được mô tả bằng các cặp hoặc tập các đại lượng $P, V, T$ thỏa phương trình trên. Biết hai trong ba đại lượng này sẽ xác định đại lượng thứ ba.\n- Khối lượng (hoặc số mol) là thông số xác định lượng khí, nhưng khi lượng khí đã cố định thì khối lượng không thay đổi và do đó không phải là thông số biến được dùng để mô tả các trạng thái khác nhau của cùng một lượng khí.\n- Kiểm tra các phương án: - A (Áp suất, nhiệt độ, thể tích): đúng, là các thông số trạng thái liên hệ bởi $PV=nRT$.\n  - B, C, D đều chứa \"khối lượng\" (hoặc thay cho một trong P, V, T). Vì câu hỏi nói \"một lượng khí xác định\" (khối lượng cố định), đưa khối lượng vào nhóm thông số trạng thái không phù hợp để mô tả các trạng thái biến thiên của cùng một lượng khí.\n✅ **Đáp án:** A. Áp suất, nhiệt độ, thể tích."
+    },
+    {
+      "id": 13,
+      "content": "Một nhóm học sinh liệt kê các bước để thực hiện phép đo nhiệt độ của vật như sau: (1). Đọc và ghi kết quả đo. (2). Thực hiện phép đo nhiệt độ. (3). Ước lượng nhiệt độ của vật cần đo. (4). Hiệu chỉnh nhiệt kế. (5). Lựa chọn nhiệt kế phù hợp. Sắp xếp đúng thứ tự các bước khi tiến hành đo nhiệt độ của vật?",
+      "chuong": "vật lí nhiệt",
+      "dang": "thí nghiệm: thang nhiệt độ",
+      "type": "single",
+      "options": [
+        "A. $(4) \\to (3) \\to (5) \\to (2) \\to (1).$",
+        "B. $(3) \\to (5) \\to (4) \\to (2) \\to (1).$",
+        "C. $(5) \\to (2) \\to (4) \\to (3) \\to (1).$",
+        "D. $(3) \\to (5) \\to (2) \\to (4) \\to (1).$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Ước lượng nhiệt độ trước (bước (3)) để biết nhiệt độ xấp xỉ của vật; việc này giúp chọn thiết bị đo có dải đo và độ nhạy phù hợp.\n- Sau khi ước lượng, *lựa chọn nhiệt kế phù hợp* (bước (5)): nhiệt kế phải có dải đo bao phủ khoảng nhiệt độ ước lượng để tránh hỏng hoặc đo sai.\n- Trước khi đo, cần *hiệu chỉnh nhiệt kế* (bước (4)) — tức là kiểm tra/điều chỉnh zero hoặc hiệu chuẩn theo chuẩn (nếu cần) để đảm bảo độ chính xác.\n- Tiếp theo là *thực hiện phép đo* (bước (2)) theo phương pháp đúng (đảm bảo tiếp xúc, đợi nhiệt kế ổn định, tránh ảnh hưởng môi trường).\n- Cuối cùng là *đọc và ghi kết quả* (bước (1)) khi nhiệt kế đã ổn định.\n- Tổng hợp thứ tự các bước theo ký hiệu:\n$(3) \\to (5) \\to (4) \\to (2) \\to (1).$\n✅ **Đáp án:** B. $(3) \\to (5) \\to (4) \\to (2) \\to (1).$"
+    },
+    {
+      "id": 14,
+      "content": "Gọi p là áp suất chất khí, $\\mu$ là mật độ của phân tử khí, m là khối lượng của phân tử khí, $\\overline{v^2}$ là trung bình của các bình phương tốc độ phân tử khí lí tưởng. Hệ thức đúng là",
+      "chuong": "khí lí tưởng",
+      "dang": "lý thuyết: áp suất khí theo mô hình động học phân tử. quan hệ giữa động năng phân tử và nhiệt độ",
+      "type": "single",
+      "options": [
+        "A. $p = \\frac{2}{3} \\mu m \\overline{v^2}$",
+        "B. $p = \\frac{3}{2} \\mu m \\overline{v^2}$",
+        "C. $p = \\mu m \\overline{v^2}$",
+        "D. $p = \\frac{1}{3} \\mu m \\overline{v^2}$"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Xét một bình khí hình lập phương cạnh = *L*, thể tích $V=L^3$, diện tích một mặt $A=L^2$, và có tổng số $N = \\mu V$ phân tử.\n- Xét thành mặt chịu va chạm. Một phân tử có thành phần vận tốc theo trục x bằng $v_x$ khi va chạm với mặt sẽ đổi xung lượng (độ lớn) là $\\Delta p_x = 2 m v_x$ (va chạm đàn hồi, đổi chiều).\n- Số phân tử có thành phần vận tốc dương và đi tới mặt trong khoảng thời gian $\\Delta t$ là: $\\frac{1}{2}\\mu A v_x \\Delta t$ (vì trung bình một nửa phân tử có $v_x>0$ và trong thời gian $\\Delta t$ những phân tử trong khoảng dày $v_x\\Delta t$ sẽ chạm mặt).\n- Tổng xung lượng truyền cho mặt bởi các phân tử có thành phần vận tốc $v_x$ trong $\\Delta t$:\n$\\Delta P = \\left(2 m v_x\\right)\\left(\\frac{1}{2}\\mu A v_x \\Delta t\\right)=\\mu m A v_x^2 \\Delta t.$\n- Tổng lực lên mặt (lấy trung bình trên mọi phân tử, tức trên phân bố vận tốc) là:\n$F = \\mu m A \\overline{v_x^2}.$\n- Áp suất là lực trên đơn vị diện tích:\n$p = \\frac{F}{A} = \\mu m \\overline{v_x^2}.$\n- Do tính đẳng hướng của chuyển động trong chất khí lí tưởng, các thành phần phương sai bằng nhau:\n$\\overline{v_x^2}=\\overline{v_y^2}=\\overline{v_z^2}=\\frac{1}{3}\\overline{v^2}.$\n- Thay vào biểu thức áp suất:\n$p=\\mu m \\cdot \\frac{1}{3}\\overline{v^2}=\\frac{1}{3}\\,\\mu m\\,\\overline{v^2}.$\n- Ghi chú: nếu gọi mật độ khối lượng của khí là $\\rho=\\mu m$ thì công thức viết được $p=\\tfrac{1}{3}\\rho\\overline{v^2}.$\n✅ **Đáp án:** D. p = $\\frac{1}{3} \\mu m \\overline{v^2}$"
+    },
+    {
+      "id": 15,
+      "content": "Trong các thí nghiệm đo nhiệt dung riêng, nhiệt nóng chảy riêng, nhiệt hóa hơi riêng cần sử dụng bình nhiệt lượng kế có vỏ làm bằng vật liệu",
+      "chuong": "vật lí nhiệt",
+      "dang": "bài tập tổng hợp chương 1",
+      "type": "single",
+      "options": [
+        "A. cách nhiệt tốt.",
+        "B. dẫn nhiệt tốt.",
+        "C. có khối lượng riêng lớn.",
+        "D. có nhiều màu."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Trong các phép đo nhiệt, ta dùng nguyên lý bảo toàn năng lượng: tổng nhiệt lượng mà các phần trong hệ nhận hoặc tỏa ra bằng 0 (bỏ qua các nguồn ngoài nếu cách nhiệt tốt). Vì vậy vỏ bình cần làm bằng vật liệu có khả năng **cách nhiệt tốt** (tức là dẫn nhiệt kém), hoặc kết cấu bảo ôn (ví dụ: lớp chân không, xốp cách nhiệt, lớp bọt).\n- Nếu vỏ làm bằng vật liệu *dẫn nhiệt tốt* (phương án B), nhiệt sẽ truyền ra ngoài hoặc từ môi trường vào hệ, làm mất cân bằng nhiệt và kết quả đo sẽ sai — điều này làm phương án B sai.\n- Các đặc tính như *khối lượng riêng lớn* (phương án C) hay *nhiều màu* (phương án D) không phải là yêu cầu chính cho vỏ bình trong thí nghiệm đo nhiệt dung và các nhiệt lượng riêng, nên không phù hợp.\n- Ví dụ kiểm tra: nếu vỏ bình bằng kim loại mỏng (dẫn nhiệt tốt), khi đo nhiệt nóng chảy của một khối băng, nhiệt sẽ truyền ra môi trường khiến băng tan chậm hơn dự đoán, kết quả sai. Nếu vỏ bằng xốp cách nhiệt hoặc bình Dewar (chân không), gần như không có trao đổi nhiệt với môi trường, phép đo chính xác hơn.\n✅ **Đáp án:** A. cách nhiệt tốt."
+    },
+    {
+      "id": 16,
+      "content": "Quá trình các chất chuyển từ thể rắn sang thể lỏng được gọi là",
+      "chuong": "vật lí nhiệt",
+      "dang": "lý thuyết: cấu trúc của chất. sự chuyển thể",
+      "type": "single",
+      "options": [
+        "A. sự hóa hơi.",
+        "B. sự nóng chảy.",
+        "C. sự ngưng tụ.",
+        "D. chuyển động Brown."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Xác định định nghĩa của các thuật ngữ: - **Sự nóng chảy**: quá trình một chất chuyển từ *thể rắn* sang *thể lỏng* khi nhận nhiệt và đạt tới nhiệt độ nóng chảy (ví dụ: băng tan thành nước ở 0°C).\n  - **Sự hóa hơi**: quá trình một chất chuyển từ *thể lỏng* sang *thể khí* (ví dụ: nước bốc hơi thành hơi nước).\n  - **Sự ngưng tụ**: quá trình chuyển từ *thể khí* sang *thể lỏng* (ví dụ: hơi nước ngưng tụ thành giọt nước).\n  - **Chuyển động Brown**: chuyển động ngẫu nhiên của các hạt nhỏ trong chất (không phải quá trình chuyển pha).\n- So sánh yêu cầu của câu hỏi (rắn → lỏng) với định nghĩa: - Chỉ **sự nóng chảy** là quá trình rắn → lỏng.\n  - Các phương án khác mô tả chuyển pha khác hoặc hiện tượng khác, nên không phù hợp.\n- Ví dụ kiểm chứng: Đặt một miếng băng (rắn) lên tay hoặc để ở nhiệt độ môi trường > 0°C → băng tan thành nước (lỏng): đây là **sự nóng chảy**.\n✅ **Đáp án:** B. sự nóng chảy."
+    },
+    {
+      "id": 17,
+      "content": "Công thức chuyển nhiệt độ từ thang Kelvin sang thang Celsius là",
+      "chuong": "vật lí nhiệt",
+      "dang": "lý thuyết: thang nhiệt độ",
+      "type": "single",
+      "options": [
+        "A. $t(^{\\circ}C) = T(K) - 273.$",
+        "B. $t(^{\\circ}C) = T(K) / 273.$",
+        "C. $t(^{\\circ}C) = T(K) . 273.$",
+        "D. $t(^{\\circ}C) = T(K) + 273.$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Quan hệ cơ bản giữa hai thang là: nhiệt độ theo Kelvin bằng nhiệt độ theo độ C cộng 273. Viết dưới dạng công thức:\n$T(K)=t(^{\\circ}C)+273.$\n- Giải phương trình trên theo $t(^{\\circ}C)$ ta trừ 273 hai vế:\n$t(^{\\circ}C)=T(K)-273.$\n- Kiểm tra bằng ví dụ: Nếu $T(K)=300\\ \\text{K}$ thì\n$t(^{\\circ}C)=300-273=27\\ ^{\\circ}\\text{C}.$\n- Lý do các phương án sai: - Chia cho 273 (B) không có cơ sở, vì mối quan hệ là cộng/trừ một hằng số, không phải tỉ lệ.\n  - Nhân với 273 (C) sai vì cũng không theo tỉ lệ.\n  - Cộng 273 (D) là công thức ngược lại (từ Celsius sang Kelvin), không phải từ Kelvin sang Celsius.\n✅ **Đáp án:** A. $t(^{\\circ}C) = T(K) - 273.$"
+    },
+    {
+      "id": 18,
+      "content": "Trong thí nghiệm kiểm chứng định luật Boyle, việc dịch chuyển pit-tông từ từ nhằm đảm bảo\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tn-thpt-vat-ly-tinh-ninh-binh-lan-2-2026/cau-18.webp\" alt=\"Hình minh họa câu 18\" loading=\"lazy\"></figure>",
+      "chuong": "khí lí tưởng",
+      "dang": "lý thuyết: định luật boyle",
+      "type": "single",
+      "options": [
+        "A. khối lượng khí trong xi lanh không đổi.",
+        "B. thể tích khí trong xi lanh không đổi.",
+        "C. áp suất khí trong xi lanh không đổi.",
+        "D. nhiệt độ khí trong xi lanh không đổi."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Định luật Boyle (ở nhiệt độ không đổi) phát biểu: áp suất tỉ lệ nghịch với thể tích, tức là\n$p_1V_1 = p_2V_2.$\n- Từ phương trình trạng thái khí lí tưởng (cấp chương trình THPT):\n$pV = nRT,$\nvới n và R không đổi (khối lượng khí không đổi). Để pV = hằng số thì phải giữ T = hằng số.\n- Lý do phải dịch chuyển pit-tông *từ từ*: - Khi pit-tông dịch chuyển chậm, khí trong xi lanh có thời gian để trao đổi nhiệt với môi trường (qua thành xi lanh), nhờ đó nhiệt độ của khí gần như giữ nguyên (đẳng nhiệt).\n  - Nếu pit-tông dịch chuyển nhanh (nén nhanh hoặc giãn nhanh), quá trình có thể gần với quá trình đẳng nhiệt không đúng nữa (có thể là quá trình gần như đadiabatic), làm nhiệt độ khí tăng khi nén nhanh hoặc giảm khi giãn nhanh, làm sai lệch kết quả kiểm chứng định luật Boyle.\n- Dựa vào hình thí nghiệm (có đồng hồ đo nhiệt độ và cơ cấu dịch chuyển pit-tông), việc điều khiển dịch chuyển pit-tông từ từ nhằm đảm bảo quá trình là đẳng nhiệt để kiểm chứng đúng định luật Boyle.\n✅ **Đáp án:** D. nhiệt độ khí trong xi lanh không đổi."
+    }
+  ]
+}

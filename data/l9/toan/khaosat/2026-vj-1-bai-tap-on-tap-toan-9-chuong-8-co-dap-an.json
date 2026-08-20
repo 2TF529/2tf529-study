@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-1-bai-tap-on-tap-toan-9-chuong-8-co-dap-an",
+  "sourceId": "vietjack:1-bai-tap-on-tap-toan-9-chuong-8-co-dap-",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.Bài tập ôn tập Toán 9 Chương 8 (có đáp án)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: A. Trắc nghiệm Dạng 1. Trắc nghiệm nhiều phương án lựa chọn Mỗi câu hỏi thí sinh chỉ chọn một phương án. Trong các thí nghiệm sau, thí nghiệm nào không phải là phép thử ngẫu nhiên?",
+      "options": [
+        "A. Gieo đồng xu xem đồng xu đó xuất hiện mặt ngửa hay mặt sấp.",
+        "B. Gieo hai đồng xu và xem có mấy đồng tiền lật ngửa.",
+        "C. Chọn bất kì 1 học sinh trong lớp và xem là nam hay nữ.",
+        "D. Bỏ hai viên bi xanh và ba viên bi đỏ trong một chiếc hộp, sau đó lấy từng viên một để đếm xem có tất cả bao nhiêu viên bi."
+      ],
+      "answer": "D",
+      "note": "Chọn D Theo định nghĩa, ta có phép thử ngẫu nhiên là những phép thử mà ta không thể đoán trước kết quả của nó, mặc dù đã biết được tập hợp tất cả các kết quả của phép thử đó. Đáp án D không phải là phép thử vì ta biết chắc chắn kết quả chỉ có thể là một số cụ thể số bi xanh và số bi đỏ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Bạn An lấy ngẫu nhiên một số tự nhiên có 1 chữ số. Số phần tử của không gian mẫu của phép thử là",
+      "options": [
+        "A. 10.",
+        "B. 9.",
+        "C. 8.",
+        "D. 5."
+      ],
+      "answer": "A",
+      "note": "Chọn A Không gian mẫu của phép thử là \\[\\Omega = \\left\\{ {0\\,;\\,\\,1\\,;\\,\\,2\\,;\\,\\,3\\,;\\,\\,4\\,;\\,\\,5\\,;\\,\\,6\\,;\\,\\,7\\,;\\,\\,8\\,;\\,\\,9} \\right\\}\\]. Vậy không gian mẫu của phép thử có 10 phần tử."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Ký hiệu không gian mẫu của phép thử là",
+      "options": [
+        "A. \\(\\alpha \\).",
+        "B. \\(\\beta \\).",
+        "C. ℧ .",
+        "D. \\(\\Omega \\)."
+      ],
+      "answer": "D",
+      "note": "Chọn D Không gian mẫu của phép thử được ký hiệu là \\(\\Omega \\)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Mỗi đồng xu có 2 mặt sấp (S) và ngửa (N). Gieo ngẫu nhiên 2 đồng xu thì không gian mẫu của phép thử có số phần tử là",
+      "options": [
+        "A. 2.",
+        "B. 4.",
+        "C. 6.",
+        "D. 10."
+      ],
+      "answer": "B",
+      "note": "Chọn B Bảng kết quả có thể xảy ra của phép thử gieo 2 đồng xu: Không gian mẫu của phép thử là \\(\\Omega = \\left\\{ {{\\rm{SS}}\\,{\\rm{;}}\\,\\,{\\rm{SN}}\\,{\\rm{;}}\\,\\,{\\rm{NS}}\\,{\\rm{;}}\\,\\,{\\rm{NN}}} \\right\\}\\). Vậy không gian mẫu của phép thử có 4 phần tử."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho phép thử \\[T\\] , xét biến cố \\[E\\] . Kết quả của phép thử \\[T\\] làm cho biến cố \\[E\\] xảy ra được gọi là",
+      "options": [
+        "A. Kết quả đúng với \\[E\\] .",
+        "B. Kết quả phù hợp với \\[E\\] .",
+        "C. Kết quả của \\[E\\] .",
+        "D. Kết quả thuận lợi cho \\[E\\] ."
+      ],
+      "answer": "D",
+      "note": "Chọn D Kết quả của phép thử \\[T\\] làm cho biến cố \\[E\\] xảy ra được gọi là kết quả thuận lợi cho \\[E\\]."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Chọn ngẫu nhiên một số nguyên tố lẻ nhỏ hơn \\[20\\]. Số phần tử của không gian mẫu là",
+      "options": [
+        "A. \\[5\\].",
+        "B. \\[6\\].",
+        "C. \\[7\\].",
+        "D. \\[8\\]."
+      ],
+      "answer": "C",
+      "note": "Chọn C Không gian mẫu của phép thử là: \\[\\Omega = \\left\\{ {3\\,;\\,\\,5\\,;\\,\\,7\\,;\\,\\,11\\,;\\,\\,13\\,;\\,\\,17\\,;\\,\\,19} \\right\\}\\]. Vậy không gian mẫu có \\[7\\] phần tử."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Chọn ngẫu nhiên một số tự nhiên có hai chữ số khác nhau. Số phần tử của không gian mẫu là",
+      "options": [
+        "A. \\[90\\].",
+        "B. \\[89\\].",
+        "C. \\[80\\].",
+        "D. \\[81\\]."
+      ],
+      "answer": "D",
+      "note": "Chọn D Có \\[90\\] số tự nhiên có hai chữ số. Các số tự nhiên có hai chữ số giống nhau là: \\[11\\,;\\,\\,22\\,;\\,\\,33\\,;\\,\\,44\\,;\\,\\,55\\,;\\,\\,66\\,;\\,\\,77\\,;\\,\\,88\\,;\\,\\,99\\]. Vậy không gian mẫu có: \\[90 - 9 = 81\\] (phần tử)."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Gieo 3 đồng tiền xu là một phép thử ngẫu nhiên có số phần tử của không gian mẫu là",
+      "options": [
+        "A. \\[1\\].",
+        "B. \\[9\\].",
+        "C. \\[7\\].",
+        "D. \\[8\\]."
+      ],
+      "answer": "D",
+      "note": "Chọn D Không gian mẫu là: \\[\\Omega = \\left\\{ {NNN\\,;\\,\\,SSS\\,;\\,\\,NNS\\,;\\,\\,SSN\\,;\\,\\,NSN\\,;\\,\\,SNS\\,;\\,\\,NSS\\,;\\,\\,SNN} \\right\\}.\\] Vậy không gian mẫu có \\[8\\] phần tử."
+    }
+  ]
+}

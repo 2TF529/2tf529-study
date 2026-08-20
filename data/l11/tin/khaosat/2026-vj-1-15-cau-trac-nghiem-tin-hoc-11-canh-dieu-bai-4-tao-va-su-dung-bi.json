@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-11-canh-dieu-bai-4-tao-va-su-dung-bi",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-11-canh-die",
+  "grade": "l11",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 11 Cánh diều Bài 4: Tạo và sử dụng biểu mẫu có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Biểu mẫu một bản ghi trong Access được dùng để làm gì?",
+      "options": [
+        "A. Hiển thị nhiều bản ghi cùng một lúc",
+        "B. Hiển thị một bản ghi tại một thời điểm",
+        "C. Thực hiện các phép tính phức tạp",
+        "D. Thực hiện tìm kiếm trên toàn bộ cơ sở dữ liệu"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Biểu mẫu một bản ghi chỉ hiển thị một bản ghi tại một thời điểm, thường được sử dụng để nhập hoặc xem thông tin chi tiết của một cá nhân hoặc mục hàng."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Biểu mẫu nào dưới đây cho phép hiển thị nhiều bản ghi cùng lúc?",
+      "options": [
+        "A. Biểu mẫu phân cấp",
+        "B. Biểu mẫu tách đôi",
+        "C. Biểu mẫu nhiều bản ghi",
+        "D. Biểu mẫu không kết buộ"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Biểu mẫu nhiều bản ghi hiển thị nhiều bản ghi cùng lúc, mỗi bản ghi trên một hàng và các trường là các cột."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Để tạo nhanh một biểu mẫu trong Access, bạn sử dụng nhóm lệnh nào?",
+      "options": [
+        "A. Data Tools",
+        "B. Create",
+        "C. External Data",
+        "D. Navigation"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Nhóm lệnh \"Create\" trong Access cung cấp các tùy chọn tạo nhanh biểu mẫu, bao gồm biểu mẫu một bản ghi và nhiều bản ghi"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Khi tạo biểu mẫu nhiều bản ghi, bạn chọn tùy chọn nào để tạo biểu mẫu có dạng như khung nhìn bảng dữ liệu?",
+      "options": [
+        "A. DataSheet",
+        "B. Form",
+        "C. Split Form",
+        "D. Muliples Items"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Tùy chọn \"DataSheet\" tạo biểu mẫu nhiều bản ghi nhưng có giao diện giống như khung nhìn bảng dữ liệu."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: : Công cụ nào trong Access hỗ trợ tạo biểu mẫu có tùy biến như chọn các trường dữ liệu từ nhiều bảng?",
+      "options": [
+        "A. Form Wizard",
+        "B. Navigation Pane",
+        "C. Query Design",
+        "D. Report Wizard"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: \"Form Wizard\" cho phép người dùng tùy chỉnh biểu mẫu, chọn các trường dữ liệu từ nhiều bảng hoặc truy vấn"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Biểu mẫu phân cấp trong Access thường dùng để làm gì?",
+      "options": [
+        "A. Hiển thị dữ liệu của nhiều bảng không liên quan",
+        "B. Hiển thị đồng bộ dữ liệu từ hai bảng có quan hệ",
+        "C. Thực hiện tính toán trên bảng dữ liệu",
+        "D. Nhập dữ liệu từ nguồn ngoài"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Biểu mẫu phân cấp dùng để hiển thị đồng bộ dữ liệu từ hai bảng có quan hệ 1 - nhiều, như bảng mẹ và bảng con."
+    }
+  ]
+}

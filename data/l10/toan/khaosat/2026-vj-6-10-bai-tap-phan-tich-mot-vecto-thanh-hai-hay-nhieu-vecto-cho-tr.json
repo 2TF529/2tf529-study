@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-6-10-bai-tap-phan-tich-mot-vecto-thanh-hai-hay-nhieu-vecto-cho-tr",
+  "sourceId": "vietjack:6-10-bai-tap-phan-tich-mot-vecto-thanh-h",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "6.10 Bài tập Phân tích một vectơ thành hai hay nhiều vectơ cho trước (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho tam giác ABC. Đặt A B → = a → , A C → = b → . M thuộc cạnh AB sao cho AB = 3AM, N thuộc tia BC và CN = 2BC. Phân tích A N → qua các vectơ a → và b → ta được biểu thức là:",
+      "options": [
+        "A. 2 a → + 3 b →",
+        "B. - 2 a → + 3 b →",
+        "C. 2 a → − 3 b →",
+        "D. 2 a → + b →"
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải: Đáp án đúng là: B. Theo đề bài: CN = 2BC nên B N → = 3 B C → Ta có: A N → = A B → + B N → = A B → + 3 B C → = A B → + 3 A C → − A B → = − 2 A B → + 3 A C → = − 2 a → + 3 b → ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho tam giác ABC. Đặt A B → = a → , A C → = b → . M thuộc cạnh AB sao cho AB = 3AM, N thuộc tia BC và CN = 2BC. Phân tích M N → qua các vectơ a → và b → ta được biểu thức là:",
+      "options": [
+        "A. − 7 3 a → + 3 b →",
+        "B. − 1 3 a → + 3 b →",
+        "C. − 2 3 a → + 3 b →",
+        "D. − 5 3 a → + 3 b →"
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A. Theo đề bài: AB = 3AM nên A M → = 1 3 A B → ⇒ M A → = − 1 3 A B → CN = 2BC nên B N → = 3 B C → Ta có: A N → = A B → + B N → = A B → + 3 B C → = A B → + 3 A C → − A B → = − 2 A B → + 3 A C → = − 2 a → + 3 b → M N → = M A → + A N → = − 1 3 a → − 2 a → + 3 b → = − 7 3 a → + 3 b → ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho tam giác ABC, trên cạnh BC lấy M sao cho BM = 3CM, trên đoạn AM lấy N sao cho 2AN = 5MN. Phân tích vectơ B N → qua các vectơ A B → và A C → .",
+      "options": [
+        "A. B N → = 23 28 A B → + 15 28 A C → ;",
+        "B. B N → = − 23 28 A B → − 15 28 A C → ;",
+        "C. B N → = − 23 28 A B → + 15 28 A C → ;",
+        "D. B N → = 23 28 A B → − 15 28 A C → ."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải: Đáp án đúng là: C. Theo đề bài ta có: B M → = 3 4 B C → và A N → = 5 7 A M → Ta có: A M → = A B → + B M → = A B → + 3 4 B C → = A B → + 3 4 A C → − A B → = 1 4 A B → + 3 4 A C → B N → = B A → + A N → = − A B → + 5 7 A M → = − A B → + 5 7 1 4 A B → + 3 4 A C → = − 23 28 A B → + 15 28 A C →"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho tam giác ABC, G là trọng tâm của tam giác ABC. Phân tích vectơ G C → qua các vectơ G A → và G B → .",
+      "options": [
+        "A. G C → = G A → + G B → ;",
+        "B. G C → = − G A → − G B → ;",
+        "C. G C → = − G A → + G B → ;",
+        "D. G C → = G A → − G B → ."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải: Đáp án đúng là: B. Theo đề bài ta có: G là trọng tâm của tam giác ABC nên G A → + G B → + G C → = 0 → ⇔ G C → = − G A → − G B → ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho tam giác ABC, trên cạnh BC lấy M sao cho BM = 3CM, trên đoạn AM lấy N sao cho 2AN = 5MN. G là trọng tâm của tam giác ABC. Phân tích vectơ M N → qua các vectơ G A → và G B → .",
+      "options": [
+        "A. M N → = 1 2 G A → + 1 7 G B → ;",
+        "B. M N → = 1 7 G A → + 1 7 G B → ;",
+        "C. M N → = 2 7 G A → − 1 7 G B → ;",
+        "D. M N → = 1 2 G A → + 2 7 G B → ."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A. Theo đề bài ta có: B M → = 3 4 B C → và M N → = − 2 7 A M → . Vì G là trọng tâm tam giác ABC nên G A → + G B → + G C → = 0 → ⇔ G C → = − G A → − G B → Ta có: A M → = A B → + B M → = A B → + 3 4 B C → = A B → + 3 4 A C → − A B → = 1 4 A B → + 3 4 A C → M N → = − 2 7 A M → = − 2 7 1 4 A B → + 3 4 A C → = − 1 14 G B → − G A → − 3 14 G C → − G A → = − 1 14 G B → − G A → − 3 14 − G A → − G B → − G A → = 1 2 G A → + 1 7 G B → ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho hình bình hành ABCD. Gọi M, N lần lượt là hai điểm nằm trên hai cạnh AB và CD sao cho AB = 3AM, CD = 2CN. Biểu diễn vectơ A N → qua các vectơ A B → và A C → .",
+      "options": [
+        "A. A N → = − A C → + 1 2 A B → ;",
+        "B. A N → = A C → + 1 2 A B → ;",
+        "C. A N → = − A C → − 1 2 A B → ;",
+        "D. A N → = A C → − 1 2 A B → ."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải: Đáp án đúng là: D. Ta có: CD = 2CN và N nằm trên cạnh CD nên C N → = 1 2 C D → . Mà ABCD là hình bình hành nên A B → = D C → ⇔ A B → = − C D → . Do đó, C N → = − 1 2 A B → . Theo quy tắc ba điểm ta có: A N → = A C → + C N → = A C → − 1 2 A B → ."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-trac-nghiem-hoan-vi-chinh-hop-va-to-hop-lop-10-co-dap-an",
+  "sourceId": "vietjack:1-trac-nghiem-hoan-vi-chinh-hop-va-to-ho",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.Trắc nghiệm Hoán vị, chỉnh hợp và tổ hợp lớp 10 (có đáp án)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Giả sử ta dùng 5 màu để tô cho 3 nước khác nhau trên bản đồ và không có màu nào được dùng hai lần. Số các cách để chọn những màu cần dùng là:",
+      "options": [
+        "A. 60;",
+        "B. 8;",
+        "C. 15;",
+        "D. 5 3 ."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A Mỗi cách chọn lần lượt 3 trong 5 màu để tô 3 nước khác nhau là một chỉnh hợp chập 3 của 5 phần tử. Vậy số cách chọn là A 5 3 = 60 (cách)"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Có bao nhiêu cách xếp 5 người thành một hàng dọc",
+      "options": [
+        "A. 120;",
+        "B. 5;",
+        "C. 20;",
+        "D. 25."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A Mỗi cách xếp 5 người thành một hàng dọc là một hoán vị của 5 người đó. Vậy số cách xếp 5 người thành một hàng dọc là: 5! = 120"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Tên 15 học sinh được ghi vào 15 tờ giấy để vào trong hộp. Có bao nhiêu cách chọn tên 4 học sinh để cho đi du lịch",
+      "options": [
+        "A. 4!;",
+        "B. 15!;",
+        "C. 1365;",
+        "D. 32760."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là: C Mỗi cách chọn ra 4 học sinh trong 15 học sinh là một tổ hợp chập 4 của 15 phần tử. Vậy số cách chọn ra 4 học sinh là: C 15 4 = 1365 (cách)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Một hội đồng gồm 2 giáo viên và 3 học sinh được chọn từ một nhóm 5 giáo viên và 6 học sinh. Hỏi có bao nhiêu cách chọn?",
+      "options": [
+        "A. 200;",
+        "B. 150;",
+        "C. 160;",
+        "D. 180 ."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A Công đoạn 1, chọn giáo viên Mỗi cách chọn 2 giáo viên trong 5 giáo viên là một tổ hợp chập 2 của 5 phần tử. Vậy số cách chọn ra 2 giáo viên là: C 5 2 = 10. Công đoạn 2, chọn học sinh Mỗi cách chọn 3 học sinh trong 6 học sinh là một tổ hợp chập 3 của 6 phần tử. Vậy số cách chọn ra 3 học sinh là: C 6 3 = 20 Tổng kết, áp dụng quy tắc nhân số cách chọn một hội đồng gồm 2 giáo viên và 3 học sinh là: 10.20 = 200 (cách)"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Có bao nhiêu đoạn thẳng được tạo thành từ 10 điểm phân biệt khác nhau",
+      "options": [
+        "A. 45;",
+        "B. 90;",
+        "C. 35;",
+        "D. 55."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A Giả sử ta có 2 điểm A, B phân biệt thì có một đoạn thẳng AB (đoạn thẳng AB và đoạn thẳng BA là một) Vì cứ chọn 2 điểm bất kỳ trong 10 điểm ta được một đoạn thẳng nên mỗi cách chọn ra 2 điểm trong 10 điểm là một tổ hợp chập 2 của 10 phần tử. Vậy số đoạn thẳng được tạo thành từ 10 điểm phân biệt khác nhau là C 10 2 = 45 (đoạn thẳng)"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Một tổ gồm 12 học sinh trong đó có bạn An. Hỏi có bao nhiêu cách chọn 4 em đi trực nhật trong đó phải có An",
+      "options": [
+        "A. 990;",
+        "B. 495;",
+        "C. 220;",
+        "D. 165."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải Đáp án đúng là: D Vì chọn ra 4 bạn trong đó có bạn An nên ta cần chọn thêm 3 bạn trong 11 bạn học sinh còn lại Mỗi cách chọn 3 trong 11 học sinh là một tổ hợp chập 3 của 11 phần tử. Vậy số cách chọn 4 em đi trực nhật trong đó phải có An là C 11 3 = 165 (cách chọn)"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-de-kiem-tra-toan-10-chan-troi-sang-tao-chuong-4-co-dap-an",
+  "sourceId": "vietjack:1-de-kiem-tra-toan-10-chan-troi-sang-tao",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.Đề kiểm tra Toán 10 Chân trời sáng tạo Chương 4 có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Phần 1. Trắc nghiệm nhiều phương án lựa chọn Mỗi câu hỏi thí sinh chỉ chọn một phương án. Cho tam giác \\(ABC\\) có \\(AB = 4\\;{\\rm{cm}},BC = 7\\;{\\rm{cm}},AC = 9\\;{\\rm{cm}}\\). Tính \\(\\cos A\\).",
+      "options": [
+        "A. \\(\\cos A = \\frac{1}{2}\\).",
+        "B. \\(\\cos A = \\frac{1}{3}\\).",
+        "C. \\(\\cos A = - \\frac{2}{3}\\).",
+        "D. \\(\\cos A = \\frac{2}{3}\\)."
+      ],
+      "answer": "D",
+      "note": "Ta có \\(\\cos A = \\frac{{A{B^2} + A{C^2} - B{C^2}}}{{2 \\cdot AB \\cdot AC}} = \\frac{{{4^2} + {9^2} - {7^2}}}{{2 \\cdot 4 \\cdot 9}} = \\frac{2}{3}\\). Chọn D."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Tam giác \\(ABC\\) có \\(BC = 10\\) và \\(\\widehat A = 30^\\circ \\). Tính bán kính \\(R\\) của đường tròn ngoại tiếp tam giác \\(ABC\\)",
+      "options": [
+        "A. \\(R = 10\\).",
+        "B. \\(R = \\frac{{10}}{{\\sqrt 3 }}\\).",
+        "C. \\(R = 10\\sqrt 3 \\).",
+        "D. \\(R = 5\\)."
+      ],
+      "answer": "A",
+      "note": "Ta có \\(\\frac{{BC}}{{\\sin A}} = 2R \\Rightarrow R = \\frac{{BC}}{{2\\sin A}} = \\frac{{10}}{{2\\sin 30^\\circ }} = 10\\). Chọn A."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho \\(\\alpha \\) là góc tù. Khẳng định nào sau đây là đúng?",
+      "options": [
+        "A. \\(\\cos \\alpha > 0\\).",
+        "B. \\(\\tan \\alpha < 0\\).",
+        "C. \\(\\cot \\alpha > 0\\).",
+        "D. \\(\\sin \\alpha < 0\\)."
+      ],
+      "answer": "B",
+      "note": "Vì \\(\\alpha \\) là góc tù \\( \\Rightarrow 90^\\circ < \\alpha < 180^\\circ \\)\\( \\Rightarrow \\left\\{ \\begin{array}{l}\\cos \\alpha < 0\\\\\\sin \\alpha > 0\\end{array} \\right.\\)\\( \\Rightarrow \\left\\{ \\begin{array}{l}\\tan \\alpha < 0\\\\\\cot \\alpha < 0\\end{array} \\right.\\). Chọn B."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Trong các đẳng thức sau đây, đẳng thức nào sai ?",
+      "options": [
+        "A. \\(\\tan \\left( {180^\\circ - \\alpha } \\right) = - \\tan \\alpha \\).",
+        "B. \\(\\cot \\left( {180^\\circ - \\alpha } \\right) = \\cot \\alpha \\).",
+        "C. \\(\\cos \\left( {180^\\circ - \\alpha } \\right) = - \\cos \\alpha \\).",
+        "D. \\(\\sin \\left( {180^\\circ - \\alpha } \\right) = \\sin \\alpha \\)."
+      ],
+      "answer": "B",
+      "note": "\\(\\cot \\left( {180^\\circ - \\alpha } \\right) = - \\cot \\alpha \\). Chọn B."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Trong \\(\\Delta ABC\\) có \\(AB = c,AC = b,BC = a\\). Đẳng thức nào sau đây đúng?",
+      "options": [
+        "A. \\({c^2} = {a^2} + {b^2} + 2ab\\cos C\\).",
+        "B. \\({c^2} = {a^2} + {b^2} - 2ab\\cos A\\).",
+        "C. \\({c^2} = {a^2} + {b^2} - 2ab\\cos B\\).",
+        "D. \\({c^2} = {a^2} + {b^2} - 2ab\\cos C\\)."
+      ],
+      "answer": "D",
+      "note": "\\({c^2} = {a^2} + {b^2} - 2ab\\cos C\\). Chọn D."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho tam giác \\(ABC\\) có \\(AB = 8,AC = 9\\) và \\(\\widehat A = 60^\\circ \\). Diện tích tam giác \\(ABC\\) bằng",
+      "options": [
+        "A. \\({S_{\\Delta ABC}} = 36\\sqrt 3 \\).",
+        "B. \\({S_{\\Delta ABC}} = 36\\).",
+        "C. \\({S_{\\Delta ABC}} = 18\\sqrt 3 \\).",
+        "D. \\({S_{\\Delta ABC}} = 18\\)."
+      ],
+      "answer": "C",
+      "note": "Ta có \\({S_{\\Delta ABC}} = \\frac{1}{2} \\cdot AB \\cdot AC \\cdot \\sin \\widehat A = \\frac{1}{2} \\cdot 8 \\cdot 9 \\cdot \\sin 60^\\circ = 18\\sqrt 3 \\). Chọn C."
+    }
+  ]
+}

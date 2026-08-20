@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-toan-10-canh-dieu-xac-suat-cua-bien-co-co-da",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-toan-10-canh-dieu-x",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Toán 10 Cánh Diều Xác suất của biến cố có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Trong các thí nghiệm sau thí nghiệm nào không phải là phép thử ngẫu nhiên:",
+      "options": [
+        "A. Gieo đồng xu để xem xuất hiện mặt ngửa hay mặt sấp;",
+        "B. Gieo đồng xu để xem xuất hiện mặt ngửa xuất hiện bao nhiêu lần;",
+        "C. Chọn 1 học sinh bất kì trong lớp và xem kết quả là nam hay nữ;",
+        "D. Bỏ hai viên bi xanh và ba viên bi đỏ trong một chiếc hộp, sau đó lấy từng viên một để đếm có tất bao nhiêu viên bi."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải Đáp án đúng là: D Theo định nghĩa ta có phép thử ngẫu nhiên là những phép thử mà ta không thể đoán trước kết quả của nó, mặc dù đã biết được tập hợp tất cả các kết quả của phép thử đó Đáp án D không phải phép thử vì ta có thể biết chắc chắn kết quả chỉ có thể là 1 số cụ thể là tổng số bi đỏ và xanh"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho A là một biến cố liên quan đến phép thử T. Mệnh đề nào sau đây là mệnh đề đúng?",
+      "options": [
+        "A. P(A) là số lớn hơn 0;",
+        "B. P(A) = 1 – P ( A - ) ;",
+        "C. P(A) = 0 ⇔ A = Ω;",
+        "D. P(A) là số nhỏ hơn 1."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải Đáp án đúng là: B Đáp án A và D sai vì 0 ≤ P(A) ≤ 1 Đáp án C sai vì P(A) = 0 ⇔ A = ∅"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trong một chiếc hộp đựng 6 viên bi đỏ, 8 viên bi xanh, 10 viên bi trắng. Lấy ngẫu nhiên 4 viên bi. Tính số phần tử của biến cố A :” 4 viên bi lấy ra có ít nhất một viên bi màu đỏ”",
+      "options": [
+        "A. n(A) = 7366;",
+        "B. n(A) = 7563;",
+        "C. n(A) = 7566;",
+        "D. n(A) = 7568."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là: C Ta có : Mỗi lần chọn 4 viên bi bất kì từ 24 viên bi cho ta một tổ hợp chập 4 của 24 nên n(Ω) = \\(C_{24}^4\\) Gọi \\[\\overline A \\] là biến cố: “ 4 viên bi lấy ra không có viên bi đỏ nào được chọn” ⇒ Mỗi lần chọn 4 viên bi bất kì từ 18 viên bi xanh và trắng cho ta một tổ hợp chập 4 của 18 nên n( \\[\\overline A \\] ) = \\(C_{18}^4\\) . Vậy n(A) = n(Ω) − n( \\[\\overline A \\] ) = \\(C_{24}^4\\) − \\(C_{18}^4\\) = 10626 – 3060 = 7566."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Từ các chữ số 1; 2; 4; 6; 8; 9 lấy ngẫu nhiễn một số. Xác suất để lấy được một số nguyên tố là:",
+      "options": [
+        "A. \\(\\frac{1}{2}\\) ;",
+        "B. \\(\\frac{1}{3}\\) ;",
+        "C. \\(\\frac{1}{4}\\) ;",
+        "D. \\(\\frac{1}{6}\\) ."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải Đáp án đúng là: D Ta có : Mỗi lần chọn 1 số bất kì từ 6 số đã cho, ta được một tổ hợp chập 1 của 6 nên n(Ω) = \\(C_6^1\\) = 6 Gọi B là biến cố :”Số lấy ra là số nguyên tố” Ta có: B = {2} ⇒ n(B) = 1 Vậy P(B) = \\(\\frac{{n(B)}}{{n(\\Omega )}}\\) = \\(\\frac{1}{6}\\)"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Trên giá sách có 4 quyển sách toán, 3 quyển sách lí, 2 quyển sách hoá. Lấy ngẫu nhiên 3 quyển sách. Tính xác suất để 3 quyển lấy ra có ít nhất 1 quyển sách toán.",
+      "options": [
+        "A. \\(\\frac{2}{7}\\) ;",
+        "B. \\(\\frac{1}{{21}}\\) ;",
+        "C. \\(\\frac{{37}}{{42}}\\) ;",
+        "D. \\(\\frac{5}{{42}}\\) ."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là: C Ta có : Mỗi lần chọn 3 quyển sách bất kì từ 9 quyển sách cho ta một tổ hợp chập 3 của 9 nên n(Ω) = \\(C_9^3\\) = 84 Gọi C là biến cố: “ 3 quyển sách lấy ra có ít nhất một quyển là môn toán” Gọi \\[\\overline C \\] là biến cố: “ 3 quyển sách lấy ra không có quyển nào môn toán” ⇒ Mỗi lần chọn 3 viên bi bất kì từ 5 quyển sách lí và hoá cho ta một tổ hợp chập 3 của 5 nên n( \\[\\overline C \\] ) = \\(C_5^3\\) = 10 ⇒ P( \\[\\overline C \\] ) = \\(\\frac{{n(\\overline C )}}{{n(\\Omega )}}\\) = \\(\\frac{{10}}{{84}} = \\frac{5}{{42}}\\) Vậy P(C) = 1 – P( \\[\\overline C \\] ) = \\(1 - \\frac{5}{{42}} = \\frac{{37}}{{42}}\\) ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Một nhóm gồm 8 nam và 7 nữ. Chọn ngẫu nhiên 5 bạn. Xác suất để 5 bạn được cả nam lẫn nữ mà nam nhiều hơn nữ là:",
+      "options": [
+        "A. \\(\\frac{{60}}{{143}}\\) ;",
+        "B. \\(\\frac{{238}}{{429}}\\) ;",
+        "C. \\(\\frac{{210}}{{429}}\\) ;",
+        "D. \\(\\frac{{82}}{{143}}\\) ."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải Đáp án đúng là: B Ta có : Mỗi lần chọn 5 bạn ngẫu nhiên từ 15 bạn cho ta một tổ hợp chập 5 của 15 nên n(Ω) = \\(C_{15}^5\\) = 3003 Gọi D là biến cố :” 5 bạn được cả nam lẫn nữ mà năm nhiều hơn nữ” - Trường hợp 1 : Chọn 4 nam , 1 nữ: có \\(C_8^4\\) . \\(C_7^1\\) = 490 - Trường hợp 2 : Chọn 3 nam , 2 nữ: có \\(C_8^3\\) . \\(C_7^2\\) = 1176 Áp dụng quy tắc cộng ta có : n(D) = 490 + 1176 = 1666 Vậy P(D) = \\(\\frac{{n(D)}}{{n(\\Omega )}}\\) = \\(\\frac{{1666}}{{3003}} = \\frac{{238}}{{429}}\\) ."
+    }
+  ]
+}

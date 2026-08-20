@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-12-canh-dieu-bo-chon-lop-bo-chon-din",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-12-canh-die",
+  "grade": "l12",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 12 Cánh diều Bộ chọn lớp, bộ chọn định danh có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Câu 1: Bộ chọn lớp trong CSS được khai báo như thế nào?",
+      "options": [
+        "A. #Tên_bộ_chọn_lớp { thuộc tính: giá trị; }",
+        "B. .Tên_bộ_chọn_lớp { thuộc tính: giá trị; }",
+        "C. Tên_bộ_chọn_lớp { thuộc tính: giá trị; }",
+        "D. *Tên_bộ_chọn_lớp { thuộc tính: giá trị; }"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Bộ chọn lớp trong CSS được khai báo bắt đầu bằng dấu chấm (.), ví dụ: .Tên_bộ_chọn_lớp { thuộc tính: giá trị; }."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Bộ chọn định danh trong CSS được khai báo như thế nào?",
+      "options": [
+        "A. .Tên_định_danh { thuộc tính: giá trị; }",
+        "B. #Tên_định_danh { thuộc tính: giá trị; }",
+        "C. Tên_định_danh { thuộc tính: giá trị; }",
+        "D. *Tên_định_danh { thuộc tính: giá trị; }"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Bộ chọn định danh trong CSS được khai báo bắt đầu bằng dấu hash (#), ví dụ: #Tên_định_danh { thuộc tính: giá trị; }."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trong CSS, thuộc tính nào được dùng để thay đổi màu chữ?",
+      "options": [
+        "A. font-family",
+        "B. font-size",
+        "C. color",
+        "D. background-color"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Thuộc tính color được sử dụng để thay đổi màu chữ trong CSS."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Làm thế nào để áp dụng nhiều bộ chọn lớp cho một phần tử trong CSS?",
+      "options": [
+        "A. Tách các bộ chọn lớp bằng dấu phẩy",
+        "B. Tách các bộ chọn lớp bằng dấu chấm",
+        "C. Tách các bộ chọn lớp bằng dấu cách",
+        "D. Tách các bộ chọn lớp bằng dấu gạch ngang"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Khi áp dụng nhiều bộ chọn lớp cho một phần tử, các lớp được phân tách bằng dấu cách, ví dụ: &lt;h3 class=\"blue orangered\"&gt;."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Để định dạng phần tử &lt;input&gt; với màu nền xanh và chữ trắng, bạn sẽ sử dụng bộ chọn lớp nào trong CSS?",
+      "options": [
+        "A. .yellow",
+        "B. .blue",
+        "C. .red",
+        "D. .orangered"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Để định dạng phần tử &lt;input&gt; với màu nền xanh và chữ trắng, sử dụng bộ chọn lớp .blue như sau: input.blue {background-color: blue; color: white;}."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Làm thế nào để liên kết một tệp CSS ngoại vào tệp HTML?",
+      "options": [
+        "A. &lt;link rel=\"stylesheet\" href=\"tên_tệp.css\"&gt;",
+        "B. &lt;style src=\"tên_tệp.css\"&gt;&lt;/style&gt;",
+        "C. &lt;script src=\"tên_tệp.css\"&gt;&lt;/script&gt;",
+        "D. &lt;stylesheet href=\"tên_tệp.css\"&gt;&lt;/stylesheet&gt;"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Để liên kết một tệp CSS ngoại vào tệp HTML, sử dụng thẻ &lt;link&gt; với thuộc tính rel=\"stylesheet\" và href=\"tên_tệp.css\"."
+    }
+  ]
+}

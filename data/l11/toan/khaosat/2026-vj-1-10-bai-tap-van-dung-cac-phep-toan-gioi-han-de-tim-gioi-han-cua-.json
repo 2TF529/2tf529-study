@@ -1,0 +1,78 @@
+{
+  "id": "2026-vj-1-10-bai-tap-van-dung-cac-phep-toan-gioi-han-de-tim-gioi-han-cua-",
+  "sourceId": "vietjack:1-10-bai-tap-van-dung-cac-phep-toan-gioi",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.10 Bài tập Vận dụng các phép toán giới hạn để tìm giới hạn của dãy số dạng chứa căn thức (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Giá trị của lim n → + ∞ n + 5 − n + 1 là",
+      "options": [
+        "A. 5;",
+        "B. 1;",
+        "C. 3;",
+        "D. 0."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Ta có: lim n → + ∞ n + 5 − n + 1 = lim n → + ∞ n + 5 − n − 1 n + 5 + n + 1 = lim n → + ∞ 4 n + 5 + n + 1 = 0 ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Giá trị của lim n → + ∞ n 2 − n + 1 − n là",
+      "options": [
+        "A. − 1 2 ;",
+        "B. − ∞ ;",
+        "C. 1;",
+        "D. 0."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có: lim n → + ∞ n 2 − n + 1 − n = lim n → + ∞ n 2 − n + 1 − n 2 n 2 − n + 1 + n = lim n → + ∞ − n + 1 n 2 − n + 1 + n = lim n → + ∞ − 1 + 1 n 1 − 1 n + 1 n 2 + 1 = − 1 2 ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Giá trị của lim n → + ∞ n 2 + 2 n − n 2 − 2 n là",
+      "options": [
+        "A. 1;",
+        "B. 2;",
+        "C. 4;",
+        "D. + ∞ ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Có bao nhiêu giá trị của a để lim n → + ∞ n 2 + a 2 n − n 2 + ( a + 2 ) n + 1 = 0 ?",
+      "options": [
+        "A. 0;",
+        "B. 1;",
+        "C. 2;",
+        "D. 3."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Có bao nhiêu giá trị nguyên của a thỏa mãn lim n → + ∞ n 2 − 8 n − n + a 2 = 0 ?",
+      "options": [
+        "A. 0;",
+        "B. 2;",
+        "C. 1;",
+        "D. vô số."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B"
+    }
+  ]
+}

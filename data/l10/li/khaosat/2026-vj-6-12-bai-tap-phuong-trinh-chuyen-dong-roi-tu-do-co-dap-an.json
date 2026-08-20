@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-6-12-bai-tap-phuong-trinh-chuyen-dong-roi-tu-do-co-dap-an",
+  "sourceId": "vietjack:6-12-bai-tap-phuong-trinh-chuyen-dong-ro",
+  "grade": "l10",
+  "subjectSlug": "li",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "6.12 bài tập Phương trình chuyển động rơi tự do có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Một vật được thả rơi tự do không vận tốc đầu từ độ cao h so với mặt đất. Cho g = 10 m / s 2 . Thời gian vật rơi là 5 s. Tính quãng đường vật rơi trong giây cuối cùng trước khi chạm đất?",
+      "options": [
+        "A. 35 m.",
+        "B. 40 m.",
+        "C. 45 m.",
+        "D. 50 m."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là C Độ cao lúc thả vật là: s = 1 2 g t 2 = 1 2 .10.5 2 = 125 m Quãng đường vật rơi trong 4s đầu là: s 1 = 1 2 g . t 1 2 = 1 2 .10.4 2 = 80 m Quãng đường vật rơi trong giây cuối cùng là: Δ s = s − s 1 = 125 − 80 = 45 m"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Một vật rơi thẳng đứng từ độ cao 20 m với vận tốc ban đầu bằng 0 (bỏ qua sức cản của không khí, lấy g = 10 m / s 2 ). Thời gian vật đi được 1 m cuối cùng là bao nhiêu? (chọn đáp án gần đúng nhất).",
+      "options": [
+        "A. 0,01 s.",
+        "B. 0,02 s.",
+        "C. 0,04 s.",
+        "D. 0,05 s."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là D Thời gian từ lúc vật rơi đến lúc chạm đất là: t = 2 s g = 2.20 10 = 2 s Thời gian vật đi 19 m đầu tiên là: t 1 = 2.19 10 = 95 5 s Thời gian vật đi 1 m cuối cùng là: t 2 = t − t 1 = 2 − 95 5 ≈ 0 , 05 s"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Tính khoảng thời gian rơi tự do t của một viên đá. Cho biết trong giây cuối cùng trước khi chạm đất, vật đã rơi được đoạn đường dài 24,5 m. Lấy gia tốc rơi tự do g = 9,8 m/s 2 .",
+      "options": [
+        "A. 1 s.",
+        "B. 2 s.",
+        "C. 3 s.",
+        "D. 4 s."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là C Gọi s là quãng đường viên đá đi được sau khoảng thời gian t kể từ khi bắt đầu rơi tới khi chạm đất và s 1 là quãng đường viên đá đi được trước khi chạm đất 1 s, tức là khoảng thời gian t 1 = t − 1 thì ta có: s = g t 2 2 ; s 1 = g t − 1 2 2 Suy ra, quãng đường viên đá đi được trong 1 s cuối trước khi chạm đất là: Δ s = s − s 1 = g t 2 2 − g t − 1 2 2 = g t − g 2 Thay số, ta tìm được khoảng thời gian rơi tự do của viên đá: t = Δ s g + 1 2 = 24 , 5 9 , 8 + 0 , 5 = 3 s"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Tính quãng đường mà vật rơi tự do đi được trong giây thứ tư kể từ lúc được thả rơi. Trong khoảng thời gian đó vận tốc của vật đã tăng lên bao nhiêu? Lấy gia tốc rơi tự do g = 9,8 m/s 2 .",
+      "options": [
+        "A. 39,2 m/s.",
+        "B. 9,8 m/s.",
+        "C. 29,4 m/s.",
+        "D. 19,6 m/s."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là B Quãng đường mà vật rơi tự do đi được sau khoảng thời gian t tính theo công thức: s = g t 2 2 Suy ra quãng đường vật rơi tự do đi được sau khoảng thời gian t = 3 s là: s 3 = g . 3 2 2 = 4 , 5 g Quãng đường mà vật rơi tự do đi được sau khoảng thời gian t = 4 s là: s 4 = g . 4 2 2 = 8 g Do đó, quãng đường vật rơi tự do đi được trong giây thứ tư là: Δ s = s 4 − s 3 = 8 g − 4 , 5 g = 3 , 5 g = 3 , 5.9 , 8 = 34 , 3 m . Vận tốc của vật rơi tự do tính theo công thức: v = gt. Suy ra, trong giây thứ tư, vận tốc của vật đã tăng lên một lượng bằng: Δ v = v 4 − v 3 = 4 g − 3 g = 9 , 8 m / s ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Thả một hòn đá rơi từ miệng một cái hang sâu xuống đến đáy. Sau 4 s kể từ lúc bắt đầu thả thì nghe tiếng hòn đá chạm vào đáy. Tính chiều sâu của hang. Biết vận tốc truyền âm trong không khí là 330 m/s. Lấy g = 9,8 m/s 2",
+      "options": [
+        "A. 70,3 m.",
+        "B. 68,2 m.",
+        "C. 53,1 m.",
+        "D. 82,5 m."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là A Gọi h là chiều sâu của hang. Thời gian từ lúc thả đến lúc hòn đá chạm đáy hang là: t 1 = 2 h g Thời gian âm truyền từ đáy hang đến miệng hang là: t 2 = h v Theo đề bài ta có phương trình: t 2 + t 1 = 4 ⇒ 2 h g + h v = 4 ⇒ 2 h 9 , 8 + h 330 = 4 Giải phương trình ta tìm được: h = 70,3 m."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Thả một hòn sỏi từ trên gác cao xuống đất. Trong giây cuối cùng hòn sỏi rơi được quãng đường 15 m. Tính độ cao của điểm từ đó bắt đầu thả rơi hòn sỏi. Lấy g = 9,8 m/s 2 .",
+      "options": [
+        "A. 5 m.",
+        "B. 10 m.",
+        "C. 15 m.",
+        "D. 20 m."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là D Gọi h là độ cao của điểm từ đó bắt đầu thả hòn sỏi, t là thời gian rơi, h 1 là quãng đường vật rơi trong thời gian (t - 1) (s) ta có: h − h 1 = 15 m ⇒ g t 2 2 − g t − 1 2 2 = 15 ⇒ t ≈ 2 s Suy ra: h = g t 2 2 ≈ 20 m"
+    }
+  ]
+}

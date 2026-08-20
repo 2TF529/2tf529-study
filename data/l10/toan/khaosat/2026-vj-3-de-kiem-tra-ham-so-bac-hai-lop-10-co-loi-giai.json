@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-3-de-kiem-tra-ham-so-bac-hai-lop-10-co-loi-giai",
+  "sourceId": "vietjack:3-de-kiem-tra-ham-so-bac-hai-lop-10-co-l",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.Đề kiểm tra Hàm số bậc hai lớp 10 (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Trục đối xứng của parabol \\(y = - {x^2} + 5x + 3\\) là đường thẳng có phương trình",
+      "options": [
+        "A. \\(x = \\frac{5}{4}\\).",
+        "B. \\(x = - \\frac{5}{2}\\).",
+        "C. \\(x = - \\frac{5}{4}\\).",
+        "D. \\(x = \\frac{5}{2}\\)."
+      ],
+      "answer": "D",
+      "note": "Trục đối xứng của parabol \\(y = a{x^2} + bx + c\\) là đường thẳng \\(x = - \\frac{b}{{2a}}\\). Trục đối xứng của parabol \\(y = - {x^2} + 5x + 3\\) là đường thẳng \\(x = \\frac{5}{2}\\)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hàm số \\(y = {x^2} - 2x + 3\\). Chọn câu đúng.",
+      "options": [
+        "A. Hàm số nghịch biến trên khoảng \\(\\left( {1; + \\infty } \\right)\\).",
+        "B. Hàm số nghịch biến trên khoảng \\(\\left( { - \\infty ;1} \\right)\\).",
+        "C. Hàm số đồng biến trên \\(\\mathbb{R}\\).",
+        "D. Hàm số đồng biến trên khoảng \\(\\left( { - \\infty ;1} \\right)\\)."
+      ],
+      "answer": "B",
+      "note": "Ta có \\(a = 1 > 0\\), \\(b = - 2\\), \\(c = 3\\) nên hàm số có đỉnh là \\(I\\left( {1;2} \\right)\\). Từ đó suy ra hàm số nghịch biến trên khoảng \\(\\left( { - \\infty ;1} \\right)\\) và đồng biến trên khoảng \\(\\left( {1; + \\infty } \\right)\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Xét tính đồng biến, nghịch biến của hàm số \\[f\\left( x \\right) = {x^2} - 4x + 5\\] trên các khoảng \\[\\left( { - \\infty ;\\,2} \\right)\\] và \\[\\left( {2;\\, + \\infty } \\right)\\]. Khẳng định nào sau đây đúng?",
+      "options": [
+        "A. Hàm số nghịch biến trên \\[\\left( { - \\infty ;\\,2} \\right)\\], đồng biến trên \\[\\left( {2;\\, + \\infty } \\right)\\].",
+        "B. Hàm số nghịch biến trên các khoảng \\[\\left( { - \\infty ;\\,2} \\right)\\] và \\[\\left( {2;\\, + \\infty } \\right)\\].",
+        "C. Hàm số đồng biến trên \\[\\left( { - \\infty ;\\,2} \\right)\\], nghịch biến trên \\[\\left( {2;\\, + \\infty } \\right)\\].",
+        "D. Hàm số đồng biến trên các khoảng \\[\\left( { - \\infty ;\\,2} \\right)\\] và \\[\\left( {2;\\, + \\infty } \\right)\\]."
+      ],
+      "answer": "A",
+      "note": "\\[f\\left( x \\right) = {x^2} - 4x + 5\\] TXĐ: \\[D = \\mathbb{R}\\]. Tọa độ đỉnh \\[I\\left( {2;\\,1} \\right)\\]. Hàm số nghịch biến trên \\[\\left( { - \\infty ;\\,2} \\right)\\], đồng biến trên \\[\\left( {2;\\, + \\infty } \\right)\\]."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Tìm khẳng định đúng trong các khẳng định sau?",
+      "options": [
+        "A. \\(f\\left( x \\right) = 3{x^2} + 2x - 5\\) là hàm số bậc hai.",
+        "B. \\(f\\left( x \\right) = 2x - 4\\) là hàm số bậc hai.",
+        "C. \\(f\\left( x \\right) = 3{x^3} + 2x - 1\\) là hàm số bậc hai.",
+        "D. \\(f\\left( x \\right) = {x^4} - {x^2} + 1\\) là hàm số bậc hai."
+      ],
+      "answer": "A",
+      "note": "* Theo định nghĩa tam thức bậc hai thì \\(f\\left( x \\right) = 3{x^2} + 2x - 5\\) là tam thức bậc hai."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Biết rằng \\(\\left( P \\right):y = a{x^2} - 4x + c\\) có hoành độ đỉnh bằng \\( - 3\\) và đi qua điểm \\(M\\left( { - 2;1} \\right)\\). Tính tổng \\(S = a + c\\)",
+      "options": [
+        "A. \\(S = 5\\).",
+        "B. \\(S = - 5\\).",
+        "C. \\(S = 4\\).",
+        "D. \\(S = 1\\)."
+      ],
+      "answer": "B",
+      "note": "Vì \\(\\left( P \\right)\\) có hoành độ đỉnh bằng \\( - 3\\) và đi qua điểm \\(M\\left( { - 2;1} \\right)\\) nên ta có hệ \\(\\left\\{ \\begin{array}{l} - \\frac{{ - 4}}{{2a}} = - 3\\\\4a + 8 + c = 1\\end{array} \\right. \\Leftrightarrow \\left\\{ \\begin{array}{l} - 4 = 6a\\\\4a + c = - 7\\end{array} \\right. \\Leftrightarrow \\left\\{ \\begin{array}{l}a = - \\frac{2}{3}\\\\c = - \\frac{{13}}{3}\\end{array} \\right. \\Rightarrow S = a + c = - 5\\)"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho parabol \\(\\left( P \\right)\\):\\(y = a{x^2} + bx + c\\) có trục đối xứng là đường thẳng \\(x = 1\\). Khi đó \\(4a + 2b\\) bằng",
+      "options": [
+        "A. \\( - 1\\).",
+        "B. \\(0\\).",
+        "C. \\(1\\).",
+        "D. \\(2\\)."
+      ],
+      "answer": "B",
+      "note": "Do parabol \\(\\left( P \\right)\\):\\(y = a{x^2} + bx + c\\) có trục đối xứng là đường thẳng \\(x = 1\\) nên \\( - \\frac{b}{{2a}} = 1\\) \\( \\Leftrightarrow 2a = - b\\)\\( \\Leftrightarrow 2a + b = 0\\)\\( \\Leftrightarrow 4a + 2b = 0\\)."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Hàm số nào có đồ thị như hình vẽ bên dưới?",
+      "options": [
+        "A. \\(y = - {x^2} + 4x - 3\\).",
+        "B. \\(y = - {x^2} - 4x - 3\\).",
+        "C. \\(y = - 2{x^2} - x - 3\\).",
+        "D. \\(y = {x^2} - 4x - 3\\)."
+      ],
+      "answer": "A",
+      "note": "Đồ thị có bề lõm quay xuống dưới nên \\(a < 0\\). Loại phương án D. Trục đối xứng: \\(x = 2\\) do đó chọn A."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Tọa độ giao điểm của \\(\\left( P \\right)\\,:\\,y = {x^2} - 4x\\) với đường thẳng \\(d\\,:\\,y = - x - 2\\) là",
+      "options": [
+        "A. \\(M\\left( {0;\\, - 2} \\right)\\), \\(N\\left( {2;\\, - 4} \\right)\\).",
+        "B. \\(M\\left( { - 1;\\, - 1} \\right)\\), \\(N\\left( { - 2;\\,0} \\right)\\).",
+        "C. \\(M\\left( {\\, - 3;\\,1} \\right)\\), \\(N\\left( {3;\\, - 5} \\right)\\).",
+        "D. \\(M\\left( {1;\\, - 3} \\right)\\), \\(N\\left( {2;\\, - 4} \\right)\\)."
+      ],
+      "answer": "D",
+      "note": "Hoành độ giao điểm của \\(\\left( P \\right)\\) và \\(d\\) là nghiệm của phương trình: \\({x^2} - 4x = - x - 2\\, \\Leftrightarrow \\,{x^2} - 3x + 2 = 0\\, \\Leftrightarrow \\,\\left[ \\begin{array}{l}x = 1\\\\x = 2\\end{array} \\right.\\). Vậy tọa độ giao điểm của \\(\\left( P \\right)\\) và \\(d\\) là \\(M\\left( {1;\\, - 3} \\right)\\), \\(N\\left( {2;\\, - 4} \\right)\\)."
+    }
+  ]
+}

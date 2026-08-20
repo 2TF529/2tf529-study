@@ -1,0 +1,286 @@
+{
+  "id": "l12-li-totnghiep-2025-de-thi-thu-tn-thpt-vat-ly-truong-nguyen-khuyen-tinh-nam-dinh-lan-2-2025",
+  "grade": "l12",
+  "subjectSlug": "li",
+  "examType": "totnghiep",
+  "year": 2025,
+  "code": "THPT_TTL_ND_2025_03",
+  "title": "Đề thi thử tốt nghiệp THPT môn Vật Lý trường Nguyễn Khuyến Sở GD&ĐT Nam Định lần 2 năm 2025",
+  "duration": 50,
+  "answerSource": "official",
+  "source": "https://dolthpt.vn/tot-nghiep-thpt/pdf-de-thi-thu-tn-thpt-vat-ly-truong-nguyen-khuyen-tinh-nam-dinh-lan-2-2025-co-dap-an",
+  "notes": "Nội dung, đáp án và lời giải được nhập từ bản công khai của DOL THPT.",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "content": "Dòng điện xoay chiều là nguồn cấp điện chính cho hầu hết các thiết bị điện gia dụng như máy lạnh, máy giặt, tủ lạnh, quạt, đèn chiếu sáng… Một dòng điện xoay chiều có cường độ $i = I_0 \\cos(\\omega t + \\varphi)$ với $I_0 > 0$. Đại lượng $I_0$ được gọi là",
+      "chuong": "từ trường",
+      "dang": "lý thuyết: máy phát điện xoay chiều",
+      "type": "single",
+      "options": [
+        "A. cường độ dòng điện hiệu dụng",
+        "B. tần số góc của dòng điện",
+        "C. pha ban đầu của dòng điện",
+        "D. cường độ dòng điện cực đại"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Nhắc lại dạng tổng quát của dòng điện xoay chiều:\n$i = I_0 \\cos(\\omega t + \\varphi)$\n- Xác định các đại lượng trong công thức: - $I_0$ là giá trị cực đại (lớn nhất) của cường độ dòng điện.\n  - $\\omega$ là tần số góc của dòng điện.\n  - $\\varphi$ là pha ban đầu của dòng điện.\n- Do đó, $I_0$ chính là biên độ hay cường độ cực đại mà dòng điện có thể đạt được.\n**✅ Đáp án:** cường độ dòng điện cực đại\n**❌ Các đáp án khác:**\n- A. cường độ dòng điện hiệu dụng: giá trị hiệu dụng $I_{ rms} = I_0/\\sqrt{2}$, không phải là $I_0$.\n- B. tần số góc của dòng điện: đó là $\\omega$ chứ không phải $I_0$.\n- C. pha ban đầu của dòng điện: đó là $\\varphi$, không phải $I_0$."
+    },
+    {
+      "id": 2,
+      "content": "Hình bên mô tả sơ lược cấu tạo bộ cảm ứng (pickup) trong đàn ghita điện để tạo ra âm thanh. Bộ cảm ứng gồm một cuộn dây và một nam châm vĩnh cửu được đặt gần mỗi dây đàn guitar bằng kim loại có thể nhiễm từ. Phát biểu nào sau đây sai khi nói về nguyên lí hoạt động của đàn ghi ta điện?\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tn-thpt-vat-ly-truong-nguyen-khuyen-tinh-nam-dinh-lan-2-2025/cau-02.webp\" alt=\"Hình minh họa câu 2\" loading=\"lazy\"></figure>",
+      "chuong": "từ trường",
+      "dang": "bài tập: guitar điện, bếp từ, dynamo xe đạp, loa điện",
+      "type": "single",
+      "options": [
+        "A. Khi tư thông qua cuộn dây thay đổi thì trong cuộn dây xuất hiện dòng điện cảm ứng.",
+        "B. Dòng điện cảm ứng xuất hiện trong cuộn dây được đưa đến máy tăng âm rồi đến loa làm ta nghe được âm do dây đàn phát ra.",
+        "C. Bộ cảm ứng trong ghita điện hoạt động dựa trên hiện tượng cảm ứng điện từ.",
+        "D. Tần số của dao động điện nhỏ hơn tần số của dao động cơ trên dây."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Dựa trên hình ảnh: dây guitar kim loại rung gần nam châm sẽ làm thay đổi từ thông $\\Phi$ qua cuộn dây.\n- Theo định luật Faraday về cảm ứng điện từ, suất điện động cảm ứng trong cuộn dây là  với $N$ là số vòng dây.\n- Tần số của dòng điện cảm ứng bằng tần số dao động cơ của dây (vì $\\Phi$ thay đổi tuần hoàn cùng chu kỳ với dao động dây).\n- Đánh giá các phương án: - A. Khi từ thông qua cuộn dây thay đổi thì xuất hiện dòng điện cảm ứng. **Đúng**.\n  - B. Dòng điện cảm ứng được đưa đến ampli và loa để phát ra âm thanh. **Đúng**.\n  - C. Bộ cảm ứng hoạt động dựa trên hiện tượng cảm ứng điện từ. **Đúng**.\n  - D. Tần số của dao động điện nhỏ hơn tần số của dao động cơ trên dây. **Sai** (thực tế hai tần số bằng nhau).\n**✅ Đáp án:** $\\text{Tần số của dao động điện nhỏ hơn tần số của dao động cơ trên dây.}$\n**❌ Các đáp án khác:**\n- A: Đúng mô tả hiện tượng cảm ứng điện từ khi từ thông biến thiên.\n- B: Đúng đường truyền của dòng điện từ pickup đến máy tăng âm và loa.\n- C: Đúng xác định cơ sở hoạt động là cảm ứng điện từ."
+    },
+    {
+      "id": 3,
+      "content": "Hình bên biểu diễn các đường sức từ của một nam châm. So sánh từ trường tại các điểm A, B, C, D, điểm có từ trường mạnh nhất là\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tn-thpt-vat-ly-truong-nguyen-khuyen-tinh-nam-dinh-lan-2-2025/cau-03.webp\" alt=\"Hình minh họa câu 3\" loading=\"lazy\"></figure>",
+      "chuong": "từ trường",
+      "dang": "lý thuyết: từ trường",
+      "type": "single",
+      "options": [
+        "A. điểm C",
+        "B. điểm D",
+        "C. điểm B",
+        "D. điểm A"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Quan sát vùng quanh cực của nam châm, nơi đường sức từ ra (cực Bắc) và vào (cực Nam) thường dày đặc nhất.\n- Xem mật độ đường sức quanh mỗi điểm:\n• Tại A: Nằm rất gần cực Nam của nam châm, nhiều đường sức cùng đi qua => mật độ cao nhất.\n• Tại B: Xa hơn cực Nam, đường sức thưa hơn so với A.\n• Tại C: Gần cực Bắc nhưng mật độ đường sức vẫn kém A (do hình vẽ cho thấy ở C đường sức không dày như ở A).\n• Tại D: Nằm ở trên trung tâm và khá xa cả hai cực, đường sức rất thưa.\n- Kết luận: Điểm có mật độ đường sức dày nhất chính là điểm A, nên tại A cường độ từ trường mạnh nhất.\n**✅ Đáp án:** $điểm\\ A$\n**❌ Các đáp án khác:**\n- điểm C: Mật độ đường sức ở C kém A, nên từ trường yếu hơn.\n- điểm D: Nằm xa nam châm nhất, đường sức thưa nhất => từ trường yếu nhất.\n- điểm B: Mật độ đường sức ở B ít hơn A, nên từ trường yếu hơn A."
+    },
+    {
+      "id": 4,
+      "content": "Tàu điện từ là một phương tiện giao thông hiện đại, tàu hoạt động nhờ cơ chế nâng, đẩy và dẫn đường của hệ thống các nam châm điện. Ở một thời điểm, nam châm điện trên đường ray và thân tàu có cực như hình vẽ. Hợp lực của các lực từ tác dụng lên thân tàu có hướng\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tn-thpt-vat-ly-truong-nguyen-khuyen-tinh-nam-dinh-lan-2-2025/cau-04.webp\" alt=\"Hình minh họa câu 4\" loading=\"lazy\"></figure>",
+      "chuong": "từ trường",
+      "dang": "thực tế: ứng dụng hiện tượng cảm ứng điện từ",
+      "type": "single",
+      "options": [
+        "A. xuống dưới",
+        "B. sang phải",
+        "C. lên trên",
+        "D. sang trái"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Xác định cực nam châm ray gần tàu:\n• Ray trái → cực gần tàu là N\n• Ray phải → cực gần tàu là S\n- Xác định cực nam châm thân tàu gần ray:\n• Cánh chữ U bên trái → N\n• Cánh chữ U bên phải → S\n- Xét tương tác từng bên:\n• N (thân tàu) với N (ray trái) → cùng cực → đẩy nhau → lực hướng lên trên\n• S (thân tàu) với S (ray phải) → cùng cực → đẩy nhau → lực hướng lên trên\n- Hợp hai lực đều cùng hướng lên → **hợp lực hướng lên**\n(biểu diễn vector:\n-\n- Kết luận: Lên trên\n**✅ Đáp án:** $\\text{lên trên}$\n**❌ Các đáp án khác:**\n- A. xuống dưới: Sai, vì cả hai lực từ đều đẩy lên, không có thành phần xuống.\n- B. sang phải: Sai, lực từ nằm trên – dưới, không sinh thành phần ngang.\n- D. sang trái: Sai, tương tự không có lực ngang trái."
+    },
+    {
+      "id": 5,
+      "content": "Một hạt nhân có kí hiệu $^A_ZX$. Đại lượng Z trong kí hiệu là",
+      "chuong": "vật lí hạt nhân",
+      "dang": "lý thuyết: hạt nhân và mô hình nguyên tử",
+      "type": "single",
+      "options": [
+        "A. số proton",
+        "B. số neutron",
+        "C. số electron",
+        "D. số nucleon"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Theo quy ước vật lí hạt nhân, với kí hiệu $^A_ZX$:\n• A được gọi là *số khối*, bằng tổng số nucleon (proton + neutron).\n• Z được gọi là *số nguyên tử*, chính là số proton trong hạt nhân.\n- Có công thức liên hệ giữa A, Z và N (số neutron):\n- Muốn tìm Z (số proton), ta áp dụng:\n- Như vậy rõ ràng Z chỉ số proton, không phải neutron, electron hay tổng số nucleon.\n**✅ Đáp án:** $\\text{số proton}$\n**❌ Các đáp án khác:**\n- B. Số neutron: sai, đây là N, không phải Z.\n- C. Số electron: sai, electron không nằm trong ký hiệu hạt nhân $^A_ZX$.\n- D. Số nucleon: sai, số nucleon là A, không phải Z."
+    },
+    {
+      "id": 6,
+      "content": "Tại một nơi có từ trường Trái Đất nằm ngang (độ lớn cảm ứng từ \\$30\\ \\mu T$), đặt một đoạn dây dài 8 m mang dòng điện 1,5 A theo phương vuông góc với các đường sức từ. Lực từ do từ trường Trái Đất tác dụng lên đoạn dây có độ lớn là:",
+      "chuong": "từ trường",
+      "dang": "bài tập: lực từ tác dụng lên dây dẫn mang điện",
+      "type": "single",
+      "options": [
+        "A. \\$3{,}6 \\times 10^{-4}$ N",
+        "B. 0 N",
+        "C. \\$4{,}10^5$ N",
+        "D. \\$4{,}5 \\times 10^{-3}$ N"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Công thức chung:\n$F = I\\,L\\,B\\,\\sin\\theta.$\n- Vì dây vuông góc với đường sức từ nên $\\sin\\theta = \\sin 90^\\circ = 1.$\n- Thay số vào công thức:\n$F = 1{,}5 \\times 8 \\times \\bigl(30 \\times 10^{-6}\\bigr) \\times 1.$\n- Tính dần:\n• \\$1{,}5 \\times 8 = 12.$\n• \\$12 \\times 30 = 360.$\n• \\$360 \\times 10^{-6} = 3{,}6 \\times 10^{-4}.$\n- Kết luận:\n$F = 3{,}6 \\times 10^{-4}\\ \\text{N}.$\n**✅ Đáp án:** \\$3{,}6 \\times 10^{-4}\\ \\text{N}$\n**❌ Các đáp án khác:**\n- 0 N: Sai, vì khi dây vuông góc với từ trường thì lực từ không bằng 0.\n- \\$4\\times 10^5\\ \\text{N}$: Sai, giá trị quá lớn so với thực tế (cỡ \\$10^{-4}$ N).\n- \\$4{,}5\\times 10^{-3}\\ \\text{N}$: Sai, kết quả tính toán không khớp công thức $I\\,L\\,B$."
+    },
+    {
+      "id": 7,
+      "content": "Hạt nhân $^{107}_{47}\\text{Ag}$ có khối lượng 106,8783 amu. Cho khối lượng của proton và neutron lần lượt là \\$1{,}0073\\ \\text{amu}$ và \\$1{,}0087\\ \\text{amu}$; \\$1\\ \\text{amu} = 931{,}5\\ \\text{MeV}/c^2$. Năng lượng liên kết riêng của hạt nhân $^{107}_{47}\\text{Ag}$ xấp xỉ",
+      "chuong": "vật lí hạt nhân",
+      "dang": "bài tập: năng lượng liên kết",
+      "type": "single",
+      "options": [
+        "A. \\$8{,}78\\ \\dfrac{\\text{MeV}}{\\text{nucleon}}$",
+        "B. \\$8{,}59\\ \\dfrac{\\text{MeV}}{\\text{nucleon}}$",
+        "C. \\$8{,}76\\ \\dfrac{\\text{MeV}}{\\text{nucleon}}$",
+        "D. \\$8{,}43\\ \\dfrac{\\text{MeV}}{\\text{nucleon}}$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Tính khối lượng lý thuyết của hạt nhân:\n$m_{\\text{lý thuyết}} = Z\\,m_p + (A - Z)\\,m_n\n  = 47 \\times 1{,}0073 + 60 \\times 1{,}0087\n  = 107{,}8651\\ \\text{amu}$\n- Tính độ hụt khối lượng:\n$\\Delta m = m_{\\text{lý thuyết}} - m_{\\text{thực}}\n  = 107{,}8651 - 106{,}8783\n  = 0{,}9868\\ \\text{amu}$\n- Chuyển đổi độ hụt khối lượng sang năng lượng liên kết:\n$E_{\\text{liên kết}} = \\Delta m \\times 931{,}5\n  = 0{,}9868 \\times 931{,}5\n  = 919{,}7\\ \\text{MeV}$\n- Tính năng lượng liên kết riêng (trên mỗi nucleon):\n$\\frac{E_{\\text{liên kết}}}{A} = \\frac{919{,}7}{107} \\approx 8{,}59\\ \\frac{\\text{MeV}}{\\text{nucleon}}$\n**✅ Đáp án:** \\$8,59\\ \\dfrac{\\text{MeV}}{\\text{nucleon}}$\n**❌ Các đáp án khác:**\n- A. \\$8,78\\ \\dfrac{\\text{MeV}}{\\text{nucleon}}$: Kết quả cao hơn do tính khối lượng hụt sai, dẫn đến năng lượng bị phóng đại.\n- C. \\$8,76\\ \\dfrac{\\text{MeV}}{\\text{nucleon}}$: Vẫn lớn hơn giá trị chính xác vì sai số trong tính khối lượng lý thuyết.\n- D. \\$8,43\\ \\dfrac{\\text{MeV}}{\\text{nucleon}}$: Nhỏ hơn do tính thiếu độ hụt khối lượng hoặc dùng hệ số chuyển đổi không chính xác."
+    },
+    {
+      "id": 8,
+      "content": "Tính nhiệt lượng toả ra khi một miếng sắt có khối lượng 3 kg ở nhiệt độ \\$500^\\circ C$ hạ xuống còn \\$60^\\circ C$. Biết nhiệt dung riêng của sắt là \\$460\\ \\text{J/kg.K}$.",
+      "chuong": "vật lí nhiệt",
+      "dang": "bài tập: nhiệt dung riêng, phương trình cân bằng nhiệt",
+      "type": "single",
+      "options": [
+        "A. \\$607{,}2\\ \\text{kJ}$",
+        "B. \\$69{,}0\\ \\text{kJ}$",
+        "C. \\$82{,}8\\ \\text{kJ}$",
+        "D. \\$202{,}4\\ \\text{kJ}$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Xác định công thức chính:\n$Q = m\\,c\\,\\Delta T$\n- Tính hiệu nhiệt độ:\n$\\Delta T = t_1 - t_2 = 500 - 60 = 440\\ \\text{K}$\n- Thay số vào công thức:\n$Q = 3\\ \\text{kg} \\times 460\\ \\frac{\\text{J}}{\\text{kg·K}} \\times 440\\ \\text{K} = 607200\\ \\text{J}$\n- Đổi sang kJ:\n\\$607200\\ \\text{J} = 607{,}2\\ \\text{kJ}$\n**✅ Đáp án:** \\$607{,}2\\ \\text{kJ}$\n**❌ Các đáp án khác:**\n- B. \\$69{,}0\\ \\text{kJ}$: Sai do tính nhầm hiệu nhiệt độ hoặc quên nhân đủ khối lượng.\n- C. \\$82{,}8\\ \\text{kJ}$: Sai do nhầm lẫn trong phép tính tổng.\n- D. \\$202{,}4\\ \\text{kJ}$: Sai khi thay số vào công thức (thiếu hệ số)."
+    },
+    {
+      "id": 9,
+      "content": "Chọn phát biểu đúng về các tia phóng xạ. Cho tia phóng xạ alpha ($\\alpha$), beta ($\\beta$), gamma ($\\gamma$) bay qua khoảng không gian giữa hai bản của một tụ điện được nạp điện bằng nguồn một chiều như hình vẽ. Nguồn phóng xạ đặt giữa hai bản tụ điện.\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tn-thpt-vat-ly-truong-nguyen-khuyen-tinh-nam-dinh-lan-2-2025/cau-09.webp\" alt=\"Hình minh họa câu 9\" loading=\"lazy\"></figure>",
+      "chuong": "vật lí hạt nhân",
+      "dang": "lý thuyết: hiện tượng phóng xạ",
+      "type": "single",
+      "options": [
+        "A. Tia $\\beta$ bị lệch về phía bản âm của tụ điện.",
+        "B. Tia $\\gamma$ không bị lệch quỹ đạo.",
+        "C. Tia $\\alpha$ bị lệch về phía bản dương của tụ điện.",
+        "D. Tia $\\alpha$ bị lệch nhiều nhất, sau đó đến tia $\\beta$ và tia $\\gamma$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Theo hình vẽ, điện trường $\\vec E$ hướng từ bản dương sang bản âm.\n- Tia $\\alpha$ mang điện tích dương ($q>0$) ⇒ lực $\\vec F = q\\,\\vec E$ cùng hướng $\\vec E$ ⇒ lệch về bản âm.\n- Tia $\\beta$ mang điện tích âm ($q<0$) ⇒ lực $\\vec F$ ngược chiều $\\vec E$ ⇒ lệch về bản dương.\n- Tia $\\gamma$ không mang điện ($q=0$) ⇒ lực $\\vec F=0$ ⇒ **không bị lệch**, băng thẳng qua giữa hai bản.\n**✅ Đáp án:**\n$Tia\\ \\gamma\\ không\\ bị\\ lệch\\ quỹ\\ đạo$\n**❌ Các đáp án khác:**\n- A. Sai vì tia $\\beta$ âm sẽ lệch về bản dương (trái), không phải về bản âm.\n- C. Sai vì tia $\\alpha$ dương lệch về bản âm (phải), không phải về bản dương.\n- D. Sai vì tia $\\beta$ có $q/m$ lớn nhất nên lệch nhiều nhất, sau đó tới $\\alpha$, còn $\\gamma$ không lệch."
+    },
+    {
+      "id": 10,
+      "content": "Có 4 bình giống hệt nhau, vỏ dẫn nhiệt, chứa cùng một loại chất lỏng ở nhiệt độ ban đầu \\$6^\\circ C$. Biết thể tích chất lỏng trong các bình I, II, III và IV lần lượt là 5 lít, 4 lít, 2 lít và 0,5 lít. Sử dụng các đèn cồn giống hệt nhau để đun nóng các bình trên. Sau thời gian 3 phút kể từ khi bật đèn đun, chất lỏng trong các bình chưa sôi, người ta sử dụng các nhiệt kế giống nhau để đồng thời đo nhiệt độ của chất lỏng trong các bình. Giá trị nhiệt độ đo được ở bình nào là lớn nhất?\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tn-thpt-vat-ly-truong-nguyen-khuyen-tinh-nam-dinh-lan-2-2025/cau-10.webp\" alt=\"Hình minh họa câu 10\" loading=\"lazy\"></figure>",
+      "chuong": "vật lí nhiệt",
+      "dang": "bài tập: nhiệt dung riêng, phương trình cân bằng nhiệt",
+      "type": "single",
+      "options": [
+        "A. Bình III",
+        "B. Bình I",
+        "C. Bình II",
+        "D. Bình IV"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Vì đèn cồn và thời gian đun giống nhau, mỗi bình nhận cùng một nhiệt lượng $Q$.\n- Theo $Q = mc\\Delta T$, ta có\n$\\Delta T = \\frac{Q}{m}c} = \\frac{Q}{\\rho V\\,}c}.$\n- Với cùng $Q$, $\\rho$, $c$, ΔT tỉ lệ nghịch với thể tích $V$.\n- Thể tích càng nhỏ ⇒ ΔT càng lớn ⇒ nhiệt độ cuối càng cao.\n- Trong 4 bình, bình IV có thể tích nhỏ nhất (0,5 lít) ⇒ ΔT lớn nhất ⇒ T đo được cao nhất.\n**✅ Đáp án:** $\\text{Bình IV}$\n**❌ Các đáp án khác:**\n- A. Bình III: V = 2 lít (lớn hơn 0,5 lít) ⇒ ΔT nhỏ hơn Bình IV.\n- B. Bình I: V = 5 lít ⇒ ΔT nhỏ hơn nhiều.\n- C. Bình II: V = 4 lít ⇒ ΔT nhỏ hơn."
+    },
+    {
+      "id": 11,
+      "content": "Một lượng khí $H_2$ đựng trong một bình ở áp suất 3 atm và nhiệt độ $t_1 = 27^\\circ C$. Đun nóng khí đến nhiệt độ $t_2 = 127^\\circ C$, có bình hở nên một nửa lượng khí thoát ra ngoài, áp suất trong bình lúc này bằng bao nhiêu atm?",
+      "chuong": "khí lí tưởng",
+      "dang": "bài tập: phương trình clapeyron",
+      "type": "single",
+      "options": [
+        "A. 2,0 atm",
+        "B. 0,5 atm",
+        "C. 1,0 atm",
+        "D. 4,0 atm"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Viết phương trình trạng thái ban đầu:\n$P_1 V = n_1 R T_1$\n- Viết phương trình trạng thái sau khi đun và thoát khí:\n$P_2 V = n_2 R T_2$\n- Chia hai phương trình để loại $V$ và $R$:\n$\\frac{P_2}{P_}1} \\;=\\;\\frac{n_2\\,T_2}{n_1\\,T_}1}$\n- Thay $n_2 = \\tfrac12 n_1$, $T_1 = 300\\,$K$, $T_2 = 400\\,$K$, $P_1 = 3\\,$atm$:\n$\\frac{P_2}{3} = \\frac{\\bigl(\\tfrac12 n_1\\bigr)\\times 400}{n_1\\times 30}0}\n  = \\frac{400}{2\\times 30}0} = \\frac{2}{3}$\n- Kết luận:\n$P_2 = 3 \\times \\frac{2}{3} = 2 \\,\\text{atm}$\n**✅ Đáp án:** \\$2,0\\ \\text{atm}$\n**❌ Các đáp án khác:**\n- 0,5 atm: quá nhỏ, không phản ánh sự tăng nhiệt độ bù cho lượng khí bị mất.\n- 1,0 atm: chưa tính đúng tỷ lệ giảm số mol và tăng nhiệt độ.\n- 4,0 atm: không hợp lý vì lượng khí giảm một nửa thì áp suất không thể tăng gấp lên như vậy.$"
+    },
+    {
+      "id": 12,
+      "content": "Khi trung bình của các bình phương tốc độ của phân tử khí tăng gấp 3 lần thì nhiệt độ tuyệt đối của khối khí sẽ",
+      "chuong": "khí lí tưởng",
+      "dang": "bài tập: tính toán động năng, áp suất, tốc độ căn quân phương.",
+      "type": "single",
+      "options": [
+        "A. giảm 3 lần",
+        "B. tăng 3 lần",
+        "C. giảm 9 lần",
+        "D. tăng 9 lần"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Theo động học phân tử, năng lượng động học trung bình của một phân tử là\n- Từ đó suy ra  tức là\n- Vì $T$ tỉ lệ thuận với $\\overline{v^2}$, nếu $\\overline{v^2}$ tăng gấp 3 thì $T$ cũng tăng gấp 3.\n**✅ Đáp án:** $tăng\\ 3\\ lần$\n**❌ Các đáp án khác:**\n- giảm 3 lần: Sai, vì nhiệt độ tỉ lệ thuận chứ không tỉ lệ nghịch với $\\overline{v^2}$.\n- giảm 9 lần: Sai, mâu thuẫn hoàn toàn với tỉ lệ thuận.\n- tăng 9 lần: Sai, chỉ đúng nếu $T\\propto(\\overline{v^2})^2$, không phải trường hợp này."
+    },
+    {
+      "id": 13,
+      "content": "Chất nào sau đây có thể tích xác định?",
+      "chuong": "vật lí nhiệt",
+      "dang": "lý thuyết: cấu trúc của chất. sự chuyển thể",
+      "type": "single",
+      "options": [
+        "A. Chất lỏng và chất khí",
+        "B. Chất rắn và chất lỏng",
+        "C. Chất rắn và chất khí",
+        "D. Chất khí"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Nhớ lại tính chất các trạng thái: 1. Chất rắn có cả hình dạng và thể tích xác định.\n  2. Chất lỏng không có hình dạng xác định (thay đổi hình dạng theo bình chứa) nhưng có thể tích xác định.\n  3. Chất khí không có hình dạng xác định và cũng không có thể tích xác định (phủ đều không gian chứa nó).\n- Từ đó, chỉ có chất rắn và chất lỏng thỏa mãn điều kiện “có thể tích xác định”.\n**✅ Đáp án:** Chất rắn và chất lỏng\n**❌ Các đáp án khác:**\n- Chất lỏng và chất khí: chất khí không có thể tích xác định.\n- Chất rắn và chất khí: chất khí không có thể tích xác định.\n- Chất khí: không có thể tích xác định."
+    },
+    {
+      "id": 14,
+      "content": "Một kim nam châm nhỏ nằm cân bằng tại một điểm trong từ trường. Hướng của từ trường tại điểm đó được quy ước là hướng",
+      "chuong": "từ trường",
+      "dang": "lý thuyết: từ trường",
+      "type": "single",
+      "options": [
+        "A. từ cực Bắc sang cực Nam của kim nam châm nhỏ",
+        "B. từ địa cực Bắc sang địa cực Nam của Trái Đất",
+        "C. từ địa cực Nam sang địa cực Bắc của Trái Đất",
+        "D. từ cực Nam sang cực Bắc của kim nam châm nhỏ"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Bước 1: Nhớ lại định nghĩa: *hướng của từ trường tại một điểm được quy ước là hướng của lực tác dụng lên cực Bắc thử*.\n- Bước 2: Khi đặt kim nam châm nhỏ vào từ trường, kim sẽ cân bằng sao cho đầu gọi là cực Bắc (N) quay theo chiều của từ trường, còn cực Nam (S) ở đối diện.\n- Bước 3: Do đó, chiều quy ước của từ trường chính là từ cực Nam (S) sang cực Bắc (N) của kim nam châm nhỏ.\n**✅ Đáp án:** $\\text{từ cực Nam sang cực Bắc của kim nam châm nhỏ}$\n**❌ Các đáp án khác:**\n- A. từ cực Bắc sang cực Nam của kim nam châm nhỏ: sai vì ngược chiều quy ước.\n- B. từ địa cực Bắc sang địa cực Nam của Trái Đất: sai vì định nghĩa hướng từ trường không dựa trên hướng giữa hai địa cực.\n- C. từ địa cực Nam sang địa cực Bắc của Trái Đất: sai vì tương tự, quy ước dựa trên kim nam châm nhỏ chứ không phải địa cực."
+    },
+    {
+      "id": 15,
+      "content": "Biển báo nào dưới đây cảnh báo khu vực có chất phóng xạ?\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tn-thpt-vat-ly-truong-nguyen-khuyen-tinh-nam-dinh-lan-2-2025/cau-15.webp\" alt=\"Hình minh họa câu 15\" loading=\"lazy\"></figure>",
+      "chuong": "vật lí hạt nhân",
+      "dang": "thực tế: hiện tượng phóng xạ",
+      "type": "single",
+      "options": [
+        "A. Hình 3",
+        "B. Hình 2",
+        "C. Hình 4",
+        "D. Hình 1"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Quan sát ký hiệu trên mỗi hình:\n• Hình 1 có dấu chấm than → chỉ cảnh báo chung, không riêng về phóng xạ.\n• Hình 2 có biểu tượng ba cánh quạt xung quanh một vòng tròn → đây là *biểu tượng quốc tế phóng xạ*.\n• Hình 3 có biểu tượng nguy hiểm sinh học → liên quan vi sinh, không phải phóng xạ.\n• Hình 4 có hình chai vỡ đổ chất lỏng → chỉ cảnh báo hóa chất.\n- Đối chiếu với kiến thức: ký hiệu ba cánh quạt (trefoil) luôn dùng để cảnh báo vật liệu phóng xạ hoặc bức xạ.\n- Kết luận: **Hình 2** là biển báo cảnh báo khu vực có chất phóng xạ.\n**✅ Đáp án:** $\\text{Hình 2}$\n**❌ Các đáp án khác:**\n- A. Hình 3: biểu tượng nguy hiểm sinh học, không liên quan đến phóng xạ.\n- C. Hình 4: cảnh báo hóa chất nguy hiểm, không phải phóng xạ.\n- D. Hình 1: cảnh báo chung, không chỉ ra chất phóng xạ."
+    },
+    {
+      "id": 16,
+      "content": "Chất phóng xạ $X$ có hằng số phóng xạ $\\lambda$. Ban đầu ($t = 0$), một mẫu có $N_0$ hạt nhân $X$. Tại thời điểm $t$, số hạt nhân $X$ còn lại trong mẫu là",
+      "chuong": "vật lí hạt nhân",
+      "dang": "lý thuyết: hiện tượng phóng xạ",
+      "type": "single",
+      "options": [
+        "A. $N = N_0 e^{\\lambda t}$",
+        "B. $N = N_0 \\lambda^t$",
+        "C. $N = N_0 e^{-\\lambda t}$",
+        "D. $N = N_0 \\lambda^{-et}$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n$N = N_0 e^{-\\lambda t}$\n**✅ Đáp án:**\n$N = N_0 e^{-\\lambda t}$\n**❌ Các đáp án khác:**\n- A. $N = N_0 e^{\\lambda t}$ sai vì hàm này tăng theo thời gian, trong khi số hạt nhân phải giảm.\n- B. $N = N_0 \\lambda^t$ sai vì phân rã không theo lũy thừa của λ mà theo lũy thừa của e.\n- D. $N = N_0 \\lambda^{-et}$ biểu thức không có cơ sở vật lý và sai cấu trúc toán học."
+    },
+    {
+      "id": 17,
+      "content": "Độ biến thiên nội năng của vật $\\Delta U = A + Q$ khi $Q < 0$ và $A > 0$ mô tả quá trình",
+      "chuong": "vật lí nhiệt",
+      "dang": "lý thuyết: nội năng. định luật i nhiệt động lực học",
+      "type": "single",
+      "options": [
+        "A. vật nhận nhiệt lượng từ vật khác và nhận công từ vật khác",
+        "B. vật nhận nhiệt lượng từ vật khác và thực hiện công lên vật khác",
+        "C. vật truyền nhiệt lượng cho vật khác và nhận công từ vật khác",
+        "D. vật truyền nhiệt cho vật khác và thực hiện công lên vật khác"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Bước 1: Viết lại định luật thứ nhất:\n$\\Delta U = Q + A$\n- Bước 2: Xét dấu của $Q$ và $A$:\n• $Q<0$ ⇒ vật truyền nhiệt cho môi trường (tỏa nhiệt).\n• $A>0$ ⇒ có công do ngoại lực thực hiện lên vật (vật nhận công).\n- Bước 3: Kết luận quá trình:\nVật truyền nhiệt lượng cho môi trường và đồng thời nhận công từ môi trường.\n**✅ Đáp án:** C. vật truyền nhiệt lượng cho vật khác và nhận công từ vật khác\n**❌ Các đáp án khác:**\n- A. vật nhận nhiệt lượng từ vật khác và nhận công từ vật khác: sai vì đòi hỏi $Q>0$ trong khi đề cho $Q<0$.\n- B. vật nhận nhiệt lượng từ vật khác và thực hiện công lên vật khác: sai vì $Q<0$ và $A<0$ đều không thỏa.\n- D. vật truyền nhiệt cho vật khác và thực hiện công lên vật khác: sai vì $A>0$ chứ không phải $A<0$."
+    },
+    {
+      "id": 18,
+      "content": "Trên đồ thị $p - V$ vẽ hai đường đẳng tích của cùng một lượng khí xác định. Nhận định nào sau đây đúng?\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tn-thpt-vat-ly-truong-nguyen-khuyen-tinh-nam-dinh-lan-2-2025/cau-18.webp\" alt=\"Hình minh họa câu 18\" loading=\"lazy\"></figure>",
+      "chuong": "khí lí tưởng",
+      "dang": "đồ thị: định luật boyle",
+      "type": "single",
+      "options": [
+        "A. $V_1 \\ge V_2$",
+        "B. $V_1 = V_2$",
+        "C. $V_1 > V_2$",
+        "D. $V_1 < V_2$"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Quan sát trên đồ thị, đường của $V_1$ nằm trên và có độ dốc lớn hơn so với đường của $V_2$.\n- Áp dụng công thức từ khí lý tưởng:\n$p = \\frac{nR}{V}\\;T\\quad\\Longrightarrow\\quad\\text{độ dốc }m=\\frac{nR}{V}.$\n- Đường càng dốc tức là $\\frac{nR}{V}$ càng lớn, suy ra thể tích $V$ càng nhỏ.\n- Vì đường $V_1$ dốc hơn đường $V_2$ nên $V_1$ phải nhỏ hơn $V_2$.\n**✅ Đáp án:** $V_1 < V_2$\n**❌ Các đáp án khác:**\n- A. $V_1 \\ge V_2$ sai vì đường $V_1$ dốc hơn nên $V_1$ không thể lớn hơn hoặc bằng $V_2$.\n- B. $V_1 = V_2$ sai vì nếu bằng nhau, hai đường phải trùng nhau (cùng độ dốc).\n- C. $V_1 > V_2$ sai vì đường $V_1$ dốc hơn cho thấy $V_1$ nhỏ hơn $V_2$."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-13-bai-tap-xac-dinh-tinh-chan-le-tinh-tuan-hoan-chu-ki-cua-ham-",
+  "sourceId": "vietjack:2-13-bai-tap-xac-dinh-tinh-chan-le-tinh-",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.13 Bài tập Xác định tính chẵn, lẻ; tính tuần hoàn, chu kì của hàm số (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Khẳng định nào dưới đây đúng?",
+      "options": [
+        "A. Hàm số y = tan x là hàm số chẵn;",
+        "B. Hàm số y = sin x là hàm số chẵn;",
+        "C. Hàm số y = cos x là hàm số chẵn;",
+        "D. Hàm số y = cot x là hàm số chẵn."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải: Đáp án đúng là: C Xét hàm số y = f(x) = cos x. Tập xác định của hàm số là D = ℝ. Do đó, nếu x thuộc tập xác định D thì –x cũng thuộc tập xác định D. Ta có: f(–x) = cos(–x) = cos x = f(x), ∀x ∈ ℝ. Vậy y = cos x là hàm số chẵn."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Hàm số nào sau đây là hàm số chẵn?",
+      "options": [
+        "A. y = xsinx;",
+        "B. y = xcosx;",
+        "C. y = tanx;",
+        "D. y = cotx."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A Xét hàm số y = f(x) = x sin x. Tập xác định của hàm số là D = ℝ. Do đó, nếu x thuộc tập xác định D thì –x cũng thuộc tập xác định D. Ta có: f(– x) = (– x) sin (– x) = xsinx = f(x), ∀x ∈ ℝ. Vậy y = xsinx là hàm số chẵn."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Hàm số nào sau đây là hàm số chẵn trên ℝ?",
+      "options": [
+        "A. y = 2x 2 + x;",
+        "B. y = sinx x ;",
+        "C. y = sin 2 x;",
+        "D. y = xtan2x."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải: Đáp án đúng là: C +) Xét đáp án A: đặt y = g(x) = 2x 2 + x. Ta có: g(– x) = 2 ∙ (–x) 2 + (– x) = 2x 2 – x. Ta thấy g(– x) ≠ g(x) và g(– x) ≠ – g(x), do vậy y = 2x 2 + x không chẵn, không lẻ. +) Hàm số y = s inx x và y = xtan2x là hàm số chẵn trên tập xác định D của nó với D ≠ ℝ. Do đó, loại đáp án B và D. +) Xét hàm số y = f(x) = sin 2 x: Tập xác định của hàm số là D = ℝ. Do đó, nếu x thuộc tập xác định D thì –x cũng thuộc tập xác định D. Ta có: f(– x) = sin 2 (– x) = [– sin x] 2 = sin 2 x = f(x), ∀ x ∈ ℝ. Vậy y = sin 2 x là hàm số chẵn."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Hàm số nào sau đây là hàm số chẵn trên tập xác định của nó?",
+      "options": [
+        "A. y = cos x − 2 ;",
+        "B. y = s in 5 x x ;",
+        "C. y = sin2x;",
+        "D. y = |x| – x 3 + 2 023."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải: Đáp án đúng là: B Xét hàm số y = f x = s in 5 x x : Tập xác định của hàm số là D = ℝ\\{0}. Do đó, nếu x thuộc tập xác định D thì –x cũng thuộc tập xác định D. Ta có: f − x = sin 5 − x − x = sin 5 x x = f x , ∀ x ∈ D. Vậy y = s in 5 x x là hàm số chẵn trên D."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Có bao nhiêu hàm số trong các hàm số y = sin2x; y = xcosx; y = |x| tan 2 x; y = 1 là hàm chẵn trên ℝ?",
+      "options": [
+        "A. 1;",
+        "B. 2;",
+        "C. 3;",
+        "D. 4."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A +) Hàm số y = 1 là hàm chẵn trên ℝ. +) Hàm số y = |x| tan 2 x là hàm chẵn trên D = ℝ \\ π 2 + k π | k ∈ ℤ . +) Các hàm số y = sin2x; y = xcosx là hàm số lẻ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho bốn mệnh đề sau: i) Trên ℝ, y = sin2x có tập giá trị là [–1; 1]. ii) Trên 0 ; π 2 , y = sinx có tập giá trị là [–1; 1]. iii) Trên ℝ, y = xsinx là hàm số chẵn. iv) Trên ℝ, y = x sin 2 x là hàm số lẻ. Số mệnh đề đúng là",
+      "options": [
+        "A. 1;",
+        "B. 2;",
+        "C. 3;",
+        "D. 4."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải: Đáp án đúng là: C Xét từng mệnh đề: i) Trên ℝ, y = sin2x có tập giá trị là [–1; 1]. Vậy i) đúng. ii) Trên 0 ; π 2 , y = sinx có tập giá trị là [0; 1]. Vậy ii) sai. iii) Xét hàm số y = f(x) = xsinx. Tập xác định của hàm số y = xsinx là D = ℝ. Do đó, nếu x thuộc tập xác định D thì –x cũng thuộc tập xác định D. Ta có: f(–x) = (–x)sin(–x) = xsinx = f(x), ∀ x ∈ D. Vậy y = xsinx là hàm số chẵn. Do đó iii) đúng. iv) Xét hàm số y = g(x) = x sin 2 x. Tập xác định của hàm số là D = ℝ. Do đó, nếu x thuộc tập xác định D thì –x cũng thuộc tập xác định D. Ta có: g(–) = (– x) sin 2 (– x) = – x sin 2 x = – g(x), ∀ x ∈ D. Vậy hàm số đã cho là hàm số lẻ. Do đó iv) đúng. Do đó có 3 mệnh đề đúng."
+    }
+  ]
+}

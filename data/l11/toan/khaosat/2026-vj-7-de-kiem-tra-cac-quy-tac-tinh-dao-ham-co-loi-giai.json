@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-7-de-kiem-tra-cac-quy-tac-tinh-dao-ham-co-loi-giai",
+  "sourceId": "vietjack:7-de-kiem-tra-cac-quy-tac-tinh-dao-ham-c",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "7.Đề kiểm tra Các quy tắc tính đạo hàm (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Hàm số \\(y = {x^n}(n \\in {\\mathbb{N}^*})\\) có đạo hàm \\[y'\\] trên \\[\\mathbb{R}\\] bằng",
+      "options": [
+        "A. \\(n{x^{n - 1}}\\).",
+        "B. \\(n\\).",
+        "C. \\(n{x^n}\\).",
+        "D. \\({x^{n - 1}}.\\)"
+      ],
+      "answer": "A",
+      "note": "Theo bảng đạo hàm trong SGK: \\(y' = {\\left( {{x^n}} \\right)^\\prime } = n{x^{n - 1}}.\\)"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hàm số \\[u = u\\left( x \\right)\\], \\[v = v\\left( x \\right)\\] có đạo hàm trên khoảng \\[\\left( {a;b} \\right)\\] và \\[v\\left( x \\right) \\ne 0,\\forall x \\in \\left( {a;b} \\right)\\]. Mệnh đề nào sau đây đúng?",
+      "options": [
+        "A. \\[{\\left( {\\frac{u}{v}} \\right)^\\prime } = \\frac{{u'v - uv'}}{{{v^2}}}\\,\\,\\].",
+        "B. \\[{\\left( {\\frac{u}{v}} \\right)^\\prime } = \\frac{{u'v - uv'}}{v}\\,\\,\\].",
+        "C. \\[{\\left( {\\frac{u}{v}} \\right)^\\prime } = \\frac{{u'v + uv'}}{{{v^2}}}\\,\\,\\].",
+        "D. \\[{\\left( {\\frac{u}{v}} \\right)^\\prime } = \\frac{{uv' - u'v}}{{{v^2}}}\\,\\,\\]."
+      ],
+      "answer": "A",
+      "note": "Theo bảng đạo hàm trong SGK."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Hàm số \\(y = \\tan x\\) với \\(x \\ne \\frac{\\pi }{2} + k\\pi ,k \\in \\mathbb{Z}\\) có đạo hàm \\[y'\\] bằng",
+      "options": [
+        "A. \\( - \\frac{1}{{co{s^2}x}}\\).",
+        "B. \\(\\frac{1}{{co{s^2}x}}\\).",
+        "C. \\(\\frac{1}{{{{\\sin }^2}x}}\\).",
+        "D. \\( - \\frac{1}{{{{\\sin }^2}x}}\\)."
+      ],
+      "answer": "B",
+      "note": "Theo bảng đạo hàm trong SGK"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Đạo hàm của hàm số \\(y = \\sqrt {4 - x} \\) là",
+      "options": [
+        "A. \\(\\frac{1}{{2\\sqrt {4 - x} }}\\).",
+        "B. \\(\\sqrt {4 - x} \\).",
+        "C. \\(\\frac{{ - 1}}{{\\sqrt {4 - x} }}\\).",
+        "D. \\(\\frac{{ - 1}}{{2\\sqrt {4 - x} }}\\)."
+      ],
+      "answer": "D",
+      "note": "Ta có \\[y' = {\\left( {\\sqrt {4 - x} } \\right)^\\prime } = \\frac{{(4 - x)'}}{{2\\sqrt {4 - x} }} = \\frac{{ - 1}}{{2\\sqrt {4 - x} }}\\]."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Tính đạo hàm của hàm số \\[f(x) = {x^{2024}}\\]",
+      "options": [
+        "A. \\[f'(x) = 2024{x^{2024}}.\\]",
+        "B. \\[f'(x) = {x^{2023}}.\\]",
+        "C. \\[f'(x) = 2024{x^{2023}}.\\]",
+        "D. \\[f'(x) = 2023{x^{2023}}.\\]"
+      ],
+      "answer": "C",
+      "note": "\\[y' = ({x^{2024}})' = 2024.{x^{2023}}\\]"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Đạo hàm của hàm số \\[y = 2{e^{3x}}\\] là",
+      "options": [
+        "A. \\[y' = 6{e^{3x}}.\\]",
+        "B. \\[y' = 2{e^{3x - 1}}.\\]",
+        "C. \\[y' = 6x.{e^{3x - 1}}.\\]",
+        "D. \\[y' = 6{e^{3x - 1}}.\\]"
+      ],
+      "answer": "A",
+      "note": "\\[y' = (2{e^{3x}})' = 2.3.{e^{3x}} = 6.{e^{3x}}\\]"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Cho hàm số \\(y = f\\left( x \\right) = \\frac{{2x + 1}}{{x - 2}}\\) xác định trên \\(D = \\mathbb{R}\\backslash \\left\\{ 2 \\right\\}\\). Đạo hàm của hàm số \\(y = f\\left( x \\right)\\) bằng",
+      "options": [
+        "A. \\[y' = \\frac{{ - 3}}{{{{\\left( {x - 2} \\right)}^2}}}\\].",
+        "B. \\[y' = \\frac{{ - 4}}{{{{\\left( {x - 2} \\right)}^2}}}\\].",
+        "C. \\[y' = \\frac{{ - 5}}{{{{\\left( {x - 2} \\right)}^2}}}\\].",
+        "D. \\[y' = \\frac{{ - 2}}{{{{\\left( {x - 2} \\right)}^2}}}\\]."
+      ],
+      "answer": "C",
+      "note": "Ta có \\(y' = \\frac{{{{\\left( {2x + 1} \\right)}^\\prime }\\left( {x - 2} \\right) - {{\\left( {x - 2} \\right)}^\\prime }\\left( {2x + 1} \\right)}}{{{{\\left( {x - 2} \\right)}^2}}} = \\frac{{ - 5}}{{{{\\left( {x - 2} \\right)}^2}}}\\)"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho hàm số \\(f\\left( x \\right) = {x^3} - 3x + 2\\). Tập nghiệm của bất phương trình \\(f'\\left( x \\right) < 0\\) là",
+      "options": [
+        "A. \\(\\left( { - 1;1} \\right)\\).",
+        "B. \\(\\left( {1;2} \\right)\\).",
+        "C. \\(\\left( { - 1;2} \\right)\\).",
+        "D. \\(\\left( { - \\infty ;1} \\right)\\)"
+      ],
+      "answer": "A",
+      "note": "Ta có \\(f'\\left( x \\right) = 3\\left( {{x^2} - 1} \\right)\\). Ta có \\(f'\\left( x \\right) < 0 \\Leftrightarrow {x^2} - 1 < 0 \\Leftrightarrow x \\in \\left( { - 1;1} \\right)\\)."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-12-canh-dieu-thiet-ke-mang-lan-co-da",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-12-canh-die",
+  "grade": "l12",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 12 Cánh diều Thiết kế mạng LAN có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Yêu cầu chính của thiết kế mạng là gì?",
+      "options": [
+        "A. Chỉ cần chọn thiết bị mạng phù hợp",
+        "B. Đảm bảo truyền thông hiệu quả và hiệu suất cao giữa các thiết bị",
+        "C. Tạo sơ đồ kết nối mạng đẹp mắt",
+        "D. Cài đặt các thông số cho thiết bị mạng"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Yêu cầu chính của thiết kế mạng là đảm bảo truyền thông hiệu quả và hiệu suất cao giữa các thiết bị trong mạng. Điều này bao gồm việc xác định cấu trúc và thành phần của mạng để đáp ứng nhu cầu cụ thể."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Thiết kế mạng lớn yêu cầu những gì?",
+      "options": [
+        "A. Chỉ cần sử dụng các thiết bị cơ bản như Modem, Router, và Switch",
+        "B. Không cần quan tâm đến bảo mật và khắc phục sự cố",
+        "C. Cần kĩ thuật viên và kĩ sư công nghệ thông tin để duy trì và bảo mật",
+        "D. Chỉ cần thiết lập một kết nối WAN đơn giản"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Thiết kế mạng lớn yêu cầu kĩ thuật viên và kĩ sư công nghệ thông tin để duy trì, bảo mật, khắc phục sự cố và bảo vệ dữ liệu. Điều này là cần thiết để đảm bảo mạng hoạt động ổn định và an toàn."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Bước đầu tiên trong quy trình thiết kế mạng là gì?",
+      "options": [
+        "A. Lập sơ đồ kết nối mạng",
+        "B. Cài đặt cấu hình mạng",
+        "C. Chọn thiết bị cần thiết",
+        "D. Thu thập yêu cầu về mạng"
+      ],
+      "answer": "D",
+      "note": "Đáp án: D Giải thích: Bước đầu tiên trong quy trình thiết kế mạng là thu thập yêu cầu về mạng. Điều này bao gồm việc xác định nhu cầu của tổ chức về hệ thống mạng, số lượng người dùng và thiết bị, cũng như các yêu cầu về khả năng mở rộng và tính linh hoạt."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Thiết bị nào không được sử dụng trong thiết kế mạng nhỏ?",
+      "options": [
+        "A. Modem",
+        "B. Router",
+        "C. Switch",
+        "D. Hệ thống bảo mật nâng cao"
+      ],
+      "answer": "D",
+      "note": "Đáp án: D Giải thích: Trong thiết kế mạng nhỏ, các thiết bị cơ bản như Modem, Router, và Switch thường được sử dụng. Hệ thống bảo mật nâng cao có thể không cần thiết cho mạng nhỏ và thường xuất hiện trong thiết kế mạng lớn hơn."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Thiết bị nào thường kết nối trực tiếp với Switch trong mạng LAN?",
+      "options": [
+        "A. Router",
+        "B. Access Point (AP)",
+        "C. Modem",
+        "D. Máy in"
+      ],
+      "answer": "D",
+      "note": "Đáp án: D Giải thích: Trong mạng LAN, thiết bị đầu cuối như máy in thường kết nối trực tiếp với Switch để truyền dữ liệu trong mạng cục bộ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Khi lập sơ đồ kết nối mạng, thiết bị nào cần phải thông qua Router và Modem để kết nối với Internet?",
+      "options": [
+        "A. Switch",
+        "B. Access Point (AP)",
+        "C. Máy tính",
+        "D. Máy in"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Trong mạng LAN, Switch không kết nối trực tiếp với Internet mà phải thông qua Router và Modem. Router và Modem đảm nhận việc kết nối mạng cục bộ với các mạng khác và Internet."
+    }
+  ]
+}

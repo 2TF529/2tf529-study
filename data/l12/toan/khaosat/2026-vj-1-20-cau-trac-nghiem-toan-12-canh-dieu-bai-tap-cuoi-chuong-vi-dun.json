@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-1-20-cau-trac-nghiem-toan-12-canh-dieu-bai-tap-cuoi-chuong-vi-dun",
+  "sourceId": "vietjack:1-20-cau-trac-nghiem-toan-12-canh-dieu-b",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.20 câu trắc nghiệm Toán 12 Cánh diều Bài tập cuối chương VI (Đúng sai - Trả lời ngắn) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: TRẮC NGHIỆM NHIỀU LỰA CHỌN Cho A, B là các biến cố thỏa mãn \\(P\\left( {\\overline A \\overline B } \\right) = 0,35\\), \\(P\\left( A \\right) = 0,25;P\\left( {B|A} \\right) = 0,8\\). Giá trị của P(B) bằng",
+      "options": [
+        "A. \\(\\frac{1}{5}\\).",
+        "B. \\(\\frac{3}{5}\\).",
+        "C. \\(\\frac{7}{{15}}\\).",
+        "D. \\(\\frac{2}{3}\\)."
+      ],
+      "answer": "B",
+      "note": "Ta có \\(P\\left( {\\overline B |\\overline A } \\right) = \\frac{{P\\left( {\\overline A \\overline B } \\right)}}{{P\\left( {\\overline A } \\right)}} = \\frac{{0,35}}{{0,75}} = \\frac{7}{{15}}\\)\\( \\Rightarrow P\\left( {B|\\overline A } \\right) = 1 - P\\left( {\\overline B |\\overline A } \\right) = 1 - \\frac{7}{{15}} = \\frac{8}{{15}}\\). Khi đó \\(P\\left( B \\right) = P\\left( A \\right).P\\left( {B|A} \\right) + P\\left( {\\overline A } \\right).P\\left( {B|\\overline A } \\right)\\)\\( = 0,25.0,8 + 0,75.\\frac{8}{{15}} = \\frac{3}{5}\\)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Lớp 12A có 30 học sinh, trong đó có 17 bạn nữ còn lại là nam. Có 3 bạn tên Hiền, trong đó có 1 bạn nữ và 2 bạn nam. Thầy giáo gọi ngẫu nhiên 1 bạn lên bảng. Xác suất để có tên Hiền, nhưng với điều kiện bạn đó là nữ là",
+      "options": [
+        "A. \\(\\frac{1}{{17}}\\).",
+        "B. \\(\\frac{3}{{17}}\\).",
+        "C. \\(\\frac{{17}}{{30}}\\).",
+        "D. \\(\\frac{{13}}{{30}}\\)."
+      ],
+      "answer": "A",
+      "note": "Gọi A là biến cố “Bạn được gọi tên Hiền”; B là biến cố “Bạn đó là nữ”. Khi đó \\(P\\left( {A|B} \\right) = \\frac{1}{{17}}\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho hai biến cố A, B với P(B) = 0,6; \\(P\\left( {A|B} \\right) = 0,5\\). Khi đó \\(P\\left( {AB} \\right)\\) bằng",
+      "options": [
+        "A. \\(\\frac{3}{{10}}\\).",
+        "B. \\(\\frac{5}{6}\\).",
+        "C. \\(\\frac{1}{2}\\).",
+        "D. \\(\\frac{3}{5}\\)."
+      ],
+      "answer": "A",
+      "note": "Ta có \\(P\\left( {AB} \\right) = P\\left( B \\right).P\\left( {A|B} \\right) = 0,6.0,5 = \\frac{3}{{10}}\\)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Xác suất của biến cố A với điều kiện B là",
+      "options": [
+        "A. \\(\\frac{9}{{16}}\\).",
+        "B. \\(\\frac{{15}}{{19}}\\).",
+        "C. \\(\\frac{{21}}{{50}}\\).",
+        "D. \\(\\frac{7}{{16}}\\)."
+      ],
+      "answer": "A",
+      "note": "Ta có \\(P\\left( {A|B} \\right) = \\frac{{45}}{{80}} = \\frac{9}{{16}}\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Xác suất của biến cố B với điều kiện A là",
+      "options": [
+        "A. \\(\\frac{9}{{16}}\\).",
+        "B. \\(\\frac{{15}}{{19}}\\).",
+        "C. \\(\\frac{{21}}{{50}}\\).",
+        "D. \\(\\frac{7}{{16}}\\)."
+      ],
+      "answer": "B",
+      "note": "Ta có \\(P\\left( {B|A} \\right) = \\frac{{45}}{{57}} = \\frac{{15}}{{19}}\\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Xác suất xảy ra ít nhất một trong hai biến cố A và B là",
+      "options": [
+        "A. 0,45.",
+        "B. 0,67.",
+        "C. 0,8.",
+        "D. 0,92."
+      ],
+      "answer": "D",
+      "note": "Ta có \\(P\\left( {\\overline A \\overline B } \\right) = \\frac{8}{{100}} = \\frac{2}{{25}}\\). Suy ra xác suất ít nhất một trong hai biến cố A và B là \\(1 - \\frac{2}{{25}} = \\frac{{23}}{{25}} = 0,92\\)."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Một nhà máy có hai phân xưởng I và II. Phần xưởng I sản xuất 40% số sản phẩm và phân xưởng II sản xuất 60% số sản phẩm. Tỉ lệ sản phẩm bị lỗi của phần xưởng I là 2% và của phân xưởng II là 1%. Kiểm tra ngẫu nhiên 1 sản phẩm của nhà máy và xác suất để sản phẩm đó bị lỗi là",
+      "options": [
+        "A. 0,02.",
+        "B. 0,6.",
+        "C. 0,014.",
+        "D. 0,01."
+      ],
+      "answer": "C",
+      "note": "Gọi A là biến cố “Sản phẩm đó do phân xưởng I sản xuất”; B là biến cố “Sản phẩm đó bị lỗi”. Theo đề ta có \\(P\\left( A \\right) = 0,4;P\\left( {\\overline A } \\right) = 0,6;P\\left( {B|A} \\right) = 0,02;P\\left( {B|\\overline A } \\right) = 0,01\\). Xác suất sản phẩm đó bị lỗi là \\(P\\left( B \\right) = P\\left( A \\right).P\\left( {B|A} \\right) + P\\left( {\\overline A } \\right).P\\left( {B|\\overline A } \\right)\\)\\( = 0,4.0,02 + 0,6.0,01 = 0,014\\)."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Kết quả khảo sát tại một xã cho thấy có 25% cư dân hút thuốc lá. Tỉ lệ cư dân thường xuyên gặp các vấn đề sức khỏe về đường hô hấp trong số những người hút thuốc lá và không hút thuốc lá lần lượt là 60% và 25%. Nếu ta gặp một cư dân của xã thường xuyên gặp các vấn đề sức khỏe về đường hô hấp thì xác suất người đó có hút thuốc là là bao nhiêu?",
+      "options": [
+        "A. \\(\\frac{4}{9}\\).",
+        "B. \\(\\frac{5}{9}\\).",
+        "C. \\(\\frac{7}{9}\\).",
+        "D. \\(\\frac{8}{9}\\)."
+      ],
+      "answer": "A",
+      "note": "Gọi A là biến cố “Cư dân đó hút thuốc lá”; B là biến cố “Cư dân đó thường xuyên gặp các vấn đề sức khỏe về đường hô hấp”. Ta có \\(P\\left( A \\right) = 0,25;P\\left( {B|A} \\right) = 0,6;P\\left( {B|\\overline A } \\right) = 0,25\\). Ta có \\(P\\left( B \\right) = P\\left( A \\right).P\\left( {B|A} \\right) + P\\left( {\\overline A } \\right).P\\left( {B|\\overline A } \\right)\\)\\( = 0,25.0,6 + 0,75.0,25 = 0,3375\\). Khi đó \\(P\\left( {A|B} \\right) = \\frac{{P\\left( A \\right).P\\left( {B|A} \\right)}}{{P\\left( B \\right)}} = \\frac{{0,25.0,6}}{{0,3375}} = \\frac{4}{9}\\)."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-10-bai-tap-tinh-xac-suat-co-dieu-kien-co-loi-giai",
+  "sourceId": "vietjack:2-10-bai-tap-tinh-xac-suat-co-dieu-kien-",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.10 bài tập Tính xác suất có điều kiện có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Gieo con xúc xắc 1 lần. Gọi A là biến cố xuất hiện mặt 2 chấm, B là biến cố xuất hiện mặt chẵn. Xác suất P(A|B) là",
+      "options": [
+        "A. \\(\\frac{1}{2}\\);",
+        "B. \\(\\frac{1}{3}\\);",
+        "C. \\(\\frac{2}{3}\\);",
+        "D. \\(\\frac{1}{6}\\)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có \\(P\\left( {A \\cap B} \\right) = \\frac{1}{6};P\\left( B \\right) = \\frac{3}{6}\\). Do đó \\(P\\left( {A|B} \\right) = \\frac{{P\\left( {A \\cap B} \\right)}}{{P\\left( B \\right)}} = \\frac{1}{6}:\\frac{3}{6} = \\frac{1}{3}\\)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hai biến cố A, B với P(A) = 0,6; P(B) = 0,8; P(AB) = 0,5. Xác suất của A với điều kiện B là",
+      "options": [
+        "A. \\(P\\left( {A|B} \\right) = \\frac{5}{6}\\);",
+        "B. \\(P\\left( {A|B} \\right) = \\frac{2}{3}\\);",
+        "C. \\(P\\left( {A\\overline B } \\right) = 0,512\\);",
+        "D. P(A|B) = 0,625."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Ta có \\(P\\left( {A|B} \\right) = \\frac{{P\\left( {AB} \\right)}}{{P\\left( B \\right)}} = \\frac{{0,5}}{{0,8}} = 0,625\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho hai biến cố A, B với P(A) = 0,6; P(B) = 0,8; P(AB) = 0,5. Xác suất để biến cố A xảy ra với điều kiện B không xảy ra là",
+      "options": [
+        "A. \\(P\\left( {A|\\overline B } \\right) = 0,4\\);",
+        "B. \\(P\\left( {A|\\overline B } \\right) = 0,6\\);",
+        "C. \\(P\\left( {A|\\overline B } \\right) = 0,5\\);",
+        "D. \\(P\\left( {A|\\overline B } \\right) = 0,3\\)."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có \\(P\\left( {A|\\overline B } \\right) = \\frac{{P\\left( {A\\overline B } \\right)}}{{P\\left( {\\overline B } \\right)}} = \\frac{{P\\left( A \\right) - P\\left( {AB} \\right)}}{{1 - P\\left( B \\right)}} = \\frac{{0,6 - 0,5}}{{1 - 0,8}} = \\frac{{0,1}}{{0,2}} = 0,5\\)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hai biến cố A và B, với P(A) = 0,8; P(B) = 0,5; \\(P\\left( {A \\cap \\overline B } \\right) = 0,55\\). Tính P(A|B).",
+      "options": [
+        "A. 0,5;",
+        "B. 0,1;",
+        "C. 0,35;",
+        "D. 0,15."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có P(A) = P(AB) + P(\\(A\\overline B \\)) \\(P\\left( {AB} \\right) = 0,8 - 0,55 = 0,25\\). Khi đó \\(P\\left( {A|B} \\right) = \\frac{{P\\left( {AB} \\right)}}{{P\\left( B \\right)}} = \\frac{{0,25}}{{0,5}} = 0,5\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Một thư viện có hai phòng riêng biệt, phòng A và phòng B. Xác suất chọn một quyển sách về chủ đề Khoa học tự nhiên thuộc phòng A và thuộc phòng B lần lượt là 0,25 và 0,5. Chọn ngẫu nhiên 1 quyển sách của thư viện. Giả sử quyển sách được chọn về chủ đề Khoa học tự nhiên, xác suất quyển sách đó ở phòng A là:",
+      "options": [
+        "A. \\(\\frac{1}{2}\\);",
+        "B. \\(\\frac{1}{3}\\);",
+        "C. \\(\\frac{2}{3}\\);",
+        "D. \\(\\frac{1}{4}\\)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Xét các biến cố: M: “Quyển sách được chọn ở phòng A”; N: “Quyển sách được chọn về chủ đề Khoa học tự nhiên”; Q: “Quyển sách được chọn về chủ đề Khoa học tự nhiên và thuộc phòng A”; R: “Quyển sách được chọn về chủ đề Khoa học tự nhiên và thuộc phòng B’. Nhận thấy N = Q R và Q, R là hai biến cố xung khắc nên P(N) = P(Q) + P(R) = 0,25 + 0,5 = 0,75. Ta có \\(P\\left( {M|N} \\right) = \\frac{{P\\left( {M \\cap N} \\right)}}{{P\\left( N \\right)}} = \\frac{{0,25}}{{0,75}} = \\frac{1}{3}\\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Một hộp chứa 4 viên bi xanh, 3 viên bi đỏ và 1 viên bi vàng. Các viên bi có cùng kích thước và khối lượng. Bạn Hà lấy ra ngẫu nhiên 1 viên bi từ hộp. Xác suất viên bi lấy ra không có màu vàng, biết rằng nó không có màu đỏ là",
+      "options": [
+        "A. \\(\\frac{1}{2}\\);",
+        "B. \\(\\frac{5}{8}\\);",
+        "C. \\(\\frac{7}{8}\\);",
+        "D. \\(\\frac{4}{5}\\)."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Gọi V là biến cố “Viên bi lấy ra có màu vàng”, D là biến cố “Viên bi lấy ra có màu đỏ”, X là biến cố “Viên bi lấy ra có màu xanh”. Ta có \\(P\\left( {\\overline V |\\overline D } \\right) = \\frac{{P\\left( X \\right)}}{{P\\left( {\\overline D } \\right)}} = \\frac{4}{5}\\)."
+    }
+  ]
+}

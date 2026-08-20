@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-4-10-bai-tap-cach-tinh-tich-vo-huong-cua-hai-vecto-co-loi-giai",
+  "sourceId": "vietjack:4-10-bai-tap-cach-tinh-tich-vo-huong-cua",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "4.10 Bài tập Cách tính tích vô hướng của hai vectơ (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho hình vuông ABCD tâm O cạnh a. Tính tích vô hướng O A → . O D → .",
+      "options": [
+        "A. 0;",
+        "B. 2a;",
+        "C. a 2 ;",
+        "D. 2a 2 ."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A. Do ABCD là hình vuông nên BD vuông góc với AC tại O. Suy ra O A ⊥ O D ⇔ O A → ⊥ O D → ⇔ O A → . O D → = 0 ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hình vuông ABCD tâm O cạnh a. Tính tích vô hướng A C → . B D → .",
+      "options": [
+        "A. a;",
+        "B. 0;",
+        "C. a 2 ;",
+        "D. 2a 2 ."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải: Đáp án đúng là: B. Do ABCD là hình vuông nên BD vuông góc với AC ⇒ A C → . B D → = 0 ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho hình chữ nhật ABCD tâm O có: AD = a, AB = 2a. Tính A B → . A O → = ?",
+      "options": [
+        "A. a;",
+        "B. 0;",
+        "C. a 2 ;",
+        "D. 2a 2 ."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải: Đáp án đúng là: D. Do ABCD là hình chữ nhật nên ta có: BC = AD = a, AB = CD = 2a Xét tam giác ABC vuông tại B Áp dụng định lí Pythagore ta có: AC 2 = AB 2 + BC 2 = (2a) 2 + a 2 = 5a 2 ⇔ AC = a 5 ⇒ A O = 1 2 A C = 1 2 . a 5 = a 5 2 Ta có: A B → , A O → = B A O ^ = B A C ^ Suy ra cos B A O ^ = cos B A C ^ = A B A C = 2 a a 5 = 2 5 A B → = A B = 2 a A O → = A O = a 5 2 Ta có: A B → . A O → = A B → . A O → cos B A O ^ = 2 a . a 5 2 . 2 5 = 2 a 2 ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho tam giác ABC đều cạnh a. Tính A B → . A C → .",
+      "options": [
+        "A. a;",
+        "B. 0;",
+        "C. a 2 ;",
+        "D. 1 2 a 2 ."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải: Đáp án đúng là: D. Do tam giác ABC đều nên: AB = AC = a ⇒ A B → = A C → = a A B → , A C → = B A C ^ = 60 ° ⇒ cos B A C ^ = 1 2 Ta có: A B → . A C → = A B → . A C → . cos B A C ^ = a . a . 1 2 = 1 2 a 2 ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho tam giác ABC đều cạnh a, đường cao AH. Tính tích vô hướng A H → . A C → .",
+      "options": [
+        "A. 3 2 a 2 ;",
+        "B. 3a 2 ;",
+        "C. 3 4 a 2 ;",
+        "D. a 2 ."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải: Đáp án đúng là: C. Do tam giác ABC đều nên: AH vừa là đường cao vừa là trung tuyến ⇒ B H = C H = B C 2 = a 2 Xét tam giác AHC vuông tại H Áp dụng định lí Pythagore có: AH 2 + CH 2 = AC 2 ⇔ AH 2 = AC 2 – CH 2 = a 2 − a 2 2 = 3 a 2 4 ⇔ A H = a 3 2 A H → , A C → = H A C ^ ; cos H A C ^ = A H A C = a 3 2 a = 3 2 Ta có: A H → . A C → = A H → . A C → . cos H A C = a 3 2 . a . 3 2 = 3 4 a 2 ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho tam giác ABC đều cạnh a, đường cao AH. Tính vô hướng giữa hai vectơ B A → và H C → bằng",
+      "options": [
+        "A. a 2 2",
+        "B. a 2 ;",
+        "C. a 2 4",
+        "D. 2a 2 ."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải: Đáp án đúng là: C. Do tam giác ABC đều nên: AH vừa là đường cao vừa là trung tuyến ⇒ B H = C H = B C 2 = a 2 Ta có: B H → = H C → ⇒ B A → , H C → = B A → , B H → = A B H ^ = 60 ° ⇒ c o s A B H ^ = 1 2 B A → = A B = a ; H C → = H C = a 2 Vậy B A → . H C → = B A → . H C → . cos A B H ^ = a . a 2 . 1 2 = a 2 4 ."
+    }
+  ]
+}

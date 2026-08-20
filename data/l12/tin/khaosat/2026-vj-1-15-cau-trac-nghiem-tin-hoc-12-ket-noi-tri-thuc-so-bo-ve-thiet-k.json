@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-12-ket-noi-tri-thuc-so-bo-ve-thiet-k",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-12-ket-noi-",
+  "grade": "l12",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 12 Kết nối tri thức Sơ bộ về thiết kế mạng có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Câu 1: Các yếu tố ảnh hưởng đến thiết kế mạng không bao gồm yếu tố nào sau đây?",
+      "options": [
+        "A. Mục đích xây dựng mạng",
+        "B. Quy mô địa lý và vị trí thiết bị",
+        "C. Kinh phí đầu tư",
+        "D. Mỹ thuật"
+      ],
+      "answer": "D",
+      "note": "Đáp án: D Giải thích: Mỹ thuật không phải là yếu tố chính trong thiết kế mạng; nó chỉ là vấn đề thứ yếu so với các yếu tố như mục đích, quy mô, và kinh phí đầu tư."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Bước nào sau đây không phải là một phần của quy trình thiết kế mạng?",
+      "options": [
+        "A. Khảo sát và phân tích",
+        "B. Thiết kế logic",
+        "C. Thiết kế kỹ thuật",
+        "D. Lựa chọn phần mềm ứng dụng"
+      ],
+      "answer": "D",
+      "note": "Đáp án: D Giải thích: Quy trình thiết kế mạng gồm khảo sát và phân tích, thiết kế logic, thiết kế kỹ thuật, và lựa chọn hệ điều hành mạng. Lựa chọn phần mềm ứng dụng không thuộc quy trình thiết kế mạng."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Mô hình nào sau đây cho phép quản lý tập trung và yêu cầu một máy chủ kiểm soát miền?",
+      "options": [
+        "A. Workgroup",
+        "B. Domain",
+        "C. Bus Topology",
+        "D. Ring Topology"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Mô hình Domain quản lý tài nguyên và người dùng bởi một máy chủ kiểm soát miền (Domain Controller), cho phép quản lý tập trung và phức tạp hơn."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cấu trúc kết nối nào sau đây ít được sử dụng hiện nay để kết nối trực tiếp các máy tính?",
+      "options": [
+        "A. Bus Topology",
+        "B. Star Topology",
+        "C. Ring Topology",
+        "D. Hierarchical Topology"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Cấu trúc Bus Topology ít được sử dụng hiện nay để kết nối trực tiếp các máy tính, mà thường được sử dụng để kết nối giữa các tòa nhà hoặc tầng."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Mục đích chính của việc phân đoạn mạng là gì?",
+      "options": [
+        "A. Giảm chi phí thiết bị",
+        "B. Tăng số lượng máy tính",
+        "C. Giảm xung đột tín hiệu",
+        "D. Tăng tốc độ truyền tín hiệu"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Phân đoạn mạng giúp giảm xung đột tín hiệu bằng cách chia mạng thành các phân đoạn nhỏ hơn, làm tăng hiệu quả truyền dữ liệu và bảo vệ dữ liệu."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Quy tắc \"5-4-3\" trong thiết kế mạng liên quan đến số lượng phân đoạn mạng, repeater và máy tính là gì?",
+      "options": [
+        "A. Không quá 5 máy tính, 4 repeater, 3 phân đoạn mạng",
+        "B. Không quá 5 phân đoạn mạng, 4 repeater, 3 phân đoạn có máy tính",
+        "C. Không quá 4 phân đoạn mạng, 3 repeater, 5 máy tính",
+        "D. Không quá 5 repeater, 3 phân đoạn mạng, 4 máy tính"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Quy tắc \"5-4-3\" yêu cầu không quá 5 phân đoạn mạng trong cùng một vùng xung đột, không quá 4 repeater trong cùng một đường truyền, và không quá 3 phân đoạn có máy tính."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-4-10-bai-tap-xac-dinh-goc-giua-hai-vecto-va-tinh-tich-vo-huong-cu",
+  "sourceId": "vietjack:4-10-bai-tap-xac-dinh-goc-giua-hai-vecto",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "4.10 bài tập Xác định góc giữa hai vectơ và tính tích vô hướng của hai vectơ có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho khối lập phương ABCD.A'B'C'D'. Khi đó, góc giữa vectơ \\(\\overrightarrow {AB} \\) và vectơ \\(\\overrightarrow {AD} \\)là:",
+      "options": [
+        "A. 90°;",
+        "B. 60°;",
+        "C. 45°;",
+        "D. 30°."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có \\(\\left( {\\overrightarrow {AB} ,\\overrightarrow {AD} } \\right) = \\widehat {DAB}\\). Dễ thấy \\(AB \\bot AD \\Rightarrow \\widehat {DAB} = 90^\\circ \\). Vậy \\(\\left( {\\overrightarrow {AB} ,\\overrightarrow {AD} } \\right) = 90^\\circ \\)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho lăng trụ đứng ABC.A'B'C'. Đáy là tam giác ABC vuông tại B. Khi đó góc giữa vectơ \\(\\overrightarrow {BA} \\) và vectơ \\[\\overrightarrow {B'C'} \\] bằng bao nhiêu?",
+      "options": [
+        "A. 45°;",
+        "B. 120°;",
+        "C. 90°;",
+        "D. 30°."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có \\(\\overrightarrow {B'C'} = \\overrightarrow {BC} \\). Do đó \\(\\left( {\\overrightarrow {BA} ,\\overrightarrow {B'C'} } \\right) = \\left( {\\overrightarrow {BA} ,\\overrightarrow {BC} } \\right) = \\widehat {ABC}\\). Mà tam giác ABC vuông tại B. Nên \\(\\widehat {ABC} = 90^\\circ \\Rightarrow \\left( {\\overrightarrow {BA} ,\\overrightarrow {B'C'} } \\right) = 90^\\circ \\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho hai vectơ \\(\\overrightarrow u ,\\overrightarrow v \\) có \\(\\left| {\\overrightarrow u } \\right| = 3,\\left| {\\overrightarrow v } \\right| = 4\\) và góc giữa hai vectơ \\(\\overrightarrow u ,\\overrightarrow v \\) bằng 60°. Tích vô hướng \\(\\overrightarrow u .\\overrightarrow v \\) bằng",
+      "options": [
+        "A. 12;",
+        "B. 6;",
+        "C. −12;",
+        "D. −6."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B \\(\\overrightarrow u .\\overrightarrow v = \\left| {\\overrightarrow u } \\right|.\\left| {\\overrightarrow v } \\right|.\\cos \\left( {\\overrightarrow u ,\\overrightarrow v } \\right) = 3.4.\\cos 60^\\circ = 6\\)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hình chóp S.ABC có AB = 4; \\(\\widehat {BAC} = 60^\\circ ;\\overrightarrow {AB} .\\overrightarrow {AC} = 6\\). Khi đó độ dài \\(\\overrightarrow {AC} \\) là",
+      "options": [
+        "A. 3;",
+        "B. 6;",
+        "C. 4;",
+        "D. −12."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có \\(\\overrightarrow {AB} .\\overrightarrow {AC} = \\left| {\\overrightarrow {AB} } \\right|.\\left| {\\overrightarrow {AC} } \\right|.\\cos \\widehat {BAC}\\)\\( \\Leftrightarrow 6 = 4.\\left| {\\overrightarrow {AC} } \\right|.\\cos 60^\\circ \\)\\( \\Leftrightarrow \\left| {\\overrightarrow {AC} } \\right| = 3\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hình lập phương ABCD.A'B'C'D'. Khẳng định nào sau đây là sai?",
+      "options": [
+        "A. \\(\\left( {\\overrightarrow {AB} ,\\overrightarrow {A'D'} } \\right) = 90^\\circ \\);",
+        "B. \\(\\left( {\\overrightarrow {AB} ,\\overrightarrow {A'C'} } \\right) = 45^\\circ \\);",
+        "C. \\(\\left( {\\overrightarrow {AC} ,\\overrightarrow {B'D'} } \\right) = 90^\\circ \\);",
+        "D. \\(\\left( {\\overrightarrow {A'A} ,\\overrightarrow {CB'} } \\right) = 45^\\circ \\)."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Ta có \\(\\left( {\\overrightarrow {AB} ,\\overrightarrow {A'D'} } \\right) = \\left( {\\overrightarrow {AB} ,\\overrightarrow {AD} } \\right) = 90^\\circ \\). \\(\\left( {\\overrightarrow {AB} ,\\overrightarrow {A'C'} } \\right) = \\left( {\\overrightarrow {AB} ,\\overrightarrow {AC} } \\right) = 45^\\circ \\). \\(\\left( {\\overrightarrow {AC} ,\\overrightarrow {B'D'} } \\right) = \\left( {\\overrightarrow {AC} ,\\overrightarrow {BD} } \\right) = 90^\\circ \\). \\(\\left( {\\overrightarrow {A'A} ,\\overrightarrow {CB'} } \\right) = \\left( {\\overrightarrow {C'C} ,\\overrightarrow {CB'} } \\right) = \\left( {\\overrightarrow {CE} ,\\overrightarrow {CB'} } \\right) = 135^\\circ \\) trong đó E là điểm đối xứng với C' qua C."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho tứ diện đều ABCD có cạnh bằng a. Tính góc \\(\\left( {\\overrightarrow {AB} ,\\overrightarrow {CD} } \\right)\\).",
+      "options": [
+        "A. \\(\\left( {\\overrightarrow {AB} ,\\overrightarrow {CD} } \\right) = 60^\\circ \\);",
+        "B. \\(\\left( {\\overrightarrow {AB} ,\\overrightarrow {CD} } \\right) = 90^\\circ \\);",
+        "C. \\(\\left( {\\overrightarrow {AB} ,\\overrightarrow {CD} } \\right) = 120^\\circ \\);",
+        "D. \\(\\left( {\\overrightarrow {AB} ,\\overrightarrow {CD} } \\right) = 180^\\circ \\)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Gọi M là trung điểm CD. Ta có \\(\\overrightarrow {AB} .\\overrightarrow {CD} = \\left( {\\overrightarrow {AM} + \\overrightarrow {MB} } \\right).\\overrightarrow {CD} = \\overrightarrow {AM} .\\overrightarrow {CD} + \\overrightarrow {MB} .\\overrightarrow {CD} \\). Do tam giác ACD đều nên \\(AM \\bot CD \\Rightarrow \\overrightarrow {AM} .\\overrightarrow {CD} = 0\\). Và tam giác BCD đều nên BM CD \\( \\Rightarrow \\overrightarrow {BM} .\\overrightarrow {CD} = 0\\). Vậy \\(\\overrightarrow {AB} .\\overrightarrow {CD} = \\left( {\\overrightarrow {AM} + \\overrightarrow {MB} } \\right).\\overrightarrow {CD} = \\overrightarrow {AM} .\\overrightarrow {CD} + \\overrightarrow {MB} .\\overrightarrow {CD} = 0 \\Rightarrow \\overrightarrow {AB} \\bot \\overrightarrow {CD} \\). Do đó \\(\\left( {\\overrightarrow {AB} ,\\overrightarrow {CD} } \\right) = 90^\\circ \\)."
+    }
+  ]
+}

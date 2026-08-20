@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-trac-nghiem-tong-va-hieu-cua-hai-vecto-lop-10-co-dap-an",
+  "sourceId": "vietjack:1-trac-nghiem-tong-va-hieu-cua-hai-vecto",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.Trắc nghiệm Tổng và hiệu của hai vectơ lớp 10 (có đáp án)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Quy tắc ba điểm được phát biểu:",
+      "options": [
+        "A. Với ba điểm bất kì A, B, C ta có \\(\\overrightarrow {AB} + \\overrightarrow {AC} = \\overrightarrow {BC} \\) ;",
+        "B. Với ba điểm bất kì A, B, C ta có \\(\\overrightarrow {AB} + \\overrightarrow {CB} = \\overrightarrow {AC} \\) ;",
+        "C. Với ba điểm bất kì A, B, C ta có \\(\\overrightarrow {AB} + \\overrightarrow {CA} = \\overrightarrow {BC} \\) ;",
+        "D. Với ba điểm bất kì A, B, C ta có \\(\\overrightarrow {AB} + \\overrightarrow {BC} = \\overrightarrow {AC} \\) ."
+      ],
+      "answer": "D",
+      "note": "Đáp án D Quy tắc ba điểm được phát biểu như sau: Với ba điểm bất kì A, B, C ta có \\(\\overrightarrow {AB} + \\overrightarrow {BC} = \\overrightarrow {AC} \\) ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho tam giác ABC có I là trung điểm cạnh AB và G là trọng tâm tam giác ABC. Đẳng thức nào sau đây sai:",
+      "options": [
+        "A. \\(\\overrightarrow {IA} + \\overrightarrow {IB} = \\overrightarrow {AB} \\) ;",
+        "B. \\(\\overrightarrow {GA} + \\overrightarrow {GB} + \\overrightarrow {GC} = \\overrightarrow 0 \\) ;",
+        "C. \\(\\overrightarrow {IA} = - \\overrightarrow {IB} \\) ;",
+        "D. \\(\\overrightarrow {BA} + \\overrightarrow {AC} = \\overrightarrow {BC} \\) ."
+      ],
+      "answer": "A",
+      "note": "Đáp án A Xét tam giác ABC, có: \\(\\overrightarrow {BA} + \\overrightarrow {AC} = \\overrightarrow {BC} \\) (quy tắc ba điểm). Do đó D đúng. Vì G là trọng tâm tam giác nên \\(\\overrightarrow {GA} + \\overrightarrow {GB} + \\overrightarrow {GC} = \\overrightarrow 0 \\) . Do đó B đúng. Ta có I là trung điểm của AB nên \\(\\overrightarrow {IA} + \\overrightarrow {IB} = \\overrightarrow 0 \\) hay \\(\\overrightarrow {IA} = - \\overrightarrow {IB} \\) . Do đó A sai và C đúng."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho tam giác ABC vuông cân tại A, đường cao AH và BC = 10cm. Tính độ dài vectơ \\(\\overrightarrow {AB} + \\overrightarrow {AC} \\) .",
+      "options": [
+        "A. 5cm;",
+        "B. 10dm;",
+        "C. 10cm;",
+        "D. 15cm."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là C Xét tam giác ABC vuông cân tại A có AH là đường cao nên AH là đường trung tuyến suy ra H là trung điểm của BC. Gọi D là điểm đối xứng với A qua H. Xét tứ giác ABDC có AD cắt BC tại H là trung điểm của mỗi đường. Do đó ABDC là hình bình hành. ⇒ \\(\\overrightarrow {AB} + \\overrightarrow {AC} = \\overrightarrow {AD} \\) (quy tắc hình bình hành) ⇒ \\(\\left| {\\overrightarrow {AB} + \\overrightarrow {AC} } \\right| = \\left| {\\overrightarrow {AD} } \\right|\\) Ta lại có hình bình hành ABDC có \\(\\widehat {BAC} = {90^0}\\) nên ABDC là hình chữ nhật do đó AD = BC =10 cm. ⇒ \\(\\left| {\\overrightarrow {AB} + \\overrightarrow {AC} } \\right| = \\left| {\\overrightarrow {AD} } \\right| = AD = BC = 10cm\\) . Vậy độ dài \\(\\overrightarrow {AB} + \\overrightarrow {AC} \\) là 10 cm."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Vectơ đối của vectơ - không là:",
+      "options": [
+        "A. Mọi vectơ khác vectơ - không;",
+        "B. Không có vectơ nào ;",
+        "C. Chính nó;",
+        "D. Mọi vectơ kể cả vectơ – không."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là C Vectơ \\(\\overrightarrow 0 \\) được coi là vectơ đối của chính nó."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hình bình hành ABCD có một điểm O bất kì. Đẳng thức nào sau đây đúng?",
+      "options": [
+        "A. \\(\\overrightarrow {OA} - \\overrightarrow {OB} = \\overrightarrow {OC} - \\overrightarrow {OD} \\) ;",
+        "B. \\(\\overrightarrow {OB} - \\overrightarrow {OA} = \\overrightarrow {OC} - \\overrightarrow {OD} \\) ;",
+        "C. \\(\\overrightarrow {OA} - \\overrightarrow {OD} = \\overrightarrow {OC} - \\overrightarrow {OB} \\) ;",
+        "D. \\(\\overrightarrow {OA} - \\overrightarrow {OC} = \\overrightarrow {OD} - \\overrightarrow {OB} \\) ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là B +) Áp dụng quy tắc hiệu ta có: \\(\\overrightarrow {OA} - \\overrightarrow {OB} = \\overrightarrow {BA} \\) và \\(\\overrightarrow {OC} - \\overrightarrow {OD} = \\overrightarrow {DC} \\) : \\(\\overrightarrow {OB} - \\overrightarrow {OA} = \\overrightarrow {AB} \\) và \\(\\overrightarrow {OC} - \\overrightarrow {OD} = \\overrightarrow {DC} \\) ; Vì ABCD là hình bình hành nên AB = CD và AB // CD khi đó \\(\\overrightarrow {AB} = \\overrightarrow {DC} \\) . Suy ra \\(\\overrightarrow {OA} - \\overrightarrow {OB} \\ne \\overrightarrow {OC} - \\overrightarrow {OD} \\) và \\(\\overrightarrow {OB} - \\overrightarrow {OA} = \\overrightarrow {OC} - \\overrightarrow {OD} \\) . Do đó B đúng, A sai. +) Áp dụng quy tắc hiệu ta có: \\(\\overrightarrow {OA} - \\overrightarrow {OD} = \\overrightarrow {DA} \\) và \\(\\overrightarrow {OC} - \\overrightarrow {OB} = \\overrightarrow {BC} \\) : Vì ABCD là hình bình hành nên AD = CB và AD // CB khi đó \\(\\overrightarrow {DA} = \\overrightarrow {CB} \\) . Suy ra \\(\\overrightarrow {OA} - \\overrightarrow {OD} \\ne \\overrightarrow {OC} - \\overrightarrow {OB} \\) . Do đó C sai. +) Áp dụng quy tắc hiệu ta có: \\(\\overrightarrow {OA} - \\overrightarrow {OC} = \\overrightarrow {CA} \\) và \\(\\overrightarrow {OD} - \\overrightarrow {OB} = \\overrightarrow {BD} \\) : Vì hai vectơ \\(\\overrightarrow {CA} \\) và \\(\\overrightarrow {BD} \\) không cùng phương nên không bằng nhau. Suy ra \\(\\overrightarrow {OA} - \\overrightarrow {OC} \\ne \\overrightarrow {OD} - \\overrightarrow {OB} \\) . Do đó D sai."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho hình thoi ABCD có độ dài cạnh bằng 2 dm và \\(\\widehat {BAD} = 100^\\circ \\) . Tính độ dài vectơ \\(\\overrightarrow {DA} + \\overrightarrow {DC} \\) .",
+      "options": [
+        "A. 9,39 dm;",
+        "B. 3,06 dm;",
+        "C. 7,31 dm;",
+        "D. 2,70 dm."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là B Vì ABCD là hình thoi nên ABCD là hình bình hành khi đó: \\(\\overrightarrow {DA} + \\overrightarrow {DC} = \\overrightarrow {DB} \\) (quy tắc hình bình hành) Xét tam giác ABD có: BD 2 = AB 2 + AD 2 – 2.AB.AD.cos \\(\\widehat {BAD}\\) ⇔ BD 2 = 2 2 + 2 2 – 2.2.2.cos100° ⇔ BD 2 = 2 2 + 2 2 – 2.2.2.cos100° ⇔ BD 2 ≈ 9,39 ⇔ BD ≈ 3,06 dm ⇒ \\(\\left| {\\overrightarrow {DA} + \\overrightarrow {DC} } \\right| = \\left| {\\overrightarrow {DB} } \\right| = 3,06\\,\\,dm.\\) Vậy độ dài vectơ \\(\\overrightarrow {DA} + \\overrightarrow {DC} \\) là 3,06 dm."
+    }
+  ]
+}

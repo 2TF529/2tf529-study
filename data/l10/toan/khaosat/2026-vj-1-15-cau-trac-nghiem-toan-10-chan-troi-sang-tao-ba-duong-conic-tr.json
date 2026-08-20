@@ -1,0 +1,78 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-toan-10-chan-troi-sang-tao-ba-duong-conic-tr",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-toan-10-chan-troi-s",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu  Trắc nghiệm Toán 10 chân trời sáng tạo Ba đường conic trong mặt phẳng tọa độ có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho elip (E): x 2 25 + y 2 9 = 1 . Trong các khẳng định sau, khẳng định nào sai ?",
+      "options": [
+        "A. (E) có các tiêu điểm F 1 (–4; 0) và F 2 (4; 0);",
+        "B. (E) có tỉ số c a = 4 5 ;",
+        "C. (E) có đỉnh A 1 (–5; 0);",
+        "D. (E) có độ dài trục nhỏ bằng 3."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D • Phương trình elip (E) có dạng: x 2 a 2 + y 2 b 2 = 1 , với a 2 = 25, b 2 = 9. Ta suy ra a = 5, b = 3 (vì a, b > 0). Ta có b = a 2 − c 2 ⇔ b 2 = a 2 – c 2 ⇔ c 2 = a 2 – b 2 = 25 – 9 = 16. ⇔ c = 4. Vậy các tiêu điểm của elip (E) là: F 1 (–4; 0), F 2 (4; 0). Do đó phương án A đúng. • Ta có tỉ số c a = 4 5 Do đó phương án B đúng. • Đỉnh A 1 (–a; 0). Suy ra A 1 (–5; 0). Do đó phương án C đúng. • Độ dài trục nhỏ là 2b = 2.3 = 6 ≠ 3. Do đó phương án D sai. Vậy ta chọn phương án D."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hypebol (H): 4x 2 – y 2 = 1. Khẳng định nào sau đây đúng ?",
+      "options": [
+        "A. Hypebol có tiêu cự bằng 5 2 ;",
+        "B. Hypebol có một tiêu điểm là F ( 5 ; 0 ) ;",
+        "C. Hypebol có trục thực bằng 1;",
+        "D. Hypebol có trục ảo bằng 1/2"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có 4x 2 – y 2 = 1. Suy ra x 2 1 4 − y 2 1 = 1 Hay x 2 ( 1 2 ) 2 − y 2 1 2 = 1 Khi đó ta có a = 1/2 , b = 1 . • Ta có b = c 2 − a 2 Suy ra c = b 2 + a 2 = 1 + 1 4 = 5 2 Vậy hypebol (H) có tiêu cự là 2c = 5 ≠ 5 2 Do đó phương án A sai. • Ta có c = 5 2 Suy ra hai tiêu điểm của (H) là F 1 ( − 5 2 ; 0 ) , F 2 ( 5 2 ; 0 ) Do đó phương án B sai. • Ta có trục thực là: A 1 A 2 = 2a = 2 .1/2 = 1 . Do đó phương án C đúng . • Ta có trục ảo là: 2b = 2.1 = 2 ≠ 1/2 . Do đó phương án D sai . Vậy ta chọn phương án C ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho parabol (P): y 2 = 16x. Khẳng định nào sau đây sai ?",
+      "options": [
+        "A. (P) có tiêu điểm F(4; 0);",
+        "B. (P) có tọa độ đỉnh O(0; 0);",
+        "C. Phương trình đường chuẩn ∆: x = 4;",
+        "D. (P) nhận Ox làm trục đối xứng."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C • Ta có (P): y 2 = 16x nên 2p = 16. Suy ra p = 8. Do đó p 2 = 8 2 = 4 Vì vậy (P) có tiêu điểm F(4; 0). Do đó phương án A đúng. • Ta có O(0; 0) là đỉnh của parabol (P) và Ox là trục đối xứng của parabol (P). Do đó phương án B, D đúng. Đến đây ta có thể chọn đáp án C. • Phương trình đường chuẩn ∆ có dạng: x = − p 2 = − 4 . Do đó phương án C sai. Vậy ta chọn phương án C."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Elip có tỉ số giữa độ dài trục nhỏ và tiêu cự bằng 2 , tổng bình phương độ dài trục lớn và tiêu cự bằng 64. Phương trình chính tắc của elip là:",
+      "options": [
+        "A. x 2 12 + y 2 8 = 1",
+        "B. x 2 8 + y 2 12 = 1",
+        "C. x 2 12 + y 2 4 = 1",
+        "D. x 2 8 + y 2 4 = 1"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có tỉ số giữa độ dài trục nhỏ và tiêu cự bằng 2 . Suy ra 2 b 2 c = 2 ⇔ b = c 2 ⇔ a 2 − c 2 = c 2 ⇔ a 2 – c 2 = 2c 2 ⇔ a 2 = 3c 2 . Lại có tổng bình phương độ dài trục lớn và tiêu cự bằng 64. Ta suy ra (2a) 2 + (2c) 2 = 64. ⇔ 4a 2 + 4c 2 = 64. ⇔ a 2 + c 2 = 16. ⇔ 3c 2 + c 2 = 16. ⇔ 4c 2 = 16. ⇔ c 2 = 4. ⇔ c = 2 (vì c > 0). Với c = 2, ta có : • a 2 = 3c 2 = 3.2 2 = 12. • b = c 2 = 2 2 Suy ra b 2 = 8. Vậy phương trình elip cần tìm là: x 2 12 + y 2 8 = 1 Do đó ta chọn phương án A."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong các phương trình sau, phương trình nào là phương trình chính tắc của đường parabol?",
+      "options": [
+        "A. x 2 8 + y 2 24 = 1",
+        "B. y 2 = 2x;",
+        "C. x 2 64 − y 2 49 = 1",
+        "D. x 2 = 21y."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Phương trình parabol có dạng: y 2 = 2px. Ta thấy chỉ có phương trình của đáp án B có dạng phương trình parabol trên. Vậy ta chọn phương án B."
+    }
+  ]
+}

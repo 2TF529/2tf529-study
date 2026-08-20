@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-toan-10-canh-dieu-to-hop-co-dap-an",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-toan-10-canh-dieu-t",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Toán 10 Cánh Diều Tổ hợp có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Tên 15 quả bóng khác nhau để vào trong hộp. Có bao nhiêu cách chọn ra 4 quả bóng.",
+      "options": [
+        "A. 4!;",
+        "B. 15!;",
+        "C. 1 365;",
+        "D. 32 760."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là: C Mỗi cách chọn ra 4 quả bóng trong 15 quả bóng là một tổ hợp chập 4 của 15 phần tử. Vậy số cách chọn ra 4 quả bóng là: \\(C_{15}^4\\) = 1 365 (cách)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Số tập con gồm ba phần tử khác nhau của một tập hợp gồm bảy phần tử khác nhau?",
+      "options": [
+        "A. \\[\\frac{{7!}}{{3!}}\\] ;",
+        "B. \\(C_7^3\\) ;",
+        "C. \\(A_7^3\\) ;",
+        "D. 7."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải Đáp án đúng là: B Mỗi tập con gồm ba phần tử khác nhau của một tập hợp gồm bảy phần tử khác nhau là một tổ hợp chập 3 của 7. Số tập con gồm ba phần tử khác nhau của một tập hợp gồm bảy phần tử khác nhau là \\(C_7^3\\) ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Từ 6 điểm phân biệt thuộc đường thẳng ∆ và một điểm không thuộc đường thẳng ∆ ta có thể tạo được tất cả bao nhiêu tam giác?",
+      "options": [
+        "A. 210;",
+        "B. 30;",
+        "C. 15;",
+        "D. 35;"
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là: C Ta lấy 2 điểm trong 6 điểm trên đường thẳng ∆ kết hợp với 1 điểm không thuộc ∆ tạo ra một tam giác, có \\(C_6^2 = 15\\) cách lấy ra 2 điểm thuộc ∆ Vậy số tam giác được lập theo yêu cầu bài toán là: 15 tam giác."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Nếu \\[C_n^k = 10\\] và \\[A_n^k = 60\\] . Thì k bằng",
+      "options": [
+        "A. 3;",
+        "B. 5;",
+        "C. 6;",
+        "D. 10."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải. Đáp án đúng là: C Ta có \\[C_n^k = 10 \\Leftrightarrow \\frac{{n!}}{{(n - k)!k!}} = 10\\] , \\[A_n^k = 60 \\Leftrightarrow \\frac{{n!}}{{(n - k)!}} = 60\\] Vậy \\(\\frac{{A_n^k}}{{C_n^k}} = 6\\) \\[ \\Leftrightarrow \\frac{{\\frac{{n!}}{{(n - k)!}}}}{{\\frac{{n!}}{{k!(n - k)!}}}} = 6\\] Suy ra k! = 6 ⇒ k = 3."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Có bao nhiêu giá trị nguyên dương của n thỏa mãn \\[A_n^2 - 3C_n^2 = 15 - 5n\\]",
+      "options": [
+        "A. 0;",
+        "B. 1;",
+        "C. 2;",
+        "D. 3."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là: C Điều kiện n ≥ 2; n \\( \\in \\) ℕ. \\[A_n^2 - 3C_n^2 = 15 - 5n\\] \\( \\Leftrightarrow \\frac{{n!}}{{\\left( {n - 2} \\right)!}} - 3.\\frac{{n!}}{{\\left( {n - 2} \\right)!2!}} = 15 - 5n\\) \\( \\Leftrightarrow \\left( {n - 1} \\right)n - \\frac{{3\\left( {n - 1} \\right)n}}{2} = 15 - 5n\\) \\( \\Leftrightarrow \\) – n 2 + 11n – 30 = 0 \\( \\Leftrightarrow \\) n = 5 hoặc n = 6. Vậy có 2 giá trị của n thoả mãn."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Số tam giác xác định bởi các đỉnh của một đa giác đều 10 cạnh là:",
+      "options": [
+        "A. 35;",
+        "B. 120;",
+        "C. 240;",
+        "D. 720."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải Đáp án đúng là: B Cứ ba đỉnh của đa giác sẽ tạo thành một tam giác. Chọn 3 trong 10 đỉnh của đa giác tạo ra một tam giác, có \\(C_{10}^3 = 120\\) cách chọn 3 đỉnh bất kỳ Vậy có 120 tam giác xác định bởi các đỉnh của đa giác 10 cạnh."
+    }
+  ]
+}

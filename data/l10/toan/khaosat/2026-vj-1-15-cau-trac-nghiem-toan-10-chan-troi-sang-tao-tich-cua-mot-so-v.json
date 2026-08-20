@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-toan-10-chan-troi-sang-tao-tich-cua-mot-so-v",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-toan-10-chan-troi-s",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Toán 10 chân trời sáng tạo Tích của một số với một vectơ có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho tam giác ABC vuông tại A có AB = 3, AC = 4. Tính độ dài C B → + A B → .",
+      "options": [
+        "A. 13",
+        "B. 2 13",
+        "C. 2 3",
+        "D. 3"
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải Đáp án đúng là: B Gọi M là trung điểm AC, ta suy ra M A → + M C → = 0 → . ⇔ − A M → − C M → = 0 → ⇔ − A M → + C M → = 0 → ⇔ A M → + C M → = 0 → Ta có C B → + A B → = C M → + M B → + A M → + M B → = A M → + C M → + 2 M B → = 0 → + 2 M B → = 2 M B → . Vì M là trung điểm AC nên AM = A C 2 = 2. Tam giác ABM vuông tại A: B M 2 = A B 2 + A M 2 (Định lý Pytago) ⇔ B M 2 = 3 2 + 2 2 = 13 ⇒ B M = 13 Ta suy ra C B → + A B → = 2 M B → = 2. M B = 2 13 . Vậy ta chọn đáp án B."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho a → ≠ 0 → và điểm O. Gọi M, N lần lượt là hai điểm thỏa mãn O M → = 3 a → và O N → = − 4 a → . Tìm M N → .",
+      "options": [
+        "A. M N → = 7 a →",
+        "B. M N → = 5 a →",
+        "C. M N → = - 7 a →",
+        "D. M N → = - 5 a →"
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là: C Ta có M N → = O N → − O M → = − 4 a → − 3 a → = − 7 a → ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho tam giác ABC có trọng tâm G. Gọi các điểm D, E, F lần lượt là trung điểm của các cạnh BC, CA và AB. Trong các khẳng định sau, khẳng định nào đúng?",
+      "options": [
+        "A. A G → = 1 2 A E → + 1 2 AF →",
+        "B. A G → = 1 3 A E → + 1 3 AF →",
+        "C. A G → = 3 2 A E → + 3 2 AF →",
+        "D. A G → = 2 3 A E → + 2 3 AF →"
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải Đáp án đúng là: D Vì G là trọng tâm của tam giác ABC nên ta có A G → = 2 3 A D → . Tam giác ABC có D là trung điểm cạnh BC, suy ra 2 A D → = A B → + A C → . Ta có E, F lần lượt là trung điểm AC, AB. Suy ra A C → = 2 A E → và A B → = 2 A F → . Khi đó ta có A G → = 2 3 A D → = 1 3 A B → + A C → = 1 3 2 A F → + 2 A E → = 2 3 A E → + 2 3 A F → . Vậy ta chọn đáp án D."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho ba điểm phân biệt A, B, C. Nếu A B → = − 3 A C → thì đẳng thức nào dưới đây đúng?",
+      "options": [
+        "A. B C → = − 4 A C →",
+        "B. B C → = − 2 A C →",
+        "C. B C → = 2 A C →",
+        "D. B C → = 4 A C →"
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải Đáp án đúng là: D Từ đẳng thức A B → = − 3 A C → , ta suy ra ba điểm A, B, C thẳng hàng. Vì k = – 3 < 0 nên A B → và A C → ngược hướng. Do đó điểm A nằm giữa hai điểm B và C. Ta có A B → = − 3 A C → , suy ra A B → = − 3 A C → , do đó AB = 3AC. Suy ra BC = AB + AC = 3AC + AC = 4AC. Mà B C → , A C → cùng hướng. Do đó ta suy ra B C → = 4 A C → . Vậy ta chọn đáp án D."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hình bình hành ABCD tâm O. Mệnh đề nào sau đây là sai?",
+      "options": [
+        "A. A B → + A D → = A C →",
+        "B. O A → = 1 2 B A → + C B →",
+        "C. O A → + O B → = O C → + O D →",
+        "D. O A → + O B → = D A →"
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là: C Ta xét từng đáp án: Đáp án A: Theo quy tắc hình bình hành, ta có A B → + A D → = A C → ⇒ A đúng. Đáp án B: Vì O là tâm của hình bình hành ABCD nên O là trung điểm AC. Ta suy ra O A = 1 2 C A . Mà O A → , C A → cùng hướng. Do đó O A → = 1 2 C A → = 1 2 C B → + B A → ⇒ B đúng. Đáp án C: Gọi I, J lần lượt là trung điểm của AB và CD. Ta có O A → + O B → = 2 O I → và O C → + O D → = 2 O J → . Mà O I → , O J → là hai vectơ đối nhau. Do đó 2 O I → ≠ 2 O J → . Suy ra O A → + O B → ≠ O C → + O D → ⇒ C sai. Đáp án D: Ta có OI là đường trung bình của tam giác ABD. Suy ra O I → = 1 2 D A → . Ta có O A → + O B → = 2 O I → = 2. 1 2 D A → = D A → ⇒ D đúng. Vậy ta chọn đáp án C."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho tam giác ABC. Gọi I là trung điểm AB. Tìm điểm M thỏa mãn hệ thức M A → + M B → + 2 M C → = 0 → .",
+      "options": [
+        "A. M là trung điểm BC;",
+        "B. M là trung điểm IC;",
+        "C. M là trung điểm IA;",
+        "D. M là điểm trên cạnh IC sao cho IM = 2MC."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải Đáp án đúng là: B Ta có M A → + M B → + 2 M C → = 0 → ⇔ 2 M I → + 2 M C → = 0 → ⇔ 2 M I → + M C → = 0 → ⇔ M I → + M C → = 0 → . Do đó ta suy ra M là trung điểm IC. Vậy ta chọn đáp án B."
+    }
+  ]
+}

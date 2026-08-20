@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-9-12-bai-tap-mot-so-bai-toan-lien-quan-den-tinh-don-dieu-cuc-tri-",
+  "sourceId": "vietjack:9-12-bai-tap-mot-so-bai-toan-lien-quan-d",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "9.12 bài tập Một số bài toán liên quan đến tính đơn điệu, cực trị có chứa tham số có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Tổng các giá trị nguyên của tham số m ∈ [−10; 10) để hàm số y = x 3 − 3x 2 +3(m + 2)x + 3m – 2025 đồng biến trên trên ℝ là:",
+      "options": [
+        "A. 27;",
+        "B. 35;",
+        "C. 44;",
+        "D. 54."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C y = x 3 − 3x 2 +3(m + 2)x + 3m – 2025 Hàm số đã cho xác định trên D = ℝ. Để hàm số đồng biến trên ℝ y' = 3x 2 – 6x + 3(m + 2) ≥ 0, ∀x ∈ ℝ \\[ \\Leftrightarrow \\left\\{ {\\begin{array}{*{20}{c}}{a > 0}\\\\{\\Delta ' \\le 0}\\end{array}{\\rm{ }} \\Leftrightarrow \\left\\{ {\\begin{array}{*{20}{c}}{3 > 0{\\rm{ }}}\\\\{9 - 9(m + 2) \\le 0}\\end{array} \\Leftrightarrow m \\ge - 1{\\rm{ }}} \\right.} \\right.\\]. Vậy m ≥ −1 thì hàm số đồng biến trên ℝ. Do m ∈ [−10; 10), m ∈ ℤ nên tổng các giá trị nguyên của tham số là 44."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Biết giá trị tham số \\(m \\in \\left[ {a;\\frac{b}{c}} \\right]\\) (với a, b, c ∈ ℤ và \\(\\frac{b}{c}\\) là phân số tối giản) thì hàm số y = x 3 – (2m – 1)x 2 + (2 – m)x + 2 đồng biến trên trên ℝ. Giá trị biểu thức \\(P = \\frac{{{a^2} + {b^2}}}{c}.\\)",
+      "options": [
+        "A. \\(P = \\frac{9}{4}\\);",
+        "B. \\(P = \\frac{{13}}{2}\\);",
+        "C. P = 4;",
+        "D. \\(P = \\frac{{13}}{4}\\)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Hàm số đã cho xác định trên D = ℝ. Để hàm số đồng biến trên ℝ y' = 3x 2 – 2(2m – 1)x + (2 – m) ≥ 0, ∀x ∈ ℝ\\[ \\Leftrightarrow \\left\\{ \\begin{array}{l}a = 3 > 0\\\\\\Delta ' = {\\left( {2m - 1} \\right)^2} - 3\\left( {2 - m} \\right) = 4{m^2} - m - 5 \\le 0\\end{array} \\right. \\Leftrightarrow - 1 \\le m \\le \\frac{5}{4}\\]. Vậy \\[ - 1 \\le m \\le \\frac{5}{4}\\] thì hàm số đồng biến trên ℝ. Do \\(m \\in \\left[ {a;\\frac{b}{c}} \\right]\\) nên \\(\\left\\{ \\begin{array}{l}a = - 1\\\\b = 5\\\\c = 4\\end{array} \\right. \\Rightarrow P = \\frac{{{a^2} + {b^2}}}{c} = \\frac{{13}}{2}\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Tập hợp tất cả các giá trị thực của tham số m để hàm số y = x 3 – 3x 2 + (4 – m)x đồng biến trên khoảng (2; +∞) là",
+      "options": [
+        "A. (−∞; 1];",
+        "B. (−∞; 4];",
+        "C. (−∞; 1);",
+        "D. (−∞; 4)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có y' = 3x 2 – 6x + 4 – m. Yêu cầu bài toán y' ≥ 0, ∀x ∈ (2; +∞) 3x 2 – 6x + 4 – m ≥ 0, ∀x ∈ (2; +∞) m ≤ 3x 2 – 6x + 4, ∀x ∈ (2; +∞) m ≤ \\(\\mathop {\\min }\\limits_{\\left( {2; + \\infty } \\right)} g\\left( x \\right)\\) với g(x) = 3x 2 – 6x + 4. Ta có g'(x) = 6x – 6; g'(x) = 0 6x – 6 = 0 x = 1. Dựa vào bảng biến thiên, suy ra: m ≤ 4 thỏa yêu cầu bài toán. Vậy: m ∈ (−∞; 4] thì hàm số đồng biến trên khoảng (2; +∞)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Có bao nhiêu giá trị nguyên âm của tham số m để hàm số \\(y = \\frac{{ - 3}}{4}{x^4} + \\frac{9}{2}{x^2} - \\left( {2m + 15} \\right)x - m + 3\\) nghịch biến trên khoảng (0; +∞)?",
+      "options": [
+        "A. 2;",
+        "B. 3;",
+        "C. 4;",
+        "D. 5."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Yêu cầu bài toán y' = −3x 3 + 9x – 2m – 15 ≤ 0, ∀x ∈ (0; +∞) và dấu bằng xảy ra tại hữu hạn điểm thuộc (0; +∞) 3x 3 − 9x + 15 ≥ – 2m, ∀x ∈ (0; +∞). Xét hàm số g(x) = 3x 3 − 9x + 15 trên (0; +∞). Ta có: g'(x) = 9x 2 – 9; g'(x) = 0 x = 1 hoặc x = −1 (loại). Bảng biến thiên: Từ bảng biến thiên ta có: \\( - 2m \\le 9 \\Leftrightarrow m \\ge - \\frac{9}{2}\\). Vậy m ∈ {−4; −3; −2; −1}."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Có bao nhiêu giá trị nguyên của tham số m để hàm số \\(y = \\frac{{x + {m^2}}}{{x + 4}}\\) đồng biến trên từng khoảng xác định của nó",
+      "options": [
+        "A. 2;",
+        "B. 3;",
+        "C. 4;",
+        "D. 5."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Tập xác định: D = ℝ\\{−4}. Ta có \\(y' = \\frac{{4 - {m^2}}}{{{{\\left( {x + 4} \\right)}^2}}}.\\) Hàm số đồng biến trên từng khoảng xác định khi và chỉ khi \\(y' > 0\\;\\forall x \\in D \\Leftrightarrow \\frac{{4 - {m^2}}}{{{{\\left( {x + 4} \\right)}^2}}} > 0\\;\\forall x \\ne - 4 \\Leftrightarrow - 2 < m < 2.\\) Vì m ∈ ℤ m ∈ {−1; 0; 1}. Vậy có 3 giá trị m nguyên để bài toán thỏa mãn."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Với giá trị tham số m ∈ (a; b)\\{c} (với a, b, c ∈ ℤ) thì hàm số y = (m + 2)x 3 + 3x 2 + mx – 6 có 2 cực trị. Giá trị biểu thức P = a + b + c là:",
+      "options": [
+        "A. P = −4;",
+        "B. P = 4;",
+        "C. P = −3;",
+        "D. P = −5."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có y' = 3(m + 2)x 2 + 6x + m Hàm số có 2 cực trị y' = 0 có hai nghiệm phân biệt \\( \\Leftrightarrow \\left\\{ \\begin{array}{l}m \\ne - 2\\\\{m^2} + 2m - 3 < 0\\end{array} \\right.\\)\\( \\Leftrightarrow \\left\\{ \\begin{array}{l}m \\ne - 2\\\\ - 3 < m < 1\\end{array} \\right.\\)\\( \\Leftrightarrow m \\in \\left( { - 3;1} \\right)\\backslash \\left\\{ { - 2} \\right\\}\\). Vậy P = a + b + c = −4."
+    }
+  ]
+}

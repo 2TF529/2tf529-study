@@ -1,0 +1,104 @@
+{
+  "id": "2026-vj-1-bo-5-de-thi-giua-ki-2-toan-12-chan-troi-sang-tao-cau-truc-moi-c",
+  "sourceId": "vietjack:1-bo-5-de-thi-giua-ki-2-toan-12-chan-tro",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "giuaki2",
+  "year": 2026,
+  "title": "1.Bộ 5 đề thi giữa kì 2 Toán 12 Chân trời sáng tạo cấu trúc mới (có tự luận) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Biết \\(F\\left( x \\right) = {x^2}\\) là một nguyên hàm của \\(f\\left( x \\right)\\) trên \\(\\mathbb{R}\\) . Giá trị của \\(\\int\\limits_0^2 {f\\left( x \\right)dx} \\) bằng",
+      "options": [
+        "A. \\( - 4\\) .",
+        "B. \\(4\\) .",
+        "C. \\(12\\) .",
+        "D. \\(2\\) ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B \\(\\int\\limits_0^2 {f\\left( x \\right)dx} = \\left. {{x^2}} \\right|_0^2 = 4\\) ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Biết \\(\\int\\limits_0^1 {\\left[ {f\\left( x \\right) + 2x} \\right]dx} = 4\\) . Khi đó \\(\\int\\limits_0^1 {f\\left( x \\right)dx} \\) bằng",
+      "options": [
+        "A. \\(1\\) .",
+        "B. \\(3\\) .",
+        "C. \\(2\\) .",
+        "D. \\(5\\) ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có \\(\\int\\limits_0^1 {\\left[ {f\\left( x \\right) + 2x} \\right]dx} = 4\\)\\( \\Leftrightarrow \\int\\limits_0^1 {f\\left( x \\right)dx} + \\int\\limits_0^1 {2xdx} = 4\\)\\( \\Leftrightarrow \\int\\limits_0^1 {f\\left( x \\right)dx} + \\left. {{x^2}} \\right|_0^1 = 4\\)\\( \\Leftrightarrow \\int\\limits_0^1 {f\\left( x \\right)dx} = 3\\) ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hình phẳng \\(\\left( H \\right)\\) được giới hạn bởi đồ thị \\(\\left( P \\right)\\) của hàm số \\(y = {x^2} + 1,y = 0,x = 1,x = 2\\) . Gọi \\(S\\) là diện tích của hình phẳng \\(\\left( H \\right)\\) . Mệnh đề nào sau đây đúng ?",
+      "options": [
+        "A. \\(S = \\int\\limits_0^1 {\\left( {{x^2} + 1} \\right)dx} \\) .",
+        "B. \\(S = \\int\\limits_1^2 {\\left( { - {x^2} - 1} \\right)dx} \\) .",
+        "C. \\(S = \\int\\limits_1^2 {\\left( {{x^2} + 1} \\right)dx} \\) .",
+        "D. \\(S = \\int\\limits_0^2 {\\left( {{x^2} + 1} \\right)dx} \\) ."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có \\(S = \\int\\limits_1^2 {\\left| {{x^2} + 1} \\right|dx} = \\int\\limits_1^2 {\\left( {{x^2} + 1} \\right)dx} \\) ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Thể tích \\(V\\) của một vật thể được giới hạn bởi hai mặt phẳng \\(x = a,x = b\\) , biết rằng khi cắt vật thể bởi mặt phẳng vuông góc với trục \\(Ox\\) tại điểm có hoành độ \\(x\\left( {a \\le x \\le b} \\right)\\) thì được thiết diện có diện tích là \\(S\\left( x \\right)\\) . Giả sử hàm số \\(S\\left( x \\right)\\) liên tục trên \\(\\left[ {a;b} \\right]\\) . Mệnh đề nào sau đây đúng?",
+      "options": [
+        "A. \\(V = \\pi \\int\\limits_a^b {{S^2}\\left( x \\right)dx} \\) .",
+        "B. \\(V = \\int\\limits_b^a {S\\left( x \\right)dx} \\) .",
+        "C. \\(V = \\pi \\int\\limits_b^a {{S^2}\\left( x \\right)dx} \\) .",
+        "D. \\(V = \\int\\limits_a^b {S\\left( x \\right)dx} \\) ."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Ta có \\(V = \\int\\limits_a^b {S\\left( x \\right)dx} \\) ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong không gian \\(Oxyz\\) , cho mặt phẳng \\(\\left( P \\right):x + 2y + 3z - 1 = 0\\) . Vectơ nào dưới đây là một vectơ pháp tuyến của \\(\\left( P \\right)\\) ?",
+      "options": [
+        "A. \\(\\overrightarrow n = \\left( {1;3; - 1} \\right)\\) .",
+        "B. \\(\\overrightarrow n = \\left( {2;3; - 1} \\right)\\) .",
+        "C. \\(\\overrightarrow n = \\left( {1;2;3} \\right)\\) .",
+        "D. \\(\\overrightarrow n = \\left( {1;2; - 1} \\right)\\) ."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có \\(\\overrightarrow {{n_P}} = \\left( {1;2;3} \\right)\\) ."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Trong không gian \\(Oxyz\\) , mặt phẳng \\(\\left( \\alpha \\right):y = 0\\) trùng với mặt phẳng nào dưới đây?",
+      "options": [
+        "A. \\(\\left( {Oxy} \\right)\\) .",
+        "B. \\(\\left( {Oyz} \\right)\\) .",
+        "C. \\(\\left( {Oxz} \\right)\\) .",
+        "D. \\(x - y = 0\\) ."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Mặt phẳng \\(\\left( \\alpha \\right):y = 0\\) trùng với mặt phẳng \\(\\left( {Oxz} \\right)\\) ."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Tích phân \\(\\int\\limits_1^7 {{e^{3x + 1}}dx} \\) bằng",
+      "options": [
+        "A. \\({e^7} - e\\) .",
+        "B. \\({e^{22}} - {e^4}\\) .",
+        "C. \\(\\frac{1}{3}\\left( {{e^{22}} - {e^4}} \\right)\\) .",
+        "D. \\(\\frac{1}{3}\\left( {{e^4} - {e^7}} \\right)\\) ."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có \\(\\int\\limits_1^7 {{e^{3x + 1}}dx} = \\left. {\\frac{1}{3}{e^{3x + 1}}} \\right|_1^7 = \\frac{1}{3}{e^{22}} - \\frac{1}{3}{e^4}\\) ."
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "id": "l12-li-totnghiep-2026-de-thi-thu-tot-nghiep-thpt-mon-vat-ly-so-gd-dt-hai-phong-lan-2-nam-2026",
+  "grade": "l12",
+  "subjectSlug": "li",
+  "examType": "totnghiep",
+  "year": 2026,
+  "code": "THPT_TTL_HP_2026_02",
+  "title": "Đề thi thử tốt nghiệp THPT môn Vật Lý Sở GD&ĐT Hải Phòng lần 2 năm 2026",
+  "duration": 50,
+  "answerSource": "official",
+  "source": "https://dolthpt.vn/tot-nghiep-thpt/pdf-de-thi-thu-tot-nghiep-thpt-mon-vat-ly-so-gd-dt-hai-phong-lan-2-nam-2026-co-dap-an",
+  "notes": "Nội dung, đáp án và lời giải được nhập từ bản công khai của DOL THPT.",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "content": "Hình bên là đồ thị đơn giản hóa phân bố năng lượng liên kết riêng $E_{lkr}$ theo số khối A của hạt nhân. Từ đồ thị cho biết hạt nhân nào bền vững nhất trong các hạt nhân sau: ${}_{29}^{63}\\text{Cu}$, ${}_{92}^{238}\\text{U}$, ${}_{82}^{206}\\text{Pb}$, ${}_{2}^{4}\\text{He}$\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tot-nghiep-thpt-mon-vat-ly-so-gd-dt-hai-phong-lan-2-nam-2026/cau-01.webp\" alt=\"Hình minh họa câu 1\" loading=\"lazy\"></figure>",
+      "chuong": "vật lí hạt nhân",
+      "dang": "đồ thị: năng lượng liên kết & phản ứng hạt nhân",
+      "type": "single",
+      "options": [
+        "A. ${}_{29}^{63}\\text{Cu}$",
+        "B. ${}_{2}^{4}\\text{He}$",
+        "C. ${}_{82}^{206}\\text{Pb}$",
+        "D. ${}_{92}^{238}\\text{U}$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Dùng kiến thức: - **Độ bền vững của hạt nhân phụ thuộc vào năng lượng liên kết riêng**.\n  - Hạt nhân bền vững nhất là hạt nhân có $E_{lkr}$ lớn nhất.\n- Xét từng hạt nhân theo số khối: - ${}_{2}^{4}\\text{He}$ có $A=4$: nằm ở vùng đầu đồ thị, $E_{lkr}$ chưa lớn.\n  - ${}_{29}^{63}\\text{Cu}$ có $A=63$: nằm gần vùng đỉnh của đồ thị, nơi $E_{lkr}$ đạt giá trị lớn nhất.\n  - ${}_{82}^{206}\\text{Pb}$ có $A=206$: nằm ở vùng bên phải, $E_{lkr}$ đã giảm.\n  - ${}_{92}^{238}\\text{U}$ có $A=238$: càng về cuối đồ thị, $E_{lkr}$ còn nhỏ hơn nữa.\n- Từ mô tả đồ thị, đỉnh của $E_{lkr}$ ở khoảng $A \\approx 60$, nên hạt nhân có số khối gần giá trị này nhất là ${}_{29}^{63}\\text{Cu}$.\n- Vậy ${}_{29}^{63}\\text{Cu}$ có năng lượng liên kết riêng lớn nhất trong 4 hạt nhân đã cho, nên **bền vững nhất**.\n✅ **Đáp án:** A."
+    },
+    {
+      "id": 2,
+      "content": "Để quả trứng đã luộc chín và bóc vỏ lọt được vào miệng một chiếc bình thuỷ tinh nhỏ, bạn An đã tráng qua bình bằng nước nóng rồi đổ ra ngoài và đặt quả trứng thật khít miệng bình để ngăn không cho khí ra, vào bình. Bỏ qua sự giãn nở vì nhiệt của bình, sau một khoảng thời gian ngắn quả trứng tự chui vào bình. Quá trình biến đổi trạng thái của khí trong bình từ khi đặt trứng lên miệng bình (đã tráng nước nóng) đến khi trứng bắt đầu di chuyển có thể coi là quá trình",
+      "chuong": "khí lí tưởng",
+      "dang": "thực tế: phương trình trạng thái khí lí tưởng",
+      "type": "single",
+      "options": [
+        "A. đẳng áp.",
+        "B. đẳng tích.",
+        "C. không phải là đẳng quá trình.",
+        "D. đẳng nhiệt."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Khi bình vừa được tráng bằng nước nóng, không khí trong bình nóng lên.\n- Sau khi đổ nước ra và đặt trứng bịt kín miệng bình, khí trong bình không thể thoát ra ngoài hay đi vào trong.\n- Từ lúc đặt trứng lên đến lúc trứng bắt đầu chuyển động, quả trứng *chưa đi vào bình*, nên thể tích phần khí trong bình *chưa thay đổi*.\n- Trong thời gian này, khí trong bình nguội dần nên nhiệt độ giảm: - $T \\text{ giảm}$\n- Vì thể tích không đổi nên đây là *quá trình đẳng tích*: - $V = \\text{hằng số}$\n- Khi nhiệt độ giảm mà thể tích không đổi, theo hệ thức của quá trình đẳng tích: - $\\dfrac{p}{T} = \\text{hằng số}$\n- Do đó áp suất trong bình giảm. Áp suất không khí bên ngoài lớn hơn áp suất trong bình nên ép quả trứng chui vào trong.\n- Kiểm tra các phương án: - **Đẳng áp**: sai, vì áp suất trong bình đang giảm.\n  - **Đẳng tích**: đúng, vì trước khi trứng bắt đầu di chuyển, thể tích khí không đổi.\n  - **Không phải đẳng quá trình**: sai, vì có thể xem là đẳng tích.\n  - **Đẳng nhiệt**: sai, vì khí đang nguội nên nhiệt độ thay đổi.\n- Ví dụ phản chứng đơn giản: - Nếu là đẳng nhiệt thì $T$ không đổi, nhưng thực tế khí trong bình đang nguội đi sau khi rời nước nóng.\n  - Nếu là đẳng áp thì $p$ không đổi, nhưng chính do áp suất trong bình giảm mới làm trứng bị đẩy vào.\n✅ **Đáp án:** B."
+    },
+    {
+      "id": 3,
+      "content": "Trong hình vẽ bên cho biết một cảnh sát giao thông đang dùng súng bắn tốc độ Rada để kiểm tra tốc độ của các phương tiện giao thông trên đường. Sóng phát ra từ súng truyền đi theo hướng Bắc sang Nam. Ở thời điểm t, tại một điểm M trên đường truyền sóng véc tơ cảm ứng từ $\\vec{B}$ có hướng thẳng đứng từ dưới lên trên thì véc tơ cường độ điện trường $\\vec{E}$ có hướng\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tot-nghiep-thpt-mon-vat-ly-so-gd-dt-hai-phong-lan-2-nam-2026/cau-03.webp\" alt=\"Hình minh họa câu 3\" loading=\"lazy\"></figure>",
+      "chuong": "từ trường",
+      "dang": "bài tập: sóng điện từ",
+      "type": "single",
+      "options": [
+        "A. từ tây sang đông.",
+        "B. từ dưới lên trên.",
+        "C. từ trên xuống dưới.",
+        "D. từ đông sang tây."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Với sóng điện từ, ta có: - $\\vec{E} \\perp \\vec{B}$\n  - $\\vec{E} \\perp \\text{phương truyền sóng}$\n  - $\\vec{B} \\perp \\text{phương truyền sóng}$\n- Đề bài cho sóng truyền **từ Bắc sang Nam**.\n- Đề bài cho $\\vec{B}$ hướng **từ dưới lên trên**.\n- Dựa vào quy tắc nắm tay phải ta xác định được chiều của vecto cường độ điện từ $\\vec{E}$ có hướng **từ Tây sang Đông.**\n- Nhắc lại quy tắc nắm tay phải dùng để xác định chiều truyền của sóng điện từ:\n- - Ngón tay cái chỉ chiều truyền sóng.\n  - Chiều khum của bốn ngón tay hướng từ vecto $\\vec{E}$ sang vecto $\\vec{B}$.\n✅ **Đáp án:** A."
+    },
+    {
+      "id": 4,
+      "content": "Sạc không dây được ứng dụng để sạc pin điện thoại có nguyên tắc hoạt động dựa trên hiện tượng cảm ứng điện từ. Khi sạc pin chỉ cần đặt điện thoại lên đĩa sạc đã kết nối nguồn điện như hình. Tương tự như máy biến áp, loại sạc này cũng có cuộn dây sơ cấp và cuộn dây thứ cấp. Hai cuộn dây này gồm\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tot-nghiep-thpt-mon-vat-ly-so-gd-dt-hai-phong-lan-2-nam-2026/cau-04.webp\" alt=\"Hình minh họa câu 4\" loading=\"lazy\"></figure>",
+      "chuong": "từ trường",
+      "dang": "bài tập: máy biến áp, sạc điện thoại",
+      "type": "single",
+      "options": [
+        "A. cuộn sơ cấp và thứ cấp cùng ở trong đĩa sạc.",
+        "B. cuộn sơ cấp và thứ cấp cùng ở trong điện thoại.",
+        "C. cuộn sơ cấp ở trong điện thoại và thứ cấp trong đĩa sạc.",
+        "D. cuộn sơ cấp ở trong đĩa sạc và thứ cấp ở trong điện thoại."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Vì đĩa sạc được **kết nối với nguồn điện**, nên cuộn dây nằm trong đĩa sạc sẽ là **cuộn sơ cấp**.\n- Khi có dòng điện biến thiên chạy qua cuộn sơ cấp, nó tạo ra **từ trường biến thiên**.\n- Từ trường biến thiên này truyền sang cuộn dây trong điện thoại và gây ra **suất điện động cảm ứng**.\n- Do đó, cuộn dây trong điện thoại là **cuộn thứ cấp**.\n- Quan sát hình ảnh cũng phù hợp với nguyên lí này: đĩa sạc ở dưới là bộ phận cấp năng lượng, còn điện thoại ở trên là bộ phận nhận năng lượng để sạc pin.\n- Xét các phương án: - A sai vì nếu cả hai cuộn đều ở trong đĩa sạc thì điện thoại không nhận được điện năng cảm ứng.\n  - B sai vì cả hai cuộn không thể cùng ở trong điện thoại, vì nguồn điện được nối với đĩa sạc.\n  - C sai vì đảo ngược vị trí của cuộn sơ cấp và thứ cấp.\n  - Phương án đúng là cuộn sơ cấp ở đĩa sạc, cuộn thứ cấp ở điện thoại.\n✅ **Đáp án:** D."
+    },
+    {
+      "id": 5,
+      "content": "Trong đàn guitar điện, pickup là một thiết bị cảm biến âm thanh được lắp đặt trên cây đàn guitar, giúp chuyển đổi các dao động của dây đàn thành tín hiệu điện. Tín hiệu này sau đó được truyền đến ampli hoặc hệ thống âm thanh để phát ra âm thanh từ đàn guitar. Xét một cuộn dây của bộ thu có 310 vòng và diện tích mỗi vòng là \\$5 \\text{ cm}^2$. Khi dây đàn dao động, từ trường biến thiên với tần số \\$440 \\text{ Hz}$ và cảm ứng từ có độ lớn \\$0,02 \\text{ T}$. Suất điện động cảm ứng cực đại trong cuộn dây của bộ thu khi dây đàn dao động có độ lớn bằng:\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tot-nghiep-thpt-mon-vat-ly-so-gd-dt-hai-phong-lan-2-nam-2026/cau-05.webp\" alt=\"Hình minh họa câu 5\" loading=\"lazy\"></figure>",
+      "chuong": "từ trường",
+      "dang": "bài tập: guitar điện, bếp từ, dynamo xe đạp, loa điện",
+      "type": "single",
+      "options": [
+        "A. 4,29 V",
+        "B. 6,06 V",
+        "C. 2,73 V",
+        "D. 8,57 V"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Một cuộn dây trong pickup của đàn guitar điện có số vòng dây: $N = 310$.\n- Diện tích mỗi vòng dây: $S = 5\\ \\text{cm}^2 = 5 \\times 10^{-4}\\ \\text{m}^2$.\n- Từ trường biến thiên với tần số: $f = 440\\ \\text{Hz}$.\n- Cảm ứng từ cực đại: $B_0 = 0,02\\ \\text{T}$.\n- Cần tính *suất điện động cảm ứng cực đại* trong cuộn dây.\n🔎 **Hướng dẫn cách làm:**\n- Đổi đơn vị diện tích:\n\\$5\\ \\text{cm}^2 = 5 \\times 10^{-4}\\ \\text{m}^2$\n- Tính tần số góc:\n$\\omega = 2\\pi f = 2 \\times 3,14 \\times 440 = 2763,2\\ \\text{rad/s}$\n- Thay số vào công thức:\n$e_{\\max}=NBS\\omega=310\\times0,02\\times5\\times10^{-4}\\times2763,2$\n- Tính lần lượt:\n\\$310 \\times 0,02 = 6,2$\n\\$6,2 \\times 5 \\times 10^{-4} = 0,0031$\n\\$0,0031 \\times 2763,2 = 8,56592\\ \\text{V}$\n- Suy ra:\n$e_{\\max} \\approx 8,57\\ \\text{V}$\n✅ **Đáp án:** D."
+    },
+    {
+      "id": 6,
+      "content": "Trong hạt nhân nguyên tử sắt ${}_{26}^{56}\\text{Fe}$ có bao nhiêu neutron?",
+      "chuong": "vật lí hạt nhân",
+      "dang": "bài tập: tính toán a, z, n",
+      "type": "single",
+      "options": [
+        "A. 26 neutron.",
+        "B. 82 neutron.",
+        "C. 56 neutron.",
+        "D. 30 neutron."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Máy biến áp hoạt động dựa trên hiện tượng **cảm ứng điện từ**, nên nó chỉ làm việc với **dòng điện xoay chiều**.\n- Công thức liên hệ điện áp giữa hai cuộn dây của máy biến áp là:\n$\\dfrac{U_1}{U_2} = \\dfrac{N_1}{N_2}$\nTrong đó: - $U_1, U_2$ là điện áp ở cuộn sơ cấp và thứ cấp\n  - $N_1, N_2$ là số vòng dây của hai cuộn\n- Từ công thức trên, ta thấy máy biến áp chỉ có tác dụng **biến đổi điện áp**, tức là làm tăng hoặc giảm giá trị của điện áp xoay chiều.\n- Tuy nhiên, **tần số của dòng điện không thay đổi** khi qua máy biến áp. Nếu đầu vào có tần số $f$ thì đầu ra vẫn có tần số $f$.\n- Xét các phương án: - Phương án **B**: sai vì máy biến áp **không dùng để biến đổi hiệu điện thế của dòng điện không đổi**.\n  - Phương án **C**: sai vì máy biến áp **không làm thay đổi tần số**.\n  - Phương án **D**: sai vì trong thực tế máy biến áp vẫn có hao phí năng lượng, nên không thể nói *không tiêu thụ điện năng*.\n  - Vì vậy, phát biểu đúng là: máy biến áp **biến đổi điện áp xoay chiều nhưng không làm thay đổi tần số dòng điện**.\n✅ **Đáp án:** A."
+    },
+    {
+      "id": 7,
+      "content": "Đá khô (dry ice) là tên gọi của carbon dioxide ở dạng đóng băng (thể rắn). Ở điều kiện áp suất khí quyển, đá khô gặp nước sẽ chuyển sang thể khí. Người ta ứng dụng hiện tượng này của đá khô để tạo khói trong tổ chức sự kiện, giải trí, ăn uống,... Quá trình đá khô biến mất không để lại chất lỏng gọi là sự chuyển thể nào sau đây?",
+      "chuong": "vật lí nhiệt",
+      "dang": "lý thuyết: cấu trúc của chất. sự chuyển thể",
+      "type": "single",
+      "options": [
+        "A. Sự thăng hoa.",
+        "B. Sự ngưng kết.",
+        "C. Sự nóng chảy.",
+        "D. Sự hóa hơi."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Đề bài cho biết đá khô là **carbon dioxide ở thể rắn**.\n- Khi gặp nước, đá khô **chuyển sang thể khí** và **không để lại chất lỏng**.\n- Như vậy, đây là quá trình chuyển trực tiếp từ **rắn **$\\rightarrow$** khí**.\n- Theo định nghĩa vật lí: - **Sự thăng hoa** là quá trình chất chuyển trực tiếp từ thể rắn sang thể khí.\n- Đối chiếu các phương án: - B. *Sự ngưng kết* là khí $\\rightarrow$ lỏng, không đúng.\n  - C. *Sự nóng chảy* là rắn $\\rightarrow$ lỏng, không đúng.\n  - D. *Sự hóa hơi* là lỏng $\\rightarrow$ khí, không đúng.\n  - A. *Sự thăng hoa* là rắn $\\rightarrow$ khí, đúng với hiện tượng của đá khô.\n- Vậy hiện tượng đá khô biến mất không để lại chất lỏng là **sự thăng hoa**.\n✅ **Đáp án:** A."
+    },
+    {
+      "id": 9,
+      "content": "Máy biến áp là thiết bị",
+      "chuong": "từ trường",
+      "dang": "bài tập: máy biến áp, sạc điện thoại",
+      "type": "single",
+      "options": [
+        "A. biến đổi điện áp xoay chiều nhưng không làm thay đổi tần số dòng điện.",
+        "B. biến đổi hiệu điện thế của dòng điện không đổi.",
+        "C. biến đổi điện áp xoay chiều cả về độ lớn và tần số dòng điện.",
+        "D. không tiêu thụ điện năng chỉ chuyển hóa điện áp của dòng điện xoay chiều."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Máy biến áp hoạt động dựa trên hiện tượng **cảm ứng điện từ**, nên nó chỉ làm việc với **dòng điện xoay chiều**.\n- Công thức liên hệ điện áp giữa hai cuộn dây của máy biến áp là:\n$\\dfrac{U_1}{U_2} = \\dfrac{N_1}{N_2}$\nTrong đó: - $U_1, U_2$ là điện áp ở cuộn sơ cấp và thứ cấp\n  - $N_1, N_2$ là số vòng dây của hai cuộn\n- Từ công thức trên, ta thấy máy biến áp chỉ có tác dụng **biến đổi điện áp**, tức là làm tăng hoặc giảm giá trị của điện áp xoay chiều.\n- Tuy nhiên, **tần số của dòng điện không thay đổi** khi qua máy biến áp. Nếu đầu vào có tần số $f$ thì đầu ra vẫn có tần số $f$.\n- Xét các phương án: - Phương án **B**: sai vì máy biến áp **không dùng để biến đổi hiệu điện thế của dòng điện không đổi**.\n  - Phương án **C**: sai vì máy biến áp **không làm thay đổi tần số**.\n  - Phương án **D**: sai vì trong thực tế máy biến áp vẫn có hao phí năng lượng, nên không thể nói *không tiêu thụ điện năng*.\n  - Vì vậy, phát biểu đúng là: máy biến áp **biến đổi điện áp xoay chiều nhưng không làm thay đổi tần số dòng điện**.\n✅ **Đáp án:** A."
+    },
+    {
+      "id": 10,
+      "content": "Vào mùa hè, nước trong hồ thường lạnh hơn không khí. Ví dụ, nước trong hồ bơi có thể ở \\$23^\\circ C$ trong khi nhiệt độ không khí là \\$27^\\circ C$. Mặc dù không khí ấm hơn nhưng bạn vẫn cảm thấy lạnh khi ra khỏi nước. Điều này được giải thích là do",
+      "chuong": "vật lí nhiệt",
+      "dang": "thực tế: nhiệt hóa hơi riêng",
+      "type": "single",
+      "options": [
+        "A. nước trên da bạn đã bay hơi.",
+        "B. nước cách nhiệt tốt hơn không khí.",
+        "C. hơi nước trong không khí bị ngưng tụ trên da bạn.",
+        "D. trong không khí có hơi nước."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Xét hiện tượng xảy ra khi vừa ra khỏi hồ: - Trên da vẫn còn một lớp nước.\n  - Lớp nước này bắt đầu **bay hơi** vào không khí.\n- Nhắc lại kiến thức vật lí: - Quá trình bay hơi là quá trình chất lỏng chuyển thành hơi.\n  - Để bay hơi, nước phải **thu nhiệt**.\n- Nhiệt đó lấy từ đâu? - Nhiệt được lấy từ da và vùng không khí sát da.\n  - Vì da mất nhiệt nên nhiệt độ da giảm xuống.\n  - Do đó ta có cảm giác lạnh.\n- Xét các phương án: - **A. nước trên da bạn đã bay hơi.** - Đây là giải thích đúng vì sự bay hơi làm nước lấy nhiệt từ da.\n  - **B. nước cách nhiệt tốt hơn không khí.** - Không phải nguyên nhân chính gây cảm giác lạnh khi vừa ra khỏi nước.\n  - **C. hơi nước trong không khí bị ngưng tụ trên da bạn.** - Ngưng tụ là quá trình **tỏa nhiệt**, nếu xảy ra thì không làm da lạnh đi theo cách giải thích chính ở đây.\n  - **D. trong không khí có hơi nước.** - Đây chỉ là một đặc điểm của không khí, không trực tiếp giải thích vì sao cơ thể bị mất nhiệt.\n- Kết luận: - Cảm giác lạnh xuất hiện vì **nước còn trên da bay hơi và thu nhiệt từ da**.\n✅ **Đáp án:** A."
+    },
+    {
+      "id": 11,
+      "content": "Vật liệu nào sau đây là hiệu quả nhất khi được sử dụng để che chắn phóng xạ $\\gamma$?",
+      "chuong": "vật lí hạt nhân",
+      "dang": "thực tế: hiện tượng phóng xạ",
+      "type": "single",
+      "options": [
+        "A. Giấy.",
+        "B. Gỗ.",
+        "C. Chì.",
+        "D. Nhôm."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Tia phóng xạ gồm các loại quen thuộc như alpha, beta, gamma.\n- Trong đó: - Tia alpha dễ bị chặn bởi tờ giấy.\n  - Tia beta bị chặn bởi lá nhôm mỏng.\n  - Tia gamma khó chặn nhất, cần vật liệu dày và nặng như chì hoặc bê tông dày.\n- Xét từng phương án: - A. Giấy: không thể chắn tia gamma hiệu quả.\n  - B. Gỗ: có thể làm suy giảm rất ít, không phải vật liệu hiệu quả nhất.\n  - C. Chì: là vật liệu rất hiệu quả để che chắn tia gamma.\n  - D. Nhôm: tốt hơn giấy nhưng vẫn không hiệu quả bằng chì đối với tia gamma.\n- Vậy phương án đúng là **chì**.\n✅ **Đáp án:** C."
+    },
+    {
+      "id": 12,
+      "content": "Ngày xưa để tạo ra lửa, người xưa thường dùng hai vật liệu khô, thường là gỗ, để tạo ma sát mạnh, làm nóng lên đến mức làm cháy các mẩu gỗ nhỏ tạo thành các tàn lửa. Có hai kỹ thuật chính: – Dùi xoay tay: Dùng một que gỗ cứng xoay nhanh trong một lỗ trên miếng gỗ mềm hơn. – Cách thứ hai dùng cung khoan lửa: Dùng một cây cung nhỏ buộc dây cung quanh que gỗ, rồi kéo qua lại để que xoay nhanh và ổn định hơn. Sau khi có tàn lửa, họ thổi nhẹ vào bùi nhùi (cỏ khô, vỏ cây, mùn cưa) để nhóm thành lửa thật. Cách tạo ra lửa bằng cách này là quá trình",
+      "chuong": "vật lí nhiệt",
+      "dang": "thực tế: nội năng. định luật i của nhiệt động lực học",
+      "type": "single",
+      "options": [
+        "A. truyền nhiệt làm sinh công và biến đổi nội năng.",
+        "B. truyền nhiệt và thực hiện công để biến đổi nội năng.",
+        "C. thực hiện công làm tỏa nhiệt và biến đổi nội năng.",
+        "D. thực hiện công làm biến đổi nội năng và phát ra điện năng."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Khi cọ xát hai thanh gỗ, ta phải dùng lực làm cho chúng chuyển động tương đối với nhau. Như vậy, con người đã **thực hiện công** lên miếng gỗ.\n- Do có ma sát, cơ năng chuyển hóa thành nhiệt năng, làm cho nhiệt độ chỗ tiếp xúc tăng lên. Điều này chứng tỏ **nội năng của gỗ tăng**.\n- Vậy đây là quá trình **thực hiện công để làm thay đổi nội năng**, đồng thời nhiệt tỏa ra làm gỗ bén cháy.\n- Xét các phương án: - **A**: “truyền nhiệt làm sinh công và biến đổi nội năng” → sai, vì ở đây nguyên nhân chính không phải là truyền nhiệt từ vật khác sang.\n  - **B**: “truyền nhiệt và thực hiện công để biến đổi nội năng” → sai, vì bản chất chính của hiện tượng là **ma sát do thực hiện công**, không phải nhận nhiệt từ ngoài.\n  - **C**: “thực hiện công làm tỏa nhiệt và biến đổi nội năng.” → đúng, vì cọ xát là thực hiện công, làm vật nóng lên và nội năng thay đổi.\n  - **D**: “thực hiện công làm biến đổi nội năng và phát ra điện năng.” → sai, vì không có sự phát ra điện năng trong hiện tượng này.\n✅ **Đáp án:** C."
+    },
+    {
+      "id": 13,
+      "content": "Chất phóng xạ X có hằng số phóng xạ $\\lambda$. Ban đầu ($t = 0$), một mẫu có $N_0$ hạt nhân X. Tại thời điểm t, số hạt nhân X còn lại trong mẫu là",
+      "chuong": "vật lí hạt nhân",
+      "dang": "lý thuyết: hiện tượng phóng xạ",
+      "type": "single",
+      "options": [
+        "A. $N = N_0 e^{\\lambda t}$",
+        "B. $N = N \\lambda e^{t}$",
+        "C. $N = N_0 e^{-\\lambda t}$",
+        "D. $N = N N_0 e^{t}$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Theo kiến thức Vật lí phổ thông, quá trình phóng xạ tuân theo định luật:\n$N = N_0 e^{-\\lambda t}$\n- Trong đó: - $N_0$ là số hạt nhân ban đầu.\n  - $N$ là số hạt nhân còn lại sau thời gian $t$.\n  - $\\lambda$ là hằng số phóng xạ.\n- Xét các phương án: - Phương án A: $N = N_0 e^{\\lambda t}$\nCông thức này làm cho $N$ tăng theo thời gian, trái với bản chất phóng xạ nên sai.\n  - Phương án B: $N = N\\lambda e^t$\nCông thức này không đúng dạng của định luật phóng xạ nên sai.\n  - Phương án D: $N = N N_0 e^t$\nCông thức này cũng không đúng về mặt vật lí và toán học nên sai.\n- Vì vậy công thức đúng phải là:\n$N = N_0 e^{-\\lambda t}$\n✅ **Đáp án:** C."
+    },
+    {
+      "id": 14,
+      "content": "Sương muối là hiện tượng thời tiết cực đoan, gây ảnh hưởng đến quá trình sinh trưởng và phát triển của cây trồng. Khi nhiệt độ của hơi nước trong không khí giảm đột ngột xuống dưới \\$0^\\circ C$, hơi nước chuyển từ thể khí sang thể rắn mà không qua thể lỏng. Quá trình chuyển thể này gọi là",
+      "chuong": "vật lí nhiệt",
+      "dang": "lý thuyết: cấu trúc của chất. sự chuyển thể",
+      "type": "single",
+      "options": [
+        "A. sự ngưng kết.",
+        "B. sự ngưng tụ.",
+        "C. sự thăng hoa.",
+        "D. sự nóng chảy."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Hơi nước ban đầu ở **thể khí**.\n- Khi nhiệt độ xuống rất thấp, dưới \\$0^\\circ C$, hơi nước không tạo thành nước lỏng mà tạo thành tinh thể băng trắng bám trên cây cối.\n- Như vậy, đây là quá trình chuyển **trực tiếp từ khí sang rắn**.\n- Theo kiến thức Vật lí phổ thông: - Khí $\\rightarrow$ lỏng: **ngưng tụ**.\n  - Rắn $\\rightarrow$ khí: **thăng hoa**.\n  - Rắn $\\rightarrow$ lỏng: **nóng chảy**.\n  - Khí $\\rightarrow$ rắn: **ngưng kết**.\n- Do đó, hiện tượng tạo sương muối là **sự ngưng kết**, không phải ngưng tụ vì không hề qua thể lỏng.\n✅ **Đáp án:** A."
+    },
+    {
+      "id": 15,
+      "content": "Trong quá trình hít vào, để không khí có thể tràn từ môi trường vào phổi, cơ thể người phải thực hiện một bước trung gian là hạ thấp áp suất khí trong phổi xuống dưới áp suất khí quyển. Giả sử tại một thời điểm, phổi đang chứa \\$6000 \\text{ ml}$ khí ở áp suất \\$1 \\text{ atm}$. Nếu người giữ mũi và miệng đóng lại, các cơ hô hấp giãn ra làm thể tích khoang ngực tăng thêm \\$500 \\text{ ml}$ thì áp suất trong phổi lúc đó là bao nhiêu? Xem nhiệt độ không khí không đổi",
+      "chuong": "khí lí tưởng",
+      "dang": "thực tế: định luật boyle",
+      "type": "single",
+      "options": [
+        "A. 0,92 atm.",
+        "B. 1,2 atm.",
+        "C. 0,85 atm.",
+        "D. 1,08 atm."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Phổi ban đầu chứa \\$6000 \\text{ ml}$ khí.\n- Áp suất ban đầu của khí trong phổi là \\$1 \\text{ atm}$.\n- Miệng và mũi đóng lại nên lượng khí trong phổi *không đổi*.\n- Thể tích khoang ngực tăng thêm \\$500 \\text{ ml}$ nên thể tích mới của khí là:\n$V_2 = 6000 + 500 = 6500 \\text{ ml}$\n- Nhiệt độ không đổi.\n🔎 **Hướng dẫn cách làm:**\n- Vì người giữ mũi và miệng đóng lại nên không có khí ra vào phổi, tức là lượng khí không đổi.\n- Nhiệt độ không đổi nên dùng công thức:\n$p_1V_1 = p_2V_2$\n- Thay số vào:\n\\$1 \\cdot 6000 = p_2 \\cdot 6500$\n- Suy ra:\n$p_2 = \\frac{6000}{650}0} \\text{ atm}$\n- Tính được:\n$p_2 \\approx 0{,}923 \\text{ atm} \\approx 0{,}92 \\text{ atm}$\n- Vậy áp suất trong phổi giảm xuống còn \\$0{,}92 \\text{ atm}$, nhỏ hơn áp suất khí quyển, nên không khí có xu hướng đi vào phổi.\n✅ **Đáp án:** A."
+    },
+    {
+      "id": 16,
+      "content": "Kích thích từ trường xuyên sọ (Transcranial Magnetic Stimulation, viết tắt là TMS) là một phương pháp điều trị kích thích não bộ không xâm lấn, sử dụng từ trường để tác động lên một số vùng nhất định trong não có liên quan đến các tình trạng như trầm cảm và điều chỉnh cảm xúc. Trong phương pháp điều trị TMS, cuộn dây từ trường được sử dụng để tạo ra một từ trường mạnh mẽ và ngắn hạn, xuyên qua da và sọ mà không gây ra sự suy giảm đáng kể. Khi cuộn dây này được kích hoạt, nó sẽ tạo ra một dòng điện trong các mô thần kinh, kích thích các tế bào thần kinh tại các vùng cụ thể của não. Khi một vòng dây TMS được kích hoạt, nó tạo ra từ trường có độ lớn cảm ứng từ \\$1,8 \\text{ T}$, từ trường này gây ra cho dây thần kinh có chiều dài \\$2 \\text{ mm}$ một dòng điện cảm ứng \\$2,5 \\text{ mA}$. Độ lớn lực từ lớn nhất do từ trường của vòng dây TMS tác dụng lên dây thần kinh trên là",
+      "chuong": "từ trường",
+      "dang": "thực tế: lực từ. cảm ứng từ",
+      "type": "single",
+      "options": [
+        "A. 0,09 N.",
+        "B. 9 N.",
+        "C. \\$9.10^{-6} \\text{ N}.$",
+        "D. \\$9.10^{-3} \\text{ N}.$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Áp dụng công thức lực từ lớn nhất:\n$F_{\\max} = BIl$\n- Thay số vào:\n$F_{\\max} = 1{,}8 \\cdot 2{,}5 \\cdot 10^{-3} \\cdot 2 \\cdot 10^{-3}$\n- Nhân các số:\n\\$1{,}8 \\cdot 2{,}5 \\cdot 2 = 9$\n- Nhân các lũy thừa của 10:\n\\$10^{-3}\\cdot 10^{-3} = 10^{-6}$\n- Suy ra:\n$F_{\\max} = 9 \\cdot 10^{-6}\\,\\text{N}$\n- So sánh với các phương án: - A: \\$0{,}09\\,\\text{N}$, sai.\n  - B: \\$9\\,\\text{N}$, sai.\n  - C: \\$9 \\cdot 10^{-6}\\,\\text{N}$, đúng.\n  - D: \\$9 \\cdot 10^{-3}\\,\\text{N}$, sai.\n✅ **Đáp án:** C."
+    },
+    {
+      "id": 17,
+      "content": "Phát biểu nào sau đây về phản ứng nhiệt hạch là sai?",
+      "chuong": "vật lí hạt nhân",
+      "dang": "lý thuyết: năng lượng liên kết & phản ứng hạt nhân",
+      "type": "single",
+      "options": [
+        "A. Phản ứng nhiệt hạch là nguồn gốc năng lượng của Mặt Trời và các ngôi sao.",
+        "B. Phản ứng nhiệt hạch xảy ra ở nhiệt độ rất cao, cỡ hàng trăm triệu độ.",
+        "C. Phản ứng nhiệt hạch là quá trình tổng hợp các hạt nhân trung bình thành các hạt nhân nặng hơn.",
+        "D. Phản ứng nhiệt hạch toả năng lượng."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- **Phản ứng nhiệt hạch** là phản ứng trong đó các **hạt nhân nhẹ** kết hợp với nhau tạo thành hạt nhân nặng hơn.\n- Ví dụ quen thuộc: - Các đồng vị của hiđrô như đơteri và triti kết hợp tạo thành heli:\n  - $\\, ^2_1H +\\, ^3_1H \\rightarrow \\, ^4_2He +\\, ^1_0n + \\text{năng lượng}$\n- Từ ví dụ trên, ta thấy: - Phản ứng nhiệt hạch là sự **tổng hợp các hạt nhân nhẹ**, không phải các hạt nhân trung bình.\n  - Phản ứng này **toả năng lượng**, nên phát biểu D đúng.\n- Xét từng phương án: - **A đúng** vì năng lượng của Mặt Trời và các ngôi sao có nguồn gốc từ phản ứng nhiệt hạch.\n  - **B đúng** vì phản ứng nhiệt hạch chỉ xảy ra ở nhiệt độ rất cao, thường cỡ hàng triệu đến hàng trăm triệu độ.\n  - **D đúng** vì phản ứng nhiệt hạch giải phóng năng lượng rất lớn.\n  - **C sai** vì phản ứng nhiệt hạch không phải là quá trình tổng hợp các hạt nhân trung bình, mà là quá trình tổng hợp **các hạt nhân nhẹ** thành hạt nhân nặng hơn.\n- Vậy phát biểu sai là phương án nói sai bản chất của phản ứng nhiệt hạch.\n✅ **Đáp án:** C."
+    },
+    {
+      "id": 18,
+      "content": "Nếu cùng một lượng khí nitrogen và oxygen được giữ ở cùng một nhiệt độ, so sánh tốc độ căn quân phương của các phân tử khí, ta thấy",
+      "chuong": "khí lí tưởng",
+      "dang": "lý thuyết: áp suất khí theo mô hình động học phân tử. quan hệ giữa động năng phân tử và nhiệt độ",
+      "type": "single",
+      "options": [
+        "A. tốc độ căn quân phương của nitrogen lớn hơn vì khối lượng phân tử của nitrogen nhỏ hơn.",
+        "B. tốc độ căn quân phương của oxygen lớn hơn vì khối lượng phân tử của oxygen lớn hơn.",
+        "C. tốc độ căn quân phương của chúng bằng nhau vì động năng tịnh tiến trung bình của chúng bằng nhau.",
+        "D. không thể so sánh được vì chưa biết áp suất của mỗi khí."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Ta dùng công thức:\n$\\overline{v}=\\sqrt{\\dfrac{3kT}{m}}$\nTrong đó: - $T$ là nhiệt độ tuyệt đối,\n  - $m$ là khối lượng của một phân tử khí.\n  - $\\overline{v}$: tốc độ căn quân phương.\n- Vì hai khí ở **cùng nhiệt độ**, nên \\$3kT$ là như nhau đối với cả nitrogen và oxygen.\n- Khi đó, việc so sánh tốc độ chỉ còn phụ thuộc vào khối lượng phân tử:\n$v_{rms}\\sim \\dfrac{1}{\\sqrt{m}}$\n- So sánh khối lượng phân tử: - Nitrogen: $N_2$ có phân tử khối \\$28$\n  - Oxygen: $O_2$ có phân tử khối \\$32$\n- Vì:\n\\$28 < 32$\nnên phân tử $N_2$ nhẹ hơn phân tử $O_2$.\n- Do tốc độ căn quân phương tỉ lệ nghịch với căn bậc hai của khối lượng phân tử, nên:\n$\\overline{v}(N_2)>\\overline{v}(O_2)$\n- Xét các phương án: - **A** đúng vì nitrogen có khối lượng phân tử nhỏ hơn nên tốc độ căn quân phương lớn hơn.\n  - **B** sai vì khối lượng lớn hơn thì tốc độ phải nhỏ hơn.\n  - **C** sai vì dù động năng tịnh tiến trung bình bằng nhau, tốc độ vẫn còn phụ thuộc vào khối lượng phân tử.\n  - **D** sai vì không cần biết áp suất vẫn so sánh được khi đã biết cùng nhiệt độ.\n✅ **Đáp án:** A."
+    }
+  ]
+}

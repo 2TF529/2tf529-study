@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-5-10-bai-tap-viet-phuong-trinh-mat-phang-di-qua-3-diem-khong-than",
+  "sourceId": "vietjack:5-10-bai-tap-viet-phuong-trinh-mat-phang",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "5.10 bài tập Viết phương trình mặt phẳng đi qua 3 điểm không thẳng hàng có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Trong không gian Oxyz, cho ba điểm A(3; −2; −2), B(3; 2; 0), C(0; 2; 1). Phương trình mặt phẳng (ABC) là",
+      "options": [
+        "A. 2x – 3y + 6z = 0;",
+        "B. 4y + 2z – 3 = 0;",
+        "C. 3x + 2y + 1 = 0;",
+        "D. 2y + z – 3 = 0."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có \\(\\overrightarrow {AB} = \\left( {0;4;2} \\right),\\overrightarrow {AC} = \\left( { - 3;4;3} \\right)\\) nên \\(\\left[ {\\overrightarrow {AB} ,\\overrightarrow {AC} } \\right] = \\left( {4; - 6;12} \\right) = 2\\left( {2; - 3;6} \\right)\\). Khi đó mặt phẳng (ABC) đi qua A(3; −2; −2) và có vectơ pháp tuyến \\(\\overrightarrow n = \\left( {2; - 3;6} \\right)\\) có phương trình là 2x – 3y + 6z = 0."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Trong không gian Oxyz, cho 3 điểm A(0; 2; 1); B(3; 0; 1); C(1; 0; 1). Phương trình mặt phẳng (ABC) là:\\(\\)\\(\\)",
+      "options": [
+        "A. z – 1 = 0;",
+        "B. x – 1 = 0;",
+        "C. y – 1 = 0;",
+        "D. 4x + 6y – 8z + 2 = 0."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có \\(\\overrightarrow {AB} = \\left( {3; - 2;0} \\right),\\overrightarrow {AC} = \\left( {1; - 2;0} \\right)\\). Vectơ pháp tuyến của mặt phẳng (ABC) là \\(\\overrightarrow n = \\left[ {\\overrightarrow {AB} ,\\overrightarrow {AC} } \\right] = \\left( {0;0; - 4} \\right)\\). Vậy phương trình mặt phẳng (ABC) là −4(z – 1) = 0 z – 1 = 0."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trong không gian Oxyz, cho ba điểm M(3; 0; 0), N(0; −2; 0) và P(0; 0; 2). Mặt phẳng (MNP) có phương trình là:",
+      "options": [
+        "A. \\(\\frac{x}{3} + \\frac{y}{{ - 2}} + \\frac{z}{2} = - 1\\);",
+        "B. \\(\\frac{x}{3} + \\frac{y}{{ - 2}} + \\frac{z}{2} = 0\\);",
+        "C. \\(\\frac{x}{3} + \\frac{y}{2} + \\frac{z}{{ - 2}} = 1\\);",
+        "D. \\(\\frac{x}{3} + \\frac{y}{{ - 2}} + \\frac{z}{2} = 1\\)."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Mặt phẳng (MNP) có phương trình là \\(\\frac{x}{3} + \\frac{y}{{ - 2}} + \\frac{z}{2} = 1\\)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Trong không gian Oxyz, cho ba điểm O(0; 0; 0), A(0; 1; 0), B(0; 0; 1). Phương trình mặt phẳng (OAB) là",
+      "options": [
+        "A. x = 0;",
+        "B. y = 1;",
+        "C. z = 1;",
+        "D. y + z = 0."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có \\(\\overrightarrow {OA} = \\left( {0;1;0} \\right),\\overrightarrow {OB} = \\left( {0;0;1} \\right)\\). Vectơ pháp tuyến của mặt phẳng (OAB) là \\(\\overrightarrow n = \\left[ {\\overrightarrow {OA} ,\\overrightarrow {OB} } \\right] = \\left( {1;0;0} \\right)\\). Vậy phương trình mặt phẳng (OAB) là x = 0."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Trong không gian Oxyz, cho 3 điểm A(5; 0; 0), B(0; 3; 0), C(4; 5; 0). Phương trình mặt phẳng (ABC) là",
+      "options": [
+        "A. z = 0;",
+        "B. y = 3;",
+        "C. −x + 2y = 0;",
+        "D. x = 4."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có \\(\\overrightarrow {AB} = \\left( { - 5;3;0} \\right),\\overrightarrow {AC} = \\left( { - 1;5;0} \\right)\\). Vectơ pháp tuyến của mặt phẳng (ABC) là \\(\\overrightarrow n = \\left[ {\\overrightarrow {AB} ,\\overrightarrow {AC} } \\right] = \\left( {0;0; - 22} \\right)\\). Vậy phương trình mặt phẳng (ABC) là 0(x – 5) + 0(y – 0) – 22z = 0 z = 0."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong không gian Oxyz, cho A(1; 0; 0), B(0; b; 0), C(0; 0; c) với bc ≠ 0. Khi đó phương trình mặt phẳng (ABC) là",
+      "options": [
+        "A. \\(\\frac{x}{1} + \\frac{y}{b} + \\frac{z}{c} = 0\\);",
+        "B. \\(\\frac{x}{1} - \\frac{y}{b} - \\frac{z}{c} = 0\\);",
+        "C. \\(\\frac{x}{1} + \\frac{y}{b} + \\frac{z}{c} = 1\\);",
+        "D. \\(\\frac{x}{1} - \\frac{y}{b} - \\frac{z}{c} = 0\\)."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Phương trình mặt phẳng (ABC) là \\(\\frac{x}{1} + \\frac{y}{b} + \\frac{z}{c} = 1\\)."
+    }
+  ]
+}

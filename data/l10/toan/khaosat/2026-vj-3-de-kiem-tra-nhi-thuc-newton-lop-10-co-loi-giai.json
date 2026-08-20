@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-3-de-kiem-tra-nhi-thuc-newton-lop-10-co-loi-giai",
+  "sourceId": "vietjack:3-de-kiem-tra-nhi-thuc-newton-lop-10-co-",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.Đề kiểm tra Nhị thức Newton lớp 10 (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Có bao nhiêu số hạng trong khai triển nhị thức \\({\\left( {6x + 1} \\right)^4}\\)?",
+      "options": [
+        "A. \\(7\\).",
+        "B. \\(6\\).",
+        "C. \\(5\\).",
+        "D. \\(4\\)."
+      ],
+      "answer": "C",
+      "note": "Ta có \\({\\left( {6x + 1} \\right)^4} = C_4^0{\\left( {6x} \\right)^4} + C_4^1{\\left( {6x} \\right)^3} + C_4^2{\\left( {6x} \\right)^2} + C_4^3{\\left( {6x} \\right)^1} + C_4^4.\\) Vậy có \\(5\\) số hạng."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Trong khai triển nhị thức Newton của \\({\\left( {a + b} \\right)^4}\\), mỗi số hạng trong khai triển có tổng số mũ của \\(a\\) và \\(b\\) bằng?",
+      "options": [
+        "A. \\(4\\).",
+        "B. \\(3\\).",
+        "C. \\(2\\).",
+        "D. \\(5\\)."
+      ],
+      "answer": "A",
+      "note": "Trong khai triển nhị thức Newton của \\({\\left( {a + b} \\right)^4}\\) mỗi số hạng trong khai triển có tổng số mũ của \\(a\\) và \\(b\\) bằng \\(4\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho khai triển theo lũy thừa giảm dần của \\(x\\) trong nhị thức \\[x{\\left( {2x - y} \\right)^4}\\]. Ba số hạng đầu của khai triển là",
+      "options": [
+        "A. \\[16{x^5};\\,32{x^4}y\\, & ;\\,24{x^3}{y^2}\\].",
+        "B. \\[16{x^5};\\, - 32{x^4}y\\, & ;\\,24{x^3}{y^2}\\].",
+        "C. \\[{x^5};\\, - 8{x^4}y\\, & ;\\,24{x^3}{y^2}\\].",
+        "D. \\[16{x^5};\\, - 8{x^4}y\\, & ;\\,32{x^3}{y^2}\\]."
+      ],
+      "answer": "B",
+      "note": "Ta có: \\[\\begin{array}{l}x{\\left( {2x - y} \\right)^4} = x\\left( {C_4^0{{\\left( {2x} \\right)}^4} + C_4^1{{\\left( {2x} \\right)}^3}\\left( { - y} \\right) + C_4^2{{\\left( {2x} \\right)}^2}{{\\left( { - y} \\right)}^2} + C_4^3\\left( {2x} \\right){{\\left( { - y} \\right)}^3} + C_4^4{{\\left( { - y} \\right)}^4}} \\right)\\\\\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\, = x\\left( {16{x^4} - 32{x^3}y + 24{x^2}{y^2} - 8x{y^3} + {y^4}} \\right)\\\\\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\, = 16{x^5} - 32{x^4}y + 24{x^3}{y^2} - 8{x^2}{y^3} + x{y^4}\\end{array}\\]."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Khai triển \\(P\\left( x \\right) = {\\left( {2x + 1} \\right)^4} - {\\left( {2x - 1} \\right)^4} = {a_0} + {a_1}{x^1} + {a_2}{x^2} + {a_3}{x^3} + {a_4}{x^4}\\). Giá trị của \\({a_3}\\) bằng",
+      "options": [
+        "A. \\(0\\).",
+        "B. 16.",
+        "C. \\(32\\).",
+        "D. \\(64\\)."
+      ],
+      "answer": "D",
+      "note": "Ta có \\(P\\left( x \\right) = {\\left( {2x + 1} \\right)^4} - {\\left( {2x - 1} \\right)^4}\\) \\( = \\left[ {C_4^0{{(2x)}^4} + C_4^1{{(2x)}^3} + C_4^2{{(2x)}^2} + C_4^3(2x) + C_4^4} \\right] - \\left[ {C_4^0{{(2x)}^4} - C_4^1{{(2x)}^3} + C_4^2{{(2x)}^2} - C_4^3(2x) + C_4^4} \\right]\\)\\( = 16x + 64{x^3}\\). Vậy hệ số \\({a_3} = 64\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Viết khai triển theo công thức nhị thức Niu-tơn của biểu thức \\({\\left( {x + y} \\right)^5}\\).",
+      "options": [
+        "A. \\({x^5} + 10{x^4}y + 5{x^3}{y^2} + 5{x^2}{y^3} + 10x{y^4} + {y^5}\\).",
+        "B. \\({x^5} - 5{x^4}y + 10{x^3}{y^2} - 10{x^2}{y^3} + 5x{y^4} - {y^5}\\).",
+        "C. \\({x^5} - 5{x^4}y - 10{x^3}{y^2} - 10{x^2}{y^3} - 5x{y^4} + {y^5}\\).",
+        "D. \\({x^5} + 5{x^4}y + 10{x^3}{y^2} + 10{x^2}{y^3} + 5x{y^4} + {y^5}\\)."
+      ],
+      "answer": "D",
+      "note": "\\({\\left( {x + y} \\right)^5} = C_5^0{x^5} + C_5^1{x^4}y + C_5^2{x^3}{y^2} + C_5^3{x^2}{y^3} + C_5^4x{y^4} + C_5^5{y^5} = {x^5} + 5{x^4}y + 10{x^3}{y^2} + 10{x^2}{y^3} + 5x{y^4} + {y^5}\\)"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Khai triển nhị thức \\(P\\left( x \\right) = {\\left( {{x^2} + \\frac{1}{2}} \\right)^5}\\) ta được",
+      "options": [
+        "A. \\[C_5^0.{x^{10}} - C_5^1.{x^8}.\\frac{1}{2} + C_5^2.{x^6}.{\\left( {\\frac{1}{2}} \\right)^2} - C_5^3.{x^4}.{\\left( {\\frac{1}{2}} \\right)^3} + C_5^4.{x^2}.{\\left( {\\frac{1}{2}} \\right)^4} - C_5^5.{\\left( {\\frac{1}{2}} \\right)^5}\\].",
+        "B. \\[C_5^0.{x^{10}} + C_5^1.{x^8}.2 + C_5^2.{x^6}{.2^2} + C_5^3.{x^4}{.2^3} + C_5^4.{x^2}{.2^4} + C_5^5{.2^5}\\].",
+        "C. \\[C_5^0.{x^{10}} + C_5^1.{x^8}.\\frac{1}{2} + C_5^2.{x^6}.{\\left( {\\frac{1}{2}} \\right)^2} + C_5^3.{x^4}.{\\left( {\\frac{1}{2}} \\right)^3} + C_5^4.{x^2}.{\\left( {\\frac{1}{2}} \\right)^4} + C_5^5.{\\left( {\\frac{1}{2}} \\right)^5}\\].",
+        "D. \\[C_5^0.{x^{10}} - C_5^1.{x^8}.2 + C_5^2.{x^6}{.2^2} - C_5^3.{x^4}{.2^3} + C_5^4.{x^2}{.2^4} - C_5^5{.2^5}\\]."
+      ],
+      "answer": "C",
+      "note": "Xét khai triển nhị thức \\[P\\left( x \\right) = {\\left( {{x^2} + \\frac{1}{2}} \\right)^5} = \\sum\\limits_{k = 0}^5 {C_5^k{{\\left( {{x^2}} \\right)}^{5 - k}}{{\\left( {\\frac{1}{2}} \\right)}^k}} = \\sum\\limits_{k = 0}^5 {C_5^k{x^{10 - k}}{{\\left( {\\frac{1}{2}} \\right)}^k}} \\] \\[ = C_5^0.{x^{10}} + C_5^1.{x^8}.\\frac{1}{2} + C_5^2.{x^6}.{\\left( {\\frac{1}{2}} \\right)^2} + C_5^3.{x^4}.{\\left( {\\frac{1}{2}} \\right)^3} + C_5^4.{x^2}.{\\left( {\\frac{1}{2}} \\right)^4} + C_5^5.{\\left( {\\frac{1}{2}} \\right)^5}\\]."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Xác định hệ số của \\({x^3}\\) trong khai triển biểu thức \\({\\left( {x + 1} \\right)^4}\\).",
+      "options": [
+        "A. \\(4\\).",
+        "B. \\(6\\).",
+        "C. \\(1\\).",
+        "D. \\( - 4\\)."
+      ],
+      "answer": "A",
+      "note": "Ta có hệ số của \\({x^3}\\) trong khai triển biểu thức \\({\\left( {x + 1} \\right)^4}\\)là \\[C_4^3 = 4\\]."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Hệ số của số hạng chứa \\({x^2}\\) trong khai triển biểu thức \\({\\left( {3x - 2} \\right)^4}\\)bằng",
+      "options": [
+        "A. \\(216\\).",
+        "B. \\( - 216\\).",
+        "C. \\(316\\).",
+        "D. \\( - 316\\)."
+      ],
+      "answer": "A",
+      "note": "Ta có: \\({\\left( {3x - 2} \\right)^4} = {\\left( { - 2 + 3x} \\right)^4}.\\) Số hạng tổng quát trong khai triển là: \\({T_{k + 1}} = C_4^k{\\left( { - 2} \\right)^{4 - k}}.{\\left( {3x} \\right)^k} = C_4^k.{\\left( { - 2} \\right)^{4 - k}}{3^k}{x^k}\\), (\\(0 \\le k \\le 4,\\,k \\in \\mathbb{N}\\)). Hệ số của \\({x^2}\\) là: \\(C_4^2.{\\left( { - 2} \\right)^2}{.3^2} = 216\\)."
+    }
+  ]
+}

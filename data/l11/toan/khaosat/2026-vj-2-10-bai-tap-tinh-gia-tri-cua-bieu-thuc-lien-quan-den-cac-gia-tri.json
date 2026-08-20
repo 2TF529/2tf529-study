@@ -1,0 +1,78 @@
+{
+  "id": "2026-vj-2-10-bai-tap-tinh-gia-tri-cua-bieu-thuc-lien-quan-den-cac-gia-tri",
+  "sourceId": "vietjack:2-10-bai-tap-tinh-gia-tri-cua-bieu-thuc-",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.10 Bài tập Tính giá trị của biểu thức liên quan đến các giá trị lượng giác",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho x = 30°. Khi đó giá trị của biểu thức A = sin 2x – 3cos x là:",
+      "options": [
+        "A. 3;",
+        "B. 3 ;",
+        "C. - 3 ;",
+        "D. 2 2 ."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là: C Thay x = 30° vào biểu thức A ta có: A = sin (2.30°) – 3cos 30° = sin 60° – 3cos 30° = 3 2 – 3. 3 2 = – 3 ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho α + β = π. Khi đó biểu thức A = sin 2 (π – β) + cos 2 (π – α) là:",
+      "options": [
+        "A. 1;",
+        "B. 2;",
+        "C. – 1;",
+        "D. – 2."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A Ta có: α + β = π ⇒ α = π – β. Do đó A = sin 2 (π – β) + cos 2 (π – α) = (sin α) 2 + (– cos α) 2 = sin 2 α + cos 2 α = 1."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho sin x = 1 4 . Biểu thức A = 4 3 sin 2 α + c os 2 α = a b (với (a, b) = 1). Khi đó giá trị của a – b là:",
+      "options": [
+        "A. 2;",
+        "B. 1;",
+        "C. 3;",
+        "D. 4."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải Đáp án đúng là: B Ta có: sin 2 x + cos 2 x = 1 ⇒ cos 2 x = 1 – sin 2 x = 1 − 1 16 = 15 16 . Do đó A = 4 3 . 1 16 + 15 16 = 49 48 . Như vậy a = 49, b = 48 ⇒ a – b = 1."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho tan α = \\(\\sqrt 3 \\) . Biểu thức P = 2sin 2 α + cos 2 α có giá trị bằng",
+      "options": [
+        "A. \\(\\frac{4}{5}\\) ;",
+        "B. \\(\\frac{5}{4}\\) ;",
+        "C. \\(\\frac{7}{4}\\) ;",
+        "D. \\(\\frac{7}{3}\\) ."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là: C Ta có: 1 + tan 2 α = \\(\\frac{1}{{{\\rm{co}}{{\\rm{s}}^2}\\alpha }}\\) ⇒ cos 2 α = \\(\\frac{1}{{1 + {{\\tan }^2}\\alpha }}\\) = \\(\\frac{1}{{1 + {{\\left( {\\sqrt 3 } \\right)}^2}}} = \\frac{1}{4}\\) . Mà sin 2 α + cos 2 α = 1 ⇒ \\({\\sin ^2}\\alpha = 1 - c{\\rm{o}}{{\\rm{s}}^2}\\alpha = 1 - \\frac{1}{4} = \\frac{3}{4}\\) . Do đó P = 2. \\(\\frac{3}{4}\\) + \\(\\frac{1}{4}\\) = \\(\\frac{7}{4}\\) ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho sin α = \\(\\frac{2}{3}\\) biết 90° < α < 180°. Đáp án nào sau đây là đúng ?",
+      "options": [
+        "A. 4sin 2 α + 2cos 2 α = 3;",
+        "B. 4sin 2 α + 2cos 2 α = – 3;",
+        "C. 4sin α + 2cos α = \\(\\frac{{8 - 2\\sqrt 5 }}{3}\\) ;",
+        "D. 4sin α + 2cos α = \\(\\frac{{8 + 2\\sqrt 5 }}{3}\\)."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là: C Ta có: sin 2 α + cos 2 α = 1 ⇒ cos 2 α = 1 – sin 2 α. ⇒ cos α = \\( \\pm \\sqrt {1 - {{\\sin }^2}\\alpha } = \\pm \\sqrt {1 - {{\\left( {\\frac{2}{3}} \\right)}^2}} = \\pm \\frac{{\\sqrt 5 }}{3}.\\) Mà 90° < α < 180° nên cos α < 0 ⇒ cos α = \\( - \\frac{{\\sqrt 5 }}{3}\\) . Do đó 4sin 2 α + 2cos 2 α = \\(4.{\\left( {\\frac{2}{3}} \\right)^2} + 2.{\\left( { - \\frac{{\\sqrt 5 }}{3}} \\right)^2} = \\frac{{26}}{9};\\) 4sin α + 2cos α = \\(4.\\frac{2}{3} + 2.\\left( { - \\frac{{\\sqrt 5 }}{3}} \\right) = \\frac{{8 - 2\\sqrt 5 }}{3}.\\)"
+    }
+  ]
+}

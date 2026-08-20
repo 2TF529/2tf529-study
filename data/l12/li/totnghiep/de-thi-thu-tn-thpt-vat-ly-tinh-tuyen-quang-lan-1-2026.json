@@ -1,0 +1,286 @@
+{
+  "id": "l12-li-totnghiep-2026-de-thi-thu-tn-thpt-vat-ly-tinh-tuyen-quang-lan-1-2026",
+  "grade": "l12",
+  "subjectSlug": "li",
+  "examType": "totnghiep",
+  "year": 2026,
+  "code": "THPT_TTL_TQ_2026_01",
+  "title": "Đề thi thử tốt nghiệp THPT môn Vật Lý Sở GD&ĐT Tuyên Quang lần 1 năm 2026",
+  "duration": 50,
+  "answerSource": "official",
+  "source": "https://dolthpt.vn/tot-nghiep-thpt/pdf-de-thi-thu-tn-thpt-vat-ly-tinh-tuyen-quang-lan-1-2026-co-dap-an",
+  "notes": "Nội dung, đáp án và lời giải được nhập từ bản công khai của DOL THPT.",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "content": "Gọi $P_1, V_1, T_1$ và $P_2, V_2, T_2$ lần lượt là áp suất, thể tích và nhiệt độ tuyệt đối của một lượng khí nhất định ở hai trạng thái (1) và (2). Công thức nào sau đây phù hợp với định luật Boyle?",
+      "chuong": "khí lí tưởng",
+      "dang": "lý thuyết: định luật boyle",
+      "type": "single",
+      "options": [
+        "A. $\\frac{P_1}{T_1} = \\frac{P_2}{T_2}$",
+        "B. $p_1V_2 = p_2V_1$",
+        "C. $\\frac{V_1}{T_1} = \\frac{V_2}{T_2}$",
+        "D. $P_1V_1 = P_2V_2$"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Định luật Boyle: với một lượng khí nhất định ở *nhiệt độ không đổi*, áp suất tỉ lệ nghịch với thể tích, tức là $P \\propto \\frac{1}{V}$.\n- Từ đó suy ra tích áp suất và thể tích là hằng số trong quá trình đẳng nhiệt:\n$P V = \\text{const}.$\n- Do vậy giữa hai trạng thái đẳng nhiệt ta có:\n$P_1V_1 = P_2V_2.$\n- Kiểm tra các phương án: - A: $\\frac{P_1}{T_}1} = \\frac{P_2}{T_}2}$ — đây là luật Gay-Lussac (áp suất tỉ lệ với nhiệt độ khi thể tích cố định), không phải Boyle.\n  - B: $p_1V_2 = p_2V_1$ — chỉ là hoán vị chỉ số, không đúng dạng tương đương với $P_1V_1 = P_2V_2$ (không đúng nói chung).\n  - C: $\\frac{V_1}{T_}1} = \\frac{V_2}{T_}2}$ — đây là định luật Charles (thể tích tỉ lệ với nhiệt độ khi áp suất cố định), không phải Boyle.\n  - D: $P_1V_1 = P_2V_2$ — đúng theo định luật Boyle (đẳng nhiệt).\n✅ **Đáp án:** D."
+    },
+    {
+      "id": 2,
+      "content": "Một mạch điện gồm nguồn điện có suất điện động E, mạch ngoài có biến trở con chạy $R_b$ mắc nối tiếp với ống dây L. Khung dây kín hình tròn đặt gần ống dây. Nhận định nào sau đây về dòng điện cảm ứng trong khung dây là đúng?\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tn-thpt-vat-ly-tinh-tuyen-quang-lan-1-2026/cau-02.webp\" alt=\"Hình minh họa câu 2\" loading=\"lazy\"></figure>",
+      "chuong": "từ trường",
+      "dang": "lý thuyết: từ thông. hiện tượng cảm ứng điện từ",
+      "type": "single",
+      "options": [
+        "A. Khi cố định con chạy thì dòng điện cảm ứng không đổi.",
+        "B. Khi dịch chuyển con chạy trên biến trở sang phía M hoặc N thì không có dòng điện cảm ứng trong khung dây.",
+        "C. Khi dịch chuyển con chạy sang N dòng điện cảm ứng cùng chiều với I trong cuộn dây.",
+        "D. Khi dịch chuyển con chạy sang M dòng điện cảm ứng cùng chiều với I trong cuộn dây."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Khi con chạy dịch chuyển trên biến trở, giá trị hiệu dụng của điện trở mạch ngoài thay đổi nên cường độ dòng qua cuộn dây thay đổi theo công thức sơ bộ:\n$I=\\dfrac{E}{R_{\\text{mạch}}}= \\dfrac{E}{R_{\\text{khác}}+R_b}\\,.$\nNếu khi dịch chuyển con chạy sang phía N làm tăng điện trở hiệu dụng $R_b$ (trường hợp bài cho đúng theo đáp án), thì ta có $I$ giảm.\n- Thông từ xuyên qua khung tỉ lệ với cường độ dòng qua ống dây, tức là\n$\\Phi \\propto I.$\nDo đó nếu $I$ giảm thì $\\Phi$ giảm ⇒ $\\dfrac{d\\Phi}{dt}<0.$\n- Theo định luật Faraday, sẽ xuất hiện suất điện động cảm ứng có giá trị $\\mathcal{E}=\\left|\\dfrac{d\\Phi}{dt}\\right|$; theo quy tắc Lenz, dòng cảm ứng có hướng sao cho từ trường do nó sinh ra ngăn cản sự thay đổi thông từ. Vì thông từ của ống dây đang giảm, dòng cảm ứng phải sinh ra một từ trường cùng chiều với từ trường ban đầu của ống dây (để chống lại sự giảm).\n- Dòng cảm ứng trong khung mà sinh từ trường cùng chiều với từ trường do ống dây sinh ra sẽ có *chiều dòng trong khung giống chiều dòng I trong cuộn dây* (theo quy ước qui tắc nắm tay phải cho cuộn/sinh trường).\n- Kết luận: khi con chạy dịch sang N (làm giảm I), dòng cảm ứng trong khung có chiều **cùng chiều** với I trong cuộn dây. Ngược lại, nếu con chạy sang M làm I tăng thì dòng cảm ứng sẽ có chiều ngược lại với I.\n✅ **Đáp án:** C. Khi dịch chuyển con chạy sang N dòng điện cảm ứng cùng chiều với I trong cuộn dây."
+    },
+    {
+      "id": 3,
+      "content": "Hình bên mô tả thí nghiệm về hiện tượng cảm ứng điện từ, trong đó thanh nam châm thẳng có thể dịch chuyển dọc theo trục của một cuộn dây dẫn theo hướng ra xa hay lại gần cuộn dây dẫn. Khi tăng tốc độ dịch chuyển thanh nam châm, dòng điện cảm ứng chạy trong cuộn dây\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tn-thpt-vat-ly-tinh-tuyen-quang-lan-1-2026/cau-03.webp\" alt=\"Hình minh họa câu 3\" loading=\"lazy\"></figure>",
+      "chuong": "từ trường",
+      "dang": "thí nghiệm: từ thông. hiện tượng cảm ứng điện từ",
+      "type": "single",
+      "options": [
+        "A. có độ lớn tăng lên.",
+        "B. có độ lớn không đổi.",
+        "C. có độ lớn giảm đi.",
+        "D. đảo chiều."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Định luật Faraday cho biết suất điện động cảm ứng trong một vòng kín tỉ lệ với tốc độ biến thiên thông lượng từ qua mặt diện vòng kín:\n$\\mathcal{E} = -\\dfrac{d\\Phi}{dt}$\ntrong đó $\\Phi$ là thông lượng từ qua cuộn dây.\n- Khi ta tăng tốc độ dịch chuyển nam châm thì thông lượng từ qua cuộn dây thay đổi nhanh hơn, tức là giá trị $\\left|\\dfrac{d\\Phi}{dt}\\right|$ tăng lên. Do đó, độ lớn của suất điện động cảm ứng $|\\mathcal{E}|$ tăng lên:\n$|\\mathcal{E}| = \\left|\\dfrac{d\\Phi}{dt}\\right|\\ \\text{tăng khi tốc độ chuyển động tăng.}$\n- Dòng điện cảm ứng I trong cuộn dây tỉ lệ với suất điện động và tỉ lệ nghịch với tổng điện trở mạch theo định luật Ohm:\n$I = \\dfrac{|\\mathcal{E}|}{R}$\nvới R là điện trở của mạch (xem như không đổi khi chỉ thay đổi tốc độ nam châm).\n- Kết luận: nếu $|\\mathcal{E}|$ tăng thì $I$ cũng tăng về độ lớn. (Hướng của dòng dựa vào quy tắc Lenz và tùy thuộc nam châm tiến vào hay ra, nhưng đề bài chỉ hỏi về độ lớn.)\n- Dựa trên mô tả hình: khi nam châm tiến vào/ra nhanh hơn, thay đổi thông lượng lớn hơn, vì vậy kim đo sẽ lệch nhiều hơn — tức là dòng cảm ứng có độ lớn lớn hơn.\n✅ **Đáp án:** A. có độ lớn tăng lên."
+    },
+    {
+      "id": 4,
+      "content": "Hình ảnh từ phổ ống dây cho thấy từ trường đều tồn tại ở\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tn-thpt-vat-ly-tinh-tuyen-quang-lan-1-2026/cau-04.webp\" alt=\"Hình minh họa câu 4\" loading=\"lazy\"></figure>",
+      "chuong": "từ trường",
+      "dang": "lý thuyết: từ trường",
+      "type": "single",
+      "options": [
+        "A. mọi điểm xung quanh ống dây.",
+        "B. bên ngoài ống dây.",
+        "C. trong lòng ống dây.",
+        "D. hai đầu ống dây."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Dựa trên hình ảnh mô tả: sắt vụn tập trung dày ở hai mép trên và dưới (chỉ hai cực), còn ở vùng giữa lòng ống các đường sức xuất hiện thẳng, song song và đều nhau — đây là đặc điểm của từ trường đều.\n- Ngược lại, bên ngoài ống dây, các đường sức cong, lan rộng và mật độ giảm dần → từ trường không đều ở bên ngoài.\n- Kết luận logic: vì từ trường đều đặc trưng bởi đường sức song song và mật độ đồng đều, và hình cho thấy điều này *trong lòng ống dây*, nên lựa chọn đúng là phương án C.\n✅ **Đáp án:** C. trong lòng ống dây."
+    },
+    {
+      "id": 5,
+      "content": "Người ta coi nhiệt độ là đại lượng đặc trưng cho động năng trung bình của chuyển động nhiệt của phân tử. Động năng trung bình của các phân tử cấu tạo nên vật càng lớn thì",
+      "chuong": "khí lí tưởng",
+      "dang": "lý thuyết: áp suất khí theo mô hình động học phân tử. quan hệ giữa động năng phân tử và nhiệt độ",
+      "type": "single",
+      "options": [
+        "A. thể tích của vật càng bé.",
+        "B. nhiệt độ của vật càng cao.",
+        "C. thể tích của vật càng lớn.",
+        "D. nhiệt độ của vật càng thấp."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Theo định nghĩa vật lý (lý thuyết động học phân tử), nhiệt độ tỉ lệ với động năng động học trung bình của phân tử.\n- Có thể viết công thức cho khí lí tưởng\n$\\overline{E_k} = \\frac{3}{2}kT$\ntrong đó $\\overline{E_k}$ là động năng trung bình mỗi phân tử, $k$ là hằng số Boltzmann, $T$ là nhiệt độ tuyệt đối.\n- Từ đó suy ra: khi $\\overline{E_k}$ tăng thì $T$ tăng (vì $k$ là hằng số). Hay nói ngắn gọn: động năng trung bình lớn → nhiệt độ lớn.\n- Lưu ý: động năng trung bình không trực tiếp cho biết thể tích thay đổi thế nào (thể tích phụ thuộc thêm vào điều kiện khác như áp suất và điều kiện thực nghiệm), nên phương án về thể tích không phải là hệ quả trực tiếp.\n✅ **Đáp án:** B. nhiệt độ của vật càng cao."
+    },
+    {
+      "id": 6,
+      "content": "Một dây dẫn thẳng có dòng điện I đặt nằm ngang trong vùng không gian có từ trường đều như hình vẽ. Lực từ tác dụng lên dây có\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tn-thpt-vat-ly-tinh-tuyen-quang-lan-1-2026/cau-06.webp\" alt=\"Hình minh họa câu 6\" loading=\"lazy\"></figure>",
+      "chuong": "từ trường",
+      "dang": "lý thuyết: lực từ. cảm ứng từ",
+      "type": "single",
+      "options": [
+        "A. phương thẳng đứng hướng từ dưới lên trên.",
+        "B. phương thẳng đứng hướng từ trên xuống dưới.",
+        "C. phương ngang hướng từ phải sang trái.",
+        "D. phương ngang hướng từ trái sang phải."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Dùng quy tắc bàn tay trái, cổ tay tới ngón tay là chiều dòng điện hướng vuông góc vào màn hình, lòng bàn tay hứng cảm ứng từ => Lực từ F từ phải sang trái\n✅ **Đáp án:** C. phương ngang hướng từ phải sang trái."
+    },
+    {
+      "id": 7,
+      "content": "Đặc điểm nào dưới đây là của chất rắn vô định hình?",
+      "chuong": "vật lí nhiệt",
+      "dang": "lý thuyết: cấu trúc của chất. sự chuyển thể",
+      "type": "single",
+      "options": [
+        "A. Có tính dị hướng.",
+        "B. Không có nhiệt độ nóng chảy xác định.",
+        "C. Có dạng hình học xác định.",
+        "D. Có cấu trúc tinh thể."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Chỉ ra định nghĩa cơ bản: - Chất rắn tinh thể: các hạt (nguyên tử, phân tử) sắp xếp có trật tự dài hạn, do đó thường có nhiệt độ nóng chảy xác định và có cấu trúc tinh thể.\n  - Chất rắn vô định hình: sắp xếp không có trật tự dài hạn (không có mạng tinh thể rõ ràng).\n- Dùng đặc điểm để đối chiếu từng phương án: - Phân tích phương án B (Không có nhiệt độ nóng chảy xác định): chất rắn vô định hình khi đun nóng thường không có một nhiệt độ nóng chảy rõ ràng mà mềm dần trong một khoảng nhiệt độ → đây là đặc trưng đúng.\n  - Phân tích phương án A (Có tính dị hướng): do cấu trúc vô định hình không có trật tự theo hướng nhất định, các tính chất thường là đẳng hướng (isotropic), nên phương án A sai.\n  - Phân tích phương án C (Có dạng hình học xác định): mọi chất rắn ở quy mô lớn có hình dạng nhất định do mô men lực liên phân tử, nhưng câu này ngụ ý dạng hình học xác định do cấu trúc tinh thể — chất rắn vô định hình không có cấu trúc tinh thể nên phương án C không đúng theo ý so sánh với tinh thể.\n  - Phân tích phương án D (Có cấu trúc tinh thể): rõ ràng mâu thuẫn với định nghĩa của vô định hình → sai.\n- Nêu ví dụ minh họa: - Kính, thủy tinh hữu cơ, nhựa: khi nóng lên, kính không tan đột ngột ở một nhiệt độ cố định mà mềm ra dần — không có nhiệt độ nóng chảy xác định.\n  - Muối ăn, băng (tinh thể): có nhiệt độ nóng chảy rõ ràng → thuộc chất rắn tinh thể.\n✅ **Đáp án:** B. Không có nhiệt độ nóng chảy xác định."
+    },
+    {
+      "id": 8,
+      "content": "Khi nói về các phân tử khí, phát biểu nào sau đây là sai?",
+      "chuong": "khí lí tưởng",
+      "dang": "lý thuyết: thuyết động học phân tử chất khí",
+      "type": "single",
+      "options": [
+        "A. Các phân tử khí chuyển động càng nhanh thì nhiệt độ càng cao.",
+        "B. Chất khí luôn chiếm toàn bộ thể tích của bình chứa nó.",
+        "C. Khoảng cách giữa các phân tử rất nhỏ, các phân tử xếp sát nhau.",
+        "D. Lực tương tác giữa các phân tử rất yếu."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Xác định đặc điểm cơ bản của phân tử trong khí: - Trong khí, các phân tử chuyển động rất nhanh, va chạm với nhau và với thành bình; do đó khí nén đầy toàn bộ thể tích bình — điều này làm cho phát biểu B đúng.\n  - Nhiệt độ tỉ lệ với động năng trung bình của phân tử; về mức cơ bản (lớp phổ thông) có thể nêu công thức liên hệ động năng trung bình với nhiệt độ:\n$\\frac{1}{2}m\\overline{v^2}\\propto T$\nđiều này cho thấy phát biểu A đúng (vận tốc trung bình tăng khi T tăng).\n  - Trong lý thuyết khí lí tưởng (mô tả phổ biến ở phổ thông), lực tương tác giữa các phân tử rất yếu so với năng lượng động học, nên phát biểu D đúng.\n- So sánh khoảng cách giữa các phân tử ở ba trạng thái: - Ở *rắn*, các phân tử xếp sát nhau (khoảng cách rất nhỏ).\n  - Ở *lỏng*, các phân tử khá gần nhau nhưng có thể dịch chuyển.\n  - Ở *khí*, các phân tử cách nhau tương đối lớn so với kích thước bản thân chúng; nói cách khác, phân tử khí ở khoảng cách lớn hơn nhiều so với khi ở trạng thái rắn hoặc lỏng. Do đó phát biểu C (nói rằng khoảng cách rất nhỏ, các phân tử xếp sát nhau) mâu thuẫn với thực tế của khí — đây là một **phát biểu sai**.\n- Kết luận: phát biểu sai là phương án C.\n✅ **Đáp án:** C. Khoảng cách giữa các phân tử rất nhỏ, các phân tử xếp sát nhau."
+    },
+    {
+      "id": 9,
+      "content": "Cho hai dòng điện $I_1$ và $I_2$ có chiều như hình vẽ. Vùng nào từ trường do hai dòng điện gây ra ngược hướng\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tn-thpt-vat-ly-tinh-tuyen-quang-lan-1-2026/cau-09.webp\" alt=\"Hình minh họa câu 9\" loading=\"lazy\"></figure>",
+      "chuong": "từ trường",
+      "dang": "lý thuyết: từ trường",
+      "type": "single",
+      "options": [
+        "A. Vùng (2) và (4).",
+        "B. Vùng (1) và (3).",
+        "C. Vùng (1) và (2).",
+        "D. Vùng (3) và (4)."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Áp dụng quy tắc bàn tay phải: cho ngón cái theo chiều dòng điện, các ngón còn lại quấn quanh dây cho biết chiều của từ trường (tại mặt phẳng trang giấy, từ trường chỉ vào hoặc ra khỏi trang).\n- Xem xét sự đóng góp của từng dòng tại các vùng:\n- - Vùng (1) — trên trái (x<0, y>0): I1 cho B1 vào trang (−z), I2 cho B2 ra trang (+z) → hai trường ngược chiều.\n  - Vùng (2) — trên phải (x>0, y>0): I1 → ra (+z), I2 → ra (+z) → cùng chiều.\n  - Vùng (3) — dưới phải (x>0, y<0): I1 → ra (+z), I2 → vào (−z) → hai trường ngược chiều.\n  - Vùng (4) — dưới trái (x<0, y<0): I1 → vào (−z), I2 → vào (−z) → cùng chiều.\n✅ **Đáp án:** B. Vùng (1) và (3)."
+    },
+    {
+      "id": 10,
+      "content": "Khi truyền nhiệt cho một khối khí thì nó sẽ",
+      "chuong": "vật lí nhiệt",
+      "dang": "lý thuyết: nội năng. định luật i nhiệt động lực học",
+      "type": "single",
+      "options": [
+        "A. tăng nội năng và thực hiện công.",
+        "B. giảm nội năng và nhận công.",
+        "C. nhận công.",
+        "D. giảm nội năng."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Theo định luật I Nhiệt động lực học dạng thường dùng ở THPT, ta có:\n$Q=\\Delta U + A$\ntrong đó $Q$ là nhiệt truyền vào hệ, $\\Delta U$ là biến thiên nội năng, $A$ là công do khí thực hiện (công ra).\n- Nếu truyền nhiệt cho khí thì $Q>0$. Từ công thức trên, kết quả khả dĩ là: - Nếu khí tự giãn nở khi được nung nóng (thể tích tăng), thì khí sẽ thực hiện công $A>0$ và đồng thời nhiệt độ tăng dẫn đến $\\Delta U>0$. Ví dụ: với khí lí tưởng ở quá trình đẳng áp, $\\Delta U = n c_v \\Delta T >0$ và $A = p\\Delta V = nR\\Delta T >0$ — cả hai đều dương.\n  - Trường hợp đặc biệt: nếu khối khí bị giữ cố định trong bình cứng ($\\Delta V=0$) thì $A=0$ và toàn bộ nhiệt truyền vào làm tăng nội năng: $\\Delta U = Q>0$. Nhưng đề bài thường hiểu là truyền nhiệt làm tăng năng lượng trong khí và (khi có thể giãn nở) khí thực hiện công.\n- Vì vậy, trong trường hợp chung khi truyền nhiệt cho một khối khí có thể giãn nở, khí sẽ *tăng nội năng và thực hiện công*.\n✅ **Đáp án:** A. tăng nội năng và thực hiện công."
+    },
+    {
+      "id": 11,
+      "content": "Biết nhôm có nhiệt dung riêng là \\$880 \\text{ J/(kg.K)}$ và nhiệt nóng chảy riêng là \\$3,9.10^5 \\text{ J/kg}$. Nhiệt lượng cần cung cấp cho miếng nhôm khối lượng \\$200 \\text{ g}$ ở nhiệt độ \\$58^\\circ\\text{C}$ để nó hóa lỏng hoàn toàn ở nhiệt độ \\$658^\\circ\\text{C}$ là",
+      "chuong": "vật lí nhiệt",
+      "dang": "bài tập: nhiệt nóng chảy riêng",
+      "type": "single",
+      "options": [
+        "A. \\$183600 \\text{ J}.$",
+        "B. \\$183600 \\text{ kJ}.$",
+        "C. \\$78000 \\text{ kJ}.$",
+        "D. \\$107520 \\text{ J}.$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Tính độ tăng nhiệt: $\\Delta T=t_f-t_1=658-58=600\\ \\text{K}$.\n- Tính nhiệt cần để nung nóng từ \\$58^\\circ\\text{C}$ lên \\$658^\\circ\\text{C}$:\n$Q_1=mc\\Delta T=0{,}2\\cdot880\\cdot600.$\nTính: \\$0{,}2\\cdot880=176\\,,\\quad 176\\cdot600=105600\\ \\text{J}.$\n- Tính nhiệt cần để làm nóng chảy hoàn toàn ở \\$658^\\circ\\text{C}$:\n$Q_2=m\\lambda=0{,}2\\cdot3{,}9\\cdot10^5=0{,}2\\cdot390000=78000\\text{J}.$\n- Tổng nhiệt lượng cần cung cấp:\n$Q=Q_1+Q_2=105600+78000=183600\\ \\text{J}.$\n- Kiểm tra đơn vị: mọi phép tính đều dùng SI (kg, J, K) → kết quả đúng là Joule.\n✅ **Đáp án:** A."
+    },
+    {
+      "id": 12,
+      "content": "Khoảng nhiệt độ ngày 15/01/2026 của Tuyên Quang từ \\$15^\\circ\\text{C}$ đến \\$22^\\circ\\text{C}$. Nhiệt độ trên tương ứng với nhiệt độ nào trong thang nhiệt độ Kelvin?",
+      "chuong": "vật lí nhiệt",
+      "dang": "bài tập: đổi nhiệt độ cơ bản",
+      "type": "single",
+      "options": [
+        "A. Từ \\$288 \\text{ K}$ đến \\$295 \\text{ K}.$",
+        "B. Từ \\$15 \\text{ K}$ đến \\$22 \\text{ K}.$",
+        "C. Từ $-258 \\text{ K}$ đến $-251 \\text{ K}.$",
+        "D. Từ \\$273 \\text{ K}$ đến \\$280 \\text{ K}.$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Công thức chuyển đổi từ độ C sang Kelvin:\n$T(\\text{K}) = T(^{\\circ}\\text{C}) + 273.15.$\n- Với \\$15^\\circ\\text{C}$:\n$T = 15 + 273.15 = 288.15\\ \\text{K}.$\nLàm tròn đến K gần nhất được \\$288\\ \\text{K}.$\n- Với \\$22^\\circ\\text{C}$:\n$T = 22 + 273.15 = 295.15\\ \\text{K}.$\nLàm tròn đến K gần nhất được \\$295\\ \\text{K}.$\n- Vậy khoảng nhiệt độ tương ứng là khoảng \\$288.15\\ \\text{K} \\text{ đến } 295.15\\ \\text{K}$, xấp xỉ \\$288\\ \\text{K} \\text{ đến } 295\\ \\text{K}.$\n✅ **Đáp án:** A. Từ \\$288 \\text{ K}$ đến \\$295 \\text{ K}.$"
+    },
+    {
+      "id": 13,
+      "content": "Sơ đồ nguyên lí hoạt động của hệ thống làm mát bằng nước được mô tả như hình bên. Nước được dẫn đến thiết bị cần làm mát (thân máy), hấp thụ nhiệt từ thiết bị đó và tăng nhiệt độ. Nước nóng được đưa đến két nước rồi đưa qua dàn làm lạnh để giảm nhiệt độ rồi được đưa trở lại thiết bị cần làm mát để tiếp tục quá trình hấp thụ nhiệt. Phát biểu nào dưới đây **sai**?\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tn-thpt-vat-ly-tinh-tuyen-quang-lan-1-2026/cau-13.webp\" alt=\"Hình minh họa câu 13\" loading=\"lazy\"></figure>",
+      "chuong": "vật lí nhiệt",
+      "dang": "lý thuyết: thang nhiệt độ",
+      "type": "single",
+      "options": [
+        "A. Nhiệt độ của nước trước và sau khi đi qua thân máy khác nhau.",
+        "B. Nhiệt độ của nước khi vừa ra khỏi thân máy cao hơn nhiệt độ của thân máy khi đó.",
+        "C. Nước từ két nước qua dàn lạnh đã truyền nhiệt lượng cho dàn lạnh.",
+        "D. Thân máy truyền nhiệt lượng cho nước khi nước chảy qua nó."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Khi nước chảy qua thân máy, nước hấp thụ nhiệt từ thân máy. Theo định nghĩa truyền nhiệt, nhiệt chỉ truyền từ nơi có nhiệt độ cao hơn sang nơi có nhiệt độ thấp hơn. Vì vậy tại vị trí tiếp xúc, để nước nhận nhiệt thì phải có: - $T_{\\text{thân máy}} > T_{\\text{nước lúc vào}}.$\n- Nhiệt lượng mà nước nhận được được tính bởi công thức (kiến thức THPT): - $Q = m c \\Delta T = m c (T_{\\text{ra}} - T_{\\text{vào}}),$\ntrong đó $m$ là khối lượng nước, $c$ là nhiệt dung riêng của nước, $T_{\\text{ra}}$ và $T_{\\text{vào}}$ lần lượt là nhiệt độ nước ra và vào thân máy.\n- Mặc dù nước được làm nóng khi chảy qua thân máy (tức $T_{\\text{ra}} > T_{\\text{vào}}$), nhưng để nhiệt truyền từ thân máy sang nước thì phải có $T_{\\text{thân máy}} \\ge T_{\\text{bề mặt tiếp xúc}}$. Do đó nước khi vừa rời thân máy không thể có nhiệt độ cao hơn thân máy tại cùng thời điểm, nếu không thì chiều truyền nhiệt sẽ ngược lại.\n- Dựa trên sơ đồ: thân máy (nguồn nhiệt) có màu nóng hơn, nước trong các kênh chỉ chuyển từ màu lạnh sang nóng khi nhận nhiệt; điều này minh hoạ rằng thân máy nóng hơn nước. Vì thế phát biểu nói nước ra nóng hơn thân máy là mâu thuẫn với nguyên tắc truyền nhiệt.\n- Kết luận: phát biểu đó là sai.\n✅ **Đáp án:** B. Nhiệt độ của nước khi vừa ra khỏi thân máy cao hơn nhiệt độ của thân máy khi đó."
+    },
+    {
+      "id": 14,
+      "content": "Khối lượng của 1 phân tử khí là m, mật độ phân tử là $\\mu$, trung bình của các bình phương tốc độ phân tử là $\\overline{v^2}$. Áp suất chất khí theo mô hình động học phân tử là",
+      "chuong": "khí lí tưởng",
+      "dang": "lý thuyết: áp suất khí theo mô hình động học phân tử. quan hệ giữa động năng phân tử và nhiệt độ",
+      "type": "single",
+      "options": [
+        "A. $p = m\\mu\\overline{v^2}$",
+        "B. $p = \\frac{3}{2}m\\mu\\overline{v^2}$",
+        "C. $p = \\frac{1}{3}m\\mu\\overline{v^2}$",
+        "D. $p = \\frac{2}{3}m\\mu\\overline{v^2}$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Công thức áp suất: $p=\\frac{1}{3}m\\mu\\overline{v}^2$\n✅ **Đáp án:** C. $p = \\frac{1}{3}m\\mu\\overline{v^2}$"
+    },
+    {
+      "id": 15,
+      "content": "Khối lượng riêng của một chất khí bằng \\$6.10^{-2} \\text{ kg/m}^3$, vận tốc căn quân phương của chúng là \\$500 \\text{ m/s}$. Áp suất mà khí đó tác dụng lên thành bình là",
+      "chuong": "khí lí tưởng",
+      "dang": "bài tập: tính toán động năng, áp suất, tốc độ căn quân phương.",
+      "type": "single",
+      "options": [
+        "A. \\$10 \\text{ Pa}$",
+        "B. \\$10 \\text{ N/m}^2$",
+        "C. \\$5.10^3 \\text{ Pa}$",
+        "D. \\$10^4 \\text{ Pa}$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Áp dụng công thức thuyết động học của chất khí:\n$p = \\dfrac{1}{3}\\,\\rho\\,v_{\\text{rms}}^2$\n- Thay số vào công thức: - Tính $v_{\\text{rms}}^2 = 500^2 = 250\\,000$\n  - Nhân với khối lượng riêng: $\\rho\\,v_{\\text{rms}}^2 = 6\\cdot 10^{-2}\\times 250\\,000 = 15\\,000$\n  - Chia cho 3: $p = \\dfrac{15\\,000}{3} = 5\\,000\\ \\text{Pa}$\n- Viết theo dạng chữ số mũ: $p = 5.10^3\\ \\text{Pa}$\n✅ **Đáp án:** C. \\$5.10^3 \\text{ Pa}$"
+    },
+    {
+      "id": 16,
+      "content": "Trong thang nhiệt độ Celsius, nhiệt độ đóng băng của nước tinh khiết là \\$0^\\circ\\text{C}$ (ở điều kiện áp suất chuẩn). Trong thang nhiệt độ Kelvin thì nhiệt độ trên bằng bao nhiêu?",
+      "chuong": "vật lí nhiệt",
+      "dang": "bài tập: đổi nhiệt độ cơ bản",
+      "type": "single",
+      "options": [
+        "A. \\$173 \\text{ K.}$",
+        "B. \\$273 \\text{ K.}$",
+        "C. \\$100 \\text{ K.}$",
+        "D. \\$0 \\text{ K.}$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Công thức chuyển đổi giữa hai thang nhiệt:\n$T(\\text{K}) = t(^{\\circ}\\text{C}) + 273.15.$\n- Thay $t = 0^\\circ\\text{C}$ vào công thức:\n$T(\\text{K}) = 0 + 273.15 = 273.15\\ \\text{K}.$\n- Trong các bài tập phổ thông và trong các phương án kiểu làm tròn toàn phần, người ta thường viết kết quả là \\$273\\ \\text{K}$ (làm tròn xuống phần nguyên). Kiểm tra các phương án cho sẵn: phương án B cho \\$273\\ \\text{K}$ phù hợp với kết quả làm tròn.\n✅ **Đáp án:** B. \\$273 \\text{ K.}$"
+    },
+    {
+      "id": 17,
+      "content": "Trường hợp nào sau đây **không** liên quan đến sự đông đặc?",
+      "chuong": "vật lí nhiệt",
+      "dang": "lý thuyết: cấu trúc của chất. sự chuyển thể",
+      "type": "single",
+      "options": [
+        "A. Đúc tượng đồng.",
+        "B. Rèn thép trong lò rèn.",
+        "C. Làm đá trong tủ lạnh.",
+        "D. Nước đóng băng trên mặt hồ."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Định nghĩa: **Đông đặc** là quá trình một chất chuyển từ trạng thái lỏng sang trạng thái rắn khi nhiệt độ giảm xuống dưới nhiệt độ nóng chảy. Khi chất lỏng đông đặc, phải tỏa một lượng nhiệt ẩn gọi là nhiệt nóng chảy (ngược lại với quá trình nóng chảy). Công thức liên quan (kiến thức THPT):\n$Q=m\\lambda$\nvới $Q$ là nhiệt tỏa ra khi đông đặc, $m$ là khối lượng, $\\lambda$ là nhiệt nóng chảy\n- Kiểm tra từng phương án: - A (Đúc tượng đồng): Đúc là làm tan hợp kim đồng rồi rót vào khuôn; kim loại lỏng sau đó nguội và đông đặc thành rắn -> liên quan trực tiếp đến đông đặc.\n  - B (Rèn thép trong lò rèn): Rèn là làm nóng thép để nó trở nên dẻo và uốn nắn ở trạng thái **rắn nóng**, không phải làm chảy rồi để nó đông đặc lại. Quá trình chính là biến dạng dẻo của kim loại rắn chứ không phải đông đặc từ lỏng -> **không** liên quan đến đông đặc.\n  - C (Làm đá trong tủ lạnh): Nước lỏng chuyển thành băng (rắn) trong tủ lạnh -> rõ ràng là đông đặc.\n  - D (Nước đóng băng trên mặt hồ): Nước lỏng đóng băng thành băng trên hồ -> là đông đặc.\n- Kết luận bằng đối chiếu: chỉ phương án B không phải là quá trình đông đặc.\n✅ **Đáp án:** B. Rèn thép trong lò rèn."
+    },
+    {
+      "id": 18,
+      "content": "Gọi Q là nhiệt lượng cần truyền cho vật có khối lượng m để làm vật nóng chảy hoàn toàn ở nhiệt độ nóng chảy mà không thay đổi nhiệt độ của vật. Thì nhiệt nóng chảy riêng $\\lambda$ của chất đã được tính theo công thức",
+      "chuong": "vật lí nhiệt",
+      "dang": "lý thuyết: nhiệt nóng chảy riêng",
+      "type": "single",
+      "options": [
+        "A. $\\lambda = Q/m$",
+        "B. $\\lambda = Q + m$",
+        "C. $\\lambda = Q.m$",
+        "D. $\\lambda = Q - m$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Bắt đầu từ định nghĩa: nhiệt lượng để làm nóng chảy một khối lượng m là\n$Q = m\\lambda.$\n- Muốn tìm $\\lambda$, chia hai vế cho m (với $m \\ne 0$):\n$\\lambda = \\frac{Q}{m}.$\n- Kiểm tra bằng ví dụ: nếu $Q = 2000\\ \\text{J}$ và $m = 2\\ \\text{kg}$ thì $\\lambda = \\frac{2000}{2} = 1000\\ \\text{J/kg},$ có đơn vị phù hợp.\n✅ **Đáp án:** A."
+    }
+  ]
+}

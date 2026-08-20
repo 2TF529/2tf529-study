@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-20-cau-trac-nghiem-toan-12-canh-dieu-bai-1-nguyen-ham-co-dap-an",
+  "sourceId": "vietjack:1-20-cau-trac-nghiem-toan-12-canh-dieu-b",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.20 câu Trắc nghiệm Toán 12 Cánh diều Bài 1. Nguyên hàm có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho \\[\\int {f\\left( x \\right)dx = } F\\left( x \\right),{\\rm{ }}\\int {g\\left( x \\right)dx = G\\left( x \\right)} \\]. Khi đó, \\[I = \\int {\\left[ {2g\\left( x \\right) - f\\left( x \\right)} \\right]dx} \\] bằng",
+      "options": [
+        "A. \\[2F\\left( x \\right) + G\\left( x \\right).\\]",
+        "B. \\[2F\\left( x \\right) - G\\left( x \\right).\\]",
+        "C. \\[2G\\left( x \\right) - F\\left( x \\right).\\]",
+        "D. \\[F\\left( x \\right) - 2G\\left( x \\right).\\]"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có: \\[I = \\int {\\left[ {2g\\left( x \\right) - f\\left( x \\right)} \\right]dx} \\] \\[I = \\int {2g\\left( x \\right)dx} - \\int {f\\left( x \\right)dx} \\] \\[I = 2\\int {g\\left( x \\right)dx} - \\int {f\\left( x \\right)dx} \\] \\[I = 2G\\left( x \\right) - F\\left( x \\right)\\]"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Mệnh đề nào sau đây là sai?",
+      "options": [
+        "A. \\[\\int {f'\\left( x \\right)dx = f\\left( x \\right) + C.} \\]",
+        "B. \\[\\int {\\left[ {f\\left( x \\right) + g\\left( x \\right)} \\right]dx = \\int {f\\left( x \\right)dx + \\int {g\\left( x \\right)dx.} } } \\]",
+        "C. \\[\\int {kf\\left( x \\right)dx = k\\int {f\\left( x \\right)dx} } \\] với mọi \\[k \\in \\mathbb{R}.\\]",
+        "D. \\[\\int {\\left[ {f\\left( x \\right) - g\\left( x \\right)} \\right]dx = \\int {f\\left( x \\right)dx - \\int {g\\left( x \\right)dx.} } } \\]"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có: \\[\\int {kf\\left( x \\right)dx = k\\int {f\\left( x \\right)dx} } \\] với mọi \\[k \\ne 0.\\]"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hai hàm số \\[f\\left( x \\right),g\\left( x \\right)\\] là hàm số liên tục, có \\[F\\left( x \\right),G\\left( x \\right)\\] lần lượt là nguyên hàm của \\[f\\left( x \\right),g\\left( x \\right)\\]. Xét các mệnh đề sau: (I). \\[F\\left( x \\right) + G\\left( x \\right)\\] là một nguyên hàm của \\[f\\left( x \\right) + g\\left( x \\right).\\] (II). \\[kF\\left( x \\right)\\] là một nguyên hàm của \\[kf\\left( x \\right)\\] với \\[k \\ne 0.\\] (III). \\[F\\left( x \\right).G\\left( x \\right)\\] là một nguyên hàm của \\[f\\left( x \\right).g\\left( x \\right)\\]. Các mệnh đề đúng là",
+      "options": [
+        "A. (I) và (II).",
+        "B. (II) và (III).",
+        "C. (I) và (III).",
+        "D. Cả ba mệnh đề."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: II. Thông hiểu Họ tất cả các nguyên hàm của hàm số \\[f\\left( x \\right) = 2x + 6\\] là",
+      "options": [
+        "A. \\[{x^2} + C.\\]",
+        "B. \\[{x^2} + 6x + C.\\]",
+        "C. \\[2{x^2} + C.\\]",
+        "D. \\[2{x^2} + 6x + C.\\]"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có: \\[\\int {f\\left( x \\right)dx} = \\int {\\left( {2x + 6} \\right)} dx = {x^2} + 6x + C.\\]"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: \\[\\int {{x^2}dx} \\] bằng",
+      "options": [
+        "A. \\[2x + C.\\]",
+        "B. \\[\\frac{{{x^3}}}{3} + C.\\]",
+        "C. \\[{x^3} + C.\\]",
+        "D. \\[3{x^3} + C.\\]"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có: \\[\\int {{x^2}dx} = \\frac{{{x^3}}}{3} + C.\\]"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Hàm số nào dưới đây không là nguyên hàm của hàm số \\[y = {x^{2022}}\\]?",
+      "options": [
+        "A. \\[\\frac{{{x^{2023}}}}{{2023}} + 1.\\]",
+        "B. \\[\\frac{{{x^{2023}}}}{{2022}} - 1.\\]",
+        "C. \\[\\frac{{{x^{2023}}}}{{2023}} - 2.\\]",
+        "D. \\[\\frac{{{x^{2023}}}}{{2023}}.\\]"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có: \\[\\int {{x^{2022}}} dx = \\frac{{{x^{2023}}}}{{2023}} + C.\\]"
+    }
+  ]
+}

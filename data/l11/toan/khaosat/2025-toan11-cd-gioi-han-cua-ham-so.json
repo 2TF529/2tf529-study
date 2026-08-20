@@ -1,0 +1,711 @@
+{
+  "id": "l11-toan-khaosat-2025-toan11-cd-gioi-han-cua-ham-so",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2025,
+  "code": "CD: Giới hạn của hàm số",
+  "title": "TOAN11 - CD: Giới hạn của hàm số",
+  "duration": 59,
+  "answerSource": "official",
+  "sourceId": "hochanh:4068",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Giới hạn lim x \\rightarrow 4 − 7 x − 4 bằng",
+      "options": [
+        "A. 0",
+        "B. − \\infty ;",
+        "C. + \\infty ;",
+        "D. 1."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Giới hạn lim x \\rightarrow 4 3 x − 4 bằng",
+      "options": [
+        "A. 0;",
+        "B. − \\infty ;",
+        "C. + \\infty ;",
+        "D. 1."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Giới hạn lim x \\rightarrow 3 − x − 2 x − 3 bằng",
+      "options": [
+        "A. 0;",
+        "B. − \\infty ;",
+        "C. + \\infty ;",
+        "D. 1."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Tính giới hạn lim x \\rightarrow 3 − 2 x − 1 x − 3 2 , ta thu được kết quả nào sau đây?",
+      "options": [
+        "A. 0;",
+        "B. − \\infty ;",
+        "C. + \\infty ;",
+        "D. 1."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Giới hạn lim x \\rightarrow − 1 x 2 + x x + 1 3 bằng",
+      "options": [
+        "A. 0;",
+        "B. − \\infty ;",
+        "C. + \\infty ;",
+        "D. 1."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Tính giới hạn lim x \\rightarrow 0 1 x − 1 x 2 , ta thu được kết quả nào sau đây?",
+      "options": [
+        "A. 0;",
+        "B. − \\infty ;",
+        "C. + \\infty ;",
+        "D. 1."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Giới hạn lim x \\rightarrow 0 2 x bằng",
+      "options": [
+        "A. 0;",
+        "B. − \\infty ;",
+        "C. + \\infty ;",
+        "D. 1."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Giới hạn lim x \\rightarrow 0 x + 3 x bằng",
+      "options": [
+        "A. 0;",
+        "B. − \\infty ;",
+        "C. + \\infty ;",
+        "D. 1."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "content": "Tính giới hạn lim x \\rightarrow 3 − x − 3 x − 3 , ta thu được kết quả nào sau đây?",
+      "options": [
+        "A. 0;",
+        "B. − \\infty ;",
+        "C. + \\infty ;",
+        "D. − 1."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "content": "Giới hạn lim x \\rightarrow 3 x 2 − 5 x + 6 x 2 − 6 x + 9 bằng",
+      "options": [
+        "A. 0;",
+        "B. − \\infty ;",
+        "C. + \\infty ;",
+        "D. 1."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 11,
+      "type": "single",
+      "content": "Giới hạn lim x \\rightarrow 4 − x − 3 bằng",
+      "options": [
+        "A. 1;",
+        "B. 2;",
+        "C. 3;",
+        "D. 4."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 12,
+      "type": "single",
+      "content": "Tính giới hạn lim x \\rightarrow 4 + 7 x − 5 x − 4 , ta thu được kết quả nào sau đây?",
+      "options": [
+        "A. 0;",
+        "B. − \\infty ;",
+        "C. + \\infty ;",
+        "D. 1."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 13,
+      "type": "single",
+      "content": "Giới hạn lim x \\rightarrow 5 − 3 x − 5 bằng",
+      "options": [
+        "A. 0;",
+        "B. − \\infty ;",
+        "C. + \\infty ;",
+        "D. 3."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 14,
+      "type": "single",
+      "content": "Tính giới hạn lim x \\rightarrow 4 + x − 4 x 2 − 5 x + 4 , ta thu được kết quả là bao nhiêu?",
+      "options": [
+        "A. 1",
+        "B. 1 2",
+        "C. 1 3",
+        "D. 1 4"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 15,
+      "type": "single",
+      "content": "Giới hạn lim x \\rightarrow 0 + 2 x + x x − x bằng",
+      "options": [
+        "A. 1;",
+        "B. − \\infty ;",
+        "C. + \\infty ;",
+        "D. −1 ."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 16,
+      "type": "single",
+      "content": "Cho hàm số f x = x 4 − 6 x 2 − 2 x , x \\ge 1 − 2 x 3 + 3 x , x<1 . Giới hạn lim x \\rightarrow 1 − f x bằng",
+      "options": [
+        "A. − 7;",
+        "B. −3;",
+        "C. 0;",
+        "D. 1."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 17,
+      "type": "single",
+      "content": "Cho hàm số f x = x 4 − 6 x 2 − 2 x , x \\ge 1 − 2 x 3 + 3 x , x<1 . Giới hạn lim x \\rightarrow 1 + f x bằng",
+      "options": [
+        "A. − 7;",
+        "B. −3 ;",
+        "C. 0;",
+        "D. 1."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 18,
+      "type": "single",
+      "content": "Cho hàm số f x = x 2 + 1 x − 2 , x < 2 x − 2 , x \\ge 2 . Giới hạn lim x \\rightarrow 2 + f x bằng",
+      "options": [
+        "A. 0;",
+        "B. − \\infty ;",
+        "C. + \\infty ;",
+        "D. 1."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 19,
+      "type": "single",
+      "content": "Cho hàm số f x = x 2 + 1 x − 2 , x < 2 x − 2 , x \\ge 2 . Giới hạn lim x \\rightarrow 2 − f x bằng",
+      "options": [
+        "A. 0;",
+        "B. − \\infty ;",
+        "C. + \\infty ;",
+        "D. 1."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 20,
+      "type": "single",
+      "content": "Giới hạn lim x \\rightarrow 1 − 1 x − 1 − 1 x 2 − 1 bằng",
+      "options": [
+        "A. 0;",
+        "B. − \\infty ;",
+        "C. + \\infty ;",
+        "D. 1."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 21,
+      "type": "single",
+      "content": "Giới hạn lim x \\rightarrow 3 x 2 + x + 5 bằng",
+      "options": [
+        "A. 17;",
+        "B. 18;",
+        "C. 19;",
+        "D. 20."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 22,
+      "type": "single",
+      "content": "Giới hạn lim x \\rightarrow 2 3 x − 5 x − 2 2 bằng",
+      "options": [
+        "A. 0;",
+        "B. − \\infty ;",
+        "C. + \\infty ;",
+        "D. 1."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 23,
+      "type": "single",
+      "content": "Tính giới hạn lim x \\rightarrow \\infty x 4 + 2 x 2 + 3 , ta thu được kết quả nào sau đây?",
+      "options": [
+        "A. 0;",
+        "B. − \\infty ;",
+        "C. + \\infty ;",
+        "D. 1."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 24,
+      "type": "single",
+      "content": "Giới hạn lim x \\rightarrow 2 x 2 − 5 x + 6 x 2 − 6 x + 8 bằng",
+      "options": [
+        "A. 0;",
+        "B. − \\infty ;",
+        "C. + \\infty ;",
+        "D. 1 2"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 25,
+      "type": "single",
+      "content": "Tính giới hạn lim x \\rightarrow 1 x 3 − 1 x − 1 , ta thu được kết quả nào sau đây?",
+      "options": [
+        "A. 0;",
+        "B. 1;",
+        "C. 1 2",
+        "D. 1 3"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 26,
+      "type": "single",
+      "content": "Giới hạn lim x \\rightarrow \\infty x 2 − 5 x + 6 x 2 − 6 x + 8 bằng",
+      "options": [
+        "A. 0;",
+        "B. − \\infty ;",
+        "C. + \\infty ;",
+        "D. 1."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 27,
+      "type": "single",
+      "content": "Giới hạn lim x \\rightarrow \\infty 3 x − 2 x 2 + 1 5 x + x 2 + 3 bằng",
+      "options": [
+        "A. 0;",
+        "B. − \\infty ;",
+        "C. + \\infty ;",
+        "D. 3 − 2 6"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 28,
+      "type": "single",
+      "content": "Tính giới hạn lim x \\rightarrow − \\infty 3 − x 2 − 7 − x 2 , ta thu được kết quả nào sau đây?",
+      "options": [
+        "A. 0;",
+        "B. − \\infty ;",
+        "C. + \\infty ;",
+        "D. 1 ."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 29,
+      "type": "single",
+      "content": "Giới hạn lim x \\rightarrow 0 2 x − 3 x 2 bằng",
+      "options": [
+        "A. 0 ;",
+        "B. + \\infty",
+        "C. - \\infty",
+        "D. -1"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 30,
+      "type": "single",
+      "content": "Tính giới hạn lim x \\rightarrow \\infty 3 x 2 − 5 − 2 x 2 + 1 5 x 2 − 7 + 2 , ta thu được kết quả",
+      "options": [
+        "A. 5 5",
+        "B. 5 3",
+        "C. 15 5",
+        "D. 15 3"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 31,
+      "type": "single",
+      "content": "Cho \\({\\rm{a, b}} \\in {\\rm{R}}\\) thỏa mãn \\(\\mathop {{\\rm{lim}}}\\limits_{{\\rm{x}} \\to {\\rm{1}}} \\frac{{\\sqrt {{\\rm{(a + 5)}}{{\\rm{x}}^{\\rm{2}}} - {\\rm{2(a + 2)x + 2a + b + 7}}} - \\sqrt {{\\rm{6x + 3}}} }}{{{{\\rm{x}}^{\\rm{2}}} - {\\rm{2x + 1}}}}\\) \\(\\mathop {{\\rm{lim}}}\\limits_{{\\rm{x}} \\to {\\rm{1}}} \\frac{{\\sqrt {\\left( {{\\rm{a + 5}}} \\right){{\\rm{x}}^{\\rm{2}}} - {\\rm{2}}\\left( {{\\rm{a + 2}}} \\right){\\rm{x + 2a + b + 7}}} - \\sqrt {{\\rm{6x + 3}}} }}{{{{\\rm{x}}^{\\rm{2}}} - {\\rm{2x + 1 }}}}{\\rm{ = }}\\frac{{{\\rm{13}}}}{{{\\rm{12}}}}\\) . Tính giá trị của \\({{\\rm{a}}^{\\rm{2}}}{\\rm{ + }}{{\\rm{b}}^2}\\)",
+      "options": [
+        "A. 2",
+        "B. \\(\\frac{5}{2}\\)",
+        "C. 5",
+        "D. 3"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 32,
+      "type": "single",
+      "content": "Cho đa thức P(x) thỏa mãn \\(\\mathop {\\lim }\\limits_{{\\rm{x}} \\to 3} \\frac{{{\\rm{P}}\\left( {\\rm{x}} \\right) - 2}}{{{\\rm{x}} - 3}} = 2\\) . Tính \\(\\mathop {\\lim }\\limits_{{\\rm{x}} \\to 3} \\frac{{{\\rm{P}}\\left( {\\rm{x}} \\right) - 2}}{{\\left( {{{\\rm{x}}^2} - 9} \\right)\\left( {\\sqrt {{\\rm{P}}\\left( {\\rm{x}} \\right) + 2} + 1} \\right)}}\\)",
+      "options": [
+        "A. \\(\\frac{1}{3}\\)",
+        "B. \\(\\frac{1}{6}\\)",
+        "C. \\(\\frac{1}{9}\\)",
+        "D. \\(\\frac{2}{3}\\)"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 33,
+      "type": "single",
+      "content": "Cho \\(\\mathop {\\lim }\\limits_{{\\rm{x}} \\to 4} \\frac{{{\\rm{f(x)}} - 5}}{{{\\rm{x}} - 4}} = 5\\) . Tính giới hạn \\(\\mathop {\\lim }\\limits_{{\\rm{x}} \\to 4} \\frac{{{\\rm{f}}\\left( {\\rm{x}} \\right) - 5}}{{\\left( {\\sqrt {\\rm{x}} - 2} \\right)\\left( {\\sqrt {6{\\rm{f(x)}} + 6} + 4} \\right)}}\\)",
+      "options": [
+        "A. -2",
+        "B. -1",
+        "C. 2",
+        "D. 3"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 34,
+      "type": "single",
+      "content": "Kết quả \\(\\mathop {\\lim }\\limits_{{\\rm{x}} \\to + \\infty } \\left( {\\sqrt {2020{{\\rm{x}}^2} + {\\rm{x}} + 3} - \\sqrt {2021{{\\rm{x}}^2} + 2} } \\right)\\) bằng",
+      "options": [
+        "A. \\( - \\infty \\)",
+        "B. \\( + \\infty \\)",
+        "C. 0",
+        "D. 1"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 35,
+      "type": "single",
+      "content": "Tính \\(\\mathop {\\lim }\\limits_{{\\rm{x}} \\to \\frac{{\\rm{\\pi }}}{{\\rm{4}}}} \\frac{{\\sin {\\rm{x}} - \\cos {\\rm{x}}}}{{\\tan \\left( {{\\rm{x}} - \\frac{{\\rm{\\pi }}}{4}} \\right)}}\\)",
+      "options": [
+        "A. \\( - \\sqrt{2} \\)",
+        "B. \\( + \\sqrt{2} \\)",
+        "C. −2",
+        "D. +2"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 36,
+      "type": "single",
+      "content": "Biết giới hạn \\(\\mathop {\\lim }\\limits_{{\\rm{x}} \\to 2} \\frac{{\\sqrt {3{\\rm{x}} + 3} - {\\rm{m}}}}{{{\\rm{x}} - 2}} = \\frac{{\\rm{a}}}{{\\rm{b}}}\\) , m là số thực; a, b là các số nguyên và \\(\\frac{{\\rm{a}}}{{\\rm{b}}}\\) tối giản. Tính a − b",
+      "options": [
+        "A. 0",
+        "B. 1",
+        "C. -1",
+        "D. -2"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 37,
+      "type": "single",
+      "content": "Cho a, b là các số nguyên và \\(\\mathop {\\lim }\\limits_{{\\rm{x}} \\to 1} \\frac{{{\\rm{a}}{{\\rm{x}}^{\\rm{2}}}{\\rm{ + bx}} - {\\rm{5}}}}{{{\\rm{x}} - 1}} = 20\\) . Tính \\({\\rm{P = }}{{\\rm{a}}^{\\rm{2}}}{\\rm{ + }}{{\\rm{b}}^{\\rm{2}}}\\)",
+      "options": [
+        "A. 125",
+        "B. 225",
+        "C. 525",
+        "D. 325"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 38,
+      "type": "single",
+      "content": "Cho hàm số \\({\\rm{f}}\\left( {\\rm{x}} \\right) = \\left\\{ {\\begin{array}{*{20}{c}}{\\frac{{\\sqrt {{\\rm{mx + 1}}} - 1}}{{\\rm{x}}}\\,\\,{\\rm{khi}}\\,\\,{\\rm{x}} \\ne 0}\\\\{4{{\\rm{x}}^2} + 5{\\rm{n}}\\,\\,{\\rm{khi}}\\,\\,{\\rm{x}} = 0}\\end{array}} \\right.\\left( {{\\rm{m,n}} \\in \\mathbb{R}} \\right)\\) liên tục tại x 0 = 0. Tìm hệ thức liên hệ giữa m và n",
+      "options": [
+        "A. m = 2n",
+        "B. m = 5n",
+        "C. m = 10n",
+        "D. m = n"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 39,
+      "type": "single",
+      "content": "Chọn kết quả đúng trong các kết quả sau của \\(\\mathop {\\lim }\\limits_{{\\rm{x}} \\to {{\\frac{{\\rm{\\pi }}}{{\\rm{2}}}}^ + }} \\left( {\\frac{{\\rm{\\pi }}}{{\\rm{2}}} - {\\rm{x}}} \\right).\\tan {\\rm{x}}\\)",
+      "options": [
+        "A. 0",
+        "B. 1",
+        "C. Không tồn tại",
+        "D. \\(\\infty \\)"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 40,
+      "type": "single",
+      "content": "Giá trị của giới hạn \\(\\mathop {\\lim }\\limits_{{\\rm{x}} \\to + \\infty } \\left( {\\sqrt {{\\rm{x}} + 5} - \\sqrt {{\\rm{x}} - 6} } \\right)\\) là",
+      "options": [
+        "A. 1",
+        "B. 2",
+        "C. 3",
+        "D. 0"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 41,
+      "type": "single",
+      "content": "Tìm giới hạn \\({\\rm{A}} = \\mathop {\\lim }\\limits_{{\\rm{x}} \\to 1} \\frac{{{{\\rm{x}}^{\\rm{n}}} - 1}}{{{{\\rm{x}}^{\\rm{m}}} - 1}},{\\rm{m}},{\\rm{n}} \\in {\\mathbb{N}^ * }\\) :",
+      "options": [
+        "A. 0",
+        "B. \\( + \\infty \\)",
+        "C. \\(\\frac{{\\rm{m}}}{{\\rm{n}}}\\)",
+        "D. \\(\\frac{{\\rm{n}}}{{\\rm{m}}}\\)"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 42,
+      "type": "single",
+      "content": "Kết quả của giới hạn \\(\\mathop {\\lim }\\limits_{{\\rm{x}} \\to {5^ - }} \\frac{{12 - {{\\rm{x}}^2}}}{{5 - {\\rm{x}}}}\\) là:",
+      "options": [
+        "A. \\( - \\infty \\)",
+        "B. \\( + \\infty \\)",
+        "C. 0",
+        "D. 1"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 43,
+      "type": "single",
+      "content": "Tính giới hạn \\(\\mathop {\\lim }\\limits_{{\\rm{x}} \\to - \\infty } \\left( {{{\\left| {\\rm{x}} \\right|}^5} + {\\rm{x}} + 1} \\right)\\)",
+      "options": [
+        "A. \\( + \\infty \\)",
+        "B. \\( - \\infty \\)",
+        "C. \\(\\infty \\)",
+        "D. 0"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 44,
+      "type": "single",
+      "content": "Giá trị của giới hạn \\(\\mathop {\\lim }\\limits_{{\\rm{x}} \\to {3^ - }} \\frac{{3 - {\\rm{x}}}}{{\\sqrt {27 - {{\\rm{x}}^3}} }}\\) bằng:",
+      "options": [
+        "A. 34",
+        "B. 0",
+        "C. 35",
+        "D. 53"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 45,
+      "type": "single",
+      "content": "Giá trị của giới hạn \\(\\mathop {\\lim }\\limits_{{\\rm{x}} \\to - 3} \\left| {\\frac{{ - {{\\rm{x}}^2} - {\\rm{x}} + 6}}{{{{\\rm{x}}^2} + 3{\\rm{x}}}}} \\right|\\)",
+      "options": [
+        "A. \\(\\frac{3}{4}\\)",
+        "B. \\(\\frac{5}{3}\\)",
+        "C. \\(\\frac{3}{5}\\)",
+        "D. \\(\\frac{3}{2}\\)"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 46,
+      "type": "single",
+      "content": "Trong các mệnh đề sau đây mệnh đề nào là đúng?",
+      "options": [
+        "A. \\(\\mathop {\\lim }\\limits_{{\\rm{x}} \\to {3^ + }} \\frac{{\\left| {{\\rm{x}} - 3} \\right|}}{{3{\\rm{x}} - 9}} = \\frac{1}{3}\\)",
+        "B. \\(\\mathop {\\lim }\\limits_{{\\rm{x}} \\to {3^ + }} \\frac{{\\left| {{\\rm{x}} - 3} \\right|}}{{3{\\rm{x}} - 9}} = - \\frac{1}{3}\\)",
+        "C. \\(\\mathop {\\lim }\\limits_{{\\rm{x}} \\to {3^ + }} \\frac{{\\left| {{\\rm{x}} - 3} \\right|}}{{3{\\rm{x}} - 9}} = 0\\)",
+        "D. Không tồn tại \\(\\mathop {\\lim }\\limits_{{\\rm{x}} \\to {3^ + }} \\frac{{\\left| {{\\rm{x}} - 3} \\right|}}{{3{\\rm{x}} - 9}} = 0\\)"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 47,
+      "type": "single",
+      "content": "Giá trị của giới hạn \\(\\mathop {\\lim }\\limits_{{\\rm{x}} \\to 2} \\sqrt {\\frac{{\\left( {{{\\rm{x}}^2} + 3} \\right){\\rm{x}}}}{{{{\\rm{x}}^3} - 1}}} \\) bằng",
+      "options": [
+        "A. \\(\\frac{2}{{\\sqrt{2} }}\\)",
+        "B. 1",
+        "C. 2",
+        "D. \\(\\frac{1}{{\\sqrt{2} }}\\)"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 48,
+      "type": "single",
+      "content": "Tính giới hạn của hàm số \\(\\mathop {\\lim }\\limits_{{\\rm{x}} \\to \\infty } \\frac{{{{\\rm{x}}^3} + 3{{\\rm{x}}^2} + 4}}{{2{{\\rm{x}}^3}}}\\)",
+      "options": [
+        "A. 1",
+        "B. 2",
+        "C. \\(\\frac{2}{3}\\)",
+        "D. \\(\\frac{1}{2}\\)"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 49,
+      "type": "single",
+      "content": "Số M là giới hạn trái của hàm số y = f(x) tại x = x 0 có kí hiệu là:",
+      "options": [
+        "A. \\(\\mathop {\\lim }\\limits_{{\\rm{x}} \\to {{\\rm{x}}_0}} {\\rm{f}}\\left( {\\rm{x}} \\right){\\rm{ = M}}\\)",
+        "B. \\(\\mathop {\\lim }\\limits_{{\\rm{x}} \\to {{\\rm{x}}_0}^ - } {\\rm{f}}\\left( {\\rm{x}} \\right){\\rm{ = M}}\\)",
+        "C. \\(\\mathop {\\lim }\\limits_{{\\rm{x}} \\to {{\\rm{x}}_0}^ + } {\\rm{f}}\\left( {\\rm{x}} \\right){\\rm{ = M}}\\)",
+        "D. \\(\\mathop {\\lim }\\limits_{{\\rm{x}} \\to + \\infty } {\\rm{f}}\\left( {\\rm{x}} \\right){\\rm{ = M}}\\)"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 50,
+      "type": "single",
+      "content": "Hàm số y = f(x) có giới hạn L khi \\({\\rm{x}} \\to {{\\rm{x}}_0}\\) có kí hiệu là:",
+      "options": [
+        "A. \\(\\mathop {\\lim }\\limits_{{\\rm{x}} \\to {{\\rm{x}}_0}} {\\rm{f}}\\left( {\\rm{x}} \\right){\\rm{ = L}}\\)",
+        "B. \\(\\mathop {\\lim }\\limits_{{\\rm{x}} \\to \\infty } {\\rm{f}}\\left( {\\rm{x}} \\right){\\rm{ = L}}\\)",
+        "C. \\(\\mathop {\\lim }\\limits_{{\\rm{x}} \\to \\pm \\infty } {\\rm{f}}\\left( {\\rm{x}} \\right){\\rm{ = L}}\\)",
+        "D. \\(\\mathop {\\lim }\\limits_{{\\rm{x}} \\to {\\rm{L}}} {\\rm{f}}\\left( {\\rm{x}} \\right){\\rm{ = }}{{\\rm{x}}_0}\\)"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 51,
+      "type": "single",
+      "content": "Chọn đáp án đúng:\nGiả sử \\(\\mathop {\\lim }\\limits_{{\\rm{x}} \\to {{\\rm{x}}_0}} {\\rm{f}}\\left( {\\rm{x}} \\right){\\rm{ = L}}\\) thì:",
+      "options": [
+        "A. \\(\\mathop {\\lim }\\limits_{{\\rm{x}} \\to {{\\rm{x}}_0}} {\\rm{c}}{\\rm{.f}}\\left( {\\rm{x}} \\right){\\rm{ = c}}{\\rm{.L}}\\) với c là hằng số",
+        "B. \\(\\mathop {\\lim }\\limits_{{\\rm{x}} \\to {{\\rm{x}}_0}} \\sqrt {{\\rm{f}}\\left( {\\rm{x}} \\right)} {\\rm{ = }}\\sqrt {\\rm{L}} \\,\\,\\forall {\\rm{L}} \\in \\mathbb{Z}\\)",
+        "C. \\(\\mathop {\\lim }\\limits_{{\\rm{x}} \\to {{\\rm{x}}_0}} {\\rm{c}}{\\rm{.f}}\\left( {\\rm{x}} \\right){\\rm{ = L}}\\) với c là hằng số",
+        "D. \\(\\mathop {\\lim }\\limits_{{\\rm{x}} \\to {{\\rm{x}}_0}} {\\rm{c}}{\\rm{.f}}\\left( {\\rm{x}} \\right){\\rm{ = c}}\\)"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 52,
+      "type": "single",
+      "content": "Cho các giới hạn \\(\\mathop {\\lim }\\limits_{{\\rm{x}} \\to {{\\rm{x}}_0}} {\\rm{f}}\\left( {\\rm{x}} \\right){\\rm{ = 1}},\\mathop {\\lim }\\limits_{{\\rm{x}} \\to {{\\rm{x}}_0}} {\\rm{g}}\\left( {\\rm{x}} \\right){\\rm{ = 4}}\\) .Tính \\(\\mathop {\\lim }\\limits_{{\\rm{x}} \\to {{\\rm{x}}_0}} \\left[ {{\\rm{f}}\\left( {\\rm{x}} \\right){\\rm{ + 2g}}\\left( {\\rm{x}} \\right)} \\right]\\)",
+      "options": [
+        "A. 4",
+        "B. 8",
+        "C. 9",
+        "D. 10"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 53,
+      "type": "single",
+      "content": "Tính giá trị của giới hạn \\(\\mathop {\\lim }\\limits_{{\\rm{x}} \\to 2} \\left( {2 + {\\rm{x}}} \\right)\\)",
+      "options": [
+        "A. 2",
+        "B. 3",
+        "C. 4",
+        "D. 5"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 54,
+      "type": "single",
+      "content": "Chọn đáp án đúng:\nNếu \\(\\mathop {\\lim }\\limits_{{\\rm{x}} \\to {{\\rm{x}}_0}} {\\rm{f}}\\left( {\\rm{x}} \\right){\\rm{ = L}},\\mathop {\\lim }\\limits_{{\\rm{x}} \\to {{\\rm{x}}_0}} {\\rm{g}}\\left( {\\rm{x}} \\right){\\rm{ = M}}\\) thì:",
+      "options": [
+        "A. \\(\\mathop {\\lim }\\limits_{{\\rm{x}} \\to {{\\rm{x}}_0}} \\left[ {{\\rm{f}}\\left( {\\rm{x}} \\right){\\rm{ + g}}\\left( {\\rm{x}} \\right)} \\right] = {\\rm{L + M}}\\)",
+        "B. \\(\\mathop {\\lim }\\limits_{{\\rm{x}} \\to {{\\rm{x}}_0}} \\left[ {{\\rm{f}}\\left( {\\rm{x}} \\right){\\rm{ + g}}\\left( {\\rm{x}} \\right)} \\right] = {\\rm{L }}{\\rm{. M}}\\)",
+        "C. \\(\\mathop {\\lim }\\limits_{{\\rm{x}} \\to {{\\rm{x}}_0}} \\left[ {{\\rm{f}}\\left( {\\rm{x}} \\right){\\rm{ + g}}\\left( {\\rm{x}} \\right)} \\right] = {\\rm{L}} - {\\rm{M}}\\)",
+        "D. \\(\\mathop {\\lim }\\limits_{{\\rm{x}} \\to {{\\rm{x}}_0}} \\left[ {{\\rm{f}}\\left( {\\rm{x}} \\right){\\rm{ + g}}\\left( {\\rm{x}} \\right)} \\right] = {\\rm{L}} + 3{\\rm{M}}\\)"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 55,
+      "type": "single",
+      "content": "Chọn đáp án sai:",
+      "options": [
+        "A. \\(\\mathop {\\lim }\\limits_{{\\rm{x}} \\to {{\\rm{x}}_0}} {\\rm{x}} = {{\\rm{x}}_0}\\)",
+        "B. \\(\\mathop {\\lim }\\limits_{{\\rm{x}} \\to {{\\rm{x}}_0}} {\\rm{c}} = {\\rm{c}}\\) , với c là hằng số",
+        "C. \\(\\mathop {\\lim }\\limits_{{\\rm{x}} \\to + \\infty } {\\rm{c = c}}\\) , với c là hằng số",
+        "D. \\(\\mathop {\\lim }\\limits_{{\\rm{x}} \\to \\pm \\infty } {\\rm{c}} = - {\\rm{c}}\\) , với c là hằng số"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 56,
+      "type": "single",
+      "content": "Cho giới hạn \\(\\mathop {\\lim }\\limits_{{\\rm{x}} \\to + \\infty } \\left( {\\sqrt {36{{\\rm{x}}^2} + 5{\\rm{ax}} + 1} - 6{\\rm{x}} + {\\rm{b}}} \\right) = \\frac{{20}}{3}\\) và đường thẳng\n\\({\\rm{\\Delta }}:{\\rm{y = ax + 6b}}\\) đi qua điểm M(3;42) với \\({\\rm{a, b}} \\in \\mathbb{R}\\) . Giá trị của biểu thức \\({\\rm{T = }}{{\\rm{a}}^{\\rm{2}}}{\\rm{ + }}{{\\rm{b}}^2}\\) là:",
+      "options": [
+        "A. 12",
+        "B. 24",
+        "C. 41",
+        "D. 13"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 57,
+      "type": "single",
+      "content": "Biết \\(\\mathop {\\lim }\\limits_{{\\rm{x}} \\to 1} \\frac{{\\sqrt {{{\\rm{x}}^2} + {\\rm{x}} + 2} - \\sqrt[3]{{7{\\rm{x}} + 1}}}}{{\\sqrt{2} ({\\rm{x}} - 1)}} = \\frac{{{\\rm{a}}\\sqrt {\\rm{2}} }}{{\\rm{b}}}{\\rm{ + c}}\\) với \\({\\rm{a, b, c}} \\in \\mathbb{Z}\\) và \\(\\frac{{\\rm{a}}}{{\\rm{b}}}\\) là phân số tối giản. Giá trị của a + b + c bằng:",
+      "options": [
+        "A. 13",
+        "B. \\(\\frac{5}{3}\\)",
+        "C. 0",
+        "D. 2"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 58,
+      "type": "single",
+      "content": "Cho a, b là các số dương. Biết \\(\\mathop {\\lim }\\limits_{{\\rm{x}} \\to - \\infty } \\left( {\\sqrt {9{{\\rm{x}}^2} - {\\rm{ax}}} + \\sqrt[3]{{{\\rm{27}}{{\\rm{x}}^{\\rm{3}}}{\\rm{ + b}}{{\\rm{x}}^{\\rm{2}}}{\\rm{ + 5}}}}} \\right) = \\frac{7}{{27}}\\) . Tìm giá trị lớn nhất của a. b",
+      "options": [
+        "A. \\(\\frac{{18}}{{49}}\\)",
+        "B. \\(\\frac{{49}}{{18}}\\)",
+        "C. \\(\\frac{{18}}{{19}}\\)",
+        "D. \\(\\frac{{19}}{{18}}\\)"
+      ],
+      "answer": "B"
+    }
+  ]
+}

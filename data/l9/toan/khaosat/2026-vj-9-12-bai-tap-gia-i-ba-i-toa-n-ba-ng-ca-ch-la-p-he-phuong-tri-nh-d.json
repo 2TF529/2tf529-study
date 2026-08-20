@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-9-12-bai-tap-gia-i-ba-i-toa-n-ba-ng-ca-ch-la-p-he-phuong-tri-nh-d",
+  "sourceId": "vietjack:9-12-bai-tap-gia-i-ba-i-toa-n-ba-ng-ca-c",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "9.12 bài tập Giải bài toán bằng cách lập hệ phương trình dạng toán làm chung, làm riêng (hoặc chảy chung, chảy riêng) có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Hai người thợ cùng làm một công việc trong 16 giờ thì xong. Nếu người thứ nhất làm 3 giờ và người thứ hai làm 6 giờ thì họ làm được một phần tư công việc. Hỏi người thợ thứ nhất làm một mình thì bao lâu mới xong công việc đó?",
+      "options": [
+        "A. 48 giờ.",
+        "B. 24 giờ",
+        "C. 12 giờ.",
+        "D. 18 giờ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Gọi x, y lần lượt là thời gian người thợ thứ nhất và thứ hai làm một mình xong công việc (0 < x, y, giờ). Trong 1 giờ người thứ nhất làm được \\(\\frac{1}{x}\\) công việc, người thứ hai làm được \\(\\frac{1}{y}\\) công việc. Hai người thợ cùng làm trong 16 giờ thì xong nên ta có phương trình: \\(\\frac{1}{x}\\) + \\(\\frac{1}{y}\\) = \\(\\frac{1}{{16}}\\) (1) Người thứ nhất làm trong 3 giờ và người thứ hai làm trong 6 giờ thì được một phần tư công việc nên ta có phương trình: \\(\\frac{3}{x}\\) + \\(\\frac{6}{y}\\) = \\(\\frac{1}{4}\\) (2) Từ (1) và (2) ta có hệ phương trình: \\(\\left\\{ \\begin{array}{l}\\frac{1}{x} + \\frac{1}{y} = \\frac{1}{{16}}\\\\\\frac{3}{x} + \\frac{6}{y} = \\frac{1}{4}\\end{array} \\right.\\). Nhân cả hai vế của phương trình (1) với 3 ta được \\(\\frac{3}{x}\\) + \\(\\frac{3}{y}\\) = \\(\\frac{3}{{16}}\\) (3) Trừ theo vế (2) với (3) ta được \\(\\frac{3}{y}\\) = \\(\\frac{1}{{16}}\\) suy ra y = 48 (thỏa mãn). Với y = 48 suy ra x = 24 (thỏa mãn). Vậy thời gian người thợ thứ nhất làm một mình xong công việc là 24 giờ, người thợ thứ hai làm xong công việc là 48 giờ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Để hoàn thành công việc, hai tổ phải làm chung trong 6 giờ. Sau 2 giờ làm chung thì tổ II được điều đi làm việc khác, tổ I đã hoàn thành công việc còn lại trong 10 ngày. Hỏi nếu mỗi tổ làm riêng thì sau bao lâu tổ II làm xong công việc đó?",
+      "options": [
+        "A. 10 giờ.",
+        "B. 15 giờ",
+        "C. 12 giờ.",
+        "D. 18 giờ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Gọi thời gian tổ I hoàn thành công việc riêng là x (x > 0, giờ), Thời gian tổ II hoàn thành công việc riêng là y (y > 0, giờ) Trong 1 giờ người thứ nhất làm được \\(\\frac{1}{x}\\) công việc, người thứ hai làm được \\(\\frac{1}{y}\\) công việc. Trong 1 giờ, cả 2 tổ làm được \\(\\frac{1}{6}\\) (công việc) Nên ta có phương trình: \\(\\frac{1}{x} + \\frac{1}{y} = \\frac{1}{6}\\) (1) Trong 10 giờ tổ I làm được \\(\\frac{{10}}{x}\\) (công việc). Sau 2 giờ làm chung thì tổ II được điều đi làm việc khác, tổ I hoàn thành công việc còn lại trong 10 giờ nên ta có phương trình: \\(2\\left( {\\frac{1}{x} + \\frac{1}{y}} \\right) + \\frac{{10}}{x} = 1\\) hay \\(2.\\frac{1}{6} + \\frac{{10}}{x} = 1\\) suy ra x = 15 (2) Từ (1) và (2) ta có hệ phương trình \\(\\left\\{ \\begin{array}{l}\\frac{1}{x} + \\frac{1}{y} = \\frac{1}{6}\\\\x = 15\\end{array} \\right.\\) Thay x = 15 vào (1) suy ra y = 10 (thỏa mãn). Vậy tổ I làm một mình hoàn thành công việc là 15 giờ, tổ II làm một mình hoàn thành công việc là 10 giờ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Hai công nhân làm chung thì hoàn thành công việc trong 4 ngày. Người thứ nhất làm một nửa công việc, sau đó thì người thứ hai làm nốt công việc còn thì thì toàn bộ công việc sẽ được hoàn thành trong 9 ngày. Hỏi nếu mỗi người làm riêng thì người thứ nhất hoàn thành công việc trong bao nhiêu ngày? (Giả sử người thứ nhất làm chậm hơn người thứ hai)",
+      "options": [
+        "A. 6 ngày.",
+        "B. 12 ngày.",
+        "C. 16 ngày.",
+        "D. 14 ngày."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Gọi x, y là thời gian làm một mình để hoàn thành công việc của người thứ nhất và người thứ hai (0 < x, y, ngày). Trong 1 ngày người thứ nhất làm được \\(\\frac{1}{x}\\) công việc, người thứ hai làm được \\(\\frac{1}{y}\\) công việc. Hai công nhân làm chung thì hoàn thành công việc trong 4 ngày nên ta có phương trình: \\(\\frac{1}{x} + \\frac{1}{y} = \\frac{1}{4}\\) (1). Thời gian người thứ nhất làm một mình xong nửa công việc là \\(\\frac{x}{2}\\) ngày. Thời gian người thứ hai làm một mình xong nửa công việc là \\(\\frac{y}{2}\\) ngày. Do đó, ta có phương trình \\(\\frac{x}{2} + \\frac{y}{2} = 9\\) hay x + y = 18 (2) Từ (1) và (2) ta có hệ phương trình \\(\\left\\{ \\begin{array}{l}\\frac{1}{x} + \\frac{1}{y} = \\frac{1}{4}\\\\x + y = 18\\end{array} \\right.\\). Từ phương trình (1) có \\(\\frac{1}{x} + \\frac{1}{y} = \\frac{1}{4}\\) suy ra \\(\\frac{{xy}}{{x + y}} = 4\\) hay 4(x + y) = xy hay xy = 72. Thay x = 18 – y vào xy = 72 ta được (18 – y)y = 72 suy ra y 2 – 18y + 72 = 0. Suy ra y = 12 hoặc y = 6 (thỏa mãn). Với y = 12 thì x = 6 . Với y = 6 thì x = 12 . Do người thứ nhất làm chậm hơn người thứ hai nên y = 6 và x = 12 thỏa mãn. Vậy người thứ nhất làm một mình trong 12 ngày, và người thứ hai làm một mình trong 6 ngày thì hoàn thành công việc."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Hai vòi nước chảy vào một bể cạn thì sau 1 giờ 12 phút sẽ đầy. Nếu mở vòi thứ nhất trong 12 phút và vòi thứ hai trong 15 phút thì được \\(\\frac{{11}}{{60}}\\) bể. Hỏi nếu vòi thứ hai chảy một mình thì sau bao lâu đầy bể?",
+      "options": [
+        "A. 2 giờ.",
+        "B. 3 giờ.",
+        "C. 4 giờ.",
+        "D. 5 giờ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Đổi 1 giờ 12 phút = \\(\\frac{6}{5}\\) giờ, 12 phút = \\(\\frac{1}{5}\\) giờ, 15 phút = \\(\\frac{1}{4}\\) giờ. Gọi thời gian vòi thứ nhất và vòi thứ hai chảy một mình đầy bể là x, y (x, y > \\(\\frac{6}{5}\\), giờ). Trong 1 giờ vòi thứ nhất chảy được \\(\\frac{1}{x}\\) bể, vòi thứ hai làm được \\(\\frac{1}{y}\\) bể. Hai vòi cùng chảy vào một bể thì sau \\(\\frac{6}{5}\\) giờ đầy nên ta có: \\(\\frac{1}{x} + \\frac{1}{y} = \\frac{5}{6}\\) (1) Nếu mở vòi thứ nhất trong 12 phút và vòi thứ hai trong 15 phút thì được \\(\\frac{{11}}{{60}}\\) bể nên ta có phương trình: \\(\\frac{1}{{5x}} + \\frac{1}{{4y}} = \\frac{{11}}{{60}}\\) (2) Từ (1) và (2) ta có hệ phương trình: \\(\\left\\{ \\begin{array}{l}\\frac{1}{x} + \\frac{1}{y} = \\frac{5}{6}\\\\\\frac{1}{{5x}} + \\frac{1}{{4y}} = \\frac{{11}}{{60}}\\end{array} \\right.\\) Suy ra \\(\\left\\{ \\begin{array}{l}\\frac{1}{{5x}} + \\frac{1}{{5y}} = \\frac{1}{6}\\\\\\frac{1}{{5x}} + \\frac{1}{{4y}} = \\frac{{11}}{{60}}\\end{array} \\right.\\) do đó \\(\\left\\{ \\begin{array}{l}\\frac{1}{{20y}} = \\frac{1}{{60}}\\\\\\frac{1}{{5x}} + \\frac{1}{{4y}} = \\frac{{11}}{{60}}\\end{array} \\right.\\) Suy ra y = 3 và x = 2 (thỏa mãn) Vậy nếu vòi thứ hai chảy một mình thì sau 3 giờ sẽ đầy bể."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Nếu hai vòi nước cùng chảy vào một bể không có nước thì bể sẽ đầy trong 1 giờ 20 phút. Nếu mở riêng vòi thứ nhất trong 10 phút và vòi thứ hai trong 12 phút thì chỉ được \\(\\frac{2}{{15}}\\) bể nước. Hỏi nếu mở riêng từng vòi thì thời gian để vòi thứ nhất chảy đầy bể nước là bao nhiêu phút?",
+      "options": [
+        "A. 120 phút.",
+        "B. 140 phút.",
+        "C. 240 phút.",
+        "D. 180 phút."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Đổi 1 giờ 20 phút = 80 phút Gọi thời gian vòi thứ nhất và vòi thứ hai chảy một mình đầy bể là x, y (x, y > 80, phút). Trong 1 phút vòi thứ nhất chảy được \\(\\frac{1}{x}\\) bể, vòi thứ hai làm được \\(\\frac{1}{y}\\) bể. Nếu hai vòi nước cùng chảy vào một bể không có nước thì bể sẽ đầy 80 phút nên ta có phương trình: \\(80.\\frac{1}{x} + 80.\\frac{1}{y} = 1\\) hay \\(\\frac{1}{x} + \\frac{1}{y} = \\frac{1}{{80}}\\) (1). Nếu mở riêng vòi thứ nhất trong 10 phút và vòi thứ hai trong 12 phút thì chỉ được \\(\\frac{2}{{15}}\\) bể nước nên ta có phương trình \\(\\frac{{10}}{x} + \\frac{{12}}{y} = \\frac{2}{{15}}\\) (2) Từ (1) và (2) ta có hệ phương trình \\(\\left\\{ \\begin{array}{l}\\frac{1}{x} + \\frac{1}{y} = \\frac{1}{{80}}\\\\\\frac{{10}}{x} + \\frac{{12}}{y} = \\frac{2}{{15}}\\end{array} \\right.\\) Suy ra \\(\\left\\{ \\begin{array}{l}\\frac{{10}}{x} + \\frac{{10}}{y} = \\frac{{10}}{{80}}\\\\\\frac{{10}}{x} + \\frac{{12}}{y} = \\frac{2}{{15}}\\end{array} \\right.\\) Trừ theo vế hai phương trình của hệ ta được \\(\\frac{2}{y} = \\frac{1}{{120}}\\) suy ra y = 240 (thỏa mãn). Với y = 240 suy ra x = 120 (thỏa mãn). Vậy nếu chảy một mình thì vòi thứ nhất làm đầy bể sau 120 phút, vòi thứ hai làm đầy bể sau 240 phút."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Hai vòi nước cùng chảy vào một bể không có nước thì sau 1 giờ 30 phút sẽ đầy bể. Nếu mở vời I chảy trong 15 phút rồi khóa lại và mở vòi thứ II chảy trong 20 phút thì được \\(\\frac{1}{5}\\) bể. Hỏi nếu vòi thứ hai chảy riêng thì sau bao lâu đầy bể?",
+      "options": [
+        "A. 3 giờ.",
+        "B. 3,75 giờ.",
+        "C. 2,5 giờ",
+        "D. 3,5 giờ."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Đổi 1 giờ 30 phút = 90 phút. Gọi thời gian vòi thứ nhất và vòi thứ hai chảy một mình đầy bể là x, y (x, y > 90, phút). Trong 1 phút vòi thứ nhất chảy được \\(\\frac{1}{x}\\) bể, vòi thứ hai làm được \\(\\frac{1}{y}\\) bể. Nếu hai vòi nước cùng chảy vào một bể không có nước thì bể sẽ đầy 90 phút nên ta có phương trình: \\(90.\\frac{1}{x} + 90.\\frac{1}{y} = 1\\) hay \\(\\frac{1}{x} + \\frac{1}{y} = \\frac{1}{{90}}\\) (1). Nếu mở riêng vòi I trong 15 phút và vòi II trong 20 phút thì chỉ được \\(\\frac{1}{5}\\) nên ta có phương trình: \\(\\frac{{15}}{x} + \\frac{{20}}{y} = \\frac{1}{5}\\) (2) Từ (1) và (2) ta có hệ phương trình: \\(\\left\\{ \\begin{array}{l}\\frac{1}{x} + \\frac{1}{y} = \\frac{1}{{90}}\\\\\\frac{{15}}{x} + \\frac{{20}}{y} = \\frac{1}{5}\\end{array} \\right.\\). Giải hệ phương trình suy ra \\(\\left\\{ \\begin{array}{l}\\frac{1}{x} = \\frac{1}{{225}}\\\\\\frac{1}{y} = \\frac{1}{{150}}\\end{array} \\right.\\) suy ra \\(\\left\\{ \\begin{array}{l}x = 225\\\\y = 150\\end{array} \\right.\\) (thỏa mãn). Vậy vòi thứ I chảy một mình trong 225 phút = 3,75 giờ thì đầy bể. Vòi thứ II chảy một mình trong 150 phút = 2,5 giờ thì đầy bể."
+    }
+  ]
+}

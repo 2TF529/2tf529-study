@@ -1,0 +1,85 @@
+{
+  "id": "2026-sg-giai-248-bai-tap-xac-suat-thong-ke-hay-va-kho",
+  "sourceId": "sieugioi:giai-248-bai-tap-xac-suat-thong-ke-hay-v",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "title": "Giải 248 bài tập xác suất thống kê hay và khó",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "short_answer",
+      "content": "Câu 1: [Mã đề 101 chính thức 2025 của BGD&ĐT ]\nMột phần mềm nhận dạng tin nhắn quảng cáo trên điện thoại bằng cách dựa theo từ khóa để đánh dấu một số tin nhắn được gửi đến. Qua một thời gian dài sử dụng, người ta thấy rằng trong số tất cả các tin nhắn gửi đến, có 15% số tin nhắn bị đánh dấu. Trong số các tin nhắn bị đánh dấu, có 10% số tin nhắn không phải là quảng cáo. Trong số các tin nhắn không bị đánh dấu, có 5% số tin nhắn là quảng cáo. Chọn ngẫu nhiên một tin nhắn được gửi đến điện thoại. Khi đó:\nMệnh đề Đúng Sai\n(a) Xác suất để tin nhắn đó không bị đánh dấu bằng 0,85\n(b) Xác suất để tin nhắn đó không phải là quảng cáo, biết rằng nó không bị đánh dấu, bằng 0,95\n(c) Xác suất để tin nhắn đó không phải là quảng cáo bằng 0,85\n(d) Xác suất để tin nhắn đó không bị đánh dấu, biết rằng nó không phải là quảng cáo, lớn hơn 0,95\nLời giải\nGọi \\(A\\): “Tin nhắn bị đánh dấu”; và \\(B\\): “Tin nhắn là quảng cáo”.\nTheo đề cho: \\(P(A) = 0{,}15\\); \\(P(\\overline{B}\\mid A) = 0{,}1\\); \\(P(B\\mid \\overline{A}) = 0{,}05\\).\nChọn ngẫu nhiên một tin nhắn được gửi đến điện thoại.\n(a) Xác suất để tin nhắn đó không bị đánh dấu bằng \\(0{,}85\\).\nXác suất để tin nhắn đó không bị đánh dấu là: \\(P(\\overline{A}) = 1 – P(A) = 1 – 0{,}15 = 0{,}85\\).\n» Chọn ĐÚNG.\n(b) Xác suất để tin nhắn đó không phải là quảng cáo, biết rằng nó không bị đánh dấu, bằng \\(0{,}95\\).\nXác suất để tin nhắn đó không phải là quảng cáo, biết rằng nó không bị đánh dấu là:\n\\(P(\\overline{B}\\mid \\overline{A}) = 1 – P(B\\mid \\overline{A}) = 1 – 0{,}05 = 0{,}95\\).\n» Chọn ĐÚNG.\n(c) Xác suất để tin nhắn đó không phải là quảng cáo bằng \\(0{,}85\\).\nXác suất để tin nhắn đó không phải là quảng cáo là:\n\\(P(\\overline{B}) = P(A)\\cdot P(\\overline{B}\\mid A) + P(\\overline{A})\\cdot P(\\overline{B}\\mid \\overline{A}) = 0{,}15\\cdot 0{,}1 + 0{,}85\\cdot 0{,}95 = 0{,}8225\\).\n» Chọn SAI.\n(d) Xác suất để tin nhắn đó không bị đánh dấu, biết rằng nó không phải là quảng cáo, lớn hơn \\(0{,}95\\).\nXác suất để tin nhắn đó không bị đánh dấu, biết rằng nó không phải là quảng cáo là:\n\\(P(\\overline{A}\\mid \\overline{B}) = \\frac{P(\\overline{A})P(\\overline{B}\\mid \\overline{A})}{P(\\overline{B})} = \\frac{0{,}85\\cdot 0{,}95}{0{,}8225} = \\frac{323}{329} \\approx 0{,}98 > 0{,}95\\).\n» Chọn ĐÚNG.",
+      "answer": "0",
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 2,
+      "type": "short_answer",
+      "content": "Câu 2: [Mã đề 101 chính thức 2025 của BGD&ĐT ]\nBạn Nam tham gia cuộc thi giải một mật thư. Theo quy tắc của cuộc thi, người chơi cần chọn ra sáu số từ tập hợp S = {11;12;13;14;15;16;17;18;19} và xếp mỗi số vào đúng một vị trí trong sáu vị trí A,B ,C, M, N,P như hình bên dưới.\nMật thư\nMật thư sẽ được giải nếu các bộ ba số xuất hiện ở những bộ ba vị trí \\((A, M, B)\\); \\((B, N, C)\\); \\((C, P, A)\\) tạo thành các cấp số cộng theo thứ tự đó. Bạn Nam chọn ngẫu nhiên sáu số trong tập \\(S\\) và xếp ngẫu nhiên vào các vị trí yêu cầu. Gọi xác suất để bạn Nam giải được mật thư ở lần chọn và xếp đó là \\(a\\). Giá trị của \\(\\frac{1}{a}\\) bằng bao nhiêu?\nLời Giải\nBộ ba số xuất hiện ở những bộ ba vị trí \\((A, M, B)\\); \\((B, N, C)\\); \\((C, P, A)\\) tạo thành các cấp số cộng theo thứ tự đó thì \\(\\left\\{ \\begin{array}{*{35}{l}} \\begin{align} & 2M=A+B\\ \\\\ & 2N=B+C\\ \\\\ & 2P=A+C \\\\ \\end{align} \\\\ \\end{array} \\right.\\) Khi đó: A, B, C phải cùng chẵn hoặc cùng lẻ.\nCác trường hợp không hợp lệ: Nếu \\({A, B, C}\\) là một cấp số cộng (giả sử \\(A = x\\), \\(B = x + d\\), \\(C = x + 2d\\)) thì \\(d\\) phải là số chẵn để \\(A, B, C\\) cùng tính chẵn lẻ. Khi đó \\(M = x + \\frac{d}{2}\\), \\(N = x + \\frac{3d}{2}\\), \\(P = x + d\\). Giá trị \\(P = x + d\\) trùng với \\(B = x + d\\). Vì \\(6\\) số được xếp phải đôi một khác nhau nên mọi bộ \\({A, B, C}\\) là cấp số cộng sẽ không hợp lệ.\nSố cách chọn \\(6\\) số từ \\(9\\) số và xếp là: \\(n(\\Omega) = A_9^6 = 60480\\).\nTrường hợp 1:\nA, B, C đều chẵn.\nSố cách chọn \\(3\\) số chẵn: \\(C_4^3 = 4\\).\nCác bộ \\(3\\) số chẵn là cấp số cộng: \\({12;14;16}\\) và \\({14;16;18}\\), hai bộ này không hợp lệ.\nSố bộ \\(3\\) số chẵn hợp lệ: \\(4 – 2 = 2\\).\nSố trường hợp thuận lợi khi A, B, C đều chẵn: \\(2 \\cdot 3! = 12\\).\nTrường hợp 2:\nA, B, C đều lẻ.\nSố cách chọn \\(3\\) số lẻ: \\(C_5^3 = 10\\).\nCác bộ \\(3\\) số lẻ là cấp số cộng có: \\({11;13;15}\\), \\({13;15;17}\\), \\({15;17;19}\\), \\({11;15;19}\\), bốn bộ này không hợp lệ.\nSố bộ \\(3\\) số lẻ hợp lệ: \\(10 – 4 = 6\\).\nSố trường hợp thuận lợi khi \\(A, B, C\\) đều lẻ: \\(6 \\cdot 3! = 36\\).\nCả hai trường hợp có số kết quả thuận lợi là: \\(n(A) = 12 + 36 = 48\\).\nXác suất cần tìm: \\(a = \\frac{n(A)}{n(\\Omega)} = \\frac{48}{60840} = \\frac{1}{1260} \\Rightarrow \\frac{1}{a} = \\frac{1}{\\frac{1}{1260}} = 1260\\).",
+      "answer": "0",
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 3,
+      "type": "short_answer",
+      "content": "Câu 3: [Chuyên Phan Bội Châu Hà Tĩnh]\nTrong cuộc gặp mặt dặn dò trước khi lên đường tham gia kì thi học sinh giỏi, có 10 bạn trong đội tuyển gồm 2 bạn đến từ lớp 12A, 3 bạn đến từ lớp 12B, 5 bạn còn lại đến từ 5 lớp khác (mỗi lớp 1 bạn). Thầy giáo xếp ngẫu nhiên các bạn kể trên vào một bàn dài có 10 ghế mà mỗi bên có 5 ghế đối diện nhau. Tính xác suất để không có học sinh nào cùng lớp ngồi đối diện nhau (làm tròn kết quả đến hàng phần chục).\nLời giải\nĐáp án: \\(0,6\\)\nTa có không gian mẫu là \\(n\\left( \\Omega \\right)=10!\\)\nGọi A là biến cố “ Không có học sinh nào cùng lớp ngồi đối diện nhau”;\n\\(\\overline{A}\\) là biến cố “ có ít nhất 2 học sinh cùng lớp ngồi đối diện nhau”.\n\\({{A}_{1}}\\) là biến cố “ học sinh lớp 12A ngồi đối diện nhau”\n\\({{A}_{2}}\\) là biến cố “ học sinh lớp 12B ngồi đối diện nhau”\nKhi đó \\(n\\left( A \\right)=n\\left( {{A}_{1}} \\right)+n\\left( {{A}_{2}} \\right)-n\\left( {{A}_{1}}\\cap {{A}_{2}} \\right)\\).\nĐếm \\(n\\left( {{A}_{1}} \\right)\\): Trước hết cặp ghế cho 2 học sinh 12A ngồi có 5 cách, đổi chỗ 2 bạn này có \\(2!\\) cách xếp; xếp 8 học sinh còn lại có \\(8!\\) cách. Do đó \\(n\\left( {{A}_{1}} \\right)=5.2!8!\\)\nĐếm \\(n\\left( {{A}_{2}} \\right)\\): Chọn cặp ghế chứa 2 học sinh lớp 12B có 5 cách, chọn 2 học sinh lớp 12B xếp vào cặp ghế này có \\(A_{3}^{2}\\) cách; xếp 8 học sinh còn lại có \\(8!\\) cách. Do đó \\(n\\left( {{A}_{2}} \\right)=5.A_{3}^{2}.8!\\).\nĐếm \\(n\\left( {{A}_{1}}\\cap {{A}_{2}} \\right)\\): Chọn 2 cặp ghế trong 5 cặp ghế có \\(C_{5}^{2}\\) cách; trong 2 cặp này chọn 1 cặp cho 2 học sinh lớp 12A có 2 cách, đổi chỗ 2 học sinh này có \\(2!\\) cách; chọn 2 học sinh lớp 12B xếp vào cặp ghế còn lại có \\(A_{3}^{2}\\) cách; xếp 6 học sinh còn lại có \\(6!\\) cách. Do đó \\(n\\left( {{A}_{1}}\\cap {{A}_{2}} \\right)=C_{5}^{2}.2.2!.A_{3}^{2}.6!\\).\nTừ đó \\(P\\left( \\overline{A} \\right)=\\frac{25}{63}\\Rightarrow P\\left( A \\right)=\\frac{38}{63}\\approx 0,6\\).",
+      "answer": "0",
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "content": "Câu 4: [Chuyên Lê Khiết Quảng Ngãi]\nBạn Hoàng Huy chọn ngẫu nhiên một bóng đèn led trên quầy. Trên quầy có hai loại đèn màu trắng và màu vàng có hình thức và kích thước như nhau. Trong đó màu trắng chiếm \\(60%\\). Bóng đèn màu trắng có tỉ lệ hỏng là \\(3%\\), bóng đèn màu vàng có tỉ lệ hỏng là \\(2%\\). Xác suất để bạn chọn được",
+      "statements": [
+        "a) Một bóng đèn màu vàng là \\(0,6\\).",
+        "b) Một bóng đèn không hỏng, biết nó màu trắng là \\(0,97\\).",
+        "c) Một bóng đèn không hỏng, biết nó màu vàng là \\(0,98\\).",
+        "d) Một bóng đèn không hỏng là \\(0,974\\).\nLời giải\nGọi biến cố \\(A:\\) “Chọn được bóng đèn màu trắng”, biến cố \\(B:\\) “Chọn được bóng đèn hỏng”.\nTa có: \\(P\\left( A \\right)=0,6\\) suy ra \\(P\\left( \\overline{A} \\right)=0,4\\) và \\(P\\left( B|A \\right)=0,03\\), \\(P\\left( B|\\overline{A} \\right)=0,02\\).",
+        "a) Sai.\nXác suất để bạn chọn được một bóng đèn màu vàng là \\(P\\left( \\overline{A} \\right)=0,4\\).",
+        "b) Đúng.\nXác suất để bạn chọn được một bóng đèn không hỏng, biết nó màu trắng là\n\\(P\\left( \\overline{B}|A \\right)=1-P\\left( B|A \\right)=0,97\\).",
+        "c) Đúng.\nXác suất để bạn chọn được một bóng đèn không hỏng, biết nó màu vàng là\n\\(P\\left( \\overline{B}|\\overline{A} \\right)=1-P\\left( B|\\overline{A} \\right)=0,98\\).",
+        "d) Đúng.\nXác suất để bạn chọn được một bóng đèn không hỏng là\n\\(P\\left( \\overline{B} \\right)=P\\left( \\overline{B}|A \\right).P\\left( A \\right)+P\\left( \\overline{B}|\\overline{A} \\right).P\\left( \\overline{A} \\right)=0,97.0,6+0,98.0,4=0,974\\)."
+      ],
+      "answer": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 5,
+      "type": "short_answer",
+      "content": "Câu 5: [Chuyên Lê Khiết Quảng Ngãi]\nCho tập \\(A=\\left\\{ 1;2;3;4;5;…;100 \\right\\}\\). Gọi \\(S\\) là tập các tập con của tập hợp \\(A\\) mà mỗi tập con này gồm \\(3\\) phần tử và có tổng \\(3\\) phần tử bằng \\(91\\). Chọn ngẫu nhiên một phần tử của tập \\(S\\). Khi đó, xác suất chọn được phần tử của tập \\(S\\) có \\(3\\)số lập thành cấp số nhân với công bội \\(q\\) là số nguyên dương là \\(\\frac{m}{n}\\) (với \\(m,\\,n\\) là số nguyên dương và \\(\\frac{m}{n}\\) là phân số tối giản). Tính \\(m+n\\) .\nLời giải\nĐáp án: 216\nGiả sử tập con bất kì \\(\\left\\{ a,b,c \\right\\}\\in S,1\\le a,b,c\\le 100,\\,a,b,c\\) phân biệt.\nTa có \\(a+b+c=91\\). Số bộ \\(a,b,c\\) là \\(C_{91-1}^{3-1}=C_{90}^{2}\\) (bài toán chia kẹo).\nTuy nhiên trong các bộ trên vẫn chứa các bộ có 2 số giống nhau như \\(\\left\\{ 1;1;89 \\right\\},…,\\left\\{ 45;45;1 \\right\\}\\), mỗi bộ lại có 3 bộ tương ứng. Số bộ có 2 số giống nhau là \\(3.45=135\\).\nSố phần tử của không gian mẫu là \\(n\\left( \\Omega \\right)=\\frac{C_{90}^{2}-135}{3!}=645\\).\nGiả sử ta chọn được 3 số \\(a,\\,aq,\\,a{{q}^{2}}\\) với \\(q>0\\).\nTheo giả thiết ta có \\(a+aq+a{{q}^{2}}=91\\Leftrightarrow a.\\left( 1+q+{{q}^{2}} \\right)=91\\).\nDo \\(91=7.13=1.91\\) và \\(a\\) , \\(q\\) đều là các số nguyên dương nên ta có các trường hợp sau:\n+\nTrường hợp 1\n: \\(\\left\\{ \\begin{array}{l} a = 7\\\\ 1 + q + {q^2} = 13 \\end{array} \\right. \\Leftrightarrow \\left\\{ \\begin{array}{l} a = 7\\\\ \\left[ \\begin{array}{l} q = 3{\\mkern 1mu} \\left( {tm} \\right)\\\\ q = – 4{\\mkern 1mu} \\left( {ktm} \\right) \\end{array} \\right. \\end{array} \\right.\\). Ta có bộ số thỏa mãn \\(\\left\\{ 7;21;63 \\right\\}\\).\n+\nTrường hợp 2\n: \\(\\left\\{ \\begin{array}{l} a = 13\\\\ 1 + q + {q^2} = 7 \\end{array} \\right. \\Leftrightarrow \\left\\{ \\begin{array}{l} a = 7\\\\ \\left[ \\begin{array}{l} q = 2{\\mkern 1mu} \\left( {tm} \\right)\\\\ q = – 3{\\mkern 1mu} \\left( {ktm} \\right) \\end{array} \\right. \\end{array} \\right.\\). Ta có bộ số thỏa mãn \\(\\left\\{ 1;9;81 \\right\\}\\).\n+\nTrường hợp 3\n: \\(\\left\\{ \\begin{array}{l} a = 1\\\\ 1 + q + {q^2} = 91 \\end{array} \\right. \\Leftrightarrow \\left\\{ \\begin{array}{l} a = 1\\\\ \\left[ \\begin{array}{l} q = 9{\\mkern 1mu} \\left( {tm} \\right)\\\\ q = – 10{\\mkern 1mu} \\left( {ktm} \\right) \\end{array} \\right. \\end{array} \\right.\\). Xác suất cần tìm là \\(p=\\frac{3}{645}=\\frac{1}{215}\\[\\Rightarrow m=1;\\,n=215\\). Vậy \\(m+n=216\\).\n+\nTrường hợp 4:\n\\(\\left\\{ \\begin{array}{l} a = 91\\\\ 1 + q + {q^2} = 1 \\end{array} \\right. \\Leftrightarrow \\left\\{ \\begin{array}{l} a = 91\\\\ \\left[ \\begin{array}{l} q = 0{\\mkern 1mu} \\left( {ktm} \\right)\\\\ q = – 1{\\mkern 1mu} \\left( {ktm} \\right) \\end{array} \\right. \\end{array} \\right.\\).\nXác suất cần tìm là \\(p=\\frac{3}{645}=\\frac{1}{215}\\]\\Rightarrow m=1;\\,n=215\\).\nVậy \\(m+n=216\\).",
+      "answer": "0",
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "content": "Câu 6: [Chuyên Lê Khiết Quảng Ngãi]\nMột xạ thủ bắn bia, trên bia có các vòng tròn tính điểm (từ 5 đến 10) như hình vẽ. Mỗi lần bắn, xác suất xạ thủ đó bắn trúng vòng 8 là \\(0,25\\); trúng vòng dưới 8 (kẻ cả bắn trượt) là \\(0,4\\). Gọi \\({{P}_{1}},{{P}_{2}}\\) lần lượt là xác suất xạ thủ đó bắn trúng vòng 10 và vòng 9 trong mỗi lần bắn. Biết rằng nếu xạ thủ đó bắn ba phát vào bia thì xác suất cả ba lần bắn trúng vòng 10 là \\(0,003375\\).\nBia bắn đạn",
+      "statements": [
+        "a) \\({{P}_{1}}=0,15\\).",
+        "b) \\({{P}_{2}}=0,18\\).",
+        "c) Nếu xạ thủ đó bắn ba phát thì xác suất đạt 29 điểm là \\(0,0045\\).",
+        "d) Nếu xạ thủ đó bắn ba phát thì xác suất đạt ít nhất 28 điểm là \\(0,05175\\).\nView Fullscreen\nSkip to PDF content\nTẢI FILE ĐỀ\nTẢI FILE LỜI GIẢI"
+      ],
+      "answer": [
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "note": "Đáp án đối chiếu chuẩn"
+    }
+  ]
+}

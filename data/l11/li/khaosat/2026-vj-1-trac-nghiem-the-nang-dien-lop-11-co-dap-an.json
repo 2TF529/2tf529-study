@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-trac-nghiem-the-nang-dien-lop-11-co-dap-an",
+  "sourceId": "vietjack:1-trac-nghiem-the-nang-dien-lop-11-co-da",
+  "grade": "l11",
+  "subjectSlug": "li",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.Trắc nghiệm Thế năng điện lớp 11 (có đáp án)",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Phát biểu nào sau đây là không đúng ?",
+      "options": [
+        "A. Công của lực điện bằng độ giảm thế năng của điện tích trong điện trường.",
+        "B. Biểu thức tính công của lực điện trong điện trường đều là: A = Ed",
+        "C. Điện trường tĩnh là một trường thế.",
+        "D. Công của lực điện tác dụng lên một điện tích không phụ thuộc vào dạng đường đi của điện tích mả chỉ phụ thuộc vào vị trí điểm đầu và điểm cuối của đoạn đường đi trong điện trường."
+      ],
+      "answer": "B",
+      "note": "Biểu thức tính công của lực điện trong điện trường đều là: A = qEd Đáp án đúng là B."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Nếu điện tích dịch chuyển trong điện trường sao cho thế năng của nó tăng thì công của của lực điện trường",
+      "options": [
+        "A. âm.",
+        "B. dương.",
+        "C. bằng không.",
+        "D. chưa đủ dữ kiện để xác định."
+      ],
+      "answer": "A",
+      "note": "Ta có: A MN = W M - W N , thế năng tăng nên W N > W M nên A MN < 0 Nên điện tích dịch chuyển trong điện trường sao cho thế năng của nó tăng thì công của của lực điện trường âm. Đáp án đúng là A."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Nếu chiều dài đường đi của điện tích trong điện trường tăng 2 lần thì công của lực điện trường",
+      "options": [
+        "A. tăng 2 lần.",
+        "B. giảm 2 lần.",
+        "C. không thay đổi.",
+        "D. chưa đủ dữ kiện để xác định."
+      ],
+      "answer": "D",
+      "note": "A = Fscos α . Nếu chỉ thay đổi chiều dài đường đi của điện tích trong điện trường thì chưa đủ dữ kiện để xác định công của lực điện trường vì điện trường còn phụ thuộc vào lực và góc. Đáp án đúng là D."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Công của lực điện trường dịch chuyển một điện tích 5.10 -6 C dọc theo chiều một đường sức trong một điện trường đều 1000 V/m trên quãng đường dài 0,5m là",
+      "options": [
+        "A. 25.10 -3 J.",
+        "B. 5.10 -3 J.",
+        "C. 2,5.10 -3 J.",
+        "D. 5.10 -4 J."
+      ],
+      "answer": "C",
+      "note": "A = qEd = qEscos α = 5.10-6.1000.0,5.cos00 = 2,5.10-3 J. Đáp án đúng là C."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Một electron chuyển động dọc theo đường sức của một điện trường đều. Cường độ điện trường E = 1000 V/m. Vận tốc ban đầu của electron là 3.10 5 m/s, khối lượng của elctron là 9,1.10 -31 kg. Tại lúc vận tốc bằng không thì nó đã đi được đoạn đường bao nhiêu ?",
+      "options": [
+        "A. 0,26 mm.",
+        "B. 2,6 mm.",
+        "C. 26 mm.",
+        "D. 260 mm."
+      ],
+      "answer": "A",
+      "note": "Công của lực điện trường là A = qEd = - eEd = ΔW Theo định lý biến thiên động năng ta có: A = − e E d = 0 − m v 2 2 ⇒ d = m v 2 2 e E = 9,1.10 − 31 . 3.10 5 2 2.1,6.10 − 19 .1000 = 2,6.10-4 m = 0,26 mm Chọn đáp án A."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Công của lực điện trường dịch chuyển một điện tích 5.10 -6 C ngược chiều một đường sức trong một điện trường đều 1000 V/m trên quãng đường dài 0,5 m là",
+      "options": [
+        "A. -2,5.10 -3 J.",
+        "B. -5.10 -3 J.",
+        "C. 2,5.10 -3 J.",
+        "D. 5.10 -3 J."
+      ],
+      "answer": "A",
+      "note": "A = qEd = qEscos α = 5.10 -6 .1000.0,5.cos180 0 = -2,5.10 -3 J. Đáp án đúng là A."
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "id": "l12-tin-giuaki2-2026-6-de-thi-giua-ki-2-tin-hoc-12-ket-noi-tri-thuc-cau-truc-moi-co-d-5e495efb9a-de-02",
+  "grade": "l12",
+  "subjectSlug": "tin",
+  "examType": "giuaki2",
+  "year": 2026,
+  "code": "Đề 02",
+  "title": "6+ Đề thi Giữa kì 2 Tin học 12 Kết nối tri thức (cấu trúc mới, có đáp án) - Đề 02",
+  "duration": 45,
+  "answerSource": "partial",
+  "sourceUrl": "https://www.vietjack.com/de-kiem-tra-lop-12/de-thi-tin-hoc-12-giua-ki-2-ket-noi-tri-thuc.jsp",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 1:&lt;/strong&gt; Thuộc tính nào sau đây chỉ áp dụng cho phần tử dạng khối?",
+      "options": [
+        "A. margin.",
+        "B. padding.",
+        "C. border-style.",
+        "D. width."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 2:&lt;/strong&gt; Để định dạng khoảng cách giữa nội dung và đường viền của một phần tử trong CSS, thuộc tính nào được sử dụng?",
+      "options": [
+        "A. margin",
+        "B. padding",
+        "C. border-width",
+        "D. spacing"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 3:&lt;/strong&gt; Trong HTML, thẻ nào dùng để tạo danh sách có thứ tự?",
+      "options": [
+        "A. &lt;ul&gt;",
+        "B. &lt;li&gt;",
+        "C. &lt;ol&gt;",
+        "D. &lt;dl&gt;"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 4:&lt;/strong&gt; Trong CSS, bộ chọn nào dùng để định dạng tất cả phần tử có cùng class?",
+      "options": [
+        "A. #className",
+        "B. .className",
+        "C. className",
+        "D. *className"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 5:&lt;/strong&gt; Trong mô hình hộp (Box Model), thuộc tính nào quyết định kích thước đường viền của phần tử?",
+      "options": [
+        "A. border",
+        "B. margin",
+        "C. padding",
+        "D. width"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 6:&lt;/strong&gt; Giả sử một trang web có nhiều nút \"Thêm vào giỏ hàng\", để định dạng đồng loạt tất cả các nút này, ta nên sử dụng gì?",
+      "options": [
+        "A. ID riêng cho mỗi nút",
+        "B. Một class chung",
+        "C. Sử dụng thẻ &lt;button&gt; không có CSS",
+        "D. Định dạng bằng inline CSS từng nút một"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 7:&lt;/strong&gt; Cho mẫu CSS sau: h1 {padding: 5px 10px 3px 20px;}. Phát biểu nào sau đây ĐÚNG?",
+      "options": [
+        "A. padding-left = 3px.",
+        "B. padding-right = 10px.",
+        "C. padding-top = 20px.",
+        "D. padding-bottom = 5px."
+      ],
+      "answer": null
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 8:&lt;/strong&gt; Trong HTML, thuộc tính nào của thẻ &lt;img&gt; giúp hiển thị nội dung thay thế khi hình ảnh không tải được?",
+      "options": [
+        "A. title",
+        "B. src",
+        "C. alt",
+        "D. name"
+      ],
+      "answer": null
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 9:&lt;/strong&gt; Trong CSS, Pseudo-class :hover có tác dụng gì?",
+      "options": [
+        "A. Chọn phần tử đầu tiên trong nhóm",
+        "B. Thêm nội dung giả trước phần tử",
+        "C. Chọn phần tử khi người dùng rê chuột qua",
+        "D. Ẩn phần tử khi không hiển thị"
+      ],
+      "answer": null
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 10:&lt;/strong&gt; Một kỹ sư bảo mật hệ thống thông tin cần hiểu biết về:",
+      "options": [
+        "A. Quản lý website",
+        "B. Phương thức tấn công mạng như DoS",
+        "C. Tối ưu hóa công cụ tìm kiếm (SEO)",
+        "D. Thiết kế đồ họa"
+      ],
+      "answer": null
+    },
+    {
+      "id": 11,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 11:&lt;/strong&gt; Khi một phần tử có width: 300px, margin: 20px, padding: 15px, và border: 5px, thì tổng chiều rộng thực tế của phần tử là bao nhiêu?",
+      "options": [
+        "A. 300px",
+        "B. 320px",
+        "C. 360px",
+        "D. 380px"
+      ],
+      "answer": null
+    },
+    {
+      "id": 12,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 12:&lt;/strong&gt; Để thiết lập một đoạn văn bản có màu xanh và căn giữa, dòng CSS nào là đúng?",
+      "options": [
+        "A. p { text-align: center; color: blue; }",
+        "B. p { align: center; color: blue; }",
+        "C. p { center: true; color: blue; }",
+        "D. p { color: blue; position: center; }"
+      ],
+      "answer": null
+    },
+    {
+      "id": 13,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 1:&lt;/strong&gt;",
+      "options": [
+        "A. Bộ chọn có mã định danh Box1 có độ ưu tiên cao hơn bộ chọn lớp box.",
+        "B. Khoảng cách giữa đường viền và nội dung của Nội dung hộp 2 là 20px.",
+        "C. Phần &lt;em&gt;nội dung hộp 1&lt;/em&gt; có màu nền là Lightgray.",
+        "D. border chỉ áp dụng được cho phần tử dạng div."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 14,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 2:&lt;/strong&gt;",
+      "options": [
+        "A. CSS có thể được viết trong file riêng và liên kết với HTML.",
+        "B. Một trang web chỉ có thể sử dụng một file CSS duy nhất. (Đ/S)",
+        "C. text-align: center; giúp căn giữa văn bản trong phần tử. (Đ/S)",
+        "D. Bộ chọn * có độ ưu tiên cao hơn bộ chọn ID. (Đ/S)"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 15,
+      "type": "short_answer",
+      "content": "&lt;strong&gt;Câu 1:&lt;/strong&gt; Cho khai báo CSS sau:\ndiv { width: 100px; height: 50px; padding: 10px; border: 5px solid; margin: 8px; }\nHỏi: Chiều cao tổng cộng của phần tử div (bao gồm nội dung, padding, border) là bao nhiêu pixel?",
+      "answer": null
+    },
+    {
+      "id": 16,
+      "type": "short_answer",
+      "content": "&lt;strong&gt;Câu 2:&lt;/strong&gt; Số kí tự của thẻ HTML (bao gồm cả dấu &lt; và &gt;) dùng để tạo danh sách không có thứ tự là bao nhiêu?",
+      "answer": null
+    },
+    {
+      "id": 17,
+      "type": "short_answer",
+      "content": "&lt;strong&gt;Câu 3:&lt;/strong&gt; Trong hệ màu RGB, nếu mỗi kênh màu có 8 bit thì số lượng màu tối đa có thể hiển thị là 2 lũy thừa mấy?",
+      "answer": null
+    },
+    {
+      "id": 18,
+      "type": "short_answer",
+      "content": "&lt;strong&gt;Câu 4:&lt;/strong&gt; Có bao nhiêu loại định dạng CSS có thể được áp dụng cho một trang web?\n&lt;strong&gt;IV. Tự luận (4 điểm)&lt;/strong&gt;\n&lt;strong&gt;Câu 1&lt;/strong&gt; (2 điểm): Một công ty kinh doanh trực tuyến đang trong giai đoạn phát triển nhanh chóng và mở rộng hoạt động bán hàng. Họ có một hệ thống mạng phức tạp để quản lí đơn hàng, thanh toán, thông tin sản phẩm và dữ liệu khách hàng. Trong thời gian gần đây, họ đã gặp phải các vấn đề bảo mật và sự cố mạng khiến hệ thống của họ không ổn định và dễ bị tấn công. Nếu là người quản lí, điều hành công ti, em sẽ sử dụng sự hỗ trợ của chuyên gia trong nhóm nghề nào trong ngành Công nghệ thông tin? Lí giải lựa chọn của em.\n&lt;strong&gt;Câu 2&lt;/strong&gt; (1 điểm): Một công ty muốn thiết kế một hệ thống quản lý nhân sự trên nền tảng web. Hãy mô tả cách công ty có thể sử dụng HTML, CSS để tạo giao diện hệ thống này.\n------------Hết-----------",
+      "answer": null
+    }
+  ]
+}

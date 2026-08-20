@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-15-cau-trac-nghiem-tin-hoc-10-canh-dieu-he-nhi-phan-va-ung-dung",
+  "sourceId": "vietjack:2-15-cau-trac-nghiem-tin-hoc-10-canh-die",
+  "grade": "l10",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.15 câu Trắc nghiệm Tin học 10 Cánh diều Hệ nhị phân và ứng dụng có đáp án (Phần 2)",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Các phép toán bit cơ sở là:",
+      "options": [
+        "A. NOT; AND, OR",
+        "B. NOT; AND; OR",
+        "C. NOT; OR, XOR",
+        "D. NOT; AND; OR; XOR"
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Các phép toán bit cơ sở bao gồm phép NOT; AND; OR; XOR"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Phép toán bit cơ sở nào có một toán hạng?",
+      "options": [
+        "A. NOT",
+        "B. AND",
+        "C. OR",
+        "D. XOR"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A NOT là phép toán có một toán hạng. Phép toán NOT cho kết quả trái ngược với đầu vào. Ba phép toàn còn lại AND, OR và XOR có hai toán hạng."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Hãy chọn ra các phép toán có hai toán hạng?",
+      "options": [
+        "A. NOT",
+        "B. NOT, AND",
+        "C. AND, OR, XOR",
+        "D. OR, NOT"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C NOT là phép toán có một toán hạng. Ba phép toàn còn lại AND, OR và XOR có hai toán hạng."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho x = 0, y = 1 Kết quả của x AND y là:",
+      "options": [
+        "A. 0",
+        "B. 1",
+        "C. 2",
+        "D. 3"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Phép AND trả về kết quả là 1 khi cả 2 toán hạng đều là 1"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho x = 10001 Kết quả của phép toán NOT x là:",
+      "options": [
+        "A. 01001",
+        "B. 10001",
+        "C. 01110",
+        "D. 10111"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Phép toán NOT cũng gọi là phép bù (complement). Bit chỉ nhận hai giá trị 0 hoặc 1, nên phần bù của 0 là 1, phần bù của 1 là 0."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho x = 01001, y = 10011 Kết quả của x XOR y là:",
+      "options": [
+        "A. 00001",
+        "B. 11110",
+        "C. 00101",
+        "D. 11010"
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D XOR là phép OR loại trừ. Phép XOR cho kết quả là 1 khi và chỉ khi hai bit toán hạng trái ngược nhau. ⇒ Kết quả x XOR y là 11010"
+    }
+  ]
+}

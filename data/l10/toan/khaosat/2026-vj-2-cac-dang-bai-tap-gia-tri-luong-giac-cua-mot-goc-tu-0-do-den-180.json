@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-cac-dang-bai-tap-gia-tri-luong-giac-cua-mot-goc-tu-0-do-den-180",
+  "sourceId": "vietjack:2-cac-dang-bai-tap-gia-tri-luong-giac-cu",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.Các dạng bài tập Giá trị lượng giác của một góc từ 0 độ đến 180 độ lớp 10 (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho góc α = 120°. Trong các khẳng định sau, khẳng định nào là SAI?",
+      "options": [
+        "A. \\(\\sin 120^\\circ = \\frac{{\\sqrt 3 }}{2}\\);",
+        "B. \\(\\cos 120^\\circ = - \\frac{1}{2}\\);",
+        "C. \\(\\tan 120^\\circ = - \\sqrt 3 \\);",
+        "D. \\(\\cot 120^\\circ = \\sqrt 3 \\)."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải: Đáp án đúng là: D. Ta có sin120° = sin(180° – 60°) = sin60°\\( = \\frac{{\\sqrt 3 }}{2}\\). cos120° = cos(180° – 60° ) = – cos60° \\( = - \\frac{1}{2}\\). Do đó \\(\\tan 120^\\circ = \\frac{{\\sin 120^\\circ }}{{\\cos 120^\\circ }} = - \\sqrt 3 \\); \\(\\cot 120^\\circ = - \\frac{1}{{\\sqrt 3 }}\\) ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Trong các đẳng thức sau đây, đẳng thức nào đúng?",
+      "options": [
+        "A. sin60° = \\(\\frac{{\\sqrt 3 }}{2}\\);",
+        "B. cos60° = \\(\\frac{{\\sqrt 3 }}{2}\\);",
+        "C. tan60° = 1;",
+        "D. cot60° = −1."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A. Ta có sin60° = \\(\\frac{{\\sqrt 3 }}{2}\\); cos60° = \\(\\frac{1}{2}\\); tan60° =\\(\\sqrt 3 \\); cot60° =\\(\\frac{1}{{\\sqrt 3 }}\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Giá trị của tan135° bằng:",
+      "options": [
+        "A. 1;",
+        "B. –1;",
+        "C. \\(\\frac{1}{2}\\);",
+        "D. \\( - \\frac{1}{2}\\)."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải: Đáp án đúng là: B. Ta có: tan135° = – tan(180° – 45°) = – 1."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Chọn phương án SAI trong các phương án dưới đây?",
+      "options": [
+        "A. sin 0° = 0;",
+        "B. cos 90° = 0;",
+        "C. cos 0° = 1;",
+        "D. sin 90° = 0."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải: Đáp án đúng là: D. Ta có: sin 0° = 0; cos 90° = 0; cos 0° = 1; sin 90° = 1 nên đáp án D sai."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho \\(\\widehat A = 45^\\circ \\), chọn đáp án SAI trong các đáp án dưới đây?",
+      "options": [
+        "A. sin A = \\(\\frac{{\\sqrt 3 }}{2}\\);",
+        "B. cos A = \\(\\frac{{\\sqrt 2 }}{2}\\);",
+        "C. tan A = 1;",
+        "D. cot A = 1."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A. Ta có sin A = sin 45° = \\(\\frac{{\\sqrt 2 }}{2}\\), suy ra đáp án sai là A. cos A = cos 45° = \\(\\frac{{\\sqrt 2 }}{2}\\); tan A = tan 45° = 1; cot A = cot 45° = 1. Vậy các đáp án B, C, D đúng."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho biết sin α = \\(\\frac{1}{2}\\) và (180° – α ) = \\(\\frac{a}{b}\\) (với \\(\\frac{a}{b}\\) là phân số tối giản). Tính a + b.",
+      "options": [
+        "A. \\(\\frac{1}{2}\\);",
+        "B. \\( - \\frac{1}{2}\\);",
+        "C. 2;",
+        "D. 3."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải: Đáp án đúng là: D. Ta có sin (180° – α ) = sin α = \\(\\frac{1}{2}\\). Do đó \\(\\frac{a}{b} = \\frac{1}{2}\\), mà \\(\\frac{a}{b}\\) là phân số tối giản nên a = 1, b = 2. Vậy a + b = 1 + 2 = 3."
+    }
+  ]
+}

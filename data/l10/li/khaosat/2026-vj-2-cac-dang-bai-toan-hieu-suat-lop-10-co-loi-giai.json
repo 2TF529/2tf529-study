@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-cac-dang-bai-toan-hieu-suat-lop-10-co-loi-giai",
+  "sourceId": "vietjack:2-cac-dang-bai-toan-hieu-suat-lop-10-co-",
+  "grade": "l10",
+  "subjectSlug": "li",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.Các dạng bài toán Hiệu suất lớp 10 (có lời giải)",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Để đưa một vật có khối lượng 250 kg lên độ cao 10 m người ta dùng một hệ thống gồm một ròng rọc cố định, một ròng rọc động. Lúc này lực kéo dây để nâng vật lên là F = 1500 N. Lấy g = 10 m/s 2 . Hiệu suất của hệ thống là:",
+      "options": [
+        "A. 80%.",
+        "B. 83,3%.",
+        "C. 86,7%.",
+        "D. 88,3%."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Công có ích để đưa vật lên là: A c i = P . h = m . g . h = 250.10.10 = 25000 J Do sử dụng ròng rọc động nên quãng đường sẽ tăng lên gấp đôi. Công toàn phần do lực tác dụng thực hiện: A t p = F .2 s = 1500.2.10 = 30000 J Hiệu suất của hệ thống bằng: H = A c i A t p = 25000 30000 = 0 , 833 = 83 , 3 %"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Một ô tô chạy 100 km với lực kéo không đổi là 700 N thì tiêu thụ hết 6 lít xăng. Hiệu suất của động cơ ô tô đó là bao nhiêu? Biết năng suất tỏa nhiệt của xăng là 4,6.10 7 J/kg, khối lượng riêng của xăng là 700 kg/m 3 .",
+      "options": [
+        "A. 86%",
+        "B. 52%",
+        "C. 40%",
+        "D. 36,23%"
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Công có ích để kéo xe di chuyển bằng: A c i = F . s = 700.100.1000 = 70000000 J Công toàn phần do đốt cháy nhiệt liệu xăng: A t p = m L = D V L = 700. 6 1000 .4 , 6.10 7 = 193200000 J Hiệu suất của động cơ bằng: H = A c i A t p = 70000000 193200000 = 0 , 3623 = 36 , 23 %"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Thác nước cao 45 m, mỗi giây đổ 180 m 3 nước. Người ta dùng thác nước làm trạm thủy điện với hiệu suất 85%. Biết khối lượng riêng của nước là D = 10 3 (kg/m 3 ). Công suất của trạm thủy điện bằng",
+      "options": [
+        "A. 68,85 MW.",
+        "B. 81,00 MW.",
+        "C. 95,29 MW.",
+        "D. 76,83 MW."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Khối lượng nước đổ xuống mỗi giây là: m = D . V = 10 3 .180 = 180000 k g Công có thể sinh ra khi nước đổ xuống đến chân thác trong mỗi giây là: A t p = m g h = 180000.10.45 = 81000000 J Gọi A c i là phần công có ích để phát điện trong mỗi giây Ta có: H = A c i A t p ⇒ A c i = H . A t p = 0 , 85.81000000 = 68850000 J Suy ra công suất của máy phát điện: P = A t p t = 68850000 W = 68 , 85 M W"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Một máy bơm nước mỗi giây có thể bơm được 15 lít nước lên bể ở độ cao 10 m. Hiệu suất của máy bơm là 70%. Lấy g = 10 m/s 2 . Biết khối lượng riêng của nước là D = 10 3 (kg/m 3 ). Sau nửa giờ máy bơm đã thực hiện một công bằng",
+      "options": [
+        "A. 1500 kJ.",
+        "B. 3875 kJ.",
+        "C. 1890 kJ.",
+        "D. 7714 kJ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Công có ích để đưa 15 l nước lên cao 10 m trong mỗi giây là: A = m g h = D V g h = 10 3 . 15 10 3 .10.10 = 1500 J Công toàn phần máy bơm sinh ra trong mỗi giây là: A t p = A c i H = 1500 0 , 7 = 2142 , 86 J Công mà máy bơm thực hiện được sau nửa giờ: A = P . t = 2142 , 86.0 , 5.3600 = 3857148 J"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Một động cơ có công suất tiêu thụ bằng 5 kW kéo một vật có trọng lượng 12 kN lên cao 30 m theo phương thẳng đứng trong thời gian 90 s với vận tốc không đổi. Hiệu suất của động cơ bằng",
+      "options": [
+        "A. 100%.",
+        "B. 80%.",
+        "C. 60%.",
+        "D. 40%."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Công có ích để nâng vật lên là: A c i = P . h = 12000.30 = 360000 J Công toàn phần do động cơ sinh ra là: A t p = P . t = 5000.90 = 450000 J Hiệu suất của động cơ bằng: H = A c i A t p = 360000 450000 = 0 , 8 = 80 %"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Một máy bơm nước có công suất 1,5 kW, hiệu suất 70%. Lấy g = 10 m/s 2 . Biết khối lượng riêng của nước là D = 10 3 (kg/m 3 ). Dùng máy này để bơm nước lên độ cao 10 m, sau nửa giờ máy đã bơm lên bể một lượng nước bằng",
+      "options": [
+        "A. 18,9 m 3 .",
+        "B. 15,8 m 3 .",
+        "C. 94,5 m 3 .",
+        "D. 24,2 m 3 ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Công toàn phần của máy bơm là: A t p = P . t Ta có: H = A c i A t p ⇒ A c i = A t p . H = P . t . H Mặt khác, ta lại có A c i = m g h = D V g h ⇒ P . t . H = D V g h ⇒ V = P . t . H D g h Lượng nước mà máy bơm lên được sau nửa giờ là: V = P . t . H D g h = 1 , 5.10 3 .0 , 5.3600.0 , 7 10 3 .10.10 = 18 , 9 m 3"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-3-20-cau-trac-nghiem-toan-10-chan-troi-sang-tao-bai-on-tap-cuoi-c",
+  "sourceId": "vietjack:3-20-cau-trac-nghiem-toan-10-chan-troi-s",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.20 câu trắc nghiệm Toán 10 Chân trời sáng tạo Bài ôn tập cuối chương 10 (Đúng sai - Trả lời ngắn) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Một hộp chứa 28 quả cầu cùng kích thước được đánh số từ 1 đến 28. Chọn ngẫu nhiên 1 quả cầu từ hộp. Tính xác suất của biến cố “Số ghi trên quả cầu được chọn là một số chẵn”.",
+      "options": [
+        "A. \\(\\frac{{17}}{{28}}\\) .",
+        "B. \\(\\frac{{15}}{{28}}\\) .",
+        "C. \\(\\frac{1}{2}\\) .",
+        "D. \\(\\frac{{19}}{{28}}\\) ."
+      ],
+      "answer": "C",
+      "note": "Số phần tử của không gian mẫu là \\(n\\left( \\Omega \\right) = 28\\) . Gọi \\(A\\) là biến cố “Số ghi trên quả cầu được chọn là một số chẵn”. Khi đó \\(A = \\left\\{ {2;4;6;8;10;12;14;16;18;20;22;24;26;28} \\right\\}\\)\\( \\Rightarrow n\\left( A \\right) = 14\\) . Do đó \\(P\\left( A \\right) = \\frac{{14}}{{28}} = \\frac{1}{2}\\) . Chọn C ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Một người làm vườn có 12 cây giống gồm 6 cây xoài, 4 cây mít và 2 cây ổi. Người đó muốn chọn ra 6 cây giống để trồng. Tính xác suất để 6 cây được chọn mỗi loại có đúng 2 cây.",
+      "options": [
+        "A. \\(\\frac{1}{8}\\) .",
+        "B. \\(\\frac{{25}}{{154}}\\) .",
+        "C. \\(\\frac{1}{{10}}\\) .",
+        "D. \\(\\frac{{15}}{{154}}\\) ."
+      ],
+      "answer": "D",
+      "note": "Số phần tử của không gian mẫu là \\(n\\left( \\Omega \\right) = C_{12}^6\\) . Gọi \\(A\\) là biến cố “Chọn được 6 cây mỗi loại có đúng 2 cây” \\( \\Rightarrow n\\left( A \\right) = C_6^2 \\cdot C_4^2 \\cdot C_2^2 = 90\\) . Do đó \\(P\\left( A \\right) = \\frac{{90}}{{C_{12}^6}} = \\frac{{15}}{{154}}\\) . Chọn D ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Một hộp có 5 chiếc thẻ được đánh số từ 1 đến 5. Rút ngẫu nhiên đồng thời hai chiếc thẻ từ hộp. Tính xác suất của biến cố “Các số ghi trên hai thẻ đều là số lẻ”.",
+      "options": [
+        "A. \\(\\frac{1}{2}\\) .",
+        "B. \\(\\frac{2}{5}\\) .",
+        "C. \\(\\frac{3}{{10}}\\) .",
+        "D. \\(\\frac{3}{5}\\) ."
+      ],
+      "answer": "C",
+      "note": "Số phần tử của không gian mẫu là \\(C_5^2 = 10\\) . Gọi \\(A\\) là biến cố “Các số ghi trên hai thẻ đều là số lẻ”. Các số lẻ trong hộp là \\(\\left\\{ {1;3;5} \\right\\}\\)\\( \\Rightarrow n\\left( A \\right) = C_3^2 = 3\\) . Do đó \\(P\\left( A \\right) = \\frac{3}{{10}}\\) . Chọn C ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Một hộp đựng 9 thẻ được đánh số \\(1;2;3;4;5;6;7;8;9\\) . Rút ngẫu nhiên 1 thẻ trong hộp. Gọi \\(A\\) là biến cố “Thẻ được chọn mang số chẵn”. Mô tả biến cố đối \\(\\overline A \\) của biến cố \\(A\\) .",
+      "options": [
+        "A. \\(\\overline A = \\left\\{ {1;3;5;7} \\right\\}\\) .",
+        "B. \\(\\overline A = \\left\\{ {2;4;6;8} \\right\\}\\) .",
+        "C. \\(\\overline A = \\left\\{ {1;3;5;7;9} \\right\\}\\) .",
+        "D. \\(\\overline A = \\left\\{ {0;2;4;6;8} \\right\\}\\) ."
+      ],
+      "answer": "C",
+      "note": "\\(\\overline A \\) là biến cố “Thẻ được chọn mang số lẻ” \\( \\Rightarrow \\overline A = \\left\\{ {1;3;5;7;9} \\right\\}\\) . Chọn C ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Có 20 tấm thẻ được đánh số từ 1 đến 20 (mỗi thẻ đánh một số). Các tấm thẻ có kích thước và khối lượng như nhau. Chọn ngẫu nhiên ra 8 tấm thẻ, tính xác suất để có 3 tấm thẻ mang số lẻ, 5 tấm thẻ mang số chẵn trong đó chỉ có đúng một tấm thẻ mang số chia hết cho 10.",
+      "options": [
+        "A. \\(\\frac{{560}}{{4199}}\\) .",
+        "B. \\(\\frac{{500}}{{4199}}\\) .",
+        "C. \\(\\frac{{1700}}{{8398}}\\) .",
+        "D. \\(\\frac{{1500}}{{8398}}\\) ."
+      ],
+      "answer": "A",
+      "note": "Số phần tử của không gian mẫu là \\(n\\left( \\Omega \\right) = C_{20}^8 = 125970\\) . Từ 1 đến 20 có 10 số lẻ và 10 số chẵn trong đó có 2 số chia hết cho 10. Gọi \\(A\\) là biến cố “Có 3 tấm thẻ mang số lẻ, 5 tấm thẻ mang số chẵn trong đó chỉ có đúng một tấm thẻ mang số chia hết cho 10”. Suy ra \\(n\\left( A \\right) = C_{10}^3 \\cdot 2 \\cdot C_8^4 = 16800\\) . Do đó \\(P\\left( A \\right) = \\frac{{16800}}{{125970}} = \\frac{{560}}{{4199}}\\) . Chọn A ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Có hai túi đựng thẻ, túi I đựng 3 tấm thẻ được đánh số từ 1 đến 3, túi II đựng 2 tấm thẻ được đánh số từ 1 đến 2. Rút ngẫu nhiên một tấm thẻ từ mỗi túi I và túi II. Không gian mẫu là",
+      "options": [
+        "A. \\(\\left\\{ {\\left( {1;1} \\right);\\left( {1;2} \\right);\\left( {2;1} \\right);\\left( {2;2} \\right);\\left( {3;1} \\right);\\left( {3;2} \\right)} \\right\\}\\) .",
+        "B. \\(\\left\\{ {\\left( {1;1} \\right);\\left( {2;1} \\right);\\left( {3;1} \\right)} \\right\\}\\) .",
+        "C. \\(\\left\\{ {\\left( {1;1} \\right);\\left( {2;1} \\right)} \\right\\}\\) .",
+        "D. \\(\\left\\{ {\\left( {1;1} \\right);\\left( {1;2} \\right);\\left( {2;1} \\right);\\left( {2;2} \\right)} \\right\\}\\) ."
+      ],
+      "answer": "A",
+      "note": "Không gian mẫu là \\(\\left\\{ {\\left( {1;1} \\right);\\left( {1;2} \\right);\\left( {2;1} \\right);\\left( {2;2} \\right);\\left( {3;1} \\right);\\left( {3;2} \\right)} \\right\\}\\) . Chọn A ."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Hai bạn A và B mỗi người gieo một con xúc xắc cân đôi. Xác suất để tổng số chấm xuất hiện trên hai con xúc xắc bé hơn 8 là",
+      "options": [
+        "A. \\(\\frac{{11}}{{18}}\\) .",
+        "B. \\(\\frac{7}{{12}}\\) .",
+        "C. \\(\\frac{2}{3}\\) .",
+        "D. \\(\\frac{5}{{12}}\\) ."
+      ],
+      "answer": "B",
+      "note": "Số phần tử không gian mẫu là \\(n\\left( \\Omega \\right) = 6 \\cdot 6 = 36\\) . Gọi \\(A\\) là biến cố “Tổng số chấm xuất hiện trên hai con xúc xắc bé hơn 8”. Khi đó \\(A = \\left\\{ \\begin{array}{l}\\left( {1;1} \\right);\\left( {1;2} \\right);\\left( {2;1} \\right);\\left( {1;3} \\right);\\left( {3;1} \\right);\\left( {2;2} \\right);\\left( {1;4} \\right);\\left( {4;1} \\right);\\left( {2;3} \\right);\\left( {3;2} \\right);\\\\\\left( {1;5} \\right);\\left( {5;1} \\right);\\left( {2;4} \\right);\\left( {4;2} \\right);\\left( {3;3} \\right);\\left( {1;6} \\right);\\left( {6;1} \\right);\\left( {2;5} \\right);\\left( {5;2} \\right);\\left( {3;4} \\right);\\left( {4;3} \\right)\\end{array} \\right\\}\\)\\( \\Rightarrow n\\left( A \\right) = 21\\) . Do đó \\(P\\left( A \\right) = \\frac{{21}}{{36}} = \\frac{7}{{12}}\\) . Chọn B ."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Tung một đồng xu cân đối và đồng chất ba lần tiên tiếp. Tính xác suất của biến cố “Kết quả của ba lần tung là như nhau”.",
+      "options": [
+        "A. \\(\\frac{1}{2}\\) .",
+        "B. \\(\\frac{1}{8}\\) .",
+        "C. \\(\\frac{3}{8}\\) .",
+        "D. \\(\\frac{1}{4}\\) ."
+      ],
+      "answer": "D",
+      "note": "Số phần tử của không gian mẫu là \\(n\\left( \\Omega \\right) = {2^3}\\) . Gọi \\(A\\) là biến cố “Kết quả của ba lần tung là như nhau” \\( \\Rightarrow A = \\left\\{ {SSS;NNN} \\right\\} \\Rightarrow n\\left( A \\right) = 2\\) . Suy ra \\(P\\left( A \\right) = \\frac{2}{8} = \\frac{1}{4}\\) . Chọn D ."
+    }
+  ]
+}

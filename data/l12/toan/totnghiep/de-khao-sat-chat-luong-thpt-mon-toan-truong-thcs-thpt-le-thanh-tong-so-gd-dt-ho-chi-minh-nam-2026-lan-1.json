@@ -1,0 +1,196 @@
+{
+  "id": "l12-toan-totnghiep-2026-de-khao-sat-chat-luong-thpt-mon-toan-truong-thcs-thpt-le-thanh-tong-so-gd-dt-ho-chi-minh-nam-2026-lan-1",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "code": "THPT_TTT_2026_HCM_NK&LTT_14",
+  "title": "Đề khảo sát chất lượng THPT môn Toán Trường THCS - THPT Lê Thánh Tông Sở GD&ĐT Hồ Chí Minh năm 2026 - Lần 1",
+  "duration": 90,
+  "answerSource": "official",
+  "source": "https://dolthpt.vn/tot-nghiep-thpt/pdf-de-khao-sat-chat-luong-thpt-mon-toan-truong-thcs-thpt-le-thanh-tong-so-gd-dt-ho-chi-minh-nam-2026-lan-1-co-dap-an",
+  "notes": "Nội dung, đáp án và lời giải được nhập từ bản công khai của DOL THPT.",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "content": "Cho hàm số $y=f(x)$ liên tục trên $\\mathbb{R}$ và có bảng xét dấu đạo hàm như hình vẽ bên dưới. Hàm số đã cho có bao nhiêu điểm cực đại?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-truong-thcs-thpt-le-thanh-tong-so-gd-dt-ho-chi-minh-nam-2026-lan-1/cau-01.webp\" alt=\"Hình minh họa câu 1\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "cực trị của hàm số",
+      "type": "single",
+      "options": [
+        "A. \\$3$",
+        "B. \\$2$",
+        "C. \\$0$",
+        "D. \\$1$"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số $y=f(x)$ liên tục trên $\\mathbb{R}$.\n- Bảng dấu của $f'(x)$ cho biết sự đổi dấu tại các mốc $x=0,1,2,4$.\n- Câu hỏi yêu cầu tìm số điểm cực đại của hàm số.\n❓ **Hiểu câu hỏi:**\n- Một điểm cực đại xuất hiện khi dấu của $f'(x)$ đổi từ dương sang âm.\n- Nếu tại một điểm hàm số liên tục nhưng $f'(x)$ không xác định, ta vẫn xét sự đổi dấu của $f'(x)$ để kết luận cực trị.\n🔎 **Hướng dẫn cách làm:**\n- Tại $x=0$, dấu của $f'(x)$ đổi từ âm sang dương nên $x=0$ là điểm cực tiểu.\n- Tại $x=1$, dấu của $f'(x)$ đổi từ dương sang âm nên $x=1$ là điểm cực đại.\n- Tại $x=2$, dấu của $f'(x)$ đổi từ âm sang dương nên $x=2$ là điểm cực tiểu.\n- Tại $x=4$, dấu của $f'(x)$ không đổi dấu nên $x=4$ không phải điểm cực trị.\n- Vậy hàm số chỉ có đúng \\$1$ điểm cực đại.\n✅ **Đáp án:** Chọn D. \\$1$"
+    },
+    {
+      "id": 2,
+      "content": "Tập nghiệm của bất phương trình $\\log_2(1-2x)\\geq \\log_2 3$ là",
+      "chuong": "hàm số mũ và hàm số lôgarit",
+      "dang": "bất phương trình lôgarit",
+      "type": "single",
+      "options": [
+        "A. $\\left(\\dfrac{1}{2};1\\right]$",
+        "B. $(-\\infty;-1)$",
+        "C. $(-\\infty;-1]$",
+        "D. $\\left[-1;\\dfrac{1}{2}\\right)$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Bất phương trình đã cho là $\\log_2(1-2x)\\geq \\log_2 3$.\n- Cơ số của logarit là \\$2>1$.\n❓ **Hiểu câu hỏi:**\n- Với logarit, trước hết phải tìm điều kiện xác định.\n- Vì cơ số \\$2>1$ nên ta có thể so sánh trực tiếp các biểu thức bên trong logarit.\n🔎 **Hướng dẫn cách làm:**\n- Điều kiện xác định là \\$1-2x>0\\Rightarrow x<\\dfrac{1}{2}$.\n- Do hàm $\\log_2 t$ đồng biến nên $\\log_2(1-2x)\\geq \\log_2 3\\Rightarrow 1-2x\\geq 3$.\n- Giải bất phương trình được $-2x\\geq 2\\Rightarrow x\\leq -1$.\n- Kết hợp với điều kiện xác định, ta được tập nghiệm là $(-\\infty;-1]$.\n✅ **Đáp án:** Chọn C. $(-\\infty;-1]$"
+    },
+    {
+      "id": 3,
+      "content": "Mỗi ngày bác Tùng đều đi bộ để rèn luyện sức khỏe. Quãng đường đi bộ mỗi ngày (đơn vị: $\\text{km}$) của bác trong \\$20$ ngày được thống kê lại ở bảng sau. Phương sai của mẫu số liệu ghép nhóm là\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-truong-thcs-thpt-le-thanh-tong-so-gd-dt-ho-chi-minh-nam-2026-lan-1/cau-03.webp\" alt=\"Hình minh họa câu 3\" loading=\"lazy\"></figure>",
+      "chuong": "các số đặc trưng đo mức độ phân tán cho mẫu số liệu ghép nhóm",
+      "dang": "phương sai và độ lệch chuẩn",
+      "type": "single",
+      "options": [
+        "A. \\$3{,}39$",
+        "B. \\$11{,}62$",
+        "C. \\$0{,}36$",
+        "D. \\$0{,}1314$"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Mẫu số liệu ghép nhóm có các lớp với điểm giữa là \\$2{,}85;\\ 3{,}15;\\ 3{,}45;\\ 3{,}75;\\ 4{,}05$.\n- Tần số tương ứng là \\$3;\\ 6;\\ 5;\\ 4;\\ 2$.\n- Tổng số quan sát là $n=20$.\n❓ **Hiểu câu hỏi:**\n- Muốn tính phương sai mẫu ghép nhóm, ta dùng điểm giữa của mỗi lớp.\n- Công thức cần dùng là $s^2=\\dfrac{1}{n}\\sum n_i(x_i-\\overline{x})^2$.\n🔎 **Hướng dẫn cách làm:**\n- Tính số trung bình cộng: $\\overline{x}=\\dfrac{3\\cdot 2{,}85+6\\cdot 3{,}15+5\\cdot 3{,}45+4\\cdot 3{,}75+2\\cdot 4{,}05}{20}=3{,}39$.\n- Tính phương sai: $s^2=\\dfrac{1}{20}\\left[3(2{,}85-3{,}39)^2+6(3{,}15-3{,}39)^2+5(3{,}45-3{,}39)^2+4(3{,}75-3{,}39)^2+2(4{,}05-3{,}39)^2\\right]$.\n- Tính ra được $s^2=0{,}1314$.\n- Vậy phương sai của mẫu số liệu ghép nhóm là \\$0{,}1314$.\n✅ **Đáp án:** Chọn D. \\$0{,}1314$"
+    },
+    {
+      "id": 4,
+      "content": "Cho hàm số $y=f(x)$ liên tục trên $[-1;+\\infty)$ và có đồ thị như hình vẽ. Tìm giá trị lớn nhất của hàm số $y=f(x)$ trên $[1;4]$.\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-truong-thcs-thpt-le-thanh-tong-so-gd-dt-ho-chi-minh-nam-2026-lan-1/cau-04.webp\" alt=\"Hình minh họa câu 4\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "cách tìm giá trị lớn nhất và giá trị nhỏ nhất của hàm số trên một đoạn",
+      "type": "single",
+      "options": [
+        "A. \\$0$",
+        "B. \\$1$",
+        "C. \\$4$",
+        "D. \\$3$"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Đồ thị của hàm số $y=f(x)$ đã được cho trên đoạn $[1;4]$.\n- Câu hỏi yêu cầu tìm giá trị lớn nhất của hàm số trên đoạn này.\n❓ **Hiểu câu hỏi:**\n- Với bài đọc đồ thị, ta chỉ cần so sánh các giá trị $f(x)$ tại các điểm nổi bật trên đoạn đang xét.\n- Giá trị lớn nhất là tung độ cao nhất của đồ thị khi $x\\in [1;4]$.\n🔎 **Hướng dẫn cách làm:**\n- Quan sát đồ thị trên đoạn $[1;4]$, điểm cao nhất nằm tại đỉnh ở gần $x=3$.\n- Tại đó, đồ thị đạt tung độ $y=3$.\n- Các điểm còn lại trên đoạn $[1;4]$ đều có tung độ không vượt quá \\$3$.\n- Vậy giá trị lớn nhất của hàm số trên $[1;4]$ là \\$3$.\n✅ **Đáp án:** Chọn D. \\$3$"
+    },
+    {
+      "id": 5,
+      "content": "Thể tích $V$ của khối lăng trụ có diện tích đáy $S$, chiều cao $h$ là",
+      "chuong": "quan hệ vuông góc trong không gian",
+      "dang": "thể tích",
+      "type": "single",
+      "options": [
+        "A. $V=\\dfrac{1}{3}Sh$",
+        "B. $V=Sh$",
+        "C. $V=S^2h$",
+        "D. $V=\\dfrac{1}{3}S^2h$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Khối lăng trụ có diện tích đáy là $S$.\n- Chiều cao của khối lăng trụ là $h$.\n❓ **Hiểu câu hỏi:**\n- Đây là công thức thể tích cơ bản của khối lăng trụ.\n- Thể tích bằng diện tích đáy nhân với chiều cao.\n🔎 **Hướng dẫn cách làm:**\n- Công thức thể tích khối lăng trụ là $V=S\\cdot h$.\n- Ta không cần biến đổi gì thêm vì đề bài chỉ hỏi công thức tổng quát.\n- Vậy đáp án đúng là công thức $V=Sh$.\n✅ **Đáp án:** Chọn B. $V=Sh$"
+    },
+    {
+      "id": 6,
+      "content": "Cho hình hộp $ABCD.A'B'C'D'$. Tìm giá trị của $k$ thích hợp điền vào đẳng thức vectơ: $\\overrightarrow{BD}-\\overrightarrow{D'D}-\\overrightarrow{B'D'}=k\\overrightarrow{BB'}$.",
+      "chuong": "vectơ và hệ trục tọa độ trong không gian",
+      "dang": "vectơ trong không gian",
+      "type": "single",
+      "options": [
+        "A. \\$4$",
+        "B. \\$1$",
+        "C. \\$0$",
+        "D. \\$2$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hình hộp $ABCD.A'B'C'D'$.\n- Cần tìm $k$ trong đẳng thức $\\overrightarrow{BD}-\\overrightarrow{D'D}-\\overrightarrow{B'D'}=k\\overrightarrow{BB'}$.\n❓ **Hiểu câu hỏi:**\n- Với hình hộp, ta nên đặt các vectơ cơ sở theo ba cạnh xuất phát từ một đỉnh.\n- Sau đó biểu diễn từng vectơ theo các vectơ cơ sở và rút gọn.\n🔎 **Hướng dẫn cách làm:**\n- Đặt $\\overrightarrow{AB}=\\vec{u},\\ \\overrightarrow{AD}=\\vec{v},\\ \\overrightarrow{AA'}=\\vec{w}$.\n- Khi đó $\\overrightarrow{BD}=\\vec{v}-\\vec{u}$.\n- Ta có $\\overrightarrow{D'D}=\\overrightarrow{D}-\\overrightarrow{D'}=-\\vec{w}$.\n- Ta cũng có $\\overrightarrow{B'D'}=\\overrightarrow{D'}-\\overrightarrow{B'}=\\vec{v}-\\vec{u}$.\n- Thay vào đẳng thức: $\\overrightarrow{BD}-\\overrightarrow{D'D}-\\overrightarrow{B'D'}=(\\vec{v}-\\vec{u})-(-\\vec{w})-(\\vec{v}-\\vec{u})=\\vec{w}$.\n- Mà $\\vec{w}=\\overrightarrow{BB'}$ nên $k=1$.\n✅ **Đáp án:** Chọn B. \\$1$"
+    },
+    {
+      "id": 7,
+      "content": "Cho $\\int_1^2 e^{3x-1}\\,dx=m(e^p-e^q)$ với $m,p,q\\in\\mathbb{Q}$ và là các phân số tối giản. Giá trị $m+p+q$ bằng",
+      "chuong": "nguyên hàm và tích phân",
+      "dang": "khái niệm tích phân",
+      "type": "single",
+      "options": [
+        "A. $\\dfrac{22}{3}$",
+        "B. \\$6$",
+        "C. \\$8$",
+        "D. \\$10$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- $\\int_1^2 e^{3x-1}\\,dx=m(e^p-e^q)$.\n- Các số $m,p,q\\in \\mathbb{Q}$ và cần tính $m+p+q$.\n❓ **Hiểu câu hỏi:**\n- Đây là bài tính nguyên hàm của hàm mũ.\n- Sau khi tính tích phân, ta đưa về đúng dạng $m(e^p-e^q)$ rồi đọc ra $m,p,q$.\n🔎 **Hướng dẫn cách làm:**\n- Ta có $\\int e^{3x-1}\\,dx=\\dfrac{1}{3}e^{3x-1}+C$ vì đạo hàm của \\$3x-1$ là \\$3$.\n- Do đó $\\int_1^2 e^{3x-1}\\,dx=\\left.\\dfrac{1}{3}e^{3x-1}\\right|_1^2=\\dfrac{1}{3}(e^5-e^2)$.\n- Suy ra $m=\\dfrac{1}{3},\\ p=5,\\ q=2$.\n- Vậy $m+p+q=\\dfrac{1}{3}+5+2=\\dfrac{22}{3}$.\n✅ **Đáp án:** Chọn A. $\\dfrac{22}{3}$"
+    },
+    {
+      "id": 8,
+      "content": "Cho hàm số $y=f(x)=\\log_2(1+2^x)$. Tính giá trị $S=f^{\\prime}\\left(0\\right)+f^{\\prime}\\left(1\\right)$.",
+      "chuong": "đạo hàm",
+      "dang": "đạo hàm của hàm số mũ và hàm số lôgarit",
+      "type": "single",
+      "options": [
+        "A. $\\dfrac{6}{5}$",
+        "B. $\\dfrac{7}{8}$",
+        "C. $\\dfrac{7}{6}$",
+        "D. $\\dfrac{7}{5}$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số $f(x)=\\log_2(1+2^x)$.\n- Cần tính $S=f'(0)+f'(1)$.\n❓ **Hiểu câu hỏi:**\n- Muốn tính $S$, ta cần tìm công thức đạo hàm của $f(x)$.\n- Sau đó thay lần lượt $x=0$ và $x=1$.\n🔎 **Hướng dẫn cách làm:**\n- Với $f(x)=\\log_2(1+2^x)$, ta có $f'(x)=\\dfrac{(1+2^x)'}{(1+2^x)\\ln 2}=\\dfrac{2^x\\ln 2}{(1+2^x)\\ln 2}=\\dfrac{2^x}{1+2^x}$.\n- Tính tại $x=0$: $f'(0)=\\dfrac{1}{2}$.\n- Tính tại $x=1$: $f'(1)=\\dfrac{2}{3}$.\n- Khi đó $S=f'(0)+f'(1)=\\dfrac{1}{2}+\\dfrac{2}{3}=\\dfrac{7}{6}$.\n✅ **Đáp án:** Chọn C. $\\dfrac{7}{6}$"
+    },
+    {
+      "id": 9,
+      "content": "Trong không gian $Oxyz$, cho mặt phẳng $(P):16x-12y-15z-4=0$ và điểm $A(2;-1;-1)$. Gọi $H$ là hình chiếu của điểm $A$ trên mặt phẳng $(P)$. Tính độ dài đoạn thẳng $AH$.",
+      "chuong": "phương pháp tọa độ trong không gian",
+      "dang": "khoảng cách từ một điểm đến một mặt phẳng",
+      "type": "single",
+      "options": [
+        "A. \\$5$",
+        "B. $\\dfrac{11}{5}$",
+        "C. $\\dfrac{11}{25}$",
+        "D. $\\dfrac{22}{5}$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Mặt phẳng $(P):16x-12y-15z-4=0$.\n- Điểm $A(2;-1;-1)$.\n- $H$ là hình chiếu vuông góc của $A$ lên $(P)$.\n❓ **Hiểu câu hỏi:**\n- Độ dài $AH$ chính là khoảng cách từ điểm $A$ đến mặt phẳng $(P)$.\n- Ta dùng công thức khoảng cách từ điểm đến mặt phẳng trong không gian.\n🔎 **Hướng dẫn cách làm:**\n- Công thức khoảng cách là $d(A,(P))=\\dfrac{|Ax_0+By_0+Cz_0+D|}{\\sqrt{A^2+B^2+C^2}}$.\n- Thay $A=16,\\ B=-12,\\ C=-15,\\ D=-4$ và $A(2;-1;-1)$ vào, ta được $AH=\\dfrac{|16\\cdot 2-12\\cdot (-1)-15\\cdot (-1)-4|}{\\sqrt{16^2+(-12)^2+(-15)^2}}$.\n- Tử số bằng $|32+12+15-4|=55$.\n- Mẫu số bằng $\\sqrt{256+144+225}=\\sqrt{625}=25$.\n- Vậy $AH=\\dfrac{55}{25}=\\dfrac{11}{5}$.\n✅ **Đáp án:** Chọn B. $\\dfrac{11}{5}$"
+    },
+    {
+      "id": 10,
+      "content": "Biết rằng đồ thị hàm số $y=\\dfrac{ax+1}{bx-2}$ có tiệm cận đứng là $x=2$ và tiệm cận ngang là $y=3$. Hiệu $a-2b$ có giá trị là",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "đường tiệm cận đứng",
+      "type": "single",
+      "options": [
+        "A. \\$4$",
+        "B. \\$0$",
+        "C. \\$1$",
+        "D. \\$5$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số $y=\\dfrac{ax+1}{bx-2}$.\n- Tiệm cận đứng là $x=2$.\n- Tiệm cận ngang là $y=3$.\n❓ **Hiểu câu hỏi:**\n- Tiệm cận đứng giúp ta tìm mẫu số bằng \\$0$ tại $x=2$.\n- Tiệm cận ngang của phân thức bậc nhất trên bậc nhất là tỉ số hệ số của $x$ ở tử và mẫu.\n🔎 **Hướng dẫn cách làm:**\n- Tiệm cận đứng $x=2$ cho ta $bx-2=0$ tại $x=2$, nên \\$2b-2=0\\Rightarrow b=1$.\n- Tiệm cận ngang là $y=\\dfrac{a}{b}=3$ nên $a=3b=3$.\n- Khi đó $a-2b=3-2\\cdot 1=1$.\n- Vậy giá trị cần tìm là \\$1$.\n✅ **Đáp án:** Chọn C. \\$1$"
+    },
+    {
+      "id": 11,
+      "content": "Trong không gian $Oxyz$, cho mặt phẳng $(P):3x+4y+5z+8=0$. Đường thẳng $d$ là giao tuyến của hai mặt phẳng $(\\alpha):x-2y+1=0$ và $(\\beta):x-2z-3=0$. Góc $\\varphi$ là góc giữa $d$ và $(P)$, tính $\\varphi$.",
+      "chuong": "phương pháp tọa độ trong không gian",
+      "dang": "công thức tính góc giữa đường thẳng và mặt phẳng",
+      "type": "single",
+      "options": [
+        "A. \\$45^\\circ$",
+        "B. \\$30^\\circ$",
+        "C. \\$90^\\circ$",
+        "D. \\$60^\\circ$"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Mặt phẳng $(P):3x+4y+5z+8=0$.\n- Đường thẳng $d$ là giao tuyến của $(\\alpha):x-2y+1=0$ và $(\\beta):x-2z-3=0$.\n- Cần tính góc $\\varphi$ giữa $d$ và mặt phẳng $(P)$.\n❓ **Hiểu câu hỏi:**\n- Muốn tìm góc giữa đường thẳng và mặt phẳng, ta cần vectơ chỉ phương của đường thẳng và vectơ pháp tuyến của mặt phẳng.\n- Công thức dùng là $\\sin \\varphi=\\dfrac{|\\vec{u}\\cdot \\vec{n}|}{|\\vec{u}|\\cdot |\\vec{n}|}$.\n🔎 **Hướng dẫn cách làm:**\n- Vectơ pháp tuyến của $(\\alpha)$ là $\\vec{n}_\\alpha=(1;-2;0)$, của $(\\beta)$ là $\\vec{n}_\\beta=(1;0;-2)$.\n- Vectơ chỉ phương của giao tuyến $d$ là $\\vec{u}=\\vec{n}_\\alpha\\times \\vec{n}_\\beta=(4;2;2)$, có thể rút gọn thành $\\vec{u}=(2;1;1)$.\n- Vectơ pháp tuyến của mặt phẳng $(P)$ là $\\vec{n}=(3;4;5)$.\n- Tính được $\\vec{u}\\cdot \\vec{n}=2\\cdot 3+1\\cdot 4+1\\cdot 5=15$.\n- Ta có $|\\vec{u}|=\\sqrt{2^2+1^2+1^2}=\\sqrt{6}$ và $|\\vec{n}|=\\sqrt{3^2+4^2+5^2}=\\sqrt{50}=5\\sqrt{2}$.\n- Suy ra $\\sin \\varphi=\\dfrac{15}{\\sqrt{6}\\cdot 5\\sqrt{2}}=\\dfrac{\\sqrt{3}}{2}$ nên $\\varphi=60^\\circ$.\n✅ **Đáp án:** Chọn D. \\$60^\\circ$"
+    },
+    {
+      "id": 12,
+      "content": "Mặt cắt của một tổ ong có hình lưới được tạo bởi các ô hình lục giác đều. Từ một ô lục giác đầu tiên, các ong thợ tạo ra vòng \\$1$ gồm \\$6$ ô lục giác bao quanh; tiếp theo các ong thợ sẽ tạo ra vòng \\$2$ có \\$12$ ô lục giác bao quanh vòng \\$1$; vòng \\$3$ gồm \\$18$ ô lục giác bao quanh vòng \\$2$; cứ tiếp tục theo quy luật đó tổ ong được hình thành. Số ô trên các vòng theo thứ tự tạo thành cấp số cộng có công sai $d$ bằng\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-truong-thcs-thpt-le-thanh-tong-so-gd-dt-ho-chi-minh-nam-2026-lan-1/cau-12.webp\" alt=\"Hình minh họa câu 12\" loading=\"lazy\"></figure>",
+      "chuong": "dãy số. cấp số cộng và cấp số nhân",
+      "dang": "định nghĩa cấp số cộng",
+      "type": "single",
+      "options": [
+        "A. \\$5$",
+        "B. \\$6$",
+        "C. \\$2$",
+        "D. \\$4$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Số ô ở các vòng lần lượt là \\$6,12,18,\\ldots$.\n- Cần tìm công sai $d$ của cấp số cộng này.\n❓ **Hiểu câu hỏi:**\n- Công sai của cấp số cộng bằng hiệu của hai số hạng liên tiếp.\n- Chỉ cần lấy vòng sau trừ vòng trước.\n🔎 **Hướng dẫn cách làm:**\n- Ta có \\$12-6=6$.\n- Ta cũng có \\$18-12=6$.\n- Hiệu giữa hai số hạng liên tiếp luôn bằng \\$6$ nên đây là cấp số cộng có công sai $d=6$.\n✅ **Đáp án:** Chọn B. \\$6$"
+    }
+  ]
+}

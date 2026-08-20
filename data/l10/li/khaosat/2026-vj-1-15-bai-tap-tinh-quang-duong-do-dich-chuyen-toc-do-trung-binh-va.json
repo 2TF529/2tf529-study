@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-bai-tap-tinh-quang-duong-do-dich-chuyen-toc-do-trung-binh-va",
+  "sourceId": "vietjack:1-15-bai-tap-tinh-quang-duong-do-dich-ch",
+  "grade": "l10",
+  "subjectSlug": "li",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 Bài tập tính quãng đường, độ dịch chuyển, tốc độ trung bình, vận tốc trung bình có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Với tốc độ trung bình 24 km/h, người đi xe đạp sẽ đi được bao nhiêu ki lô mét trong 75 phút?",
+      "options": [
+        "A. 30 km.",
+        "B. 24 km.",
+        "C. 75 km.",
+        "D. 20 km."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Quãng đường s = v . t = 24. 75 60 = 30 k m"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Một máy bay trong 2,5 giờ bay được 1,6.10 3 km. Tìm tốc độ trung bình của máy bay.",
+      "options": [
+        "A. 640 m/h.",
+        "B. 640 m/s.",
+        "C. 640 km/h.",
+        "D. 640 km/s."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Tốc độ trung bình: v = s t = 1 , 6.10 3 2 , 5 = 640 k m / h"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Hai anh em bơi trong bể bơi thiếu niên có chiều dài 25 m. Hai anh em xuất phát từ đầu bể bơi đến cuối bể bơi thì người em dừng lại nghỉ, còn người anh quay lại bơi tiếp về đầu bể mới nghỉ. Quãng đường bơi được và độ dịch chuyển của hai anh em.",
+      "options": [
+        "A. d e m = − 25 m ; d a n h = 0 ; s e m = 25 m ; s a n h = 50 m",
+        "B. d e m = 0 m ; d a n h = 25 ; s e m = 25 m ; s a n h = 50 m",
+        "C. d e m = 25 m ; d a n h = 25 ; s e m = 50 m ; s a n h = 25 m",
+        "D. d e m = 25 m ; d a n h = 0 ; s e m = 25 m ; s a n h = 50 m"
+      ],
+      "answer": "D",
+      "note": "Người em: chuyển động thẳng, không đổi chiều. Người anh: chuyển động thẳng, có đổi chiều quay lại vị trí xuất phát. ⇒ d e m = 25 m ; d a n h = 0 ; s e m = 25 m ; s a n h = 50 m ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Tính tốc độ trung bình của ô tô trên cả đoạn đường đi và về.",
+      "options": [
+        "A. 48 m/s.",
+        "B. 48 km/h.",
+        "C. 50 km/h.",
+        "D. 50 m/s."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Tốc độ trung bình trên cả đoạn đường đi và về: v t b = 2 A B t 1 + t 2 = 2 A B A B v 1 + A B v 2 = 2 v 1 . v 2 v 1 + v 2 = 48 k m / h"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Tính vận tốc trung bình của ô tô trên cả đoạn đường đi và về.",
+      "options": [
+        "A. 48 km/h.",
+        "B. 50 km/h",
+        "C. 0 km/h.",
+        "D. 60 km/h."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Vận tốc trung bình trên cả đoạn đường đi và về: v t b = d t 1 + t 2 = 0 t 1 + t 2 = 0 k m / h"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Một xe chạy trong 5 giờ, 2 giờ đầu xe chạy với tốc độ trung bình 54 km/h, 3 giờ sau xe chạy với tốc độ 45 km/h. Tính tốc độ trung bình của xe trong suốt thời gian chuyển động?",
+      "options": [
+        "A. 45,6 km/h.",
+        "B. 48,6 km/h.",
+        "C. 49 km/h.",
+        "D. 52,6 km/h."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Quãng đường xe đi trong 2 giờ đầu tiên là: s 1 = v 1 . t 1 = 54.2 = 108 k m Quãng đường xe đi được trong 3 giờ sau là: s 2 = v 2 . t 2 = 45.3 = 135 k m Tốc độ trung bình của xe trong suốt thời gian chuyển động là: v t b = s 1 + s 2 t 1 + t 2 = 108 + 135 2 + 3 = 48 , 6 k m / h"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-4-29-cau-trac-nghiem-toan-11-chan-troi-sang-tao-gioi-han-cua-ham-",
+  "sourceId": "vietjack:4-29-cau-trac-nghiem-toan-11-chan-troi-s",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "4.29 câu trắc nghiệm Toán 11 Chân trời sáng tạo Giới hạn của hàm số có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho \\[{\\rm{a, b}} \\in {\\rm{R}}\\] thỏa mãn\\[\\mathop {{\\rm{lim}}}\\limits_{{\\rm{x}} \\to {\\rm{1}}} \\frac{{\\sqrt {{\\rm{(a + 5)}}{{\\rm{x}}^{\\rm{2}}} - {\\rm{2(a + 2)x + 2a + b + 7}}} - \\sqrt {{\\rm{6x + 3}}} }}{{{{\\rm{x}}^{\\rm{2}}} - {\\rm{2x + 1}}}}\\]\\[\\mathop {{\\rm{lim}}}\\limits_{{\\rm{x}} \\to {\\rm{1}}} \\frac{{\\sqrt {\\left( {{\\rm{a + 5}}} \\right){{\\rm{x}}^{\\rm{2}}} - {\\rm{2}}\\left( {{\\rm{a + 2}}} \\right){\\rm{x + 2a + b + 7}}} - \\sqrt {{\\rm{6x + 3}}} }}{{{{\\rm{x}}^{\\rm{2}}} - {\\rm{2x + 1 }}}}{\\rm{ = }}\\frac{{{\\rm{13}}}}{{{\\rm{12}}}}\\]. Tính giá trị của \\[{{\\rm{a}}^{\\rm{2}}}{\\rm{ + }}{{\\rm{b}}^2}\\]",
+      "options": [
+        "A. 2",
+        "B. \\[\\frac{5}{2}\\]",
+        "C. 5",
+        "D. 3"
+      ],
+      "answer": "B",
+      "note": "Vì giới hạn đã cho tồn tại nên \\[\\mathop {{\\rm{lim}}}\\limits_{{\\rm{x}} \\to {\\rm{1}}} \\left( {\\sqrt {\\left( {{\\rm{a + 5}}} \\right){{\\rm{x}}^{\\rm{2}}} - {\\rm{2}}\\left( {{\\rm{a + 2}}} \\right){\\rm{x + 2a + b + 7}}} - \\sqrt {{\\rm{6x + 3}}} } \\right){\\rm{ = 0}}\\] \\[ \\Rightarrow \\sqrt {{\\rm{a + b + 8}}} - {\\rm{3 = 0}} \\Rightarrow {\\rm{b = 1}} - {\\rm{a}}\\] Khi đó\\[\\mathop {\\lim }\\limits_{{\\rm{x}} \\to 1} \\frac{{\\sqrt {\\left( {{\\rm{a + 5}}} \\right){{\\rm{x}}^{\\rm{2}}} - {\\rm{2}}\\left( {{\\rm{a + 2}}} \\right){\\rm{x + 2a + b + 7}}} - \\sqrt {{\\rm{6x + 3}}} }}{{{{\\rm{x}}^{\\rm{2}}} - {\\rm{2x + 1}}}}{\\rm{ = }}\\frac{{13}}{{12}}\\] \\[ \\Rightarrow \\mathop {{\\rm{lim}}}\\limits_{{\\rm{x}} \\to {\\rm{1}}} \\frac{{\\sqrt {\\left( {{\\rm{a + 5}}} \\right){{\\rm{x}}^{\\rm{2}}} - {\\rm{2}}\\left( {{\\rm{a + 2}}} \\right){\\rm{x + a + 8}}} - \\sqrt {{\\rm{6x + 3}}} }}{{{{\\rm{x}}^{\\rm{2}}} - {\\rm{2x + 1}}}}{\\rm{ = }}\\frac{{{\\rm{13}}}}{{{\\rm{12}}}}\\] \\[ \\Rightarrow \\mathop {{\\rm{lim}}}\\limits_{{\\rm{x}} \\to {\\rm{1}}} \\frac{{{\\rm{a + 5}}}}{{\\left( {\\sqrt {{\\rm{(a + 5)}}{{\\rm{x}}^{\\rm{2}}} - {\\rm{2(a + 2)x + a + 8}}} {\\rm{ + }}\\sqrt {{\\rm{6x + 3}}} } \\right)}}{\\rm{ = }}\\frac{{{\\rm{13}}}}{{{\\rm{12}}}}\\] \\[ \\Leftrightarrow \\frac{{{\\rm{a}} + 5}}{6} = \\frac{{13}}{{12}} \\Leftrightarrow {\\rm{a}} = \\frac{3}{2} \\Rightarrow {\\rm{b}} = - \\frac{1}{2} \\Rightarrow {{\\rm{a}}^{\\rm{2}}}{\\rm{ + }}{{\\rm{b}}^{\\rm{2}}} = \\frac{5}{2}\\] Chọn đáp án B Đáp án cần chọn là: B"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho đa thức P(x) thỏa mãn \\[\\mathop {\\lim }\\limits_{{\\rm{x}} \\to 3} \\frac{{{\\rm{P}}\\left( {\\rm{x}} \\right) - 2}}{{{\\rm{x}} - 3}} = 2\\]. Tính \\[\\mathop {\\lim }\\limits_{{\\rm{x}} \\to 3} \\frac{{{\\rm{P}}\\left( {\\rm{x}} \\right) - 2}}{{\\left( {{{\\rm{x}}^2} - 9} \\right)\\left( {\\sqrt {{\\rm{P}}\\left( {\\rm{x}} \\right) + 2} + 1} \\right)}}\\]",
+      "options": [
+        "A. \\[\\frac{1}{3}\\]",
+        "B. \\[\\frac{1}{6}\\]",
+        "C. \\[\\frac{1}{9}\\]",
+        "D. \\[\\frac{2}{3}\\]"
+      ],
+      "answer": "C",
+      "note": "Vì\\[\\mathop {\\lim }\\limits_{{\\rm{x}} \\to 3} \\frac{{{\\rm{P}}\\left( {\\rm{x}} \\right) - 2}}{{{\\rm{x}} - 3}} = 2 \\Rightarrow {\\rm{P}}\\left( 3 \\right) - 2 = 0 \\Rightarrow {\\rm{P}}\\left( {\\rm{3}} \\right) = 2\\] Ta có:\\[\\mathop {\\lim }\\limits_{{\\rm{x}} \\to 3} \\frac{{{\\rm{P}}\\left( {\\rm{x}} \\right) - 2}}{{\\left( {{{\\rm{x}}^2} - 9} \\right)\\left( {\\sqrt {{\\rm{P}}\\left( {\\rm{x}} \\right) + 2} + 1} \\right)}} = \\mathop {\\lim }\\limits_{{\\rm{x}} \\to 3} \\frac{{{\\rm{P}}\\left( {\\rm{x}} \\right) - 2}}{{\\left( {{\\rm{x}} - 3} \\right)}}.\\frac{1}{{\\left( {{\\rm{x}} + 3} \\right)\\left( {\\sqrt {{\\rm{P}}\\left( {\\rm{x}} \\right) + 2} + 1} \\right)}}\\] \\[ = \\mathop {\\lim }\\limits_{{\\rm{x}} \\to 3} \\frac{{{\\rm{P}}\\left( {\\rm{x}} \\right) - 2}}{{\\left( {{\\rm{x}} - 3} \\right)}}.\\mathop {\\lim }\\limits_{{\\rm{x}} \\to 3} \\frac{1}{{\\left( {{\\rm{x}} + 3} \\right)\\left( {\\sqrt {{\\rm{P}}\\left( {\\rm{x}} \\right) + 2} + 1} \\right)}} = 2.\\frac{1}{{\\left( {3 + 3} \\right)\\left( {\\sqrt {2 + 2} + 1} \\right)}} = \\frac{1}{9}\\] Chọn đáp án C Đáp án cần chọn là: C"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Kết quả \\[\\mathop {\\lim }\\limits_{{\\rm{x}} \\to + \\infty } \\left( {\\sqrt {2020{{\\rm{x}}^2} + {\\rm{x}} + 3} - \\sqrt {2021{{\\rm{x}}^2} + 2} } \\right)\\] bằng",
+      "options": [
+        "A. \\[ - \\infty \\]",
+        "B. \\[ + \\infty \\]",
+        "C. 0",
+        "D. 1"
+      ],
+      "answer": "A",
+      "note": "Ta có\\[\\mathop {\\lim }\\limits_{{\\rm{x}} \\to + \\infty } \\left( {\\sqrt {2020{{\\rm{x}}^2} + {\\rm{x}} + 3} - \\sqrt {2021{{\\rm{x}}^2} + 2} } \\right) = \\mathop {\\lim }\\limits_{{\\rm{x}} \\to + \\infty } \\left[ {{\\rm{x}}\\left( {\\sqrt {2020 + \\frac{1}{{\\rm{x}}} + \\frac{3}{{{{\\rm{x}}^2}}}} - \\sqrt {2021 + \\frac{2}{{{{\\rm{x}}^2}}}} } \\right)} \\right]\\] Vì\\[\\mathop {\\lim }\\limits_{{\\rm{x}} \\to + \\infty } {\\rm{x}} = + \\infty ,\\mathop {\\lim }\\limits_{{\\rm{x}} \\to \\infty } \\left( {\\sqrt {2020 + \\frac{1}{{\\rm{x}}} + \\frac{3}{{{{\\rm{x}}^2}}}} - \\sqrt {2021 + \\frac{2}{{{{\\rm{x}}^2}}}} } \\right) = \\sqrt {2020} - \\sqrt {2021} < 0\\] \\[ \\Rightarrow \\mathop {\\lim }\\limits_{{\\rm{x}} \\to + \\infty } \\left[ {{\\rm{x}}\\left( {\\sqrt {2020 + \\frac{{\\rm{1}}}{{\\rm{x}}} + \\frac{3}{{{{\\rm{x}}^2}}}} - \\sqrt {2021 + \\frac{2}{{{{\\rm{x}}^2}}}} } \\right)} \\right] = - \\infty \\] Chọn đáp án A Đáp án cần chọn là: A"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho \\[\\mathop {\\lim }\\limits_{{\\rm{x}} \\to 4} \\frac{{{\\rm{f(x)}} - 5}}{{{\\rm{x}} - 4}} = 5\\]. Tính giới hạn \\[\\mathop {\\lim }\\limits_{{\\rm{x}} \\to 4} \\frac{{{\\rm{f}}\\left( {\\rm{x}} \\right) - 5}}{{\\left( {\\sqrt {\\rm{x}} - 2} \\right)\\left( {\\sqrt {6{\\rm{f(x)}} + 6} + 4} \\right)}}\\]",
+      "options": [
+        "A. -2",
+        "B. -1",
+        "C. 2",
+        "D. 3"
+      ],
+      "answer": "C",
+      "note": "Vì\\[\\mathop {\\lim }\\limits_{{\\rm{x}} \\to 4} \\frac{{{\\rm{f}}\\left( {\\rm{x}} \\right) - 5}}{{{\\rm{x}} - 4}} = 5\\]nên \\[{\\rm{f}}\\left( 4 \\right) - 5 = 0 \\Rightarrow {\\rm{f}}\\left( 4 \\right) = 5\\] Ta có: \\[\\mathop {\\lim }\\limits_{{\\rm{x}} \\to 4} \\frac{{{\\rm{f}}\\left( {\\rm{x}} \\right) - 5}}{{\\left( {\\sqrt {\\rm{x}} - 2)(\\sqrt {6{\\rm{f}}\\left( {\\rm{x}} \\right) + 6} + 4} \\right)}} = \\mathop {\\lim }\\limits_{{\\rm{x}} \\to 4} \\frac{{{\\rm{f}}\\left( {\\rm{x}} \\right) - 5}}{{{\\rm{x}} - 4}}.\\mathop {\\lim }\\limits_{{\\rm{x}} \\to 4} \\frac{{\\sqrt {\\rm{x}} + 2}}{{\\sqrt {6{\\rm{f}}\\left( {\\rm{x}} \\right) + 6} + 4}} = 5.\\frac{{\\sqrt 2 + 2}}{{\\sqrt {6.{\\rm{f}}\\left( 4 \\right) + 6} + 4}} = 2\\]Chọn đáp án C Đáp án cần chọn là: C"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Tính \\[\\mathop {\\lim }\\limits_{{\\rm{x}} \\to \\frac{{\\rm{\\pi }}}{{\\rm{4}}}} \\frac{{\\sin {\\rm{x}} - \\cos {\\rm{x}}}}{{\\tan \\left( {{\\rm{x}} - \\frac{{\\rm{\\pi }}}{4}} \\right)}}\\]",
+      "options": [
+        "A. \\[ - \\sqrt 2 \\]",
+        "B. \\[ + \\sqrt 2 \\]",
+        "C. −2",
+        "D. +2"
+      ],
+      "answer": "B",
+      "note": "Ta có: \\[\\sin {\\rm{x}} - \\cos {\\rm{x}} = \\sqrt 2 \\sin \\left( {{\\rm{x}} - \\frac{{\\rm{\\pi }}}{4}} \\right)\\] \\[\\tan \\left( {{\\rm{x}} - \\frac{{\\rm{\\pi }}}{4}} \\right) = \\frac{{\\sin \\left( {{\\rm{x}} - \\frac{{\\rm{\\pi }}}{{\\rm{4}}}} \\right)}}{{\\cos \\left( {{\\rm{x}} - \\frac{{\\rm{\\pi }}}{{\\rm{4}}}} \\right)}}\\] \\[\\mathop {\\lim }\\limits_{{\\rm{x}} \\to \\frac{{\\rm{\\pi }}}{4}} \\frac{{\\sin {\\rm{x}} - \\cos {\\rm{x}}}}{{\\tan \\left( {{\\rm{x}} - \\frac{{\\rm{\\pi }}}{4}} \\right)}} = \\mathop {\\lim }\\limits_{{\\rm{x}} \\to \\frac{{\\rm{\\pi }}}{4}} \\frac{{\\sqrt 2 \\sin \\left( {{\\rm{x}} - \\frac{{\\rm{\\pi }}}{4}} \\right).\\cos \\left( {{\\rm{x}} - \\frac{{\\rm{\\pi }}}{4}} \\right)}}{{\\sin \\left( {{\\rm{x}} - \\frac{{\\rm{\\pi }}}{4}} \\right)}} = \\mathop {\\lim }\\limits_{{\\rm{x}} \\to \\frac{{\\rm{\\pi }}}{4}} \\sqrt 2 \\cos \\left( {{\\rm{x}} - \\frac{{\\rm{\\pi }}}{4}} \\right) = \\sqrt 2 \\] Chọn đáp án B Đáp án cần chọn là: B"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Biết giới hạn \\[\\mathop {\\lim }\\limits_{{\\rm{x}} \\to 2} \\frac{{\\sqrt {3{\\rm{x}} + 3} - {\\rm{m}}}}{{{\\rm{x}} - 2}} = \\frac{{\\rm{a}}}{{\\rm{b}}}\\], m là số thực; a,b là các số nguyên và \\[\\frac{{\\rm{a}}}{{\\rm{b}}}\\] tối giản. Tính a − b",
+      "options": [
+        "A. 0",
+        "B. 1",
+        "C. -1",
+        "D. -2"
+      ],
+      "answer": "C",
+      "note": "Vì\\[\\mathop {\\lim }\\limits_{{\\rm{x}} \\to 2} \\left( {{\\rm{x}} - 2} \\right) = 0 \\Rightarrow \\]để\\[\\mathop {\\lim }\\limits_{{\\rm{x}} \\to 2} \\frac{{\\sqrt {3{\\rm{x}} + 3} - {\\rm{m}}}}{{{\\rm{x}} - 2}} = \\frac{{\\rm{a}}}{{\\rm{b}}}\\]thì\\[\\mathop {\\lim }\\limits_{{\\rm{x}} \\to 2} \\left( {\\sqrt {3{\\rm{x}} + 3} - {\\rm{m}}} \\right) = 0\\]. Do đó x = 2 là nghiệm của phương trình \\[\\sqrt {3{\\rm{x}} + 3} - {\\rm{m}} = 0 \\Rightarrow {\\rm{m}} = 3\\] Với m = 3 ta được: \\[\\mathop {\\lim }\\limits_{{\\rm{x}} \\to 2} \\frac{{\\sqrt {3{\\rm{x}} + 3} - 3}}{{{\\rm{x}} - 2}} = \\mathop {\\lim }\\limits_{{\\rm{x}} \\to 2} \\frac{{\\left( {\\sqrt {3{\\rm{x}} + 3} - 3} \\right)\\left( {\\sqrt {3{\\rm{x}} + 3} + 3} \\right)}}{{\\left( {{\\rm{x}} - 2} \\right)\\left( {\\sqrt {3{\\rm{x}} + 3} + 3} \\right)}} = \\mathop {\\lim }\\limits_{{\\rm{x}} \\to 2} \\frac{{3{\\rm{x}} - 6}}{{\\left( {{\\rm{x}} - 2} \\right)\\left( {\\sqrt {3{\\rm{x}} + 3} + 3} \\right)}}\\] \\[ = \\mathop {\\lim }\\limits_{{\\rm{x}} \\to 2} \\frac{{3\\left( {{\\rm{x}} - 2} \\right)}}{{\\left( {{\\rm{x}} - 2} \\right)\\left( {\\sqrt {3{\\rm{x}} + 3} + 3} \\right)}} = \\mathop {\\lim }\\limits_{{\\rm{x}} \\to 2} \\frac{3}{{\\left( {\\sqrt {3{\\rm{x}} + 3} + 3} \\right)}} = \\frac{1}{2}\\] \\[ \\Rightarrow {\\rm{a}} = 1,{\\rm{b}} = 2 \\Rightarrow {\\rm{a}} - {\\rm{b}} = - 1\\]Chọn đáp án C Đáp án cần chọn là: C"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Cho a, b là các số nguyên và\\[\\mathop {\\lim }\\limits_{{\\rm{x}} \\to 1} \\frac{{{\\rm{a}}{{\\rm{x}}^{\\rm{2}}}{\\rm{ + bx}} - {\\rm{5}}}}{{{\\rm{x}} - 1}} = 20\\]. Tính \\[{\\rm{P = }}{{\\rm{a}}^{\\rm{2}}}{\\rm{ + }}{{\\rm{b}}^{\\rm{2}}}\\]",
+      "options": [
+        "A. 125",
+        "B. 225",
+        "C. 525",
+        "D. 325"
+      ],
+      "answer": "D",
+      "note": "Ta có \\[\\mathop {\\lim }\\limits_{{\\rm{x}} \\to 1} \\frac{{{\\rm{a}}{{\\rm{x}}^{\\rm{2}}}{\\rm{ + bx}} - {\\rm{5}}}}{{{\\rm{x}} - 1}} = 20\\] \\( \\Rightarrow \\left\\{ {\\begin{array}{*{20}{c}}{{\\rm{a + b}} - {\\rm{5 = 0}}}\\\\{{\\rm{2a + b = 20}}}\\end{array}} \\right. \\Leftrightarrow \\left\\{ {\\begin{array}{*{20}{c}}{{\\rm{a = 15}}}\\\\{{\\rm{b = }} - {\\rm{10}}}\\end{array}} \\right. \\Rightarrow \\left\\{ {\\begin{array}{*{20}{c}}{{\\rm{a + b}} - {\\rm{5 = 0}}}\\\\{{\\rm{2a + b = 20}}}\\end{array}} \\right. \\Leftrightarrow \\left\\{ {\\begin{array}{*{20}{c}}{{\\rm{a = 15}}}\\\\{{\\rm{b = }} - {\\rm{10}}}\\end{array}} \\right.\\) \\[ \\Rightarrow {\\rm{P = }}{{\\rm{a}}^{\\rm{2}}}{\\rm{ + }}{{\\rm{b}}^{\\rm{2}}}{\\rm{ = 32}}5 \\Rightarrow {\\rm{P = }}{{\\rm{a}}^{\\rm{2}}}{\\rm{ + }}{{\\rm{b}}^{\\rm{2}}}{\\rm{ = 3}}25\\] Đáp án cần chọn là: D"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho hàm số \\[{\\rm{f}}\\left( {\\rm{x}} \\right) = \\left\\{ {\\begin{array}{*{20}{c}}{\\sqrt {{\\rm{mx + 1}}} - 1\\,\\,{\\rm{khi}}\\,\\,{\\rm{x}} \\ne 0}\\\\{4{{\\rm{x}}^2} + 5{\\rm{n}}\\,\\,{\\rm{khi}}\\,\\,{\\rm{x}} = 0}\\end{array}} \\right.\\left( {{\\rm{m,n}} \\in \\mathbb{R}} \\right)\\] liên tục tại x 0 = 0. Tìm hệ thức liên hệ giữa m và n",
+      "options": [
+        "A. m = 2n",
+        "B. m = 5n",
+        "C. m = 10n",
+        "D. m = n"
+      ],
+      "answer": "C",
+      "note": "Ta có f(0) = 5n \\[\\mathop {\\lim }\\limits_{{\\rm{x}} \\to 0} {\\rm{f}}\\left( {\\rm{x}} \\right) = \\mathop {\\lim }\\limits_{{\\rm{x}} \\to 0} \\frac{{\\sqrt {{\\rm{mx}} + 1} - 1}}{{\\rm{x}}} = \\mathop {\\lim }\\limits_{{\\rm{x}} \\to 0} \\frac{{\\left( {\\sqrt {{\\rm{mx}} + 1} - 1} \\right)\\left( {\\sqrt {{\\rm{mx + 1}}} + 1} \\right)}}{{{\\rm{x}}\\left( {\\sqrt {{\\rm{mx}} + 1} + 1} \\right)}} = \\mathop {\\lim }\\limits_{{\\rm{x}} \\to 0} \\frac{{\\rm{m}}}{{\\sqrt {{\\rm{mx + 1}}} {\\rm{ + 1}}}} = \\frac{{\\rm{m}}}{2}\\]Vì hàm số liên tục tại x 0 = 0 nên \\[\\mathop {\\lim }\\limits_{{\\rm{x}} \\to 0} {\\rm{f}}\\left( {\\rm{x}} \\right){\\rm{ = f}}\\left( {\\rm{0}} \\right) \\Leftrightarrow {\\rm{5n = }}\\frac{{\\rm{m}}}{{\\rm{2}}} \\Leftrightarrow {\\rm{m = 10n}}\\] Chọn đáp án C Đáp án cần chọn là: C"
+    }
+  ]
+}

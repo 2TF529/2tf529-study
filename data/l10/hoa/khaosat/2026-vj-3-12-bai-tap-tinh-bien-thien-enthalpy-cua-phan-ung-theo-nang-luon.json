@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-3-12-bai-tap-tinh-bien-thien-enthalpy-cua-phan-ung-theo-nang-luon",
+  "sourceId": "vietjack:3-12-bai-tap-tinh-bien-thien-enthalpy-cu",
+  "grade": "l10",
+  "subjectSlug": "hoa",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.12 Bài tập Tính biến thiên enthalpy của phản ứng theo năng lượng liên kết (có lời giải)",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho phản ứng hóa học sau: CH 4 ( g ) + Cl 2 ( g ) → CH 3 Cl ( g ) + HCl ( g ) Biết năng lượng liên kết (kJmol -1 ) trong các chất cho ở bảng sau: C – H Cl – Cl C – Cl H – Cl 414 243 339 431 Biến thiên enthalpy chuẩn của phản ứng trên được tính theo năng lượng liên kết là",
+      "options": [
+        "A. -113 kJ.",
+        "B. + 113 kJ.",
+        "C. -527 kJ.",
+        "D. + 527 kJ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Biến thiên enthalpy chuẩn của phản ứng trên được tính theo năng lượng liên kết là \\[{\\Delta _r}H_{298}^0 = 1 \\times {E_b}(C{H_4}) + 1 \\times {E_b}(C{l_2}) - 1 \\times {E_b}(C{H_3}Cl) - 1 \\times {E_b}(HCl)\\] = 1 × 4E C – H + 1 × E Cl – Cl – 1 × (3E C – H + E C – Cl ) – 1 × E H – Cl = 1 × 4 × 414 + 1 × 243 - 1×(3×414 + 339) - 1×431 = -113 (kJ)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho phản ứng hóa học sau: 3H 2 ( g ) + N 2 ( g ) → 2NH 3 ( g ) Biết năng lượng liên kết (kJmol -1 ) trong các chất như sau: H – H N ≡ N N – H 432 945 391 Biến thiên enthalpy chuẩn của phản ứng trên được tính theo năng lượng liên kết là",
+      "options": [
+        "A. +105 kJ.",
+        "B. -105 kJ.",
+        "C. +986 kJ.",
+        "D. -986 kJ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Biến thiên enthalpy chuẩn của phản ứng trên được tính theo năng lượng liên kết là \\[{\\Delta _r}H_{298}^0 = 3 \\times {E_b}({H_2}) + {E_b}({N_2}) - 2 \\times {E_b}(N{H_3})\\] = 3 × E b (H – H) + E b (N ≡ N) – 2 × 3 × E b (N – H) = 3 × 432 + 945 - 2 × 3 × 391 = -105 kJ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho phản ứng sau: H 2 ( g ) + Cl 2 ( g ) → 2HCl ( g ) Biến thiên enthalpy chuẩn của phản ứng là Biết: E b (H – H) = 436 kJ/mol, E b (Cl – Cl) = 243 kJ/mol, E b (H – Cl) = 432 kJ/ mol.",
+      "options": [
+        "A. +158 kJ.",
+        "B. -158 kJ.",
+        "C. +185 kJ.",
+        "D. -185 kJ."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Biến thiên enthalpy chuẩn của phản ứng là: \\[\\begin{array}{l}{\\Delta _r}H_{298}^0 = {E_b}_{(H - H)} + {E_{b(Cl - Cl)}} - 2{E_{b(H - Cl)}}\\\\ = 436 + 243 - 2.432 = - 185(kJ).\\end{array}\\]"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho phản ứng hóa học sau: 2H 2 ( g ) + O 2 ( g ) → t ° 2H 2 O( g ) Biến thiên enthalpy chuẩn của phản ứng là Biết: E b(H-H) = 432 kJ/mol; E b(O=O) = 498 kJ/mol; E b(O-H) = 467 kJ/mol.",
+      "options": [
+        "A. - 560 kJ.",
+        "B. -506 kJ.",
+        "C. +560 kJ.",
+        "D. +506 kJ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Biến thiên enthalpy chuẩn của phản ứng là \\({\\Delta _r}H_{298}^o = {\\rm{ }}2.{E_b}\\left( {{H_2}} \\right){\\rm{ }} + {\\rm{ }}{E_b}\\left( {{O_2}} \\right){\\rm{ }}--{\\rm{ }}2.{E_b}\\left( {{H_2}O} \\right)\\) = 2.E b(H-H) + E b(O=O) – 2.2.E b(O-H) = 2.432 + 498 – 2.2.467 = -506 ( kJ )."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho phản ứng hóa học sau: C 7 H 16 ( g ) + 11O 2 ( g ) → t ° 7CO 2 ( g ) + 8H 2 O( g ) Biến thiên enthalpy chuẩn của phản ứng là Biết: E b(C-C) = 347 kJ/mol; E b(C-H) = 413 kJ/mol; E b(O=O) = 498 kJ/mol; E b(C=O) = 745 kJ/mol; E b(O-H) = 467 kJ/mol.",
+      "options": [
+        "A. -3734 kJ .",
+        "B. + 3734 kJ .",
+        "C. - 46 kJ.",
+        "D. +46 kJ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Biến thiên enthalpy chuẩn của phản ứng là \\({\\Delta _r}H_{298}^o = {\\rm{ }}{E_b}\\left( {{C_7}{H_{16}}} \\right){\\rm{ }} + {\\rm{ }}11.{E_b}\\left( {{O_2}} \\right){\\rm{ }}--{\\rm{ }}7.{E_b}\\left( {C{O_2}} \\right){\\rm{ }}--{\\rm{ }}8.{E_b}\\left( {{H_2}O} \\right)\\) = 6.E b(C-C) + 16E b(C-H) + 11.E b(O=O) – 7.2.E b(C=O) – 8.2.E b(O-H) = 6.347 + 16.413 + 11.498 – 7.2.745 – 8.2.467 = -3734 kJ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho giá trị trung bình của các năng lượng liên kết ở điều kiện chuẩn: Liên kết C – H C – C C = C E b (kJ/mol) 418 346 612 Biến thiên enthalpy chuẩn của phản ứng C 3 H 8 (g) ⟶ CH 4 (g) + C 2 H 4 (g) là",
+      "options": [
+        "A. +103 kJ.",
+        "B. – 103 kJ.",
+        "C. +80 kJ.",
+        "D. – 80 kJ."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C \\({\\Delta _r}H_{298}^o = 2.{E_b}_{\\left( {C{\\rm{ }}--{\\rm{ }}C} \\right)}{\\rm{ }} + {\\rm{ }}8.{E_b}_{\\left( {C{\\rm{ }}--{\\rm{ }}H} \\right)} - 1.{E_b}_{\\left( {C{\\rm{ }} = {\\rm{ }}C} \\right)}{\\rm{ - }}8.{E_b}_{\\left( {C{\\rm{ }}--{\\rm{ }}H} \\right)}\\) = 2.346 + 8.418 - 1.612 - 8.418 = +80 kJ."
+    }
+  ]
+}

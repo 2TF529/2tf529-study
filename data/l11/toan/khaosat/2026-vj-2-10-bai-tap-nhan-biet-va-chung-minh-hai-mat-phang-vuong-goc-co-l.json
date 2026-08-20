@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-10-bai-tap-nhan-biet-va-chung-minh-hai-mat-phang-vuong-goc-co-l",
+  "sourceId": "vietjack:2-10-bai-tap-nhan-biet-va-chung-minh-hai",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.10 Bài tập Nhận biết và chứng minh hai mặt phẳng vuông góc (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho tứ diện ABCD có AC = AD và BC = BD . Gọi I là trung điểm của CD . Khẳng định nào sau đây sai ?",
+      "options": [
+        "A. Góc giữa hai mặt phẳng (ABC) và (ABD) là C B D ^ ;",
+        "B. Góc giữa hai mặt phẳng (ACD) và (BCD) là A I B ^ ;",
+        "C. (BCD) ^ (AIB) ;",
+        "D. (ACD) ^ (AIB) ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Tam giác BCD cân tại B có I là trung điểm đáy CD ⇒ CD ^ BI (1). Tam giác ACD cân tại A có I là trung điểm đáy CD ⇒ CD ^ AI (2). Do đó góc giữa hai mặt phẳng (ACD) và (BCD) là . Suy ra đáp án B đúng. (1) và (2) ⇒ CD ^ (ABI). Mà CD Ì (BCD) ⇒ (BCD) ^ (ABI). Suy ra đáp án C đúng. CD Ì (ACD) ⇒ (ACD) ^ (ABI). Suy ra đáp án D đúng."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hình chóp S.ABC có SA ^ (ABC) và đáy ABC vuông ở A. Khẳng định nào sau đây sai ?",
+      "options": [
+        "A. (SAB) ^ (ABC);",
+        "B. (SAB) ^ (SAC);",
+        "C. Vẽ AH ^ BC, H Î BC ⇒ A H S ^ là góc giữa hai mặt phẳng (SBC) và (ABC);",
+        "D. Góc giữa hai mặt phẳng (SBC) và (SAC) là góc S C B ^ ."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Vì SA ^ (ABC) mà SA Ì (SAB) ⇒ (SAB) ^ (ABC). Do đó đáp án A đúng. Vì SA ^ (ABC) nên SA ^ AB mà AB ^ AC suy ra AB ^ (SAC). Lại có AB Ì (SAB) nên (SAB) ^ (SAC). Do đó đáp án B đúng. Có AH ^ BC và BC ^ SA (do SA ^ (ABC)) do đó BC ^ (SAH) ⇒ BC ^ SH. Do đó góc giữa hai mặt phẳng (SBC) và (ABC) bằng S H A ^ . Do đó đáp án C đúng. Vậy đáp án D sai."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho tứ diện ABCD có AB ^ (BCD) . Trong D BCD vẽ các đường cao BE và DF . Trong (ADC) vẽ DK ^ AC tại K . Khẳng định nào sau đây sai ?",
+      "options": [
+        "A. (ADC) ^ (ABE);",
+        "B. (ADC) ^ (DFK);",
+        "C. (ADC) ^ (ABC);",
+        "D. (BDC) ^ (ABE)."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Vì AB ^ (BCD) nên AB ^ CD mà BE ^ CD suy ra CD ^ (ABE). Lại có CD Ì (ADC) nên (ADC) ^ (ABE). Do đó đáp án A đúng. Vì AB ^ (BCD) nên AB ^ DF mà DF ^ BC suy ra DF ^ (ABC) ⇒ DF ^ AC. Lại có DK ^ AC nên AC ^ (DFK). Mặt khác AC Ì (ADC) suy ra (ADC) ^ (DFK). Do đó đáp án B đúng. Vì CD ^ (ABE) mà CD Ì (BCD) suy ra (BDC) ^ (ABE). Do đó đáp án D đúng. Vậy đáp án C sai."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hình chóp S.ABCD có đáy ABCD là hình thoi và SB vuông góc với mặt phẳng (ABCD). Mặt phẳng nào sau đây vuông góc với mặt phẳng (SBD)?",
+      "options": [
+        "A. (SBC);",
+        "B. (SAD);",
+        "C. (SCD);",
+        "D. (SAC)."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Vì ABCD là hình thoi nên AC ^ BD. Do SB ^ (ABCD) ⇒ SB ^ AC mà AC ^ BD nên AC ^ (SBD). Lại có AC Ì (SAC) ⇒ (SAC) ^ (SBD)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hình chóp S.ABC có đáy ABC là tam giác cân tại B, cạnh bên SA vuông góc với đáy, I là trung điểm AC, H là hình chiếu của I lên SC. Khẳng định nào sau đây đúng?",
+      "options": [
+        "A. (BIH) ^ (SBC);",
+        "B. (SAC) ^ (SAB);",
+        "C. (SBC) ^ (ABC);",
+        "D. (SAC) ^ (SBC)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Vì D ABC cân tại B, BI là đường trung tuyến nên BI đồng thời là đường cao. Suy ra BI ^ AC. Mà SA ^ (ABC) ⇒ SA ^ BI mà BI ^ AC nên BI ^ (SAC) ⇒ BI ^ SC (1). Lại có IH ^ SC (2). Từ (1) và (2, suy ra SC ^ (BIH) mà SC Ì (SBC). Do đó (BIH) ^ (SBC)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho hình chóp S.ABC có đáy ABC là tam giác vuông cân tại B, SA ^ (ABC), gọi M là trung điểm của AC. Mệnh đề nào sai ?",
+      "options": [
+        "A. (SAB) ^ (SAC);",
+        "B. BM ^ AC;",
+        "C. (SBM) ^ (SAC);",
+        "D. (SAB) ^ (SBC)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A +) Vì BM là trung tuyến của tam giác vuông cân ABC nên BM ^ AC. +) Vì SA ^ (ABC) nên SA ^ BM mà BM ^ AC nên BM ^ (SAC) ⇒ (SBM) ^ (SAC). +) Vì SA ^ (ABC) nên SA ^ BC mà AB ^ BC (do D ABC vuông cân) nên BC ^ (SAB). Mà BC Ì (SBC) ⇒ (SBC) ^ (SAB)."
+    }
+  ]
+}

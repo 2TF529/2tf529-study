@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-5-20-cau-trac-nghiem-toan-10-canh-dieu-bai-2-hoan-vi-chinh-hop-du",
+  "sourceId": "vietjack:5-20-cau-trac-nghiem-toan-10-canh-dieu-b",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "5.20 câu trắc nghiệm Toán 10 Cánh diều Bài 2. Hoán vị. Chỉnh hợp (Đúng sai - trả lời ngắn) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Xếp 6 người \\(A,B,C,D,E,F\\) vào một ghế dài. Hỏi có bao nhiêu cách sắp xếp sao cho \\(A\\) và \\(F\\) ngồi ở hai đầu ghế.",
+      "options": [
+        "A. \\(48\\).",
+        "B. \\(42\\).",
+        "C. \\(46\\).",
+        "D. \\(50\\)."
+      ],
+      "answer": "A",
+      "note": "Số cách xếp sao cho \\(A\\) và \\(F\\) ngồi ở hai đầu ghế là \\(2!\\) cách. 4 người còn lại có \\(4!\\) cách. Vậy có tất cả \\(2! \\cdot 4! = 48\\) cách. Chọn A ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Bạn Minh thực hiện thí nghiệm hóa học. Trên bàn có 4 ống nghiệm chứa 4 loại acid khác nhau và 4 ông nghiệm chứa 4 loại base khác nhau. Hỏi có bao nhiêu cách ghép cặp acid với base để tạo thành 4 phản ứng cùng lúc?",
+      "options": [
+        "A. \\(16\\).",
+        "B. \\(24\\).",
+        "C. \\(8\\).",
+        "D. \\(4\\)."
+      ],
+      "answer": "B",
+      "note": "Cố định 4 ống nghiệm chứa acid và hoán vị 4 ống nghiệm chứa base để ghép cặp tạo thành 4 phản ứng có \\(4! = 24\\) cách. Chọn B ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Số cách xếp 4 bạn học sinh \\(A,B,C,D\\) vào 4 chiếc ghế ngồi theo hàng ngang (mỗi người ngồi một ghế) là",
+      "options": [
+        "A. \\(16\\).",
+        "B. \\(4\\).",
+        "C. \\(8\\).",
+        "D. \\(24\\)."
+      ],
+      "answer": "D",
+      "note": "Số cách xếp 4 bạn học sinh \\(A,B,C,D\\) vào 4 chiếc ghế ngồi theo hàng ngang (mỗi người ngồi một ghế) là \\(4! = 24\\) . Chọn D ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu lạc bộ bóng đá có 16 thành viên. Số cách chọn một ban chấp hành bất kì gồm một trưởng ban, một phó ban, một thứ kí và một thủ quỹ được chọn từ 16 thành viên là:",
+      "options": [
+        "A. \\(4\\).",
+        "B. \\(\\frac{{16!}}{4}\\).",
+        "C. \\(C_{16}^4\\).",
+        "D. \\(A_{16}^4\\)."
+      ],
+      "answer": "D",
+      "note": "Có \\(A_{16}^4\\) một ban chấp hành bất kì gồm một trưởng ban, một phó ban, một thứ kí và một thủ quỹ được chọn từ 16 thành viên. Chọn D ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho tập \\(A = \\left\\{ {0;1;2;3;4;5;6;7;8;9} \\right\\}\\) . Có bao nhiêu số tự nhiên gồm 5 chữ số khác nhau được tạo từ tập \\(A\\) ?",
+      "options": [
+        "A. \\(A_{10}^4\\).",
+        "B. \\(9 \\cdot C_9^4\\).",
+        "C. \\(9 \\cdot A_9^4\\).",
+        "D. \\(C_{10}^4\\)."
+      ],
+      "answer": "C",
+      "note": "Có \\(9 \\cdot A_9^4\\) số tự nhiên gồm 5 chữ số khác nhau được tạo từ tập \\(A\\) . Chọn C ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Có bao nhiêu số tự nhiên có ba chữ số khác nhau được lập từ các chữ số \\(1;2;3;4;5\\) ?",
+      "options": [
+        "A. \\(10\\).",
+        "B. \\(6\\).",
+        "C. \\(100\\).",
+        "D. \\(60\\)."
+      ],
+      "answer": "D",
+      "note": "Từ các chữ số \\(1;2;3;4;5\\) ta lập được \\(A_5^3 = 60\\) số tự nhiên có ba chữ số khác nhau. Chọn D ."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Số cách sắp 6 học sinh vào một bàn dài có 10 chỗ ngồi là",
+      "options": [
+        "A. \\(10\\).",
+        "B. \\(6 \\cdot A_{10}^6\\).",
+        "C. \\(6!\\).",
+        "D. \\(A_{10}^6\\)."
+      ],
+      "answer": "D",
+      "note": "Có \\(A_{10}^6\\) cách sắp 6 học sinh vào một bàn dài có 10 chỗ ngồi. Chọn D ."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Một tổ có 7 bạn nam và 3 bạn nữ. Số các sắp xếp 10 bạn trên thành một hàng dọc sao cho các bạn cùng giới thì đứng cạnh nhau là",
+      "options": [
+        "A. \\(60680\\).",
+        "B. \\(60480\\).",
+        "C. \\(60580\\).",
+        "D. \\(60488\\)."
+      ],
+      "answer": "B",
+      "note": "Nhóm 7 bạn nam thành 1 nhóm và 3 bạn nữ thành 1 nhóm. Suy ra có 2 cách xếp 2 nhóm. Trong nhóm 7 bạn nam có \\(7!\\) cách xếp, trong nhóm 3 bạn nữ có \\(3!\\) cách xếp. Vậy có \\(2 \\cdot 7! \\cdot 3! = 60480\\) cách xếp 10 bạn trên thành một hàng dọc sao cho các bạn cùng giới thì đứng cạnh nhau. Chọn B ."
+    }
+  ]
+}

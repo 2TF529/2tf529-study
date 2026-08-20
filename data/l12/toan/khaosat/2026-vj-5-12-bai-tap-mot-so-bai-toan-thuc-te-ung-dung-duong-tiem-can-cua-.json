@@ -1,0 +1,78 @@
+{
+  "id": "2026-vj-5-12-bai-tap-mot-so-bai-toan-thuc-te-ung-dung-duong-tiem-can-cua-",
+  "sourceId": "vietjack:5-12-bai-tap-mot-so-bai-toan-thuc-te-ung",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "5.12 bài tập Một số bài toán thực tế ứng dụng đường tiệm cận của đồ thị hàm số có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 2: Chi phí (đơn vị: nghìn đồng) để sản xuất x sản phẩm của một công ty được xác định bởi hàm số F(x) = 60000 + 250x. Gọi F(x) là hàm số biểu thị chi phí trung bình (đơn vị: nghìn đồng) để sản xuất x sản phẩm (x ≥ 0), khi đó tiệm cận ngang của đồ thị hàm số bằng",
+      "options": [
+        "A. 250;",
+        "B. \\(y = \\frac{1}{{240}}\\);",
+        "C. y = 240;",
+        "D. y = 250."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Chi phí trung bình để sản xuất x sản phẩm là \\(F\\left( x \\right) = \\frac{{60000 + 250x}}{x}\\) (nghìn đồng). Ta có \\(\\mathop {\\lim }\\limits_{x \\to + \\infty } F\\left( x \\right) = \\mathop {\\lim }\\limits_{x \\to + \\infty } \\frac{{60000 + 250x}}{x} = 250\\)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 3: Số dân của một thị trấn sau t năm kể từ năm 1970 được ước tính bởi công thức \\(f\\left( t \\right) = \\frac{{26t + 10}}{{t + 5}}\\); f(t) được tính bằng nghìn người. Xem f(t) là một hàm số xác định trên nửa khoảng [0; +∞). Đồ thị hàm số y = f(t) có đường tiệm cận ngang y = a. Giá trị của a là bao nhiêu?",
+      "options": [
+        "A. 20;",
+        "B. 36;",
+        "C. 10;",
+        "D. 26."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Ta có \\(\\mathop {\\lim }\\limits_{t \\to \\infty } f\\left( t \\right) = \\mathop {\\lim }\\limits_{t \\to \\infty } \\frac{{26t + 10}}{{t + 5}} = 26\\). Nên đồ thị hàm số f(t) có đường tiệm cận ngang là y = 26."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 4: Một nhà máy sản xuất linh kiện điện tử thống kê được rằng trung bình một tổ sản xuất với x người thì số sản phẩm sản xuất được trong một thời gian cố định được tính bằng công thức \\(P\\left( x \\right) = \\frac{{5000x}}{{4x + 25}}\\). Xem y = P(x) là một hàm số xác định trên [0; +∞), khi đó tiệm cận ngang của đồ thị hàm số là:",
+      "options": [
+        "A. y = 25;",
+        "B. x = 25;",
+        "C. x = 1250;",
+        "D. y = 1250."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Ta có \\(\\mathop {\\lim }\\limits_{x \\to \\infty } P\\left( x \\right) = \\mathop {\\lim }\\limits_{x \\to \\infty } \\frac{{5000x}}{{4x + 25}} = \\mathop {\\lim }\\limits_{x \\to \\infty } \\frac{{5000}}{{4 + \\frac{{25}}{x}}} = 1250\\). Vậy tiệm cận ngang của đồ thị hàm số là y = 1250."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 5: Số lượng sản phẩm của công ty bán được trong x tháng được tính bởi công thức \\(S\\left( x \\right) = 300\\left( {2 + \\frac{4}{{x + 2}}} \\right)\\) với x ≥ 1. Xem y = S(x) là một hàm số xác định trên [1; +∞). Khi đó tiệm cận ngang của đồ thị hàm số là",
+      "options": [
+        "A. y = 600;",
+        "B. x = 600;",
+        "C. x = 300;",
+        "D. y = 2400."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có \\(\\mathop {\\lim }\\limits_{x \\to + \\infty } S\\left( x \\right) = \\mathop {\\lim }\\limits_{x \\to + \\infty } 300\\left( {2 + \\frac{4}{{x + 2}}} \\right) = 600\\). Vậy tiệm cận ngang của đồ thị hàm số là y = 600."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 6: Dân số P (nghìn người) của một khu nghỉ dưỡng được cho bởi hàm số \\(P\\left( t \\right) = \\frac{{400t}}{{2{t^2} + 7}},t \\ge 0\\), với t là thời gian tính theo tháng. Tìm tiệm cận ngang của đồ thị hàm số y = P(t).",
+      "options": [
+        "A. y = 0;",
+        "B. y = 200;",
+        "C. x = 0;",
+        "D. \\(y = \\frac{{400}}{7}\\)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có \\(\\mathop {\\lim }\\limits_{t \\to \\infty } P\\left( t \\right) = \\mathop {\\lim }\\limits_{t \\to \\infty } \\frac{{400t}}{{2{t^2} + 7}} = \\mathop {\\lim }\\limits_{t \\to \\infty } \\frac{{\\frac{{400}}{t}}}{{2 + \\frac{7}{t}}} = 0\\). Do vậy tiệm cận ngang của đồ thị hàm số y = P(t) là đường thẳng y = 0."
+    }
+  ]
+}

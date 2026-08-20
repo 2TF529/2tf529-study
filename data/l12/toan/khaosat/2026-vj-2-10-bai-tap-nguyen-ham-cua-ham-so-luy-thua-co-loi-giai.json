@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-10-bai-tap-nguyen-ham-cua-ham-so-luy-thua-co-loi-giai",
+  "sourceId": "vietjack:2-10-bai-tap-nguyen-ham-cua-ham-so-luy-t",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.10 bài tập Nguyên hàm của hàm số lũy thừa có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: \\(\\int {{x^2}dx} \\) bằng",
+      "options": [
+        "A. 2x + C;",
+        "B. \\(\\frac{1}{3}{x^3} + C\\);",
+        "C. x 3 + C;",
+        "D. 3x 3 + C."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B \\(\\int {{x^2}dx} = \\frac{{{x^3}}}{3} + C\\)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Họ nguyên hàm của hàm số f(x) = 3x 2 + 1 là",
+      "options": [
+        "A. 6x + C;",
+        "B. \\(\\frac{1}{3}{x^3} + x + C\\);",
+        "C. x 3 + C;",
+        "D. x 3 + x + C."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D \\(\\int {\\left( {3{x^2} + 1} \\right)dx} = {x^3} + x + C\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Nguyên hàm của hàm số f(x) = x 3 + x là",
+      "options": [
+        "A. 3x 2 + 1 + C;",
+        "B. \\(\\frac{1}{4}{x^4} + \\frac{1}{2}{x^2} + C\\);",
+        "C. x 3 + x + C;",
+        "D. x 4 + x 2 + C."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B \\(\\int {\\left( {{x^3} + {x^2}} \\right)dx} = \\frac{1}{4}{x^4} + \\frac{1}{2}{x^2} + C\\)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Họ tất cả các nguyên hàm của hàm số f(x) = 5x 4 – 8x 3 – 6x là",
+      "options": [
+        "A. F(x) = x 5 – 2x 4 – 3x 2 + C;",
+        "B. F(x) = x 5 – x 4 – x 2 + C;",
+        "C. F(x) = x 5 – 4x 4 – 2x 2 + C;",
+        "D. F(x) = x 5 + 2x 4 – 3x 2 + C."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có \\(F\\left( x \\right) = \\int {\\left( {5{x^4} - 8{x^3} - 6x} \\right)dx} = {x^5} - 2{x^4} - 3{x^2} + C\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Tìm nguyên hàm của hàm số f(x) = (x + 1)(x + 2).",
+      "options": [
+        "A. \\(F\\left( x \\right) = \\frac{1}{3}{x^3} + \\frac{3}{2}{x^2} + 2x + C\\);",
+        "B. \\(F\\left( x \\right) = \\frac{1}{3}{x^3} + \\frac{2}{3}{x^2} + 2x + C\\);",
+        "C. F(x) = 2x + 3 + C;",
+        "D. \\(F\\left( x \\right) = \\frac{1}{3}{x^3} - \\frac{2}{3}{x^2} + 2x + C\\)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A \\(\\int {\\left( {x + 1} \\right)\\left( {x + 2} \\right)dx} = \\int {\\left( {{x^2} + 3x + 2} \\right)dx} = \\frac{1}{3}{x^3} + \\frac{3}{2}{x^2} + 2x + C\\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Hàm số \\(F\\left( x \\right) = \\sqrt[3]{x} + 2\\sqrt x + x\\sqrt x \\) là một nguyên hàm của hàm số nào dưới đây?",
+      "options": [
+        "A. \\({f_1}\\left( x \\right) = \\frac{1}{{3\\sqrt[3]{{{x^2}}}}} + \\frac{1}{{\\sqrt x }} + \\frac{3}{2}\\sqrt x \\);",
+        "B. \\({f_2}\\left( x \\right) = \\frac{1}{{3\\sqrt[3]{{{x^2}}}}} + \\frac{1}{{\\sqrt x }} + \\frac{3}{{2\\sqrt x }}\\);",
+        "C. \\({f_3}\\left( x \\right) = \\frac{{\\sqrt[3]{{{x^2}}}}}{3} + \\frac{1}{{\\sqrt x }} + \\frac{3}{2}\\sqrt x \\);",
+        "D. \\({f_4}\\left( x \\right) = \\frac{1}{{3\\sqrt[3]{{{x^2}}}}} + \\frac{1}{2}\\sqrt x + \\frac{3}{{2\\sqrt x }}\\)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A \\(F'\\left( x \\right) = {\\left( {\\sqrt[3]{x} + 2\\sqrt x + x\\sqrt x } \\right)^\\prime } = \\frac{1}{{3\\sqrt[3]{{{x^2}}}}} + \\frac{1}{{\\sqrt x }} + \\frac{3}{2}\\sqrt x \\)."
+    }
+  ]
+}

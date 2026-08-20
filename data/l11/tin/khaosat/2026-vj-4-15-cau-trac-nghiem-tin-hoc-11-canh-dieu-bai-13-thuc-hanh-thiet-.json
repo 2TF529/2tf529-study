@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-4-15-cau-trac-nghiem-tin-hoc-11-canh-dieu-bai-13-thuc-hanh-thiet-",
+  "sourceId": "vietjack:4-15-cau-trac-nghiem-tin-hoc-11-canh-die",
+  "grade": "l11",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "4.15 câu Trắc nghiệm Tin học 11 Cánh diều Bài 13: Thực hành thiết kế và lập trình theo mô đun ( tiếp theo) có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Hàm ptDiem có nhiệm vụ chính là gì?",
+      "options": [
+        "A. Tính tổng điểm và điểm trung bình của một dãy số",
+        "B. Phân tích và phân loại điểm theo các mức xếp hạng",
+        "C. Sắp xếp dãy số theo thứ tự tăng dần",
+        "D. Tất cả các ý trên đều đúng"
+      ],
+      "answer": "D",
+      "note": "Đáp án: D Giải thích: Hàm ptDiem thực hiện nhiều nhiệm vụ bao gồm tính tổng và điểm trung bình, phân tích điểm theo các mức xếp hạng (Chưa đạt, Đạt, Khá, Tốt), và sắp xếp dãy số để tìm max, min."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Hàm nào được sử dụng trong Python để tính tổng và điểm trung bình trong hàm ptDiem?",
+      "options": [
+        "A. average()",
+        "B. sum()",
+        "C. total()",
+        "D. mean()"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Hàm sum() trong Python được sử dụng để tính tổng của một dãy số, từ đó dễ dàng tính điểm trung bình."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Để tìm vị trí phân chia dãy điểm thành các mức xếp hạng, hàm nào nên được sử dụng trong Python?",
+      "options": [
+        "A. index()",
+        "B. bisect_left()",
+        "C. find()",
+        "D. position()"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Hàm bisect_left() trong mô-đun bisect được sử dụng để tìm vị trí chèn một giá trị vào dãy số đã sắp xếp, giúp phân chia dãy thành các mức xếp hạng"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Khi sắp xếp danh sách các cặp (tên, điểm) theo điểm giảm dần, hàm nào được khuyên dùng trong Python?",
+      "options": [
+        "A. sorted()",
+        "B. sort()",
+        "C. arrange()",
+        "D. order()"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Hàm sorted() là phương thức sắp xếp có sẵn trong Python, cho phép sắp xếp danh sách và có thể sử dụng tham số key để xác định tiêu chí sắp xếp, trong trường hợp này là điểm."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Nguyên tắc nào trong \"Zen of Python\" nhấn mạnh việc viết câu lệnh rõ ràng?",
+      "options": [
+        "A. Tường minh tốt hơn hiểu ngầm.",
+        "B. Đơn giản tốt hơn phức hợp.",
+        "C. Viết câu lệnh rõ ràng tốt hơn viết rút ngắn cô đặc.",
+        "D. Chương trình dễ đọc là quan trọng."
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Nguyên tắc này khuyến khích lập trình viên viết mã dễ đọc và dễ hiểu, thay vì sử dụng cú pháp ngắn gọn nhưng khó hiểu."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Khi nào bạn nên sử dụng hàm sorted() thay vì sort() trong Python?",
+      "options": [
+        "A. Khi bạn muốn thay đổi danh sách gốc.",
+        "B. Khi bạn không muốn thay đổi danh sách gốc.",
+        "C. Khi bạn muốn sắp xếp một danh sách rỗng.",
+        "D. Khi bạn làm việc với dữ liệu không có thứ tự."
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Hàm sorted() tạo ra một bản sao mới của danh sách đã sắp xếp mà không làm thay đổi danh sách ban đầu, trong khi sort() sắp xếp danh sách tại chỗ."
+    }
+  ]
+}

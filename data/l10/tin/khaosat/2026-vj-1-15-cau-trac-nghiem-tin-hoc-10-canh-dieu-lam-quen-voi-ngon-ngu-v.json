@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-10-canh-dieu-lam-quen-voi-ngon-ngu-v",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-10-canh-die",
+  "grade": "l10",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 10 Cánh diều Làm quen với ngôn ngữ và lập trình bậc cao có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Python là:",
+      "options": [
+        "A. Ngôn ngữ lập trình bậc cao.",
+        "B. Ngôn ngữ lập trình bậc thấp.",
+        "C. Chương trình dịch.",
+        "D. Ngôn ngữ máy."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Python là ngôn ngữ lập trình bậc cao phổ biến rộng rãi trên thế giới, được Gui van Rossum đề xuất và công bố năm 1991."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Trong ngôn ngữ lập trình Python, để in ra màn hình ta sử dụng lệnh:",
+      "options": [
+        "A. write()",
+        "B. Print()",
+        "C. cout<<",
+        "D. read()"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Để in ra màn hình trong Python sử dụng lệnh print()"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trong ngôn ngữ lập trình Python, để in ra màn hình câu lệnh ‘xin chao’ ta viết:",
+      "options": [
+        "A. print()",
+        "B. print(xin chao)",
+        "C. print(‘xin chao’)",
+        "D. print xin chao"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Để in ra màn hình câu lệnh ‘xin chao’ ta viết: print(‘xin chao’) Dãy kí tự muốn in phải để trong cặp dấu nháy đơn hoặc nháy kép."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Khẳng định nào sau đây là sai khi nói về ngôn ngữ Python ?",
+      "options": [
+        "A. Python phân biệt chữ hoa và chữ thường.",
+        "B. Python là ngôn ngữ lập trình bậc cao.",
+        "C. Python được dùng để phát triển các ứng dụng web, phần mềm ứng dụng, điều khiển robot…",
+        "D. Python là ngôn ngữ máy tính có thể trực tiếp hiểu và thực hiện được."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Pytthon là ngôn ngữ lập trình bậc cao vì vậy muốn máy tính có thể hiểu và thực hiện được thì phải có chương trình dịch để dịch sang ngôn ngữ máy."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Một ô tô đi từ A đến B với vận tốc v(km/h). Câu lệnh để tính ‘Thời gian ô tô đó đi hết quãng đường k(km)’ là:",
+      "options": [
+        "A. print(k/v)",
+        "B. print(‘k/v’)",
+        "C. print(“k/v”)",
+        "D. print k/v"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Để đưa ra màn hình giá trị của k/v ta viết print(k/v)"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong cửa sổ Shell của Python:",
+      "options": [
+        "A. Thực hiện ngay từng câu lệnh và thấy được kết quả.",
+        "B. Không thực hiện ngay từng câu lệnh và không thấy được kết quả.",
+        "C. Không thể thực hiện bất kì câu lệnh nào.",
+        "D. Không thể thực hiện từng câu lệnh mà thực hiện toàn bộ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Trong cửa sổ Shell của Python có thể: Thực hiện ngay từng câu lệnh và thấy được kết quả."
+    }
+  ]
+}

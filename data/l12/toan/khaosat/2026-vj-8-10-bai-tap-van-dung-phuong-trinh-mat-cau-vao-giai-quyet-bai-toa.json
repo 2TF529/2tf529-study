@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-8-10-bai-tap-van-dung-phuong-trinh-mat-cau-vao-giai-quyet-bai-toa",
+  "sourceId": "vietjack:8-10-bai-tap-van-dung-phuong-trinh-mat-c",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "8.10 bài tập Vận dụng phương trình mặt cầu vào giải quyết bài toán liên quan đến thực tiễn có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Trong không gian Oxyz (đơn vị đo là cm), mặt sàn nhà đa năng thuộc mặt phẳng Oxy. Một quả cầu bằng nhựa nằm trên mặt sàn nhà đa năng và có tâm I(12; 20; 50). Khi đó, mặt ngoài của quả cầu nhựa (S) có phương trình là:",
+      "options": [
+        "A. (x – 12) 2 + (y − 20) 2 + (z – 50) 2 = 12 2 ;",
+        "B. (x + 12) 2 + (y + 20) 2 + (z + 50) 2 = 12 2 ;",
+        "C. (x − 12) 2 + (y − 20) 2 + (z − 50) 2 = 20 2 ;",
+        "D. (x − 12) 2 + (y − 20) 2 + (z − 50) 2 = 50 2 ."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Do quả cầu nằm trên mặt sàn nha đa năng nên mặt ngoài của quả cầu tiếp xúc với mặt phẳng Oxy. Ta có d(I, (Oxy)) = R = 50. Vậy mặt ngoài của quả cầu (S) có phương trình là (x – 12) 2 + (y – 20) 2 + (z – 50) 2 = 50 2 ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Trong không gian với hệ tọa độ Oxyz (đơn vị trên mỗi trục là km), một ngọn hải đăng được đặt ở vị trí I(1; 5; 5) như hình vẽ. Ngọn hải đăng được thiết kế với bán kính phủ sáng là 5 km. Một người đi biển di chuyển theo đường thẳng từ vị trí I(1; 5; 5) đến vị trí A(7; 14; 11). Điểm nào sau đây mà người đi biển đi qua và vẫn thuộc vùng phủ sáng của ngọn hải đăng.",
+      "options": [
+        "A. M(3; 8; 7);",
+        "B. N(0; 4; 8);",
+        "C. P(7; 3; 0);",
+        "D. (7; 11; 3)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Phương trình mặt cầu để mô tả ranh giới bên ngoài của vùng phủ sáng trong không gian là: (x – 1) 2 + (y – 5) 2 + (z – 5) 2 = 25. Ta có \\(\\overrightarrow {IM} = \\left( {2;3;2} \\right),\\overrightarrow {IA} = \\left( {6;9;6} \\right) = 3\\overrightarrow {IM} \\) Và \\(IM = \\sqrt {{{\\left( {3 - 1} \\right)}^2} + {{\\left( {8 - 5} \\right)}^2} + {{\\left( {7 - 5} \\right)}^2}} = \\sqrt {17} < 5\\) nên điểm M nằm trong mặt cầu. Vậy người đi biển đi qua điểm M mà vẫn thuộc vùng phủ sáng."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Một máy Rađa có tầm hoạt động với bán kính tối đa là 20 km. Ta xét trong không gian Oxyz với tâm O là vị trí máy Rađa, 1 đơn vị dài trong không gian tương ứng với 10 km trên thực tế. Hỏi trong không gian Oxyz trên, vật thể có tọa độ tương ứng với đáp án nào dưới đây sẽ bị Rađa phát hiện?",
+      "options": [
+        "A. M(1; 0; 2);",
+        "B. N(2; −1; 1);",
+        "C. P(1; 1; \\(\\sqrt 2 \\));",
+        "D. (3; 0; 0)."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta thấy quỹ đạo của Rađa là một khối cầu giới hạn bởi mặt cầu (S) có tâm là vị trí Rađa có tọa độ là O(0; 0; 0) và bán kính R = 2. Do đó ta có phương trình mặt cầu (S): x 2 + y 2 + z 2 = 4. Vật thể bắt đầu bị phát hiện khi nó nằm trong hoặc trên mặt cầu (S). Trong các đáp án trên thì ta thấy đáp án C thỏa mãn phương trình mặt cầu (S) các đáp án còn lại đều nằm ngoài (S)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Trong không gian Oxyz (đơn vị trên các trục tọa độ là km), một trạm thu phát sóng điện thoại di động có đầu thu phát được đặt tại điểm I(−6; −1; 4). Cho biết bán kính phủ sóng của trạm là 2 km. Người sử dụng điện thoại đứng ở điểm nào sau đây thì sử dụng được dịch vụ của trạm nói trên?",
+      "options": [
+        "A. A(−4; 0; 2);",
+        "B. B(−5; −2; 5);",
+        "C. C(−6; 2; 2);",
+        "D. D(0; −1; 4)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có IA = 3 > 2, \\(IB = \\sqrt 3 < 2,IC = \\sqrt {13} > 2,ID = 6 > 2\\). Vậy người đứng tại điểm B nằm trong mặt cầu sẽ sử dụng được dịch vụ của trạm thu phát sóng điện thoại di động."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Trong không gian hệ trục tọa độ Oxyz, bề mặt của một quả bóng thám không dạng hình cầu có phương trình x 2 + y 2 + z 2 – 200x – 600y – 4000z + 4099900 = 0. Tìm tâm và bán kính mặt cầu.",
+      "options": [
+        "A. Tâm I(100; 300; 2000), R = 100;",
+        "B. Tâm I(−100; −300; −2000), R = 10;",
+        "C. Tâm I(100; 300; 2000), R = 10;",
+        "D. Tâm I(−100; −300; −2000), R = 100."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Tâm của mặt cầu là I(100; 300; 2000), Bán kính \\(R = \\sqrt {{{100}^2} + {{300}^2} + {{2000}^2} - 4099900} = 10\\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong không gian hệ trục tọa độ Oxyz (đơn vị trên mỗi trục là km) một trạm phát sóng điện thoại của nhà mạng Viettel được đặt ở vị trí I(−1; 2; 3) và được thiết kế bán kính phủ sóng là 5000 m. Phương trình mặt cầu biểu diễn ranh giới cùng phủ sóng là:",
+      "options": [
+        "A. (x + 1) 2 + (y − 2) 2 + (z – 3) 2 = 25;",
+        "B. (x − 1) 2 + (y − 2) 2 + (z − 3) 2 = 25;",
+        "C. (x + 1) 2 + (y − 2) 2 + (z − 3) 2 = 25000000;",
+        "D. (x − 1) 2 + (y − 2) 2 + (z − 3) 2 = 25000000."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Tâm mặt cầu có tọa độ I(−1; 2; 3). Bán kính mặt cầu R = 5000 m = 5 km. Vậy phương trình mặt cầu mô tả vùng phủ sóng của trạm phát sóng là (x + 1) 2 + (y – 2) 2 + (z – 3) 2 = 25."
+    }
+  ]
+}

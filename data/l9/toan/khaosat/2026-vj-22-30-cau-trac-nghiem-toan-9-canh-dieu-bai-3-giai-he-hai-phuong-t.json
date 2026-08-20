@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-22-30-cau-trac-nghiem-toan-9-canh-dieu-bai-3-giai-he-hai-phuong-t",
+  "sourceId": "vietjack:22-30-cau-trac-nghiem-toan-9-canh-dieu-b",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "22.30 câu Trắc nghiệm Toán 9 Cánh diều Bài 3. Giải hệ hai phương trình bậc nhất hai ẩn có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Hệ phương trình \\[\\left\\{ \\begin{array}{l}x + y = 3\\\\x + 2y = - 5\\end{array} \\right.\\] nhận cặp số nào sau đây là nghiệm?",
+      "options": [
+        "A. \\(\\left( { - 11;\\,\\,8} \\right)\\) .",
+        "B. \\(\\left( {11;\\,\\, - 8} \\right)\\) .",
+        "C. \\(\\left( { - 11;\\,\\, - 8} \\right)\\) .",
+        "D. \\(\\left( {11;\\,\\,8} \\right)\\) ."
+      ],
+      "answer": "B",
+      "note": "Chọn B Cách 1. ⦁ Thay \\(x = - 11\\) và \\(y = 8\\) vào hệ phương trình đã cho, ta được: \\[\\left\\{ \\begin{array}{l} - 11 + 8 = - 3 \\ne 3\\\\ - 11 + 2 \\cdot 8 = 5 \\ne - 5\\end{array} \\right.\\]. Do đó cặp số \\(\\left( { - 11;\\,\\,8} \\right)\\) không là nghiệm của hệ phương trình \\[\\left\\{ \\begin{array}{l}x + y = 3\\\\x + 2y = - 5\\end{array} \\right.\\]. ⦁ Tương tự, ta thay lần lượt các cặp số ở phương án B, C, D vào hệ phương trình đã cho thì thấy rằng chỉ có cặp số \\(\\left( {11;\\,\\, - 8} \\right)\\) là nghiệm của hệ phương trình đó. Cách 2. Bấm máy tính. Hệ phương trình \\[\\left\\{ \\begin{array}{l}x + y = 3\\\\x + 2y = - 5\\end{array} \\right.\\] Sử dụng máy tính cầm tay, ta lần lượt bấm các phím theo thứ tự: MODE 5 1 1 = 1 = 3 = 1 = 2 = − 5 = = Trên màn hình hiện ra kết quả \\[x = 11\\] ấn thêm phím ta thấy màn hình hiện kết quả \\[y = - 8\\]. Vậy hệ phương trình đã cho có nghiệm là \\(\\left( {11; - 8} \\right).\\) Cách 3. Giải hệ phương trình \\[\\left\\{ \\begin{array}{l}x + y = 3\\,\\,\\,\\,\\,\\,\\,\\,\\,\\left( 1 \\right)\\\\x + 2y = - 5\\,\\,\\,\\left( 2 \\right)\\end{array} \\right.\\] Từ phương trình (1) ta có \\(x = 3 - y\\). Thế \\(x = 3 - y\\) vào phương trình (2) ta được phương trình \\(3 - y + 2y = - 5\\) hay \\(y = - 8\\) Thay \\(y = - 8\\) vào phương trình \\(x = 3 - y\\), ta được \\(x = 3 - \\left( { - 8} \\right) = 3 + 8 = 11\\). Như vậy, hệ phương trình đã cho có nghiệm là \\(\\left( {11; - 8} \\right).\\)"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hệ phương trình \\[\\left\\{ \\begin{array}{l}x + y = 5\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\left( 1 \\right)\\\\2x + y = - 3\\,\\,\\,\\,\\,\\,\\,\\,\\,\\left( 2 \\right)\\end{array} \\right..\\] Khi giải hệ phương trình bằng phương pháp cộng đại số, để được phương trình bậc nhất một ẩn, cách đơn giản nhất là",
+      "options": [
+        "A. Cộng từng vế của phương trình (1) với phương trình (2).",
+        "B. Trừ từng vế của phương trình (1) cho phương trình (2).",
+        "C. Nhân hai vế phương trình (1) với 2 rồi trừ từng vế của phương trình mới cho phương trình (2 ).",
+        "D. Nhân hai vế phương trình (1) với 2 rồi cộng từng vế của phương trình mới với phương trình (2) ."
+      ],
+      "answer": "B",
+      "note": "Chọn B Từ hệ phương trình đã cho, cách đơn giản nhất để thu được phương trình bậc nhất một ẩn bằng phương pháp cộng đại số là trừ từng vế của phương trình (1) cho phương trình (2). Khi đó ta thu được \\[x + y - 2x - y = 5 - \\left( { - 3} \\right)\\] Tức là \\[ - x = 8\\], đây là phương trình bậc nhất một ẩn. Vậy ta chọn phương án B."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho hệ phương trình \\[\\left\\{ \\begin{array}{l} - 2x + 2y = - 1\\\\3x + y = 7\\end{array} \\right..\\] Khi giải hệ phương trình bằng phương pháp thế (biểu diễn \\(y\\) theo \\(x)\\) , ta được hệ thức biểu diễn \\(y\\) theo \\(x\\) là",
+      "options": [
+        "A. \\[y = 7 + 3x.\\]",
+        "B. \\[y = 7 - 3x.\\]",
+        "C. \\[y = 3x - 7.\\]",
+        "D. \\[y = - 1 + 2x.\\]"
+      ],
+      "answer": "B",
+      "note": "Chọn B Xét phương trình \\[\\left\\{ \\begin{array}{l} - 2x + 2y = - 1\\,\\,\\,\\,\\,\\,\\,\\,\\,\\left( 1 \\right)\\\\3x + y = 7\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\left( 2 \\right)\\end{array} \\right.\\] Từ phương trình (2), ta có: \\[y = 7 - 3x.\\]"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hệ phương trình \\[\\left\\{ \\begin{array}{l}4x + 7y = 1\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\left( 1 \\right)\\\\ - x - 5y = 0\\,\\,\\,\\,\\,\\,\\,\\,\\,\\left( 2 \\right)\\end{array} \\right..\\] Khi giải hệ phương trình bằng phương pháp cộng đại số, để được phương trình bậc nhất một ẩn, một trong những cách đơn giản nhất là",
+      "options": [
+        "A. Cộng từng vế của phương trình (1) với phương trình (2).",
+        "B. Trừ từng vế của phương trình (1) cho phương trình (2).",
+        "C. Nhân hai vế phương trình (1) với 5 và nhân hai vế phương trình (2) với 7, rồi cộng từng vế của hai phương trình mới với nhau.",
+        "D. Nhân phương trình ( 2 ) với 4 rồi cộng từng vế của phương trình mới với phương trình ( 1 )."
+      ],
+      "answer": "D",
+      "note": "Chọn D Từ hệ phương trình đã cho, cách đơn giản nhất để thu được phương trình bậc nhất một ẩn bằng phương pháp cộng đại số là nhân phương trình (2) với 4, ta được phương trình mới là \\( - 4x - 20y = 0,\\) rồi cộng từng vế của phương trình này với phương trình (1). Khi đó ta thu được \\[4x + \\left( { - 4x} \\right) + 7y + \\left( { - 20y} \\right) = 1 + 0\\], tức là \\[ - 13y = 1.\\] Vậy ta chọn phương án D."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Để mở chương trình giải hệ phương trình bậc nhất hai ẩn bằng máy tính cầm tay, ta ấn liên tiếp các phím:",
+      "options": [
+        "A. MODE 5 2 .",
+        "B. MODE 5 1 .",
+        "C. MODE 5 3 .",
+        "D. MODE 1 ."
+      ],
+      "answer": "B",
+      "note": "Chọn B Khi tìm nghiệm (đúng hoặc gần đúng) của hệ hai phương trình bậc nhất hai ẩn bằng cách sử dụng máy tính cầm tay, trước tiên, ta cần mở chương trình giải hệ phương trình bậc nhất hai ẩn. Khi đó ta ấn liên tiếp các phím: MODE 5 1 . Vậy ta chọn phương án B."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Biết hệ phương trình \\[\\left\\{ \\begin{array}{l}ax - 3y = 1\\\\x + by = - 5\\end{array} \\right.\\] nhận cặp số \\(\\left( {2;\\,\\, - 3} \\right)\\) là một nghiệm. Khi đó, giá trị của \\(a,\\,\\,b\\) là",
+      "options": [
+        "A. \\[a = 4;\\] \\[b = \\frac{7}{3}\\] .",
+        "B. \\[a = - 4;\\] \\[b = \\frac{7}{3}\\] .",
+        "C. \\[a = 4;\\] \\[b = - \\frac{7}{3}\\] .",
+        "D. \\[a = - 4;\\] \\[b = - \\frac{7}{3}\\] ."
+      ],
+      "answer": "B",
+      "note": "Chọn B Vì hệ phương trình \\[\\left\\{ \\begin{array}{l}ax - 3y = 1\\\\x + by = - 5\\end{array} \\right.\\] nhận cặp số \\(\\left( {2;\\,\\, - 3} \\right)\\) là nghiệm nên ta thay \\(x = 2\\) và \\(y = - 3\\) vào hai phương trình của hệ đã cho, ta được: \\[\\left\\{ \\begin{array}{l}a \\cdot 2 - 3 \\cdot \\left( { - 3} \\right) = 1\\\\2 + b \\cdot \\left( { - 3} \\right) = - 5\\end{array} \\right.\\] hay \\[\\left\\{ \\begin{array}{l}2a = - 8\\\\ - 3b = - 7\\end{array} \\right.\\] nên \\[\\left\\{ \\begin{array}{l}a = - 4\\\\b = \\frac{7}{3}\\end{array} \\right.\\]. Vậy \\[a = - 4;\\] \\[b = \\frac{7}{3}\\]."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Hệ phương trình \\[\\left\\{ \\begin{array}{l}3\\left( {x + y} \\right) + 2\\left( {x - y} \\right) = 6\\\\\\left( {x + y} \\right) + 3\\left( {x - y} \\right) = 4\\end{array} \\right.\\] nhận cặp số nào sau đây là nghiệm?",
+      "options": [
+        "A. \\(\\left( {\\frac{8}{7};\\,\\,\\frac{2}{7}} \\right)\\) .",
+        "B. \\(\\left( { - \\frac{8}{7};\\,\\,\\frac{2}{7}} \\right)\\) .",
+        "C. \\(\\left( {\\frac{8}{7};\\,\\, - \\frac{2}{7}} \\right)\\) .",
+        "D. \\(\\left( { - \\frac{8}{7};\\,\\, - \\frac{2}{7}} \\right)\\) ."
+      ],
+      "answer": "A",
+      "note": "Chọn A Từ phương trình thứ nhất của hệ ta có: \\(3x + 3y + 2x - 2y = 6\\) hay \\(5x + y = 6.\\) Từ phương trình thứ hai của hệ ta có: \\(x + y + 3x - 3y = 4\\) hay \\(4x - 2y = 4\\) suy ra \\(2x - y = 2\\). Từ đó, ta có hệ phương trình \\(\\left\\{ \\begin{array}{l}5x + y = 6\\\\2x - y = 2\\end{array} \\right..\\) Sử dụng máy tính cầm tay, ta lần lượt bấm các phím theo thứ tự: MODE 5 1 5 = 1 = 6 = 2 = − 1 = 2 = = Trên màn hình hiện ra kết quả \\(x = \\frac{8}{7},\\) ấn thêm phím ta thấy màn hình hiện kết quả \\(y = \\frac{2}{7}.\\) Vậy hệ phương trình đã cho có nghiệm là \\(\\left( {\\frac{8}{7};\\,\\,\\frac{2}{7}} \\right)\\)."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho hệ phương trình \\[\\left\\{ \\begin{array}{l}x + y = 2\\\\2x - 5y = 11\\end{array} \\right.\\] có nghiệm là \\(\\left( {x;\\,\\,y} \\right)\\) . Khi đó tổng của \\(x\\) và \\(y\\) bằng",
+      "options": [
+        "A. \\[ - 1\\] .",
+        "B. 3.",
+        "C. \\[ - 2.\\]",
+        "D. 2."
+      ],
+      "answer": "D",
+      "note": "Chọn D Cách 1. Sử dụng máy tính cầm tay, ta lần lượt bấm các phím theo thứ tự: MODE 5 1 1 = 1 = 2 = 2 = − 5 = 1 1 = = Trên màn hình hiện ra kết quả \\(x = 3,\\) ấn thêm phím = ta thấy màn hình hiện kết quả \\(y = - 1.\\) Như vậy, hệ phương trình đã cho có nghiệm là \\(\\left( {3;\\,\\, - 1} \\right)\\). Khi đó, \\(x + y = 3 + \\left( { - 1} \\right) = 2\\). Cách 2. Xét hệ phương trình \\[\\left\\{ \\begin{array}{l}x + y = 2\\,\\,\\,\\,\\,\\,\\,\\,\\,\\left( 1 \\right)\\\\2x - 5y = 11\\,\\,\\left( 2 \\right)\\end{array} \\right.\\] Từ phương trình (1) ta có \\(x = 2 - y\\). Thế \\(x = 2 - y\\) vào phương trình (2) ta được phương trình \\(2\\left( {2 - y} \\right) - 5y = 11\\). Giải phương trình: \\(2\\left( {2 - y} \\right) - 5y = 11\\) \\(4 - 2y - 5y = 11\\) \\( - 7y = 7\\) \\(y = - 1\\) Thay \\(y = - 1\\) vào phương trình \\(x = 2 - y\\), ta được \\(x = 2 - \\left( { - 1} \\right) = 3\\). Như vậy, hệ phương trình đã cho có nghiệm là \\(\\left( {3;\\,\\, - 1} \\right).\\) Khi đó, \\(x + y = 3 + \\left( { - 1} \\right) = 2\\)."
+    }
+  ]
+}

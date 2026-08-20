@@ -1,0 +1,196 @@
+{
+  "id": "l12-toan-totnghiep-2026-de-kscl-thpt-toan-truong-thpt-nguyen-quan-nho-tinh-thanh-hoa-2026-lan-1",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "code": "THPT_TTT_2026_TH_02",
+  "title": "Đề khảo sát chất lượng THPT môn Toán trường THPT Nguyễn Quán Nho Sở GD&ĐT Thanh Hóa năm 2026 - Lần 1",
+  "duration": 90,
+  "answerSource": "official",
+  "source": "https://dolthpt.vn/tot-nghiep-thpt/pdf-de-kscl-thpt-toan-truong-thpt-nguyen-quan-nho-tinh-thanh-hoa-2026-lan-1-co-dap-an",
+  "notes": "Nội dung, đáp án và lời giải được nhập từ bản công khai của DOL THPT.",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "content": "Cho hình lăng trụ $ABC.A'B'C'$ (xem hình dưới). Đường thẳng $B'C'$ song song với mặt phẳng nào sau đây?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-kscl-thpt-toan-truong-thpt-nguyen-quan-nho-tinh-thanh-hoa-2026-lan-1/cau-01.webp\" alt=\"Hình minh họa câu 1\" loading=\"lazy\"></figure>",
+      "chuong": "quan hệ song song trong không gian",
+      "dang": "vị trí tương đối của hai đường thẳng",
+      "type": "single",
+      "options": [
+        "A. $(ABC)$",
+        "B. $(AB'C')$",
+        "C. $(B'BC)$",
+        "D. $(A'B'C)'$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hình lăng trụ tam giác $ABC.A'B'C'$ .\n- Đỉnh tương ứng: $A \\leftrightarrow A',\\; B \\leftrightarrow B',\\; C \\leftrightarrow C'$; các cạnh bên $AA',\\; BB',\\; CC'$ song song với nhau.\n- Cạnh trên $B'C'$ là cạnh của mặt đáy trên $A'B'C'$; cạnh tương ứng ở mặt đáy dưới là $BC$ (thuộc mặt phẳng $(ABC)$).\n❓ **Hiểu câu hỏi:**\n- Câu hỏi: Đường thẳng $B'C'$ song song với mặt phẳng nào trong các phương án đã cho?\n- Cần áp dụng khái niệm: khi nào một đường thẳng song song với một mặt phẳng; tính chất lăng trụ (các cạnh tương ứng của hai đáy song song).\n🔎 **Hướng dẫn cách làm:**\n- Trong lăng trụ, hai đáy $A'B'C'$ và $ABC$ là hai mặt phẳng song song; từng cạnh tương ứng của hai đáy song song với nhau. Do đó\n$B'C' \\parallel BC.$\n- Cạnh $BC$ nằm trong mặt phẳng $(ABC)$, tức là   $BC \\subset (ABC).$\n- Nếu một đường thẳng song song với một đường thẳng nằm trong một mặt phẳng thì đường thẳng đó song song với mặt phẳng đó (vì không giao với mặt phẳng và song song với một đường trong mặt phẳng). Tóm lại:\n$B'C' \\parallel BC \\quad\\text{và}\\quad BC\\subset(ABC)\\;\\Longrightarrow\\; B'C' \\parallel (ABC).$\n✅ **Đáp án: A. ** $(ABC)$"
+    },
+    {
+      "id": 2,
+      "content": "Cho hàm số $y=\\dfrac{ax+b}{cx+d}\\ (c\\ne 0,\\ ad-bc\\ne 0)$ có đồ thị như hình vẽ. Tiệm cận ngang của đồ thị hàm số đã cho có phương trình là\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-kscl-thpt-toan-truong-thpt-nguyen-quan-nho-tinh-thanh-hoa-2026-lan-1/cau-02.webp\" alt=\"Hình minh họa câu 2\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "đường tiệm cận ngang",
+      "type": "single",
+      "options": [
+        "A. $y=1$",
+        "B. $y=-1$",
+        "C. $x=-1$",
+        "D. $x=1$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số $y=\\dfrac{ax+b}{cx+d}\\quad(c\\ne 0,\\ ad-bc\\ne 0)$.\n- Hình vẽ cho thấy hai tiệm cận: một tiệm cận ngang tại $y=1$ và một tiệm cận đứng tại $x=1$.\n- Đồ thị có hai nhánh giống hyperbol, một nhánh đi qua gốc tọa độ $O(0,0)$ .\n❓ **Hiểu câu hỏi:**\n- Câu hỏi: Tiệm cận ngang của đồ thị hàm số đã cho có phương trình là gì?\n- Kiến thức cần dùng: với hàm hữu tỉ bậc nhất trên bậc nhất $y=\\dfrac{ax+b}{cx+d}$ (với $c\\ne0$), khi $|x|\\to\\infty$ giá trị của hàm tiến đến tỉ số hệ số của $x$ ở tử và mẫu, tức là tiệm cận ngang là $y=\\dfrac{a}{c}$.\n- Ngoài ra, ảnh kèm bài cho biết trực tiếp tiệm cận ngang là $y=1$.\n🔎 **Hướng dẫn cách làm:**\n- Đầu tiên, xét hành vi khi $x\\to\\pm\\infty$: chia cả tử và mẫu cho $x$, ta được\n$y=\\dfrac{a+\\dfrac{b}{x}}{c+\\dfrac{d}{x}}\\longrightarrow \\dfrac{a}{c}.$\nVậy tiệm cận ngang tổng quát là $y=\\dfrac{a}{c}.$\n- Từ hình vẽ (mô tả ảnh): trên đồ thị có vẽ một đường ngang ghi “$y=1$”, đó chính là tiệm cận ngang của đồ thị. Vậy phải có $\\dfrac{a}{c}=1$.\n- Kiểm tra bằng ví dụ cụ thể khớp với hình: chọn $a=1,\\ c=1,\\ d=-1,\\ b=0$ thì hàm\n$y=\\dfrac{x}{x-1}$\ncó tiệm cận ngang $y=1$ và tiệm cận đứng $x=1$, đồng thời $y(0)=0$ (đồ thị đi qua gốc). Điều này xác nhận rằng tiệm cận ngang là $y=1$.\n✅ **Đáp án:** A. $y=1$"
+    },
+    {
+      "id": 3,
+      "content": "Nguyên hàm $F(x)$ của hàm số $f(x)=e^x+2\\sin x$ thỏa mãn $F(0)=20$ là",
+      "chuong": "nguyên hàm và tích phân",
+      "dang": "nguyên hàm của một số hàm số thường gặp",
+      "type": "single",
+      "options": [
+        "A. $F(x)=-e^x-2\\cos x+23$",
+        "B. $F(x)=e^x+2\\sin x+19$",
+        "C. $F(x)=e^x-2\\cos x+21$",
+        "D. $F(x)=e^x+2\\cos x+17$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số cần tìm nguyên hàm: $f(x)=e^x+2\\sin x$.\n- Điều kiện: $F(0)=20$.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu tìm một nguyên hàm $F(x)$ của $f(x)$ thỏa mãn điều kiện giá trị tại $x=0$.\n- Cần áp dụng kiến thức về tích phân nguyên hàm cơ bản: tích phân của $e^x$ và của $\\sin x$, và sử dụng hằng số tích phân để thỏa điều kiện ban đầu.\n🔎 **Hướng dẫn cách làm:**\n- Tích phân từng phần của $f(x)$: - $\\int e^x\\,dx = e^x + C_1$.\n  - $\\int 2\\sin x\\,dx = -2\\cos x + C_2$.\n- Do đó nguyên hàm tổng quát của $f(x)$ là   $F(x)=e^x-2\\cos x + C,$   với $C$ là hằng số thực.\n- Áp dụng điều kiện $F(0)=20$:\n$F(0)=e^0-2\\cos 0 + C = 1 - 2\\cdot 1 + C = -1 + C.$\nĐặt bằng 20 ta có $-1 + C = 20 \\Rightarrow C = 21.$\n- Vậy nguyên hàm thỏa mãn là   $F(x)=e^x-2\\cos x+21.$\n✅ **Đáp án:** C. $F(x)=e^x-2\\cos x+21$"
+    },
+    {
+      "id": 4,
+      "content": "Thống kê điểm thi đánh giá năng lực của 120 học sinh ở một trường THPT ở địa bàn thành phố Huế với thang điểm 100. Chọn ngẫu nhiên một học sinh từ 120 học sinh trên, xác suất chọn được học sinh có điểm thuộc nhóm chứa trung vị là\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-kscl-thpt-toan-truong-thpt-nguyen-quan-nho-tinh-thanh-hoa-2026-lan-1/cau-04.webp\" alt=\"Hình minh họa câu 4\" loading=\"lazy\"></figure>",
+      "chuong": "các số đặc trưng đo xu thế trung tâm của mẫu số liệu ghép nhóm",
+      "dang": "trung vị của mẫu số liệu ghép nhóm",
+      "type": "single",
+      "options": [
+        "A. $\\frac{1}{8}$",
+        "B. $\\frac{19}{60}$",
+        "C. $\\frac{5}{12}$",
+        "D. $\\frac{17}{60}$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Tổng số học sinh: 120.\n- Bảng tần số (nhóm điểm và số học sinh) từ ảnh: - [0;20): 25 học sinh\n  - [20;40): 34 học sinh\n  - [40;60): 15 học sinh\n  - [60;80): 38 học sinh\n  - [80;100]: 8 học sinh\n- Chọn ngẫu nhiên 1 học sinh, hỏi xác suất chọn được học sinh có điểm thuộc \"nhóm chứa trung vị\".\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu tìm xác suất để học sinh được chọn có điểm nằm trong **nhóm chứa trung vị**.\n- Cần vận dụng kiến thức về **vị trí phần tử trung vị** trong dãy số thứ tự theo thứ tự tăng dần và cách xác định nhóm chứa trung vị bằng tần số tích lũy (cộng dồn).\n🔎 **Hướng dẫn cách làm:**\n- Tổng số quan sát: $n=120$ (số chẵn). - Với $n$ chẵn, trung vị nằm giữa hai giá trị thứ $\\frac{n}{2}$ và $\\frac{n}{2}+1$, tức là giữa vị trí thứ $\\frac{120}{2}=60$ và \\$61$.\n- Tính tần số tích lũy theo thứ tự các nhóm: - Sau nhóm [0;20): tích lũy = \\$25$ (vị trí 1 đến 25).\n  - Sau nhóm [20;40): tích lũy = \\$25+34=59$ (vị trí 26 đến 59).\n  - Sau nhóm [40;60): tích lũy = \\$59+15=74$ (vị trí 60 đến 74).\n  - (Các nhóm tiếp theo không cần thiết vì 60 và 61 đã nằm trong nhóm thứ ba.)\n- Vì cả vị trí thứ 60 và 61 đều thuộc nhóm [40;60) (vì nhóm này bao gồm vị trí 60 đến 74), nên **nhóm chứa trung vị** là [40;60) với số học sinh là 15.\n- Xác suất chọn ngẫu nhiên 1 học sinh thuộc nhóm đó là:\n$\\frac{\\text{số học sinh trong nhóm chứa trung vị}}{\\text{tổng số học sinh}}=\\frac{15}{12}0}=\\frac{1}{8}.$\n✅ **Đáp án:** A. $\\frac{1}{8}$"
+    },
+    {
+      "id": 5,
+      "content": "Nghiệm của phương trình $\\cos x=\\tfrac12$ là",
+      "chuong": "hàm số lượng giác và phương trình lượng giác",
+      "dang": "phương trình cosx=m",
+      "type": "single",
+      "options": [
+        "A. $x=\\tfrac{\\pi}{3}+k2\\pi,\\ x=-\\tfrac{\\pi}{3}+k2\\pi$",
+        "B. $x=-\\tfrac{2\\pi}{3}+k2\\pi,\\ x=\\tfrac{2\\pi}{3}+k2\\pi$",
+        "C. $x=\\tfrac{2\\pi}{3}+k2\\pi,\\ x=-\\tfrac{2\\pi}{3}+k2\\pi$",
+        "D. $x=\\tfrac{\\pi}{3}+k\\pi,\\ x=-\\tfrac{\\pi}{3}+k\\pi$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Phương trình: $\\cos x=\\tfrac{1}{2}$.\n- Chu kỳ của hàm cosine: \\$2\\pi$.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu tìm tất cả các nghiệm của phương trình $\\cos x=\\tfrac{1}{2}$.\n- Cần vận dụng kiến thức: giá trị lượng giác đặc biệt trên đường tròn đơn vị, và công thức nghiệm tổng quát cho phương trình $\\cos x=a$ (với $a$ trong khoảng $[-1,1]$).\n🔎 **Hướng dẫn cách làm:**\n- Tìm góc chính (nghiệm cơ bản): $\\arccos\\!\\big(\\tfrac{1}{2}\\big)=\\tfrac{\\pi}{3}$ vì $\\cos\\!\\big(\\tfrac{\\pi}{3}\\big)=\\tfrac{1}{2}$.\n- Công thức nghiệm tổng quát cho $\\cos x=a$ là: $x=\\pm \\arccos(a)+2k\\pi,\\quad k\\in\\mathbb{Z}$.\n- Áp dụng vào trường hợp này:\n$x=\\pm \\tfrac{\\pi}{3}+2k\\pi,\\quad k\\in\\mathbb{Z}.$\nNghĩa là hai họ nghiệm có thể viết tách ra:\n$x=\\tfrac{\\pi}{3}+2k\\pi\\quad\\text{và}\\quad x=-\\tfrac{\\pi}{3}+2k\\pi,\\quad k\\in\\mathbb{Z}.$\n- Kiểm tra nhanh các phương án sai: - Góc $\\tfrac{2\\pi}{3}$ cho $\\cos\\!\\big(\\tfrac{2\\pi}{3}\\big)=-\\tfrac{1}{2}$, nên các phương án có $\\pm\\tfrac{2\\pi}{3}+2k\\pi$ là sai.\n  - Dùng chu kỳ $\\pi$ (như $\\tfrac{\\pi}{3}+k\\pi$) là sai vì $\\cos$ có chu kỳ \\$2\\pi$ và giá trị đổi dấu khi cộng $\\pi$, nên sẽ không giữ luôn bằng $\\tfrac{1}{2}$.\n✅ **Đáp án:** $A. x=\\tfrac{\\pi}{3}+k2\\pi,\\ x=-\\tfrac{\\pi}{3}+k2\\pi$"
+    },
+    {
+      "id": 6,
+      "content": "Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình vuông và $SA$ vuông góc với đáy. Tính số đo góc nhị diện $[B,SA,D]$",
+      "chuong": "quan hệ vuông góc trong không gian",
+      "dang": "góc nhị diện",
+      "type": "single",
+      "options": [
+        "A. \\$30^\\circ$",
+        "B. \\$45^\\circ$",
+        "C. \\$90^\\circ$",
+        "D. \\$60^\\circ$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hình chóp $S.ABCD$ có đáy $ABCD$ là hình vuông.\n- $SA$ vuông góc với mặt đáy $(ABCD)$.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi: Tính số đo góc nhị diện <B, SA, D> — tức là góc giữa hai mặt phẳng $(SAB)$ và $(SAD)$ chung đường sinh $SA$.\n- Cần áp dụng khái niệm: góc giữa hai mặt phẳng chứa một đường thẳng chung (góc nhị diện), và tính góc giữa hai giao tuyến của các mặt phẳng đó với một mặt phẳng vuông góc với đường thẳng chung.\n🔎 **Hướng dẫn cách làm:**\n- Vì $SA\\perp (ABCD)$, mặt phẳng đáy $(ABCD)$ vuông góc với đường thẳng $SA$. Do đó, $(ABCD)$ là một mặt phẳng vuông góc với đường sinh chung $SA$.\n- Quy tắc: góc nhị diện giữa hai mặt phẳng $(SAB)$ và $(SAD)$ bằng góc giữa hai giao tuyến của chúng với một mặt phẳng vuông góc với đường sinh chung (ta chọn mặt phẳng đáy $(ABCD)$).\n- Giao tuyến của $(SAB)$ với $(ABCD)$ là đường thẳng $AB$. Giao tuyến của $(SAD)$ với $(ABCD)$ là đường thẳng $AD$.\n- Vậy góc nhị diện $[B,SA,D]$ bằng góc giữa $AB$ và $AD$ trong đáy, tức là $\\angle BAD$.\n- Vì $ABCD$ là hình vuông nên $\\angle BAD=90^\\circ$.\n✅ **Đáp án:** $\\text{C. }90^\\circ$"
+    },
+    {
+      "id": 7,
+      "content": "Trong không gian $Oxyz$ cho hai điểm $A(1;3;2)$ và $B(4;5;6)$. Gọi $\\alpha$ là góc giữa đường thẳng $AB$ và mặt phẳng $(Oxy)$. Giá trị của $\\cos\\alpha$ bằng",
+      "chuong": "phương pháp tọa độ trong không gian",
+      "dang": "công thức tính góc giữa đường thẳng và mặt phẳng",
+      "type": "single",
+      "options": [
+        "A. $\\tfrac{13}{29}$",
+        "B. $\\tfrac{16}{29}$",
+        "C. $\\tfrac{\\sqrt{377}}{29}$",
+        "D. $\\tfrac{4\\sqrt{29}}{29}$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Điểm $A(1;3;2)$ và $B(4;5;6)$ trong không gian $Oxyz$.\n- Mặt phẳng $(Oxy)$ là mặt phẳng hoành độ, có véc-tơ pháp tuyến $\\mathbf{n}=(0,0,1)$.\n- Gọi $\\alpha$ là góc giữa đường thẳng $AB$ và mặt phẳng $(Oxy)$. Ta cần tìm $\\cos\\alpha$.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu tính $\\cos\\alpha$, với $\\alpha$ là góc giữa đường thẳng $AB$ và mặt phẳng $(Oxy)$.\n- Kiến thức cần dùng: véc-tơ chỉ phương của đường thẳng, chiếu véc-tơ lên mặt phẳng, quan hệ giữa góc đường thẳng và mặt phẳng: - Nếu $\\mathbf{v}$ là véc-tơ chỉ phương của đường thẳng, thì $\\cos\\alpha = \\dfrac{|\\text{phần chiếu của }\\mathbf{v}\\text{ lên mặt phẳng}|}{|\\mathbf{v}|}$.\n🔎 **Hướng dẫn cách làm:**\n- Tính véc-tơ chỉ phương của $AB$:\n$\\mathbf{v}=\\overrightarrow{AB}=B-A=(4-1,\\;5-3,\\;6-2)=(3,2,4).$\n- Phần chiếu của $\\mathbf{v}$ lên mặt phẳng $(Oxy)$ chính là thành phần véc-tơ trong mặt phẳng (bỏ thành phần theo trục $z$), tức là:\n$\\mathbf{v}_{\\text{trên }(Oxy)}=(3,2,0).$\n- Tính độ lớn của các véc-tơ:\n$|\\mathbf{v}|=\\sqrt{3^2+2^2+4^2}=\\sqrt{9+4+16}=\\sqrt{29},$\n$\\big|\\mathbf{v}_{\\text{trên }(Oxy)}\\big|=\\sqrt{3^2+2^2}=\\sqrt{9+4}=\\sqrt{13}.$\n- Áp dụng công thức:\n$\\cos\\alpha=\\dfrac{\\big|\\mathbf{v}_{\\text{trên }(Oxy)}\\big|}{|\\mathbf{v}|}=\\dfrac{\\sqrt{13}}{\\sqrt{29}}.$\n- Viết gọn kết quả (có thể nhân tử dưới mẫu):\n$\\dfrac{\\sqrt{13}}{\\sqrt{29}}=\\dfrac{\\sqrt{13\\cdot29}}{29}=\\dfrac{\\sqrt{377}}{29}.$\n✅ **Đáp án:  ** $C. \\tfrac{\\sqrt{377}}{29}$"
+    },
+    {
+      "id": 8,
+      "content": "Cho $y=F(x)$ là một nguyên hàm của hàm số $f(x)=-3x^2+4x+2$ và $F(1)=2$. Tính $F(-1)$",
+      "chuong": "nguyên hàm và tích phân",
+      "dang": "nguyên hàm của một số hàm số thường gặp",
+      "type": "single",
+      "options": [
+        "A. $F(-1)=4$",
+        "B. $F(-1)=-x^3+2x^2+2x+C$",
+        "C. $F(-1)=-x^3+2x^2+2x-1$",
+        "D. $F(-1)=0$"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số $y=F(x)$ là một nguyên hàm của hàm số $f(x)=-3x^2+4x+2.$\n- Giá trị $F(1)=2.$\n- Yêu cầu: tìm giá trị $F(-1).$\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu tìm giá trị của một nguyên hàm tại $x=-1$.\n- Cần biết cách tìm nguyên hàm (tích phân nguyên) của một đa thức bằng cách lấy tích phân từng hạng tử và xác định hằng số tích phân bằng điều kiện cho trước.\n🔎 **Hướng dẫn cách làm:**\n- Tìm nguyên hàm tổng quát của $f(x)=-3x^2+4x+2.$ Áp dụng quy tắc: $\\int x^n dx=\\frac{x^{n+1}}{n+1}+C.$\n- Tích phân từng hạng tử: - $\\int -3x^2 dx = -3\\cdot\\frac{x^3}{3} = -x^3.$\n  - $\\int 4x dx = 4\\cdot\\frac{x^2}{2} = 2x^2.$\n  - $\\int 2 dx = 2x.$\n- Do đó nguyên hàm tổng quát là:\n$F(x) = -x^3 + 2x^2 + 2x + C.$\n- Dùng điều kiện $F(1)=2$ để tìm $C$:\n$F(1) = -1 + 2 + 2 + C = 3 + C = 2 \\Rightarrow C = -1.$\n- Vậy:\n$F(x) = -x^3 + 2x^2 + 2x - 1.$\n- Tính $F(-1)$:\n$F(-1) = -(-1)^3 + 2(-1)^2 + 2(-1) - 1 = -(-1) + 2\\cdot1 -2 -1 = 1+2-2-1 = 0.$\n✅ **Đáp án:** D. $F(-1)=0$"
+    },
+    {
+      "id": 9,
+      "content": "Trong không gian $Oxyz$ cho hai vectơ $\\vec a=(1;2;3)$, $\\vec b=(2;2;-1)$. Tọa độ của vectơ $\\vec a-2\\vec b$ là",
+      "chuong": "vectơ và hệ trục tọa độ trong không gian",
+      "dang": "biểu thức tọa độ của phép cộng hai vectơ, phép trừ hai vectơ, phép nhân một số với một vectơ",
+      "type": "single",
+      "options": [
+        "A. $(-3;-2;5)$",
+        "B. $(-1;0;4)$",
+        "C. $(3;2;5)$",
+        "D. $(-3;-2;1)$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cho hai vectơ trong không gian $Oxyz$: $\\vec a=(1;2;3)$ và $\\vec b=(2;2;-1)$.\n- Yêu cầu: tìm tọa độ của vectơ $\\vec a-2\\vec b$.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu tính toán phép cộng/nhân vô hướng và phép trừ giữa các vectơ.\n- Cần áp dụng hai kiến thức cơ bản: nhân vectơ với số thực và trừ hai vectơ (theo từng thành phần).\n🔎 **Hướng dẫn cách làm:**\n- Công thức tổng quát: Nếu $\\vec a=(a_x;a_y;a_z),\\ \\vec b=(b_x;b_y;b_z)$ thì\n$\\vec a-2\\vec b=(a_x-2b_x;\\ a_y-2b_y;\\ a_z-2b_z).$\n- Tính \\$2\\vec b$:\n\\$2\\vec b=2(2;2;-1)=(4;4;-2).$\n- Lấy hiệu:\n$\\vec a-2\\vec b=(1;2;3)-(4;4;-2)=(1-4;\\ 2-4;\\ 3-(-2)).$\n- Tính từng thành phần:\n\\$1-4=-3,\\quad 2-4=-2,\\quad 3-(-2)=5.$\n- Vậy:\n$\\vec a-2\\vec b = (-3;-2;5).$\n✅ **Đáp án:** A. $(-3;-2;5)$"
+    },
+    {
+      "id": 10,
+      "content": "Cho hình lập phương $ABCD.A'B'C'D'$ có độ dài mỗi cạnh bằng 1. Tính độ dài của $\\overrightarrow{AB} + \\overrightarrow{CC'}$",
+      "chuong": "vectơ và hệ trục tọa độ trong không gian",
+      "dang": "biểu thức tọa độ của phép cộng hai vectơ, phép trừ hai vectơ, phép nhân một số với một vectơ",
+      "type": "single",
+      "options": [
+        "A. $\\sqrt{2}$",
+        "B. \\$2$",
+        "C. $\\sqrt{3}$",
+        "D. \\$1$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hình lập phương $ABCD.A'B'C'D'$ có độ dài mỗi cạnh bằng 1.\n- Cần tính độ dài của vectơ $\\overrightarrow{AB} + \\overrightarrow{CC'}$.\n❓ **Hiểu câu hỏi:**\n- Bài toán yêu cầu tính độ dài (mô-đun) của tổng hai vectơ trong không gian: $\\overrightarrow{AB} + \\overrightarrow{CC'}$.\n- Cần áp dụng khái niệm vectơ trong hệ tọa độ và công thức tính độ dài vectơ: nếu $\\vec{v}=(x,y,z)$ thì $|\\vec{v}|=\\sqrt{x^2+y^2+z^2}$.\n🔎 **Hướng dẫn cách làm:**\n- Chọn hệ tọa độ thuận tiện: đặt $A(0,0,0)$, cạnh AB hướng trục Ox, cạnh AD hướng Oy, trục Oz đi lên phía các đỉnh có dấu ' như thường làm.\n- Khi đó với cạnh bằng 1 ta có: - $B(1,0,0)$ nên $\\overrightarrow{AB}=B-A=(1,0,0).$\n  - Điểm $C$ là $C(1,1,0)$ và $C'$ là $C'(1,1,1)$ nên $\\overrightarrow{CC'}=C'-C=(0,0,1).$\n- Tính tổng hai vectơ: - $\\overrightarrow{AB}+\\overrightarrow{CC'}=(1,0,0)+(0,0,1)=(1,0,1).$\n- Tính độ dài vectơ kết quả bằng công thức: - $\\left|\\overrightarrow{AB}+\\overrightarrow{CC'}\\right|=\\sqrt{1^2+0^2+1^2}=\\sqrt{2}.$\n- Kiểm tra nhanh: hai vectơ ban đầu vuông góc nên độ dài tổng là căn của tổng bình phương các thành phần đúng bằng $\\sqrt2$.\n✅ **Đáp án:**  $\\text{A. }\\sqrt2$"
+    },
+    {
+      "id": 11,
+      "content": "Cho cấp số cộng $(u_n)$ với $u_1=2$ và công sai $d=3$. Giá trị của $u_7$ bằng",
+      "chuong": "dãy số. cấp số cộng và cấp số nhân",
+      "dang": "số hạng tổng quát của cấp số cộng",
+      "type": "single",
+      "options": [
+        "A. \\$20$",
+        "B. \\$15$",
+        "C. \\$12$",
+        "D. \\$14$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cấp số cộng $(u_n)$ với $u_1 = 2$.\n- Công sai $d = 3$.\n- Tìm giá trị của $u_7$.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu tìm giá trị của số hạng thứ 7 trong một cấp số cộng.\n- Cần áp dụng công thức của cấp số cộng để tính: công thức tổng quát của số hạng thứ n là $u_n = u_1 + (n-1)d$.\n🔎 **Hướng dẫn cách làm:**\n- Viết công thức số hạng tổng quát của cấp số cộng: $u_n = u_1 + (n-1)d$.\n- Thay $n=7$, $u_1=2$, $d=3$ vào công thức:\n$u_7 = u_1 + (7-1)d = 2 + 6\\cdot 3.$\n- Tính: \\$6\\cdot 3 = 18$, nên $u_7 = 2 + 18 = 20.$\n- Kiểm tra bằng cách liệt kê các số hạng đầu: $u_1=2,\\ u_2=5,\\ u_3=8,\\ u_4=11,\\ u_5=14,\\ u_6=17,\\ u_7=20.$\n✅ **Đáp án:** A. \\$20$"
+    },
+    {
+      "id": 12,
+      "content": "Tập nghiệm của bất phương trình $\\left(\\tfrac12\\right)^{2x+3}\\le 8$ là",
+      "chuong": "hàm số mũ và hàm số lôgarit",
+      "dang": "bất phương trình mũ",
+      "type": "single",
+      "options": [
+        "A. $[3;+\\infty)$",
+        "B. $(-\\infty;-3]$",
+        "C. $[-3;+\\infty)$",
+        "D. $(-\\infty;3]$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Bất phương trình: $\\left(\\tfrac{1}{2}\\right)^{2x+3}\\le 8$\n- Biết rằng cơ số $\\tfrac{1}{2}$ thuộc khoảng $(0,1)$ (hàm mũ nghịch biến theo số mũ).\n❓ **Hiểu câu hỏi:**\n- Yêu cầu: Tìm tập nghiệm của biến $x$ thỏa mãn bất phương trình đã cho.\n- Cần áp dụng kiến thức về hàm số mũ, chuyển đổi cơ số và so sánh luỹ thừa (biết cơ số >1 thì hàm mũ tăng; nếu cơ số trong (0,1) thì hàm mũ giảm).\n🔎 **Hướng dẫn cách làm:**\n- Viết lại cả hai vế dưới dạng luỹ thừa cùng cơ số (chọn cơ số \\$2$ thuận tiện): - $\\left(\\tfrac{1}{2}\\right)^{2x+3}=2^{-(2x+3)}$\n  - \\$8=2^3$\n- Do đó bất phương trình tương đương với\n\\$2^{-(2x+3)}\\le 2^3.$\n- Vì hàm số \\$2^t$ là tăng theo $t$ (cơ số \\$2>1$), ta có bất đẳng thức về số mũ:\n$-(2x+3)\\le 3.$\n- Giải bất đẳng thức trên:\n$-2x-3\\le 3$\n$-2x\\le 6$\nChia cả hai vế cho $-2$ (lưu ý đổi chiều bất đẳng thức):\n$x\\ge -3.$\n- Kiểm tra nhanh: - Với $x=-3$: vế trái $\\left(\\tfrac12\\right)^{2(-3)+3}=\\left(\\tfrac12\\right)^{-3}=2^3=8$ (thỏa).\n  - Với $x=-4$ (nhỏ hơn -3): vế trái là \\$32$, không thỏa.\n  - Với $x=0$ (lớn hơn -3): vế trái là $\\tfrac{1}{8}\\le 8$ (thỏa).\n- Vậy tập nghiệm là $[-3;+\\infty)$.\n✅ **Đáp án:** C. $[-3;+\\infty)$"
+    }
+  ]
+}

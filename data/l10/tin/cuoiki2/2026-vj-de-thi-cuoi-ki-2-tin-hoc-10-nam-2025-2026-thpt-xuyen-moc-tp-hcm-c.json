@@ -1,0 +1,104 @@
+{
+  "id": "2026-vj-de-thi-cuoi-ki-2-tin-hoc-10-nam-2025-2026-thpt-xuyen-moc-tp-hcm-c",
+  "sourceId": "vietjack:de-thi-cuoi-ki-2-tin-hoc-10-nam-2025-202",
+  "grade": "l10",
+  "subjectSlug": "tin",
+  "examType": "cuoiki2",
+  "year": 2026,
+  "title": "Đề thi cuối kì 2 Tin học 10 năm 2025-2026 THPT Xuyên Mộc (TP.HCM) có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho s = ‘123456’ thì s[:3] cho kết quả là gì?",
+      "options": [
+        "A. ‘456’",
+        "B. ‘3456’",
+        "C. ‘1234’",
+        "D. ‘123’"
+      ],
+      "answer": "D",
+      "note": "Đáp án D"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trong Python, đối với cấu trúc if-else thì &lt;câu lệnh hay nhóm câu lệnh 2&gt; được thực hiện khi:",
+      "options": [
+        "A. Điều kiện luôn luôn đúng.",
+        "B. Điều kiện sai.",
+        "C. Điều kiện đúng.",
+        "D. Điều kiện luôn luôn sai."
+      ],
+      "answer": "B",
+      "note": "Đáp án B"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Lệnh ‘12 ab 12 ab’.find(‘12’) cho kết quả là:",
+      "options": [
+        "A. 2",
+        "B. 0",
+        "C. 1",
+        "D. 6"
+      ],
+      "answer": "B",
+      "note": "Đáp án B"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho đoạn lệnh sau: a = [5, 7, 3, 4, 1] a.insert(2, 9) Danh sách a thu được là:",
+      "options": [
+        "A. [5, 9, 7, 3, 4, 1]",
+        "B. [5, 7, 9, 3, 4, 1]",
+        "C. [5, 2, 7, 3, 4, 1]",
+        "D. [5, 7, 2, 3, 4, 1]"
+      ],
+      "answer": "B",
+      "note": "Đáp án B"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Để xóa phần tử thứ 5 trong danh sách a ta dùng lệnh nào sau đây?",
+      "options": [
+        "A. a.pop(5)",
+        "B. pop(5)",
+        "C. pop(5, a)",
+        "D. pop(a, 5)"
+      ],
+      "answer": "A",
+      "note": "Đáp án A"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Dãy số nào sau đây là kết quả của lệnh range(5, 10)?",
+      "options": [
+        "A. 1, 2, 3, 4, 5",
+        "B. 5, 6, 7, 8, 9, 10",
+        "C. 1, 2, 3, …, 10",
+        "D. 5, 6, 7, 8, 9"
+      ],
+      "answer": "D",
+      "note": "Đáp án D"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Để truy cập đến phần tử trong danh sách ta dùng cú pháp nào sau đây?",
+      "options": [
+        "A. &lt;tên danh sách&gt; chỉ số",
+        "B. &lt;tên danh sách&gt;[chỉ số]",
+        "C. [chỉ số] &lt;tên danh sách&gt;",
+        "D. &lt;tên danh sách&gt;(chỉ số)"
+      ],
+      "answer": "B",
+      "note": "Đáp án B"
+    }
+  ]
+}

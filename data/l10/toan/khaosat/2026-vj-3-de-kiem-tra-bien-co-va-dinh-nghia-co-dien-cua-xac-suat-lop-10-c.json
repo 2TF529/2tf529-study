@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-3-de-kiem-tra-bien-co-va-dinh-nghia-co-dien-cua-xac-suat-lop-10-c",
+  "sourceId": "vietjack:3-de-kiem-tra-bien-co-va-dinh-nghia-co-d",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.Đề kiểm tra Biến cố và định nghĩa cổ điển của xác suất lớp 10 (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Gieo một đồng tiền cân đối và đồng chất bốn lần. Xác suất để cả bốn lần xuất hiện mặt sấp là?",
+      "options": [
+        "A. \\[\\frac{4}{{16}}.\\]",
+        "B. \\[\\frac{2}{{16}}.\\]",
+        "C. \\[\\frac{1}{{16}}.\\]",
+        "D. \\[\\frac{6}{{16}}.\\]"
+      ],
+      "answer": "C",
+      "note": "Số phần tử của không gian mẫu là \\[n\\left( \\Omega \\right) = 2.2.2.2 = 16.\\] Gọi \\(A\\) là biến cố \\(''\\)Cả bốn lần gieo xuất hiện mặt sấp\\(''\\) Vậy xác suất cần tính \\[P\\left( A \\right) = \\frac{1}{{16}}\\]."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Số nguyên tố là số tự nhiên lớn hơn \\(1\\) chỉ có \\(2\\) ước số là \\(1\\) và chính nó. Gọi \\(A\\) là biến cố: “Chọn được \\(1\\) số nguyên tố có \\(2\\) chữ số và nhỏ hơn \\(100\\)”. Số kết quả thuận lợi của biến cố \\(A\\) là",
+      "options": [
+        "A. \\[20\\].",
+        "B. \\[25\\].",
+        "C. \\[24\\].",
+        "D. \\[21\\]."
+      ],
+      "answer": "D",
+      "note": "Các số nguyên tố có \\(2\\) chữ số và nhỏ hơn là: \\(11\\,;\\,13\\,;\\,17\\,;\\,19\\,;\\,23\\,;\\,29\\,;\\,31\\,;\\,37\\,;\\,41\\,;\\,43\\,;\\,47\\,;\\,53\\,;\\,59\\, & ;\\,61\\,;\\,67\\,;\\,71\\,;\\,73\\,;\\,79\\,;\\,83\\,;\\,89\\,;\\,97\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Có \\(5\\) học sinh nam và \\(10\\) học sinh nữ, trong các học sinh nữ có Vy và Quyên, Lan. Xếp những học sinh này thành một hàng ngang. Xác suất để mỗi bạn nam đều đứng giữa hai bạn nữ đồng thời Vy, Quyên, Lan đứng cạnh nhau bằng",
+      "options": [
+        "A. \\[\\frac{1}{{5405400}}\\].",
+        "B. \\[\\frac{1}{{2145}}\\].",
+        "C. \\[\\frac{1}{{257400}}\\].",
+        "D. \\[\\frac{1}{{2154}}\\]."
+      ],
+      "answer": "B",
+      "note": "Xét phép thử: “Xếp \\(5\\) học sinh nam và \\(10\\) học sinh nữ thành một hàng ngang” \\( \\Rightarrow n\\left( \\Omega \\right) = 15!\\). Gọi biến cố \\(X\\): “Mỗi bạn nam đều đứng giữa hai bạn nữ đồng thời Vy, Quyên, Lan luôn đứng cạnh nhau”. Bước 1: Xếp Vy, Quyên, Lan đứng cạnh nhau có \\(3!\\) cách. Bước 2: Xếp Vy, Quyên, Lan và \\(7\\) bạn còn lại vào \\(8\\) vị trí có \\(8!\\) cách. Bước 3: Chọn \\(5\\) khoảng trống trong \\(7\\) khoảng trống giữa \\(8\\) vị trí ở bước 2 cho \\(5\\) bạn nam có \\(A_7^5\\) cách. \\( \\Rightarrow n\\left( X \\right) = 3!8!A_7^5\\). Vậy xác suất của biến cố \\(X\\) là \\(p(X) = \\frac{{3!8!A_7^5}}{{15!}} = \\frac{1}{{2145}}\\)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Một nhóm học sinh gồm \\(6\\) nam, \\(4\\) nữ. Xếp ngẫu nhiên nhóm học sinh này thành một hàng ngang. Tính số các kết quả thuận lợi cho biến cố \\[A\\]: “\\(2\\) học sinh nữ bất kỳ không xếp cạnh nhau”.",
+      "options": [
+        "A. \\(6!.4!\\).",
+        "B. \\[10!\\].",
+        "C. \\(6!.A_7^4\\).",
+        "D. \\(6!.C_7^4\\)."
+      ],
+      "answer": "C",
+      "note": "Xếp \\(6\\) nam thành một hàng ngang có \\(6!\\). Giữa \\(6\\) nam có \\(5\\) khoảng trống, cộng thêm \\(2\\) khoảng trống ở hai đầu dãy là \\(7\\) khoảng trống. Xếp \\(4\\) nữ vào \\(4\\) trong \\(7\\) khoảng trống thì có \\(A_7^4\\). Do đó số các kết quả thuận lợi cho biến cố \\[A\\] là \\(6!.A_7^4\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Một hộp chứa 6 quả bóng màu đỏ được đánh số từ 1 đến 6; 5 quả bóng màu vàng được đánh số từ 1 đến 5 và 4 quả bóng màu xanh được đánh số từ 1 đến 4. Lấy ngẫu nhiên 4 quả bóng trong hộp. Tính xác suất để 4 quả bóng lấy ra có đủ ba màu đồng thời không có hai quả bóng nào được đánh số trùng nhau.",
+      "options": [
+        "A. \\[\\frac{{74}}{{455}}\\].",
+        "B. \\(\\frac{6}{{65}}\\).",
+        "C. \\[\\frac{{10}}{{91}}\\].",
+        "D. \\[\\frac{{48}}{{91}}\\]."
+      ],
+      "answer": "A",
+      "note": "Số phần tử của không gian mẫu là số cách lấy bất kì 4 quả bóng từ 15 quả bóng. Suy ra số phần tử của không gian mẫu là \\[n\\left( \\Omega \\right) = C_{15}^4 = 1365\\]. Gọi \\[A\\] là biến cố “4 quả bóng lấy ra có đủ ba màu đồng thời không có hai quả bóng nào được đánh số trùng nhau”. Các trường hợp xảy ra biến cố \\[A\\]: + TH1: 4 quả cầu lấy ra có 2 xanh, 1 vàng, 1 đỏ có \\[C_4^2.C_3^1.C_3^1\\] cách. + TH2: 4 quả cầu lấy ra có 1 xanh, 2 vàng, 1 đỏ có \\[C_4^1.C_4^2.C_3^1\\] cách. + TH3: 4 quả cầu lấy ra có 1 xanh, 1 vàng, 2 đỏ có \\[C_4^1.C_4^1.C_4^2\\] cách. Suy ra số phần tử của biến cố \\[A\\] là \\[n\\left( A \\right) = C_4^2.C_3^1.C_3^1 + C_4^1.C_4^2.C_3^1 + C_4^1.C_4^1.C_4^2 = 222\\]. Do đó xác suất của biến cố \\[A\\] là \\[P\\left( A \\right) = \\frac{{n\\left( A \\right)}}{{n\\left( \\Omega \\right)}} = \\frac{{222}}{{1365}} = \\frac{{74}}{{455}}\\]."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Giả sử tỉ lệ giới tính khi sinh ở Việt Nam là 105 bé trai trên 100 bé gái. Khi đó xác suất hai đứa trẻ sinh ra có cùng giới tính xấp xỉ bằng",
+      "options": [
+        "A. \\[0,5122\\].",
+        "B. \\(0,4878\\).",
+        "C. \\[0,5003\\].",
+        "D. \\[0,4997\\]."
+      ],
+      "answer": "C",
+      "note": "Xác suất sinh ra bé trai là \\(p \\approx \\frac{{105}}{{100 + 105}} = \\frac{{21}}{{41}}\\). Gọi \\(A\\) là biến cố “Hai đứa trẻ sinh ra có cùng giới tính”. + TH1: Xác suất hai đứa trẻ sinh ra đều là bé trai là \\(p.p = {p^2}\\). + TH2: Xác suất hai đứa trẻ sinh ra đều là bé gái là \\(\\left( {1 - p} \\right).\\left( {1 - p} \\right) = {\\left( {1 - p} \\right)^2}\\). Suy ra xác suất 2 đứa trẻ sinh ra có cùng giới tính là \\(p\\left( A \\right) = {p^2} + {\\left( {1 - p} \\right)^2} \\approx 0,5003\\)."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Cho 15 số tự nhiên từ 1 đến 15, chọn ngẫu nhiên 3 số tự nhiên trong 15 số tự nhiên đó. Gọi A là biến cố “tổng của 3 số được chọn chia hết cho 3”. Số kết quả thuận lợi cho biến cố A là",
+      "options": [
+        "A. \\(155\\).",
+        "B. \\(455\\).",
+        "C. \\(45\\).",
+        "D. \\({15^3}\\)."
+      ],
+      "answer": "A",
+      "note": "Chia 15 số tự nhiên từ 1 đến 15 thành 3 tập hợp \\(M = \\left\\{ {1;4;7;10;13} \\right\\}\\), \\(N = \\left\\{ {2;5;8;11;14} \\right\\}\\) và \\(P = \\left\\{ {3;6;9;12;15} \\right\\}\\). Để tổng của 3 số chia hết cho 3 thì Trường hợp 1: 3 số đều thuộc tập \\(M\\) có \\({\\rm{C}}_5^3\\) khả năng. Trường hợp 2: 3 số đều thuộc tập \\(N\\) có \\({\\rm{C}}_5^3\\) khả năng. Trường hợp 3: 3 số đều thuộc tập \\(P\\) có \\({\\rm{C}}_5^3\\) khả năng. Trường hợp 4: 1 số thuộc tập \\(M\\), 1 số thuộc tập \\(N\\) và 1 số thuộc tập \\(P\\) có \\({\\rm{C}}_5^1 \\cdot {\\rm{C}}_5^1 \\cdot {\\rm{C}}_5^1\\) khả năng. Do đó số kết quả thuận lợi cho biến cố A là \\(3 \\cdot {\\rm{C}}_5^3 + {\\left( {{\\rm{C}}_5^1} \\right)^3} = 155\\)."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Gieo ba con súc sắc. Xác suất để số chấm xuất hiện trên ba con súc sắc như nhau là?",
+      "options": [
+        "A. \\[\\frac{{12}}{{216}}.\\]",
+        "B. \\[\\frac{1}{{216}}.\\]",
+        "C. \\[\\frac{6}{{216}}.\\]",
+        "D. \\[\\frac{3}{{216}}.\\]"
+      ],
+      "answer": "C",
+      "note": "Số phần tử của không gian mẫu là \\[\\left| \\Omega \\right| = 6.6.6 = 36.\\] Gọi \\(A\\) là biến cố \\(''\\)Số chấm xuất hiện trên ba con súc sắc như nhau\\(''\\). Ta có các trường hợp thuận lợi cho biến cố \\(A\\) là \\(\\left( {1;1;1} \\right),{\\rm{ }}\\left( {2;2;2} \\right),{\\rm{ }}\\left( {3;3;3} \\right),{\\rm{ }} \\cdots {\\rm{ }},\\left( {6;6;6} \\right).\\) Suy ra \\[\\left| {{\\Omega _A}} \\right| = 6.\\] Vậy xác suất cần tính \\[P\\left( A \\right) = \\frac{6}{{216}}\\]."
+    }
+  ]
+}

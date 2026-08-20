@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-10-ket-noi-tri-thuc-bai-19-co-dap-an",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-10-ket-noi-",
+  "grade": "l10",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu trắc nghiệm Tin học 10 Kết nối tri thức Bài 19 có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Phát biểu nào sau đây là sai khi nói về biểu thức lôgic?",
+      "options": [
+        "A. Biểu thức lôgic là biểu thức chỉ nhận giá trị True hoặc False.",
+        "B. Giá trị của biểu thức lôgic thuộc kiểu bool",
+        "C. Ngoài hai giá trị True, False biểu thức lôgic nhận giá trị undefined",
+        "D. Biểu thức “2 * 3 // 5 == 1” mang giá trị True"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Biểu thức lôgic chỉ nhận giá trị True hoặc False, không nhận giá trị undefined"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Biểu diễn nào sau đây là sai trong Python?",
+      "options": [
+        "A. b*b>a*c, a*(1-a)+(a-b)>=0; 1/x-x<0.",
+        "B. (a-b)>c-d, 1//x-y>=2*x,b*b>a*c.",
+        "C. (a-b)>c-d, (a-b)<>b-a,12*a>5a.",
+        "D. (a-b)**0.5>x,1/x-y>=2*x,15*a>5."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Trong biểu thức lôgic không có biểu diễn <> và thiếu dấu sao ở 5a"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Kết quả của đoạn chương trình sau: x=2021 print((x%4==0 and x%100!=0) or x%400==0)",
+      "options": [
+        "A. 55.",
+        "B. True.",
+        "C. 5.",
+        "D. False."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho x = True, y = False. Cho biết giá trị của biểu thức sau: not((x or y ) and x )",
+      "options": [
+        "A. True",
+        "B. False",
+        "C. C . x",
+        "D. 1"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B not((x or y ) and x ) = not((True or False) and True) = not(True and True) = not(True) = False"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Giá trị của ai biểu thức sau là True hay False? 50%3==1 34//5==6",
+      "options": [
+        "A. True, True",
+        "B. False, False.",
+        "C. True, False",
+        "D. False, True"
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D 50%3=2!=1 34//5=6==6"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Phát biểu nào sau đây bị sai ?",
+      "options": [
+        "A. Sau &lt;điều kiện&gt; cần có dấu “:”",
+        "B. Khối lệnh tiếp theo không bắt buộc lùi vào 1 tab và thẳng hàng",
+        "C. Khi thực hiện lệnh, Python sẽ kiểm tra &lt;điều kiện&gt; nếu đúng thì thực hiện &lt;khối lệnh&gt;, ngược lại thì bỏ qua chuyến sang lệnh tiếp theo.",
+        "D. Có phát biểu chưa đúng trong ba phát biểu trên."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Khối lệnh tiếp theo bắt buộc lùi vào 1 tab và thẳng hàng. Nếu không chương trình sẽ thông báo lỗi."
+    }
+  ]
+}

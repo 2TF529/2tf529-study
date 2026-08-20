@@ -1,0 +1,196 @@
+{
+  "id": "l12-toan-totnghiep-2026-de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-ha-tinh-nam-2026-lan-1",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "code": "THPT_TKT_2026_HT_01",
+  "title": "Đề khảo sát chất lượng THPT môn Toán Sở GD&ĐT Hà Tĩnh năm 2026 - Lần 1",
+  "duration": 90,
+  "answerSource": "official",
+  "source": "https://dolthpt.vn/tot-nghiep-thpt/pdf-de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-ha-tinh-nam-2026-lan-1-co-dap-an",
+  "notes": "Nội dung, đáp án và lời giải được nhập từ bản công khai của DOL THPT.",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "content": "Phương trình $\\sin x+1=0$ có nghiệm là",
+      "chuong": "hàm số lượng giác và phương trình lượng giác",
+      "dang": "phương trình sinx=m",
+      "type": "single",
+      "options": [
+        "A. $x=-\\dfrac{\\pi}{2}+k\\pi,\\ k\\in\\mathbb{Z}$.",
+        "B. $x=\\pi+2k\\pi,\\ k\\in\\mathbb{Z}$.",
+        "C. $x=k\\pi,\\ k\\in\\mathbb{Z}$.",
+        "D. $x=-\\dfrac{\\pi}{2}+2k\\pi,\\ k\\in\\mathbb{Z}$."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Phương trình đã cho là $\\sin x+1=0$.\n- Các đáp án đều là nghiệm tổng quát của phương trình lượng giác cơ bản.\n❓ **Hiểu câu hỏi:**\n- Ta đưa phương trình về dạng cơ bản $\\sin x=m$.\n- Với $\\sin x=-1$ thì nghiệm xảy ra tại điểm đáy của đường tròn lượng giác.\n🔎 **Hướng dẫn cách làm:**\n- Từ $\\sin x+1=0$ suy ra $\\sin x=-1$.\n- Ta biết $\\sin x=-1$ khi $x=-\\dfrac{\\pi}{2}+2k\\pi,\\ k\\in\\mathbb{Z}$.\n- So sánh với các phương án, ta chọn đáp án đúng.\n✅ **Đáp án:** Chọn D. $x=-\\dfrac{\\pi}{2}+2k\\pi,\\ k\\in\\mathbb{Z}$."
+    },
+    {
+      "id": 2,
+      "content": "Giá trị lớn nhất của hàm số $y=\\dfrac{3x+2}{x+1}$ trên đoạn $[0;2]$ bằng",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "cách tìm giá trị lớn nhất và giá trị nhỏ nhất của hàm số trên một đoạn",
+      "type": "single",
+      "options": [
+        "A. $\\dfrac{8}{3}$.",
+        "B. \\$3$.",
+        "C. $\\dfrac{10}{3}$.",
+        "D. \\$2$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số là $y=\\dfrac{3x+2}{x+1}$ trên đoạn $[0;2]$.\n- Cần tìm giá trị lớn nhất của hàm số trên đoạn đã cho.\n❓ **Hiểu câu hỏi:**\n- Muốn tìm giá trị lớn nhất trên đoạn, ta xét tính đơn điệu hoặc so sánh giá trị tại các điểm cần thiết.\n- Ở đây có thể biến đổi hàm số để nhìn ra ngay chiều biến thiên.\n🔎 **Hướng dẫn cách làm:**\n- Ta viết $y=\\dfrac{3x+2}{x+1}=3-\\dfrac{1}{x+1}$.\n- Trên đoạn $[0;2]$ thì $x+1>0$, nên khi $x$ tăng thì $\\dfrac{1}{x+1}$ giảm, do đó $-\\dfrac{1}{x+1}$ tăng.\n- Vì vậy hàm số tăng trên $[0;2]$, nên giá trị lớn nhất đạt tại $x=2$.\n- Thay $x=2$ vào hàm số: $y(2)=\\dfrac{3\\cdot 2+2}{2+1}=\\dfrac{8}{3}$.\n✅ **Đáp án:** Chọn A. $\\dfrac{8}{3}$."
+    },
+    {
+      "id": 3,
+      "content": "Gieo ngẫu nhiên một con xúc xắc cân đối và đồng chất hai lần liên tiếp. Tính xác suất để tổng số chấm xuất hiện trong hai lần gieo bằng \\$8$ biết rằng lần gieo thứ nhất xuất hiện mặt \\$5$ chấm.",
+      "chuong": "xác suất có điều kiện",
+      "dang": "xác suất có điều kiện",
+      "type": "single",
+      "options": [
+        "A. $\\dfrac{5}{6}$.",
+        "B. $\\dfrac{1}{6}$.",
+        "C. $\\dfrac{1}{3}$.",
+        "D. $\\dfrac{1}{36}$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Gieo một con xúc xắc hai lần liên tiếp.\n- Biết lần gieo thứ nhất xuất hiện mặt \\$5$ chấm.\n- Cần tính xác suất để tổng hai lần gieo bằng \\$8$.\n❓ **Hiểu câu hỏi:**\n- Đây là bài xác suất có điều kiện.\n- Khi lần đầu đã là \\$5$, tổng bằng \\$8$ thì lần thứ hai phải là \\$3$.\n🔎 **Hướng dẫn cách làm:**\n- Điều kiện đã cho là lần gieo thứ nhất bằng \\$5$, nên ta chỉ còn xét lần gieo thứ hai.\n- Để tổng hai lần bằng \\$8$ thì lần thứ hai phải ra \\$3$.\n- Xúc xắc cân đối nên xác suất ra mặt \\$3$ ở lần thứ hai là $\\dfrac{1}{6}$.\n✅ **Đáp án:** Chọn B. $\\dfrac{1}{6}$."
+    },
+    {
+      "id": 4,
+      "content": "Cho hàm số $f(x)=3^x+1$. Một nguyên hàm của $f(x)$ trên $\\mathbb{R}$ là",
+      "chuong": "nguyên hàm và tích phân",
+      "dang": "nguyên hàm của một số hàm số thường gặp",
+      "type": "single",
+      "options": [
+        "A. $F(x)=\\dfrac{3^x}{\\ln 3}$.",
+        "B. $F(x)=\\dfrac{3^x}{\\ln 3}+x$.",
+        "C. $F(x)=3^x+x$.",
+        "D. $F(x)=3^x\\ln 3$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số đã cho là $f(x)=3^x+1$.\n- Cần tìm một nguyên hàm của $f(x)$ trên $\\mathbb{R}$.\n❓ **Hiểu câu hỏi:**\n- Ta dùng công thức nguyên hàm quen thuộc của hàm mũ.\n- Cụ thể, $\\int a^x\\,dx=\\dfrac{a^x}{\\ln a}+C$ với $a>0, a\\neq0$.\n🔎 **Hướng dẫn cách làm:**\n- Ta có $\\int \\left(3^x+1\\right)dx=\\int 3^x\\,dx+\\int 1\\,dx$.\n- Suy ra một nguyên hàm là $F(x)=\\dfrac{3^x}{\\ln 3}+x+C$.\n- Vì đề chỉ hỏi một nguyên hàm nên ta có thể bỏ hằng số $C$ khi chọn đáp án.\n✅ **Đáp án:** Chọn B. $F(x)=\\dfrac{3^x}{\\ln 3}+x$."
+    },
+    {
+      "id": 5,
+      "content": "Cho hàm số $y=f(x)$ liên tục trên $\\mathbb{R}$ thỏa mãn $\\int_0^5 f(x)\\,dx=6,\\ \\int_2^5 f(x)\\,dx=2$. Giá trị của biểu thức $\\int_0^2 f(x)\\,dx$ bằng",
+      "chuong": "nguyên hàm và tích phân",
+      "dang": "tính chất của tích phân",
+      "type": "single",
+      "options": [
+        "A. \\$3$.",
+        "B. \\$4$.",
+        "C. \\$2$.",
+        "D. \\$8$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số $f(x)$ liên tục trên $\\mathbb{R}$.\n- Biết $\\int_0^5 f(x)\\,dx=6$ và $\\int_2^5 f(x)\\,dx=2$.\n- Cần tính $\\int_0^2 f(x)\\,dx$.\n❓ **Hiểu câu hỏi:**\n- Ta dùng tính chất cộng của tích phân trên các khoảng kề nhau.\n- Cụ thể, $\\int_0^5 f(x)\\,dx=\\int_0^2 f(x)\\,dx+\\int_2^5 f(x)\\,dx$.\n🔎 **Hướng dẫn cách làm:**\n- Từ tính chất tích phân, ta có $\\int_0^2 f(x)\\,dx=\\int_0^5 f(x)\\,dx-\\int_2^5 f(x)\\,dx$.\n- Thay số vào được $\\int_0^2 f(x)\\,dx=6-2=4$.\n✅ **Đáp án:** Chọn B. \\$4$."
+    },
+    {
+      "id": 6,
+      "content": "Khảo sát thời gian ứng dụng AI vào học tập trong một ngày của học sinh lớp \\$12A$, thu được mẫu số liệu như bảng. Số trung bình cộng của mẫu số liệu ghép nhóm trên bằng (làm tròn kết quả hàng phần trăm)?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-ha-tinh-nam-2026-lan-1/cau-06.webp\" alt=\"Hình minh họa câu 6\" loading=\"lazy\"></figure>",
+      "chuong": "các số đặc trưng đo xu thế trung tâm của mẫu số liệu ghép nhóm",
+      "dang": "số trung bình của mẫu số liệu ghép nhóm",
+      "type": "single",
+      "options": [
+        "A. \\$32{,}96$.",
+        "B. \\$32{,}97$.",
+        "C. \\$31{,}95$.",
+        "D. \\$31{,}94$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Các lớp ghép nhóm là $[20;25),[25;30),[30;35),[35;40),[40;45)$.\n- Tần số tương ứng là \\$5,8,14,10,6$.\n- Cần tính số trung bình cộng của mẫu số liệu ghép nhóm và làm tròn đến hàng phần trăm.\n❓ **Hiểu câu hỏi:**\n- Với số liệu ghép nhóm, ta lấy trung điểm mỗi lớp nhân với tần số rồi chia cho tổng tần số.\n- Công thức là $\\overline{x}=\\dfrac{\\sum n_i x_i}{\\sum n_i}$.\n🔎 **Hướng dẫn cách làm:**\n- Trung điểm các lớp lần lượt là \\$22{,}5;\\ 27{,}5;\\ 32{,}5;\\ 37{,}5;\\ 42{,}5$.\n- Tổng tần số là \\$5+8+14+10+6=43$.\n- Tổng có trọng số là \\$22{,}5\\cdot 5+27{,}5\\cdot 8+32{,}5\\cdot 14+37{,}5\\cdot 10+42{,}5\\cdot 6=1417{,}5$.\n- Vậy $\\overline{x}=\\dfrac{1417{,}5}{43}\\approx 32{,}9651$.\n- Làm tròn đến hàng phần trăm, ta được \\$32{,}97$.\n✅ **Đáp án:** Chọn B. \\$32{,}97$."
+    },
+    {
+      "id": 7,
+      "content": "Trong không gian tọa độ $Oxyz$, cho vectơ $\\vec{a}$ thỏa mãn $\\vec{a}=4\\vec{i}+3\\vec{j}-5\\vec{k}$. Tọa độ vectơ $\\vec{a}$ là",
+      "chuong": "vectơ và hệ trục tọa độ trong không gian",
+      "dang": "tọa độ của điểm, tọa độ của vectơ trong không gian",
+      "type": "single",
+      "options": [
+        "A. $(3;4;-5)$.",
+        "B. $(4;3;-5)$.",
+        "C. $(-4;-3;5)$.",
+        "D. $(-5;4;3)$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Trong không gian $Oxyz$, vectơ $\\vec{a}=4\\vec{i}+3\\vec{j}-5\\vec{k}$.\n- Cần tìm tọa độ của vectơ $\\vec{a}$.\n❓ **Hiểu câu hỏi:**\n- Tọa độ của vectơ được đọc trực tiếp theo các hệ số của $\\vec{i},\\vec{j},\\vec{k}$.\n- Hệ số của $\\vec{i}$ là hoành độ, của $\\vec{j}$ là tung độ và của $\\vec{k}$ là cao độ.\n🔎 **Hướng dẫn cách làm:**\n- Từ $\\vec{a}=4\\vec{i}+3\\vec{j}-5\\vec{k}$, ta đọc được ngay tọa độ là $(4;3;-5)$.\n- So sánh với các đáp án, ta chọn phương án tương ứng.\n✅ **Đáp án:** Chọn B. $(4;3;-5)$."
+    },
+    {
+      "id": 8,
+      "content": "Cho hàm số $y=f(x)$ có bảng biến thiên như hình vẽ dưới đây. Hàm số đồng biến trên khoảng nào?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-ha-tinh-nam-2026-lan-1/cau-08.webp\" alt=\"Hình minh họa câu 8\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "tính đơn điệu của hàm số",
+      "type": "single",
+      "options": [
+        "A. $(-\\infty;3)$.",
+        "B. $(-3;3)$.",
+        "C. $(-3;0)$.",
+        "D. $(0;+\\infty)$."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Bảng biến thiên cho biết dấu của $f'(x)$ trên các khoảng.\n- Cần tìm khoảng mà hàm số đồng biến.\n❓ **Hiểu câu hỏi:**\n- Hàm số đồng biến trên những khoảng mà $f'(x)>0$.\n- Ta đọc trực tiếp dấu của đạo hàm từ bảng biến thiên.\n🔎 **Hướng dẫn cách làm:**\n- Từ bảng biến thiên, ta thấy $f'(x)>0$ trên $(-3;0)$ và $(3;+\\infty)$.\n- Trong các phương án đã cho, chỉ có $(-3;0)$ xuất hiện đầy đủ.\n- Vì vậy đây là khoảng đồng biến cần chọn.\n✅ **Đáp án:** Chọn C. $(-3;0)$."
+    },
+    {
+      "id": 9,
+      "content": "Cho cấp số nhân $(u_n)$ với $u_1=1$ và $u_2=2$. Công bội của cấp số nhân đã cho là",
+      "chuong": "dãy số. cấp số cộng và cấp số nhân",
+      "dang": "định nghĩa cấp số nhân",
+      "type": "single",
+      "options": [
+        "A. $q=-\\dfrac{1}{2}$.",
+        "B. $q=2$.",
+        "C. $q=-2$.",
+        "D. $q=\\dfrac{1}{2}$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cấp số nhân $(u_n)$ có $u_1=1$ và $u_2=2$.\n- Cần tìm công bội $q$.\n❓ **Hiểu câu hỏi:**\n- Với cấp số nhân, ta có $u_2=u_1q$.\n- Do đó $q=\\dfrac{u_2}{u_1}$ nếu $u_1\\neq0$.\n🔎 **Hướng dẫn cách làm:**\n- Ta có $q=\\dfrac{u_2}{u_1}=\\dfrac{2}{1}=2$.\n- Vậy công bội của cấp số nhân là \\$2$.\n✅ **Đáp án:** Chọn B. $q=2$."
+    },
+    {
+      "id": 10,
+      "content": "Cho hình lập phương $ABCD.A'B'C'D'$. Tìm mệnh đề sai?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-ha-tinh-nam-2026-lan-1/cau-10.webp\" alt=\"Hình minh họa câu 10\" loading=\"lazy\"></figure>",
+      "chuong": "vectơ và hệ trục tọa độ trong không gian",
+      "dang": "tích vô hướng của hai vectơ trong không gian",
+      "type": "single",
+      "options": [
+        "A. $\\left(\\overrightarrow{A'A},\\overrightarrow{CB'}\\right)=45^\\circ$.",
+        "B. $\\left(\\overrightarrow{AC},\\overrightarrow{B'D'}\\right)=90^\\circ$.",
+        "C. $\\left(\\overrightarrow{AD},\\overrightarrow{A'B'}\\right)=90^\\circ$.",
+        "D. $\\left(\\overrightarrow{AB},\\overrightarrow{A'C'}\\right)=45^\\circ$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cho hình lập phương $ABCD.A'B'C'D'$.\n- Cần tìm mệnh đề sai trong 4 mệnh đề đã cho.\n❓ **Hiểu câu hỏi:**\n- Ta cần xét góc giữa các vectơ bằng các tính chất hình học không gian của hình lập phương.\n- Ý chính là đổi các vectơ về những vectơ song song với chúng trên cùng một mặt phẳng rồi nhìn góc ngay trên hình vuông.\n🔎 **Hướng dẫn cách làm:**\n- Trong hình lập phương, ta có các cặp cạnh song song: $\\overrightarrow{A'A}\\parallel\\overrightarrow{C'C}$, $\\overrightarrow{A'B'}\\parallel\\overrightarrow{AB}$, $\\overrightarrow{B'D'}\\parallel\\overrightarrow{BD}$.\n- Xét mệnh đề A: trên mặt $BCC'B'$, đường chéo $CB'$ tạo với cạnh đứng $CC'$ góc \\$45^\\circ$. Nhưng $\\overrightarrow{A'A}$ lại cùng phương và ngược hướng với $\\overrightarrow{CC'}$, nên $\\left(\\overrightarrow{A'A},\\overrightarrow{CB'}\\right)=180^\\circ-45^\\circ=135^\\circ$. Vậy mệnh đề A sai.\n- Xét mệnh đề B: vì $\\overrightarrow{B'D'}\\parallel\\overrightarrow{BD}$, mà trong hình vuông $ABCD$ thì hai đường chéo vuông góc, tức là $AC\\perp BD$, nên $\\left(\\overrightarrow{AC},\\overrightarrow{B'D'}\\right)=90^\\circ$. Mệnh đề B đúng.\n- Xét mệnh đề C: trong đáy hình vuông $ABCD$, ta có $AD\\perp AB$. Lại có $\\overrightarrow{A'B'}\\parallel\\overrightarrow{AB}$, nên $\\left(\\overrightarrow{AD},\\overrightarrow{A'B'}\\right)=90^\\circ$. Mệnh đề C đúng.\n- Xét mệnh đề D: vì $\\overrightarrow{AB}\\parallel\\overrightarrow{A'B'}$, mà trong hình vuông $A'B'C'D'$, đường chéo $A'C'$ tạo với cạnh $A'B'$ góc \\$45^\\circ$, nên $\\left(\\overrightarrow{AB},\\overrightarrow{A'C'}\\right)=45^\\circ$. Mệnh đề D đúng.\n✅ **Đáp án:** Chọn A. $\\left(\\overrightarrow{A'A},\\overrightarrow{CB'}\\right)=45^\\circ$"
+    },
+    {
+      "id": 11,
+      "content": "Trong không gian tọa độ $Oxyz$, cho mặt phẳng $(P):x-2y-4=0$, khi đó một vectơ pháp tuyến của mặt phẳng $(P)$ là",
+      "chuong": "phương pháp tọa độ trong không gian",
+      "dang": "vectơ pháp tuyến và cặp vectơ chỉ phương của mặt phẳng",
+      "type": "single",
+      "options": [
+        "A. $\\vec{n}=(1;-2;0)$.",
+        "B. $\\vec{n}=(-1;2;4)$.",
+        "C. $\\vec{n}=(-1;2;-4)$.",
+        "D. $\\vec{n}=(1;-2;-4)$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Mặt phẳng đã cho là $(P):x-2y-4=0$.\n- Cần tìm một vectơ pháp tuyến của mặt phẳng này.\n❓ **Hiểu câu hỏi:**\n- Với mặt phẳng dạng $ax+by+cz+d=0$, một vectơ pháp tuyến là $\\vec{n}=(a;b;c)$.\n- Ta chỉ cần đọc các hệ số của $x,y,z$.\n🔎 **Hướng dẫn cách làm:**\n- Trong phương trình $x-2y-4=0$, hệ số của $x,y,z$ lần lượt là \\$1,-2,0$.\n- Vì vậy một vectơ pháp tuyến của mặt phẳng là $\\vec{n}=(1;-2;0)$.\n✅ **Đáp án:** Chọn A. $\\vec{n}=(1;-2;0)$."
+    },
+    {
+      "id": 12,
+      "content": "Tập nghiệm của bất phương trình $\\log_{\\frac{1}{2}}(x-1)+3>0$ là",
+      "chuong": "hàm số mũ và hàm số lôgarit",
+      "dang": "bất phương trình lôgarit",
+      "type": "single",
+      "options": [
+        "A. $(9;+\\infty)$.",
+        "B. $(-\\infty;9)$.",
+        "C. $(1;7)$.",
+        "D. $(1;9)$."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Bất phương trình là $\\log_{\\frac{1}{2}}(x-1)+3>0$.\n- Cần tìm tập nghiệm của bất phương trình.\n❓ **Hiểu câu hỏi:**\n- Trước hết phải tìm điều kiện xác định của lôgarit.\n- Vì cơ số $\\dfrac{1}{2}<1$ nên khi đổi sang dạng mũ, chiều bất đẳng thức sẽ đổi.\n🔎 **Hướng dẫn cách làm:**\n- Điều kiện xác định là $x-1>0\\Rightarrow x>1$.\n- Từ $\\log_{\\frac{1}{2}}(x-1)+3>0$ suy ra $\\log_{\\frac{1}{2}}(x-1)>-3$.\n- Vì cơ số nhỏ hơn \\$1$ nên $x-1<\\left(\\dfrac{1}{2}\\right)^{-3}=8$.\n- Suy ra $x<9$.\n- Kết hợp với điều kiện $x>1$, ta được \\$1<x<9$, tức là $x\\in (1;9)$.\n✅ **Đáp án:** Chọn D. $(1;9)$."
+    }
+  ]
+}

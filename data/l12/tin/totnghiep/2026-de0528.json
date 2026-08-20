@@ -1,0 +1,350 @@
+{
+  "id": "l12-tin-totnghiep-2026-de0528",
+  "grade": "l12",
+  "subjectSlug": "tin",
+  "examType": "totnghiep",
+  "year": 2026,
+  "code": "Mã đề 0528",
+  "title": "Tin học 12 - Tốt nghiệp THPT 2026 - Mã đề 0528",
+  "duration": 50,
+  "answerSource": "official",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1. Lựa chọn ngôn ngữ lập trình Python hoặc C++ để tìm hiểu đoạn chương trình sau, sau khi thực hiện, giá trị nào sau đây được hiển thị trên màn hình?&lt;table class=\"code-compare\"&gt;&lt;tr&gt;&lt;th&gt;Python&lt;/th&gt;&lt;th&gt;C++&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;pre&gt;x, a, b = 1, 2, 6\nfor i in range(a, b): if (x < i): x = x * i else: x = x // i\nprint(x)&lt;/pre&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;int x = 1, a = 2, b = 6;\nfor (int i = a; i < b; i++) { if (x < i) x = x * i; else x = x / i;\n}\ncout &lt;&lt; x;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;",
+      "options": [
+        "A. 2",
+        "B. 5",
+        "C. 6",
+        "D. 1"
+      ],
+      "answer": "B",
+      "chuong": "Lập trình Python/C++",
+      "dang": "Mô phỏng chạy chương trình (vòng lặp, rẽ nhánh)"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2. Nhận định nào sau đây đúng khi nói về tác động của Trí tuệ nhân tạo (AI) đối với thị trường lao động?",
+      "options": [
+        "A. AI thúc đẩy tự động hóa các công việc có tính lặp lại.",
+        "B. AI quyết định độ tuổi lao động của con người.",
+        "C. Lao động phổ thông bị AI thay thế hoàn toàn.",
+        "D. Các công việc đòi hỏi sự thấu hiểu cảm xúc bị AI thay thế."
+      ],
+      "answer": "A",
+      "chuong": "Máy tính và xã hội tri thức",
+      "dang": "Tác động của AI đối với thị trường lao động"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3. Việc chia sẻ một thư mục trên máy tính với quyền đọc cho một hoặc một nhóm người dùng trên các máy tính khác trong cùng mạng LAN có các thao tác sau: (1) Thiết lập quyền đọc cho người dùng. (2) Tìm và chọn thư mục cần chia sẻ trên máy tính. (3) Mở ứng dụng quản lí tệp. (4) Chọn tên một hoặc nhóm người dùng cần được chia sẻ. Phương án nào sau đây nêu đúng thứ tự thực hiện các thao tác trên?",
+      "options": [
+        "A. (1), (4), (2), (3).",
+        "B. (3), (2), (4), (1).",
+        "C. (3), (1), (2), (4).",
+        "D. (1), (2), (4), (3)."
+      ],
+      "answer": "B",
+      "chuong": "Mạng máy tính và Internet",
+      "dang": "Chia sẻ tài nguyên trong mạng LAN"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4. Tiêu đề của một trang web được khai báo bởi phần tử HTML nào sau đây?",
+      "options": [
+        "A. h1",
+        "B. head",
+        "C. th",
+        "D. title"
+      ],
+      "answer": "D",
+      "chuong": "Thiết kế trang web bằng HTML/CSS",
+      "dang": "Phần tử HTML cơ bản"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5. Bảng dữ liệu lưu trữ thông tin nhập hàng của một cửa hàng có các cột sau: Mã hóa đơn, Mã hàng, Ngày nhập, Số lượng, Giá nhập. Cần cập nhật dữ liệu cho bảng này trong trường hợp nào sau đây?",
+      "options": [
+        "A. Thống kê số lượng mã hàng được nhập trước ngày 20/11/2025.",
+        "B. Bổ sung các mặt hàng được nhập vào ngày 20/11/2025.",
+        "C. Tìm các mã hàng có giá nhập bằng một giá trị cho trước.",
+        "D. Tính và đưa ra giá nhập trung bình của các mặt hàng."
+      ],
+      "answer": "B",
+      "chuong": "Cơ sở dữ liệu",
+      "dang": "Các thao tác khai thác/cập nhật CSDL"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6. Phương án nào sau đây chỉ ra thao tác khai thác cơ sở dữ liệu?",
+      "options": [
+        "A. Chỉnh sửa.",
+        "B. Thêm mới.",
+        "C. Tìm kiếm.",
+        "D. Xóa bỏ."
+      ],
+      "answer": "C",
+      "chuong": "Cơ sở dữ liệu",
+      "dang": "Các thao tác khai thác/cập nhật CSDL"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7. Phương án nào sau đây nêu đúng đoạn mã HTML dùng để chèn ảnh từ tệp anhtotnghiep.jpg với chiều rộng và chiều cao tương ứng là 800 và 300 pixel vào một trang web, biết rằng tệp ảnh nằm trong cùng thư mục với tệp HTML?",
+      "options": [
+        "A. &lt;img href=\"anhtotnghiep\" width=\"800\" height=\"300\"&gt;",
+        "B. &lt;img src=\"anhtotnghiep\" width=\"800px\" height=\"300px\"&gt;",
+        "C. &lt;img href=\"anhtotnghiep.jpg\" width=\"800\" height=\"300\"&gt;",
+        "D. &lt;img src=\"anhtotnghiep.jpg\" width=\"800\" height=\"300\"&gt;"
+      ],
+      "answer": "D",
+      "chuong": "Thiết kế trang web bằng HTML/CSS",
+      "dang": "Chèn ảnh - thuộc tính src"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8. Chị B nhận được cuộc điện thoại từ một người tự xưng là nhân viên hải quan. Người này thông báo có một món quà giá trị cao được gửi cho chị từ nước ngoài, đồng thời yêu cầu chị nộp thuế bằng cách chuyển ngay cho hải quan theo số tài khoản được cung cấp để nhận món quà đó. Để ứng xử an toàn trong tình huống này, chị B KHÔNG nên thực hiện hành động nào sau đây?",
+      "options": [
+        "A. Thanh toán thuế theo yêu cầu mà không xác minh thông tin.",
+        "B. Chia sẻ thông tin về cuộc gọi và xin tư vấn từ người thân.",
+        "C. Liên lạc trực tiếp với cơ quan hải quan để xác minh thông tin.",
+        "D. Chất vấn người gọi một cách thận trọng về món quà tặng."
+      ],
+      "answer": "A",
+      "chuong": "Đạo đức, pháp luật và văn hóa trong môi trường số",
+      "dang": "Nhận diện và ứng xử với lừa đảo trực tuyến"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "content": "Câu 9. Cho các bộ chọn CSS sau:&lt;pre class=\"q-html-code\"&gt;.dong {font-size: 30px; color: green; border-style: dotted;}\n#doan {font-size: 30px; color: green; border-style: solid;}&lt;/pre&gt;Đoạn mã HTML nào sau đây áp dụng một bộ chọn CSS trên để định dạng dòng chữ \"Chúc em thi tốt!\" với cỡ chữ 30 pixel, màu xanh lá cây và đường viền nét liền bao quanh?",
+      "options": [
+        "A. &lt;p class=\"doan\"&gt;Chúc em thi tốt!&lt;/p&gt;",
+        "B. &lt;p class=\"dong\"&gt;Chúc em thi tốt!&lt;/p&gt;",
+        "C. &lt;p id=\"dong\"&gt;Chúc em thi tốt!&lt;/p&gt;",
+        "D. &lt;p id=\"doan\"&gt;Chúc em thi tốt!&lt;/p&gt;"
+      ],
+      "answer": "D",
+      "chuong": "Thiết kế trang web bằng HTML/CSS",
+      "dang": "Bộ chọn CSS (class, id)"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "content": "Câu 10. Lĩnh vực nào sau đây có nhiệm vụ giúp máy tính hiểu và xử lí được ngôn ngữ tự nhiên của con người?",
+      "options": [
+        "A. Điều khiển rô-bốt.",
+        "B. Thị giác máy tính.",
+        "C. Học máy.",
+        "D. Xử lí ngôn ngữ tự nhiên."
+      ],
+      "answer": "D",
+      "chuong": "Máy tính và xã hội tri thức",
+      "dang": "Các lĩnh vực của Trí tuệ nhân tạo"
+    },
+    {
+      "id": 11,
+      "type": "single",
+      "content": "Câu 11. Phương án nào sau đây chỉ ra ưu điểm của giao tiếp trên không gian mạng?",
+      "options": [
+        "A. Tạo cơ hội mở rộng các mối quan hệ xã hội.",
+        "B. Không phụ thuộc vào thiết bị công nghệ.",
+        "C. Đảm bảo tin cậy và bảo mật thông tin tuyệt đối.",
+        "D. Luôn quan sát được thái độ của người nói."
+      ],
+      "answer": "A",
+      "chuong": "Đạo đức, pháp luật và văn hóa trong môi trường số",
+      "dang": "Giao tiếp và ứng xử trên không gian mạng"
+    },
+    {
+      "id": 12,
+      "type": "single",
+      "content": "Câu 12. Cho đoạn mã HTML sau:&lt;pre class=\"q-html-code\"&gt;&lt;ol start=\"5\"&gt;&lt;li&gt;Khoa học máy tính&lt;/li&gt;&lt;li&gt;Tin học ứng dụng&lt;/li&gt;&lt;/ol&gt;&lt;/pre&gt;Phương án nào sau đây mô tả đúng cách đánh thứ tự của danh sách được tạo bởi đoạn mã trên?",
+      "options": [
+        "A. Kiểu số nguyên, bắt đầu từ 5.",
+        "B. Kiểu số La Mã in hoa, bắt đầu từ V.",
+        "C. Kiểu chữ cái in hoa, bắt đầu từ E.",
+        "D. Kiểu số La Mã in thường, bắt đầu từ v."
+      ],
+      "answer": "A",
+      "chuong": "Thiết kế trang web bằng HTML/CSS",
+      "dang": "Danh sách có thứ tự (ol/li)"
+    },
+    {
+      "id": 13,
+      "type": "single",
+      "content": "Câu 13. Phương án nào sau đây liệt kê đơn vị đo dung lượng bộ nhớ theo thứ tự tăng dần?",
+      "options": [
+        "A. Terabyte, Megabyte, Gigabyte.",
+        "B. Gigabyte, Megabyte, Terabyte.",
+        "C. Megabyte, Gigabyte, Terabyte.",
+        "D. Megabyte, Terabyte, Gigabyte."
+      ],
+      "answer": "C",
+      "chuong": "Hệ thống máy tính",
+      "dang": "Đơn vị đo lường thông tin"
+    },
+    {
+      "id": 14,
+      "type": "single",
+      "content": "Câu 14. Giao thức TCP KHÔNG có vai trò nào sau đây?",
+      "options": [
+        "A. Qui định cách thức định tuyến cho gói tin khi truyền.",
+        "B. Đảm bảo dữ liệu được truyền tải tin cậy và chính xác.",
+        "C. Cung cấp cơ chế phát hiện và xử lí sai sót khi truyền dữ liệu.",
+        "D. Qui định việc phân chia và đánh số thứ tự các gói tin."
+      ],
+      "answer": "A",
+      "chuong": "Mạng máy tính và Internet",
+      "dang": "Giao thức mạng TCP/IP"
+    },
+    {
+      "id": 15,
+      "type": "single",
+      "content": "Câu 15. Ứng dụng nào sau đây là một Chatbot có sử dụng Trí tuệ nhân tạo?",
+      "options": [
+        "A. Unikey.",
+        "B. Notepad.",
+        "C. Gemini.",
+        "D. Calculator."
+      ],
+      "answer": "C",
+      "chuong": "Máy tính và xã hội tri thức",
+      "dang": "Ứng dụng của AI (chatbot)"
+    },
+    {
+      "id": 16,
+      "type": "single",
+      "content": "Câu 16. Nếu thấy bài đăng trên mạng xã hội kêu gọi cộng đồng quyên góp để ủng hộ một hoàn cảnh khó khăn, hành động nào sau đây vừa đảm bảo an toàn vừa có tính nhân văn?",
+      "options": [
+        "A. Xem qua và không quan tâm bài đăng.",
+        "B. Tìm hiểu kĩ nguồn tin trước khi quyên góp.",
+        "C. Lập tức chia sẻ bài đăng lên trang cá nhân.",
+        "D. Bình luận không ủng hộ người đăng tin."
+      ],
+      "answer": "B",
+      "chuong": "Đạo đức, pháp luật và văn hóa trong môi trường số",
+      "dang": "An toàn và nhân văn trên mạng xã hội"
+    },
+    {
+      "id": 17,
+      "type": "single",
+      "content": "Câu 17. Lựa chọn ngôn ngữ lập trình Python hoặc C++ để tìm hiểu đoạn chương trình sau, sau khi thực hiện, biến T có giá trị nào sau đây?&lt;table class=\"code-compare\"&gt;&lt;tr&gt;&lt;th&gt;Python&lt;/th&gt;&lt;th&gt;C++&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;pre&gt;L = [4, 6, 2]\nn, T = 3, 0\nfor i in range(0, n): k = 1 for j in range(0, i + 1): T = T + k * L[j] k = -1 * k&lt;/pre&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;int n = 3, T = 0, L[] = {4, 6, 2};\nfor (int i = 0; i < n; i++) { int k = 1; for (int j = 0; j < i + 1; j++) { T = T + k * L[j]; k = -1 * k; }\n}&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;",
+      "options": [
+        "A. -4.",
+        "B. 2.",
+        "C. -2.",
+        "D. 4."
+      ],
+      "answer": "B",
+      "chuong": "Lập trình Python/C++",
+      "dang": "Mô phỏng chạy chương trình (vòng lặp lồng nhau)"
+    },
+    {
+      "id": 18,
+      "type": "single",
+      "content": "Câu 18. Cho đoạn mã HTML và CSS sau:&lt;pre class=\"q-html-code\"&gt;&lt;head&gt;&lt;style&gt;table {border: 1px solid red;}&lt;/style&gt;&lt;/head&gt;\n&lt;body&gt;&lt;table&gt; &lt;tr&gt;&lt;td&gt;Sản phẩm&lt;/td&gt;&lt;td&gt;Đơn giá (VNĐ)&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Máy tính xách tay&lt;/td&gt;&lt;td&gt;7 000 000&lt;/td&gt;&lt;/tr&gt;\n&lt;/table&gt;&lt;/body&gt;&lt;/pre&gt;Bảng được tạo bởi đoạn mã trên có đặc điểm nào sau đây?",
+      "options": [
+        "A. Viền của bảng có màu đỏ.",
+        "B. Viền của dòng tiêu đề có màu đỏ.",
+        "C. Viền của các ô có màu đỏ.",
+        "D. Viền của bảng và ô đều có màu đỏ."
+      ],
+      "answer": "A",
+      "chuong": "Thiết kế trang web bằng HTML/CSS",
+      "dang": "CSS cho bảng (table)"
+    },
+    {
+      "id": 19,
+      "type": "single",
+      "content": "Câu 19. Phương án nào sau đây mô tả đặc trưng của Trí tuệ nhân tạo tạo sinh?",
+      "options": [
+        "A. Tìm kiếm và trả về thông tin có sẵn từ cơ sở dữ liệu.",
+        "B. Xác thực danh tính người dùng thông qua sinh trắc học.",
+        "C. Tạo ra các nội dung mới như văn bản, hình ảnh, mã nguồn.",
+        "D. Phân tích dữ liệu để đưa ra dự đoán hoặc phân loại đối tượng."
+      ],
+      "answer": "C",
+      "chuong": "Máy tính và xã hội tri thức",
+      "dang": "Trí tuệ nhân tạo tạo sinh"
+    },
+    {
+      "id": 20,
+      "type": "single",
+      "content": "Câu 20. Lựa chọn ngôn ngữ lập trình Python hoặc C++ để tìm hiểu đoạn chương trình sau:&lt;table class=\"code-compare\"&gt;&lt;tr&gt;&lt;th&gt;Python&lt;/th&gt;&lt;th&gt;C++&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;pre&gt;n = 1\nwhile n % a != 0 or n % b != 0: n = n + 1&lt;/pre&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;int n = 1;\nwhile (n % a != 0 || n % b != 0) n = n + 1;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;Giả sử a và b là hai số nguyên dương khác nhau, sau khi thực hiện đoạn chương trình trên, n là số nguyên dương thỏa mãn tính chất nào sau đây?",
+      "options": [
+        "A. Nhỏ nhất và chia hết cho a hoặc b.",
+        "B. Lớn nhất và là ước số của cả a và b.",
+        "C. Lớn nhất và là ước số của a hoặc b.",
+        "D. Nhỏ nhất và chia hết cho cả a và b."
+      ],
+      "answer": "D",
+      "chuong": "Lập trình Python/C++",
+      "dang": "Mô phỏng chạy chương trình (vòng lặp while)"
+    },
+    {
+      "id": 21,
+      "type": "single",
+      "content": "Câu 21. Người quản trị cơ sở dữ liệu cần làm công việc nào sau đây để xác định quyền truy cập đối với từng nhóm người dùng khác nhau?",
+      "options": [
+        "A. Điều chỉnh cấu trúc cơ sở dữ liệu.",
+        "B. Sao lưu dự phòng dữ liệu.",
+        "C. Phân quyền truy cập dữ liệu.",
+        "D. Tìm kiếm dữ liệu theo yêu cầu."
+      ],
+      "answer": "C",
+      "chuong": "Cơ sở dữ liệu",
+      "dang": "Quản trị và phân quyền CSDL"
+    },
+    {
+      "id": 22,
+      "type": "single",
+      "content": "Câu 22. Người làm nghề lập trình nhất thiết phải có khả năng nào sau đây?",
+      "options": [
+        "A. Phân tích số liệu thống kê.",
+        "B. Bảo trì cơ sở dữ liệu.",
+        "C. Bảo trì máy tính.",
+        "D. Thiết kế và cài đặt thuật toán."
+      ],
+      "answer": "D",
+      "chuong": "Hướng nghiệp với Tin học",
+      "dang": "Yêu cầu năng lực nghề CNTT"
+    },
+    {
+      "id": 23,
+      "type": "single",
+      "content": "Câu 23. Phương án nào sau đây nêu đúng công việc chính của người làm nghề sửa chữa và bảo trì máy tính?",
+      "options": [
+        "A. Quản lí và duy trì một hệ thống thông tin.",
+        "B. Xây dựng, phát triển hệ thống mạng máy tính.",
+        "C. Cải thiện hiệu suất hoạt động hệ thống mạng.",
+        "D. Lắp đặt, sửa chữa phần cứng máy tính."
+      ],
+      "answer": "D",
+      "chuong": "Hướng nghiệp với Tin học",
+      "dang": "Các nhóm nghề trong CNTT"
+    },
+    {
+      "id": 24,
+      "type": "single",
+      "content": "Câu 24. Nghề nào sau đây thuộc nhóm nghề dịch vụ trong ngành Công nghệ thông tin?",
+      "options": [
+        "A. Sửa chữa và bảo trì máy tính.",
+        "B. Bảo mật hệ thống thông tin.",
+        "C. Quản trị cơ sở dữ liệu.",
+        "D. Quản trị mạng máy tính."
+      ],
+      "answer": "A",
+      "chuong": "Hướng nghiệp với Tin học",
+      "dang": "Các nhóm nghề trong CNTT"
+    }
+  ]
+}

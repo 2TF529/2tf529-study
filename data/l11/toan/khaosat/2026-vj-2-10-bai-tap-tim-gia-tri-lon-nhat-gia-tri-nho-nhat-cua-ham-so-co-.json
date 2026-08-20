@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-10-bai-tap-tim-gia-tri-lon-nhat-gia-tri-nho-nhat-cua-ham-so-co-",
+  "sourceId": "vietjack:2-10-bai-tap-tim-gia-tri-lon-nhat-gia-tr",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.10 Bài tập Tìm giá trị lớn nhất – giá trị nhỏ nhất của hàm số (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Hàm số nào sau đây có tập giá trị là ℝ?",
+      "options": [
+        "A. y = sin x;",
+        "B. y = tan2x;",
+        "C. y = cos2x;",
+        "D. y = – sin2x."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải: Đáp án đúng là: B Trong các đáp án chỉ có hàm số y = tan2x có tập giá trị là ℝ, các hàm số còn lại đều có tập giá trị là [– 1; 1]."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Tập giá trị của hàm số y = 2cosx là",
+      "options": [
+        "A. T = [–2; 2];",
+        "B. T = [–1; 1];",
+        "C. T = ℝ;",
+        "D. T = (–1; 1)."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A ∀ x ∈ ℝ ta có: –1 ≤ cosx ≤ 1 ⇔ –2 ≤ 2cosx ≤ 2. Vậy max ℝ y = 2 đạt được khi cosx = 1 ⇔ x = k2π, k ∈ ℤ. min ℝ y = − 2 đạt được khi cosx = –1 ⇔ x = π + k2π, k ∈ ℤ. Do đó, tập giá trị của hàm số y = 2cosx là T = [–2; 2]."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Xét bốn mệnh đề sau: i) Trên ℝ, hàm số y = cosx có tập giá trị là [–1; 1]. ii) Trên 0 ; π 2 , hàm số y = cosx có tập giá trị là [0; 1]. iii) Trên 0 ; 3 π 4 , hàm số y = cosx có tập giá trị là 0 ; 2 2 . iv) Trên 0 ; π 2 , hàm số y = cosx có tập giá trị là [0; 1). Số phát biểu đúng là",
+      "options": [
+        "A. 1;",
+        "B. 2;",
+        "C. 3;",
+        "D. 4."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải: Đáp án đúng là: C Quan sát đồ thị hàm số y = cos x, ta thấy các mệnh đề i), ii) và iv) đúng. Trên 0 ; 3 π 4 , hàm số y = cosx có tập giá trị là − 2 2 ; 1 . Vậy iii) sai. Do đó, có 3 phát biểu đúng."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Gọi M và m lần lượt là giá trị lớn nhất và giá trị nhỏ nhất của hàm số y = 1 + sin x − 3 . Khẳng định nào dưới đây là đúng?",
+      "options": [
+        "A. M = 3 − 2 , m = − 2 ;",
+        "B. M = 3 + 2 , m = 3 ;",
+        "C. M = 3 + 2 , m = 2 ;",
+        "D. M = 2 − 3 , m = − 3 ."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D ∀ x ∈ ℝ ta có: –1 ≤ sinx ≤ 1 ⇔ 0 ≤ sinx + 1 ≤ 2 \\( \\Leftrightarrow 0 \\le \\sqrt {{\\mathop{\\rm s}\\nolimits} {\\rm{inx}} + 1} \\le \\sqrt 2 \\) \\( \\Leftrightarrow - 3 \\le \\sqrt {\\sin x + 1} - 3 \\le \\sqrt 2 - 3\\) . Suy ra: \\(\\mathop {\\max }\\limits_\\mathbb{R} y = \\sqrt 2 - 3\\) đạt được khi sinx = 1 \\( \\Leftrightarrow x = \\frac{\\pi }{2} + k2\\pi ,k \\in \\mathbb{Z}\\) . \\(\\mathop {\\min }\\limits_\\mathbb{R} y = - 3\\) đạt được khi sinx = –1 \\[ \\Leftrightarrow x = - \\frac{\\pi }{2} + k2\\pi ,k \\in \\mathbb{Z}\\] . Vậy \\(M = \\sqrt 2 - 3,m = - 3\\) ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Tập giá trị T của hàm số y = 4cos 2 2x + 3 là",
+      "options": [
+        "A. T = [3; 7];",
+        "B. T = [0; 7];",
+        "C. T = ℝ;",
+        "D. T = [0; 3]."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A ∀ x ∈ ℝ ta có: 0 ≤ cos 2 2x ≤ 1 ⇔ 0 ≤ 4cos 2 2x ≤ 4 ⇔ 3 ≤ 4cos 2 2x + 3 ≤ 7 ⇔ 3 ≤ y ≤ 7. Suy ra: max ℝ y = 7 đạt được khi cos 2 2x = 1 ⇔ sin 2 x = 0 ⇔ x = k π 2 , k ∈ ℤ . min ℝ y = 3 đạt được khi cos2x = 0 ⇔ x = π 4 + k π 2 , k ∈ ℤ . Vậy tập giá trị của hàm số đã cho là T = [3; 7]."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Xét bốn mệnh đề sau: i) Trên ℝ, hàm số y = sinx có tập giá trị là [–1; 1]. ii) Trên 0 ; π 2 , hàm số y = sinx có tập giá trị là [–1; 1]. iii) Trên 0 ; π 2 , hàm số y =sinx có tập giá trị là [0; 1]. iv) Trên 0 ; π 2 , hàm số y = sinx có tập giá trị là (0; 1]. Số phát biểu đúng là",
+      "options": [
+        "A. 1;",
+        "B. 2;",
+        "C. 3;",
+        "D. 4."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải: Đáp án đúng là: B Quan sát đồ thị hàm số y = sinx, ta thấy các mệnh đề i), iii) đúng. Trên 0 ; π 2 , hàm số y = sinx có tập giá trị là (0; 1]. Vậy ii) Sai. Trên 0 ; π 2 , hàm số y = sinx có tập giá trị là [0; 1). Vậy iv) sai. Do đó, có 2 phát biểu đúng."
+    }
+  ]
+}

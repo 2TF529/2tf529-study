@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-5-20-cau-trac-nghiem-toan-11-chan-troi-sang-tao-bai-4-phuong-trin",
+  "sourceId": "vietjack:5-20-cau-trac-nghiem-toan-11-chan-troi-s",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "5.20 câu trắc nghiệm Toán 11 Chân trời sáng tạo Bài 4. Phương trình, bất phương trình mũ và logarit (Đúng sai - Trả lời ngắn) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Nghiệm của phương trình 3 x – 1 = 27 là",
+      "options": [
+        "A. x = 4.",
+        "B. x = 3.",
+        "C. x = 2.",
+        "D. x = 1."
+      ],
+      "answer": "A",
+      "note": "A 3 x – 1 = 27 Û x – 1 = 3 Û x = 4. Vậy nghiệm của phương trình là x = 4."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Tập nghiệm S của bất phương trình \\({\\log _{\\frac{1}{2}}}\\left( {x + 1} \\right) < {\\log _{\\frac{1}{2}}}\\left( {2x - 1} \\right)\\) là",
+      "options": [
+        "A. S = (2; + ∞ ).",
+        "B. ( −∞ ; 2).",
+        "C. \\(S = \\left( {\\frac{1}{2};2} \\right)\\) .",
+        "D. \\(S = \\left( { - 1;2} \\right)\\) ."
+      ],
+      "answer": "C",
+      "note": "C Điều kiện \\(\\left\\{ \\begin{array}{l}x + 1 > 0\\\\2x - 1 > 0\\end{array} \\right.\\)\\( \\Leftrightarrow x > \\frac{1}{2}\\). \\({\\log _{\\frac{1}{2}}}\\left( {x + 1} \\right) < {\\log _{\\frac{1}{2}}}\\left( {2x - 1} \\right)\\)\\( \\Leftrightarrow x + 1 > 2x - 1\\)\\( \\Leftrightarrow x < 2\\). Kết hợp với điều kiện, ta có tập nghiệm của bất phương trình là \\(S = \\left( {\\frac{1}{2};2} \\right)\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Nghiệm của phương trình log 2 (x – 1) = 3 là",
+      "options": [
+        "A. 7.",
+        "B. 6.",
+        "C. 10.",
+        "D. 9."
+      ],
+      "answer": "D",
+      "note": "D Điều kiện: x – 1 > 0 Û x > 1. log 2 (x – 1) = 3 Û x – 1 = 8 Û x = 9 (thỏa mãn). Vậy nghiệm của phương trình là x = 9."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Nghiệm của bất phương trình \\({\\left( {\\frac{1}{3}} \\right)^{2x - 3}} < 9\\) là",
+      "options": [
+        "A. \\(x > \\frac{1}{2}\\) .",
+        "B. x > 2.",
+        "C. x < 2.",
+        "D. \\(x < \\frac{1}{2}\\) ."
+      ],
+      "answer": "A",
+      "note": "A \\({\\left( {\\frac{1}{3}} \\right)^{2x - 3}} < 9\\)\\( \\Leftrightarrow {3^{ - 2x + 3}} < {3^2}\\)\\( \\Leftrightarrow - 2x + 3 < 2\\)\\( \\Leftrightarrow x > \\frac{1}{2}\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Tập nghiệm của bất phương trình \\({3^{{x^2} - 2x}} > 27\\) là",
+      "options": [
+        "A. (3; + ∞ ).",
+        "B. ( − 1; 3).",
+        "C. ( −∞ ; − 1) È (3; + ∞ ).",
+        "D. ( −∞ ; − 1)."
+      ],
+      "answer": "C",
+      "note": "C \\({3^{{x^2} - 2x}} > 27\\)\\( \\Leftrightarrow {3^{{x^2} - 2x}} > {3^3}\\)\\( \\Leftrightarrow {x^2} - 2x > 3\\)\\( \\Leftrightarrow {x^2} - 2x - 3 > 0\\)\\( \\Leftrightarrow \\left[ \\begin{array}{l}x < - 1\\\\x > 3\\end{array} \\right.\\) . Vậy tập nghiệm của bất phương trình là S = (−∞; −1) È (3; +∞)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Phương trình log 2 (3x – 2) = 2 có nghiệm là",
+      "options": [
+        "A. \\(x = \\frac{4}{3}\\) .",
+        "B. \\(x = \\frac{2}{3}\\) .",
+        "C. x = 1.",
+        "D. x = 2."
+      ],
+      "answer": "D",
+      "note": "D Điều kiện 3x – 2 > 0 Û \\(x > \\frac{2}{3}\\). log 2 (3x – 2) = 2 Û 3x – 2 = 4 Û x = 2 (thỏa mãn). Vậy nghiệm của phương trình là x = 2."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Giải phương trình 4 2x + 3 = 8 4 – x .",
+      "options": [
+        "A. \\(x = \\frac{6}{7}\\) .",
+        "B. \\(x = \\frac{2}{3}\\) .",
+        "C. x = 2.",
+        "D. \\(x = \\frac{4}{5}\\) ."
+      ],
+      "answer": "A",
+      "note": "A 4 2x + 3 = 8 4 – x Û 2 4x + 6 = 2 12 – 3x Û 4x + 6 = 12 – 3x Û x = \\(\\frac{6}{7}\\). Vậy nghiệm của phương trình là \\(x = \\frac{6}{7}\\)."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Số nghiệm của phương trình \\({2^{{x^2} - 4x + 4}} = {4^{2{x^2} - 3x + 2}}\\) là",
+      "options": [
+        "A. 0.",
+        "B. 1.",
+        "C. Vô số.",
+        "D. 2."
+      ],
+      "answer": "D",
+      "note": "\\({2^{{x^2} - 4x + 4}} = {4^{2{x^2} - 3x + 2}}\\)\\( \\Leftrightarrow {2^{{x^2} - 4x + 4}} = {2^{4{x^2} - 6x + 4}}\\)\\( \\Leftrightarrow {x^2} - 4x + 4 = 4{x^2} - 6x + 4\\)\\( \\Leftrightarrow 3{x^2} - 2x = 0\\) \\( \\Leftrightarrow \\left[ \\begin{array}{l}x = 0\\\\x = \\frac{2}{3}\\end{array} \\right.\\) . Vậy phương trình có hai nghiệm."
+    }
+  ]
+}

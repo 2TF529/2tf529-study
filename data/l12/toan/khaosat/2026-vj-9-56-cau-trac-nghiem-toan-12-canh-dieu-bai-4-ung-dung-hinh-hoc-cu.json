@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-9-56-cau-trac-nghiem-toan-12-canh-dieu-bai-4-ung-dung-hinh-hoc-cu",
+  "sourceId": "vietjack:9-56-cau-trac-nghiem-toan-12-canh-dieu-b",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "9.56 câu trắc nghiệm Toán 12 Cánh diều Bài 4: Ứng dụng hình học của tích phân có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho hai hàm số \\(f(x)\\) và \\(g(x)\\) liên tục trên \\(\\left[ {a\\,;\\,b} \\right]\\) . Diện tích hình phẳng giới hạn bởi đồ thị của các hàm số \\(y = f(x)\\) , \\(y = g(x)\\) và các đường thẳng \\(x = a\\) , \\(x = b\\) bằng",
+      "options": [
+        "A. \\(\\left| {\\int\\limits_a^b {\\left[ {f(x) - g(x)} \\right]{\\rm{d}}x} } \\right|\\) .",
+        "B. \\(\\int\\limits_a^b {\\left| {f(x) + g(x)} \\right|{\\rm{d}}x} \\) .",
+        "C. \\(\\int\\limits_a^b {\\left| {f(x) - g(x)} \\right|{\\rm{d}}x} \\) .",
+        "D. \\(\\int\\limits_a^b {\\left[ {f(x) - g(x)} \\right]{\\rm{d}}x} \\) ."
+      ],
+      "answer": "C",
+      "note": "Chọn C Theo lý thuyết thì diện tích hình phẳng được giới hạn bởi đồ thị của các đường \\(y = f(x)\\) , \\(y = g(x)\\) , \\(x = a\\) , \\(x = b\\) được tính theo công thức \\(S = \\int\\limits_a^b {\\left| {f\\left( x \\right) - g\\left( x \\right)} \\right|{\\rm{d}}x} \\) ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Gọi \\(S\\) là diện tích của hình phẳng giới hạn bởi các đường \\(y = {3^x}\\), \\(y = 0\\),\\(x = 0\\),\\(x = 2\\). Mệnh đề nào dưới đây đúng?",
+      "options": [
+        "A. \\(S = \\int\\limits_0^2 {{3^x}} dx\\)",
+        "B. \\(S = \\pi \\int\\limits_0^2 {{3^{2x}}} dx\\).",
+        "C. \\(S = \\pi \\int\\limits_0^2 {{3^x}} dx\\).",
+        "D. \\(S = \\int\\limits_0^2 {{3^{2x}}} dx\\)."
+      ],
+      "answer": "A",
+      "note": "Chọn A Diện tích hình phẳng đã cho được tính bởi công thức \\(S = \\int\\limits_0^2 {{3^x}} dx\\)"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Diện tích hình phẳng giới hạn bởi đồ thị hàm số \\(y = {\\left( {x - 2} \\right)^2} - 1\\) , trục hoành và hai đường thẳng \\(x = 1,\\,x = 2\\) bằng",
+      "options": [
+        "A. \\(\\frac{2}{3}\\) .",
+        "B. \\(\\frac{3}{2}\\) .",
+        "C. \\(\\frac{1}{3}\\) .",
+        "D. \\(\\frac{7}{3}\\) ."
+      ],
+      "answer": "A",
+      "note": "Chọn A Ta có: \\(S = \\int\\limits_1^2 {\\left| {{{\\left( {x - 2} \\right)}^2} - 1} \\right|{\\rm{d}}x} = \\int\\limits_1^2 {\\left| {{x^2} - 4x + 3} \\right|{\\rm{d}}x = } \\left| {\\int\\limits_1^2 {\\left( {{x^2} - 4x + 3} \\right){\\rm{d}}x} } \\right| = \\frac{2}{3}\\) ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Tính diện tích \\(S\\) hình phẳng giới hạn bởi các đường \\(y = {x^2} + 1,\\,x = - 1,\\,x = 2\\) và trục hoành.",
+      "options": [
+        "A. \\(S = 6\\) .",
+        "B. \\(S = 16\\) .",
+        "C. \\(S = \\frac{{13}}{6}\\) .",
+        "D. \\(S = 13\\) ."
+      ],
+      "answer": "A",
+      "note": "Chọn A Ta có: \\(S = \\int\\limits_{ - 1}^2 {\\left| {{x^2} + 1} \\right|} \\,{\\rm{d}}x = \\int\\limits_{ - 1}^2 {\\left( {{x^2} + 1} \\right)} \\,{\\rm{d}}x = 6\\) ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Gọi \\(S\\) là diện tích hình phẳng giới hạn bởi các đường \\(y = {x^2} + 5\\),\\(y = 6x\\), \\(x = 0\\),\\(x = 1\\). Tính \\(S\\).",
+      "options": [
+        "A. \\(\\frac{4}{3}\\)",
+        "B. \\(\\frac{7}{3}\\)",
+        "C. \\(\\frac{8}{3}\\)",
+        "D. \\(\\frac{5}{3}\\)"
+      ],
+      "answer": "B",
+      "note": "Chọn B Phương trình hoành độ giao điểm: \\({x^2} + 5 = 6x \\Leftrightarrow x = 5;x = 1\\). Diện tích hình phẳng cần tìm: \\(S = \\int\\limits_0^1 {\\left| {{x^2} - 6x + 5} \\right|{\\rm{d}}x} = \\frac{7}{3}\\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Diện tích hình phẳng giới hạn bởi đồ thị các hàm số \\[y = \\ln x,\\] \\[y = 1\\] và hai đường thẳng \\[x = 1,x = e\\] bằng",
+      "options": [
+        "A. \\({e^2}\\) .",
+        "B. \\[e + 2\\] .",
+        "C. \\[2e\\] .",
+        "D. \\[e - 2\\] ."
+      ],
+      "answer": "D",
+      "note": "Chọn D \\[S = \\int\\limits_1^e {\\left| {\\ln x - 1} \\right|} dx = \\left| {\\int\\limits_1^e {\\left( {\\ln x - 1} \\right)dx} } \\right| = \\left| {\\left. {x\\left( {\\ln x - 1} \\right)} \\right|_{\\left. 1 \\right|}^e - \\int\\limits_1^e {dx} } \\right| = \\left| {1 - \\left. x \\right|_1^e} \\right| = \\left| {1 - \\left( {e - 1} \\right)} \\right| = \\left| {2 - e} \\right| = e - 2\\]"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Diện tích hình phẳng giới hạn bởi đồ thị của hàm số \\(y = 4x - {x^2}\\) , \\(y = 2x\\) và hai đường thẳng \\[x = 1,x = e\\] bằng",
+      "options": [
+        "A. \\(4\\) .",
+        "B. \\(\\frac{{20}}{3}\\) .",
+        "C. \\(\\frac{4}{3}\\) .",
+        "D. \\(\\frac{{16}}{3}\\)"
+      ],
+      "answer": "C",
+      "note": "Chọn C diện tích hình phẳng cần tìm là \\[S = \\int\\limits_0^2 {\\left| {{x^2} - 2x} \\right|{\\rm{d}}x} = \\int\\limits_0^2 {\\left( {2x - {x^2}} \\right){\\rm{d}}x} = \\left. {\\left( {{x^2} - \\frac{{{x^3}}}{3}} \\right)} \\right|_0^2 = \\frac{4}{3}\\] ."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Tính diện tích \\(S\\) của hình phẳng giới hạn bởi các đường \\(y = {x^2} - 2x\\) , \\(y = 0\\) , \\(x = - 10\\) , \\(x = 10\\) .",
+      "options": [
+        "A. \\[S = \\frac{{2000}}{3}\\] .",
+        "B. \\(S = 2008\\) .",
+        "C. \\[S = 2000\\] .",
+        "D. \\(S = \\frac{{2008}}{3}\\) ."
+      ],
+      "answer": "D",
+      "note": "Chọn D Phương trình hoành độ giao điểm của hai đường \\(\\left( C \\right):y = {x^2} - 2x\\) và \\(\\left( d \\right):y = 0\\) là: \\({x^2} - 2x = 0 \\Leftrightarrow \\left[ \\begin{array}{l}x = 0\\\\x = 2\\end{array} \\right.\\) . Bảng xét dấu: Diện tích cần tìm: \\(S = \\int\\limits_{ - 10}^{10} {\\left| {{x^2} - 2x} \\right|{\\rm{d}}x} = \\int\\limits_{ - 10}^0 {\\left( {{x^2} - 2x} \\right){\\rm{d}}x} - \\int\\limits_0^2 {\\left( {{x^2} - 2x} \\right){\\rm{d}}x} + \\int\\limits_2^{10} {\\left( {{x^2} - 2x} \\right){\\rm{d}}x} \\)\\( = \\left. {\\left( {\\frac{{{x^3}}}{3} - {x^2}} \\right)} \\right|_{ - 10}^0 - \\left. {\\left( {\\frac{{{x^3}}}{3} - {x^2}} \\right)} \\right|_0^2 + \\left. {\\left( {\\frac{{{x^3}}}{3} - {x^2}} \\right)} \\right|_2^{10}\\)\\( = \\frac{{1300}}{3} + \\frac{4}{3} + \\frac{{704}}{3} = \\frac{{2008}}{3}\\) ."
+    }
+  ]
+}

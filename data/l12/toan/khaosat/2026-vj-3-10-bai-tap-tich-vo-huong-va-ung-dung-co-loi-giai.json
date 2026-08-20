@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-3-10-bai-tap-tich-vo-huong-va-ung-dung-co-loi-giai",
+  "sourceId": "vietjack:3-10-bai-tap-tich-vo-huong-va-ung-dung-c",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.10 bài tập Tích vô hướng và ứng dụng có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Trong không gian Oxyz, cho hai vectơ \\(\\overrightarrow a = \\left( {1; - 2;1} \\right)\\) và \\(\\overrightarrow b = \\left( {2; - 4; - 2} \\right)\\). Khi đó \\(\\overrightarrow a .\\overrightarrow b \\) bằng",
+      "options": [
+        "A. 8;",
+        "B. −8;",
+        "C. 12;",
+        "D. −12."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có \\(\\overrightarrow a .\\overrightarrow b = 1.2 + \\left( { - 2} \\right).\\left( { - 4} \\right) + 1.\\left( { - 2} \\right) = 8\\)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Trong không gian Oxyz, côsin của góc tạo bởi hai vectơ \\(\\overrightarrow a = \\left( { - 1;2;0} \\right)\\) và \\(\\overrightarrow b = \\left( {0; - 2;1} \\right)\\) là",
+      "options": [
+        "A. \\(\\frac{4}{5}\\);",
+        "B. \\( - \\frac{4}{5}\\);",
+        "C. \\(\\frac{4}{{25}}\\);",
+        "D. \\( - \\frac{4}{{25}}\\)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có \\(\\cos \\left( {\\overrightarrow a ,\\overrightarrow b } \\right) = \\frac{{\\overrightarrow a .\\overrightarrow b }}{{\\left| {\\overrightarrow a } \\right|.\\left| {\\overrightarrow b } \\right|}} = \\frac{{\\left( { - 1} \\right).0 + 2.\\left( { - 2} \\right) + 0.1}}{{\\sqrt {{{\\left( { - 1} \\right)}^2} + {2^2} + {0^2}} .\\sqrt {{0^2} + {{\\left( { - 2} \\right)}^2} + {1^2}} }} = - \\frac{4}{5}\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trong không gian với hệ trục tọa độ Oxyz, cho hai vectơ \\(\\overrightarrow a = \\left( {3; - 2;m} \\right),\\overrightarrow b = \\left( {2;m; - 1} \\right)\\) với m là tham số nhận giá trị thực. Tìm giá trị của m để hai vectơ \\(\\overrightarrow a \\) và \\(\\overrightarrow b \\) vuông góc với nhau.",
+      "options": [
+        "A. m = 1;",
+        "B. m = 2;",
+        "C. m = −1;",
+        "D. m = −2."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Hai vectơ \\(\\overrightarrow a \\) và \\(\\overrightarrow b \\) vuông góc với nhau khi và chỉ khi \\(\\overrightarrow a .\\overrightarrow b = 0\\) \\( \\Leftrightarrow 3.2 + \\left( { - 2} \\right).m + m.\\left( { - 1} \\right) = 0\\)\\( \\Leftrightarrow 6 - 3m = 0 \\Leftrightarrow m = 2\\)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Trong không gian với hệ toạ độ Oxyz, cho vectơ \\(\\overrightarrow a = \\left( {0; - 1;1} \\right),\\,\\,\\overrightarrow b = \\left( { - 1;0; - m} \\right)\\). Có bao nhiêu giá trị thực của m để góc giữa vectơ \\(\\overrightarrow a \\) và vectơ \\(\\overrightarrow b \\) bằng 60°?",
+      "options": [
+        "A. 1;",
+        "B. 0;",
+        "C. 2;",
+        "D. 3."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có:\\(\\cos \\left( {\\overrightarrow a ,\\overrightarrow b } \\right) = \\frac{{\\overrightarrow a .\\overrightarrow b }}{{\\left| {\\overrightarrow a } \\right|.\\left| {\\overrightarrow b } \\right|}} \\Leftrightarrow \\cos 60^\\circ = \\frac{{ - m}}{{\\sqrt {{1^2} + {1^2}} .\\sqrt {{1^2} + {m^2}} }} \\Leftrightarrow \\frac{1}{2} = \\frac{{ - m}}{{\\sqrt 2 .\\sqrt {1 + {m^2}} }}\\). \\( \\Leftrightarrow \\left\\{ {\\begin{array}{*{20}{c}}{m < 0\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,}\\\\{{m^2} - 1 = 0}\\end{array}} \\right. \\Rightarrow m = - 1\\). </>"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Trong không gian tọa độ Oxyz, cho ba điểm A(−1; −2; 3), B(0; 3; 1), C(4; 2; 2). Cosin của góc \\(\\widehat {BAC}\\) là",
+      "options": [
+        "A. \\(\\frac{9}{{\\sqrt {35} }}\\);",
+        "B. \\( - \\frac{9}{{\\sqrt {35} }}\\);",
+        "C. \\( - \\frac{9}{{2\\sqrt {35} }}\\);",
+        "D. \\(\\frac{9}{{2\\sqrt {35} }}\\)."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Ta có \\(\\overrightarrow {AB} = \\left( {1;5; - 2} \\right);\\overrightarrow {AC} = \\left( {5;4; - 1} \\right)\\). Ta có \\(\\cos \\widehat {BAC} = \\frac{{\\overrightarrow {AB} .\\overrightarrow {AC} }}{{\\left| {\\overrightarrow {AB} } \\right|.\\left| {\\overrightarrow {AC} } \\right|}} = \\frac{{5 + 20 + 2}}{{\\sqrt {30} .\\sqrt {42} }} = \\frac{9}{{2\\sqrt {35} }}\\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong không gian tọa độ Oxyz, cho các vectơ \\(\\overrightarrow a = \\left( {1;2;3} \\right)\\) và \\(\\overrightarrow b = \\left( { - 2;1;0} \\right)\\). Tính tích vô hướng \\(\\overrightarrow a .\\left( {\\overrightarrow a + 2\\overrightarrow b } \\right)\\).",
+      "options": [
+        "A. 14;",
+        "B. 16;",
+        "C. 22;",
+        "D. 10."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có \\(\\overrightarrow a + 2\\overrightarrow b = \\left( { - 3;4;3} \\right)\\). Do đó \\(\\overrightarrow a .\\left( {\\overrightarrow a + 2\\overrightarrow b } \\right) = 1.\\left( { - 3} \\right) + 2.4 + 3.3 = 14\\)."
+    }
+  ]
+}

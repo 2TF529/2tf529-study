@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-6-12-bai-tap-mot-so-bai-toan-lien-quan-den-phuong-trinh-va-he-phu",
+  "sourceId": "vietjack:6-12-bai-tap-mot-so-bai-toan-lien-quan-d",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "6.12 bài tập Một số bài toán liên quan đến phương trình và hệ phương trình bậc nhất hai ẩn có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho hệ phương trình \\(\\left\\{ \\begin{array}{l}x + \\left( {m + 1} \\right)y = 1\\\\4x - y = - 2\\end{array} \\right.\\). Tìm m để hệ phương trình có nghiệm (x; y) thỏa mãn 2x + 2y = 5.",
+      "options": [
+        "A. \\( - \\frac{5}{8}\\).",
+        "B. \\(\\frac{5}{8}\\).",
+        "C. \\( - \\frac{8}{5}\\).",
+        "D. \\(\\frac{8}{5}\\)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Xét hệ phương trình \\(\\left\\{ \\begin{array}{l}2x + 2y = 5\\\\4x - y = - 2\\end{array} \\right.\\). Từ phương trình 4x – y = −2 ta có y = 4x + 2. Thay y = 4x + 2 vào phương trình 2x + 2y = 5 được: 2x + 2(4x + 2) = 5 hay 10x = 1 suy ra x = \\(\\frac{1}{{10}}\\). Với x = \\(\\frac{1}{{10}}\\) thì y = \\(\\frac{{12}}{5}\\). Thay giá trị, y vừa tìm được vào phương trình x + (m + 1)y = 1 được \\(\\frac{1}{{10}}\\) + (m + 1). \\(\\frac{{12}}{5}\\) = 1 suy ra 1 + 24(m + 1) = 10 suy ra m = \\( - \\frac{5}{8}\\)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hệ phương trình \\(\\left\\{ \\begin{array}{l}2x - y = 1\\\\mx + 2y = 2\\end{array} \\right.\\) với m là tham số. Tìm m để hệ phương trình có nghiệm duy nhất sao cho 2x – 3y = 1.",
+      "options": [
+        "A. m = 4.",
+        "B. m = 2.",
+        "C. m = −4.",
+        "D. m = 1."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Để hệ có nghiệm duy nhất khi \\(\\frac{2}{m}\\) ≠ \\(\\frac{{ - 1}}{2}\\) suy ra m ≠ −4. Từ phương trình 2x – y = 1 ta có y = 2x – 1. Thay y = 2x – 1 vào phương trình mx + 2y = 2 suy ra mx + 2(2x – 1) = 2. Suy ra (m + 4)x = 4 hay x = \\(\\frac{4}{{m + 4}}\\). Với x = \\(\\frac{4}{{m + 4}}\\) suy ra y = \\(\\frac{{4 - m}}{{m + 4}}\\). Theo đề, ta có: 2x – 3y = 1 Suy ra \\(\\frac{8}{{m + 4}}\\) − \\(\\frac{{3\\left( {4 - m} \\right)}}{{m + 4}}\\) = 1 suy ra 8 – 12 + 3m = m + 4 hay 2m = 8 hay m = 4 (thỏa mãn). Vậy m = 4 thỏa mãn."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho hệ phương trình \\(\\left\\{ \\begin{array}{l}x + my = 1\\\\mx - y = - m\\end{array} \\right.\\) với m là tham số. Với giá trị nào sau đây của m thì hệ có nghiệm duy nhất thỏa mãn x = y + 1.",
+      "options": [
+        "A. m = 0.",
+        "B. m = 1.",
+        "C. m = 0 hoặc m = 1.",
+        "D. m = 0 hoặc m = −1."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Để phương trình có nghiệm duy nhất khi \\(\\frac{1}{m}\\) ≠ \\(\\frac{m}{{ - 1}}\\) hay m 2 ≠ −1 , đúng với mọi m. Ta có x = 1 – my. Thay x = 1 – my vào phương trình mx – y = −m được m(1 – my) – y = −m Suy ra m – m 2 y – y = −m, do đó y = \\(\\frac{{2m}}{{{m^2} + 1}}\\). Với y = \\(\\frac{{2m}}{{{m^2} + 1}}\\) thì x = \\(\\frac{{1 - {m^2}}}{{{m^2} + 1}}\\). Theo đề, ta có: x = y + 1 Suy ra \\(\\frac{{1 - {m^2}}}{{{m^2} + 1}}\\) = \\(\\frac{{2m}}{{{m^2} + 1}}\\) + 1 hay \\(\\frac{{1 - {m^2}}}{{{m^2} + 1}}\\) = \\(\\frac{{2m + {m^2} + 1}}{{{m^2} + 1}}\\) Do đó, 1 – m 2 = m 2 + 2m + 1 hay 2m 2 + 2m = 0 hay 2m(m + 2) = 0. Suy ra m = 0 hoặc m = 1 (thỏa mãn). Vậy m = 0 hoặc m = 1."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hệ phương trình \\(\\left\\{ \\begin{array}{l}x + my = 1\\\\mx - y = - m\\end{array} \\right.\\) với m là tham số. Với giá trị nào của m thì hệ có nghiệm duy nhất thỏa mãn x < 0 và y > 0?",
+      "options": [
+        "A. m > 1.",
+        "B. m < 1.",
+        "C. m ≤ 1.",
+        "D. m ≥ 1."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Để phương trình có nghiệm duy nhất khi \\(\\frac{1}{m}\\) ≠ \\(\\frac{m}{{ - 1}}\\) hay m 2 ≠ −1 , đúng với mọi m. Ta có x = 1 – my. Thay x = 1 – my vào phương trình mx – y = −m được m(1 – my) – y = −m Suy ra m – m 2 y – y = −m, do đó y = \\(\\frac{{2m}}{{{m^2} + 1}}\\). Với y = \\(\\frac{{2m}}{{{m^2} + 1}}\\) thì x = \\(\\frac{{1 - {m^2}}}{{{m^2} + 1}}\\). Để hệ phương trình có nghiệm thỏa mãn \\(\\left\\{ \\begin{array}{l}x < 0\\\\y > 0\\end{array} \\right.\\) thì \\(\\left\\{ \\begin{array}{l}\\frac{{1 - {m^2}}}{{{m^2} + 1}} < 0\\\\\\frac{{2m}}{{{m^2} + 1}} > 0\\end{array} \\right.\\) Suy ra \\(\\left\\{ \\begin{array}{l}1 - {m^2} < 0\\\\2m > 0\\end{array} \\right.\\) do đó \\(\\left\\{ \\begin{array}{l}\\left[ \\begin{array}{l}m < - 1\\\\m > 1\\end{array} \\right.\\\\m > 0\\end{array} \\right.\\) nên m > 1"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hệ phương trình \\(\\left\\{ \\begin{array}{l}x + 2y = 1\\\\2x - my = - 4\\end{array} \\right.\\) với m là tham số. Với giá trị nào của m thì hệ có nghiệm duy nhất x – 1 > 0?",
+      "options": [
+        "A. m > −4.",
+        "B. m ≥ −4.",
+        "C. m < −4. </>",
+        "D. m ≤ −4."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Để phương trình có nghiệm duy nhất thì \\(\\frac{1}{2} \\ne \\frac{2}{{ - m}}\\) suy ra m ≠ −4. Thế x = 1 – 2y vào phương trình 2x – my = −4 được 2(1 – 2y) – my = −4. Suy ra y = \\(\\frac{{ - 2}}{{m + 4}}\\). Với y = \\(\\frac{{ - 2}}{{m + 4}}\\) thì x = 1 – 2.\\(\\frac{{ - 2}}{{m + 4}}\\) = \\(\\frac{{m + 8}}{{m + 4}}\\). Theo đề, có: x – 1 > 0 nên \\(\\frac{{m + 8}}{{m + 4}}\\) −1 > 0 hay \\(\\frac{4}{{m + 4}} > 0\\) suy ra m + 4 > 0 hay m > −4. Vậy m > −4."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho hệ phương trình \\(\\left\\{ \\begin{array}{l}x + 2y = 1\\\\2x - my = - 4\\end{array} \\right.\\) với m là tham số. Với giá trị nào của m để hệ có nghiệm duy nhất sao cho x + y = \\(\\frac{{{m^2} + 6}}{{m + 4}}\\)?",
+      "options": [
+        "A. m = 1.",
+        "B. m = −1.",
+        "C. m = 0 hoặc m = 1.",
+        "D. m = 0 hoặc m = −1."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Để phương trình có nghiệm duy nhất thì \\(\\frac{1}{2} \\ne \\frac{2}{{ - m}}\\) suy ra m ≠ −4. Thế x = 1 – 2y vào phương trình 2x – my = −4 được 2(1 – 2y) – my = −4. Suy ra y = \\(\\frac{{ - 2}}{{m + 4}}\\). Với y = \\(\\frac{{ - 2}}{{m + 4}}\\) thì x = 1 – 2.\\(\\frac{{ - 2}}{{m + 4}}\\) = \\(\\frac{{m + 8}}{{m + 4}}\\). Có x + y = \\(\\frac{{{m^2} + 6}}{{m + 4}}\\) nên \\(\\frac{{ - 2}}{{m + 4}}\\) + \\(\\frac{{m + 8}}{{m + 4}}\\) = \\(\\frac{{{m^2} + 6}}{{m + 4}}\\) suy ra m + 6 = m 2 + 6 hay m 2 – m = 0 hay m(m – 1) = 0. Suy ra m = 0 hoặc m = 1 (thỏa mãn). Vậy với m = 0 hoặc m = 1 thì thảo mãn yêu cầu bài toán."
+    }
+  ]
+}

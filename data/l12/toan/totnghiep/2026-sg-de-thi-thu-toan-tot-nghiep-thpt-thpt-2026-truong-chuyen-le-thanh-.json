@@ -1,0 +1,107 @@
+{
+  "id": "2026-sg-de-thi-thu-toan-tot-nghiep-thpt-thpt-2026-truong-chuyen-le-thanh-",
+  "sourceId": "sieugioi:de-thi-thu-toan-tot-nghiep-thpt-thpt-202",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "title": "Đề thi thử toán tốt nghiệp thpt THPT 2026 trường chuyên Lê Thánh Tông Đà Nẵng lần 1 [Lời Giải]",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "content": "Câu 1: Một hộp đựng \\(30\\) tấm thẻ khác nhau được đánh số từ \\(1\\) đến \\(30\\). Từ trong hộp đó người ta lấy riêng ra một tấm thẻ",
+      "statements": [
+        "a) Xác suất để lấy được thẻ chia hết cho \\(3\\) bằng \\(\\frac{1}{3}\\).",
+        "b) Xác suất để lấy được thẻ chia hết cho \\(5\\) bằng \\(\\frac{1}{5}\\).",
+        "c) Xác suất để lấy được thẻ chia hết cho cả \\(3\\) và \\(5\\) bằng \\(\\frac{2}{15}\\).",
+        "d) Xác suất để lấy được thẻ chia hết cho \\(3\\) hoặc chia hết cho \\(5\\) bằng \\(\\frac{8}{15}\\).\nLời giải\nTa có: \\(n\\left( \\Omega \\right)=30\\).",
+        "a) ĐÚNG\nGọi A là biến cố lấy được thẻ chia hết cho \\(3\\).\nTa có: \\(A=\\left\\{ 3;6;9;12;15;18;21;24;27;30 \\right\\}\\).\n\\(P\\left( A \\right)=\\frac{n\\left( A \\right)}{n\\left( \\Omega \\right)}=\\frac{10}{30}=\\frac{1}{3}\\) .",
+        "b) ĐÚNG\nGọi B là biến cố lấy được thẻ chia hết cho \\(5\\).\n\\(B=\\left\\{ 5;10;15;20;25;30 \\right\\}\\).\n\\(P\\left( B \\right)=\\frac{n\\left( B \\right)}{n\\left( \\Omega \\right)}=\\frac{6}{30}=\\frac{1}{5}\\) .",
+        "c) SAI\nGọi C là biến cố lấy được thẻ chia hết cho cả \\(3\\) và \\(5\\).\nTa có: \\(C=\\left\\{ 15;30 \\right\\}\\)\n\\(P\\left( C \\right)=\\frac{n\\left( C \\right)}{n\\left( \\Omega \\right)}=\\frac{2}{30}=\\frac{1}{15}\\).",
+        "d) SAI\nGọi D là biến cố: lấy được thẻ chia hết cho \\(3\\) hoặc chia hết cho \\(5\\).\nTa có: \\(n\\left( D \\right)=n\\left( A \\right)+n\\left( B \\right)-n\\left( A\\cap B \\right)=10+6-2=14\\).\n\\(P\\left( D \\right)=\\frac{n\\left( D \\right)}{n\\left( \\Omega \\right)}=\\frac{14}{30}=\\frac{7}{15}\\)."
+      ],
+      "answer": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "content": "Câu 2: Hình minh họa sơ đồ một ngôi nhà trong hệ trục tọa độ \\(\\text{Oxyz}\\), trong đó nền nhà, bốn bức tường và hai mái nhà đều là hình chữ nhật.\nHãy xét tính đúng sai của các mệnh đề sau:",
+      "statements": [
+        "a) Tọa độ của các điểm \\(A(5;0;0)\\).",
+        "b) Tọa độ của các điểm \\(H(0;5;3)\\).",
+        "c) Góc nhị diện có cạnh là đường thẳng \\(PQ\\), hai mặt lần lượt là \\((PQGF)\\)và \\((PQHE)\\)gọi là góc của mái nhà. Số đo của góc của mái nhà bằng \\({{53,1}^{0}}\\) (làm tròn kết quả đến hàng phần mười của độ).",
+        "d) Chiều cao của ngôi nhà là 4.\nLời giải",
+        "a) Sai.\nVì nền nhà là hình chữ nhật nên tứ giác \\(OABC\\)là hình chữ nhật nên tọa độ điểm \\(A\\) là \\(A(4;0;0)\\)",
+        "b) Đúng.\nDo \\(\\overrightarrow{EH}=\\overrightarrow{PQ}\\) nên tọa độ của các điểm \\(H(0;5;3)\\).",
+        "c) Sai.\nGóc nhị diện có cạnh là đường thẳng \\(PQ\\), hai mặt lần lượt là \\((PQGF)\\)và \\((PQHE)\\)gọi là góc của mái nhà.\nDo \\(PQ\\) vuông góc với hai đường thẳng \\(QH;\\,\\,QG\\) nên góc cần tìm là góc giữa \\(QH;\\,\\,QG\\).\nTìm góc \\(HQG\\).\n\\(\\cos \\widehat{HQG}=c\\text{os(}\\overrightarrow{QH};\\overrightarrow{QG}\\text{)=}\\frac{\\overrightarrow{QH}.\\overrightarrow{QG}}{QH.QG}=-\\frac{3}{5}\\) ( Do \\(\\overrightarrow{QH}\\left( -2;0;-1 \\right);\\overrightarrow{QG}\\left( 2;0;-1 \\right)\\)). Do đó góc nhị diện cần tìm là góc tù.",
+        "d) Đúng.\nDo đỉnh mái là \\(P(2;0;4)\\)nên chiều cao của ngôi nhà là 4.\nPHẦN III. Câu trắc nghiệm trả lời ngắn.\nThí sinh trả lời từ câu 1 đến câu 6."
+      ],
+      "answer": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 3,
+      "type": "short_answer",
+      "content": "Câu 3: Một mô hình tứ diện \\(ABCD\\) làm bằng khung nhôm có hai mặt \\(\\left( ACD \\right)\\) và \\(\\left( BCD \\right)\\)vuông góc với nhau biết \\(AC=AD=BC=BD=3(dm)\\), cạnh \\(CD=a(dm)\\). Để cho đẹp người ta muốn hai mặt \\(\\left( ABC \\right)\\) và \\(\\left( ABD \\right)\\) cũng vuông góc với nhau. Hãy tính \\(a.\\)( kết quả làm tròn đến phần trăm )\nLời giải\nĐáp án: \\(3,46\\).\nGọi \\(M,N\\) lần lượt là trung điểm của \\(AB,CD\\)\n\\(\\vartriangle ACD,\\vartriangle BCD,\\vartriangle ABC,\\vartriangle ABD\\) cân nên \\(AN\\bot CD,BN\\bot CD,CM\\bot AB,DM\\bot AB\\).\nSuy ra góc giữa hai mặt phẳng \\(\\left( ACD \\right)\\) và \\(\\left( BCD \\right)\\) là \\(\\widehat{ANB}={{90}^{0}}\\)(\\(\\left( ACD \\right)\\) và \\(\\left( BCD \\right)\\)vuông góc với nhau), góc giữa hai mặt phẳng \\(\\left( ABC \\right)\\) và \\(\\left( ABD \\right)\\) là \\(\\widehat{CMD}={{90}^{0}}\\) (\\(\\left( ABC \\right)\\) và \\(\\left( ABD \\right)\\)vuông góc với\nnhau). \\(AN = \\sqrt {9 – \\frac{{{a^2}}}{4}} = BN,\\) \\(AB = \\sqrt {18 – \\frac{{{a^2}}}{2}} ,\\) \\(MD = \\sqrt {9 – \\frac{{18 – \\frac{{{a^2}}}{2}}}{4}} = \\sqrt {\\frac{{18 + \\frac{{{a^2}}}{2}}}{4}} = MC\\)\n\\(\\vartriangle MCD\\) vuông cân tại M nên \\(CD=MD\\sqrt{2}\\Rightarrow a=2\\sqrt{3}\\approx 3,46\\left( dm \\right)\\)",
+      "answer": "0",
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 4,
+      "type": "short_answer",
+      "content": "Câu 4: Lớp mẫu giáo có 10 em bé, các bé đứng thành vòng tròn và cách đều nhau, đứng ở tâm vòng tròn\nlà cô giáo. Mỗi bé cầm hai cờ, một xanh một đỏ trên mỗi tay. Cô giáo bảo “giơ lên cao một cờ”, các bé giơ ngẫu nhiên một cờ. Gọi a là xác suất để không có 4 cờ nào cùng màu được giơ lên ở 4 vị trí mà 4 vị trí ấy là 4 đỉnh của một hình chữ nhật. Giá trị của \\(\\frac{2200}{a}\\) bằng bao nhiêu?\nLời giải\nĐáp án: 6400.\nMỗi em bé có 2 lựa chọn (giơ cờ Xanh hoặc cờ Đỏ). Vì có 10 em bé nên tổng số cách giơ cờ (số phần tử của không gian mẫu) là:\\(n(\\Omega) = 2^{10} = 1024\\)\n10 em bé đứng cách đều nhau trên một vòng tròn tạo thành một thập giác đều nội tiếp.\nMột hình chữ nhật nội tiếp đường tròn bắt buộc phải có hai đường chéo là hai đường kính của đường tròn đó. Thập giác đều có 10 đỉnh, suy ra có \\(\\frac{10}{2} = 5\\) đường kính đi qua tâm.\nGọi tập hợp 5 đường kính này là \\(D = \\{d_1, d_2, d_3, d_4, d_5\\}\\).\nMỗi hình chữ nhật được tạo thành bằng cách chọn bất kỳ 2 trong 5 đường kính này.\nĐể một hình chữ nhật có 4 đỉnh cùng màu, thì 2 đường kính tạo nên nó phải có cùng trạng thái màu ở các đầu mút.Xét một đường kính bất kỳ nối 2 em bé đối diện nhau. Có \\(2 \\times 2 = 4\\) khả năng xảy ra về màu cờ của 2 em bé này:\n• Trạng thái 1 (XX): Cả 2 bé đều giơ Xanh (1 trường hợp: Xanh – Xanh).\n• Trạng thái 2 (ĐĐ): Cả 2 bé đều giơ Đỏ (1 trường hợp: Đỏ – Đỏ).\n• Trạng thái 3 (Khác): 1 bé Xanh, 1 bé Đỏ (2 trường hợp: Xanh – Đỏ hoặc Đỏ – Xanh).\nĐiều kiện đề bài: “Không có 4 cờ nào cùng màu ở 4 đỉnh của một hình chữ nhật” tương đương với:\n• Không được chọn ra 2 đường kính cùng có trạng thái XX (để tránh hình chữ nhật toàn màu Xanh). \\(\\Rightarrow\\) Số đường kính trạng thái XX chỉ được là 0 hoặc 1.\n• Không được chọn ra 2 đường kính cùng có trạng thái ĐĐ (để tránh hình chữ nhật toàn màu Đỏ). \\(\\Rightarrow\\) Số đường kính trạng thái ĐĐ chỉ được là 0 hoặc 1.\nGọi \\(k\\) là số đường kính có trạng thái XX.\nGọi \\(m\\) là số đường kính có trạng thái ĐĐ.\nSố đường kính còn lại là \\(5 – k – m\\) sẽ có trạng thái “Khác” (mỗi đường có 2 cách chọn màu).\nTheo lập luận trên, ta cần tìm số cách sao cho \\(0 \\le k \\le 1\\) và \\(0 \\le m \\le 1\\).\n• Trường hợp 1: \\(k = 0, m = 0\\) (0 đường XX, 0 đường ĐĐ, 5 đường Khác)\nSố cách chọn: \\(C_5^0 \\cdot C_5^0 \\cdot 2^5 = 1 \\cdot 1 \\cdot 32 = 32\\) cách.\n• Trường hợp 2: \\(k = 1, m = 0\\) (1 đường XX, 0 đường ĐĐ, 4 đường Khác)\nSố cách chọn: \\(C_5^1 \\cdot C_4^0 \\cdot 1^1 \\cdot 2^4 = 5 \\cdot 1 \\cdot 1 \\cdot 16 = 80\\) cách.\n• Trường hợp 3: \\(k = 0, m = 1\\) (0 đường XX, 1 đường ĐĐ, 4 đường Khác)\nSố cách chọn: \\(C_5^0 \\cdot C_5^1 \\cdot 1^1 \\cdot 2^4 = 1 \\cdot 5 \\cdot 1 \\cdot 16 = 80\\) cách.\n• Trường hợp 4: \\(k = 1, m = 1\\) (1 đường XX, 1 đường ĐĐ, 3 đường Khác)\nSố cách chọn: \\(C_5^1 \\cdot C_4^1 \\cdot 1^1 \\cdot 1^1 \\cdot 2^3 = 5 \\cdot 4 \\cdot 1 \\cdot 1 \\cdot 8 = 160\\) cách.\nTổng số kết quả thuận lợi là:\\(n(A) = 32 + 80 + 80 + 160 = 352\\)\nXác suất của biến cố A là: \\(a = P(A) = \\frac{n(A)}{n(\\Omega)} = \\frac{352}{1024} = \\frac{11}{32}\\)\nGiá trị cần tìm là \\(\\frac{2200}{a}=\\frac{2200}{\\frac{11}{32}}=6400\\)",
+      "answer": "0",
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 5,
+      "type": "short_answer",
+      "content": "Câu 5: Cho hàm số \\(y=f\\left( x \\right)=-{{x}^{3}}+3{{x}^{2}}-4\\) có đồ thị là \\(\\left( C \\right)\\). Đường thẳng đi qua hai điểm cực trị của \\(\\left( C \\right)\\) là đồ thị hàm số \\(g\\left( x \\right)=ax+b\\). Gọi \\(M,\\text{ }m\\) lần lượt là giá trị lớn nhất nhỏ nhất của hàm \\(h\\left( x \\right)=\\sqrt{-x\\left( ax+b \\right)}\\). Tính giá trị \\(\\sqrt{8}\\left( 300M-20m \\right)\\).\nLời giải\nĐáp án: 1200.\n\\(y=f\\left( x \\right)=-{{x}^{3}}+3{{x}^{2}}-4\\Rightarrow {y}’=-3{{x}^{2}}+6x\\)\n\\(y’ = 0 \\Leftrightarrow \\left[ \\begin{array}{l} x = 0\\\\ x = 2 \\end{array} \\right.\\)\n\\(\\Rightarrow \\) đồ thị \\(\\left( C \\right)\\) có 2 điểm cực trị là \\(A\\left( 0;-4 \\right)\\) và \\(B\\left( 2;0 \\right)\\).\n\\(\\Rightarrow \\) Đường thẳng đi qua hai điểm cực trị có vecto chỉ phương là \\(\\overrightarrow{AB}=\\left( 2;4 \\right)\\Rightarrow \\) có vecto pháp tuyến là \\(\\overrightarrow{n}=\\left( 2;-1 \\right)\\Rightarrow g\\left( x \\right)=2x-4\\).\nKhi đó \\(h\\left( x \\right)=\\sqrt{-x\\left( 2x-4 \\right)}\\).\nXét hàm số \\(h\\left( x \\right)=\\sqrt{4x-2{{x}^{2}}}\\). Tập xác định: \\(D=\\left[ 0;2 \\right]\\).",
+      "answer": "0",
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 6,
+      "type": "short_answer",
+      "content": "Câu 6: Trong căn phòng hình hộp chữ nhật, sàn nhà là hình vuông cạnh bằng \\(5m\\), chiều cao của phòng là \\(6m\\), có hai con nhện đang di chuyển trên 2 dây tơ khác nhau. Giả sử căn phòng được mô hình hóa là hình hộp chữ nhật \\(ABCD.{A}'{B}'{C}'{D}’\\) với \\(ABCD\\) là nền phòng thì con nhện thứ nhất được coi như điểm \\(E\\) di chuyển trên đường dây tơ nối từ đỉnh \\(A\\) đến trung điểm \\(M\\) của \\(C{C}’\\), còn con nhện thứ hai được coi như điểm \\(F\\) di chuyển trên đường dây tơ nối từ \\({D}’\\) đến tâm \\(I\\) của mặt \\(ABB'{A}’\\). Khoảng cách ngắn nhất giữa 2 con nhện bằng bao nhiêu? (làm tròn đến hàng phần trăm).\nĐáp án: 2,57\nLời giải\nChọn hệ trục tọa độ \\(Oxyz\\) với gốc \\(A \\equiv O(0;0;0)\\). Các tia \\(Ax\\), \\(Ay\\), \\(Az\\) lần lượt trùng với các cạnh \\(AB\\), \\(AD\\), \\(A{A}’\\).\nTừ kích thước đề bài, ta xác định được tọa độ các điểm:\\(A(0; 0; 0)\\), \\(B(5; 0; 0)\\), \\(D(0; 5; 0)\\), \\(A'(0; 0; 6)\\), \\(C(5; 5; 0)\\), \\(C'(5; 5; 6)\\), \\(D'(0; 5; 6)\\), \\(B'(5; 0; 6)\\)\nĐiểm \\(M\\) là trung điểm của \\(C{C}’\\) nên \\(M(5;5;3)\\).\nĐiểm \\(I\\) là tâm của mặt bên \\(ABB'{A}’\\) nên \\(I\\) là trung điểm của \\(A{B}’\\)\\(\\Rightarrow I(2,5;0;3)\\)\nXác định các vectơ chỉ phương:\nCon nhện thứ nhất (\\(E\\)) di chuyển trên đoạn \\(AM\\), con nhện thứ hai (F) di chuyển trên đoạn \\({D}’I\\). Khoảng cách ngắn nhất giữa hai con nhện chính là khoảng cách ngắn nhất giữa hai đoạn thẳng chéo nhau \\(AM\\) và \\({D}’I\\).\nVectơ chỉ phương của đường thẳng \\(AM\\): \\(\\vec{u_1} = \\vec{AM} = (5; 5; 3)\\).\nVectơ chỉ phương của đường thẳng \\({D}’I\\): \\(\\overrightarrow{{{u}_{2}}}=\\overrightarrow{{D}’I}=\\left( \\frac{5}{2};-5;-3 \\right)\\).\nĐể tính toán gọn hơn, ta chọn vectơ cùng phương: \\(\\vec{v} = 2\\vec{u_2} = (5; -10; -6)\\).\nTính khoảng cách giữa hai đường thẳng chéo nhau:\nTa sử dụng công thức tính khoảng cách giữa hai đường thẳng chéo nhau \\(\\Delta_1\\) (qua \\(A\\), vtcp \\(\\vec{u_1}\\)) và \\(\\Delta_2\\) (qua \\({D}’\\), vtcp \\(\\vec{v}\\)):\n\\([\\overrightarrow{{{u}_{1}}},\\vec{v}]=\\left( 0;45;-75 \\right)\\), \\(A(0;0;0), D'(0;5;6) \\Rightarrow \\vec{AD’} = (0; 5; 6)\\)\n\\(d(AM,{D}’I)=\\frac{|[\\overrightarrow{{{u}_{1}}},\\vec{v}]\\cdot \\overrightarrow{A{D}’}|}{|[\\overrightarrow{{{u}_{1}}},\\vec{v}]|}=\\frac{15}{\\sqrt{34}}\\approx 2,57\\)",
+      "answer": "0",
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 7,
+      "type": "short_answer",
+      "content": "Câu 7: Khi dạo chơi trong một công viên bạn An di chuyển trên cầu cong có hình parabol, bạn Lan di chuyển trên bờ hồ đường tròn (minh họa bằng hình vẽ dưới đây). Khoảng cách giữa hai chân cầu parabol là \\(AB=30\\)m, đỉnh \\(H\\) của parabol cách đường thẳng \\(AB\\)một khoảng \\(HK=30\\)m, khoảng cách từ tâm \\(I\\) của đường tròn đến đường thẳng \\(AB\\) và \\(HK\\) lần lượt là \\(IE=30\\)m và \\(IH=30\\)m. Tính khoảng cách nhỏ nhất giữa hai bạn An và Lan, biết rằng đường tròn có bán kính bằng \\(3\\)m (kết quả làm tròn đến hàng phần chục)\nLời giải\nĐáp án: \\(20,6\\)\nChọn hệ trục tọa độ \\(Oxy\\) như hình vẽ\nTọa độ của các điểm \\(A\\left( -15;0 \\right)\\), \\(B\\left( 15;0 \\right)\\), \\(E\\left( 30;0 \\right)\\), \\(H\\left( 0;30 \\right)\\) và \\(I\\left( 30;30 \\right)\\).\nVì parabol đi qua điểm \\(B\\left( 15;0 \\right)\\) và \\(H\\left( 0;30 \\right)\\) đồng thời có đỉnh là điểm \\(H\\left( 0;30 \\right)\\) nên phương trình của parabol là: \\(y=-\\frac{6}{45}{{x}^{2}}+30\\).\nPhương trình đường tròn tâm \\(I\\left( 30;30 \\right)\\) là: \\({{\\left( x-30 \\right)}^{2}}+{{\\left( y-30 \\right)}^{2}}=9\\).\nGọi \\(A\\left( a;-\\frac{6}{45}{{a}^{2}}+30 \\right)\\) là một điểm nằm trên parabol.\nKhoảng giữa An và Lan ngắn nhất khi tiếp tuyến tại \\(A\\) của parabol và đường thẳng \\(IA\\) vuông góc với nhau.\n\\(\\overrightarrow{IA}\\left( a-30;\\,-\\frac{6}{45}{{a}^{2}} \\right)\\Rightarrow {{k}_{IA}}=\\frac{-\\frac{6}{45}{{a}^{2}}}{a-30}\\).\n\\({f}’\\left( A \\right)\\cdot {{k}_{IA}}=-1\\Leftrightarrow \\frac{-12a}{45}\\cdot \\frac{-\\frac{6}{45}{{a}^{2}}}{a-30}=-1\\)\n\\( \\Leftrightarrow \\frac{8}{{225}}{a^3} = 30 – a\\) \\( \\Leftrightarrow 8{a^3} + 225a – 6750 = 0\\) \\( \\Leftrightarrow a \\approx 8,4613\\).\nSuy ra khoảng cách ngắn nhất giữa An và Lan là\n\\({{d}_{\\min }}=IA-r\\approx 20,56\\).",
+      "answer": "0",
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 8,
+      "type": "short_answer",
+      "content": "Câu 8: Trong bảng thiết kế của dự án lắp đặt đường dây điện cho vùng núi tỉnh A, các kĩ sư thiết kế các trụ điện cao \\(120\\[\\text{m}\\). Để giữ thăng bằng cho trụ điện, người ta kéo dây cáp nối từ đỉnh trụ \\(S\\) xuống mặt đất tại các điểm \\(A\\), \\(B\\), \\(C\\) sao cho \\(S.ABC\\) là hình chóp tam giác đều, khoảng cách từ chân trụ đến các điểm tiếp đất bằng \\(40\\sqrt{3}\\]\\text{m}\\). Tuy nhiên trong thực tế, do sườn núi dốc \\(10{}^\\circ \\) so với mặt biển nên vị trí tiếp đất của dây cáp tại \\(A\\), \\({B}’\\), \\({C}’\\) (\\(B{B}’\\), \\(C{C}’\\) song song thân trụ điện, tham khảo hình vẽ). Chọn hệ trục tọa độ \\(Oxyz\\) với \\(O\\) trùng với chân trụ điện, \\(\\left( Oxy \\right)\\) song song với mặt biển, \\(A\\) thuộc tia \\(Oy\\), trục \\(Oz\\) hướng lên trên.\nKhi đó, tổng độ dài của ba dây cáp \\(SA\\), \\(S{B}’\\), \\(S{C}’\\) bằng bao nhiêu (kết quả làm tròn đến hàng đơn vị của mét)?\nLời giải\nĐáp án: 416.\nĐặt hệ trục như đề bài, ta có: chân trụ \\(O\\left( 0;0;0 \\right)\\), đỉnh trụ \\(S\\left( 0;0;120 \\right)\\).\nDo \\(A,B,C\\in \\left( Oxy \\right)\\) và \\(OA=OB=OC=40\\sqrt{3}\\) nên \\(A\\left( 0;40\\sqrt{3};0 \\right)\\), \\(B\\left( {{x}_{B}},{{y}_{B}},0 \\right)\\), \\(C\\left( {{x}_{C}},{{y}_{C}},0 \\right)\\).\nLại có: \\(A\\in Oy\\) và \\(O\\) là tâm \\(\\Delta ABC\\) nên \\(B\\), \\(C\\) đối xứng nhau qua Oy hay \\(\\left\\{ \\begin{array}{l} x = {x_B} = – {x_C}\\\\ y = {y_B} = {y_C} \\end{array} \\right.\\).\nÁp dụng công thức tọa độ trọng tâm: \\({y_A} + {y_B} + {y_C} = 3{y_O}\\) \\( \\Rightarrow 2y = – 40\\sqrt 3 \\) \\( \\Rightarrow y = – 20\\sqrt 3 \\).\nMà \\(OB=40\\sqrt{3}\\Rightarrow {{x}^{2}}+{{\\left( -20\\sqrt{3} \\right)}^{2}}=4800\\Rightarrow x=60\\) hay \\(B\\left( 60;-20\\sqrt{3};0 \\right)\\) và \\(C\\left( -60;-20\\sqrt{3};0 \\right)\\).\n\\({{z}_{B’}}=-BB’=-60.\\tan {{10}^{0}}\\Rightarrow \\[{B}’\\left( 60;-20\\sqrt{3};-60\\times \\tan 10{}^\\circ \\right)\\),\nTương tự: \\({C}’\\left( -60;-20\\sqrt{3};60\\times \\tan 10{}^\\circ \\right)\\)\n\\( \\Rightarrow \\left\\{ \\begin{array}{l} SA = \\sqrt {{{\\left( {40\\sqrt 3 } \\right)}^2} + {{120}^2}} \\\\ SB’ = \\sqrt {{{\\left( { – 60} \\right)}^2} + {{\\left( {20\\sqrt 3 } \\right)}^2} + {{\\left( {120 + 60 \\times \\tan 10^\\circ } \\right)}^2}} \\\\ SC’ = \\sqrt {{{60}^2} + {{\\left( {20\\sqrt 3 } \\right)}^2} + {{\\left( {120 – 60 \\times \\tan 10^\\circ } \\right)}^2}} \\end{array} \\right.\\)\n\\(\\Rightarrow SA+S{B}’+S{C}’\\approx 415,8949\\).\nVậy tổng độ dài của ba dây cáp \\(SA\\), \\(S{B}’\\), \\(S{C}’\\) xấp xỉ \\(416\\]\\text{m}\\).\nView Fullscreen\nSkip to PDF content\n⬇ Tải Đề\n⬇ Tải Lời Giải",
+      "answer": "0",
+      "note": "Đáp án đối chiếu chuẩn"
+    }
+  ]
+}

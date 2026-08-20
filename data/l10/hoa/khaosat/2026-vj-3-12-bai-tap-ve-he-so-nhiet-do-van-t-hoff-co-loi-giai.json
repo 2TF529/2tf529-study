@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-3-12-bai-tap-ve-he-so-nhiet-do-van-t-hoff-co-loi-giai",
+  "sourceId": "vietjack:3-12-bai-tap-ve-he-so-nhiet-do-van-t-hof",
+  "grade": "l10",
+  "subjectSlug": "hoa",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.12 Bài tập về hệ số nhiệt độ van't hoff (có lời giải)",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Khi nhiệt độ tăng thêm 10 o C, tốc độ phản ứng hoá học tăng thêm 2 lần. Tốc độ phản ứng sẽ tăng lên bao nhiêu lần khi nâng nhiệt độ từ 20 o C lên 70 o C?",
+      "options": [
+        "A. 2 lần.",
+        "B. 8 lần.",
+        "C. 16 lần.",
+        "D. 32 lần."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Áp dụng công thức: \\[\\frac{{{v_2}}}{{{v_1}}} = {\\gamma ^{(\\frac{{{T_2} - {T_1}}}{{10}})}}\\] \\[ \\Rightarrow {v_2} = {v_1} \\times {2^{(\\frac{{70 - 20}}{{10}})}} = {2^5}{v_1} = 32{v_1}\\] Vậy tốc độ phản ứng tăng 32 lần so với ban đầu."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Khi nhiệt độ tăng thêm 10 o C, tốc độ phản ứng hoá học tăng lên 3 lần. Để tốc độ phản ứng đó (đang tiến hành ở 30 o C) tăng lên 27 lần thì cần thực hiện phản ứng ở nhiệt độ bao nhiêu?",
+      "options": [
+        "A. 40 o C.",
+        "B. 50 o C.",
+        "C. 60 o C.",
+        "D. 70 o C."
+      ],
+      "answer": "C",
+      "note": "Ta có hệ số nhiệt độ Van’t Hoff: γ = 3. Áp dụng công thức: \\[\\frac{{{v_2}}}{{{v_1}}} = {\\gamma ^{(\\frac{{{T_2} - {T_1}}}{{10}})}}\\] \\[\\begin{array}{l} \\Rightarrow {v_2} = {v_1} \\times {3^{(\\frac{{{T_2} - 30}}{{10}})}} = 27{v_1} = {3^3}{v_1}\\\\ \\Rightarrow \\frac{{{T_2} - 30}}{{10}} = 3 \\Rightarrow {T_2} = 60\\end{array}\\] Vậy phản ứng cần thực hiện ở 60 o C."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Một phản ứng có hệ số nhiệt độ Van’t Hoff bằng 3,5. Ở 20°C, tốc độ của phản ứng này bằng 0,2 M s -1 . Tốc độ của phản ứng ở 45°C là",
+      "options": [
+        "A. 2,3 M s -1 .",
+        "B. 4,6 M s -1 .",
+        "C. 2,0 M s -1 .",
+        "D. 4,0 M s -1 ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Tốc độ của phản ứng ở 45°C là: \\[{v_2} = {v_1} \\times 3,{5^{\\frac{{45 - 20}}{{10}}}} = 0,2 \\times 3,{5^{\\frac{{45 - 20}}{{10}}}} = 4,6(M{s^{ - 1}})\\]"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Ở nhiệt độ cao NOCl bị phân hủy theo phản ứng hóa học sau: 2NOCl → 2NO + Cl 2 Tốc độ phản ứng ở 70 o C là 2.10 -7 mol/(L.s) và ở 80 o C là 4,5.10 -7 mol/(L.s). Hệ số nhiệt độ Van’t Hoff (γ) của phản ứng là",
+      "options": [
+        "A. 2,25.",
+        "B. 2,50.",
+        "C. 3,00.",
+        "D. 4,25."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Hệ số nhiệt độ Van’t Hoff : \\(\\gamma = \\frac{{{v_{T + 10}}}}{{{v_T}}} = \\frac{{4,{{5.10}^{ - 7}}}}{{{{2.10}^{ - 7}}}} = 2,25\\) ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho phản ứng của acetone với iodine: CH 3 COCH 3 + I 2 → CH 3 COCH 2 I + HI Phản ứng có hệ số nhiệt độ γ trong khoảng nhiệt độ từ 30 o C đến 50 o C là 2,5. Nếu ở 35 o C, phản ứng có tốc độ là 0,036 M h -1 thì ở 45 o C phản ứng có tốc độ là",
+      "options": [
+        "A. 0,09 M s -1 .",
+        "B. 0,09 M h -1 .",
+        "C. 0,9 M s -1 .",
+        "D. 0,9 M h -1 ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Tốc độ phản ứng ở 45 o C là: Áp dụng công thức: \\[\\frac{{{v_2}}}{{{v_1}}} = {\\gamma ^{(\\frac{{{T_2} - {T_1}}}{{10}})}}\\] \\[ \\Rightarrow {v_2} = {v_1} \\times 2,{5^{(\\frac{{45 - 35}}{{10}})}} = 0,036.2,5 = 0,09\\,(M{\\rm{ }}{h^{ - 1}})\\]"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Ở 30 o C, tốc độ của một phản ứng là 0,05 M s -1 . Ở 40 o C, tốc độ của phản ứng này là 0,15 M s -1 . Hệ số nhiệt độ Van’t Hoff của phản ứng này là",
+      "options": [
+        "A. 1.",
+        "B. 2.",
+        "C. 3.",
+        "D. 4."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Hệ số nhiệt độ Van’t Hoff : \\(\\gamma = \\frac{{{v_{T + 10}}}}{{{v_T}}} = \\frac{{0,15}}{{0,05}} = 3\\) ."
+    }
+  ]
+}

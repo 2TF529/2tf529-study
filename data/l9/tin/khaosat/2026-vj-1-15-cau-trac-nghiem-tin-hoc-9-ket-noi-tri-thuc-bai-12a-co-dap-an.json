@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-9-ket-noi-tri-thuc-bai-12a-co-dap-an",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-9-ket-noi-t",
+  "grade": "l9",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu trắc nghiệm Tin học 9 Kết nối tri thức Bài 12a có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Công thức nào dưới đây sử dụng đúng hàm IF để kiểm tra nếu tỉ lệ chi cho mục tiêu \"Nhu cầu thiết yếu\" lớn hơn 50% thì trả về \"Nhiều hơn\", ngược lại trả về \"Ít hơn\"?",
+      "options": [
+        "A. =IF(N3<50%,\"Nhiều hơn\",\"Ít hơn\")",
+        "B. =IF(N3>50%,\"Nhiều hơn\",\"Ít hơn\")",
+        "C. =IF(N3=50%,\"Nhiều hơn\",\"Ít hơn\")",
+        "D. =IF(N3>50%,\"Ít hơn\",\"Nhiều hơn\")"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Công thức đúng là =IF(N3>50%,\"Nhiều hơn\",\"Ít hơn\") vì kiểm tra điều kiện lớn hơn (>) và trả về giá trị tương ứng đúng với quy tắc."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Trong công thức =IF(N4>30%,\"Nhiều hơn\",\"Ít hơn\"), tham số N4>30% được gọi là gì?",
+      "options": [
+        "A. Logical Test",
+        "B. Value if True",
+        "C. Value if False",
+        "D. Điều kiện sai"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: N4>30% là Logical Test vì nó kiểm tra điều kiện đúng hay sai."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Để kiểm tra nếu doanh thu lớn hơn 15 triệu thì tỉ lệ thưởng là 4%, công thức đúng là gì?",
+      "options": [
+        "A. =IF(A1>15,000,4%,0%)",
+        "B. =IF(A1>15,000,\"4%\",\"0%\")",
+        "C. =IF(A1>15,000,0.04,0)",
+        "D. =IF(A1<15,000,0.04,0)"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Công thức đúng là =IF(A1>15,000,0.04,0) vì cần trả về giá trị số (không phải chuỗi ký tự)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Trong quy tắc thưởng phức tạp (trên 20 triệu = 6%, trên 15 triệu = 4%, trên 10 triệu = 2%), công thức IF lồng nhau nào dưới đây đúng?",
+      "options": [
+        "A. =IF(A1>20,000,0.06,IF(A1>15,000,0.04,IF(A1>10,000,0.02,0)))",
+        "B. =IF(A1>10,000,0.06,IF(A1>15,000,0.04,IF(A1>20,000,0.02,0)))",
+        "C. =IF(A1>15,000,0.04,IF(A1>20,000,0.06,IF(A1>10,000,0.02,0)))",
+        "D. =IF(A1>20,000,0.06,IF(A1>10,000,0.02,IF(A1>15,000,0.04,0)))"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Công thức lồng đúng phải theo thứ tự giảm dần của điều kiện: >20 triệu, sau đó >15 triệu, rồi >10 triệu."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Với quy tắc 50-30-20, tỉ lệ 50% được sử dụng để đánh giá mục chi nào?",
+      "options": [
+        "A. Nhu cầu thiết yếu",
+        "B. Mong muốn cá nhân",
+        "C. Tiết kiệm",
+        "D. Doanh thu"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Theo quy tắc 50-30-20, 50% dành cho Nhu cầu thiết yếu."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Công thức =IF(N3>80%,\"Nhiều quá\",IF(N3>50%,\"Nhiều hơn\",\"Ít hơn\")) áp dụng cho:",
+      "options": [
+        "A. Tỉ lệ chi của mục \"Mong muốn cá nhân\".",
+        "B. Tỉ lệ chi của mục \"Tiết kiệm\".",
+        "C. Tỉ lệ chi của mục \"Nhu cầu thiết yếu\".",
+        "D. Tất cả các mục chi."
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Quy tắc này cụ thể hoá hơn cho mục \"Nhu cầu thiết yếu\" với các mức chi tiết."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-10-ket-noi-tri-thuc-bai-24-co-dap-an",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-10-ket-noi-",
+  "grade": "l10",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu trắc nghiệm Tin học 10 Kết nối tri thức Bài 24 có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Trong Python, câu lệnh nào dùng để tính độ dài của xâu s?",
+      "options": [
+        "A. len(s).",
+        "B. length(s).",
+        "C. s.len().",
+        "D. s. length()."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Lệnh len() tính độ dài của xâu kí tự với cấu trúc len(list)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Có bao nhiêu xâu kí tự nào hợp lệ? 1) “123_@##” 2) “hoa hau” 3) “346h7g84jd” 4) python 5) “01028475” 6) 123456",
+      "options": [
+        "A. 5.",
+        "B. 6.",
+        "C. 4.",
+        "D. 3"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Các xâu hợp lệ: 1, 2, 3, 5 Xâu kí tự trong Python là dãy các kí tự Unicode và được đặt trong cặp dấu nháy đơn hoặc nháy kép."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Xâu “1234%^^%TFRESDRG” có độ dài bằng bao nhiêu?",
+      "options": [
+        "A. 16.",
+        "B. 17.",
+        "C. 18.",
+        "D. 15."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Đếm số kí tự trong cặp dấu nháy kép."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Phát biểu nào sau đây là sai ?",
+      "options": [
+        "A. Có thể truy cập từng kí tự của xâu thông qua chỉ số.",
+        "B. Chỉ số bắt đầu từ 0.",
+        "C. Có thể thay đổi từng kí tự của một xâu.",
+        "D. Python không có kiểu dữ liệu kí tự."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Khác với danh sách, không thể thay đổi từng kí tự trong xâu."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Sau khi thực hiện lệnh sau, biến s sẽ có kết quả là: s1 =\"3986443\" s2 = \"\" for ch in s1: if int(ch) % 2 == 0: s2 = s2 + ch print(s2)",
+      "options": [
+        "A. 3986443.",
+        "B. 8644.",
+        "C. 39864.",
+        "D. 443."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Chương trình hiển thị chuỗi gồm các chữ số chẵn trong s1."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Biểu thức sau cho kết quả đúng hay sai? S1 = “12345” S2 = “3e4r45” S3 = “45” S3 in S1 S3 in S2",
+      "options": [
+        "A. True, False.",
+        "B. True, True.",
+        "C. False, False.",
+        "D. False, True."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Cả hai chuỗi S1, S2 đều chứa S3 nên hai biểu thức đúng."
+    }
+  ]
+}

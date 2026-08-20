@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-3-10-bai-tap-tinh-dien-tich-mat-cau-va-the-tich-cua-hinh-cau-co-l",
+  "sourceId": "vietjack:3-10-bai-tap-tinh-dien-tich-mat-cau-va-t",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.10 bài tập Tính diện tích mặt cầu và thể tích của hình cầu có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho hình cầu có đường kính d = 6 cm. Diện tích mặt cầu là",
+      "options": [
+        "A. 36π (cm 2 ).",
+        "B. 9π (cm 2 ).",
+        "C. 12π (cm 2 ).",
+        "D. 36 (cm 2 )."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Bán kính mặt cầu là: 6 : 2 = 3 (cm). Diện tích mặt cầu là: S = 4πr 2 = 4.π.3 2 = 36π (cm 2 )."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho mặt cầu có thể tích V = 288π (cm 3 ). Tính đường kính mặt cầu.",
+      "options": [
+        "A. 6 cm.",
+        "B. 12 cm.",
+        "C. 8 cm.",
+        "D. 16 cm."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Theo đề, ta có: V = 288π (cm 3 ) nên \\[\\frac{4}{3}\\]πR 3 = 288π hay R 3 = 216, do đó R = 6 (cm)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Thể tích của quả bóng nhựa hình cầu với đường kính 10 cm là",
+      "options": [
+        "A. \\[\\frac{{4000}}{3}\\] cm 3 .",
+        "B. \\[\\frac{{500}}{3}\\] cm 3 .",
+        "C. \\[\\frac{{4000\\pi }}{3}\\] cm 3 .",
+        "D. \\[\\frac{{500\\pi }}{3}\\] cm 3 ."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Bán kính quả bóng nhựa đó là: 10 : 2 = 5 (cm). Thể tích khối cầu đó là: V = \\[\\frac{4}{3}\\]πR 3 = \\[\\frac{{500\\pi }}{3}\\] (cm 3 )"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Một quả bóng rổ (khi bơm căng) có đường kính 24 cm. Tìm thể tích của quả bóng rổ đó (kết quả làm tròn đến hàng đơn vị).",
+      "options": [
+        "A. 7238 cm 3 .",
+        "B. 7239 cm 3 .",
+        "C. 7237 cm 3 .",
+        "D. 7328 cm 3 ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Bán kính của quả bóng rổ đó là: 24 : 2 = 12 (cm) Thể tích của quả bóng rổ đó là: \\[\\frac{4}{3}\\]π.12 3 ≈ 7238 cm 3 ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho tam giác ABC đều có cạnh AB = 8 cm, đường cao AH. Khi đó thể tích hình cầu tạo thành khi quay nửa đường tròn nội tiếp tam giác ABC một vòng quanh AH.",
+      "options": [
+        "A. \\[\\frac{{\\pi {a^3}}}{{54}}.\\]",
+        "B. \\[\\frac{{\\pi \\sqrt 3 {a^3}}}{{72}}.\\]",
+        "C. \\[\\frac{{\\pi \\sqrt 3 {a^3}}}{{54}}.\\]",
+        "D. \\[\\frac{{\\pi {a^3}}}{{72}}.\\]"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Vì ABC là tam gúa đều nên tâm đường tròn nội tiếp trùng với trọng tâm O của tam giác. Khi đó, bán kính đường tròn nội tiếp R = OH = \\[\\frac{{AH}}{3}.\\] Xét tam giác ABH có: AH 2 = AB 2 – BH 2 = a 2 – \\[{\\left( {\\frac{a}{2}} \\right)^2} = \\frac{{3{a^2}}}{4}\\]. Suy ra R = \\[\\frac{{a\\sqrt 3 }}{6}.\\] Khi quay nửa đường tròn nội tiếp tam giác ABC một vòng quanh AH ta được hình cầu bán kính R = \\[\\frac{{a\\sqrt 3 }}{6}.\\] Do đó, V = \\[\\frac{4}{3}\\]π. \\[{\\left( {\\frac{{a\\sqrt 3 }}{6}} \\right)^3} = \\frac{{\\pi {a^3}\\sqrt 3 }}{{54}}\\]."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho một tam giác ABC đều có cạnh AB = 12 cm, đường cao AH. Khi đó thể tích hình cầu được tạo thành khi quay nửa đường tròn nội tiếp tam giác ABC một vòng quanh AH.",
+      "options": [
+        "A. \\[32\\sqrt 3 .\\]",
+        "B. \\[16\\pi \\sqrt 3 .\\]",
+        "C. \\[8\\pi \\sqrt 3 .\\]",
+        "D. \\[32\\pi \\sqrt 3 .\\]"
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Vì ∆ABC là tam giác đều nên tâm đường tròn nội tiếp trùng với trọng tâm O của tam giác. Khi đó, bán kính đường tròn nội tiếp là R = OH = \\[\\frac{{AH}}{3}\\]. Xét tam giác vuông AH 2 = AB 2 – BH 2 = 12 2 – \\[{\\left( {\\frac{{12}}{2}} \\right)^2}\\] = 108, suy ra AH = \\[6\\sqrt 3 \\] cm. Suy ra R = \\[\\frac{{AH}}{3} = 2\\sqrt 3 \\] cm. Khi quay nửa đường tròn nội tiếp tam giác ABC một vòng quanh AH ta được hình cầu bán kính R = \\[2\\sqrt 3 \\] suy ra V = = \\[\\frac{4}{3}\\]π. \\[{\\left( {2\\sqrt 3 } \\right)^3} = 32\\pi \\sqrt 3 \\] (cm 3 )."
+    }
+  ]
+}

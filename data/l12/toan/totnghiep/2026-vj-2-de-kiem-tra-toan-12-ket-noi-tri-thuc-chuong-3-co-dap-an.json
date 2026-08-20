@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-de-kiem-tra-toan-12-ket-noi-tri-thuc-chuong-3-co-dap-an",
+  "sourceId": "vietjack:2-de-kiem-tra-toan-12-ket-noi-tri-thuc-c",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "title": "2.Đề kiểm tra Toán 12 Kết nối tri thức Chương 3 có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Phần 1. Trắc nghiệm nhiều phương án lựa chọn Mỗi câu hỏi thí sinh chỉ chọn một phương án. Một vườn thú ghi lại tuổi thọ (đơn vị: năm) của 20 con hổ và thu được kết quả như sau: Khoảng biến thiên của mẫu số liệu ghép nhóm này là",
+      "options": [
+        "A. 3.",
+        "B. 4.",
+        "C. 5.",
+        "D. 6."
+      ],
+      "answer": "C",
+      "note": "Chọn C Khoảng biến thiên: \\(19 - 14 = 5\\)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Mỗi ngày bác Hương đều đi bộ để rèn luyện sức khoẻ. Quãng đường đi bộ mỗi ngày (đơn vị: km) của bác Hương trong 20 ngày được thống kê lại ở bảng sau: Khoảng tứ phân vị của mẫu số liệu ghép nhóm là",
+      "options": [
+        "A. 0,9.",
+        "B. 0,975.",
+        "C. 0,5.",
+        "D. 0,575."
+      ],
+      "answer": "D",
+      "note": "Chọn D Cỡ mẫu \\(n = 20\\). Gọi \\({x_1};{x_2}; \\ldots ;{x_{20}}\\)là mẫu số liệu gốc về quãng đường đi bộ mỗi ngày của bác Hương trong 20 ngày được xếp theo thứ tự không giảm. Ta có: \\({x_1}; \\ldots ;{x_3} \\in [2,7;3,0);{x_4}; \\ldots ;{x_9} \\in [3,0;3,3);{x_{10}}; \\ldots ;{x_{14}} \\in [3,3;3,6)\\) \\({x_{15}}; \\ldots ;{x_{18}} \\in [3,6;3,9){\\rm{;}}\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,{x_{19}};{x_{20}} \\in [3,9;4,2).\\) Tứ phân vị thứ nhất của mẫu số liệu gốc là \\(\\frac{1}{2}\\left( {{x_5} + {x_6}} \\right) \\in [3,0;3,3)\\). Do đó, tứ phân vị thứ nhất của mẫu số liệu ghép nhóm là: \\({Q_1} = 3,0 + \\frac{{\\frac{{20}}{4} - 3}}{6}(3,3 - 3,0) = 3,1\\). Tứ phân vị thứ ba của mẫu số liệu gốc là \\(\\frac{1}{2}\\left( {{x_{15}} + {x_{16}}} \\right) \\in \\left[ {3,6;3,9} \\right)\\). Do đó, tứ phân vị thứ ba của mẫu số liệu ghép nhóm là: \\({Q_3} = 3,6 + \\frac{{\\frac{{3.20}}{4} - \\left( {3 + 6 + 5} \\right)}}{4}\\left( {3,9 - 3,6} \\right) = 3,675\\). Khoảng tứ phân vị của mẫu số liệu ghép nhóm là: \\({\\Delta _Q} = {Q_3} - {Q_1} = 0,575\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Một mẫu số liệu ghép nhóm có phương sai bằng 25 thì có độ lệch chuẩn bằng:",
+      "options": [
+        "A. \\(4.\\)",
+        "B. \\(5.\\)",
+        "C. \\[256.\\]",
+        "D. \\(50.\\)"
+      ],
+      "answer": "B",
+      "note": "Chọn B Ta có độ lệch chuẩn bằng căn bậc hai số học của phương sai nên \\(s = 5.\\)"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Để đánh giá chất lượng của một loại pin điện thoại mới, người ta ghi lại thời gian nghe nhạc liên tục của điện thoại được sạc đầy pin cho đến khi hết pin cho kết quả sau: Tính độ lệch chuẩn của mẫu số liệu ghép nhóm trên (làm tròn đến 4 chữ số thập phân).",
+      "options": [
+        "A. \\[0,4252\\].",
+        "B. \\[0,5268\\].",
+        "C. \\[0,5314\\].",
+        "D. \\[0,6214\\]."
+      ],
+      "answer": "B",
+      "note": "Chọn B Giá trị trung bình: \\[\\overline x = \\frac{{2.5,25 + 8.5,75 + 15.6,25 + 10.6,75 + 5.7,25}}{{40}} = \\frac{{127}}{{20}} = 6,35\\]. Phương sai: \\[{s^2} = \\frac{{2.5,{{25}^2} + 8.5,{{75}^2} + 15.6,{{25}^2} + 10.6,{{75}^2} + 5.7,{{25}^2}}}{{40}} - 6,{35^2} = \\frac{{111}}{{400}}\\]. Độ lệch chuẩn: \\[s = \\sqrt {{s^2}} = \\sqrt {\\frac{{111}}{{400}}} \\approx 0,5268\\]."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Khảo sát thời gian chơi thể thao trong một ngày của 42 học sinh được cho trong bảng sau (thời gian đơn vị phút): Phương sai của mẫu số liệu được làm tròn đến chữ số thập phân thứ nhất là",
+      "options": [
+        "A. \\(598\\) .",
+        "B. \\(597\\) .",
+        "C. \\(2477,1\\) .",
+        "D. \\(256,2\\) ."
+      ],
+      "answer": "A",
+      "note": "Chọn A Trung bình thời gian chơi thể thao trong một ngày của một học sinh là: \\(\\overline x = \\frac{{10.5 + 30.9 + 50.12 + 70.10 + 90.6}}{{42}} = \\frac{{360}}{7} = 51,42857143\\). Phương sai của mẫu số liệu là: \\({S^2} = \\frac{{{{5.10}^2} + {{9.30}^2} + {{12.50}^2} + {{10.70}^2} + {{6.90}^2}}}{{42}} - {\\left( {\\frac{{360}}{7}} \\right)^2} = \\frac{{29300}}{{49}} = 597,9591837 \\approx 598\\). Phương sai của mẫu số liệu được làm tròn đến chữ số thập phân thứ nhất là \\({S^2} \\approx 598\\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Người ta ghi lại tiền lãi (đơn vị: triệu đồng) của một số nhà đầu tư (với số tiền đầu tư như nhau), khi đầu tư vào hai lĩnh vực \\(A,B\\) cho kết quả như sau: Người ta có thể dùng phương sai và độ lệch chuẩn để so sánh mức độ rủi ro đầu tư các lĩnh vực có giá trị trung bình tiền lãi gần bằng nhau. Lĩnh vực nào có phương sai, độ lệch chuẩn tiền lãi cao hơn thì được coi là có độ rủi ro lớn hơn. Theo quan điểm trên, độ rủi ro của cổ phiếu nào cao hơn?",
+      "options": [
+        "A. Lĩnh vực \\(A\\) có độ rủi ro bằng lĩnh vực \\(B\\) .",
+        "B. Lĩnh vực \\(A\\) có độ rủi ro cao hơn lĩnh vực \\(B\\) .",
+        "C. Lĩnh vực \\(A\\) có độ rủi ro thấp hơn lĩnh vực \\(B\\) .",
+        "D. Không so sánh được."
+      ],
+      "answer": "C",
+      "note": "Chọn C Lĩnh vực \\(A\\) Lĩnh vực \\(B\\) Giá trị trung bình của hai lĩnh vực \\(A\\) và \\(B\\) lần lượt là \\[{\\bar x_A} = \\frac{1}{{25}}.\\left( {2.7,5 + 5.12,5 + 8.17,5 + 6.22,5 + 4.27,5} \\right) = 18,5{\\rm{ }}\\] \\[{\\bar x_B} = \\frac{1}{{25}}.\\left( {8.7,5 + 4.12,5 + 2.17,5 + 5.22,5 + 6.27,5} \\right) = 16,9{\\rm{ }}\\] Về độ trung bình đầu tư vào lĩnh vực \\(A\\) lãi hơn lĩnh vực \\(B\\). Độ lệch chuẩn của hai lĩnh vực \\(A\\) và \\(B\\) lần lượt là \\[{s_A} = \\sqrt {\\frac{1}{{25}}.\\left( {2.7,{5^2} + 5.12,{5^2} + 8.17,{5^2} + 6.22,{5^2} + 4.27,{5^2}} \\right) - 18,{5^2}} = 5,8\\]; \\({s_B} = \\sqrt {\\frac{1}{{25}}.\\left( {8.7,{5^2} + 4.12,{5^2} + 2.17,{5^2} + 5.22,{5^2} + 6.27,{5^2}} \\right) - 16,{9^2}} = 8,04.\\) Như vậy độ lệch chuẩn của mẫu số liệu thu tiền được hàng tháng khi đầu tư vào lĩnh vực \\(B\\) cao hơn lĩnh vực \\(A\\) nên đầu tư vào lĩnh vực \\(B\\) rủi ro hơn."
+    }
+  ]
+}

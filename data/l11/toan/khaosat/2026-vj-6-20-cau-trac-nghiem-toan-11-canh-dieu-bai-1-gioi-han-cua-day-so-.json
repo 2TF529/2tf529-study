@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-6-20-cau-trac-nghiem-toan-11-canh-dieu-bai-1-gioi-han-cua-day-so-",
+  "sourceId": "vietjack:6-20-cau-trac-nghiem-toan-11-canh-dieu-b",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "6.20 câu Trắc nghiệm Toán 11 Cánh diều Bài 1. Giới hạn của dãy số (Đúng-sai, trả lời ngắn) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: TRẮC NGHIỆM NHIỀU LỰA CHỌN Cho hai dãy (u n ) và (v n ) thỏa mãn limu n = 6 và limv n = 12. Giá trị của lim(u n – v n ) bằng",
+      "options": [
+        "A. 2.",
+        "B. 72.",
+        "C. 18.",
+        "D. −6."
+      ],
+      "answer": "D",
+      "note": "D lim(u n – v n ) = 6 – 12 = −6."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hai dãy (u n ) và (v n ) thỏa mãn \\(\\lim {u_n} = \\sqrt 3 \\) và limv n = 2. Giá trị của \\(\\lim \\frac{{{u_n}}}{{{v_n}}}\\) bằng",
+      "options": [
+        "A. \\(2\\sqrt 3 \\) .",
+        "B. \\(\\frac{{\\sqrt 3 }}{2}\\) .",
+        "C. \\(2 + \\sqrt 3 \\) .",
+        "D. \\( - 2 + \\sqrt 3 \\) ."
+      ],
+      "answer": "B",
+      "note": "B Ta có \\(\\lim \\frac{{{u_n}}}{{{v_n}}} = \\frac{{\\sqrt 3 }}{2}\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Tính giới hạn \\(I = \\lim \\frac{{2n + 2023}}{{3n + 2024}}\\) .",
+      "options": [
+        "A. \\(I = \\frac{2}{3}\\) .",
+        "B. \\(I = \\frac{3}{2}\\) .",
+        "C. \\(I = \\frac{{2023}}{{2024}}\\) .",
+        "D. \\(I = 1\\) ."
+      ],
+      "answer": "A",
+      "note": "A \\(I = \\lim \\frac{{2n + 2023}}{{3n + 2024}}\\)\\( = \\lim \\frac{{2 + \\frac{{2023}}{n}}}{{3 + \\frac{{2024}}{n}}} = \\frac{2}{3}\\)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Tính \\(\\lim \\frac{{2{n^2} - 3}}{{{n^6} + 5{n^5}}}\\) .",
+      "options": [
+        "A. 2.",
+        "B. 0.",
+        "C. \\(\\frac{{ - 3}}{5}\\) .",
+        "D. −3."
+      ],
+      "answer": "B",
+      "note": "B \\(\\lim \\frac{{2{n^2} - 3}}{{{n^6} + 5{n^5}}}\\)\\(\\lim \\frac{{\\frac{2}{{{n^4}}} - \\frac{3}{{{n^6}}}}}{{1 + \\frac{5}{n}}} = 0\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Giới hạn \\(\\lim \\frac{{{3^n} + {2^n}}}{{{4^n}}}\\) có kết quả là",
+      "options": [
+        "A. 0.",
+        "B. \\(\\frac{5}{4}\\) .",
+        "C. \\(\\frac{3}{4}\\) .",
+        "D. +∞."
+      ],
+      "answer": "A",
+      "note": "A \\(\\lim \\frac{{{3^n} + {2^n}}}{{{4^n}}}\\)\\( = \\lim \\frac{{{{\\left( {\\frac{3}{4}} \\right)}^n} + {{\\left( {\\frac{2}{3}} \\right)}^n}}}{1}\\) = 0."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho các dãy số (u n ), (v n ) và limu n = a, limv n = +∞ thì \\(\\lim \\frac{{{u_n}}}{{{v_n}}}\\) bằng",
+      "options": [
+        "A. 1.",
+        "B. 0.",
+        "C. −∞.",
+        "D. +∞."
+      ],
+      "answer": "B",
+      "note": "B limu n = a, limv n = +∞ thì \\(\\lim \\frac{{{u_n}}}{{{v_n}}} = 0\\)."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Cho số thập phân vô hạn tuần hoàn a = 2,151515... (chu kỳ 15), a được biểu diễn dưới dạng phân số tối giản, trong đó m, n là các số nguyên dương. Tìm tổng m + n.",
+      "options": [
+        "A. m + n = 104.",
+        "B. m + n = 312.",
+        "C. m + n = 38.",
+        "D. m + n = 114."
+      ],
+      "answer": "A",
+      "note": "A Ta có \\(a = 2,151515... = 2 + \\frac{{15}}{{100}} + \\frac{{15}}{{{{100}^2}}} + \\frac{{15}}{{{{100}^3}}} + ...\\) Vì \\(\\frac{{15}}{{100}} + \\frac{{15}}{{{{100}^2}}} + \\frac{{15}}{{{{100}^3}}} + ...\\) là tổng của cấp số nhân lùi vô hạn với số hạng đầu \\({u_1} = \\frac{{15}}{{100}}\\), công bội \\(q = \\frac{1}{{100}}\\) nên \\(a = 2 + \\frac{{\\frac{{15}}{{100}}}}{{1 - \\frac{1}{{100}}}} = \\frac{{71}}{{33}}\\). Suy ra m = 71; n = 33. Do đó m + n = 104."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Dãy số nào sau đây có giới hạn bằng 0?",
+      "options": [
+        "A. \\({u_n} = \\frac{{3n}}{{2{n^2} + 1}}\\) .",
+        "B. u n = 2n – 5n 2 .",
+        "C. \\({u_n} = \\frac{{5n + 1}}{{7n + 13}}\\) .",
+        "D. \\({u_n} = \\frac{{2{n^2} + 3n - 1}}{{{n^2} + 7n - 3}}\\) ."
+      ],
+      "answer": "A",
+      "note": "A Ta có \\(\\lim \\frac{{3n}}{{2{n^2} + 1}} = \\lim \\frac{{3n}}{{{n^2}\\left( {2 + \\frac{1}{{{n^2}}}} \\right)}} = \\lim \\frac{3}{{n\\left( {2 + \\frac{1}{{{n^2}}}} \\right)}} = 0\\)."
+    }
+  ]
+}

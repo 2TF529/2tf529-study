@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-toan-10-chan-troi-sang-tao-ba-i-ta-p-cuo-i-c",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-toan-10-chan-troi-s",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Toán 10 chân trời sáng tạo Bài tập cuối chương 7 có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho f(x) = x 2 – 4. Tìm khẳng định sai trong các khẳng định sau đây",
+      "options": [
+        "A. f(x) < 0 khi x \\[ \\in \\] ( – 2; 2);",
+        "B. f(x) > 0 khi x \\[ \\in \\] (- ∞; - 2) ∪ (2; + ∞);",
+        "C. f(x) = 0 khi x = 2; x = – 2;",
+        "D. f(x) > 0 khi x \\[ \\in \\] (– 2; 2)."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Xét f(x) = x 2 – 4 có ∆ = 16 > 0, hai nghiệm phân biệt là x = –2; x = 2 và a = 1 > 0 Ta có bảng xét dấu x -∞ – 2 2 +∞ f(x) + 0 – 0 + Từ bảng xét dấu ta có f(x) > với mọi x \\( \\in \\) (- ∞; - 2) và (2; + ∞) ; f(x) < 0 khi x \\[ \\in \\] ( – 2; 2) Vậy khẳng định sai là D."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Tam thức f(x) = x 2 + 2x – 3 nhận giá trị dương khi và chỉ khi",
+      "options": [
+        "A. x \\( \\in \\) (- ∞; - 3) ∪ (1; + ∞) ;",
+        "B. x \\( \\in \\) (- ∞; - 1) ∪ (3; + ∞) ;",
+        "C. x \\( \\in \\) (- ∞; - 2) ∪ (6; + ∞) ;",
+        "D. x \\( \\in \\) (1; 3) ."
+      ],
+      "answer": "A",
+      "note": "Xét f(x) = x 2 + 2x – 3 có ∆ = 16 > 0, hai nghiệm phân biệt là x = 1 ; x = – 3 và a = 1 > 0. Ta có bảng xét dấu x – ∞ – 3 1 +∞ f(x) + 0 – 0 + Từ bảng xét dấu ta có f(x) > với mọi x \\( \\in \\) (- ∞; - 3) ∪ (1; + ∞) ; f(x) < 0 khi x \\[ \\in \\] ( – 3; 1). Vậy f(x) nhận giá trị dương với mọi x \\( \\in \\) (- ∞; - 3) ∪ (1; + ∞) ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: nghiệm của phương trình \\[\\sqrt {2x - 3} = x - 3\\]",
+      "options": [
+        "A. 0;",
+        "B. 1;",
+        "C. 2;",
+        "D. 3."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Bình phương hai vế của phương trình ta có 2x – 3 = (x – 3) 2 \\( \\Rightarrow \\) 2x – 3 = x 2 – 6x + 9 \\( \\Rightarrow \\) x 2 – 8x + 12 = 0 \\( \\Rightarrow \\) x = 2 hoặc x = 6 Thay lần lượt hai nghiệm vào phương trình, ta thấy x = 6 thoả mãn Vậy phương trình có 1 nghiệm"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Nghiệm của phương trình \\[\\sqrt {{x^2} - 3x} = \\sqrt {2x - 4} \\]",
+      "options": [
+        "A. x = 4;",
+        "B. x = 2;",
+        "C. x = 0;",
+        "D. x = 1."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Bình phương hai vế của phương trình ta có x 2 – 3x = 2x – 4 \\( \\Rightarrow \\) x 2 – 5x + 4 = 0 \\( \\Rightarrow \\) x = 1 hoặc x = 4 Thay lần lượt hai nghiệm vào phương trình, ta thấy x = 4 thoả mãn Vậy phương trình có nghiệm là x = 4"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho f(x) = mx 2 – 2x – 1. Xác định m để f(x) ≤ 0 với \\[\\forall x \\in \\mathbb{R}\\] .",
+      "options": [
+        "A. m ≤ – 1;",
+        "B. m ≤ 0;",
+        "C. – 1 ≤ m ≤ 0 .",
+        "D. m ≤ 1 và m ≠ 0 ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Trường hợp 1. m = 0 . Khi đó f(x) = – 2x – 1 ≤ 0 \\[ \\Leftrightarrow x \\ge - \\frac{1}{2}\\] Vậy m = 0 không thỏa mãn f(x) ≤ 0 với \\[\\forall x \\in \\mathbb{R}\\] Trường hợp 2. m ≠ 0 . Khi đó: f(x) = mx 2 – 2x – 1 < 0 với \\[\\forall x \\in \\mathbb{R}\\]\\[ \\Leftrightarrow \\left\\{ \\begin{array}{l}a = m < 0\\\\\\Delta ' = 1 + m \\le 0\\end{array} \\right. \\Leftrightarrow m \\le - 1\\] Vậy m ≤ – 1 thỏa mãn bài toán."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Tích các nghiệm của phương trình \\[{x^2} - 2x + 3\\sqrt {{x^2} - 2x - 3} = 7\\] là:",
+      "options": [
+        "A. 1;",
+        "B. 0;",
+        "C. 2;",
+        "D. – 4."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C \\[{x^2} - 2x + 3\\sqrt {{x^2} - 2x - 3} = 7 \\Leftrightarrow {x^2} - 2x - 3 + 3\\sqrt {{x^2} - 2x - 3} - 4 = 0\\] Đặt \\[\\sqrt {{x^2} - 2x - 3} = t(t \\ge 0)\\] ta có phương trình t 2 + 3t – 4 =0 \\[ \\Leftrightarrow \\left[ \\begin{array}{l}t = 1\\\\t = - 4\\end{array} \\right.\\] Kết hợp với điều kiện của t ta có t = 1 thỏa mãn Với t = 1 \\[ \\Rightarrow \\sqrt {{x^2} - 2x - 3} = 1 \\Leftrightarrow {x^2} - 2x - 4 = 0 \\Leftrightarrow \\left[ \\begin{array}{l}x = 1 + \\sqrt 5 \\\\x = 1 - \\sqrt 5 \\end{array} \\right.\\] Thay lần lượt các nghiệm vào phương trình ta có \\[x = 1 + \\sqrt 5 ;x = 1 - \\sqrt 5 \\] đều thỏa mãn Vậy tích các nghiệm của phương trình S = – 4."
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-toan-10-canh-dieu-khai-niem-vecto-co-dap-an",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-toan-10-canh-dieu-k",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu  Trắc nghiệm Toán 10 Cánh Diều Khái niệm vectơ có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho tam giác ABC , có bao nhiêu vectơ khác vectơ - không , có điểm đầu và điểm cuối là các đỉnh A, B, C.",
+      "options": [
+        "A. 3",
+        "B. 6",
+        "C. 4",
+        "D. 9"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Đó là các vectơ: A B → , B A → , B C → , C B → , C A → , A C → ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho tứ giác ABCD, c ó bao nhiêu vectơ khác vectơ - không , có điểm đầu và cuối là các đỉnh của tứ giác?",
+      "options": [
+        "A. 4",
+        "B. 6",
+        "C. 8",
+        "D. 12"
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Xét các vectơ có điểm A là điểm đầu thì có các vectơ thỏa mãn bài toán là A B → , A C → , A D → ⇒ có 3 vectơ. Tương tự cho các điểm còn lại B, C, D. Như vậy sẽ có tất cả 12 vectơ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Mệnh đề nào sau đây đúng?",
+      "options": [
+        "A. Có duy nhất một vectơ cùng phương với mọi vectơ .",
+        "B. Có ít nhất hai vectơ có cùng phương với mọi vectơ .",
+        "C. Có vô số vectơ cùng phương với mọi vectơ .",
+        "D. Không có vectơ nào cùng phương với mọi vectơ ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Vì vectơ - không, cùng phương với mọi vectơ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho ba điểm A, B, C phân biệt. Khi đó:",
+      "options": [
+        "A. Điều kiện cần và đủ để A, B, C thẳng hàng là A B → cùng phương với A C →",
+        "B. Điều kiện đủ để A, B, C thẳng hàng là với mọi M, M A → cùng phương với A B →",
+        "C. Điều kiện cần để A, B, C thẳng hàng là với mọi M, M A → cùng phương với A B →",
+        "D. Điều kiện cần để A, B, C thẳng hàng là A B → = A C → ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Điều kiện cần và đủ để A, B, C thẳng hàng là A B → cùng phương với A C →"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Gọi M, N lần lượt là trung điểm của các cạnh AB, AC của tam giác đều ABC . Hỏi cặp vectơ nào sau đây cùng hướng?",
+      "options": [
+        "A. M N → và C B →",
+        "B. A B → và M B →",
+        "C. M A → và M B →",
+        "D. A N → và C A →"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Quan sát ta thấy : A B → và M B → cùng hướng."
+    }
+  ]
+}

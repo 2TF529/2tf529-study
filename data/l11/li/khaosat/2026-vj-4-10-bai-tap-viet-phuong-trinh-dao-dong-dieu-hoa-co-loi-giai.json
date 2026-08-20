@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-4-10-bai-tap-viet-phuong-trinh-dao-dong-dieu-hoa-co-loi-giai",
+  "sourceId": "vietjack:4-10-bai-tap-viet-phuong-trinh-dao-dong-",
+  "grade": "l11",
+  "subjectSlug": "li",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "4.10 Bài tập Viết phương trình dao động điều hoà (có lời giải)",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Một vật dao động điều hòa với biên độ A = 2 cm, tần số góc 5rad/s pha ban đầu π 2 r a d . Phương trình dao động của vật là",
+      "options": [
+        "A. x = 2 cos 5 π t + π 2 cm .",
+        "B. x = 2 cos 5 t + π 2 cm .",
+        "C. x = 2 cos 5 π t − π 2 cm .",
+        "D. x = 2 cos 10 π t + π 2 cm ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là B Phương trình dao động của vật là x = 2 cos 5 t + π 2 cm ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Một vật nhỏ dao động điều hòa dọc theo trục Ox với biên độ 5 cm, chu kỳ 2 s. Tại thời điểm t = 0, vật đi qua vị trí cân bằng theo chiều dương. Phương trình dao động của vật là",
+      "options": [
+        "A. x = 5 cos π t − π 2 cm .",
+        "B. x = 5 cos 2 π t − π 2 cm .",
+        "C. x = 5 cos 2 π t + π 2 cm .",
+        "D. x = 5 cos π t + π 2 cm ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là B Ta có ω = 2 π T = π rad/s. Phương trình dao động của vật có dạng x = 5 cos 2 π t + φ . Tại thời điểm t=0 ta có c os φ = 0 − sin φ > 0 ⇒ φ = − π 2 ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Một vật nhỏ dao động điều hòa dọc theo trục Ox. Trong thời gian 31,4 s chất điểm thực hiện được 100 dao động toàn phần. Gốc thời gian là lúc chất điểm đi qua vị trí có li độ 2 cm theo chiều âm với tốc độ 40 3 cm/s. Lấy π = 3 , 14 , phương trình dao động của chất điểm là",
+      "options": [
+        "A. x = 4 cos 20 t − π 3 cm .",
+        "B. x = 6 cos 20 t + π 6 cm .",
+        "C. x = 6 cos 20 t − π 6 cm .",
+        "D. x = 4 cos 20 t + π 3 cm ."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là D Chu kì dao động là T = 31 , 4 100 = π 10 s ⇒ ω = 2 π T = 20 rad/s . Ta có A = x 2 + v 2 ω 2 = 4 + 40 3 20 2 = 4 cm. Phương trình dao động của vật có dạng x = 4 cos 20 t + φ cm . Tại thời điểm t=0 ta có c os φ = 1 2 − sin φ = − 3 2 ⇒ φ = π 3 ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Một vật nhỏ dao động điều hòa với chu kì T = 2 s. Khi vật cách vị trí cân bằng một khoảng 5 cm thì vật có vận tốc là 12π cm/s. Chọn mốc thời gian khi vật qua vị trí cân bằng theo chiều âm. Phương trình dao động của vật là",
+      "options": [
+        "A. x = 13 cos 2 π t + π 2 cm .",
+        "B. x = 13 cos 2 π t − π 2 cm .",
+        "C. x = 12 cos π t + π 2 cm .",
+        "D. x = 13 cos π t + π 2 cm ."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là D Ta có ω = 2 π T = π rad/s. Lại có hệ thức độc lập với thời gian x 2 + v 2 ω 2 = A 2 ⇒ A = 5 2 + 12 2 = 13 cm. Phương trình của vật x = 13 cos π t + φ . Tại t = 0 ta có x = 13 cos φ = 0 v = − 13 π sin φ < 0 ⇒ φ = π 2 ⇒ x = 13 cos π t + π 2 c m ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Một vật nhỏ dao động điều hòa trên quỹ đạo dài 8 cm. Khi đi qua vị trí cân bằng vận tốc có độ lớn 40 π c m/s. Gọi mốc thời gian là lúc vật đi qua vị trí 2 3 theo chiều dương. Phương trình dao động của vật là",
+      "options": [
+        "A. x = 4 cos 10 π t − π 6 c m .",
+        "B. x = 4 cos 20 π t + π 6 c m .",
+        "C. x = 2 cos 20 π t − π 6 c m .",
+        "D. x = 2 cos 0 π t + π 6 c m ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là A Biên độ dao động là A = L 2 = 4 cm. Lại có ω A = 40 π ⇒ ω = 10 π rad/s. Giả sử phương trình dao động của vật là x = 4 cos 10 π t + φ . Tại t=0 ta có x = 4 cos φ = 2 3 v = − 40 π sin φ > 0 ⇒ φ = − π 6 ⇒ x = 4 cos 10 π t − π 6 c m ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Một vật dao động điều hoà, khoảng thời gian giữa hai lần liên tiếp vật qua vị trí cân bằng là 0,5s quãng đường vật đi được trong 2s là 32cm Gốc thời gian được chọn lúc vật qua li độ x = 2 3 cm theo chiều dương. Phương trình dao động của vật là",
+      "options": [
+        "A. x = 8 c os π t + π 3 c m .",
+        "B. x = 4 c os 2 π t − π 3 c m .",
+        "C. x = 4 c os 2 π t − π 6 c m .",
+        "D. x = 8 c os π t + π 6 c m ."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là C Ta có T 2 = 0 , 5 s ⇒ T = 1 s ⇒ ω = 2 π rad/s. Quãng đường vật đi được trong là S = 2.4 A = 32 ⇒ A = 4 c m . cos φ = 3 2 v à sin φ < 0 ⇒ φ = − π 6 ."
+    }
+  ]
+}

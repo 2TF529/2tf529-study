@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-trac-nghiem-nang-luong-cua-dong-dien-va-cong-suat-dien-lop-9-co",
+  "sourceId": "vietjack:1-trac-nghiem-nang-luong-cua-dong-dien-v",
+  "grade": "l9",
+  "subjectSlug": "sinh",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.Trắc nghiệm Năng lượng của dòng diện và công suất diện lớp 9 (có đáp án)",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Công suất điện cho biết:",
+      "options": [
+        "A. Khả năng thực hiện công của dòng điện.",
+        "B. Năng lượng của dòng điện.",
+        "C. Năng lượng của dòng điện chạy qua 1 đoạn mạch trong một đơn vị thời gian.",
+        "D. Mức độ mạnh - yếu của dòng điện."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Năng lượng của dòng điện chạy qua 1 đoạn mạch trong một đơn vị thời gian gọi là công suất điện."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Công thức liên hệ công suất của dòng điện, cường độ dòng điện, trên một đoạn mạch giữa hai đầu có hiệu điện thế U là:",
+      "options": [
+        "A. 𝒫 = UI.",
+        "B. 𝒫 = I U .",
+        "C. 𝒫 = U I .",
+        "D. 𝒫 = U 2 I ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Công suất điện trong một đoạn mạch bằng tích hiệu điện thế giữa hai đầu đoạn mạch với cường độ dòng điện qua nó. Công thức: 𝒫 = UI"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trên nhiều dụng cụ điện trong gia đình thường có ghi 220V và số oát W. Số oát này có ý nghĩa gì?",
+      "options": [
+        "A. Công suất tiêu thụ điện của dụng cụ khi nó được sử dụng với những hiệu điện thế nhỏ hơn 220V.",
+        "B. Công suất tiêu thụ điện của dụng cụ khi nó được sử dụng với đúng hiệu điện thế 220V.",
+        "C. Công mà dòng điện thực hiện trong một phút khi dụng cụ này được sử dụng với đúng hiệu điện thế 220V.",
+        "D. Điện năng mà dụng cụ tiêu thụ trong một giờ khi nó được sử dụng với đúng hiệu điện thế 220V."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Số oát trên dụng cụ tiêu thụ điện có ý nghĩa công suất tiêu thụ điện của dụng cụ khi nó được sử dụng đúng với hiệu điện thế 220V ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Một bóng đèn có ghi 220V - 60W mắc vào một nguồn điện. Khi đó cường độ dòng điện qua đèn là 0,18A thì ta thấy đèn sáng:",
+      "options": [
+        "A. bình thường.",
+        "B. sáng yếu.",
+        "C. sáng mạnh.",
+        "D. không sáng."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có: + Số chỉ trên bóng đèn cho biết hiệu điện thế định mức và công suất định mức: U = 220V, 𝒫 = 60W + Khi đèn sáng bình thường thì dòng điện chạy qua đèn có giá trị: 𝒫 = UI ⇒ I = 𝒫 /U = 60 /220 = 0,273A ⇒ Khi cường độ dòng điện qua đèn là 0,18A < 0,273A ⇒ Đèn sáng yếu hơn bình thường."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Bóng đèn có điện trở 8Ω và cường độ dòng điện định mức là 2A. Tính công suất định mức của bóng đèn?",
+      "options": [
+        "A. 32W.",
+        "B. 16W.",
+        "C. 4W.",
+        "D. 0,5W."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Công suất định mức của bóng đèn: 𝒫 = U.I = I.R.I = I 2 R = 2 2 .8 = 32W"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Năng lượng điện trên 1 đoạn mạch chuyển hóa thành các dạng năng lượng khác được tính bằng công thức nào?",
+      "options": [
+        "A. W = I.R.t.",
+        "B. W = I.U.t.",
+        "C. W = I2.R.t.",
+        "D. W = I.U2.t."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Năng lượng điện trên 1 đoạn mạch chuyển hóa thành các dạng năng lượng khác được tính bằng công thức W = U.I.t"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-10-ket-noi-tri-thuc-bai-18-co-dap-an",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-10-ket-noi-",
+  "grade": "l10",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu trắc nghiệm Tin học 10 Kết nối tri thức Bài 18 có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Đưa dữ liệu ra màn hình dùng thủ tục nào?",
+      "options": [
+        "A. print().",
+        "B. input().",
+        "C. C . type().",
+        "D. abs()."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Sử dụng print() để đưa dữ liệu ra màn hình"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu lệnh nào dùng để đưa dữ liệu từ bàn phím vào?",
+      "options": [
+        "A. print().",
+        "B. B . input().",
+        "C. C . nhap().",
+        "D. D . enter()."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Thủ tục input() đưa dữ liệu vào"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Phát biểu nào sau đây là sai ?",
+      "options": [
+        "A. Lệnh input() có chức năng nhập dữ liệu từ thiết bị chuẩn vào bàn phím",
+        "B. Bàn phím là thiết bị chuẩn duy nhất",
+        "C. Nội dung nhập có thể là số",
+        "D. Kết quả của lệnh input() là một xâu kí tự"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Có nhiều thiết bị chuẩn trong đó có bàn phím"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: 1) Cú pháp lệnh input() : &lt;biến&gt; :=input(&lt;Dòng thông báo&gt;) 2) Lệnh print() có chức năng đưa dữ liệu ra thiết bị chuẩn, thường là bàn phím 3) Lệnh input() có chức năng nhập dữ liệu thường từ bàn phím 4) Thông tin cần đưa ra có thể gồm nhiều kiểu dữ liệu khác nhau, cho phép cả biểu thức tính toán Số phát biểu đúng là",
+      "options": [
+        "A. 1.",
+        "B. 2.",
+        "C. 3.",
+        "D. D . 4."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Các phát biểu đúng 3, 4"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Đâu không phải là kiểu dữ liệu cơ bản trong python ?",
+      "options": [
+        "A. int.",
+        "B. float.",
+        "C. list.",
+        "D. string."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Các kiểu dữ liệu cơ bản trong python như int, string, float, double,…"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Kết quả của dòng lệnh sau >>x=6.7 >>type(x)",
+      "options": [
+        "A. int.",
+        "B. float.",
+        "C. string.",
+        "D. double."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B"
+    }
+  ]
+}

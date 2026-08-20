@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-9-ket-noi-tri-thuc-bai-13a-co-dap-an",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-9-ket-noi-t",
+  "grade": "l9",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu trắc nghiệm Tin học 9 Kết nối tri thức Bài 13a có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Trong trang tính Thu nhập, công thức tại ô H7 để tính tổng thu nhập là gì?",
+      "options": [
+        "A. =SUM(H1:H6)",
+        "B. =SUM(H2:H6)",
+        "C. =SUM(A2:A6)",
+        "D. =SUM(H2:H7)"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Công thức =SUM(H2:H6) tính tổng các giá trị từ ô H2 đến H6, đúng với vùng dữ liệu của các khoản thu nhập trong bảng."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Trong trang tính Chi tiêu, công thức tại ô H11 để tính tổng chi tiêu là gì?",
+      "options": [
+        "A. =SUM(H1:H10)",
+        "B. =SUM(H2:H10)",
+        "C. =SUM(A2:A10)",
+        "D. =SUM(H2:H11)"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Công thức =SUM(H2:H10) đúng với vùng dữ liệu chứa các khoản chi tiêu từ H2 đến H10."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Công thức để lấy giá trị tổng thu nhập từ trang tính Thu nhập đưa vào ô B14 trong trang tính Tổng hợp là gì?",
+      "options": [
+        "A. ='Thu nhập'!H7",
+        "B. =Thu nhập!H7",
+        "C. =Thu nhập:H7",
+        "D. =SUM('Thu nhập'!H7)"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Công thức =Thu nhập!H7 tham chiếu trực tiếp đến ô H7 trong trang tính Thu nhập."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Công thức để lấy giá trị tổng chi tiêu từ trang tính Chi tiêu đưa vào ô B15 trong trang tính Tổng hợp là gì?",
+      "options": [
+        "A. =Chi tiêu!H11",
+        "B. ='Chi tiêu'!H11",
+        "C. =Chi tiêu:H11",
+        "D. =SUM('Chi tiêu'!H11)"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Công thức ='Chi tiêu'!H11 tham chiếu trực tiếp đến ô H11 trong trang tính Chi tiêu, trong đó tên trang tính chứa khoảng trắng được đặt trong dấu nháy đơn."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Công thức tại ô B16 trong trang tính Tổng hợp để tính giá trị NET là gì?",
+      "options": [
+        "A. =B14+B15",
+        "B. =B14-B15",
+        "C. =SUM(B14,B15)",
+        "D. =B15-B14"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Giá trị NET là số tiền chênh lệch giữa thu nhập và chi tiêu, được tính bằng =B14-B15."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Khi tạo biểu đồ so sánh tổng thu nhập và chi tiêu, vùng dữ liệu cần chọn là gì?",
+      "options": [
+        "A. A13:B16",
+        "B. A13:B15",
+        "C. A13:A16",
+        "D. B13:B15"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Vùng dữ liệu từ A13 đến B15 chứa tiêu đề, tổng thu nhập và tổng chi tiêu, đủ để tạo biểu đồ so sánh."
+    }
+  ]
+}

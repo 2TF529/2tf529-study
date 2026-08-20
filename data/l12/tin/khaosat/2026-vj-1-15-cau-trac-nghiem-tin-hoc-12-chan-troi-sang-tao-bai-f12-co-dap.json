@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-12-chan-troi-sang-tao-bai-f12-co-dap",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-12-chan-tro",
+  "grade": "l12",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 12 Chân trời sáng tạo Bài F12 có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Để làm nổi bật hộp văn bản khi người dùng đặt con trỏ vào, thuộc tính nào cần được sử dụng để thay đổi đường viền của hộp văn bản?",
+      "options": [
+        "A. background-color",
+        "B. border",
+        "C. outline",
+        "D. box-shadow"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Thuộc tính outline được sử dụng để thay đổi đường viền của hộp văn bản khi người dùng đặt con trỏ vào, mà không làm ảnh hưởng đến kích thước và bố cục của hộp văn bản."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Để định kiểu cho các hộp văn bản trong biểu mẫu với kích thước tổng cộng là 300 pixels, bạn cần sử dụng thuộc tính nào để tính gộp vùng đệm và đường biên vào tổng chiều rộng?",
+      "options": [
+        "A. box-sizing",
+        "B. margin",
+        "C. padding",
+        "D. border"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Thuộc tính box-sizing với giá trị border-box cho phép tính gộp vùng đệm và đường biên vào tổng chiều rộng của hộp văn bản."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Để làm cho nút nhấn chuyển sang màu đỏ khi đang được nhấn và giữ chuột, thuộc tính nào cần được sử dụng?",
+      "options": [
+        "A. :hover",
+        "B. :focus",
+        "C. :checked",
+        "D. :active"
+      ],
+      "answer": "D",
+      "note": "Đáp án: D Giải thích: Thuộc tính :active được sử dụng để định kiểu cho nút nhấn khi đang được nhấn và giữ chuột."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Để định kiểu cho nút tròn trong trạng thái được chọn, thuộc tính nào cần được sử dụng?",
+      "options": [
+        "A. :hover",
+        "B. :focus",
+        "C. :checked",
+        "D. :active"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Thuộc tính :checked được sử dụng để định kiểu cho nút tròn hoặc hộp kiểm khi chúng ở trạng thái được chọn."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Để đặt thuộc tính hiển thị cho các phần tử HTML cấp độ block trong biểu mẫu, bạn cần sử dụng giá trị nào cho thuộc tính display?",
+      "options": [
+        "A. inline",
+        "B. flex",
+        "C. block",
+        "D. none"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Giá trị block của thuộc tính display được sử dụng để đặt các phần tử HTML cấp độ block hiển thị toàn bộ chiều rộng của trang và tuần tự trên từng dòng."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Để đặt màu nền cho hộp văn bản khi con trỏ chuột nằm trên nó, bạn cần sử dụng thuộc tính nào?",
+      "options": [
+        "A. background-color",
+        "B. border-color",
+        "C. color",
+        "D. outline-color"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Để thay đổi màu nền của hộp văn bản khi con trỏ chuột nằm trên nó, bạn cần sử dụng thuộc tính background-color trong trạng thái :hover."
+    }
+  ]
+}

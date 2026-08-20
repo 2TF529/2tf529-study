@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-12-chan-troi-sang-tao-bai-b6-co-dap-",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-12-chan-tro",
+  "grade": "l12",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 12 Chân trời sáng tạo Bài B6 có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Mạng nội bộ (LAN) thường được triển khai trong phạm vi nào?",
+      "options": [
+        "A. Toàn cầu",
+        "B. Quốc gia",
+        "C. Văn phòng, tòa nhà hoặc khu vực nhỏ",
+        "D. Thành phố"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Mạng nội bộ là hệ thống mạng được thiết kế để kết nối các thiết bị và tài nguyên trong một phạm vi hạn chế như văn phòng, tòa nhà hoặc khu vực nhỏ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Địa chỉ IP được sử dụng trong mạng nội bộ có hai phiên bản chính là gì?",
+      "options": [
+        "A. IPv2 và IPv4",
+        "B. IPv4 và IPv6",
+        "C. IPv6 và IPv8",
+        "D. IPv3 và IPv5"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Địa chỉ IP có hai phiên bản chính là IPv4 và IPv6, được sử dụng để xác định và định vị thiết bị trong mạng nội bộ khi truyền dữ liệu ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Thiết bị nào đóng vai trò quản lí lưu lượng mạng trong mạng nội bộ?",
+      "options": [
+        "A. Router",
+        "B. Modem",
+        "C. Access point",
+        "D. Switch"
+      ],
+      "answer": "D",
+      "note": "Đáp án: D Giải thích: Switch là thiết bị đóng vai trò quản lí lưu lượng mạng, kiểm soát truy cập và cung cấp kết nối giữa các thiết bị trong mạng nội bộ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Công nghệ nào dưới đây không phải là một phần của mạng nội bộ?",
+      "options": [
+        "A. Ethernet",
+        "B. Wifi",
+        "C. Bluetooth",
+        "D. Token Ring"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Ethernet và Wifi là các công nghệ phổ biến trong mạng nội bộ, trong khi Bluetooth chủ yếu được sử dụng cho kết nối ngắn hạn và không phải là thành phần chính của mạng nội bộ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Trong thiết kế mạng nội bộ, quá trình phân bổ địa chỉ IP được gọi là gì?",
+      "options": [
+        "A. Phân bổ mạng",
+        "B. Phân bổ IP",
+        "C. Quản lí mạng",
+        "D. Quản lí IP"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Quá trình phân bổ địa chỉ IP và subnet mask cho các thiết bị mạng trong mạng nội bộ được gọi là phân bổ IP, nhằm đảm bảo sử dụng địa chỉ IP hiệu quả và tránh xung đột địa chỉ IP."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong thiết kế mạng nội bộ, việc phân chia mạng LAN thành các VLAN riêng biệt giúp làm gì?",
+      "options": [
+        "A. Tăng tốc độ mạng",
+        "B. Tăng tính bảo mật và quản lí mạng hiệu quả",
+        "C. Giảm chi phí thiết bị",
+        "D. Tăng số lượng thiết bị kết nối"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Phân chia mạng LAN thành các VLAN riêng biệt giúp tăng tính bảo mật và quản lí mạng hiệu quả bằng cách tách biệt các nhóm thiết bị và kiểm soát truy cập giữa chúng."
+    }
+  ]
+}

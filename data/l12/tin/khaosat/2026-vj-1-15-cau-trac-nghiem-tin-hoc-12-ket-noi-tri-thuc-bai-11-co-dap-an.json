@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-12-ket-noi-tri-thuc-bai-11-co-dap-an",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-12-ket-noi-",
+  "grade": "l12",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 12 Kết nối tri thức Bài 11 có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Câu 1: Thẻ nào được sử dụng để chèn ảnh vào trang web?",
+      "options": [
+        "A. &lt;img&gt;",
+        "B. &lt;picture&gt;",
+        "C. &lt;photo&gt;",
+        "D. &lt;image&gt;"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Thẻ &lt;img&gt; là thẻ duy nhất được sử dụng để chèn ảnh vào trang web trong HTML."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Thuộc tính nào của thẻ &lt;img&gt; là bắt buộc?",
+      "options": [
+        "A. alt",
+        "B. src",
+        "C. width",
+        "D. height"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Thuộc tính src là bắt buộc để chỉ định đường dẫn đến tệp ảnh cần chèn. Thuộc tính alt không bắt buộc nhưng nên được sử dụng."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Để thiết lập kích thước cho ảnh trong HTML, bạn nên sử dụng thuộc tính nào?",
+      "options": [
+        "A. size",
+        "B. dimension",
+        "C. width và height",
+        "D. scale"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Thuộc tính width và height được sử dụng để thiết lập kích thước cho ảnh trong HTML."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Thẻ nào được sử dụng để chèn video vào trang web?",
+      "options": [
+        "A. &lt;audio&gt;",
+        "B. &lt;media&gt;",
+        "C. &lt;video&gt;",
+        "D. &lt;movie&gt;"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Thẻ &lt;video&gt; được sử dụng để chèn video vào trang web. Thẻ &lt;audio&gt; được sử dụng cho âm thanh."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Thuộc tính nào không có trong thẻ &lt;audio&gt;?",
+      "options": [
+        "A. controls",
+        "B. autoplay",
+        "C. poster",
+        "D. src"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Thuộc tính poster chỉ có trong thẻ &lt;video&gt; để cung cấp ảnh nền khi video chưa chạy. Thẻ &lt;audio&gt; không có thuộc tính poster."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Thẻ nào được sử dụng để chèn âm thanh vào trang web?",
+      "options": [
+        "A. &lt;music&gt;",
+        "B. &lt;audio&gt;",
+        "C. &lt;sound&gt;",
+        "D. &lt;track&gt;"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Thẻ &lt;audio&gt; được sử dụng để chèn âm thanh vào trang web"
+    }
+  ]
+}

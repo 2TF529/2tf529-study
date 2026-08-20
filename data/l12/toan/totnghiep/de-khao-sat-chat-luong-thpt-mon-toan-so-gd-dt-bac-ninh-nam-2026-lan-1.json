@@ -1,0 +1,196 @@
+{
+  "id": "l12-toan-totnghiep-2026-de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-bac-ninh-nam-2026-lan-1",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "code": "THPT_TKT_2026_BN_01",
+  "title": "Đề khảo sát chất lượng THPT môn Toán Sở GD&ĐT Bắc Ninh năm 2026 - Lần 1",
+  "duration": 90,
+  "answerSource": "official",
+  "source": "https://dolthpt.vn/tot-nghiep-thpt/pdf-de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-bac-ninh-nam-2026-lan-1-co-dap-an",
+  "notes": "Nội dung, đáp án và lời giải được nhập từ bản công khai của DOL THPT.",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "content": "Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình chữ nhật, đường thẳng $SA$ vuông góc với mặt phẳng $(ABCD)$. Đường thẳng $CD$ vuông góc với mặt phẳng nào dưới đây?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-bac-ninh-nam-2026-lan-1/cau-01.webp\" alt=\"Hình minh họa câu 1\" loading=\"lazy\"></figure>",
+      "chuong": "quan hệ vuông góc trong không gian",
+      "dang": "đường thẳng vuông góc với mặt phẳng",
+      "type": "single",
+      "options": [
+        "A. $(SAC)$.",
+        "B. $(SAD)$.",
+        "C. $(SBC)$.",
+        "D. $(SAB)$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Đáy $ABCD$ là hình chữ nhật.\n- $SA\\perp(ABCD)$, nên $SA$ vuông góc với mọi đường thẳng nằm trong mặt phẳng đáy.\n- Cần tìm mặt phẳng vuông góc với đường thẳng $CD$.\n❓ **Hiểu câu hỏi:**\n- Một đường thẳng vuông góc với một mặt phẳng nếu nó vuông góc với hai đường thẳng cắt nhau nằm trong mặt phẳng đó.\n🔎 **Hướng dẫn cách làm:**\n- Trong hình chữ nhật $ABCD$, ta có $CD\\perp AD$.\n- Vì $SA\\perp(ABCD)$ và $CD\\subset(ABCD)$ nên $CD\\perp SA$.\n- Hai đường thẳng $SA$ và $AD$ cắt nhau tại $A$ và cùng nằm trong mặt phẳng $(SAD)$, do đó $CD\\perp(SAD)$.\n✅ **Đáp án:** Chọn B. $(SAD)$."
+    },
+    {
+      "id": 2,
+      "content": "Tập hợp nghiệm của bất phương trình $\\log_{0{,}5}x>-1$ là",
+      "chuong": "hàm số mũ và hàm số lôgarit",
+      "dang": "bất phương trình lôgarit",
+      "type": "single",
+      "options": [
+        "A. $(0;2)$.",
+        "B. $(-\\infty;2)$.",
+        "C. $(0;+\\infty)$.",
+        "D. $(2;+\\infty)$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Bất phương trình là $\\log_{0{,}5}x>-1$.\n- Điều kiện xác định là $x>0$.\n❓ **Hiểu câu hỏi:**\n- Với cơ số \\$0{,}5<1$, hàm lôgarit nghịch biến nên khi chuyển về điều kiện của $x$ thì chiều bất phương trình đổi.\n🔎 **Hướng dẫn cách làm:**\n- Ta có $\\log_{0{,}5}x>-1\\Leftrightarrow x<(0{,}5)^{-1}=2$.\n- Kết hợp với điều kiện $x>0$, tập nghiệm là $(0;2)$.\n✅ **Đáp án:** Chọn A. $(0;2)$."
+    },
+    {
+      "id": 3,
+      "content": "Tiệm cận đứng của đồ thị hàm số $y=\\dfrac{2x-3}{x+1}$ là đường thẳng có phương trình",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "đường tiệm cận đứng",
+      "type": "single",
+      "options": [
+        "A. $x=2$.",
+        "B. $y=-1$.",
+        "C. $y=2$.",
+        "D. $x=-1$."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số là $y=\\dfrac{2x-3}{x+1}$.\n- Cần tìm tiệm cận đứng của đồ thị.\n❓ **Hiểu câu hỏi:**\n- Với hàm phân thức, tiệm cận đứng xuất hiện tại nghiệm của mẫu số làm tử số khác \\$0$.\n🔎 **Hướng dẫn cách làm:**\n- Mẫu số bằng \\$0$ khi $x+1=0\\Leftrightarrow x=-1$.\n- Tại $x=-1$, tử số bằng \\$2(-1)-3=-5\\ne0$ nên đường thẳng $x=-1$ là tiệm cận đứng.\n✅ **Đáp án:** Chọn D. $x=-1$."
+    },
+    {
+      "id": 4,
+      "content": "Cho hình hộp $ABCD.A'B'C'D'$. Vectơ $\\overrightarrow{BA}+\\overrightarrow{BC}+\\overrightarrow{BB'}$ bằng vectơ nào dưới đây?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-bac-ninh-nam-2026-lan-1/cau-04.webp\" alt=\"Hình minh họa câu 4\" loading=\"lazy\"></figure>",
+      "chuong": "vectơ và hệ trục tọa độ trong không gian",
+      "dang": "tổng và hiệu của hai vectơ trong không gian",
+      "type": "single",
+      "options": [
+        "A. $\\overrightarrow{BD'}$.",
+        "B. $\\overrightarrow{BC'}$.",
+        "C. $\\overrightarrow{BA'}$.",
+        "D. $\\overrightarrow{BD}$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hình hộp là $ABCD.A'B'C'D'$.\n- Cần tính tổng $\\overrightarrow{BA}+\\overrightarrow{BC}+\\overrightarrow{BB'}$.\n❓ **Hiểu câu hỏi:**\n- Trong hình hộp, tổng ba vectơ theo ba cạnh xuất phát từ cùng một đỉnh cho vectơ đường chéo không gian tương ứng.\n🔎 **Hướng dẫn cách làm:**\n- Đặt $\\overrightarrow{AB}=\\vec u$, $\\overrightarrow{AD}=\\vec v$ và $\\overrightarrow{AA'}=\\vec w$.\n- Khi đó $\\overrightarrow{BA}=-\\vec u$, $\\overrightarrow{BC}=\\vec v$ và $\\overrightarrow{BB'}=\\vec w$.\n- Suy ra $\\overrightarrow{BA}+\\overrightarrow{BC}+\\overrightarrow{BB'}=-\\vec u+\\vec v+\\vec w=\\overrightarrow{BD'}$.\n✅ **Đáp án:** Chọn A. $\\overrightarrow{BD'}$."
+    },
+    {
+      "id": 5,
+      "content": "Cho hàm số bậc ba $y=f(x)$ có đồ thị là đường cong như hình vẽ. Hàm số đã cho đồng biến trên khoảng nào dưới đây?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-bac-ninh-nam-2026-lan-1/cau-05.webp\" alt=\"Hình minh họa câu 5\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "tính đơn điệu của hàm số",
+      "type": "single",
+      "options": [
+        "A. $(1;+\\infty)$.",
+        "B. $(-1;1)$.",
+        "C. $(-1;+\\infty)$.",
+        "D. $(-\\infty;0)$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Đồ thị hàm số bậc ba có một điểm cực đại tại $x=-1$ và một điểm cực tiểu tại $x=1$.\n- Cần chọn khoảng hàm số đồng biến.\n❓ **Hiểu câu hỏi:**\n- Hàm số đồng biến trên khoảng mà đồ thị đi lên khi $x$ tăng.\n🔎 **Hướng dẫn cách làm:**\n- Quan sát đồ thị, hàm số tăng trên $(-\\infty;-1)$ và $(1;+\\infty)$, còn giảm trên $(-1;1)$.\n- Trong bốn lựa chọn, chỉ $(1;+\\infty)$ là một khoảng đồng biến hoàn toàn.\n✅ **Đáp án:** Chọn A. $(1;+\\infty)$."
+    },
+    {
+      "id": 6,
+      "content": "Trong không gian $Oxyz$, cho đường thẳng $\\Delta$ có phương trình $\\dfrac{x-1}{2}=\\dfrac{y+2}{1}=\\dfrac{z-4}{-3}$. Một vectơ chỉ phương của $\\Delta$ có tọa độ là",
+      "chuong": "phương pháp tọa độ trong không gian",
+      "dang": "phương trình đường thẳng",
+      "type": "single",
+      "options": [
+        "A. $(2;1;3)$.",
+        "B. $(1;2;4)$.",
+        "C. $(1;-2;4)$.",
+        "D. $(2;1;-3)$."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Đường thẳng $\\Delta$ có phương trình $\\dfrac{x-1}{2}=\\dfrac{y+2}{1}=\\dfrac{z-4}{-3}$.\n- Cần tìm một vectơ chỉ phương của $\\Delta$.\n❓ **Hiểu câu hỏi:**\n- Với dạng chính tắc $\\dfrac{x-x_0}{a}=\\dfrac{y-y_0}{b}=\\dfrac{z-z_0}{c}$, một vectơ chỉ phương là $\\vec u=(a;b;c)$.\n🔎 **Hướng dẫn cách làm:**\n- Các mẫu số trong phương trình lần lượt là \\$2,1,-3$.\n- Do đó một vectơ chỉ phương của $\\Delta$ là $\\vec u=(2;1;-3)$.\n✅ **Đáp án:** Chọn D. $(2;1;-3)$."
+    },
+    {
+      "id": 7,
+      "content": "Họ nguyên hàm của hàm số $f(x)=3\\cos x$ trên $(-\\infty;+\\infty)$ là",
+      "chuong": "nguyên hàm và tích phân",
+      "dang": "nguyên hàm của một số hàm số thường gặp",
+      "type": "single",
+      "options": [
+        "A. $-3\\cos x+C$.",
+        "B. \\$3\\sin x+C$.",
+        "C. $-3\\sin x+C$.",
+        "D. \\$3\\cos x+C$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số cần tìm họ nguyên hàm là $f(x)=3\\cos x$.\n- Miền xét là $(-\\infty;+\\infty)$.\n❓ **Hiểu câu hỏi:**\n- Dùng công thức nguyên hàm cơ bản $\\int \\cos xdx=\\sin x+C$.\n🔎 **Hướng dẫn cách làm:**\n- Ta có $\\int 3\\cos xdx=3\\int \\cos xdx=3\\sin x+C$.\n- Kết quả này trùng với phương án B.\n✅ **Đáp án:** Chọn B. \\$3\\sin x+C$."
+    },
+    {
+      "id": 8,
+      "content": "Trong không gian $Oxyz$, cho điểm $M(1;2;3)$ và mặt phẳng $(P):x+3y-4z+9=0$. Mặt phẳng $(Q)$ đi qua $M$ và song song với $(P)$ có phương trình là",
+      "chuong": "phương pháp tọa độ trong không gian",
+      "dang": "điều kiện để hai mặt phẳng song song với nhau",
+      "type": "single",
+      "options": [
+        "A. $x+3y+4z+5=0$.",
+        "B. $x+3y-4z+6=0$.",
+        "C. $x+3y-4z+5=0$.",
+        "D. $x+3y-4z-5=0$."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Mặt phẳng $(P):x+3y-4z+9=0$ có vectơ pháp tuyến $\\vec n=(1;3;-4)$.\n- Mặt phẳng $(Q)$ đi qua $M(1;2;3)$ và song song với $(P)$.\n❓ **Hiểu câu hỏi:**\n- Hai mặt phẳng song song có cùng vectơ pháp tuyến, nên $(Q)$ có dạng $x+3y-4z+d=0$.\n🔎 **Hướng dẫn cách làm:**\n- Thay $M(1;2;3)$ vào $x+3y-4z+d=0$, ta được \\$1+3\\cdot2-4\\cdot3+d=0$.\n- Suy ra \\$1+6-12+d=0\\Leftrightarrow d=5$.\n- Vậy $(Q):x+3y-4z+5=0$.\n✅ **Đáp án:** Chọn C. $x+3y-4z+5=0$."
+    },
+    {
+      "id": 9,
+      "content": "Biết $F(x)=\\dfrac{1}{x}$ là một nguyên hàm của hàm số $f(x)$ trên $(0;+\\infty)$. Giá trị của $\\int_1^3 6[f(x)+x]dx$ bằng",
+      "chuong": "nguyên hàm và tích phân",
+      "dang": "tính chất của tích phân",
+      "type": "single",
+      "options": [
+        "A. \\$6\\ln2+24$.",
+        "B. \\$28$.",
+        "C. \\$20$.",
+        "D. $\\ln3+24$."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- $F(x)=\\dfrac{1}{x}$ là một nguyên hàm của $f(x)$ trên $(0;+\\infty)$.\n- Cần tính $\\int_1^3 6[f(x)+x]dx$.\n❓ **Hiểu câu hỏi:**\n- Tách tích phân theo tính tuyến tính và dùng công thức Newton-Leibniz $\\int_a^b f(x)dx=F(b)-F(a)$.\n🔎 **Hướng dẫn cách làm:**\n- Ta có $\\int_1^3 f(x)dx=F(3)-F(1)=\\dfrac13-1=-\\dfrac23$.\n- Mặt khác, $\\int_1^3 xdx=\\dfrac{x^2}{2}\\bigg|_1^3=4$.\n- Suy ra $\\int_1^3 6[f(x)+x]dx=6\\left(-\\dfrac23+4\\right)=20$.\n✅ **Đáp án:** Chọn C. \\$20$."
+    },
+    {
+      "id": 10,
+      "content": "Cho hàm số $y=f(x)=\\dfrac{mx^2+nx+p}{qx+r}$ có bảng biến thiên như hình vẽ. Giá trị cực tiểu của hàm số đã cho bằng\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-bac-ninh-nam-2026-lan-1/cau-10.webp\" alt=\"Hình minh họa câu 10\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "cực trị của hàm số",
+      "type": "single",
+      "options": [
+        "A. $-4$.",
+        "B. \\$3$.",
+        "C. \\$4$.",
+        "D. $-1$."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Bảng biến thiên của hàm số đã cho thể hiện dấu của $f'(x)$ và giá trị của $f(x)$ tại các điểm tới hạn.\n- Cần đọc giá trị cực tiểu của hàm số.\n❓ **Hiểu câu hỏi:**\n- Giá trị cực tiểu là giá trị $f(x)$ tại điểm mà hàm số chuyển từ giảm sang tăng.\n🔎 **Hướng dẫn cách làm:**\n- Từ bảng biến thiên, tại điểm cực tiểu hàm số đổi chiều từ giảm sang tăng và hàng $f(x)$ ghi giá trị \\$4$.\n- Do đó giá trị cực tiểu của hàm số là \\$4$.\n✅ **Đáp án:** Chọn C. \\$4$."
+    },
+    {
+      "id": 11,
+      "content": "Cho cấp số cộng $(u_n)$ có $u_2=4,u_3=2$. Khẳng định nào sau đây là đúng?",
+      "chuong": "dãy số. cấp số cộng và cấp số nhân",
+      "dang": "số hạng tổng quát của cấp số cộng",
+      "type": "single",
+      "options": [
+        "A. $u_1=6$.",
+        "B. $u_1=0$.",
+        "C. $u_1=8$.",
+        "D. $u_1=2$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cấp số cộng $(u_n)$ có $u_2=4$ và $u_3=2$.\n- Cần tìm khẳng định đúng về $u_1$.\n❓ **Hiểu câu hỏi:**\n- Với cấp số cộng, công sai là $d=u_{n+1}-u_n$.\n🔎 **Hướng dẫn cách làm:**\n- Ta có $d=u_3-u_2=2-4=-2$.\n- Suy ra $u_1=u_2-d=4-(-2)=6$.\n✅ **Đáp án:** Chọn A. $u_1=6$."
+    },
+    {
+      "id": 12,
+      "content": "Xét mẫu số liệu cho bởi bảng ghép nhóm. Nhóm chứa mốt của mẫu số liệu trên là\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-bac-ninh-nam-2026-lan-1/cau-12.webp\" alt=\"Hình minh họa câu 12\" loading=\"lazy\"></figure>",
+      "chuong": "các số đặc trưng đo xu thế trung tâm của mẫu số liệu ghép nhóm",
+      "dang": "mốt của mẫu số liệu ghép nhóm",
+      "type": "single",
+      "options": [
+        "A. $[8;12)$.",
+        "B. $[16;20)$.",
+        "C. $[12;16)$.",
+        "D. $[4;8)$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Các nhóm là $[0;4),[4;8),[8;12),[12;16),[16;20)$.\n- Tần số tương ứng là \\$6,12,14,8,5$.\n❓ **Hiểu câu hỏi:**\n- Nhóm chứa mốt của mẫu số liệu ghép nhóm là nhóm có tần số lớn nhất.\n🔎 **Hướng dẫn cách làm:**\n- Tần số lớn nhất là \\$14$, ứng với nhóm $[8;12)$.\n- Vì vậy nhóm chứa mốt của mẫu số liệu là $[8;12)$.\n✅ **Đáp án:** Chọn A. $[8;12)$."
+    }
+  ]
+}

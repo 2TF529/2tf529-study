@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-4-8-cau-trac-nghiem-toan-12-chan-troi-sang-tao-bai-2-phuong-sai-v",
+  "sourceId": "vietjack:4-8-cau-trac-nghiem-toan-12-chan-troi-sa",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "4.8 câu trắc nghiệm Toán 12 Chân trời sáng tạo Bài 2: Phương sai và độ lệch chuẩn của mẫu số liệu ghép nhóm có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Xét mẫu số liệu ghép nhóm được cho ở Bảng 4. Phương sai của mẫu số liệu ghép nhóm đó là",
+      "options": [
+        "A. \\[9,08\\].",
+        "B. \\[82,4375\\].",
+        "C. \\[74,75\\].",
+        "D. \\[50\\]."
+      ],
+      "answer": "B",
+      "note": "Số trung bình cộng của mẫu số liệu đó là \\(\\overline x = \\frac{{3.55 + 5.65 + 25.75 + 4.85 + 3.95}}{{40}} = 74,75.\\) Phương sai của mẫu số liệu đó là: \\[{s^2} = \\frac{{3{{\\left( {55 - 74,75} \\right)}^2} + 5{{\\left( {65 - 74,75} \\right)}^2} + 25{{\\left( {75 - 74,75} \\right)}^2} + 4{{\\left( {85 - 74,75} \\right)}^2} + 3{{\\left( {95 - 74,75} \\right)}^2}}}{{40}} = 82,4375\\] Chọn B"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Bảng 11 biểu diễn mẫu số liệu ghép nhóm về chi tiêu bình quân (đơn vị: USD) của một lượt khách quốc tế đến Việt Nam phân theo 27 quốc tịch năm 2019.(Nguồn: https://www.gso.gov.vn ) Độ lệch chuẩn của mẫu số liệu đó nằm trong khoảng nào dưới đây?",
+      "options": [
+        "A. \\[\\left( {200\\;;\\;300} \\right)\\]",
+        "B. \\[\\left( {300\\;;\\;400} \\right)\\]",
+        "C. \\[\\left( {400\\;;\\;500} \\right)\\]",
+        "D. \\[\\left( {500\\;;\\;600} \\right)\\]"
+      ],
+      "answer": "B",
+      "note": "Chọn B"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cân nặng của một số quả mít trong một khu vườn được thống kê ở bảng sau: Số trung bình của mẫu số liệu ghép nhóm trên nhận giá trị nào trong các giá trị dưới đây?",
+      "options": [
+        "A. 8,71.",
+        "B. 8,72.",
+        "C. 4,8.",
+        "D. 4,9."
+      ],
+      "answer": "B",
+      "note": "Chọn B"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cân nặng của một số quả mít trong một khu vườn được thống kê ở bảng sau: Phương sai của mẫu số liệu ghép nhóm trên gần với giá trị nào dưới đây:",
+      "options": [
+        "A. 8,71.",
+        "B. 8,72.",
+        "C. 4,8.",
+        "D. 4,9."
+      ],
+      "answer": "C",
+      "note": "Chọn C"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cân nặng của một số quả mít trong một khu vườn được thống kê ở bảng sau: Độ lệch chuẩn của mẫu số liệu ghép nhóm trên gần với giá trị nào dưới đây:",
+      "options": [
+        "A. 2,19.",
+        "B. 8,72.",
+        "C. 4,8.",
+        "D. 2,2."
+      ],
+      "answer": "A",
+      "note": "Chọn A"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Thống kê tổng số giờ nắng trong tháng 9 tại một trạm quan trắc đặt ở Cà Mau trong các năm từ 2002 đến 2021 được thống kê như sau: Số trung bình của mẫu số liệu trên nhận giá trị nào trong các giá trị dưới đây?",
+      "options": [
+        "A. 121,755.",
+        "B. 122,755.",
+        "C. 123,755.",
+        "D. 124,755."
+      ],
+      "answer": "B",
+      "note": "Chọn B"
+    }
+  ]
+}

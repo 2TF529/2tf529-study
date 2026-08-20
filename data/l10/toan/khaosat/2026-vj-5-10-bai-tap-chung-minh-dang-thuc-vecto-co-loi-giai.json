@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-5-10-bai-tap-chung-minh-dang-thuc-vecto-co-loi-giai",
+  "sourceId": "vietjack:5-10-bai-tap-chung-minh-dang-thuc-vecto-",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "5.10 Bài tập Chứng minh đẳng thức vectơ (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho tam giác ABC. Gọi M là trung điểm của AB và N là điểm trên cạnh AC sao cho NC = 2NA. Gọi K là trung điểm của MN. Khẳng định nào sau đây đúng ?",
+      "options": [
+        "A. A K → = 1 4 A B → + 1 6 A C →",
+        "B. A K → = 1 2 A B → + 1 6 A C →",
+        "C. A K → = 1 3 A B → + 1 6 A C →",
+        "D. A K → = 1 4 A B → + 1 3 A C →"
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A. Do M là trung điểm AB nên A M → = 1 2 A B → . Vì NC = 2NA nên A N → = 1 3 A C → . Ta có: A K → = 1 2 A M → + A N → (vì K là trung điểm của MN) = 1 2 1 2 A B → + 1 3 A C → = 1 4 A B → + 1 6 A C → Vậy A K → = 1 4 A B → + 1 6 A C → ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho tứ giác ABCD. Gọi E, F lần lượt là trung điểm của AB, CD, O là trung điểm của EF. Khẳng định nào sau đây là đúng ?",
+      "options": [
+        "A. O A → + O B → + O C → + O D → = 0 →",
+        "B. O A → + O B → + O C → + O D → = ​ A B →",
+        "C. O A → + O B → + O C → + O D → = A C →",
+        "D. O A → + O B → + O C → + O D → = B C →"
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A. Ta có: O A → + O B → + O C → + O D → = O A → + O B → + O C → + O D → = 2 O E → + 2 O F → (do E, F lần lượt là trung điểm của AB, CD) = 2 ( O E → + O F → ) = 2. 0 → = 0 → (do O là trung điểm của EF). Vậy O A → + O B → + O C → + O D → = 0 → ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho tứ giác ABCD. Gọi E, F lần lượt là trung điểm của AB, CD, O là trung điểm của EF. Khẳng định nào sau đây là đúng ?",
+      "options": [
+        "A. M A → + M B → + M C → + M D → = M O →",
+        "B. M A → + M B → + M C → + M D → = 2 M O →",
+        "C. M A → + M B → + M C → + M D → = 3 M O →",
+        "D. M A → + M B → + M C → + M D → = 4 M O →"
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải: Đáp án đúng là: D. Ta có: O A → + O B → + O C → + O D → = O A → + O B → + O C → + O D → = 2 O E → + 2 O F → (do E, F lần lượt là trung điểm của AB, CD) = 2 ( O E → + O F → ) = 2. 0 → = 0 → (do O là trung điểm của EF) Do đó, ta có: M A → + M B → + M C → + M D → = M O → + O A → + M O → + O B → + M O → + O C → + M O → + O D → (quy tắc ba điểm) = 4 M O → + O A → + O B → + O C → + O D → = 4 M O → . Vậy M A → + M B → + M C → + M D → = 4 M O → ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho tam giác ABC và G là trọng tâm. Và điểm O sao cho O A → + O B → + O C → = O H → . Khẳng định nào sau đây là đúng ?",
+      "options": [
+        "A. O H → = 2 O G →",
+        "B. O H → = 3 O G →",
+        "C. O H → = - O G →",
+        "D. O H → = O G →"
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải: Đáp án đúng là: B. Vì G là trọng tâm của tam giác ABC thì với O là một điểm bất kì ta luôn có O A → + O B → + O C → = 3 O G → . Do đó ta có: O H → = O A → + O B → + O C → = 3 O G → . Vậy O H → = 3 O G → ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho tam giác ABC và G, H, O lần lượt là trọng tâm, trực tâm, tâm đường tròn ngoại tiếp của tam giác. Gọi D là điểm đối xứng của A qua O. Biểu thức O B → + O C → bằng biểu thức nào dưới đây?",
+      "options": [
+        "A. 2 O H → + H D →",
+        "B. O H → + H D →",
+        "C. 3 O H → + H D →",
+        "D. - O H → + H D →"
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A. Xét đường tròn tâm O ngoại tiếp tam giác ABC Có: A B D ^ = 90 o (góc nội tiếp chắn nửa đường tròn) Do đó, BD vuông góc với AB. Mà CH vuông góc với AB vì H là trực tâm. Do đó, BD // CH. Chứng minh tương tự ta có: CD // BH. Do đó, HBDC là hình bình hành ⇒ H B → + H C → = H D → (quy tắc hình bình hành) Ta có: O B → + O C → = O H → + H B → + O H → + H C → (quy tắc ba điểm) = 2 O H → + ( H B → + H C → ) = 2 O H → + H D → . Vậy O B → + O C → = 2 O H → + H D → ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho tam giác ABC và G, H, O lần lượt là trọng tâm, trực tâm, tâm đường tròn ngoại tiếp của tam giác. Gọi D là điểm đối xứng của A qua O. Tính H A → − H B → − H C → .",
+      "options": [
+        "A. 2 O A →",
+        "B. O A →",
+        "C. 3 O A →",
+        "D. - O A →"
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A. Xét đường tròn tâm O ngoại tiếp tam giác ABC Có: A B D ^ = 90 o (hai góc nội tiếp cùng chắn nửa đường tròn) Do đó, BD vuông góc với AB MÀ CH vuông góc với AB vì H là trực tâm Do đó, BD // CH Chứng minh tương tự ta có: CD // BH. Do đó, HBDC là hình bình hành. ⇒ H B → + H C → = H D → (quy tắc hình bình hành) Ta có: H A → − H B → − H C → = H A → − H B → + H C → = H A → − H D → = D A → = 2 O A → (do A đối xứng với D qua O nên O là trung điểm của AD). Vậy H A → − H B → − H C → = 2 O A → ."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-cac-dang-bai-tap-phuong-trinh-quy-ve-phuong-trinh-bac-hai-lop-1",
+  "sourceId": "vietjack:2-cac-dang-bai-tap-phuong-trinh-quy-ve-p",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.Các dạng bài tập Phương trình quy về phương trình bậc hai lớp 10 (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Nghiệm của phương trình \\(\\sqrt {2x-1} = \\sqrt {3-x} \\) là",
+      "options": [
+        "A. \\(x = \\frac{3}{4}\\);",
+        "B. \\[x = \\frac{2}{3}\\];",
+        "C. \\[x = \\frac{4}{3}\\];",
+        "D. \\[x = \\frac{3}{2}\\]."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Thay các nghiệm x vào phương trình thấy \\[x = \\frac{4}{3}\\] là nghiệm."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Tập nghiệm của phương trình \\(\\sqrt {2x-3} = x-3\\) là",
+      "options": [
+        "A. T = [2; 6];",
+        "B. T = ∅;",
+        "C. T = {6};",
+        "D. T = {2; 6}."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có \\(\\sqrt {2x-3} = x-3\\) Bình phương hai vế của phương trình ta được: 2x - 3 = x 2 - 6x + 9 ⇔ x 2 - 8x + 12 = 0 ⇔ x = 2 hoặc x = 6. Thay lần lượt hai giá trị này của x vào phương trình đã cho, ta thấy x = 6 thỏa mãn. Vậy phương trình có tập nghiệm T = {6}."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Tổng tất cả các nghiệm của phương trình \\(\\sqrt {{x^2}-3x + 2} = \\sqrt {x + 2} \\) là:",
+      "options": [
+        "A. 3;",
+        "B. 4;",
+        "C. -1;",
+        "D. -3."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có \\(\\sqrt {{x^2}-3x + 2} = \\sqrt {x + 2} \\) Bình phương hai vế của phương trình ta được: x 2 - 3x + 2 = x + 2 ⇔ x 2 - 4x = 0 ⇔ x = 0 hoặc x = 4. Thay lần lượt hai giá trị này của x vào phương trình đã cho, ta thấy x = 0 và x = 4 đều thỏa mãn. Vậy tập nghiệm của phương trình S = {0; 4} nên tổng các nghiệm là 4."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Tập nghiệm của phương trình \\(\\sqrt {3 - x} = \\sqrt {x + 2} \\) là:",
+      "options": [
+        "A. S = ∅;",
+        "B. \\(S = \\left\\{ {-2; \\frac{1}{2}} \\right\\}\\);",
+        "C. \\(S = \\left\\{ {\\frac{1}{2}} \\right\\}\\);",
+        "D. \\(S = \\left\\{ { - \\frac{1}{2}} \\right\\}\\)."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có \\(\\sqrt {3 - x} = \\sqrt {x + 2} \\) Bình phương hai vế của phương trình ta được: 3 - x = x + 2 ⇔ 2x = 1 ⇔ x = \\(\\frac{1}{2}\\) Thay giá trị trên của x vào phương trình đã cho, ta thấy x = \\(\\frac{1}{2}\\) thỏa mãn. Vậy tập nghiệm của phương trình là S = \\(\\left\\{ {\\frac{1}{2}} \\right\\}\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Số nghiệm của phương trình \\(\\sqrt {{x^2} + 4x-1} = x-3\\) là:",
+      "options": [
+        "A. Vô số;",
+        "B. 0;",
+        "C. 1;",
+        "D. 2."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có: \\(\\sqrt {{x^2} + 4x-1} = x-3\\) Bình phương hai vế của phương trình ta được: x 2 + 4x - 1 = x 2 - 6x + 9 ⇔ 10x = 10 ⇔ x = 1 Thay giá trị trên của x vào phương trình đã cho, ta thấy x = 1 không thỏa mãn. Vậy phương trình đã cho vô nghiệm."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Nghiệm của phương trình \\(\\sqrt {{x^2}-7x + 10} = x-4\\) thuộc tập nào dưới đây?",
+      "options": [
+        "A. (4; 5];",
+        "B. [5; 6);",
+        "C. (5; 6);",
+        "D. [5; 6]."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Ta có: \\(\\sqrt {{x^2}-7x + 10} = x-4\\) Bình phương hai vế của phương trình ta được: x 2 - 7x + 10 = x 2 - 8x + 16 ⇔ x = 6. Thay giá trị trên của x vào phương trình đã cho, ta thấy x = 6 thỏa mãn. Mà x = 6 ∈ [5; 6]. Vậy ta chọn phương án D."
+    }
+  ]
+}

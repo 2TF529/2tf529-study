@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-10-10-bai-tap-van-dung-kien-thuc-phuong-trinh-mat-phang-vao-giai-",
+  "sourceId": "vietjack:10-10-bai-tap-van-dung-kien-thuc-phuong-",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "10.10 bài tập Vận dụng kiến thức phương trình mặt phẳng vào giải quyết bài toán liên quan đến thực tế có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Hình dưới đây là hình ảnh minh họa của một tòa nhà trong không gian với hệ tọa độ Oxyz (đơn vị trên mỗi trục theo mét). Biết A(50; 0; 0), D(0; 20; 0), B(3k; 2k; k) với k > 0 và (CBEF) có phương trình z = 3. Biết rằng tọa độ điểm B(a; b; c). Khi đó giá trị a + b + c bằng bao nhiêu?",
+      "options": [
+        "A. 9;",
+        "B. 6;",
+        "C. 3;",
+        "D. 18."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Vì B(3k; 2k; k) (CBEF): z = 3 nên k = 3. Suy ra B(9; 6; 3). Khi đó a + b + c = 18."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Khi gắn hệ trục tọa độ Oxyz (đơn vị trên mỗi trục tọa độ là dm) vào một ngôi nhà 1 tầng, người ta thấy rằng mặt trên và mặt dưới của mái nhà thuộc các mặt phẳng vuông góc với trục Oz. Biết rằng các vị trí A(3; 4; 33), D(9; 8; 35) lần lượt thuộc mặt dưới, mặt trên của mái nhà. Độ dày của mái nhà được tính bằng khoảng cách giữa mặt trên và mặt dưới của mái nhà đó. Hãy cho biết độ dày của mái nhà đó là bao nhiêu dm?",
+      "options": [
+        "A. 33;",
+        "B. 4;",
+        "C. 3;",
+        "D. 2."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Do mặt dưới của mái nhà thuộc mặt phẳng vuông góc với trục Oz và đi qua A(3; 4; 33) nên phương trình mặt phẳng chứa mặt dưới của mái nhà là: z – 33 = 0. Khoảng cách từ điểm D đến mặt phẳng chứa mặt dưới của mái nhà bằng: \\(\\frac{{\\left| {35 - 33} \\right|}}{{\\sqrt {{0^2} + {0^2} + {1^2}} }} = 2\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Hai đứa trẻ đang chơi với một quả bóng. Bé giá ném quả bóng cho bé trai. Quả bóng di chuyển trong không khí, uốn cong 3 m về bên phải và rơi cách bé giá 5 m (xem hình) Biết rằng mặt phẳng chứa quỹ đạo của quả bóng vuông góc với mặt đất và phương trình tổng quát của nó có dạng ax −3y + c = 0. Tính a + c?",
+      "options": [
+        "A. 1;",
+        "B. 4;",
+        "C. 3;",
+        "D. 2."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Chọn hệ trục tọa độ như hình vẽ Ta có \\(OC = \\sqrt {O{B^2} - B{C^2}} = 4\\). Suy ra B(3; 4; 0). Mặt phẳng chứa quỹ đạo đi qua O(0; 0; 0) và nhận \\(\\overrightarrow k \\left( {0;0;1} \\right),\\overrightarrow {OB} \\left( {3;4;0} \\right)\\) làm vectơ chỉ phương. Suy ra vectơ pháp tuyến \\(\\overrightarrow n = \\left[ {\\overrightarrow k ,\\overrightarrow {OB} } \\right] = \\left( { - 4;3;0} \\right)\\). Vậy phương trình mặt phẳng chứa quỹ đạo của quả bóng là −4(x – 0) + 3(y – 0) + 0(z – 0) = 0 4x – 3y = 0. Do đó a + c = 4."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Một công trình đang xây dựng được gắn hệ trục Oxyz như hình vẽ dưới (đơn vị trên mỗi trục tọa độ là mét). Mỗi cột bê tông có dạng hình lăng trụ tứ giác đều và có tâm của mặt đáy trên lần lượt là A(3; 2; 3), B(6; 3; 3), C(9; 4; 2), D(6; 0; \\(\\frac{5}{2}\\)). Tính khoảng cách từ điểm D đến mặt phẳng (ABC). (làm tròn đến hàng phần trăm).",
+      "options": [
+        "A. 2,58;",
+        "B. 2,85;",
+        "C. 3,85;",
+        "D. 3,58."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có \\(\\overrightarrow {AB} = \\left( {3;1;0} \\right),\\overrightarrow {AC} = \\left( {6;2; - 1} \\right)\\). Mặt phẳng (ABC) có vectơ pháp tuyến là \\(\\overrightarrow n = \\left( { - 1;3;0} \\right)\\) nên phương trình (ABC): x – 3y + 3 = 0. Vậy khoảng cách \\(d\\left( {D,\\left( {ABC} \\right)} \\right) = \\frac{{\\left| {1.6 + 3} \\right|}}{{\\sqrt {{1^2} + {{\\left( { - 3} \\right)}^2}} }} = \\frac{{9\\sqrt {10} }}{{10}} \\approx 2,85\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Trên bản thiết kế đồ họa 3D của một cánh đồng điện mặt trời (như hình dưới đây) trong không gian Oxyz, một tấm pin nằm trên mặt phẳng (P): 6x + 5y + z + 2 = 0; một tấm pin khác nằm trên mặt phẳng (Q) đi qua điểm M(1; 1; 1) và song song với (P). Biết phương trình mặt phẳng (Q) có dạng Ax + By + Cz + D = 0. Tính A + B + C + D.",
+      "options": [
+        "A. 0;",
+        "B. 1;",
+        "C. 2;",
+        "D. 3."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Vì (Q) // (P) nên (Q) có một vectơ pháp tuyến là \\(\\overrightarrow n = \\left( {6;5;1} \\right)\\). Nên phương trình mặt phẳng (Q): 6x + 5y + z – 12 = 0. Do đó A + B + C + D = 0."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Khi gắn hệ tọa độ Oxyz (đơn vị trên mỗi trục tính theo km) vào một trận địa pháo phòng không, mặt phẳng (Oxy) trùng với mặt đất. Trong tập luyện, một vùng mặt phẳng trong tầm hoạt động của pháo được giữ bởi 3 điểm pháo A(3; 0; 0), B(0; 1,5; 0), C(0; 0; −1,5). Một mục tiêu bay từ M(5; 2; 4) tới N(1; 0; −2). Khoảng cách từ điểm pháo A tới vị trí va chạm của mục tiêu khi tới mặt phẳng là bao nhiêu km (kết quả làm tròn đến hàng phần trăm).",
+      "options": [
+        "A. 1,41;",
+        "B. 1,14;",
+        "C. 2,41;",
+        "D. 2,14."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Gọi mặt phẳng (P) đi qua 3 điểm pháo A(3; 0; 0), B(0; 1,5; 0), C(0; 0; −1,5) nên có phương trình là \\(\\frac{x}{3} + \\frac{y}{{1,5}} + \\frac{z}{{ - 1,5}} = 1 \\Leftrightarrow x + 2y - 2z - 3 = 0\\). Giả sử điểm G(x G ; y G ; z G ) là vị trí khi mục tiêu bay tới mặt phẳng (P) để tới vị trí N nên G ∈ (P). Do \\(\\overrightarrow {MG} ,\\overrightarrow {MN} \\) là 2 vectơ cùng hướng nên tồn tại số thực t > 0 sao cho \\(\\overrightarrow {MG} = t\\overrightarrow {MN} \\). Ta có \\(\\overrightarrow {MG} = \\left( {{x_G} - 5;{y_G} - 2;{z_G} - 4} \\right);\\overrightarrow {MN} = \\left( { - 4; - 2; - 6} \\right)\\). Nên \\(\\left\\{ \\begin{array}{l}{x_G} - 5 = - 4t\\\\{y_G} - 2 = - 2t\\\\{z_G} - 4 = - 6t\\end{array} \\right.\\)\\( \\Rightarrow \\left\\{ \\begin{array}{l}{x_G} = 5 - 4t\\\\{y_G} = 2 - 2t\\\\{z_G} = 4 - 6t\\end{array} \\right.\\). Vì G ∈ (P) 5 – 4t + 2(2 – 2t) – 2(4 – 6t) = 3 t = \\(\\frac{1}{2}\\) G(3; 1; 1). Do đó \\(\\overrightarrow {AG} = \\left( {0;1;1} \\right) \\Rightarrow AG = \\sqrt 2 \\approx 1,41\\)."
+    }
+  ]
+}

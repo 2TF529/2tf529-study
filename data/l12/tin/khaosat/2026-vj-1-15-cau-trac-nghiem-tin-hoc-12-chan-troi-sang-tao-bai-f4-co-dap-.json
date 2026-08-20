@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-12-chan-troi-sang-tao-bai-f4-co-dap-",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-12-chan-tro",
+  "grade": "l12",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 12 Chân trời sáng tạo Bài F4 có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Thẻ nào được sử dụng để thêm tệp ảnh vào trang web?",
+      "options": [
+        "A. &lt;img&gt;",
+        "B. &lt;video&gt;",
+        "C. &lt;audio&gt;",
+        "D. &lt;picture&gt;"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Thẻ &lt;img&gt; được sử dụng để nhúng hình ảnh vào trang web. Thẻ này chỉ có thẻ mở và không có thẻ đóng, và yêu cầu thuộc tính src để chỉ định đường dẫn tới tệp ảnh."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Thuộc tính nào của thẻ &lt;img&gt; được sử dụng để chỉ định đường dẫn của tệp ảnh?",
+      "options": [
+        "A. alt",
+        "B. src",
+        "C. width",
+        "D. height"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Thuộc tính src (source) trong thẻ &lt;img&gt; được sử dụng để chỉ định URL hoặc đường dẫn của tệp ảnh cần hiển thị."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Thẻ &lt;img&gt; có thẻ đóng hay không?",
+      "options": [
+        "A. Có",
+        "B. Không",
+        "C. Tùy trường hợp",
+        "D. Chỉ trong HTML5"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Thẻ &lt;img&gt; là một thẻ tự đóng (self-closing), chỉ có thẻ mở và không có thẻ đóng."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Để thêm video vào trang web, thẻ nào sau đây được sử dụng?",
+      "options": [
+        "A. &lt;img&gt;",
+        "B. &lt;video&gt;",
+        "C. &lt;audio&gt;",
+        "D. &lt;source&gt;"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Thẻ &lt;video&gt; được sử dụng để nhúng tệp video vào trang web, cho phép phát và điều khiển video trực tiếp từ trình duyệt."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Thẻ &lt;video&gt; có thể có thuộc tính nào sau đây để chỉ định kích thước hiển thị?",
+      "options": [
+        "A. alt",
+        "B. src",
+        "C. controls",
+        "D. width và height"
+      ],
+      "answer": "D",
+      "note": "Đáp án: D Giải thích: Thuộc tính width và height của thẻ &lt;video&gt; được sử dụng để xác định kích thước hiển thị của video trên trang web."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Thuộc tính autoplay trong thẻ &lt;video&gt; có chức năng gì?",
+      "options": [
+        "A. Phát video tự động khi tải trang",
+        "B. Tắt âm thanh của video",
+        "C. Lặp lại video",
+        "D. Chỉ hiển thị video khi được nhấp vào"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Thuộc tính autoplay cho phép video tự động phát khi trang được tải, tuy nhiên, một số trình duyệt có thể vô hiệu hóa tính năng này hoặc yêu cầu video phải ở chế độ muted để phát tự động."
+    }
+  ]
+}

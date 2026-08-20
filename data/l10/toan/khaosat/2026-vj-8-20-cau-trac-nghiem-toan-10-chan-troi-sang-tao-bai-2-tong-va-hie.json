@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-8-20-cau-trac-nghiem-toan-10-chan-troi-sang-tao-bai-2-tong-va-hie",
+  "sourceId": "vietjack:8-20-cau-trac-nghiem-toan-10-chan-troi-s",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "8.20 câu trắc nghiệm Toán 10 Chân trời sáng tạo Bài 2. Tổng và hiệu của hai vectơ (Đúng sai - trả lời ngắn) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Phần I. Trắc nghiệm nhiều phương án lựa chọn Cho ba vectơ \\[\\vec a\\] , \\[\\vec b\\] và \\[\\vec c\\] khác vectơ-không. Trong các khẳng định sau, khẳng định nào sai ?",
+      "options": [
+        "A. \\[\\vec a + \\vec b = \\vec b + \\vec a\\] .",
+        "B. \\[\\left( {\\vec a + \\vec b} \\right) + \\vec c = \\vec a + \\left( {\\vec b + \\vec c} \\right)\\] .",
+        "C. \\[\\vec a + \\overrightarrow 0 = \\vec a\\] .",
+        "D. \\[\\overrightarrow 0 + \\vec a = \\overrightarrow 0 \\] ."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Vì \\[\\overrightarrow 0 + \\vec a = \\vec a\\] nên đáp án D sai."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hình bình hành \\[ABCD\\] . Vectơ tổng \\[\\overrightarrow {CB} + \\overrightarrow {CD} \\] bằng",
+      "options": [
+        "A. A . \\(\\overrightarrow {CA} \\) .",
+        "B. \\(\\overrightarrow {BD} \\) .",
+        "C. \\(\\overrightarrow {AC} \\) .",
+        "D. \\(\\overrightarrow {DB} \\) ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Theo quy tắc hình bình hành trong hình bình hành \\[ABCD\\], ta có \\[\\overrightarrow {CB} + \\overrightarrow {CD} = \\overrightarrow {CA} \\]."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho bốn điểm phân biệt \\[A,B,C,D\\] . Vectơ tổng \\[\\overrightarrow {AB} + \\overrightarrow {CD} + \\overrightarrow {BC} + \\overrightarrow {DA} \\] bằng",
+      "options": [
+        "A. A . \\(\\overrightarrow 0 \\) .",
+        "B. \\(\\overrightarrow {AC} \\) .",
+        "C. \\(\\overrightarrow {BD} \\) .",
+        "D. \\(\\overrightarrow {BA} \\) ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có \\[\\overrightarrow {AB} + \\overrightarrow {CD} + \\overrightarrow {BC} + \\overrightarrow {DA} = \\left( {\\overrightarrow {AB} + \\overrightarrow {BC} } \\right) + \\left( {\\overrightarrow {CD} + \\overrightarrow {DA} } \\right) = \\overrightarrow {AC} + \\overrightarrow {CA} = \\overrightarrow {AA} = \\overrightarrow 0 \\]."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Gọi \\(O\\) là tâm hình bình hành \\(ABCD\\) . Đẳng thức nào sau đây sai?",
+      "options": [
+        "A. \\(\\overrightarrow {OA} - \\overrightarrow {OB} = \\overrightarrow {CD} .\\)",
+        "B. \\(\\overrightarrow {OB} - \\overrightarrow {OC} = \\overrightarrow {OD} - \\overrightarrow {OA} .\\)",
+        "C. \\(\\overrightarrow {AB} - \\overrightarrow {AD} = \\overrightarrow {DB} .\\)",
+        "D. \\(\\overrightarrow {BC} - \\overrightarrow {BA} = \\overrightarrow {DC} - \\overrightarrow {DA} .\\)"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Xét các đáp án:  Đáp án A. Ta có \\(\\overrightarrow {OA} - \\overrightarrow {OB} = \\overrightarrow {BA} = \\overrightarrow {CD} \\). Vậy A đúng.  Đáp án B. Ta có \\(\\left\\{ \\begin{array}{l}\\overrightarrow {OB} - \\overrightarrow {OC} = \\overrightarrow {CB} = - \\overrightarrow {AD} \\\\\\overrightarrow {OD} - \\overrightarrow {OA} = \\overrightarrow {AD} \\end{array} \\right.\\). Vậy B sai.  Đáp án C. Ta có \\(\\overrightarrow {AB} - \\overrightarrow {AD} = \\overrightarrow {DB} .\\) Vậy C đúng.  Đáp án D. Ta có \\(\\left\\{ \\begin{array}{l}\\overrightarrow {BC} - \\overrightarrow {BA} = \\overrightarrow {AC} \\\\\\overrightarrow {DC} - \\overrightarrow {DA} = \\overrightarrow {AC} \\end{array} \\right.\\). Vậy D đúng."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho 4 điểm bất kỳ \\[A,{\\rm{ }}B,{\\rm{ }}C,{\\rm{ }}D\\] . Đẳng thức nào sau đây là đúng?",
+      "options": [
+        "A. \\[\\overrightarrow {OA} = \\overrightarrow {CA} + \\overrightarrow {CO} \\] .",
+        "B. \\[\\overrightarrow {BC} - \\overrightarrow {AC} + \\overrightarrow {AB} = \\overrightarrow 0 \\] .",
+        "C. \\[\\overrightarrow {BA} = \\overrightarrow {OB} - \\overrightarrow {OA} \\] .",
+        "D. \\[\\overrightarrow {OA} = \\overrightarrow {OB} - \\overrightarrow {BA} \\] ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có \\[\\overrightarrow {BC} - \\overrightarrow {AC} + \\overrightarrow {AB} = \\overrightarrow {AB} + \\overrightarrow {BC} - \\overrightarrow {AC} = \\overrightarrow {AC} - \\overrightarrow {AC} = \\overrightarrow 0 \\]."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho tứ giác \\(ABCD\\) , \\(M\\) là điểm thỏa \\(\\overrightarrow {AM} = \\overrightarrow {DC} + \\overrightarrow {AB} + \\overrightarrow {BD} \\) . Mệnh đề nào sau đây đúng?",
+      "options": [
+        "A. \\(M\\) trùng \\(D\\) .",
+        "B. \\(M\\) trùng \\(A\\) .",
+        "C. \\(M\\) trùng \\(B\\) .",
+        "D. \\(M\\) trùng \\(C\\) ."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Ta có \\(\\overrightarrow {AM} = \\overrightarrow {DC} + \\overrightarrow {AB} + \\overrightarrow {BD} = \\overrightarrow {DC} + \\overrightarrow {AD} = \\overrightarrow {AD} + \\overrightarrow {DC} = \\overrightarrow {AC} \\). Vậy \\(M\\) trùng \\(C\\)."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Cho \\[\\Delta ABC\\] và điểm \\(M\\) thỏa \\[\\overrightarrow {MB} + \\overrightarrow {MC} = \\overrightarrow {CM} - \\overrightarrow {CA} \\] . Mệnh đề nào sau đây đúng?",
+      "options": [
+        "A. \\(M\\) là trung điểm \\(AB\\) .",
+        "B. \\(M\\) là trung điểm \\(BC\\) .",
+        "C. \\(M\\) là trung điểm \\(CA\\) .",
+        "D. \\(M\\) là trọng tâm \\[\\Delta ABC\\] ."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Ta có \\[\\overrightarrow {MB} + \\overrightarrow {MC} = \\overrightarrow {CM} - \\overrightarrow {CA} \\]\\[ \\Leftrightarrow \\overrightarrow {MB} + \\overrightarrow {MC} = \\overrightarrow {AM} \\]\\[ \\Leftrightarrow \\overrightarrow {MA} + \\overrightarrow {MB} + \\overrightarrow {MC} = \\overrightarrow 0 \\]. Suy ra \\(M\\) là trọng tâm \\[\\Delta ABC\\]."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho \\[\\Delta ABC\\] và điểm \\(M\\) thỏa \\[\\overrightarrow {MC} - \\overrightarrow {MB} + \\overrightarrow {BM} + \\overrightarrow {MA} = \\overrightarrow {CM} - \\overrightarrow {CB} \\] . Mệnh đề nào sau đây đúng?",
+      "options": [
+        "A. \\(M\\) trùng \\(A\\) .",
+        "B. \\(M\\) trùng \\(B\\) .",
+        "C. \\(ACMB\\) là hình bình hành.",
+        "D. \\[\\overrightarrow {BA} + \\overrightarrow {BC} = \\overrightarrow {BM} \\] ."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D \\[\\overrightarrow {MC} - \\overrightarrow {MB} + \\overrightarrow {BM} + \\overrightarrow {MA} = \\overrightarrow {CM} - \\overrightarrow {CB} \\]\\[ \\Leftrightarrow \\overrightarrow {BC} + \\overrightarrow {BA} = \\overrightarrow {BM} \\,\\]\\[ \\Leftrightarrow \\overrightarrow {BC} - \\overrightarrow {BM} \\, = \\overrightarrow {AB} \\]\\[ \\Leftrightarrow \\overrightarrow {CM} = \\overrightarrow {BA} \\]. Suy ra \\(M\\) là điểm thỏa \\[ABCM\\] là hình bình hành. Nên \\[\\overrightarrow {BA} + \\overrightarrow {BC} = \\overrightarrow {BM} \\]."
+    }
+  ]
+}

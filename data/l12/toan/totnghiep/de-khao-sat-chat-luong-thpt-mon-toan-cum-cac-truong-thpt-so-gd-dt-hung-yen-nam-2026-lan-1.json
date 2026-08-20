@@ -1,0 +1,196 @@
+{
+  "id": "l12-toan-totnghiep-2026-de-khao-sat-chat-luong-thpt-mon-toan-cum-cac-truong-thpt-so-gd-dt-hung-yen-nam-2026-lan-1",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "code": "THPT_TKT_2026_HY_02",
+  "title": "Đề khảo sát chất lượng THPT môn Toán Cụm các trường THPT Sở GD&ĐT Hưng Yên năm 2026 - Lần 1",
+  "duration": 90,
+  "answerSource": "official",
+  "source": "https://dolthpt.vn/tot-nghiep-thpt/pdf-de-khao-sat-chat-luong-thpt-mon-toan-cum-cac-truong-thpt-so-gd-dt-hung-yen-nam-2026-lan-1-co-dap-an",
+  "notes": "Nội dung, đáp án và lời giải được nhập từ bản công khai của DOL THPT.",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "content": "Hằng ngày, mực nước của một con kênh lên xuống theo thủy triều. Độ sâu $h$ (m) của mực nước trong kênh tính theo thời gian $t$ (giờ) trong một ngày $\\left(0\\le t<24\\right)$ cho bởi công thức $h=2\\cos\\left(\\pi+\\dfrac{\\pi t}{6}\\right)+12$. Độ sâu của mực nước tại thời điểm $t=3$ bằng",
+      "chuong": "hàm số lượng giác và phương trình lượng giác",
+      "dang": "giá trị lượng giác của góc lượng giác",
+      "type": "single",
+      "options": [
+        "A. \\$13\\text{ m}$.",
+        "B. \\$14\\text{ m}$.",
+        "C. \\$12\\text{ m}$.",
+        "D. \\$11\\text{ m}$."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Độ sâu của mực nước được cho bởi công thức $h=2\\cos\\left(\\pi+\\dfrac{\\pi t}{6}\\right)+12$.\n- Cần tính độ sâu tại thời điểm $t=3$.\n❓ **Hiểu câu hỏi:**\n- Đây là bài toán thay giá trị vào hàm số lượng giác.\n- Ta chỉ cần thay $t=3$ rồi tính giá trị của $\\cos$.\n🔎 **Hướng dẫn cách làm:**\n- Thay $t=3$ vào công thức, ta được $h=2\\cos\\left(\\pi+\\dfrac{\\pi\\cdot 3}{6}\\right)+12$.\n- Rút gọn góc: $\\pi+\\dfrac{\\pi\\cdot 3}{6}=\\pi+\\dfrac{\\pi}{2}=\\dfrac{3\\pi}{2}$.\n- Vì $\\cos\\dfrac{3\\pi}{2}=0$ nên $h=2\\cdot 0+12=12$.\n- Vậy độ sâu của mực nước là \\$12\\text{ m}$.\n✅ **Đáp án:** Chọn C. \\$12\\text{ m}$."
+    },
+    {
+      "id": 2,
+      "content": "Hàm số nào sau đây không là một nguyên hàm của hàm số $f(x)=3x^2+2x-1$.",
+      "chuong": "nguyên hàm và tích phân",
+      "dang": "nguyên hàm của một hàm số",
+      "type": "single",
+      "options": [
+        "A. $F(x)=x^3+x^2-x$.",
+        "B. $F(x)=x^3+x^2-x+2026$.",
+        "C. $F(x)=x^3+x^2-1$.",
+        "D. $F(x)=x^3+x^2-x-1$."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số đã cho là $f(x)=3x^2+2x-1$.\n- Cần tìm hàm số *không* là một nguyên hàm của $f(x)$.\n❓ **Hiểu câu hỏi:**\n- Muốn kiểm tra một hàm có phải nguyên hàm hay không, ta lấy đạo hàm của hàm đó.\n- Nếu đạo hàm khác $f(x)$ thì hàm đó không phải nguyên hàm cần tìm.\n🔎 **Hướng dẫn cách làm:**\n- Nguyên hàm của $f(x)=3x^2+2x-1$ có dạng $F(x)=x^3+x^2-x+C$.\n- Hai phương án A, B, D đều có dạng $x^3+x^2-x+C$ nên đều là nguyên hàm của $f(x)$.\n- Xét phương án C: $F(x)=x^3+x^2-1$.\n- Khi đó $F'(x)=3x^2+2x$, không bằng \\$3x^2+2x-1$.\n- Vậy phương án C không phải là một nguyên hàm của hàm số đã cho.\n✅ **Đáp án:** Chọn C. $F(x)=x^3+x^2-1$."
+    },
+    {
+      "id": 3,
+      "content": "Cho hàm số $f(x)$ liên tục trên $\\mathbb{R}$ và $F(x)$ là nguyên hàm của $f(x)$, biết $\\int_0^9 f(x)\\,dx=9$ và $F(0)=3$. Tính $F(9)$.",
+      "chuong": "nguyên hàm và tích phân",
+      "dang": "tính chất của tích phân",
+      "type": "single",
+      "options": [
+        "A. $F(9)=-6$.",
+        "B. $F(9)=-12$.",
+        "C. $F(9)=6$.",
+        "D. $F(9)=12$."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- $F(x)$ là nguyên hàm của $f(x)$ nên $\\int_0^9 f(x)\\,dx=F(9)-F(0)$.\n- Biết $\\int_0^9 f(x)\\,dx=9$ và $F(0)=3$.\n❓ **Hiểu câu hỏi:**\n- Đây là bài toán áp dụng định lí cơ bản của giải tích.\n- Ta dùng công thức $\\int_a^b f(x)\\,dx=F(b)-F(a)$.\n🔎 **Hướng dẫn cách làm:**\n- Từ giả thiết, ta có $F(9)-F(0)=9$.\n- Thay $F(0)=3$ vào, được $F(9)-3=9$.\n- Suy ra $F(9)=12$.\n✅ **Đáp án:** Chọn D. $F(9)=12$."
+    },
+    {
+      "id": 4,
+      "content": "Cho tứ diện $S.ABC$. Khẳng định nào sau đây đúng?",
+      "chuong": "quan hệ song song trong không gian",
+      "dang": "vị trí tương đối của hai đường thẳng",
+      "type": "single",
+      "options": [
+        "A. $SA$ và $BC$ vuông góc với nhau.",
+        "B. $SA$ và $BC$ cắt nhau.",
+        "C. $SA$ và $BC$ song song với nhau.",
+        "D. $SA$ và $BC$ chéo nhau."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Xét tứ diện $S.ABC$.\n- Cần chọn khẳng định đúng về vị trí của hai đường thẳng $SA$ và $BC$.\n❓ **Hiểu câu hỏi:**\n- Trong tứ diện, cạnh $SA$ không nằm trong mặt phẳng đáy $ABC$, còn $BC$ nằm trong mặt phẳng đáy.\n- Ta cần xét xem hai đường thẳng này có cắt nhau, song song hay chéo nhau.\n🔎 **Hướng dẫn cách làm:**\n- Đường thẳng $BC$ nằm trong mặt phẳng $\\left(ABC\\right)$.\n- Đường thẳng $SA$ chỉ cắt mặt phẳng $\\left(ABC\\right)$ tại điểm $A$.\n- Vì $A\\notin BC$ nên $SA$ không cắt $BC$.\n- Trong tứ diện, $S$ không thuộc mặt phẳng đáy nên $SA$ cũng không thể song song với $BC$.\n- Vậy $SA$ và $BC$ không cắt nhau, không song song, nên chúng chéo nhau.\n✅ **Đáp án:** Chọn D. $SA$ và $BC$ chéo nhau."
+    },
+    {
+      "id": 5,
+      "content": "Trong không gian $Oxyz$, cho mặt phẳng $(\\alpha):2x+4y-z+3=0$. Vectơ nào sau đây là vectơ pháp tuyến của $(\\alpha)$?",
+      "chuong": "phương pháp tọa độ trong không gian",
+      "dang": "vectơ pháp tuyến và cặp vectơ chỉ phương của mặt phẳng",
+      "type": "single",
+      "options": [
+        "A. $\\vec{n_1}=(2;4;-1)$.",
+        "B. $\\vec{n_3}=(-2;4;1)$.",
+        "C. $\\vec{n_1}=(2;4;1)$.",
+        "D. $\\vec{n_2}=(2;-4;1)$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Mặt phẳng đã cho là $(\\alpha):2x+4y-z+3=0$.\n- Cần tìm một vectơ pháp tuyến của mặt phẳng này.\n❓ **Hiểu câu hỏi:**\n- Với mặt phẳng dạng $ax+by+cz+d=0$ thì một vectơ pháp tuyến là $\\vec{n}=(a;b;c)$.\n- Ta chỉ cần đọc các hệ số của $x,y,z$.\n🔎 **Hướng dẫn cách làm:**\n- Từ phương trình $(\\alpha):2x+4y-z+3=0$, ta đọc được các hệ số là \\$2,4,-1$.\n- Vì vậy một vectơ pháp tuyến của mặt phẳng là $\\vec{n}=(2;4;-1)$.\n- Đối chiếu các phương án, đó là phương án A.\n✅ **Đáp án:** Chọn A. $\\vec{n_1}=(2;4;-1)$."
+    },
+    {
+      "id": 6,
+      "content": "Phương trình $\\log_3(x-1)=1$ có nghiệm là",
+      "chuong": "hàm số mũ và hàm số lôgarit",
+      "dang": "phương trình lôgarit",
+      "type": "single",
+      "options": [
+        "A. $x=4$.",
+        "B. $x=1$.",
+        "C. $x=2$.",
+        "D. $x=3$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Phương trình cần giải là $\\log_3(x-1)=1$.\n- Cần tìm nghiệm của phương trình.\n❓ **Hiểu câu hỏi:**\n- Đây là bài toán giải phương trình logarit.\n- Ta đổi phương trình logarit sang dạng lũy thừa.\n🔎 **Hướng dẫn cách làm:**\n- Điều kiện xác định là $x-1>0$, tức là $x>1$.\n- Từ $\\log_3(x-1)=1$ suy ra $x-1=3^1=3$.\n- Do đó $x=4$.\n- Giá trị này thỏa điều kiện $x>1$.\n✅ **Đáp án:** Chọn A. $x=4$."
+    },
+    {
+      "id": 7,
+      "content": "Trong không gian $Oxyz$, cho ba điểm $A(1;1;1)$, $B(0;2;1)$ và $C(1;-1;2)$. Mặt phẳng đi qua $A$ và vuông góc với $BC$ có phương trình là",
+      "chuong": "phương pháp tọa độ trong không gian",
+      "dang": "lập phương trình tổng quát của mặt phẳng",
+      "type": "single",
+      "options": [
+        "A. $x-3y+z+1=0$.",
+        "B. $x+3y+z-1=0$.",
+        "C. $x-3y+z-1=0$.",
+        "D. $x+3y-z+1=0$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Ba điểm đã cho là $A(1;1;1),\\,B(0;2;1),\\,C(1;-1;2)$.\n- Cần tìm mặt phẳng đi qua $A$ và vuông góc với đường thẳng $BC$.\n❓ **Hiểu câu hỏi:**\n- Mặt phẳng vuông góc với $BC$ thì có một vectơ pháp tuyến cùng phương với $\\overrightarrow{BC}$.\n- Sau đó ta dùng dạng phương trình mặt phẳng qua một điểm.\n🔎 **Hướng dẫn cách làm:**\n- Ta có $\\overrightarrow{BC}=\\left(1-0;-1-2;2-1\\right)=(1;-3;1)$.\n- Vì mặt phẳng cần tìm vuông góc với $BC$ nên có thể nhận $\\vec{n}=(1;-3;1)$ làm vectơ pháp tuyến.\n- Mặt phẳng qua $A(1;1;1)$ có phương trình \\$1(x-1)-3(y-1)+1(z-1)=0$.\n- Rút gọn được $x-3y+z+1=0$.\n✅ **Đáp án:** Chọn A. $x-3y+z+1=0$."
+    },
+    {
+      "id": 8,
+      "content": "Khảo sát thời gian tập thể dục của một số học sinh khối \\$11$ thu được mẫu số liệu ghép nhóm.\nMốt của mẫu số liệu là\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-cum-cac-truong-thpt-so-gd-dt-hung-yen-nam-2026-lan-1/cau-08.webp\" alt=\"Hình minh họa câu 8\" loading=\"lazy\"></figure>",
+      "chuong": "các số đặc trưng đo xu thế trung tâm của mẫu số liệu ghép nhóm",
+      "dang": "mốt của mẫu số liệu ghép nhóm",
+      "type": "single",
+      "options": [
+        "A. \\$53$.",
+        "B. \\$52$.",
+        "C. \\$54$.",
+        "D. \\$42$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Các lớp ghép nhóm là $[0;20),[20;40),[40;60),[60;80),[80;100)$.\n- Tần số lớn nhất là \\$12$ ở lớp $[40;60)$.\n❓ **Hiểu câu hỏi:**\n- Mốt của số liệu ghép nhóm được ước lượng bằng công thức mốt của lớp có tần số lớn nhất.\n- Ta dùng công thức $Mo=L+\\dfrac{d_1}{d_1+d_2}\\cdot h$.\n🔎 **Hướng dẫn cách làm:**\n- Lớp chứa mốt là $[40;60)$ nên $L=40$ và $h=20$.\n- Ta có $d_1=12-9=3$, $d_2=12-10=2$.\n- Suy ra $Mo=40+\\dfrac{3}{3+2}\\cdot 20=40+\\dfrac{3}{5}\\cdot 20=52$.\n✅ **Đáp án:** Chọn B. \\$52$."
+    },
+    {
+      "id": 9,
+      "content": "Giá của một chiếc xe ô tô lúc mới mua là \\$470$ triệu đồng. Trong \\$8$ năm đầu, cứ sau mỗi năm sử dụng, giá của chiếc xe ô tô giảm \\$40$ triệu đồng. Giá còn lại của chiếc xe sau \\$5$ năm sử dụng bằng",
+      "chuong": "dãy số. cấp số cộng và cấp số nhân",
+      "dang": "số hạng tổng quát của cấp số cộng",
+      "type": "single",
+      "options": [
+        "A. \\$350$ triệu đồng.",
+        "B. \\$310$ triệu đồng.",
+        "C. \\$270$ triệu đồng.",
+        "D. \\$230$ triệu đồng."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Giá xe ban đầu là \\$470$ triệu đồng.\n- Mỗi năm trong \\$8$ năm đầu, giá xe giảm \\$40$ triệu đồng.\n- Cần tính giá xe sau \\$5$ năm sử dụng.\n❓ **Hiểu câu hỏi:**\n- Đây là bài toán giảm đều theo từng năm.\n- Ta lấy giá ban đầu trừ đi tổng số tiền giảm sau \\$5$ năm.\n🔎 **Hướng dẫn cách làm:**\n- Sau \\$5$ năm, tổng số tiền giảm là \\$5\\cdot 40=200$ triệu đồng.\n- Vậy giá còn lại của chiếc xe là \\$470-200=270$ triệu đồng.\n✅ **Đáp án:** Chọn C. \\$270$ triệu đồng."
+    },
+    {
+      "id": 10,
+      "content": "Trong không gian với hệ tọa độ $Oxyz$, mặt phẳng $(P)$ cắt các trục $Ox$, $Oy$, $Oz$ lần lượt tại $A\\left(\\dfrac{14}{3};0;0\\right)$, $B(0;7;0)$, $C(0;0;14)$. Viết phương trình mặt phẳng $(P)$.",
+      "chuong": "phương pháp tọa độ trong không gian",
+      "dang": "lập phương trình tổng quát của mặt phẳng",
+      "type": "single",
+      "options": [
+        "A. \\$2x+y+3z+9=0$.",
+        "B. \\$3x+2y+z-14=0$.",
+        "C. \\$2x+y+z-9=0$.",
+        "D. \\$3x+2y+z+14=0$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Mặt phẳng $(P)$ cắt các trục tại $A\\left(\\dfrac{14}{3};0;0\\right),\\,B(0;7;0),\\,C(0;0;14)$.\n- Cần viết phương trình mặt phẳng $(P)$.\n❓ **Hiểu câu hỏi:**\n- Khi biết ba đoạn chắn trên ba trục, ta dùng dạng đoạn chắn của mặt phẳng.\n- Công thức là $\\dfrac{x}{a}+\\dfrac{y}{b}+\\dfrac{z}{c}=1$.\n🔎 **Hướng dẫn cách làm:**\n- Thay $a=\\dfrac{14}{3},\\,b=7,\\,c=14$ vào công thức, ta được $\\dfrac{x}{14/3}+\\dfrac{y}{7}+\\dfrac{z}{14}=1$.\n- Rút gọn: $\\dfrac{3x}{14}+\\dfrac{y}{7}+\\dfrac{z}{14}=1$.\n- Nhân cả hai vế với \\$14$, ta được \\$3x+2y+z=14$.\n- Chuyển vế: \\$3x+2y+z-14=0$.\n✅ **Đáp án:** Chọn B. \\$3x+2y+z-14=0$."
+    },
+    {
+      "id": 11,
+      "content": "Cho hình hộp chữ nhật $ABCD.A'B'C'D'$ biết $AA'=4$, $AB=4$, $BC=6$. Thể tích khối chóp $A'.ABCD$ bằng",
+      "chuong": "quan hệ vuông góc trong không gian",
+      "dang": "thể tích",
+      "type": "single",
+      "options": [
+        "A. \\$32$.",
+        "B. \\$16$.",
+        "C. \\$96$.",
+        "D. \\$48$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hình hộp chữ nhật $ABCD.A'B'C'D'$ có $AA'=4,\\,AB=4,\\,BC=6$.\n- Cần tính thể tích khối chóp $A'.ABCD$.\n❓ **Hiểu câu hỏi:**\n- Đáy của khối chóp là hình chữ nhật $ABCD$.\n- Chiều cao của khối chóp chính là khoảng cách từ $A'$ đến mặt phẳng đáy $\\left(ABCD\\right)$, tức là $AA'$.\n🔎 **Hướng dẫn cách làm:**\n- Diện tích đáy là $S_{ABCD}=AB\\cdot BC=4\\cdot 6=24$.\n- Chiều cao khối chóp là $AA'=4$.\n- Thể tích khối chóp là $V=\\dfrac{1}{3}S_{ABCD}\\cdot AA'=\\dfrac{1}{3}\\cdot 24\\cdot 4=32$.\n✅ **Đáp án:** Chọn A. \\$32$."
+    },
+    {
+      "id": 12,
+      "content": "Cho hàm số $y=f(x)$ xác định trên $\\mathbb{R}$ và có bảng biến thiên như sau. Điểm cực đại của hàm số $y=f(x)$ là\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-cum-cac-truong-thpt-so-gd-dt-hung-yen-nam-2026-lan-1/cau-12.webp\" alt=\"Hình minh họa câu 12\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "cực trị của hàm số",
+      "type": "single",
+      "options": [
+        "A. $x=-3$.",
+        "B. $x=-4$.",
+        "C. $x=-7$.",
+        "D. $x=-6$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Bảng biến thiên cho thấy $y'$ đổi dấu từ $+$ sang $-$ tại $x=-4$.\n- Cần tìm điểm cực đại của hàm số.\n❓ **Hiểu câu hỏi:**\n- Hàm số đạt cực đại tại điểm mà đạo hàm đổi dấu từ dương sang âm.\n- Ta chỉ cần đọc trực tiếp từ bảng biến thiên.\n🔎 **Hướng dẫn cách làm:**\n- Tại $x=-7$, đạo hàm đổi dấu từ $-$ sang $+$ nên đó là điểm cực tiểu.\n- Tại $x=-4$, đạo hàm đổi dấu từ $+$ sang $-$ nên đó là điểm cực đại.\n- Vậy hoành độ điểm cực đại là $x=-4$.\n✅ **Đáp án:** Chọn B. $x=-4$."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-12-chan-troi-sang-tao-bai-f8-co-dap-",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-12-chan-tro",
+  "grade": "l12",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 12 Chân trời sáng tạo Bài F8 có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Thuộc tính CSS nào được sử dụng để đặt màu sắc cho văn bản?",
+      "options": [
+        "A. font-color",
+        "B. text-color",
+        "C. color",
+        "D. text-style"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Thuộc tính color trong CSS được dùng để chỉ định màu sắc cho văn bản. Các giá trị có thể là tên màu, mã màu, hoặc hàm mô tả màu."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Để chỉ định kiểu chữ nghiêng trong CSS, ta dùng thuộc tính nào?",
+      "options": [
+        "A. font-family",
+        "B. font-style",
+        "C. font-weight",
+        "D. font-size"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Thuộc tính font-style được dùng để chỉ định kiểu chữ nghiêng (italic) hoặc không nghiêng (normal)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Thuộc tính font-weight trong CSS được sử dụng để làm gì?",
+      "options": [
+        "A. Điều chỉnh độ đậm nhạt của chữ",
+        "B. Chọn phông chữ",
+        "C. Điều chỉnh kích thước chữ",
+        "D. Căn chỉnh văn bản"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Thuộc tính font-weight xác định độ đậm nhạt của chữ, có thể là các giá trị như normal, bold, hoặc số từ 100 đến 900."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Thuộc tính nào được sử dụng để căn chỉnh văn bản theo phương ngang?",
+      "options": [
+        "A. vertical-align",
+        "B. text-align",
+        "C. align-content",
+        "D. justify-content"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Thuộc tính text-align được dùng để căn chỉnh văn bản theo phương ngang với các giá trị như left, right, center, và justify."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Thuộc tính nào dưới đây được dùng để định kiểu nền của phần tử HTML?",
+      "options": [
+        "A. background-color",
+        "B. background-style",
+        "C. color",
+        "D. border-color"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Thuộc tính background-color dùng để chỉ định màu nền cho phần tử HTML."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Để chèn hình ảnh nền vào một phần tử HTML, ta sử dụng thuộc tính nào?",
+      "options": [
+        "A. image-url",
+        "B. background-img",
+        "C. background-image",
+        "D. img-background"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Thuộc tính background-image được sử dụng để đặt hình ảnh nền cho một phần tử HTML, với giá trị là đường dẫn của hình ảnh trong hàm url()."
+    }
+  ]
+}

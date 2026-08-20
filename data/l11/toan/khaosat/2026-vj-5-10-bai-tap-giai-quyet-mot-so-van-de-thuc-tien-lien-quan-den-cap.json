@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-5-10-bai-tap-giai-quyet-mot-so-van-de-thuc-tien-lien-quan-den-cap",
+  "sourceId": "vietjack:5-10-bai-tap-giai-quyet-mot-so-van-de-th",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "5.10 Bài tập Giải quyết một số vấn đề thực tiễn liên quan đến cấp số cộng (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Một người muốn mua một thanh gỗ đủ để cắt ra làm các thanh ngang của một cái thang. Biết rằng chiều dài các thanh ngang của cái thang đó (từ bậc dưới cùng) lần lượt là: 45 cm; 43 cm; 41 cm; …; 31 cm. Hỏi cái thang đó có bao nhiêu bậc?",
+      "options": [
+        "A. 8;",
+        "B. 9;",
+        "C. 10;",
+        "D. 7."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Dãy số 45; 43; 41; ...; 31 là một cấp số cộng có số hạng đầu u 1 = 45 và công sai d = –2. Khi đó số hạng tổng quát của cấp số cộng trên là: u n = 45 + (n – 1)(– 2) = 47 – 2n, ∀ n ∈ ℕ*. Thanh cuối cùng có độ dài là 31 cm nên để tìm thang có bao nhiêu bậc tương ứng với tìm thanh ngang cuối cùng là số hạng thứ bao nhiêu trong cấp số cộng trên. Ta có u n = 47 – 2n = 31 ⇔ n = 8. Vậy cái thang có 8 bậc."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Khi một vận động viên nhảy dù nhảy ra khỏi máy bay, giả sử quãng đường người ấy rơi tự do (tính theo feet) trong mỗi giây liên tiếp theo thứ tự trước khi bung dù lần lượt là: 16; 48; 80; 112; 144;… (các quãng đường này tạo thành cấp số cộng). Tổng chiều dài quãng đường rơi tự do của người đó trong 10 giây đầu tiên là",
+      "options": [
+        "A. 1600 feet;",
+        "B. 1500 feet;",
+        "C. 1700 feet;",
+        "D. 2000 feet."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Cấp số cộng có số hạng đầu tiên là u 1 = 16 và công sai d = 32. Khi đó công thức số hạng tổng quát là: u n = 16 + (n – 1).32 = 32n – 16. Sau 10 giây buông dù quãng đường người đó rơi tự do là: u 10 = 32.10 – 16 = 304 (feet). Tổng chiều dài quãng đường rơi tự do của người đó trong 10 giây đầu tiên cũng chính là tổng của 10 số hạng đầu tiên trong cấp số cộng và bằng: S 10 = 10. 16 + 304 2 = 1600 . Vậy tổng chiều dài quãng đường rơi tự do của người đó trong 10 giây đầu tiên là 1 600 feet."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Ở một loài thực vật lưỡng bội, tính trạng chiều cao cây do hai gene không alen là A và B cùng quy định theo kiểu tương tác cộng gộp. Trong kiểu gene nếu cứ thêm một alen trội A hay B thì chiều cao cây tăng thêm 5 cm . Khi trưởng thành, cây thấp nhất của loài này với kiểu gene aabb có chiều cao 100 cm . Hỏi cây cao nhất với kiểu gene AABB có chiều cao bao nhiêu?",
+      "options": [
+        "A. 100;",
+        "B. 110;",
+        "C. 120;",
+        "D. 150."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Chiều cao của các cây lập thành một cấp số cộng un Cây thấp nhất có kiểu gene aabb nên u 1 = 100. Nếu cứ thêm một alen trội A hay B thì chiều cao cây tăng thêm 5 cm do đó công sai của cấp số cộng là d = 5. Vậy cây cao nhất với kiểu gene AABB có chiều cao là: 100 + 5.4 = 120 (cm)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Giá của một chiếc xe ô tô lúc mới mua là 680 triệu đồng. Cứ sau mối năm sử dụng, giá của chiếc xe ô tô giảm 55 triệu đồng. Hỏi giá còn lại của chiếc xe sau 5 năm sử dụng là bao nhiêu?",
+      "options": [
+        "A. 460 triệu đồng;",
+        "B. 360 triệu đồng;",
+        "C. 500 triệu đồng;",
+        "D. 400 triệu đồng."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Giá trị của chiếc xe ô tô trong từng năm lập thành một cấp số cộng với số hạng đầu là u 1 = 680 và công sai d = – 55 (do giá xe giảm). Do đó, giá trị còn lại của chiếc ô tô sau 5 năm sử dụng là u 5 = u 1 + (5 – 1)d = 680 + 4 . (– 55) = 460 (triệu đồng). Vậy giá còn lại của chiếc xe sau 5 năm sử dụng là 460 triệu đồng."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Một kiến trúc sư thiết kế một hội trường với 15 ghế ngồi ở hàng thứ nhất, 18 ghế ngồi ở hàng thứ hai, 21 ghế ngồi ở hàng thứ ba, và cứ như vậy (số ghế ở hàng sau nhiều hơn 3 ghế so với số ghế ở hàng liền trước nó). Nếu muốn hội trường đó có sức chứa ít nhất 870 ghế ngồi thì kiến trúc sư đó phải thiết kế tối thiểu bao nhiêu hàng ghế?",
+      "options": [
+        "A. 18;",
+        "B. 20;",
+        "C. 19;",
+        "D. 17."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Số ghế ở mỗi hàng của hội trường lập thành một cấp số cộng với số hạng đầu u 1 = 15 và công sai d = 3. Giả sử cần thiết kế tối thiếu n hàng ghế để hội trường có sức chứa ít nhất 870 ghế ngồi. Ta có: \\[{S_n} = \\frac{n}{2}\\left[ {2{u_1} + \\left( {n - 1} \\right)d} \\right] = \\frac{n}{2}\\left[ {2\\,.\\,\\,15 + \\left( {n - 1} \\right)\\,.\\,3} \\right] \\ge 870\\] Do đó, n(30 + 3n – 3) ≥ 1740 ⇔ n(3n + 27) – 1740 ≥ 0 ⇔ 3n 2 + 27n – 1740 ≥ 0 \\[ \\Leftrightarrow \\left[ \\begin{array}{l}n \\le - 29\\\\n \\ge 20\\end{array} \\right.\\] . Vậy cần thiết kế tối thiểu 20 hàng ghế để thỏa mãn yêu cầu bài toán."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Vào năm 2020, dân số của một thành phố là khoảng 1,2 triệu người. Giả sử mỗi năm, dân số của thành phố này tăng thêm khoảng 30 nghìn người. Theo giả sử này, dân số của thành phố này vào năm 2030 là bao nhiêu?",
+      "options": [
+        "A. 1,7 triệu người;",
+        "B. 1,1 triệu người;",
+        "C. 1,8 triệu người;",
+        "D. 1,5 triệu người."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Dân số mỗi năm của thành phố từ năm 2020 đến năm 2030 lập thành một cấp số cộng, gồm 11 số hạng (2030 – 2020 + 1 = 11), với số hạng đầu u 1 = 1 200 và công sai d = 30. Ta có: u 11 = u 1 + (11 – 1)d = 1 200 + 10 . 30 = 1 500. Vậy dân số của thành phố này vào năm 2030 khoảng 1 500 nghìn người hay 1,5 triệu người."
+    }
+  ]
+}

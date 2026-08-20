@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-toan-10-chan-troi-sang-tao-cac-so-dac-trung-",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-toan-10-chan-troi-s",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Toán 10 chân trời sáng tạo Các số đặc trưng đo mức độ phân tán của mẫu số liệu có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Độ lệch chuẩn là gì?",
+      "options": [
+        "A. Độ lệch chuẩn là bình phương của phương sai;",
+        "B. Độ lệch chuẩn là một nửa của phương sai;",
+        "C. Độ lệch chuẩn là căn bậc hai của phương sai;",
+        "D. Độ lệch chuẩn là căn bậc ba của phương sai."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là: C Căn bậc hai của phương sai được gọi là độ lệch chuẩn, kí hiệu là S."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Phát biểu nào sau đây sai ?",
+      "options": [
+        "A. Khoảng biến thiên đặc trưng cho độ phân tán của toàn bộ mẫu số liệu;",
+        "B. Khoảng tứ phân vị đặc trưng cho độ phân tán của một nửa các số liệu, có giá trị thuộc đoạn từ Q 1 đến Q 3 trong mẫu;",
+        "C. Khoảng tứ phân vị bị ảnh hưởng bởi các giá trị rất lớn hoặc rất bé trong mẫu;",
+        "D. Khoảng tứ phân vị được dùng để xác định các giá trị ngoại lệ trong mẫu, đó là các giá trị quá nhỏ hay quá lớn so với đa số các giá trị trong mẫu."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là: C Đáp án A, B, D đúng. Đáp án C sai. Sửa lại: Khoảng tứ phân vị không bị ảnh hưởng bởi các giá trị rất lớn hoặc rất bé trong mẫu."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho một mẫu dữ liệu đã được sắp xếp theo thứ tự không giảm x 1 ≤ x 2 ≤ x 3 ≤ ... ≤ x n . Khi đó khoảng biến thiên R của mẫu số liệu bằng :",
+      "options": [
+        "A. R = x n – x 1 ;",
+        "B. R = x 1 - x n ;",
+        "C. R = x n − x 1 2 ;",
+        "D. x 1 − x n 2 ."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A Khoảng biến thiên của một mẫu số liệu, kí hiệu là R, là hiệu giữa giá trị lớn nhất và giá trị nhỏ nhất của mẫu số liệu đó, tức là : R = x n – x 1 . Do đó ta chọn đáp án A."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Nếu đơn vị của số liệu là kg thì đơn vị của phương sai là:",
+      "options": [
+        "A. kg",
+        "B. kg 2 ;",
+        "C. kg 3 ;",
+        "D. Không có đơn vị."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải Đáp án đúng là: B Giả sử ta có một mẫu số liệu là x 1 , x 2 ,..., x n . Phương sai của mẫu số liệu này, kí hiệu là S 2 , được tính bởi công thức: S 2 = 1 n x 1 − x ¯ 2 + x 2 − x ¯ 2 + ... + x n − x ¯ 2 , trong đó x ¯ là số trung bình của mẫu số liệu. Do đó đơn vị của phương sai bằng bình phương đơn vị của mẫu số liệu. Vậy nếu mẫu số liệu có đơn vị là kg thì phương sai có đơn vị là kg 2 . Do đó ta chọn đáp án B."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho dãy số liệu thống kê sau: 1; 2; 3; 4; 5; 6; 7; 8; 9. Phương sai và độ lệch chuẩn của mẫu số liệu trên lần lượt là :",
+      "options": [
+        "A. 2 15 và 60;",
+        "B. 60 và 2 15 ;",
+        "C. 2 15 3 và 20 3 ;",
+        "D. 20 3 và 2 15 3 ."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải Đáp án đúng là: D Số trung bình của mẫu số liệu trên là: x ¯ = 1 9 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 = 5 . Phương sai là: S 2 = 1 n x 1 − x ¯ 2 + x 2 − x ¯ 2 + ... + x n − x ¯ 2 S 2 = 1 9 1 − 5 2 + 2 − 5 2 + 3 − 5 2 + 4 − 5 2 + ... + 8 − 5 2 + 9 − 5 2 S 2 = 20 3 Độ lệch chuẩn là: S = S 2 = 20 3 = 2 15 3 . Vậy ta chọn đáp án D."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Một nhà nghiên cứu ghi lại tuổi của 30 bệnh nhân mắc bệnh đau mắt hột như sau: 21 17 22 18 20 17 15 13 15 20 15 12 18 17 25 17 21 15 12 18 16 23 14 18 19 13 16 19 18 17 Khoảng biến thiên R của mẫu số liệu trên là:",
+      "options": [
+        "A. 11",
+        "B. 9",
+        "C. 13",
+        "D. 10"
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là: C Quan sát bảng số liệu, ta thấy giá trị lớn nhất và giá trị nhỏ nhất lần lượt là 25 và 12. Do đó ta có khoảng biến thiên của mẫu số liệu là: R = 25 – 12 = 13. Vậy ta chọn đáp án C."
+    }
+  ]
+}

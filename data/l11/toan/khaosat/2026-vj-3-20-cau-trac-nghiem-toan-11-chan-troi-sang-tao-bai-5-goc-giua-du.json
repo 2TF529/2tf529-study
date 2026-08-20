@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-3-20-cau-trac-nghiem-toan-11-chan-troi-sang-tao-bai-5-goc-giua-du",
+  "sourceId": "vietjack:3-20-cau-trac-nghiem-toan-11-chan-troi-s",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.20 câu trắc nghiệm Toán 11 Chân trời sáng tạo Bài 5. Góc giữa đường thẳng và mặt phẳng. Góc nhị diện (Đúng sai - Trả lời ngắn) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho hình chóp đều S.ABCD, gọi O là tâm của đa giác đáy (tham khảo hình vẽ). Góc giữa đường thẳng SB và mặt phẳng (ABCD) bằng góc nào sau đây?",
+      "options": [
+        "A. \\(\\widehat {SBA}\\) .",
+        "B. \\(\\widehat {SBO}\\) .",
+        "C. \\(\\widehat {SOB}\\) .",
+        "D. \\(\\widehat {SBC}\\) ."
+      ],
+      "answer": "B",
+      "note": "B Ta có O là hình chiếu vuông góc của S xuống mặt phẳng (ABCD) nên góc giữa đường thẳng SB và mặt phẳng (ABCD) bằng góc \\(\\widehat {SBO}\\) ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hình lập phương ABCD.A'B'C'D' (tham khảo hình vẽ). Giá trị sin của góc giữa đường thẳng AC' và mặt phẳng (ABCD) bằng",
+      "options": [
+        "A. \\(\\frac{{\\sqrt 3 }}{3}\\).",
+        "B. \\(\\frac{{\\sqrt 6 }}{3}\\).",
+        "C. \\(\\frac{{\\sqrt 3 }}{2}\\).",
+        "D. \\(\\frac{{\\sqrt 2 }}{2}\\)."
+      ],
+      "answer": "A",
+      "note": "A Ta có (AC', (ABCD)) = (AC', AC) = \\(\\widehat {C'AC} = \\alpha \\) . Giả sử hình lập phương có cạnh là a. Trong D CC'A ta có \\(\\sin \\alpha = \\frac{{CC'}}{{AC'}} = \\frac{a}{{\\sqrt {2{a^2} + {a^2}} }} = \\frac{{\\sqrt 3 }}{3}\\) ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho hình chóp tứ giác đều S.ABCD có tất cả các cạnh bằng a.Gọi M là trung điểm của SD. Tan của góc giữa đường thẳng BM và mặt phẳng (ABCD) bằng",
+      "options": [
+        "A. \\(\\frac{{\\sqrt 2 }}{2}\\) .",
+        "B. \\(\\frac{{\\sqrt 3 }}{3}\\) .",
+        "C. \\(\\frac{2}{3}\\) .",
+        "D. \\(\\frac{1}{3}\\) ."
+      ],
+      "answer": "D",
+      "note": "D Gọi O là tâm của hình vuông, hạ MH ^ BD. Ta có SO ^ (ABCD) và \\(SO = \\sqrt {{a^2} - \\frac{{{a^2}}}{2}} = \\frac{{a\\sqrt 2 }}{2}\\) . Gọi M là trung điểm của OD ta có MH // SO nên H là hình chiếu của M lên mặt phẳng (ABCD) và \\(MH = \\frac{1}{2}SO = \\frac{{a\\sqrt 2 }}{4}\\) . Do đó góc giữa đường thẳng BM và mặt phẳng (ABCD) là \\(\\widehat {MBH}\\) . Khi đó ta có \\(\\tan \\widehat {MBH} = \\frac{{MH}}{{BH}} = \\frac{{a\\sqrt 2 }}{4}:\\frac{{3a\\sqrt 2 }}{4} = \\frac{1}{3}\\) ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hình chóp S.ABC có SA vuông góc với mặt phẳng (ABC), \\(SA = a\\sqrt 2 \\), tam giác ABC vuông cân tại B và \\(AB = a\\sqrt 2 \\)(tham khảo hình vẽ). Góc giữa đường thẳng SB và mặt phẳng (ABC) bằng",
+      "options": [
+        "A. 30°.",
+        "B. 45°.",
+        "C. 60°.",
+        "D. 90°."
+      ],
+      "answer": "B",
+      "note": "B Vì SA ^ (ABC) nên AB là hình chiếu của SB trên mặt phẳng (ABC). Do đó (SB, (ABC)) = (SB, AB) = \\(\\widehat {SBA}\\) . Xét D SAB vuông tại A, có SA = AB = \\(a\\sqrt 2 \\) Þ D SAB vuông cân tại A Þ \\(\\widehat {SBA} = 45^\\circ \\) ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hình chóp S.ABCD có đáy ABCD là hình thang vuông tại A và B, AB = BC = a, AD = 2a, cạnh bên SA ^ (ABCD) và \\(SA = a\\sqrt 2 \\). Góc giữa đường thẳng SC và mặt phẳng (SAD) bằng",
+      "options": [
+        "A. 30°.",
+        "B. 45°.",
+        "C. 60°.",
+        "D. 90°."
+      ],
+      "answer": "A",
+      "note": "A Gọi H là trung điểm của AD Þ AH = HD = a. Vì BC // AH và BC = AH nên ABCH là hình bình hành mà \\(\\widehat A = 90^\\circ \\) nên ABCH là hình chữ nhật. Suy ra CH ^ AD mà CH ^ SA (SA ^ (ABCD)) Þ CH ^ (SAD). Khi đó SH là hình chiếu của SC lên mặt phẳng (SAD). Suy ra góc giữa SC và (SAD) là góc \\(\\widehat {CSH}\\) . Tam giác SHC vuông tại H và có CH = a, \\(SH = \\sqrt {S{A^2} + A{H^2}} = a\\sqrt 3 \\) . Ta có \\(\\tan \\widehat {CSH} = \\frac{{CH}}{{SH}} = \\frac{a}{{\\sqrt {{a^2} + 2{a^2}} }} = \\frac{1}{{\\sqrt 3 }} \\Rightarrow \\widehat {CSH} = 30^\\circ \\) ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho hình chóp S.ABCD có đáy ABCD là hình chữ nhật tâm O, SA ^ (ABCD). Gọi H là hình chiếu của A lên BD và K là hình chiếu của A lên SD. Góc phẳng nhị diện [S, BD, A] là",
+      "options": [
+        "A. \\(\\widehat {SKA}\\).",
+        "B. \\(\\widehat {SBA}\\).",
+        "C. \\(\\widehat {SHA}\\).",
+        "D. \\(\\widehat {SDA}\\)."
+      ],
+      "answer": "C",
+      "note": "C Ta có SH ^ BD và AH ^ BD. Suy ra \\(\\widehat {SHA}\\) là góc phẳng nhị diện [S, BD, A]."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Cho hình chóp S.ABC có tam giác ABC vuông cân tại B, AB = BC = a, \\(SA = a\\sqrt 3 \\), SA ^ (ABC). Góc nhị diện [S, BC, A] có số đo bằng",
+      "options": [
+        "A. 45°.",
+        "B. 60°.",
+        "C. 90°.",
+        "D. 30°."
+      ],
+      "answer": "B",
+      "note": "B Vì BC ^ BA và BC ^ SA Þ BC ^ (SAB) Þ BC ^ SB. Suy ra \\(\\widehat {SBA}\\) là góc phẳng nhị diện của góc nhị diện [S, BC, A]. Xét D SAB vuông tại B, \\(\\tan \\widehat {SBA} = \\frac{{SA}}{{AB}} = \\frac{{a\\sqrt 3 }}{a} = \\sqrt 3 \\) \\( \\Rightarrow \\widehat {SBA} = 60^\\circ \\) ."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho hai mặt phẳng (P), (Q) có giao tuyến là đường thẳng CD. Điểm A Î (P); B Î (Q) và AO, BO cùng vuông góc với CD. M là một điểm bất kì thuộc CD (M ≠ O). Xác định góc nhị diện [A, CD, B].",
+      "options": [
+        "A. \\(\\widehat {AOB}\\) .",
+        "B. \\(\\widehat {AMO}\\) .",
+        "C. \\(\\widehat {AMB}\\) .",
+        "D. \\(\\widehat {OAB}\\) ."
+      ],
+      "answer": "A",
+      "note": "A Theo định nghĩa, góc nhị diện [A, CD, B] là góc \\(\\widehat {AOB}\\) ."
+    }
+  ]
+}

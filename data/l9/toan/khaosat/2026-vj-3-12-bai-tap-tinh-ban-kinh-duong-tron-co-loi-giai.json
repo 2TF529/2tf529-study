@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-3-12-bai-tap-tinh-ban-kinh-duong-tron-co-loi-giai",
+  "sourceId": "vietjack:3-12-bai-tap-tinh-ban-kinh-duong-tron-co",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.12 bài tập Tính bán kính đường tròn có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Tính bán kính R của đường tròn đi qua cả bốn đỉnh của hình vuông ABCD cạnh 3 cm.",
+      "options": [
+        "A. R = \\(3\\sqrt 2 \\) cm.",
+        "B. R = \\(\\frac{{3\\sqrt 2 }}{2}\\) cm.",
+        "C. R = 3 cm.",
+        "D. R = \\(\\frac{{3\\sqrt 3 }}{2}\\) cm."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Gọi O là giao hai đường chéo của hình vuông ABCD. Khi đó theo tính chất của hình vuông, ta có: OA = OB = OC = OD nên O là tâm đường tròn ngoại tiếp hình vuông ABCD, bán kính R = OA = \\(\\frac{{AC}}{2}\\). Xét tam giác ABC vuông cân tại B, ta có: AC = \\(\\sqrt {A{B^2} + B{C^2}} = 3\\sqrt 2 \\) Suy ra OA = \\(\\frac{{AC}}{2} = \\frac{{3\\sqrt 2 }}{2}\\). Vậy bán kính của đường tròn là R = OA = \\(\\frac{{3\\sqrt 2 }}{2}\\) cm."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho tam giác ABC vuông tại A, có AB = 15 cm, AC = 20 cm. Tính bán kính đường tròn ngoại tiếp tam giác ABC.",
+      "options": [
+        "A. R = 25.",
+        "B. R = \\(\\frac{{25}}{2}\\).",
+        "C. R = 15.",
+        "D. R = 20."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Vì tam giác ABC vuông tại A nên tâm đường tròn ngoại tiếp là trung điểm của cạnh huyền BC, ban kính R = \\(\\frac{{BC}}{2}\\). Theo định lí Pythagore ta có: BC = \\(\\sqrt {A{C^2} + A{B^2}} = 25\\) nên bán kính R = \\(\\frac{{25}}{2}\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho tam giác ABC vuông tại A có AB = 5 cm; AC = 12 cm. Tính bán kính đường tròn ngoại tiếp tam giác ABC.",
+      "options": [
+        "A. R = 26.",
+        "B. R = 13.",
+        "C. R = \\(\\frac{{13}}{2}\\).",
+        "D. R = 6."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Vì tam giác ABC vuông tại A nên tâm đường tròn ngoại tiếp là trung điểm của cạnh huyền BC, ban kính R = \\(\\frac{{BC}}{2}\\). Theo định lí Pythagore ta có: BC = \\(\\sqrt {A{C^2} + A{B^2}} = 13\\) nên bán kính R = \\(\\frac{{13}}{2}\\)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hình chữ nhật ABCD có AB = 12 cm, BC = 5 cm. Tính bán kính đường tròn đi qua bốn đỉnh A, B, C, D.",
+      "options": [
+        "A. R = 7,5 cm.",
+        "B. R = 13 cm.",
+        "C. R = 6 cm.",
+        "D. R = 6,5 cm."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Gọi I là giao điểm của hai đường chéo, ta có: IA = IB = IC = ID (vì BD = AC và I là trung điểm của mỗi đường). Nên bốn điểm A, B, C, D cùng thuộc đường tròn tâm I bán kính R = \\(\\frac{{AC}}{2}\\). Theo định lí Pythagore trong tam giác ABC ta có: AC = \\(\\sqrt {B{C^2} + A{B^2}} = 13\\) cm. Do đó, R = \\(\\frac{{AC}}{2}\\) = 6,5 cm. Vậy bán kính cần tìm là R = 6,5 cm."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hình chữ nhật ABCD có AB = 8 cm, BC = 6 cm. Tính bán kính đường tròn đi qua bốn đỉnh A, B, C, D.",
+      "options": [
+        "A. R = 5 cm.",
+        "B. R = 10 cm.",
+        "C. R = 6 cm.",
+        "D. R = 2,5 cm."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Gọi I là giao điểm của hai đường chéo, ta có: IA = IB = IC = ID (vì DB = AC và I là trung điểm mỗi đường) Nên bốn điểm A, B, C, D cùng thuộc đường tròn tâm I bán kính R = \\(\\frac{{AC}}{2}\\). Theo định lí Pythagore trong tam giác vuông ABC, ta có: AC = \\(\\sqrt {B{C^2} + A{B^2}} = \\sqrt {{6^2} + {8^2}} = 10\\) nên R = \\(\\frac{{AC}}{2}\\) = 5 cm. Vậy bán kính cần tìm là R = 5 cm."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho đường tròn tâm O và đường thẳng d cắt đường tròn (O) tại hai điểm A và B sao cho AB = 4 cm và khoảng cách từ tâm O đến đường thẳng d là 1 cm. Tính bán kính đường tròn (O).",
+      "options": [
+        "A. \\(\\sqrt 3 \\)cm.",
+        "B. \\(\\sqrt 5 \\) cm.",
+        "C. \\(\\frac{{\\sqrt 5 }}{2}\\) cm.",
+        "D. \\(\\frac{{\\sqrt 3 }}{2}\\)"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Xét tam giác OAB có OA = OB = R nên tam giác OAB cân tại O. Có OH vuông góc với AB tại H nên H là trung điểm của AB. Xét tam giác HAO vuông tại H có OH = 1 cm và AH = \\(\\frac{{AB}}{2} = 2\\) cm. Áp dụng định lí Pythagore vào tam giác HOA, ta có: OA 2 = OH 2 + HA 2 = 1 2 + 2 2 = 5 Suy ra OA = \\(\\sqrt 5 \\) cm. Vậy bán kính đường tròn là \\(\\sqrt 5 \\) cm."
+    }
+  ]
+}

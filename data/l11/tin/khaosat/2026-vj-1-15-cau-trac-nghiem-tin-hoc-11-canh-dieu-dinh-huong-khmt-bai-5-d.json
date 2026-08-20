@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-11-canh-dieu-dinh-huong-khmt-bai-5-d",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-11-canh-die",
+  "grade": "l11",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 11 Cánh diều Định hướng KHMT Bài 5: Đánh giá thuật toán có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Độ phức tạp thời gian của thuật toán được xác định bởi yếu tố nào?",
+      "options": [
+        "A. Kích thước dữ liệu đầu vào",
+        "B. Ngôn ngữ lập trình",
+        "C. Kỹ năng lập trình viên",
+        "D. Thời gian thực hiện cụ thể của thuật toán"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Độ phức tạp thời gian chủ yếu phụ thuộc vào kích thước dữ liệu đầu vào (n). Các yếu tố khác như ngôn ngữ lập trình hay kỹ năng lập trình viên có thể ảnh hưởng đến hiệu suất thực tế nhưng không phải là yếu tố chính để xác định độ phức tạp."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Độ phức tạp thời gian tuyến tính được ký hiệu là gì?",
+      "options": [
+        "A. O(1)",
+        "B. O(log n)",
+        "C. O(n)",
+        "D. O(n^2)"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Độ phức tạp thời gian tuyến tính được ký hiệu là O(n), có nghĩa là số phép toán cần thực hiện tỷ lệ thuận với kích thước đầu vào n."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Phép toán nào được coi là phép toán sơ cấp?",
+      "options": [
+        "A. Phép cộng hai số",
+        "B. Phép lặp",
+        "C. Phép lựa chọn",
+        "D. Phép khai căn"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Phép cộng hai số là phép toán sơ cấp vì nó thực hiện trong thời gian không phụ thuộc vào kích thước n của dữ liệu đầu vào. Các phép lặp và lựa chọn không được coi là sơ cấp."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Thuật toán nào sau đây có độ phức tạp thời gian hằng số?",
+      "options": [
+        "A. Tìm kiếm một phần tử trong danh sách",
+        "B. Tính tổng dãy số từ 1 đến n bằng công thức",
+        "C. Sắp xếp một danh sách số",
+        "D. Tính giai thừa của n"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Tính tổng dãy số từ 1 đến n bằng công thức S = n(n + 1)/2 có độ phức tạp thời gian hằng số (O(1)) vì số phép toán không phụ thuộc vào n."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Khi ước lượng độ phức tạp thời gian của thuật toán, quy tắc nào được áp dụng?",
+      "options": [
+        "A. Chỉ giữ lại các phép toán có bậc thấp nhất",
+        "B. Bỏ qua các hằng số nhân",
+        "C. Chỉ xem xét các phép toán không sơ cấp",
+        "D. Tính tổng tất cả các phép toán thực hiện"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Khi ước lượng, chúng ta bỏ qua các hằng số nhân và chỉ giữ lại các phần có bậc lớn nhất để đơn giản hóa biểu thức."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong trường hợp nào thuật toán có thể có độ phức tạp thời gian tuyến tính?",
+      "options": [
+        "A. Tìm số lớn nhất trong một dãy số không tăng",
+        "B. Sắp xếp một danh sách số ngẫu nhiên",
+        "C. Tìm kiếm một phần tử cụ thể trong danh sách",
+        "D. Tính giai thừa của một số"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Tìm kiếm một phần tử trong danh sách có thể có độ phức tạp thời gian tuyến tính (O(n)) trong trường hợp xấu nhất khi phải kiểm tra từng phần tử một."
+    }
+  ]
+}

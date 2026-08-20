@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-9-chan-troi-sang-tao-bai-6a-co-dap-an",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-9-chan-troi-san",
+  "grade": "l9",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu trắc nghiệm Tin 9 Chân trời sáng tạo Bài 6a có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Mục tiêu chính của dự án quản lý tài chính gia đình là gì?",
+      "options": [
+        "A. Tạo danh sách chi tiết các khoản thu, chi.",
+        "B. Sử dụng phần mềm soạn thảo văn bản để lưu trữ dữ liệu.",
+        "C. Tạo bảng tính điện tử để lưu trữ và xử lý dữ liệu thu, chi.",
+        "D. Sử dụng phần mềm đồ họa để phân tích tài chính."
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Mục tiêu của dự án là tạo bảng tính điện tử để lưu trữ, xử lý dữ liệu các khoản thu, chi và hỗ trợ cân đối tài chính, không phải sử dụng phần mềm khác như soạn thảo văn bản hay đồ họa."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Công cụ Data Validation được sử dụng để làm gì trong bảng tính?",
+      "options": [
+        "A. Lưu trữ dữ liệu thu, chi.",
+        "B. Tự động tính toán các khoản thu, chi.",
+        "C. Kiểm soát và hỗ trợ nhập dữ liệu.",
+        "D. Tạo biểu đồ trực quan hóa dữ liệu."
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Data Validation giúp kiểm soát và hỗ trợ nhập dữ liệu, đảm bảo dữ liệu nhập vào đúng phạm vi, định dạng và phù hợp với yêu cầu."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Khi nhập dữ liệu ngày vào cột \"Ngày\" trong bảng tính, cần đảm bảo điều kiện gì?",
+      "options": [
+        "A. Ngày nhập phải thuộc phạm vi được thiết lập.",
+        "B. Chỉ có thể nhập ngày theo định dạng tháng/ngày/năm.",
+        "C. Ngày nhập phải nằm trong danh sách định sẵn.",
+        "D. Có thể nhập bất kỳ ngày nào mà không bị giới hạn."
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Khi sử dụng Data Validation, phạm vi dữ liệu nhập vào cột ngày cần được thiết lập trước, ví dụ từ 01/01/2023 đến 31/12/2023."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Một lợi ích của việc sử dụng công cụ Data Validation là gì?",
+      "options": [
+        "A. Giúp tạo các công thức tính toán phức tạp hơn.",
+        "B. Cho phép nhập dữ liệu ngoài phạm vi đã quy định.",
+        "C. Đảm bảo tính thống nhất và tránh dữ liệu không phù hợp.",
+        "D. Tự động tạo biểu đồ minh họa dữ liệu."
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Data Validation đảm bảo tính thống nhất và tránh lỗi nhập dữ liệu không phù hợp, từ đó hỗ trợ tốt hơn cho việc xử lý dữ liệu sau này."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Công cụ Data Validation cho phép nhập dữ liệu vào ô như thế nào?",
+      "options": [
+        "A. Gõ tự do mà không cần kiểm soát.",
+        "B. Chọn từ danh sách định sẵn hoặc nhập trực tiếp.",
+        "C. Tự động gợi ý dữ liệu đúng.",
+        "D. Chỉ nhập được bằng cách gõ trực tiếp."
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Data Validation hỗ trợ nhập dữ liệu bằng cách chọn từ danh sách định sẵn hoặc gõ trực tiếp nếu đúng phạm vi được quy định."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Tại sao cần lưu trữ dữ liệu thu và chi ở hai bảng tính khác nhau?",
+      "options": [
+        "A. Để dễ dàng theo dõi và xử lý dữ liệu.",
+        "B. Vì Excel không hỗ trợ lưu cả hai loại dữ liệu trong cùng một bảng.",
+        "C. Để giảm dung lượng tệp bảng tính.",
+        "D. Vì các khoản thu và chi luôn khác nhau hoàn toàn."
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Việc tách riêng dữ liệu thu và chi giúp dễ theo dõi, xử lý và đối chiếu trong quá trình quản lý tài chính."
+    }
+  ]
+}

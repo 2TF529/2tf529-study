@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-toan-10-canh-dieu-quy-tac-dem-co-dap-an",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-toan-10-canh-dieu-q",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Toán 10 Cánh Diều Quy tắc đếm có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho các số 0; 5; 6; 7; 8 có thể lập được bao nhiêu số tự nhiên có 4 chữ số đôi một khác nhau",
+      "options": [
+        "A. 12;",
+        "B. 96;",
+        "C. 64;",
+        "D. 256."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn Đáp án đúng là: B Gọi số tự nhiên có 4 chữ số cần tìm là: \\[\\overline {abcd} \\] (a ≠ 0), khi đó: a có 4 cách chọn (vì a có thể chọn tuỳ ý một trong 4 số 5; 6; 7; 8) b có 4 cách chọn (vì b ≠ a nên b không được chọn lại số mà a đã chọn vậy b có 4 số để chọn) c có 3 cách chọn (vì c ≠ a, c ≠ b nên c không được chọn lại số mà a, b đã chọn vậy c còn 3 số để chọn) d có 2 cách chọn (vì d ≠ a, d ≠ b, d ≠ c nên d không được chọn lại số mà a, b, c đã chọn vậy c còn 2 số để chọn) Vậy có: 4.4.3.2 = 96 số"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Từ các chữ số 2; 3; 4; 5; 6 có thể lập được bao nhiêu số tự nhiên chẵn gồm 4 chữ số",
+      "options": [
+        "A. 375;",
+        "B. 625;",
+        "C. 120;",
+        "D. 250."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A Gọi số tự nhiên chẵn có 4 chữ số cần tìm là: \\[\\overline {abcd} \\] (a ≠ 0) khi đó: d có 3 cách chọn (vì số tự nhiên chẵn nên d có thể chọn một trong 3 số 2; 4; 6) a có 5 cách chọn (vì a có thể chọn tuỳ ý một trong 5 số 2; 3; 4; 5; 6) b có 5 cách chọn (vì b có thể chọn tuỳ ý một trong 5 số 2; 3; 4; 5; 6) c có 5 cách chọn (vì c có thể chọn tuỳ ý một trong 5 số 2; 3; 4; 5; 6) Vậy có: 3.5.5.5 = 375 số"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho 7 chữ số 0; 2; 3; 4; 5; 6 ; 7 số các số tự nhiên lẻ có 3 chữ số lập thành từ các chữ số trên",
+      "options": [
+        "A. 60;",
+        "B. 210;",
+        "C. 126;",
+        "D. 180."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là: C Gọi số tự nhiên có 3 chữ số cần tìm là: \\[\\overline {abc} \\] (a ≠ 0) khi đó: c có 3 cách chọn (vì \\[\\overline {abc} \\] là số lẻ nên c có thể chọn 1 trong 3 số 3; 5; 7) a có 6 cách chọn (vì a có thể chọn tuỳ ý một trong 6 số 2; 3; 4; 5; 6; 7) b có 7 cách chọn (vì b có thể chọn tuỳ ý một trong 7 số 0; 2; 3; 4; 5; 6; 7) Vậy có: 3.6.7 = 126 số"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Có bao nhiêu số tự nhiên có 3 chữ số, mà tất cả các chữ số đều chẵn:",
+      "options": [
+        "A. 80;",
+        "B. 60;",
+        "C. 243;",
+        "D. 100."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải Đáp án đúng là: D Gọi số tự nhiên cần tìm có dạng \\(\\overline {abc} \\) (a ≠ 0) Khi đó: a có 4 cách chọn (vì a là số chẵn và a ≠ 0 nên a chỉ được chọn một trong 4 số 2; 4; 6; 8) b có 5 cách chọn (vì b là số chẵn nên b chỉ được chọn một trong 5 số 0; 2; 4; 6; 8) c có 5 cách chọn (vì c là số chẵn nên c chỉ được chọn một trong 5 số 0; 2; 4; 6; 8) Vậy ta có: 4.5.5 = 100 số"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Có 7 quả cầu đỏ khác nhau, 5 quả cầu vàng khác nhau và 3 quả cầu trắng khắc nhau. Hỏi có bao nhiêu cách lấy 3 quả cầu có đủ ba màu.",
+      "options": [
+        "A. 105;",
+        "B. 320;",
+        "C. 15;",
+        "D. 319."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A Vì chọn 3 quả cầu có đủ 3 màu nên mỗi màu ta chọn một quả Quả cầu đỏ có 7 cách chọn Quả cầu vàng có 5 cách chọn Quả cầu trắng có 3 cách chọn Vậy có 7.5.3 = 105 cách"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Từ các chữ số 0; 1; 2; 3; 4; 5; 6 có thể lập được bao nhiêu số tự nhiên chẵn có bốn chữ số?",
+      "options": [
+        "A. 720;",
+        "B. 2401;",
+        "C. 1176;",
+        "D. 2058."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là: C Gọi số có ba chữ số cần tìm là \\(\\overline {abcd} \\), với a ≠ 0 a có 6 cách chọn (vì a ≠ 0 nên a có thể chọn một trong 6 số 1; 2; 3; 4; 5; 6) b có 7 cách chọn (vì b có thể chọn tuỳ ý một trong 7 số 0; 1; 2; 3; 4; 5; 6) c có 7 cách chọn (vì c có thể chọn tuỳ ý một trong 7 số 0; 1; 2; 3; 4; 5; 6) d có 4 cách chọn (vì \\(\\overline {abcd} \\) là số chẵn nên d phải là số chẵn vậy d chỉ được chọn một trong 4 số 0; 2; 4; 6) Vậy số các số cần tìm là 6.7.7.4 = 1176 (số)"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-10-bai-tap-tap-xac-dinh-cua-ham-so-mu-va-ham-so-logarit-co-loi-",
+  "sourceId": "vietjack:2-10-bai-tap-tap-xac-dinh-cua-ham-so-mu-",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.10 Bài tập Tập xác định của hàm số mũ và hàm số lôgarit (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Tìm tập xác định của hàm số y = log 2 (10 – 2x) là:",
+      "options": [
+        "A. (-∞; 2);",
+        "B. (5; +∞);",
+        "C. ( - ∞; 10)",
+        "D. ( - ∞; 5);"
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Hàm số y = log 2 (10 – 2x) xác định Û 10 – 2x > 0 Û x < 5. Vậy D = ( - ∞; 5)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Có bao nhiêu giá trị nguyên của x để hàm số y = log (- x 2 - 2x) xác định?",
+      "options": [
+        "A. 1;",
+        "B. 2;",
+        "C. 3;",
+        "D. 4."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Hàm số y = log (- x 2 - 2x) xác định khi và chỉ khi − x 2 − 2 x > 0 ⇔ x 2 + 2 x < 0 ⇔ − 2 < x < 0 Mà x nguyên nên x = - 1. Vậy chỉ có 1 giá trị nguyên của x để hàm số y = log ( - x 2 - 2x) xác định."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Tìm tất cả các giá trị thực của tham số m để hàm số y = ln (x 2 – 2mx + 4) xác định với mọi x ∈ ℝ .",
+      "options": [
+        "A. m Î (-2; 2] È [2; + ∞ );",
+        "B. m Î [-2; 2];",
+        "C. m Î (-2; 2) È (2; + ∞ );",
+        "D. m Î (-2; 2)."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Hàm số xác định với mọi x ∈ ℝ khi và chỉ khi x 2 − 2 m x + 4 > 0 , ∀ x ∈ ℝ . Þ D ’= m 2 – 4 < 0 Û -2 < m < 2. Vậy m Î (-2; 2)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Tìm tập xác định của hàm số y = l o g 2 x − 1 .",
+      "options": [
+        "A. D = ( 1 ; + ∞ )",
+        "B. D = ℝ \\ 0",
+        "C. D = ℝ",
+        "D. D = ℝ \\ − ∞ ; 0"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Hàm số y = l o g 2 x − 2 xác định khi x − 1 > 0 x ≥ 0 ⇒ x > 1 . ⇒ D = 1 ; + ∞ ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Tìm tập xác định của hàm số: y = log 2 x + 1 2 − ln 3 − x + 1",
+      "options": [
+        "A. D = 3 ; + ∞",
+        "B. D = − ∞ ; 3",
+        "C. D = − ∞ ; 3 \\ − 1",
+        "D. D = 3 ; + ∞ \\ − 1"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Điều kiện xác định của hàm số y = log 2 x + 1 2 − ln 3 − x + 1 là: x + 1 2 > 0 3 − x > 0 ⇔ x ≠ − 1 x < 3 ⇒ D = − ∞ ; 3 \\ − 1 ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Tổng tất cả các giá trị nguyên của x để hàm số y = log[(6-x)(x+2)] xác định là:",
+      "options": [
+        "A. 0;",
+        "B. 1;",
+        "C. 14;",
+        "D. -14;"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Để hàm số y = log[(6 - x)(x + 2)] xác định thì (6 - x)(x + 2) > 0. Suy ra, - 2 < x < 6. Mà x nguyên nên x Î {-1; 0; 1; 2; 3; 4; 5}. Tổng tất cả các giá trị nguyên của x là: -1 + 0 + 1 + 2 + 3 + 4 + 5 = 14."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-12-canh-dieu-dinh-dang-van-ban-va-ta",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-12-canh-die",
+  "grade": "l12",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 12 Cánh diều Định dạng văn bản và tạo siêu liên kết có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Câu 1: Thẻ nào được sử dụng để tạo các đoạn văn bản trên trang web trong HTML?",
+      "options": [
+        "A. &lt;h1&gt;",
+        "B. &lt;a&gt;",
+        "C. &lt;p&gt;",
+        "D. &lt;div&gt;"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Thẻ &lt;p&gt; được sử dụng để tạo các đoạn văn bản trong HTML, giúp phân đoạn văn bản và làm cho nội dung dễ đọc hơn."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: HTML hỗ trợ bao nhiêu cấp tiêu đề mục từ lớn đến nhỏ?",
+      "options": [
+        "A. 3",
+        "B. 4",
+        "C. 5",
+        "D. 6"
+      ],
+      "answer": "D",
+      "note": "Đáp án: D Giải thích: HTML hỗ trợ sáu cấp tiêu đề mục từ &lt;h1&gt; đến &lt;h6&gt;, với &lt;h1&gt; là tiêu đề lớn nhất và &lt;h6&gt; là tiêu đề nhỏ nhất."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Phần tử nào trong HTML được sử dụng để in đậm văn bản?",
+      "options": [
+        "A. &lt;strong&gt;",
+        "B. &lt;em&gt;",
+        "C. &lt;mark&gt;",
+        "D. &lt;b&gt;"
+      ],
+      "answer": "D",
+      "note": "Đáp án: D Giải thích: Thẻ &lt;b&gt; được sử dụng để in đậm văn bản. Thẻ &lt;strong&gt; cũng làm đậm văn bản nhưng còn có ý nghĩa ngữ nghĩa là văn bản quan trọng."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Phần tử &lt;a&gt; trong HTML được sử dụng để làm gì?",
+      "options": [
+        "A. Tạo các đoạn văn bản",
+        "B. Tạo các tiêu đề",
+        "C. Tạo các siêu liên kết",
+        "D. Tạo các bảng"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Phần tử &lt;a&gt; được sử dụng để tạo các siêu liên kết, cho phép kết nối đến các tài nguyên web khác."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Thuộc tính nào trong thẻ &lt;a&gt; xác định địa chỉ của tài nguyên web?",
+      "options": [
+        "A. id",
+        "B. src",
+        "C. href",
+        "D. class"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Thuộc tính href trong thẻ &lt;a&gt; xác định địa chỉ URL của tài nguyên mà liên kết sẽ trỏ đến."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Để tạo siêu liên kết đến một phần tử trong cùng trang web, bạn sử dụng cú pháp nào?",
+      "options": [
+        "A. &lt;a href=\"http://example.com\"&gt;",
+        "B. &lt;a href=\"#Tên_định_danh\"&gt;",
+        "C. &lt;a href=\"mailto:email@example.com\"&gt;",
+        "D. &lt;a href=\"tel:123456789\"&gt;"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Để liên kết đến một phần tử trong cùng trang web, bạn sử dụng cú pháp #Tên_định_danh trong thuộc tính href."
+    }
+  ]
+}

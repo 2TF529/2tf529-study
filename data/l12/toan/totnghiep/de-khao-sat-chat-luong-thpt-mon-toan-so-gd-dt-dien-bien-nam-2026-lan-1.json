@@ -1,0 +1,196 @@
+{
+  "id": "l12-toan-totnghiep-2026-de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-dien-bien-nam-2026-lan-1",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "code": "THPT_TKT_2026_ĐB_01",
+  "title": "Đề khảo sát chất lượng THPT môn Toán Sở GD&ĐT Điện Biên năm 2026 - Lần 1",
+  "duration": 90,
+  "answerSource": "official",
+  "source": "https://dolthpt.vn/tot-nghiep-thpt/pdf-de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-dien-bien-nam-2026-lan-1-co-dap-an",
+  "notes": "Nội dung, đáp án và lời giải được nhập từ bản công khai của DOL THPT.",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "content": "Tính thể tích vật thể tròn xoay khi quay hình phẳng giới hạn bởi các đường cong $y=\\sqrt{e^x-x}$, $y=0$, $x=1$, $x=2$ xung quanh trục $Ox$ là",
+      "chuong": "nguyên hàm và tích phân",
+      "dang": "ứng dụng tích phân để tính thể tích vật thể",
+      "type": "single",
+      "options": [
+        "A. $\\pi\\left(e^2-e-\\dfrac52\\right)$",
+        "B. $\\pi\\left(e^2-e-\\dfrac32\\right)$",
+        "C. $e^2-e-\\dfrac52$",
+        "D. $e^2-e-\\dfrac32$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hình phẳng quay quanh trục $Ox$.\n- Bán kính tiết diện là $y=\\sqrt{e^x-x}$ trên đoạn $[1;2]$.\n❓ **Hiểu câu hỏi:**\n- Cần dùng công thức thể tích vật thể tròn xoay quanh trục $Ox$: $V=\\pi\\int_a^b y^2\\,dx$.\n🔎 **Hướng dẫn cách làm:**\n- Thể tích là $V=\\pi\\int_1^2 y^2\\,dx=\\pi\\int_1^2(e^x-x)\\,dx$.\n- $V=\\pi\\left[e^x-\\dfrac{x^2}{2}\\right]_1^2=\\pi\\left(e^2-2-e+\\dfrac12\\right)=\\pi\\left(e^2-e-\\dfrac32\\right)$.\n✅ **Đáp án:** Chọn B."
+    },
+    {
+      "id": 2,
+      "content": "Cho cấp số nhân $(u_n)$ với $u_1=6$ và $u_2=-18$. Công bội $q$ của cấp số nhân là",
+      "chuong": "dãy số. cấp số cộng và cấp số nhân",
+      "dang": "định nghĩa cấp số nhân",
+      "type": "single",
+      "options": [
+        "A. $q=6$",
+        "B. $q=-3$",
+        "C. $q=-\\dfrac13$",
+        "D. $q=-18$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cấp số nhân có $u_1=6$ và $u_2=-18$.\n❓ **Hiểu câu hỏi:**\n- Công bội của cấp số nhân được xác định từ hai số hạng liên tiếp: $q=\\dfrac{u_2}{u_1}$.\n🔎 **Hướng dẫn cách làm:**\n- Công bội $q=\\dfrac{u_2}{u_1}=\\dfrac{-18}{6}=-3$.\n✅ **Đáp án:** Chọn B."
+    },
+    {
+      "id": 3,
+      "content": "Với mọi số thực dương $a$, $\\log_3(27a)-\\log_3 a$ bằng",
+      "chuong": "hàm số mũ và hàm số lôgarit",
+      "dang": "tính chất của lôgarit",
+      "type": "single",
+      "options": [
+        "A. \\$9$",
+        "B. \\$3-2\\log_3a$",
+        "C. \\$3$",
+        "D. $\\log_3(26a)$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Biểu thức cần rút gọn là $\\log_3(27a)-\\log_3 a$ với $a>0$.\n❓ **Hiểu câu hỏi:**\n- Cần dùng tính chất hiệu hai lôgarit cùng cơ số: $\\log_b M-\\log_b N=\\log_b\\dfrac{M}{N}$.\n🔎 **Hướng dẫn cách làm:**\n- Ta có $\\log_3(27a)-\\log_3a=\\log_3\\dfrac{27a}{a}=\\log_3 27=3$.\n✅ **Đáp án:** Chọn C."
+    },
+    {
+      "id": 4,
+      "content": "Cho mẫu số liệu ghép nhóm với các nhóm như bảng. Khoảng biến thiên của mẫu số liệu ghép nhóm này là\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-dien-bien-nam-2026-lan-1/cau-04.webp\" alt=\"Hình minh họa câu 4\" loading=\"lazy\"></figure>",
+      "chuong": "các số đặc trưng đo mức độ phân tán cho mẫu số liệu ghép nhóm",
+      "dang": "khoảng biến thiên",
+      "type": "single",
+      "options": [
+        "A. \\$40$",
+        "B. \\$50$",
+        "C. \\$70$",
+        "D. \\$60$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Các nhóm trải từ cận dưới nhỏ nhất \\$0$ đến cận trên lớn nhất \\$40$.\n❓ **Hiểu câu hỏi:**\n- Khoảng biến thiên của mẫu số liệu ghép nhóm được lấy bằng cận trên lớn nhất trừ cận dưới nhỏ nhất.\n🔎 **Hướng dẫn cách làm:**\n- Khoảng biến thiên của mẫu ghép nhóm là \\$40-0=40$.\n✅ **Đáp án:** Chọn A."
+    },
+    {
+      "id": 5,
+      "content": "Cho khối chóp có diện tích đáy $B=2a^2$ và chiều cao $h=9a$. Thể tích của khối chóp đã cho bằng",
+      "chuong": "quan hệ vuông góc trong không gian",
+      "dang": "thể tích",
+      "type": "single",
+      "options": [
+        "A. \\$3a^3$",
+        "B. \\$6a^3$",
+        "C. \\$18a^3$",
+        "D. \\$9a^3$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Diện tích đáy $B=2a^2$, chiều cao $h=9a$.\n❓ **Hiểu câu hỏi:**\n- Cần áp dụng công thức thể tích khối chóp $V=\\dfrac13Bh$.\n🔎 **Hướng dẫn cách làm:**\n- Thể tích khối chóp là $V=\\dfrac13Bh=\\dfrac13\\cdot2a^2\\cdot9a=6a^3$.\n✅ **Đáp án:** Chọn B."
+    },
+    {
+      "id": 6,
+      "content": "Trong không gian $Oxyz$, cho mặt cầu $(S)$ có tâm $I(0;-2;1)$ và bán kính $R=5$. Phương trình của $(S)$ là",
+      "chuong": "phương pháp tọa độ trong không gian",
+      "dang": "phương trình mặt cầu",
+      "type": "single",
+      "options": [
+        "A. $x^2+(y+2)^2+(z-1)^2=5$",
+        "B. $x^2+(y-2)^2+(z+1)^2=25$",
+        "C. $x^2+(y-2)^2+(z+1)^2=5$",
+        "D. $x^2+(y+2)^2+(z-1)^2=25$"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Mặt cầu có tâm $I(0;-2;1)$ và bán kính $R=5$.\n❓ **Hiểu câu hỏi:**\n- Phương trình mặt cầu tâm $I(a;b;c)$, bán kính $R$ là $(x-a)^2+(y-b)^2+(z-c)^2=R^2$.\n🔎 **Hướng dẫn cách làm:**\n- Phương trình là $(x-0)^2+(y+2)^2+(z-1)^2=5^2$.\n- Suy ra $x^2+(y+2)^2+(z-1)^2=25$.\n✅ **Đáp án:** Chọn D."
+    },
+    {
+      "id": 7,
+      "content": "Cho hàm số $y=f(x)$ có bảng biến thiên như hình. Hàm số đã cho nghịch biến trên khoảng nào dưới đây?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-dien-bien-nam-2026-lan-1/cau-07.webp\" alt=\"Hình minh họa câu 7\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "tính đơn điệu của hàm số",
+      "type": "single",
+      "options": [
+        "A. $(-1;1)$",
+        "B. $(-2;2)$",
+        "C. $(1;+\\infty)$",
+        "D. $(-2;1)$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Từ bảng biến thiên, $f'(x)<0$ trên khoảng $(-1;1)$.\n❓ **Hiểu câu hỏi:**\n- Cần đọc dấu của $f'(x)$ trên bảng biến thiên để xác định khoảng hàm số nghịch biến.\n🔎 **Hướng dẫn cách làm:**\n- Hàm số nghịch biến đúng trên khoảng $(-1;1)$.\n✅ **Đáp án:** Chọn A."
+    },
+    {
+      "id": 8,
+      "content": "Nguyên hàm của hàm số $f(x)=2026^x$ là",
+      "chuong": "nguyên hàm và tích phân",
+      "dang": "nguyên hàm của một số hàm số thường gặp",
+      "type": "single",
+      "options": [
+        "A. $\\dfrac{2026^{x-1}}{\\ln2026}+C$",
+        "B. \\$2026^x+C$",
+        "C. $x\\cdot2026^{x-1}+C$",
+        "D. $\\dfrac{2026^x}{\\ln2026}+C$"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cần tìm nguyên hàm của \\$2026^x$.\n❓ **Hiểu câu hỏi:**\n- Cần dùng công thức nguyên hàm của hàm mũ: $\\int a^x\\,dx=\\dfrac{a^x}{\\ln a}+C$ với $a>0,a\\ne1$.\n🔎 **Hướng dẫn cách làm:**\n- Với $a>0, a\\ne1$, ta có $\\int a^x\\,dx=\\dfrac{a^x}{\\ln a}+C$.\n- Do đó $\\int2026^x\\,dx=\\dfrac{2026^x}{\\ln2026}+C$.\n✅ **Đáp án:** Chọn D."
+    },
+    {
+      "id": 9,
+      "content": "Trong không gian $Oxyz$, cho đường thẳng $d:\\dfrac{x+1}{2}=\\dfrac{-y}{2}=\\dfrac{z+2}{-6}$. Vectơ nào dưới đây là một vectơ chỉ phương của đường thẳng $d$?",
+      "chuong": "phương pháp tọa độ trong không gian",
+      "dang": "phương trình đường thẳng",
+      "type": "single",
+      "options": [
+        "A. $\\vec u_2=(1;-1;3)$",
+        "B. $\\vec u_3=(-1;1;3)$",
+        "C. $\\vec u_1=(-1;0;-2)$",
+        "D. $\\vec u_1=(2;2;-6)$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Viết $\\dfrac{-y}{2}=\\dfrac{y}{-2}$.\n❓ **Hiểu câu hỏi:**\n- Cần nhận diện vectơ chỉ phương từ dạng chính tắc của đường thẳng trong không gian.\n🔎 **Hướng dẫn cách làm:**\n- Đường thẳng có một vectơ chỉ phương là $(2;-2;-6)$.\n- Vectơ $(-1;1;3)$ cùng phương với $(2;-2;-6)$, nên là vectơ chỉ phương của $d$.\n✅ **Đáp án:** Chọn B."
+    },
+    {
+      "id": 10,
+      "content": "Tiệm cận ngang của đồ thị hàm số $y=\\dfrac{2x-5}{x+1}$ là đường thẳng có phương trình",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "đường tiệm cận ngang",
+      "type": "single",
+      "options": [
+        "A. $y=-1$",
+        "B. $x=-1$",
+        "C. $y=2$",
+        "D. $x=2$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số là phân thức hữu tỉ có bậc tử và mẫu bằng nhau.\n❓ **Hiểu câu hỏi:**\n- Với hàm phân thức hữu tỉ bậc nhất trên bậc nhất, tiệm cận ngang được xác định từ tỉ số hệ số bậc cao nhất.\n🔎 **Hướng dẫn cách làm:**\n- Tiệm cận ngang là tỉ số hệ số bậc cao nhất: $y=\\dfrac21=2$.\n✅ **Đáp án:** Chọn C."
+    },
+    {
+      "id": 11,
+      "content": "Trong không gian $Oxyz$, cho hai điểm $A(1;1;-2)$ và $B(3;-1;2)$. Tọa độ của vectơ $\\overrightarrow{BA}$ là",
+      "chuong": "vectơ và hệ trục tọa độ trong không gian",
+      "dang": "biểu thức tọa độ của phép cộng hai vectơ, phép trừ hai vectơ, phép nhân một số với một vectơ",
+      "type": "single",
+      "options": [
+        "A. $(2;-2;4)$",
+        "B. $(2;0;0)$",
+        "C. $(-2;2;-4)$",
+        "D. $(1;-1;2)$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Vectơ $\\overrightarrow{BA}=A-B$.\n❓ **Hiểu câu hỏi:**\n- Tọa độ của $\\overrightarrow{BA}$ được tính bằng tọa độ điểm cuối $A$ trừ tọa độ điểm đầu $B$.\n🔎 **Hướng dẫn cách làm:**\n- $\\overrightarrow{BA}=(1-3;1-(-1);-2-2)=(-2;2;-4)$.\n✅ **Đáp án:** Chọn C."
+    },
+    {
+      "id": 12,
+      "content": "Cho tứ diện $ABCD$. Gọi $M,P$ là trung điểm của $AB$ và $CD$. Đặt $\\overrightarrow{BA}=\\vec b,\\overrightarrow{AC}=\\vec c,\\overrightarrow{AD}=\\vec d$. Khẳng định nào sau đây đúng?",
+      "chuong": "vectơ và hệ trục tọa độ trong không gian",
+      "dang": "tổng và hiệu của hai vectơ trong không gian",
+      "type": "single",
+      "options": [
+        "A. $\\overrightarrow{MP}=\\dfrac12(\\vec c+\\vec d-\\vec b)$",
+        "B. $\\overrightarrow{MP}=\\dfrac12(\\vec c+\\vec d+\\vec b)$",
+        "C. $\\overrightarrow{MP}=\\dfrac12(-\\vec d+\\vec b+\\vec c)$",
+        "D. $\\overrightarrow{MP}=\\dfrac12(\\vec d+\\vec b-\\vec c)$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Lấy $A$ làm gốc. Vì $\\overrightarrow{BA}=\\vec b$ nên $B=-\\vec b$, còn $C=\\vec c, D=\\vec d$.\n❓ **Hiểu câu hỏi:**\n- Cần biểu diễn trung điểm bằng vectơ vị trí rồi lấy hiệu để tìm $\\overrightarrow{MP}$.\n🔎 **Hướng dẫn cách làm:**\n- $M=\\dfrac{A+B}{2}=-\\dfrac{\\vec b}{2}$, $P=\\dfrac{C+D}{2}=\\dfrac{\\vec c+\\vec d}{2}$.\n- Do đó $\\overrightarrow{MP}=P-M=\\dfrac12(\\vec c+\\vec d+\\vec b)$.\n✅ **Đáp án:** Chọn B."
+    }
+  ]
+}

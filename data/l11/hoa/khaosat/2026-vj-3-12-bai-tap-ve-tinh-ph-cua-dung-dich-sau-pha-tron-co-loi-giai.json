@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-3-12-bai-tap-ve-tinh-ph-cua-dung-dich-sau-pha-tron-co-loi-giai",
+  "sourceId": "vietjack:3-12-bai-tap-ve-tinh-ph-cua-dung-dich-sa",
+  "grade": "l11",
+  "subjectSlug": "hoa",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.12 bài tập về tính pH của dung dịch sau pha trộn có lời giải",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cần pha loãng dung dịch HCl có pH = 2 bao nhiêu lần để được dung dịch có pH = 3?",
+      "options": [
+        "A. 5.",
+        "B. 100.",
+        "C. 20.",
+        "D. 10."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Gọi V 1 , V 2 lần lượt là thể tích dung dịch HCl có pH = 2, pH = 3. Do pH = 2 Þ [H + ] = \\({10^{ - 2}}\\) M Þ n H + trước khi pha loãng = \\({10^{ - 2}}\\) V 1 pH = 3 Þ [H + ] = \\({10^{ - 3}}\\) M Þ n H + sau khi pha loãng = \\({10^{ - 3}}\\) V 2 Ta có n H + trước khi pha loãng = n H + sau khi pha loãng Þ \\({10^{ - 2}}\\) V 1 = \\({10^{ - 3}}\\) V 2 Þ \\(\\frac{{{V_2}}}{{{V_1}}} = \\frac{{{{10}^{ - 2}}}}{{{{10}^{ - 3}}}} = 10\\) . Vậy cần pha loãng acid 10 lần."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Khi trộn những thể tích bằng nhau của dung dịch HNO 3 0,01M và dung dịch NaOH 0,03M thì thu được dung dịch có giá trị pH bằng",
+      "options": [
+        "A. 9.",
+        "B. 12,30.",
+        "C. 13.",
+        "D. 12 ."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Theo bài ra OH - dư; [OH - ] dư = \\[\\frac{{0,03V - 0,01V}}{{V + V}} = {10^{ - 2}}M\\] pH = 14 + log(10 -2 ) = 12."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Pha loãng dung dịch HNO 3 có pH = 3 bao nhiêu lần để được dung dịch mới có pH bằng 4?",
+      "options": [
+        "A. 5.",
+        "B. 4.",
+        "C. 9.",
+        "D. 10."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Áp dụng công thức: V 1 .C 1 = V 2 .C 2 \\[ \\Rightarrow \\frac{{{V_2}}}{{{V_1}}} = \\frac{{{C_1}}}{{{C_2}}} = \\frac{{{{10}^{ - 3}}}}{{{{10}^{ - 4}}}} = 10\\]"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Pha loãng 1 lít dung dịch NaOH có pH = 13 bằng bao nhiêu lít nước để được dung dịch mới có pH = 11?",
+      "options": [
+        "A. 9.",
+        "B. 99.",
+        "C. 10.",
+        "D. 100 ."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Áp dụng công thức: V 1 .C 1 = V 2 .C 2 \\[ \\Rightarrow \\frac{{{V_2}}}{{{V_1}}} = \\frac{{{C_1}}}{{{C_2}}} = \\frac{{{{10}^{ - 1}}}}{{{{10}^{ - 3}}}} = 100\\] Lưu ý: pH = 13 → [H + ] = 10 -13 → [OH - ] = 10 -1 M; pH = 11 → [H + ] = 10 -11 → [OH - ] = 10 -3 M."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Pha loãng dung dịch 1 lít NaOH có pH = 9 bằng nước để được dung dịch mới có pH = 8. Thể tích nước cần dùng là",
+      "options": [
+        "A. 5 lít.",
+        "B. 4 lít.",
+        "C. 9 lít.",
+        "D. 10 lít ."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Áp dụng công thức: V 1 .C 1 = V 2 .C 2 \\[ \\Rightarrow \\frac{{{V_2}}}{{{V_1}}} = \\frac{{{C_1}}}{{{C_2}}} = \\frac{{{{10}^{ - 5}}}}{{{{10}^{ - 6}}}} = 10\\] \\[ \\Rightarrow {V_2} = 10.{V_1} = 10\\,\\]lít. Vậy V nước = V 2 – V 1 = 10 -1 = 9 lít."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trung hòa 300 ml dung dịch hỗn hợp HCl và HNO 3 có pH = 2 cần V ml dung dịch NaOH 0,02M. Giá trị của V là",
+      "options": [
+        "A. 300.",
+        "B. 150.",
+        "C. 200.",
+        "D. 250"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B pH = 2 Þ [H + ] = 10 -2 M Þ n H + = 0,3.10 -2 = 3.10 -3 mol n OH - = n H + hay 3.10 -3 = V.0,02 Þ V = 0,15 lít = 150 ml."
+    }
+  ]
+}

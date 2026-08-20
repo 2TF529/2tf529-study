@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-20-cau-trac-nghiem-toan-10-chan-troi-sang-tao-xac-suat-cua-bien",
+  "sourceId": "vietjack:2-20-cau-trac-nghiem-toan-10-chan-troi-s",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.20 câu Trắc nghiệm Toán 10 chân trời sáng tạo Xác suất của biến cố (Phần 2) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Xác suất của biến cố H được xác định bởi công thức:",
+      "options": [
+        "A. P(H) = n(H);",
+        "B. P H = n Ω n H",
+        "C. P(H) = n(H).n(Ω);",
+        "D. P H = n H n Ω ."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải Đáp án đúng là: D Xác suất của biến cố H là một số, kí hiệu là P(H), được xác định bởi công thức: P H = n H n Ω . Trong đó n(H) và n(Ω) lần lượt kí hiệu số phần tử của tập H và Ω. Vậy ta chọn phương án D."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho biến cố A có không gian mẫu là Ω và là biến cố đối của biến cố A. Khẳng định nào sau đây sai ?",
+      "options": [
+        "A. P(A) ≥ 0, với mọi biến cố A;",
+        "B. P( ∅ ) = 0;",
+        "C. P(Ω) > 1 ;",
+        "D. P(A) ≤ 1, với mọi biến cố A."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là: C ⦁ Với mọi biến cố A, ta có 0 ≤ P(A) ≤ 1. Do đó phương án A, D đúng. ⦁ P(Ω) = 1 và P( ∅ ) = 0. Do đó phương án B đúng, phương án C sai. Vậy ta chọn phương án C."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Phát biểu nào sau đây đúng ?",
+      "options": [
+        "A. Biến cố có khả năng xảy ra cao hơn sẽ có xác suất nhỏ hơn biến cố có khả năng xảy ra thấp hơn;",
+        "B. Biến cố có khả năng xảy ra càng cao thì xác suất của nó càng gần 0;",
+        "C. Biến cố có khả năng xảy ra càng thấp thì xác suất của nó càng gần 1;",
+        "D. Nếu một biến cố có xác suất rất bé thì trong một phép thử, biến cố đó sẽ không xảy ra."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải Đáp án đúng là: D Phương án A sai. Vì b iến cố có khả năng xảy ra cao hơn sẽ có xác suất lớn hơn biến cố có khả năng xảy ra thấp hơn. Phương án B sai. Vì b iến cố có khả năng xảy ra càng cao thì xác suất của nó càng gần 1. Phương án C sai. Vì b iến cố có khả năng xảy ra càng thấp thì xác suất của nó càng gần 0. Phương án D đúng theo N guyên lí xác suất bé : Nếu một biến cố có xác suất rất bé thì trong một phép thử, biến cố đó sẽ không xảy ra. Vậy ta chọn phương án D."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Một hộp gồm có 4 bi xanh và 5 bi đỏ. Lấy ngẫu nhiên hai viên bi trong hộp. Biến cố đối của biến cố D: “Hai viên bi cùng màu” là:",
+      "options": [
+        "A. D ¯ : “Hai viên bi khác màu”;",
+        "B. D ¯ : “Hai viên bi có màu đỏ”;",
+        "C. D ¯ : “Hai viên bi có màu xanh”;",
+        "D. D ¯ : “Hai viên bi cùng màu”."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A Ta có biến cố “Không xảy ra D” là biến cố đối của biến cố D. Vì vậy biến cố đối của biến cố D: “Hai viên bi cùng màu” là: D ¯ : “Hai viên bi khác màu”. Vậy ta chọn phương án A."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Một học sinh chọn đúng một câu trả lời trắc nghiệm với xác suất là 5 7 . Khi đó xác suất học sinh chọn sai câu trả lời trắc nghiệm đó là:",
+      "options": [
+        "A. 2 7",
+        "B. 12 7",
+        "C. 5 7",
+        "D. 1 2"
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A Gọi biến cố A: “Học sinh chọn đúng một câu trả lời trắc nghiệm”. Suy ra biến cố đối của biến cố A là: A ¯ : “Chọn sai câu trả lời trắc nghiệm”. Ta có P A ¯ + P A = 1 , với mọi biến cố A. Suy ra P A ¯ = 1 − P A = 1 − 5 7 = 2 7 . Vậy ta chọn phương án A."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Hai xạ thủ bắn vào một tấm bia, xác suất bắn trúng bia của xạ thủ 1 và 2 lần lượt là 0,8 và 0,7. Xạ thủ nào có khả năng bắn trúng thấp hơn?",
+      "options": [
+        "A. Xạ thủ 1;",
+        "B. Xạ thủ 2;",
+        "C. Cả hai xạ thủ đều có khả năng bắn trúng như nhau;",
+        "D. Không thể xác định được."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải Đáp án đúng là: B Vì 0,8 > 0,7 nên xạ thủ 2 có khả năng bắn trúng bia thấp hơn xạ thủ 1. Vậy ta chọn phương án B."
+    }
+  ]
+}

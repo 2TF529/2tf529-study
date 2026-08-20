@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-12-chan-troi-sang-tao-bai-f5-co-dap-",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-12-chan-tro",
+  "grade": "l12",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 12 Chân trời sáng tạo Bài F5 có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Biểu mẫu web giúp người dùng làm gì?",
+      "options": [
+        "A. Tương tác với trang web",
+        "B. Xem nội dung trang web",
+        "C. Tải hình ảnh lên trang web",
+        "D. Thay đổi giao diện trang web"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Biểu mẫu web là một phương tiện để người dùng nhập và gửi dữ liệu đến máy chủ. Nó cho phép người dùng tương tác với trang web thông qua các thao tác như nhập dữ liệu văn bản, chọn phương án, và nháy chuột vào nút nhấn."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Thuộc tính action trong thẻ &lt;form&gt; có tác dụng gì?",
+      "options": [
+        "A. Chỉ định phương thức gửi dữ liệu",
+        "B. Chỉ định địa chỉ trang nhận dữ liệu",
+        "C. Chỉ định kiểu dữ liệu",
+        "D. Chỉ định độ rộng của biểu mẫu"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Thuộc tính action trong thẻ &lt;form&gt; chỉ định URL của trang web hoặc kịch bản nơi dữ liệu biểu mẫu sẽ được gửi để xử lý."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Phương thức gửi dữ liệu GET có đặc điểm gì?",
+      "options": [
+        "A. Dữ liệu được mã hóa trước khi gửi",
+        "B. Dữ liệu không hiển thị trên thanh địa chỉ",
+        "C. Dữ liệu hiển thị trên thanh địa chỉ của trình duyệt",
+        "D. Dữ liệu được gửi dưới dạng gói tin"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Phương thức GET gửi dữ liệu bằng cách đính kèm nó vào URL, khiến dữ liệu hiển thị trên thanh địa chỉ của trình duyệt."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Phương thức gửi dữ liệu POST có đặc điểm gì?",
+      "options": [
+        "A. Dữ liệu được đính kèm vào URL",
+        "B. Dữ liệu hiển thị trên thanh địa chỉ",
+        "C. Dữ liệu được gửi dưới dạng gói tin",
+        "D. Dữ liệu không được gửi"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Phương thức POST gửi dữ liệu dưới dạng gói tin trực tiếp đến trang nhận dữ liệu và không hiển thị trên thanh địa chỉ của trình duyệt, giúp bảo mật dữ liệu hơn."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Nếu không chỉ định thuộc tính method trong thẻ &lt;form&gt;, phương thức gửi dữ liệu mặc định sẽ là gì?",
+      "options": [
+        "A. POST",
+        "B. GET",
+        "C. PUT",
+        "D. DELETE"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Nếu không chỉ định thuộc tính method trong thẻ &lt;form&gt;, dữ liệu sẽ được gửi bằng phương thức GET theo mặc định."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Để tạo ô nhập liệu văn bản trong biểu mẫu, chúng ta sử dụng thẻ nào?",
+      "options": [
+        "A. &lt;textarea&gt;",
+        "B. &lt;input type=\"text\"&gt;",
+        "C. &lt;button&gt;",
+        "D. &lt;form&gt;"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Thẻ &lt;input&gt; với thuộc tính type=\"text\" được sử dụng để tạo ô nhập liệu văn bản trong biểu mẫu."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-9-20-cau-trac-nghiem-toan-10-canh-dieu-bai-4-vi-tri-tuong-doi-va-",
+  "sourceId": "vietjack:9-20-cau-trac-nghiem-toan-10-canh-dieu-b",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "9.20 câu trắc nghiệm Toán 10 Cánh diều Bài 4. Vị trí tương đối và góc giữa hai đường thẳng.  Khoảng cách từ một điểm đến một đường thẳng (Đúng sai - trả lời ngắn) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Trong mặt phẳng tọa độ \\(Oxy\\), khoảng cách từ điểm \\(M\\left( {{x_0};{y_0}} \\right)\\) đến trục \\(Oy\\) là",
+      "options": [
+        "A. \\(d\\left( {M,\\Delta } \\right) = \\left| {{x_0}} \\right|\\).",
+        "B. \\(d\\left( {M,\\Delta } \\right) = \\left| {{y_0}} \\right|\\).",
+        "C. \\(d\\left( {M,\\Delta } \\right) = {y_0}\\).",
+        "D. \\(d\\left( {M,\\Delta } \\right) = {x_0}\\)."
+      ],
+      "answer": "A",
+      "note": "\\(d\\left( {M,\\Delta } \\right) = \\left| {{x_0}} \\right|\\) . Chọn A ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Khoảng cách từ điểm \\(A\\left( {1;1} \\right)\\) đến đường thẳng \\(\\Delta :5x - 12y - 6 = 0\\) là",
+      "options": [
+        "A. \\(13\\).",
+        "B. \\(\\frac{1}{{13}}\\).",
+        "C. \\( - 1\\).",
+        "D. \\(1\\)."
+      ],
+      "answer": "D",
+      "note": "Ta có \\(d\\left( {A,\\Delta } \\right) = \\frac{{\\left| {5 \\cdot 1 - 12 \\cdot 1 - 6} \\right|}}{{\\sqrt {{5^2} + {{\\left( { - 12} \\right)}^2}} }} = 1\\) . Chọn D ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trong mặt phẳng tọa độ \\(Oxy\\), cho tam giác \\(ABC\\) có \\(A\\left( {1;2} \\right),B\\left( {0;3} \\right),C\\left( {4;0} \\right)\\). Chiều cao của tam giác kẻ từ đỉnh \\(A\\) bằng",
+      "options": [
+        "A. \\(3\\).",
+        "B. \\(\\frac{1}{{25}}\\).",
+        "C. \\(\\frac{1}{5}\\).",
+        "D. \\(\\frac{3}{5}\\)."
+      ],
+      "answer": "C",
+      "note": "Phương trình đường thẳng \\(BC\\) là \\(\\frac{x}{4} + \\frac{y}{3} = 1 \\Leftrightarrow 3x + 4y - 12 = 0\\) . Chiều cao của tam giác kẻ từ đỉnh \\(A\\) bằng \\(d\\left( {A,BC} \\right) = \\frac{{\\left| {3 \\cdot 1 + 4 \\cdot 2 - 12} \\right|}}{{\\sqrt {{3^2} + {4^2}} }} = \\frac{1}{5}\\) . Chọn C ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Xét vị trí tương đối của hai đường thẳng \\({d_1}:\\left\\{ \\begin{array}{l}x = 1 - 3t\\\\y = 3 + t\\end{array} \\right.\\) và \\({d_2}:x + 3y - 10 = 0\\).",
+      "options": [
+        "A. Vuông góc.",
+        "B. Trùng nhau.",
+        "C. Cắt nhau nhưng không vuông góc.",
+        "D. Song song."
+      ],
+      "answer": "B",
+      "note": "Đường thẳng \\({d_1}\\) có vectơ chỉ phương là \\(\\overrightarrow {{u_1}} = \\left( { - 3;1} \\right)\\) nên \\(\\overrightarrow {{n_1}} = \\left( {1;3} \\right)\\) là vectơ pháp tuyến của đường thẳng \\({d_1}\\) . Đường thẳng \\({d_2}\\) có vectơ pháp tuyến là \\(\\overrightarrow {{n_2}} = \\left( {1;3} \\right)\\) . Vì \\(\\overrightarrow {{n_1}} \\) cùng phương với \\(\\overrightarrow {{n_2}} \\) nên hai đường thẳng này song song hoặc trùng nhau. Lại có \\(A\\left( {1;3} \\right)\\) thuộc \\({d_1}\\) và thuộc \\({d_2}\\) nên hai đường thẳng này trùng nhau. Chọn B ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Tính góc giữa hai đường thẳng \\({d_1}:2x - y - 3 = 0\\) và \\({d_2}:3x + y + 2 = 0\\).",
+      "options": [
+        "A. \\(45^\\circ \\).",
+        "B. \\(60^\\circ \\).",
+        "C. \\(30^\\circ \\).",
+        "D. \\(90^\\circ \\). Ta có \\(\\overrightarrow {{n_1}} = \\left( {2; - 1} \\right),\\overrightarrow {{n_2}} = \\left( {3;1} \\right)\\) lần lượt là vectơ pháp tuyến của đường thẳng \\({d_1},{d_2}\\) . Gọi \\(\\varphi \\) là góc giữa hai đường thẳng \\({d_1},{d_2}\\) . Khi đó \\[\\cos \\varphi = \\frac{{\\left| {\\overrightarrow {{n_1}} \\cdot \\overrightarrow {{n_2}} } \\right|}}{{\\left| {\\overrightarrow {{n_1}} } \\right| \\cdot \\left| {\\overrightarrow {{n_2}} } \\right|}} = \\frac{{\\left| {2 \\cdot 3 + \\left( { - 1} \\right) \\cdot 1} \\right|}}{{\\sqrt {{2^2} + {{\\left( { - 1} \\right)}^2}} \\cdot \\sqrt {{3^2} + {1^2}} }} = \\frac{{\\sqrt 2 }}{2} \\Rightarrow \\varphi = 45^\\circ \\] . Chọn A ."
+      ],
+      "answer": "A",
+      "note": "Ta có \\(\\overrightarrow {{n_1}} = \\left( {2; - 1} \\right),\\overrightarrow {{n_2}} = \\left( {3;1} \\right)\\) lần lượt là vectơ pháp tuyến của đường thẳng \\({d_1},{d_2}\\) . Gọi \\(\\varphi \\) là góc giữa hai đường thẳng \\({d_1},{d_2}\\) . Khi đó \\[\\cos \\varphi = \\frac{{\\left| {\\overrightarrow {{n_1}} \\cdot \\overrightarrow {{n_2}} } \\right|}}{{\\left| {\\overrightarrow {{n_1}} } \\right| \\cdot \\left| {\\overrightarrow {{n_2}} } \\right|}} = \\frac{{\\left| {2 \\cdot 3 + \\left( { - 1} \\right) \\cdot 1} \\right|}}{{\\sqrt {{2^2} + {{\\left( { - 1} \\right)}^2}} \\cdot \\sqrt {{3^2} + {1^2}} }} = \\frac{{\\sqrt 2 }}{2} \\Rightarrow \\varphi = 45^\\circ \\] . Chọn A ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Gọi \\(\\alpha \\) là góc giữa hai đường thẳng \\({d_1}:4x - 2y + 1 = 0\\) và \\({d_2}:x - 2y - 2 = 0\\). Tính \\(\\cos \\alpha \\).",
+      "options": [
+        "A. \\(\\cos \\alpha = \\frac{2}{5}\\).",
+        "B. \\(\\cos \\alpha = \\frac{4}{5}\\).",
+        "C. \\(\\cos \\alpha = 1\\).",
+        "D. \\(\\cos \\alpha = \\frac{3}{5}\\)"
+      ],
+      "answer": "B",
+      "note": "Ta có \\(\\overrightarrow {{n_1}} = \\left( {4; - 2} \\right),\\overrightarrow {{n_2}} = \\left( {1; - 2} \\right)\\) lần lượt là vectơ pháp tuyến của đường thẳng \\({d_1},{d_2}\\) . \\[\\cos \\alpha = \\frac{{\\left| {\\overrightarrow {{n_1}} \\cdot \\overrightarrow {{n_2}} } \\right|}}{{\\left| {\\overrightarrow {{n_1}} } \\right| \\cdot \\left| {\\overrightarrow {{n_2}} } \\right|}} = \\frac{{\\left| {4 \\cdot 1 + \\left( { - 2} \\right) \\cdot \\left( { - 2} \\right)} \\right|}}{{\\sqrt {{4^2} + {{\\left( { - 2} \\right)}^2}} \\cdot \\sqrt {{1^2} + {{\\left( { - 2} \\right)}^2}} }} = \\frac{4}{5}\\] . Chọn B ."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Cosin của góc giữa hai đường thẳng \\(d:\\left\\{ \\begin{array}{l}x = 2 + t\\\\y = - t + 1\\end{array} \\right.\\) và \\(d':x + 2y - 1 = 0\\) là",
+      "options": [
+        "A. \\(\\frac{{3\\sqrt {10} }}{{10}}\\).",
+        "B. \\(\\frac{{ - 3\\sqrt {10} }}{{10}}\\).",
+        "C. \\(\\frac{{ - \\sqrt {10} }}{{10}}\\).",
+        "D. \\(\\frac{{\\sqrt {10} }}{{10}}\\)."
+      ],
+      "answer": "A",
+      "note": "Đường thẳng \\(d\\) có một vectơ chỉ phương là \\(\\overrightarrow {{u_1}} = \\left( {1; - 1} \\right)\\) nên \\(\\overrightarrow {{n_1}} = \\left( {1;1} \\right)\\) là một vectơ pháp tuyến của đường thẳng \\(d\\) . Đường thẳng \\(d'\\) có một vectơ pháp tuyến là \\(\\overrightarrow {{n_2}} = \\left( {1;2} \\right)\\) . Gọi \\(\\varphi \\) là góc giữa hai đường thẳng \\(d\\) và \\(d'\\) . Khi đó \\(\\cos \\varphi = \\frac{{\\left| {\\overrightarrow {{n_1}} \\cdot \\overrightarrow {{n_2}} } \\right|}}{{\\left| {\\overrightarrow {{n_1}} } \\right| \\cdot \\left| {\\overrightarrow {{n_2}} } \\right|}} = \\frac{{\\left| {1 \\cdot 1 + 1 \\cdot 2} \\right|}}{{\\sqrt {{1^2} + {1^2}} \\cdot \\sqrt {{1^2} + {2^2}} }} = \\frac{3}{{\\sqrt {10} }} = \\frac{{3\\sqrt {10} }}{{10}}\\) . Chọn A ."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Xác định vị trí tương đối của hai đường thẳng \\({\\Delta _1}:x - 2y + 1 = 0\\) và \\({\\Delta _2}: - 3x + 6y - 10 = 0\\).",
+      "options": [
+        "A. Vuông góc.",
+        "B. Trùng nhau.",
+        "C. Cắt nhau nhưng không vuông góc.",
+        "D. Song song."
+      ],
+      "answer": "D",
+      "note": "Đường thẳng \\({\\Delta _1},{\\Delta _2}\\) có vectơ pháp tuyến lần lượt là \\(\\overrightarrow {{n_1}} = \\left( {1; - 2} \\right),\\overrightarrow {{n_2}} = \\left( { - 3;6} \\right) = - 3\\left( {1; - 2} \\right) = - 3\\overrightarrow {{n_1}} \\) . Do đó \\(\\overrightarrow {{n_1}} \\) và \\(\\overrightarrow {{n_2}} \\) cùng phương. Lại có \\(\\left( { - 1;0} \\right)\\) thuộc \\({\\Delta _1}\\) nhưng không thuộc \\({\\Delta _2}\\) . Do đó \\({\\Delta _1}//{\\Delta _2}\\) . Chọn D ."
+    }
+  ]
+}

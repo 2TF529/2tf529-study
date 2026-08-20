@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-6-de-kiem-tra-dao-ham-co-loi-giai",
+  "sourceId": "vietjack:6-de-kiem-tra-dao-ham-co-loi-giai",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "6.Đề kiểm tra Đạo hàm (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho hàm số \\[f\\left( x \\right) = 2x\\]. Số gia \\[\\Delta y\\] của hàm số ứng với số gia \\[\\Delta x\\] tại điểm \\[{x_0} = 1\\] là",
+      "options": [
+        "A. \\[\\Delta y = \\Delta x\\].",
+        "B. \\[\\Delta y = 2\\Delta x\\].",
+        "C. \\[\\Delta y = - 2\\Delta x\\].",
+        "D. \\[\\Delta y = - \\Delta x\\]."
+      ],
+      "answer": "B",
+      "note": "Xét \\[\\Delta x\\]là số gia của biến số tại điểm \\[{x_0} = 1\\]. Ta có: \\[\\Delta y = f\\left( {1 + \\Delta x} \\right) - f\\left( 1 \\right)\\]\\[ = 2\\left( {1 + \\Delta x} \\right) - \\left( {2.1} \\right) = 2\\Delta x\\]"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hàm số \\[y = f\\left( x \\right)\\] xác định trên khoảng \\[\\left( {a;b} \\right)\\] và có đạo hàm tại điểm \\[{x_0} \\in \\left( {a;b} \\right)\\]. Khi đó, đạo hàm của hàm số \\[y = f\\left( x \\right)\\] tại điểm \\[{x_o}\\]là kết quả của giới hạn nào sau đây?",
+      "options": [
+        "A. \\[\\mathop {\\lim }\\limits_{x \\to {x_0}} \\frac{{f\\left( x \\right) - {x_0}}}{{x - {x_0}}}\\].",
+        "B. \\[\\mathop {\\lim }\\limits_{x \\to {x_0}} \\frac{{f\\left( {{x_0}} \\right) - f\\left( x \\right)}}{{x - {x_0}}}\\].",
+        "C. \\[\\mathop {\\lim }\\limits_{x \\to {x_0}} \\frac{{f\\left( x \\right) - f\\left( {{x_0}} \\right)}}{{x - {x_0}}}\\].",
+        "D. \\[\\mathop {\\lim }\\limits_{x \\to {x_0}} \\frac{{f\\left( {{x_0}} \\right) + f\\left( x \\right)}}{{x + {x_0}}}\\]."
+      ],
+      "answer": "C",
+      "note": "Theo định nghĩa đạo hàm của hàm số tại một điểm."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho hàm số \\[f\\left( x \\right) = - {x^2}\\]. Số gia \\[\\Delta y\\] của hàm số ứng với số gia \\[\\Delta x\\] tại điểm \\[{x_0} = 3\\] là",
+      "options": [
+        "A. \\[\\Delta y = - \\Delta x - 6\\].",
+        "B. \\[\\Delta y = \\Delta x\\left( {6 + \\Delta x} \\right)\\].",
+        "C. \\[\\Delta y = - \\Delta x\\left( {6 + \\Delta x} \\right)\\].",
+        "D. \\[\\Delta y = - \\Delta x\\left( {6 - \\Delta x} \\right)\\]."
+      ],
+      "answer": "C",
+      "note": "Xét \\[\\Delta x\\]là số gia của biến số tại điểm \\[{x_0} = 3\\]. Ta có: \\[\\Delta y = f\\left( {3 + \\Delta x} \\right) - f\\left( 3 \\right)\\]\\[ = - {\\left( {3 + \\Delta x} \\right)^2} - \\left( { - {3^2}} \\right)\\]\\[ = - \\Delta x\\left( {6 + \\Delta x} \\right)\\]"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hàm số \\(y = {x^2} + 2x\\) có đồ thị \\(\\left( C \\right)\\). Hệ số góc của tiếp tuyến của đồ thị \\(\\left( C \\right)\\) tại điểm có hoành độ bằng 2 là",
+      "options": [
+        "A. 4.",
+        "B. 6.",
+        "C. 8.",
+        "D. 10."
+      ],
+      "answer": "B",
+      "note": "Ta có \\(y = {x^2} + 2x = f\\left( x \\right)\\). Tiếp tuyến của đồ thị \\(\\left( C \\right)\\) tại điểm có hoành độ bằng 2 có hệ số góc là: \\[y'\\left( 2 \\right) = \\mathop {\\lim }\\limits_{x \\to 2} \\frac{{f\\left( x \\right) - f\\left( 2 \\right)}}{{x - 2}} = \\mathop {\\lim }\\limits_{x \\to 2} \\frac{{{x^2} + 2x - 8}}{{x - 2}}\\]\\[ = \\mathop {\\lim }\\limits_{x \\to 2} \\frac{{\\left( {x - 2} \\right)\\left( {x + 4} \\right)}}{{x - 2}} = \\mathop {\\lim }\\limits_{x \\to 2} \\left( {x + 4} \\right) = 6\\]."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hàm số \\(y = f\\left( x \\right)\\) có đạo hàm tạo điểm \\({x_0}\\) là \\(f'\\left( {{x_0}} \\right)\\). Khẳng định nào sau đây sai?",
+      "options": [
+        "A. \\[f'\\left( {{x_0}} \\right) = \\mathop {\\lim }\\limits_{x \\to {x_0}} \\frac{{f\\left( x \\right) - f\\left( {{x_0}} \\right)}}{{x - {x_0}}}\\].",
+        "B. \\[f'\\left( {{x_0}} \\right) = \\mathop {\\lim }\\limits_{\\Delta x \\to 0} \\frac{{f\\left( {{x_0} + \\Delta x} \\right) - f\\left( {{x_0}} \\right)}}{{\\Delta x}}\\].",
+        "C. \\[f'\\left( {{x_0}} \\right) = \\mathop {\\lim }\\limits_{h \\to 0} \\frac{{f\\left( {{x_0} + h} \\right) - f\\left( {{x_0}} \\right)}}{h}\\].",
+        "D. \\[f'\\left( {{x_0}} \\right) = \\mathop {\\lim }\\limits_{x \\to {x_0}} \\frac{{f\\left( {x + {x_0}} \\right) - f\\left( {{x_0}} \\right)}}{{x - {x_0}}}\\]."
+      ],
+      "answer": "D",
+      "note": "Đáp án \\(A\\), \\(B\\) đúng vì theo định nghĩa đạo hàm của hàm số tại một điểm. Đáp án \\(C\\) đúng vì đặt \\(h = \\Delta x = x - {x_0}\\). Đáp án \\(D\\) sai."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Số gia của hàm số \\(y = f\\left( x \\right) = {x^3}\\) ứng với \\({x_0} = 2\\) và \\(\\Delta x = 1\\) bằng bao nhiêu?",
+      "options": [
+        "A. \\[ - 19\\].",
+        "B. \\[7\\].",
+        "C. \\[19\\].",
+        "D. \\[ - 7\\]."
+      ],
+      "answer": "C",
+      "note": "Gọi \\(\\Delta x\\) là số gia của đối số và \\(\\Delta y\\) tương ứng là số gia của hàm số. Ta có: \\(\\Delta y = f\\left( {{x_0} + \\Delta x} \\right) - f\\left( {{x_0}} \\right) = {\\left( {{x_0} + \\Delta x} \\right)^3} - {2^3} = x_0^3 + {\\left( {\\Delta x} \\right)^3} + 3{x_0}\\Delta x\\left( {{x_0} + \\Delta x} \\right) - 8\\). Với \\({x_0} = 2\\) và \\(\\Delta x = 1\\) thì \\(\\Delta y = 19\\)."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Hãy lập tỉ số \\(\\frac{{\\Delta y}}{{\\Delta x}}\\) của hàm số \\(f\\left( x \\right) = 2x\\left( {x - 1} \\right)\\)?",
+      "options": [
+        "A. \\[4{x_0} + 2\\Delta x + 2\\].",
+        "B. \\[4{x_0} + 2{\\left( {\\Delta x} \\right)^2} + 2\\].",
+        "C. \\[4{x_0} + 2\\Delta x - 2\\].",
+        "D. \\[4{x_0}\\Delta x + 2{\\left( {\\Delta x} \\right)^2} - 2\\Delta x\\]."
+      ],
+      "answer": "C",
+      "note": "Ta có: \\(f\\left( x \\right) = 2x\\left( {x - 1} \\right) = 2{x^2} - 2x\\). Gọi \\(\\Delta x\\) là số gia của đối số và \\(\\Delta y\\) tương ứng là số gia của hàm số. \\(\\Delta y = f\\left( {{x_0} + \\Delta x} \\right) - f\\left( {{x_0}} \\right) = 2{\\left( {{x_0} + \\Delta x} \\right)^2} - 2\\left( {{x_0} + \\Delta x} \\right) - \\left( {2x_0^2 - 2{x_0}} \\right) = 4{x_0}\\Delta x + 2{\\left( {\\Delta x} \\right)^2} - 2\\Delta x\\) \\(\\frac{{\\Delta y}}{{\\Delta x}} = \\frac{{4{x_0}\\Delta x + 2{{\\left( {\\Delta x} \\right)}^2} - 2\\Delta x}}{{\\Delta x}} = 4{x_0} + 2\\Delta x - 2\\)."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho hàm số \\(y = f(x)\\) xác định trên khoảng \\((0; + \\infty )\\). Phát biểu nào sau đây là đúng về định nghĩa đạo hàm của hàm số \\(y = f(x)\\) tại điểm \\({x_0} = 3\\).",
+      "options": [
+        "A. \\(f'\\left( 3 \\right) = \\mathop {\\lim }\\limits_{x \\to 3} \\frac{{f(x) - f\\left( 3 \\right)}}{x}\\) nếu giới hạn này tồn tại hữu hạn.",
+        "B. \\(f'\\left( 3 \\right) = \\mathop {\\lim }\\limits_{x \\to 3} \\frac{{f(x) - f\\left( 3 \\right)}}{{x - 3}}\\) nếu giới hạn này tồn tại hữu hạn.",
+        "C. \\(f'\\left( 3 \\right) = \\mathop {\\lim }\\limits_{x \\to 3} \\frac{{f(x)}}{{x - 3}}\\) nếu giới hạn này tồn tại hữu hạn.",
+        "D. \\(f'\\left( 3 \\right) = \\mathop {\\lim }\\limits_{x \\to 3} \\frac{{f(x)}}{x}\\) nếu giới hạn này tồn tại hữu hạn."
+      ],
+      "answer": "B",
+      "note": "Đạo hàm của hàm số \\(y = f(x)\\) tại điểm \\({x_0} = 3\\) là \\(f'\\left( 3 \\right) = \\mathop {\\lim }\\limits_{x \\to 3} \\frac{{f(x) - f\\left( 3 \\right)}}{{x - 3}}\\) ( nếu giới hạn này tồn tại hữu hạn)."
+    }
+  ]
+}

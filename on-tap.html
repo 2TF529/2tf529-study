@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ôn theo dạng + chương</title>
+<script>(function(){var d=document.documentElement;d.setAttribute("data-theme", localStorage.getItem("theme") || (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light"));d.setAttribute("data-palette", localStorage.getItem("palette") || "9");})();</script>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <h1>Giao diện thi trên máy tính</h1>
+  <div class="badge">ÔN THEO DẠNG + CHƯƠNG</div>
+</header>
+<nav class="top-nav">
+  <button class="hamburger" id="hamburger-btn" aria-label="Menu">☰</button>
+  <div class="nav-links">
+    <a href="index.html" class="nav-link">Trang chủ</a>
+    <a href="explore.html" class="nav-link">Tìm đề thi</a>
+    <a href="on-tap.html" class="nav-link active">Ôn theo dạng</a>
+    <a href="lich-su.html" class="nav-link">Lịch sử</a>
+    <a href="ung-ho.html" class="nav-link">Ủng hộ</a>
+  </div>
+  <div class="nav-controls">
+    <select id="palette-select" class="palette-select" aria-label="Chọn tông màu">
+      <option value="1">🔵 Xanh dương - be ấm</option>
+      <option value="2">🟢 Xanh lá - cam đất</option>
+      <option value="3">🟣 Tím - hồng pastel</option>
+      <option value="4">🔷 Navy dịu + màu môn học</option>
+      <option value="5">🌊 Đại dương cyan</option>
+      <option value="6">🌸 Hoa anh đào</option>
+      <option value="7">🔥 Lửa ấm</option>
+      <option value="8">🌿 Rừng xanh</option>
+      <option value="9">🖤 Monochrome</option>
+      <option value="10">☕ Cà phê vintage</option>
+    </select>
+    <button class="theme-toggle" id="theme-toggle" aria-label="Chuyển giao diện">🌙</button>
+  </div>
+</nav>
+
+<div class="container">
+  <div class="page-title">Ôn tập theo dạng bài + chương</div>
+
+  <div class="filter-bar">
+    <select id="f-grade"><option value="">-- Khối lớp --</option></select>
+    <select id="f-subject"><option value="">-- Môn học --</option></select>
+    <select id="f-chuong" disabled><option value="">-- Chương / chủ đề --</option></select>
+  </div>
+
+  <div id="dang-chips" class="dang-chips"></div>
+
+  <div id="setup-panel" class="setup-panel" style="display:none;">
+    <div class="setup-row">
+      <label>Số câu muốn luyện</label>
+      <input type="number" id="f-count" min="1" value="20">
+      <span class="mono" id="available-count"></span>
+    </div>
+    <div class="setup-row">
+      <label>Thời gian làm bài (phút)</label>
+      <input type="number" id="f-duration" min="1" value="30">
+    </div>
+    <button class="btn" id="start-btn" style="width:100%;margin-top:14px;">Bắt đầu ôn tập</button>
+  </div>
+
+  <div id="result-count" class="result-count"></div>
+  <div id="topic-list" class="topic-list"></div>
+</div>
+
+<script src="js/theme.js"></script>
+<script src="js/ontap.js?v=20260819-1"></script>
+<script src="js/calculator.js?v=20260819-1"></script>
+<script src="js/whiteboard.js?v=20260819-1"></script>
+<script src="js/translate.js?v=20260819-1"></script>
+<script src="js/security.js?v=20260821-1"></script>
+<script src="js/shield.js?v=20260821-1"></script>
+<script src="js/sw-register.js?v=20260819-1"></script>
+</body>
+</html>

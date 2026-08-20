@@ -1,0 +1,65 @@
+{
+  "id": "2026-vj-4-12-bai-tap-tim-dieu-kien-cua-m-de-ham-so-la-ham-so-bac-hai-co-l",
+  "sourceId": "vietjack:4-12-bai-tap-tim-dieu-kien-cua-m-de-ham-",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "4.12 Bài tập Tìm điều kiện của m để hàm số là hàm số bậc hai (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 3: Với giá trị nào của m thì hàm số y = (2m – 4)x 2 – 2x + 4 là hàm số bậc hai ?",
+      "options": [
+        "A. m = 2;",
+        "B. m ≠ 2;",
+        "C. m > 0;",
+        "D. m < 4."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải: Đáp án đúng là: B. Hàm số y = (2m – 4)x 2 – 2x + 4 có dạng y = f(x) = ax 2 + bx + c với a = 2m – 4, b = –2, c = 4 Do đó, để hàm số là hàm số bậc hai thì: a ≠ 0 hay 2m – 4 ≠ 0 ⇔ 2m ≠ 4 ⇔ m ≠ 2. Vậy m ≠ 2 thì hàm số y = (2m – 4)x 2 – 2x + 4 là hàm số bậc hai."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 4: Với giá trị nào của m thì hàm số y = (m – 4)x 2 – 5x không là hàm số bậc hai ?",
+      "options": [
+        "A. m = 4;",
+        "B. m = 3;",
+        "C. m = 1;",
+        "D. m = – 4."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A. Xét hàm số y = (m – 4)x 2 – 5x ta có: Hàm số y = (m – 4)x 2 – 5x có dạng y = f(x) = ax 2 + bx + c với a = m – 4, b = –5, c = 0 Do đó, để hàm số là hàm số bậc hai thì: a ≠ 0 hay m – 4 ≠ 0 ⇔ m ≠ 4 Vậy m ≠ 4 thì hàm số y = (m – 4)x 2 – 5x là hàm số bậc hai. Do đó, m = 4 thì hàm số y = (m – 4)x 2 – 5x không là hàm số bậc hai."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 5: Với giá trị nào của m thì hàm số y = (5m – 5)x 3 – 3x 2 + 4 là hàm số bậc hai ?",
+      "options": [
+        "A. m = 1;",
+        "B. m = 2;",
+        "C. m = 3;",
+        "D. m = 4."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A. Hàm số y = (5m – 5)x 3 – 3x 2 + 4 đang có lũy thừa bậc cao nhất của biến x là bậc 3, do đó, để hàm số là hàm số bậc hai thì: 5m – 5 = 0 hay 5m = 5 ⇔ m = 1. Khi đó, hàm số trở thành y = – 3x 2 + 4 có dạng y = f(x) = ax 2 + bx + c với a = –3, b = 0, c = 4 là hàm số bậc hai. Vậy m = 1 thì hàm số y = (5m – 5)x 3 – 3x 2 + 4 là hàm số bậc hai."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 6: Hàm số y = (m + 6)x 3 – x 2 là hàm số bậc hai khi m nhận giá trị nào sau đây?",
+      "options": [
+        "A. m = –1;",
+        "B. m = –2;",
+        "C. m = –5;",
+        "D. m = –6."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải: Đáp án đúng là: D. Hàm số y = (m + 6)x 3 – x 2 đang có lũy thừa bậc cao nhất của biến x là bậc 3, do đó, để hàm số là hàm số bậc hai thì: m + 6 = 0 hay m = –6. Khi đó, hàm số trở thành y = – x 2 có dạng y = f(x) = ax 2 + bx + c với a = –1, b = 0, c = 0 là hàm số bậc hai. Vậy m = –6 thì hàm số y = (m + 6)x 3 – x 2 là hàm số bậc hai."
+    }
+  ]
+}

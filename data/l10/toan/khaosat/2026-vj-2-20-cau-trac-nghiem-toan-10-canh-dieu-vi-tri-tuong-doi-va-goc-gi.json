@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-20-cau-trac-nghiem-toan-10-canh-dieu-vi-tri-tuong-doi-va-goc-gi",
+  "sourceId": "vietjack:2-20-cau-trac-nghiem-toan-10-canh-dieu-v",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.20 câu Trắc nghiệm Toán 10 Cánh diều Vị trí tương đối và góc giữa hai đường thẳng. Khoảng cách từ một điểm đến một đường thẳng (Phần 2) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Trong mặt phẳng tọa độ Oxy, cho hai đường thẳng d 1 , d 2 lần lượt có vectơ chỉ phương là \\({\\vec a_1}\\), \\({\\vec a_2}\\). Gọi M là một điểm nằm trên đường thẳng d 1 . Khi đó d 1 trùng d 2 khi và chỉ khi:",
+      "options": [
+        "A. \\({\\vec a_1}\\) cùng phương với \\({\\vec a_2}\\);",
+        "B. \\({\\vec a_1}\\) không cùng phương với \\({\\vec a_2}\\);",
+        "C. M ∈ d 2 ;",
+        "D. Cần có cả hai điều kiện của hai phương án A và C."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải Đáp án đúng là: D Trong mặt phẳng tọa độ Oxy, cho hai đường thẳng d 1 , d 2 lần lượt có vectơ chỉ phương là \\({\\vec a_1}\\), \\({\\vec a_2}\\) và một điểm M ∈ d 1 . Khi đó d 1 trùng d 2 khi và chỉ khi \\({\\vec a_1}\\) cùng phương với \\({\\vec a_2}\\) và M ∈ d 2 . Vì vậy cần có cả hai điều kiện của hai phương án A và C. Vậy ta chọn phương án D."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hai đường thẳng ∆ 1 và ∆ 2 có phương trình lần lượt là ax + by + c = 0 và dx + ey + f = 0. Xét hệ \\(\\left\\{ \\begin{array}{l}ax + by + c = 0\\\\dx + ey + f = 0\\end{array} \\right.\\). Khi đó ∆ 1 cắt ∆ 2 khi và chỉ khi:",
+      "options": [
+        "A. Hệ phương trình đã cho có nghiệm duy nhất;",
+        "B. Hệ phương trình đã cho vô nghiệm;",
+        "C. Hệ phương trình đã cho có vô số nghiệm;",
+        "D. Hệ phương trình đã cho có hai nghiệm phân biệt."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A Ta có: ⦁ ∆ 1 cắt ∆ 2 khi và chỉ khi hệ phương trình đã cho có nghiệm duy nhất; ⦁ ∆ 1 // ∆ 2 khi và chỉ khi hệ phương trình đã cho vô nghiệm; ⦁ ∆ 1 trùng ∆ 2 khi và chỉ khi hệ phương trình đã cho có vô số nghiệm. Do đó ta chọn phương án A."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho đường thẳng d 1 , d 2 có vectơ pháp tuyến lần lượt là \\[{\\vec n_1} = \\left( {a;b} \\right),\\,\\,{\\vec n_2} = \\left( {c;d} \\right)\\]. Kết luận nào sau đây đúng ?",
+      "options": [
+        "A. \\(\\cos \\left( {{d_1},{d_2}} \\right) = \\frac{{\\left| {ab + cd} \\right|}}{{\\sqrt {{a^2} + {c^2}} .\\sqrt {{b^2} + {d^2}} }}\\);",
+        "B. \\(\\cos \\left( {{d_1},{d_2}} \\right) = \\frac{{\\left| {ac + bd} \\right|}}{{\\sqrt {{a^2} + {c^2}} .\\sqrt {{b^2} + {d^2}} }}\\);",
+        "C. \\(\\cos \\left( {{d_1},{d_2}} \\right) = \\frac{{\\left| {ac + bd} \\right|}}{{\\sqrt {{a^2} + {b^2}} .\\sqrt {{c^2} + {d^2}} }}\\);",
+        "D. \\(\\cos \\left( {{d_1},{d_2}} \\right) = \\frac{{ac + bd}}{{\\sqrt {{a^2} + {b^2}} .\\sqrt {{c^2} + {d^2}} }}\\)."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là: C Cho đường thẳng d 1 , d 2 có vectơ pháp tuyến lần lượt là \\[{\\vec n_1} = \\left( {a;b} \\right),\\,\\,{\\vec n_2} = \\left( {c;d} \\right)\\]. Khi đó ta có \\(\\cos \\left( {{d_1},{d_2}} \\right) = \\frac{{\\left| {{{\\vec n}_1}.{{\\vec n}_2}} \\right|}}{{\\left| {{{\\vec n}_1}} \\right|.\\left| {{{\\vec n}_2}} \\right|}} = \\frac{{\\left| {ac + bd} \\right|}}{{\\sqrt {{a^2} + {b^2}} .\\sqrt {{c^2} + {d^2}} }}\\). Vậy ta chọn phương án C."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Trong mặt phẳng tọa độ Oxy, cho đường thẳng d: 2x + 3y + 5 = 0 và A(1; –3). Khoảng cách từ điểm A đến đường thẳng d là:",
+      "options": [
+        "A. \\(d\\left( {A,d} \\right) = - \\frac{{2\\sqrt {13} }}{{13}}\\);",
+        "B. \\(d\\left( {A,d} \\right) = \\frac{{2\\sqrt {13} }}{{13}}\\);",
+        "C. \\(d\\left( {A,d} \\right) = \\frac{{2\\sqrt 5 }}{5}\\);",
+        "D. \\(d\\left( {A,d} \\right) = \\frac{{7\\sqrt {13} }}{{13}}\\)."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải Đáp án đúng là: B Ta có \\(d\\left( {A,d} \\right) = \\frac{{\\left| {2.1 + 3.\\left( { - 3} \\right) + 5} \\right|}}{{\\sqrt {{2^2} + {3^2}} }} = \\frac{{2\\sqrt {13} }}{{13}}\\). Vậy ta chọn phương án B."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Góc giữa hai đường thẳng luôn luôn:",
+      "options": [
+        "A. α < 90°;",
+        "B. 0° ≤ α ≤ 180°;",
+        "C. 0° ≤ α ≤ 90°;",
+        "D. 90° ≤ α ≤ 180°."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là: C Gọi α là góc giữa hai đường thẳng. Góc giữa hai đường thẳng luôn nhỏ hơn hoặc bằng 90°. Tức là, 0° ≤ α ≤ 90°. Vậy ta chọn phương án C."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong mặt phẳng tọa độ Oxy, cho hai đường thẳng ∆ 1 và ∆ 2 có vectơ pháp tuyến lần lượt là \\({\\vec n_1},\\,\\,{\\vec n_2}\\). Nếu \\({\\vec n_1}.{\\vec n_2} = 0\\) thì:",
+      "options": [
+        "A. ∆ 1 // ∆ 2 ;",
+        "B. ∆ 1 trùng ∆ 2 ;",
+        "C. ∆ 1 ⊥ ∆ 2 ;",
+        "D. ∆ 1 cắt ∆ 2 nhưng không vuông góc với ∆ 2 ."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là: C Ta có \\({\\vec n_1}.{\\vec n_2} = 0\\). Suy ra \\({\\vec n_1} \\bot {\\vec n_2}\\). Do đó ∆ 1 ⊥ ∆ 2 . Vậy ta chọn phương án C."
+    }
+  ]
+}

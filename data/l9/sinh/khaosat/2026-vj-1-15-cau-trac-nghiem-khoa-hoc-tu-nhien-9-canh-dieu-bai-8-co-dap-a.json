@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-khoa-hoc-tu-nhien-9-canh-dieu-bai-8-co-dap-a",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-khoa-hoc-tu-nhien-9",
+  "grade": "l9",
+  "subjectSlug": "sinh",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Khoa học tự nhiên 9 Cánh diều Bài 8 có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Phần I: Trắc nghiệm nhiều lựa chọn Cho đoạn mạch gồm điện trở R 1 mắc nối tiếp với điện trở R 2 mắc vào mạch điện. Gọi I, I 1 , I 2 lần lượt là cường độ dòng điện của toàn mạch, cường độ dòng điện qua R 1 , R 2 . Biểu thức nào sau đây đúng?",
+      "options": [
+        "A. I = I 1 = I 2",
+        "B. I = I 1 + I 2",
+        "C. I ≠ I 2 = I 2",
+        "D. I 1 ≠ I 2"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Trong đoạn mạch mắc nối tiếp thì: Cường độ dòng điện có giá trị như nhau tại mọi điểm: I = I 1 = I 2 = … = I n"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Phát biểu nào dưới đây không đúng đối với đoạn mạch gồm các điện trở mắc nối tiếp?",
+      "options": [
+        "A. Cường độ dòng điện là như nhau tại mọi vị trí của đoạn mạch",
+        "B. Hiệu điện thế giữa hai đầu đoạn mạch bằng tổng các hiệu điện thế giữa hai đầu mỗi điện trở mắc trong đoạn mạch.",
+        "C. Hiệu điện thế giữa hai đầu đoạn mạch bằng hiệu điện thế giữa hai đầu mỗi điện trở mắc trong đoạn mạch",
+        "D. Hiệu điện thế giữa hai đầu mỗi điện trở mắc trong đoạn mạch tỉ lệ thuận với điện trở đó."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C A, B, D - đúng C - sai vì: Hiệu điện thế giữa hai đầu đoạn mạch bằng tổng hiệu điện thế giữa hai đầu mỗi điện trở thành phần: \\[U = {U_1} + {U_2} + \\ldots + {U_n}\\]"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Biểu thức nào sau đây xác định điện trở tương đương của đoạn mạch có hai điện trở R 1 , R 2 mắc nối tiếp?",
+      "options": [
+        "A. \\[\\frac{1}{R} = \\frac{1}{{{R_1}}} + \\frac{1}{{{R_2}}}\\]",
+        "B. \\[R = \\frac{{{R_1}{R_2}}}{{{R_1} - {R_2}}}\\]",
+        "C. \\[R = {R_1} + {R_2}\\]",
+        "D. \\[R = \\left| {{R_1} - {R_2}} \\right|\\]"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Điện trở tương đương của đoạn mạch nối tiếp bằng tổng các điện trở hợp thành: R = R 1 + R 2"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho đoạn mạch như hình vẽ: Khi công tắc K mở, hai đèn có hoạt động không?",
+      "options": [
+        "A. Đèn 1 sáng, đèn 2 không hoạt động",
+        "B. Hai đèn không hoạt động , vì mạch hở không có dòng điện chạy qua hai đèn",
+        "C. Hai đèn hoạt động bình thường",
+        "D. Đèn 1 không hoạt động, đèn 2 sáng"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Khi công tắc K mở thì hai đèn không hoạt động vì mạch hở không có dòng điện chạy qua hai đèn."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hai bóng đèn loại 12V - 1A và 12V - 0,8A . Mắc nối tiếp hai bóng đèn vào hiệu điện thế 24 V. Chọn phương án đúng về độ sáng của hai bóng đèn?",
+      "options": [
+        "A. Đèn 1 và đèn 2 sáng bình thường",
+        "B. Đèn 1 sáng yếu hơn bình thường, đèn 2 sáng mạnh hơn bình thường",
+        "C. Đèn 1 sáng mạnh hơn bình thường, đèn 2 sáng yếu hơn bình thường",
+        "D. Đèn 1 và đèn 2 sáng yếu hơn bình thường"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B + Điện trở của mỗi bóng đèn là: \\[{R_1} = \\frac{{{U_1}}}{{{I_1}}} = \\frac{{12}}{1} = 12{\\rm{\\Omega }}{\\mkern 1mu} {\\mkern 1mu} \\] \\[{\\mkern 1mu} {\\mkern 1mu} {R_2} = \\frac{{{U_2}}}{{{I_2}}} = \\frac{{12}}{{0,8}} = 15{\\rm{\\Omega }}\\] + Điện trở tương đương của đoạn mạch \\[{R_{12}} = {R_1} + {R_2} = 27{\\rm{\\Omega }}\\] + Cường độ dòng điện qua mỗi bóng đèn là : \\[I = \\frac{U}{{{R_{12}}}} = \\frac{{24}}{{27}} = \\frac{8}{9}{\\rm{\\Omega }}\\] + Nhận xét về độ sáng của mỗi đèn Đèn 1 ta có I < I 1 nên đèn 1 sáng yếu hơn bình thường Đèn 2 ta có I > I 2 nên đèn 2 sáng mạnh hơn bình thường"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Đặt một hiệu điện thế UAB vào hai đầu đoạn mạch gồm hai điện trở R 1 và R 2 mắc nối tiếp. Hiệu điện thế giữa hai đầu mỗi điện trở tương ứng là U 1 , U 2 . Hệ thức nào dau đây là không đúng ?",
+      "options": [
+        "A. \\[{R_{AB}} = {R_1} + {R_2}\\]",
+        "B. \\[{I_{AB}} = {I_1} = {I_2}\\]",
+        "C. \\[\\frac{{{U_1}}}{{{U_2}}} = \\frac{{{R_2}}}{{{R_1}}}\\]",
+        "D. \\[{U_{AB}} = {U_1} + {U_2}\\]"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C C - sai vì: \\[\\frac{{{U_1}}}{{{U_2}}} = \\frac{{{R_1}}}{{{R_2}}}\\] do \\[I = \\frac{U}{R}\\] mà \\[I = {I_1} = {I_2} \\to \\frac{{{U_1}}}{{{R_1}}} = \\frac{{{U_2}}}{{{R_2}}} \\to \\frac{{{U_1}}}{{{U_2}}} = \\frac{{{R_1}}}{{{R_2}}}\\]"
+    }
+  ]
+}

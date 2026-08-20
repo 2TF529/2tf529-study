@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-6-10-bai-tap-ung-dung-cong-thuc-nghiem-trong-bai-toan-tim-tham-so",
+  "sourceId": "vietjack:6-10-bai-tap-ung-dung-cong-thuc-nghiem-t",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "6.10 bài tập Ứng dụng công thức nghiệm trong bài toán tìm tham số thỏa mãn sự tương giao của đồ thị hàm số chứa tham số có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Trong mặt phẳng tọa độ Oxy, cho parabol (P): y = x 2 và đường thẳng (d): y = 3x + m 2 + 1. Khẳng định nào sau đây là đúng?",
+      "options": [
+        "A. (d) và (P) không có điểm chung với mọi m.",
+        "B. (d) tiếp xúc với (P) với mọi m.",
+        "C. (d) cắt (P) tại hai điểm phân biệt với mọi m.",
+        "D. Không xác định được vị trí tương đối của (d) và (P)."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Gọi (x; y) là tọa độ giao điểm (nếu có) của (d) và (P), khi đó ta có: y = x 2 và y = 3x + m 2 + 1. Suy ra x 2 = 3x + m 2 + 1 hay x 2 – 3x – m 2 – 1 = 0. (*) Phương trình (*) có: ∆ = (–3) 2 – 4.1.(–m 2 – 1) = 9 + 4m 2 + 4 = 4m 2 + 13. Với mọi m ta luôn có m 2 ≥ 0, nên 4m 2 + 13 ≥ 13 > 0 hay ∆ > 0. Do đó phương trình (*) luôn có hai nghiệm phân biệt với mọi m. Vậy đường thẳng (d) luôn cắt parabol (P) tại hai điểm phân biệt với mọi m."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Với giá trị nào của m thì đường thẳng (d): y = –m và (P): y = 4x 2 có điểm chung?",
+      "options": [
+        "A. m < 0.",
+        "B. m > 0.",
+        "C. m ≤ 0.",
+        "D. m ≥ 0."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Gọi (x; y) là tọa độ giao điểm (nếu có) của (d) và (P), khi đó ta có: y = 4x 2 và y = –m Suy ra 4x 2 = –m. (*) Để đường thẳng (d): y = –m và (P): y = 4x 2 có điểm chung thì phương trình (*) phải có nghiệm, tức là –m ≥ 0, hay m ≤ 0. Vậy ta chọn phương án C."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Với giá trị nào của tham số m thì đường thẳng (d): y = mx – m + 2 tiếp xúc với parabol (P): y = 2x 2 ?",
+      "options": [
+        "A. m = 1.",
+        "B. m = 2.",
+        "C. m = –2.",
+        "D. m = 4."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Gọi (x; y) là tọa độ giao điểm (nếu có) của (d) và (P), khi đó ta có: y = 2x 2 và y = mx – m + 2 Suy ra 2x 2 = mx – m + 2 hay 2x 2 – mx + m – 2 = 0. (*) Phương trình (*) có: ∆ = (–m) 2 – 4.2.(m – 2) = m 2 – 8m + 16 = (m – 4) 2 . Để đường thẳng (d) tiếp xúc parabol (P) thì phương trình (*) phải có nghiệm kép, tức là ∆ = 0, hay (m – 4) 2 > 0, suy ra m – 4 = 0 nên m = 4. Vậy ta chọn phương án D."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Điều kiện của tham số m và n để parabol (P): y = x 2 không có điểm chung với đường thẳng là (d): y = mx + n là",
+      "options": [
+        "A. m 2 + 4n < 0.",
+        "B. m 2 + 4n ≥ 0.",
+        "C. m 2 + 2n < 0.",
+        "D. m 2 + 2n ≥ 0."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Gọi (x; y) là tọa độ giao điểm (nếu có) của (d) và (P), khi đó ta có: y = x 2 và y = mx + n Suy ra x 2 = mx + n hay x 2 – mx – n = 0. (*) Phương trình (*) có: ∆ = (–m) 2 – 4.1.(–n) = m 2 + 4n. Để đường thẳng (d) và parabol (P) không có điểm chung thì phương trình (*) không có nghiệm, tức là ∆ < 0, hay m 2 + 4n < 0. Vậy ta chọn phương án A."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Với giá trị nào của m thì parabol y = mx 2 (m ≠ 0) cắt đường thẳng là (d): y = 2x – 2 tại hai điểm phân biệt?",
+      "options": [
+        "A. \\(m < \\frac{1}{2}.\\)",
+        "B. \\(m \\le \\frac{1}{2}.\\)",
+        "C. \\(m < \\frac{1}{2};\\,\\,m \\ne 0.\\)",
+        "D. \\(m > \\frac{1}{2}.\\)"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Gọi (x; y) là tọa độ giao điểm (nếu có) của (d) và (P), khi đó ta có: y = mx 2 và y = 2x – 2 Suy ra mx 2 = 2x – 2 hay mx 2 – 2x + 2 = 0. (*) Phương trình (*) có: ∆' = (–1) 2 – m.2 = 1 – 2m. Để đường thẳng (d) cắt parabol (P) tại hai điểm phân biệt thì phương trình (*) phải có hai nghiệm phân biệt, tức là ∆' > 0, hay 1 – 2m > 0, nên \\(m < \\frac{1}{2}.\\) Kết hợp điều kiện m ≠ 0, ta được: \\(m < \\frac{1}{2};\\,\\,m \\ne 0.\\) Vậy ta chọn phương án C."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong mặt phẳng toạ độ Oxy, biết điểm có hoành độ bằng 1 là một điểm chung của parabol (P): y = 2x 2 và đường thẳng (d): y = (m – 1)x – 2, với m là tham số. Khi đó giá trị của m là",
+      "options": [
+        "A. m = 1.",
+        "B. m = 2.",
+        "C. m = 3.",
+        "D. m = 5."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Thay x = 1 vào hàm số y = 2x 2 , ta được: y = 2.1 2 = 2. Như vậy, đường thẳng (d): y = (m – 1)x – 2 cắt (P): y = 2x 2 tại một điểm có tọa độ là (1; 2). Thay x = 1, y = 2 vào hàm số y = (m – 1)x – 2, ta được: 2 = (m – 1).1 – 2 2 = m – 1 – 2 2 = m – 3 m = 5. Vậy ta chọn phương án D."
+    }
+  ]
+}

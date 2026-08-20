@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-2-cac-dang-bai-tap-ung-dung-hien-tuong-cam-ung-dien-tu-lop-12-co-",
+  "sourceId": "vietjack:2-cac-dang-bai-tap-ung-dung-hien-tuong-c",
+  "grade": "l12",
+  "subjectSlug": "li",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.Các dạng bài tập Ứng dụng hiện tượng cảm ứng điện từ lớp 12 (có lời giải)",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Nhận định nào sau đây là không đúng khi nói về vai trò của máy biến áp trong truyền tải điện năng?",
+      "options": [
+        "A. Máy biến áp có vai trò quan trọng trong chuyển đổi dòng một chiều thành dòng xoay chiều giúp dòng điện xoay chiều được sử dụng rộng rãi hiện nay.",
+        "B. Máy biến áp có vai trò lớn trong truyền tải điện năng đi xa, giúp giảm hao phí trên đường truyền.",
+        "C. Máy biến áp có vai trò quan trọng trong truyền tải dòng điện xoay chiều giúp tăng điện áp trước khi truyền và giảm điện áp ở nơi sử dụng.",
+        "D. Máy biến áp có vai trò lớn trong việc giảm chi phí truyền tải điện năng từ nhà máy đến nơi sử dụng."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là A Máy biến áp không dùng cho dòng một chiều."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Đối với máy biến áp lí tưởng, cuộn sơ cấp có N 1 vòng dây, cuộn thứ cấp có N 2 vòng dây. Cuộn thứ cấp nối với điện trở thành mạch kín, khi máy hoạt động, điện áp và cường độ dòng điện hiệu dụng ở cuộn sơ cấp và thứ cấp lần lượt là U 1 , I 1 và U 2 , I 2 . Mối liên hệ nào sau đây là sai?",
+      "options": [
+        "A. \\(\\frac{{{{\\rm{N}}_1}}}{{\\;{{\\rm{N}}_2}}} = \\frac{{{{\\rm{I}}_2}}}{{{{\\rm{I}}_1}}}.\\)",
+        "B. \\(\\frac{{{{\\rm{N}}_1}}}{{\\;{{\\rm{N}}_2}}} = \\frac{{{{\\rm{U}}_2}}}{{{{\\rm{U}}_1}}}.\\)",
+        "C. \\(\\frac{{{U_2}}}{{{U_1}}} = \\frac{{{I_1}}}{{{I_2}}}.\\)",
+        "D. \\(\\frac{{{N_1}}}{{{U_1}}} = \\frac{{{N_2}}}{{{U_2}}}.\\)"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là B \\(\\frac{{{{\\rm{N}}_1}}}{{\\;{{\\rm{N}}_2}}} = \\frac{{{{\\rm{I}}_2}}}{{{{\\rm{I}}_1}}} = \\frac{{{U_2}}}{{{U_1}}}.\\)"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Để giảm bớt hao phí do toả nhiệt trên đường dây khi cần tải điện năng đi xa bằng dòng điện xoay chiều, có thể dùng biện pháp",
+      "options": [
+        "A. tăng hiệu điện thế ở nơi sản xuất điện lên n lần để giảm hao phí do toả nhiệt trên đường dây n 2 lần.",
+        "B. xây dựng nhà máy gần nơi tiêu thụ điện để giảm chiều dài đường dây truyền tải điện.",
+        "C. giảm hiệu điện thế máy phát điện n lần để giảm cường độ dòng điện trên dây n lần, giảm công suất toả nhiệt xuống n lần.",
+        "D. dùng dây dẫn bằng vật liệu siêu dẫn có đường kính lớn."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là A \\[{P_{hp}} = \\frac{{{P^2}}}{{{U^2}}}R = \\frac{{{P^2}}}{{{U^2}}}.\\rho \\frac{\\ell }{S}\\] nên để giảm hao phí có thể sử dụng các cách sau: - Tăng điện áp nơi truyền đi - Tăng tiết diện dây dẫn (tốn kém) - Giảm chiều dài dây dẫn - Thay đổi vật liệu dẫn"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Trong cuộn thứ cấp của máy biến áp có số vòng bằng 1000 xuất hiện suất điện động bằng 600 V. Nếu máy biến áp được nối vào mạng với hiệu điện thế 120 V điện thế thì số vòng trong cuộn sơ cấp là",
+      "options": [
+        "A. 500 vòng.",
+        "B. 400 vòng.",
+        "C. 600 vòng.",
+        "D. 200 vòng."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là D \\[\\frac{{{N_1}}}{{{N_2}}} = \\frac{{{U_1}}}{{{U_2}}} \\Rightarrow \\frac{{{N_1}}}{{1000}} = \\frac{{120}}{{600}} \\Rightarrow {N_1} = 200\\]"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Quan sát mô hình loa điện động được mô tả như hình vẽ 18.4. Nhận định nào sau đây là đúng hay sai về nguyên tắc hoạt động của loa điện động?",
+      "options": [
+        "A. Khi cho dòng điện không đổi vào hai điểm nối tín hiệu thì loa chỉ phát ra âm với một tần số không đổi",
+        "B. Loa hoạt động dựa trên hiện tượng cảm ứng điện từ",
+        "C. Khi có dòng điện chạy qua cuộn dây thì nam châm vĩnh cửu sẽ dao động làm cho màng loa dao động với tần số âm.",
+        "D. Nếu nối hai điểm nối tín hiệu vào loa với điện áp biểu diễn như Hình 18.5 thì tần số âm loa phát ra là 1 333 Hz."
+      ],
+      "answer": "D",
+      "note": "Nhận định Đúng Sai Khi cho dòng điện không đổi vào hai điểm nối tín hiệu thì loa chỉ phát ra âm với một tần số không đổi x Loa hoạt động dựa trên hiện tượng cảm ứng điện từ x Khi có dòng điện chạy qua cuộn dây thì nam châm vĩnh cửu sẽ dao động làm cho màng loa dao động với tần số âm. x Nếu nối hai điểm nối tín hiệu vào loa với điện áp biểu diễn như Hình 18.5 thì tần số âm loa phát ra là 1 333 Hz. x Giải thích: Trong khoảng thời gian 30.10 -5 s có 4 chu kì. Do đó \\[T = \\frac{{{{30.10}^{ - 5}}}}{4} = 7,{5.10^{ - 5}}s \\Rightarrow f = \\frac{1}{T} = 13333,3\\,Hz\\]"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cấu tạo của đi-na-mô xe đạp được mô tả như hình vẽ. Nhận định nào sau đây là đúng hay sai về nguyên tắc hoạt động của đi-na-mô?",
+      "options": [
+        "A. Dòng điện được dẫn ra mạch ngoài là dòng điện một chiều.",
+        "B. Đi-na-mô là máy phát điện hoạt động theo cách thứ 2, stato là cuộn dây đứng yên.",
+        "C. Chiều quay của rôto như trên hình chứng tỏ vành xe đạp đang quay ngược chiều kim đồng hồ.",
+        "D. Do nam châm đặt song song với trục cuộn dây nên từ thông qua các vòng dây không biến thiên."
+      ],
+      "answer": "B",
+      "note": "Nhận định Đúng Sai Dòng điện được dẫn ra mạch ngoài là dòng điện một chiều. x Đi-na-mô là máy phát điện hoạt động theo cách thứ 2, stato là cuộn dây đứng yên. x Chiều quay của rôto như trên hình chứng tỏ vành xe đạp đang quay ngược chiều kim đồng hồ. x Do nam châm đặt song song với trục cuộn dây nên từ thông qua các vòng dây không biến thiên. x Giải thích: Dòng điện được dẫn ra mạch ngoài là dòng điện xoay chiều nhưng có cường độ nhỏ, đủ sáng bóng đèn. Chiều quay của rôto như trên hình chứng tỏ vành xe đạp đang quay cùng chiều kim đồng hồ. Nguyên tắc hoạt động dựa trên hiện tượng cảm ứng điện từ nên từ thông qua các vòng dây biến thiên."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Sơ đồ nguyên tắc hoạt động của bếp từ được mô tả như hình vẽ. Nhận định nào sau đây là đúng hay sai về nguyên tắc hoạt động của bếp từ?",
+      "options": [
+        "A. Bếp từ hoạt động dựa trên hiện tượng cảm ứng điện từ.",
+        "B. Nồi kim loại nóng lên được là do nhiệt sinh ra từ mặt bếp từ truyền lên nồi như bếp điện.",
+        "C. Nguyên nhân làm nồi kim loại nóng lên là do tác dụng nhiệt của dòng điện cảm ứng sinh ra ở đáy nồi.",
+        "D. Dòng điện cảm ứng xuất hiện ở nồi đun là dòng điện Foucoault."
+      ],
+      "answer": "D",
+      "note": "Nhận định Đúng Sai Bếp từ hoạt động dựa trên hiện tượng cảm ứng điện từ. x Nồi kim loại nóng lên được là do nhiệt sinh ra từ mặt bếp từ truyền lên nồi như bếp điện. x Nguyên nhân làm nồi kim loại nóng lên là do tác dụng nhiệt của dòng điện cảm ứng sinh ra ở đáy nồi. x Dòng điện cảm ứng xuất hiện ở nồi đun là dòng điện Foucoault. x"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Nối thanh kim loại với dây dẫn và điện kế thành mạch kín như hình vẽ. Nhận định nào sau đây là đúng hay sai về sự xuất hiện dòng điện trong dây dẫn?",
+      "options": [
+        "A. Dòng điện xuất hiện trong thanh kim loại là dòng điện cảm ứng.",
+        "B. Khi thanh kim loại đứng im trong từ trường thì vẫn có dòng điện trong dây dẫn.",
+        "C. Dòng điện chỉ xuất hiện khi di chuyển thanh kim loại cắt các đường sức từ.",
+        "D. Dịch chuyển thanh kim loại sang trái hoặc sang phải vẫn có dòng điện trong dây dẫn."
+      ],
+      "answer": "C",
+      "note": "Nhận định Đúng Sai Dòng điện xuất hiện trong thanh kim loại là dòng điện cảm ứng. x Khi thanh kim loại đứng im trong từ trường thì vẫn có dòng điện trong dây dẫn. x Dòng điện chỉ xuất hiện khi di chuyển thanh kim loại cắt các đường sức từ. x Dịch chuyển thanh kim loại sang trái hoặc sang phải vẫn có dòng điện trong dây dẫn. x Giải thích: Để xuất hiện dòng điện thì từ thông phải biến thiên, khi thanh kim loại đứng yên hay dịch chuyển sang trái hoặc phải thì từ thông không đổi, không xuất hiện dòng điện cảm ứng."
+    }
+  ]
+}

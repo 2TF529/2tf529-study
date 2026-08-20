@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-2-bo-10-de-thi-cuoi-ki-2-toan-12-chan-troi-sang-tao-co-dap-an",
+  "sourceId": "vietjack:2-bo-10-de-thi-cuoi-ki-2-toan-12-chan-tr",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "cuoiki2",
+  "year": 2026,
+  "title": "2.Bộ 10 đề thi cuối kì 2 Toán 12 Chân trời sáng tạo có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh chỉ chọn một phương án. Cho \\(\\int\\limits_0^3 {f(x){\\rm{d}}x} = a\\) , \\(\\int\\limits_2^3 {f(x){\\rm{d}}x} = b\\) . Khi đó \\(\\int\\limits_0^2 {f(x){\\rm{d}}x} \\) bằng:",
+      "options": [
+        "A. \\(a - b\\) .",
+        "B. \\(b - a\\) .",
+        "C. \\(a + b\\) .",
+        "D. \\( - a - b\\) ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Do \\(\\int\\limits_0^3 {f(x){\\rm{d}}x} = \\int\\limits_0^2 {f(x){\\rm{d}}x} + \\int\\limits_2^3 {f(x){\\rm{d}}x} \\)\\[ \\Leftrightarrow \\int\\limits_0^2 {f(x){\\rm{d}}x} = \\int\\limits_0^3 {f(x){\\rm{d}}x} - \\int\\limits_2^3 {f(x){\\rm{d}}x} \\]\\[ \\Leftrightarrow \\int\\limits_0^2 {f(x){\\rm{d}}x} = a - b\\] ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Gọi \\(S\\) là diện tích của hình phẳng giới hạn bởi các đường \\(y = {3^x}\\) , \\(y = 0\\) , \\(x = 0\\) , \\(x = 2\\) . Mệnh đề nào dưới đây đúng?",
+      "options": [
+        "A. \\(S = \\int\\limits_0^2 {{3^x}} dx\\) .",
+        "B. \\(S = \\pi \\int\\limits_0^2 {{3^{2x}}} dx\\) .",
+        "C. \\(S = \\pi \\int\\limits_0^2 {{3^x}} dx\\) .",
+        "D. \\(S = \\int\\limits_0^2 {{3^{2x}}} dx\\) ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Diện tích hình phẳng đã cho được tính bởi công thức \\(S = \\int\\limits_0^2 {{3^x}} dx\\) ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trong không gian \\(Oxyz,\\) mặt phẳng \\(\\left( \\alpha \\right):x + 2y - z + 1 = 0\\) đi qua điểm nào dưới đây?",
+      "options": [
+        "A. \\[M\\left( { - 1;0;0} \\right)\\]",
+        "B. \\(N\\left( {0; - 2;0} \\right)\\) .",
+        "C. \\(P\\left( {1; - 2;1} \\right)\\) .",
+        "D. \\(Q\\left( {1;2; - 1} \\right)\\) ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Thay \\(M\\left( { - 1;0;0} \\right)\\) vào \\(\\left( \\alpha \\right):x + 2y - z + 1 = 0\\) , ta được: \\( - 1 + 1 = 0\\) . Vậy ta có : \\(M\\left( { - 1;0;0} \\right) \\in \\left( \\alpha \\right):x + 2y - z + 1 = 0\\) ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Trong không gian \\(Oxyz\\) , cho đường thẳng \\(d:\\frac{{x - 2}}{3} = \\frac{{y + 5}}{4} = \\frac{{z - 2}}{{ - 1}}\\) . Vectơ nào dưới đây là một vectơ chỉ phương của \\(d\\) ?",
+      "options": [
+        "A. \\(\\overrightarrow {{u_2}} = \\left( {3;4; - 1} \\right)\\) .",
+        "B. \\(\\overrightarrow {{u_1}} = \\left( {2; - 5;2} \\right)\\) .",
+        "C. \\(\\overrightarrow {{u_3}} = \\left( {2;5; - 2} \\right)\\) .",
+        "D. \\(\\overrightarrow {{u_4}} = \\left( {3;4;1} \\right)\\) ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Dựa vào phương trình chính tắc của đường thẳng \\(d\\) ta có vectơ chỉ phương của \\(d\\) là \\(\\overrightarrow {{u_2}} = \\left( {3;4; - 1} \\right)\\) ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hai đường thẳng \\({\\Delta _1}:\\frac{{x - 1}}{3} = \\frac{y}{2} = \\frac{{z + 1}}{1},{\\Delta _2}:\\frac{x}{{ - 1}} = \\frac{{y - 2}}{2} = \\frac{{z - 3}}{{ - 1}}\\) . Góc giữa \\({\\Delta _1}\\) và \\({\\Delta _2}\\) bằng",
+      "options": [
+        "A. \\[0^\\circ \\] .",
+        "B. \\(90^\\circ \\) .",
+        "C. \\(3^\\circ \\) .",
+        "D. \\(45^\\circ \\) ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Có \\(\\overrightarrow {{u_1}} = \\left( {3;2;1} \\right),\\overrightarrow {{u_2}} = \\left( { - 1;2; - 1} \\right)\\) lần lượt là vectơ chỉ phương của hai đường thẳng \\({\\Delta _1},{\\Delta _2}\\) . Có \\(\\cos \\left( {{\\Delta _1},{\\Delta _2}} \\right) = \\left| {\\cos \\left( {\\overrightarrow {{u_1}} ,\\overrightarrow {{u_2}} } \\right)} \\right| = \\frac{{\\left| {3.\\left( { - 1} \\right) + 2.2 + 1.\\left( { - 1} \\right)} \\right|}}{{\\sqrt {{3^2} + {2^2} + {1^2}} .\\sqrt {{{\\left( { - 1} \\right)}^2} + {2^2} + {{\\left( { - 1} \\right)}^2}} }} = 0\\) . Suy ra \\(\\left( {{\\Delta _1},{\\Delta _2}} \\right) = 90^\\circ \\) ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong không gian với hệ trục tọa độ \\(Oxyz\\) , gọi \\((P)\\) là mặt phẳng chứa trục \\(Ox\\) và vuông góc với mặt phẳng \\((Q):x + y + z - 3 = 0\\) . Mặt phẳng \\((P)\\) có một vectơ pháp tuyến là:",
+      "options": [
+        "A. A . \\[\\overrightarrow n = \\left( {0;1;1} \\right)\\] .",
+        "B. B . \\[\\overrightarrow n = \\left( {0; - 1;1} \\right)\\] .",
+        "C. C . \\[\\overrightarrow n = \\left( {1;0;1} \\right)\\] .",
+        "D. D . \\[\\overrightarrow n = \\left( {0;2;1} \\right)\\] ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Có \\(\\overrightarrow {{n_Q}} = \\left( {1;1;1} \\right)\\) , \\(\\overrightarrow i = \\left( {1;0;0} \\right)\\) . Có \\(\\overrightarrow {{n_P}} = \\left[ {\\overrightarrow {{n_Q}} ,\\overrightarrow i } \\right] = \\left( {0;1; - 1} \\right)\\) là một vectơ pháp tuyến của mặt phẳng \\(\\left( P \\right)\\) ."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Trong không gian với hệ tọa độ \\[Oxyz\\] , Phương trình nào là phương trình của đường thẳng đi qua điểm \\(A\\left( {1;\\,0;\\,5} \\right)\\) và có vectơ chỉ phương \\(\\overrightarrow a = \\left( {4;\\,2;\\,5} \\right)\\) .",
+      "options": [
+        "A. \\(\\frac{{x - 1}}{4} = \\frac{y}{2} = \\frac{{z - 5}}{5}.\\)",
+        "B. \\(\\frac{{x + 1}}{4} = \\frac{y}{2} = \\frac{{z + 5}}{5}.\\)",
+        "C. \\(\\frac{{x - 4}}{4} = \\frac{{y - 2}}{2} = \\frac{{z - 5}}{5}.\\)",
+        "D. \\(\\frac{{x - 1}}{5} = \\frac{y}{2} = \\frac{{z - 5}}{4}.\\)"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Phương trình đường thẳng đi qua điểm \\(A\\left( {1;\\,0;\\,5} \\right)\\) và có vectơ chỉ phương \\(\\overrightarrow a = \\left( {4;\\,2;\\,5} \\right)\\) là \\(\\frac{{x - 1}}{4} = \\frac{y}{2} = \\frac{{z - 5}}{5}.\\)"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Trong không gian \\[Oxyz\\] , phương trình mặt cầu có tâm \\(I\\left( {2\\,;\\,1;\\,2} \\right)\\) , bán kính bằng \\(3\\) là",
+      "options": [
+        "A. \\({\\left( {x + 2} \\right)^2} + {\\left( {y + 1} \\right)^2} + {\\left( {z + 2} \\right)^2} = 3\\) .",
+        "B. \\({\\left( {x - 2} \\right)^2} + {\\left( {y - 1} \\right)^2} + {\\left( {z - 2} \\right)^2} = 3\\) .",
+        "C. \\({\\left( {x + 2} \\right)^2} + {\\left( {y + 1} \\right)^2} + {\\left( {z + 2} \\right)^2} = 9\\) .",
+        "D. \\({\\left( {x - 2} \\right)^2} + {\\left( {y - 1} \\right)^2} + {\\left( {z - 2} \\right)^2} = 9\\) ."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Phương trình mặt cầu có tâm \\(I\\left( {2\\,;\\,1;\\,2} \\right)\\) bán kính bằng \\(3\\) là \\({\\left( {x - 2} \\right)^2} + {\\left( {y - 1} \\right)^2} + {\\left( {z - 2} \\right)^2} = 9\\) ."
+    }
+  ]
+}

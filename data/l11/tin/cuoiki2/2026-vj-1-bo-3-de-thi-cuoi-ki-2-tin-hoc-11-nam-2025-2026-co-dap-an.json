@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-1-bo-3-de-thi-cuoi-ki-2-tin-hoc-11-nam-2025-2026-co-dap-an",
+  "sourceId": "vietjack:1-bo-3-de-thi-cuoi-ki-2-tin-hoc-11-nam-2",
+  "grade": "l11",
+  "subjectSlug": "tin",
+  "examType": "cuoiki2",
+  "year": 2026,
+  "title": "1.Bộ 3 đề thi cuối kì 2 Tin học 11 năm 2025-2026 (có đáp án)",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Mỗi câu học sinh chỉ chọn 1 phương án. Truy vấn dữ liệu là gì?",
+      "options": [
+        "A. Là việc tìm kiếm, sắp xếp và kết xuất dữ liệu từ một hoặc nhiều bảng theo điều kiện.",
+        "B. Là việc thay đổi cấu trúc của các trường trong bảng.",
+        "C. Là quá trình nhập dữ liệu mới vào bảng.",
+        "D. Là việc tạo ra các liên kết giữa các bảng trong CSDL."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là A."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Điều kiện cần thiết để thiết lập liên kết giữa hai bảng là:",
+      "options": [
+        "A. Hai bảng phải được tạo cùng một thời điểm.",
+        "B. Hai bảng phải có ít nhất một trường chung có cùng kiểu dữ liệu.",
+        "C. Hai bảng phải có tên gọi gần giống nhau.",
+        "D. Hai bảng phải có cùng số lượng bản ghi."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là B."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Khi sử dụng công cụ Query Design để thiết kế truy vấn, thao tác nào sau đây được dùng để thực hiện việc chọn nguồn dữ liệu?",
+      "options": [
+        "A. Sử dụng lệnh Save để lưu lại danh sách các trường dữ liệu hiện có.",
+        "B. Sử dụng lệnh Print Preview để xem trước các bảng dữ liệu có trong máy.",
+        "C. Sử dụng lệnh Format để thay đổi kiểu hiển thị của các bản ghi dữ liệu.",
+        "D. Sử dụng hộp thoại Add Tables để chọn các bảng hoặc truy vấn cần thiết."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là D."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Bạn đang thiết kế Query để tìm các cuốn sách của tác giả \"Tô Hoài\". Tại dòng \"Criteria\" của cột \"Tác giả\", cách nhập nào sau đây là đúng quy định của Access đối với dữ liệu kiểu văn bản?",
+      "options": [
+        "A. [Tô Hoài]",
+        "B. \"Tô Hoài\"",
+        "C. Tô Hoài",
+        "D. = Tô Hoài"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là B."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Thành phần nào trên biểu mẫu thường dùng để hiển thị tiêu đề tĩnh (không thay đổi)?",
+      "options": [
+        "A. Check Box.",
+        "B. Combo Box.",
+        "C. Text Box.",
+        "D. Label."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là D."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Tại sao trường \"Số thẻ căn cước\" nên được thiết lập là kiểu Short Text thay vì Number?",
+      "options": [
+        "A. Để tiết kiệm bộ nhớ lưu trữ.",
+        "B. Vì không dùng để tính toán và có thể chứa các ký số bắt đầu bằng 0.",
+        "C. Vì số thẻ căn cước có độ dài không cố định.",
+        "D. Để hệ thống tự động tăng giá trị."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là B."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Để liên kết bảng TAC_GIA và bảng SACH, ta thực hiện thao tác nào trong cửa sổ Relationships?",
+      "options": [
+        "A. Kéo thả khóa chính MaTG từ bảng TAC_GIA sang trường MaTG ở bảng SACH.",
+        "B. Nhấp chuột phải vào bảng SACH chọn Link.",
+        "C. Kéo bảng SACH đè lên bảng TAC_GIA.",
+        "D. Viết câu lệnh SQL LINK TAC_GIA TO SACH."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là A."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Để lưu trữ thông tin về một mặt hàng bao gồm: Mã hàng (PK), Tên hàng, Đơn giá, Số lượng. Bạn nên thiết lập kiểu dữ liệu tương ứng lần lượt là:",
+      "options": [
+        "A. Number, Short Text, Short Text, Currency.",
+        "B. Short Text, Number, Number, Currency.",
+        "C. AutoNumber, Long Text, Currency, Short Text.",
+        "D. Short Text, Short Text, Currency, Number."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là D."
+    }
+  ]
+}

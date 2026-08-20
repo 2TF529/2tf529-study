@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-6-26-cau-trac-nghiem-toan-12-canh-dieu-bai-2-cong-thuc-xac-suat-t",
+  "sourceId": "vietjack:6-26-cau-trac-nghiem-toan-12-canh-dieu-b",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "6.26 câu trắc nghiệm Toán 12 Cánh diều Bài 2. Công thức xác suất toàn phần. Công thức Bayes có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Nếu hai biến cố \\(A\\), \\(B\\) thoả mãn \\({\\rm{P}}(B) = 0,4;{\\rm{P}}(A\\mid B) = 0,5;{\\rm{P}}(A\\mid \\bar B) = 0,3\\) thì \\({\\rm{P}}(A)\\) bằng:",
+      "options": [
+        "A. 0,38.",
+        "B. 0,8.",
+        "C. 0,2.",
+        "D. 0,18."
+      ],
+      "answer": "A",
+      "note": "Chọn A"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Nếu hai biến cố \\(A\\), \\(B\\) thoả mãn \\({\\rm{P}}(A) = 0,3;{\\rm{P}}(B) = 0,6;{\\rm{P}}(A\\mid B) = 0,4\\) thì \\({\\rm{P}}(B\\mid A)\\) bằng:",
+      "options": [
+        "A. 0,5.",
+        "B. 0,6.",
+        "C. 0,8.",
+        "D. 0,2."
+      ],
+      "answer": "C",
+      "note": "Chọn C"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho hai biến cố xung khắc \\(A\\), \\(B\\) với \\({\\rm{P}}(A) = 0,15;{\\rm{P}}(B) = 0,45\\). Khi đó, \\({\\rm{P}}(A\\mid B)\\) bằng:",
+      "options": [
+        "A. 0,6.",
+        "B. 0,3.",
+        "C. 0,0675.",
+        "D. 0."
+      ],
+      "answer": "D",
+      "note": "Chọn D"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hai biến cố \\(A\\), \\(B\\) với \\(0 < {\\rm{P}}(B) < 1\\) và \\({\\rm{P}}(A \\cap B) = 0,2;{\\rm{P}}(A \\cap \\bar B) = 0,3\\). Khi đó, \\({\\rm{P}}(A)\\) bằng:",
+      "options": [
+        "A. 0,06.",
+        "B. 0,5.",
+        "C. 0,1.",
+        "D. 0,67."
+      ],
+      "answer": "B",
+      "note": "Chọn B"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hai biến cố \\(A\\), \\(B\\) sao cho \\({\\rm{P}}(A) = 0,5;{\\rm{P}}(B) = 0,2;{\\rm{P}}(A\\mid B) = 0,25\\). Khi đó, \\({\\rm{P}}(B\\mid A)\\) bằng:",
+      "options": [
+        "A. 0,1.",
+        "B. 0,4.",
+        "C. 0,9.",
+        "D. 0,625."
+      ],
+      "answer": "A",
+      "note": "Chọn A"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho hai biến cố \\(A,B\\) với \\({\\rm{P}}\\left( B \\right) = 0,6;{\\rm{P}}\\left( {A|B} \\right) = 0,7\\) và \\({\\rm{P}}\\left( {A|\\overline B } \\right) = 0,4\\). Khi đó \\({\\rm{P}}\\left( A \\right)\\) bằng:",
+      "options": [
+        "A. \\(0,7\\).",
+        "B. \\(0,4\\).",
+        "C. \\(0,58\\).",
+        "D. \\(0,52\\)."
+      ],
+      "answer": "B",
+      "note": "Chọn B Ta có: \\({\\rm{P}}\\left( {\\overline B } \\right) = 1 - {\\rm{P}}\\left( B \\right) = 1 - 0,6 = 0,4\\). Theo công thức xác suất toàn phần, ta có: \\({\\rm{P}}\\left( A \\right) = {\\rm{P}}\\left( B \\right)\\,.\\,{\\rm{P}}\\left( {A|B} \\right) + {\\rm{P}}\\left( {\\overline B } \\right)\\,.\\,{\\rm{P}}\\left( {A|\\overline B } \\right) = 0,6\\,.\\,0,7 + 0,4\\,.\\,0,4 = 0,58\\)"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Cho hai biến cố \\(A,B\\) thỏa mãn \\({\\rm{P}}\\left( A \\right) = 0,4;{\\rm{P}}\\left( B \\right) = 0,3;\\,{\\rm{P}}\\left( {A|B} \\right) = 0,25\\). Khi đó, \\({\\rm{P}}\\left( {B|A} \\right)\\) bằng:",
+      "options": [
+        "A. \\(0,1875\\).",
+        "B. \\(0,48\\).",
+        "C. \\(0,333\\).",
+        "D. \\(0,95\\)."
+      ],
+      "answer": "A",
+      "note": "Chọn A Theo công thức Bayes, ta có: \\({\\rm{P}}\\left( {B|A} \\right) = \\frac{{{\\rm{P}}\\left( B \\right)\\,.\\,{\\rm{P}}\\left( {A|B} \\right)}}{{{\\rm{P}}\\left( A \\right)}} = \\frac{{0,3\\,.\\,0,25}}{{0,4}} = 0,1875\\)."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Khi tìm hiểu về việc học tiếng Anh của một trường phổ thông, người ta thấy rằng có 70% học sinh tự học tiếng Anh bằng hình thức học trực tuyến. Chọn ngẫu nhiên 1 học sinh. Khi đó, xác suất chọn được học sinh giỏi tiếng Anh, biết học sinh đó tự học bằng hình thức trực tuyến, là 0,8; xác suất chọn được học sinh giỏi tiếng Anh, biết không tự học bằng hình thức trực tuyến, là 0,3. Xác suất chọn được học sinh giỏi tiếng Anh là:",
+      "options": [
+        "A. 0,24.",
+        "B. 0,86.",
+        "C. 0,7.",
+        "D. 0,65."
+      ],
+      "answer": "D",
+      "note": "Chọn D Gọi A là biến cố: “Học sinh tự học tiếng anh bằng hình thức học trực tuyến” => P(A) = 0,7; P(Ā) = 0,3. B là biến cố: “học sinh giỏi tiếng anh bằng hình thức trực tuyến” => P(B) = 0,8. C là biến cố: “học sinh giỏi tiếng anh không tự học bằng hình thức trực tuyến” => P(C) = 0,3. D là biến cố: “học sinh giỏi tiếng anh” ðP(D) = P(A).P(B) + P(Ā).P(C) = 0,7.0,8 + 0,3.0,3 = 0,65."
+    }
+  ]
+}

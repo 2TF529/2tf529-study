@@ -1,0 +1,286 @@
+{
+  "id": "l12-li-totnghiep-2026-de-thi-thu-tn-thpt-vat-ly-tinh-bac-ninh-lan-1-2026",
+  "grade": "l12",
+  "subjectSlug": "li",
+  "examType": "totnghiep",
+  "year": 2026,
+  "code": "THPT_TTL_BN_2026_01",
+  "title": "Đề thi thử tốt nghiệp THPT môn Vật Lý Sở GD&ĐT Bắc Ninh lần 1 năm 2026",
+  "duration": 50,
+  "answerSource": "official",
+  "source": "https://dolthpt.vn/tot-nghiep-thpt/pdf-de-thi-thu-tn-thpt-vat-ly-tinh-bac-ninh-lan-1-2026-co-dap-an",
+  "notes": "Nội dung, đáp án và lời giải được nhập từ bản công khai của DOL THPT.",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "content": "Một học sinh thực hiện thí nghiệm đo nhiệt dung riêng của nước với sơ đồ bố trí thí nghiệm như hình vẽ. Trong đó, bình nhiệt lượng kế chứa 150 g nước có nhiệt độ ban đầu là 62°C. Số chỉ vôn kế và ampe kế lần lượt là 1,6 V và 2,5 A. Sau khoảng thời gian 8 phút 50 giây thì thấy nhiệt độ của nước tăng lên 65,5°C. Bỏ qua nhiệt lượng mà bình nhiệt lượng kế và đũa khuấy thu vào. Nhiệt dung riêng của nước trong thí nghiệm này xấp xỉ bằng bao nhiêu? (Đổi đơn vị về J/kg.K)\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tn-thpt-vat-ly-tinh-bac-ninh-lan-1-2026/cau-01.webp\" alt=\"Hình minh họa câu 1\" loading=\"lazy\"></figure>",
+      "chuong": "vật lí nhiệt",
+      "dang": "thí nghiệm: nhiệt dung riêng",
+      "type": "single",
+      "options": [
+        "A. 4038 J/Kg.K",
+        "B. 4076 J/kg.K.",
+        "C. 4067 J/kg.K.",
+        "D. 4083 J/kg.K."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Viết công thức liên hệ giữa năng lượng điện và nhiệt lượng nước (bỏ qua tổn thất khác):\n$U I t = m c \\Delta T.$\n- Từ đó giải cho $c$:\n$c = \\dfrac{U I t}{m \\Delta T}.$\n- Thay các giá trị đã cho: - $U = 1{,}6\\ \\text{V},\\quad I = 2{,}5\\ \\text{A},\\quad t = 530\\ \\text{s}.$\n  - $m = 0{,}150\\ \\text{kg},\\quad \\Delta T = 65{,}5 - 62 = 3{,}5\\ ^\\circ\\text{C}.$\n- Tính công suất và năng lượng điện:\n$P = UI = 1{,}6\\times 2{,}5 = 4{,}0\\ \\text{W}.$\n$Q = P t = 4{,}0 \\times 530 = 2120\\ \\text{J}.$\n- Tính nhiệt dung riêng:\n$c = \\dfrac{2120}{0{,}150 \\times 3{,}5} = \\dfrac{2120}{0{,}525} \\approx 4038{,}1\\ \\text{J/kg·K}.$\n- Lưu ý về số liệu đo: độ chính xác của vôn kế/ampe kế và sai số khi đọc thời gian có thể làm giá trị cuối cùng thay đổi một chút (một vài giây hoặc vài phần trăm ở hiệu điện thế sẽ đưa kết quả vào khoảng 4,080 J/kg·K). Do đó các đáp án tròn khác nhau xuất hiện.\n✅ **Đáp án:** D. 4083 J/kg.K."
+    },
+    {
+      "id": 2,
+      "content": "Chuyển động Brown chứng tỏ các phân tử chất khí",
+      "chuong": "khí lí tưởng",
+      "dang": "lý thuyết: thuyết động học phân tử chất khí",
+      "type": "single",
+      "options": [
+        "A. đứng yên, không chuyển động.",
+        "B. chuyển động qua lại quanh một vị trí cân bằng.",
+        "C. chuyển động theo một đường thẳng xác định.",
+        "D. chuyển động hỗn loạn, không ngừng."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Chuyển động Brown là hiện tượng: những hạt nhỏ (như hạt bụi hoặc phấn) treo trong chất lỏng/khí quan sát bằng kính hiển vi chuyển động giật cục, không theo một hướng cố định.\n- Giải thích vì sao xảy ra: các phân tử chất khí (hoặc chất lỏng) luôn chuyển động nhiệt, va chạm liên tục và ngẫu nhiên với các hạt nhỏ đó. Những va chạm này có hướng và cường độ khác nhau, làm cho hạt nhỏ chuyển động không đều, không ngừng.\n- Dựa trên lời giải thích trên, ta rút ra: hiện tượng chuyển động Brown chỉ ra bản chất chuyển động của các phân tử là *ngẫu nhiên và liên tục* (không đứng yên, không theo đường thẳng xác định, và không chỉ dao động quanh một vị trí cố định).\n- Kiểm tra các phương án: - A (đứng yên): sai — nếu phân tử đứng yên thì hạt nhỏ sẽ không bị đẩy liên tục và không quan sát được chuyển động Brown.\n  - B (chuyển động qua lại quanh vị trí cân bằng): sai — chuyển động Brown không có dạng dao động đều quanh một vị trí, mà là ngẫu nhiên về hướng và bước đi.\n  - C (theo đường thẳng xác định): sai — chuyển động quan sát được là giật cục, đổi hướng liên tục, không phải đường thẳng.\n  - D (chuyển động hỗn loạn, không ngừng): đúng — phù hợp với giải thích thuyết động học rằng phân tử luôn chuyển động ngẫu nhiên do nhiệt.\n✅ **Đáp án:** D. chuyển động hỗn loạn, không ngừng."
+    },
+    {
+      "id": 3,
+      "content": "Nhiệt nóng chảy $Q$ được xác định theo công thức nào dưới đây?",
+      "chuong": "vật lí nhiệt",
+      "dang": "bài tập: nhiệt nóng chảy riêng",
+      "type": "single",
+      "options": [
+        "A. $Q = \\lambda m$.",
+        "B. $Q = \\dfrac{m}{\\lambda}$.",
+        "C. $Q = Lm$.",
+        "D. $Q = \\dfrac{\\lambda}{m}$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Nêu khái niệm: *Nhiệt nóng chảy riêng* $\\lambda$ là lượng nhiệt cần cung cấp để làm tan chảy (từ rắn sang lỏng) 1 kg chất ở nhiệt độ nóng chảy, đơn vị là J/kg.\n- Từ định nghĩa, lượng nhiệt cần để làm tan chảy khối lượng $m$ là tỉ lệ thuận với $m$ và với hệ số tỉ lệ là $\\lambda$, nên công thức là\n$Q = \\lambda m.$\n- Kiểm tra các phương án: - A: $Q = \\lambda m$ — đúng theo định nghĩa trên.\n  - B: $Q = \\dfrac{m}{\\lambda}$ — sai về chiều đơn vị (sai công thức); không phù hợp với định nghĩa.\n  - C: $Q = Lm$ — nếu ký hiệu $L$ được dùng để chỉ nhiệt nóng chảy riêng thì dạng biểu thức tương đương về cấu trúc; tuy nhiên đề cho lựa chọn đúng là dùng ký hiệu $\\lambda$, nên phương án đúng theo đáp án chuẩn là A.\n  - D: $Q = \\dfrac{\\lambda}{m}$ — sai về cấu trúc và chiều đơn vị.\n✅ **Đáp án:** A. $Q = \\lambda m$."
+    },
+    {
+      "id": 4,
+      "content": "Một quả bóng khối lượng 100 g rơi từ độ cao 5 m xuống sàn và nảy lên được 4 m. Thì độ biến thiên nội năng của quả bóng trong thực tế là bao nhiêu? (Lấy $g = 10\\, \\text{m/s}^2$)",
+      "chuong": "vật lí nhiệt",
+      "dang": "bài tập: chuyển hóa năng lượng",
+      "type": "single",
+      "options": [
+        "A. 2 J.",
+        "B. lớn hơn 1 J.",
+        "C. nhỏ hơn 1 J.",
+        "D. 1 J."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Tính thế năng ban đầu của quả bóng tại độ cao 5 m:\n$E_i = m g h_1 = 0{,}1 \\times 10 \\times 5 = 5\\ \\text{J}.$\n- Tính thế năng khi quả bóng đạt độ cao tối đa sau nảy (4 m):\n$E_f = m g h_2 = 0{,}1 \\times 10 \\times 4 = 4\\ \\text{J}.$\n- Hiệu thế năng (tức là năng lượng cơ mất mát trong quá trình va chạm) là:\n$\\Delta E = E_i - E_f = 5 - 4 = 1\\ \\text{J}.$\n- Giải thích thực tế: năng lượng cơ bị mất 1 J trong va chạm không hoàn toàn chuyển thành nội năng của quả bóng. Trong thực tế, một phần năng lượng truyền sang sàn, phát ra âm thanh, sinh nhiệt ở sàn và không khí, chỉ một phần trong đó làm tăng nội năng của quả bóng. Do đó, độ biến thiên nội năng riêng của quả bóng sẽ *nhỏ hơn* tổng năng lượng cơ mất (1 J). Không đủ dữ kiện để xác định chính xác bằng bao nhiêu, chỉ có thể kết luận là nhỏ hơn 1 J.\n✅ **Đáp án:** C. nhỏ hơn 1 J."
+    },
+    {
+      "id": 5,
+      "content": "Ở điều kiện thường, iot là chất rắn dạng tinh thể màu đen tím. Khi đun nóng, iot có sự thăng hoa. Vậy sự thăng hoa của iot là sự chuyển trạng thái từ thể nào sang thể nào?",
+      "chuong": "vật lí nhiệt",
+      "dang": "lý thuyết: cấu trúc của chất. sự chuyển thể",
+      "type": "single",
+      "options": [
+        "A. lỏng sang rắn.",
+        "B. rắn sang lỏng.",
+        "C. rắn sang khí.",
+        "D. khí sang rắn."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Thăng hoa được định nghĩa là quá trình chuyển trực tiếp từ trạng thái *rắn* sang trạng thái *khí* mà không qua trạng thái lỏng.\n- Quan sát từ đề bài và ảnh: iot ở dạng tinh thể rắn, khi đun nóng xuất hiện hơi / khói tím mà không thấy chảy ra thành chất lỏng giữa lúc nóng — đây là dấu hiệu của thăng hoa.\n- Do đó, quá trình iot biến đổi trực tiếp từ rắn thành khí, chứ không phải rắn → lỏng hay lỏng → rắn hay khí → rắn.\n- Ví dụ để đối chiếu: băng khô (CO2 rắn) cũng thăng hoa trực tiếp thành CO2 khí khi nhiệt độ tăng, tương tự iot.\n✅ **Đáp án:** C. rắn sang khí."
+    },
+    {
+      "id": 6,
+      "content": "Khi lí tưởng là môi trường khí, trong đó các phân tử khí được xem như:",
+      "chuong": "khí lí tưởng",
+      "dang": "lý thuyết: thuyết động học phân tử chất khí",
+      "type": "single",
+      "options": [
+        "A. Chất điểm không có khối lượng, kích thước đáng kể.",
+        "B. Chất điểm và chỉ tương tác với nhau khi va chạm.",
+        "C. Những đối tượng không tương tác nhau và có thể tích bằng không.",
+        "D. Chất điểm có khối lượng hữu hạn nhau và có thể tích khác không."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Nhắc lại giả thiết cơ bản của khí lí tưởng theo sách giáo khoa: - Những phân tử khí được xem là *chất điểm* (kích thước và thể tích riêng của từng phân tử so với thể tích bình chứa là rất nhỏ, có thể bỏ qua), nhưng mỗi phân tử vẫn có khối lượng xác định.\n  - Giữa các phân tử không có lực tương tác liên tục; chúng chỉ tương tác tức thời khi va chạm (va chạm được coi là đàn hồi).\n- Giải thích vì sao các phương án khác sai: - A nói “Chất điểm không có khối lượng, kích thước đáng kể.” — Sai vì mặc dù bỏ qua kích thước, phân tử vẫn có khối lượng.\n  - C nói “Những đối tượng không tương tác nhau và có thể tích bằng không.” — Sai vì mặc dù thể tích riêng bỏ qua, nhưng phân tử vẫn tương tác khi va chạm; không phải hoàn toàn không tương tác.\n  - D nói “Chất điểm có khối lượng hữu hạn nhau và có thể tích khác không.” — Sai vì chất điểm trong mô hình lý tưởng có thể tích ≈ 0 (bỏ qua).\n- Dựa vào hình đính kèm (IMAGE DESCRIPTION): hình minh họa cho thấy các phân tử như các chấm nhỏ chuyển động và chỉ đổi hướng khi va chạm với nhau hoặc với thành bình — phù hợp với giả thiết “chỉ tương tác khi va chạm”.\n✅ **Đáp án:** B. Chất điểm và chỉ tương tác với nhau khi va chạm."
+    },
+    {
+      "id": 7,
+      "content": "Vào ban ngày và ban đêm hướng gió thổi thay đổi như thế nào?",
+      "chuong": "khí lí tưởng",
+      "dang": "lý thuyết: thuyết động học phân tử chất khí",
+      "type": "single",
+      "options": [
+        "A. Ban ngày gió thổi từ đất liền ra biển còn ban đêm gió thổi từ biển vào đất liền.",
+        "B. Ban ngày gió thổi từ Bắc tới Nam còn ban đêm gió thổi từ Nam tới Bắc.",
+        "C. Ban ngày gió thổi từ Nam tới Bắc còn ban đêm gió thổi từ Bắc tới Nam.",
+        "D. Ban ngày gió thổi từ biển vào đất liền còn ban đêm gió thổi từ đất liền ra biển."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Ban ngày: - Đất liền hấp thụ nhiệt nhanh hơn biển nên nóng lên nhanh hơn.\n  - Không khí ở trên đất nóng lên, giãn nở và bay lên làm cho áp suất không khí phía trên đất giảm (tạo vùng áp suất thấp).\n  - Không khí lạnh hơn trên biển có áp suất tương đối cao hơn sẽ thổi từ biển vào đất để cân bằng áp suất.\n  - Kết luận: vào ban ngày gió thổi từ biển vào đất liền (gió biển).\n- Ban đêm: - Đất liền tỏa nhiệt nhanh hơn biển nên nguội nhanh hơn; biển giữ nhiệt lâu hơn.\n  - Không khí trên đất lạnh hơn, có áp suất cao hơn so với không khí phía trên biển (áp suất tương đối cao trên đất).\n  - Không khí từ đất thổi ra biển (từ nơi áp suất cao đến nơi áp suất thấp).\n  - Kết luận: vào ban đêm gió thổi từ đất liền ra biển (gió đất).\n- Ví dụ minh họa: vào buổi trưa ven biển thường thấy gió thổi vào bờ (mát hơn), còn đêm khuya có lúc gió thổi hướng ra biển.\n✅ **Đáp án:** D. Ban ngày gió thổi từ biển vào đất liền còn ban đêm gió thổi từ đất liền ra biển."
+    },
+    {
+      "id": 8,
+      "content": "Công thức nào sau đây mô tả đúng nguyên lí I của Nhiệt động lực học?",
+      "chuong": "vật lí nhiệt",
+      "dang": "lý thuyết: thang nhiệt độ",
+      "type": "single",
+      "options": [
+        "A. $\\Delta U = - Q$",
+        "B. $\\Delta U = A + Q$",
+        "C. $\\Delta U = Q - A$",
+        "D. $A = \\Delta U - Q$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Nguyên lí I (định luật bảo toàn năng lượng cho hệ nhiệt động): biến thiên nội năng của hệ bằng tổng nhiệt lượng đưa vào hệ và công do ngoại lực thực hiện lên hệ. Viết dưới dạng:\n$\\Delta U = Q + A.$\n✅ **Đáp án:** B. $\\Delta U = A + Q$"
+    },
+    {
+      "id": 9,
+      "content": "Khi dùng nhiệt kế thủy ngân để đo nhiệt độ của chính cơ thể mình, người ta phải thực hiện các thao tác nào sau đây theo thứ tự hợp lí nhất?\na. Dùng bông lau sạch thân và bầu nhiệt kếb. Đặt nhiệt kế vào nách trái, rồi kẹp cánh tay lại để giữ nhiệt kếc. Lấy nhiệt kế ra khỏi nách để đọc nhiệt kếd. Kiểm tra xem thủy ngân đã tụt hết xuống bầu nhiệt kế chưa; Nếu chưa thì vẫy nhiệt kế cho thủy ngân tụt xuống\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tn-thpt-vat-ly-tinh-bac-ninh-lan-1-2026/cau-09.webp\" alt=\"Hình minh họa câu 9\" loading=\"lazy\"></figure>",
+      "chuong": "vật lí nhiệt",
+      "dang": "bài tập: đổi nhiệt độ cơ bản",
+      "type": "single",
+      "options": [
+        "A. a, b, c, d",
+        "B. d, b, c, a",
+        "C. d, a, b, c",
+        "D. b, a, c, d"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Kiểm tra trước xem cột thủy ngân (hoặc chất lỏng đo) đã tụt hết xuống bầu chưa; nếu còn đứng cao thì cần vẫy nhẹ (thao tác d). Giải thích: nếu không làm bước này, khi đo sẽ đọc được giá trị cũ, không phản ánh nhiệt độ hiện tại. (Lưu ý hình cho thấy cột chất lỏng đang nằm ngay trên 37°C — đó là kết quả sau khi đo.)\n- Lau sạch thân và bầu nhiệt kế bằng bông có cồn hoặc vải sạch (thao tác a). Giải thích: đảm bảo vệ sinh, tránh nhiễm khuẩn khi đặt vào nách.\n- Đặt nhiệt kế vào nách trái rồi kẹp cánh tay lại để giữ nhiệt kế (thao tác b). Giải thích: vị trí nách là vị trí đo thân nhiệt thường dùng khi tự đo; kẹp cánh tay giúp nhiệt kế tiếp xúc tốt với da, cho kết quả chính xác hơn.\n- Sau thời gian cần thiết (khoảng 3–5 phút với nhiệt kế thuỷ ngân), lấy nhiệt kế ra và đọc nhiệt độ ở ngang mắt (thao tác c). Giải thích: đọc ở ngang mắt để nhìn chính xác vạch thủy ngân/ chất lỏng; hình minh họa cho thấy cột chất lỏng đứng khoảng 37,1–37,2°C.\n- Vì vậy thứ tự hợp lí nhất là: d → a → b → c. Các thứ tự khác sai vì có thể đọc sai do chưa vẫy xuống, không vệ sinh, hoặc đặt nhiệt kế khi chưa chuẩn bị.\n✅ **Đáp án:** C. d, a, b, c"
+    },
+    {
+      "id": 10,
+      "content": "Nhiệt dung riêng của nước là 4200 J/kg.K điều này có nghĩa là:",
+      "chuong": "vật lí nhiệt",
+      "dang": "lý thuyết: nhiệt dung riêng",
+      "type": "single",
+      "options": [
+        "A. Nhiệt lượng cần thiết để làm cho 1kg nước nóng lên thêm 1°C là 4200 J.",
+        "B. Nhiệt lượng cần thiết để làm cho 2g nước nóng lên thêm 1°C là 4200 J.",
+        "C. Nhiệt lượng cần thiết để làm cho 1g nước nóng lên thêm 1°C là 4200 J.",
+        "D. Nhiệt lượng cần thiết để làm cho 1kg nước nóng lên thêm 20°C là 4200 J."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Nhiệt dung riêng c được định nghĩa: để làm vật có khối lượng 1 kg tăng thêm 1°C (hay 1 K) cần một lượng nhiệt là c. Công thức tổng quát:\n$Q = mc\\Delta T$\nvới Q (J), m (kg), c (J/kg·K), $\\Delta T$ (°C hoặc K).\n- Kiểm tra từng phương án: - Phương án A: \"Nhiệt lượng cần thiết để làm cho 1kg nước nóng lên thêm 1°C là 4200 J.\"\nThay m = 1 kg, $\\Delta T = 1^\\circ C$, $c = 4200$:\n$Q = 1\\cdot 4200 \\cdot 1 = 4200\\ \\text{J}.$\nKhớp với phát biểu → đúng.\n  - Phương án B: \"Nhiệt lượng cần thiết để làm cho 2g nước nóng lên thêm 1°C là 4200 J.\"\n2 g = 0,002 kg →\n$Q = 0{,}002\\cdot 4200 \\cdot 1 = 8{,}4\\ \\text{J},$\n≠ 4200 J → sai.\n  - Phương án C: \"Nhiệt lượng cần thiết để làm cho 1g nước nóng lên thêm 1°C là 4200 J.\"\n1 g = 0,001 kg →\n$Q = 0{,}001\\cdot 4200 \\cdot 1 = 4{,}2\\ \\text{J},$\n≠ 4200 J → sai.\n  - Phương án D: \"Nhiệt lượng cần thiết để làm cho 1kg nước nóng lên thêm 20°C là 4200 J.\"\nm = 1 kg, $\\Delta T = 20^\\circ C$ →\n$Q = 1\\cdot 4200 \\cdot 20 = 84\\,000\\ \\text{J},$\n≠ 4200 J → sai.\n✅ **Đáp án:** A. Nhiệt lượng cần thiết để làm cho 1kg nước nóng lên thêm 1°C là 4200 J."
+    },
+    {
+      "id": 11,
+      "content": "Hệ thức $\\Delta U = A + Q$ khi $Q < 0$ và $A > 0$ mô tả quá trình nào?",
+      "chuong": "vật lí nhiệt",
+      "dang": "lý thuyết: nội năng. định luật i nhiệt động lực học",
+      "type": "single",
+      "options": [
+        "A. Hệ truyền nhiệt và sinh công.",
+        "B. hệ nhận nhiệt và sinh công.",
+        "C. hệ nhận nhiệt và nhận công.",
+        "D. hệ truyền nhiệt và nhận công."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Theo quy ước trong phương trình $\\Delta U = A + Q$ ở đề: - Nếu $Q>0$ thì hệ *nhận nhiệt*; nếu $Q<0$ thì hệ *truyền nhiệt*. Ở đây $Q<0$ nên hệ truyền nhiệt.\n  - Ở phương trình này, ký hiệu $A$ được hiểu là công mà hệ *nhận* (công dương khi có công tác thực hiện lên hệ). Vì $A>0$ nên hệ nhận công.\n- Kết hợp hai kết luận trên: hệ vừa truyền nhiệt (do $Q<0$) vừa nhận công (do $A>0$).\n✅ **Đáp án:** D. hệ truyền nhiệt và nhận công."
+    },
+    {
+      "id": 12,
+      "content": "Khi nhiệt độ tuyệt đối tăng thêm 7 K thì:",
+      "chuong": "vật lí nhiệt",
+      "dang": "lý thuyết: thang nhiệt độ",
+      "type": "single",
+      "options": [
+        "A. Nhiệt độ Xen-xi tăng thêm 280°C.",
+        "B. Nhiệt độ Xen-xi tăng thêm 7°C.",
+        "C. Nhiệt độ Xen-xi tăng thêm 266°C.",
+        "D. Nhiệt độ Xen-xi tăng thêm 260°C."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Viết công thức chuyển đổi: $T(K)=t(^{\\circ}C)+273.$\n- Xét sự thay đổi: nếu $T$ tăng thêm \\$7\\ \\text{K}$ thì đặt $\\Delta T=7\\ \\text{K}.$\n- Từ công thức, các hằng số (273) không thay đổi, nên sự thay đổi của $T$ và $t$ bằng nhau:\n$\\Delta T=\\Delta t.$\n- Vì vậy nếu $\\Delta T=7\\ \\text{K}$ thì $\\Delta t=7\\ ^{\\circ}\\text{C}.$\n- Ví dụ minh họa: nếu ban đầu $t=20^{\\circ}C\\ (T=293\\ K)$, khi tăng thêm \\$7\\ K$ ta có $T=300\\ K$ tương đương $t=27^{\\circ}C$ (tăng 7°C).\n✅ **Đáp án:** B. Nhiệt độ Xen-xi tăng thêm 7°C."
+    },
+    {
+      "id": 13,
+      "content": "Một bệnh viện cần khử trùng dụng cụ y tế bằng hơi nước. Họ đã sử dụng nồi hơi để làm nóng nước từ nhiệt độ phòng 20°C đến khi nước chuyển hoàn toàn thành hơi ở 100°C. Biết rằng mỗi lần khử trùng, bệnh viện cần đun 10 kg nước. Nhiệt hóa hơi riêng của nước ở 100°C là \\$2{,}26 \\cdot 10^6$ J/kg và nhiệt dung riêng của nước là 4200 J/kg.K. Nhiệt lượng cần thiết để làm cho 10 kg nước ở 20°C chuyển hoàn toàn thành hơi nước ở 100°C là:",
+      "chuong": "vật lí nhiệt",
+      "dang": "bài tập tổng hợp chương 1",
+      "type": "single",
+      "options": [
+        "A. 3150 kJ.",
+        "B. 25750 kJ.",
+        "C. 169500 kJ.",
+        "D. 25960 kJ."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Bước 1: Xác định sự thay đổi nhiệt độ: $\\Delta T = 100^\\circ\\text{C} - 20^\\circ\\text{C} = 80\\ \\text{K}.$\n- Bước 2: Tính nhiệt cần để làm nóng nước từ 20°C đến 100°C bằng công thức:\n$Q_1 = m c \\Delta T.$\nThay số: $Q_1 = 10\\ \\text{kg} \\times 4200\\ \\text{J/kg·K} \\times 80\\ \\text{K} = 3{,}360{,}000\\ \\text{J} = 3360\\ \\text{kJ}.$\n- Bước 3: Tính nhiệt cần để hóa hơi 10 kg nước ở 100°C bằng công thức:\n$Q_2 = m L.$\nThay số: $Q_2 = 10\\ \\text{kg} \\times 2{,}26\\cdot 10^6\\ \\text{J/kg} = 22{,}600{,}000\\ \\text{J} = 22{,}600\\ \\text{kJ}.$\n- Bước 4: Tổng nhiệt cần là tổng hai phần:\n$Q = Q_1 + Q_2 = 3{,}360{,}000\\ \\text{J} + 22{,}600{,}000\\ \\text{J} = 25{,}960{,}000\\ \\text{J} = 25{,}960\\ \\text{kJ}.$\n- Kiểm tra nhanh: đáp án B (25750 kJ) gần nhưng sai khác 210 kJ; tính đúng theo dữ kiện cho trước cho kết quả 25960 kJ.\n✅ **Đáp án:** D. 25960 kJ."
+    },
+    {
+      "id": 14,
+      "content": "Tính nhiệt lượng $Q$ cần cung cấp để làm nóng chảy hoàn toàn 200g nước đá ở 0°C. Biết nhiệt nóng chảy riêng của nước đá bằng \\$3{,}34 \\cdot 10^5$ J/kg.",
+      "chuong": "vật lí nhiệt",
+      "dang": "bài tập: nhiệt nóng chảy riêng",
+      "type": "single",
+      "options": [
+        "A. $Q = 6{,}68\\,J$",
+        "B. $Q = 66{,}8\\,J$",
+        "C. $Q = 6{,}68\\,kJ$",
+        "D. $Q = 66{,}8\\,kJ$"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Chuyển khối lượng sang kilogram: $m = 200\\ \\text{g} = 0{,}200\\ \\text{kg}.$\n- Công thức dùng cho quá trình nóng chảy hoàn toàn: $Q = mL.$\n- Thay số vào:\n- Đổi sang kilôjun (1 kJ = 10^3 J): $Q = \\dfrac{6{,}68\\cdot10^{4}\\ \\text{J}}{10^{3}} = 66{,}8\\ \\text{kJ}.$\n- Kiểm tra các lựa chọn: kết quả tương ứng là 66,8 kJ.\n✅ **Đáp án:** D. $Q = 66{,}8\\,\\text{kJ}$"
+    },
+    {
+      "id": 15,
+      "content": "Bản tin dự báo thời tiết nhiệt độ của Bắc Ninh như sau: Bắc Ninh – ngày 20/10/2025 nhiệt độ từ 20°C đến 27°C. Nhiệt độ trên tương ứng với nhiệt độ nào trong thang nhiệt Kelvin?",
+      "chuong": "vật lí nhiệt",
+      "dang": "bài tập: đổi nhiệt độ cơ bản",
+      "type": "single",
+      "options": [
+        "A. Nhiệt độ từ 273 K đến 300 K.",
+        "B. Nhiệt độ từ 283 K đến 300 K.",
+        "C. Nhiệt độ từ 20 K đến 27 K.",
+        "D. Nhiệt độ từ 293 K đến 300 K."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Công thức chuyển đổi (theo chương trình THPT): $T(K)=T(^{\\circ}\\!C)+273\\ .$\n- Áp dụng cho biên dưới: \\$20^{\\circ}\\!C+273=293\\ \\text{K}.$\n- Áp dụng cho biên trên: \\$27^{\\circ}\\!C+273=300\\ \\text{K}.$\n- (Lưu ý: nếu dùng giá trị chính xác hơn \\$273{.}15$ ta được \\$20^{\\circ}\\!C=293{.}15\\ \\text{K}$ và \\$27^{\\circ}\\!C=300{.}15\\ \\text{K}$; làm tròn đến K nguyên vẫn cho khoảng từ 293 K đến 300 K.)\n✅ **Đáp án:** D. Nhiệt độ từ 293 K đến 300 K."
+    },
+    {
+      "id": 16,
+      "content": "Khi nói về khoảng cách trung bình giữa các phân tử trong chất rắn, chất lỏng, chất khí. Kết luận nào sau đây là đúng?",
+      "chuong": "vật lí nhiệt",
+      "dang": "lý thuyết: cấu trúc của chất. sự chuyển thể",
+      "type": "single",
+      "options": [
+        "A. Khoảng cách giữa các phân tử trong chất lỏng xa hơn so với các phân tử trong chất khí.",
+        "B. Khoảng cách giữa các phân tử trong chất lỏng xa hơn so với các phân tử trong chất rắn.",
+        "C. Khoảng cách giữa các phân tử trong chất lỏng gần hơn so với các phân tử trong chất khí.",
+        "D. Khoảng cách giữa các phân tử trong chất rắn xa hơn so với các phân tử trong chất lỏng."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Trong chất rắn: phân tử xếp gần nhau cố định, chỉ dao động quanh vị trí cân bằng ⇒ khoảng cách trung bình nhỏ nhất; mật độ lớn, lực liên kết mạnh hơn.\n- Trong chất khí: phân tử chuyển động nhanh, cách nhau rất xa so với chất lỏng và chất rắn ⇒ khoảng cách trung bình lớn nhất; mật độ nhỏ, lực liên kết rất yếu.\n- Trong chất lỏng: phân tử gần nhau hơn so với khí nhưng không cố định như trong rắn; chúng có thể chuyển vị tương đối nhưng vẫn duy trì khoảng cách trung bình nhỏ hơn khí và lớn hơn rắn.\n- Như vậy thứ tự khoảng cách trung bình thường là: chất rắn < chất lỏng < chất khí.\n- Ứng dụng vào các phương án: phương án đúng phải nói rằng khoảng cách giữa các phân tử trong chất lỏng < khoảng cách trong chất khí. Các phương án khác mâu thuẫn với thứ tự trên.\n✅ **Đáp án:** C. Khoảng cách giữa các phân tử trong chất lỏng gần hơn so với các phân tử trong chất khí."
+    },
+    {
+      "id": 17,
+      "content": "Một người thợ sửa xe phát hiện trên một số bộ phận bằng kim loại nhôm của xe bị hỏng. Để hàn một thanh nhôm bị gãy, người đó dùng một mô hình công suất 1,7 kW. Muốn hàn kín, cần làm nóng chảy 20 g nhôm ở chỗ gãy. Biết nhiệt độ ban đầu của thanh nhôm là 25°C, nhiệt độ nóng chảy, nhiệt dung riêng và nhiệt nóng chảy riêng của nhôm lần lượt là 660°C, 880 J/kg.K và \\$4 \\cdot 10^5$ J/kg. Thời gian từ lúc bắt đầu hàn đến lúc thanh nhôm nóng chảy hoàn toàn là 21 s. Hiệu suất của quá trình hàn này là:",
+      "chuong": "vật lí nhiệt",
+      "dang": "thực tế: nhiệt nóng chảy riêng",
+      "type": "single",
+      "options": [
+        "A. 56,4%.",
+        "B. 76,4%.",
+        "C. 63,5%.",
+        "D. 53,7%."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Chuyển khối lượng: $m=20\\ \\text{g}=0{,}02\\ \\text{kg}.$\n- Tính độ tăng nhiệt độ: $\\Delta T=660-25=635\\ \\text{K}.$\n- Nhiệt cần để nung nóng đến nhiệt nóng chảy:\n$Q_1=mc\\Delta T=0{,}02\\times880\\times635=11\\,176\\ \\text{J}.$\n- Nhiệt cần để làm nóng chảy (nhiệt nóng chảy):\n$Q_2=mL=0{,}02\\times4\\cdot10^5=8\\,000\\ \\text{J}.$\n- Tổng nhiệt cần thiết (nhiệt thuần túy dùng để nung + nóng chảy):\n$Q=Q_1+Q_2=11\\,176+8\\,000=19\\,176\\ \\text{J}.$\n- Năng lượng cung cấp từ máy hàn trong thời gian t:\n$E=P t=1\\,700\\times21=35\\,700\\ \\text{J}.$\n- Hiệu suất:\n$\\eta=\\dfrac{Q}{E}=\\dfrac{19\\,176}{35\\,700}\\approx0{,}5372\\approx53{,}72\\%.$\n- Làm tròn một chữ số thập phân: 53,7%.\n✅ **Đáp án:** D. 53,7%."
+    },
+    {
+      "id": 18,
+      "content": "Trong hệ SI, đơn vị của nhiệt hóa hơi riêng là:",
+      "chuong": "vật lí nhiệt",
+      "dang": "lý thuyết: nhiệt hóa hơi riêng",
+      "type": "single",
+      "options": [
+        "A. $A/1$.",
+        "B. $kJ/kg$.",
+        "C. $(J/kg)$.",
+        "D. $J/kg$."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- **Bước 1:** Nhắc lại định nghĩa: nhiệt hóa hơi riêng L là năng lượng cần cung cấp để biến đổi một đơn vị khối lượng chất lỏng thành hơi ở nhiệt độ không đổi.\n- **Bước 2:** Viết công thức liên quan:\n$L=\\frac{Q}{m}$\nTrong đó Q là nhiệt lượng (đơn vị là Joule, J) và m là khối lượng (đơn vị là kilogram, kg).\n- **Bước 3:** Suy ra đơn vị của L bằng cách lấy đơn vị của Q chia cho đơn vị của m:\n$[L]=\\frac{\\text{J}}{\\text{kg}}$\nVậy đơn vị chuẩn trong hệ SI là $\\mathrm{J/kg}$.\n✅ **Đáp án:** D. J/kg."
+    }
+  ]
+}

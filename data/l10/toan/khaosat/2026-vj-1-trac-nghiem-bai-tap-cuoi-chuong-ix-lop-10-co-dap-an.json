@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-trac-nghiem-bai-tap-cuoi-chuong-ix-lop-10-co-dap-an",
+  "sourceId": "vietjack:1-trac-nghiem-bai-tap-cuoi-chuong-ix-lop",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.Trắc nghiệm Bài tập cuối chương IX lớp 10 (có đáp án)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho E và \\(\\overline E \\) là hai biến cố đối nhau. Chọn câu đúng.",
+      "options": [
+        "A. P(E) = 1 + P( \\(\\overline E \\) );",
+        "B. P(E) = P( \\(\\overline E \\) );",
+        "C. P(E) = 1 - P( \\(\\overline E \\) );",
+        "D. P(E) + P( \\(\\overline E \\) ) = 0."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Theo sách giáo khoa toán 10 trang 85 bộ kết nối tri thức ta có cho E là một biến cố thì xác suất của biến cố \\(\\overline E \\) liên hệ với xác suất của E theo công thức: P( \\(\\overline E \\) ) = 1 – P(E) vậy P(E) = 1 –P( \\(\\overline E \\) )."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Gieo 3 đồng tiền xu là một phép thử ngẫu nhiên có không gian mẫu là:",
+      "options": [
+        "A. {NN; NS; SN; SS};",
+        "B. {NNN; SSS; NNS; SSN; NSN; SNS};",
+        "C. {NNN; SSS; NNS; SSN; NSN; SNS; NSS; SNN};",
+        "D. {NNN; SSS; NNS; SSN; NSS; SNN}."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Gieo 3 đồng tiền xu các kết quả có thể sảy ra là: {NNN; SSS; NNS; SSN; NSN; SNS; NSS; SNN}. Vậy không gian mẫu là: Ω = {NNN; SSS; NNS; SSN; NSN; SNS; NSS; SNN}"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho phép thử có không gian mẫu Ω = {1; 2; 3; 4; 5; 6}. Các cặp biến cố không đối nhau là",
+      "options": [
+        "A. A = {1} và B = {2; 3; 4; 5; 6};",
+        "B. C = {1; 4; 5} và D = {2; 3; 6}; .",
+        "C. E = {1; 4; 6} và F = {2; 3};",
+        "D. Ω và \\[\\emptyset \\] ."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Xét cặp biến cố A = {1} và B = {2; 3; 4; 5; 6} ta có \\(A \\cap B = \\emptyset \\) và A \\( \\cup \\) B = Ω nên A và B đối nhau Xét cặp biến cố C = {1; 4; 5} và D = {2; 3; 6} ta có \\(C \\cap D = \\emptyset \\) và C \\( \\cup \\) D = Ω nên C và D đối nhau Xét cặp biến cố E = {1; 4; 6} và F = {2; 3} ta có \\(E \\cap F = \\emptyset \\) và E \\( \\cup \\) F ≠ Ω nên E và F không đối nhau Xét cặp Ω và \\[\\emptyset \\] ta có \\(\\Omega \\cap \\emptyset = \\emptyset \\) và \\(\\Omega \\cup \\emptyset = \\Omega \\) nên cặp Ω và \\[\\emptyset \\] đối nhau"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Rút ra một lá bài từ bộ bài 52 lá. Xác suất để được lá át hay lá rô là",
+      "options": [
+        "A. \\(\\frac{1}{{52}}\\) ;",
+        "B. \\(\\frac{2}{{13}}\\) ;",
+        "C. \\(\\frac{4}{{13}}\\) ;",
+        "D. \\(\\frac{{17}}{{52}}\\) ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: C Số phần tử không gian mẫu: n( Ω ) = 52 (vì chọn 1 là bài trong 52 lá) Gọi A là biến cố: “lá bài rút được là lá át hoặc lá rô” ta có các trường hợp sau: Trường hợp 1, rút được lá át có 4 cách (vì có 4 lá át và rút ra 1 lá) Trường hợp 2, rút được lá rô có 12 cách (vì có 12 lá rô (trừ đi 1 lá át rô) và rút ra một lá) Số phần tử của biến cố A là: n(A) = 4 + 12 = 16. Xác suất của biến cố A là: \\[P\\left( A \\right) = \\frac{{n\\left( A \\right)}}{{n\\left( \\Omega \\right)}} = \\frac{{16}}{{52}} = \\frac{4}{{13}}\\] ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Gieo 2 con súc sắc và gọi kết quả xảy ra là tích số hai nút ở mặt trên. Số phần tử của không gian mẫu là:",
+      "options": [
+        "A. 9;",
+        "B. 18;",
+        "C. 29;",
+        "D. 39."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Gieo 2 con xúc sắc các cặp số có thể sảy ra là: (1; 1); (1; 2); (1; 3); (1; 4); (1; 5); (1; 6); (2; 1); (2; 2); (2; 3); (2; 4); (2; 5); (2; 6); (3; 1); (3; 2); (3; 3); (3; 4); (3; 5); (3; 6); (4; 1); (4; 2); (4; 3); (4; 4); (4; 5); (4; 6); (5; 1); (5; 2); (5; 3); (5; 4); (5; 5); (5; 6); (6; 1); (6; 2); (6; 3); (6; 4); (6; 5); (6; 6) Vậy tích các cặp số đó là: 1; 2; 3; 4; 5; 6; 8; 9; 10; 12; 15; 16; 18; 20; 24; 25; 30; 36 Không gian mẫu là Ω = {1; 2; 3; 4; 5; 6; 8; 9; 10; 12; 15; 16; 18; 20; 24; 25; 30; 36} Số phần tử của không gian mẫu là: n(Ω) = 18."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Gieo con súc sắc hai lần. Gọi A là biến cố để sau hai lần gieo có ít nhất một mặt 6 chấm xuất hiện. Số phần tử của biến cố A là:",
+      "options": [
+        "A. 8;",
+        "B. 9;",
+        "C. 10;",
+        "D. 11."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Vì gieo xúc sắc hai lần mà mặt 6 chấm xuất hiện ít nhất một lần nên ta liệt kê các phần tử của biến cố A như sau: A = {(1; 6); (2; 6); (3; 6); (4; 6); (5; 6); (6; 6); (6; 1); (6; 2); (6; 3); (6; 4); (6; 5)} Vậy số phần tử của biến cố A là: 11."
+    }
+  ]
+}

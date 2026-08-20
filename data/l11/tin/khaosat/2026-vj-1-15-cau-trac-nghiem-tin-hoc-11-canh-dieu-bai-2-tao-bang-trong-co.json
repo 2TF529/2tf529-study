@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-11-canh-dieu-bai-2-tao-bang-trong-co",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-11-canh-die",
+  "grade": "l11",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 11 Cánh diều Bài 2: Tạo bảng trong cơ sở dữ liệu có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Trong cơ sở dữ liệu, bảng là gì?",
+      "options": [
+        "A. Một tập hợp các hàng và cột để lưu trữ dữ liệu.",
+        "B. Một tập hợp các biểu mẫu để nhập dữ liệu.",
+        "C. Một tập hợp các báo cáo để hiển thị dữ liệu.",
+        "D. Một tập hợp các truy vấn để lấy dữ liệu."
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Bảng là cấu trúc cơ bản trong cơ sở dữ liệu để lưu trữ dữ liệu dưới dạng hàng và cột. Biểu mẫu (B), báo cáo (C) và truy vấn (D) là các thành phần khác trong cơ sở dữ liệu nhưng không dùng để lưu trữ dữ liệu trực tiếp."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cột nào trong bảng thường được dùng làm khóa chính?",
+      "options": [
+        "A. Cột lưu trữ dữ liệu kiểu số.",
+        "B. Cột chứa các giá trị duy nhất không lặp lại.",
+        "C. Cột chứa các giá trị chuỗi dài.",
+        "D. Cột chứa ngày tháng"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Khóa chính thường là cột có giá trị duy nhất và không lặp lại để xác định duy nhất từng bản ghi trong bảng. Các lựa chọn khác có thể đúng, nhưng không phải tiêu chí duy nhất để chọn khóa chính."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Khi thiết kế một bảng trong Access, loại dữ liệu nào nên dùng cho cột \"Ngày sinh\"?",
+      "options": [
+        "A. Short Text",
+        "B. Number",
+        "C. Date/Time",
+        "D. Currency"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Đối với ngày tháng, nên sử dụng kiểu dữ liệu Date/Time để có thể lưu trữ thông tin một cách chính xác và sử dụng các phép tính liên quan đến thời gian."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: : Trong bảng \"Sách\", cột nào có thể được lập chỉ mục (Indexed) để tăng tốc độ tìm kiếm?",
+      "options": [
+        "A. Mã sách",
+        "B. Số trang",
+        "C. Loại sách",
+        "D. Ngày nhận"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Cột Mã sách thường được lập chỉ mục để tăng tốc độ tìm kiếm và truy vấn. Các cột khác cũng có thể được lập chỉ mục nhưng không quan trọng bằng cột Mã sách."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Kiểu dữ liệu nào nên chọn cho cột \"Số trang\" trong bảng Sách?",
+      "options": [
+        "A. Short Text",
+        "B. Number",
+        "C. Currency",
+        "D. Date/Time"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Cột \"Số trang\" chứa số liệu, vì vậy nên chọn kiểu dữ liệu Number để có thể thực hiện các phép tính toán học nếu cần."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong một bảng cơ sở dữ liệu, \"Field Name\" là gì?",
+      "options": [
+        "A. Tên của bảng.",
+        "B. Tên của một cột trong bảng.",
+        "C. Tên của một hàng trong bảng.",
+        "D. Tên của một bản ghi trong bảng."
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: \"Field Name\" là tên của cột trong bảng, đại diện cho một loại dữ liệu cụ thể (như tên, tuổi, địa chỉ)."
+    }
+  ]
+}

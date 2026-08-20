@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-1-20-cau-trac-nghiem-toan-12-canh-dieu-bai-tap-cuoi-chuong-ii-dun",
+  "sourceId": "vietjack:1-20-cau-trac-nghiem-toan-12-canh-dieu-b",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.20 câu trắc nghiệm Toán 12 Cánh diều Bài tập cuối chương II (Đúng sai - Trả lời ngắn) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho hình lập phương ABCD.A'B'C'D' cạnh a. Khẳng định nào sau đây sai?",
+      "options": [
+        "A. \\(\\left| {\\overrightarrow {BD} } \\right| = a\\sqrt 2 \\).",
+        "B. \\(\\left| {\\overrightarrow {BD'} } \\right| = a\\sqrt 3 \\).",
+        "C. \\(\\overrightarrow {AC} + \\overrightarrow {A'C'} = \\overrightarrow 0 \\).",
+        "D. \\(\\overrightarrow {BA} + \\overrightarrow {BC} + \\overrightarrow {BB'} = \\overrightarrow {BD'} \\)."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng: C Vì \\(\\overrightarrow {AC} = \\overrightarrow {A'C'} \\) nên \\(\\overrightarrow {AC} + \\overrightarrow {A'C'} = 2\\overrightarrow {AC} \\)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hình lập phương ABCD.A'B'C'D' có tâm O. Gọi I là tâm của hình vuông A'B'C'D' và M là điểm thuộc đoạn thẳng OI sao cho \\(OM = \\frac{1}{2}MI\\) (tham khảo hình vẽ). Khẳng định nào sau đây đúng?",
+      "options": [
+        "A. \\(3\\overrightarrow {IM} = \\overrightarrow {OI} \\).",
+        "B. \\(\\overrightarrow {MO} = \\frac{1}{2}\\overrightarrow {IM} \\).",
+        "C. \\(\\overrightarrow {OM} = \\overrightarrow {MI} \\).",
+        "D. \\(\\overrightarrow {MI} = 2\\overrightarrow {MO} \\)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng: B \\(OM = \\frac{1}{2}MI\\)\\( \\Rightarrow \\overrightarrow {MO} = \\frac{1}{2}\\overrightarrow {IM} \\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho hình chóp đều S.ABCD có tất cả các cạnh bằng \\(2\\sqrt 3 \\). Tính độ dài vectơ \\(\\overrightarrow u = \\overrightarrow {SA} - \\overrightarrow {SC} \\).",
+      "options": [
+        "A. \\(\\sqrt 3 \\).",
+        "B. \\(\\sqrt 2 \\).",
+        "C. \\(2\\sqrt 6 \\).",
+        "D. \\(2\\sqrt 2 \\)."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng: C \\(\\overrightarrow u = \\overrightarrow {SA} - \\overrightarrow {SC} = \\overrightarrow {CA} \\)\\( \\Rightarrow \\left| {\\overrightarrow u } \\right| = \\left| {\\overrightarrow {CA} } \\right| = 2\\sqrt 3 .\\sqrt 2 = 2\\sqrt 6 \\)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Trong không gian Oxyz, cho hai điểm B(3; 7; 5) và K(−1; −5; −7). Tọa độ vectơ \\(\\overrightarrow {BK} \\) là",
+      "options": [
+        "A. (−1; −12; −12).",
+        "B. (4; 12; 12).",
+        "C. (−4; −10; −12).",
+        "D. (−4; −12; −12)."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng: D Ta có \\(\\overrightarrow {BK} = \\left( { - 4; - 12; - 12} \\right)\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Trong không gian Oxyz, cho hình vuông ABCD có B(3; 0; 8) và D(−5; −4; 0). Độ dài cạnh của hình vuông đã cho bằng",
+      "options": [
+        "A. \\(5\\sqrt 2 \\).",
+        "B. \\(6\\sqrt 2 \\).",
+        "C. 6.",
+        "D. 12."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng: B Cạnh của hình vuông có độ dài là \\(\\frac{{BD}}{{\\sqrt 2 }} = \\frac{{\\sqrt {{{\\left( { - 5 - 3} \\right)}^2} + {{\\left( { - 4} \\right)}^2} + {{\\left( {0 - 8} \\right)}^2}} }}{{\\sqrt 2 }} = 6\\sqrt 2 \\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong không gian với hệ tọa độ Oxyz, cho hai điểm A(1; 1; 0), B(2; −1; 3). Tìm tọa độ điểm C trên trục Oy để tam giác ABC vuông tại",
+      "options": [
+        "A. \\(\\left( {0;0;\\frac{1}{2}} \\right)\\).",
+        "B. (0; 2; 0).",
+        "C. \\(\\left( {\\frac{1}{2};0;0} \\right)\\).",
+        "D. \\(\\left( {0;\\frac{1}{2};0} \\right)\\)."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng: D Ta có C  Oy nên C(0; b; 0). Ta có \\(\\overrightarrow {AB} = \\left( {1; - 2;3} \\right),\\overrightarrow {AC} = \\left( { - 1;b - 1;0} \\right)\\). Để tam giác ABC vuông tại A thì \\(\\overrightarrow {AB} .\\overrightarrow {AC} = 0\\)\\( \\Leftrightarrow 1.\\left( { - 1} \\right) - 2\\left( {b - 1} \\right) = 0\\)\\( \\Leftrightarrow b = \\frac{1}{2}\\). Suy ra \\(\\left( {0;\\frac{1}{2};0} \\right)\\)."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Trong không gian Oxyz, cho ba điểm A(3; 2; −1), B(1; −3; 2), C(−2; 1; 3). Khi đó tọa độ của vectơ \\(\\overrightarrow {AB} + 2\\overrightarrow {AC} \\) là",
+      "options": [
+        "A. (−12; −7; 11).",
+        "B. (−9; −11; 10).",
+        "C. (12; 7; −11).",
+        "D. (−7; −6; 7)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng: A \\(\\overrightarrow {AB} = \\left( { - 2; - 5;3} \\right),\\overrightarrow {AC} = \\left( { - 5; - 1;4} \\right)\\). Suy ra \\(\\overrightarrow {AB} + 2\\overrightarrow {AC} = \\left( { - 12; - 7;11} \\right)\\)."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Trong không gian với hệ tọa độ Oxyz, cho A(1; 1; 1) và B(2; −1; 2). Tọa độ điểm M thỏa mãn \\(\\overrightarrow {MA} - 2\\overrightarrow {MB} = \\overrightarrow 0 \\) là",
+      "options": [
+        "A. (3; −3; 3).",
+        "B. (−3; −3; 3).",
+        "C. (3; −3; −3).",
+        "D. (−3; 3; 3)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng: A Gọi M(x; y; z). Có \\(\\overrightarrow {MA} = \\left( {1 - x;1 - y;1 - z} \\right),\\overrightarrow {MB} = \\left( {2 - x; - 1 - y;2 - z} \\right)\\). \\(\\overrightarrow {MA} - 2\\overrightarrow {MB} = \\overrightarrow 0 \\)\\( \\Leftrightarrow \\overrightarrow {MA} = 2\\overrightarrow {MB} \\)\\( \\Leftrightarrow \\left\\{ \\begin{array}{l}1 - x = 2\\left( {2 - x} \\right)\\\\1 - y = 2\\left( { - 1 - y} \\right)\\\\1 - z = 2\\left( {2 - z} \\right)\\end{array} \\right.\\)\\( \\Leftrightarrow \\left\\{ \\begin{array}{l}x = 3\\\\y = - 3\\\\z = 3\\end{array} \\right.\\). Suy ra M(3; −3; 3)."
+    }
+  ]
+}

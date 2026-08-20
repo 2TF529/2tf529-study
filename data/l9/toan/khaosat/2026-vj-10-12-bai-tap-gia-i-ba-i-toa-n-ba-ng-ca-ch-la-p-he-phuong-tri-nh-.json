@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-10-12-bai-tap-gia-i-ba-i-toa-n-ba-ng-ca-ch-la-p-he-phuong-tri-nh-",
+  "sourceId": "vietjack:10-12-bai-tap-gia-i-ba-i-toa-n-ba-ng-ca-",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "10.12 bài tập Giải bài toán bằng cách lập hệ phương trình dạng toán tìm số có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Tìm số tự nhiên có hai chữ số, biết tổng các chữ số của nó bằng 10, nếu đổi chỗ hai chữ số hàng chục và hàng đơn vị cho nhau thì số đó tăng thêm 27 đơn vị.",
+      "options": [
+        "A. 19.",
+        "B. 91.",
+        "C. 37.",
+        "D. 73."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Gọi số cần tìm là \\(\\overline {ab} \\) (0 < a ≤ 9; 0 ≤ b ≤ 9; a, b ∈ ℕ). Theo đề, tổng các chữ số bằng 11 nên ta có a + b = 10 (1). Nếu đổi chỗ hai chữ số hàng chục và hàng đơn vị ta được số mới là \\(\\overline {ba} \\). Số mới tăng thêm 72 đơn vị suy ra \\(\\overline {ba} \\) − \\(\\overline {ab} \\) = 72 hay 10b + a – 10a – b = 72 Suy ra 9b – 9a = 27 hay b – a = 8 (2) Từ (1) và (2) ta có hệ phương trình \\(\\left\\{ \\begin{array}{l}a + b = 10\\\\b - a = 8\\end{array} \\right.\\) Thế a = 10 – b vào phương trình thứ (2) ta được b – 10 + b = 8 hay b = 9 (thỏa mãn). Thay b = 9 vào phương trình (1) suy ra a = 1 (thỏa mãn) Vậy số cần tìm là 19."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hai số biết rằng 4 lần số thứ hai cộng 5 lần số thứ nhất bằng 18040 và 3 lần số thứ nhất hơn 2 lần số thứ hai là 2002. Số bé là",
+      "options": [
+        "A. 2004.",
+        "B. 2005.",
+        "C. 2003.",
+        "D. 2002."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Gọi hai số cần tìm lần lượt là x, y. Theo đề, ta có 4 lần số thứ nhất cộng 5 lần số thứ hai bằng 18040 nên ta có phương trình 5x + 4y = 18040 (1). Và 3 lần số thứ nhất hơn 2 lần số thứ 2 là 2002 nên ta có phương trình: 3x – 2y = 2002 (2). Từ (1) và (2) ta có hệ phương trình \\(\\left\\{ \\begin{array}{l}5x + 4y = 18040\\\\3x - 2y = 2002\\end{array} \\right.\\). Giải hệ phương trình ta được x= 2004 (thỏa mãn) và y = 2005. Vậy hai số đó là 2004 và 2005."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho một số có hai chữ số. Nếu đổi chỗ hai chữ số của nó thì được một số lớn hơn số đã cho là 63. Tổng của số đã cho và số tạo thành bằng 99. Số đã cho là",
+      "options": [
+        "A. 18.",
+        "B. 81.",
+        "C. 27.",
+        "D. 19."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Goi số cần tìm là \\(\\overline {ab} \\) (0 < a ≤ 9; 0 ≤ b ≤ 9; a, b ∈ ℕ). Nếu đổi chỗ hai số đó ta được số mới là \\(\\overline {ba} \\). Số mới hơn số ban đầu 63 đơn vị nên ta có \\(\\overline {ba} \\) −\\(\\overline {ab} \\) = 63 hay 10b + a – 10a – b = 63 Suy ra 9b – 9a = 63 hay b – a = 7 (1). Tổng của số đã cho và số tạo thành là 99 nên ta có \\(\\overline {ba} \\) + \\(\\overline {ab} \\) = 99 hay 11a + 11b = 99 Suy ra a + b = 9 (2). Từ (1) và (2) ta có hệ phương trình \\(\\left\\{ \\begin{array}{l}b - a = 7\\\\a + b = 9\\end{array} \\right.\\). Giải hệ phương trình suy ra a = 1 và b = 8. Vậy số cần tìm là 18."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Tìm số tự nhiên có hai chữ số biết rằng chữ số hàng đơn vị lớn hơn chữ số hàng chục là 2, nếu viết xen chữ số 0 vào giữa chữ số hàng chục và chữ số hàng đơn vị thì số đó tăng thêm 630 đơn vị.",
+      "options": [
+        "A. 97.",
+        "B. 79.",
+        "C. 68.",
+        "D. 86."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Gọi số cần tìm là \\(\\overline {ab} \\) (0 < a ≤ 9; 0 ≤ b ≤ 9; a, b ∈ ℕ). Theo đề, chữ số hàng đơn vị lớn hơn chữ số hàng chục là 2 nên ta có b – a = 2 (1). Nếu viết xen số 0 vào giữa thì ta được số mới là \\(\\overline {a0b} \\). Lúc này, số mới hơn số ban đầu 630 đơn vị nên \\(\\overline {a0b} \\) − \\(\\overline {ab} \\) = 630 hay 100a + b – 10a – b = 630 hay 90a = 630 (2) Từ (1) và (2) ta có hệ phương trình \\(\\left\\{ \\begin{array}{l}b - a = 2\\\\90a = 630\\end{array} \\right.\\). Từ phương trình (2) suy ra a = 7 (thỏa mãn). Thay a = 7 vào phương trình (1) suy ra b = 9. Vậy số cần tìm là 79."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Chữ số hàng chục của một số có hai chữ số lớn hơn chữ số hàng đơn vị là 5. Nếu đổi chỗ hai chữ số đó cho nhau ta được một số bằng \\(\\frac{3}{8}\\) số ban đầu. Tìm số ban đầu.",
+      "options": [
+        "A. 27.",
+        "B. 72.",
+        "C. 16.",
+        "D. 61."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Gọi số cần tìm là \\(\\overline {ab} \\) (0 < a ≤ 9; 0 ≤ b ≤ 9; a, b ∈ ℕ). Theo đề, chữ số hàng chục lớn hơn chữ số hàng đơn vị là 5 nên ta có a – b = 5 (1). Nếu đổi chỗ hai chữ số ta được số mới là \\(\\overline {ba} \\). Số mới bằng \\(\\frac{3}{8}\\) số ban đầu nên \\(\\overline {ba} \\) = \\(\\frac{3}{8}\\)\\(\\overline {ab} \\) hay 8\\(\\overline {ba} \\) = 3\\(\\overline {ab} \\) Suy ra 80b + 8a = 30a + 3b hay 77b – 22a = 0 hay 7b – 2a = 0 (2). Từ (1) và (2) ta có hệ phương trình \\(\\left\\{ \\begin{array}{l}a - b = 5\\\\7b - 2a = 0\\end{array} \\right.\\) Thay a = 5 + b vào (2) ta được 7b – 10 – 2b = 0 hay 5b = 10 suy ra b = 2 (thỏa mãn) Với b = 2 thì a = 7 (thỏa mãn). Vậy số cần tìm là 72."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Tìm một số tự nhiên có hai chữ số, biết rằng chữ số hàng chục kém chữ số hàng đơn vị là 4 đơn vị và tổng bình phương của hai chữ số là 80.",
+      "options": [
+        "A. 48.",
+        "B. 84.",
+        "C. 62.",
+        "D. 26."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Gọi số cần tìm là \\(\\overline {ab} \\) (0 < a ≤ 9; 0 ≤ b ≤ 9; a, b ∈ ℕ). Theo đề chữ số hàng chục kém hàng đơn vị là 4 nên ta có b – a = 4 (1). Tổng bình phương của hai chữ số là 80 nên ta có: a 2 + b 2 = 80 (2). Từ (1) và (2) ta có hệ phương trình \\(\\left\\{ \\begin{array}{l}b - a = 4\\\\{a^2} + {b^2} = 80\\end{array} \\right.\\). Thay b = 4 + a vào phương trình (2) ta được a 2 + (a + 4) 2 = 80 nên 2a 2 + 8a – 64 = 0 Suy ra a = 4 (thỏa mãn) hoặc a = −8 (loại). Với a = 4 thì b = 8 (thỏa mãn). Vậy số cần tìm là 48."
+    }
+  ]
+}

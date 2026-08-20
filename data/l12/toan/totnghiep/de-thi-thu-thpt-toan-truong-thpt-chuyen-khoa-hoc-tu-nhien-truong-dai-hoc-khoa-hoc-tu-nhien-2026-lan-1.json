@@ -1,0 +1,196 @@
+{
+  "id": "l12-toan-totnghiep-2026-de-thi-thu-thpt-toan-truong-thpt-chuyen-khoa-hoc-tu-nhien-truong-dai-hoc-khoa-hoc-tu-nhien-2026-lan-1",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "code": "THPT_TTT_2026_KHTN_01",
+  "title": "Đề thi thử THPT môn Toán trường THPT Chuyên Khoa học Tự nhiên Trường Đại học Khoa học Tự nhiên năm 2026 - Lần 1",
+  "duration": 90,
+  "answerSource": "official",
+  "source": "https://dolthpt.vn/tot-nghiep-thpt/pdf-de-thi-thu-thpt-toan-truong-thpt-chuyen-khoa-hoc-tu-nhien-truong-dai-hoc-khoa-hoc-tu-nhien-2026-lan-1-co-dap-an",
+  "notes": "Nội dung, đáp án và lời giải được nhập từ bản công khai của DOL THPT.",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "content": "Trong không gian Oxyz, điểm nào sau đây thuộc đường thẳng $d:\\frac{x-1}{1}=\\frac{y-1}{1}=\\frac{z-3}{2}$ ?",
+      "chuong": "phương pháp tọa độ trong không gian",
+      "dang": "phương trình đường thẳng",
+      "type": "single",
+      "options": [
+        "A. $M(-1;-1;-3)$.",
+        "B. $N(1;1;2)$.",
+        "C. $P(-1;-1;-2)$.",
+        "D. $Q(1;1;3)$."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Đường thẳng: $d:\\frac{x-1}{1}=\\frac{y-1}{1}=\\frac{z-3}{2}.$\n- Các điểm được cho: - A: $M(-1;-1;-3).$\n  - B: $N(1;1;2).$\n  - C: $P(-1;-1;-2).$\n- - D:  $Q(1;1;3).$\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu: xác định điểm nào thuộc đường thẳng đã cho.\n- Kiến thức cần dùng: chuyển dạng tham số của đường thẳng từ dạng đối xứng và kiểm tra xem toạ độ của từng điểm có thỏa hệ tham số hay không.\n🔎 **Hướng dẫn cách làm:**\n- Viết dạng tham số của đường thẳng bằng cách đặt mọi tỷ số bằng một tham số $t$: - $\\frac{x-1}{1}=\\frac{y-1}{1}=\\frac{z-3}{2}=t.$\n- Suy ra phương trình tham số: - $x=1+t,\\quad y=1+t,\\quad z=3+2t.$\n- Kiểm tra từng điểm: - Điểm $Q(1;1;3)$: nếu $t=0$ thì $x=1+0=1,\\ y=1+0=1,\\ z=3+2\\cdot0=3$ ⇒ thỏa. Vậy Q thuộc d.\n  - Điểm $M(-1;-1;-3)$: từ $x=1+t=-1$ suy ra $t=-2$; khi đó $z=3+2(-2)= -1\\neq -3$ ⇒ M không thuộc d.\n  - Điểm $N(1;1;2)$: từ $x=1+t=1$ suy ra $t=0$; khi đó $z=3\\neq 2$ ⇒ N không thuộc d.\n  - Điểm $P(-1;-1;-2)$: từ $x=1+t=-1$ suy ra $t=-2$; khi đó $z=3+2(-2)=-1\\neq -2$ ⇒ P không thuộc d.\n✅ **Đáp án:** D. $Q(1;1;3)$"
+    },
+    {
+      "id": 2,
+      "content": "Nghiệm của phương trình \\$2^{x+1}=16$ là",
+      "chuong": "hàm số mũ và hàm số lôgarit",
+      "dang": "phương trình mũ",
+      "type": "single",
+      "options": [
+        "A. $x=9$.",
+        "B. $x=5$.",
+        "C. $x=3$.",
+        "D. $x=7$."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Phương trình cần giải: \\$2^{x+1}=16$\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu tìm giá trị của $x$ thỏa mãn phương trình.\n- Cần biết cách biểu diễn số 16 dưới dạng lũy thừa của 2 và quy tắc: nếu \\$2^a=2^b$ thì $a=b$.\n🔎 **Hướng dẫn cách làm:**\n- Viết lại số 16 dưới dạng lũy thừa của 2: \\$16=2^4$.\n- Thay vào phương trình ta được: \\$2^{x+1}=2^4$.\n- Do cơ số giống nhau và dương nên ta có: $x+1=4$.\n- Giải phương trình bậc nhất: $x=4-1$, suy ra $x=3$.\n- Kiểm tra lại: thay $x=3$ vào phương trình ban đầu: \\$2^{3+1}=2^4=16$, đúng.\n✅ **Đáp án:**   $C. x=3.$"
+    },
+    {
+      "id": 3,
+      "content": "Cho hàm số $f(x)$ có bảng biến thiên như hình. Hàm số đã cho nghịch biến trên khoảng nào dưới đây?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-thi-thu-thpt-toan-truong-thpt-chuyen-khoa-hoc-tu-nhien-truong-dai-hoc-khoa-hoc-tu-nhien-2026-lan-1/cau-03.webp\" alt=\"Hình minh họa câu 3\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "tính đơn điệu của hàm số",
+      "type": "single",
+      "options": [
+        "A. $(-2;0)$.",
+        "B. $(-1;2)$.",
+        "C. $(-\\infty;-1)$.",
+        "D. $(2;+\\infty)$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Bảng biến thiên cho hàm số $f(x)$ với các điểm phân chia: $-1$ và \\$2$.\n- Dấu của đạo hàm: $f'(x)>0$ trên $(-\\infty,-1)$, $f'(-1)=0$, $f'(x)<0$ trên $(-1,2)$, $f'(2)=0$, $f'(x)>0$ trên $(2,+\\infty)$.\n- Giá trị hàm tại các điểm: $f(-1)=0$ (đỉnh cực đại cục bộ), $f(2)=-2$ (đáy cực tiểu cục bộ). Bảng thể hiện hàm tăng lên đến $x=-1$, sau đó giảm đến $x=2$, rồi tăng tiếp.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi: Hàm số đã cho nghịch biến (giảm) trên khoảng nào?\n- Khái niệm cần dùng: mối liên hệ giữa dấu của đạo hàm $f'(x)$ và tính đơn điệu của hàm: - Nếu $f'(x)<0$ trên một khoảng thì $f$ *nghịch biến* trên khoảng đó.\n  - Nếu $f'(x)>0$ trên một khoảng thì $f$ *đồng biến* trên khoảng đó.\n🔎 **Hướng dẫn cách làm:**\n- Nhắc lại quy tắc: $f'(x)<0 \\Rightarrow f \\text{ nghịch biến trên khoảng đó.}$\n- Nhìn vào bảng biến thiên (theo mô tả ảnh): - Trên khoảng $(-\\infty,-1)$ có $f'(x)>0$ ⇒ $f$ tăng.\n  - Tại $x=-1$: $f'(-1)=0$ (cực đại).\n  - Trên khoảng $(-1,2)$ có $f'(x)<0$ ⇒ $f$ giảm (nghịch biến).\n  - Tại $x=2$: $f'(2)=0$ (cực tiểu).\n  - Trên khoảng $(2,+\\infty)$ có $f'(x)>0$ ⇒ $f$ tăng.\n- Kết luận: khoảng mà hàm *nghịch biến* là nơi đạo hàm âm, tức là $(-1,2).$\n✅ **Đáp án:** B. $(-1;2)$"
+    },
+    {
+      "id": 4,
+      "content": "Trong không gian $Oxyz$, cho hai điểm $A(1;-2;-1)$ và $B(3;4;-3)$. Trung điểm của đoạn thẳng $AB$ có tọa độ là",
+      "chuong": "vectơ và hệ trục tọa độ trong không gian",
+      "dang": "tọa độ của điểm, tọa độ của vectơ trong không gian",
+      "type": "single",
+      "options": [
+        "A. $(1;3;-1)$.",
+        "B. $(2;1;-2)$.",
+        "C. $(2;1;-12)$.",
+        "D. $(2;-1;-2)$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Điểm $A(1;-2;-1)$.\n- Điểm $B(3;4;-3)$.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu tìm *tọa độ trung điểm* của đoạn thẳng $AB$.\n- Ta cần vận dụng công thức trung điểm trong không gian: trung điểm có các hoành độ bằng trung bình cộng các tọa độ tương ứng của hai đầu đoạn.\n🔎 **Hướng dẫn cách làm:**\n- Công thức trung điểm M của đoạn nối hai điểm $A(x_1;y_1;z_1)$ và $B(x_2;y_2;z_2)$ là:\n$M\\left(\\dfrac{x_1+x_2}{2};\\dfrac{y_1+y_2}{2};\\dfrac{z_1+z_2}{2}\\right).$\n- Áp dụng vào $A(1;-2;-1)$ và $B(3;4;-3)$: - Hoành độ: $\\dfrac{1+3}{2}=\\dfrac{4}{2}=2.$\n  - Tung độ: $\\dfrac{-2+4}{2}=\\dfrac{2}{2}=1.$\n  - Tọa độ cao: $\\dfrac{-1+(-3)}{2}=\\dfrac{-4}{2}=-2.$\n- Vậy trung điểm $M$ có tọa độ $M(2;1;-2).$\n✅ **Đáp án:** $\\text{B. }(2;1;-2).$"
+    },
+    {
+      "id": 5,
+      "content": "Đồ thị của hàm số $y=\\frac{x+2}{x-}2}$ có tiệm cận ngang là",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "đường tiệm cận ngang",
+      "type": "single",
+      "options": [
+        "A. $x=2$.",
+        "B. $x=-2$.",
+        "C. $y=1$.",
+        "D. $y=-1$."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số: $y=\\frac{x+2}{x-}2}$\n❓ **Hiểu câu hỏi:**\n- Câu hỏi: *Đồ thị của hàm số có tiệm cận ngang là gì?*\n- Kiến thức cần áp dụng: - Định nghĩa **tiệm cận ngang** của đồ thị hàm số (giá trị giới hạn của hàm khi $x \\to \\pm\\infty$).\n  - Quy tắc so sánh bậc của tử và mẫu của phân thức hữu tỉ: nếu bậc tử = bậc mẫu, tiệm cận ngang là đường ngang có phương trình bằng tỉ số hệ số cao nhất của tử và mẫu.\n🔎 **Hướng dẫn cách làm:**\n- Viết lại hàm số: $y=\\frac{x+2}{x-}2}.$\n- Cách 1 (so sánh bậc): Tử và mẫu đều là đa thức bậc 1, hệ số của $x$ ở cả hai là \\$1$, nên tiệm cận ngang là $y=\\frac{1}{1}=1.$\n- Cách 2 (chia và xét giới hạn): Ta biến đổi\n$\\frac{x+2}{x-}2}=\\frac{(x-2)+4}{x-}2}=1+\\frac{4}{x-}2}.$\nKhi $x\\to\\pm\\infty$ thì $\\frac{4}{x-}2}\\to 0$, do đó $y\\to 1.$\n- Kết luận từ cả hai cách đều cho thấy đường ngang tới của đồ thị là $y=1.$\n✅ **Đáp án:** $C. y=1.$"
+    },
+    {
+      "id": 6,
+      "content": "Hàm số nào dưới đây có đồ thị là đường cong trong hình bên?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-thi-thu-thpt-toan-truong-thpt-chuyen-khoa-hoc-tu-nhien-truong-dai-hoc-khoa-hoc-tu-nhien-2026-lan-1/cau-06.webp\" alt=\"Hình minh họa câu 6\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "khảo sát và vẽ đồ thị hàm số đa thức bậc ba",
+      "type": "single",
+      "options": [
+        "A. $y=-x^2+2x-2$.",
+        "B. $y=x^2-2x-2$.",
+        "C. $y=-x^3+3x^2-2$.",
+        "D. $y=x^3-3x^2-2$."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cho **đồ thị của một hàm số** (hình vẽ bên).\n- Đồ thị có các đặc điểm quan sát được: - Là **đường cong**, không phải đường thẳng.\n  - Có **hai điểm uốn/cực trị** → dạng **hàm bậc ba**.\n  - Nhánh **bên phải đi xuống** khi $x$ tăng lớn.\n  - Đồ thị **cắt trục tung tại điểm có tung độ âm**.\n- Các phương án cho dưới dạng: - A, B: hàm **bậc hai**.\n  - C, D: hàm **bậc ba**.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu:\n👉 *Hàm số nào có đồ thị trùng với hình vẽ đã cho?*\n- Học sinh cần vận dụng: - Nhận dạng **dạng đồ thị theo bậc của hàm số**.\n  - Xét **chiều nhánh trái – phải** để xác định dấu của hệ số bậc cao nhất.\n  - So sánh **tung độ tại **$x=0$ với đồ thị.\n🔎 **Hướng dẫn cách làm:**\n- **Bước 1: Loại các phương án không phù hợp về bậc** - Đồ thị có **hai điểm cực trị** ⇒ hàm **bậc ba**.\n  - Loại: - A: $y=-x^2+2x-2$ (bậc hai)\n    - B: $y=x^2-2x-2$ (bậc hai)\n- **Bước 2: Xét chiều nhánh của đồ thị** - Quan sát hình: - Khi $x \\to +\\infty$ thì $y \\to -\\infty$\n  - ⇒ Hệ số của $x^3$ **âm**.\n- **Bước 3: So sánh với các phương án bậc ba** - Phương án C:   $y=-x^3+3x^2-2$  ✅ (hệ số $x^3$ âm)\n  - Phương án D:   $y=x^3-3x^2-2$ ❌ (hệ số $x^3$ dương)\n- **Bước 4: Kiểm tra nhanh tung độ tại trục **$Oy$ - Với phương án C:   $y(0)=-2$\n  - Phù hợp với đồ thị: **điểm cắt trục tung nằm dưới trục hoành**.\n✅ **Đáp án:**  $\\boxed{y=-x^3+3x^2-2}$\n👉 **Chọn đáp án C.** ✅"
+    },
+    {
+      "id": 7,
+      "content": "Trong khoảng $(0;2\\pi)$, phương trình \\$2\\sin x=1$ có bao nhiêu nghiệm?",
+      "chuong": "hàm số lượng giác và phương trình lượng giác",
+      "dang": "phương trình sinx=m",
+      "type": "single",
+      "options": [
+        "A. \\$1$.",
+        "B. \\$2$.",
+        "C. \\$3$.",
+        "D. \\$4$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Phương trình: \\$2\\sin x = 1$\n- Khoảng xét nghiệm: $(0;2\\pi)$\n- Từ phương trình suy ra: $\\sin x = \\dfrac{1}{2}$\n❓ **Hiểu câu hỏi:**\n- Câu hỏi: Hỏi trong khoảng $(0;2\\pi)$ phương trình \\$2\\sin x=1$ có bao nhiêu nghiệm.\n- Kiến thức cần dùng: cách giải phương trình lượng giác cơ bản, công thức nghiệm tổng quát của $\\sin x = a$, và kiến thức về góc tham chiếu/trục đơn vị.\n🔎 **Hướng dẫn cách làm:**\n- Chia hai vế cho 2: $\\sin x=\\dfrac{1}{2}.$\n- Nghiệm tổng quát của $\\sin x=\\dfrac{1}{2}$ là\n$x=\\dfrac{\\pi}{6}+2k\\pi\\quad\\text{hoặc}\\quad x=\\dfrac{5\\pi}{6}+2k\\pi,\\quad k\\in\\mathbb{Z}.$\n- Xét trong khoảng $(0;2\\pi)$, thử các giá trị của $k$: - Với $k=0$: $x=\\dfrac{\\pi}{6}$ và $x=\\dfrac{5\\pi}{6}$ đều thuộc $(0;2\\pi)$.\n  - Với $k=1$: hai nghiệm đều lớn hơn \\$2\\pi$, không lấy.\n  - Với $k=-1$: hai nghiệm đều âm hoặc nhỏ hơn 0, không lấy.\n- Do đó trong khoảng $(0;2\\pi)$ chỉ có đúng hai nghiệm: $x=\\dfrac{\\pi}{6}$ và $x=\\dfrac{5\\pi}{6}$.\n- Lưu ý: các điểm \\$0$ và \\$2\\pi$ bị loại vì khoảng là mở.\n✅ **Đáp án:** B. \\$2.$"
+    },
+    {
+      "id": 8,
+      "content": "Trong không gian $Oxyz$, vectơ nào sau đây là một vectơ pháp tuyến của mặt phẳng $(P): x-y-z+2=0$?",
+      "chuong": "phương pháp tọa độ trong không gian",
+      "dang": "vectơ pháp tuyến và cặp vectơ chỉ phương của mặt phẳng",
+      "type": "single",
+      "options": [
+        "A. $\\vec n=(1;-1;2)$.",
+        "B. $\\vec n=(-1;-1;2)$.",
+        "C. $\\vec n=(2;-1;-1)$.",
+        "D. $\\vec n=(1;-1;-1)$."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Mặt phẳng $(P): x - y - z + 2 = 0$ trong không gian $Oxyz$.\n- Xác định vectơ pháp tuyến.\n- Các phương án (cho dưới dạng vectơ):\nA. $\\vec n=(1;-1;2)$; B. $\\vec n=(-1;-1;2)$; C. $\\vec n=(2;-1;-1)$; D. $\\vec n=(1;-1;-1)$.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi: Vectơ nào trong các phương án là một vectơ pháp tuyến của mặt phẳng $(P)$?\n- Cần áp dụng kiến thức: vectơ pháp tuyến của mặt phẳng có phương trình dạng $ax+by+cz+d=0$ là $\\vec n=(a;b;c)$.\n🔎 **Hướng dẫn cách làm:**\n- Nhắc lại quy tắc: Nếu mặt phẳng có phương trình $ax+by+cz+d=0$ thì vectơ pháp tuyến là $\\vec n=(a;b;c)$.\n- Áp dụng vào phương trình $x - y - z + 2 = 0$ ta có hệ số: $a=1,\\; b=-1,\\; c=-1$.\n- Vậy vectơ pháp tuyến của (P) là $\\vec n=(1;-1;-1)$.\n- So sánh với các phương án: chỉ có phương án D cho vectơ $\\vec n=(1;-1;-1)$ đúng bằng kết quả trên; các phương án A, B, C đều khác.\n✅ **Đáp án:** D. $\\vec n=(1;-1;-1)$"
+    },
+    {
+      "id": 9,
+      "content": "Cho hàm số $f(x)$ có đạo hàm $f'(x)=(x+1)x^2(x-3)^3,\\ \\forall x\\in\\mathbb{R}$. Hàm số đã cho có bao nhiêu điểm cực trị?",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "cực trị của hàm số",
+      "type": "single",
+      "options": [
+        "A. \\$2$.",
+        "B. \\$3$.",
+        "C. \\$1$.",
+        "D. \\$5$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số có đạo hàm $f'(x)=(x+1)x^2(x-3)^3,\\ \\forall x\\in\\mathbb{R}.$\n- Ta cần xác định các điểm mà $f'(x)=0$ và kiểm tra dấu của $f'$ quanh các điểm đó.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu: *hàm số đã cho có bao nhiêu điểm cực trị?*\n- Kiến thức cần dùng: tìm điểm tới hạn (nơi $f'(x)=0$), rồi kiểm tra sự đổi dấu của $f'$ để kết luận có cực tiểu/cực đại hay không.\n- Lưu ý quan trọng học sinh cần nhớ: nếu nghiệm của $f'$ có bội số chẵn thì thường không đổi dấu (không có cực trị), nếu bội số lẻ thì thường đổi dấu (có cực trị).\n🔎 **Hướng dẫn cách làm:**\n- Tìm nghiệm của $f'(x)=0$: - $f'(x)=(x+1)x^2(x-3)^3=0 \\implies x=-1,\\; x=0,\\; x=3.$\n  - Bội số: với $x=-1$ bội số 1 (lẻ); với $x=0$ bội số 2 (chẵn); với $x=3$ bội số 3 (lẻ).\n- Lập bảng dấu nhanh trên các khoảng phân bởi các nghiệm: chọn các khoảng $(-\\infty,-1),\\;(-1,0),\\;(0,3),\\;(3,\\infty).$ - Với $x<-1$: $x+1<0,\\;x^2>0,\\; (x-3)^3<0 \\Rightarrow f'(x)>0.$\n  - Với $-1<x<0$: $x+1>0,\\;x^2>0,\\;(x-3)^3<0 \\Rightarrow f'(x)<0.$\n  - Với \\$0<x<3$: dấu các thừa số giống khoảng trước (vẫn có $x+1>0,\\;x^2>0,\\;x-3<0$) nên $f'(x)<0.$\n  - Với $x>3$: tất cả dương $\\Rightarrow f'(x)>0.$\n- Kết luận dựa trên đổi dấu: - Tại $x=-1$: $f'$ đổi từ dương sang âm (tăng sang giảm) ⇒ có *cực đại*.\n  - Tại $x=0$: $f'$ không đổi dấu (âm bên trái và bên phải) ⇒ không có điểm cực trị.\n  - Tại $x=3$: $f'$ đổi từ âm sang dương (giảm sang tăng) ⇒ có *cực tiểu*.\n- Vậy hàm số có tổng cộng 2 điểm cực trị.\n✅ **Đáp án:**  $A. 2.$"
+    },
+    {
+      "id": 10,
+      "content": "Trong không gian $Oxyz$, cho các điểm $A(0;0;3),\\ B(0;1;2),\\ C(1;3;1)$. Tam giác $ABC$ có diện tích bằng",
+      "chuong": "vectơ và hệ trục tọa độ trong không gian",
+      "dang": "bài tập cuối chương 2",
+      "type": "single",
+      "options": [
+        "A. $\\frac{\\sqrt{3}}{2}$.",
+        "B. $\\frac{3\\sqrt{3}}{2}$.",
+        "C. $\\sqrt{3}$.",
+        "D. $\\frac{5}{2}$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Điểm $A(0;0;3)$, $B(0;1;2)$, $C(1;3;1)$ trong không gian $Oxyz$.\n- Yêu cầu: tính diện tích tam giác $ABC$.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu tính *diện tích tam giác* tạo bởi ba điểm $A,B,C$ trong không gian.\n- Cần áp dụng kiến thức về vector trong không gian: vector cạnh, tích vô hướng, độ dài vector và quan hệ giữa tích có hướng (hoặc cách tính độ lớn của tích chéo) để tìm diện tích.\n🔎 **Hướng dẫn cách làm:**\n- Viết các vector cạnh xuất phát từ $A$: - $\\overrightarrow{AB}=B-A=(0-0,\\,1-0,\\,2-3)=(0,\\,1,\\,-1).$\n  - $\\overrightarrow{AC}=C-A=(1-0,\\,3-0,\\,1-3)=(1,\\,3,\\,-2).$\n- Diện tích tam giác bằng một nửa diện tích hình bình hành spanned bởi $\\overrightarrow{AB}$ và $\\overrightarrow{AC}$: - $S_{\\triangle ABC}=\\tfrac{1}{2}\\,|\\overrightarrow{AB}\\times\\overrightarrow{AC}|.$\n- Ta tính độ lớn của tích chéo bằng công thức liên hệ giữa tích vô hướng và các độ dài: - $|\\overrightarrow{AB}\\times\\overrightarrow{AC}|=\\sqrt{|\\overrightarrow{AB}|^2\\cdot|\\overrightarrow{AC}|^2-(\\overrightarrow{AB}\\cdot\\overrightarrow{AC})^2}.$\n- Tính các đại lượng: - $\\overrightarrow{AB}\\cdot\\overrightarrow{AC}=0\\cdot1+1\\cdot3+(-1)\\cdot(-2)=3+2=5.$\n  - $|\\overrightarrow{AB}|^2=0^2+1^2+(-1)^2=2.$\n  - $|\\overrightarrow{AC}|^2=1^2+3^2+(-2)^2=1+9+4=14.$\n- Thay vào công thức: - $|\\overrightarrow{AB}\\times\\overrightarrow{AC}|=\\sqrt{2\\cdot14-5^2}=\\sqrt{28-25}=\\sqrt{3}.$\n- Do đó diện tích tam giác: - $S_{\\triangle ABC}=\\tfrac{1}{2}\\sqrt{3}=\\frac{\\sqrt3}{2}.$\n✅ **Đáp án:** A. $\\frac{\\sqrt3}{2}$."
+    },
+    {
+      "id": 11,
+      "content": "Giá trị nhỏ nhất của hàm số $f(x)=x^3-3x+1$ trên đoạn $[-2;0]$ bằng",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "cách tìm giá trị lớn nhất và giá trị nhỏ nhất của hàm số trên một đoạn",
+      "type": "single",
+      "options": [
+        "A. \\$1$.",
+        "B. $-2$.",
+        "C. $-1$.",
+        "D. \\$3$."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số: $f(x)=x^3-3x+1.$\n- Đoạn xét: $[-2;0].$\n- Yêu cầu: tìm giá trị nhỏ nhất của $f(x)$ trên đoạn đã cho.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu tìm giá trị nhỏ nhất (min) của hàm số trên một đoạn kín.\n- Cần áp dụng kiến thức: đạo hàm để tìm điểm tới hạn và đánh giá giá trị hàm tại các điểm tới hạn nằm trong đoạn cũng như tại các mút của đoạn.\n🔎 **Hướng dẫn cách làm:**\n- Tính đạo hàm: $f'(x)=3x^2-3=3(x^2-1)=3(x-1)(x+1).$\n- Tìm điểm tới hạn bằng cách giải $f'(x)=0$: ta có $x=-1$ và $x=1.$ - Trên đoạn $[-2,0]$ chỉ có $x=-1$ là nằm trong đoạn; $x=1$ không nằm trong đoạn.\n- Đánh giá giá trị hàm tại các điểm cần xét (các điểm tới hạn trong đoạn và các đầu mút): - $f(-2)=(-2)^3-3(-2)+1=-8+6+1=-1.$\n  - $f(-1)=(-1)^3-3(-1)+1=-1+3+1=3.$\n  - $f(0)=0^3-3\\cdot0+1=1.$\n- So sánh các giá trị: $f(-2)=-1,\\; f(-1)=3,\\; f(0)=1.$ Giá trị nhỏ nhất trong ba giá trị này là $-1$ ở $x=-2.$\n✅ **Đáp án:** $C. -1.$"
+    },
+    {
+      "id": 12,
+      "content": "Cho các số thực dương $a,b,c$ thỏa mãn $\\log_a b=3,\\ \\log_a c=-2$. Giá trị của $\\log_a\\left(\\frac{a^3b^2}{c}\\right)$ bằng",
+      "chuong": "hàm số mũ và hàm số lôgarit",
+      "dang": "tính chất của lôgarit",
+      "type": "single",
+      "options": [
+        "A. \\$14$.",
+        "B. \\$11$.",
+        "C. \\$7$.",
+        "D. \\$20$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Các số thực dương $a,b,c$.\n- $\\log_a b = 3.$\n- $\\log_a c = -2.$\n- Yêu cầu tính $\\log_a\\left(\\dfrac{a^3 b^2}{c}\\right).$\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu tính giá trị của một biểu thức logarit dựa trên các giá trị logarit đã cho.\n- Cần vận dụng các kiến thức: - Quy tắc logarit: $\\log_a(xy)=\\log_a x+\\log_a y$ và $\\log_a\\left(\\dfrac{x}{y}\\right)=\\log_a x-\\log_a y.$\n  - Quy tắc mũ trong logarit: $\\log_a(x^k)=k\\log_a x$ và đặc biệt $\\log_a(a^k)=k.$\n🔎 **Hướng dẫn cách làm:**\n- Bắt đầu từ biểu thức cần tính:   $\\log_a\\left(\\dfrac{a^3 b^2}{c}\\right).$\n- Áp dụng quy tắc của logarit cho thương và tích:\n$\\log_a\\left(\\dfrac{a^3 b^2}{c}\\right)=\\log_a(a^3)+\\log_a(b^2)-\\log_a(c).$\n- Sử dụng các quy tắc mũ trong logarit: - $\\log_a(a^3)=3.$\n  - $\\log_a(b^2)=2\\log_a b=2\\cdot 3=6.$ (vì $\\log_a b=3$)\n  - $\\log_a(c)=-2.$ (đã cho)\n- Thay vào và tính:   $\\log_a\\left(\\dfrac{a^3 b^2}{c}\\right)=3+6-(-2)=3+6+2=11.$\n- Lưu ý điều kiện: a, b, c dương nên các logarit đều xác định.\n✅ **Đáp án:**   $\\text{B. }11.$"
+    }
+  ]
+}

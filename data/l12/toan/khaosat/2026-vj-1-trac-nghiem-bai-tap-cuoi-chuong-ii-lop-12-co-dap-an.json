@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-1-trac-nghiem-bai-tap-cuoi-chuong-ii-lop-12-co-dap-an",
+  "sourceId": "vietjack:1-trac-nghiem-bai-tap-cuoi-chuong-ii-lop",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.Trắc nghiệm Bài tập cuối chương II lớp 12 (có đáp án)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho hình lập phương ABCD.A'B'C'D'. Gọi O là tâm của hình lập phương. Khẳng định nào sau đây là đúng?",
+      "options": [
+        "A. \\(\\overrightarrow {AO} = \\frac{1}{3}\\left( {\\overrightarrow {AB} + \\overrightarrow {AD} + \\overrightarrow {AA'} } \\right)\\).",
+        "B. \\(\\overrightarrow {AO} = \\frac{1}{2}\\left( {\\overrightarrow {AB} + \\overrightarrow {AD} + \\overrightarrow {AA'} } \\right)\\).",
+        "C. \\(\\overrightarrow {AO} = \\frac{1}{4}\\left( {\\overrightarrow {AB} + \\overrightarrow {AD} + \\overrightarrow {AA'} } \\right)\\).",
+        "D. \\(\\overrightarrow {AO} = \\frac{2}{3}\\left( {\\overrightarrow {AB} + \\overrightarrow {AD} + \\overrightarrow {AA'} } \\right)\\)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng: B Theo quy tắc hình hộp \\(\\overrightarrow {AB} + \\overrightarrow {AD} + \\overrightarrow {AA'} = \\overrightarrow {AC'} \\) mà O là trung điểm của AC' nên \\(\\overrightarrow {AC'} = 2\\overrightarrow {AO} \\). Do đó \\(\\overrightarrow {AB} + \\overrightarrow {AD} + \\overrightarrow {AA'} = 2\\overrightarrow {AO} \\)\\( \\Rightarrow \\overrightarrow {AO} = \\frac{1}{2}\\left( {\\overrightarrow {AB} + \\overrightarrow {AD} + \\overrightarrow {AA'} } \\right)\\)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho tứ diện ABCD. Có bao nhiêu vectơ có điểm đầu là A và điểm cuối là một trong các đỉnh còn lại của tứ diện?",
+      "options": [
+        "A. 1.",
+        "B. 2.",
+        "C. 3.",
+        "D. 4."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng: C Ta có 3 vectơ: \\(\\overrightarrow {AB} ;\\overrightarrow {AC} ;\\overrightarrow {AD} \\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho tứ diện đều ABCD có cạnh bằng 2. Khi đó \\(\\overrightarrow {AB} .\\overrightarrow {CA} \\) bằng",
+      "options": [
+        "A. 2.",
+        "B. \\( - 2\\sqrt 3 \\).",
+        "C. \\(2\\sqrt 3 \\).",
+        "D. −2."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng: D Ta có \\(\\overrightarrow {AB} .\\overrightarrow {CA} = - \\overrightarrow {AB} .\\overrightarrow {AC} = - \\left| {\\overrightarrow {AB} } \\right|.\\left| {\\overrightarrow {AC} } \\right|.\\cos \\left( {\\overrightarrow {AB} ,\\overrightarrow {AC} } \\right)\\)\\( = - 2.2.\\cos 60^\\circ = - 2\\)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho vectơ \\(\\overrightarrow u = \\left( {1; - 1;3} \\right)\\). Tọa độ của vectơ \\( - 3\\overrightarrow u \\) là:",
+      "options": [
+        "A. (3; −3; 9).",
+        "B. (3; −3; −9).",
+        "C. (−3; 3; −9).",
+        "D. (3; 3; 9)."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng: C \\( - 3\\overrightarrow u = \\left( { - 3;3; - 9} \\right)\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Trong không gian Oxyz, cho điểm A(3; −1; 5). Tọa độ của vectơ \\(\\overrightarrow {OA} \\) là",
+      "options": [
+        "A. (3; 1; 5).",
+        "B. (3; −1; 5).",
+        "C. (−3; −1; 5).",
+        "D. (−3; 1; −5)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng: B \\(\\overrightarrow {OA} = \\left( {3; - 1;5} \\right)\\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong không gian Oxyz, cho hai điểm \\(M\\left( {\\frac{1}{2};1; - 3} \\right)\\) và \\(N\\left( {\\frac{1}{2}; - 2;4} \\right)\\). Tọa độ của vectơ \\(\\overrightarrow {MN} \\).",
+      "options": [
+        "A. (1; −1; 1).",
+        "B. (0; −3; 7).",
+        "C. (0; 3; −7).",
+        "D. \\(\\left( {\\frac{1}{2}; - \\frac{1}{2};\\frac{1}{2}} \\right)\\)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng: B \\(\\overrightarrow {MN} = \\left( {\\frac{1}{2} - \\frac{1}{2}; - 2 - 1;4 + 3} \\right) = \\left( {0; - 3;7} \\right)\\)."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Trong không gian Oxyz, cho ba điểm A(−2; 1; 0), B(0; −2; 5), C(6; −2; 1). Tích vô hướng của hai vectơ \\(\\overrightarrow {AB} \\) và \\(\\overrightarrow {BC} \\) là",
+      "options": [
+        "A. \\(\\sqrt {38} .\\sqrt {52} \\).",
+        "B. \\( - \\sqrt {38} .\\sqrt {52} \\).",
+        "C. 8.",
+        "D. −8."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng: D Ta có\\(\\overrightarrow {AB} = \\left( {2; - 3;5} \\right),\\overrightarrow {BC} = \\left( {6;0; - 4} \\right)\\). Suy ra \\(\\overrightarrow {AB} .\\overrightarrow {BC} = 2.6 + \\left( { - 3} \\right).0 + 5.\\left( { - 4} \\right) = - 8\\)."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Trong không gian \\[Oxyz\\] tìm tọa độ của điểm \\[A\\] biết điểm \\[A\\] nằm trên tia \\[Oy\\] và \\[OA = 3\\].",
+      "options": [
+        "A. \\(A\\left( {0;\\,\\,3;\\,0} \\right)\\).",
+        "B. \\(A\\left( {1;\\,\\, - 3;\\,0} \\right)\\).",
+        "C. \\(A\\left( {3;\\,0;\\,0} \\right)\\).",
+        "D. \\(A\\left( {0;\\,\\,0;\\,3} \\right)\\)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng: A Ta có: \\[A\\] nằm trên tia \\[Oy\\] và \\[OA = 3\\] nên \\[\\overrightarrow {OA} = 3\\overrightarrow j \\] suy ra \\[A\\left( {0;\\,3;\\,0} \\right)\\]."
+    }
+  ]
+}

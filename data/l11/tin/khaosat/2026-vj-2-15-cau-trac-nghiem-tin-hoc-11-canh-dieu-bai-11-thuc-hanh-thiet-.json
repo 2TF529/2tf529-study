@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-15-cau-trac-nghiem-tin-hoc-11-canh-dieu-bai-11-thuc-hanh-thiet-",
+  "sourceId": "vietjack:2-15-cau-trac-nghiem-tin-hoc-11-canh-die",
+  "grade": "l11",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.15 câu Trắc nghiệm Tin học 11 Cánh diều Bài 11: Thực hành thiết kế và lập trình theo mô đun có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Trong nhiệm vụ 1, chương trình yêu cầu đọc dữ liệu từ tệp và tổ chức dữ liệu. Đầu ra mong muốn của hàm nhapTuTep bao gồm:",
+      "options": [
+        "A. Danh sách các cột điểm số và số học sinh",
+        "B. Danh sách tên học sinh, tên môn học, và mảng hai chiều điểm số",
+        "C. Danh sách tên học sinh và điểm trung bình từng học sinh",
+        "D. Danh sách các cặp (tên, điểm) của từng học sinh"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Theo yêu cầu, hàm nhapTuTep cần tổ chức dữ liệu đầu ra bao gồm danh sách tên học sinh, tên môn học và mảng hai chiều lưu điểm số của từng học sinh theo môn"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Chức năng chính của hàm ptDiem trong bài tập là gì?",
+      "options": [
+        "A. Đọc dữ liệu từ tệp bảng điểm",
+        "B. Tính điểm trung bình chung của lớp",
+        "C. Phân tích điểm số từng học sinh và trả về tổng, điểm cao nhất, điểm thấp nhất, và số lượng điểm theo từng mức xếp hạng",
+        "D. Sắp xếp danh sách điểm theo thứ tự giảm dần"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Hàm ptDiem được sử dụng để phân tích điểm số của từng học sinh, tính tổng, điểm cao nhất, điểm thấp nhất, và đếm số lượng điểm trong từng mức xếp hạng."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Khi xét khen thưởng cho học sinh, quy tắc chấm điểm là:",
+      "options": [
+        "A. Cộng 1 điểm cho mỗi môn đạt mức Đạt",
+        "B. Trừ 1 điểm cho mỗi môn dưới mức Khá và cộng 1 điểm cho mỗi môn đạt mức Tốt",
+        "C. Cộng 1 điểm cho mỗi môn đạt mức Khá và trừ 1 điểm cho mỗi môn dưới mức Đạt",
+        "D. Không cộng hoặc trừ điểm, chỉ ghi nhận kết quả học sinh"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Quy tắc chấm điểm yêu cầu cộng thêm 1 điểm cho mỗi môn đạt mức Tốt và trừ 1 điểm cho mỗi môn dưới mức Khá."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Hàm tachMon có chức năng gì trong chương trình?",
+      "options": [
+        "A. Phân tích điểm số của từng học sinh",
+        "B. Tách riêng danh sách điểm số cho từng môn học và danh sách các cặp (tên, điểm)",
+        "C. Sắp xếp danh sách điểm theo thứ tự giảm dần",
+        "D. Tính điểm trung bình của từng học sinh"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Hàm tachMon có nhiệm vụ tách riêng danh sách điểm số từng môn và ghép với tên học sinh để tạo ra danh sách các cặp (tên, điểm)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Khi sắp xếp danh sách các cặp (tên, điểm) theo thứ tự giảm dần, cần thực hiện bước nào?",
+      "options": [
+        "A. Sử dụng hàm sắp xếp mặc định của Python",
+        "B. Thực hiện thuật toán sắp xếp nhanh quicksort với phép so sánh đảo chiều",
+        "C. Tính tổng điểm và sắp xếp theo tổng",
+        "D. Đảo ngược danh sách sau khi sắp xếp"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Để sắp xếp danh sách theo thứ tự giảm dần, cần cải biên thuật toán sắp xếp nhanh quicksort để đảo chiều phép so sánh"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Yêu cầu của sản phẩm SP#1 trong bài tập lập trình là gì?",
+      "options": [
+        "A. Sử dụng các thư viện có sẵn của Python",
+        "B. Viết các hàm (mô-đun) chương trình từ đầu",
+        "C. Viết chương trình với các hàm của thư viện NumPy",
+        "D. Tối ưu hóa tốc độ chương trình"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: SP#1 yêu cầu tự viết các hàm mô-đun chương trình để luyện tập kỹ năng lập trình từ cơ bản."
+    }
+  ]
+}

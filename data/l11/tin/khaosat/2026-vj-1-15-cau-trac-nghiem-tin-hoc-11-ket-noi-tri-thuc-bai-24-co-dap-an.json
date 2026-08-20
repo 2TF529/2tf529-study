@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-11-ket-noi-tri-thuc-bai-24-co-dap-an",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-11-ket-noi-",
+  "grade": "l11",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 11 Kết nối tri thức Bài 24 có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Sao lưu CSDL có mục đích chính là gì?",
+      "options": [
+        "A. Đảm bảo an toàn dữ liệu khi hệ thống gặp sự cố.",
+        "B. Tăng hiệu suất của hệ thống CSDL.",
+        "C. Giảm thiểu dung lượng lưu trữ trên máy chủ.",
+        "D. Thay thế việc cập nhật phần mềm quản trị CSDL."
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Sao lưu CSDL nhằm đảm bảo an toàn dữ liệu và phục hồi khi có sự cố xảy ra. Các lựa chọn B, C và D không đúng mục đích của việc sao lưu."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Để phục hồi một CSDL từ tệp sao lưu, bước đầu tiên bạn cần thực hiện là gì?",
+      "options": [
+        "A. Chọn Export cơ sở dữ liệu.",
+        "B. Chọn Load SQL file.",
+        "C. Nhấn nút F5 để làm mới danh sách CSDL.",
+        "D. Xoá toàn bộ dữ liệu hiện tại của hệ thống."
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Bước đầu tiên trong quá trình phục hồi CSDL là chọn tệp đã sao lưu từ tùy chọn Load SQL file. Còn các bước khác không phải là bước đầu tiên trong quá trình phục hồi."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Khi thực hiện sao lưu, lựa chọn Delete + insert có nghĩa là gì?",
+      "options": [
+        "A. Xoá dữ liệu cũ và chèn dữ liệu mới đã sao lưu.",
+        "B. Xoá toàn bộ bảng trong CSDL.",
+        "C. Chỉ chèn thêm dữ liệu mới mà không xoá dữ liệu cũ.",
+        "D. Chỉ cập nhật cấu trúc bảng mà không ảnh hưởng đến dữ liệu."
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Lựa chọn Delete + insert dùng để xoá dữ liệu cũ và chèn dữ liệu mới khi phục hồi CSDL. Các lựa chọn khác không phản ánh đúng ý nghĩa của tùy chọn này."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Khi xuất cơ sở dữ liệu dưới dạng tệp SQL, bước nào sau đây là bắt buộc?",
+      "options": [
+        "A. Chọn bảng muốn sao lưu và nhấn Export.",
+        "B. Đặt tên tệp sao lưu và chọn kiểu output.",
+        "C. Xoá dữ liệu hiện tại trong cơ sở dữ liệu.",
+        "D. Nhấn F5 để làm mới danh sách CSDL."
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Bước đặt tên tệp sao lưu và chọn kiểu output là bắt buộc khi xuất CSDL. Các bước khác có thể không cần thiết trong quá trình sao lưu"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Để sao lưu một phần cơ sở dữ liệu, bạn cần làm gì?",
+      "options": [
+        "A. Chỉ chọn những bảng muốn sao lưu.",
+        "B. Sao lưu toàn bộ CSDL và sau đó lọc lại dữ liệu.",
+        "C. Tạo một tệp sao lưu riêng cho mỗi bảng.",
+        "D. Xoá toàn bộ các bảng không cần thiết trước khi sao lưu."
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Để sao lưu một phần CSDL, bạn có thể chọn riêng các bảng mà mình muốn sao lưu. Các lựa chọn khác không phải là cách tiếp cận đúng."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Sau khi phục hồi CSDL, bạn cần làm gì để cập nhật danh sách CSDL?",
+      "options": [
+        "A. Khởi động lại phần mềm quản lý CSDL.",
+        "B. Xoá toàn bộ dữ liệu và phục hồi lại.",
+        "C. Nhấn F5 để làm tươi danh sách CSDL.",
+        "D. Chạy lại toàn bộ truy vấn SQL từ đầu."
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Nhấn F5 là cách để làm mới danh sách CSDL sau khi phục hồi, giúp hiển thị các thay đổi mới."
+    }
+  ]
+}

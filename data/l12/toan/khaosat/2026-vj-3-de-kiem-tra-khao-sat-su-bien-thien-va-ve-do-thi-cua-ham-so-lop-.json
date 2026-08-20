@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-3-de-kiem-tra-khao-sat-su-bien-thien-va-ve-do-thi-cua-ham-so-lop-",
+  "sourceId": "vietjack:3-de-kiem-tra-khao-sat-su-bien-thien-va-",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.Đề kiểm tra Khảo sát sự biến thiên và vẽ đồ thị của hàm số lớp 12 (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: CÂU TRẮC NGHIỆM NHIỀU PHƯƠNG ÁN LỰA CHỌN Học sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi học sinh chỉ chọn một phương án. Cho hàm số bậc ba \\(y = f\\left( x \\right)\\) có đồ thị là đường cong như trong hình bên . H àm số đã cho nghịch biến trên khoảng nào dưới đây?",
+      "options": [
+        "A. \\(\\left( {0;2} \\right)\\) .",
+        "B. \\(\\left( { - \\infty ;0} \\right)\\) .",
+        "C. \\(\\left( {1; + \\infty } \\right)\\) .",
+        "D. \\(\\left( { - 1;1} \\right)\\) ."
+      ],
+      "answer": "D",
+      "note": "Từ đồ thị hàm số ta thấy trong khoảng \\(\\left( { - 1;1} \\right)\\)\\(x\\) tăng, \\(y\\) giảm (đồ thị hàm số đi xuống). H àm số đã cho nghịch biến trên khoảng \\(\\left( { - 1;1} \\right).\\)"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Đồ thị hàm số nào dưới đây có dạng như đường cong dưới đây?",
+      "options": [
+        "A. \\[y = \\frac{{2x - 1}}{{x + 1}}\\] .",
+        "B. \\[y = \\frac{{{x^2} + 2x - 2}}{{x - 1}}\\] .",
+        "C. \\[y = - {x^3} + 3x + 1\\] .",
+        "D. \\[y = {x^3} - 3x + 1\\] ."
+      ],
+      "answer": "C",
+      "note": "Đồ thị trên là đồ thị hàm bậc \\(3\\) có \\(a < 0\\) . Suy ra chọn đáp án C ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Đường cong trong hình vẽ bên là đồ thị của hàm số nào dưới đây?",
+      "options": [
+        "A. \\(y = \\frac{{x + 2}}{{x + 1}}\\) .",
+        "B. \\(y = \\frac{{x - 1}}{{x + 1}}\\) .",
+        "C. \\(y = \\frac{{ - 2x + 1}}{{x - 1}}\\) .",
+        "D. \\(y = \\frac{{x + 1}}{{x - 1}}\\) ."
+      ],
+      "answer": "D",
+      "note": "Ta có đồ thị hàm số có tiệm cận đứng \\(x = 1\\), nên loại A, B. Đồ thị hàm số có tiệm cận ngang \\(y = 1\\) nên chọn D. Vì \\[\\mathop {\\lim }\\limits_{x \\to {1^ - }} y = \\mathop {\\lim }\\limits_{x \\to {1^ - }} \\left( {\\frac{{x + 1}}{{x - 1}}} \\right) = - \\infty \\] và \\[\\mathop {\\lim }\\limits_{x \\to {1^ + }} y = \\mathop {\\lim }\\limits_{x \\to {1^ + }} \\left( {\\frac{{x + 1}}{{x - 1}}} \\right) = + \\infty \\]."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Đường cong trong hình vẽ bên là đồ thị của hàm số nào dưới đây?",
+      "options": [
+        "A. \\(y = \\frac{{ - {x^2} - 3x + 4}}{{x + 2}}\\) .",
+        "B. \\(y = \\frac{{ - {x^2} - 3x + 4}}{{x - 2}}\\) .",
+        "C. \\(y = \\frac{{x - 4}}{{x + 2}}\\) .",
+        "D. \\[y = {x^3} - 3x + 1\\] ."
+      ],
+      "answer": "A",
+      "note": "Ta có đồ thị hàm số có tiệm cận đứng \\(x = - 2\\), nên loại B; D là hàm số bậc \\(3\\)nên loại D; đồ thị của C có tiệm cận đứng, không có tiệm cận xiên nên loại C. Đồ thị hàm số có tiệm cận xiên \\(y = - x - 1\\) nên chọn#A. Vì \\(a = \\mathop {\\lim }\\limits_{x \\to + \\infty } \\frac{{f\\left( x \\right)}}{x} = \\mathop {\\lim }\\limits_{x \\to + \\infty } \\frac{{ - {x^2} - 3x + 4}}{{{x^2} + 2x}} = - 1\\). \\(b = \\mathop {\\lim }\\limits_{x \\to + \\infty } \\left[ {f\\left( x \\right) - ( - 1)x} \\right] = \\mathop {\\lim }\\limits_{x \\to + \\infty } \\left[ {\\frac{{ - {x^2} - 3x + 4}}{{x + 2}} - ( - 1)x} \\right] = \\mathop {\\lim }\\limits_{x \\to + \\infty } \\frac{{ - x + 4}}{{x + 2}} = - 1\\) Đồ thị hàm số có tiệm cận xiên là đường thẳng \\(y = - x - 1\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Tiệm cận đứng của đồ thị hàm số \\(y = \\frac{{2x - 1}}{{x + 3}}\\) là đường thẳng nào trong các đường thẳng sau?",
+      "options": [
+        "A. \\(y = - 3\\) .",
+        "B. \\(y = - 1\\) .",
+        "C. \\(x = - 3\\) .",
+        "D. \\(x = 2\\) ."
+      ],
+      "answer": "C",
+      "note": "Ta có: \\(\\mathop {\\lim }\\limits_{x \\to - {3^ + }} y = \\mathop {\\lim }\\limits_{x \\to - {3^ + }} \\frac{{2x - 1}}{{x + 3}}\\)\\( = - \\infty \\); \\(\\mathop {\\lim }\\limits_{x \\to - {3^ - }} y\\)\\( = \\mathop {\\lim }\\limits_{x \\to - {3^ - }} \\frac{{2x - 1}}{{x + 3}} = + \\infty \\). \\( \\Rightarrow x = - 3\\) là đường tiệm cận đứng của đồ thị hàm số."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Khẳng định nào sau đây đúng về tính đơn điệu của hàm số \\[y = \\frac{{2x + 4}}{{1 - x}}\\] ?",
+      "options": [
+        "A. A . Hàm số đồng biến trên các khoảng \\[\\left( { - \\infty ;1} \\right)\\] và \\[\\left( {1; + \\infty } \\right)\\] .",
+        "B. Hàm số nghịch biến trên các khoảng \\[\\left( { - \\infty ;1} \\right)\\]\\[ \\cup \\]\\[\\left( {1; + \\infty } \\right)\\] .",
+        "C. Hàm số nghịch biến trên các khoảng \\[\\left( { - \\infty ;1} \\right)\\] và \\[\\left( {1; + \\infty } \\right)\\] .",
+        "D. Hàm số đồng biến trên các khoảng \\[\\left( { - \\infty ; - 1} \\right)\\] và \\[\\left( { - 1; + \\infty } \\right)\\] ."
+      ],
+      "answer": "A",
+      "note": "Tập xác định \\(D = \\mathbb{R}\\backslash \\left\\{ 1 \\right\\}\\). Ta có \\[y = \\frac{{2x + 4}}{{1 - x}} \\Rightarrow y' = \\frac{6}{{{{(1 - x)}^2}}} > 0,\\forall x \\ne 1\\]. Vậy hàm số đồng biến trên các khoảng \\[\\left( { - \\infty ;1} \\right)\\]và \\[\\left( {1; + \\infty } \\right)\\]."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Tiệm cận xiên của đồ thị hàm số \\[y = f\\left( x \\right) = \\frac{{{x^2} - 3x - 7}}{{x + 2}}\\] là",
+      "options": [
+        "A. \\(y = x + 2\\) .",
+        "B. \\(y = x + 4\\) .",
+        "C. \\(y = x - 3\\) .",
+        "D. \\(y = x - 5\\) ."
+      ],
+      "answer": "D",
+      "note": "Tập xác định \\(D = \\mathbb{R}\\backslash \\left\\{ { - 2} \\right\\}\\). Ta có: \\(a = \\mathop {\\lim }\\limits_{x \\to + \\infty } \\frac{{f\\left( x \\right)}}{x} = \\mathop {\\lim }\\limits_{x \\to + \\infty } \\frac{{{x^2} - 3x - 7}}{{{x^2} + 2x}} = 1\\). \\(b = \\mathop {\\lim }\\limits_{x \\to + \\infty } \\left[ {f\\left( x \\right) - x} \\right] = \\mathop {\\lim }\\limits_{x \\to + \\infty } \\left[ {\\frac{{{x^2} - 3x - 7}}{{x + 2}} - x} \\right] = \\mathop {\\lim }\\limits_{x \\to + \\infty } \\frac{{ - 5x - 7}}{{x + 2}} = - 5\\) Vậy đồ thị hàm số có tiệm cận xiên là đường thẳng \\(y = x - 5\\)."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Giá trị cực tiểu của hàm số \\[y = f\\left( x \\right) = \\frac{{{x^2} + x + 4}}{{x + 1}}\\] là",
+      "options": [
+        "A. \\({y_{CT}} = - 5\\) .",
+        "B. \\({y_{CT}} = 3\\) .",
+        "C. \\({y_{CT}} = 1\\) .",
+        "D. \\({y_{CT}} = - 3\\) ."
+      ],
+      "answer": "B",
+      "note": "Tập xác định \\(D = \\mathbb{R}\\backslash \\left\\{ { - 1} \\right\\}\\). Ta có: \\[f'\\left( x \\right) = \\frac{{\\left( {2x + 1} \\right)\\left( {x + 1} \\right) - \\left( {{x^2} + x + 4} \\right)}}{{{{\\left( {x + 1} \\right)}^2}}} = \\frac{{{x^2} + 2x - 3}}{{{{\\left( {x + 1} \\right)}^2}}}\\]. \\[f'\\left( x \\right) = 0 \\Leftrightarrow x = - 3\\] hoặc \\[x = 1\\]. Bảng biến thiên của hàm số: Hàm số đạt cực đại tại \\[x = - 3\\] và \\[{y_{CD}} = - 5\\]. Hàm số đạt cực tiểu tại \\[x = 1\\] và \\[{y_{CT}} = 3\\]."
+    }
+  ]
+}

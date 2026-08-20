@@ -1,0 +1,78 @@
+{
+  "id": "2026-vj-8-10-bai-tap-cach-su-dung-cac-ki-hieu-voi-moi-ton-tai-co-loi-giai",
+  "sourceId": "vietjack:8-10-bai-tap-cach-su-dung-cac-ki-hieu-vo",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "8.10 Bài tập Cách sử dụng các kí hiệu với mọi, tồn tại (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho mệnh đề: “ ∀ x ∈ ℝ, x < 3 ⇒ x 2 < 9 ” . Mệnh đề trên được phát biểu như thế nào?",
+      "options": [
+        "A. Tồn tại số thực x mà nếu số đó bé hơn 3 thì bình phương của nó bé hơn 9;",
+        "B. Với mọi số thực x mà nếu số đó bé hơn 3 thì bình phương của nó bé hơn 9;",
+        "C. Không có số thực x nào mà nếu số đó bé hơn 3 thì bình phương của nó bé hơn 9;",
+        "D. Có duy nhất một số thực x mà nếu số đó bé hơn 3 thì bình phương của nó bé hơn 9."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B. Ta có mệnh đề “ ∀ x ∈ ℝ, x < 3 ⇒ x 2 < 9 ” được phát biểu như sau: “ Với mọi số thực x mà nếu số đó bé hơn 3 thì bình phương của nó bé hơn 9 ” . Đối chiếu với các đáp án, ta thấy phương án B là hợp lý nhất."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho mệnh đề sau: “ … x ∈ ℝ, 4x 2 – 1 = 0 ” . Chỗ trống trong mệnh đề trên có thể điền kí hiệu nào dưới đây để mệnh đề đúng?",
+      "options": [
+        "A. ∀ ;",
+        "B. ∃ ;",
+        "C. Cả hai kí hiệu ∀ và ∃ đều được;",
+        "D. Không có kí hiệu nào thỏa mãn."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B. Ta có: 4x 2 – 1 = 0 (*) ⇔ x 2 = 1 4 ⇔ x = 1 2 hoặc x = - 1 2 . Ta thấy phương trình (*) có hai nghiệm phân biệt, hay nói cách khác phương trình (*) tồn tại hai giá trị của x là x = 1 2 và x = - 1 2 thỏa mãn. Vì vậy ta dùng kí hiệu ∃ cho mệnh đề trên."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Mệnh đề nào sau đây đúng?",
+      "options": [
+        "A. ∃ x ∈ ℤ, x 2 – 4 = 0;",
+        "B. ∀ x ∈ ℤ, x 2 + 1 chia hết cho 3;",
+        "C. ∀ x ∈ ℤ, x 2 > x;",
+        "D. ∃ x ∈ ℤ, x 2 + 1 = 0."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A. A. Ta có: x 2 – 4 = 0 (*) ⇔ x 2 = 4 ⇔ x = 2 hoặc x = – 2. Ta thấy phương trình (*) có hai nghiệm phân biệt, hay nói cách khác phương trình (*) tồn tại hai giá trị nguyên của x là x = 2 và x = – 2 thỏa mãn. Do đó mệnh đề ở câu A đúng. B. Giả sử với x = 0 thì x 2 + 1 = 0 2 + 1 = 1 không chia hết cho 3. Do đó mệnh đề trên dùng kí hiệu “với mọi” là sai. Vì vậy mệnh đề ở câu B sai. C. Ta giả sử với x = 0. ⇒ x 2 = 0 2 = 0 = x. Do đó mệnh đề trên dùng kí hiệu “với mọi” là sai. Vì vậy mệnh đề ở câu C sai. D. Ta có: x 2 + 1 = 0 (**) ⇔ x 2 = – 1 (vô nghiệm vì x 2 luôn lớn hơn hoặc bằng 0). Suy ra không có giá trị nguyên x nào thỏa mãn phương trình (**). Do đó mệnh đề ở câu D sai."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hai mệnh đề sau: A: “ ∀ x ∈ ℝ: x 2 – 4 ≠ 0” ; B: “ ∃ x ∈ ℝ: x 2 = x”. Xét tính đúng sai của hai mệnh đề trên.",
+      "options": [
+        "A. A đúng, B sai;",
+        "B. A sai, B đúng;",
+        "C. A đúng, B đúng;",
+        "D. A sai, B sai."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B. - Xét mệnh đề A, ta có: x 2 – 4 = 0 ⇔ x 2 = 4 ⟺ x = 2 hoặc x = – 2. Ta thấy phương trình x 2 – 4 = 0 có hai nghiệm là x = 2 và x = – 2, hay nói cách khác là có hai giá trị để x 2 – 4 bằng 0. Do đó mệnh đề A dùng kí hiệu “với mọi” là sai. Vậy mệnh đề A sai. - Xét mệnh đề B, ta có: x 2 = x ⇔ x 2 – x = 0 ⇔ x = 0 hoặc x = 1. Ta thấy phương trình x 2 = x có hai nghiệm phân biệt, hay nói cách khác phương trình x 2 = x tồn tại hai giá trị nguyên của x là x = 0 và x = 1 thỏa mãn. Do đó mệnh đề B đúng. Vậy mệnh đề A sai, mệnh đề B đúng."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Kí hiệu X là tập hợp tất cả các bạn học sinh x trong lớp 10A1, P(x) là mệnh đề chứa biến “x đạt học sinh giỏi”. Mệnh đề “ ∃ x ∈ X, P(x)” khẳng định rằng:",
+      "options": [
+        "A. Tất cả các bạn học sinh trong lớp 10A1 đều đạt học sinh giỏi;",
+        "B. Bất cứ ai đạt học sinh giỏi đều học lớp 10A1;",
+        "C. Có một số bạn học lớp 10A1 đạt học sinh giỏi;",
+        "D. Tất cả các bạn học sinh trong lớp 10A1 đều không đạt học sinh giỏi."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C. Ta có mệnh đề “ ∃ x ∈ X, P(x)” được phát biểu như sau: “Có một số bạn học lớp 10A1 đạt học sinh giỏi”. Đối chiếu các đáp án, ta thấy đáp án C là phù hợp nhất."
+    }
+  ]
+}

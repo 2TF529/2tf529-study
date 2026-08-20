@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-1-bo-4-de-thi-giua-ki-1-toan-11-nam-2025-2026-tp-hcm-co-dap-an",
+  "sourceId": "vietjack:1-bo-4-de-thi-giua-ki-1-toan-11-nam-2025",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "giuaki1",
+  "year": 2026,
+  "title": "1.Bộ 4 đề thi giữa kì 1 Toán 11 năm 2025-2026 TP.HCM (có đáp án)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: (5 điểm) Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 25. Mỗi câu hỏi thí sinh chỉ chọn một phương án. Cho hình chóp \\(S.ABCDE\\), số mặt của hình chóp đó là bao nhiêu?",
+      "options": [
+        "A. \\(7\\).",
+        "B. \\(4\\).",
+        "C. \\(5\\).",
+        "D. \\(6\\)."
+      ],
+      "answer": "D",
+      "note": "Hình chóp \\(S.ABCDE\\) có đáy là một ngũ giác \\(ABCDE\\) (1 mặt đáy). Từ đỉnh \\(S\\) nối với 5 đỉnh của đáy tạo thành 5 mặt bên (gồm các tam giác \\(SAB,SBC,SCD,SDE,SEA\\) ). Tổng số mặt là: 6. Chọn đáp án: D. 6."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Biết \\[\\sin a = \\frac{5}{{13}}\\], \\[\\cos b = \\frac{3}{5}\\], \\[\\left( {\\frac{\\pi }{2} < a < \\pi ;\\,\\,0 < b < \\frac{\\pi }{2}} \\right)\\]. Kết quả của biểu thức \\(\\sin \\left( {a + b} \\right)\\) bằng:",
+      "options": [
+        "A. \\[\\frac{{ - 33}}{{65}}\\].",
+        "B. \\[\\frac{{56}}{{65}}\\].",
+        "C. \\[\\frac{{63}}{{65}}\\].",
+        "D. \\(0\\)."
+      ],
+      "answer": "A",
+      "note": "Ta sử dụng công thức cộng: \\({\\rm{sin}}\\left( {a + b} \\right) = {\\rm{sin}}a{\\rm{cos}}b + {\\rm{cos}}a{\\rm{sin}}b\\) . Cần tìm \\({\\rm{cos}}a\\) và \\({\\rm{sin}}b\\) . Vì \\(\\frac{\\pi }{2} < a < \\pi \\) nên \\({\\rm{cos}}a < 0\\) : \\({\\rm{cos}}a = - \\sqrt {1 - {\\rm{si}}{{\\rm{n}}^2}a} = - \\sqrt {1 - {{\\left( {\\frac{5}{{13}}} \\right)}^2}} = - \\frac{{12}}{{13}}\\) . Vì \\(0 < b < \\frac{\\pi }{2}\\) nên \\({\\rm{sin}}b > 0\\) : \\({\\rm{sin}}b = \\sqrt {1 - {\\rm{co}}{{\\rm{s}}^2}b} = \\sqrt {1 - {{\\left( {\\frac{3}{5}} \\right)}^2}} = \\frac{4}{5}\\) . Thay vào công thức cộng: \\({\\rm{sin}}\\left( {a + b} \\right) = \\left( {\\frac{5}{{13}}} \\right)\\left( {\\frac{3}{5}} \\right) + \\left( { - \\frac{{12}}{{13}}} \\right)\\left( {\\frac{4}{5}} \\right) = \\frac{{15}}{{65}} - \\frac{{48}}{{65}} = \\frac{{ - 33}}{{65}}\\) . Chọn đáp án: A. \\(\\frac{{ - 33}}{{65}}\\) ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Số nghiệm thực của phương trình \\(2\\sin x + 1 = 0\\) trên đoạn \\(\\left[ { - \\frac{{3\\pi }}{2};\\,10\\pi } \\right]\\) là:",
+      "options": [
+        "A. \\[12\\].",
+        "B. \\[11\\].",
+        "C. \\[21\\].",
+        "D. \\[20\\]."
+      ],
+      "answer": "A",
+      "note": "Ta có \\(2{\\rm{sin}}x + 1 = 0 \\Leftrightarrow {\\rm{sin}}x = - \\frac{1}{2} \\Leftrightarrow \\left[ {\\begin{array}{*{20}{r}}x&{ = - \\frac{\\pi }{6} + k2\\pi }\\\\x&{ = \\frac{{7\\pi }}{6} + k2\\pi }\\end{array}\\,\\left( {k \\in \\mathbb{Z}} \\right)} \\right.\\) . Tính toán số nghiệm: Ta tìm số giá trị nguyên \\(k\\) sao cho nghiệm thuộc đoạn \\(\\left[ { - \\frac{{3\\pi }}{2};10\\pi } \\right]\\) . Họ nghiệm 1: \\( - \\frac{{3\\pi }}{2} \\le - \\frac{\\pi }{6} + k2\\pi \\le 10\\pi \\Leftrightarrow - \\frac{2}{3} \\le k \\le \\frac{{61}}{{12}} \\Rightarrow k \\in \\left\\{ {0;1;2;3;4;5} \\right\\}\\) (6 nghiệm). Họ nghiệm 2: \\( - \\frac{{3\\pi }}{2} \\le \\frac{{7\\pi }}{6} + k2\\pi \\le 10\\pi \\Leftrightarrow - \\frac{4}{3} \\le k \\le \\frac{{53}}{{12}} \\Rightarrow k \\in \\left\\{ { - 1;0;1;2;3;4} \\right\\}\\) (6 nghiệm). Tổng số nghiệm trên đoạn là: \\(6 + 6 = 12\\) nghiệm. Chọn đáp án: A. 12."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho \\({\\rm{cos}}\\alpha = \\frac{2}{5}\\) với \\(\\frac{{3\\pi }}{2} < \\alpha < 2\\pi .\\) Tìm giá trị lượng giác \\({\\rm{sin}}\\alpha .\\)",
+      "options": [
+        "A. \\(\\frac{{21}}{{25}}\\).",
+        "B. \\(\\frac{{\\sqrt {21} }}{5}\\).",
+        "C. \\( - \\frac{{21}}{{25}}\\).",
+        "D. \\( - \\frac{{\\sqrt {21} }}{5}\\)."
+      ],
+      "answer": "D",
+      "note": "Vì \\(\\alpha \\) thuộc góc phần tư thứ IV \\(\\left( {\\frac{{3\\pi }}{2} < \\alpha < 2\\pi } \\right)\\) nên \\({\\rm{sin}}\\alpha < 0\\) . \\({\\rm{sin}}\\alpha = - \\sqrt {1 - {\\rm{co}}{{\\rm{s}}^2}\\alpha } = - \\sqrt {1 - {{\\left( {\\frac{2}{5}} \\right)}^2}} = - \\sqrt {\\frac{{21}}{{25}}} = - \\frac{{\\sqrt {21} }}{5}\\) . Chọn đáp án: D. \\( - \\frac{{\\sqrt {21} }}{5}\\) ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Nghiệm của phương trình \\(\\sqrt 3 + 3\\tan x = 0\\) là:",
+      "options": [
+        "A. \\(x = \\frac{\\pi }{3} + k\\pi \\) \\(\\left( {k \\in \\mathbb{Z}} \\right)\\).",
+        "B. \\(x = - \\frac{\\pi }{6} + k\\pi \\) \\(\\left( {k \\in \\mathbb{Z}} \\right)\\).",
+        "C. \\(x = \\frac{\\pi }{2} + k\\pi \\) \\(\\left( {k \\in \\mathbb{Z}} \\right)\\).",
+        "D. \\(x = \\frac{\\pi }{2} + k2\\pi \\) \\(\\left( {k \\in \\mathbb{Z}} \\right)\\)."
+      ],
+      "answer": "B",
+      "note": "\\(\\sqrt 3 + 3{\\rm{tan}}x = 0 \\Leftrightarrow 3{\\rm{tan}}x = - \\sqrt 3 \\Leftrightarrow {\\rm{tan}}x = - \\frac{{\\sqrt 3 }}{3}\\) \\({\\rm{tan}}x = {\\rm{tan}}\\left( { - \\frac{\\pi }{6}} \\right) \\Leftrightarrow x = - \\frac{\\pi }{6} + k\\pi \\,\\left( {k \\in \\mathbb{Z}} \\right)\\) Chọn đáp án: B. \\(x = - \\frac{\\pi }{6} + k\\pi \\) \\(\\left( {k \\in \\mathbb{Z}} \\right)\\) ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Rút gọn biểu thức \\(P = \\cos \\left( {x + \\frac{\\pi }{6}} \\right) + \\cos \\left( {x - \\frac{\\pi }{6}} \\right)\\) ta được kết quả \\(m\\cos x\\). Giá trị của \\(m\\) thuộc đoạn nào?",
+      "options": [
+        "A. \\(m \\in \\left[ { - 1;0} \\right]\\).",
+        "B. \\(m \\in \\left[ {0;1} \\right]\\).",
+        "C. \\(m \\in \\left[ {1;2} \\right]\\).",
+        "D. \\(m \\in \\left[ { - 2; - 1} \\right]\\)."
+      ],
+      "answer": "C",
+      "note": "Sử dụng công thức biến đổi tổng thành tích: \\({\\rm{cos}}A + {\\rm{cos}}B = 2{\\rm{cos}}\\frac{{A + B}}{2}{\\rm{cos}}\\frac{{A - B}}{2}\\) . \\(P = 2{\\rm{cos}}\\left( {\\frac{{x + \\frac{\\pi }{6} + x - \\frac{\\pi }{6}}}{2}} \\right){\\rm{cos}}\\left( {\\frac{{x + \\frac{\\pi }{6} - \\left( {x - \\frac{\\pi }{6}} \\right)}}{2}} \\right) = 2{\\rm{cos}}x \\cdot {\\rm{cos}}\\left( {\\frac{\\pi }{6}} \\right)\\) \\(P = 2{\\rm{cos}}x \\cdot \\frac{{\\sqrt 3 }}{2} = \\sqrt 3 {\\rm{cos}}x\\) Do đó, \\(m = \\sqrt 3 \\approx 1,732\\) . Nhận thấy \\(1,732 \\in \\left[ {1;2} \\right]\\) . Chọn đáp án: C. \\(m \\in \\left[ {1;2} \\right]\\) ."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Tìm khẳng định Sai :",
+      "options": [
+        "A. \\(1 + \\cos 4x = 2{\\cos ^2}2x\\).",
+        "B. \\(\\sin 2x = 2\\sin x\\cos x\\).",
+        "C. \\(\\cos x = {\\sin ^2}\\frac{x}{2} - {\\cos ^2}\\frac{x}{2}\\).",
+        "D. \\({\\cos ^2}x = \\frac{{1 + \\cos 2x}}{2}\\)."
+      ],
+      "answer": "C",
+      "note": "Các khẳng định A, B, D đều là các công thức biến đổi lượng giác cơ bản hoàn toàn đúng. Xét khẳng định C: Theo công thức nhân đôi, \\({\\rm{cos}}x = {\\rm{co}}{{\\rm{s}}^2}\\frac{x}{2} - {\\rm{si}}{{\\rm{n}}^2}\\frac{x}{2}\\) . Tuy nhiên ở phương án D lại viết là \\({\\rm{si}}{{\\rm{n}}^2}\\frac{x}{2} - {\\rm{co}}{{\\rm{s}}^2}\\frac{x}{2} = - {\\rm{cos}}x\\) nên khẳng định này bị Sai. Chọn đáp án: C."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Trên đường tròn lượng giác, góc lượng giác \\(\\frac{{15\\pi }}{7}\\)có cùng điểm biểu diễn với góc lượng giác nào sau đây?",
+      "options": [
+        "A. \\(\\frac{{20\\pi }}{7}\\).",
+        "B. \\(\\frac{{6\\pi }}{7}\\).",
+        "C. \\(\\frac{\\pi }{7}\\).",
+        "D. \\(\\frac{{19\\pi }}{{14}}\\)."
+      ],
+      "answer": "C",
+      "note": "Hai góc lượng giác có cùng điểm biểu diễn trên đường tròn lượng giác khi và chỉ khi chúng hơn kém nhau một bội nguyên của \\(2\\pi \\) . Ta tách góc ban đầu: \\(\\frac{{15\\pi }}{7} = \\frac{{\\pi + 14\\pi }}{7} = \\frac{\\pi }{7} + 2\\pi \\) . Vì hai góc hơn kém nhau đúng \\(2\\pi \\) nên điểm biểu diễn của góc \\(\\frac{{15\\pi }}{7}\\) trùng hoàn toàn với điểm biểu diễn của góc \\(\\frac{\\pi }{7}\\) . Chọn đáp án: C. \\(\\frac{\\pi }{7}\\) ."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-trac-nghiem-thuc-hanh-tinh-xac-suat-theo-dinh-nghia-co-dien-lop",
+  "sourceId": "vietjack:1-trac-nghiem-thuc-hanh-tinh-xac-suat-th",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.Trắc nghiệm Thực hành tính xác suất theo định nghĩa cổ điển lớp 10 (có đáp án)",
+  "duration": 90,
+  "answerSource": "partial",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Một hộp có 5 viên bi đen, 4 viên bi trắng. Chọn ngẫu nhiên 2 viên bi. Xác suất 2 viên bi được chọn có đủ hai màu là",
+      "options": [
+        "A. \\[\\frac{5}{{324}}\\];",
+        "B. \\[\\frac{5}{9}\\];",
+        "C. \\[\\frac{2}{9}\\];",
+        "D. \\[\\frac{1}{{18}}\\]."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Số phần tử không gian mẫu: n(Ω) = \\(C_9^2\\) = 36 (vì có 9 viên bi chọn ngẫu nhiên ra 2 viên bi). Gọi A là biến cố: “hai viên bi được chọn có đủ hai màu”. Vì chọn ngẫu nhiên 2 viên bi có đủ hai màu nên ta chọn chọn 1 bi đen từ 5 bi đen, chọn 1 bi trắng từ 4 bi trắng. Khi đó số phần tử của biến cố A là n(A) = \\(C_5^1.C_4^1\\) = 20. Xác suất của biến cố A là: \\(P\\left( A \\right) = \\frac{{n\\left( A \\right)}}{{n\\left( \\Omega \\right)}} = \\frac{{20}}{{36}} = \\frac{5}{9}\\)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Một bình đựng 4 quả cầu xanh và 6 quả cầu trắng. Chọn ngẫu nhiên 4 quả cầu. Xác suất để được 2 quả cầu xanh và 2 quả cầu trắng là:",
+      "options": [
+        "A. \\(\\frac{1}{{20}}\\);",
+        "B. \\(\\frac{3}{7}\\);",
+        "C. \\(\\frac{1}{7}\\);",
+        "D. \\(\\frac{4}{7}\\)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Số phần tử của không gian mẫu n(Ω) = \\(C_{10}^4\\) = 210. Gọi biến cố A để lấy được hai quả cầu xanh và hai quả cầu trắng Chọn 2 quả cầu xanh trong 4 quả cầu xanh vậy có \\(C_4^2 = 6\\). Chọn 2 quả cầu trắng trong 6 quả cầu trắng vậy có \\(C_6^2 = 15\\). Vậy số phần tử của biến cố A là n(A) = 6.15 = 90 Xác xuất của biến cố A là: \\(P\\left( A \\right) = \\frac{{n\\left( A \\right)}}{{n\\left( \\Omega \\right)}} = \\frac{{90}}{{210}} = \\frac{3}{7}\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Chọn ngẫu nhiên 6 số nguyên dương trong tập {1; 2; 3; 4; 5; 6; 7; 8; 9; 10} và sắp xếp chúng theo thứ tự tăng dần. Gọi P là xác suất để số 3 được chọn và xếp ở vị trí thứ 2. Khi đó P bằng:",
+      "options": [
+        "A. \\[\\frac{1}{{60}}\\];",
+        "B. \\[\\frac{1}{6}\\];",
+        "C. \\[\\frac{1}{3}\\];",
+        "D. \\[\\frac{1}{2}\\]."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Số phần tử của không gian mẫu n(Ω) = \\(C_{10}^6\\) = 210. Gọi A là biến cố “số 3 được chọn và xếp ở vị trí thứ 2”. Trong tập đã cho có 2 số nhỏ hơn số 3, có 7 số lớn hơn số 3. + Chọn một số nhỏ hơn số 3 ở vị trí đầu có: 2 cách. + Chọn số 3 ở vị trí thứ hai có: 1 cách. + Chọn 4 số lớn hơn 3 và để sắp xếp theo thứ tự tăng dần có: \\[C_7^4 = 35\\] cách. Do đó số phần tử của biến cố A là n(A) = 2.1.35 = 70 Vậy xác suất của biến cố A là \\[P(A) = \\frac{{70}}{{210}} = \\frac{1}{3}\\]."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho 100 tấm thẻ được đánh số từ 1 đến 100, chọn ngẫu nhiên 3 tấm thẻ. Xác suất để chọn được 3 tấm thẻ có tổng các số ghi trên thẻ là số chia hết cho 2 là",
+      "options": [
+        "A. \\(\\frac{5}{6}\\);",
+        "B. \\(\\frac{1}{2}\\);",
+        "C. \\(\\frac{5}{7}\\);",
+        "D. \\(\\frac{3}{4}\\)."
+      ],
+      "answer": "B",
+      "note": "Đáp án B Số phần tử của không gian mẫu là n(Ω) = \\(C_{100}^3\\) = 161700. (vì chọn ngẫu nhiên 3 tấm thẻ từ 100 tấm thẻ ). Gọi A là biến cố: “tổng các số ghi trên thẻ là số chia hết cho 2”. Ta có các trường hợp sau Trường hợp 1, cả 3 tấm thẻ đánh số chẵn Từ số 1 đến 100 có 50 tấm thẻ đánh số chẵn, chọn ra 3 tấm thẻ vậy số cách chọn là \\(C_{50}^3\\) = 19600 cách. Trường hợp 2, chọn 2 tấm thẻ đánh số lẻ và 1 tấm thẻ đánh số chẵn. Từ số 1 đến 100 có 50 tấm thẻ đánh số chẵn và 50 tấm thẻ đánh số lẻ, chọn ra 1 tấm tấm thẻ đánh số chẵn và 2 tấm thẻ đánh số lẻ, vậy số cách chọn là \\(C_{50}^1.C_{50}^2\\) = 61250. Số phần tử của biến cố A là n(A) = 19600 + 61250 = 80850 Vậy xác suất của biến cố A là P(A) = \\(\\frac{{80850}}{{161700}} = \\frac{1}{2}\\) ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Có 30 tấm thẻ đánh số từ 1 đến 30. Chọn ngẫu nhiên ra 10 tấm thẻ. Tìm xác suất để có 5 tấm thẻ mang số lẻ và 5 tấm thẻ mang số chẵn trong đó chỉ có đúng một tấm thẻ chia hết cho 10.",
+      "options": [
+        "A. \\(\\frac{{99}}{{667}}\\);",
+        "B. \\(\\frac{{98}}{{667}}\\);",
+        "C. \\(\\frac{{97}}{{667}}\\);",
+        "D. \\(\\frac{{96}}{{667}}\\)."
+      ],
+      "answer": null,
+      "note": "Đáp án đúng là: A Số phần tử của không gian mẫu là: n(Ω) = \\(C_{30}^{10} = 30045015\\)(vì chọn 10 tấm thẻ trong 30 tấm thẻ). Gọi A là biến cố lấy được 5 tấm thẻ mang số lẻ và 5 tấm thẻ mang số chẵn trong đó chỉ có đúng một tấm thẻ chia hết cho 10. Công đoạn 1, lấy 5 tấm thẻ mang số lẻ có: \\(C_{15}^5\\) = 3003 (cách) (vì có 15 tấm thẻ đánh số lẻ và lấy ra 3 tấm thẻ). Công đoạn 2, lấy 5 tấm thẻ mang số chẵn trong đó chỉ có đúng một tấm thẻ chia hết cho 10 có: \\(C_3^1C_{12}^4\\) = 1485 (cách) (vì có 3 tấm thẻ đánh số chia hết cho 10 và lấy ra một tấm thẻ, có 12 tấm thẻ còn lại đánh số chẵn và lấy ra 4 tấm thẻ). Số phần tử của biến cố A là: 3003.1485 = 4459455 (cách). Vậy xác suất của biến cố A là: P(A) = \\(\\frac{{4459455}}{{30045015}} = \\frac{{99}}{{667}}\\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Có mười cái ghế (mỗi ghế chỉ ngồi được một người) được sắp trên một hàng ngang. Xếp ngẫu nhiên 7 học sinh ngồi vào, mỗi học sinh ngồi đúng một ghế. Tính xác suất sao cho không có hai ghế trống nào kề nhau.,",
+      "options": [
+        "A. \\(\\frac{1}{4}\\);",
+        "B. \\(\\frac{{23}}{{50}}\\);",
+        "C. \\(\\frac{{29}}{{45}}\\);",
+        "D. \\(\\frac{7}{{15}}\\)."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Số phần tử của không gian mẫu là: n(Ω) = \\(A_{10}^7\\) = 604800. Gọi A là biến cố: “Xếp ngẫu nhiên 7 học sinh ngồi vào mười cái ghế sao cho không có hai ghế trống nào kề nhau”. Sắp 7 ghế trống và đặt 7 học sinh vào có 7! cách. Giữa 7 học sinh có 8 khoảng trống ta chọn ra 3 chỗ đặt 3 cái ghế còn lại vào và có \\(C_8^3\\) cách. Số phần tử của biến cố A là: n(A) = 7!.\\(C_8^3\\) = 282240 (cách). Vậy xác suất của biến cố A là: \\(P\\left( A \\right) = \\frac{{n\\left( A \\right)}}{{n\\left( \\Omega \\right)}}\\)\\( = \\frac{{282240}}{{604800}}\\)\\( = \\frac{7}{{15}}\\)."
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "id": "2026-vj-1-30-cau-trac-nghiem-toan-10-canh-dieu-on-tap-chuong-4-co-dap-an",
+  "sourceId": "vietjack:1-30-cau-trac-nghiem-toan-10-canh-dieu-o",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.30 câu Trắc nghiệm Toán 10 Cánh Diều Ôn tập chương 4 có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Tam giác ABC có A B = 5 , B C = 7 , C A = 8 . Số đo góc A ^ bằng:",
+      "options": [
+        "A. 30 ° ;",
+        "B. 45 ° ;",
+        "C. 60 ° ;",
+        "D. 90 ° ;"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Theo định lí hàm cosin, ta có: cos A ^ = A B 2 + A C 2 − B C 2 2 A B . A C = 5 2 + 8 2 − 7 2 2.5.8 = 1 2 . Do đó, A ^ = 60 ° ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Tam giác ABC có A C = 4 , B A C ^ = 30 ° , A C B ^ = 75 ° . Tính diện tích tam giác ABC.",
+      "options": [
+        "A. S Δ A B C = 8",
+        "B. S Δ A B C = 4 3",
+        "C. S Δ A B C = 4",
+        "D. S Δ A B C = 8 3"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có: A B C ^ = 180 0 − B A C ^ + A C B ^ = 75 ° = A C B ^ . Suy ra tam giác ABC cân tại A nên A B = A C = 4 Diện tích tam giác ABC là S Δ A B C = 1 2 A B . A C sin B A C ^ = 4 (đơn vị diện tích)"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho tam giác ABC, có bao nhiêu vectơ khác vectơ - không, có điểm đầu và điểm cuối là các đỉnh A, B, C.",
+      "options": [
+        "A. 3",
+        "B. 6",
+        "C. 4",
+        "D. 9"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Đó là các vectơ: A B → , B A → , B C → , C B → , C A → , A C → ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho lục giác đều ABCDEF tâm O. Số các vectơ khác vectơ - không, cùng phương với O C → có điểm đầu và điểm cuối là các đỉnh của lục giác là",
+      "options": [
+        "A. 4",
+        "B. 6",
+        "C. 7",
+        "D. 9"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Đó là các vectơ: A B → , B A → , D E → , E D → , F C → , C F → ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Tam giác ABC có A B = 2 , A C = 3 và C ^ = 45 ° . Tính độ dài cạnh BC.",
+      "options": [
+        "A. B C = 5 ;",
+        "B. B C = 6 + 2 2 ;",
+        "C. B C = 6 - 2 2 ;",
+        "D. B C = 6 ;"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Theo định lí hàm cosin, ta có: A B 2 = A C 2 + B C 2 − 2. A C . B C . cos C ^ ⇒ 2 2 = 3 2 + B C 2 − 2. 3 . B C . cos 45 ° - ⇒ B C 2 - 6 .BC + 1 = 0 ⇒ B C = 6 + 2 2 ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho hình vuông ABCD. Khẳng định nào sau đây đúng?",
+      "options": [
+        "A. A C → = B D → ;",
+        "B. A B → = C D → ;",
+        "C. A B → = B C → ;",
+        "D. Hai vectơ A B → , A C → cùng hướng."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Vì A B = B C ⇔ A B → = B C → ."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho a → và b → là các vectơ khác 0 → với a → là vectơ đối của b → . Khẳng định nào sau đây sai?",
+      "options": [
+        "A. Hai vectơ a → , b → cùng phương;",
+        "B. Hai vectơ a → , b → ngược hướng;",
+        "C. Hai vectơ a → , b → cùng độ dài;",
+        "D. Hai vectơ a → , b → chung điểm đầu."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Ta có : a → = − b → . Do đó, a → và b → cùng phương, cùng độ dài và ngược hướng nhau."
+    }
+  ]
+}

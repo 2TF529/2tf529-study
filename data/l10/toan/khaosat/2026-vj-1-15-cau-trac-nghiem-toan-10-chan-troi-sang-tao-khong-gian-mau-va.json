@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-toan-10-chan-troi-sang-tao-khong-gian-mau-va",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-toan-10-chan-troi-s",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu  Trắc nghiệm Toán 10 chân trời sáng tạo Không gian mẫu và biến cố có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Phép thử ngẫu nhiên (gọi tắt là phép thử) là gì?",
+      "options": [
+        "A. Hoạt động mà ta không thể biết trước được kết quả của nó ;",
+        "B. Hoạt động mà ta có thể biết trước được kết quả của nó ;",
+        "C. Hoạt động mà ta gieo xúc xắc ;",
+        "D. Cả 3 phương án trên đều sai."
+      ],
+      "answer": "A",
+      "note": "Phép thử ngẫu nhiên (gọi tắt là phép thử) là một hoạt động mà ta không thể biết trước được kết quả của nó. Ta chọn phương án A."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Gọi A là biến cố của không gian mẫu Ω . Phát biểu nào sau đây đúng ?",
+      "options": [
+        "A. A ∈ Ω;",
+        "B. A ⊂ Ω;",
+        "C. Ω ∈ A ;",
+        "D. Cả 3 phương án trên đều đúng."
+      ],
+      "answer": "B",
+      "note": "Biến cố luôn là tập con của không gian mẫu nên A ⊂ Ω . Ta chọn phương án B."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trong các thí nghiệm sau thí nghiệm nào không phải là phép thử ngẫu nhiên:",
+      "options": [
+        "A. Gieo đồng tiền xem xuất hiện mặt ngửa hay mặt sấp;",
+        "B. Gieo 3 đồng tiền và xem có mấy đồng tiền lật ngửa;",
+        "C. Chọn bất kì 1 học sinh trong lớp và xem là nam hay nữ;",
+        "D. Bỏ hai viên bi xanh và ba viên bi đỏ trong một chiếc hộp, sau đó lấy từng viên một để đếm xem có tất cả bao nhiêu viên bi."
+      ],
+      "answer": "D",
+      "note": "Phép thử ngẫu nhiên là phép thử mà ta chưa biết được kết quả là gì. Phương án D không phải là phép thử vì ta biết chắc chắn kết quả chỉ có thể là một số cụ thể số bi xanh và số bi đỏ. Vậy ta chọn phương án D."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Biến cố chắc chắn kí hiệu là gì?",
+      "options": [
+        "A. A;",
+        "B. Ω;",
+        "C. ∅ ;",
+        "D. Cả 3 ý trên."
+      ],
+      "answer": "B",
+      "note": "Biến cố chắc chắn là biến cố luôn xảy ra, kí hiệu là Ω . Ta chọn phương án B."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Một nhóm có 3 bạn nam và 2 bạn nữ. Chọn ngẫu nhiên cùng lúc 2 bạn đi làm vệ sinh lớp. Số phần tử của không gian mẫu của phép thử là:",
+      "options": [
+        "A. 10;",
+        "B. 5;",
+        "C. 15;",
+        "D. 20."
+      ],
+      "answer": "A",
+      "note": "Do ta chọn 2 bạn khác nhau từ 5 bạn trong nhóm và không tính thứ tự nên số phần tử của không gian mẫu là C 5 2 = 10. Ta chọn phương án A."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Gieo hai đồng tiền một lần. Kí hiệu S, N lầm lượt để chỉ đồng tiền lật sấp, lật ngửa. Xác định biến cố M: “Hai đồng tiền xuất hiện hai mặt không giống nhau”.",
+      "options": [
+        "A. M = {NN, SS} ;",
+        "B. M = {NS, SN} ;",
+        "C. M = {NS, NN} ;",
+        "D. M = {SS, SN} ."
+      ],
+      "answer": "B",
+      "note": "Biến cố M: “Hai đồng tiền xuất hiện hai mặt không giống nhau” là M = {NS, SN}. Ta chọn phương án B."
+    }
+  ]
+}

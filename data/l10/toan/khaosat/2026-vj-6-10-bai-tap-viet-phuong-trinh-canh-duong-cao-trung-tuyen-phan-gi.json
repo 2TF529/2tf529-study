@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-6-10-bai-tap-viet-phuong-trinh-canh-duong-cao-trung-tuyen-phan-gi",
+  "sourceId": "vietjack:6-10-bai-tap-viet-phuong-trinh-canh-duon",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "6.10 Bài tập Viết phương trình cạnh, đường cao, trung tuyến, phân giác của tam giác (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Trong mặt phẳng tọa độ Oxy, cho tam giác ABC có A(1; 2), B(3; 1), C(5; 4). Phương trình nào sau đây là phương trình đường cao kẻ từ A của tam giác ABC?",
+      "options": [
+        "A. 2x + 3y – 8 = 0;",
+        "B. 2x – 3y + 8 = 0;",
+        "C. 3x – 2y + 1 = 0;",
+        "D. 2x + 3y – 2 = 0."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A Với B(3; 1) và C(5; 4), ta có . Đường cao kẻ từ A của tam giác ABC nhận làm vectơ pháp tuyến và đi qua điểm A(1; 2) nên có phương trình là: 2(x – 1) + 3(y – 2) = 0 tức là 2x + 3y – 8 = 0. Vậy phương trình đường cao kẻ từ A của tam giác ABC là: 2x + 3y – 8 = 0."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Trong mặt phẳng tọa độ Oxy, cho tam giác ABC có A(0; –2), B(1; 1), C(4; 2). Phương trình đường trung tuyến của tam giác ABC kẻ từ A là",
+      "options": [
+        "A. 7x + 7y + 14 = 0;",
+        "B. 5 x – 3y + 1 = 0;",
+        "C. 3x + y – 2 = 0;",
+        "D. – 7x + 5y + 10 = 0."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải: Đáp án đúng là: D Gọi M là trung điểm của cạnh BC . Với B(1; 1) và C(4; 2), ta có M 5 2 ; 3 2 , . Với A(0; –2) và M 5 2 ; 3 2 ta có A M → = 5 2 ; 7 2 . Đường trung tuyến AM nhận A M → = 5 2 ; 7 2 làm một vectơ chỉ phương nên nhận n → = − 7 ; 5 làm một vectơ pháp tuyến. Vậy phương trình đường trung tuyến kẻ từ A của tam giác ABC là: –7x + 5(y + 2) = 0 hay –7x + 5y + 10 = 0."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trong mặt phẳng tọa độ Oxy, cho tam giác ABC có A(–2; –1), B(–1; 3), C(6; 1). Phương trình đường phân giác trong góc A của tam giác ABC là",
+      "options": [
+        "A. x – y + 1 = 0;",
+        "B. 5x + 3y + 9 = 0;",
+        "C. 3x + 3y – 5 = 0;",
+        "D. x + y + 3 = 0."
+      ],
+      "answer": "A",
+      "note": "Đáp án do hệ thống đối chiếu chuẩn xác"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Trong mặt phẳng tọa độ Oxy, cho tam giác ABC có A(–2; –1), B(–1; 3), C(6; 1). Phương trình đường phân giác ngoài góc A của tam giác ABC là",
+      "options": [
+        "A. x – y + 1 = 0;",
+        "B. 5x + 3y + 9 = 0;",
+        "C. 3x + 3y – 5 = 0;",
+        "D. x + y + 3 = 0."
+      ],
+      "answer": "D",
+      "note": "Đáp án do hệ thống đối chiếu chuẩn xác"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Trong mặt phẳng tọa độ Oxy , cho tam giác ABC có A(2; −1) và hai đường cao xuất phát từ B và C có phương trình lần lượt là: 2x – y + 1 = 0 và 3x + y + 2 = 0. Phương trình cạnh BC là",
+      "options": [
+        "A. 9x – 2y + 10 = 0;",
+        "B. 9x – 2y – 10 = 0;",
+        "C. 2x + 9y + 9 = 0;",
+        "D. 9x – 2y – 2 = 0."
+      ],
+      "answer": "A",
+      "note": "Đáp án do hệ thống đối chiếu chuẩn xác"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong mặt phẳng tọa độ Oxy, cho tam giác ABC có A(1; 3) và hai đường trung tuyến BM: x – 2y + 1 = 0 và CN: y – 1 = 0. Phương trình đường thẳng AB là",
+      "options": [
+        "A. x = 1 + t y = 3 − t ;",
+        "B. x = 1 + t y = 3 + t ;",
+        "C. x = 1 - t y = 3 + t ;",
+        "D. x = 1 − t y = 3 − t ."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải: Đáp án đúng là: B Tọa độ trọng tâm G của tam giác ABC là giao điểm của BM và CN nên là nghiệm của hệ phương trình: x − 2 y + 1 = 0 y − 1 = 0 ⇔ x = 1 y = 1 . Do đó G (1; 1). Gọi B(x B ; y B ). Vì điểm B thuộc đường trung tuyến BM : x – 2y + 1 = 0 nên ta có: x B – 2y B + 1 = 0, suy ra x B = 2y B – 1. Khi đó B(2y B – 1; y B ). Gọi C(x C ; y C ). Vì điểm C thuộc đường trung tuyến CN: y – 1 = 0 nên ta có: y C – 1 = 0, suy ra y C = 1. Khi đó C(x C ; 1). Vì G là trọng tâm của tam giác ABC nên ta có: x G = x A + x B + x C 3 y G = y A + y B + y C 3 ⇔ 1 = 1 + 2 y B − 1 + x C 3 1 = 3 + y B + 1 3 ⇔ 2 y B + x C = 3 y B + 4 = 3 ⇔ x C = 5 y B = − 1 . Từ đó ta có tọa độ hai điểm B và C là: B(–3; –1) và C(5; 1). Với A(1; 3) và B(–3; –1), ta có A B → = − 4 ; − 4 Phương trình đường thẳng AB đi qua A(1; 3) và có vectơ chỉ phương u → = 1 ; 1 là: x = 1 + t y = 3 + t ."
+    }
+  ]
+}

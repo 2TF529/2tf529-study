@@ -1,0 +1,78 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-10-canh-dieu-tach-anh-va-thiet-ke-do",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-10-canh-die",
+  "grade": "l10",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 10 Cánh diều Tách ảnh và thiết kế đồ họa với kênh alpha có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Sử dụng công cụ nào để biết một bức ảnh có nền trong suốt hay không?",
+      "options": [
+        "A. Move Tool",
+        "B. Rectangle Select hoặc Ellip Select.",
+        "C. Crop",
+        "D. Eraser"
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Sử dụng công cụ Eraser để tẩy một số chỗ trên ảnh sẽ phát hiện ảnh có nền trong suốt hay không."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Công cụ phổ biến nhất dùng để tách ảnh là:",
+      "options": [
+        "A. Eraser",
+        "B. Free Select",
+        "C. Move Tool",
+        "D. Crop"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Công cụ phổ biến nhất dùng để tách ảnh là Free Select"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Kênh alpha là:",
+      "options": [
+        "A. Kênh lưu độ trong suốt của tất cả các điểm ảnh.",
+        "B. Ảnh nguồn.",
+        "C. Lớp ảnh cần xử lí.",
+        "D. Ảnh không có nền trong suốt."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A GIMP lưu trữ ba kênh màu R, B, G và có thể được thêm kênh lưu độ trong suốt của tất cả các điểm ảnh gọi là kênh alpha."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Để chọn đối tượng cần tách ra khỏi nền ảnh sau khi đã thêm kênh anpha vào lớp ảnh ta thực hiện:",
+      "options": [
+        "A. Nháy chuột chọn công cụ Free Select, rồi bắt đầu từ một điểm bất kì trên đối tượng, lần lượt nháy chuột vào xung quanh đối tượng cần tách. Điểm chọn cuối cùng được xác định bằng cách nháy chuột trùng với điểm xuất phát để tạo thành vùng chọn bao quanh đối tượng.",
+        "B. Xóa lớp ảnh nền.",
+        "C. Đảo ngược vùng chọn.",
+        "D. Chọn Layer\\Transform"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Để chọn đối tượng cần tách ra khỏi nền ảnh sau khi đã thêm kênh alpha vào lớp ảnh ta thực hiện: Nháy chuột chọn công cụ Free Select, rồi bắt đầu từ một điểm bất kì trên đối tượng, lần lượt nháy chuột vào xung quanh đối tượng cần tách. Điểm chọn cuối cùng được xác định bằng cách nháy chuột trùng với điểm xuất phát để tạo thành vùng chọn bao quanh đối tượng."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Để tách ảnh khỏi nền sau khi đã chọn đối tượng cần tách ta thực hiện:",
+      "options": [
+        "A. Nháy chuột chọn công cụ Free Select, rồi bắt đầu từ một điểm bất kì trên đối tượng, lần lượt nháy chuột vào xung quanh đối tượng cần tách.",
+        "B. Đảo ngược vùng chọn, xóa vùng chọn rồi bỏ chọn.",
+        "C. Chọn lớp ảnh cần xử lí.",
+        "D. Xóa vùng chọn rồi bỏ chọn."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Để tách ảnh khỏi nền sau khi đãchọn đối tượng cần tách ta thực hiện: Đảo ngược vùng chọn, xóa vùng chọn rồi bỏ chọn."
+    }
+  ]
+}

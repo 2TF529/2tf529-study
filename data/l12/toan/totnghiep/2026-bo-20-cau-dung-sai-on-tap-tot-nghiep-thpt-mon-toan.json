@@ -1,0 +1,294 @@
+{
+  "id": "2026-bo-20-cau-dung-sai-on-tap-tot-nghiep-thpt-mon-toan",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "code": "20 câu Đúng sai",
+  "title": "Bộ 20 câu trắc nghiệm đúng sai ôn tập tốt nghiệp THPT môn Toán 2025–2026",
+  "duration": 90,
+  "answerSource": "official",
+  "sourceUrl": "https://drive.google.com/drive/folders/1yeCO7oKJYXmFn6rNxHviDtc9KcfoFSdA",
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "chuong": "Nguyên hàm – Tích phân và Ứng dụng",
+      "dang": "Ứng dụng tích phân trong chuyển động",
+      "content": "Một vật bắt đầu chuyển động đều với tốc độ $10\\,\\mathrm{m/s}$. Sau $1$ giây, vật gặp chướng ngại vật nên phải phanh gấp; từ thời điểm đó vật chuyển động chậm dần đều với vận tốc $v(t)=-4t+14$ (m/s), trong đó $t$ là thời gian tính bằng giây kể từ lúc bắt đầu chuyển động. Xét tính đúng sai của các mệnh đề sau:",
+      "statements": [
+        "Quãng đường vật đi được từ lúc bắt đầu đến khi gặp chướng ngại vật là $10$ mét.",
+        "Sau $3$ giây thì vật sẽ dừng lại.",
+        "Gia tốc của vật kể từ lúc gặp chướng ngại vật luôn ổn định.",
+        "Quãng đường vật đi được cho đến khi dừng lại là $22{,}5$ mét (kết quả làm tròn đến hàng phần chục)."
+      ],
+      "answer": ["D", "S", "D", "D"]
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "chuong": "Nguyên hàm – Tích phân và Ứng dụng",
+      "dang": "Bài toán tăng trưởng",
+      "content": "Gọi $N(t)$ là số lượng vi khuẩn phát triển sau $t$ giờ. Biết $N'(t)=\\dfrac{3000}{2+3t}$, $t\\ge 0$, và ban đầu có $5000$ con vi khuẩn. Xét tính đúng sai của các mệnh đề sau:",
+      "statements": [
+        "Tốc độ phát triển của vi khuẩn luôn tăng.",
+        "$N(t)=9000\\ln|2+3t|+5000$.",
+        "Số lượng vi khuẩn sau $3$ giờ là $6704$ (kết quả làm tròn đến hàng đơn vị).",
+        "Sau $49$ giờ số lượng vi khuẩn sẽ gấp đôi ban đầu (kết quả làm tròn đến hàng đơn vị)."
+      ],
+      "answer": ["S", "S", "S", "S"]
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "chuong": "Nguyên hàm – Tích phân và Ứng dụng",
+      "dang": "Ứng dụng nguyên hàm",
+      "content": "Bác Thảo bắt đầu bơm nước vào một bể mới xây. Gọi $V(t)$ là thể tích nước (lít) trong bể tại thời điểm $t$ giờ, với $0\\le t\\le24$. Thể tích nước tăng theo tốc độ $V'(t)=3t+\\sqrt t$. Các kết quả tính toán được làm tròn đến hàng phần trăm.",
+      "statements": [
+        "$V(t)=\\dfrac32t^2+\\dfrac23t\\sqrt t$ với $0\\le t\\le24$.",
+        "Thể tích nước trong bể sau $9$ giờ bơm được hơn $140$ lít.",
+        "Từ thời điểm $2$ giờ đến $9$ giờ, thể tích nước tăng lên hơn $130$ lít.",
+        "Đến thời điểm $9$ giờ, bác Thảo bắt đầu xả nước với tốc độ $v'(t)=\\sqrt t$ lít/giờ đồng thời với vòi đang bơm. Sau $12$ giờ, thể tích nước trong bể không quá $250$ lít."
+      ],
+      "answer": ["D", "S", "D", "D"]
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "chuong": "Nguyên hàm – Tích phân và Ứng dụng",
+      "dang": "Ứng dụng nguyên hàm",
+      "content": "Mật độ vi khuẩn $V(t)$ (triệu tế bào/ml) trong một mẫu vật có tốc độ thay đổi $V'(t)=-2t^2+kt-1$, với $t$ tính bằng giờ. Sau $2$ giờ, tốc độ thay đổi mật độ vi khuẩn là lớn nhất; sau $3$ giờ, mật độ vi khuẩn là $20$ triệu tế bào/ml.",
+      "statements": [
+        "$V'(t)=-2t^2-8t-1$ (triệu tế bào/ml/giờ).",
+        "$V(t)$ là một nguyên hàm của hàm $f(t)=-2t^2-8t-1$.",
+        "$V(t)=-\\dfrac23t^3+4t^2-t+5$.",
+        "Sau $5$ giờ, mật độ vi khuẩn trong mẫu vật lớn hơn $11{,}5$ triệu tế bào/ml."
+      ],
+      "answer": ["S", "S", "D", "D"]
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "chuong": "Nguyên hàm – Tích phân và Ứng dụng",
+      "dang": "Hàm số mũ và nguyên hàm",
+      "content": "Tốc độ thay đổi nhiệt độ của một mẫu vật được cho bởi $T'(t)=120e^{t/3}$ (°C/h), trong đó $t$ là thời gian tính bằng giờ. Tại $t=0$, mẫu vật có nhiệt độ $135$°C và bắt đầu được đặt vào môi trường thực nghiệm.",
+      "statements": [
+        "$T(t)$ là một nguyên hàm của hàm $f(t)=120e^{t/3}$.",
+        "Kể từ khi được đặt vào môi trường thực nghiệm, nhiệt độ của vật tăng dần theo thời gian.",
+        "Tốc độ thay đổi nhiệt độ của vật tăng dần theo thời gian.",
+        "Sau $3$ giờ, nhiệt độ của mẫu vật là $\\displaystyle\\int_0^3 120e^{t/3}\\,dt$."
+      ],
+      "answer": ["D", "D", "D", "S"]
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "chuong": "Hình học không gian – Hệ tọa độ trong không gian",
+      "dang": "Vectơ và chuyển động trong không gian",
+      "content": "Trong không gian với đơn vị đo là mét, một con chim cắt bay từ $M(0;0;0)$ với tốc độ không đổi, hướng đến $Q(530;405;336)$ trong $9$ giây.",
+      "statements": [
+        "Quãng đường chim bay trong $9$ giây dài hơn $750$ m.",
+        "Chim bay từ $M$ đến $Q$ với tốc độ không quá $300$ km/h.",
+        "Nếu chim giữ nguyên tốc độ và hướng bay thì sau $20$ giây kể từ vị trí $Q$, vị trí $P(a;b;c)$ thỏa mãn $9a-5b-9c=-900$.",
+        "Nếu sau khi đến $Q$, chim giữ nguyên hướng nhưng giảm tốc độ đi một nửa thì sau $20$ giây kể từ $Q$, vị trí $K(x;y;z)$ thỏa mãn $9x-y-3z=7087$."
+      ],
+      "answer": ["S", "D", "S", "D"]
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "chuong": "Hình học không gian – Hệ tọa độ trong không gian",
+      "dang": "Chuyển động trong hệ tọa độ Oxyz",
+      "content": "Thảo thả rơi tự do một viên bi từ nóc tòa nhà cao $14$ m. Vận tốc rơi là $v(t)=gt$, với $g=9{,}8\\,\\mathrm{m/s^2}$. Trong hệ $Oxyz$, vị trí ban đầu là $A(7;8;14)$, mặt phẳng $(Oxy)$ trùng với mặt đất và trục $Oz$ hướng lên.",
+      "statements": [
+        "Vị trí viên bi khi vừa chạm đất là $B(7;8;0)$.",
+        "Vận tốc của viên bi sau $1$ giây là $9{,}8$ m/s.",
+        "Vị trí viên bi sau khi rơi được $1$ giây là $C(7;8;4{,}9)$.",
+        "Sau khi rơi được $1$ giây, gió làm quỹ đạo lệch $10^\\circ$ so với phương thẳng đứng; từ đó quỹ đạo vẫn là đường thẳng. Viên bi chạm đất ở vị trí mới cách điểm chạm đất ban đầu không quá $1{,}5$ m."
+      ],
+      "answer": ["D", "D", "S", "S"]
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "chuong": "Hình học không gian – Hệ tọa độ trong không gian",
+      "dang": "Tọa độ điểm trong không gian",
+      "content": "Một sân bóng hình chữ nhật dài $105$ m, rộng $68$ m, được gắn hệ tọa độ $Oxyz$ như hình. Trục $Ox$ theo chiều rộng, trục $Oy$ theo chiều dài, mỗi đơn vị ứng với $1$ m. Quả bóng cách trục $Ox$ một khoảng $25$ m, cách trục $Oy$ một khoảng $13$ m. Bóng được tâng lên cao $2{,}5$ m đến $A$, rơi thẳng xuống $B$, rồi được đá theo chiều trục $Oy$ và đáp tại $C$ cách $B$ một khoảng $32$ m.<figure class='question-figure'><img src='data/l12/toan/totnghiep/assets/2026-bo-20-cau-dung-sai-on-tap-tot-nghiep-thpt-mon-toan/cau-08.webp' alt='Hệ tọa độ Oxyz gắn với sân bóng' loading='lazy'></figure>",
+      "statements": [
+        "Lúc đầu, bóng có tọa độ $(13;25;0)$.",
+        "Khi được tâng lên đến $A$, bóng có tọa độ $A(13;25;2{,}5)$.",
+        "Bóng rơi thẳng xuống đất tại $B(25;13;0)$.",
+        "Cuối cùng, bóng đáp đất tại $C(13;57;0)$."
+      ],
+      "answer": ["D", "D", "S", "D"]
+    },
+    {
+      "id": 9,
+      "type": "true_false",
+      "chuong": "Hình học không gian – Hệ tọa độ trong không gian",
+      "dang": "Mặt phẳng và điểm cách đều",
+      "content": "Trong không gian $Oxyz$, ba trạm thu tín hiệu đặt tại $A(1;2;-1)$, $C(3;5;-2)$, $B(2;3;4)$. Máy phát cần được đặt tại vị trí cách đều và đồng phẳng với ba trạm thu.",
+      "statements": [
+        "$\\overrightarrow{AB}=(1;1;5)$.",
+        "Máy phát nằm trên mặt phẳng $16x-11y-z-5=0$.",
+        "Có vô số vị trí có thể đặt máy phát tín hiệu.",
+        "Khi đặt máy phát đúng vị trí thì khoảng cách từ máy phát đến mỗi trạm thu lớn hơn $3$."
+      ],
+      "answer": ["D", "S", "S", "D"]
+    },
+    {
+      "id": 10,
+      "type": "true_false",
+      "chuong": "Hình học không gian – Hệ tọa độ trong không gian",
+      "dang": "Đường thẳng và hình chiếu trong không gian",
+      "content": "Một khu bảo tồn có hai trạm kiểm lâm $A(15;10;5)$, $B(75;90;5)$ và trạm quan sát $C(25;70;10)$. Drone bay trên đường thẳng qua $M(15;10;5)$ và $N(60;80;6)$ để truyền dữ liệu về $C$.",
+      "statements": [
+        "Đường bay có phương trình $d:\\begin{cases}x=15+45t\\\\y=10+70t\\\\z=5+t\\end{cases}$, $t\\in\\mathbb R$.",
+        "Trạm $C$ nhìn đoạn $AB$ dưới một góc nhỏ hơn $60^\\circ$.",
+        "Khi tín hiệu truyền về $C$ nhanh nhất, drone ở $K(15+45t;10+70t;5+t)$ với $t=\\dfrac{4655}{6926}$.",
+        "Một xe máy đi từ $A$ đến $B$ với tốc độ $40$ km/h và một ô tô đi từ $B$ đến $A$ với tốc độ $60$ km/h, gặp nhau tại $I$. Vị trí drone $H$ có hình chiếu trên $AB$ là $I$ có tọa độ $H\\left(\\dfrac{2989}{83};\\dfrac{3672}{83};\\dfrac{2278}{415}\\right)$."
+      ],
+      "answer": ["D", "S", "D", "S"]
+    },
+    {
+      "id": 11,
+      "type": "true_false",
+      "chuong": "Hàm số",
+      "dang": "Đạo hàm và giá trị lớn nhất, nhỏ nhất",
+      "content": "Cho hàm số $f(x)=x-\\cos x\\sin x$. Xét tính đúng sai của các mệnh đề sau:",
+      "statements": [
+        "Hàm số xác định trên $[0;2\\pi]$.",
+        "$f'(x)=1-2\\cos 2x$.",
+        "Với $x\\in[0;2\\pi]$, $f'(x)=0\\Rightarrow x=k\\pi$ ($k\\in\\mathbb Z$).",
+        "Giá trị nhỏ nhất của hàm số trên $[0;2\\pi]$ là $f(0)$."
+      ],
+      "answer": ["D", "S", "S", "D"]
+    },
+    {
+      "id": 12,
+      "type": "true_false",
+      "chuong": "Hàm số",
+      "dang": "Cực trị và điểm uốn",
+      "content": "Cho hàm số $y=f(x)=x^3-12x+5$. Xét tính đúng sai của các mệnh đề sau:",
+      "statements": [
+        "Điểm uốn của đồ thị hàm số là $(2;-11)$.",
+        "Điểm cực đại của đồ thị hàm số có hoành độ $x=-2$.",
+        "Giá trị nhỏ nhất của hàm số trên $(-2;+\\infty)$ là $-11$.",
+        "Phương trình $42-2f(x)=0$ có $2$ nghiệm phân biệt."
+      ],
+      "answer": ["S", "D", "D", "D"]
+    },
+    {
+      "id": 13,
+      "type": "true_false",
+      "chuong": "Hàm số",
+      "dang": "Hàm phân thức hữu tỉ",
+      "content": "Cho hàm số $y=\\dfrac{x-5}{2x+1}$. Xét tính đúng sai của các mệnh đề sau:",
+      "statements": [
+        "Hàm số đồng biến trên $(-\\infty;-\\tfrac12)$ và $(-\\tfrac12;+\\infty)$.",
+        "Tâm đối xứng của đồ thị là $\\left(\\tfrac12;-\\tfrac12\\right)$.",
+        "Giao điểm của đồ thị với trục tung có tung độ bằng $-5$.",
+        "Đồ thị cắt đường thẳng $y=2x-5$ tại $(0;-5)$ và $\\left(\\tfrac94;\\tfrac12\\right)$."
+      ],
+      "answer": ["D", "S", "D", "S"]
+    },
+    {
+      "id": 14,
+      "type": "true_false",
+      "chuong": "Hàm số",
+      "dang": "Hàm phân thức hữu tỉ",
+      "content": "Cho hàm số $y=\\dfrac{x^2+3x-4}{3-x}$ có đồ thị $(C)$. Xét tính đúng sai của các mệnh đề sau:",
+      "statements": [
+        "Tâm đối xứng của $(C)$ nằm trên đường thẳng $y=2x-3$.",
+        "Hàm số có giá trị nhỏ nhất trên $(3;+\\infty)$ là $-2\\sqrt{14}-9$.",
+        "Đồ thị $(C)$ có hai điểm cực trị nằm về hai phía đối với trục $Ox$.",
+        "Hàm số đồng biến trên $(-1;3)$."
+      ],
+      "answer": ["S", "S", "S", "S"]
+    },
+    {
+      "id": 15,
+      "type": "true_false",
+      "chuong": "Hàm số",
+      "dang": "Đọc đồ thị đạo hàm",
+      "content": "Cho hàm số $y=f(x)$ có đồ thị $y=f'(x)$ như hình vẽ.<figure class='question-figure'><img src='data/l12/toan/totnghiep/assets/2026-bo-20-cau-dung-sai-on-tap-tot-nghiep-thpt-mon-toan/cau-15.webp' alt='Đồ thị hàm số y bằng f phẩy của x' loading='lazy'></figure>",
+      "statements": [
+        "Hàm số $y=f(x)$ nghịch biến trên $(0;3)$.",
+        "Phương trình $e^x f'(x)=0$ có ba nghiệm phân biệt.",
+        "Giá trị cực đại của hàm số $y=f(x)$ là $f(1)$.",
+        "Nếu $f(-1)+f(0)-2f(1)=f(3)-f(2)$ thì $\\displaystyle\\min_{[-1;3]}f(x)=f(3)$."
+      ],
+      "answer": ["S", "S", "D", "D"]
+    },
+    {
+      "id": 16,
+      "type": "true_false",
+      "chuong": "Xác suất có điều kiện",
+      "dang": "Xác suất của biến cố",
+      "content": "Một người tung một đồng xu và một xúc xắc $6$ mặt cân đối, đồng chất. Xét tính đúng sai của các mệnh đề sau:",
+      "statements": [
+        "Xác suất ra mặt sấp và số chẵn là $\\dfrac14$.",
+        "Xác suất ra mặt ngửa và số lẻ là $\\dfrac14$.",
+        "Xác suất ra mặt ngửa và số chia hết cho $3$ là $\\dfrac16$.",
+        "Biết rằng ít nhất một trong hai sự kiện đồng xu ra ngửa hoặc số trên xúc xắc là chẵn xảy ra, xác suất để cả hai sự kiện cùng xảy ra bằng $\\dfrac13$."
+      ],
+      "answer": ["D", "D", "D", "D"]
+    },
+    {
+      "id": 17,
+      "type": "true_false",
+      "chuong": "Xác suất có điều kiện",
+      "dang": "Công thức xác suất toàn phần và Bayes",
+      "content": "Một lô sản phẩm có $3$ hộp loại I và $5$ hộp loại II. Mỗi hộp loại I có $97$ chính phẩm, $3$ phế phẩm; mỗi hộp loại II có $95$ chính phẩm, $5$ phế phẩm. Chọn ngẫu nhiên một hộp rồi lấy đồng thời hai sản phẩm.",
+      "statements": [
+        "Xác suất hộp được chọn là hộp loại I bằng $\\dfrac38$.",
+        "Nếu hộp được chọn là loại I thì xác suất cả hai sản phẩm không có phế phẩm bằng $\\dfrac{776}{825}$.",
+        "Xác suất cả hai sản phẩm lấy ra không có phế phẩm bằng $91{,}65\\%$.",
+        "Biết trong hai sản phẩm có đúng một phế phẩm, xác suất hộp được chọn là loại I bằng $\\dfrac{203}{2475}$."
+      ],
+      "answer": ["D", "D", "S", "S"]
+    },
+    {
+      "id": 18,
+      "type": "true_false",
+      "chuong": "Xác suất có điều kiện",
+      "dang": "Công thức xác suất toàn phần",
+      "content": "Chung kết một giải bắn cung có $10$ vận động viên, gồm $2$ hạt giống số 1 và $8$ hạt giống số 2. Xác suất bắn trúng hồng tâm của hai nhóm lần lượt là $90\\%$ và $70\\%$.",
+      "statements": [
+        "Chọn ngẫu nhiên một vận động viên: xác suất chọn được hạt giống số 1 nhỏ hơn $4$ lần xác suất chọn được hạt giống số 2.",
+        "Chọn ngẫu nhiên một vận động viên bắn một mũi tên: xác suất mũi tên trúng hồng tâm nhỏ hơn $70\\%$.",
+        "Chọn ngẫu nhiên hai vận động viên, mỗi người bắn một mũi tên. Gọi $I$ là biến cố cả hai mũi tên trúng hồng tâm và $I_j$ là biến cố chọn được $j$ hạt giống số 1. Khi đó $P(I)=P(I_1)P(I\\mid I_1)+P(I_2)P(I\\mid I_2)$.",
+        "Chọn ngẫu nhiên hai vận động viên, mỗi người bắn một mũi tên: xác suất cả hai mũi tên trúng hồng tâm là $54{,}69\\%$ (làm tròn đến hàng phần trăm)."
+      ],
+      "answer": ["D", "S", "S", "D"]
+    },
+    {
+      "id": 19,
+      "type": "true_false",
+      "chuong": "Xác suất có điều kiện",
+      "dang": "Xác suất trong thi đấu",
+      "content": "Hai kiện tướng cờ vua thi đấu, mỗi ván chỉ có thắng hoặc thua. Người đầu tiên thắng được $5$ ván là người thắng chung cuộc. Giả sử mỗi người có xác suất thắng một ván bằng nhau.",
+      "statements": [
+        "Hai kiện tướng chơi tối đa $9$ ván.",
+        "Xác suất để trong hai ván đầu người thứ nhất luôn thắng là $25\\%$.",
+        "Khi người thứ nhất đã thắng $4$ ván còn người thứ hai mới thắng $2$ ván, xác suất người thứ nhất thắng chung cuộc là $\\dfrac78$.",
+        "Xác suất trận đấu kết thúc đúng sau $7$ ván lớn hơn $25\\%$."
+      ],
+      "answer": ["D", "D", "D", "S"]
+    },
+    {
+      "id": 20,
+      "type": "true_false",
+      "chuong": "Xác suất có điều kiện",
+      "dang": "Xác suất có điều kiện",
+      "content": "Một công ty đấu thầu hai công trình. Xác suất thắng công trình 1 là $0{,}7$, thắng công trình 2 là $0{,}6$, và thắng cả hai là $0{,}3$. Gọi $A$, $B$ lần lượt là biến cố thắng công trình 1 và công trình 2.",
+      "statements": [
+        "$A$ và $B$ là hai biến cố độc lập.",
+        "Xác suất công ty thắng đúng một công trình là $0{,}7$.",
+        "Biết công ty thắng công trình 1, xác suất công ty thắng công trình 2 là $\\dfrac37$.",
+        "Biết công ty không thắng công trình 2, xác suất công ty thắng công trình 1 là $\\dfrac37$."
+      ],
+      "answer": ["S", "D", "D", "S"]
+    }
+  ]
+}

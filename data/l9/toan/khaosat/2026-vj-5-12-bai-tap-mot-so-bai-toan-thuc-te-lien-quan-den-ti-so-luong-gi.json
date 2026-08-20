@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-5-12-bai-tap-mot-so-bai-toan-thuc-te-lien-quan-den-ti-so-luong-gi",
+  "sourceId": "vietjack:5-12-bai-tap-mot-so-bai-toan-thuc-te-lie",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "5.12 bài tập Một số bài toán thực tế liên quan đến tỉ số lượng giác của góc nhọn có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Tháp Discovery Complex A với quy mô 54 tầng, đang là tòa nhà cao nhất quận Cầu Giấy. Tại một thời điểm trong ngày mặt trời tạo với mặt đất một góc xấp xỉ 68° và bóng của tòa nhà trên mặt đất dài khoảng 79 m. Hỏi tòa nhà cao bao nhiêu mét? (Làm tròn kết quả đến hàng đơn vị).",
+      "options": [
+        "A. 196 m.",
+        "B. 277 m.",
+        "C. 169 m.",
+        "D. 275 m."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Chiều cao của tòa tháp chính là độ dài của đoạn AB. Xét tam giác ABC vuông tại A, ta có: AB = AC. \\(\\tan \\widehat {ACB}\\) = 79.tan68° ≈ 196 m."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Tính chiều cao của tòa tháp chung cư (làm tròn đến kết quả hàng đơn vị)",
+      "options": [
+        "A. 240 m.",
+        "B. 170 m.",
+        "C. 107 m.",
+        "D. 172 m."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Chiều cao của tòa tháp chính là độ dài đoạn AB. Xét tam giác ABC vuông tại A, ta có: AB = AC.tan\\(\\widehat {ACB}\\) = 72.tan67° ≈ 170 m."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Một flycam từ vị trí D bay lên đỉnh B theo quãng đường BD, tạo với phương nằm ngang một góc bằng 45°. Biết flycam mất 140 giây để lên đến đỉnh tháp. Tính vận tốc trung bình của chiếc flycam đó (làm tròn kết quả đến hàng phần trăm).",
+      "options": [
+        "A. 1,7 m/s.",
+        "B. 1,72 m/s.",
+        "C. 1,27 m/s.",
+        "D. 17,2 m/s."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Xét tam giác vuông ABD có: BD = \\(\\frac{{AB}}{{\\sin \\widehat {ADB}}} = \\frac{{170}}{{\\sin 45^\\circ }} = 170\\sqrt 2 \\) (m). Vận tốc trung bình của chiếc flycam đó là: \\(170\\sqrt 2 :140 \\approx 1,72{\\rm{ }}\\left( {m/s} \\right)\\). Vậy vận tốc trung bình của chiếc flycam đó khoảng 1,72 m/s."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Tính góc α tạo bởi phần thân bị gãy AB và mặt đất BC (kết quả làm tròn đến phút).",
+      "options": [
+        "A. \\(43^\\circ 15'\\).",
+        "B. \\(41^\\circ 49'\\).",
+        "C. \\(42^\\circ 49'\\)",
+        "D. \\(45^\\circ 49'\\)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Theo đề bài, ta có, phần ngọn bị gãy AB và phần gốc AC có tỉ lệ 3 : 2 hay \\(\\frac{{AB}}{{AC}} = \\frac{3}{2}\\), suy ra \\(\\frac{{AC}}{{AB}} = \\frac{2}{3}\\). Xét tam giác ABC vuông tại C, ta có: \\(\\sin \\widehat {ABC} = \\frac{{AC}}{{AB}} = \\frac{2}{3}\\), suy ra \\(\\alpha = \\tan \\widehat {ABC} = 41^\\circ 49'\\). Vậy góc α tạo bởi phần thân bị gãy AB và mặt đất BC khoảng α ≈ 41°49’."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Hỏi chiều cao ban đầu của cây là bao nhiêu mét? (kết quả làm tròn đến chữ số thập phân thứ hai).",
+      "options": [
+        "A. 6,71 m.",
+        "B. 11,2 m.",
+        "C. 11,18 m.",
+        "D. 11,175 m."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Xét tam giác ABC vuông tại C, ta có: AC = BC.tan\\(\\widehat {ABC}\\) = 5.tan41°49’ ≈ 4,47 (m). Mà \\(\\frac{{AB}}{{AC}} = \\frac{3}{2}\\), suy ra AB = \\(\\frac{3}{2}\\)AC ≈ \\(\\frac{3}{2}\\).4,47 = 6,705 (m). Độ dài cây ban đầu là tổng của phần ngọn bị gãy AB và phần gốc AC. Vậy chiều cao ban đầu của cây khoảng: 4,47 + 6,705 = 11,175 ≈ 11,18 (m)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Hai người A và B đứng cùng bờ sông nhìn ra một cồn nổi giữa sông. Người A nhìn ra cồn với một góc 43° so với bờ sông, người B nhìn ra cồn với một góc 28° so với bờ sông. Hai người đứng cách bờ sông 250 m. Hỏi cồn cách bờ sông hai người đứng bao nhiêu mét? (Kết quả làm tròn đến hàng phần trăm)",
+      "options": [
+        "A. 85 m.",
+        "B. 86, 44 m.",
+        "C. 84,66 m.",
+        "D. 84 m."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Khoảng cách của cồn và bờ sông hai người đứng chính là độ dài đoạn thẳng CH. Xét tam giác AHC vuông tại H, ta có: \\(\\tan \\widehat {CAH} = \\frac{{CH}}{{AH}}\\) nên \\(AH = \\frac{{CH}}{{\\tan \\widehat {CAH}}} = \\frac{{CH}}{{\\tan 43^\\circ }}\\). (1) Xét tam giác BHC vuông tại H, ta có: \\(\\tan \\widehat {CBH} = \\frac{{CH}}{{BH}}\\) nên \\(BH = \\frac{{CH}}{{\\tan \\widehat {CBH}}} = \\frac{{CH}}{{\\tan 28^\\circ }}\\). (2) Từ (1) và (2) ta có: AB + AH + BH = \\(\\frac{{CH}}{{\\tan 43^\\circ }} + \\frac{{CH}}{{\\tan 28^\\circ }} = CH\\left( {\\frac{1}{{\\tan 43^\\circ }} + \\frac{1}{{\\tan 28^\\circ }}} \\right)\\) Do đó, \\(CH = \\frac{{AB}}{{\\frac{1}{{\\tan 43^\\circ }} + \\frac{1}{{\\tan 28^\\circ }}}} = \\frac{{250}}{{\\frac{1}{{\\tan 43^\\circ }} + \\frac{1}{{\\tan 28^\\circ }}}} \\approx 84,66{\\rm{ (m)}}{\\rm{.}}\\) Vậy cồn cách bờ sông hai người đứng khoảng 84,66 m."
+    }
+  ]
+}

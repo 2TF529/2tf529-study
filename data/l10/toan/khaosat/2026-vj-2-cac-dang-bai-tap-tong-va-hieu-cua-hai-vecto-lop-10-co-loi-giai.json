@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-cac-dang-bai-tap-tong-va-hieu-cua-hai-vecto-lop-10-co-loi-giai",
+  "sourceId": "vietjack:2-cac-dang-bai-tap-tong-va-hieu-cua-hai-",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.Các dạng bài tập Tổng và hiệu của hai vecto lớp 10 (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho O là trung điểm của AB. Ta có: A B → + O A → = ?",
+      "options": [
+        "A. A B →",
+        "B. O A → ;",
+        "C. B O → ;",
+        "D. O B → ."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải: Đáp án đúng là: D. Áp dụng tính chất giao hoán và quy tắc ba điểm cho ba điểm A, O, B ta có: A B → + O A → = O A → + A B → = O B → ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho 4 điểm A, B, C, D. Ta có: A B → + B D → = ?",
+      "options": [
+        "A. A C → + B D → ;",
+        "B. A D → + D B → ;",
+        "C. A C → + C D → ;",
+        "D. D A → + D B → ."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải: Đáp án đúng là: C. Áp dụng quy tắc ba điểm cho ba điểm A, D, B ta có: A B → + B D → = A D → . Áp dụng quy tắc ba điểm cho ba điểm A, D, C ta có: A C → + C D → = A D → . Vậy A B → + B D → = A C → + C D → ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho các điểm A, B, C phân biệt. Đẳng thức nào sau đây đúng ?",
+      "options": [
+        "A. A B → = B C → + C A → ;",
+        "B. A B → = C B → + A C → ;",
+        "C. A B → = B C → + A C → ;",
+        "D. A B → = C A → + B C → ."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải: Đáp án đúng là: B. Áp dụng tính chất giao hoán và quy tắc ba điểm cho ba điểm A, C, B ta có: C B → + A C → = A C → + C B → = A B → Vậy A B → = C B → + A C → ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hình bình hành ABCD tâm O. Khi đó, O A → + B O → = ?",
+      "options": [
+        "A. O C → + O B → ;",
+        "B. A B → ;",
+        "C. O C → + D O → ;",
+        "D. C D → ."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải: Đáp án đúng là: D. Áp dụng tính chất giao hoán và quy tắc ba điểm cho ba điểm A, O, B ta có: O A → + B O → = B O → + O A → = B A → . Xét hình bình hành ABCD có: B A → = C D → Vậy O A → + B O → = C D →"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hình vuông ABCD tâm O. Khi đó: A B → + A D → = ?",
+      "options": [
+        "A. A B → ;",
+        "B. B C → ;",
+        "C. B D → ;",
+        "D. A C → ."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải: Đáp án đúng là: D. Áp dụng quy tắc hình bình hành cho hình vuông ABCD có: A B → + A D → = A C → ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho 6 điểm A, B, C, D, E, F. Đẳng thức nào sau đây đúng.",
+      "options": [
+        "A. A B → + C D → + F A → + B C → + E F → + D E → = 0 →",
+        "B. A B → + C D → + F A → + B C → + E F → + D E → = A E →",
+        "C. A B → + C D → + F A → + B C → + E F → + D E → = A F →",
+        "D. A B → + C D → + F A → + B C → + E F → + D E → = A D →"
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A. Ta có: A B → + C D → + F A → + B C → + E F → + D E → = A B → + B C → + C D → + D E → + E F → + F A → = A C → + C E → + E A → = A C → + C E → + E A → = A E → + E A → = A A → = 0 → Vậy A B → + C D → + F A → + B C → + E F → + D E → = 0 → ."
+    }
+  ]
+}

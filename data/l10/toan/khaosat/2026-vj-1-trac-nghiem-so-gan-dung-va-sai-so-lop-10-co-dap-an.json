@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-trac-nghiem-so-gan-dung-va-sai-so-lop-10-co-dap-an",
+  "sourceId": "vietjack:1-trac-nghiem-so-gan-dung-va-sai-so-lop-",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.Trắc nghiệm Số gần đúng và sai số lớp 10 (có đáp án)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Giả sử biết số đúng là 8217,3. Sai số tuyệt đối khi quy tròn số này đến hàng trục là",
+      "options": [
+        "A. 7,3;",
+        "B. 2,3;",
+        "C. 0,3;",
+        "D. 2,7."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Chữ số sau hàng làm tròn là 7 > 5 nên ta cộng thêm 1 đơn vị vào chữ số hàng làm tròn ta được số quy tròn là 8220 Khi đó sai số tuyệt đối là ∆ = |8220 – 8217,3| = 2,7."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Trong một cuộc điều tra dân số, người ta báo cáo số dân của tỉnh A là ā = 1718462 ± 150 người. Số quy tròn của số a = 1718462 là:",
+      "options": [
+        "A. 1718000;",
+        "B. 1718400;",
+        "C. 1718500;",
+        "D. 1719000."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Vì độ chính xác đến hàng trăm (d = 150) nên ta quy tròn a đến hàng nghìn. Vậy số quy tròn của a là 1718000."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho a là số gần đúng của số đúng ā. Sai số tuyệt đối của a là",
+      "options": [
+        "A. ∆ a = ā – a;",
+        "B. ∆ a = a – ā;",
+        "C. ∆ a = |ā – a|;",
+        "D. \\[{\\Delta _a} = \\left| {\\frac{{\\overline a }}{a}} \\right|\\] ."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có sai số tuyệt đối được tính theo công thức: ∆ a = |ā – a|."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Thực hiện đo chiều cao của 4 ngôi nhà, kết quả đo đạc nào trong các kết quả sau chính xác nhất",
+      "options": [
+        "A. 4,5m ± 0,1m;",
+        "B. 6,5m ± 0,15m;",
+        "C. 20,3m ± 0,2m;",
+        "D. 4,2m ± 0,12m."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Sai số tương đối của các kết quả đo lần lượt là δ 1 ≤ \\(\\frac{{0,1}}{{4,5}} = 0,022\\) δ 2 ≤ \\(\\frac{{0,15}}{{6,5}} = 0,023\\) δ 3 ≤ \\(\\frac{{0,2}}{{20,3}} = 0,0098\\) δ 4 ≤ \\(\\frac{{0,12}}{{4,2}} = 0,028\\) Ta có δ 3 nhỏ nhất nên phép đo thứ 3 cho kết quả chính xác nhất."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Giả sử số đúng là 3,254. Sai số tuyệt đối khi quy tròn số này đến hàng phần trăm là",
+      "options": [
+        "A. 0,04;",
+        "B. 0,004;",
+        "C. 0,006;",
+        "D. 0,014."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Số quy tròn đến hàng phần trăm là 3,25 Sai số tuyệt đối là ∆ = |3,25 – 3,254| = 0,004."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong các số dưới đây giá trị gần đúng của \\(\\sqrt {24} - \\sqrt[3]{5}\\) với sai số tuyệt đối nhỏ nhất là",
+      "options": [
+        "A. 3,20;",
+        "B. 3,19;",
+        "C. 3,18;",
+        "D. 3,15."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Sử dụng máy tính ta tính được \\(\\sqrt {24} - \\sqrt[3]{5}\\) = 3,189003539… Vậy giá trị gần đúng của \\(\\sqrt {24} - \\sqrt[3]{5}\\) với sai số tuyệt đối nhỏ nhất là 3,18."
+    }
+  ]
+}

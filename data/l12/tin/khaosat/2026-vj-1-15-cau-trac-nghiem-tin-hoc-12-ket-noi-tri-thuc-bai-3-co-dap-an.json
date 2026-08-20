@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-12-ket-noi-tri-thuc-bai-3-co-dap-an",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-12-ket-noi-",
+  "grade": "l12",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 12 Kết nối tri thức Bài 3 có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Câu 1: Thiết bị nào hoạt động tại tầng vật lý của mô hình OSI và chuyển tiếp dữ liệu đến tất cả các thiết bị:",
+      "options": [
+        "A. Hub",
+        "B. Switch",
+        "C. Router",
+        "D. Modem"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Hub hoạt động tại tầng vật lý và phát tín hiệu đến tất cả các thiết bị kết nối, không phân biệt địa chỉ"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Thiết bị nào có khả năng chuyển tiếp dữ liệu chỉ đến thiết bị đích mà không phải gửi đến tất cả các thiết bị khác trong mạng?",
+      "options": [
+        "A. Hub",
+        "B. Switch",
+        "C. Router",
+        "D. Modem"
+      ],
+      "answer": "B",
+      "note": "Đáp án B Giải thích: Switch hoạt động tại tầng dữ liệu và sử dụng địa chỉ MAC để chuyển dữ liệu trực tiếp đến thiết bị đích, giảm xung đột tín hiệu."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Thiết bị nào có chức năng dẫn đường cho dữ liệu khi kết nối trên mạng Internet?",
+      "options": [
+        "A. Hub",
+        "B. Switch",
+        "C. Router",
+        "D. Modem"
+      ],
+      "answer": "C",
+      "note": "Đáp án C Giải thích: Router định tuyến các gói dữ liệu giữa các mạng khác nhau, đặc biệt là giữa mạng nội bộ (LAN) và Internet."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Thiết bị nào chuyển đổi tín hiệu từ tín hiệu số sang tín hiệu tương tự và ngược lại, thường dùng khi kết nối LAN với Internet?",
+      "options": [
+        "A. Hub",
+        "B. Switch",
+        "C. Router",
+        "D. Modem"
+      ],
+      "answer": "D",
+      "note": "Đáp án D Giải thích: Modem chuyển đổi tín hiệu số thành tín hiệu tương tự và ngược lại để truyền dữ liệu qua các hệ thống mạng khác nhau, đặc biệt là qua các đường dây điện thoại hoặc cáp quang."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Bộ thu phát Wi-Fi còn được gọi là gì?",
+      "options": [
+        "A. Hub",
+        "B. Switch",
+        "C. Access Point",
+        "D. Modem"
+      ],
+      "answer": "C",
+      "note": "Đáp án C Giải thích: Bộ thu phát Wi-Fi, còn gọi là Access Point (AP), cho phép các thiết bị không dây kết nối vào mạng."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Thiết bị nào sử dụng địa chỉ MAC để định tuyến dữ liệu trong mạng LAN?",
+      "options": [
+        "A. Hub",
+        "B. Switch",
+        "C. Router",
+        "D. Modem"
+      ],
+      "answer": "B",
+      "note": "Đáp án B Giải thích: Switch sử dụng địa chỉ MAC của các thiết bị để định tuyến dữ liệu chỉ đến thiết bị đích, không gửi đến tất cả các thiết bị khác"
+    }
+  ]
+}

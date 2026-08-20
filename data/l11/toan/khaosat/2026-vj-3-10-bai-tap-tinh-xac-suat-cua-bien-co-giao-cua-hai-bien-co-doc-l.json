@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-3-10-bai-tap-tinh-xac-suat-cua-bien-co-giao-cua-hai-bien-co-doc-l",
+  "sourceId": "vietjack:3-10-bai-tap-tinh-xac-suat-cua-bien-co-g",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.10 Bài tập Tính xác suất của biến cố giao của hai biến cố độc lập bằng cách sử dụng công thức nhân xác suất và sơ đồ hình cây (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho A và B là hai biến cố độc lập. Biết P A = 1 3 ; P B = 1 4 . Xác suất của biến cố AB là",
+      "options": [
+        "A. 7 12",
+        "B. 5 12",
+        "C. 1 7",
+        "D. 1 12"
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Áp dụng quy tắc nhân xác suất ta có P A B = P A ⋅ P B = 1 12 ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho A và B là hai biến cố độc lập với nhau. Biết P(A) = 0,4 và P(B) = 0,6. Xác suất của các biến cố A ¯ B là",
+      "options": [
+        "A. 0,24;",
+        "B. 0,36;",
+        "C. 0,16;",
+        "D. 0,2 ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có sơ đồ hình cây: Vì A và B là hai biến cố độc lập với nhau nên A ¯ và B cũng là hai biến cố độc lập. Do đó P A ¯ B = P A ¯ ⋅ P B = 0 , 6 ⋅ 0 , 6 = 0 , 36 ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho A và B là hai biến cố độc lập với nhau. Biết P(A) = 0,4 và P(B) = 0,6. Xác suất của các biến cố A ¯ B ¯ là",
+      "options": [
+        "A. 0,24;",
+        "B. 0,16;",
+        "C. 0,76;",
+        "D. 0,36 ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có sơ đồ hình cây: Vì A và B là hai biến cố độc lập với nhau nên A ¯ và B ¯ cũng là hai biến cố độc lập. Do đó P A ¯ B ¯ = P A ¯ ⋅ P B ¯ = 0 , 6 ⋅ 0 , 4 = 0 , 24 ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: An và Bình không quen biết nhau và học ở hai nơi khác nhau. Xác suất để An và Bình đạt điểm giỏi về môn Toán trong kì thi cuối năm tương ứng là 0,92 và 0,88. Xác suất để cả An và Bình đều không đạt điểm giỏi là",
+      "options": [
+        "A. 0,8096;",
+        "B. 0,0096;",
+        "C. 0,3649;",
+        "D. 0,3597."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Gọi A là biến cố “An đạt điểm giỏi môn Toán” và B là biến cố “Bình đạt điểm giỏi môn Toán”. Do đó A và B là hai biến cố độc lập, nên hai biến cố A ¯ và B ¯ độc lập. Ta có P A ¯ = 1 − P A = 1 − 0 , 92 = 0 , 08 và P B ¯ = 1 − P B = 1 − 0 , 88 = 0 , 12. Ta có A ¯ B ¯ là biến cố: \"Cả An và Bình đều không đạt điểm giỏi môn Toán\". Do đó P A ¯ B ¯ = P A ¯ . P B ¯ = 0 , 08 . 0 , 12 = 0 , 0096 ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: An và Bình không quen biết nhau và học ở hai nơi khác nhau. Xác suất để An và Bình đạt điểm giỏi về môn Toán trong kì thi cuối năm tương ứng là 0,92 và 0,88. Xác suất để cả An và Bình đều đạt điểm giỏi là",
+      "options": [
+        "A. 0,8096 ;",
+        "B. 0,0096 ;",
+        "C. 0,3649 ;",
+        "D. 0,3597."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Gọi A là biến cố: \"An đạt điểm giỏi về môn Toán\" và B là biến cố: \"Bình đạt điểm giỏi về môn Toán\". Ta có P A ¯ = 1 − P A = 1 − 0 , 92 = 0 , 08 và P B ¯ = 1 − P B = 1 − 0 , 88 = 0 , 12. Ta có biến cố AB là: \"Cả An và Bình đều đạt điểm giỏi môn Toán\". Do A và B là hai biến cố độc lập nên P(AB) = P(A).P(B) = 0,92.0,88 = 0,8096."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Hai xạ thủ cùng bắn vào bia một cách độc lập với nhau. Xác suất bắn trúng bia của xạ thủ thứ nhất bằng 1 2 , xác suất bắn trúng bia của xạ thủ thứ hai bằng 1 3 . Xác suất của biến cố: “Xạ thủ thứ nhất bắn trúng bia, xạ thủ thứ hai bắn trật bia” là",
+      "options": [
+        "A. 1 4",
+        "B. 1 3",
+        "C. 2 3",
+        "D. 1 2"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Gọi A là biến cố: \"Xạ thủ thứ nhất bắn trúng bia\" và B là biến cố: \"Xạ thủ thứ hai bắn trúng bia\". Khi đó A, B, A ¯ , B ¯ là các biến cố độc lập đôi một với nhau. Ta có: P A ¯ = 1 − P A = 1 − 1 2 = 1 2 , P B ¯ = 1 − P B = 1 − 1 3 = 2 3 . Xét biến cố: “Xạ thủ thứ nhất bắn trúng bia, xạ thủ thứ hai bắn trật bia” là biến cố A B ¯ . Do A và B ¯ . là hai biến cố độc lập nên xác suất biến cố A B ¯ là: P A B ¯ = P A . P B ¯ = 1 2 . 2 3 = 1 3 ."
+    }
+  ]
+}

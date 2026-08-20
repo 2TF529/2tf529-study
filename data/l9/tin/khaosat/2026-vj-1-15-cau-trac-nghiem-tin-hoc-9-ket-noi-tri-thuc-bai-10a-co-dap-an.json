@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-9-ket-noi-tri-thuc-bai-10a-co-dap-an",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-9-ket-noi-t",
+  "grade": "l9",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu trắc nghiệm Tin học 9 Kết nối tri thức Bài 10a có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Công thức nào dưới đây dùng để đếm số ô có giá trị \"A\" trong vùng A1:A10?",
+      "options": [
+        "A. =COUNTIF(A1:A10,\"A\")",
+        "B. =COUNT(A1:A10,\"A\")",
+        "C. =IF(COUNTIF(A1:A10,\"A\"))",
+        "D. =COUNT(A1:A10)"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Công thức COUNTIF đếm các ô trong vùng thỏa mãn điều kiện. Ở đây, \"A\" là điều kiện cần kiểm tra."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Khi sao chép công thức =COUNTIF($B$3:$B$10,F2) từ ô G2 xuống G3, công thức sẽ thay đổi như thế nào?",
+      "options": [
+        "A. Vẫn giữ nguyên vì có dấu $.",
+        "B. Thay đổi thành =COUNTIF(B4:B11,F3).",
+        "C. Chỉ thay đổi tham chiếu F2 thành F3.",
+        "D. Thay đổi cả tham chiếu vùng và điều kiện."
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: $B$3:$B$10 là tham chiếu tuyệt đối nên không thay đổi. Chỉ có F2 (tham chiếu tương đối) sẽ đổi thành F3."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Nếu công thức =COUNTIF(B3:B10,F2) không sử dụng dấu $ thì điều gì xảy ra khi sao chép xuống G3?",
+      "options": [
+        "A. Kết quả đúng.",
+        "B. Kết quả sai do phạm vi vùng bị thay đổi.",
+        "C. Không ảnh hưởng vì COUNTIF tự động nhận diện vùng.",
+        "D. Sai cú pháp."
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Không có dấu $, phạm vi B3:B10 sẽ thay đổi tương đối thành B4:B11, dẫn đến kết quả không chính xác."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Công thức nào sau đây dùng để đếm số ô trong vùng B3:B10 có giá trị lớn hơn 100?",
+      "options": [
+        "A. =COUNTIF(B3:B10,\">100\")",
+        "B. =COUNTIF(B3:B10,\"100>\")",
+        "C. =COUNTIF(B3:B10,100)",
+        "D. =COUNTIF(B3:B10,\"*100*\")"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Điều kiện \"lớn hơn 100\" phải được đặt trong dấu ngoặc kép như \">100\"."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Hàm COUNTIF có thể sử dụng để:",
+      "options": [
+        "A. Tính tổng các giá trị trong một vùng.",
+        "B. Đếm số ô thỏa mãn một điều kiện.",
+        "C. Kiểm tra giá trị lớn nhất trong vùng.",
+        "D. Đếm tất cả các ô trống trong vùng."
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Hàm COUNTIF chỉ dùng để đếm số ô thỏa mãn một điều kiện cụ thể."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Công thức nào trả về số ô không trống trong vùng A1:A10?",
+      "options": [
+        "A. =COUNTIF(A1:A10,\"<>\"\"\")",
+        "B. =COUNTIF(A1:A10,\"*\")",
+        "C. =COUNTIF(A1:A10,\" \")",
+        "D. =COUNT(A1:A10)"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Điều kiện \"<>\" có nghĩa là không rỗng."
+    }
+  ]
+}

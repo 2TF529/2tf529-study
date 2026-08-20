@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-4-bo-9-de-thi-giua-ki-1-toan-10-nam-2024-2025-ha-noi-co-dap-an",
+  "sourceId": "vietjack:4-bo-9-de-thi-giua-ki-1-toan-10-nam-2024",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "giuaki1",
+  "year": 2026,
+  "title": "4.Bộ 9 đề thi giữa kì 1 Toán 10 năm 2024-2025 Hà Nội (có đáp án)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Tập hợp \\(E = \\{ x \\in \\mathbb{Z}| - 1 < x \\le 3\\} \\) bằng tập nào sau đây?",
+      "options": [
+        "A. \\(\\left\\{ {0;1;2;3} \\right\\}\\).",
+        "B. \\(\\left[ {0;3} \\right]\\).",
+        "C. \\(\\left( { - 1;3} \\right]\\).",
+        "D. \\(\\left\\{ { - 1;0;1;2;3} \\right\\}\\)."
+      ],
+      "answer": "A",
+      "note": "Theo định nghĩa, \\(\\mathbb{Z}\\) là tập hợp các số nguyên. Xét điều kiện của tập hợp \\(E\\): \\( - 1 < x \\le 3\\) Vì \\(x \\in \\mathbb{Z}\\) nên ta liệt kê được các giá trị nguyên thỏa mãn là: \\(x \\in \\left\\{ {0;1;2;3} \\right\\}\\). Do đó, ta viết tập hợp dưới dạng liệt kê phần tử: \\(E = \\left\\{ {0;1;2;3} \\right\\}\\) Chọn đáp án: A."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Trong các đẳng thức sau đây, đẳng thức nào đúng?",
+      "options": [
+        "A. \\({\\rm{tan}}\\left( {{{180}^ \\circ } - \\alpha } \\right) = {\\rm{tan}}\\alpha \\).",
+        "B. \\({\\rm{cot}}\\left( {{{180}^ \\circ } - \\alpha } \\right) = - {\\rm{cot}}\\alpha \\).",
+        "C. \\({\\rm{sin}}\\left( {{{180}^ \\circ } - \\alpha } \\right) = - {\\rm{sin}}\\alpha \\).",
+        "D. \\({\\rm{cos}}\\left( {{{180}^ \\circ } - \\alpha } \\right) = {\\rm{cos}}\\alpha \\)."
+      ],
+      "answer": "B",
+      "note": "Dựa vào mối quan hệ giữa các giá trị lượng giác của hai góc bù nhau (\\(\\alpha \\) và \\({180^ \\circ } - \\alpha \\)), ta có các hệ thức lượng giác cơ bản sau: \\({\\rm{sin}}\\left( {{{180}^ \\circ } - \\alpha } \\right) = {\\rm{sin}}\\alpha \\) \\({\\rm{cos}}\\left( {{{180}^ \\circ } - \\alpha } \\right) = - {\\rm{cos}}\\alpha \\) \\({\\rm{tan}}\\left( {{{180}^ \\circ } - \\alpha } \\right) = - {\\rm{tan}}\\alpha \\) \\({\\rm{cot}}\\left( {{{180}^ \\circ } - \\alpha } \\right) = - {\\rm{cot}}\\alpha \\) Đối chiếu với các phương án lựa chọn, ta thấy đẳng thức ở phương án B là khẳng định chính xác. Chọn đáp án: B."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho tam giác \\(ABC\\) có diện tích \\(S\\) và các cạnh \\(BC = a,AC = b,AB = c\\). Kí hiệu \\(p\\) và \\(R\\) lần lượt là nửa chu vi và bán kính đường tròn ngoại tiếp tam giác \\(ABC\\). Công thức nào dưới đây đúng?",
+      "options": [
+        "A. \\(S = pR\\).",
+        "B. \\(S = \\frac{{abc}}{{2R}}\\).",
+        "C. \\(S = p\\left( {p - a} \\right)\\left( {p - b} \\right)\\left( {p - c} \\right)\\).",
+        "D. \\(S = \\frac{{abc}}{{4R}}\\)."
+      ],
+      "answer": "D",
+      "note": "Theo hệ thức lượng trong tam giác về các công thức tính diện tích hình tam giác \\(ABC\\), ta có công thức tính diện tích theo độ dài ba cạnh và bán kính đường tròn ngoại tiếp \\(R\\) là: \\(S = \\frac{{abc}}{{4R}}\\) Chọn đáp án: D."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Mỗi học sinh của nhóm A đều thích môn Toán hoặc môn Tiếng Anh. Biết rằng có 15 bạn thích môn Toán, 10 bạn thích môn Tiếng Anh và 7 bạn thích cả hai môn. Hỏi nhóm A có bao nhiêu học sinh?",
+      "options": [
+        "A. 17.",
+        "B. 32.",
+        "C. 25.",
+        "D. 18."
+      ],
+      "answer": "D",
+      "note": "Gọi \\(T\\) là tập hợp các học sinh thích môn Toán và \\(E\\) là tập hợp các học sinh thích môn Tiếng Anh. Từ giả thiết, ta có: Số học sinh thích môn Toán: \\(n\\left( T \\right) = 15\\). Số học sinh thích môn Tiếng Anh: \\(n\\left( E \\right) = 10\\). Số học sinh thích cả hai môn Toán và Tiếng Anh: \\(n\\left( {T \\cap E} \\right) = 7\\). Vì mỗi học sinh trong nhóm A đều thích ít nhất một trong hai môn, nên tổng số học sinh của nhóm A chính là số phần tử của tập hợp hợp \\(T \\cup E\\): \\(n\\left( A \\right) = n\\left( {T \\cup E} \\right) = n\\left( T \\right) + n\\left( E \\right) - n\\left( {T \\cap E} \\right)\\) Thay các số liệu vào công thức, ta được: \\(n\\left( A \\right) = 15 + 10 - 7 = 18\\) Chọn đáp án: D."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Phần không bị gạch trong hình vẽ nào sau đây (kể cả đường thẳng) là miền nghiệm của bất phương trình: \\(3x + 2y \\ge 6\\)?",
+      "options": [
+        "A. Phương án A",
+        "B. Phương án B",
+        "C. Phương án C",
+        "D. Phương án D"
+      ],
+      "answer": "B",
+      "note": "Trước hết, xét đường thẳng ranh giới miền nghiệm \\(d:3x + 2y = 6\\). Tìm giao điểm của đường thẳng \\(d\\) với hai trục tọa độ \\(Ox\\) và \\(Oy\\): Cho \\(x = 0 \\Rightarrow y = 3\\). Vậy \\(d\\) cắt trục tung tại điểm \\(\\left( {0;3} \\right)\\). Cho \\(y = 0 \\Rightarrow x = 2\\). Vậy \\(d\\) cắt trục hoành tại điểm \\(\\left( {2;0} \\right)\\). Dựa vào dữ kiện đồ thị trong đề thi, chỉ có Hình 2 vẽ đường thẳng đi qua chính xác hai điểm \\(\\left( {2;0} \\right)\\) và \\(\\left( {0;3} \\right)\\). Tiếp theo, ta xác định miền nghiệm bằng cách thử tọa độ của gốc tọa độ \\(O\\left( {0;0} \\right)\\) vào bất phương trình \\(3x + 2y \\ge 6\\): \\(3 \\cdot 0 + 2 \\cdot 0 = 0 \\ge 6\\,\\,{\\rm{(V\\^o \\;l\\'y )}}\\) Do đó gốc tọa độ \\(O\\left( {0;0} \\right)\\) không thuộc miền nghiệm. Miền nghiệm của bất phương trình là nửa mặt phẳng bờ \\(d\\) không chứa gốc tọa độ \\(O\\) (tính cả đường thẳng \\(d\\)). Đối chiếu với đồ thị, Hình 2 thể hiện đúng phần không bị gạch là miền không chứa gốc tọa độ. Chọn đáp án: B."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong các bất phương trình sau, bất phương trình nào là bất phương trình bậc nhất hai ẩn?",
+      "options": [
+        "A. \\(2x - 9y > 10\\).",
+        "B. \\(3{x^2} + 6x - 10 > 0\\).",
+        "C. \\(x - \\frac{2}{y} > 1\\).",
+        "D. \\(x - y - 7z \\le 0\\)."
+      ],
+      "answer": "C",
+      "note": "Bất phương trình bậc nhất hai ẩn là bất phương trình có dạng tổng quát là \\(ax + by < c\\) (hoặc dạng chứa dấu \\( > , \\le , \\ge \\)) với \\(a,b\\) không đồng thời bằng 0, các ẩn số \\(x,y\\) đều ở bậc một. Xét đáp án A: \\(2x - 9y > 10\\) là bất phương trình bậc nhất hai ẩn với hệ số \\(a = 2,b = - 9,c = 10\\). Các đáp án khác đều vi phạm vì chứa bậc hai (\\(3{x^2}\\)), chứa ẩn ở mẫu (\\(\\frac{2}{y}\\)) hoặc chứa ba ẩn (\\(x,y,z\\)). Chọn đáp án: A."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Cho mệnh đề \"\\(\\forall x \\in \\mathbb{R},{x^2} - 2x + 5 < 0\\)\". Hỏi mệnh đề nào là mệnh đề phủ định của mệnh đề trên?",
+      "options": [
+        "A. \"\\(\\exists x \\in \\mathbb{R},{x^2} - 2x + 5 < 0\\)\".",
+        "B. \"\\(\\exists x \\in \\mathbb{R},{x^2} - 2x + 5 \\ge 0\\)\".",
+        "C. \"\\(\\forall x \\in \\mathbb{R},{x^2} - 2x + 5 > 0\\)\".",
+        "D. \"\\(\\exists x \\in \\mathbb{R},{x^2} - 2x + 5 \\le 0\\)\"."
+      ],
+      "answer": "B",
+      "note": "Quy tắc phủ định một mệnh đề chứa ký hiệu lượng từ: Phủ định của lượng từ \"Với mọi\" (\\(\\forall \\)) là lượng từ \"Tồn tại\" (\\(\\exists \\)). Phủ định của dấu nhỏ hơn (\\( < \\)) là dấu lớn hơn hoặc bằng (\\( \\ge \\)). Áp dụng quy tắc trên, ta được mệnh đề phủ định là: \\(\\exists x \\in \\mathbb{R},{x^2} - 2x + 5 \\ge 0\\) Chọn đáp án: B."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho biểu thức \\(A = \\frac{{{\\rm{tan}}\\alpha - {\\rm{sin}}\\alpha }}{{{\\rm{cos}}\\alpha - 1}} \\cdot {\\rm{tan}}\\left( {{{90}^ \\circ } - \\alpha } \\right)\\) với \\({0^ \\circ } < \\alpha < {90^ \\circ }\\). Rút gọnA.",
+      "options": [
+        "A. \\(A = 1\\).",
+        "B. \\(A = - 1\\).",
+        "C. \\(A = {\\rm{co}}{{\\rm{t}}^2}\\alpha \\).",
+        "D. \\(A = {\\rm{ta}}{{\\rm{n}}^2}\\alpha \\)."
+      ],
+      "answer": "B",
+      "note": "Áp dụng các công thức lượng giác cơ bản: 1. \\({\\rm{tan}}\\left( {{{90}^ \\circ } - \\alpha } \\right) = {\\rm{cot}}\\alpha = \\frac{{{\\rm{cos}}\\alpha }}{{{\\rm{sin}}\\alpha }}\\). 2. Biến đổi phần tử số: \\({\\rm{tan}}\\alpha - {\\rm{sin}}\\alpha = \\frac{{{\\rm{sin}}\\alpha }}{{{\\rm{cos}}\\alpha }} - {\\rm{sin}}\\alpha = {\\rm{sin}}\\alpha \\cdot \\left( {\\frac{1}{{{\\rm{cos}}\\alpha }} - 1} \\right) = {\\rm{sin}}\\alpha \\cdot \\left( {\\frac{{1 - {\\rm{cos}}\\alpha }}{{{\\rm{cos}}\\alpha }}} \\right)\\) Thay vào biểu thức \\(A\\), ta có: \\(A = \\frac{{{\\rm{sin}}\\alpha \\cdot \\left( {\\frac{{1 - {\\rm{cos}}\\alpha }}{{{\\rm{cos}}\\alpha }}} \\right)}}{{{\\rm{cos}}\\alpha - 1}} \\cdot \\frac{{{\\rm{cos}}\\alpha }}{{{\\rm{sin}}\\alpha }}\\) \\(A = \\frac{{{\\rm{sin}}\\alpha \\cdot \\left( {1 - {\\rm{cos}}\\alpha } \\right)}}{{{\\rm{cos}}\\alpha \\cdot \\left( {{\\rm{cos}}\\alpha - 1} \\right)}} \\cdot \\frac{{{\\rm{cos}}\\alpha }}{{{\\rm{sin}}\\alpha }}\\) Rút gọn lượng \\({\\rm{sin}}\\alpha \\) và \\({\\rm{cos}}\\alpha \\) ở cả tử số lẫn mẫu số: \\(A = \\frac{{1 - {\\rm{cos}}\\alpha }}{{{\\rm{cos}}\\alpha - 1}} = \\frac{{ - \\left( {{\\rm{cos}}\\alpha - 1} \\right)}}{{{\\rm{cos}}\\alpha - 1}} = - 1\\) Chọn đáp án: B."
+    }
+  ]
+}

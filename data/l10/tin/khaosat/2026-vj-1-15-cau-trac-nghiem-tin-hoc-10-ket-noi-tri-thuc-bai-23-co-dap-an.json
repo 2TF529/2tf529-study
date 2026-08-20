@@ -1,0 +1,78 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-10-ket-noi-tri-thuc-bai-23-co-dap-an",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-10-ket-noi-",
+  "grade": "l10",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu trắc nghiệm Tin học 10 Kết nối tri thức Bài 23 có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Toán tử nào dùng để kiểm tra một giá trị có nằm trong danh sách không?",
+      "options": [
+        "A. in.",
+        "B. int.",
+        "C. range.",
+        "D. append."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Dùng toán tử in để kiểm tra &lt;giá trị&gt; có trong danh sách hay không, nếu có trả lại T rue nếu không thì trả về False: &lt;giá trị&gt; in &lt;danh sách&gt;"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Kết quả của chương trình sau là gì? A = [1, 2, 3, 4, 5, 6, 5] for k in A: print(k, end = \" \")",
+      "options": [
+        "A. 1 2 3 4 5 6",
+        "B. 1 2 3 4 5 6 5",
+        "C. 1 2 3 4 5",
+        "D. 2 3 4 5 6 5."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Vòng lặp duyệt qua và in tất cả các phần tử có trong mảng."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Ngoài việc kết hợp lệnh for và range để duyệt phần tử trong danh sách, có thể sử dụng câu lệnh nào khác?",
+      "options": [
+        "A. int.",
+        "B. while.",
+        "C. in range.",
+        "D. in."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Dùng toán tử in để kiểm tra &lt;giá trị&gt; có trong danh sách hay không, nếu có trả lại T rue nếu không thì trả về False: &lt;giá trị&gt; in &lt;danh sách&gt;"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Giả sử A = [5, 6, 7, 8, 9, 10, 11, 12]. Biểu thức sau trả về giá trị đúng hay sai? (3 + 4 – 5 + 18 // 4) in A",
+      "options": [
+        "A. True.",
+        "B. False.",
+        "C. Không xác định.",
+        "D. Câu lệnh bị lỗi."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A 3 + 4 – 5 + 18 // 4 = 2 + 4 = 6 thuộc vào A nên trả về giá trị True."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Lệnh nào sau đây xoá toàn bộ danh sách?",
+      "options": [
+        "A. clear().",
+        "B. exit().",
+        "C. remove().",
+        "D. del()."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Sau khi thực hiện lệnh clear(), danh sách gốc trở thành rỗng."
+    }
+  ]
+}

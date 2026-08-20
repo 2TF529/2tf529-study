@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-12-canh-dieu-mo-hinh-va-cac-giao-thu",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-12-canh-die",
+  "grade": "l12",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 12 Cánh diều Mô hình và các giao thức mạng có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Câu 1: Giao thức mạng là gì?",
+      "options": [
+        "A. Tập hợp các quy tắc điều khiển truyền thông và trao đổi dữ liệu",
+        "B. Một loại phần cứng trong máy tính",
+        "C. Một dạng phần mềm ứng dụng",
+        "D. Một loại kết nối vật lý trong mạng"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Giao thức mạng là tập hợp các quy tắc dùng để điều khiển việc truyền thông và trao đổi dữ liệu giữa các thiết bị trong mạng máy tính."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Giao thức Internet (IP) có vai trò gì trong mạng máy tính?",
+      "options": [
+        "A. Chia dữ liệu thành gói tin",
+        "B. Quản lý và định tuyến gói tin trên mạng",
+        "C. Gửi và nhận thư điện tử",
+        "D. Truyền tải dữ liệu của các trang web"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Giao thức Internet (IP) quản lý và định tuyến các gói tin trên mạng máy tính, gắn địa chỉ IP của máy gửi và máy nhận vào mỗi gói tin."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Giao thức TCP đảm bảo điều gì trong truyền dữ liệu?",
+      "options": [
+        "A. Đảm bảo độ tin cậy và đúng thứ tự",
+        "B. Chia dữ liệu thành các tệp",
+        "C. Chuyển đổi địa chỉ IP thành tên miền",
+        "D. Truyền tải dữ liệu không yêu cầu kết nối"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: TCP đảm bảo truyền dữ liệu ổn định và đúng thứ tự giữa các ứng dụng, có cơ chế kiểm tra lỗi, khôi phục và điều chỉnh tốc độ truyền dữ liệu."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Giao thức UDP khác TCP như thế nào?",
+      "options": [
+        "A. UDP đảm bảo độ tin cậy, TCP không đảm bảo",
+        "B. UDP không yêu cầu kết nối và không đảm bảo độ tin cậy, TCP đảm bảo độ tin cậy",
+        "C. UDP sử dụng địa chỉ IP, TCP không sử dụng",
+        "D. UDP chỉ dùng cho trang web, TCP dùng cho email"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: UDP không yêu cầu kết nối và không đảm bảo độ tin cậy, trong khi TCP đảm bảo độ tin cậy và đúng thứ tự của dữ liệu."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Địa chỉ IP là gì?",
+      "options": [
+        "A. Một loại giao thức truyền tải dữ liệu",
+        "B. Một số duy nhất gán cho mỗi thiết bị trong mạng",
+        "C. Một thiết bị mạng",
+        "D. Một phần mềm quản lý mạng"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Địa chỉ IP là số duy nhất được gán cho mỗi thiết bị trong mạng máy tính, dùng để nhận diện thiết bị đó."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Phiên bản nào không phải của giao thức IP?",
+      "options": [
+        "A. IPv4",
+        "B. IPv5",
+        "C. IPv6",
+        "D. IPv7"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Giao thức IP có hai phiên bản chính là IPv4 và IPv6. IPv5 không phải là một phiên bản chính thức của giao thức IP."
+    }
+  ]
+}

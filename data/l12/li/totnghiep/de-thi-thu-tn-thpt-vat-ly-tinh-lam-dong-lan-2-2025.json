@@ -1,0 +1,286 @@
+{
+  "id": "l12-li-totnghiep-2025-de-thi-thu-tn-thpt-vat-ly-tinh-lam-dong-lan-2-2025",
+  "grade": "l12",
+  "subjectSlug": "li",
+  "examType": "totnghiep",
+  "year": 2025,
+  "code": "THPT_TTL_LD_2025_01",
+  "title": "Đề thi thử tốt nghiệp THPT môn Vật Lý Sở GD&ĐT Lâm Đồng lần 2 năm 2025",
+  "duration": 50,
+  "answerSource": "official",
+  "source": "https://dolthpt.vn/tot-nghiep-thpt/pdf-de-thi-thu-tn-thpt-vat-ly-tinh-lam-dong-lan-2-2025-co-dap-an",
+  "notes": "Nội dung, đáp án và lời giải được nhập từ bản công khai của DOL THPT.",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "content": "Từ trường là dạng vật chất tồn tại trong không gian và tác dụng",
+      "chuong": "từ trường",
+      "dang": "lý thuyết: từ trường",
+      "type": "single",
+      "options": [
+        "A. lực lên các vật đặt trong nó",
+        "B. lực điện lên điện tích dương đặt trong nó",
+        "C. lực từ lên nam châm và dòng điện đặt trong nó",
+        "D. lực điện lên điện tích âm đặt trong nó"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Từ trường không tác dụng lực lên các vật đứng yên không có từ tính (loại bỏ đáp án A).\n- Từ trường chỉ tác dụng lên:\n• Điện tích chuyển động (hoặc dòng điện trong dây dẫn). Theo định luật lực Lorenx:\n  $\\vec F = q\\,\\vec v\\times \\vec B$\n• Nam châm hoặc vật liệu có từ tính. Lực từ lên nam châm có thể tính qua mômen từ $\\vec m$:\n  $\\vec F = \\nabla(\\vec m\\cdot \\vec B)$\n- Đáp án B và D nhắc đến “lực điện” lên điện tích dương/âm, đó là tác dụng của *trường điện* chứ không phải từ trường.\n- Do đó đáp án chỉ đúng khi nói rõ “lực từ lên nam châm và dòng điện đặt trong nó”.\n**✅ Đáp án:** $C$\n**❌ Các đáp án khác:**\n- A. “lực lên các vật đặt trong nó”: quá chung, từ trường không tác dụng lên mọi vật.\n- B. “lực điện lên điện tích dương đặt trong nó”: mô tả lực của trường điện, không phải từ trường.\n- D. “lực điện lên điện tích âm đặt trong nó”: cũng là lực điện, không liên quan đến từ trường."
+    },
+    {
+      "id": 2,
+      "content": "Điều nào sau đây là không đúng? Cảm ứng từ tại một điểm trong từ trường",
+      "chuong": "từ trường",
+      "dang": "lý thuyết: lực từ. cảm ứng từ",
+      "type": "single",
+      "options": [
+        "A. đặc trưng cho từ trường về phương diện tác dụng lực",
+        "B. có hướng cùng hướng với hướng của từ trường tại điểm đó",
+        "C. có phương tiếp tuyến với đường sức từ tại điểm đó",
+        "D. có độ lớn tỉ lệ nghịch với độ lớn của lực tác dụng lên phần tử dòng điện đặt tại điểm đó"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Định nghĩa liên quan: lực từ tác dụng lên một phần tử dòng điện có chiều dài $\\vec{l}$ đang mang dòng điện cường độ $I$ trong từ trường được cho bởi:\n$\\vec{F}=I\\,\\vec{l}\\times\\vec{B}.$\nĐộ lớn của lực là:\n$F=I\\,l\\,B\\sin\\alpha,$\ntrong đó $\\alpha$ là góc giữa $\\vec{l}$ và $\\vec{B}$.\n- Từ công thức trên suy ra:\n$B=\\dfrac{F}{I\\,l\\,\\sin\\alpha}.$\nDo đó, đối với các đại lượng $I, l, \\alpha$ cố định, độ lớn của $B$ tỉ lệ thuận với độ lớn của lực $F$ (không tỉ lệ nghịch).\n- Kiểm tra các phương án: - A: Đúng — vector $\\vec{B}$ thể hiện đặc tính của từ trường về tác dụng lực lên phần tử dòng điện.\n  - B: Đúng — hướng của $\\vec{B}$ chính là hướng của từ trường tại điểm đó.\n  - C: Đúng — vector $\\vec{B}$ luôn tiếp tuyến với đường sức từ tại điểm đó.\n  - D: Sai — phát biểu nói rằng độ lớn của $B$ tỉ lệ nghịch với độ lớn của lực là ngược lại với kết quả từ công thức; thực tế $B$ tỉ lệ thuận với $F$ khi $I, l, \\alpha$ cố định.\n- Ví dụ nhanh: nếu $I=2\\ \\text{A},\\ l=0{,}1\\ \\text{m},\\ \\alpha=90^\\circ$ và $B=0{,}05\\ \\text{T}$ thì $F=I l B=2\\cdot0{,}1\\cdot0{,}05=0{,}01\\ \\text{N}$. Nếu tăng $B$ lên \\$0{,}1\\ \\text{T}$ thì $F$ tăng lên \\$0{,}02\\ \\text{N}$ — không phải giảm như giả thiết tỉ lệ nghịch.\n✅ **Đáp án:** D. có độ lớn tỉ lệ nghịch với độ lớn của lực tác dụng lên phần tử dòng điện đặt tại điểm đó"
+    },
+    {
+      "id": 3,
+      "content": "Hạt nhân $^{31}_{15}\\text{P}$ có",
+      "chuong": "vật lí hạt nhân",
+      "dang": "bài tập: tính toán a, z, n",
+      "type": "single",
+      "options": [
+        "A. 31 proton và 15 neutron",
+        "B. 16 proton và 15 neutron",
+        "C. 15 proton và 16 neutron",
+        "D. 31 neutron và 15 proton"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Bước 1: Nhận biết số proton:\nTrong $^{31}_{15}\\mathrm{P}$, số proton $Z = 15$.\n- Bước 2: Nhận biết số khối:\nTrong $^{31}_{15}\\mathrm{P}$, số khối $A = 31$.\n- Bước 3: Tính số neutron:\nSố neutron = $A - Z = 31 - 15 = 16$.\n**✅ Đáp án:** \\$15\\ proton\\ và\\ 16\\ neutron$\n**❌ Các đáp án khác:**\n- A. 31 proton và 15 neutron — Nhầm lấy số khối làm số proton.\n- B. 16 proton và 15 neutron — Đổi ngược proton và neutron.\n- D. 31 neutron và 15 proton — Nhầm lấy số khối làm số neutron."
+    },
+    {
+      "id": 4,
+      "content": "Khi nói về nguyên tắc an toàn trong phóng xạ. Phát biểu nào sau đây không đúng?",
+      "chuong": "vật lí hạt nhân",
+      "dang": "lý thuyết: hiện tượng phóng xạ",
+      "type": "single",
+      "options": [
+        "A. Giữ khoảng cách đủ xa đối với nguồn phóng xạ",
+        "B. Cần sử dụng các tấm chắn nguồn phóng xạ đủ tốt",
+        "C. Cần tăng thời gian phơi nhiễm phóng xạ",
+        "D. Gắn biển cảnh báo phóng xạ, thiết lập vùng kiểm soát, vùng giám sát"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Xác định lại ba nguyên tắc chính bảo vệ khi tiếp xúc với bức xạ:\n• **Thời gian**: *giảm tối đa thời gian tiếp xúc*.\n• **Khoảng cách**: *tăng cự ly đến nguồn bức xạ*.\n• **Chắn**: *dùng vật liệu che chắn phù hợp*.\n- Đánh giá từng phương án:\n• Giữ khoảng cách đủ xa: phù hợp với nguyên tắc *khoảng cách* ⇒ đúng.\n• Sử dụng các tấm chắn đủ tốt: phù hợp với nguyên tắc *chắn* ⇒ đúng.\n• Tăng thời gian phơi nhiễm: trái ngược với nguyên tắc *thời gian*, vì phải **giảm** chứ không tăng ⇒ **sai**.\n• Gắn biển cảnh báo, vùng kiểm soát/giám sát: cần thiết để ngăn người lạ tiếp cận ⇒ đúng.\n**✅ Đáp án:** Cần tăng thời gian phơi nhiễm phóng xạ\n**❌ Các đáp án khác:**\n- A. Giữ khoảng cách đủ xa đối với nguồn phóng xạ: Đúng, vì nguyên tắc *tăng khoảng cách* giúp giảm liều chiếu.\n- B. Cần sử dụng các tấm chắn nguồn phóng xạ đủ tốt: Đúng, vì nguyên tắc *chắn* (shielding) bảo vệ an toàn.\n- D. Gắn biển cảnh báo phóng xạ, thiết lập vùng kiểm soát, vùng giám sát: Đúng, để ngăn ngừa người không liên quan tiếp cận vùng nguy hiểm."
+    },
+    {
+      "id": 5,
+      "content": "Tính chất nào sau đây không phải là tính chất của một khối chất ở thể khí?",
+      "chuong": "khí lí tưởng",
+      "dang": "lý thuyết: thuyết động học phân tử chất khí",
+      "type": "single",
+      "options": [
+        "A. Lực tương tác giữa các phân tử trong khối chất rất mạnh",
+        "B. Các phân tử trong khối chất chuyển động hỗn loạn",
+        "C. Khối chất đó có thể nén được dễ dàng",
+        "D. Các phân tử trong khối chất ở rất xa nhau"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Quan sát hình vẽ (đính kèm): các phân tử khí thường được mô tả xa nhau, di chuyển ngẫu nhiên và dễ nén.\n- Nhớ lại các tính chất cơ bản của chất khí: - Phân tử chuyển động hỗn loạn, ngẫu nhiên.\n  - Phân tử ở rất xa nhau nên thể tích giữa chúng lớn.\n  - Dễ nén do khoảng trống giữa các phân tử lớn.\n  - Lực tương tác giữa các phân tử rất yếu.\n- Đánh giá từng nhận xét đã cho: 1. “Lực tương tác giữa các phân tử trong khối chất rất mạnh” ⇒ trái ngược với tính chất của chất khí.\n  2. “Các phân tử chuyển động hỗn loạn” ⇒ đúng, là tính chất của chất khí.\n  3. “Khối chất có thể nén được dễ dàng” ⇒ đúng, là tính chất của chất khí.\n  4. “Các phân tử ở rất xa nhau” ⇒ đúng, là tính chất của chất khí.\n- Kết luận: chỉ có nhận xét (1) sai, tức không phải tính chất của chất khí.\n**✅ Đáp án:** $A$\n**❌ Các đáp án khác:**\n- Các phân tử trong khối chất chuyển động hỗn loạn: Đây là tính chất đúng của chất khí.\n- Khối chất đó có thể nén được dễ dàng: Đây là tính chất đúng của chất khí.\n- Các phân tử trong khối chất ở rất xa nhau: Đây là tính chất đúng của chất khí."
+    },
+    {
+      "id": 6,
+      "content": "Nội năng của một vật bằng",
+      "chuong": "vật lí nhiệt",
+      "dang": "lý thuyết: nội năng. định luật i nhiệt động lực học",
+      "type": "single",
+      "options": [
+        "A. nhiệt lượng mà vật nhận được trong quá trình truyền nhiệt",
+        "B. tổng động năng và thế năng của vật",
+        "C. tổng động năng và thế năng của các phân tử cấu tạo nên vật",
+        "D. cơ năng mà vật nhận được trong quá trình thực hiện công"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Bước 1: Nhắc lại định nghĩa *nội năng* U là tổng năng lượng vi mô gồm động năng và thế năng của các phân tử:\n$U = \\sum K_{\\text{phân tử}} + \\sum V_{\\text{phân tử}}$\n- Bước 2: Đối chiếu từng phương án: - Phương án A: “nhiệt lượng mà vật nhận được” chỉ là năng lượng chuyển giao, không phải nội năng.\n  - Phương án B: “tổng động năng và thế năng của vật” là năng lượng vĩ mô, không xét đến cấu trúc phân tử.\n  - Phương án C: “tổng động năng và thế năng của các phân tử cấu tạo nên vật” trùng với định nghĩa nội năng.\n  - Phương án D: “cơ năng mà vật nhận được” là năng lượng do công, không phải nội năng phân tử.\n- Bước 3: Chọn phương án phù hợp với định nghĩa ở Bước 1.\n**✅ Đáp án:** $\\text{C}$\n**❌ Các đáp án khác:**\n- A: Nhiệt lượng là năng lượng truyền vào vật, không phải tổng năng lượng nội tại.\n- B: Động năng và thế năng của vật là năng lượng cơ học vĩ mô, không phải vi mô.\n- D: Cơ năng là năng lượng vật nhận được do công, không phản ánh tổng năng lượng phân tử."
+    },
+    {
+      "id": 7,
+      "content": "Điều nào sau đây là đúng khi nói về thuyết động học phân tử chất khí?",
+      "chuong": "khí lí tưởng",
+      "dang": "lý thuyết: thuyết động học phân tử chất khí",
+      "type": "single",
+      "options": [
+        "A. Các phân tử khí chỉ chuyển động theo các đường tròn",
+        "B. Khoảng cách giữa các phân tử khí xấp xỉ kích thước mỗi phân tử",
+        "C. Nhiệt độ càng cao, các phân tử khí chuyển động càng nhanh",
+        "D. Các phân tử khí chuyển động hỗn loạn và va chạm vào thành bình"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Theo thuyết động học phân tử, động năng trung bình của phân tử khí tỉ lệ thuận với nhiệt độ tuyệt đối:\n$\\overline{E_k} = \\tfrac{3}{2}\\,k_B\\,T$\nKhi nhiệt độ tăng, động năng trung bình tăng ⇒ vận tốc trung bình của phân tử tăng.\n- Đánh giá từng phương án:\n• A sai vì phân tử khí chuyển động hỗn loạn, không chỉ theo đường tròn.\n• B sai vì trong khí lý tưởng, khoảng cách giữa phân tử lớn hơn nhiều lần kích thước của chúng.\n• C đúng vì nêu đúng mối quan hệ nhiệt độ tăng ⇒ vận tốc phân tử tăng.\n• D sai mặc dù hình minh họa (IMAGE DESCRIPTION) cho thấy phân tử va chạm thành bình, nhưng đây chỉ mô tả chuyển động hỗn loạn và va chạm, chưa nêu mối liên hệ với nhiệt độ.\n**✅ Đáp án:** Nhiệt độ càng cao, các phân tử khí chuyển động càng nhanh\n**❌ Các đáp án khác:**\n- A: Sai, phân tử khí không chỉ chuyển động tròn mà di chuyển thẳng đều cho đến va chạm.\n- B: Sai, khoảng cách giữa phân tử rất lớn so với kích thước từng phân tử.\n- D: Sai, chỉ mô tả sự va chạm với thành bình, không đề cập đến ảnh hưởng của nhiệt độ."
+    },
+    {
+      "id": 8,
+      "content": "Chọn $R$ là hằng số khí lí tưởng; $N_A$ là số Avogadro; $p, V, T$ lần lượt là áp suất, thể tích và nhiệt độ tuyệt đối của một lượng khí. Biểu thức nào sau đây dùng để xác định hằng số Boltzmann?",
+      "chuong": "khí lí tưởng",
+      "dang": "lý thuyết: thuyết động học phân tử chất khí",
+      "type": "single",
+      "options": [
+        "A. $k = \\dfrac{R}{N_A}$",
+        "B. $k = \\dfrac{V}{N_A}$",
+        "C. $k = \\dfrac{p}{N_A}$",
+        "D. $k = \\dfrac{T}{N_A}$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Theo phương trình khí lí tưởng cho số mol *n*:\n$pV = nRT$\n- Biết số mol *n* cũng bằng tổng số phân tử chia cho *N**A*, và ở cấp độ phân tử, thay *nR* bằng *Nk* (với *N* là số phân tử):\n$pV = NkT$\n- So sánh hai công thức ta thấy:\n$nR = Nk \\quad\\Longrightarrow\\quad R = N_A\\,k$\n- Từ đó suy ra biểu thức cho hằng số Boltzmann:\n$k = \\frac{R}{N_}A}$\n**✅ Đáp án:** $k = \\frac{R}{N_}A}$\n**❌ Các đáp án khác:**\n- k = V⁄NA: không đúng, vì V không liên quan trực tiếp đến hằng số Boltzmann.\n- k = p⁄NA: không đúng, vì p cũng không phải tỷ lệ với *k*.\n- k = T⁄NA: không đúng, vì nhiệt độ T không cho hằng số *k*."
+    },
+    {
+      "id": 9,
+      "content": "Quy trình nào sau đây có liên quan đến sự đông đặc?",
+      "chuong": "vật lí nhiệt",
+      "dang": "lý thuyết: cấu trúc của chất. sự chuyển thể",
+      "type": "single",
+      "options": [
+        "A. Làm sô cô la",
+        "B. Sản xuất muối",
+        "C. Phơi khô quần áo",
+        "D. Đổ bê tông"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- **Bước 1:** Nhắc lại khái niệm *sự đông đặc*:\n$\\text{Thể lỏng} \\longrightarrow \\text{Thể rắn}$\n- **Bước 2:** Quan sát hình ảnh: - Chocolate tan chảy ở trạng thái lỏng được đổ vào khuôn và làm mát đến khi đông cứng.\n- **Bước 3:** Đánh giá từng phương án: - Làm sô cô la: Chocolate tan chảy rồi được làm lạnh để đông đặc thành dạng rắn.\n  - Sản xuất muối: Nước bay hơi, muối kết tinh (sự kết tinh qua bay hơi chứ không phải đông đặc).\n  - Phơi khô quần áo: Nước trong quần áo bốc hơi (sự bay hơi, không phải đông đặc).\n  - Đổ bê tông: Ninh kết hóa học (phản ứng hydrat hóa), không phải chuyển pha vật lý lỏng→rắn.\n- **Bước 4:** Chọn đáp án phù hợp: - Quy trình duy nhất thuần túy có sự chuyển pha lỏng sang rắn là *làm sô cô la*.\n**✅ Đáp án:** $A$\n**❌ Các đáp án khác:**\n- Sản xuất muối: Chỉ là quá trình bay hơi và kết tinh, không phải đông đặc.\n- Phơi khô quần áo: Là sự bay hơi của nước, không liên quan đến đông đặc.\n- Đổ bê tông: Là phản ứng hóa học ninh kết, không phải chuyển pha đơn thuần từ lỏng sang rắn."
+    },
+    {
+      "id": 10,
+      "content": "Khi quan sát các hạt phần hoa trong nước bằng kính hiển vi, Robert Brown đã nhận thấy đường đi của các hạt phần hoa trong nước là",
+      "chuong": "khí lí tưởng",
+      "dang": "lý thuyết: thuyết động học phân tử chất khí",
+      "type": "single",
+      "options": [
+        "A. đường gấp khúc",
+        "B. đường thẳng",
+        "C. đường tròn",
+        "D. đường elip"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Quan sát hình ảnh:\nHình ảnh từ kính hiển vi cho thấy hạt phấn hoa di chuyển không theo một đường cố định, mà liên tục đổi hướng, tiến lùi bất định.\n- Nhận diện hiện tượng:\nHiện tượng này gọi là *chuyển động Brown*, xuất phát từ va chạm không đều giữa phân tử chất lỏng và hạt phấn.\n- Đánh giá các lựa chọn:\n• “Đường thẳng” (B): sai, vì chuyển động Brown không phải thẳng đều.\n• “Đường tròn” (C): sai, hạt không quay quanh một tâm cố định.\n• “Đường elip” (D): sai, elip cũng là quỹ đạo cố định, trong khi chuyển động Brown hoàn toàn bất định.\n• “Đường gấp khúc” (A): đúng, mô tả chính xác sự đổi hướng đột ngột và ngẫu nhiên của hạt.\n**✅ Đáp án:** $\\text{đường gấp khúc}$\n**❌ Các đáp án khác:**\n- B. đường thẳng: không phản ánh tính ngẫu nhiên, thay đổi hướng liên tục\n- C. đường tròn: quỹ đạo cố định, không trùng với chuyển động ngẫu nhiên\n- D. đường elip: cũng là quỹ đạo cố định, không phù hợp với sự bất định của chuyển động Brown"
+    },
+    {
+      "id": 11,
+      "content": "Một đoạn dây dẫn mang dòng điện đặt trong từ trường đều $\\vec{B}$ có các đường sức từ nằm ngang, hướng sang phải. Dòng điện $I$ có chiều đi từ ngoài vào như hình vẽ. Lực từ tác dụng lên đoạn dây này có phương\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tn-thpt-vat-ly-tinh-lam-dong-lan-2-2025/cau-11.webp\" alt=\"Hình minh họa câu 11\" loading=\"lazy\"></figure>",
+      "chuong": "từ trường",
+      "dang": "lý thuyết: lực từ. cảm ứng từ",
+      "type": "single",
+      "options": [
+        "A. nằm ngang hướng từ trái sang phải",
+        "B. thẳng đứng hướng từ dưới lên",
+        "C. thẳng đứng hướng từ trên xuống dưới",
+        "D. nằm ngang hướng từ phải sang trái"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Dùng quy tắc bàn tay trái, I là chiều từ cổ tay tới ngón, lòng bàn tay hứng cảm ứng từ B => Ngón cái chĩa xuống dưới => Lực hướng từ trên xuống dưới.\n**✅ Đáp án:** C. thẳng đứng hướng từ trên xuống dưới\n**❌ Các đáp án khác:**\n- A. nằm ngang hướng từ trái sang phải: sai, lực không nằm ngang.\n- B. thẳng đứng hướng từ dưới lên: sai, chiều ngược lại.\n- D. nằm ngang hướng từ phải sang trái: sai, lực không theo phương ngang."
+    },
+    {
+      "id": 12,
+      "content": "Hình bên mô tả một chiếc hộp được dùng để cất trữ chất phóng xạ. Vật liệu nào là thích hợp nhất để chắn tia phóng xạ phát ra từ bên trong hộp?\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tn-thpt-vat-ly-tinh-lam-dong-lan-2-2025/cau-12.webp\" alt=\"Hình minh họa câu 12\" loading=\"lazy\"></figure>",
+      "chuong": "vật lí hạt nhân",
+      "dang": "lý thuyết: hiện tượng phóng xạ",
+      "type": "single",
+      "options": [
+        "A. Nhôm",
+        "B. Đồng",
+        "C. Chì",
+        "D. Thép"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Tia phóng xạ (gamma, X-quang) bị hấp thụ tốt hơn khi đi qua vật liệu có số hiệu nguyên tử cao và khối lượng riêng lớn.\n- So sánh các vật liệu:\n• Nhôm (Al): Z = 13, khối lượng riêng ≈ 2,7 g/cm³ – khả năng chắn kém.\n• Đồng (Cu): Z = 29, khối lượng riêng ≈ 8,9 g/cm³ – tốt hơn nhôm nhưng chưa tối ưu.\n• Thép (Fe): Z trung bình ≈ 26, khối lượng riêng ≈ 7,8 g/cm³ – cũng chưa bằng chì.\n• Chì (Pb): Z = 82, khối lượng riêng ≈ 11,3 g/cm³ – cao nhất trong số trên, hấp thụ tia phóng xạ rất hiệu quả.\n- Kết luận: chì là vật liệu lý tưởng để chắn tia phóng xạ, vì có độ dày mỏng hơn vẫn đạt hiệu quả cao.\n**✅ Đáp án:** $C$\n**❌ Các đáp án khác:**\n- A. Nhôm: số hiệu nguyên tử và khối lượng riêng thấp, khả năng chắn kém.\n- B. Đồng: tốt hơn nhôm nhưng vẫn thua kém chì về độ hấp thụ tia.\n- D. Thép: khối lượng riêng và Z thấp hơn chì, hiệu quả chắn không bằng."
+    },
+    {
+      "id": 13,
+      "content": "Một khối khí ở nhiệt độ \\$11^\\circ\\text{C}$. Muốn biến đổi đẳng áp để thể tích khối khí giảm xuống còn một nửa thì cách làm nào sau đây là phù hợp?",
+      "chuong": "khí lí tưởng",
+      "dang": "lý thuyết: định luật charles",
+      "type": "single",
+      "options": [
+        "A. Giảm nhiệt độ xuống đến \\$5{,}5^\\circ\\text{C}$",
+        "B. Tăng nhiệt độ lên đến \\$22^\\circ\\text{C}$",
+        "C. Giảm nhiệt độ xuống đến $-131^\\circ\\text{C}$",
+        "D. Tăng nhiệt độ lên đến \\$295^\\circ\\text{C}$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Chuyển nhiệt độ ban đầu sang Kelvin:\n$T_1 = 11^\\circ\\mathrm{C} + 273 = 284\\ \\mathrm{K}$\n- Viết hệ thức đẳng áp (Charles):\n$\\frac{V_1}{T_}1} = \\frac{V_2}{T_}2}$\n- Đặt điều kiện thể tích mới là một nửa: $V_2 = \\tfrac12\\,V_1$\n- Thay vào phương trình:\n$\\frac{V_1}{T_}1} = \\frac{\\tfrac12\\,V_1}{T_}2} \\quad\\Longrightarrow\\quad \\frac1{T_1} = \\frac1{2\\,T_2}$\nSuy ra $T_2 = \\frac{T_1}{2}$\n- Tính $T_2$:\n$T_2 = \\frac{284\\ \\mathrm{K}}{2} = 142\\ \\mathrm{K}$\n- Chuyển về độ C:\n$T_2 = 142\\ \\mathrm{K} - 273 = -131^\\circ\\mathrm{C}$\n**✅ Đáp án:** $-131^\\circ\\mathrm{C}$\n**❌ Các đáp án khác:**\n- A. \\$5{,}5^\\circ\\mathrm{C}$: Sai, không thoả mãn tỉ lệ $T_2 = T_1/2$.\n- B. \\$22^\\circ\\mathrm{C}$: Sai, đây chỉ là gấp đôi nhiệt độ ban đầu trên thang °C, không chuyển sang Kelvin.\n- D. \\$295^\\circ\\mathrm{C}$: Sai, giá trị này không liên quan đến công thức đẳng áp $V\\propto T\\,$."
+    },
+    {
+      "id": 14,
+      "content": "Cho một khối khí có thể tích \\$2\\,\\text{dm}^3$, áp suất \\$1{,}5\\,\\text{atm}$, nhiệt độ \\$47^\\circ\\text{C}$. Nén lượng khí này để thể tích giảm xuống đến \\$0{,}2\\,\\text{dm}^3$ và nhiệt độ tăng lên đến \\$175^\\circ\\text{C}$. Áp suất của khối khí sau khi nén là bao nhiêu?",
+      "chuong": "khí lí tưởng",
+      "dang": "bài tập: phương trình trạng thái khí lí tưởng",
+      "type": "single",
+      "options": [
+        "A. \\$21\\,\\text{atm}$",
+        "B. \\$8{,}2\\,\\text{atm}$",
+        "C. \\$143\\,\\text{atm}$",
+        "D. \\$55{,}9\\,\\text{atm}$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Chuyển đổi nhiệt độ từ °C sang K:\n$T_1 = 47 + 273 = 320\\,\\text{K},\\quad T_2 = 175 + 273 = 448\\,\\text{K}$\n- Viết lại công thức biến đổi khí lý tưởng:\n$\\frac{p_1\\,V_1}{T_}1} = \\frac{p_2\\,V_2}{T_}2}$\n- Giải để tìm $p_2$:\n$p_2 = \\frac{p_1\\,V_1}{T_}1}\\times\\frac{T_2}{V_}2}\n  = 1{,}5 \\times \\frac{2}{0}{,}2} \\times \\frac{448}{32}0}\n  = 1{,}5 \\times 10 \\times 1{,}4\n  = 21\\,\\text{atm}$\n- Đối chiếu với các đáp án, chọn giá trị đúng là \\$21\\,\\text{atm}$.\n**✅ Đáp án:** \\$21\\,\\text{atm}$\n**❌ Các đáp án khác:**\n- 8{,}2 atm: quá nhỏ, không nhân đủ tỉ số thể tích và nhiệt độ.\n- 143 atm: thừa cao, có thể sai bước chuyển đổi nhiệt độ.\n- 55{,}9 atm: không khớp kết quả tính toán chuẩn."
+    },
+    {
+      "id": 15,
+      "content": "Cho biết nhiệt nóng chảy riêng của nước đá là \\$34{,}104\\,\\text{kJ/kg}$ và nhiệt dung riêng của nước là \\$4180\\,\\text{J/kg.K}$. Nhiệt lượng cần cung cấp cho \\$4\\,\\text{kg}$ nước đá \\$0^\\circ\\text{C}$ để chuyển nó hoàn toàn thành nước ở \\$0^\\circ\\text{C}$ là bao nhiêu?",
+      "chuong": "vật lí nhiệt",
+      "dang": "bài tập: nhiệt nóng chảy riêng",
+      "type": "single",
+      "options": [
+        "A. \\$136{,}4\\,\\text{kJ}$",
+        "B. \\$423{,}6\\,\\text{kJ}$",
+        "C. \\$1360{,}4\\,\\text{kJ}$",
+        "D. \\$334{,}4\\,\\text{kJ}$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Áp dụng công thức tính nhiệt lượng cần cung cấp để chuyển pha (tan chảy):\n$Q=m\\lambda.$\n- Chú ý đơn vị: đề cho $\\lambda$ theo đơn vị kJ/kg, nên kết quả sẽ thu được bằng kJ.\n- Thay số vào: (theo dữ liệu đề bài)\n- $Q=4\\times 34{,}104=136{,}416\\ \\text{kJ}.$\n- Như vậy theo các dữ liệu được cho, nhiệt lượng cần cung cấp là \\$136{,}416\\ \\text{kJ}$\n✅ **Đáp án:** A."
+    },
+    {
+      "id": 16,
+      "content": "Hình vẽ bên dưới là hình vẽ một đoạn dây dẫn mang dòng điện MN đặt trong mặt phẳng chứa các đường sức từ của một từ trường đều ở các vị trí khác nhau. Trong hình vẽ nào độ lớn lực từ tác dụng lên đoạn dây dẫn mang dòng điện MN là lớn nhất?\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tn-thpt-vat-ly-tinh-lam-dong-lan-2-2025/cau-16.webp\" alt=\"Hình minh họa câu 16\" loading=\"lazy\"></figure>",
+      "chuong": "từ trường",
+      "dang": "lý thuyết: lực từ. cảm ứng từ",
+      "type": "single",
+      "options": [
+        "A. Hình 3",
+        "B. Hình 2",
+        "C. Hình 4",
+        "D. Hình 1"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Xác định góc $\\theta$ giữa chiều dây MN và hướng đường sức từ (ngang sang phải) ở mỗi hình:\n• Hình 1: chiều dây ngang, cùng hướng với trường ⇒ $\\theta=0^\\circ$.\n• Hình 2: dây thẳng đứng, vuông góc với trường ⇒ $\\theta=90^\\circ$.\n• Hình 3: dây chéo xuống dưới 45° so với ngang ⇒ $\\theta=45^\\circ$.\n• Hình 4: dây chéo lên trên 45° so với ngang ⇒ $\\theta=45^\\circ$.\n- Tính sin θ:\n• sin 0° = 0 ⇒ $F_1=0$\n• sin 90° = 1 ⇒ $F_2=I\\,L\\,B$ (cực đại)\n• sin 45° = $\\tfrac{\\sqrt2}{2}\\approx0.707$ ⇒ $F_3=F_4\\approx0.707\\,I\\,L\\,B$\n- So sánh:\n$F_2 > F_3 = F_4 > F_1$.\n**✅ Đáp án:** Hình 2\n**❌ Các đáp án khác:**\n- Hình 1: lực từ bằng 0 vì dây song song với $\\vec B$.\n- Hình 3: $F_3 = I\\,L\\,B\\sin45^\\circ\\approx0.707\\,I\\,L\\,B$.\n- Hình 4: $F_4 = I\\,L\\,B\\sin45^\\circ\\approx0.707\\,I\\,L\\,B$."
+    },
+    {
+      "id": 17,
+      "content": "Một vòng dây phẳng giới hạn diện tích $S = 64\\,\\text{cm}^2$ đặt trong một từ trường đều có cảm ứng từ $B = 2.10^{-4}\\,\\text{T}$. Biết vectơ đơn vị pháp tuyến của mặt phẳng vòng dây hợp với vectơ cảm ứng từ một góc $\\alpha = 30^\\circ$. Từ thông qua vòng dây là bao nhiêu?",
+      "chuong": "từ trường",
+      "dang": "bài tập: tính toán từ thông, suất điện động",
+      "type": "single",
+      "options": [
+        "A. \\$1{,}1.10^{-2}\\,\\text{Wb}$",
+        "B. \\$1{,}1.10^{-6}\\,\\text{Wb}$",
+        "C. \\$1{,}1.10^{-4}\\,\\text{Wb}$",
+        "D. \\$1{,}1.10^{-2}\\,\\text{T}$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Bước 1: Chuyển diện tích từ cm² sang m².\n\\$64\\,\\text{cm}^2 = 64 \\times 10^{-4}\\,\\text{m}^2 = 6{,}4 \\times 10^{-3}\\,\\text{m}^2$\n- Bước 2: Viết công thức tính từ thông.\n$\\Phi = B\\,S\\,\\cos\\alpha$\n- Bước 3: Tính giá trị $\\cos 30^\\circ$.\n$\\cos 30^\\circ = \\frac{\\sqrt{3}}{2} \\approx 0{,}866$\n- Bước 4: Thay số vào công thức.\n**✅ Đáp án:**\n\\$1,1 \\times 10^{-6}\\,\\text{Wb}$\n**❌ Các đáp án khác:**\n- A. \\$1,1 \\times 10^{-2}\\,\\text{Wb}$: Sai vì chưa đổi đơn vị từ cm² sang m², nên kết quả lớn hơn thực tế.\n- C. \\$1,1 \\times 10^{-4}\\,\\text{Wb}$: Sai do bỏ hệ số $\\cos 30^\\circ$, chỉ tính $B\\,S$.\n- D. \\$1,1 \\times 10^{-2}\\,\\text{T}$: Sai cả về giá trị lẫn *đơn vị* (phải là Wb, không phải T)."
+    },
+    {
+      "id": 18,
+      "content": "Bán kính của hạt nhân $^{238}_{92}\\text{U}$ là",
+      "chuong": "vật lí hạt nhân",
+      "dang": "bài tập: tính bán kính r, thể tích v",
+      "type": "single",
+      "options": [
+        "A. \\$7{,}44.10^{-15}\\,\\text{m}$",
+        "B. \\$66{,}10^{-14}\\,\\text{m}$",
+        "C. \\$7{,}44.10^{-14}\\,\\text{m}$",
+        "D. \\$66{,}10^{-15}\\,\\text{m}$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Viết công thức chung cho bán kính:\n$R = R_0\\,A^{1/3}.$\n- Thay $R_0 = 1{,}2\\times10^{-14}\\,\\text{m}$ và $A = 238$:\n$R = 1{,}2\\times10^{-14}\\times 238^{1/3}\\,\\text{m}.$\n- Tính $\\displaystyle 238^{1/3}$:\n- Nhân kết quả:\n- Đối chiếu với các lựa chọn, ta thấy giá trị này trùng với phương án C.\n**✅ Đáp án:**\n**❌ Các đáp án khác:**\n- A. \\$7{,}44\\times10^{-15}\\,\\text{m}$: bị sai vị trí mũ \\$10^{-15}$ thay vì \\$10^{-14}$.\n- B. \\$66\\times10^{-14}\\,\\text{m}$: giá trị quá lớn, không khớp công thức.\n- D. \\$66\\times10^{-15}\\,\\text{m}$: tuy cùng hệ số 66 nhưng số mũ sai và không khớp kết quả tính."
+    }
+  ]
+}

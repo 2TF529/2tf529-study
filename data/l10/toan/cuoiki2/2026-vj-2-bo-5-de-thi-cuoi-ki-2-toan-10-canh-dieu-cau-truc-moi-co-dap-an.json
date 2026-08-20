@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-2-bo-5-de-thi-cuoi-ki-2-toan-10-canh-dieu-cau-truc-moi-co-dap-an",
+  "sourceId": "vietjack:2-bo-5-de-thi-cuoi-ki-2-toan-10-canh-die",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "cuoiki2",
+  "year": 2026,
+  "title": "2.Bộ 5 đề thi cuối kì 2 Toán 10 Cánh diều cấu trúc mới có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh chỉ chọn một phương án. Một người vào cửa hàng ăn, người đó chọn thực đơn gồm \\[1\\] món ăn trong 5 món, \\[1\\] loại quả tráng miệng trong 5 loại quả tráng miệng và một loại nước uống trong 3 loại nước uống. Có bao nhiêu cách chọn thực đơn?",
+      "options": [
+        "A. \\[25\\] .",
+        "B. \\[75\\] .",
+        "C. \\[100\\] .",
+        "D. \\[15\\] ."
+      ],
+      "answer": "B",
+      "note": "Chọn \\[1\\] món ăn trong \\[5\\] món: có \\[5\\] cách. Chọn \\[1\\] loại quả tráng miệng trong \\[5\\] loại quả tráng miệng: có \\[5\\] cách. Chọn \\[1\\] nước uống trong \\[3\\] loại nước uống: có \\[5\\] cách. Theo qui tắc nhân, có \\(5.5.3 = 75\\) cách."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Từ các chữ số \\[2,\\,3,\\,4,\\,5\\] có thể lập được bao nhiêu số tự nhiên có \\[4\\] chữ số khác nhau?",
+      "options": [
+        "A. \\[256\\] .",
+        "B. \\[120\\] .",
+        "C. \\[24\\] .",
+        "D. \\[16\\] ."
+      ],
+      "answer": "C",
+      "note": "Mỗi số cần lập là một hoán vị của \\(4\\) phần tử \\( \\Rightarrow \\) có \\(4! = 24\\) số cần lập."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trong khai triển nhị thức \\[{\\left( {a + 2} \\right)^{n + 6}}(n \\in \\mathbb{N})\\] c ó tất cả \\[17\\] số hạng. Giá trị của \\(n\\) là",
+      "options": [
+        "A. \\[17\\] .",
+        "B. \\[11\\] .",
+        "C. \\[10\\] .",
+        "D. \\[12\\] ."
+      ],
+      "answer": "C",
+      "note": "Ta có: \\(n + 6 + 1 = 17 \\Leftrightarrow n = 10\\) ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Kết quả đo chiều dài của một cây cầu được ghi là \\[152m \\pm 0,2m\\] . Tìm sai số tương đối của phép đo chiều dài cây cầu.",
+      "options": [
+        "A. A . \\({\\delta _a} < 0,1316\\% \\) .",
+        "B. \\({\\delta _a} < 1,316\\% \\) .",
+        "C. \\({\\delta _a} = 0,1316\\% \\) .",
+        "D. \\({\\delta _a} > 0,1316\\% \\) ."
+      ],
+      "answer": "A",
+      "note": "Sai số tương đối \\[{\\delta _a} \\le \\frac{{0,2}}{{152}} = 0,001315789 \\approx 0,1316\\% \\] ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Thời gian chạy 50m của 20 học sinh được ghi lại trong bảng dưới đây: Số trung bình cộng thời gian chạy của học sinh là:",
+      "options": [
+        "A. 8,54.",
+        "B. 4.",
+        "C. 8,50.",
+        "D. 8,53"
+      ],
+      "answer": "D",
+      "note": "Số trung bình cộng thời gian chạy của học sinh là:\\[\\overline x = \\frac{{\\left( {8,3.2 + 8,4.3 + 8,5.9 + 8,7.5 + 8,8.1} \\right)}}{{20}} = 8,53\\]."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho bảng phân bố tần số khối lượng 30 quả trứng gà của một rổ trứng gà: Số trung vị là",
+      "options": [
+        "A. 37,5.",
+        "B. 40.",
+        "C. 35.",
+        "D. 75"
+      ],
+      "answer": "C",
+      "note": "Ta thấy N chẵn nên số trung vị là:\\[{M_e} = \\frac{{35 + 35}}{2} = 35\\]."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Trong mặt phẳng tọa độ \\[Oxy\\] , phương trình tham số của đường thẳng đi qua 2 điểm \\(A\\left( {1;2} \\right)\\) , \\(B\\left( {0; - 2} \\right)\\) là",
+      "options": [
+        "A. \\(\\left\\{ \\begin{array}{l}x = 1 - t\\\\y = 2 + 4t\\end{array} \\right.\\) .",
+        "B. \\(\\left\\{ \\begin{array}{l}x = - 4t\\\\y = - 2 - t\\end{array} \\right.\\) .",
+        "C. \\(\\left\\{ \\begin{array}{l}x = - 1\\\\y = - 4 - 2t\\end{array} \\right.\\) .",
+        "D. \\(\\left\\{ \\begin{array}{l}x = 1 + t\\\\y = 2 + 4t\\end{array} \\right.\\,\\) ."
+      ],
+      "answer": "D",
+      "note": "Ta có \\(\\overrightarrow {AB} = \\left( { - 1; - 4} \\right)\\), Đường thẳng\\(AB\\)đi qua điểm \\(A\\left( {1;2} \\right)\\) và nhận \\(\\overrightarrow u = \\left( {1;4} \\right)\\) làm vtcp nên có phương trình tham số là: \\(\\left\\{ \\begin{array}{l}x = 1 + t\\\\y = 2 + 4t\\end{array} \\right.\\,\\,\\left( {t \\in \\mathbb{R}} \\right)\\)."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Trên hệ trục tọa độ \\(Oxy\\) , có bao nhiêu giá trị nguyên của \\(m \\in \\left[ { - 10;10} \\right]\\) để phương trình \\({x^2} + {y^2} - 2\\left( {m + 1} \\right)x + 4y + 7m + 5 = 0\\) là phương trình đường tròn?",
+      "options": [
+        "A. \\(16\\) .",
+        "B. \\(11\\) .",
+        "C. \\(15\\).",
+        "D. \\(12\\) ."
+      ],
+      "answer": "C",
+      "note": "Ta có \\(a = m + 1\\), \\(b = - 2\\) và \\(c = 7m + 5\\). Để phương trình đã cho là phương trình đường tròn thì \\({a^2} + {b^2} - c > 0 \\Leftrightarrow {\\left( {m + 1} \\right)^2} + {\\left( { - 2} \\right)^2} - \\left( {7m + 5} \\right) > 0\\) \\( \\Leftrightarrow {m^2} - 5m > 0\\) \\( \\Leftrightarrow \\left[ \\begin{array}{l}m < 0\\\\m > 5\\end{array} \\right.\\). Vì \\(m \\in \\left[ { - 10;10} \\right] \\Rightarrow \\) có \\(15\\) giá trị \\(m\\) thỏa mãn yêu cầu bài toán."
+    }
+  ]
+}

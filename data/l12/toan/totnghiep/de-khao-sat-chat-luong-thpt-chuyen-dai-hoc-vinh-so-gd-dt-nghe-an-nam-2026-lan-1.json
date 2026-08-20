@@ -1,0 +1,196 @@
+{
+  "id": "l12-toan-totnghiep-2026-de-khao-sat-chat-luong-thpt-chuyen-dai-hoc-vinh-so-gd-dt-nghe-an-nam-2026-lan-1",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "code": "THPT_TTT_2026_NA_03",
+  "title": "Đề khảo sát chất lượng THPT Chuyên Đại học Vinh Sở GD&ĐT Nghệ An năm 2026 - Lần 1",
+  "duration": 90,
+  "answerSource": "official",
+  "source": "https://dolthpt.vn/tot-nghiep-thpt/pdf-de-khao-sat-chat-luong-thpt-chuyen-dai-hoc-vinh-so-gd-dt-nghe-an-nam-2026-lan-1-co-dap-an",
+  "notes": "Nội dung, đáp án và lời giải được nhập từ bản công khai của DOL THPT.",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "content": "Họ các nguyên hàm của hàm số $f(x)=2\\sin x+1$ trên $\\mathbb{R}$ là",
+      "chuong": "nguyên hàm và tích phân",
+      "dang": "nguyên hàm của một số hàm số thường gặp",
+      "type": "single",
+      "options": [
+        "A. \\$2\\cos x$.",
+        "B. $-2\\cos x+x+C$.",
+        "C. \\$2\\cos x+x+C$.",
+        "D. $-2\\cos x+1+C$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số đã cho là $f(x)=2\\sin x+1$.\n- Cần tìm họ nguyên hàm của $f(x)$ trên $\\mathbb{R}$.\n❓ **Hiểu câu hỏi:**\n- Muốn tìm nguyên hàm, ta lấy nguyên hàm từng hạng tử rồi cộng lại.\n- Công thức cần nhớ là $\\int \\sin x\\,dx=-\\cos x+C$ và $\\int 1\\,dx=x+C$.\n🔎 **Hướng dẫn cách làm:**\n- Ta có $\\int \\left(2\\sin x+1\\right)dx=2\\int \\sin x\\,dx+\\int 1\\,dx$.\n- Tính từng phần: \\$2\\int \\sin x\\,dx=2\\left(-\\cos x\\right)=-2\\cos x$.\n- Đồng thời $\\int 1\\,dx=x$.\n- Vậy họ nguyên hàm là $F(x)=-2\\cos x+x+C$.\n✅ **Đáp án:** Chọn B. $-2\\cos x+x+C$"
+    },
+    {
+      "id": 2,
+      "content": "Trong không gian với hệ trục tọa độ $Oxyz$, đường thẳng $d$ đi qua điểm $M(-1;4;6)$, nhận $\\vec{u}=(3;-2;7)$ làm vectơ chỉ phương có phương trình là",
+      "chuong": "phương pháp tọa độ trong không gian",
+      "dang": "phương trình đường thẳng",
+      "type": "single",
+      "options": [
+        "A. $\\dfrac{x-3}{-1}=\\dfrac{y+2}{4}=\\dfrac{z-7}{6}$.",
+        "B. $\\dfrac{x-1}{3}=\\dfrac{y+4}{-2}=\\dfrac{z+6}{7}$.",
+        "C. $\\dfrac{x+3}{-1}=\\dfrac{y-2}{4}=\\dfrac{z+7}{6}$.",
+        "D. $\\dfrac{x+1}{3}=\\dfrac{y-4}{-2}=\\dfrac{z-6}{7}$."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Đường thẳng $d$ đi qua điểm $M(-1;4;6)$.\n- Vectơ chỉ phương của $d$ là $\\vec{u}=(3;-2;7)$.\n❓ **Hiểu câu hỏi:**\n- Phương trình chính tắc của đường thẳng đi qua $M(x_0;y_0;z_0)$ và có vectơ chỉ phương $\\vec{u}=(a;b;c)$ là $\\dfrac{x-x_0}{a}=\\dfrac{y-y_0}{b}=\\dfrac{z-z_0}{c}$.\n- Ta chỉ cần thay đúng tọa độ điểm và vectơ chỉ phương vào công thức.\n🔎 **Hướng dẫn cách làm:**\n- Với $M(-1;4;6)$, ta có $x_0=-1,\\ y_0=4,\\ z_0=6$.\n- Với $\\vec{u}=(3;-2;7)$, ta có $a=3,\\ b=-2,\\ c=7$.\n- Thay vào công thức, được $\\dfrac{x+1}{3}=\\dfrac{y-4}{-2}=\\dfrac{z-6}{7}$.\n- Đây chính là phương trình của đường thẳng $d$.\n✅ **Đáp án:** Chọn D. $\\dfrac{x+1}{3}=\\dfrac{y-4}{-2}=\\dfrac{z-6}{7}$"
+    },
+    {
+      "id": 3,
+      "content": "Cho cấp số nhân $(u_n)$ thỏa mãn $u_4=8u_1$. Công bội $q$ của $(u_n)$ bằng",
+      "chuong": "dãy số. cấp số cộng và cấp số nhân",
+      "dang": "số hạng tổng quát của cấp số nhân",
+      "type": "single",
+      "options": [
+        "A. \\$3$.",
+        "B. \\$2$.",
+        "C. $-2$.",
+        "D. $-3$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cấp số nhân $\\left(u_n\\right)$ thỏa mãn $u_4=8u_1$.\n- Cần tìm công bội $q$.\n❓ **Hiểu câu hỏi:**\n- Với cấp số nhân, ta có công thức $u_n=u_1q^{n-1}$.\n- Từ dữ kiện về $u_4$ và $u_1$, ta sẽ lập phương trình theo $q$.\n🔎 **Hướng dẫn cách làm:**\n- Theo công thức số hạng tổng quát, $u_4=u_1q^3$.\n- Đề bài cho $u_4=8u_1$ nên $u_1q^3=8u_1$.\n- Suy ra $q^3=8$.\n- Do đó $q=2$.\n✅ **Đáp án:** Chọn B. \\$2$"
+    },
+    {
+      "id": 4,
+      "content": "Cho hàm số $y=f(x)$ có đạo hàm là $f'(x)$ liên tục trên $[-2;3]$. Hàm số $y=f'(x)$ có đồ thị như hình vẽ. Biết $\\int_{-2}^{1} f'(x)\\,dx=3$ và diện tích $S=\\dfrac{5}{3}$. Giá trị $f(3)-f(-2)$ bằng\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-chuyen-dai-hoc-vinh-so-gd-dt-nghe-an-nam-2026-lan-1/cau-04.webp\" alt=\"Hình minh họa câu 4\" loading=\"lazy\"></figure>",
+      "chuong": "nguyên hàm và tích phân",
+      "dang": "tính chất của tích phân",
+      "type": "single",
+      "options": [
+        "A. $\\dfrac{4}{3}$.",
+        "B. $\\dfrac{14}{3}$.",
+        "C. $-\\dfrac{4}{3}$.",
+        "D. $-\\dfrac{14}{3}$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- $f'(x)$ liên tục trên $[-2;3]$.\n- $\\int_{-2}^{1} f'(x)\\,dx=3$.\n- Trên đoạn từ \\$1$ đến \\$3$, phần đồ thị $f'(x)$ nằm dưới trục $Ox$ và có diện tích $S=\\dfrac{5}{3}$.\n❓ **Hiểu câu hỏi:**\n- Ta cần tính $f(3)-f(-2)$.\n- Theo định lí cơ bản của giải tích, $f(3)-f(-2)=\\int_{-2}^{3} f'(x)\\,dx$.\n- Khi đồ thị nằm dưới trục $Ox$ thì tích phân bằng số đối của diện tích hình phẳng tương ứng.\n🔎 **Hướng dẫn cách làm:**\n- Ta tách tích phân: $f(3)-f(-2)=\\int_{-2}^{1} f'(x)\\,dx+\\int_{1}^{3} f'(x)\\,dx$.\n- Phần thứ nhất bằng \\$3$ theo đề bài.\n- Vì trên $[1;3]$ đồ thị nằm dưới trục $Ox$ và có diện tích $\\dfrac{5}{3}$ nên $\\int_{1}^{3} f'(x)\\,dx=-\\dfrac{5}{3}$.\n- Suy ra $f(3)-f(-2)=3-\\dfrac{5}{3}=\\dfrac{4}{3}$.\n✅ **Đáp án:** Chọn A. $\\dfrac{4}{3}$"
+    },
+    {
+      "id": 5,
+      "content": "Cho khối lăng trụ đứng $ABC.A'B'C'$ có đáy $ABC$ là tam giác vuông tại $A$ và $BC=2a$, $AA'=2\\sqrt{3}a$, $\\widehat{ABC}=60^\\circ$. Thể tích của khối lăng trụ đã cho bằng",
+      "chuong": "quan hệ vuông góc trong không gian",
+      "dang": "thể tích",
+      "type": "single",
+      "options": [
+        "A. \\$6a^3$.",
+        "B. $a^3$.",
+        "C. \\$2a^3$.",
+        "D. \\$3a^3$."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Lăng trụ đứng $ABC.A'B'C'$ có đáy $ABC$ là tam giác vuông tại $A$.\n- $BC=2a$, $AA'=2\\sqrt{3}a$, $\\widehat{ABC}=60^\\circ$.\n❓ **Hiểu câu hỏi:**\n- Thể tích lăng trụ được tính bởi công thức $V=S_{\\text{đáy}}\\cdot h$.\n- Vì đáy là tam giác vuông nên ta cần tìm hai cạnh góc vuông của tam giác $ABC$.\n🔎 **Hướng dẫn cách làm:**\n- Trong tam giác vuông $ABC$ có $\\widehat{B}=60^\\circ$ nên $\\widehat{C}=30^\\circ$.\n- Vì $BC=2a$ là cạnh huyền nên theo tam giác \\$30^\\circ-60^\\circ-90^\\circ$, ta có $AB=a$ và $AC=a\\sqrt{3}$.\n- Diện tích đáy là $S_{ABC}=\\dfrac{1}{2}\\cdot AB\\cdot AC=\\dfrac{1}{2}\\cdot a\\cdot a\\sqrt{3}=\\dfrac{a^2\\sqrt{3}}{2}$.\n- Chiều cao lăng trụ là $AA'=2\\sqrt{3}a$.\n- Vậy $V=S_{ABC}\\cdot AA'=\\dfrac{a^2\\sqrt{3}}{2}\\cdot 2\\sqrt{3}a=3a^3$.\n✅ **Đáp án:** Chọn D. \\$3a^3$"
+    },
+    {
+      "id": 6,
+      "content": "Cho $P(A),\\,P(B)>0$. Công thức xác suất có điều kiện của biến cố $A$ khi biết biến cố $B$ đã xảy ra là",
+      "chuong": "xác suất có điều kiện",
+      "dang": "xác suất có điều kiện",
+      "type": "single",
+      "options": [
+        "A. $P(A\\mid B)=\\dfrac{P(AB)}{P(A)}$.",
+        "B. $P(A\\mid B)=\\dfrac{P(B)}{P(A)}$.",
+        "C. $P(A\\mid B)=\\dfrac{P(AB)}{P(B)}$.",
+        "D. $P(A\\mid B)=\\dfrac{P(A)}{P(B)}$."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- $P(A)>0$ và $P(B)>0$.\n- Cần chọn công thức xác suất có điều kiện của biến cố $A$ khi biết $B$ đã xảy ra.\n❓ **Hiểu câu hỏi:**\n- Đây là công thức cơ bản của xác suất có điều kiện.\n- Ta cần nhớ đúng dạng $P(A\\mid B)$.\n🔎 **Hướng dẫn cách làm:**\n- Theo định nghĩa, xác suất có điều kiện của $A$ khi biết $B$ đã xảy ra là $P(A\\mid B)=\\dfrac{P(AB)}{P(B)}$.\n- Ta đối chiếu với các phương án và chọn đáp án phù hợp.\n✅ **Đáp án:** Chọn C. $P(A\\mid B)=\\dfrac{P(AB)}{P(B)}$"
+    },
+    {
+      "id": 7,
+      "content": "Tập nghiệm của phương trình $\\cot x=\\sqrt{3}$ là",
+      "chuong": "hàm số lượng giác và phương trình lượng giác",
+      "dang": "phương trình cotx=m",
+      "type": "single",
+      "options": [
+        "A. $S=\\left\\{\\dfrac{\\pi}{3}+k2\\pi\\mid k\\in\\mathbb{Z}\\right\\}$.",
+        "B. $S=\\left\\{\\dfrac{\\pi}{6}+k\\pi\\mid k\\in\\mathbb{Z}\\right\\}$.",
+        "C. $S=\\left\\{\\dfrac{\\pi}{6}+k2\\pi\\mid k\\in\\mathbb{Z}\\right\\}$.",
+        "D. $S=\\left\\{\\dfrac{\\pi}{3}+k\\pi\\mid k\\in\\mathbb{Z}\\right\\}$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cần giải phương trình $\\cot x=\\sqrt{3}$.\n- Các đáp án đều cho dưới dạng nghiệm tổng quát.\n❓ **Hiểu câu hỏi:**\n- Ta cần nhớ góc đặc biệt có $\\cot x=\\sqrt{3}$.\n- Hàm $\\cot x$ có chu kì là $\\pi$ nên nghiệm tổng quát sẽ cộng thêm $k\\pi$.\n🔎 **Hướng dẫn cách làm:**\n- Ta có $\\cot \\dfrac{\\pi}{6}=\\sqrt{3}$.\n- Vì hàm $\\cot x$ có chu kì $\\pi$ nên mọi nghiệm của phương trình là $x=\\dfrac{\\pi}{6}+k\\pi$ với $k\\in\\mathbb{Z}$.\n- Tập nghiệm là $S=\\left\\{\\dfrac{\\pi}{6}+k\\pi\\mid k\\in\\mathbb{Z}\\right\\}$.\n- Đối chiếu các phương án, ta chọn đáp án đúng.\n✅ **Đáp án:** Chọn B. $S=\\left\\{\\dfrac{\\pi}{6}+k\\pi\\mid k\\in\\mathbb{Z}\\right\\}$"
+    },
+    {
+      "id": 8,
+      "content": "Cho hình tứ diện $ABCD$ có $M,N,O$ lần lượt là trung điểm của $AB,CD,MN$. Phát biểu nào sau đây là đúng?",
+      "chuong": "vectơ và hệ trục tọa độ trong không gian",
+      "dang": "tổng và hiệu của hai vectơ trong không gian",
+      "type": "single",
+      "options": [
+        "A. $\\overrightarrow{AB}+\\overrightarrow{AC}+\\overrightarrow{AD}=\\overrightarrow{AO}$.",
+        "B. $\\overrightarrow{AB}+\\overrightarrow{AC}+\\overrightarrow{AD}=2\\overrightarrow{AO}$.",
+        "C. $\\overrightarrow{AB}+\\overrightarrow{AC}+\\overrightarrow{AD}=4\\overrightarrow{AO}$.",
+        "D. $\\overrightarrow{AB}+\\overrightarrow{AC}+\\overrightarrow{AD}=3\\overrightarrow{AO}$."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- $M$ là trung điểm của $AB$, $N$ là trung điểm của $CD$, và $O$ là trung điểm của $MN$.\n- Cần xét đẳng thức giữa $\\overrightarrow{AB}+\\overrightarrow{AC}+\\overrightarrow{AD}$ và $\\overrightarrow{AO}$.\n❓ **Hiểu câu hỏi:**\n- Ta nên dùng vectơ vị trí để biểu diễn trung điểm.\n- Nếu viết được tọa độ vectơ của $O$ theo $A,B,C,D$ thì sẽ suy ra hệ thức cần tìm.\n🔎 **Hướng dẫn cách làm:**\n- Vì $M$ là trung điểm của $AB$ nên $\\overrightarrow{AM}=\\dfrac{\\overrightarrow{AB}}{2}$.\n- Vì $N$ là trung điểm của $CD$ nên vectơ vị trí của $N$ bằng trung bình cộng của $C$ và $D$.\n- Do $O$ là trung điểm của $MN$ nên về vectơ vị trí, $\\overrightarrow{AO}=\\dfrac{1}{4}\\left(\\overrightarrow{AB}+\\overrightarrow{AC}+\\overrightarrow{AD}\\right)$.\n- Nhân cả hai vế với \\$4$, ta được $\\overrightarrow{AB}+\\overrightarrow{AC}+\\overrightarrow{AD}=4\\overrightarrow{AO}$.\n✅ **Đáp án:** Chọn C. $\\overrightarrow{AB}+\\overrightarrow{AC}+\\overrightarrow{AD}=4\\overrightarrow{AO}$"
+    },
+    {
+      "id": 9,
+      "content": "Tập xác định của hàm số $y=\\log_2(3-x)$ là",
+      "chuong": "hàm số mũ và hàm số lôgarit",
+      "dang": "hàm số lôgarit",
+      "type": "single",
+      "options": [
+        "A. $(-\\infty;3]$.",
+        "B. $(-\\infty;3)$.",
+        "C. $(2;3)$.",
+        "D. $(3;+\\infty)$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số là $y=\\log_2(3-x)$.\n- Cần tìm tập xác định của hàm số.\n❓ **Hiểu câu hỏi:**\n- Với hàm lôgarit, biểu thức bên trong lôgarit phải dương.\n- Vì vậy ta chỉ cần giải điều kiện xác định \\$3-x>0$.\n🔎 **Hướng dẫn cách làm:**\n- Điều kiện xác định là \\$3-x>0$.\n- Chuyển vế, ta được $x<3$.\n- Vậy tập xác định của hàm số là $(-\\infty;3)$.\n- So sánh với các phương án, ta chọn đáp án đúng.\n✅ **Đáp án:** Chọn B. $(-\\infty;3)$"
+    },
+    {
+      "id": 10,
+      "content": "Cho hình hộp $ABCD.A_1B_1C_1D_1$ có điểm $M$ thuộc đoạn thẳng $AC$ ($M$ không trùng với $A$ hoặc $C$). Đường thẳng $B_1M$ song song với mặt phẳng nào sau đây?",
+      "chuong": "quan hệ song song trong không gian",
+      "dang": "điều kiện và tính chất của đường thẳng song song với mặt phẳng",
+      "type": "single",
+      "options": [
+        "A. $(CDD_1)$.",
+        "B. $(DA_1C_1)$.",
+        "C. $(ADD_1)$.",
+        "D. $(BDD_1)$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hình hộp $ABCD.A_1B_1C_1D_1$, điểm $M \\in AC$ và $M \\ne A, M \\ne C$.\n- Cần tìm mặt phẳng song song với đường thẳng $B_1M$.\n- Các lựa chọn là $\\left(CDD_1\\right)$, $\\left(DA_1C_1\\right)$, $\\left(ADD_1\\right)$, $\\left(BDD_1\\right)$.\n❓ **Hiểu câu hỏi:**\n- Ta cần chỉ ra một mặt phẳng chứa một đường thẳng song song với $B_1M$.\n- Cách làm hình học không gian: chứng minh cả mặt phẳng chứa $B_1M$ song song với một mặt phẳng trong đáp án.\n🔎 **Hướng dẫn cách làm:**\n- Vì $M \\in AC$ nên đường thẳng $B_1M$ nằm trong mặt phẳng $\\left(AB_1C\\right)$.\n- Trong hình hộp, ta có $AB_1 \\parallel DC_1$.\n- Đồng thời, ta có $AC \\parallel A_1C_1$.\n- Hai đường thẳng $AB_1$ và $AC$ cắt nhau tại $A$, còn hai đường thẳng $DC_1$ và $A_1C_1$ cắt nhau tại $C_1$.\n- Do đó mặt phẳng $\\left(AB_1C\\right)$ song song với mặt phẳng $\\left(DA_1C_1\\right)$.\n- Vì $B_1M \\subset \\left(AB_1C\\right)$ nên suy ra $B_1M \\parallel \\left(DA_1C_1\\right)$.\n✅ **Đáp án:** Chọn B. $\\left(DA_1C_1\\right)$"
+    },
+    {
+      "id": 11,
+      "content": "Trong không gian với hệ trục tọa độ $Oxyz$, cho mặt phẳng $(P)$ đi qua $O$ và có vectơ pháp tuyến $\\vec{n}=(2;-2;1)$. Khoảng cách từ điểm $M(3;-1;1)$ đến $(P)$ bằng",
+      "chuong": "phương pháp tọa độ trong không gian",
+      "dang": "khoảng cách từ một điểm đến một mặt phẳng",
+      "type": "single",
+      "options": [
+        "A. \\$9$.",
+        "B. \\$1$.",
+        "C. $\\dfrac{5}{3}$.",
+        "D. \\$3$."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Mặt phẳng $(P)$ đi qua $O$ và có vectơ pháp tuyến $\\vec{n}=(2;-2;1)$.\n- Điểm cần xét là $M(3;-1;1)$.\n❓ **Hiểu câu hỏi:**\n- Phương trình mặt phẳng đi qua gốc tọa độ và có pháp tuyến $\\vec{n}=(a;b;c)$ là $ax+by+cz=0$.\n- Khoảng cách từ điểm $M(x_0;y_0;z_0)$ đến mặt phẳng $Ax+By+Cz+D=0$ là $d=\\dfrac{|Ax_0+By_0+Cz_0+D|}{\\sqrt{A^2+B^2+C^2}}$.\n🔎 **Hướng dẫn cách làm:**\n- Từ $\\vec{n}=(2;-2;1)$, phương trình mặt phẳng là \\$2x-2y+z=0$.\n- Thay tọa độ điểm $M(3;-1;1)$ vào tử số, được $|2\\cdot 3-2\\cdot (-1)+1|=|6+2+1|=9$.\n- Mẫu số là $\\sqrt{2^2+(-2)^2+1^2}=\\sqrt{9}=3$.\n- Vậy $d\\left(M,(P)\\right)=\\dfrac{9}{3}=3$.\n✅ **Đáp án:** Chọn D. \\$3$"
+    },
+    {
+      "id": 12,
+      "content": "Cho mẫu số liệu như bảng. Tứ phân vị thứ ba (làm tròn đến hàng phần trăm) của mẫu số liệu bằng\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-chuyen-dai-hoc-vinh-so-gd-dt-nghe-an-nam-2026-lan-1/cau-12.webp\" alt=\"Hình minh họa câu 12\" loading=\"lazy\"></figure>",
+      "chuong": "các số đặc trưng đo mức độ phân tán cho mẫu số liệu ghép nhóm",
+      "dang": "khoảng tứ phân vị",
+      "type": "single",
+      "options": [
+        "A. \\$8{,}63$.",
+        "B. \\$7{,}79$.",
+        "C. \\$7{,}76$.",
+        "D. \\$8{,}57$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Mẫu số liệu ghép nhóm có các lớp $[6;7),\\ [7;8),\\ [8;9),\\ [9;10),\\ [10;11)$.\n- Tần số tương ứng là \\$8,12,10,2,3$ nên tổng số quan sát là $n=35$.\n❓ **Hiểu câu hỏi:**\n- Tứ phân vị thứ ba $Q_3$ của mẫu ghép nhóm được xác định từ vị trí $\\dfrac{3n}{4}$.\n- Sau đó ta dùng công thức nội suy trong lớp chứa $Q_3$.\n🔎 **Hướng dẫn cách làm:**\n- Ta có $\\dfrac{3n}{4}=\\dfrac{3\\cdot 35}{4}=26{,}25$.\n- Tần số tích lũy lần lượt là \\$8,20,30,32,35$ nên vị trí \\$26{,}25$ nằm trong lớp $[8;9)$.\n- Với lớp này, cận dưới là $L=8$, bề rộng lớp là $h=1$, tần số lớp là $f=10$, tần số tích lũy trước lớp là \\$20$.\n- Công thức là $Q_3=L+\\dfrac{\\frac{3n}{4}-F_{\\text{trước}}}{f}\\cdot h=8+\\dfrac{26{,}25-20}{10}\\cdot 1=8{,}625$.\n- Làm tròn đến hàng phần trăm, ta được $Q_3\\approx 8{,}63$.\n✅ **Đáp án:** Chọn A. \\$8{,}63$"
+    }
+  ]
+}

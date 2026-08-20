@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-2-cac-dang-bai-tap-bieu-thuc-toa-do-cua-cac-phep-toan-vecto-lop-1",
+  "sourceId": "vietjack:2-cac-dang-bai-tap-bieu-thuc-toa-do-cua-",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.Các dạng bài tập Biểu thức toạ độ của các phép toán vectơ lớp 12 (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Trong không gian Oxyz, cho hai điểm A(1; −1; 2) và B(2; 1; 1). Độ dài đoạn thẳng AB bằng",
+      "options": [
+        "A. 2;",
+        "B. \\(\\sqrt 6 \\);",
+        "C. \\(\\sqrt 2 \\);",
+        "D. 6."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có \\(AB = \\sqrt {{{\\left( {2 - 1} \\right)}^2} + {{\\left( {1 - \\left( { - 1} \\right)} \\right)}^2} + {{\\left( {1 - 2} \\right)}^2}} = \\sqrt 6 \\)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Trong không gian với hệ tọa độ Oxyz, cho hai điểm A(3; 1; −3) và B(0; −2; 1). Tọa độ trung điểm của đoạn thẳng AB là",
+      "options": [
+        "A. M(1; 2; −1);",
+        "B. \\(N\\left( {\\frac{3}{2}; - \\frac{1}{2}; - 1} \\right)\\);",
+        "C. \\(P\\left( {\\frac{3}{2};\\frac{1}{2};1} \\right)\\);",
+        "D. K(3; −1; −2)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Tọa độ trung điểm của đoạn thẳng AB là \\(\\left( {\\frac{{3 + 0}}{2};\\frac{{1 - 2}}{2};\\frac{{ - 3 + 1}}{2}} \\right) = \\left( {\\frac{3}{2}; - \\frac{1}{2}; - 1} \\right)\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trong không gian với hệ trục tọa độ Oxyz, cho hai vectơ \\(\\overrightarrow a = \\left( {4; - 3; - 1} \\right)\\) và \\(\\overrightarrow b = \\overrightarrow i + 2\\overrightarrow j + \\overrightarrow k \\). Tìm tọa độ của \\(2\\overrightarrow a + 3\\overrightarrow b \\).",
+      "options": [
+        "A. (11; 0; 1);",
+        "B. (5; −1; 0);",
+        "C. (11; 0; −1);",
+        "D. (5; −1; −1)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có \\(2\\overrightarrow a = \\left( {8; - 6; - 2} \\right)\\) và \\(\\overrightarrow b = \\overrightarrow i + 2\\overrightarrow j + \\overrightarrow k \\)\\( \\Rightarrow \\overrightarrow b = \\left( {1;2;1} \\right) \\Rightarrow 3\\overrightarrow b = \\left( {3;6;3} \\right)\\). Do đó \\(2\\overrightarrow a + 3\\overrightarrow b = \\left( {8 + 3; - 6 + 6; - 2 + 3} \\right) = \\left( {11;0;1} \\right)\\)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Trong không gian Oxyz, cho vectơ \\(\\overrightarrow a = \\left( { - 2;6;2} \\right)\\), vectơ \\(\\frac{3}{2}\\overrightarrow a \\) có tọa độ là",
+      "options": [
+        "A. (−6; 9; 6);",
+        "B. (−3; 9; 3);",
+        "C. (6; 9; 6);",
+        "D. (−3; 6; 3)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có \\(\\frac{3}{2}\\overrightarrow a = \\left( { - 3;9;3} \\right)\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Trong không gian Oxyz, cho điểm A(2; −3; 5). Tìm tọa độ A' là điểm đối xứng với A qua trục Oy.",
+      "options": [
+        "A. A'(2; 3; 5);",
+        "B. A'(2; −3; −5);",
+        "C. A'(−2; −3; 5);",
+        "D. A'(−2; −3; −5)."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải: Đáp án đúng là: D Gọi H là hình chiếu vuông góc của A(2; −3; 5) lên Oy. Suy ra H(0; −3; 0). Vì A' đối xứng với A qua trục Oy nên H là trung điểm đoạn AA'. Suy ra \\(\\left\\{ \\begin{array}{l}{x_{A'}} = 2{x_H} - {x_A} = - 2\\\\{y_{A'}} = 2{y_H} - {y_A} = - 3\\\\{z_{A'}} = 2{z_H} - {z_A} = - 5\\end{array} \\right.\\) Þ A'(−2; −3; −5)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong không gian Oxyz, cho hai điểm A(1; 3; 2) và B(3; −1; 4). Tọa độ vectơ \\(\\overrightarrow u = 2\\overrightarrow {BA} - \\overrightarrow {OB} \\) là",
+      "options": [
+        "A. \\(\\overrightarrow u = \\left( { - 7;7; - 8} \\right)\\) ;",
+        "B. \\(\\overrightarrow u = \\left( { - 7;3; - 8} \\right)\\) ;",
+        "C. \\(\\overrightarrow u = \\left( { - 7;5; - 8} \\right)\\) ;",
+        "D. \\(\\overrightarrow u = \\left( { - 7;9; - 8} \\right)\\) ."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải: Đáp án đúng là: D Ta có \\(\\overrightarrow {BA} = \\left( { - 2;4; - 2} \\right)\\) và \\(\\overrightarrow {OB} = \\left( {3; - 1;4} \\right)\\) suy ra \\(2\\overrightarrow {BA} = \\left( { - 4;8; - 4} \\right)\\) . Vậy \\(\\overrightarrow u = 2\\overrightarrow {BA} - \\overrightarrow {OB} = \\left( { - 7;9; - 8} \\right)\\) ."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Trong không gian Oxyz, cho ba điểm E(1; 3; 2), F(0; −1; 5), K(2; 4; −1) và tam giác ABC thỏa mãn \\(\\overrightarrow {AE} + \\overrightarrow {BF} + \\overrightarrow {CK} = \\overrightarrow 0 \\) . Tọa độ trọng tâm G của tam giác ABC là",
+      "options": [
+        "A. G(1; 2; 2);",
+        "B. G(−1; −4; 3);",
+        "C. G(2; 2; 1);",
+        "D. G(1; 1; −3)."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A Ta có \\(\\overrightarrow {AE} + \\overrightarrow {BF} + \\overrightarrow {CK} = \\overrightarrow 0 \\)\\( \\Leftrightarrow \\overrightarrow {GE} - \\overrightarrow {GA} + \\overrightarrow {GF} - \\overrightarrow {GB} + \\overrightarrow {GK} - \\overrightarrow {GC} = \\overrightarrow 0 \\) \\( \\Leftrightarrow \\overrightarrow {GE} + \\overrightarrow {GF} + \\overrightarrow {GK} - \\left( {\\overrightarrow {GA} + \\overrightarrow {GB} + \\overrightarrow {GC} } \\right) = \\overrightarrow 0 \\)\\( \\Leftrightarrow \\overrightarrow {GE} + \\overrightarrow {GF} + \\overrightarrow {GK} = \\overrightarrow 0 \\) . Suy ra G cũng là trọng tâm của tam giác EFK. Do đó \\(\\left\\{ \\begin{array}{l}{x_G} = \\frac{{1 + 0 + 2}}{3} = 1\\\\{y_G} = \\frac{{3 - 1 + 4}}{3} = 2\\\\{z_G} = \\frac{{2 + 5 - 1}}{3} = 2\\end{array} \\right.\\) . Vậy G(1; 2; 2)."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Trong không gian Oxyz, cho hình bình hành MNPQ có M(−4; 3; 3), N(4; −4; 2) và P(3; 6; −1). Biết chu vi của hình bình hành MNPQ bằng \\(\\sqrt a + \\sqrt b \\) với a, b ∈ ℕ* và a > b. Tính a – b.",
+      "options": [
+        "A. 4;",
+        "B. 8;",
+        "C. 16;",
+        "D. 32."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải: Đáp án đúng là: C Ta có \\(\\overrightarrow {MN} = \\left( {8; - 7; - 1} \\right)\\) và \\(\\overrightarrow {NP} = \\left( { - 1;10; - 3} \\right)\\) . Suy ra \\(MN = \\sqrt {{8^2} + {{\\left( { - 7} \\right)}^2} + {{\\left( { - 1} \\right)}^2}} = \\sqrt {114} \\) và \\(NP = \\sqrt {{{\\left( { - 1} \\right)}^2} + {{10}^2} + {{\\left( { - 3} \\right)}^2}} = \\sqrt {110} \\) . Chu vi của hình bình hành MNPQ là \\(2\\left( {MN + NP} \\right) = 2\\sqrt {114} + 2\\sqrt {110} = \\sqrt {456} + \\sqrt {440} \\) . Khi đó a = 456; b = 440. Vậy a – b = 16."
+    }
+  ]
+}

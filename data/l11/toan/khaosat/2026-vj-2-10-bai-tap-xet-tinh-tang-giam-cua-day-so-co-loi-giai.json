@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-10-bai-tap-xet-tinh-tang-giam-cua-day-so-co-loi-giai",
+  "sourceId": "vietjack:2-10-bai-tap-xet-tinh-tang-giam-cua-day-",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.10 Bài tập Xét tính tăng giảm của dãy số (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Dãy số (u n ) là dãy số tăng khi và chỉ khi",
+      "options": [
+        "A. u n + 1 > u n , ∀ n ∈ ℕ * ;",
+        "B. u n + 1 ³ u n , ∀ n ∈ ℕ * ;",
+        "C. u n + 1 < u n , ∀ n ∈ ℕ * ;",
+        "D. u n + 1 ≤ u n , ∀ n ∈ ℕ * ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Dãy số (u n ) được gọi là dãy số tăng nếu ta có u n + 1 > u n , ∀ n ∈ ℕ * ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho dãy số \\(\\left( {{u_n}} \\right):{u_n} = \\frac{1}{n}\\) . Chọn khẳng định đúng.",
+      "options": [
+        "A. u 7 = 7;",
+        "B. Tăng;",
+        "C. Giảm;",
+        "D. u 1­ = 3."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C +) \\({u_{n + 1}}--{\\rm{ }}{u_n} = \\frac{1}{{n + 1}} - \\frac{1}{n} = \\frac{{ - 1}}{{n\\left( {n + 1} \\right)}}\\) < 0 ∀ n ∈ ℕ * . ⟹ Dãy số có tính giảm ⟹ C đúng, B sai. +) u 1 = 1 ⟹ D sai. +) u 7 = \\(\\frac{1}{7}\\) ⟹ A sai."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho dãy số (u n ): u n = n!. Nhận xét nào sau đây về dãy số (u n ) là đúng?",
+      "options": [
+        "A. Dãy số có tính giảm;",
+        "B. u 2 = 3!;",
+        "C. u 10 = 20;",
+        "D. Dãy số có tính tăng."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Ta có: u n+1 – u n = (n + 1)! – n! = (n + 1 – 1). n! = n.n! > 0 ∀ n ∈ ℕ * . Do đó dãy số có tính tăng. ⟹ D đúng, A sai. u 2 = 2! ⟹ B sai. u 10 = 10! > 20 ⟹ C sai."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho dãy số \\[\\left( {{u_n}} \\right):{\\rm{ }}{u_n} = \\sqrt {2n + 5} \\] . Chọn đáp án đúng.",
+      "options": [
+        "A. u 3 = 2;",
+        "B. u 2 = \\(\\sqrt 2 \\) ;",
+        "C. Dãy số có tính giảm;",
+        "D. Dãy số có tính tăng."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Ta luôn có: u n > 0 ∀ n ∈ ℕ * . • \\[u_n^2 = {\\rm{ }}2n + 5\\] • \\[u_{n + 1}^2 = 2\\left( {n + 1} \\right) + 5 = 2n + 7 = u_n^2 + 2\\] Do đó \\[u_{n + 1}^2 > {\\rm{ }}u_n^2\\] . Ta luôn có: u n > 0 ∀ n ∈ ℕ * . Nên u n+1 > u n ⟹ Dãy có tính tăng ⟹ D đúng, C sai. • \\({u_3} = \\sqrt {2\\,.\\,3 + 5} = \\sqrt {11} \\) ⟹ A sai. • \\({u_2} = \\sqrt {2\\,.\\,2 + 5} = 3\\) ⟹ B sai."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Dãy số nào dưới đây là dãy tăng?",
+      "options": [
+        "A. u n = 2n + 1;",
+        "B. u n =5 – 4n;",
+        "C. u n = – n 2 + n;",
+        "D. u n = (–2) n ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A. • Xét dãy số: u n = 2n + 1 u n + 1 – u n = 2(n + 1) + 1 – (2n + 1) = 2 > 0 ∀ n ∈ ℕ * . ⟹ Dãy có tính tăng ⟹ A đúng. • Xét dãy số: u n = 5 – 4n u n + 1 – u n = 5 – 4(n + 1) – (5 – 4n) = – 4 < 0 ∀ n ∈ ℕ * . ⟹ Dãy có tính giảm ⟹ B sai. • Xét dãy số: u n = n 2 – n u n + 1 – u n = – (n + 1) 2 + (n + 1) – (– n 2 + n) = – 2n < 0 ∀ n ∈ ℕ * . ⟹ Dãy có tính giảm ⟹ C sai. • Xét dãy số: u n = (–2) n Có: u 1 = –2; u 2 = 4; u 3 = –8; … ⟹ Dãy không có tính tăng ⟹ D sai."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Chọn dãy số có tính giảm trong các dãy số sau?",
+      "options": [
+        "A. u n = n;",
+        "B. u n = 3 ;",
+        "C. \\({u_n} = \\frac{1}{{2n + 3}}\\) ;",
+        "D. \\({u_n} = \\sqrt n \\) ."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Nhận thấy \\(f\\left( n \\right) = \\frac{1}{{2n + 3}}\\) là hàm số nghịch biến trên ℕ * . Suy ra u n+1 < u n ∀ n ∈ ℕ * ⟹ Dãy số có tính giảm. ⟹ C đúng."
+    }
+  ]
+}

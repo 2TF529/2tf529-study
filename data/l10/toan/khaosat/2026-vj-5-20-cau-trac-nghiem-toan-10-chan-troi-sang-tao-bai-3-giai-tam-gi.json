@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-5-20-cau-trac-nghiem-toan-10-chan-troi-sang-tao-bai-3-giai-tam-gi",
+  "sourceId": "vietjack:5-20-cau-trac-nghiem-toan-10-chan-troi-s",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "5.20 câu Trắc nghiệm Toán 10 Chân trời sáng tạo Bài 3. Giải tam giác và ứng dụng thực tế (Đúng-sai, trả lời ngắn) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Khi giải tam giác \\(ABC\\) biết \\(\\,\\widehat A = 15^\\circ ,\\,\\,\\widehat B = 130^\\circ ,\\,c = 6.\\) Ta có kết quả là:",
+      "options": [
+        "A. \\(\\widehat C = 35^\\circ ;a \\approx 2,71;b \\approx 8,01\\).",
+        "B. \\(a \\approx 2,71;b \\approx 8,01\\).",
+        "C. \\(\\widehat C = 35^\\circ ;a = 2,71;b = 8\\).",
+        "D. \\(a = 2,71;b = 8\\)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A \\(\\,\\widehat A = 15^\\circ ,\\,\\,\\widehat B = 130^\\circ \\Rightarrow \\widehat C = 180^\\circ - \\widehat A - \\widehat B = 35^\\circ .\\)\\(\\frac{a}{{\\sin A}} = \\frac{b}{{\\sin B}} = \\frac{c}{{\\sin C}} = 2R \\Leftrightarrow \\frac{a}{{\\sin 15^\\circ }} = \\frac{b}{{\\sin 130^\\circ }} = \\frac{6}{{\\sin 35^\\circ }}\\) \\( \\Rightarrow a \\approx 2,71;b \\approx 8,01\\)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Một chiếc thuyền xuất phát từ cảng chạy ra biển theo một đường thẳng được 3 km thì rẽ sang phải theo hướng lệch với hướng ban đầu một góc \\(45^\\circ \\) và đi thẳng theo hướng đó thêm 6 km nữa thì dừng lại. Hỏi tại vị trí mới này, chiếc thuyền cách vị trí xuất phát ban đầu của nó bao nhiêu kilômét? ( Kết quả làm tròn đến chữ số hàng phần trăm ).",
+      "options": [
+        "A. \\(4,42\\,{\\rm{km}}.\\)",
+        "B. \\(19,54\\,{\\rm{km}}.\\)",
+        "C. \\(8,39\\,{\\rm{km}}\\).",
+        "D. \\(70,46\\,\\,{\\rm{km}}.\\)"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta mô hình hóa bài toán như hình vẽ trên. Khoảng cách từ vị trí mới đến vị trí ban đầu chính bằng độ dài đoạn AC . Áp dụng định lý côsin trong tam giác ABC , ta được \\(AC = \\sqrt {B{A^2} + B{C^2} - 2BA \\cdot BC \\cdot \\cos 135^\\circ } \\approx 8,39{\\rm{ km}}{\\rm{.}}\\)"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho tam giác \\[ABC\\] cân tại \\(A\\) biết \\(\\widehat A = 120^\\circ \\) và \\[AB = AC = a\\]. Lấy điểm\\[M\\] trên cạnh \\[BC\\] sao cho \\(BM = \\frac{2}{5}BC\\). Tính độ dài \\[AM\\].",
+      "options": [
+        "A. \\(AM = \\frac{{a\\sqrt 3 }}{3}\\).",
+        "B. \\(AM = \\frac{{11a}}{5}\\).",
+        "C. \\(AM = \\frac{{a\\sqrt 7 }}{5}\\).",
+        "D. \\(AM = \\frac{{a\\sqrt 6 }}{4}\\)."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Tam giác \\[ABC\\] cân tại \\(A\\) nên \\(\\widehat B = \\frac{{180^\\circ - \\widehat A}}{2} = \\frac{{180^\\circ - 120^\\circ }}{2} = 30^\\circ \\). Áp dụng định lí côsin trong\\(\\Delta ABC\\), ta có: \\[B{C^2} = A{B^2} + A{C^2} - 2AB \\cdot AC\\cos 120^\\circ \\]\\[ = {a^2} + {a^2} - 2a \\cdot a \\cdot \\left( { - \\frac{1}{2}} \\right) = 3{a^2}\\]. \\( \\Rightarrow BC = a\\sqrt 3 \\)\\( \\Rightarrow BM = \\frac{{2a\\sqrt 3 }}{5}\\). Áp dụng định lí côsin trong \\(\\Delta ABM\\), ta có: \\[A{M^2} = A{B^2} + B{M^2} - 2AB.BM.cos30^\\circ = {a^2} + {\\left( {\\frac{{2a\\sqrt 3 }}{5}} \\right)^2} - 2a \\cdot \\frac{{2a\\sqrt 3 }}{5} \\cdot \\frac{{\\sqrt 3 }}{2} = \\frac{{7{a^2}}}{{25}}\\]. \\[ \\Rightarrow AM = \\frac{{a\\sqrt 7 }}{5}\\]."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho tam giác \\[ABC\\] có \\[AC = 8\\,;\\,AB = 15\\,;\\,\\cos A = \\frac{4}{5}\\]. Độ dài đường cao \\[AH\\] bằng:",
+      "options": [
+        "A. \\[\\frac{{72}}{{\\sqrt {79} }}\\].",
+        "B. \\[\\frac{{72}}{{97}}\\].",
+        "C. \\[\\frac{{\\sqrt {72} }}{{97}}\\].",
+        "D. \\[\\frac{{72}}{{\\sqrt {97} }}\\]."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D + Theo định lí côsin ta có: \\[B{C^2} = A{B^2} + A{C^2} - 2AB.AC.\\cos A = 97\\]\\[ \\Rightarrow \\]\\[BC = \\sqrt {97} \\]. + \\[{S_{\\Delta ABC}} = \\frac{1}{2}AB \\cdot AC \\cdot \\sin A\\]. Ta có \\[{\\sin ^2}A = 1 - {\\cos ^2}A = \\frac{9}{{25}}\\]. Vì \\[\\sin A > 0\\]\\[ \\Rightarrow \\sin A = \\frac{3}{5}\\]. \\[ \\Rightarrow \\]\\[{S_{\\Delta ABC}} = \\frac{1}{2}AB \\cdot AC \\cdot \\sin A = 36\\]. Ta có \\[AH = \\frac{{2{S_{\\Delta ABC}}}}{{BC}} = \\frac{{72}}{{\\sqrt {97} }}\\]. Vậy \\[AH = \\frac{{72}}{{\\sqrt {97} }}\\]."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho tam giác \\[ABC\\] có \\[BC = a = 109\\], \\[\\widehat B = 33^\\circ 24'\\], \\[\\widehat C = 66^\\circ 59'\\]. Chu vi tam giác \\[ABC\\] gần bằng số nào sau đây?",
+      "options": [
+        "A. \\[136\\].",
+        "B. \\[227\\].",
+        "C. \\[272\\].",
+        "D. \\[372\\]."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có \\[\\widehat B = 33^\\circ 24' = 33,4^\\circ \\]; \\[\\widehat C = 66^\\circ 59' \\approx 66,98^\\circ \\]\\[ \\Rightarrow \\]\\[\\widehat A \\approx 79,62^\\circ \\]. Áp dụng định lý sin ta có \\[\\frac{a}{{\\sin A}} = \\frac{b}{{\\sin B}} \\Rightarrow b = \\frac{{a \\cdot \\sin B}}{{\\sin A}} \\approx 61\\]. Tương tự ta có \\[\\frac{a}{{\\sin A}} = \\frac{c}{{\\sin C}} \\Rightarrow c = \\frac{{a \\cdot \\sin C}}{{\\sin A}} \\approx 102\\]. Chu vi tam giác \\[ABC\\] là: \\[2p = a + b + c \\approx 109 + 61 + 102 = 272\\]."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Tam giác \\[ABC\\] có \\(\\cos \\left( {A + B} \\right) = - \\frac{1}{5}\\), \\[AC = 6\\], \\[BC = 5\\]. Tính độ dài cạnh \\[AB\\].",
+      "options": [
+        "A. \\(\\sqrt {73} \\).",
+        "B. \\[8\\].",
+        "C. \\(\\sqrt {55} \\).",
+        "D. \\[7\\]."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Vì trong tam giác \\(ABC\\) ta có \\(A + B\\) bù với góc \\(C\\) nên \\(\\cos \\left( {A + B} \\right) = - \\frac{1}{5} \\Rightarrow \\cos C = \\frac{1}{5}\\). Khi đó, \\(AB = \\sqrt {A{C^2} + B{C^2} - 2AC \\cdot BC \\cdot \\cos C} = \\sqrt {{6^2} + {5^2} - 2 \\cdot 6 \\cdot 5 \\cdot \\frac{1}{5}} = 7\\)."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Tam giác \\[ABC\\] có \\[BC = 12\\], \\[CA = 9\\], \\[AB = 6\\]. Trên cạnh \\[BC\\] lấy điểm \\[M\\] sao cho \\[BM = 8\\]. Tính độ dài đoạn thẳng \\[AM\\].",
+      "options": [
+        "A. \\(\\sqrt {94} \\).",
+        "B. \\[\\sqrt {106} \\].",
+        "C. \\(\\sqrt {166} \\).",
+        "D. \\[\\sqrt {34} \\]."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Ta có \\(\\cos B = \\frac{{A{B^2} + B{C^2} - A{C^2}}}{{2 \\cdot AB \\cdot BC}} = \\frac{{{6^2} + {{12}^2} - {9^2}}}{{2 \\cdot 6 \\cdot 12}} = \\frac{{11}}{{16}}\\). Khi đó, \\[AM = \\sqrt {A{B^2} + B{M^2} - 2AB \\cdot BM \\cdot \\cos B} = \\sqrt {{6^2} + {8^2} - 2 \\cdot 6 \\cdot 8 \\cdot \\frac{{11}}{{16}}} = \\sqrt {34} \\]."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Khoảng cách từ \\(A\\) đến \\(B\\) không thể đo trực tiếp được vì phải qua một đầm lầy. Người ta xác định được một điểm \\(C\\) mà từ đó có thể nhìn được \\(A\\) và \\(B\\) dưới một góc \\(78^\\circ 24'\\). Biết \\(CA = 250\\,{\\rm{m}},CB = 120\\,{\\rm{m}}\\). Khoảng cách \\(AB\\) gần nhất với giá trị nào dưới đây?",
+      "options": [
+        "A. \\(266\\,\\,{\\rm{m}}.\\)",
+        "B. \\(255\\,\\,{\\rm{m}}.\\)",
+        "C. \\(166\\,\\,{\\rm{m}}.\\)",
+        "D. \\(298\\,{\\rm{m}}.\\)"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Theo bài ra ta có, \\(\\widehat {ACB} = 78^\\circ 24'\\). Áp dụng định lí côsin trong tam giác ABC , ta có: \\(A{B^2} = C{A^2} + C{B^2} - 2CB \\cdot CA \\cdot \\cos C = {250^2} + {120^2} - 2 \\cdot 250 \\cdot 120 \\cdot \\cos 78^\\circ 24' \\approx 64835.\\) Suy ra \\(AB \\approx 255\\) (m)."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-12-ket-noi-tri-thuc-tim-hieu-thiet-b",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-12-ket-noi-",
+  "grade": "l12",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 12 Kết nối tri thức Tìm hiểu thiết bị mạng có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Câu 1: Thuật ngữ \"server\" trong mạng máy tính có nghĩa là gì?",
+      "options": [
+        "A. Máy tính yêu cầu dịch vụ từ máy chủ.",
+        "B. Máy tính cung cấp dịch vụ cho các máy khác.",
+        "C. Thiết bị kết nối không dây.",
+        "D. Bộ lặp tín hiệu."
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Server (máy chủ) là máy tính cung cấp dịch vụ cho các máy khác, gọi là máy khách (client)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Đặc điểm nào không phải của một máy chủ?",
+      "options": [
+        "A. Cung cấp dịch vụ mạng.",
+        "B. Nằm trong một mạng với cấu hình cao và tin cậy.",
+        "C. Yêu cầu dịch vụ từ máy khách.",
+        "D. Có khả năng mở rộng để đáp ứng nhiều yêu cầu."
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Máy chủ cung cấp dịch vụ cho máy khách, không yêu cầu dịch vụ từ máy khách."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Để cung cấp kết nối không dây trong một gia đình, thiết bị nào là cần thiết nhất?",
+      "options": [
+        "A. Hub",
+        "B. Switch",
+        "C. Router",
+        "D. Repeater"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Router Wi-Fi cung cấp kết nối không dây cho các thiết bị trong gia đình."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Sự khác biệt chính giữa hub và switch là gì?",
+      "options": [
+        "A. Hub kết nối tạm thời giữa các máy tính, còn switch truyền tín hiệu đồng thời.",
+        "B. Hub chia tín hiệu cho tất cả các cổng, còn switch kết nối tạm thời giữa hai cổng.",
+        "C. Switch không cần số cổng nhiều như hub.",
+        "D. Hub có tốc độ truyền dữ liệu nhanh hơn switch."
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Hub chia tín hiệu đến tất cả các cổng, trong khi switch kết nối tạm thời giữa hai cổng, cải thiện hiệu quả truyền dữ liệu."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Router trong một mạng lớn có thể có bao nhiêu cổng WAN?",
+      "options": [
+        "A. 1 cổng",
+        "B. 2 cổng",
+        "C. Nhiều cổng",
+        "D. Không có cổng WAN"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Router trong các mạng lớn có thể có nhiều cổng WAN để tăng băng thông và kết nối dự phòng."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Để mở rộng phạm vi mạng cục bộ, thiết bị nào là phù hợp?",
+      "options": [
+        "A. Router",
+        "B. Repeater",
+        "C. Switch",
+        "D. Hub"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Repeater giúp mở rộng phạm vi mạng bằng cách sửa và phát lại tín hiệu."
+    }
+  ]
+}

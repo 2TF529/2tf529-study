@@ -1,0 +1,65 @@
+{
+  "id": "2026-vj-4-12-bai-tap-ap-dung-giai-tam-giac-vao-cac-bai-toan-thuc-te-co-lo",
+  "sourceId": "vietjack:4-12-bai-tap-ap-dung-giai-tam-giac-vao-c",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "4.12 Bài tập Áp dụng giải tam giác vào các bài toán thực tế (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 3: Khoảng cách từ A đến B không thể đo trực tiếp vì phải qua một đầm lầy nên người ta làm như sau: Xác định một điểm C sao cho ta đo được AC = 15 m, BC = 21 m và \\[\\widehat {ACB} = 80^\\circ \\] . Khoảng cách AB gần nhất với kết quả nào dưới đây?",
+      "options": [
+        "A. 20 m;",
+        "B. 24 m;",
+        "C. 30 m;",
+        "D. 34 m."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải: Đáp án đúng là: B. Ta mô phỏng bài toán như hình vẽ sau: Theo định lí côsin ta có: \\(A{B^2} = B{C^2} + A{C^2} - 2.BC.AC.\\cos C\\) . Thay số: \\(A{B^2} = {21^2} + {15^2} - 2.21.15.\\cos 80^\\circ \\)≈ 556,6 Suy ra: AB ≈ \\(\\sqrt {556,6} \\) ≈ 23,6 (m). Vậy khoảng cách AB là khoảng 23,6 m và gần nhất với kết quả 24 m."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 4: Để xác định chiều cao của một tòa tháp mà không cần lên đỉnh của tòa nhà người ta làm như sau: đặt giác kế thẳng đứng cách chân tháp một khoảng AB = 55 m, chiều cao của giác kế là OA = 2 m. Quay thanh giác kế sao cho khi ngắm theo thanh ta nhìn thấy đỉnh C của tháp. Đọc trên giác kế số đo góc \\(\\widehat {COD} = 60^\\circ \\). Chiều cao của ngọn tháo gần nhất với giá trị nào sau đây?",
+      "options": [
+        "A. 87 m;",
+        "B. 90 m;",
+        "C. 97 m;",
+        "D. 100 m."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải: Đáp án đúng là: C. Xét tam giác OCD vuông tại D có OD = AB = 55 (m); \\(\\widehat {COD} = 60^\\circ \\) Nên CD = OD. tan\\(\\widehat {COD}\\) = 55\\(\\sqrt 3 \\)≈ 95,26 (m). Vậy chiều cao của tháp là: 95,26 + 2 = 97,26 (m)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 5: Từ hai điểm A và B của một tòa nhà, người ta quan sát điểm pháo hoa nổ. Biết rằng AB = 120 m, phương nhìn AC tạo với phương ngang một góc 45°, phương nhìn BC tạo với phương ngang góc 15°30'. Hỏi điểm pháo hoa nổ cao so với mặt đất gần với giá trị nào sau đây?",
+      "options": [
+        "A. 166 m;",
+        "B. 266 m;",
+        "C. 250 m;",
+        "D. 300 m."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A. Ta có: \\(\\widehat {BAC} = \\widehat {BAH} - \\widehat {CAH} = 90^\\circ - 45^\\circ = 45^\\circ \\). Lại có: \\(\\widehat {ABC} = 90^\\circ + 15^\\circ 30' = 105^\\circ 30'\\). Trong tam giác ABC có: \\(\\widehat {BCA} = 180^\\circ - \\left( {\\widehat {BAC} + \\widehat {ABC}} \\right) = 29^\\circ 30'\\). Áp dụng định lí sin vào ∆ABC ta có: \\(\\frac{{AC}}{{\\sin \\widehat {ABC}}} = \\frac{{AB}}{{\\sin \\widehat {BCA}}}\\)\\( \\Rightarrow \\) AC = \\(\\sin \\widehat {ABC}.\\frac{{AB}}{{\\sin \\widehat {BCA}}}\\) ≈ 234,83 (m). Trong tam giác vuông AHC có: \\(\\frac{{CH}}{{AC}} = \\sin 45^\\circ \\)\\( \\Rightarrow \\) CH = AC. sin 45° ≈ 166,05. Vậy điểm pháo hoa nổ cao so với mặt đất khoảng 166,05 m."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 6: Hai chiếc tàu thủy M và N cách nhau 500 m. Từ M và N thẳng hàng với chân A của tháp hải đăng AB ở trên bờ biển, người ta thấy chiều cao AB của tháp dưới một góc \\(\\widehat {AMB} = 30^\\circ \\); \\(\\widehat {ANB} = 45^\\circ \\). Tính chiều cao AB của tháp.",
+      "options": [
+        "A. 638 m;",
+        "B. 368 m;",
+        "C. 386 m;",
+        "D. 683 m."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải: Đáp án đúng là: D. Ta có: \\(\\widehat {MNB} = 180^\\circ - \\widehat {BNA} = 135^\\circ \\)\\( \\Rightarrow \\widehat {MBN} = 180^\\circ - \\widehat {BNM} - \\widehat {BMN} = 15^\\circ \\) Áp dụng định lí sin vào tam giác BMN ta có: \\(\\frac{{MN}}{{\\sin \\widehat {MBN}}} = \\frac{{BN}}{{\\sin \\widehat {BMN}}}\\)\\( \\Rightarrow BN = \\sin \\widehat {BMN}.\\frac{{MN}}{{\\sin \\widehat {MBN}}}\\) ≈ 965,92 (m) Xét tam giác BNA vuông tại A có: AB = BN. sin \\(\\widehat {BNA}\\) ≈ 683 (m)."
+    }
+  ]
+}

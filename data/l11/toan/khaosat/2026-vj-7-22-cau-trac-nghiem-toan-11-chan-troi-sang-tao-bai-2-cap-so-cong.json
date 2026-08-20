@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-7-22-cau-trac-nghiem-toan-11-chan-troi-sang-tao-bai-2-cap-so-cong",
+  "sourceId": "vietjack:7-22-cau-trac-nghiem-toan-11-chan-troi-s",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "7.22 câu trắc nghiệm Toán 11 Chân trời sáng tạo Bài 2. Cấp số cộng (Đúng sai - Trả lời ngắn) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: TRẮC NGHIỆM NHIỀU LỰA CHỌN Dãy số nào sau đây là một cấp số cộng?",
+      "options": [
+        "A. \\(\\left( {{u_n}} \\right):\\left\\{ {\\begin{array}{*{20}{c}}{{u_1} = 1}\\\\{{u_{n + 1}} = {u_n} + 2,\\,\\,\\forall n \\ge 1}\\end{array}} \\right.\\) .",
+        "B. \\(\\left( {{u_n}} \\right):\\left\\{ {\\begin{array}{*{20}{c}}{{u_1} = 3}\\\\{{u_{n + 1}} = 2{u_n} + 1,\\,\\,\\forall n \\ge 1}\\end{array}} \\right.\\) .",
+        "C. \\(\\left( {{u_n}} \\right):\\,\\)\\(1\\) ; \\(3\\) ; \\(6\\) ; \\(10\\) ; \\(15\\) ; \\( \\ldots \\) .",
+        "D. \\(\\left( {{u_n}} \\right):\\,\\)\\( - 1\\) ; \\(1\\) ; \\( - 1\\) ; \\(1\\) ; \\( - 1\\) ; \\( \\ldots \\) ."
+      ],
+      "answer": "A",
+      "note": "A Dãy số ở đáp án A thỏa \\({u_{n + 1}} - {u_n} = 2\\) với mọi \\(n \\ge 1\\) nên là cấp số cộng."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Trong các dãy số sau, dãy số nào không phải là cấp số cộng?",
+      "options": [
+        "A. \\({u_n} = 2n + 5\\) .",
+        "B. \\(49\\) , \\(43\\) , \\(37\\) , \\(31\\) , \\(25\\) .",
+        "C. \\({u_n} = 1 + {3^n}\\) .",
+        "D. \\({u_n} = {\\left( {n + 3} \\right)^2} - {n^2}\\) ."
+      ],
+      "answer": "C",
+      "note": "C Xét dãy số \\({u_n} = 1 + {3^n}\\), suy ra \\({u_{n + 1}} = 1 + {3^{n + 1}}\\). Ta có \\({u_{n + 1}} - {u_n} = {2.3^n},\\,\\forall n \\in {\\mathbb{N}^*}\\). Do đó \\({u_n} = 1 + {3^n}\\) không phải là cấp số cộng."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho cấp số cộng \\(\\left( {{u_n}} \\right)\\) với \\({u_1} = 9\\) và công sai \\(d = 2\\) . Giá trị của \\({u_2}\\) bằng",
+      "options": [
+        "A. \\(11\\) .",
+        "B. \\(\\frac{9}{2}\\) .",
+        "C. \\(18\\) .",
+        "D. \\(7\\) ."
+      ],
+      "answer": "A",
+      "note": "A Ta có: \\({u_2} = {u_1} + d = 9 + 2 = 11\\)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho một cấp số cộng \\[\\left( {{u_n}} \\right)\\] có \\({u_1} = \\frac{1}{3}\\) , \\({u_8} = 26.\\) Tìm công sai \\(d\\)",
+      "options": [
+        "A. \\(d = \\frac{{11}}{3}\\) .",
+        "B. \\(d = \\frac{{10}}{3}\\) .",
+        "C. \\(d = \\frac{3}{{10}}\\) .",
+        "D. \\(d = \\frac{3}{{11}}\\) ."
+      ],
+      "answer": "A",
+      "note": "A \\({u_8} = {u_1} + 7d\\)\\( \\Leftrightarrow 26\\, = \\frac{1}{3} + 7d\\)\\( \\Leftrightarrow d = \\frac{{11}}{3}\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho cấp số cộng \\[\\left( {{u_n}} \\right)\\] có số hạng tổng quát là \\[{u_n} = 3n - 2\\] . Tìm công sai \\[d\\] của cấp số cộng.",
+      "options": [
+        "A. \\[d = 3\\] .",
+        "B. \\[d = 2\\] .",
+        "C. \\[d = - 2\\] .",
+        "D. \\[d = - 3\\] ."
+      ],
+      "answer": "A",
+      "note": "A Ta có \\[{u_{n + 1}} - {u_n} = 3\\left( {n + 1} \\right) - 2 - 3n + 2 = 3\\]. Suy ra \\[d = 3\\] là công sai của cấp số cộng."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho dãy số vô hạn \\(\\left\\{ {{u_n}} \\right\\}\\) là cấp số cộng có công sai \\(d\\) , số hạng đầu \\({u_1}\\) . Hãy chọn khẳng định sai ?",
+      "options": [
+        "A. \\({u_5} = \\frac{{{u_1} + {u_9}}}{2}\\) .",
+        "B. \\({u_n} = {u_{n - 1}} + d\\) , \\(n \\ge 2\\) .",
+        "C. \\({S_{12}} = \\frac{n}{2}\\left( {2{u_1} + 11d} \\right)\\) .",
+        "D. \\({u_n} = {u_1} + (n - 1).d\\) , \\(\\forall n \\in {\\mathbb{N}^*}\\) ."
+      ],
+      "answer": "C",
+      "note": "C Ta có công thức tổng \\(n\\) số hạng đầu tiên của cấp số cộng là: \\({S_n} = n{u_1} + \\frac{{n\\left( {n - 1} \\right)d}}{2}\\) Suy ra \\({S_{12}} = 12{u_1} + \\frac{{12.11.d}}{2}\\)\\( = 6\\left( {2{u_1} + 11d} \\right)\\)\\( \\ne \\frac{n}{2}\\left( {2{u_1} + 11d} \\right)\\)."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Cho cấp số cộng \\(\\left( {{u_n}} \\right)\\) có \\({u_5} = - 15\\) , \\({u_{20}} = 60\\) . Tổng của \\(10\\) số hạng đầu tiên của cấp số cộng này là:",
+      "options": [
+        "A. \\({S_{10}} = - 125\\) .",
+        "B. \\({S_{10}} = - 250\\) .",
+        "C. \\({S_{10}} = 200\\) .",
+        "D. \\({S_{10}} = - 200\\) ."
+      ],
+      "answer": "A",
+      "note": "A Gọi \\({u_1}\\), \\(d\\) lần lượt là số hạng đầu và công sai của cấp số cộng. Ta có: \\(\\left\\{ \\begin{array}{l}{u_5} = - 15\\\\{u_{20}} = 60\\end{array} \\right.\\)\\( \\Leftrightarrow \\)\\(\\left\\{ \\begin{array}{l}{u_1} + 4d = - 15\\\\{u_1} + 19d = 60\\end{array} \\right.\\)\\( \\Leftrightarrow \\)\\(\\left\\{ \\begin{array}{l}{u_1} = - 35\\\\d = 5\\end{array} \\right.\\). Vậy \\({S_{10}} = \\frac{{10}}{2}.\\left( {2{u_1} + 9d} \\right)\\)\\( = 5.\\left[ {2.\\left( { - 35} \\right) + 9.5} \\right]\\)\\( = - 125\\)."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho cấp số cộng \\(\\left( {{u_n}} \\right)\\) có \\({u_1} = - 2\\) và công sai \\(d = 3\\) . Tìm số hạng \\({u_{10}}\\) .",
+      "options": [
+        "A. \\({u_{10}} = - {2.3^9}\\) .",
+        "B. \\({u_{10}} = 25\\) .",
+        "C. \\({u_{10}} = 28\\) .",
+        "D. \\({u_{10}} = - 29\\) ."
+      ],
+      "answer": "B",
+      "note": "B Ta có \\({u_{10}} = {u_1} + 9d\\)\\( = - 2 + 9.3 = 25\\)."
+    }
+  ]
+}

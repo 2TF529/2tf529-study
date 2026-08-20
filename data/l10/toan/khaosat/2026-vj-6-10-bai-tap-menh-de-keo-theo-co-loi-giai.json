@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-6-10-bai-tap-menh-de-keo-theo-co-loi-giai",
+  "sourceId": "vietjack:6-10-bai-tap-menh-de-keo-theo-co-loi-gia",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "6.10 Bài tập Mệnh đề kéo theo (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho hai mệnh đề P: “x là số chẵn” và Q: “x chia hết cho 2”. Phát biểu mệnh đề P kéo theo Q.",
+      "options": [
+        "A. Hoặc x là số chẵn hoặc x chia hết cho 2;",
+        "B. Nếu x là số chẵn thì x chia hết cho 2;",
+        "C. Nếu x chia hết cho 2 thì x là số chẵn;",
+        "D. x là số chẵn và x chia hết cho 2."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B. Vì mệnh đề kéo theo được phát biểu dưới dạng là “Nếu P thì Q”. Nên mệnh đề P kéo theo Q là “Nếu x là số chẵn thì x chia hết cho 2”."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho a, b là hai số tự nhiên. Mệnh đề kéo theo nào sau đây đúng?",
+      "options": [
+        "A. Nếu a, b là số lẻ thì a + b là số lẻ;",
+        "B. Nếu a, b là số chẵn thì a.b là số chẵn;",
+        "C. Nếu a chẵn, b lẻ thì a.b là số lẻ;",
+        "D. Nếu a lẻ, b chẵn thì a + b là số chẵn."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B. A. Giả sử a = 3, b = 5 đều là số lẻ. Ta có a + b = 3 + 5 = 8. Mà 8 là số chẵn nên mệnh đề ở câu A sai. B. Ta thấy nếu a, b là số chẵn thì a.b là số chẵn là đúng. Vì tích của hai số chẵn luôn là một số chẵn. C. Giả sử a = 6 là số chẵn, b = 1 là số lẻ. Ta có: a.b = 6.1 = 6. Mà 6 là số chẵn nên mệnh đề ở câu C sai. D. Giả sử a = 3 là số lẻ, b = 6 là số chẵn. Ta có: a + b = 3 + 6 = 9. Mà 9 là số lẻ nên mệnh đề câu D sai."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Mệnh đề nào sau đây đúng?",
+      "options": [
+        "A. ∀ x ∈ ℝ , x < 0 ⇒ x 2 < 0;",
+        "B. ∀ x ∈ ℝ , x > – 1 ⇒ x 2 > 0;",
+        "C. ∀ x ∈ ℝ , x > 0 ⇒ x 2 > x;",
+        "D. ∀ x ∈ ℝ , x < 0 ⇒ x 2 > 0."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D. A. Với x ∈ ℝ , x < 0; Giả sử x = – 2 ⇒ x 2 = (– 2) 2 = 4 > 0. Suy ra mệnh đề câu A sai. B. Với x ∈ ℝ , x > – 1; Giả sử x = 0 > – 1 ⇒ x 2 = 0 > 0 là sai. Do đó mệnh đề ở câu B sai. C. Với x ∈ ℝ , x > 0; Giả sử x = 1 ⇒ x 2 = 1 2 = 1. ⇒ x = x 2 . Do đó mệnh đề câu C sai. D. Ta thấy mệnh đề ở câu D đúng vì với mọi x < 0, ta luôn có x 2 > 0 (bình phương của một số âm luôn là một số dương). Ví dụ: x = – 2 ⇒ x 2 = (– 2) 2 = 4 > 0."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho các mệnh đề kéo theo dưới đây: (1) “Nếu tam giác ABC vuông tại A thì AB 2 + AC 2 = BC 2 ”. (2) “Nếu ABCD là hình thoi thì ABCD cũng là hình vuông”. (3) “Tam giác ABC đều thì tam giác ABC có AB = AC”. Có bao nhiêu mệnh đề đúng?",
+      "options": [
+        "A. 0;",
+        "B. 1;",
+        "C. 2;",
+        "D. 3;"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C. - Theo định lý Pythagore thì trong tam giác vuông, tổng các bình phương hai cạnh góc vuông bằng bình phương cạnh huyền. Áp dụng cho tam giác ABC vuông tại A, ta có: AB 2 + AC 2 = BC 2 . Do đó mệnh đề (1) đúng. - Ta có nếu ABCD là hình vuông thì ABCD cũng là hình thoi, nhưng ngược lại, một tứ giác là hình thoi thì nó chưa chắc đã là hình vuông. Do đó mệnh đề (2) sai. - Mệnh đề (3) đúng vì tam giác đều có ba cạnh bằng nhau. Vậy có hai mệnh đề đúng."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho ba mệnh đề như sau: A: “ABCD là hình chữ nhật”. B: “AB = CD”. C: “ABCD là hình bình hành”. Mệnh đề nào sau đây sai?",
+      "options": [
+        "A. “A ⇒ B”;",
+        "B. “A ⇒ C”;",
+        "C. “B ⇒ C”;",
+        "D. “C ⇒ B”;"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C. A. Ta có mệnh đề A ⇒ B được phát biểu như sau: “Nếu ABCD là hình chữ nhật thì AB = CD”. Vì hình chữ nhật có hai cạnh đối bằng nhau nên AB = CD. Do đó mệnh đề kéo theo ở câu A đúng. B. Ta có mệnh đề A ⇒ C được phát biểu như sau: “Nếu ABCD là hình chữ nhật thì ABCD là hình bình hành”. Do một tứ giác là hình chữ nhật thì nó cũng là hình bình hành nên mệnh đề kéo theo ở câu B đúng. C. Ta có mệnh đề B ⇒ C được phát biểu như sau: “Nếu AB = CD thì ABCD là hình bình hành”. Mệnh đề này sai do một tứ giác là hình bình hành khi và chỉ khi nó có hai cặp cạnh đối bằng nhau. Do đó chỉ có AB = CD thì chưa đủ để kết luận ABCD là hình bình hành. D. Ta có mệnh đề C ⇒ B được phát biểu như sau: “Nếu ABCD là hình bình hành thì AB = CD”. Vì hình bình hành có hai cặp cạnh đối bằng nhau, nên ABCD là hình bình hành thì AB = CD. Do đó mệnh đề kéo theo ở câu D đúng."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Mệnh đề nào dưới đây đúng?",
+      "options": [
+        "A. “Nếu ( – 3) > ( – 2) thì ( – 3) 2 > ( – 2) 2 ”;",
+        "B. “Nếu 3 là số lẻ thì 3 chia hết cho 2”;",
+        "C. “Nếu 15 chia hết cho 9 thì 18 chia hết cho 3”;",
+        "D. “Nếu 3 chia hết cho 1 và chính nó thì 3 là số nguyên tố”."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D. A. Ta thấy mệnh đề “( – 3) > ( – 2)” sai do ( – 3) < ( – 2). Theo lý thuyết ta có “Để xét tính đúng sai của mệnh đề P ⇒ Q, ta chỉ cần xét trường hợp P đúng” nên nếu mệnh đề P sai thì ta xem mệnh đề đó sai và ta không cần xét mệnh đề Q nữa. Do đó mệnh đề ở câu A sai. B. Với mệnh đề kéo theo ở câu B ta có: Mệnh đề “3 là số lẻ” là đúng, tuy nhiên mệnh đề “3 chia hết cho 2” sai. Theo lý thuyết “Mệnh đề P ⇒ Q sai khi P đúng và Q sai” Nên mệnh đề ở câu B sai. C. Xét mệnh đề kéo theo ở câu C ta có: Mệnh đề “15 chia hết cho 9” là sai. Giải thích tương tự câu A, ta có mệnh đề câu C sai. D. Đặt P: “3 chia hết cho 1 và chính nó”, Q: “3 là số nguyên tố”. Ta thấy khi P đúng thì Q cũng đúng nên mệnh đề P ⇒ Q đúng."
+    }
+  ]
+}

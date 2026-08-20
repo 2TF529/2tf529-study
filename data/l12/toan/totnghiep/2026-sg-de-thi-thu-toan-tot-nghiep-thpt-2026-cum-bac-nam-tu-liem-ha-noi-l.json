@@ -1,0 +1,100 @@
+{
+  "id": "2026-sg-de-thi-thu-toan-tot-nghiep-thpt-2026-cum-bac-nam-tu-liem-ha-noi-l",
+  "sourceId": "sieugioi:de-thi-thu-toan-tot-nghiep-thpt-2026-cum",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "title": "Đề thi thử Toán tốt nghiệp THPT 2026 cụm Bắc – Nam Từ Liêm Hà Nội [Lời giải]",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho hình hộp \\(ABCD.{A}'{B}'{C}'{D}’\\) (xem hình dưới). Đường thẳng \\(BD\\) song song với mặt phẳng nào sau đây?",
+      "options": [
+        "A. \\(\\left( A{A}'{D}’D \\right)\\).",
+        "B. \\(\\left( C{C}'{A}’A \\right)\\).",
+        "C. \\(\\left( {A}'{B}'{C}'{D}’ \\right)\\).",
+        "D. \\(\\left( B{B}'{C}’C \\right)\\).\nLời giải\nTa có: \\(\\left\\{ \\begin{array}{l} BD \\not\\subset \\left( {A’B’C’D’} \\right)\\\\ BD{\\rm{//}}B’D’\\\\ B’D’ \\subset \\left( {A’B’C’D’} \\right) \\end{array} \\right. \\Rightarrow BD{\\rm{//}}\\left( {A’B’C’D’} \\right)\\)"
+      ],
+      "answer": "A",
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hàm số \\(y=f(x)\\) liên tục và có bảng biến thiên trên đoạn \\([-1;3]\\) như hình vẽ.\nTìm giá trị nhỏ nhất của hàm số trên đoạn \\([-1;3]\\).",
+      "options": [
+        "A. \\(0\\).",
+        "B. \\(2\\).",
+        "C. \\(1\\).",
+        "D. \\(-1\\).\nLời giải\nTừ BBT, ta có \\(\\underset{\\left[ -1;3 \\right]}{\\mathop{\\min }}\\,f(x)=0=f(-1)\\)"
+      ],
+      "answer": "A",
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "content": "Câu 3: Trong một Câu lạc bộ thể thao của trường X, thầy giáo có chuẩn bị các phiếu khảo sát về bộ môn thể thao yêu thích gồm Bóng đá và Cầu lông, để giao cho 40 bạn học sinh. Sau khi khảo sát, thầy giáo thu phiếu và nhận thấy rằng: Có 35 học sinh thích Bóng đá, có 30 học sinh thích Cầu lông, có 4 học sinh không thích môn thể thao nào. Chọn ngẫu nhiên 1 học sinh trong Câu lạc bộ thể thao. Gọi các biến cố:\nA: “Học sinh yêu thích môn Bóng đá”.\nB: “Học sinh yêu thích môn Cầu lông”.",
+      "statements": [
+        "a) \\(P(A)=\\frac{7}{8}.\\)",
+        "b) \\(P(A.B)=\\frac{29}{40}.\\)",
+        "c) A và B là xung khắc.",
+        "d) \\(P(A\\cup B)=\\frac{7}{10}.\\)\nLời giải\nĐáp số: a) Đúng; b) Đúng; c) Sai; d) Sai",
+        "a) ĐÚNG\n\\(P(A)=\\frac{35}{40}=\\frac{7}{8}.\\)",
+        "b) ĐÚNG\nSố học sinh yêu thích môn Bóng đá hoặc Cầu lông là: \\(40-4=36\\)\nTa có: \\(n(A\\cup B)=n(A)+n(B)-n(A\\cap B)\\)\n\\(n(A\\cap B)=n(A)+n(B)-n(A\\cup B)=35+30-36=29\\)\n\\(P(A\\cap B)=P(A.B)=\\frac{29}{40}.\\)",
+        "c) SAI\n\\(n(A\\cap B)=29\\) nên A và B không xung khắc.",
+        "d) SAI\n\\(P(A\\cup B)=\\frac{36}{40}=\\frac{9}{10}.\\)"
+      ],
+      "answer": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 4,
+      "type": "short_answer",
+      "content": "Câu 4: Một cửa hàng bán bưởi da xanh với giá bán mỗi quả là 50 000 đồng. Giá nhập vào mỗi quả là 30.000 đồng. Với giá bán này cửa hàng bán được 40 quả trong một ngày. Cửa hàng dự định giảm giá bán, ước tính cứ giảm mỗi 2000 đồng thì số bưởi da xanh bán được sẽ tăng thêm là 20 quả. Cửa hàng đó phải giảm bao nhiêu đồng để cửa hàng đó thu được lợi nhuận lớn nhất.\nLời giải\nĐáp số: \\(8000\\).\nGọi \\(x\\) (nghìn đồng) là số tiền cần giảm trên mỗi quả bưởi (\\(0<x<20\\)).\nGiá bán lúc này là: \\(50-x\\)(nghìn đồng).\nLợi nhuận trên mỗi quả: \\((50-x)-30=20-x\\) (nghìn đồng).\nSố lượng bán tăng thêm: \\(\\frac{x.20}{2}=10x\\) (quả).\nSố lượng bán được: \\(40+10x\\)(quả).\nHàm Lợi nhuận:\n\\(L(x)=(20-x)(40+10x)=-10{{x}^{2}}+160x+800\\).\n\\({L}'(x)=-20x+160\\).\n\\({L}'(x)=0\\Leftrightarrow x=8\\).\nĐối chiếu điều kiện ta có \\(x=8\\).\nLập bảng biến thiên của hàm số, ta thu được kết quả là \\(\\underset{\\left( 0;20 \\right)}{\\mathop{\\max }}\\,L\\left( x \\right)=L\\left( 8 \\right)=1440\\) (nghìn đồng).\nVậy cửa hàng cần phải giảm 8000 đồng mỗi quả để thu được lợi nhuận lớn nhất.",
+      "answer": "0",
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 5,
+      "type": "short_answer",
+      "content": "Câu 5: Lợi nhuận thu được \\(P\\) của một công ty khi dùng số tiền \\(s\\) để chi cho quảng cáo được cho bởi công thức \\(P=P\\left( s \\right)=-\\frac{1}{15}{{s}^{3}}+12{{s}^{2}}+300,\\,\\,s\\ge 0\\).\nỞ đây các số tiền được tính bằng đơn vị triệu đồng. Tìm số tiền mà công ty đó phải chi cho quảng cáo để mang lợi nhuận tối đa.\nLời giải\nĐáp số: \\(120\\).\nTa có: \\({P}’\\left( s \\right)=-\\frac{1}{5}{{s}^{2}}+24s\\)\n\\(P’\\left( s \\right) = 0\\) \\( \\Leftrightarrow – \\frac{1}{5}{s^2} + 24s = 0\\) \\( \\Leftrightarrow \\left[ \\begin{array}{l} s = 120\\\\ s = 0 \\end{array} \\right.\\)\nBảng biến thiên\nDựa vào bảng biến thiên, ta thấy số tiền mà công ty đó phải chi cho quảng cáo để mang lợi nhuận tối đa là \\(120\\) (triệu đồng).",
+      "answer": "0",
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 6,
+      "type": "short_answer",
+      "content": "Câu 6: Nghiệm dương nhỏ nhất của phương trình \\(\\sin \\left( x-\\frac{\\pi }{4} \\right)=1\\) là \\(a\\pi \\) với \\(a\\) là hằng số dương. Giá trị của \\(2a\\) là bao nhiêu?\nLời giải\nĐáp số: \\(1,5\\).\nTa có: \\(\\sin \\left( {x – \\frac{\\pi }{4}} \\right) = 1\\) \\( \\Leftrightarrow x – \\frac{\\pi }{4} = \\frac{\\pi }{2} + k2\\pi \\) \\( \\Leftrightarrow x = \\frac{{3\\pi }}{4} + k2\\pi ,\\,\\) \\(\\,k\\in \\mathbb{Z}\\).\nVới \\(k=-1\\) thì \\(x=-\\frac{5\\pi }{4}\\).\nVới \\(k=0\\) thì \\(x=\\frac{3\\pi }{4}\\).\nVới \\(k=1\\) thì \\(x=\\frac{11\\pi }{4}\\).\nTa suy ra nghiệm dương nhỏ nhất của phương trình là \\(x=\\frac{3\\pi }{4}\\).\nVậy \\(a=\\frac{3}{4}\\) nên \\(2a=2.\\frac{3}{4}=\\frac{3}{2}=1,5\\).",
+      "answer": "0",
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 7,
+      "type": "short_answer",
+      "content": "Câu 7: Trong không gian \\(Oxyz\\), cho \\(A\\left( -4;1;-5 \\right),\\,B\\left( 2;-4;7 \\right),\\,C\\left( 3;-2;9 \\right).\\) Điểm \\(D\\) là điểm thỏa mãn \\(ABCD\\)là hình bình hành. Tính độ dài \\(BD\\). ( Làm tròn kết quả đến hàng phần chục).\nLời giải\nĐáp số: \\(13,2\\)\nGiả sử \\(D\\left( x;y;z \\right)\\)\nVì \\(ABCD\\)là hình bình hành nên \\(\\overrightarrow {AB} = \\overrightarrow {DC} \\) \\( \\Leftrightarrow \\left\\{ \\begin{array}{l} 3 – x = 6\\\\ – 2 – y = – 5\\\\ 9 – z = 12 \\end{array} \\right.\\) \\( \\Leftrightarrow \\left\\{ \\begin{array}{l} x = – 3\\\\ y = 3\\\\ z = – 3 \\end{array} \\right.\\) \\( \\Rightarrow D\\left( { – 3;3; – 3} \\right)\\)\nKhi đó \\(\\overrightarrow {BD} = \\left( { – 5;7; – 10} \\right)\\) \\( \\Rightarrow \\left| {\\overrightarrow {BD} } \\right| = \\sqrt {{{\\left( { – 5} \\right)}^2} + {7^2} + {{\\left( { – 10} \\right)}^2}} \\) \\( = \\sqrt {174} \\approx 13,2\\).",
+      "answer": "0",
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 8,
+      "type": "short_answer",
+      "content": "Câu 8: Cho hình chóp tứ giác đều \\(S.ABCD\\) có đáy \\(ABCD\\)là hình vuông tâm \\(O\\), \\(AB=2,\\,\\,SO=\\sqrt{2}.\\) Tính khoảng cách từ điểm \\(A\\) đến mặt phẳng \\(\\left( SCD \\right)\\). (Làm tròn đến hai chữ số thập phân).\nLời giải\nFB tác giả: Cao Nguyet; GVPB: Nguyễn Thanh Việt\nĐáp số:\nKẻ \\(OI\\bot DC\\), \\(OH\\bot SI\\) khi đó \\(OI=\\frac{1}{2}AB=1\\).\nVì \\(S.ABCD\\) là hình chóp tứ giác đều nên \\(SO\\bot \\left( ABCD \\right)\\Rightarrow SO\\bot CD.\\)\nKhi đó \\(\\left\\{ \\begin{array}{l} DC \\bot OI\\\\ DC \\bot SO \\end{array} \\right.\\) \\( \\Rightarrow DC \\bot \\left( {SOI} \\right) \\supset OH\\) \\( \\Rightarrow DC \\bot OH\\)\nTa có \\(\\left\\{ \\begin{array}{l} OH \\bot SI\\\\ OH \\bot DC \\end{array} \\right.\\) \\( \\Rightarrow OH \\bot \\left( {SDC} \\right)\\) \\( \\Rightarrow d\\left( {O;\\left( {SDC} \\right)} \\right) = OH\\) \\( = \\frac{{SO.OI}}{{\\sqrt {S{O^2} + O{I^2}} }} = \\frac{{\\sqrt 2 }}{{\\sqrt 3 }} = \\frac{{\\sqrt 6 }}{3}\\).\nLại có \\(d\\left( {A;\\left( {SDC} \\right)} \\right) = 2d\\left( {O;\\left( {SDC} \\right)} \\right)\\) \\( = \\frac{{2\\sqrt 6 }}{3} \\approx 1,63.\\)\nView Fullscreen\nSkip to PDF content\n⬇ Tải Đề\n⬇ Tải Lời Giải",
+      "answer": "0",
+      "note": "Đáp án đối chiếu chuẩn"
+    }
+  ]
+}

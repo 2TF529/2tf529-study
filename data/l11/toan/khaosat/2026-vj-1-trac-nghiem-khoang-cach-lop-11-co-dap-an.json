@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-1-trac-nghiem-khoang-cach-lop-11-co-dap-an",
+  "sourceId": "vietjack:1-trac-nghiem-khoang-cach-lop-11-co-dap-",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.Trắc nghiệm Khoảng cách lớp 11 (có đáp án)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: TRẮC NGHIỆM NHIỀU LỰA CHỌN Cho hình chóp S.ABCD đáy là hình vuông ABCD cạnh a, cạnh bên SA vuông góc với mặt phẳng (ABCD) và SD = 2a. Tính khoảng cách từ S đến mặt phẳng (ABCD).",
+      "options": [
+        "A. \\(a\\sqrt 5 \\).",
+        "B. \\(\\frac{a}{2}\\).",
+        "C. 3a.",
+        "D. \\(a\\sqrt 3 \\)."
+      ],
+      "answer": "D",
+      "note": "D Vì D SAD vuông tại A, suy ra \\(SA = \\sqrt {S{D^2} - A{D^2}} = \\sqrt {{{\\left( {2a} \\right)}^2} - {a^2}} = a\\sqrt 3 \\) . Vì SA ^ (ABCD) nên d(S, (ABCD)) = SA \\( = a\\sqrt 3 \\) ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hình chóp S.ABC có đáy ABC là tam giác vuông tại B, SA ^ (ABC). Gọi H và K lần lượt là hình chiếu của A lên SB và SC. Mệnh đề nào sau đây sai?",
+      "options": [
+        "A. d(S, (ABC)) = SA.",
+        "B. d(C, (SAB)) = BC.",
+        "C. d(A, (SBC)) = AH.",
+        "D. d(A, (SBC)) = AK."
+      ],
+      "answer": "D",
+      "note": "D Vì SA ^ (ABC) nên d(S, (ABC)) = SA. Có CB ^ AB, CB ^ SA (do SA ^ (ABC)) Þ CB ^ (SAB) Þ d(C, (SAB)) = BC. Vì BC ^ (SAB) Þ BC ^ AH và AH ^ SB nên AH ^ (SBC). Do đó d(A, (SBC)) = AH."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho hình chóp S.ABCD có đáy ABCD là hình vuông tâm O, SA ^ (ABCD). Gọi I là trung điểm của SC. Khoảng cách từ I đến mặt phẳng (ABCD) bằng độ dài đoạn thẳng nào?",
+      "options": [
+        "A. IB.",
+        "B. IC.",
+        "C. IA.",
+        "D. IO."
+      ],
+      "answer": "D",
+      "note": "D Vì IO là đường trung bình của D SAC Þ IO // SA. Mà SA ^ (ABCD) nên IO ^ (ABCD) Þ d(I, (ABCD)) = IO."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hình lập phương ABCD.A'B'C'D' cạnh bằng a (tham khảo hình vẽ). Khoảng cách giữa hai đường thẳng BD và A'C' bằng",
+      "options": [
+        "A. a.",
+        "B. \\(\\sqrt 2 a\\).",
+        "C. \\(\\frac{{\\sqrt 3 }}{2}a\\).",
+        "D. \\(a\\sqrt 3 \\)."
+      ],
+      "answer": "A",
+      "note": "A Ta có \\[\\left\\{ \\begin{array}{l}\\left( {ABCD} \\right)//\\left( {A'B'C'D'} \\right)\\\\BD \\subset \\left( {ABCD} \\right)\\\\A'C' \\subset \\left( {A'B'C'D'} \\right)\\end{array} \\right.\\] Þ d(BD, A'C') = d((ABCD), (A'B'C'D')) = AA' = a."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho tứ diện đều \\(ABCD\\) có cạnh bằng \\(a\\) . Khoảng cách từ \\(A\\) đến mặt phẳng \\(\\left( {BCD} \\right)\\) bằng:",
+      "options": [
+        "A. \\(\\frac{{a\\sqrt 3 }}{4}\\) .",
+        "B. \\(\\frac{{a\\sqrt 3 }}{3}\\) .",
+        "C. \\(\\frac{{a\\sqrt 6 }}{3}\\) .",
+        "D. \\(\\frac{{a\\sqrt 6 }}{2}\\) ."
+      ],
+      "answer": "C",
+      "note": "C Gọi \\(G\\) là trọng tâm tam giác \\(BCD\\) . Ta có \\(AG \\bot \\left( {BCD} \\right)\\) tại \\(G\\) nên \\(d\\left( {A,\\left( {BCD} \\right)} \\right) = AG\\) . Xét tam giác \\(ABG\\) vuông tại \\(G\\) có \\(AG = \\sqrt {A{B^2} - B{G^2}} = \\sqrt {{a^2} - {{\\left( {\\frac{{a\\sqrt 3 }}{3}} \\right)}^2}} = \\frac{{a\\sqrt 6 }}{3}\\) ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho hình chóp \\(S.ABCD\\) có đáy \\(ABCD\\) là hình vuông cạnh \\(a\\) . Đường thẳng \\(SA\\) vuông góc với mặt phẳng \\(\\left( {ABCD} \\right)\\) và \\(SA = a\\) . Tính khoảng cách \\(d\\) giữa hai đường thẳng \\(SB\\) và \\(CD\\) .",
+      "options": [
+        "A. \\(d = 2a\\) .",
+        "B. \\(d = a\\sqrt 3 \\) .",
+        "C. \\(d = a\\sqrt 2 \\) .",
+        "D. \\(d = a\\) ."
+      ],
+      "answer": "D",
+      "note": "D Vì \\(CD\\,{\\rm{//}}\\,AB\\) nên \\(CD\\,{\\rm{//}}\\,\\left( {SAB} \\right)\\) . Do đó \\[d\\left( {CD\\,,SB} \\right) = d\\left( {CD,\\,\\left( {SAB} \\right)} \\right) = d\\left( {D\\,,\\,\\left( {SAB} \\right)} \\right) = DA = a\\] ."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Cho lăng trụ tam giác đều \\[ABC.A'B'C'\\] có \\[AB = a\\], \\[AA' = 2a\\]. Khoảng cách giữa \\(AB'\\) và \\[CC'\\] bằng",
+      "options": [
+        "A. \\(\\frac{{2a\\sqrt 5 }}{5}\\).",
+        "B. \\(a\\).",
+        "C. \\(a\\sqrt 3 \\).",
+        "D. \\(\\frac{{a\\sqrt 3 }}{2}\\)."
+      ],
+      "answer": "D",
+      "note": "D Gọi \\(I\\) là trung điểm của \\(AB\\) . Ta có: \\(CC'//BB'\\) nên \\(CC'//\\left( {ABB'A'} \\right)\\) . Vì \\(AB' \\subset \\left( {ABB'A'} \\right)\\) nên \\(d\\left( {CC',AB'} \\right) = d\\left( {CC',\\left( {ABB'A'} \\right)} \\right) = CI\\) . Do lăng trụ tam giác đều \\[ABC.A'B'C'\\] nên tam giác \\[ABC\\] đều cạnh \\[a\\] nên \\(CI = \\frac{{a\\sqrt 3 }}{2} \\cdot \\) Nên \\(d\\left( {CC',AB'} \\right) = CI = \\frac{{a\\sqrt 3 }}{2} \\cdot \\)"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho hình lập phương ABCD.A'B'C'D' cạnh a. Tính khoảng cách giữa hai đường thẳng BB', AD.",
+      "options": [
+        "A. \\(\\frac{{a\\sqrt 2 }}{2}\\).",
+        "B. \\(a\\sqrt 2 \\).",
+        "C. a.",
+        "D. \\(\\frac{{a\\sqrt 3 }}{3}\\)."
+      ],
+      "answer": "C",
+      "note": "C Ta có AB ^ BB' và AB ^ AD. Do đó d(BB', AD) = AB = a."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-1-20-cau-trac-nghiem-toan-12-canh-dieu-bai-3-duong-tiem-can-cua-d",
+  "sourceId": "vietjack:1-20-cau-trac-nghiem-toan-12-canh-dieu-b",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.20 câu Trắc nghiệm Toán 12 Cánh diều Bài 3. Đường tiệm cận của đồ thị hàm số có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: I. Nhận biết Cho hàm số y = f(x) có đồ thị như hình vẽ Đồ thị hàm số đã cho có tiệm cận đứng bằng",
+      "options": [
+        "A. x = 1.",
+        "B. x = −1.",
+        "C. x = 0.",
+        "D. y = −1."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Từ đồ thị hàm số ta thấy: hàm số đã cho có một tiệm cận đứng x = 1."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hàm số \\(y = \\frac{{x + 1}}{{x - 2}}\\). Khẳng định nào sau đây đúng?",
+      "options": [
+        "A. Đồ thị hàm số có hai đường tiệm cận.",
+        "B. Hàm số nghịch biến trên \\(\\mathbb{R}\\backslash \\left\\{ 2 \\right\\}\\).",
+        "C. Hàm số có một cực trị.",
+        "D. Giao điểm của đồ thị và trục tung là \\(\\left( { - 1\\,;\\,0} \\right)\\)"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A \\(\\mathop {\\lim }\\limits_{x \\to \\pm \\infty } y = 1\\) nên \\(y = 1\\) là tiệm cận ngang. \\(\\mathop {\\lim }\\limits_{x \\to {2^ + }} y = + \\infty ,\\,\\,\\,\\mathop {\\lim }\\limits_{x \\to {2^ - }} y = - \\infty \\) nên \\(x = 2\\) là tiệm cận đứng. Do đó đồ thị hàm số có hai đường tiệm cận."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho hàm số \\(y = \\frac{{2x + 1}}{{x - 2}}\\). Khẳng định nào dưới đây là đúng?",
+      "options": [
+        "A. Hàm số có cực trị.",
+        "B. Đồ thị hàm số có tiệm cận đứng là \\(x = 2\\).",
+        "C. Đồ thị hàm số đi qua điểm \\(A\\left( {1;3} \\right)\\).",
+        "D. Hàm số nghịch biến trên \\(\\left( { - \\infty ;2} \\right) \\cup \\left( {2; + \\infty } \\right)\\)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có \\(\\mathop {\\lim }\\limits_{x \\to {2^ + }} y = + \\infty ,\\,\\,\\,\\mathop {\\lim }\\limits_{x \\to {2^ - }} y = - \\infty \\) nên \\(x = 2\\) là tiệm cận đứng."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hàm số y = f(x) có đồ thị như hình vẽ Đồ thị hàm số đã cho có bao nhiêu đường tiệm cận?",
+      "options": [
+        "A. 4.",
+        "B. 2.",
+        "C. 1.",
+        "D. 3."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Từ đồ thị hàm số ta thấy: hàm số đã cho có một đường tiệm cận đứng và một tiệm cận xiên."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Đồ thị hàm số \\(y = \\frac{{2x - 1}}{{x + 3}}\\) có một đường tiệm cận ngang là",
+      "options": [
+        "A. \\(x = 3\\).",
+        "B. \\(y = 2\\).",
+        "C. \\(x = - 3\\).",
+        "D. \\(y = - 2\\)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có: \\(\\mathop {\\lim }\\limits_{x \\to + \\infty } \\frac{{2x - 1}}{{x + 3}} = 2;\\mathop {\\lim }\\limits_{x \\to - \\infty } \\frac{{2x - 1}}{{x + 3}} = 2\\) nên y = 2 là một đường tiệm cận ngang."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: II. Thông hiểu Đồ thị hàm số \\(y = \\frac{{2x - 1}}{{x - 3}}\\) có bao nhiêu đường tiệm cận?",
+      "options": [
+        "A. \\(0.\\)",
+        "B. \\(1.\\)",
+        "C. \\(2.\\)",
+        "D. \\(3.\\)"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có: \\(\\mathop {\\lim }\\limits_{x \\to + \\infty } \\frac{{2x - 1}}{{x - 3}} = 2;\\mathop {\\lim }\\limits_{x \\to - \\infty } \\frac{{2x - 1}}{{x - 3}} = 2\\) nên y = 2 là một đường tiệm cận ngang. \\(\\mathop {\\lim }\\limits_{x \\to {3^ + }} \\frac{{2x - 1}}{{x - 3}} = + \\infty ;\\mathop {\\lim }\\limits_{x \\to {3^ - }} \\frac{{2x - 1}}{{x - 3}} = - \\infty \\) nên x = 3 là một đường tiệm cận đứng. Vậy đồ thị hàm số có 2 đường tiệm cận."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Viết phương trình các đường tiệm cận của đồ thị hàm số \\(y = \\frac{{x + 3}}{{2 - x}}\\) ?",
+      "options": [
+        "A. \\(x = 2\\) và \\(y = - 1\\).",
+        "B. \\(x = - 1\\) và \\(y = 2\\).",
+        "C. \\(x = 2\\) và \\(y = \\frac{1}{2}\\).",
+        "D. \\(x = - 1\\) và \\(y = \\frac{1}{2}\\)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có \\(\\mathop {\\lim }\\limits_{x \\to \\pm \\infty } y = - 1\\) nên \\(y = - 1\\) là tiệm cận ngang. Và \\(\\mathop {\\lim }\\limits_{x \\to {2^ + }} y = - \\infty \\) ; \\(\\mathop {\\lim }\\limits_{x \\to {2^ - }} y = + \\infty \\) nên \\(x = 2\\) là tiệm cận đứng."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Đường thẳng y = −1 là tiệm cận của đồ thị hàm số nào dưới đây?",
+      "options": [
+        "A. \\(y = \\frac{{x + 3}}{{2 - x}}\\).",
+        "B. \\(y = \\frac{1}{{x + 1}}\\) .",
+        "C. \\(y = \\frac{{ - 2x + 1}}{{2 + x}}\\) .",
+        "D. \\(y = \\frac{{ - {x^2} + 3}}{{x - 1}}\\) ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Do \\(\\mathop {\\lim }\\limits_{x \\to \\pm \\infty } \\frac{{x + 3}}{{2 - x}} = \\mathop {\\lim }\\limits_{x \\to \\pm \\infty } \\frac{{1 + \\frac{3}{x}}}{{\\frac{2}{x} - 1}} = - 1\\) nên suy ra đồ thị hàm số \\(y = \\frac{{x + 3}}{{2 - x}}\\) nhận đường thẳng y = −1 là tiệm cận ngang."
+    }
+  ]
+}

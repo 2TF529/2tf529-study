@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-11-ket-noi-tri-thuc-bai-22-co-dap-an",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-11-ket-noi-",
+  "grade": "l11",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 11 Kết nối tri thức Bài 22 có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Khi nhập dữ liệu vào bảng bannhac, tại sao không cần nhập giá trị cho trường idBannhac?",
+      "options": [
+        "A. Vì trường idBannhac là trường khóa ngoại.",
+        "B. Vì trường idBannhac có kiểu dữ liệu AUTO_INCREMENT.",
+        "C. Vì trường idBannhac là trường không quan trọng.",
+        "D. Vì bảng bannhac không yêu cầu có trường idBannhac."
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Trường idBannhac có kiểu dữ liệu AUTO_INCREMENT, nên nó sẽ tự động tăng và không cần nhập thủ công."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Trường idNhacsi trong bảng bannhac được gọi là gì?",
+      "options": [
+        "A. Trường khóa chính.",
+        "B. Trường khóa ngoại.",
+        "C. Trường bình thường.",
+        "D. Trường không có tính năng gì đặc biệt."
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Trường idNhacsi là khóa ngoại, tham chiếu đến trường idNhacsi trong bảng nhacsi, đảm bảo tính toàn vẹn dữ liệu."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Khi nào người dùng không thể xóa dữ liệu trong bảng nhacsi?",
+      "options": [
+        "A. Khi trường idNhacsi còn được tham chiếu bởi bảng bannhac.",
+        "B. Khi trường idNhacsi chứa giá trị NULL.",
+        "C. Khi bảng bannhac không có dữ liệu.",
+        "D. Khi bảng nhacsi đã đầy."
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: MySQL sẽ ngăn chặn việc xóa dòng dữ liệu trong bảng nhacsi nếu giá trị của idNhacsi đang được tham chiếu ở bảng bannhac."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Để sửa dữ liệu trong bảng bannhac, người dùng cần làm gì?",
+      "options": [
+        "A. Xóa dữ liệu cũ và nhập lại dữ liệu mới.",
+        "B. Nháy đúp chuột vào ô dữ liệu cần sửa và nhập dữ liệu mới.",
+        "C. Sử dụng lệnh SQL để cập nhật dữ liệu.",
+        "D. Xóa bảng và tạo lại."
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Việc sửa dữ liệu trong bảng bannhac rất đơn giản, chỉ cần nháy đúp chuột vào ô dữ liệu muốn sửa và thay đổi thông tin"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Tại sao MySQL ngăn chặn việc xóa dòng dữ liệu của nhạc sĩ Văn Cao trong bảng nhacsi?",
+      "options": [
+        "A. Vì nhạc sĩ Văn Cao có nhiều bản nhạc nổi tiếng.",
+        "B. Vì idNhacsi của Văn Cao đang được tham chiếu trong bảng bannhac.",
+        "C. Vì bảng nhacsi không cho phép xóa dữ liệu.",
+        "D. Vì không có chức năng xóa trong MySQL"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: idNhacsi của Văn Cao đang được tham chiếu trong bảng bannhac, nên việc xóa sẽ bị ngăn chặn để đảm bảo tính toàn vẹn dữ liệu."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Để thực hiện việc tìm kiếm bản nhạc của nhạc sĩ Văn Cao trong bảng bannhac, cần làm gì?",
+      "options": [
+        "A. Lọc theo trường idBannhac.",
+        "B. Truy xuất theo thứ tự giảm dần của tên bản nhạc.",
+        "C. Lọc dữ liệu theo trường idNhacsi tương ứng với nhạc sĩ Văn Cao.",
+        "D. Không thể tìm kiếm."
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Để tìm bản nhạc của Văn Cao, người dùng cần lọc dữ liệu theo trường idNhacsi của nhạc sĩ này trong bảng bannhac."
+    }
+  ]
+}

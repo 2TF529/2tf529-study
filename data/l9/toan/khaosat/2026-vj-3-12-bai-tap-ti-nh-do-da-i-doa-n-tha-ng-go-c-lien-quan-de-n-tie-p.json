@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-3-12-bai-tap-ti-nh-do-da-i-doa-n-tha-ng-go-c-lien-quan-de-n-tie-p",
+  "sourceId": "vietjack:3-12-bai-tap-ti-nh-do-da-i-doa-n-tha-ng-",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.12 bài tập Tính độ dài đoạn thẳng, góc liên quan đến tiếp tuyến của đường tròn",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho đường tròn tâm O bán kính 5 cm và một điểm A cách O một khoảng là 13 cm. Kẻ tiếp tuyến AB với đường tròn (B là tiếp điểm). Tính độ dài AB.",
+      "options": [
+        "A. AB = 8 cm.",
+        "B. AB = 12 cm.",
+        "C. AB = 23 cm.",
+        "D. AB = 6 cm."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Vì AB là tiếp tuyến và B là tiếp điểm nên OB = R = 5 cm; AB ⊥ OB tại B. Áp dụng định lí Pythagore vào tam giác ABO vuông tại B, ta được: AB = \\(\\sqrt {O{A^2} - O{B^2}} = \\sqrt {{{13}^2} - {5^2}} = 12\\) cm."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho tam giác ABC có AB = 6 cm, AC = 8 cm. Vẽ đường tròn (B; BA). Để AC là tiếp tuyến của đường tròn (B) thì độ dài của cạnh BC là:",
+      "options": [
+        "A. 14 cm.",
+        "B. 10 cm.",
+        "C. 12 cm.",
+        "D. 7 cm."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Để AC là tiếp tuyến của đường tròn (B) thì AC ⊥ BA tại A. Áp dụng định lí Pythagore vào tam giác ABC, ta có: BC = \\(\\sqrt {C{A^2} + A{B^2}} = \\sqrt {{6^2} + {8^2}} = 10\\) cm."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Từ thích hợp điền vào vị trí số (1) là:",
+      "options": [
+        "A. Cắt nhau.",
+        "B. Tiếp xúc.",
+        "C. Không cắt nhau.",
+        "D. Không xác định."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Do R > d (5 cm > 4 cm) nên đường thẳng cắt đường tròn."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Đáp án thích hợp điền vào vị trí số (2) là:",
+      "options": [
+        "A. 8 cm.",
+        "B. 4 cm.",
+        "C. 16 cm.",
+        "D. 6 cm."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A Để đường thẳng với đường tròn tiếp xúc nhau thì d = R. Do đó, d = 8 cm."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho đường tròn tâm O bán kính 6 cm và một điểm A cách O là 10 cm. Kẻ tiếp tuyến AB với đường tròn (B là tiếp điểm). Tính độ dài AB.",
+      "options": [
+        "A. AB = 12 cm.",
+        "B. AB = 4 cm.",
+        "C. AB = 6 cm.",
+        "D. AB = 8 cm."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Vì AB là tiếp tuyến và B là tiếp điểm nên OB = R = 6 cm; AB ⊥ OB tại B. Áp dụng định lí Pythagore vào tam giác ABO vuông tại B, ta được: AB = \\(\\sqrt {O{A^2} - O{B^2}} = \\sqrt {{{10}^2} - {6^2}} = 8\\) cm."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho đường tròn (O; R) và dây AB = 1,2R. Vẽ một tiếp tuyến song song với AB, cắt các tia OA, OB lần lượt tại E và F. Tính diện tích tam giác OEF theo R.",
+      "options": [
+        "A. S OEF = 0,75R 2 .",
+        "B. S OEF = 1,5R 2 .",
+        "C. S OEF = 0,8R 2 .",
+        "D. S OEF = 1,75R 2 ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Kẻ OH ⊥ EF tại H và cắt AB tại I suy ra OI ⊥ AB (vì AB ∕∕ EF) Xét (O) có OI ⊥ AB tại I nên I là trung điểm của AB. Suy ra IA = IB = \\(\\frac{{AB}}{2} = 0,6R\\). Lại có OA = R. Áp dụng định lí Pythagore cho tam giác OAI ta có: OI = \\(\\sqrt {O{A^2} - I{A^2}} = 0,8R\\). Mà AI ∕∕ EH nên \\(\\frac{{AI}}{{EH}} = \\frac{{OI}}{{OH}} = \\frac{{0,8R}}{R}\\) nên EH = \\(\\frac{{0,6R}}{{0,8}} = 0,75R\\). ∆OEF cân tại O (vì \\(\\widehat E = \\widehat F = \\widehat {BAO} = \\widehat {ABO}\\)) có OH ⊥ EF nên H là trung điểm của EF. Vì EF = 2EH = 1,5R nên diện tích tam giác EOF là \\(\\frac{1}{2}OH.EF = 0,75{R^2}\\)."
+    }
+  ]
+}

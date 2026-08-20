@@ -1,0 +1,368 @@
+{
+  "id": "l10-tin-cuoiki2-2026-7-de-thi-hoc-ki-2-tin-hoc-10-ket-noi-tri-thuc-co-dap-an-5475101028-de-02",
+  "grade": "l10",
+  "subjectSlug": "tin",
+  "examType": "cuoiki2",
+  "year": 2026,
+  "code": "Đề 02",
+  "title": "7+ Đề thi Học kì 2 Tin học 10 Kết nối tri thức (có đáp án) - Đề 02",
+  "duration": 45,
+  "answerSource": "partial",
+  "sourceUrl": "https://www.vietjack.com/de-kiem-tra-lop-10/de-thi-hoc-ki-2-tin-hoc-lop-10-ket-noi.jsp",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 1.&lt;/strong&gt; Sau khi thực hiện đoạn chương trình, giá trị của s lần lượt là:",
+      "options": [
+        "A. 9",
+        "B. 10",
+        "C. 11",
+        "D. 12"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 2.&lt;/strong&gt; Để thêm phần tử vào cuối danh sách ta dùng hàm nào?",
+      "options": [
+        "A. append()",
+        "B. pop()",
+        "C. clear()",
+        "D. remove()"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 3. &lt;/strong&gt;Lệnh nào sau đây xoá toàn bộ danh sách?",
+      "options": [
+        "A. clear().",
+        "B. exit().",
+        "C. remove().",
+        "D. del()."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 4. &lt;/strong&gt;Kết quả khi thực hiện chương trình sau?\n>>> A = [1, 2, 3, 5]\n>>> A.insert(2, 4)\n>>> print(A)",
+      "options": [
+        "A. 1, 2, 3, 4.",
+        "B. 1, 2, 4, 3, 5.",
+        "C. 1, 2, 3, 4, 5.",
+        "D. 1, 2, 4, 5."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 5. &lt;/strong&gt;Xâu “1234%^^%TFRESDRG” có độ dài bằng bao nhiêu?",
+      "options": [
+        "A. 16.",
+        "B. 17.",
+        "C. 18.",
+        "D. 15."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 6. &lt;/strong&gt;Chương trình trên giải quyết bài toán gì?\ns = \"\"\nfor i in range(10):\ns = s + str(i)\nprint(s)",
+      "options": [
+        "A. In một chuỗi kí tự từ 0 tới 10.",
+        "B. In một chuỗi kí tự từ 1 đến 9",
+        "C. In một chuỗi kí tự từ 1 tới 10.",
+        "D. In một chuỗi kí tự từ 0 tới 9."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 7. &lt;/strong&gt;Lệnh sau trả lại giá trị gì?",
+      "options": [
+        "A. 5",
+        "B. 6",
+        "C. 7",
+        "D. -1"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 8. &lt;/strong&gt;Muốn nối danh sách gồm các từ thành một xâu ta dùng lệnh nào?",
+      "options": [
+        "A. Lệnh join()",
+        "B. Lệnh split()",
+        "C. Lệnh len()",
+        "D. Lệnh find()"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 9. &lt;/strong&gt;Mệnh đề nào dưới đây mô tả đúng về hàm tự định nghĩa không trả lại giá trị?",
+      "options": [
+        "A. Trong mô tả hàm không có từ khóa return.",
+        "B. Trong mô tả hàm chỉ có một từ khóa return.",
+        "C. Trong mô tả hàm phải có tối thiểu hai từ khóa return.",
+        "D. Trong mô tả hàm hoặc không có return hoặc có return nhưng không có giá trị sau từ return."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 10.&lt;/strong&gt; Kết quả của chương trình sau là:\ndef Kieu(Number):\nreturn type(Number);\nprint(Kieu (5.0))",
+      "options": [
+        "A. 5.",
+        "B. float.",
+        "C. bool.",
+        "D. int."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 11,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 11. &lt;/strong&gt;Hàm func(m, n) được định nghĩa như sau:\nKết quả sẽ in ra số nào?",
+      "options": [
+        "A. 110",
+        "B. 11",
+        "C. 13",
+        "D. 31"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 12,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 12. &lt;/strong&gt;Các tham số của f có kiểu dữ liệu gì nếu hàm f được gọi như sau:\nf(‘5.0’)",
+      "options": [
+        "A. str",
+        "B. float.",
+        "C. int.",
+        "D. bool."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 13,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 13. &lt;/strong&gt;Hàm tự định nghĩa trong Python có thể có bao nhiêu tham số?",
+      "options": [
+        "A. 0",
+        "B. 1",
+        "C. 2",
+        "D. Không hạn chế"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 14,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 14. &lt;/strong&gt;Trong Python biến được khai báo và sử dụng bên trong một hàm được gọi là gì?",
+      "options": [
+        "A. Biến địa phương",
+        "B. Biến riêng",
+        "C. Biến tổng thể",
+        "D. Biến thông thường"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 15,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 15. &lt;/strong&gt;Mệnh đề nào dưới đây phát biểu sai về phạm vi tác dụng của biến trong Python?",
+      "options": [
+        "A. Biến được khai báo bên trong hàm chỉ có tác dụng trong hàm đó, không có tác dụng bên ngoài.",
+        "B. Biến được khai báo bên ngoài hàm sẽ không có tác dụng bên trong hàm như một biến.",
+        "C. Biến khai báo bên ngoài nếu muốn có tác dụng bên trong hàm thì cần khai báo lại trong hàm với từ khoá global.",
+        "D. Biến trong Python khi đã được khai báo sẽ có tác dụng trong tất cả các hàm và bên ngoài."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 16,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 16. &lt;/strong&gt;Giá trị của x, y là bao nhiêu khi thực hiện lệnh f(1, 3)\n>>> x, y = 3, 4\n>>> def f(x, y):\nx = x + y\ny = y + 2\nreturn x",
+      "options": [
+        "A. 2, 3.",
+        "B. 4, 5.",
+        "C. 5, 4.",
+        "D. 3, 4."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 17,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 17. &lt;/strong&gt;Biến đã khai báo bên ngoài sẽ không có tác dụng bên trong hàm như một biến. Nếu muốn có tác dụng thì cần khai báo lại biến này trong hàm với từ khóa nào?",
+      "options": [
+        "A. def",
+        "B. global",
+        "C. return",
+        "D. lambda"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 18,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 18. &lt;/strong&gt;Trong lời gọi hàm, nếu các đối số được truyền vào hàm bị thiếu thì lỗi ngoại lệ phát sinh thuộc loại nào dưới đây?",
+      "options": [
+        "A. Syntax Error.",
+        "B. NameError.",
+        "C. TypeError",
+        "D. Không phát sinh lỗi ngoại lệ."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 19,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 19. &lt;/strong&gt;Lệnh sau có lỗi thuộc loại nào?\n123ab = {1,2,3]\nprint(123ab)",
+      "options": [
+        "A. Lỗi cú pháp.",
+        "B. Lỗi ngoại lệ.",
+        "C. Lỗi khác.",
+        "D. Không có lỗi."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 20,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 20. &lt;/strong&gt;Giả sử chương trình có lệnh nhập dữ liệu sau:\nn = int(input(\"Nhập số nguyên n: \"))\nKhi chúng ta nhập 1.5 thì chương trình có lỗi ngoại lệ nào?",
+      "options": [
+        "A. SyntaxError.",
+        "B. ValueError.",
+        "C. TypeError",
+        "D. IndexError."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 21,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 21. &lt;/strong&gt;Khi dòng lệnh thụt vào không thẳng hàng chương trình đưa ra mã lỗi ngoại lệ nào?",
+      "options": [
+        "A. ZeroDivisionError.",
+        "B. TypeError.",
+        "C. IndentationError.",
+        "D. SyntaxError."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 22,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 22. &lt;/strong&gt;Mục đích của kiểm thử chương trình là gì?",
+      "options": [
+        "A. Để tự động sửa lỗi chương trình.",
+        "B. Để tìm ra lỗi của chương trình.",
+        "C. Để tìm ra lỗi và tự động sửa lỗi chương trình.",
+        "D. Để tìm ra lỗi và phòng ngừa, ngăn chặn các lỗi phát sinh trong tương lai."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 23,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 23. &lt;/strong&gt;Điểm dừng (break point) trong các phần mềm soạn thảo lập trình có ý nghĩa gì?",
+      "options": [
+        "A. Đó là vị trí chương trình chạy tới đó thì kết thúc.",
+        "B. Đó là vị trí chương trình dừng lại để người lập trình quan sát phát hiện lỗi.",
+        "C. Đó là vị trí chương trình mỗi khi chạy đến dòng lệnh đó sẽ kêu pip pip.",
+        "D. Đó là vị trí chương trình tạm dừng, người lập trình sẽ quan sát các biến của chương trình và có thể điều khiển để chương trình tiếp tục chạy."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 24,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 24. &lt;/strong&gt;Chương trình chạy phát sinh lỗi ngoại lệ IndexError, nên xử lí như thế nào?",
+      "options": [
+        "A. Kiểm tra lại giá trị số chia.",
+        "B. Kiểm tra lại chỉ số trong mảng.",
+        "C. Kiểm tra giá trị của số bị chia.",
+        "D. Kiểm tra kiểu dữ liệu nhập vào."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 25,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 25. &lt;/strong&gt;Những kĩ năng nào cần có ở người làm nghề thiết kế đồ họa?",
+      "options": [
+        "A. Kĩ năng vẽ, sắp xếp các đối tượng đồ hoạ",
+        "B. Kĩ năng sử dụng máy tính và thiết bị thông minh",
+        "C. Sử dụng thành thạo phần mềm thiết kế đồ hoạ",
+        "D. Tất cả các kĩ năng trên"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 26,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 26. &lt;/strong&gt;Kĩ năng, tố chất nào là cần thiết nhất cho người thiết kế đồ hoạ?",
+      "options": [
+        "A. Có hiểu biết sâu về toán học",
+        "B. Có khả năng sử dụng thành thạo phần mềm đồ hoạ máy tính và có kiến thức về công nghệ.",
+        "C. Biết chơi nhiều nhạc cụ khác nhau",
+        "D. Có hiểu biết sâu về lý học"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 27,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 27. &lt;/strong&gt;Để sản xuất một phần mềm cần bao nhiêu công đoạn?",
+      "options": [
+        "A. 5",
+        "B. 6",
+        "C. 7",
+        "D. 8"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 28,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 28. &lt;/strong&gt;Tiếp xúc với khách hàng, tìm hiểu về yêu cầu nghiệp vụ, xây dựng hồ sơ yêu cầu của hệ thống là công việc của công đoạn nào trong sản xuất một phần mềm?",
+      "options": [
+        "A. Phân tích hệ thống.",
+        "B. Điều tra khảo sát.",
+        "C. Thiết kế hệ thống.",
+        "D. Lập trình."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 29,
+      "type": "short_answer",
+      "content": "&lt;strong&gt;Câu 1. (1 điểm)&lt;/strong&gt; Đoạn chương trình sau có lỗi không? Giải thích?\nm, n = 10, 4\ndef f(a):\nk = n + m + a\nreturn k\nf(5)",
+      "answer": null
+    },
+    {
+      "id": 30,
+      "type": "short_answer",
+      "content": "&lt;strong&gt;Câu 2. (1 điểm)&lt;/strong&gt; Chương trình sau có lỗi không? Nếu có thì lỗi thuộc loại nào?\nn = 10\nfor i in range(n):\nPrint(i, end = \" \")",
+      "answer": null
+    },
+    {
+      "id": 31,
+      "type": "short_answer",
+      "content": "&lt;strong&gt;Câu 3. (1 điểm)&lt;/strong&gt; Gọi ƯCLN(a, b) là hàm ƯCLN của hai số tự nhiên a, b. Dễ thấy ta có ƯCLN(a, b) = ƯCLN(b, a%b) nếu b > 0 và ƯCLN(a, 0) = a. Từ đó hãy viết chương trình nhập hai số a, b và tính ƯCLN của a và b.\n&lt;strong&gt;&lt;em&gt;……………………. Hết …………………….&lt;/em&gt;&lt;/strong&gt;",
+      "answer": null
+    }
+  ]
+}

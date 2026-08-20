@@ -1,0 +1,195 @@
+{
+  "id": "l10-tin-khaosat-2025-tin10-kiem-thu-va-go-loi-chuong-trinh",
+  "grade": "l10",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2025,
+  "code": "Bài 30",
+  "title": "Tin học 10 - Kiểm thử và gỡ lỗi chương trình",
+  "duration": 15,
+  "answerSource": "official",
+  "sourceId": "hochanh:5992",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Hoàn thành phát biểu sau: “Có rất nhiều công cụ và phương pháp khác nhau để kiểm thử chương trình. Các công cụ có mục đích... của chương trình và...,... các lỗi phát sinh trong tương lai”",
+      "options": [
+        "A. Tìm ra lỗi, phòng ngừa, ngăn chặn.",
+        "B. Tìm ra lỗi, phòng ngừa, xử lí.",
+        "C. Phòng ngừa, ngăn chặn, xử lí lỗi.",
+        "D. Xử lí lỗi, phòng ngừa, ngăn chặn."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Đâu không là công cụ để kiểm thử chương trình?",
+      "options": [
+        "A. Công cụ in biến trung gian.",
+        "B. Công cụ sinh các bộ dữ liệu test.",
+        "C. Công cụ thống kê dữ liệu",
+        "D. Công cụ điểm dừng trong phần mềm soạn thảo lập trình."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Trong các phát biểu sau, phát biểu nào chưa chính xác về kiểm thử chương trình?",
+      "options": [
+        "A. Hiện nay, có ít phương pháp và công cụ khác nhau để kiểm thử chương trình.",
+        "B. Chương trình cần được thử với một số bộ dữ liệu test gồm đầu vào tiêu biểu và kết quả đầu ra biết trước.",
+        "C. Các bộ test phụ thuộc vào các tiêu chí khác nhau.",
+        "D. Các bộ test dữ liệu nên có nhiều bộ test ngẫu nhiên,..."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Phát biểu nào sau đây đúng nhất khi nói về các bộ dữ liệu test khi kiểm thử chương trình?",
+      "options": [
+        "A. Các bộ test có thể có đầu vào theo các tiêu chí khác nhau.",
+        "B. Các bộ test có đầu vào theo một số tiêu chí nhất định.",
+        "C. Các bộ test có thể có đầu vào theo các tiêu chí khác nhau như độ lớn, tính đa dạng của dữ liệu.",
+        "D. Các bộ test có đầu vào phải theo các tiêu chí về độ lớn, tính đa dạng của dữ liệu."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Số phát biểu đúng trong các phát biểu sau: 1) Cần chú ý nên có nhiều bộ test khi test các bộ dữ liệu. 2) Việc sinh ngẫu nhiên dữ liệu đầu vào trong miền xác định của chương trình làm tăng khả năng tìm lỗi. 3) Thực tế cho thấy ít khi phát sinh lỗi tại các vùng biên hoặc lân cận biên. 4) Không thể sử dụng các lệnh print() để in ra các biến trung gian.",
+      "options": [
+        "A. 2.",
+        "B. 3.",
+        "C. 1.",
+        "D. 4."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Chương trình chạy phát sinh lỗi ngoại lệ ZeroDivision, nên xử lí như thế nào?",
+      "options": [
+        "A. Kiểm tra lại giá trị số chia.",
+        "B. Kiểm tra lại chỉ số trong mảng.",
+        "C. Kiểm tra giá trị của số bị chia.",
+        "D. Kiểm tra kiểu dữ liệu nhập vào."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Chương trình sau bị lỗi ở dòng lệnh thứ bao nhiêu? >>> fruits = ['Banana', 'Apple', 'Lime'] >>> loud_fruits = [fruit.upper() for fruit in fruits] >>> print(loud_fruits) >>> list(enumerate(fruits))",
+      "options": [
+        "A. 2.",
+        "B. 3.",
+        "C. 4.",
+        "D. Không phát sinh lỗi"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Chương trình sau phát sinh lỗi gì? >>> 1 / 0 0.5 >>> 2 ** 3 8",
+      "options": [
+        "A. NameError.",
+        "B. TypeError.",
+        "C. ZeroDivisionError.",
+        "D. Syntax Error."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "content": "Chương trình chạy phát sinh lỗi ngoại lệ IndexError, nên xử lí như thế nào?",
+      "options": [
+        "A. Kiểm tra lại giá trị số chia.",
+        "B. Kiểm tra lại chỉ số trong mảng.",
+        "C. Kiểm tra giá trị của số bị chia.",
+        "D. Kiểm tra kiểu dữ liệu nhập vào."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "content": "Chương trình sau có lỗi ở dòng lệnh nào? n = int(input(\"Nhập số tự nhiên n: \")) s = \"\" for i in range(10): s = s + i",
+      "options": [
+        "A. 1.",
+        "B. 2.",
+        "C. 3.",
+        "D. 4."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 11,
+      "type": "single",
+      "content": "Chương trình chạy phát sinh lỗi ngoại lệ TypeError, nên xử lí như thế nào?",
+      "options": [
+        "A. Kiểm tra lại chỉ số trong mảng.",
+        "B. Kiểm tra lại giá trị số chia.",
+        "C. Kiểm tra giá trị của số bị chia.",
+        "D. Kiểm tra kiểu dữ liệu nhập vào."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 12,
+      "type": "single",
+      "content": "Chương trình sau mắc lỗi gì? def func(n) a, b = 0, 1 while a < n: print(a, end=' ') a, b = b, a+b print() print(func(1000))",
+      "options": [
+        "A. TypeError.",
+        "B. ZeroDivisionError.",
+        "C. Syntax Error.",
+        "D. NameError."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 13,
+      "type": "single",
+      "content": "Để tính giá trị trung bình của một danh sách số A, người lập trình đã dùng lệnh gttb = sum(A) / len(A). Những mã lỗi ngoại lệ nào có thể xảy ra?",
+      "options": [
+        "A. NameError.",
+        "B. ZeroDivisionError.",
+        "C. Không thể xảy ra lỗi",
+        "D. Có thể xảy ra cả hai lỗi trên."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 14,
+      "type": "single",
+      "content": "Chương trình chạy phát sinh lỗi ngoại lệ NameError, nên xử lí như thế nào?",
+      "options": [
+        "A. Kiểm tra lại chỉ số trong mảng.",
+        "B. Kiểm tra lại tên các biến và hàm.",
+        "C. Kiểm tra giá trị của số bị chia.",
+        "D. Kiểm tra kiểu dữ liệu nhập vào."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 15,
+      "type": "single",
+      "content": "Chương trình sau nên sửa như thế nào. Chọn phương án đúng nhất. fruits = ['Banana', 'Apple', 'Lime'] print(fruits[4])",
+      "options": [
+        "A. Thay đổi kiểu dữ liệu của từng phần tử trong mảng.",
+        "B. Kiểm tra chỉ số của mảng khi thực hiện lệnh.",
+        "C. Thay đổi tên mảng.",
+        "D. Chương trình không có lỗi."
+      ],
+      "answer": "B"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-trac-nghiem-do-thi-do-dich-chuyen-thoi-gian-lop-10-co-dap-an",
+  "sourceId": "vietjack:1-trac-nghiem-do-thi-do-dich-chuyen-thoi",
+  "grade": "l10",
+  "subjectSlug": "li",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.Trắc nghiệm Đồ thị độ dịch chuyển - thời gian lớp 10 (có đáp án)",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Trường hợp nào sau đây vận tốc và tốc độ có độ lớn như nhau?",
+      "options": [
+        "A. Vật chuyển động thẳng theo một chiều không đổi.",
+        "B. Vật chuyển động thẳng.",
+        "C. Vật chuyển động theo một chiều.",
+        "D. Luôn luôn bằng nhau về độ lớn."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là A. A - đúng vì trong trường hợp này độ dịch chuyển và quãng đường đi được có độ lớn bằng nhau nên vận tốc và tốc độ có độ lớn như nhau. B – sai vì chuyển động thẳng, nếu vật đổi chiều thì vận tốc và tốc độ sẽ khác nhau. C – sai vì nếu không phải là chuyển động thẳng thì độ dịch chuyển và quãng đường khác nhau, dẫn đến tốc độ và vận tốc khác nhau. D – sai."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Hãy chỉ ra câu không đúng :",
+      "options": [
+        "A. Quỹ đạo của chuyển động thẳng đều là đường thẳng.",
+        "B. Tốc độ trung bình của chuyển động thẳng đều trên mọi đoạn đường là như nhau.",
+        "C. Trong chuyển động thẳng đều, quãng đường đi được của vật tỉ lệ thuận với khoảng thời gian chuyển động.",
+        "D. Chuyển động đi lại của một pit-tông trong xi lanh là chuyển động thẳng đều."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là D. D - sai vì chuyển động của một pit-tông trong xi lanh là chuyển động thẳng nhưng không đều."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Khi vật chuyển động thẳng với vận tốc không đổi (v > 0). Hình nào sao đây biểu diễn đồ thị độ dịch chuyển thời gian của vật?",
+      "options": [
+        "A. Phương án A",
+        "B. Phương án B",
+        "C. Phương án C",
+        "D. Phương án D"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là A. A - đúng vì trường hợp này phương trình độ dịch chuyển thời gian d = v.t có dạng hàm số y = a.x với a > 0."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Khi vật đang chuyển động thẳng, theo chiều dương, nếu đổi chiều chuyển động thì trong khoảng thời gian chuyển động ngược chiều đó đồ thị độ dịch chuyển – thời gian có dạng nào sau đây?",
+      "options": [
+        "A. Phương án A",
+        "B. Phương án B",
+        "C. Phương án C",
+        "D. Phương án D"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là B. B - trường hợp này phương trình độ dịch chuyển - thời gian có dạng của hàm số \\[{\\rm{y = ax + b}}\\]với (\\[a < 0,b > 0\\])."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Chọn câu SAI . Một người đi bộ trên một con đường thẳng. Cứ đi được 10 m thì người đó lại nhìn đồng hồ và đo khoảng thời gian đã đi. Kết quả đo được ghi trong bảng sau: Lần 1 2 3 4 5 6 7 8 9 d (m) 10 10 10 10 10 10 10 10 10 t(s) 8 8 10 10 12 12 12 14 14",
+      "options": [
+        "A. Vận tốc trung bình trên đoạn đường 10 m lần thứ 1 là 1,25 m/s.",
+        "B. Vận tốc trung bình trên đoạn đường 10 m lần thứ 3 là 1,00 m/s.",
+        "C. Vận tốc trung bình trên đoạn đường 10 m lần thứ 5 là 0,83 m/s.",
+        "D. Vận tốc trung bình trên cả quãng đường là 0,91 m/s."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là D. Sử dụng công thức tính vận tốc trung bình: \\[{\\rm{v = }}\\frac{{\\rm{d}}}{{\\rm{t}}}\\] A - đúng. B - đúng. C - đúng. D - sai vì vận tốc trung bình trên cả quãng đường là \\[{\\rm{v = }}\\frac{{\\rm{d}}}{{\\rm{t}}}\\], đầu bài chưa nói rõ người này có đổi chiều chuyển động ở điểm nào hay không nên ta chưa biết rõ d bằng bao nhiêu."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Chuyển động của một xe máy được mô tả bởi đồ thị Xác định tốc độ và vận tốc của xe trong 20 s đầu tiên.",
+      "options": [
+        "A. 1 m/s và 1 m/s.",
+        "B. 1 m/s và 2 m/s.",
+        "C. 2 m/s và 1 m/s.",
+        "D. -1 m/s và 2 m/s."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là A. Trong 20 giây đầu, vật chuyển động thẳng không đổi chiều nên vận tốc và tốc độ có độ lớn bằng nhau: \\[v = \\frac{{20}}{{20}} = 1{\\rm{(m/s)}}\\]."
+    }
+  ]
+}

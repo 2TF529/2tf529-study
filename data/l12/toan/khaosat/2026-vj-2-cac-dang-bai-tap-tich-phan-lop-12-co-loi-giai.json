@@ -1,0 +1,104 @@
+{
+  "id": "2026-vj-2-cac-dang-bai-tap-tich-phan-lop-12-co-loi-giai",
+  "sourceId": "vietjack:2-cac-dang-bai-tap-tich-phan-lop-12-co-l",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.Các dạng bài tập Tích phân lớp 12 (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho \\(\\int\\limits_1^2 {f\\left( x \\right)dx} = 3\\) và \\(\\int\\limits_1^2 {g\\left( x \\right)dx} = - 2\\). Giá trị \\(\\int\\limits_1^2 {\\left[ {f\\left( x \\right) + g\\left( x \\right)} \\right]dx} \\).",
+      "options": [
+        "A. 1;",
+        "B. 5;",
+        "C. −1;",
+        "D. 6."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A \\(\\int\\limits_1^2 {\\left[ {f\\left( x \\right) + g\\left( x \\right)} \\right]dx} \\)\\( = \\int\\limits_1^2 {f\\left( x \\right)dx} + \\int\\limits_1^2 {g\\left( x \\right)dx} \\) = 3 – 2 = 1."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho \\(\\int\\limits_1^2 {\\left[ {4f\\left( x \\right) - 2x} \\right]dx} = 1\\). Khi đó \\(\\int\\limits_1^2 {f\\left( x \\right)dx} \\) bằng",
+      "options": [
+        "A. 1;",
+        "B. 3;",
+        "C. −1;",
+        "D. −3."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A \\(\\int\\limits_1^2 {\\left[ {4f\\left( x \\right) - 2x} \\right]dx} = 1\\)\\( \\Leftrightarrow 4\\int\\limits_1^2 {f\\left( x \\right)dx} - 2\\int\\limits_1^2 {xdx} = 1\\)\\( \\Leftrightarrow 4\\int\\limits_1^2 {f\\left( x \\right)dx} - 3 = 1\\)\\( \\Leftrightarrow \\int\\limits_1^2 {f\\left( x \\right)dx} = 1\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Nếu hàm số y = f(x) có đạo hàm liên tục trên ℝ thỏa mãn f(0) = −2023, \\(\\int\\limits_0^1 {f'\\left( x \\right)dx} = 2024\\) thì",
+      "options": [
+        "A. f(1) = 4047;",
+        "B. f(1) = −1;",
+        "C. f(1) = 1;",
+        "D. f(1) = −4047."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C \\(\\int\\limits_0^1 {f'\\left( x \\right)dx} = 2024\\)\\( \\Leftrightarrow \\left. {f\\left( x \\right)} \\right|_0^1 = 2024\\)\\( \\Leftrightarrow f\\left( 1 \\right) - f\\left( 0 \\right) = 2024\\)\\( \\Leftrightarrow f\\left( 1 \\right) = 2024 + f\\left( 0 \\right) = 2024 - 2023 = 1\\)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hàm số y = f(x) liên tục trên đoạn [a; b]. Gọi F(x) là một nguyên hàm của hàm số f(x) trên đoạn [a; b]. Chọn mệnh đề sai.",
+      "options": [
+        "A. \\(\\int\\limits_a^b {f\\left( x \\right)dx} = F\\left( b \\right) - F\\left( a \\right)\\);",
+        "B. \\(\\int\\limits_a^a {f\\left( x \\right)dx} = 1\\);",
+        "C. \\(\\int\\limits_a^a {f\\left( x \\right)dx} = 0\\);",
+        "D. \\(\\int\\limits_a^b {f\\left( x \\right)dx} = - \\int\\limits_b^a {f\\left( x \\right)dx} \\)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Vì \\(\\int\\limits_a^a {f\\left( x \\right)dx} = 0\\) nên đáp án B sai."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Biết F(x) = x 2 là một nguyên hàm của hàm số f(x) trên ℝ. Giá trị của \\(\\int\\limits_1^2 {\\left[ {2 + f\\left( x \\right)} \\right]dx} \\) bằng",
+      "options": [
+        "A. 3;",
+        "B. 5;",
+        "C. \\(\\frac{{13}}{3}\\);",
+        "D. \\(\\frac{7}{3}\\)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Có \\(\\int\\limits_1^2 {\\left[ {2 + f\\left( x \\right)} \\right]dx} = \\left. {\\left( {2x + {x^2}} \\right)} \\right|_1^2 = 8 - 3 = 5\\)."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Cho hàm số y = f(x) liên tục trên đoạn [−6; 11] và thỏa mãn \\(\\int\\limits_{ - 6}^{11} {f\\left( x \\right)dx = 8} ,\\int\\limits_2^6 {f\\left( x \\right)dx} = 3\\). Giá trị của biểu thức \\(P = \\int\\limits_{ - 6}^2 {f\\left( x \\right)dx} + \\int\\limits_6^{11} {f\\left( x \\right)dx} \\) bằng",
+      "options": [
+        "A. 4;",
+        "B. 11;",
+        "C. 5;",
+        "D. 2."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có \\(\\int\\limits_{ - 6}^{11} {f\\left( x \\right)dx} = 8\\) \\( \\Leftrightarrow \\int\\limits_{ - 6}^2 {f\\left( x \\right)dx} + \\int\\limits_2^6 {f\\left( x \\right)dx} + \\int\\limits_6^{11} {f\\left( x \\right)dx} = 8\\) \\( \\Leftrightarrow \\int\\limits_{ - 6}^2 {f\\left( x \\right)dx} + 3 + \\int\\limits_6^{11} {f\\left( x \\right)dx} = 8\\)\\( \\Leftrightarrow \\int\\limits_{ - 6}^2 {f\\left( x \\right)dx} + \\int\\limits_6^{11} {f\\left( x \\right)dx} = 5\\)."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho hàm số f(x) liên tục trên ℝ. Gọi F(x) là một nguyên hàm của f(x) trên ℝ thỏa mãn F(2) – F(0) = 5. Khi đó \\(\\int\\limits_0^2 {3f\\left( x \\right)dx} \\) bằng",
+      "options": [
+        "A. 6;",
+        "B. 15;",
+        "C. 10;",
+        "D. 5."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có \\(\\int\\limits_0^2 {3f\\left( x \\right)dx} \\)\\( = 3\\int\\limits_0^2 {f\\left( x \\right)dx} \\)\\( = 3\\left( {F\\left( 2 \\right) - F\\left( 0 \\right)} \\right) = 3.5 = 15\\)."
+    }
+  ]
+}

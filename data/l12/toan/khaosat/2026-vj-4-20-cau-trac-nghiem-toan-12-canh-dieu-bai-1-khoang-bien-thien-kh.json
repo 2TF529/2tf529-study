@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-4-20-cau-trac-nghiem-toan-12-canh-dieu-bai-1-khoang-bien-thien-kh",
+  "sourceId": "vietjack:4-20-cau-trac-nghiem-toan-12-canh-dieu-b",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "4.20 câu trắc nghiệm Toán 12 Cánh diều Bài 1. Khoảng biến thiên, khoảng tứ phân vị của mẫu số liệu ghép nhóm (Đúng sai - Trả lời ngắn) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Một công ty xây dựng khảo sát khách hàng xem họ có nhu cầu mua nhà ở mức giá nào. Kết quả khảo sát được ghi lại ở bảng sau: Mức giá (triệu đồng/ m 2 ) [10; 14) [14; 18) [18; 22) [22; 26) [26; 30) Số khách hàng 54 78 120 45 12 Khoảng biến thiên \\(R\\) của mẫu số liệu ghép nhóm trên là.",
+      "options": [
+        "A. \\(R = 4\\).",
+        "B. \\(R = 20\\).",
+        "C. \\(R = 9\\).",
+        "D. \\(R = 108\\)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng: B Khoảng biến thiên của mẫu số liệu ghép nhóm là:\\(R = 30 - 10 = 20\\) (triệu đồng /\\({m^2}\\))."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Gọi \\({Q_1},{Q_2},{Q_3}\\) là tứ phân vị của một mẫu số liệu ghép nhóm. Khi đó khoảng tứ phân vị \\({\\Delta _Q}\\) của mẫu số liệu trên được xác định bởi công thức",
+      "options": [
+        "A. \\[{\\Delta _Q}\\; = {Q_2} - {Q_1}\\].",
+        "B. \\[{\\Delta _Q}\\; = {Q_3} - {Q_1}\\].",
+        "C. \\[{\\Delta _Q}\\; = {Q_2} - {Q_3}\\].",
+        "D. \\[{\\Delta _Q}\\; = {Q_1} - {Q_3}\\]."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng: B Khoảng tứ phân vị của mẫu số liệu ghép nhóm là: \\[{\\Delta _Q}\\; = {Q_3}--{Q_1}\\;\\]."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Biểu diễn mẫu số liệu ghép nhóm về cân nặng (đơn vị: kilogam) của 40 học sinh một lớp 12 ở một trường trung học phổ thông được cho dưới bảng sau. Khoảng biến thiên của mẫu số liệu ghép nhóm đó là",
+      "options": [
+        "A. \\(24\\).",
+        "B. \\(4\\).",
+        "C. \\(12\\).",
+        "D. \\(6\\)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng: A Khoảng biến thiên của mẫu số liệu ghép nhóm đó là: \\(R = 60 - 36 = 24\\)(kg)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho mẫu số liệu ghép nhóm về tuổi thọ (đơn vị tính là năm) của một loại bóng đèn mới như sau. Tuổi thọ [2;3,5) [3,5;5) [5;6,5) [6,5;8) Số bóng đèn 8 22 35 15 Khoảng biến thiên của mẫu số liệu trên là",
+      "options": [
+        "A. \\(3\\).",
+        "B. \\(6\\)",
+        "C. \\(5,5\\).",
+        "D. \\(4,5\\)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng: B Khoảng biến thiên của mẫu số liệu trên là \\(8 - 2 = 6\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Một cuộc khảo sát đã tiến hành xác định tuổi (theo năm) của 120 chiếc ô tô. Kết quả điểu tra được cho trong bảng sau. Số tuổi (theo năm) [0; 4) [4; 8) [8; 12) [12; 16) [20; 24) Số ô tô 23 25 37 26 19 Khoảng biến thiên của mẫu số liệu trên là",
+      "options": [
+        "A. \\(16\\).",
+        "B. \\(20\\)",
+        "C. \\(24\\).",
+        "D. \\(4\\)."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng: C Khoảng biến thiên của mẫu số liệu trên là 24 – 0 = 24."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Số lượng đặt bàn của một nhà hàng được cho bởi bảng sau: Số lượt đặt bàn Tần số Tần số tích lũy [1; 6) 14 14 [6; 11) 30 44 [11; 16) 25 69 [16; 21) 18 87 [21; 26) 5 92 Hãy tìm khoảng tứ phân vị của mẫu số liệu ghép nhóm cho bởi bảng trên.",
+      "options": [
+        "A. \\({\\Delta _Q} = \\frac{{11}}{6}\\).",
+        "B. \\[{\\Delta _Q}\\; = \\frac{{17}}{2}\\].",
+        "C. \\({\\Delta _Q} = \\frac{5}{2}\\).",
+        "D. \\({\\Delta _Q} = \\frac{{17}}{6}\\)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng: B Cỡ mẫu \\[n = 14 + 30 + 25 + 18 + 5 = 92 \\Rightarrow \\frac{n}{4} = 23\\]. Tần số tích lũy của nhóm 1 là \\(14 < 23\\) và tần số tích lũy của nhóm 2 là \\(44 > 23\\) Vậy nhóm 2 là nhóm đầu tiên có tần số tích lũy lớn hơn hoặc bằng \\(\\frac{n}{4} = 23\\). Do đó, tứ phân vị thứ nhất của mẫu số liệu ghép nhóm là \\({Q_1} = 6 + \\left( {\\frac{{23 - 14}}{{30}}} \\right) \\cdot 5 = \\frac{{15}}{2}\\). Ta có \\(\\frac{{3n}}{4} = 69\\) nên nhóm 3 là nhóm có tần số tích lũy lớn hơn hoặc bằng \\(\\frac{{3n}}{4}\\). Tứ phân vị thứ ba \\({Q_3}\\) của mẫu số liệu đã cho là \\({Q_3} = 11 + \\left( {\\frac{{69 - 44}}{{25}}} \\right) \\cdot 5 = 16\\). Khoảng tứ phân vị của mẫu số liệu ghép nhóm là: \\[{\\Delta _Q}\\; = {Q_3}--{Q_1}\\; = 16--\\frac{{15}}{2} = \\frac{{17}}{2}\\]."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Giả sử kết quả khảo sát khu vực A về độ tuổi kết hôn của một số phụ nữ vừa lập gia đình được cho ở bảng sau: Tuổi kết hôn Tần số Tần số tích lũy [19; 22) 10 10 [22; 25) 27 37 [25; 28) 31 68 [28; 31) 25 93 [31; 34) 7 100 Hãy tính khoảng tứ phân vị \\({\\Delta _Q}\\) của mẫu số liệu trên.",
+      "options": [
+        "A. \\[{\\Delta _Q} = \\frac{{388}}{{75}}\\].",
+        "B. \\[{\\Delta _Q} = \\frac{{378}}{{75}}\\].",
+        "C. \\[{\\Delta _Q} = \\frac{{386}}{{75}}\\].",
+        "D. \\[{\\Delta _Q} = \\frac{{288}}{{75}}\\]."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng: A Cỡ mẫu \\[n = 10 + 27 + 31 + 25 + 7 = 100 \\Rightarrow \\frac{n}{4} = 25\\]. Vậy nhóm 2 là nhóm đầu tiên có tần số tích lũy \\(37\\) lớn hơn hoặc bằng \\(\\frac{n}{4} = 25\\). Do đó, tứ phân vị thứ nhất của mẫu số liệu ghép nhóm là: \\({Q_1} = 22 + \\left( {\\frac{{25 - 10}}{{27}}} \\right) \\cdot 3 = \\frac{{71}}{3}\\). Ta có \\(\\frac{{3n}}{4} = 75\\) nên nhóm 4 là nhóm có tần số tích lũy lớn hơn hoặc bằng \\(\\frac{{3n}}{4}\\). Tứ phân vị thứ ba \\({Q_3}\\) của mẫu số liệu đã cho là \\({Q_3} = 28 + \\left( {\\frac{{75 - 68}}{{25}}} \\right) \\cdot 3 = \\frac{{721}}{{25}}\\). Khoảng tứ phân vị của mẫu số liệu ghép nhóm về độ tuổi kết hôn của một số phụ nữ vừa lập gia đình ở khu vực A là: \\[{\\Delta _Q} = {Q_3} - {Q_1} = \\frac{{721}}{{25}} - \\frac{{71}}{3} = \\frac{{388}}{{75}}\\]."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho mẫu số liệu ghép nhóm về độ tuổi của dân cư của khu phố \\(A\\) như sau Khoảng tứ phân vị của mẫu số liệu ghép nhóm đã cho là (làm tròn đến hàng phần trăm).",
+      "options": [
+        "A. \\(30,38\\).",
+        "B. \\(53,33\\).",
+        "C. \\(22,95\\).",
+        "D. \\(22,94\\)."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng: C Cỡ mẫu là \\(n = 24 + 26 + 20 + 15 + 11 + 4 = 100\\). Do \\(\\frac{n}{4} = \\frac{{100}}{4} = 25\\) nên nhóm chứa tứ phân vị thứ nhất là nhóm \\(\\left[ {30;40} \\right)\\). Ta có \\({Q_1} = 30 + \\frac{{25 - 24}}{{26}}.10 \\approx 30,38\\). Do \\(\\frac{{3n}}{4} = \\frac{{3.100}}{4} = 75\\) nên nhóm chứa tứ phân vị thứ ba là nhóm \\(\\left[ {50;60} \\right)\\), ta có \\({Q_1} = 50 + \\frac{{75 - 70}}{{15}}.10 \\approx 53,33\\). Vậy khoảng tứ phân vị của mẫu số liệu ghép nhóm là \\({\\Delta _Q} = {Q_3} - {Q_1} \\approx 53,33 - 30,38 = 22,95.\\)"
+    }
+  ]
+}

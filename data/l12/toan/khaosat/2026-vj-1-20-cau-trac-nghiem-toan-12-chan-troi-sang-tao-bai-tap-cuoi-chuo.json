@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-1-20-cau-trac-nghiem-toan-12-chan-troi-sang-tao-bai-tap-cuoi-chuo",
+  "sourceId": "vietjack:1-20-cau-trac-nghiem-toan-12-chan-troi-s",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.20 câu trắc nghiệm Toán 12 Chân trời sáng tạo Bài tập cuối chương III (Đúng sai - Trả lời ngắn) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: TRẮC NGHIỆM NHIỀU LỰA CHỌN Kết quả đo chiều cao của 100 cây keo 3 năm tuổi tại một nông trường được cho ở bảng sau: Chiều cao (m) [8,4; 8,6) [8,6; 8,8) [8,8; 9,0) [9,0; 9,2) [9,2; 9,4) Số cây 5 12 25 44 14 Hãy tìm khoảng tứ phân vị của mẫu số liệu ghép nhóm trên:",
+      "options": [
+        "A. 0,286.",
+        "B. 0,268.",
+        "C. 0,386.",
+        "D. 0,4."
+      ],
+      "answer": "A",
+      "note": "Cỡ mẫu n = 100. Gọi \\({x_1};{x_2};...;{x_{100}}\\) là chiều cao tương ứng của 100 cây keo. Tứ phân vị thứ nhất là \\(\\frac{{{x_{25}} + {x_{26}}}}{2} \\in {\\rm{[8}}{\\rm{,8;9}}{\\rm{,0]}}\\). Do đó \\({Q_1} = 8,8 + \\frac{{\\frac{{100}}{4} - (5 + 12)}}{{25}}(9,0 - 8,8) = 8,864\\) Tứ phân vị thứ ba là \\(\\frac{{{x_{75}} + {x_{76}}}}{2} \\in {\\rm{[9}}{\\rm{,0;9}}{\\rm{,2]}}\\). Do đó \\({Q_3} = 9 + \\frac{{3.\\frac{{100}}{4} - (5 + 12 + 25)}}{{44}}(9,2 - 9,0) = 9,15\\) Khoảng tứ phân vị: \\(\\Delta Q = {Q_3} - {Q_1} = 9,15 - 8,864 = 0,286\\)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Bạn Minh Anh sử dụng vòng tay thông minh để ghi lại số bước chân mà bạn đi mỗi ngày trong một tháng. Kết quả được ghi lại ở bảng sau: Số bước (đơn vị: nghìn) [3; 5) [5; 7) [7; 9) [9; 11) [11; 13) Số ngày 6 7 6 6 5 Tính độ lệch chuẩn của mẫu số liệu trên?",
+      "options": [
+        "A. \\[7,56\\].",
+        "B. \\[5,72\\].",
+        "C. \\[2,75\\].",
+        "D. \\[1,75\\]."
+      ],
+      "answer": "C",
+      "note": ". Cỡ mẫu n = 30 Số bước (đơn vị: nghìn) [3; 5) [5; 7) [7; 9) [9; 11) [11; 13) Số ngày 6 7 6 6 5 Phần tử đại diện 4 6 8 10 12 Số trung bình \\[\\overline x = \\frac{{6.4 + 7.6 + 6.8 + 6.10 + 5.12}}{{30}} = 7,8\\]. Phương sai: \\[{S^2} = \\frac{1}{{30}}\\left( {{{6.4}^2} + {{7.6}^2} + {{6.8}^2} + {{6.10}^2} + {{5.12}^2}} \\right) - {\\left( {7,8} \\right)^2} = 7,56\\]. Độ lệch chuẩn: \\[\\sqrt {7,56} \\approx 2,75\\]."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Doanh thu bán hàng trong 20 ngày được lựa chọn ngẫu nhiên của một cửa hàng được ghi lại ở bảng sau (đơn vị: triệu đồng): Tứ phân vị thứ nhất của mẫu số liệu trên gần nhất với giá trị nào trong các giá trị sau?",
+      "options": [
+        "A. 7.",
+        "B. \\(7,6\\) .",
+        "C. \\(8\\).",
+        "D. \\(8,6\\)."
+      ],
+      "answer": "C",
+      "note": "Tứ phân vị thứ nhất của dãy số liệu là \\(\\frac{1}{2}\\left( {{x_5} + {x_6}} \\right)\\) thuộc nhóm \\([7;9)\\) nên tứ phân vị thứ nhất của mẫu số liệu là \\({Q_1} = 7 + \\frac{{\\frac{{20}}{4} - 2}}{7}(9 - 7) \\approx 7,86\\)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho mẫu số liệu ghép nhóm như sau: Nhóm \\[\\left[ {40;47} \\right)\\] \\[\\left[ {47;54} \\right)\\] \\[\\left[ {54;61} \\right)\\] \\[\\left[ {61;68} \\right)\\] \\[\\left[ {68;75} \\right)\\] Tần số \\[1\\] \\[6\\] \\[21\\] \\[21\\] \\[11\\] \\[n = 60\\] Khoảng biến thiên của mẫu số liệu ghép nhóm đã cho bằng",
+      "options": [
+        "A. \\(7\\).",
+        "B. \\(60\\).",
+        "C. \\(35\\).",
+        "D. \\(20\\)."
+      ],
+      "answer": "C",
+      "note": "Khoảng biến thiên của mẫu số liệu ghép nhóm đã cho bằng \\(R = 75 - 40 = 35\\) (tạ/ha)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Một bác tài xế thống kê lại độ dài quãng đường (đơn vị: km) bác đã lái xe mỗi ngày trong một tháng ở bảng sau: Độ dài quãng đường (km) \\[\\left[ {50;100} \\right)\\] \\[\\left[ {100;150} \\right)\\] \\[\\left[ {150;200} \\right)\\] \\[\\left[ {200;250} \\right)\\] \\[\\left[ {250;300} \\right)\\] Giá trị trung bình (km) \\[75\\] \\[125\\] \\[175\\] \\[225\\] \\[275\\] Số ngày \\[5\\] \\[10\\] \\[9\\] \\[4\\] \\[2\\] \\[n = 30\\] Phương sai của mẫu số liệu trên được thực hiện bởi phép tính",
+      "options": [
+        "A. \\({s^2} = 155\\).",
+        "B. \\({s^2} = \\frac{{{{\\left( {75 - 155} \\right)}^2} + {{\\left( {125 - 155} \\right)}^2} + {{\\left( {175 - 155} \\right)}^2} + {{\\left( {225 - 155} \\right)}^2} + {{\\left( {275 - 155} \\right)}^2}}}{{30}}\\).",
+        "C. \\({s^2} = 5{\\left( {75 - 155} \\right)^2} + 10{\\left( {125 - 155} \\right)^2} + 9{\\left( {175 - 155} \\right)^2} + 4{\\left( {225 - 155} \\right)^2} + 2{\\left( {275 - 155} \\right)^2}\\).",
+        "D. \\({s^2} = \\frac{{5{{\\left( {75 - 155} \\right)}^2} + 10{{\\left( {125 - 155} \\right)}^2} + 9{{\\left( {175 - 155} \\right)}^2} + 4{{\\left( {225 - 155} \\right)}^2} + 2{{\\left( {275 - 155} \\right)}^2}}}{{30}}\\)."
+      ],
+      "answer": "D",
+      "note": "Số trung bình: \\(\\overline x = \\frac{{5.75 + 10.125 + 9.175 + 4.225 + 2.275}}{{30}} = 155\\). Phương sai của mẫu số liệu trên được thực hiện bởi phép tính \\({s^2} = \\frac{{5{{\\left( {75 - 155} \\right)}^2} + 10{{\\left( {125 - 155} \\right)}^2} + 9{{\\left( {175 - 155} \\right)}^2} + 4{{\\left( {225 - 155} \\right)}^2} + 2{{\\left( {275 - 155} \\right)}^2}}}{{30}}\\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Xét mẫu số liệu ghép nhóm cho bởi bảng Nhóm Tần số \\(\\left[ {{a_1}\\,;\\,{a_2}} \\right)\\) \\(\\left[ {{a_2}\\,;\\,{a_3}} \\right)\\) … \\(\\left[ {{a_m}\\,;\\,{a_{m + 1}}} \\right)\\) \\({n_1}\\) \\({n_2}\\) … \\({n_m}\\) \\(n\\) Khoảng biến thiên của mẫu số liệu ghép nhóm đó bằng",
+      "options": [
+        "A. \\({a_{m + 1}} - {a_1}\\).",
+        "B. \\({a_{m + 1}} - {a_m}\\).",
+        "C. \\({n_m} - {n_1}\\).",
+        "D. \\(n - {n_m}\\)."
+      ],
+      "answer": "A",
+      "note": "Khoảng biến thiên của mẫu số liệu ghép nhóm là \\[{a_{m + 1}} - {a_1}.\\]"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Bảng dưới biểu thị kết quả điều tra thời gian sử dụng Internet hằng ngày của một số người. Tìm khoảng biến thiên của mẫu số liệu đã cho. Thời gian (phút) \\(\\left[ {30;60} \\right)\\) \\(\\left[ {60;90} \\right)\\) \\(\\left[ {90;120} \\right)\\) \\(\\left[ {120;150} \\right)\\) \\(\\left[ {150;180} \\right)\\) Số người 2 4 10 5 3",
+      "options": [
+        "A. \\[120\\].",
+        "B. \\[150\\].",
+        "C. \\[90\\].",
+        "D. \\[180\\]."
+      ],
+      "answer": "B",
+      "note": "Khoảng biến thiên của mẫu số liệu là \\(R = 180 - 30 = 150\\)."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Bạn Chi rất thích nhảy hiện đại. Thời gian tập nhảy mỗi ngày trong thời gian gần đây của bạn Chi được thống kê lại ở bảng sau: Thời gian (phút) \\(\\left[ {20;\\,25} \\right)\\) \\(\\left[ {25;\\,30} \\right)\\) \\(\\left[ {30;\\,35} \\right)\\) \\(\\left[ {35;\\,40} \\right)\\) \\(\\left[ {40;\\;45} \\right)\\) Số ngày 6 6 4 1 1 Phương sai của mẫu số liệu ghép nhóm là (làm tròn đến hàng phần trăm)",
+      "options": [
+        "A. 31,77.",
+        "B. 31,25.",
+        "C. 31,44.",
+        "D. 32,25."
+      ],
+      "answer": "B",
+      "note": "+ Cỡ mẫu: \\(n = 18\\). Thời gian (phút) \\(\\left[ {20;\\,25} \\right)\\) \\(\\left[ {25;\\,30} \\right)\\) \\(\\left[ {30;\\,35} \\right)\\) \\(\\left[ {35;\\,40} \\right)\\) \\(\\left[ {40;\\;45} \\right)\\) Giá trị đại diện 22,5 27,5 32,5 37,5 42,5 Số ngày 6 6 4 1 1 + Số trung bình của mẫu số liệu ghép nhóm là: \\[\\overline x = \\frac{{22,5.6 + 27,5.6 + 32,5.4 + 37,5.1 + 42,5.1}}{{18}} = \\frac{{85}}{3}\\]. + Phương sai của mẫu số liệu ghép nhóm là \\[{S^2} = \\frac{1}{{18}}\\left( {{{22,5}^2}.6 + {{27,5}^2}.6 + {{32,5}^2}.4 + {{37,5}^2}.1 + {{42,5}^2}.1} \\right) - {\\left( {\\frac{{85}}{3}} \\right)^2} = 31,25\\]."
+    }
+  ]
+}

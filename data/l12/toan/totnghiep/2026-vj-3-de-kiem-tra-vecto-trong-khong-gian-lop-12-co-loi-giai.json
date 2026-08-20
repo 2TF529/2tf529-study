@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-3-de-kiem-tra-vecto-trong-khong-gian-lop-12-co-loi-giai",
+  "sourceId": "vietjack:3-de-kiem-tra-vecto-trong-khong-gian-lop",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "title": "3.Đề kiểm tra Vectơ trong không gian lớp 12 (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: PHẦN 1: CÂU HỎI TRẮC NGHIỆM Trong không gian cho 3 điểm \\[M,{\\rm{ }}N,{\\rm{ }}P\\] phân biệt. Tính \\(\\overrightarrow {PM} + \\overrightarrow {MN} \\) .",
+      "options": [
+        "A. \\[\\overrightarrow {NM} \\] .",
+        "B. \\[\\overrightarrow {MN} \\] .",
+        "C. \\[\\overrightarrow {NP} \\] .",
+        "D. \\[\\overrightarrow {PN} \\] ."
+      ],
+      "answer": "D",
+      "note": "Theo quy tắc ba điểm ta có \\(\\overrightarrow {PM} + \\overrightarrow {MN} = \\overrightarrow {PN} \\)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hình lập phương \\[ABCD.A'B'C'D'\\]. Vectơ có điểm đầu và điểm cuối là các đỉnh của hình lập phương \\[ABCD.A'B'C'D'\\] và bằng vectơ \\(\\overrightarrow {AD} \\) là",
+      "options": [
+        "A. \\[\\overrightarrow {B'C'} \\] .",
+        "B. \\[\\overrightarrow {DA} \\] .",
+        "C. \\[\\overrightarrow {CB} \\] .",
+        "D. \\[\\overrightarrow {AB} \\] ."
+      ],
+      "answer": "A",
+      "note": "Do \\[ABCD.A'B'C'D'\\] là hình lập phương nên ta có \\(AD = B'C'\\) Ta thấy \\(\\overrightarrow {AD} \\) và \\[\\overrightarrow {B'C'} \\] cùng hướng . Do đó \\(\\overrightarrow {AD} = \\overrightarrow {B'C'} \\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Gọi \\(I\\) là trung điểm của \\(AB\\) . Khẳng định nào sau đây sai ?",
+      "options": [
+        "A. \\(\\overrightarrow {IA} + \\overrightarrow {IB} = \\overrightarrow 0 \\) .",
+        "B. \\[IA = IB\\] .",
+        "C. \\(\\overrightarrow {IA} = \\overrightarrow {IB} \\) .",
+        "D. \\(\\overrightarrow {MA} + \\overrightarrow {MB} = 2\\overrightarrow {MI} \\) ."
+      ],
+      "answer": "C",
+      "note": "\\(I\\) là trung điểm của \\(AB\\) nên ta có \\[IA = IB\\] và hai vecto ngược hướng . Do đó \\(\\overrightarrow {IA} = - \\overrightarrow {IB} \\). Vậy khẳng định sai là \\(\\overrightarrow {IA} = \\overrightarrow {IB} \\) nên ta chọn C."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hình hộp \\[ABCD.EFGH\\] . Kết quả quả phép toán \\[\\overrightarrow {AB} - \\overrightarrow {EH} \\] là",
+      "options": [
+        "A. \\[\\overrightarrow {BD} \\] .",
+        "B. \\[\\overrightarrow {AE} \\] .",
+        "C. \\[\\overrightarrow {DB} \\] .",
+        "D. \\[\\overrightarrow {BH} \\] ."
+      ],
+      "answer": "C",
+      "note": "Do \\[ABCD.EFGH\\] là hình hộp nên \\[EH = AD\\] và hai vecto \\[\\overrightarrow {EH} ,\\overrightarrow {AD} \\] cùng hướng nên \\[\\overrightarrow {EH} = \\overrightarrow {AD} \\] Ta có \\[\\overrightarrow {AB} - \\overrightarrow {EH} = \\overrightarrow {AB} - \\overrightarrow {AD} = \\overrightarrow {DB} \\]."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hai vectơ \\[\\overrightarrow u ,\\overrightarrow v \\] có \\[\\left| {\\overrightarrow u } \\right| = 3,\\left| {\\overrightarrow v } \\right| = 4\\] và góc giữa hai vectơ \\[\\overrightarrow u ,\\overrightarrow v \\] bằng \\[{60^o}\\]. Tích vô hướng \\[\\overrightarrow u .\\overrightarrow v \\] bằng",
+      "options": [
+        "A. \\[12\\] .",
+        "B. \\[6\\] .",
+        "C. \\[ - 12\\] .",
+        "D. \\[ - 6\\] ."
+      ],
+      "answer": "B",
+      "note": "Ta có \\[\\overrightarrow u .\\overrightarrow v = \\left| {\\overrightarrow u } \\right|.\\left| {\\overrightarrow v } \\right|.\\cos \\left( {\\overrightarrow u ,\\overrightarrow v } \\right) = 3.4.\\cos {60^o} = 6\\]."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong không gian, cho 3 điểm \\[A,\\;B,\\;C\\] phân biệt. Hiệu hai véc tơ \\(\\overrightarrow {AB} - \\overrightarrow {AC} \\) bằng",
+      "options": [
+        "A. \\[\\overrightarrow {CB} .\\]",
+        "B. \\[\\overrightarrow {BC} \\] .",
+        "C. \\[\\overrightarrow {BA} \\] .",
+        "D. \\[\\overrightarrow {CA} \\] ."
+      ],
+      "answer": "A",
+      "note": "Theo quy tắc hiệu hai véctơ chung gốc, ta có \\(\\overrightarrow {AB} - \\overrightarrow {AC} = \\overrightarrow {CB} \\)."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Cho hình hình hộp\\[ABCD.A'B'C'D'\\], có đáy \\[ABCD\\] hình bình hành tâm \\(O\\). Khi đó \\[2.\\overrightarrow {AO} \\] bằng véc tơ nào sau đây?",
+      "options": [
+        "A. \\[\\overrightarrow {AC} \\] .",
+        "B. \\[\\overrightarrow {AD} \\] .",
+        "C. \\[\\overrightarrow {A'C} \\] .",
+        "D. \\[\\overrightarrow {AB} \\] ."
+      ],
+      "answer": "A",
+      "note": "Trong hình hình hộp\\[ABCD.A'B'C'D'\\], ta có \\(\\overrightarrow {AC} \\) và \\[\\overrightarrow {AO} \\] cùng hướng và\\(AC = 2AO\\) Do đó \\(\\overrightarrow {AC} = 2\\overrightarrow {AO} .\\)"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho biết \\[G\\] là trọng tâm của tứ diện \\[ABCD\\] , mệnh đề nào sau đây đúng?",
+      "options": [
+        "A. \\[GA = GB = GC = GD\\] .",
+        "B. \\[\\overrightarrow {GA} + \\overrightarrow {GB} + \\overrightarrow {GC} + \\overrightarrow {GD} = \\overrightarrow 0 \\]",
+        "C. \\[\\overrightarrow {GA} - \\overrightarrow {GB} = \\overrightarrow {GC} - \\overrightarrow {GD} \\]",
+        "D. \\[GA + GB + GC + GD = 0\\]"
+      ],
+      "answer": "B",
+      "note": "\\(G\\) là trọng tâm tứ diện \\(ABCD\\) khi và chỉ khi \\[\\overrightarrow {GA} + \\overrightarrow {GB} + \\overrightarrow {GC} + \\overrightarrow {GD} = \\overrightarrow 0 \\]."
+    }
+  ]
+}

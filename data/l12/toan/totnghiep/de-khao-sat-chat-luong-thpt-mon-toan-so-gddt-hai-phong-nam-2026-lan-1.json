@@ -1,0 +1,196 @@
+{
+  "id": "l12-toan-totnghiep-2026-de-khao-sat-chat-luong-thpt-mon-toan-so-gddt-hai-phong-nam-2026-lan-1",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "code": "THPT_TKT_2026_HP_02",
+  "title": "Đề khảo sát chất lượng THPT môn Toán Sở GD&ĐT Hải Phòng năm 2026 - Lần 1",
+  "duration": 90,
+  "answerSource": "official",
+  "source": "https://dolthpt.vn/de-khao-sat-chat-luong-thpt-mon-toan-so-gddt-hai-phong-nam-2026-lan-1-co-dap-an",
+  "notes": "Nội dung, đáp án và lời giải được nhập từ bản công khai của DOL THPT.",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "content": "Cho tứ diện $ABCD$ có $M,N$ lần lượt là trung điểm của $AB,AC$. Mặt phẳng nào sau đây song song với đường thẳng $MN$?",
+      "chuong": "quan hệ song song trong không gian",
+      "dang": "điều kiện và tính chất của đường thẳng song song với mặt phẳng",
+      "type": "single",
+      "options": [
+        "A. $(ACD)$.",
+        "B. $(ABD)$.",
+        "C. $(ABC)$.",
+        "D. $(BCD)$."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- $M,N$ lần lượt là trung điểm của $AB$ và $AC$ trong tam giác $ABC$.\n- Cần tìm mặt phẳng song song với đường thẳng $MN$.\n❓ **Hiểu câu hỏi:**\n- Trong tam giác, đoạn thẳng nối trung điểm hai cạnh thì song song với cạnh còn lại.\n- Sau khi tìm được $MN\\parallel BC$, ta chọn mặt phẳng chứa $BC$ nhưng không chứa $MN$.\n🔎 **Hướng dẫn cách làm:**\n- Vì $M,N$ là trung điểm của $AB,AC$ nên trong tam giác $ABC$ ta có $MN\\parallel BC$.\n- Đường thẳng $BC$ nằm trong mặt phẳng $\\left(BCD\\right)$.\n- Đường thẳng $MN$ nằm trong mặt phẳng $\\left(ABC\\right)$ nên không nằm trong mặt phẳng $\\left(BCD\\right)$.\n- Một đường thẳng song song với một đường thẳng nằm trong mặt phẳng và không nằm trong mặt phẳng đó thì song song với mặt phẳng ấy.\n- Vậy $MN\\parallel \\left(BCD\\right)$.\n✅ **Đáp án:** Chọn D. $(BCD)$."
+    },
+    {
+      "id": 2,
+      "content": "Cho hàm số $f(x)$ có bảng biến thiên như sau: Giá trị cực đại của hàm số đã cho bằng\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gddt-hai-phong-nam-2026-lan-1/cau-02.webp\" alt=\"Hình minh họa câu 2\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "cực trị của hàm số",
+      "type": "single",
+      "options": [
+        "A. \\$2$.",
+        "B. $-2$.",
+        "C. \\$3$.",
+        "D. $-1$."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Từ bảng biến thiên, ta thấy $f'(x)<0$ trên $\\left(-\\infty;-2\\right)$, $f'(x)>0$ trên $\\left(-2;2\\right)$ và $f'(x)<0$ trên $\\left(2;+\\infty\\right)$.\n- Giá trị tại các điểm cực trị là $f(-2)=-1$ và $f(2)=3$.\n❓ **Hiểu câu hỏi:**\n- Cực đại xảy ra khi hàm số đổi dấu đạo hàm từ dương sang âm.\n- Ta chỉ cần nhìn trực tiếp vào bảng biến thiên để lấy giá trị cực đại.\n🔎 **Hướng dẫn cách làm:**\n- Tại $x=-2$, dấu của $f'(x)$ đổi từ âm sang dương nên đó là điểm cực tiểu, với giá trị cực tiểu là $-1$.\n- Tại $x=2$, dấu của $f'(x)$ đổi từ dương sang âm nên đó là điểm cực đại.\n- Giá trị cực đại đọc từ bảng là $f(2)=3$.\n✅ **Đáp án:** Chọn C. \\$3$."
+    },
+    {
+      "id": 3,
+      "content": "Trong không gian với hệ trục tọa độ $Oxyz$, cho các điểm $A(2;2;3),B(2;-2;-1)$. Tọa độ của điểm $M$ thỏa mãn hệ thức $\\vec{MA}+3\\vec{MB}=\\vec{0}$ là",
+      "chuong": "vectơ và hệ trục tọa độ trong không gian",
+      "dang": "tổng và hiệu của hai vectơ trong không gian",
+      "type": "single",
+      "options": [
+        "A. $(2;-1;0)$.",
+        "B. $(-2;-1;0)$.",
+        "C. $(2;1;0)$.",
+        "D. $(2;-1;1)$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Trong không gian $Oxyz$, có $A(2;2;3)$ và $B(2;-2;-1)$.\n- Điểm $M$ thỏa mãn $\\vec{MA}+3\\vec{MB}=\\vec{0}$.\n❓ **Hiểu câu hỏi:**\n- Ta đổi điều kiện vectơ về tọa độ để tìm $M$.\n- Dùng công thức $\\vec{MA}=A-M$ và $\\vec{MB}=B-M$.\n🔎 **Hướng dẫn cách làm:**\n- Từ $\\vec{MA}+3\\vec{MB}=\\vec{0}$, ta có $\\left(A-M\\right)+3\\left(B-M\\right)=\\vec{0}$.\n- Suy ra $A+3B-4M=\\vec{0}$ nên \\$4M=A+3B$.\n- Do đó $M=\\dfrac{A+3B}{4}=\\left(\\dfrac{2+3\\cdot 2}{4};\\dfrac{2+3\\cdot \\left(-2\\right)}{4};\\dfrac{3+3\\cdot \\left(-1\\right)}{4}\\right)=\\left(2;-1;0\\right)$.\n✅ **Đáp án:** Chọn A. $(2;-1;0)$."
+    },
+    {
+      "id": 4,
+      "content": "Gọi $V$ là thể tích khối tròn xoay tạo thành khi quay hình phẳng giới hạn bởi đồ thị hàm số $y=e^x$, trục hoành và hai đường thẳng $x=0, x=3$ quanh trục $Ox$. Khi đó $V$ bằng",
+      "chuong": "nguyên hàm và tích phân",
+      "dang": "ứng dụng tích phân để tính thể tích vật thể",
+      "type": "single",
+      "options": [
+        "A. $\\int_0^3 e^{2x}\\,dx$.",
+        "B. $\\int_0^3 e^x\\,dx$.",
+        "C. $\\pi\\int_0^3 e^x\\,dx$.",
+        "D. $\\pi\\int_0^3 e^{2x}\\,dx$."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hình phẳng giới hạn bởi $y=e^x$, trục hoành, $x=0$ và $x=3$ được quay quanh trục $Ox$.\n- Cần tính thể tích khối tròn xoay tạo thành.\n❓ **Hiểu câu hỏi:**\n- Khi quay quanh trục $Ox$, dùng công thức đĩa tròn $V=\\pi\\int_a^b y^2\\,dx$.\n- Ở đây bán kính mỗi đĩa là $y=e^x$.\n🔎 **Hướng dẫn cách làm:**\n- Áp dụng công thức thể tích, ta có $V=\\pi\\int_0^3 \\left(e^x\\right)^2\\,dx$.\n- Rút gọn được $V=\\pi\\int_0^3 e^{2x}\\,dx$.\n- Vì vậy đáp án đúng là biểu thức này.\n✅ **Đáp án:** Chọn D. $\\pi\\int_0^3 e^{2x}\\,dx$."
+    },
+    {
+      "id": 5,
+      "content": "Có bao nhiêu nghiệm nguyên trong đoạn $[-8;8]$ của bất phương trình $\\left(\\dfrac{1}{3}\\right)^{x-1}\\le 3$?",
+      "chuong": "hàm số mũ và hàm số lôgarit",
+      "dang": "bất phương trình mũ",
+      "type": "single",
+      "options": [
+        "A. \\$8$.",
+        "B. \\$9$.",
+        "C. \\$16$.",
+        "D. \\$10$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cần tìm số nghiệm nguyên trong đoạn $[-8;8]$ của bất phương trình $\\left(\\dfrac{1}{3}\\right)^{x-1}\\le 3$.\n- Ta có \\$3=\\left(\\dfrac{1}{3}\\right)^{-1}$.\n❓ **Hiểu câu hỏi:**\n- Vì cơ số $\\dfrac{1}{3}$ nhỏ hơn \\$1$ nên hàm mũ là hàm nghịch biến.\n- Khi cùng cơ số nhỏ hơn \\$1$, bất phương trình đổi chiều khi so sánh số mũ.\n🔎 **Hướng dẫn cách làm:**\n- Viết lại vế phải: \\$3=\\left(\\dfrac{1}{3}\\right)^{-1}$.\n- Do đó $\\left(\\dfrac{1}{3}\\right)^{x-1}\\le \\left(\\dfrac{1}{3}\\right)^{-1} \\Rightarrow x-1\\ge -1$.\n- Suy ra $x\\ge 0$.\n- Các số nguyên trong đoạn $[-8;8]$ thỏa mãn là \\$0,1,2,3,4,5,6,7,8$.\n- Có tất cả \\$9$ nghiệm nguyên.\n✅ **Đáp án:** Chọn B. \\$9$."
+    },
+    {
+      "id": 6,
+      "content": "Cho hình chóp $S.ABC$ có đáy $ABC$ là tam giác vuông tại $B$. Cạnh bên $SA$ vuông góc với mặt phẳng đáy (tham khảo hình vẽ). Biết $SA=AB=4a,\\,BC=3a$. Thể tích của khối chóp $S.ABC$ là\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gddt-hai-phong-nam-2026-lan-1/cau-06.webp\" alt=\"Hình minh họa câu 6\" loading=\"lazy\"></figure>",
+      "chuong": "quan hệ vuông góc trong không gian",
+      "dang": "thể tích",
+      "type": "single",
+      "options": [
+        "A. \\$8a^3$.",
+        "B. \\$4a^3$.",
+        "C. \\$16a^3$.",
+        "D. \\$24a^3$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Khối chóp $S.ABC$ có đáy $ABC$ là tam giác vuông tại $B$.\n- $SA\\perp \\left(ABC\\right)$ và $SA=AB=4a,\\,BC=3a$.\n❓ **Hiểu câu hỏi:**\n- Thể tích khối chóp được tính bởi công thức $V=\\dfrac{1}{3}S_{\\text{đáy}}\\cdot h$.\n- Ở đây chiều cao chính là $SA$ vì $SA\\perp \\left(ABC\\right)$.\n🔎 **Hướng dẫn cách làm:**\n- Diện tích đáy là diện tích tam giác vuông $ABC$: $S_{ABC}=\\dfrac{1}{2}\\cdot AB\\cdot BC=\\dfrac{1}{2}\\cdot 4a\\cdot 3a=6a^2$.\n- Chiều cao của khối chóp là $h=SA=4a$.\n- Vậy $V=\\dfrac{1}{3}\\cdot 6a^2\\cdot 4a=8a^3$.\n✅ **Đáp án:** Chọn A. \\$8a^3$."
+    },
+    {
+      "id": 7,
+      "content": "Cho số thực $a>0$. Biểu thức $\\log(1000a)$ bằng biểu thức nào dưới đây?",
+      "chuong": "hàm số mũ và hàm số lôgarit",
+      "dang": "tính chất của lôgarit",
+      "type": "single",
+      "options": [
+        "A. \\$1000\\log a$.",
+        "B. \\$3\\log a$.",
+        "C. \\$1000+\\log a$.",
+        "D. \\$3+\\log a$."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- $a>0$ nên biểu thức $\\log(1000a)$ có nghĩa.\n- Cần rút gọn lôgarit của một tích.\n❓ **Hiểu câu hỏi:**\n- Dùng công thức $\\log(xy)=\\log x+\\log y$.\n- Với lôgarit thập phân, ta có $\\log 1000=3$.\n🔎 **Hướng dẫn cách làm:**\n- Ta viết $\\log(1000a)=\\log 1000+\\log a$.\n- Vì \\$1000=10^3$ nên $\\log 1000=3$.\n- Do đó $\\log(1000a)=3+\\log a$.\n✅ **Đáp án:** Chọn D. \\$3+\\log a$."
+    },
+    {
+      "id": 8,
+      "content": "Nếu cấp số cộng $(u_n)$ có số hạng thứ $n$ là $u_n=3+5n$ thì công sai $d$ bằng",
+      "chuong": "dãy số. cấp số cộng và cấp số nhân",
+      "dang": "định nghĩa cấp số cộng",
+      "type": "single",
+      "options": [
+        "A. \\$5$.",
+        "B. \\$3$.",
+        "C. $-2$.",
+        "D. \\$8$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cấp số cộng $\\left(u_n\\right)$ có số hạng tổng quát $u_n=3+5n$.\n- Cần tìm công sai $d$.\n❓ **Hiểu câu hỏi:**\n- Với cấp số cộng, công sai là hiệu của hai số hạng liên tiếp: $d=u_{n+1}-u_n$.\n- Chỉ cần thay công thức vào rồi rút gọn.\n🔎 **Hướng dẫn cách làm:**\n- Ta có $u_{n+1}=3+5\\left(n+1\\right)=8+5n$.\n- Suy ra $d=u_{n+1}-u_n=\\left(8+5n\\right)-\\left(3+5n\\right)=5$.\n- Vậy công sai của cấp số cộng là \\$5$.\n✅ **Đáp án:** Chọn A. \\$5$."
+    },
+    {
+      "id": 9,
+      "content": "Một cửa hàng quần áo khảo sát một số khách hàng xem họ dự định mua quần áo cho trẻ em với mức giá nào (đơn vị: nghìn đồng). Kết quả khảo sát được ghi lại ở bảng.\nKhoảng $[a;b),\\,(a,b\\in\\mathbb{R})$ chứa tứ phân vị thứ nhất của mẫu số liệu ghép nhóm trên. Tính tổng $S=a+b$ được kết quả là\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gddt-hai-phong-nam-2026-lan-1/cau-09.webp\" alt=\"Hình minh họa câu 9\" loading=\"lazy\"></figure>",
+      "chuong": "các số đặc trưng đo mức độ phân tán cho mẫu số liệu ghép nhóm",
+      "dang": "khoảng tứ phân vị",
+      "type": "single",
+      "options": [
+        "A. \\$210$.",
+        "B. \\$90$.",
+        "C. \\$150$.",
+        "D. \\$120$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Bảng tần số ghép nhóm có các lớp giá $[60;90),[90;120),[120;150),[150;180),[180;210),[210;240),[240;270),[270;300)$.\n- Tần số tương ứng là \\$20,65,40,25,12,10,8,5$.\n❓ **Hiểu câu hỏi:**\n- Cần xác định khoảng chứa tứ phân vị thứ nhất $Q_1$.\n- Với mẫu ghép nhóm, ta xét vị trí $\\dfrac{n}{4}$ trong bảng tần số tích lũy.\n🔎 **Hướng dẫn cách làm:**\n- Tổng số khách hàng là $n=20+65+40+25+12+10+8+5=185$.\n- Vị trí của $Q_1$ là $\\dfrac{n}{4}=\\dfrac{185}{4}=46{,}25$.\n- Tần số tích lũy đến lớp thứ nhất là \\$20$, đến lớp thứ hai là \\$20+65=85$.\n- Vì \\$20<46{,}25\\le 85$ nên $Q_1$ nằm trong lớp $[90;120)$.\n- Do đó $a=90,\\,b=120$ nên $S=a+b=210$.\n✅ **Đáp án:** Chọn A. \\$210$."
+    },
+    {
+      "id": 10,
+      "content": "Cho hàm số $f(x)=ax^3+bx^2+cx+d$ có đồ thị như hình vẽ và $a,b,c,d$ là các số thực. Khẳng định nào sau đây là đúng\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gddt-hai-phong-nam-2026-lan-1/cau-10.webp\" alt=\"Hình minh họa câu 10\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "khảo sát và vẽ đồ thị hàm số đa thức bậc ba",
+      "type": "single",
+      "options": [
+        "A. $ad>0$.",
+        "B. $a+d<0$.",
+        "C. $a+d>0$.",
+        "D. $ad<0$."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số có dạng $f(x)=ax^3+bx^2+cx+d$.\n- Đồ thị là một đường bậc ba đi từ dưới bên trái lên trên bên phải.\n- Đồ thị đi qua gốc tọa độ $O$.\n❓ **Hiểu câu hỏi:**\n- Ta cần xét dấu của $a$ và $d$ dựa vào đồ thị.\n- Sau đó kiểm tra từng biểu thức trong các đáp án.\n🔎 **Hướng dẫn cách làm:**\n- Vì đồ thị đi từ dưới bên trái lên trên bên phải nên hệ số bậc ba dương, tức là:\n$a>0$\n- Đồ thị đi qua gốc tọa độ $O(0;0)$ nên:\n$f(0)=d=0$\n- Khi đó:\n$a+d=a+0=a>0$\n- Vậy mệnh đề đúng là:\n$a+d>0$\n✅ **Đáp án:** Chọn C. $a+d>0$"
+    },
+    {
+      "id": 11,
+      "content": "Trong không gian $Oxyz$, cho hai điểm $A(1;2;3)$ và $B(2;-1;1)$. Phương trình của mặt phẳng đi qua điểm $A$ và vuông góc với $AB$ là",
+      "chuong": "phương pháp tọa độ trong không gian",
+      "dang": "lập phương trình tổng quát của mặt phẳng",
+      "type": "single",
+      "options": [
+        "A. $x-3y-2z+13=0$.",
+        "B. $x-3y-2z+11=0$.",
+        "C. $x-3y+2z-1=0$.",
+        "D. $x+3y-2z+1=0$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Mặt phẳng cần tìm đi qua $A(1;2;3)$.\n- Mặt phẳng vuông góc với $AB$ nên có vectơ pháp tuyến cùng phương với $\\vec{AB}$.\n❓ **Hiểu câu hỏi:**\n- Trước hết tính $\\vec{AB}$.\n- Sau đó viết phương trình mặt phẳng qua một điểm và có vectơ pháp tuyến đã biết.\n🔎 **Hướng dẫn cách làm:**\n- Ta có $\\vec{AB}=(2-1;-1-2;1-3)=(1;-3;-2)$.\n- Vì mặt phẳng vuông góc với $AB$ nên có thể nhận $\\vec{n}=(1;-3;-2)$ làm vectơ pháp tuyến.\n- Phương trình mặt phẳng qua $A(1;2;3)$ là \\$1\\left(x-1\\right)-3\\left(y-2\\right)-2\\left(z-3\\right)=0$.\n- Rút gọn được $x-3y-2z+11=0$.\n✅ **Đáp án:** Chọn B. $x-3y-2z+11=0$."
+    },
+    {
+      "id": 12,
+      "content": "Tập nghiệm của phương trình $\\cos x=0$ là",
+      "chuong": "hàm số lượng giác và phương trình lượng giác",
+      "dang": "phương trình cosx=m",
+      "type": "single",
+      "options": [
+        "A. $S=\\left\\{\\pi+k2\\pi,\\,k\\in\\mathbb{Z}\\right\\}$.",
+        "B. $S=\\left\\{\\dfrac{\\pi}{4}+k2\\pi,\\,k\\in\\mathbb{Z}\\right\\}$.",
+        "C. $S=\\left\\{k2\\pi,\\,k\\in\\mathbb{Z}\\right\\}$.",
+        "D. $S=\\left\\{\\dfrac{\\pi}{2}+k\\pi,\\,k\\in\\mathbb{Z}\\right\\}$."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cần giải phương trình lượng giác $\\cos x=0$.\n- Ta cần nhớ các vị trí trên đường tròn lượng giác mà cos bằng \\$0$.\n❓ **Hiểu câu hỏi:**\n- $\\cos x$ là hoành độ điểm biểu diễn góc $x$ trên đường tròn lượng giác.\n- Hoành độ bằng \\$0$ tại hai vị trí $\\dfrac{\\pi}{2}$ và $\\dfrac{3\\pi}{2}$, gộp lại thành một công thức tổng quát.\n🔎 **Hướng dẫn cách làm:**\n- Phương trình $\\cos x=0$ có nghiệm cơ bản là $x=\\dfrac{\\pi}{2}$ và $x=\\dfrac{3\\pi}{2}$.\n- Viết gọn theo chu kì $\\pi$, ta được $x=\\dfrac{\\pi}{2}+k\\pi,\\,k\\in \\mathbb{Z}$.\n- Vậy tập nghiệm là $S=\\left\\{\\dfrac{\\pi}{2}+k\\pi,\\,k\\in \\mathbb{Z}\\right\\}$.\n✅ **Đáp án:** Chọn D. $S=\\left\\{\\dfrac{\\pi}{2}+k\\pi,\\,k\\in\\mathbb{Z}\\right\\}$."
+    }
+  ]
+}

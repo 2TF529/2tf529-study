@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-6-de-kiem-tra-duong-thang-vuong-goc-voi-mat-phang-co-loi-giai",
+  "sourceId": "vietjack:6-de-kiem-tra-duong-thang-vuong-goc-voi-",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "6.Đề kiểm tra Đường thẳng vuông góc với mặt phẳng (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho hình chóp \\[S.ABC\\] có \\(SA\\) vuông góc với mặt đáy \\(\\left( {ABC} \\right)\\). Mệnh đề nào sau đây là đúng?",
+      "options": [
+        "A. \\[SA \\bot SB\\].",
+        "B. \\[SA \\bot SC\\].",
+        "C. \\[SA \\bot AB\\].",
+        "D. \\[SB \\bot SC\\]."
+      ],
+      "answer": "C",
+      "note": "\\[\\left. \\begin{array}{l}SA \\bot (ABC)\\\\AB \\subset \\left( {ABC} \\right)\\end{array} \\right\\} \\Rightarrow SA \\bot AB.\\]"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hình chóp \\[S.ABCD\\] đáy \\(ABCD\\) là hình bình hành, \\(SA\\) vuông góc với mặt phẳng \\(\\left( {ABCD} \\right)\\). Góc tạo bởi giữa hai đường thẳng nào sau đây bằng \\(90^\\circ \\)?",
+      "options": [
+        "A. \\[SA,SB\\].",
+        "B. \\[SA,SC\\].",
+        "C. \\[SA,BD\\].",
+        "D. \\[SB,AD\\]."
+      ],
+      "answer": "C",
+      "note": "\\[\\left. \\begin{array}{l}SA \\bot (ABCD)\\\\BD \\subset \\left( {ABCD} \\right)\\end{array} \\right\\} \\Rightarrow SA \\bot BD \\Rightarrow \\left( {SA,BD} \\right) = 90^\\circ .\\]"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho hình chóp \\[S.ABCD\\] có đáy \\(ABCD\\) là hình chữ nhật và \\(SB \\bot BC\\). Mệnh đề nào sau đây là đúng?",
+      "options": [
+        "A. \\[SA \\bot \\left( {ABCD} \\right)\\].",
+        "B. \\[SB \\bot \\left( {ABCD} \\right)\\].",
+        "C. \\[BC \\bot \\left( {SAC} \\right)\\].",
+        "D. \\[BC \\bot \\left( {SAB} \\right)\\]."
+      ],
+      "answer": "D",
+      "note": "\\[\\left. \\begin{array}{l}BC \\bot SB,BC \\bot AB\\\\SB \\cap AB = \\left\\{ {\\left. B \\right\\}} \\right.\\\\SB,AB \\subset \\left( {SAB} \\right)\\end{array} \\right\\} \\Rightarrow BC \\bot \\left( {SAB} \\right).\\]"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho tam giác \\(ABC\\) có bao nhiêu mặt phẳng đi qua điểm \\(A\\) và vuông góc với đường thẳng \\(AB\\)?",
+      "options": [
+        "A. \\[2\\].",
+        "B. Vô số.",
+        "C. \\[0\\].",
+        "D. \\[1\\]."
+      ],
+      "answer": "D",
+      "note": "Theo tính chất qua một điểm cho trước chỉ có duy nhất một mặt phẳng vuông góc với đường thẳng cho trước."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hình bình hành \\(ABCD\\) tâm \\(O\\) có bao nhiêu đường thẳng đi qua điểm \\(O\\) và vuông góc với mặt phẳng \\(\\left( {ABCD} \\right)\\)?",
+      "options": [
+        "A. \\[2\\].",
+        "B. Vô số.",
+        "C. \\[0\\].",
+        "D. \\[1\\]."
+      ],
+      "answer": "D",
+      "note": "Theo tính chất qua một điểm cho trước chỉ có duy nhất một đường thẳng vuông góc với một mặt phẳng cho trước."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho hình chóp \\(S.ABCD\\) có \\(SA \\bot \\left( {ABCD} \\right)\\) và đáy \\(ABCD\\) là hình chữ nhật. Gọi \\(O\\) là tâm của \\(ABCD\\) và \\(I\\) là trung điểm của \\(SC\\). Khẳng định nào sau đây đúng?",
+      "options": [
+        "A. \\(BC \\bot (SAC)\\).",
+        "B. \\(\\left( {SAC} \\right)\\) là mặt phẳng trung trực của đoạn \\(BD\\).",
+        "C. \\(IO \\bot \\left( {ABCD} \\right)\\).",
+        "D. Tam giác \\(SCD\\) vuông ở \\(C\\)."
+      ],
+      "answer": "C",
+      "note": "Theo bài ra ta có: \\(SA \\bot \\left( {ABCD} \\right)\\quad (1)\\). Do \\(O\\) là tâm của hình chữ nhật \\(ABCD\\) và \\(I\\) là trung điểm của \\(SC\\) nên \\(OI\\) là đường trung bình của tam giác \\(SAC\\). Suy ra \\(OI{\\rm{//}}\\,SA\\quad \\,(2).\\) Từ (1) và (2) và theo Định lý 3, a) ta có: \\(IO \\bot \\left( {ABCD} \\right)\\)."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Cho hình chóp \\(S.ABC\\) có \\(SA \\bot \\left( {ABC} \\right)\\) và \\(AB \\bot BC\\). Gọi \\(O\\) là tâm đường tròn ngoại tiếp tam giác \\(SBC\\). \\(H\\) là hình chiếu vuông góc của \\(O\\) lên \\(\\left( {ABC} \\right)\\). Khẳng định nào sau đây đúng?",
+      "options": [
+        "A. \\(H\\)là trung điểm cạnh \\(AB\\).",
+        "B. \\(H\\) là hình chiếu của \\(B\\) trên \\((SAC)\\).",
+        "C. \\(OH{\\rm{//}}\\,SA.\\)",
+        "D. \\(H\\) là tâm đường tròn ngoại tiếp tam giác \\(SAC\\)."
+      ],
+      "answer": "C",
+      "note": "Do \\(\\left\\{ \\begin{array}{l}SA \\bot BC\\\\AB \\bot BC\\end{array} \\right.\\) nên \\(BC \\bot \\left( {SAB} \\right) \\Rightarrow BC \\bot SB \\Rightarrow \\Delta SBC\\) vuông tại \\(B\\). Suy ra \\(O\\) là trung điểm của \\(SC\\). Mặt khác \\(H\\) là hình chiếu vuông góc của \\(O\\) lên \\(\\left( {ABC} \\right)\\) nên \\(OH \\bot \\left( {ABC} \\right)\\). Theo giả thiết, lại có: \\(SA \\bot \\left( {ABC} \\right)\\). Vậy theo Định lý 3, b) ta có: \\(OH{\\rm{//}}\\,SA.\\)"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Mệnh đề nào sau đây sai?",
+      "options": [
+        "A. Hai đường thẳng phân biệt cùng vuông góc với một mặt phẳng thì song song.",
+        "B. Hai mặt phẳng phân biệt cùng vuông góc với một đường thẳng thì song song.",
+        "C. Cho đường thẳng \\(\\Delta \\) song song với mặt phẳng \\(\\left( \\alpha \\right)\\). Đường thẳng nào vuông góc với đường thẳng \\(\\Delta \\) thì cũng vuông góc với mặt phẳng \\(\\left( \\alpha \\right)\\).",
+        "D. Một đường thẳng và một mặt phẳng (không chứa đường thẳng đã cho) cùng vuông góc với một đường thẳng thì song song nhau."
+      ],
+      "answer": "C",
+      "note": "C có thể sai vì: Cho đường thẳng \\(\\Delta \\) song song với mặt phẳng \\(\\left( \\alpha \\right)\\). Đường thẳng vuông góc với\\(\\Delta \\) có thể song song với \\(\\left( \\alpha \\right)\\) nếu nó nằm trong cùng một mặt phẳng với đường thẳng \\(\\Delta \\)."
+    }
+  ]
+}

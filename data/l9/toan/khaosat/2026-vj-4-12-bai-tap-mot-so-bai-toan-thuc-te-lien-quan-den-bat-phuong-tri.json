@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-4-12-bai-tap-mot-so-bai-toan-thuc-te-lien-quan-den-bat-phuong-tri",
+  "sourceId": "vietjack:4-12-bai-tap-mot-so-bai-toan-thuc-te-lie",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "4.12 bài tập Một số bài toán thực tế liên quan đến bất phương trình bậc nhất một ẩn có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Trong một kì thi gồm ba môn Toán, Ngữ Văn và Tiếng Anh, điểm số môn Toán và ngữ văn tính theo hệ số 2, điểm số môn Tiếng Anh tính theo hệ số 1. Để trúng tuyển, điểm số trung bình của ba môn ít nhất phải bằng 8. Bạn Na đã đạt 9,1 điểm môn toán và 6,9 điểm môn Ngữ Văn. Hỏi điểm số Tiếng Anh tối thiểu mà bạn Na phải đạt để trúng tuyển là bao nhiêu?",
+      "options": [
+        "A. 8 điểm.",
+        "B. 9 điểm.",
+        "C. 7 điểm.",
+        "D. 8,5 điểm."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Gọi x là điểm số môn Tiếng Anh của bạn Na. Theo đề, để bạn Na trúng tuyển thì ta có: \\(\\frac{{2.9,1 + 2.6,9 + x}}{5} \\ge 8\\) 18,2 + 13,8 + x ≥ 40 32 + x ≥ 40 x ≥ 40 – 32 x ≥ 8. Vậy để trúng tuyển thì bạn Na phải đạt ít nhất 8 điểm môn Tiếng Anh."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Một ngân hàng đang áp dụng lãi suất tiết kiệm kì hạn 12 tháng là 7,4%/năm. Bà Mai dự định gửi một khoản tiền vào ngân hàng này và cần số tiền lãi hằng năm ít nhất là 60 triệu để chi tiêu. Hỏi số tiền bà Mai cần gửi tiết kiệm ít nhất là bao nhiêu (làm tròn đến hàng triệu đồng)?",
+      "options": [
+        "A. 810 triệu đồng.",
+        "B. 811 triệu đồng.",
+        "C. 812 triệu đồng.",
+        "D. 813 triệu đồng."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Gọi x (triệu đồng) là số tiền bà Mai cần gửi tiết kiệm. Ta có số tiền lãi gửi tiết kiệm x (triệu đồng) trong một năm là 0,074x (triệu đồng). Để có số tiền lãi ít nhất là 60 triệu đồng/ năm thì ta phải có: 0,074x ≥ 60 x ≥ 60 : 0,074 x ≥ 810,81. Vậy bà Mai cần gửi ngân hàng ít nhất 811 triệu đồng."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trong một cuộc thi tuyển dụng việc làm, ban tổ chức quy định mỗi người ứng tuyển phải trả lời 25 câu hỏi ở vòng sơ tuyển. Mỗi câu hỏi này có sẵn bốn đáp án, trong đó chỉ có một đáp án đúng. Người ứng tuyển chọn đáp án đúng sẽ được cộng thêm 2 điểm , chọn đáp án sai bị trừ đi 1 điểm . Ở vòng sơ tuyển, ban tổ chức tặng cho mỗi người dự thi 5 điểm và theo quy định, người ứng tuyển phải trả lời hết 25 câu hỏi; người nào có số điểm từ 25 trở lên mới được dự thi vòng tiếp theo. Hỏi người ứng tuyển phải trả lời chính xác ít nhất bao nhiêu câu hỏi ở vòng sơ tuyển thì mới được vào vòng tiếp theo?",
+      "options": [
+        "A. 15 câu.",
+        "B. 16 câu.",
+        "C. 18 câu.",
+        "D. 20 câu."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Gọi x là số câu trả lời đúng của người ứng tuyển (x ∈ ℕ, câu). Số câu trả lời sai là 25 – x (câu). Số điểm của người ứng tuyển sau 25 câu hỏi là 5 + 2x – (25 – x) = 3x – 20 (điểm). Để vượt qua vòng sơ tuyển cần ít nhất 25 điểm nên ta có bất phương trình: 3x – 20 ≥ 25 3x ≥ 45 x ≥ 15. Vậy người ứng tuyển phải trả lời chính xác ít nhất 15 câu."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Bác Ngọc gửi tiền tiết kiệm kì hạn 12 tháng ở một ngân hàng với lãi suất 7,2%/năm . Bác Ngọc dự định tổng số tiền nhận được sau khi gửi 12 tháng ít nhất là 21440000 đồng . Hỏi bác Ngọc phải gửi số tiền tiết kiệm ít nhất là bao nhiêu để đạt được dự định đó?",
+      "options": [
+        "A. 20 triệu đồng.",
+        "B. 21 triệu đồng.",
+        "C. 22 triệu đồng.",
+        "D. 19 triệu đồng."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Giả sử bác Ngọc gửi x (đồng) tiền tiết kiệm kì hạn 12 tháng (x > 0). Khi đó, tổng số tiền bác Ngọc nhận được khi gửi 12 tháng là: x + 7,2%.x = x + 0,072x = 1,072x (đồng). Theo giả thiết, ta có: 1,072x ≥ 21440000. Giải bất phương trình trên, ta có: 1,072x ≥ 21440000 x ≥ 21440000 : 1,072 x ≥ 20000000. Vậy bác Ngọc phải gửi số tiền tiết kiệm ít nhất 20 triệu đồng để đạt được dự định."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Tổng chi phí của một doanh nghiệp sản xuất áo sơ mi là 410 triệu đồng/tháng. Giá bán của mỗi chiếc áo sơ mi là 350 nghìn đồng. Hỏi trung bình mỗi tháng doanh nghiệp phải bán được ít nhất bao nhiêu chiếc áo sơ mi để thu được lợi nhuận ít nhất là 1,38 tỉ đồng sau 1 năm?",
+      "options": [
+        "A. 1500 chiếc.",
+        "B. 1550 chiếc.",
+        "C. 1050 chiếc.",
+        "D. 1600 chiếc."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Giả sử trung bình mỗi tháng doanh nghiệp bán được x chiếc sơ mi (x ∈ ℕ * ). Lợi nhuận của doanh nghiệp sau 12 tháng là: 12(350000x – 410000000) (đồng). Do đó, để doanh nghiệp thu được lợi nhuận ít nhất là 1,38 tỉ đồng thì 12(350 000x – 410 000 000) ≥ 1 380 000 000 Giải bất phương trình, ta có: 12(350 000x – 410 000 000) ≥ 1 380 000 000 350 000x – 410 000 000 ≥ 115 000 000 350 000x ≥ 525 000 000 x ≥ 1500. Vậy trung bình mỗi tháng doanh nghiệp phải bán được ít nhất 1500 chiếc áo sơ mi để doanh nghiệp thu được lợi nhuận ít nhất là 1,38 tỉ đồng sau một năm."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Mức lương tối thiểu theo quy định ở Pháp năm 2022 là 10,25 € cho mỗi giờ làm việc trong dịp hè, Laurent David làm thêm tại một khách sạn theo mức lương tối thiểu theo quy định và anh ấy muốn kiếm được ít nhất 1500 € trong mùa hè này. Hỏi anh ấy cần làm việc ít nhất bao nhiêu giờ để kiếm được số tiền trên (€ là viết tắt của Euro, là loại tiền tệ của 20 nước thuộc liên minh Châu Âu sử dụng chung).",
+      "options": [
+        "A. 146 giờ.",
+        "B. 147 giờ.",
+        "C. 148 giờ.",
+        "D. 149 giờ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Gọi x là số giờ làm việc để Laurent David kiếm được ít nhất 1500€ trong mùa hè (x > 0). Theo đề bài, ta có bất phương trình: 10,25x ≥ 1500. Giải bất phương trình, ta được: 10,25x ≥ 1500 x ≥ 1500 : 10,25 x ≥ 146,34 Do đó, anh ấy cần làm việc tối thiểu 147 giờ để kiếm được ít nhất 1500€ trong mùa hè này."
+    }
+  ]
+}

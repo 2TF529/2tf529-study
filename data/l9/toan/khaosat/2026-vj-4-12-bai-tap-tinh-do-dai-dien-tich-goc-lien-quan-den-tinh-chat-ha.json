@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-4-12-bai-tap-tinh-do-dai-dien-tich-goc-lien-quan-den-tinh-chat-ha",
+  "sourceId": "vietjack:4-12-bai-tap-tinh-do-dai-dien-tich-goc-l",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "4.12 bài tập Tính độ dài, diện tích, góc liên quan đến tính chất hai tiếp tuyến cắt nhau có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho hai tiếp tuyến tuyến của đường tròn cắt nhau tại một điểm. Chọn khẳng định sai trong các khẳng định dưới đây.",
+      "options": [
+        "A. Khoảng cách từ điểm đó đến hai tiếp tuyến là bằng nhau.",
+        "B. Tia nối điểm đó tới tâm là tia phân giác của góc tạo bởi hai bán kính.",
+        "C. Tia nối từ tâm tới điểm đó là tia phân giác của góc tạo bởi hai bán kính.",
+        "D. Tia nối từ điểm đó tới tâm là tia phân giác của góc tạo bởi tiếp tuyến."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Nếu hai tiếp tuyến của đường tròn cắt nhau tại một điểm thì: - Điểm đó cách đều hai tiếp điểm. - Tia kẻ từ điểm đó đi qua tâm là tia phân giác của các góc tạo bởi hai tiếp tuyến. - Tia kẻ từ tâm đi qua điểm đó là tia phân giác của góc tạo bởi hai bán kính đi qua tiếp điểm."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: “Cho hai tiếp tuyến của một đường trong cắt nhau tại một điểm. Tia nối từ điểm đó tới tia phân giác của góc tạo bởi…… Tia nối từ tâm tới điểm đó là tia phân giác của góc tạo bởi …..”. Hai cụm từ thích hợp vào chỗ trống lần lượt là:",
+      "options": [
+        "A. Hai tiếp tuyến, hai bán kính đi qua tiếp điểm.",
+        "B. Hai bán kính đi qua tiếp điểm, hai tiếp điểm.",
+        "C. Hai tiếp tuyến, hai dây cung.",
+        "D. Hai dây cung, hai bán kính."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Hai tiếp tuyến tại B và C của đường tròn (O) cắt nhau tại A. Khẳng định nào dưới đây là sai?",
+      "options": [
+        "A. OA ⊥ BC.",
+        "B. OA là đường trung trực của BC.",
+        "C. AB = AC.",
+        "D. OA ⊥ BC là H trung điểm của OA."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Gọi H là giao điểm của BC với AO. Xét (O) có hai tiếp tuyến tại B và C cắt nhau tại A nên AB = AC (tính chất). Lại có OB = OC nên OA là đường trung trực của BC hay AO ⊥ BC tại H là trung điểm của BC. Chưa thể kết luận H có là trung điểm của AO hay không nên D sai."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Hai tiếp tuyến tại B và C của đường tròn (O) cắt nhau tại A. Biết OB = 3 cm, OA = 5 cm. Chọn khẳng định sai trong các khẳng định dưới đây?",
+      "options": [
+        "A. AC = AB = 4 cm.",
+        "B. \\(\\widehat {BAO} = \\widehat {CAO}\\).",
+        "C. sin\\(\\widehat {OBA} = \\frac{4}{5}\\).",
+        "D. sin\\(\\widehat {COA} = \\frac{3}{5}\\)."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Xét (O) có AB, AC là hai tiếp tuyến cắt nhau tại A nên AB = AC, \\(\\widehat {BAO} = \\widehat {CAO}\\), \\(\\widehat {BOA} = \\widehat {COA}\\). Xét ∆ABO vuông tại B có OB = 3 cm, OA = 5 cm, theo định lí Pythagore ta có: AB = \\(\\sqrt {O{A^2} - O{B^2}} = 4\\) cm. Nên AC = AB = 4 cm hay đáp án A đúng. Xét tam giác AOB vuông tại B có sin\\(\\widehat {ABO}\\) = \\(\\frac{{AB}}{{OA}} = \\frac{4}{5}\\) nên C đúng. Mà \\(\\widehat {BOA} = \\widehat {COA}\\) nên sin\\(\\widehat {COA}\\) = \\(\\frac{4}{5}\\) do đó D sai. Đáp án cần chọn là D."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho đường tròn (O). Từ một điểm M ở ngoài (O), vẽ hai tiếp tuyến MA và MB sao cho góc \\(\\widehat {AMB} = 120^\\circ \\). Biết chu vi tam giác MAB là 6(3 + 2\\(\\sqrt 3 \\)) cm, tính độ dài AB.",
+      "options": [
+        "A. 18 cm.",
+        "B. \\(6\\sqrt 3 \\) cm.",
+        "C. \\(12\\sqrt 3 \\) cm.",
+        "D. 15 cm."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Gọi R là bán kính của (O). Xét (O) có MA = MB, \\(\\widehat {AMO} = \\widehat {BMO}\\) (tính chất hai tiếp tuyến cắt nhau). Nên \\(\\widehat {AMO} = 60^\\circ \\). Xét tam giác vuông AOM có AM = AO.cot\\(\\widehat {AMO}\\) = \\(\\frac{{R\\sqrt 3 }}{3}\\). nên MA = MB = \\(\\frac{{R\\sqrt 3 }}{3}\\). Lại có \\(\\widehat {AOB} + \\widehat {AMB} = 180^\\circ \\) suy ra \\(\\widehat {AOB} = 60^\\circ \\) suy ra tam giác AOB đều hay AB = OB = OA = R. Chu vi tam giác MAB là MA + MB + AB = \\(\\frac{{R\\sqrt 3 }}{3} + \\frac{{R\\sqrt 3 }}{3} + R = R\\left( {\\frac{{2\\sqrt 3 }}{3} + 1} \\right)\\). Mà chu vi tam giác MAB bằng 6(3 + 2\\(\\sqrt 3 \\)) nên \\(R\\left( {\\frac{{2\\sqrt 3 }}{3} + 1} \\right) = 6(3 + 2\\sqrt 3 )\\) suy ra R = 18 cm hay AB = 18 cm."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho đường tròn (O). Từ một điểm M ở ngoài (O), vẽ hai tiếp tuyến MA và MB sao cho góc \\(\\widehat {AMB} = 60^\\circ \\). Biết chu vi tam giác MAB là 24 cm, tính độ dài bán kính của đường tròn.",
+      "options": [
+        "A. 8 cm.",
+        "B. \\(\\frac{{8\\sqrt 3 }}{3}\\) cm.",
+        "C. 4 cm.",
+        "D. \\(\\frac{{4\\sqrt 3 }}{3}\\) cm."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Gọi R là bán kính của (O). Xét (O) có MA = MB, \\(\\widehat {AMO} = \\widehat {BMO}\\) (tính chất hai tiếp tuyến cắt nhau). Ta có: \\(\\widehat {AMB} = 60^\\circ \\) nên tam giác ABM đều. Do đó, chu vi tam giác ABM là: MA + MB + AB = 3AB = 24 suy ra AB = 8 cm. Lại có \\(\\widehat {AMO} = \\widehat {BMO} = \\frac{1}{2}\\widehat {AMB} = 30^\\circ \\). Xét tam giasv AMO vuông tại A có tan\\(\\widehat {AMO}\\) = \\(\\frac{{OA}}{{MA}}\\) suy ra OA = MA.tan30° = \\(\\frac{{8\\sqrt 3 }}{3}\\) cm."
+    }
+  ]
+}

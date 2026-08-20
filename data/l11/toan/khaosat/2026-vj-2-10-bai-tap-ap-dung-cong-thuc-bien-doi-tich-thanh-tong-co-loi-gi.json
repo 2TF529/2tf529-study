@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-10-bai-tap-ap-dung-cong-thuc-bien-doi-tich-thanh-tong-co-loi-gi",
+  "sourceId": "vietjack:2-10-bai-tap-ap-dung-cong-thuc-bien-doi-",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.10 Bài tập Áp dụng công thức biến đổi tích thành tổng (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Chọn câu sai .",
+      "options": [
+        "A. cos a ⋅ cos b = 1 2 c o s a − b + c o s ( a + b ) ;",
+        "B. sin a ⋅ sin b = 1 2 sin a − b − c o s ( a + b ) ;",
+        "C. sin a ⋅ sin b = 1 2 c o s a − b − c o s ( a + b ) ;",
+        "D. sin a ⋅ c o s b = 1 2 sin a − b + sin ( a + b ) ."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải: Đáp án đúng là: B sin a ⋅ sin b = 1 2 c o s a − b − c o s ( a + b ) ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Chọn câu đúng .",
+      "options": [
+        "A. cos 3 x ⋅ cos 5 x = 1 2 c o s 8 x + c o s 2 x ;",
+        "B. cos 3 x ⋅ cos 5 x = 1 2 c o s 8 x − c o s 2 x ;",
+        "C. cos 3 x ⋅ cos 5 x = 1 2 c o s 2 x − c o s 8 x ;",
+        "D. cos 3 x ⋅ cos 5 x = 1 2 sin 8 x + sin 2 x ."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A cos 3 x ⋅ cos 5 x = 1 2 c o s 8 x + c o s 2 x = 1 2 c o s − 2 x + c o s 8 x = 1 2 c o s 2 x + c o s 8 x ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Giá trị của biểu thức \\(A = cos\\frac{{2\\pi }}{7} + cos\\frac{{4\\pi }}{7} + cos\\frac{{6\\pi }}{7}\\) bằng",
+      "options": [
+        "A. \\(\\frac{1}{2}\\) ;",
+        "B. \\( - \\frac{1}{2}\\) ;",
+        "C. \\(\\frac{1}{4}\\) ;",
+        "D. \\( - \\frac{1}{2}\\) ."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải: Đáp án đúng là: B \\(A = cos\\frac{{2\\pi }}{7} + cos\\frac{{4\\pi }}{7} + cos\\frac{{6\\pi }}{7}\\)\\( = \\frac{{\\sin \\frac{\\pi }{7}\\left( {cos\\frac{{2\\pi }}{7} + cos\\frac{{4\\pi }}{7} + cos\\frac{{6\\pi }}{7}} \\right)}}{{\\sin \\frac{\\pi }{7}}}\\) \\[ = \\frac{{\\sin \\frac{\\pi }{7}cos\\frac{{2\\pi }}{7} + \\sin \\frac{\\pi }{7}cos\\frac{{4\\pi }}{7} + \\sin \\frac{\\pi }{7}cos\\frac{{6\\pi }}{7}}}{{\\sin \\frac{\\pi }{7}}}\\] Ta có \\[\\sin \\frac{\\pi }{7}cos\\frac{{2\\pi }}{7}\\]\\[ = \\frac{1}{2}\\left[ {sin\\left( {\\frac{\\pi }{7} - \\frac{{2\\pi }}{7}} \\right) + \\sin \\left( {\\frac{\\pi }{7} + \\frac{{2\\pi }}{7}} \\right)} \\right]\\] \\[ = \\frac{1}{2}\\left[ {sin\\left( { - \\frac{\\pi }{7}} \\right) + \\sin \\frac{{3\\pi }}{7}} \\right]\\]\\[ = \\frac{1}{2}\\left( { - sin\\frac{\\pi }{7} + \\sin \\frac{{3\\pi }}{7}} \\right)\\] . \\[\\sin \\frac{\\pi }{7}cos\\frac{{4\\pi }}{7}\\]\\[ = \\frac{1}{2}\\left[ {\\sin \\left( {\\frac{\\pi }{7} - \\frac{{4\\pi }}{7}} \\right) + \\sin \\left( {\\frac{\\pi }{7} + \\frac{{4\\pi }}{7}} \\right)} \\right]\\] \\[ = \\frac{1}{2}\\left[ {\\sin \\left( { - \\frac{{3\\pi }}{7}} \\right) + \\sin \\frac{{5\\pi }}{7}} \\right]\\]\\[ = \\frac{1}{2}\\left( { - \\sin \\frac{{3\\pi }}{7} + \\sin \\frac{{5\\pi }}{7}} \\right)\\] . \\[\\sin \\frac{\\pi }{7}cos\\frac{{6\\pi }}{7}\\]\\[ = \\frac{1}{2}\\left[ {\\sin \\left( {\\frac{\\pi }{7} - \\frac{{6\\pi }}{7}} \\right) + \\sin \\left( {\\frac{\\pi }{7} + \\frac{{6\\pi }}{7}} \\right)} \\right]\\] \\[ = \\frac{1}{2}\\left[ {\\sin \\left( { - \\frac{{5\\pi }}{7}} \\right) + \\sin \\pi } \\right]\\]\\[ = \\frac{1}{2}\\left( { - \\sin \\frac{{5\\pi }}{7} + \\sin \\pi } \\right)\\] . Do đó \\[\\sin \\frac{\\pi }{7}cos\\frac{{2\\pi }}{7} + \\sin \\frac{\\pi }{7}cos\\frac{{4\\pi }}{7} + \\sin \\frac{\\pi }{7}cos\\frac{{6\\pi }}{7}\\] \\[ = \\frac{1}{2}\\left( { - sin\\frac{\\pi }{7} + \\sin \\frac{{3\\pi }}{7}} \\right)\\]\\[ + \\frac{1}{2}\\left( { - \\sin \\frac{{3\\pi }}{7} + \\sin \\frac{{5\\pi }}{7}} \\right)\\]\\[ + \\frac{1}{2}\\left( { - \\sin \\frac{{5\\pi }}{7} + \\sin \\pi } \\right)\\] \\[ = \\frac{1}{2}\\left( { - sin\\frac{\\pi }{7} + \\sin \\pi } \\right)\\]\\[ = - \\frac{1}{2}sin\\frac{\\pi }{7}\\] . Do đó \\[A = \\frac{{ - \\frac{1}{2}sin\\frac{\\pi }{7}}}{{sin\\frac{\\pi }{7}}} = - \\frac{1}{2}\\] ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Giá trị của biểu thức \\(\\tan \\frac{\\pi }{{24}} + \\tan \\frac{{7\\pi }}{{24}}\\) bằng",
+      "options": [
+        "A. \\(2\\left( {\\sqrt 6 - \\sqrt 3 } \\right)\\) ;",
+        "B. \\(2\\left( {\\sqrt 6 + \\sqrt 3 } \\right)\\) ;",
+        "C. \\(2\\left( {\\sqrt 3 - \\sqrt 2 } \\right)\\) ;",
+        "D. \\(2\\left( {\\sqrt 3 + \\sqrt 2 } \\right)\\) ."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A \\(\\tan \\frac{\\pi }{{24}} + \\tan \\frac{{7\\pi }}{{24}}\\)\\( = \\frac{{\\sin \\frac{\\pi }{{24}}}}{{cos\\frac{\\pi }{{24}}}} + \\frac{{\\sin \\frac{{7\\pi }}{{24}}}}{{cos\\frac{{7\\pi }}{{24}}}}\\)\\( = \\frac{{\\sin \\frac{\\pi }{{24}}cos\\frac{{7\\pi }}{{24}} + cos\\frac{\\pi }{{24}}\\sin \\frac{{7\\pi }}{{24}}}}{{cos\\frac{\\pi }{{24}}cos\\frac{{7\\pi }}{{24}}}}\\) \\( = \\frac{{\\sin \\left( {\\frac{\\pi }{{24}} + \\frac{{7\\pi }}{{24}}} \\right)}}{{\\frac{1}{2}\\left[ {cos\\left( {\\frac{\\pi }{{24}} - \\frac{{7\\pi }}{{24}}} \\right) + cos\\left( {\\frac{\\pi }{{24}} + \\frac{{7\\pi }}{{24}}} \\right)} \\right]}}\\)\\( = \\frac{{\\sin \\frac{\\pi }{3}}}{{\\frac{1}{2}\\left[ {cos\\left( { - \\frac{\\pi }{4}} \\right) + cos\\frac{\\pi }{3}} \\right]}}\\) \\( = \\frac{{\\frac{{\\sqrt 3 }}{2}}}{{\\frac{1}{2}\\left[ {\\frac{{\\sqrt 2 }}{2} + \\frac{1}{2}} \\right]}}\\)\\( = \\frac{{2\\sqrt 3 }}{{\\sqrt 2 + 1}}\\)\\( = 2\\sqrt 3 \\left( {\\sqrt 2 - 1} \\right)\\)\\( = 2\\left( {\\sqrt 6 - \\sqrt 3 } \\right)\\) ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hai góc nhọn a, b thỏa mãn \\(\\cos a = \\frac{1}{3};\\cos b = \\frac{1}{4}\\) . Giá trị của biểu thức \\(P = cos(a + b)cos(a - b)\\) bằng",
+      "options": [
+        "A. \\( - \\frac{{133}}{{144}}\\) ;",
+        "B. \\( - \\frac{{115}}{{144}}\\) ;",
+        "C. \\( - \\frac{{117}}{{144}}\\) ;",
+        "D. \\( - \\frac{{119}}{{144}}\\) ."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải: Đáp án đúng là: D \\(P = cos(a + b)cos(a - b)\\)\\( = \\frac{1}{2}\\left\\{ {cos\\left[ {(a + b) - (a - b)} \\right] + cos\\left[ {(a + b) + (a - b)} \\right]} \\right\\}\\) \\( = \\frac{1}{2}\\left[ {cos(2b) + cos(2a)} \\right]\\)\\( = \\frac{1}{2}\\left[ {2{{\\cos }^2}a - 1 + 2{{\\cos }^2}b - 1} \\right]\\)\\( = {\\cos ^2}a + {\\cos ^2}b - 1\\) \\( = {\\left( {\\frac{1}{3}} \\right)^2} + {\\left( {\\frac{1}{4}} \\right)^2} - 1\\)\\( = - \\frac{{119}}{{144}}\\) ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Tích số cos10 °. cos30 °. cos50 °. cos70 ° bằng",
+      "options": [
+        "A. \\(\\frac{1}{{16}}\\) ;",
+        "B. \\(\\frac{1}{8}\\) ;",
+        "C. \\(\\frac{3}{{16}}\\) ;",
+        "D. \\(\\frac{1}{4}\\) ."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải: Đáp án đúng là: C cos10 °× cos30 °× cos50 °× cos70 ° = \\(cos10^\\circ \\cdot cos30^\\circ \\cdot \\frac{1}{2}\\left[ {cos\\left( {50^\\circ - 70^\\circ } \\right) + cos\\left( {50^\\circ + 70^\\circ } \\right)} \\right]\\) \\( = cos10^\\circ \\cdot \\frac{{\\sqrt 3 }}{2} \\cdot \\frac{1}{2}\\left( {cos20^\\circ + cos120^\\circ } \\right)\\) \\( = cos10^\\circ \\cdot \\frac{{\\sqrt 3 }}{2} \\cdot \\frac{1}{2}\\left( {cos20^\\circ - \\frac{1}{2}} \\right)\\) \\( = \\frac{{\\sqrt 3 }}{4}cos10^\\circ \\left( {cos20^\\circ - \\frac{1}{2}} \\right)\\) \\( = \\frac{{\\sqrt 3 }}{4}cos10^\\circ cos20^\\circ - \\frac{{\\sqrt 3 }}{8}cos10^\\circ \\) \\( = \\frac{{\\sqrt 3 }}{4} \\cdot \\frac{1}{2}\\left[ {cos\\left( {10^\\circ - 20^\\circ } \\right) + cos\\left( {10^\\circ + 20^\\circ } \\right)} \\right] - \\frac{{\\sqrt 3 }}{8}cos10^\\circ \\)\\( = \\frac{{\\sqrt 3 }}{4} \\cdot \\frac{1}{2}\\left( {cos10^\\circ + cos30^\\circ } \\right) - \\frac{{\\sqrt 3 }}{8}cos10^\\circ \\) \\( = \\frac{3}{{16}}\\) ."
+    }
+  ]
+}

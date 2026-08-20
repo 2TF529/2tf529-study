@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-6-10-bai-tap-chung-minh-hai-bieu-thuc-tich-bang-nhau-co-loi-giai",
+  "sourceId": "vietjack:6-10-bai-tap-chung-minh-hai-bieu-thuc-ti",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "6.10 bài tập Chứng minh hai biểu thức tích bằng nhau có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho đường tròn (O) và điểm I nằm ngoài (O). Từ điểm I kẻ hai dây cung AB và CD (A nằm giữa I và B, C nằm giữa I và D). Tích IA.IB bằng",
+      "options": [
+        "A. ID.CD.",
+        "B. IC.CB.",
+        "C. IC.CD.",
+        "D. IC.ID."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Ta có tứ giác ABDC nội tiếp nên \\[\\widehat {BAC} + \\widehat {CDB} = 180^\\circ \\]. Mà \\[\\widehat {BAC} + \\widehat {CAI} = 180^\\circ \\] (hai góc kề bù) Do đó, \\[\\widehat {CAI} = \\widehat {CDB}\\]. Xét ∆IDB và ∆IAC, có: \\[\\widehat {CAI} = \\widehat {CDB}\\] (cmt) \\[\\widehat {AIC} = \\widehat {BID}\\] Do đó, ∆IDB ᔕ ∆IAC (g.g) Suy ra \\[\\frac{{ID}}{{IA}} = \\frac{{IB}}{{IC}}\\] nên IA.IB = IC.ID."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho đường tròn (O) và hai dây cung AB, AC bằng nhau. Qua A vẽ một cát tuyến cắt dây BC và cắt (O) ở D và E. Khi đó AB 2 bằng:",
+      "options": [
+        "A. AD.AE.",
+        "B. AD.AC.",
+        "C. AE.BE.",
+        "D. AD.BD."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Xét ∆ADC và ∆ACE, có: \\[\\widehat {EAC}\\] chung (gt) \\[\\widehat {AEC} = \\widehat {ACD}\\] (góc nội tiếp chắn hai cung bằng nhau) Do đó, ∆ADC ᔕ ∆ACE (g.g) Suy ra \\[\\frac{{AD}}{{AC}} = \\frac{{AC}}{{AE}}\\] hay AC 2 = AD.AE. Mà ta có AB = AC nên AB 2 = AC 2 = AD.AE."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho đường tròn (O) và hai dây cung AB, AC bằng nhau. Qua A vẽ một cát tuyến cắt dây BC ở D và cắt (O) ở E. Khi đó DE.DA bằng",
+      "options": [
+        "A. DC 2 .",
+        "B. DB 2 .",
+        "C. DB.DC.",
+        "D. AB.AC."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Xét ∆ADC và ∆ACE, có: \\[\\widehat {EAC}\\] chung (gt) \\[\\widehat {AEC} = \\widehat {ACD}\\] (góc nội tiếp chắn hai cung bằng nhau) Do đó, ∆ADC ᔕ ∆ACE (g.g) Suy ra \\[\\frac{{AD}}{{AC}} = \\frac{{AC}}{{AE}}\\] hay AC 2 = AD.AE. Mà ta có AB = AC nên AB 2 = AC 2 = AD.AE = AB.AC."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho tam giác ABC nhọn nội tiếp (O), Hai đường cao BD và CE cắt nhau tại H. Vẽ đường kính AF. Hệ thức nào sau đây là đúng?",
+      "options": [
+        "A. EH.EC = EA.EB.",
+        "B. EH.EC = AE 2 .",
+        "C. EH.EC = AE.AF.",
+        "D. EH.EC = AH 2 ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Xét hai tam giác vuông ∆EBH và ∆ECA, có: \\[\\widehat {EBH} = \\widehat {ECA}\\] (cùng phụ với \\[\\widehat {BAC}\\]) Do đó, ∆EBH ᔕ ∆ECA (g.g) Suy ra \\[\\frac{{EB}}{{EC}} = \\frac{{EH}}{{EA}}\\] suy ra EB.EA = EC.EH."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Gọi M là trung điểm BC. Khi đó",
+      "options": [
+        "A. AH = 2OM.",
+        "B. AH = 3OM.",
+        "C. AH = 2HM.",
+        "D. AH = 2FM."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có hai đường cao BD và CE cắt nhau tại H nên H là trực tâm của tam giác ABC. Do đó, AH ⊥ BC (1) Lại có M là trung điểm của BC nên OM ⊥ BC (2) Từ (1) và (2) suy ra OM ∕∕ AH. Mà O là trung điểm của AF nên OM là đường trung bình của tam giác AHF. Suy ra AH = 2OM."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Tính DA.DC bằng",
+      "options": [
+        "A. DH 2 .",
+        "B. DH.DB.",
+        "C. HE.HC.",
+        "D. HC 2 ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Xét hai tam giác vuông ∆HDC và ∆ADB có \\[\\widehat {EBH} = \\widehat {ECA}\\] (cùng phụ với \\[\\widehat {BAC}\\]). Do đó, ∆HDC ᔕ ∆ADB (g.g) Suy ra \\[\\frac{{DH}}{{DA}} = \\frac{{DC}}{{DB}}\\] hay HD.DB = DA.DC."
+    }
+  ]
+}

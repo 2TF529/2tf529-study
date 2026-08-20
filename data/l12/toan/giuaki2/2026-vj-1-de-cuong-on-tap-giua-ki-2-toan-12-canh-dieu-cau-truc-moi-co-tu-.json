@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-de-cuong-on-tap-giua-ki-2-toan-12-canh-dieu-cau-truc-moi-co-tu-",
+  "sourceId": "vietjack:1-de-cuong-on-tap-giua-ki-2-toan-12-canh",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "giuaki2",
+  "year": 2026,
+  "title": "1.Đề cương ôn tập giữa kì 2 Toán 12 Cánh diều cấu trúc mới (có tự luận) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho các hàm số \\(y = f\\left( x \\right),y = g\\left( x \\right)\\) liên tục trên \\(\\mathbb{R}\\) . Khẳng định nào dưới đây đúng?",
+      "options": [
+        "A. \\(\\int {\\left( {f\\left( x \\right) + g\\left( x \\right)} \\right)dx} = \\int {f\\left( x \\right)dx} .\\int {g\\left( x \\right)dx} \\) .",
+        "B. \\(\\int {f\\left( x \\right).g\\left( x \\right)dx} = \\int {f\\left( x \\right)dx} .\\int {g\\left( x \\right)dx} \\) .",
+        "C. \\(\\int {\\frac{{f\\left( x \\right)}}{{g\\left( x \\right)}}dx} = \\frac{{\\int {f\\left( x \\right)dx} }}{{\\int {g\\left( x \\right)dx} }}\\) .",
+        "D. \\(\\int {\\left( {f\\left( x \\right) - g\\left( x \\right)} \\right)dx} = \\int {f\\left( x \\right)dx} - \\int {g\\left( x \\right)dx} \\) ."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D \\(\\int {\\left( {f\\left( x \\right) - g\\left( x \\right)} \\right)dx} = \\int {f\\left( x \\right)dx} - \\int {g\\left( x \\right)dx} \\) ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Biết \\(F\\left( x \\right)\\) là một nguyên hàm của hàm số \\(f\\left( x \\right)\\) trên \\(\\mathbb{R}\\) . Tìm \\(G\\left( x \\right) = \\int {\\left[ {f\\left( x \\right) - 1} \\right]dx} \\) .",
+      "options": [
+        "A. \\(G\\left( x \\right) = xF\\left( x \\right) - x + C\\) .",
+        "B. \\(G\\left( x \\right) = F\\left( x \\right) - x + C\\) .",
+        "C. \\(G\\left( x \\right) = xF\\left( x \\right) - 1 + C\\) .",
+        "D. \\(G\\left( x \\right) = F\\left( x \\right) - 1 + C\\) ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B \\(G\\left( x \\right) = \\int {\\left[ {f\\left( x \\right) - 1} \\right]dx} = \\int {f\\left( x \\right)dx} - \\int {dx} \\)\\( = F\\left( x \\right) - x + C\\) ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Họ tất cả các nguyên hàm của hàm số \\(f\\left( x \\right) = 2x + 6\\) là",
+      "options": [
+        "A. \\[{x^2} + C\\] .",
+        "B. \\[{x^2} + 6x + C\\] .",
+        "C. \\[2{x^2} + C\\] .",
+        "D. \\[2{x^2} + 6x + C\\] ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B \\(\\int {\\left( {2x + 6} \\right)dx = {x^2} + 6x + C} \\) ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Biết \\(F\\left( x \\right)\\) là một nguyên hàm của hàm số \\(f\\left( x \\right) = {x^2}\\) . Biểu thức \\(F'\\left( {25} \\right)\\) bằng",
+      "options": [
+        "A. \\[5\\] .",
+        "B. \\[625\\] .",
+        "C. \\[25\\] .",
+        "D. \\[125\\] ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Vì \\(F\\left( x \\right)\\) là một nguyên hàm của hàm số \\(f\\left( x \\right) = {x^2}\\) nên \\(F'\\left( x \\right) = f\\left( x \\right) = {x^2} \\Rightarrow F'\\left( {25} \\right) = {25^2} = 625\\) ."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: \\(\\int {{x^4}} dx\\) bằng",
+      "options": [
+        "A. \\[\\frac{1}{5}{x^5} + C\\] .",
+        "B. \\[4{x^3} + C\\] .",
+        "C. \\[{x^5} + C\\] .",
+        "D. \\[5{x^5} + C\\] ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A \\(\\int {{x^4}} dx = \\frac{1}{5}{x^5} + C\\) ."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Họ nguyên hàm của hàm số \\(f\\left( x \\right) = 3{x^2} + 2x + 5\\) là",
+      "options": [
+        "A. \\[{x^3} + {x^2} + 5\\].",
+        "B. \\[{x^3} + x + C\\].",
+        "C. \\[{x^3} + {x^2} + 5x + C\\].",
+        "D. \\[{x^3} + {x^2} + C\\]."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C \\(\\int {f\\left( x \\right)dx} = \\int {\\left( {3{x^2} + 2x + 5} \\right)dx = {x^3} + {x^2} + 5x + C} \\) ."
+    }
+  ]
+}

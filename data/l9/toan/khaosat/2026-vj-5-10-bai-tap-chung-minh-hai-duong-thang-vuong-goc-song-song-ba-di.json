@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-5-10-bai-tap-chung-minh-hai-duong-thang-vuong-goc-song-song-ba-di",
+  "sourceId": "vietjack:5-10-bai-tap-chung-minh-hai-duong-thang-",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "5.10 bài tập Chứng minh hai đường thẳng vuông góc, song song, ba điểm thẳng hàng dựa vào tính chất góc nội tiếp có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho tam giác ABC có ba góc nhọn, đường cao AH và nội tiếp đường tròn (O), đường kính AM. Gọi N là giao điểm của AH với đường tròn (O). Chọn khẳng định sai.",
+      "options": [
+        "A. MN // BC.",
+        "B. BM > CN.",
+        "C. BM = CN.",
+        "D. \\[\\widehat {ANM} = 90^\\circ \\]."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Xét ∆ABH và ∆AMC, có: \\[\\widehat {BHA} = \\widehat {MCA} = 90^\\circ \\], \\[\\widehat {ABC} = \\widehat {AMC}\\] (góc nội tiếp cùng chắn cung AC) Do đó, ∆ABH ᔕ ∆AMC (gg) Suy ra \\[\\widehat {BAH} = \\widehat {OAC}\\]. Do đó, . Suy ra, \\[\\widehat {MNC} = \\widehat {NCB}\\] (góc nội tiếp chắn hai cung bằng nhau). Mà hai góc ở vị trí so le trong nên MN // BC. Do đó, NMCB là hình thang. Lại có nên BN = MC hay NMBC là hình thang cân. Suy ra NC = BM. Có \\[\\widehat {ANM} = 90^\\circ \\] (góc nội tiếp chắn nửa đường tròn). Do đó, khẳng định B sai."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho tam giác ABC nhọn nội tiếp (O). Hai đường cao BD và CE cắt nhau tại H Vẽ đường kính AF. Gọi M là trung điểm của BC. Chọn khẳng định sai trong các khẳng định dưới đây.",
+      "options": [
+        "A. AH ⊥ BC.",
+        "B. OM // AH.",
+        "C. \\[HM = \\frac{{HF}}{2}.\\]",
+        "D. OM ⊥ BF."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Có hai đường cao BD và CE cắt nhau tại H nên H là trực tâm của ∆ABC. Do đó AH ⊥ BC. Có M là trung điểm BC nên OM ⊥ BC. Suy ra OM // AH. Có BF // EC (cùng vuông với AB) BD // FC (cùng vuông với AC) Do đó, BHCF là hình bình hành, có M là trung điểm BC, nên M cũng là trung điểm của đường chép HF. Mà OM // AH nên OM là đường trung bình của tam giác HAF. Suy ra \\[HM = \\frac{{HF}}{2}.\\] Do đó, ý D sai."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho (O), đường kính AB, điểm D thuộc đường tròn. Gọi E là điểm đối xứng với A qua D. Gọi K là giao điểm của EB với (O). Chọn khẳng định sai?",
+      "options": [
+        "A. OD // EB.",
+        "B. OD ⊥ AK.",
+        "C. AK ⊥ BE.",
+        "D. OD ⊥ AE."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Ta có: O là trung điểm của AB, D là trung điểm của AE. Do đó OD là đường trung bình của ∆ABE. Suy ra OD // EB. Ta có: \\[\\widehat {AKB} = 90^\\circ \\] (góc nội tiếp chắn nửa đường tròn) hay AK ⊥ BE. Mà OD // EB nên OD ⊥ AK. Do đó, ý D sai."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hai đường tròn (O; R) và (O ' ; R ' ) tiếp xúc trong với nhau tại A và R > R ' . Qua điểm B bất kì trên (O ' ) vẽ tiếp tuyến với (O ' ) cắt (O) tại hai điểm M và N, AB cắt (O) tại C. Khi đó: (I). MN ⊥ OC. (II) AC là phân giác của \\[\\widehat {MAN}\\]. (III). MN ⊥ AB. Các phát biểu đúng là:",
+      "options": [
+        "A. (I) và (III).",
+        "B. (II) và (III).",
+        "C. (I) và (II).",
+        "D. (I), (II) và (III)."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Vì ∆O ' AB cân tại O ' nên \\[\\widehat {O'AB} = \\widehat {O'BA}\\]. ∆OAC cân tại O nên \\[\\widehat {OAC} = \\widehat {OCA}\\]. Suy ra \\[\\widehat {OCA} = \\widehat {O'BA}\\], mà hai góc này ở vị trí đồng vị, do đó, O ' B // OC. Mặt khác MN là tiếp tuyến của (O ' ) tại B. Do đó, O ' B ⊥MN. Suy ra OC ⊥ MN. Trong đường tròn (O), có ON là đường trung trực của MN. Suy ra CM = CN từ đó . Do đó, \\[\\widehat {MAC} = \\widehat {NAC}\\]. Hay AC là phân giác của góc MAN."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho đường tròn (O) đường kính AB và một cung AM có số đo bằng 90°. Vẽ các dây MC ⊥ AB, MD // AB. Khi đó, (I). MC ⊥ MD. (II). C, O, D thẳng hàng. Chọn khẳng định đúng.",
+      "options": [
+        "A. Chỉ (I) đúng.",
+        "B. Chỉ (II) đúng.",
+        "C. Cả (I), (II) đều đúng.",
+        "D. Cả (I), (II) đều sai."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có MD // AB mà AB ⊥ MC nên MC ⊥ MD. Suy ra \\[\\widehat {DMC} = 90^\\circ \\]. Có góc DMC là góc nội tiếp lại có số đo bằng 90° nên CD là đường kính. Suy ra ba điểm C, O, D thẳng hàng. Vậy cả hai phát biểu (I), (II) đều đúng."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho tam giác ABC nhọn có \\[\\widehat {BAC} = 45^\\circ \\] nội tiếp đường tròn (O), Các đường cao BH, CK cắt đường tròn (O) lần lượt tại E và D. Khi đó, (I). \\[\\widehat {KCA} = 90^\\circ \\]. (II). DE là đường kính. (III). D, O, E thẳng hàng. Số phát biểu đúng trong các phát biểu trên là",
+      "options": [
+        "A. 0.",
+        "B. 1.",
+        "C. 2.",
+        "D. 3."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có BH ⊥ AC nên tam giác ABH vuông tại H. Mà \\[\\widehat {BAH} = 45^\\circ \\] nên \\[\\widehat {ABH} = 45^\\circ \\] hay \\[\\widehat {EBA} = 45^\\circ \\] (1) Mặt khác, có CK ⊥ AB suy ra tam giác ACK vuông tại K. Mà \\[\\widehat {KAC} = 45^\\circ \\] nên \\[\\widehat {KCA} = 45^\\circ \\]. Có \\[\\widehat {DBA} = \\widehat {DCA}\\] (cùng chắn cung AD) nên \\[\\widehat {ABD} = 45^\\circ \\](2) Từ (1) và (2) suy ra \\[\\widehat {EBD} = \\widehat {DBA} + \\widehat {ABE} = 90^\\circ \\] nên DE là đường kính của (O) hay D, O, E thẳng hàng. Do đó, phát biểu (II) và (III) là đúng."
+    }
+  ]
+}

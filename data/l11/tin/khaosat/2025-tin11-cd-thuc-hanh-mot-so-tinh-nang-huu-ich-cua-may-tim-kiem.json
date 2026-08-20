@@ -1,0 +1,137 @@
+{
+  "id": "l11-tin-khaosat-2025-tin11-cd-thuc-hanh-mot-so-tinh-nang-huu-ich-cua-may-tim-kiem",
+  "grade": "l11",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2025,
+  "code": "CD: Thực hành một số tính năng hữu ích của máy tìm kiếm",
+  "title": "TIN11 - CD: Thực hành một số tính năng hữu ích của máy tìm kiếm",
+  "duration": 15,
+  "answerSource": "official",
+  "sourceId": "hochanh:4511",
+  "passages": {
+    "p1": "App không chấm điểm câu hỏi này!\nBạn lựa chọn đạt / không đạt để tự chấm."
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án.\nToán tử nào giúp loại bỏ các kết quả có chứa từ khóa không mong muốn?",
+      "options": [
+        "A. AND",
+        "B. OR",
+        "C. *",
+        "D. –"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Khi tìm kiếm với từ khóa \"Cá heo xanh\" trên Google, việc đặt từ khóa trong dấu ngoặc kép có tác dụng gì?",
+      "options": [
+        "A. Tìm tất cả các trang chứa từ “cá”, “heo”, và “xanh”",
+        "B. Tìm các trang chứa chính xác cụm từ “Cá heo xanh”",
+        "C. Tìm trang chứa “cá heo xanh” theo bất kỳ thứ tự nào",
+        "D. Tìm trang chứa từ khóa cá nhân"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Toán tử nào có thể tìm kiếm các trang chứa từ khóa A hoặc B?",
+      "options": [
+        "A. OR",
+        "B. AND",
+        "C. *",
+        "D. NOT"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Kết quả tìm kiếm với từ khóa \"cá heo xanh\" + \"cửa hàng\" sẽ cho ra:",
+      "options": [
+        "A. Các trang chỉ chứa \"cá heo xanh\"",
+        "B. Các trang chỉ chứa \"cửa hàng\"",
+        "C. Các trang chứa cả \"cá heo xanh\" và \"cửa hàng\"",
+        "D. Các trang không liên quan"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Để tìm các trang chứa từ khóa \"tin học\" và liên quan đến \"ứng dụng\", ta nên dùng biểu thức:",
+      "options": [
+        "A. \"tin học ứng dụng\"",
+        "B. tin học -ứng dụng",
+        "C. tin học + ứng dụng",
+        "D. tin học AND ứng dụng"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Nếu muốn tìm tài liệu PDF về lịch sử Việt Nam, biểu thức nào là phù hợp?",
+      "options": [
+        "A. \"lịch sử Việt Nam\" filetype",
+        "B. \"lịch sử Việt Nam\" + filetype.doc",
+        "C. \"lịch sử Việt Nam\" -pdf",
+        "D. \"lịch sử Việt Nam\" OR filetype.txt"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Toán tử nào giúp tìm kiếm các trang chứa từ khóa A nhưng không chứa từ khóa B?",
+      "options": [
+        "A. *",
+        "B. OR",
+        "C. -",
+        "D. +"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Khi tìm kiếm bằng giọng nói, để có kết quả chính xác bạn cần:",
+      "options": [
+        "A. Sử dụng từ khóa dài và phức tạp",
+        "B. Nói rõ ràng và trực tiếp",
+        "C. Sử dụng từ khóa tối thiểu",
+        "D. Nhập lại từ khóa sau khi tìm kiếm"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "content": "Khi sử dụng tìm kiếm nâng cao của Google, bạn có thể:",
+      "options": [
+        "A. Tìm kiếm với từ khóa cụ thể và loại bỏ các kết quả không liên quan",
+        "B. Chỉ tìm kiếm hình ảnh",
+        "C. Tìm kiếm trên toàn thế giới mà không cần bộ lọc",
+        "D. Chỉ sử dụng từ khóa đơn giản"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "content": "Để tìm các trang chứa từ đồng nghĩa của từ khóa A, toán tử nào nên được sử dụng?",
+      "options": [
+        "A. *",
+        "B. AND",
+        "C. OR",
+        "D. -"
+      ],
+      "answer": "C"
+    }
+  ]
+}

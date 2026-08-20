@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-toan-10-canh-dieu-tong-va-hieu-hai-vecto-co-",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-toan-10-canh-dieu-t",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu  Trắc nghiệm Toán 10 Cánh Diều Tổng và hiệu hai vectơ có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho ba điểm A, B, C phân biệt. Khẳng định nào sau đây đúng?",
+      "options": [
+        "A. A B → + A C → = B C → ;",
+        "B. M P → + N M → = N P → ;",
+        "C. C A → + B A → = C B → ;",
+        "D. A A → + B B → = A B → ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Xét các đáp án: - Đáp án A sai vì B A → + A C ⇀ = B C ⇀ . Mà A ; B ; C bất kỳ nên A B → + A C → = B C → là khẳng định sai. - Đáp án B. Ta có : M P → + N M → = N M → + M P → = N P → . Vậy B đúng. - Đáp án C sai vì A B → + A D ⇀ = A C ⇀ nếu ABCD là hình bình hành thì A B → + A D ⇀ = A C ⇀ - Đáp án D. Ta có : A A → + B B → = 0 → + 0 → = 0 → ≠ A B → . Vậy D sai"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho a → và b → là các vectơ khác 0 → với a → là vectơ đối của b → . Khẳng định nào sau đây sai?",
+      "options": [
+        "A. Hai vectơ a → , b → cùng phương ;",
+        "B. Hai vectơ a → , b → ngược hướng ;",
+        "C. Hai vectơ a → , b → cùng độ dài ;",
+        "D. Hai vectơ a → , b → chung điểm đầu."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Ta có : a → = − b → . Do đó, a → và b → cùng phương, cùng độ dài và ngược hướng nhau."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho ba điểm phân biệt A, B, C. Đẳng thức nào sau đây đúng?",
+      "options": [
+        "A. C A → − B A → = B C → ;",
+        "B. A B → + A C → = B C → ;",
+        "C. A B → + C A → = C B → ;",
+        "D. A B → − B C → = C A → ."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Xét các đáp án: - Đáp án A. Ta có C A → − B A → = C A → + A B → = C B → = − B C → . Vậy A sai. - Đáp án B sai vì nếu ABDC là hình bình hành thì A B → + A D ⇀ = A C ⇀ phải là ABDC là hình bình hành mới đúng. - Đáp án C. Ta có A B → + C A → = C A → + A B → = C B → . Vậy C đúng."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho A B → = − C D → . Khẳng định nào sau đây đúng?",
+      "options": [
+        "A. A B → và C D → cùng hướng;",
+        "B. A B → và C D → cùng độ dài;",
+        "C. ABCD là hình bình hành;",
+        "D. A B → + D C → = 0 → ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là : B Ta có: A B → = − C D → = D C → . Do đó: +) A B → và C D → ngược hướng. +) A B → và C D → cùng độ dài. +) ABCD là hình bình hành nếu A B → và C D → không cùng giá. Khẳng định này không có cơ sở. +) A B → + C D → = 0 → . Khẳng định này không có cơ sở."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Tính tổng M N → + P Q → + R N → + N P → + Q R → .",
+      "options": [
+        "A. M R → ;",
+        "B. M N → ;",
+        "C. P R → ;",
+        "D. M P → ;"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là : B Ta có : M N → + P Q → + R N → + N P → + Q R → = M N → + N P → + P Q → + Q R → + R N → = M N → ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho hai điểm A và B phân biệt. Điều kiện để I là trung điểm AB là:",
+      "options": [
+        "A. I A = I B ;",
+        "B. I A → = I B → ;",
+        "C. I A → = - I B → ;",
+        "D. A I → = B I → ."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là : C Điều kiện để I là trung điểm AB là I A → = − I B → ;"
+    }
+  ]
+}

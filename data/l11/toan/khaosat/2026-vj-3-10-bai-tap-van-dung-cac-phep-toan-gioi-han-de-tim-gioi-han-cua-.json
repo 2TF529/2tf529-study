@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-3-10-bai-tap-van-dung-cac-phep-toan-gioi-han-de-tim-gioi-han-cua-",
+  "sourceId": "vietjack:3-10-bai-tap-van-dung-cac-phep-toan-gioi",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.10 Bài tập Vận dụng các phép toán giới hạn để tìm giới hạn của dãy số hạng chứa lũy thừa (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Giá trị của lim n → + ∞ 2 n là",
+      "options": [
+        "A. 0;",
+        "B. +∞;",
+        "C. –∞;",
+        "D. 1."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta thấy lim n → + ∞ 2 n có dạng lim n → + ∞ q n = + ∞ với q > 1. Vậy đáp án đúng là B."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Giá trị của lim n → + ∞ 2 5 n + 1 3 5 n + 3 là",
+      "options": [
+        "A. 0;",
+        "B. +∞;",
+        "C. –∞;",
+        "D. 1."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A lim n → + ∞ 2 5 n + 1 3 5 n + 3 = lim n → + ∞ 2.2 5 n 27.3 5 n lim n → + ∞ 2 27 . 2 3 5 n = 2 27 .0 = 0 ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Giá trị của lim n → + ∞ 3 n − 4.2 n + 3 − 3 3.2 n + 1 + 4 n + 2 là",
+      "options": [
+        "A. 0;",
+        "B. +∞;",
+        "C. –∞;",
+        "D. 1."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A lim n → + ∞ 3 n − 4.2 n + 3 − 3 3.2 n + 1 + 4 n + 2 = lim n → + ∞ 3 n − 32.2 n − 3 6.2 n + 16.4 n = lim n → + ∞ 3 n 4 n − 32. 2 n 4 n − 3 4 n 6. 2 n 4 n + 16. 4 n 4 n = lim n → + ∞ 3 4 n − 32. 2 4 n − 3 4 n 6. 2 4 n + 16.1 = 0 16 = 0 ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Giá trị của lim n → + ∞ 4 − 5 n + 3 3 n + 2 + 2.5 n + 1 là",
+      "options": [
+        "A. − 2 25 ;",
+        "B. 2 25 ;",
+        "C. − 25 2 ;",
+        "D. 25 2 ."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C lim n → + ∞ 4 − 5 n + 3 3 n + 2 + 2.5 n + 1 = lim n → + ∞ 4 − 5 n .125 3 n .9 + 10.5 n = lim n → + ∞ 4 5 n − 1.125 3 5 n .9 + 10.1 = 0 − 125 0.9 + 10 = − 25 2 ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Giá trị của lim n → + ∞ 3 n − 1 2 n − 2.3 n + 1 là",
+      "options": [
+        "A. 1;",
+        "B. –2;",
+        "C. –1;",
+        "D. − 1 2 ."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D lim n → + ∞ 3 n − 1 2 n − 2.3 n + 1 = lim n → + ∞ 1 − 1 3 n 2 3 n − 2.1 + 1 3 n = 1 − 0 0 − 2 + 0 = − 1 2 ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Giá trị của lim n → + ∞ 2 n + 1 + 3 n + 10 3 n + 2 − 3 n + 2 là",
+      "options": [
+        "A. 0;",
+        "B. +∞;",
+        "C. –∞;",
+        "D. 1."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A lim n → + ∞ 2 n + 1 + 3 n + 10 3 n + 2 − 3 n + 2 = lim n → + ∞ 2.2 n + 3 n + 10 3 n .8 + 2 = lim n → + ∞ 2. 2 3 n + 3 n 3 n + 10 3 n 8 + 2 3 n = 2.0 + 3.0 + 0 8 + 0 = 0 ."
+    }
+  ]
+}

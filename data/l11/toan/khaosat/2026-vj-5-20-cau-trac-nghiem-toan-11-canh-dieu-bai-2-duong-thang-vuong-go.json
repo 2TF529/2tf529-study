@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-5-20-cau-trac-nghiem-toan-11-canh-dieu-bai-2-duong-thang-vuong-go",
+  "sourceId": "vietjack:5-20-cau-trac-nghiem-toan-11-canh-dieu-b",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "5.20 câu trắc nghiệm Toán 11 Cánh diều Bài 2. Đường thẳng vuông góc với mặt phẳng (Đúng sai - trả lời ngắn) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: TRẮC NGHIỆM NHIỀU LỰA CHỌN Khẳng định nào sau đây sai?",
+      "options": [
+        "A. Nếu đường thẳng d ^ (α) thì d vuông góc với mọi đường thẳng trong (α).",
+        "B. Nếu đường thẳng d vuông góc với hai đường thẳng nằm trong (α) thì d ^ (α).",
+        "C. Nếu đường thẳng d vuông góc với hai đường thẳng cắt nhau nằm trong (α) thì d vuông góc với bất kì đường thẳng nào nằm trong (α).",
+        "D. Nếu đường thẳng d vuông góc với mọi đường thẳng trong mặt phẳng (α) thì d ^ (α)."
+      ],
+      "answer": "B",
+      "note": "B Nếu đường thẳng d vuông góc với hai đường thẳng cắt nhau nằm trong (α) thì d ^ (α)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Qua điểm O cho trước, có bao nhiêu mặt phẳng vuông góc với đường thẳng D cho trước.",
+      "options": [
+        "A. 1.",
+        "B. Vô số.",
+        "C. 3.",
+        "D. 2."
+      ],
+      "answer": "A",
+      "note": "A Có duy nhất một mặt phẳng đi qua một điểm cho trước và vuông góc với một đường thẳng cho trước."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trong không gian, khẳng định nào sau đây sai?",
+      "options": [
+        "A. Hai đường thẳng phân biệt cùng vuông góc với một mặt phẳng thì song song với nhau.",
+        "B. Hai mặt phẳng phân biệt cùng vuông góc với một đường thẳng thì song song với nhau.",
+        "C. Cho hai đường thẳng song song, khi đó một mặt phẳng vuông góc với đường thẳng này thì cũng vuông góc với đường thẳng kia.",
+        "D. Trong không gian, hai đường thẳng phân biệt cùng vuông góc với một đường thẳng thứ ba thì song song với nhau."
+      ],
+      "answer": "D",
+      "note": "D Trong không gian, hai đường thẳng phân biệt cùng vuông góc với một đường thẳng thứ ba thì song song với nhau hoặc chéo nhau."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hình chóp S.ABCD có đáy là hình vuông, cạnh bên SA vuông góc với đáy (ABCD). Khẳng định nào sau đây đúng?",
+      "options": [
+        "A. BA ^ (SAD).",
+        "B. BA ^ (SAC).",
+        "C. BA ^ (SBC).",
+        "D. BA ^ (SCD)."
+      ],
+      "answer": "A",
+      "note": "A Vì SA ^ (ABCD) Þ SA ^ AB mà AB ^ AD nên AB ^ (SAD)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho tứ diện S.ABC có SA ^ (ABC) và AB ^ BC. Số các mặt của tứ diện S.ABC là tam giác vuông là",
+      "options": [
+        "A. 1.",
+        "B. 3.",
+        "C. 2.",
+        "D. 4."
+      ],
+      "answer": "D",
+      "note": "D Vì SA ^ (ABC) nên SA ^ AB; SA ^ AC; SA ^ BC. Suy các tam giác SAB, SAC là tam giác vuông. Vì SA ^ BC và BC ^ AB nên BC ^ (SAB) Þ BC ^ SB. Do đó D SBC vuông. Vì AB ^ BC nên D ABC vuông tại B."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho hình chóp S.ABCD có SA ^ (ABCD) và SA = a, đáy ABCD là hình vuông. Tìm hình chiếu vuông góc của đường thẳng SC lên mặt phẳng (SAB).",
+      "options": [
+        "A. SB.",
+        "B. AD.",
+        "C. CD.",
+        "D. SD."
+      ],
+      "answer": "A",
+      "note": "A Vì SA ^ (ABCD) Þ SA ^ BC mà BC ^ AB nên BC ^ (SAB). Do đó SB là hình chiếu của SC lên mặt phẳng (SAB)."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Cho tứ diện SABC thỏa mãn SA = SB = SC. Gọi H là hình chiếu của S lên mặt phẳng (ABC). Đối với DABC ta có điểm H là",
+      "options": [
+        "A. Trực tâm.",
+        "B. Tâm đường tròn nội tiếp.",
+        "C. Trọng tâm.",
+        "D. Tâm đường tròn ngoại tiếp."
+      ],
+      "answer": "D",
+      "note": "D Ta có HA, HB, HC lần lượt là hình chiếu của SA, SB, SC lên mặt phẳng (ABC). Mà SA = SB = SC nên HA = HB = HC. Suy ra H là tâm đường tròn ngoại tiếp D ABC."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho hình chóp S.ABCD có đáy ABCD là hình thoi tâm O. Biết SA = SC và SB = SD. Khẳng định nào sau đây sai?",
+      "options": [
+        "A. SO ^ (ABCD).",
+        "B. CD ^ (SBD).",
+        "C. BD ^ (SAC).",
+        "D. BD ^ SC."
+      ],
+      "answer": "B",
+      "note": "B Vì SA = SC nên D SAC cân tại S có SO là trung tuyến nên SO ^ AC. Vì SB = SD nên D SBD cân tại S có SO là trung tuyến nên SO ^ BD. Từ đó suy ra SO ^ (ABCD). Lại có ABCD là hình thoi nên BD ^ AC và BD ^ SO nên BD ^ (SAC) Þ BD ^ SC."
+    }
+  ]
+}

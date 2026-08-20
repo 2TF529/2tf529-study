@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-3-10-bai-tap-chung-minh-hai-duong-thang-song-song-va-cac-bai-toan",
+  "sourceId": "vietjack:3-10-bai-tap-chung-minh-hai-duong-thang-",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.10 Bài tập Chứng minh hai đường thẳng song song và các bài toán liên quan (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Hai đường thẳng cùng song song với một đường thẳng thứ ba thì",
+      "options": [
+        "A. Song song với nhau;",
+        "B. Trùng nhau;",
+        "C. Cắt nhau;",
+        "D. Song song với nhau hoặc trùng nhau."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Hai đường thẳng cùng song song với một đường thẳng thứ ba thì song song với nhau hoặc trùng nhau."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Hai đường thẳng phân biệt cùng song song với một đường thẳng thứ ba thì",
+      "options": [
+        "A. Song song với nhau;",
+        "B. Trùng nhau;",
+        "C. Cắt nhau;",
+        "D. Song song với nhau hoặc trùng nhau."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Hai đường thẳng phân biệt cùng song song với một đường thẳng thứ ba thì song song với nhau."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho 3 mặt phẳng phân biệt (M), (N), (P). Gọi M ∩ N = a , N ∩ P = b và M ∩ P = c . Khi đó ba đường thẳng a, b, c",
+      "options": [
+        "A. Đôi một cắt nhau;",
+        "B. Đôi một song song;",
+        "C. Đồng quy;",
+        "D. Đôi một song song hoặc đồng quy."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Nếu ba mặt phẳng đôi một cắt nhau theo ba giao tuyến phân biệt thì ba giao tuyền ấy hoặc đồng quy hoặc đôi một song song."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hình bình hành ABCD và một điểm S không nằm trên mặt phẳng (ABCD) . Các điểm M, N, P, Q lần lượt là trung điểm SA, SB, SC, SD. Trong các đường thẳng sau, đường thẳng không song song với MQ là",
+      "options": [
+        "A. NP;",
+        "B. AB;",
+        "C. BC;",
+        "D. AD."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Vì M, N, P, Q lần lượt là trung điểm SA, SB, SC, SD nên MQ và NP là đường trung bình của các tam giác SAD và SBC . Do đó MQ // AD và NP // BC. Mà AD // BC nên MQ // AD // BC // NP. Vậy đường thẳng không song song với MQ là AB."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho tứ diện ABCD . Gọi M , N là hai điểm phân biệt cùng thuộc đường thẳng AB. Hai điểm phân biệt P và Q cùng thuộc đường thẳng CD. Vị trí tương đối của hai đường thẳng MP và NQ là",
+      "options": [
+        "A. MP // NQ;",
+        "B. MP ≡ NQ;",
+        "C. MP cắt NQ;",
+        "D. MP và NQ chéo nhau;"
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D + Xét mặt phẳng (ABP): Ta có: M và N thuộc AB nên M; N thuộc mặt phẳng (ABP) Vì CD không nằm trên mặt phẳng (APB), điểm P nằm trên mặt phẳng (APB), P và Q là hai điểm phân biệt trên CD Suy ra Q ∉ A B P Do đó, 4 điểm M , N , P và Q không đồng phẳng. Vậy MP và NQ chéo nhau."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho hình bình hành ABCD và điểm S không nằm trên (ABCD). M và N lần lượt là trung điểm của các cạnh SA và SB. Vị trí tương đối của MN và CD là",
+      "options": [
+        "A. MN // CD;",
+        "B. MN ≡ CD;",
+        "C. MN cắt CD;",
+        "D. MN và CD chéo nhau;"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Vì M và N lần lượt là trung điểm của các cạnh SA; SB nên MN là đường trung bình của tam giác SAB Suy ra MN // AB Mà ABCD là hình bình hành nên AB // CD (2) Từ đó suy ra: MN // CD."
+    }
+  ]
+}

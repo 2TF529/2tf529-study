@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-2-bo-5-de-thi-cuoi-ki-1-toan-11-canh-dieu-cau-truc-moi-co-dap-an",
+  "sourceId": "vietjack:2-bo-5-de-thi-cuoi-ki-1-toan-11-canh-die",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "cuoiki1",
+  "year": 2026,
+  "title": "2.Bộ 5 đề thi cuối kì 1 Toán 11 Cánh diều cấu trúc mới có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh chỉ chọn một phương án. Tìm tập xác định \\({\\rm{D}}\\) của hàm số \\(y = \\frac{{2025}}{{\\sin x}}.\\)",
+      "options": [
+        "A. \\({\\rm{D}} = \\mathbb{R}.\\)",
+        "B. \\[{\\rm{D}} = \\mathbb{R}\\backslash \\left\\{ 0 \\right\\}.\\]",
+        "C. \\({\\rm{D}} = \\mathbb{R}\\backslash \\left\\{ {k\\pi ,k \\in \\mathbb{Z}} \\right\\}.\\)",
+        "D. \\[{\\rm{D}} = \\mathbb{R}\\backslash \\left\\{ {\\frac{\\pi }{2} + k\\pi ,k \\in \\mathbb{Z}} \\right\\}.\\]"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Hàm số xác định khi và chỉ khi \\(\\sin x \\ne 0 \\Leftrightarrow x \\ne k\\pi ,{\\rm{ }}k \\in \\mathbb{Z}.\\) Vật tập xác định \\({\\rm{D}} = \\mathbb{R}\\backslash \\left\\{ {k\\pi ,k \\in \\mathbb{Z}} \\right\\}.\\)"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Tập nghiệm của phương trình \\(3\\cos \\left( {3x - \\frac{\\pi }{3}} \\right) = 0\\) là",
+      "options": [
+        "A. \\(\\left\\{ {\\frac{\\pi }{2} + k\\pi ,k \\in \\mathbb{Z}} \\right\\}\\) .",
+        "B. \\(\\left\\{ {\\frac{{5\\pi }}{{18}} + \\frac{{k\\pi }}{3},k \\in \\mathbb{Z}} \\right\\}\\) .",
+        "C. \\(\\left\\{ {\\frac{{5\\pi }}{6} + k2\\pi ,k \\in \\mathbb{Z}} \\right\\}\\) .",
+        "D. \\(\\left\\{ {\\frac{{5\\pi }}{{18}} + \\frac{{k2\\pi }}{3},k \\in \\mathbb{Z}} \\right\\}\\) ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B \\(3\\cos \\left( {3x - \\frac{\\pi }{3}} \\right) = 0\\)\\( \\Leftrightarrow \\cos \\left( {3x - \\frac{\\pi }{3}} \\right) = 0\\)\\( \\Leftrightarrow 3x - \\frac{\\pi }{3} = \\frac{\\pi }{2} + k\\pi \\)\\( \\Leftrightarrow x = \\frac{{5\\pi }}{{18}} + k\\frac{\\pi }{3},k \\in \\mathbb{Z}\\) ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho dãy số \\(\\left( {{u_n}} \\right)\\) , biết \\({u_n} = \\frac{n}{{{2^n}}}\\) . Chọn đáp án đúng.",
+      "options": [
+        "A. \\({u_4} = \\frac{1}{4}\\) .",
+        "B. \\({u_5} = \\frac{1}{{16}}\\) .",
+        "C. \\({u_5} = \\frac{1}{{32}}\\) .",
+        "D. \\({u_3} = \\frac{1}{8}\\) ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A \\({u_4} = \\frac{4}{{{2^4}}} = \\frac{1}{4}\\) ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho cấp số nhân \\(\\left( {{u_n}} \\right)\\) có số hạng đầu \\({u_1} = 2\\) và công bội \\(q = \\frac{3}{2}\\) . Mệnh đề nào sau đây đúng?",
+      "options": [
+        "A. \\({u_2} = \\frac{7}{2}\\) .",
+        "B. \\({u_2} = 3\\) .",
+        "C. \\({u_2} = \\frac{9}{2}\\) .",
+        "D. \\({u_2} = 4\\) ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có \\({u_2} = {u_1}.q = 2.\\frac{3}{2} = 3\\) ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hai dãy \\(\\left( {{u_n}} \\right)\\) và \\(\\left( {{v_n}} \\right)\\) thỏa mãn \\(\\lim {u_n} = 2\\) và \\(\\lim {v_n} = 3\\) . Giá trị của \\(\\lim \\left( {{u_n}.{v_n}} \\right)\\) bằng",
+      "options": [
+        "A. \\(5\\) .",
+        "B. \\(6\\) .",
+        "C. \\( - 1\\) .",
+        "D. \\(1\\) ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B \\(\\lim \\left( {{u_n}.{v_n}} \\right)\\)\\( = \\lim {u_n} \\cdot \\lim {v_n} = 2 \\cdot 3 = 6\\) ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Hàm số nào sau đây liên tục trên \\(\\mathbb{R}\\) ?",
+      "options": [
+        "A. \\(y = \\sqrt x .\\)",
+        "B. \\(y = \\cot x.\\)",
+        "C. \\(y = \\tan x.\\)",
+        "D. \\(y = \\frac{1}{{{x^2} + 1}}.\\)"
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Xét hàm số \\(y = \\frac{1}{{{x^2} + 1}}.\\) Điều kiện \\({x^2} + 1 \\ne 0\\) (luôn đúng do \\({x^2} \\ge 0,\\,\\forall x \\in \\mathbb{R}\\) nên \\({x^2} + 1 > 0,\\,\\forall x \\in \\mathbb{R}\\) ). Tập xác định của hàm số là \\(D = \\mathbb{R}.\\) Hàm số \\(y = \\frac{1}{{{x^2} + 1}}\\) là hàm phân thức nên nó liên tục trên tập xác định \\(D = \\mathbb{R}.\\)"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: \\(\\lim \\frac{{2{n^2} - 3}}{{{n^6} + 5{n^5}}}\\) bằng",
+      "options": [
+        "A. \\(2\\) .",
+        "B. \\(0\\) .",
+        "C. \\( - \\frac{3}{5}\\) .",
+        "D. \\( - 3\\) ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B \\(\\lim \\frac{{2{n^2} - 3}}{{{n^6} + 5{n^5}}}\\)\\( = \\lim \\frac{{\\frac{2}{{{n^4}}} - \\frac{3}{{{n^6}}}}}{{1 + \\frac{5}{n}}} = 0\\) ."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: \\(\\mathop {\\lim }\\limits_{x \\to {1^ + }} \\frac{{2x - 1}}{{x - 1}}\\) bằng",
+      "options": [
+        "A. 1.",
+        "B. \\( + \\infty .\\)",
+        "C. \\( - \\infty .\\)",
+        "D. 0."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có: \\(\\mathop {\\lim }\\limits_{x \\to {1^ + }} \\left( {2x - 1} \\right) = 2.1 - 1 = 1 > 0;\\) \\(\\mathop {\\lim }\\limits_{x \\to {1^ + }} \\left( {x - 1} \\right) = 0,\\) \\(x - 1 > 0\\) khi \\(x > 1.\\) \\( \\Rightarrow \\mathop {\\lim }\\limits_{x \\to {1^ + }} \\frac{{2x - 1}}{{x - 1}} = + \\infty .\\)"
+    }
+  ]
+}

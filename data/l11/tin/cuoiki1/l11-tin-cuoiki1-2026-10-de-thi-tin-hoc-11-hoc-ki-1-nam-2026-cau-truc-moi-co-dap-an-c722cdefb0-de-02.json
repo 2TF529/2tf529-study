@@ -1,0 +1,248 @@
+{
+  "id": "l11-tin-cuoiki1-2026-10-de-thi-tin-hoc-11-hoc-ki-1-nam-2026-cau-truc-moi-co-dap-an-c722cdefb0-de-02",
+  "grade": "l11",
+  "subjectSlug": "tin",
+  "examType": "cuoiki1",
+  "year": 2026,
+  "code": "Đề 02",
+  "title": "10+ Đề thi Tin học 11 Học kì 1 năm 2026 (cấu trúc mới, có đáp án) - Đề 02",
+  "duration": 45,
+  "answerSource": "missing",
+  "sourceUrl": "https://www.vietjack.com/de-kiem-tra-lop-11/de-kiem-tra-tin-hoc-11-hoc-ki-1.jsp",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 1:&lt;/strong&gt; Chương trình dịch Pascal sẽ cấp phát bao nhiêu byte bộ nhớ cho các biến trong khai báo sau:\nVar M, N, I: INTEGER;\nP, A, B, C: REAL;\nX: EXTENDED;\nK:WORD;",
+      "options": [
+        "A. 44;",
+        "B. 36;",
+        "C. 38;",
+        "D. 42."
+      ],
+      "answer": null
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 2:&lt;/strong&gt; Biết rằng a, b, c là độ dài ba cạnh của một tam giác, biểu thức quan hệ nào sau đây cho kết quả true?",
+      "options": [
+        "A. a + b > c;",
+        "B. b - c > a;",
+        "C. a – c ≥ b;",
+        "D. a - b > c."
+      ],
+      "answer": null
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 3&lt;/strong&gt;: Xét biểu thức logic: (m mod 100 &lt; 10) and (m div 100 &gt; 0). Với giá trị nào của m dưới đây biểu thức trên cho giá trị false?",
+      "options": [
+        "A. 65;",
+        "B. 208;",
+        "C. 2009;",
+        "D. 166509."
+      ],
+      "answer": null
+    },
+    {
+      "id": 4,
+      "type": "short_answer",
+      "content": "&lt;strong&gt;Câu 4&lt;/strong&gt;: Biểu thức Pascal B: = Sqr(sqrt(x1-x2)+sqrt(y1-y2)) khi chuyển sang toán học có dạng:",
+      "answer": null
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 5&lt;/strong&gt;: Cho đoạn chương trình sau:\nreadln(x);\ny := (x+2)*x – 5 ;\nwriteln(‘gia tri cua y = ’, y);\nNếu nhập x = 2 thì có những thông tin gì ở ngoài màn hình?",
+      "options": [
+        "A. gia tri y la:3",
+        "B. y=3",
+        "C. gia tri cua y=3",
+        "D. 3"
+      ],
+      "answer": null
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 6&lt;/strong&gt;: Biến X có thể nhận giá trị: 0; 1; 3; 5; 7; 9 và biến Y có thể nhận các giá trị 0.5; 1.5; 2.5; 3.5; 4.5. Khai báo biến nào sau đây là đúng?",
+      "options": [
+        "A. Var X: Byte; Y: Real;",
+        "B. Var X: Real; Y: Byte;",
+        "C. Var X, Y: Integer;",
+        "D. Var X, Y: Byte;"
+      ],
+      "answer": null
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 7&lt;/strong&gt;: Biểu thức ((35 mod 9) div 3) có kết quả là mấy?",
+      "options": [
+        "A. 1",
+        "B. 3",
+        "C. 4",
+        "D. 2"
+      ],
+      "answer": null
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 8&lt;/strong&gt;: Trong NNLT Pascal câu lệnh Write( ‘5 x 4 = ‘ , 5*4 ) ; viết gì ra màn hình là :",
+      "options": [
+        "A. 5 x 4 = 20",
+        "B. 5 x 4 = 5*4",
+        "C. 20 = 5 * 4",
+        "D. 20 = 20"
+      ],
+      "answer": null
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 9&lt;/strong&gt;: Cho biết kết quả của đoạn chương trình sau?\nN:=5; Tong:=0;\nFor i:=1 to n do\nIf (i mod 2=0) then Tong:=Tong + 1;\nWrite(Tong);",
+      "options": [
+        "A. 3",
+        "B. 1",
+        "C. 6",
+        "D. 2"
+      ],
+      "answer": null
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 10&lt;/strong&gt;: Trong ngôn ngữ lập trình Pascal, cho đoạn chương trình:\ni:=1;\nWhile i <5 do\nBegin\nif I mod 3 = 1 then Write(‘TIN HOC’);\ni:=i+1;\nEnd;\n&lt;strong&gt;Chữ TIN HOC được in ra màn hình mấy lần&lt;/strong&gt;",
+      "options": [
+        "A. 3",
+        "B. 2",
+        "C. 1",
+        "D. 0"
+      ],
+      "answer": null
+    },
+    {
+      "id": 11,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 11&lt;/strong&gt;: Trong pascal, biểu diễn abs(x) có nghĩa là:",
+      "options": [
+        "A. Bình phương của x",
+        "B. Căn bậc hai của x",
+        "C. Giá trị tuyệt đối của x",
+        "D. Luỹ thừa cơ số e của x"
+      ],
+      "answer": null
+    },
+    {
+      "id": 12,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 12&lt;/strong&gt;: Xét biểu thức logic: (n mod 100 > 10) or (n div 100 < 10)\nVới giá trị nào của n sau đây, biểu thức có giá trị đúng?",
+      "options": [
+        "A. 1009",
+        "B. 1008",
+        "C. 1011",
+        "D. 1010"
+      ],
+      "answer": null
+    },
+    {
+      "id": 13,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 13&lt;/strong&gt;: Cho biết kết quả của biểu thức (2*((45 div 3) +12)) mod 5 là bao nhiêu?",
+      "options": [
+        "A. 2",
+        "B. 4",
+        "C. 6",
+        "D. 8"
+      ],
+      "answer": null
+    },
+    {
+      "id": 14,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 14&lt;/strong&gt;: Biểu thức nào không phải là biểu thức trong Pascal?",
+      "options": [
+        "A. (a+x)*(b+y):2",
+        "B. ( m div 5 >=2 ) or ( m <=2)",
+        "C. a*sqr(x) + b*x + c = 0",
+        "D. Not (a &lt; &gt;10)"
+      ],
+      "answer": null
+    },
+    {
+      "id": 15,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 15&lt;/strong&gt;: Phép toán nào đúng khi số nguyên A chia hết cho 3:",
+      "options": [
+        "A. A mod 3 = 1",
+        "B. A div 3 = 1",
+        "C. A div 3 = 0",
+        "D. A mod 3 = 0"
+      ],
+      "answer": null
+    },
+    {
+      "id": 16,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 16&lt;/strong&gt;: Biểu thức 3 mod 7 có giá trị là:",
+      "options": [
+        "A. 2",
+        "B. 3",
+        "C. 0",
+        "D. 7"
+      ],
+      "answer": null
+    },
+    {
+      "id": 17,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 17&lt;/strong&gt;: Để nhập giá trị cho 3 biến x, y và z ta dùng lệnh:",
+      "options": [
+        "A. Write(x, y, z);",
+        "B. Real(x yz);",
+        "C. Readln(x, y, z);",
+        "D. Read(‘x, y, z’);"
+      ],
+      "answer": null
+    },
+    {
+      "id": 18,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 18&lt;/strong&gt;: Để đưa ra màn hình giá trị của biến x kiểu thực và biến y kiểu nguyên ta dùng lệnh:",
+      "options": [
+        "A. Write(x:8:3, y:8);",
+        "B. Readln(x, y);",
+        "C. Writeln(x:8, y:8:3);",
+        "D. Writeln(x:8:3, y:8:3);"
+      ],
+      "answer": null
+    },
+    {
+      "id": 19,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 19&lt;/strong&gt;: Để đóng cửa sổ chương trình, trong Pascal ta dùng tổ hợp phím:",
+      "options": [
+        "A. Ctrl + F9",
+        "B. Alt + F9",
+        "C. Alt + F3",
+        "D. Alt + X"
+      ],
+      "answer": null
+    },
+    {
+      "id": 20,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 20&lt;/strong&gt;: Cho biết kết quả sau khi thực hiện lệnh:\nBegin\na := 100;   b := 15;   x := a div b ;   Write(x);\nEnd.",
+      "options": [
+        "A. 10",
+        "B. 33",
+        "C. 3",
+        "D. 6"
+      ],
+      "answer": null
+    }
+  ]
+}

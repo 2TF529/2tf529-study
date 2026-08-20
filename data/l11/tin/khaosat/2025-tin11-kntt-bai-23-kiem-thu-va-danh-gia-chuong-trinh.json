@@ -1,0 +1,137 @@
+{
+  "id": "l11-tin-khaosat-2025-tin11-kntt-bai-23-kiem-thu-va-danh-gia-chuong-trinh",
+  "grade": "l11",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2025,
+  "code": "Bài 23. Kiểm thử và đánh giá chương trình",
+  "title": "TIN11 - KNTT-Bài 23. Kiểm thử và đánh giá chương trình",
+  "duration": 15,
+  "answerSource": "official",
+  "sourceId": "hochanh:4480",
+  "passages": {
+    "p1": "App không chấm điểm câu hỏi này!\nBạn lựa chọn đạt / không đạt để tự chấm."
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án.\nPhương pháp kiểm thử nào dưới đây có thể giúp tăng độ tin cậy của chương trình nhưng không chứng minh được tính đúng của thuật toán?",
+      "options": [
+        "A. Kiểm thử bằng chứng minh lôgic toán học",
+        "B. Sử dụng các bộ dữ liệu kiểm thử",
+        "C. Sử dụng phương pháp quy nạp toán học",
+        "D. Xem xét thời gian chạy của chương trình"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Phương pháp nào sau đây thường được sử dụng để chứng minh tính đúng của thuật toán một cách chắc chắn?",
+      "options": [
+        "A. Kiểm thử bằng cách chạy nhiều lần",
+        "B. Dùng dữ liệu kiểm thử ngẫu nhiên",
+        "C. Chứng minh bằng lôgic toán học",
+        "D. Kiểm tra độ phức tạp tính toán"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Mục đích chính của việc kiểm thử chương trình là gì?",
+      "options": [
+        "A. Đảm bảo chương trình chạy nhanh nhất có thể",
+        "B. Phát hiện lỗi và sửa lỗi để tăng độ tin cậy của chương trình",
+        "C. Chứng minh chương trình không bao giờ sai",
+        "D. Đánh giá khả năng tối ưu của thuật toán"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Trong kiểm thử chương trình, tại sao không thể chỉ dựa vào các bộ dữ liệu kiểm thử để chứng minh tính đúng của thuật toán?",
+      "options": [
+        "A. Vì các bộ dữ liệu kiểm thử thường có sai sót",
+        "B. Vì kiểm thử không kiểm tra được tất cả các tình huống có thể xảy ra",
+        "C. Vì thuật toán luôn có khả năng chạy sai",
+        "D. Vì kiểm thử chỉ làm tăng thời gian chạy của chương trình"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Tiêu chí nào dưới đây thường được xem xét khi đánh giá hiệu quả của một thuật toán?",
+      "options": [
+        "A. Tính đơn giản và dễ hiểu",
+        "B. Thời gian và không gian bộ nhớ sử dụng",
+        "C. Khả năng phát hiện lỗi tự động",
+        "D. Độ dài của mã lệnh"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Một chương trình có thể tối ưu về mặt thời gian nhưng không tối ưu về mặt nào dưới đây?",
+      "options": [
+        "A. Tính đúng của thuật toán",
+        "B. Dung lượng bộ nhớ sử dụng",
+        "C. Khả năng kiểm thử",
+        "D. Độ phức tạp logic"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Trong kiểm thử chương trình, tại sao nên sử dụng các bộ dữ liệu có tính đa dạng cao?",
+      "options": [
+        "A. Để kiểm tra độ nhanh chậm của thuật toán",
+        "B. Để tăng khả năng phát hiện lỗi trong các trường hợp khác nhau",
+        "C. Để giúp chương trình dễ hiểu hơn",
+        "D. Để giảm thời gian chạy chương trình"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Độ phức tạp tính toán của một thuật toán chủ yếu đánh giá điều gì?",
+      "options": [
+        "A. Tính đơn giản của thuật toán",
+        "B. Tài nguyên phần cứng cần thiết để chạy chương trình",
+        "C. Tốc độ thực thi và bộ nhớ cần thiết cho chương trình",
+        "D. Khả năng kiểm tra lỗi của chương trình"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "content": "Trong các lựa chọn sau, đâu là lợi ích của việc sử dụng các bộ dữ liệu kiểm thử?",
+      "options": [
+        "A. Chứng minh thuật toán chạy đúng cho mọi trường hợp",
+        "B. Tăng độ tin cậy của chương trình",
+        "C. Giảm thời gian cần để viết mã",
+        "D. Đảm bảo bộ nhớ sử dụng tối thiểu"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "content": "Phương pháp quy nạp toán học thường được sử dụng để làm gì trong kiểm thử chương trình?",
+      "options": [
+        "A. Để tìm và sửa lỗi trong mã lệnh",
+        "B. Để chứng minh tính đúng của thuật toán",
+        "C. Để đo độ phức tạp của chương trình",
+        "D. Để đánh giá dung lượng bộ nhớ sử dụng"
+      ],
+      "answer": "B"
+    }
+  ]
+}

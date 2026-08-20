@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-11-canh-dieu-bai-8-hoan-tat-ung-dung",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-11-canh-die",
+  "grade": "l11",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 11 Cánh diều Bài 8: Hoàn tất ứng dụng diện có đáp án",
+  "duration": 50,
+  "answerSource": "partial",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Biểu mẫu điều hướng trong Access có chức năng gì?",
+      "options": [
+        "A. Hiển thị toàn bộ bảng dữ liệu trong CSDL.",
+        "B. Giúp điều hướng giữa các biểu mẫu và báo cáo một cách dễ dàng.",
+        "C. Cho phép người dùng thay đổi dữ liệu trong báo cáo.",
+        "D. Là công cụ để lập trình trong VBA."
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Biểu mẫu điều hướng là giao diện chứa các nút điều khiển, giúp người dùng dễ dàng di chuyển giữa các biểu mẫu và báo cáo trong cơ sở dữ liệu"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Tại sao không nên cho phép truy cập trực tiếp vào các bảng dữ liệu trong vùng điều hướng?",
+      "options": [
+        "A. Vì có thể làm hỏng cấu trúc của biểu mẫu.",
+        "B. Vì người dùng có thể vô tình thay đổi hoặc xóa dữ liệu.",
+        "C. Vì các bảng dữ liệu không quan trọng đối với người dùng.",
+        "D. Vì Access không hỗ trợ việc truy cập vào bảng dữ liệu trực tiếp."
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Truy cập trực tiếp vào bảng dữ liệu có thể dẫn đến việc người dùng vô tình chỉnh sửa hoặc xóa dữ liệu, gây hỏng hóc cho hệ thống."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Để thiết lập biểu mẫu điều hướng làm bàn điều khiển trung tâm, người dùng cần chọn mục nào trong phần Current Database?",
+      "options": [
+        "A. Display Form.",
+        "B. Layout View.",
+        "C. Navigation Pane.",
+        "D. Macros & Code."
+      ],
+      "answer": null,
+      "note": "Đáp án: A Giải thích: Trong phần Current Database, người dùng cần chọn Display Form để đặt biểu mẫu điều hướng làm bàn điều khiển trung tâm khi khởi động cơ sở dữ liệu."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Đâu là cách để ẩn vùng điều hướng khi mở cơ sở dữ liệu trong Access?",
+      "options": [
+        "A. Chọn Layout View và ẩn vùng điều hướng.",
+        "B. Chọn Navigation Pane và bỏ đánh dấu Display Navigation Pane.",
+        "C. Chọn biểu mẫu điều hướng và ẩn các đối tượng trong đó.",
+        "D. Không thể ẩn vùng điều hướng trong Access."
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Để ẩn vùng điều hướng, người dùng cần bỏ đánh dấu tùy chọn \"Display Navigation Pane\" trong phần thiết lập Navigation."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Khi nào các thiết lập về việc hiển thị biểu mẫu điều hướng có hiệu lực?",
+      "options": [
+        "A. Ngay lập tức sau khi thiết lập xong.",
+        "B. Sau khi lưu cơ sở dữ liệu.",
+        "C. Sau khi đóng và mở lại cơ sở dữ liệu.",
+        "D. Khi người dùng mở biểu mẫu điều hướng thủ công"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Các thiết lập về việc hiển thị biểu mẫu điều hướng chỉ có hiệu lực sau khi đóng và mở lại cơ sở dữ liệu Access"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong Access, có thể thực hiện thao tác gì trên báo cáo?",
+      "options": [
+        "A. Nhập và chỉnh sửa dữ liệu trực tiếp.",
+        "B. Chỉ xem thông tin mà không thể sửa đổi dữ liệu.",
+        "C. Thêm mới dữ liệu vào bảng nguồn.",
+        "D. Xóa bảng nguồn dữ liệu."
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Báo cáo chỉ hiển thị kết quả xuất ra thông tin và không cho phép người dùng chỉnh sửa dữ liệu từ bảng nguồn."
+    }
+  ]
+}

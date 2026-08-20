@@ -1,0 +1,196 @@
+{
+  "id": "l12-toan-totnghiep-2026-de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-dong-nai-nam-2026-lan-2",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "code": "THPT_TKT_2026_ĐN_02",
+  "title": "Đề khảo sát chất lượng THPT môn Toán Sở GD&ĐT Đồng Nai năm 2026 - Lần 2",
+  "duration": 90,
+  "answerSource": "official",
+  "source": "https://dolthpt.vn/tot-nghiep-thpt/pdf-de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-dong-nai-nam-2026-lan-2-co-dap-an",
+  "notes": "Nội dung, đáp án và lời giải được nhập từ bản công khai của DOL THPT.",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "content": "Họ nguyên hàm của hàm số $f(x)=3x^2+2\\sin x$ là",
+      "chuong": "nguyên hàm và tích phân",
+      "dang": "nguyên hàm của một số hàm số thường gặp",
+      "type": "single",
+      "options": [
+        "A. $x^3-2\\cos x+C$.",
+        "B. $x^3+2\\cos x+C$.",
+        "C. \\$3x^3+2\\cos x+C$.",
+        "D. \\$3x^3-2\\cos x+C$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số cần tìm nguyên hàm là $f(x)=3x^2+2\\sin x$.\n- Các đáp án đều là những hàm có dạng $F(x)+C$.\n❓ **Hiểu câu hỏi:**\n- Cần tìm một hàm $F(x)$ sao cho $F'(x)=3x^2+2\\sin x$.\n- Đây là bài nhận biết công thức nguyên hàm cơ bản.\n🔎 **Hướng dẫn cách làm:**\n- Tách nguyên hàm theo từng hạng tử:\n $\\int (3x^2+2\\sin x)dx=\\int 3x^2dx+\\int 2\\sin xdx.$\n- Ta có $\\int 3x^2dx=x^3$ vì $(x^3)'=3x^2$.\n- Ta có $\\int 2\\sin xdx=-2\\cos x$ vì $(-2\\cos x)'=2\\sin x$.\n- Vậy một họ nguyên hàm là $x^3-2\\cos x+C$.\n✅ **Đáp án:** Chọn A."
+    },
+    {
+      "id": 2,
+      "content": "Trong không gian $Oxyz$, cho hai điểm $A(2;3;1)$ và $B(-4;-1;5)$. Tọa độ trung điểm $M$ của đoạn thẳng $AB$ là",
+      "chuong": "vectơ và hệ trục tọa độ trong không gian",
+      "dang": "tọa độ của điểm, tọa độ của vectơ trong không gian",
+      "type": "single",
+      "options": [
+        "A. $M(6;4;-4)$.",
+        "B. $M(-6;-4;4)$.",
+        "C. $M(-1;1;3)$.",
+        "D. $M(-2;2;6)$."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hai điểm trong không gian: $A(2;3;1)$ và $B(-4;-1;5)$.\n- Cần tìm tọa độ trung điểm $M$ của đoạn thẳng $AB$.\n❓ **Hiểu câu hỏi:**\n- Trung điểm của đoạn thẳng có tọa độ bằng trung bình cộng từng tọa độ tương ứng của hai đầu mút.\n🔎 **Hướng dẫn cách làm:**\n- Công thức trung điểm:\n $M\\left(\\dfrac{x_A+x_B}{2};\\dfrac{y_A+y_B}{2};\\dfrac{z_A+z_B}{2}\\right).$\n- Thay số:\n$M\\left(\\dfrac{2+(-4)}2;\\dfrac{3+(-1)}2;\\dfrac{1+5}2\\right)=M(-1;1;3).$\n✅ **Đáp án:** Chọn C."
+    },
+    {
+      "id": 3,
+      "content": "Gọi $\\Delta$ là tiếp tuyến của đồ thị hàm số $y=x^3+3x$ tại điểm có hoành độ bằng \\$1$. Hệ số góc của $\\Delta$ bằng",
+      "chuong": "đạo hàm",
+      "dang": "ý nghĩa hình học của đạo hàm",
+      "type": "single",
+      "options": [
+        "A. \\$4$.",
+        "B. \\$6$.",
+        "C. \\$1$.",
+        "D. \\$3$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Đồ thị hàm số $y=x^3+3x$.\n- Tiếp tuyến được xét tại điểm có hoành độ $x=1$.\n- Cần tìm hệ số góc của tiếp tuyến.\n❓ **Hiểu câu hỏi:**\n- Hệ số góc của tiếp tuyến với đồ thị $y=f(x)$ tại $x=x_0$ chính là $f'(x_0)$.\n🔎 **Hướng dẫn cách làm:**\n- Tính đạo hàm:\n $y'=3x^2+3.$\n- Thay $x=1$:\n $y'(1)=3\\cdot1^2+3=6.$\n- Vậy hệ số góc của tiếp tuyến bằng \\$6$.\n✅ **Đáp án:** Chọn B."
+    },
+    {
+      "id": 4,
+      "content": "Cho cấp số nhân $(u_n)$ có $u_2=6,\\ u_3=12$. Công bội của cấp số nhân $(u_n)$ bằng",
+      "chuong": "dãy số. cấp số cộng và cấp số nhân",
+      "dang": "định nghĩa cấp số nhân",
+      "type": "single",
+      "options": [
+        "A. \\$6$.",
+        "B. $\\dfrac12$.",
+        "C. \\$2$.",
+        "D. \\$3$."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cấp số nhân $(u_n)$ có $u_2=6$ và $u_3=12$.\n- Cần tìm công bội $q$.\n❓ **Hiểu câu hỏi:**\n- Với cấp số nhân, hai số hạng liên tiếp thỏa mãn $u_{n+1}=u_nq$.\n🔎 **Hướng dẫn cách làm:**\n- Áp dụng cho hai số hạng $u_2$ và $u_3$:\n $u_3=u_2q.$\n- Suy ra:\n $q=\\dfrac{u_3}{u_2}=\\dfrac{12}{6}=2.$\n✅ **Đáp án:** Chọn C."
+    },
+    {
+      "id": 5,
+      "content": "Trong không gian $Oxyz$, cho mặt cầu $(S)$ có tâm $I(2;-3;-4)$ và tiếp xúc với mặt phẳng $(Oxy)$. Bán kính của mặt cầu $(S)$ bằng",
+      "chuong": "phương pháp tọa độ trong không gian",
+      "dang": "phương trình mặt cầu",
+      "type": "single",
+      "options": [
+        "A. \\$3$.",
+        "B. \\$16$.",
+        "C. \\$4$.",
+        "D. \\$2$."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Mặt cầu $(S)$ có tâm $I(2;-3;-4)$.\n- Mặt cầu tiếp xúc với mặt phẳng $(Oxy)$.\n- Cần tìm bán kính của mặt cầu.\n❓ **Hiểu câu hỏi:**\n- Khi mặt cầu tiếp xúc với một mặt phẳng, bán kính bằng khoảng cách từ tâm mặt cầu đến mặt phẳng đó.\n🔎 **Hướng dẫn cách làm:**\n- Mặt phẳng $(Oxy)$ có phương trình $z=0$.\n- Khoảng cách từ $I(2;-3;-4)$ đến mặt phẳng $z=0$ là:\n $d=|-4|=4.$\n- Vì mặt cầu tiếp xúc với $(Oxy)$ nên $R=d=4$.\n✅ **Đáp án:** Chọn C."
+    },
+    {
+      "id": 6,
+      "content": "Cho hàm số $f(x)$ thỏa mãn $\\displaystyle\\int_{-2}^{1}f(x)dx=2$. Tính $\\displaystyle\\int_{-2}^{1}(1+f(x))dx$.",
+      "chuong": "nguyên hàm và tích phân",
+      "dang": "tính chất của tích phân",
+      "type": "single",
+      "options": [
+        "A. \\$1$.",
+        "B. $-1$.",
+        "C. $-5$.",
+        "D. \\$5$."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- $\\displaystyle\\int_{-2}^{1}f(x)dx=2$.\n- Cần tính $\\displaystyle\\int_{-2}^{1}(1+f(x))dx$.\n❓ **Hiểu câu hỏi:**\n- Đây là bài dùng tính tuyến tính của tích phân: tích phân của tổng bằng tổng các tích phân.\n🔎 **Hướng dẫn cách làm:**\n- Tách tích phân:\n $\\int_{-2}^{1}(1+f(x))dx=\\int_{-2}^{1}1dx+\\int_{-2}^{1}f(x)dx.$\n- Tính từng phần:\n $\\int_{-2}^{1}1dx=1-(-2)=3,$\n $\\int_{-2}^{1}f(x)dx=2.$\n- Do đó:\n $\\int_{-2}^{1}(1+f(x))dx=3+2=5.$\n✅ **Đáp án:** Chọn D."
+    },
+    {
+      "id": 7,
+      "content": "Cho hàm số $y=f(x)$ có bảng biến thiên như hình bên dưới. Giá trị cực đại của hàm số $f(x)$ là\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-dong-nai-nam-2026-lan-2/cau-07.webp\" alt=\"Hình minh họa câu 7\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "cực trị của hàm số",
+      "type": "single",
+      "options": [
+        "A. \\$3$.",
+        "B. \\$2$.",
+        "C. $-2$.",
+        "D. $-1$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Bảng biến thiên cho thấy hàm số tăng trên $(-\\infty;-1)$, giảm trên $(-1;2)$, rồi tăng trên $(2;+\\infty)$.\n- Giá trị tại điểm đổi chiều từ tăng sang giảm là $f(-1)=3$.\n❓ **Hiểu câu hỏi:**\n- Cần đọc giá trị cực đại của hàm số từ bảng biến thiên, không cần tính đạo hàm.\n🔎 **Hướng dẫn cách làm:**\n- Khi $f'(x)$ đổi dấu từ dương sang âm tại $x=-1$, hàm số đạt cực đại tại $x=-1$.\n- Dòng giá trị của bảng biến thiên cho $f(-1)=3$.\n- Vậy giá trị cực đại của hàm số là \\$3$.\n✅ **Đáp án:** Chọn A."
+    },
+    {
+      "id": 8,
+      "content": "Trong không gian $Oxyz$, phương trình chính tắc của đường thẳng $d$ đi qua $M(2;1;1)$ và có vectơ chỉ phương $\\vec u=(2;-1;3)$ là",
+      "chuong": "phương pháp tọa độ trong không gian",
+      "dang": "phương trình đường thẳng",
+      "type": "single",
+      "options": [
+        "A. $\\dfrac{x+2}{2}=\\dfrac{y-1}{1}=\\dfrac{z+3}{1}$.",
+        "B. $\\dfrac{x-2}{2}=\\dfrac{y+1}{1}=\\dfrac{z-3}{1}$.",
+        "C. $\\dfrac{x-2}{2}=\\dfrac{y-1}{-1}=\\dfrac{z-1}{3}$.",
+        "D. $\\dfrac{x+2}{2}=\\dfrac{y+1}{-1}=\\dfrac{z+1}{3}$."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Đường thẳng $d$ đi qua điểm $M(2;1;1)$.\n- Vector chỉ phương của đường thẳng là $\\vec u=(2;-1;3)$.\n❓ **Hiểu câu hỏi:**\n- Cần viết phương trình chính tắc của đường thẳng trong không gian.\n🔎 **Hướng dẫn cách làm:**\n- Với đường thẳng đi qua $M(x_0;y_0;z_0)$ và có vector chỉ phương $(a;b;c)$, phương trình chính tắc là:\n $\\dfrac{x-x_0}{a}=\\dfrac{y-y_0}{b}=\\dfrac{z-z_0}{c}.$\n- Thay $M(2;1;1)$ và $(a;b;c)=(2;-1;3)$:\n $\\dfrac{x-2}{2}=\\dfrac{y-1}{-1}=\\dfrac{z-1}{3}.$\n✅ **Đáp án:** Chọn C."
+    },
+    {
+      "id": 9,
+      "content": "Hàm số $y=\\sin x$ tuần hoàn với chu kỳ",
+      "chuong": "hàm số lượng giác và phương trình lượng giác",
+      "dang": "hàm số chẵn, hàm số lẻ, hàm số tuần hoàn",
+      "type": "single",
+      "options": [
+        "A. $T=3\\pi$.",
+        "B. $T=2\\pi$.",
+        "C. $T=\\dfrac{\\pi}{2}$.",
+        "D. $T=\\pi$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số cần xét là $y=\\sin x$.\n- Cần chọn chu kỳ của hàm số.\n❓ **Hiểu câu hỏi:**\n- Chu kỳ $T$ là số dương nhỏ nhất sao cho $\\sin(x+T)=\\sin x$ với mọi $x$.\n🔎 **Hướng dẫn cách làm:**\n- Hàm số $\\sin x$ có chu kỳ cơ bản là \\$2\\pi$.\n- Thật vậy:\n $\\sin(x+2\\pi)=\\sin x.$\n- Không có số dương nhỏ hơn trong các đáp án là chu kỳ cơ bản của $\\sin x$.\n✅ **Đáp án:** Chọn B."
+    },
+    {
+      "id": 10,
+      "content": "Một mẫu số liệu ghép nhóm có tứ phân vị là $Q_1=3,\\ Q_2=5,\\ Q_3=9$. Khoảng tứ phân vị của mẫu số liệu này là",
+      "chuong": "các số đặc trưng đo mức độ phân tán cho mẫu số liệu ghép nhóm",
+      "dang": "khoảng tứ phân vị",
+      "type": "single",
+      "options": [
+        "A. \\$2$.",
+        "B. \\$6$.",
+        "C. \\$4$.",
+        "D. \\$5$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Các tứ phân vị của mẫu số liệu ghép nhóm là $Q_1=3$, $Q_2=5$, $Q_3=9$.\n- Cần tìm khoảng tứ phân vị.\n❓ **Hiểu câu hỏi:**\n- Khoảng tứ phân vị đo độ phân tán của 50% dữ liệu ở giữa.\n🔎 **Hướng dẫn cách làm:**\n- Công thức khoảng tứ phân vị:\n $\\Delta_Q=Q_3-Q_1.$\n- Thay số:\n $\\Delta_Q=9-3=6.$\n✅ **Đáp án:** Chọn B."
+    },
+    {
+      "id": 11,
+      "content": "Cho hai biến cố $A, B$ có $P(B)=0{,}6$ và $P(A|B)=0{,}5$. Khi đó $P(AB)$ bằng",
+      "chuong": "xác suất có điều kiện",
+      "dang": "công thức nhân xác suất",
+      "type": "single",
+      "options": [
+        "A. \\$0{,}5$.",
+        "B. \\$0{,}3$.",
+        "C. \\$0{,}8$.",
+        "D. \\$0{,}6$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- $P(B)=0{,}6$.\n- $P(A|B)=0{,}5$.\n- Cần tính $P(AB)$, tức là $P(A\\cap B)$.\n❓ **Hiểu câu hỏi:**\n- Dùng công thức xác suất có điều kiện:\n $P(A|B)=\\dfrac{P(A\\cap B)}{P(B)}.$\n🔎 **Hướng dẫn cách làm:**\n- Từ công thức trên:\n $P(A\\cap B)=P(A|B)\\cdot P(B).$\n- Thay số:\n $P(A\\cap B)=0{,}5\\cdot0{,}6=0{,}3.$\n✅ **Đáp án:** Chọn B."
+    },
+    {
+      "id": 12,
+      "content": "Nghiệm của phương trình $\\log_2(x-1)=3$ là",
+      "chuong": "hàm số mũ và hàm số lôgarit",
+      "dang": "phương trình lôgarit",
+      "type": "single",
+      "options": [
+        "A. $x=8$.",
+        "B. $x=7$.",
+        "C. $x=5$.",
+        "D. $x=9$."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Phương trình logarit:\n $\\log_2(x-1)=3.$\n- Cần tìm nghiệm $x$.\n❓ **Hiểu câu hỏi:**\n- Chuyển phương trình logarit sang dạng mũ tương đương.\n🔎 **Hướng dẫn cách làm:**\n- Điều kiện xác định:\n $x-1>0\\Rightarrow x>1.$\n- Từ $\\log_2(x-1)=3$ suy ra:\n $x-1=2^3=8.$\n- Do đó:\n $x=9.$\n- Nghiệm $x=9$ thỏa điều kiện $x>1$.\n✅ **Đáp án:** Chọn D."
+    }
+  ]
+}

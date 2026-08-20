@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-11-canh-dieu-bai-10-thiet-ke-chuong-",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-11-canh-die",
+  "grade": "l11",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 11 Cánh diều Bài 10: Thiết kế chương trình từ trên xuống và phương pháp mô đun hóa có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Thiết kế chương trình từ trên xuống là gì?",
+      "options": [
+        "A. Phương pháp phân tích chương trình thành nhiều phần nhỏ, độc lập.",
+        "B. Kỹ thuật viết mã theo từng dòng mà không phân chia hàm.",
+        "C. Phương pháp tập trung vào viết một hàm duy nhất cho tất cả các chức năng.",
+        "D. Một cách lập trình mà không cần kiểm thử chương trình."
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Thiết kế từ trên xuống là phương pháp chia chương trình thành các mô-đun độc lập để dễ dàng quản lý và bảo trì."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Mô đun hóa giúp ích gì trong quá trình lập trình?",
+      "options": [
+        "A. Giảm độ phức tạp và giúp chương trình dễ hiểu hơn.",
+        "B. Tăng độ khó trong lập trình và gỡ lỗi.",
+        "C. Tăng kích thước mã và làm cho chương trình khó bảo trì.",
+        "D. Không có tác dụng gì đối với lập trình."
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Mô đun hóa giúp giảm độ phức tạp bằng cách chia chương trình thành các phần nhỏ, dễ quản lý và kiểm thử."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Giai đoạn nào trong mô đun hóa là bước đầu tiên?",
+      "options": [
+        "A. Thiết kế các hàm nhỏ.",
+        "B. Viết chương trình chính.",
+        "C. Liệt kê các việc lớn cần thực hiện.",
+        "D. Gỡ lỗi từng hàm."
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Giai đoạn đầu tiên là liệt kê các công việc lớn để định hướng cho toàn bộ quy trình phát triển chương trình."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Một lợi ích quan trọng của lập trình theo phương pháp mô đun hóa là gì?",
+      "options": [
+        "A. Tăng tốc độ phát triển phần mềm bằng cách tránh các hàm phức tạp.",
+        "B. Dễ dàng kiểm thử và sửa lỗi các mô-đun riêng biệt.",
+        "C. Giảm thiểu tài nguyên phần cứng sử dụng.",
+        "D. Làm cho chương trình trở nên ngắn hơn bất kể yêu cầu ban đầu."
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Phương pháp mô đun hóa giúp tách riêng các phần của chương trình, từ đó dễ dàng kiểm thử và sửa lỗi từng mô-đun."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Trong lập trình mô đun hóa, chương trình chính thường bao gồm gì?",
+      "options": [
+        "A. Tất cả các chức năng của chương trình",
+        "B. Một số câu lệnh để gọi các hàm do người lập trình định nghĩa.",
+        "C. Một hàm duy nhất thực hiện toàn bộ công việc.",
+        "D. Các câu lệnh không cần phân chia theo chức năng."
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Chương trình chính thường chỉ gồm các lệnh gọi các hàm đã được lập trình riêng để thực hiện từng công việc cụ thể."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Tại sao mô đun hóa lại giúp chương trình có khả năng tái sử dụng cao?",
+      "options": [
+        "A. Vì các mô-đun là duy nhất và không thể dùng ở nơi khác.",
+        "B. Vì các mô-đun có tính độc lập nên có thể được sử dụng lại trong các chương trình khác.",
+        "C. Vì lập trình mô đun hóa chỉ sử dụng được trong một dự án cụ thể.",
+        "D. Vì mô đun hóa chỉ dành cho các chương trình nhỏ."
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Các mô-đun có tính độc lập và có thể tái sử dụng trong nhiều chương trình khác nhau nhờ vào cấu trúc rõ ràng và tính độc lập của chúng."
+    }
+  ]
+}

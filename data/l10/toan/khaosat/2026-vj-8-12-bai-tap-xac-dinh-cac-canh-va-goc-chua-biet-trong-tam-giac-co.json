@@ -1,0 +1,65 @@
+{
+  "id": "2026-vj-8-12-bai-tap-xac-dinh-cac-canh-va-goc-chua-biet-trong-tam-giac-co",
+  "sourceId": "vietjack:8-12-bai-tap-xac-dinh-cac-canh-va-goc-ch",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "8.12 Bài tập Xác định các cạnh và góc chưa biết trong tam giác (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 3: Cho tam giác DEF có DE = 4 cm; DF = 5 cm và EF = 3 cm. Số đo của của góc D gần nhất với giá trị nào dưới đây?",
+      "options": [
+        "A. 78,63°;",
+        "B. 78,36°;",
+        "C. 63,78°;",
+        "D. 36,87°."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải: Đáp án đúng là: D. Áp dụng hệ quả của định lý côsin vào tam giác DEF ta được: \\(\\cos D = \\frac{{D{E^2} + D{F^2} - E{F^2}}}{{2.DE.DF}} = \\frac{{{4^2} + {5^2} - {3^2}}}{{2.4.5}} = \\frac{4}{5}\\) . Do đó \\(\\widehat D \\approx 36,87^\\circ \\)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 4: Cho tam giác ABC có a = 4, b = 6 và cosC = \\(\\frac{2}{3}\\). Giá trị của c bằng:",
+      "options": [
+        "A. \\(3\\sqrt 5 \\);",
+        "B. \\(2\\sqrt 5 \\);",
+        "C. \\(5\\sqrt 2 \\);",
+        "D. \\(5\\sqrt 3 \\)."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải: Đáp án đúng là: B. Áp dụng định lý côsin vào tam giác ABC ta có:\\({c^2} = {a^2} + {b^2} - 2ab\\cos C\\) Thay số \\({c^2} = {4^2} + {6^2} - 2.4.6.\\frac{2}{3} = 20\\) . Do đó: \\(c = \\sqrt {20} = 2\\sqrt 5 \\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 5: Cho tam giác ABC có \\(\\widehat A = 60^\\circ \\), \\(\\widehat B = 45^\\circ \\), b = 4. Tính cạnh a.",
+      "options": [
+        "A. \\(2\\sqrt 6 \\);",
+        "B. \\(3\\sqrt 6 \\);",
+        "C. \\(6\\sqrt 2 \\);",
+        "D. \\(6\\sqrt 3 \\)."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A. Theo định lí sin ta có \\(\\frac{a}{{\\sin A}} = \\frac{b}{{\\sin B}}\\)\\( \\Rightarrow a = \\frac{{b.\\sin A}}{{\\sin B}}\\)\\( = \\frac{{4.\\sin 60^\\circ }}{{\\sin 45^\\circ }} = 2\\sqrt 6 \\) ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 6: Cho tam giác nhọn MNP có \\(\\widehat N = 60^\\circ \\); MP = 8 cm; MN = 5 cm. Số đo của góc M gần nhất với giá trị:",
+      "options": [
+        "A. 85°;",
+        "B. 86°;",
+        "C. 87°;",
+        "D. 88°."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải: Đáp án đúng là: C. Áp dụng định lý sin ta có: \\(\\frac{{MN}}{{\\sin P}} = \\frac{{MP}}{{\\sin N}} \\Rightarrow \\sin P = \\frac{{MN.\\sin N}}{{MP}} = \\frac{{5.\\sin 60^\\circ }}{8} = \\frac{{5\\sqrt 3 }}{{16}}\\) \\( \\Rightarrow \\widehat P \\approx 32^\\circ 46'\\) (do góc P nhọn) \\( \\Rightarrow \\widehat M \\approx 180^\\circ - 60^\\circ - 32^\\circ 46' = 87^\\circ 14'\\) (suy ra từ định lí tổng 3 góc trong tam giác)."
+    }
+  ]
+}

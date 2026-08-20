@@ -1,0 +1,340 @@
+{
+  "id": "l10-tin-cuoiki2-2025-hochanh-5998",
+  "grade": "l10",
+  "subjectSlug": "tin",
+  "examType": "cuoiki2",
+  "year": 2025,
+  "code": "HocHanh 5998",
+  "title": "TIN10 - KNTT- Đề kiểm tra cuối học kỳ 2 - 01",
+  "duration": 31,
+  "answerSource": "official",
+  "passages": {
+    "p1": "App không chấm điểm câu hỏi này!\nBạn lựa chọn đạt / không đạt để tự chấm."
+  },
+  "questions": [
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Lệnh nào để duyệt từng phần tử của danh sách?",
+      "options": [
+        "A. for.",
+        "B. while – for.",
+        "C. for kết hợp với lệnh range().",
+        "D. while kết hợp với lệnh range()."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Toán tử nào dùng để kiểm tra một giá trị có nằm trong danh sách không?",
+      "options": [
+        "A. in.",
+        "B. int.",
+        "C. range.",
+        "D. append."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Sau khi thực hiện các câu lệnh sau, mảng A như thế nào?\n>>> A = [1, 2, 3, 4, 5]\n>>> A. remove(2)\n>>> print(A)",
+      "options": [
+        "A. [1, 2, 3, 4].",
+        "B. [2, 3, 4, 5].",
+        "C. [1, 2, 4, 5].",
+        "D. [1, 3, 4, 5]."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Giả sử s = \"Thời khóa biểu\" thì len(s) bằng bao nhiêu?",
+      "options": [
+        "A. 3",
+        "B. 5",
+        "C. 14",
+        "D. 17"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Nếu S = \"1234567890\" thì S[0:4] là gì?",
+      "options": [
+        "A. \"123\"",
+        "B. \"0123\"",
+        "C. \"01234\"",
+        "D. \"1234\""
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Lệnh sau trả lại giá trị gì? <figure class=\"question-figure\"><img src=\"data/l10/tin/cuoiki2/assets/2025-tin10-kntt-de-kiem-tra-cuoi-hoc-ky-2-01/hinh-01.webp\" alt=\"Hình minh họa của câu hỏi\" loading=\"lazy\"></figure>",
+      "options": [
+        "A. 5",
+        "B. 6",
+        "C. 7",
+        "D. 8"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Để tách một xâu thành danh sách các từ ta dùng lệnh nào?",
+      "options": [
+        "A. Lệnh join()",
+        "B. Lệnh split()",
+        "C. Lệnh len()",
+        "D. Lệnh find()"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "content": "Số phát biểu đúng trong số phát biểu sau:\n1) Python cung cấp sẵn nhiều hàm thực hiện những công việc khác nhau cho người dùng tuỳ ý sử dụng.\n2) Lệnh float() chuyển đối tượng đã cho thành kiểu số thực.\n3) Lệnh int trả về số nguyên từ số hoặc chuỗi biểu thức.\n4) Trong python, người dùng chỉ được sử dụng các hàm có sẵn được xây dựng.\n5) Người dùng có thể xây dựng thêm một số hàm mới.",
+      "options": [
+        "A. 1.",
+        "B. 2.",
+        "C. 3.",
+        "D. 4."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "content": "Trong định nghĩa của hàm có thể có bao nhiêu từ khóa return?",
+      "options": [
+        "A. 1",
+        "B. 2",
+        "C. 5",
+        "D. Không hạn chế"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 11,
+      "type": "single",
+      "content": "Khi gọi hàm, dữ liệu được truyền vào hàm được gọi là gì?",
+      "options": [
+        "A. Tham số",
+        "B. Hiệu số",
+        "C. Đối số",
+        "D. Hàm số"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 12,
+      "type": "single",
+      "content": "Khi gọi hàm f(1, 2, 3), khi định nghĩa hàm f có bao nhiêu tham số?",
+      "options": [
+        "A. 1.",
+        "B. 2.",
+        "C. 3.",
+        "D. 4."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 13,
+      "type": "single",
+      "content": "Đoạn chương trình sau sẽ in ra số nào?\n>>> def f(x, y):\nz = x + y\nreturn x*y*z\n>>> f(1, 4)",
+      "options": [
+        "A. 10",
+        "B. 18",
+        "C. 20",
+        "D. 30"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 14,
+      "type": "single",
+      "content": "Chọn phát biểu sai trong các phát biểu sau:",
+      "options": [
+        "A. Chương trình chính có thể sử dụng biến cục bộ bên trong hàm.",
+        "B. Biến bên trong hàm có thể trùng tên với biến đã khai bao trước đó bên ngoài hàm.",
+        "C. Tất cả các biến trong hàm đều có tính cục bộ.",
+        "D. Các biến bên trong hàm không có hiệu lực ở bên ngoài hàm."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 15,
+      "type": "single",
+      "content": "Giá trị của a, b là bao nhiêu khi thực hiện lệnh f(2, 5)\n>>> a, b = 0, 1\n>>> def f(a, b):\na = a * b\nb = b // 2\nreturn a + b",
+      "options": [
+        "A. 10, 2.",
+        "B. 10, 1.",
+        "C. 2, 5.",
+        "D. 0, 1."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 16,
+      "type": "single",
+      "content": "Kết quả của chương trình sau là bao nhiêu?\n>>>def f(a,b):\nreturn a + b + N\n>>> N = 5\n>>>f(3, 3)",
+      "options": [
+        "A. 5.",
+        "B. 6.",
+        "C. 11.",
+        "D. 8."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 17,
+      "type": "single",
+      "content": "Nếu biến bên ngoài hàm muốn có tác dụng bên trong hàm ta dùng từ khóa nào?",
+      "options": [
+        "A. global",
+        "B. def",
+        "C. break",
+        "D. import"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 18,
+      "type": "single",
+      "content": "Xác định loại lỗi của câu lệnh sau:\n>>> A = list(12)",
+      "options": [
+        "A. Lỗi cú pháp",
+        "B. Lỗi ngoại lệ",
+        "C. Lỗi khác",
+        "D. Không có lỗi"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 19,
+      "type": "single",
+      "content": "Lỗi ngoại lệ trong Python là lỗi gì?",
+      "options": [
+        "A. Lỗi khi viết một câu lệnh sai cú pháp của ngôn ngữ lập trình.",
+        "B. Lỗi khi truy cập một biến chưa được khai báo.",
+        "C. Lỗi khi không thể thực hiện một lệnh nào đó của chương trình.",
+        "D. Lỗi khi chương trình biên dịch sang tệp exe."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 20,
+      "type": "single",
+      "content": "Các lệnh sau sẽ phát sinh lỗi ngoại lệ nào?\n>>> s = “abc”\n>>> s[10]",
+      "options": [
+        "A. SyntaxError",
+        "B. NameError",
+        "C. TypeError",
+        "D. IndexError"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 21,
+      "type": "single",
+      "content": "Mã lỗi nào được đưa ra khi lệnh thực hiện phép chia cho giá trị 0",
+      "options": [
+        "A. ZeroDivisionError.",
+        "B. TypeError.",
+        "C. ValueError.",
+        "D. SyntaxError."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 22,
+      "type": "single",
+      "content": "Chương trình chạy phát sinh lỗi ngoại lệ TypeError, nên xử lí như thế nào?",
+      "options": [
+        "A. Kiểm tra lại chỉ số trong mảng.",
+        "B. Kiểm tra lại giá trị số chia.",
+        "C. Kiểm tra giá trị của số bị chia.",
+        "D. Kiểm tra kiểu dữ liệu nhập vào."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 23,
+      "type": "single",
+      "content": "Bộ dữ liệu kiểm thử (test) cần có những tính chất gì?",
+      "options": [
+        "A. Tính chất phát hiện lỗi của chương trình.",
+        "B. Cần có càng nhiều càng tốt.",
+        "C. Cần được sinh ngẫu nhiên và phủ kín các trường hợp biên của dữ liệu đầu vào bài toán.",
+        "D. Không cần có tính chất gì."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 24,
+      "type": "single",
+      "content": "Giả sử đầu vào của dữ liệu bài toán là vùng {x \\ge 0}. Khi đó dữ liệu ở vùng biên là những dữ liệu nào?",
+      "options": [
+        "A. x = 0.",
+        "B. x = 1000000.",
+        "C. x ở gần 0.",
+        "D. x ở gần 0 hoặc x rất lớn."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 25,
+      "type": "single",
+      "content": "Thiết kế đồ họa là thao tác:",
+      "options": [
+        "A. tạo ra các thành phần đồ họa.",
+        "B. lựa chọn các thành phần đồ họa.",
+        "C. sắp xếp các thành phần đồ họa.",
+        "D. Tất cả các ý trên."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 26,
+      "type": "single",
+      "content": "Nghề nghiệp có thể làm sau khi tốt nghiệp ngành thiết kế đồ họa?",
+      "options": [
+        "A. Chuyên viên thiết kế.",
+        "B. Tư vấn thiết kế.",
+        "C. Thành lập công ty, doanh nghiệp tư vấn thiết kế.",
+        "D. Cả 3 ý trên."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 27,
+      "type": "single",
+      "content": "Theo em điều nào là đúng nhất khi nói về phát triển phần mềm?",
+      "options": [
+        "A. Phát triển phần mềm là lập trình.",
+        "B. Phát triển phần mềm là quá trình gồm nhiều công việc và hoạt động.",
+        "C. Phát triển phần mềm là quá trình gồm nhiều công việc và hoạt động, có thể lặp đi lặp lại.",
+        "D. Phát triển phần mềm là quản trị dự án phần mềm."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 28,
+      "type": "single",
+      "content": "Sau khi tốt nghiệp các khóa, ngành đào tạo, em có thể tham gia các công việc phát triển phần mềm ở lĩnh vực nào?",
+      "options": [
+        "A. Lập trình ứng dụng.",
+        "B. Phát triển giao diện người dùng.",
+        "C. Phát triển ứng dụng trên web.",
+        "D. Tất cả các đáp án trên đều đúng."
+      ],
+      "answer": "D"
+    }
+  ]
+}

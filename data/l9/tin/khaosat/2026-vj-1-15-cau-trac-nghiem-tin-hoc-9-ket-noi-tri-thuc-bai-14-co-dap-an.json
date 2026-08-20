@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-9-ket-noi-tri-thuc-bai-14-co-dap-an",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-9-ket-noi-t",
+  "grade": "l9",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu trắc nghiệm Tin học 9 Kết nối tri thức Bài 14 có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Trong quá trình giải quyết vấn đề, bước đầu tiên cần thực hiện là gì?",
+      "options": [
+        "A. Phân tích vấn đề",
+        "B. Trình bày giải pháp",
+        "C. Tìm hiểu vấn đề",
+        "D. Thực hiện giải pháp"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Bước đầu tiên trong giải quyết vấn đề là \"Tìm hiểu vấn đề\", nhằm xác định rõ các yếu tố đầu vào và kết quả cần đạt."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Một trong những yếu tố quan trọng của thuật toán bám tường là gì?",
+      "options": [
+        "A. Luôn tiến thẳng khi không có đường khác",
+        "B. Luôn giữ tường ở bên trái hoặc phải",
+        "C. Quay ngẫu nhiên khi gặp ngã rẽ",
+        "D. Dừng lại khi gặp tường"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Thuật toán bám tường yêu cầu robot giữ một bên tường (trái hoặc phải) để tìm đường thoát khỏi mê cung."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Tại sao thuật toán bám tường có thể giúp robot thoát khỏi mê cung?",
+      "options": [
+        "A. Nó kiểm tra mọi ngõ ngách trong mê cung",
+        "B. Nó chỉ tiến về phía trước",
+        "C. Nó ghi nhớ đường đi đã qua",
+        "D. Nó luôn đi theo đường ngắn nhất"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Thuật toán bám tường cho phép robot kiểm tra toàn bộ lối đi trong mê cung bằng cách bám vào một bức tường nhất định."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Trong thuật toán bám tường, khi phía bên phải có tường và phía trước cũng có tường, robot sẽ làm gì?",
+      "options": [
+        "A. Quay trái 90°",
+        "B. Quay phải 90°",
+        "C. Đi thẳng",
+        "D. Dừng lại"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Khi cả bên phải và phía trước đều có tường, robot sẽ quay trái để tìm lối đi khác."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Trong các bước giải quyết vấn đề, bước nào dùng để xác định hiệu quả của giải pháp?",
+      "options": [
+        "A. Tìm hiểu vấn đề",
+        "B. Phân tích vấn đề",
+        "C. Lựa chọn giải pháp",
+        "D. Thực hiện giải pháp và đánh giá kết quả"
+      ],
+      "answer": "D",
+      "note": "Đáp án: D Giải thích: Bước \"Thực hiện giải pháp và đánh giá kết quả\" giúp kiểm tra hiệu quả của giải pháp và đề xuất cải tiến nếu cần."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Khi không có bản đồ của mê cung, robot cần dựa vào yếu tố nào để di chuyển?",
+      "options": [
+        "A. Bộ cảm biến phát hiện tường",
+        "B. Hướng dẫn từ bên ngoài",
+        "C. Màu sắc của đường đi",
+        "D. Độ dài của lối đi"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Robot sử dụng bộ cảm biến để phát hiện tường xung quanh và xác định hướng di chuyển."
+    }
+  ]
+}

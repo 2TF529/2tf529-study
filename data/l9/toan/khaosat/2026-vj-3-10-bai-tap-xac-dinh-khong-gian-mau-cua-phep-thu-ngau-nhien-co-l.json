@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-3-10-bai-tap-xac-dinh-khong-gian-mau-cua-phep-thu-ngau-nhien-co-l",
+  "sourceId": "vietjack:3-10-bai-tap-xac-dinh-khong-gian-mau-cua",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.10 bài tập Xác định không gian mẫu của phép thử ngẫu nhiên có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Gieo hai đồng xu cân đối, đồng chất một lần. Kí hiệu S, N lần lượt chỉ đồng xu lật sấp, lật ngửa. Các kết quả có thể xảy ra là",
+      "options": [
+        "A. SS; NN.",
+        "B. SS; NN; SN.",
+        "C. SS; SN; NS.",
+        "D. SS; NN; SN; NS."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Các kết quả có thể xảy ra khi gieo hai con xúc xắc cân đối và đồng chất một lần là SS, SN, NS, NN."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Từ các chữ số 1; 2; 3 bạn Mai ghép thành các số có hai chữ số rồi chọn ngẫu nhiên một số từ số đó. Số phần tử không gian mẫu là",
+      "options": [
+        "A. 3.",
+        "B. 9.",
+        "C. 6.",
+        "D. 7."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Các kết quả có thể xảy ra khi Mai ghép được các số có hai chữ số là: Ω = {12; 13; 21; 23; 31; 32; 11; 22; 33}. Do đó, không gian mẫu có 9 phần tử."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Một hộp đựng 2 viên trắng và 1 viên bi đỏ. Lấy ngẫu nhiên một viên bi. Khi đó không gian mẫu có bao nhiêu phần tử?",
+      "options": [
+        "A. 3.",
+        "B. 2.",
+        "C. 1.",
+        "D. 4."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Các kết quả có thể xảy ra khi lấy ngẫu nhiên một viên bi trong hộp là Ω = { bi trắng, bi trắng, bi đỏ}. Do đó, không gian mẫu có 3 phần tử."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Viết ngẫu nhiên một số tự nhiên có hai chữ số. Số phần tử của không gian mẫu là",
+      "options": [
+        "A. 84.",
+        "B. 86.",
+        "C. 88.",
+        "D. 90."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Các kết quả có thể ra khi viết ngẫu nhiên một số tự nhiên có hai chữ số là: Ω = {10; 11; 12;….; 98; 99}. Do đó, số phần tử không gian mẫu là: (99 – 10) : 1 + 1 = 90."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Có hai hộp, trong mỗi hộp đều có 1 quả cầu vàng, 1 quả cầu xanh. Chọn ngẫu nhiên mỗi hộp 1 quả cầu để được 2 quả cầu. Khi đó, không gian mẫu có bao nhiêu phần tử?",
+      "options": [
+        "A. 3.",
+        "B. 4.",
+        "C. 5.",
+        "D. 6."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Các phần tử trong không gian mẫu của phép thử trên là: Ω = { VV; VX; XV; XX}, trong đó V: vàng, X: xanh. Do đó, số phần tử của không gian mẫu là 4 phần tử."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Có hai túi I và II. Túi I chưa 3 tấm thẻ đánh số 2, 3, 4. Túi II chứa 2 tấm thẻ, đánh số 5, 6. Từ mỗi túi I và II, rút ngẫu nhiên một tấm thẻ. Số phần tử của không gian mẫu là",
+      "options": [
+        "A. 8.",
+        "B. 6.",
+        "C. 9.",
+        "D. 12."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có bảng sau: I II 2 3 4 5 (2; 5) (3; 5) (4; 5) 6 (2; 6) (3; 6) (4; 6) Từ bảng trên, ta thấy có 6 kết quả có thể xảy ra."
+    }
+  ]
+}

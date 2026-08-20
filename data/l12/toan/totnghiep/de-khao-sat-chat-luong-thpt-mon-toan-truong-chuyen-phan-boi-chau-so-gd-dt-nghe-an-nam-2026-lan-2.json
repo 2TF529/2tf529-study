@@ -1,0 +1,196 @@
+{
+  "id": "l12-toan-totnghiep-2026-de-khao-sat-chat-luong-thpt-mon-toan-truong-chuyen-phan-boi-chau-so-gd-dt-nghe-an-nam-2026-lan-2",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "code": "THPT_TTT_2026_NA_02",
+  "title": "Đề khảo sát chất lượng THPT môn Toán Trường Chuyên Phan Bội Châu Sở GD&ĐT Nghệ An năm 2026 - Lần 2",
+  "duration": 90,
+  "answerSource": "official",
+  "source": "https://dolthpt.vn/tot-nghiep-thpt/pdf-de-khao-sat-chat-luong-thpt-mon-toan-truong-chuyen-phan-boi-chau-so-gd-dt-nghe-an-nam-2026-lan-2-co-dap-an",
+  "notes": "Nội dung, đáp án và lời giải được nhập từ bản công khai của DOL THPT.",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "content": "Cho cấp số nhân $(u_n)$ có $u_1=3,\\ u_4=24$. Tính $u_5$.",
+      "chuong": "dãy số. cấp số cộng và cấp số nhân",
+      "dang": "số hạng tổng quát của cấp số nhân",
+      "type": "single",
+      "options": [
+        "A. \\$31$",
+        "B. \\$7$",
+        "C. \\$2$",
+        "D. \\$48$"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- $u_1=3$ và $u_4=24$.\n- Dãy $(u_n)$ là cấp số nhân.\n❓ **Hiểu câu hỏi:**\n- Muốn tìm $u_5$, ta cần tìm công bội $q$ trước.\n- Công thức dùng là $u_4=u_1q^3$ và $u_5=u_4q$.\n🔎 **Hướng dẫn cách làm:**\n- Từ $u_4=u_1q^3$, ta có \\$24=3q^3$.\n- Suy ra $q^3=8$ nên $q=2$.\n- Vậy $u_5=u_4q=24\\cdot 2=48$.\n✅ **Đáp án:** Chọn D. \\$48$"
+    },
+    {
+      "id": 2,
+      "content": "Cho hình lập phương $ABCD.A'B'C'D'$. Tính góc giữa hai đường thẳng $AB$ và $A'C'$.\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-truong-chuyen-phan-boi-chau-so-gd-dt-nghe-an-nam-2026-lan-2/cau-02.webp\" alt=\"Hình minh họa câu 2\" loading=\"lazy\"></figure>",
+      "chuong": "quan hệ vuông góc trong không gian",
+      "dang": "góc giữa hai đường thẳng",
+      "type": "single",
+      "options": [
+        "A. \\$45^\\circ$",
+        "B. \\$90^\\circ$",
+        "C. \\$60^\\circ$",
+        "D. \\$30^\\circ$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Đây là hình lập phương $ABCD.A'B'C'D'$.\n- Cần tính góc giữa $AB$ và $A'C'$.\n❓ **Hiểu câu hỏi:**\n- Trong hình lập phương, $A'C'$ song song với đường chéo $AC$ của đáy.\n- Vì thế góc giữa $AB$ và $A'C'$ bằng góc giữa $AB$ và $AC$ trong hình vuông đáy.\n🔎 **Hướng dẫn cách làm:**\n- Ta có $A'C'\\parallel AC$ nên $\\widehat{(AB,A'C')}=\\widehat{(AB,AC)}$.\n- Trong hình vuông, đường chéo tạo với cạnh một góc \\$45^\\circ$.\n- Do đó góc cần tìm bằng \\$45^\\circ$.\n✅ **Đáp án:** Chọn A. \\$45^\\circ$"
+    },
+    {
+      "id": 3,
+      "content": "Cho mẫu số liệu ghép nhóm có bảng tần số như sau. Tính khoảng biến thiên của mẫu số liệu trên.\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-truong-chuyen-phan-boi-chau-so-gd-dt-nghe-an-nam-2026-lan-2/cau-03.webp\" alt=\"Hình minh họa câu 3\" loading=\"lazy\"></figure>",
+      "chuong": "các số đặc trưng đo mức độ phân tán cho mẫu số liệu ghép nhóm",
+      "dang": "khoảng biến thiên",
+      "type": "single",
+      "options": [
+        "A. \\$5$",
+        "B. \\$18$",
+        "C. \\$40$",
+        "D. \\$25$"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Từ bảng ghép nhóm trong hình, nhóm đầu bắt đầu từ \\$16$.\n- Nhóm cuối kết thúc ở \\$41$.\n❓ **Hiểu câu hỏi:**\n- Khoảng biến thiên bằng giá trị lớn nhất trừ giá trị nhỏ nhất.\n- Ta dùng công thức $R=x_{\\max}-x_{\\min}$.\n🔎 **Hướng dẫn cách làm:**\n- Ở đây $x_{\\min}=16$ và $x_{\\max}=41$.\n- Vậy $R=41-16=25$.\n✅ **Đáp án:** Chọn D. \\$25$"
+    },
+    {
+      "id": 4,
+      "content": "Cho $\\cos x=\\dfrac{1}{3}$. Tính giá trị của $\\cos 2x$.",
+      "chuong": "hàm số lượng giác và phương trình lượng giác",
+      "dang": "công thức nhân đôi",
+      "type": "single",
+      "options": [
+        "A. $-\\dfrac{8}{9}$",
+        "B. $\\dfrac{7}{9}$",
+        "C. $\\dfrac{8}{9}$",
+        "D. $-\\dfrac{7}{9}$"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- $\\cos x=\\dfrac{1}{3}$.\n- Cần tính $\\cos 2x$.\n❓ **Hiểu câu hỏi:**\n- Đây là bài dùng công thức nhân đôi.\n- Ta dùng $\\cos 2x=2\\cos^2x-1$.\n🔎 **Hướng dẫn cách làm:**\n- Ta có $\\cos^2x=\\left(\\dfrac{1}{3}\\right)^2=\\dfrac{1}{9}$.\n- Suy ra $\\cos 2x=2\\cdot\\dfrac{1}{9}-1=\\dfrac{2}{9}-1=-\\dfrac{7}{9}$.\n✅ **Đáp án:** Chọn D. $-\\dfrac{7}{9}$"
+    },
+    {
+      "id": 5,
+      "content": "Cho hàm số $y=f(x)$ có đạo hàm $f'(x)=(x-1)(x-2)^2(x-3)^3$. Số điểm cực trị của hàm số $y=f(x)$ là",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "cực trị của hàm số",
+      "type": "single",
+      "options": [
+        "A. \\$1$",
+        "B. \\$2$",
+        "C. \\$3$",
+        "D. \\$0$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- $f'(x)=(x-1)(x-2)^2(x-3)^3$.\n- Cần tìm số điểm cực trị của $y=f(x)$.\n❓ **Hiểu câu hỏi:**\n- Điểm cực trị xuất hiện tại nghiệm của $f'(x)=0$ mà đạo hàm đổi dấu.\n- Nghiệm bội lẻ làm đạo hàm đổi dấu, còn nghiệm bội chẵn thì không.\n🔎 **Hướng dẫn cách làm:**\n- Các nghiệm của $f'(x)=0$ là $x=1,\\ x=2,\\ x=3$.\n- Nghiệm $x=1$ có bội \\$1$ là bội lẻ nên có cực trị.\n- Nghiệm $x=2$ có bội \\$2$ là bội chẵn nên không có cực trị.\n- Nghiệm $x=3$ có bội \\$3$ là bội lẻ nên có cực trị.\n- Vậy hàm số có \\$2$ điểm cực trị.\n✅ **Đáp án:** Chọn B. \\$2$"
+    },
+    {
+      "id": 6,
+      "content": "Trong không gian với hệ trục tọa độ $Oxyz$, cho đường thẳng $d:\\ \\dfrac{x-1}{2}=\\dfrac{y-3}{-1}=\\dfrac{z+2}{3}$. Một vectơ chỉ phương của $d$ là",
+      "chuong": "phương pháp tọa độ trong không gian",
+      "dang": "phương trình đường thẳng",
+      "type": "single",
+      "options": [
+        "A. $\\vec{u}=(2;-1;3)$",
+        "B. $\\vec{u}=(-2;1;3)$",
+        "C. $\\vec{u}=(1;3;-2)$",
+        "D. $\\vec{u}=(2;1;-3)$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Đường thẳng $d:\\ \\dfrac{x-1}{2}=\\dfrac{y-3}{-1}=\\dfrac{z+2}{3}$.\n❓ **Hiểu câu hỏi:**\n- Với phương trình chính tắc $\\dfrac{x-x_0}{a}=\\dfrac{y-y_0}{b}=\\dfrac{z-z_0}{c}$, vectơ chỉ phương là $\\vec{u}=(a;b;c)$.\n- Ta chỉ cần lấy các mẫu số.\n🔎 **Hướng dẫn cách làm:**\n- Nhìn vào phương trình, các mẫu số lần lượt là \\$2,\\ -1,\\ 3$.\n- Vì vậy một vectơ chỉ phương của $d$ là $\\vec{u}=(2;-1;3)$.\n✅ **Đáp án:** Chọn A. $\\vec{u}=(2;-1;3)$"
+    },
+    {
+      "id": 7,
+      "content": "Cho ba số $a,b,c$ khác \\$0$ thỏa mãn \\$4^a=3^b=6^c$. Tính giá trị của biểu thức $\\dfrac{c}{a}+\\dfrac{2c}{b}$.",
+      "chuong": "hàm số mũ và hàm số lôgarit",
+      "dang": "tính chất của lôgarit",
+      "type": "single",
+      "options": [
+        "A. \\$3$",
+        "B. \\$0$",
+        "C. \\$1$",
+        "D. \\$2$"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- \\$4^a=3^b=6^c$ với $a,b,c\\ne 0$.\n- Cần tính $\\dfrac{c}{a}+\\dfrac{2c}{b}$.\n❓ **Hiểu câu hỏi:**\n- Ta đặt giá trị chung bằng một số $k$ để đổi các số mũ về dạng lôgarit.\n- Sau đó dùng công thức đổi cơ số.\n🔎 **Hướng dẫn cách làm:**\n- Đặt \\$4^a=3^b=6^c=k$.\n- Khi đó $a=\\dfrac{\\ln k}{\\ln 4},\\ b=\\dfrac{\\ln k}{\\ln 3},\\ c=\\dfrac{\\ln k}{\\ln 6}$.\n- Suy ra $\\dfrac{c}{a}+\\dfrac{2c}{b}=\\dfrac{\\ln 4}{\\ln 6}+\\dfrac{2\\ln 3}{\\ln 6}=\\dfrac{\\ln 4+2\\ln 3}{\\ln 6}=\\dfrac{\\ln 36}{\\ln 6}=2$.\n✅ **Đáp án:** Chọn D. \\$2$"
+    },
+    {
+      "id": 8,
+      "content": "Đường tiệm cận ngang của đồ thị hàm số $y=\\dfrac{3x-1}{x-2}$ là",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "đường tiệm cận ngang",
+      "type": "single",
+      "options": [
+        "A. $x=2$",
+        "B. $y=2$",
+        "C. $x=3$",
+        "D. $y=3$"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số đã cho là $y=\\dfrac{3x-1}{x-2}$.\n❓ **Hiểu câu hỏi:**\n- Đây là phân thức bậc nhất trên bậc nhất.\n- Tiệm cận ngang bằng tỉ số hệ số của các số hạng bậc cao nhất.\n🔎 **Hướng dẫn cách làm:**\n- Hệ số của $x$ ở tử là \\$3$, ở mẫu là \\$1$.\n- Vì vậy $\\lim_{x\\to\\pm\\infty}\\dfrac{3x-1}{x-2}=\\dfrac{3}{1}=3$.\n- Suy ra đường tiệm cận ngang là $y=3$.\n✅ **Đáp án:** Chọn D. $y=3$"
+    },
+    {
+      "id": 9,
+      "content": "Gieo một đồng xu cân đối đồng chất \\$3$ lần. Xác suất để cả \\$3$ lần xuất hiện mặt ngửa là",
+      "chuong": "các quy tắc tính xác suất",
+      "dang": "công thức nhân xác suất cho hai biến cố độc lập",
+      "type": "single",
+      "options": [
+        "A. $\\dfrac{7}{8}$",
+        "B. $\\dfrac{1}{6}$",
+        "C. $\\dfrac{1}{8}$",
+        "D. $\\dfrac{1}{2}$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Gieo một đồng xu cân đối đồng chất \\$3$ lần.\n❓ **Hiểu câu hỏi:**\n- Mỗi lần xuất hiện mặt ngửa có xác suất $\\dfrac{1}{2}$.\n- Ba lần gieo là độc lập nên xác suất cần tìm bằng tích các xác suất.\n🔎 **Hướng dẫn cách làm:**\n- Xác suất cả \\$3$ lần đều ngửa là $\\left(\\dfrac{1}{2}\\right)^3$.\n- Do đó $P=\\dfrac{1}{8}$.\n✅ **Đáp án:** Chọn C. $\\dfrac{1}{8}$"
+    },
+    {
+      "id": 10,
+      "content": "Họ nguyên hàm của hàm số $f(x)=5^x$ là",
+      "chuong": "nguyên hàm và tích phân",
+      "dang": "nguyên hàm của một số hàm số thường gặp",
+      "type": "single",
+      "options": [
+        "A. $\\dfrac{5^x}{\\ln 5}+C$",
+        "B. $\\dfrac{1}{x+1}5^{x+1}+C$",
+        "C. \\$5^x+C$",
+        "D. \\$5^x\\ln 5+C$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cần tìm họ nguyên hàm của $f(x)=5^x$.\n❓ **Hiểu câu hỏi:**\n- Công thức nguyên hàm cơ bản là $\\int a^x\\,dx=\\dfrac{a^x}{\\ln a}+C$ với $a>0$ và $a\\ne 1$.\n- Ở đây $a=5$.\n🔎 **Hướng dẫn cách làm:**\n- Áp dụng trực tiếp công thức, ta được $\\int 5^x\\,dx=\\dfrac{5^x}{\\ln 5}+C$.\n✅ **Đáp án:** Chọn A. $\\dfrac{5^x}{\\ln 5}+C$"
+    },
+    {
+      "id": 11,
+      "content": "Cho hình chóp có diện tích đáy bằng \\$10$ và chiều cao bằng \\$6$. Tính thể tích khối chóp đã cho.",
+      "chuong": "quan hệ vuông góc trong không gian",
+      "dang": "thể tích",
+      "type": "single",
+      "options": [
+        "A. \\$30$",
+        "B. \\$16$",
+        "C. \\$20$",
+        "D. \\$60$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Diện tích đáy $S=10$.\n- Chiều cao $h=6$.\n❓ **Hiểu câu hỏi:**\n- Thể tích khối chóp được tính bởi công thức $V=\\dfrac{1}{3}Sh$.\n🔎 **Hướng dẫn cách làm:**\n- Thay số vào công thức: $V=\\dfrac{1}{3}\\cdot 10\\cdot 6=20$.\n✅ **Đáp án:** Chọn C. \\$20$"
+    },
+    {
+      "id": 12,
+      "content": "Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình bình hành. Tìm khẳng định đúng.\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-truong-chuyen-phan-boi-chau-so-gd-dt-nghe-an-nam-2026-lan-2/cau-12.webp\" alt=\"Hình minh họa câu 12\" loading=\"lazy\"></figure>",
+      "chuong": "quan hệ song song trong không gian",
+      "dang": "hình chóp và hình tứ diện",
+      "type": "single",
+      "options": [
+        "A. $\\overrightarrow{SA}=\\overrightarrow{SB}+\\overrightarrow{DC}$",
+        "B. $\\overrightarrow{SA}=\\overrightarrow{SB}+\\overrightarrow{CD}$",
+        "C. $\\overrightarrow{AC}=\\overrightarrow{AB}+\\overrightarrow{BD}$",
+        "D. $\\overrightarrow{SA}-\\overrightarrow{SB}=\\overrightarrow{SC}-\\overrightarrow{SD}$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- $ABCD$ là hình bình hành.\n- Cần chọn khẳng định vectơ đúng.\n❓ **Hiểu câu hỏi:**\n- Trong hình bình hành, ta có $\\overrightarrow{CD}=\\overrightarrow{BA}$.\n- Ta sẽ thay vào từng đẳng thức để kiểm tra.\n🔎 **Hướng dẫn cách làm:**\n- Ta có $\\overrightarrow{SB}+\\overrightarrow{CD}=\\overrightarrow{SB}+\\overrightarrow{BA}$.\n- Mà $\\overrightarrow{SB}+\\overrightarrow{BA}=\\overrightarrow{SA}$ theo quy tắc hình tam giác.\n- Vậy đẳng thức đúng là $\\overrightarrow{SA}=\\overrightarrow{SB}+\\overrightarrow{CD}$.\n✅ **Đáp án:** Chọn B. $\\overrightarrow{SA}=\\overrightarrow{SB}+\\overrightarrow{CD}$"
+    }
+  ]
+}

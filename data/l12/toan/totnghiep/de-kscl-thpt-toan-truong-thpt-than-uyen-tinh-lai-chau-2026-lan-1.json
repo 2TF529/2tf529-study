@@ -1,0 +1,196 @@
+{
+  "id": "l12-toan-totnghiep-2026-de-kscl-thpt-toan-truong-thpt-than-uyen-tinh-lai-chau-2026-lan-1",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "code": "THPT_TTT_2026_LCH_01",
+  "title": "Đề khảo sát chất lượng THPT môn Toán trường THPT Than Uyên Sở GD&ĐT Lai Châu năm 2026 - Lần 1",
+  "duration": 90,
+  "answerSource": "official",
+  "source": "https://dolthpt.vn/tot-nghiep-thpt/pdf-de-kscl-thpt-toan-truong-thpt-than-uyen-tinh-lai-chau-2026-lan-1-co-dap-an",
+  "notes": "Nội dung, đáp án và lời giải được nhập từ bản công khai của DOL THPT.",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "content": "Cho hàm số $y=f(x)$ có bảng biến thiên như hình vẽ dưới đây. Hàm số đã cho nghịch biến trên khoảng\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-kscl-thpt-toan-truong-thpt-than-uyen-tinh-lai-chau-2026-lan-1/cau-01.webp\" alt=\"Hình minh họa câu 1\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "tính đơn điệu của hàm số",
+      "type": "single",
+      "options": [
+        "A. $(0;+\\infty)$",
+        "B. $(-\\infty;0)$",
+        "C. $(0;1)$",
+        "D. $(-\\infty;5)$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số $y=f(x)$ có bảng biến thiên như mô tả: - $y'(x)<0$ trên khoảng $(-\\infty,0)$, $y'(0)=0$, $y'(x)>0$ trên $(0,1)$, $y'(1)=0$, $y'(x)<0$ trên $(1,+\\infty)$.\n  - Giá trị hàm: khi $x\\to -\\infty$ thì $y\\to +\\infty$, tại $x=0$ có $y=4$ (đáy cục bộ), tại $x=1$ có $y=5$ (đỉnh cục bộ), khi $x\\to +\\infty$ thì $y\\to -\\infty$.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi: Hàm số đã cho nghịch biến trên khoảng nào?\n- Cần áp dụng khái niệm: dấu của đạo hàm (hoặc bảng biến thiên) cho biết hàm số tăng hay giảm trên từng khoảng.\n🔎 **Hướng dẫn cách làm:**\n- Định nghĩa quan trọng: *nếu* $y'(x)<0$ trên một khoảng thì $f$ *nghịch biến* (giảm) trên khoảng đó; nếu $y'(x)>0$ thì $f$ *đồng biến* (tăng). - Viết dưới dạng công thức: $y'(x)<0 \\Rightarrow f \\text{ nghịch biến trên khoảng đó.}$\n- Nhìn vào bảng biến thiên (theo mô tả ảnh): - Trên khoảng $(-\\infty,0)$ ta có $y'(x)<0$, nên $f$ nghịch biến trên $(-\\infty,0)$.\n  - Trên khoảng $(0,1)$ ta có $y'(x)>0$, nên $f$ tăng trên $(0,1)$.\n  - Trên khoảng $(1,+\\infty)$ ta có $y'(x)<0$, nên $f$ cũng nghịch biến trên $(1,+\\infty)$.\n- So sánh với các lựa chọn: trong các phương án chỉ có khoảng $(-\\infty;0)$ khớp với một khoảng mà hàm nghịch biến theo bảng (phương án B).\nLưu ý: khoảng $(1,+\\infty)$ cũng là khoảng nghịch biến nhưng không có trong các đáp án cho trước.\n✅ **Đáp án:** B. $(-\\infty;0)$"
+    },
+    {
+      "id": 2,
+      "content": "Cho hàm số bậc ba $y=f(x)$ có bảng biến thiên như sau: Điểm cực tiểu của đồ thị hàm số là:\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-kscl-thpt-toan-truong-thpt-than-uyen-tinh-lai-chau-2026-lan-1/cau-02.webp\" alt=\"Hình minh họa câu 2\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "cực trị của hàm số",
+      "type": "single",
+      "options": [
+        "A. $(-1;0)$",
+        "B. $(1;0)$",
+        "C. $(-1;4)$",
+        "D. $(1;4)$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số bậc ba $y=f(x)$ có bảng biến thiên như hình đính kèm (tóm tắt):\n- Các điểm quan trọng trên trục $x$: $-\\infty,\\ -1,\\ 1,\\ +\\infty$.\n- Bảng dấu của đạo hàm: $f'(x)$ dương trên $(-\\infty,-1)$, $f'(-1)=0$, âm trên $(-1,1)$, $f'(1)=0$, dương trên $(1,+\\infty)$.\n- Giá trị của hàm: $f(-1)=4$ (cực đại), $f(1)=0$ (ứng với cực tiểu), cùng các mũi tên chỉ tăng/giảm theo bảng.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi: \"Điểm cực tiểu của đồ thị hàm số là?\" — tức tìm tọa độ điểm nơi hàm đạt giá trị nhỏ cục bộ (cực tiểu).\n- Cần biết: quy ước đọc bảng biến thiên — nếu $f'(x)$ đổi dấu từ âm sang dương tại $x_0$ thì đồ thị có điểm cực tiểu tại $x_0$; phải lấy giá trị $f(x_0)$ từ bảng.\n🔎 **Hướng dẫn cách làm:**\n- Quan sát bảng dấu đạo hàm:\n- Tại $x=-1$: $f'$ đổi từ dương sang âm ⇒ $x=-1$ là điểm cực đại, giá trị $f(-1)=4$.\n- Tại $x=1$: $f'$ đổi từ âm sang dương ⇒ $x=1$ là điểm cực tiểu.\n- Lấy giá trị hàm tại $x=1$ từ bảng: $f(1)=0$. Vậy tọa độ điểm cực tiểu là $(1;0)\\,.$\n✅ **Đáp án:  ** $\\text{B. }(1;0)$"
+    },
+    {
+      "id": 3,
+      "content": "Cho hàm số $y=f(x)$ liên tục trên đoạn $[-1;3]$ và có đồ thị như hình vẽ. Giá trị lớn nhất của hàm số đã cho trên đoạn $[-1;3]$ bằng\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-kscl-thpt-toan-truong-thpt-than-uyen-tinh-lai-chau-2026-lan-1/cau-03.webp\" alt=\"Hình minh họa câu 3\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "cách tìm giá trị lớn nhất và giá trị nhỏ nhất của hàm số trên một đoạn",
+      "type": "single",
+      "options": [
+        "A. \\$2$",
+        "B. \\$0$",
+        "C. \\$1$",
+        "D. \\$3$"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số $y=f(x)$ liên tục trên đoạn $[-1;3]$.\n- Đồ thị hàm trên đoạn $[-1;3]$ có các điểm quan trọng: $(-1,1)$, $(0,2)$ (cực đại cục bộ), $(2,-2)$ (cực tiểu cục bộ) và $(3,3)$ (điểm tận cùng bên phải).\n- Hàm được xác định trên toàn bộ đoạn đóng $[-1;3]$.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu tìm *giá trị lớn nhất* của hàm trên đoạn $[-1;3]$.\n- Cần áp dụng kiến thức: với hàm liên tục trên đoạn đóng, giá trị lớn nhất xảy ra tại một điểm tới hạn trong đoạn hoặc tại một đầu mút của đoạn. Ta chỉ cần so sánh giá trị hàm ở các điểm quan trọng (đầu mút và các cực trị).\n🔎 **Hướng dẫn cách làm:**\n- Vì hàm liên tục trên đoạn đóng $[-1;3]$ nên giá trị lớn nhất tồn tại trên đoạn này.\n- Lấy các giá trị f(x) tại các điểm quan trọng (theo đồ thị): - $f(-1)=1$\n  - $f(0)=2$\n  - $f(2)=-2$\n  - $f(3)=3$\n(các giá trị này được đọc trực tiếp từ đồ thị: điểm đầu trái là $(-1,1)$, cực đại tại $(0,2)$, cực tiểu tại $(2,-2)$, điểm cuối phải là $(3,3)$).\n- So sánh các giá trị: \\$1,\\;2,\\;-2,\\;3$. Giá trị lớn nhất trong các số này là \\$3$, xảy ra tại $x=3$ (điểm $(3,3)$ trên đồ thị).\n✅ **Đáp án:** D. \\$3$"
+    },
+    {
+      "id": 4,
+      "content": "Hàm số $y=\\dfrac{ax+b}{cx+d}\\ (c\\ne0,\\ ad-bc\\ne0)$ có đồ thị như hình vẽ dưới đây. Đường tiệm cận đứng của đồ thị hàm số là\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-kscl-thpt-toan-truong-thpt-than-uyen-tinh-lai-chau-2026-lan-1/cau-04.webp\" alt=\"Hình minh họa câu 4\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "đường tiệm cận đứng",
+      "type": "single",
+      "options": [
+        "A. $x=-1$",
+        "B. $x=1$",
+        "C. $x=2$",
+        "D. $y=-1$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số $y=\\dfrac{ax+b}{cx+d}\\quad (c\\ne0,\\ ad-bc\\ne0).$\n- Hình vẽ cho thấy một đường thẳng đứng dày tại $x=2$ (được vẽ là đường tiệm cận dọc).\n- Đồ thị có hai nhánh: một nhánh bên trái tiến tới $y=1$ và một nhánh bên phải tiến tới $y=-1$; đồng thời đồ thị tiến ra vô hạn khi tiếp cận $x=2$ từ trái và phải, chứng tỏ $x=2$ là tiệm cận đứng.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi: “Đường tiệm cận đứng của đồ thị hàm số là gì?”\n- Kiến thức cần áp dụng: định nghĩa tiệm cận đứng cho hàm hữu tỉ bậc nhất/bậc nhất; điều kiện mẫu bằng 0 (mà tử khác 0) tạo tiệm cận đứng; công thức nghiệm của mẫu số.\n🔎 **Hướng dẫn cách làm:**\n- Đặt mẫu số bằng 0 để tìm các điểm khả dĩ là tiệm cận đứng: $cx+d=0.$\n- Giải ra: $x=-\\dfrac{d}{c}.$ Đây là các giá trị x làm mẫu bằng 0. Vì đề cho $c\\ne0$ nên nghiệm này tồn tại.\n- Điều kiện $ad-bc\\ne0$ đảm bảo tử và mẫu không cùng nhân tố chung (không triệt tiêu nhau), nên khi $cx+d=0$ thì tử số không đồng thời bằng 0 — do đó giá trị đó thực sự là tiệm cận đứng.\n- Dựa vào hình vẽ: có một đường thẳng đứng  tại $x=2$ và đồ thị vọt lên vô hạn khi tiến về gần $x=2$ từ trái, do đó tiệm cận đứng là $x=2.$ Điều này tương ứng với $-\\dfrac{d}{c}=2.$\n✅ **Đáp án:** $\\text{C. } x=2$"
+    },
+    {
+      "id": 5,
+      "content": "Đồ thị của hàm số nào dưới đây có dạng đường cong như hình bên?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-kscl-thpt-toan-truong-thpt-than-uyen-tinh-lai-chau-2026-lan-1/cau-05.webp\" alt=\"Hình minh họa câu 5\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "khảo sát và vẽ đồ thị hàm số đa thức bậc ba",
+      "type": "single",
+      "options": [
+        "A. $y=x^3-3x^2-1$",
+        "B. $y=\\dfrac{x^2-3x+1}{x-1}$",
+        "C. $y=-x^3+3x^2-1$",
+        "D. $y=\\dfrac{x+1}{x-1}$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cho **đồ thị một hàm số** như hình vẽ bên.\n- Quan sát đồ thị thấy: - Đồ thị là **đường cong liên tục**, không có tiệm cận đứng.\n  - Có **hai điểm cực trị** → dạng **hàm bậc ba**.\n  - Nhánh **bên phải đi xuống** khi $x$ tăng lớn.\n  - Đồ thị **cắt trục tung tại điểm có tung độ âm**.\n- Các phương án: - A, C: hàm **bậc ba**.\n  - B, D: hàm **phân thức**.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu:\n👉 *Hàm số nào có đồ thị giống hình đã cho?*\n- Học sinh cần dùng: - Nhận dạng **dạng đồ thị theo bậc hàm số**.\n  - Xét **chiều nhánh trái – phải** để xác định dấu của hệ số $x^3$.\n  - Kiểm tra **giá trị tại **$x=0$ để đối chiếu tung độ giao với trục $Oy$.\n🔎 **Hướng dẫn cách làm:**\n- **Bước 1: Loại các phương án không phù hợp về dạng** - Đồ thị **không có tiệm cận đứng** ⇒ loại các hàm phân thức: - B: $y=\\dfrac{x^2-3x+1}{x-1}$ ❌\n    - D: $y=\\dfrac{x+1}{x-1}$ ❌\n- **Bước 2: Xét chiều nhánh của đồ thị** - Quan sát hình: - Khi $x\\to+\\infty$ thì $y\\to-\\infty$\n  - ⇒ Hệ số của $x^3$ **âm**.\n- **Bước 3: So sánh hai phương án bậc ba** - A: $y=x^3-3x^2-1$   → hệ số $x^3$ dương ❌\n  - C: $y=-x^3+3x^2-1$   → hệ số $x^3$ âm ✅\n- **Bước 4: Kiểm tra tung độ tại trục **$Oy$ - Với phương án C:    $y(0)=-1$\n  - Phù hợp với hình vẽ: đồ thị cắt trục tung **phía dưới trục hoành**.\n✅ **Đáp án:**  $\\boxed{y=-x^3+3x^2-1}$\n👉 **Chọn đáp án C.** ✅"
+    },
+    {
+      "id": 6,
+      "content": "Cho hàm số $y=\\dfrac{ax+b}{cx+d}$ có đồ thị là đường cong như hình vẽ bên. Tọa độ giao điểm của đồ thị hàm số với trục hoành là\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-kscl-thpt-toan-truong-thpt-than-uyen-tinh-lai-chau-2026-lan-1/cau-06.webp\" alt=\"Hình minh họa câu 6\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "khảo sát và vẽ đồ thị hàm số phân thức hữu tỉ",
+      "type": "single",
+      "options": [
+        "A. $(2;0)$",
+        "B. $(0;1)$",
+        "C. $(1;0)$",
+        "D. $(0;2)$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số $y=\\dfrac{ax+b}{cx+d}$.\n- Từ hình vẽ: tiệm cận ngang là $y=1$ và tiệm cận đứng là $x=1$.\n- Đồ thị cắt trục tung tại điểm $(0,2)$ (theo hình).\n- Đồ thị cắt trục hoành tại một điểm được yêu cầu xác định (theo hình là $(2,0)$).\n❓ **Hiểu câu hỏi:**\n- Câu hỏi: Tọa độ giao điểm của đồ thị hàm số với trục hoành là gì?\n- Cần áp dụng các kiến thức: - Giao điểm với trục hoành xảy ra khi $y=0$ (tức tử số bằng 0).\n  - Tiệm cận ngang và đứng của hàm phân thức bậc nhất trên bậc nhất liên hệ với các hệ số $a,b,c,d$.\n  - Giá trị của hàm tại $x=0$ cho giao điểm trục tung.\n🔎 **Hướng dẫn cách làm:**\n- Giao điểm với trục hoành xảy ra khi $y=0$, tức là tử số bằng 0: - $ax+b=0 \\quad\\Rightarrow\\quad x=-\\dfrac{b}{a}.$\n- Tiệm cận ngang của $y=\\dfrac{ax+b}{cx+d}$ là $y=\\dfrac{a}{c}$. Từ hình biết tiệm cận ngang là $y=1$ nên - $\\dfrac{a}{c}=1 \\quad\\Rightarrow\\quad a=c.$\n- Tiệm cận đứng nằm ở $x=-\\dfrac{d}{c}$. Từ hình biết tiệm cận đứng là $x=1$ nên - $-\\dfrac{d}{c}=1 \\quad\\Rightarrow\\quad d=-c.$\n- Giao điểm với trục tung là giá trị tại $x=0$: - $y(0)=\\dfrac{b}{d}.$ Từ hình $y(0)=2$ nên\n  - $\\dfrac{b}{d}=2 \\quad\\Rightarrow\\quad b=2d.$\n- Thay $d=-c$ và $a=c$ vào biểu thức cho $b$: - Vì $d=-c$ và $a=c$ nên $d=-a$. Do đó $b=2d=2(-a)=-2a.$\n- Tử số của hàm khi đó là $ax+b = a x -2a = a(x-2).$ Khi tử số bằng 0, ta có $x-2=0$ nên - $x=2.$\n- Vậy giao điểm với trục hoành là $(2,0)$.\n✅ **Đáp án:**  $A. (2;0)$"
+    },
+    {
+      "id": 7,
+      "content": "Trong \\$5$ giây đầu tiên, một chất điểm chuyển động theo phương trình $S(t)=-t^3+6t^2+t+5$ trong đó $t$ tính bằng giây và $S$ tính bằng mét. Tính vận tốc của vật tại thời điểm $t=3$ giây.",
+      "chuong": "đạo hàm",
+      "dang": "ý nghĩa hình học của đạo hàm",
+      "type": "single",
+      "options": [
+        "A. \\$35\\ m/s$",
+        "B. \\$10\\ m/s$",
+        "C. \\$64\\ m/s$",
+        "D. \\$13\\ m/s$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Thời gian xét trong khoảng \\$0 \\le t \\le 5$ giây.\n- Phương trình chuyển động: $S(t) = -t^3 + 6t^2 + t + 5$, với $t$ (s), $S$ (m).\n- Hỏi vận tốc tại thời điểm $t = 3$ giây.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu tính *vận tốc tức thời* của chất điểm tại thời điểm $t=3$.\n- Kiến thức cần dùng: vận tốc tức thời là đạo hàm của quãng đường theo thời gian, tức là $v(t)=S'(t)$ (đạo hàm của đa thức theo biến $t$).\n🔎 **Hướng dẫn cách làm:**\n- Viết lại hàm quãng đường: $S(t) = -t^3 + 6t^2 + t + 5.$\n- Lấy đạo hàm theo $t$ để tìm vận tốc dưới dạng hàm của $t$: - Áp dụng quy tắc đạo hàm cho đa thức: $\\frac{d}{d}t}(t^n)=n t^{n-1}$.\n  - Do đó $v(t)=S'(t) = \\frac{d}{d}t}(-t^3) + \\frac{d}{d}t}(6t^2) + \\frac{d}{d}t}(t) + \\frac{d}{d}t}(5).$\n  - Tính từng phần: - $\\frac{d}{d}t}(-t^3) = -3t^2$\n    - $\\frac{d}{d}t}(6t^2) = 12t$\n    - $\\frac{d}{d}t}(t) = 1$\n    - $\\frac{d}{d}t}(5) = 0$\n  - Kết luận: $v(t) = -3t^2 + 12t + 1.$\n- Thay $t = 3$ vào biểu thức vận tốc: - $v(3) = -3(3)^2 + 12(3) + 1 = -3\\cdot9 + 36 + 1 = -27 + 36 + 1 = 10.$\n- Đơn vị: $v(3)=10\\ \\text{m/s}$.\n✅ **Đáp án:** $B. 10\\ m/s$"
+    },
+    {
+      "id": 8,
+      "content": "Cho hình hộp $ABCD.A'B'C'D'$. Tổng $\\overrightarrow{A'C'}+\\overrightarrow{CD}$ là\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-kscl-thpt-toan-truong-thpt-than-uyen-tinh-lai-chau-2026-lan-1/cau-08.webp\" alt=\"Hình minh họa câu 8\" loading=\"lazy\"></figure>",
+      "chuong": "vectơ và hệ trục tọa độ trong không gian",
+      "dang": "tổng và hiệu của hai vectơ trong không gian",
+      "type": "single",
+      "options": [
+        "A. $\\overrightarrow{BD}$",
+        "B. $\\overrightarrow{A'D}$",
+        "C. $\\overrightarrow{CB}$",
+        "D. $\\overrightarrow{AD}$"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hình hộp chữ nhật (hình hộp) $ABCD.A'B'C'D'$ với các đỉnh tương ứng: $A'$ là đỉnh trên của $A$, $B'$ trên $B$, ...\n- Cần tính tổng vectơ $\\overrightarrow{A'C'}+\\overrightarrow{CD}$.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu xác định vectơ bằng cách cộng hai vectơ trong hình không gian.\n- Cần vận dụng kiến thức: biểu diễn vectơ theo các vectơ cạnh của hình hộp và nguyên tắc cộng vectơ (quy tắc hình bình hành).\n🔎 **Hướng dẫn cách làm:**\n- Gọi các vectơ cạnh cơ bản: - $\\overrightarrow{AB}=\\mathbf{b},\\quad \\overrightarrow{AD}=\\mathbf{d},\\quad \\overrightarrow{AA'}=\\mathbf{u}.$\n- Viết toạ độ (vectơ) của các đỉnh theo $A$: - $\\overrightarrow{AB}=\\mathbf{b},\\quad \\overrightarrow{AD}=\\mathbf{d},\\quad \\overrightarrow{AC}=\\mathbf{b}+\\mathbf{d}.$\n  - Vì $A'$ là ảnh theo phương của $\\mathbf{u}$ của $A$ nên $A'=A+\\mathbf{u},\\ C'=C+\\mathbf{u}.$\n- Tính từng vectơ: - $\\overrightarrow{A'C'}=\\overrightarrow{C'}-\\overrightarrow{A'}=(\\overrightarrow{C}+\\mathbf{u})-(\\overrightarrow{A}+\\mathbf{u})=\\overrightarrow{C}-\\overrightarrow{A}=\\overrightarrow{AC}=\\mathbf{b}+\\mathbf{d}.$\n  - $\\overrightarrow{CD}=\\overrightarrow{D}-\\overrightarrow{C}=\\overrightarrow{AD}-\\overrightarrow{AC}=\\mathbf{d}-(\\mathbf{b}+\\mathbf{d})=-\\mathbf{b}.$\n(Hoặc trực tiếp: từ C đến D ta lùi lại theo $\\overrightarrow{CB}$, nên $\\overrightarrow{CD}=-\\overrightarrow{BC}=-\\mathbf{b}$.)\n- Cộng hai vectơ: - $\\overrightarrow{A'C'}+\\overrightarrow{CD}=(\\mathbf{b}+\\mathbf{d})+(-\\mathbf{b})=\\mathbf{d}.$\n- Nhận thấy $\\mathbf{d}=\\overrightarrow{AD}$, nên tổng cho kết quả là $\\overrightarrow{AD}.$\n✅ **Đáp án:**  $\\text{D. }\\overrightarrow{AD}$"
+    },
+    {
+      "id": 9,
+      "content": "Trong không gian với hệ trục tọa độ $Oxyz$, cho $\\overrightarrow{a}=-\\overrightarrow{i}+2\\overrightarrow{j}-3\\overrightarrow{k}$. Tọa độ của $\\overrightarrow{a}$ là",
+      "chuong": "vectơ và hệ trục tọa độ trong không gian",
+      "dang": "tọa độ của điểm, tọa độ của vectơ trong không gian",
+      "type": "single",
+      "options": [
+        "A. $(-2;-1;-3)$",
+        "B. $(-3;2;-1)$",
+        "C. $(2;-3;-1)$",
+        "D. $(-1;2;-3)$"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Trong hệ trục tọa độ $Oxyz$, cho vectơ $\\overrightarrow{a}=-\\overrightarrow{i}+2\\overrightarrow{j}-3\\overrightarrow{k}$.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi: Tìm tọa độ của vectơ $\\overrightarrow{a}$ trong hệ cơ sở đơn vị $\\{\\overrightarrow{i},\\overrightarrow{j},\\overrightarrow{k}\\}$.\n- Kiến thức cần áp dụng: vectơ biểu diễn theo cơ sở đơn vị có tọa độ chính là các hệ số đứng trước $\\overrightarrow{i},\\overrightarrow{j},\\overrightarrow{k}$.\n🔎 **Hướng dẫn cách làm:**\n- Nhận dạng dạng tổng theo các vectơ đơn vị: một vectơ có dạng $\\overrightarrow{v}=x\\overrightarrow{i}+y\\overrightarrow{j}+z\\overrightarrow{k}$ thì tọa độ của $\\overrightarrow{v}$ là $(x;y;z)$.\n- Áp dụng cho vectơ đã cho:\n$\\overrightarrow{a}=-\\overrightarrow{i}+2\\overrightarrow{j}-3\\overrightarrow{k}$\ndo đó hệ số phía trước $\\overrightarrow{i}$ là $-1$, trước $\\overrightarrow{j}$ là \\$2$, trước $\\overrightarrow{k}$ là $-3$.\n- Kết luận: tọa độ của $\\overrightarrow{a}$ là $(-1;2;-3)$.\n- Kiểm tra các phương án sai: - A: $(-2;-1;-3)$ — không khớp (hệ số i sai).\n  - B: $(-3;2;-1)$ — không khớp (thứ tự và dấu sai).\n  - C: $(2;-3;-1)$ — không khớp (hệ số i và j, k đều khác).\n✅ **Đáp án:**  $D. (-1;2;-3)$"
+    },
+    {
+      "id": 10,
+      "content": "Trong không gian với hệ trục tọa độ $Oxyz$, cho hai điểm $A(1;2;-1),\\ \\overrightarrow{AB}=(1;3;1)$ thì tọa độ của điểm $B$ là:",
+      "chuong": "vectơ và hệ trục tọa độ trong không gian",
+      "dang": "tọa độ của điểm, tọa độ của vectơ trong không gian",
+      "type": "single",
+      "options": [
+        "A. $B(2;5;0)$",
+        "B. $B(0;-1;-2)$",
+        "C. $B(0;1;2)$",
+        "D. $B(-2;-5;0)$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Điểm $A(1;2;-1)$.\n- Vector $\\overrightarrow{AB}=(1;3;1)$.\n- Yêu cầu: tìm tọa độ điểm $B$.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu xác định tọa độ điểm $B$ biết điểm $A$ và vectơ $\\overrightarrow{AB}$.\n- Kiến thức cần dùng: phép cộng tọa độ vectơ trong không gian (nội suy tọa độ bằng cách cộng các thành phần tương ứng).\n🔎 **Hướng dẫn cách làm:**\n- Gọi $A(x_1,y_1,z_1)$ và $\\overrightarrow{AB}=(u,v,w)$. Khi đó tọa độ điểm $B$ thỏa:\n$\\overrightarrow{OB}=\\overrightarrow{OA}+\\overrightarrow{AB}\\Rightarrow B(x_1+u,\\;y_1+v,\\;z_1+w).$\n- Áp dụng vào dữ kiện: $A(1;2;-1),\\ \\overrightarrow{AB}=(1;3;1).$\nVậy\n$x_B=1+1=2,\\quad y_B=2+3=5,\\quad z_B=-1+1=0.$\n- Kiểm tra: $\\overrightarrow{AB}=B-A=(2-1,\\;5-2,\\;0-(-1))=(1,3,1)$ khớp với vectơ đã cho.\n✅ **Đáp án**  $A. B(2;5;0)$"
+    },
+    {
+      "id": 11,
+      "content": "Trong không gian $Oxyz$, cho hai vectơ $\\overrightarrow{u}=(1;-4;0)$ và $\\overrightarrow{v}=(-1;-2;1)$. Vectơ $\\overrightarrow{u}+3\\overrightarrow{v}$ có tọa độ là",
+      "chuong": "vectơ và hệ trục tọa độ trong không gian",
+      "dang": "tọa độ của điểm, tọa độ của vectơ trong không gian",
+      "type": "single",
+      "options": [
+        "A. $(-2;-10;3)$",
+        "B. $(-2;-6;3)$",
+        "C. $(-4;-8;4)$",
+        "D. $(-2;-10;-3)$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cho hai vectơ $\\overrightarrow{u}=(1;-4;0)$ và $\\overrightarrow{v}=(-1;-2;1)$ trong không gian $Oxyz$.\n- Yêu cầu tìm tọa độ của vectơ $\\overrightarrow{u}+3\\overrightarrow{v}$.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu tính toán phép cộng vectơ và nhân vectơ với một số thực.\n- Cần áp dụng kiến thức: *nhân vectơ với số* và *cộng hai vectơ theo từng thành phần*.\n🔎 **Hướng dẫn cách làm:**\n- Viết biểu thức cần tính: $\\overrightarrow{u}+3\\overrightarrow{v}=(1;-4;0)+3(-1;-2;1).$\n- Nhân vectơ $\\overrightarrow{v}$ với 3 theo từng thành phần: - \\$3\\overrightarrow{v}=3(-1;-2;1)=(-3;-6;3).$\n- Cộng hai vectơ theo từng thành phần: - $\\overrightarrow{u}+3\\overrightarrow{v}=(1;-4;0)+(-3;-6;3)$\n  - Từng thành phần: $(1-3;\\,-4-6;\\,0+3)=(-2;\\,-10;\\,3).$\n✅ **Đáp án:** A. $(-2;-10;3)$"
+    },
+    {
+      "id": 12,
+      "content": "Doanh thu bán hàng trong \\$20$ ngày được lựa chọn ngẫu nhiên của một cửa hàng được ghi lại ở bảng sau (đơn vị: triệu đồng). Tứ phân vị thứ ba của mẫu số liệu trên gần nhất với giá trị nào trong các giá trị sau?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-kscl-thpt-toan-truong-thpt-than-uyen-tinh-lai-chau-2026-lan-1/cau-12.webp\" alt=\"Hình minh họa câu 12\" loading=\"lazy\"></figure>",
+      "chuong": "các số đặc trưng đo mức độ phân tán cho mẫu số liệu ghép nhóm",
+      "dang": "khoảng tứ phân vị",
+      "type": "single",
+      "options": [
+        "A. \\$13$",
+        "B. \\$12$",
+        "C. \\$10$",
+        "D. \\$11$"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Doanh thu (đơn vị: **triệu đồng**) được chia theo các lớp: - $[5;7):\\ 2$ ngày\n  - $[7;9):\\ 7$ ngày\n  - $[9;11):\\ 7$ ngày\n  - $[11;13):\\ 3$ ngày\n  - $[13;15):\\ 1$ ngày\n- Tổng số ngày quan sát:\n$n=20.$\n- Cần tìm **tứ phân vị thứ ba **$Q_3$của mẫu số liệu.\n❓ **Hiểu câu hỏi:**\n- Tứ phân vị thứ ba $Q_3$ là **giá trị mà 75% số liệu không vượt quá**.\n- Với mẫu ghép lớp, ta xác định: - **Lớp chứa**$Q_3$\n  - Sau đó dùng **công thức nội suy cho dữ liệu ghép lớp**.\n🔎 **Hướng dẫn cách làm:**\n- **Bước 1: Xác định vị trí của **$Q_3$\n$\\dfrac{3n}{4}=\\dfrac{3\\cdot20}{4}=15.$\n- **Bước 2: Lập tần số tích lũy** - Đến lớp $[5;7)$: \\$2$\n  - Đến lớp $[7;9)$: \\$2+7=9$\n  - Đến lớp $[9;11)$: \\$9+7=16$ ⇒ Vị trí thứ 15 nằm trong **lớp **$[9;11)$.\n- **Bước 3: Áp dụng công thức tứ phân vị cho số liệu ghép lớp** Công thức:\n$Q_3=L+\\dfrac{\\frac{3n}{4}-F}{f}\\cdot h.$ Trong đó: - $L=9$ (cận dưới lớp chứa $Q_3$)\n  - $F=9$ (tần số tích lũy trước lớp đó)\n  - $f=7$ (tần số lớp chứa $Q_3$)\n  - $h=2$ (độ rộng lớp)\n- **Bước 4: Tính toán**\n$Q_3=9+\\dfrac{15-9}{7}\\cdot2=9+\\dfrac{12}{7}\\approx10{,}7.$\n- Giá trị $Q_3\\approx10{,}7$ **gần nhất với 11**.\n✅ **Đáp án:**  $\\boxed{11}$\n👉 **Chọn đáp án D.** ✅"
+    }
+  ]
+}

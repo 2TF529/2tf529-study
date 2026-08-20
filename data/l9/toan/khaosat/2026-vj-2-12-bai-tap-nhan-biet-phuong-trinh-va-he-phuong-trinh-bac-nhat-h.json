@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-12-bai-tap-nhan-biet-phuong-trinh-va-he-phuong-trinh-bac-nhat-h",
+  "sourceId": "vietjack:2-12-bai-tap-nhan-biet-phuong-trinh-va-h",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.12 bài tập Nhận biết phương trình và hệ phương trình bậc nhất hai ẩn có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Trong các phương trình dưới đây, đâu không là một phương trình bậc nhất hai ẩn?",
+      "options": [
+        "A. 2x – y = 1.",
+        "B. x – 0y = 5.",
+        "C. 0x + 5y = 7.",
+        "D. 0x – 0y = 2."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Phương trình bậc nhất hai ẩn có dạng : ax + by = c, trong đó a, b và c là các số đã biết (a ≠ 0 hoặc b ≠ 0). Do đó, phương trình 0x – 0y = 2 không là một hệ phương trình bậc nhất hai ẩn."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho phương trình x – 3y = 7, biểu diễn y theo x ta được",
+      "options": [
+        "A. y = 3x – 21.",
+        "B. y = x – 7.",
+        "C. \\(y = \\frac{{x - 7}}{3}.\\)",
+        "D. \\(y = \\frac{{x + 7}}{3}.\\)"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Từ phương trình x – 3y = 7, biểu diễn y theo x ta được: 3y = x – 7 nên \\(y = \\frac{{x - 7}}{3}.\\)"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trong các hệ phương trình dưới đây, đâu là một hệ phương trình bậc nhất hai ẩn?",
+      "options": [
+        "A. \\(\\left\\{ \\begin{array}{l}2x + 3y = 5\\\\3x + 2y = 8\\end{array} \\right.\\).",
+        "B. \\(\\left\\{ \\begin{array}{l}x - y = 2\\\\0x + 0y = 5\\end{array} \\right.\\).",
+        "C. \\(\\left\\{ \\begin{array}{l}2{x^2} - y = 2\\\\{x^2} + {y^2} = 4\\end{array} \\right.\\).",
+        "D. \\(\\left\\{ \\begin{array}{l}2{x^2} + \\frac{2}{y} = 3\\\\xy = 4\\end{array} \\right.\\)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Hệ phương trình bậc nhất hai ẩn có dạng \\(\\left\\{ \\begin{array}{l}ax + by = c\\\\a'x + b'y = c'\\end{array} \\right.\\) với ax + by = c và a'x + b'y = c' là các phương trình bậc nhất hai ẩn. Do đó, hệ phương trình \\(\\left\\{ \\begin{array}{l}2x + 3y = 5\\\\3x + 2y = 8\\end{array} \\right.\\) là một hệ phương trình bậc nhất hai ẩn."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Xác định hệ số a, b, c của phương trình bậc nhất hai ẩn 2x – 5y = 7 ta được",
+      "options": [
+        "A. a = 2, b = 5, c = 7.",
+        "B. a = 2, b = −5, c = 7.",
+        "C. a = 5, b = 2, c = 7.",
+        "D. a = −5, b = 2, c = 7."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có hệ số a, b, c của phương trình bậc nhất hai ẩn 2x – 5y = 7 là a = 2, b = −5, c = 7."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Trong các hệ phương trình dưới đây, đâu không là một hệ phương trình bậc nhất hai ẩn?",
+      "options": [
+        "A. \\(\\left\\{ \\begin{array}{l}2x + 3y = 5\\\\3x + 0y = 6\\end{array} \\right.\\).",
+        "B. \\(\\left\\{ \\begin{array}{l}0x - 3y = 4\\\\3x + 0y = - 1\\end{array} \\right..\\)",
+        "C. \\(\\left\\{ \\begin{array}{l}x - y = 5\\\\0x + 0y = 3\\end{array} \\right.\\).",
+        "D. \\(\\left\\{ \\begin{array}{l}\\frac{x}{2} + 3y = 1\\\\x + \\frac{y}{3} = 4\\end{array} \\right.\\)."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Hệ phương trình bậc nhất hai ẩn có dạng \\(\\left\\{ \\begin{array}{l}ax + by = c\\\\a'x + b'y = c'\\end{array} \\right.\\) với ax + by = c và a'x + b'y = c' là các phương trình bậc nhất hai ẩn. Do đó \\(\\left\\{ \\begin{array}{l}x - y = 5\\\\0x + 0y = 3\\end{array} \\right.\\) không là một hệ phương trình bậc nhất hai ẩn vì phương trình 0x + 0y = 3 không là một phương trình bậc nhất hai ẩn."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Phương trình biểu diễn tổng số lượng gà và chó là:",
+      "options": [
+        "A. x + y = 36.",
+        "B. x + y = 100.",
+        "C. x + y = 64.",
+        "D. x + y = 50."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta giả sử số con gà là x, số con chó là y (x, y ∈ ℕ ∗ ). Từ bài toán, ta có phương trình x + y = 36."
+    }
+  ]
+}

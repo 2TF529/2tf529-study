@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-de-kiem-tra-toan-12-canh-dieu-chuong-6-co-dap-an",
+  "sourceId": "vietjack:2-de-kiem-tra-toan-12-canh-dieu-chuong-6",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "title": "2.Đề kiểm tra Toán 12 Cánh diều Chương 6 có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho hai biến cố \\(A\\) và \\(B\\) có \\(P\\left( B \\right) > 0\\) và \\(P\\left( {A|B} \\right) = 0,7\\). Tính \\(P\\left( {\\overline A |B} \\right)\\) có kết quả là",
+      "options": [
+        "A. \\(P\\left( {\\overline A |B} \\right) = 0,5\\).",
+        "B. \\(P\\left( {\\overline A |B} \\right) = 0,6\\).",
+        "C. \\(P\\left( {\\overline A |B} \\right) = 0,3\\).",
+        "D. \\(P\\left( {\\overline A |B} \\right) = 0,4\\)."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng: C Với mọi biến cố \\(A\\) và \\(B\\), \\(P\\left( B \\right) > 0\\) ta có \\(P\\left( {\\overline A |B} \\right) = 1 - P\\left( {A|B} \\right) = 1 - 0,7 = 0,3\\)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Một hộp có 10 viên bi trắng và 15 viên bi đỏ, các viên bi có cùng kích thước và khối lượng. Lần thứ nhất lấy ngẫu nhiên một viên bi trong hộp và không trả lại. Lần thứ hai lẫy ngẫu nhiên thêm một viên bi nữa trong hộp đó. Gọi A là biến cố: “Lần thứ hai lấy được 1 viên bi trắng”; B là biến cố: “Lần thứ nhất lấy được 1 viên bi đỏ”. Tính \\[P\\left( {A|B} \\right)\\].",
+      "options": [
+        "A. \\(\\frac{5}{{12}}\\).",
+        "B. \\(\\frac{3}{5}\\).",
+        "C. \\(\\frac{1}{4}\\).",
+        "D. \\(\\frac{7}{{30}}\\)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng: A Lần thứ nhất lấy được bi đỏ khi đó trong hộp chỉ còn lại \\[24\\] viên bị gồm \\[10\\] viên bị trắng và \\[14\\] viên bị đỏ. Khi đó xác suất để lần thứ hai lấy được bi trắng biết lần thứ nhất lấy được bị đỏ là: \\[P\\left( {A|B} \\right) = \\frac{{C_{10}^1}}{{C_{24}^1}} = \\frac{5}{{12}}\\]."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Một công ty bất động sản đấu giá quyền sử dụng hai mảnh đất độc lập. Khả năng trúng đấu giá cao nhất của mảnh đất số 1 là \\(0,7\\) và mảnh đất số 2 là \\(0,8.\\) Xác suất để công ty trúng giá cao nhất mảnh đất số 2, biết công ty trúng giá cao nhất mảnh đất số 1 là",
+      "options": [
+        "A. \\(0,8.\\)",
+        "B. \\(0,7.\\)",
+        "C. \\(0,75.\\)",
+        "D. \\(0,6.\\)"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng: A Gọi \\(A\\) là biến cố: “Công ty trúng giá cao nhất mảnh đất số 1”; Gọi \\(B\\) là biến cố: “Công ty trúng giá cao nhất mảnh đất số 2”. Gọi \\(C\\) là biến cố: “Công ty trúng giá cao nhất mảnh đất số 2, biết công ty trúng giá cao nhất mảnh đất số 1” \\( \\Rightarrow P\\left( C \\right) = P\\left( {B|A} \\right) = P\\left( B \\right) = 0,8.\\)"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hai biến cố \\[A,\\,B\\] thỏa mãn \\[P\\left( {\\overline B } \\right) = 0,2;\\,P\\left( {A|B} \\right) = 0,5;\\,P\\left( {\\left. A \\right|\\overline B } \\right) = 0,3\\]. Khi đó, \\[P\\left( A \\right)\\] bằng",
+      "options": [
+        "A. \\(0,46\\).",
+        "B. \\(0,34\\).",
+        "C. \\(0,15\\).",
+        "D. \\(0,31\\)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng: A Ta có: \\[P\\left( B \\right) = 1 - P\\left( {\\overline B } \\right) = 0,8\\]. Theo công thức xác suất toàn phần, ta có: \\[P\\left( A \\right) = P\\left( B \\right).P\\left( {A|B} \\right) + P\\left( {\\overline B } \\right).P\\left( {A|\\overline B } \\right) = 0,8.0,5 + 0,2.0,3 = 0,46\\]."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hai biến cố \\(A,B\\) thỏa mãn \\(P\\left( A \\right) = 0,4\\), \\(P\\left( B \\right) = 0,3\\), \\(P\\left( {A|B} \\right) = 0,25\\). Khi đó, \\(P\\left( {B|A} \\right)\\) bằng",
+      "options": [
+        "A. \\(0,1875\\).",
+        "B. \\(0,48\\).",
+        "C. \\(0,333\\).",
+        "D. \\(0,95\\)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng: A Theo công thức Bayes, ta có: \\(P\\left( {B|A} \\right) = \\frac{{P\\left( B \\right).P\\left( {A|B} \\right)}}{{P\\left( A \\right)}} = \\frac{{0,3.0,25}}{{0,4}} = 0,1875\\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho hai biến cố \\[A\\] và \\[B\\], với \\[P\\left( B \\right) = 0,8\\], \\[P\\left( {A|B} \\right) = 0,7\\], \\[P\\left( {A|\\overline B } \\right) = 0,45\\]. Tính \\[P\\left( {B|A} \\right)\\].",
+      "options": [
+        "A. \\[0,25\\].",
+        "B. \\[\\frac{{56}}{{65}}\\].",
+        "C. \\[0,65\\].",
+        "D. \\[0,5\\]."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng: B Ta có: \\[P\\left( {\\overline B } \\right) = 1 - 0,8 = 0,2\\]. Công thức Bayes: \\[P\\left( {B|A} \\right) = \\frac{{P\\left( B \\right)P\\left( {A|B} \\right)}}{{P\\left( B \\right)P\\left( {A|B} \\right) + P\\left( {\\overline B } \\right)P\\left( {A|\\overline B } \\right)}}\\]. \\[ \\Rightarrow P\\left( {B|A} \\right) = \\frac{{0,8.0,7}}{{0,8.0,7 + 0,2.0,45}} = \\frac{{56}}{{65}}\\]."
+    }
+  ]
+}

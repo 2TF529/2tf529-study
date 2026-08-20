@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-6-22-cau-trac-nghiem-toan-11-canh-dieu-bai-2-cac-phep-bien-doi-lu",
+  "sourceId": "vietjack:6-22-cau-trac-nghiem-toan-11-canh-dieu-b",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "6.22 câu Trắc nghiệm Toán 11 Cánh diều Bài 2. Các phép biến đổi lượng giác (Đúng-sai, trả lời ngắn) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: TRẮC NGHIỆM NHIỀU LỰA CHỌN Khẳng định nào sai trong các khẳng định sau?",
+      "options": [
+        "A. \\(\\cos 6a = {\\cos ^2}3a - {\\sin ^2}3a.\\)",
+        "B. \\(\\cos 6a = 1 - 2{\\sin ^2}3a.\\)",
+        "C. \\(\\cos 6a = 1 - 6{\\sin ^2}a.\\)",
+        "D. \\[\\cos 6a = 2{\\cos ^2}3a - 1.\\]"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Áp dụng công thức \\(\\cos 2\\alpha = {\\cos ^2}\\alpha - {\\sin ^2}\\alpha = 2{\\cos ^2}\\alpha - 1 = 1 - 2{\\sin ^2}\\alpha \\), ta được \\(\\cos 6a = {\\cos ^2}3a - {\\sin ^2}3a = 2{\\cos ^2}3a - 1 = 1 - 2{\\sin ^2}3a\\)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Nếu \\(\\tan \\left( {a + b} \\right) = 7,\\,\\,\\,\\tan \\left( {a - b} \\right) = 4\\) thì giá trị đúng của \\(\\tan 2a\\) là",
+      "options": [
+        "A. \\( - \\frac{{11}}{{27}}.\\)",
+        "B. \\(\\frac{{11}}{{27}}.\\)",
+        "C. \\( - \\frac{{13}}{{27}}.\\)",
+        "D. \\(\\frac{{13}}{{27}}.\\)"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có \\[\\tan 2a = \\tan \\left[ {\\left( {a + b} \\right) + \\left( {a - b} \\right)} \\right] = \\frac{{\\tan \\left( {a + b} \\right) + \\tan \\left( {a - b} \\right)}}{{1 + \\tan \\left( {a + b} \\right).\\tan \\left( {a - b} \\right)}} = \\frac{{7 + 4}}{{1 - 7.4}} = - \\frac{{11}}{{27}}.\\]"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Đẳng thức nào sau đây đúng:",
+      "options": [
+        "A. \\(\\cot a + \\cot b = \\frac{{\\sin \\left( {b - a} \\right)}}{{\\sin a.\\sin b}}.\\)",
+        "B. \\({\\cos ^2}a = \\frac{1}{2}\\left( {1 + \\cos 2a} \\right).\\)",
+        "C. \\(\\sin \\left( {a + b} \\right) = \\frac{1}{2}\\sin 2\\left( {a + b} \\right).\\)",
+        "D. \\[\\tan \\left( {a + b} \\right) = \\frac{{\\sin \\left( {a + b} \\right)}}{{\\cos a.\\cos b}}.\\]"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Xét các đáp án: Đáp án A. Ta có \\(\\cot a + \\cot b = \\frac{{\\cos a}}{{\\sin a}} + \\frac{{\\cos b}}{{\\sin b}} = \\frac{{\\cos a.\\sin b + \\sin a.\\cos b}}{{\\sin a.\\sin b}} = \\frac{{\\sin \\left( {a + b} \\right)}}{{\\sin a.\\sin b}}\\). Đáp án B. Ta có \\(\\cos 2a = 2{\\cos ^2}a - 1 \\Leftrightarrow {\\cos ^2}a = \\frac{1}{2}\\left( {1 + \\cos 2a} \\right)\\)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Rút gọn \\(M = \\sin \\left( {x - y} \\right)\\cos y + \\cos \\left( {x - y} \\right)\\sin y.\\)",
+      "options": [
+        "A. \\(M = \\cos x.\\)",
+        "B. \\[M = \\sin x.\\]",
+        "C. \\(M = \\sin x\\,\\cos {\\rm{ }}2y.\\)",
+        "D. \\(M = \\cos x\\,\\cos \\,\\,2y.\\)"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Áp dụng công thức \\(sin\\left( {a + b} \\right) = \\sin a\\cos b + \\sin b\\cos a\\), ta được \\(M = \\sin \\left( {x - y} \\right)\\cos y + \\cos \\left( {x - y} \\right)\\sin y = \\sin \\left[ {\\left( {x - y} \\right) + y} \\right] = \\sin x.\\)"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Giá trị của biểu thức \\[\\cos \\frac{\\pi }{{30}}\\cos \\frac{\\pi }{5} + \\sin \\frac{\\pi }{{30}}\\sin \\frac{\\pi }{5}\\] là",
+      "options": [
+        "A. \\[\\frac{{\\sqrt 3 }}{2}.\\]",
+        "B. \\[ - \\frac{{\\sqrt 3 }}{2}.\\]",
+        "C. \\[\\frac{{\\sqrt 3 }}{4}.\\]",
+        "D. \\[\\frac{1}{2}.\\]"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có \\[\\cos \\frac{\\pi }{{30}}\\cos \\frac{\\pi }{5} + \\sin \\frac{\\pi }{{30}}\\sin \\frac{\\pi }{5} = \\cos \\left( {\\frac{\\pi }{{30}} - \\frac{\\pi }{5}} \\right) = \\cos \\left( { - \\frac{\\pi }{6}} \\right) = \\frac{{\\sqrt 3 }}{2}.\\]"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Rút gọn biểu thức \\(M = {\\cos ^4}15^\\circ - {\\sin ^4}15^\\circ .\\)",
+      "options": [
+        "A. \\(M = 1.\\)",
+        "B. \\(M = \\frac{{\\sqrt 3 }}{2}.\\)",
+        "C. \\(M = \\frac{1}{4}.\\)",
+        "D. \\(M = 0.\\)"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có \\(M = {\\cos ^4}15^\\circ - {\\sin ^4}15^\\circ = {\\left( {{{\\cos }^2}15^\\circ } \\right)^2} - {\\left( {{{\\sin }^2}15^\\circ } \\right)^2}\\) \\( = \\left( {{{\\cos }^2}15^\\circ - {{\\sin }^2}15^\\circ } \\right)\\left( {{{\\cos }^2}15^\\circ + {{\\sin }^2}15^\\circ } \\right)\\) \\( = {\\cos ^2}15^\\circ - {\\sin ^2}15^\\circ = \\cos \\left( {2.15^\\circ } \\right) = \\cos 30^\\circ = \\frac{{\\sqrt 3 }}{2}.\\)"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Giá trị của biểu thức \\[P = \\frac{{\\sin \\frac{{5\\pi }}{{18}}\\cos \\frac{\\pi }{9} - \\sin \\frac{\\pi }{9}\\cos \\frac{{5\\pi }}{{18}}}}{{\\cos \\frac{\\pi }{4}\\cos \\frac{\\pi }{{12}} - \\sin \\frac{\\pi }{4}\\sin \\frac{\\pi }{{12}}}}\\] là",
+      "options": [
+        "A. \\(1\\).",
+        "B. \\[\\frac{1}{2}.\\]",
+        "C. \\[\\frac{{\\sqrt 2 }}{2}.\\]",
+        "D. \\[\\frac{{\\sqrt 3 }}{2}.\\]"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Áp dụng công thức \\[\\left\\{ \\begin{array}{l}\\sin a.\\cos b - \\cos a.\\sin b = \\sin \\left( {a - b} \\right)\\\\\\cos a.\\cos b - \\sin a.\\sin b = \\cos \\left( {a + b} \\right)\\end{array} \\right..\\] Khi đó \\[\\sin \\frac{{5\\pi }}{{18}}\\cos \\frac{\\pi }{9} - \\sin \\frac{\\pi }{9}\\cos \\frac{{5\\pi }}{{18}} = \\sin \\left( {\\frac{{5\\pi }}{{18}} - \\frac{\\pi }{9}} \\right) = \\sin \\frac{\\pi }{6} = \\frac{1}{2}.\\] Và \\[\\cos \\frac{\\pi }{4}\\cos \\frac{\\pi }{{12}} - \\sin \\frac{\\pi }{4}\\sin \\frac{\\pi }{{12}} = \\cos \\left( {\\frac{\\pi }{4} + \\frac{\\pi }{{12}}} \\right) = \\cos \\frac{\\pi }{3} = \\frac{1}{2}.\\] Vậy \\[P = \\frac{1}{2}:\\frac{1}{2} = 1.\\]"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Giá trị nào sau đây của \\(x\\) thỏa mãn \\(\\sin 2x.\\sin 3x = \\cos 2x.\\cos 3x\\)?",
+      "options": [
+        "A. \\(18^\\circ .\\)",
+        "B. \\(30^\\circ .\\)",
+        "C. \\(36^\\circ .\\)",
+        "D. \\(45^\\circ .\\)"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Áp dụng công thức \\[\\cos a.\\cos b - \\sin a.\\sin b = \\cos \\left( {a + b} \\right)\\], ta được \\[\\sin 2x.\\sin 3x = \\cos 2x.\\cos 3x \\Leftrightarrow \\cos 2x.\\cos 3x - \\sin 2x.\\sin 3x = 0\\] \\[ \\Leftrightarrow \\cos 5x = 0 \\Leftrightarrow 5x = \\frac{\\pi }{2} + k\\pi \\Leftrightarrow x = \\frac{\\pi }{{10}} + k\\frac{\\pi }{5}.\\]"
+    }
+  ]
+}

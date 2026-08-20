@@ -1,0 +1,65 @@
+{
+  "id": "2026-vj-5-12-bai-tap-xac-dinh-he-so-a-b-c-khi-biet-cac-tinh-chat-cua-ham-",
+  "sourceId": "vietjack:5-12-bai-tap-xac-dinh-he-so-a-b-c-khi-bi",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "5.12 Bài tập Xác định hệ số a, b, c khi biết các tính chất của hàm số bậc hai (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 2: Cho đồ thị hàm số y = ax 2 + bx + c trong hình vẽ sau: Khẳng định nào sau đây là đúng:",
+      "options": [
+        "A. a > 0;",
+        "B. a = 0;",
+        "C. a < 0;",
+        "D. a ≠ 0."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải: Đáp án đúng là: C. Ta thấy đồ thị hàm số có bề lõm hướng xuống, do đó a < 0."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 4: Cho đồ thị hàm số y = ax 2 trong hình vẽ sau: Khẳng định nào sau đây là đúng ?",
+      "options": [
+        "A. c > 0;",
+        "B. a < 0;",
+        "C. c = 0;",
+        "D. a = 0."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải: Đáp án đúng là: C. Ta thấy đồ thị hàm số cắt trục tung tại điểm (0; 0) do đó c = 0. Đồ thị có bề lõm hướng lên trên nên a > 0."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 5: Cho đồ thị hàm số y = ax 2 + bx + c trong hình vẽ sau: Khẳng định nào sau đây là đúng ?",
+      "options": [
+        "A. c > 0;",
+        "B. a < 0;",
+        "C. \\( - \\frac{b}{{2a}}\\) < 0;",
+        "D. \\( - \\frac{\\Delta }{{4a}}\\)< 0."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải: Đáp án đúng là: D. Dựa vào đồ thị ta thấy + Đồ thị có bề lõm hướng lên trên nên a > 0. + Parabol cắt trục tung tại điểm (0; 0) nên c = 0. + Đỉnh của parabol có hoành độ là 1, lớn hơn 0 hay \\( - \\frac{b}{{2a}}\\)> 0 và tung độ là – 1, nhỏ hơn 0 hay \\( - \\frac{\\Delta }{{4a}}\\)< 0."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 6: Cho parabol (P): y = ax 2 + bx + c có trục đối xứng là đường thẳng x = 1. Khi đó 4a + 2b bằng:",
+      "options": [
+        "A. – 1;",
+        "B. 0;",
+        "C. 1;",
+        "D. 2."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải: Đáp án đúng là: B. Do parabol (P): y = ax 2 + bx + c có trục đối xứng là đường thẳng x = 1 nên \\( - \\frac{b}{{2a}} = 1\\) ⇔ 2a = – b ⇔ 2a + b = 0 ⇔ 2(2a + b) = 0 ⇔ 4a + 2b = 0."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-2-bai-tap-on-tap-toan-12-chan-troi-sang-tao-chuong-4-co-dap-an",
+  "sourceId": "vietjack:2-bai-tap-on-tap-toan-12-chan-troi-sang-",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.Bài tập ôn tập  Toán 12 Chân trời sáng tạo Chương 4 có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: A. Trắc nghiệm Dạng 1. Trắc nghiệm nhiều phương án lựa chọn Mỗi câu hỏi thí sinh chỉ chọn một phương án. Cho hàm số \\[f\\left( x \\right) = 3 + \\frac{1}{x}\\] . Trong các hàm số dưới đây, hàm số nào là một nguyên hàm của \\[f\\left( x \\right)\\] trên \\[\\left( {0; + \\infty } \\right)\\] ?",
+      "options": [
+        "A. \\({F_1}\\left( x \\right) = 3x - \\frac{1}{{{x^2}}}\\) .",
+        "B. \\({F_2}\\left( x \\right) = 3x + \\ln x\\) .",
+        "C. \\({F_3}\\left( x \\right) = 3x + \\frac{1}{{{x^2}}}\\) .",
+        "D. \\({F_4}\\left( x \\right) = 3x - \\ln x\\) ."
+      ],
+      "answer": "B",
+      "note": "Chọn B Ta có: \\({F_1}^\\prime \\left( x \\right) = 3 + \\frac{2}{{{x^3}}}\\); \\({F'_2}\\left( x \\right) = 3 + \\frac{1}{x}\\); \\({F'_3}\\left( x \\right) = 3 - \\frac{2}{{{x^3}}}\\); \\({F_4}^\\prime \\left( x \\right) = 3 - \\frac{1}{x}\\). Suy ra: \\({F_2}^\\prime \\left( x \\right) = 3 + \\frac{1}{x} = f\\left( x \\right)\\). Vậy \\({F_2}\\left( x \\right) = 3x + \\ln x\\) là một nguyên hàm của \\[f\\left( x \\right) = 3 + \\frac{1}{x}\\] trên \\[\\left( {0; + \\infty } \\right)\\]."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Họ các nguyên hàm của hàm số \\(f\\left( x \\right) = 3{x^2} + 1\\) là",
+      "options": [
+        "A. \\({x^3} + C\\) .",
+        "B. \\(\\frac{{{x^3}}}{3} + x + C\\) .",
+        "C. \\({x^3} + x + C\\) .",
+        "D. \\(6x + C\\) ."
+      ],
+      "answer": "C",
+      "note": "Chọn C Ta có \\(\\int {f\\left( x \\right){\\rm{d}}x = \\int {\\left( {3{x^2} + 1} \\right){\\rm{d}}x} = 3.\\frac{{{x^3}}}{3} + x + C = {x^3} + x + C} \\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Nguyên hàm \\(F\\left( x \\right)\\) của hàm số \\[f\\left( x \\right) = {\\left( {2x - 3} \\right)^2}\\] thỏa mãn \\(F\\left( { - 1} \\right) = - 17\\) là",
+      "options": [
+        "A. \\[\\frac{{{{\\left( {2x - 3} \\right)}^3}}}{3} + \\frac{4}{3}\\] .",
+        "B. \\[\\frac{4}{3}{x^3} - 6{x^2} + 9x - \\frac{2}{3}\\] .",
+        "C. \\[\\frac{4}{3}{x^3} - 6{x^2} + 9x + \\frac{8}{3}\\] .",
+        "D. \\[\\frac{4}{3}{x^3} - 6{x^2} + 9x + \\frac{2}{3}\\] ."
+      ],
+      "answer": "B",
+      "note": "Chọn B Ta có \\[\\int {{{\\left( {2x - 3} \\right)}^2}{\\rm{d}}x} = \\int {\\left( {4{x^2} - 12x + 9} \\right){\\rm{d}}x} = 4\\int {{x^2}} {\\rm{d}}x - 12\\int {x{\\rm{d}}x} + 9\\int {{\\rm{d}}x} = \\frac{4}{3}{x^3} - 6{x^2} + 9x + C\\]. \\(F\\left( { - 1} \\right) = - 17 \\Leftrightarrow \\frac{4}{3}.{\\left( { - 1} \\right)^3} - 6.{\\left( { - 1} \\right)^2} + 9.\\left( { - 1} \\right) + C = - 17 \\Leftrightarrow C = - \\frac{2}{3}\\). Vậy nguyên hàm \\(F\\left( x \\right)\\) của hàm số \\[f\\left( x \\right) = {\\left( {2x - 3} \\right)^2}\\] thỏa mãn \\(F\\left( { - 1} \\right) = - 17\\) là\\[\\frac{4}{3}{x^3} - 6{x^2} + 9x - \\frac{2}{3}\\]."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho \\(F\\left( x \\right)\\) là một nguyên hàm của \\(f\\left( x \\right) = \\frac{2}{{x + 2}}\\) . Biết \\(F\\left( { - 1} \\right) = 1\\) , khi đó \\(F\\left( 2 \\right)\\) bằng",
+      "options": [
+        "A. \\(2{\\rm{ln}}3 + 2\\) .",
+        "B. \\(4{\\rm{ln}}2 + 1\\) .",
+        "C. \\({\\rm{ln}}8 + 1\\) .",
+        "D. \\(2{\\rm{ln}}4\\) ."
+      ],
+      "answer": "B",
+      "note": "Chọn B Ta có \\[F\\left( x \\right) = \\int {f\\left( x \\right){\\rm{d}}x} = \\int {\\frac{2}{{x + 2}}{\\rm{\\;d}}x} = 2{\\rm{ln}}\\left| {x + 2} \\right| + C\\]. Do \\(F\\left( { - 1} \\right) = 1\\) nên \\(2{\\rm{ln}}\\left| { - 1 + 2} \\right| + C = 1 \\Leftrightarrow C = 1\\). Vậy \\(F\\left( x \\right) = 2{\\rm{ln}}\\left| {x + 2} \\right| + 1 \\Rightarrow F\\left( 2 \\right) = 2{\\rm{ln}}4 + 1 = 4{\\rm{ln}}2 + 1\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Nguyên hàm của hàm số \\(f\\left( x \\right) = 3\\cos x - 4\\sin x\\) là:",
+      "options": [
+        "A. \\(3\\sin x - 4\\cos x\\) .",
+        "B. \\( - 3\\sin x + 4\\cos x\\) .",
+        "C. \\(3\\sin x + 4\\cos x + C\\) .",
+        "D. \\( - 3\\sin x + 4\\cos x + C\\) ."
+      ],
+      "answer": "C",
+      "note": "Chọn C \\(\\int {f\\left( x \\right){\\rm{d}}x} = \\int {\\left( {3\\cos x - 4\\sin x} \\right)} {\\rm{d}}x = 3\\int {\\cos x} {\\rm{d}}x - 4\\int {\\sin x{\\rm{d}}x} \\)\\( = 3\\sin x + 4\\cos x + C\\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Nguyên hàm của hàm số \\(f\\left( x \\right) = 2\\sin x + \\frac{3}{{{{\\sin }^2}x}}\\) là:",
+      "options": [
+        "A. \\[ - 2\\cos x - 3\\cot x + C\\] .",
+        "B. \\[2\\cos x - 3\\tan x + C\\] .",
+        "C. \\[ - 2\\cos x + 3\\cot x + C\\] .",
+        "D. \\[2\\cos x - 3\\cot x + C\\] ."
+      ],
+      "answer": "A",
+      "note": "Chọn A Ta có \\[\\int {f\\left( x \\right){\\rm{d}}x} = \\int {\\left( {2\\sin x + \\frac{3}{{{{\\sin }^2}x}}} \\right)} {\\rm{d}}x = 2\\int {\\sin x{\\rm{d}}x + 3\\int {\\frac{1}{{{{\\sin }^2}x}}{\\rm{d}}x} } \\] \\[ = - 2\\cos x - 3\\cot x + C\\]."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Nguyên hàm của hàm số có \\[f\\left( x \\right) = {\\tan ^2}x + {\\cot ^2}x\\] là:",
+      "options": [
+        "A. \\[2\\tan x + 2\\cot x + C\\] .",
+        "B. \\[\\frac{1}{3}{\\tan ^3}x + \\frac{1}{3}{\\cot ^3}x + C\\] .",
+        "C. \\[\\tan x + \\cot x - 2x + C\\] .",
+        "D. \\[\\tan x - \\cot x - 2x + C\\] ."
+      ],
+      "answer": "D",
+      "note": "Chọn D Ta có \\[\\int {f\\left( x \\right){\\rm{d}}x} = \\int {{{\\tan }^2}x{\\rm{d}}x} + \\int {{{\\cot }^2}x{\\rm{d}}x} = \\int {\\left( {1 + {{\\tan }^2}x - 1} \\right){\\rm{d}}x} + \\int {\\left( {1 + {{\\cot }^2}x - 1} \\right){\\rm{d}}x} \\] \\[ = \\int {\\left( {\\frac{1}{{{{\\cos }^2}x}} - 1} \\right){\\rm{d}}x} + \\int {\\left( {\\frac{1}{{{{\\sin }^2}x}} - 1} \\right){\\rm{d}}x} \\]\\[ = \\int {\\frac{1}{{{{\\cos }^2}x}}{\\rm{d}}x} + \\int {\\frac{1}{{{{\\sin }^2}x}}{\\rm{d}}x} - 2\\int {{\\rm{d}}x} \\] \\[ = \\tan x - \\cot x - 2x + C\\]."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho hàm số \\(f\\left( x \\right)\\) thỏa mãn \\(f'\\left( x \\right) = 3 - 5{\\rm{cos}}x\\) và \\(f\\left( 0 \\right) = 5\\) . Mệnh đề nào dưới đây đúng?",
+      "options": [
+        "A. \\(f\\left( x \\right) = 3x - 5{\\rm{sin}}x - 5\\) .",
+        "B. \\(f\\left( x \\right) = 3x + 5{\\rm{sin}}x + 5\\) .",
+        "C. \\(f\\left( x \\right) = 3x + 5{\\rm{sin}}x + 2\\) .",
+        "D. \\(f\\left( x \\right) = 3x - 5{\\rm{sin}}x + 5\\) ."
+      ],
+      "answer": "D",
+      "note": "Chọn D Ta có \\(f\\left( x \\right) = \\int {f'\\left( x \\right){\\rm{d}}x} = \\int {\\left( {3 - 5{\\rm{cos}}x} \\right){\\rm{d}}x} = 3x - 5{\\rm{sin}}x + C\\). Ta lại có:\\(f\\left( 0 \\right) = 5 \\Rightarrow 3 \\cdot 0 - 5{\\rm{sin}}0 + C = 5 \\Leftrightarrow C = 5\\). Vậy \\(f\\left( x \\right) = 3x - 5{\\rm{sin}}x + 5\\)."
+    }
+  ]
+}

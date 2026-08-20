@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-10-bai-tap-xac-dinh-va-tinh-goc-giua-duong-thang-va-mat-phang-c",
+  "sourceId": "vietjack:1-10-bai-tap-xac-dinh-va-tinh-goc-giua-d",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.10 Bài tập Xác định và tính góc giữa đường thẳng và mặt phẳng (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho hình chóp S.ABC, có SA ⊥ (ABC). Góc giữa đường thẳng SC và mặt đáy là góc nào dưới đây?",
+      "options": [
+        "A. S A C ^",
+        "B. S B C ^",
+        "C. S C A ^",
+        "D. C S A ^"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có: SC ∩ (ABC) = C. Hình chiếu vuông góc của S lên (ABC) là A. Do đó, ta có: S C , A B C = S C , A C = S C A ^ ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hình chóp S.ABC, có SA ⊥ (ABC). Góc giữa đường thẳng SB và đáy là góc nào dưới đây?",
+      "options": [
+        "A. S B A ^",
+        "B. S B C ^",
+        "C. S C A ^",
+        "D. C S A ^"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có: SB ∩ (ABC) = B Hình chiếu vuông góc của S lên (ABC) là A. Do đó, ta có: S B , A B C = S B , A B = S B A ^ ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho hình chóp S.ABC có đáy là tam giác vuông tại B, cạnh bên SA ⊥ (ABC). Góc giữa đường thẳng SC và mặt phẳng (SAB) là góc nào dưới đây?",
+      "options": [
+        "A. S C A ^",
+        "B. S B C ^",
+        "C. B S C ^",
+        "D. S C B ^"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có: BC ⊥ AB (tam giác ABC vuông tại B) BC ⊥ SA (SA ⊥ (ABC)) Suy ra: BC ⊥ (SAB). Khi đó hình chiếu vuông góc của C lên (SAB) là B. SC ∩ (SAB) = S Vậy S C , S A B = S C , S B = B S C ^ ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hình lập phương ABCD.A'B'C'D'. Xác định góc giữa đường thẳng A'C và mặt phẳng (ABCD).",
+      "options": [
+        "A. A ' C A ^",
+        "B. A A ' C ^",
+        "C. A ' C B ^",
+        "D. A ' C D ' ^"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Hình chiếu vuông góc của A' lên (ABCD) là A A'C ∩ (ABCD) = C Suy ra: A ' C , A B C D = A ' C , A C = A ' C A ^ ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hình lăng trụ tam giác đều ABC.A'B'C' có AB = 3 và AA' = 1. Góc tạo bởi đường thẳng AC' và (ABC) bằng:",
+      "options": [
+        "A. 60 °",
+        "B. 30 °",
+        "C. 90 °",
+        "D. 45 °"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Hình chiếu vuông góc của C' lên (ABC) là C AC' ∩ (ABC) = A Suy ra: A C ' , A B C = A C ' , A C = C ' A C ^ . Vì ABC.A'B'C' là hình lăng trụ tam giác đều nên AC = AB = 3 , CC' = AA' = 1. Xét tam giác ACC' vuông tại C có: tan C ' A C ^ = C C ' A C = 1 3 ⇒ C ' A C ^ = 30 ° ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho hình hộp chữ nhật ABCD.A'B'C'D' có AB = AD = 2 và AA' = 2 2 . Góc giữa đường thẳng CA' và mặt phẳng (ABCD) bằng:",
+      "options": [
+        "A. 30 °",
+        "B. 60 °",
+        "C. 90 °",
+        "D. 45 °"
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Hình chiếu vuông góc của A' lên (ABCD) là A A'C ∩ (ABCD) = C Suy ra: A ' C , A B C D = A ' C , A C = A ' C A ^ Áp dụng định lí Pythagore cho tam giác vuông ABC ta có: AC 2 = AB 2 + BC 2 = 2 2 + 2 2 = 8 ⇒ A C = 2 2 Xét tam giác vuông ACA' có: tan A C A ' ^ = A A ' A C = 2 2 2 2 = 1 ⇒ A C A ' ^ = 45 °"
+    }
+  ]
+}

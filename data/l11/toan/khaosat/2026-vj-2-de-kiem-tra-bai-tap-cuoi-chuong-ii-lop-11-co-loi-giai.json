@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-2-de-kiem-tra-bai-tap-cuoi-chuong-ii-lop-11-co-loi-giai",
+  "sourceId": "vietjack:2-de-kiem-tra-bai-tap-cuoi-chuong-ii-lop",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.Đề kiểm tra Bài tập cuối chương II lớp 11 (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Phần 1. Câu hỏi trắc nghiệm nhiều phương án lựa chọn . Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi, thí sinh chỉ chọn 1 phương án. Khẳng định nào sau đây là sai ?",
+      "options": [
+        "A. Một dãy số tăng thì bị chặn dưới.",
+        "B. Một dãy số giảm thì bị chặn trên.",
+        "C. Một dãy số bị chặn thì phải tăng hoặc giảm.",
+        "D. Một dãy số không đổi thì bị chặn."
+      ],
+      "answer": "D",
+      "note": "Chọn D"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho dãy số \\(1,\\frac{1}{2},\\frac{1}{4},\\frac{1}{8}, \\ldots \\) (số hạng sau bằng một nửa số hạng liền trước nó). Công thức tồng quát của dãy số đã cho là",
+      "options": [
+        "A. \\({u_n} = {\\left( {\\frac{1}{2}} \\right)^n}\\) .",
+        "B. \\[{u_n} = \\frac{{{{( - 1)}^n}}}{{{2^{n - 1}}}}\\] .",
+        "C. \\({u_n} = \\frac{1}{{2n}}\\) .",
+        "D. \\({u_n} = {\\left( {\\frac{1}{2}} \\right)^{n - 1}}\\) ."
+      ],
+      "answer": "D",
+      "note": "Chọn D"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho dãy số \\(\\left( {{u_n}} \\right)\\) với \\({u_n} = 3n + 6\\) . Khẳng định nào sau đây là đúng?",
+      "options": [
+        "A. Dãy số \\(\\left( {{u_n}} \\right)\\) là cấp số cộng với công sai \\(d = 3\\) .",
+        "B. Dãy số \\(\\left( {{u_n}} \\right)\\) . là cấp số cộng với công sai \\(d = 6\\) .",
+        "C. Dãy số \\(\\left( {{u_n}} \\right)\\) là cấp số nhân với công bội \\(q = 3\\) .",
+        "D. Dãy số \\(\\left( {{u_n}} \\right)\\) là cấp số nhân với cộng bội \\(q = 6\\) ."
+      ],
+      "answer": "A",
+      "note": "Chọn A Ta có: \\[{S_{100}} = \\frac{{100}}{2}[2.1 + (100 - 1).2] = 10000\\] \\[{u_n} - {u_{n - 1}} = (3x + 6) - [3(n - 1) + 6] = 3\\] Suy ra dãy số (\\[{u_n}\\]) là cấp số cộng với công sai d = 3"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Trong các dãy số cho bởi công thức truy hồi sau, dãy số nào là cấp số nhân?",
+      "options": [
+        "A. \\({u_1} = - 1,{u_{n + 1}} = u_n^2\\) .",
+        "B. \\({u_1} = - 1,{u_{n + 1}} = 2{u_n}\\) .",
+        "C. \\({u_1} = - 1,{u_{n + 1}} = {u_n} + 2\\) .",
+        "D. \\({u_1} = - 1,{u_{n + 1}} = {u_n} - 2\\) ."
+      ],
+      "answer": "B",
+      "note": "Chọn B"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Tổng 100 số hạng đầu của dãy số \\(\\left( {{u_n}} \\right)\\) với \\({u_n} = 2n - 1\\) là",
+      "options": [
+        "A. 199.",
+        "B. \\({2^{100}} - 1\\) .",
+        "C. 10000.",
+        "D. 9999."
+      ],
+      "answer": "C",
+      "note": "Chọn C Ta có: \\[\\begin{array}{l}{u_1} = 2.1 - 1 = 1\\\\{u_n} - {u_{n - 1}} = (2n - 1) - [2(n - {u_n}1) - 1] = 2\\end{array}\\] Vậy (\\({u_n}\\)) là cấp số cộng với \\({u_1} = 1\\)và công sai d=2 Suy ra \\[{S_{100}} = \\frac{{100}}{2}[2.1 + (100 - 1).2] = 10000\\]"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Khẳng định nào sau đây là sai ?",
+      "options": [
+        "A. Dãy số có \\({u_{n + 1}} = a{.3^{n + 1}}\\) .",
+        "B. Hiệu số \\({u_{n + 1}} - {u_n} = 3.a\\) .",
+        "C. Với \\(a > 0\\) thì dãy số tăng.",
+        "D. Với \\(a < 0\\) thì dãy số giảm."
+      ],
+      "answer": "B",
+      "note": "Chọn B Ta có \\({u_{n + 1}} - {u_n} = a{.3^{n + 1}} - a{.3^n} = a{.3^n}\\left( {3 - 1} \\right) = 2a{.3^n}\\)."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Cho dãy số \\(\\left( {{u_n}} \\right)\\) với \\({u_n} = 2n - 1\\) . Dãy số \\(\\left( {{u_n}} \\right)\\) là dãy số",
+      "options": [
+        "A. Bị chặn trên bởi 1.",
+        "B. Giảm.",
+        "C. Bị chặn dưới bởi 2.",
+        "D. Tăng."
+      ],
+      "answer": "D",
+      "note": "Chọn D \\(\\forall n \\in {\\mathbb{N}^*}\\) ta có: \\({u_{n + 1}} - {u_n} = 2\\left( {n + 1} \\right) - 1 - \\left( {2n - 1} \\right) = 2 > 0\\) nên \\({u_{n + 1}} > {u_n}\\) vậy dãy số \\(\\left( {{u_n}} \\right)\\) tăng."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho cấp số cộng \\[\\left( {{u_n}} \\right)\\] có \\[{u_1} = 3\\] và công sai \\[d = 7\\] . Hỏi kể từ số hạng thứ mấy trở đi thì các số hạng của \\(\\left( {{u_n}} \\right)\\) đều lớn hơn \\(2018\\) ?",
+      "options": [
+        "A. \\(287\\) .",
+        "B. \\(289\\) .",
+        "C. \\(288\\) .",
+        "D. \\(286\\) ."
+      ],
+      "answer": "B",
+      "note": "Chọn B Ta có: \\[{u_n} = {u_1} + \\left( {n - 1} \\right)d\\]\\[ = 3 + 7\\left( {n - 1} \\right)\\]\\[ = 7n - 4\\]; \\({u_n} > 2018\\)\\( \\Leftrightarrow 7n - 4 > 2018\\)\\( \\Leftrightarrow n > \\frac{{2022}}{7}\\) Vậy \\(n = 289\\)."
+    }
+  ]
+}

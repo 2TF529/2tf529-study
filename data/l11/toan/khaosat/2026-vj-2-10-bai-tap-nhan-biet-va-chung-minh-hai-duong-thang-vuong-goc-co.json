@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-10-bai-tap-nhan-biet-va-chung-minh-hai-duong-thang-vuong-goc-co",
+  "sourceId": "vietjack:2-10-bai-tap-nhan-biet-va-chung-minh-hai",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.10 Bài tập Nhận biết và chứng minh hai đường thẳng vuông góc (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho hai tam giác cân ABC và DBC có chung cạnh đáy BC nằm trong hai mặt phẳng khác nhau. Khẳng định nào sau đây là đúng nhất?",
+      "options": [
+        "A. AD vuông góc với BC;",
+        "B. AD song song với BC;",
+        "C. AD cắt BC tại một điểm;",
+        "D. Không có khẳng định nào đúng."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Gọi P là trung điểm của BC. Vì các tam giác ABC và DBC cân nên: AP vuông góc với BC DP vuông góc với BC Ta có: B C → . A D → = B C → P D → − P A → = B C → . P D → − B C → . P A → = 0 . Vậy BC vuông góc với AD"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hình chóp S.ABC có SA = SB = SC và A S B ^ = B S C ^ = C S A ^ . Khẳng định nào sau đây là đúng?",
+      "options": [
+        "A. SA vuông góc với AB;",
+        "B. SB vuông góc với SC;",
+        "C. SA vuông góc với BC;",
+        "D. SA vuông góc với AB."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có: S A → . B C → = S A → S C → − S B → = S A → . S C → − S A → . S B → = S A . S C . cos A S C ^ − S A . S B . cos A S B ^ = 0 Vậy SA vuông góc với BC."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho hình lập phương ABCD.A 1 B 1 C 1 D 1 . Chọn khẳng định đúng?",
+      "options": [
+        "A. Góc giữa AC và BD 1 bằng 90 ° ;",
+        "B. Góc giữa B 1 D 1 và AA 1 bằng 90 ° ;",
+        "C. Góc giữa AD và B 1 C bằng 90 ° ;",
+        "D. Góc giữa B 1 A 1 và A 1 C 1 bằng 90 ° ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có: A A 1 → . B 1 D 1 → = B B 1 → . B D → = B B 1 → . B A → + B C → (sử dụng các vectơ bằng nhau và tính chất hình bình hành) = B B 1 → . B A → + B B 1 → . B C → = 0 Vậy góc giữa AA 1 và B 1 D 1 bằng 90 ° ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Mệnh đề nào sau đây là đúng?",
+      "options": [
+        "A. Hai đường thẳng cùng vuông góc với một đường thẳng thì chúng song song với nhau;",
+        "B. Một đường thẳng vuông góc với một trong hai đường thẳng vuông góc với nhau thì song song với đường thẳng còn lại",
+        "C. Hai đường thẳng cùng vuông góc với một đường thẳng thì vuông góc với nhau;",
+        "D. Một đường thẳng vuông góc với một trong hai đường thẳng song song thì vuông góc với đường thẳng kia."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Theo lí thuyết ta có: Một đường thẳng vuông góc với một trong hai đường thẳng song song thì vuông góc với đường thẳng kia."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hai tam giác cân ABC và DBC có chung cạnh đáy BC nằm trong hai mặt phẳng khác nhau. Gọi M, N là các điểm lần lượt thuộc các đường thẳng AB và DB sao cho M A → = k M B → , N D → = k N B → . Hai đường thẳng MN và BC có quan hệ:",
+      "options": [
+        "A. vuông góc;",
+        "B. song song;",
+        "C. trùng nhau;",
+        "D. cắt nhau."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có M A → = k M B → , N D → = k N B → , suy ra M B M A = N B N D = − 1 k . Từ đó suy ra MN // AD (định lí Thalès đảo trong tam giác ABD). (1) Gọi I là trung điểm của BC, thì các tam giác ABC và DBC cân nên: AI vuông góc với BC DI vuông góc với BC Ta có: B C → . A D → = B C → I D → − I A → = B C → . I D → − B C → . I A → = 0 Do đó, BC vuông góc với AD. (2) Từ (1) và (2) suy ra BC và MN vuông góc với nhau."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho tứ diện ABCD có hai mặt ABC và ABD là các tam giác đều. Gọi M, N, P, Q lần lượt là trung điểm các cạnh AC, BC, BD, DA. Khẳng định nào sau đây là đúng nhất?",
+      "options": [
+        "A. MNPQ là hình vuông;",
+        "B. MNPQ là hình bình hành;",
+        "C. MNPQ là hình chữ nhật;",
+        "D. MNPQ là hình thoi."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Đặt AB = AD = AC = a. Ta có: C D → . A B → = A D → − A C → . A B → = A D → . A B → − A C → . A B → = A B . A D . cos 60 ° − A B . A C . cos 60 ° = a . a . 1 2 − a . a . 1 2 = 0 Do đó, AB vuông góc với CD. Dễ thấy MN, PQ lần lượt là đường trung bình của các tam giác ABC và ABD. Khi đó, MN // PQ // AB và MN = PQ = A B 2 = a 2 nên tứ giác MNPQ là hình bình hành Lại có: MN // AB NP // CD (do NP là đường trung bình của tam giác BCD) AB ⊥ CD Khi đó, MN ⊥ NP. Do đó, MNPQ là hình chữ nhật."
+    }
+  ]
+}

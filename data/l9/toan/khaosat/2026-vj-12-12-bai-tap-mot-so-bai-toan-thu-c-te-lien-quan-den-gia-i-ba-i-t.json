@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-12-12-bai-tap-mot-so-bai-toan-thu-c-te-lien-quan-den-gia-i-ba-i-t",
+  "sourceId": "vietjack:12-12-bai-tap-mot-so-bai-toan-thu-c-te-l",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "12.12 bài tập Một số bài toán thực tế liên quan đến giải bài toán bằng cách lập hệ phương trình có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Trong một phòng học có một số bàn, nếu xếp mỗi bàn 3 học sinh thì 6 học sinh không có chỗ ngồi, nếu xếp mỗi bàn 4 học sinh thì thừa 1 bàn. Hỏi lớp đó có bao nhiêu bàn và bao nhiêu học sinh?",
+      "options": [
+        "A. 10 bàn và 36 học sinh.",
+        "B. 15 bàn và 25 học sinh.",
+        "C. 10 bản và 30 học sinh.",
+        "D. 15 bàn và 35 học sinh."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Gọi số bàn trong phòng học là x (bàn), số học sinh của lớp là y (học sinh). Điều kiện x, y ∈ N*. Nếu xếp mỗi bàn 3 học sinh thì 6 học sinh không có chỗ, ta có phương trình: 3x + 6 = y hay 3x – y = −6(1) Nếu xếp mỗi bàn 4 học sinh thì thừa một bàn, ta có phương trình: (x – 1)4 = y hay 4x – y = 4 (2) Ta có hệ phương trình: \\(\\left\\{ \\begin{array}{l}3x - y = - 6\\\\4x - y = 4\\end{array} \\right.\\). Thay y = 4x – 4 vào (1) ta được 3x – 4x + 4 = −6 suy ra x = 10 (thỏa mãn). Với x = 10 thì y = 36 (thỏa mãn) Vậy số bàn trong phòng học là 10 bàn và số học sinh là 36."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Ban đầu, khán đài nhà thi đấu các nội dung thuộc môn Bơi chưa 1188 ghế được xếp thành các dãy, số lượng ghế ở các dãy bằng nhau. Để phục vụ nhu cầu khán giả, khán đài sau đó đã lắp thêm 2 dãy ghế và mỗi dãy được lắp thêm 4 ghế. Vì thế, khán đài được tăng thêm 254 ghế. Hãy tính số dãy ghế ban đầu của khán đài.",
+      "options": [
+        "A. 12 dãy.",
+        "B. 24 dãy.",
+        "C. 16 dãy",
+        "D. 14 dãy"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Gọi số dãy ghế ban đầu của khán đài là x, số ghế mỗi dãy là y (x, y ∈ ℕ*). Vì ban đầu, khán đài của nhà thì đấu chứa 1188 ghế nên ta có phương trình xy = 1188 (1) Lúc sau, có số dãy ghế là x + 2 (dãy) và có y + 4 (ghế). Vì lúc sau khán đài tăng thêm 254 ghế nên ta có phương trình (x + 2)(y + 4) = xy + 254 hay 4x + 2y = 246 (2). Từ (1) và (2) ta có hệ phương trình \\(\\left\\{ \\begin{array}{l}xy = 1188\\\\4x + 2y = 246\\end{array} \\right.\\) Thay y = 123 – 2x vào phương trình (1) ta được: x(123 – 2x) = 1188 hay 2x 2 – 123x + 1188 = 0 Giải phương trình, có ∆ = 123 2 – 4.2.1188 = 5615 > 0 nên phương trình có hai nghiệm phân biệt x 1 = \\(\\frac{{99}}{2}\\) (loại) và x 2 = 12 (thỏa mãn). Vậy số dãy ghế ban đầu của khán đài là 12 dãy."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Bạn A dự định mua 2 kg quả xoài và 2 kg quả vải hết 100 nghìn đồng. Thực tế, A mua 3 kg quả xoài và 1 kg quả vải hết 90 nghìn đồng. Tính giá tiền của 1 kg xoài và 1 kg vải.",
+      "options": [
+        "A. 1kg xoài giá 20 nghìn đồng, 1 kg vải giá 30 nghìn đồng.",
+        "B. 1kg xoài giá 30 nghìn đồng, 1 kg vải giá 20 nghìn đồng.",
+        "C. 1kg xoài giá 15 nghìn đồng, 1 kg vải giá 35 nghìn đồng.",
+        "D. 1kg xoài giá 35 nghìn đồng, 1 kg vải giá 15 nghìn đồng."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Gọi x, y lần lượt là giá tiền của 1 kg xoài và 1 kg vải (0 < x, y, nghìn đồng). Theo đề ta có 2 kg quả xoài và 2 kg quả vải hết 100 nghìn đồng nên 2x + 2y = 100 hay x + y = 50 (1). Thực tế, mua 3 kg quả xoài và 1 kg quả vải hết 90 nghìn đồng nên có 3x + y = 90 (2) Từ (1) và (2) ta có hệ phương trình \\(\\left\\{ \\begin{array}{l}x + y = 50\\\\3x + y = 90\\end{array} \\right.\\). Thay y = 50 – x vào (2) ta được 3x + 50 – x = 90 hay 2x = 40 suy ra x = 20 (thỏa mãn). Với x = 20 thì y = 30 (thỏa mãn). Vậy giá tiền 1 kg xoài là 20 nghìn đồng, giá tiền 1 kg vải là 30 nghìn đồng."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Lớp 9A giao cho An đi mua bánh kẹo tổ chức liên hoan. An mua tất cả 15 hộp bánh và 5 túi kẹo với số tiền phải trả là 850 nghìn đồng. Biết rằng giá mỗi hợp bánh là như nhau, giá mỗi túi kẹo là như nhau và giá mỗi hộp bánh hơn túi keoh là 10 nghìn đồng. Tính giá tiền để mua một hộp bánh.",
+      "options": [
+        "A. 45 nghìn đồng.",
+        "B. 35 nghìn đồng.",
+        "C. 50 nghìn đồng.",
+        "D. 55 nghìn đồng."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Gọi x, y (nghìn đồng) lần lượt là giá tiền của một hộp bánh và một túi kẹo (0 < x, y). An mua 15 hộp bánh và 5 túi kẹo nên số tiền phải trả là 850 nghìn đồng nên ta có phương trình: 15x + 5y = 850 (1). Vì giá một hộp bánh hơn giá một túi kẹo 10 nghìn đồng nên ta có phương trình x – y = 10 (2) Từ (1) và (2) ta có hệ phương trình: \\(\\left\\{ \\begin{array}{l}15x + 5y = 850\\\\x - y = 10\\end{array} \\right.\\). Thay x = y + 10 vào (2) ta được 15.(y + 10) + 5y = 850 suy ra y = 35 (thỏa mãn). Với y = 35 thì x = 45 (thỏa mãn). Vậy số tiền phải trả cho một hộp bánh là 45 nghìn đồng, giá tiền cho một túi kẹo là 35 nghìn đồng."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Một đoàn khách đi du lịch gồm 40 người dự định tham quan núi Bà Đen bằng cáp treo. Nhưng khi tới nơi 5 bạn trẻ muốn khám phá bằng đường bộ nên lúc xuống sẽ đi cáp treo để trải nghiệm nên 5 bạn chỉ mua vé lượt xuống, do đó đoàn đã chi ra 9 450 000 đồng để mua vé. Hỏi giá cáp treo khứ hồi và giá vé 1 lượt là bao nhiêu? Biết rằng giá vé 1 lượt rẻ hơn vé khứ hồi 110 000 đồng.",
+      "options": [
+        "A. 140 000 đồng.",
+        "B. 250 000 đồng.",
+        "C. 120 000 đồng.",
+        "D. 200 000 đồng."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Gọi x, y (đồng) lần lượt là giá vé cáp treo khứ hồi và giá vé cáp treo 1 lượt (0 < y < x và x > 110 000).</> Vì giá vé cáp treo 1 lượt rẻ hơn vé khứ hồi 110 000 nên ta có phương trình: x – y = 110 000 (1) Có 35 người mua vé khứ hồi và 5 người mua vé 1 lượt nên ta có phương trình: 35x + 5y = 9 450 000 (2) Từ (1) và (2) ta có hệ phương trình \\(\\left\\{ \\begin{array}{l}x - y = 110000\\\\35x + 5y = 9450000\\end{array} \\right.\\). Thay x = y + 110 000 vào (2) ta được: 35. (y + 110 000) + 5y = 9 450 000 suy ra y = 140 000 (thỏa mãn). Với y = 140 000 thì x = 250 000 (thỏa mãn). Vậy giá vé cáp treo khứ hồi là 250 000 đồng và giá vé cáp treo 1 lượt là 140 000 đồng."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Hai giá sách có 450 cuốn. Nếu chuyển 50 cuốn từ giá thứ nhất sang giá thứ hai thì sẽ bằng \\(\\frac{4}{5}\\) số sách ở giá thứ nhất. Hỏi số sách ở giá thứ hai bằng bao nhiêu?",
+      "options": [
+        "A. 300 quyển.",
+        "B. 150 quyển.",
+        "C. 250 quyển.",
+        "D. 350 quyển."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Gọi số sách ở giá thứ nhất là x ( cuốn). Số sách ở giá thứ hai là y (cuốn), (x, y ∈ N*; x > 50, x < 450, y < 450) Hai giá sách có tất cả 450 cuốn nên x + y = 450 (1) Khi chuyển 50 cuốn từ giá thứ nhất sang giá thứ hai thì số sách ở giá thứ nhất khi đó là x − 50 và số sách ở giá thứ hai là y + 50 Theo đầu bài ta có: y + 50 = \\(\\frac{4}{5}\\)(x – 50) hay 4x – 5y = 450 (2) Từ (1) và (2) ta có hệ phương trình \\(\\left\\{ \\begin{array}{l}x + y = 450\\\\4x - 5y = 450\\end{array} \\right.\\) Thay x = 450 – y vào (2) ta được 4(450 – y) – 5y = 450 suy ra y = 150 (thỏa mãn). Thay y = 150 vào (1) suy ra x = 300 (thỏa mãn). Vậy số sách ở giá thứ nhất là 300 quyển, giá thứ hai là 150 quyển."
+    }
+  ]
+}

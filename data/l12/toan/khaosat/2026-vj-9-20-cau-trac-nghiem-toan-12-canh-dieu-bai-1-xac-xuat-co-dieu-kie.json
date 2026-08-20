@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-9-20-cau-trac-nghiem-toan-12-canh-dieu-bai-1-xac-xuat-co-dieu-kie",
+  "sourceId": "vietjack:9-20-cau-trac-nghiem-toan-12-canh-dieu-b",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "9.20 câu trắc nghiệm Toán 12 Cánh diều Bài 1. Xác xuất có điều kiện (Đúng sai - Trả lời ngắn) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: TRẮC NGHIỆM NHIỀU LỰA CHỌN Cho hai biến cố A và B. Xác suất của A với điều kiện B, được kí hiệu là",
+      "options": [
+        "A. \\(P\\left( {A|B} \\right)\\).",
+        "B. \\(P\\left( {B|A} \\right)\\).",
+        "C. \\(P\\left( {AB} \\right)\\).",
+        "D. \\(P\\left( {A|\\overline B } \\right)\\)."
+      ],
+      "answer": "A",
+      "note": "Xác suất của A với điều kiện B, được kí hiệu là \\(P\\left( {A|B} \\right)\\)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hai biến cố A và B. Khẳng định nào sai?",
+      "options": [
+        "A. \\(P\\left( {A|B} \\right) = \\frac{{P\\left( {AB} \\right)}}{{P\\left( B \\right)}}\\).",
+        "B. \\(P\\left( {AB} \\right) = P\\left( {A|B} \\right)P\\left( B \\right)\\).",
+        "C. \\(P\\left( {A|\\overline B } \\right) = 1 - P\\left( {A|B} \\right)\\).",
+        "D. \\(P\\left( {A|\\overline B } \\right) = P\\left( A \\right)\\) nếu A, B độc lập."
+      ],
+      "answer": "C",
+      "note": "\\(P\\left( {A|\\overline B } \\right) = 1 - P\\left( {\\overline A |\\overline B } \\right)\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho hai biến cố A và B có \\(P\\left( A \\right) = 0,8;P\\left( B \\right) = 0,5;P\\left( {AB} \\right) = 0,2\\). Giá trị của \\(P\\left( {A|B} \\right)\\) bằng",
+      "options": [
+        "A. 0,4.",
+        "B. 0,5.",
+        "C. 0,25.",
+        "D. 0,625."
+      ],
+      "answer": "A",
+      "note": "\\(P\\left( {A|B} \\right) = \\frac{{P\\left( {AB} \\right)}}{{P\\left( B \\right)}} = \\frac{{0,2}}{{0,5}} = 0,4\\)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho biến cố A, B biết \\(P\\left( A \\right) = 0,6;P\\left( B \\right) = 0,7;P\\left( {AB} \\right) = 0,3\\). Tính \\(P\\left( {\\overline A |B} \\right)\\).",
+      "options": [
+        "A. \\(\\frac{4}{7}\\).",
+        "B. \\(\\frac{1}{2}\\).",
+        "C. \\(\\frac{2}{5}\\).",
+        "D. \\(\\frac{1}{7}\\)."
+      ],
+      "answer": "A",
+      "note": "\\(P\\left( {\\overline A |B} \\right) = \\frac{{P\\left( {\\overline A B} \\right)}}{{P\\left( B \\right)}} = \\frac{{P\\left( B \\right) - P\\left( {AB} \\right)}}{{P\\left( B \\right)}} = \\frac{{0,7 - 0,3}}{{0,7}} = \\frac{4}{7}\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hai biến cố A và B có \\(P\\left( A \\right) = 0,3;P\\left( B \\right) = 0,7;P\\left( {A|B} \\right) = 0,5\\). Tính \\(P\\left( {\\overline A B} \\right)\\).",
+      "options": [
+        "A. \\(0,35\\).",
+        "B. \\(0,3\\).",
+        "C. \\(0,65\\).",
+        "D. \\(0,55\\)."
+      ],
+      "answer": "A",
+      "note": "\\(P\\left( {\\overline A B} \\right) = P\\left( B \\right).P\\left( {\\overline A |B} \\right) = P\\left( B \\right)\\left[ {1 - P\\left( {A|B} \\right)} \\right] = 0,7.\\left( {1 - 0,5} \\right) = 0,35\\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong một kì thi, có 60% học sinh đã làm đúng bài toán đầu tiên và 40% học sinh đã làm đúng bài toán thứ hai. Biết rằng có 20% học sinh làm đúng cả hai bài toán. Xác suất để một học sinh làm đúng bài toán thứ hai biết rằng học sinh đó đã làm đúng bài toán đầu tiên là bao nhiêu?",
+      "options": [
+        "A. \\(0,5\\).",
+        "B. \\(0,333\\).",
+        "C. \\(0,2\\).",
+        "D. \\(0,667\\)."
+      ],
+      "answer": "B",
+      "note": "Gọi A là biến cố “Học sinh đó làm đúng bài toán đầu tiên”; B là biến cố “Học sinh đó làm đúng bài toán thứ hai”. Suy ra \\(P\\left( {B|A} \\right) = \\frac{{P\\left( {AB} \\right)}}{{P\\left( A \\right)}} = \\frac{{0,2}}{{0,6}} \\approx 0,333\\)."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Một lô sản phẩm có 30 sản phẩm, trong đó có 4 sản phẩm chất lượng thấp. Lấy liên tiếp hai sản phẩm trong lô sản phẩm trên, trong đó sản phẩm lấy ra ở lần thứ nhất không được bỏ lại vào lô sản phẩm. Tính xác suất để cả hai sản phẩm được lấy ra đều có chất lượng thấp.",
+      "options": [
+        "A. \\(\\frac{3}{{29}}\\).",
+        "B. \\(\\frac{1}{{10}}\\).",
+        "C. \\(\\frac{4}{{30}}\\).",
+        "D. \\(\\frac{2}{{145}}\\)."
+      ],
+      "answer": "D",
+      "note": "Gọi A là biến cố “Sản phẩm lấy ra lần thứ nhất là sản phẩm chất lượng thấp”. B là biến cố “Sản phẩm lấy ra lần thứ hai là sản phẩm chất lượng thấp”. Ta có \\(P\\left( {AB} \\right) = P\\left( A \\right).P\\left( {B|A} \\right) = \\frac{4}{{30}}.\\frac{3}{{29}} = \\frac{2}{{145}}\\) ."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Danh sách một lớp cao học có 95 học viên gồm 40 nam và 55 nữ. Có 23 học viên gồm quốc tịch nước ngoài (trong đó có 12 nam và 11 nữ), số học viên còn lại có quốc tịch Việt Nam. Gọi tên ngẫu nhiên một học viên trong danh sách lớp đó lên bảng. Tính xác suất học viên gọi tên có quốc tịch nước ngoài, biết rằng học viên đó là nữ?",
+      "options": [
+        "A. \\(\\frac{1}{5}\\).",
+        "B. \\(\\frac{{11}}{{23}}\\).",
+        "C. \\(\\frac{{12}}{{23}}\\).",
+        "D. \\(\\frac{{11}}{{19}}\\)."
+      ],
+      "answer": "A",
+      "note": "Gọi A là biến cố “Học viên được gọi là nữ”. B là biến cố “Học viên được gọi có quốc tịch nước ngoài”. Có \\[P\\left( {B|A} \\right) = \\frac{{P\\left( {AB} \\right)}}{{P\\left( A \\right)}} = \\frac{{11}}{{95}}:\\frac{{55}}{{95}} = \\frac{1}{5}\\]."
+    }
+  ]
+}

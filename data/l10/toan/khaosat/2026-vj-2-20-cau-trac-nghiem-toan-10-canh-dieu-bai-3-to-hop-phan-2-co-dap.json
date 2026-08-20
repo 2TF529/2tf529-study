@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-20-cau-trac-nghiem-toan-10-canh-dieu-bai-3-to-hop-phan-2-co-dap",
+  "sourceId": "vietjack:2-20-cau-trac-nghiem-toan-10-canh-dieu-b",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.20 câu Trắc nghiệm Toán 10 Cánh diều Bài 3. Tổ hợp (Phần 2) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Tổ hợp chập k của n phần tử với 1 ≤ k ≤ n là:",
+      "options": [
+        "A. \\(C_n^k\\);",
+        "B. \\(C_k^n\\);",
+        "C. \\(A_n^k\\);",
+        "D. \\(A_k^n\\)."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A Tổ hợp chập k của n phần tử với 1 ≤ k ≤ n là \\(C_n^k\\)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Công thức nào dưới đây sai với n ∈ ℕ, n > 2, k ∈ ℕ, 0 ≤ k ≤ n.",
+      "options": [
+        "A. n! = n.(n – 1).(n – 2)…2.1;",
+        "B. \\(A_n^k = \\frac{{n!}}{{\\left( {n - k} \\right)!}}\\);",
+        "C. \\(C_n^k = \\frac{{n!}}{{k!.\\left( {n - k} \\right)!}}\\);",
+        "D. \\(C_n^k = \\frac{{n!}}{{k!.}}\\)."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải Đáp án đúng là: D A; B; C là các công thức đúng D sai vì \\(C_n^k = \\frac{{n!}}{{k!.\\left( {n - k} \\right)!}}\\) ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Kết quả của phép tính \\(C_6^2 - C_6^3\\) là",
+      "options": [
+        "A. 5;",
+        "B. – 5;",
+        "C. 6;",
+        "D. – 6."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải Đáp án đúng là: B Ta có: \\(C_6^2 - C_6^3 = \\frac{{6!}}{{2!\\left( {6 - 2} \\right)!}} - \\frac{{6!}}{{3!\\left( {6 - 3} \\right)!}}\\) \\( = \\frac{{6.5.4!}}{{2!.4!}} - \\frac{{6.5.4.3!}}{{3!.3!}}\\)\\( = \\frac{{6.5}}{2} - \\frac{{6.5.4}}{6} = - 5\\) ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho tập A gồm 5 phần tử. Số tập con có 3 phần tử của A là:",
+      "options": [
+        "A. 5;",
+        "B. 10;",
+        "C. 15;",
+        "D. 20."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải Đáp án đúng là: B Mỗi tập con có 3 phần tử của tập A là một tổ hợp chập 3 của 5. Do đó, có số tập con là: \\(C_5^3 = 10\\) tập con."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Một hộp có 5 bi đỏ và 4 bi vàng. Số cách lấy ra hai viên bi từ hộp là:",
+      "options": [
+        "A. 18 cách;",
+        "B. 72 cách;",
+        "C. 54 cách;",
+        "D. 36 cách."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải Đáp án đúng là: D Tổng số bi trong hộp là: 5 + 4 = 9 viên Mỗi cách chọn ra 2 viên bi trong 9 viên bi là một tổ hợp chập 2 của 9. Do đó, có số cách chọn 2 viên bi trong 9 viên bi là \\(C_9^2 = 36\\) cách."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho 8 điểm phân biệt nằm trong mặt phẳng. Hỏi có bao nhiêu đoạn thẳng có hai đầu mút là hai trong 8 điểm đó.",
+      "options": [
+        "A. 28;",
+        "B. 30;",
+        "C. 56;",
+        "D. 58."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A Các đoạn thẳng được lập không phân biệt điểm đầu và điểm cuối (ví dụ đoạn thẳng AB và đoạn thẳng BA là giống nhau). Vậy cứ hai điểm phân biệt sẽ cho ta một đoạn thẳng. Số đoạn thẳng có hai đầu mút là hai trong tám điểm nói trên là \\(C_8^2 = 28\\) đoạn thẳng."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-2-de-cuong-on-tap-cuoi-ki-2-toan-12-chan-troi-sang-tao-cau-truc-m",
+  "sourceId": "vietjack:2-de-cuong-on-tap-cuoi-ki-2-toan-12-chan",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "cuoiki2",
+  "year": 2026,
+  "title": "2.Đề cương ôn tập cuối kì 2 Toán 12 Chân trời sáng tạo cấu trúc mới (có tự luận) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho hàm số \\(f(x) = {x^2} + 4\\). Mệnh đề nào sau đây đúng?",
+      "options": [
+        "A. \\(\\int f (x)dx = 2x + C\\).",
+        "B. \\(\\int f (x)dx = {x^2} + 4x + C\\).",
+        "C. \\(\\int f (x)dx = \\frac{{{x^3}}}{3} + 4x + C\\).",
+        "D. \\(\\int f (x)dx = {x^3} + 4x + C\\)."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là : C Ta có: \\(f(x) = {x^2} + 4 \\Rightarrow \\int f (x)dx = \\frac{{{x^3}}}{3} + 4x + C\\) ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Họ các nguyên hàm của hàm số \\(f\\left( x \\right) = {x^2} - 3x + \\frac{1}{x}\\) là:",
+      "options": [
+        "A. \\(F\\left( x \\right) = \\frac{{{x^3}}}{3} - \\frac{3}{2}{x^2} + \\ln \\left| x \\right| + C\\).",
+        "B. \\(F\\left( x \\right) = \\frac{{{x^3}}}{3} - \\frac{3}{2}{x^2} + \\ln x + C\\).",
+        "C. \\(F\\left( x \\right) = \\frac{{{x^3}}}{3} + \\frac{3}{2}{x^2} + \\ln x + C\\).",
+        "D. \\(F\\left( x \\right) = 2x - 3 - \\frac{1}{{{x^2}}} + C\\)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là : A Ta có \\(\\int {f\\left( x \\right)} dx = \\int {\\left( {{x^2} - 3x + \\frac{1}{x}} \\right)dx} = \\frac{{{x^3}}}{3} - \\frac{{3{x^2}}}{2} + \\ln \\left| x \\right| + C\\) ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Hàm số \\(F\\left( x \\right)\\) nào dưới đây là một nguyên hàm của hàm số \\(f\\left( x \\right) = \\frac{4}{{{{\\cos }^2}x}}\\).",
+      "options": [
+        "A. \\(F\\left( x \\right) = \\frac{{4x}}{{{{\\sin }^2}x}}\\).",
+        "B. \\(F\\left( x \\right) = 4\\tan x\\).",
+        "C. \\(F\\left( x \\right) = 4x + \\frac{4}{3}{\\tan ^3}x\\).",
+        "D. \\(F\\left( x \\right) = 4 + \\tan x\\)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là : B Ta có \\(\\int {\\frac{4}{{{{\\cos }^2}x}}dx} = 4\\int {\\frac{1}{{{{\\cos }^2}x}}dx = 4\\tan x + C} \\) ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Mệnh đề nào sau đây là sai ?",
+      "options": [
+        "A. \\(\\int {{x^\\alpha }dx} = \\alpha {x^{\\alpha - 1}} + C\\).",
+        "B. \\(\\int {dx} = x + C\\).",
+        "C. \\(\\int {0dx} = C\\).",
+        "D. \\(\\int {\\frac{1}{x}dx} = \\ln \\left| x \\right| + C\\)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là : A \\(\\int {{x^\\alpha }dx} = \\frac{{{x^{\\alpha + 1}}}}{{\\alpha + 1}} + C\\) ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Trên khoảng \\(\\left( {0; + \\infty } \\right)\\), cho hàm số \\(f\\left( x \\right) = {x^{\\frac{3}{2}}}\\) . Mệnh đề nào sau đây đúng?",
+      "options": [
+        "A. \\(\\int {f\\left( x \\right)} dx = \\frac{3}{2}{x^{\\frac{1}{2}}} + C\\).",
+        "B. \\(\\int {f\\left( x \\right)} dx = \\int {\\sqrt {{x^3}} } dx\\).",
+        "C. \\(\\int {f\\left( x \\right)} dx = \\frac{2}{5}{x^{\\frac{5}{2}}} + C\\).",
+        "D. \\(\\int {f\\left( x \\right)} dx = \\frac{2}{3}{x^{\\frac{1}{2}}} + C\\)."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là : C Ta có: \\(\\int {f\\left( x \\right)} dx = \\int {{x^{\\frac{3}{2}}}} dx = \\frac{2}{5}{x^{\\frac{5}{2}}} + C\\) ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Tìm nguyên hàm \\(F\\left( x \\right)\\) của hàm số \\(f\\left( x \\right) = {\\cos ^2}\\frac{x}{2}\\)",
+      "options": [
+        "A. \\(F\\left( x \\right) = 2\\cos \\frac{x}{2} + C\\).",
+        "B. \\(F\\left( x \\right) = \\frac{1}{2}\\left( {x + \\sin x} \\right) + C\\).",
+        "C. \\(F\\left( x \\right) = 2\\sin \\frac{x}{2} + C\\).",
+        "D. \\(F\\left( x \\right) = \\frac{1}{2}\\left( {x - \\sin x} \\right) + C\\)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là : B Ta có: \\(f\\left( x \\right) = {\\cos ^2}\\frac{x}{2} \\Rightarrow F\\left( x \\right) = \\int {{{\\cos }^2}\\frac{x}{2}dx} = \\int {\\frac{{1 + \\cos x}}{2}dx} = \\frac{1}{2}\\int {\\left( {1 + \\cos x} \\right)dx} = \\frac{1}{2}\\left( {x + \\sin x} \\right) + C\\) ."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Nguyên hàm của hàm số \\[y = {2^x}\\] là",
+      "options": [
+        "A. \\(\\int {{2^x}{\\rm{d}}x = \\ln {{2.2}^x} + C} \\).",
+        "B. \\(\\int {{2^x}{\\rm{d}}x = {2^x} + C} \\).",
+        "C. \\(\\int {{2^x}{\\rm{d}}x = \\frac{{{2^x}}}{{\\ln 2}} + C} \\).",
+        "D. \\(\\int {{2^x}{\\rm{d}}x = \\frac{{{2^x}}}{{x + 1}} + C} \\)."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là : C Do theo bảng nguyên hàm: \\(\\int {{2^x}{\\rm{d}}x = \\frac{{{2^x}}}{{\\ln \\,2}} + C} \\) ."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Tìm họ nguyên hàm của hàm số \\(y = {x^2} - {3^x} + \\frac{1}{x}\\).",
+      "options": [
+        "A. \\(\\frac{{{x^3}}}{3} - \\frac{{{3^x}}}{{\\ln 3}} - \\frac{1}{{{x^2}}} + C,{\\rm{ }}C \\in \\mathbb{R}\\).",
+        "B. \\[\\frac{{{x^3}}}{3} - {3^x} + \\frac{1}{{{x^2}}} + C,{\\rm{ }}C \\in \\mathbb{R}\\].",
+        "C. \\(\\frac{{{x^3}}}{3} - \\frac{{{3^x}}}{{\\ln 3}} + \\ln \\left| x \\right| + C,{\\rm{ }}C \\in \\mathbb{R}\\).",
+        "D. \\(\\frac{{{x^3}}}{3} - \\frac{{{3^x}}}{{\\ln 3}} - \\ln \\left| x \\right| + C,{\\rm{ }}C \\in \\mathbb{R}\\)."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là : C Ta có: \\(\\int {\\left( {{x^2} - {3^x} + \\frac{1}{x}} \\right)} {\\rm{d}}x = \\frac{{{x^3}}}{3} - \\frac{{{3^x}}}{{\\ln 3}} + \\ln \\left| x \\right| + C,C \\in \\mathbb{R}\\) ."
+    }
+  ]
+}

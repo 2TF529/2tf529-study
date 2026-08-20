@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-10-bai-tap-xac-dinh-giao-tuyen-cua-hai-mat-phang-co-loi-giai",
+  "sourceId": "vietjack:2-10-bai-tap-xac-dinh-giao-tuyen-cua-hai",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.10 Bài tập Xác định giao tuyến của hai mặt phẳng (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Giao tuyến của hai mặt phẳng (SBC) và (SCD) là",
+      "options": [
+        "A. AB;",
+        "B. BC",
+        "C. CD;",
+        "D. SC."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Dễ thấy S C ∈ S B C và S C ∈ S C D . Vậy S C = S B C ∩ S C D ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Giao tuyến của hai mặt phẳng (SBC) và (ACD) là",
+      "options": [
+        "A. AB;",
+        "B. BC;",
+        "C. CD;",
+        "D. SC."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta thấy (ACD) chính là (ACB) do 4 điểm ABCD cùng nằm trên một mặt phẳng. Do đó giao tuyến của hai mặt phẳng (SBC) và (ACD) cũng chính là giao tuyến của hai mặt phẳng (SBC) và ( ACB ). Dễ thấy B C ∈ S B C và B C ∈ A C B . Do đó B C = S B C ∩ A C B hay B C = S B C ∩ A C D ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Giao tuyến của hai mặt phẳng (SAC) và (SBD) là",
+      "options": [
+        "A. SB;",
+        "B. SC;",
+        "C. SD;",
+        "D. SO."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Giao tuyến của hai mặt phẳng (SAD) và (SBC) là",
+      "options": [
+        "A. SI;",
+        "B. SO;",
+        "C. SC;",
+        "D. SD."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho tứ giác ABCD, trong đó các cạnh đối của tứ giác không song song với nhau. Lấy một điểm S không thuộc (ABCD). Cho A B ∩ C D = E , A D ∩ B C = F , A C ∩ B D = O Giao tuyến của hai mặt phẳng (SAB) và (SBC) là",
+      "options": [
+        "A. SA;",
+        "B. SB;",
+        "C. SC;",
+        "D. SD."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Dễ thấy S B ∈ S A B và S B ∈ S B C . Vậy S B = S A B ∩ S B C ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho tứ giác ABCD, trong đó các cạnh đối của tứ giác không song song với nhau. Lấy một điểm S không thuộc (ABCD). Cho A B ∩ C D = E , A D ∩ B C = F , A C ∩ B D = O Giao tuyến của hai mặt phẳng (SAB) và (BCD) là",
+      "options": [
+        "A. AB;",
+        "B. BC;",
+        "C. CD;",
+        "D. DA."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta thấy (BCD) chính là (ABD) do 4 điểm ABCD cùng nằm trên một mặt phẳng. Do đó giao tuyến của hai mặt phẳng (SAB) và (ABD) cũng chính là giao tuyến của hai mặt phẳng (SAB) và ( ABD ). Dễ thấy A B ∈ S A B và A B ∈ A B D . Do đó A B = S A B ∩ A C B hay A B = S A B ∩ B C D ."
+    }
+  ]
+}

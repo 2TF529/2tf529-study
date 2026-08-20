@@ -1,0 +1,495 @@
+{
+  "id": "l11-toan-khaosat-2025-toan11-ctst-bien-co-giao-va-quy-tac-nhan-xac-suat",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2025,
+  "code": "CTST: Biến cố giao và quy tắc nhân xác suất",
+  "title": "TOAN11 - CTST: Biến cố giao và quy tắc nhân xác suất",
+  "duration": 40,
+  "answerSource": "official",
+  "sourceId": "hochanh:4133",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Cho hai biến cố A và B. Biến cố hợp của A và B là biến cố",
+      "options": [
+        "A. “A và B xảy ra”;",
+        "B. “A hoặc B xảy ra”;",
+        "C. “A xảy ra”;",
+        "D. “B xảy ra hoặc cả A và B xảy ra” ."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Cho hai biến cố A và B. Biến cố giao của A và B là biến cố:",
+      "options": [
+        "A. “Cả A và B đều xảy ra”;",
+        "B. “A hoặc B xảy ra”;",
+        "C. “A xảy ra”;",
+        "D. “B xảy ra hoặc cả A và B đều xảy ra” ."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Trong hộp kín có 10 quả bóng màu xanh và 8 quả bóng màu đỏ, các quả bóng có kích thước và khối lượng giống nhau. Lấy ngẫu nhiên đồng thời 2 quả bóng. Xét các biến cố:\nA: “Hai quả bóng lấy ra có màu xanh”;\nB: “Hai quả bóng lấy ra có màu đỏ”.\nChọn phát biểu sai trong những phát biểu sau đây:",
+      "options": [
+        "A. Biến cố hợp của hai biến cố A và B là: “Hai quả bóng lấy ra cùng có màu đỏ hoặc màu xanh”;",
+        "B. Biến cố hợp của hai biến cố A và B là: “Hai quả bóng lấy ra có màu khác nhau”;",
+        "C. Biến cố hợp của hai biến cố A và B là: “Hai quả bóng lấy ra có cùng màu”;",
+        "D. Biến cố giao của hai biến cố A và B là Ø."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Một hộp có 52 chiếc thẻ cùng loại, mỗi thẻ được ghi một trong các số; hai thẻ khác nhau thì ghi hai số khác nhau. Rút ngẫu nhiên 1 chiếc thẻ trong hộp. Xét biến cố A: \"Số xuất hiện trên thẻ được rút ra là số chia hết cho 3\" và biến cố B: \"Số xuất hiện trên thẻ được rút ra là số chia hết cho 4\". Biến cố giao của hai biến cố A và B được phát biểu là:",
+      "options": [
+        "A. “Số xuất hiện trên thẻ là số vừa chia hết cho 3 vừa chia hết cho 4”;",
+        "B. “Số xuất hiện trên thẻ là số chia hết cho 3 hoặc chia hết cho 4”;",
+        "C. “Số xuất hiện trên thẻ là số chia hết cho 12”;",
+        "D. Cả A và C đều đúng ."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Một hộp có 52 chiếc thẻ cùng loại, mỗi thẻ được ghi một trong các số; hai thẻ khác nhau thì ghi hai số khác nhau. Rút ngẫu nhiên 1 chiếc thẻ trong hộp. Xét biến cố A: “Số xuất hiện trên thẻ là số lẻ\" và biến cố B: \"Số xuất hiện trên thẻ là số nguyên tố\". Biến cố giao của A và B được phát biểu là",
+      "options": [
+        "A. “Số xuất hiện trên thẻ là số lẻ hoặc số nguyên tố”;",
+        "B. “Số xuất hiện trên thẻ là số nguyên tố lẻ”;",
+        "C. “Số xuất hiện trên thẻ là các số nguyên tố khác số 2”;",
+        "D. Cả B và C đều đúng ."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Xét phép thử gieo ngẫu nhiên một con xúc xắc đồng chất sáu mặt. Gọi A là biến cố: \"Số chấm thu được là số chẵn\", B là biến cố: \"Số chấm thu được là số không chia hết cho 4\". Mô tả biến cố A giao B ta được tập hợp",
+      "options": [
+        "A. {2; 6};",
+        "B. {2; 4; 6};",
+        "C. {1; 2; 3; 5; 6};",
+        "D. {1; 2; 3}."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Hai xạ thủ bắn cung vào bia. Gọi X 1 và X 2 lần lượt là các biến cố \"Xạ thủ thứ nhất bắn trúng bia\" và \"Xạ thủ thứ hai bắn trúng bia\". Cho biến cố B: \"Có đúng một trong hai xạ thủ bắn trúng bia\". Biểu diễn biến cố B theo hai biến cố X 1 và X 2 ta được",
+      "options": [
+        "A. B = X 1 \\cup X 2 ;",
+        "B. B = X 1 ̄ X 2 \\cap X 1 X 2 ̄ ;",
+        "C. B = X 1 ̄ X 2 \\cup X 1 X 2 ̄ ;",
+        "D. B = X 1 X 2 ̄ \\cup X 1 X 2 ̄ ."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Ba người cùng bắn vào một bia. Gọi các biến cố A 1 : “Người thứ nhất bắn trúng bia”, A 2 : “Người thứ hai bắn trúng bia” và A 3 : “Người thứ ba bắn trúng bia”. Biến cố “có đúng 1 người bắn trùng bia” là",
+      "options": [
+        "A. . A 1 A 2 A 3 ;",
+        "B. A 1 È A 2 È A 3",
+        "C. A 1 A 2 A 3 ̄ \\cup A 1 ̄ A 2 A 3 ̄ \\cup A 1 A 2 ̄ A 3",
+        "D. A 1 \\cup A 2 ̄ \\cup A 3 ̄ A 1 ̄ \\cup A 2 \\cup A 3 ̄ A 1 ̄ \\cup A 2 ̄ \\cup A 3"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "content": "Hộp thứ nhất đựng 4 bi xanh được đánh số lần lượt từ 1 đến 4. Hộp thứ hai đựng 3 bi đỏ được đánh số lần lượt từ 1 đến 3. Lấy ra ngẫu nhiên từ mỗi hộp một viên bi. Gọi A là biến cố \"Tổng các số ghi trên hai viên bi là 5\". B là biến cố \"Tích các số ghi trên hai viên bi là số chẵn\". Tập hợp mô tả biến cố AB là",
+      "options": [
+        "A. AB = {(1; 2); (2; 1); (2; 2); (2; 3); (3; 2)};",
+        "B. AB = {(1; 2); (2; 1); (2; 2); (2; 3); (3; 2); (4; 1); (4; 2); (4; 3)};",
+        "C. AB = {(2; 3); (3; 2); (4; 1)};",
+        "D. AB = {(2; 3); (3; 2); (4; 1); (4; 2)}."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "content": "Hai xạ thủ bắn cung vào bia. Gọi X 1 và X 2 lần lượt là các biến cố \"Xạ thủ thứ nhất bắn trúng bia\" và \"Xạ thủ thứ hai bắn trúng bia\". Cho biến cố A: \"Có ít nhất một xạ thủ bắn trúng bia\". Biểu diễn biến cố A theo hai biến cố X 1 và X 2 là",
+      "options": [
+        "A. A = X 1 X 2 ̄ \\cup X 1 ̄ X 2 \\cup X 1 X 2 ;",
+        "B. A = X 1 Ç X 2 ;",
+        "C. A = X 1 X 2 ̄ \\cup X 1 ̄ X 2 ;",
+        "D. A = X 1 X 2 ."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 11,
+      "type": "single",
+      "content": "Cho hai biến cố A và B độc lập với nhau. Phát biểu nào sau đây là đúng?",
+      "options": [
+        "A. Hai biến cố có cùng tập kết quả;",
+        "B. Việc xảy ra hay không xảy ra của biến cố này không ảnh hưởng tới xác suất xảy ra của biến cố kia ;",
+        "C. Biến cố này xảy ra thì biến cố kia không xảy ra;",
+        "D. A \\cap B = Ø ."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 12,
+      "type": "single",
+      "content": "Xét phép thử gieo ngẫu nhiên một con xúc xắc đồng chất sáu mặt hai lần. Gọi A là biến cố: \"Số chấm thu được ở lần giao thứ nhất là số nhỏ hơn 3\", B là biến cố: \"Số chấm thu được ở lần gieo thứ hai là số lớn hơn hoặc bằng 4\" và C là biến cố: \"Số chấm thu được ở hai lần gieo là số lẻ”. Có bao nhiêu cặp biến cố độc lập?",
+      "options": [
+        "A. 0;",
+        "B. 1;",
+        "C. 2;",
+        "D. 3."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 13,
+      "type": "single",
+      "content": "Rút hộp đựng 9 thẻ được đánh số từ 1, 2, 3, . . . , 9. An rút ngẫu nhiên 1 thẻ rồi trả lại hộp. Sau đó Bình rút 1 thẻ từ hộp đó. Biến cố A: “An rút được thẻ số chẵn” và biến cố B: “Bình rút được thẻ số lẻ” là hai biến cố:",
+      "options": [
+        "A. Xung khắc;",
+        "B. Độc lập;",
+        "C. Đối;",
+        "D. Không độc lập."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 14,
+      "type": "single",
+      "content": "Gieo đồng tiền hai lần. Biến cố A “Lần gieo thứ nhất mặt ngửa xuất hiện”. Trong các biến cố dưới đây, biến cố nào độc lập với biến cố A?",
+      "options": [
+        "A. Lần gieo thứ hai mặt ngửa xuất hiện;",
+        "B. Mặt ngửa xuất hiện đúng 1 lần ;",
+        "C. Lần gieo thứ nhất mặt sấp xuất hiện ;",
+        "D. Cả hai lần gieo đều xuất hiện mặt ngửa."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 15,
+      "type": "single",
+      "content": "Hộp I chứa bốn cái thẻ được đánh số 1, 2, 3, 4. Hộp II chứa bốn cái thẻ được đánh số 5, 6, 7, 8. Mỗi hộp rút ngẫu nhiên một thẻ. Biến cố A: “Rút từ hộp I thẻ số chẵn”. Trong các biến cố sau, biến cố nào độc lập với biến cố A?",
+      "options": [
+        "A. Rút từ hộp I thẻ số lẻ;",
+        "B. Rút từ hộp II thẻ số lẻ;",
+        "C. Rút từ hộp II thẻ số chẵn;",
+        "D. Cả B và C đều đúng."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 16,
+      "type": "single",
+      "content": "Hộp I chứa 9 quả cầu màu đỏ và 6 quả cầu màu xanh. Hộp II chứa 7 quả cầu màu đỏ và 8 quả cầu màu xanh. Lấy từ mỗi hộp một quả cầu. Xét các mệnh đề sau:\n(I) Biến cố A: “Lấy ra 2 quả cùng màu” và biến cố B: “Lấy ra hai quả khác màu” là hai biến cố độc lập.\n(II) Biến cố C: “Lấy ra từ hộp I quả màu đỏ” và biến cố D: “Lấy ra hai quả màu xanh” là hai biến cố độc lập.\n(III) Biến cố E: “Lấy ra từ hộp I quả màu đỏ” và biến cố F: “Lấy ra từ hộp II quả màu xanh” là hai biến cố độc lập.\nCó bao nhiêu mệnh đề đúng?",
+      "options": [
+        "A. 0 ;",
+        "B. 1 ;",
+        "C. 2;",
+        "D. 3."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 17,
+      "type": "single",
+      "content": "Hộp A có 12 bóng, trong đó có 4 bóng hỏng. Hộp B có 10 bóng, trong đó có 3 bóng hỏng. Lấy từ mỗi hộp 2 bóng. Trong các biến cố sau, biến cố nào độc lập với biến cố M: “Lấy từ hộp B được 2 bóng đều tốt”?",
+      "options": [
+        "A. Lấy từ hộp B được 2 bóng đều hỏng;",
+        "B. Lấy từ hộp B được ít nhất 1 bóng hỏng;",
+        "C. Lấy từ hộp A được ít nhất 1 bóng tốt;",
+        "D. Lấy được 4 bóng hỏng ."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 18,
+      "type": "single",
+      "content": "Nam và Phong chọn ngẫu nhiên một số từ các số 0 đến 99. Trong các cặp biến cố sau, cặp nào là hai biến cố độc lập?",
+      "options": [
+        "A. A: “Nam chọn số nhỏ hơn 10” và B: “Phong chọn số lớn hơn 15”;",
+        "B. C: “Hai bạn đều chọn số nhỏ hơn 10” và D: “Hai bạn đều chọn số lớn hơn 15”;",
+        "C. E: “Hai bạn đều chọn số nhỏ hơn 10” và F: “Phong chọn số lớn hơn 15”;",
+        "D. G: “Nam chọn số nhỏ hơn 10” và H: “Hai bạn đều chọn số lớn hơn 15” ."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 19,
+      "type": "single",
+      "content": "Gọi S là tập các số tự nhiên có 5 chữ số khác nhau được tạo từ tập E = {1; 2; 3; 4; 5}. An và Bình chọn ngẫu nhiên một số từ tập S. Biến cố A: “An chọn ra số chẵn” và biến cố B “Bình chọn ra số chẵn” là hai biến cố:",
+      "options": [
+        "A. Đối;",
+        "B. Xung khắc;",
+        "C. Không độc lập;",
+        "D. Độc lập ."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 20,
+      "type": "single",
+      "content": "Một hộp đựng 5 viên bi màu đỏ và 6 viên bi màu xanh có cùng kích thước và khối lượng. Bạn Hoa lấy ngẫu nhiên một viên bi và trả lại hộp. Tiếp theo bạn An lấy ngẫu nhiên một viên bi từ hộp đó. Xét biến cố A: “Hoa lấy được viên bi màu đỏ”, biến cố B: “An lấy được viên bi màu xanh”. Hai biến cố A và B là hai biến cố:",
+      "options": [
+        "A. Biến cố đối;",
+        "B. Biến cố độc lập;",
+        "C. Biến cố xung khắc;",
+        "D. Biến cố hợp ."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 21,
+      "type": "single",
+      "content": "Cho A và B là hai biến cố độc lập. Biết P A = 1 3 ; P B = 1 4 . Xác suất của biến cố AB là",
+      "options": [
+        "A. 7 12",
+        "B. 5 12",
+        "C. 1 7",
+        "D. 1 12"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 22,
+      "type": "single",
+      "content": "Cho A và B là hai biến cố độc lập với nhau. Biết P(A) = 0,4 và P(B) = 0,6. Xác suất của các biến cố A ̄ B là",
+      "options": [
+        "A. 0,24;",
+        "B. 0,36;",
+        "C. 0,16;",
+        "D. 0,2 ."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 23,
+      "type": "single",
+      "content": "Cho A và B là hai biến cố độc lập với nhau. Biết P(A) = 0,4 và P(B) = 0,6. Xác suất của các biến cố A ̄ B ̄ là",
+      "options": [
+        "A. 0,24;",
+        "B. 0,16;",
+        "C. 0,76;",
+        "D. 0,36 ."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 24,
+      "type": "single",
+      "content": "An và Bình không quen biết nhau và học ở hai nơi khác nhau. Xác suất để An và Bình đạt điểm giỏi về môn Toán trong kì thi cuối năm tương ứng là 0,92 và 0,88. Xác suất để cả An và Bình đều không đạt điểm giỏi là",
+      "options": [
+        "A. 0,8096;",
+        "B. 0,0096;",
+        "C. 0,3649;",
+        "D. 0,3597."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 25,
+      "type": "single",
+      "content": "An và Bình không quen biết nhau và học ở hai nơi khác nhau. Xác suất để An và Bình đạt điểm giỏi về môn Toán trong kì thi cuối năm tương ứng là 0,92 và 0,88. Xác suất để cả An và Bình đều đạt điểm giỏi là",
+      "options": [
+        "A. 0,8096 ;",
+        "B. 0,0096 ;",
+        "C. 0,3649 ;",
+        "D. 0,3597."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 26,
+      "type": "single",
+      "content": "Hai xạ thủ cùng bắn vào bia một cách độc lập với nhau. Xác suất bắn trúng bia của xạ thủ thứ nhất bằng 1 2 , xác suất bắn trúng bia của xạ thủ thứ hai bằng 1 3 . Xác suất của biến cố: “Xạ thủ thứ nhất bắn trúng bia, xạ thủ thứ hai bắn trật bia” là",
+      "options": [
+        "A. 1 4",
+        "B. 1 3",
+        "C. 2 3",
+        "D. 1 2"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 27,
+      "type": "single",
+      "content": "Gieo hai con xúc xắc cân đối và đồng chất. Gọi X là biến cố “Tích số chấm xuất hiện trên hai mặt con xúc xắc là một số lẻ”. Xác suất của X là",
+      "options": [
+        "A. 1 5",
+        "B. 1 4",
+        "C. 1 3",
+        "D. 1 2"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 28,
+      "type": "single",
+      "content": "Một xạ thủ bắn lần lượt 2 viên đạn vào một bia. Xác suất trúng đích của viên thứ nhất và viên thứ hai lần lượt là 0,8 và 0,7. Biết rằng kết quả các lần bắn là độc lập với nhau. Xác suất của biến cố \"Cả hai lần bắn đều trúng đích\" là",
+      "options": [
+        "A. 0,28;",
+        "B. 0,56;",
+        "C. 0,24;",
+        "D. 0,15 ."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 29,
+      "type": "single",
+      "content": "Hai khẩu pháo cao xạ cùng bắn độc lập với nhau vào một mục tiêu. Xác suất bắn trúng mục tiêu lần lượt là 1 4 và 1 3 . Xác suất để mục tiêu bị trúng đạn là",
+      "options": [
+        "A. 1 4",
+        "B. 5 12",
+        "C. 1 2",
+        "D. 7 12"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 30,
+      "type": "single",
+      "content": "Ba xạ thủ bắn vào mục tiêu một cách độc lập với nhau. Xác suất bắn trúng của xạ thủ thứ nhất, thứ hai và thứ ba lần lượt là 0,6; 0,7; 0,8. Xác suất để có ít nhất một xạ thủ bắn trúng là:",
+      "options": [
+        "A. 0,188;",
+        "B. 0,024;",
+        "C. 0,976;",
+        "D. 0,812 ."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 31,
+      "type": "single",
+      "content": "Một bệnh truyền nhiễm có xác suất lây bệnh là 0,9 nếu tiếp xúc với người bệnh mà không đeo khẩu trang; là 0,15 nếu tiếp xúc với người bệnh mà có đeo khẩu trang. Anh Hà tiếp xúc với một người bệnh hai lần, trong đó có một lần đeo khẩu trang và một lần không đeo khẩu trang. Xác suất anh Hà bị lây bệnh từ người bệnh mà anh tiếp xúc đó là",
+      "options": [
+        "A. 0,9;",
+        "B. 0,15;",
+        "C. 0,135;",
+        "D. 0,19."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 32,
+      "type": "single",
+      "content": "Minh mua 2 bóng đèn. Theo một kết quả thống kê, tỉ lệ bị hỏng trong năm đầu sử dụng của loại bóng đèn Minh mua là 23%. Xác suất để cả hai bóng đèn đều không bị hỏng trong năm đầu sử dụng là",
+      "options": [
+        "A. 0,23;",
+        "B. 0,0529;",
+        "C. 0,1771;",
+        "D. 0,5929."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 33,
+      "type": "single",
+      "content": "Một người vừa gieo một con xúc xắc để ghi lại số chấm xuất hiện, sau đó người này tiếp tục chọn ngẫu nhiên một lá bài từ bộ bài 52 lá. Xác suất để số chấm trên con xúc xắc là lớn nhất và chọn được một lá bài tây là",
+      "options": [
+        "A. 1 6",
+        "B. 1 26",
+        "C. 2 13",
+        "D. 1 13"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 34,
+      "type": "single",
+      "content": "Trên một bảng quảng cáo, người ta mắc 1 hệ thống bóng đèn. Hệ thống này gồm 2 bóng mắc nối tiếp. Khả năng bị hỏng của mỗi bóng đèn sau 6 giờ thắp sáng liên tục là 0,15. Biết tình trạng của mỗi bóng đèn là độc lập. Xác suất để hệ thống đèn bị hỏng (không sáng) sau 6 giờ thắp sáng là",
+      "options": [
+        "A. 0,0225;",
+        "B. 0,9775;",
+        "C. 0,2775;",
+        "D. 0,6215."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 35,
+      "type": "single",
+      "content": "Trên một bảng quảng cáo, người ta mắc 1 hệ thống bóng đèn. Hệ thống này gồm 2 bóng mắc song song. Khả năng bị hỏng của mỗi bóng đèn sau 6 giờ thắp sáng liên tục là 0,15. Biết tình trạng của mỗi bóng đèn là độc lập. Xác suất để hệ thống đèn hoạt động bình thường sau 6 giờ thắp sáng là",
+      "options": [
+        "A. 0,0225;",
+        "B. 0,9775;",
+        "C. 0,5656;",
+        "D. 0,6215 ."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 36,
+      "type": "single",
+      "content": "Trong một đội tuyển có 2 vận động viên An và Bình thi đấu với xác suất chiến thắng lần lượt là 0,7 và 0,6. Giả sử mỗi người thi đấu một trận độc lập nhau. Xác suất để đội tuyển thắng cả hai trận là",
+      "options": [
+        "A. 0,26 ;",
+        "B. 0,38 ;",
+        "C. 0,88;",
+        "D. 0,42."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 37,
+      "type": "single",
+      "content": "Trong một trận đấu bóng đá quan trọng ở vòng đấu loại trực tiếp, khi trận đấu buộc phải giải quyết bằng loạt sút luân lưu 11 m, huấn luyện viên đội X đưa danh sách lần lượt 5 cầu thủ có xác suất sút luân lưu 11 m thành công là 0,8; 0,8; 0,76; 0,72; 0,68. Xác suất để chỉ có cầu thủ cuối cùng sút trượt luân lưu ( kết quả làm tròn đến hàng phần nghìn ) là",
+      "options": [
+        "A. 0,112;",
+        "B. 0,009;",
+        "C. 0,469;",
+        "D. 0,357"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 38,
+      "type": "single",
+      "content": "Hộp A đựng 5 tấm thẻ được đánh số từ 1 đến 5, hộp B đựng 6 tấm thẻ được đánh số từ 1 đến 6, hai thẻ khác nhau ở mỗi hộp đánh hai số khác nhau. Chọn ngẫu nhiên từ hộp A một tấm thẻ và từ hộp B hai tấm thẻ. Gọi X là biến cố: \"Chọn được thẻ mang số lẻ từ hộp A\", Y là biến cố: \"Chọn được thẻ mang số chẵn từ hộp A\", và Z là biến cố: \"Chọn được hai thẻ mang số lẻ từ hộp B\". Xác suất để tích số được ghi trên ba tấm thẻ thu được là số chẵn là",
+      "options": [
+        "A. 1 5",
+        "B. 22 55",
+        "C. 2 13",
+        "D. 3 25"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 39,
+      "type": "single",
+      "content": "Trên một bảng quảng cáo, người ta mắc hai hệ thống bóng đèn. Hệ thống I gồm 2 bóng mắc nối tiếp, hệ thống II gồm 2 bóng mắc song song. Khả năng bị hỏng của mỗi bóng đèn sau 6 giờ thắp sáng liên tục là 0,15. Biết tình trạng của mỗi bóng đèn là độc lập. Xác suất để cả hai hệ thống bị hỏng (không sáng) ( kết quả làm tròn đến hàng phần trăm nghìn ) là",
+      "options": [
+        "A. 0,02251;",
+        "B. 0,97753;",
+        "C. 0,27754;",
+        "D. 0,00624 ."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 40,
+      "type": "single",
+      "content": "Gieo hai đồng xu A và B một cách độc lập. Đồng xu A được chế tạo cân đối. Đồng xu B được chế tạo không cân đối nên xác suất xuất hiện mặt sấp gấp 3 lần xác suất xuất hiện mặt ngửa. Xác suất để khi gieo hai đồng xu một lần thì cả hai đều ngửa là",
+      "options": [
+        "A. 1 8",
+        "B. 1 64",
+        "C. 2 13",
+        "D. 3 25"
+      ],
+      "answer": "A"
+    }
+  ]
+}

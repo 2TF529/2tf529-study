@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-4-11-bai-tap-tim-so-van-sang-van-toi-co-loi-giai",
+  "sourceId": "vietjack:4-11-bai-tap-tim-so-van-sang-van-toi-co-",
+  "grade": "l11",
+  "subjectSlug": "li",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "4.11 Bài tập Tìm số vân sáng, vân tối (có lời giải)",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Trong thí nghiệm Young về giao thoa ánh sáng, khoảng vân là i, vùng giao thoa trên màn rộng một đoạn L (vân trung tâm ở chính giữa). Số vân sáng trên màn là n s tính bằng biểu thức",
+      "options": [
+        "A. n s = L i + 1.",
+        "B. n s = 2 L 2 i + 1.",
+        "C. n s = 2 L 2 i + 0 , 5 .",
+        "D. n s = L i + 0 , 5 ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là B Số vân sáng trên nửa trường giao thoa là L 2 i ⇒ số vân sáng trên màn là n s = 2 L 2 i + 1."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Trong thí nghiệm Young về giao thoa ánh sáng, khoảng vân là i, vùng giao thoa trên màn rộng một đoạn L (vân trung tâm ở chính giữa). Số vân tối trên màn là n t được tính bằng biểu thức",
+      "options": [
+        "A. n t = L i + 1.",
+        "B. n t = 2 L 2 i + 1.",
+        "C. n t = 2 L 2 i + 0 , 5 .",
+        "D. n t = L i + 0 , 5 ."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là C Số vân tối trên nửa trường giao thoa là L 2 i + 0 , 5 ⇒ số vân tối trên màn là n t = 2 L 2 i + 0 , 5 ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trong thí nghiệm Young về giao thoa ánh sáng, các khe hẹp được chiếu sáng bởi ánh sáng đơn sắc. Khoảng vân trên màn là 1,2mm Trong khoảng giữa hai điểm M và N trên màn ở cùng một phía so với vân sáng trung tâm, cách vân trung tâm lần lượt 2mm và 4,5mm quan sát được có",
+      "options": [
+        "A. 2 vân sáng và 2 vân tối.",
+        "B. 3 vân sáng và 2 vân tối.",
+        "C. 2 vân sáng và 3 vân tối.",
+        "D. 2 vân sáng và 1 vân tối."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là A - Khoảng vân giao thoa i=1,2mm - Giả sử x M = 2 m m ⇒ x N = 4 , 5 m m - Tổng số vân sáng trong khoảng giữa hai điểm và x M i ≤ k s ≤ x N i ⇔ 2 1 , 2 < k s < 4 , 5 1 , 2 ⇔ 1 , 67 < k s < 3 , 75 ⇒ k s = 2 , 3 ⇒ N s = 2 vân sáng. - Tổng số vân tối trong khoảng giữa hai điểm và x M i − 1 2 < k t < x N i − 1 2 ⇔ 1 , 167 < k t < 3 , 25 ⇔ k t = 2 , 3 ⇒ N t = 2 vân tối. Vậy trong khoảng giữa hai điểm M và N có 2 vân sáng và 2 vân tối."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Trong thí nghiệm Young về giao thoa ánh sáng, hai khe được chiếu bằng ánh sáng đơn sắc có bước sóng 0 , 6 μ m . Khoảng cách giữa hai khe là 1mm khoảng cách từ mặt phẳng chứa hai khe đến màn quan sát là 2,5m bề rộng miền giao thoa là 2,5 cm. Tổng số vân sáng và vân tối có trong miền giao thoa là",
+      "options": [
+        "A. 21 vân.",
+        "B. 17 vân.",
+        "C. 33 vân.",
+        "D. 16 vân."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là C - Khoảng vân giao thoa i = λ D a = 0 , 5.2 0 , 5 = 2 m m . - Số vân sáng trên màn n s = 2 L 2 i + 1 = 2 26 2.2 + 1 = 2.6 + 1 = 13."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Trong thí nghiệm Young về giao thoa ánh sáng đơn sắc có bước sóng 0 , 6 μ m , khoảng cách giữa hai khe là 0,5mm , khoảng cách từ mặt phẳng chứa hai khe đến màn quan sát là 1,5mm . Trên màn, gọi M và N là hai điểm ở hai phía so với vân sáng trung tâm và cách vân sáng trung tâm lần lượt là 6 , 84 m m và 4 , 64 m m . Số vân sáng trong khoảng MN là",
+      "options": [
+        "A. 6",
+        "B. 3",
+        "C. 8",
+        "D. 2"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là A Ta có i = λ D a = 1 , 8 m m Số vân sáng trong khoảng thỏa mãn x N < k i < x M ⇔ x N i < k < x M i ⇔ − 4 , 64 1 , 8 < k < 6 , 84 1 , 8 ⇔ − 116 45 < k < 19 5 ⇒ k = − 2 ; − 1 ; 0 ; 1 ; 2 ; 3. [Khoảng vân i = λ D a = 0 , 6.10 − 6 .1 , 5 0 , 5.10 − 3 = 1 , 8.10 − 3 m = 1 , 8 m m . x M i = 6 , 84 1 , 8 = 3 , 8 . Quan sát được 3 vân sáng trong khoảng từ vân trung tâm đến M không kể vân trung tâm. x N i = 4 , 64 1 , 8 ≈ 2 , 58 . Quan sát được 2 vân sáng trong khoảng từ vân trung tâm đến N không kể vân trung tâm. M và N là hai điểm ở hai phía so với vân sáng trung tâm nên số vân sáng trong khoảng MN là n = 3 + 2 + 1 = 6."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong thí nghiệm Young về giao thoa với ánh sáng đơn sắc có bước sóng 0 , 6 μ m . Biết khoảng cách giữa hai khe là 0,6 mm, khoảng cách từ mặt phẳng chứa hai khe đến màn quan sát là 2 m. Trên màn, hai điểm M và N nằm khác phía so với vân sáng trung tâm, cách vân trung tâm lần lượt là 5,9 mm và 9,7 mm. Trong khoảng giữa M và N có số vân sáng là",
+      "options": [
+        "A. 9",
+        "B. 7",
+        "C. 6",
+        "D. 8"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là B Ta có i = λ D a = 2 m m Số vân sáng trong khoảng thỏa mãn x N < k i < x M ⇔ x N i < k < x M i ⇔ − 5 , 9 2 < k < 9 , 7 2 Khoảng vân x M i = 5 , 9 2 = 2 , 95 . Quan sát được 2 vân sáng trong khoảng từ vân trung tâm đến M không kể vân trung tâm. x N i = 9 , 7 2 = 4 , 85 . Quan sát được 4 vân sáng trong khoảng từ vân trung tâm đến N không kể vân trung tâm. M và N là hai điểm ở hai phía so với vân sáng trung tâm nên số vân sáng trong khoảng MN là n = 2 + 4 + 1 = 7."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-2-20-cau-trac-nghiem-toan-11-chan-troi-sang-tao-bai-2-trung-vi-va",
+  "sourceId": "vietjack:2-20-cau-trac-nghiem-toan-11-chan-troi-s",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.20 câu trắc nghiệm Toán 11 Chân trời sáng tạo Bài 2. Trung vị và tứ phân vị của mẫu số liệu ghép nhóm (Đúng sai - Trả lời ngắn) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: TRẮC NGHIỆM NHIỀU LỰA CHỌN Khảo sát thời gian tập thể dục của một số học sinh khối 11 thu được mẫu số liệu ghép nhóm sau: Thời gian (phút) [0; 20) [20; 40) [40; 60) [60; 80) [80; 100) Số học sinh 5 9 12 10 6 Nhóm chứa trung vị của mẫu số liệu trên là",
+      "options": [
+        "A. [40; 60).",
+        "B. [20; 40).",
+        "C. [60; 80).",
+        "D. [80; 100)."
+      ],
+      "answer": "A",
+      "note": "A Cỡ mẫu n = 5 + 9 + 12 + 10 + 6 = 42. Gọi x 1 ; x 2 ; …; x 42 lần lượt là thời gian tập thể dục của 42 học sinh khối 11 được xếp theo thứ tự không giảm. Trung vị của mẫu số liệu là \\(\\frac{1}{2}\\left( {{x_{21}} + {x_{22}}} \\right)\\) mà x 21 ; x 22 Î [40; 60) nên nhóm này chứa trung vị."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Khảo sát thời gian tập thể dục của một số học sinh khối 11 thu được mẫu số liệu ghép nhóm sau: Thời gian (phút) [0; 20) [20; 40) [40; 60) [60; 80) [80; 100) Số học sinh 5 9 12 10 6 Nhóm chứa tứ phân vị thứ ba của mẫu số liệu trên là",
+      "options": [
+        "A. [40; 60).",
+        "B. [20; 40).",
+        "C. [60; 80).",
+        "D. [80; 100)."
+      ],
+      "answer": "C",
+      "note": "C Cỡ mẫu n = 5 + 9 + 12 + 10 + 6 = 42. Gọi x 1 ; x 2 ; …; x 42 lần lượt là thời gian tập thể dục của 42 học sinh khối 11 được xếp theo thứ tự không giảm. Tứ phân vị thứ ba là x 32 Î [60; 80) nên nhóm này chứa tứ phân vị thứ ba."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Tứ phân vị thứ nhất của mẫu số liệu ghép nhóm này là",
+      "options": [
+        "A. Q 1 = 85,5.",
+        "B. Q 1 = 87,5.",
+        "C. Q 1 = 86,5.",
+        "D. Q 2 = 86,75."
+      ],
+      "answer": "B",
+      "note": "B Gọi x 1 ; x 2 ; …; x 30 là khối lượng của 30 củ khoai tây được sắp theo thứ tự không giảm. Tứ phân vị thứ nhất là x 8 Î [80; 90). Khi đó \\({Q_1} = 80 + \\frac{{\\frac{{30}}{4} - 3}}{6}.10 = 87,5.\\)"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Tứ phân vị thứ ba của mẫu số liệu ghép nhóm này là",
+      "options": [
+        "A. Q 3 = 100.",
+        "B. Q 3 = 102.",
+        "C. Q 3 = 102,5.",
+        "D. Q 3 = 103."
+      ],
+      "answer": "C",
+      "note": "C Gọi x 1 ; x 2 ; …; x 30 là khối lượng của 30 củ khoai tây được sắp theo thứ tự không giảm. Tứ phân vị thứ ba là x 23 Î [100; 110). Khi đó \\({Q_3} = 100 + \\frac{{\\frac{{3.30}}{4} - 21}}{6}.10 = 102,5\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho mẫu số liệu ghép nhóm về chiều cao của 25 cây dừa giống như sau Chiều cao (cm) [0; 10) [10; 20) [20; 30) [30; 40) [40; 50) Số cây 4 6 7 5 3 Trung vị của mẫu số liệu ghép nhóm này là",
+      "options": [
+        "A. \\({M_e} = \\frac{{175}}{7}\\) .",
+        "B. \\({M_e} = \\frac{{165}}{5}\\) .",
+        "C. \\({M_e} = \\frac{{165}}{7}\\) .",
+        "D. \\({M_e} = \\frac{{165}}{3}\\) ."
+      ],
+      "answer": "C",
+      "note": "C Gọi x 1 ; x 2 ; …; x 25 là chiều cao của 25 cây dừa giống được xếp theo thứ tự không giảm. Trung vị của mẫu số liệu là x 13 Î [20; 30) nên nhóm này chứa trung vị. Ta có \\({M_e} = 20 + \\frac{{\\frac{{25}}{2} - 10}}{7}.10 = \\frac{{165}}{7}\\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Quãng đường (km) các cầu thủ (không tính thủ môn) chạy trong một trận bóng đá tại giải ngoại hạng Anh cho trong bảng thống kê sau: Quãng đường (km) [2; 4) [4; 6) [6; 8) [8; 10) [10; 12) Số cầu thủ 2 5 6 9 3 Tìm trung vị của mẫu số liệu",
+      "options": [
+        "A. 5,62.",
+        "B. 7,43.",
+        "C. 6,83.",
+        "D. 7,83."
+      ],
+      "answer": "D",
+      "note": "D Gọi x 1 ; x 2 ; …; x 25 là quãng đường của 25 cầu thủ chạy trong một trận bóng đá tại giải ngoại hạng Anh. Trung vị của mẫu số liệu là x 13 Î [6; 8) nên nhóm này chứa trung vị. Ta có \\({M_e} = 6 + \\frac{{\\frac{{25}}{2} - 7}}{6}.2 \\approx 7,83\\)."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Cho mẫu số liệu ghép nhóm thống kê thời gian sử dụng điện thoại trước khi ngủ (đơn vị: phút) của một người trong 120 ngày như ở Bảng sau Nhóm [0; 4) [4; 8) [8; 12) [12; 16) [16; 20) Tần số 13 29 48 22 8 Xác định tứ phân vị của mẫu số liệu đó (làm tròn các kết quả đến hàng phần mười).",
+      "options": [
+        "A. Q 1 = 6,3; Q 2 = 10,5; Q 3 = 12.",
+        "B. Q 1 = 6,3; Q 2 = 9,5; Q 3 = 12.",
+        "C. Q 1 = 7,3; Q 2 = 9,5; Q 3 = 11.",
+        "D. Q 1 = 6,3; Q 2 = 9,5; Q 3 = 11."
+      ],
+      "answer": "B",
+      "note": "B Gọi x 1 ; x 2 ; …; x 120 là thời gian sử dụng điện thoại trước khi ngủ của một người trong 120 ngày được xếp theo thứ tự không giảm. Tứ phân vị thứ nhất là \\(\\frac{1}{2}\\left( {{x_{30}} + {x_{31}}} \\right) \\in \\left[ {4;8} \\right)\\) nên nhóm này chứa tứ phân vị thứ nhất. Khi đó \\({Q_1} = 4 + \\frac{{\\frac{{120}}{4} - 13}}{{29}}.4 \\approx 6,3\\). Tứ phân vị thứ hai là \\(\\frac{1}{2}\\left( {{x_{60}} + {x_{61}}} \\right) \\in \\left[ {8;12} \\right)\\) nên nhóm này chứa tứ phân vị thứ hai. Khi đó \\({Q_2} = 8 + \\frac{{\\frac{{120}}{2} - 42}}{{48}}.4 = 9,5\\). Tứ phân vị thứ ba là \\(\\frac{1}{2}\\left( {{x_{90}} + {x_{91}}} \\right)\\)mà x 90 Î [8; 12); x 91 Î [12; 16) nên Q 3 = 12."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Doanh thu bán hàng trong 20 ngày được lựa chọn ngẫu nhiên của một cửa hàng được ghi lại ở bảng sau (đơn vị: triệu đồng); Doanh thu [5; 7) [7; 9) [9; 11) [11;13) [13; 15) Số ngày 2 7 7 3 1 Tứ phân vị thứ ba của mẫu số liệu trên gần nhất với giá trị nào trong các giá trị sau",
+      "options": [
+        "A. 13.",
+        "B. 12.",
+        "C. 11.",
+        "D. 10."
+      ],
+      "answer": "C",
+      "note": "C Gọi x 1 ; x 2 ; …; x 20 lần lượt là doanh thu bán hàng của 20 ngày sắp xếp theo tứ tự không giảm. Tứ phân vị thứ ba của dãy số liệu là \\(\\frac{1}{2}\\left( {{x_{15}} + {x_{16}}} \\right)\\) thuộc nhóm [9; 11) nên tứ phân vị thứ ba của mẫu số liệu là \\({Q_3} = 9 + \\frac{{\\frac{{3.20}}{4} - 9}}{7}\\left( {11 - 9} \\right) \\approx 11\\)."
+    }
+  ]
+}

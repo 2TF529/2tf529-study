@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-11-ket-noi-tri-thuc-bai-13-co-dap-an",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-11-ket-noi-",
+  "grade": "l11",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 11 Kết nối tri thức Bài 13 có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Khái niệm cơ sở dữ liệu quan hệ là gì?",
+      "options": [
+        "A. CSDL lưu trữ dữ liệu dưới dạng tệp tin.",
+        "B. CSDL tổ chức dữ liệu theo dạng bảng.",
+        "C. CSDL không có quan hệ giữa các bảng.",
+        "D. CSDL chỉ có thể lưu trữ văn bản."
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Cơ sở dữ liệu quan hệ lưu trữ dữ liệu dưới dạng các bảng, trong đó mỗi bảng bao gồm các hàng và cột, cho phép dễ dàng truy xuất và quản lý dữ liệu"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Khoá chính trong một bảng là gì?",
+      "options": [
+        "A. Trường không bao giờ có giá trị trùng lặp.",
+        "B. Trường chứa thông tin về mối quan hệ giữa các bảng.",
+        "C. Trường có thể chứa giá trị trùng lặp.",
+        "D. Trường chỉ được sử dụng để lưu trữ văn bản."
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Khoá chính xác định duy nhất mỗi bản ghi trong bảng, do đó nó phải có giá trị không trùng lặp"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Khái niệm khoá ngoài là gì?",
+      "options": [
+        "A. Trường trong bảng xác định duy nhất bản ghi.",
+        "B. Trường trong bảng kết nối với khoá chính của bảng khác.",
+        "C. Trường chỉ lưu trữ dữ liệu văn bản.",
+        "D. Trường không có giá trị."
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Trường trong bảng kết nối với khoá chính của bảng khác. Giải thích: Khoá ngoài là trường trong một bảng mà giá trị của nó tham chiếu đến khoá chính của bảng khác, tạo ra mối quan hệ giữa hai bảng."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Liên kết dữ liệu trong cơ sở dữ liệu quan hệ là gì?",
+      "options": [
+        "A. Việc lưu trữ dữ liệu trong một bảng.",
+        "B. Việc gộp nhiều bảng dữ liệu thành một bảng duy nhất.",
+        "C. Việc sử dụng khoá ngoài để kết nối dữ liệu từ hai bảng khác nhau.",
+        "D. Việc xóa dữ liệu trong bảng."
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Việc sử dụng khoá ngoài để kết nối dữ liệu từ hai bảng khác nhau. Giải thích: Liên kết dữ liệu (join) là quá trình kết hợp dữ liệu từ hai hoặc nhiều bảng dựa trên quan hệ giữa chúng thông qua khoá ngoài."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Mỗi hàng trong một bảng được gọi là gì?",
+      "options": [
+        "A. Trường (field).",
+        "B. Bản ghi (record).",
+        "C. Khoá (key).",
+        "D. Dữ liệu (data)."
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Mỗi hàng trong bảng chứa thông tin về một đối tượng cụ thể, được gọi là bản ghi."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Kiểu dữ liệu của trường nào không cho phép nhập số?",
+      "options": [
+        "A. Trường số nguyên (integer).",
+        "B. Trường số thập phân (decimal).",
+        "C. Trường văn bản (string).",
+        "D. Trường ngày tháng (date"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Trường văn bản chỉ cho phép lưu trữ ký tự và không cho phép nhập số dưới dạng số."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-3-bo-4-de-thi-giua-ki-2-tin-hoc-11-ket-noi-tri-thuc-co-dap-an",
+  "sourceId": "vietjack:3-bo-4-de-thi-giua-ki-2-tin-hoc-11-ket-n",
+  "grade": "l11",
+  "subjectSlug": "tin",
+  "examType": "giuaki2",
+  "year": 2026,
+  "title": "3.Bộ 4 đề thi giữa kì 2 Tin học 11 Kết nối tri thức có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: I. PHẦN TRẮC NGHIỆM (7,0 điểm) MySQL là gì?",
+      "options": [
+        "A. Một ngôn ngữ lập trình.",
+        "B. Một hệ quản trị cơ sở dữ liệu.",
+        "C. Một framework phát triển ứng dụng web.",
+        "D. Một phần mềm biên dịch mã nguồn mở."
+      ],
+      "answer": "B",
+      "note": "Chọn B"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Để thiết lập kết nối với cơ sở dữ liệu MySQL trong HeidiSQL, bạn cần cung cấp thông tin gì?",
+      "options": [
+        "A. Tên máy chủ (host), tên người dùng (username), mật khẩu (password).",
+        "B. Tên cơ sở dữ liệu (database name), tên bảng (table name), trường dữ liệu (field name).",
+        "C. Tên file cấu hình (configuration file name), đường dẫn file cấu hình.",
+        "D. Tên máy chủ (host), tên bảng (table name)."
+      ],
+      "answer": "A",
+      "note": "Chọn A"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cần gõ câu truy vấn nào trong cửa sổ lệnh của MySQL để đọc được toàn bộ thông tin bảng bangdiem trong CSDL hocsinh?",
+      "options": [
+        "A. INSERT * FROM hocsinh.bangdiem;",
+        "B. DELETE hocsinh FROM bangdiem;",
+        "C. UPDATE hocsinh;",
+        "D. SELECT * FROM hocsinh.bangdiem;"
+      ],
+      "answer": "D",
+      "note": "Chọn D"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Để thêm thông tin ngày sinh của các nhạc sĩ, ca sĩ vào CSDL, bạn cần?",
+      "options": [
+        "A. Cần thay đổi cấu trúc CSDL bằng cách thêm một bảng mới để lưu trữ thông tin này.",
+        "B. Thêm một trường mới vào bảng \"nhacsi\" và bảng \"casi\" để lưu trữ thông tin ngày sinh.",
+        "C. Cần xóa bỏ cấu trúc CSDL và thay bằng cấu trúc khác.",
+        "D. Đáp án khác."
+      ],
+      "answer": "B",
+      "note": "Chọn B"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Để thực hiện mô hình quản lí danh sách tên quận/huyện của các tỉnh thành phố em phải xác định mối quan hệ giữa?",
+      "options": [
+        "A. Tỉnh thành phố và Quận/Huyện.",
+        "B. Tỉnh và Thị trấn.",
+        "C. Tỉnh và thị xã.",
+        "D. Huyện và thị trấn."
+      ],
+      "answer": "A",
+      "note": "Chọn A"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Để thực hiện mô hình quản lí danh sách tên quận/huyện của các tỉnh thành phố, trong bảng Quận/Huyện thì MaTinhThanhPho sẽ là?",
+      "options": [
+        "A. Khóa chính.",
+        "B. Khóa ngoại tham chiếu tới bảng Quận/Huyện.",
+        "C. Khóa ngoai tham chiếu tới bảng Tỉnh thành phố.",
+        "D. Đáp án khác."
+      ],
+      "answer": "C",
+      "note": "Chọn C"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Việc đầu tiên để làm việc với một CSDL là?",
+      "options": [
+        "A. Thu thập.",
+        "B. Xử lý.",
+        "C. Tạo lập.",
+        "D. Cả ba đáp án trên đều đúng."
+      ],
+      "answer": "C",
+      "note": "Chọn C"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Chọn cách sai khi khởi động phàn mềm HeidiSQL?",
+      "options": [
+        "A. Kích đúp chuột trái vào biểu tượng của phần mềm HeidiSQL trên màn hình nền.",
+        "B. Kích đúp chuột phải vào biểu tượng của phần mềm HeidiSQL trên màn hình nền.",
+        "C. Kích chuột trái vào biểu tượng của phần mềm HeidiSQL trên màn hình nền, nháy chuột phải rồi chọn Open.",
+        "D. à start tìm đến phần mềm HeidiSQL à kích chuột trái vào tên phần mềm."
+      ],
+      "answer": "B",
+      "note": "Chọn B"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-de-kiem-tra-toan-12-canh-dieu-chuong-4-co-dap-an",
+  "sourceId": "vietjack:2-de-kiem-tra-toan-12-canh-dieu-chuong-4",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "title": "2.Đề kiểm tra Toán 12 Cánh diều Chương 4 có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Trên khoảng \\(\\left( { - \\infty ; + \\infty } \\right)\\), hàm số \\[F\\left( x \\right) = \\frac{1}{2}\\sin 2x\\] là một nguyên hàm của hàm số nào dưới đây?",
+      "options": [
+        "A. \\({f_3}\\left( x \\right) = - \\frac{1}{2}\\cos 2x\\).",
+        "B. \\({f_4}\\left( x \\right) = - \\frac{1}{4}\\cos 2x\\).",
+        "C. \\({f_2}\\left( x \\right) = \\cos 2x\\).",
+        "D. \\({f_1}\\left( x \\right) = - \\cos 2x\\)."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng: C Ta có \\({\\left( {\\frac{1}{2}\\sin 2x} \\right)^\\prime } = \\cos 2x\\)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Nguyên hàm \\(F\\left( x \\right)\\)của hàm số \\(f\\left( x \\right) = {e^x} + 2\\sin x\\) thỏa mãn \\(F\\left( 0 \\right) = 20\\) là:",
+      "options": [
+        "A. \\(F\\left( x \\right) = - {e^x} - 2\\cos x + 23\\).",
+        "B. \\(F\\left( x \\right) = {e^x} - 2\\cos x + 21\\).",
+        "C. \\(F\\left( x \\right) = {e^x} + 2\\cos x + 17\\).",
+        "D. \\(F\\left( x \\right) = {e^x} + 2\\sin x + 19\\)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng:B \\(F\\left( x \\right) = \\int {f\\left( x \\right){\\rm{d}}x = \\int {\\left( {{e^x} + 2\\sin x} \\right)} } \\,{\\rm{d}}x = {e^x} - 2\\cos x + C\\) Mà \\(F\\left( 0 \\right) = 20 \\Leftrightarrow {e^0} - 2\\cos 0 + C = 20 \\Leftrightarrow C = 21\\) . Vậy \\(F\\left( x \\right) = {e^x} - 2\\cos x + 21\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho \\[\\int\\limits_1^2 {f(x){\\rm{d}}x = 3} \\], \\[\\int\\limits_1^2 {g(x){\\rm{d}}x = 2} \\]. Giá trị \\[\\int\\limits_1^2 {\\left[ {f(x) + g(x)} \\right]{\\rm{d}}x} \\] bằng",
+      "options": [
+        "A. \\( - 1\\).",
+        "B. \\(6\\).",
+        "C. \\(1\\).",
+        "D. \\(5\\)."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng:D \\(\\int\\limits_1^2 {\\left[ {f(x) + g(x)} \\right]{\\rm{d}}x} \\)\\( = \\int\\limits_1^2 {f(x){\\rm{d}}x} + \\int\\limits_1^2 {g(x){\\rm{d}}x} \\)\\( = 3 + 2 = 5\\)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hàm số \\(y = f\\left( x \\right)\\) có đạo hàm liên tục trên \\(\\left[ {0;2} \\right]\\), \\(f\\left( 0 \\right) = 1\\) và \\(\\int\\limits_0^2 {f'\\left( x \\right){\\rm{d}}x = - 3} \\).Tính \\(f\\left( 2 \\right).\\)",
+      "options": [
+        "A. \\(f\\left( 2 \\right) = - 4\\).",
+        "B. \\(f\\left( 2 \\right) = - 2\\).",
+        "C. \\(f\\left( 2 \\right) = 4\\).",
+        "D. \\(f\\left( 2 \\right) = - 3\\)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng:B Ta có:\\(\\int\\limits_0^2 {f'\\left( x \\right){\\rm{d}}x = - 3} \\Leftrightarrow f\\left( 2 \\right) - f\\left( 0 \\right) = - 3 \\Leftrightarrow f\\left( 2 \\right) = - 3 + f\\left( 0 \\right) = - 3 + 1 = - 2\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Diện tích hình phẳng được giới hạn bởi đồ thị hàm số \\(y = f\\left( x \\right)\\), trục hoành, trục tung và đường thẳng \\(x = a\\), \\(a > 0\\)(phần tô đậm trong hình vẽ) được tính theo công thức",
+      "options": [
+        "A. \\(S = \\int\\limits_0^c {f\\left( x \\right){\\rm{d}}x} - \\int\\limits_a^c {f\\left( x \\right){\\rm{d}}x} \\).",
+        "B. \\(S = - \\int\\limits_0^a {f\\left( x \\right){\\rm{d}}x} \\).",
+        "C. \\(S = - \\int\\limits_0^c {f\\left( x \\right){\\rm{d}}x} + \\int\\limits_a^c {f\\left( x \\right){\\rm{d}}x} \\).",
+        "D. \\(S = \\int\\limits_0^c {f\\left( x \\right){\\rm{d}}x} + \\int\\limits_a^c {f\\left( x \\right){\\rm{d}}x} \\)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng:A Diện tích hình phẳng: \\[S = \\int\\limits_0^a {\\left| {f\\left( x \\right)} \\right|{\\rm{d}}x} = \\int\\limits_0^c {\\left| {f\\left( x \\right)} \\right|{\\rm{d}}x} + \\int\\limits_c^a {\\left| {f\\left( x \\right)} \\right|{\\rm{d}}x} = \\int\\limits_0^c {f\\left( x \\right){\\rm{d}}x} - \\int\\limits_a^c {f\\left( x \\right){\\rm{d}}x} \\]."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho hình phẳng\\(\\left( H \\right)\\) giới hạn bởi đồ thị hàm số \\[y = {x^2} - 4x\\], trục hoành và hai đường thẳng \\[x = 1\\] và \\[x = 3\\]. Khối tròn xoay được tạo thành khi quay hình phẳng \\(\\left( H \\right)\\) quanh trục \\[Ox\\] có thể tích là",
+      "options": [
+        "A. \\(V = \\frac{{406}}{{15}}\\).",
+        "B. \\(V = \\frac{{406}}{{15}}\\pi \\).",
+        "C. \\(V = \\frac{{22}}{3}\\pi \\).",
+        "D. \\(V = \\frac{{512}}{{15}}\\pi \\)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng:B Khối tròn xoay được tạo thành khi quay hình phẳng \\(\\left( H \\right)\\) quanh trục \\[Ox\\] có thể tích là \\(V = \\pi \\int\\limits_1^3 {{{\\left( {{x^2} - 4x} \\right)}^2}} {\\rm{d}}x = \\frac{{406}}{{15}}\\pi \\)."
+    }
+  ]
+}

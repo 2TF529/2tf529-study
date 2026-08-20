@@ -1,0 +1,196 @@
+{
+  "id": "l12-toan-totnghiep-2026-de-kscl-thpt-toan-truong-thpt-bai-chay-tinh-quang-ninh-2026-lan-1",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "code": "THPT_TTT_2026_QN_01",
+  "title": "Đề khảo sát chất lượng THPT môn Toán trường THPT Bãi Cháy Sở GD&ĐT Quảng Ninh năm 2026 - Lần 1",
+  "duration": 90,
+  "answerSource": "official",
+  "source": "https://dolthpt.vn/tot-nghiep-thpt/pdf-de-kscl-thpt-toan-truong-thpt-bai-chay-tinh-quang-ninh-2026-lan-1-co-dap-an",
+  "notes": "Nội dung, đáp án và lời giải được nhập từ bản công khai của DOL THPT.",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "content": "Cho hàm số $y=f(x)$ có bảng biến thiên như hình vẽ dưới đây. Đồ thị hàm số $y=f(x)$ có bao nhiêu đường tiệm cận?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-kscl-thpt-toan-truong-thpt-bai-chay-tinh-quang-ninh-2026-lan-1/cau-01.webp\" alt=\"Hình minh họa câu 1\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "bài tập cuối chương 1",
+      "type": "single",
+      "options": [
+        "A. \\$2$",
+        "B. \\$3$",
+        "C. \\$1$",
+        "D. \\$4$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Bảng biến thiên của hàm số $y=f(x)$ với các mốc $x=-\\infty,;1,;2,;+\\infty$.\n- Khi $x \\to 1^-$ thì $y \\to -\\infty$, và khi $x \\to 1^+$ thì $y \\to +\\infty$.\n- Khi $x \\to -\\infty$ thì $y \\to -1$.\n- Khi $x \\to +\\infty$ thì $y \\to 2$.\n- Tại $x=2$ có $y'=0$ và giá trị $y=1$ (điểm cực trị), nhưng không có dấu hiệu “vô cực”.\n❓ **Hiểu câu hỏi:**\n- Cần tìm số **đường tiệm cận** của đồ thị $y=f(x)$.\n- Học sinh cần dùng kiến thức về: - Tiệm cận đứng: khi $x \\to a$ mà $y \\to \\pm\\infty$ thì $x=a$ là tiệm cận đứng.\n  - Tiệm cận ngang: khi $x \\to \\pm\\infty$ mà $y \\to L$ thì $y=L$ là tiệm cận ngang.\n🔎 **Hướng dẫn cách làm:**\n- Xét tiệm cận đứng: từ bảng thấy khi $x \\to 1^-$ thì $y \\to -\\infty$ và $x \\to 1^+$ thì $y \\to +\\infty$ nên có tiệm cận đứng $x=1$.\n- Xét tiệm cận ngang bên trái: khi $x \\to -\\infty$ thì $y \\to -1$ nên có tiệm cận ngang $y=-1$.\n- Xét tiệm cận ngang bên phải: khi $x \\to +\\infty$ thì $y \\to 2$ nên có tiệm cận ngang $y=2$.\n- Tại $x=2$ chỉ là điểm cực trị (vì $y'=0$), không tạo tiệm cận.\n✅ **Đáp án:** Có \\$3$ đường tiệm cận (gồm $x=1,; y=-1,; y=2$). Chọn **B**."
+    },
+    {
+      "id": 2,
+      "content": "Cho hình chóp $S.ABC$ có cạnh bên $SA\\perp(ABC)$. Góc tạo bởi $SB$ và mặt phẳng $(ABC)$ là góc",
+      "chuong": "quan hệ vuông góc trong không gian",
+      "dang": "góc giữa đường thẳng và mặt phẳng",
+      "type": "single",
+      "options": [
+        "A. $\\widehat{SBC}$",
+        "B. $\\widehat{SAB}$",
+        "C. $\\widehat{SBA}$",
+        "D. $\\widehat{SCA}$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hình chóp $S.ABC$.\n- Cạnh bên $SA \\perp (ABC)$ (tức $A$ là hình chiếu vuông góc của $S$ xuống mặt phẳng đáy).\n- Cần xét **góc tạo bởi** đường thẳng $SB$ và mặt phẳng $(ABC)$.\n❓ **Hiểu câu hỏi:**\n- Góc giữa một đường thẳng và một mặt phẳng bằng góc giữa đường thẳng đó và **hình chiếu vuông góc** của nó trên mặt phẳng.\n- Vì vậy, ta cần tìm hình chiếu của $SB$ lên $(ABC)$ rồi lấy góc giữa $SB$ và hình chiếu đó.\n🔎 **Hướng dẫn cách làm:**\n- Do $SA \\perp (ABC)$ nên hình chiếu vuông góc của điểm $S$ lên $(ABC)$ chính là $A$.\n- Điểm $B$ đã nằm sẵn trên mặt phẳng $(ABC)$ nên hình chiếu của $B$ vẫn là $B$.\n- Vậy hình chiếu của đoạn/đường thẳng $SB$ lên $(ABC)$ là đường thẳng $AB$.\n- Góc giữa $SB$ và $(ABC)$ là góc giữa $SB$ và $AB$, tức là góc $\\widehat{SBA}$.\n✅ **Đáp án:** $\\widehat{SBA}$ (chọn **C**)."
+    },
+    {
+      "id": 3,
+      "content": "Trong không gian $Oxyz$, cho hai điểm $A(2;1;3),\\ B(1;-1;5)$. Độ dài đoạn thẳng $AB$ là",
+      "chuong": "vectơ và hệ trục tọa độ trong không gian",
+      "dang": "bài tập cuối chương 2",
+      "type": "single",
+      "options": [
+        "A. \\$9$",
+        "B. \\$6$",
+        "C. \\$4$",
+        "D. \\$3$"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Trong không gian $Oxyz$ có hai điểm $A(2;1;3)$ và $B(1;-1;5)$.\n- Hỏi độ dài đoạn thẳng $AB$.\n❓ **Hiểu câu hỏi:**\n- Cần tính khoảng cách giữa hai điểm trong không gian.\n- Áp dụng công thức khoảng cách: nếu $A(x_1,y_1,z_1);B(x_2,y_2,z_2)$ thì\n$AB=\\sqrt{(x_2-x_1)^2+(y_2-y_1)^2+(z_2-z_1)^2}.$\n🔎 **Hướng dẫn cách làm:**\n- Tính các hiệu tọa độ:\n$x_B-x_A=1-2=-1,$\n$y_B-y_A=-1-1=-2,$\n$z_B-z_A=5-3=2.$\n- Thay vào công thức:\n$AB=\\sqrt{(-1)^2+(-2)^2+2^2}=\\sqrt{1+4+4}=\\sqrt{9}=3.$\n✅ **Đáp án:** \\$3$ (chọn **D**)."
+    },
+    {
+      "id": 4,
+      "content": "Cho cấp số cộng $(u_n)$ có $u_1=5,\\ u_{12}=38$ thì công sai $d$ là",
+      "chuong": "dãy số. cấp số cộng và cấp số nhân",
+      "dang": "số hạng tổng quát của cấp số cộng",
+      "type": "single",
+      "options": [
+        "A. $d=3$",
+        "B. $d=4$",
+        "C. $d=1$",
+        "D. $d=2$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cấp số cộng $(u_n)$.\n- $u_1=5$, $u_{12}=38$.\n- Hỏi công sai $d$.\n❓ **Hiểu câu hỏi:**\n- Cần tìm công sai của cấp số cộng.\n- Dùng công thức số hạng tổng quát:\n$u_n=u_1+(n-1)d.$\n🔎 **Hướng dẫn cách làm:**\n- Thay $n=12$ vào công thức: $u_{12}=u_1+(12-1)d=5+11d.$\n- Theo đề bài: \\$5+11d=38.$\n- Chuyển vế và giải: \\$11d=38-5=33 \\Rightarrow d=\\frac{33}{1}1}=3.$\n✅ **Đáp án:** $d=3$ (chọn **A**)."
+    },
+    {
+      "id": 5,
+      "content": "Tích của giá trị nhỏ nhất và giá trị lớn nhất của hàm số $y=x+\\dfrac{4}{x}$ trên đoạn $[1;3]$ bằng",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "cách tìm giá trị lớn nhất và giá trị nhỏ nhất của hàm số trên một đoạn",
+      "type": "single",
+      "options": [
+        "A. \\$6$",
+        "B. $\\dfrac{52}{3}$",
+        "C. $\\dfrac{65}{3}$",
+        "D. \\$20$"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số $y=x+\\frac{4}{x}$ trên đoạn $[1;3]$.\n- Yêu cầu: tính **tích** của giá trị nhỏ nhất và giá trị lớn nhất của hàm số trên đoạn đó.\n❓ **Hiểu câu hỏi:**\n- Cần tìm $y_{\\min}$ và $y_{\\max}$ của hàm số trên đoạn $[1;3]$.\n- Dùng kiến thức tìm GTLN–GTNN bằng đạo hàm: xét các điểm tới hạn trong đoạn và hai đầu mút.\n🔎 **Hướng dẫn cách làm:**\n- Xét hàm $f(x)=x+\\frac{4}{x}$ với $x\\in[1,3].$\n- Tính đạo hàm: $f'(x)=1-\\frac{4}{x^}2}.$\n- Tìm điểm tới hạn:\n$f'(x)=0 \\Rightarrow 1-\\frac{4}{x^}2}=0 \\Rightarrow x^2=4 \\Rightarrow x=2$ (vì $x>0$).\n- Tính giá trị hàm tại các điểm cần xét $x=1,2,3$:\n$f(1)=1+\\frac{4}{1}=5,$\n$f(2)=2+\\frac{4}{2}=4,$\n$f(3)=3+\\frac{4}{3}=\\frac{13}{3}.$\n- So sánh: $y_{\\min}=4 \\text{ (tại } x=2\\text{)},\\quad y_{\\max}=5 \\text{ (tại } x=1\\text{)}.$\n- Tính tích: $y_{\\min}\\cdot y_{\\max}=4\\cdot 5=20.$\n✅ **Đáp án:** \\$20$ (chọn **D**)."
+    },
+    {
+      "id": 6,
+      "content": "Trong không gian $Oxyz$, côsin của góc giữa hai vectơ $\\overrightarrow{u}=(10;10;20),\\ \\overrightarrow{v}=(10;-20;10)$ là",
+      "chuong": "vectơ và hệ trục tọa độ trong không gian",
+      "dang": "bài tập cuối chương 2",
+      "type": "single",
+      "options": [
+        "A. $\\dfrac{1}{6}$",
+        "B. $-\\dfrac{1}{6}$",
+        "C. $\\dfrac{1}{2}$",
+        "D. $-\\dfrac{1}{2}$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Trong không gian $Oxyz$ có hai vectơ $\\vec u=(10;10;20),\\quad \\vec v=(10;-20;10).$\n- Hỏi cosin của góc giữa $\\vec u$ và $\\vec v$.\n❓ **Hiểu câu hỏi:**\n- Cần tính $\\cos\\widehat{(\\vec u,\\vec v)}$.\n- Áp dụng công thức: $\\cos\\widehat{(\\vec u,\\vec v)}=\\frac{\\vec u\\cdot\\vec v}{|\\vec u|;|\\vec v}|}.$\n🔎 **Hướng dẫn cách làm:**\n- Tính tích vô hướng: $\\vec u\\cdot \\vec v=10\\cdot 10+10\\cdot(-20)+20\\cdot 10=100-200+200=100.$\n- Tính độ dài từng vectơ:\n$|\\vec u|=\\sqrt{10^2+10^2+20^2}=\\sqrt{100+100+400}=\\sqrt{600}=10\\sqrt6,$\n$|\\vec v|=\\sqrt{10^2+(-20)^2+10^2}=\\sqrt{100+400+100}=\\sqrt{600}=10\\sqrt6.$\n- Thay vào công thức cos:\n$\\cos\\widehat{(\\vec u,\\vec v)}=\\frac{100}{(10\\sqrt6)(10\\sqrt6})}=\\frac{100}{100\\cdot}6}=\\frac{1}{6}.$\n✅ **Đáp án:** $\\frac{1}{6}$ (chọn **A**)."
+    },
+    {
+      "id": 7,
+      "content": "Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình bình hành tâm $O$ (tham khảo hình vẽ). Khẳng định nào dưới đây đúng?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-kscl-thpt-toan-truong-thpt-bai-chay-tinh-quang-ninh-2026-lan-1/cau-07.webp\" alt=\"Hình minh họa câu 7\" loading=\"lazy\"></figure>",
+      "chuong": "vectơ và hệ trục tọa độ trong không gian",
+      "dang": "tổng và hiệu của hai vectơ trong không gian",
+      "type": "single",
+      "options": [
+        "A. $\\overrightarrow{SA}+\\overrightarrow{SB}=2\\overrightarrow{SO}$",
+        "B. $\\overrightarrow{SB}+\\overrightarrow{SD}=\\overrightarrow{SO}$",
+        "C. $\\overrightarrow{SA}+\\overrightarrow{SC}=2\\overrightarrow{SO}$",
+        "D. $\\overrightarrow{SA}+\\overrightarrow{SB}+\\overrightarrow{SC}+\\overrightarrow{SD}=2\\overrightarrow{SO}$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hình chóp $S.ABCD$, đáy $ABCD$ là hình bình hành.\n- $O$ là tâm hình bình hành (giao điểm hai đường chéo) nên $O$ là trung điểm của $AC$ và $BD$.\n- Các lựa chọn: - A. $\\overrightarrow{SA}+\\overrightarrow{SB}=2\\overrightarrow{SO}$\n  - B. $\\overrightarrow{SB}+\\overrightarrow{SD}=\\overrightarrow{SO}$\n  - C. $\\overrightarrow{SA}+\\overrightarrow{SC}=2\\overrightarrow{SO}$\n  - D. $\\overrightarrow{SA}+\\overrightarrow{SB}+\\overrightarrow{SC}+\\overrightarrow{SD}=2\\overrightarrow{SO}$\n❓ **Hiểu câu hỏi:**\n- Chọn khẳng định vectơ đúng.\n- Dùng kiến thức: phân tích vectơ theo điểm trung gian $O$ và tính chất trung điểm trong hình bình hành.\n🔎 **Hướng dẫn cách làm:**\n- Vì $O$ là trung điểm của $AC$ nên:$\\overrightarrow{OA}+\\overrightarrow{OC}=\\overrightarrow{0}.$\n- Phân tích vectơ theo $O$: $\\overrightarrow{SA}=\\overrightarrow{SO}+\\overrightarrow{OA},\\qquad \\overrightarrow{SC}=\\overrightarrow{SO}+\\overrightarrow{OC}.$\n- Cộng hai đẳng thức trên: $\\overrightarrow{SA}+\\overrightarrow{SC}=(\\overrightarrow{SO}+\\overrightarrow{OA})+(\\overrightarrow{SO}+\\overrightarrow{OC})=2\\overrightarrow{SO}+(\\overrightarrow{OA}+\\overrightarrow{OC}).$\n- Thay $\\overrightarrow{OA}+\\overrightarrow{OC}=\\overrightarrow{0}$ vào được: $\\overrightarrow{SA}+\\overrightarrow{SC}=2\\overrightarrow{SO}.$\n- Vậy mệnh đề đúng là phương án C.\n✅ **Đáp án:** **C**. $\\overrightarrow{SA}+\\overrightarrow{SC}=2\\overrightarrow{SO}.$"
+    },
+    {
+      "id": 8,
+      "content": "Tập xác định của hàm số $y=\\dfrac{2025}{\\sqrt{2}\\sin\\left(x-\\dfrac{\\pi}{4}\\right)}$ là",
+      "chuong": "hàm số lượng giác và phương trình lượng giác",
+      "dang": "định nghĩa hàm số lượng giác",
+      "type": "single",
+      "options": [
+        "A. $D=\\mathbb{R}\\setminus\\left\\lbrace\\dfrac{k\\pi}{4}\\mid k\\in\\mathbb{Z}\\right\\rbrace$",
+        "B. $D=\\mathbb{R}\\setminus\\left\\lbrace\\dfrac{\\pi}{4}+k\\pi\\mid k\\in\\mathbb{Z}\\right\\rbrace$",
+        "C. $D=\\mathbb{R}\\setminus\\lbrace\\left.\\dfrac{\\pi}{4}+k2\\pi\\mid k\\in\\mathbb{Z}\\right.\\rbrace$",
+        "D. $D=\\mathbb{R}\\setminus\\left\\lbrace\\dfrac{\\pi}{4}+\\dfrac{k\\pi}{2}\\mid k\\in\\mathbb{Z}\\right\\rbrace$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số: $y=\\dfrac{2025}{\\sqrt{2}\\sin\\left(x-\\dfrac{\\pi}{4}\\right)}.$\n- Các đáp án cho tập xác định đều ở dạng loại các giá trị làm mẫu số bằng \\$0$.\n❓ **Hiểu câu hỏi:**\n- Tìm tập xác định $D$ của hàm số.\n- Kiến thức cần dùng: phân thức xác định khi mẫu số $\\ne 0$, và $\\sin t=0 \\Leftrightarrow t=k\\pi,k\\in\\mathbb{Z}$.\n🔎 **Hướng dẫn cách làm:**\n- Điều kiện xác định: $\\sqrt{2}\\sin\\left(x-\\frac{\\pi}{4}\\right)\\ne 0 \\Leftrightarrow \\sin\\left(x-\\frac{\\pi}{4}\\right)\\ne 0.$\n- Giải phương trình mẫu bằng 0 để loại: $\\sin\\left(x-\\frac{\\pi}{4}\\right)=0 \\Leftrightarrow x-\\frac{\\pi}{4}=k\\pi \\ (k\\in\\mathbb{Z}).$\n- Suy ra các giá trị cần loại: $x=\\frac{\\pi}{4}+k\\pi \\ (k\\in\\mathbb{Z}).$\n- Vậy tập xác định là: $D=\\mathbb{R}\\setminus\\left\\lbrace\\frac{\\pi}{4}+k\\pi\\mid k\\in\\mathbb{Z}.\\right\\rbrace$\n✅ **Đáp án:** **B**. $D=\\mathbb{R}\\setminus\\left\\lbrace\\frac{\\pi}{4}+k\\pi\\mid k\\in\\mathbb{Z}.\\right\\rbrace$"
+    },
+    {
+      "id": 9,
+      "content": "Thời gian truy cập internet mỗi buổi tối của một số học sinh lớp 12 được cho trong bảng sau:. Số trung vị $M_e$ của mẫu số liệu ghép nhóm này là\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-kscl-thpt-toan-truong-thpt-bai-chay-tinh-quang-ninh-2026-lan-1/cau-09.webp\" alt=\"Hình minh họa câu 9\" loading=\"lazy\"></figure>",
+      "chuong": "các số đặc trưng đo xu thế trung tâm của mẫu số liệu ghép nhóm",
+      "dang": "trung vị của mẫu số liệu ghép nhóm",
+      "type": "single",
+      "options": [
+        "A. \\$18$",
+        "B. \\$18{,}1$",
+        "C. \\$18{,}2$",
+        "D. \\$18{,}3$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Bảng tần số ghép nhóm (thời gian phút): - $[9{,}5;12{,}5):3$ học sinh\n  - $[12{,}5;15{,}5):12$ học sinh\n  - $[15{,}5;18{,}5):15$ học sinh\n  - $[18{,}5;21{,}5):24$ học sinh\n  - $[21{,}5;24{,}5):2$ học sinh\n- Độ rộng mỗi lớp: $h=12{,}5-9{,}5=3.$\n❓ **Hiểu câu hỏi:**\n- Tìm số trung vị $M_e$ của mẫu số liệu ghép nhóm.\n- Áp dụng công thức trung vị cho số liệu ghép nhóm:$M_e=L+\\frac{\\frac{N}{2}-F}{f}\\cdot h,$\ntrong đó: - $N$: tổng số quan sát\n  - $L$: cận dưới lớp chứa trung vị\n  - $F$: tần số tích lũy trước lớp chứa trung vị\n  - $f$: tần số của lớp chứa trung vị\n  - $h$: độ rộng lớp\n🔎 **Hướng dẫn cách làm:**\n- Tính tổng số học sinh: $N=3+12+15+24+2=56 \\Rightarrow \\frac{N}{2}=28.$\n- Tính tần số tích lũy: - Sau lớp 1: \\$3$\n  - Sau lớp 2: \\$3+12=15$\n  - Sau lớp 3: \\$15+15=30$\n- Vì \\$15<28\\le 30$ nên lớp chứa trung vị là $[15{,}5;18{,}5)$.\nDo đó: $L=15{,}5;F=15;f=15;h=3.$\n- Thế vào công thức: $M_e=15{,}5+\\frac{28-15}{1}5}\\cdot 3=15{,}5+\\frac{13}{1}5}\\cdot 3=15{,}5+2{,}6=18{,}1.$\n✅ **Đáp án:** \\$18{,}1$ (chọn **B**)."
+    },
+    {
+      "id": 10,
+      "content": "Cho hàm số $y=f(x)$ có đồ thị như hình vẽ dưới đây. Tiệm cận ngang của đồ thị hàm số là đường thẳng có phương trình\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-kscl-thpt-toan-truong-thpt-bai-chay-tinh-quang-ninh-2026-lan-1/cau-10.webp\" alt=\"Hình minh họa câu 10\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "đường tiệm cận ngang",
+      "type": "single",
+      "options": [
+        "A. $x=-\\dfrac{1}{2}$",
+        "B. $x=1$",
+        "C. $y=-\\dfrac{1}{2}$",
+        "D. $y=1$"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cho đồ thị hàm số $y=f(x)$ như hình.\n- Hỏi **tiệm cận ngang** của đồ thị.\n- Các đáp án: - A. $x=-\\dfrac{1}{2}$\n  - B. $x=1$\n  - C. $y=-\\dfrac{1}{2}$\n  - D. $y=1$\n❓ **Hiểu câu hỏi:**\n- Tiệm cận ngang là đường thẳng dạng $y=a$ sao cho khi $x\\to +\\infty$ hoặc $x\\to -\\infty$ thì $f(x)\\to a$.\n- Nói cách khác: nhìn “về hai phía xa” của đồ thị xem nó tiến sát đường thẳng ngang nào.\n🔎 **Hướng dẫn cách làm:**\n- Quan sát đồ thị khi $x\\to +\\infty$: nhánh bên phải tiến sát một đường thẳng ngang màu xanh nằm ở mức $y=1$.\n- Quan sát khi $x\\to -\\infty$: nhánh bên trái cũng tiến dần tới chính đường thẳng ngang đó.\n- Vậy tiệm cận ngang của đồ thị là: $y=1.$\n✅ **Đáp án:** **D**. $y=1.$"
+    },
+    {
+      "id": 11,
+      "content": "Một khối chóp có đường cao $h=3a$ và diện tích đáy $B=a^2$. Thể tích khối chóp đó bằng",
+      "chuong": "quan hệ vuông góc trong không gian",
+      "dang": "thể tích",
+      "type": "single",
+      "options": [
+        "A. $\\dfrac{a^3}{2}$",
+        "B. \\$3a^3$",
+        "C. $\\dfrac{3a^3}{2}$",
+        "D. $a^3$"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Khối chóp có đường cao $h=3a$.\n- Diện tích đáy $B=a^2$.\n- Hỏi thể tích khối chóp.\n❓ **Hiểu câu hỏi:**\n- Cần tính thể tích khối chóp khi biết diện tích đáy và chiều cao.\n- Áp dụng công thức thể tích khối chóp: $V=\\frac{1}{3}Bh.$\n🔎 **Hướng dẫn cách làm:**\n- Thay $B=a^2$ và $h=3a$ vào công thức:$V=\\frac{1}{3}\\cdot a^2 \\cdot 3a.$\n- Rút gọn: $V=a^3.$\n✅ **Đáp án:** **D**. $a^3.$"
+    },
+    {
+      "id": 12,
+      "content": "Mỗi ngày bác Minh đều đi bộ để rèn luyện sức khỏe. Quãng đường đi bộ mỗi ngày (đơn vị: $km$) của bác Minh trong \\$20$ ngày được thống kê lại ở bảng sau:Tứ phân vị thứ nhất $Q_1$ của mẫu số liệu thuộc nhóm nào sau đây?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-kscl-thpt-toan-truong-thpt-bai-chay-tinh-quang-ninh-2026-lan-1/cau-12.webp\" alt=\"Hình minh họa câu 12\" loading=\"lazy\"></figure>",
+      "chuong": "các số đặc trưng đo xu thế trung tâm của mẫu số liệu ghép nhóm",
+      "dang": "tứ phân vị của mẫu số liệu ghép nhóm",
+      "type": "single",
+      "options": [
+        "A. $[3{,}0;3{,}3)$",
+        "B. $[2{,}7;3{,}0)$",
+        "C. $[3{,}6;3{,}9)$",
+        "D. $[3{,}3;3{,}6)$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Bảng tần số (20 ngày) theo các nhóm quãng đường (km): - $[2{,}7;3{,}0):3$ ngày\n  - $[3{,}0;3{,}3):6$ ngày\n  - $[3{,}3;3{,}6):5$ ngày\n  - $[3{,}6;3{,}9):4$ ngày\n  - $[3{,}9;4{,}2):2$ ngày\n- Tổng số ngày: $N=20$.\n❓ **Hiểu câu hỏi:**\n- Hỏi tứ phân vị thứ nhất $Q_1$ **thuộc nhóm nào**.\n- Kiến thức cần dùng: vị trí của $Q_1$ là quan sát thứ $\\frac{N}{4}.$\n- Sau đó dùng tần số tích lũy để xác định nhóm chứa vị trí đó.\n🔎 **Hướng dẫn cách làm:**\n- Tính vị trí của $Q_1$: $\\frac{N}{4}=\\frac{20}{4}=5.$\nNghĩa là $Q_1$ nằm ở quan sát thứ 5 khi sắp tăng dần.\n- Tính tần số tích lũy: - Hết nhóm $[2{,}7;3{,}0)$: \\$3$ (chưa tới 5)\n  - Hết nhóm $[3{,}0;3{,}3)$: \\$3+6=9$ (đã vượt 5)\n- Vì \\$3<5\\le 9$ nên quan sát thứ 5 nằm trong nhóm $[3{,}0;3{,}3)$.\n✅ **Đáp án:** **A**. $Q_1$ thuộc nhóm $[3{,}0;3{,}3).$"
+    }
+  ]
+}

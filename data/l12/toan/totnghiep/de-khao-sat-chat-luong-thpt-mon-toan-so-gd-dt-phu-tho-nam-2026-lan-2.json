@@ -1,0 +1,196 @@
+{
+  "id": "l12-toan-totnghiep-2026-de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-phu-tho-nam-2026-lan-2",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "code": "THPT_TKT_2026_PT_02",
+  "title": "Đề khảo sát chất lượng THPT môn Toán Sở GD&ĐT Phú Thọ năm 2026 - Lần 2",
+  "duration": 90,
+  "answerSource": "official",
+  "source": "https://dolthpt.vn/tot-nghiep-thpt/pdf-de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-phu-tho-nam-2026-lan-2-co-dap-an",
+  "notes": "Nội dung, đáp án và lời giải được nhập từ bản công khai của DOL THPT.",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "content": "Lâm trường Tam Đảo thống kê đường kính thân gỗ của \\$60$ cây xoan đào được cho ở bảng sau:\nNhóm chứa mốt của mẫu số liệu đã cho là\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-phu-tho-nam-2026-lan-2/cau-01.webp\" alt=\"Hình minh họa câu 1\" loading=\"lazy\"></figure>",
+      "chuong": "các số đặc trưng đo xu thế trung tâm của mẫu số liệu ghép nhóm",
+      "dang": "mốt của mẫu số liệu ghép nhóm",
+      "type": "single",
+      "options": [
+        "A. $[20;22)$.",
+        "B. $[28;30)$.",
+        "C. $[24;26)$.",
+        "D. $[22;24)$."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Bảng tần số cho các lớp đường kính là $[20;22), [22;24), [24;26), [26;28), [28;30)$.\n- Các tần số tương ứng là \\$5, 20, 18, 7, 10$.\n❓ **Hiểu câu hỏi:**\n- Cần tìm nhóm chứa mốt của mẫu số liệu.\n- Với bảng tần số ghép lớp, nhóm chứa mốt là lớp có tần số lớn nhất.\n🔎 **Hướng dẫn cách làm:**\n- So sánh các tần số trong bảng.\n- Ta thấy tần số lớn nhất là \\$20$.\n- Vậy nhóm ứng với tần số lớn nhất là $[22;24)$.\n✅ **Đáp án:** Chọn D. $[22;24)$."
+    },
+    {
+      "id": 2,
+      "content": "Một hộp có \\$5$ viên bi màu đỏ và \\$7$ viên bi màu xanh. Lấy ngẫu nhiên \\$2$ viên bi từ hộp đó. Xác suất để lấy được \\$2$ viên bi màu đỏ bằng",
+      "chuong": "các quy tắc tính xác suất",
+      "dang": "biến cố giao",
+      "type": "single",
+      "options": [
+        "A. $\\dfrac{5}{33}$.",
+        "B. $\\dfrac{5}{22}$.",
+        "C. $\\dfrac{2}{33}$.",
+        "D. $\\dfrac{7}{22}$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hộp có \\$5$ viên đỏ và \\$7$ viên xanh, tổng cộng \\$12$ viên.\n- Lấy ngẫu nhiên \\$2$ viên.\n❓ **Hiểu câu hỏi:**\n- Cần tính xác suất lấy được đúng \\$2$ viên đỏ.\n- Dùng công thức xác suất bằng số cách thuận lợi chia cho số cách chọn bất kỳ.\n🔎 **Hướng dẫn cách làm:**\n- Số cách chọn \\$2$ viên bất kỳ là $\\mathrm{C}_{12}^{2}$.\n- Số cách chọn \\$2$ viên đỏ là $\\mathrm{C}_{5}^{2}$.\n- Do đó $P=\\dfrac{\\mathrm{C}_{5}^{2}}{\\mathrm{C}_{12}^{2}}=\\dfrac{10}{66}=\\dfrac{5}{33}$.\n✅ **Đáp án:** Chọn A. $\\dfrac{5}{33}$."
+    },
+    {
+      "id": 3,
+      "content": "Trong không gian $Oxyz$, đường thẳng đi qua hai điểm $A(1;2;3),\\,B(5;4;-1)$ có phương trình chính tắc là",
+      "chuong": "phương pháp tọa độ trong không gian",
+      "dang": "phương trình đường thẳng",
+      "type": "single",
+      "options": [
+        "A. $\\dfrac{x+1}{2}=\\dfrac{y+2}{1}=\\dfrac{z+3}{-2}$.",
+        "B. $\\dfrac{x-1}{2}=\\dfrac{y-2}{1}=\\dfrac{z-3}{2}$.",
+        "C. $\\dfrac{x+5}{-2}=\\dfrac{y+4}{-1}=\\dfrac{z-1}{2}$.",
+        "D. $\\dfrac{x-5}{2}=\\dfrac{y-4}{1}=\\dfrac{z+1}{-2}$."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Đường thẳng đi qua $A(1;2;3)$ và $B(5;4;-1)$.\n- Muốn viết phương trình chính tắc, ta cần một vectơ chỉ phương.\n❓ **Hiểu câu hỏi:**\n- Cần tìm vectơ $\\overrightarrow{AB}$ rồi viết phương trình đường thẳng.\n- Phương trình chính tắc có dạng $\\dfrac{x-x_0}{a}=\\dfrac{y-y_0}{b}=\\dfrac{z-z_0}{c}$.\n🔎 **Hướng dẫn cách làm:**\n- Ta có $\\overrightarrow{AB}=(5-1;4-2;-1-3)=(4;2;-4)=2(2;1;-2)$.\n- Lấy điểm $B(5;4;-1)$ và vectơ chỉ phương $(2;1;-2)$.\n- Suy ra phương trình chính tắc là $\\dfrac{x-5}{2}=\\dfrac{y-4}{1}=\\dfrac{z+1}{-2}$.\n✅ **Đáp án:** Chọn D. $\\dfrac{x-5}{2}=\\dfrac{y-4}{1}=\\dfrac{z+1}{-2}$."
+    },
+    {
+      "id": 4,
+      "content": "Cho $\\int_{2}^{5} f(x)\\,dx=2$ và $\\int_{2}^{5} g(x)\\,dx=5$. Giá trị của tích phân $\\int_{2}^{5}[f(x)-2g(x)]\\,dx$ bằng",
+      "chuong": "nguyên hàm và tích phân",
+      "dang": "tính chất của tích phân",
+      "type": "single",
+      "options": [
+        "A. $-8$.",
+        "B. \\$12$.",
+        "C. \\$1$.",
+        "D. $-3$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Biết $\\int_{2}^{5} f(x)\\,dx=2$ và $\\int_{2}^{5} g(x)\\,dx=5$.\n- Cần tính $\\int_{2}^{5}[f(x)-2g(x)]\\,dx$.\n❓ **Hiểu câu hỏi:**\n- Dùng tính tuyến tính của tích phân.\n- Ta có $\\int [f(x)-2g(x)]\\,dx=\\int f(x)\\,dx-2\\int g(x)\\,dx$ trên cùng cận.\n🔎 **Hướng dẫn cách làm:**\n- Áp dụng tính chất, ta được $\\int_{2}^{5}[f(x)-2g(x)]\\,dx=\\int_{2}^{5} f(x)\\,dx-2\\int_{2}^{5} g(x)\\,dx$.\n- Thay số vào: \\$2-2\\cdot 5$.\n- Kết quả bằng $-8$.\n✅ **Đáp án:** Chọn A. $-8$."
+    },
+    {
+      "id": 5,
+      "content": "Biết phương trình $\\sqrt{2x^2+x+3}=1-x$ có hai nghiệm phân biệt $x_1; x_2$. Tổng $x_1+x_2$ bằng",
+      "chuong": "hàm số, đồ thị và ứng dụng",
+      "dang": "phương trình căn dạng 1",
+      "type": "single",
+      "options": [
+        "A. $-3$.",
+        "B. $-1$.",
+        "C. \\$2$.",
+        "D. $-2$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Phương trình là $\\sqrt{2x^2+x+3}=1-x$.\n- Đề cho phương trình có hai nghiệm phân biệt $x_1, x_2$.\n❓ **Hiểu câu hỏi:**\n- Cần tìm tổng $x_1+x_2$.\n- Vì có căn thức nên trước hết phải đặt điều kiện \\$1-x\\ge 0$.\n🔎 **Hướng dẫn cách làm:**\n- Điều kiện là $x\\le 1$.\n- Bình phương hai vế: \\$2x^2+x+3=(1-x)^2=x^2-2x+1$ nên $x^2+3x+2=0$.\n- Giải ra $x=-1$ hoặc $x=-2$, đều thỏa điều kiện. Vậy $x_1+x_2=-3$.\n✅ **Đáp án:** Chọn A. $-3$."
+    },
+    {
+      "id": 6,
+      "content": "Cho cấp số cộng $(u_n)$ có $u_1=-2$ và công sai $d=3$. Giá trị $u_{10}$ bằng",
+      "chuong": "dãy số. cấp số cộng và cấp số nhân",
+      "dang": "số hạng tổng quát của cấp số cộng",
+      "type": "single",
+      "options": [
+        "A. $u_{10}=-2\\cdot 3^9$.",
+        "B. $u_{10}=-29$.",
+        "C. $u_{10}=25$.",
+        "D. $u_{10}=28$."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cấp số cộng có $u_1=-2$ và công sai $d=3$.\n- Cần tìm $u_{10}$.\n❓ **Hiểu câu hỏi:**\n- Dùng công thức số hạng tổng quát của cấp số cộng.\n- Công thức là $u_n=u_1+(n-1)d$.\n🔎 **Hướng dẫn cách làm:**\n- Thay $n=10$ vào công thức, ta có $u_{10}=u_1+9d$.\n- Suy ra $u_{10}=-2+9\\cdot 3$.\n- Tính được $u_{10}=25$.\n✅ **Đáp án:** Chọn C. $u_{10}=25$."
+    },
+    {
+      "id": 7,
+      "content": "Đạo hàm của hàm số $f(x)=\\sin x+\\cos(3x)$ là",
+      "chuong": "đạo hàm",
+      "dang": "đạo hàm của hàm số lượng giác",
+      "type": "single",
+      "options": [
+        "A. $f\\,'(x)=-\\cos x+3\\sin(3x)$.",
+        "B. $f\\,'(x)=\\cos x-3\\sin(3x)$.",
+        "C. $f\\,'(x)=\\cos x+3\\sin(3x)$.",
+        "D. $f\\,'(x)=-\\cos x+\\sin(3x)$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số là $f(x)=\\sin x+\\cos(3x)$.\n- Cần tính đạo hàm $f'(x)$.\n❓ **Hiểu câu hỏi:**\n- Dùng công thức đạo hàm của $\\sin x$ và quy tắc dây chuyền cho $\\cos(3x)$.\n- Ta nhớ $\\left(\\sin x\\right)'=\\cos x$ và $\\left(\\cos u\\right)'=-u'\\sin u$.\n🔎 **Hướng dẫn cách làm:**\n- Ta có $\\left(\\sin x\\right)'=\\cos x$.\n- Với $u=3x$ thì $u'=3$, nên $\\left(\\cos(3x)\\right)'=-3\\sin(3x)$.\n- Vậy $f'(x)=\\cos x-3\\sin(3x)$.\n✅ **Đáp án:** Chọn B. $f\\,'(x)=\\cos x-3\\sin(3x)$."
+    },
+    {
+      "id": 8,
+      "content": "Tập nghiệm của bất phương trình $\\log_{\\frac{1}{3}}(2x-1)>-2$ là",
+      "chuong": "hàm số mũ và hàm số lôgarit",
+      "dang": "bất phương trình lôgarit",
+      "type": "single",
+      "options": [
+        "A. $\\left(\\dfrac{1}{2};5\\right)$.",
+        "B. $\\left(\\dfrac{1}{2};+\\infty\\right)$.",
+        "C. $(5;+\\infty)$.",
+        "D. $(-\\infty;5)$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Bất phương trình là $\\log_{\\frac{1}{3}}(2x-1)>-2$.\n- Cơ số $\\dfrac{1}{3}$ nhỏ hơn \\$1$.\n❓ **Hiểu câu hỏi:**\n- Cần tìm tập nghiệm của bất phương trình lôgarit.\n- Phải đặt điều kiện xác định và nhớ rằng với cơ số nhỏ hơn \\$1$ thì khi bỏ log, dấu bất đẳng thức đổi chiều.\n🔎 **Hướng dẫn cách làm:**\n- Điều kiện xác định là \\$2x-1>0$ nên $x>\\dfrac{1}{2}$.\n- Từ $\\log_{\\frac{1}{3}}(2x-1)>-2$ suy ra \\$2x-1<\\left(\\dfrac{1}{3}\\right)^{-2}=9$.\n- Kết hợp với điều kiện, ta được \\$0<2x-1<9$ nên $\\dfrac{1}{2}<x<5$.\n✅ **Đáp án:** Chọn A. $\\left(\\dfrac{1}{2};5\\right)$."
+    },
+    {
+      "id": 9,
+      "content": "Cho hàm số $y=f(x)$ có đạo hàm là $f\\,'(x)=(x-1)(x-2)^2(x+3),\\,\\forall x\\in\\mathbb{R}$. Số điểm cực trị của hàm số đã cho là",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "cực trị của hàm số",
+      "type": "single",
+      "options": [
+        "A. \\$2$.",
+        "B. \\$3$.",
+        "C. \\$1$.",
+        "D. \\$0$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Đạo hàm là $f'(x)=(x-1)(x-2)^2(x+3)$.\n- Điểm cực trị xuất hiện tại nghiệm của $f'(x)$ nơi dấu của đạo hàm đổi.\n❓ **Hiểu câu hỏi:**\n- Cần đếm số điểm cực trị của hàm số.\n- Nghiệm bội chẵn thường không làm đổi dấu đạo hàm.\n🔎 **Hướng dẫn cách làm:**\n- Các nghiệm của $f'(x)=0$ là $x=-3, x=1, x=2$.\n- Trong đó $x=2$ là nghiệm bội \\$2$ nên dấu của $f'(x)$ không đổi khi đi qua điểm này.\n- Đạo hàm chỉ đổi dấu tại $x=-3$ và $x=1$, nên hàm số có \\$2$ điểm cực trị.\n✅ **Đáp án:** Chọn A. \\$2$."
+    },
+    {
+      "id": 10,
+      "content": "Giá trị lớn nhất của hàm số $f(x)=\\dfrac{2x+3}{x-1}$ trên đoạn $[2;5]$ bằng",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "cách tìm giá trị lớn nhất và giá trị nhỏ nhất của hàm số trên một đoạn",
+      "type": "single",
+      "options": [
+        "A. $\\dfrac{13}{4}$.",
+        "B. \\$5$.",
+        "C. \\$7$.",
+        "D. \\$2$."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số là $f(x)=\\dfrac{2x+3}{x-1}$ trên đoạn $[2;5]$.\n- Cần tìm giá trị lớn nhất.\n❓ **Hiểu câu hỏi:**\n- Có thể biến đổi hàm số để xét tính đơn điệu nhanh hơn.\n- Nếu hàm số giảm trên đoạn thì giá trị lớn nhất đạt tại đầu trái của đoạn.\n🔎 **Hướng dẫn cách làm:**\n- Ta viết $f(x)=2+\\dfrac{5}{x-1}$.\n- Trên đoạn $[2;5]$ thì $x-1>0$, nên khi $x$ tăng thì $\\dfrac{5}{x-1}$ giảm. Vậy $f(x)$ giảm trên $[2;5]$.\n- Do đó giá trị lớn nhất đạt tại $x=2$ và bằng $f(2)=7$.\n✅ **Đáp án:** Chọn C. \\$7$."
+    },
+    {
+      "id": 11,
+      "content": "Tập nghiệm của phương trình $\\sin x=0$ là",
+      "chuong": "hàm số lượng giác và phương trình lượng giác",
+      "dang": "phương trình sinx=m",
+      "type": "single",
+      "options": [
+        "A. $S=\\left\\{\\dfrac{\\pi}{2}+k\\pi,\\,k\\in\\mathbb{Z}\\right\\}$.",
+        "B. $S=\\left\\{k\\pi,\\,k\\in\\mathbb{Z}\\right\\}$.",
+        "C. $S=\\left\\{k2\\pi,\\,k\\in\\mathbb{Z}\\right\\}$.",
+        "D. $S=\\left\\{\\pi+k2\\pi,\\,k\\in\\mathbb{Z}\\right\\}$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Phương trình là $\\sin x=0$.\n- Cần tìm tập nghiệm tổng quát.\n❓ **Hiểu câu hỏi:**\n- Dùng kiến thức nghiệm cơ bản của hàm lượng giác.\n- Ta biết $\\sin x=0$ khi và chỉ khi $x=k\\pi$ với $k\\in\\mathbb{Z}$.\n🔎 **Hướng dẫn cách làm:**\n- Áp dụng ngay công thức nghiệm cơ bản của phương trình $\\sin x=0$.\n- Suy ra mọi nghiệm đều có dạng $x=k\\pi$ với $k\\in\\mathbb{Z}$.\n- Vậy tập nghiệm là $S=\\left\\{k\\pi,\\,k\\in\\mathbb{Z}\\right\\}$.\n✅ **Đáp án:** Chọn B. $S=\\left\\{k\\pi,\\,k\\in\\mathbb{Z}\\right\\}$."
+    },
+    {
+      "id": 12,
+      "content": "Cho hình hộp chữ nhật $ABCD.A'B'C'D'$ có $AB=2;\\,AD=3;\\,AA'=6$. Độ dài vectơ $\\overrightarrow{AB}+\\overrightarrow{AD}+\\overrightarrow{AA'}$ bằng",
+      "chuong": "vectơ và hệ trục tọa độ trong không gian",
+      "dang": "tổng và hiệu của hai vectơ trong không gian",
+      "type": "single",
+      "options": [
+        "A. \\$7$.",
+        "B. \\$7\\sqrt{3}$.",
+        "C. \\$11\\sqrt{3}$.",
+        "D. \\$11$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hình hộp chữ nhật có $AB=2, AD=3, AA'=6$.\n- Ba vectơ $\\overrightarrow{AB}, \\overrightarrow{AD}, \\overrightarrow{AA'}$ đôi một vuông góc.\n❓ **Hiểu câu hỏi:**\n- Cần tính độ dài của tổng ba vectơ vuông góc.\n- Với các vectơ vuông góc, độ dài tổng được tính theo định lý Pitago trong không gian.\n🔎 **Hướng dẫn cách làm:**\n- Ta có $\\left|\\overrightarrow{AB}+\\overrightarrow{AD}+\\overrightarrow{AA'}\\right|^2=AB^2+AD^2+AA'^2$.\n- Suy ra $\\left|\\overrightarrow{AB}+\\overrightarrow{AD}+\\overrightarrow{AA'}\\right|^2=2^2+3^2+6^2=49$.\n- Vậy $\\left|\\overrightarrow{AB}+\\overrightarrow{AD}+\\overrightarrow{AA'}\\right|=7$.\n✅ **Đáp án:** Chọn A. \\$7$."
+    }
+  ]
+}

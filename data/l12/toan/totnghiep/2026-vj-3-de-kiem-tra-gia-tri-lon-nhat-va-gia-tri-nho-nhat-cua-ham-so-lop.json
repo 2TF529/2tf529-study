@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-3-de-kiem-tra-gia-tri-lon-nhat-va-gia-tri-nho-nhat-cua-ham-so-lop",
+  "sourceId": "vietjack:3-de-kiem-tra-gia-tri-lon-nhat-va-gia-tr",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "title": "3.Đề kiểm tra Giá trị lớn nhất và giá trị nhỏ nhất của hàm số lớp 12 (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: CÂU TRẮC NGHIỆM NHIỀU PHƯƠNG ÁN LỰA CHỌN Cho hàm số \\(y = f\\left( x \\right)\\)liên tục trên \\[\\mathbb{R}\\]thỏa mãn giá trị nhỏ nhất của hàm số trên \\[\\mathbb{R}\\]là \\(5\\). Khẳng định nào sau đây là đúng?",
+      "options": [
+        "A. \\(f\\left( x \\right) > 5\\)\\[\\forall x \\in \\mathbb{R}\\] .",
+        "B. \\[f\\left( x \\right) \\ge 5\\]\\[\\forall x \\in \\mathbb{R}\\] , \\[\\exists {x_0}\\] , \\[f\\left( {{x_0}} \\right) = 5\\] .",
+        "C. \\(f\\left( x \\right) < 5\\)\\[\\forall x \\in \\mathbb{R}\\] .",
+        "D. \\[f\\left( x \\right) \\le 5\\]\\[\\forall x \\in \\mathbb{R}\\] , \\[\\exists {x_0}\\] , \\[f\\left( {{x_0}} \\right) = 5\\] ."
+      ],
+      "answer": "B",
+      "note": "Ta có định nghĩa giá trị nhỏ nhất của hàm số: Cho hàm số \\(y = f\\left( x \\right)\\)xác định trên tập \\(D\\). Số \\(m\\)được gọi là giá trị nhỏ nhất của hàm số \\(y = f\\left( x \\right)\\)trên tập \\(D\\)nếu \\(f\\left( x \\right) \\ge m\\)với mọi \\(x\\)thuộc \\(D\\)và tồn tại \\({x_0} \\in D\\)sao cho \\(f\\left( {{x_0}} \\right) = m\\)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hàm số \\(y = f\\left( x \\right)\\) có bảng biến thiên trên đoạn \\(\\left[ {0;3} \\right]\\) như sau: Giá trị nhỏ nhất của hàm số \\(y = f\\left( x \\right)\\) trên đoạn \\(\\left[ {0;3} \\right]\\) là",
+      "options": [
+        "A. \\(4\\) .",
+        "B. \\(1\\) .",
+        "C. \\(0\\) .",
+        "D. \\( - \\;4\\) ."
+      ],
+      "answer": "D",
+      "note": "Từ bảng biến thiên suy ra giá trị nhỏ nhất của hàm số \\(y = f\\left( x \\right)\\) trên đoạn \\(\\left[ {0;3} \\right]\\) là \\( - \\;4\\) đạt khi \\(x = 1\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho hàm số \\(y = f\\left( x \\right)\\) liên tục trên đoạn \\(\\left[ { - 1;2} \\right]\\) và có đồ thị như hình vẽ sau Giá trị lớn nhất của hàm số \\(y = f\\left( x \\right)\\) trên đoạn \\[\\left[ { - 1;2} \\right]\\] là",
+      "options": [
+        "A. \\[3\\] .",
+        "B. \\[ - 1\\] .",
+        "C. \\[1\\] .",
+        "D. \\[2\\]"
+      ],
+      "answer": "A",
+      "note": "Từ đồ thị hàm số ta có giá trị lớn nhất của hàm số \\[f\\left( x \\right)\\] trên đoạn \\[\\left[ { - 1;2} \\right]\\] là \\[3\\]."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Hàm số \\(y = f\\left( x \\right)\\) liên tục trên đoạn \\(\\left[ { - 1;3} \\right]\\) và có bảng biến thiên như sau: Gọi \\(M,m\\) lần lượt là giá trị lớn nhất và giá trị nhỏ nhất của hàm số \\(y = f\\left( x \\right)\\) trên đoạn \\(\\left[ { - 1;3} \\right]\\) . Khi đó giá trị của \\(M - m\\) là",
+      "options": [
+        "A. A . \\(M - m = 5.\\)",
+        "B. \\(M - m = 4.\\)",
+        "C. \\(M - m = 6\\) .",
+        "D. \\(M - m = 3\\) ."
+      ],
+      "answer": "A",
+      "note": "Dựa vào bảng biến thiên ta có \\(M = 5;\\,m = 0 \\Rightarrow M - m = 5\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hàm số \\(y = f\\left( x \\right)\\) liên tục trên đoạn \\(\\left[ { - 1;5} \\right]\\) và có đồ thị như hình vẽ sau: Khẳng định nào sau đây đúng?",
+      "options": [
+        "A. \\[\\mathop {Max}\\limits_{\\left[ { - 1;5} \\right]} f\\left( x \\right) = 2\\] .",
+        "B. \\[\\mathop {Min}\\limits_{\\left[ {3;5} \\right]} f\\left( x \\right) = - 2.\\]",
+        "C. \\[\\mathop {Max}\\limits_{\\left[ { - 1;3} \\right]} f\\left( x \\right) = 3.\\]",
+        "D. \\[\\mathop {Max}\\limits_{\\left[ { - 1;3} \\right]} f\\left( x \\right) = 1.\\]"
+      ],
+      "answer": "D",
+      "note": "Dựa vào đồ thị ta có \\[\\mathop {Max}\\limits_{\\left[ { - 1;3} \\right]} f\\left( x \\right) = 1.\\]"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho hàm số \\(y = f\\left( x \\right)\\) liên tục trên \\(\\mathbb{R}\\) và có bảng biến thiên như hình vẽ. Chọn khẳng định đúng trong các khẳng định sau:",
+      "options": [
+        "A. Giá trị nhỏ nhất của hàm số \\(y = f\\left( x \\right)\\) trong khoảng \\(\\left( { - \\infty ; - 2} \\right)\\) là \\(1\\) .",
+        "B. Giá trị lớn nhất của hàm số \\(y = f\\left( x \\right)\\) trong khoảng \\(\\left( { - \\infty ;\\frac{1}{2}} \\right)\\) là \\(6\\) .",
+        "C. Giá trị nhỏ nhất của hàm số \\(y = f\\left( x \\right)\\) trong khoảng \\(\\left( { - 2;\\frac{1}{2}} \\right)\\) là \\(1\\) .",
+        "D. Hàm số \\(y = f\\left( x \\right)\\) không có giá trị nhỏ nhất trên khoảng \\(\\left( { - 2; + \\infty } \\right)\\) ."
+      ],
+      "answer": "D",
+      "note": "Dựa vào bẳng biến thiên ta thấy hàm số \\(y = f\\left( x \\right)\\) không có giá trị nhỏ nhất trên khoảng \\(\\left( { - 2; + \\infty } \\right)\\)"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Giá trị lớn nhất của hàm số \\(y = \\frac{{{x^2}}}{{x + 1}}\\) trên đoạn \\(\\left[ {0;2} \\right]\\) là",
+      "options": [
+        "A. \\(1\\) .",
+        "B. \\(0\\) .",
+        "C. \\( - \\frac{4}{3}\\) .",
+        "D. \\(\\frac{4}{3}\\) ."
+      ],
+      "answer": "D",
+      "note": "Ta có \\(y' = \\frac{{2x\\left( {x + 1} \\right) - {x^2}.1}}{{{{\\left( {x + 1} \\right)}^2}}} = \\frac{{{x^2} + 2x}}{{{{\\left( {x + 1} \\right)}^2}}}\\) \\(y' = 0 \\Leftrightarrow \\left[ \\begin{array}{l}x = 0\\\\x = - 2\\,\\,\\end{array} \\right.\\). Loại \\(x = - 2\\) vì không thuộc đoạn \\(\\left[ {0;2} \\right]\\). \\(y\\left( 0 \\right) = 0;\\,\\,y\\left( 2 \\right) = \\frac{4}{3}\\). Do đó GTLN của hàm số trên đoạn \\(\\left[ {0;2} \\right]\\) là \\(\\frac{4}{3}\\) đạt được tại \\(x = 2\\)."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Giá trị nhỏ nhất của hàm số \\(y = \\sqrt {x + 1} \\) trên tập xác định là",
+      "options": [
+        "A. \\(1\\) .",
+        "B. \\(0\\) .",
+        "C. \\( - 1\\) .",
+        "D. \\(\\sqrt 2 \\) ."
+      ],
+      "answer": "B",
+      "note": "TXĐ: \\(D = \\left[ { - 1; + \\infty } \\right)\\) Ta có \\(\\sqrt {x + 1} \\ge 0,\\,\\forall x \\in \\left[ { - 1; + \\infty } \\right)\\) nên GTNN của hàm số đã cho là \\(0\\), đạt được khi \\(x = - 1\\)."
+    }
+  ]
+}

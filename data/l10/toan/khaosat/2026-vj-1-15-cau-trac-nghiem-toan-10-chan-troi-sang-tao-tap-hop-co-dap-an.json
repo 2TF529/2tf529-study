@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-toan-10-chan-troi-sang-tao-tap-hop-co-dap-an",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-toan-10-chan-troi-s",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Toán 10 chân trời sáng tạo Tập hợp có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Để chỉ phần tử a thuộc tập số A, ta kí hiệu như thế nào?",
+      "options": [
+        "A. a ∈ A;",
+        "B. a ∋ A;",
+        "C. A ∉ a;",
+        "D. a ⊂ A."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A Để chỉ phần tử a thuộc tập số A, ta kí hiệu a ∈ A."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Chọn khẳng định đúng trong các khẳng định sau:",
+      "options": [
+        "A. Mỗi tập hợp phải chứa ít nhất một phần tử;",
+        "B. Phần tử a không thuộc tập A kí hiệu là a ∈ A;",
+        "C. Tập hợp rỗng là con của mọi tập hợp;",
+        "D. Tập hợp không thể có vô số phần tử."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là: C Phương án A sai vì tập rỗng chứa 0 phần tử; Phương án B sai vì phần tử a không thuộc tập A kí hiệu là a ∉ A, Phương án C đúng do tập rỗng là tập con của mọi tập hợp vì tập rỗng không có phần tử nào. Phương án D sai vì tập hợp có thể có vô số phần tử, ví dụ như các tập số tự nhiên, tập số thực,…."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Người ta thường kí hiệu tập hợp số như thế nào?",
+      "options": [
+        "A. ℕ là tập hợp các số tự nhiên, ℤ là tập hợp các số thực, ℝ là tập hợp các số nguyên;",
+        "B. ℕ là tập hợp các số nguyên, ℤ là tập hợp các số thực, ℝ là tập hợp các số tự nhiên;",
+        "C. ℕ là tập hợp các số thực, ℤ là tập hợp các số tự nhiên, ℝ là tập hợp các số nguyên;",
+        "D. ℕ là tập hợp các số tự nhiên, ℤ là tập hợp các số nguyên, ℝ là tập hợp các số thực."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải Đáp án đúng là: D Người ta thường kí hiệu tập hợp số như sau: ℕ là tập hợp các số tự nhiên, ℤ là tập hợp các số nguyên, ℝ là tập hợp các số thực."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Có mấy cách xác định tập hợp?",
+      "options": [
+        "A. 1",
+        "B. 2",
+        "C. 3",
+        "D. 4"
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải Đáp án đúng là: B Có 2 cách xác định tập hợp: Liệt kê các phần tử và Chỉ ra tính chất đặc trưng của tập hợp."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cách viết tập hợp nào đúng trong các cách viết sau để xác định tập hợp A các ước dương của 12:",
+      "options": [
+        "A. A = {1; 2; 3; 4; 6; 12};",
+        "B. A = {1; 3; 4; 6; 12};",
+        "C. A = {x| x ∈ ℤ, x là ước của 12};",
+        "D. A = {x| x ∈ ℝ, x là ước của 12}."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A Tập hợp A là tập hợp các ước dương của 12 nên ta có: A = {1; 2; 3; 4; 6; 12}, cũng có thể viết A = {x| x ∈ ℕ, x là ước của 12}. Do đó ta chọn phương án A."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Số phần tử của tập hợp A xác định bởi A = {x| x ∈ ℕ, x ⋮ 5 và x < 40} là:",
+      "options": [
+        "A. 5",
+        "B. 6",
+        "C. 7",
+        "D. 8"
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải Đáp án đúng là: D Ta liệt kê các phần tử của tập A như sau: A = {0; 5; 10; 15; 20; 25; 30; 35}. Vậy tập hợp A có 8 phần tử."
+    }
+  ]
+}

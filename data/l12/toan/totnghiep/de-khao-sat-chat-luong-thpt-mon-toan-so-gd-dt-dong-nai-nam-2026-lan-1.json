@@ -1,0 +1,181 @@
+{
+  "id": "l12-toan-totnghiep-2026-de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-dong-nai-nam-2026-lan-1",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "code": "THPT_TKT_2026_ĐN_01",
+  "title": "Đề khảo sát chất lượng THPT môn Toán Sở GD&ĐT Đồng Nai năm 2026 - Lần 1",
+  "duration": 90,
+  "answerSource": "official",
+  "source": "https://dolthpt.vn/tot-nghiep-thpt/pdf-de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-dong-nai-nam-2026-lan-1-co-dap-an",
+  "notes": "Nội dung, đáp án và lời giải được nhập từ bản công khai của DOL THPT.",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "content": "Gọi $S$ là diện tích hình phẳng giới hạn bởi các đường $y=f(x)$, trục hoành và hai đường thẳng $x=-3$, $x=2$ như hình vẽ bên dưới. Đặt $a=\\int_{-3}^{1} f(x)\\,dx$, $b=\\int_{1}^{2} f(x)\\,dx$. Mệnh đề nào sau đây là đúng?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-dong-nai-nam-2026-lan-1/cau-01.webp\" alt=\"Hình minh họa câu 1\" loading=\"lazy\"></figure>",
+      "chuong": "nguyên hàm và tích phân",
+      "dang": "ứng dụng tích phân để tính diện tích hình phẳng",
+      "type": "single",
+      "options": [
+        "A. $S=a+b$.",
+        "B. $S=-a-b$.",
+        "C. $S=a-b$.",
+        "D. $S=b-a$."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- $a=\\int_{-3}^{1} f(x)\\,dx$ và $b=\\int_{1}^{2} f(x)\\,dx$.\n- Trên hình, đồ thị nằm dưới trục hoành trên đoạn $[-3;1]$ và nằm trên trục hoành trên đoạn $[1;2]$.\n❓ **Hiểu câu hỏi:**\n- Cần biểu diễn diện tích $S$ theo $a$ và $b$.\n- Khi tính diện tích, phần nằm dưới trục hoành phải đổi dấu.\n🔎 **Hướng dẫn cách làm:**\n- Trên đoạn $[-3;1]$, ta có $a<0$ nên diện tích phần này là $-a$.\n- Trên đoạn $[1;2]$, đồ thị nằm trên trục hoành nên diện tích phần này là $b$.\n- Vậy $S=-a+b=b-a$.\n✅ **Đáp án:** Chọn D. $S=b-a$"
+    },
+    {
+      "id": 2,
+      "content": "Cho hình chóp $S.ABCD$ có đáy là hình vuông cạnh bằng $a$, $SA \\perp (ABCD)$, $SA=a\\sqrt{3}$ (tham khảo hình vẽ bên dưới). Thể tích khối chóp $S.ABCD$ bằng\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-dong-nai-nam-2026-lan-1/cau-02.webp\" alt=\"Hình minh họa câu 2\" loading=\"lazy\"></figure>",
+      "chuong": "quan hệ vuông góc trong không gian",
+      "dang": "thể tích",
+      "type": "single",
+      "options": [
+        "A. $\\dfrac{a^3\\sqrt{3}}{3}$.",
+        "B. $a^3\\sqrt{3}$.",
+        "C. $\\dfrac{a^3}{3}$.",
+        "D. $a^3$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Đáy $ABCD$ là hình vuông cạnh $a$ nên $S_{ABCD}=a^2$.\n- $SA\\perp (ABCD)$ và $SA=a\\sqrt{3}$.\n❓ **Hiểu câu hỏi:**\n- Cần tính thể tích khối chóp $S.ABCD$.\n- Dùng công thức $V=\\frac{1}{3}S_{\\text{đáy}}\\cdot h$.\n🔎 **Hướng dẫn cách làm:**\n- Vì $SA\\perp (ABCD)$ nên chiều cao của khối chóp là $h=SA=a\\sqrt{3}$.\n- Thay vào công thức thể tích: $V=\\frac{1}{3}\\cdot a^2\\cdot a\\sqrt{3}=\\frac{a^3\\sqrt{3}}{3}$.\n✅ **Đáp án:** Chọn A. $\\frac{a^3\\sqrt{3}}{3}$"
+    },
+    {
+      "id": 3,
+      "content": "Trong không gian $Oxyz$, mặt phẳng $(P): x+5y-2z-2=0$ song song với mặt phẳng nào dưới đây?",
+      "chuong": "phương pháp tọa độ trong không gian",
+      "dang": "điều kiện để hai mặt phẳng song song với nhau",
+      "type": "single",
+      "options": [
+        "A. $x-5y+2z+2=0$.",
+        "B. \\$2x+10y-4z+1=0$.",
+        "C. $-x-5y-2z+2=0$.",
+        "D. $x+5y-2z-2=0$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Mặt phẳng $(P): x+5y-2z-2=0$.\n- Vectơ pháp tuyến của $(P)$ là $\\vec{n}=(1;5;-2)$.\n❓ **Hiểu câu hỏi:**\n- Cần tìm mặt phẳng song song với $(P)$.\n- Hai mặt phẳng song song thì các vectơ pháp tuyến cùng phương.\n🔎 **Hướng dẫn cách làm:**\n- Xét đáp án $B$, mặt phẳng \\$2x+10y-4z+1=0$ có vectơ pháp tuyến $\\vec{n'}=(2;10;-4)=2\\vec{n}$.\n- Vậy $\\vec{n'}$ cùng phương với $\\vec{n}$ nên hai mặt phẳng song song.\n- Các đáp án còn lại không có bộ hệ số tỉ lệ với $(1;5;-2)$.\n✅ **Đáp án:** Chọn B. \\$2x+10y-4z+1=0$"
+    },
+    {
+      "id": 4,
+      "content": "Trong không gian $Oxyz$, mặt cầu có tâm $I(2;1;-4)$ và tiếp xúc với mặt phẳng $(\\alpha): x-2y+2z-7=0$ có phương trình là",
+      "chuong": "phương pháp tọa độ trong không gian",
+      "dang": "phương trình mặt cầu",
+      "type": "single",
+      "options": [
+        "A. $(x+2)^2+(y+1)^2+(z-4)^2=25$.",
+        "B. $(x-2)^2+(y-1)^2+(z+4)^2=25$.",
+        "C. $(x+2)^2+(y-1)^2+(z+4)^2=25$.",
+        "D. $(x-2)^2+(y-1)^2+(z-4)^2=25$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Tâm mặt cầu là $I(2;1;-4)$.\n- Mặt cầu tiếp xúc với mặt phẳng $(\\alpha): x-2y+2z-7=0$.\n❓ **Hiểu câu hỏi:**\n- Cần tìm bán kính rồi viết phương trình mặt cầu.\n- Vì mặt cầu tiếp xúc với mặt phẳng nên $R=d\\left(I,(\\alpha)\\right)$.\n🔎 **Hướng dẫn cách làm:**\n- $R=\\frac{|2-2\\cdot 1+2\\cdot(-4)-7|}{\\sqrt}{1^2+(-2)^2+2^2}}=\\frac{15}{3}=5$.\n- Phương trình mặt cầu tâm $I(2;1;-4)$, bán kính \\$5$ là $\\left(x-2\\right)^2+\\left(y-1\\right)^2+\\left(z+4\\right)^2=25$.\n✅ **Đáp án:** Chọn B. $\\left(x-2\\right)^2+\\left(y-1\\right)^2+\\left(z+4\\right)^2=25$"
+    },
+    {
+      "id": 5,
+      "content": "Thống kê cân nặng của học sinh lớp \\$12A_2$ ở một trường THPT ta có bảng số liệu sau. Tìm số trung bình của bảng số liệu.\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-dong-nai-nam-2026-lan-1/cau-05.webp\" alt=\"Hình minh họa câu 5\" loading=\"lazy\"></figure>",
+      "chuong": "các số đặc trưng đo xu thế trung tâm của mẫu số liệu ghép nhóm",
+      "dang": "số trung bình của mẫu số liệu ghép nhóm",
+      "type": "single",
+      "options": [
+        "A. \\$51,80$.",
+        "B. \\$51,81$.",
+        "C. \\$51,809$.",
+        "D. \\$52$."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Các lớp ghép nhóm có điểm giữa lần lượt là \\$43,48,53,58,63,68$.\n- Tần số tương ứng là \\$10,7,16,4,2,3$.\n❓ **Hiểu câu hỏi:**\n- Cần tính số trung bình của mẫu số liệu ghép nhóm.\n- Dùng công thức $\\overline{x}=\\frac{\\sum n_i x_i}{\\sum n_}i}$.\n🔎 **Hướng dẫn cách làm:**\n- Tổng tần số là $N=10+7+16+4+2+3=42$.\n- Tổng có trọng số là \\$10\\cdot 43+7\\cdot 48+16\\cdot 53+4\\cdot 58+2\\cdot 63+3\\cdot 68=2176$.\n- Vậy $\\overline{x}=\\frac{2176}{4}2}\\approx 51{,}809$.\n✅ **Đáp án:** Chọn C. \\$51{,}809$"
+    },
+    {
+      "id": 7,
+      "content": "Đường cong trong hình vẽ bên dưới là đồ thị của hàm số nào sau đây?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-dong-nai-nam-2026-lan-1/cau-07.webp\" alt=\"Hình minh họa câu 7\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "khảo sát và vẽ đồ thị hàm số phân thức hữu tỉ",
+      "type": "single",
+      "options": [
+        "A. $y=\\dfrac{x^2+2x+2}{x+1}$.",
+        "B. $y=\\dfrac{x^2+3x}{x-2}$.",
+        "C. $y=\\dfrac{x^2-2x-3}{x-2}$.",
+        "D. $y=\\dfrac{x^2-2x}{x+1}$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Đồ thị có tiệm cận đứng $x=-1$.\n- Đồ thị có tiệm cận xiên đi qua $(-1;0)$ và $(0;1)$ nên là $y=x+1$.\n- Đồ thị đi qua điểm $(0;2)$.\n❓ **Hiểu câu hỏi:**\n- Cần chọn hàm phân thức phù hợp với hình vẽ.\n- Ta so sánh các tiệm cận và một điểm đặc trưng của đồ thị.\n🔎 **Hướng dẫn cách làm:**\n- Với đáp án $A$: $y=\\frac{x^2+2x+2}{x+}1}=x+1+\\frac{1}{x+}1}$.\n- Hàm này có tiệm cận đứng $x=-1$, tiệm cận xiên $y=x+1$ và $y(0)=2$.\n- Ba dấu hiệu đều khớp hình vẽ nên chọn $A$.\n✅ **Đáp án:** Chọn A. $y=\\frac{x^2+2x+2}{x+}1}$"
+    },
+    {
+      "id": 8,
+      "content": "Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình chữ nhật (tham khảo hình vẽ bên dưới). Gọi $M, N$ theo thứ tự là trọng tâm tam giác $SAB$ và tam giác $SCD$. Khi đó $MN$ song song với mặt phẳng nào sau đây?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-dong-nai-nam-2026-lan-1/cau-08.webp\" alt=\"Hình minh họa câu 8\" loading=\"lazy\"></figure>",
+      "chuong": "quan hệ song song trong không gian",
+      "dang": "điều kiện và tính chất của đường thẳng song song với mặt phẳng",
+      "type": "single",
+      "options": [
+        "A. $(ABCD)$.",
+        "B. $(SAB)$.",
+        "C. $(SAC)$.",
+        "D. $(SBD)$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình chữ nhật.\n- $M,N$ lần lượt là trọng tâm của các tam giác $SAB$ và $SCD$.\n- Cần tìm mặt phẳng song song với $MN$.\n❓ **Hiểu câu hỏi:**\n- Ta dùng tính chất trọng tâm trong tam giác.\n- Mục tiêu là chỉ ra $MN$ song song với một đường thẳng nằm trong một mặt phẳng đáp án.\n🔎 **Hướng dẫn cách làm:**\n- Gọi $I,J$ lần lượt là trung điểm của $AB$ và $CD$.\n- Vì $M,N$ là trọng tâm nên trong các tam giác $SAB$ và $SCD$, ta có $M \\in SI,\\ N \\in SJ$ và $\\frac{SM}{S}I}=\\frac{SN}{S}J}=\\frac{2}{3}$.\n- Suy ra trong tam giác $SIJ$, đoạn $MN$ song song với $IJ$.\n- Trong hình chữ nhật $ABCD$, nếu $I,J$ là trung điểm của $AB,CD$ thì $IJ \\parallel AD \\parallel BC$.\n- Vậy $MN \\parallel IJ \\parallel AD$. Mà $AD \\subset (ABCD)$ nên $MN \\parallel (ABCD)$.\n✅ **Đáp án:** Chọn A. $(ABCD)$"
+    },
+    {
+      "id": 9,
+      "content": "Nghiệm của phương trình $\\cos x=1$ là",
+      "chuong": "hàm số lượng giác và phương trình lượng giác",
+      "dang": "phương trình cosx=m",
+      "type": "single",
+      "options": [
+        "A. $x=k2\\pi,\\ k\\in\\mathbb{Z}$.",
+        "B. $x=k\\pi,\\ k\\in\\mathbb{Z}$.",
+        "C. $x=\\dfrac{\\pi}{2}+k2\\pi,\\ k\\in\\mathbb{Z}$.",
+        "D. $x=\\dfrac{k\\pi}{2},\\ k\\in\\mathbb{Z}$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Phương trình lượng giác là $\\cos x=1$.\n❓ **Hiểu câu hỏi:**\n- Cần tìm nghiệm tổng quát của phương trình.\n- Dùng công thức cơ bản của hàm số $\\cos x$.\n🔎 **Hướng dẫn cách làm:**\n- $\\cos x=1$ khi và chỉ khi $x=2k\\pi$ với $k\\in\\mathbb{Z}$.\n- So với các đáp án, đó là đáp án $A$.\n✅ **Đáp án:** Chọn A. $x=2k\\pi,\\ k\\in\\mathbb{Z}$"
+    },
+    {
+      "id": 10,
+      "content": "Tổng bình phương các nghiệm của phương trình $\\log_2(x^2-5x+7)=0$ bằng",
+      "chuong": "hàm số mũ và hàm số lôgarit",
+      "dang": "phương trình lôgarit",
+      "type": "single",
+      "options": [
+        "A. \\$7$.",
+        "B. \\$13$.",
+        "C. \\$5$.",
+        "D. \\$6$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Phương trình là $\\log_2\\left(x^2-5x+7\\right)=0$.\n❓ **Hiểu câu hỏi:**\n- Cần tìm các nghiệm rồi tính tổng bình phương các nghiệm.\n- Dùng tính chất $\\log_a b=0\\Leftrightarrow b=1$.\n🔎 **Hướng dẫn cách làm:**\n- Từ $\\log_2\\left(x^2-5x+7\\right)=0$ suy ra $x^2-5x+7=1$.\n- Do đó $x^2-5x+6=0\\Leftrightarrow (x-2)(x-3)=0$ nên $x=2,3$.\n- Tổng bình phương các nghiệm là \\$2^2+3^2=13$.\n✅ **Đáp án:** Chọn B. \\$13$"
+    },
+    {
+      "id": 11,
+      "content": "Cho cấp số cộng $\\left(u_n\\right)$ thỏa mãn\n$\\begin{cases}u_4=10\\\\u_4+u_6=26\\end{cases}$.\nCông sai của $\\left(u_n\\right)$ là",
+      "chuong": "dãy số. cấp số cộng và cấp số nhân",
+      "dang": "số hạng tổng quát của cấp số cộng",
+      "type": "single",
+      "options": [
+        "A. $d=3$.",
+        "B. $d=5$.",
+        "C. $d=-3$.",
+        "D. $d=6$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cấp số cộng $\\left(u_n\\right)$ thỏa mãn $u_4=10$.\n- Đồng thời $u_4+u_6=26$.\n❓ **Hiểu câu hỏi:**\n- Cần tìm công sai $d$.\n- Dùng hệ thức $u_n=u_1+(n-1)d$.\n🔎 **Hướng dẫn cách làm:**\n- Từ $u_4+u_6=26$ và $u_4=10$ suy ra $u_6=16$.\n- Khi đó $u_6-u_4=2d=16-10=6$ nên $d=3$.\n✅ **Đáp án:** Chọn A. $d=3$"
+    },
+    {
+      "id": 12,
+      "content": "Cho hình hộp $ABCD.A'B'C'D'$ (tham khảo hình vẽ bên dưới). Gọi $M, N$ lần lượt là trung điểm của các cạnh $BC$ và $CD$. Vectơ nào sau đây bằng \\$2\\overrightarrow{MN}$?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-dong-nai-nam-2026-lan-1/cau-12.webp\" alt=\"Hình minh họa câu 12\" loading=\"lazy\"></figure>",
+      "chuong": "vectơ và hệ trục tọa độ trong không gian",
+      "dang": "tổng và hiệu của hai vectơ trong không gian",
+      "type": "single",
+      "options": [
+        "A. $\\overrightarrow{AD}$.",
+        "B. $\\overrightarrow{B'D'}$.",
+        "C. $\\overrightarrow{BC}$.",
+        "D. $\\overrightarrow{A'C'}$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- $M$ là trung điểm của $BC$, $N$ là trung điểm của $CD$.\n- Cần tìm vectơ bằng \\$2\\overrightarrow{MN}$.\n❓ **Hiểu câu hỏi:**\n- Xét tam giác $BCD$.\n- Dùng tính chất đoạn nối trung điểm trong tam giác.\n🔎 **Hướng dẫn cách làm:**\n- Trong tam giác $BCD$, vì $M,N$ là trung điểm của $BC,CD$ nên $\\overrightarrow{MN}=\\frac{1}{2}\\overrightarrow{BD}$.\n- Suy ra \\$2\\overrightarrow{MN}=\\overrightarrow{BD}$.\n- Trong hình hộp, $\\overrightarrow{BD}=\\overrightarrow{B'D'}$ nên chọn $B$.\n✅ **Đáp án:** Chọn B. $\\overrightarrow{B'D'}$"
+    }
+  ]
+}

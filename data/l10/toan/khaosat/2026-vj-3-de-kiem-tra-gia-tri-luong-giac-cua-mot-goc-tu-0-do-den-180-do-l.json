@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-3-de-kiem-tra-gia-tri-luong-giac-cua-mot-goc-tu-0-do-den-180-do-l",
+  "sourceId": "vietjack:3-de-kiem-tra-gia-tri-luong-giac-cua-mot",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.Đề kiểm tra Giá trị lượng giác của một góc từ 0 độ đến 180 độ lớp 10 (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Phần 1. Câu hỏi trắc nghiệm nhiều phương án lựa chọn . Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi, thí sinh chỉ chọn 1 phương án. Tính giá trị biểu thức \\(P = \\sin 30^\\circ \\cos 60^\\circ + \\sin 60^\\circ \\cos 30^\\circ \\)",
+      "options": [
+        "A. \\[P = 1\\] .",
+        "B. \\(P = 0\\) .",
+        "C. \\(P = \\sqrt 3 \\) .",
+        "D. \\(P = - \\sqrt 3 \\) ."
+      ],
+      "answer": "A",
+      "note": "Chọn A Ta có \\(P = \\sin 30^\\circ .\\sin 30^\\circ + \\cos 30^\\circ .cos30^\\circ = {\\sin ^2}30^\\circ + {\\cos ^2}30^\\circ = 1\\)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho \\({0^{\\rm{0}}} < \\alpha < {90^{\\rm{0}}}\\) . Khẳng định nào sau đây đúng?",
+      "options": [
+        "A. \\(\\cot \\left( {{{90}^{\\rm{0}}} + \\alpha } \\right) = \\tan \\alpha \\) .",
+        "B. \\(\\tan \\left( {{{90}^{\\rm{0}}} + \\alpha } \\right) = \\tan \\alpha \\)",
+        "C. \\(\\cos \\left( {{{90}^{\\rm{0}}} + \\alpha } \\right) = - \\sin \\alpha \\) .",
+        "D. \\(\\tan \\left( {{{90}^{\\rm{0}}} + \\alpha } \\right) = \\cot \\alpha \\) ."
+      ],
+      "answer": "C",
+      "note": "Chọn C Ta có: \\(\\cos \\left( {{{90}^{\\rm{0}}} + \\alpha } \\right) = \\cos \\left( {{{180}^{\\rm{0}}} - \\left( {{{90}^{\\rm{0}}} - \\alpha } \\right)} \\right) = - \\cos \\left( {{{90}^{\\rm{0}}} - \\alpha } \\right) = - \\sin \\alpha \\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Tam giác đều \\(ABC\\) có đường cao \\(AH\\) . Khẳng định nào sau đây là đúng?",
+      "options": [
+        "A. \\(\\cos \\widehat {BAH} = \\frac{1}{{\\sqrt 3 }}\\) .",
+        "B. \\(\\sin \\widehat {ABC} = \\frac{{\\sqrt 3 }}{2}\\) .",
+        "C. \\(\\sin \\widehat {AHC} = \\frac{1}{2}\\) .",
+        "D. \\(\\sin \\widehat {BAH} = \\frac{{\\sqrt 3 }}{2}\\) ."
+      ],
+      "answer": "B",
+      "note": "Chọn B Tam giác \\(ABC\\) là tam giác đều nên có các góc bằng \\[60^\\circ \\] nên dễ thấy C đúng vì \\(\\sin \\widehat {ABC} = \\sin 60^\\circ = \\frac{{\\sqrt 3 }}{2}\\)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hai góc nhọn \\(\\alpha \\) và \\(\\beta \\) trong đó \\(\\alpha < \\beta \\) . Khẳng định nào sau đây là sai ?",
+      "options": [
+        "A. \\(\\tan \\alpha + \\tan \\beta > 0\\) .",
+        "B. \\(\\cos \\alpha < \\cos \\beta \\) .",
+        "C. \\(\\sin \\alpha < \\sin \\beta \\) .",
+        "D. \\(\\alpha + \\beta = {90^{\\rm{O}}} \\Rightarrow \\cos \\alpha = \\sin \\beta \\) ."
+      ],
+      "answer": "B",
+      "note": "Chọn B \\(\\alpha \\) và \\(\\beta \\) là góc nhọn nên có điểm biểu diễn thuộc góc phần tư thứ nhất, có các giá trị lượng giác đều dương nên \\(\\tan \\alpha + \\tan \\beta > 0\\); \\(\\alpha < \\beta \\) nên \\(\\sin \\alpha < \\sin \\beta \\), C đúng theo tính chất 2 góc phụ nhau. Phương án B, C, D đều đúng và A sai."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho \\(\\sin \\alpha = \\frac{1}{3}\\) , với \\(90^\\circ < \\alpha < 180^\\circ \\) . Tính \\(\\cos \\alpha \\) .",
+      "options": [
+        "A. \\(\\cos \\alpha = \\frac{2}{3}\\) .",
+        "B. \\(\\cos \\alpha = - \\frac{2}{3}\\) .",
+        "C. \\(\\cos \\alpha = \\frac{{2\\sqrt 2 }}{3}\\) .",
+        "D. \\(\\cos \\alpha = - \\frac{{2\\sqrt 2 }}{3}\\) ."
+      ],
+      "answer": "D",
+      "note": "Chọn D Ta có \\({\\cos ^2}\\alpha = 1 - {\\sin ^2}\\alpha \\) \\( = 1 - {\\left( {\\frac{1}{3}} \\right)^2} = \\frac{8}{9}\\). Mặt khác \\(90^\\circ < \\alpha < 180^\\circ \\)nên \\(\\cos \\alpha = - \\frac{{2\\sqrt 2 }}{3}\\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho biết \\(\\cos \\alpha = - \\frac{2}{3}\\) . Tính \\(\\tan \\alpha \\) ?",
+      "options": [
+        "A. \\(\\frac{5}{4}\\) .",
+        "B. \\( - \\frac{5}{2}\\) .",
+        "C. \\(\\frac{{\\sqrt 5 }}{2}\\) .",
+        "D. \\( - \\frac{{\\sqrt 5 }}{2}\\) ."
+      ],
+      "answer": "D",
+      "note": "Chọn D Do \\(\\cos \\alpha < 0 \\Rightarrow \\tan \\alpha < 0\\). Ta có: \\(1 + {\\tan ^2}\\alpha = \\frac{1}{{{{\\cos }^2}\\alpha }}\\)\\( \\Leftrightarrow {\\tan ^2}\\alpha = \\frac{5}{4}\\)\\( \\Rightarrow \\tan \\alpha = - \\frac{{\\sqrt 5 }}{2}\\)."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Cho \\(\\alpha \\) là góc tù và \\(\\sin \\alpha = \\frac{5}{{13}}\\) . Giá trị của biểu thức \\(3\\sin \\alpha + 2\\cos \\alpha \\) là",
+      "options": [
+        "A. \\(\\frac{9}{{13}}\\) .",
+        "B. \\(3\\) .",
+        "C. \\( - \\frac{9}{{13}}\\) .",
+        "D. \\( - 3\\) ."
+      ],
+      "answer": "C",
+      "note": "Chọn C Ta có \\({\\cos ^2}\\alpha = 1 - {\\sin ^2}\\alpha = \\frac{{144}}{{169}} \\Rightarrow \\cos \\alpha = \\pm \\frac{{12}}{{13}}\\) Do \\(\\alpha \\) là góc tù nên \\(\\cos \\alpha < 0\\), từ đó \\(\\cos \\alpha = - \\frac{{12}}{{13}}\\) Như vậy \\(3\\sin \\alpha + 2\\cos \\alpha = 3 \\cdot \\frac{5}{{13}} + 2\\left( { - \\frac{{12}}{{13}}} \\right) = - \\frac{9}{{13}}\\)."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Biết \\(\\cot \\alpha = - a\\) , \\(a > 0\\) . Tính \\(\\cos \\alpha \\)",
+      "options": [
+        "A. \\[\\cos \\alpha = \\frac{a}{{\\sqrt {1 + {a^2}} }}\\] .",
+        "B. \\[\\cos \\alpha = \\frac{1}{{\\sqrt {1 + {a^2}} }}\\] .",
+        "C. \\[\\cos \\alpha = - \\frac{1}{{\\sqrt {1 + {a^2}} }}\\] .",
+        "D. \\[\\cos \\alpha = - \\frac{a}{{\\sqrt {1 + {a^2}} }}\\] ."
+      ],
+      "answer": "D",
+      "note": "Chọn D Do \\(\\cot \\alpha = - a\\), \\(a > 0\\) nên \\({90^0} < \\alpha < {180^0}\\) suy ra \\(\\cos \\alpha < 0\\). Mặt khác, \\(\\tan \\alpha = \\frac{1}{{\\cot \\alpha }}\\) \\( \\Leftrightarrow \\tan \\alpha = \\frac{{ - 1}}{a}\\). Mà ta lại có \\(1 + {\\tan ^2}\\alpha = \\frac{1}{{{{\\cos }^2}\\alpha }}\\) \\( \\Leftrightarrow {\\cos ^2}\\alpha = \\frac{1}{{1 + {{\\tan }^2}\\alpha }}\\) \\( \\Leftrightarrow {\\cos ^2}\\alpha = \\frac{{{a^2}}}{{1 + {a^2}}}\\). Khi đó \\(\\cos \\alpha = - \\frac{{\\left| a \\right|}}{{\\sqrt {1 + {a^2}} }}\\) và do \\(a > 0\\) nên \\(\\cos \\alpha = - \\frac{a}{{\\sqrt {1 + {a^2}} }}\\)."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-14-20-cau-trac-nghiem-toan-12-chan-troi-sang-tao-bai-1-vecto-va-c",
+  "sourceId": "vietjack:14-20-cau-trac-nghiem-toan-12-chan-troi-",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "14.20 câu trắc nghiệm Toán 12 Chân trời sáng tạo Bài 1. Vectơ và các phép toán trong không gian (Đúng sai - Trả lời ngắn) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: TRẮC NGHIỆM NHIỀU LỰA CHỌN Cho hình hộp chữ nhật ABCD.A'B'C'D'. Khẳng định nào sau đây đúng?",
+      "options": [
+        "A. \\(\\overrightarrow {AC'} = \\overrightarrow {AB} + \\overrightarrow {AC} + \\overrightarrow {AB} \\).",
+        "B. \\(\\overrightarrow {AC'} = \\overrightarrow {AB} + \\overrightarrow {AD} + \\overrightarrow {AA'} \\).",
+        "C. \\(\\overrightarrow {AC'} = \\overrightarrow {AB'} + \\overrightarrow {AC} + \\overrightarrow {AD'} \\).",
+        "D. \\(\\overrightarrow {AC'} = \\overrightarrow {AB'} + \\overrightarrow {AD'} + \\overrightarrow {AA'} \\)."
+      ],
+      "answer": "B",
+      "note": "Theo quy tắc hình hộp ta có: \\(\\overrightarrow {AC'} = \\overrightarrow {AB} + \\overrightarrow {AD} + \\overrightarrow {AA'} \\)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hình chóp S.ABCD có đáy ABCD là hình bình hành tâm O. Trong các mệnh đề sau mệnh đề nào là mệnh đề sai?",
+      "options": [
+        "A. \\(\\overrightarrow {SA} + \\overrightarrow {SB} + \\overrightarrow {SC} + \\overrightarrow {SD} = 4\\overrightarrow {SO} \\).",
+        "B. \\(\\overrightarrow {SA} - \\overrightarrow {SB} + \\overrightarrow {SC} - \\overrightarrow {SD} = \\overrightarrow 0 \\).",
+        "C. \\(\\overrightarrow {SA} + \\overrightarrow {SB} + \\overrightarrow {SC} + \\overrightarrow {SD} = \\overrightarrow 0 \\).",
+        "D. \\(\\overrightarrow {OA} + \\overrightarrow {OB} + \\overrightarrow {OC} + \\overrightarrow {OD} = \\overrightarrow 0 \\)."
+      ],
+      "answer": "C",
+      "note": "Vì O là trung điểm của AC nên \\(\\overrightarrow {SA} + \\overrightarrow {SC} = 2\\overrightarrow {SO} \\). Vì O là trung điểm của BD nên \\(\\overrightarrow {SB} + \\overrightarrow {SD} = 2\\overrightarrow {SO} \\). Suy ra \\(\\overrightarrow {SA} + \\overrightarrow {SB} + \\overrightarrow {SC} + \\overrightarrow {SD} = 4\\overrightarrow {SO} \\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho hình lập phương ABCD.A'B'C'D' có cạnh là a. Vectơ nào bằng vectơ \\(\\overrightarrow {D'C'} \\).",
+      "options": [
+        "A. \\(\\overrightarrow {DD'} \\).",
+        "B. \\(\\overrightarrow {AD} \\).",
+        "C. \\(\\overrightarrow {AB} \\).",
+        "D. \\(\\overrightarrow {CD} \\)."
+      ],
+      "answer": "C",
+      "note": "Có \\(\\overrightarrow {D'C'} = \\overrightarrow {A'B'} = \\overrightarrow {AB} \\)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho tứ diện ABCD. Chọn đẳng thức đúng.",
+      "options": [
+        "A. \\(\\overrightarrow {AB} - \\overrightarrow {AD} = \\overrightarrow {DB} \\).",
+        "B. \\(\\overrightarrow {AB} + \\overrightarrow {AD} = \\overrightarrow {DB} \\).",
+        "C. \\(\\overrightarrow {AB} + \\overrightarrow {CD} = \\overrightarrow {AD} \\).",
+        "D. \\(\\overrightarrow {AB} - \\overrightarrow {CD} = \\overrightarrow {AD} \\)."
+      ],
+      "answer": "A",
+      "note": "Ta có \\(\\overrightarrow {AB} - \\overrightarrow {AD} = \\overrightarrow {AB} + \\overrightarrow {DA} = \\overrightarrow {DA} + \\overrightarrow {AB} = \\overrightarrow {DB} \\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hình lăng trụ ABC.A'B'C'. Gọi M là trung điểm của BB'. Trong các khẳng định sau, khẳng định nào đúng?",
+      "options": [
+        "A. \\(\\overrightarrow {AM} = \\overrightarrow {AB} + \\overrightarrow {AA'} \\).",
+        "B. \\(\\overrightarrow {AM} = 2\\overrightarrow {AB} + \\overrightarrow {AA'} \\).",
+        "C. \\(\\overrightarrow {AM} = \\overrightarrow {AB} + \\frac{1}{2}\\overrightarrow {AA'} \\).",
+        "D. \\(\\overrightarrow {AM} = \\frac{1}{2}\\overrightarrow {AB} + \\frac{1}{2}\\overrightarrow {AA'} \\)."
+      ],
+      "answer": "C",
+      "note": "Vì M là trung điểm của BB' nên ta có: \\(2\\overrightarrow {AM} = \\overrightarrow {AB} + \\overrightarrow {AB'} = \\overrightarrow {AB} + \\overrightarrow {AA'} + \\overrightarrow {A'B'} = 2\\overrightarrow {AB} + \\overrightarrow {AA'} \\) \\( \\Rightarrow \\overrightarrow {AM} = \\overrightarrow {AB} + \\frac{1}{2}\\overrightarrow {AA'} \\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong không gian, cho tứ diện \\(ABCD\\). Ta có \\[\\overrightarrow {AB} \\, + \\,\\overrightarrow {CD} \\] bằng",
+      "options": [
+        "A. \\[\\overrightarrow {AD} \\, + \\,\\overrightarrow {BC} \\].",
+        "B. \\[\\overrightarrow {DA} \\, + \\,\\overrightarrow {CB} \\] .",
+        "C. \\[\\overrightarrow {DA} \\, + \\,\\overrightarrow {BC} \\].",
+        "D. \\[\\overrightarrow {AD} \\, + \\,\\overrightarrow {CB} \\]."
+      ],
+      "answer": "D",
+      "note": "Theo quy tắc ba điểm, ta có: \\[\\overrightarrow {AB\\,} \\, = \\overrightarrow {AD} \\, + \\,\\overrightarrow {DB} \\] Do đó:\\[\\overrightarrow {AB} \\, + \\,\\overrightarrow {CD} \\, = \\,\\overrightarrow {AD} \\, + \\,\\overrightarrow {DB} \\, + \\,\\overrightarrow {CD} \\] \\( = \\overrightarrow {AD} \\, + \\left( {\\,\\overrightarrow {DB} \\, + \\,\\overrightarrow {CD} } \\right)\\) \\( = \\,\\overrightarrow {AD} \\, + \\left( {\\,\\,\\overrightarrow {CD} \\, + \\,\\overrightarrow {DB} } \\right)\\)\\( = \\,\\overrightarrow {AD} \\, + \\,\\overrightarrow {CB} \\)."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Trong không gian, cho hình lập phương \\(ABCD\\,A'B\\,'C'D'\\). Góc giữa hai vectơ \\(\\overrightarrow {BD} \\,,\\,\\overrightarrow {B'C} \\)bằng",
+      "options": [
+        "A. \\(30^\\circ \\).",
+        "B. \\(45^\\circ \\).",
+        "C. \\(60^\\circ \\).",
+        "D. \\(90^\\circ \\)."
+      ],
+      "answer": "C",
+      "note": "Ta có: \\(\\overrightarrow {BD} \\, = \\,\\,\\overrightarrow {B'D'} \\). Do đó \\(\\left( {\\overrightarrow {BD} \\,,\\,\\overrightarrow {B'C} } \\right)\\, = \\,\\left( {\\overrightarrow {B'D'} \\,,\\,\\overrightarrow {B'C} } \\right)\\, = \\widehat {\\,D'B'C'}\\) Vì \\(B'C = \\,CD'\\, = \\,D'B'\\)nên tam giác \\(B'CD'\\)là tam giác đều. Suy ra \\(\\widehat {\\,D'B'C'}\\, = \\,60^\\circ \\). Vậy \\(\\left( {\\overrightarrow {BD} \\,,\\,\\overrightarrow {B'C} } \\right)\\, = \\,60^\\circ \\)."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho tứ diện \\(S.ABC\\) có đáy là tam giác đều cạnh \\(a\\), \\(SB\\) vuông góc với đáy và \\(SB = \\sqrt 3 a\\). Góc giữa hai vectơ \\(\\left( {\\overrightarrow {AB} ,\\overrightarrow {AS} } \\right)\\) là",
+      "options": [
+        "A. \\[60^\\circ \\].",
+        "B. \\[30^\\circ \\].",
+        "C. \\[45^\\circ \\].",
+        "D. \\[90^\\circ \\]."
+      ],
+      "answer": "A",
+      "note": "Ta có: \\(\\left( {\\overrightarrow {AB} ,\\overrightarrow {AS} } \\right) = \\widehat {SAB}\\). Xét \\(\\Delta SBA\\) vuông tại \\(B\\) ta có: \\[\\tan \\widehat {SAB} = \\frac{{SB}}{{AB}}\\]\\[ = \\sqrt 3 \\] . Suy ra: \\(\\left( {\\overrightarrow {AB} ,\\overrightarrow {AS} } \\right) = 60^\\circ \\) ."
+    }
+  ]
+}

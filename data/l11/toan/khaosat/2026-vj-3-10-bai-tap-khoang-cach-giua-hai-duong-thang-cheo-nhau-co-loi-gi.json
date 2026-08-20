@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-3-10-bai-tap-khoang-cach-giua-hai-duong-thang-cheo-nhau-co-loi-gi",
+  "sourceId": "vietjack:3-10-bai-tap-khoang-cach-giua-hai-duong-",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.10 Bài tập Khoảng cách giữa hai đường thẳng chéo nhau (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho hình chóp S.ABCD có đáy ABCD là hình vuông tâm O, SA vuông góc với đáy ABCD. Gọi K, H theo thứ tự là hình chiếu vuông góc của A và O lên SD. Chọn khẳng định đúng trong các khẳng định sau?",
+      "options": [
+        "A. Đoạn vuông góc chung của AC và SD là AK ;",
+        "B. Đoạn vuông góc chung của AC và SD là CD;",
+        "C. Đoạn vuông góc chung của AC và SD là OH;",
+        "D. Các khẳng định trên đều sai."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Vì SA ^ (ABCD) nên SA ^ AB mà AB ^ AD Þ AB ^ (SAD) Þ AB ^ AK. Nếu AK ^ AC mà AB ^ AK Þ AK ^ (ABC) Þ AK º SA vì SA ^ (ABC). Þ SA ^ SD Þ D SAD có hai góc vuông (vô lý). Suy ra đáp án A sai. Vì ABCD là hình vuông AC và CD không vuông góc với nhau. Do đó đáp án B sai. Nếu AC ^ OH mà AC ^ BD nên AC ^ (SBD) Þ AC ^ SO Þ D SOA có hai góc vuông (vô lý). Do đó đáp án C sai."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho tứ diện đều ABCD có cạnh bằng a. Tính khoảng cách giữa AB và CD.",
+      "options": [
+        "A. a 3 2",
+        "B. a 2 3",
+        "C. a 2 2",
+        "D. a 3 3"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Gọi M, N lần lượt là trung điểm của AB và CD. Vì các D ACD, D BCD đều nên A N = B N = a 3 2 . Do đó D ANB cân tại N, suy ra MN ^ AB Chứng minh tương tự ta có MN ^ CD, nên d(AB, CD) = MN. Vì M là trung điểm của AB nên A M = A B 2 = a 2 . Xét D AMN vuông tại M, có M N = A N 2 − A M 2 = 3 a 2 4 − a 2 4 = a 2 2 ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho hình chóp S.ABCD có SA ^ (ABCD), đáy ABCD là hình chữ nhật với A C = a 5 và B C = a 2 . Tính khoảng cách giữa SD và BC.",
+      "options": [
+        "A. 3 a 4",
+        "B. 2 a 3",
+        "C. a 3 2",
+        "D. a 3"
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Vì SA ^ (ABCD) Þ SA ^ CD mà CD ^ AD Þ CD ^ (SAD) Þ CD ^ SD (1). Mặt khác BC ^ CD (2). Từ (1), (2), ta có CD là đoạn vuông góc chung của BC và SD. Do đó d(BC, SD) = CD = AB (do ABCD là hình chữ nhật). Xét D ABC vuông tại B, có A B = A C 2 − B C 2 = 5 a 2 − 2 a 2 = 3 a ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hình lập phương ABCD.A'B'C'D' có cạnh bằng a . Khoảng cách giữa BB' và AC bằng:",
+      "options": [
+        "A. a 2",
+        "B. a 3",
+        "C. a 2 2",
+        "D. a 3 3"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Gọi O là tâm của hình vuông ABCD nên O là trung điểm của AC, BD. Vì ABCD là hình vuông nên AC ^ BD tại O. Do đó BO ^ AC (1). Mà BB' ^ (ABCD) Þ BB' ^ BO (2). Từ (1) và (2), ta có BO là đoạn vuông góc chung của AC và BB'. Do đó d(AC, BB') = BO. Mà B O = 1 2 B D = 1 2 A B 2 + A D 2 = a 2 2 . Do đó d(AC, BB') = a 2 2 ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hình lập phương ABCD.A'B'C'D' có cạnh bằng 1. Khoảng cách giữa AA' và BD' bằng:",
+      "options": [
+        "A. 3 3",
+        "B. 2 2",
+        "C. 2 2 5",
+        "D. 3 5 7"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Vì AA' // BB' nên AA' // (BB'D'D). Do đó d(AA', BD') = d(AA', (BB'D'D)) = d(A, (BB'D'D)). Gọi O là tâm hình vuông ABCD. Vì ABCD là hình vuông nên AO ^ BD mà BB' ^ AO (do BB' ^ (ABCD)). Suy ra AO ^ (BB'D'D). Do đó d(A, (BB'D'D)) = AO = 1 2 A C = A B 2 + B C 2 = 2 2 ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho khối lập phương ABCD.A'B'C'D'. Đoạn vuông góc chung của hai đường thẳng chéo nhau AD và A'C' là:",
+      "options": [
+        "A. AA' ;",
+        "B. BD ;",
+        "C. DA' ;",
+        "D. DD' ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Vì AA' ^ (ABCD) Þ AA' ^ AD. Vì AA' ^ (A'B'C'D') Þ AA' ^ A'C'. Do đó AA' là đoạn vuông góc chung của AD và A'C'."
+    }
+  ]
+}

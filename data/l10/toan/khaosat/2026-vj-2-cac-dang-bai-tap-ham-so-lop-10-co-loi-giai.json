@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-cac-dang-bai-tap-ham-so-lop-10-co-loi-giai",
+  "sourceId": "vietjack:2-cac-dang-bai-tap-ham-so-lop-10-co-loi-",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.Các dạng bài tập Hàm số lớp 10 (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho bảng sau: Khẳng định nào sau đây là đúng ?",
+      "options": [
+        "A. Đại lượng y là hàm số của đại lượng x;",
+        "B. Đại lượng x là hàm số của đại lượng y;",
+        "C. Đại lượng y không là hàm số của đại lượng x;",
+        "D. Bảng trên không biểu thị một hàm số."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A. + Xét bảng trên ta thấy x và y là hai đại lượng biến thiến, giá trị của x thuộc tập số: D =\\(\\left\\{ {1;2;3;0;\\frac{{ - 3}}{2}; - 2; - 4} \\right\\}\\) Với mỗi giá trị của x chỉ có một giá trị duy nhất của y. Vậy y là hàm số của x. + Đại lượng x không là hàm số của y vì với giá trị y = 2, cho ta 2 giá trị của x là x = 1 và \\(x = - \\frac{3}{2}\\)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hàm số: y = 3x – 5. Hãy cho biết giá trị của y khi x = 3.",
+      "options": [
+        "A. 6;",
+        "B. 7;",
+        "C. 4;",
+        "D. 5."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải: Đáp án đúng là: C. Xét hàm số: y = 3x – 5. Khi x = 3 ta có: y = 3.3 – 5 = 9 – 5 = 4 Vậy khi x = 3 thì giá trị y tương ứng là 4."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho hàm số y = f(x) = 3x 3 – 1. Giá trị của f(2) là:",
+      "options": [
+        "A. 22;",
+        "B. 23;",
+        "C. 24;",
+        "D. 25."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải: Đáp án đúng là: B. Xét hàm số y = f(x) = 3x 3 – 1. Ta có: f(2) = 3.2 3 – 1 = 24 – 1 = 23."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho bảng sau: Khẳng định nào sau đây là đúng ?",
+      "options": [
+        "A. Ứng với x = – 5 là giá trị y = 8;",
+        "B. Ứng với x = 1 là giá trị y = 8;",
+        "C. Ứng với x = 8 là giá trị y = –10;",
+        "D. Ứng với x = 3 là giá trị y = 29."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải: Đáp án đúng là: B. Xét bảng trên, dễ thấy: Ứng với giá trị x = –5 là y = –10 Ứng với giá trị x = 1 là y = 8 Ứng với giá trị x = 3 là y = 14 Ứng với giá trị x = 8 là y = 29."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hàm số y = f(x) = 9x 2 – 17. Giá trị của f(3) là:",
+      "options": [
+        "A. 64;",
+        "B. 65;",
+        "C. 66;",
+        "D. 67."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A. Xét hàm số y = f(x) = 9x 2 – 17. Ta có: f(3) = 9.3 2 – 17 = 81 – 17 = 64."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho biểu đồ sản lượng theo năm như sau: Gọi sản lượng là y, giá trị năm là x. Khẳng định nào sau đây là đúng ?",
+      "options": [
+        "A. Biểu đồ trên không biểu thị một hàm số;",
+        "B. Tại x = 1990 thì y = 676;",
+        "C. Biểu đồ trên biểu thị một hàm số;",
+        "D. Tại x = 2000 thì t = 2021."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải: Đáp án đúng là: C. Xét biểu đồ ta thấy: x, y là hai đại lượng biến thiên. Trong đó, x nhận giá trị thuộc tập số: D = {1950; 1970; 1980; 1990; 2000; 2003}. Với mỗi giá trị của x chỉ có một giá trị duy nhất của y. Vậy y là hàm số của x. Vậy biểu đồ trên biểu thị một hàm số. Từ biểu đồ, ta thấy: Tại x = 1990 thì y = 1950. Tại x = 2000 thì y = 2060."
+    }
+  ]
+}

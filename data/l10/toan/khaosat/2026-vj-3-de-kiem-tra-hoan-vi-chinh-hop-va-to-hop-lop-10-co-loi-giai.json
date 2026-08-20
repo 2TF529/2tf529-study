@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-3-de-kiem-tra-hoan-vi-chinh-hop-va-to-hop-lop-10-co-loi-giai",
+  "sourceId": "vietjack:3-de-kiem-tra-hoan-vi-chinh-hop-va-to-ho",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.Đề kiểm tra Hoán vị, chỉnh hợp và tổ hợp lớp 10 (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Có bao nhiêu cách xếp 4 lá thư khác nhau vào 4 chiếc phong bì khác nhau?",
+      "options": [
+        "A. \\(12\\).",
+        "B. \\(4!\\).",
+        "C. \\(P_4^2\\).",
+        "D. \\(3!\\)."
+      ],
+      "answer": "B",
+      "note": "Mỗi cách xếp 4 lá thư khác nhau vào 4 chiếc phong bì khác nhau là một hoán vị của 4 phần tử.\\(4! = 24\\) Do đó số cách xếp là 4 ! = 24 cách."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Số cách sắp xếp 6 bạn học sinh nam và 4 bạn học sinh nữ thành một hàng dọc là.",
+      "options": [
+        "A. \\(6! + 4!\\).",
+        "B. \\(10!\\).",
+        "C. \\(C_{10}^6.C_{10}^4\\).",
+        "D. \\[6!.4!\\]."
+      ],
+      "answer": "B",
+      "note": "+) Phương pháp giải: Số cách sắp xếp \\(n\\) học sinh thành một hàng dọc là \\(n!\\)  Có tất cả \\(6 + 4 = 10\\) học sinh.  Số cách sắp xếp 10 học sinh trên thành một hàng dọc là \\(10!\\) cách. Ta chọn đáp án B"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Số hoán vị của \\(25\\)phần tử là:",
+      "options": [
+        "A. \\[{25^2}\\].",
+        "B. \\[26\\].",
+        "C. \\[25!\\].",
+        "D. \\(25.24\\)."
+      ],
+      "answer": "C",
+      "note": "Số hoán vị của \\(25\\) phần tử là: \\[{P_{25}} = 25!\\]."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Từ các chữ số 1, 3, 5, 7 có thể lập được bao nhiêu số tự nhiên có bốn chữ số đôi một khác nhau?",
+      "options": [
+        "A. \\[16\\].",
+        "B. \\[256\\].",
+        "C. \\[24\\].",
+        "D. \\(10\\)."
+      ],
+      "answer": "C",
+      "note": "Mỗi số thỏa mãn yêu cầu bài toán là một hoán vị của bốn chữ số đã cho. Vậy ta có thể lập được \\[4! = 24\\]số."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Một thầy giáo cùng hai cô giáo và 6 học sinh xếp hàng để chụp ảnh, hỏi có bao nhiêu cách xếp sao cho 3 thầy cô giáo luôn đứng cạnh nhau và thầy giáo đứng giữa hai cô giáo?",
+      "options": [
+        "A. \\(10080\\).",
+        "B. \\(4320\\).",
+        "C. \\ (30240\\).",
+        "D. \\(1440\\)."
+      ],
+      "answer": "A",
+      "note": "Trước hết ta xếp chỗ cho 6 học sinh, có \\(6! = 720\\) cách. Sau khi xếp chỗ cho 6 học sinh, giữa các học sinh có 7 khoảng trống, ta chọn một khoảng trống để xếp chỗ cho ba thầy cô, có 7 cách chọn. Sau đó, xếp chỗ cho hai cô giáo đứng hai bên thầy giáo, có \\(2! = 2\\) cách. Theo quy tắc nhân, có tất cả \\(720.7.2 = 10080\\) cách xếp chỗ thoả mãn bài toán."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho hai đường thẳng song song \\(a,b\\). Trên đường thẳng \\[a\\] có \\[10\\] phân biệt và trên đường thẳng \\[b\\]có \\[15\\] điểm phân biệt. Có thể lập được bao nhiêu tam giác từ các điểm trên?",
+      "options": [
+        "A. \\[1050\\].",
+        "B. \\[1725\\].",
+        "C. \\[2300\\].",
+        "D. \\[675\\]"
+      ],
+      "answer": "B",
+      "note": "Trường hợp 1: Tam giác có 1 đỉnh thuộc \\(a\\) và 2 đỉnh thuộc \\(b\\) có \\(C_{10}^1C_{15}^2\\) tam giác. Trường hợp 2: Tam giác có 2 đỉnh thuộc \\(a\\) và 2 đỉnh thuộc \\(b\\) có \\(C_{10}^2C_{15}^1\\) tam giác. Vậy có tất cả \\(C_{10}^1C_{15}^2 + C_{10}^2C_{15}^1 = 1725\\)."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Một nhóm có \\(6\\) học sinh gồm \\(4\\) nam và \\(2\\) nữ. Hỏi có bao nhiêu cách chọn ra \\(3\\) học sinh trong đó có đúng \\(2\\) học sinh nam?",
+      "options": [
+        "A. \\(24\\).",
+        "B. \\(12\\).",
+        "C. \\(6\\).",
+        "D. \\(30\\)."
+      ],
+      "answer": "B",
+      "note": "Chọn ra \\(2\\) học sinh nam từ \\[4\\] học sinh nam, có \\[C_4^2 = \\frac{{4!}}{{2!.2!}} = 6\\] Ứng với mỗi cách chọn ra \\(2\\) học sinh nam có \\(2\\) cách chọn ra \\(1\\) học sinh nữ từ \\(2\\) học sinh nữ Vậy có \\(6.2 = 12\\) cách chọn ra \\(3\\) học sinh trong đó có đúng \\(2\\) học sinh nam."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Một tổ có \\[10\\] học sinh. Hỏi có bao nhiêu cách chọn ra \\[2\\] học sinh từ tổ đó để giữ hai chức vụ tổ trưởng và tổ phó.",
+      "options": [
+        "A. \\[A_{10}^2\\].",
+        "B. \\[C_{10}^2\\].",
+        "C. \\[A_{10}^8\\].",
+        "D. \\[{10^2}\\]."
+      ],
+      "answer": "A",
+      "note": "Mỗi cách chọn ra \\[2\\] học sinh từ tổ đó để giữ hai chức vụ tổ trưởng và tổ phó là một chỉnh hợp chập 2 của 10 phần tử. Số cách chọn ra \\[2\\] học sinh từ tổ đó để giữ hai chức vụ tổ trưởng và tổ phó là \\[A_{10}^2\\]"
+    }
+  ]
+}

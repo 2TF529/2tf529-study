@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-11-canh-dieu-bai-7-lap-trinh-giai-ba",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-11-canh-die",
+  "grade": "l11",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 11 Cánh diều Bài 7: Lập trình giải bào toán tìm kiếm có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Khái niệm nào dưới đây mô tả đúng nhất về bài toán tìm kiếm?",
+      "options": [
+        "A. Tìm kiếm dữ liệu từ cơ sở dữ liệu.",
+        "B. Cho một yêu cầu tìm kiếm và một tập hợp dữ liệu, tìm mục dữ liệu đáp ứng yêu cầu.",
+        "C. Chỉ tìm kiếm trong mảng số nguyên.",
+        "D. Không thể tìm thấy một mục dữ liệu nào."
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Bài toán tìm kiếm là việc xác định xem một mục dữ liệu có tồn tại trong một tập hợp dữ liệu hay không, và nếu có, xác định vị trí của nó."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Trong Python, phương thức nào được sử dụng để tìm kiếm phần tử trong danh sách?",
+      "options": [
+        "A. search()",
+        "B. find()",
+        "C. index()",
+        "D. locate()"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Phương thức index() được sử dụng để tìm kiếm phần tử trong danh sách và trả về chỉ số của lần xuất hiện đầu tiên."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Khi nào phương thức index() sẽ trả về lỗi \"ValueError\"?",
+      "options": [
+        "A. Khi tìm thấy phần tử.",
+        "B. Khi không tìm thấy phần tử trong danh sách.",
+        "C. Khi danh sách rỗng.",
+        "D. Khi có nhiều phần tử giống nhau."
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Phương thức index() sẽ phát sinh lỗi \"ValueError\" nếu không tìm thấy phần tử trong danh sách"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Tìm kiếm tuần tự trong Python là gì?",
+      "options": [
+        "A. Tìm kiếm theo thứ tự tăng dần của danh sách.",
+        "B. Tìm kiếm từng phần tử trong danh sách cho đến khi tìm thấy hoặc đã xét hết danh sách.",
+        "C. Tìm kiếm bằng cách chia đôi danh sách.",
+        "D. Tìm kiếm trong một cơ sở dữ liệu lớn."
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Tìm kiếm tuần tự là phương pháp kiểm tra từng phần tử trong danh sách cho đến khi tìm thấy mục tiêu hoặc đã xét hết danh sách."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Thuật toán tìm kiếm nhị phân yêu cầu điều kiện nào trước khi áp dụng?",
+      "options": [
+        "A. Danh sách phải sắp thứ tự.",
+        "B. Danh sách phải có ít nhất 10 phần tử.",
+        "C. Danh sách phải không chứa các phần tử trùng lặp.",
+        "D. Danh sách phải được lưu trữ trong một cơ sở dữ liệu."
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Tìm kiếm nhị phân chỉ có thể được thực hiện trên danh sách đã sắp thứ tự, vì thuật toán này dựa trên việc chia đôi danh sách để tìm kiếm."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong thuật toán tìm kiếm nhị phân, chỉ số của phần tử ở giữa được tính như thế nào?",
+      "options": [
+        "A. (lo + hi) / 2",
+        "B. (lo + hi) // 2",
+        "C. (hi - lo) / 2",
+        "D. (hi + lo) / 2"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Chỉ số của phần tử ở giữa được tính bằng (lo + hi) // 2 để đảm bảo kết quả là số nguyên."
+    }
+  ]
+}

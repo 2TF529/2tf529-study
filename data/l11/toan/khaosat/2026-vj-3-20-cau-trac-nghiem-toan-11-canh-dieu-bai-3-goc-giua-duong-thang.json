@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-3-20-cau-trac-nghiem-toan-11-canh-dieu-bai-3-goc-giua-duong-thang",
+  "sourceId": "vietjack:3-20-cau-trac-nghiem-toan-11-canh-dieu-b",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.20 câu trắc nghiệm Toán 11 Cánh diều Bài 3. Góc giữa đường thẳng và mặt phẳng. Góc nhị diện (Đúng sai - trả lời ngắn) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: TRẮC NGHIỆM NHIỀU LỰA CHỌN Trong các mệnh đề sai, mệnh đề nào đúng?",
+      "options": [
+        "A. Góc giữa đường thẳng và mặt phẳng bằng góc giữa đường thẳng đó và hình chiếu của nó trên mặt phẳng đã cho.",
+        "B. Góc giữa đường thẳng và mặt phẳng bằng góc giữa đường thẳng đó và đường thẳng b với b vuông góc với (P).",
+        "C. Góc giữa đường thẳng a và mặt phẳng (P) bằng góc giữa đường thẳng a và mặt phẳng (Q) thì mặt phẳng (P) song song với mặt phẳng (Q).",
+        "D. Góc giữa đường thẳng a và mặt phẳng (P) bằng góc giữa đường thẳng b và mặt phẳng (P) thì a song song với b."
+      ],
+      "answer": "A",
+      "note": "A Góc giữa đường thẳng và mặt phẳng bằng góc giữa đường thẳng đó và hình chiếu của nó trên mặt phẳng đã cho."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho tứ diện ABCD có AB, BC, BD đôi một vuông góc với nhau. Khẳng định nào dưới đây đúng?",
+      "options": [
+        "A. Góc giữa CD và mặt phẳng (ABD) là góc \\(\\widehat {CBD}\\).",
+        "B. Góc giữa AC và mặt phẳng (BCD) là góc \\(\\widehat {ACB}\\).",
+        "C. Góc giữa AD và mặt phẳng (ABC) là góc \\(\\widehat {ADB}\\).",
+        "D. Góc giữa AC và mặt phẳng (ABD) là góc \\(\\widehat {CBA}\\)."
+      ],
+      "answer": "B",
+      "note": "B Có AB ^ BC, AB ^ BD nên AB ^ (BCD). Do đó BC là hình chiếu của AC trên mặt phẳng (BCD). Do đó (AC, (BCD)) = (AC, BC) = \\(\\widehat {ACB}\\) ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho hình chóp S.ABC có SB ^ (ABC). Góc giữa SC và (ABC) là góc giữa",
+      "options": [
+        "A. SC và AC.",
+        "B. SC và AB.",
+        "C. SC và BC.",
+        "D. SC và SB."
+      ],
+      "answer": "C",
+      "note": "C Vì SB ^ (ABC) nên BC là hình chiếu vuông góc của SC trên mặt phẳng (ABC) nên góc giữa SC với (ABC) là góc giữa SC và BC."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hình chóp S.ABC có đáy ABC là tam giác đều cạnh a. Hình chiếu vuông góc của S lên (ABC) trùng với trung điểm H của cạnh BC. Biết tam giác SBC là tam giác đều. Số đo của góc giữa SA và (ABC).",
+      "options": [
+        "A. 30°.",
+        "B. 45°.",
+        "C. 60°.",
+        "D. 75°."
+      ],
+      "answer": "B",
+      "note": "B Vì SH ^ (ABC) nên HA là hình chiếu vuông góc của SA trên mặt phẳng (ABC). Khi đó (SA, (ABC)) = (SA, AH) = \\(\\widehat {SAH}\\) . Vì D ABC, D SBC đều cạnh a, H là trung điểm BC nên \\(AH = SH = \\frac{{a\\sqrt 3 }}{2}\\) . Suy ra D SHA vuông cân tại H. Do đó \\(\\widehat {SAH} = 45^\\circ \\) ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hình chóp S.ABC có SA ^ (ABC), \\(SA = 2a\\sqrt 3 ,AB = 2a\\), tam giác ABC vuông cân tại B. Gọi M là trung điểm của SB. Góc giữa đường thẳng CM và mặt phẳng (SAB) bằng",
+      "options": [
+        "A. 30°.",
+        "B. 45°.",
+        "C. 60°.",
+        "D. 90°."
+      ],
+      "answer": "B",
+      "note": "B Vì SA ^ (ABC) nên SA ^ BC mà BC ^ AB nên BC ^ (SAB). Suy ra BM là hình chiếu vuông góc của CM trên mặt phẳng (SAB). Do đó (CM, (SAB)) = (CM, BM) = \\(\\widehat {CMB}\\) . Xét D SAB vuông tại A có \\(SB = \\sqrt {S{A^2} + A{B^2}} = \\sqrt {{{\\left( {2a\\sqrt 3 } \\right)}^2} + {{\\left( {2a} \\right)}^2}} = 4a\\) . Vì M là trung điểm của SB nên \\(BM = \\frac{{SB}}{2} = 2a\\) . Vì D ABC vuông cân tại B nên BC = AB = 2a. Vì BC ^ (SAB) Þ BC ^ SB Þ D SBC vuông tại B hay D MBC vuông tại M. Xét D MBC có \\(\\tan \\widehat {BMC} = \\frac{{BC}}{{BM}} = 1 \\Rightarrow \\widehat {BMC} = 45^\\circ \\) ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho hình chóp S.ABC có đáy là tam giác vuông tại B. Cạnh bên SA vuông góc với mặt phẳng đáy. Gọi I là trung điểm của BC. Góc nhị diện [S, BC, A] là",
+      "options": [
+        "A. \\(\\widehat {SIA}\\).",
+        "B. \\(\\widehat {SBA}\\).",
+        "C. \\(\\widehat {SCA}\\).",
+        "D. \\(\\widehat {ASB}\\)."
+      ],
+      "answer": "B",
+      "note": "B Vì SA ^ (ABC) nên SA ^ BC mà BC ^ AB nên BC ^ (SAB) Þ BC ^ SB mà AB ^ BC. Do đó \\(\\widehat {SBA}\\) là góc phẳng nhị diện của góc nhị diện [S, BC, A]."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Cho hình chóp S.ABCD với đáy là hình vuông tâm O, cạnh 2a, \\(SA = a\\sqrt 6 \\) và vuông góc với đáy. Góc nào dưới đây là góc phẳng nhị diện của góc nhị diện [S, BD, A].",
+      "options": [
+        "A. \\(\\widehat {ADS}\\).",
+        "B. \\(\\widehat {ABS}\\).",
+        "C. \\(\\widehat {SCA}\\).",
+        "D. \\(\\widehat {SOA}\\)."
+      ],
+      "answer": "D",
+      "note": "D Vì SA ^ (ABCD) nên SA ^ BD mà BD ^ AC (do ABCD là hình vuônng) nên BD ^ (SAC) Suy ra BD ^ SO mà AO ^ BD nên \\(\\widehat {SOA}\\) là góc phẳng nhị diện của góc nhị diện [S, BD, A]."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho hình chóp S.ABCD có đáy là hình chữ nhật, SA vuông góc với mặt phẳng đáy. Tính số đo góc nhị diện [B, SA, D].",
+      "options": [
+        "A. 45°.",
+        "B. 90°.",
+        "C. 60°.",
+        "D. 30°."
+      ],
+      "answer": "B",
+      "note": "B Vì SA ^ AB, SA ^ AD nên \\(\\widehat {BAD}\\) là góc phẳng nhị diện của góc nhị diện [B, SA, D]. Do ABCD là hình chữ nhật nên \\(\\widehat {BAD} = 90^\\circ \\) ."
+    }
+  ]
+}

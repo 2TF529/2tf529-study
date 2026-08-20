@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-9-85-cau-trac-nghiem-toan-12-canh-dieu-bai-3-tich-phan-co-dap-an",
+  "sourceId": "vietjack:9-85-cau-trac-nghiem-toan-12-canh-dieu-b",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "9.85 câu trắc nghiệm Toán 12 Cánh diều Bài 3: Tích phân có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho \\(f\\) là hàm số liên tục trên \\[{\\rm{[}}1;2]\\]. Biết \\(F\\) là nguyên hàm của \\(f\\) trên \\[{\\rm{[}}1;2]\\] thỏa \\(F\\left( 1 \\right) = - {2^{}}\\) và \\(F\\left( 2 \\right) = {4^{}}\\). Khi đó \\(\\int\\limits_1^2 {f\\left( x \\right){\\rm{d}}x} \\)bằng.",
+      "options": [
+        "A. \\(6\\).",
+        "B. \\(2\\).",
+        "C. \\( - 6\\).",
+        "D. \\( - 2\\)."
+      ],
+      "answer": "A",
+      "note": "Chọn A Theo định nghĩa tích phân ta có: \\(\\int\\limits_1^2 {f\\left( x \\right){\\rm{d}}x} = F\\left( 2 \\right) - F\\left( 1 \\right) = 6\\)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho \\[f\\] là hàm số liên tục trên đoạn \\[\\left[ {1;2} \\right]\\]. Biết \\[F\\] là nguyên hàm của \\[f\\] trên đoạn \\[\\left[ {1;2} \\right]\\] thỏa mãn \\[F\\left( 1 \\right) = - 2\\] và \\[F\\left( 2 \\right) = 3\\]. Khi đó \\[\\int\\limits_1^2 {f\\left( x \\right){\\rm{d}}x} \\] bằng",
+      "options": [
+        "A. \\[ - 5\\]",
+        "B. 1.",
+        "C. \\[ - 1\\].",
+        "D. 5."
+      ],
+      "answer": "D",
+      "note": "Chọn D Ta có \\[\\int\\limits_1^2 {f\\left( x \\right){\\rm{d}}x} = F\\left( 2 \\right) - F\\left( 1 \\right) = 3 - \\left( { - 2} \\right) = 5\\]."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Nếu \\[\\int\\limits_2^5 {f(x){\\rm{d}}x} = 3\\] và \\[\\int\\limits_2^5 {g(x){\\rm{d}}x} = - 2\\] thì \\[\\int\\limits_2^5 {{\\rm{[}}f(x) + g(x){\\rm{]d}}x} \\] bằng:",
+      "options": [
+        "A. \\(5\\).",
+        "B. \\( - 5\\).",
+        "C. \\(1\\).",
+        "D. \\(3\\)."
+      ],
+      "answer": "C",
+      "note": "A. Chọn C \\[\\int\\limits_2^5 {{\\rm{[}}f(x) + g(x){\\rm{]d}}x} = \\int\\limits_2^5 {f(x){\\rm{d}}x} + \\int\\limits_2^5 {g(x){\\rm{d}}x = 3 - 2 = 1.} \\]"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Nếu \\(\\int\\limits_2^5 {f\\left( x \\right)dx} = 2\\) thì \\(\\int\\limits_2^5 {3f\\left( x \\right)dx} \\) bằng",
+      "options": [
+        "A. \\(6\\).",
+        "B. \\(3\\).",
+        "C. \\(18\\).",
+        "D. \\(2\\)."
+      ],
+      "answer": "A",
+      "note": "Chọn A Ta có: \\(\\int\\limits_2^5 {3f\\left( x \\right)dx} = 3\\int\\limits_2^5 {f\\left( x \\right)dx} = 3.2 = 6\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Nếu \\(\\int\\limits_1^3 f (x){\\rm{d}}x = 2\\) thì \\[\\int\\limits_1^3 {\\left[ {f\\left( x \\right) + 2x} \\right]dx} \\] bằng",
+      "options": [
+        "A. \\(20\\).",
+        "B. \\(10\\).",
+        "C. \\(18\\).",
+        "D. \\(12\\)."
+      ],
+      "answer": "B",
+      "note": "Chọn B Ta có \\[\\int\\limits_1^3 {\\left[ {f\\left( x \\right) + 2x} \\right]dx} = \\int\\limits_1^3 {f\\left( x \\right)dx} + \\int\\limits_1^3 {2xdx} = 2 + \\left. {{x^2}} \\right|_1^3 = 2 + \\left( {9 - 1} \\right) = 10\\]."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Nếu \\[\\int\\limits_0^2 {f\\left( x \\right)} {\\rm{d}}x = 4\\] thì \\[\\int\\limits_0^2 {\\left[ {\\frac{1}{2}f\\left( x \\right) + 2} \\right]} {\\rm{d}}x\\] bằng",
+      "options": [
+        "A. \\(6\\).",
+        "B. \\(8\\).",
+        "C. \\(4\\).",
+        "D. \\(2\\)."
+      ],
+      "answer": "A",
+      "note": "Chọn A Ta có: \\[\\int\\limits_0^2 {\\left[ {\\frac{1}{2}f\\left( x \\right) + 2} \\right]} {\\rm{d}}x = \\frac{1}{2}\\int\\limits_0^2 {f\\left( x \\right){\\rm{d}}x} + \\int\\limits_0^2 {2{\\rm{d}}x} = 2 + 4 = 6\\]."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Nếu \\[\\int\\limits_{ - 1}^5 {f\\left( x \\right)} {\\rm{d}}x = - 3\\] thì \\[\\int\\limits_5^{ - 1} {f\\left( x \\right)} {\\rm{d}}x\\] bằng",
+      "options": [
+        "A. \\(5\\).",
+        "B. \\(6\\).",
+        "C. \\(4\\).",
+        "D. \\(3\\)."
+      ],
+      "answer": "A",
+      "note": "Chọn A Ta có: \\[\\int\\limits_5^{ - 1} {f\\left( x \\right)} {\\rm{d}}x = - \\int\\limits_{ - 1}^5 {f\\left( x \\right)} {\\rm{d}}x = - \\left( { - 3} \\right) = 3\\]."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Nếu \\(\\int\\limits_0^2 {f\\left( x \\right){\\rm{d}}x} = 4\\) thì \\(\\int\\limits_0^2 {\\left[ {\\frac{1}{2}f\\left( x \\right) + 2} \\right]} {\\rm{d}}x\\) bằng",
+      "options": [
+        "A. \\(2\\).",
+        "B. \\(6\\).",
+        "C. \\(4\\).",
+        "D. \\(8\\)."
+      ],
+      "answer": "B",
+      "note": "Chọn B \\(\\int\\limits_0^2 {\\left[ {\\frac{1}{2}f\\left( x \\right) + 2} \\right]} {\\rm{d}}x = \\frac{1}{2}\\int\\limits_0^2 {f\\left( x \\right)} {\\rm{d}}x + \\int\\limits_0^2 2 {\\rm{d}}x = 2 + 4 = 6\\)."
+    }
+  ]
+}

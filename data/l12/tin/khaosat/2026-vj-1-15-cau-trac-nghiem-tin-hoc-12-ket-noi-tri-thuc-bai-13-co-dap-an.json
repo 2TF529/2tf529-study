@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-12-ket-noi-tri-thuc-bai-13-co-dap-an",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-12-ket-noi-",
+  "grade": "l12",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 12 Kết nối tri thức Bài 13 có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Câu 1: CSS viết tắt của từ nào trong tiếng Anh?",
+      "options": [
+        "A. Cascading Style Sheets",
+        "B. Cascading Script Sheets",
+        "C. Color Style Sheets",
+        "D. Cascading Style Systems"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: CSS là viết tắt của \"Cascading Style Sheets,\" là một ngôn ngữ dùng để định dạng các phần tử trên trang web."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Trong cấu trúc CSS, phần nào xác định các thẻ HTML nào sẽ được áp dụng định dạng?",
+      "options": [
+        "A. Vùng mô tả",
+        "B. Thuộc tính",
+        "C. Bộ chọn",
+        "D. Giá trị"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Bộ chọn (selector) trong CSS quy định các thẻ HTML nào sẽ được áp dụng định dạng mà bạn đã thiết lập."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Đoạn mã nào sau đây là ví dụ về CSS với nhiều quy định trong vùng mô tả?",
+      "options": [
+        "A. h1 {color: red;}",
+        "B. p { color: blue;}",
+        "C. div {background: yellow;}",
+        "D. a {}"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Đoạn mã p { color: blue;} là ví dụ về CSS với nhiều quy định trong vùng mô tả."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cách nào không phải là một cách thiết lập CSS?",
+      "options": [
+        "A. CSS trong",
+        "B. CSS ngoài",
+        "C. CSS nội tuyến",
+        "D. CSS tích hợp"
+      ],
+      "answer": "D",
+      "note": "Đáp án: D Giải thích: Các cách thiết lập CSS bao gồm CSS trong, CSS ngoài và CSS nội tuyến. \"CSS tích hợp\" không phải là một cách thiết lập CSS."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Để kết nối tệp CSS với tệp HTML, bạn có thể sử dụng thẻ nào trong phần &lt;head&gt;?",
+      "options": [
+        "A. &lt;script&gt;",
+        "B. &lt;style&gt;",
+        "C. &lt;link&gt;",
+        "D. &lt;import&gt;"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Thẻ &lt;link&gt; được sử dụng trong phần &lt;head&gt; của tệp HTML để liên kết với tệp CSS bên ngoài."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cấu trúc của một mẫu định dạng CSS đơn giản nhất bao gồm phần nào?",
+      "options": [
+        "A. Chỉ bộ chọn",
+        "B. Chỉ vùng mô tả",
+        "C. Bộ chọn và vùng mô tả",
+        "D. Bộ chọn, vùng mô tả và thuộc tính"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Cấu trúc cơ bản của một mẫu định dạng CSS bao gồm bộ chọn (selector) và vùng mô tả (declaration block )."
+    }
+  ]
+}

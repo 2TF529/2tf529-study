@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-3-12-bai-tap-van-dung-quy-tac-moment-de-tim-dieu-kien-can-bang-co",
+  "sourceId": "vietjack:3-12-bai-tap-van-dung-quy-tac-moment-de-",
+  "grade": "l10",
+  "subjectSlug": "li",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.12 bài tập Vận dụng quy tắc moment để tìm điều kiện cân bằng có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Một cái thước AB = 1,2 m đặt trên mặt bàn nhẵn nằm ngang, có trục quay O cách đầu A một khoảng 80 cm. Một lực F 1 = 5 N tác dụng lên đầu A theo phương vuông góc với thước và lực thứ hai tác dụng lên đầu B của thước theo phương vuông góc với thước (không vẽ trên hình). Các lực đều nằm trên mặt phẳng nằm ngang. Nếu thước không chuyển động thì lực tác dụng vào đầu B của thước có hướng và độ lớn như thế nào?",
+      "options": [
+        "A. lực tác dụng lên đầu B có phương vuông góc với F 1 → .",
+        "B. lực tác dụng lên đầu B cùng phương, ngược chiều với F 1 → .",
+        "C. lực tác dụng lên đầu B khác phương, cùng chiều với F 1 → .",
+        "D. lực tác dụng lên đầu B cùng phương, cùng chiều với F 1 → ."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là D Để thức không chuyển động tức là thước đang ở trạng thái cân bằng. M F 1 = M F ⇔ F 1 . O A = F . O B ⇔ F = F 1 . O A O B = 5.0 , 8 1 , 2 − 0 , 8 = 10 N"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Một người dùng tay tác dụng lực F nâng vật là một thanh rắn đồng chất dài 1m như hình dưới đây. Biết góc giữa thanh và sàn nhà là 30 0 và thanh rắn có trọng lượng 20 N. Độ lớn của lực F là",
+      "options": [
+        "A. 10 N.",
+        "B. 20 N.",
+        "C. 10 3 N.",
+        "D. 20 3 N."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là A. Ta xác định cánh tay đòn của các lực như hình vẽ trên. Trọng lực P tác dụng lên trọng tâm của thanh. Áp dụng điều kiện cân bằng của vật rắn có trục quay tại A, ta có: M P = M F Suy ra: P.d 2 = F.d 1 => 20. A B 2 . cos α = F . A B . cos α ⇒ F = 10 N ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Một thanh đồng chất có chiều dài L, trọng lượng 200 N, treo một vật có trọng lượng 450 N vào thanh như Hình 21.2. Các lực F 1 → , F 2 → của thanh tác dụng lên hai điểm tựa có độ lớn lần lượt là",
+      "options": [
+        "A. 212 N; 438 N.",
+        "B. 325 N; 325 N.",
+        "C. 438 N; 212 N.",
+        "D. 487,5 N; 162,5 N."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Các lực thành phần theo phương Oy cân bằng nhau hình dưới. F 1 + F 2 - 200 - 450 = 0 (1) Áp dụng quy tắc moment lực đối với trục quay tại A: L 2 .200. sin 90 ∘ + 3 L 4 .450. sin 90 ∘ = L F 2 . sin 90 ∘ (2) Từ (1) và (2) suy ra F 1 = 212 N ; F 2 = 438 N ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Một đường ống đồng chất có trọng lượng 100 N, chiều dài L, tựa trên điểm tựa như hình vẽ. Khoảng cách x và phản lực F R của điểm tựa tác dụng lên đường ống là",
+      "options": [
+        "A. x= 0,69L; F R = 800 N.",
+        "B. x= 0,69L; F R = 400 N.",
+        "C. x = 0,6L: F R = 552 N.",
+        "D. x = 0,6L; F R = 248 N."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Áp dụng quy tắc momen lực đối với trục quay tại A hình dưới: x .200. sin 90 ∘ + x − L 2 .100. sin 90 ∘ − L − x .500. sin 90 ∘ = 0 ⇒ 800 x = 550 L ⇒ x = 0 , 69 L Các lực thành phần theo phương Oy cân bằng nhau: F R − 200 − 100 − 500 = 0 ⇒ F R = 800 N"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Một thanh có độ dài L, trọng lượng 10 N, được treo nằm ngang vào tường như hình vẽ. Một trọng vật 20 N treo ở đầu thanh. Dây treo làm với thanh một góc α = 30 o . Xác định lực căng của dây treo.",
+      "options": [
+        "A. 50 N.",
+        "B. 60 N",
+        "C. 70 N.",
+        "D. 80 N."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là A Áp dụng điều kiện cân bằng đối với trục quay tại O, ta có: 0. N + O H . T = L 2 . P + L P 1 ⇔ L sin α . T = L 2 . P + L P 1 ⇔ T = P 2 + P 1 sin α = 5 + 20 sin 30 o = 50 N"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Một người nâng một tấm gỗ đồng chất, tiết diện đều, có trọng lượng P = 200 N. Người ấy tác dụng một lực F thẳng đứng lên phía trên vào đầu trên của tấm gỗ để giữ cho nó hợp với mặt đất một góc α = 30°. Độ lớn lực F để thanh cân bằng là:",
+      "options": [
+        "A. 100 N.",
+        "B. 86,6 N .",
+        "C. 50 N",
+        "D. 400 N."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Xét trục quay ở O, lực làm thanh quay theo chiều kim đồng hồ là trọng lực P, lực làm thanh quay ngược chiều kim đồng hồ là lực F. Do tấm gỗ đồng chất, tiết diện đều nên điểm đặt của trọng lực sẽ là trung điểm của thanh, hay OA = AB. Áp dụng quy tắc moment lực, ta có: M P = M F Suy ra: P . O C = F . O D ⇔ P . l 2 . cos 30 = F . l . cos 30 ⇔ P 2 = F = 200 2 = 100 N"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-trac-nghiem-he-thuc-luong-trong-tam-giac-lop-10-co-dap-an",
+  "sourceId": "vietjack:1-trac-nghiem-he-thuc-luong-trong-tam-gi",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.Trắc nghiệm Hệ thức lượng trong tam giác lớp 10 (có đáp án)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Tính diện tích tam giác có ba cạnh lần lượt là 5; 12; 13.",
+      "options": [
+        "A. 60;",
+        "B. 30;",
+        "C. 34;",
+        "D. \\(7\\sqrt 5 \\)"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Nửa chu vi của tam giác là: \\(p = \\frac{{5 + 12 + 13}}{2} = 15\\) Diện tích của tam giác là: \\(S = \\sqrt {p\\left( {p - 5} \\right)\\left( {p - 12} \\right)\\left( {p - 13} \\right)} = \\sqrt {15\\left( {15 - 5} \\right)\\left( {15 - 12} \\right)\\left( {15 - 13} \\right)} = 30\\) ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Tam giác ABC có \\(AC = 3\\sqrt 3 \\) , AB = 3, BC = 6. Tính số đo góc B",
+      "options": [
+        "A. 60° ;",
+        "B. 45°;",
+        "C. 30° ;",
+        "D. 120° ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Áp dụng hệ quả của định lý côsin, ta có: \\[\\cos B = \\frac{{{a^2} + {c^2} - {b^2}}}{{2ac}}\\] \\[ \\Leftrightarrow \\cos B = \\frac{{B{C^2} + A{B^2} - A{C^2}}}{{2AB.BC}} = \\frac{{{6^2} + {3^2} - {{\\left( {3\\sqrt 3 } \\right)}^2}}}{{2.6.3}} = \\frac{1}{2} \\Rightarrow \\widehat B = 60^\\circ \\] ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Tam giác ABC có các góc \\(\\widehat A = 75^\\circ ,\\widehat B = 45^\\circ \\) . Tính tỉ số \\(\\frac{{AB}}{{AC}}\\) .",
+      "options": [
+        "A. \\(\\frac{{\\sqrt 6 }}{3}\\) ;",
+        "B. \\(\\sqrt 6 \\) ;",
+        "C. \\(\\frac{{\\sqrt 6 }}{2}\\) ;",
+        "D. \\(2\\sqrt 6 \\) ."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có: \\[\\frac{b}{{\\sin B}} = \\frac{c}{{\\sin C}} \\Rightarrow \\frac{{AB}}{{AC}} = \\frac{c}{b} = \\frac{{\\sin C}}{{\\sin B}} = \\frac{{\\sin (180^\\circ - 75^\\circ - 45^\\circ )}}{{\\sin 45^\\circ }} = \\frac{{\\sqrt 6 }}{2}\\] ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Tam giác ABC có các góc \\(\\widehat B = 30^\\circ ,\\widehat C = 45^\\circ \\) , AB = 3 . Tính cạnh AC .",
+      "options": [
+        "A. \\(\\frac{{3\\sqrt 6 }}{2}\\) ;",
+        "B. \\(\\frac{{3\\sqrt 2 }}{2}\\) ;",
+        "C. \\(\\sqrt 6 \\) ;",
+        "D. \\(\\frac{{2\\sqrt 6 }}{3}\\) ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có: \\[\\frac{b}{{\\sin B}} = \\frac{c}{{\\sin C}} \\Rightarrow AC = b = \\frac{{c.\\sin B}}{{\\sin C}} = \\frac{{AB.\\sin B}}{{\\sin C}} = \\frac{{3.\\sin {{30}^0}}}{{\\sin {{45}^0}}} = \\frac{{3\\sqrt 2 }}{2}\\] ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Tam giác ABC có tổng hai góc B và C bằng 135° và độ dài cạnh BC bằng a. Tính bán kính đường tròn ngoại tiếp tam giác.",
+      "options": [
+        "A. \\(\\frac{{a\\sqrt 2 }}{2}\\) ;",
+        "B. \\(a\\sqrt 2 \\) ;",
+        "C. \\(\\frac{{a\\sqrt 3 }}{2}\\) ;",
+        "D. \\(a\\sqrt 3 \\) ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có góc A = 180° – 135° = 45° \\[\\frac{{BC}}{{\\sin A}} = 2R \\Rightarrow R = \\frac{{BC}}{{2\\sin A}} = \\frac{a}{{2\\sin 45^\\circ }} = \\frac{{a\\sqrt 2 }}{2}\\] ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Tam giác ABC có A = 120° khẳng định nào sau đây đúng?",
+      "options": [
+        "A. a 2 = b 2 + c 2 – 3bc ;",
+        "B. a 2 = b 2 + c 2 + bc ;",
+        "C. a 2 = b 2 + c 2 + 3bc ;",
+        "D. a 2 = b 2 + c 2 – bc ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Áp dụng định lí Côsin tại đỉnh A ta có: a 2 = b 2 + c 2 – 2bc.cosA \\[ \\Rightarrow \\] a 2 = b 2 + c 2 – 2bc.cos120° = b 2 + c 2 + bc"
+    }
+  ]
+}

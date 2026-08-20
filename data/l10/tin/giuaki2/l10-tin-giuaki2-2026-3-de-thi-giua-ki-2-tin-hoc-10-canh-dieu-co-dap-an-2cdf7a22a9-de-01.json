@@ -1,0 +1,368 @@
+{
+  "id": "l10-tin-giuaki2-2026-3-de-thi-giua-ki-2-tin-hoc-10-canh-dieu-co-dap-an-2cdf7a22a9-de-01",
+  "grade": "l10",
+  "subjectSlug": "tin",
+  "examType": "giuaki2",
+  "year": 2026,
+  "code": "Đề 01",
+  "title": "3 Đề thi Giữa kì 2 Tin học 10 Cánh diều (có đáp án) - Đề 01",
+  "duration": 45,
+  "answerSource": "partial",
+  "sourceUrl": "https://www.vietjack.com/de-kiem-tra-lop-10/de-thi-giua-ki-2-tin-hoc-lop-10-canh-dieu.jsp",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 1. &lt;/strong&gt;Cho biểu thức logic &lt;strong&gt;x and y&lt;/strong&gt;. Biểu thức nhận giá trị True khi nào?",
+      "options": [
+        "A. Cả x và y đều nhận giá trị True.",
+        "B. x nhận giá trị True, y nhận giá trị False.",
+        "C. x nhận giá trị False, y nhận giá trị True.",
+        "D. Cả x và y đều nhận giá trị False."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 2. &lt;/strong&gt;Cho x = 5, y = 10. Hãy cho biết biểu thức logic nào nhận giá trị &lt;strong&gt;True?&lt;/strong&gt;",
+      "options": [
+        "A. 4*x=2*y",
+        "B. (x%5==0) and (y%2==0)",
+        "C. (x>2*y) or (x+y >20)",
+        "D. x+10 >= y+7"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 3. &lt;/strong&gt;Em hãy cho biết kết quả của chương trình sau:\n>>>a=5\n>>>b=10\n>>>if a < b:\nprint(‘True’)",
+      "options": [
+        "A. 5",
+        "B. 10",
+        "C. True",
+        "D. Flase"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 4. &lt;/strong&gt;Cho A = 5, B = 10, giá trị logic của điều kiện nào là False?",
+      "options": [
+        "A. A < B",
+        "B. 2*A == B",
+        "C. A + 5 != B",
+        "D. A + 10 > B + 1"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 5.&lt;/strong&gt; Trong Python, với cấu trúc if – else thì &lt;câu lệnh hay nhóm câu lệnh 1&gt; được thực hiện khi:",
+      "options": [
+        "A. Điều kiện sai.",
+        "B. Điều kiện đúng.",
+        "C. Điều kiện bằng 0.",
+        "D. Điều kiện khác 0."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 6.&lt;/strong&gt; &lt;Điều kiện&gt; trong câu lệnh rẽ nhánh là:",
+      "options": [
+        "A. Biểu thức tính toán.",
+        "B. Biểu thức logic.",
+        "C. Biểu thức quan hệ.",
+        "D. Các hàm toán học."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 7.&lt;/strong&gt; Chọn phát biểu đúng.\nCho biểu thức: x or y",
+      "options": [
+        "A. Cho kết quả là False khi và chỉ khi x và y đều nhận giá trị False.",
+        "B. Cho kết quả là True khi x và y đều nhận giá trị True.",
+        "C. Đảo giá trị của x và y cho nhau",
+        "D. Cho kết quả là False khi và chỉ khi x hoặc y nhận giá trị False."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 8.&lt;/strong&gt; Hàm range(101) sẽ tạo ra:",
+      "options": [
+        "A. một dãy số từ 0 đến 100",
+        "B. một dãy số từ 1 đến 101",
+        "C. 101 số ngẫu nhiên",
+        "D. một dãy số ngẫu nhiên 101"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 9.&lt;/strong&gt; Cú pháp đúng của câu lệnh lặp for:",
+      "options": [
+        "A. for &lt;biến chạy&gt; in range(m, n):",
+        "B. for &lt;biến chạy&gt; in range(m, n).",
+        "C. for &lt;biến chạy&gt; in:",
+        "D. for &lt;biến chạy&gt; range(m, n):"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 10.&lt;/strong&gt; Kết quả của đoạn chương trình sau:\ns = 0\nfor i in range(1, 10):\ns = s + i\nprint(s)",
+      "options": [
+        "A. 55",
+        "B. 45",
+        "C. 11",
+        "D. 10"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 11,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 11.&lt;/strong&gt; Trong Python có mấy dạng lặp:",
+      "options": [
+        "A. 1",
+        "B. 2",
+        "C. 3",
+        "D. 4"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 12,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 12.&lt;/strong&gt; Cho đoạn chương trình sau:\ns=0\ni=1\nwhile i<=5:\ns=s+1\ni=i+1\nSau khi thực hiện đoạn chương trình trên giá trị của s là:",
+      "options": [
+        "A. 9",
+        "B. 15",
+        "C. 5",
+        "D. 10"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 13,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 13.&lt;/strong&gt; &lt;Điều kiện&gt; trong câu lệnh lặp với số lần không biết trước là:",
+      "options": [
+        "A. Hàm toán học.",
+        "B. Biểu thức logic.",
+        "C. Biểu thức quan hệ.",
+        "D. Biểu thức tính toán."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 14,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 14.&lt;/strong&gt; Cho đoạn chương trình sau:\nfor i in range(6):\nprint(i)\nTrong đoạn chương trình trên vòng lặp được thực hiện bao nhiêu lần?",
+      "options": [
+        "A. 3",
+        "B. 4",
+        "C. 5",
+        "D. 6"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 15,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 15.&lt;/strong&gt; Từ khóa dùng để khai báo hàm trong Python là?",
+      "options": [
+        "A. def",
+        "B. procedure",
+        "C. return",
+        "D. function"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 16,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 16.&lt;/strong&gt; Phát biểu nào chính xác khi nói về hàm trong Python?",
+      "options": [
+        "A. Mỗi hàm chỉ được gọi một lần",
+        "B. Người viết chương trình không thể tự tạo các hàm",
+        "C. Không thể gọi một hàm trong một hàm khác",
+        "D. Hàm có thể được tái sử dụng trong chương trình"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 17,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 17.&lt;/strong&gt; Chọn phát biểu &lt;strong&gt;không &lt;/strong&gt;đúng?",
+      "options": [
+        "A. Phần thân hàm (gồm các lệnh mô tả hàm) phải viết lùi vào theo quy định của Python.",
+        "B. Theo sau tên hàm có thể có hoặc không có các tham số.",
+        "C. Không thể gọi một chương trình con trong Python là một hàm.",
+        "D. Để sử dụng hàm cần khai báo hàm và viết lời gọi thực hiện."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 18,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 18.&lt;/strong&gt; Hàm trong Python được khai báo theo mẫu:",
+      "options": [
+        "A. &lt;strong&gt; def &lt;/strong&gt;&lt;em&gt;tên_hàm(tham số):&lt;/em&gt;",
+        "B. &lt;strong&gt; def &lt;/strong&gt;&lt;em&gt;tên_hàm(tham số)&lt;/em&gt;",
+        "C. &lt;strong&gt; def &lt;/strong&gt;&lt;em&gt;tên_hàm()&lt;/em&gt;",
+        "D. &lt;strong&gt; def &lt;/strong&gt;&lt;em&gt;(tham số):&lt;/em&gt;"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 19,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 19.&lt;/strong&gt; Thư viện math cung cấp:",
+      "options": [
+        "A. Thủ tục vào ra của chương trình.",
+        "B. Hỗ trợ việc tạo ra các lựa chọn ngẫu nhiên",
+        "C. Các hằng và hàm toán học.",
+        "D. Hỗ trợ trực tiếp các định dạng nén và lưu trữ dữ liệu"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 20,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 20.&lt;/strong&gt; Phát biểu nào sau đây là đúng?",
+      "options": [
+        "A. Nếu là hàm có kết quả thì trong thân hàm sẽ không có lệnh return.",
+        "B. Nếu là hàm có kết quả thì trong thân hàm sẽ có lệnh return và theo sau là dãy giá trị trả về.",
+        "C. Nếu là hàm có kết quả thì trong thân hàm sẽ là dãy các lệnh tính giá trị và không có lệnh return.",
+        "D. Nếu là hàm có kết quả thì trong thân hàm sẽ duy nhất lệnh return."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 21,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 21.&lt;/strong&gt; Khi sử dụng hàm sqrt() ta cần khai báo thư viện:",
+      "options": [
+        "A. math",
+        "B. ramdom",
+        "C. zlib",
+        "D. datetime"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 22,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 22.&lt;/strong&gt; Xâu kí tự trong Python là:",
+      "options": [
+        "A. Một kí tự",
+        "B. Một dãy các số",
+        "C. Một dãy các kí tự",
+        "D. Một giá trị bất kì."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 23,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 23.&lt;/strong&gt; Độ dài của xâu được tính thông qua lệnh:",
+      "options": [
+        "A. len()",
+        "B. range()",
+        "C. append()",
+        "D. for"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 24,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 24.&lt;/strong&gt; Cho chương trình sau:\ny = “Trúc xin trúc mọc sân đình”\nx1 = “sân đình”\nx2 = “bờ ao”\nprint(y.replace(x1,x2))\nKết quả của chương trình trên là:",
+      "options": [
+        "A. Trúc xinh trúc mọc sân đình",
+        "B. Trúc xinh trúc mọc sân đình bờ ao",
+        "C. Trúc xinh trúc mọc bờ ao",
+        "D. Trúc xinh trúc mọc bờ ao sân đình"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 25,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 25.&lt;/strong&gt; Kết quả của đoạn lệnh sau là",
+      "options": [
+        "A. c",
+        "B. h",
+        "C. à",
+        "D. o"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 26,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 26.&lt;/strong&gt; Để khai báo dữ liệu kiểu xâu thì dữ liệu phải được khai báo trong cặp ngoặc nào sau đây:",
+      "options": [
+        "A. Cặp dấu ngoặc vuông []",
+        "B. Cặp dấu ngoặc tròn ()",
+        "C. Cặp dấu ngoặc móc {}",
+        "D. Cặp dấu nháy đơn ‘’ hoặc cặp dấu nháy kép"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 27,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 27.&lt;/strong&gt; Để thay thế từ hoặc cụm từ bằng từ hoặc cụm từ khác, ta sử dụng hàm nào?",
+      "options": [
+        "A. find()",
+        "B. len()",
+        "C. replace()",
+        "D. remove()"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 28,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 28.&lt;/strong&gt; Cho xâu st=’abc’. Hàm len(st) có giá trị là:",
+      "options": [
+        "A. 1",
+        "B. 2",
+        "C. 3",
+        "D. 4"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 29,
+      "type": "short_answer",
+      "content": "&lt;strong&gt;Câu 1. (1 điểm) &lt;/strong&gt;Em hãy dự đoán chương trình hình bên dưới đưa ra màn hình những gì?",
+      "answer": null
+    },
+    {
+      "id": 30,
+      "type": "short_answer",
+      "content": "&lt;strong&gt;Câu 2. (1 điểm) &lt;/strong&gt;Xét bài toán: Cho xâu &lt;em&gt;s&lt;/em&gt; nhập vào từ bàn phím. Người ta thay kí tự ở vị trí chẵn trong xâu bằng kí tự “*”.\n&lt;em&gt;Chú ý:&lt;/em&gt; Vị trí các kí tự trong xâu được đánh số bắt đầu từ 0.\nHãy tìm lỗi trong chương trình sau và đề xuất một cách sửa.",
+      "answer": null
+    },
+    {
+      "id": 31,
+      "type": "short_answer",
+      "content": "&lt;strong&gt;Câu 3. (1 điểm) &lt;/strong&gt;Với hàm BCNN được xây dựng ở chương sau đây (Hình 1), trong những dòng lệnh có sử dụng hàm BCNN, dòng lệnh nào đúng, dòng lệnh nào sai và tại sao?",
+      "answer": null
+    }
+  ]
+}

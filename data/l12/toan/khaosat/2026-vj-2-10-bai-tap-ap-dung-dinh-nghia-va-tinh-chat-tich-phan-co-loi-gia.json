@@ -1,0 +1,78 @@
+{
+  "id": "2026-vj-2-10-bai-tap-ap-dung-dinh-nghia-va-tinh-chat-tich-phan-co-loi-gia",
+  "sourceId": "vietjack:2-10-bai-tap-ap-dung-dinh-nghia-va-tinh-",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.10 bài tập Áp dụng định nghĩa và tính chất tích phân có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho \\(\\int\\limits_1^2 {f\\left( x \\right)dx} = 3\\) và \\(\\int\\limits_1^2 {g\\left( x \\right)dx} = - 2\\). Giá trị \\(\\int\\limits_1^2 {\\left[ {f\\left( x \\right) + g\\left( x \\right)} \\right]dx} \\).",
+      "options": [
+        "A. 1;",
+        "B. 5;",
+        "C. −1;",
+        "D. 6."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A \\(\\int\\limits_1^2 {\\left[ {f\\left( x \\right) + g\\left( x \\right)} \\right]dx} \\)\\( = \\int\\limits_1^2 {f\\left( x \\right)dx} + \\int\\limits_1^2 {g\\left( x \\right)dx} \\) = 3 – 2 = 1."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho \\(\\int\\limits_1^2 {\\left[ {4f\\left( x \\right) - 2x} \\right]dx} = 1\\). Khi đó \\(\\int\\limits_1^2 {f\\left( x \\right)dx} \\) bằng",
+      "options": [
+        "A. 1;",
+        "B. 3;",
+        "C. −1;",
+        "D. −3."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A \\(\\int\\limits_1^2 {\\left[ {4f\\left( x \\right) - 2x} \\right]dx} = 1\\)\\( \\Leftrightarrow 4\\int\\limits_1^2 {f\\left( x \\right)dx} - 2\\int\\limits_1^2 {xdx} = 1\\)\\( \\Leftrightarrow 4\\int\\limits_1^2 {f\\left( x \\right)dx} - 3 = 1\\)\\( \\Leftrightarrow \\int\\limits_1^2 {f\\left( x \\right)dx} = 1\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Nếu hàm số y = f(x) có đạo hàm liên tục trên ℝ thỏa mãn f(0) = −2023, \\(\\int\\limits_0^1 {f'\\left( x \\right)dx} = 2024\\) thì",
+      "options": [
+        "A. f(1) = 4047;",
+        "B. f(1) = −1;",
+        "C. f(1) = 1;",
+        "D. f(1) = −4047."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C \\(\\int\\limits_0^1 {f'\\left( x \\right)dx} = 2024\\)\\( \\Leftrightarrow \\left. {f\\left( x \\right)} \\right|_0^1 = 2024\\)\\( \\Leftrightarrow f\\left( 1 \\right) - f\\left( 0 \\right) = 2024\\)\\( \\Leftrightarrow f\\left( 1 \\right) = 2024 + f\\left( 0 \\right) = 2024 - 2023 = 1\\)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hàm số y = f(x) liên tục trên đoạn [a; b]. Gọi F(x) là một nguyên hàm của hàm số f(x) trên đoạn [a; b]. Chọn mệnh đề sai.",
+      "options": [
+        "A. \\(\\int\\limits_a^b {f\\left( x \\right)dx} = F\\left( b \\right) - F\\left( a \\right)\\);",
+        "B. \\(\\int\\limits_a^a {f\\left( x \\right)dx} = 1\\);",
+        "C. \\(\\int\\limits_a^a {f\\left( x \\right)dx} = 0\\);",
+        "D. \\(\\int\\limits_a^b {f\\left( x \\right)dx} = - \\int\\limits_b^a {f\\left( x \\right)dx} \\)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Vì \\(\\int\\limits_a^a {f\\left( x \\right)dx} = 0\\) nên đáp án B sai."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Biết F(x) = x 2 là một nguyên hàm của hàm số f(x) trên ℝ. Giá trị của \\(\\int\\limits_1^2 {\\left[ {2 + f\\left( x \\right)} \\right]dx} \\) bằng",
+      "options": [
+        "A. 3;",
+        "B. 5;",
+        "C. \\(\\frac{{13}}{3}\\);",
+        "D. \\(\\frac{7}{3}\\)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Có \\(\\int\\limits_1^2 {\\left[ {2 + f\\left( x \\right)} \\right]dx} = \\left. {\\left( {2x + {x^2}} \\right)} \\right|_1^2 = 8 - 3 = 5\\)."
+    }
+  ]
+}

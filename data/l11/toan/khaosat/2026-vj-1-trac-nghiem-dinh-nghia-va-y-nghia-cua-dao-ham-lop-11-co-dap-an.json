@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-1-trac-nghiem-dinh-nghia-va-y-nghia-cua-dao-ham-lop-11-co-dap-an",
+  "sourceId": "vietjack:1-trac-nghiem-dinh-nghia-va-y-nghia-cua-",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.Trắc nghiệm Định nghĩa và ý nghĩa của đạo hàm lớp 11 (có đáp án)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: TRẮC NGHIỆM NHIỀU LỰA CHỌN Cho hàm số \\(y = f(x)\\) có đạo hàm tại \\({x_0}\\) là \\(f'({x_0})\\) . Khẳng định nào sau đây là sai ?",
+      "options": [
+        "A. \\(f'({x_0}) = \\mathop {\\lim }\\limits_{x \\to {x_0}} \\frac{{f(x + {x_0}) - f({x_0})}}{{x - {x_0}}}\\) .",
+        "B. \\(f'({x_0}) = \\mathop {\\lim }\\limits_{\\Delta x \\to 0} \\frac{{f({x_0} + \\Delta x) - f({x_0})}}{{\\Delta x}}\\) .",
+        "C. \\(f'({x_0}) = \\mathop {\\lim }\\limits_{x \\to {x_0}} \\frac{{f(x) - f({x_0})}}{{x - {x_0}}}\\) .",
+        "D. \\(f'({x_0}) = \\mathop {\\lim }\\limits_{h \\to 0} \\frac{{f(h + {x_0}) - f({x_0})}}{h}\\) ."
+      ],
+      "answer": "A",
+      "note": "A Theo định nghĩa đạo hàm của hàm số tại một điểm ta thấy đáp án A sai."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hàm số \\(y = f\\left( x \\right)\\) xác định trên \\(\\mathbb{R}\\) thỏa mãn \\(\\mathop {\\lim }\\limits_{x \\to 3} \\frac{{f\\left( x \\right) - f\\left( 3 \\right)}}{{x - 3}} = 2\\) . Kết quả đúng là",
+      "options": [
+        "A. \\(f'\\left( 2 \\right) = 3\\) .",
+        "B. \\(f'\\left( x \\right) = 2\\) .",
+        "C. \\(f'\\left( x \\right) = 3\\) .",
+        "D. \\(f'\\left( 3 \\right) = 2\\) ."
+      ],
+      "answer": "D",
+      "note": "D Theo định nghĩa đạo hàm của hàm số tại một điểm ta có \\(\\mathop {\\lim }\\limits_{x \\to 3} \\frac{{f\\left( x \\right) - f\\left( 3 \\right)}}{{x - 3}} = 2 = f'\\left( 3 \\right)\\) ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Hệ số góc của tiếp tuyến với đồ thị hàm số y = f(x) = x 2 tại điểm có hoành độ x 0 = −2 là",
+      "options": [
+        "A. −4.",
+        "B. 4.",
+        "C. 2.",
+        "D. −2."
+      ],
+      "answer": "A",
+      "note": "A Ta có f'(x) = 2x nên f'(−2) = 2.(−2) = −4. Vậy hệ số góc của tiếp tuyến với đồ thị là k = f(−2) = −4."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Trong các khẳng định dưới đây. Tìm khẳng định đúng.",
+      "options": [
+        "A. \\(f'({x_0}) = \\mathop {\\lim }\\limits_{x \\to {x_0}} \\frac{{f(x) - f({x_0})}}{{x - {x_0}}}\\) .",
+        "B. (C)' = C, C là hằng số.",
+        "C. Hệ số góc của tiếp tuyến tạo điểm M(x 0 ; f(x 0 )): f(x).",
+        "D. Phương trình tiếp tuyến của đồ thị hàm số tại M(x 0 ; f(x 0 )): y = f'(x)(x – x 0 ) + f(x 0 )."
+      ],
+      "answer": "A",
+      "note": "A Ta có (C)' = 0. Hệ số góc của tiếp tuyến tạo điểm M(x 0 ; f(x 0 )): f(x 0 ). Phương trình tiếp tuyến của đồ thị hàm số tại M(x 0 ; f(x 0 )): y = f'(x 0 )(x – x 0 ) + f(x 0 )."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hàm số f(x) = 2x 2 có đồ thị (C). Tiếp tuyến của đồ thị (C) tại điểm x 0 = 1 có hệ số góc bằng",
+      "options": [
+        "A. 2 .",
+        "B. − 4 .",
+        "C. 1 .",
+        "D. 4 ."
+      ],
+      "answer": "D",
+      "note": "D Có f'(x) = 4x. Suy ra tiếp tuyến của đồ thị (C) tại điểm x 0 = 1 có hệ số f'(1) = 4.1 = 4."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Viết phương trình tiếp tuyến của đồ thị hàm số \\(y = {x^3} - 3x\\) tại điểm có hoành độ bằng 2.",
+      "options": [
+        "A. \\[y = - 9x + 16\\] .",
+        "B. \\[y = - 9x + 20\\] .",
+        "C. \\[y = 9x - 20\\] .",
+        "D. \\[y = 9x - 16\\] ."
+      ],
+      "answer": "D",
+      "note": "D \\(y' = 3{x^2} - 3\\) Ta có \\(y\\left( 2 \\right) = 2\\) và \\(y'\\left( 2 \\right) = 9\\) . Do đó phương trình tiếp tuyến cần tìm là: \\(y = 9\\left( {x - 2} \\right) + 2 \\Leftrightarrow y = 9x - 16\\) ."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Phương trình tiếp tuyến của đồ thị hàm số y = x 3 tại điểm có tung độ bằng 8 là",
+      "options": [
+        "A. y = −12x + 16 .",
+        "B. y = 8 .",
+        "C. y = 12x – 16 .",
+        "D. y = 12x – 24 ."
+      ],
+      "answer": "C",
+      "note": "C Ta có y' = 3x 2 . Giả sử tiếp tuyến tại điểm M(x 0 ; y 0 ). Theo đề ta có y 0 = 8 Þ \\(x_0^3 = 8 \\Rightarrow {x_0} = 2\\) . Hệ số góc của tiếp tuyến là k = 3.2 2 = 12. Phương trình tiếp tuyến cần tìm là y = 12(x – 2) + 8 = 12x – 16."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Hệ số góc k của tiếp tuyến của đồ thị hàm số y = x 2 – 4 tại điểm x 0 là",
+      "options": [
+        "A. \\(k = x_0^2\\) .",
+        "B. k = 2x 0 .",
+        "C. k = −2x 0 .",
+        "D. k = −1 ."
+      ],
+      "answer": "B",
+      "note": "B Ta có y' = 2x. Do đó hệ số góc k của tiếp tuyến của đồ thị tại điểm x 0 là k = 2x 0 ."
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "2026-vj-3-12-bai-tap-cac-cach-tinh-dien-tich-tam-giac-co-loi-giai",
+  "sourceId": "vietjack:3-12-bai-tap-cac-cach-tinh-dien-tich-tam",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.12 Bài tập Các cách tính diện tích tam giác (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 3: Cho tam giác ABC có b = 10, c = 15 và \\(\\widehat A = 30^\\circ \\). Diện tích tam giác ABC là:",
+      "options": [
+        "A. \\(\\frac{{75}}{2}\\);",
+        "B. \\(\\frac{{65}}{2}\\);",
+        "C. \\(\\frac{{55}}{2}\\);",
+        "D. \\(\\frac{{85}}{2}\\)."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A. Ta áp dụng công thức \\(S = \\frac{1}{2}bc\\sin A\\), ta có: \\(S = \\frac{1}{2}.10.15.\\sin 30^\\circ = \\frac{{75}}{2}\\) ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 4: Cho tam giác ABC có AB = 5 , \\(\\widehat A = 30^\\circ \\), \\(\\widehat B = 75^\\circ \\). Tính diện tích tam giác ABC.",
+      "options": [
+        "A. \\(\\frac{5}{2}\\);",
+        "B. 4;",
+        "C. \\(\\frac{{25}}{4}\\);",
+        "D. 5."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải: Đáp án đúng là: C. Trong tam giác ABC có: \\(\\widehat C = 180^\\circ - \\left( {\\widehat A + \\widehat B} \\right) = 180^\\circ - \\left( {30^\\circ + 75^\\circ } \\right) = 75^\\circ \\). Suy ra tam giác ABC cân tại A, suy ra AB = AC = 5. Do đó diện tích tam giác ABC là: \\(S = \\frac{1}{2}.AB.AC.\\sin A = \\frac{1}{2}.5.5.\\sin 30^\\circ = \\frac{{25}}{4}\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 5: Tam giác ABC có a = 10, b = 21, c = 17. Diện tích tam giác ABC bằng:",
+      "options": [
+        "A. 24;",
+        "B. 84;",
+        "C. 42;",
+        "D. 48."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải: Đáp án đúng là B. Ta có \\(p = \\frac{1}{2}\\left( {a + b + c} \\right) = \\frac{1}{2}\\left( {10 + 21 + 17} \\right) = 24\\). Do đó diện tích tam giác ABC là: S = \\(\\sqrt {p\\left( {p - a} \\right)\\left( {p - b} \\right)\\left( {p - c} \\right)} = \\sqrt {24\\left( {24 - 10} \\right)\\left( {24 - 21} \\right)\\left( {24 - 17} \\right)} \\)= 84."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 6: Diện tích của một lá cờ hình tam giác cân (như hình dưới) có độ dài cạnh bên là 80 cm và góc ở đỉnh là 50° gần với giá trị nào nhất?",
+      "options": [
+        "A. 3 451 cm 2 ;",
+        "B. 2 451 cm 2 ;",
+        "C. 4 451 cm 2 ;",
+        "D. 5 451 cm 2 ."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải: Đáp án đúng là: B. Ta có: Diện tích lá cờ hình tam giác cân là: S = \\(\\frac{1}{2}\\). 80. 80.sin 50° ≈ 2451,34 (cm 2 )."
+    }
+  ]
+}

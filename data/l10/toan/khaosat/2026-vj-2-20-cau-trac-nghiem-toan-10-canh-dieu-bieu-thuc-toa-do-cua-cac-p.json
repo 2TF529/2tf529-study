@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-20-cau-trac-nghiem-toan-10-canh-dieu-bieu-thuc-toa-do-cua-cac-p",
+  "sourceId": "vietjack:2-20-cau-trac-nghiem-toan-10-canh-dieu-b",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.20 câu Trắc nghiệm Toán 10 Cánh diều Biểu thức tọa độ của các phép toán vectơ (Phần 2) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Trong mặt phẳng tọa độ Oxy, cho \\(\\vec a = \\left( {{a_1};{a_2}} \\right),\\,\\,\\vec b = \\left( {{b_1};{b_2}} \\right)\\) và \\(\\vec x = \\left( {{a_1} + {b_1};{a_2} + {b_2}} \\right)\\). Khi đó \\(\\vec x\\) bằng:",
+      "options": [
+        "A. \\(\\vec a.\\vec b\\);",
+        "B. \\(\\vec a + \\vec b\\);",
+        "C. \\(\\vec a - \\vec b\\);",
+        "D. \\(k\\vec a\\,\\,\\,\\left( {k \\in \\mathbb{R}} \\right)\\)."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải Đáp án đúng là: B ⦁ \\(\\vec a.\\vec b = {a_1}{b_1} + {a_2}{b_2}\\). Do đó phương án A sai. ⦁ Ta có \\(\\vec a + \\vec b = \\left( {{a_1} + {b_1};{a_2} + {b_2}} \\right)\\). Suy ra \\(\\vec x = \\vec a + \\vec b\\). Vì vậy phương án B đúng. ⦁ \\(\\vec a - \\vec b = \\left( {{a_1} - {b_1};{a_2} - {b_2}} \\right)\\). Do đó phương án C sai. ⦁ \\(k\\vec a = \\left( {k{a_1};k{a_2}} \\right)\\,\\,\\,\\left( {k \\in \\mathbb{R}} \\right)\\). Do đó phương án D sai. Vậy ta chọn phương án B."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hai vectơ \\(\\overrightarrow m = \\left( {{m_1};{m_2}} \\right),\\,\\,\\vec n = \\left( {{n_1};{n_2}} \\right)\\) khác \\(\\vec 0\\). Nếu tồn tại một số k ∈ ℝ thỏa mãn m 1 = kn 1 và m 2 = kn 2 thì:",
+      "options": [
+        "A. Hai vectơ \\(\\overrightarrow m \\) và \\(\\vec n\\) cùng phương;",
+        "B. \\(\\overrightarrow m = k\\vec n\\);",
+        "C. Hai vectơ \\(\\overrightarrow m \\) và \\(\\vec n\\) không cùng phương;",
+        "D. Cả A và B đều đúng."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải Đáp án đúng là: D ⦁ Hai vectơ \\(\\overrightarrow m \\) và \\(\\vec n\\)\\(\\left( {\\vec n \\ne \\vec 0} \\right)\\) cùng phương khi và chỉ khi tồn tại một số k ∈ ℝ thỏa mãn m 1 = kn 1 và m 2 = kn 2 . Do đó phương án A đúng, phương án C sai. ⦁ Ta có m 1 = kn 1 và m 2 = kn 2 . Suy ra \\(\\overrightarrow m = k\\vec n\\). Do đó phương án B đúng. Vậy ta chọn phương án D."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trong mặt phẳng tọa độ Oxy, cho hai điểm C(4; – 2), D( – 5; 11) . Khi đó độ dài đoạn thẳng CD bằng:",
+      "options": [
+        "A. \\(4\\sqrt 5 \\);",
+        "B. \\(2\\sqrt {22} \\);",
+        "C. \\(5\\sqrt {10} \\);",
+        "D. \\(\\sqrt {82} \\)."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là: C Ta có \\(CD = \\left| {\\overrightarrow {CD} } \\right| = \\sqrt {{{\\left( {{x_D} - {x_C}} \\right)}^2} + {{\\left( {{y_D} - {y_C}} \\right)}^2}} \\) \\( = \\sqrt {{{\\left( { - 5 - 4} \\right)}^2} + {{\\left( {11 + 2} \\right)}^2}} = 5\\sqrt {10} \\) . Vậy \\(CD = 5\\sqrt {10} \\). Do đó ta chọn phương án C."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Trong mặt phẳng tọa độ Oxy, cho \\(\\vec u = \\left( {3; - 6} \\right)\\). Khi đó \\(\\frac{1}{2}\\vec u\\) là:",
+      "options": [
+        "A. \\(\\frac{1}{2}\\vec u = \\left( {6; - 12} \\right)\\);",
+        "B. \\(\\frac{1}{2}\\vec u = \\left( {\\frac{5}{2}; - \\frac{{13}}{2}} \\right)\\);",
+        "C. \\(\\frac{1}{2}\\vec u = \\left( {\\frac{7}{2}; - \\frac{{11}}{2}} \\right)\\);",
+        "D. \\(\\frac{1}{2}\\vec u = \\left( {\\frac{3}{2}; - 3} \\right)\\)."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải Đáp án đúng là: D Ta có \\[\\frac{1}{2}\\vec u = \\left( {\\frac{1}{2}.3;\\frac{1}{2}.\\left( { - 6} \\right)} \\right)\\]. Suy ra \\(\\frac{1}{2}\\vec u = \\left( {\\frac{3}{2}; - 3} \\right)\\). Vậy ta chọn phương án D."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Trong mặt phẳng tọa độ Oxy, cho \\(\\vec x = \\left( {10;2} \\right),\\,\\,\\vec y = \\left( { - 5;8} \\right)\\). Khi đó \\(\\vec x.\\vec y\\) bằng:",
+      "options": [
+        "A. –34;",
+        "B. (–50; 16);",
+        "C. –66;",
+        "D. 34."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A Gọi \\(\\vec x = \\left( {{x_1};{x_2}} \\right) = \\left( {10;2} \\right),\\,\\,\\vec y = \\left( {{y_1};{y_2}} \\right) = \\left( { - 5;8} \\right)\\). Ta có \\(\\vec x.\\vec y = {x_1}.{y_1} + {x_2}.{y_2} = 10.\\left( { - 5} \\right) + 2.8 = - 34\\). Vậy \\(\\vec x.\\vec y = - 34\\). Do đó ta chọn phương án A."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong mặt phẳng tọa độ Oxy, cho hai điểm M(–1; –2) và N(–3; 2). Tọa độ trung điểm I của đoạn thẳng MN là:",
+      "options": [
+        "A. I(1; –2);",
+        "B. I(2; 2);",
+        "C. I(–2; 0);",
+        "D. I(–4; 0)."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là: C Gọi I(x I ; y I ) là trung điểm của MN. Suy ra \\(\\left\\{ \\begin{array}{l}{x_I} = \\frac{{{x_M} + {x_N}}}{2} = \\frac{{ - 1 - 3}}{2} = - 2\\\\{y_I} = \\frac{{{y_M} + {y_N}}}{2} = \\frac{{ - 2 + 2}}{2} = 0\\end{array} \\right.\\) Do đó tọa độ I(–2; 0). Vậy ta chọn phương án C."
+    }
+  ]
+}

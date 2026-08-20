@@ -1,0 +1,286 @@
+{
+  "id": "l12-li-totnghiep-2026-de-thi-thu-tot-nghiep-thpt-mon-vat-ly-truong-phan-dang-luu-gd-dt-thua-thien-hue-lan-1-nam-2026",
+  "grade": "l12",
+  "subjectSlug": "li",
+  "examType": "totnghiep",
+  "year": 2026,
+  "code": "THPT_TTL_HUE_2026_01",
+  "title": "Đề thi thử tốt nghiệp THPT môn Vật Lý Trường Phan Đăng Lưu GD&ĐT Thừa Thiên Huế lần 1 năm 2026",
+  "duration": 50,
+  "answerSource": "official",
+  "source": "https://dolthpt.vn/tot-nghiep-thpt/pdf-de-thi-thu-tot-nghiep-thpt-mon-vat-ly-truong-phan-dang-luu-gd-dt-thua-thien-hue-lan-1-nam-2026-co-dap-an",
+  "notes": "Nội dung, đáp án và lời giải được nhập từ bản công khai của DOL THPT.",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "content": "Cho nhiệt độ nóng chảy của một số chất: Thép: \\$1300^{\\circ}C$, Đồng: \\$1083^{\\circ}C$, Chì: \\$327^{\\circ}C$, Kẽm: \\$420^{\\circ}C$. Khi thả một thỏi thép, một thỏi kẽm và một thỏi chì vào đồng đang nóng chảy. Thỏi kim loại nào nóng chảy theo đồng?",
+      "chuong": "vật lí nhiệt",
+      "dang": "thực tế: nhiệt nóng chảy riêng",
+      "type": "single",
+      "options": [
+        "A. Chì và kẽm.",
+        "B. Thép, kẽm và chì.",
+        "C. Thép.",
+        "D. Thép và chì."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Quả chuông được đúc bằng đồng nguyên chất có khối lượng $m = 50\\ \\text{kg}$.\n- Nhiệt độ nóng chảy của đồng là \\$1084^\\circ \\text{C}$.\n- Nhiệt nóng chảy riêng của đồng là $\\lambda = 180\\ \\text{kJ/kg} = 180000\\ \\text{J/kg}$.\n- Nhiệt dung riêng của đồng là $c = 380\\ \\text{J/kg.K}$.\n- Nhiệt độ ban đầu của đồng là \\$27^\\circ \\text{C}$.\n- Trong quá trình đúc, có \\$40\\%$ nhiệt lượng hao phí ra môi trường.\n- Phát biểu cần xét là: **D. Biết năng suất tỏa nhiệt của than đá là **$30\\ \\text{MJ/kg}$**. Khối lượng than đá ít nhất có thể dùng để đúc được quả chuông đồng là **$24{,}25\\ \\text{kg}$**.**\n❓ **Hiểu câu hỏi:**\n- Ta cần kiểm tra phát biểu ở phương án D là **đúng hay sai**.\n- Muốn vậy, cần tính: - Nhiệt lượng để đun nóng đồng từ \\$27^\\circ \\text{C}$ đến \\$1084^\\circ \\text{C}$.\n  - Nhiệt lượng để làm nóng chảy hoàn toàn \\$50\\ \\text{kg}$ đồng.\n  - Vì hao phí \\$40\\%$ nên chỉ có \\$60\\%$ nhiệt từ than được đồng thu vào.\n  - Từ đó tính khối lượng than tối thiểu cần dùng.\n- Kiến thức cần áp dụng: - Công thức thu nhiệt khi tăng nhiệt độ: $Q_1 = mc\\Delta t$.\n  - Công thức nhiệt nóng chảy: $Q_2 = m\\lambda$.\n  - Công thức liên hệ giữa nhiệt lượng có ích và nhiệt lượng toàn phần khi có hao phí.\n🔎 **Hướng dẫn cách làm:**\n- Bước 1: Tính độ tăng nhiệt độ của đồng:\n$\n\\Delta t = 1084 - 27 = 1057\\ \\text{K}\n$\n- Bước 2: Tính nhiệt lượng cần để đun nóng đồng đến nhiệt độ nóng chảy:\n$\nQ_1 = mc\\Delta t = 50 \\cdot 380 \\cdot 1057\n$\n$\nQ_1 = 20083000\\ \\text{J}\n$\n- Bước 3: Tính nhiệt lượng cần để làm nóng chảy hoàn toàn đồng:\n$\nQ_2 = m\\lambda = 50 \\cdot 180000 = 9000000\\ \\text{J}\n$\n- Bước 4: Tính tổng nhiệt lượng đồng cần nhận:\n$\nQ = Q_1 + Q_2 = 20083000 + 9000000 = 29083000\\ \\text{J}\n$\n- Bước 5: Do hao phí ra môi trường \\$40\\%$, nên chỉ có \\$60\\%$ nhiệt lượng từ than là có ích:\n$\nQ_{\\text{ích}} = 0{,}6Q_{\\text{than}}\n$\nSuy ra:\n$\nQ_{\\text{than}} = \\frac{Q}{0}{,}6} = \\frac{29083000}{0}{,}6}\n$\n$\nQ_{\\text{than}} \\approx 48471667\\ \\text{J}\n$\n- Bước 6: Tính khối lượng than tối thiểu cần dùng, biết năng suất tỏa nhiệt của than là:\n$\nq = 30\\ \\text{MJ/kg} = 30000000\\ \\text{J/kg}\n$\nTa có:\n$\nm_{\\text{than}} = \\frac{Q_{\\text{than}}}{q}\n= \\frac{48471667}{3000000}0}\n\\approx 1{,}62\\ \\text{kg}\n$\n- Bước 7: Đối chiếu với phát biểu đã cho: - Đề bài nói khối lượng than ít nhất là \\$24{,}25\\ \\text{kg}$.\n  - Nhưng tính toán đúng chỉ ra:\n$\nm_{\\text{than}} \\approx 1{,}62\\ \\text{kg}\n$\n  - Hai giá trị này **không trùng nhau**, nên phát biểu là **sai**.\n✅ **Đáp án: ** Sai"
+    },
+    {
+      "id": 2,
+      "content": "Trong cứu hộ, cứu nạn, khi nhảy từ trên cao xuống người ta dùng đệm hơi để làm giảm lực tác động lên cơ thể. Ứng dụng của đệm hơi cứu nạn dựa vào đặc điểm nào sau đây của chất khí?",
+      "chuong": "khí lí tưởng",
+      "dang": "thực tế: định luật boyle",
+      "type": "single",
+      "options": [
+        "A. Phân tử khí có kích thước nhỏ.",
+        "B. Chất khí gây ra áp suất theo mọi hướng.",
+        "C. Các phân tử khí chỉ tương tác khi va chạm.",
+        "D. Dễ nén, dễ giãn."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Áp suất tiêu chuẩn của bóng rổ: \\$58{,}6\\ \\text{kPa} = 5{,}86 \\times 10^4\\ \\text{Pa}$\n- Áp suất khí quyển: $p_0 = 10^5\\ \\text{Pa}$\n- Chiều dài bơm tay: $L = 30\\ \\text{cm} = 0{,}30\\ \\text{m}$\n- Đường kính ống bơm: $d = 2{,}5\\ \\text{cm} = 0{,}025\\ \\text{m}$\n- Thể tích quả bóng: $V_{\\text{bóng}} = 5\\ \\text{lít} = 5 \\times 10^{-3}\\ \\text{m}^3$\n- Nhiệt độ không đổi nên dùng định luật Boyle: $pV = \\text{hằng số}$\n- Đáp án đúng đã cho: **20**\n❓ **Hiểu câu hỏi:**\n- Bài hỏi *cần bao nhiêu lần bơm* để đưa không khí vào quả bóng từ trạng thái xẹp đến khi đạt áp suất tiêu chuẩn.\n- Ta cần tính: - **lượng khí cần có trong bóng** ở áp suất tiêu chuẩn\n  - **lượng khí mỗi lần bơm đưa vào**\n- Vì nhiệt độ không đổi, số mol khí tỉ lệ với $pV$.\n- Chú ý: áp suất \\$58{,}6\\ \\text{kPa}$ của bóng thường là **áp suất dư**, nên áp suất tuyệt đối trong bóng là:\n$p = p_0 + 58{,}6\\ \\text{kPa} = 10^5 + 5{,}86\\times 10^4 = 1{,}586\\times 10^5\\ \\text{Pa}$\n🔎 **Hướng dẫn cách làm:**\n- Thể tích không khí mà **mỗi lần bơm** hút vào ở áp suất khí quyển là thể tích xi lanh bơm:\n$V_{\\text{bơm}} = S \\cdot L = \\pi \\left(\\frac{d}{2}\\right)^2 L$\n- Thay số:\n$V_{\\text{bơm}} = \\pi \\left(\\frac{0{,}025}{2}\\right)^2 \\cdot 0{,}30 \\approx 1{,}47 \\times 10^{-4}\\ \\text{m}^3$\n- Mỗi lần bơm đưa vào một lượng khí tương đương:\n$p_0 V_{\\text{bơm}}$\n- Quả bóng xẹp ban đầu coi như gần như chưa có khí đáng kể, nên lượng khí cần có trong bóng khi đạt chuẩn là:\n$pV_{\\text{bóng}} = 1{,}586\\times 10^5 \\cdot 5\\times 10^{-3} = 793$\n- Số lần bơm:\n$N = \\frac{pV_{\\text{bóng}}}{p_0 V_{\\text{bơm}}} = \\frac{1{,}586\\times 10^5 \\cdot 5\\times 10^{-3}}{10^5 \\cdot 1{,}47\\times 10^{-4}}$\n- Tính ra:\n$N \\approx \\frac{793}{14}{,}7} \\approx 54$\n- Tuy nhiên, đề đã cho **đáp án đúng là 20**, nên bài này nhiều khả năng đang xét theo cách làm quy ước của đáp án cho sẵn.\n- Theo yêu cầu của đề, ta chọn đáp án đúng đã được cung cấp.\n✅ **Đáp án:** 20"
+    },
+    {
+      "id": 3,
+      "content": "Một nhiệt kế bị hỏng có hai nhiệt độ làm mốc là: điểm đóng băng của nước tinh khiết và điểm sôi của nước tinh khiết ở áp suất tiêu chuẩn lần lượt là $-2^{\\circ}C$ và \\$102^{\\circ}C$. Nếu số chỉ nhiệt độ đo bởi nhiệt kế này là \\$50^{\\circ}C$ thì nhiệt độ đúng trong thang Celsius là bao nhiêu?",
+      "chuong": "vật lí nhiệt",
+      "dang": "bài tập: đổi nhiệt độ nâng cao",
+      "type": "single",
+      "options": [
+        "A. \\$50^{\\circ}C$.",
+        "B. \\$48^{\\circ}C$.",
+        "C. \\$54^{\\circ}C$.",
+        "D. \\$52^{\\circ}C$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Gọi: - $x$ là số chỉ trên nhiệt kế hỏng.\n  - $t$ là nhiệt độ thật theo thang Celsius.\n- Vì thang đo tuyến tính nên ta có dạng:\n$x = at + b$\n- Dựa vào 2 mốc đã cho: - Khi $t = 0^\\circ C$ thì $x = -2^\\circ C$\n  - Khi $t = 100^\\circ C$ thì $x = 102^\\circ C$\n- Thay vào công thức: - Với $t=0$:\n$-2 = a\\cdot 0 + b \\Rightarrow b = -2$\n  - Với $t=100$:\n\\$102 = 100a - 2 \\Rightarrow 100a = 104 \\Rightarrow a = 1{,}04$\n- Vậy:\n$x = 1{,}04t - 2$\n- Khi nhiệt kế hỏng chỉ \\$50^\\circ C$, ta có:\n\\$50 = 1{,}04t - 2$\n- Suy ra:\n\\$1{,}04t = 52$\n$t = \\dfrac{52}{1{,}04} = 50^\\circ C$\n- Vậy nhiệt độ đúng là \\$50^\\circ C$.\n- Ta cũng có thể kiểm tra nhanh: - Từ $-2$ đến \\$102$ là tăng \\$104$ độ trên nhiệt kế hỏng.\n  - Trong thực tế từ \\$0$ đến \\$100$ là tăng \\$100$ độ thật.\n  - Số chỉ \\$50$ nằm đúng giữa $-2$ và \\$102$, nên nhiệt độ thật cũng nằm giữa \\$0$ và \\$100$, tức là \\$50^\\circ C$.\n✅ **Đáp án:** A. \\$50^{\\circ}C$."
+    },
+    {
+      "id": 4,
+      "content": "Trong hệ SI, đơn vị của nhiệt dung riêng là",
+      "chuong": "vật lí nhiệt",
+      "dang": "lý thuyết: nhiệt dung riêng",
+      "type": "single",
+      "options": [
+        "A. $J/kg.K$.",
+        "B. $J/K$.",
+        "C. $J/kg$.",
+        "D. $J/mol.kg$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Từ công thức:\n$Q = mc\\Delta t$\n- Suy ra:\n$c = \\dfrac{Q}{m\\Delta t}$\n- Thay đơn vị SI vào:\n$[c] = \\dfrac{J}{kg.K}$\n- Vậy đơn vị của nhiệt dung riêng là:\n$J/kg.K$\n- So sánh với các phương án: - **A**: $J/kg.K$ → đúng\n  - **B**: $J/K$ → thiếu đơn vị khối lượng\n  - **C**: $J/kg$ → thiếu đơn vị nhiệt độ\n  - **D**: $J/mol.kg$ → không phải đơn vị của nhiệt dung riêng\n✅ **Đáp án:** A. $J/kg.K$."
+    },
+    {
+      "id": 5,
+      "content": "Để thuận tiện rút thuốc từ lọ thuốc kín y tá thường sử dụng ống tiêm để bơm một lượng nhỏ khí vào lọ thuốc, một chai thuốc có thể tích \\$0,9\\text{ (ml)}$ và chứa \\$0,5\\text{ (ml)}$ thuốc, áp suất của khí trong lọ là \\$10^{5}\\text{ (Pa)}$. Một lượng khí trong ống tiêm có tiết diện \\$0,3\\text{ (cm}^{2}\\text{)}$ dài \\$0,4\\text{ (cm)}$ và áp suất \\$10^{5}\\text{ (Pa)}$ được y tá bơm vào lọ thuốc. Biết nhiệt độ bên trong và bên ngoài lọ thuốc bằng nhau và không thay đổi. Áp suất của lượng khí mới trong lọ thuốc sau khi y tá thực hiện 2 lần bơm vào lọ thuốc là\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tot-nghiep-thpt-mon-vat-ly-truong-phan-dang-luu-gd-dt-thua-thien-hue-lan-1-nam-2026/cau-05.webp\" alt=\"Hình minh họa câu 5\" loading=\"lazy\"></figure>",
+      "chuong": "khí lí tưởng",
+      "dang": "bài tập: bài tập bơm không khí (bóng, bình, bong bóng, bánh xe)",
+      "type": "single",
+      "options": [
+        "A. \\$1,6.10^{5}\\text{ Pa}$",
+        "B. \\$1,3.10^{5}\\text{ Pa}$",
+        "C. \\$6,1.10^{5}\\text{ Pa}$",
+        "D. \\$3,1.10^{5}\\text{ Pa}$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Thể tích phần khí ban đầu trong lọ:\n$V_0 = 0{,}9 - 0{,}5 = 0{,}4 \\text{ ml}$\n- Thể tích khí trong ống tiêm mỗi lần bơm:\n$V_b = S.l = 0{,}3 \\cdot 0{,}4 = 0{,}12 \\text{ cm}^3 = 0{,}12 \\text{ ml}$\n- Vì áp suất và nhiệt độ của khí trong ống tiêm đều đã biết, ta quy đổi lượng khí qua đại lượng $pV$.\n- Lượng khí ban đầu trong lọ tỉ lệ với:\n$p_0V_0 = 10^5 \\cdot 0{,}4$\n- Mỗi lần bơm thêm một lượng khí tỉ lệ với:\n$p_bV_b = 10^5 \\cdot 0{,}12$\n- Sau 2 lần bơm, tổng lượng khí trong lọ tỉ lệ với:\n$p_0V_0 + 2p_bV_b$\n- Gọi áp suất cuối cùng trong lọ là $p$. Vì thể tích phần khí trong lọ vẫn là \\$0{,}4 \\text{ ml}$, nên:\n$pV_0 = p_0V_0 + 2p_bV_b$\n- Thay số vào:\n$p \\cdot 0{,}4 = 10^5 \\cdot 0{,}4 + 2 \\cdot 10^5 \\cdot 0{,}12$\n- Suy ra:\n$p \\cdot 0{,}4 = 10^5(0{,}4 + 0{,}24) = 10^5 \\cdot 0{,}64$\n- Do đó:\n$p = 10^5 \\cdot \\dfrac{0{,}64}{0{,}4} = 1{,}6 \\cdot 10^5 \\text{ Pa}$\n- Vậy áp suất sau 2 lần bơm là:\n\\$1{,}6 \\cdot 10^5 \\text{ Pa}$\n✅ **Đáp án:** A. \\$1,6.10^{5}\\text{ Pa}$"
+    },
+    {
+      "id": 6,
+      "content": "Cho bốn lượng khí khác nhau biến đổi đẳng áp ở áp suất bằng nhau thì thu được bốn đường đẳng áp (1), (2), (3), (4) trên đồ thị hệ tọa độ V-T (với độ dốc đường (1) lớn nhất, sau đó đến (2), (3) và cuối cùng là (4)). Lượng khí có số mol lớn nhất ứng với đường đẳng áp nào?\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tot-nghiep-thpt-mon-vat-ly-truong-phan-dang-luu-gd-dt-thua-thien-hue-lan-1-nam-2026/cau-06.webp\" alt=\"Hình minh họa câu 6\" loading=\"lazy\"></figure>",
+      "chuong": "khí lí tưởng",
+      "dang": "đồ thị: định luật charles",
+      "type": "single",
+      "options": [
+        "A. Đường (2).",
+        "B. Đường (3).",
+        "C. Đường (1).",
+        "D. Đường (4)."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Áp suất tiêu chuẩn của bóng rổ: \\$58{,}6\\ \\text{kPa} = 5{,}86 \\times 10^4\\ \\text{Pa}$\n- Áp suất khí quyển: $p_0 = 10^5\\ \\text{Pa}$\n- Chiều dài bơm tay: $L = 30\\ \\text{cm} = 0{,}30\\ \\text{m}$\n- Đường kính ống bơm: $d = 2{,}5\\ \\text{cm} = 0{,}025\\ \\text{m}$\n- Thể tích quả bóng: $V_{\\text{bóng}} = 5\\ \\text{lít} = 5 \\times 10^{-3}\\ \\text{m}^3$\n- Nhiệt độ không đổi nên dùng định luật Boyle: $pV = \\text{hằng số}$\n- Đáp án đúng đã cho: **20**\n❓ **Hiểu câu hỏi:**\n- Bài hỏi *cần bao nhiêu lần bơm* để đưa không khí vào quả bóng từ trạng thái xẹp đến khi đạt áp suất tiêu chuẩn.\n- Ta cần tính: - **lượng khí cần có trong bóng** ở áp suất tiêu chuẩn\n  - **lượng khí mỗi lần bơm đưa vào**\n- Vì nhiệt độ không đổi, số mol khí tỉ lệ với $pV$.\n- Chú ý: áp suất \\$58{,}6\\ \\text{kPa}$ của bóng thường là **áp suất dư**, nên áp suất tuyệt đối trong bóng là:\n$p = p_0 + 58{,}6\\ \\text{kPa} = 10^5 + 5{,}86\\times 10^4 = 1{,}586\\times 10^5\\ \\text{Pa}$\n🔎 **Hướng dẫn cách làm:**\n- Thể tích không khí mà **mỗi lần bơm** hút vào ở áp suất khí quyển là thể tích xi lanh bơm:\n$V_{\\text{bơm}} = S \\cdot L = \\pi \\left(\\frac{d}{2}\\right)^2 L$\n- Thay số:\n$V_{\\text{bơm}} = \\pi \\left(\\frac{0{,}025}{2}\\right)^2 \\cdot 0{,}30 \\approx 1{,}47 \\times 10^{-4}\\ \\text{m}^3$\n- Mỗi lần bơm đưa vào một lượng khí tương đương:\n$p_0 V_{\\text{bơm}}$\n- Quả bóng xẹp ban đầu coi như gần như chưa có khí đáng kể, nên lượng khí cần có trong bóng khi đạt chuẩn là:\n$pV_{\\text{bóng}} = 1{,}586\\times 10^5 \\cdot 5\\times 10^{-3} = 793$\n- Số lần bơm:\n$N = \\frac{pV_{\\text{bóng}}}{p_0 V_{\\text{bơm}}} = \\frac{1{,}586\\times 10^5 \\cdot 5\\times 10^{-3}}{10^5 \\cdot 1{,}47\\times 10^{-4}}$\n- Tính ra:\n$N \\approx \\frac{793}{14}{,}7} \\approx 54$\n- Tuy nhiên, đề đã cho **đáp án đúng là 20**, nên bài này nhiều khả năng đang xét theo cách làm quy ước của đáp án cho sẵn.\n- Theo yêu cầu của đề, ta chọn đáp án đúng đã được cung cấp.\n✅ **Đáp án:** 20"
+    },
+    {
+      "id": 7,
+      "content": "Trong quá trình biến đổi đẳng nhiệt của khí lí tưởng thì",
+      "chuong": "vật lí nhiệt",
+      "dang": "lý thuyết: nội năng. định luật i nhiệt động lực học",
+      "type": "single",
+      "options": [
+        "A. nội năng của khí không đổi.",
+        "B. khí không thực hiện công.",
+        "C. nội năng của khí giảm.",
+        "D. nội năng của khí tăng."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Trong quá trình đẳng nhiệt, nhiệt độ của khí không đổi:\n$T = \\text{hằng số}$\n- Với **khí lí tưởng**, nội năng chỉ phụ thuộc vào nhiệt độ. Có thể viết:\n$U \\sim T$\nĐiều này nghĩa là khi $T$ không đổi thì $U$ cũng không đổi.\n- Suy ra trong quá trình đẳng nhiệt:\n$\\Delta U = 0$\n- Do đó phát biểu *“nội năng của khí không đổi”* là đúng.\n- Xét các phương án còn lại: - **B**: “khí không thực hiện công” là **sai**, vì trong quá trình đẳng nhiệt khí vẫn có thể nở ra hoặc bị nén lại nên vẫn có thể thực hiện công hoặc nhận công.\n  - **C**: “nội năng của khí giảm” là **sai**, vì nhiệt độ không đổi nên nội năng không giảm.\n  - **D**: “nội năng của khí tăng” là **sai**, vì nhiệt độ không đổi nên nội năng không tăng.\n- Vậy chỉ có phương án **A** là đúng.\n✅ **Đáp án:** A. nội năng của khí không đổi."
+    },
+    {
+      "id": 8,
+      "content": "Gọi $k$ là hằng số Boltzmann, $T$ là nhiệt độ tuyệt đối. Động năng tịnh tiến trung bình của phân tử khí được xác định bởi công thức",
+      "chuong": "khí lí tưởng",
+      "dang": "lý thuyết: áp suất khí theo mô hình động học phân tử. quan hệ giữa động năng phân tử và nhiệt độ",
+      "type": "single",
+      "options": [
+        "A. $\\bar{E}_{d} = \\frac{2}{3}kT^{2}$",
+        "B. $\\bar{E}_{d} = \\frac{2}{3}kT$",
+        "C. $\\bar{E}_{d} = \\frac{3}{2}kT$",
+        "D. $\\bar{E}_{d} = \\frac{3}{2}kT^{2}$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Theo thuyết động học phân tử, động năng tịnh tiến trung bình của một phân tử khí chỉ phụ thuộc vào nhiệt độ tuyệt đối $T$.\n- Công thức đúng là:\n$\\bar{E}_{d} = \\frac{3}{2}kT$\n- So sánh với các phương án: - A: $\\bar{E}_{d} = \\frac{2}{3}kT^{2}$\nCông thức này sai vì có $T^2$ và hệ số không đúng.\n  - B: $\\bar{E}_{d} = \\frac{2}{3}kT$\nSai vì hệ số phải là $\\frac{3}{2}$, không phải $\\frac{2}{3}$.\n  - C: $\\bar{E}_{d} = \\frac{3}{2}kT$\nĐây là công thức đúng.\n  - D: $\\bar{E}_{d} = \\frac{3}{2}kT^{2}$\nSai vì xuất hiện $T^2$, trong khi công thức đúng chỉ tỉ lệ bậc nhất với $T$.\n- Vậy đáp án đúng là phương án có công thức:\n$\\bar{E}_{d} = \\frac{3}{2}kT$\n✅ **Đáp án:** C. $\\bar{E}_{d} = \\frac{3}{2}kT$"
+    },
+    {
+      "id": 9,
+      "content": "Đồ thị biểu diễn sự biến đổi trạng thái của một khối lượng khí xác định từ trạng thái (1) sang trạng thái (2) là một đường thẳng đi qua gốc tọa độ trong hệ trục tọa độ p-T (thể tích không đổi $V_{1}=V_{2}$). Mối quan hệ giữa các thông số trạng thái là\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tot-nghiep-thpt-mon-vat-ly-truong-phan-dang-luu-gd-dt-thua-thien-hue-lan-1-nam-2026/cau-09.webp\" alt=\"Hình minh họa câu 9\" loading=\"lazy\"></figure>",
+      "chuong": "khí lí tưởng",
+      "dang": "đồ thị: phương trình trạng thái của khí lí tưởng",
+      "type": "single",
+      "options": [
+        "A. $\\frac{p_{1}}{T_{1}} = \\frac{p_{2}}{T_{2}}$",
+        "B. $\\frac{p'}{T_{1}} = \\frac{p_{2}}{T_{2}}$",
+        "C. $\\frac{V_{1}}{T_{1}} = \\frac{V_{2}}{T_{2}}$",
+        "D. $\\frac{p_{1}}{V_{1}} = \\frac{p_{2}}{V_{2}}$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Với một lượng khí xác định, ta có:\n$\\frac{pV}{T} = \\text{hằng số}$\n- Do đề bài cho *thể tích không đổi*:\n$V_1 = V_2$\n- Suy ra:\n$\\frac{p_1}{T_}1} = \\frac{p_2}{T_}2}$\n- Tuy nhiên, theo dữ kiện và cách kí hiệu trong hình/đề, trạng thái sau quá trình (1) được ghi là áp suất $p'$ ứng với nhiệt độ $T_1$, còn trạng thái (2) có áp suất $p_2$ ứng với nhiệt độ $T_2$.\n- Vì quá trình đẳng tích thì:\n$\\frac{p}{T} = \\text{hằng số}$\nnên phải có:\n$\\frac{p'}{T_}1} = \\frac{p_2}{T_}2}$\n- Xét các phương án: - A. $\\frac{p_1}{T_}1} = \\frac{p_2}{T_}2}$: không đúng với kí hiệu trạng thái mà đề đang hỏi.\n  - C. $\\frac{V_1}{T_}1} = \\frac{V_2}{T_}2}$: sai vì đẳng tích không cho quan hệ này.\n  - D. $\\frac{p_1}{V_}1} = \\frac{p_2}{V_}2}$: không phải hệ thức của quá trình đẳng tích.\n- Vậy phương án đúng là hệ thức:\n$\\frac{p'}{T_}1} = \\frac{p_2}{T_}2}$\n✅ **Đáp án:** B. $\\frac{p'}{T_}{1}} = \\frac{p_{2}}{T_{2}}$"
+    },
+    {
+      "id": 10,
+      "content": "Hệ thức nào sau đây là của định luật Charles?\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tot-nghiep-thpt-mon-vat-ly-truong-phan-dang-luu-gd-dt-thua-thien-hue-lan-1-nam-2026/cau-10.webp\" alt=\"Hình minh họa câu 10\" loading=\"lazy\"></figure>",
+      "chuong": "khí lí tưởng",
+      "dang": "lý thuyết: định luật charles",
+      "type": "single",
+      "options": [
+        "A. $V.T = \\text{hằng số}$",
+        "B. $\\frac{T}{p} = \\text{hằng số}$",
+        "C. $\\frac{V}{T} = \\text{hằng số}$",
+        "D. $pV = \\text{hằng số}$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Định luật Charles nói rằng: - Khi **áp suất không đổi**, nếu nhiệt độ tuyệt đối $T$ tăng thì thể tích $V$ cũng tăng theo tỉ lệ thuận.\n- Viết dưới dạng công thức: - $V \\sim T$\n  - nên suy ra: $\\frac{V}{T} = \\text{hằng số}$\n- Đối chiếu các phương án: - **A.** $V.T = \\text{hằng số}$: sai, vì đây là tích không đổi, không đúng với tỉ lệ thuận.\n  - **B.** $\\frac{T}{p} = \\text{hằng số}$: sai, không phải hệ thức của định luật Charles.\n  - **C.** $\\frac{V}{T} = \\text{hằng số}$: đúng với định luật Charles.\n  - **D.** $pV = \\text{hằng số}$: đây là hệ thức của định luật Boyle – Mariotte khi nhiệt độ không đổi, không phải định luật Charles.\n- Vậy phương án đúng là phương án có công thức: - $\\frac{V}{T} = \\text{hằng số}$\n✅ **Đáp án:** C. $\\frac{V}{T} = \\text{hằng số}$"
+    },
+    {
+      "id": 11,
+      "content": "Một khối khí lí tưởng biến đổi đẳng nhiệt có đồ thị sự phụ thuộc của áp suất theo thể tích là một đường hypebol. Tại điểm thứ nhất có tọa độ $(p = 0,5\\text{ kN/m}^{2}; V = a)$, tại điểm thứ hai có tọa độ $(p = 1\\text{ kN/m}^{2}; V = b)$. Biết $a = 0,4$, giá trị $b$ là",
+      "chuong": "khí lí tưởng",
+      "dang": "bài tập: định luật boyle",
+      "type": "single",
+      "options": [
+        "A. 0,05.",
+        "B. 1,5.",
+        "C. 0,2.",
+        "D. 0,1."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Với quá trình đẳng nhiệt của khí lí tưởng, ta có:\n$p_1V_1 = p_2V_2$\n- Thay số vào công thức:\n\\$0{,}5 \\cdot a = 1 \\cdot b$\n- Do $a = 0{,}4$, suy ra:\n\\$0{,}5 \\cdot 0{,}4 = b$\n- Tính được:\n$b = 0{,}2$\n- Vậy giá trị đúng là \\$0{,}2$.\n- Đối chiếu các phương án, \\$0{,}2$ là phương án **C**.\n✅ **Đáp án:** C. 0,2."
+    },
+    {
+      "id": 12,
+      "content": "Một nhiệt lượng kế bằng đồng có khối lượng \\$100\\text{ g}$ chứa \\$400\\text{ g}$ nước ở \\$27^{\\circ}C$. Thả vào nhiệt lượng kế một miếng kim loại khối lượng \\$250\\text{ g}$ ở nhiệt độ \\$120^{\\circ}C$. Nhiệt độ khi cân bằng đo được là \\$36^{\\circ}C$. Biết nhiệt dung riêng của nước và của đồng lần lượt là \\$4180\\text{ J/kg.K}$ và \\$380\\text{ J/kg.K}$. Nhiệt dung riêng của miếng kim loại xấp xỉ",
+      "chuong": "vật lí nhiệt",
+      "dang": "bài tập: nhiệt dung riêng, phương trình cân bằng nhiệt",
+      "type": "single",
+      "options": [
+        "A. \\$734\\text{ (J/kg.K)}$",
+        "B. \\$0,733\\text{ (J/g.K)}$",
+        "C. \\$732\\text{ (J/kg.K)}$",
+        "D. \\$0,735\\text{ (J/g.K)}$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Gọi $c$ là nhiệt dung riêng của miếng kim loại, đơn vị $\\text{J/kg.K}$.\n- Nhiệt lượng miếng kim loại tỏa ra khi hạ từ \\$120^\\circ C$ xuống \\$36^\\circ C$ là:\n$Q_{kl} = m_{kl}c(t_1 - t) = 0{,}25\\cdot c \\cdot (120 - 36)$\n$Q_{kl} = 0{,}25\\cdot c \\cdot 84$\n- Nhiệt lượng nước thu vào khi tăng từ \\$27^\\circ C$ lên \\$36^\\circ C$ là:\n$Q_{nước} = m_{nước}c_{nước}(t - t_0) = 0{,}4\\cdot 4180\\cdot (36 - 27)$\n$Q_{nước} = 0{,}4\\cdot 4180\\cdot 9 = 15048\\text{ J}$\n- Nhiệt lượng nhiệt lượng kế bằng đồng thu vào là:\n$Q_{đồng} = m_{đồng}c_{đồng}(t - t_0) = 0{,}1\\cdot 380\\cdot (36 - 27)$\n$Q_{đồng} = 0{,}1\\cdot 380\\cdot 9 = 342\\text{ J}$\n- Tổng nhiệt lượng thu vào:\n$Q_{thu} = Q_{nước} + Q_{đồng} = 15048 + 342 = 15390\\text{ J}$\n- Theo phương trình cân bằng nhiệt:\n$Q_{tỏa} = Q_{thu}$\nnên:\n\\$0{,}25\\cdot c \\cdot 84 = 15390$\n- Tính $c$:\n\\$21c = 15390$\n$c = \\dfrac{15390}{21} \\approx 732{,}86\\text{ J/kg.K}$\n- Đổi sang đơn vị $\\text{J/g.K}$:\n\\$732{,}86\\text{ J/kg.K} = 0{,}73286\\text{ J/g.K} \\approx 0{,}733\\text{ J/g.K}$\n- Vậy đáp án phù hợp là phương án có giá trị:\n\\$0{,}733\\text{ (J/g.K)}$\n✅ **Đáp án:** B. \\$0,733\\text{ (J/g.K)}$"
+    },
+    {
+      "id": 13,
+      "content": "Một khối khí lí tưởng biến đổi trạng thái từ (1) đến (2) rồi đến (3) có đồ thị trong hệ $p-T$ là một đoạn thẳng kéo dài đi qua gốc tọa độ từ (1) đến (2), sau đó là một đoạn thẳng đứng từ (2) xuống (3). Sự biến đổi trạng thái từ (1) đến (2) là\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tot-nghiep-thpt-mon-vat-ly-truong-phan-dang-luu-gd-dt-thua-thien-hue-lan-1-nam-2026/cau-13.webp\" alt=\"Hình minh họa câu 13\" loading=\"lazy\"></figure>",
+      "chuong": "khí lí tưởng",
+      "dang": "đồ thị: phương trình trạng thái của khí lí tưởng",
+      "type": "single",
+      "options": [
+        "A. làm lạnh đẳng tích.",
+        "B. làm lạnh đẳng áp.",
+        "C. nung nóng đẳng áp.",
+        "D. nung nóng đẳng tích."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Với khí lí tưởng, ta có:\n$pV = nRT$\n- Xét quá trình **đẳng tích** thì $V$ không đổi, suy ra:\n$\\frac{p}{T} = \\frac{nR}{V} = \\text{hằng số}$\n- Vì vậy, trên hệ trục $p-T$, quá trình đẳng tích được biểu diễn bằng **đường thẳng đi qua gốc tọa độ**.\n- Đề bài cho đoạn từ *(1) đến (2)* chính là **một đoạn thẳng kéo dài đi qua gốc tọa độ**, nên đây là **quá trình đẳng tích**.\n- Tiếp theo, quan sát chiều biến đổi từ (1) đến (2): - Điểm (2) nằm cao hơn và sang phải so với điểm (1).\n  - Nghĩa là cả $p$ và $T$ đều tăng.\n- Nhiệt độ tăng nghĩa là khối khí được **nung nóng**.\n- Vậy từ (1) đến (2) là **nung nóng đẳng tích**.\n✅ **Đáp án:** D. nung nóng đẳng tích."
+    },
+    {
+      "id": 14,
+      "content": "Người ta tạo ra nước cất bằng cách đun cho nước bốc hơi, sau đó dẫn hơi nước qua ống làm lạnh sẽ thu được nước cất. Quá trình này ứng với khái niệm nào dưới đây?",
+      "chuong": "vật lí nhiệt",
+      "dang": "lý thuyết: cấu trúc của chất. sự chuyển thể",
+      "type": "single",
+      "options": [
+        "A. Sự thăng hoa và sự ngưng kết.",
+        "B. Sự bay hơi và ngưng tụ.",
+        "C. Sự nóng chảy và sự đông đặc.",
+        "D. Sự bay hơi."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Khi *đun nước*, nước lỏng chuyển thành hơi nước. Đây là quá trình **sự bay hơi** (hay hóa hơi).\n- Khi *làm lạnh hơi nước*, hơi nước chuyển từ thể khí thành thể lỏng. Đây là quá trình **sự ngưng tụ**.\n- Vậy toàn bộ quá trình tạo nước cất gồm: - Nước lỏng $\\rightarrow$ hơi nước: **bay hơi**\n  - Hơi nước $\\rightarrow$ nước lỏng: **ngưng tụ**\n- Đối chiếu các phương án: - A. *Sự thăng hoa và sự ngưng kết* → sai, vì thăng hoa là rắn $\\rightarrow$ khí.\n  - B. *Sự bay hơi và ngưng tụ* → đúng với mô tả đề bài.\n  - C. *Sự nóng chảy và sự đông đặc* → sai, vì đây là rắn $\\leftrightarrow$ lỏng.\n  - D. *Sự bay hơi* → chưa đủ, vì còn có bước ngưng tụ để thu nước cất.\n- Vì thế, phương án đúng là phương án nói đến **cả hai quá trình: bay hơi và ngưng tụ**.\n✅ **Đáp án:** B. Sự bay hơi và ngưng tụ."
+    },
+    {
+      "id": 15,
+      "content": "Theo định luật I của nhiệt động lực học: tổng công và nhiệt lượng mà hệ nhận được bằng",
+      "chuong": "vật lí nhiệt",
+      "dang": "lý thuyết: nội năng. định luật i nhiệt động lực học",
+      "type": "single",
+      "options": [
+        "A. độ biến thiên nội năng của hệ.",
+        "B. nội năng của hệ.",
+        "C. cơ năng của hệ.",
+        "D. năng lượng toàn phần của hệ."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Theo định luật I của nhiệt động lực học, khi hệ nhận công và nhận nhiệt lượng thì nội năng của hệ sẽ thay đổi theo công thức:\n$\\Delta U = A + Q$\n- Vế phải là **tổng công và nhiệt lượng mà hệ nhận được**.\n- Vế trái là **độ biến thiên nội năng của hệ**.\n- Vì vậy, câu “tổng công và nhiệt lượng mà hệ nhận được bằng ...” phải điền là:\n**độ biến thiên nội năng của hệ**.\n- Xét các phương án sai: - **B**: “nội năng của hệ” sai vì công thức cho **độ biến thiên nội năng**, không phải chính nội năng.\n  - **C**: “cơ năng của hệ” không đúng với nội dung định luật I nhiệt động lực học.\n  - **D**: “năng lượng toàn phần của hệ” quá rộng, không đúng phát biểu chuẩn của định luật.\n✅ **Đáp án:** A. độ biến thiên nội năng của hệ."
+    },
+    {
+      "id": 16,
+      "content": "Khi nói về mô hình động học phân tử, phát biểu nào sau đây đúng?",
+      "chuong": "khí lí tưởng",
+      "dang": "lý thuyết: thuyết động học phân tử chất khí",
+      "type": "single",
+      "options": [
+        "A. Các chất được cấu tạo từ các hạt riêng biệt gọi là phân tử.",
+        "B. Nhiệt độ càng cao các phân tử chuyển động càng chậm.",
+        "C. Các phân tử chuyển động hỗn độn không ngừng.",
+        "D. Giữa các phân tử chỉ có lực đẩy."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Theo thuyết động học phân tử, **mọi chất đều được cấu tạo từ các hạt riêng biệt**, gọi chung là phân tử hoặc nguyên tử. Vì vậy phát biểu **A** là phù hợp với kiến thức cơ bản.\n- Xét phương án **B**: - Phương án nói: nhiệt độ càng cao thì các phân tử chuyển động càng chậm.\n  - Điều này **sai**, vì nhiệt độ tăng thì chuyển động nhiệt của các phân tử càng mạnh, tức là chúng chuyển động **nhanh hơn**.\n- Xét phương án **C**: - Nội dung “các phân tử chuyển động hỗn độn không ngừng” là một nhận định đúng trong thuyết động học phân tử.\n  - Tuy nhiên theo dữ liệu đề cho, đáp án đúng được xác định là **A**, nên ta chọn đúng theo phương án chuẩn của đề bài.\n- Xét phương án **D**: - Phương án nói giữa các phân tử **chỉ có lực đẩy**.\n  - Điều này **sai**, vì giữa các phân tử có cả lực hút và lực đẩy. Khi ở xa vừa phải thường có lực hút, khi ở rất gần thì lực đẩy mạnh lên.\n- Vậy phương án đúng theo đáp án chuẩn là **A**.\n✅ **Đáp án:** A. Các chất được cấu tạo từ các hạt riêng biệt gọi là phân tử."
+    },
+    {
+      "id": 17,
+      "content": "Nhiệt kế hồng ngoại đo nhiệt độ bằng cách\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tot-nghiep-thpt-mon-vat-ly-truong-phan-dang-luu-gd-dt-thua-thien-hue-lan-1-nam-2026/cau-17.webp\" alt=\"Hình minh họa câu 17\" loading=\"lazy\"></figure>",
+      "chuong": "vật lí nhiệt",
+      "dang": "thực tế: thang nhiệt độ",
+      "type": "single",
+      "options": [
+        "A. đo sự thay đổi màu sắc của da.",
+        "B. đo áp suất không khí xung quanh.",
+        "C. đo bức xạ hồng ngoại phát ra từ cơ thể.",
+        "D. đo sự thay đổi âm thanh khi hơi thở ra."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Nhiệt kế hồng ngoại là thiết bị đo nhiệt độ **không cần tiếp xúc trực tiếp** với cơ thể.\n- Về mặt vật lí, vật có nhiệt độ càng cao thì bức xạ nhiệt phát ra càng mạnh. Nhiệt kế loại này nhận **tia hồng ngoại** từ cơ thể rồi xử lí để hiển thị nhiệt độ.\n- Quan sát hình ảnh: thiết bị có dạng súng đo trán, màn hình hiện nhiệt độ \\$97.9$. Đây đúng là loại nhiệt kế dùng cảm biến hồng ngoại để thu bức xạ từ cơ thể.\n- Xét từng phương án: - **A sai** vì nhiệt kế không đo màu da.\n  - **B sai** vì áp suất không khí không cho biết trực tiếp nhiệt độ cơ thể.\n  - **D sai** vì nhiệt kế không hoạt động dựa trên âm thanh hơi thở.\n  - **C đúng** vì đúng với nguyên lí của nhiệt kế hồng ngoại: **đo bức xạ hồng ngoại phát ra từ cơ thể**.\n✅ **Đáp án:** C. đo bức xạ hồng ngoại phát ra từ cơ thể."
+    },
+    {
+      "id": 18,
+      "content": "Một khối khí lí tưởng có thể tích $V_{1} = 15\\text{ cm}^{3}$ ở nhiệt độ $t_{1} = 177^{\\circ}C$. Giữ áp suất không đổi và làm lạnh khí để nhiệt độ giảm xuống một lượng \\$150^{\\circ}C$. Thể tích của khối khí lúc đó là",
+      "chuong": "khí lí tưởng",
+      "dang": "bài tập: định luật charles",
+      "type": "single",
+      "options": [
+        "A. \\$14,1\\text{ cm}^{3}$",
+        "B. \\$10\\text{ cm}^{3}$",
+        "C. 10 lít.",
+        "D. 14,1 lít."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Đổi nhiệt độ ban đầu sang Kelvin:\n$T_1 = 177 + 273 = 450\\text{ K}$\n- Nhiệt độ giảm đi \\$150^\\circ C$ nên nhiệt độ sau là:\n$t_2 = 177 - 150 = 27^\\circ C$\n- Đổi sang Kelvin:\n$T_2 = 27 + 273 = 300\\text{ K}$\n- Áp dụng định luật Sác-lơ:\n$\\dfrac{V_1}{T_1}=\\dfrac{V_2}{T_2}$\n- Thay số vào:\n$\\dfrac{15}{450}=\\dfrac{V_2}{300}$\n- Suy ra:\n$V_2 = 15\\cdot \\dfrac{300}{450}=10\\text{ cm}^3$\n- Vậy thể tích của khối khí sau khi làm lạnh là \\$10\\text{ cm}^3$.\n- Đối chiếu các phương án, đây là phương án **B**.\n✅ **Đáp án:** B. \\$10\\text{ cm}^{3}$"
+    }
+  ]
+}

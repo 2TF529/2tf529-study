@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-trac-nghiem-cac-so-dac-trung-do-do-phan-tan-lop-10-co-dap-an",
+  "sourceId": "vietjack:1-trac-nghiem-cac-so-dac-trung-do-do-pha",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.Trắc nghiệm Các số đặc trưng đo độ phân tán lớp 10 (có đáp án)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Điểm kiểm tra của 11 học sinh cho bởi bảng số liệu sau Điểm 7 7,5 8 8,5 9 9,5 Tần số 1 2 3 2 2 1 Tìm phương sai của bảng số liệu",
+      "options": [
+        "A. 0,34;",
+        "B. 0,50;",
+        "C. 0,65;",
+        "D. 5,54."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Giá trị trung bình của mẫu số liệu là \\(\\overline x = \\frac{{1.7 + 2.7,5 + 3.8 + 2.8,5 + 2.9 + 1.9,5}}{{11}} \\approx 8,23\\) . Ta có bảng sau Giá trị Độ lêch Bình phương độ lệch 7 7 – 8,23 = - 1,23 1,5129 7,5 7,5 – 8,23 = - 0,73 0,5329 7,5 7,5 – 8,23 = - 0,73 0,5329 8 8 – 8,23 = -0,23 0,0529 8 8 – 8,23 = -0,23 0,0529 8 8 – 8,23 = -0,23 0,0529 8,5 8,25 – 8,23 = 0,02 0,0004 8,5 8,25 – 8,23 = 0,02 0,0004 9 9 – 8,23 = 0,77 0,5929 9 9 – 8,23 = 0,77 0,5929 9,5 9,5 – 8,23 = 1,27 1,6129 Tổng 5,5369 Vì có 11 giá trị nên n = 11 do đó \\({s^2} = \\frac{{5,5369}}{{11}} \\approx 0,5\\) ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Điểm kiểm tra học kỳ của 10 học sinh được thống kê như sau: 6; 7; 7; 5; 8; 6; 9; 9; 8; 6. Khoảng biến thiên của dãy số là",
+      "options": [
+        "A. 5;",
+        "B. 4;",
+        "C. 3;",
+        "D. 2."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có giá trị lớn nhất của số liệu là 9 và giá trị nhỏ nhất của số liệu là 5. Khoảng biến thiên là hiệu số giữa giá trị lớn nhất và giá trị nhỏ nhất trong mẫu số liệu. Vậy R = 9 – 5 = 4."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Điều tra chiều cao của 10 hs lớp 10A cho kết quả như sau: 154; 160; 155; 162; 165; 162; 155; 160; 165; 162 (đơn vị cm). Khoảng tứ phân vị là",
+      "options": [
+        "A. 5;",
+        "B. 6;",
+        "C. 7;",
+        "D. 8."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta sắp xếp số liệu theo thứ tự không giảm như sau: 154; 155; 155; 160; 160; 162; 162; 162; 165; 165. Vì n = 10 là số chẵn nên Q 2 là trung bình cộng của hai số chính giữa Q 2 = (160 + 162) : 2 = 161 Ta tìm Q 1 là trung vị nửa số liệu bên trái Q 2 là 154; 155; 155; 160; 160 gồm 5 giá trị và tìm được Q 1 = 155 Ta tìm Q 3 là trung vị nửa số liệu bên phải Q 2 là 162; 162; 162; 165; 165 gồm 5 giá trị và tìm được Q 3 = 162 Vậy khoảng tứ phân vị ∆ Q = Q 3 – Q 1 = 162 – 155 = 7."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho dãy số liệu thống kê 10; 8; 6; 8; 9; 8; 7; 6; 9; 9; 7. Khoảng tứ phân vị là",
+      "options": [
+        "A. 1;",
+        "B. 3;",
+        "C. 4;",
+        "D. 2."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Ta sắp xếp số liệu theo thứ tự không giảm như sau: 6; 6; 7; 7; 8; 8; 8; 9; 9; 9; 10. Vì n = 11 là số lẻ nên Q 2 là giá trị chính giữa của mẫu số liệu Q 2 = 8 Ta tìm Q 1 là nửa số liệu bên trái Q 2 là 6; 6; 7; 7; 8 gồm 5 giá trị và tìm được Q 1 = 7 Ta tìm Q 3 là nửa số liệu bên phải Q 2 là 8; 9; 9; 9; 10 gồm 5 giá trị và tìm được Q 3 = 9 Vậy khoảng tứ phân vị ∆ Q = Q 3 – Q 1 = 9 – 7 = 2"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho dãy số liệu thống kê 4; 5; 4; 3; 7; 6; 9; 6; 7; 8; 9. Khoảng biến thiên của dãy số liệu là",
+      "options": [
+        "A. 3;",
+        "B. 4;",
+        "C. 5;",
+        "D. 6."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Khoảng biến thiên là hiệu số giữa giá trị lớn nhất bằng 9 và giá trị nhỏ nhất bằng 3 trong mẫu số liệu. Vậy R = 9 – 3 = 6."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Mẫu số liệu cho biết số ghế trống của một xe khách trong 5 ngày: 7; 6; 6; 5; 9. Tìm phương sai của mẫu số liệu trên",
+      "options": [
+        "A. 1,84;",
+        "B. 4;",
+        "C. 1,52;",
+        "D. 1,74."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Giá trị trung bình của mẫu số liệu: \\(\\overline x = \\frac{{7 + 6 + 6 + 5 + 9}}{5} = 6,6\\) Ta có bảng sau Giá trị Độ lệch Bình phương độ lệch 7 7 – 6,6 = 0,4 0,16 6 6 – 6,6 = - 0,6 0,36 6 6 – 6,6 = - 0,6 0,36 5 5 – 6,6 = - 1,6 2,56 9 9 – 6,6 = - 2,4 5,76 Tổng 9,2 Vì có 5 giá trị nên n = 5. Do đó \\({s^2} = \\frac{{9,2}}{5} = 1,84\\) ."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-7-20-cau-trac-nghiem-toan-10-chan-troi-sang-tao-bai-2-hoan-vi-chi",
+  "sourceId": "vietjack:7-20-cau-trac-nghiem-toan-10-chan-troi-s",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "7.20 câu trắc nghiệm Toán 10 Chân trời sáng tạo Bài 2. Hoán vị, Chỉnh hợp và Tổ hợp (Đúng sai - Trả lời ngắn) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Một hộp có 7 quả cầu xanh, 9 quả cầu đỏ và 12 quả cầu vàng. Có bao nhiêu cách chọn ra 3 quả cầu có đúng 2 màu?",
+      "options": [
+        "A. \\(3276\\) .",
+        "B. \\(1095\\) .",
+        "C. \\(2859\\) .",
+        "D. \\(2181\\) ."
+      ],
+      "answer": "D",
+      "note": "TH1: Chọn 2 quả cầu xanh và 1 quả cầu đỏ có \\(C_7^2 \\cdot C_9^1 = 189\\) cách. TH2: Chọn 1 quả cầu xanh và 2 quả cầu đỏ có \\(C_7^1 \\cdot C_9^2 = 252\\) cách. TH3: Chọn 2 quả cầu xanh và 1 quả cầu vàng có \\(C_7^2 \\cdot C_{12}^1 = 252\\) cách. TH4: Chọn 1 quả cầu xanh và 2 quả cầu vàng có \\(C_7^1 \\cdot C_{12}^2 = 462\\) cách. TH5: Chọn 2 quả cầu đỏ và 1 quả cầu vàng có \\(C_9^2 \\cdot C_{12}^1 = 432\\) cách. TH6: Chọn 1 quả cầu đỏ và 2 quả cầu vàng có \\(C_9^1 \\cdot C_{12}^2 = 594\\) cách. Vậy có tất cả \\(189 + 252 + 252 + 462 + 432 + 594 = 2181\\) cách chọn. Chọn D ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Một nhóm có 6 học sinh gồm 4 nam và 2 nữ. Hỏi có bao nhiêu cách chọn ra 3 học sinh trong đó có đúng hai học sinh nam?",
+      "options": [
+        "A. \\(24\\) .",
+        "B. \\(12\\) .",
+        "C. \\(6\\) .",
+        "D. \\(30\\) ."
+      ],
+      "answer": "B",
+      "note": "Có \\(C_4^2 \\cdot C_2^1 = 12\\) cách chọn ra 3 học sinh trong đó có đúng hai học sinh nam. Chọn B ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Có bao nhiêu tam giác có ba đỉnh là các đỉnh của hình đa giác đều có 10 cạnh?",
+      "options": [
+        "A. \\(C_{11}^3\\) .",
+        "B. \\(A_{10}^3\\) .",
+        "C. \\(C_{10}^3\\) .",
+        "D. \\(A_{11}^3\\) ."
+      ],
+      "answer": "C",
+      "note": "Có \\(C_{10}^3\\) tam giác có ba đỉnh là các đỉnh của hình đa giác đều có 10 cạnh. Chọn C ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho tập \\(A = \\left\\{ {0;1;2;3;4;5;6;7;8;9} \\right\\}\\) . Có bao nhiêu số tự nhiên gồm 5 chữ số khác nhau được tạo từ tập \\(A\\) ?",
+      "options": [
+        "A. \\(A_{10}^4\\) .",
+        "B. \\(9 \\cdot C_9^4\\) .",
+        "C. \\(9 \\cdot A_9^4\\) .",
+        "D. \\(C_{10}^4\\) ."
+      ],
+      "answer": "C",
+      "note": "Có \\(9 \\cdot A_9^4\\) số tự nhiên gồm 5 chữ số khác nhau được tạo từ tập \\(A\\) . Chọn C ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Trong một tổ có 6 học sinh nam và 4 học sinh nữ. Chọn ngẫu nhiên 3 bạn trong tổ tham gia đội tình nguyện của trường. Có bao nhiêu cách chọn 3 học sinh toàn là nam?",
+      "options": [
+        "A. \\(C_6^3\\) .",
+        "B. \\(C_4^3\\) .",
+        "C. \\(A_6^3\\) .",
+        "D. \\(A_4^3\\) ."
+      ],
+      "answer": "A",
+      "note": "Có \\(C_6^3\\) cách chọn 3 học sinh toàn là nam. Chọn A ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Bạn Minh thực hiện thí nghiệm hóa học. Trên bàn có 4 ống nghiệm chứa 4 loại acid khác nhau và 4 ông nghiệm chứa 4 loại base khác nhau. Hỏi có bao nhiêu cách ghép cặp acid với base để tạo thành 4 phản ứng cùng lúc?",
+      "options": [
+        "A. \\(16\\) .",
+        "B. \\(24\\) .",
+        "C. \\(8\\) .",
+        "D. \\(4\\) ."
+      ],
+      "answer": "B",
+      "note": "Cố định 4 ống nghiệm chứa acid và hoán vị 4 ống nghiệm chứa base để ghép cặp tạo thành 4 phản ứng có \\(4! = 24\\) cách. Chọn B ."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Số cách xếp 4 bạn học sinh \\(A,B,C,D\\) vào 4 chiếc ghế ngồi theo hàng ngang (mỗi người ngồi một ghế) là",
+      "options": [
+        "A. \\(16\\) .",
+        "B. \\(4\\) .",
+        "C. \\(8\\) .",
+        "D. \\(24\\) ."
+      ],
+      "answer": "D",
+      "note": "Số cách xếp 4 bạn học sinh \\(A,B,C,D\\) vào 4 chiếc ghế ngồi theo hàng ngang (mỗi người ngồi một ghế) là \\(4! = 24\\) . Chọn D ."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Số cách chọn 3 bạn học sinh đi học bơi từ một nhóm 10 bạn học sinh là",
+      "options": [
+        "A. \\(3628800\\) .",
+        "B. \\(604800\\) .",
+        "C. \\(120\\) .",
+        "D. \\(720\\) ."
+      ],
+      "answer": "C",
+      "note": "Số cách chọn 3 bạn học sinh đi học bơi từ một nhóm 10 bạn học sinh là \\(C_{10}^3 = 120\\) . Chọn C ."
+    }
+  ]
+}

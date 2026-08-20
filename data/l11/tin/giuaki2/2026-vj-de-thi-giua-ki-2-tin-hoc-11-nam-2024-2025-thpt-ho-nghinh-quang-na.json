@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-de-thi-giua-ki-2-tin-hoc-11-nam-2024-2025-thpt-ho-nghinh-quang-na",
+  "sourceId": "vietjack:de-thi-giua-ki-2-tin-hoc-11-nam-2024-202",
+  "grade": "l11",
+  "subjectSlug": "tin",
+  "examType": "giuaki2",
+  "year": 2026,
+  "title": "Đề thi giữa kì 2 Tin học 11 năm 2024-2025 THPT Hồ Nghinh (Quảng Nam) có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: (3đ) Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh chỉ chọn một phương án. Ý nào sau đây là ĐÚNG khi nói về tạo lập CSDL và các bảng?",
+      "options": [
+        "A. Có thể tạo được nhiều CSDL trùng tên.",
+        "B. Các bảng trong các CSDL khác nhau có thể đặt trùng tên.",
+        "C. Có thể tạo bảng bên ngoài mọi CSDL.",
+        "D. Trong 1 CSDL có thể tạo nhiều bảng trùng tên."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là B."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Khi thêm mới dữ liệu vào trường idNhacsi của bảng bannhac trong CSDL mymusic thì “Trường idNhacsi là trường khoá ngoài của bảng bannhac, đã được khai báo … đến trường idNhacsi của bảng nhacsi, vì vậy để đảm bảo tính nhất quán, giá trị hợp lệ chỉ có thể lấy từ các giá trị của idNhacsi có trong bảng nhacsi. Nháy đúp chuột vào trường idNhacsi và chọn tên nhạc sĩ trong hộp danh sách”. Hãy điền cụm từ còn thiếu vào dấu ba chấm.",
+      "options": [
+        "A. dữ liệu",
+        "B. liên quan",
+        "C. khóa chính",
+        "D. tham chiếu"
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là D."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Để khai báo trường làm khoá chính ta thao tác nháy nút phải chuột vào trường được chọn làm khoá chính, chọn Create new index rồi chọn",
+      "options": [
+        "A. SPATIAL",
+        "B. KEY",
+        "C. UNIQUE",
+        "D. PRIMARY"
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là D."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Khi khai báo khoá ngoài thì",
+      "options": [
+        "A. phải khai báo trước khi khai báo bảng tham chiếu.",
+        "B. không cần chỉ định nó tham chiếu đến bảng nào, khoá chính là gì.",
+        "C. phải khai báo sau khi đã khai báo bảng tham chiếu.",
+        "D. kiểu dữ liệu của trường làm khoá ngoài phải khác với kiểu dữ liệu của trường làm khoá chính mà nó tham chiếu đến."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là C."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Khi truy xuất dữ liệu từ nhiều bảng ta",
+      "options": [
+        "A. đánh dấu các bảng đó và chọn thẻ Dữ liệu",
+        "B. chọn thẻ Truy vấn, nhập câu truy vấn và nhấn F9",
+        "C. chọn Dọn dẹp và Lọc",
+        "D. chọn thẻ Truy vấn, nhập câu truy vấn và nhấn F5"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là B."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Ý nào sau đây là ĐÚNG khi nói về khoá cấm trùng lặp của bảng?",
+      "options": [
+        "A. Có thể liên kết 2 bảng với nhau qua khoá cấm trùng lặp.",
+        "B. Các trường là khoá cấm trùng lặp thì không được trùng lặp giá trị.",
+        "C. Chỉ ra tham chiếu đến khoá chính của bảng khác.",
+        "D. Chỉ được chọn duy nhất 1 trường trong bảng làm khoá cấm trùng lặp."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là B."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Thông báo bên xuất hiện khi nào?",
+      "options": [
+        "A. Xóa một dòng dữ liệu.",
+        "B. Xóa một cột dữ liệu.",
+        "C. Xóa một bảng dữ liệu.",
+        "D. Xóa một CSDL."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là A."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: MySQL và HeidiSQL là các phần mềm?",
+      "options": [
+        "A. thương mại.",
+        "B. mã nguồn đóng.",
+        "C. mã nguồn mở.",
+        "D. tự do."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là C."
+    }
+  ]
+}

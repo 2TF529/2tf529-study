@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-de-thi-giua-ki-2-tin-hoc-10-nam-2024-2025-thpt-thpt-gio-linh-quan",
+  "sourceId": "vietjack:de-thi-giua-ki-2-tin-hoc-10-nam-2024-202",
+  "grade": "l10",
+  "subjectSlug": "tin",
+  "examType": "giuaki2",
+  "year": 2026,
+  "title": "Đề thi giữa kì 2 Tin học 10 năm 2024-2025 THPT THPT Gio Linh (Quảng Trị) có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: I. PHẦN CÂU HỎI TRẮC NGHIÊM Trong Python, hàm nào sau đây có sẵn trả về số phần tử của một đối tượng (chuỗi, danh sách…)?",
+      "options": [
+        "A. size()",
+        "B. input()",
+        "C. range()",
+        "D. len()"
+      ],
+      "answer": "D",
+      "note": "Đáp án D"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Lệnh thêm phần tử vào cuối danh sách là gì?",
+      "options": [
+        "A. &lt;danh sách&gt;=append()",
+        "B. &lt;danh sách&gt;.append()",
+        "C. &lt;danh sách&gt;:append()",
+        "D. &lt;danh sách&gt;append()"
+      ],
+      "answer": "B",
+      "note": "Đáp án B"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trong Python cú pháp y[m:] có chức năng là:",
+      "options": [
+        "A. Xâu con gồm m kí tự cuối cùng của xâu y.",
+        "B. Xâu con nhận được bằng cách bỏ m kí tự đầu tiên của xâu y.",
+        "C. Xâu con được nhận bằng cách bỏ m kí tự cuối cùng của xâu y.",
+        "D. Xâu con gồm m kí tự bất kì của xâu y."
+      ],
+      "answer": "B",
+      "note": "Đáp án B"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Kiểu dữ liệu danh sách được khởi tạo như sau: &lt;tên list&gt; = [&lt;v1&gt;, &lt;v2&gt;, &lt;v3&gt;, &lt;v4&gt;,...,&lt;vn&gt;] Trong đó:",
+      "options": [
+        "A. Các giá trị &lt;v1&gt;, &lt;v2&gt;, &lt;v3&gt;, &lt;v4&gt;,...,&lt;vn&gt; phải cùng kiểu dữ liệu số nguyên",
+        "B. Các giá trị &lt;v1&gt;, &lt;v2&gt;, &lt;v3&gt;, &lt;v4&gt;,...,&lt;vn&gt; phải cùng kiểu dữ liệu số thực",
+        "C. Các giá trị &lt;v1&gt;, &lt;v2&gt;, &lt;v3&gt;, &lt;v4&gt;,...,&lt;vn&gt; phải cùng kiểu dữ liệu",
+        "D. Các giá trị &lt;v1&gt;, &lt;v2&gt;, &lt;v3&gt;, &lt;v4&gt;,...,&lt;vn&gt; có thể có kiểu dữ liệu khác nhau."
+      ],
+      "answer": "D",
+      "note": "Đáp án D"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho trước lệnh import math, lời gọi hàm sqrt() nào sau đây đúng ?",
+      "options": [
+        "A. print(math.sqrt(5))",
+        "B. print(math,sqrt(5))",
+        "C. print(math_sqrt(5))",
+        "D. print(math:sqrt(5))"
+      ],
+      "answer": "A",
+      "note": "Đáp án A"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Để khai báo hàm ta dùng từ khóa",
+      "options": [
+        "A. function",
+        "B. procedure",
+        "C. def",
+        "D. try"
+      ],
+      "answer": "C",
+      "note": "Đáp án C"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Cho lệnh: A = [1, 2, 3]. Biến A thuộc kiểu dữ liệu nào?",
+      "options": [
+        "A. int",
+        "B. string",
+        "C. float",
+        "D. list"
+      ],
+      "answer": "D",
+      "note": "Đáp án D"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Để thực hiện được hàm gcd trong python, chỉ ra câu lệnh thực hiện khai báo thư viện của hàm đó?",
+      "options": [
+        "A. import math from gcd",
+        "B. from math import gcd",
+        "C. from math",
+        "D. import gcd"
+      ],
+      "answer": "B",
+      "note": "Đáp án B"
+    }
+  ]
+}

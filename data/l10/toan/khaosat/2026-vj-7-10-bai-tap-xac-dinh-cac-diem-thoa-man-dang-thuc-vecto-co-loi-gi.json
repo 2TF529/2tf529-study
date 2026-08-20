@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-7-10-bai-tap-xac-dinh-cac-diem-thoa-man-dang-thuc-vecto-co-loi-gi",
+  "sourceId": "vietjack:7-10-bai-tap-xac-dinh-cac-diem-thoa-man-",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "7.10 Bài tập Xác định các điểm thỏa mãn đẳng thức vectơ (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho tam giác ABC có M thỏa mãn điều kiện M A → + M B → + M C → = 0 → . Vị trí điểm M là:",
+      "options": [
+        "A. M là điểm thứ tư của hình bình hành ACBM;",
+        "B. M là trung điểm của đoạn thẳng AB;",
+        "C. M trùng C;",
+        "D. M là trọng tâm tam giác ABC."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải: Đáp án đúng là: D. Gọi G là trọng tâm tam giác ABC ta có: G A → + G B → + G C → = 0 → Do đó: M A → + M B → + M C → = G A → + G B → + G C → Nên M trùng với G hay M là trọng tâm tam giác ABC."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho tam giác ABC. Tập hợp các điểm M thỏa mãn M B → − M C → = B M → − B A → là:",
+      "options": [
+        "A. đường thẳng AB;",
+        "B. trung trực đoạn BC;",
+        "C. đường tròn tâm A bán kính BC;",
+        "D. đường thẳng qua A và song song với BC."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải: Đáp án đúng là: C. Ta có: M B → − M C → = B M → − B A → ⇔ C B → = A M → ⇔ CB = AM. Mà A, B, C cố định nên M là điểm thuộc đường tròn tâm A bán kính BC."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho tam giác ABD. Xác định điểm C sao cho: A B → + A D → = A C → .",
+      "options": [
+        "A. C là một đỉnh của hình bình hành ABCD;",
+        "B. C là trọng tâm tam giác ABD;",
+        "C. C là trung điểm AB;",
+        "D. C là trung điểm BD."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A. Theo quy tắc hình bình hành ta có: A B → + A D → = A C → . Vậy C là một đỉnh của hình bình hành ABCD."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho 2 điểm A, B với A cố định. Xác định điểm B sao cho: A B → = 4 .",
+      "options": [
+        "A. B là điểm thuộc đường tròn tâm A bán kính 2;",
+        "B. B là điểm thuộc đường tròn tâm A bán kính 4;",
+        "C. B là điểm thuộc đường tròn đi qua A bán kính 4;",
+        "D. B là điểm thuộc đường tròn đi qua A bán kính 2."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải: Đáp án đúng là: B. Ta có: A B → = 4 ⇔ AB = 4. Vì A cố định. Do đó, B là điểm thuộc đường tròn tâm A bán kính 4."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho 3 điểm A, B, M với B cố định. Xác định điểm A sao cho: M A − M B = 5 .",
+      "options": [
+        "A. A là điểm thuộc đường tròn tâm M bán kính 5;",
+        "B. A là điểm thuộc đường tròn tâm B bán kính 5;",
+        "C. A là điểm thuộc đường tròn đi qua M bán kính 25;",
+        "D. A là điểm thuộc đường tròn đi qua B bán kính 25."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải: Đáp án đúng là: B. Ta có: M A − M B = 5 ⇔ B A → = 5 ⇔ B A = 5 Vì B cố định Vậy A là điểm thuộc đường tròn tâm B bán kính 5."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho đoạn thẳng AB, biết I A → = I B → . Xác định tập hợp điểm I.",
+      "options": [
+        "A. Tập hợp điểm I là đường thẳng AB;",
+        "B. Tập hợp điểm I là đường tròn đường kính AB;",
+        "C. Tập hợp điểm I là đường trung trực của đoạn thẳng AB;",
+        "D. Tập hợp điểm I là đường tròn bán kính AB."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải: Đáp án đúng là: C. Ta có: I A → = I B → ⇔ IA = IB. Do đó, I thuộc đường trung trực của đoạn thẳng AB."
+    }
+  ]
+}

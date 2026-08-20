@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-12-canh-dieu-thuc-hanh-dinh-dang-mot",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-12-canh-die",
+  "grade": "l12",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 12 Cánh diều Thực hành định dạng một số thuộc tính CSS có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Câu 1: Khi khai báo quy tắc định dạng internal CSS, thẻ HTML nào được sử dụng để chứa các quy tắc CSS?",
+      "options": [
+        "A. &lt;style&gt;",
+        "B. &lt;script&gt;",
+        "C. &lt;link&gt;",
+        "D. &lt;meta&gt;"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Thẻ &lt;style&gt; trong phần tử &lt;head&gt; của tài liệu HTML được sử dụng để khai báo các quy tắc CSS nội bộ (internal CSS). Các thẻ &lt;script&gt;, &lt;link&gt;, và &lt;meta&gt; không liên quan đến việc khai báo CSS."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Để áp dụng định dạng màu sắc cho phần tử h2 bằng cách sử dụng CSS, thuộc tính nào sẽ được sử dụng?",
+      "options": [
+        "A. font-size",
+        "B. background-color",
+        "C. color",
+        "D. border-color"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Thuộc tính color được sử dụng để định dạng màu chữ của phần tử HTML, ví dụ như phần tử h2. Các thuộc tính khác như border-color không thay đổi màu chữ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trong định dạng CSS, thuộc tính nào xác định cỡ chữ cho phần tử label?",
+      "options": [
+        "A. font-family",
+        "B. font-size",
+        "C. font-weight",
+        "D. color"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Thuộc tính c định kích cỡ chữ cho phần tử. Các thuộc tính như color không điều chỉnh kích cỡ chữ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Để áp dụng định dạng external CSS cho một trang HTML, thuộc tính nào cần phải được thêm vào phần tử &lt;head&gt; của tệp HTML?",
+      "options": [
+        "A. &lt;style&gt;",
+        "B. &lt;script&gt;",
+        "C. &lt;link&gt;",
+        "D. &lt;meta&gt;"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Thẻ &lt;link&gt; được sử dụng để liên kết tệp CSS bên ngoài với tài liệu HTML. Thẻ &lt;style&gt;, &lt;script&gt;, và &lt;meta&gt; không được sử dụng cho việc liên kết tệp CSS."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Trong tệp CSS, thuộc tính nào xác định màu nền của phần tử input?",
+      "options": [
+        "A. border-color",
+        "B. color",
+        "C. background-color",
+        "D. font-family"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Thuộc tính background-color được sử dụng để xác định màu nền cho phần tử HTML. Các thuộc tính như border-color, color, và ng thay đổi màu nền."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Khi định dạng CSS, nếu muốn phần tử h3 có màu chữ là indianred, thuộc tính nào cần khai báo?",
+      "options": [
+        "A. color",
+        "B. font-size",
+        "C. background-color",
+        "D. border-style"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Để định dạng màu chữ của phần tử h3, thuộc tính color được sử dụng. Các thuộc tính khác như border-style không áp dụng cho màu chữ."
+    }
+  ]
+}

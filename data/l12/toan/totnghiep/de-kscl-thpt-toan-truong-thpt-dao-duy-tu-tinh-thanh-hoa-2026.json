@@ -1,0 +1,196 @@
+{
+  "id": "l12-toan-totnghiep-2026-de-kscl-thpt-toan-truong-thpt-dao-duy-tu-tinh-thanh-hoa-2026",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "code": "THPT_TTT_2026_TH_01",
+  "title": "Đề khảo sát chất lượng THPT môn Toán trường THPT Đào Duy Từ Sở GD&ĐT Thanh Hóa năm 2026",
+  "duration": 90,
+  "answerSource": "official",
+  "source": "https://dolthpt.vn/tot-nghiep-thpt/pdf-de-kscl-thpt-toan-truong-thpt-dao-duy-tu-tinh-thanh-hoa-2026-co-dap-an",
+  "notes": "Nội dung, đáp án và lời giải được nhập từ bản công khai của DOL THPT.",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "content": "Đồ thị dưới đây là của hàm số nào?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-kscl-thpt-toan-truong-thpt-dao-duy-tu-tinh-thanh-hoa-2026/cau-01.webp\" alt=\"Hình minh họa câu 1\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "đường tiệm cận xiên",
+      "type": "single",
+      "options": [
+        "A. $y=\\dfrac{x^2+4x+1}{x+2}$",
+        "B. $y=\\dfrac{x^2+4x+5}{-x-2}$",
+        "C. $y=\\dfrac{x^2+4x+5}{x+2}$",
+        "D. $y=\\dfrac{x^2+4x+5}{x-2}$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cho **một đồ thị hàm số** (hàm phân thức bậc hai trên bậc nhất).\n- Trên hình vẽ thấy: - Có **tiệm cận đứng** tại $x = -2$.\n  - Có **tiệm cận xiên** là đường thẳng $y = x + 2$.\n  - Đồ thị gồm **hai nhánh**, đặc trưng của hàm phân thức.\n- Bài toán yêu cầu: **xác định công thức hàm số tương ứng với đồ thị đã cho**.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi: *Đồ thị dưới đây là của hàm số nào?*\n- Học sinh cần vận dụng: - Kiến thức về **tiệm cận đứng** của hàm phân thức.\n  - Kiến thức về **tiệm cận xiên** của hàm phân thức dạng\n$y = \\dfrac{ax^2 + bx + c}{dx + e}$\n  - Kỹ năng **so sánh đồ thị với các phương án cho sẵn**.\n🔎 **Hướng dẫn cách làm:**\n- **Bước 1: Xác định tiệm cận đứng** - Quan sát đồ thị thấy đường tiệm cận đứng là $x = -2$.\n  - ⇒ Mẫu số của hàm phải **bằng 0 tại **$x = -2$, tức là mẫu có dạng:\n$x + 2$ hoặc $-x - 2$.\n  - Loại ngay phương án có mẫu $x - 2$ (phương án D).\n- **Bước 2: Xác định tiệm cận xiên** - Đồ thị cho tiệm cận xiên là:\n$y = x + 2$\n  - Ta kiểm tra phép chia đa thức:\n$\\dfrac{x^2 + 4x + c}{x + 2} = x + 2 + \\dfrac{c - 4}{x + 2}$\n  - Như vậy: - Tiệm cận xiên đúng là $y = x + 2$ khi **hệ số phù hợp**.\n    - Điều này phù hợp với các phương án có mẫu $x + 2$.\n- **Bước 3: So sánh vị trí nhánh đồ thị** - Quan sát đồ thị: - Nhánh bên phải tiệm cận đứng **nằm phía trên** đường $y = x + 2$.\n    - Nhánh bên trái **nằm phía dưới** tiệm cận xiên.\n  - Với:\n$y = \\dfrac{x^2 + 4x + 5}{x + 2}$\nta có:\n$y = x + 2 + \\dfrac{1}{x + 2}$ - Khi $x > -2$ thì $\\dfrac{1}{x + 2} > 0$ ⇒ đồ thị nằm **trên** tiệm cận xiên.\n    - Khi $x < -2$ thì $\\dfrac{1}{x + 2} < 0$ ⇒ đồ thị nằm **dưới** tiệm cận xiên.\n  - Hoàn toàn **khớp với hình vẽ**.\n✅ **Đáp án:** $y = \\dfrac{x^2 + 4x + 5}{x + 2}$\n👉 **Chọn đáp án C.** ✅"
+    },
+    {
+      "id": 2,
+      "content": "Cho hàm số $y=f(x)$ liên tục trên đoạn $[-1;3]$ và có đồ thị như hình vẽ. Gọi $M$ và $m$ lần lượt là giá trị lớn nhất và nhỏ nhất của hàm số đã cho trên $[-1;3]$. Tính giá trị $M-m$ bằng\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-kscl-thpt-toan-truong-thpt-dao-duy-tu-tinh-thanh-hoa-2026/cau-02.webp\" alt=\"Hình minh họa câu 2\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "cách tìm giá trị lớn nhất và giá trị nhỏ nhất của hàm số trên một đoạn",
+      "type": "single",
+      "options": [
+        "A. 4",
+        "B. 0",
+        "C. 1",
+        "D. 5"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số $y=f(x)$ liên tục trên đoạn $[-1;3]$ (theo đồ thị cho).\n- Đồ thị đi qua các điểm quan trọng: $(-1,1),\\ (0,2),\\ (2,-2),\\ (3,3)$ (theo mô tả hình).\n- Gọi $M$ là giá trị lớn nhất và $m$ là giá trị nhỏ nhất của hàm trên đoạn $[-1;3]$.\n- Cần tính giá trị $M-m$.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi: Tìm hiệu giữa giá trị lớn nhất và nhỏ nhất của hàm trên đoạn đã cho, tức là tính $M-m$.\n- Kiến thức cần áp dụng: Giá trị lớn nhất, nhỏ nhất của hàm liên tục trên đoạn xuất hiện ở các điểm tới hạn hoặc ở các mút của đoạn; ở đây ta dùng trực quan từ đồ thị để xác định giá trị lớn nhất và nhỏ nhất.\n🔎 **Hướng dẫn cách làm:**\n- Quan sát đồ thị (theo mô tả hình): giá trị y tại các điểm đáng chú ý là - tại $x=-1$, $y=1$;\n  - tại $x=0$, $y=2$ (cực đại cục bộ trên đoạn);\n  - tại $x=2$, $y=-2$ (cực tiểu cục bộ trên đoạn);\n  - tại $x=3$, $y=3$ (điểm cuối bên phải).\n- So sánh các giá trị y thu được trên đoạn $[-1,3]$: {1, 2, -2, 3}. Rõ ràng: - Giá trị lớn nhất: $M=3$ (tại $x=3$).\n  - Giá trị nhỏ nhất: $m=-2$ (tại $x=2$).\n- Tính hiệu:\n$M-m=3-(-2)=5.$\n✅ **Đáp án:**  $D. 5$"
+    },
+    {
+      "id": 3,
+      "content": "Cho đồ thị hàm số $y=\\dfrac{2x^2+x-5}{x+3}$ có đường tiệm cận xiên là đường thẳng $\\Delta:y=ax+b$ với $a,b\\in\\mathbb{R},a\\ne0$. Giá trị của tổng $a+b$ bằng",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "đường tiệm cận xiên",
+      "type": "single",
+      "options": [
+        "A. 3",
+        "B. −5",
+        "C. 7",
+        "D. −3"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số $y=\\dfrac{2x^2+x-5}{x+3}$.\n- Đường tiệm cận xiên của đồ thị là đường thẳng $\\Delta:y=ax+b$ với $a,b\\in\\mathbb{R},\\ a\\ne0$.\n- Hỏi giá trị của tổng $a+b$.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu tìm đường tiệm cận xiên (đường thẳng bậc nhất) của hàm phân thức khi $x\\to\\pm\\infty$ và tính tổng hệ số góc và hệ số tự do: $a+b$.\n- Kiến thức cần dùng: phép chia đa thức (chia nghiệm của tử cho mẫu) hoặc quy tắc xác định tiệm cận xiên bằng cách viết dạng tổng của một đa thức và phần dư: nếu $deg(\\text{tử})>deg(\\text{mẫu})$, thực hiện phép chia để tìm đa thức thương (là tiệm cận).\n🔎 **Hướng dẫn cách làm:**\n- Thực hiện chia đa thức: chia \\$2x^2+x-5$ cho $x+3$.\n- Bước 1: Lấy \\$2x^2:(x)=2x$ nên một phần của thương là \\$2x$. Nhân: $(x+3)\\cdot 2x=2x^2+6x$.\n- Bước 2: Lấy hiệu: $(2x^2+x-5)-(2x^2+6x)=-5x-5$.\n- Bước 3: Chia tiếp: $(-5x):(x)=-5$ nên phần còn lại của thương là $-5$. Nhân: $(x+3)\\cdot(-5)=-5x-15$.\n- Bước 4: Lấy hiệu: $(-5x-5)-(-5x-15)=10$ là phần dư. Vậy\n$\\dfrac{2x^2+x-5}{x+3}=2x-5+\\dfrac{10}{x+3}.$\n- Khi $x\\to\\pm\\infty$, phần $\\dfrac{10}{x+3}\\to0$, do đó đường tiệm cận xiên là đường thẳng\n$y=2x-5.$\n- Vì vậy $a=2,\\ b=-5$ nên $a+b=2+(-5)=-3.$\n✅ **Đáp án:** $D. -3$"
+    },
+    {
+      "id": 4,
+      "content": "Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình thoi và $SB\\perp(ABCD)$. Mặt phẳng nào sau đây vuông góc với mặt phẳng $(SBD)$?",
+      "chuong": "quan hệ vuông góc trong không gian",
+      "dang": "điều kiện hai mặt phẳng vuông góc",
+      "type": "single",
+      "options": [
+        "A. $(SAD)$",
+        "B. $(SCD)$",
+        "C. $(SAC)$",
+        "D. $(SBC)$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hình chóp $S.ABCD$ có đáy $ABCD$ là hình thoi.\n- $SB\\perp(ABCD)$ (đỉnh $S$ thẳng góc với mặt đáy).\n- Cần chọn mặt phẳng vuông góc với mặt phẳng $(SBD)$ trong các phương án: $(SAD),\\ (SCD),\\ (SAC),\\ (SBC).$\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu xác định mặt phẳng nào vuông góc với mặt phẳng $(SBD)$.\n- Cần áp dụng các kiến thức: - Tính chất đường chéo trong hình thoi: $AC\\perp BD.$\n  - Nếu một đường thẳng nằm trong mặt phẳng $\\alpha$ mà đường thẳng đó vuông góc với mọi đường thẳng trong mặt phẳng $\\beta$ đi qua giao điểm, thì $\\alpha\\perp\\beta$.\n  - Nếu một đường thẳng vuông góc với mặt phẳng thì nó vuông góc với mọi đường thẳng nằm trong mặt phẳng đó.\n🔎 **Hướng dẫn cách làm:**\n- Vì $ABCD$ là hình thoi nên hai đường chéo vuông góc: - $AC\\perp BD.$\n- Do $SB\\perp(ABCD)$ nên $SB$ vuông góc với mọi đường thẳng nằm trong mặt đáy, vì vậy: - $SB\\perp AC\\quad\\text{và}\\quad SB\\perp BD.$\n- Xét mặt phẳng $(SBD)$: nó chứa hai đường thẳng giao nhau $SB$ và $BD$.\n- Xét đường thẳng $AC$ (nằm trong mặt phẳng $(SAC)$). Ta có: - $AC\\perp BD$ và $AC\\perp SB$ (từ các bước trên).\n  - Một đường thẳng vuông góc với hai đường thẳng không song song trong một mặt phẳng thì vuông góc với toàn bộ mặt phẳng đó. Vậy: - $AC\\perp (SBD).$\n- Vì $AC\\subset (SAC)$ và $AC\\perp (SBD)$, theo định nghĩa, mặt phẳng $(SAC)$ vuông góc với mặt phẳng $(SBD)$: - (Áp dụng quy tắc: nếu một đường thẳng thuộc mặt phẳng $\\alpha$ vuông góc với mặt phẳng $\\beta$ thì $\\alpha\\perp\\beta$.)\n  - Có thể viết tổng quát: $\\ell\\subset\\alpha,\\ \\ell\\perp\\beta\\ \\Rightarrow\\ \\alpha\\perp\\beta.$\n✅ **Đáp án:** $C. (SAC)$"
+    },
+    {
+      "id": 5,
+      "content": "Cho hàm số $y=f(x)$ xác định, có đạo hàm trên $\\mathbb{R}$ và $f'(x)$ có đồ thị như hình vẽ. Mệnh đề nào sau đây đúng?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-kscl-thpt-toan-truong-thpt-dao-duy-tu-tinh-thanh-hoa-2026/cau-05.webp\" alt=\"Hình minh họa câu 5\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "tính đơn điệu của hàm số",
+      "type": "single",
+      "options": [
+        "A. Hàm số $y=f(x)$ nghịch biến trên khoảng $\\left(-\\dfrac52;-2\\right)$",
+        "B. Hàm số $y=f(x)$ đồng biến trên khoảng $\\left(-\\dfrac12;0\\right)$",
+        "C. Hàm số $y=f(x)$ nghịch biến trên khoảng $(-2;+\\infty)$",
+        "D. Hàm số $y=f(x)$ đồng biến trên khoảng $(-\\infty;-3)$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Đồ thị của đạo hàm $f'(x)$ được vẽ (mô tả: cắt trục hoành tại $x=-3,\\;x=-2,\\;x=0$; trên khoảng $(-3,-2)$ giá trị $f'(x)>0$; trên khoảng $(-2,0)$ và trên khoảng $(0,+\\infty)$ giá trị $f'(x)<0$; tại $x=0$ đồ thị chạm trục hoành (tiếp xúc) rồi đi xuống).\n- Hàm số $y=f(x)$ xác định và có đạo hàm trên $\\mathbb{R}$.\n- Các phương án đưa ra (A, B, C, D) mô tả tính đồng/nhịch biến trên các khoảng.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi: Hỏi mệnh đề nào đúng về tính đồng/nhịch biến của hàm $y=f(x)$ dựa vào đồ thị của $f'(x)$.\n- Cần áp dụng kiến thức: quan hệ giữa dấu của đạo hàm và tính đồng/nhịch biến: - Nếu $f'(x)>0$ trên một khoảng thì $f$ đồng biến trên khoảng đó.\n  - Nếu $f'(x)<0$ trên một khoảng thì $f$ nghịch biến trên khoảng đó.\n  - Nếu $f'(x)\\le 0$ trên một khoảng (chỉ bằng 0 tại vài điểm cô lập) thì $f$ vẫn nghịch biến trên khoảng đó.\n🔎 **Hướng dẫn cách làm:**\n- Xác định dấu của $f'(x)$ theo đồ thị: - Trước $x=-3$: đồ thị ở dưới trục hoành rồi lên qua $x=-3$ ⇒ trên khoảng $(-\\infty,-3)$ có $f'(x)<0$.\n  - Trên khoảng $(-3,-2)$: đồ thị ở trên trục hoành ⇒ $f'(x)>0$ (=> $f$ đồng biến ở đó).\n  - Tại $x=-2$: giao trục, đổi dấu từ dương sang âm.\n  - Trên khoảng $(-2,0)$: đồ thị nằm dưới trục hoành ⇒ $f'(x)<0$ (=> $f$ nghịch biến trên $(-2,0)$).\n  - Tại $x=0$: đồ thị chạm trục hoành (tiếp xúc) nên $f'(0)=0$ nhưng không đổi dấu (vẫn âm cho cả bên phải của 0).\n  - Trên khoảng $(0,+\\infty)$: đồ thị xuống dưới trục hoành ⇒ $f'(x)<0$ (=> $f$ nghịch biến trên $(0,+\\infty)$).\n- Kết hợp: trên toàn khoảng $(-2,+\\infty)$, ta có $f'(x)<0$ cho mọi $x\\in(-2,+\\infty)$ ngoại trừ $x=0$ nơi $f'(0)=0$. Vì các điểm đạo hàm bằng 0 là cô lập và đạo hàm không trở nên dương, nên $f$ nghịch biến trên toàn khoảng $(-2,+\\infty)$.\n- Do đó phương án mô tả “Hàm số $y=f(x)$ nghịch biến trên khoảng $(-2;+\\infty)$” là đúng.\n✅ **Đáp án:**  $C. \\text{Hàm số } y=f(x)\\ \\text{nghịch biến trên khoảng}\\ (-2;+\\infty)$"
+    },
+    {
+      "id": 6,
+      "content": "Giả sử nhiệt độ của một loại đồ uống được xác định theo công thức: $T=22+50e^{-t/8},;t\\ge0$ trong đó $t$ (phút) là khoảng thời gian tính từ lúc pha chế đồ uống đó xong. Hỏi sau bao lâu kể từ lúc pha chế xong thì nhiệt độ của đồ uống đó là \\$50^\\circ\\text{C}$?",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "tốc độ thay đổi của một đại lượng",
+      "type": "single",
+      "options": [
+        "A. 6",
+        "B. 5",
+        "C. 8",
+        "D. 7"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Công thức nhiệt độ: $T=22+50e^{-t/8},\\; t\\ge0$\n- Đơn vị: $t$ tính bằng *phút*, $T$ tính bằng độ C.\n- Yêu cầu: tìm thời gian kể từ lúc pha chế để $T=50^\\circ\\text{C}$.\n❓ **Hiểu câu hỏi:**\n- Bài toán yêu cầu giải phương trình mũ để tìm *thời gian* $t$ khi nhiệt độ bằng \\$50^\\circ\\text{C}$.\n- Cần sử dụng kiến thức về hàm mũ và logarit tự nhiên (ln) để giải phương trình dạng $e^{(\\cdot)}$.\n🔎 **Hướng dẫn cách làm:**\n- Viết phương trình khi $T=50^\\circ\\text{C}$:    \\$22+50e^{-t/8}=50.$\n- Trừ hai vế cho 22:    \\$50e^{-t/8}=28.$\n- Chia cho 50:    $e^{-t/8}=\\frac{28}{5}0}=\\frac{14}{2}5}.$\n- Lấy logarit tự nhiên hai vế:    $-\\,\\frac{t}{8}=\\ln\\!\\left(\\frac{14}{2}5}\\right).$\n- Giải cho $t$:    $t=-8\\ln\\!\\left(\\frac{14}{2}5}\\right).$\n- Tính xấp xỉ:    $\\ln\\!\\left(\\frac{14}{2}5}\\right)=\\ln(0.56)\\approx -0.579819$\nnên    $t\\approx -8(-0.579819)\\approx 4.64\\ \\text{(phút)}.$\n- Trong các lựa chọn nguyên (6, 5, 8, 7), giá trị xấp xỉ 4.64 phút làm tròn gần nhất là **5 phút**.\n✅ **Đáp án:**   $B. 5$"
+    },
+    {
+      "id": 7,
+      "content": "Cho hàm số $y=f(x)$ có đồ thị là đường cong trong hình bên. Hàm số đã cho đồng biến trên khoảng nào dưới đây?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-kscl-thpt-toan-truong-thpt-dao-duy-tu-tinh-thanh-hoa-2026/cau-07.webp\" alt=\"Hình minh họa câu 7\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "tính đơn điệu của hàm số",
+      "type": "single",
+      "options": [
+        "A. (2;+ \\infty )",
+        "B. (0;2)",
+        "C. (− \\infty ;2)",
+        "D. (−2;2)"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Đồ thị của hàm số $y=f(x)$ có dạng một đường cong bậc ba với hệ số dẫn âm (xuống phải).\n- Đồ thị có một điểm cực tiểu tại $(0,-2)$ và một điểm cực đại tại $(2,2)$ (được chỉ rõ bởi đường gạch ngang và dọc).\n- Đường cong đi từ phía trên bên trái, giảm tới cực tiểu $(0,-2)$, rồi tăng tới cực đại $(2,2)$, sau đó giảm tiếp về phía dưới bên phải.\n- Có ba nghiệm (giao điểm với trục Ox): một bên trái của \\$0$, một giữa \\$0$ và \\$2$, và một bên phải của \\$2$.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi hỏi: hàm số đã cho **đồng biến** (tức là *tăng*) trên khoảng nào trong các phương án.\n- Kiến thức cần dùng: định nghĩa đồng biến trên một khoảng — khi x tăng thì giá trị hàm f(x) cũng tăng; trên đồ thị, đó là khoảng mà đường cong *hướng lên về phía phải*.\n🔎 **Hướng dẫn cách làm:**\n- Định nghĩa trực quan: Hàm số đồng biến trên khoảng $I$ nếu với mọi $x_1,x_2\\in I$ và $x_1<x_2$ thì $f(x_1)<f(x_2)$. Trên đồ thị, hàm đồng biến khi đồ thị đi lên khi ta đi từ trái sang phải.\n- Quan sát đồ thị (theo mô tả ảnh): - Từ $-\\infty$ đến \\$0$: đồ thị đi xuống tới điểm $(0,-2)$ → hàm *giảm* trên $(-\\infty,0)$.\n  - Từ \\$0$ đến \\$2$: đồ thị đi lên từ $(0,-2)$ tới $(2,2)$ → hàm *tăng* trên $(0,2)$.\n  - Từ \\$2$ đến $+\\infty$: đồ thị đi xuống sau $(2,2)$ → hàm *giảm* trên $(2,+\\infty)$.\n- Do đó khoảng duy nhất mà hàm đồng biến là $(0,2)$. So sánh với các phương án: đúng là phương án chứa $(0;2)$.\n✅ **Đáp án:  **$B. (0;2)$"
+    },
+    {
+      "id": 8,
+      "content": "Cho hàm số $y=f(x)$ có $f'(x)=(e^x-1)(x^2-x),;\\forall x\\in\\mathbb{R}$. Số điểm cực trị của hàm số $y=f(x)$ là",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "cực trị của hàm số",
+      "type": "single",
+      "options": [
+        "A. 0",
+        "B. 1",
+        "C. 2",
+        "D. 3"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số có đạo hàm $f'(x)=(e^x-1)(x^2-x),\\;\\forall x\\in\\mathbb{R}.$\n- Cần xác định *số điểm cực trị* của hàm số.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu tìm số điểm mà tại đó hàm có cực tiểu hoặc cực đại (điểm cực trị).\n- Kiến thức cần áp dụng: tìm điểm tới hạn bằng cách giải $f'(x)=0$ và xét dấu của $f'(x)$ trên các khoảng để xác định sự đổi dấu (tăng → giảm hay giảm → tăng).\n🔎 **Hướng dẫn cách làm:**\n- Giải phương trình $f'(x)=(e^x-1)(x^2-x)=0.$ - Từ đó có $e^x-1=0\\Rightarrow x=0.$\n  - Và $x^2-x=x(x-1)=0\\Rightarrow x=0 \\text{ hoặc } x=1.$\n  - Vậy các điểm tới hạn là $x=0$ và $x=1\\,$ (x=0 là nghiệm của cả hai thừa số).\n- Chia trục số theo các khoảng: $(-\\infty,0),\\;(0,1),\\;(1,\\infty).$\n- Xét dấu của từng thừa số trên mỗi khoảng: - Nếu $x<0$: $e^x-1<0,\\; x<0,\\; x-1<0.$ Tích: $(e^x-1)(x)(x-1) = (-)\\cdot(-)\\cdot(-)=(-).$ Suy ra $f'(x)<0$ trên $(-\\infty,0).$\n  - Nếu \\$0<x<1$: $e^x-1>0,\\; x>0,\\; x-1<0.$ Tích: $(+)\\cdot(+)\\cdot(-)=(-).$ Suy ra $f'(x)<0$ trên $(0,1).$\n  - Nếu $x>1$: $e^x-1>0,\\; x>0,\\; x-1>0.$ Tích: $(+)\\cdot(+)\\cdot(+)=(+).$ Suy ra $f'(x)>0$ trên $(1,\\infty).$\n- Kết luận về cực trị: - Tại $x=0$: $f'$ âm cả hai bên (không đổi dấu) → không phải điểm cực trị.\n  - Tại $x=1$: $f'$ đổi từ âm (trước 1) sang dương (sau 1) → điểm $x=1$ là một *cực tiểu*.\n- Vậy hàm có đúng một điểm cực trị.\n✅ **Đáp án:**  $B. 1$"
+    },
+    {
+      "id": 9,
+      "content": "Cho hình chóp tứ giác đều $S.ABCD$ có cạnh đáy bằng $a$ và chiều cao bằng $a\\sqrt{2}$. Tính khoảng cách từ $A$ đến mặt bên $(SCD)$.",
+      "chuong": "quan hệ vuông góc trong không gian",
+      "dang": "khoảng cách từ một điểm đến một đường thẳng, đến một mặt phẳng",
+      "type": "single",
+      "options": [
+        "A. $\\dfrac{2a\\sqrt{2}}{3}$",
+        "B. $\\dfrac{a\\sqrt{10}}{5}$",
+        "C. $\\dfrac{a\\sqrt{2}}{3}$",
+        "D. $\\dfrac{a\\sqrt{3}}{2}$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hình chóp tứ giác đều $S.ABCD$ (đáy là hình vuông $ABCD$, tâm đáy là $O$).\n- Cạnh đáy bằng $a$.\n- Chiều cao của hình chóp $SO = a\\sqrt2$.\n- Yêu cầu: tính khoảng cách từ điểm $A$ đến mặt bên $(SCD)$.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu tìm khoảng cách từ điểm $A$ đến mặt phẳng chứa tam giác $SCD$.\n- Cần áp dụng kiến thức về tọa độ không gian hoặc công thức khoảng cách từ một điểm đến một mặt phẳng (dùng vectơ pháp tuyến và tích vô hướng/tích có hướng).\n- Biết thiết lập hệ tọa độ thuận tiện cho hình vuông và đỉnh chóp đều.\n🔎 **Hướng dẫn cách làm:**\n- Chọn hệ trục tọa độ: đặt mặt đáy lên mặt phẳng $Oxy$, tâm $O(0,0,0)$, và $S(0,0,h)$ với $h= a\\sqrt2$. Gọi các đỉnh đáy là - $A\\left(\\dfrac{a}{2},\\dfrac{a}{2},0\\right),\\quad B\\left(-\\dfrac{a}{2},\\dfrac{a}{2},0\\right),$\n  - $C\\left(-\\dfrac{a}{2},-\\dfrac{a}{2},0\\right),\\quad D\\left(\\dfrac{a}{2},-\\dfrac{a}{2},0\\right).$\n- Viết các vectơ chỉ phương của mặt phẳng $(SCD)$: - $\\overrightarrow{SC}=C-S=\\left(-\\dfrac{a}{2},-\\dfrac{a}{2},-h\\right),$\n  - $\\overrightarrow{SD}=D-S=\\left(\\dfrac{a}{2},-\\dfrac{a}{2},-h\\right).$\n- Tính vectơ pháp tuyến của mặt phẳng bằng tích có hướng: - $\\mathbf{n}=\\overrightarrow{SC}\\times\\overrightarrow{SD}=(0,\\,-a h,\\;\\dfrac{a^2}{2}).$\n(Bạn có thể nhân tắt hệ số chung; chỉ cần vectơ pháp tuyến không phải vectơ không.)\n- Khoảng cách từ điểm $A$ đến mặt phẳng qua điểm $S$ với pháp tuyến $\\mathbf{n}$ là - $d=\\dfrac{|\\mathbf{n}\\cdot\\overrightarrow{AS}|}{\\|\\mathbf{n}\\|},\\quad \\overrightarrow{AS}=A-S=\\left(\\dfrac{a}{2},\\dfrac{a}{2},-h\\right).$\n- Tính tích vô hướng: - $\\mathbf{n}\\cdot\\overrightarrow{AS}=0\\cdot\\dfrac{a}{2}+(-ah)\\cdot\\dfrac{a}{2}+\\dfrac{a^2}{2}\\cdot(-h)=-a^2h.$\n  - Giá trị tuyệt đối là $a^2h$.\n- Tính độ lớn của $\\mathbf{n}$: - $\\|\\mathbf{n}\\|=\\sqrt{(0)^2+(ah)^2+\\left(\\dfrac{a^2}{2}\\right)^2}=a\\sqrt{h^2+\\dfrac{a^2}{4}}.$\n- Do đó - $d=\\dfrac{a^2h}{a\\sqrt{h^2+\\dfrac{a^2}{4}}}=\\dfrac{ah}{\\sqrt{h^2+\\dfrac{a^2}{4}}}.$\n- Thay $h=a\\sqrt2$: - $d=\\dfrac{a\\cdot a\\sqrt2}{\\sqrt{a^2\\cdot2+\\dfrac{a^2}{4}}}=\\dfrac{a^2\\sqrt2}{a\\sqrt{\\tfrac{9}{4}}}=\\dfrac{a^2\\sqrt2}{a\\cdot\\dfrac{3}{2}}=\\dfrac{2a\\sqrt2}{3}.$\n✅ **Đáp án:** A. $\\dfrac{2a\\sqrt2}{3}$"
+    },
+    {
+      "id": 10,
+      "content": "Xét hàm số $y=\\dfrac{x-1}{2x+1}$ trên $[0;1]$. Khẳng định nào sau đây đúng?",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "cách tìm giá trị lớn nhất và giá trị nhỏ nhất của hàm số trên một đoạn",
+      "type": "single",
+      "options": [
+        "A. $\\max_{[0;1]} y=0$",
+        "B. $\\min_{[0;1]} y=-\\dfrac12$",
+        "C. $\\min_{[0;1]} y=\\dfrac12$",
+        "D. $\\max_{[0;1]} y=1$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số $y=\\dfrac{x-1}{2x+1}$ trên đoạn $[0;1]$.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu chọn khẳng định đúng về giá trị lớn nhất/nhỏ nhất của hàm trên đoạn $[0;1]$.\n- Cần dùng các kiến thức: đạo hàm để xét đơn điệu (hàm số liên tục, khả vi trên đoạn), và giá trị tại các biên của đoạn để tìm min, max.\n🔎 **Hướng dẫn cách làm:**\n- Tính đạo hàm của hàm số:\n$y=\\dfrac{x-1}{2x+1} \\Rightarrow y'=\\dfrac{(1)(2x+1)-(x-1)(2)}{(2x+1)^2}.$\n- Rút gọn tử số:\n$y'=\\dfrac{2x+1-2x+2}{(2x+1)^2}=\\dfrac{3}{(2x+1)^2}.$\n- Vì trên đoạn $[0;1]$ ta có \\$2x+1\\in[1,3]$ nên $(2x+1)^2>0$ và do đó $y'>0$ trên toàn đoạn. Vậy hàm số *đơn điệu tăng* trên $[0;1]$.\n- Khi hàm tăng trên đoạn đóng, giá trị nhỏ nhất đạt ở biên trái $x=0$ và giá trị lớn nhất đạt ở biên phải $x=1$.\n- Tính giá trị tại các biên:\n$y(0)=\\dfrac{0-1}{2\\cdot0+1}=-1,$\n$y(1)=\\dfrac{1-1}{2\\cdot1+1}=0.$\n- Do đó: - $\\min_{[0;1]} y=-1.$\n  - $\\max_{[0;1]} y=0.$\n- So sánh với các lựa chọn: khẳng định đúng là $\\max_{[0;1]} y=0.$\n✅ **Đáp án:** A. $\\max_{[0;1]} y=0$"
+    },
+    {
+      "id": 11,
+      "content": "Cho hàm số $y=ax^3+bx^2+cx+d$ có đồ thị như hình vẽ. Khẳng định nào dưới đây đúng?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-kscl-thpt-toan-truong-thpt-dao-duy-tu-tinh-thanh-hoa-2026/cau-11.webp\" alt=\"Hình minh họa câu 11\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "cực trị của hàm số",
+      "type": "single",
+      "options": [
+        "A. Hàm số đã cho có hai điểm cực trị",
+        "B. $a>0,d<0$",
+        "C. $a<0,d>0$",
+        "D. Hàm số đã cho đồng biến trên khoảng $(-\\infty;+\\infty)$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cho hàm số bậc ba:\n$y = ax^3 + bx^2 + cx + d$\n- Đồ thị của hàm số được cho như hình vẽ.\n- Quan sát hình vẽ thấy: - Nhánh **bên phải đi lên**.\n  - Đồ thị có **hai điểm cực trị**.\n  - Cả hai điểm cực trị đều nằm **phía trên trục hoành**.\n❓ **Hiểu câu hỏi:**\n- Bài toán hỏi: **Khẳng định nào dưới đây là đúng?**\n- Học sinh cần sử dụng: - Mối liên hệ giữa **đồ thị hàm bậc ba** và hệ số $a, b, c, d$.\n  - Kiến thức về: - Dấu của hệ số $a$ qua chiều nhánh.\n    - Tổng và tích nghiệm của đạo hàm:\n$y' = 3ax^2 + 2bx + c$\n    - Ý nghĩa hình học của tung độ giao điểm với trục $Oy$ (giá trị $d$).\n🔎 **Hướng dẫn cách làm:**\n- **Bước 1: Xét hệ số **$a$ - Nhánh phải của đồ thị đi lên khi $x \\to +\\infty$.\n  - ⇒ Hệ số bậc cao nhất **dương**:\n$a > 0$\n- **Bước 2: Xét số điểm cực trị** - Đồ thị có **hai điểm cực trị**.\n  - ⇒ Phương trình $y' = 0$ có **hai nghiệm phân biệt**.\n  - ⇒ Hàm số **không đồng biến trên **$(-\\infty;+\\infty)$.\n  - ❌ Loại phương án **D**.\n  - ✅ Khẳng định **A đúng**.\n✅ **Đáp án:**  $\\boxed{\\text{A. Hàm số đã cho có hai điểm cực trị}}$\n👉 **Chọn đáp án A.** ✅"
+    },
+    {
+      "id": 12,
+      "content": "Bạn Nga có một tấm bìa hình vuông cạnh \\$20\\text{ cm}$. Bạn muốn cắt ở mỗi góc một hình vuông nhỏ để gấp và dán lại thành một cái hộp đựng đồ dùng học tập không có nắp (mép dán không đáng kể). Để cái hộp có thể tích lớn nhất thì hình vuông nhỏ cắt đi có độ dài cạnh là\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-kscl-thpt-toan-truong-thpt-dao-duy-tu-tinh-thanh-hoa-2026/cau-12.webp\" alt=\"Hình minh họa câu 12\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "một vài bài toán tối ưu hóa đơn giản",
+      "type": "single",
+      "options": [
+        "A. 20 cm",
+        "B. $\\dfrac{10}{3}\\text{ cm}$",
+        "C. $\\dfrac{20}{3}\\text{ cm}$",
+        "D. 10 cm"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Có một tấm bìa **hình vuông** cạnh:\n\\$20\\text{ cm}$\n- Cắt ở **mỗi góc** của tấm bìa một hình vuông nhỏ, **cùng kích thước**.\n- Sau đó gấp lên để tạo thành **một cái hộp không nắp**.\n- Bỏ qua độ dày mép dán (coi như không đáng kể).\n- Yêu cầu: **hộp có thể tích lớn nhất**.\n❓ **Hiểu câu hỏi:**\n- Bài toán hỏi:\n👉 **Cạnh hình vuông nhỏ bị cắt là bao nhiêu để thể tích hộp là lớn nhất?**\n- Học sinh cần áp dụng: - Kiến thức về **thể tích hình hộp chữ nhật**.\n  - Kỹ năng **lập hàm số theo biến**.\n  - Kiến thức **tìm giá trị lớn nhất của hàm số** (dùng đạo hàm).\n🔎 **Hướng dẫn cách làm:**\n- **Bước 1: Đặt ẩn và biểu diễn các kích thước của hộp** - Gọi $x$ (cm) là **độ dài cạnh hình vuông nhỏ bị cắt**.\n  - Khi đó: - Chiều cao hộp:  $h = x$\n    - Chiều dài đáy hộp:  \\$20 - 2x$\n    - Chiều rộng đáy hộp:  \\$20 - 2x$\n- **Bước 2: Lập công thức thể tích hộp** - Thể tích hình hộp chữ nhật:   $V = \\text{dài} \\times \\text{rộng} \\times \\text{cao}$\n  - Suy ra:   $V(x) = x(20 - 2x)^2$\n  - Điều kiện:   \\$0 < x < 10$\n- **Bước 3: Tìm giá trị lớn nhất của hàm thể tích** - Khai triển:   $V(x) = x(400 - 80x + 4x^2) = 400x - 80x^2 + 4x^3$\n  - Đạo hàm:   $V'(x) = 400 - 160x + 12x^2$\n  - Giải phương trình:   $V'(x) = 0$\n\\$12x^2 - 160x + 400 = 0$\n\\$3x^2 - 40x + 100 = 0$\n  - Giải ra:   $x = \\dfrac{10}{3} \\quad \\text{hoặc} \\quad x = 10$\n  - Do $x = 10$ không thỏa điều kiện (đáy bằng 0), nên nhận:   $x = \\dfrac{10}{3}$\n- **Bước 4: Kết luận** - Với $x = \\dfrac{10}{3}$ thì thể tích đạt **giá trị lớn nhất**.\n✅ **Đáp án:  **$\\boxed{\\dfrac{10}{3}\\text{ cm}}$\n👉 **Chọn đáp án B.** ✅"
+    }
+  ]
+}

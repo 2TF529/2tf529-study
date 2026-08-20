@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-10-bai-tap-tinh-dao-ham-cua-mot-so-ham-so-so-cap-co-ban-co-loi-",
+  "sourceId": "vietjack:1-10-bai-tap-tinh-dao-ham-cua-mot-so-ham",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.10 Bài tập Tính đạo hàm của một số hàm số sơ cấp cơ bản (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Đạo hàm của hàm số f(x) = e x tại điểm x 0 = 0 là:",
+      "options": [
+        "A. 0;",
+        "B. 1;",
+        "C. e;",
+        "D. e x ."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải: Đáp án đúng là: B Ta có f ' (x) = (e x ) ' = e x . f ' (0) = e 0 = 1."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Đạo hàm của hàm số f(x) = ln x tại điểm x 0 = 1 7 là:",
+      "options": [
+        "A. 1 7 ;",
+        "B. 7;",
+        "C. 1;",
+        "D. –7."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải: Đáp án đúng là: B Ta có f ' (x) = (ln x) ' = 1 x . f ' ( 1 7 ) = 1 1 7 = 7 ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Đạo hàm của hàm số f(x) = 2 x tại điểm x 0 = 4 là:",
+      "options": [
+        "A. 2 4 ;",
+        "B. 2ln2;",
+        "C. 2 4 ln2;",
+        "D. 4ln2."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải: Đáp án đúng là: C Ta có f ' (x) = (2 x ) ' = 2 x ln2. f ' (4) = 2 4 ln2."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Đạo hàm của hàm số f(x) = tanx tại điểm x 0 = π 3 là:",
+      "options": [
+        "A. 4;",
+        "B. 2;",
+        "C. 1 2 ;",
+        "D. 1 4 ."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A Ta có f ' (x) = (tanx) ' = 1 cos 2 x . f ' π 3 = 1 cos 2 π 3 = 1 1 4 = 4 ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Đạo hàm của hàm số f(x) = log 4 x tại điểm x 0 = 9 là:",
+      "options": [
+        "A. 1 4ln9 ;",
+        "B. 9 ln4 ;",
+        "C. 1 ln4 ;",
+        "D. 1 9ln4 ."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải: Đáp án đúng là: D Ta có f ' (x) = (log 4 x) ' = 1 xln4 . f ' (9) = 1 9xln4 ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Đạo hàm của hàm số f(x) = cotx tại điểm x 0 = π 2 là:",
+      "options": [
+        "A. 1;",
+        "B. 0;",
+        "C. –1;",
+        "D. 1 2 ."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải: Đáp án đúng là: C Ta có f ' (x) = (cotx) ' = − 1 sin 2 x . π 2 = − 1 sin 2 π 2 = − 1 1 = − 1 ."
+    }
+  ]
+}

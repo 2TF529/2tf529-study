@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-toan-10-chan-troi-sang-tao-giai-tam-giac-va-",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-toan-10-chan-troi-s",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Toán 10 chân trời sáng tạo Giải tam giác và ứng dụng thực tế có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho tam giác ABC, biết BC = 24, AC = 13, AB = 15. Số đo góc A là:",
+      "options": [
+        "A. 28°37';",
+        "B. 33°34';",
+        "C. 58°24';",
+        "D. 117°49'."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải Đáp án đúng là: D Áp dụng hệ quả định lí côsin cho tam giác ABC ta có: cos A = A B 2 + A C 2 − B C 2 2. A B . A C = 15 2 + 13 2 − 24 2 2.15.13 = − 7 15 Do đó A ^ ≈ 117 ° 49 ' . Vậy A ^ ≈ 117 ° 49 ' ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Tam giác ABC có A ^ = 68 ° 12 ' , B ^ = 34 ° 44 ' , AB = 117. Độ dài cạnh AC là khoảng:",
+      "options": [
+        "A. 68;",
+        "B. 118",
+        "C. 168",
+        "D. 200"
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A Xét tam giác ABC có A ^ = 68 ° 12 ' , B ^ = 34 ° 44 ' , ta có: A ^ + B ^ + C ^ = 180 ° (định lí tổng ba góc trong tam giác) ⇒ C ^ = 180 ° − A ^ − B ^ ⇒ C ^ = 180 ° − 68 ° 12 ' − 34 ° 44 ' = 77 ° 4 ' . Áp dụng định lí sin trong tam giác ABC ta có: A C sin B = A B sin C ⇒ A C = A B . sin B sin C = 117. sin 34 ° 44 ' sin 77 ° 4 ' ≈ 68. Vậy AC ≈ 68."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Tam giác ABC có A B = 2 ; A C = 3 và C ^ = 45 ° . Độ dài cạnh BC là:",
+      "options": [
+        "A. B C = 6 − 2 2 ;",
+        "B. B C = 6 + 2 2 ;",
+        "C. 5",
+        "D. 6"
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải Đáp án đúng là: B Áp dụng định lí côsin cho tam giác ABC ta có: AB 2 = AC 2 + BC 2 – 2.AC.BC.cosC ⇒ 2 2 = 3 2 + B C 2 − 2. 3 . B C . c o s 45 ° ⇒ B C 2 − 6 . B C + 1 = 0 ⇒ B C = 6 + 2 2 (vì BC > 0) Vậy B C = 6 + 2 2"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho tam giác ABC có A B = 3 + 1 , A C = 6 , BC = 2. Số đo của B ^ − A ^ là:",
+      "options": [
+        "A. 20°;",
+        "B. 25°;",
+        "C. 30°;",
+        "D. 35°;"
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải Đáp án đúng là: B Áp dụng hệ quả định lí côsin cho tam giác ABC ta có: +) cos A = A B 2 + A C 2 − B C 2 2. A B . A C = 3 + 1 2 + 6 2 − 2 2 2. 3 + 1 6 = 2 2 ⇒ A ^ = 45 ° +) cos B = A B 2 + B C 2 − A C 2 2. A B . B C = 3 + 1 2 + 2 2 − 6 2 2. 3 + 1 .2 = 1 2 ⇒ B ^ = 60 ° Do đó B ^ − A ^ = 60 ° − 45 ° = 25 ° . ⇒ B ^ = 60 ° Vậy B ^ − A ^ = 25 ° ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Tam giác ABC có góc A nhọn, AB = 5, AC = 8, diện tích bằng 12. Độ dài cạnh BC là khoảng:",
+      "options": [
+        "A. 2 3",
+        "B. 3 2",
+        "C. 4",
+        "D. 5"
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải Đáp án đúng là: D Diện tích tam giác ABC là: S = 1 2 . A B . A C . sin A ⇒ sin A = 2 S A B . A C ⇒ sin A = 2.12 5.8 = 3 5 ⇒ A ^ ≈ 36 ° 52 ' (vì góc A là góc nhọn) Xét tam giác ABC có AB = 5, AC = 8 và A ^ ≈ 36 ° 52 ' , áp dụng định lí côsin ta có: BC 2 = AB 2 + AC 2 – 2.AB.AC.cosA BC 2 ≈ 5 2 + 8 2 – 2.5.8.cos36°52' ≈ 25 Þ BC ≈ 5. Vậy BC ≈ 5."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho tam giác ABC có AB = 5, A ^ = 40 ° , B ^ = 60 ° . Độ dài BC gần nhất với kết quả nào?",
+      "options": [
+        "A. 3,1;",
+        "B. 3,3",
+        "C. 3,5",
+        "D. 3,7"
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải Đáp án đúng là: B Xét tam giác ABC có A ^ = 40 ° , B ^ = 60 ° , ta có: A ^ + B ^ + C ^ = 180 ° (định lí tổng ba góc trong tam giác) ⇒ C ^ = 180 ° − A ^ − B ^ ⇒ C ^ = 180 ° − 40 ° − 60 ° = 80 ° . Theo định lí sin ta có: B C sin A = A B sin C ⇒ B C = A B . sin A sin C = 5. sin 40 ° sin 80 ° ≈ 3 , 3 Vậy BC ≈ 3,3."
+    }
+  ]
+}

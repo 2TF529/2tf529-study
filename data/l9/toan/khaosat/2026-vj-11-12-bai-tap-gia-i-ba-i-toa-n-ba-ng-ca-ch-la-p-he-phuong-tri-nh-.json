@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-11-12-bai-tap-gia-i-ba-i-toa-n-ba-ng-ca-ch-la-p-he-phuong-tri-nh-",
+  "sourceId": "vietjack:11-12-bai-tap-gia-i-ba-i-toa-n-ba-ng-ca-",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "11.12 bài tập Giải bài toán bằng cách lập hệ phương trình dạng toán sử dụng kiến thức tỉ lệ phần trăm có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Trong tháng thứ nhất, hai tổ sản xuất được 800 chi tiết máy. So với tháng thứ nhất, trong tháng thứ hai, tổ I sản xuất vượt 15%, tổ II sản xuất vượt 20% nên trong tháng này, cả hai tổ đã sản xuất được 945 chi tiết máy. Hỏi trong tháng thứ nhất, mỗi tổ sản xuất được bao nhiêu chi tiết máy?",
+      "options": [
+        "A. Tổ I là 500 chi tiết, tổ II là 300 chi tiết.",
+        "B. Tổ I là 300 chi tiết, tổ II là 500 chi tiết.",
+        "C. Tổ I là 400 chi tiết, tổ II là 400 chi tiết.",
+        "D. Tổ I là 600 chi tiết, tổ II là 200 chi tiết."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Gọi x, y (chi tiết máy) lần lượt là số chi tiết máy trong tháng đầu mà tổ I và II làm được (x, y ∈ ℕ, 0 < x, y < 800). Vì trong tháng đầu, hai tổ sản xuất được 800 chi tiết máy nên ta có: x + y = 800 (1). Tháng thứ 2, tổ I vượt mức 15%, tổ II vượt mức 20% nên ta có phương trình: x + 15%x + y + 20%y = 945 hay 1,15x + 1,2y = 945 (2). Từ (1) và (2) ta có hệ phương trình \\(\\left\\{ \\begin{array}{l}x + y = 800\\\\1,15x + 1,2y = 945\\end{array} \\right.\\). Thay x = 800 – y vào phương trình (1) được 1,15(800 – y) + 1,2y = 945 hay 0,05y = 25 suy ra y = 500 (thỏa mãn). Với y = 500 suy ra x = 300 (thỏa mãn). Vậy tháng đầu tổ I được 300 chi tiết máy, tổ II được 500 chi tiết máy."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Hai xí nghiệp theo kế hoạch phải làm tổng cộng 360 dụng cụ. Trên thực tế, xí nghiệp I làm vượt mức 12%, xí nghiệp II làm vượt mức 10% do đó cả hai xí nghiệp làm tổng cộng 400 dụng cụ. Mỗi dụng cụ để mỗi xí nghiệp phải làm là",
+      "options": [
+        "A. Xí nghiệp I làm 200 dụng cụ, xí nghiệp II làm 160 dụng cụ.",
+        "B. Xí nghiệp I làm 160 dụng cụ, xí nghiệp II làm 200 dụng cụ.",
+        "C. Xí nghiệp I làm 180 dụng cụ, xí nghiệp II làm 180 dụng cụ.",
+        "D. Xí nghiệp I làm 150 dụng cụ, xí nghiệp II làm 110 dụng cụ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Gọi số dụng cụ cần làm của xí nghiệp 1 và xí nghiệp 2 lần lượt là x, y (x, y ∈ℕ* x, y < 360, dụng cụ). Hai xí nghiệp phải làm tổng cộng 360 dụng cụ nên ta có x + y = 360 (1) Số dụng cụ xí nghiệp 1 và xí nghiệp 2 làm được khi vượt mức lần lượt là 112%x và 110%y (dụng cụ) nên ta có: 112%x + 110%y = 400 hay 1,12x + 1,1y = 400 (2) Từ (1) và (2) ta có hệ phương trình \\(\\left\\{ \\begin{array}{l}x + y = 360\\\\1,12x + 1,1y = 400\\end{array} \\right.\\) Thay x = 360 – y vào phương trình (2) ta được 1,12(360 – y) + 1,1y = 400 hay 0,02y = 3,2 suy ra y = 160 (thỏa mãn). Thay y = 160 vào (1) suy ra x = 200 (thỏa mãn). Vậy xí nghiệp I phải làm 200 dụng cụ, xí nghiệp II làm 160 dụng cụ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trong tuần đầu hai tổ sản xuất được 1500 bộ quần áo. Sang tuần thứ hai, tổ A vượt mức 25%, tổ B vượt mức 18% nên trong tuần này, cả hai tổ sản xuất được 1617 bộ. Hỏi trong tuần đầu, mỗi tổ sản xuất được bao nhiêu bộ?",
+      "options": [
+        "A. Tổ A sản xuất được 900 bộ, tổ B sản xuất được 600 bộ.",
+        "B. Tổ A sản xuất được 600 bộ, tổ B sản xuất được 900 bộ.",
+        "C. Tổ A sản xuất được 800 bộ, tổ B sản xuất được 700 bộ.",
+        "D. Tổ A sản xuất được 700 bộ, tổ B sản xuất được 800 bộ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Gọi x, y lần lượt là số bộ quần áo mỗi tổ sản xuất được trong tuần đầu (0 < x, y < 1500; x, y ∈ ℕ*) Vì tuần đầu hai tổ sản xuất được 1500 bộ quần áo nên ta có x + y = 1500 (1) Vì tuấn thứ hai, tổ A vượt mức 25% kế hoạch, tổ B giảm 18%. Do đó, trong tuần này cả 2 tổ sản xuất được 1617 bộ quần áo nên ta có phương trình: 1,25x + 0,82y = 1617 (2) Từ (1) và (2) ta có hệ phương trình \\(\\left\\{ \\begin{array}{l}x + y = 1500\\\\1,25x + 0,82y = 1617\\end{array} \\right.\\). Thay x = 1500 – y vào (2) ta được 1,25(1500 – y) + 0,82y = 1617 suy ra y = 600 (thỏa mãn). Với y = 600 thay vào (1) ta được x = 900 (thỏa mãn) Vậy trong tuần đầu tổ A sản xuất được 900 bộ, tổ B sản xuất được 600 bộ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Nhằm đáp ứng nhu cầu sử dụng khẩu trang chống dịch COVID – 19 theo kế hoạch, 1 tổ sản xuất của một nhà máy dự định làm 720 000 khẩu trang. Do áp dụng kĩ thuật mới nên tổ I đã sản xuất vượt kế hoạch 15% và tổ II vượt 12%, vì vậy họ đã làm được 819 000 khẩu trang. Hỏi theo kế hoạch số khẩu trang mỗi tổ sản xuất là bao nhiêu?",
+      "options": [
+        "A. Tổ I sản xuất được 430 000 chiếc, tổ II sản xuất được 290 000 chiếc.",
+        "B. Tổ I sản xuất được 290 000 chiếc, tổ II sản xuất được 430 000 chiếc.",
+        "C. Tổ I sản xuất được 300 000 chiếc, tổ II sản xuất được 420 000 chiếc.",
+        "D. Tổ I sản xuất được 420 000 chiếc, tổ II sản xuất được 300 000 chiếc."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Gọi x, y (chiếc) lần lượt là số khẩu trang theo kế hoạch tổ I và tổ II sản xuất được. Điều kiện: x, y ∈ ℕ, 0 < x, y < 720 000). Theo kế hoạch, hai tổ sản xuất được 720 000 nên ta có phương trình: X + y = 720 000 (1). Vì áp dụng kĩ thuật mới nên tổ I đã sản xuất vượt kế hoạch 15% nên thực tế tổ I sản xuất được 1,15x (chiếc) Vì áp dụng kĩ thuật mới nên tổ II đã sản xuất vượt kế hoạch 12% nên thực tế tổ II sản xuất được 1,12y (chiếc). Từ (1) và (2) ta có hệ phương trình \\(\\left\\{ \\begin{array}{l}x + y = 720000\\\\1,15x + 1,12y = 819000\\end{array} \\right.\\). Thay x = 720 000 – y vào phương trình (2) ta được 1,15(720 000 – y) + 1,12y = 819 000 suy ra y = 300 000 (thỏa mãn). Thay y = 300 000 vào (1) ta được x = 420 000 (thỏa mãn). Vậy theo kế hoạch, tổ I sản xuất được 420 000 chiếc, tổ II sản xuất được 300 000 chiếc."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Trong một kì thi, hai trường A, B có tổng cộng 350 học sinh dự thi. Kết quả là hai trường có tổng cộng 338 học sinh trúng tuyển. Tính ra thì trường A có 97% và trường B có 96% học sinh dự thi trúng tuyển. Hỏi mỗi trường có bao nhiêu thí sinh dự thi?",
+      "options": [
+        "A. Trường A có 200 thí sinh, trường B có 150 thí sinh dự thi.",
+        "B. Trường A có 150 thí sinh, trường B có 200 thí sinh dự thi.",
+        "C. Trường A có 180 thí sinh, trường B có 170 thí sinh dự thi.",
+        "D. Trường A có 120 thí sinh, trường B có 230 thí sinh dự thi."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Gọi x, y lần lượt là số học sinh dự thi của hai trường A, B (x, y ∈ ℕ, 0 < x, y < 350). Hai trường có tổng cộng 350 học sinh nên ta có phương trình x + y = 350 (1). Vì trường A có 97% và trường B có 96% học sinh trúng tuyển và cả hai trường có 338 học sinh trúng tuyển nên ta có phương trình 97%x + 96%y = 338 hay 0,97x + 0,96y = 338 (2) Từ (1) và (2) ta có hệ phương trình \\(\\left\\{ \\begin{array}{l}x + y = 350\\\\0,97x + 0,96y = 338\\end{array} \\right.\\) Thay x = 350 – y vào (2) được 0,97(350 – y) + 0,96y = 338 suy ra y = 150 (thỏa mãn) Với y = 150 thì x = 200 (thỏa mãn). Vậy trường A có 200 thí sinh, trường B có 150 thí sinh dự thi."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Có hai loại quặng sắt, quặng A chứa 60% sắt, quặng B chứa 50% sắt. Người ta trộn một lượng quặng loại A với một lượng quặng loại B thì được hỗn hợp chứa \\(\\frac{8}{{15}}\\) sắt. Nếu lấy tăng hơn lúc đầu là 10 tấn quặng loại A và lấy giảm hơn lúc đầu là 10 tấn quặng loại B thì được hỗn hợp quặng chứa \\(\\frac{{17}}{{30}}\\) sắt. Tính khối lượng quặng mỗi loại đem trộn lúc đầu.",
+      "options": [
+        "A. Khối lượng quặng A là 10 tấn, quặng B là 20 tấn.",
+        "B. Khối lượng quặng A là 20 tấn, quặng B là 10 tấn.",
+        "C. Khối lượng quặng A là 15 tấn, quặng B là 15 tấn.",
+        "D. Khối lượng quặng A là 12 tấn, quặng B là 18 tấn."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Gọi x, y lần lượt là khối lượng quặng A và B (x > 0, y > 10, tấn). Theo đề, trộn quặng A với quặng B thì được hỗn hợp chứa \\(\\frac{8}{{15}}\\) sắt nên ta có phương trình 0,6x + 0,5y = \\(\\frac{8}{{15}}\\).(x + y) (1) Khi tăng quặng A lên 10 tấn và giảm quặng B đi 10 tấn thì thu được hỗn hợp \\(\\frac{{17}}{{30}}\\) sắt nên ta có phương trình 0,6.(x + 10) + 0,5.(y – 10) = \\(\\frac{{17}}{{30}}\\) (x + 10 + y – 10) Hay 0,6x + 0,5y – 1= \\(\\frac{{17}}{{30}}\\).(x + y) (2) Từ (1) và (2) ta có hệ phương trình \\(\\left\\{ \\begin{array}{l}0,6x + 0,5y = \\frac{8}{{15}}\\left( {x + y} \\right)\\\\0,6x + 0,5y - 1 = \\frac{{17}}{{30}}\\left( {x + y} \\right)\\end{array} \\right.\\) hay \\(\\left\\{ \\begin{array}{l}\\frac{x}{{15}} - \\frac{y}{{30}} = 0{\\rm{ }}(3)\\\\\\frac{x}{{30}} - \\frac{y}{{15}} = - 1{\\rm{ }}(4)\\end{array} \\right.\\). Nhân cả hai vế của \\(\\frac{x}{{30}} - \\frac{y}{{15}} = - 1\\) ta được : \\(\\frac{x}{{60}} - \\frac{y}{{30}} = - \\frac{1}{2}\\) (5) Thực hiện trừ theo vế hai phương trình (3) và (5) được \\(\\frac{x}{{20}} = \\frac{1}{2}\\) nên x = 10 (thỏa mãn) Với x = 10 thì y = 20 (thỏa mãn). Vậy khối lượng quặng A là 10 tấn, quặng B là 20 tấn."
+    }
+  ]
+}

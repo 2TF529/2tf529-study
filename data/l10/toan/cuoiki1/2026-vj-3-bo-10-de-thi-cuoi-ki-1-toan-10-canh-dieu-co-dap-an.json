@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-3-bo-10-de-thi-cuoi-ki-1-toan-10-canh-dieu-co-dap-an",
+  "sourceId": "vietjack:3-bo-10-de-thi-cuoi-ki-1-toan-10-canh-di",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "cuoiki1",
+  "year": 2026,
+  "title": "3.Bộ 10 đề thi cuối kì 1 Toán 10 Cánh diều có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: I. Trắc nghiệm (7 điểm) Trong các câu sau, câu nào không phải là mệnh đề?",
+      "options": [
+        "A. Bạn ăn tối chưa?;",
+        "B. Hình vuông có hai đường chéo vuông góc với nhau;",
+        "C. 7 không phải là số chính phương;",
+        "D. Bắc Kinh là thủ đô của Thái Lan."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A + Câu “Bạn ăn tối chưa?” không phải là mệnh đề vì đây là câu nghi vấn, không xác định được tính đúng sai. + Các câu còn lại là mệnh đề vì các câu này là những khẳng định có tính đúng hoặc sai."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Phủ định của mệnh đề “Bất phương trình \\(2{x^2} + 3 > 1\\) vô nghiệm” là mệnh đề",
+      "options": [
+        "A. “Bất phương trình \\(2{x^2} + 3 > 1\\) không có nghiệm”;",
+        "B. “Bất phương trình \\(2{x^2} + 3 > 1\\) có nghiệm”;",
+        "C. “Bất phương trình \\(2{x^2} + 3 < 1\\) vô nghiệm”;",
+        "D. “Bất phương trình \\(2{x^2} + 3 < 1\\) có nghiệm”."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Phủ định của mệnh đề “Bất phương trình \\(2{x^2} + 3 > 1\\) vô nghiệm” là mệnh đề “Bất phương trình \\(2{x^2} + 3 > 1\\) có nghiệm”."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cách viết nào sau đây là đúng?",
+      "options": [
+        "A. \\(a \\subset \\left[ {a;\\,b} \\right]\\) ;",
+        "B. \\(\\left\\{ a \\right\\} \\subset \\left[ {a;\\,b} \\right]\\) ;",
+        "C. \\(\\left\\{ a \\right\\} \\in \\left[ {a;\\,b} \\right]\\) ;",
+        "D. \\(a \\in \\left( {a;\\,b} \\right]\\) ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Kí hiệu “ \\( \\subset \\) ” dùng để chỉ mối quan hệ giữa các tập hợp với nhau, kí hiệu “ \\( \\in \\) ” dùng để chỉ mối quan hệ giữa phần tử với tập hợp. Ta có: \\(\\left[ {a;\\,b} \\right] = \\left\\{ {x \\in \\mathbb{R}|a \\le x \\le b} \\right\\}\\) , \\(\\left( {a;\\,b} \\right] = \\left\\{ {x \\in \\mathbb{R}|a < x \\le b} \\right\\}\\) , \\(\\left\\{ a \\right\\}\\) là tập hợp gồm 1 phần tử là \\(a\\) . Từ đó suy ra: + Cách viết \\(a \\subset \\left[ {a;\\,b} \\right]\\) là sai, do \\(a\\) là một phần tử; + Cách viết \\(\\left\\{ a \\right\\} \\subset \\left[ {a;\\,b} \\right]\\) là đúng, vì mọi phần tử của tập hợp \\(\\left\\{ a \\right\\}\\) đều là phần tử của tập hợp \\(\\left[ {a;\\,b} \\right]\\) nên tập \\(\\left\\{ a \\right\\}\\) là tập con của tập \\(\\left[ {a;\\,b} \\right]\\) . + Cách viết \\(\\left\\{ a \\right\\} \\in \\left[ {a;\\,b} \\right]\\) là sai, do \\(\\left\\{ a \\right\\}\\) và \\(\\left[ {a;\\,b} \\right]\\) là hai tập hợp. + Cách viết \\(a \\in \\left( {a;\\,b} \\right]\\) là sai do tập hợp \\(\\left( {a;\\,b} \\right]\\) không chứa phần tử \\(a\\) ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hai tập hợp: \\(A = \\left\\{ {0;\\,1;\\,2;\\,3;\\,4} \\right\\},B = \\left\\{ {1;\\,3;\\,4;\\,6;\\,8} \\right\\}\\) . Trong các mệnh đề sau, mệnh đề nào đúng?",
+      "options": [
+        "A. \\(A \\cap B = B\\) ;",
+        "B. \\(A \\cup B = A\\) ;",
+        "C. \\(A\\backslash B = \\left\\{ {0;\\,2} \\right\\}\\) ;",
+        "D. \\(B\\backslash A = \\left\\{ {0;\\,4} \\right\\}\\) ."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có: A ∩ B = x | x ∈ A và x ∈ B = 1 ; 3 ; 4 ≠ B nên đáp án A sai. A ∪ B = x | x ∈ A hoac x ∈ B = 0 ; 1 ; 2 ; 3 ; 4 ; 6 ; 8 ≠ A nên đáp án B sai. \\(A\\backslash B = \\left\\{ {x|x \\in A\\,{\\rm{v\\`a }}\\,x \\notin B} \\right\\}\\) \\( = \\left\\{ {0;\\,2} \\right\\}\\) nên đáp án C đúng. \\(B\\backslash A = \\left\\{ {x|x \\in B\\,{\\rm{v\\`a }}\\,x \\notin A} \\right\\} = \\left\\{ {6;\\,8} \\right\\}\\) nên đáp án D sai."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Bất phương trình nào sau đây là bất phương trình bậc nhất hai ẩn?",
+      "options": [
+        "A. \\(2x - 4y \\ge 7\\) ;",
+        "B. \\(5{x^3} - 4{y^3} < 2\\) ;",
+        "C. \\({x^2} - 2y < 0\\) ;",
+        "D. \\({x^2} + 3 > 0\\) ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Xét bất phương trình \\(2x - 4y \\ge 7\\) . Bất phương trình có hai ẩn \\(x,\\,\\,y\\) có lũy thừa bậc cao nhất là bậc một và các hệ số đều khác 0. Do đó, đây là một bất phương trình bậc nhất hai ẩn."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Phần không tô đậm trong hình vẽ biểu diễn tập nghiệm của bất phương trình nào trong các bất phương trình sau?",
+      "options": [
+        "A. \\(x - 2y < 3\\) ;",
+        "B. \\(x - 2y > 3\\) ;",
+        "C. \\(2x - y > 3\\) ;",
+        "D. \\(2x - y < 3\\) ."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Từ các đáp án đã cho, ta giả sử đường thẳng \\(d\\) có dạng \\[ax + by = 3\\] . Quan sát hình vẽ ta thấy đường thẳng \\(d\\) đi qua hai điểm \\(\\left( {\\frac{3}{2};\\,0} \\right)\\) và \\(\\left( {0;\\, - 3} \\right)\\) . Do đó, ta có hệ phương trình sau \\(\\left\\{ \\begin{array}{l}a \\cdot \\frac{3}{2} + b \\cdot 0 = 3\\\\a \\cdot 0 + b \\cdot \\left( { - 3} \\right) = 3\\end{array} \\right.\\) . Từ đó suy ra \\(a = 2,\\,b = - 1\\) nên đường thẳng \\(d\\) có dạng \\(2x - y = 3\\) . Nhận thấy điểm \\(O\\left( {0;\\,0} \\right)\\) không thuộc đường thẳng \\(d\\) và phần không tô đậm trong hình vẽ chứa điểm \\(O\\) . Lại có: \\(2 \\cdot 0 - 0 = 0 < 3\\) . Vậy phần không tô đậm trong hình vẽ biểu diễn tập nghiệm của bất phương trình \\(2x - y < 3\\) ."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Miền nghiệm của hệ bất phương trình \\(\\left\\{ \\begin{array}{l}2x + 3y - 15 < 0\\\\x + y > 0\\end{array} \\right.\\) chứa điểm nào trong các điểm sau đây?",
+      "options": [
+        "A. \\[\\left( {1;\\,\\,15} \\right)\\] ;",
+        "B. \\[\\left( {1;\\,\\,2} \\right)\\] ;",
+        "C. \\[\\left( {9;\\,\\,11} \\right)\\] ;",
+        "D. \\[\\left( {7;\\,\\,8} \\right)\\] ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Xét điểm \\[\\left( {1;\\,\\,2} \\right)\\] và hệ \\(\\left\\{ \\begin{array}{l}2x + 3y - 15 < 0\\\\x + y > 0\\end{array} \\right.\\) ta có: \\(2 \\cdot 1 + 3 \\cdot 2 - 15 = - 7 < 0,\\,\\,1 + 2 = 3 > 0\\) . Do đó, điểm \\[\\left( {1;\\,\\,2} \\right)\\] nằm trong miền nghiệm của hệ bất phương trình \\(\\left\\{ \\begin{array}{l}2x + 3y - 15 < 0\\\\x + y > 0\\end{array} \\right.\\) ."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Một xưởng sản xuất hai loại sản phẩm, mỗi kg sản phẩm loại một cần \\(2{\\rm{\\;kg}}\\) nguyên liệu và 30 giờ, đem lại mức lợi nhuận 40 000 đồng. Mỗi sản phẩm loại hai cần \\(4{\\rm{\\;kg}}\\) nguyên liệu và 15 giờ đem lại mức lợi nhuận là 30 000 đồng. Xưởng có \\(200{\\rm{\\;kg}}\\) nguyên liệu và 1 200 giờ làm việc. Gọi \\(x\\left( {x \\ge 0} \\right)\\) là số kg sản phẩm loại một cần sản xuất, \\(y\\left( {y \\ge 0} \\right)\\) là số kg sản phẩm loại hai cần sản xuất. Một hệ điều kiện giữa \\(x\\) và \\(y\\) thỏa mãn yêu cầu bài toán là",
+      "options": [
+        "A. \\(\\left\\{ {\\begin{array}{*{20}{l}}{x + 2y - 100 \\le 0}\\\\{2x + y - 80 \\le 0}\\\\{x \\ge 0}\\\\{y \\ge 0}\\end{array}} \\right.\\) ;",
+        "B. \\(\\left\\{ {\\begin{array}{*{20}{l}}{x + 2y - 100 < 0}\\\\{2x + y - 80 < 0}\\\\{x \\ge 0}\\\\{y \\ge 0}\\end{array}} \\right.\\) ;",
+        "C. \\(\\left\\{ {\\begin{array}{*{20}{l}}{x + 2y - 100 \\ge 0}\\\\{2x + y - 80 \\ge 0}\\\\{x \\ge 0}\\\\{y \\ge 0}\\end{array}} \\right.\\) ;",
+        "D. \\(\\left\\{ {\\begin{array}{*{20}{l}}{x + 2y - 100 > 0}\\\\{2x + y - 80 > 0}\\\\{x \\ge 0}\\\\{y \\ge 0}\\end{array}} \\right.\\) ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có \\(x\\left( {x \\ge 0} \\right)\\) là số kg sản phẩm loại một cần sản xuất, \\(y\\left( {y \\ge 0} \\right)\\) là số kg sản phẩm loại hai cần sản xuất. Xưởng có 200 kg nguyên liệu và mỗi kg sản phẩm loại một cần 2 kg nguyên liệu, mỗi kg sản phẩm loại hai cần 4 kg nguyên liệu nên ta có bất phương trình \\(2x + 4y \\le 200\\) , bất phương trình này tương đương với \\(x + 2y - 100 \\le 0\\) . Xưởng có 1 200 giờ làm việc và mỗi kg sản phẩm loại một cần 30 giờ để sản xuất, mỗi kg sản phẩm loại hai cần 15 giờ để sản xuất nên ta có bất phương trình \\(30x + 15y \\le 1\\,\\,200,\\) bất phương trình này tương đương với \\(2x + y - 80 \\le 0\\) . Vậy ta có một hệ bất phương trình điều kiện giữa \\(x\\) và \\(y\\) thỏa mãn yêu cầu bài toán là \\(\\left\\{ {\\begin{array}{*{20}{l}}{x + 2y - 100 \\le 0}\\\\{2x + y - 80 \\le 0}\\\\{x \\ge 0}\\\\{y \\ge 0}\\end{array}} \\right.\\) ."
+    }
+  ]
+}

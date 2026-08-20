@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-12-chan-troi-sang-tao-bai-f9-co-dap-",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-12-chan-tro",
+  "grade": "l12",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 12 Chân trời sáng tạo Bài F9 có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Khái niệm \"vùng chọn\" trong CSS là gì?",
+      "options": [
+        "A. Một mẫu để chỉ định phần tử HTML cần định kiểu.",
+        "B. Một tập hợp các thuộc tính CSS.",
+        "C. Một tập tin riêng biệt chứa mã CSS.",
+        "D. Một phương pháp kiểm tra tính hợp lệ của CSS."
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Vùng chọn (selector) trong CSS là một mẫu để chỉ định phần tử HTML cụ thể sẽ được áp dụng các quy tắc định kiểu."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Để định dạng cho các phần tử cùng loại trong CSS, bạn sử dụng loại vùng chọn nào?",
+      "options": [
+        "A. Tên lớp",
+        "B. Tên thẻ",
+        "C. Giá trị id",
+        "D. Mối quan hệ phần tử"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Vùng chọn tên thẻ được sử dụng để định dạng đồng loạt cho tất cả các phần tử HTML có cùng loại."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Để định dạng cho các phần tử có chung thuộc tính class, bạn sử dụng ký hiệu gì?",
+      "options": [
+        "A. . (dấu chấm)",
+        "B. # (dấu thăng)",
+        "C. @ (dấu a còng)",
+        "D. & (dấu và)"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Trong CSS, dấu chấm (.) được sử dụng trước tên lớp để chỉ định tất cả các phần tử có thuộc tính class đó."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Trong cùng trang web, giá trị thuộc tính id của phần tử phải như thế nào?",
+      "options": [
+        "A. Phải trùng nhau",
+        "B. Phải khác nhau",
+        "C. Có thể trùng hoặc khác nhau",
+        "D. Không quan trọng"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Giá trị thuộc tính id của mỗi phần tử HTML phải duy nhất trong cùng một trang web, không được trùng nhau."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Để định kiểu cho một phần tử xác định bằng thuộc tính id, bạn sử dụng ký hiệu gì trong CSS?",
+      "options": [
+        "A. . (dấu chấm)",
+        "B. # (dấu thăng)",
+        "C. * (dấu sao)",
+        "D. & (dấu và)"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Ký hiệu dấu thăng (#) được sử dụng trong CSS để chỉ định giá trị id của một phần tử cụ thể."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Vùng chọn tên lớp trong CSS có thể được áp dụng cho các phần tử HTML nào?",
+      "options": [
+        "A. Chỉ các phần tử cùng loại",
+        "B. Chỉ các phần tử khác loại",
+        "C. Các phần tử cùng hoặc khác loại",
+        "D. Chỉ các phần tử định dạng bởi id"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Tên lớp có thể được áp dụng cho nhiều phần tử HTML khác nhau, cho dù chúng là cùng loại hay khác loại."
+    }
+  ]
+}

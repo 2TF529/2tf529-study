@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-de-thi-giua-ki-2-tin-hoc-10-nam-2025-2026-thpt-xuyen-moc-tp-hcm-c",
+  "sourceId": "vietjack:de-thi-giua-ki-2-tin-hoc-10-nam-2025-202",
+  "grade": "l10",
+  "subjectSlug": "tin",
+  "examType": "giuaki2",
+  "year": 2026,
+  "title": "Đề thi giữa kì 2 Tin học 10 năm 2025-2026 THPT Xuyên Mộc (TP.HCM) có đáp án - Mã đề 0001",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Phần I. Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 28. Mỗi câu hỏi chỉ chọn một phương án đúng nhất. Trong Python, một chương trình con được thực hiện khi nào?",
+      "options": [
+        "A. Khi nhập dữ liệu",
+        "B. Khi được định nghĩa",
+        "C. Khi chương trình bắt đầu",
+        "D. Khi được gọi trong chương trình"
+      ],
+      "answer": "D",
+      "note": "Đáp án D"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho biết giá trị của biến x sau khi thực hiện đoạn chương trình sau: x = 6 y = 5 if x % y==0: x= x+10",
+      "options": [
+        "A. 16",
+        "B. 15",
+        "C. 5",
+        "D. 6"
+      ],
+      "answer": "D",
+      "note": "Đáp án D"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Hàm range(m, n) trong câu lệnh lặp for dùng để khởi tạo dãy số nguyên nào sau đây?",
+      "options": [
+        "A. m đến n- 1",
+        "B. n đến m- 1",
+        "C. n đến m",
+        "D. m đến n"
+      ],
+      "answer": "A",
+      "note": "Đáp án A"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Lệnh return trong một hàm có tác dụng gì?",
+      "options": [
+        "A. In kết quả của hàm ra màn hình",
+        "B. Nhập dữ liệu từ bàn phím cho hàm",
+        "C. Kết thúc việc thực hiện hàm và trả về giá trị cho nơi gọi hàm",
+        "D. Lặp lại các câu lệnh trong hàm"
+      ],
+      "answer": "C",
+      "note": "Đáp án C"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho biết kết quả của đoạn chương trình sau:",
+      "options": [
+        "A. 6",
+        "B. 8",
+        "C. Chương trình bị lỗi",
+        "D. 4"
+      ],
+      "answer": "C",
+      "note": "Đáp án C"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho đoạn chương trình sau: Lỗi sai trong đoạn chương trình trên là:",
+      "options": [
+        "A. Lệnh else không viết lùi vào trong so với if.",
+        "B. Câu lệnh b = b – a không xuống hàng và không viết thẳng hàng với câu lệnh ở dòng 3.",
+        "C. Câu lệnh ở dòng 3 không viết thẳng hàng với câu lệnh ở dòng 4.",
+        "D. Câu lệnh ở dòng 4 không viết thẳng hàng với câu lệnh ở dòng 3."
+      ],
+      "answer": "D",
+      "note": "Đáp án D"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Để có thể sử dụng hàm sqrt(x) trong thư viện math ta phải có câu lệnh nào sau đây?",
+      "options": [
+        "A. import sqrt",
+        "B. import sqrt from math",
+        "C. from math import sqrt",
+        "D. from sqrt import math"
+      ],
+      "answer": "C",
+      "note": "Đáp án C"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho đoạn chương trình sau: for i in range(6): print(i) Trong đoạn chương trình trên, vòng lặp được thực hiện bao nhiêu lần?",
+      "options": [
+        "A. 5",
+        "B. 6",
+        "C. 4",
+        "D. 3"
+      ],
+      "answer": "B",
+      "note": "Đáp án B"
+    }
+  ]
+}

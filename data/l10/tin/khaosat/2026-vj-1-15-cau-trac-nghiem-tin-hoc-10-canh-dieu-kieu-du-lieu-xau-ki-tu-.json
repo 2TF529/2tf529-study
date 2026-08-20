@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-10-canh-dieu-kieu-du-lieu-xau-ki-tu-",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-10-canh-die",
+  "grade": "l10",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 10 Cánh diều Kiểu dữ liệu xâu kí tự - Xử lí xâu kí tự có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Xâu kí tự được đặt trong cặp dấu:",
+      "options": [
+        "A. Nháy đơn (‘’) hoặc nháy kép (“”)",
+        "B. Ngoặc đơn ()",
+        "C. Ngoặc vuông []",
+        "D. Ngoặc nhọn {}"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Xâu kí tự được đặt trong cặp dấu: Nháy đơn (‘’) hoặc nháy kép (“”)"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Hàm len() cho biết:",
+      "options": [
+        "A. Độ dài (hay số kí tự) của xâu.",
+        "B. Chuyển xâu ban đầu thành kí tự in hoa.",
+        "C. Vị trí của kí tự đầu tiên trong xâu.",
+        "D. Vị trí của kí tự bất kì trong xâu."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Hàm len() cho biết: Độ dài (hay số kí tự) của xâu."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho xâu st=’abc’. Hàm len(st) có giá trị là:",
+      "options": [
+        "A. 1",
+        "B. 2",
+        "C. 3",
+        "D. 4"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Hàm len(st) cho biết số kí tự trong xâu st, nên với st=’abc’ thì len(st)=3"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho đoạn chương trình sau: s1=’a’ s2=’b’ print(s1+s2) Kết quả trên màn hình là:",
+      "options": [
+        "A. ‘a’",
+        "B. ‘b’",
+        "C. ‘ab’",
+        "D. ‘ba’"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C s1+s2 là phép ghép xâu (cộng xâu)"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Hàm y.cout(x) cho biết:",
+      "options": [
+        "A. Vị trí xuất hiện đầu tiên của x trong y.",
+        "B. Vị trí xuất hiện cuối cùng của x trong y.",
+        "C. Cho biết số kí tự của xâu x+y",
+        "D. Đếm số lần xuất hiện không giao nhau của x trong y."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Hàm y.cout(x): Đếm số lần xuất hiện không giao nhau của x trong y."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho đoạn chương trình sau: S1=’abcd’ S2=’a’ print(S1.cout(S2)) Trên màn hình sẽ xuất hiện giá trị là:",
+      "options": [
+        "A. 1",
+        "B. 2",
+        "C. 3",
+        "D. 4"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Hàm y.cout(x): Đếm số lần xuất hiện không giao nhau của S2 trong S1."
+    }
+  ]
+}

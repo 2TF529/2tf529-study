@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-9-ket-noi-tri-thuc-bai-11a-co-dap-an",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-9-ket-noi-t",
+  "grade": "l9",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu trắc nghiệm Tin học 9 Kết nối tri thức Bài 11a có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Hàm SUMIF được sử dụng để làm gì?",
+      "options": [
+        "A. Đếm số ô thỏa mãn điều kiện.",
+        "B. Tính tổng các giá trị trong một phạm vi thỏa mãn điều kiện.",
+        "C. Tính giá trị trung bình của các ô.",
+        "D. Hiển thị giá trị lớn nhất trong một phạm vi."
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Hàm SUMIF tính tổng các giá trị thỏa mãn điều kiện trong phạm vi xác định."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Tham số nào là tùy chọn trong công thức SUMIF?",
+      "options": [
+        "A. range.",
+        "B. criteria.",
+        "C. sum_range.",
+        "D. Cả 3 tham số đều bắt buộc."
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Tham số sum_range là tùy chọn; nếu bỏ qua, hàm sẽ tính tổng các ô trong range thỏa mãn criteria."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Công thức nào đúng để tính tổng các ô trong cột D, với điều kiện ở cột B là \"Chi tiêu\"?",
+      "options": [
+        "A. =SUMIF(B3:B10,\"Chi tiêu\",D3:D10)",
+        "B. =SUMIF(D3:D10,\"Chi tiêu\",B3:B10)",
+        "C. =SUMIF(\"Chi tiêu\",B3:B10,D3:D10)",
+        "D. =SUMIF(B3:D10,\"Chi tiêu\",D3:D10)"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Công thức SUMIF đúng phải có range là B3:B10 (nơi chứa điều kiện), criteria là \"Chi tiêu\", và sum_range là D3:D10 (vùng cần tính tổng)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Điều kiện trong hàm SUMIF có thể là gì?",
+      "options": [
+        "A. Một số.",
+        "B. Một chuỗi ký tự.",
+        "C. Một biểu thức logic.",
+        "D. Tất cả các đáp án trên."
+      ],
+      "answer": "D",
+      "note": "Đáp án: D Giải thích: Điều kiện trong hàm SUMIF có thể ở dạng số, chuỗi, hoặc biểu thức logic (như \">50\")."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Khi nào cần sử dụng địa chỉ tuyệt đối trong hàm SUMIF?",
+      "options": [
+        "A. Khi cần cố định phạm vi hoặc điều kiện để sao chép công thức.",
+        "B. Khi chỉ tính tổng một ô duy nhất.",
+        "C. Khi điều kiện là một biểu thức logic.",
+        "D. Khi sử dụng nhiều hàm SUMIF trong một công thức."
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Địa chỉ tuyệt đối giúp cố định phạm vi và điều kiện để công thức hoạt động chính xác khi sao chép."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Công thức =SUMIF($B$3:$B$10,\"A\",$D$3:$D$10) thực hiện điều gì?",
+      "options": [
+        "A. Đếm số ô trong vùng B3:B10 có giá trị là \"A\".",
+        "B. Tính tổng các giá trị trong vùng D3:D10, với điều kiện ở B3:B10 là \"A\".",
+        "C. Tính tổng các giá trị trong vùng B3:B10 thỏa mãn điều kiện \"A\".",
+        "D. Tính trung bình các giá trị ở D3:D10."
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Công thức này kiểm tra điều kiện \"A\" trong vùng B3:B10 và tính tổng các giá trị tương ứng trong vùng D3:D10."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-5-10-bai-tap-mot-so-bai-toan-ung-dung-vecto-trong-thuc-tien-co-lo",
+  "sourceId": "vietjack:5-10-bai-tap-mot-so-bai-toan-ung-dung-ve",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "5.10 bài tập Một số bài toán ứng dụng vectơ trong thực tiễn có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Theo định luật II Newton: Gia tốc của một vật có cùng hướng với lực tác dụng lên vật. Độ lớn của gia tốc tỉ lệ thuận với độ lớn của lực và tỉ lệ nghịch với khối lượng của vật:\\(\\overrightarrow F = m\\overrightarrow a \\), trong đó \\(\\overrightarrow a \\) là vectơ gia tốc (m/s 2 ), \\(\\overrightarrow F \\) là vectơ lực (N) tác dụng lên vật, m (kg) là khối lượng của vật. Muốn truyền cho quả bóng có khối lượng 0,5 kg một gia tốc 20 m/s 2 thì cần một lực đá có độ lớn là bao nhiêu?",
+      "options": [
+        "A. 100 N;",
+        "B. 20 N;",
+        "C. 25 N;",
+        "D. 10 N."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải: Đáp án đúng là: D Ta có \\(\\overrightarrow F = m\\overrightarrow a \\Rightarrow \\left| {\\overrightarrow F } \\right| = m\\left| {\\overrightarrow a } \\right| = 0,5.20 = 10N\\) . Vậy muốn truyền cho quả bóng có khối lượng 0,5 kg một gia tốc 20 m/s 2 thì cần một lực đá có độ lớn là 10 N."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Một em nhỏ cân nặng m = 25 kg trượt trên cầu trượt dài 3,5 m (như trong hình dưới đây). Biết rằng, cầu trượt có góc nghiêng s o với phương nằm ngang là 30°. Trong các khẳng định sau, có bao nhiêu khẳng định đúng? 1) Với gia tốc rơi tự do \\(\\overrightarrow g \\) có độ lớn là g = 9,8 (m/s 2 ) thì độ lớn của trọng lực \\(\\overrightarrow P = m\\overrightarrow g \\) tác dụng lên em nhỏ có độ lớn là 245 N; 2) Góc giữa độ dịch chuyển \\(\\overrightarrow d \\) so với trọng lực \\(\\overrightarrow P \\) là 30°. 3) Công A(J) sinh bởi một lực \\(\\overrightarrow F \\) có độ dịch chuyển \\(\\overrightarrow d \\) được tính bởi công thức \\(A = \\left| {\\overrightarrow F } \\right|.\\left| {\\overrightarrow d } \\right|.\\cos \\left( {\\overrightarrow F ,\\overrightarrow d } \\right)\\) thì công sinh bởi trọng lực \\(\\overrightarrow P \\) khi em nhỏ trượt hết chiều dài cầu trượt là 428,75 J.",
+      "options": [
+        "A. 2;",
+        "B. 1;",
+        "C. 3;",
+        "D. 0."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A +) Với gia tốc rơi tự do \\(\\overrightarrow g \\) có độ lớn là g = 9,8 (m/s2) thì độ lớn của trọng lực \\(\\overrightarrow P = m\\overrightarrow g \\) tác dụng lên em nhỏ có độ lớn là \\(\\left| {\\overrightarrow P } \\right| = m\\left| {\\overrightarrow g } \\right| = 25.9,8 = 245\\left( N \\right)\\). +) Em nhỏ trượt từ điểm A tới điểm B nên khi đó góc giữa độ dịch chuyển \\(\\overrightarrow d \\) so với trọng lực \\(\\overrightarrow P \\) là \\(\\left( {\\overrightarrow d ,\\overrightarrow P } \\right) = \\left( {\\overrightarrow {AB} ,\\overrightarrow P } \\right) = 60^\\circ \\). +) Ta có độ lớn của trọng lực \\(\\overrightarrow P = m\\overrightarrow g \\) tác dụng lên em nhỏ có độ lớn là \\(\\left| {\\overrightarrow P } \\right| = m\\left| {\\overrightarrow g } \\right| = 25.9,8 = 245N\\) nên công sinh bởi trọng lực \\(\\overrightarrow P \\) khi em nhỏ trượt hết chiều dài cầu trượt là \\(A = \\left| {\\overrightarrow P } \\right|.\\left| {\\overrightarrow d } \\right|.\\cos \\left( {\\overrightarrow P ,\\overrightarrow d } \\right) = 245.3,5.\\cos 60^\\circ = 428,75\\left( J \\right)\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Một chiếc đ èn tròn được treo song song với mặt phẳng nằm ngang bởi ba sợi dây không dãn xuất phát từ điểm O trên trần nhà và lần lượt buộc vào ba điểm A, B, C trên đèn tròn sao cho các lực căng \\(\\overrightarrow {{F_1}} ,\\overrightarrow {{F_2}} ,\\overrightarrow {{F_3}} \\) lần lượt trên mối dây OA, OB, OC đôi một vuông góc với nhau và \\[\\left| {\\overrightarrow {{F_1}} } \\right| = \\left| {\\overrightarrow {{F_2}} } \\right| = \\left| {\\overrightarrow {{F_3}} } \\right| = 15\\left( N \\right)\\] . Tính trọng lượng của chiếc đèn tròn đó.",
+      "options": [
+        "A. \\(14\\sqrt 3 \\;N\\) ;",
+        "B. \\(15\\sqrt 3 \\;N\\) ;",
+        "C. \\(17\\sqrt 3 \\;N\\) ;",
+        "D. \\(16\\sqrt 3 \\;N\\) ."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải: Đáp án đúng là: B Gọi A 1 ,B 1 , C 1 lần lượt là các điểm sao cho \\(\\overrightarrow {O{A_1}} = \\overrightarrow {{F_1}} ;\\overrightarrow {O{B_1}} = \\overrightarrow {{F_2}} ;\\overrightarrow {O{C_1}} = \\overrightarrow {{F_3}} \\) . Lấy các điểm D 1 , A' 1 ,B' 1 ,D' 1 sao cho OA 1 D 1 B 1 .C 1 A' 1 D' 1 B' 1 là hình hộp (như hình vẽ). Khi đó, áp dụng quy tắc hình hộp ta có \\(\\overrightarrow {O{A_1}} + \\overrightarrow {O{B_1}} + \\overrightarrow {O{C_1}} = \\overrightarrow {O{{D'}_1}} \\) . Mặt kh ác , do các lực căng \\(\\overrightarrow {{F_1}} ,\\overrightarrow {{F_2}} ,\\overrightarrow {{F_3}} \\) đôi một vuông góc và \\[\\left| {\\overrightarrow {{F_1}} } \\right| = \\left| {\\overrightarrow {{F_2}} } \\right| = \\left| {\\overrightarrow {{F_3}} } \\right| = 15\\left( N \\right)\\] nên hình hộp OA 1 D 1 B 1 .C 1 A' 1 D' 1 B' 1 có ba cạnh OA 1 ;OB 1 ; OC 1 đôi một vuông góc và bằng nhau. Vì thế hình hộp là hình lập phương có độ dài cạnh bằng 15. Suy ra độ dài đường chéo OD' 1 của hình lập phương đó là \\(15\\sqrt 3 \\) . Do chiếc đèn ở vị trí cân bằng nên \\(\\overrightarrow {{F_1}} + \\overrightarrow {{F_2}} + \\overrightarrow {{F_3}} = \\overrightarrow P \\) , ở đó \\(\\overrightarrow P \\) là trọng lực tác dụng lên chiếc đèn. Suy ra trọng lượng của chiếc đèn là \\(\\left| {\\overrightarrow P } \\right| = \\left| {\\overrightarrow {O{{D'}_1}} } \\right| = 15\\sqrt 3 \\;\\left( N \\right)\\) ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Một chiếc đèn chùm treo có khối lượng m = 5 kg được thiết kế với đĩa đèn được giữ bởi bốn đoạn xích SA, SB, SC, SD sao cho S.ABCD là hình chóp tứ giác đều có \\(\\widehat {ASC} = 60^\\circ \\) . Tìm độ lớn của lực căng cho mỗi sợi xích, lấy g = 10 m/s 2 .",
+      "options": [
+        "A. \\(\\frac{{15\\sqrt 3 }}{3}\\;N\\) ;",
+        "B. \\(\\frac{{20\\sqrt 3 }}{3}\\;N\\) ;",
+        "C. \\(\\frac{{25\\sqrt 3 }}{3}\\;N\\) ;",
+        "D. \\(\\frac{{30\\sqrt 3 \\;}}{3}N\\) ."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải: Đáp án đúng là: C Ta có \\(\\overrightarrow P = m\\overrightarrow g \\) nên \\(\\left| {\\overrightarrow P } \\right| = m\\left| {\\overrightarrow g } \\right| = 5.10 = 50\\) (N). Vậy độ lớn của trọng lực \\(\\overrightarrow P \\) tác động lên chiếc đèn chùm là 50 N. Gọi O là trọng tâm của chiếc đèn chùm cũng là chân đường cao hình chóp đều S.ABCD. Vẽ \\(\\overrightarrow {OP} \\) biểu diễn trọng lực tác động lên đèn chùm với \\(OP \\bot \\left( {ABCD} \\right)\\) . Khi đó lực căng mỗi sợi xích sẽ là \\(\\overrightarrow {AS} ,\\overrightarrow {BS} ,\\overrightarrow {CS} ,\\overrightarrow {DS} \\) . Chiếc đèn chùm đứng yên nên \\(\\overrightarrow {AS} + \\overrightarrow {BS} + \\overrightarrow {CS} + \\overrightarrow {DS} + \\overrightarrow {OP} = \\overrightarrow 0 \\) . Suy ra \\(\\overrightarrow {OP} = \\overrightarrow {SA} + \\overrightarrow {SC} + \\overrightarrow {SB} + \\overrightarrow {SD} = 4\\overrightarrow {SO} \\)\\( \\Rightarrow SO = \\frac{1}{4}OP = \\frac{{50}}{4} = \\frac{{25}}{2}\\) . Tam giác SAC cân tại S có \\(\\cos OSA = \\frac{{SO}}{{SA}}\\) . Suy ra lực căng của mỗi sợi dây xích là \\(SA = \\frac{{SO}}{{\\cos 30^\\circ }} = \\frac{{\\frac{{25}}{2}}}{{\\frac{{\\sqrt 3 }}{2}}} = \\frac{{25\\sqrt 3 }}{3}N\\) . Bài 5. Nếu một vật có khối lượng m (kg) thì lực hấp dẫn \\(\\overrightarrow P \\)"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Nếu một vật có khối lượng m (kg) thì lực hấp dẫn \\(\\overrightarrow P \\) của Trái Đất tác dụng lên vật được xác định theo công thức \\(\\overrightarrow P = m\\overrightarrow g \\) , trong đó \\(\\overrightarrow g \\) là gia tốc rơi tự do có độ lớn g = 9,8 m/s 2 . Tính độ lớn của lực hấp dẫn của Trái Đất tác dụng lên một quả táo có khối lượng 105 gam.",
+      "options": [
+        "A. 1,029 N;",
+        "B. 1,433 N;",
+        "C. 2,096 N;",
+        "D. 1,477 N."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A Đổi 105 g = 0,105 kg. Độ lớn của lực hấp dẫn của Trái Đất tác dụng lên quả táo là: \\(\\left| {\\overrightarrow P } \\right| = m\\left| {\\overrightarrow g } \\right| = 0,105.9,8 = 1,029N\\) ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Người ta treo một bóng đèn có khối lượng \\(m = \\sqrt 3 \\) kg bằng cách luồn sợi dây qua một cái móc của đèn và hai đầu d ây được gắn chặt trên trần nhà. Hai nửa sợi dây có chiều dài bằng nhau và hợp với nhau một góc bằng 60°. Lực căng của mỗi nửa sợi dây là bao nhiêu? (Lấy g = 10 m/s 2 ).",
+      "options": [
+        "A. 10 N;",
+        "B. 5 N;",
+        "C. 20 N;",
+        "D. \\(10\\sqrt 2 \\) N."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A Ta có \\(\\overrightarrow P = m\\overrightarrow g \\) nên \\(P = \\left| {\\overrightarrow P } \\right| = m.\\left| {\\overrightarrow g } \\right| = 10\\sqrt 3 \\left( N \\right)\\) . Bóng đèn ở vị trí cân bằng nên \\(\\overrightarrow P + \\overrightarrow {{T_1}} + \\overrightarrow {{T_2}} = \\overrightarrow 0 \\) hay \\(\\overrightarrow P = - \\overrightarrow {T'} \\) với \\(\\overrightarrow {{T_1}} + \\overrightarrow {{T_2}} = \\overrightarrow {T'} \\) . Suy ra \\(T' = P = 10\\sqrt 3 \\left( N \\right)\\) . Khi đó \\({\\left| {\\overrightarrow {T'} } \\right|^2} = {\\left| {\\overrightarrow {{T_1}} } \\right|^2} + {\\left| {\\overrightarrow {{T_2}} } \\right|^2} + 2\\left| {\\overrightarrow {{T_1}} } \\right|\\left| {\\overrightarrow {{T_2}} } \\right|.\\cos \\left( {\\overrightarrow {{T_1}} ,\\overrightarrow {{T_2}} } \\right)\\) mà \\(\\left| {\\overrightarrow {{T_1}} } \\right| = \\left| {\\overrightarrow {{T_2}} } \\right|\\) và \\(\\left( {\\overrightarrow {{T_1}} ,\\overrightarrow {{T_2}} } \\right) = 60^\\circ \\) \\( \\Rightarrow {\\left| {\\overrightarrow {T'} } \\right|^2} = 2{\\left| {\\overrightarrow {{T_1}} } \\right|^2} + 2{\\left| {\\overrightarrow {{T_1}} } \\right|^2}.\\cos 60^\\circ = 3{\\left| {\\overrightarrow {{T_1}} } \\right|^2}\\) . \\( \\Rightarrow \\left| {\\overrightarrow {{T_1}} } \\right| = \\sqrt {\\frac{1}{3}{{\\left| {\\overrightarrow {T'} } \\right|}^2}} = \\sqrt {\\frac{1}{3}.{{\\left( {10\\sqrt 3 } \\right)}^2}} = 10\\left( N \\right) = \\left| {\\overrightarrow {{T_2}} } \\right|\\) ."
+    }
+  ]
+}

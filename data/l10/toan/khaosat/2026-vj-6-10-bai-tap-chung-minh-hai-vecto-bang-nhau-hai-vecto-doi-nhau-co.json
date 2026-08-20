@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-6-10-bai-tap-chung-minh-hai-vecto-bang-nhau-hai-vecto-doi-nhau-co",
+  "sourceId": "vietjack:6-10-bai-tap-chung-minh-hai-vecto-bang-n",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "6.10 Bài tập Chứng minh hai vectơ bằng nhau, hai vectơ đối nhau (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho tam giác ABC có M, N lần lượt là trung điểm của AB và AC như hình vẽ. Vectơ nào bằng vectơ \\(\\overrightarrow {NA} \\) ?",
+      "options": [
+        "A. \\(\\overrightarrow {CN} \\) ;",
+        "B. \\(\\overrightarrow {NB} \\) ;",
+        "C. \\(\\overrightarrow {MN} \\) ;",
+        "D. \\(\\overrightarrow {NC} \\) ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A. Xét tam giác ABC có: N là trung điểm của AC, do đó: NA = CN \\( \\Rightarrow \\left| {\\overrightarrow {NA} } \\right| = \\left| {\\overrightarrow {CN} } \\right|\\) Ta có: \\(\\overrightarrow {NA} \\) và \\(\\overrightarrow {CN} \\) có cùng giá là đường thẳng AC. Nên hai vectơ \\(\\overrightarrow {NA} \\) và \\(\\overrightarrow {CN} \\) cùng phương. Mà \\(\\overrightarrow {NA} \\) và \\(\\overrightarrow {CN} \\) cùng hướng từ phải sang trái. Vậy \\(\\overrightarrow {NA} \\) = \\(\\overrightarrow {CN} \\) ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho tam giác ABC có M, N lần lượt là trung điểm của AB và AC. Vectơ nào là vectơ đối của vectơ \\(\\overrightarrow {BM} \\) ?",
+      "options": [
+        "A. \\(\\overrightarrow {CN} \\) ;",
+        "B. \\(\\overrightarrow {NB} \\) ;",
+        "C. \\(\\overrightarrow {AM} \\) ;",
+        "D. \\(\\overrightarrow {AN} \\) ."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải: Đáp án đúng là: C. Xét tam giác ABC có: M là trung điểm của AB, do đó: AM = BM \\( \\Rightarrow \\left| {\\overrightarrow {BM} } \\right| = \\left| {\\overrightarrow {AM} } \\right|\\) Ta có: hai vectơ \\(\\overrightarrow {BM} \\) và \\(\\overrightarrow {AM} \\) có cùng giá là đường thẳng AB. Mà \\(\\overrightarrow {BM} \\) có hướng từ phải sang trái và \\(\\overrightarrow {AM} \\) có hướng từ trái sang phải Do đó, chúng ngược hướng. Vậy hai vectơ \\(\\overrightarrow {BM} \\) và \\(\\overrightarrow {AM} \\) đối nhau."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho tam giác ABC có M, N, P lần lượt là trung điểm các cạnh AB, AC, BC của tam giác ABC. Vectơ nào sau đây bằng vectơ \\(\\overrightarrow {NC} \\) .",
+      "options": [
+        "A. \\(\\overrightarrow {CN} \\) ;",
+        "B. \\(\\overrightarrow {MP} \\) ;",
+        "C. \\(\\overrightarrow {AM} \\) ;",
+        "D. \\(\\overrightarrow {NA} \\) ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B. Xét tam giác ABC có: N là trung điểm của AC có: NC = \\(\\frac{1}{2}\\) AC (1) M là trung điểm của AB, P là trung điểm của BC nên MP là đường trung bình của tam giác ABC, do đó: MP = \\(\\frac{1}{2}\\) AC (2), MP // AC (3) Từ (1) và (2) ta suy ra: NC = MP hay \\(\\left| {\\overrightarrow {NC} } \\right| = \\left| {\\overrightarrow {MP} } \\right|\\) . Từ (3) ta có: hai vectơ \\(\\overrightarrow {NC} \\) và \\(\\overrightarrow {MP} \\) cùng phương, mà chúng cùng hướng đi từ trái sang phải. Vậy \\(\\overrightarrow {NC} \\) = \\(\\overrightarrow {MP} \\) ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho tam giác ABC có M, N, P lần lượt là trung điểm các cạnh AB, AC, BC của tam giác ABC. Vectơ nào sau đây là vectơ đối của \\(\\overrightarrow {PN} \\) .",
+      "options": [
+        "A. \\(\\overrightarrow {CN} \\) ;",
+        "B. \\(\\overrightarrow {MP} \\) ;",
+        "C. \\(\\overrightarrow {MN} \\) ;",
+        "D. \\(\\overrightarrow {MB} \\) ."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D. Xét tam giác ABC có: M là trung điểm của AB có: MB = \\(\\frac{1}{2}\\) AB (1) P là trung điểm của BC, N là trung điểm của AC nên PN là đường trung bình của tam giác ABC, do đó: PN = \\(\\frac{1}{2}\\) AB (2), PN // AB (3) Từ (1) và (2) ta suy ra: MB = PN hay \\(\\left| {\\overrightarrow {MB} } \\right| = \\left| {\\overrightarrow {PN} } \\right|\\) Từ (3) ta có: hai vectơ \\(\\overrightarrow {PN} \\) và \\(\\overrightarrow {MB} \\) cùng phương, mà chúng ngược hướng nhau. Vậy hai vectơ \\(\\overrightarrow {PN} \\) và \\(\\overrightarrow {MB} \\) đối nhau."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hình vuông ABCD tâm O như hình vẽ sau: Vectơ nào sau đây bằng vectơ \\(\\overrightarrow {OA} \\) ?",
+      "options": [
+        "A. \\(\\overrightarrow {CO} \\) ;",
+        "B. \\(\\overrightarrow {OD} \\) ;",
+        "C. \\(\\overrightarrow {AO} \\) ;",
+        "D. \\(\\overrightarrow {BO} \\) ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A. Xét hình vuông ABCD tâm O có: OA = CO = \\(\\frac{1}{2}\\) AC \\( \\Rightarrow \\left| {\\overrightarrow {OA} } \\right| = \\left| {\\overrightarrow {CO} } \\right|\\) (1) Mặt khác, \\(\\overrightarrow {OA} \\) và \\(\\overrightarrow {CO} \\) có cùng giá là đường thẳng AC Do đó, \\(\\overrightarrow {OA} \\) và \\(\\overrightarrow {CO} \\) cùng phương, mà chúng cùng hướng (2) Từ (1) và (2) ta kết luận: \\(\\overrightarrow {CO} \\) = \\(\\overrightarrow {OA} \\) ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho hình vuông ABCD tâm O. Khẳng định nào sau đây là đúng?",
+      "options": [
+        "A. \\(\\overrightarrow {OC} \\) = \\(\\overrightarrow {OA} \\) ;",
+        "B. \\(\\overrightarrow {OD} \\) = \\(\\overrightarrow {OA} \\) ;",
+        "C. \\(\\overrightarrow {BC} = \\overrightarrow {DA} \\) ;",
+        "D. \\(\\overrightarrow {OB} \\) = – \\(\\overrightarrow {OD} \\) ."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D. Xét hình vuông ABCD tâm O có: OB = OD = \\(\\frac{1}{2}\\) BD \\( \\Rightarrow \\left| {\\overrightarrow {OB} } \\right| = \\left| {\\overrightarrow {OD} } \\right|\\) (1) Mặt khác, hai vectơ \\(\\overrightarrow {OB} \\) và \\(\\overrightarrow {OD} \\) có cùng giá là đường thẳng BD Do đó, hai vectơ \\(\\overrightarrow {OB} \\) và \\(\\overrightarrow {OD} \\) cùng phương, mà chúng ngược hướng (2) Từ (1) và (2) ta kết luận: \\(\\overrightarrow {OB} \\) = – \\(\\overrightarrow {OD} \\) ."
+    }
+  ]
+}

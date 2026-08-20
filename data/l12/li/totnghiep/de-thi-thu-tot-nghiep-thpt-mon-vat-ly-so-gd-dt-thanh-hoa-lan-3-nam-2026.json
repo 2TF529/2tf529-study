@@ -1,0 +1,286 @@
+{
+  "id": "l12-li-totnghiep-2026-de-thi-thu-tot-nghiep-thpt-mon-vat-ly-so-gd-dt-thanh-hoa-lan-3-nam-2026",
+  "grade": "l12",
+  "subjectSlug": "li",
+  "examType": "totnghiep",
+  "year": 2026,
+  "code": "THPT_TTL_TH_2026_03",
+  "title": "Đề thi thử tốt nghiệp THPT môn Vật Lý Sở GD&ĐT Thanh Hoá lần 3 năm 2026",
+  "duration": 50,
+  "answerSource": "official",
+  "source": "https://dolthpt.vn/tot-nghiep-thpt/pdf-de-thi-thu-tot-nghiep-thpt-mon-vat-ly-so-gd-dt-thanh-hoa-lan-3-nam-2026-co-dap-an",
+  "notes": "Nội dung, đáp án và lời giải được nhập từ bản công khai của DOL THPT.",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "content": "Nhiệt lượng $Q$ cần cung cấp để làm tăng nhiệt độ của một vật có khối lượng $m$, nhiệt dung riêng $c$ từ nhiệt độ $t_1$ đến nhiệt độ $t_2$ là",
+      "chuong": "vật lí nhiệt",
+      "dang": "lý thuyết: nhiệt dung riêng",
+      "type": "single",
+      "options": [
+        "A. $Q=mc(t_2-t_1)$",
+        "B. $Q=mc(t_2+t_1)$",
+        "C. $Q=mc \\frac{t_2}{t_1}$",
+        "D. $Q=mc(t_2 \\cdot t_1)$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Khí lí tưởng biến đổi theo các trạng thái $A \\to B \\to C \\to D$ trên đồ thị $p - V$.\n- Tại trạng thái $A$: - $V_A = 2\\ \\text{lít}$\n  - $p_A = 0{,}4 \\cdot 10^5\\ \\text{Pa}$\n  - $T_A = 400\\ \\text{K}$\n- Từ hình vẽ: - $C$ có tọa độ $\\left(4\\ \\text{lít};\\ 0{,}2 \\cdot 10^5\\ \\text{Pa}\\right)$\n  - $D$ có tọa độ $\\left(3\\ \\text{lít};\\ 0{,}15 \\cdot 10^5\\ \\text{Pa}\\right)$\n- Phương án cần xét: **D. Quá trình biến đổi của lượng khí từ trạng thái **$C$** đến trạng thái **$D$** có nhiệt độ giảm dần.**\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu xét phát biểu ở phương án **D** là đúng hay sai.\n- Muốn biết nhiệt độ có giảm dần từ $C$ đến $D$ hay không, ta dùng phương trình trạng thái khí lí tưởng:\n$\\dfrac{pV}{T} = \\text{hằng số}$\n- Với cùng một lượng khí, nhiệt độ tỉ lệ với tích $pV$:\n$T \\sim pV$\n- Vì vậy, chỉ cần so sánh giá trị $pV$ ở $C$ và $D$.\n🔎 **Hướng dẫn cách làm:**\n- Với khí lí tưởng:\n$\\dfrac{p_AV_A}{T_A} = \\dfrac{p_CV_C}{T_C} = \\dfrac{p_DV_D}{T_D}$\n- Trước hết, tính nhiệt độ ở trạng thái $C$:\n$T_C = T_A \\cdot \\dfrac{p_CV_C}{p_AV_A}$\n- Thay số:\n$T_C = 400 \\cdot \\dfrac{0{,}2 \\cdot 4}{0{,}4 \\cdot 2} = 400\\ \\text{K}$\n- Tiếp theo, tính nhiệt độ ở trạng thái $D$:\n$T_D = T_A \\cdot \\dfrac{p_DV_D}{p_AV_A}$\n- Thay số:\n$T_D = 400 \\cdot \\dfrac{0{,}15 \\cdot 3}{0{,}4 \\cdot 2} = 400 \\cdot \\dfrac{0{,}45}{0{,}8} = 225\\ \\text{K}$\n- So sánh:\n$T_C = 400\\ \\text{K} > T_D = 225\\ \\text{K}$\n- Như vậy khi khí chuyển từ $C$ đến $D$, nhiệt độ *giảm*.\n- Điều này cũng phù hợp với hình vẽ: từ $C$ đến $D$ thì cả áp suất và thể tích đều giảm, nên tích $pV$ giảm, kéo theo nhiệt độ giảm.\n✅ **Đáp án: ** Đúng"
+    },
+    {
+      "id": 2,
+      "content": "Động năng trung bình của các phân tử trong một khối khí lí tưởng phụ thuộc vào",
+      "chuong": "khí lí tưởng",
+      "dang": "lý thuyết: áp suất khí theo mô hình động học phân tử. quan hệ giữa động năng phân tử và nhiệt độ",
+      "type": "single",
+      "options": [
+        "A. áp suất chất khí",
+        "B. nhiệt độ của khối khí",
+        "C. bản chất chất khí",
+        "D. mật độ phân tử khí"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Thí nghiệm gồm: *cuộn dây* nối với điện kế $G$ và *nam châm thẳng* đặt dọc theo trục của cuộn dây.\n- Theo hình vẽ, cực **Bắc (N)** của nam châm đang hướng vào phía cuộn dây.\n- Cho nam châm **dịch chuyển ra xa cuộn dây**.\n- Điện trở toàn mạch gồm cuộn dây và điện kế là $R = 3\\,\\Omega$.\n- Số chỉ của điện kế không đổi và bằng $I = 3\\,\\text{mA} = 3 \\cdot 10^{-3}\\,\\text{A}$.\n- Cần xét tính đúng sai của phương án **B**: **B. Biết điện trở tổng cộng của cuộn dây và điện kế **$G$** là **$3 \\text{ } \\Omega$**. Cho nam châm dịch chuyển ra xa cuộn dây sao cho số chỉ của điện kế **$G$** không đổi và bằng **$3 \\text{ mA}$**. Khi này, tốc độ biến thiên của từ thông qua cuộn dây là **$9 \\cdot 10^{-3} \\text{ Wb/s}$** và dòng điện cảm ứng trong đoạn dây **$MN$** có chiều từ **$M$** đến **$N$**.**\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu xác định phát biểu trên là **đúng hay sai**.\n- Ta cần dùng kiến thức về **hiện tượng cảm ứng điện từ**, gồm: - Định luật Ôm cho toàn mạch kín đơn giản: $I = \\dfrac{\\mathcal{E}}{R}$.\n  - Suất điện động cảm ứng: $\\mathcal{E} = \\left|\\dfrac{\\Delta \\Phi}{\\Delta t}\\right|$.\n  - Chiều dòng điện cảm ứng theo **định luật Len-xơ**: dòng điện cảm ứng sinh ra từ trường chống lại sự biến thiên từ thông.\n- Cần kiểm tra **hai ý**: - Tốc độ biến thiên từ thông có đúng bằng \\$9 \\cdot 10^{-3}\\,\\text{Wb/s}$ hay không.\n  - Chiều dòng điện trong đoạn $MN$ có đúng từ $M$ đến $N$ hay không.\n🔎 **Hướng dẫn cách làm:**\n- Trước hết, tính suất điện động cảm ứng từ số chỉ điện kế: - Theo định luật Ôm:\n$\\mathcal{E} = IR$\n  - Thay số:\n$\\mathcal{E} = 3 \\cdot 10^{-3} \\cdot 3 = 9 \\cdot 10^{-3}\\,\\text{V}$\n- Vì suất điện động cảm ứng có độ lớn bằng tốc độ biến thiên từ thông qua cuộn dây, nên:\n$\\left|\\dfrac{\\Delta \\Phi}{\\Delta t}\\right| = \\mathcal{E} = 9 \\cdot 10^{-3}\\,\\text{Wb/s}$\n- Vậy **ý thứ nhất** của phát biểu là **đúng**.\n- Tiếp theo, xét **chiều dòng điện cảm ứng**: - Theo hình, cực **N** của nam châm đang ở gần và hướng vào cuộn dây.\n  - Khi nam châm **đi ra xa cuộn dây**, từ thông qua cuộn dây do nam châm gây ra sẽ **giảm**.\n  - Theo **định luật Len-xơ**, cuộn dây phải sinh ra từ trường để **chống lại sự giảm từ thông**, tức là cuộn dây phải hút cực $N$ đang đi xa lại.\n  - Muốn hút cực $N$ của nam châm, đầu cuộn dây gần nam châm phải trở thành **cực Nam**.\n- Dùng quy tắc nắm tay phải cho ống dây: - Nếu nhìn từ phía nam châm, để đầu gần nam châm là **cực Nam** thì dòng điện trong các vòng dây phải chạy theo **chiều kim đồng hồ**.\n  - Từ đó suy ra chiều dòng điện trên đoạn nối ngoài $MN$ là **từ **$N$** đến **$M$, không phải từ $M$ đến $N$.\n- Như vậy: - Phần **tốc độ biến thiên từ thông** là đúng.\n  - Nhưng phần **chiều dòng điện trong đoạn **$MN$ là sai.\n- Vì phát biểu gồm hai ý nối với nhau bằng “và”, chỉ cần một ý sai thì cả phát biểu là **sai**.\n✅ **Đáp án: ** Sai"
+    },
+    {
+      "id": 3,
+      "content": "Một vật rắn có khối lượng $m$ được nung nóng đến nhiệt độ nóng chảy và bắt đầu nóng chảy hoàn toàn. Biết nhiệt nóng chảy riêng của vật rắn là $\\lambda$. Công thức tính nhiệt lượng cần cung cấp cho quá trình nóng chảy là",
+      "chuong": "vật lí nhiệt",
+      "dang": "lý thuyết: nhiệt nóng chảy riêng",
+      "type": "single",
+      "options": [
+        "A. $Q = \\lambda m$",
+        "B. $Q = m / \\lambda$",
+        "C. $Q = m \\lambda \\Delta t$",
+        "D. $Q = mc \\Delta t$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Khi vật rắn đã ở đúng *nhiệt độ nóng chảy*, nhiệt lượng cung cấp thêm không làm tăng nhiệt độ nữa mà dùng để phá vỡ liên kết, giúp vật nóng chảy.\n- Công thức nhiệt lượng cần cho sự nóng chảy là:\n$Q = \\lambda m$\n- Trong đó: - $Q$ là nhiệt lượng cần cung cấp\n  - $\\lambda$ là nhiệt nóng chảy riêng\n  - $m$ là khối lượng của vật\n✅ **Đáp án:** A. $Q = \\lambda m$"
+    },
+    {
+      "id": 4,
+      "content": "Khi quan sát các hạt khói chuyển động trong không khí, chuyển động nào được gọi là chuyển động Brown?",
+      "chuong": "khí lí tưởng",
+      "dang": "lý thuyết: thuyết động học phân tử chất khí",
+      "type": "single",
+      "options": [
+        "A. Những hạt khói chuyển động nhanh dần.",
+        "B. Chuyển động của cả hạt khói và của các phân tử khí.",
+        "C. Chuyển động của các phân tử không khí.",
+        "D. Chuyển động của các hạt khói."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Chuyển động Brown là chuyển động của **các hạt nhỏ nhìn thấy được** khi chúng bị va chạm không đều bởi các phân tử môi trường xung quanh.\n- Với khói trong không khí: - Các **hạt khói** là vật ta quan sát thấy.\n  - Các **phân tử không khí** chuyển động nhiệt và va chạm vào hạt khói từ nhiều phía.\n  - Vì va chạm không cân bằng, hạt khói chuyển động hỗn độn, ngoằn ngoèo. Đó chính là **chuyển động Brown**.\n- Xét các phương án: - **A sai** vì chuyển động Brown không phải là chuyển động *nhanh dần*.\n  - **B sai** vì khái niệm này không gọi chung cho cả hạt khói và phân tử khí; trong quan sát, nó là chuyển động của **hạt khói**.\n  - **C sai** vì đó là chuyển động nhiệt của phân tử không khí, không phải cách định nghĩa trực tiếp của chuyển động Brown trong thí nghiệm quan sát khói.\n  - **D đúng** vì đúng với định nghĩa: chuyển động Brown là chuyển động hỗn độn của **các hạt khói**.\n✅ **Đáp án:** D. Chuyển động của các hạt khói."
+    },
+    {
+      "id": 5,
+      "content": "Có ba nam châm giống nhau được thả rơi thẳng đứng từ cùng một độ cao so với mặt đất. Thanh thứ nhất rơi tự do với thời gian rơi $t_1$. Thanh thứ hai rơi qua ống dây để hở với thời gian rơi $t_2$. Thanh thứ ba rơi qua một ống dây dẫn kín với thời gian rơi $t_3$. Biết trong quá trình rơi thanh nam châm không chạm vào ống dây. Chọn đáp án đúng dưới đây?",
+      "chuong": "từ trường",
+      "dang": "thí nghiệm: từ thông. hiện tượng cảm ứng điện từ",
+      "type": "single",
+      "options": [
+        "A. $t_1 < t_2 < t_3$",
+        "B. $t_1 = t_2 < t_3$",
+        "C. $t_1 = t_2 = t_3$",
+        "D. $t_2 = t_3 < t_1$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Xét **thanh thứ nhất**: - Thanh rơi tự do nên chỉ chịu tác dụng chủ yếu của trọng lực.\n  - Thời gian rơi là $t_1$.\n- Xét **thanh thứ hai rơi qua ống dây để hở**: - Khi nam châm chuyển động, từ thông qua ống dây có thay đổi.\n  - Tuy nhiên, vì mạch **để hở** nên dù có suất điện động cảm ứng, **không có dòng điện cảm ứng** chạy trong ống dây.\n  - Không có dòng điện cảm ứng nên không có từ trường cảm ứng đủ để cản nam châm.\n  - Vì vậy, thanh này rơi gần như như rơi tự do:\n$t_2 = t_1$\n- Xét **thanh thứ ba rơi qua ống dây kín**: - Khi nam châm rơi, từ thông qua ống dây thay đổi nên xuất hiện **dòng điện cảm ứng**.\n  - Theo **định luật Len-xơ**, dòng điện cảm ứng có tác dụng chống lại nguyên nhân sinh ra nó, tức là **chống lại sự chuyển động rơi của nam châm**.\n  - Do đó nam châm bị hãm lại, rơi chậm hơn.\n  - Suy ra:\n$t_3 > t_1$\n- Kết hợp các kết quả: - $t_1 = t_2$\n  - $t_3 > t_1$\n  - Vậy:\n$t_1 = t_2 < t_3$\n- Đối chiếu các phương án: - A sai vì cho rằng ống dây để hở cũng làm nam châm rơi chậm hơn.\n  - C sai vì mạch kín phải làm nam châm rơi lâu hơn.\n  - D sai hoàn toàn vì không thể có $t_2 = t_3 < t_1$.\n✅ **Đáp án:** B. $t_1 = t_2 < t_3$"
+    },
+    {
+      "id": 6,
+      "content": "Số proton của hạt nhân ${}_Z^A X$ là",
+      "chuong": "vật lí hạt nhân",
+      "dang": "lý thuyết: hạt nhân và mô hình nguyên tử",
+      "type": "single",
+      "options": [
+        "A. $A - Z$",
+        "B. $A + Z$",
+        "C. $Z$",
+        "D. $A$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Thí nghiệm gồm: *cuộn dây* nối với điện kế $G$ và *nam châm thẳng* đặt dọc theo trục của cuộn dây.\n- Theo hình vẽ, cực **Bắc (N)** của nam châm đang hướng vào phía cuộn dây.\n- Cho nam châm **dịch chuyển ra xa cuộn dây**.\n- Điện trở toàn mạch gồm cuộn dây và điện kế là $R = 3\\,\\Omega$.\n- Số chỉ của điện kế không đổi và bằng $I = 3\\,\\text{mA} = 3 \\cdot 10^{-3}\\,\\text{A}$.\n- Cần xét tính đúng sai của phương án **B**: **B. Biết điện trở tổng cộng của cuộn dây và điện kế **$G$** là **$3 \\text{ } \\Omega$**. Cho nam châm dịch chuyển ra xa cuộn dây sao cho số chỉ của điện kế **$G$** không đổi và bằng **$3 \\text{ mA}$**. Khi này, tốc độ biến thiên của từ thông qua cuộn dây là **$9 \\cdot 10^{-3} \\text{ Wb/s}$** và dòng điện cảm ứng trong đoạn dây **$MN$** có chiều từ **$M$** đến **$N$**.**\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu xác định phát biểu trên là **đúng hay sai**.\n- Ta cần dùng kiến thức về **hiện tượng cảm ứng điện từ**, gồm: - Định luật Ôm cho toàn mạch kín đơn giản: $I = \\dfrac{\\mathcal{E}}{R}$.\n  - Suất điện động cảm ứng: $\\mathcal{E} = \\left|\\dfrac{\\Delta \\Phi}{\\Delta t}\\right|$.\n  - Chiều dòng điện cảm ứng theo **định luật Len-xơ**: dòng điện cảm ứng sinh ra từ trường chống lại sự biến thiên từ thông.\n- Cần kiểm tra **hai ý**: - Tốc độ biến thiên từ thông có đúng bằng \\$9 \\cdot 10^{-3}\\,\\text{Wb/s}$ hay không.\n  - Chiều dòng điện trong đoạn $MN$ có đúng từ $M$ đến $N$ hay không.\n🔎 **Hướng dẫn cách làm:**\n- Trước hết, tính suất điện động cảm ứng từ số chỉ điện kế: - Theo định luật Ôm:\n$\\mathcal{E} = IR$\n  - Thay số:\n$\\mathcal{E} = 3 \\cdot 10^{-3} \\cdot 3 = 9 \\cdot 10^{-3}\\,\\text{V}$\n- Vì suất điện động cảm ứng có độ lớn bằng tốc độ biến thiên từ thông qua cuộn dây, nên:\n$\\left|\\dfrac{\\Delta \\Phi}{\\Delta t}\\right| = \\mathcal{E} = 9 \\cdot 10^{-3}\\,\\text{Wb/s}$\n- Vậy **ý thứ nhất** của phát biểu là **đúng**.\n- Tiếp theo, xét **chiều dòng điện cảm ứng**: - Theo hình, cực **N** của nam châm đang ở gần và hướng vào cuộn dây.\n  - Khi nam châm **đi ra xa cuộn dây**, từ thông qua cuộn dây do nam châm gây ra sẽ **giảm**.\n  - Theo **định luật Len-xơ**, cuộn dây phải sinh ra từ trường để **chống lại sự giảm từ thông**, tức là cuộn dây phải hút cực $N$ đang đi xa lại.\n  - Muốn hút cực $N$ của nam châm, đầu cuộn dây gần nam châm phải trở thành **cực Nam**.\n- Dùng quy tắc nắm tay phải cho ống dây: - Nếu nhìn từ phía nam châm, để đầu gần nam châm là **cực Nam** thì dòng điện trong các vòng dây phải chạy theo **chiều kim đồng hồ**.\n  - Từ đó suy ra chiều dòng điện trên đoạn nối ngoài $MN$ là **từ **$N$** đến **$M$, không phải từ $M$ đến $N$.\n- Như vậy: - Phần **tốc độ biến thiên từ thông** là đúng.\n  - Nhưng phần **chiều dòng điện trong đoạn **$MN$ là sai.\n- Vì phát biểu gồm hai ý nối với nhau bằng “và”, chỉ cần một ý sai thì cả phát biểu là **sai**.\n✅ **Đáp án: ** Sai"
+    },
+    {
+      "id": 7,
+      "content": "Máy biến áp là thiết bị làm thay đổi điện áp của dòng điện xoay chiều, được cấu tạo từ các phần chính gồm hai cuộn dây dẫn (cuộn sơ cấp và cuộn thứ cấp) có số vòng dây khác nhau quấn trên cùng một lõi thép kĩ thuật. Khi nối hai đầu cuộn sơ cấp vào một điện áp xoay chiều thì ở cuộn thứ cấp sinh ra một điện áp xoay chiều. Nguyên lí hoạt động của máy biến áp dựa vào",
+      "chuong": "từ trường",
+      "dang": "lý thuyết: ứng dụng hiện tượng cảm ứng điện từ",
+      "type": "single",
+      "options": [
+        "A. tác dụng từ của dòng điện.",
+        "B. hiện tượng cảm ứng điện từ.",
+        "C. sự nhiễm từ của lõi thép kĩ thuật.",
+        "D. sự phóng điện giữa các cuộn dây."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Khi nối cuộn sơ cấp với nguồn điện xoay chiều, trong cuộn sơ cấp có **dòng điện xoay chiều** chạy qua.\n- Dòng điện xoay chiều tạo ra **từ trường biến thiên** trong lõi thép.\n- Từ trường biến thiên này làm cho từ thông qua cuộn thứ cấp **thay đổi theo thời gian**.\n- Theo hiện tượng **cảm ứng điện từ**, khi từ thông qua cuộn dây biến thiên thì trong cuộn dây xuất hiện suất điện động cảm ứng.\n- Vì vậy, ở hai đầu cuộn thứ cấp xuất hiện **điện áp xoay chiều**.\n- Do đó, nguyên lí hoạt động của máy biến áp là dựa vào **hiện tượng cảm ứng điện từ**.\n- Xét các phương án: - **A. tác dụng từ của dòng điện**: chỉ nói dòng điện có tạo ra từ trường, nhưng chưa giải thích được vì sao ở cuộn thứ cấp xuất hiện điện áp.\n  - **B. hiện tượng cảm ứng điện từ**: đúng vì đây là nguyên lí trực tiếp làm xuất hiện điện áp ở cuộn thứ cấp.\n  - **C. sự nhiễm từ của lõi thép kĩ thuật**: lõi thép chỉ có vai trò dẫn từ tốt, không phải nguyên lí hoạt động chính.\n  - **D. sự phóng điện giữa các cuộn dây**: sai, máy biến áp hoạt động bình thường không dựa trên sự phóng điện.\n✅ **Đáp án:** B. hiện tượng cảm ứng điện từ."
+    },
+    {
+      "id": 8,
+      "content": "Đại lượng nào đặc trưng cho mức độ bền vững của hạt nhân?",
+      "chuong": "vật lí hạt nhân",
+      "dang": "lý thuyết: năng lượng liên kết & phản ứng hạt nhân",
+      "type": "single",
+      "options": [
+        "A. Độ hụt khối của hạt nhân.",
+        "B. Độ phóng xạ.",
+        "C. Năng lượng liên kết.",
+        "D. Năng lượng liên kết riêng."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Xét từng phương án: - **A. Độ hụt khối của hạt nhân**: - Độ hụt khối có liên quan đến năng lượng liên kết qua hệ thức:\n$W_{lk} = \\Delta m c^2$\n    - Tuy nhiên, chỉ riêng độ hụt khối chưa phản ánh đúng mức độ bền vững giữa các hạt nhân khác nhau vì hạt nhân lớn thường có độ hụt khối lớn hơn.\n    - Vậy A **không phải** đại lượng đặc trưng tốt nhất.\n  - **B. Độ phóng xạ**: - Độ phóng xạ cho biết mức độ phân rã của chất phóng xạ, không phải đại lượng chung để đánh giá độ bền vững của mọi hạt nhân.\n    - Vậy B **sai**.\n  - **C. Năng lượng liên kết**: - Năng lượng liên kết càng lớn thì hạt nhân có vẻ càng bền, nhưng vì hạt nhân có số nuclôn lớn thì năng lượng liên kết cũng thường lớn hơn.\n    - Do đó, muốn so sánh độ bền vững phải xét **trên mỗi nuclôn**.\n    - Vậy C **chưa chính xác**.\n  - **D. Năng lượng liên kết riêng**: - Đây là năng lượng liên kết tính cho một nuclôn.\n    - Đại lượng này cho phép so sánh độ bền vững của các hạt nhân khác nhau một cách chính xác.\n    - Hạt nhân có năng lượng liên kết riêng càng lớn thì càng bền vững.\n    - Vậy D **đúng**.\n- Kết luận: - Đại lượng đặc trưng cho mức độ bền vững của hạt nhân là **năng lượng liên kết riêng**.\n✅ **Đáp án:** D. Năng lượng liên kết riêng."
+    },
+    {
+      "id": 9,
+      "content": "Hình mô tả một phản ứng hạt nhân. Phát biểu nào sau đây đúng?\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tot-nghiep-thpt-mon-vat-ly-so-gd-dt-thanh-hoa-lan-3-nam-2026/cau-09.webp\" alt=\"Hình minh họa câu 9\" loading=\"lazy\"></figure>",
+      "chuong": "vật lí hạt nhân",
+      "dang": "lý thuyết: năng lượng liên kết & phản ứng hạt nhân",
+      "type": "single",
+      "options": [
+        "A. Phương trình phản ứng hạt nhân là ${}_1^2 H + {}_1^2 H \\rightarrow {}_2^3 He + {}_0^1 n$",
+        "B. Hai hạt nhân trước tương tác là hai nguyên tố khác nhau.",
+        "C. Đây là phản ứng tổng hợp hạt nhân.",
+        "D. Đây là phản ứng phân hạch."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Từ hình vẽ: - Hạt nhân thứ nhất có 1 proton, 1 neutron nên là $\\,{}_1^2H$.\n  - Hạt nhân thứ hai có 1 proton, 2 neutron nên là $\\,{}_1^3H$.\n- Vậy phương trình đúng của phản ứng là:\n$\\,{}_1^2H + {}_1^3H \\rightarrow {}_2^4He + {}_0^1n$\n- Xét từng phát biểu: - **A sai** vì phương án A viết:\n$\\,{}_1^2H + {}_1^2H \\rightarrow {}_2^3He + {}_0^1n$\nTrong khi hình vẽ không phải hai hạt $\\,{}_1^2H$, mà là một hạt $\\,{}_1^2H$ và một hạt $\\,{}_1^3H$.\n  - **B sai** vì hai hạt nhân ban đầu đều có số proton bằng 1, nên đều là đồng vị của *hiđro*, không phải hai nguyên tố khác nhau.\n  - **C đúng** vì hai hạt nhân nhẹ kết hợp lại tạo thành hạt nhân nặng hơn. Đây chính là **phản ứng tổng hợp hạt nhân**.\n  - **D sai** vì *phân hạch* là hạt nhân nặng vỡ thành các hạt nhân nhẹ hơn, còn ở đây là hai hạt nhân nhẹ nhập lại.\n- Kết luận: hình mô tả phản ứng **nhiệt hạch / tổng hợp hạt nhân**.\n✅ **Đáp án:** C. Đây là phản ứng tổng hợp hạt nhân."
+    },
+    {
+      "id": 10,
+      "content": "Đồ thị nào dưới đây biểu diễn quá trình đẳng nhiệt của một lượng khí nhất định?\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tot-nghiep-thpt-mon-vat-ly-so-gd-dt-thanh-hoa-lan-3-nam-2026/cau-10.webp\" alt=\"Hình minh họa câu 10\" loading=\"lazy\"></figure>",
+      "chuong": "khí lí tưởng",
+      "dang": "đồ thị: định luật boyle",
+      "type": "single",
+      "options": [
+        "A. (d)",
+        "B. (b)",
+        "C. (a)",
+        "D. (c)"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Xét định luật cho quá trình đẳng nhiệt của một lượng khí không đổi:\n$pV = \\text{const}$\n- Biến đổi công thức:\n$p = \\dfrac{\\text{const}}{V}$\n- Điều này cho thấy: - Khi $V$ tăng thì $p$ giảm.\n  - Đồ thị $p$ theo $V$ không phải đường thẳng, mà là **đường cong giảm**.\n- Dựa vào hình: - Đồ thị **(c)** là đồ thị $P - V$ có dạng cong giảm, đúng với hệ thức $p \\sim \\dfrac{1}{V}$.\n  - Đồ thị (a) là $V - T$, phù hợp với quá trình đẳng áp hơn.\n  - Đồ thị (b) là $P - T$, phù hợp với quá trình đẳng tích hơn.\n  - Đồ thị (d) là $P - V$ nhưng là đường thẳng tăng, không đúng với đẳng nhiệt.\n- Vậy chỉ có **đồ thị (c)** biểu diễn đúng quá trình đẳng nhiệt.\n✅ **Đáp án:** D. (c)"
+    },
+    {
+      "id": 11,
+      "content": "Hình bên là đồ thị biểu diễn sự phụ thuộc của độ lớn lực từ $F$ tác dụng lên một đoạn dây dẫn thẳng vào cường độ dòng điện $I$ chạy qua dây dẫn đó. Biết dây dẫn có chiều dài \\$10 \\text{ cm}$ và được đặt vuông góc với các đường sức từ của một từ trường đều. Cảm ứng từ $B$ của từ trường này có giá trị là\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tot-nghiep-thpt-mon-vat-ly-so-gd-dt-thanh-hoa-lan-3-nam-2026/cau-11.webp\" alt=\"Hình minh họa câu 11\" loading=\"lazy\"></figure>",
+      "chuong": "từ trường",
+      "dang": "đồ thị: lực từ. cảm ứng từ",
+      "type": "single",
+      "options": [
+        "A. \\$0,03 \\text{ T}$",
+        "B. \\$0,015 \\text{ T}$",
+        "C. \\$0,025 \\text{ T}$",
+        "D. \\$0,04 \\text{ T}$"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Từ đồ thị, đường thẳng đi qua gốc tọa độ và điểm: - $I = 1{,}0\\ \\text{A},\\quad F = 4{,}0 \\cdot 10^{-3}\\ \\text{N}$.\n- Áp dụng công thức lực từ: - $F = BIl\\sin\\alpha$.\n- Vì dây dẫn vuông góc với từ trường nên: - $\\alpha = 90^\\circ \\Rightarrow \\sin\\alpha = 1$.\n- Suy ra: - $F = BIl$\n  - $\\Rightarrow B = \\dfrac{F}{Il}$.\n- Thay số từ đồ thị và đề bài: - $B = \\dfrac{4{,}0\\cdot 10^{-3}}{1{,}0 \\cdot 0{,}1}$\n  - $= \\dfrac{4{,}0\\cdot 10^{-3}}{10^{-1}}$\n  - $= 4{,}0\\cdot 10^{-2}\\ \\text{T}$\n  - $= 0{,}04\\ \\text{T}$.\n✅ **Đáp án:** D. \\$0,04 \\text{ T}$"
+    },
+    {
+      "id": 12,
+      "content": "Sóng điện từ",
+      "chuong": "từ trường",
+      "dang": "lý thuyết: điện từ trường. mô hình sóng điện từ",
+      "type": "single",
+      "options": [
+        "A. là sóng dọc và không truyền được trong chân không.",
+        "B. là sóng dọc và lan truyền được trong chân không.",
+        "C. là sóng ngang và không truyền được trong chân không.",
+        "D. là sóng ngang và lan truyền được trong chân không."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Trong chương trình Vật lí phổ thông, **sóng điện từ** là sự lan truyền trong không gian của điện từ trường biến thiên.\n- Sóng điện từ có đặc điểm: - **Là sóng ngang**, vì vectơ cường độ điện trường và vectơ cảm ứng từ dao động vuông góc với phương truyền sóng.\n  - **Lan truyền được trong chân không**, ví dụ ánh sáng Mặt Trời truyền qua khoảng không vũ trụ để đến Trái Đất.\n- Xét các phương án: - **A**: “là sóng dọc và không truyền được trong chân không.” → sai vì sóng điện từ **không phải sóng dọc** và **có truyền được trong chân không**.\n  - **B**: “là sóng dọc và lan truyền được trong chân không.” → sai vì sóng điện từ **không phải sóng dọc**.\n  - **C**: “là sóng ngang và không truyền được trong chân không.” → sai vì sóng điện từ **truyền được trong chân không**.\n  - **D**: “là sóng ngang và lan truyền được trong chân không.” → đúng với đầy đủ tính chất của sóng điện từ.\n- Vậy phát biểu đúng là phương án nêu **sóng ngang** và **truyền được trong chân không**.\n✅ **Đáp án:** D. là sóng ngang và lan truyền được trong chân không."
+    },
+    {
+      "id": 13,
+      "content": "Xét một hệ nhiệt động không trao đổi nhiệt với môi trường ($Q = 0$). Theo quy ước trong chương trình phổ thông, công $A$ là công do ngoại lực thực hiện lên hệ. Khi hệ nhận công ($A > 0$), nội năng của hệ sẽ biến đổi như thế nào?",
+      "chuong": "vật lí nhiệt",
+      "dang": "lý thuyết: nội năng. định luật i nhiệt động lực học",
+      "type": "single",
+      "options": [
+        "A. Giảm đi.",
+        "B. Giữ nguyên.",
+        "C. Tăng lên hoặc giảm đi.",
+        "D. Tăng lên."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Áp dụng nguyên lí I nhiệt động lực học:\n$\\Delta U = Q + A$\n- Vì hệ không trao đổi nhiệt với môi trường nên:\n$Q = 0$\n- Do đó:\n$\\Delta U = A$\n- Mà đề bài cho hệ *nhận công*, tức là:\n$A > 0$\n- Suy ra:\n$\\Delta U > 0$\n- Khi $\\Delta U > 0$ thì **nội năng của hệ tăng lên**.\n✅ **Đáp án:** D. Tăng lên."
+    },
+    {
+      "id": 14,
+      "content": "Hệ thức nào sau đây là phương trình trạng thái của khí lý tưởng?",
+      "chuong": "khí lí tưởng",
+      "dang": "lý thuyết: phương trình trạng thái khí lí tưởng",
+      "type": "single",
+      "options": [
+        "A. $\\frac{PV}{T} = \\text{hằng số}$",
+        "B. $\\frac{PT}{V} = \\text{hằng số}$",
+        "C. $pVT = \\text{hằng số}$",
+        "D. $\\frac{VT}{P} = \\text{hằng số}$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Với một lượng khí lí tưởng không đổi, ta có phương trình trạng thái:\n$pV=\\text{hằng số}\\cdot T$\n- Viết lại công thức trên, ta được:\n$\\frac{pV}{T}=\\text{hằng số}$\n- So sánh với các phương án: - A có dạng $\\frac{PV}{T}=\\text{hằng số}$ → **đúng**\n  - B có dạng $\\frac{PT}{V}=\\text{hằng số}$ → **sai**\n  - C có dạng $pVT=\\text{hằng số}$ → **sai**\n  - D có dạng $\\frac{VT}{P}=\\text{hằng số}$ → **sai**\n- Vậy chỉ phương án A đúng với công thức chuẩn của phương trình trạng thái khí lí tưởng.\n✅ **Đáp án:** A. $\\frac{PV}{T} = \\text{hằng số}$"
+    },
+    {
+      "id": 15,
+      "content": "Potassium (Kali) là nguyên tố dinh dưỡng khoáng thiết yếu đối với cây trồng. Trong potassium tự nhiên có khoảng \\$0,0117\\%$ là đồng vị phóng xạ ${}_{19}^{40} K$ với chu kì bán rã là \\$1,251.10^9$ năm; lấy 1 năm bằng 365 ngày, khối lượng mol của ${}_{19}^{40} K$ là \\$40 \\text{ g/mol}$. Một quả chuối trung bình nặng \\$118 \\text{ g}$ chứa khoảng \\$422 \\text{ mg}$ potassium. Độ phóng xạ của lượng potassium trong 1 quả chuối gần nhất với giá trị nào sau đây?",
+      "chuong": "vật lí hạt nhân",
+      "dang": "thực tế: hiện tượng phóng xạ",
+      "type": "single",
+      "options": [
+        "A. \\$13,1 \\text{ Bq}$",
+        "B. \\$0,11 \\text{ MBq}$",
+        "C. \\$1,1 \\text{ MBq}$",
+        "D. \\$131 \\text{ Bq}$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\nĐổi khối lượng potassium trong quả chuối ra gam:\n\\$422\\ \\text{mg} = 0{,}422\\ \\text{g}$\nTính khối lượng đồng vị phóng xạ $^{40}_{19}K$ trong lượng potassium đó:\n\\$0{,}0117\\% = 1{,}17 \\times 10^{-4}$\nVậy:\n$m = 0{,}422 \\times 1{,}17 \\times 10^{-4} \\approx 4{,}94 \\times 10^{-5}\\ \\text{g}$\nTính số mol của $^{40}_{19}K$:\n$n = \\dfrac{m}{M} = \\dfrac{4{,}94 \\times 10^{-5}}{40} \\approx 1{,}235 \\times 10^{-6}\\ \\text{mol}$\nTính số hạt nhân $^{40}_{19}K$:\nDùng $N_A = 6{,}02 \\times 10^{23}\\ \\text{mol}^{-1}$\n$N = nN_A \\approx 1{,}235 \\times 10^{-6} \\times 6{,}02 \\times 10^{23} \\approx 7{,}44 \\times 10^{17}$\nĐổi chu kì bán rã ra giây:\n$T = 1{,}251 \\times 10^9 \\times 365 \\times 24 \\times 3600 \\approx 3{,}95 \\times 10^{16}\\ \\text{s}$\nTính hằng số phóng xạ:\n$\\lambda = \\dfrac{\\ln 2}{T} = \\dfrac{0{,}693}{3{,}95 \\times 10^{16}} \\approx 1{,}75 \\times 10^{-17}\\ \\text{s}^{-1}$\nTính độ phóng xạ:\n$A = \\lambda N \\approx 1{,}75 \\times 10^{-17} \\times 7{,}44 \\times 10^{17} \\approx 13{,}0\\ \\text{Bq}$\nSuy ra giá trị gần nhất là:\n\\$13{,}1\\ \\text{Bq}$\n✅ **Đáp án:** A. \\$13,1 \\text{ Bq}$"
+    },
+    {
+      "id": 16,
+      "content": "Một vòng dây dẫn kín có diện tích $S$ được đặt trong từ trường đều có cảm ứng từ $B$. Gọi $\\alpha$ là góc hợp bởi vectơ cảm ứng từ $\\vec{B}$ và vectơ pháp tuyến $\\vec{n}$ của mặt phẳng vòng dây. Từ thông $\\Phi$ qua vòng dây được tính bằng công thức",
+      "chuong": "từ trường",
+      "dang": "lý thuyết: từ thông. hiện tượng cảm ứng điện từ",
+      "type": "single",
+      "options": [
+        "A. $\\Phi = BS \\cot \\alpha$",
+        "B. $\\Phi = BS \\tan \\alpha$",
+        "C. $\\Phi = BS \\sin \\alpha$",
+        "D. $\\Phi = BS \\cos \\alpha$"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Theo định nghĩa, từ thông qua một diện tích phẳng trong từ trường đều được tính bởi:\n$\\Phi = BS\\cos\\alpha$\n- Ở đây: - $B$ là độ lớn cảm ứng từ.\n  - $S$ là diện tích vòng dây.\n  - $\\alpha$ là góc giữa $\\vec{B}$ và vectơ pháp tuyến $\\vec{n}$.\n- Vì đề bài đã cho đúng góc giữa $\\vec{B}$ và pháp tuyến, nên ta áp dụng trực tiếp công thức trên.\n- So sánh với các phương án: - A: $\\Phi = BS\\cot\\alpha$ → sai, không phải công thức từ thông.\n  - B: $\\Phi = BS\\tan\\alpha$ → sai.\n  - C: $\\Phi = BS\\sin\\alpha$ → sai trong trường hợp này, vì $\\alpha$ không phải góc giữa $\\vec{B}$ và mặt phẳng vòng dây.\n  - D: $\\Phi = BS\\cos\\alpha$ → đúng.\n✅ **Đáp án:** D. $\\Phi = BS \\cos \\alpha$"
+    },
+    {
+      "id": 17,
+      "content": "Ở Việt Nam, giông sét thường hoạt động mạnh vào mùa mưa. Coi tia sét là dòng các electron chuyển động gần như thẳng đứng từ đám mây xuống mặt đất. Biết thành phần nằm ngang của từ trường Trái Đất hướng về phía Bắc. Do tác dụng của từ trường Trái Đất, tia sét có xu hướng lệch theo hướng nào?\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tot-nghiep-thpt-mon-vat-ly-so-gd-dt-thanh-hoa-lan-3-nam-2026/cau-17.webp\" alt=\"Hình minh họa câu 17\" loading=\"lazy\"></figure>",
+      "chuong": "từ trường",
+      "dang": "thực tế: lực từ. cảm ứng từ",
+      "type": "single",
+      "options": [
+        "A. Bắc.",
+        "B. Nam.",
+        "C. Đông.",
+        "D. Tây."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Lực từ tác dụng lên hạt mang điện chuyển động được xác định bởi:\n$\\vec{F} = q \\vec{v} \\times \\vec{B}$\n- Ở đây: - $\\vec{v}$ hướng *từ trên xuống dưới* (electron đi từ mây xuống đất).\n  - $\\vec{B}$ có thành phần nằm ngang hướng *về phía Bắc*.\n- Trước hết, xét một *điện tích dương* chuyển động xuống dưới trong từ trường hướng Bắc: - Dùng quy tắc bàn tay phải cho $\\vec{v} \\times \\vec{B}$.\n  - Ta được lực từ hướng về *phía Đông*.\n- Nhưng tia sét là dòng *electron*, mà electron có điện tích âm: - Vì $q < 0$ nên lực từ tác dụng lên electron sẽ *ngược chiều* với $\\vec{v} \\times \\vec{B}$.\n  - Do đó lực từ thực tế hướng về *phía Tây*.\n- Vậy tia sét có xu hướng lệch về *phía Tây*.\n✅ **Đáp án:** D. Tây."
+    },
+    {
+      "id": 18,
+      "content": "Trong quá trình biến đổi trạng thái của một lượng khí lí tưởng xác định, điều nào sau đây không thể xảy ra?",
+      "chuong": "khí lí tưởng",
+      "dang": "lý thuyết: phương trình trạng thái khí lí tưởng",
+      "type": "single",
+      "options": [
+        "A. Áp suất tăng, thể tích và nhiệt độ giảm.",
+        "B. Áp suất và nhiệt độ tăng, thể tích giảm.",
+        "C. Áp suất, thể tích và nhiệt độ đều tăng.",
+        "D. Áp suất và thể tích tăng, nhiệt độ giảm."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Với khí lí tưởng:\n$pV = nRT$\nVì $nR$ không đổi nên:\n$T \\propto pV$\n- Xét từng phương án:\n- **A. Áp suất tăng, thể tích và nhiệt độ giảm.** - $p$ tăng, $V$ giảm nên tích $pV$ *có thể* tăng, giảm hoặc không đổi tùy mức độ biến thiên.\n  - Vì vậy $T$ giảm vẫn *có thể xảy ra* nếu $pV$ giảm.\n  - Phương án này **có thể xảy ra**.\n- **B. Áp suất và nhiệt độ tăng, thể tích giảm.** - $p$ tăng, $V$ giảm nên $pV$ chưa chắc tăng hay giảm.\n  - Nếu $pV$ tăng thì $T$ tăng là phù hợp.\n  - Do đó phương án này **có thể xảy ra**.\n- **C. Áp suất, thể tích và nhiệt độ đều tăng.** - Nếu $p$ tăng và $V$ tăng thì chắc chắn $pV$ tăng.\n  - Khi đó $T$ tăng là đúng theo:\n$T \\propto pV$\n  - Vậy phương án này **có thể xảy ra**.\n- **D. Áp suất và thể tích tăng, nhiệt độ giảm.** - Nếu $p$ tăng và $V$ tăng thì tích:\n$pV$ tăng\n  - Theo phương trình trạng thái, khi $pV$ tăng thì:\n$T$ cũng phải tăng\n  - Nhưng đề lại nói $T$ giảm, điều này **mâu thuẫn** với:\n$pV = nRT$\n  - Vì thế phương án này **không thể xảy ra**.\n✅ **Đáp án:** D. Áp suất và thể tích tăng, nhiệt độ giảm."
+    }
+  ]
+}

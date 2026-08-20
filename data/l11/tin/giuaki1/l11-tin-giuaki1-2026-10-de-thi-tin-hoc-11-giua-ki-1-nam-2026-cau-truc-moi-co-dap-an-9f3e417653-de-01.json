@@ -1,0 +1,254 @@
+{
+  "id": "l11-tin-giuaki1-2026-10-de-thi-tin-hoc-11-giua-ki-1-nam-2026-cau-truc-moi-co-dap-an-9f3e417653-de-01",
+  "grade": "l11",
+  "subjectSlug": "tin",
+  "examType": "giuaki1",
+  "year": 2026,
+  "code": "Đề 01",
+  "title": "10+ Đề thi Tin học 11 Giữa kì 1 năm 2026 (cấu trúc mới, có đáp án) - Đề 01",
+  "duration": 45,
+  "answerSource": "missing",
+  "sourceUrl": "https://www.vietjack.com/de-kiem-tra-lop-11/de-kiem-tra-1-tiet-tin-hoc-11-hoc-ki-1.jsp",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 1:&lt;/strong&gt; Các thành phần cơ bản của NNLT là:",
+      "options": [
+        "A. Thông dịch và biên dịch",
+        "B. Chương trình dịch, bảng chữ cái, cú pháp, ngữ nghĩa",
+        "C. Bảng chữ cái, cú pháp, ngữ nghĩa",
+        "D. Tên dành riêng, tên chuẩn và tên do người lập trình định nghĩa"
+      ],
+      "answer": null
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 2:&lt;/strong&gt; Chọn biểu diễn tên đúng trong các biểu diễn dưới đây:",
+      "options": [
+        "A. Tinh_DTB",
+        "B. Tinh DTB",
+        "C. Tinh#DTB",
+        "D. 1Tinh_DTB"
+      ],
+      "answer": null
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 3&lt;/strong&gt;: Biểu diễn nào dưới đây là biểu diễn hằng trong Pascal:",
+      "options": [
+        "A. 2.34",
+        "B. ’TRUE",
+        "C. A51",
+        "D. 1,06E-15"
+      ],
+      "answer": null
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 4&lt;/strong&gt;: Trong Pascal, khai báo nào sau đây sai:",
+      "options": [
+        "A. Program Giai_PTB2;",
+        "B. Uses crt;",
+        "C. Var a, b, c: real;",
+        "D. Const pi = 3,14;"
+      ],
+      "answer": null
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 5&lt;/strong&gt;: Cho biến thực x đã được gán giá trị 12.41235. Để đưa ra màn hình nội dung “x=12.41” cần chọn câu lệnh nào sau đây?",
+      "options": [
+        "A. Writeln(x);",
+        "B. Writeln(‘x=’ ,x:5:2);",
+        "C. Writeln(x:5);",
+        "D. Writeln(x:5:2);"
+      ],
+      "answer": null
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 6&lt;/strong&gt;: Xét khai báo biến sau:\n&lt;strong&gt;Var x, y, z : real;&lt;/strong&gt;\n&lt;strong&gt;c : char;&lt;/strong&gt;\n&lt;strong&gt;i, j : integer;&lt;/strong&gt;\nTổng bộ nhớ dành cho các biến đã khai báo là bao nhiêu byte?",
+      "options": [
+        "A. 18",
+        "B. 19",
+        "C. 21",
+        "D. 23"
+      ],
+      "answer": null
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 7&lt;/strong&gt;: Xét biểu thức logic: (n >0) and (n mod 2 = 1). Khẳng định nào sau đây là đúng?",
+      "options": [
+        "A. Kiểm tra n là một số nguyên dương lẻ",
+        "B. Kiểm tra xem n có là một số dương",
+        "C. Kiểm tra n có chia hết cho 2 không",
+        "D. Kiểm tra n là một số nguyên lẻ"
+      ],
+      "answer": null
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 8&lt;/strong&gt;: Cho khai báo biến sau đây:\nVar m, n : integer ;\nx, y : real ;\n&lt;strong&gt;Lệnh gán nào sau đây là sai ? &lt;/strong&gt;",
+      "options": [
+        "A. m := -4 ;",
+        "B. n := 3.5 ;",
+        "C. x := 6.5 ;",
+        "D. y := +10.5 ;"
+      ],
+      "answer": null
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 9&lt;/strong&gt;: Biểu thức toán học dưới đây được biểu diễn trong NNLT Pascal là:",
+      "options": [
+        "A. a – 1/(1 + x*x*x)",
+        "B. a – 1/(1 + sqr(x)*x)",
+        "C. a – 1/(1 + x*sqr(x))",
+        "D. Cả A, B, C đều đúng"
+      ],
+      "answer": null
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 10&lt;/strong&gt;: Biểu thức 5*b + a div 4*3 với a =12, b = 4 có giá trị là:",
+      "options": [
+        "A. 20",
+        "B. 21",
+        "C. 29",
+        "D. 9"
+      ],
+      "answer": null
+    },
+    {
+      "id": 11,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 11&lt;/strong&gt;: Trong Pascal, cú pháp câu lệnh rẽ nhánh if-then dạng thiếu là:",
+      "options": [
+        "A. if &lt;điều kiện&gt; then &lt;câu lệnh&gt; ;",
+        "B. if &lt;điều kiện&gt; then &lt;câu lệnh&gt;",
+        "C. if &lt;điều kiện&gt; then &lt;câu lệnh 1&gt; else &lt;câu lệnh 2&gt; ;",
+        "D. if &lt;điều kiện&gt; then &lt;câu lệnh 1&gt; else &lt;câu lệnh 2&gt;"
+      ],
+      "answer": null
+    },
+    {
+      "id": 12,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 12&lt;/strong&gt;: Trong Pascal, câu lệnh ghép được thực hiện khi sau then hoặc else:",
+      "options": [
+        "A. Không có câu lệnh nào",
+        "B. Có câu lệnh",
+        "C. Có nhiều hơn 1 câu lệnh",
+        "D. Có nhiều hơn 2 câu lệnh"
+      ],
+      "answer": null
+    },
+    {
+      "id": 13,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 13&lt;/strong&gt;: Cho đoạn chương trình sau:\nIF &lt;điều kiện&gt; THEN write(x,’la so duong’) ELSE write(x,’la so am’);\n&lt;strong&gt;Điều kiện là biểu thức logic nào dưới đây?&lt;/strong&gt;",
+      "options": [
+        "A. x mod 2 = 0",
+        "B. x > 0",
+        "C. x mod 2 = 1",
+        "D. x < 0"
+      ],
+      "answer": null
+    },
+    {
+      "id": 14,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 14&lt;/strong&gt;: Cho đoạn chương trình sau:\nreadln(x,y);\nIF x > y THEN F:= 2*x – y ELSE\nIF x < y THEN F:= sqr(x) + sqr(y) ELSE F:= 2*x;\n&lt;strong&gt;Nếu nhập vào từ bàn phím x=3 và y=2 thì giá trị của F là:&lt;/strong&gt;",
+      "options": [
+        "A. 13",
+        "B. 6",
+        "C. 4",
+        "D. 0"
+      ],
+      "answer": null
+    },
+    {
+      "id": 15,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 15&lt;/strong&gt;: Cho đoạn chương trình sau:\nT := 0 ;\nFOR i := 1 to 10 DO\nIF i mod 2 = 0 THEN T := T + i ;\n&lt;strong&gt;Sau khi thực hiện, T có giá trị?&lt;/strong&gt;",
+      "options": [
+        "A. 3",
+        "B. 5",
+        "C. 25",
+        "D. 30"
+      ],
+      "answer": null
+    },
+    {
+      "id": 16,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 16&lt;/strong&gt;: Cho đoạn chương trình sau:\nS := 0 ;\nFOR i := 1 to 10 DO\nIF (i mod 3=0) or (i mod 5=0) THEN S := S + 1 ;\n&lt;strong&gt;Sau khi thực hiện, S có giá trị?&lt;/strong&gt;",
+      "options": [
+        "A. 0",
+        "B. 5",
+        "C. 25",
+        "D. 33"
+      ],
+      "answer": null
+    },
+    {
+      "id": 17,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 17&lt;/strong&gt;: Cho đoạn chương trình sau:\nT := 0 ; i:=1;\nWHILE i <= 10 DO\nBEGIN\nIF i mod 2 = 0 THEN T := T + i ;\ni:=i+1;\nEND;\n&lt;strong&gt;Sau khi thực hiện, T có giá trị?&lt;/strong&gt;",
+      "options": [
+        "A. 18",
+        "B. 22",
+        "C. 25",
+        "D. 30"
+      ],
+      "answer": null
+    },
+    {
+      "id": 18,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 18&lt;/strong&gt;: Cú pháp khai báo trực tiếp biến mảng một chiều có dạng:",
+      "options": [
+        "A. Var &lt;tên biến mảng&gt; : array [kiểu chỉ số] of &lt;kiểu phần tử&gt;;",
+        "B. Var &lt;tên biến mảng&gt; = array [kiểu chỉ số] of &lt;kiểu phần tử&gt;;",
+        "C. Var &lt;tên biến mảng&gt; : array [kiểu chỉ số] of &lt;kiểu phần tử&gt;",
+        "D. Var &lt;tên biến mảng&gt; := array [kiểu chỉ số] of &lt;kiểu phần tử&gt;;"
+      ],
+      "answer": null
+    },
+    {
+      "id": 19,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 19&lt;/strong&gt;: Giả sử mảng a gồm các phần tử a[1]=1, a[2]=2, a[3]=3, a[4]=4, a[5]=5.\nCho biết kết quả sau khi thực hiện đoạn chương trình sau:\nS:=0;\nFOR i:=1 to 5 DO\nIF a[i] mod 2 = 0 THEN S:=S+a[i];\nwriteln(‘S = ’,S);",
+      "options": [
+        "A. 6",
+        "B. S = 6",
+        "C. 9",
+        "D. S = 9"
+      ],
+      "answer": null
+    },
+    {
+      "id": 20,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 20&lt;/strong&gt;: Phát biểu nào sau đây có thể lấy làm biểu thức điều kiện trong cấu trúc rẽ nhánh?",
+      "options": [
+        "A. A + B",
+        "B. A * B",
+        "C. A := B",
+        "D. A ≤ B"
+      ],
+      "answer": null
+    }
+  ]
+}

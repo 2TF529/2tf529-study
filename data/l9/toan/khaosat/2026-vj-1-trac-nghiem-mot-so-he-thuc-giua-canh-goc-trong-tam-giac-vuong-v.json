@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-trac-nghiem-mot-so-he-thuc-giua-canh-goc-trong-tam-giac-vuong-v",
+  "sourceId": "vietjack:1-trac-nghiem-mot-so-he-thuc-giua-canh-g",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.Trắc nghiệm Một số hệ thức giữa cạnh, góc trong tam giác vuông và ứng dụng lớp 9 (có đáp án)",
+  "duration": 90,
+  "answerSource": "partial",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: I. Nhận biết Cho hình vẽ dưới đây. Hệ thức nào sau đây đúng?",
+      "options": [
+        "A. \\]",
+        "B. \\[c = a.\\sin B.\\]",
+        "C. \\[c = a.\\tan B.\\]",
+        "D. \\[c = a.\\cos B.\\]"
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Vì tam giác \\[ABC\\] vuông tại \\[A\\] nên: ⦁ \\[c = a.\\cos B = a.\\sin C\\,;\\] ⦁ \\[c = b.\\cot B = b.\\tan C.\\] Vậy ta chọn phương án D."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hình vẽ dưới đây. Hệ thức nào sau đây đúng?",
+      "options": [
+        "A. \\[c = b\\cot B.\\]",
+        "B. \\[b = a\\tan C.\\]",
+        "C. \\[b = c\\tan C.\\]",
+        "D. \\[c = a\\tan B.\\]"
+      ],
+      "answer": null,
+      "note": "Đáp án đúng là: A Vì tam giác \\[ABC\\] vuông tại \\[A\\] nên: ⦁ \\[b = c\\tan B = c\\cot C\\,;\\] ⦁ \\[c = b\\tan C = b\\cot B.\\] Vậy ta chọn phương án A."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho hình vẽ dưới đây. Hệ thức nào sau đây sai?",
+      "options": [
+        "A. \\[DG = \\frac{{EG}}{{\\sin D}}.\\]",
+        "B. \\[DG = \\frac{{DE}}{{\\sin G}}.\\]",
+        "C. \\[DG = \\frac{{EG}}{{\\cos G}}.\\]",
+        "D. \\[DG = \\frac{{EG}}{{\\cot G}}.\\]"
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Vì tam giác \\[DEG\\] vuông tại \\[E\\] nên: ⦁ \\[EG = DG.\\sin D = DG.\\cos G.\\] Suy ra \\[DG = \\frac{{EG}}{{\\sin D}} = \\frac{{EG}}{{\\cos G}}.\\] Do đó phương án A, C là khẳng định đúng. ⦁ \\[DE = DG.\\sin G.\\] Suy ra \\[DG = \\frac{{DE}}{{\\sin G}}.\\] Do đó phương án B là khẳng định đúng. ⦁ \\[EG = DE.\\cot G.\\] Suy ra \\[DE = \\frac{{EG}}{{\\cot G}}.\\] Do đó phương án D là khẳng định sai. Vậy ta chọn phương án D."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Tại một thời điểm trong ngày, các tia nắng mặt trời tạo với phương ngang một góc bằng \\[35^\\circ ,\\] khi đó cột \\[AH\\] có bóng trên mặt đất là đoạn \\[BH\\] dài \\[10,4\\] m. Trong các hệ thức sau, hệ thức nào là đúng?",
+      "options": [
+        "A. \\[AH = 10,4.\\sin 35^\\circ.\\]",
+        "B. \\[AH = 10,4.\\cos 35^\\circ.\\]",
+        "C. \\[AH = 10,4.\\tan 35^\\circ.\\]",
+        "D. \\[AH = 10,4.\\cot 35^\\circ.\\]"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Vì tam giác \\[ABH\\] vuông tại \\[H\\] nên \\[AH = BH.\\tan B = 10,4.\\tan 35^\\circ .\\] Vậy ta chọn phương án C."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Một khúc sông rộng khoảng \\[250\\] m. Một con đò chèo qua sông bị dòng nước đẩy xiên nên phải chèo khoảng \\[320\\] m mới sang được bờ bên kia. Giả sử dòng nước đã đẩy con đò đi lệch một góc \\[\\alpha \\] (hình vẽ). Khi đó để tính giá trị của \\[\\alpha \\], cách đơn giản nhất là sử dụng tỉ số lượng giác nào của góc nhọn \\[\\alpha \\]?",
+      "options": [
+        "A. sin.",
+        "B. côsin.",
+        "C. tang.",
+        "D. côtang."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Theo đề bài, ta có độ dài cạnh góc vuông \\[AB = 250\\] (m) và độ dài cạnh huyền \\[BC = 320\\] (m). Mà cạnh góc vuông \\[AB\\] là cạnh kề của góc nhọn \\[\\alpha \\]. Do đó để tính giá trị của \\[\\alpha \\], cách đơn giản nhất là ta nên sử dụng tỉ số giữa cạnh kề \\[AB\\] và cạnh huyền \\[BC\\] của góc nhọn \\[\\alpha \\]. Tức là sử dụng côsin của góc nhọn \\[\\alpha \\]. Vậy ta chọn phương án B."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: II. Thông hiểu Cho tam giác \\[ABC\\] vuông tại \\[A\\] có \\[AC = 10{\\rm{\\;cm}},\\,\\,\\widehat C = 30^\\circ .\\] Độ dài cạnh \\[AB\\] bằng",
+      "options": [
+        "A. \\[\\frac{{5\\sqrt 3 }}{3}\\] (cm).",
+        "B. \\[\\frac{{10\\sqrt 3 }}{3}\\] (cm).",
+        "C. \\[5\\sqrt 3 \\] (cm).",
+        "D. \\[10\\sqrt 3 \\] (cm)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Vì tam giác \\[ABC\\] vuông tại \\[A\\] nên \\[AB = AC.\\tan C = 10.\\tan 30^\\circ = \\frac{{10\\sqrt 3 }}{3}\\] (cm). Do đó ta chọn phương án B."
+    }
+  ]
+}

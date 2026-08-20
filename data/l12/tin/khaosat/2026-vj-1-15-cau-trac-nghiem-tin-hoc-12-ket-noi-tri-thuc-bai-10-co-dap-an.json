@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-12-ket-noi-tri-thuc-bai-10-co-dap-an",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-12-ket-noi-",
+  "grade": "l12",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 12 Kết nối tri thức Bài 10 có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Câu 1: Siêu văn bản là gì?",
+      "options": [
+        "A. Một loại văn bản chỉ chứa văn bản thuần túy",
+        "B. Văn bản chứa nhiều loại dữ liệu và các liên kết tới siêu văn bản khác",
+        "C. Văn bản chứa hình ảnh và âm thanh",
+        "D. Văn bản chỉ chứa liên kết tới các trang web khác"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Siêu văn bản là văn bản chứa nhiều loại dữ liệu như văn bản, hình ảnh, video, và liên kết tới các siêu văn bản khác, cho phép người dùng dễ dàng truy cập thông tin liên quan."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Đường dẫn tương đối là gì?",
+      "options": [
+        "A. Đường dẫn chứa giao thức và tên miền đầy đủ",
+        "B. Đường dẫn chỉ cần cung cấp tên đường dẫn đến tài liệu trong cùng máy chủ",
+        "C. Đường dẫn chứa thông tin về địa chỉ IP của máy chủ",
+        "D. Đường dẫn chỉ cần chứa tên tệp tin"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Đường dẫn tương đối không chỉ định giao thức hay tên miền mà chỉ cần cung cấp tên đường dẫn đến tài liệu từ vị trí của tài liệu hiện tại trên cùng máy chủ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Thẻ HTML nào được sử dụng để tạo liên kết?",
+      "options": [
+        "A. &lt;link&gt;",
+        "B. &lt;a&gt;",
+        "C. &lt;href&gt;",
+        "D. &lt;anchor&gt;"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Thẻ &lt;a&gt; (anchor) được sử dụng để tạo liên kết trong HTML. Thuộc tính href của thẻ này chứa đường dẫn tới tài liệu hoặc trang web đích."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Để tạo liên kết tới một trang web khác trên Internet, ta sử dụng loại đường dẫn nào?",
+      "options": [
+        "A. Đường dẫn tuyệt đối",
+        "B. Đường dẫn tương đối",
+        "C. Đường dẫn ảo",
+        "D. Đường dẫn tĩnh"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Đường dẫn tuyệt đối chứa đầy đủ thông tin về giao thức, tên miền và đường dẫn đến tài liệu, thường được sử dụng để liên kết tới một trang web khác trên Internet."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Liên kết nội bộ là gì?",
+      "options": [
+        "A. Liên kết tới một trang web khác trên Internet",
+        "B. B Liên kết tới một phần khác của cùng trang web",
+        "C. Liên kết tới một máy chủ khác",
+        "D. Liên kết tới một tài liệu khác trên cùng máy chủ"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Liên kết nội bộ (internal link) là liên kết trỏ tới các trang hoặc vị trí khác trong cùng một trang web, giúp người dùng điều hướng dễ dàng hơn trong trang web đó."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Thẻ HTML nào được sử dụng để tạo mã định danh cho phần tử, giúp liên kết đến vị trí cụ thể trong trang web?",
+      "options": [
+        "A. &lt;class&gt;",
+        "B. &lt;div&gt;",
+        "C. &lt;id&gt;",
+        "D. &lt;section&gt;"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Thuộc tính id được sử dụng để gán một định danh duy nhất cho một phần tử HTML, giúp tạo liên kết đến vị trí cụ thể trong cùng một trang web."
+    }
+  ]
+}

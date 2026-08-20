@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-1-trac-nghiem-bien-co-hop-bien-co-giao-bien-co-doc-lap-lop-11-co-",
+  "sourceId": "vietjack:1-trac-nghiem-bien-co-hop-bien-co-giao-b",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.Trắc nghiệm Biến cố hợp, biến cố giao, biến cố độc lập lớp 11 (có đáp án)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: TRẮC NGHIỆM NHIỀU LỰA CHỌN Cho hai biến cố A và B, nếu việc xảy ra hay không xảy ra của biến cố A không làm ảnh hưởng tới xác suất xảy ra của biến cố B thì hai biến cố A và B được gọi là",
+      "options": [
+        "A. Xung khắc.",
+        "B. Đối nhau.",
+        "C. Độc lập.",
+        "D. Hợp nhau."
+      ],
+      "answer": "C",
+      "note": "C Hai biến cố A và B được gọi là độc lập."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho A và B là hai biến cố độc lập. Mệnh đề nào dưới đây đúng?",
+      "options": [
+        "A. Hai biến cố A và \\(\\overline B \\) không độc lập.",
+        "B. Hai biến cố \\(\\overline A \\) và \\(\\overline B \\) không độc lập.",
+        "C. Hai biến cố \\(\\overline A \\) và B độc lập .",
+        "D. Hai biến cố A và A È B độc lập."
+      ],
+      "answer": "C",
+      "note": "C Hai biến cố A và B độc lập thì hai biến cố \\(\\overline A \\) và B độc lập."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Xét phép thử gieo ngẫu nhiên một con xúc xắc đồng chất sáu mặt. Gọi \\(A\\) là biến cố: \"Số chấm thu được là số chẵn\", \\(B\\) là biến cố: \"Số chấm thu được là số không chia hết cho 4\". Hãy mô tả biến cố giao \\(AB\\) .",
+      "options": [
+        "A. \\(\\{ 2;6\\} \\) .",
+        "B. \\(\\{ 2;4;6\\} \\) .",
+        "C. \\(\\{ 1;2;3;5;6\\} \\) .",
+        "D. \\(\\{ 1;2;3\\} \\) ."
+      ],
+      "answer": "A",
+      "note": "A Ta có: \\(A = \\{ 2;4;6\\} ,B = \\{ 1;2;3;5;6\\} \\) . Suy ra: \\(AB = A \\cap B = \\{ 2;6\\} \\) ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Một hộp chứa 3 bi xanh, 4 bi đỏ, 5 bi vàng. Lấy ngẫu nhiên từ hộp 1 bi. Gọi A là biến cố “Lấy được bi màu xanh”, B là biến cố “Lấy được bi màu đỏ”. Khi đó biến cố A È B là:",
+      "options": [
+        "A. “Lấy được bi màu xanh và bi màu đỏ”.",
+        "B. “Lấy được bi màu xanh hoặc bi màu đỏ”.",
+        "C. “Lấy được bi màu xanh”.",
+        "D. “Lấy được bi màu vàng”."
+      ],
+      "answer": "B",
+      "note": "B A È B “Lấy được bi màu xanh hoặc bi màu đỏ”."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Xét phép thử gieo một con xúc xắc cân đối và đồng chất hai lần liên tiếp. Gọi \\(A\\) là biến cố “Lần đầu xuất hiện mặt 6 chấm” và \\(B\\) là biến cố “Lần thứ hai xuất hiện mặt 6 chấm”. Khẳng định nào sai trong các khẳng định sau?",
+      "options": [
+        "A. Hai biến cố A và B không đồng thời xảy ra .",
+        "B. \\(A \\cup B\\) là biến cố “Ít nhất một lần xuất hiện mặt 6 chấm”.",
+        "C. \\(A \\cap B\\) là biến cố “Tổng số chấm trên mặt xuất hiện của hai lần gieo bằng 12”.",
+        "D. \\[A\\] và \\(B\\) là hai biến cố độc lập."
+      ],
+      "answer": "A",
+      "note": "A Hai biến cố \\(A\\) và \\(B\\) có thể cùng xảy ra. Suy ra \\(A\\) sai"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Lớp 11A có 20 bạn học sinh giỏi Toán, 15 bạn học giỏi Lí và 5 bạn học giỏi cả Toán và Lí. Chọn ngẫu nhiên một bạn trong lớp. Gọi P là biến cố “Bạn được chọn học giỏi Toán” và Q là biến cố “Bạn được chọn học giỏi Lí”. Chọn khẳng định đúng trong các khẳng định sau:",
+      "options": [
+        "A. Biến cố PQ là biến cố “Bạn được chọn học giỏi Toán hoặc Lí”.",
+        "B. Biến cố PQ là một tập hợp gồm 5 phần tử.",
+        "C. Biến cố \\(P\\overline Q \\) là một tập hợp gồm 10 phần tử.",
+        "D. Biến cố P È \\(\\overline Q \\) là biến cố “Bạn được chọn học giỏi Toán hoặc học giỏi Lí nhưng không giỏi cả hai môn cùng lúc”."
+      ],
+      "answer": "B",
+      "note": "B n(PQ) = 5."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu lạc bộ cờ vua của một trường THPT có 20 thành viên ở ba khối, trong đó khối 10 có 3 nam và 2 nữ, khối 11 có 4 nam và 4 nữ, khối 12 có 5 nam và 2 nữ. Giáo viên chọn ngẫu nhiên một thành viên của câu lạc bộ để tham gia thi đấu giao hữu. Xét các biến cố sau: A: “Thành viên được chọn là học sinh khối 11”; B: “Thành viên được chọn là học sinh nam”. Khi đó biến cố A È B là:",
+      "options": [
+        "A. “Thành viên được chọn là học sinh khối 11 và là học sinh nam”.",
+        "B. “Thành viên được chọn là học sinh khối 11 và không là học sinh nam”.",
+        "C. “Thành viên được chọn là học sinh khối 11 hoặc là học sinh nam”.",
+        "D. “Thành viên được chọn không là học sinh khối 11 hoặc là học sinh nam”."
+      ],
+      "answer": "C",
+      "note": "C A È B: “Thành viên được chọn là học sinh khối 11 hoặc là học sinh nam”."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho hai biến cố A và B. Biến cố “A hoặc B xảy ra” được gọi là",
+      "options": [
+        "A. Biến cố giao của A và B.",
+        "B. Biến cố đối của A.",
+        "C. Biến cố hợp của A và B.",
+        "D. Biến cố đối của B."
+      ],
+      "answer": "C",
+      "note": "C Biến cố “A hoặc B xảy ra” được gọi là biến cố hợp của A và B."
+    }
+  ]
+}

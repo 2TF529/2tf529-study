@@ -1,0 +1,104 @@
+{
+  "id": "2026-vj-3-de-kiem-tra-tich-phan-lop-12-co-loi-giai",
+  "sourceId": "vietjack:3-de-kiem-tra-tich-phan-lop-12-co-loi-gi",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "title": "3.Đề kiểm tra Tích phân lớp 12 (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Tính \\(\\int\\limits_{ - 1}^3 {{x^2}{\\rm{d}}x} \\) được kết quả là",
+      "options": [
+        "A. \\(\\frac{{28}}{3}\\).",
+        "B. \\(\\frac{{26}}{3}\\).",
+        "C. \\(\\frac{{25}}{3}\\).",
+        "D. \\(\\frac{{29}}{3}\\)."
+      ],
+      "answer": "A",
+      "note": "Ta có \\(\\int\\limits_{ - 1}^3 {{x^2}{\\rm{d}}x} = \\frac{{{x^3}}}{3}\\left| \\begin{array}{l}^3\\\\_{ - 1}\\end{array} \\right. = \\frac{1}{3}\\left[ {{3^3} - {{\\left( { - 1} \\right)}^3}} \\right] = \\frac{{28}}{3}\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho \\(I = \\int\\limits_{ - 1}^3 {\\left| {2x - 4} \\right|{\\rm{d}}x} \\). Chọn khẳng định đúng.",
+      "options": [
+        "A. \\(I = \\left| {\\int\\limits_{ - 1}^3 {\\left( {2x - 4} \\right){\\rm{d}}x} } \\right|\\).",
+        "B. \\(I = - \\int\\limits_{ - 1}^2 {\\left( {2x - 4} \\right){\\rm{d}}x + } \\int\\limits_2^3 {\\left( {2x - 4} \\right){\\rm{d}}x} \\).",
+        "C. \\(I = \\int\\limits_{ - 1}^2 {\\left( {2x - 4} \\right){\\rm{d}}x + } \\int\\limits_2^3 {\\left( {2x - 4} \\right){\\rm{d}}x} \\).",
+        "D. \\(I = \\int\\limits_{ - 1}^2 {\\left( {2x - 4} \\right){\\rm{d}}x - } \\int\\limits_2^3 {\\left( {2x - 4} \\right){\\rm{d}}x} \\)."
+      ],
+      "answer": "B",
+      "note": "Ta thấy \\(2x - 4 \\ge 0 \\Leftrightarrow x \\ge 2\\). Vậy \\(I = \\int\\limits_{ - 1}^3 {\\left| {2x - 4} \\right|{\\rm{d}}x} \\)\\( = - \\int\\limits_{ - 1}^2 {\\left( {2x - 4} \\right){\\rm{d}}x + } \\int\\limits_2^3 {\\left( {2x - 4} \\right){\\rm{d}}x} \\)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Tính \\(\\int\\limits_1^3 {\\frac{{2{x^2} + 1}}{x}{\\rm{d}}x} \\) được kết quả là",
+      "options": [
+        "A. \\(8 - \\ln 3\\).",
+        "B. \\(8 + 2\\ln 3\\).",
+        "C. \\(8 + \\ln 3\\).",
+        "D. \\(7 + \\ln 3\\)."
+      ],
+      "answer": "C",
+      "note": "Ta có \\(\\int\\limits_1^3 {\\frac{{2{x^2} + 1}}{x}{\\rm{d}}x} = \\int\\limits_1^3 {\\left( {2x + \\frac{1}{x}} \\right){\\rm{d}}x = \\left( {{x^2} + \\ln \\left| x \\right|} \\right)} \\left| \\begin{array}{l}^3\\\\_1\\end{array} \\right. = \\left( {{3^2} + \\ln 3} \\right) - {1^2} = 8 + \\ln 3\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Tính \\(\\int\\limits_0^{\\frac{\\pi }{6}} {{\\rm{cos}}\\,x\\,{\\rm{d}}x} \\) được kết quả là",
+      "options": [
+        "A. \\( - 1\\).",
+        "B. \\( - \\frac{1}{2}\\).",
+        "C. \\(\\frac{1}{2}\\).",
+        "D. \\(1\\)."
+      ],
+      "answer": "C",
+      "note": "Ta có \\(\\int\\limits_0^{\\frac{\\pi }{6}} {{\\rm{cos}}\\,x\\,{\\rm{d}}x} = \\sin x\\left| \\begin{array}{l}^{\\frac{\\pi }{6}}\\\\_0\\end{array} \\right. = \\sin \\frac{\\pi }{6} - \\sin 0 = \\frac{1}{2}\\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Kết quả phép tính \\(\\int\\limits_1^2 {{3^x}dx} \\)bằng",
+      "options": [
+        "A. \\(\\frac{2}{{\\ln 3}}\\).",
+        "B. \\(6\\).",
+        "C. \\(\\frac{{ - 6}}{{\\ln 3}}\\).",
+        "D. \\(\\frac{6}{{\\ln 3}}\\)"
+      ],
+      "answer": "D",
+      "note": "Ta có: \\[\\int\\limits_1^2 {{3^x}dx} = \\left. {\\frac{{{3^x}}}{{\\ln 3}}} \\right|_1^2 = \\frac{9}{{\\ln 3}} - \\frac{3}{{\\ln 3}} = \\frac{6}{{\\ln 3}}\\]"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Biết rằng \\(\\int\\limits_1^3 {f\\left( t \\right)dt} = 4\\). Tính \\(\\int\\limits_1^3 {2f\\left( x \\right)dx} \\)",
+      "options": [
+        "A. \\(2\\).",
+        "B. \\(6\\).",
+        "C. \\(4\\).",
+        "D. \\(8\\)"
+      ],
+      "answer": "D",
+      "note": "Ta có: \\(\\int\\limits_1^3 {f\\left( t \\right)dt} = 4\\)\\( \\Rightarrow \\int\\limits_1^3 {f\\left( x \\right)dx} = 4 \\Rightarrow \\int\\limits_1^3 {2f\\left( x \\right)dx} = 2.\\int\\limits_1^3 {f\\left( x \\right)dx} = 8\\)"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Biết rằng \\(\\int\\limits_0^3 {{{\\left( {2x + 1} \\right)}^2}dx} = \\left. {\\left( {\\frac{a}{3}{x^3} + b{x^2} + cx} \\right)} \\right|_0^3\\). Tính giá trị biểu thức \\(T = a + b + c\\)",
+      "options": [
+        "A. \\(9\\).",
+        "B. \\(5\\).",
+        "C. \\(6\\).",
+        "D. \\(7\\)"
+      ],
+      "answer": "D",
+      "note": "Ta có: \\(\\int\\limits_0^3 {{{\\left( {2x + 1} \\right)}^2}dx} = \\int\\limits_0^3 {\\left( {4{x^2} + 4x + 1} \\right)dx} = \\left. {\\left( {\\frac{4}{3}{x^3} + 2{x^2} + x} \\right)} \\right|_0^3\\). Do vậy \\(T = 4 + 2 + 1 = 7\\)"
+    }
+  ]
+}

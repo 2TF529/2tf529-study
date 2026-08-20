@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-1-bai-tap-on-tap-toan-11-chan-troi-sang-tao-chuong-9-co-dap-an",
+  "sourceId": "vietjack:1-bai-tap-on-tap-toan-11-chan-troi-sang-",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.Bài tập ôn tập Toán 11 Chân trời sáng tạo Chương 9 có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: A. Trắc nghiệm Dạng 1. Trắc nghiệm nhiều phương án lựa chọn Mỗi câu hỏi thí sinh chỉ chọn một phương án. Trong một cuộc khảo sát số người mắc bệnh trong mùa hè ở Quảng Trị, người ta chọn ngẫu nhiên một gia đình ở Quảng Trị. Xét các biến cố sau: \\(A\\) : “Gia đình đó có người mắc bệnh sốt xuất huyết”. \\(B\\) : “Gia đình đó có người bị ngộ độc thực phẩm”. \\(C\\) : “Gia đình đó có người mắc bệnh sốt xuất huyết và có người bị ngộ độc thực phẩm”. Khẳng định nào sau đây đúng ?",
+      "options": [
+        "A. \\(C = A\\overline B \\) .",
+        "B. \\(C = \\overline A B\\) .",
+        "C. \\(C = A \\cup B\\) .",
+        "D. \\(C = AB\\) ."
+      ],
+      "answer": "D",
+      "note": "\\(C = AB\\) : “Gia đình đó có người mắc bệnh sốt xuất huyết và có người bị ngộ độc thực phẩm”. Chọn D ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Một hộp có 5 quả cầu xanh khác nhau và 6 quả cầu trắng khác nhau. Lấy ngẫu nhiên đồng thời 2 quả cầu. Gọi biến cố \\(A\\) : “Lấy được hai quả cầu màu xanh”, biến cố \\(B\\) : “Lấy được hai quả cầu màu trắng”. Biến cố hợp của hai biến cố \\(A\\) và \\(B\\) được phát biểu là:",
+      "options": [
+        "A. Hai quả cầu lấy ra cùng màu.",
+        "B. Hai quả cầu lấy ra khác màu.",
+        "C. Hai quả cầu lấy ra cùng màu trắng.",
+        "D. Hai quả cầu lấy ra cùng màu xanh."
+      ],
+      "answer": "A",
+      "note": "\\(A \\cup B\\) là biến cố: “Hai quả cầu lấy ra cùng màu”. Chọn A ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho hai biến cố độc lập \\(A,B\\) biết \\(P\\left( A \\right) = \\frac{1}{3},P\\left( {A \\cap B} \\right) = \\frac{2}{{15}}\\) . Tính \\(P\\left( B \\right)\\) .",
+      "options": [
+        "A. \\(\\frac{2}{5}\\) .",
+        "B. \\(\\frac{2}{{45}}\\) .",
+        "C. \\(\\frac{{11}}{{15}}\\) .",
+        "D. \\(\\frac{7}{{15}}\\) ."
+      ],
+      "answer": "A",
+      "note": "Vì \\(A,B\\) là hai biến cố độc lập nên \\(P\\left( {A \\cap B} \\right) = P\\left( A \\right) \\cdot P\\left( B \\right)\\)\\( \\Rightarrow P\\left( B \\right) = \\frac{2}{{15}}:\\frac{1}{3} = \\frac{2}{5}\\) . Chọn A ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Hai vận động viên đứng ở vị trí như nhau ném bóng vào rổ, mỗi người ném một lần với xác suất ném trúng rổ tương ứng là \\(0,8\\) và \\(0,7\\) . Tính xác suất để có ít nhất một vận động viên ném trúng rổ.",
+      "options": [
+        "A. \\(0,42\\) .",
+        "B. \\(0,9\\) .",
+        "C. \\(0,94\\) .",
+        "D. \\(0,234\\) ."
+      ],
+      "answer": "C",
+      "note": "Gọi \\(A\\) là biến cố “Người thứ nhất ném trúng rổ”; \\(B\\) là biến cố “Người thứ hai ném trúng rổ”; \\(C\\) là biến cố “Ít nhất một vận động viên ném trúng rổ”. Khi đó \\(C = A \\cup B\\) . Khi đó \\(P\\left( C \\right) = 1 - P\\left( {\\overline A \\overline B } \\right) = 1 - P\\left( {\\overline A } \\right) \\cdot P\\left( {\\overline B } \\right) = 1 - 0,2 \\cdot 0,3 = 0,94\\) . Chọn C ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Hộp thứ nhất đựng 5 thẻ được đánh số từ 1 đến 5. Hộp thứ hai đựng 6 thẻ được đánh số từ 1 đến 6. Lấy ra ngoài ngẫu nhiên mỗi hộp một thẻ. Gọi \\(A\\) là biến cố “Tổng các số ghi trên hai thẻ bằng 8”, \\(B\\) là biến cố “Tích các số ghi trên hai thẻ là số chẵn”. Tính \\(P\\left( {AB} \\right)\\) .",
+      "options": [
+        "A. \\(\\frac{1}{{15}}\\) .",
+        "B. \\(\\frac{2}{{15}}\\) .",
+        "C. \\(\\frac{4}{{15}}\\) .",
+        "D. \\(\\frac{1}{{30}}\\) ."
+      ],
+      "answer": "A",
+      "note": "Số phần tử của không gian mẫu là \\(5 \\cdot 6 = 30\\) . Ta có \\(AB\\) là biến cố “Tổng các số ghi trên thẻ bằng 8 và tích các số ghi trên thẻ là số chẵn”. Khi đó \\(AB = \\left\\{ {\\left( {2;6} \\right);\\left( {4;4} \\right)} \\right\\}\\)\\( \\Rightarrow n\\left( {AB} \\right) = 2\\) . Do đó \\(P\\left( {AB} \\right) = \\frac{2}{{30}} = \\frac{1}{{15}}\\) . Chọn A ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho \\(A\\) và \\(B\\) là hai biến cố độc lập với nhau. Biết \\(P\\left( A \\right) = 0,8\\) và \\(P\\left( {AB} \\right) = 0,5\\) . Tính xác suất của biến cố \\(A\\overline B \\) .",
+      "options": [
+        "A. \\(0,18\\) .",
+        "B. \\(0,3\\) .",
+        "C. \\(0,1\\) .",
+        "D. \\(0,28\\) ."
+      ],
+      "answer": "B",
+      "note": "Vì \\(A\\) và \\(B\\) là hai biến cố độc lập nên \\(A\\) và \\(\\overline B \\) cũng là hai biến cố độc lập. Ta có \\(P\\left( {AB} \\right) = P\\left( A \\right) \\cdot P\\left( B \\right) \\Rightarrow P\\left( B \\right) = 0,5:0,8 = 0,625 \\Rightarrow P\\left( {\\overline B } \\right) = 0,375\\) . Có \\(P\\left( {A\\overline B } \\right) = P\\left( A \\right) \\cdot P\\left( {\\overline B } \\right) = 0,8 \\cdot 0,375 = 0,3\\) . Chọn B ."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Một hộp đựng 18 thẻ được đánh số từ 1 đến 18, hai thẻ khác nhau đánh hai số khác nhau. Rút ngẫu nhiên một tấm thẻ, tính xác suất để rút được thẻ đánh số chia hết cho 3 hoặc 5.",
+      "options": [
+        "A. \\(\\frac{1}{6}\\) .",
+        "B. \\(\\frac{1}{3}\\) .",
+        "C. \\(\\frac{4}{9}\\) .",
+        "D. \\(\\frac{1}{2}\\) ."
+      ],
+      "answer": "C",
+      "note": "Gọi \\(A\\) là biến cố “Rút được thẻ chia hết cho 3”. Suy ra \\(A = \\left\\{ {3;6;9;12;15;18} \\right\\} \\Rightarrow P\\left( A \\right) = \\frac{6}{{18}} = \\frac{1}{3}\\) . \\(B\\) là biến cố “Rút được thẻ chia hết cho 5”. Suy ra \\(B = \\left\\{ {5;10;15} \\right\\}\\)\\( \\Rightarrow P\\left( B \\right) = \\frac{3}{{18}} = \\frac{1}{6}\\) . \\(AB\\) là biến cố “Rút được thẻ chia hết cho cả 3 và 5”. Suy ra \\(AB = \\left\\{ {15} \\right\\} \\Rightarrow P\\left( {AB} \\right) = \\frac{1}{{18}}\\) . Do đó \\(P\\left( {A \\cup B} \\right) = P\\left( A \\right) + P\\left( B \\right) - P\\left( {AB} \\right) = \\frac{1}{3} + \\frac{1}{6} - \\frac{1}{{18}} = \\frac{4}{9}\\) . Chọn C ."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Một hộp đựng 4 viên bi xanh, 3 viên bi đỏ và 4 viên bi vàng. Chọn ngẫu nhiên đồng thời 2 viên bi từ hộp. Xác suất để chọn được hai viên bi cùng màu là",
+      "options": [
+        "A. \\(\\frac{2}{9}\\) .",
+        "B. \\(\\frac{2}{3}\\) .",
+        "C. \\(\\frac{5}{{18}}\\) .",
+        "D. \\(\\frac{3}{{11}}\\) ."
+      ],
+      "answer": "D",
+      "note": "Gọi \\(A\\) là biến cố “Lấy được 2 viên bi xanh”; \\(B\\) là biến cố “Lấy được 2 viên bi đỏ”; \\(C\\) là biến cố “Lấy được 2 viên bi vàng”. Khi đó \\(A \\cup B \\cup C\\) là biến cố “Lấy được 2 viên bi cùng màu”. Ta có \\(P\\left( {A \\cup B \\cup C} \\right) = P\\left( A \\right) + P\\left( B \\right) + P\\left( C \\right) = \\frac{{C_4^2}}{{C_{11}^2}} + \\frac{{C_3^2}}{{C_{11}^2}} + \\frac{{C_4^2}}{{C_{11}^2}} = \\frac{3}{{11}}\\) . Chọn D ."
+    }
+  ]
+}

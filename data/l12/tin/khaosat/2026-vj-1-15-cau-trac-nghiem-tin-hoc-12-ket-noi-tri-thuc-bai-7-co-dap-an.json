@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-12-ket-noi-tri-thuc-bai-7-co-dap-an",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-12-ket-noi-",
+  "grade": "l12",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 12 Kết nối tri thức Bài 7 có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Câu 1: hẻ HTML được viết trong cặp dấu nào?",
+      "options": [
+        "A. { }",
+        "B. [ ]",
+        "C. ( )",
+        "D. &lt; &gt;"
+      ],
+      "answer": "D",
+      "note": "Đáp án: D Giải thích: Các thẻ HTML được viết trong cặp dấu &lt; và &gt;. Thẻ bắt đầu và thẻ kết thúc của một phần tử HTML được xác định bằng cách sử dụng dấu &lt; và &gt;, với thẻ kết thúc có thêm dấu gạch chéo /."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Tên thẻ HTML có phân biệt chữ hoa và chữ thường không?",
+      "options": [
+        "A. Có, luôn phải viết chữ hoa",
+        "B. Có, luôn phải viết chữ thường",
+        "C. Không phân biệt, nhưng thường viết chữ thường",
+        "D. Không phân biệt, nhưng thường viết chữ hoa"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: HTML không phân biệt chữ hoa và chữ thường cho tên thẻ, nhưng quy ước chung là viết bằng chữ thường."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Thẻ HTML nào dưới đây là thẻ đơn?",
+      "options": [
+        "A. &lt;div&gt;",
+        "B. &lt;img&gt;",
+        "C. &lt;h1&gt;",
+        "D. D . &lt;p&gt;"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Thẻ &lt;img&gt; là một thẻ đơn, chỉ có thẻ bắt đầu và không có thẻ kết thúc."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Phần tử nào chứa toàn bộ nội dung HTML của trang web?",
+      "options": [
+        "A. &lt;head&gt;",
+        "B. &lt;body&gt;",
+        "C. &lt;html&gt;",
+        "D. &lt;footer&gt;"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Phần tử &lt;html&gt; chứa toàn bộ nội dung HTML của trang web, bao gồm cả &lt;head&gt; và &lt;body&gt;."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Thẻ nào dùng để đặt tên cho trang web, xuất hiện trong kết quả tìm kiếm?",
+      "options": [
+        "A. &lt;meta&gt;",
+        "B. &lt;title&gt;",
+        "C. &lt;header&gt;",
+        "D. &lt;script&gt;"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Thẻ &lt;title&gt; được sử dụng để đặt tên cho trang web, và tên này thường xuất hiện trên tab của trình duyệt và trong kết quả tìm kiếm."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Phần tử HTML nào chứa nội dung hiển thị của trang web?",
+      "options": [
+        "A. A &lt;header&gt;",
+        "B. &lt;body&gt;",
+        "C. &lt;main&gt;",
+        "D. &lt;footer&gt;"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Phần tử &lt;body&gt; chứa nội dung chính của trang web, bao gồm văn bản, hình ảnh, và các phần tử khác."
+    }
+  ]
+}

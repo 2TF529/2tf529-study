@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-3-10-bai-tap-xac-dinh-so-nghiem-cua-phuong-trinh-bac-hai-va-bai-t",
+  "sourceId": "vietjack:3-10-bai-tap-xac-dinh-so-nghiem-cua-phuo",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.10 bài tập Xác định số nghiệm của phương trình bậc hai và bài toán tìm tham số để phương trình bậc hai chứa tham số thỏa mãn yêu cầu về số nghiệm có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Phương trình nào sau đây có hai nghiệm phân biệt?",
+      "options": [
+        "A. x 2 – x + 5 = 0.",
+        "B. x 2 – 6x + 25 = 0.",
+        "C. –x 2 – 6x – 9 = 0.",
+        "D. x 2 – 9x – 11 = 0."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Phương trình x 2 – x + 5 = 0 có ∆ = (–1) 2 – 4.1.5 = –19 < 0 nên phương trình này vô nghiệm. Phương trình x 2 – 6x + 25 = 0 có ∆' = (–3) 2 – 1.25 = –16 < 0 nên phương trình này vô nghiệm. Phương trình –x 2 – 6x – 9 = 0 có ∆' = (–3) 2 – (–1).(–9) = 0 nên phương trình này có nghiệm kép. Phương trình x 2 – 9x – 11 = 0 có ∆ = (–9) 2 – 4.1.(–11) = 125 > 0 nên phương trình này có hai nghiệm phân biệt. Vậy ta chọn phương án D."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Phương trình nào sau đây có nghiệm kép?",
+      "options": [
+        "A. –x 2 – 4x + 4 = 0.",
+        "B. x 2 – 4x – 4 = 0.",
+        "C. –x 2 + 4x – 4 = 0.",
+        "D. –x 2 + 4x + 4 = 0."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Phương trình –x 2 – 4x + 4 = 0 có ∆' = (–2) 2 – (–1).4 = 8 > 0 nên phương trình này có hai nghiệm phân biệt. Phương trình x 2 – 4x – 4 = 0 có ∆' = (–2) 2 – 1.(–4) = 8 > 0 nên phương trình này có hai nghiệm phân biệt. Phương trình –x 2 + 4x – 4 = 0 có ∆' = 2 2 – (–1).(–4) = 0 nên phương trình này có nghiệm kép. Phương trình –x 2 + 4x + 4 = 0 có ∆' = 2 2 – (–1).4 = 8 > 0 nên phương trình này có hai nghiệm phân biệt. Vậy ta chọn phương án C."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Phương trình nào sau đây vô nghiệm?",
+      "options": [
+        "A. x 2 – 5x + 4 = 0.",
+        "B. 3x 2 – 6x + 3 = 0.",
+        "C. 3x 2 – 12x + 4 = 0.",
+        "D. –3x 2 + 8x – 9 = 0."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D ⦁ Phương trình x 2 – 5x + 4 = 0 có các hệ số a = 1, b = –5, c = 4. Ta có ∆ = (–5) 2 – 4.1.4 = 9 > 0, nên phương trình đã cho có hai nghiệm phân biệt. ⦁ Phương trình 3x 2 – 6x + 3 = 0 có các hệ số a = 3, b' = –3, c = 3. Ta có ∆' = (–3) 2 – 3.3 = 0, nên phương trình đã cho có nghiệm kép. ⦁ Phương trình 3x 2 – 12x + 4 = 0 có các hệ số a = 3, b' = –6, c = 4. Ta có ∆' = (–6) 2 – 3.4 = 24 > 0, nên phương trình đã cho có hai nghiệm phân biệt. ⦁ Phương trình –3x 2 + 8x – 9 = 0 có các hệ số a = –3, b' = 4, c = –9. Ta có ∆' = 4 2 – (–3).(–9) = –11 < 0, nên phương trình đã cho vô nghiệm. Vậy ta chọn phương án D."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho phương trình 5x 2 – x – 1 = x 2 – 4. Khẳng định nào sau đây là sai?",
+      "options": [
+        "A. Phương trình đưa được về dạng phương trình bậc hai một ẩn.",
+        "B. Phương trình vô nghiệm.",
+        "C. Phương trình có ∆ = –13.",
+        "D. Phương trình đưa về dạng ax 2 + bx + c = 0 với a = 4, b = –1, c = 3."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Phương trình: 5x 2 – x – 1 = x 2 – 4 5x 2 – x – 1 – x 2 + 4 = 0 4x 2 – x + 3 = 0. Như vậy, phương trình đã cho đưa được về dạng phương trình bậc hai một ẩn ax 2 + bx + c = 0 (a ≠ 0) với a = 4, b = –1, c = 3. Khi đó, ta có ∆ = (–1) 2 – 4.4.3 = –47 < 0, nên phương trình đã cho vô nghiệm. Vậy phương án C là khẳng định sai, ta chọn phương án C."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Phương trình ax 2 + bx + c = 0 (a ≠ 0) có 1 giá trị nghiệm khi",
+      "options": [
+        "A. ∆ > 0.",
+        "B. ∆' = 0.",
+        "C. ∆' < 0.",
+        "D. ∆ ≤ 0."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Phương trình ax 2 + bx + c = 0 (a ≠ 0) có 1 giá trị nghiệm khi ∆ = 0 hoặc ∆' = 0."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho phương trình x 2 – (2m + 1)x + m = 0 với m là tham số. Khẳng định nào sau đây là đúng?",
+      "options": [
+        "A. Phương trình có nghiệm duy nhất với mọi m.",
+        "B. Phương trình luôn có nghiệm với mọi m.",
+        "C. Phương trình có nghiệm kép khi \\(m = \\frac{1}{2}.\\)",
+        "D. Phương trình vô nghiệm khi \\(m < \\frac{1}{2}.\\)"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Phương trình x 2 – (2m + 1)x + m = 0 là phương trình bậc hai một ẩn, có: ∆ = [–(2m + 1)] 2 – 4.1.m = 4m 2 + 4m + 1 – 4m = 4m 2 + 1. Với mọi m ta luôn có m 2 ≥ 0 nên 4m 2 + 1 ≥ 1 > 0, hay ∆ > 0. Do đó, với mọi m thì phương trình đã cho luôn có hai nghiệm phân biệt, tức là luôn có nghiệm với mọi m."
+    }
+  ]
+}

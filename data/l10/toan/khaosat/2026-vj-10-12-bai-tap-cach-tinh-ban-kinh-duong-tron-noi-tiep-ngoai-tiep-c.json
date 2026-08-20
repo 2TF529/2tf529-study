@@ -1,0 +1,65 @@
+{
+  "id": "2026-vj-10-12-bai-tap-cach-tinh-ban-kinh-duong-tron-noi-tiep-ngoai-tiep-c",
+  "sourceId": "vietjack:10-12-bai-tap-cach-tinh-ban-kinh-duong-t",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "10.12 Bài tập Cách tính bán kính đường tròn nội tiếp, ngoại tiếp của tam giác (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 3: Tam giác ABC có a = 20, b = 15, c = 9. B án kính r của đường tròn nội tiếp tam giác đã cho gần với giá trị nào dưới đây?",
+      "options": [
+        "A. 1,38;",
+        "B. 2,75;",
+        "C. 4,38;",
+        "D. 5,75."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải: Đáp án đúng là: D. Ta có \\(p = \\frac{1}{2}\\left( {a + b + c} \\right) = \\frac{1}{2}\\left( {20 + 15 + 9} \\right) = 22\\). Do đó diện tích tam giác ABC là: \\(S = \\sqrt {p\\left( {p - a} \\right)\\left( {p - b} \\right)\\left( {p - c} \\right)} = \\sqrt {22.\\left( {22 - 20} \\right).\\left( {22 - 15} \\right).\\left( {22 - 9} \\right)} = 2\\sqrt {1001} \\) . Lại có \\(S = p.r \\Rightarrow r = \\frac{S}{p} = \\frac{{2\\sqrt {1001} }}{{22}} \\approx 5,75\\)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 4: Cho tam giác ABC có AB = 4, AC = 8 và \\(\\widehat A = 30^\\circ \\) . Tính bán kính R của đường tròn ngoại tiếp tam giác ABC .",
+      "options": [
+        "A. 7;",
+        "B. 6;",
+        "C. 5;",
+        "D. 4."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải: Đáp án đúng là: C. Tam giác ABC có: \\(B{C^2} = A{B^2} + A{C^2} - 2AB.AC.\\cos A\\) Thay số: \\(B{C^2} = {4^2} + {8^2} - 2.4.8.\\cos 30^\\circ = 80 - 32\\sqrt 3 \\) Do đó: BC ≈ 5. Ta có: \\(\\frac{{BC}}{{\\sin A}} = 2R\\)\\( \\Rightarrow R = \\frac{{BC}}{{2\\sin A}} \\approx \\frac{5}{{2.\\sin 30^\\circ }} = 5\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 5: Cho tam giác ABC biết a = 21 cm, b = 17 cm, c = 10. Tính bán kính R của đường tròn ngoại tiếp tam giác ABC.",
+      "options": [
+        "A. 5,625;",
+        "B. 10,625;",
+        "C. 15,625;",
+        "D. 20,625."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải: Đáp án đúng là: B. Nửa chu vi tam giác ABC là: \\(p = \\frac{1}{2}\\left( {a + b + c} \\right) = \\frac{1}{2}\\left( {21 + 17 + 10} \\right) = 24\\) . Do đó diện tích tam giác ABC bằng: \\(S = \\sqrt {p\\left( {p - a} \\right)\\left( {p - b} \\right)\\left( {p - c} \\right)} = 84\\) Mặt khác \\(S = \\frac{{abc}}{{4R}} \\Rightarrow R = \\frac{{abc}}{{4S}} = \\frac{{21.17.10}}{{4.84}} = 10,625\\) ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 6: Tam giác DEF có DE = 5, DF = 8 và \\(\\widehat {EDF} = 50^\\circ \\) . B án kính r của đường tròn nội tiếp tam giác đã cho gần nhất với giá trị nào sau đây ?",
+      "options": [
+        "A. 1,5;",
+        "B. 15;",
+        "C. 2;",
+        "D. 20."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A. Theo định lí côsin ta có: \\[E{F^2} = D{E^2} + D{F^2} - 2.DF.DF\\] \\( \\Rightarrow \\)\\(E{F^2} = {5^2} + {8^2} - 2.5.8.\\cos 50^\\circ \\approx 37,58\\) \\( \\Rightarrow EF \\approx 6,13\\) . Ta có \\(p = \\frac{1}{2}\\left( {DE + DF + EF} \\right) \\approx \\frac{1}{2}\\left( {5 + 8 + 6,13} \\right) = 9,565\\). Do đó diện tích tam giác ABC là: \\(S = \\sqrt {p\\left( {p - DE} \\right)\\left( {p - DF} \\right)\\left( {p - EF} \\right)} \\approx 15,32\\). Lại có \\(S = p.r \\Rightarrow r = \\frac{S}{p} \\approx \\frac{{15,32}}{{9,565}} \\approx 1,6\\)."
+    }
+  ]
+}

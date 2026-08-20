@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-13-32-bai-tap-toan-9-canh-dieu-bai-1-ti-so-luong-giac-cua-goc-nho",
+  "sourceId": "vietjack:13-32-bai-tap-toan-9-canh-dieu-bai-1-ti-",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "13.32 bài tập Toán 9 Cánh diều Bài 1. Tỉ số lượng giác của góc nhọn có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho tam giác \\[MNP\\] vuông tại \\[M\\] có góc nhọn \\[P\\] bằng \\[\\alpha .\\] Khi đó \\[\\cos \\alpha \\] bằng",
+      "options": [
+        "A. \\[\\cos \\alpha = \\frac{{MP}}{{NP}}.\\]",
+        "B. \\[\\cos \\alpha = \\frac{{MN}}{{MP}}.\\]",
+        "C. \\[\\cos \\alpha = \\frac{{MN}}{{NP}}.\\]",
+        "D. \\[\\cos \\alpha = \\frac{{MP}}{{MN}}.\\]"
+      ],
+      "answer": "A",
+      "note": "Chọn A Theo định nghĩa tỉ số lượng giác trong tam giác vuông, ta có tam giác \\[MNP\\] vuông tại \\[M\\] nên \\[\\cos \\alpha = \\frac{{MP}}{{NP}}.\\]"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho góc nhọn \\[\\alpha .\\] Khẳng định nào sau đây đúng?",
+      "options": [
+        "A. \\[0 < \\sin \\alpha < 1\\,;\\,\\,0 < \\cos \\alpha < 1.\\]",
+        "B. \\[ - 1 < \\sin \\alpha < 1\\,;\\,\\, - 1 < \\cos \\alpha < 1.\\]",
+        "C. \\[ - 1 < \\sin \\alpha < 0\\,;\\,\\, - 1 < \\cos \\alpha < 0.\\]",
+        "D. \\[ - 1 \\le \\sin \\alpha < 0\\,;\\,\\, - 1 \\le \\cos \\alpha < 0.\\]"
+      ],
+      "answer": "A",
+      "note": "Chọn A Theo định nghĩa tỉ số lượng giác trong tam giác vuông, ta có các tỉ số lượng giác của góc nhọn \\[\\alpha \\] luôn dương và \\[\\sin \\alpha < 1\\,;\\,\\,\\cos \\alpha < 1.\\] Do đó \\[0 < \\sin \\alpha < 1\\,;\\,\\,0 < \\cos \\alpha < 1.\\]"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho \\[\\beta \\] là góc nhọn bất kì. Khẳng định nào sau đây đúng?",
+      "options": [
+        "A. \\[\\sin \\beta = \\frac{1}{{\\tan \\beta }}.\\]",
+        "B. \\[\\cos \\beta = \\frac{1}{{\\tan \\beta }}.\\]",
+        "C. \\[\\cot \\beta = \\frac{1}{{\\tan \\beta }}.\\]",
+        "D. \\[\\cot \\beta = \\frac{1}{{\\sin \\beta }}.\\]"
+      ],
+      "answer": "C",
+      "note": "Chọn C Theo định nghĩa tỉ số lượng giác trong tam giác vuông, ta có \\[\\cot \\beta = \\frac{1}{{\\tan \\beta }}.\\]"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho tam giác vuông có góc nhọn \\[\\alpha .\\] Khẳng định nào sau đây sai?",
+      "options": [
+        "A. Tỉ số giữa cạnh đối và cạnh kề được gọi là tang của góc \\[\\alpha ,\\] kí hiệu \\[\\tan \\alpha .\\]",
+        "B. Tỉ số giữa cạnh đối và cạnh huyền được gọi là sin của góc \\[\\alpha ,\\] kí hiệu \\[\\sin \\alpha .\\]",
+        "C. Tỉ số giữa cạnh huyền và cạnh kề được gọi là côsin của góc \\[\\alpha ,\\] kí hiệu \\[\\cot \\alpha .\\]",
+        "D. Tỉ số giữa cạnh kề và cạnh huyền được gọi là côsin của góc \\[\\alpha ,\\] kí hiệu \\[\\cos \\alpha .\\]"
+      ],
+      "answer": "C",
+      "note": "Chọn C Phương án A, B, D đúng. Phương án C sai. Sửa lại: Tỉ số giữa cạnh kề và cạnh đối được gọi là côtang của góc \\[\\alpha ,\\] kí hiệu \\[\\cot \\alpha .\\]"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho \\[\\alpha ,\\beta \\] là hai góc phụ nhau. Kết luận nào sau đây đúng?",
+      "options": [
+        "A. \\[\\sin \\alpha = \\cot \\beta .\\]",
+        "B. \\[\\sin \\alpha = \\tan \\beta .\\]",
+        "C. \\[\\sin \\alpha = \\cos \\beta .\\]",
+        "D. \\[{\\rm{cos}}\\alpha = \\cot \\beta .\\]"
+      ],
+      "answer": "C",
+      "note": "Chọn C Vì \\[\\alpha ,\\beta \\] là hai góc phụ nhau nên \\[\\beta = 90^\\circ - \\alpha .\\] Theo định lí tỉ số lượng giác của hai góc phụ nhau, ta có: \\[\\sin \\alpha = \\cos \\left( {90^\\circ - \\alpha } \\right) = \\cos \\beta ;\\] \\[\\tan \\alpha = \\cot \\left( {90^\\circ - \\alpha } \\right) = \\cot \\beta .\\]"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho tam giác \\[ABC\\] vuông tại \\[A.\\] Trong các khẳng định sau, khẳng định nào đúng?",
+      "options": [
+        "A. \\[\\sin B = \\tan C.\\]",
+        "B. \\[\\tan B = \\cos C.\\]",
+        "C. \\[\\sin C = \\cos B.\\]",
+        "D. \\[\\frac{{AB}}{{AC}} = \\frac{{\\cos C}}{{\\cos B}}.\\]"
+      ],
+      "answer": "C",
+      "note": "Chọn C Cách 1. Do tam giác \\[ABC\\] vuông tại \\[A\\] nên ⦁ \\[\\sin B = \\frac{{AC}}{{BC}}\\] và \\[\\tan C = \\frac{{AB}}{{AC}}.\\] Suy ra \\[\\sin B \\ne \\tan C.\\] Do đó phương án A sai. ⦁ \\[\\tan B = \\frac{{AC}}{{AB}}\\] và \\[\\cos C = \\frac{{AC}}{{BC}}.\\] Suy ra \\[\\tan B \\ne \\cos C.\\] Do đó phương án B sai. ⦁ \\[\\sin C = \\frac{{AB}}{{BC}}\\] và \\[\\cos B = \\frac{{AB}}{{BC}}.\\] Suy ra \\[\\sin C = \\cos B.\\] Do đó phương án C đúng. ⦁ \\[\\cos B = \\frac{{AB}}{{BC}}\\] và \\[\\cos C = \\frac{{AC}}{{BC}}.\\] Suy ra \\[\\frac{{\\cos C}}{{\\cos B}} = \\frac{{AC}}{{BC}}:\\frac{{AB}}{{BC}} = \\frac{{AC}}{{BC}} \\cdot \\frac{{BC}}{{AB}} = \\frac{{AC}}{{AB}} \\ne \\frac{{AB}}{{AC}}.\\] Do đó phương án D sai. Vậy ta chọn phương án C. Cách 2. Vì tam giác \\[ABC\\] vuông tại \\[A\\] nên \\(\\widehat {B\\,} + \\widehat {C\\,} = 90^\\circ ,\\) do đó hai góc \\(B\\) và \\(C\\) là hai góc phụ nhau. Do đó \\[\\sin B = \\cos C;\\,\\,\\cos B = \\sin C;\\,\\,\\tan B = \\cot C;\\,\\,\\cot B = \\tan C.\\]"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Cho tam giác \\[ABC\\] vuông tại \\[C\\] có \\[AC = 1{\\rm{\\;cm}},\\,\\,BC = 2{\\rm{\\;cm}}.\\] Tỉ số lượng giác \\[\\sin B,\\,\\,\\cos B\\] là",
+      "options": [
+        "A. \\[\\sin B = \\frac{{\\sqrt 5 }}{5};\\cos B = \\frac{{2\\sqrt 5 }}{5}.\\]",
+        "B. \\[\\sin B = \\frac{1}{{\\sqrt 3 }};\\cos B = \\frac{{2\\sqrt 3 }}{3}.\\]",
+        "C. \\[\\sin B = \\frac{{2\\sqrt 5 }}{5};\\cos B = \\frac{{\\sqrt 5 }}{5}.\\]",
+        "D. \\[\\sin B = \\frac{1}{2};\\cos B = \\frac{2}{{\\sqrt 5 }}.\\]"
+      ],
+      "answer": "A",
+      "note": "Chọn A Áp dụng định lí Pythagore cho tam giác \\[ABC\\] vuông tại \\[C\\], ta được: \\[A{B^2} = A{C^2} + B{C^2} = {1^2} + {2^2} = 5.\\] Suy ra \\[AB = \\sqrt 5 {\\rm{\\;(cm)}}{\\rm{.}}\\] Vì tam giác \\[ABC\\] vuông tại \\[C\\] nên \\[\\sin B = \\frac{{AC}}{{AB}} = \\frac{1}{{\\sqrt 5 }} = \\frac{{\\sqrt 5 }}{5};\\,\\,\\cos B = \\frac{{BC}}{{AB}} = \\frac{2}{{\\sqrt 5 }} = \\frac{{2\\sqrt 5 }}{5}.\\]"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho tam giác \\[ABC\\] vuông tại \\[C\\] có \\[AC = 1,2{\\rm{\\;cm}},\\,\\,AB = 1,5{\\rm{\\;cm}}.\\] Tỉ số lượng giác \\[\\tan B\\] là",
+      "options": [
+        "A. \\[\\tan B = \\frac{{4\\sqrt {41} }}{{41}}.\\]",
+        "B. \\[\\tan B = \\frac{4}{3}.\\]",
+        "C. \\[\\tan B = \\frac{3}{4}.\\]",
+        "D. \\[\\tan B = \\frac{4}{5}.\\]"
+      ],
+      "answer": "B",
+      "note": "Chọn B Áp dụng định lí Pythagore cho tam giác \\[ABC\\] vuông tại \\[C\\], ta được: \\[B{C^2} = A{B^2} - A{C^2} = {1,5^2} - {1,2^2} = 0,81.\\] Suy ra \\[BC = 0,9{\\rm{\\;(cm)}}{\\rm{.}}\\] Vì tam giác \\[ABC\\] vuông tại \\[C\\] nên \\[\\tan B = \\frac{{AC}}{{BC}} = \\frac{{1,2}}{{0,9}} = \\frac{4}{3}.\\]"
+    }
+  ]
+}

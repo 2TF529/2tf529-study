@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-1-bo-5-de-thi-cuoi-ki-2-toan-10-chan-troi-sang-tao-cau-truc-moi-c",
+  "sourceId": "vietjack:1-bo-5-de-thi-cuoi-ki-2-toan-10-chan-tro",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "cuoiki2",
+  "year": 2026,
+  "title": "1.Bộ 5 đề thi cuối kì 2 Toán 10 Chân trời sáng tạo cấu trúc mới (có tự luận) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: TRẮC NGHIỆM KHÁCH QUAN A. TRẮC NGHIỆM NHIỀU PHƯƠNG ÁN LỰA CHỌN. Thí sinh trả lời từ câu 1 đến câu 12. Cho tam thức \\(f\\left( x \\right) = a{x^2} + bx + c\\left( {a \\ne 0} \\right),\\Delta = {b^2} - 4ac\\). Ta có \\(f\\left( x \\right) > 0\\) với \\(\\forall x \\in \\mathbb{R}\\) khi và chỉ khi",
+      "options": [
+        "A. \\(\\left\\{ \\begin{array}{l}a > 0\\\\\\Delta \\ge 0\\end{array} \\right.\\).",
+        "B. \\(\\left\\{ \\begin{array}{l}a \\ge 0\\\\\\Delta < 0\\end{array} \\right.\\).",
+        "C. \\(\\left\\{ \\begin{array}{l}a > 0\\\\\\Delta \\le 0\\end{array} \\right.\\).",
+        "D. \\(\\left\\{ \\begin{array}{l}a > 0\\\\\\Delta < 0\\end{array} \\right.\\)."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D \\(f\\left( x \\right) > 0,\\forall x \\in \\mathbb{R}\\)\\( \\Leftrightarrow \\left\\{ \\begin{array}{l}a > 0\\\\\\Delta < 0\\end{array} \\right.\\)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Với giá trị \\(x\\) nào sau đây thì tam thức \\(y = {x^2} - 2x - 3\\) nhận giá trị dương?",
+      "options": [
+        "A. \\(x = - 1\\).",
+        "B. \\(x = 4\\).",
+        "C. \\(x = 2\\).",
+        "D. \\(x = 0\\)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Thay lần lượt các giá trị của \\(x\\) vào tam thức ta thấy \\(x = 4\\) thì tam thức nhận giá trị dương."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Bất phương trình nào sau đây là bất phương trình bậc hai một ẩn?",
+      "options": [
+        "A. \\(4x + \\frac{3}{x} - 1 > 0\\).",
+        "B. \\(2{x^2} + \\sqrt x > 0\\).",
+        "C. \\(2{x^2} - \\frac{1}{x} > 0\\).",
+        "D. \\( - \\frac{2}{3}{x^2} - 3 < 0\\)."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Bất phương trình \\( - \\frac{2}{3}{x^2} - 3 < 0\\)là bất phương trình bậc hai một ẩn."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Bình phương hai vế của phương trình \\(\\sqrt {2{x^2} - 13x + 16} = 6 - x\\) ta được phương trình nào sau đây?",
+      "options": [
+        "A. \\({x^2} - 25x - 20 = 0\\).",
+        "B. \\({x^2} - x - 20 = 0\\).",
+        "C. \\(2{x^2} - 14x + 10 = 0\\).",
+        "D. \\(2{x^2} - 12x + 10 = 0\\)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Bình phương hai vế của phương trình \\(\\sqrt {2{x^2} - 13x + 16} = 6 - x\\) ta được \\(2{x^2} - 13x + 16 = 36 - 12x + {x^2}\\)\\( \\Leftrightarrow {x^2} - x - 20 = 0\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Bình có 4 cây bút chì khác nhau và 5 cây bút mực khác nhau. Bình cần chọn một cây bút để tặng bạn, hỏi Bình có bao nhiêu cách chọn?",
+      "options": [
+        "A. \\(5\\).",
+        "B. \\(4\\).",
+        "C. \\(20\\).",
+        "D. \\(9\\)."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Bình có \\(4 + 5 = 9\\) cách chọn một cây bút để tặng bạn."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Có 12 quyển sách khác nhau. Chọn ngẫu nhiên ra 5 quyển sách, hỏi có bao nhiêu cách chọn?",
+      "options": [
+        "A. \\(12!\\).",
+        "B. \\(C_{11}^5\\).",
+        "C. \\(A_{12}^5\\).",
+        "D. \\(C_{12}^5\\)."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Số cách chọn ngẫu nhiên 5 quyển sách là \\(C_{12}^5\\) (cách)."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Khai triển nhị thức \\({\\left( {a + b} \\right)^5}\\) ta được biểu thức nào sau đây?",
+      "options": [
+        "A. \\({a^5} + 5{a^4}b + 10ab + 10{a^2}{b^3} + 5a{b^4} + {b^5}\\).",
+        "B. \\({a^5} - 5{a^4}b + 10{a^2}{b^3} - 10{a^2}{b^3} + 5a{b^4} - {b^5}\\).",
+        "C. \\({a^5} + 5{a^4}b + 10{a^3}{b^2} + 10{a^2}{b^3} + 5a{b^4} + {b^5}\\).",
+        "D. \\({a^5} + {a^4}b + {a^3}{b^2} + {a^2}{b^3} + a{b^4} + {b^5}\\)."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C \\({\\left( {a + b} \\right)^5} = {a^5} + 5{a^4}b + 10{a^3}{b^2} + 10{a^2}{b^3} + 5a{b^4} + {b^5}\\)."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho hai đường thẳng \\({\\Delta _1}:x + 2y - 1 = 0\\) và \\({\\Delta _2}: - 2x + y + 10 = 0\\). Khẳng định nào sau đây đúng?",
+      "options": [
+        "A. \\({\\Delta _1}\\) và \\({\\Delta _2}\\) trùng nhau.",
+        "B. \\({\\Delta _1}\\) và \\({\\Delta _2}\\) song song với nhau.",
+        "C. \\({\\Delta _1}\\) và \\({\\Delta _2}\\) cắt nhau và không vuông góc với nhau.",
+        "D. \\({\\Delta _1}\\) và \\({\\Delta _2}\\) vuông góc với nhau."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Ta có \\(\\overrightarrow {{n_1}} = \\left( {1;2} \\right),\\overrightarrow {{n_2}} = \\left( { - 2;1} \\right)\\) lần lượt là vectơ pháp tuyến của đường thẳng \\({\\Delta _1},{\\Delta _2}\\). Có \\(\\overrightarrow {{n_1}} .\\overrightarrow {{n_2}} = 1.\\left( { - 2} \\right) + 2.1 = 0\\). Do đó \\({\\Delta _1} \\bot {\\Delta _2}\\)."
+    }
+  ]
+}

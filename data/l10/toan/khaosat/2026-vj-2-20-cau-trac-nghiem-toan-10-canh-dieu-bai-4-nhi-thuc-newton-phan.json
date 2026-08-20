@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-20-cau-trac-nghiem-toan-10-canh-dieu-bai-4-nhi-thuc-newton-phan",
+  "sourceId": "vietjack:2-20-cau-trac-nghiem-toan-10-canh-dieu-b",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.20 câu Trắc nghiệm Toán 10 Cánh diều Bài 4. Nhị thức Newton (Phần 2) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho biểu thức (a + b) n , với n = 4 ta có khai triển là:",
+      "options": [
+        "A. (a + b) 4 = \\(C_4^0{a^4} + C_4^1{a^3}{b^1} + C_4^2{a^2}.{b^2} + C_4^3a.{b^3} + C_4^4.{b^4}\\);",
+        "B. (a + b) 4 = \\(C_4^0{a^4} - C_4^1{a^3}{b^1} - C_4^2{a^2}.{b^2} - C_4^3a.{b^3} - C_4^4.{b^4}\\);",
+        "C. (a + b) 4 = \\(C_4^0{a^4} - C_4^1{a^3}{b^1} + C_4^2{a^2}.{b^2} - C_4^3a.{b^3} + C_4^4.{b^4}\\);",
+        "D. (a + b) 4 = \\( - C_4^0{a^4} - C_4^1{a^3}{b^1} - C_4^2{a^2}.{b^2} - C_4^3a.{b^3} - C_4^4.{b^4}\\)."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A Khai triển với n = 4 là: (a + b) 4 = \\(C_4^0{a^4} + C_4^1{a^3}{b^1} + C_4^2{a^2}.{b^2} + C_4^3a.{b^3} + C_4^4.{b^4}\\)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Hệ số của x 3 của khai triển (x – 1) 4 là:",
+      "options": [
+        "A. 1;",
+        "B. 4;",
+        "C. – 4;",
+        "D. 6."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là: C Ta có: (x – 1) 4 = \\(C_4^0{x^{4 - 0}} + C_4^1{x^{4 - 1}}.\\left( { - 1} \\right) + C_4^2{x^{4 - 2}}.{\\left( { - 1} \\right)^2} + C_4^3{x^{4 - 3}}.{\\left( { - 1} \\right)^3} + C_4^4{x^{4 - 4}}.{\\left( { - 1} \\right)^4}\\) = x 4 – 4x 3 + 6x 2 – 4x + 1 Do đó, hệ số của x 3 là – 4."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Khai triển biểu thức (a + 2b) 5 ta thu được kết quả là:",
+      "options": [
+        "A. a 5 + 10a 4 b + 40a 3 b 2 + 80a 2 b 3 + 80ab 4 + 32b 5 ;",
+        "B. a 5 – 10a 4 b – 40a 3 b 2 – 80a 2 b 3 – 80ab 4 – 32b 5 ;",
+        "C. a 5 + 20a 4 b + 30a 3 b 2 + 80a 2 b 3 + 80ab 4 + 32b 5 ;",
+        "D. a 5 + 10a 4 b + 40a 3 b 2 + 60a 2 b 3 + 60ab 4 + 32b 5 ."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A Ta có: (a + 2b) 5 = \\(C_5^0{a^5} + C_5^1{a^{5 - 1}}{\\left( {2b} \\right)^1} + C_5^2{a^{5 - 2}}{\\left( {2b} \\right)^2} + C_5^3{a^{5 - 3}}{\\left( {2b} \\right)^3} + C_5^4{a^{5 - 4}}{\\left( {2b} \\right)^4} + C_5^5{\\left( {2b} \\right)^5}\\) = a 5 + 10a 4 b + 40a 3 b 2 + 80a 2 b 3 + 80ab 4 + 32b 5 ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Khai triển biểu thức (x + 1) 4 ta thu được kết quả là:",
+      "options": [
+        "A. x 4 + 5x 3 + 6x 2 + 4x + 1;",
+        "B. x 4 + 4x 3 + 6x 2 + 4x + 1;",
+        "C. 6x 4 + 4x 3 + 2x 2 + 4x + 1;",
+        "D. 4x 4 + 4x 3 + 6x 2 + 6x + 1."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải Đáp án đúng là: B Ta có: (x + 1) 4 = \\(C_4^0{x^{4 - 0}} + C_4^1{x^{4 - 1}}.1 + C_4^2{x^{4 - 2}}{.1^2} + C_4^3{x^{4 - 3}}{.1^3} + C_4^4{x^{4 - 4}}{.1^4}\\) = x 4 + 4x 3 + 6x 2 + 4x + 1."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Hệ số của x 2 trong khai triển (x + 1) 5 là:",
+      "options": [
+        "A. 10;",
+        "B. 15;",
+        "C. 30;",
+        "D. 45."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A Ta có: (x + 1) 2 = \\(C_5^0{x^5} + C_5^1{x^4}{.1^1} + C_5^2{x^3}{.1^2} + C_5^3{x^2}{.1^3} + C_5^4x{.1^4} + C_5^5{.1^5}\\) Vậy hệ số của x 2 trong khai triển là \\(C_5^3{.1^3} = 10\\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Xét khai triển của (2x + 12) 4 . Số hạng không chứa biến x của khai triển là:",
+      "options": [
+        "A. 12;",
+        "B. 12 4 ;",
+        "C. 12 8 ;",
+        "D. 2.12 8 ."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải Đáp án đúng là: B Ta có: \\[{\\left( {2x + 12} \\right)^4} = C_4^0.{\\left( {2x} \\right)^4} + C_4^1.{\\left( {2x} \\right)^3}{.12^1} + .C_4^2.{\\left( {2x} \\right)^2}{.12^2} + C_4^3.{\\left( {2x} \\right)^1}{.12^3} + C_4^4{.12^4}\\] Do đó, số hạng không chứa x của khai triển là \\[C_4^4{.12^4}\\] = 12 4 ."
+    }
+  ]
+}

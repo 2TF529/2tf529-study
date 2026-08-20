@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-2-de-on-luyen-toan-chuong-2-nguyen-ham-va-tich-phan-de-so-2",
+  "sourceId": "vietjack:2-de-on-luyen-toan-chuong-2-nguyen-ham-v",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "title": "2.Đề ôn luyện Toán Chương 2. Nguyên hàm và tích phân (đề số 2)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Hàm số \\(F\\left( x \\right) = {e^{{x^3}}}\\) là nguyên hàm của hàm số nào trong các hàm số sau?",
+      "options": [
+        "A. \\(f\\left( x \\right) = 3{x^2} \\cdot {e^{{x^3}}}\\) .",
+        "B. \\(f\\left( x \\right) = {x^2} \\cdot {e^{{x^3}}}\\) .",
+        "C. \\(f\\left( x \\right) = {e^{3{x^2}}}\\) .",
+        "D. \\(f\\left( x \\right) = \\frac{{{e^{{x^3}}}}}{{3{x^2}}}\\) ."
+      ],
+      "answer": "A",
+      "note": "Ta có \\(f\\left( x \\right) = F'\\left( x \\right)\\) suy ra \\(f\\left( x \\right) = 3{x^2} \\cdot {e^{{x^3}}}\\) . Chọn A ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Họ nguyên hàm của hàm số \\(f\\left( x \\right) = \\frac{{{x^2}}}{2} + 2x - 5\\) là",
+      "options": [
+        "A. \\(\\frac{{2{x^3}}}{3} + {x^2} - 5x + C\\) .",
+        "B. \\(\\frac{{{x^3}}}{3} + {x^2} - 5x + C\\) .",
+        "C. \\[\\frac{{{x^3}}}{6} + {x^2} - 5x + C\\] .",
+        "D. \\[\\frac{{{x^3}}}{6} + {x^2} - 5x\\] ."
+      ],
+      "answer": "C",
+      "note": "\\(\\int {f\\left( x \\right){\\rm{d}}x} = \\int {\\left( {\\frac{{{x^2}}}{2} + 2x - 5} \\right)\\,} {\\rm{d}}x = \\frac{1}{2}.\\frac{{{x^3}}}{3} + 2 \\cdot \\frac{{{x^2}}}{2} - 5x + C = \\frac{{{x^3}}}{6} + {x^2} - 5x + C\\) . Chọn C ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Họ tất cả các nguyên hàm của \\[f\\left( x \\right) = {x^2} + \\sin 2x\\] là",
+      "options": [
+        "A. \\(2x + 2\\cos 2x + C\\) .",
+        "B. \\(2x - 2\\cos 2x + C\\) .",
+        "C. \\(\\frac{{{x^3}}}{3} - \\frac{1}{2}\\cos 2x + C\\) .",
+        "D. \\(\\frac{{{x^3}}}{3} + \\frac{1}{2}\\cos 2x + C\\) ."
+      ],
+      "answer": "C",
+      "note": "Ta có \\[\\int {f\\left( x \\right){\\rm{d}}} x = \\int {\\left( {{x^2} + \\sin 2x} \\right){\\rm{d}}} x = \\frac{{{x^3}}}{3} - \\frac{1}{2}\\cos 2x + C\\] . Chọn C ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hàm số \\(F\\left( x \\right)\\) là nguyên hàm của hàm số \\(f\\left( x \\right) = \\frac{1}{{\\sqrt x }}\\) . Biết \\(F\\left( 1 \\right) = 1\\) , tính \\(F\\left( 4 \\right)\\) ta được kết quả là",
+      "options": [
+        "A. \\(7\\) .",
+        "B. \\(2\\) .",
+        "C. \\(5\\) .",
+        "D. \\(3\\) ."
+      ],
+      "answer": "D",
+      "note": "Ta có \\(F\\left( x \\right) = \\int {\\frac{1}{{\\sqrt x }}{\\rm{d}}x = } 2\\sqrt x + C\\) . Mà \\(F\\left( 1 \\right) = 1 \\Leftrightarrow C = - 1\\) . Khi đó \\(F\\left( x \\right) = 2\\sqrt x - 1\\) . Suy ra \\(F\\left( 4 \\right) = 4 - 1 = 3\\) . Chọn D ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Tính tích phân \\(\\int\\limits_0^1 {\\left( {{2^x} \\cdot {{\\rm{3}}^x}} \\right){\\rm{d}}x} \\) ta được kết quả là",
+      "options": [
+        "A. A . \\(\\frac{5}{{\\ln 6}}\\) .",
+        "B. \\(\\frac{6}{{\\ln 6}}\\) .",
+        "C. \\(\\frac{7}{{\\ln 6}}\\) .",
+        "D. \\(\\frac{8}{{\\ln 18}}\\) ."
+      ],
+      "answer": "A",
+      "note": "Ta có \\(\\int\\limits_0^1 {\\left( {{2^x} \\cdot {{\\rm{3}}^x}} \\right){\\rm{d}}x} = \\int\\limits_0^1 {{6^x}{\\rm{d}}x} = \\frac{{{6^x}}}{{\\ln 6}}\\left| {\\begin{array}{*{20}{c}}{^1}\\\\{_0}\\end{array}} \\right. = \\frac{{{6^1}}}{{\\ln 6}} - \\frac{{{6^0}}}{{\\ln 6}} = \\frac{5}{{\\ln 6}}\\) . Chọn A ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Kết quả phép tính \\(I = \\int\\limits_1^2 {\\frac{{{x^2} + 2x + 3}}{x}{\\rm{d}}x} \\) bằng",
+      "options": [
+        "A. \\(I = 6 + 3\\ln 2\\) .",
+        "B. \\(I = \\frac{5}{2} - 3\\ln 2\\) .",
+        "C. \\(I = \\frac{3}{2} - 3\\ln 2\\) .",
+        "D. \\(I = \\frac{7}{2} + 3\\ln 2\\) ."
+      ],
+      "answer": "D",
+      "note": "Ta có \\(\\int\\limits_1^2 {\\frac{{{x^2} + 2x + 3}}{x}{\\rm{d}}x} = \\int\\limits_1^2 {\\left( {x + 2 + \\frac{3}{x}} \\right)} \\,{\\rm{d}}x = \\left. {\\left( {\\frac{{{x^2}}}{2} + 2x + 3\\ln \\left| x \\right|} \\right)} \\right|_1^2 = \\frac{7}{2} + 3\\ln 2\\) . Chọn D ."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Kết quả của tích phân \\(\\int\\limits_0^{\\frac{\\pi }{2}} {\\left( {2\\sin x + 3\\cos x} \\right){\\rm{d}}x} \\) là",
+      "options": [
+        "A. A . \\( - 1\\) .",
+        "B. \\(1\\) .",
+        "C. \\(0\\) .",
+        "D. \\(5\\) ."
+      ],
+      "answer": "D",
+      "note": "Theo tính chất của tích phân, ta có: \\[\\begin{array}{l}\\int\\limits_0^{\\frac{\\pi }{2}} {\\left( {2\\sin x + 3\\cos x} \\right){\\rm{d}}x} = \\int\\limits_0^{\\frac{\\pi }{2}} {2\\sin x{\\rm{d}}x + \\int\\limits_0^{\\frac{\\pi }{2}} {3\\cos x} {\\rm{d}}x} \\\\\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\, = \\left. {\\left( { - 2\\cos x} \\right)} \\right|_0^{\\frac{\\pi }{2}} + \\left. {\\left( {3\\sin x} \\right)} \\right|_0^{\\frac{\\pi }{2}} = 3 - \\left( { - 2} \\right) = 5.\\end{array}\\] Chọn D ."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Biết \\(\\int\\limits_1^3 {f\\left( x \\right){\\rm{d}}x} = 5\\) và \\(\\int\\limits_1^3 {g\\left( x \\right){\\rm{d}}x} = - 7\\) . Giá trị của \\(\\int\\limits_1^3 {\\left[ {3f\\left( x \\right) - 2g\\left( x \\right)} \\right]{\\rm{d}}x} \\) bằng",
+      "options": [
+        "A. \\[ - 29\\] .",
+        "B. \\[ - 31\\] .",
+        "C. \\[1\\] .",
+        "D. \\[29\\] ."
+      ],
+      "answer": "D",
+      "note": "Ta có \\(\\int\\limits_1^3 {\\left[ {3f\\left( x \\right) - 2g\\left( x \\right)} \\right]{\\rm{d}}x} = 3\\int\\limits_1^3 {f\\left( x \\right){\\rm{d}}x - 2} \\int\\limits_1^3 {g\\left( x \\right){\\rm{d}}x} = 3 \\cdot 5 - 2 \\cdot \\left( { - 7} \\right) = 29\\) . Chọn D ."
+    }
+  ]
+}

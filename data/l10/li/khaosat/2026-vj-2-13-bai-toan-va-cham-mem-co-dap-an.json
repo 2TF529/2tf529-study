@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-13-bai-toan-va-cham-mem-co-dap-an",
+  "sourceId": "vietjack:2-13-bai-toan-va-cham-mem-co-dap-an",
+  "grade": "l10",
+  "subjectSlug": "li",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.13 Bài toán va chạm mềm có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Một xe ô tô có khối lượng m 1 = 5 tấn chuyển động thẳng với vận tốc v 1 = 4 m / s , đến tông và dính vào một xe gắn máy đang đứng yên có khối lượng m 2 = 250 k g . Tính vận tốc của các xe? (Chọn đáp án gần đúng nhất)",
+      "options": [
+        "A. 3,2 m/s.",
+        "B. 3,4 m/s.",
+        "C. 3,6 m/s.",
+        "D. 3,8 m/s."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là D Xem hệ hai xe là hệ cô lập, hai xe va chạm mềm. Động lượng của hệ trước va chạm: m 1 v 1 → + m 2 v 2 → = m 1 v 1 → Động lượng của hệ sau va chạm: ( m 1 + m 2 ) . v → v 1 → cùng phương với vận tốc v → Áp dụng định luật bảo toàn động lượng, ta có: m 1 v 1 = m 1 + m 2 . v ⇒ v = m 1 v 1 m 1 + m 2 = 5000.4 5000 + 250 = 80 21 ≈ 3 , 8 m / s"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Một vật 0,6 kg chuyển động với vận tốc 5 m/s không ma sát trên mặt phẳng nằm ngang thì va chạm vào vật thứ hai có khối lượng 200 g đang đứng yên. Sau va chạm, hai vật dính làm một. Tìm vận tốc của hai vật sau va chạm?",
+      "options": [
+        "A. 3 m/s.",
+        "B. 3,75 m/s.",
+        "C. 4 m/s.",
+        "D. 4,75 m/s."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là B Đây là bài toán va chạm mềm. Động lượng trước va chạm của hệ vật là: p t = m 1 v 1 Động lượng lúc sau va chạm của hệ vật là: p s = m 1 + m 2 v 2 Áp dụng định luật bảo toàn động lượng, ta có: p t = p s ⇔ m 1 v 1 = m 1 + m 2 v 2 ⇔ v 2 = m 1 v 1 m 1 + m 2 = 0 , 6.5 0 , 6 + 0 , 2 = 3 , 75 m / s"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Hình vẽ cho thấy hai quả cầu giống hệt nhau sắp xảy ra va chạm. Các quả cầu dính vào nhau sau khi va chạm. Xác định tốc độ của các quả cầu và hướng dịch chuyển của chúng sau va chạm.",
+      "options": [
+        "A. T ốc độ của các quả cầu là 3,5 m/s và chuyển động cùng hướng ban đầu.",
+        "B. T ốc độ của các quả cầu là 3,5 m/s và chuyển động ngược hướng ban đầu.",
+        "C. T ốc độ của các quả cầu là 4 m/s và chuyển động cùng hướng ban đầu.",
+        "D. T ốc độ của các quả cầu là 3 m/s và chuyển động cùng hướng ban đầu."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là A Ngay sau va chạm, hai quả cầu có cùng vận tốc v = m 1 v 1 + m 2 v 2 m 1 + m 2 = 4.2 + 3.2 2 + 2 = 3 , 5 m / s Vậy tốc độ của các quả cầu là 3,5 m/s và chuyển động cùng hướng ban đầu."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Một viên đạn pháo khối lượng m 1 = 10 kg bay ngang với vận tốc v 1 = 500 m/s dọc theo đường sắt và cắm vào toa xe chở cát có khối lượng m 2 = 1 tấn, đang chuyển động với tốc độ v 2 = 36 km/h. Xác định vận tốc của toa xe ngay sau khi trúng đạn trong hai trường hợp: Đạn bay đến cùng chiều chuyển động của xe cát.",
+      "options": [
+        "A. -14,85 m/s.",
+        "B. 148,5 m/s.",
+        "C. 14,85 m/s.",
+        "D. -1,485 m/s."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là C Chọn chiều chuyển động ban đầu của xe cát là chiều dương, hệ vật gồm xe cát và đạn chuyển động theo phương ngang. Đổi: v 2 = 36 k m / h = 10 m / s Va chạm giữa viên đạn và toa xe là va chạm mềm nên động lượng của hệ (đạn + xe) là không đổi: m 1 v 1 → + m 2 v 2 → = m 1 + m 2 v → Do v 1 → ↑ ↑ v 2 → ⇒ v = m 1 v 1 + m 1 v 2 m 1 + m 2 = 10.500 + 1000.10 10 + 1000 ≈ 14 , 85 m / s"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Đạn bay đến ngược chiều chuyển động của xe cát.",
+      "options": [
+        "A. -49,5 m/s.",
+        "B. 49,5 m/s.",
+        "C. -4,95 m/s.",
+        "D. 4,95 m/s."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là D Chọn chiều chuyển động ban đầu của xe cát là chiều dương, hệ vật gồm xe cát và đạn chuyển động theo phương ngang. Đổi: v 2 = 36 k m / h = 10 m / s Khi đạn bay đến ngược chiều xe cát ( v 1 → ↑ ↓ v 2 → ) thì ta có: v = m 1 v 1 + m 1 v 2 m 1 + m 2 = 10. − 500 + 1000.10 10 + 1000 ≈ 4 , 95 m / s"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Một hòn bi khối lượng 2 kg đang chuyển động với vận tốc 3 m/s đến va chạm vào hòn bi có khối lượng 4 kg đang nằm yên, sau va chạm hai viên bi gắn vào nhau và chuyển động cùng vận tốc. Xác định giá trị vận tốc của hai viên bi sau va chạm?",
+      "options": [
+        "A. 10 m / s.",
+        "B. 15 m/s .",
+        "C. 1 m/s.",
+        "D. 5 m/s."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Chọn chiều dương là chiều chuyển động của viên bi trước va chạm. Động lượng của hệ trước va chạm: m 1 v 1 → + m 2 v 2 → Động lượng của hệ sau va chạm: m 1 + m 2 v → Theo định luật bảo toàn động lượng ta có: m 1 . v 1 → + m 2 v 2 → = m 1 + m 2 v → Chiếu biểu thức vecto xuống chiều dương đã chọn: ⇒ m 1 v 1 + 0 = m 1 + m 2 v ⇒ v = m 1 v 1 m 1 + m 2 = 2.3 2 + 4 = 1 m / s"
+    }
+  ]
+}

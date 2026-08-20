@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-toan-9-canh-dieu-tao-bai-4-mot-so-phep-bien-",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-toan-9-canh-dieu-ta",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Toán 9 Cánh diều tạo Bài 4. Một số phép biến đổi căn thức bậc hai của biểu thức đại số có đáp án",
+  "duration": 90,
+  "answerSource": "partial",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: I. Nhận biết Cho biểu thức \\(A < 0.\\) Khẳng định nào sau đây là đúng?",
+      "options": [
+        "A. \\(\\sqrt {{A^2}} = A\\).",
+        "B. \\(\\sqrt {{A^2}} = - A\\).",
+        "C. \\(\\sqrt {{A^2}} = \\left| A \\right|\\).",
+        "D. \\(\\sqrt {{A^2}} = - \\left| A \\right|\\)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Với \\(A < 0,\\) ta có: \\(\\sqrt {{A^2}} = \\left| A \\right| = - A\\)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hai biểu thức \\(A\\) và \\(B\\). Khẳng định nào sau đây là sai?",
+      "options": [
+        "A. \\(\\sqrt {AB} = \\sqrt A \\cdot \\sqrt B \\) với \\(A \\ge 0,\\,\\,B \\ge 0.\\)",
+        "B. \\(\\sqrt {AB} = \\sqrt { - A} \\cdot \\sqrt { - B} \\) với \\(A < 0,\\,\\,B < 0\\).",
+        "C. \\(\\sqrt {\\frac{A}{B}} = \\frac{{\\sqrt A }}{{\\sqrt B }}\\) với \\(A \\ge 0,\\,\\,B \\ge 0.\\)",
+        "D. \\(\\sqrt {\\frac{A}{B}} = \\frac{{\\sqrt { - A} }}{{\\sqrt { - B} }}\\) với \\(A < 0,\\,\\,B < 0\\)."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có \\(\\sqrt {\\frac{A}{B}} = \\frac{{\\sqrt A }}{{\\sqrt B }}\\) khi \\(A \\ge 0,\\,\\,B > 0.\\)"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho biểu thức \\(A \\ge 0,\\,\\,B < 0\\), khẳng định nào sau đây đúng?",
+      "options": [
+        "A. \\(\\sqrt {A{B^2}} = A\\sqrt B \\).",
+        "B. \\(\\sqrt {A{B^2}} = - A\\sqrt B \\).",
+        "C. \\(\\sqrt {A{B^2}} = - B\\sqrt A \\).",
+        "D. \\(\\sqrt {A{B^2}} = B\\sqrt A \\)."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có \\(\\sqrt {A{B^2}} = \\sqrt A .\\sqrt {{B^2}} = \\sqrt A \\cdot \\left| B \\right| = - B\\sqrt A \\) (do \\(B < 0\\))."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Chọn phát biểu sai trong các phát biểu sau:",
+      "options": [
+        "A. Nếu \\(a\\) là một số dương và \\(b\\) là một số không âm thì \\(\\sqrt {{a^2}b} = a\\sqrt b \\).",
+        "B. Nếu \\(a\\) và \\(b\\) là hai số không âm thì \\(\\sqrt {{a^2}b} = a\\sqrt b \\).",
+        "C. Nếu \\(a\\) là một số âm và \\(b\\) là một số không âm thì \\(a\\sqrt b = \\sqrt {{a^2}b} \\).",
+        "D. Với các biểu thức \\(A,B\\) và \\(B > 0\\), ta có: \\(\\frac{A}{{\\sqrt B }} = \\frac{{A\\sqrt B }}{B}\\)."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Nếu \\(a\\) là một số âm và \\(b\\) là một số không âm thì \\(a\\sqrt b = - \\sqrt {{a^2}b} \\) nên phương án C là khẳng định sai. Vậy ta chọn phương án C."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hai biểu thức \\(A\\) và \\(B > 0.\\) Khẳng định nào sau đây là sai?",
+      "options": [
+        "A. \\[\\frac{A}{{\\sqrt B }} = \\frac{{A\\sqrt B }}{B}\\].",
+        "B. \\(\\frac{1}{{A + \\sqrt B }} = \\frac{{A - \\sqrt B }}{{{A^2} - B}}\\).",
+        "C. \\(\\frac{1}{{A - \\sqrt B }} = \\frac{{A + \\sqrt B }}{{{A^2} - B}}\\).",
+        "D. \\(\\frac{1}{{B - \\sqrt B }} = \\frac{{B - \\sqrt B }}{{{B^2} - B}}\\)."
+      ],
+      "answer": null,
+      "note": "Đáp án đúng là: Với \\(B > 0,\\) ta có: ⦁ \\[\\frac{A}{{\\sqrt B }} = \\frac{{A\\sqrt B }}{B}\\]; ⦁ \\(\\frac{1}{{A + \\sqrt B }} = \\frac{{A - \\sqrt B }}{{\\left( {A + \\sqrt B } \\right)\\left( {A - \\sqrt B } \\right)}} = \\frac{{A - \\sqrt B }}{{{A^2} - B}}\\); ⦁ \\[\\frac{1}{{A - \\sqrt B }} = \\frac{{A + \\sqrt B }}{{\\left( {A - \\sqrt B } \\right)\\left( {A + \\sqrt B } \\right)}} = \\frac{{A + \\sqrt B }}{{{A^2} - B}}\\]; ⦁ \\(\\frac{1}{{B - \\sqrt B }} = \\frac{{B + \\sqrt B }}{{\\left( {B - \\sqrt B } \\right)\\left( {B + \\sqrt B } \\right)}} = \\frac{{B + \\sqrt B }}{{{B^2} - B}}.\\) Vậy phương án D là khẳng định sai, ta chọn phương án D."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: II. Thông hiểu Rút gọn biểu thức \\(\\sqrt {\\frac{{4{a^2}}}{3}} - 3\\sqrt {\\frac{{{a^2}}}{{27}}} \\) với \\(a > 0,\\) ta được kết quả là",
+      "options": [
+        "A. \\(\\frac{{a\\sqrt 3 }}{3}\\).",
+        "B. \\(a\\sqrt 3 \\).",
+        "C. \\( - \\frac{{a\\sqrt 3 }}{3}\\).",
+        "D. \\( - a\\sqrt 3 \\)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Với \\(a > 0,\\) ta có: \\(\\sqrt {\\frac{{4{a^2}}}{3}} - 3\\sqrt {\\frac{{{a^2}}}{{27}}} = \\frac{{\\sqrt {{{\\left( {2a} \\right)}^2}} }}{{\\sqrt 3 }} - 3 \\cdot \\frac{{\\sqrt {{a^2}} }}{{\\sqrt {{3^2} \\cdot 3} }} = \\frac{{\\left| {2a} \\right|}}{{\\sqrt 3 }} - \\frac{{3 \\cdot \\left| a \\right|}}{{3\\sqrt 3 }}\\) \\( = \\frac{{2a}}{{\\sqrt 3 }} - \\frac{a}{{\\sqrt 3 }}\\) (do \\(a > 0\\) nên \\(\\left| a \\right| = a)\\) \\( = \\frac{a}{{\\sqrt 3 }} = \\frac{{a\\sqrt 3 }}{3}.\\) Vậy ta chọn phương án A."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-toan-10-chan-troi-sang-tao-quy-tac-cong-va-q",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-toan-10-chan-troi-s",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Toán 10 chân trời sáng tạo Quy tắc cộng và quy tắc nhân có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: An muốn qua nhà Bình để cùng Bình đến chơi nhà Cường. Từ nhà An đến nhà Bình có 4 con đường đi, từ nhà Bình đến nhà Cường có 6 con đường đi. Hỏi An có bao nhiêu cách chọn đường đi đến nhà Cường?",
+      "options": [
+        "A. 16;",
+        "B. 10;",
+        "C. 24;",
+        "D. 36."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Từ nhà An đến nhà Bình có 4 cách chọn đường. Từ nhà Bình đến nhà Cường có 6 cách chọn đường. Áp dụng quy tắc nhân ta có số cách chọn đường đi từ nhà An đến nhà Cường là: 4.6 = 24 (cách)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Có 10 cái bút khác nhau và 8 quyển sách giáo khoa khác nhau. Một bạn học sinh cần chọn 1 cái bút và 1 quyển sách. Hỏi bạn học sinh đó có bao nhiêu cách chọn?",
+      "options": [
+        "A. 80;",
+        "B. 60;",
+        "C. 90;",
+        "D. 70."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A C họn 1 cái bút có 10 cách C họn 1 quyển sách có 8 cách. Vậy theo quy tắc nhân, số cách chọn 1 cái bút và 1 quyển sách là: 10.8 = 80 cách."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Từ thành phố A đến thành phố B có 3 con đường, từ thành phố A đến thành phố C có 2 con đường, từ thành phố B đến thành phố D có 2 con đường, từ thành phố C đến thành phố D có 3 con đường, không có con đường nào nối từ thành phố C đến thành phố B. Hỏi có bao nhiêu con đường đi từ thành phố A đến thành phố D.",
+      "options": [
+        "A. 6;",
+        "B. 12;",
+        "C. 18;",
+        "D. 36."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Đi từ thành phố A đến thành phố D ta có các trường hợp sau: Trường hợp 1. Đi từ thành phố A đến thành phố B rồi đến thành phố D Ta có: đi là từ thành phố A đến thành phố B có 3 cách, đi là từ thành phố B đến thành phố D có 2 cách Vậy trường hợp 1 có 3.2 = 6 cách Trường hợp 2. Đi từ thành phố A đến thành phố C rồi đến thành phố D Ta có: đi là từ thành phố A đến thành phố C có 2 cách ,đi là từ thành phố C đến thành phố D có 3 cách Vậy trường hợp 2 có 2.3 = 6 cách Để đi từ thành phố A đến thành phố D ta có 6 + 6 = 12 cách."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho các chữ số 2, 3, 4, 5, 6, 7, 8, 9 số các số tự nhiên chẵn có 3 chữ số lập thành từ các chữ số đã cho là",
+      "options": [
+        "A. 36;",
+        "B. 18;",
+        "C. 256;",
+        "D. 108;"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Gọi số tự nhiên có 3 chữ số cần tìm là: \\[\\overline {abc} \\] (a ≠ 0) khi đó chọn số c có 4 cách chọn ( vì \\[\\overline {abc} \\] là số chẵn nên c chỉ có thể chọn một trong các số 2, 4, 6, 8) chọn số a có 8 cách chọn (vì a được chọn tuỳ ý nên a có thể chọn một trong 8 số 2, 3, 4, 5, 6, 7, 8, 9) chọn số b có 8 cách chọn (vì b được chọn tuỳ ý nên b có thể chọn một trong 8 số 2, 3, 4, 5, 6, 7, 8, 9) Vậy số các số tự nhiên chẵn có 3 chữ số là được lập từ các số trên là: 8.8.4 = 256 (số)"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Từ các chữ số 0; 1; 2; 3; 4; 5; 6 có thể lập được bao nhiêu số tự nhiên chẵn có ba chữ số khác nhau?",
+      "options": [
+        "A. 210;",
+        "B. 105;",
+        "C. 168;",
+        "D. 145."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Gọi số có ba chữ số cần tìm là \\[\\overline {abc} \\] , với a ≠ 0 Trường hợp 1: c = 0 Chọn số c có 1cách Chọn số a có 6 cách (vì a ≠ 0 nên a có thể chọn một trong 6 số là 1; 2; 3; 4; 5; 6) Chọn số b có 5 cách (vì b ≠ a, b ≠ c nên b còn 5 cách chọn) Vậy có 6.5.1 = 30 số Trường hợp 2: c ≠ 0 Chọn c có 3 cách chọn (vì số \\[\\overline {abc} \\] là số chẵn nên c có thể chọn một trong 3 số là 2; 4; 6) Chọn số a có 5 cách chọn (vì a ≠ 0 và a ≠ c nên a có 5 cách chọn) Chọn số b có 5 cách chọn(vì b ≠ a, b ≠ c nên b còn 5 cách chọn) Vậy có 5.5.3 = 75 số Số các số tự nhiên chẵn có 3 chữ số khác nhau lập từ các số trên là: 75 + 30 = 105."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Bạn Dũng có 9 quyển truyện tranh khác nhau và 6 quyển tiểu thuyết khác nhau. Bạn Dũng có bao nhiêu cách chọn ra một quyển sách để đọc vào cuối tuần.",
+      "options": [
+        "A. 9;",
+        "B. 6;",
+        "C. 54;",
+        "D. 15."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Sách bạn Dũng có thể lấy ra thuộc hai loại: Truyện tranh hoặc tiểu thuyết. Truyện tranh: 9 quyển Tiểu thuyết: 6 quyển Số cách Dũng lấy ra một quyển là: 9 + 6 = 15 (cách)"
+    }
+  ]
+}

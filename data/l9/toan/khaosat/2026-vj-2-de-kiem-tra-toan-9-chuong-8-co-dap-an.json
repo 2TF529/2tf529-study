@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-de-kiem-tra-toan-9-chuong-8-co-dap-an",
+  "sourceId": "vietjack:2-de-kiem-tra-toan-9-chuong-8-co-dap-an",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.Đề kiểm tra Toán 9 Chương 8 (có đáp án)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Phần 1. Trắc nghiệm nhiều phương án lựa chọn Mỗi câu hỏi thí sinh chỉ chọn một phương án. Phát biểu đúng nhất trong các phát biểu sau là",
+      "options": [
+        "A. Tập hợp tất cả các kết quả có thể xảy ra của một phép thử được gọi là không gian mẫu của phép thử đó.",
+        "B. Tập hợp tất cả các kết quả không thể xảy ra của một phép thử được gọi là không gian mẫu của phép thử đó.",
+        "C. Tập hợp các kết quả có thể xảy ra của một phép thử với khả năng xuất hiện như nhau được gọi là không gian mẫu của phép thử đó.",
+        "D. Tập hợp tất cả các kết quả không thể xảy ra của một phép thử với khả năng xuất hiện như nhau được gọi là không gian mẫu của phép thử đó."
+      ],
+      "answer": "A",
+      "note": "Chọn A Tập hợp các kết quả có thể xảy ra của một phép thử được gọi là không gian mẫu của phép thử đó."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Xét một phép thử có không gian mẫu \\(\\Omega \\) và \\(A\\) là một biến cố của phép thử đó. Xác suất của biến cố \\(A\\) là",
+      "options": [
+        "A. \\(n\\left( A \\right) = n\\left( \\Omega \\right)\\) .",
+        "B. \\[P\\left( A \\right) = \\frac{{n\\left( \\Omega \\right)}}{{n\\left( A \\right)}}\\] .",
+        "C. \\(P\\left( A \\right) = n\\left( A \\right).n\\left( \\Omega \\right)\\) .",
+        "D. \\(P\\left( A \\right) = \\frac{{n\\left( A \\right)}}{{n\\left( \\Omega \\right)}}\\) ."
+      ],
+      "answer": "D",
+      "note": "Chọn D Xác suất của biến cố \\(A\\) bằng tỉ số giữa số kết quả thuận lợi cho \\(A\\) và số phần tử của tập hợp \\(\\Omega .\\) Xác suất của biến cố \\(A\\) bằng \\(P\\left( A \\right) = \\frac{{n\\left( A \\right)}}{{n\\left( \\Omega \\right)}}\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Gieo 3 đồng tiền xu là một phép thử ngẫu nhiên có số phần tử của không gian mẫu là",
+      "options": [
+        "A. \\[1\\].",
+        "B. \\[9\\].",
+        "C. \\[7\\].",
+        "D. \\[8\\]."
+      ],
+      "answer": "D",
+      "note": "Chọn D Không gian mẫu là: \\[\\Omega = \\left\\{ {NNN\\,;\\,\\,SSS\\,;\\,\\,NNS\\,;\\,\\,SSN\\,;\\,\\,NSN\\,;\\,\\,SNS\\,;\\,\\,NSS\\,;\\,\\,SNN} \\right\\}.\\] Vậy không gian mẫu có \\[8\\] phần tử."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Một hộp có 20 viên bi với kích thước và khối lượng như nhau. Bạn Ngân viết lên các viên bi đó các số \\[1\\,;\\,\\,2\\,;\\,\\,3\\,;\\,\\,...\\,;\\,\\,20;\\] hai viên bi khác nhau thì viết hai số khác nhau. Xét phép thử “Lấy ngẫu nhiên một viên bi trong hộp”. Xác suất của biến cố \\[D\\] : “Số xuất hiện trên viên bi được lấy ra chia 7 dư 1” là",
+      "options": [
+        "A. \\(\\frac{5}{{20}}\\) .",
+        "B. \\(\\frac{3}{{20}}\\) .",
+        "C. \\(\\frac{7}{{20}}\\) .",
+        "D. \\(\\frac{9}{{20}}\\) ."
+      ],
+      "answer": "B",
+      "note": "Chọn B Không gian mẫu của phép thử là \\(\\Omega = \\left\\{ {1\\,;\\,\\,2\\,;\\,\\,3\\,;\\,\\,..\\,;\\,\\,20} \\right\\}\\). Suy ra không gian mẫu của phép thử có 20 phần tử. Khả năng bạn Ngân lấy các viên bi là như nhau nên các kết quả của phép thử có cùng khả năng xảy ra. Có 3 kết quả thuận lợi là: \\[1\\,;\\,\\,8\\,;\\,\\,15.\\] Vậy xác suất xảy ra biến cố \\[D\\] là \\[P\\left( D \\right) = \\frac{3}{{20}}\\]."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Một nhóm học sinh gồm 10 học sinh nam và 5 học sinh nữ. Giáo viên chọn ngẫu nhiên một học sinh đi lên bảng làm bài tập. Xác suất chọn được một học sinh nữ là",
+      "options": [
+        "A. \\(\\frac{1}{2}\\).",
+        "B. \\(\\frac{1}{{10}}\\).",
+        "C. \\(\\frac{1}{5}\\).",
+        "D. \\(\\frac{1}{3}\\)."
+      ],
+      "answer": "D",
+      "note": "Chọn D Có 15 cách chọn một học sinh trong nhóm. Có 5 cách chọn một học sinh nữ. Xác suất để chọn được một học sinh nữ là: \\(\\frac{5}{{15}} = \\frac{1}{3}\\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Một hộp kín chứa 3 quả bóng xanh và 5 quả bóng đỏ có kích thước và khối lượng như nhau. Lấy ngẫu nhiên trong hộp một quả bóng. Xác suất để lấy được quả bóng màu đỏ là",
+      "options": [
+        "A. \\(\\frac{3}{8}.\\)",
+        "B. \\(\\frac{3}{5}.\\)",
+        "C. \\(\\frac{5}{8}.\\)",
+        "D. \\(\\frac{1}{2}.\\)"
+      ],
+      "answer": "C",
+      "note": "Chọn C Số phần tử của không gian mẫu là \\(n\\left( \\Omega \\right) = 8\\). Gọi \\(A\\) là biến cố “Lấy được quả bóng màu đỏ”. Số kết quả thuận lợi cho \\(A\\) là \\(n\\left( A \\right) = 5\\). Xác suất của biến cố \\(A\\) là \\(P\\left( A \\right) = \\frac{5}{8}\\)."
+    }
+  ]
+}

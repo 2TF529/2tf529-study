@@ -1,0 +1,78 @@
+{
+  "id": "2026-vj-4-10-bai-tap-tinh-ban-kinh-day-chieu-cao-duong-sinh-dien-tich-xun",
+  "sourceId": "vietjack:4-10-bai-tap-tinh-ban-kinh-day-chieu-cao",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "4.10 bài tập Tính bán kính đáy, chiều cao, đường sinh, diện tích xung quanh và thể tích của hình nón có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho hình nón có bán kính đáy R = 3 (cm) và chiều cao h = 4 (cm). Diện tích xung quanh của hình nón là",
+      "options": [
+        "A. 25π (cm 2 ).",
+        "B. 12π (cm 2 ).",
+        "C. 20π (cm 2 ).",
+        "D. 15π (cm 2 )."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Độ dài đường sinh là: \\(l = \\sqrt {{h^2} + {r^2}} = \\sqrt {{3^2} + {4^2}} = 5\\). Ta có S xq = πrl = π.3.5 = 15π cm 2 ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hình nón có đường kính đáy d = 10 cm và diện tích xung quanh bằng 65π (cm 2 ). Tính thể tích của khối nón.",
+      "options": [
+        "A. 100π (cm 3 ).",
+        "B. 120π (cm 3 ).",
+        "C. 300π (cm 3 ).",
+        "D. 200π (cm 3 )."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Bán kính của hình nón là: 10 : 2 = 5 (cm). Độ dài đường sinh là: 65π : 5π = 13 (cm). Chiều cao của hình nón là: \\(h = \\sqrt {{l^2} - {r^2}} = \\sqrt {{{13}^2} - {5^2}} = 12\\) cm. Thể tích của hình nón đó là: \\[\\frac{1}{3}\\pi {r^2}h = \\frac{1}{3}\\pi {.5^2}.12 = 100\\pi \\] (cm 3 )."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hình nón có chiều cao h = 10 cm và thể tích V = 1 000π (cm 3 ). Tính diện tích toàn phần của hình nón.",
+      "options": [
+        "A. 100π (cm 2 ).",
+        "B. (300 + \\[200\\sqrt 3 \\])π (cm 2 ).",
+        "C. 300π (cm 2 ).",
+        "D. 250π (cm 2 )."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Bán kính đáy của hình nón là: \\[r = \\sqrt {3000\\pi :10\\pi } = 10\\sqrt 3 \\] cm. Đường sinh của hình nón là: \\[l = \\sqrt {{{\\left( {10\\sqrt 3 } \\right)}^2} + {{10}^2}} = 20\\] cm. Diện tích toàn phần của hình nón là: S tp = πr(l + r) = π.\\[10\\sqrt 3 \\].(\\[10\\sqrt 3 \\] + 20) = \\[\\left( {300 + 200\\sqrt 3 } \\right)\\pi \\] cm 2 ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho tam giác ABC vuông tại A có BC = 20 cm; AC = 12 cm. Quay tam giác ABC cạnh AB ta được một hình nón có thể tích là",
+      "options": [
+        "A. 2304 cm 3 .",
+        "B. 1024π (cm 3 ).",
+        "C. 786π (cm 3 ).",
+        "D. 768π (cm 3 )."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Khi quay tam giác ABC quanh cạnh AB ta được một hình nón có chiều cao AB và bán kính đường tròn đáy là cạnh AC. Theo định lí Pythagore, ta có: AB 2 + AC 2 = BC 2 nên AB 2 = BC 2 – AC 2 = 20 2 – 12 2 suy ra AB = 16 (cm). Thể tích của khối nón là: V = \\[\\frac{1}{3}\\pi {r^2}h = \\frac{1}{3}\\pi {.12^2}.16 = 768\\pi \\] (cm 3 )."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Nếu ta tăng bán kính đáy và chiều cao của một hình nón lên hai lần thì diện tích xung quanh hình nón đó",
+      "options": [
+        "A. tăng 4 lần.",
+        "B. giảm 4 lần.",
+        "C. tăng 2 lần.",
+        "D. không đổi."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có đường sinh mới là: \\[{l_1} = \\sqrt {{{\\left( {2h} \\right)}^2} + {{\\left( {2r} \\right)}^2}} = 2l\\]. Khi đó, diện tích xung quanh mới là: π.(2R).(2l) = 4πrl. Do đó, diện tích xung quanh của hình nón tăng lên 4 lần."
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "2026-vj-5-10-bai-tap-tinh-do-dai-doan-thang-do-dai-vecto-co-loi-giai",
+  "sourceId": "vietjack:5-10-bai-tap-tinh-do-dai-doan-thang-do-d",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "5.10  Bài tập Tính độ dài đoạn thẳng, độ dài vectơ (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho hai vectơ a → và b → đều khác 0 → . Biết: a → , b → = 30 ° , a → . b → = 3 và b → = 2 . Tính độ dài của vectơ a → .",
+      "options": [
+        "A. 1",
+        "B. 2",
+        "C. 1 2 ;",
+        "D. 1 4 ."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A. a → . b → = 3 ⇔ a → . b → . c o s a → , b → = 3 ⇔ a → .2. c o s 30 ° = 3 ⇔ a → .2. 3 2 = 3 ⇔ a → = 1 ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hai vectơ a → và b → đều khác 0 → . Biết: a → , b → = 60 ° , a → . b → = 4 và a → + b → = 6 . Tính độ dài của vectơ a → với a → > 3 .",
+      "options": [
+        "A. 7",
+        "B. 6",
+        "C. 5",
+        "D. 4"
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải: Đáp án đúng là: D. a → . b → = 4 ⇔ a → . b → . c o s a → , b → = 4 ⇔ a → . b → . c o s 60 ° = 4 ⇔ a → . b → . 1 2 = 4 ⇔ a → . b → = 8 . Ta có: a → . b → = 8 a → + b → = 6 ⇔ a → . b → = 8 b → = 6 − a → ⇔ a → . 6 − a → = 8 ( 1 ) b → = 6 − a → Xét (1) ta có : 6 a → − a → 2 = 8 ⇔ − a → 2 + 6 a → − 8 = 0 ⇔ a → = 4 a → = 2 Vì a → > 3 nên ta có: a → = 4 ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho tam giác ABC có AB = 2, AC = 3, A ^ = 45 ° . Tính độ dài BC dựa vào tích vô hướng.",
+      "options": [
+        "A. 13 + 6 2",
+        "B. 13 − 6 2",
+        "C. 13",
+        "D. 6 2"
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải: Đáp án đúng là: B. Ta có: B C 2 = B C → 2 = A C → − A B → 2 = A C → 2 − 2 A C → . A B → + A B → 2 = A C 2 − 2 A C → . A B → + A B 2 . Ta có: cos A C → , A B → = cos A ^ = c o s 45 ° = 2 2 A C → = A C = 3 ; A B → = A B = 2 A C → . A B → = A C → . A B → . c o s A B → , A C → = 3.2. 2 2 = 3 2 Do đó, ta có: B C 2 = A C 2 − 2 A C → . A B → + A B 2 = 3 2 − 2.3 2 + 2 2 = 13 − 6 2 ⇒ B C = 13 − 6 2 ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho tam giác ABC có BC = 2cm, BM = 1cm, C B M ^ = 60 ° với M là trung điểm AC. Tính độ dài AC.",
+      "options": [
+        "A. 3",
+        "B. 3 2 ;",
+        "C. 2",
+        "D. 2 3 ."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải: Đáp án đúng là: D. Ta có: C M 2 = C M → 2 = B C → − B M → 2 = B C → 2 − 2 B C → . B M → + B M → 2 = B C 2 − 2 B C → . B M → + B M 2 Ta có: c o s B C → , B M → = cos C B M ^ = c o s 60 ° = 1 2 . B C → = B C = 2 c m ; B M → = B M = 1 c m Ta có: B C → . B M → = B C → . B M → . c o s B C → , B M → = 2.1. 1 2 = 1 C M 2 = B C 2 − 2 B C → . B M → + B M 2 = 2 2 − 2.1 + 1 2 = 3 ⇒ C M = 3 (cm) Mà M là trung điểm của AC ⇒ A C = 2 C M = 2 3 cm."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho tam giác ABC có AB = 4, AC = 3, A ^ = 120 ° . Tính độ dài trung tuyến AM dựa vào tích vô hướng.",
+      "options": [
+        "A. 13 2 ;",
+        "B. 13 ;",
+        "C. 13",
+        "D. 2"
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A. AM là trung tuyến nên M là trung điểm của BC. Do đó, có: A B → + A C → = 2 A M → ⇒ 4 A M → 2 = A B → + A C → 2 ⇔ 4 A M 2 = A B 2 + 2 A B → . A C → + A C 2 . cos A B → , A C → = cos A ^ = cos 120 ° = − 1 2 A B → = A B = 4 A C → = A C = 3 A B → . A C → = A B → . A C → . cos A B → , A C → = 4.3. − 1 2 = − 6 4 A M 2 = A B 2 + 2 A B → . A C → + A C 2 = 4 2 + 2. ( − 6 ) + 3 2 = 13 ⇒ A M 2 = 13 4 ⇔ A M = 13 2"
+    }
+  ]
+}

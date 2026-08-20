@@ -1,0 +1,196 @@
+{
+  "id": "l12-toan-totnghiep-2026-de-khao-sat-chat-luong-thpt-mon-toan-cum-truong-so-gd-dt-hai-phong-nam-2026-lan-1",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "code": "THPT_TKT_2026_HP_01",
+  "title": "Đề khảo sát chất lượng THPT môn Toán cụm trường Sở GD&ĐT Hải Phòng năm 2026 - Lần 1",
+  "duration": 90,
+  "answerSource": "official",
+  "source": "https://dolthpt.vn/tot-nghiep-thpt/pdf-de-khao-sat-chat-luong-thpt-mon-toan-cum-truong-so-gd-dt-hai-phong-nam-2026-lan-1-co-dap-an",
+  "notes": "Nội dung, đáp án và lời giải được nhập từ bản công khai của DOL THPT.",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "content": "Cho mẫu số liệu ghép nhóm có phương sai bằng \\$32$. Độ lệch chuẩn của mẫu số liệu trên là:",
+      "chuong": "các số đặc trưng đo mức độ phân tán cho mẫu số liệu ghép nhóm",
+      "dang": "phương sai và độ lệch chuẩn",
+      "type": "single",
+      "options": [
+        "A. \\$1024$",
+        "B. \\$4\\sqrt{3}$",
+        "C. \\$16$",
+        "D. \\$4\\sqrt{2}$"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Mẫu số liệu ghép nhóm có phương sai bằng \\$32$.\n- Cần tìm độ lệch chuẩn của mẫu số liệu.\n❓ **Hiểu câu hỏi:**\n- Đề bài yêu cầu tính độ lệch chuẩn khi đã biết phương sai.\n- Dùng công thức $s=\\sqrt{s^2}$.\n🔎 **Hướng dẫn cách làm:**\n- Phương sai của mẫu là $s^2=32$.\n- Độ lệch chuẩn là căn bậc hai của phương sai nên $s=\\sqrt{32}$.\n- Rút gọn được $\\sqrt{32}=\\sqrt{16\\cdot 2}=4\\sqrt{2}$.\n✅ **Đáp án:** Chọn D. \\$4\\sqrt{2}$"
+    },
+    {
+      "id": 2,
+      "content": "Cho tứ diện $ABCD$. Gọi $M,N$ lần lượt là trung điểm của $AB,CD$ và $G$ là trung điểm của $MN$. Trong các khẳng định sau, khẳng định nào sai?",
+      "chuong": "vectơ và hệ trục tọa độ trong không gian",
+      "dang": "tổng và hiệu của hai vectơ trong không gian",
+      "type": "single",
+      "options": [
+        "A. $\\overrightarrow{GA}+\\overrightarrow{GB}+\\overrightarrow{GC}=\\overrightarrow{GD}$",
+        "B. $\\overrightarrow{GM}+\\overrightarrow{GN}=\\overrightarrow{0}$",
+        "C. $\\overrightarrow{MA}+\\overrightarrow{MB}+\\overrightarrow{MC}+\\overrightarrow{MD}=4\\overrightarrow{MG}$",
+        "D. $\\overrightarrow{GA}+\\overrightarrow{GB}+\\overrightarrow{GC}+\\overrightarrow{GD}=\\overrightarrow{0}$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- $M,N$ lần lượt là trung điểm của $AB,CD$.\n- $G$ là trung điểm của $MN$.\n- Cần tìm khẳng định sai.\n❓ **Hiểu câu hỏi:**\n- Đây là bài toán vectơ với các điểm trung điểm.\n- Ta dùng tính chất trung điểm để kiểm tra từng mệnh đề.\n🔎 **Hướng dẫn cách làm:**\n- Vì $G$ là trung điểm của $MN$ nên $\\overrightarrow{GM}+\\overrightarrow{GN}=\\overrightarrow{0}$. Vậy mệnh đề B đúng.\n- Ta có $\\overrightarrow{GA}+\\overrightarrow{GB}=2\\overrightarrow{GM}$ và $\\overrightarrow{GC}+\\overrightarrow{GD}=2\\overrightarrow{GN}$ nên $\\overrightarrow{GA}+\\overrightarrow{GB}+\\overrightarrow{GC}+\\overrightarrow{GD}=2\\left(\\overrightarrow{GM}+\\overrightarrow{GN}\\right)=\\overrightarrow{0}$. Vậy mệnh đề D đúng.\n- Từ $\\overrightarrow{MG}=\\dfrac{1}{4}\\left(\\overrightarrow{MA}+\\overrightarrow{MB}+\\overrightarrow{MC}+\\overrightarrow{MD}\\right)$ suy ra mệnh đề C đúng.\n- Do đó chỉ có mệnh đề A là sai.\n✅ **Đáp án:** Chọn A. $\\overrightarrow{GA}+\\overrightarrow{GB}+\\overrightarrow{GC}=\\overrightarrow{GD}$"
+    },
+    {
+      "id": 3,
+      "content": "Cho hình chóp $SABC$, có đáy $ABC$ là tam giác vuông tại $A$ và $SA=SB=SC$. Gọi $H$ là trung điểm cạnh $BC$. Khẳng định nào sau đây sai?",
+      "chuong": "quan hệ vuông góc trong không gian",
+      "dang": "bài tập cuối chương 7",
+      "type": "single",
+      "options": [
+        "A. $SH\\perp AC$",
+        "B. $SH\\perp BC$",
+        "C. $SH\\perp (SBC)$",
+        "D. $SH\\perp (ABC)$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- $ABC$ là tam giác vuông tại $A$.\n- $SA=SB=SC$.\n- $H$ là trung điểm của $BC$.\n- Cần tìm khẳng định sai.\n❓ **Hiểu câu hỏi:**\n- Với tam giác vuông, trung điểm cạnh huyền cách đều ba đỉnh của tam giác.\n- Ta sẽ dùng tính chất này để xét quan hệ vuông góc.\n🔎 **Hướng dẫn cách làm:**\n- Vì $ABC$ vuông tại $A$ nên trung điểm cạnh huyền $H$ thỏa mãn $HA=HB=HC$.\n- Lại có $SA=SB=SC$ nên điểm $S$ nằm trên đường thẳng vuông góc với mặt phẳng $ABC$ tại $H$. Do đó $SH\\perp (ABC)$.\n- Suy ra ngay $SH\\perp AC$ và $SH\\perp BC$ nên các mệnh đề A, B, D đều đúng.\n- Vì $H\\in BC$ nên $SH$ nằm trong mặt phẳng $(SBC)$. Một đường thẳng nằm trong mặt phẳng thì không thể vuông góc với chính mặt phẳng đó.\n✅ **Đáp án:** Chọn C. $SH\\perp (SBC)$"
+    },
+    {
+      "id": 4,
+      "content": "Một bình đựng \\$4$ quả cầu xanh và \\$6$ quả cầu trắng. Chọn ngẫu nhiên \\$4$ quả cầu. Xác suất để được \\$2$ quả cầu xanh và \\$2$ quả cầu trắng là",
+      "chuong": "các quy tắc tính xác suất",
+      "dang": "công thức nhân xác suất cho hai biến cố độc lập",
+      "type": "single",
+      "options": [
+        "A. $\\dfrac{3}{7}$",
+        "B. $\\dfrac{4}{7}$",
+        "C. $\\dfrac{1}{7}$",
+        "D. $\\dfrac{1}{20}$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Có \\$4$ quả cầu xanh và \\$6$ quả cầu trắng.\n- Chọn ngẫu nhiên \\$4$ quả.\n- Cần xác suất lấy đúng \\$2$ quả xanh và \\$2$ quả trắng.\n❓ **Hiểu câu hỏi:**\n- Đây là bài toán xác suất cổ điển.\n- Ta tính xác suất bằng số cách chọn thuận lợi chia cho tổng số cách chọn.\n🔎 **Hướng dẫn cách làm:**\n- Tổng số cách chọn \\$4$ quả từ \\$10$ quả là $\\mathrm{C}_{10}^{4}$.\n- Số cách chọn đúng \\$2$ quả xanh từ \\$4$ quả xanh là $\\mathrm{C}_{4}^{2}$.\n- Số cách chọn đúng \\$2$ quả trắng từ \\$6$ quả trắng là $\\mathrm{C}_{6}^{2}$.\n- Vậy $P=\\dfrac{\\mathrm{C}_{4}^{2}\\cdot \\mathrm{C}_{6}^{2}}{\\mathrm{C}_{10}^{4}}=\\dfrac{6\\cdot 15}{210}=\\dfrac{3}{7}$.\n✅ **Đáp án:** Chọn A. $\\frac{3}{7}$"
+    },
+    {
+      "id": 5,
+      "content": "Cho cấp số nhân $(u_n)$, biết $u_1=1;u_4=64$. Công bội $q$ của cấp số nhân bằng",
+      "chuong": "dãy số. cấp số cộng và cấp số nhân",
+      "dang": "số hạng tổng quát của cấp số nhân",
+      "type": "single",
+      "options": [
+        "A. $q=2\\sqrt{2}$",
+        "B. $q=8$",
+        "C. $q=4$",
+        "D. $q=2$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cấp số nhân $\\left(u_n\\right)$ có $u_1=1$ và $u_4=64$.\n- Cần tìm công bội $q$.\n❓ **Hiểu câu hỏi:**\n- Với cấp số nhân, ta có công thức $u_n=u_1q^{n-1}$.\n- Thay $n=4$ để tìm $q$.\n🔎 **Hướng dẫn cách làm:**\n- Từ công thức tổng quát, $u_4=u_1q^3$.\n- Thay số vào được \\$64=1\\cdot q^3$ nên $q^3=64$.\n- Lấy căn bậc ba hai vế, ta được $q=4$.\n✅ **Đáp án:** Chọn C. $q=4$"
+    },
+    {
+      "id": 6,
+      "content": "Tìm giá trị nhỏ nhất của hàm số $y=f(x)=\\dfrac{x^2+3}{x+1}$ trên đoạn $[-4;-2]$.",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "cách tìm giá trị lớn nhất và giá trị nhỏ nhất của hàm số trên một đoạn",
+      "type": "single",
+      "options": [
+        "A. $\\min\\limits_{[-4;-2]} f(x)=-\\dfrac{19}{3}$",
+        "B. $\\min\\limits_{[-4;-2]} f(x)=-8$",
+        "C. $\\min\\limits_{[-4;-2]} f(x)=-6$",
+        "D. $\\min\\limits_{[-4;-2]} f(x)=-7$"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- $f(x)=\\dfrac{x^2+3}{x+1}$.\n- Xét hàm số trên đoạn $[-4;-2]$.\n- Cần tìm giá trị nhỏ nhất của hàm số.\n❓ **Hiểu câu hỏi:**\n- Đây là bài toán tìm cực trị trên đoạn.\n- Ta cần tính đạo hàm, tìm điểm tới hạn trong đoạn rồi so sánh giá trị tại các điểm cần xét.\n🔎 **Hướng dẫn cách làm:**\n- Ta biến đổi $f(x)=x-1+\\dfrac{4}{x+1}$ nên $f'(x)=1-\\dfrac{4}{(x+1)^2}$.\n- Giải $f'(x)=0$ được $(x+1)^2=4$ nên $x=1$ hoặc $x=-3$. Trên đoạn đã cho chỉ có $x=-3$.\n- Tính các giá trị: $f(-4)=\\dfrac{19}{-3}=-\\dfrac{19}{3}$, $f(-3)=\\dfrac{12}{-2}=-6$, $f(-2)=\\dfrac{7}{-1}=-7$.\n- So sánh ba giá trị trên, nhỏ nhất là $-7$.\n✅ **Đáp án:** Chọn D. $\\min_{[-4;-2]}f(x)=-7$"
+    },
+    {
+      "id": 7,
+      "content": "Tích phân $\\int_0^1 \\dfrac{1}{x+1}\\,dx$ bằng",
+      "chuong": "nguyên hàm và tích phân",
+      "dang": "khái niệm tích phân",
+      "type": "single",
+      "options": [
+        "A. \\$2(\\sqrt{2}-1)$",
+        "B. $\\sqrt{2}-1$",
+        "C. $\\ln 2$",
+        "D. $\\dfrac{\\sqrt{2}-1}{2}$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cần tính $\\int_0^1 \\dfrac{1}{x+1}\\,dx$.\n❓ **Hiểu câu hỏi:**\n- Đây là tích phân cơ bản dạng $\\int \\dfrac{1}{x+a}\\,dx$.\n- Nguyên hàm của $\\dfrac{1}{x+1}$ là $\\ln|x+1|+C$.\n🔎 **Hướng dẫn cách làm:**\n- Ta có $\\int \\dfrac{1}{x+1}\\,dx=\\ln|x+1|+C$.\n- Áp dụng công thức Newton - Leibniz:\n- $\\int_0^1 \\dfrac{1}{x+1}\\,dx=\\left[\\ln|x+1|\\right]_0^1=\\ln 2-\\ln 1$.\n- Vì $\\ln 1=0$ nên kết quả bằng $\\ln 2$.\n✅ **Đáp án:** Chọn C. $\\ln 2$"
+    },
+    {
+      "id": 8,
+      "content": "Cho hàm số $f(x)$ có đạo hàm liên tục trên $\\mathbb{R}$ và có đồ thị hàm số $f'(x)$ là đường cong trong hình bên. Mệnh đề nào dưới đây đúng?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-cum-truong-so-gd-dt-hai-phong-nam-2026-lan-1/cau-08.webp\" alt=\"Hình minh họa câu 8\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "tính đơn điệu của hàm số",
+      "type": "single",
+      "options": [
+        "A. Hàm số $f(x)$ nghịch biến trên khoảng $(0;2)$.",
+        "B. Hàm số $f(x)$ nghịch biến trên khoảng $(-1;1)$.",
+        "C. Hàm số $f(x)$ đồng biến trên khoảng $(1;2)$.",
+        "D. Hàm số $f(x)$ đồng biến trên khoảng $(-2;1)$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Đồ thị cho là đồ thị của $f'(x)$.\n- Đồ thị cắt trục hoành tại $x=-2,0,2$.\n- Cần chọn mệnh đề đúng về tính đơn điệu của $f(x)$.\n❓ **Hiểu câu hỏi:**\n- Hàm số $f(x)$ tăng khi $f'(x)>0$ và giảm khi $f'(x)<0$.\n- Chỉ cần đọc dấu của $f'(x)$ trên từng khoảng.\n🔎 **Hướng dẫn cách làm:**\n- Quan sát đồ thị, ta thấy $f'(x)<0$ trên khoảng $(0;2)$.\n- Khi đó trên khoảng $(0;2)$, hàm số $f(x)$ nghịch biến.\n- Các khoảng còn lại không khớp với các phương án đã cho.\n✅ **Đáp án:** Chọn A. Hàm số $f(x)$ nghịch biến trên khoảng $(0;2)$"
+    },
+    {
+      "id": 9,
+      "content": "Tập hợp nghiệm của bất phương trình $\\log(x-2)<1$ là",
+      "chuong": "hàm số mũ và hàm số lôgarit",
+      "dang": "bất phương trình lôgarit",
+      "type": "single",
+      "options": [
+        "A. $(2;12)$",
+        "B. $(12;+\\infty)$",
+        "C. $(-\\infty;3)$",
+        "D. $(-\\infty;12)$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cần giải bất phương trình $\\log(x-2)<1$.\n❓ **Hiểu câu hỏi:**\n- Trước hết phải đặt điều kiện xác định cho biểu thức logarit.\n- Sau đó đổi bất phương trình logarit về bất phương trình đại số.\n🔎 **Hướng dẫn cách làm:**\n- Điều kiện xác định là $x-2>0$ nên $x>2$.\n- Vì $\\log(x-2)<1$ nên $x-2<10^1=10$.\n- Suy ra $x<12$.\n- Kết hợp với điều kiện xác định, ta được \\$2<x<12$.\n✅ **Đáp án:** Chọn A. $(2;12)$"
+    },
+    {
+      "id": 10,
+      "content": "Trong không gian với hệ trục tọa độ $Oxyz$, cho điểm $A(-4;3;1)$. Gọi $M,N,P$ lần lượt là hình chiếu của $A$ trên $Ox,Oy,Oz$. Viết phương trình mặt phẳng $(MNP)$.",
+      "chuong": "phương pháp tọa độ trong không gian",
+      "dang": "lập phương trình tổng quát của mặt phẳng",
+      "type": "single",
+      "options": [
+        "A. \\$4x-3y-z+26=0$",
+        "B. $\\dfrac{x}{-4}+\\dfrac{y}{3}+z=1$",
+        "C. \\$3x-4y-12z+1=0$",
+        "D. $\\dfrac{x}{-4}+\\dfrac{y}{3}+\\dfrac{z}{1}=0$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- $A(-4;3;1)$.\n- $M,N,P$ lần lượt là hình chiếu của $A$ trên các trục $Ox,Oy,Oz$.\n- Cần viết phương trình mặt phẳng $(MNP)$.\n❓ **Hiểu câu hỏi:**\n- Ta tìm tọa độ các hình chiếu của $A$ lên ba trục tọa độ.\n- Sau đó dùng dạng mặt phẳng theo đoạn chắn.\n🔎 **Hướng dẫn cách làm:**\n- Hình chiếu của $A(-4;3;1)$ lên $Ox$ là $M(-4;0;0)$.\n- Hình chiếu lên $Oy$ là $N(0;3;0)$.\n- Hình chiếu lên $Oz$ là $P(0;0;1)$.\n- Mặt phẳng đi qua ba điểm chắn trục có dạng $\\dfrac{x}{a}+\\dfrac{y}{b}+\\dfrac{z}{c}=1$.\n- Thay $a=-4$, $b=3$, $c=1$ được $\\dfrac{x}{-4}+\\dfrac{y}{3}+z=1$.\n✅ **Đáp án:** Chọn B. $\\frac{x}{-}4}+\\frac{y}{3}+z=1$"
+    },
+    {
+      "id": 11,
+      "content": "Phương trình \\$1-\\cos 2x=0$ có tập nghiệm là",
+      "chuong": "hàm số lượng giác và phương trình lượng giác",
+      "dang": "phương trình cosx=m",
+      "type": "single",
+      "options": [
+        "A. $\\{k\\pi, k\\in\\mathbb{Z}\\}$",
+        "B. $\\left\\{\\dfrac{\\pi}{2}+k2\\pi, k\\in\\mathbb{Z}\\right\\}$",
+        "C. $\\{k2\\pi, k\\in\\mathbb{Z}\\}$",
+        "D. $\\left\\{\\dfrac{\\pi}{4}+k\\pi, k\\in\\mathbb{Z}\\right\\}$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cần giải phương trình \\$1-\\cos 2x=0$.\n❓ **Hiểu câu hỏi:**\n- Ta đưa phương trình về dạng cơ bản của hàm $\\cos$.\n- Dùng công thức $\\cos t=1 \\Leftrightarrow t=2k\\pi$.\n🔎 **Hướng dẫn cách làm:**\n- Từ \\$1-\\cos 2x=0$ suy ra $\\cos 2x=1$.\n- Khi đó \\$2x=2k\\pi$ với $k\\in\\mathbb{Z}$.\n- Chia hai vế cho \\$2$, ta được $x=k\\pi$.\n✅ **Đáp án:** Chọn A. $\\{k\\pi,\\ k\\in\\mathbb{Z}\\}$"
+    },
+    {
+      "id": 12,
+      "content": "Tìm nguyên hàm của hàm số $f(x)=x^2+\\dfrac{2}{x^2}$.",
+      "chuong": "nguyên hàm và tích phân",
+      "dang": "nguyên hàm của một số hàm số thường gặp",
+      "type": "single",
+      "options": [
+        "A. $\\int f(x)\\,dx=\\dfrac{x^3}{3}+\\dfrac{2}{x}+C$",
+        "B. $\\int f(x)\\,dx=\\dfrac{x^3}{3}-\\dfrac{1}{x}+C$",
+        "C. $\\int f(x)\\,dx=\\dfrac{x^3}{3}+\\dfrac{1}{x}+C$",
+        "D. $\\int f(x)\\,dx=\\dfrac{x^3}{3}-\\dfrac{2}{x}+C$"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- $f(x)=x^2+\\dfrac{2}{x^2}$.\n- Cần tìm một nguyên hàm của hàm số đã cho.\n❓ **Hiểu câu hỏi:**\n- Ta lấy nguyên hàm từng hạng tử.\n- Nên viết $\\dfrac{2}{x^2}=2x^{-2}$ để tính dễ hơn.\n🔎 **Hướng dẫn cách làm:**\n- Ta có $\\int x^2\\,dx=\\dfrac{x^3}{3}$.\n- Ta có $\\int 2x^{-2}\\,dx=2\\cdot \\dfrac{x^{-1}}{-1}=-\\dfrac{2}{x}$.\n- Vậy $\\int \\left(x^2+\\dfrac{2}{x^2}\\right)\\,dx=\\dfrac{x^3}{3}-\\dfrac{2}{x}+C$.\n✅ **Đáp án:** Chọn D. $\\int f(x)\\,dx=\\frac{x^3}{3}-\\frac{2}{x}+C$"
+    }
+  ]
+}

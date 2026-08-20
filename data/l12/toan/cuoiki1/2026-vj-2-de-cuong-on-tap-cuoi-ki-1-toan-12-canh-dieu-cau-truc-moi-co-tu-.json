@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-de-cuong-on-tap-cuoi-ki-1-toan-12-canh-dieu-cau-truc-moi-co-tu-",
+  "sourceId": "vietjack:2-de-cuong-on-tap-cuoi-ki-1-toan-12-canh",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "cuoiki1",
+  "year": 2026,
+  "title": "2.Đề cương ôn tập cuối kì 1 Toán 12 Cánh diều cấu trúc mới (có tự luận) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Phần I. Câu trắc nghiệm nhiều phương án lựa chọn. Mỗi câu chỉ chọn một phương án. Cho hàm số \\(y = f\\left( x \\right)\\) có bảng biến thiên như sau Hàm số đã cho nghịch biến trên khoảng nào dưới đây?",
+      "options": [
+        "A. \\[\\left( {0;2} \\right).\\]",
+        "B. \\[\\left( {0; + \\infty } \\right).\\]",
+        "C. \\[\\left( { - 2;0} \\right).\\]",
+        "D. \\[\\left( {2; + \\infty } \\right).\\]"
+      ],
+      "answer": "A",
+      "note": "Dựa vào bảng biến thiên ta thấy trên khoảng \\[\\left( {0;2} \\right)\\] thì \\[f'\\left( x \\right) < 0\\] . Vậy hàm số nghịch biến trên khoảng \\[\\left( {0;2} \\right)\\] . Chọn A ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hàm số \\(y = f\\left( x \\right)\\) liên tục trên \\(\\mathbb{R}\\) và có bảng xét dấu của đạo hàm như hình vẽ. Hàm số \\(y = f\\left( x \\right)\\) có bao nhiêu điểm cực trị?",
+      "options": [
+        "A. A . \\[1\\] .",
+        "B. \\[2\\] .",
+        "C. \\[3\\] .",
+        "D. \\[4\\] ."
+      ],
+      "answer": "D",
+      "note": "Từ bảng xét dấu ta suy ra hàm số đã cho có \\(4\\) điểm cực trị. Chọn D ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Hỏi hà m số \\(y = \\frac{3}{5}{x^5} - 3{x^4} + 4{x^3} - 2\\) đồng biến trên khoảng nào?",
+      "options": [
+        "A. A . \\(\\left( { - \\infty ;0} \\right)\\) .",
+        "B. B . \\[\\left( { - \\infty ; + \\infty } \\right)\\] .",
+        "C. \\(\\left( {0;2} \\right)\\) .",
+        "D. D . \\(\\left( {2; + \\infty } \\right)\\) ."
+      ],
+      "answer": "B",
+      "note": "TXĐ: \\(D = \\mathbb{R}\\) . \\(y' = 3{x^4} - 12{x^3} + 12{x^2} = 3{x^2}{\\left( {x - 2} \\right)^2} \\ge 0,\\forall x \\in \\mathbb{R}\\) . Chọn B ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Giá trị cực tiểu của hàm số \\(y = {x^4} - 2{x^2} + 5\\) là:",
+      "options": [
+        "A. A . 5.",
+        "B. B . 4.",
+        "C. 0.",
+        "D. 1."
+      ],
+      "answer": "B",
+      "note": "\\(y' = 4{x^3} - 4x = 4x\\left( {{x^2} - 1} \\right)\\) \\(y' = 0 \\Leftrightarrow \\left[ \\begin{array}{l}x = 0\\\\x = \\pm 1\\end{array} \\right.\\) . Bảng biến thiên Chọn B ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Biết đồ thị hàm số \\(y = {x^3} - 2{x^2} + ax + b\\) có điểm cực trị là \\(A\\left( {1;3} \\right)\\) . Khi đó giá trị của \\(4a - b\\) là:",
+      "options": [
+        "A. 1.",
+        "B. 2.",
+        "C. 3.",
+        "D. 4."
+      ],
+      "answer": "A",
+      "note": "Ta có \\(y' = 3{x^2} - 4x + a\\) . Đồ thị hàm số có điểm cực trị là \\(A\\left( {1;3} \\right)\\) , ta có: \\(\\left\\{ \\begin{array}{l}y'\\left( 1 \\right) = - 1 + a = 0\\\\y\\left( 1 \\right) = - 1 + a + b = 3\\end{array} \\right.\\) \\( \\Leftrightarrow \\left\\{ \\begin{array}{l}a = 1\\\\b = 3\\end{array} \\right.\\) . Khi đó ta có, \\(4a - b = 1\\) . Chọn A ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Công suất \\(P\\) (đơn vị \\(W\\) ) của một mạch điện được cung cấp bởi một nguồn pin \\(12V\\) được cho bởi công thức \\(P = 12I - 0,5{I^2}\\) với \\(I\\) (đơn vị \\(A\\) ) là cường độ dòng điện. Hỏi công suất \\(P\\) tăng trong khoảng cường độ dòng điện nào?",
+      "options": [
+        "A. \\[\\left( {0;20} \\right)\\] .",
+        "B. \\[\\left( {4;20} \\right)\\] .",
+        "C. \\[\\left( {12; + \\infty } \\right)\\] .",
+        "D. \\[\\left( {0;12} \\right)\\] ."
+      ],
+      "answer": "D",
+      "note": "Xét hàm số \\(P = 12I - 0,5{I^2}\\) với \\(I \\ge 0\\) . \\(P' = 12 - I;P' = 0 \\Leftrightarrow I = 12\\) . Bảng biến thiên: Từ bảng biến thiên ta có công suất P tăng trong khoảng cường độ dòng điện \\[\\left( {0;12} \\right)\\] . Chọn D ."
+    }
+  ]
+}

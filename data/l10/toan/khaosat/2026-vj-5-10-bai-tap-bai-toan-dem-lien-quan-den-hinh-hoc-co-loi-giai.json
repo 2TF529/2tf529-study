@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-5-10-bai-tap-bai-toan-dem-lien-quan-den-hinh-hoc-co-loi-giai",
+  "sourceId": "vietjack:5-10-bai-tap-bai-toan-dem-lien-quan-den-",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "5.10 Bài tập Bài toán đếm liên quan đến hình học (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Có bao nhiêu đoạn thẳng được tạo thành khi nối 20 điểm trên cùng một mặt phẳng? Biết rằng trong 20 điểm không có 3 điểm nào thẳng hàng.",
+      "options": [
+        "A. 380;",
+        "B. 190;",
+        "C. 250;",
+        "D. 300."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Nối mỗi điểm trên mặt phẳng nối với 19 điểm còn lại trên mặt phẳng ta được 19 đoạn thẳng. Từ đó suy ra có 19 . 20 = 380 (đoạn thẳng) được tạo thành. Nhưng khi tính như vậy thì mỗi đoạn thẳng đã được tính 2 lần. Vậy số đoạn thẳng được tạo thành là 380 2 = 190 (đoạn thẳng)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Có bao nhiêu v e ctơ được tạo thành từ 13 điểm trên cùng một mặt phẳng? Biết rằng trong 13 điểm không có 3 điểm nào thẳng hàng.",
+      "options": [
+        "A. 156;",
+        "B. 169;",
+        "C. 120;",
+        "D. 78."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Xét véc tơ A B → được tạo thành từ các điểm trên mặt phẳng. Số cách chọn điểm A là 13 cách. Số cách chọn điểm B là 12 cách. Số vec tơ có thể được tạo thành là 13 . 12 = 156 (vectơ)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Có bao nhiêu đoạn thẳng được tạo thành khi nối 20 điểm trên cùng một mặt phẳng? Biết rằng trong 20 điểm không có 5 điểm nào thẳng hàng.",
+      "options": [
+        "A. 380;",
+        "B. 378;",
+        "C. 375;",
+        "D. 371."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D - Nếu trên mặt phẳng không có 3 điểm nào thẳng hàng: Nối mỗi điểm trên mặt phẳng nối với 19 điểm còn lại trên mặt phẳng ta được 19 đoạn thẳng. Từ đó suy ra có 19 . 20 = 380 (đoạn thẳng) được tạo thành. Nhưng khi tính như vậy thì mỗi đoạn thẳng đã được tính 2 lần. Vậy số đoạn thẳng được tạo thành là 380 2 = 190 (đoạn thẳng). - Tương tự, số đoạn thẳng được tạo thành từ 5 điểm thẳng hàng nếu 5 điểm đó không thẳng hàng là 5 . 4 2 = 10 (đoạn thẳng). Số lượng đường thẳng bị giảm đi do 5 điểm thẳng hàng là 10 – 1 = 9 (đoạn thẳng). Vậy số đoạn thẳng được tạo thành là 380 – 9 = 371 (đoạn thẳng)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Trong một mặt phẳng có 20 điểm, trong đó không có 3 điểm nào thẳng hàng. Hỏi có thể tạo thành bao nhiêu tam giác từ 20 điểm đó?",
+      "options": [
+        "A. 3420;",
+        "B. 1140;",
+        "C. 1710;",
+        "D. 1520."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B - Xét 1 điểm bất kỳ trên mặt phẳng: Từ điểm đó có thể tạo được 19 đoạn thẳng với 19 điểm còn lại. Với mỗi đoạn thẳng, ta chọn 1 đoạn thẳng trong số 18 đoạn thẳng còn lại và nối 2 điểm với nhau sẽ tạo thành 1 tam giác. Như vậy số tam giác tạo thành là 19 . 18 = 342 (tam giác). Nhưng mỗi tam giác đã được tính 2 lần, vậy số tam giác được tạo thành từ 1 điểm là: 342 2 = 171 (tam giác). Có 20 điểm trên mặt phẳng nên có thể tạo thành 171 . 20 = 3420 (tam giác). Nhưng khi xét các điểm khác nhau, mỗi tam giác đã được tính 3 lần. Vậy số tam giác thực tế có thể tạo thành là 3420 3 = 1140 (tam giác)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Một đa giác có 20 đỉnh có bao nhiêu đường chéo?",
+      "options": [
+        "A. 190;",
+        "B. 170;",
+        "C. 150;",
+        "D. 130."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Từ 20 đỉnh của đa giác có thể tạo được 20.19 2 = 190 (đoạn thẳng). Trong số 190 đoạn thẳng đó có 20 cạnh của đa giác. Vậy số đường chéo của đa giác là 190 – 20 = 170 (đường chéo)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong một mặt phẳng có 20 điểm, trong đó không có 5 điểm nào thẳng hàng. Hỏi có thể tạo thành bao nhiêu tam giác từ 20 điểm đó?",
+      "options": [
+        "A. 3420;",
+        "B. 1140;",
+        "C. 1710;",
+        "D. 1130."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Tương tự cách tính của bài 4, số tam giác có thể tạo thành từ 20 điểm trong đó không có 3 điểm nào thẳng hàng là 20.19.18 2.3 = 1140 (tam giác). Số tam giác có thể tạo thành từ 5 điểm nếu 5 điểm này không thẳng hàng là 5.4.3 2.3 = 10 (tam giác). Từ 5 điểm thẳng hàng không thể tạo được tam giác, vậy số tam giác tạo được từ 20 điểm đã cho là 1140 – 10 = 1130 (tam giác)"
+    }
+  ]
+}

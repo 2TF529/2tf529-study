@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-cac-dang-bai-tap-bien-co-va-dinh-nghia-co-dien-cua-xac-suat-lop",
+  "sourceId": "vietjack:2-cac-dang-bai-tap-bien-co-va-dinh-nghia",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.Các dạng bài tập Biến cố và định nghĩa cổ điển của xác suất lớp 10 (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Tung một đồng xu liên tiếp 2 lần. Không gian mẫu là",
+      "options": [
+        "A. Ω = {SS; NN} ;",
+        "B. Ω = {SS; SN; NN; NS} ;",
+        "C. Ω = {SS; SN; NS} ;",
+        "D. Ω = {SS; SN; NN; NS; S; N}."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Không gian mẫu: Ω = {SS; SN; NN; NS}."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Gieo ngẫu nhiên một đồng tiền cân đối và đồng chất 5 lần. Số phần tử không gian mẫu là",
+      "options": [
+        "A. 64;",
+        "B. 10;",
+        "C. 32;",
+        "D. 16."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Gieo đồng xu có 2 khả năng xảy ra: Sấp (S) hoặc ngửa (N) + Gieo lần 1 có 2 khả năng xảy ra; + Gieo lần 2 có 2 khả năng xảy ra; + Gieo lần 3 có 2 khả năng xảy ra; + Gieo lần 4 có 2 khả năng xảy ra; + Gieo lần 5 có 2 khả năng xảy ra. Vậy n(Ω) = 2.2.2.2.2 = 2 5 = 32."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Xét phép thử “Rút ngẫu nhiên cùng một lúc ba con bài từ bộ bài tú lơ khơ 52 con”. Số phần tử không gian mẫu là:",
+      "options": [
+        "A. 140 608 ;",
+        "B. 156 ;",
+        "C. 132 600 ;",
+        "D. 22 100."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Mỗi cách rút 3 con bài từ bộ bài tú lơ khơ 52 con là một tổ hợp chập 3 của 52. Do đó số phần tử của không gian mẫu là C 52 3 = 22 100."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Gieo một con xúc xắc liên tiếp 2 lần. Gọi kết quả xảy ra là tích số chấm xuất hiện trên hai mặt. Không gian mẫu là:",
+      "options": [
+        "A. Ω = {1; 2; 3; 4; 5; 6};",
+        "B. Ω = {1; 4; 9; 16; 25; 36};",
+        "C. Ω = {1; 2; 3; 4; 5; 6; 8; 10; 12; 15; 18; 20; 24; 30; 36};",
+        "D. Ω = {1; 2; 3; 4; 5; 6; 8; 9; 10; 12; 15; 16; 18; 20; 24; 25; 30; 36}."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Số chấm có thể xuất hiện trong 1 lần gieo là: {1; 2; 3; 4; 5; 6}. Tích số chấm xuất hiện trên hai mặt khi gieo xúc xắc 2 lần: 1.1 = 1; 1.2 = 2; 1.3 = 3; 1.4 = 4; 1.5= 5; 1.6 = 6; 2.2 = 4; 2.3 = 6; 2.4 = 8; 2.5 = 10; 2.6 = 12; 3.3 = 9; 3.4 = 12; 3.5 = 15; 3.6 = 18; 4.4 = 16; 4.5 = 20; 4.6 = 24; 5.5 = 25; 5.6 = 30; 6.6 = 36. Vậy, không gian mẫu của phép thử trên là: Ω = {1; 2; 3; 4; 5; 6; 8; 9; 10; 12; 15; 16; 18; 20; 24; 25; 30; 36}."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Một hộp chứa 5 quả cầu màu xanh và 6 quả cầu màu đỏ. Xét phép thử chọn ngẫu nhiên đồng thời 2 quả cầu từ hộp đó. Khi đó số phần tử của không gian mẫu là:",
+      "options": [
+        "A. 55 ;",
+        "B. 11 ;",
+        "C. 30 ;",
+        "D. 25."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Trong hộp có tổng cộng 5 + 6 = 11 quả cầu. Mỗi cách chọn ngẫu nhiên đồng thời 2 quả cầu ra khỏi hộp là một tổ hợp chập 2 của 11. Vậy n Ω = C 11 2 = 55."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Một đội thanh niên tình nguyện có gồm 12 nam và 3 nữ được phân công ngẫu nhiên về 3 tỉnh, mỗi tỉnh 5 người. Số phần tử của không gian mẫu là",
+      "options": [
+        "A. C 15 5 . C 14 5 . C 13 5",
+        "B. C 15 5 . C 10 5 . C 5 5",
+        "C. C 15 5",
+        "D. C 12 4 . C 3 1"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Đầu tiên chọn 5 trong 15 người đi tỉnh thứ nhất có C 15 5 cách chọn. Chọn 5 trong 10 người còn lại đi tỉnh thứ hai có C 10 5 cách chọn. Chọn 5 trong 5 người còn lại đi tỉnh thứ ba có C 5 5 cách chọn. Vậy có C 15 5 . C 10 5 . C 5 5 cách chọn mỗi tỉnh 5 người."
+    }
+  ]
+}

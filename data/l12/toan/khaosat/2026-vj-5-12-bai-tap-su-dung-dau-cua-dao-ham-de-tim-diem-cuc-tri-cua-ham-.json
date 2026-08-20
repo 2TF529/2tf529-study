@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-5-12-bai-tap-su-dung-dau-cua-dao-ham-de-tim-diem-cuc-tri-cua-ham-",
+  "sourceId": "vietjack:5-12-bai-tap-su-dung-dau-cua-dao-ham-de-",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "5.12 bài tập Sử dụng dấu của đạo hàm để tìm điểm cực trị của hàm số có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho hàm số y = f(x) liên tục trên ℝ và có bảng xét dấu đạo hàm dưới đây . Số điểm cực trị của hàm số là",
+      "options": [
+        "A. 1;",
+        "B. 2;",
+        "C. 3;",
+        "D. 4."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C B. Dựa vào bảng xét dấu, ta có hàm số có 3 điểm cực trị."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hàm số y = f(x) liên tục trên ℝ và có bảng xét dấu f'(x) như sau: Kết luận nào sau đây đúng",
+      "options": [
+        "A. Hàm số có 4 điểm cực trị;",
+        "B. Hàm số có 2 điểm cực đại;",
+        "C. Hàm số có 1 điểm cực trị;",
+        "D. Hàm số có 2 điểm cực tiểu."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D C. Dựa vào bảng xét dấu ta thấy hàm số có hai điểm cực tiểu."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Hàm số \\[y = \\frac{{2x + 3}}{{x + 1}}\\] có bao nhiêu điểm cực trị?",
+      "options": [
+        "A. 3;",
+        "B. 2;",
+        "C. 0;",
+        "D. 1."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Tập xác định D = ℝ\\{−1}. Có \\[y' = \\frac{{ - 1}}{{{{\\left( {x + 1} \\right)}^2}}} < 0,\\,\\forall x \\ne - 1\\]. Khi đó hàm số luôn nghịch biến trên từng khoảng xác định Vậy hàm số đã cho không có cực trị."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hàm số y = f(x) liên tục trên ℝ và có f'(x) = (x – 1) 2 (x 2 – 5x + 6). Số điểm cực trị của hàm số đã cho là",
+      "options": [
+        "A. 5;",
+        "B. 3;",
+        "C. 2;",
+        "D. 4."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có f'(x) = (x – 1) 2 (x 2 – 5x + 6) = (x – 1) 2 (x −2)(x − 3). Do f'(x) = 0 có 1 nghiệm kép x = 1 và hai nghiệm đơn x = 2, x = 3 nên f'(x) đổi dấu hai lần khi qua x = 2 và x = 3. Do đó hàm số có 2 điểm cực trị."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hàm số f(x) có đạo hàm f'(x) = x – 1, ∀x ∈ ℝ . Hỏi f(x) có bao nhiêu điểm cực trị?",
+      "options": [
+        "A. 0;",
+        "B. 1;",
+        "C. 2;",
+        "D. 3."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có f'(x) = 0 x = 1, suy ra f'(x) đổi dấu một lần khi x đi qua giá trị x = 1 nên hàm số f(x) có 1 điểm cực trị."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho hàm số y = f(x) có bảng xét dấu của đạo hàm như hình bên. Số điểm cực tiểu của hàm số y = f(x) là",
+      "options": [
+        "A. 3;",
+        "B. 4;",
+        "C. 2;",
+        "D. 1."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Hàm số đạt cực tiểu tại điểm x = −3 và x = 3 nên số điểm cực tiểu của hàm số là 2."
+    }
+  ]
+}

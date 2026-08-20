@@ -1,0 +1,78 @@
+{
+  "id": "2026-vj-2-10-bai-tap-khoang-cach-giua-cac-duong-thang-va-mat-phang-song-s",
+  "sourceId": "vietjack:2-10-bai-tap-khoang-cach-giua-cac-duong-",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.10 Bài tập Khoảng cách giữa các đường thẳng và mặt phẳng song song, hai mặt phẳng song song (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hình chóp O.ABC có đường cao O H = 2 a 3 . Gọi M và N lần lượt là trung điểm của OA và OB. Khoảng cách giữa đường thẳng MN và (ABC) bằng:",
+      "options": [
+        "A. a 2",
+        "B. a 2 2",
+        "C. a 3",
+        "D. a 3 3"
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Vì M và N lần lượt là trung điểm của OA và OB nên MN // AB. Suy ra MN // (ABC). Do đó d(MN, (ABC)) = d(M, (ABC)). Ta có d M , ( A B C ) d O , ( A B C ) = A M A O = 1 2 ⇒ d M , ( A B C ) = 1 2 d O , ( A B C ) . Mà d(O, (ABC)) = OH = 2 a 3 . Do đó d ( M , ( A B C ) ) = a 3 ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho hình chóp tứ giác đều S.ABCD có AB = SA = 2a. Khoảng cách từ đường thẳng AB đến (SCD) bằng bao nhiêu?",
+      "options": [
+        "A. a 6 2",
+        "B. 2 a 6 3",
+        "C. a 2",
+        "D. a"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Gọi O là tâm của hình vuông. Vì S.ABCD là hình chóp đều nên SO ^ (ABCD) ⇒ SO ^ CD (1). Gọi I, M lần lượt là trung điểm cạnh AB và CD ⇒ IM ^ CD (2). Từ (1) và (2), suy ra CD ^ (SIM). Hạ IH ^ SM tại H. Vì CD ^ (SIM) ⇒ CD ^ IH mà HI ^ SM ⇒ IH ^ (SCD). Do đó d(AB, (SCD)) = d(I, (SCD)) = IH. Vì D SCD đều nên S M = 2 a 3 2 = a 3 . Có O M = 1 2 I M = a . Xét D SOM vuông tại O có S O = S M 2 − O M 2 = 3 a 2 − a 2 = a 2 . Vì S Δ S I M = 1 2 S O . I M = 1 2 I H . S M ⇒ I H = S O . I M S M = a 2 .2 a a 3 = 2 a 6 3 ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hình chóp tứ giác đều S.ABCD có tất cả các cạnh bằng a. Khi đó khoảng cách giữa đường thẳng AB và mặt phẳng (SCD) bằng",
+      "options": [
+        "A. a 6 2",
+        "B. a 6 4",
+        "C. 2 a 6 9",
+        "D. a 6 3"
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Gọi O là tâm hình vuông ABCD. Vì S.ABCD là hình chóp tứ giác đều nên SO ^ (ABCD) ⇒ SO ^ CD. Kẻ OI ^ CD và OH ^ SI. Vì SO ^ CD và OI ^ CD nên CD ^ (SOI) ⇒ CD ^ OH. Lại có OH ^ SI nên OH ^ (SCD). Do đó d(O, (SCD)) = OH. Vì OI là đường trung bình D ACD nên O I = A D 2 = a 2 . Vì D SCD đều cạnh a nên S I = a 3 2 . Xét D SOI vuông tại O, có S O = S I 2 − I O 2 = 3 4 a 2 − a 2 4 = a 2 2 , 1 O H 2 = 1 S O 2 + 1 O I 2 = 2 a 2 + 4 a 2 = 6 a 2 ⇒ O H = a 6 6 . Vì AB // CD nên AB // (SCD). Do đó d(AB, (SCD)) = d(A, (SCD)). Mà d A , ( S C D ) d O , ( S C D ) = C A C O = 2 ⇒ d A , ( S C D ) = 2 d O , ( S C D ) . Do đó d A , ( S C D ) = a 6 3 ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hình chóp S.ABCD có đáy là hình vuông cạnh a, SA vuông góc với đáy và SA = 2a, M là trung điểm của SD. Tính khoảng cách giữa đường thẳng SB và mặt phẳng (ACM).",
+      "options": [
+        "A. 3 a 2",
+        "B. a",
+        "C. 2 a 3",
+        "D. a 3"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Gọi O là giao điểm của AC, BD. Khi đó O là trung điểm của AC, BD. Vì O, M lần lượt là trung điểm của BD, SD nên OM là đường trung bình của D SBD. Suy ra OM // SB Þ SB // (AMC) (1). Qua B, kẻ Bx // AC và qua A kẻ AE vuông góc với Bx tại E. Suy ra BE // (AMC) (2). Từ (1) và (2), suy ra (SBE) // (AMC). Kẻ AH ^ SE (3). Vì AE ^ EB mà SA ^ EB (do SA ^ (ABCD)) Þ EB ^ (SAE) Þ EB ^ AH (4). Từ (3), (4) Þ AH ^ (SEB). Ta có d(SB, (ACM)) = d((SBE), (ACM)) = d(A, (SBE)) = AH. Xét D ABD vuông tại A, có B D = A B 2 + A D 2 = a 2 ⇒ B O = a 2 2 . Ta có A E = B O = a 2 2 . Xét D SAE vuông tại A, có 1 A H 2 = 1 S A 2 + 1 A E 2 = 1 4 a 2 + 2 a 2 = 9 4 a 2 ⇒ A H = 2 a 3 ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho hình lăng trụ tứ giác đều ABCD. A'B'C'D' có cạnh đáy bằng a. Gọi M, N, P lần lượt là trung điểm của AD, DC, A'D'. Tính khoảng cách giữa hai mặt phẳng (MNP) và (ACC').",
+      "options": [
+        "A. a 3 3",
+        "B. a 4",
+        "C. a 3",
+        "D. a 2 4"
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Xét D ADC có M, N lần lượt là trung điểm của AD, DC nên MN là đường trung bình của D ADC ⇒ MN //AC. Do đó MN // (ACC') (1). Tương tự MP // AA' ⇒ MP // (ACC') (2). Từ (1) và (2), suy ra (MNP) // (ACC'). Gọi O = AC Ç BD, I = MN Ç BD . Vì OI ^ AC và OI ^ CC' (do CC' ^ (ABCD)) Þ OI ^ (ACC') Suy ra d ( M N P ) , ( A C C ' ) = O I = 1 4 A C = a 2 4 ."
+    }
+  ]
+}

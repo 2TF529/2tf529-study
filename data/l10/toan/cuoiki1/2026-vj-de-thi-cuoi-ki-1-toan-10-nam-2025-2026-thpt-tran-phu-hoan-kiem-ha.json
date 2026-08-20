@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-de-thi-cuoi-ki-1-toan-10-nam-2025-2026-thpt-tran-phu-hoan-kiem-ha",
+  "sourceId": "vietjack:de-thi-cuoi-ki-1-toan-10-nam-2025-2026-t",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "cuoiki1",
+  "year": 2026,
+  "title": "Đề thi cuối kì 1 Toán 10 năm 2025-2026 THPT Trần Phú (Hoàn Kiếm-Hà Nội) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời rừ câu 1 đến câu 12. Mỗi câu hỏi thí sinh chỉ chọn một phương án. Tìm điều kiện của tham số \\(m\\) để tam thức bậc hai \\(f\\left( x \\right) = - {x^2} - \\left( {m + 2} \\right)x + 5m - 1\\) luôn âm với mọi \\(x \\in \\mathbb{R}\\)?",
+      "options": [
+        "A. \\(m \\ge 0\\).",
+        "B. \\(m \\le - 24\\).",
+        "C. \\( - 24 < m < 0\\).",
+        "D. Không tồn tại \\(m\\)."
+      ],
+      "answer": "C",
+      "note": "Tam thức bậc hai \\(f\\left( x \\right) = - {x^2} - \\left( {m + 2} \\right)x + 5m - 1\\) có hệ số \\(a = - 1\\), \\(b = - \\left( {m + 2} \\right)\\), \\(c = 5m - 1\\). Để \\(f\\left( x \\right) < 0\\) với mọi \\(x \\in \\mathbb{R}\\), điều kiện là: \\(\\left\\{ {\\begin{array}{*{20}{c}}{a < 0}\\\\{{\\rm{\\Delta }} < 0}\\end{array}} \\right.\\). Vì \\(a = - 1 < 0\\) (luôn đúng), ta xét điều kiện biệt thức \\({\\rm{\\Delta }} < 0\\): \\({\\rm{\\Delta }} = {\\left[ { - \\left( {m + 2} \\right)} \\right]^2} - 4 \\cdot \\left( { - 1} \\right) \\cdot \\left( {5m - 1} \\right) = {m^2} + 4m + 4 + 20m - 4 = {m^2} + 24m\\). \\({\\rm{\\Delta }} < 0 \\Leftrightarrow {m^2} + 24m < 0 \\Leftrightarrow - 24 < m < 0\\). Chọn C."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho \\({\\rm{\\Delta }}ABC\\) có \\(AB = 5\\) , \\(AC = 8\\) , \\(\\angle BAC = 60^\\circ \\) . Khi đó \\(\\overrightarrow {AB} \\cdot \\overrightarrow {AC} \\) bằng:",
+      "options": [
+        "A. 40.",
+        "B. \\(20\\sqrt 3 \\) .",
+        "C. \\(40\\sqrt 3 \\) .",
+        "D. 20."
+      ],
+      "answer": "D",
+      "note": "Áp dụng công thức tính tích vô hướng của hai vectơ: \\(\\overrightarrow {AB} \\cdot \\overrightarrow {AC} = AB \\cdot AC \\cdot \\cos \\left( {\\angle BAC} \\right)\\)\\( = 5 \\cdot 8 \\cdot \\cos 60^\\circ = 40 \\cdot \\frac{1}{2} = 20\\). Chọn D."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Tìm tập xác định \\(D\\) của hàm số \\(y = \\frac{{\\sqrt {2x - 4} }}{{{x^2} - 9}}\\) .",
+      "options": [
+        "A. \\(D = \\left( {2; + \\infty } \\right)\\backslash \\left\\{ { \\pm 3} \\right\\}\\) .",
+        "B. \\(D = \\mathbb{R}\\backslash \\left\\{ { \\pm 3} \\right\\}\\) .",
+        "C. \\(D = \\left[ {2; + \\infty } \\right)\\backslash \\left\\{ { - 3} \\right\\}\\) .",
+        "D. \\(D = \\left[ {2; + \\infty } \\right)\\backslash \\left\\{ 3 \\right\\}\\) ."
+      ],
+      "answer": "D",
+      "note": "Hàm số xác định khi và chỉ khi: \\(\\left\\{ \\begin{array}{l}2x - 4 \\ge 0\\\\{x^2} - 9 \\ne 0\\end{array} \\right. \\Leftrightarrow \\left\\{ \\begin{array}{l}x \\ge 2\\\\x \\ne \\pm 3\\end{array} \\right.\\). Vì \\(x \\ge 2\\) nên điều kiện \\(x \\ne - 3\\) luôn luôn thỏa mãn. Do đó \\(x \\in \\left[ {2; + \\infty } \\right)\\backslash \\left\\{ 3 \\right\\}\\). Tập xác định của hàm số là \\(D = \\left[ {2; + \\infty } \\right)\\backslash \\left\\{ 3 \\right\\}\\). Chọn D."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hình bình hành \\(ABCD\\) . Vectơ nào sau đây bằng vectơ \\(\\overrightarrow {CD} \\) ?",
+      "options": [
+        "A. \\(\\overrightarrow {AB} \\) .",
+        "B. \\(\\overrightarrow {BA} \\) .",
+        "C. \\(\\overrightarrow {BC} \\) .",
+        "D. \\(\\overrightarrow {AD} \\) ."
+      ],
+      "answer": "B",
+      "note": "Trong hình bình hành \\(ABCD\\), hai đoạn thẳng \\(CD\\) và \\(BA\\) song song và bằng nhau, đồng thời hướng từ \\(C\\) đến \\(D\\) trùng với hướng từ \\(B\\) đến \\(A\\). Do đó, \\(\\overrightarrow {CD} = \\overrightarrow {BA} \\). Chọn B."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho tam thức bậc hai \\(f\\left( x \\right) = a{x^2} + bx + c\\) với \\(a \\ne 0\\) có bảng xét dấu: x −∞ 1 2 +∞ \\(f\\left( x \\right)\\) \\( + \\) \\(0\\) \\( - \\) \\(0\\) \\( + \\) Dựa vào bảng xét dấu cho biết \\(f\\left( x \\right) < 0\\) khi \\(x\\) thuộc khoảng nào sau đây?",
+      "options": [
+        "A. \\(\\left( {1;2} \\right)\\).",
+        "B. \\(\\left( {2; + \\infty } \\right)\\).",
+        "C. \\(\\left( { - \\infty ; + \\infty } \\right)\\).",
+        "D. \\(\\left( { - \\infty ;1} \\right)\\)."
+      ],
+      "answer": "A",
+      "note": "Quan sát bảng xét dấu, ta thấy \\(f\\left( x \\right) < 0\\) (mang dấu âm) khi \\(x\\) nằm trong khoảng \\(\\left( {1;2} \\right)\\). Chọn A."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho \\(\\vec b \\ne \\vec 0\\) và \\(\\vec a = - 3\\vec b\\) . Khẳng định nào sau đây đúng?",
+      "options": [
+        "A. \\(\\vec a\\) và \\(\\vec b\\) không cùng phương.",
+        "B. \\(\\vec a\\) và \\(\\vec b\\) cùng hướng.",
+        "C. \\(\\vec a\\) và \\(\\vec b\\) ngược hướng và \\(\\left| {\\vec a} \\right| = - 3\\left| {\\vec b} \\right|\\) .",
+        "D. \\(\\vec a\\) và \\(\\vec b\\) ngược hướng và \\(\\left| {\\vec a} \\right| = 3\\left| {\\vec b} \\right|\\) ."
+      ],
+      "answer": "D",
+      "note": "Vì \\(\\vec a = k\\vec b\\) với \\(k = - 3 < 0\\), nên \\(\\vec a\\) và \\(\\vec b\\) ngược hướng. Độ dài của \\(\\vec a\\) là: \\(\\left| {\\vec a} \\right| = \\left| { - 3} \\right| \\cdot \\left| {\\vec b} \\right| = 3\\left| {\\vec b} \\right|\\). Chọn D."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Cho parabol \\(\\left( P \\right):y = 3{x^2} - 2x + 1\\) . Điểm nào sau đây là đỉnh của \\(\\left( P \\right)\\) ?",
+      "options": [
+        "A. \\(I\\left( {\\frac{1}{3}; - \\frac{2}{3}} \\right)\\) .",
+        "B. \\(I\\left( {\\frac{1}{3};\\frac{2}{3}} \\right)\\) .",
+        "C. \\(I\\left( {0;1} \\right)\\) .",
+        "D. \\(I\\left( { - \\frac{1}{3};\\frac{2}{3}} \\right)\\) ."
+      ],
+      "answer": "B",
+      "note": "Tọa độ đỉnh \\(I\\left( {{x_I};{y_I}} \\right)\\) của parabol \\(y = a{x^2} + bx + c\\) được xác định theo công thức: \\({x_I} = - \\frac{b}{{2a}} = - \\frac{{ - 2}}{{2 \\cdot 3}} = \\frac{1}{3}\\) \\({y_I} = 3 \\cdot {\\left( {\\frac{1}{3}} \\right)^2} - 2 \\cdot \\left( {\\frac{1}{3}} \\right) + 1 = \\frac{1}{3} - \\frac{2}{3} + 1 = \\frac{2}{3}\\) Tọa độ đỉnh là \\(I\\left( {\\frac{1}{3};\\frac{2}{3}} \\right)\\). Chọn B."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Số nghiệm của phương trình \\(\\sqrt {{x^2} - 2x - 1} = \\sqrt { - {x^2} + 2x - 1} \\) là:",
+      "options": [
+        "A. 1.",
+        "B. 3.",
+        "C. 0.",
+        "D. 2."
+      ],
+      "answer": "C",
+      "note": "Điều kiện để các biểu thức dưới căn xác định: \\(\\left\\{ {\\begin{array}{*{20}{c}}{{x^2} - 2x - 1 \\ge 0}\\\\{ - {x^2} + 2x - 1 \\ge 0}\\end{array}} \\right.\\). Xét bất phương trình \\( - {x^2} + 2x - 1 \\ge 0 \\Leftrightarrow - {\\left( {x - 1} \\right)^2} \\ge 0 \\Leftrightarrow x = 1\\). Thử \\(x = 1\\) vào biểu thức \\({x^2} - 2x - 1\\) ta được \\({1^2} - 2 \\cdot 1 - 1 = - 2 < 0\\quad \\left( {{\\rm{kh\\^o ng\\;th/m\\~a n}}} \\right)\\) Do không có giá trị \\(x\\) nào thỏa mãn điều kiện xác định đồng thời, phương trình đã cho có \\(0\\) nghiệm. Chọn C."
+    }
+  ]
+}

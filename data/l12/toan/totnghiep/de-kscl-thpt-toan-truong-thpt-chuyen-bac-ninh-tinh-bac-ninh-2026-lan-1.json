@@ -1,0 +1,196 @@
+{
+  "id": "l12-toan-totnghiep-2026-de-kscl-thpt-toan-truong-thpt-chuyen-bac-ninh-tinh-bac-ninh-2026-lan-1",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "code": "THPT_TTT_2026_BN_02",
+  "title": "Đề khảo sát chất lượng THPT môn Toán trường THPT Chuyên Bắc Ninh Sở GD&ĐT Bắc Ninh năm 2026 - Lần 1",
+  "duration": 90,
+  "answerSource": "official",
+  "source": "https://dolthpt.vn/tot-nghiep-thpt/pdf-de-kscl-thpt-toan-truong-thpt-chuyen-bac-ninh-tinh-bac-ninh-2026-lan-1-co-dap-an",
+  "notes": "Nội dung, đáp án và lời giải được nhập từ bản công khai của DOL THPT.",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "content": "Cho hàm số $y=\\dfrac{2x-1}{x+1}$. Giá trị $f'(3)$ bằng",
+      "chuong": "đạo hàm",
+      "dang": "đạo hàm của một số hàm số thường gặp",
+      "type": "single",
+      "options": [
+        "A. $\\dfrac{4}{5}$.",
+        "B. $\\dfrac{3}{16}$.",
+        "C. $\\dfrac{2}{9}$.",
+        "D. $\\dfrac{1}{6}$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số $y=\\dfrac{2x-1}{x+1}$.\n- Yêu cầu: tính giá trị $f'(3)$ của hàm số.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu tính đạo hàm của hàm số tại $x=3$, nghĩa là cần tìm $f'(x)$ sau đó thay $x=3$.\n- Kiến thức cần dùng: quy tắc đạo hàm của thương hai hàm (quy tắc thương) hoặc biến đổi hàm trước rồi lấy đạo hàm.\n🔎 **Hướng dẫn cách làm:**\n- Gọi $u=2x-1,\\; v=x+1$, khi đó $u'=2,\\; v'=1$.\n- Áp dụng quy tắc thương: $\\left(\\dfrac{u}{v}\\right)'=\\dfrac{u'v-uv'}{v^2}$.\n- Áp dụng vào hàm:\n$f'(x)=\\dfrac{2(x+1)-(2x-1)\\cdot 1}{(x+1)^2}.$\n- Tính tử số: \\$2(x+1)-(2x-1)=2x+2-2x+1=3.$\n- Vậy $f'(x)=\\dfrac{3}{(x+1)^2}.$\n- Thay $x=3$: $(3+1)^2=16\\Rightarrow f'(3)=\\dfrac{3}{16}.$\n- (Kiểm tra nhanh bằng phương pháp khác: chia đa thức $\\dfrac{2x-1}{x+1}=2-\\dfrac{3}{x+1}$, đạo hàm là \\$0+\\dfrac{3}{(x+1)^2}$, cùng kết quả.)\n✅ **Đáp án:** B. $\\dfrac{3}{16}$."
+    },
+    {
+      "id": 2,
+      "content": "Cho hình lập phương $ABCD.A'B'C'D'$. Vecto nào dưới đây bằng $\\overrightarrow{AD}$?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-kscl-thpt-toan-truong-thpt-chuyen-bac-ninh-tinh-bac-ninh-2026-lan-1/cau-02.webp\" alt=\"Hình minh họa câu 2\" loading=\"lazy\"></figure>",
+      "chuong": "vectơ",
+      "dang": "bài tập cuối chương 4",
+      "type": "single",
+      "options": [
+        "A. $\\overrightarrow{BC^{\\prime}}$.",
+        "B. $\\overrightarrow{DC}$.",
+        "C. $\\overrightarrow{B'C'}$.",
+        "D. $\\overrightarrow{AB}$."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**📃 Thông tin đề bài cho:**\n- Hình lập phương $ABCD.A'B'C'D'$.\n- Hỏi: vectơ nào bằng $\\overrightarrow{AD}$.\n**❓ Hiểu câu hỏi:**\n- Hai vectơ **bằng nhau** khi chúng **cùng hướng** và **cùng độ dài** (không cần cùng điểm đặt).\n- Ta sẽ dùng tính chất: trong **hình chữ nhật** (hình bình hành), hai cạnh đối **song song** và **bằng nhau**.\n**🔎 Hướng dẫn cách làm:**\n- Vì $ABCD$ là hình vuông nên: - $AD \\parallel BC$ và $AD = BC \\Rightarrow \\overrightarrow{AD}=\\overrightarrow{BC}.$\n- Mặt bên $BCC'B'$ cũng là hình vuông nên: - $BC \\parallel B'C'$ và $BC = B'C' \\Rightarrow \\overrightarrow{BC}=\\overrightarrow{B'C'}.$\n- Suy ra: - $\\overrightarrow{AD}=\\overrightarrow{BC}=\\overrightarrow{B'C'}.$\n**✅ Đáp án:** **C. **"
+    },
+    {
+      "id": 3,
+      "content": "Tập xác định của hàm số $y=(x-1)^{\\dfrac{1}{6}}+\\log(4-x^2)$ là",
+      "chuong": "hàm số mũ và hàm số lôgarit",
+      "dang": "hàm số lôgarit",
+      "type": "single",
+      "options": [
+        "A. $[1;2)$.",
+        "B. $(-2;2)$.",
+        "C. $(1;2]$.",
+        "D. $(1;2)$."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số: $y=(x-1)^{\\dfrac{1}{6}}+\\log(4-x^2).$\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu xác định tập xác định D của hàm số, tức là các giá trị $x$ sao cho cả hai biểu thức trong biểu thức của $y$ đều xác định (hợp lệ) với kiến thức toán THPT.\n- Cần xét điều kiện xác định của: - căn bậc 6 (hay lũy thừa mũ hữu tỉ với mẫu là 6) của $x-1$,\n  - hàm logarit của \\$4-x^2$.\n🔎 **Hướng dẫn cách làm:**\n- Điều kiện để biểu thức $(x-1)^{\\tfrac{1}{6}}$ là xác định (theo quy ước trong chương trình THPT với số mũ hữu tỉ có mẫu chẵn) là: - $x-1>0\\quad\\text{(ta yêu cầu cơ số dương khi mẫu của mũ phân số là số chẵn)}$\n  - từ đó được $x>1.$\n- Điều kiện để hàm $\\log(4-x^2)$ xác định là đối số dương: - \\$4-x^2>0 \\iff -2<x<2.$\n- Giao của hai điều kiện $x>1$ và $-2<x<2$ là: - \\$1<x<2.$\n- Vậy tập các $x$ thoả hai điều kiện trên là khoảng $(1;2)$.\n✅ **Đáp án:** $D.\\ (1;2)$"
+    },
+    {
+      "id": 4,
+      "content": "Khảo sát thời gian tập thể dục của một số học sinh khối \\$11$ thu được mẫu số liệu ghép nhóm sau. Trung vị mẫu số liệu trên gần số nào nhất?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-kscl-thpt-toan-truong-thpt-chuyen-bac-ninh-tinh-bac-ninh-2026-lan-1/cau-04.webp\" alt=\"Hình minh họa câu 4\" loading=\"lazy\"></figure>",
+      "chuong": "các số đặc trưng đo xu thế trung tâm của mẫu số liệu ghép nhóm",
+      "dang": "trung vị của mẫu số liệu ghép nhóm",
+      "type": "single",
+      "options": [
+        "A. \\$41,23$.",
+        "B. \\$51,54$.",
+        "C. \\$40,55$.",
+        "D. \\$50,44$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**📃 Thông tin đề bài cho:**\n- Bảng số liệu ghép nhóm thời gian tập thể dục (phút): $[0;20),\\ [20;40),\\ [40;60),\\ [60;80),\\ [80;100)$\n- Tần số (số học sinh) tương ứng: \\$5,\\ 9,\\ 13,\\ 10,\\ 6$\n- Các giá trị chọn gần đúng: \\$41,23;\\ 51,54;\\ 40,55;\\ 50,44$\n**❓ Hiểu câu hỏi:**\n- Tìm **trung vị** của mẫu số liệu ghép nhóm.\n- Dùng công thức trung vị cho bảng ghép lớp:\n$Me=L+\\dfrac{\\frac{N}{2}-F}{f}\\cdot h$\n(với $L$ là cận dưới lớp chứa trung vị, $F$ là tần số tích lũy trước lớp đó, $f$ là tần số lớp trung vị, $h$ là độ rộng lớp).\n**🔎 Hướng dẫn cách làm:**\n- Tính tổng số học sinh:\n$N=5+9+13+10+6=43.$\n- Tính $\\dfrac{N}{2}=21,5.$\n- Lập tần số tích lũy: - Đến $[0;20)$: \\$5$\n  - Đến $[20;40)$: \\$5+9=14$\n  - Đến $[40;60)$: \\$14+13=27$\n- Vì \\$14<21,5\\le 27$ nên **lớp chứa trung vị** là $[40;60)$.\n- Áp dụng công thức: - $L=40,\\ F=14,\\ f=13,\\ h=20$\n  - $Me=40+\\dfrac{21,5-14}{13}\\cdot 20=40+\\dfrac{7,5}{13}\\cdot 20\\approx 51,54.$\n**✅ Đáp án:** $B.\\ 51,54$"
+    },
+    {
+      "id": 5,
+      "content": "Cho hàm số $y=-x^3+3x^2+9x-1$. Hệ số góc lớn nhất của tiếp tuyến với đồ thị hàm số là",
+      "chuong": "đạo hàm",
+      "dang": "đạo hàm của tổng, hiệu, tích, thương",
+      "type": "single",
+      "options": [
+        "A. \\$9$.",
+        "B. \\$12$.",
+        "C. \\$6$.",
+        "D. \\$8$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số: $y=-x^3+3x^2+9x-1.$\n- Yêu cầu: tìm hệ số góc lớn nhất của các tiếp tuyến với đồ thị hàm số.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi hỏi: “Hệ số góc lớn nhất của tiếp tuyến với đồ thị hàm số là bao nhiêu?” — tức là tìm giá trị lớn nhất của đạo hàm $y'$ của hàm số trên tập số thực.\n- Cần áp dụng kiến thức: đạo hàm của đa thức (đạo hàm bậc hai là một hàm bậc hai), tính cực trị của hàm bậc hai (tọa độ đỉnh), và nhận biết hướng mở của parabol theo hệ số của $x^2$.\n🔎 **Hướng dẫn cách làm:**\n- Viết hàm số: - $y=-x^3+3x^2+9x-1.$\n- Tính đạo hàm (hệ số góc của tiếp tuyến tại một điểm $x$): - $y'=\\frac{dy}{d}x}=-3x^2+6x+9.$\n- Nhận xét: $y'$ là một hàm bậc hai với hệ số $a=-3<0$, nên đồ thị parabol của $y'$ mở xuống, do đó $y'$ đạt giá trị lớn nhất tại đỉnh của parabol.\n- Tọa độ hoành độ đỉnh của parabol $ax^2+bx+c$ là: - $x_v=-\\frac{b}{2}a}.$\n  - Ở đây $a=-3,\\; b=6$ nên\n$x_v=-\\frac{6}{2(-3})}=1.$\n- Giá trị lớn nhất của $y'$ là $y'(1)$: - $y'(1)=-3(1)^2+6(1)+9=-3+6+9=12.$\n- Vậy hệ số góc lớn nhất của các tiếp tuyến là \\$12$.\n✅ **Đáp án:** $B. 12.$"
+    },
+    {
+      "id": 6,
+      "content": "Giá trị của giới hạn $\\lim\\left(\\sqrt[3]{n^3-2n^2}\\right.-n)$ bằng",
+      "chuong": "giới hạn. hàm số liên tục",
+      "dang": "giới hạn hữu hạn của dãy số",
+      "type": "single",
+      "options": [
+        "A. $\\dfrac{1}{3}$.",
+        "B. $-\\dfrac{2}{3}$.",
+        "C. \\$1$.",
+        "D. \\$0$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Tính giá trị của giới hạn $\\lim_{n\\to\\infty}\\left(\\sqrt[3]{n^3-2n^2}-n\\right).$\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu tìm giới hạn khi $n\\to\\infty$ của biểu thức $\\sqrt[3]{n^3-2n^2}-n.$\n- Cần dùng kiến thức giới hạn dãy số, khai triển xấp xỉ hoặc biến đổi đại số. Một công cụ hữu ích là công thức hiệu của lập phương: $a^3-b^3=(a-b)(a^2+ab+b^2).$\n🔎 **Hướng dẫn cách làm:**\n- Gọi $a=\\sqrt[3]{n^3-2n^2}.$ Khi đó $a^3=n^3-2n^2.$\n- Áp dụng công thức hiệu lập phương với $a$ và $n$:\n$a^3-n^3=(a-n)(a^2+an+n^2)=-2n^2.$\nVậy\n$a-n=\\dfrac{-2n^2}{a^2+an+n^2}.$\n- Để xét giới hạn khi $n\\to\\infty$, chia tử và mẫu cho $n^2$:\n$a-n=\\dfrac{-2}{\\left(\\dfrac{a}{n}\\right)^2+\\dfrac{a}{n}+1}.$\n- Khi $n\\to\\infty$, vì $a=\\sqrt[3]{n^3-2n^2}=n\\sqrt[3]{1-\\dfrac{2}{n}}$ nên $\\dfrac{a}{n}\\to 1$. Do đó mẫu số tiến tới \\$1^2+1+1=3$.\n- Kết luận:\n$\\lim_{n\\to\\infty}\\left(\\sqrt[3]{n^3-2n^2}-n\\right)=\\dfrac{-2}{3}.$\n✅ **Đáp án:** B. $-\\dfrac{2}{3}$"
+    },
+    {
+      "id": 7,
+      "content": "Cho hai hình bình hành $ABCD$ và $ABEF$ không cùng nằm trong một mặt phẳng. Gọi $O_1,O_2$ lần lượt là tâm của $ABCD,ABEF$. $M$ là trung điểm của $CD$. Chọn khẳng định sai trong các khẳng định sau",
+      "chuong": "quan hệ song song trong không gian",
+      "dang": "hình chóp và hình tứ diện",
+      "type": "single",
+      "options": [
+        "A. $MO_2$ cắt $(BEC)$.",
+        "B. $O_1O_2$ song song với $(AFD)$.",
+        "C. $O_1O_2$ song song với $(BEC)$.",
+        "D. $O_1O_2$ song song với $(EFM)$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**📃 Thông tin đề bài cho:**\n- Hai hình bình hành $ABCD$ và $ABEF$ không cùng nằm trong một mặt phẳng.\n- $O_1,\\ O_2$ lần lượt là tâm của $ABCD,\\ ABEF$ (giao điểm hai đường chéo).\n- $M$ là trung điểm của $CD$.\n- Các mệnh đề: - $MO_2$ cắt $(BEC)$.\n  - $O_1O_2$ song song với $(AFD)$.\n  - $O_1O_2$ song song với $(BEC)$.\n  - $O_1O_2$ song song với $(EFM)$.\n**❓ Hiểu câu hỏi:**\n- Chọn mệnh đề **sai**.\n- Dùng tính chất **trung điểm** trong tam giác và quan hệ **đường thẳng song song mặt phẳng**, **hai mặt phẳng song song**.\n**🔎 Hướng dẫn cách làm:**\n- Vì $O_1$ là tâm hình bình hành $ABCD$ nên $O_1$ là trung điểm của $BD$. Tương tự, $O_2$ là tâm $ABEF$ nên $O_2$ là trung điểm của $BF$.\n- Xét tam giác $BDF$: - $O_1$ là trung điểm của $BD$, $O_2$ là trung điểm của $BF$\n  - $\\Rightarrow\\ O_1O_2 \\parallel DF.$\n- Ta lại có: - $\\vec{DF}=\\vec{AF}-\\vec{AD},\\quad \\vec{CE}=\\vec{AE}-\\vec{AC}=(\\vec{AB}+\\vec{AF})-(\\vec{AB}+\\vec{AD})=\\vec{AF}-\\vec{AD}$\n  - $\\Rightarrow\\ DF \\parallel CE\\ \\Rightarrow\\ O_1O_2 \\parallel CE.$\n- Suy ra các mệnh đề song song của $O_1O_2$: - Vì $DF \\subset (AFD)$ và $O_1O_2 \\parallel DF$ nên $O_1O_2 \\parallel (AFD)$ (mệnh đề B đúng).\n  - Vì $CE \\subset (BEC)$ và $O_1O_2 \\parallel CE$ nên $O_1O_2 \\parallel (BEC)$ (mệnh đề C đúng).\n  - Chứng minh $DF \\subset (EFM)$: - Rõ ràng $F \\in (EFM)$.\n    - Dùng vectơ (chỉ để kiểm tra nhanh tính đồng phẳng): đặt $\\vec{FE}$ và $\\vec{FM}$ là hai vectơ chỉ phương của mặt phẳng $(EFM)$, ta có thể biểu diễn\n$\\vec{FD}=-\\frac12\\vec{FE}+\\vec{FM}.$\nDo đó $\\vec{FD}$ là tổ hợp của $\\vec{FE},\\vec{FM}$ nên $D \\in (EFM)$, suy ra $DF \\subset (EFM)$.\n    - Vì $DF \\subset (EFM)$ và $O_1O_2 \\parallel DF$ nên $O_1O_2 \\parallel (EFM)$ (mệnh đề D đúng).\n- Cuối cùng xét mệnh đề A: $MO_2$ cắt $(BEC)$ - Trong tam giác $BCD$: $O_1$ là trung điểm $BD$ và $M$ là trung điểm $CD$ nên\n$O_1M \\parallel BC.$\n  - Ta đã có $O_1O_2 \\parallel CE$.\n  - Trong mặt phẳng $(O_1O_2M)$ có hai đường cắt nhau $O_1O_2$ và $O_1M$ lần lượt song song với hai đường cắt nhau $CE$ và $CB$ thuộc mặt phẳng $(BCE)$, nên\n$(O_1O_2M)\\parallel (BCE).$\n  - Vì $MO_2 \\subset (O_1O_2M)$ nên\n$MO_2 \\parallel (BCE),$\ndo đó $MO_2$ **không thể cắt** $(BCE)$.\n  - Vậy mệnh đề A **sai**.\n**✅ Đáp án:** $A$"
+    },
+    {
+      "id": 8,
+      "content": "Tập giá trị của hàm số $y=\\cot x$ là",
+      "chuong": "hàm số lượng giác và phương trình lượng giác",
+      "dang": "đồ thị và tính chất của hàm số y=cotx",
+      "type": "single",
+      "options": [
+        "A. $(-1;1)$.",
+        "B. $[-1;1]$.",
+        "C. $\\mathbb{R}$.",
+        "D. $(-\\infty;0)$."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số: $y=\\cot x$.\n- Định nghĩa: $\\cot x=\\dfrac{\\cos x}{\\sin x}$ (x phải thỏa điều kiện $\\sin x\\neq 0$).\n- Nhận dạng liên quan: $\\cot x=\\tan\\Big(\\dfrac{\\pi}{2}-x\\Big)$.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi: Tìm *tập giá trị* (range) của hàm số $y=\\cot x$.\n- Cần biết: tính chất của hàm $\\tan x$ (tập giá trị là $\\mathbb{R}$) và mối liên hệ giữa $\\cot$ và $\\tan$.\n🔎 **Hướng dẫn cách làm:**\n- Viết lại $\\cot x$ theo $\\tan$: $\\cot x=\\tan\\Big(\\dfrac{\\pi}{2}-x\\Big).$\n- Vì hàm $\\tan u$ có tập giá trị là $\\mathbb{R}$ (trên mỗi khoảng xác định như $\\Big(-\\dfrac{\\pi}{2},\\dfrac{\\pi}{2}\\Big)$ nó liên tục và đạt mọi giá trị thực), nên hàm $\\tan$ với biến $u=\\dfrac{\\pi}{2}-x$ cũng đạt mọi giá trị thực.\n- Do đó, theo đẳng thức trên, hàm $\\cot x$ cũng nhận mọi giá trị thực (với điều kiện $x$ không là bội của $\\pi$ do $\\sin x=0$ tại đó hàm không xác định), nghĩa là tập giá trị là toàn bộ $\\mathbb{R}$.\n- Kiểm tra một vài giá trị: $\\cot\\frac{\\pi}{4}=1,\\quad \\cot\\frac{\\pi}{2}=0,\\quad \\lim_{x\\to 0^+}\\cot x=+\\infty,\\quad \\lim_{x\\to \\pi^-}\\cot x=-\\infty.$ Những kiểm tra này phù hợp với kết luận rằng mọi số thực đều là giá trị của $\\cot x$.\n✅ **Đáp án:** $C. \\mathbb{R}$"
+    },
+    {
+      "id": 9,
+      "content": "Cho tứ diện $ABCD$. Gọi $G$ là trọng tâm của tam giác $ABC$. Phát biểu nào sau đây là sai?",
+      "chuong": "vectơ và hệ trục tọa độ trong không gian",
+      "dang": "vectơ trong không gian",
+      "type": "single",
+      "options": [
+        "A. $\\overrightarrow{DA}+\\overrightarrow{DB}+\\overrightarrow{DC}=3\\overrightarrow{DG}$.",
+        "B. $\\overrightarrow{GD}-\\overrightarrow{GA}=\\overrightarrow{AD}$.",
+        "C. $\\overrightarrow{GA}+\\overrightarrow{GB}+\\overrightarrow{GC}=\\overrightarrow{0}$.",
+        "D. $\\overrightarrow{GA}+\\overrightarrow{GB}+\\overrightarrow{GC}+\\overrightarrow{GD}=\\overrightarrow{0}$."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**📃 Thông tin đề bài cho:**\n- Tứ diện $ABCD$.\n- $G$ là trọng tâm tam giác $ABC$.\n- Có thêm điểm $J$ là **trọng tâm tứ diện** $ABCD$ (trong hình).\n**❓ Hiểu câu hỏi:**\n- Cần tìm mệnh đề **sai**.\n- Dùng 2 tính chất: - Trọng tâm tam giác $ABC$: $\\overrightarrow{GA}+\\overrightarrow{GB}+\\overrightarrow{GC}=\\vec 0.$\n  - Trọng tâm tứ diện $ABCD$: $\\overrightarrow{JA}+\\overrightarrow{JB}+\\overrightarrow{JC}+\\overrightarrow{JD}=\\vec 0.$\n**🔎 Hướng dẫn cách làm:**\n- **Bước 1: Nhắc lại tính chất của **$G$\nVì $G$ là trọng tâm tam giác $ABC$ nên:\n$\\overrightarrow{GA}+\\overrightarrow{GB}+\\overrightarrow{GC}=\\vec 0.$\n- **Bước 2: Từ đó suy ra ngay biểu thức ở đáp án D**\nCộng thêm $\\overrightarrow{GD}$ vào hai vế:\n$\\overrightarrow{GA}+\\overrightarrow{GB}+\\overrightarrow{GC}+\\overrightarrow{GD} =\\vec 0+\\overrightarrow{GD}=\\overrightarrow{GD}.$\n⇒ Mệnh đề “$\\overrightarrow{GA}+\\overrightarrow{GB}+\\overrightarrow{GC}+\\overrightarrow{GD}=\\vec 0$” là **sai**.\n- **Bước 3: Gọi  **$J$** là trọng tâm tứ diện nên:**\n$\\overrightarrow{JA}+\\overrightarrow{JB}+\\overrightarrow{JC}+\\overrightarrow{JD}=\\vec 0.$\nMà với mọi điểm $X$ ta có: $\\overrightarrow{GX}=\\overrightarrow{GJ}+\\overrightarrow{JX}$.\nCộng 4 điểm $A,B,C,D$:\n$\\overrightarrow{GA}+\\overrightarrow{GB}+\\overrightarrow{GC}+\\overrightarrow{GD} =4\\overrightarrow{GJ}+(\\overrightarrow{JA}+\\overrightarrow{JB}+\\overrightarrow{JC}+\\overrightarrow{JD}) =4\\overrightarrow{GJ}.$\n- Do $G$ (trọng tâm tam giác $ABC$) khác $J$ (trọng tâm tứ diện) nên $\\overrightarrow{GJ}\\ne \\vec 0$\n⇒ tổng trên cũng không thể bằng $\\vec 0$.\n**✅ Đáp án:** $D$"
+    },
+    {
+      "id": 10,
+      "content": "Cho lăng trụ $ABCD.A'B'C'D'$ có hai đáy là các hình bình hành. Các điểm $M,N,P$ lần lượt là trung điểm của cạnh $AD,BC,CC'$ (tham khảo hình vẽ). Xét các khẳng định sau: a) Mặt phẳng $(MNP)$ cắt $A'D'$. b) Mặt phẳng $(MNP)$ cắt $DD'$ tại trung điểm của $DD'$. c) Mặt phẳng $(MNP)$ song song với mặt phẳng $(ABC'D')$. Trong các khẳng định trên, số khẳng định đúng là:\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-kscl-thpt-toan-truong-thpt-chuyen-bac-ninh-tinh-bac-ninh-2026-lan-1/cau-10.webp\" alt=\"Hình minh họa câu 10\" loading=\"lazy\"></figure>",
+      "chuong": "quan hệ song song trong không gian",
+      "dang": "hình lăng trụ và hình hộp",
+      "type": "single",
+      "options": [
+        "A. \\$0$.",
+        "B. \\$1$.",
+        "C. \\$3$.",
+        "D. \\$2$."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**📃 Thông tin đề bài cho:**\n- Lăng trụ $ABCD.A'B'C'D'$, hai đáy là hình bình hành.\n- $M,N,P$ lần lượt là trung điểm của $AD,\\ BC,\\ CC'$.\n- Các khẳng định: - a) Mặt phẳng $(MNP)$ cắt $A'D'$.\n  - b) Mặt phẳng $(MNP)$ cắt $DD'$ tại trung điểm của $DD'$.\n  - c) Mặt phẳng $(MNP)$ song song với mặt phẳng $(ABC'D')$.\n**❓ Hiểu câu hỏi:**\n- Xét đúng/sai từng khẳng định a), b), c).\n- Đếm số khẳng định đúng để chọn đáp án.\n**🔎 Hướng dẫn cách làm:**\n-\n- **a)** Dễ thấy $A'D' \\parallel AD$ và $MN \\parallel AD$ nên $A'D' \\parallel (MNP)$.\n⇒ Khẳng định “mặt phẳng $(MNP)$ cắt $A'D'$” là **sai**.\n- **b)** Gọi $Q$ là giao điểm của mặt phẳng $(MNP)$ với $DD'$ (tức $Q\\in DD'$).\nTa có $MN \\parallel CD \\Rightarrow CD \\parallel (MNQP) \\Rightarrow CD \\parallel QP$.\nMà $P$ là trung điểm của $CC'$ nên suy ra $Q$ là **trung điểm** của $DD'$.\n⇒ Khẳng định “$(MNP)$ cắt $DD'$ tại trung điểm của $DD'$” là **đúng**.\n- **c)** Ta có $MP$ là đường trung bình của tam giác $\\left(BCC'\\right)$ nên $MP \\parallel BC'$.\nLại có $MN \\parallel AB$, do đó $(MNQP)\\parallel(ABC'D')$ hay khẳng định “$(MNP)$ song song với mặt phẳng $(ABC'D')$” là **đúng**.\n- Vậy có **2** khẳng định đúng.\n**✅ Đáp án:** $D.\\ 2$"
+    },
+    {
+      "id": 11,
+      "content": "Tìm số hạng tổng quát của cấp số nhân lùi vô hạn khi có tổng bằng \\$3$ và công bội bằng $\\dfrac{2}{3}$",
+      "chuong": "dãy số. cấp số cộng và cấp số nhân",
+      "dang": "tổng của n số hạng đầu của một cấp số nhân",
+      "type": "single",
+      "options": [
+        "A. $\\left(\\dfrac{2}{3}\\right)^{n-1}$.",
+        "B. $\\left(\\dfrac{2}{3}\\right)^n$.",
+        "C. $\\left(\\dfrac{2}{3}\\right)^{n+1}$.",
+        "D. $\\left(\\dfrac{2}{3}\\right)^{n+2}$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Tổng của cấp số nhân lùi vô hạn: $S=3$.\n- Công bội: $q=\\dfrac{2}{3}$ (vì $|q|<1$, công thức tổng vô hạn áp dụng được).\n❓ **Hiểu câu hỏi:**\n- Yêu cầu: Tìm số hạng tổng quát $a_n$ của cấp số nhân vô hạn có tổng và công bội đã cho.\n- Kiến thức cần dùng: công thức tổng của cấp số nhân vô hạn $S=\\dfrac{a_1}{1-q}$ và công thức số hạng tổng quát $a_n=a_1q^{\\,n-1}$.\n🔎 **Hướng dẫn cách làm:**\n- Áp dụng công thức tổng vô hạn: $S=\\dfrac{a_1}{1-q}.$\n- Giải để tìm số hạng đầu $a_1$: $a_1=S(1-q).$\n- Thay số vào: $a_1=3\\left(1-\\dfrac{2}{3}\\right)=3\\cdot\\dfrac{1}{3}=1.$\n- Viết số hạng tổng quát: $a_n=a_1q^{\\,n-1}=1\\cdot\\left(\\dfrac{2}{3}\\right)^{n-1}=\\left(\\dfrac{2}{3}\\right)^{n-1}.$\n- Kiểm tra điều kiện: $|q|=\\dfrac{2}{3}<1$ nên công thức tổng vô hạn đã dùng là hợp lệ.\n✅ **Đáp án:** A. $\\left(\\dfrac{2}{3}\\right)^{n-1}$"
+    },
+    {
+      "id": 12,
+      "content": "Cho hàm số đa thức bậc ba $y=ax^3+bx^2+cx+d\\ (a\\ne0)$ có đồ thị như hình vẽ. Hàm số đã cho nghịch biến trên khoảng nào dưới đây?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-kscl-thpt-toan-truong-thpt-chuyen-bac-ninh-tinh-bac-ninh-2026-lan-1/cau-12.webp\" alt=\"Đồ thị có (-1;-1) là điểm cực tiểu và (1;3) là điểm cực đại, ngoài ra đồ thị còn đi qua (-2;3) và (2;-1)\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "tính đơn điệu của hàm số",
+      "type": "single",
+      "options": [
+        "A. $(-2;0)$.",
+        "B. $(0;+\\infty)$.",
+        "C. $(-1;1)$.",
+        "D. $(1;+\\infty)$."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số đa thức bậc ba $y=ax^3+bx^2+cx+d\\ (a\\ne0).$\n- Đồ thị cho biết: điểm $(-1,-1)$ là **điểm cực tiểu** và điểm $(1,3)$ là **điểm cực đại**.\n- Đồ thị còn đi qua các điểm $(-2,3)$ và $(2,-1)$ (thông tin hình ảnh).\n❓ **Hiểu câu hỏi:**\n- Câu hỏi: Hàm số đã cho **nghịch biến** (giảm) trên khoảng nào trong các phương án?\n- Cần áp dụng kiến thức về *đạo hàm* của hàm đa thức bậc ba, dấu của $y'$ tại các khoảng để xác định nơi hàm tăng/giảm.\n- Quan trọng: các điểm cực trị là nghiệm của $y'=0$; dấu của $y'$ bên trái và bên phải từng nghiệm cho biết cực đại hay cực tiểu.\n🔎 **Hướng dẫn cách làm:**\n- Vì đồ thị có hai điểm cực trị tại $x=-1$ và $x=1$ nên đạo hàm bậc hai nghiệm tại hai điểm đó. Do đó ta có thể viết (hệ số tỷ lệ khác 0):\n$y'=k(x+1)(x-1),\\qquad k\\ne0.$\nVới hàm bậc ba chuẩn, hệ số tỷ lệ là $k=3a$, nên\n$y'=3a(x+1)(x-1).$\n- Xét dấu của $y'$ trên từng khoảng tách bởi $-1$ và \\$1$: - Nếu $x<-1$: cả hai thừa số $(x+1)$ và $(x-1)$ đều âm, nên $(x+1)(x-1)>0$; lúc đó dấu của $y'$ bằng dấu của \\$3a$.\n  - Nếu $-1<x<1$: $(x+1)>0,\\ (x-1)<0$ nên $(x+1)(x-1)<0$; khi đó dấu của $y'$ là ngược dấu của \\$3a$.\n  - Nếu $x>1$: cả hai thừa số đều dương, nên $(x+1)(x-1)>0$; dấu của $y'$ lại bằng dấu của \\$3a$.\n- Từ thông tin cực tiểu tại $x=-1$ và cực đại tại $x=1$ ta suy: - Ở $x=-1$, đạo hàm đổi từ *âm* (bên trái) sang *dương* (bên phải) ⇒ trước $-1$: $y'<0$, sau $-1$: $y'>0$.\n  - Như vậy giá trị của \\$3a$ phải **âm** (vì khi $x<-1$ ta cần $y'<0$ nhưng $(x+1)(x-1)>0$), suy ra $a<0$.\n- Khi $a<0$, cụ thể dấu của $y'$ trên các khoảng là: - $(-\\infty,-1):\\ y'<0\\ \\Rightarrow\\ \\text{hàm giảm};$\n  - $(-1,1):\\ y'>0\\ \\Rightarrow\\ \\text{hàm tăng};$\n  - $(1,+\\infty):\\ y'<0\\ \\Rightarrow\\ \\text{hàm giảm}.$\n- Vậy hàm số nghịch biến trên hai khoảng $(-\\infty,-1)$ và $(1,+\\infty)$.\nTrong các phương án cho sẵn chỉ có phương án $(1;+\\infty)$ trùng với một trong các khoảng nghịch biến, nên chọn phương án đó.\n✅ **Đáp án:**  $D. (1;+\\infty)$"
+    }
+  ]
+}

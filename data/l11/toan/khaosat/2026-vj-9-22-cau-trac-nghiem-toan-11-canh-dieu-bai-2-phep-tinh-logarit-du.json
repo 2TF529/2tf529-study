@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-9-22-cau-trac-nghiem-toan-11-canh-dieu-bai-2-phep-tinh-logarit-du",
+  "sourceId": "vietjack:9-22-cau-trac-nghiem-toan-11-canh-dieu-b",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "9.22 câu Trắc nghiệm Toán 11 Cánh diều Bài 2. Phép tính lôgarit (Đúng-sai, trả lời ngắn) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: TRẮC NGHIỆM NHIỀU LỰA CHỌN Với mọi số thực dương a, b, x, y và a, b ≠ 1, mệnh đề nào sau đây sai?",
+      "options": [
+        "A. log a (xy) = log a x.log a y.",
+        "B. log a (xy) = log a x + log a y.",
+        "C. \\({a^{{{\\log }_a}b}} = b\\) .",
+        "D. \\({\\log _a}\\frac{x}{y} = {\\log _a}x - {\\log _a}y\\) ."
+      ],
+      "answer": "A",
+      "note": "A log a (xy) = log a x + log a y."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Trong các mệnh đề sau, mệnh đề nào đúng?",
+      "options": [
+        "A. \\({\\log _a}{b^\\alpha } = \\alpha {\\log _a}b\\) với mọi số thực dương a, b và a ≠ 1.",
+        "B. \\({\\log _a}{b^\\alpha } = \\alpha {\\log _a}b\\) với mọi số thực dương a, b.",
+        "C. \\({\\log _a}{b^\\alpha } = \\alpha {\\log _a}b\\) với mọi số thực a, b.",
+        "D. \\({\\log _a}{b^\\alpha } = \\alpha {\\log _a}b\\) với mọi số thực a, b và a ≠ 1."
+      ],
+      "answer": "A",
+      "note": "A \\({\\log _a}{b^\\alpha } = \\alpha {\\log _a}b\\) với mọi số thực dương a, b và a ≠ 1."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Với a là số thực dương tùy ý, \\({\\log _7}{a^2}\\) bằng",
+      "options": [
+        "A. 7log 2 a.",
+        "B. 2log 7 a.",
+        "C. \\(\\frac{1}{2}{\\log _7}a\\).",
+        "D. \\(\\frac{1}{2} + {\\log _2}a\\) ."
+      ],
+      "answer": "B",
+      "note": "B \\({\\log _7}{a^2} = 2{\\log _7}a\\) ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho a > 0; a ≠ 1. Khi đó \\({\\log _a}\\sqrt[4]{a}\\) bằng",
+      "options": [
+        "A. 4.",
+        "B. \\(\\frac{1}{4}\\).",
+        "C. \\( - \\frac{1}{4}\\) .",
+        "D. \\( - 4\\) ."
+      ],
+      "answer": "B",
+      "note": "B \\({\\log _a}\\sqrt[4]{a} = \\frac{1}{4}{\\log _a}a = \\frac{1}{4}\\) ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Với a là số thực dương tùy ý, log 3 (3a) bằng",
+      "options": [
+        "A. 3 – log 3 a.",
+        "B. 1 – log 3 a.",
+        "C. 3 + log 3 a.",
+        "D. 1 + log 3 a."
+      ],
+      "answer": "D",
+      "note": "D log 3 (3a) = log 3 3 + log 3 a = 1 + log 3 a."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Nếu log 7 x = 8log 7 ab 2 – 2log 7 a 3 b (a, b > 0) thì x bằng",
+      "options": [
+        "A. a 4 b 6 .",
+        "B. a 2 b 14 .",
+        "C. a 6 b 12 .",
+        "D. a 8 b 14 ."
+      ],
+      "answer": "B",
+      "note": "B log 7 x = 8log 7 ab 2 – 2log 7 a 3 b Û log 7 x = log 7 a 8 b 16 – log 7 a 6 b 2 = \\({\\log _7}\\frac{{{a^8}{b^{16}}}}{{{a^6}{b^2}}} = {\\log _7}{a^2}{b^{14}}\\) . Suy ra x = a 2 b 14 ."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Cho log 2 3 = a; log 2 5 = b. Biểu thị log 9 10 theo a và b.",
+      "options": [
+        "A. \\(\\frac{{2a}}{{1 + b}}\\).",
+        "B. \\(\\frac{{1 + b}}{{2a}}\\).",
+        "C. \\(\\frac{b}{{2a}}\\) .",
+        "D. \\(\\frac{{1 - b}}{{2a}}\\) ."
+      ],
+      "answer": "B",
+      "note": "B \\({\\log _9}10 = \\frac{{{{\\log }_2}10}}{{{{\\log }_2}9}} = \\frac{{{{\\log }_2}2 + {{\\log }_2}5}}{{2{{\\log }_2}3}} = \\frac{{1 + b}}{{2a}}\\) ."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Với mọi a, b dương thỏa mãn \\({\\log _2}\\sqrt a - {\\log _2}b = 3\\). Khẳng định nào dưới đây đúng?",
+      "options": [
+        "A. a = 64b 2 .",
+        "B. ab 2 = 64.",
+        "C. \\(\\sqrt a - b = 8\\).",
+        "D. \\(\\frac{{\\sqrt a }}{b} = 3\\)."
+      ],
+      "answer": "A",
+      "note": "A \\({\\log _2}\\sqrt a - {\\log _2}b = 3\\) Û \\({\\log _2}\\frac{{\\sqrt a }}{b} = 3\\)\\( \\Leftrightarrow \\frac{{\\sqrt a }}{b} = {2^3}\\)\\( \\Leftrightarrow \\sqrt a = 8b\\)\\( \\Leftrightarrow a = 64{b^2}\\) ."
+    }
+  ]
+}

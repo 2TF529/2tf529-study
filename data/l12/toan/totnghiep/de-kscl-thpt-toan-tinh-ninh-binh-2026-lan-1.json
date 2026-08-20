@@ -1,0 +1,196 @@
+{
+  "id": "l12-toan-totnghiep-2026-de-kscl-thpt-toan-tinh-ninh-binh-2026-lan-1",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "code": "THPT_TKT_2026_NB_01",
+  "title": "Đề khảo sát chất lượng THPT môn Toán Sở GD&ĐT Ninh Bình năm 2026 - Lần 1",
+  "duration": 90,
+  "answerSource": "official",
+  "source": "https://dolthpt.vn/tot-nghiep-thpt/pdf-de-kscl-thpt-toan-tinh-ninh-binh-2026-lan-1-co-dap-an",
+  "notes": "Nội dung, đáp án và lời giải được nhập từ bản công khai của DOL THPT.",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "content": "Trong không gian với hệ trục tọa độ $Oxyz$, cho hai điểm $A(1;3;5)$ và $B(5;-3;1)$. Trung điểm của đoạn thẳng $AB$ có tọa độ là",
+      "chuong": "vectơ và hệ trục tọa độ trong không gian",
+      "dang": "tọa độ của điểm, tọa độ của vectơ trong không gian",
+      "type": "single",
+      "options": [
+        "A. $(3;0;3)$",
+        "B. $(6;0;6)$",
+        "C. $(-2;3;2)$",
+        "D. $(-4;6;4)$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Trong không gian với hệ trục tọa độ $Oxyz$.\n- Hai điểm $A(1;3;5)$ và $B(5;-3;1)$.\n- Yêu cầu: tìm trung điểm của đoạn thẳng $AB$.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu xác định tọa độ trung điểm của đoạn thẳng nối hai điểm đã cho.\n- Cần áp dụng *công thức trung điểm trong không gian*: trung điểm là trung bình cộng từng hoành độ, tung độ và cao độ của hai điểm.\n🔎 **Hướng dẫn cách làm:**\n- Công thức trung điểm trong không gian:  $M\\left(\\frac{x_A+x_B}{2},\\;\\frac{y_A+y_B}{2},\\;\\frac{z_A+z_B}{2}\\right)$\n- Áp dụng cho $A(1;3;5)$ và $B(5;-3;1)$: - Hoành độ: $\\frac{1+5}{2}=\\frac{6}{2}=3$\n  - Tung độ: $\\frac{3+(-3)}{2}=\\frac{0}{2}=0$\n  - Cao độ: $\\frac{5+1}{2}=\\frac{6}{2}=3$\n- Vậy trung điểm $M$ có tọa độ $M(3;0;3)$.\n✅ **Đáp án:** $A. (3;0;3)$"
+    },
+    {
+      "id": 2,
+      "content": "Cho hàm số $y=f(x)$ liên tục trên $\\mathbb{R}$, có bảng xét dấu đạo hàm như sau. Khẳng định nào dưới đây đúng?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-kscl-thpt-toan-tinh-ninh-binh-2026-lan-1/cau-02.webp\" alt=\"Hình minh họa câu 2\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "tính đơn điệu của hàm số",
+      "type": "single",
+      "options": [
+        "A. Hàm số nghịch biến trên khoảng $(-\\infty;0)$",
+        "B. Hàm số đồng biến trên khoảng $(1;+\\infty)$",
+        "C. Hàm số đồng biến trên khoảng $(-\\infty;-2)$",
+        "D. Hàm số nghịch biến trên khoảng $(0;4)$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số $y=f(x)$ liên tục trên $\\mathbb{R}$.\n- Bảng dấu của đạo hàm $f'(x)$ theo các mốc: $-2,\\ 0,\\ 2$.\n- Dấu của $f'(x)$: - Trên $(-\\infty,-2):\\ f'(x)>0$\n  - Tại $x=-2:\\ f'(x)=0$\n  - Trên $(-2,0):\\ f'(x)<0$\n  - Tại $x=0:$ đạo hàm không xác định (ký hiệu “||”)\n  - Trên $(0,2):\\ f'(x)<0$\n  - Tại $x=2:\\ f'(x)=0$\n  - Trên $(2,+\\infty):\\ f'(x)>0$\n❓ **Hiểu câu hỏi:**\n- Chọn khẳng định đúng về tính **đồng biến/nghịch biến** của hàm số.\n- Kiến thức cần dùng: - Nếu $f'(x)>0$ trên một khoảng thì $f(x)$ **đồng biến** trên khoảng đó.\n  - Nếu $f'(x)<0$ trên một khoảng thì $f(x)$ **nghịch biến** trên khoảng đó.\n🔎 **Hướng dẫn cách làm:**\n- Nhìn bảng dấu để xác định các khoảng: - Vì $f'(x)>0$ trên $(-\\infty,-2)$ nên $f(x)$ **đồng biến** trên $(-\\infty,-2)$.\n  - Vì $f'(x)<0$ trên $(-2,0)$ nên $f(x)$ **nghịch biến** trên $(-2,0)$.\n  - Vì $f'(x)<0$ trên $(0,2)$ nên $f(x)$ **nghịch biến** trên $(0,2)$.\n  - Vì $f'(x)>0$ trên $(2,+\\infty)$ nên $f(x)$ **đồng biến** trên $(2,+\\infty)$.\n- Đối chiếu các đáp án: - A sai vì trên $(-\\infty,-2)$ hàm **đồng biến**, không nghịch biến.\n  - B sai vì trên $(1,2)$ ta có $f'(x)<0$ nên hàm **nghịch biến**.\n  - C đúng vì $f'(x)>0$ trên $(-\\infty,-2)$.\n  - D sai vì trên $(2,4)$ ta có $f'(x)>0$ nên hàm **đồng biến**, không nghịch biến.\n✅ **Đáp án:** C. Hàm số đồng biến trên khoảng $(-\\infty;-2).$"
+    },
+    {
+      "id": 3,
+      "content": "Trong không gian với hệ trục tọa độ $Oxyz$, cho hai vectơ $\\overrightarrow{u}=(2;-1;-2)$ và $\\overrightarrow{v}=(1;1;3)$. Giá trị của $\\overrightarrow{u}\\cdot\\overrightarrow{v}$ bằng",
+      "chuong": "vectơ và hệ trục tọa độ trong không gian",
+      "dang": "biểu thức tọa độ của tích vô hướng",
+      "type": "single",
+      "options": [
+        "A. \\$9$",
+        "B. \\$7$",
+        "C. \\$3\\sqrt{11}$",
+        "D. $-5$"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cho hệ trục tọa độ $Oxyz$.\n- Hai vectơ $\\overrightarrow{u}=(2;\\,-1;\\,-2)$ và $\\overrightarrow{v}=(1;\\,1;\\,3)$.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu tính tích vô hướng (dot product) của hai vectơ $\\overrightarrow{u}$ và $\\overrightarrow{v}$.\n- Cần biết công thức tích vô hướng của hai vectơ trong không gian: $\\overrightarrow{u}\\cdot\\overrightarrow{v}=u_1v_1+u_2v_2+u_3v_3$.\n🔎 **Hướng dẫn cách làm:**\n- Ghi lại thành phần của hai vectơ: $\\overrightarrow{u}=(u_1,u_2,u_3)=(2,-1,-2),\\quad \\overrightarrow{v}=(v_1,v_2,v_3)=(1,1,3).$\n- Áp dụng công thức: $\\overrightarrow{u}\\cdot\\overrightarrow{v}=u_1v_1+u_2v_2+u_3v_3.$\n- Thay số vào: $\\overrightarrow{u}\\cdot\\overrightarrow{v}=2\\cdot 1+(-1)\\cdot 1+(-2)\\cdot 3=2-1-6=-5.$\n✅ **Đáp án:** $D. -5$"
+    },
+    {
+      "id": 4,
+      "content": "Giá trị lớn nhất của hàm số $y=x^3-3x+2$ trên đoạn $[0;3]$ bằng",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "cách tìm giá trị lớn nhất và giá trị nhỏ nhất của hàm số trên một đoạn",
+      "type": "single",
+      "options": [
+        "A. \\$2$",
+        "B. \\$3$",
+        "C. \\$20$",
+        "D. \\$0$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số: $y = x^3 - 3x + 2$\n- Đoạn xét: $[0;3]$\n❓ **Hiểu câu hỏi:**\n- Câu hỏi: Tìm giá trị lớn nhất của hàm số trên đoạn $[0;3]$.\n- Kiến thức cần dùng: tìm cực trị bằng cách lấy đạo hàm $y'$, xét điểm tới hạn trong đoạn và giá trị tại các đầu mút của đoạn.\n🔎 **Hướng dẫn cách làm:**\n- Tính đạo hàm: $y' = 3x^2 - 3 = 3(x^2 - 1).$\n- Giải phương trình $y' = 0$ để tìm điểm tới hạn: \\$3(x^2 -1)=0 \\Rightarrow x=\\pm 1.$ Trong đoạn $[0;3]$ chỉ có $x=1$ là điểm tới hạn.\n- Tính giá trị của hàm tại các điểm cần xét: - $y(0) = 0^3 - 3\\cdot0 + 2 = 2.$\n  - $y(1) = 1^3 - 3\\cdot1 + 2 = 0.$\n  - $y(3) = 3^3 - 3\\cdot3 + 2 = 27 - 9 + 2 = 20.$\n- So sánh các giá trị: \\$2,\\;0,\\;20$ — giá trị lớn nhất là \\$20$ đạt tại $x=3$.\n✅ **Đáp án:**  $C. 20$"
+    },
+    {
+      "id": 5,
+      "content": "Trong không gian với hệ trục tọa độ $Oxyz$, hình chiếu vuông góc của điểm $M(2;-1;3)$ trên trục $Oy$ là điểm có tọa độ",
+      "chuong": "vectơ và hệ trục tọa độ trong không gian",
+      "dang": "tọa độ của điểm, tọa độ của vectơ trong không gian",
+      "type": "single",
+      "options": [
+        "A. $(0;0;3)$",
+        "B. $(0;-1;0)$",
+        "C. $(2;0;0)$",
+        "D. $(2;0;3)$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Điểm $M$ có tọa độ $M(2;-1;3)$.\n- Hệ trục tọa độ không gian là $Oxyz$.\n- Yêu cầu: tìm hình chiếu vuông góc của $M$ lên trục $Oy$.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi hỏi: khi chiếu vuông góc điểm $M$ lên trục $Oy$, ta thu được điểm có tọa độ nào?\n- Cần áp dụng kiến thức: hình chiếu vuông góc của một điểm lên một trục tung (trục $Oy$) giữ lại tọa độ $y$ và các toạ độ theo $Ox$ và $Oz$ bằng 0.\n🔎 **Hướng dẫn cách làm:**\n- Quy ước tổng quát: với một điểm có toạ độ $(x;y;z)$, hình chiếu vuông góc lên trục $Oy$ là\n$(0;y;0).$\n- Áp dụng cho $M(2;-1;3)$: giữ lại thành phần $y=-1$, các thành phần $x$ và $z$ trở thành 0, nên\n$(0;-1;0).$\n- Kiểm tra các phương án: - A: $(0;0;3)$ — sai (giữ lại z thay vì y).\n  - B: $(0;-1;0)$ — đúng.\n  - C: $(2;0;0)$ — sai (giữ lại x thay vì y).\n  - D: $(2;0;3)$ — sai (không phải hình chiếu lên Oy).\n✅ **Đáp án:** $\\text{B. }(0;-1;0)$"
+    },
+    {
+      "id": 6,
+      "content": "Cho mẫu số liệu ghép nhóm có tứ phân vị là $Q_1,Q_2,Q_3$. Khoảng tứ phân vị $\\Delta_Q$ của mẫu số liệu xác định bởi công thức nào sau đây?",
+      "chuong": "các số đặc trưng đo xu thế trung tâm của mẫu số liệu ghép nhóm",
+      "dang": "tứ phân vị của mẫu số liệu ghép nhóm",
+      "type": "single",
+      "options": [
+        "A. $\\Delta_Q=Q_3-Q_1$",
+        "B. $\\Delta_Q=Q_3-Q_2$",
+        "C. $\\Delta_Q=Q_2-Q_1$",
+        "D. $\\Delta_Q=Q_1-Q_3$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Mẫu số liệu (ghép nhóm) có ba tứ phân vị là $Q_1,\\;Q_2,\\;Q_3$.\n- Yêu cầu tìm khoảng tứ phân vị $\\Delta_Q$ của mẫu.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi: \"Khoảng tứ phân vị $\\Delta_Q$ của mẫu số liệu xác định bởi công thức nào?\"\n- Kiến thức cần áp dụng: định nghĩa của *khoảng tứ phân vị* trong thống kê mô tả, biết rằng tứ phân vị thứ nhất là $Q_1$, trung vị là $Q_2$, tứ phân vị thứ ba là $Q_3$.\n🔎 **Hướng dẫn cách làm:**\n- Tứ phân vị là các giá trị chia dữ liệu thành bốn phần bằng nhau: $Q_1$ (25%), $Q_2$ (50%, trung vị), $Q_3$ (75%).\n- Khoảng tứ phân vị (interquartile range) đo độ lan rộng của phần giữa hai tứ phân vị: công thức định nghĩa là hiệu giữa tứ phân vị thứ ba và tứ phân vị thứ nhất.\n- Viết công thức: $\\Delta_Q=Q_3-Q_1$.\n✅ **Đáp án:**$\\text{A. }\\Delta_Q=Q_3-Q_1$"
+    },
+    {
+      "id": 7,
+      "content": "Cho hàm số $y=f(x)$ có bảng biến thiên như hình vẽ sau. Tổng số đường tiệm cận đứng và tiệm cận ngang của đồ thị hàm số $y=f(x)$ là\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-kscl-thpt-toan-tinh-ninh-binh-2026-lan-1/cau-07.webp\" alt=\"Hình minh họa câu 7\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "bài tập cuối chương 1",
+      "type": "single",
+      "options": [
+        "A. \\$3$",
+        "B. \\$1$",
+        "C. \\$4$",
+        "D. \\$2$"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Bảng biến thiên của $y=f(x)$ có các mốc: $x=-1,\\ 1,\\ 3$.\n- Trên $(-\\infty,-1)$: $f(x)$ giảm và $\\lim_{x\\to -1^-}f(x)=-\\infty$.\n- Trên $(-1,1)$: $f(x)$ tăng, và tiến tới \\$4$ khi $x\\to 1^-$.\n- Ngay bên phải $x=1$: giá trị bắt đầu ở mức \\$1$ (hữu hạn).\n- Khi $x\\to +\\infty$: $f(x)\\to 0$.\n❓ **Hiểu câu hỏi:**\n- Tìm **tổng số** đường **tiệm cận đứng** và **tiệm cận ngang** của đồ thị $y=f(x)$.\n- Kiến thức cần dùng: - $x=a$ là tiệm cận đứng nếu $\\lim_{x\\to a^-}f(x)=\\pm\\infty$ hoặc $\\lim_{x\\to a^+}f(x)=\\pm\\infty$.\n  - $y=b$ là tiệm cận ngang nếu $\\lim_{x\\to +\\infty}f(x)=b$ hoặc $\\lim_{x\\to -\\infty}f(x)=b$.\n🔎 **Hướng dẫn cách làm:**\n- Xét tiệm cận đứng: - Tại $x=-1$, từ bảng thấy $\\lim_{x\\to -1^-}f(x)=-\\infty$ nên $x=-1$ là **tiệm cận đứng**.\n  - Tại $x=1$, hai phía đều cho giá trị **hữu hạn** (trái tiến tới \\$4$, phải bắt đầu ở \\$1$), nên **không** có tiệm cận đứng tại $x=1$.\n- Xét tiệm cận ngang: - Từ bảng, khi $x\\to +\\infty$ thì $f(x)\\to 0$ nên $y=0$ là **tiệm cận ngang**.\n  - Khi $x\\to -\\infty$ thì $f(x)\\to +\\infty$ nên **không** có tiệm cận ngang bên trái.\n✅ **Đáp án:** D. \\$2$ (gồm 1 tiệm cận đứng $x=-1$ và 1 tiệm cận ngang $y=0$)."
+    },
+    {
+      "id": 8,
+      "content": "Cho hàm số bậc ba $y=f(x)$ có đồ thị như hình vẽ bên. Giá trị cực đại của hàm số đã cho là\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-kscl-thpt-toan-tinh-ninh-binh-2026-lan-1/cau-08.webp\" alt=\"Hình minh họa câu 8\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "cực trị của hàm số",
+      "type": "single",
+      "options": [
+        "A. \\$1$",
+        "B. $-1$",
+        "C. \\$2$",
+        "D. $-2$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số bậc ba $y=f(x)$ có đồ thị như hình.\n- Trên đồ thị có điểm cực đại tại hoành độ $x=-1$.\n- Tại điểm đó, tung độ được đánh dấu là $y=2$ (đường kẻ ngang nét đứt qua mức \\$2$).\n❓ **Hiểu câu hỏi:**\n- Bài toán hỏi **giá trị cực đại** của hàm số (tức là **tung độ** của điểm cực đại).\n- Học sinh cần biết: “Giá trị cực đại” chính là $f(x_{CĐ})$ tại điểm cực đại.\n🔎 **Hướng dẫn cách làm:**\n- Xác định điểm cực đại trên đồ thị (đỉnh “lồi xuống”).\n- Từ hình, điểm cực đại nằm tại $x=-1$.\n- Đọc tung độ tương ứng của điểm này trên trục $y$: ta thấy mức được ghi là \\$2$.\n- Vậy giá trị cực đại là $f(-1)=2$.\n✅ **Đáp án:** C. \\$2$"
+    },
+    {
+      "id": 9,
+      "content": "Phương trình đường tiệm cận xiên của đồ thị hàm số $y=\\dfrac{x^2+x-3}{x+1}$ là",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "đường tiệm cận xiên",
+      "type": "single",
+      "options": [
+        "A. $y=x+1$",
+        "B. $y=x$",
+        "C. $y=x-3$",
+        "D. $y=2x$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số: $y=\\dfrac{x^2+x-3}{x+1}$.\n- Yêu cầu: tìm **phương trình tiệm cận xiên** của đồ thị.\n- Các đáp án:\nA. $y=x+1$ ; B. $y=x$ ; C. $y=x-3$ ; D. $y=2x$.\n❓ **Hiểu câu hỏi:**\n- “Tiệm cận xiên” của hàm phân thức dạng $\\dfrac{P(x)}{Q(x)}$ (với $deg P = deg Q + 1$) được tìm bằng cách **chia đa thức** $P(x)$ cho $Q(x)$.\n- Học sinh cần áp dụng: phép chia đa thức và nhận ra rằng phần **thương** chính là phương trình tiệm cận xiên.\n🔎 **Hướng dẫn cách làm:**\n- Ta chia đa thức $x^2+x-3$ cho $x+1$: - Nhận thấy: $(x+1)\\cdot x = x^2+x$.\n  - Vậy: $x^2+x-3=(x+1)\\cdot x-3.$\n- Suy ra:$\\dfrac{x^2+x-3}{x+1}=x-\\dfrac{3}{x+1}.$\n- Khi $x\\to \\pm\\infty$ thì $\\dfrac{3}{x+1}\\to 0$, nên đồ thị tiến gần đường thẳng:\n$y=x.$\n✅ **Đáp án:** B. $y=x$"
+    },
+    {
+      "id": 10,
+      "content": "Điểm kiểm tra môn Toán của học sinh lớp 12A được ghi lại ở bảng số liệu ghép nhóm sau. Khoảng biến thiên của mẫu số liệu ghép nhóm trên là\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-kscl-thpt-toan-tinh-ninh-binh-2026-lan-1/cau-10.webp\" alt=\"Hình minh họa câu 10\" loading=\"lazy\"></figure>",
+      "chuong": "các số đặc trưng đo xu thế trung tâm của mẫu số liệu ghép nhóm",
+      "dang": "giới thiệu về mẫu số liệu ghép nhóm",
+      "type": "single",
+      "options": [
+        "A. \\$10$",
+        "B. \\$8$",
+        "C. \\$12$",
+        "D. \\$14$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Bảng số liệu ghép nhóm điểm kiểm tra có các lớp $[0;2),\\ [2;4),\\ [4;6),\\ [6;8),\\ [8;10]$\n- Tần số tương ứng: \\$2,\\ 11,\\ 14,\\ 9,\\ 3$\n❓ **Hiểu câu hỏi:**\n- “Khoảng biến thiên” của mẫu số liệu là hiệu giữa giá trị lớn nhất và nhỏ nhất.\n- Với số liệu ghép nhóm, lấy: - Giá trị nhỏ nhất ≈ cận dưới nhỏ nhất\n  - Giá trị lớn nhất ≈ cận trên lớn nhất\n- Công thức:$R = x_{\\max}-x_{\\min}$\n🔎 **Hướng dẫn cách làm:**\n- Nhìn lớp đầu tiên $[0;2)$ ⇒ giá trị nhỏ nhất là $x_{\\min}=0$.\n- Nhìn lớp cuối cùng $[8;10]$ ⇒ giá trị lớn nhất là $x_{\\max}=10$.\n- Tính khoảng biến thiên:$R=10-0=10.$\n✅ **Đáp án:** A. \\$10$"
+    },
+    {
+      "id": 11,
+      "content": "Trong không gian với hệ trục tọa độ $Oxyz$, cho hai vectơ $\\overrightarrow{u}=(2;3;-1)$ và $\\overrightarrow{v}=(1;3;2)$. Độ dài của vectơ $\\overrightarrow{w}=2\\overrightarrow{u}-3\\overrightarrow{v}$ là",
+      "chuong": "vectơ và hệ trục tọa độ trong không gian",
+      "dang": "bài tập cuối chương 2",
+      "type": "single",
+      "options": [
+        "A. $\\sqrt{290}$",
+        "B. \\$290$",
+        "C. \\$74$",
+        "D. $\\sqrt{74}$"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cho hai vectơ $\\overrightarrow{u}=(2;3;-1)$ và $\\overrightarrow{v}=(1;3;2)$ trong không gian $Oxyz$.\n- Đ vectơ cần xét $\\overrightarrow{w}=2\\overrightarrow{u}-3\\overrightarrow{v}$.\n- Tính độ dài của $\\overrightarrow{w}$, tức là $\\|\\overrightarrow{w}\\|$.\n- Ảnh đính kèm: có ảnh nhưng *không có nội dung mô tả thêm* (không ảnh hưởng đến bài toán).\n❓ **Hiểu câu hỏi:**\n- Câu hỏi yêu cầu tính độ dài của một vectơ được cho bằng tổ hợp tuyến tính của hai vectơ đã biết.\n- Cần vận dụng kiến thức: cộng/trừ và nhân vectơ với số thực, và công thức độ dài vectơ trong không gian 3 chiều:\n$\\|\\overrightarrow{a}\\|=\\sqrt{a_x^2+a_y^2+a_z^2}.$\n🔎 **Hướng dẫn cách làm:**\n- Tính \\$2\\overrightarrow{u}$:  \\$2\\overrightarrow{u}=2(2;3;-1)=(4;6;-2).$\n- Tính \\$3\\overrightarrow{v}$:  \\$3\\overrightarrow{v}=3(1;3;2)=(3;9;6).$\n- Tính $\\overrightarrow{w}=2\\overrightarrow{u}-3\\overrightarrow{v}$ bằng cách trừ từng thành phần:\n$\\overrightarrow{w}=(4-3;\\;6-9;\\;-2-6)=(1;\\;-3;\\;-8).$\n- Áp dụng công thức độ dài vectơ trong không gian 3 chiều:\n$\\|\\overrightarrow{w}\\|=\\sqrt{1^2+(-3)^2+(-8)^2}=\\sqrt{1+9+64}=\\sqrt{74}.$\n✅ **Đáp án:** $D. \\sqrt{74}$"
+    },
+    {
+      "id": 12,
+      "content": "Đồ thị hàm số $y=\\dfrac{2x+3}{x-1}$ có tâm đối xứng là điểm",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "khảo sát và vẽ đồ thị hàm số phân thức hữu tỉ",
+      "type": "single",
+      "options": [
+        "A. $N(3;-1)$",
+        "B. $P(1;2)$",
+        "C. $Q\\left(1;-\\dfrac{3}{2}\\right)$",
+        "D. $M(2;-1)$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số: $y=\\dfrac{2x+3}{x-1}$\n- Cần tìm **tâm đối xứng** của đồ thị hàm số.\n- Có ảnh đính kèm nhưng không có mô tả nội dung rõ ràng; ảnh không cần thiết cho việc giải.\n❓ **Hiểu câu hỏi:**\n- Câu hỏi: \"Đồ thị hàm số $y=\\dfrac{2x+3}{x-1}$ có tâm đối xứng là điểm nào?\"\n- Kiến thức cần dùng: dạng chuẩn của hàm phân thức bậc nhất / bậc nhất (siêu tỉ lệ dạng nhánh siêu tỉ lệ) và cách xác định tâm của hyperbola dạng $y=v+\\dfrac{a}{x-h}$.\n- Ghi nhớ: nếu $y=v+\\dfrac{a}{x-h}$ thì tâm đối xứng của đồ thị là điểm $(h,v)$.\n🔎 **Hướng dẫn cách làm:**\n- Chia biểu thức để đưa về dạng chuẩn: - $\\dfrac{2x+3}{x-1}=2+\\dfrac{5}{x-1}.$\n- Nhận xét: hàm có dạng $y=2+\\dfrac{5}{x-1}$, tức là dạng $y=v+\\dfrac{a}{x-h}$ với $h=1$ và $v=2$.\n- Vậy tâm đối xứng của đồ thị là điểm $(h,v)=(1,2).$\n- Kiểm tra bằng ví dụ (để thấy tính đối xứng): - Chọn $x=2$ thì $y=\\dfrac{2\\cdot2+3}{2-1}=7$, điểm $(2,7)$.\n  - Điểm đối xứng qua $(1,2)$ sẽ là $(0,-3)$. Kiểm tra $x=0$: $y=\\dfrac{0+3}{0-1}=-3$. Midpoint:\n$\\left(\\frac{2+0}{2},\\frac{7+(-3)}{2}\\right)=(1,2),$\nđúng là tâm đối xứng.\n✅ **Đáp án:** $B. P(1;2)$"
+    }
+  ]
+}

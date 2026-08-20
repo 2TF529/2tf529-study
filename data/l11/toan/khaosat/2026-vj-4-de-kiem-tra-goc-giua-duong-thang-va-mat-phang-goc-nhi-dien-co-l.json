@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-4-de-kiem-tra-goc-giua-duong-thang-va-mat-phang-goc-nhi-dien-co-l",
+  "sourceId": "vietjack:4-de-kiem-tra-goc-giua-duong-thang-va-ma",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "4.Đề kiểm tra Góc giữa đường thẳng và mặt phẳng góc nhị diện (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho tam giác \\(ABC\\) vuông cân tại \\(A\\) và \\(BC = a\\). Trên đường thẳng qua \\(A\\) vuông góc với \\(\\left( {ABC} \\right)\\) lấy điểm \\(S\\) sao cho \\[SA = \\frac{{a\\sqrt 6 }}{2}\\]. Tính số đo của góc giữa đường thẳng \\(SA\\) và \\(\\left( {ABC} \\right)\\).",
+      "options": [
+        "A. \\(30^\\circ \\).",
+        "B. \\(45^\\circ \\).",
+        "C. \\(60^\\circ \\).",
+        "D. \\(90^\\circ \\)."
+      ],
+      "answer": "D",
+      "note": "\\(SA \\bot \\left( {ABC} \\right) \\Rightarrow \\left( {SA,\\left( {ABC} \\right)} \\right) = 90^\\circ \\) ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hình chóp \\(S.ABC\\) có \\[SB\\] vuông góc \\[\\left( {ABC} \\right)\\]. Góc giữa \\[SC\\] với \\[\\left( {ABC} \\right)\\] là góc giữa",
+      "options": [
+        "A. \\[SC\\] và \\[AB\\].",
+        "B. \\[SC\\] và \\[AC\\].",
+        "C. \\[SC\\] và \\[BC\\].",
+        "D. \\[SC\\] và \\[SB\\]."
+      ],
+      "answer": "C",
+      "note": "Ta có: \\[BC\\] là hình chiếu vuông góc của \\[SC\\] xuống \\[\\left( {ABC} \\right)\\] nên góc giữa \\[SC\\] với \\[\\left( {ABC} \\right)\\] là góc giữa \\[SC\\] và \\[BC\\]."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho hình lập phương \\[ABCD.EFGH\\], góc giữa đường thẳng \\[EG\\] và mặt phẳng \\[\\left( {BCGF} \\right)\\] là:",
+      "options": [
+        "A. \\[0^\\circ \\].",
+        "B. \\[45^\\circ \\].",
+        "C. \\[90^\\circ \\].",
+        "D. \\[30^\\circ \\]."
+      ],
+      "answer": "B",
+      "note": "\\[ABCD.EFGH\\]là hình lập phương \\[ \\Rightarrow EF \\bot \\left( {BCGF} \\right) \\Rightarrow \\] góc giữa đường thẳng \\(EG\\) và mặt phẳng \\[\\left( {BCGF} \\right)\\] là \\(\\widehat {EGF} = 45^\\circ \\)"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hình chóp \\[S.ABC\\] có \\(SA \\bot \\left( {ABC} \\right)\\) và \\(AB \\bot BC\\). Góc phẳng nhị diện \\(\\left[ {A,BC,S} \\right]\\)là góc nào sau đây?",
+      "options": [
+        "A. \\[\\widehat {SBA}\\].",
+        "B. \\[\\widehat {SCA}\\].",
+        "C. \\[\\widehat {SCB}.\\]",
+        "D. \\[\\widehat {SIA}\\] với \\[I\\] là trung điểm của \\[BC\\]."
+      ],
+      "answer": "A",
+      "note": "Ta có \\(\\left\\{ \\begin{array}{l}BC \\bot AB\\\\BC \\bot SA\\end{array} \\right. \\Rightarrow BC \\bot \\left( {SAB} \\right) \\Rightarrow BC \\bot SB\\). \\( \\Rightarrow \\widehat {\\left( {\\left( {SBC} \\right),\\left( {ABC} \\right)} \\right)} = \\widehat {SBA}\\). Góc phẳng nhị diện \\(\\left[ {A,BC,S} \\right]\\) là \\(\\widehat {SBA}\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hình chóp tam giác đều \\[S.ABC\\] có cạnh đáy bằng \\[a\\] và đường cao \\[SH\\] bằng cạnh đáy. Số đo của góc hợp bởi cạnh bên và mặt đáy bằng",
+      "options": [
+        "A. \\[30^\\circ \\].",
+        "B. \\[45^\\circ \\].",
+        "C. \\[60^\\circ \\].",
+        "D. \\[75^\\circ \\]."
+      ],
+      "answer": "C",
+      "note": "Gọi \\(I = BH \\cap AC\\). Góc hợp bởi cạnh bên và mặt đáy là góc \\(\\widehat {SBH}\\). Ta có \\(\\tan \\widehat {SBH} = \\frac{{SH}}{{HB}} = \\frac{a}{{HB}}\\). Tam giác ABC đều \\( \\Rightarrow BH = \\frac{{AB}}{{\\sqrt 3 }} = \\frac{a}{{\\sqrt 3 }}\\). \\( \\Rightarrow \\tan \\widehat {SBH} = \\frac{a}{{\\frac{a}{{\\sqrt 3 }}}} = \\sqrt 3 \\Rightarrow \\widehat {SBH} = 60^\\circ \\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho hình chóp \\(S.ABCD\\) có đáy \\(ABCD\\) là hình chữ nhật có \\(AB = 3a,AD = 2a\\), \\(SA\\) vuông góc với mặt phẳng \\(\\left( {ABCD} \\right)\\), \\(SA = a\\). Gọi \\(\\varphi \\) là góc giữa đường thẳng \\(SC\\) và \\(\\left( {ABCD} \\right)\\). Khi đó \\(\\tan \\varphi = \\)?",
+      "options": [
+        "A. \\(\\frac{{\\sqrt {13} }}{{13}}\\).",
+        "B. \\(\\frac{{\\sqrt {11} }}{{11}}\\).",
+        "C. \\(\\frac{{\\sqrt 7 }}{7}\\).",
+        "D. \\(\\frac{{\\sqrt 5 }}{5}\\)."
+      ],
+      "answer": "A",
+      "note": "Ta có \\(AC\\) là hình chiếu của \\(SC\\) trên \\(\\left( {ABCD} \\right)\\) nên \\(\\varphi = \\left( {SC,\\left( {ABCD} \\right)} \\right) = \\left( {SC,AC} \\right) = \\widehat {SCA}\\) \\(AC = \\sqrt {A{D^2} + A{B^2}} = \\sqrt {13} a\\), \\[\\tan \\widehat {SCA} = \\frac{{SA}}{{AC}} = \\frac{a}{{\\sqrt {13} a}} = \\frac{{\\sqrt {13} }}{{13}}\\]. Vậy \\(\\tan \\varphi = \\frac{{\\sqrt {13} }}{{13}}\\)."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Cho hình chóp \\[S.ABC\\] có đáy \\[ABC\\] là tam giác vuông cân tại\\[B\\], cạnh bên \\[SA\\] vuông góc với đáy. Biết \\(SA = a\\sqrt 3 \\), \\(AC = a\\sqrt 2 \\). Góc giữa đường thẳng \\[SB\\] và mặt phẳng \\[\\left( {ABC} \\right)\\] bằng?",
+      "options": [
+        "A. \\(30^\\circ \\).",
+        "B. \\(45^\\circ \\).",
+        "C. \\(60^\\circ \\).",
+        "D. \\(90^\\circ \\)."
+      ],
+      "answer": "C",
+      "note": "Vì \\(SA \\bot (ABC)\\) nên góc giữa đường thẳng SB và mặt phẳng đáy\\(\\left( {ABC} \\right)\\) là góc \\(\\widehat {SBA}\\). +Tam giác \\(ABC\\) vuông cân tại \\(B\\)nên \\(2A{B^2} = {\\left( {a\\sqrt 2 } \\right)^2}\\)suy ra \\(AB = a\\) +Khi đó \\(\\tan \\widehat {SBA} = \\frac{{SA}}{{AB}} = \\frac{{a\\sqrt 3 }}{a} = \\sqrt 3 \\Rightarrow \\widehat {SBA} = {60^0}\\)."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho hình chóp \\[S.ABCD\\]có đáy \\[ABCD\\]là hình thang vuông tại \\[A\\]và\\[D\\], có \\(AB = 2a\\), \\(AD = DC = a\\), \\(SA = a\\) và \\(SA \\bot \\left( {ABCD} \\right)\\). \\({\\mathop{\\rm Tan}\\nolimits} \\) của góc phẳng nhị diện \\(\\left[ {A,BC,S} \\right]\\) là:",
+      "options": [
+        "A. \\(\\frac{1}{{\\sqrt 3 }}\\).",
+        "B. \\(\\sqrt 3 \\).",
+        "C. \\(\\sqrt 2 \\).",
+        "D. \\(\\frac{1}{{\\sqrt 2 }}\\)."
+      ],
+      "answer": "D",
+      "note": "Ta có \\(\\widehat {\\left( {\\left( {SBC} \\right),\\left( {ABCD} \\right)} \\right)} = \\widehat {ACS}\\) Góc phẳng nhị diện \\(\\left[ {A,BC,S} \\right]\\) là \\(\\widehat {ACS}\\) Ta có \\(AC = \\sqrt {A{D^2} + D{C^2}} = a\\sqrt 2 \\) \\( \\Rightarrow \\tan \\widehat {ACS} = \\frac{{SA}}{{AC}} = \\frac{1}{{\\sqrt 2 }}\\)"
+    }
+  ]
+}

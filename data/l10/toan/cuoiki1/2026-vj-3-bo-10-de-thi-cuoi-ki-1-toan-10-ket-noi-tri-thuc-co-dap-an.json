@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-3-bo-10-de-thi-cuoi-ki-1-toan-10-ket-noi-tri-thuc-co-dap-an",
+  "sourceId": "vietjack:3-bo-10-de-thi-cuoi-ki-1-toan-10-ket-noi",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "cuoiki1",
+  "year": 2026,
+  "title": "3.Bộ 10 đề thi cuối kì 1 Toán 10 Kết nối tri thức có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: I. Trắc nghiệm (7 điểm) Trong các câu sau, câu nào không phải là mệnh đề?",
+      "options": [
+        "A. Bạn ăn tối chưa?;",
+        "B. Hình vuông có hai đường chéo vuông góc với nhau;",
+        "C. 7 không phải là số chính phương;",
+        "D. Bắc Kinh là thủ đô của Thái Lan."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A + Câu “Bạn ăn tối chưa?” không phải là mệnh đề vì đây là câu nghi vấn, không xác định được tính đúng sai. + Các câu còn lại là mệnh đề vì các câu này là những khẳng định có tính đúng hoặc sai."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cách viết nào sau đây là đúng?",
+      "options": [
+        "A. \\(a \\subset \\left[ {a;\\,b} \\right]\\) ;",
+        "B. \\(\\left\\{ a \\right\\} \\subset \\left[ {a;\\,b} \\right]\\) ;",
+        "C. \\(\\left\\{ a \\right\\} \\in \\left[ {a;\\,b} \\right]\\) ;",
+        "D. \\(a \\in \\left( {a;\\,b} \\right]\\) ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Kí hiệu “ \\( \\subset \\) ” dùng để chỉ mối quan hệ giữa các tập hợp với nhau, kí hiệu “ \\( \\in \\) ” dùng để chỉ mối quan hệ giữa phần tử với tập hợp. Ta có: \\(\\left[ {a;\\,b} \\right] = \\left\\{ {x \\in \\mathbb{R}|a \\le x \\le b} \\right\\}\\) , \\(\\left( {a;\\,b} \\right] = \\left\\{ {x \\in \\mathbb{R}|a < x \\le b} \\right\\}\\) , \\(\\left\\{ a \\right\\}\\) là tập hợp gồm 1 phần tử là \\(a\\) . Từ đó suy ra: + Cách viết \\(a \\subset \\left[ {a;\\,b} \\right]\\) là sai, do \\(a\\) là một phần tử; + Cách viết \\(\\left\\{ a \\right\\} \\subset \\left[ {a;\\,b} \\right]\\) là đúng, vì mọi phần tử của tập hợp \\(\\left\\{ a \\right\\}\\) đều là phần tử của tập hợp \\(\\left[ {a;\\,b} \\right]\\) nên tập \\(\\left\\{ a \\right\\}\\) là tập con của tập \\(\\left[ {a;\\,b} \\right]\\) . + Cách viết \\(\\left\\{ a \\right\\} \\in \\left[ {a;\\,b} \\right]\\) là sai, do \\(\\left\\{ a \\right\\}\\) và \\(\\left[ {a;\\,b} \\right]\\) là hai tập hợp. + Cách viết \\(a \\in \\left( {a;\\,b} \\right]\\) là sai do tập hợp \\(\\left( {a;\\,b} \\right]\\) không chứa phần tử \\(a\\) ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho hai tập hợp: \\(A = \\left\\{ {0;\\,1;\\,2;\\,3;\\,4} \\right\\},B = \\left\\{ {1;\\,3;\\,4;\\,6;\\,8} \\right\\}\\) . Trong các mệnh đề sau, mệnh đề nào đúng?",
+      "options": [
+        "A. \\(A \\cap B = B\\) ;",
+        "B. \\(A \\cup B = A\\) ;",
+        "C. \\(A\\backslash B = \\left\\{ {0;\\,2} \\right\\}\\) ;",
+        "D. \\(B\\backslash A = \\left\\{ {0;\\,4} \\right\\}\\) ."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có: A ∩ B = x | x ∈ A và x ∈ B = 1 ; 3 ; 4 ≠ B nên đáp án A sai. A ∪ B = x | x ∈ A hoac x ∈ B = 0 ; 1 ; 2 ; 3 ; 4 ; 6 ; 8 ≠ A nên đáp án B sai. \\(A\\backslash B = \\left\\{ {x|x \\in A\\,{\\rm{v\\`a }}\\,x \\notin B} \\right\\}\\) \\( = \\left\\{ {0;\\,2} \\right\\}\\) nên đáp án C đúng. \\(B\\backslash A = \\left\\{ {x|x \\in B\\,{\\rm{v\\`a }}\\,x \\notin A} \\right\\} = \\left\\{ {6;\\,8} \\right\\}\\) nên đáp án D sai."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Phần không tô đậm trong hình vẽ biểu diễn tập nghiệm của bất phương trình nào trong các bất phương trình sau?",
+      "options": [
+        "A. \\(x - 2y < 3\\) ;",
+        "B. \\(x - 2y > 3\\) ;",
+        "C. \\(2x - y > 3\\) ;",
+        "D. \\(2x - y < 3\\) ."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Từ các đáp án đã cho, ta giả sử đường thẳng \\(d\\) có dạng \\[ax + by = 3\\] . Quan sát hình vẽ ta thấy đường thẳng \\(d\\) đi qua hai điểm \\(\\left( {\\frac{3}{2};\\,0} \\right)\\) và \\(\\left( {0;\\, - 3} \\right)\\) . Do đó, ta có hệ phương trình sau \\(\\left\\{ \\begin{array}{l}a \\cdot \\frac{3}{2} + b \\cdot 0 = 3\\\\a \\cdot 0 + b \\cdot \\left( { - 3} \\right) = 3\\end{array} \\right.\\) . Từ đó suy ra \\(a = 2,\\,b = - 1\\) nên đường thẳng \\(d\\) có dạng \\(2x - y = 3\\) . Nhận thấy điểm \\(O\\left( {0;\\,0} \\right)\\) không thuộc đường thẳng \\(d\\) và phần không tô đậm trong hình vẽ chứa điểm \\(O\\) . Lại có: \\(2 \\cdot 0 - 0 = 0 < 3\\) . Vậy phần không tô đậm trong hình vẽ biểu diễn tập nghiệm của bất phương trình \\(2x - y < 3\\) ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Một xưởng sản xuất hai loại sản phẩm, mỗi kg sản phẩm loại một cần \\(2{\\rm{\\;kg}}\\) nguyên liệu và 30 giờ, đem lại mức lợi nhuận 40 000 đồng. Mỗi sản phẩm loại hai cần \\(4{\\rm{\\;kg}}\\) nguyên liệu và 15 giờ đem lại mức lợi nhuận là 30 000 đồng. Xưởng có \\(200{\\rm{\\;kg}}\\) nguyên liệu và 1 200 giờ làm việc. Gọi \\(x\\left( {x \\ge 0} \\right)\\) là số kg sản phẩm loại một cần sản xuất, \\(y\\left( {y \\ge 0} \\right)\\) là số kg sản phẩm loại hai cần sản xuất . Một hệ điều kiện giữa \\(x\\) và \\(y\\) thỏa mãn yêu cầu bài toán là",
+      "options": [
+        "A. \\(\\left\\{ {\\begin{array}{*{20}{l}}{x + 2y - 100 \\le 0}\\\\{2x + y - 80 \\le 0}\\\\{x \\ge 0}\\\\{y \\ge 0}\\end{array}} \\right.\\) ;",
+        "B. \\(\\left\\{ {\\begin{array}{*{20}{l}}{x + 2y - 100 < 0}\\\\{2x + y - 80 < 0}\\\\{x \\ge 0}\\\\{y \\ge 0}\\end{array}} \\right.\\) ;",
+        "C. \\(\\left\\{ {\\begin{array}{*{20}{l}}{x + 2y - 100 \\ge 0}\\\\{2x + y - 80 \\ge 0}\\\\{x \\ge 0}\\\\{y \\ge 0}\\end{array}} \\right.\\) ;",
+        "D. \\(\\left\\{ {\\begin{array}{*{20}{l}}{x + 2y - 100 > 0}\\\\{2x + y - 80 > 0}\\\\{x \\ge 0}\\\\{y \\ge 0}\\end{array}} \\right.\\) ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có \\(x\\left( {x \\ge 0} \\right)\\) là số kg sản phẩm loại một cần sản xuất, \\(y\\left( {y \\ge 0} \\right)\\) là số kg sản phẩm loại hai cần sản xuất. Xưởng có 200 kg nguyên liệu và mỗi kg sản phẩm loại một cần 2 kg nguyên liệu, mỗi kg sản phẩm loại hai cần 4 kg nguyên liệu nên ta có bất phương trình \\(2x + 4y \\le 200\\) , bất phương trình này tương đương với \\(x + 2y - 100 \\le 0\\) . Xưởng có 1 200 giờ làm việc và mỗi kg sản phẩm loại một cần 30 giờ để sản xuất, mỗi kg sản phẩm loại hai cần 15 giờ để sản xuất nên ta có bất phương trình \\(30x + 15y \\le 1\\,\\,200,\\) bất phương trình này tương đương với \\(2x + y - 80 \\le 0\\) . Vậy ta có một hệ bất phương trình điều kiện giữa \\(x\\) và \\(y\\) thỏa mãn yêu cầu bài toán là \\(\\left\\{ {\\begin{array}{*{20}{l}}{x + 2y - 100 \\le 0}\\\\{2x + y - 80 \\le 0}\\\\{x \\ge 0}\\\\{y \\ge 0}\\end{array}} \\right.\\) ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Giá trị của \\(\\cos 60^\\circ + \\sin 30^\\circ \\) bằng bao nhiêu?",
+      "options": [
+        "A. \\(\\frac{{\\sqrt 3 }}{2}\\) ;",
+        "B. \\(\\sqrt 3 \\) ;",
+        "C. \\(\\frac{{\\sqrt 3 }}{3}\\) ;",
+        "D. 1."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Theo bảng giá trị lượng giác của một số góc đặc biệt, ta có: \\(\\cos 60^\\circ + \\sin 30^\\circ = \\frac{1}{2} + \\frac{1}{2} = 1\\) ."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Cho góc \\(\\alpha \\) thỏa mãn \\(90^\\circ < \\alpha < 180^\\circ \\) . Khẳng định nào sau đây đúng?",
+      "options": [
+        "A. \\({\\rm{sin}}\\alpha \\) và \\(\\cot \\alpha \\) cùng dấu ;",
+        "B. Tích \\({\\rm{sin}}\\alpha \\cdot {\\rm{cot}}\\alpha \\) mang dấu âm ;",
+        "C. Tích \\({\\rm{sin}}\\alpha \\cdot {\\rm{cos}}\\alpha \\) mang dấu dương ;",
+        "D. \\({\\rm{sin}}\\alpha \\) và \\(\\tan \\alpha \\) cùng dấu."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Vì \\(90^\\circ < \\alpha < 180^\\circ \\) nên \\(\\sin \\alpha > 0,\\cos \\alpha < 0,\\,\\tan \\alpha < 0,\\,\\cot \\alpha < 0\\) . Do đó: + \\({\\rm{sin}}\\alpha \\) và \\(\\cot \\alpha \\) khác dấu; + Tích \\({\\rm{sin}}\\alpha \\cdot {\\rm{cot}}\\alpha \\) mang dấu âm; + Tích \\({\\rm{sin}}\\alpha \\cdot {\\rm{cos}}\\alpha \\) mang dấu âm; + \\({\\rm{sin}}\\alpha \\) và \\(\\tan \\alpha \\) khác dấu. Vậy khẳng định ở đáp án B là khẳng định đúng."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Giá trị của biểu thức \\(H = \\cos 0^\\circ + \\cos 10^\\circ + \\cos 20^\\circ + ... + \\cos 180^\\circ \\) là",
+      "options": [
+        "A. – 1;",
+        "B. 1;",
+        "C. 0;",
+        "D. \\(\\sqrt 3 \\) ."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Áp dụng mối quan hệ giữa hai góc bù nhau ta có: \\(\\cos 180^\\circ = \\cos \\left( {180^\\circ + 0^\\circ } \\right) = - \\cos 0^\\circ \\) ; \\(\\cos 170^\\circ = \\cos \\left( {170^\\circ + 10^\\circ } \\right) = - \\cos 10^\\circ \\) ; ... \\(\\cos 100^\\circ = \\cos \\left( {100^\\circ + 80^\\circ } \\right) = - \\cos 80^\\circ \\) . Ta có: \\(H = \\cos 0^\\circ + \\cos 10^\\circ + \\cos 20^\\circ + ... + \\cos 180^\\circ \\) \\( = \\left( {\\cos 0^\\circ + \\cos 180^\\circ } \\right) + \\left( {\\cos 10^\\circ + \\cos 170^\\circ } \\right) + ... + \\left( {\\cos 80^\\circ + \\cos 100^\\circ } \\right) + \\cos 90^\\circ \\) \\( = \\left( {\\cos 0^\\circ - \\cos 0^\\circ } \\right) + \\left( {\\cos 10^\\circ - \\cos 10^\\circ } \\right) + ... + \\left( {\\cos 80^\\circ - \\cos 80^\\circ } \\right) + \\cos 90^\\circ \\) \\( = \\cos 90^\\circ = 0\\) . Vậy \\(H = 0\\) ."
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "id": "l10-tin-khaosat-2025-tin10-kntt-bai-22-kieu-du-lieu-danh-sach",
+  "grade": "l10",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2025,
+  "code": "Bài 22: Kiểu dữ liệu danh sách",
+  "title": "TIN10 - KNTT-Bài 22: Kiểu dữ liệu danh sách",
+  "duration": 15,
+  "answerSource": "official",
+  "sourceId": "hochanh:5984",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Đoạn lệnh sau làm nhiệm vụ gì?\nA = []\nfor x in range(10):\nA. append(int(input()))",
+      "options": [
+        "A. Nhập dữ liệu từ bàn phím cho mảng A có 10 phần tử là số nguyên.",
+        "B. Nhập dữ liệu từ bàn phím cho mảng A có 10 phần tử là số thực.",
+        "C. Nhập dữ liệu từ bàn phím cho mảng A có 10 phần tử là xâu.",
+        "D. Không có đáp án đúng."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Chọn phát biểu đúng khi nói về dữ liệu kiểu mảng(List) trong python.",
+      "options": [
+        "A. Dữ liệu kiểu mảng là tập hợp các phần tử không có thứ tự và mọi phần tử có cùng một kiểu dữ liệu.",
+        "B. Dữ liệu kiểu mảng là tập hợp các phần tử có thứ tự và mỗi một phần tử trong mảng có thể có các kiểu dữ liệu khác nhau.",
+        "C. Dữ liệu kiểu m ảng là tập hợp các phần tử c ó thứ tự và mọi phần tử phải c ó cùng một kiểu dữ liệu.",
+        "D. Tất cả ý trên đều sai."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Cách khai báo biến mảng sau đây, cách nào sai ?",
+      "options": [
+        "A. ls = [1, 2, 3]",
+        "B. ls = [x for x in range(3)]",
+        "C. ls = [int(x) for x in input().split()]",
+        "D. ls = list(3)."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Cho khai báo mảng sau:\nA = list(“3456789”)\nĐể in giá trị phần tử thứ 2 của mảng một chiều A ra màn hình ta viết:",
+      "options": [
+        "A. print(A[2]).",
+        "B. print(A[1]).",
+        "C. print(A[3]).",
+        "D. print(A[0])."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Chương trình sau thực hiện công việc gì?\nA=[]\nfor i in range(1, 1001):\nif(i % 7 == 0) and (i % 5 !=0):\nA.append(str(i))\nprint(','.join(A))",
+      "options": [
+        "A. Tìm tất cả các số chia hết cho 7 nhưng không phải bội số của 5, nằm trong đoạn 1 và 1000.",
+        "B. Tìm tất cả các số chia hết cho 7 nhưng không phải bội số của 5, nằm trong đoạn 1 và 1000 và chuỗi thu được in trên một dòng, có dấu “,” ngăn cách giữa các số.",
+        "C. Tìm tất cả các số chia hết cho 7 và là bội số của 5, nằm trong đoạn 1 và 1000.",
+        "D. Tìm tất cả các số không chia hết cho 7 nhưng là phải bội số của 5, nằm trong đoạn 1 và 1000."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Đối tượng dưới đây thuộc kiểu dữ liệu nào?\nA = [1, 2, ‘3’]",
+      "options": [
+        "A. list.",
+        "B. int.",
+        "C. float.",
+        "D. string."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Phương thức nào sau đây dùng để thêm phần tử vào list trong python?",
+      "options": [
+        "A. abs().",
+        "B. link().",
+        "C. append().",
+        "D. add()."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "content": "Danh sách A sẽ như thế nào sau các lệnh sau?\n>>> A = [2, 3, 5, 6]\n>>> A. append(4)\n>>> del (A[2])",
+      "options": [
+        "A. 2, 3, 4, 5, 6, 4.",
+        "B. 2, 3, 4, 5, 6.",
+        "C. 2, 4, 5, 6.",
+        "D. 2, 3, 6, 4."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "content": "Kết quả của chương trình sau là gì?\nA = [2, 3, 5, \"python\", 6]\nA.append(4)\nA.append(2)\nA.append(\"x\")\ndel(A[2])\nprint(len(A))",
+      "options": [
+        "A. 5.",
+        "B. 6.",
+        "C. 7.",
+        "D. 8."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 11,
+      "type": "single",
+      "content": "Cho arr = [‘xuan’, ‘hạ’, 1. 4, ‘đông’, ‘3’, 4.5, 7]. Đâu là giá trị của arr[3]?",
+      "options": [
+        "A. 1.4.",
+        "B. đông.",
+        "C. hạ.",
+        "D. 3."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 12,
+      "type": "single",
+      "content": "Lệnh nào để duyệt từng phần tử của danh sách?",
+      "options": [
+        "A. for.",
+        "B. while – for.",
+        "C. for kết hợp với lệnh range().",
+        "D. while kết hợp với lệnh range()."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 13,
+      "type": "single",
+      "content": "Lệnh xoá một phần tử của một danh sách A có chỉ số i là:",
+      "options": [
+        "A. list.del(i).",
+        "B. A. del(i).",
+        "C. del A[i].",
+        "D. A. del[i]."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 14,
+      "type": "single",
+      "content": "Chương trình sau thực hiện công việc gì?\n>>> S = 0\n>>> for i in range(len(A)):\nif A[i] > 0:\nS = S + A[i]\n>>> print(S)",
+      "options": [
+        "A. Duyệt từng phần tử trong A.",
+        "B. Tính tổng các phần tử trong A.",
+        "C. Tính tổng các phần tử không âm trong A.",
+        "D. Tính tổng các phần tử dương trong A."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 15,
+      "type": "single",
+      "content": "Hoàn thiện chương trình tính tích các phần tử dương trong danh sách A.\n>>> S = (...)\n>>> for i in range(len(A)):\n(...)\nS = S * A[i]\n>>> print(S)",
+      "options": [
+        "A. 1, if A[i] > 0:.",
+        "B. 0, if A[i] > 0:.",
+        "C. 1, if A[i] >= 0.",
+        "D. 0, if A[i] > 0."
+      ],
+      "answer": "A"
+    }
+  ]
+}

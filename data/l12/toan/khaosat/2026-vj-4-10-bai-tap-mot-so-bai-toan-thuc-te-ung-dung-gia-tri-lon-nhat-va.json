@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-4-10-bai-tap-mot-so-bai-toan-thuc-te-ung-dung-gia-tri-lon-nhat-va",
+  "sourceId": "vietjack:4-10-bai-tap-mot-so-bai-toan-thuc-te-ung",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "4.10 bài tập Một số bài toán thực tế ứng dụng giá trị lớn nhất và giá trị nhỏ nhất của hàm có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Một chất điểm chuyển động theo quy luật S(t) = 1 + 3t 2 – t 3 . Vận tốc của chuyển động đạt giá trị lớn nhất khi t bằng bao nhiêu:",
+      "options": [
+        "A. t = 2;",
+        "B. t = 1;",
+        "C. t = 3;",
+        "D. t = 4."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có v(t) = S'(t) = −3t 2 + 6t = −3(t 2 – 2t + 1) + 3 = −3(t – 1) 2 + 3 ≤ 3. Dấu “=” xảy ra khi t = 1. Vậy vận tốc của chuyển động đạt giá trị lớn nhất bằng 3 khi t = 1."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Một vật chuyển động theo quy luật \\(s = - \\frac{1}{3}{t^3} + 6{t^2}\\) với t (giây) là khoảng thời gian tính từ khi vật bắt đầu chuyển động và s (mét) là quãng đường vật di chuyển được trong khoảng thời gian đó. Hỏi trong khoảng thời gian 9 giây kể từ khi bắt đầu chuyển động, vận tốc lớn nhất của vật đạt được bằng bao nhiêu?",
+      "options": [
+        "A. 243 (m/s);",
+        "B. 27 (m/s);",
+        "C. 144 (m/s);",
+        "D. 36 (m/s)."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Ta có: v = s' = −t 2 + 12t; v' = −2t + 12; v' = 0 t = 6. Bảng biến thiên Nhìn bảng biến thiên ta thấy vận tốc đạt giá trị lớn nhất khi t = 6. Giá trị lớn nhất là v(6) = 36 m/s."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Một chất điểm chuyển động theo quy luật \\(S = - \\frac{1}{3}{t^3} + 4{t^2} + 9t\\) với t (giây) là khoảng thời gian tính từ lúc vật bắt đầu chuyển động và S (mét) là quãng đường vật chuyển động trong thời gian đó. Hỏi trong khoảng thời gian 10 giây, kể từ lúc bắt đầu chuyển động, vận tốc lớn nhất của chất điểm là bao nhiêu?",
+      "options": [
+        "A. 88 m/s;",
+        "B. 25 m/s;",
+        "C. 100 m/s;",
+        "D. 11 m/s."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có v = S' = −t 2 + 8t + 9, t ∈ (0; 10). Có v' = −2t + 8; v' = 0 t = 4 ∈ (0; 10). Bảng biến thiên: Vậy vận tốc lớn nhất của chất điểm là 25 m/s tại t = 4."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Trong tất cả các hình chữ nhật có cùng diện tích 48 cm 2 , hình chữ nhật có chu vi nhỏ nhất bằng:",
+      "options": [
+        "A. \\(16\\sqrt 3 \\) cm;",
+        "B. \\(4\\sqrt 3 \\)cm;",
+        "C. 24 cm;",
+        "D. \\(8\\sqrt 3 \\)cm."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Gọi cạnh của hình chữ nhật: a, b; 0 < a, b 48 Ta có: \\(ab = 48 \\Leftrightarrow b = \\frac{{48}}{a}\\). Chu vi: \\(P\\left( a \\right) = 2\\left( {a + \\frac{{48}}{a}} \\right)\\). Có \\[P'\\left( a \\right) = 2\\left( {1 - \\frac{{48}}{{{a^2}}}} \\right);P'\\left( a \\right) = 0 \\Leftrightarrow a = 4\\sqrt 3 \\]. Bảng biến thiên: Vậy hình chữ nhật có chu vi nhỏ nhất là \\(16\\sqrt 3 \\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho một tấm nhôm hình chữ nhật có kích thước 15 cm × 24 cm. Người ta cắt bỏ 4 góc của tấm tôn 4 miếng hình vuông bằng nhau rồi gò lại thành một hình hộp chữ nhật không có nắp. Để thể tích của hình hộp đó lớn nhất thì độ dài cạnh hình vuông của các miếng tôn bị cắt bỏ bằng",
+      "options": [
+        "A. 3 cm;",
+        "B. 4 cm;",
+        "C. 5 cm;",
+        "D. 2 cm."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Giả sử độ dài cạnh hình vuông của các miếng tôn bị cắt bỏ bằng x (\\[0 < x < \\frac{{15}}{2}\\]). Khi đó hình hộp chữ nhật có chiều cao bằng x, chiều rộng bằng 15 – 2x và chiều dài bằng 24 – 2x. Suy ra hình hộp chữ nhật có thể tích V = x(15 – 2x)(24 – 2x) = 4x 3 – 78x 2 + 360x. Xét hàm f(x) = 4x 3 – 78x 2 + 360x trên \\[\\left( {0;\\frac{{15}}{2}} \\right)\\]. Có f'(x) = 12x 2 – 156x + 360 = 0 x = 3 hoặc x = 10. Bảng biến thiên Dựa vào bảng biến thiên ta có hàm số đạt giá trị lớn nhất trên \\[\\left( {0;\\frac{{15}}{2}} \\right)\\] tại x = 3 hay hình hộp chữ nhật có thể tích lớn nhất khi độ dài cạnh hình vuông của miếng tôn bị cắt bỏ bằng 3 cm."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Để thiết kế một chiếc bể cá hình hộp chữ nhật không có nắp có chiều cao là 60 cm, thể tích 96000 cm 3 . Người thợ dùng loại kính để sử dụng làm mặt bên có giá thành 70000 đồng/m 2 và loại kính để làm mặt đáy có giá thành 100000 đồng/m 2 . Chi phí thấp nhất để hoàn thành bể cá bằng",
+      "options": [
+        "A. 83200 đồng;",
+        "B. 320000 đồng;",
+        "C. 832000 đồng;",
+        "D. 32000 đồng."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Gọi x (m), y (m) (x > 0, y > 0) là chiều dài và chiều rộng của đáy bể. Theo giả thiết ta có 0,6xy = 0,096 \\( \\Rightarrow y = \\frac{4}{{25x}}\\). Ta có diện tích mặt đáy là \\(xy = x.\\frac{4}{{25x}} = 0,16\\). Giá tiền làm kính mặt đáy là 0,16.100000 = 16000 đồng. Diện tích xung quanh bể là 2x.0,6 + 2y.0,6 = \\(1,2\\left( {x + \\frac{{0,16}}{x}} \\right)\\). Giá tiền làm kính các mặt xung quanh là \\(1,2\\left( {x + \\frac{{0,16}}{x}} \\right).70000 = 84000\\left( {x + \\frac{{0,16}}{x}} \\right)\\) (đồng). Tổng chi phí là \\(f\\left( x \\right) = 84000\\left( {x + \\frac{{0,16}}{x}} \\right) + 16000 \\ge 84000.2\\sqrt {x.\\frac{{0,16}}{x}} + 16000 = 83200\\) đồng. Chi phí thấp nhất để hoàn thành bể cá bằng 83200 đồng."
+    }
+  ]
+}

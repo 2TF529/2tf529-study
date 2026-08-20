@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-toan-10-chan-troi-sang-tao-tong-va-hieu-cua-",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-toan-10-chan-troi-s",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Toán 10 chân trời sáng tạo Tổng và hiệu của hai vectơ có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho hình bình hành ABCD tâm O. Kết quả nào sau đây đúng?",
+      "options": [
+        "A. A B → = O A → − O B →",
+        "B. C O → − O B → = B A →",
+        "C. A B → − A D → = A C →",
+        "D. A O → + O D → = C B →"
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải Đáp án đúng là: B Ta xét từng đáp án: Đáp án A: O A → − O B → = B A → = − A B → ⇒ A sai. Đáp án B: Vì ABCD là hình bình hành có tâm O nên O là trung điểm BD. Do đó ta có O B → = − O D → . Ta có C O → − O B → = C O → + O D → = C D → = B A → ⇒ B đúng. Đáp án C: A B → − A D → = D B → ≠ A C → (vì AC và BD là hai đường chéo của hình bình hành ABCD) ⇒ C sai. Đáp án D: A O → + O D → = A D → = − C B → ⇒ D sai. Vậy ta chọn đáp án B."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho 5 điểm M, N, P, Q, R. Tính tổng M N → + P Q → + R N → + N P → + Q R → .",
+      "options": [
+        "A. M R →",
+        "B. M N →",
+        "C. P R →",
+        "D. M P →"
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải Đáp án đúng là: B Ta có M N → + P Q → + R N → + N P → + Q R → = M N → + N P → + P Q → + Q R → + R N → . = M P → + P R → + R N → = M R → + R N → = M N → . Vậy ta chọn đáp án B."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho tam giác ABC đều có độ dài cạnh bằng a. Độ dài A B → + B C → bằng",
+      "options": [
+        "A. a",
+        "B. 2a",
+        "C. a 3 ;",
+        "D. a 3 2 ."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A Ta có A B → + B C → = A C → . Vì tam giác ABC đều có độ dài cạnh bằng a nên ta có AC = a. Độ dài A B → + B C → là: A B → + B C → = A C → = A C = a . Vậy ta chọn đáp án A."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho 6 điểm phân biệt A, B, C, D, E, F. Đẳng thức nào sau đây đúng?",
+      "options": [
+        "A. A B → + C D → + F A → + B C → + EF → + D E → = 0 →",
+        "B. A B → + C D → + F A → + B C → + EF → + D E → = AF →",
+        "C. A B → + C D → + F A → + B C → + EF → + D E → = AE →",
+        "D. A B → + C D → + F A → + B C → + EF → + D E → = AD →"
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A Ta có A B → + C D → + F A → + B C → + EF → + D E → = F A → + A B → + B C → + C D → + D E → + EF → = F B → + B D → + D F → = F D → + D F → = F F → = 0 → Vậy ta chọn đáp án A."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho tam giác ABC, với M là trung điểm BC. Mệnh đề nào sau đây là đúng?",
+      "options": [
+        "A. A M → + M B → + B A → = 0 →",
+        "B. M A → + M B → = A B →",
+        "C. M A → + M B → = M C →",
+        "D. A B → + A C → = A M →"
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A Ta xét từng đáp án: Đáp án A: A M → + M B → + B A → = B A → + A M → + M B → = B M → + M B → = B B → = 0 → ⇒ chọn A. Đáp án B, C: Vì M là trung điểm BC nên ta có M A → + M B → = 0 → ⇒ loại đáp án B, C. Đáp án D: Theo quy tắc hình bình hành, ta có: A B → + A C → = A D → , với D là điểm thỏa mãn tứ giác ABDC là hình bình hành. Mà M là trung điểm BC nên M không thể trùng với D ⇒ loại đáp án D. Vậy ta chọn đáp án A."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho tam giác ABC vuông tại A có AB = 3, BC = 5. Tính A B → + B C → .",
+      "options": [
+        "A. 3",
+        "B. 4",
+        "C. 5",
+        "D. 6"
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải Đáp án đúng là: B Theo quy tắc ba điểm, ta có: A B → + B C → = A C → . Tam giác ABC vuông tại A: A C 2 = B C 2 − A B 2 (Định lý Pytago) ⇔ A C 2 = 5 2 − 3 2 = 16 . ⇒ AC = 4. Do đó ta có: A B → + B C → = A C → = A C = 4 . Vậy ta chọn đáp án B."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-trac-nghiem-cong-thuc-nhan-xac-suat-cho-hai-bien-co-doc-lap-lop",
+  "sourceId": "vietjack:1-trac-nghiem-cong-thuc-nhan-xac-suat-ch",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.Trắc nghiệm Công thức nhân xác suất cho hai biến cố độc lập lớp 11 (có đáp án)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Biến ngẫu nhiên X nhận các giá trị \\[{{\\rm{x}}_{\\rm{1}}}{\\rm{, }}{{\\rm{x}}_{\\rm{2}}}{\\rm{, }}...{\\rm{, }}{{\\rm{x}}_{\\rm{n}}}\\] với các xác suất tương ứng \\[{{\\rm{p}}_{\\rm{1}}}{\\rm{, }}{{\\rm{p}}_{\\rm{2}}}{\\rm{, }}...{\\rm{, }}{{\\rm{p}}_{\\rm{n}}}\\] thỏa mãn:",
+      "options": [
+        "A. \\[{{\\rm{p}}_{\\rm{1}}}{\\rm{ + }}{{\\rm{p}}_{\\rm{2}}}{\\rm{ + }}...{\\rm{ + }}{{\\rm{p}}_{\\rm{n}}}{\\rm{ = 0}}\\]",
+        "B. \\[{{\\rm{p}}_{\\rm{1}}}{\\rm{ + }}{{\\rm{p}}_{\\rm{2}}}{\\rm{ + }}...{\\rm{ + }}{{\\rm{p}}_{\\rm{n}}}{\\rm{ = 1}}\\]",
+        "C. \\[{{\\rm{p}}_{\\rm{1}}}{\\rm{.}}{{\\rm{p}}_{\\rm{2}}}.....{{\\rm{p}}_{\\rm{n}}}{\\rm{ = 1}}\\]",
+        "D. \\[{{\\rm{p}}_{\\rm{1}}} - {{\\rm{p}}_2} - ... - {{\\rm{p}}_{\\rm{n}}} = 1\\]"
+      ],
+      "answer": "B",
+      "note": "Các xác suất \\[{{\\rm{p}}_{\\rm{1}}}{\\rm{, }}{{\\rm{p}}_{\\rm{2}}}{\\rm{, }}...{\\rm{, }}{{\\rm{p}}_{\\rm{n}}}\\] thỏa mãn \\[{{\\rm{p}}_{\\rm{1}}}{\\rm{ + }}{{\\rm{p}}_{\\rm{2}}}{\\rm{ + }}...{\\rm{ + }}{{\\rm{p}}_{\\rm{n}}}{\\rm{ = 1}}\\]. Đáp án cần chọn là: B"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho biến ngẫu nhiên X có bảng phân bố xác suất dưới đây, giá trị của \\[{{\\rm{p}}_{\\rm{2}}}\\]là: X 1 2 3 4 P 0,5 \\[{{\\rm{p}}_{\\rm{2}}}\\] 0,1 0,1",
+      "options": [
+        "A. 0,4",
+        "B. 0,3",
+        "C. 0,2",
+        "D. 0,5"
+      ],
+      "answer": "B",
+      "note": "Ta có: \\[0,5 + {{\\rm{p}}_{\\rm{2}}} + 0,1 + 0,1 = 1 \\Leftrightarrow {{\\rm{p}}_2} = 1 - 0,5 - 0,1 - 0,1 = 0,3\\] Đáp án cần chọn là: B"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Công thức tính kỳ vọng của biến ngẫu nhiên X là:",
+      "options": [
+        "A. \\[{\\rm{E}}\\left( {\\rm{X}} \\right) = \\mathop \\sum \\limits_{{\\rm{i}} = 1}^{\\rm{n}} {{\\rm{p}}_{\\rm{i}}}{{\\rm{x}}_{\\rm{i}}}\\]",
+        "B. \\[{\\rm{E}}\\left( {\\rm{X}} \\right){\\rm{ = }}{{\\rm{p}}_{\\rm{i}}}{{\\rm{x}}_{\\rm{i}}}\\]",
+        "C. \\[{\\rm{E}}\\left( {\\rm{X}} \\right){\\rm{ = }}\\frac{{{{\\rm{p}}_{\\rm{1}}}{{\\rm{x}}_{\\rm{1}}}{\\rm{ + }}{{\\rm{p}}_{\\rm{2}}}{{\\rm{x}}_{\\rm{2}}}{\\rm{ + }}...{\\rm{ + }}{{\\rm{p}}_{\\rm{n}}}{{\\rm{x}}_{\\rm{n}}}}}{{\\rm{n}}}\\]",
+        "D. \\[{\\rm{E}}\\left( {\\rm{X}} \\right) = \\mathop \\sum \\limits_{{\\rm{i}} = 1}^{\\rm{n}} \\frac{{{{\\rm{x}}_{\\rm{i}}}}}{{{{\\rm{p}}_{\\rm{i}}}}}\\]"
+      ],
+      "answer": "A",
+      "note": "Lời giải Công thức tính kỳ vọng \\[{\\rm{E}}\\left( {\\rm{X}} \\right){\\rm{ = }}{{\\rm{p}}_{\\rm{1}}}{{\\rm{x}}_{\\rm{1}}}{\\rm{ + }}{{\\rm{p}}_{\\rm{2}}}{{\\rm{x}}_{\\rm{2}}}{\\rm{ + }}...{\\rm{ + }}{{\\rm{p}}_{\\rm{n}}}{{\\rm{x}}_{\\rm{n}}} = \\mathop \\sum \\limits_{{\\rm{i}} = 1}^n {{\\rm{p}}_{\\rm{i}}}{{\\rm{x}}_{\\rm{i}}}\\] Chọn A"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Giá trị E(X) có thể cho ta ý niệm về:",
+      "options": [
+        "A. độ lớn trung bình của X",
+        "B. mức độ phân tán của X",
+        "C. giá trị lớn nhất của X",
+        "D. giá trị có xác suất lớn nhất của X"
+      ],
+      "answer": "A",
+      "note": "Kỳ vọng E(X) cho ta ý niệm về độ lớn trung bình của X. Đáp án cần chọn là: A"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho bảng phân bố xác suất sau: X 5 6 7 8 P 0,3 0,4 0,2 0,1 Khi đó, kỳ vọng của biến cố là:",
+      "options": [
+        "A. 0,25",
+        "B. 6,1",
+        "C. 1,525",
+        "D. 6,5"
+      ],
+      "answer": "B",
+      "note": "Ta có: \\[{\\rm{E}}\\left( {\\rm{X}} \\right) = \\mathop \\sum \\limits_{{\\rm{i}} = 1}^{\\rm{n}} {{\\rm{p}}_{\\rm{i}}}{{\\rm{x}}_{\\rm{i}}}{\\rm{ = 5}}{\\rm{.0,3 + 6}}{\\rm{.0,4 + 7}}{\\rm{.0,2 + 8}}{\\rm{.0,1 = 6,1}}\\] Đáp án cần chọn là: B"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Chọn ngẫu nhiên một gia đình có hai con. Gọi X là số con trai trong gia đình đó. Biết xác suất để sinh con trai là 0,5. Giá trị của p1 trong bảng phân bố xác suất dưới đây là: X 0 1 2 P \\[{{\\rm{p}}_{\\rm{1}}}\\] \\[{{\\rm{p}}_{\\rm{2}}}\\] \\[{{\\rm{p}}_{\\rm{3}}}\\]",
+      "options": [
+        "A. \\[\\frac{1}{4}\\]",
+        "B. \\[\\frac{1}{2}\\]",
+        "C. \\[\\frac{1}{8}\\]",
+        "D. \\[\\frac{3}{8}\\]"
+      ],
+      "answer": "A",
+      "note": "Lời giải Gia đình không có con trai thì có hai con gái. Xác suất để có con gái là 1 − 0,5 = 0,5. Vì lần đầu sinh con gái và lần hai sinh con gái là hai biến cố độc lập nên ta có thể sử dụng công thức nhân xác suất. Xác suất để gia đình đó sinh hai con gái là: \\[0,5.0,5 = 0,25 = \\frac{1}{4}\\] Vậy \\[{{\\rm{p}}_{\\rm{1}}} = \\frac{1}{4}\\] Chọn A"
+    }
+  ]
+}

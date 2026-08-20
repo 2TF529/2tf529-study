@@ -1,0 +1,65 @@
+{
+  "id": "2026-vj-3-12-bai-tap-su-dung-do-thi-cua-ham-so-f-x-de-tim-khoang-dong-bie",
+  "sourceId": "vietjack:3-12-bai-tap-su-dung-do-thi-cua-ham-so-f",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.12 bài tập Sử dụng đồ thị của hàm số f'(x) để tìm khoảng đồng biến, nghịch biến của hàm số f(x) số có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 3: Cho hàm số y = f(x) có đạo hàm trên ℝ và hàm số y = f'(x) là hàm số bậc ba có đồ thị là đường cong trong hình vẽ. Hàm số y = f(x) nghịch biến trên",
+      "options": [
+        "A. (−∞; 1);",
+        "B. (−2; 0);",
+        "C. (1; +∞);",
+        "D. (−1; +∞)."
+      ],
+      "answer": "A",
+      "note": "Dựa vào đồ thị, ta thấy f'(x) < 0, ∀ x < 1. Do đó hàm số nghịch biến trên khoảng (−∞; 1) ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 4: Cho hàm số f(x) xác định trên ℝ và có đồ thị hàm số y = f'(x) là đường cong trong hình bên. Mệnh đề nào dưới đây đúng?",
+      "options": [
+        "A. Hàm số f(x) đồng biến trên khoảng (1; 2);",
+        "B. Hàm số f(x) nghịch biến trên khoảng (0; 2);",
+        "C. Hàm số f(x) đồng biến trên khoảng (−2; 1);",
+        "D. Hàm số f(x) nghịch biến trên khoảng (−1; 1)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Dựa vào đồ thị hàm số y = f'(x) ta có: f'(x) > 0 Û x ∈ (−2; 0) ∪ (2; +∞) và f'(x) < 0 Û x ∈ (−∞; −2) ∪ (0; 2). Khi đó, hàm số y = f(x) nghịch biến trên các khoảng (−∞; −2) và (0; 2)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 5: Cho hàm số y = f(x) có đạo hàm trên ℝ. Đồ thị hàm số y = f'(x) như hình vẽ Khẳng định nào sau đây đúng?",
+      "options": [
+        "A. A . Hàm số y = f(x) đồng biến trên khoảng (1; 4) ;",
+        "B. Hàm số y = f(x) nghịch biến trên khoảng (−1; 4) ;",
+        "C. Hàm số y = f(x) đồng biến trên khoảng (−1; 1) ;",
+        "D. Hàm số y = f(x) nghịch biến trên khoảng (−1; 1) ."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Dựa vào đồ thị, ta thấy f'(x) > 0 Û −1 < x < 1. Do đó hàm số y = f(x) đồng biến trên khoảng (−1; 1) ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 6: Cho hàm số bậc bốn y = f(x) . Hàm số y = f'(x) có đồ thị như hình vẽ Hỏi hàm số y = f(x) đồng biến trên khoảng nào dưới đây?",
+      "options": [
+        "A. A . (0; 1) ;",
+        "B. (0; 2) ;",
+        "C. (2; +∞) ;",
+        "D. (1; 2) ."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Dựa vào đồ thị hàm số y = f'(x) ta có: f'(x) > 0, ∀ x ∈ (2; +∞). Do đó hàm số y = f(x) đồng biến trên khoảng (2; +∞)."
+    }
+  ]
+}

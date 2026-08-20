@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-6-20-cau-trac-nghiem-toan-10-chan-troi-sang-tao-bai-3-duong-tron-",
+  "sourceId": "vietjack:6-20-cau-trac-nghiem-toan-10-chan-troi-s",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "6.20 câu trắc nghiệm Toán 10 Chân trời sáng tạo Bài 3. Đường tròn trong mặt phẳng tọa độ (Đúng sai - Trả lời ngắn) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Trong mặt phẳng tọa độ \\(Oxy\\) , đường tròn \\(\\left( C \\right):{x^2} + {y^2} - 2x + 4y - 1 = 0\\) có tâm \\(I\\) và bán kính \\(R\\) là",
+      "options": [
+        "A. \\(I\\left( { - 1;2} \\right)\\) và \\(R = 2\\) .",
+        "B. \\(I\\left( {1; - 2} \\right)\\) và \\(R = 2\\) .",
+        "C. \\(I\\left( {1; - 2} \\right)\\) và \\(R = \\sqrt 6 \\) .",
+        "D. \\(I\\left( {2; - 4} \\right)\\) và \\(R = \\sqrt 6 \\) ."
+      ],
+      "answer": "C",
+      "note": "Đường tròn \\(\\left( C \\right)\\) có tâm \\(I\\left( {1; - 2} \\right)\\) và \\(R = \\sqrt {{1^2} + {{\\left( { - 2} \\right)}^2} - \\left( { - 1} \\right)} = \\sqrt 6 \\) . Chọn C ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho đường tròn \\(\\left( C \\right)\\) có tâm \\(I\\left( { - 4;1} \\right)\\) và tiếp xúc với đường thẳng \\(\\Delta :3x + 4y - 10 = 0\\) . Hãy xác định bán kính \\(R\\) của đường tròn \\(\\left( C \\right)\\) .",
+      "options": [
+        "A. \\(R = 3\\) .",
+        "B. \\(R = \\frac{{26}}{5}\\) .",
+        "C. \\(R = \\frac{{18}}{5}\\) .",
+        "D. \\(R = \\frac{6}{5}\\) ."
+      ],
+      "answer": "C",
+      "note": "Ta có \\(R = d\\left( {I,\\Delta } \\right) = \\frac{{\\left| {3 \\cdot \\left( { - 4} \\right) + 4 \\cdot 1 - 10} \\right|}}{{\\sqrt {{3^2} + {4^2}} }} = \\frac{{18}}{5}\\) . Chọn C ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Đường tròn \\(\\left( C \\right)\\) đi qua hai điểm \\(A\\left( {1;1} \\right),B\\left( {5;3} \\right)\\) và có tâm \\(I\\) thuộc trục hoành có phương trình là",
+      "options": [
+        "A. \\({\\left( {x + 4} \\right)^2} + {y^2} = 10\\) .",
+        "B. \\({\\left( {x - 4} \\right)^2} + {y^2} = 10\\) .",
+        "C. \\({\\left( {x + 4} \\right)^2} + {y^2} = \\sqrt {10} \\) .",
+        "D. \\({\\left( {x - 4} \\right)^2} + {y^2} = \\sqrt {10} \\) ."
+      ],
+      "answer": "B",
+      "note": "Vì \\(I \\in Ox\\) nên \\(I\\left( {a;0} \\right)\\) . Lại có \\(R = IA = IB\\) nên \\({\\left( {1 - a} \\right)^2} + {1^2} = {\\left( {5 - a} \\right)^2} + {3^2}\\)\\( \\Leftrightarrow 8a = 32 \\Rightarrow a = 4\\) . Do đó đường tròn \\(\\left( C \\right)\\) tâm \\(I\\left( {4;0} \\right)\\) và \\(R = IA = \\sqrt {{3^2} + {1^2}} = \\sqrt {10} \\) có phương trình là \\({\\left( {x - 4} \\right)^2} + {y^2} = 10\\) . Chọn B ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho đường tròn \\(\\left( C \\right):{\\left( {x - 1} \\right)^2} + {\\left( {y + 2} \\right)^2} = 8\\) . Phương trình tiếp tuyến \\(d\\) của \\(\\left( C \\right)\\) tại điểm \\(A\\left( {3; - 4} \\right)\\) là",
+      "options": [
+        "A. \\(d:x - 2y - 11 = 0\\) .",
+        "B. \\(d:x - y + 7 = 0\\) .",
+        "C. \\(d:x + y + 1 = 0\\) .",
+        "D. \\(d:x - y - 7 = 0\\) ."
+      ],
+      "answer": "D",
+      "note": "Đường tròn \\(\\left( C \\right)\\) có tâm \\(I\\left( {1; - 2} \\right)\\) . Tiếp tuyến \\(d\\) của \\(\\left( C \\right)\\) tại điểm \\(A\\left( {3; - 4} \\right)\\) nhận \\(\\overrightarrow {IA} = \\left( {2; - 2} \\right)\\) làm vectơ pháp tuyến có phương trình là \\(2\\left( {x - 3} \\right) - 2\\left( {y + 4} \\right) = 0\\)\\( \\Leftrightarrow 2x - 2y - 14 = 0\\) hay \\(x - y - 7 = 0\\) . Chọn D ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Trong mặt phẳng tọa độ \\(Oxy\\) , cho đường tròn \\(\\left( C \\right):{x^2} + {y^2} - 6x + 2y - 15 = 0\\) . Phương trình tiếp tuyến của \\(\\left( C \\right)\\) tại \\(M\\left( { - 1;2} \\right)\\) là",
+      "options": [
+        "A. \\(3x + 4y - 5 = 0\\) .",
+        "B. \\(4x - 3y + 10 = 0\\) .",
+        "C. \\(3x - 4y + 15 = 0\\) .",
+        "D. \\(4x - 3y + 15 = 0\\) ."
+      ],
+      "answer": "B",
+      "note": "Đường tròn \\(\\left( C \\right)\\) có tâm \\(I\\left( {3; - 1} \\right)\\) . Phương trình tiếp tuyến của \\(\\left( C \\right)\\) tại \\(M\\left( { - 1;2} \\right)\\) nhận \\(\\overrightarrow {IM} = \\left( { - 4;3} \\right)\\) làm vectơ pháp tuyến có phương trình là \\( - 4\\left( {x + 1} \\right) + 3\\left( {y - 2} \\right) = 0\\) hay \\(4x - 3y + 10 = 0\\) . Chọn B ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong mặt phẳng tọa độ \\(Oxy\\) , phương trình của đường tròn tâm \\(I\\left( { - 1; - 2} \\right)\\) , bán kính bằng 3 là",
+      "options": [
+        "A. \\({\\left( {x - 1} \\right)^2} + {\\left( {y - 2} \\right)^2} = 9\\) .",
+        "B. \\({\\left( {x - 1} \\right)^2} + {\\left( {y - 2} \\right)^2} = 3\\) .",
+        "C. \\({\\left( {x + 1} \\right)^2} + {\\left( {y + 2} \\right)^2} = 3\\) .",
+        "D. \\({\\left( {x + 1} \\right)^2} + {\\left( {y + 2} \\right)^2} = 9\\) ."
+      ],
+      "answer": "D",
+      "note": "Phương trình của đường tròn tâm \\(I\\left( { - 1; - 2} \\right)\\) , bán kính bằng 3 là \\({\\left( {x + 1} \\right)^2} + {\\left( {y + 2} \\right)^2} = 9\\) . Chọn D ."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Trong mặt phẳng tọa độ \\(Oxy\\) , cho đường tròn \\(\\left( C \\right):{\\left( {x + 1} \\right)^2} + {\\left( {y - 2} \\right)^2} = 4\\) . Tâm và bán kính của đường tròn đã cho lần lượt là",
+      "options": [
+        "A. \\(I\\left( { - 1;2} \\right),R = 2\\) .",
+        "B. \\(I\\left( { - 2;1} \\right),R = 4\\) .",
+        "C. \\(I\\left( {1; - 2} \\right),R = 4\\) .",
+        "D. \\(I\\left( {1; - 2} \\right),R = 2\\) ."
+      ],
+      "answer": "A",
+      "note": "Tâm và bán kính của đường tròn đã cho lần lượt là \\(I\\left( { - 1;2} \\right),R = 2\\) . Chọn A ."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Trong mặt phẳng tọa độ \\(Oxy\\) , điểm \\(A\\left( {1;1} \\right)\\) nằm trên đường tròn nào sau đây?",
+      "options": [
+        "A. \\({\\left( {x - 2} \\right)^2} + {y^2} = 5\\) .",
+        "B. \\({\\left( {x - 4} \\right)^2} + {y^2} = 10\\) .",
+        "C. \\({\\left( {x + 1} \\right)^2} + {\\left( {y - 1} \\right)^2} = 3\\) .",
+        "D. \\({\\left( {x + 4} \\right)^2} + {y^2} = 10\\) ."
+      ],
+      "answer": "B",
+      "note": "Thay tọa độ điểm \\(A\\left( {1;1} \\right)\\) vào phương trình đường tròn \\({\\left( {x - 4} \\right)^2} + {y^2} = 10\\) ta thấy thỏa mãn. Vậy điểm \\(A\\left( {1;1} \\right)\\) nằm trên đường tròn \\({\\left( {x - 4} \\right)^2} + {y^2} = 10\\) . Chọn B ."
+    }
+  ]
+}

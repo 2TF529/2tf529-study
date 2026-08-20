@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-11-canh-dieu-bai-6-kiem-thu-va-sua-l",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-11-canh-die",
+  "grade": "l11",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 11 Cánh diều Bài 6: Kiểm thử và sửa lỗi chương trình có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Nguyên nhân nào thường gây ra lỗi cú pháp trong lập trình?",
+      "options": [
+        "A. Thiếu dấu chấm phẩy ở cuối dòng lệnh.",
+        "B. Giá trị không hợp lệ trong một phép toán.",
+        "C. Lỗi trong thuật toán đã được mô tả.",
+        "D. Quá trình biên dịch không thành công."
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Lỗi cú pháp thường xảy ra do các sai sót trong việc viết câu lệnh, như thiếu dấu chấm phẩy, dấu ngoặc không khớp, hoặc sai cấu trúc ngữ pháp của ngôn ngữ lập trình."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Lỗi nào được xác định là lỗi thời gian chạy?",
+      "options": [
+        "A. Lỗi không được biên dịch.",
+        "B. Lỗi xảy ra khi chạy chương trình với dữ liệu không hợp lệ.",
+        "C. Lỗi cú pháp trong mã nguồn.",
+        "D. Lỗi trong mô tả thuật toán."
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Lỗi thời gian chạy xảy ra khi chương trình đã được biên dịch nhưng gặp phải vấn đề trong quá trình thực thi, như chia cho 0 hoặc truy cập phần tử ngoài phạm vi cho phép."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Chạy thử chương trình có mục đích gì?",
+      "options": [
+        "A. Tăng tốc độ xử lý của chương trình.",
+        "B. Phát hiện lỗi trong mã nguồn.",
+        "C. Tối ưu hóa thuật toán.",
+        "D. Tăng cường bảo mật cho chương trình."
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Mục đích chính của việc chạy thử chương trình là để phát hiện lỗi trong mã nguồn và đảm bảo rằng chương trình hoạt động đúng theo yêu cầu đề bài."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Khi nào bạn nên sử dụng ca kiểm thử?",
+      "options": [
+        "A. Để kiểm tra độ an toàn của dữ liệu.",
+        "B. Để phát hiện các lỗi tiềm ẩn trong chương trình.",
+        "C. Để tối ưu hóa thời gian thực thi.",
+        "D. Để tăng cường bảo mật cho ứng dụng."
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Ca kiểm thử là một trường hợp cụ thể với đầu vào và đầu ra dự đoán nhằm phát hiện các lỗi tiềm ẩn trong chương trình."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Điều gì là một phần quan trọng trong việc gỡ lỗi?",
+      "options": [
+        "A. Sử dụng biến toàn cục.",
+        "B. Tách biệt các phần công việc của chương trình.",
+        "C. Tối ưu hóa thuật toán.",
+        "D. Sử dụng các thư viện bên ngoài."
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Tách biệt các phần công việc của chương trình giúp dễ dàng xác định và sửa lỗi ở các đoạn mã cụ thể, cải thiện khả năng gỡ lỗi."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Đâu là một kỹ thuật tốt để kiểm tra lỗi trong các biến kiểu số thực?",
+      "options": [
+        "A. Sử dụng điều kiện \"khác nhau\".",
+        "B. So sánh với giá trị đúng bằng 100.",
+        "C. Kiểm tra giá trị bằng 0.",
+        "D. Sử dụng các giá trị \"đầu vào không mong đợi\"."
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Lỗi logic có thể xảy ra khi so sánh các biến kiểu số thực do vấn đề làm tròn. Việc kiểm tra sự bằng nhau giữa các giá trị có thể dẫn đến sai sót, vì vậy nên kiểm tra cẩn thận."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-1-trac-nghiem-ung-dung-dao-ham-de-giai-quyet-mot-so-van-de-lien-q",
+  "sourceId": "vietjack:1-trac-nghiem-ung-dung-dao-ham-de-giai-q",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.Trắc nghiệm Ứng dụng đạo hàm để giải quyết một số vấn đề liên quan đến thực tiễn lớp 12 (có đáp án)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: I. Nhận biết Cho hàm số y = f(x), nếu x thay đổi từ x 1 đến x 2 thì:",
+      "options": [
+        "A. x = x 2 + x 1 .",
+        "B. x = x 1 – x 2 .",
+        "C. x = x 2 − x 1 .",
+        "D. \\(\\Delta x = x_2^2 - x_1^2\\)."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C x = x 2 − x 1 ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Tốc độ thay đổi trung bình của y đối với x trên đoạn [x 1 ; x 2 ] là:",
+      "options": [
+        "A. \\(\\frac{{\\Delta y}}{{\\Delta x}} = \\frac{{f\\left( {{x_2}} \\right) - f\\left( {{x_1}} \\right)}}{{{x_2} - {x_1}}}\\).",
+        "B. \\(\\frac{{\\Delta y}}{{\\Delta x}} = \\frac{{f\\left( {{x_2}} \\right) + f\\left( {{x_1}} \\right)}}{{{x_2} + {x_1}}}\\).",
+        "C. \\(\\frac{{\\Delta x}}{{\\Delta y}} = \\frac{{{x_2} - {x_1}}}{{f\\left( {{x_2}} \\right) - f\\left( {{x_1}} \\right)}}\\).",
+        "D. \\(\\frac{{\\Delta x}}{{\\Delta y}} = \\frac{{{x_1} - {x_2}}}{{f\\left( {{x_1}} \\right) - f\\left( {{x_2}} \\right)}}\\)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A \\(\\frac{{\\Delta y}}{{\\Delta x}} = \\frac{{f\\left( {{x_2}} \\right) - f\\left( {{x_1}} \\right)}}{{{x_2} - {x_1}}}\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Một vật chuyển động trên một đường thẳng theo quy luật s = s(t), khi đó biểu thức biểu thị vận tốc tức thời của vật là:",
+      "options": [
+        "A. v = −s(t).",
+        "B. v = s'(t).",
+        "C. v = s\"(t).",
+        "D. v = −s\"(t)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B v = s'(t)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Nếu C = C(t) là nồng độ của một chất tham gia phản ứng hóa học tại thời điểm t. Tốc độ phản ứng tức thời (độ thay đổi của nồng độ) của chất đó tại thời điểm t là:",
+      "options": [
+        "A. 2C(t).",
+        "B. C'(t).",
+        "C. −C(t).",
+        "D. \\(\\frac{{C\\left( t \\right)}}{2}\\)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B C'(t) là tốc độ phản ứng tức thời (độ thay đổi của nồng độ) của chất đó tại thời điểm t."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Quy trình giải một bài toán tối ưu hóa được thực hiện theo các bước sau: (1) Xác định đại lượng Q mà ta cần làm cho giá trị của đại lượng ấy lớn nhất hoặc nhỏ nhất và biểu diễn nó qua các đại lượng khác trong bài toán. (2) Chọn một đại lượng thích hợp nào đó, kí hiệu là x và biểu diễn các đại lượng khác theo x. Khi đó đại lượng Q sẽ là hàm số của một biến x. Tìm tập xác định của hàm số Q = Q(x). (3) Tìm giá trị lớn nhất hoặc nhỏ nhất của hàm số Q = Q(x) bằng các phương pháp đã biết và kết luận. Thứ tự các bước đúng là:",
+      "options": [
+        "A. (1) → (3) → (2).",
+        "B. (2) → (1) → (3).",
+        "C. (2) → (3) → (1).",
+        "D. (1) → (2) → (3)."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Thứ tự đúng là (1) → (2) → (3)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: II. Thông hiểu Một tên lửa bay vào không trung với quãng đường đi được \\(s\\left( t \\right) = {e^{{t^2} + 3}} + 2t.{e^{3t + 1}}\\) (km). Hỏi vận tốc của tên lửa sau 1 giây là bao nhiêu?",
+      "options": [
+        "A. 5e 4 (km/s).",
+        "B. 3e 4 (km/s).",
+        "C. 9e 4 (km/s) .",
+        "D. 10e 4 (km/s)."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Có \\(v\\left( t \\right) = s'\\left( t \\right) = 2t{e^{{t^2} + 3}} + \\left( {6t + 2} \\right).{e^{3t + 1}}\\). Với t =1, ta có \\(v\\left( 1 \\right) = 2.1.{e^{{1^2} + 3}} + \\left( {6.1 + 2} \\right).{e^{3.1 + 1}} = 10{e^4}\\) (km/s)."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Một vật rơi tự do với phương trình chuyển động \\(s = \\frac{1}{2}g{t^2}\\) trong đó g = 9,8 m/s 2 và t tính bằng giây (s). Vận tốc của vật tại thời điểm t = 5 s bằng:",
+      "options": [
+        "A. 49 (m/s).",
+        "B. 25 (m/s).",
+        "C. 10 (m/s) .",
+        "D. 18 (m/s)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Có \\(v\\left( t \\right) = s'\\left( t \\right) = gt\\). Do đó v(5) = 9,8.5 = 49 (m/s)."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho chuyển động thẳng xác định bởi phương trình s = t 3 – 3t 2 + 4t trong đó t tính bằng giây (s) và s được tính bằng mét (m). Gia tốc của chất điểm lúc t = 2 s bằng:",
+      "options": [
+        "A. 4 (m/s 2 ).",
+        "B. 6 (m/s 2 ).",
+        "C. 8 (m/s 2 ) .",
+        "D. 12 (m/s 2 )."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Có v(t) = s' = 3t 2 – 6t + 4; a(t) = v' = 6t – 6; Có a(2) = 6.2 – 6 = 6 (m/s 2 )."
+    }
+  ]
+}

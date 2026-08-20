@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-2-bo-4-de-thi-giua-ki-1-toan-10-nam-2025-2026-ha-noi-co-dap-an",
+  "sourceId": "vietjack:2-bo-4-de-thi-giua-ki-1-toan-10-nam-2025",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "giuaki1",
+  "year": 2026,
+  "title": "2.Bộ 4 đề thi giữa kì 1 Toán 10 năm 2025-2026 Hà Nội (có đáp án)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Bất phương trình nào sau đây là bất phương trình bậc nhất hai ẩn?",
+      "options": [
+        "A. \\(10x + 11y \\ge z\\).",
+        "B. \\(3x - 8y \\le 2025\\).",
+        "C. \\({x^2} + x \\le 2010\\).",
+        "D. \\(y\\left( {2x + 5} \\right) \\ge 12\\)."
+      ],
+      "answer": "B",
+      "note": "Bất phương trình bậc nhất hai ẩn \\(x,y\\) có dạng tổng quát là \\(ax + by < c\\) (hoặc \\( \\le , > , \\ge \\)), trong đó \\(a\\) và \\(b\\) không đồng thời bằng 0. Đáp án A có 3 ẩn (\\(x,y,z\\)). Đáp án C là bất phương trình bậc hai một ẩn \\(x\\). Đáp án D có chứa tích \\(2xy\\) nên không phải bậc nhất. Đáp án B có dạng \\(3x - 8y \\le 2025\\) là bất phương trình bậc nhất hai ẩn. Chọn B."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Phần mặt phẳng không bị gạch ở hình vẽ bên (kể cả biên) biểu diễn miền nghiệm của bất phương trình nào sau đây?",
+      "options": [
+        "A. \\(3x + 2y - 6 \\ge 0\\).",
+        "B. \\(3x + 2y - 6 \\le 0\\).",
+        "C. \\(2x + 3y - 6 \\ge 0\\).",
+        "D. \\(2x + 3y - 6 \\le 0\\)."
+      ],
+      "answer": "A",
+      "note": "Đường thẳng ranh giới đi qua hai điểm \\(\\left( {2;0} \\right)\\) và \\(\\left( {0;3} \\right)\\). Thay tọa độ hai điểm này vào phương trình đường thẳng dạng \\(\\frac{x}{2} + \\frac{y}{3} = 1 \\Leftrightarrow 3x + 2y - 6 = 0\\). Do đó, ta loại đáp án C và D. Xét điểm gốc tọa độ \\(O\\left( {0;0} \\right)\\) nằm trong phần mặt phẳng bị gạch (không thuộc miền nghiệm). Thay tọa độ \\(O\\left( {0;0} \\right)\\) vào biểu thức \\(3x + 2y - 6\\), ta được: \\(3\\left( 0 \\right) + 2\\left( 0 \\right) - 6 = - 6 < 0\\) Vì \\(O\\) không thuộc miền nghiệm nên miền nghiệm phải chứa các điểm thỏa mãn \\(3x + 2y - 6 \\ge 0\\). Chọn A."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho hai tập hợp \\(A = \\left( {1;7} \\right)\\) và \\(B = {C_\\mathbb{R}}A\\). Chọn khẳng định đúng trong các khẳng định sau.",
+      "options": [
+        "A. \\(B = \\left( { - \\infty ;1} \\right) \\cup \\left( {7; + \\infty } \\right)\\).",
+        "B. \\(B = \\left( { - \\infty ;1\\left] \\cup \\right[7; + \\infty } \\right)\\).",
+        "C. \\(B = \\left( {1;7} \\right)\\).",
+        "D. \\(B = \\left[ {1;7} \\right]\\)."
+      ],
+      "answer": "B",
+      "note": "Tập hợp \\(B\\) là phần bù của \\(A\\) trong \\(\\mathbb{R}\\): \\(B = {C_\\mathbb{R}}A = \\mathbb{R}\\backslash \\left( {1;7} \\right) = \\left( { - \\infty ;1\\left] \\cup \\right[7; + \\infty } \\right)\\) Chọn B."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Điểm nào sau đây không thuộc miền nghiệm của hệ bất phương trình \\(\\left\\{ {\\begin{array}{*{20}{l}}{x > 0}\\\\{2x - y \\ge 3}\\\\{x + y < 1}\\end{array}} \\right.\\)?",
+      "options": [
+        "A. \\(\\left( {1; - 7} \\right)\\).",
+        "B. \\(\\left( {0; - 3} \\right)\\).",
+        "C. \\(\\left( {1; - 5} \\right)\\).",
+        "D. \\(\\left( {2; - 3} \\right)\\)."
+      ],
+      "answer": "B",
+      "note": "Ta thay tọa độ các điểm vào hệ bất phương trình để kiểm tra: Với điểm \\(\\left( {0; - 3} \\right)\\): Bất phương trình đầu tiên yêu cầu \\(x > 0\\), mà ở đây \\(x = 0\\) (không thỏa mãn \\(0 > 0\\)). Do đó điểm \\(\\left( {0; - 3} \\right)\\) không thuộc miền nghiệm. Chọn B."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Gọi \\(a,b,c,r,R,S\\) lần lượt là độ dài ba cạnh, bán kính đường tròn nội tiếp, ngoại tiếp và diện tích của \\(\\Delta ABC\\). Khẳng định nào sau đây là đúng?",
+      "options": [
+        "A. \\({c^2} = {a^2} + {b^2} + 2ab\\cos C\\).",
+        "B. \\(S = \\frac{1}{2}ab\\sin C\\).",
+        "C. \\(S = \\frac{1}{2}.AM.BC\\) (M là trung điểm BC).",
+        "D. \\(S = \\frac{1}{2}\\sqrt {p\\left( {p - a} \\right)\\left( {p - b} \\right)\\left( {p - c} \\right)} \\) với \\(p = \\frac{{a + b + c}}{2}\\)."
+      ],
+      "answer": "B",
+      "note": "Khẳng định A sai vì định lí cosin đúng là: \\({c^2} = {a^2} + {b^2} - 2ab.{\\rm{cos}}C\\). Khẳng định B đúng theo công thức tính diện tích tam giác: \\(S = \\frac{1}{2}ab{\\rm{sin}}C\\). Khẳng định C sai vì \\(AM\\) chỉ là trung tuyến, không chắc chắn là đường cao. Khẳng định D sai vì công thức Heron đúng là \\(S = \\sqrt {p\\left( {p - a} \\right)\\left( {p - b} \\right)\\left( {p - c} \\right)} \\), thừa hệ số \\(\\frac{1}{2}\\). Chọn B."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho \\(\\alpha \\) là góc thỏa mãn \\({0^ \\circ } \\le \\alpha \\le {180^ \\circ }\\). Biết \\({\\rm{cos}}\\alpha = \\frac{3}{4}\\), khi đó giá trị của \\({\\rm{cos}}\\left( {{{180}^ \\circ } - \\alpha } \\right)\\) là:",
+      "options": [
+        "A. \\( - \\frac{3}{4}\\).",
+        "B. \\(\\frac{3}{4}\\).",
+        "C. \\( - \\frac{{\\sqrt 7 }}{4}\\).",
+        "D. \\(\\frac{{\\sqrt 7 }}{4}\\)."
+      ],
+      "answer": "A",
+      "note": "Theo công thức lượng giác của hai góc bù nhau, ta có: \\({\\rm{cos}}\\left( {{{180}^ \\circ } - \\alpha } \\right) = - {\\rm{cos}}\\alpha \\). Thay \\({\\rm{cos}}\\alpha = \\frac{3}{4}\\) vào ta được: \\({\\rm{cos}}\\left( {{{180}^ \\circ } - \\alpha } \\right) = - \\frac{3}{4}\\). Chọn A."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Cho tam giác \\(ABC\\) có \\(\\widehat {BAC} = {60^ \\circ }\\) và cạnh \\(BC = \\sqrt 3 \\). Tính bán kính đường tròn ngoại tiếp tam giác \\(ABC\\).",
+      "options": [
+        "A. \\(R = 1\\).",
+        "B. \\(R = 3\\).",
+        "C. \\(R = 4\\).",
+        "D. \\(R = 2\\)."
+      ],
+      "answer": "A",
+      "note": "Áp dụng định lí sin trong tam giác \\(ABC\\), ta có: \\(\\frac{{BC}}{{{\\rm{sin}}A}} = 2R \\Rightarrow R = \\frac{{BC}}{{2{\\rm{sin}}A}}\\). Thay số vào: \\(R = \\frac{{\\sqrt 3 }}{{2 \\cdot {\\rm{sin}}{{60}^ \\circ }}} = \\frac{{\\sqrt 3 }}{{2 \\cdot \\frac{{\\sqrt 3 }}{2}}} = 1\\). Chọn A."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Tam giác \\(ABC\\) có \\(AC = 3\\sqrt 3 ,AB = 3,BC = 6\\). Tính số đo góc \\(B\\).",
+      "options": [
+        "A. \\({60^ \\circ }\\).",
+        "B. \\({30^ \\circ }\\).",
+        "C. \\({120^ \\circ }\\).",
+        "D. \\({45^ \\circ }\\)."
+      ],
+      "answer": "A",
+      "note": "Áp dụng hệ quả của định lí cosin cho góc \\(B\\), ta có: \\({\\rm{cos}}B = \\frac{{A{B^2} + B{C^2} - A{C^2}}}{{2 \\cdot AB \\cdot BC}}\\) Thay số vào: \\({\\rm{cos}}B = \\frac{{{3^2} + {6^2} - {{\\left( {3\\sqrt 3 } \\right)}^2}}}{{2 \\cdot 3 \\cdot 6}} = \\frac{{9 + 36 - 27}}{{36}} = \\frac{{18}}{{36}} = \\frac{1}{{12}} = \\frac{1}{2}\\) Vì \\({0^ \\circ } < \\hat B < {180^ \\circ }\\) nên \\(\\hat B = {60^ \\circ }\\). Chọn A."
+    }
+  ]
+}

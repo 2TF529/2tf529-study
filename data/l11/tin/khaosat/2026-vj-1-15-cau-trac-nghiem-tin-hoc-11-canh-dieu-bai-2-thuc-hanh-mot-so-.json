@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-11-canh-dieu-bai-2-thuc-hanh-mot-so-",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-11-canh-die",
+  "grade": "l11",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 11 Cánh diều Bài 2: Thực hành một số tính năng hữu ích Của máy tìm kiếm có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Toán tử nào giúp loại bỏ các kết quả có chứa từ khóa không mong muốn?",
+      "options": [
+        "A. AND",
+        "B. OR",
+        "C. *",
+        "D. –"
+      ],
+      "answer": "D",
+      "note": "Đáp án: D Giải thích: Toán tử trừ (-) được dùng để loại bỏ các kết quả có chứa từ khóa không mong muốn."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Khi tìm kiếm với từ khóa \"Cá heo xanh\" trên Google, việc đặt từ khóa trong dấu ngoặc kép có tác dụng gì?",
+      "options": [
+        "A. Tìm tất cả các trang chứa từ “cá”, “heo”, và “xanh”",
+        "B. Tìm các trang chứa chính xác cụm từ “Cá heo xanh”",
+        "C. Tìm trang chứa “cá heo xanh” theo bất kỳ thứ tự nào",
+        "D. Tìm trang chứa từ khóa cá nhân"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Đặt từ khóa trong dấu ngoặc kép giúp tìm các trang chứa chính xác cụm từ đó."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Toán tử nào có thể tìm kiếm các trang chứa từ khóa A hoặc B?",
+      "options": [
+        "A. OR",
+        "B. AND",
+        "C. *",
+        "D. NOT"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Toán tử OR dùng để tìm kiếm các trang chứa từ khóa A hoặc B."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Kết quả tìm kiếm với từ khóa \"cá heo xanh\" + \"cửa hàng\" sẽ cho ra:",
+      "options": [
+        "A. Các trang chỉ chứa \"cá heo xanh\"",
+        "B. Các trang chỉ chứa \"cửa hàng\"",
+        "C. Các trang chứa cả \"cá heo xanh\" và \"cửa hàng\"",
+        "D. Các trang không liên quan"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Toán tử dấu cộng (+) yêu cầu tìm các trang chứa cả hai từ khóa."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Để tìm các trang chứa từ khóa \"tin học\" và liên quan đến \"ứng dụng\", ta nên dùng biểu thức:",
+      "options": [
+        "A. \"tin học ứng dụng\"",
+        "B. tin học -ứng dụng",
+        "C. tin học + ứng dụng",
+        "D. tin học AND ứng dụng"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Dấu ngoặc kép giúp tìm kiếm cụm từ chính xác và liên quan đến \"ứng dụng\"."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Nếu muốn tìm tài liệu PDF về lịch sử Việt Nam, biểu thức nào là phù hợp?",
+      "options": [
+        "A. \"lịch sử Việt Nam\" filetype",
+        "B. \"lịch sử Việt Nam\" + filetype.doc",
+        "C. \"lịch sử Việt Nam\" -pdf",
+        "D. \"lịch sử Việt Nam\" OR filetype.txt"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Toán tử filetype, giúp tìm các tệp PDF có chứa từ khóa."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-7-10-bai-tap-ung-dung-ba-duong-conic-vao-cac-bai-toan-thuc-te-co-",
+  "sourceId": "vietjack:7-10-bai-tap-ung-dung-ba-duong-conic-vao",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "7.10 Bài tập Ứng dụng ba đường conic vào các bài toán thực tế (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Để chụp toàn cảnh, ta có thể sử dụng một gương hypebol. Máy ảnh được hướng về phía đỉnh của gương và tâm quang học của máy ảnh được đặt tại một tiêu điểm của gương (hình vẽ ). Phương trình cho mặt cắt của gương là x 2 25 − y 2 16 = 1 . K hoảng cách từ quang tâm của máy ảnh đến đỉnh của gương ( làm tròn kết quả đến chữ số thập phân thứ nhất ) là",
+      "options": [
+        "A. 12,8 ;",
+        "B. 5 ;",
+        "C. 1,4 ;",
+        "D. 11,4 ."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải: Đáp án đúng là: D Gọi H : x 2 25 − y 2 16 = 1 có a 2 = 25 và b 2 = 16. Suy ra c = a 2 + b 2 = 25 + 16 = 41 . Ta tìm được một tiêu điểm của gương là F 2 41 ; 0 và đỉnh của gương là A 1 (–5; 0). Vậy khoảng cách từ tâm của máy ảnh tới đỉnh của gương là F 2 A 1 = 41 + 5 ≈ 11 , 4."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Một gương hypebol (được sử dụng trong một số kính thiên văn) có tính chất là một tia sáng hướng vào tiêu điểm sẽ bị phản xạ sang tiêu điểm khác. Gương trong hình vẽ có phương trình x 2 36 − y 2 64 = 1 . Điểm nào trên gương sẽ nhận được tia sán g đi qua điểm (0; 10) và bị phản xạ sang tiêu điểm còn lại? ( tham khảo hình vẽ )",
+      "options": [
+        "A. M(6,54; 3,65);",
+        "B. M(6,54; 3,55);",
+        "C. M(– 32,25; 42,25);",
+        "D. M(6,54; – 3,55);."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: B Gọi H : x 2 36 − y 2 64 = 1 Phương trình của gương (H) có dạng x 2 a 2 − y 2 b 2 = 1 , với a = 6, b = 8; Suy ra c = a 2 + b 2 = 10 . Giả sử điểm cần tìm là M ∈ (H) . Gọi đường đi của ánh sáng qua điểm (0; 10) và M là d , do tia sáng sau khi phản xạ bởi gương sẽ đi qua tiêu điểm F 1 (–10; 0) , suy ra d nhằm vào tiêu điểm F 2 (10; 0) (F 2 ∈ d). Từ đây dễ dàng lập được phương trình của d là y = –x + 10. Tọa độ của M ∈ (H) là nghiệm của hệ: y = − x + 10 x 2 36 − y 2 64 = 1 ⇔ y = − x + 10 16 x 2 − 9 y 2 − 576 = 0 ⇔ y = − x + 10 16 x 2 − 9 10 − x 2 − 576 = 0 ⇔ y = − x + 10 16 x 2 − 9 100 − 20 x + x 2 − 576 = 0 ⇔ y = − x + 10 7 x 2 + 180 x − 1 476 = 0 ⇔ x ≈ − 32 , 25 y ≈ 42 , 25 x ≈ 6 , 54 y ≈ 3 , 46 Do điểm cần tìm nằm ở nhánh bên phải nên ta có M(6,54; 3,55) ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Điều hướng LORAN (điều hướng vô tuyến đường dài) cho máy bay và tàu thủy sử dụng các xung đồng bộ được truyền bởi hai trạm phát đặt cách xa nhau . Các xung này di chuyển với tốc độ ánh sáng (186 000 dặm/giây). Sự chênh lệch về thời gian nhận được phản xạ của các xung này từ một máy bay hoặc tàu thủy là không đổi, nên máy bay hoặc con tàu sẽ nằm trên một hyperbol có các trạm phát là các tiêu điểm. Giả sử rằng hai trạm phát cách nhau 300 dặm, được đặt trên một hệ tọa độ vuông góc tại các điểm có tọa độ ( – 150; 0) và (150; 0) và một con tàu đang đi trên một con đường là một nhánh của hypebol và có tọa độ (x; 75) (xem hình vẽ). Giá trị gần đúng của hoành độ của vị trí con tàu khi chênh lệch thời gian giữa các xung từ các trạm phát là 1 000 micro giây (0,001 giây) là",
+      "options": [
+        "A. 110,2789 ;",
+        "B. –110,2789;",
+        "C. 52,3891;",
+        "D. 73,4231."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A Gọi đường đi của con tàu là (H) thì (H) có phương trình dạng x 2 a 2 − y 2 b 2 = 1 (a, b > 0). Với giả thiết ta có các tiêu điểm của (H) là F 1 ( – 150; 0) và F 2 (150; 0), suy ra c = 150. Giả sử vị trí con tàu hiện tại là M(x 0 ; 75) ∈ (H); theo giả thiết độ chênh lệch thời gian giữa các xung từ các trạm phát là 1 000 micro giây (0,001 giây) , tức là ta có |MF 1 – MF 2 | = 0,001.186 000 = 186 (dặm); tức là ta có 2a = 186 suy ra a = 93. Do đó b = c 2 − a 2 = 27 19 . Phương trình (H) là: x 2 8 649 − y 2 13 851 = 1 . Ta có M(x 0 ; 75) ∈ (H) ⇔ x 2 8 649 − 75 2 13 851 = 1 ⇔ x ≈ 110 , 2789 x ≈ − 110 , 2789 . Vậy hoành độ của con tàu gần bằng 110,2789 ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Điều hướng LORAN (điều hướng vô tuyến đường dài) cho máy bay và tàu thủy sử dụng các xung đồng bộ được truyền bởi các trạm phát đặt cách xa nhau . Các xung này di chuyển với tốc độ ánh sáng (186 000 dặm/giây). Sự chênh lệch về thời gian nhận được phản xạ của các xung này từ một máy bay hoặc tàu thủy là không đổi, nên máy bay hoặc con tàu sẽ nằm trên một hyperbol có các trạm phát là các tiêu điểm. Giả sử rằng hai trạm phát, cách nhau 300 dặm, được đặt trên một hệ tọa độ vuông góc tại các điểm có tọa độ ( – 150; 0) và (150; 0) và một con tàu đang đi trên một con đường là một nhánh của hypebol ( xem hình vẽ ). Biết rằng độ chênh lệch thời gian giữa các xung từ các trạm phát với con tàu là 1 000 micro giây (0,001 giây). K hoảng cách giữa tàu và trạm phát số 1 khi tàu vào bờ là",
+      "options": [
+        "A. 93 ;",
+        "B. 57 ;",
+        "C. 150 ;",
+        "D. 243 ."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải: Đáp án đúng là: B Gọi đường đi của con tàu là (H) thì (H) có phương trình dạng x 2 a 2 − y 2 b 2 = 1 (a, b > 0). Với giả thiết ta có các tiêu điểm của (H) là F 1 ( – 150; 0) và F 2 (150; 0), suy ra c = 150. Giả sử vị trí con tàu hiện tại là M(x 0 ; 75) ∈ (H); theo giả thiết độ chênh lệch thời gian giữa các xung từ các trạm phát là 1 000 micro giây (0,001 giây) , tức là ta có |MF 1 – MF 2 | = 0,001.186 000 = 186 (dặm); tức là ta có 2a = 186 suy ra a = 93. Do đó b = c 2 − a 2 = 27 19 . Phương trình (H) là: x 2 8 649 − y 2 13 851 = 1 . Trạm phát số 1 nằm tại tiêu điểm F 2 (150; 0) , vị trí khi con tàu vào bờ là đỉnh của (H) là A 2 (93; 0). Vậy khoảng cách từ vị trí tàu vào bờ đến trạm số 1 là: F 2 A 2 = 150 – 93 = 57 (dặm)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Một con tàu đang trên hành trình đi song song với một bờ biển thẳng và cách bờ 80 km. Hai trạm truyền tin S 1 và S 2 nằm trên bờ biển, cách xa nhau 220 km. Bằng cách tính giờ các tín hiệu vô tuyến từ hai trạm, hoa tiêu của tàu xác định rằng con tàu đang ở giữa hai trạm và ở gần S 2 hơn S 1 là 60 km. Khoảng cách từ con tàu tới trạm S 2 (làm tròn đến hai chữ số thập phân) là",
+      "options": [
+        "A. 107,89 km ;",
+        "B. 167,89 km ;",
+        "C. 136,01 km ;",
+        "D. 75,50 km."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A Gọi d 1 và d 2 là các khoảng cách tương ứng từ con tàu tới S 1 và S 2 , khi đó hiệu d 1 – d 2 = 60 và con thuyền phải nằm trên một hyperbol với tiêu điểm là S 1 và S 2 , hiệu hai khoảng cách cố định bằng 60 (Hình vẽ). Để đưa ra phương trình của hyperbol, ta biểu diễn hiệu cố định này bằng 2a. Như vậy, ta có c = 110, a = 1 2 ⋅ 60 = 30 , b = 110 2 − 30 2 = 11 200 Phương trình của hyperbol này có dạng là x 2 900 − y 2 11 200 = 1 . Thay y = 80 vào phương trình và giải theo x ta được: x 2 900 − 80 2 11 200 = 1 ⇔ x 2 = 9 900 7 Do đó x ≈ 37,61 (nghiệm âm bị loại, vì con tàu ở gần S 2 hơn S 1 ). Khoảng cách từ con tàu đến S 2 là d 2 ≈ 37 , 61 − 110 2 + 80 2 = 11640 , 3121 ≈ 107 , 89 km."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Một vụ nổ được hai micro M 1 và M 2 cách nhau 2 dặm ghi lại (1 dặm bằng 5 280 feet). Micro M 1 nhận được âm thanh trước 4 giây so với micro M 2 . Giả sử âm thanh di chuyển với tốc độ 1 100 feet/giây. Tập tất cả các điểm P xảy ra vụ nổ thỏa mãn các điều kiện trên là một hypebol có phương trình dạng x 2 a 2 − y 2 b 2 = 1 , với hai micro M 1 và M 2 là các tiêu điểm. Khi đó a + b bằng bao nhiêu? ( làm tròn đến chữ số hàng đơn vị )",
+      "options": [
+        "A. 2 200;",
+        "B. 4 800;",
+        "C. 5 280;",
+        "D. 7 000."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải: Đáp án đúng là: D Ta bắt đầu bằng cách đặt micro trong một hệ tọa độ vuông góc. Bởi vì dặm bằng 5 280 feet nên ta đặt M 1 trên trục hoành cách gốc tọa độ 5280 feet về bên phải và đặt M 2 trên trục hoành cách gốc tọa độ 5 280 feet về bên trái như hình vẽ minh họa hai micro cách nhau 2 dặm. Ta biết rằng M 2 nhận được âm thanh sau 4 giây so với M 1 . Vì âm thanh di chuyển với tốc độ 1 100 feet/giây nên hiệu số khoảng cách từ P (nơi xảy ra vụ nổ) tới M 2 và từ P tới M 1 là 4 400 feet. Tập tất cả các điểm P xảy ra vụ nổ thỏa mãn các điều kiện này là một hyperbol, với hai micro M 1 và M 2 là các tiêu điểm. Như vậy, vị trí xảy ra vụ nổ nằm trên hyperbol có phương trình chuẩn là x 2 a 2 − y 2 b 2 = 1 . Ta cần xác định các hệ số a và b. Ta có hiệu số khoảng cách giữa hai micro là 4 400 feet và được đặt bằng 2a, tức là 2a = 4 400 suy ra a = 2 200. Ta có x 2 2 200 2 − y 2 b 2 = 1 hay x 2 4 840 000 − y 2 b 2 = 1 . Ta lại có khoảng cách từ gốc O(0; 0) tới tiêu điểm M 2 ( – 5 280; 0) hoặc M 1 (5 280; 0) đều bằng 5 280. Do đó c = 5 280 . Sử dụng hệ thức c 2 = a 2 + b 2 ⇒ b = 5 280 2 − 2 200 2 ≈ 4 800. Vậy a + b = 2 200 + 4 800 = 7 000 ."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-2-de-kiem-tra-on-tap-chuong-7-lop-10-co-loi-giai",
+  "sourceId": "vietjack:2-de-kiem-tra-on-tap-chuong-7-lop-10-co-",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.Đề kiểm tra Ôn tập chương 7 lớp 10 (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho tam giác đều \\(ABC\\) có cạnh bằng \\(a\\). Tích vô hướng \\(\\overrightarrow {AB} .\\overrightarrow {AC} \\) bằng",
+      "options": [
+        "A. \\( - \\frac{{{a^2}}}{2}\\).",
+        "B. \\({a^2}\\).",
+        "C. \\(2{a^2}\\).",
+        "D. \\(\\frac{{{a^2}}}{2}\\)."
+      ],
+      "answer": "D",
+      "note": "\\(\\overrightarrow {AB} .\\overrightarrow {AC} = AB.AC.\\cos \\left( {\\overrightarrow {AB} ,\\overrightarrow {AC} } \\right) = AB.AC.\\cos \\widehat {BAC} = a.a.\\cos {60^o} = \\frac{{{a^2}}}{2}\\)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Trong mặt phẳng \\[Oxy\\], cho tam giác \\[ABC\\] có \\[A = \\left( { - 1;3} \\right)\\], \\[B = \\left( {2;0} \\right)\\], \\[C = \\left( {6;2} \\right)\\]. Tính độ dài trung tuyến \\[AM\\] của tam giác \\[ABC\\].",
+      "options": [
+        "A. \\[\\sqrt 3 \\].",
+        "B. \\[\\sqrt {10} \\].",
+        "C. \\[\\sqrt {17} \\].",
+        "D. \\[\\sqrt {29} \\]."
+      ],
+      "answer": "D",
+      "note": "\\[M\\] là trung điểm cạnh \\[BC\\] nên \\[{x_M} = \\frac{{2 + 6}}{2} = 4;{y_M} = \\frac{{0 + 2}}{2} = 1\\]. Suy ra \\[M\\left( {4;1} \\right)\\]. \\[\\overrightarrow {AM} = \\left( {5; - 2} \\right) \\Rightarrow AM = \\sqrt {{5^2} + {{\\left( { - 2} \\right)}^2}} = \\sqrt {29} \\]."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho hai đường thẳng \\({d_1}:\\,11x - 12y + 1 = 0\\) và \\({d_2}:\\,12x + 11y + 9 = 0\\). Xét vị trí tương đối giữa \\({d_1}\\) và \\({d_2}\\):",
+      "options": [
+        "A. \\({{\\rm{d}}_1}{\\rm{//}}{{\\rm{d}}_2}\\).",
+        "B. \\({d_1} \\equiv {d_2}\\).",
+        "C. \\({d_1}\\) cắt \\({d_2}\\) nhưng không vuông góc.",
+        "D. \\({d_1} \\bot {d_2}\\)."
+      ],
+      "answer": "D",
+      "note": "Ta có: \\({d_1}\\) có VTPT là \\(\\overrightarrow {{n_1}} = \\left( {11; - 12} \\right)\\); \\({d_2}\\) có VTPT là \\(\\overrightarrow {{n_2}} = \\left( {12;11} \\right)\\). Xét \\(\\overrightarrow {{n_1}} .\\overrightarrow {{n_2}} = 11.12 - 12.11 = 0\\) \\( \\Rightarrow {d_1} \\bot {d_2}\\)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Trong mặt phẳng \\(Oxy\\) cho đường thẳng \\(d:\\left\\{ \\begin{array}{l}x = 2 + t\\\\y = 2t\\end{array} \\right.\\left( {t \\in \\mathbb{R}} \\right)\\). Biết rằng \\[\\Delta \\] là đường thẳng song song với đường thẳng \\(d\\) và cắt đường thẳng \\(d':\\left\\{ \\begin{array}{l}x = 2 - 3t\\\\y = 1 + 2t\\end{array} \\right.\\left( {t \\in \\mathbb{R}} \\right)\\) tại điểm có hoành độ là \\( - 1\\). Đáp án nào dưới đây là sai ?",
+      "options": [
+        "A. \\(\\Delta :\\left\\{ \\begin{array}{l}x = - 1 + t\\\\y = 3 + 2t\\end{array} \\right.\\left( {t \\in \\mathbb{R}} \\right)\\).",
+        "B. \\(\\Delta :\\left\\{ \\begin{array}{l}x = - 1 + 2t\\\\y = 3 + 4t\\end{array} \\right.\\left( {t \\in \\mathbb{R}} \\right)\\).",
+        "C. \\(\\Delta : - 2x + y - 7 = 0\\).",
+        "D. \\(\\Delta :\\left\\{ \\begin{array}{l}x = 2 + t\\\\y = 9 + 2t\\end{array} \\right.\\left( {t \\in \\mathbb{R}} \\right)\\)."
+      ],
+      "answer": "C",
+      "note": "Gọi \\(A\\left( { - 1;{y_A}} \\right)\\) là giao điểm của đường thẳng \\(\\Delta \\) và đường thẳng \\(d'\\) Ta có \\(A \\in d':\\left\\{ \\begin{array}{l}x = 2 - 3t\\\\y = 1 + 2t\\end{array} \\right. \\Rightarrow \\left\\{ \\begin{array}{l} - 1 = 2 - 3{t_A}\\\\{y_A} = 1 + 2{t_A}\\end{array} \\right. \\Rightarrow \\left\\{ \\begin{array}{l}{t_A} = 1\\\\{y_A} = 3\\end{array} \\right. \\Rightarrow A\\left( { - 1;3} \\right)\\) + \\(\\left( d \\right):\\left\\{ \\begin{array}{l}x = 2 + t\\\\y = 2t\\end{array} \\right.\\) suy ra \\(\\left( d \\right)\\) có một vectơ chỉ phương \\(\\overrightarrow u = \\left( {1;2} \\right)\\) + \\(\\Delta {\\rm{//}}d \\Rightarrow \\Delta \\) có một vectơ chỉ phương \\(\\overrightarrow u = \\left( {1;2} \\right)\\) + \\(\\Delta \\) qua \\(A\\left( { - 1;3} \\right)\\) và có một vectơ chỉ phương \\(\\overrightarrow u = \\left( {1;2} \\right)\\) \\( \\Rightarrow \\Delta :\\left\\{ \\begin{array}{l}x = - 1 + t\\\\y = 3 + 2t\\end{array} \\right.\\left( {t \\in \\mathbb{R}} \\right)\\) Ta có \\(\\vec a = \\left( {2;4} \\right) = 2\\vec u\\) và \\(B\\left( {2;9} \\right) \\in \\Delta \\left( {{t_0} = 3} \\right)\\) Mặt khác \\(\\Delta :\\left\\{ \\begin{array}{l}x = - 1 + t\\\\y = 3 + 2t\\end{array} \\right.\\left( {t \\in \\mathbb{R}} \\right) \\Leftrightarrow \\Delta : - 2x + y - 5 = 0\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho đường thẳng \\(d:\\,\\left\\{ \\begin{array}{l}x = 1 + 2t\\\\y = t\\end{array} \\right.\\), và điểm \\(A\\left( {1;2} \\right)\\) không thuộc đường thẳng \\(d\\), tìm hình chiếu \\(H\\) của \\(A\\) trên đường thẳng \\(d\\).",
+      "options": [
+        "A. \\(H\\left( { - 1;3} \\right)\\).",
+        "B. \\(H\\left( {\\frac{{ - 2}}{5};1} \\right)\\).",
+        "C. \\(H\\left( {2;\\frac{1}{2}} \\right)\\).",
+        "D. \\(H\\left( {\\frac{9}{5};\\frac{2}{5}} \\right)\\)."
+      ],
+      "answer": "D",
+      "note": "Ta có: \\(H \\in d \\Rightarrow H\\left( {1 + 2t;t} \\right)\\), \\(\\overrightarrow {AH} = \\left( {2t;t - 2} \\right)\\), đường thẳng \\(d\\) có VTCP: \\(\\overrightarrow u = \\left( {2;1} \\right)\\). Vì \\(AH \\bot d \\Rightarrow \\overrightarrow {AH} .\\overrightarrow u = 0\\)\\( \\Leftrightarrow 2.2t + t - 2 = 0 \\Leftrightarrow t = \\frac{2}{5} \\Rightarrow H\\left( {\\frac{9}{5};\\frac{2}{5}} \\right)\\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Phương trình chính tắc của Elip \\(\\frac{{{x^2}}}{{{a^2}}} + \\frac{{{y^2}}}{{{b^2}}} = 1\\,\\,\\,\\left( {a > b > 0} \\right)\\)biết \\(\\frac{c}{a} = \\frac{{2\\sqrt 5 }}{5}\\) và nhận \\(F\\left( {4;0} \\right)\\)là một tiêu điểm là?",
+      "options": [
+        "A. \\(\\frac{{{x^2}}}{{10}} + \\frac{{{y^2}}}{8} = 1\\).",
+        "B. \\(\\frac{{{x^2}}}{{25}} + \\frac{{{y^2}}}{9} = 1\\).",
+        "C. \\(\\frac{{{x^2}}}{{20}} + \\frac{{{y^2}}}{4} = 1\\).",
+        "D. \\(\\frac{{{x^2}}}{{25}} + \\frac{{{y^2}}}{5} = 1\\)."
+      ],
+      "answer": "C",
+      "note": "Phương trình chính tắc của Elip có dạng \\(\\frac{{{x^2}}}{{{a^2}}} + \\frac{{{y^2}}}{{{b^2}}} = 1\\,\\,\\,\\left( {a > b > 0} \\right)\\) Ta có \\(F\\left( {4;0} \\right) \\Rightarrow c = 4\\); \\(\\frac{{2\\sqrt 5 }}{5} = \\frac{c}{a} \\Rightarrow a = 2\\sqrt 5 \\) Suy ra \\({b^2} = {a^2} - {c^2} = 20 - 16 = 4\\). Vậy phương trình chính tắc của Elip là \\(\\frac{{{x^2}}}{{20}} + \\frac{{{y^2}}}{4} = 1\\)."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Phương trình tham số của đường thẳng \\[d\\] đi qua hai điểm \\[A\\left( { - 2;3} \\right)\\] và \\[B\\left( {3;1} \\right)\\] là",
+      "options": [
+        "A. \\[\\left\\{ \\begin{array}{l}x = - 2 + 5t\\\\y = 3 + 2t\\end{array} \\right.\\].",
+        "B. \\[\\left\\{ \\begin{array}{l}x = - 2 + 5t\\\\y = 3 - 2t\\end{array} \\right.\\].",
+        "C. \\[\\left\\{ \\begin{array}{l}x = - 2 + 2t\\\\y = 3 + 5t\\end{array} \\right.\\].",
+        "D. \\[\\left\\{ \\begin{array}{l}x = 3 - 5t\\\\y = 1 - 2t\\end{array} \\right.\\]"
+      ],
+      "answer": "B",
+      "note": "Đường thẳng \\[d\\] đi qua điểm \\[A\\left( { - 2;3} \\right)\\] và nhận vec tơ \\[\\overrightarrow {AB} \\left( {5;\\, - 2} \\right)\\] làm vectơ chỉ phương. Vậy phương trình tham số của đường thẳng \\[d\\] là \\[\\left\\{ \\begin{array}{l}x = - 2 + 5t\\\\y = 3 - 2t\\end{array} \\right.,\\left( {t \\in \\mathbb{R}} \\right)\\]."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Xét vị trí tương đối của hai đường thẳng \\({d_1}:\\,\\left\\{ \\begin{array}{l}x = - 1 + t\\\\y = - 2 - 2t\\end{array} \\right.\\) và \\({d_2}:\\left\\{ \\begin{array}{l}x = 2 - 2t'\\\\y = - 8 + 4t'\\end{array} \\right.\\).",
+      "options": [
+        "A. \\({{\\rm{d}}_1}{\\rm{//}}{{\\rm{d}}_2}\\).",
+        "B. \\({d_1} \\bot {d_2}\\).",
+        "C. \\({d_1} \\equiv {d_2}\\).",
+        "D. \\({d_1}\\) cắt \\({d_2}\\) nhưng không vuông góc."
+      ],
+      "answer": "C",
+      "note": "Ta có \\({d_1}\\) có VTCP là \\(\\overrightarrow {{u_1}} = \\left( {1; - 2} \\right)\\), \\({d_2}\\) có VTCP là \\(\\overrightarrow {{u_2}} = \\left( { - 2;4} \\right)\\) và có điểm \\(B\\left( {2; - 8} \\right) \\in {d_2}\\) Thay toạ độ \\(B\\) vào phương trình đường thẳng \\({d_1}\\) ta được: \\(\\left\\{ \\begin{array}{l}2 = - 1 + t\\\\ - 8 = - 2 - 2t\\end{array} \\right. \\Leftrightarrow \\left\\{ \\begin{array}{l}t = 3\\\\t = 3\\end{array} \\right. \\Leftrightarrow t = 3\\) \\( \\Rightarrow B \\in {d_1}\\) Lại có \\(\\overrightarrow {{u_2}} = - 2\\overrightarrow {{u_1}} \\) Vậy \\({d_1} \\equiv {d_2}\\)."
+    }
+  ]
+}

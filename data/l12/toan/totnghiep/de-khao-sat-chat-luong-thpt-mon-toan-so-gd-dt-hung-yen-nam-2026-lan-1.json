@@ -1,0 +1,196 @@
+{
+  "id": "l12-toan-totnghiep-2026-de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-hung-yen-nam-2026-lan-1",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "code": "THPT_TKT_2026_HY_01",
+  "title": "Đề khảo sát chất lượng THPT môn Toán Sở GD&ĐT Hưng Yên năm 2026 - Lần 1",
+  "duration": 90,
+  "answerSource": "official",
+  "source": "https://dolthpt.vn/tot-nghiep-thpt/pdf-de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-hung-yen-nam-2026-lan-1-co-dap-an",
+  "notes": "Nội dung, đáp án và lời giải được nhập từ bản công khai của DOL THPT.",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "content": "Trong không gian với hệ tọa độ $Oxyz$, phương trình mặt phẳng $(P)$ đi qua điểm $I(2;-1;3)$ và có vectơ pháp tuyến $\\vec n=(2;-2;1)$ là:",
+      "chuong": "phương pháp tọa độ trong không gian",
+      "dang": "lập phương trình tổng quát của mặt phẳng",
+      "type": "single",
+      "options": [
+        "A. \\$2x-y+3z-9=0$.",
+        "B. \\$2x-y+3z+9=0$.",
+        "C. \\$2x-2y+z+9=0$.",
+        "D. \\$2x-2y+z-9=0$."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Mặt phẳng $(P)$ đi qua điểm $I(2;-1;3)$.\n- Mặt phẳng $(P)$ có vectơ pháp tuyến $\\vec n=(2;-2;1)$.\n❓ **Hiểu câu hỏi:**\n- Cần lập phương trình mặt phẳng khi biết một điểm đi qua và một vectơ pháp tuyến.\n- Dùng công thức $A(x-x_0)+B(y-y_0)+C(z-z_0)=0$ với $\\vec n=(A;B;C)$.\n🔎 **Hướng dẫn cách làm:**\n- Vì $\\vec n=(2;-2;1)$ nên phương trình mặt phẳng có dạng \\$2(x-2)-2(y+1)+1(z-3)=0$.\n- Khai triển ra được \\$2x-4-2y-2+z-3=0$.\n- Rút gọn ta được \\$2x-2y+z-9=0$.\n✅ **Đáp án:** Chọn D. \\$2x-2y+z-9=0$."
+    },
+    {
+      "id": 2,
+      "content": "Họ nguyên hàm của hàm số $f(x)=\\sin x$ là:",
+      "chuong": "nguyên hàm và tích phân",
+      "dang": "nguyên hàm của một số hàm số thường gặp",
+      "type": "single",
+      "options": [
+        "A. $-\\cos x+C$.",
+        "B. $\\sin x+C$.",
+        "C. $-\\sin x+C$.",
+        "D. $\\cos x+C$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cần tìm họ nguyên hàm của hàm số $f(x)=\\sin x$.\n❓ **Hiểu câu hỏi:**\n- Bài toán yêu cầu nhớ công thức nguyên hàm cơ bản.\n- Ta dùng công thức $\\int \\sin x\\,dx=-\\cos x+C$.\n🔎 **Hướng dẫn cách làm:**\n- Vì đạo hàm của $-\\cos x$ là $\\sin x$ nên $-\\cos x$ là một nguyên hàm của $\\sin x$.\n- Suy ra họ nguyên hàm của hàm số đã cho là $-\\cos x+C$.\n✅ **Đáp án:** Chọn A. $-\\cos x+C$."
+    },
+    {
+      "id": 3,
+      "content": "Trong không gian với hệ tọa độ $Oxyz$, khoảng cách giữa hai điểm $A(-2;-3;9)$ và $B(-2;3;1)$ bằng:",
+      "chuong": "vectơ và hệ trục tọa độ trong không gian",
+      "dang": "tọa độ của điểm, tọa độ của vectơ trong không gian",
+      "type": "single",
+      "options": [
+        "A. \\$10$.",
+        "B. \\$8$.",
+        "C. \\$100$.",
+        "D. \\$6$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hai điểm đã cho là $A(-2;-3;9)$ và $B(-2;3;1)$.\n❓ **Hiểu câu hỏi:**\n- Cần tính khoảng cách giữa hai điểm trong không gian.\n- Dùng công thức $AB=\\sqrt{(x_B-x_A)^2+(y_B-y_A)^2+(z_B-z_A)^2}$.\n🔎 **Hướng dẫn cách làm:**\n- Ta có $x_B-x_A=-2-(-2)=0$, $y_B-y_A=3-(-3)=6$, $z_B-z_A=1-9=-8$.\n- Vậy $AB=\\sqrt{0^2+6^2+(-8)^2}$.\n- Suy ra $AB=\\sqrt{36+64}=\\sqrt{100}=10$.\n✅ **Đáp án:** Chọn A. \\$10$."
+    },
+    {
+      "id": 4,
+      "content": "Bảng dưới đây biểu diễn mẫu số liệu ghép nhóm về chiều cao (đơn vị: cm) của \\$40$ cây cà chua trong vườn ươm:\nTứ phân vị thứ ba $Q_3$ (đơn vị: cm) của mẫu số liệu ghép nhóm trên bằng:\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-hung-yen-nam-2026-lan-1/cau-04.webp\" alt=\"Hình minh họa câu 4\" loading=\"lazy\"></figure>",
+      "chuong": "các số đặc trưng đo mức độ phân tán cho mẫu số liệu ghép nhóm",
+      "dang": "khoảng tứ phân vị",
+      "type": "single",
+      "options": [
+        "A. \\$33,1$.",
+        "B. \\$33$.",
+        "C. \\$33,2$.",
+        "D. \\$33,4$."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Mẫu số liệu ghép nhóm có tổng số phần tử là \\$40$.\n- Các lớp và tần số lần lượt là $[20;25):5$, $[25;30):9$, $[30;35):25$, $[35;40):1$.\n❓ **Hiểu câu hỏi:**\n- Cần tìm tứ phân vị thứ ba $Q_3$ của mẫu số liệu ghép nhóm.\n- Ta xác định vị trí $Q_3$ là $\\frac{3\\cdot 40}{4}=30$ rồi tìm lớp chứa vị trí này.\n🔎 **Hướng dẫn cách làm:**\n- Tần số tích lũy đến hết lớp $[25;30)$ là \\$5+9=14$, nên vị trí thứ \\$30$ nằm trong lớp $[30;35)$.\n- Với lớp chứa $Q_3$, ta có cận dưới $L=30$, bề rộng lớp $h=5$, tần số lớp $f=25$, tần số tích lũy trước lớp là \\$14$.\n- Áp dụng công thức $Q_3=L+\\dfrac{30-14}{25}\\cdot h=30+\\dfrac{16}{25}\\cdot 5=33{,}2$.\n✅ **Đáp án:** Chọn C. \\$33{,}2$."
+    },
+    {
+      "id": 5,
+      "content": "Cho hàm số $y=ax^3+bx^2+cx+d\\ (a\\ne 0)$ có đồ thị như hình vẽ bên dưới. Điểm cực tiểu của hàm số đã cho là:\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-hung-yen-nam-2026-lan-1/cau-05.webp\" alt=\"Hình minh họa câu 5\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "cực trị của hàm số",
+      "type": "single",
+      "options": [
+        "A. $x=1$.",
+        "B. $y=-1$.",
+        "C. $y=3$.",
+        "D. $x=-1$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Đồ thị hàm số bậc ba đã cho có một điểm cực đại và một điểm cực tiểu.\n- Từ hình vẽ, điểm cực tiểu nằm bên phải trục $Oy$.\n❓ **Hiểu câu hỏi:**\n- Cần đọc thông tin trực tiếp từ đồ thị.\n- Ta chú ý hoành độ của điểm cực tiểu.\n🔎 **Hướng dẫn cách làm:**\n- Quan sát đồ thị, đáy của nhánh cong nằm tại hoành độ $x=1$.\n- Vì vậy điểm cực tiểu của hàm số có hoành độ bằng \\$1$.\n✅ **Đáp án:** Chọn A. $x=1$."
+    },
+    {
+      "id": 6,
+      "content": "Trong không gian với hệ tọa độ $Oxyz$, cho mặt phẳng $(P)$ có phương trình $x+2y-z-2=0$. Vectơ nào sau đây là một vectơ pháp tuyến của mặt phẳng $(P)$?",
+      "chuong": "phương pháp tọa độ trong không gian",
+      "dang": "vectơ pháp tuyến và cặp vectơ chỉ phương của mặt phẳng",
+      "type": "single",
+      "options": [
+        "A. $\\vec c=(1;2;-1)$.",
+        "B. $\\vec a=(1;2;1)$.",
+        "C. $\\vec d=(1;-2;1)$.",
+        "D. $\\vec b=(1;-2;-1)$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Mặt phẳng $(P)$ có phương trình $x+2y-z-2=0$.\n❓ **Hiểu câu hỏi:**\n- Cần tìm một vectơ pháp tuyến của mặt phẳng.\n- Với mặt phẳng có dạng $Ax+By+Cz+D=0$ thì một vectơ pháp tuyến là $\\vec n=(A;B;C)$.\n🔎 **Hướng dẫn cách làm:**\n- Ở đây $A=1$, $B=2$, $C=-1$.\n- Vậy một vectơ pháp tuyến của mặt phẳng là $\\vec n=(1;2;-1)$.\n✅ **Đáp án:** Chọn A. $\\vec c=(1;2;-1)$."
+    },
+    {
+      "id": 7,
+      "content": "Đường tiệm cận đứng của đồ thị hàm số $y=\\dfrac{2x+3}{x-2}$ có phương trình là:",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "đường tiệm cận đứng",
+      "type": "single",
+      "options": [
+        "A. $x=-\\dfrac{3}{2}$.",
+        "B. $x=2$.",
+        "C. $y=2$.",
+        "D. $y=-\\dfrac{3}{2}$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Đồ thị hàm số là $y=\\dfrac{2x+3}{x-2}$.\n❓ **Hiểu câu hỏi:**\n- Cần tìm đường tiệm cận đứng của đồ thị.\n- Tiệm cận đứng xuất hiện khi mẫu số bằng \\$0$ còn tử số khác \\$0$.\n🔎 **Hướng dẫn cách làm:**\n- Giải $x-2=0$ ta được $x=2$.\n- Thay $x=2$ vào tử số, ta có \\$2\\cdot 2+3=7\\ne 0$.\n- Vì vậy đồ thị có tiệm cận đứng là $x=2$.\n✅ **Đáp án:** Chọn B. $x=2$."
+    },
+    {
+      "id": 8,
+      "content": "Cho hàm số $y=f(x)$ liên tục trên $\\mathbb{R}$, thỏa mãn $\\int_{17}^{2026} f(x)\\,dx=8$ và $\\int_{89}^{2026} f(x)\\,dx=10$. Giá trị của biểu thức $\\int_{17}^{89} f(x)\\,dx$ bằng:",
+      "chuong": "nguyên hàm và tích phân",
+      "dang": "tính chất của tích phân",
+      "type": "single",
+      "options": [
+        "A. \\$18$.",
+        "B. \\$2026$.",
+        "C. \\$2$.",
+        "D. $-2$."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Ta có $\\int_{17}^{2026} f(x)\\,dx=8$.\n- Ta có $\\int_{89}^{2026} f(x)\\,dx=10$.\n❓ **Hiểu câu hỏi:**\n- Cần tính $\\int_{17}^{89} f(x)\\,dx$.\n- Dùng tính chất cộng của tích phân trên các khoảng liên tiếp.\n🔎 **Hướng dẫn cách làm:**\n- Ta có $\\int_{17}^{2026} f(x)\\,dx=\\int_{17}^{89} f(x)\\,dx+\\int_{89}^{2026} f(x)\\,dx$.\n- Suy ra $\\int_{17}^{89} f(x)\\,dx=8-10$.\n- Vậy $\\int_{17}^{89} f(x)\\,dx=-2$.\n✅ **Đáp án:** Chọn D. $-2$."
+    },
+    {
+      "id": 9,
+      "content": "Cho hình chóp $S.ABC$ có đáy $ABC$ là tam giác vuông tại $B$, $SA\\perp(ABC)$, $SA=AB=a$ (hình vẽ bên dưới). Tính số đo của góc nhị diện $[S,BC,A]$.\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-hung-yen-nam-2026-lan-1/cau-09.webp\" alt=\"Hình minh họa câu 9\" loading=\"lazy\"></figure>",
+      "chuong": "quan hệ vuông góc trong không gian",
+      "dang": "góc nhị diện",
+      "type": "single",
+      "options": [
+        "A. \\$90^\\circ$.",
+        "B. \\$45^\\circ$.",
+        "C. \\$30^\\circ$.",
+        "D. \\$60^\\circ$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Đáy $ABC$ là tam giác vuông tại $B$ nên $AB\\perp BC$.\n- $SA\\perp (ABC)$ nên $SA\\perp BC$.\n- $SA=AB=a$.\n❓ **Hiểu câu hỏi:**\n- Cần tính góc nhị diện $[S,BC,A]$.\n- Ta tìm một mặt phẳng vuông góc với $BC$ để đưa góc nhị diện về góc phẳng.\n🔎 **Hướng dẫn cách làm:**\n- Vì $BC$ đồng thời vuông góc với $AB$ và $SA$ nên $BC\\perp (SAB)$.\n- Mặt phẳng $(SAB)$ cắt mặt phẳng $(ABC)$ theo giao tuyến $AB$ và cắt mặt phẳng $(SBC)$ theo giao tuyến $SB$.\n- Do đó góc nhị diện $[S,BC,A]$ bằng góc $\\angle SBA$.\n- Trong tam giác $SAB$, ta có $SA\\perp AB$ và $SA=AB$ nên tam giác $SAB$ vuông cân tại $A$.\n- Vì vậy $\\angle SBA=45^\\circ$.\n✅ **Đáp án:** Chọn B. \\$45^\\circ$."
+    },
+    {
+      "id": 10,
+      "content": "Kết quả kiểm tra môn Toán của học sinh lớp \\$12B$ được thống kê như sau. Số trung bình cộng của mẫu số liệu ghép nhóm trên bằng.\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-hung-yen-nam-2026-lan-1/cau-10.webp\" alt=\"Hình minh họa câu 10\" loading=\"lazy\"></figure>",
+      "chuong": "các số đặc trưng đo xu thế trung tâm của mẫu số liệu ghép nhóm",
+      "dang": "số trung bình của mẫu số liệu ghép nhóm",
+      "type": "single",
+      "options": [
+        "A. \\$6,1$.",
+        "B. \\$5,8$.",
+        "C. \\$6$.",
+        "D. \\$5,9$."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Các lớp điểm là $[0;2),[2;4),[4;6),[6;8),[8;10]$.\n- Tần số tương ứng là \\$1,4,15,16,4$.\n❓ **Hiểu câu hỏi:**\n- Cần tính số trung bình cộng của mẫu số liệu ghép nhóm.\n- Ta dùng trung điểm của mỗi lớp rồi tính trung bình có trọng số.\n🔎 **Hướng dẫn cách làm:**\n- Trung điểm các lớp lần lượt là \\$1,3,5,7,9$.\n- Tổng số học sinh là \\$1+4+15+16+4=40$.\n- Số trung bình cộng là $\\overline{x}=\\dfrac{1\\cdot 1+4\\cdot 3+15\\cdot 5+16\\cdot 7+4\\cdot 9}{40}$.\n- Tính được $\\overline{x}=\\dfrac{236}{40}=5{,}9$.\n✅ **Đáp án:** Chọn D. \\$5{,}9$."
+    },
+    {
+      "id": 11,
+      "content": "Cho $\\log_a b=5$. Giá trị của biểu thức $\\log_a\\left(a^2b\\right)$ bằng:",
+      "chuong": "hàm số mũ và hàm số lôgarit",
+      "dang": "tính chất của lôgarit",
+      "type": "single",
+      "options": [
+        "A. \\$7$.",
+        "B. \\$20$.",
+        "C. \\$25$.",
+        "D. \\$10$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Đề bài cho $\\log_a b=5$.\n❓ **Hiểu câu hỏi:**\n- Cần tính $\\log_a\\left(a^2b\\right)$.\n- Dùng tính chất $\\log_a(xy)=\\log_a x+\\log_a y$.\n🔎 **Hướng dẫn cách làm:**\n- Ta có $\\log_a\\left(a^2b\\right)=\\log_a a^2+\\log_a b$.\n- Mà $\\log_a a^2=2$ và $\\log_a b=5$.\n- Suy ra $\\log_a\\left(a^2b\\right)=2+5=7$.\n✅ **Đáp án:** Chọn A. \\$7$."
+    },
+    {
+      "id": 12,
+      "content": "Hàm số $y=x^3-3x+2026$ nghịch biến trên khoảng nào dưới đây?",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "tính đơn điệu của hàm số",
+      "type": "single",
+      "options": [
+        "A. $(-1;1)$.",
+        "B. $(1;+\\infty)$.",
+        "C. $(-\\infty;1)$.",
+        "D. $(-2;2)$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số đã cho là $y=x^3-3x+2026$.\n❓ **Hiểu câu hỏi:**\n- Cần tìm khoảng nghịch biến của hàm số.\n- Muốn vậy, ta tính đạo hàm và giải bất đẳng thức $y'<0$.\n🔎 **Hướng dẫn cách làm:**\n- Ta có $y'=3x^2-3=3(x^2-1)=3(x-1)(x+1)$.\n- Hàm số nghịch biến khi $y'<0\\Leftrightarrow (x-1)(x+1)<0$.\n- Giải ra được $-1<x<1$.\n- Vậy hàm số nghịch biến trên $(-1;1)$.\n✅ **Đáp án:** Chọn A. $(-1;1)$."
+    }
+  ]
+}

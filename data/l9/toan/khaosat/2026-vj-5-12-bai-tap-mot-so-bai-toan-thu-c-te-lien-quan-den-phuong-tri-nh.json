@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-5-12-bai-tap-mot-so-bai-toan-thu-c-te-lien-quan-den-phuong-tri-nh",
+  "sourceId": "vietjack:5-12-bai-tap-mot-so-bai-toan-thu-c-te-li",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "5.12 bài tập Một số bài toán thực tế liên quan đến phương trình quy về phương trình bậc nhất một ẩn có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Một ô tô dự định đi từ tỉnh A đến tỉnh B cách nhau 120 km trong một thời gian quy định. Sau khi đi được một giờ thì ô tô bị chắn đường bởi tàu hỏa 10 phút. Do đó, để đến tỉnh B đúng hạn, xe phải tăng vận tốc thêm 6 km/h. Tính vận tốc ô tô lúc đầu.",
+      "options": [
+        "A. 48 km/h.",
+        "B. 90 km/h.",
+        "C. 45 km/h.",
+        "D. 60 km/h."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Đổi 10 phút = \\(\\frac{1}{6}\\) giờ. Gọi vận tốc của ô tô lúc đầu là x (x > 0, km/h). Vận tốc của ô tô lúc sau là x + 6 (km/h). Thời gian ô tô dự kiến đi đến B lúc đầu là: \\(\\frac{{120}}{x}\\) (giờ). Trong 1 giờ đầu, ô tô đi được quãng đường x (km) nên quãng đường còn lại là 120 – x (km). Thời gian ô tô đi trên quãng đường còn lại là \\(\\frac{{120 - x}}{{x + 6}}\\) (giờ) Do xe đến B đúng hạn nên ta có phương trình: \\(\\frac{{120 - x}}{{x + 6}}\\) + 1 + \\(\\frac{1}{6}\\) = \\(\\frac{{120}}{x}\\) \\(\\frac{{120 - x}}{{x + 6}}\\) + \\(\\frac{7}{6}\\) = \\(\\frac{{120}}{x}\\) 6x(120 – x) + 7x(x + 6) = 720(x + 6) 720x – 6x 2 + 7x 2 + 42x = 720x + 4320 x 2 + 42x – 4320 = 0 x 2 – 48x + 90x – 4320 = 0 x(x – 48) + 90(x – 48) = 0 (x – 48)(x + 90) = 0 Suy ra x = 48 (thỏa mãn) hoặc x = −90 (loại). Vậy vận tốc lúc đầu của ô tô là 48 km/h."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Một tàu thủy chạy trên khúc sông dài 80 km, cả đi lẫn về mất 8 giờ 20 phút. Tính vận tốc của tàu thủy khi nước yên lặng, biết rằng vận tốc của dòng nước là 4 km/h.",
+      "options": [
+        "A. 20 km/h.",
+        "B. 15 km/h.",
+        "C. \\(\\frac{4}{5}\\) km/h.",
+        "D. 12 km/h."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Đổi 8 giờ 20 phút = \\(\\frac{{25}}{3}\\)giờ Gọi vận tốc của tàu thủy khi nước yên lặng là x (x > 4, km/h). Vận tốc của tàu khi xuôi dòng là x + 4 (km/h). Vận tốc của tàu khi ngược dòng là: x – 4 (km/h). Thời gian tàu đi xuôi dòng là: \\(\\frac{{80}}{{x + 4}}\\) (h). Thời gian tàu đi ngược dòng là: \\(\\frac{{80}}{{x - 4}}\\) (h). Thời gian cả đi lẫn về hết 8 giờ 20 phút (\\(\\frac{{25}}{3}\\) giờ) nên ta có phương trình: \\(\\frac{{80}}{{x + 4}} + \\frac{{80}}{{x - 4}} = \\frac{{25}}{3}\\) 240(x – 4) + 240(x + 4) = 25(x – 4)(x + 4) 240x – 960 + 240x + 960 = 25x 2 – 400 25x 2 − 480x – 400 = 0 25x 2 – 500x + 20x – 400 = 0 25x(x – 20) + 20(x – 20) = 0 (x – 20)(25x + 20) = 0 Suy ra x = 20 (thỏa mãn) hoặc x = \\(\\frac{{ - 4}}{5}\\) (loại). Vậy vận tốc của tàu khi nước yên lặng là 20 km/h."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Hai địa điểm A và B cách nhau 56 km. Lúc 6 giờ 45 phút một người đi xe đạp từ A với vận tốc 10 km/h. Sau đó 2 giờ, một người đi xe đạp từ B đến A với vận tốc 14 km/h. Hỏi đến mấy giờ họ gặp nhau và chỗ gặp nhau cách A bao nhiêu km?",
+      "options": [
+        "A. 3 giờ 30 phút.",
+        "B. 9 giờ 45 phút.",
+        "C. 10 giờ 15 phút.",
+        "D. 10 giờ 25 phút."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Đổi 6 giờ 45 phút = 6,75 giờ. Gọi thời gian của người đi xe đạp xuất phát từ A đến điểm gặp là x (x > 0, giờ) Quãng đường xa đạp đi được sau 2 giờ là: 2.10 = 20 (km). Thời gian còn lại đến điểm gặp sau 2 giờ là: x – 2 (giờ) Quãng đường còn lại của người đi xe đạp đi từ A sau 2 giờ là: 10(x – 2) (km). Quãng đường người đi từ B đến điểm gặp là 14(x – 2) (km). Theo đề, hai địa điểm A và B cách nhau 56 km nên ta có phương trình: 20 + 10(x – 2) + 14(x – 2) = 56 24x = 84 x = 3,5 (thỏa mãn) Do đó, thời gian từ lúc người đi xe đạp xuất phát từ A đến điểm gặp là 3,5 giờ hay 3 giờ 30 phút. Suy ra thời gian hai người đó gặp nhau là: 6,75 + 3,5 = 10,25 (giờ) hay 10 giờ 15 phút. Khoảng cách từ điểm gặp tới A là: 10.3,5 = 35 (km). Vậy hai xe gặp nhau lúc 10 giờ 15 phút và cách A 35 km."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Lúc 7 giờ, một người đi xe máy khởi hành từ A với vận tốc 40 km/h. Sau đó, lúc 8 giờ 30 phút một người khác đi ô tô từ A đuổi theo với vận tốc 60 km/h. Hỏi hai người gặp nhau lúc mấy giờ?",
+      "options": [
+        "A. 3 giờ.",
+        "B. 10 giờ 30 phút.",
+        "C. 11 giờ 30 phút.",
+        "D. 5 giờ 30 phút."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Đổi 8 giờ 30 phút = 8,5 giờ. Quãng đường mà xe máy đi được từ khi bắt đầu đến khi ô tô khởi hành là: 40(8,5 – 7) = 60 (km). Gọi x là thời gian để hai xe gặp nhau (x > 0, km/h). Quãng đường xe máy đi từ 8 giờ 30 phút đến lúc gặp nhau là 40x (km). Quãng đường mà ô tô đi từ 8 giờ 30 phút đến lúc gặp nhau là 60x (km). Hai xe đi cùng chiều và cùng vị trí xuất phát nên quãng đường hai xe đi được đến lúc gặp xe bằng nhau, do đó ta có: 40x + 60 = 60x Suy ra x = 3 (thỏa mãn). Vậy hai xe gặp nhau lúc 8 giờ 30 phút + 3 giờ = 11 giờ 30 phút."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Hai lớp 8A và 8B có tổng cộng 94 học sinh biết rằng 25% số học sinh lớp 8A và 20% số học sinh lớp 8B đạt loại giỏi. Tổng số học sinh đạt loại giỏi của hai lớp là 21. Số học sinh lớp 8A là",
+      "options": [
+        "A. 40 học sinh.",
+        "B. 42 học sinh.",
+        "C. 43 học sinh.",
+        "D. 44 học sinh."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Gọi số học sinh của lớp 8A là x (x ∈ ℕ * , học sinh). Số học sinh lớp 8B là: 94 – x (học sinh) Số học sinh giỏi lớp 8A là 25%x = 0,25x (học sinh). Số học sinh giỏi lớp 8B là: 20% (94 – x) = 18,8 – 0,2x (học sinh). Tổng số học sinh giỏi của hai lớp là 21 nên ta có phương trình: 0,25x + 18,8 – 0,2x = 21 0,05x = 2,2 x = 44 (thỏa mãn) Do đó, số học sinh lớp 8A là 44 học sinh, số học sinh lớp 8B là 40 học sinh."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Một tổ sản xuất phải làm 600 sản phẩm trong một thời gian quy định với năng suất quy định. Sau khi làm xong 400 sản phẩm tổ sản xuất tăng năng suất lao động, mỗi ngày tăng thêm 10 sản phẩm so với quy định. Vì vậy mà công việc được hoàn thành sớm hơn quy định một ngày. Hỏi mỗi ngày tổ sản suất phải làm bao nhiêu sản phẩm theo quy định?",
+      "options": [
+        "A. 40 sản phẩm.",
+        "B. 50 sản phẩm.",
+        "C. 60 sản phẩm.",
+        "D. 55 sản phẩm."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Gọi số sản phẩm mà mỗi ngày tổ phải làm theo quy định là x (x ∈ ℕ * , sản phẩm). Thời gian tổ hoàn thành công việc theo quy định là: \\(\\frac{{600}}{x}\\) (ngày) Thời gian tổ làm 400 sản phẩm theo quy định là: \\(\\frac{{400}}{x}\\) (ngày). Sau khi tăng năng xuất, mỗi ngày tổ làm số sản phẩm là: x + 10 (sản phẩm). Thời gian làm 200 sản phẩm còn lại là \\(\\frac{{200}}{{x + 10}}\\) (ngày). Vì sau khi tăng năng suất, tổ hoàn thành sớm hơn 1 ngày nên ta có phương trình: \\(\\frac{{600}}{x} - \\left( {\\frac{{400}}{x} + \\frac{{200}}{{x + 10}}} \\right) = 1\\) \\(\\frac{{200}}{x} - \\frac{{200}}{{x + 10}} = 1\\) 200(x + 10) – 200x = x(x + 10) x 2 + 10x – 2000 = 0 x 2 – 40x + 50x – 2000 = 0 x(x – 40) + 50(x – 40) = 0 (x – 40)(x + 50) = 0 Do đó x = 40 (thỏa mãn) hoặc x = −50 (loại). Vậy số sản phẩm tổ dự định làm trong 1 ngày là 40 sản phẩm."
+    }
+  ]
+}

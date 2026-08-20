@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-1-30-cau-trac-nghiem-toan-10-chan-troi-sang-tao-on-tap-chuong-10-",
+  "sourceId": "vietjack:1-30-cau-trac-nghiem-toan-10-chan-troi-s",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.30 câu Trắc nghiệm Toán 10 chân trời sáng tạo Ôn tập chương 10 có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Chọn khẳng định sai trong các khẳng định sau:",
+      "options": [
+        "A. Phép thử ngẫu nhiên (gọi tắt là phép thử) là một hoạt động mà ta không thể biết trước được kết quả của nó;",
+        "B. Tập hợp tất cả các kết quả có thể có của phép thử ngẫu nhiên được gọi là không gian mẫu;",
+        "C. Với mọi biến cố A, 0 ≤ P(A) ≤ 1;",
+        "D. Xác suất của mỗi biến cố đo lường xảy ra của biến cố đó. Biến cố có khả năng xảy ra càng cao thì xác suất của nó càng xa 1."
+      ],
+      "answer": "D",
+      "note": "Các khẳng định A, B, C đúng, khẳng định D sai, vì xác suất của mỗi biến cố đo lường xảy ra của biến cố đó. Biến cố có khả năng xảy ra càng cao thì xác suất của nó càng gần 1. Ta chọn phương án D."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Xúc xắc có 6 mặt đánh số chấm từ 1 đến 6 chấm. Không gian mẫu của 1 lần tung xúc xắc là:",
+      "options": [
+        "A. = {1; 2; 3; 4; 5; 6} ;",
+        "B. = 1; 2; 3; 4; 5; 6 ;",
+        "C. = {1}; {2}; {3}; {4}; {5}; {6} ;",
+        "D. = ∅ ."
+      ],
+      "answer": "A",
+      "note": "Xúc xắc có 6 mặt đánh số chấm từ 1 đến 6 chấm. Không gian mẫu của 1 lần tung xúc xắc là = {1; 2; 3; 4; 5; 6}. Ta chọn phương án A."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Tung xúc xắc 5 lần sẽ có không gian mẫu gồm bao nhiêu cách xuất hiện mặt của xúc xắc?",
+      "options": [
+        "A. 6!;",
+        "B. 30;",
+        "C. 6 5",
+        "D. vô số."
+      ],
+      "answer": "A",
+      "note": "Tung xúc xắc 1 lần sẽ có không gian mẫu gồm 6 cách xuất hiện mặt của xúc xắc. Tung xúc xắc 2 lần sẽ có không gian mẫu gồm 6.6 = 36 cách xuất hiện mặt của xúc xắc. … Tung xúc xắc 5 lần sẽ có không gian mẫu gồm 6.6.6.6.6 = 6 5 cách xuất hiện mặt của xúc xắc. Ta chọn phương án C."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Chọn khẳng định đúng trong các khẳng định sau:",
+      "options": [
+        "A. Phép thử ngẫu nhiên (gọi tắt là phép thử) là một hoạt động mà ta không thể biết trước được kết quả của nó ;",
+        "B. Cho A là một biến cố. Khi đó biến cố “Không xảy ra A”, kí hiệu là , được gọi là biến cố đối của A ;",
+        "C. P( ) = 1, P( ∅ ) = 0 ;",
+        "D. Cả A, B, C đều đúng."
+      ],
+      "answer": "D",
+      "note": "Cả 3 khẳng định A, B, C đều đúng. Ta chọn phương án D."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Một ban đại diện gồm 5 người được thành lập từ 10 người có tên sau đây: Lan, Mai, Minh, Thu, Miên, An, Hà, Thanh, Mơ, Nga. Tính xác xuất để ít nhất 3 người trong ban đại diện có tên bắt đầu bằng chữ M.",
+      "options": [
+        "A. 5/252",
+        "B. 1/24",
+        "C. 5/21",
+        "D. 11/42"
+      ],
+      "answer": "D",
+      "note": "Chọn ra 5 người trong tổng số 10 người có C 10 5 = 252. Ta có số phần tử của không gian mẫu là n(Ω) = 252. Gọi A là biến cố: “Ít nhất 3 người trong ban đại diện có tên bắt đầu bằng chữ M”. Ta xét hai trường hợp sau: • Trường hợp 1: Có đúng 3 người tên bắt đầu bằng chữ M. Chọn 3 người có tên bắt đầu bằng chữ M: có C 4 3 cách chọn. Chọn 2 người trong 6 người còn lại: có C 6 2 cách chọn. Suy ra có C 4 3 . C 6 2 cách chọn. • Trường hợp 2: Có đúng 4 người tên bắt đầu bằng chữ M. Chọn 4 người có tên bắt đầu bằng chữ M: có C 4 4 cách chọn. Chọn 1 người trong 6 người còn lại: có C 6 1 cách chọn. Suy ra có C 4 4 . C 6 1 cách chọn. Do đó số kết quả thuận lợi cho biến cố A là: n(A) = C 4 3 . C 6 2 + C 4 4 . C 6 1 = 66. Vậy xác suất của biến cố A là: P(A) = n ( A ) n ( Ω ) = 66 252 = 11 42 . Ta chọn phương án D."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Một hộp chứa 18 quả cầu gồm 8 quả cầu màu xanh và 10 quả cầu màu trắng. Chọn ngẫu nhiên 2 quả từ hộp đó. Xác xuất để chọn được 2 quả cầu cùng màu là:",
+      "options": [
+        "A. 12/17",
+        "B. 5/17",
+        "C. 73/153",
+        "D. 80/153"
+      ],
+      "answer": "C",
+      "note": "Lấy ngẫu nhiên 2 quả cầu từ hộp ta có C 18 2 = 153 cách. Do đó số phần tử của không gian mẫu là: n(Ω) = 153. Gọi A là biến cố: “Lấy được 2 quả cầu cùng màu”. Ta xét hai trường hợp sau. • Trường hợp 1: Lấy được 2 quả cầu màu xanh có C 8 2 = 28 cách. • Trường hợp 2: Lấy được 2 quả cầu màu trắng có C 10 2 = 45 cách. Do đó số các kết quả thuận lợi cho biến cố A là: n (A) = 28 + 45 = 73. Vậy xác suất biến cố A là P (A) = n ( A ) n ( Ω ) = 73 153 Ta chọn phương án C."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Điền tiếp vào chỗ trống: “ Giả sử một phép thử có không gian mẫu gồm …. các kết quả có cùng khả năng xảy ra và A là một biến cố. Xác suất của biến cố A là một số, kí hiệu là P(A), được xác định bởi công thức: P(A) = n ( A ) n ( Ω ) , trong đó n(A) và n( ) lần lượt là kí hiệu số phần tử của tập A và ”.",
+      "options": [
+        "A. vô hạn;",
+        "B. hữu hạn;",
+        "C. tất cả;",
+        "D. vô số."
+      ],
+      "answer": "B",
+      "note": "Giả sử một phép thử có không gian mẫu gồm hữu hạn các kết quả có cùng khả năng xảy ra và A là một biến cố. Xác suất của biến cố A là một số, kí hiệu là P(A), được xác định bởi công thức: P(A) = n ( A ) n ( Ω ) , trong đó n(A) và n( ) lần lượt là kí hiệu số phần tử của tập A và . Ta chọn phương án B."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Trên bàn có 5 quả táo và 5 quả cam. Xác định số phần tử không gian mẫu của phép thử lấy 3 quả ở trên bàn sau đó bỏ ra ngoài lấy tiếp 2 quả nữa.",
+      "options": [
+        "A. 2 520 phần tử;",
+        "B. 5 220 phần tử;",
+        "C. 1 050 phần tử;",
+        "D. 2 150 phần tử."
+      ],
+      "answer": "A",
+      "note": "Lấy 3 quả trong 10 quả ở trên bàn và không tính thứ tự nên số cách là: C 10 3 = 120 (cách). Sau khi bỏ 3 quả ra ngoài còn lại 7 quả. Lấy 2 quả trong 7 quả trên bàn có C 7 2 = 21 cách. Vậy số phần tử không gian mẫu là: 120. 21 = 2 520. Ta chọn phương án A."
+    }
+  ]
+}

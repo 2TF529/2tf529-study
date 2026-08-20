@@ -1,0 +1,104 @@
+{
+  "id": "2026-vj-2-de-kiem-tra-bai-tap-cuoi-chuong-9-co-loi-giai",
+  "sourceId": "vietjack:2-de-kiem-tra-bai-tap-cuoi-chuong-9-co-l",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.Đề kiểm tra Bài tập cuối chương 9 (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho \\[A,B\\] là hai biến cố của phép thử gieo hai con xúc xắc cân đối và đồng chất. Giả sử biến cố \\[A = \\left\\{ {\\left( {1;2} \\right);\\left( {2;1} \\right);\\left( {2;3} \\right)} \\right\\}\\]và biến cố \\[B = \\left\\{ {\\left( {1;3} \\right);\\left( {2;1} \\right)} \\right\\}\\]. Khẳng định nào dưới đây đúng?",
+      "options": [
+        "A. \\[AB = \\left\\{ {\\left( {2;1} \\right)} \\right\\}\\].",
+        "B. \\[AB = \\left\\{ {\\left( {1;2} \\right)} \\right\\}\\].",
+        "C. \\[AB = \\left\\{ {\\left( {2;2} \\right)} \\right\\}\\].",
+        "D. \\[AB = \\left\\{ {\\left( {2;3} \\right)} \\right\\}\\]."
+      ],
+      "answer": "A",
+      "note": "Theo định nghĩa biến cố giao, ta có \\[AB = \\left\\{ {\\left( {2;1} \\right)} \\right\\}\\]."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Gieo ngẫu nhiên một con xúc xắc hai lần liên tiếp. Xét các biến cố \\(A\\): “Số chấm xuất hiện ở lần thứ nhất là số lẻ” và \\(B\\): “Số chấm xuất hiện ở lần thứ hai là số lẻ”. Giao của hai biến cố \\[A\\]và \\[B\\]là biến cố",
+      "options": [
+        "A. Số chấm xuất hiện cả hai lần gieo là số chẵn.",
+        "B. Số chấm xuất hiện ở lần thứ nhất là số lẻ.",
+        "C. Số chấm xuất hiện cả hai lần gieo là số lẻ.",
+        "D. Số chấm xuất hiện ở lần thứ hai là số lẻ."
+      ],
+      "answer": "C",
+      "note": "Theo định nghĩa biến cố giao, ta có giao của hai biến cố \\[A\\]và \\[B\\]là biến cố: “ Số chấm xuất hiện cả hai lần gieo là số lẻ”."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Gieo ngẫu nhiên một đồng xu hai lần liên tiếp. Xét biến cố \\[A = \\left\\{ {SS,NN} \\right\\}\\] và biến cố \\[B = \\left\\{ {SN,SS} \\right\\}\\]. Khẳng định nào dưới đây đúng?",
+      "options": [
+        "A. \\[AB = \\left\\{ {SN} \\right\\}\\].",
+        "B. \\[AB = \\left\\{ {NN} \\right\\}\\].",
+        "C. \\[AB = \\left\\{ {SS} \\right\\}\\].",
+        "D. \\[AB = \\left\\{ {SS,NN,SN} \\right\\}\\]."
+      ],
+      "answer": "C",
+      "note": "Theo định nghĩa biến cố giao, ta có \\[AB = \\left\\{ {SS} \\right\\}\\]."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Một hộp đựng \\[25\\] tấm thẻ cùng loại được đánh số từ \\[1\\] đến \\[25\\]. Rút ngẫu nhiên một tấm thẻ trong hộp. Xét các biến cố \\(P\\): \"Số ghi trên tấm thẻ là số chia hết cho \\[4\\]\"; \\(Q\\): \"Số ghi trên tấm thẻ là số chia hết cho \\[6\\]\".Giao của hai biến cố \\[P\\]và \\[Q\\]là biến cố",
+      "options": [
+        "A. Số ghi trên tấm thẻ là số chia hết cho \\[4\\] hoặc cho \\(6\\).",
+        "B. Số ghi trên tấm thẻ là số chia hết cho \\(4\\).",
+        "C. Số ghi trên tấm thẻ là số chia hết cho \\[4\\]và cho 6.",
+        "D. Số ghi trên tấm thẻ là số chia hết cho \\(6\\)."
+      ],
+      "answer": "C",
+      "note": "Theo định nghĩa biến cố giao, ta có giao của hai biến cố \\[P\\]và \\[Q\\]là biến cố: “Số ghi trên tấm thẻ là số chia hết cho \\[4\\]và cho 6”"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Một hộp chứa \\(3\\) viên bi xanh và \\(5\\) viên bi đỏ có cùng kích thước và khối lượng. Lấy ra ngẫu nhiên đồng thời \\(2\\) viên bi từ hộp. Xét các biến cố: \\(M\\): “Hai viên bi lấy ra cùng màu xanh” \\(N\\): “Hai viên bi lấy ra cùng màu đỏ” \\(P\\): “Hai viên bi lấy ra cùng màu” \\(Q\\): “Hai viên bi lấy ra khác màu” Cặp biến cố nào dưới đây không xung khắc?",
+      "options": [
+        "A. \\(N\\) và \\(Q\\).",
+        "B. \\[M\\] và \\(N\\).",
+        "C. \\[M\\] và \\(Q\\).",
+        "D. \\[N\\] và \\(P\\)."
+      ],
+      "answer": "D",
+      "note": "Biến cố \\(P\\) xảy ra khi lấy ra 2 viên bi xanh hoặc 2 viên bi đỏ. Khi lấy được 2 viên bi màu đỏ thì biến cố \\(N\\) và biến cố \\(P\\) cùng xảy ra. Do đó biến cố \\(N\\) không xung khắc với biến cố \\(P\\)."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Một hộp đựng \\(12\\) tấm thẻ cùng loại được đánh số từ \\(1\\) đến \\(12\\). Rút ngẫu nhiên một tấm thẻ trong hộp. Gọi \\(E\\) là biến cố “Số ghi trên tấm thẻ là số lớn hơn hoặc bằng \\(7\\)”; \\(F\\) là biến cố “Số ghi trên tấm thẻ là số nhỏ hơn hoặc bằng \\(4\\)” và \\(G\\) là biến cố “Số ghi trên tấm thẻ là số nguyên tố”. Khẳng định nào dưới đây sai?",
+      "options": [
+        "A. Biến cố \\[E\\] và \\[F\\] xung khắc.",
+        "B. Biến cố \\[E\\] và \\[\\bar E\\] xung khắc.",
+        "C. Biến cố \\[E\\] và \\[G\\] xung khắc.",
+        "D. Biến cố \\[F\\] và \\[G\\] không xung khắc."
+      ],
+      "answer": "C",
+      "note": "Cặp biến cố \\[F\\] và \\[G\\] không xung khắc vì nếu số chấm ghi trên thẻ là \\(7\\)thì cả \\[F\\] và \\[G\\] xảy ra."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho \\[A\\] và \\[B\\]là hai biến cố độc lập. Khẳng định nào dưới đây đúng?",
+      "options": [
+        "A. \\[P\\left( {A.B} \\right) = P\\left( A \\right) + P\\left( B \\right)\\].",
+        "B. \\[P\\left( {A.B} \\right) = P\\left( A \\right).\\,P\\left( B \\right)\\].",
+        "C. \\[P\\left( {A.B} \\right) = P\\left( A \\right) - P\\left( B \\right)\\].",
+        "D. \\[P\\left( {A.B} \\right) = \\frac{{P\\left( A \\right)}}{{P\\left( B \\right)}}\\]."
+      ],
+      "answer": "B",
+      "note": "Theo quy tắc nhân xác suất của hai biến cố độc lập, ta có \\[P\\left( {A.B} \\right) = P\\left( A \\right).\\,P\\left( B \\right)\\]."
+    }
+  ]
+}

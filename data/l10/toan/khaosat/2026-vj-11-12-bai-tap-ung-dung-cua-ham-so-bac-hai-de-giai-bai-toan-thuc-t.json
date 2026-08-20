@@ -1,0 +1,65 @@
+{
+  "id": "2026-vj-11-12-bai-tap-ung-dung-cua-ham-so-bac-hai-de-giai-bai-toan-thuc-t",
+  "sourceId": "vietjack:11-12-bai-tap-ung-dung-cua-ham-so-bac-ha",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "11.12 Bài tập Ứng dụng của hàm số bậc hai để giải bài toán thực tế (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 3: Một cửa hàng buôn giày nhập một đôi với giá là 40 đô. Cửa hàng ước tính rằng nếu đôi giày bán được với giá x đô thì mỗi tháng khách hàng sẽ mua 120 – x đôi giày. Hỏi cửa hàng bán một đôi giày giá bao nhiêu thì thu được nhiều lãi nhất.",
+      "options": [
+        "A. 80 đô;",
+        "B. 160 đô;",
+        "C. 40 đô;",
+        "D. 240 đô."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A. Gọi y là số tiền lãi của cửa hàng bán giày Ta có: y = (120 – x)(x – 40) = –x 2 + 160x – 4800 Xét hàm số y = –x 2 + 160x – 4800 có a = –1 < 0 nên hàm số đạt giá trị lớn nhất tại \\(x = \\frac{{ - b}}{{2a}} = \\frac{{ - 160}}{{2.( - 1)}} = 80\\) Vậy cửa hàng bán một đôi giày giá 80 đô thì thu được nhiều lãi nhất."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 4: Dây truyền đỡ trên cầu treo có dạng Parabol ACB như hình vẽ. Đầu, cuối của dây được gắn vào các điểm A, B trên mỗi trục AA’ và BB’ với độ cao 30 m. Chiều dài đoạn A’B’ trên nền cầu bằng 200 m. Độ cao ngắn nhất của dây chuyền trên cầu là OC = 5 m. Gọi Q’, P’, H’, O, I’, J’, K’ là các điểm chia đoạn A’B’ thành các phần bằng nhau. Các thanh thẳng đứng nối nền cầu với đáy dây chuyền: QQ’, PP’, HH’, OC, II, JJ’, KK’ gọi là các dây cáp treo. Tính tổng độ dài của các dây cáp treo ?",
+      "options": [
+        "A. 78,75 m;",
+        "B. 36,87 m;",
+        "C. 73,74 m;",
+        "D. Đáp án khác."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A. Giả sử parabol có phương trình: y = ax 2 + bx + c (a ≠ 0) Chọn hệ trục Oxy như hình vẽ, khi đó parabol đi qua điểm A(100; 30) và có đỉnh C(0; 5). Đoạn AB chia làm 8 phần, mỗi phần 25 m. Suy ra: \\(\\left\\{ \\begin{array}{l}30 = 10000a + 100b + c\\\\\\frac{{ - b}}{{2a}} = 0\\\\5 = c\\end{array} \\right. \\Leftrightarrow \\left\\{ \\begin{array}{l}a = \\frac{1}{{400}}\\\\b = 0\\\\c = 5\\end{array} \\right. \\Leftrightarrow y = \\frac{1}{{400}}{x^2} + 5\\) Khi đó, tổng độ dài của các dây cáp treo bằng OC + 2y 1 + 2y 2 + 2y 3 = \\(5 + 2\\left( {\\frac{1}{{400}}{{.25}^2} + 5} \\right) + 2\\left( {\\frac{1}{{400}}{{.50}^2} + 5} \\right) + 2\\left( {\\frac{1}{{400}}{{.75}^2} + 5} \\right) = 78,75\\)(m)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 5: Một người chơi cầu lông có khuynh hướng phát cầu với góc 30° (so với mặt đất). Hãy tính khoảng cách từ vị trí người này đến vị trí cầu rơi chạm đất (tầm bay xa), biết cầu rời mặt vợt ở độ cao 0,7 m so với mặt đất và vận tốc ban đầu của cầu là 12 m/s (bỏ qua sức cản của gió và xem quỹ đạo của cầu luôn nằm trong mặt phẳng thẳng đứng).",
+      "options": [
+        "A. 11,456 m;",
+        "B. 12,23 m;",
+        "C. 13 m;",
+        "D. 13,84 m."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải: Đáp án đúng là: D. Cầu rời mặt vợt ở độ cao 0,7 m so với mặt đất và vận tốc ban đầu của cầu là 12 m/s (bỏ qua sức cản của gió và xem quỹ đạo của cầu luôn nằm trong mặt phẳng thẳng đứng). Chọn hệ trục tọa độ Oxy Với g = 9,8 m/s 2 , góc phát cầu α = 30°, vận tốc ban đầu v 0 = 12 m/s, phương trình quỹ đạo của cầu là: \\(y = \\frac{{ - 9,8.{x^2}}}{{{{2.12}^2}.co{s^2}{{30}^o}}} + \\tan {30^o}.x + 0,7 = - \\frac{{49}}{{1080}}{x^2} + \\frac{{\\sqrt 3 }}{3}x + 0,7\\) (với x ≥ 0)\\(\\) Khi x = 4, ta có \\(y = - \\frac{{49}}{{1080}}{.4^2} + \\frac{{\\sqrt 3 }}{3}.4 + 0,7 \\approx 2,283\\)> 1,524 Như vậy, cầu đã vượt qua lưới. Điểm rơi của cầu là giao điểm của parabol và trục hoành nên giải phương trình: \\( - \\frac{{49}}{{1080}}{x^2} + \\frac{{\\sqrt 3 }}{3}x + 0,7 = 0\\) ta được: x 1­ ≈ 13,84 và x 2 ≈ –1,11 Giá trị nghiệm dương cho ta khoảng cách từ vị trí người chơi cầu lông đến vị trí cầu rơi chạm đất là 13,84 m."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 6: Khi quả bóng được đá lên, nó sẽ đạt độ cao nào đó rồi rơi xuống đất (giống bài toán tầm bay cao, tầm bay xa). Biết quỹ đạo của quả bóng là một parabol trong trục tọa độ Oth với t là thời gian, h là độ cao của quả bóng. Giả thiết rằng quả bóng được đá lên từ độ cao 1,2 m. Sau 1 giây, nó đạt độ cao 8,5 m và 2 giây sau nó ở độ cao 6 m. Hãy tìm hàm số bậc hai biểu thị độ cao h theo thời gian t.",
+      "options": [
+        "A. y = 4,9t 2 + 12,2t + 1,2;",
+        "B. y = –4,9t 2 + 12,2t + 1,2;",
+        "C. y = –4,9t 2 + 12,2t – 1,2;",
+        "D. y = –4,9t 2 – 12,2t + 1,2."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải: Đáp án đúng là: B. Chọn hệ trục Oth như hình Tại t = 0 ta có: h = 1,2 Tại t = 1 ta có: h = 8,5 Tại t = 2 ta có: h = 6 Parabol có phương trình y = at 2 + bt + c (a ≠ 0) Theo bài ta có: A(0; 1,2), B(1; 8,5), C(2; 6) thuộc parabol Do đó, có hệ phương trình: \\(\\left\\{ \\begin{array}{l}c = 1,2\\\\a + b + c = 8,5\\\\4a + 2b + c = 6\\end{array} \\right. \\Leftrightarrow \\left\\{ \\begin{array}{l}c = 1,2\\\\a = - 4,9\\\\b = 12,2\\end{array} \\right.\\) Vậy hàm số cần tìm có dạng y = –4,9t 2 + 12,2t + 1,2."
+    }
+  ]
+}

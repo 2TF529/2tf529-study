@@ -1,0 +1,65 @@
+{
+  "id": "2026-vj-6-12-bai-tap-xet-su-bien-thien-cua-ham-so-bac-hai-co-loi-giai",
+  "sourceId": "vietjack:6-12-bai-tap-xet-su-bien-thien-cua-ham-s",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "6.12 Bài tập Xét sự biến thiên của hàm số bậc hai (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 3: Hàm số y = x 2 – 4x + 5 đồng biến trên khoảng:",
+      "options": [
+        "A. (2; +∞);",
+        "B. (–∞; 2);",
+        "C. (–2; +∞);",
+        "D. (0; +∞)."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A. Xét hàm số y = x 2 – 4x + 5 có a = 1 > 0, b = – 4, c = 5. Ta có: \\(\\frac{{ - b}}{{2a}} = \\frac{{ - ( - 4)}}{{2.1}} = 2\\) Do đó, hàm số đồng biến trên khoảng (2; +∞)"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 4: Hàm số y = –3x 2 + 6x + 1 đồng biến trên khoảng:",
+      "options": [
+        "A. (–∞; 2);",
+        "B. (2; +∞);",
+        "C. (–∞; 1);",
+        "D. (1; +∞)."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải: Đáp án đúng là: C. Xét hàm số y = –3x 2 + 6x + 1 có a = –3 < 0, b = 6, c = 1. Ta có: \\(\\frac{{ - b}}{{2a}} = \\frac{{ - 6}}{{2.( - 3)}} = 1\\). Do đó, hàm số đồng biến trên khoảng (–∞; 1)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 5: Hàm số y = –x 2 + 2x – 2 nghịch biến trên khoảng:",
+      "options": [
+        "A. (–∞; 2);",
+        "B. (2; +∞);",
+        "C. (–∞; 1);",
+        "D. (1; +∞)."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải: Đáp án đúng là: D. Xét hàm số y = –x 2 + 2x – 2 có a = –1 < 0, b = 2, c = –2 Ta có: \\(\\frac{{ - b}}{{2a}} = \\frac{{ - 2}}{{2.( - 1)}} = 1\\) Do đó, hàm số nghịch biến trên khoảng (1; +∞)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 6: Hàm số y = 4x 2 – 24x – 6 nghịch biến trên khoảng:",
+      "options": [
+        "A. (–∞; 3);",
+        "B. (4; +∞);",
+        "C. (–∞; 4);",
+        "D. (3; +∞)."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A. Xét hàm số y = 4x 2 – 24x – 6 có a = 4 > 0, b = –24, c = –6. Ta có: \\(\\frac{{ - b}}{{2a}} = \\frac{{ - ( - 24)}}{{2.4}} = 3\\). Do đó, hàm số nghịch biến trên khoảng (–∞; 3)."
+    }
+  ]
+}

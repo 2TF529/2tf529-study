@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-1-bo-5-de-thi-cuoi-ki-1-toan-11-canh-dieu-cau-truc-moi-co-tu-luan",
+  "sourceId": "vietjack:1-bo-5-de-thi-cuoi-ki-1-toan-11-canh-die",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "cuoiki1",
+  "year": 2026,
+  "title": "1.Bộ 5 đề thi Cuối kì 1 Toán 11 Cánh diều cấu trúc mới (có tự luận) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: TRẮC NGHIỆM KHÁCH QUAN A. TRẮC NGHIỆM NHIỀU PHƯƠNG ÁN LỰA CHỌN. Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh chỉ chọn một phương án. Cho góc lượng giác \\(\\alpha = - \\frac{{5\\pi }}{4}\\) . Khẳng định nào sau đây đúng?",
+      "options": [
+        "A. \\(\\sin \\alpha < 0\\) .",
+        "B. \\(\\cos \\alpha < 0\\) .",
+        "C. \\(\\tan \\alpha > 0\\) .",
+        "D. \\(\\cot \\alpha > 0\\) ."
+      ],
+      "answer": "B",
+      "note": "Có \\( - \\pi < - \\frac{{5\\pi }}{4} < - \\frac{{3\\pi }}{2}\\) nên \\(\\sin \\alpha > 0;\\cos \\alpha < 0;\\tan \\alpha < 0;\\cot \\alpha < 0\\) . Chọn B ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Trong các mệnh đề sau, mệnh đề nào đúng?",
+      "options": [
+        "A. \\(\\sin 2\\alpha = 4\\sin \\alpha .\\cos \\alpha \\) .",
+        "B. \\(\\sin 2\\alpha = 2\\sin \\alpha .\\cos \\alpha \\) .",
+        "C. \\(\\sin 2\\alpha = \\sin \\alpha .\\cos \\alpha \\) .",
+        "D. \\(\\sin 2\\alpha = 2{\\cos ^2}\\alpha - 1\\) ."
+      ],
+      "answer": "B",
+      "note": "\\(\\sin 2\\alpha = 2\\sin \\alpha .\\cos \\alpha \\) . Chọn B ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trong các dãy số cho bởi công thức của số hạng tổng quát dưới đây, dãy số nào là dãy số tăng?",
+      "options": [
+        "A. \\({u_n} = \\frac{5}{n}\\) .",
+        "B. \\({u_n} = 2n + 1\\) .",
+        "C. \\({u_n} = 1 - 2n\\) .",
+        "D. \\({u_n} = {\\left( { - 1} \\right)^n}.n\\) ."
+      ],
+      "answer": "B",
+      "note": "Xét dãy số \\({u_n} = 2n + 1\\) . Ta có \\({u_{n + 1}} - {u_n} = 2n + 3 - \\left( {2n + 1} \\right) = 2 > 0\\) . Do đó dãy \\({u_n} = 2n + 1\\) là dãy tăng. Chọn B ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Dãy số nào sau đây không phải là cấp số nhân?",
+      "options": [
+        "A. \\(1; - 1;1; - 1\\) .",
+        "B. \\(1; - 3;9;10\\) .",
+        "C. \\(1;0;0;0\\) .",
+        "D. \\(32;16;8;4\\) ."
+      ],
+      "answer": "B",
+      "note": "Dãy số \\(1; - 3;9;10\\) không phải là cấp số nhân. Chọn B ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho dãy số \\(\\left( {{u_n}} \\right)\\) có \\(\\lim {u_n} = - 2\\) , dãy số \\(\\left( {{v_n}} \\right)\\) có \\(\\lim {v_n} = 3\\) . Tính \\(\\lim \\left( {{u_n} + {v_n}} \\right)\\) .",
+      "options": [
+        "A. 3.",
+        "B. 1.",
+        "C. 6.",
+        "D. 5."
+      ],
+      "answer": "B",
+      "note": "\\(\\lim \\left( {{u_n} + {v_n}} \\right) = \\lim {u_n} + \\lim {v_n} = - 2 + 3 = 1\\) . Chọn B ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho hàm số \\(y = f\\left( x \\right)\\) xác định trên khoảng \\(K\\) và \\({x_0} \\in K\\) . Hàm số \\(y = f\\left( x \\right)\\) liên tục tại điểm \\({x_0}\\) khi nào?",
+      "options": [
+        "A. \\(\\mathop {\\lim }\\limits_{x \\to {x_0}} f\\left( x \\right) = f\\left( {{x_0}} \\right)\\) .",
+        "B. \\(\\mathop {\\lim }\\limits_{x \\to {x_0}} f\\left( x \\right)\\) không tồn tại .",
+        "C. \\(\\mathop {\\lim }\\limits_{x \\to {x_0}} f\\left( x \\right) \\ne f\\left( {{x_0}} \\right)\\) .",
+        "D. \\(f\\left( {{x_0}} \\right)\\) không tồn tại."
+      ],
+      "answer": "A",
+      "note": "Hàm số \\(y = f\\left( x \\right)\\) liên tục tại điểm \\({x_0}\\) khi \\(\\mathop {\\lim }\\limits_{x \\to {x_0}} f\\left( x \\right) = f\\left( {{x_0}} \\right)\\) . Chọn A ."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Cho điểm \\(A\\) thuộc mặt phẳng \\(\\left( P \\right)\\) , mệnh đề nào sau đây đúng?",
+      "options": [
+        "A. \\(A \\subset \\left( P \\right)\\) .",
+        "B. \\(A \\notin \\left( P \\right)\\) .",
+        "C. \\(A \\in \\left( P \\right)\\) .",
+        "D. \\(A\\not \\subset \\left( P \\right)\\) ."
+      ],
+      "answer": "C",
+      "note": "Điểm \\(A\\) thuộc mặt phẳng \\(\\left( P \\right)\\) . Kí hiệu \\(A \\in \\left( P \\right)\\) . Chọn C ."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho hình tứ diện \\(ABCD\\) . Khẳng định nào sau đây đúng?",
+      "options": [
+        "A. \\(AC\\) và \\(BD\\) cắt nhau.",
+        "B. \\(AC\\) và \\(BD\\) không có điểm chung.",
+        "C. Tồn tại một mặt phẳng chứa \\(AC\\) và \\(BD\\) .",
+        "D. \\(AC\\) và \\(BD\\) song song với nhau."
+      ],
+      "answer": "B",
+      "note": "\\(AC\\) và \\(BD\\) là hai đường thẳng chéo nhau nên chúng không có điểm chung. Chọn B ."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-1-trac-nghiem-phuong-trinh-bat-phuong-trinh-mu-va-logarit-lop-11-",
+  "sourceId": "vietjack:1-trac-nghiem-phuong-trinh-bat-phuong-tr",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.Trắc nghiệm Phương trình, bất phương trình mũ và lôgarit lớp 11 (có đáp án)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: TRẮC NGHIỆM NHIỀU LỰA CHỌN Nghiệm của phương trình \\({\\log _3}\\left( {5x} \\right) = 2\\) là",
+      "options": [
+        "A. \\(x = \\frac{8}{5}\\) .",
+        "B. \\(x = 9\\) .",
+        "C. \\(x = \\frac{9}{5}\\) .",
+        "D. \\(x = 8\\) ."
+      ],
+      "answer": "C",
+      "note": "C TXĐ: \\(D = \\left( {0; + \\infty } \\right)\\) . Ta có: \\({\\log _3}\\left( {5x} \\right) = 2 \\Leftrightarrow 5x = {3^2} \\Leftrightarrow x = \\frac{9}{5}\\) ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Nghiệm của phương trình \\({\\log _3}\\left( {x - 1} \\right) = 2\\) là",
+      "options": [
+        "A. \\(x = 8\\).",
+        "B. \\(x = 9\\).",
+        "C. \\(x = 7\\) .",
+        "D. \\(x = 10\\) ."
+      ],
+      "answer": "D",
+      "note": "D TXĐ: \\(D = \\left( {1; + \\infty } \\right)\\) \\({\\log _3}\\left( {x - 1} \\right) = 2 \\Leftrightarrow x - 1 = {3^2} \\Leftrightarrow x = 10\\) ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho phương trình \\({\\log _2}{(2x - 1)^2} = 2{\\log _2}(x - 2).\\)Số nghiệm thực của phương trình là:",
+      "options": [
+        "A. \\(1.\\)",
+        "B. \\(0.\\)",
+        "C. \\(3.\\)",
+        "D. \\(2.\\)"
+      ],
+      "answer": "B",
+      "note": "B Điều kiện: \\(x > 2.\\) Phương trình đã cho tương đương với: \\(2{\\log _2}(2x - 1) = 2{\\log _2}(x - 2)\\) \\( \\Leftrightarrow 2x - 1 = x - 2 \\Leftrightarrow x = - 1\\) Nghiệm này không thỏa mãn điều kiện của phương trình nên phương trình đã cho vô nghiệm."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Tổng các nghiệm của phương trình \\({\\log _4}{x^2} - {\\log _2}3 = 1\\) là",
+      "options": [
+        "A. \\(6\\)",
+        "B. \\(5\\)",
+        "C. \\(4\\)",
+        "D. \\(0\\)"
+      ],
+      "answer": "D",
+      "note": "D Điều kiện \\(x \\ne 0\\) . Có \\({\\log _4}{x^2} - {\\log _2}3 = 1 \\Leftrightarrow \\frac{1}{2}{\\log _2}{x^2} = 1 + {\\log _2}3 \\Leftrightarrow {\\log _2}{x^2} = 2.{\\log _2}6 \\Leftrightarrow {x^2} = {6^2}\\) Dó đó, tổng các nghiệm sẽ bằng \\(0\\) ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Nghiệm của phương trình \\({5^{2x - 4}} = 25\\) là",
+      "options": [
+        "A. \\(x = 3\\).",
+        "B. \\(x = 2\\).",
+        "C. \\(x = 1\\).",
+        "D. \\(x = - 1\\)."
+      ],
+      "answer": "A",
+      "note": "A Ta có \\({5^{2x - 4}} = 25 \\Leftrightarrow {5^{2x - 4}} = {5^2} \\Leftrightarrow 2x - 4 = 2 \\Leftrightarrow x = 3.\\) Vậy tập nghiệm của phương trình đã cho là \\(S = \\left\\{ 3 \\right\\}.\\)"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Nghiệm của phương trình \\({2^{2x - 4}} = {2^x}\\) là",
+      "options": [
+        "A. \\(x = 16\\).",
+        "B. \\(x = - 16\\).",
+        "C. \\(x = - 4\\).",
+        "D. \\(x = 4\\)."
+      ],
+      "answer": "D",
+      "note": "D Ta có: \\({2^{2x - 4}} = {2^x} \\Leftrightarrow 2x - 4 = x \\Leftrightarrow x = 4.\\)"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Tập nghiệm của phương trình: \\({4^{x + 1}} + {4^{x - 1}} = 272\\) là",
+      "options": [
+        "A. 3 ; 2",
+        "B. \\[\\left\\{ 2 \\right\\}\\].",
+        "C. \\[\\left\\{ 3 \\right\\}\\].",
+        "D. \\[\\left\\{ {3\\,;\\,5} \\right\\}\\]."
+      ],
+      "answer": "C",
+      "note": "C \\({4^{x + 1}} + {4^{x - 1}} = 272\\)\\( \\Leftrightarrow {4.4^x} + \\frac{{{4^x}}}{4} = 272\\)\\( \\Leftrightarrow {4^x} = 64\\)\\( \\Leftrightarrow x = 3\\) Vậy phương trình có tập nghiệm \\[S = \\left\\{ 3 \\right\\}\\] ."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Tập nghiệm của bất phương trình \\(\\log x \\ge 1\\) là",
+      "options": [
+        "A. \\(\\left( {10; + \\infty } \\right)\\).",
+        "B. \\(\\left( {0; + \\infty } \\right)\\).",
+        "C. \\(\\left[ {10; + \\infty } \\right)\\).",
+        "D. \\(\\left( { - \\infty ;10} \\right)\\)."
+      ],
+      "answer": "C",
+      "note": "C \\(\\log x \\ge 1 \\Leftrightarrow \\left\\{ \\begin{array}{l}x > 0\\\\x \\ge 10\\end{array} \\right. \\Leftrightarrow x \\ge 10.\\) Vậy bất phương trình đã cho có tập nghiệm là \\(\\left[ {10; + \\infty } \\right).\\)"
+    }
+  ]
+}

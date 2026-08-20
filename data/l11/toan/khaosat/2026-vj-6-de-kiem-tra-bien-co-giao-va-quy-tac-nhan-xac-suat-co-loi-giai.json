@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-6-de-kiem-tra-bien-co-giao-va-quy-tac-nhan-xac-suat-co-loi-giai",
+  "sourceId": "vietjack:6-de-kiem-tra-bien-co-giao-va-quy-tac-nh",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "6.Đề kiểm tra Biến cố giao và quy tắc nhân xác suất (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho hai biến cố \\(A\\) và \\(B.\\) Biến cố “Cả \\(A\\) và \\(B\\) đều xảy ra” được gọi là",
+      "options": [
+        "A. Biến cố giao của \\(A\\) và \\(B.\\)",
+        "B. Biến cố đối của \\(A.\\)",
+        "C. Biến cố hợp của \\(A\\) và \\(B.\\)",
+        "D. Biến cố đối của \\(B.\\)"
+      ],
+      "answer": "A",
+      "note": "Theo định nghĩa, biến cố “Cả \\(A\\) và \\(B\\) đều xảy ra” được gọi là biến cố giao của \\(A\\) và \\(B.\\)"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hai biến cố \\(A\\) và \\(B.\\) Nếu việc xảy ra hay không xảy ra của biến cố này không ảnh hưởng đến xác suất xảy ra của biến cố kia thì hai biến cố \\(A\\) và \\(B\\) được gọi là",
+      "options": [
+        "A. Xung khắc với nhau.",
+        "B. Biến cố đối của nhau.",
+        "C. Độc lập với nhau.",
+        "D. Không giao với nhau."
+      ],
+      "answer": "C",
+      "note": "Theo định nghĩa, nếu việc xảy ra hay không xảy ra của biến cố này không ảnh hưởng đến xác suất xảy ra của biến cố kia thì hai biến cố \\(A\\) và \\(B\\) được gọi là độc lập với nhau."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho \\(A\\) và \\(B\\) là hai biến cố độc lập. Mệnh đề nào dưới đây đúng?",
+      "options": [
+        "A. Hai biến cố \\(A\\) và \\(\\overline B \\) không độc lập.",
+        "B. Hai biến cố \\[\\overline A \\] và \\(\\overline B \\) không độc lập.",
+        "C. Hai biến cố \\(\\overline A \\) và \\(B\\) độc lập.",
+        "D. Hai biến cố \\(A\\) và \\(A \\cup B\\) độc lập."
+      ],
+      "answer": "C",
+      "note": "Nếu \\(A\\) và \\(B\\) độc lập thì các cặp biến cố \\(A\\) và \\(\\overline B ,\\;\\overline A \\) và \\(B,\\;\\overline A \\) và \\(\\overline B \\) cũng độc lập."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Chọn ngẫu nhiên một số tự nhiên từ \\(1\\) đến \\(30\\). Xét các biến cố \\(A:\\)“Số được chọn chia hết cho 3”; \\(B:\\)“Số được chọn chia hết cho 4”. Khi đó biến cố \\(A \\cap B\\) là",
+      "options": [
+        "A. \\(\\left\\{ {3;4;12;24} \\right\\}.\\)",
+        "B. \\(\\left\\{ {3;4;6;8;9;12;15;16;20;24;28} \\right\\}.\\)",
+        "C. \\(\\left\\{ {12;24} \\right\\}.\\)",
+        "D. \\(\\left\\{ {3;6;9;12;15;18;21;24;27;30} \\right\\}.\\)"
+      ],
+      "answer": "C",
+      "note": "Các phần tử của biến cố \\(A \\cap B\\) là số tự nhiên từ \\(1\\) đến \\(30\\) thỏa mãn vừa chia hết cho 3, vừa chia hết cho 4, tức là số đó chia hết cho 12 nên \\(A \\cap B = \\left\\{ {12;24} \\right\\}.\\)"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Một hộp có 30 tấm thẻ được đánh số từ 1 đến 30. Lấy ngẫu nhiên một tấm thẻ từ hộp. Xét các biến cố sau: \\(P:\\) “Số ghi trên thẻ được lấy là số chia hết cho 2”. \\(Q:\\) “Số ghi trên thẻ được lấy là số chia hết cho 4”. Khi đó biến cố \\(P \\cap Q\\) là",
+      "options": [
+        "A. “Số ghi trên thẻ được lấy là số chia hết cho 8”.",
+        "B. “Số ghi trên thẻ được lấy là số chia hết cho 2”.",
+        "C. “Số ghi trên thẻ được lấy là số chia hết cho 6”.",
+        "D. “Số ghi trên thẻ được lấy là số chia hết cho 4”."
+      ],
+      "answer": "D",
+      "note": "Biến cố \\(P \\cap Q:\\) “Số ghi trên thẻ được lấy là số chia hết cho cả 2 và 4”, tức là chia hết cho 4."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Hai xạ thủ A và B cùng bắn súng vào một tấm bia. Biết rằng xác suất bắn trúng của xạ thủ A là 0,3, của xạ thủ B là 0,2. Khả năng bắn trúng của hai xạ thủ là độc lập. Xác suất của biến cố \"Cả hai xạ thủ đều bắn trúng\" là",
+      "options": [
+        "A. \\[0,05\\].",
+        "B. \\[0,06\\].",
+        "C. \\[0,07\\].",
+        "D. \\[0,08\\]."
+      ],
+      "answer": "B",
+      "note": "Ta có: \\[P(AB) = P\\left( A \\right).P\\left( B \\right) = 0,06\\]."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Hai người độc lập nhau ném bóng vào rổ. Mỗi người ném vào rổ của mình một quả bóng. Biết rằng xác suất ném bóng trúng vào rổ của từng người tương ứng là \\(\\frac{1}{3}\\) và \\(\\frac{2}{5}\\). Gọi \\(A\\) là biến cố: “Cả hai cùng ném bóng trúng vào rổ”. Khi đó, xác suất của biến cố \\(A\\) là",
+      "options": [
+        "A. \\(P\\left( A \\right) = \\frac{{11}}{{15}}\\).",
+        "B. \\(P\\left( A \\right) = \\frac{1}{{25}}\\).",
+        "C. \\(P\\left( A \\right) = \\frac{4}{{49}}\\).",
+        "D. \\(P\\left( A \\right) = \\frac{2}{{15}}\\)."
+      ],
+      "answer": "D",
+      "note": "Gọi \\(A\\) là biến cố: “Cả hai cùng ném bóng trúng vào rổ. “ Gọi X là biến cố: “người thứ nhất ném trúng rổ”\\( \\Rightarrow P\\left( X \\right) = \\frac{1}{3}\\). Gọi Y là biến cố: “người thứ hai ném trúng rổ”\\( \\Rightarrow P\\left( Y \\right) = \\frac{2}{5}\\) Ta thấy biến cố X, Y là 2 biến cố độc lập nhau, theo công thức nhân xác suất ta có: \\(P\\left( A \\right) = P\\left( {XY} \\right) = P\\left( X \\right)P\\left( Y \\right) = \\frac{2}{{15}}\\)."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho \\[A\\], \\[B\\] là hai biến cố độc lập. Biết \\[P\\left( A \\right) = \\frac{1}{4}\\], \\[P\\left( {A \\cap B} \\right) = \\frac{1}{9}\\]. Tính \\[P\\left( B \\right)\\]",
+      "options": [
+        "A. \\[\\frac{7}{{36}}\\].",
+        "B. \\[\\frac{1}{5}\\].",
+        "C. \\[\\frac{4}{9}\\].",
+        "D. \\[\\frac{5}{{36}}\\]."
+      ],
+      "answer": "C",
+      "note": "\\[A\\], \\[B\\] là hai biến cố độc lập nên \\[P\\left( {A \\cap B} \\right)\\]\\[ = P\\left( A \\right).P\\left( B \\right)\\]\\[ \\Leftrightarrow \\frac{1}{9} = \\frac{1}{4}.P\\left( B \\right)\\]\\[ \\Leftrightarrow P\\left( B \\right) = \\frac{4}{9}\\]."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-3-de-on-luyen-toan-chuong-8-mot-so-yeu-to-thong-ke-xac-suat-va-ly",
+  "sourceId": "vietjack:3-de-on-luyen-toan-chuong-8-mot-so-yeu-t",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "title": "3.Đề ôn luyện Toán Chương 8. Một số yếu tố thống kê, xác suất và lý thuyết đồ thị (đề số 3)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Doanh thu bán hàng trong 20 ngày được lựa chọn ngẫu nhiên của một cửa hàng được ghi lại ở bảng sau (đơn vị: triệu đồng): Doanh thu \\(\\left[ {5;7} \\right)\\) \\(\\left[ {7;9} \\right)\\) \\(\\left[ {9;11} \\right)\\) \\(\\left[ {11;13} \\right)\\) \\(\\left[ {13;15} \\right)\\) Số ngày 2 7 7 3 1 Khoảng biến thiên của mẫu số liệu trên là giá trị nào trong các giá trị sau?",
+      "options": [
+        "A. 10.",
+        "B. 6.",
+        "C. 7.",
+        "D. 15."
+      ],
+      "answer": "A",
+      "note": "Khoảng biến thiên của mẫu số liệu là: \\(R = 15 - 5 = 10\\) . Chọn A ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Kết quả thống kê chiều cao (đơn vị: cm) của các bạn học sinh nữ lớp 12A ở bảng sau: Chiều cao (cm) \\(\\left[ {155;160} \\right)\\) \\(\\left[ {160;165} \\right)\\) \\(\\left[ {165;170} \\right)\\) \\(\\left[ {170;175} \\right)\\) \\(\\left[ {175;180} \\right)\\) Số học sinh 5 9 8 2 1 Tứ phân vị thứ ba của mẫu số liệu ghép nhóm về chiều cao của học sinh nữ lớp 12A (làm tròn đến chữ số thập phân thứ 2) bằng:",
+      "options": [
+        "A. 160,69.",
+        "B. 168,59.",
+        "C. 166,24.",
+        "D. 167,97."
+      ],
+      "answer": "D",
+      "note": "Cỡ mẫu \\(n = 5 + 9 + 8 + 2 + 1 = 25\\) . Có \\(\\frac{{3 \\cdot 25}}{4} = 18,75\\) mà \\(5 + 9 < 18,75 < 5 + 9 + 8\\) nên \\({Q_3} \\in \\left[ {165;170} \\right)\\) . Suy ra \\({Q_3} = 165 + \\frac{{18,75 - \\left( {5 + 9} \\right)}}{8} \\cdot \\left( {170 - 165} \\right) \\approx 167,97\\) . Chọn D ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Khảo sát thời gian sử dụng điện thoại một ngày của học sinh lớp 12A thu được mẫu số liệu ghép nhóm sau: Độ lệch chuẩn của mẫu số liệu ghép nhóm trên thuộc khoảng nào dưới đây?",
+      "options": [
+        "A. \\(\\left( {22;\\,24} \\right)\\) .",
+        "B. \\(\\left( {20;\\,22} \\right)\\) .",
+        "C. \\(\\left( {18;\\,20} \\right)\\) .",
+        "D. \\(\\left( {24;\\,26} \\right)\\) ."
+      ],
+      "answer": "B",
+      "note": "Ta có bảng sau: Giá trị trung bình: \\[\\overline x = \\frac{{2 \\cdot 10 + 5 \\cdot 30 + 7 \\cdot 50 + 19 \\cdot 70 + 9 \\cdot 90}}{{42}} = \\frac{{190}}{3}\\] . Phương sai: \\[{s^2} = \\frac{{2 \\cdot {{10}^2} + 5 \\cdot {{30}^2} + 7 \\cdot {{50}^2} + 19 \\cdot {{70}^2} + 9 \\cdot {{90}^2}}}{{42}} - {\\left( {\\frac{{190}}{3}} \\right)^2} = \\frac{{29600}}{{63}}\\] . Độ lệch chuẩn: \\[s = \\sqrt {{s^2}} = \\sqrt {\\frac{{29600}}{{63}}} \\approx 21,676\\] . Chọn B ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Theo thống kê điểm trung bình môn Toán của một số học sinh đã trúng tuyển vào lớp 10 năm học 2024 – 2025 của một trường THPT được kết quả như bảng sau: Khoảng điểm \\(\\left[ {6,5;7} \\right)\\) \\(\\left[ {7;7,5} \\right)\\) \\(\\left[ {7,5;8} \\right)\\) \\(\\left[ {8;8,5} \\right)\\) \\(\\left[ {8,5;9} \\right)\\) \\(\\left[ {9;9,5} \\right)\\) \\(\\left[ {9,5;10} \\right)\\) Tần số 7 10 17 24 13 8 5 Khoảng tứ phân vị của mẫu số liệu ghép nhóm trên là",
+      "options": [
+        "A. \\({\\rm{\\Delta }}Q = 1,1\\) .",
+        "B. \\({\\rm{\\Delta }}Q = \\frac{{228}}{{221}}\\) .",
+        "C. \\({\\rm{\\Delta }}Q = 1,2\\) .",
+        "D. \\({\\rm{\\Delta }}Q = \\frac{{282}}{{221}}\\) ."
+      ],
+      "answer": "B",
+      "note": "Ta có bảng tần số ghép nhóm bao gồm cả tần số tích lũy như sau: Khoảng điểm \\(\\left[ {6,5;7} \\right)\\) \\(\\left[ {7;7,5} \\right)\\) \\(\\left[ {7,5;8} \\right)\\) \\(\\left[ {8;8,5} \\right)\\) \\(\\left[ {8,5;9} \\right)\\) \\(\\left[ {9;9,5} \\right)\\) \\(\\left[ {9,5;10} \\right)\\) Tần số 7 10 17 24 13 8 5 \\(n = 82\\) Tần số tích lũy 7 17 34 58 69 77 82 Ta có \\(\\frac{n}{4} = \\frac{{82}}{4} = 20,5\\) . Do đó nhóm 3 là nhóm đầu tiên có tần số tích lũy lớn hơn 20,5. Xét nhóm 3 là nhóm \\(\\left[ {7,5;8} \\right)\\) có \\(s = 7,5;{n_3} = 17,c{f_2} = 17,h = 0,5\\) . Khi đó \\({Q_1} = s + \\left( {\\frac{{\\frac{n}{4} - c{f_2}}}{{{n_3}}}} \\right) \\cdot h = 7,5 + \\frac{{20,5 - 17}}{{17}} \\cdot 0,5 = \\frac{{517}}{{68}}\\) . Lại có \\(\\frac{{3n}}{4} = \\frac{{3 \\cdot 82}}{4} = 61,5\\) . Do đó nhóm 5 là nhóm đầu tiên có tần số tích lũy lớn hơn 61,5 Xét nhóm 5 là nhóm \\(\\left[ {8,5;9} \\right)\\) có \\(t = 8,5;{n_5} = 13;c{f_4} = 58;l = 0,5\\) . Khi đó \\({Q_3} = t + \\left( {\\frac{{\\frac{{3n}}{4} - c{f_4}}}{{{n_5}}}} \\right) \\cdot l = 8,5 + \\frac{{61,5 - 58}}{{13}} \\cdot 0,5 = \\frac{{449}}{{52}}\\) . Vậy khoảng tứ phân vị \\({\\rm{\\Delta }}Q = {Q_3} - {Q_1} = \\frac{{228}}{{221}}\\) . Chọn B ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho mẫu số liệu ghép nhóm có bảng tần số như sau : Nhóm \\(\\left[ {16;21} \\right)\\) \\(\\left[ {21;26} \\right)\\) \\(\\left[ {26;31} \\right)\\) \\(\\left[ {31;36} \\right)\\) \\(\\left[ {36;41} \\right)\\) Tần số 4 6 8 18 4 Tính số trung bình của mẫu số liệu trên .",
+      "options": [
+        "A. 31.",
+        "B. \\(32\\) .",
+        "C. \\(30\\) .",
+        "D. 29."
+      ],
+      "answer": "C",
+      "note": "Ta có \\(\\overline x = \\frac{{18,5 \\cdot 4 + 23,5 \\cdot 6 + 28,5 \\cdot 8 + 33,5 \\cdot 18 + 38,5 \\cdot 4}}{{40}} = 30\\) . Chọn C ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Khảo sát thời gian tập thể dục của một số học sinh khối 12 thu được mẫu số liệu ghép nhóm sau: Thời gian (phút) \\(\\left[ {0;20} \\right)\\) \\(\\left[ {20;40} \\right)\\) \\(\\left[ {40;60} \\right)\\) \\(\\left[ {60;80} \\right)\\) \\(\\left[ {80;100} \\right)\\) Số học sinh 5 9 12 10 6 Nhóm chứa trung vị của mẫu số liệu trên là",
+      "options": [
+        "A. \\(\\left[ {20;40} \\right)\\) .",
+        "B. \\(\\left[ {40;60} \\right)\\) .",
+        "C. \\(\\left[ {60;80} \\right)\\) .",
+        "D. \\(\\left[ {80;100} \\right)\\) ."
+      ],
+      "answer": "B",
+      "note": "Ta có: \\(n = 5 + 9 + 12 + 10 + 6 = 42\\) . Vậy trung vị của dãy số liệu là \\(\\frac{{{x_{21}} + {x_{22}}}}{2} \\in \\left[ {40;60} \\right)\\) . Chọn B ."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Một tổ học sinh gồm có \\(5\\) học sinh nữ và \\(7\\) học sinh nam, chọn ngẫu nhiên \\(2\\) học sinh. Tính xác suất để \\(2\\) học sinh được chọn có cả học sinh nam và học sinh nữ.",
+      "options": [
+        "A. \\[\\frac{1}{2}\\] .",
+        "B. \\(\\frac{1}{6}\\) .",
+        "C. \\[\\frac{{35}}{{66}}\\] .",
+        "D. \\(\\frac{3}{{55}}\\) ."
+      ],
+      "answer": "C",
+      "note": "Phép thử: “chọn ngẫu nhiên \\(2\\) học sinh” có \\(n\\left( \\Omega \\right) = C_{12}^2 = 66\\) . Chọn 1 học sinh nam có 7 cách chọn . Chọn 1 học sinh nữ có 5 cách chọn . Nên chọn 2 học sinh gồm cả học sinh nam và học sinh nữ có \\(n\\left( A \\right) = 5 \\cdot 7 = 35\\) cách chọn. Do đó xác suất để \\(2\\) học sinh được chọn có cả học sinh nam và học sinh nữ là \\(P\\left( A \\right) = \\frac{{n\\left( A \\right)}}{{n\\left( \\Omega \\right)}} = \\frac{{35}}{{66}}\\) . Chọn C ."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Mỗi bạn Hưng và Nga chọn ngẫu nhiên ba số trong tập \\(\\left\\{ {0;1;2;3;4;5;6;7;8;9} \\right\\}.\\) Xác suất để trong hai bộ số của Hưng và Nga chọn ra có đúng một số giống nhau bằng",
+      "options": [
+        "A. \\(\\frac{{21}}{{40}}.\\)",
+        "B. \\(\\frac{{203}}{{480}}.\\)",
+        "C. \\(\\frac{{49}}{{60}}.\\)",
+        "D. \\(\\frac{{17}}{{24}}.\\)"
+      ],
+      "answer": "A",
+      "note": "Không gian mẫu: \\(n\\left( \\Omega \\right) = {\\left( {C_{10}^3} \\right)^2}\\) . Hưng và Nga chọn 1 số ngẫu nhiên giống nhau: 10 cách Hưng và Nga mỗi bạn chọn tiếp 2 số khác nhau: \\(C_9^2.C_7^2.\\) Xác suất để trong hai bộ số của Hưng và Nga chọn ra có đúng một số giống nhau: \\(\\frac{{10 \\cdot C_9^2 \\cdot C_7^2}}{{{{\\left( {C_{10}^3} \\right)}^2}}} = \\frac{{21}}{{40}}.\\) Chọn A ."
+    }
+  ]
+}

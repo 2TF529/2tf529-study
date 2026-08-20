@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-15-cau-trac-nghiem-toan-10-chan-troi-sang-tao-ham-so-va-do-thi-",
+  "sourceId": "vietjack:2-15-cau-trac-nghiem-toan-10-chan-troi-s",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.15 câu Trắc nghiệm Toán 10 chân trời sáng tạo Hàm số và đồ thị có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Điền vào chỗ trống: Nếu với mỗi giá trị x thuộc D, ta xác định được … giá trị tương ứng y thuộc tập hợp số thực ℝ thì ta có một hàm số.",
+      "options": [
+        "A. một;",
+        "B. hai;",
+        "C. ba;",
+        "D. một và chỉ một."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải Đáp án đúng là: D Nếu với mỗi giá trị x thuộc D, ta xác định được một và chỉ một giá trị tương ứng y thuộc tập hợp số thực ℝ thì ta có một hàm số."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Tập xác định của hàm số y = f(x) = 2 x ‒ 1 là:",
+      "options": [
+        "A. D = ℝ;",
+        "B. D = ℝ\\{0};",
+        "C. D = (0; +∞);",
+        "D. D = [0; +∞)."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải Đáp án đúng là: D Hàm số y = f(x) = 2 x ‒ 1 xác định ⇔ x xác định ⇔ x ≥ 0. Suy ra tập xác định của hàm số là D = [0; +∞)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Điền vào chỗ trống: Hàm số y = f(x) xác định trên khoảng (a; b) có thể là hàm số ….",
+      "options": [
+        "A. đồng biến;",
+        "B. nghịch biến;",
+        "C. đồng biến hoặc nghịch biến;",
+        "D. Tất cả các ý trên."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là: C Hàm số y = f(x) xác định trên khoảng (a; b) có thể là hàm số đồng biến hoặc nghịch biến. + Hàm số đồng biến trên khoảng (a; b) nếu: ∀ x 1 , x 2 ∈ (a; b), x 1 < x 2 ⇒ f(x 1 ) < f(x 2 ). + Hàm số nghịch biến trên khoảng (a; b) nếu: ∀ x 1 , x 2 ∈ (a; b), x 1 < x 2 ⇒ f(x 1 ) > f(x 2 ). Vậy ta chọn phương án C."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Hàm số đồng biến thì đồ thị của nó có dạng như thế nào?",
+      "options": [
+        "A. đi lên từ trái sang phải;",
+        "B. đi lên từ phải sang trái;",
+        "C. nằm ngang;",
+        "D. nằm dọc"
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A Hàm số đồng biến thì đồ thị của nó có dạng đi lên từ trái sang phải Ví dụ: Ta thấy hàm số y = f(x) = 2x – 1 là hàm số đồng biến trên ℝ nên đồ thị của nó có dạng đi lên từ trái sang phải."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Tìm tập giá trị D của hàm số sau: y = f(x) = 2 x+1 ?",
+      "options": [
+        "A. M = ℝ;",
+        "B. M = ℝ\\{0};",
+        "C. M = [0; +∞);",
+        "D. M = − 1 2 ; + ∞ ."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là: C Hàm số y = f(x) = 2 x+1 xác định khi và chỉ khi 2 x+1 ≥ 0 Û x ≥ - 1 2 Do đó hàm số y = f(x) = 2 x+1 ≥ 0 với mọi giá trị x ≥ - 1 2 Vậy tập giá trị của hàm số là M = [0; +∞)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong các hàm số sau, hàm số nào là nghịch biến:",
+      "options": [
+        "A. y = f(x) = -2x + 2;",
+        "B. y = f(x) = x 2 ;",
+        "C. y = f(x) = x + 1;",
+        "D. y = f(x) = 1 + 5x."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A Câu A: Hàm số y = f(x) = ‒2x + 2 xác định trên ℝ. Xét hai giá trị x 1 = 1 và x 2 = 2 đều thuộc ℝ, ta có: f(x 1 ) = f(1) = ‒2. 1 + 2 = 0. f(x 2 ) = f(2) = ‒2. 2 + 2 = ‒2. Ta thấy x 1 < x 2 và f(x 1 ) > f(x 2 ) nên hàm số y = f(x) = ‒2x + 2 là hàm số nghịch biến trên ℝ. Câu B: Hàm số y = f(x) = x 2 xác định trên ℝ. Xét hai giá trị x 1 = 1 và x 2 = 2 đều thuộc ℝ, ta có: f(x 1 ) = f(1) = 1 2 = 1. f(x 2 ) = f(2) = 2 2 = 4. Ta thấy x 1 < x 2 và f(x 1 ) < f(x 2 ) nên hàm số y = f(x) = x 2 là hàm số đồng biến trên ℝ. Câu C, D: tương tự câu B ta chứng minh được các hàm số đồng biến trên ℝ. Vậy ta chọn phương án A."
+    }
+  ]
+}

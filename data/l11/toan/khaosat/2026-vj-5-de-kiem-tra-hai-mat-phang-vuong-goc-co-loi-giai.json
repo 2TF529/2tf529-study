@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-5-de-kiem-tra-hai-mat-phang-vuong-goc-co-loi-giai",
+  "sourceId": "vietjack:5-de-kiem-tra-hai-mat-phang-vuong-goc-co",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "5.Đề kiểm tra Hai mặt phẳng vuông góc (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Các mặt bên của hình chóp chóp cụt là hình gì ?",
+      "options": [
+        "A. Tam giác cân.",
+        "B. Hình thang.",
+        "C. Hình bình hành.",
+        "D. Hình chữ nhật."
+      ],
+      "answer": "B",
+      "note": "Các mặt bên của hình chóp chóp cụt là hình thang."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hình chóp \\[S.ABC\\] có \\[SA \\bot \\left( {ABC} \\right)\\] và \\[AB \\bot BC\\], gọi \\(I\\) là trung điểm \\(BC\\). Góc giữa hai mặt phẳng \\[\\left( {SBC} \\right)\\] và \\[\\left( {ABC} \\right)\\] là góc nào sau đây?",
+      "options": [
+        "A. \\[\\widehat {SBA}\\].",
+        "B. \\[\\widehat {SCA}\\].",
+        "C. \\[\\widehat {SCB}\\].",
+        "D. \\[\\widehat {SIA}\\]."
+      ],
+      "answer": "A",
+      "note": "Chọn A Ta có: \\(BC \\bot SA,BC \\bot AB \\Rightarrow BC \\bot SB\\) \\( \\Rightarrow \\left\\{ {\\begin{array}{*{20}{c}}{\\left( {SBC} \\right) \\cap \\left( {ABC} \\right) = BC}\\\\{AB \\bot BC,AB \\subset \\left( {ABC} \\right)}\\\\{SB \\bot BC,SB \\subset \\left( {SBC} \\right)}\\end{array}} \\right.\\) \\( \\Rightarrow \\widehat {\\left( {\\left( {SBC} \\right),\\left( {ABC} \\right)} \\right)} = \\widehat {SBA}\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Mệnh đề nào sau đây là đúng?",
+      "options": [
+        "A. Hai mặt phẳng vuông góc với nhau thì mọi đường thẳng nằm trong mặt phẳng này sẽ vuông góc với mặt phẳng kia.",
+        "B. Hai mặt phẳng phân biệt cùng vuông góc với một mặt phẳng thì vuông góc với nhau.",
+        "C. Hai mặt phẳng phân biệt cùng vuông góc với một mặt phẳng thì song song với nhau.",
+        "D. Hai mặt phẳng vuông góc với nhau thì mọi đường thẳng nằm trong mặt phẳng này và vuông góc với giao tuyến của hai mặt phẳng sẽ vuông góc với mặt phẳng kia."
+      ],
+      "answer": "D",
+      "note": "Chọn D Mệnh đề A sai vì có thể xảy ra trường hợp hai mặt phẳng vuông góc với nhau nhưng đường thẳng thuộc mặt phẳng này song song với mặt phẳng kia. Mệnh đề B sai vì xảy ra trường hợp hai mặt phẳng song song. Mệnh đề C sai vì xảy ra trường hợp hai mặt phẳng vuông góc. Chọn đáp án D"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hình lập phương \\(ABCD.A'B'C'D'\\). Góc giữa hai mặt phẳng \\(\\left( {ADD'A'} \\right)\\) và \\(\\left( {ABC'D'} \\right)\\) bằng",
+      "options": [
+        "A. 30 °",
+        "B. 60 °",
+        "C. 45 °",
+        "D. 90 °"
+      ],
+      "answer": "D",
+      "note": "Chọn D Ta có \\(AB \\bot \\left( {ADD'A'} \\right)\\), suy ra \\(\\left( {ABC'D'} \\right) \\bot \\left( {ADD'A'} \\right)\\). Do đó, \\(\\left( {\\widehat {\\left( {ADD'A'} \\right),\\left( {ABC'D'} \\right)}} \\right) = 90^\\circ \\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hình lập phương \\(ABCDA'B'C'D'\\). Góc giữa hai mặt phẳng \\(\\left( {BCD'A'} \\right)\\) và \\(\\left( {ABCD} \\right)\\) bằng:",
+      "options": [
+        "A. \\({45^0}\\).",
+        "B. \\({30^0}\\).",
+        "C. \\({90^0}\\).",
+        "D. \\({60^0}\\)."
+      ],
+      "answer": "A",
+      "note": "Chọn A Ta có \\(\\left( {BCD'A'} \\right) \\cap \\left( {ABCD} \\right) = BC\\);\\(BC \\bot \\left( {ABB'A'} \\right)\\) Vậy \\(\\widehat {\\left( {\\left( {BCD'A'} \\right);\\left( {ABCD} \\right)} \\right)} = \\left( {\\widehat {AB;A'B}} \\right) = {45^0}\\)"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho hình lập phương \\[ABCD.A'B'C'D'\\]. Góc giữa hai mặt phẳng \\[\\left( {A'AC} \\right)\\] và \\[\\left( {ABCD} \\right)\\] bằng?",
+      "options": [
+        "A. \\[60^\\circ \\].",
+        "B. \\[30^\\circ \\].",
+        "C. \\[90^\\circ \\].",
+        "D. \\[45^\\circ \\]."
+      ],
+      "answer": "C",
+      "note": "Chọn C Ta có \\(\\left\\{ \\begin{array}{l}BD \\bot AC\\\\BD \\bot A'A\\end{array} \\right.\\) \\( \\Rightarrow BD \\bot \\left( {A'AC} \\right)\\)\\( \\Rightarrow \\left( {ABCD} \\right) \\bot \\left( {A'AC} \\right)\\). Góc giữa hai mặt phẳng \\[\\left( {A'AC} \\right)\\] và \\[\\left( {ABCD} \\right)\\] bằng \\[90^\\circ \\]."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Cho hình chóp \\(S.ABCD\\) đáy \\(ABCD\\) là hình thoi, \\(SA = SC\\). Góc giữa hai mặt phẳng \\[\\left( {SBD} \\right)\\] và \\[\\left( {ABCD} \\right)\\] bằng?",
+      "options": [
+        "A. \\(90^\\circ \\).",
+        "B. \\[30^\\circ \\].",
+        "C. \\[60^\\circ \\].",
+        "D. \\[45^\\circ \\]."
+      ],
+      "answer": "A",
+      "note": "Chọn A Gọi \\[O\\] là tâm của hình thoi \\(ABCD\\). Ta có \\(\\left\\{ \\begin{array}{l}AC \\bot BD\\\\AC \\bot SO\\end{array} \\right.\\) \\( \\Rightarrow AC \\bot \\left( {SBD} \\right)\\)\\( \\Rightarrow \\left( {ABCD} \\right) \\bot \\left( {SBD} \\right)\\). Vậy góc giữa hai mặt phẳng \\[\\left( {SBD} \\right)\\] và \\[\\left( {ABCD} \\right)\\] bằng \\(90^\\circ \\)."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Khẳng định nào sau đây đúng?",
+      "options": [
+        "A. Hình lăng trụ đứng có đáy là một đa giác đều là hình lăng trụ đều.",
+        "B. Hình lăng trụ đứng là hình lăng trụ đều.",
+        "C. Hình lăng trụ có đáy là một đa giác đều là hình lăng trụ đều.",
+        "D. Hình lăng trụ tứ giác đều là hình lập phương."
+      ],
+      "answer": "A",
+      "note": "Hình lăng trụ đều là một hình lăng trụ đứng và có đáy là một đa giác đều."
+    }
+  ]
+}

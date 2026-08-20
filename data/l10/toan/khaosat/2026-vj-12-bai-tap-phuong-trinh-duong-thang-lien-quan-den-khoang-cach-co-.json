@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-12-bai-tap-phuong-trinh-duong-thang-lien-quan-den-khoang-cach-co-",
+  "sourceId": "vietjack:12-bai-tap-phuong-trinh-duong-thang-lien",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "12.Bài tập Phương trình đường thẳng liên quan đến khoảng cách (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho hai điểm A(3; 1), B(4; 0). Đường thẳng không đi qua A, B có phương trình nào sau đây cách đều A và B?",
+      "options": [
+        "A. – 2x + 2y – 3 = 0;",
+        "B. x – y – 3 = 0;",
+        "C. x + 2y – 3 = 0 ;",
+        "D. 2x + y – 3 = 0."
+      ],
+      "answer": "B",
+      "note": "Đáp án do hệ thống đối chiếu chuẩn xác"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Trong mặt phẳng tọa độ Oxy , phương trình đường thẳng đi qua A( –1; 2) và cách B(3; 5) một khoảng bằng 3 là",
+      "options": [
+        "A. Δ 1 : y + 2 = 0 và Δ 2 : 24x – 7y + 38 = 0;",
+        "B. Δ 1 : y – 2 = 0 và Δ 2 : 24x + 7y + 38 = 0;",
+        "C. Δ 1 : y – 2 = 0 và Δ 2 : 24x – 7y + 38 = 0;",
+        "D. Δ 1 : y + 2 = 0 và Δ 2 : 24x + 7y + 38 = 0."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải: Đáp án đúng là: C Gọi phương trình đường thẳng Δ là ax + by + c = 0 (với a 2 + b 2 ≠ 0 ). Điểm A( –1; 2) thuộc vào đường thẳng Δ tức là –a + 2b + c = 0 suy ra c = a – 2b (1) Khoảng cách từ B(3; 5) đến đường thẳng Δ bằng 3 nên ta có: 3 a + 5 b + c a 2 + b 2 = 3 ⇔ 3 a + 5 b + c = 3 a 2 + b 2 2 Thay (1) vào (2), ta có: 4 a + 3 b = 3 a 2 + b 2 ⇔ 16 a 2 + 24 a b + 9 b 2 = 9 a 2 + 9 b 2 ⇔ 7 a 2 + 24 a b = 0 ⇔ a = 0 7 a + 24 b = 0 . Với a = 0, c họn b = 1 suy ra c = –2. Vậy đường thẳng Δ 1 : y – 2 = 0 . Với 7a + 24b = 0, c họn b = –7 suy ra a = 24, c = 38 . Vậy phương trình đường thẳng Δ 2 : 24x – 7y + 38 = 0 ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trong mặt phẳng tọa độ Oxy , phương trình đường thẳng d vuông góc với đường thẳng Δ: 2x + y – 1 = 0 và cách điểm M(3; – 2) một khoảng bằng 5 là",
+      "options": [
+        "A. d 1 : x – 2y – 12 = 0 và d 2 : x – 2y – 2 = 0;",
+        "B. d 1 : x – 2y – 12 = 0 và d 2 : x – 2y + 2 = 0;",
+        "C. d 1 : x – 2y + 12 = 0 và d 2 : x – 2y – 2 = 0;",
+        "D. d 1 : x – 2y + 12 = 0 và d 2 : x – 2y + 2 = 0."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A Đường thẳng Δ: 2x + y – 1 = 0 có một vectơ pháp tuyến n → Δ = 2 ; 1 Đường thẳng d vuông góc với đường thẳng Δ nên d nhận n → d = 1 ; − 2 làm một vectơ pháp tuyến. Khi đó giả sử đường thẳng d có phương trình dạng: x – 2y + c = 0. Vì d cách điểm M(3; – 2) một khoảng bằng 5 nên ta có: d M , d = 5 ⇔ 3 − 2 ⋅ − 2 + c 1 2 + − 2 2 = 5 ⇔ c + 7 = 5 ⇔ c = − 12 c = − 2 . Vậy có hai đường thẳng d thỏa mãn yêu cầu bài toán là: d 1 : x – 2y – 12 = 0 và d 2 : x – 2y – 2 = 0."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Trong mặt phẳng tọa độ Oxy , phương trình đường thẳng d song song với d’: 3x + 4y – 1 = 0 và cách d’ một khoảng bằng 2 là",
+      "options": [
+        "A. d: 3x + 4y – 9 = 0 hoặc d: 3x + 4y + 11 = 0;",
+        "B. d: 3x + 4y + 9 = 0 hoặc d: 3x + 4y – 11 = 0;",
+        "C. d: 3x + 4y + 3 = 0 hoặc d: 3x + 4y – 17 = 0;",
+        "D. d: 3x + 4y – 3 = 0 hoặc d: 3x + 4y + 17 = 0."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải: Đáp án đúng là: B Đường thẳng d song song với đường thẳng d’ nên phương trình đường thẳng d’ có dạng 3x + 4y + c = 0. Lấy điểm M(–1; 1) thuộc vào d’ nên ta có: d d , d ' = d M , d ' = 2 ⇔ − 3 + 4 + c 5 = 2 ⇔ c + 1 = 10 ⇔ c = 9 c = − 11 . Với c = 9 ta có d : 3x + 4y + 9 = 0. Với c = –11 ta có d: 3x + 4y – 11 = 0."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Trong mặt phẳng với hệ tọa độ Oxy, cho ba điểm A(0; 1), B(12; 5) và C( –3; 0). Đường thẳng có phương trình nào sau đây cách đều ba điểm A, B và C?",
+      "options": [
+        "A. x – 3y + 4 = 0;",
+        "B. –x + y + 10 = 0;",
+        "C. x + y = 0;",
+        "D. 5x – y + 1 = 0."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A Ta có A B → = 12 ; 4 và A C → = − 3 ; − 1 = − 4 A B → nên hai vectơ này cùng phương. Do đó ba điểm A, B, C thẳng hàng nên đường thẳng d cách đều A, B, C là đường thẳng song song hoặc trùng với AB. Ta thấy trong 4 phương án, không có đường thẳng nào đi qua A nên ta loại trường hợp d trùng AB. Khi đó đường thẳng d // AB. Ta thấy đường thẳng x – 3y + 4 = 0 có một vectơ pháp tuyến là n → = 1 ; − 3 nên nhận A B → = 12 ; 4 làm m ột vectơ chỉ phương. Do đó đường thẳng này song song với AB. Vậy ta chọn phương án A."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong mặt phẳng tọa độ Oxy, cho hai điểm A(1; 1), B(–2; 4) và đường thẳng Δ: mx – y + 3 = 0. Giá trị của tham số m để Δ cách đều hai điểm A, B là",
+      "options": [
+        "A. m ∈ {1; –2};",
+        "B. m ∈ {–1; 2};",
+        "C. m ∈ {–1; 1};",
+        "D. m ∈ {–2; 2}."
+      ],
+      "answer": "C",
+      "note": "Đáp án do hệ thống đối chiếu chuẩn xác"
+    }
+  ]
+}

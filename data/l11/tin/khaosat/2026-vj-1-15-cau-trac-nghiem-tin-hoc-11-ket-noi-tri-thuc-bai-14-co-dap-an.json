@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-11-ket-noi-tri-thuc-bai-14-co-dap-an",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-11-ket-noi-",
+  "grade": "l11",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 11 Kết nối tri thức Bài 14 có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Ngôn ngữ SQL bao gồm những thành phần nào sau đây?",
+      "options": [
+        "A. DDL, DML, DCL",
+        "B. DDL, DML, HTML",
+        "C. DDL, CSS, DCL",
+        "D. DML, DCL, XML"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: SQL bao gồm 3 thành phần chính: DDL (Ngôn ngữ định nghĩa dữ liệu), DML (Ngôn ngữ thao tác dữ liệu), và DCL (Ngôn ngữ kiểm soát dữ liệu). Các lựa chọn khác không chính xác vì có chứa ngôn ngữ không thuộc SQL như HTML, CSS, XML."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu truy vấn nào dưới đây được sử dụng để tạo một bảng mới trong SQL?",
+      "options": [
+        "A. CREATE TABLE",
+        "B. INSERT INTO",
+        "C. UPDATE TABLE",
+        "D. DELETE TABLE"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Câu lệnh CREATE TABLE được sử dụng để tạo một bảng mới trong cơ sở dữ liệu. INSERT INTO là để thêm dữ liệu vào bảng, UPDATE TABLE để cập nhật dữ liệu, và DELETE TABLE không phải là câu truy vấn đúng trong SQL"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu lệnh SQL nào được sử dụng để thêm dữ liệu vào một bảng?",
+      "options": [
+        "A. CREATE TABLE",
+        "B. INSERT INTO",
+        "C. SELECT FROM",
+        "D. DELETE FROM"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Câu lệnh INSERT INTO được sử dụng để thêm dữ liệu vào một bảng. CREATE TABLE là để tạo bảng mới, SELECT FROM dùng để truy vấn dữ liệu và DELETE FROM là để xóa dữ liệu"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu truy vấn nào sau đây dùng để truy xuất tất cả các dòng trong bảng với một điều kiện cụ thể?",
+      "options": [
+        "A. SELECT * FROM bảng WHERE điều kiện",
+        "B. SELECT * FROM bảng",
+        "C. DELETE FROM bảng WHERE điều kiện",
+        "D. UPDATE bảng SET cột = giá trị WHERE điều kiện"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Câu lệnh SELECT * FROM bảng WHERE điều kiện dùng để truy xuất tất cả các dòng trong bảng với một điều kiện cụ thể. SELECT * FROM bảng truy xuất tất cả các dòng mà không có điều kiện, còn DELETE FROM và UPDATE là các câu truy vấn để xóa và cập nhật dữ liệu."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu lệnh SQL nào sau đây được sử dụng để xóa các dòng dữ liệu trong bảng?",
+      "options": [
+        "A. DELETE FROM bảng",
+        "B. UPDATE bảng SET cột = giá trị",
+        "C. DROP TABLE bảng",
+        "D. TRUNCATE TABLE bảng"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Câu lệnh DELETE FROM bảng được sử dụng để xóa các dòng dữ liệu từ bảng dựa trên điều kiện. DROP TABLE xóa toàn bộ bảng và TRUNCATE TABLE xóa tất cả các dòng nhưng không xóa cấu trúc bảng."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu lệnh SQL nào sau đây được sử dụng để sắp xếp kết quả của truy vấn theo thứ tự tăng dần hoặc giảm dần?",
+      "options": [
+        "A. ORDER BY",
+        "B. GROUP BY",
+        "C. HAVING",
+        "D. WHERE"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Câu lệnh ORDER BY được sử dụng để sắp xếp kết quả của truy vấn theo thứ tự tăng dần hoặc giảm dần. GROUP BY dùng để nhóm dữ liệu, HAVING được sử dụng sau GROUP BY để lọc nhóm, và WHERE dùng để lọc kết quả dựa trên điều kiện."
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "id": "l12-toan-totnghiep-2026-de-khao-sat-chat-luong-thpt-mon-toan-so-gddt-da-nang-nam-2026-lan-1",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "code": "THPT_TKT_2026_ĐAN_01",
+  "title": "Đề khảo sát chất lượng THPT môn Toán Sở GD&ĐT Đà Nẵng năm 2026 - Lần 1",
+  "duration": 90,
+  "answerSource": "official",
+  "source": "https://dolthpt.vn/de-khao-sat-chat-luong-thpt-mon-toan-so-gddt-da-nang-nam-2026-lan-1-co-dap-an",
+  "notes": "Nội dung, đáp án và lời giải được nhập từ bản công khai của DOL THPT.",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "content": "Nghiệm của phương trình $\\log(4x-8)=2$ là",
+      "chuong": "hàm số mũ và hàm số lôgarit",
+      "dang": "phương trình lôgarit",
+      "type": "single",
+      "options": [
+        "A. $x=3$.",
+        "B. $x=17$.",
+        "C. $x=27$.",
+        "D. $x=13$."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Phương trình cần giải là $\\log(4x-8)=2$ (lôgarit cơ số \\$10$).\n❓ **Hiểu câu hỏi:**\n- Biến đổi về dạng mũ: $\\log_{10}A=2 \\Leftrightarrow A=10^2=100$.\n💡 **Hướng giải:**\n- Đặt điều kiện \\$4x-8>0 \\Leftrightarrow x>2$.\n- Sau đó giải \\$4x-8=100$.\n📝 **Lời giải chi tiết:**\n- Điều kiện: $x>2$.\n- $\\log(4x-8)=2 \\Leftrightarrow 4x-8=100 \\Leftrightarrow 4x=108 \\Leftrightarrow x=27$.\n- $x=27>2$ thỏa điều kiện.\n✅ **Đáp án:** Chọn **C**."
+    },
+    {
+      "id": 2,
+      "content": "Cho hàm số $f(x)=\\dfrac{x+1}{x}$ xác định trên khoảng $(0;+\\infty)$. Họ tất cả các nguyên hàm của hàm số $f(x)$ là",
+      "chuong": "nguyên hàm và tích phân",
+      "dang": "nguyên hàm của một số hàm số thường gặp",
+      "type": "single",
+      "options": [
+        "A. $F(x)=\\ln|x|+C$.",
+        "B. $F(x)=1-\\dfrac{1}{x^2}+C$.",
+        "C. $F(x)=x-\\ln x+C$.",
+        "D. $F(x)=x+\\ln x+C$."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số $f(x)=\\dfrac{x+1}{x}$ trên $(0;+\\infty)$.\n❓ **Hiểu câu hỏi:**\n- Tách phân thức: $f(x)=\\dfrac{x}{x}+\\dfrac{1}{x}=1+\\dfrac{1}{x}$.\n💡 **Hướng giải:**\n- Lấy nguyên hàm từng số hạng.\n- Trên $(0;+\\infty)$ thì $\\int\\dfrac{1}{x}dx=\\ln x+C$.\n📝 **Lời giải chi tiết:**\n- $F(x)=\\int\\left(1+\\dfrac{1}{x}\\right)dx=x+\\ln x+C$.\n✅ **Đáp án:** Chọn **D**."
+    },
+    {
+      "id": 3,
+      "content": "Tập nghiệm của bất phương trình \\$0{,}5^x \\le 4$ là",
+      "chuong": "hàm số mũ và hàm số lôgarit",
+      "dang": "bất phương trình mũ",
+      "type": "single",
+      "options": [
+        "A. $[-2;+\\infty)$.",
+        "B. $(-\\infty;-2)$.",
+        "C. $(-\\infty;-2]$.",
+        "D. $(-2;+\\infty)$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Bất phương trình \\$0{,}5^x\\le 4$.\n❓ **Hiểu câu hỏi:**\n- Đưa hai vế về cùng cơ số \\$2$.\n- \\$0{,}5=2^{-1}$ nên \\$0{,}5^x=2^{-x}$ và \\$4=2^2$.\n💡 **Hướng giải:**\n- Viết bất phương trình thành \\$2^{-x}\\le 2^2$, dùng tính đồng biến của $y=2^t$ để so sánh mũ.\n📝 **Lời giải chi tiết:**\n- \\$2^{-x}\\le 2^2 \\Leftrightarrow -x\\le 2 \\Leftrightarrow x\\ge -2$.\n- Tập nghiệm $S=[-2;+\\infty)$.\n✅ **Đáp án:** Chọn **A**."
+    },
+    {
+      "id": 4,
+      "content": "Phương trình $\\tan x=1$ có nghiệm là",
+      "chuong": "hàm số lượng giác và phương trình lượng giác",
+      "dang": "phương trình tanx=m",
+      "type": "single",
+      "options": [
+        "A. $x=\\dfrac{\\pi}{4}+k2\\pi,k\\in\\mathbb{Z}$.",
+        "B. $x=\\dfrac{\\pi}{2}+k\\pi,k\\in\\mathbb{Z}$.",
+        "C. $x=\\dfrac{\\pi}{4}+k\\pi,k\\in\\mathbb{Z}$.",
+        "D. $x=\\dfrac{\\pi}{2}+k2\\pi,k\\in\\mathbb{Z}$."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Phương trình $\\tan x=1$.\n❓ **Hiểu câu hỏi:**\n- Nghiệm tổng quát của $\\tan x=m$ là $x=\\arctan m+k\\pi$.\n💡 **Hướng giải:**\n- $\\arctan 1=\\dfrac{\\pi}{4}$ nên nghiệm có dạng $x=\\dfrac{\\pi}{4}+k\\pi$.\n📝 **Lời giải chi tiết:**\n- $\\tan x=1 \\Leftrightarrow x=\\dfrac{\\pi}{4}+k\\pi,\\ k\\in\\mathbb{Z}$.\n✅ **Đáp án:** Chọn **C**."
+    },
+    {
+      "id": 5,
+      "content": "Cho hình chóp $S.ABC$ (tham khảo hình bên). Tổng $\\overrightarrow{AB}+\\overrightarrow{BC}-\\overrightarrow{AS}$ bằng\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gddt-da-nang-nam-2026-lan-1/cau-05.webp\" alt=\"Hình minh họa câu 5\" loading=\"lazy\"></figure>",
+      "chuong": "vectơ và hệ trục tọa độ trong không gian",
+      "dang": "tổng và hiệu của hai vectơ trong không gian",
+      "type": "single",
+      "options": [
+        "A. $\\overrightarrow{CS}$.",
+        "B. $\\overrightarrow{AC}$.",
+        "C. $\\overrightarrow{SA}$.",
+        "D. $\\overrightarrow{SC}$."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hình chóp $S.ABC$ với các vectơ cạnh tương ứng.\n❓ **Hiểu câu hỏi:**\n- Áp dụng quy tắc ba điểm: $\\overrightarrow{AB}+\\overrightarrow{BC}=\\overrightarrow{AC}$.\n💡 **Hướng giải:**\n- Rút gọn biểu thức: $\\overrightarrow{AC}-\\overrightarrow{AS}=\\overrightarrow{SC}$ (quy tắc trừ).\n📝 **Lời giải chi tiết:**\n- $\\overrightarrow{AB}+\\overrightarrow{BC}-\\overrightarrow{AS}=\\overrightarrow{AC}-\\overrightarrow{AS}=\\overrightarrow{SC}$.\n✅ **Đáp án:** Chọn **D**."
+    },
+    {
+      "id": 6,
+      "content": "Cho hình chóp $S.ABCD$ có đáy là hình thoi tâm $O$, $SA$ vuông góc với đáy. Biết $SA=3,\\ AC=4,\\ BD=5$. Thể tích khối chóp $S.ABCD$ bằng",
+      "chuong": "quan hệ vuông góc trong không gian",
+      "dang": "thể tích khối chóp",
+      "type": "single",
+      "options": [
+        "A. \\$10$.",
+        "B. \\$20$.",
+        "C. \\$30$.",
+        "D. \\$60$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- $SA\\perp (ABCD)$, đáy là hình thoi có $AC=4,\\ BD=5$.\n- Chiều cao $SA=3$.\n❓ **Hiểu câu hỏi:**\n- Thể tích khối chóp $V=\\dfrac{1}{3}\\cdot S_{đáy}\\cdot h$.\n💡 **Hướng giải:**\n- Diện tích hình thoi tính theo hai đường chéo: $S=\\dfrac{1}{2}\\cdot AC\\cdot BD$.\n📝 **Lời giải chi tiết:**\n- $S_{ABCD}=\\dfrac{1}{2}\\cdot 4\\cdot 5=10$.\n- $V=\\dfrac{1}{3}\\cdot 10\\cdot 3=10$.\n✅ **Đáp án:** Chọn **A**."
+    },
+    {
+      "id": 7,
+      "content": "Trong không gian với hệ trục tọa độ $Oxyz$, cho đường thẳng $d: \\dfrac{x}{3}=\\dfrac{y+1}{-4}=\\dfrac{z-2}{5}$. Vectơ nào dưới đây là một vectơ chỉ phương của $d$?",
+      "chuong": "phương pháp tọa độ trong không gian",
+      "dang": "phương trình đường thẳng",
+      "type": "single",
+      "options": [
+        "A. $\\overrightarrow{u_1}=(3;4;5)$.",
+        "B. $\\overrightarrow{u_2}=(0;-1;2)$.",
+        "C. $\\overrightarrow{u_3}=(3;-4;5)$.",
+        "D. $\\overrightarrow{u_4}=(-3;-4;5)$."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Đường thẳng $d$ viết ở dạng chính tắc $\\dfrac{x}{3}=\\dfrac{y+1}{-4}=\\dfrac{z-2}{5}$.\n❓ **Hiểu câu hỏi:**\n- Mẫu của ba tỉ số cho vectơ chỉ phương.\n💡 **Hướng giải:**\n- Đọc trực tiếp các mẫu số thành tọa độ VTCP.\n📝 **Lời giải chi tiết:**\n- Một VTCP của $d$ là $\\overrightarrow{u}=(3;-4;5)$.\n✅ **Đáp án:** Chọn **C**."
+    },
+    {
+      "id": 8,
+      "content": "Cho cấp số nhân $(u_n)$ với $u_1=-2$ và công bội $q=3$. Giá trị của $u_4$ bằng",
+      "chuong": "dãy số. cấp số cộng và cấp số nhân",
+      "dang": "số hạng tổng quát của cấp số nhân",
+      "type": "single",
+      "options": [
+        "A. $-18$.",
+        "B. \\$18$.",
+        "C. \\$54$.",
+        "D. $-54$."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cấp số nhân có $u_1=-2$, công bội $q=3$.\n❓ **Hiểu câu hỏi:**\n- Công thức số hạng tổng quát: $u_n=u_1\\cdot q^{n-1}$.\n💡 **Hướng giải:**\n- Thay $n=4$ để tính $u_4$.\n📝 **Lời giải chi tiết:**\n- $u_4=u_1\\cdot q^3=(-2)\\cdot 3^3=-2\\cdot 27=-54$.\n✅ **Đáp án:** Chọn **D**."
+    },
+    {
+      "id": 9,
+      "content": "Khảo sát thời gian tập thể dục mỗi ngày (đơn vị: giờ) của \\$100$ người, ta có bảng tần số ghép nhóm. Trung vị của mẫu số liệu ghép nhóm trên thuộc nhóm nào?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gddt-da-nang-nam-2026-lan-1/cau-09.webp\" alt=\"Hình minh họa câu 9\" loading=\"lazy\"></figure>",
+      "chuong": "các số đặc trưng đo xu thế trung tâm của mẫu số liệu ghép nhóm",
+      "dang": "trung vị của mẫu số liệu ghép nhóm",
+      "type": "single",
+      "options": [
+        "A. $[0;2)$.",
+        "B. $[2;4)$.",
+        "C. $[6;8)$.",
+        "D. $[4;6)$."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Tổng số liệu $N=100$.\n- Tần số tích lũy: \\$10;30;60;85;100$.\n❓ **Hiểu câu hỏi:**\n- Xác định nhóm chứa phần tử thứ $\\dfrac{N}{2}=50$.\n💡 **Hướng giải:**\n- Tìm nhóm đầu tiên có tần số tích lũy vượt qua \\$50$.\n📝 **Lời giải chi tiết:**\n- Sau nhóm $[2;4)$ đã có \\$30$ người; sau nhóm $[4;6)$ có \\$60$ người.\n- Phần tử thứ \\$50$ và \\$51$ rơi vào nhóm $[4;6)$.\n✅ **Đáp án:** Chọn **D**."
+    },
+    {
+      "id": 10,
+      "content": "Cho hình hộp chữ nhật $ABCD.A'B'C'D'$ (tham khảo hình bên). Cạnh nào sau đây vuông góc với mặt phẳng $(ABCD)$?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gddt-da-nang-nam-2026-lan-1/cau-10.webp\" alt=\"Hình minh họa câu 10\" loading=\"lazy\"></figure>",
+      "chuong": "quan hệ vuông góc trong không gian",
+      "dang": "đường thẳng vuông góc với mặt phẳng",
+      "type": "single",
+      "options": [
+        "A. $AB$.",
+        "B. $A'B'$.",
+        "C. $AC$.",
+        "D. $BB'$."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hình hộp chữ nhật $ABCD.A'B'C'D'$.\n❓ **Hiểu câu hỏi:**\n- Trong hình hộp chữ nhật, các cạnh bên vuông góc với hai đáy.\n💡 **Hướng giải:**\n- Bốn cạnh bên $AA',BB',CC',DD'$ đều vuông góc với đáy $(ABCD)$.\n📝 **Lời giải chi tiết:**\n- Trong các lựa chọn, chỉ $BB'$ là cạnh bên nên $BB'\\perp (ABCD)$.\n✅ **Đáp án:** Chọn **D**."
+    },
+    {
+      "id": 11,
+      "content": "Trong không gian với hệ trục tọa độ $Oxyz$, cho hai điểm $M(0;-1;0),\\ N(5;0;-2)$. Phương trình mặt phẳng đi qua $M$ và vuông góc với đường thẳng $MN$ là",
+      "chuong": "phương pháp tọa độ trong không gian",
+      "dang": "lập phương trình tổng quát của mặt phẳng",
+      "type": "single",
+      "options": [
+        "A. \\$5x+y-2z-1=0$.",
+        "B. \\$5x+y-2z+1=0$.",
+        "C. \\$5x-y-2z+1=0$.",
+        "D. \\$5x-y-2z-1=0$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- $M(0;-1;0),\\ N(5;0;-2)$.\n❓ **Hiểu câu hỏi:**\n- Mặt phẳng đi qua $M$ và có VTPT là $\\overrightarrow{MN}$.\n💡 **Hướng giải:**\n- Tính $\\overrightarrow{MN}=(5;1;-2)$, viết phương trình dạng $a(x-x_0)+b(y-y_0)+c(z-z_0)=0$.\n📝 **Lời giải chi tiết:**\n- \\$5(x-0)+1\\cdot(y-(-1))+(-2)(z-0)=0$.\n- $\\Leftrightarrow 5x+y+1-2z=0 \\Leftrightarrow 5x+y-2z+1=0$.\n✅ **Đáp án:** Chọn **B**."
+    },
+    {
+      "id": 12,
+      "content": "Tiệm cận ngang của đồ thị hàm số $y=\\dfrac{2x-1}{x+2}$ là đường thẳng có phương trình",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "đường tiệm cận ngang",
+      "type": "single",
+      "options": [
+        "A. $y=2$.",
+        "B. $x=-2$.",
+        "C. $y=-2$.",
+        "D. $x=2$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số $y=\\dfrac{2x-1}{x+2}$.\n❓ **Hiểu câu hỏi:**\n- Với hàm phân thức bậc nhất/bậc nhất, TCN là tỉ số hệ số của $x$ ở tử trên mẫu.\n💡 **Hướng giải:**\n- Tính $\\lim_{x\\to\\pm\\infty}\\dfrac{2x-1}{x+2}$.\n📝 **Lời giải chi tiết:**\n- $\\lim_{x\\to\\pm\\infty}\\dfrac{2x-1}{x+2}=2$.\n- Tiệm cận ngang: $y=2$.\n✅ **Đáp án:** Chọn **A**."
+    }
+  ]
+}

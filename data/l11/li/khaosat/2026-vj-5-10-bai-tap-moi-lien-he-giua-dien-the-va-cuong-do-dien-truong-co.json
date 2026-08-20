@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-5-10-bai-tap-moi-lien-he-giua-dien-the-va-cuong-do-dien-truong-co",
+  "sourceId": "vietjack:5-10-bai-tap-moi-lien-he-giua-dien-the-v",
+  "grade": "l11",
+  "subjectSlug": "li",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "5.10 Bài tập Mối liên hệ giữa điện thế và cường độ điện trường (có lời giải)",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Hệ thức liên hệ giữa hiệu điện thế và cường độ điện trường là:",
+      "options": [
+        "A. U = qd.",
+        "B. U = q.E.d.",
+        "C. U = E.q.",
+        "D. U = E.d."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là D Hệ thức liên hệ giữa hiệu điện thế và cường độ điện trường là: U = E.d"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Trong một điện trường đều, nếu trên một đường sức, giữa hai điểm cách nhau 5 cm có hiệu điện thế 10 V, giữa hai điểm cách nhau 8 cm có hiệu điện thế là",
+      "options": [
+        "A. 10 V.",
+        "B. 16 V.",
+        "C. 20 V.",
+        "D. 6,25 V."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là B Từ biểu thức U = E.d ta có: U 1 U 2 = d 1 d 2 ⇔ U 2 = U 1 . d 2 d 1 = 10.8 5 = 16 V"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Hai điểm trên một đường sức trong một điện trường đều cách nhau 0,5 m. Độ lớn cường độ điện trường là 1000 V/m. Hiệu điện thế giữa hai điểm đó là",
+      "options": [
+        "A. 500 V.",
+        "B. 1000 V",
+        "C. 2000 V.",
+        "D. chưa đủ dữ kiện để xác định."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là A Từ biểu thức U = E.d = 1000.0,5 = 500 V"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Giữa hai bản kim loại phẳng song song cách nhau 4 cm có một hiệu điện thế không đổi 50 V. Cường độ điện trường ở khoảng giữa hai bản kim loại là",
+      "options": [
+        "A. 5000 V/m.",
+        "B. 1250 V/m.",
+        "C. 2500 V/m.",
+        "D. 1000 V/m."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là B Từ biểu thức U = E . d ⇒ E = U d = 50 0 , 04 = 1250 V/m"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Một electron chuyển động dọc theo một đường sức điện trong điện trường đều giữa hai bản kim loại tích điện trái dấu. Hiệu điện thế giữa hai bản là 100 V. Biết rằng electron được đặt không vận tốc ban đầu cách bản điện tích dương 2 cm. Khoảng cách giữa hai bản là 4 cm. Điện tích của electron bằng -1,6.10 -19 C, khối lượng electron bằng 9,1.10 -31 kg. Vận tốc của electron khi đến bản dương là:",
+      "options": [
+        "A. 2,1.10 6 m/s.",
+        "B. 2,1.10 5 m/s.",
+        "C. 4,2.10 6 m/s.",
+        "D. 4,2.10 5 m/s."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là C Electron được đặt không vận tốc ban đầu, chịu tác dụng của lực điện trường ngược chiều làm nó chuyển động dọc theo đường sức điện về phía bản tích điện dương. Lực điện trường sinh công làm tăng động năng của electron: W đ - W đ0 = A ⇒ m v 2 2 − m v 0 2 2 = q E d 1 (với d 1 = -2cm = -0,02m là hình chiếu đường đi của electron trên một đường sức điện, electron chuyển động ngược chiều nên d 1 < 0). E = U d ; v 0 = 0 ⇒ m v 2 2 = q U d 1 d ⇒ v = 2 q U d 1 m d = 2. ( − 1 , 6.10 − 19 ) .100. ( − 0 , 02 ) 9 , 1.10 − 31 .0 , 04 = 4,2.10 6 m/s"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong một điện trường đều, nếu trên một đường sức, giữa hai điểm cách nhau 4 cm có hiệu điện thế 10 V, giữa hai điểm cách nhau 6 cm có hiệu điện thế là",
+      "options": [
+        "A. 8 V.",
+        "B. 10 V.",
+        "C. 15 V.",
+        "D. 22,5 V."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C E = U 1 d 1 = U 2 d 2 ⇒ U 2 = U 1 d 2 d 1 = 10. 6 4 = 15 V"
+    }
+  ]
+}

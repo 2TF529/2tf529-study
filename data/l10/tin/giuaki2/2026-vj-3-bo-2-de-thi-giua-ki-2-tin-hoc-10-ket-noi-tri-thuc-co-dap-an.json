@@ -1,0 +1,104 @@
+{
+  "id": "2026-vj-3-bo-2-de-thi-giua-ki-2-tin-hoc-10-ket-noi-tri-thuc-co-dap-an",
+  "sourceId": "vietjack:3-bo-2-de-thi-giua-ki-2-tin-hoc-10-ket-n",
+  "grade": "l10",
+  "subjectSlug": "tin",
+  "examType": "giuaki2",
+  "year": 2026,
+  "title": "3.Bộ 2 đề thi giữa kì 2 Tin học 10 Kết nối tri thức có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho biết kết quả của đoạn chương trình dưới đây: a = 10 while a < 11: print(a)",
+      "options": [
+        "A. Trên màn hình xuất hiện một số 10.",
+        "B. Trên màn hình xuất hiện 10 chữ a.",
+        "C. Trên màn hình xuất hiện một số 11.",
+        "D. Chương trình bị lặp vô tận."
+      ],
+      "answer": "D",
+      "note": "Đáp án: D"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Mọi quá trình tính toán đều có thể mô tả và thực hiện dựa trên cấu trúc cơ bản là:",
+      "options": [
+        "A. Cấu trúc tuần tự.",
+        "B. Cấu trúc rẽ nhánh.",
+        "C. Cấu trúc lặp.",
+        "D. Cả ba cấu trúc trên."
+      ],
+      "answer": "D",
+      "note": "Đáp án: D"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Sau khi thực hiện đoạn chương trình, giá trị của a và b lần lượt là:",
+      "options": [
+        "A. 4 và 48",
+        "B. 4 và 4",
+        "C. 16 và 12",
+        "D. 12 và 16"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho khai báo mảng sau: A = list(“3456789”) Để in giá trị phần tử thứ 2 của mảng một chiều A ra màn hình ta viết:",
+      "options": [
+        "A. print(A[2]).",
+        "B. print(A[1]).",
+        "C. print(A[3]).",
+        "D. print(A[0])."
+      ],
+      "answer": "B",
+      "note": "Đáp án: B"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Danh sách A sẽ như thế nào sau các lệnh sau? >>> A = [2, 3, 5, 6] >>> A. append(4) >>> del (A[2])",
+      "options": [
+        "A. 2, 3, 4, 5, 6, 4.",
+        "B. 2, 3, 4, 5, 6.",
+        "C. 2, 4, 5, 6.",
+        "D. 2, 3, 6, 4."
+      ],
+      "answer": "D",
+      "note": "Đáp án: D"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Kết quả của chương trình sau là gì? A = [2, 3, 5, \"python\", 6] A.append(4) A.append(2) A.append(\"x\") del(A[2]) print(len(A))",
+      "options": [
+        "A. 5.",
+        "B. 6.",
+        "C. 7.",
+        "D. 8."
+      ],
+      "answer": "C",
+      "note": "Đáp án: C"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Toán tử nào dùng để kiểm tra một giá trị có nằm trong danh sách không?",
+      "options": [
+        "A. in.",
+        "B. int.",
+        "C. range.",
+        "D. append."
+      ],
+      "answer": "A",
+      "note": "Đáp án: A"
+    }
+  ]
+}

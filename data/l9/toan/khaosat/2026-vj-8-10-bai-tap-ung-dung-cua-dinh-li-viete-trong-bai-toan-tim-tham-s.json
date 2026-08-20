@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-8-10-bai-tap-ung-dung-cua-dinh-li-viete-trong-bai-toan-tim-tham-s",
+  "sourceId": "vietjack:8-10-bai-tap-ung-dung-cua-dinh-li-viete-",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "8.10 bài tập Ứng dụng của định lí Viète trong bài toán tìm tham số thỏa mãn sự tương giao của hai đồ thị chứa tham số có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Trong mặt phẳng tọa độ Oxy, cho parabol (P): y = x 2 và đường thẳng (d): y = (m – 2)x + 3m (với m là tham số). Giá trị của m để đường thẳng (d) cắt parabol (P) tại hai điểm phân biệt nằm ở hai phía trục tung là",
+      "options": [
+        "A. m > 3.",
+        "B. m < 3.",
+        "C. m > 2.",
+        "D. m > 0."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Gọi (x; y) là tọa độ giao điểm của đường thẳng (d) và parabol (P) nếu có. Khi đó, ta có: x 2 = (m – 2)x + 3m hay x 2 − (m – 2)x − 3m = 0. (*) Đường thẳng (d) cắt (P) tại hai điểm phân biệt nằm ở hai phía trục tung khi và chỉ khi phương trình (*) có hai nghiệm trái dấu, tức là −3m < 0, hay m > 0. Vậy ta chọn phương án D."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Trong mặt phẳng tọa độ Oxy, cho parabol (P): y = x 2 và đường thẳng (d): y = mx + m + 1 (với m là tham số). Giá trị của m để đường thẳng (d) cắt parabol (P) tại hai điểm phân biệt nằm bên trái trục tung là",
+      "options": [
+        "A. m < 0 và m ≠ –2.",
+        "B. m < –1 và m ≠ –2.",
+        "C. m > –1.",
+        "D. m ≥ –2."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Gọi (x; y) là tọa độ giao điểm của đường thẳng (d) và parabol (P) nếu có. Khi đó, ta có: x 2 = mx + m + 1 hay x 2 – mx – m – 1 = 0. (*) Phương trình (*) có: ∆ = (–m) 2 – 4.1.(–m – 1) = m 2 + 4m + 4 = (m + 2) 2 ≥ 0 với mọi m. Do đó phương trình (*) luôn có hai nghiệm x 1 , x 2 nên đường thẳng (d) luôn cắt parabol (P) tại hai điểm có hoành độ x 1 , x 2 . Theo định lí Viète, ta có: \\(\\left\\{ \\begin{array}{l}{x_1} + {x_2}\\; = m\\\\{x_1}{x_2} = - m - 1\\end{array} \\right..\\) Đường thẳng (d) cắt (P) tại hai điểm phân biệt nằm bên trái trục tung, tức là hoành độ hai giao điểm có giá trị âm và khác nhau, điều này xảy ra khi và chỉ khi phương trình (*) có hai nghiệm âm phân biệt, tức là \\(\\left\\{ \\begin{array}{l}\\Delta > 0\\\\{x_1} + {x_2}\\; < 0\\\\{x_1}{x_2} > 0\\end{array} \\right.,\\) suy ra \\(\\left\\{ \\begin{array}{l}{\\left( {m + 2} \\right)^2} > 0\\\\m < 0\\\\ - m - 1 > 0\\end{array} \\right.,\\) nên \\(\\left\\{ \\begin{array}{l}m + 2 \\ne 0\\\\m < 0\\\\m < - 1\\end{array} \\right.,\\) do đó m < –1 và m ≠ –2. Vậy ta chọn phương án B."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trong mặt phẳng tọa độ Oxy, cho đường thẳng (d): y = –3x + 1 và parabol (P): y = mx 2 (với m là tham số và m ≠ 0). Có bao nhiêu giá trị nguyên của m để đường thẳng (d) cắt parabol (P) tại hai điểm phân biệt cùng nằm về một phía đối với trục tung?",
+      "options": [
+        "A. 0.",
+        "B. 1.",
+        "C. 2.",
+        "D. 3."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Gọi (x; y) là tọa độ giao điểm của đường thẳng (d) và parabol (P) nếu có. Khi đó, ta có: mx 2 = –3x + 1 hay mx 2 + 3x – 1 = 0. (*) Phương trình (*) có ∆ = 3 2 – 4.m.(–1) = 9 + 4m. Để đường thẳng (d) cắt parabol (P) tại hai điểm phân biệt cùng nằm về một phía đối với trục tung thì phương trình (*) phải có hai nghiệm phân biệt x 1 , x 2 cùng dấu, tức là \\(\\left\\{ \\begin{array}{l}\\Delta > 0\\\\{x_1}{x_2} > 0\\end{array} \\right.\\) hay \\(\\left\\{ \\begin{array}{l}9 + 4m > 0\\\\\\frac{{ - 1}}{m} > 0\\end{array} \\right.,\\) suy ra \\(\\left\\{ \\begin{array}{l}m > - \\frac{9}{4}\\\\m < 0\\end{array} \\right.\\) do đó \\( - \\frac{9}{4} < m < 0.\\) Kết hợp điều kiện m ≠ 0, ta có \\( - \\frac{9}{4} < m < 0.\\) Mà m là số nguyên nên ta có m ∈ {–2; –1}. Vậy có hai giá trị nguyên của m thỏa mãn yêu cầu đề bài."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Trong mặt phẳng tọa độ Oxy, cho parabol (P): y = x 2 và đường thẳng (d): y = 2mx – 2m + 3 (với m là tham số). Có bao nhiêu giá trị nguyên của m để đường thẳng (d) cắt parabol (P) tại hai điểm phân biệt thỏa mãn tổng tung độ hai giao điểm không vượt quá 9?",
+      "options": [
+        "A. 0.",
+        "B. 1.",
+        "C. 2.",
+        "D. 3."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Gọi (x; y) là tọa độ giao điểm của đường thẳng (d) và parabol (P) nếu có. Khi đó, ta có: x 2 = 2mx – 2m + 3 hay x 2 − 2mx + 2m – 3 = 0. (*) Phương trình (*) có: ∆' = (−m) 2 – 1.(2m – 3) = m 2 – 2m + 3 = (m – 1) 2 + 2 > 0, với mọi m. Do đó phương trình (*) luôn có hai nghiệm x 1 , x 2 phân biệt, hay đường thẳng (d) luôn cắt (P) tại hai điểm phân biệt có tọa độ (x 1 ; y 1 ); (x 2 ; y 2 ). Khi đó, ta có: \\[{y_1} = x_1^2;\\,\\,{y_2} = x_2^2.\\] Theo định lí Viète, ta có: \\(\\left\\{ \\begin{array}{l}{x_1} + {x_2}\\; = 2m\\\\{x_1}{x_2} = 2m - 3\\end{array} \\right..\\) Theo bài, tung độ hai giao điểm không vượt quá 9 tức là y 1 + y 2 ≤ 9, suy ra \\[x_1^2 + x_2^2 \\le 9\\] Ta có: \\[x_1^2 + x_2^2 \\le 9\\] (x 1 + x 2 ) 2 – 2x 1 x 2 ≤ 9 (2m) 2 – 2.(2m – 3) ≤ 9 4m 2 – 4m – 3 ≤ 0 (4m 2 – 6m) + (2m – 3) ≤ 0 2m(2m – 3) + (2m – 3) ≤ 0 (2m – 3)(2m + 1) ≤ 0 2m – 3 ≤ 0 và 2m + 1 ≥ 0 (do 2m – 3 < 2m + 1). \\(m \\le \\frac{3}{2}\\) và \\(m \\ge - \\frac{1}{2}\\) \\( - \\frac{1}{2} \\le m \\le \\frac{3}{2}\\) Mà m là số nguyên nên m ∈ {0; 1}. Vậy có 2 giá trị nguyên của m thỏa mãn yêu cầu đề bài."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Trong mặt phẳng tọa độ Oxy, cho parabol (P): y = x 2 và đường thẳng (d): y = 2mx + 4 (với m là tham số). Có bao nhiêu giá trị của tham số m để đường thẳng (d) cắt parabol (P) tại hai điểm phân biệt có hoành độ x 1 , x 2 thỏa mãn \\(\\frac{{{x_1}}}{{{x_2}}} + \\frac{{{x_2}}}{{{x_1}}} = - 3?\\)",
+      "options": [
+        "A. 0.",
+        "B. 1.",
+        "C. 2.",
+        "D. 3."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Gọi (x; y) là tọa độ giao điểm của đường thẳng (d) và parabol (P) nếu có. Khi đó, ta có: x 2 = 2mx + 4 hay x 2 − 2mx – 4 = 0. (*) Phương trình (*) có: ∆' = (−m) 2 – 1.(−4) = m 2 + 4 > 0 với mọi m. Do đó phương trình (*) luôn có hai nghiệm x 1 , x 2 phân biệt hay đường thẳng (d) luôn cắt parabol (P) tại hai điểm phân biệt có hoành độ x 1 , x 2 . Theo định lí Viète, ta có: \\(\\left\\{ \\begin{array}{l}{x_1} + {x_2}\\; = 2m\\\\{x_1}{x_2} = - 4\\end{array} \\right..\\) Theo bài, ta có: \\(\\frac{{{x_1}}}{{{x_2}}} + \\frac{{{x_2}}}{{{x_1}}} = - 3\\) \\(\\frac{{x_1^2 + x_2^2}}{{{x_1}{x_2}}} = - 3\\) \\(\\frac{{{{\\left( {{x_1} + {x_2}} \\right)}^2} - 2{x_1}{x_2}}}{{{x_1}{x_2}}} = - 3\\) \\(\\frac{{{{\\left( {2m} \\right)}^2} - 2 \\cdot \\left( { - 4} \\right)}}{{ - 4}} = - 3\\) 4m 2 + 8 = 12 4m 2 = 4 m 2 = 1 m = 1 hoặc m = −1. Vậy có hai giá trị của m thỏa mãn yêu cầu đề bài."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong mặt phẳng tọa độ Oxy, cho parabol (P): \\(y = - \\frac{1}{4}{x^2}\\) và đường thẳng (d): \\(y = - \\frac{1}{2}x + m\\) (với m là tham số). Giá trị của m để đường thẳng (d) cắt parabol (P) tại hai điểm phân biệt có hoành độ x 1 , x 2 thỏa mãn 3x 1 + 5x 2 = 5 là",
+      "options": [
+        "A. \\(m = - \\frac{5}{{16}}.\\)",
+        "B. \\(m = \\frac{5}{{16}}.\\)",
+        "C. \\(m = - \\frac{5}{4}.\\)",
+        "D. \\(m = \\frac{5}{4}.\\)"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Gọi (x; y) là tọa độ giao điểm của đường thẳng (d) và parabol (P) nếu có. Khi đó, ta có: \\( - \\frac{1}{4}{x^2} = - \\frac{1}{2}x + m\\) hay x 2 – 2x + 4m = 0. (*) Phương trình (*) có: ∆' = (−1) 2 – 1.4m = 1 – 4m. Để đường thẳng (d) cắt parabol (P) tại hai điểm phân biệt có hoành độ x 1 , x 2 thì phương trình (*) phải có hai nghiệm phân biệt x 1 , x 2 , tức là ∆' > 0, hay 1 – 4m > 0, nên \\(m < \\frac{1}{4}.\\) Theo định lí Viète, ta có: \\(\\left\\{ \\begin{array}{l}{x_1} + {x_2} = 2\\,\\,\\,\\,\\,\\,\\,\\,\\left( 1 \\right)\\\\{x_1}{x_2} = 4m\\,\\,\\,\\,\\,\\,\\,\\,\\,\\left( 2 \\right)\\end{array} \\right..\\) Từ (1), ta có x 2 = 2 – x 1 , thay vào 3x 1 + 5x 2 = 5, ta được: 3x 1 + 5(2 – x 1 ) = 5 3x 1 + 10 – 5x 1 = 5 –2x 1 = –5 \\({x_1} = \\frac{5}{2}.\\) Khi đó, \\({x_2} = 2 - {x_1} = 2 - \\frac{5}{2} = - \\frac{1}{2}.\\) Thay \\({x_1} = \\frac{5}{2}\\) và \\({x_2} = - \\frac{1}{2}\\) vào (2), ta được: \\(\\frac{5}{2} \\cdot \\left( { - \\frac{1}{2}} \\right) = 4m\\) hay \\(4m = - \\frac{5}{4}\\) nên \\(m = - \\frac{5}{{16}}\\) (thỏa mãn \\(m < \\frac{1}{4}).\\) Vậy ta chọn phương án A. </></>"
+    }
+  ]
+}

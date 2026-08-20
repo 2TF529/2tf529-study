@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-2-de-cuong-on-tap-cuoi-ki-2-toan-11-ket-noi-tri-thuc-cau-truc-moi",
+  "sourceId": "vietjack:2-de-cuong-on-tap-cuoi-ki-2-toan-11-ket-",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "cuoiki2",
+  "year": 2026,
+  "title": "2.Đề cương ôn tập cuối kì 2 Toán 11 Kết nối tri thức cấu trúc mới có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Biết rằng \\[\\sqrt x .\\sqrt[3]{{{x^2}.\\sqrt x }} = {x^n}\\] với \\[x > 0\\]. Tìm n.",
+      "options": [
+        "A. \\[n = 2\\].",
+        "B. \\[n = \\frac{2}{3}\\].",
+        "C. \\[n = \\frac{4}{3}\\].",
+        "D. \\[n = 3\\]."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là: C Ta có: \\[\\sqrt x .\\sqrt[3]{{{x^2}.\\sqrt x }} = {x^{\\frac{1}{2}}}.\\sqrt[3]{{{x^2}.{x^{\\frac{1}{2}}}}} = {x^{\\frac{1}{2}}}.\\sqrt[3]{{{x^{\\frac{5}{2}}}}} = {x^{\\frac{1}{2}}}.{x^{\\frac{5}{6}}} = {x^{\\frac{1}{2} + \\frac{5}{6}}} = {x^{\\frac{4}{3}}}\\]."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho biểu thức \\(P = \\frac{{{a^{2 + \\sqrt 3 }}.{{\\left( {{a^{1 - \\sqrt 3 }}} \\right)}^{1 + \\sqrt 3 }}}}{{{a^{1 + \\sqrt 3 }}}}\\), với \\(a > 0\\). Mệnh đề nào sau đây là đúng?",
+      "options": [
+        "A. \\(P = {a^{\\sqrt 3 }}\\).",
+        "B. \\(P = \\frac{1}{a}\\).",
+        "C. \\(P = a\\).",
+        "D. \\(P = \\frac{1}{{{a^{\\sqrt 3 }}}}\\)."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải Đáp án đúng là: B Ta có: \\(P = \\frac{{{a^{2 + \\sqrt 3 }}.{{\\left( {{a^{1 - \\sqrt 3 }}} \\right)}^{1 + \\sqrt 3 }}}}{{{a^{1 + \\sqrt 3 }}}} = \\frac{{{a^{2 + \\sqrt 3 }}.{a^{\\left( {1 - \\sqrt 3 } \\right)\\left( {1 + \\sqrt 3 } \\right)}}}}{{{a^{1 + \\sqrt 3 }}}} = \\frac{{{a^{2 + \\sqrt 3 }}.{a^{ - 2}}}}{{{a^{1 + \\sqrt 3 }}}} = \\frac{{{a^{\\sqrt 3 }}}}{{{a^{1 + \\sqrt 3 }}}} = \\frac{1}{a}\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho \\({2^x} = 5\\). Giá trị của biểu thức \\(T = {4^{x + 1}} + {2^{2 - x}}\\) bằng:",
+      "options": [
+        "A. \\(\\frac{{504}}{5}\\).",
+        "B. \\(\\frac{{104}}{5}\\).",
+        "C. \\(\\frac{{104}}{{25}}\\).",
+        "D. \\(\\frac{{504}}{{25}}\\)."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A Ta có: .\\(T = {4^{x + 1}} + {2^{2 - x}} = {4^x}.4 + \\frac{{{2^2}}}{{{2^x}}} = {\\left( {{2^x}} \\right)^2}.4 + \\frac{4}{{{2^x}}} = {4.5^2} + \\frac{4}{5} = \\frac{{504}}{5}\\)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Một khu rừng có trữ lượng gỗ \\({4.10^5}\\)mét khối. Biết tốc độ sinh trưởng của các cây trong rừng đó là 4% mỗi năm. Hỏi sau 10 năm khu rừng đó có số mét khối gỗ gần nhất với số nào?",
+      "options": [
+        "A. \\({5,9.10^5}\\).",
+        "B. \\({5,92.10^5}\\).",
+        "C. \\({5,93.10^5}\\).",
+        "D. \\({5,94.10^5}\\)."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải Đáp án đúng là: B Số lượng gỗ sau 10 năm là : \\[{4.10^5}.{(1 + 0,04)^{10}} = 592097,714\\]."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Chị Phương Anh vay trả góp ngân hàng MSB số tiền \\[500\\] triệu đồng với lãi suất \\[10,8\\] %/năm, mỗi tháng trả \\[15\\] triệu đồng. Sau ít nhất bao nhiêu tháng thì chị Phương Anh trả hết nợ?",
+      "options": [
+        "A. \\[39\\] tháng.",
+        "B. \\[41\\] tháng.",
+        "C. \\[40\\] tháng.",
+        "D. \\[42\\] tháng."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là: C Lãi suất \\[10,8\\]%/năm nên lãi suất hàng tháng là 0,9%/tháng. Sau tháng thứ nhất số tiền còn lại là \\({T_1} = 500\\left( {1 + 0,9\\% } \\right) - 15\\). Sau tháng thứ hai số tiền còn lại là \\({T_2} = {T_1}\\left( {1 + 0,9\\% } \\right) - 15 = 500{\\left( {1 + 0,9\\% } \\right)^2} - 15\\left( {1 + 0,9\\% } \\right) - 15\\). Sau tháng thứ \\(n\\) số tiền còn lại là \\({T_n} = {T_{n - 1}}\\left( {1 + 0,9\\% } \\right) - 15\\). \\(\\begin{array}{l} = 500{\\left( {1 + 0,9\\% } \\right)^n} - 15{\\left( {1 + 0,9\\% } \\right)^{n - 1}} - 15{\\left( {1 + 0,9\\% } \\right)^{n - 2}} - ...15\\left( {1 + 0,9\\% } \\right) - 15\\\\ = 500{\\left( {1 + 0,9\\% } \\right)^n} - 15\\frac{{1 - {{\\left( {1 + 0,9\\% } \\right)}^n}}}{{1 - \\left( {1 + 0,9\\% } \\right)}}\\end{array}\\) Để \\({T_n} = 0 \\Rightarrow {\\left( {1 + 0,9\\% } \\right)^n} = \\frac{{10}}{7} \\Leftrightarrow n \\approx 39,81\\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho \\(a > 0;a \\ne 1\\). Tìm mệnh đề đúng trong các mệnh đề sau?",
+      "options": [
+        "A. \\({\\log _a}{x^n} = n{\\log _a}x\\).",
+        "B. \\({\\log _a}x\\) có nghĩa \\(\\forall x \\in \\mathbb{R}\\).",
+        "C. \\({\\log _a}a = 0\\).",
+        "D. \\({\\log _a}\\left( {x.y} \\right) = {\\log _a}x.{\\log _a}y;\\forall x > 0\\)."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A \\({\\log _a}x\\) có nghĩa \\(\\forall x > 0\\) \\( \\Rightarrow \\) câu B sai \\({\\log _a}a = 1\\) \\( \\Rightarrow \\) câu C sai. \\({\\log _a}\\left( {x.y} \\right) = {\\log _a}x + {\\log _a}y;\\forall x,y > 0\\) \\( \\Rightarrow \\) câu D sai."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Cho \\(a\\) là số thực dương bất kì. Tìm khẳng định đúng trong các khẳng định sau:",
+      "options": [
+        "A. \\(\\log {a^3} = \\frac{1}{3}\\log a\\).",
+        "B. \\(\\log \\left( {3a} \\right) = 3\\log a\\).",
+        "C. \\(\\log \\left( {3a} \\right) = \\frac{1}{3}\\log a\\).",
+        "D. \\(\\log {a^3} = 3\\log a\\)."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải Đáp án đúng là: D \\(\\log {a^3} = 3\\log a \\Rightarrow \\)A sai, D đúng. \\(\\log (3a) = \\log 3 + \\log a \\Rightarrow \\)B,C sai."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho \\(a,b > 0\\), \\(a \\ne 1\\) thỏa \\({\\log _a}b = 3\\). Tính \\(P = {\\log _{{a^2}}}{b^3}\\).",
+      "options": [
+        "A. \\(P = 18\\).",
+        "B. \\(P = 2\\).",
+        "C. \\(P = \\frac{9}{2}\\).",
+        "D. \\(P = \\frac{1}{2}\\)."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là: C Vì \\(a,b > 0\\) nên ta có: \\(P = \\frac{3}{2}{\\log _a}b = \\frac{3}{2}.3 = \\frac{9}{2}\\)."
+    }
+  ]
+}

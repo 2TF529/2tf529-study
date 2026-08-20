@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-12-ket-noi-tri-thuc-thuc-hanh-trai-n",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-12-ket-noi-",
+  "grade": "l12",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 12 Kết nối tri thức Thực hành trải nghiệm trích rút thông tin và tri thức có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Câu 1: Khi chuẩn bị dữ liệu với Power Query, bước đầu tiên là gì?",
+      "options": [
+        "A. Tạo cột mới cho mức thu nhập",
+        "B. Tải dữ liệu từ trang web và lưu vào Excel",
+        "C. Thay đổi tên bảng dữ liệu",
+        "D. Chạy các thuật toán phân tích dữ liệu"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Bước đầu tiên trong việc chuẩn bị dữ liệu với Power Query là tải dữ liệu từ trang web và lưu vào Excel để có thể thực hiện các thao tác xử lý tiếp theo."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Để phân loại mức thu nhập thành các nhóm như Thấp, Trung bình, Khá, Cao, bạn nên sử dụng công cụ nào trong Power Query?",
+      "options": [
+        "A. PivotTable",
+        "B. Conditional Column",
+        "C. Filter",
+        "D. Group By"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Trong Power Query, bạn sử dụng công cụ Conditional Column để phân loại các giá trị trong cột thành các nhóm khác nhau như Thấp, Trung bình, Khá, Cao."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Khi tạo bảng tổng hợp (PivotTable) để tổng hợp dữ liệu, bạn nên kéo cột nào vào vùng Rows?",
+      "options": [
+        "A. Khả năng tín dụng",
+        "B. Mức thu nhập",
+        "C. Số tuổi",
+        "D. Mã định danh"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Khi tạo bảng tổng hợp để tổng hợp dữ liệu, bạn thường kéo cột như Mức thu nhập vào vùng Rows để phân tích số lượng hoặc tỷ lệ phần trăm của từng nhóm thu nhập."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Để thay đổi trình tự sắp xếp của cột Khả năng tín dụng theo thứ tự mong muốn, bạn cần thực hiện bước nào?",
+      "options": [
+        "A. Thay đổi kiểu dữ liệu của cột",
+        "B. Tạo danh sách mới trong General Custom Lists",
+        "C. Áp dụng công thức tính toán",
+        "D. Xóa các giá trị không cần thiết"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Để thay đổi trình tự sắp xếp của cột Khả năng tín dụng, bạn cần tạo danh sách mới trong mục General Custom Lists để xác định thứ tự sắp xếp theo mong muốn."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Khi điều chỉnh bảng tổng hợp (PivotTable) để tính toán tỉ lệ phần trăm, bạn cần thực hiện thao tác nào?",
+      "options": [
+        "A. Chọn Show Values As → % of Row Total",
+        "B. B . Chọn Filter → Percentage",
+        "C. Thay đổi cột giá trị sang tỉ lệ phần trăm",
+        "D. Sắp xếp lại dữ liệu theo thứ tự giảm dần"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Để tính toán tỉ lệ phần trăm trong bảng tổng hợp, bạn chọn Show Values As → % of Row Total để chuyển đổi số lượng khách hàng thành tỉ lệ phần trăm so với tổng số khách hàng của mỗi hàng."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong nhiệm vụ tổng hợp dữ liệu bằng PivotTable, vùng Values dùng để làm gì?",
+      "options": [
+        "A. Hiển thị tiêu đề của dữ liệu",
+        "B. Tính toán tổng hợp các giá trị dữ liệu",
+        "C. Lọc dữ liệu theo các tiêu chí",
+        "D. Tạo các cột dữ liệu mới"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Vùng Values trong PivotTable được sử dụng để tính toán tổng hợp các giá trị dữ liệu, chẳng hạn như tính tổng, số lượng hoặc trung bình của các giá trị trong bảng."
+    }
+  ]
+}

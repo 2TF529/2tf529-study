@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-10-canh-dieu-chuong-trinh-con-va-thu",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-10-canh-die",
+  "grade": "l10",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 10 Cánh diều Chương trình con và thư viện các chương trình con có sẵn có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Hàm trong Python được khai báo theo mẫu:",
+      "options": [
+        "A. def tên_hàm(tham số): Các lệnh mô tả hàm",
+        "B. def tên_hàm(tham số) Các lệnh mô tả hàm",
+        "C. def tên_hàm() Các lệnh mô tả hàm",
+        "D. def (tham số): Các lệnh mô tả hàm"
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A Hàm trong Python được khai báo theo mẫu: def tên_hàm(tham số): Các lệnh mô tả hàm"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: “Các lệnh mô tả hàm” phải viết:",
+      "options": [
+        "A. Thẳng hàng với lệnh def.",
+        "B. Lùi vào theo quy định của Python.",
+        "C. Ngay sau dấu hai chấm (:) và không xuống dòng.",
+        "D. Viết thành khối và không được lùi vào."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Các lệnh mô tả hàm phải viết lùi vào theo quy định của Python."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Phát biểu nào sau đây là sai ?",
+      "options": [
+        "A. Tên hàm do người lập trình đặt không cần theo quy tắc.",
+        "B. Chương trình con là một đoạn câu lệnh thực hiện một việc nào đó được đặt tên.",
+        "C. Muốn xây dựng hàm trả về giá trị xử lí, cần kết thúc hàm bằng câu lệnh return cùng với biểu thức hay biến chứa giá trị trả về.",
+        "D. Các lệnh mô tả hàm phải viết lùi vào theo quy định của Python."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Tên hàm phải đặt theo quy tắc đặt tên trong Python."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Thư viện math cung cấp:",
+      "options": [
+        "A. Thủ tục vào ra của chương trình.",
+        "B. Hỗ trợ việc tạo ra các lựa chọn ngẫu nhiên",
+        "C. Các hằng và hàm toán học.",
+        "D. Hỗ trợ trực tiếp các định dạng nén và lưu trữ dữ liệu"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Thư viện math cung cấp các hằng và hàm toán học như: sqrt(), gcd()"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho đoạn chương trình sau: def t(a1,b1): s=a1*b1 a,b=map(int,input().split()) print(t(a,b)) Lỗi sai trong đoạn chương trình trên là:",
+      "options": [
+        "A. Thiếu lời gọi hàm.",
+        "B. Thiếu dấu ’:’ cuối dòng đầu tiên của định nghĩa hàm.",
+        "C. Thiếu tham số hình thức.",
+        "D. Thiếu lệnh return giá trị cần trả về ở cuối thân hàm."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Muốn xây dựng hàm trả về giá trị xử lí, cần kết thúc hàm bằng câu lệnh return cùng với biểu thức hay biến chứa giá trị trả về."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho đoạn chương trình sau: def t(a1,b1): s=abs(a1-b1) return s a,b=map(int,input().split()) print(t(a,b)) Với a=2, b=4, sau khi thực hiện chương trình trên cho kết quả bằng:",
+      "options": [
+        "A. -2",
+        "B. 4",
+        "C. 2",
+        "D. 6"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Vì hàm t(a,b) có tác dụng tính trị tuyệt đối của hiệu a và b."
+    }
+  ]
+}

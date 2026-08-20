@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-4-10-bai-tap-su-dung-so-do-hinh-cay-co-loi-giai",
+  "sourceId": "vietjack:4-10-bai-tap-su-dung-so-do-hinh-cay-co-l",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "4.10 Bài tập Sử dụng sơ đồ hình cây (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Có ba chiếc hộp. Hộp I có chứa ba viên bi: 1 viên màu đỏ, 1 viên màu xanh và 1 viên màu vàng. Hộp II chứa hai viên bi: 1 viên màu xanh và 1 viên màu vàng. Hộp III chứa hai viên bi: 1 viên màu đỏ và 1 viên màu xanh. Từ mỗi hộp ta lấy ngẫu nhiên một viên bi. Xác suất để trong ba viên bi lấy ra có đúng một viên bi màu xanh là",
+      "options": [
+        "A. 5 12",
+        "B. 5 6",
+        "C. 1 6",
+        "D. 1 12"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Kí hiệu Đ, X, V tương ứng là viên bi màu đỏ, màu xanh và màu vàng. Các kết quả có thể là: {ĐXĐ; ĐXX; ĐVĐ; ĐVX; XXĐ; XXX; XVĐ; XVX; VXĐ; VXX; VVĐ; VVX}. Do đó, n(Ω) = 12. Gọi biến cố A: “Ba viên bi lấy ra có đúng một viên bi màu xanh”. A = {ĐXĐ; ĐVX; XVĐ; VXĐ; VVX}. Suy ra, n(A) = 5. Vậy P A = n A n Ω = 5 12 ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Chọn ngẫu nhiên một gia đình có ba con và quan sát giới tính của ba người con này. Xác suất để có đúng 2 con gái là",
+      "options": [
+        "A. 1 4",
+        "B. 1 2",
+        "C. 7 8",
+        "D. 3 8"
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Các trường hợp có thể xảy đối với một gia đình 3 con có thể mô tả bằng sơ đồ dưới đây: Theo sơ đồ trên ta thấy có 8 trường hợp có thể xảy ra. Do đó, n(Ω) = 8. Gọi A: “3 con chỉ có đúng 2 con gái” A = {GGT; GTG; TGG}. Suy ra, n(A) = 3. Vậy P A = n A n Ω = 3 8 ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Chọn ngẫu nhiên một gia đình có ba con và quan sát giới tính của ba người con này. Xác suất để không có con trai là",
+      "options": [
+        "A. 1 4",
+        "B. 1 8",
+        "C. 7 8",
+        "D. 3 8"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Các trường hợp có thể xảy đối với một gia đình 3 con có thể mô tả bằng sơ đồ dưới đây: Theo sơ đồ trên ta thấy có 8 trường hợp có thể xảy ra. Do đó, n(Ω) = 8. Gọi biến cố A: “Không có con trai”. A = {GGG}. Suy ra, n(A) = 1. Vậy P A = n A n Ω = 1 8 ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Tung một đồng xu cân đối và đồng chất 3 lần liên tiếp. Xác suất của biến cố A: “Trong 3 lần tung có 2 lần xuất hiện mặt ngửa” là",
+      "options": [
+        "A. 1 4",
+        "B. 1 8",
+        "C. 1 6",
+        "D. 3 8"
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Kí hiệu S nếu tung đồng xu được mặt sấp, N nếu tung đồng xu được mặt ngửa. Các kết quả có thể xảy ra trong 3 lần tung được thể hiện trong sơ đồ hình cây dưới đây: Có tất cả 8 kết quả xảy ra, trong đó có 3 kết quả thuận lợi cho biến cố A là: SNN; NSN; NNS. Vậy P A = n A n Ω = 3 8 ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Gieo liên tiếp một đồng xu cân đối và một con xúc xắc cân đối. Xác suất đồng xu xuất hiện mặt ngửa là",
+      "options": [
+        "A. 1 4",
+        "B. 1 2",
+        "C. 1 6",
+        "D. 5 12"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Đồng xu và con xúc xắc cân đối nên các kết quả xảy ra có thể đồng khả năng. Gieo một con xúc xắc, các kết quả có thể xảy ra là: 1, 2, 3, 4, 5, 6 chấm. Gieo một đồng xu, các kết quả có thể xảy ra là xuất hiện mặt sấp hoặc mặt ngửa. Kí hiệu S là mặt sấp, N là mặt ngửa. Sơ đồ hình cây mô tả các phần tử của không gian mẫu là: Ω = {S1; S2; S3; S4; S5; S6; N1; N2; N3; N4; N5; N6}. Do đó, n(Ω) = 12. Gọi biến cố A: “Đồng xu xuất hiện mặt ngửa”. Các kết quả thuận lợi cho biến cố A là: {N1; N2; N3; N4; N5; N6}. Suy ra n(A) = 6. Vậy P A = n A n Ω = 6 12 = 1 2 ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Gieo liên tiếp một đồng xu cân đối và một con xúc xắc cân đối. Xác suất đồng xu xuất hiện mặt sấp hoặc số chấm xuất hiện trên con xúc xắc là 5 là",
+      "options": [
+        "A. 1 2",
+        "B. 1 6",
+        "C. 5 12",
+        "D. 7 12"
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Đồng xu và con xúc xắc cân đối nên các kết quả xảy ra có thể đồng khả năng. Gieo một con xúc xắc, các kết quả có thể xảy ra là: 1, 2, 3, 4, 5, 6 chấm. Gieo một đồng xu, các kết quả có thể xảy ra là xuất hiện mặt sấp hoặc mặt ngửa. Kí hiệu S là mặt sấp, N là mặt ngửa. Sơ đồ hình cây mô tả các phần tử của không gian mẫu là: Ω = {S1; S2; S3; S4; S5; S6; N1; N2; N3; N4; N5; N6}. Do đó, n(Ω) = 12. Gọi biến cố A: “ đồng xu xuất hiện mặt sấp hoặc số chấm xuất hiện trên con xúc xắc là 5 ”. Các kết quả thuận lợi cho biến cố A là: {S1; S2; S3; S4; S5; S6; N5} Suy ra n(A) = 7. Vậy . P A = n A n Ω = 7 12"
+    }
+  ]
+}

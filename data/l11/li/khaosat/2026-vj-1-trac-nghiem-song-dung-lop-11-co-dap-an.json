@@ -1,0 +1,78 @@
+{
+  "id": "2026-vj-1-trac-nghiem-song-dung-lop-11-co-dap-an",
+  "sourceId": "vietjack:1-trac-nghiem-song-dung-lop-11-co-dap-an",
+  "grade": "l11",
+  "subjectSlug": "li",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.Trắc nghiệm Sóng dừng lớp 11 (có đáp án)",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Phát biểu nào sau đây không đúng khi nói về sóng dừng?",
+      "options": [
+        "A. Các điểm nằm trên một bụng thì dao động cùng pha.",
+        "B. Trong sóng dừng có sự truyền pha từ điểm này sang điểm khác.",
+        "C. Điểm bụng là điểm mà sóng tới và sóng phản xạ cùng pha.",
+        "D. Điểm nút là điểm mà sóng tới và sóng phản xạ ngược pha."
+      ],
+      "answer": "B",
+      "note": "A – Đúng B – Sai, vì trong sóng dừng không có sự truyền pha. C – Đúng D – Đúng Đáp án đúng là B."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Chọn câu đúng . Tại điểm phản xạ thì sóng phản xạ",
+      "options": [
+        "A. cùng pha với sóng tới nếu vật cản là cố định.",
+        "B. ngược pha với sóng tới nếu vật cản là cố định.",
+        "C. luôn cùng pha với sóng tới.",
+        "D. luôn ngược pha với sóng tới."
+      ],
+      "answer": "B",
+      "note": "Tại điểm phản xạ thì sóng phản xạ ngược pha với sóng tới nếu vật cản là cố định. Đáp án đúng là B."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Sóng dừng trên một sợi dây đàn hồi hai đầu cố định. Hai điểm A và B trên dây cách nhau 1m là hai nút. Biết tần số sóng khoảng từ 300 Hz đến 450 Hz. Tốc độ truyền dao động là 320 m/s. Tần số của sóng trên dây là",
+      "options": [
+        "A. 320 Hz.",
+        "B. 400 Hz.",
+        "C. 160 Hz.",
+        "D. 100 Hz."
+      ],
+      "answer": "A",
+      "note": "Tần số để xảy ra sóng dừng trên một sợi dây đàn hồi hai đầu cố định thỏa mãn điều kiện: f = n . v 2 l = n .320 2 = n .160 H z Vì 300 ≤ f ≤ 450 nên 1,875 ≤ f ≤ 2,8 ⇒ n = 2 ⇒ f = 320 H z Đáp án đúng là A."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Trên sợi dây đàn hồi AB đang có sóng dừng với hai đầu dây cố định, tần số thay đổi được, chiều dài dây không đổi, coi tốc độ truyền sóng luôn không đổi. Khi tần số bằng f thì trên dây có ba bụng sóng. Tăng tần số thêm 20 Hz thì trên dây có năm bụng sóng. Để trên dây có bảy bụng sóng thì cần tiếp tục tăng tần số thêm",
+      "options": [
+        "A. 5 Hz.",
+        "B. 10 Hz.",
+        "C. 15 Hz.",
+        "D. 20 Hz."
+      ],
+      "answer": "D",
+      "note": "Theo đề bài: Trên dây có 3 bụng sóng ⇒ k = 3 l = 3. v 2 f = 5. v 2 ( f + 20 ) = 7. v 2 ( f + 20 + Δ f ) ⇒ v l = f + 20 + Δ f 3,5 = f + 20 2,5 = f 1,5 = f + 20 − f 2,5 − 1,5 = 20 ⇒ f = 30 ( H z ) Δ f = 20 ( H z ) Đáp án đúng là D."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Một sợi dây đàn hồi dài 30 cm có hai đầu cố định. Trên dây đang có sóng dừng. Biết sóng truyền trên dây với bước sóng 20 cm và biên độ dao động của điểm bụng là 2 cm. Số điểm trên dây mà phần tử tại đó dao động với biên độ 6 mm là",
+      "options": [
+        "A. 5",
+        "B. 6",
+        "C. 7",
+        "D. 8"
+      ],
+      "answer": "B",
+      "note": "Dây hai đầu cố dịnh đang có sóng dừng nên l = n . λ 2 (n là số bó sóng). l = 30 c m , λ = 20 c m ⇒ n = 3 Ta nhận thấy trên một bó sóng có 2 điểm dao động với cùng biên độ 6mm nên trên dây có 3.2 = 6 điểm mà phần tử tại đó dao động với biên độ bằng 6mm. Đáp án đúng là B."
+    }
+  ]
+}

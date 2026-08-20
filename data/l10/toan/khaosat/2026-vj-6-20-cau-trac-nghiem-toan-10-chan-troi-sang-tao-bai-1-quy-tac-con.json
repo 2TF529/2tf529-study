@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-6-20-cau-trac-nghiem-toan-10-chan-troi-sang-tao-bai-1-quy-tac-con",
+  "sourceId": "vietjack:6-20-cau-trac-nghiem-toan-10-chan-troi-s",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "6.20 câu trắc nghiệm Toán 10 Chân trời sáng tạo Bài 1. Quy tắc cộng và quy tắc nhân (Đúng sai - Trả lời ngắn) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Số các số tự nhiên chẵn có ba chữ số, các chữ số đôi một khác nhau, được tạo thành từ các chữ số 1; 2; 3; 4; 5; 6; 7; 8; 9 là",
+      "options": [
+        "A. \\(224\\) .",
+        "B. \\(280\\) .",
+        "C. \\(324\\) .",
+        "D. Không số nào trong các số đó."
+      ],
+      "answer": "A",
+      "note": "Gọi số cần tìm là \\(\\overline {abc} \\) . Có 4 cách chọn \\(c\\) , có 8 cách chọn \\(a\\) và 7 cách chọn \\(b\\) . Do đó có \\(4 \\cdot 8 \\cdot 7 = 224\\) số tự nhiên chẵn có ba chữ số, các chữ số đôi một khác nhau. Chọn A ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Một lớp có 20 học sinh nữ, 15 học sinh nam. Thầy giáo dạy toán cần chọn một học sinh lên bảng thực hiện bài tập. Hỏi thầy có bao nhiêu cách chọn?",
+      "options": [
+        "A. \\(20\\) .",
+        "B. \\(35\\) .",
+        "C. \\(300\\) .",
+        "D. \\(15\\) ."
+      ],
+      "answer": "B",
+      "note": "Thầy giáo có \\(20 + 15 = 35\\) cách chọn học sinh lên bảng. Chọn B ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trong tủ lạnh nhà Minh có 20 hộp sữa và 15 cái bánh quy, trong đó có 12 hộp sữa hương dâu và 8 hộp sữa socola, 8 cái bánh quy hương socola và 7 cái bánh quy hương dâu. Bạn An đang cần lựa 1 món bánh socola và 1 hộp sữa dâu để ăn. Hỏi Minh có bao nhiêu cách chọn?",
+      "options": [
+        "A. \\(96\\) .",
+        "B. \\(84\\) .",
+        "C. \\(15\\) .",
+        "D. \\(35\\) ."
+      ],
+      "answer": "A",
+      "note": "Bạn Minh có \\(8 \\cdot 12 = 96\\) cách chọn. Chọn A ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Một trường THPT có 11 lớp 12, 10 lớp 11 và 12 lớp 10. Thầy hiệu trưởng muốn chọn một lớp để dự giờ. Hỏi có tất cả bao nhiêu cách chọn?",
+      "options": [
+        "A. \\(3\\) .",
+        "B. \\(33\\) .",
+        "C. \\(11\\) .",
+        "D. \\(10\\) ."
+      ],
+      "answer": "B",
+      "note": "Thầy hiệu trưởng có \\(11 + 10 + 12 = 33\\) cách chọn 1 lớp để dự giờ. Chọn B ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Có 10 cái bút khác nhau và 8 quyển sách giáo khoa khác nhau. Một bạn học sinh cần chọn 1 cái bút và 1 quyển sách. Hỏi bạn học sinh đó có bao nhiêu cách chọn?",
+      "options": [
+        "A. \\(80\\) .",
+        "B. \\(60\\) .",
+        "C. \\(90\\) .",
+        "D. \\(70\\) ."
+      ],
+      "answer": "A",
+      "note": "Bạn học sinh đó có \\(10 \\cdot 8 = 80\\) cách chọn. Chọn A ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong một hộp có 4 cây bút xanh, 5 cây bút đỏ và 6 cây bút đen. Hỏi có bao nhiêu cách để lấy một cây bút từ hộp?",
+      "options": [
+        "A. \\(120\\) .",
+        "B. \\(15\\) .",
+        "C. \\(5\\) .",
+        "D. \\(9\\) ."
+      ],
+      "answer": "B",
+      "note": "Có \\(4 + 5 + 6 = 15\\) cách lấy một cây bút từ hộp. Chọn B ."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Từ Vũng Tàu đến Thành phố Hồ Chí Minh có thể di chuyển bằng ba loại phương tiện: xe máy; xe khách và tàu thủy. Từ Thành phố Hồ Chí Minh đi Đà Lạt có thể di chuyển bằng hai phương tiện: Xe khách hoặc máy bay. Hỏi có bao nhiêu cách lựa chọn phương tiện từ Vũng Tàu đến Đà Lạt mà phải qua Thành phố Hồ Chí Minh?",
+      "options": [
+        "A. \\(6\\) .",
+        "B. \\(5\\) .",
+        "C. \\(4\\) .",
+        "D. \\(3\\) ."
+      ],
+      "answer": "A",
+      "note": "Có \\(3 \\cdot 2 = 6\\) cách lựa chọn phương tiện từ Vũng Tàu đến Đà Lạt mà phải qua Thành phố Hồ Chí Minh. Chọn A ."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Số cách cắm 4 bông hoa khác nhau vào 4 bình hoa khác nhau (mỗi bông hoa cắm vào một bình) là",
+      "options": [
+        "A. \\(16\\) .",
+        "B. \\(24\\) .",
+        "C. \\(8\\) .",
+        "D. \\(4\\) ."
+      ],
+      "answer": "A",
+      "note": "Có \\(4 \\cdot 4 = 16\\) cách. Chọn A ."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-4-10-bai-tap-xac-dinh-hieu-cua-hai-tap-hop-phan-bu-cua-tap-con-co",
+  "sourceId": "vietjack:4-10-bai-tap-xac-dinh-hieu-cua-hai-tap-h",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "4.10 Bài tập Xác định hiệu của hai tập hợp, phần bù của tập con (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho tập hợp K = [1 ; 7) \\ (– 3 ; 5). Khẳng định nào sau đây đúng ?",
+      "options": [
+        "A. K = [1; 7);",
+        "B. K = ( – 3; 7) ;",
+        "C. K = [1; 5);",
+        "D. K = [5; 7)."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D. Tập hợp K là tập hợp các phần tử thuộc [1; 7) nhưng không thuộc (– 3; 5). Ta xác định tập hợp K bằng cách vẽ trục số như sau: Trên cùng một trục số, tô đậm khoảng [1; 7) và gạch bỏ khoảng (–3; 5), sau đó bỏ luôn các khoảng chưa được tô hoặc đánh dấu. Phần tô đậm không bị gạch bỏ chính là tập hợp K. Vậy K = [1 ; 7) \\ (– 3 ; 5) = [5 ; 7)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho các tập hợp: A = {x ∈ ℤ | –1 < x < 6}; B = {x ∈ ℤ | 0 ≤ x ≤ 1}. Xác định A \\ B. Câu nào sau đây đúng?",
+      "options": [
+        "A. A \\ B = {2; 3; 4};",
+        "B. A \\ B = {2; 3; 4; 5};",
+        "C. A \\ B = {2; 3};",
+        "D. A \\ B = {3; 4; 5}."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B. Ta có: + Các phần tử của tập hợp A là 0; 1; 2; 3; 4; 5. ⇒ A = {0; 1; 2; 3; 4; 5}. + Các phần tử của tập hợp B là 0; 1. ⇒ B = {0; 1}. Các phần tử thuộc A mà không thuộc B là 2; 3; 4; 5. Vậy A \\ B = {2; 3; 4; 5}."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho các tập hợp: A = {x ∈ ℤ | –6 ≤ x ≤ 0}; B = {x ∈ ℤ | –1 ≤ x ≤ 0}. Xác định C A B. Câu nào sau đây đúng?",
+      "options": [
+        "A. C A B = {–6; –5; –4; –3; –2};",
+        "B. C A B = {–5; –4; –3; –2};",
+        "C. C A B = {–6; –5; –4; –3};",
+        "D. C A B = {–6; –5; –4; –3; –2; –1}."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A. Ta có: + Các phần tử của tập hợp A là –6; –5; –4; –3; –2; –1; 0. ⇒ A = {–6; –5; –4; –3; –2; –1; 0}. + Các phần tử của tập hợp B là –1; 0. ⇒ B = {–1; 0}. Ta thấy B là tập con của A. Do đó tập hợp C A B cũng là hiệu của A và B. Các phần tử thuộc A mà không thuộc B là –6; –5; –4; –3; –2. Vậy C A B = A \\ B = {–6; –5; –4; –3; –2}."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho các tập hợp: A = {x ∈ ℤ | –1 ≤ x ≤ 2}; B = {x ∈ ℤ | –4 ≤ x ≤ 4}. Xác định C B A. Câu nào sau đây đúng?",
+      "options": [
+        "A. C B A = {–3; –2; 3; 4};",
+        "B. C B A = {–4; –3; –2; 3};",
+        "C. C B A = {–4; –3; –2; 3; 4};",
+        "D. C B A = {–4; –3; –2; –1; 3; 4}."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C. Ta có: + Các phần tử của tập hợp A là –1; 0; 1; 2. ⇒ A = {–1; 0; 1; 2}. + Các phần tử của tập hợp B là –4; –3; –2; –1; 0; 1; 2; 3; 4. ⇒ B = {–4; –3; –2; –1; 0; 1; 2; 3; 4}. Ta thấy A là tập con của B. Do đó tập hợp C B A cũng là hiệu của B và A. Các phần tử thuộc B mà không thuộc A là –4; –3; –2; 3; 4. Vậy C B A = B \\ A = {–4; –3; –2; 3; 4}."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho các tập hợp: A = {x ∈ ℤ | –2 < x ≤ 4}; B = {x ∈ ℤ | 1 ≤ x ≤ 7}. Xác định tập hợp X = (A \\ B) ∪ (B \\ A). Câu nào sau đây đúng?",
+      "options": [
+        "A. X = {0; 5; 6; 7};",
+        "B. X = {–1; 0; 5; 6};",
+        "C. X = {–1; 0; 5};",
+        "D. X = {–1; 0; 5; 6; 7}."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D. Ta có: + Các phần tử của tập hợp A là –1; 0; 1; 2; 3; 4. ⇒ A = {–1; 0; 1; 2; 3; 4}. + Các phần tử của tập hợp B là 1; 2; 3; 4; 5; 6; 7. ⇒ B = {1; 2; 3; 4; 5; 6; 7}. – Các phần tử thuộc A mà không thuộc B là –1; 0. ⇒ A \\ B = {–1; 0}. – Các phần tử thuộc B mà không thuộc A là 5; 6; 7. ⇒ B \\ A = {5; 6; 7}. Hợp của hai tập hợp là tập hợp các phần tử thuộc tập hợp này hoặc tập hợp kia nên ta có các phần tử của tập hợp X là –1; 0; 5; 6; 7. Vậy X = (A \\ B) ∪ (B \\ A) = {–1; 0; 5; 6; 7}."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho các tập hợp: A = {x ∈ ℤ | –3 < x < 3}; B = {x ∈ ℤ | 0 ≤ x ≤ 5}. Xác định tập hợp M = (A \\ B) ∩ (B \\ A). Câu nào sau đây đúng?",
+      "options": [
+        "A. M = {–2; –1};",
+        "B. M = ∅ ;",
+        "C. M = {3; 4; 5};",
+        "D. M = {–2; –1; 3; 4; 5}."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B. Ta có: + Các phần tử của tập hợp A là –2; –1; 0; 1; 2. ⇒ A = {–2; –1; 0; 1; 2}. + Các phần tử của tập hợp B là 0; 1; 2; 3; 4; 5. ⇒ B = {0; 1; 2; 3; 4; 5}. – Các phần tử thuộc A mà không thuộc B là –2; –1. ⇒ A \\ B = {–2; –1}. – Các phần tử thuộc B mà không thuộc A là 3; 4; 5. ⇒ B \\ A = {3; 4; 5}. Giao của hai tập hợp là tập hợp các phần tử thuộc tập hợp này cũng thuộc tập hợp kia, mà hai tập hợp A \\ B và B \\ A không có phần tử nào chung. Vậy M = (A \\ B) ∩ (B \\ A) = ∅ ."
+    }
+  ]
+}

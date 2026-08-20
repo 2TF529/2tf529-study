@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-trac-nghiem-tich-cua-vecto-voi-mot-so-lop-10-co-dap-an",
+  "sourceId": "vietjack:1-trac-nghiem-tich-cua-vecto-voi-mot-so-",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.Trắc nghiệm Tích của vectơ với một số lớp 10 (có đáp án)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho vectơ \\(\\overrightarrow a \\ne \\overrightarrow 0 \\) với số thực k như thế nào thì vectơ \\(k\\overrightarrow a \\) ngược hướng với vectơ \\(\\overrightarrow a \\) .",
+      "options": [
+        "A. k = 1;",
+        "B. k = 0;",
+        "C. k < 0;",
+        "D. k > 0."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là C Tích của một vectơ \\(\\overrightarrow a \\ne \\overrightarrow 0 \\) với số thực k < 0 là một vec tơ kí hiệu \\(k\\overrightarrow a \\) ngược hướng với vectơ \\(\\overrightarrow a \\) ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho vectơ \\(\\overrightarrow a \\) , \\(\\overrightarrow b \\) và hai số thực k, t. Khẳng định nào sau đây là sai ?",
+      "options": [
+        "A. k(t \\(\\overrightarrow a \\) ) = (kt) \\(\\overrightarrow a \\) ;",
+        "B. (k + t) \\(\\overrightarrow a \\) = k \\(\\overrightarrow a \\) + t \\(\\overrightarrow b \\) ;",
+        "C. k \\(\\left( {\\overrightarrow a + \\overrightarrow b } \\right)\\) = k \\(\\overrightarrow a \\) + k \\(\\overrightarrow b \\) ;",
+        "D. (-1) \\(\\overrightarrow a \\) = - \\(\\overrightarrow a \\) ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là B Ta có (k + t) \\(\\overrightarrow a \\) = k \\(\\overrightarrow a \\) + t \\(\\overrightarrow a \\) . Do đó B sai."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho ba điểm A, B, C phân biệt sao cho \\(\\overrightarrow {AB} = k\\overrightarrow {AC} \\) .Biết rằng C là trung điểm đoạn thẳng AB. Giá trị k thỏa mãn điều kiện nào sau đây?",
+      "options": [
+        "A. k < 0",
+        "B. k = 1",
+        "C. 0 < k < 1",
+        "D. k > 1"
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là D Vì C là trung điểm của đoạn thẳng AB nên AC = 2AB. Ta có \\(\\overrightarrow {AC} ,\\overrightarrow {AB} \\) là hai vectơ cùng hướng nên \\(\\overrightarrow {AC} = 2\\overrightarrow {AB} \\) . Suy ra k = 2 > 1. Vậy k thỏa mãn điều kiện k > 1."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hai điểm phân biệt A và B. Xác định ví trí điểm K thỏa mãn \\(\\overrightarrow {KA} + 2\\overrightarrow {KB} = \\overrightarrow 0 \\) .",
+      "options": [
+        "A. K là trung điểm của AB",
+        "B. K là điểm nằm giữa I và A thỏa mãn IK = \\(\\frac{1}{3}\\) IB với I là trung điểm của AB.",
+        "C. K là điểm nằm giữa I và B thỏa mãn IK = \\(\\frac{1}{3}\\) IB với I là trung điểm của AB.",
+        "D. K là điểm nằm giữa I và A thỏa mãn IK = \\(\\frac{1}{3}\\) IA với I là trung điểm của AB."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là C Gọi I là trung điểm của đoạn thẳng AB. Khi đó \\(\\overrightarrow {IA} + \\overrightarrow {IB} = \\overrightarrow 0 \\) Xét đẳng thức: \\(\\overrightarrow {KA} + 2\\overrightarrow {KB} = \\overrightarrow 0 \\) \\( \\Leftrightarrow \\overrightarrow {KI} + \\overrightarrow {IA} + 2\\left( {\\overrightarrow {KI} + \\overrightarrow {IB} } \\right) = \\overrightarrow 0 \\) \\( \\Leftrightarrow 3\\overrightarrow {KI} + \\overrightarrow {IA} + 2\\overrightarrow {IB} = \\overrightarrow 0 \\) \\( \\Leftrightarrow 3\\overrightarrow {KI} + \\left( {\\overrightarrow {IA} + \\overrightarrow {IB} } \\right) + \\overrightarrow {IB} = \\overrightarrow 0 \\) \\( \\Leftrightarrow 3\\overrightarrow {KI} + \\overrightarrow 0 + \\overrightarrow {IB} = \\overrightarrow 0 \\) \\( \\Leftrightarrow \\overrightarrow {KI} = - \\frac{1}{3}\\overrightarrow {IB} \\) hay \\(\\overrightarrow {IK} = \\frac{1}{3}\\overrightarrow {IB} \\) Vì vậy điểm K là điểm nằm giữa I và B thỏa mãn \\(IK = \\frac{1}{3}IB\\) ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho tam giác ABC có đường trung tuyến AM. Khi đó \\(\\overrightarrow {AM} = a\\overrightarrow {AB} + b\\overrightarrow {AC} \\) . Tính S = a + 2b.",
+      "options": [
+        "A. 1;",
+        "B. 2;",
+        "C. \\(\\frac{1}{2}\\) ;",
+        "D. \\(\\frac{3}{2}.\\)"
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là D Ta có: \\(\\overrightarrow {AB} + \\overrightarrow {AC} = 2\\overrightarrow {AM} \\) ⇔ \\(\\overrightarrow {AM} = \\frac{1}{2}\\overrightarrow {AB} + \\frac{1}{2}\\overrightarrow {AC} \\) ⇒ a = \\(\\frac{1}{2}\\) , b = \\(\\frac{1}{2}\\) . ⇒ S = a + 2b = \\(\\frac{1}{2}\\) + 2. \\(\\frac{1}{2}\\) = \\(\\frac{1}{2}\\) + 1 = \\(\\frac{3}{2}\\) . Vậy S = \\(\\frac{3}{2}\\) ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Các tam giác ABC có trọng tâm G; M, N lần lượt là trung điểm của BC và AB. Biểu thị \\(\\overrightarrow {MG} \\) thông qua hai vec tơ \\(\\overrightarrow {AB} ,\\overrightarrow {AC} \\) .",
+      "options": [
+        "A. \\(\\overrightarrow {NG} = - \\frac{1}{6}\\overrightarrow {AC} + \\frac{1}{3}\\overrightarrow {AB} \\) ;",
+        "B. \\(\\overrightarrow {NG} = - \\frac{1}{6}\\overrightarrow {AB} + \\frac{1}{3}\\overrightarrow {AC} \\) ;",
+        "C. \\(\\overrightarrow {NG} = - \\frac{1}{6}\\overrightarrow {AB} + \\frac{1}{6}\\overrightarrow {AC} \\) ;",
+        "D. \\(\\overrightarrow {NG} = - \\frac{1}{6}\\overrightarrow {AC} + \\frac{2}{3}\\overrightarrow {AB} \\) ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là B Ta có: \\[\\overrightarrow {NG} = \\overrightarrow {AG} - \\overrightarrow {AN} = \\frac{2}{3}\\overrightarrow {AM} - \\frac{1}{2}\\overrightarrow {AB} \\] \\[ = \\frac{2}{3}\\left( {\\frac{1}{2}\\overrightarrow {AB} + \\frac{1}{2}\\overrightarrow {AC} } \\right) - \\frac{1}{2}\\overrightarrow {AB} \\] \\[ = \\frac{1}{3}\\overrightarrow {AB} - \\frac{1}{2}\\overrightarrow {AB} + \\frac{1}{2}\\overrightarrow {AC} \\] \\[ = - \\frac{1}{6}\\overrightarrow {AB} + \\frac{1}{2}\\overrightarrow {AC} \\] . Vậy \\(\\overrightarrow {NG} = - \\frac{1}{6}\\overrightarrow {AB} + \\frac{1}{3}\\overrightarrow {AC} \\) ."
+    }
+  ]
+}

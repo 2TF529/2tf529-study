@@ -1,0 +1,104 @@
+{
+  "id": "2026-vj-1-trac-nghiem-toan-10-bai-tap-cuoi-chuong-4-co-dap-an",
+  "sourceId": "vietjack:1-trac-nghiem-toan-10-bai-tap-cuoi-chuon",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.Trắc nghiệm Toán 10 Bài tập cuối chương 4 có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Giá trị của biểu thức M = tan1°.tan2°.tan3°….tan89° là:",
+      "options": [
+        "A. -1",
+        "B. 1 2",
+        "C. 1",
+        "D. 2"
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là: C Ta có: tan89° = tan(90° ‒ 1°) = cot1°; tan88° = tan(90° ‒ 2°) = cot2°; … tan46° = tan(90° ‒ 44°) = cot44°. Do đó: M = tan1°.tan2°.tan3°….tan89° M = tan1°.tan2°….tan44°.tan45°.cot44°….cot2°.cot1° M = (tan1°.cot1°).(tan2°.cot2°)…(tan44°.cot44°).tan45° M = 1.1….1.1 M = 1. Vậy M = 1."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Giá trị của biểu thức M = sin 60 ° + tan 30 ° cot 120 ° + c o s 30 ° bằng:",
+      "options": [
+        "A. 1",
+        "B. 5",
+        "C. 3 2 ;",
+        "D. 2 3"
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải Đáp án đúng là: B Ta có: M = sin 60 ° + tan 30 ° cot 120 ° + c o s 30 ° M = 3 2 + 3 3 − 3 3 + 3 2 M = 3 3 + 2 3 6 : − 2 3 + 3 3 6 M = 5 3 6 : 3 6 M = 5 3 6 . 6 3 = 5. Vậy M = 5."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho tam giác ABC có AB = 8, AC = 9, BC = 10. Tam giác ABC là tam giác:",
+      "options": [
+        "A. Tam giác nhọn;",
+        "B. Tam giác vuông;",
+        "C. Tam giác tù;",
+        "D. Tam giác đều."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A Áp dụng hệ quả định lí côsin trong tam giác ABC ta có: cos A = A C 2 + A B 2 − B C 2 2. A C . A B ⇒ cos A = 9 2 + 8 2 − 10 2 2.9.8 = 5 16 > 0 Suy ra A ^ là góc nhọn. Tam giác ABC có cạnh BC lớn nhất đối diện với A ^ nên A ^ là góc lớn nhất. Do đó B ^ , C ^ cũng là góc nhọn. Vậy tam giác ABC là tam giác nhọn."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Tam giác ABC có các góc A ^ = 75 ° , B ^ = 45 ° . Tỉ số A B A C bằng:",
+      "options": [
+        "A. 1,2",
+        "B. 6 ;",
+        "C. 6 2",
+        "D. 6 3"
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là: C Xét tam giác ABC có A ^ = 75 ° , B ^ = 45 ° ta có: A ^ + B ^ + C ^ = 180 ° (định lí tổng ba góc trong tam giác) ⇒ C ^ = 180 ° − A ^ − B ^ ⇒ C ^ = 180 ° − 75 ° − 45 ° = 60 ° Áp dụng định lí sin trong tam giác ABC ta có: A C sin B = A B sin C ⇒ A B A C = sin C sin B = sin 60 ° sin 45 ° = 3 2 2 2 = 6 2 . Vậy A B A C = 6 2 ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Tam giác ABC có A ^ = 120 ° với BC = a, AC = b, AB = c thì câu nào sau đây là đúng ?",
+      "options": [
+        "A. a 2 = b 2 + c 2 ‒ bc;",
+        "B. a 2 = b 2 + c 2 ‒ 3bc;",
+        "C. a 2 = b 2 + c 2 + bc;",
+        "D. a 2 = b 2 + c 2 + 3bc."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là: C Áp dụng định lí côsin trong tam giác ABC ta có: a 2 = b 2 + c 2 ‒ 2.bc.cosA Þ a 2 = b 2 + c 2 ‒ 2.bc.cos120° ⇒ a 2 = b 2 + c 2 − 2. b c . − 1 2 Þ a 2 = b 2 + c 2 + bc. Vậy a 2 = b 2 + c 2 + bc."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho hình thoi ABCD cạnh bằng 1 cm và có B A D ^ = 60 ° . Độ dài cạnh AC là:",
+      "options": [
+        "A. A C = 3 c m ;",
+        "B. A C = 2 c m ;",
+        "C. A C = 2 3 c m ;",
+        "D. AC = 2 cm."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A Vì ABCD là hình thoi nên BC // AD (tính chất hình thoi) Do đó B A D ^ + A B C ^ = 180 ° (hai góc trong cùng phía) Mà B A D ^ = 60 ° ⇒ A B C ^ = 120 ° Áp dụng định lí côsin cho tam giác ABC ta có: AC 2 = AB 2 + BC 2 – 2.AB.BC. c o s A B C ^ Þ AC 2 = 1 2 + 1 2 – 2.1.1.cos120° = 3 ⇒ A C = 3 c m . Vậy A C = 3 c m ."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Tam giác ABC có A B = 6 − 2 2 , A C = 2 , B C = 3 . Gọi D là chân đường phân giác trong góc A. Khi đó số đo của góc ADB là:",
+      "options": [
+        "A. 45°;",
+        "B. 60°;",
+        "C. 75°;",
+        "D. 90°."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là: C Áp dụng hệ quả định lí côsin trong tam giác ABC ta có: +) cos A B C ^ = A B 2 + B C 2 − A C 2 2. A B . B C ⇒ cos B A C ^ = 6 − 2 2 2 + 3 2 − 2 2 2. 6 − 2 2 . 3 = 2 2 ⇒ A B C ^ = 45 ° +) cos B A C ^ = A B 2 + A C 2 − B C 2 2. A B . A C ⇒ cos B A C ^ = 6 − 2 2 2 + 2 2 − 3 2 2. 6 − 2 2 . 2 = − 1 2 ⇒ B A C ^ = 120 ° ⇒ B A D ^ = 60 ° ( vì AD là tia phân giác của B A C ^ ) Xét tam giác ABD có B A D ^ = 60 ° và A B D ^ = A B C ^ = 45 ° ta có: B A D ^ + A B D ^ + A D B ^ = 180 ° (định lí tổng ba góc trong tam giác) ⇒ A D B ^ = 180 ° − B A D ^ − A B D ^ ⇒ A D B ^ = 180 ° − 60 ° − 45 ° = 75 ° Vậy A D B ^ = 75 ° ."
+    }
+  ]
+}

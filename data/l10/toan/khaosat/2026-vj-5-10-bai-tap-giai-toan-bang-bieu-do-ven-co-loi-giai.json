@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-5-10-bai-tap-giai-toan-bang-bieu-do-ven-co-loi-giai",
+  "sourceId": "vietjack:5-10-bai-tap-giai-toan-bang-bieu-do-ven-",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "5.10 Bài tập Giải toán bằng biểu đồ Ven (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho tập hợp A có 9 phần tử, tập hợp B có 5 phần tử, tập hợp A ∩ B có 3 phần tử. Tính số phần tử của tập hợp A \\ B.",
+      "options": [
+        "A. 5;",
+        "B. 6;",
+        "C. 7;",
+        "D. 8."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B. Ta có: + Tập hợp A gồm 9 phần tử nên n(A) = 9. + Tập hợp B gồm 5 phần tử nên n(B) = 5. + Tập hợp A ∩ B gồm 3 phần tử nên n(A ∩ B) = 3. Vì hiệu của hai tập hợp A và B là tập hợp những phần tử thuộc A mà không thuộc B (phần gạch chéo trên hình vẽ) nên ta có: n(A \\ B) = n(A) – n(A ∩ B) = 9 – 3 = 6."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho tập hợp A có 15 phần tử, tập hợp B có 10 phần tử, tập hợp A ∩ B có 5 phần tử. Tính số phần tử của tập hợp B \\ A.",
+      "options": [
+        "A. 2;",
+        "B. 3;",
+        "C. 4;",
+        "D. 5."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D. Ta có: + Tập hợp A gồm 15 phần tử nên n(A) = 15. + Tập hợp B gồm 10 phần tử nên n(B) = 10. + Tập hợp A ∩ B gồm 5 phần tử nên n(A ∩ B) = 5. Vì hiệu của hai tập hợp B và A là tập hợp những phần tử thuộc B mà không thuộc A (phần gạch chéo trên hình vẽ) nên ta có: n(B \\ A) = n(B) – n(A ∩ B) = 10 – 5 = 5."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho tập hợp A có 12 phần tử, tập hợp B có 15 phần tử, tập hợp A ∩ B có 6 phần tử. Tính số phần tử của tập hợp A ∪ B.",
+      "options": [
+        "A. 20;",
+        "B. 21;",
+        "C. 22;",
+        "D. 23."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B. – Ta có: + Tập hợp A gồm 12 phần tử nên n(A) = 12. + Tập hợp B gồm 15 phần tử nên n(B) = 15. + Tập hợp A ∩ B gồm 6 phần tử nên n(A ∩ B) = 6. – Ta có tập hợp A ∪ B là tập hợp các phần tử thuộc tập hợp A hoặc thuộc tập hợp B. Do đó số phần tử của tập hợp A ∪ B là: n(A ∪ B) = n(A) + n(B) – n(A ∩ B) = 12 + 15 – 6 = 21."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho tập hợp A có 19 phần tử, tập hợp B có 22 phần tử, tập hợp các phần tử hoặc thuộc A hoặc thuộc B gồm 35 phần tử. Tính số phần tử của tập hợp A vừa thuộc A vừa thuộc B.",
+      "options": [
+        "A. 6;",
+        "B. 7;",
+        "C. 8;",
+        "D. 9."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A. – Ta có: + Tập hợp A gồm 19 phần tử nên n(A) = 19. + Tập hợp B gồm 22 phần tử nên n(B) = 22. + Tập hợp các phần tử hoặc thuộc A hoặc thuộc B là A ∪ B. Do đó, n(A ∪ B) = 35. Tập hợp các phần tử vừa thuộc tập hợp A vừa thuộc tập hợp B được kí hiệu là A ∩ B. Do đó, n(A ∩ B) = n(A) + n(B) – n(A ∪ B) = 19 + 22 – 35 = 6. Vậy có 6 phần tử vừa thuộc tập hợp A vừa thuộc tập hợp B."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Để tổ chức một buổi đi liên hoan, lớp 10B lập một bài khảo sát. Kết quả là có 20 bạn rảnh vào thứ 7, 25 bạn rảnh vào chủ nhật. Trong đó có 8 bạn rảnh cả hai ngày. Hỏi có bao nhiêu học sinh chỉ rảnh vào ngày thứ 7?",
+      "options": [
+        "A. 10;",
+        "B. 11;",
+        "C. 12;",
+        "D. 13."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C. Gọi A là tập hợp các bạn rảnh vào thứ 7, B là tập hợp các bạn rảnh vào chủ nhật. Do đó A ∩ B là tập hợp các bạn vừa rảnh thứ 7 vừa rảnh chủ nhật. Ta có: + 20 bạn rảnh vào thứ 7 nên n(A) = 20. + 25 bạn rảnh vào chủ nhật nên n(B) = 25. + 8 bạn rảnh cả hai ngày nên n(A ∩ B) = 8. Ta lại có tập hợp các bạn học sinh chỉ rảnh vào ngày thứ 7 là A \\ B. Vì hiệu của hai tập hợp A và B là tập hợp những phần tử thuộc A mà không thuộc B nên ta có: n(A \\ B) = n(A) – n(A ∩ B) = 20 – 8 = 12. Vậy có 12 bạn chỉ rảnh thứ 7."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong môn thể dục, lớp 10C có 21 bạn đăng kí học bơi, 30 bạn đăng kí học môn cầu lông, 10 bạn vừa đăng kí học bơi vừa đăng kí cầu lông. Hỏi lớp 10C có tất cả bao nhiêu bạn, biết mỗi bạn đều đang kí học bơi hoặc học cầu lông?",
+      "options": [
+        "A. 40;",
+        "B. 41;",
+        "C. 42;",
+        "D. 43."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B. Gọi A là tập hợp các bạn đăng kí học bơi, B là tập hợp các bạn đăng kí học cầu lông. Do đó A ∩ B là tập hợp các bạn vừa đăng kí học bơi vừa đăng kí cầu lông. – Ta có: + 21 bạn đăng kí học bơi nên n(A) = 21. + 30 bạn đăng kí học môn cầu lông nên n(B) = 30. + 10 bạn vừa đăng kí học bơi vừa đăng kí cầu lông nên n(A ∩ B) = 10. – Tập hợp các bạn học sinh trong lớp 10C cũng là tập hợp các bạn hoặc đăng kí học bơi hoặc đăng kí học cầu lông. Do đó, tập hợp các bạn học sinh trong lớp 10C là A ∪ B. n(A ∪ B) = n(A) + n(B) – n(A ∩ B) = 21 + 30 – 10 = 41. Vậy lớp 10C có 41 bạn."
+    }
+  ]
+}

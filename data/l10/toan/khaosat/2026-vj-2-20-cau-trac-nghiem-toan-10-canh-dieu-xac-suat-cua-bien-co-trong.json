@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-20-cau-trac-nghiem-toan-10-canh-dieu-xac-suat-cua-bien-co-trong",
+  "sourceId": "vietjack:2-20-cau-trac-nghiem-toan-10-canh-dieu-x",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.20 câu Trắc nghiệm Toán 10 Cánh diều Xác suất của biến cố trong một số trò chơi đơn giản (Phần 2) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Xác suất của biến cố A, kí hiệu là:",
+      "options": [
+        "A. P(A);",
+        "B. n(A);",
+        "C. C(A);",
+        "D. Ω(A)."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A Xác suất của biến cố A, kí hiệu là: P(A)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho không gian mẫu Ω có n(Ω) = 10. Biến cố A có số các kết quả thuận lợi là n(A) = 5. Xác suất của biến cố A là:",
+      "options": [
+        "A. 0,5;",
+        "B. 0,25;",
+        "C. 2;",
+        "D. 1."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A Xác suất của biến cố A là: \\(P(A) = \\frac{{n(A)}}{{n(\\Omega )}} = \\frac{5}{{10}} = 0,5\\) ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Tung một đồng xu hai lần liên tiếp. Không gian mẫu trong trò chơi trên là:",
+      "options": [
+        "A. Ω = {SN; NS; NN};",
+        "B. Ω = {SS; SN; NS; NN};",
+        "C. Ω = {SS; NS; NN};",
+        "D. Ω = {NS; SN}."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải: Đáp án đúng là: B Gọi S là kí hiệu khi đồng xu xuất hiện mặt sấp, N là kí hiệu khi đồng xu xuất hiện mặt ngửa. Ta có không gian mẫu: Ω = {SS; SN; NS; NN}."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Gieo 1 con xúc xắc 1 lần. Không gian mẫu trò chơi trên là tập hợp:",
+      "options": [
+        "A. {6};",
+        "B. {1; 2; 3};",
+        "C. {1; 2; 3; 4; 5; 6};",
+        "D. {0; 1; 2; 3; 4; 5; 6}."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải: Đáp án đúng là: C Gọi a là số chấm xuất hiện trên con xúc xắc, ta thấy 1 ≤ a ≤ 6, a ∈ ℕ. Không gian mẫu của trò chơi trên là tập hợp: Ω = {a | 1 ≤ a ≤ 6} = {1; 2; 3; 4; 5; 6}."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Gieo một đồng xu ba lần liên tiếp. Biến cố B: “Ba đồng xu đều xuất hiện mặt ngửa”. Vậy B = ?",
+      "options": [
+        "A. 1;",
+        "B. 3;",
+        "C. {NNN};",
+        "D. {NNS; NNN; SNN; SNS}."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải: Đáp án đúng là: C Gọi S là kí hiệu khi đồng xu xuất hiện mặt sấp, N là kí hiệu khi đồng xu xuất hiện mặt ngửa. Các kết quả thuận lợi có biến cố B là: NNN Vậy B = {NNN}."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Gieo 1 con xúc xắc 1 lần. Biến cố A: “Số chấm xuất hiện nhỏ hơn 5”. Vậy A = ?",
+      "options": [
+        "A. {1; 2; 3};",
+        "B. {1; 2; 3; 4; 5};",
+        "C. {5; 6};",
+        "D. {1; 2; 3; 4}."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải: Đáp án đúng là: D Gọi a là số chấm xuất hiện trên con xúc xắc, các kết quả thuận lợi với biến cố A sẽ có: 1 ≤ a < 5, a ∈ ℕ. Vậy A = {1; 2; 3; 4}."
+    }
+  ]
+}

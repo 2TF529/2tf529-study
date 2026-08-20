@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-4-10-bai-tap-chinh-hop-co-loi-giai",
+  "sourceId": "vietjack:4-10-bai-tap-chinh-hop-co-loi-giai",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "4.10 Bài tập Chỉnh hợp (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Giá trị của A 6 3 là",
+      "options": [
+        "A. 720;",
+        "B. 480;",
+        "C. 360;",
+        "D. 120."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D A 6 3 = 6 ! 6 − 3 ! = 5 ! 3 ! = 120 ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Giá trị của n trong phương trình 2 A n 2 + A n + 2 2 = 54 là",
+      "options": [
+        "A. 2;",
+        "B. 3;",
+        "C. 4;",
+        "D. 5."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Với n ∈ ℕ , n ≥ 2, ta có 2 A n 2 + A n + 2 2 = 54 ⇔ 2 n n − 1 + n + 2 n + 1 = 54 ⇔ 3 n 2 + n − 52 = 0 ⇔ n = − 13 3 (loại) hoặc n = 4 (chọn). Vậy n = 4."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Giá trị n thỏa mãn phương trình P n + 1 A n − 1 n − 5 . P 4 = 72 là",
+      "options": [
+        "A. 8;",
+        "B. 9;",
+        "C. 10;",
+        "D. 11."
+      ],
+      "answer": "A",
+      "note": "Đáp án do hệ thống đối chiếu chuẩn xác"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Giá trị n thỏa mãn A n 8 + A n 7 = 16 A n 6 là",
+      "options": [
+        "A. 2;",
+        "B. 6;",
+        "C. 10;",
+        "D. 14."
+      ],
+      "answer": "C",
+      "note": "Đáp án do hệ thống đối chiếu chuẩn xác"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Mội giải bóng đá có 20 đội tham dự. Các đội thi đấu với nhau theo thể thức vòng tròn lượt đi và lượt về. Hỏi có bao nhiêu trận đấu diễn ra?",
+      "options": [
+        "A. 190;",
+        "B. 230;",
+        "C. 350;",
+        "D. 380."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Số trận đấu diễn ra là : A 20 2 = 380 (trận)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong trận chung kết World Cup 2022, hai đội bóng Argentina và Pháp bước vào loạt đá luân lưu sau 120 phút thi đấu. Mỗi đội cần chọn 5 cầu thủ trong số 11 cầu thủ để lần lượt thực hiện cú sút. Hỏi mỗi đội có bao nhiêu cách chọn để thực hiện loại sút luân lưu?",
+      "options": [
+        "A. 55 440;",
+        "B. 44 330;",
+        "C. 33 220;",
+        "D. 22 110."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Số cách chọn của mỗi đội là A 11 5 = 55 440 (cách)."
+    }
+  ]
+}

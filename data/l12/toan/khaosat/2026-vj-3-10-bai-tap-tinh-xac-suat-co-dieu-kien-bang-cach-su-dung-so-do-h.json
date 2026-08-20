@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-3-10-bai-tap-tinh-xac-suat-co-dieu-kien-bang-cach-su-dung-so-do-h",
+  "sourceId": "vietjack:3-10-bai-tap-tinh-xac-suat-co-dieu-kien-",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.10 bài tập Tính xác suất có điều kiện bằng cách sử dụng sơ đồ hình cây có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho sơ đồ cây bên dưới Giá trị \\(P\\left( {\\overline B |\\overline A } \\right)\\) bằng",
+      "options": [
+        "A. 0,2;",
+        "B. 0,4;",
+        "C. 0,3;",
+        "D. 0,5."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Dựa vào sơ đồ hình cây ta có \\(P\\left( {\\overline B |\\overline A } \\right) = 0,2\\)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho sơ đồ cây bên dưới Giá trị của biểu thức \\(T = \\frac{{P\\left( B \\right).P\\left( {A|B} \\right)}}{{P\\left( {\\overline A } \\right)}}\\) bằng",
+      "options": [
+        "A. \\(\\frac{3}{7}\\);",
+        "B. \\(\\frac{6}{7}\\);",
+        "C. \\(\\frac{{12}}{{35}}\\);",
+        "D. \\(\\frac{9}{{35}}\\)."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D \\(T = \\frac{{P\\left( B \\right).P\\left( {A|B} \\right)}}{{P\\left( {\\overline A } \\right)}} = \\frac{{P\\left( {AB} \\right)}}{{P\\left( {\\overline A } \\right)}} = \\frac{{0,3.0,6}}{{0,7}} = \\frac{9}{{35}}\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho sơ đồ hình cây như hình vẽ Dựa vào sơ đồ hình cây trên, tính xác suất để biến cố \\(P\\left( {B\\overline A } \\right)\\) xảy ra",
+      "options": [
+        "A. 0,62;",
+        "B. 0,32;",
+        "C. 0,48;",
+        "D. 0,06."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có \\(P\\left( {B\\overline A } \\right) = 0,8.0,6 = 0,48\\)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho sơ đồ hình cây như sau Dựa vào sơ đồ hình cây trên, tính xác suất để biến cố \\(P\\left( {\\overline B \\overline A } \\right)\\) xảy ra",
+      "options": [
+        "A. 0,36;",
+        "B. 0,12;",
+        "C. 0,51;",
+        "D. 0,24."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có \\(P\\left( {\\overline B \\overline A } \\right) = 0,6.0,6 = 0,36\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Theo kết quả từ trạm nghiên cứu khí hậu tại địa phương X, xác suất để có một ngày mưa là 0,6; nếu ngày có mưa thì xác suất có sương mù là 0,4; nếu ngày không có mưa thì xác suất có sương mù là 0,2. Gọi A là biến cố “Ngày có mưa” và B là biến cố “Ngày có sương mù”. Tính các xác suất ngày có mưa nhưng không có sương mù.",
+      "options": [
+        "A. 0,51;",
+        "B. 0,12;",
+        "C. 0,36;",
+        "D. 0,24."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có sơ đồ cây như sau: Xác suất để ngày có mưa nhưng không có sương mù là \\(P\\left( {A\\overline B } \\right) = 0,6.0,6 = 0,36\\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong một lớp học, tổ I có 6 bạn nam và 4 bạn nữ, tổ II có 4 bạn nam và 5 bạn nữ. Thấy giáo chủ nhiệm chuyển chỗ 1 học sinh từ tổ I sang tổ II và sau đó chuyển 1 học sinh từ tổ II sang tổ I. Sử dụng sơ đồ hình cây, tính xác suất của biến cố C: “Sau khi chuyển chỗ, tổ I có 5 bạn nam và 5 bạn nữ”.",
+      "options": [
+        "A. 0,53;",
+        "B. 0,3;",
+        "C. 0,36;",
+        "D. 0,25."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Để tổ I có 5 bạn nam và 5 bạn nữ khi có 1 bạn nam chuyển từ tổ I sang tổ II và 1 bạn nữ chuyển từ tổ II sang tổ I. Gọi A là biến cố “bạn chuyển từ tổ I sang tổ II là bạn nam” và B là biến cố “Bạn chuyển từ tổ II sang tổ I là bạn nữ”. Ta có \\[P\\left( A \\right) = \\frac{6}{{10}} = 0,6;P\\left( {B|A} \\right) = \\frac{5}{{10}} = 0,5 \\Rightarrow P\\left( {\\overline B |A} \\right) = 0,5\\]. \\(P\\left( {\\overline A } \\right) = \\frac{4}{{10}} = 0,4;P\\left( {B|\\overline A } \\right) = \\frac{6}{{10}} = 0,6 \\Rightarrow P\\left( {\\overline B |\\overline A } \\right) = 0,4\\). Ta có sơ đồ hình cây Khi đó P(C) = P(AB) = 0,5.0,6 = 0,3."
+    }
+  ]
+}

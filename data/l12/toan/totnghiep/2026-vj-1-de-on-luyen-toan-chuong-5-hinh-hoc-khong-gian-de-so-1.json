@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-1-de-on-luyen-toan-chuong-5-hinh-hoc-khong-gian-de-so-1",
+  "sourceId": "vietjack:1-de-on-luyen-toan-chuong-5-hinh-hoc-kho",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "title": "1.Đề ôn luyện Toán Chương 5. Hình học không gian (đề số 1)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho hình chóp \\(S.ABCD\\) có đáy là hình vuông cạnh \\(a\\) . Biết \\(SA = 2a\\) và \\[SA\\] vuông góc với mặt phẳng \\(\\left( {ABCD} \\right)\\) . Khoảng cách từ điểm \\(S\\) đến mặt phẳng \\(\\left( {ABCD} \\right)\\) bằng",
+      "options": [
+        "A. \\(a\\) .",
+        "B. \\(2a\\) .",
+        "C. \\(3a\\) .",
+        "D. \\(a\\sqrt 2 \\) ."
+      ],
+      "answer": "B",
+      "note": "Vì \\(SA \\bot \\left( {ABCD} \\right)\\) nên \\(d\\left( {S,\\left( {ABCD} \\right)} \\right) = SA = 2a\\) . Chọn B ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Ch o khối lăng trụ có diện tích đáy \\(3{a^2}\\) và chiều cao \\(2a\\) . Thể tích khối lăng trụ đã cho bằng",
+      "options": [
+        "A. \\({\\rm{3}}{a^3}\\)",
+        "B. \\({a^3}\\) .",
+        "C. \\(6{a^3}\\) .",
+        "D. \\({\\rm{2}}{a^3}\\) ."
+      ],
+      "answer": "C",
+      "note": "Thể tích khối lăng trụ đã cho bằng \\(V = 3{a^2} \\cdot 2a = 6{a^3}\\) . Chọn C ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho hình lập phương \\(ABCD.A'B'C'D'\\) có cạnh bằng \\(a\\) (tham khảo hình vẽ). Khoảng cách giữa đường thẳng \\(BD\\) và mặt phẳng \\(\\left( {A'B'C'D'} \\right)\\) bằng",
+      "options": [
+        "A. \\(a\\) .",
+        "B. \\(a\\sqrt 3 \\) .",
+        "C. \\(3a\\) .",
+        "D. \\(a\\sqrt 2 \\) ."
+      ],
+      "answer": "A",
+      "note": "Vì \\(BD\\,{\\rm{//}}\\,B'D'\\) nên \\(BD\\,{\\rm{//}}\\,\\left( {A'B'C'D'} \\right)\\) . Do đó \\(d\\left( {BD,\\left( {A'B'C'D'} \\right)} \\right) = d\\left( {B,\\left( {A'B'C'D'} \\right)} \\right) = BB' = a\\) . Chọn A ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hình chóp \\(S.ABCD\\) có đáy là hình chữ nhật, \\(SA \\bot \\left( {ABCD} \\right)\\) . Biết \\(AB = 9a\\) , \\(AD = 10a\\) . Khoảng cách từ điểm \\(B\\) đến mặt phẳng \\(\\left( {SAD} \\right)\\) là",
+      "options": [
+        "A. \\(\\sqrt {19} a\\) .",
+        "B. \\(\\sqrt {181} a\\) .",
+        "C. \\(10a\\) .",
+        "D. \\(9a\\) ."
+      ],
+      "answer": "D",
+      "note": "Ta có \\(AB \\bot AD\\) và \\(AB \\bot SA\\) nên \\(AB \\bot \\left( {SAD} \\right) \\Rightarrow d\\left( {B,\\left( {SAD} \\right)} \\right) = BA = 9a\\) . Chọn D ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hình chóp \\(S.ABC\\) có \\(SA \\bot \\left( {ABC} \\right)\\) , tam giác \\(ABC\\) vuông cân tại \\(B\\) , \\(AB = a\\) và \\(SA = a\\sqrt 3 \\) . Số đo theo đơn vị độ của góc nhị diện \\(\\left[ {A,\\,BC,\\,S} \\right]\\) là",
+      "options": [
+        "A. \\(60^\\circ \\) .",
+        "B. \\(135^\\circ \\) .",
+        "C. \\(90^\\circ \\) .",
+        "D. \\(45^\\circ \\) ."
+      ],
+      "answer": "A",
+      "note": "Ta có \\[\\left\\{ \\begin{array}{l}BC \\bot SA\\\\BC \\bot AB\\end{array} \\right.\\]\\( \\Rightarrow BC \\bot \\left( {SAB} \\right)\\)\\( \\Rightarrow BC \\bot SB\\,\\,\\,\\left( {{\\rm{do}}\\,SB \\subset \\left( {SAB} \\right)} \\right)\\) . Từ đó suy ra \\(\\widehat {ABS}\\) là một góc phẳng nhị diện của góc nhị diện \\(\\left[ {A,\\,BC,\\,S} \\right]\\) . Lại có \\(\\tan \\widehat {ABS} = \\frac{{SA}}{{AB}} = \\frac{{a\\sqrt 3 }}{a} = \\sqrt 3 \\)\\( \\Rightarrow \\widehat {ABS} = 60^\\circ \\) . Chọn A ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho hình chóp tứ giác đều \\(S.ABCD\\) có \\(O\\) là tâm của đáy \\(ABCD\\) . Gọi \\(M\\) là trung điểm của \\(BC\\) và \\(K\\) là hình chiếu vuông góc của \\(O\\) trên \\(SM\\) . Khoảng cách từ \\(O\\) đến mặt phẳng \\(\\left( {SBC} \\right)\\) bằng",
+      "options": [
+        "A. \\(OK.\\)",
+        "B. \\(OB.\\)",
+        "C. \\(SO.\\)",
+        "D. \\(OM.\\)"
+      ],
+      "answer": "A",
+      "note": "\\(\\left. \\begin{array}{l}BC \\bot OM\\\\BC \\bot SO\\left( {SO \\bot \\left( {ABCD} \\right)} \\right)\\end{array} \\right\\} \\Rightarrow BC \\bot \\left( {SOM} \\right)\\) . Mà \\(OK \\subset \\left( {SOM} \\right) \\Rightarrow BC \\bot OK\\) . Lại có \\(SM \\bot OK \\Rightarrow OK \\bot \\left( {SBC} \\right)\\) . Do đó \\(d\\left( {O,\\left( {SBC} \\right)} \\right) = OK\\) . Chọn A ."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Cho hình lập phương \\(ABCD.A'B'C'D'\\) . Mặt phẳng nào sau đây vuông góc với mặt phẳng \\(\\left( {ABCD} \\right)\\) ?",
+      "options": [
+        "A. \\(\\left( {A'B'C'D'} \\right)\\) .",
+        "B. \\(\\left( {A'ADD'} \\right)\\) .",
+        "C. \\(\\left( {C'BA'} \\right)\\) .",
+        "D. \\(\\left( {ACD'} \\right)\\) ."
+      ],
+      "answer": "B",
+      "note": "Ta có \\(A'A \\bot AD,\\,A'A \\bot AB\\) suy ra \\(A'A \\bot \\left( {ABCD} \\right)\\,\\) . Lại có \\(A'A \\subset \\left( {A'ADD'} \\right)\\) . Do đó \\(\\left( {A'ADD'} \\right) \\bot \\left( {ABCD} \\right)\\) . Chọn B ."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho hình chóp \\(S.ABC\\) có \\(SA \\bot \\left( {ABC} \\right)\\) , tam giác \\(ABC\\) vuông tại \\(C\\) . Góc giữa đường thẳng \\(SC\\) và mặt phẳng \\(\\left( {ABC} \\right)\\) là",
+      "options": [
+        "A. \\(\\widehat {SAC}\\) .",
+        "B. \\(\\widehat {SCB}\\) .",
+        "C. \\(\\widehat {SCA}\\) .",
+        "D. \\(\\widehat {SBA}\\) ."
+      ],
+      "answer": "C",
+      "note": "Ta có \\(SA \\bot \\left( {ABC} \\right)\\) , suy ra hình chiếu của \\(SC\\) lên mặt phẳng \\(\\left( {ABC} \\right)\\) là \\(AC\\) . Suy ra \\(\\left( {SC,\\,\\left( {ABC} \\right)} \\right) = \\left( {SC,\\,AC} \\right) = \\widehat {SCA}\\) . Chọn C ."
+    }
+  ]
+}

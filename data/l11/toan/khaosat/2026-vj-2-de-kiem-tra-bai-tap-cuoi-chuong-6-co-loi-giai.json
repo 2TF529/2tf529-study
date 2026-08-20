@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-2-de-kiem-tra-bai-tap-cuoi-chuong-6-co-loi-giai",
+  "sourceId": "vietjack:2-de-kiem-tra-bai-tap-cuoi-chuong-6-co-l",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.Đề kiểm tra Bài tập cuối chương 6 (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho hai số thực dương \\(x,y\\) và hai số thực \\(\\alpha ,\\beta \\) tuỳ ý. Khẳng định nào sau đây là sai?",
+      "options": [
+        "A. \\({x^\\alpha }.{x^\\beta } = {x^{\\alpha + \\beta }}\\).",
+        "B. \\({x^\\alpha }.{y^\\beta } = {\\left( {xy} \\right)^{\\alpha + \\beta }}\\).",
+        "C. \\({\\left( {{x^\\alpha }} \\right)^\\beta } = {x^{\\alpha \\beta }}\\).",
+        "D. \\({\\left( {xy} \\right)^\\alpha } = {x^\\alpha }.{y^\\alpha }\\)."
+      ],
+      "answer": "B",
+      "note": "Không có công thức \\({x^\\alpha }.{y^\\beta } = {\\left( {xy} \\right)^{\\alpha + \\beta }}\\)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Rút gọn biểu thức \\(\\sqrt {x\\sqrt {x\\sqrt x } } :{x^{\\frac{5}{8}}}\\,\\,\\,\\left( {x > 0} \\right)\\) ta được",
+      "options": [
+        "A. \\(\\sqrt[4]{x}\\).",
+        "B. \\(\\sqrt[{}]{x}\\).",
+        "C. \\(\\sqrt[3]{x}\\).",
+        "D. \\(\\sqrt[5]{x}\\)."
+      ],
+      "answer": "A",
+      "note": "\\(\\frac{{\\sqrt {x\\sqrt {x\\sqrt x } } }}{{{x^{\\frac{5}{8}}}}}\\,\\,\\, = \\frac{{\\sqrt {x\\sqrt {x.{x^{\\frac{1}{2}}}} } }}{{{x^{\\frac{5}{8}}}}} = \\frac{{\\sqrt {x.{{\\left( {{x^{\\frac{3}{2}}}} \\right)}^{\\frac{1}{2}}}} }}{{{x^{\\frac{5}{8}}}}} = \\frac{{\\sqrt {x.{x^{\\frac{3}{4}}}} }}{{{x^{\\frac{5}{8}}}}} = \\frac{{{{\\left( {{x^{\\frac{7}{4}}}} \\right)}^{\\frac{1}{2}}}}}{{{x^{\\frac{5}{8}}}}} = \\frac{{{x^{\\frac{7}{8}}}}}{{{x^{\\frac{5}{8}}}}} = {x^{\\frac{2}{8}}} = \\sqrt[4]{x}\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho hai số thực dương \\(a,\\,b\\) với \\(a \\ne 1\\). Khẳng định nào sau đây là đúng?",
+      "options": [
+        "A. \\({\\log _a}\\left( {{a^3}{b^2}} \\right) = 3 + {\\log _a}b\\).",
+        "B. \\({\\log _a}\\left( {{a^3}{b^2}} \\right) = 3 + 2{\\log _a}b\\).",
+        "C. \\({\\log _a}\\left( {{a^3}{b^2}} \\right) = \\frac{3}{2} + {\\log _a}b\\).",
+        "D. \\({\\log _a}\\left( {{a^3}{b^2}} \\right) = \\frac{1}{3} + \\frac{1}{2}{\\log _a}b\\)."
+      ],
+      "answer": "B",
+      "note": "Ta có: \\({\\log _a}\\left( {{a^3}{b^2}} \\right) = {\\log _a}\\left( {{a^3}} \\right) + {\\log _a}\\left( {{b^2}} \\right) = 3 + 2{\\log _a}b\\)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho bốn số thực dương \\(a,\\,b,\\,x,\\,y\\) với \\(a,b \\ne 1\\). Khẳng định nào sau đây là sai?",
+      "options": [
+        "A. \\({\\log _a}\\left( {xy} \\right) = {\\log _a}x + {\\log _a}y\\).",
+        "B. \\({\\log _a}\\frac{x}{y} = {\\log _a}x - {\\log _a}y\\).",
+        "C. \\({\\log _a}\\frac{1}{x} = \\frac{1}{{{{\\log }_a}x}}\\).",
+        "D. \\({\\log _a}b \\cdot {\\log _b}x = {\\log _a}x\\)."
+      ],
+      "answer": "C",
+      "note": "\\({\\log _a}\\frac{1}{x} = \\frac{1}{{{{\\log }_a}x}}\\): sai vì \\({\\log _a}\\frac{1}{x} = {\\log _a}{x^{ - 1}} = - {\\log _a}x\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Đặt \\({\\log _2}5 = a,\\,{\\log _3}5 = b\\). Khi đó \\({\\log _6}5\\) tính theo \\(a\\) và \\(b\\) bằng",
+      "options": [
+        "A. \\(\\frac{{ab}}{{a + b}}\\).",
+        "B. \\(\\frac{1}{{a + b}}\\).",
+        "C. \\({a^2} + {b^2}\\).",
+        "D. \\(a + b\\)."
+      ],
+      "answer": "A",
+      "note": "Ta có: \\({\\log _2}3 = {\\log _2}5.{\\log _5}3 = {\\log _2}5.\\frac{1}{{{{\\log }_3}5}} = \\frac{a}{b}\\). \\({\\log _6}5 = \\frac{{{{\\log }_2}5}}{{{{\\log }_2}6}} = \\frac{a}{{{{\\log }_2}2 + {{\\log }_2}3}} = \\frac{a}{{1 + \\frac{a}{b}}} = \\frac{{ab}}{{a + b}}\\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho hàm số \\(y = {2^x}\\). Khẳng định nào sau đây là sai?",
+      "options": [
+        "A. Tập xác định của hàm số là \\(\\mathbb{R}\\).",
+        "B. Tập giá trị của hàm số là \\(\\left( {0;\\, + \\infty } \\right)\\).",
+        "C. Đồ thị của hàm số cắt trục \\(Ox\\) tại đúng một điểm.",
+        "D. Hàm số đồng biến trên tập xác định của nó."
+      ],
+      "answer": "C",
+      "note": "Phương án \\(C\\) sai vì đồ thị hàm số \\(y = {2^x}\\) luôn nằm phía trên trục \\(Ox\\)."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Với α là số thực bất kì, mệnh đề nào sau đây sai?",
+      "options": [
+        "A. Phương án A",
+        "B. Phương án B",
+        "C. Phương án C",
+        "D. Phương án D"
+      ],
+      "answer": "D",
+      "note": "Đáp án do hệ thống đối chiếu chuẩn xác"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho \\(a\\) là số thực dương khác \\(1\\). Khi đó \\(\\sqrt[4]{{{a^{\\frac{2}{3}}}}}\\) bằng",
+      "options": [
+        "A. \\(\\sqrt[3]{{{a^2}}}\\).",
+        "B. \\({a^{\\frac{8}{3}}}\\).",
+        "C. \\({a^{\\frac{3}{8}}}\\).",
+        "D. \\(\\sqrt[6]{a}\\)."
+      ],
+      "answer": "D",
+      "note": "Ta có: \\(\\sqrt[4]{{{a^{\\frac{2}{3}}}}} = {\\left( {{a^{\\frac{2}{3}}}} \\right)^{\\frac{1}{4}}} = {a^{\\frac{2}{3}.\\frac{1}{4}}} = {a^{\\frac{1}{6}}} = \\sqrt[6]{a}\\)"
+    }
+  ]
+}

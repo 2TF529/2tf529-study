@@ -1,0 +1,196 @@
+{
+  "id": "l12-toan-totnghiep-2026-de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-an-giang-nam-2026-lan-1",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "code": "THPT_TKT_2026_AG_01",
+  "title": "Đề khảo sát chất lượng THPT môn Toán Sở GD&ĐT An Giang năm 2026 - Lần 1",
+  "duration": 90,
+  "answerSource": "official",
+  "source": "https://dolthpt.vn/tot-nghiep-thpt/pdf-de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-an-giang-nam-2026-lan-1-co-dap-an",
+  "notes": "Nội dung, đáp án và lời giải được nhập từ bản công khai của DOL THPT.",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "content": "Nghiệm của phương trình $\\log_2(3x-1)=3$ là",
+      "chuong": "hàm số mũ và hàm số lôgarit",
+      "dang": "phương trình lôgarit",
+      "type": "single",
+      "options": [
+        "A. $x=\\dfrac{10}{3}$.",
+        "B. $x=3$.",
+        "C. $x=2$.",
+        "D. $x=4$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Phương trình cần giải là $\\log_2(3x-1)=3$.\n❓ **Hiểu câu hỏi:**\n- Cần tìm nghiệm $x$ thỏa điều kiện xác định và phương trình đã cho.\n🔎 **Hướng dẫn cách làm:**\n- Điều kiện xác định: \\$3x-1>0\\Leftrightarrow x>\\dfrac13$.\n- Từ $\\log_2(3x-1)=3$ suy ra \\$3x-1=2^3=8$.\n- Do đó \\$3x=9\\Rightarrow x=3$.\n- Nghiệm $x=3$ thỏa điều kiện xác định.\n✅ **Đáp án:** B. $x=3$."
+    },
+    {
+      "id": 2,
+      "content": "Một người thống kê thời lượng (đơn vị: giây) thực hiện các cuộc gọi điện thoại của mình trong một tuần và lập bảng tần số ghép nhóm. Trung vị $M_e$ của mẫu số liệu ghép nhóm trên bằng\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-an-giang-nam-2026-lan-1/cau-02.webp\" alt=\"Hình minh họa câu 2\" loading=\"lazy\"></figure>",
+      "chuong": "các số đặc trưng đo xu thế trung tâm của mẫu số liệu ghép nhóm",
+      "dang": "trung vị của mẫu số liệu ghép nhóm",
+      "type": "single",
+      "options": [
+        "A. \\$80$.",
+        "B. $\\dfrac{260}{3}$.",
+        "C. \\$86{,}5$.",
+        "D. \\$84$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Bảng tần số ghép nhóm có tổng tần số $n=8+10+12+6+3+1=40$.\n- Các nhóm có độ dài lớp $h=40$.\n❓ **Hiểu câu hỏi:**\n- Cần tính trung vị của mẫu số liệu ghép nhóm.\n🔎 **Hướng dẫn cách làm:**\n- Vị trí trung vị là $\\dfrac n2=20$.\n- Tần số tích lũy trước nhóm $[80;120)$ là \\$8+10=18$, nên nhóm chứa trung vị là $[80;120)$.\n- Áp dụng công thức trung vị:\n$M_e=L+\\dfrac{\\dfrac n2-F}{f}\\cdot h$\nvới $L=80,\\ F=18,\\ f=12,\\ h=40$.\n- Suy ra\n$M_e=80+\\dfrac{20-18}{12}\\cdot40=80+\\dfrac{20}{3}=\\dfrac{260}{3}$.\n✅ **Đáp án:** B. $\\dfrac{260}{3}$."
+    },
+    {
+      "id": 3,
+      "content": "Cho cấp số cộng $(u_n)$ có $u_1=3$ và công sai $d=-2$. Giá trị của $u_7$ bằng",
+      "chuong": "dãy số. cấp số cộng và cấp số nhân",
+      "dang": "số hạng tổng quát của cấp số cộng",
+      "type": "single",
+      "options": [
+        "A. \\$15$.",
+        "B. $-14$.",
+        "C. $-11$.",
+        "D. $-9$."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cấp số cộng $(u_n)$ có $u_1=3$ và công sai $d=-2$.\n❓ **Hiểu câu hỏi:**\n- Cần tính số hạng $u_7$.\n🔎 **Hướng dẫn cách làm:**\n- Công thức số hạng tổng quát của cấp số cộng:\n$u_n=u_1+(n-1)d$.\n- Với $n=7$:\n$u_7=3+(7-1)(-2)=3-12=-9$.\n✅ **Đáp án:** D. $-9$."
+    },
+    {
+      "id": 4,
+      "content": "Tập nghiệm của phương trình $\\cos x=0$ là",
+      "chuong": "hàm số lượng giác và phương trình lượng giác",
+      "dang": "phương trình cosx=m",
+      "type": "single",
+      "options": [
+        "A. $S=\\left\\{\\dfrac{\\pi}{2}+k2\\pi\\mid k\\in\\mathbb{Z}\\right\\}$.",
+        "B. $S=\\left\\{\\dfrac{\\pi}{2}+k\\pi\\mid k\\in\\mathbb{Z}\\right\\}$.",
+        "C. $S=\\left\\{k2\\pi\\mid k\\in\\mathbb{Z}\\right\\}$.",
+        "D. $S=\\left\\{k\\pi\\mid k\\in\\mathbb{Z}\\right\\}$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Phương trình lượng giác là $\\cos x=0$.\n❓ **Hiểu câu hỏi:**\n- Cần viết tập nghiệm tổng quát của phương trình.\n🔎 **Hướng dẫn cách làm:**\n- Ta có $\\cos x=0$ khi và chỉ khi\n$x=\\dfrac{\\pi}{2}+k\\pi,\\ k\\in\\mathbb{Z}$.\n- Vì vậy tập nghiệm là\n$S=\\left\\{\\dfrac{\\pi}{2}+k\\pi\\mid k\\in\\mathbb{Z}\\right\\}$.\n✅ **Đáp án:** B."
+    },
+    {
+      "id": 5,
+      "content": "Trong không gian với hệ trục tọa độ $Oxyz$, cho vectơ $\\vec{u}=-3\\vec{i}+5\\vec{j}+2\\vec{k}$. Tọa độ của vectơ $\\vec{u}$ là",
+      "chuong": "vectơ và hệ trục tọa độ trong không gian",
+      "dang": "tọa độ của điểm, tọa độ của vectơ trong không gian",
+      "type": "single",
+      "options": [
+        "A. $(-3;5;2)$.",
+        "B. $(3;5;2)$.",
+        "C. $(5;-3;2)$.",
+        "D. $(-3;5;-2)$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Vectơ được cho:\n$\\vec{u}=-3\\vec{i}+5\\vec{j}+2\\vec{k}$.\n❓ **Hiểu câu hỏi:**\n- Cần đọc tọa độ của vectơ theo các hệ số của $\\vec{i},\\vec{j},\\vec{k}$.\n🔎 **Hướng dẫn cách làm:**\n- Hệ số của $\\vec{i}$ là $-3$, hệ số của $\\vec{j}$ là \\$5$, hệ số của $\\vec{k}$ là \\$2$.\n- Do đó tọa độ của vectơ là\n$\\vec{u}=(-3;5;2)$.\n✅ **Đáp án:** A. $(-3;5;2)$."
+    },
+    {
+      "id": 6,
+      "content": "Cho hàm số $y=f(x)$ có đạo hàm $f'(x)$ liên tục trên $\\mathbb{R}$. Biết rằng $f'(x)=(x^2+1)(x-2)$ với mọi $x\\in\\mathbb{R}$. Hàm số $y=f(x)$ đồng biến trên khoảng nào dưới đây?",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "tính đơn điệu của hàm số",
+      "type": "single",
+      "options": [
+        "A. $(2;+\\infty)$.",
+        "B. $(0;2)$.",
+        "C. $(-\\infty;-1)$.",
+        "D. $(-1;2)$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Đạo hàm:\n$f'(x)=(x^2+1)(x-2)$.\n- Vì $x^2+1>0$ với mọi $x\\in\\mathbb{R}$.\n❓ **Hiểu câu hỏi:**\n- Hàm số đồng biến trên khoảng mà $f'(x)>0$.\n🔎 **Hướng dẫn cách làm:**\n- Do $x^2+1>0$ nên dấu của $f'(x)$ phụ thuộc vào dấu của $x-2$.\n- Ta có $x-2>0\\Leftrightarrow x>2$.\n- Vậy hàm số đồng biến trên $(2;+\\infty)$.\n✅ **Đáp án:** A. $(2;+\\infty)$."
+    },
+    {
+      "id": 7,
+      "content": "Trong không gian $Oxyz$, cho hai điểm $M(2;1;-1)$ và $N(4;-1;0)$. Một vectơ chỉ phương của đường thẳng $MN$ là",
+      "chuong": "vectơ và hệ trục tọa độ trong không gian",
+      "dang": "biểu thức tọa độ của phép cộng hai vectơ, phép trừ hai vectơ, phép nhân một số với một vectơ",
+      "type": "single",
+      "options": [
+        "A. $(-2;2;1)$.",
+        "B. $(6;0;-1)$.",
+        "C. $(2;-2;1)$.",
+        "D. $(2;2;1)$."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hai điểm $M(2;1;-1)$ và $N(4;-1;0)$.\n❓ **Hiểu câu hỏi:**\n- Một vectơ chỉ phương của đường thẳng $MN$ có thể là $\\overrightarrow{MN}$.\n🔎 **Hướng dẫn cách làm:**\n- Tính tọa độ:\n$\\overrightarrow{MN}=(4-2;\\,-1-1;\\,0-(-1))=(2;-2;1)$.\n- Vì $\\overrightarrow{MN}$ cùng phương với đường thẳng $MN$, nên đây là một vectơ chỉ phương của $MN$.\n✅ **Đáp án:** C. $(2;-2;1)$."
+    },
+    {
+      "id": 8,
+      "content": "Họ nguyên hàm của hàm số $f(x)=5\\cdot2^x$ là",
+      "chuong": "nguyên hàm và tích phân",
+      "dang": "nguyên hàm của một số hàm số thường gặp",
+      "type": "single",
+      "options": [
+        "A. $\\dfrac{5\\cdot2^x}{\\ln2}+C$.",
+        "B. \\$5\\cdot2^x\\ln2+C$.",
+        "C. $\\dfrac{5\\cdot2^{x+1}}{x+1}+C$.",
+        "D. $\\dfrac{2^x}{\\ln2}+C$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số cần tìm họ nguyên hàm:\n$f(x)=5\\cdot2^x$.\n❓ **Hiểu câu hỏi:**\n- Cần dùng công thức nguyên hàm của hàm mũ cơ số $a$.\n🔎 **Hướng dẫn cách làm:**\n- Với $a>0,\\ a\\ne1$, ta có\n$\\int a^x\\,dx=\\dfrac{a^x}{\\ln a}+C$.\n- Do đó\n$\\int 5\\cdot2^x\\,dx=5\\cdot\\dfrac{2^x}{\\ln2}+C=\\dfrac{5\\cdot2^x}{\\ln2}+C$.\n✅ **Đáp án:** A. $\\dfrac{5\\cdot2^x}{\\ln2}+C$."
+    },
+    {
+      "id": 9,
+      "content": "Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình bình hành. Gọi $O$ là giao điểm của hai đường chéo. Khẳng định nào sau đây là đúng?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-an-giang-nam-2026-lan-1/cau-09.webp\" alt=\"Hình minh họa câu 9\" loading=\"lazy\"></figure>",
+      "chuong": "vectơ và hệ trục tọa độ trong không gian",
+      "dang": "tổng và hiệu của hai vectơ trong không gian",
+      "type": "single",
+      "options": [
+        "A. $\\overrightarrow{SA}+\\overrightarrow{SB}=\\overrightarrow{SC}+\\overrightarrow{SD}$.",
+        "B. $\\overrightarrow{SA}+\\overrightarrow{SC}=\\overrightarrow{SB}+\\overrightarrow{SD}$.",
+        "C. $\\overrightarrow{AB}+\\overrightarrow{BC}=\\overrightarrow{DB}$.",
+        "D. $\\overrightarrow{SA}+\\overrightarrow{SB}+\\overrightarrow{SC}+\\overrightarrow{SD}=\\vec{0}$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Đáy $ABCD$ là hình bình hành.\n- $O$ là giao điểm hai đường chéo, nên $O$ là trung điểm của cả $AC$ và $BD$.\n❓ **Hiểu câu hỏi:**\n- Cần chọn đẳng thức vectơ đúng trong hình chóp có đáy là hình bình hành.\n🔎 **Hướng dẫn cách làm:**\n- Vì $O$ là trung điểm của $AC$ nên\n$\\overrightarrow{SA}+\\overrightarrow{SC}=2\\overrightarrow{SO}$.\n- Vì $O$ là trung điểm của $BD$ nên\n$\\overrightarrow{SB}+\\overrightarrow{SD}=2\\overrightarrow{SO}$.\n- Suy ra\n$\\overrightarrow{SA}+\\overrightarrow{SC}=\\overrightarrow{SB}+\\overrightarrow{SD}$.\n✅ **Đáp án:** B."
+    },
+    {
+      "id": 10,
+      "content": "Trong không gian với hệ tọa độ $Oxyz$, cho đường thẳng $(d):\\dfrac{x-1}{2}=\\dfrac{y+3}{-4}=\\dfrac{z-5}{3}$. Vectơ nào sau đây là một vectơ chỉ phương của đường thẳng $(d)$?",
+      "chuong": "phương pháp tọa độ trong không gian",
+      "dang": "phương trình đường thẳng",
+      "type": "single",
+      "options": [
+        "A. $\\vec{n}_3=(2;-4;3)$.",
+        "B. $\\vec{n}_4=(-2;-4;-3)$.",
+        "C. $\\vec{u}_2=(2;4;3)$.",
+        "D. $\\vec{u}_1=(1;-3;5)$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Đường thẳng có dạng:\n$\\dfrac{x-1}{2}=\\dfrac{y+3}{-4}=\\dfrac{z-5}{3}$.\n❓ **Hiểu câu hỏi:**\n- Với phương trình chính tắc của đường thẳng, các mẫu số cho một vectơ chỉ phương.\n🔎 **Hướng dẫn cách làm:**\n- Từ phương trình chính tắc, một vectơ chỉ phương của đường thẳng là\n$\\vec{u}=(2;-4;3)$.\n- Vectơ có tọa độ $(2;-4;3)$ khớp với phương án A.\n✅ **Đáp án:** A. $(2;-4;3)$."
+    },
+    {
+      "id": 11,
+      "content": "Cho hình lập phương $ABCD.A'B'C'D'$ có cạnh bằng $a$. Khoảng cách từ điểm $A$ đến mặt phẳng $(BDD'B')$ bằng\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-an-giang-nam-2026-lan-1/cau-11.webp\" alt=\"Hình minh họa câu 11\" loading=\"lazy\"></figure>",
+      "chuong": "quan hệ vuông góc trong không gian",
+      "dang": "khoảng cách từ một điểm đến một đường thẳng, đến một mặt phẳng",
+      "type": "single",
+      "options": [
+        "A. $a\\sqrt{2}$.",
+        "B. $\\dfrac{a\\sqrt{3}}{2}$.",
+        "C. $a$.",
+        "D. $\\dfrac{a\\sqrt{2}}{2}$."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hình lập phương $ABCD.A'B'C'D'$ có cạnh bằng $a$.\n- Cần tính khoảng cách từ $A$ đến mặt phẳng $(BDD'B')$.\n❓ **Hiểu câu hỏi:**\n- Đặt hệ trục tọa độ phù hợp để viết phương trình mặt phẳng rồi tính khoảng cách.\n🔎 **Hướng dẫn cách làm:**\n- Chọn $A(0;0;0),\\ B(a;0;0),\\ D(0;a;0),\\ B'(a;0;a),\\ D'(0;a;a)$.\n- Mặt phẳng $(BDD'B')$ có phương trình\n$x+y=a$.\n- Khoảng cách từ $A(0;0;0)$ đến mặt phẳng $x+y-a=0$ là\n$d=\\dfrac{|0+0-a|}{\\sqrt{1^2+1^2}}=\\dfrac{a}{\\sqrt2}=\\dfrac{a\\sqrt2}{2}$.\n✅ **Đáp án:** D. $\\dfrac{a\\sqrt2}{2}$."
+    },
+    {
+      "id": 12,
+      "content": "Thể tích vật thể tròn xoay sinh ra khi quay hình phẳng giới hạn bởi đồ thị $y=x^2$, trục hoành và hai đường thẳng $x=0,x=2$ quanh trục hoành là",
+      "chuong": "nguyên hàm và tích phân",
+      "dang": "ứng dụng tích phân để tính thể tích vật thể",
+      "type": "single",
+      "options": [
+        "A. $\\dfrac{32}{5}$.",
+        "B. $\\dfrac{32\\pi}{5}$.",
+        "C. $\\dfrac{8\\pi}{3}$.",
+        "D. $\\dfrac{16\\pi}{5}$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hình phẳng giới hạn bởi $y=x^2$, trục hoành, $x=0$ và $x=2$.\n- Hình phẳng quay quanh trục hoành.\n❓ **Hiểu câu hỏi:**\n- Dùng công thức thể tích khối tròn xoay quanh trục hoành.\n🔎 **Hướng dẫn cách làm:**\n- Công thức:\n$V=\\pi\\int_a^b [f(x)]^2\\,dx$.\n- Ở đây $f(x)=x^2,\\ a=0,\\ b=2$ nên\n$V=\\pi\\int_0^2 (x^2)^2\\,dx=\\pi\\int_0^2 x^4\\,dx$.\n- Tính được\n$V=\\pi\\cdot\\left[\\dfrac{x^5}{5}\\right]_0^2=\\dfrac{32\\pi}{5}$.\n✅ **Đáp án:** B. $\\dfrac{32\\pi}{5}$."
+    }
+  ]
+}

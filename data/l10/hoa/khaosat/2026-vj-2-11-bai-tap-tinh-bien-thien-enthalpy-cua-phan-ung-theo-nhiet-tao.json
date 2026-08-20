@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-11-bai-tap-tinh-bien-thien-enthalpy-cua-phan-ung-theo-nhiet-tao",
+  "sourceId": "vietjack:2-11-bai-tap-tinh-bien-thien-enthalpy-cu",
+  "grade": "l10",
+  "subjectSlug": "hoa",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.11 Bài tập Tính biến thiên enthalpy của phản ứng theo nhiệt tạo thành (có lời giải)",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho phản ứng: 2NaCl ( s ) → 2Na ( s ) + Cl 2 ( g ) Biết \\[{\\Delta _f}H_{298}^0(NaCl) = - 411,2\\,(kJmo{l^{ - 1}})\\] . Biến thiên enthalpy chuẩn của phản ứng này là",
+      "options": [
+        "A. -822,4 kJ.",
+        "B. + 822,4 kJ.",
+        "C. -411,2 kJ.",
+        "D. + 411,2 kJ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Biến thiên enthalpy chuẩn của phản ứng: \\[{\\Delta _r}H_{298}^0 = 2 \\times {\\Delta _f}H_{298}^0(Na(s)) + 1 \\times {\\Delta _f}H_{298}^0(C{l_2}(g)) - 2 \\times {\\Delta _f}H_{298}^0(NaCl(s))\\] = 2 × 0 + 1 × 0 – 2 × (-411,2) = 822,4 (kJ)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho phản ứng đốt cháy ethane: C 2 H 6 (g) + \\(\\frac{7}{2}\\) O 2 (g) 2CO 2 (g) + 3H 2 O ( l ) Biến thiên enthalpy chuẩn của phản ứng đốt cháy ethane là Biết: Chất C 2 H 6 (g) O 2 (g) CO 2 (g) H 2 O (l) \\[{\\Delta _f}H_{298}^0\\] (kJmol -1 ) -87,1 0 -393,5 -285,8",
+      "options": [
+        "A. - 1559,7 (kJ).",
+        "B. + 1559,7 (kJ).",
+        "C. - 1644,4 (kJ).",
+        "D. + 1644,4 (kJ)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Tổng nhiệt tạo thành các chất đầu là: \\(\\sum {{\\Delta _f}H_{298}^o(c{\\rm{d}}) = } \\,\\,{\\Delta _f}H_{298}^o({C_2}{H_6}(g)).1 + {\\Delta _f}H_{298}^o({O_2}(g)).\\frac{7}{2}\\) = (-84,7.1) + 0. \\(\\frac{7}{2}\\) = - 84,7 (kJ) Tổng nhiệt tạo thành các chất sản phẩm là: \\(\\sum {{\\Delta _f}} H_{298}^o(sp) = {\\Delta _f}H_{298}^o(C{O_2}(g)).2 + {\\Delta _f}H_{298}^o({H_2}O(l)).3\\) = (-393,5.2) + (-285,8.3) = - 1644,4 (kJ) ⇒ Biến thiên enthalpy của phản ứng: \\({\\Delta _r}H_{298}^o = \\sum {{\\Delta _f}H_{298}^o} (sp) - \\sum {{\\Delta _f}H_{298}^o} (cd)\\) = - 1559,7 (kJ)"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho phản ứng sau: \\(CO{\\rm{ }}\\left( g \\right){\\rm{ }} + \\;\\frac{1}{2}{O_2}\\left( g \\right) \\to C{O_2}\\left( g \\right)\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,{\\Delta _r}H_{298}^o = - 283,0{\\rm{ }}kJ\\) Biết nhiệt tạo thành chuẩn của CO 2 : \\({\\Delta _r}H_{298}^o(C{O_2}\\left( g \\right)){\\rm{ }} = {\\rm{ }}--393,5{\\rm{ }}kJ/mol.\\) Nhiệt tạo thành chuẩn của CO là",
+      "options": [
+        "A. – 110,5 kJ /mol.",
+        "B. +110,5 kJ /mol .",
+        "C. – 141,5 kJ /mol .",
+        "D. – 221,0 kJ /mol ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A \\({\\Delta _r}H_{298}^o = {\\Delta _f}H_{298}^o\\left( {C{O_2}\\left( g \\right)} \\right).1{\\rm{ - }}[1.{\\Delta _f}H_{298}^o\\left( {CO\\left( g \\right)} \\right) + \\frac{1}{2}.{\\Delta _f}H_{298}^o\\left( {{O_2}\\left( g \\right)} \\right){\\rm{]}}\\) ⇒ - 283 = - 393,5.1 – \\({\\rm{[}}{\\Delta _f}H_{298}^o\\left( {CO\\left( g \\right)} \\right) + 0.\\frac{1}{2}{\\rm{]}}\\) ⇒ \\({\\Delta _f}H_{298}^o\\left( {CO\\left( g \\right)} \\right){\\rm{ }} = {\\rm{ }} - {\\rm{ }}110,5{\\rm{ }}kJ\\)"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho phản ứng nhiệt nhôm sau: 2Al( s ) + Fe 2 O 3 ( s ) → t ° 2Fe( s ) + Al 2 O 3 ( s ) Biến thiên enthalpy chuẩn của phản ứng nhiệt nhôm là Biết: Chất Al ( s ) Fe 2 O 3 ( s ) Fe ( s ) Al 2 O 3 ( s ) \\[{\\Delta _f}H_{298}^0\\] (kJmol -1 ) 0 -825,5 0 -1676,0",
+      "options": [
+        "A. + 850,5 kJ.",
+        "B. - 850,5 kJ.",
+        "C. -839 kJ.",
+        "D. + 839 kJ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B 2Al( s ) + Fe 2 O 3 ( s ) 2Fe( s ) + Al 2 O 3 ( s ) \\[{\\Delta _r}H_{298}^0 = 2.{\\Delta _f}H_{298}^0(Fe(s)) + {\\Delta _f}H_{298}^0(A{l_2}{O_3}(s)) - 2.{\\Delta _f}H_{298}^0(Al(s)) - {\\Delta _f}H_{298}^0(F{e_2}{O_3}(s))\\] = 2.0 + (-1676,00) – 2.0 – (-825,5) = -850,5 kJ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho phản ứng hóa học xảy ra ở điều kiện chuẩn như sau: 2NO 2 (g) (đỏ nâu) → N 2 O 4 (g) (không màu) Biết NO 2 và N 2 O 4 có nhiệt tạo thành chuẩn tương ứng là 33,18 kJ/mol và 9,16 kJ/mol. Phát biểu nào sau đây là đúng?",
+      "options": [
+        "A. Phản ứng tỏa nhiệt, NO 2 bền vững hơn N 2 O 4 .",
+        "B. Phản ứng thu nhiệt, NO 2 bền vững hơn N 2 O 4 .",
+        "C. Phản ứng tỏa nhiệt, N 2 O 4 bền vững hơn NO 2 .",
+        "D. Phản ứng thu nhiệt, N 2 O 4 bền vững hơn NO 2 ."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C \\({\\Delta _r}H_{298}^o = {\\Delta _f}H_{298}^o({N_2}{O_4}(g)) - 2.{\\Delta _f}H_{298}^o(N{O_2}(g))\\) = 9,16 – 2.33,18 = -57,2 (kJ) < 0 Vậy phản biểu đúng là: phản ứng tỏa nhiệt, N 2 O 4 bền hơn NO 2 ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho phản ứng sau: CaCO 3 ( s ) → CaO( s ) + CO 2 ( g ) Biến thiên enthalpy chuẩn của phản ứng là Chất CaCO 3 ( s ) CaO ( s ) CO 2 ( g ) \\[{\\Delta _f}H_{298}^0\\] (kJmol -1 ) -1 207 -635 -393,5",
+      "options": [
+        "A. -178,5.",
+        "B. -185,7.",
+        "C. +178,5.",
+        "D. + 235,5."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C \\({\\Delta _r}H_{298}^o = {\\Delta _f}H_{298}^o(CaO(s)) + {\\Delta _f}H_{298}^o(C{O_2}(g)) - {\\Delta _f}H_{298}^o(CaC{O_3}(s))\\) (-635) + (-393,5) – (-1207) = +178,5 (kJ)"
+    }
+  ]
+}

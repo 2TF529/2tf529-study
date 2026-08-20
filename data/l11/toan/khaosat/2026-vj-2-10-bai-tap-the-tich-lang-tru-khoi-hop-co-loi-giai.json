@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-10-bai-tap-the-tich-lang-tru-khoi-hop-co-loi-giai",
+  "sourceId": "vietjack:2-10-bai-tap-the-tich-lang-tru-khoi-hop-",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.10 Bài tập Thể tích lăng trụ, khối hộp (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Tính thể tích V của khối lăng trụ tam giác đều có tất cả các cạnh bằng a.",
+      "options": [
+        "A. V = a 3 3 6",
+        "B. V = a 3 3 12",
+        "C. V = a 3 3 2",
+        "D. V = a 3 3 4"
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Diện tích tam giác đều cạnh a là S = a 2 3 4 . Chiều cao của lăng trụ h = AA' = a. Vậy thể tích khối lăng trụ là V A B C . A ' B ' C ' = S . h = a 3 3 4 ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho lăng trụ đứng ABC.A'B'C' có đáy ABC là tam giác với AB = a, AC = 2a, B A C ^ = 120 ° , A A ' = 2 a 5 . Tính thể tích V của khối lăng trụ đã cho.",
+      "options": [
+        "A. V = 4 a 3 5",
+        "B. V = a 3 15",
+        "C. V = a 3 15 3",
+        "D. V = 4 a 3 5 3"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Diện tích tam giác ABC là S Δ A B C = 1 2 A B . A C . sin B A C ^ = a 2 3 2 . Vậy thể tích khối lăng trụ V A B C . A ' B ' C ' = S Δ A B C . A A ' = a 3 15 ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Tính thể tích V của khối lập phương ABCD.A'B'C'D' biết A C ' = a 3 .",
+      "options": [
+        "A. V = a 3 ;",
+        "B. V = 3 6 a 3 4",
+        "C. V = 3 3 a 3",
+        "D. V = a 3 3"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Đặt cạnh của hình lập phương là x (x > 0). Khi đó, ta có AA' = x; A'C' = x 2 . Xét D AA'C' vuông tại A', có A C ' = A A ' 2 + A ' C ' 2 = x 3 = a 3 ⇒ x = a . Vậy thể tích của hình lập phương là: V = a 3 ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hình hộp chữ nhật có diện tích ba mặt cùng xuất phát từ cùng một đỉnh là 10 cm 2 , 20 cm 2 , 32 cm 2 . Tính thể tích V của hình hộp chữ nhật đã cho.",
+      "options": [
+        "A. V = 80 cm 3 ;",
+        "B. V = 160 cm 3 ;",
+        "C. V = 40 cm 3 ;",
+        "D. V = 64 cm 3 ;"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Xét hình hộp chữ nhật ABCD.A'B'C'D' có đáy ABCD là hình chữ nhật. Theo bài ra, ta có S A B C D = 10 cm 2 S A B B ' A ' = 20 cm 2 S A D D ' A ' = 32 cm 2 ⇔ A B . A D = 10 A B . A A ' = 20 A A ' . A D = 32 . Nhân vế theo vế, ta được (AA'.AB.AD) 2 = 6400 Þ AA'.AB.AD = 80 cm 3 ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho khối lăng trụ đứng ABC.A'B'C' có đáy ABC là tam giác cân với AB = AC = a, B A C ^ = 120 ° , mặt phẳng (AB'C') tạo với đáy một góc 60°. Tính thể tích V của khối lăng trụ đã cho.",
+      "options": [
+        "A. V = 3 a 3 8",
+        "B. V = 9 a 3 8",
+        "C. V = a 3 8",
+        "D. V = 3 a 3 4"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Gọi M là trung điểm của đoạn thẳng B'C'. Tam giác ABC cân tại A Þ tam giác A'B'C' cân tại A' Þ A'M ^ B'C'. Lại có B'C' ^ AA' (do AA' ^ (A'B'C')). Từ đó suy ra B'C' ^ (AA'M) Þ B'C' ^ AM. Do đó góc giữa mặt phẳng (AB'C') và mặt phẳng (A'B'C') là A M A ' ^ = 60 ° . Vì tam giác A'B'C' cân tại A', M là trung điểm của đoạn thẳng B'C' nên A'M ^ B'C' và B ' A ' M ^ = 60 ° . Tam giác vuông A'B'M, có A ' M = A ' B ' . cos M A ' B ' ^ = a . cos 60 0 = a 2 . Tam giác vuông AA'M, có A A ' = A ' M . tan A M A ' ^ = a 2 . tan 60 0 = a 3 2 . Diện tích tam giác S Δ A B C = 1 2 A B . A C . sin B A C ^ = a 2 3 4 . Vậy V A B C . A ' B ' C ' = S Δ A B C . A A ' = 3 a 3 8 ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho lăng trụ ABCD.A'B'C'D' có đáy ABCD là hình vuông cạnh a, cạnh bên AA' = a, hình chiếu vuông góc của A' trên mặt phẳng (ABCD) trùng với trung điểm H của AB. Tính theo a thể tích V của khối lăng trụ đã cho.",
+      "options": [
+        "A. V = a 3 3 6",
+        "B. V = a 3 3 2",
+        "C. V = a 3 ;",
+        "D. V = a 3 3"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Vì H là trung điểm của AB nên A H = A B 2 = a 2 . Theo giả thiết, ta có A'H ^ (ABCD) Þ A'H ^ AB. Tam giác vuông A'HA, có A ' H = A A ' 2 − A H 2 = a 3 2 . Diện tích hình vuông S ABCD = a 2 . Vậy V A B C D . A ' B ' C ' D ' = S A B C D . A ' H = a 3 3 2 ."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-1-trac-nghiem-cong-thuc-cong-xac-suat-lop-11-co-dap-an",
+  "sourceId": "vietjack:1-trac-nghiem-cong-thuc-cong-xac-suat-lo",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.Trắc nghiệm Công thức cộng xác suất lớp 11 (có đáp án)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Một hộp đựng 11 thẻ được đánh số 1, 2, 3, …, 11. Rút ngẫu nhiên 3 thẻ và tính tổng các số ghi trên ba thẻ đó. Tính xác suất để tổng nhận được bằng 12.",
+      "options": [
+        "A. \\[\\frac{1}{{15}}\\]",
+        "B. \\[\\frac{7}{{165}}\\]",
+        "C. \\[\\frac{1}{3}\\]",
+        "D. \\[\\frac{3}{{55}}\\]"
+      ],
+      "answer": "B",
+      "note": "Rút ngẫu nhiên 3 thẻ trong một hộp đựng 11 thẻ ta có \\[\\left| {\\rm{\\Omega }} \\right| = {\\rm{C}}_{{\\rm{11}}}^{\\rm{3}} = 165\\] Gọi A là biến cố rút được 3 thẻ và tổng các số ghi trên 3 thẻ bằng 12. Vì \\[12 = 1 + 2 + 9 = 1 + 3 + 8 = 1 + 4 + 7 = 1 + 5 + 6 = 2 + 3 + 7 = 2 + 4 + 6 = 3 + 4 + 5\\] Nên \\[\\left| {\\rm{A}} \\right| = 7\\] Vậy \\[{\\rm{P(A) = }}\\frac{{\\left| {\\rm{A}} \\right|}}{{\\left| {\\rm{\\Omega }} \\right|}} = \\frac{7}{{165}}\\] Đáp án cần chọn là: B"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Có 8 quả cân lần lượt là 1kg, 2kg, 3kg, 4kg, 5kg, 6kg, 7kg, 8kg. Chọn ngẫu nhiên 3 quả cân trong 8 quả cân đó. Tính xác suất để trọng lượng 3 quả cân được chọn không vượt quá 9kg.",
+      "options": [
+        "A. \\[\\frac{1}{{15}}\\]",
+        "B. \\[\\frac{1}{7}\\]",
+        "C. \\[\\frac{1}{{28}}\\]",
+        "D. \\[\\frac{1}{8}\\]"
+      ],
+      "answer": "D",
+      "note": "Chọn ngẫu nhiên 3 quả cân trong 8 quả cân ta có \\[\\left| {\\rm{\\Omega }} \\right| = {\\rm{C}}_8^3 = 56\\] Gọi A là biến cố chọn được 3 quả cân và tổng trọng lượng 3 quả cân không vượt quá 9kg. Vì 1 + 2 + 3 = 6 < 9 1 + 2 + 4 = 7 < 9 1 + 2 + 5 = 8 < 9 1 + 2 + 6 = 9 1 + 3 + 4 = 8 < 9 1 + 3 + 5 = 9 2 + 3 + 4 = 9 Nên \\[\\left| {\\rm{A}} \\right| = 7\\] Vậy \\[{\\rm{P(A) = }}\\frac{{\\left| {\\rm{A}} \\right|}}{{\\left| {\\rm{\\Omega }} \\right|}} = \\frac{7}{{56}} = \\frac{1}{8}\\] Đáp án cần chọn là: D"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Gọi T là phép thử “Gieo đồng thời hai con súc sắc đối xứng và đồng chất”. Gọi E là biến cố “Có đúng 1 con súc sắc xuất hiện mặt 1 chấm”. Tính P(E).",
+      "options": [
+        "A. \\[\\frac{1}{3}\\]",
+        "B. \\[\\frac{5}{{18}}\\]",
+        "C. \\[\\frac{{11}}{{36}}\\]",
+        "D. \\[\\frac{1}{{12}}\\]"
+      ],
+      "answer": "B",
+      "note": "Gieo đồng thời hai con súc sắc đối xứng và đồng chất ta có \\[\\Omega = \\left\\{ {\\left( {x;y} \\right)|1 \\le x \\le 6;1 \\le y \\le 6} \\right\\}\\]. Do đó \\[\\left| {\\rm{\\Omega }} \\right| = 6.6 = 36\\] E là biến cố “Có đúng 1 con súc sắc xuất hiện mặt 1 chấm”. Khi đó: \\[E = \\left\\{ {\\left( {1;2} \\right),\\left( {1;3} \\right),\\left( {1;4} \\right),\\left( {1;5} \\right),\\left( {1;6} \\right),\\left( {2;1} \\right),\\left( {3;1} \\right),\\left( {4;1} \\right),\\left( {5;1} \\right),\\left( {6;1} \\right)} \\right\\}\\] Nên \\[\\left| {\\rm{E}} \\right| = 10\\] Vậy \\[{\\rm{P(E) = }}\\frac{{\\left| {\\rm{E}} \\right|}}{{\\left| {\\rm{\\Omega }} \\right|}} = \\frac{{10}}{{36}} = \\frac{5}{{18}}\\] Đáp án cần chọn là: B"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Một tổ có 7 nam và 3 nữ. Chọn ngẫu nhiên 2 người. Tính xác suất sao cho 2 người được chọn có đúng một người nữ.",
+      "options": [
+        "A. \\[\\frac{1}{{15}}\\]",
+        "B. \\[\\frac{2}{{15}}\\]",
+        "C. \\[\\frac{7}{{15}}\\]",
+        "D. \\[\\frac{8}{{15}}\\]"
+      ],
+      "answer": "C",
+      "note": "\\[{\\rm{n(\\Omega ) = C}}_{{\\rm{10}}}^{\\rm{2}}{\\rm{ = 45}}\\]. Gọi A: “2 người được chọn có đúng 1 nữ” Chọn 1 nữ có 3 cách, chọn 1 nam có 7 cách suy ra n(A) = 7.3 = 21. Do đó \\[{\\rm{P(A)}} = \\frac{{21}}{{45}} = \\frac{7}{{15}}\\] Đáp án cần chọn là: C"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Một tổ có 7 nam và 3 nữ. Chọn ngẫu nhiên 2 người. Tính xác suất sao cho 2 người được chọn không có nữ nào cả.",
+      "options": [
+        "A. \\[\\frac{1}{{15}}\\]",
+        "B. \\[\\frac{2}{{15}}\\]",
+        "C. \\[\\frac{7}{{15}}\\]",
+        "D. \\[\\frac{8}{{15}}\\]"
+      ],
+      "answer": "C",
+      "note": "\\[{\\rm{n(\\Omega ) = C}}_{{\\rm{10}}}^{\\rm{2}}{\\rm{ = 45}}\\]Gọi A: “2 người được chọn không có nữ” thì A: “2 người được chọn đều là nam”. Ta có \\[{\\rm{n(A) = C}}_{\\rm{7}}^{\\rm{2}}{\\rm{ = 21}}\\]. Vậy \\[{\\rm{P(A)}} = \\frac{{21}}{{45}} = \\frac{7}{{15}}\\] Đáp án cần chọn là: C"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Chọn ngẫu nhiên một số tự nhiên bé hơn 1000. Xác suất để số đó chia hết cho 5 là:",
+      "options": [
+        "A. \\[\\frac{1}{5}\\]",
+        "B. \\[\\frac{{201}}{{1000}}\\]",
+        "C. \\[\\frac{{200}}{{999}}\\]",
+        "D. \\[\\frac{{199}}{{999}}\\]"
+      ],
+      "answer": "A",
+      "note": "Chọn ngẫu nhiên một số tự nhiên bé hơn 1000 ta có \\[\\left| {\\rm{\\Omega }} \\right| = 1000\\] Gọi A là biến cố chọn được số chia hết cho 5.5. Khi đó: \\[A = \\left\\{ {5k|0 \\le 5k < 1000} \\right\\} = \\left\\{ {5k|0 \\le k < 200} \\right\\}\\] Nên \\[\\left| {\\rm{A}} \\right| = 200\\] Vậy \\[{\\rm{P(A) = }}\\frac{{\\left| {\\rm{A}} \\right|}}{{\\left| {\\rm{\\Omega }} \\right|}}{\\rm{ = }}\\frac{{{\\rm{200}}}}{{{\\rm{1000}}}}{\\rm{ = }}\\frac{{\\rm{1}}}{{\\rm{5}}}\\] Đáp án cần chọn là: A"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Kết quả (b; c) của việc gieo con xúc sắc cân đối và đồng chất hai lần trong đó b là số chấm xuất hiện trong lần gieo đầu, c là số chấm xuất hiện trong lần gieo thứ hai, được thay vào phương trình bậc hai:\\[{{\\rm{x}}^{\\rm{2}}}{\\rm{ + bx + c = 0}}\\]. Tính xác suất để: phương trình có nghiệm.",
+      "options": [
+        "A. \\[\\frac{1}{{18}}\\]",
+        "B. \\[\\frac{1}{{36}}\\]",
+        "C. \\[\\frac{{19}}{{36}}\\]",
+        "D. \\[\\frac{{17}}{{36}}\\]"
+      ],
+      "answer": "C",
+      "note": "Gieo con xúc sắc cân đối và đồng chất hai lần ta có \\[\\Omega = \\left\\{ {\\left( {b;c} \\right)|1 \\le b \\le 6;1 \\le c \\le 6} \\right\\}\\]. Do đó, \\[\\left| {\\rm{\\Omega }} \\right| = 6.6 = 36\\] Phương trình \\[{{\\rm{x}}^{\\rm{2}}}{\\rm{ + bx + c = 0}}\\] có nghiệm khi \\[{\\rm{\\Delta }} = {{\\rm{b}}^2} - 4{\\rm{c}} \\ge 0\\] Đặt \\[{\\rm{A}} = \\left\\{ {\\left( {b;c} \\right)|1 \\le b \\le 6;1 \\le c \\le 6;b2 - 4c \\ge 0} \\right\\}\\]ta có: \\(A = \\left\\{ \\begin{array}{l}(6;1),(6;2),(6;3),(6;4),(6;5),\\\\(6;6),(5;1),(5;2),(5;3),(5;4),\\\\(5;5),(5;6),(4;1),(4;2),(4;3),\\\\(4;4),(3;1),(3;2),(2;1)\\end{array} \\right\\}\\) Nên \\[\\left| {\\rm{A}} \\right| = 19\\] Vậy \\[{\\rm{P(A) = }}\\frac{{\\left| {\\rm{A}} \\right|}}{{\\left| {\\rm{\\Omega }} \\right|}}{\\rm{ = }}\\frac{{{\\rm{19}}}}{{{\\rm{36}}}}\\] Đáp án cần chọn là: C"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Gọi S là tập hợp của tất cả các số tự nhiên gồm 3 chữ số phân biệt được chọn từ các chữ số 1, 2, 3, 4, 5, 6, 7. Tính xác suất để số được chọn là số chẵn.",
+      "options": [
+        "A. \\[\\frac{1}{{15}}\\]",
+        "B. \\[\\frac{1}{{30}}\\]",
+        "C. \\[\\frac{1}{3}\\]",
+        "D. \\[\\frac{3}{7}\\]"
+      ],
+      "answer": "D",
+      "note": "S là tập hợp của tất cả các số tự nhiên gồm 3 chữ số phân biệt được chọn từ các chữ số 1, 2, 3, 4, 5, 6, 7. Suy ra \\[\\left| {\\rm{S}} \\right| = 7.6.5 = 210\\] Chọn ngẫu nhiên một số trong tập S ta có \\[\\left| {\\rm{\\Omega }} \\right| = \\left| {\\rm{S}} \\right| = 210\\] Gọi A là biến cố chọn được số chẵn. Ta có: \\[\\left| {\\rm{A}} \\right| = 3.6.5 = 90\\] Vậy \\[{\\rm{P(A) = }}\\frac{{\\left| {\\rm{A}} \\right|}}{{\\left| {\\rm{\\Omega }} \\right|}}{\\rm{ = }}\\frac{{{\\rm{90}}}}{{{\\rm{210}}}}{\\rm{ = }}\\frac{{\\rm{3}}}{{\\rm{7}}}\\] Đáp án cần chọn là: D"
+    }
+  ]
+}

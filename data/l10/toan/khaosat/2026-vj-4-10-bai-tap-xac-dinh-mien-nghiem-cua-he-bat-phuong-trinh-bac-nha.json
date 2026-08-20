@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-4-10-bai-tap-xac-dinh-mien-nghiem-cua-he-bat-phuong-trinh-bac-nha",
+  "sourceId": "vietjack:4-10-bai-tap-xac-dinh-mien-nghiem-cua-he",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "4.10 Bài tập Xác định miền nghiệm của hệ bất phương trình bậc nhất hai ẩn (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Miền nghiệm của hệ bất phương trình 2 x + 3 y − 15 < 0 x + y > 0 chứa điểm nào trong các điểm sau đây ?",
+      "options": [
+        "A. (1; 15);",
+        "B. (7; 8);",
+        "C. (9; 11);",
+        "D. (1; 2)."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Xét điểm (1; 2) và hệ 2 x + 3 y − 15 < 0 x + y > 0 ta có: 2.1 + 3.2 – 15 = –7 < 0 1 + 2 = 3 > 0 Do đó, điểm (1; 2) nằm trong miền nghiệm của hệ bất phương trình 2 x + 3 y − 15 < 0 x + y > 0 ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Miền nghiệm của hệ bất phương trình 2 x − y − 1 > 0 x + y < 0 là phần giao của các nửa mặt phẳng nào sau đây ?",
+      "options": [
+        "A. Nửa mặt phẳng không kể bờ 2x – y – 1 = 0 không chứa điểm (0; 0) và nửa mặt phẳng không kể bờ x + y = 0 không chứa điểm (1; 1);",
+        "B. Nửa mặt phẳng có kể bờ 2x – y – 1 = 0 không chứa điểm (0; 0) và nửa mặt phẳng không kể bờ x + y = 0 không chứa điểm (1; 1);",
+        "C. Nửa mặt phẳng không kể bờ 2x – y – 1 = 0 không chứa điểm (0; 0) và nửa mặt phẳng có kể bờ x + y = 0 không chứa điểm (1; 1);",
+        "D. Nửa mặt phẳng không kể bờ 2x – y – 1 = 0 chứa điểm (0; 0) và nửa mặt phẳng không kể bờ x + y = 0 không chứa điểm (1; 1)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Xét hệ bất phương trình 2 x − y − 1 > 0 x + y < 0 có: Bất phương trình 2x – y – 1 > 0: Điểm (0; 0) không nằm trên đường thẳng 2x – y – 1 = 0 và 2.0 – 0 – 1 < 0 nên miền nghiệm của bất phương trình 2x – y – 1 > 0 là nửa mặt phẳng không kể bờ 2x – y – 1 = 0 không chứa điểm (0; 0). Bất phương trình x + y < 0: Điểm (1; 1) không nằm trên đường thẳng x + y = 0 và 1 + 1 > 0 nên miền nghiệm của bất phương trình x + y < 0 là nửa mặt phẳng không kể bờ x + y = 0 không chứa điểm (1; 1). Vậy miền nghiệm của hệ bất phương trình 2 x − y − 1 > 0 x + y < 0 là phần giao của nửa mặt phẳng không kể bờ 2x – y – 1 = 0 không chứa điểm (0; 0) và nửa mặt phẳng không kể bờ x + y = 0 không chứa điểm (1; 1)"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Miền nghiệm của hệ bất phương trình 2 x − 3 y + 7 > 0 2 x − y + 5 < 0 là phần giao của:",
+      "options": [
+        "A. Nửa mặt phẳng không kể bờ 2x – 3y + 7 = 0 không chứa điểm (0; 0) và nửa mặt phẳng không kể bờ 2x – y + 5 = 0 không chứa điểm (0; 0);",
+        "B. Nửa mặt phẳng không kể bờ 2x – 3y + 7 = 0 chứa điểm (0; 0) và nửa mặt phẳng không kể bờ 2x – y + 5 = 0 không chứa điểm (0; 0);",
+        "C. Nửa mặt phẳng có kể bờ 2x – 3y + 7 = 0 chứa điểm (0; 0) và nửa mặt phẳng không kể bờ 2x – y + 5 = 0 không chứa điểm (0; 0);",
+        "D. Nửa mặt phẳng không kể bờ 2x – 3y + 7 = 0 chứa điểm (0; 0) và nửa mặt phẳng không kể bờ 2x – y + 5 = 0 chứa điểm (0; 0)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Xét bất phương trình 2x – 3y + 7 > 0 ta có: Điểm (0; 0) không nằm trên đường thẳng 2x – 3y + 7 = 0 và 2.0 – 3.0 + 7 = 7 > 0 nên miền nghiệm của bất phương trình 2x – 3y + 7 > 0 là nửa mặt phẳng không kể bờ 2x – 3y + 7 = 0 chứa điểm (0; 0). Xét bất phương trình 2x – y + 5 < 0 ta có: Điểm (0; 0) không nằm trên đường thẳng 2x – y + 5 = 0 và 2.0 – 0 + 5 = 5 > 0 nên nên miền nghiệm của bất phương trình 2x – y + 5 < 0 là nửa mặt phẳng không kể bờ 2x – y + 5 = 0 không chứa điểm (0; 0). Vậy miền nghiệm của hệ bất phương trình 2 x − 3 y + 7 > 0 2 x − y + 5 < 0 là phần giao của nửa mặt phẳng không kể bờ 2x – 3y + 7 = 0 chứa điểm (0; 0) và nửa mặt phẳng không kể bờ 2x – y + 5 = 0 không chứa điểm (0; 0)"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Miền nghiệm của hệ bất phương trình 5 x − 3 y + 2 ≤ 0 x − 2 ≥ 0 y + 5 < 0 là phần giao của:",
+      "options": [
+        "A. Nửa mặt phẳng có kể bờ 5x – 3y + 2 = 0 chứa điểm (0; 0); nửa mặt phẳng có kể bờ x – 2 = 0 chứa điểm (1; 0); nửa mặt phẳng không kể bờ y + 5 = 0 chứa điểm (–6; 0);",
+        "B. Nửa mặt phẳng có kể bờ 5x – 3y + 2 = 0 không chứa điểm (0; 0); nửa mặt phẳng có kể bờ x – 2 = 0 chứa điểm (1; 0); nửa mặt phẳng không kể bờ y + 5 = 0 chứa điểm (–6; 0);",
+        "C. Nửa mặt phẳng có kể bờ 5x – 3y + 2 = 0 không chứa điểm (0; 0); nửa mặt phẳng có kể bờ x – 2 = 0 không chứa điểm (1; 0); nửa mặt phẳng không kể bờ y + 5 = 0 không chứa điểm (–6; 0);",
+        "D. Nửa mặt phẳng không kể bờ 5x – 3y + 2 = 0 chứa điểm (0; 0); nửa mặt phẳng có kể bờ x – 2 = 0 chứa điểm (1; 0); nửa mặt phẳng không kể bờ y + 5 = 0 chứa điểm (–6; 0)."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Xét bất phương trình 5x – 2y + 2 ≤ 0 ta có: Điểm (0; 0) không nằm trên đường thẳng 5x – 2y + 2 = 0 và 5.0 – 2.0 + 2 = 2 > 0 nên miền nghiệm của bất phương trình 5x – 2y + 2 ≤ 0 là nửa mặt phẳng có kể bờ 5x – 3y + 2 = 0 không chứa điểm (0; 0). Xét bất phương trình x – 2 ≥ 0 ta có: Điểm (1; 0) không nằm trên đường thẳng x – 2 = 0 và 1 – 2 = –1 < 0 nên miền nghiệm của bất phương trình x – 2 ≥ 0 là nửa mặt phẳng có kể bờ x – 2 = 0 không chứa điểm (1; 0). Xét bất phương trình y + 5 < 0 ta có: Điểm (–6; 0) không nằm trên đường thẳng y + 5 = 0 và 0 + 5 = 5 > 0 nên miền nghiệm của bất phương trình y + 5 < 0 là nửa mặt phẳng không kể bờ y + 5 = 0, không chứa điểm (–6; 0). Vậy miền nghiệm của hệ bất phương trình 5 x − 3 y + 2 ≤ 0 x − 2 ≥ 0 y + 5 < 0 là phần giao của nửa mặt phẳng có kể bờ 5x – 3y + 2 = 0 không chứa điểm (0; 0); nửa mặt phẳng có kể bờ x – 2 = 0 không chứa điểm (1; 0); nửa mặt phẳng không kể bờ y + 5 = 0 không chứa điểm (–6; 0)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Phần giao của nửa mặt phẳng có kể bờ x + 2y – 3 = 0 chứa điểm (0; 0) và nửa mặt phẳng không kể bờ x – 3 = 0 không chứa điểm (0; 0) là miền nghiệm của hệ bất phương trình:",
+      "options": [
+        "A. x − 2 y − 3 < 0 x − 3 > 0",
+        "B. x + 2 y − 3 < 0 x − 3 > 0",
+        "C. x + 2 y − 3 ≤ 0 x − 3 > 0",
+        "D. x + 2 y − 3 ≤ 0 x − 3 ≥ 0"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng: C Xét hệ x + 2 y − 3 ≤ 0 x − 3 > 0 có: Bất phương trình x + 2y – 3 ≤ 0 có: Điểm (0; 0) không nằm trên đường thẳng x + 2y – 3 = 0 và 0 + 2.0 – 3 < 0 nên miền nghiệm của bất phương trình x + 2y – 3 ≤ 0 là nửa mặt phẳng có kể bờ x + 2y – 3 = 0 chứa điểm (0; 0). Bất phương trình x – 3 > 0 có: Điểm (0; 0) không nằm trên đường thẳng x – 3 = 0 và 0 – 3 = –3 < 0 nên miền nghiệm của bất phương trình x – 3 > 0 là nửa mặt phẳng không kể bờ x – 3 = 0 không chứa điểm (0; 0). Vậy phần giao của nửa mặt phẳng có kể bờ x + 2y – 3 = 0 chứa điểm (0; 0) và nửa mặt phẳng không kể bờ x – 3 = 0 không chứa điểm (0; 0) là miền nghiệm của hệ bất phương trình: x + 2 y − 3 ≤ 0 x − 3 > 0 ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Phần giao của nửa mặt phẳng có kể bờ 2x – 3 = 0 chứa điểm (0; 0) và nửa mặt phẳng có kể bờ y – 2 = 0 chứa điểm (0; 0) là miền nghiệm của hệ bất phương trình:",
+      "options": [
+        "A. 2 x − 3 ≤ 0 y − 2 ≤ 0",
+        "B. B 2 x − 3 ≤ 0 y − 2 > 0",
+        "C. 2 x − 3 > 0 y − 2 ≤ 0",
+        "D. 2 x − 3 > 0 y − 2 > 0"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Xét hệ 2 x − 3 ≤ 0 y − 2 ≤ 0 có: Bất phương trình 2x – 3 ≤ 0 có: Điểm (0; 0) không nằm trên đường thẳng 2x – 3 = 0 và 2.0 – 3 = –3 < 0 nên miền nghiệm của bất phương trình 2x – 3 ≤ 0 là nửa mặt phẳng có kể bờ 2x – 3 = 0 chứa điểm (0; 0). Bất phương trình y – 2 ≤ 0 có: Điểm (0; 0) không nằm trên đường thẳng y – 2 = 0 và 0 – 2 = –2 < 0 nên miền nghiệm của bất phương trình y – 2 ≤ 0 là nửa mặt phẳng có kể bờ y – 2 = 0 chứa điểm (0; 0). Vậy phần giao của nửa mặt phẳng có kể bờ 2x – 3 = 0 chứa điểm (0; 0) và nửa mặt phẳng có kể bờ y – 2 = 0 chứa điểm (0; 0) là miền nghiệm của hệ bất phương trình: 2 x − 3 ≤ 0 y − 2 ≤ 0 ."
+    }
+  ]
+}

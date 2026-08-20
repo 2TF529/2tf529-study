@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-12-chan-troi-sang-tao-bai-f17-co-dap",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-12-chan-tro",
+  "grade": "l12",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 12 Chân trời sáng tạo Bài F17 có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Tệp dữ liệu data.csv dùng trong bài thực hành chứa bao nhiêu bản ghi?",
+      "options": [
+        "A. Khoảng 5000",
+        "B. Khoảng 9500",
+        "C. Khoảng 12000",
+        "D. Khoảng 15000"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Tệp dữ liệu có gần 9500 bản ghi, chứa thông tin các dự án đầu tư nước ngoài."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Để làm sạch dữ liệu trong Excel, bước đầu tiên cần thực hiện là gì?",
+      "options": [
+        "A. Tạo PivotTable",
+        "B. Xóa cột không cần thiết",
+        "C. Mở tệp dữ liệu và nạp vào Excel",
+        "D. Tạo biểu đồ trực quan hóa dữ liệu"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Để làm sạch dữ liệu, đầu tiên cần mở tệp data.csv và nạp vào Excel bằng cách sử dụng thẻ Data và lựa chọn Get Data."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trong quá trình làm sạch dữ liệu, cột NgayCNDauTu được xử lý như thế nào?",
+      "options": [
+        "A. Tách dữ liệu ngày và thời gian",
+        "B. Xóa bỏ hoàn toàn",
+        "C. Thêm dữ liệu mới",
+        "D. Chuyển đổi định dạng ngày tháng"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Cột N gayCNDauTu được tách để chỉ giữ lại dữ liệu ngày, bỏ qua thời gian cụ thể."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cột mới DTNN_VND được tạo ra bằng cách nào?",
+      "options": [
+        "A. Cộng hai cột TongVonUSD và TongVonVND",
+        "B. Nhân cột TongVonUSD với tỷ giá VND/USD",
+        "C. Tính tỷ lệ giữa các dự án",
+        "D. Tạo từ dữ liệu dự đoán"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Cột DTNN_VND được tạo ra bằng cách nhân giá trị trong cột T ongVonUSD với tỷ giá hối đoái giữa VND và USD."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Chức năng của PivotTable trong bài thực hành là gì?",
+      "options": [
+        "A. Làm sạch dữ liệu",
+        "B. Tổng hợp và khám phá dữ liệu",
+        "C. Tạo biểu đồ",
+        "D. Xử lý dữ liệu hình ảnh"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: PivotTable được sử dụng để tổng hợp và khám phá dữ liệu một cách hiệu quả hơn, giúp trực quan hóa thông tin từ các cột dữ liệu."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Để nhóm thông tin theo Đơn vị cấp phép, cần kéo thả cột nào vào vùng Rows của PivotTable?",
+      "options": [
+        "A. TenDuAnDauTu",
+        "B. TenDVCP",
+        "C. MucTieuDA",
+        "D. CacUuDai"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Cột T enDVCP (Đơn vị cấp phép) được kéo thả vào vùng Rows để nhóm các dự án theo từng đơn vị cấp phép."
+    }
+  ]
+}

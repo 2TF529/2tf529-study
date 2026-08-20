@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-6-10-bai-tap-tinh-do-dai-cua-tong-va-hieu-hai-hay-nhieu-vecto-co-",
+  "sourceId": "vietjack:6-10-bai-tap-tinh-do-dai-cua-tong-va-hie",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "6.10 Bài tập Tính độ dài của tổng và hiệu hai hay nhiều vectơ (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho hình vuông ABCD tâm I, có cạnh bằng a. Tính A B → + A D → .",
+      "options": [
+        "A. a 2 ;",
+        "B. a;",
+        "C. 2a;",
+        "D. a 2 ."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A. Áp dụng quy tắc hình bình hành, ta có: A B → + A D → = A C → ⇒ A B → + A D → = A C → = A C . Xét tam giác ADC vuông tại D (do ABCD là hình vuông) có: Áp dụng định lý Pythagore cho tam giác vuông ACD, ta có: AC 2 = AD 2 + CD 2 = a 2 + a 2 = 2a 2 ⇔ AC = a 2 Vậy A B → + A D → = a 2 ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho tam giác ABC vuông cân tại A có AB = a. Độ dài của vectơ a → = A B → + A C → là:",
+      "options": [
+        "A. a 2 ;",
+        "B. a 2 2 ;",
+        "C. 2a;",
+        "D. a"
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A. Vẽ hình bình hành ABEC, theo quy tắc hình bình hành, ta có: A B → + A C → = A E → . Do ABC là tam giác vuông cân cạnh AB = a nên ABEC là hình vuông cạnh a. Xét tam giác ABE vuông tại B Áp dụng định lý Pythagore ta có: AE 2 = AB 2 + BE 2 = a 2 + a 2 = 2a 2 ⇔ AE = a 2 Vậy a → = A B → + A C → = a 2 ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho tam giác ABC vuông cân tại C và AB = 2 . Tính A B → − A C → .",
+      "options": [
+        "A. 3",
+        "B. 1",
+        "C. 2",
+        "D. 4"
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải: Đáp án đúng là: B. Ta có: A B → − A C → = C B → ⇒ A B → − A C → = C B → = C B . Xét tam giác ABC vuông tại C Áp dụng định lý Pythagore ta có: AB 2 = BC 2 + CA 2 Mà BC = CA nên BC 2 = CA 2 = A B 2 2 = 2 2 2 =1 ⇔ CB = CA = 1 Vậy A B → − A C → = 1."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho tam giác ABC vuông tại A có AB = 3, AC = 4. Độ dài của vectơ u → = C A → + A B → bằng:",
+      "options": [
+        "A. 2",
+        "B. 2 13 ;",
+        "C. 5",
+        "D. 13 ."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải: Đáp án đúng là: C. Xét tam giác ABC vuông tại A Áp dụng định lý Pythagore ta có: BC 2 = AB 2 + AC 2 = 4 2 + 3 2 = 25 ⇔ BC = 5 Ta có: C A → + A B → = C B → ⇒ C A → + A B → = C B → = C B = 5 . Vậy u → = 5 ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho tam giác ABC có: AB = AC = a và B A C ^ = 120 ° . Ta có A B → + A C → = ?",
+      "options": [
+        "A. a 3 ;",
+        "B. a;",
+        "C. a 2 ;",
+        "D. 2a."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải: Đáp án đúng là: B. Dựng hình bình hành ABDC. Do tam giác ABC cân có: AB = AC = a nên ABDC là hình thoi cạnh a. Gọi E là giao điểm hai đường chéo AD và BC của hình thoi. Có B A C ^ = 120 ° ⇒ C A E ^ = 60 ° (đường chéo của hình thoi cũng là tia phân giác của các góc ở đỉnh). Xét tam giác AEC vuông tại E (do trong hình thoi, hai đường chéo vuông góc với nhau) có: cos C A E ^ = A E A C ⇒ A E = A C . cos C A E ^ = a . c o s 60 ° = a 2 . Lại có: AD = 2AE = 2. a 2 = a . Theo quy tắc hình bình hành ta có: A B → + A C → = A D → ⇒ A B → + A C → = A D → = A D = a ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho tam giác ABC đều cạnh a, H là trung điểm của BC. Tính C A → − H C → .",
+      "options": [
+        "A. a 2",
+        "B. 3 a 2",
+        "C. 2 3 a 3",
+        "D. a 7 2"
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải: Đáp án đúng là: D. Ta có: C A → − H C → = C A → + C H → Dựng hình bình hành CAEH. Do tam giác ABC đều nên AH vừa là trung tuyến vừa là đường cao. Do đó, AH vuông góc với BC ⇒ A H B ^ = 90 ° . Mà AE // CH (do CAEH là hình bình hành) Do đó, AH vuông góc với AE ⇒ H A E ^ = 90 ° . Vậy AEBH là hình chữ nhật. Ta có: CH = BH = B C 2 = a 2 . Xét tam giác CHA vuông tại H Áp dụng định lý Pythagore ta có: AC 2 = AH 2 + CH 2 ⇔ AH 2 = AC 2 – CH 2 = a 2 − a 2 2 = 3 a 2 4 ⇒ A H = a 3 2 . ⇒ E B = A H = a 3 2 (do AEBH là hình chữ nhật) Xét tam giác CBE vuông tại B Áp dụng định lý Pythagore ta có: CE 2 = BC 2 + BE 2 = a 2 + a 3 2 2 = 7 4 a 2 ⇒ C E = a 7 2 . Theo quy tắc hình bình hành: C A → + C H → = C E → . ⇒ C A → − H C → = C A → + C H → = C E → = C E = a 7 2 ."
+    }
+  ]
+}

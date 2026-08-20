@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-5-20-cau-trac-nghiem-toan-10-canh-dieu-bai-3-cac-so-dac-trung-do-",
+  "sourceId": "vietjack:5-20-cau-trac-nghiem-toan-10-canh-dieu-b",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "5.20 câu trắc nghiệm Toán 10 Cánh diều Bài 3. Các số đặc trưng đo mức độ phân tán cho mẫu số liệu không ghép nhóm (Đúng sai - trả lời ngắn) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Dạng 1. Trắc nghiệm nhiều phương án lựa chọn Mỗi câu hỏi thí sinh chỉ chọn một phương án. Số đặc trưng nào sau đây đo mức độ phân tán của mẫu số liệu?",
+      "options": [
+        "A. Trung vị.",
+        "B. Khoảng biến thiên.",
+        "C. Mốt.",
+        "D. Số trung bình."
+      ],
+      "answer": "B",
+      "note": "Khoảng biến thiên là đặc trưng đo mức độ phân tán của mẫu số liệu. Chọn B."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho phương sai của các số liệu bằng 4. Tìm độ lệch chuẩn.",
+      "options": [
+        "A. 2.",
+        "B. 4.",
+        "C. 8.",
+        "D. 16."
+      ],
+      "answer": "A",
+      "note": "Độ lệch chuẩn là \\(s = \\sqrt 4 = 2\\). Chọn A."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Khoảng tứ phân vị \\({\\Delta _Q}\\) là",
+      "options": [
+        "A. \\({Q_3} - {Q_1}\\).",
+        "B. \\({Q_2} - {Q_1}\\).",
+        "C. \\({Q_3} - {Q_2}\\).",
+        "D. \\(\\frac{{{Q_1} + {Q_3}}}{2}\\)."
+      ],
+      "answer": "A",
+      "note": "\\({\\Delta _Q} = {Q_3} - {Q_1}\\). Chọn A."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho bảng số liệu về điểm kiểm tra môn Toán của 20 học sinh Tìm khoảng biến thiên của bảng số liệu trên.",
+      "options": [
+        "A. \\(5\\).",
+        "B. \\(7\\).",
+        "C. \\(3\\).",
+        "D. \\(6\\)."
+      ],
+      "answer": "A",
+      "note": "Khoảng biến thiên \\(R = 10 - 5 = 5\\). Chọn A."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho mẫu số liệu 32 20 19 21 28 29 21 22 29 19 29. Khoảng tứ phân vị của mẫu số liệu trên là",
+      "options": [
+        "A. \\(7\\).",
+        "B. \\(11\\).",
+        "C. \\(2\\).",
+        "D. \\(9\\)."
+      ],
+      "answer": "D",
+      "note": "Sắp xếp mẫu số liệu theo thứ tự không giảm ta được: 19 19 20 21 21 22 28 29 29 29 32 Tứ phân vị thứ nhất là trung vị của mẫu 19 19 20 21 21. Khi đó \\({Q_1} = 20\\). Tứ phân vị thứ ba là trung vị của mẫu 28 29 29 29 32. Khi đó \\({Q_3} = 29\\). Khoảng tứ phân vị \\({\\Delta _Q} = {Q_3} - {Q_1} = 29 - 20 = 9\\). Chọn D."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Một mẫu số liệu có tứ phân vị thứ nhất \\({Q_1} = 36\\), tứ phân vị thứ hai \\({Q_2} = 60\\), tứ phân vị thứ ba \\({Q_3} = 100\\), giá trị nhỏ nhất bằng 2,5; giá trị lớn nhất bằng 205. Khoảng tứ phân vị của mẫu số liệu này là",
+      "options": [
+        "A. \\(64\\).",
+        "B. \\(14\\).",
+        "C. \\(202,5\\).",
+        "D. \\(100,875\\)."
+      ],
+      "answer": "A",
+      "note": "Khoảng tứ phân vị của mẫu số liệu là \\({\\Delta _Q} = {Q_3} - {Q_1} = 100 - 36 = 64\\). Chọn A."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Cho mẫu số liệu sau: 3; 4; 7; 8; 6; 6; 10; 8. Tính phương sai của mẫu số liệu trên.",
+      "options": [
+        "A. \\({s^2} = 6\\).",
+        "B. \\({s^2} = 9\\).",
+        "C. \\({s^2} = 36\\).",
+        "D. \\({s^2} = 4,5\\)."
+      ],
+      "answer": "D",
+      "note": "Giá trị trung bình \\(\\overline x = \\frac{{3 + 4 + 6 \\cdot 2 + 7 + 8 \\cdot 2 + 10}}{8} = 6,5\\). Phương sai của mẫu số liệu trên là \\({s^2} = \\frac{{{{\\left( {3 - 6,5} \\right)}^2} + {{\\left( {4 - 6,5} \\right)}^2} + {{\\left( {6 - 6,5} \\right)}^2} \\cdot 2 + {{\\left( {7 - 6,5} \\right)}^2} + {{\\left( {8 - 6,5} \\right)}^2} \\cdot 2 + {{\\left( {10 - 6,5} \\right)}^2}}}{8} = 4,5\\). Chọn D."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho mẫu số liệu sau: 156 158 160 162 164. Khoảng biến thiên của mẫu số liệu trên là",
+      "options": [
+        "A. \\(2\\).",
+        "B. \\(4\\).",
+        "C. \\(6\\).",
+        "D. \\(8\\)."
+      ],
+      "answer": "D",
+      "note": "Khoảng biến thiên là \\(R = 164 - 156 = 8\\). Chọn D."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-10-ket-noi-tri-thuc-bai-26-co-dap-an",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-10-ket-noi-",
+  "grade": "l10",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu trắc nghiệm Tin học 10 Kết nối tri thức Bài 26 có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Chọn phát biểu sai trong các phát biểu sau:",
+      "options": [
+        "A. Lệnh print() thực hiện việc in ra màn hình.",
+        "B. Lệnh input() thực hiện yêu cầu nhập vào một biểu thức, số hay một xâu bất kì.",
+        "C. Lệnh type() trả lại kiểu dữ liệu của biểu thức trong ngoặc.",
+        "D. Lệnh str() chuyển đối tượng đã cho thành chuỗi."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Lệnh input() thực hiện yêu cầu nhập vào một xâu bất kì."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Số phát biểu đúng trong số phát biểu sau: 1) Python cung cấp sẵn nhiều hàm thực hiện những công việc khác nhau cho người dùng tuỳ ý sử dụng. 2) Lệnh float() chuyển đối tượng đã cho thành kiểu số thực. 3) Lệnh int trả về số nguyên từ số hoặc chuỗi biểu thức. 4) Trong python, người dùng chỉ được sử dụng các hàm có sẵn được xây dựng. 5) Người dùng có thể xây dựng thêm một số hàm mới.",
+      "options": [
+        "A. 1.",
+        "B. 2.",
+        "C. 3.",
+        "D. 4."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Các phát biểu đúng: 1, 2, 3, 5. 4) Vì người dùng có thể xây dụng thêm một số hàm mới."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Phát biểu đúng trong các phát biểu sau là:",
+      "options": [
+        "A. Lệnh float() trả về số nguyên từ số hoặc chuỗi biểu thức.",
+        "B. Có ít hàm có sẵn được xây dựng trong python.",
+        "C. Lệnh bool() chuyển một giá trị sang Boolean.",
+        "D. Lệnh input() có thể nhập vào một số nguyên mà không cần chuyển đổi kiểu."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Lệnh bool() chuyển một giá trị sang Boolean."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Chương trình sau cho kết quả là bao nhiêu? def chao(ten): \"\"\"Hàm này dùng để chào một người được truyền vào như một tham số\"\"\" print(\"Xin chào, \" + ten + \"!\") chao(‘Xuan’)",
+      "options": [
+        "A. “Xin chào”.",
+        "B. “Xin chào , Xuan!”.",
+        "C. “Xin chào!”.",
+        "D. Câu lệnh bị lỗi."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Hàm chào gồm tên hàm, tham số của hàm, mô tả hàm và một câu lệnh print(\"Xin chào, \" + ten + \"!\") nên sẽ in ra “Xin chào , Xuan!”."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Kết quả của chương trình sau là: def PhepNhan(Number): return Number * 10; print(PhepNhan(5))",
+      "options": [
+        "A. 5.",
+        "B. 10.",
+        "C. Chương trình bị lỗi.",
+        "D. 50."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Truyền 5 vào hàm PhepNhan(Number) ta được kết quả l à 5 * 10 = 50."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Kết quả của chương trình sau là: def Kieu(Number): return type(Number); print(Kieu (5.0))",
+      "options": [
+        "A. 5.",
+        "B. float.",
+        "C. Chương trình bị lỗi.",
+        "D. int."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Truyền 5.0 vào hàm Kieu(Number)ta được kết quả là type(5.0) = float."
+    }
+  ]
+}

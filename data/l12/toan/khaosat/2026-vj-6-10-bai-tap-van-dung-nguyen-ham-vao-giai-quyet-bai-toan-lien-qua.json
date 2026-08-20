@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-6-10-bai-tap-van-dung-nguyen-ham-vao-giai-quyet-bai-toan-lien-qua",
+  "sourceId": "vietjack:6-10-bai-tap-van-dung-nguyen-ham-vao-gia",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "6.10 bài tập Vận dụng nguyên hàm vào giải quyết bài toán liên quan thực tế có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Một vật chuyển động có gia tốc là a(t) = 3t 2 + t (m/s 2 ). Biết rằng vận tốc ban đầu của vật là 2 m/s. Vận tốc của vật đó sau 2 giây là",
+      "options": [
+        "A. 8 m/s;",
+        "B. 12 m/s;",
+        "C. 10 m/s;",
+        "D. 16 m/s."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Có \\(v\\left( t \\right) = \\int {a\\left( t \\right)dt} = \\int {\\left( {3{t^2} + t} \\right)dt} = {t^3} + \\frac{1}{2}{t^2} + C\\). Vì v(0) = 2 nên C = 2. Do đó \\(v\\left( t \\right) = {t^3} + \\frac{1}{2}{t^2} + 2\\) Vậy v(2) = 12 m/s."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Một quả bóng được ném lên từ độ cao 20 m với vận tốc được tính bởi công thức sau đây v(t) = −10t + 16 (m/s). Công thức nào sau đây tính độ cao của quả bóng theo thời gian t?",
+      "options": [
+        "A. h(t) = −5t 2 + 16t + C;",
+        "B. h(t) = −5t 2 + 16t + 20;",
+        "C. h(t) = 5t 2 − 16t + 20;",
+        "D. h(t) = 5t 2 − 16t − 20."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Gọi h(t) là độ cao của quả bóng tại thời điểm t. Suy ra h'(t) = v(t) do đó h(t) là một nguyên hàm của v(t). Ta có \\(\\int {\\left( { - 10t + 16} \\right)dt} = - 5{t^2} + 16t + C\\). Do quả bóng được ném lên từ độ cao 20 m nên tại thời điểm t = 0 thì h = 20. Hay h(0) = 20 C = 20. Do đó h(t) = −5t 2 + 16t + 20."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Một ô tô đang chạy với vận tốc 70 km/h thì hãm phanh và chuyển động chậm dần đều với vận tốc v(t) = −10t + 30 (m/s). Tính quãng đường ô tô đi được sau 3 giây kể từ khi hãm phanh.",
+      "options": [
+        "A. 51 m;",
+        "B. 43 m;",
+        "C. 54 m;",
+        "D. 45 m."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Gọi s(t) là quãng đường xe ô tô đi được trong t giây kể từ khi hãm phanh. Ta có \\(s\\left( t \\right) = \\int {\\left( { - 10t + 30} \\right)dt} = - 5{t^2} + 30t + C\\). Do s(0) = 0 C = 0. Khi đó s(t) = −5t 2 + 30t s(3) = −5.9 + 30.3 = 45 m."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Theo nghiên cứu thị trường, sau t năm từ năm đầu tiên vốn đầu tư của một doanh nghiệp phát sinh lợi nhuận với tốc độ được tính xấp xỉ bởi công thức P'(t) = 125 + t 2 (triệu đồng/năm). Lợi nhuận của doanh nghiệp được tính theo công thức nào dưới đây?",
+      "options": [
+        "A. \\(P\\left( t \\right) = 125t + \\frac{{{t^3}}}{3}\\);",
+        "B. P(t) = 125t + t 3 ;",
+        "C. P(t) = 125 + t 3 ;",
+        "D. P(t) = 125t + 2t 3 ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Lợi nhuận phát sinh của vốn sau t năm từ năm đầu tiên là \\(P\\left( t \\right) = \\int {P'\\left( t \\right)} dt = 125t + \\frac{{{t^3}}}{3} + C\\). Vì P(0) = 0 C = 0. Vậy \\(P\\left( t \\right) = 125t + \\frac{{{t^3}}}{3}\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Một ô tô đang chạy với vận tốc 36 km/h, thì tăng tốc chuyển động nhanh dần với gia tốc a(t) \\( = 1 + \\frac{t}{3}\\) (m/s 2 ). Tính vận tốc của ô tô sau 6 giây kể từ khi ô tô bắt đầu tăng tốc.",
+      "options": [
+        "A. 90 m/s;",
+        "B. 48 m/s;",
+        "C. 22 m/s;",
+        "D. 28 m/s."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Đổi 36 km/h = 10 m/s. Có \\(v\\left( t \\right) = \\int {\\left( {1 + \\frac{t}{3}} \\right)} dt = t + \\frac{{{t^2}}}{6} + C\\). Vì v(0) = 10 nên C = 10. Do đó \\(v\\left( t \\right) = t + \\frac{{{t^2}}}{6} + 10\\) \\( \\Rightarrow v\\left( 6 \\right) = 6 + \\frac{{{6^2}}}{6} + 10 = 22\\) (m/s)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Một ô tô đang chạy với vận tốc 10 m/s thì người lái xe đạp phanh. Từ thời điểm đó, ô tô chuyển động chậm dần đều với vận tốc v(t) = −2t + 10 (m/s), trong đó t là khoảng thời gian được tính bằng giây kể từ lúc bắt đầu đạp phanh. Tính quãng đường ô tô di chuyển được trong 8 giây cuối cùng.",
+      "options": [
+        "A. 16 m;",
+        "B. 25 m;",
+        "C. 50 m;",
+        "D. 55 m."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Có \\(s\\left( t \\right) = \\int {\\left( { - 2t + 10} \\right)dt} = - {t^2} + 10t + C\\). Vì s(0) = 0 nên C = 0. Ô tô dừng hẳn thì v(t) = −2t + 10 = 0 t = 5. Vậy trong 8 giây cuối thì có 3 giây ô tô chạy với vận tốc 10 m/s và 5 giây cuối ô tô chạy với vận tốc chậm dần đều v(t) = −2t + 10 (m/s). Quãng đường ô tô đi được trong 3 giây chạy với vận tốc 10 m/s là 3.10 = 30 m. Quãng đường ô tô đi được trong 5 giây kể từ khi đạp phanh đến khi dừng hẳn là s(5) = −5 2 + 10.5 = 25 (m). Vậy trong 8 giây cuối ô tô đi được quãng đường 30 + 25 = 55 (m)."
+    }
+  ]
+}

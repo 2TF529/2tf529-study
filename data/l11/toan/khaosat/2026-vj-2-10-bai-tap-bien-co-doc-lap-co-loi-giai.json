@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-10-bai-tap-bien-co-doc-lap-co-loi-giai",
+  "sourceId": "vietjack:2-10-bai-tap-bien-co-doc-lap-co-loi-giai",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.10 Bài tập Biến cố độc lập (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho hai biến cố A và B độc lập với nhau. Phát biểu nào sau đây là đúng?",
+      "options": [
+        "A. Hai biến cố có cùng tập kết quả;",
+        "B. Việc xảy ra hay không xảy ra của biến cố này không ảnh hưởng tới xác suất xảy ra của biến cố kia ;",
+        "C. Biến cố này xảy ra thì biến cố kia không xảy ra;",
+        "D. A ∩ B = Ø ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Cặp biến cố A và B được gọi là độc lập nếu việc xảy ra hay không xảy ra của biến cố này không ảnh hưởng tới xác suất xảy ra của biến cố kia."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Xét phép thử gieo ngẫu nhiên một con xúc xắc đồng chất sáu mặt hai lần. Gọi A là biến cố: \"Số chấm thu được ở lần giao thứ nhất là số nhỏ hơn 3\", B là biến cố: \"Số chấm thu được ở lần gieo thứ hai là số lớn hơn hoặc bằng 4\" và C là biến cố: \"Số chấm thu được ở hai lần gieo là số lẻ”. Có bao nhiêu cặp biến cố độc lập?",
+      "options": [
+        "A. 0;",
+        "B. 1;",
+        "C. 2;",
+        "D. 3."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta thấy A và B là các biến cố độc lập vì việc kết quả xảy ra ở lần gieo thứ nhất không làm ảnh hưởng đến kết quả xảy ra ở lần gieo thứ hai."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Rút hộp đựng 9 thẻ được đánh số từ 1, 2, 3, . . . , 9. An rút ngẫu nhiên 1 thẻ rồi trả lại hộp. Sau đó Bình rút 1 thẻ từ hộp đó. Biến cố A: “An rút được thẻ số chẵn” và biến cố B: “Bình rút được thẻ số lẻ” là hai biến cố:",
+      "options": [
+        "A. Xung khắc;",
+        "B. Độc lập;",
+        "C. Đối;",
+        "D. Không độc lập."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Dù A có xảy ra (An lấy được thẻ số chẵn) hay A không xảy ra (An lấy được thẻ số lẻ) ta đều có P B = 5 9 . Dù B có xảy ra (Bình lấy được được thẻ số lẻ) hay B không xảy ra (Bình lấy được thẻ số chẵn) ta đều có P A = 4 9 . Do đó việc xảy ra hay không xảy ra của biến cố này không ảnh hưởng tới xác suất xảy ra của biến cố kia. Vậy A và B độc lập."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Gieo đồng tiền hai lần. Biến cố A “Lần gieo thứ nhất mặt ngửa xuất hiện”. Trong các biến cố dưới đây, biến cố nào độc lập với biến cố A?",
+      "options": [
+        "A. Lần gieo thứ hai mặt ngửa xuất hiện;",
+        "B. Mặt ngửa xuất hiện đúng 1 lần ;",
+        "C. Lần gieo thứ nhất mặt sấp xuất hiện ;",
+        "D. Cả hai lần gieo đều xuất hiện mặt ngửa."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Kết quả gieo ở lần thứ nhất không làm ảnh hưởng đến kết quả ở lần gieo thứ 2. Do đó biến cố A: “ Lần gieo thứ nhất mặt ngửa xuất hiện” độc lập với biến cố “ Lần gieo thứ hai mặt ngửa xuất hiện”."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Hộp I chứa bốn cái thẻ được đánh số 1, 2, 3, 4. Hộp II chứa bốn cái thẻ được đánh số 5, 6, 7, 8. Mỗi hộp rút ngẫu nhiên một thẻ. Biến cố A: “Rút từ hộp I thẻ số chẵn”. Trong các biến cố sau, biến cố nào độc lập với biến cố A?",
+      "options": [
+        "A. Rút từ hộp I thẻ số lẻ;",
+        "B. Rút từ hộp II thẻ số lẻ;",
+        "C. Rút từ hộp II thẻ số chẵn;",
+        "D. Cả B và C đều đúng."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Việc xảy ra hay không xảy ra ở lần rút thẻ từ hộp I không ảnh hưởng đến xác suất xảy ra ở lần rút thẻ từ hộp II. Do đó biến cố “Rút từ hộp II thẻ lẻ” hoặc “Rút từ hộp II thẻ chẵn” độc lập với biến cố A."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Hộp I chứa 9 quả cầu màu đỏ và 6 quả cầu màu xanh. Hộp II chứa 7 quả cầu màu đỏ và 8 quả cầu màu xanh. Lấy từ mỗi hộp một quả cầu. Xét các mệnh đề sau: (I) Biến cố A: “Lấy ra 2 quả cùng màu” và biến cố B: “Lấy ra hai quả khác màu” là hai biến cố độc lập. (II) Biến cố C: “Lấy ra từ hộp I quả màu đỏ” và biến cố D: “Lấy ra hai quả màu xanh” là hai biến cố độc lập. (III) Biến cố E: “Lấy ra từ hộp I quả màu đỏ” và biến cố F: “Lấy ra từ hộp II quả màu xanh” là hai biến cố độc lập. Có bao nhiêu mệnh đề đúng?",
+      "options": [
+        "A. 0 ;",
+        "B. 1 ;",
+        "C. 2;",
+        "D. 3."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Việc xảy ra hay không xảy ra ở lần lấy 1 quả cầu từ hộp I không ảnh hưởng đến xác suất xảy ra ở lần lấy 1 quả cầu từ hộp II. Do đó, mệnh đề III đúng. Biến cố A và biến cố B không độc lập. Biến cố C và biến cố D không độc lập. Vậy chỉ có 1 mệnh đề đúng."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-20-cau-trac-nghiem-toan-10-chan-troi-sang-tao-hoan-vi-chinh-hop",
+  "sourceId": "vietjack:2-20-cau-trac-nghiem-toan-10-chan-troi-s",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.20 câu Trắc nghiệm Toán 10 chân trời sáng tạo Hoán vị, chỉnh hợp và tổ hợp (Phần 2) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho tập hợp A có n phần tử (n ≥ 1) và số nguyên k (1 ≤ k ≤ n). Phát biểu nào sau đây sai ?",
+      "options": [
+        "A. Một chỉnh hợp chập k của n phần tử trên là mỗi cách lấy k phần tử của tập A và sắp xếp chúng theo một thứ tự;",
+        "B. Một hoán vị của tập A là mỗi cách sắp xếp n phần tử của tập A theo một thứ tự;",
+        "C. Một tổ hợp chập k của n phần tử là mỗi cách lấy k phần tử của A;",
+        "D. Mỗi hoán vị của n phần tử cũng chính là tổ hợp chập n của n phần tử đó."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải Đáp án đúng là: D ⦁ Mỗi cách sắp xếp n phần tử của tập A theo một thứ tự gọi là một hoán vị các phần tử đó. Do đó phương án B là phát biểu đúng. ⦁ Mỗi cách lấy k phần tử của A và sắp xếp chúng theo một thứ tự gọi là một chỉnh hợp chập k của n phần tử đó. Do đó phương án A là phát biểu đúng. ⦁ Mỗi tập con gồm k phần tử của A được gọi là một tổ hợp chập k của n phần tử. Do đó phương án C là phát biểu đúng. ⦁ Mỗi hoán vị của n phần tử cũng chính là chỉnh hợp chập n của n phần tử đó. Do đó phương án D là phát biểu sai. Vậy ta chọn phương án D."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho n ≥ 1 , n ∈ ℤ và 1 ≤ k ≤ n. Phát biểu nào sau đây sai ?",
+      "options": [
+        "A. P 0 = 1;",
+        "B. P n = C n n ;",
+        "C. C n k = C n n − k ;",
+        "D. A n k = k ! . C n k ."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải Đáp án đúng là: B ⦁ Ta quy ước: P 0 = 0! = 1. Do đó phương án A đúng. ⦁ Ta có C n k = C n n − k , với 0 ≤ k ≤ n. ⦁ Ta có P n = A n n . Do đó phương án B sai. Do đó phương án C đúng. ⦁ Ta có k ! . C n k = k ! . n ! k ! . n − k ! = n ! n − k ! = A n k . Do đó phương án D đúng. Vậy ta chọn phương án B."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Giá trị của A 12 4 bằng:",
+      "options": [
+        "A. 12.11.10.9.8.7.6.5.4;",
+        "B. 4.3.2.1;",
+        "C. 12.11.10.9;",
+        "D. 8!."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là: C Ta có A 12 4 = 12. 12 − 1 . 12 − 2 . 12 − 3 = 12.11.10.9 . Do đó ta chọn phương án C."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho tập hợp M = {a; b; c}. Số hoán vị của ba phần tử của M là:",
+      "options": [
+        "A. 4;",
+        "B. 5;",
+        "C. 6;",
+        "D. 7."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là: C Số hoán vị của ba phần tử của tập M là: P 3 = 3! = 3.2.1 = 6. Vậy ta chọn phương án C."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: G iá trị của C n 0 − C n 1 + C n n − 1 − C n n bằng:",
+      "options": [
+        "A. 0",
+        "B. 1 ;",
+        "C. n ;",
+        "D. 2n ."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải Đáp án đúng là: B Ta có C n 0 − C n 1 + C n n − 1 − C n n = C n 0 − C n 1 + C n 1 − C n 0 = 0. Vậy ta chọn phương án A ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Giá trị của C 10 7 bằng:",
+      "options": [
+        "A. 120 ;",
+        "B. 604 8 00;",
+        "C. 35 ;",
+        "D. 720 ."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A Ta có C 10 7 = 10 ! 7 ! . 10 − 7 ! = 10.9.8.7 ! 7 ! .3 ! = 10.9.8 3.2.1 = 720 6 = 120 Vậy ta chọn phương án A."
+    }
+  ]
+}

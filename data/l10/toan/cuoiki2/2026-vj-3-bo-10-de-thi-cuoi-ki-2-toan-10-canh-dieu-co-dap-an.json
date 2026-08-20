@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-3-bo-10-de-thi-cuoi-ki-2-toan-10-canh-dieu-co-dap-an",
+  "sourceId": "vietjack:3-bo-10-de-thi-cuoi-ki-2-toan-10-canh-di",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "cuoiki2",
+  "year": 2026,
+  "title": "3.Bộ 10 đề thi cuối kì 2 Toán 10 Cánh diều có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: I. PHẦN TRẮC NGHIỆM Phương tiện bạn Hà có thể chọn đi từ Lạng Sơn xuống Hà Nội rồi từ Hà Nội vào Đà Lạt được thể hiện qua sơ đồ cây sau: Hỏi bạn Hà có mấy cách chọn đi từ Lạng Sơn xuống Hà Nội rồi từ Hà Nội vào Đà Lạt.",
+      "options": [
+        "A. \\(9\\);",
+        "B. \\(6\\);",
+        "C. \\(18\\);",
+        "D. \\(3\\)"
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải Đáp án đúng là: B Dựa vào sơ đồ cây có \\(6\\) cách đi từ Lạng Sơn vào Đà Lạt."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho tập \\(A\\) có \\(n\\) phần tử \\(\\left( {n \\in \\mathbb{N},n \\ge 2} \\right)\\), \\(k\\) là số nguyên thỏa mãn \\(1 \\le k \\le n\\). Số các chỉnh hợp chập \\(k\\) của \\(n\\) phần tử trên là",
+      "options": [
+        "A. \\(n.k\\);",
+        "B. \\(n\\left( {n - 1} \\right)\\left( {n - 2} \\right)...\\left( {n - k + 1} \\right)\\);",
+        "C. \\(\\frac{n}{k}\\);",
+        "D. \\(\\frac{k}{n}\\)."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải Đáp án đúng là: B Ta kí hiệu \\(A_n^k\\) là số các chỉnh hợp chập \\(k\\) của \\(n\\) phần tử \\(\\left( {1 \\le k \\le n} \\right)\\). Ta có: \\(A_n^k = n\\left( {n - 1} \\right)...\\left( {n - k + 1} \\right)\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho \\(10\\) điểm phân biệt nằm trong mặt phẳng. Hỏi có bao nhiêu đoạn thẳng có hai đầu mút là hai trong \\(10\\) điểm đó?",
+      "options": [
+        "A. \\(45\\);",
+        "B. \\(6\\);",
+        "C. \\(90\\);",
+        "D. \\(20\\)."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A Các đoạn thẳng được lập không phân biệt điểm đầu và điểm cuối (ví dụ đoạn thẳng \\(AB\\) và đoạn thẳng \\(BA\\) là giống nhau). Vậy cứ hai điểm phân biệt sẽ cho ta một đoạn thẳng. Số đoạn thẳng có hai đầu mút là hai trong tám điểm nói trên là \\(C_{10}^2 = 45\\) đoạn thẳng."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho biểu thức \\({\\left( {a + b} \\right)^n}\\), với \\(n = 4\\) ta có khai triển là",
+      "options": [
+        "A. \\({\\left( {a + b} \\right)^4} = C_4^0{a^4} + C_4^1{a^3}{b^1} + C_4^2{a^2}.{b^2} + C_4^3a.{b^3} + C_4^4.{b^4}\\);",
+        "B. \\({\\left( {a + b} \\right)^4} = C_4^0{a^4} - C_4^1{a^3}{b^1} - C_4^2{a^2}.{b^2} - C_4^3a.{b^3} - C_4^4.{b^4}\\);",
+        "C. \\({\\left( {a + b} \\right)^4} = C_4^0{a^4} - C_4^1{a^3}{b^1} + C_4^2{a^2}.{b^2} - C_4^3a.{b^3} + C_4^4.{b^4}\\);",
+        "D. \\({\\left( {a + b} \\right)^4} = - C_4^0{a^4} - C_4^1{a^3}{b^1} - C_4^2{a^2}.{b^2} - C_4^3a.{b^3} - C_4^4.{b^4}\\)."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A Khai triển với \\(n = 4\\) là: \\({\\left( {a + b} \\right)^4} = C_4^0{a^4} + C_4^1{a^3}{b^1} + C_4^2{a^2}.{b^2} + C_4^3a.{b^3} + C_4^4.{b^4}\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Giá trị của biểu thức \\({\\left( {3 + \\sqrt 2 } \\right)^4} + {\\left( {3 - \\sqrt 2 } \\right)^4}\\) bằng",
+      "options": [
+        "A. \\(193\\);",
+        "B. \\( - 386\\);",
+        "C. \\(772\\);",
+        "D. \\(386\\)."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải Đáp án đúng là: D Áp dụng công thức nhị thức Newton, ta có: ⦁ \\[{\\left( {3 + \\sqrt 2 } \\right)^4} = {3^4} + {4.3^3}.\\sqrt 2 + {6.3^2}.{\\left( {\\sqrt 2 } \\right)^2} + 4.3.{\\left( {\\sqrt 2 } \\right)^3} + {\\left( {\\sqrt 2 } \\right)^4}\\]. ⦁ \\[{\\left( {3 - \\sqrt 2 } \\right)^4} = {3^4} + {4.3^3}.\\left( { - \\sqrt 2 } \\right) + {6.3^2}.{\\left( { - \\sqrt 2 } \\right)^2} + 4.3.{\\left( { - \\sqrt 2 } \\right)^3} + {\\left( { - \\sqrt 2 } \\right)^4}\\]. Suy ra \\({\\left( {3 + \\sqrt 2 } \\right)^4} + {\\left( {3 - \\sqrt 2 } \\right)^4} = 2.\\left[ {{3^4} + {{6.3}^2}.{{\\left( {\\sqrt 2 } \\right)}^2} + {{\\left( {\\sqrt 2 } \\right)}^4}} \\right]\\) \\( = 2.\\left( {81 + 6.9.2 + 4} \\right) = 386\\). Vậy ta chọn phương án D."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Xác định số gần đúng của \\(\\overline a = \\frac{{712}}{{13}} \\approx 54,76923077...\\) với độ chính xác \\(d = 0,01\\) là",
+      "options": [
+        "A. \\(54,8\\);",
+        "B. \\(54,769\\);",
+        "C. \\(55\\);",
+        "D. \\(54,77\\)."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải Đáp án đúng là: D Hàng của chữ số khác \\(0\\) đầu tiên bên trái của \\(d = 0,01\\) là hàng phần trăm. Quy tròn số \\(\\overline a \\approx 54,76923077...\\)đến hàng phần trăm ta được số gần đúng của \\(\\overline a \\) là \\(a = 54,77\\)."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Cho số gần đúng \\(a = 0,1031\\) với độ chính xác \\(d = 0,002\\). Số quy tròn của số \\(a\\) và ước lượng sai số tương đối của số quy tròn đó là",
+      "options": [
+        "A. \\(2\\% \\);",
+        "B. \\(1,9\\% \\);",
+        "C. \\(5,1\\% \\);",
+        "D. \\(0,0051\\)."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là: C Hàng của chữ số khác \\(0\\) đầu tiên bên trái của \\(d = 0,002\\) là hàng phần nghìn. Do đó ta quy tròn \\(a\\) đến hàng phần trăm được \\(0,10\\). Suy ra sai số tuyệt đối của số quy tròn \\(\\Delta \\le 0,002\\). Vì số đúng \\(\\overline a \\) thỏa mãn \\(0,1031 - 0,002 \\le \\overline a \\le 0,1031 + 0,002 \\Leftrightarrow 0,1011 \\le \\overline a \\le 0,1051\\). Do đó sai số tuyệt đối của số \\(0,10\\) là: \\({\\Delta _{0,10}} = \\left| {\\overline a - 0,10} \\right| \\le 0,0051\\) Vậy sai số tương đối của số \\(0,10\\) là: \\({\\delta _{0,10}} \\le \\frac{{0,0051}}{{0,10}} = 5,1\\% \\)."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Chiều cao của 8 bạn trong tổ 1 của lớp 10A là: \\(172\\,\\,cm;\\,\\,164\\,\\,cm;\\,\\,170\\,\\,cm;\\,\\,155\\,\\,cm;\\,\\)\\(162\\,\\,cm;\\,\\,\\,168\\,\\,cm;\\,\\,\\,175\\,\\,cm;\\,\\,183\\,\\,cm\\). Trung vị của dãy số liệu trên là",
+      "options": [
+        "A. \\(169\\,\\,cm\\);",
+        "B. \\(158,5\\,\\,cm\\);",
+        "C. \\(168\\,\\,cm\\);",
+        "D. \\(170\\,\\,cm\\)."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A Sắp xếp dãy số liệu theo thứ tự không giảm, ta được: \\(155;\\,\\,162;\\,\\,164;\\,\\,168;\\,\\,170;\\,\\,172;\\,\\,175;\\,\\,183\\). Dãy trên có tất cả 8 giá trị. Trung vị là trung bình cộng của giá trị thứ tư và giá trị thứ năm nên ta có: \\({Q_2} = \\frac{{168 + 170}}{2} = 169\\,\\,cm\\)."
+    }
+  ]
+}

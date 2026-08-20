@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-de-kiem-tra-toan-10-ket-noi-tri-thuc-chuong-6-co-dap-an",
+  "sourceId": "vietjack:2-de-kiem-tra-toan-10-ket-noi-tri-thuc-c",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.Đề kiểm tra Toán 10 Kết nối tri thức Chương 6 có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Phần 1. Trắc nghiệm nhiều phương án lựa chọn Mỗi câu hỏi thí sinh chỉ chọn một phương án. Tìm tập nghiệm của bất phương trình \\( - 2{x^2} + 3x - 7 \\ge 0\\).",
+      "options": [
+        "A. \\(S = \\mathbb{R}\\).",
+        "B. \\(S = 0\\).",
+        "C. \\(S = \\left\\{ 0 \\right\\}\\).",
+        "D. \\(S = \\emptyset \\)."
+      ],
+      "answer": "D",
+      "note": "Lời giải Có \\(\\left\\{ \\begin{array}{l}a = - 2 < 0\\\\\\Delta = {3^2} - 4 \\cdot \\left( { - 2} \\right) \\cdot \\left( { - 7} \\right) = - 47 < 0\\end{array} \\right.\\)\\( \\Rightarrow f\\left( x \\right) = - 2{x^2} + 3x - 7 < 0\\). Do đó bất phương trình \\( - 2{x^2} + 3x - 7 \\ge 0\\) vô nghiệm. Vậy tập nghiệm của bất phương trình là \\(S = \\emptyset \\). Chọn D."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Tam thức bậc hai \\(f\\left( x \\right) = - {x^2} + 3x - 2\\) nhận giá trị không âm khi và chỉ khi",
+      "options": [
+        "A. \\(x \\in \\left( { - \\infty ;1} \\right) \\cup \\left( {2; + \\infty } \\right)\\).",
+        "B. \\(x \\in \\left( { - \\infty ;1} \\right] \\cup \\left[ {2; + \\infty } \\right)\\).",
+        "C. \\(x \\in \\left( {1;2} \\right)\\).",
+        "D. \\(x \\in \\left[ {1;2} \\right]\\)."
+      ],
+      "answer": "D",
+      "note": "Lời giải Ta có \\(f\\left( x \\right) = - {x^2} + 3x - 2 \\ge 0 \\Leftrightarrow 1 \\le x \\le 2\\). Vậy \\(x \\in \\left[ {1;2} \\right]\\) thì \\(f\\left( x \\right) \\ge 0\\). Chọn D."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trong các biểu thức sau, biểu thức nào không là tam thức bậc 2 ẩn \\(x\\)?",
+      "options": [
+        "A. \\(f\\left( x \\right) = x + 3\\).",
+        "B. \\(f\\left( x \\right) = 2{x^2} - 2\\).",
+        "C. \\(f\\left( x \\right) = 2{x^2} + x - 5\\).",
+        "D. \\(f\\left( x \\right) = - {x^2} + 2x + 5\\)."
+      ],
+      "answer": "A",
+      "note": "Lời giải \\(f\\left( x \\right) = x + 3\\) không là tam thứ bậc 2 ẩn \\(x\\). Chọn A."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Hàm số nào trong các hàm số sau đây là hàm số bậc hai?",
+      "options": [
+        "A. \\(y = 2{x^2} - \\frac{3}{2}x\\).",
+        "B. \\(y = \\frac{1}{{{x^2}}} - 3x + 1\\).",
+        "C. \\(y = {x^2} + \\frac{1}{x}\\).",
+        "D. \\(y = {x^3} - 3{x^2}\\)."
+      ],
+      "answer": "A",
+      "note": "Lời giải Hàm số \\(y = 2{x^2} - \\frac{3}{2}x\\) là hàm số bậc hai. Chọn A."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hàm số \\(y = f\\left( x \\right)\\) có đồ thị như hình vẽ Điểm nào sau đây không thuộc đồ thị hàm số \\(y = f\\left( x \\right)\\)?",
+      "options": [
+        "A. \\(A\\left( { - 1;3} \\right)\\).",
+        "B. \\(D\\left( {5;4} \\right)\\).",
+        "C. \\(C\\left( {2; - 1} \\right)\\).",
+        "D. \\(B\\left( {4;5} \\right)\\)."
+      ],
+      "answer": "D",
+      "note": "Lời giải Điểm \\(B\\left( {4;5} \\right)\\) không thuộc đồ thị hàm số \\(y = f\\left( x \\right)\\). Chọn D."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Hàm số \\(y = {x^2} + 4x + 5\\) đồng biến trên khoảng nào dưới đây?",
+      "options": [
+        "A. \\(\\left( { - \\infty ; - 2} \\right)\\).",
+        "B. \\(\\left( { - \\infty ;2} \\right)\\).",
+        "C. \\(\\left( { - 2; + \\infty } \\right)\\).",
+        "D. \\(\\left( {2; + \\infty } \\right)\\)."
+      ],
+      "answer": "C",
+      "note": "Lời giải Trục đối xứng \\(x = - \\frac{b}{{2a}} = - 2\\) mà \\(a = 1 > 0\\) nên hàm số đồng biến trên \\(\\left( { - 2; + \\infty } \\right)\\). Chọn C."
+    }
+  ]
+}

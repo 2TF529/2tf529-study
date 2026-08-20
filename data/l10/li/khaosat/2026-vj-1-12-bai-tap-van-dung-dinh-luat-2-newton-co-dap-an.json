@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-12-bai-tap-van-dung-dinh-luat-2-newton-co-dap-an",
+  "sourceId": "vietjack:1-12-bai-tap-van-dung-dinh-luat-2-newton",
+  "grade": "l10",
+  "subjectSlug": "li",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.12 Bài tập vận dụng định luật 2 Newton có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Ô tô khối lượng 4 tấn đang chuyển động với vận tốc 5 m/s thì tăng tốc chuyển động thẳng nhanh dần đều, sau khi đi thêm được 50 m thì đạt vận tốc 15 m/s. Tính lực kéo của động cơ trong khoảng thời gian tăng tốc, biết hệ số ma sát trượt của mặt đường là 0,05 và g = 10 m/s 2 .",
+      "options": [
+        "A. 10 000 N.",
+        "B. 1000 N.",
+        "C. 2000 N.",
+        "D. 20 000 N."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Chọn hệ trục tọa độ Oxy như hình vẽ, chiều dương cùng chiều chuyển động của xe Các lực tác dụng lên xe gồm F → K , F → m s , P → , N → có phương và chiều như hình vẽ. Viết phương trình định luật II Niu - ton: F → K + F → m s + P → + N → = m a → (1) Chiếu phương trình (1) lên hệ trục tọa độ Oxy Ox: F K – F ms = ma Þ F K = m N + ma (2) Oy: N – P = 0 Þ N = P = mg (3) Ta có: v 2 − v 0 2 = 2 a s ⇒ a = v 2 − v 0 2 2 s = 15 2 − 5 2 2.50 = 2 m/s 2 (4) Thay (4) và (3) vào (2) ta tính được F k = 0,05.4000.10 + 4000.2 = 10 000 N"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Một vật có khối lượng m = 10 kg, chịu tác dụng của lực kéo F K hợp với phương ngang một góc 30 0 và lực ma sát có hệ số ma sát µ = 0,2. Lấy g = 10m/s 2 . Biết vật chuyển động nhanh dần trên mặt ngang không vận tốc đầu, sau khi đi được 100 m vật đạt vận tốc 20 m/s. Lực kéo tác dụng lên vật có độ lớn là:",
+      "options": [
+        "A. 44,1 N.",
+        "B. 41,4 N.",
+        "C. 14,4 N.",
+        "D. 11,4 N."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Chọn hệ trục tọa độ Oxy như hình vẽ, chiều dương cùng chiều chuyển động của vật Các lực tác dụng lên vật gồm F → K , F → m s , P → , N → có phương và chiều như hình vẽ. Viết phương trình định luật II Niuton: F → K + F → m s + P → + N → = m a → (1) Chiếu phương trình (1) lên hệ trục tọa độ Oxy Ox: F K .cos a – F ms = ma (2) Oy: N + F K .sin a – P = 0 (3) Từ (2) và (3) suy ra: F K = μ m g + m a cos α + μ . sin α Ta có: v 2 − v 0 2 = 2 a s ⇒ a = v 2 − v 0 2 2 s = 20 2 − 0 2 2.100 = 2 m / s 2 ⇒ F K = 0 , 2.10.10 + 10.2 cos30 0 + 0,2.sin30 = 41 , 4 N"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Tác dụng vào vật có khối lượng 2 kg đang nằm yên một lực 2 N. Sau 2 s kể từ lúc chịu tác dụng của lực, vật đi được quãng đường là bao nhiêu và tính vận tốc vật đạt được khi đó? Bỏ qua ma sát giữa vật và sàn, lấy g = 10 m/s 2 .",
+      "options": [
+        "A. 2 m và 2 m/s.",
+        "B. 2 m và 1 m/s.",
+        "C. 1 m và 2 m/s.",
+        "D. 1 m và 1 m/s."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Phân tích các lực tác dụng lên vật như hình vẽ Viết phương trình định luật II Niuton F → K + P → + N → = m a → (1) Chiếu phương trình (1) lên hệ trục tọa độ Oxy Ox: F K = m a ⇒ a = F K m = 2 2 = 1 m / s 2 Oy: N = P = mg Quãng đường vật đi được là: s = v 0 t + 1 2 a t 2 = 0 + 1 2 .1.2 2 = 2 m Vận tốc của vật khi đó là: v = v 0 + a t = 0 + 1.2 = 2 m / s"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Một lực không đổi tác dụng vào một vật có khối lượng 7,5 kg làm vật thay đổi tốc độ từ 8 m/s đến 3 m/s trong khoảng thời gian 2 s nhưng vẫn giữ nguyên chiều chuyển động. Lực tác dụng vào vật có giá trị là:",
+      "options": [
+        "A. 18,75 N.",
+        "B. – 18,75 N.",
+        "C. 20,5 N.",
+        "D. – 20,5 N."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Chọn chiều dương là chiều chuyển động của vật. Gia tốc của vật là: a = v − v 0 Δ t = − 2 , 5 m / s 2 Áp dụng định luật II Newton, ta có: F = m . a = − 18 , 75 N"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Một vật chuyển động trong không khí, trong nước hoặc trong chất lỏng nói chung đều sẽ chịu tác dụng của lực cản. Xét một viên bi thép có khối lượng 1 g đang ở trạng thái nghỉ được thả rơi trong dầu. Người ta khảo sát chuyển động của viên bi trong dầu và vẽ đồ thị tốc độ theo thời gian của viên bi như Hình 10.2. Cho biết lực đẩy Archimecdes có độ lớn là F A = 1 , 2.10 − 3 N và lấy g = 9,8 m/s 2 . Độ lớn lực cản của dầu tác dụng lên viên bi sau thời điểm t 2 là:",
+      "options": [
+        "A. 8 , 6.10 − 3 N",
+        "B. 8 , 7.10 − 3 N",
+        "C. 8 , 8.10 − 3 N",
+        "D. 8 , 9.10 − 3 N"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Gọi F c (N) là độ lớn lực cản do dầu tác dụng lên viên bi. Dựa vào đồ thị, ta thấy kể từ thời điểm t 2 trở về sau thì viên bi sẽ chuyển động thẳng đều. Viên bi chịu tác dụng của trọng lực và lực đẩy Ác – si – mét, lực cản của dầu. Theo định luật II Newton, vật chuyển động đều nên F c → + P → + F A → = 0 → Chọn chiều dương thẳng đứng hướng xuống, ta có: Lực cản tác dụng lên vật, F c = P − F A = m g − F A = 8 , 6.10 − 3 N"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Một ngọn đèn có khối lượng m = 1 kg được treo dưới trần nhà bằng một sợi dây. Lấy g = 9,8 m/s 2 . Dây chỉ chịu được lực căng lớn nhất là 8 N. Nếu treo ngọn đèn này vào một đầu dây thì",
+      "options": [
+        "A. lực căng sợi dây là 9 N và sợi dây sẽ bị đứt.",
+        "B. lực căng sợi dây là 9,8 N và sợi dây sẽ bị đứt.",
+        "C. lực căng sợi dây là 9,8 N và sợi dây không bị đứt.",
+        "D. lực căng sợi dây là 4,9 N và sợi dây không bị đứt."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Khi treo ngọn đèn vào một đầu dây thì độ lớn của lực căng dây bằng độ lớn của trọng lực. T = P = mg = 9,8 N. Lực căng dây lúc này lớn hơn lực căng cực đại mà dây chịu được nên dây sẽ bị đứt."
+    }
+  ]
+}

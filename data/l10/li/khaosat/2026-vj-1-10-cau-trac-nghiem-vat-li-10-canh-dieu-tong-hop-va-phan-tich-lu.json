@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-10-cau-trac-nghiem-vat-li-10-canh-dieu-tong-hop-va-phan-tich-lu",
+  "sourceId": "vietjack:1-10-cau-trac-nghiem-vat-li-10-canh-dieu",
+  "grade": "l10",
+  "subjectSlug": "li",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.10 câu Trắc nghiệm Vật lí 10 Cánh Diều Tổng hợp và phân tích lực có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Hai lực đồng quy F 1 và F 2 có độ lớn bằng 9 N và 12 N. Độ lớn của hợp lực F có thể bằng",
+      "options": [
+        "A. 1 N.",
+        "B. 15 N.",
+        "C. 2 N.",
+        "D. 25 N."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B F thỏa mãn: F 1 − F 2 ≤ F ≤ F 1 + F 2"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Chọn phát biểu sai .",
+      "options": [
+        "A. Đơn vị của lực là niutơn (N).",
+        "B. Phân tích lực là thay thế một lực bằng hai hay nhiều lực có tác dụng giống hệt như lực đó.",
+        "C. Luôn có thể phân tích lực theo hai phương bất kì.",
+        "D. Phân tích lực là phép làm ngược lại với tổng hợp lực."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Chỉ khi biết lực có tác dụng cụ thể theo hai phương nào thì mới phân tích lực theo hai phương ấy C sai."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trọng lực P tác dụng vào vật nằm trên mặt phẳng dốc nghiêng như hình vẽ. Phân tích P → = P → t + P → n . Kết luận nào sau đây sai ?",
+      "options": [
+        "A. P → t = P . sin α",
+        "B. P → t có tác dụng kéo vật xuống dốc.",
+        "C. P → n có tác dụng nén vật xuống mặt dốc.",
+        "D. P → t luôn đóng vai trò lực kéo."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Khi vật lên dốc thì P → t đóng vai trò lực cản ⇒ D sai."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hai lực đồng quy có độ lớn F 1 = 40 N, F 2 = 30 N. Hãy tìm độ lớn của hai lực khi chúng hợp nhau một góc 0 0 ?",
+      "options": [
+        "A. 70 N.",
+        "B. 50 N.",
+        "C. 60 N.",
+        "D. 40 N."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có F → = F → 1 + F → 2 → ( F 1 → ; F → 2 ) = 0 0 F = F 1 + F 2 ⇒ F = 40 + 30 = 70 N"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hai lực đồng quy có độ lớn F 1 = 40 N, F 2 = 30 N . Hãy tìm độ lớn của hai lực khi chúng hợp nhau một góc 60 0 ?",
+      "options": [
+        "A. 7 3 N.",
+        "B. 10 73 N.",
+        "C. 3 7 N.",
+        "D. 73 10 N."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có: ( F 1 → ; F → 2 ) = 60 0 ⇒ F 2 = F 1 2 + F 2 2 + 2 F 1 F 2 cos α ⇒ F 2 = 40 2 + 30 2 + 2.40.30 cos 60 0 ⇒ F = 10 37 N"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho 3 lực đồng quy, đồng phẳng F → 1 , F → 2 , F → 3 lần lượt hợp với trục Ox những góc 0 0 , 60 0 , 120 0 ; F 1 = F 3 = 2F 2 = 30N. Tìm hợp lực của ba lực trên.",
+      "options": [
+        "A. 45 N.",
+        "B. 50 N.",
+        "C. 55 N.",
+        "D. 40 N."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Theo bài ra ( F 1 → ; F → 3 ) = 120 0 ; F 1 = F 3 nên theo quy tắc tổng hợp hình bình hành và tính chất hình thoi Ta có ( F 1 → ; F → 13 ) = 60 0 ; F 1 = F 3 = F 13 = 30 N Mà ( F 1 → ; F → 2 ) = 60 0 ⇒ F → 2 ↑ ↑ F → 13 Vậy F = F 13 + F 2 = 30 + 15 = 45 N"
+    }
+  ]
+}

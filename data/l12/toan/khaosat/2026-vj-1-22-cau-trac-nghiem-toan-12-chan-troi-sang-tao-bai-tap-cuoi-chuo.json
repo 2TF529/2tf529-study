@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-1-22-cau-trac-nghiem-toan-12-chan-troi-sang-tao-bai-tap-cuoi-chuo",
+  "sourceId": "vietjack:1-22-cau-trac-nghiem-toan-12-chan-troi-s",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.22 câu trắc nghiệm Toán 12 Chân trời sáng tạo Bài tập cuối chương IV (Đúng sai - Trả lời ngắn) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: TRẮC NGHIỆM NHIỀU LỰA CHỌN Cho hàm số \\(f\\left( x \\right)\\) liên tục trên \\(\\mathbb{R}\\) và có \\[\\int\\limits_0^2 {f(x){\\rm{d}}x} = 9;\\;\\int\\limits_2^4 {f(x){\\rm{d}}x} = 4.\\] Tính \\(I = \\int\\limits_0^4 {f(x){\\rm{d}}x} .\\)",
+      "options": [
+        "A. \\(I = 36\\) .",
+        "B. \\(I = 5\\) .",
+        "C. \\(I = \\frac{9}{4}\\) .",
+        "D. \\(I = 13\\) ."
+      ],
+      "answer": "D",
+      "note": "Chọn D \\(I = \\int\\limits_0^4 {f(x){\\rm{d}}x} = \\int\\limits_0^2 {f(x){\\rm{d}}x} + \\int\\limits_2^4 {f(x){\\rm{d}}x} = 9 + 4 = 13\\)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho \\(f(x)\\) là hàm số liên tục trên \\(\\left[ {a;b} \\right]\\) và \\(F(x)\\) là nguyên hàm của \\(f(x)\\) . Khẳng định nào sau đây là sai ?",
+      "options": [
+        "A. \\(\\int\\limits_a^b {f\\left( x \\right)dx} = - \\int\\limits_b^a {f\\left( t \\right)dt} \\) .",
+        "B. \\(\\int\\limits_a^a {f\\left( x \\right)dx} = 0\\) .",
+        "C. \\(\\int\\limits_a^b {f\\left( x \\right)dx} = \\left. {F\\left( x \\right)} \\right|_a^b = F\\left( b \\right) - F\\left( a \\right)\\) .",
+        "D. \\(\\int\\limits_a^b {f\\left( x \\right)dx} = \\left. {f'\\left( x \\right)} \\right|_b^a = f'\\left( b \\right) - f'\\left( a \\right)\\) ."
+      ],
+      "answer": "D",
+      "note": "Chọn D \\(\\int\\limits_a^b {f\\left( x \\right)dx} = \\left. {F\\left( x \\right)} \\right|_a^b = F\\left( b \\right) - F\\left( a \\right)\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho hàm số \\(f\\left( x \\right)\\) liên tục trên \\(\\mathbb{R}\\) , có đồ thị như hình vẽ. Gọi \\(S\\) là diện tích hình phẳng được giới hạn bởi đồ thị hàm số \\(f\\left( x \\right)\\) , trục hoành và trục tung. Khẳng định nào sau đây đúng?",
+      "options": [
+        "A. \\(S = \\int\\limits_c^d {f\\left( x \\right){\\rm{d}}x} - \\int\\limits_d^0 {f\\left( x \\right){\\rm{d}}x} \\) .",
+        "B. \\[S = - \\int\\limits_c^d {f\\left( x \\right){\\rm{d}}x - \\int\\limits_d^0 {f\\left( x \\right){\\rm{d}}x} } \\] .",
+        "C. \\[S = \\int\\limits_c^d {f\\left( x \\right){\\rm{d}}x + \\int\\limits_d^0 {f\\left( x \\right){\\rm{d}}x} } \\] .",
+        "D. \\[S = - \\int\\limits_c^d {f\\left( x \\right){\\rm{d}}x + \\int\\limits_d^0 {f\\left( x \\right){\\rm{d}}x} } \\] ."
+      ],
+      "answer": "A",
+      "note": "Chọn A \\(S = \\int\\limits_c^0 {\\left| {f\\left( x \\right)} \\right|dx} = \\int\\limits_c^d {\\left| {f\\left( x \\right)} \\right|dx} + \\int\\limits_d^0 {\\left| {f\\left( x \\right)} \\right|dx} = \\int\\limits_c^d {f\\left( x \\right)dx} - \\int\\limits_d^0 {f\\left( x \\right)dx} \\)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hai hàm số \\(y = f\\left( x \\right)\\) và \\(y = g\\left( x \\right)\\) liên tục trên \\(\\mathbb{R}\\) . Mệnh đề nào sau đây sai ?",
+      "options": [
+        "A. \\(\\int {\\left[ {f\\left( x \\right) + g\\left( x \\right)} \\right]} \\,dx = \\int {f\\left( x \\right)} \\,dx + \\int {g\\left( x \\right)} \\,dx\\) .",
+        "B. \\(\\int {\\left[ {f\\left( x \\right) - g\\left( x \\right)} \\right]} \\,dx = \\int {f\\left( x \\right)} \\,dx - \\int {g\\left( x \\right)} \\,dx\\) .",
+        "C. \\(\\int {kf\\left( x \\right)} \\,dx = k\\int {f\\left( x \\right)} \\,dx\\) với mọi hằng số k .",
+        "D. \\(\\int {dx} \\, = x + C\\) ."
+      ],
+      "answer": "C",
+      "note": "Chọn C \\(\\int {kf\\left( x \\right)} \\,dx = k\\int {f\\left( x \\right)} \\,dx,k \\ne 0\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho \\(\\int\\limits_0^2 {f\\left( x \\right){\\rm{d}}x} = 3\\) . Khi đó, \\(\\int\\limits_0^2 {\\left( {f\\left( x \\right) + 1} \\right){\\rm{d}}x} \\) có giá trị bằng",
+      "options": [
+        "A. \\(4\\) .",
+        "B. \\(1\\) .",
+        "C. \\(5\\) .",
+        "D. \\(7\\) ."
+      ],
+      "answer": "C",
+      "note": "Chọn C \\(\\int\\limits_0^2 {\\left( {f\\left( x \\right) + 1} \\right){\\rm{d}}x} = \\int\\limits_0^2 {f\\left( x \\right){\\rm{d}}x} + \\int\\limits_0^2 {{\\rm{d}}x} = 3 + \\left. x \\right|_0^2 = 5\\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho hàm số \\(y = f\\left( x \\right)\\) liên tục trên đoạn \\(\\left[ {a;b} \\right]\\) . Gọi \\(D\\) là diện tích hình phẳng giới hạn bởi đồ thị hàm số \\(y = f\\left( x \\right)\\) , trục hoành, đường thẳng \\(x = a\\) và đường thẳng \\(x = b\\) . Khi đó diện tích \\(S\\) của hình phẳng \\(D\\) được tính theo công thức",
+      "options": [
+        "A. \\(S = \\int\\limits_a^b {f\\left( x \\right){\\rm{d}}x} \\) .",
+        "B. \\(S = \\int\\limits_a^b {\\left| {f\\left( x \\right)} \\right|{\\rm{d}}x} \\) .",
+        "C. \\(S = \\pi \\int\\limits_a^b {{f^2}\\left( x \\right){\\rm{d}}x} \\) .",
+        "D. \\(S = \\left| {\\int\\limits_a^b {f\\left( x \\right){\\rm{d}}x} } \\right|\\) ."
+      ],
+      "answer": "B",
+      "note": "Chọn B \\(S = \\int\\limits_a^b {\\left| {f\\left( x \\right)} \\right|{\\rm{d}}x} \\)."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Biết \\(F\\left( x \\right)\\) là một nguyên hàm của hàm số \\(f\\left( x \\right) = \\,\\sin x\\) và đồ thị hàm số \\(y = F\\left( x \\right)\\) đi qua điểm \\[M\\left( {0;1} \\right)\\] . Tính \\(F\\left( {\\frac{\\pi }{2}} \\right).\\)",
+      "options": [
+        "A. \\(F\\left( {\\frac{\\pi }{2}} \\right) = 1\\) .",
+        "B. \\(F\\left( {\\frac{\\pi }{2}} \\right) = 2\\) .",
+        "C. \\(F\\left( {\\frac{\\pi }{2}} \\right) = - 1\\) .",
+        "D. \\(F\\left( {\\frac{\\pi }{2}} \\right) = 0\\) ."
+      ],
+      "answer": "B",
+      "note": "Chọn B Ta có \\(F\\left( x \\right) = \\int {\\sin xdx} = - \\cos x + C\\). Vì \\(F\\left( 0 \\right) = 1\\) nên \\( - \\cos 0 + C = 1 \\Rightarrow C = 2\\). Khi đó \\(F\\left( x \\right) = - \\cos x + 2\\). Do đó \\(F\\left( {\\frac{\\pi }{2}} \\right) = - \\cos \\frac{\\pi }{2} + 2 = 2\\)."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Tích phân \\(\\int\\limits_1^2 {2xdx} \\) có giá trị là:",
+      "options": [
+        "A. 4 .",
+        "B. 3 .",
+        "C. 2 .",
+        "D. 1 ."
+      ],
+      "answer": "B",
+      "note": "Chọn B \\(\\int\\limits_1^2 {2xdx} = \\left. {{x^2}} \\right|_1^2 = 3\\)."
+    }
+  ]
+}

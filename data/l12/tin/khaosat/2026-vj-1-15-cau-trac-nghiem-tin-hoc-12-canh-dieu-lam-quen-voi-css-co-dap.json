@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-12-canh-dieu-lam-quen-voi-css-co-dap",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-12-canh-die",
+  "grade": "l12",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 12 Cánh diều Làm quen với CSS có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Câu 1: Bộ chọn (selector) trong CSS dùng để làm gì?",
+      "options": [
+        "A. Xác định các thuộc tính CSS.",
+        "B. Xác định các phần tử HTML được áp dụng kiểu trình bày.",
+        "C. Xác định màu sắc của phần tử.",
+        "D. Xác định phông chữ cho phần tử."
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Bộ chọn (selector) trong CSS xác định các phần tử HTML mà các quy tắc định dạng sẽ được áp dụng."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: CSS giúp tách biệt nội dung và định dạng như thế nào?",
+      "options": [
+        "A. Giúp thay đổi nội dung của trang web dễ dàng hơn.",
+        "B. Cho phép các nhà phát triển web sử dụng cùng một mã CSS trên nhiều trang web.",
+        "C. Cho phép thay đổi định dạng của nội dung mà không cần thay đổi mã HTML.",
+        "D. Giúp tối ưu hóa trang web cho công cụ tìm kiếm."
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: CSS tách biệt nội dung và định dạng, cho phép thay đổi định dạng mà không cần thay đổi mã HTML, giúp dễ dàng bảo trì và tái sử dụng mã CSS."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Thuộc tính CSS nào được sử dụng để định dạng màu chữ?",
+      "options": [
+        "A. background-color",
+        "B. text-color",
+        "C. font-color",
+        "D. color"
+      ],
+      "answer": "D",
+      "note": "Đáp án: D Giải thích: Thuộc tính color trong CSS được sử dụng để định dạng màu chữ của phần tử HTML."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Để định dạng phông chữ, thuộc tính nào được sử dụng trong CSS?",
+      "options": [
+        "A. font-style",
+        "B. font-weight",
+        "C. font-family",
+        "D. font-size"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Thuộc tính c định tên phông chữ sẽ được áp dụng cho các phần tử HTML."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Giá trị của thuộc tính nh bằng đơn vị nào?",
+      "options": [
+        "A. inches",
+        "B. pixels",
+        "C. meters",
+        "D. kilograms"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Giá trị của thuộc tính nh theo đơn vị điểm ảnh (pixels) hoặc phần trăm để xác định kích cỡ chữ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Thuộc tính border-style trong CSS dùng để làm gì?",
+      "options": [
+        "A. Xác định màu đường viền.",
+        "B. Xác định độ dày của đường viền.",
+        "C. Xác định kiểu trình bày đường viền.",
+        "D. Xác định vị trí đường viền."
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Thuộc tính border-style xác định kiểu trình bày của đường viền, ví dụ như dotted (dấu chấm liền nhau) hay solid (đường liền nét)."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-3-12-bai-tap-tim-dieu-kien-de-can-thuc-bac-hai-co-nghia-co-loi-gi",
+  "sourceId": "vietjack:3-12-bai-tap-tim-dieu-kien-de-can-thuc-b",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.12 bài tập Tìm điều kiện để căn thức bậc hai có nghĩa có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Điều kiện xác định của biểu thức \\(A = \\sqrt {{{\\left( {1 - x} \\right)}^2}} - \\sqrt {{{\\left( {x + 2} \\right)}^2}} \\) là",
+      "options": [
+        "A. −2 < x < 1.",
+        "B. −2 ≤ x ≤ 1.",
+        "C. x ≥ 1.",
+        "D. x ∈ ℝ."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Điều kiện xác định của biểu thức A là (1 – x) 2 ≥ 0 (luôn đúng) và (x + 2) 2 ≥ 0 (luôn đúng). Vậy biểu thức A xác định với mọi x ∈ ℝ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Điều kiện xác định của biểu thức \\(A = \\sqrt {{x^2} - 2x + 1} \\) là",
+      "options": [
+        "A. x ∈ ℝ.",
+        "B. x ≠ 1.",
+        "C. x > 1.",
+        "D. x ≥ 1."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Điều kiện xác định của biểu thức A là x 2 – 2x + 1 ≥ 0 hay (x – 1) 2 ≥ 0 (luôn đúng với mọi x ∈ ℝ). Vậy biểu thức A xác định với mọi x ∈ ℝ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Điều kiện xác định của biểu thức \\(A = \\frac{{2\\sqrt x + 1}}{{\\sqrt x + 3}}\\) là",
+      "options": [
+        "A. x ∈ ℝ.",
+        "B. x ≠ 0.",
+        "C. x > 0.",
+        "D. x ≥ 0."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D • \\(\\sqrt x \\) xác định khi x ≥ 0. • \\(\\sqrt x + 3 \\ne 0\\) (luôn đúng với mọi x ≥ 0). Vậy điều kiện xác định của biểu thức A là x ≥ 0."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Điều kiện xác định của biểu thức \\(B = \\frac{{\\sqrt x }}{{\\sqrt x - 3}} + \\frac{{2\\sqrt x - 24}}{{x - 9}}\\) là",
+      "options": [
+        "A. x ∈ ℝ.",
+        "B. x ≠ 3.",
+        "C. x > 0, x ≠ 9.",
+        "D. x ≥ 0, x ≠ 9."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D • \\(\\sqrt x \\) xác định khi x ≥ 0. • \\(\\sqrt x - 3 \\ne 0\\) hay \\(\\sqrt x \\ne 3\\) suy ra x ≠ 9. • x – 9 ≠ 0 suy ra x ≠ 9. Vậy điều kiện xác định của biểu thức là x ≥ 0 và x ≠ 9."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Căn thức nào dưới đây có điều kiện xác định với mọi a ∈ ℝ?",
+      "options": [
+        "A. \\(P = \\frac{{2\\sqrt a }}{{\\sqrt a + 2}}\\).",
+        "B. \\(P = \\frac{{\\sqrt a + 1}}{{\\sqrt {{a^2}} + 1}}\\).",
+        "C. \\(P = \\frac{{2a + \\sqrt 8 }}{{\\sqrt {{a^2} + 1} }}\\).",
+        "D. \\(P = \\frac{{2\\sqrt a - 4}}{{\\sqrt {{a^2} + 1} - 2}}\\)."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Nhận thấy biểu thức \\(P = \\frac{{2a + \\sqrt 8 }}{{\\sqrt {{a^2} + 1} }}\\) luôn xác định với mọi a ∈ ℝ vì \\(\\sqrt {{a^2} + 1} \\) luôn xác định với mọi a ∈ ℝ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Điều kiện xác định của biểu thức \\(A = \\frac{{3\\sqrt x + x}}{{9 - x}}\\) là",
+      "options": [
+        "A. x ∈ ℝ.",
+        "B. x ≠ 3.",
+        "C. x > 0, x ≠ 9.",
+        "D. x ≥ 0, x ≠ 9."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Ta có: • \\(\\sqrt x \\) xác định khi x ≥ 0. • 9 – x ≠ 0 khi x ≠ 9. Vậy điều kiện xác định của biểu thức A là x ≥ 0 và x ≠ 9."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-4-10-bai-tap-ung-dung-hoan-vi-to-hop-chinh-hop-vao-cac-bai-toan-d",
+  "sourceId": "vietjack:4-10-bai-tap-ung-dung-hoan-vi-to-hop-chi",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "4.10 Bài tập Ứng dụng hoán vị, tổ hợp, chỉnh hợp vào các bài toán đếm (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Có bao nhiêu cách xếp 5 bạn An, Bình, Cường, Dũng, Đạt ngồi chung vào 1 băng ghế dài?",
+      "options": [
+        "A. 625;",
+        "B. 480;",
+        "C. 120;",
+        "D. 100."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Số cách xếp 5 bạn vào một băng ghế dài là : P 5 = 5! = 120 (cách)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Có 3 viên bi đỏ, 4 viên bi xanh và 5 viên bi vàng. Hỏi có bao nhiêu cách đặt các viên bi thành 1 hàng sao cho các viên bi cùng màu đứng cạnh nhau?",
+      "options": [
+        "A. 479 001;",
+        "B. 350 210;",
+        "C. 235 596;",
+        "D. 103 680."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Coi các viên bi cùng màu là 1 tập hợp. Số cách xếp các tập hợp này là P 3 = 3! = 6 (cách). Số cách xếp các viên bi đỏ cạnh nhau là : P 3 = 3! = 6 (cách). Số cách xếp các viên bi xanh cạnh nhau là : P 4 = 4! = 24 (cách). Số cách xếp các viên bi vàng cạnh nhau là : P 5 = 5! = 120 (cách). S ố cách xếp các viên bi thỏa mãn yêu cầu đề bài là : 6 . 6 . 24 . 120 = 103 680 (cách). Vậy có 103 680 cách đặt các viên bi thành 1 hàng sao cho các viên bi cùng màu đứng cạnh nhau ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Từ mỗi hoán vị của các chữ số 1, 2, 3, 4, 5 , ta được một số tự nhiên. Tổng tất cả các số tự nhiên được tạo thành từ 5 chữ số theo cách trên là",
+      "options": [
+        "A. 3 999 960;",
+        "B. 3 781 360;",
+        "C. 3 860 256;",
+        "D. 3 732 560."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Số lần xuất hiện của chữ số 1 ở hàng đơn vị là : 1 . 4! = 24 (lần). Số lần xuất hiện của chữ số 1 ở hàng chục là : 1 . 4! = 24 (lần). Tương tự như vậy, ta thấy mỗi chữ số sẽ xuất hiện ở mỗi hàng 24 lần. Tổng của các số lập được là : (1 + 2 + 3 + 4 + 5) . 24 . (10 + 10 2 + … + 10 5 ) = 3 999 960. Vậy t ổng tất cả các số tự nhiên được tạo thành từ 5 chữ số theo cách trên là 3 999 960."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Một lớp học có 32 học sinh. Có bao nhiêu cách bầu ban cán sự lớp gồm lớp trưởng, lớp phó và bí thư từ 32 học sinh của lớp học?",
+      "options": [
+        "A. 32 768;",
+        "B. 29 760;",
+        "C. 30 560;",
+        "D. 31 480."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Số cách bầu ban cán sự lớp là: A 32 3 = 29 760 (cách)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Huấn luyện viên một đội bóng đá muốn chọn 5 cầu thủ để đá luân lưu từ 11 cầu thủ của đội bóng. Có bao nhiêu cách chọn để 2 cầu thủ A hoặc B thực hiện cú đá đầu tiên?",
+      "options": [
+        "A. 10 080;",
+        "B. 14 280;",
+        "C. 15 840;",
+        "D. 12 360."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Số cách xếp cầu thủ thực hiện cú đá đầu tiên là: A 2 1 = 2 (cách). Số cách xếp các cầu thực hiện các cú đá còn lại là: A 10 4 = 5040 (cách). S ố cách chọn của huấn luyện viên là : 2 . 5040 = 10 080 (cách). Vậy có 10 080 cách chọn để 2 cầu thủ A hoặc B thực hiện cú đá đầu tiên ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Huấn luyện viên một đội bóng đá muốn chọn 5 cầu thủ để đá luân lưu. Có bao nhiêu cách chọn để 2 cầu thủ A và B thực hiện cú đá đầu tiên?",
+      "options": [
+        "A. 2016;",
+        "B. 1634;",
+        "C. 1280;",
+        "D. 1008."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là D: Có 2 cách xếp 2 cầu thủ A và B là AB và BA. Số cách xếp các cầu thực hiện các cú đá còn lại là A 9 3 = 504 (cách). Vậy số cách chọn của huấn luyện viên là 2 . 504 = 1008 (cách)."
+    }
+  ]
+}

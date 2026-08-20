@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-de-kiem-tra-toan-12-canh-dieu-chuong-3-co-dap-an",
+  "sourceId": "vietjack:2-de-kiem-tra-toan-12-canh-dieu-chuong-3",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "title": "2.Đề kiểm tra Toán 12 Cánh diều Chương 3 có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho mẫu số liệu ghép nhóm về tuổi thọ (đơn vị tính là năm) của một loại bóng đèn mới như sau. Nhóm chứa tứ phân vị thứ nhất của mẫu số liệu là",
+      "options": [
+        "A. \\([2;3,5)\\).",
+        "B. \\([3,5;5)\\).",
+        "C. \\([5;6,5)\\).",
+        "D. \\([6,5;8)\\)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng: B Nhóm chứa tứ phân vị thứ nhất của mẫu số liệu là \\([3,5;5)\\)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Thời gian hoàn thành giải chạy của các vận động viên được cho như bảng sau: Khoảng biến thiên của mẫu số liệu ghép nhóm này là",
+      "options": [
+        "A. 15.",
+        "B. 25.",
+        "C. 37.",
+        "D. 20."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng: D Khoảng biến thiên: \\(35 - 15 = 20\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Bạn Chi rất thích nhảy hiện đại. Thời gian tập nhảy mỗi ngày trong thời gian gần đây của bạn Chi được thống kê lại ở bảng sau: Khoảng tứ phân vị của mẫu số liệu ghép nhóm là",
+      "options": [
+        "A. 23,75.",
+        "B. 27,5.",
+        "C. 31,88.",
+        "D. 8,125."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng: D Cỡ mẫu \\(n = 18\\). Gọi \\({x_1};{x_2}; \\ldots ;{x_{18}}\\) là mẫu số liệu gốc về thời gian tập nhảy mỗi ngày của bạn Chi được xếp theo thứ tự không giảm. Ta có: \\({x_1}; \\ldots ;{x_6} \\in [20;25);{x_7}; \\ldots ;{x_{12}} \\in [25;30);{x_{13}}; \\ldots ;{x_{16}} \\in [30;35);{x_{17}}; \\in [35;40);{x_{18}} \\in [40;45)\\). Tứ phân vị thứ nhất của mẫu số liệu gốc là \\({x_5} \\in [20;25)\\). Do đó, tứ phân vị thứ nhất của mẫu số liệu ghép nhóm là: \\({Q_1} = 20 + \\frac{{\\frac{{18}}{4}}}{6}(25 - 20) = 23,75\\). Tứ phân vị thứ ba của mẫu số liệu gốc là \\({x_{14}} \\in [30;35)\\). Do đó, tứ phân vị thứ ba của mẫu số liệu ghép nhóm là: \\({Q_3} = 30 + \\frac{{\\frac{{3.18}}{4} - (6 + 6)}}{4}(35 - 30) = 31,875\\). Khoảng tứ phân vị của mẫu số liệu ghép nhóm là: \\({\\Delta _Q} = {Q_3} - {Q_1} = 8,125\\)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Nhiệt độ trong 55 ngày của một địa phương được cho trong bảng ghép lớp sau: Phương sai của mẫu số liệu được làm tròn đến chữ số thập phân thứ nhất nằm trong khoảng",
+      "options": [
+        "A. \\(\\left( {17;19} \\right)\\).",
+        "B. \\(\\left( {20;21} \\right)\\).",
+        "C. \\(\\left( {19;20} \\right)\\).",
+        "D. \\(\\left( {23;25} \\right)\\)."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng: C Nhiệt độ trung bình trong một ngày là: \\(\\overline x = \\frac{{20,5.5 + 23,5.7 + 26,5.8 + 29,5.16 + 32,5.12 + 35,5.7}}{{55}} = 28,9\\). Phương sai của mẫu số liệu là: \\({S^2} = \\frac{{20,{5^2}.5 + 23,{5^2}.7 + 26,{5^2}.8 + 29,{5^2}.16 + 32,{5^2}.12 + 35,{5^2}.7}}{{55}} - 28,{9^2} = 19,44\\). Phương sai của mẫu số liệu được làm tròn đến chữ số thập phân thứ nhất là \\({S^2} = 19,4\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Khối lượng của 30 củ khoai tây được cho trong bảng sau: Độ lệch chuẩn của mẫu số liệu được làm tròn đến chữ số thập phân thứ hai là",
+      "options": [
+        "A. \\(11\\).",
+        "B. \\(10,95\\).",
+        "C. \\(10,94\\).",
+        "D. \\(10,96\\)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng: B Trọng lượng trung bình của một củ khoai là: \\(\\overline x = \\frac{{75.3 + 85.6 + 95.12 + 105.6 + 115.3}}{{30}} = 95\\). Phương sai là \\({S^2} = \\frac{{{{75}^2}.3 + {{85}^2}.6 + {{95}^2}.12 + {{105}^2}.6 + {{115}^2}.3}}{{30}} - {95^2} = 120\\). Độ lệch chuẩn là: \\(S = \\sqrt {{S^2}} = \\sqrt {120} \\approx 10,95\\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Bộ phận kiểm tra chất lượng sản phẩm dùng máy để đo (chính xác đến \\(0,001\\;{\\rm{mm}}\\)) độ dày của một chi tiết máy. Kết quả đo một số sản phẩm được thống kê trong bảng sau: Nhận xét nào sau đây sai?",
+      "options": [
+        "A. Độ lệch chuẩn của mẫu lớn hơn \\[2\\].",
+        "B. Số trung bình của mẫu số liệu gần bằng với \\[20,77\\].",
+        "C. Độ dày của chi tiết máy không bị sai lệch nhiều.",
+        "D. Cỡ mẫu của mẫu số liệu là 60."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng: A Ta có cỡ mẫu \\(n = 60\\). Số trung bình của mẫu số liệu là\\[\\bar x = \\frac{{3.18,5 + 7.19,5 + 23.20,5 + 25.21,5 + 2.22,5}}{{60}} = \\frac{{623}}{{30}} \\approx 20,77.\\] Phương sai của mẫu số liệu là \\({S^2} = \\frac{1}{{60}}\\left( {3 \\cdot 18,{5^2} + 7 \\cdot 19,{5^2} + 23 \\cdot 20,{5^2} + 25 \\cdot 21,{5^2} + 2 \\cdot 22,{5^2}} \\right) - {\\left( {\\frac{{623}}{{30}}} \\right)^2} = \\frac{{179}}{{225}}\\). Độ lệch chuẩn của mẫu số liệu là \\({S^2} = \\sqrt {\\frac{{179}}{{225}}} = \\frac{{\\sqrt {179} }}{{15}} \\approx 0,89\\)."
+    }
+  ]
+}

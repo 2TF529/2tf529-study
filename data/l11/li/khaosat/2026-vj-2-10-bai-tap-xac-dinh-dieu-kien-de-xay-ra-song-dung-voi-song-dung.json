@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-10-bai-tap-xac-dinh-dieu-kien-de-xay-ra-song-dung-voi-song-dung",
+  "sourceId": "vietjack:2-10-bai-tap-xac-dinh-dieu-kien-de-xay-r",
+  "grade": "l11",
+  "subjectSlug": "li",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.10 Bài tập Xác định điều kiện để xảy ra sóng dừng với sóng dừng có hai đầu cố định (có lời giải)",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Trong hiện tượng sóng dừng trên một sợi dây có hai đầu cố định, khoảng cách giữa hai nút hoặc hai bụng liên tiếp bằng",
+      "options": [
+        "A. một bước sóng.",
+        "B. hai bước sóng.",
+        "C. một phần tư bước sóng.",
+        "D. một nửa bước sóng."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là D Trong hiện tượng sóng dừng trên một sợi dây có hai đầu cố định, khoảng cách giữa hai nút hoặc hai bụng liên tiếp bằng một nửa bước sóng."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Trong hiện tượng sóng dừng trên một sợi dây mà hai đầu được giữ cố định thì độ dài của bước sóng phải bằng",
+      "options": [
+        "A. khoảng cách giữa hai nút hoặc hai bụng.",
+        "B. độ dài của dây.",
+        "C. hai lần độ dài của dây.",
+        "D. hai lần khoảng cách giữa hai nút hoặc hai bụng kề nhau."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là D Trong hiện tượng sóng dừng trên một sợi dây mà hai đầu được giữ cố định thì độ dài của bước sóng phải bằng hai lần khoảng cách giữa hai nút hoặc hai bụng kề nhau"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Sóng dừng trên một sợi dây dài 1m (hai đầu cố định) có hai bụng sóng. Bước sóng trên dây là",
+      "options": [
+        "A. 0,25 m.",
+        "B. 0,5 m.",
+        "C. 1 m.",
+        "D. 2 m."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là C Dây có hai đầu cố định có 2 bụng sóng nên k = 2: l = k λ 2 ⇒ λ = 2 l k = 2.1 2 = 1 m"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Trên một sợi dây dài 90cm có sóng dừng. Kể cả hai nút ở hai đầu dây thì trên dây có 10 nút sóng. Biết tần số của sóng truyền trên dây là 200Hz . Tốc độ truyền sóng trên dây là",
+      "options": [
+        "A. 40 m/s.",
+        "B. 40 cm/s.",
+        "C. 90 m/s.",
+        "D. 90 cm/s."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là A Giữa hai đầu dây có 10 điểm đứng yên nên: d = 4 , 5 λ ⇒ λ = d 4 , 5 = 90 4 , 5 = 20 cm . Áp dụng công thức: v = λ f = 0 , 2.200 = 40 m/s."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Trên một sợi dây đàn hồi hai đầu cố định có sóng dừng với bước sóng l . Chiều dài l của dây phải thỏa mãn điều kiện",
+      "options": [
+        "A. l = k + 1 2 λ 4 với k=0,1,2,….",
+        "B. l = k λ 2 với k=1,2,3,….",
+        "C. l = k λ 4 với k=1,2,3,….",
+        "D. l = k + 1 2 λ 2 với k=0,1,2,…."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là B *Trên một sợi dây đàn hồi hai đầu cố định có sóng dừng với bước sóng l . Chiều dài l của dây phải là số nguyên lần nữa bước sóng tức là với k=1,2,3,…."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Điều kiện để có sóng dừng trên một sợi dây có hai đầu cố định là chiều dài dây bằng",
+      "options": [
+        "A. một số lẻ lần một phần tư bước sóng.",
+        "B. số nguyên lần bước sóng.",
+        "C. số nguyên lần nửa bước sóng.",
+        "D. hai lần bước sóng."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là C + Điều kiện để có sóng dừng trên dây với hai đầu cố định là chiều dài sợi dây bằng một số nguyên lần nửa bước sóng. bước sóng là hai lần khoảng cách giữa hai nút hoặc hai bụng kề nhau."
+    }
+  ]
+}

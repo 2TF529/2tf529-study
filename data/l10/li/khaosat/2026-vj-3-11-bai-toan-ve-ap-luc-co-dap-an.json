@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-3-11-bai-toan-ve-ap-luc-co-dap-an",
+  "sourceId": "vietjack:3-11-bai-toan-ve-ap-luc-co-dap-an",
+  "grade": "l10",
+  "subjectSlug": "li",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.11 Bài toán về áp lực có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Một khối sắt đặc hình hộp chữ nhật, có kích thước các cạnh tương ứng là 50 cm x 30cm x 15cm. Hỏi người ta phải đặt khối sắt đó như thế nào để áp suất của nó gây lên mặt sàn là 39 000 N/m 2 . Biết khối lượng riêng của sắt là 7800 kg/m 3 .",
+      "options": [
+        "A. Đặt thẳng đứng với mặt đáy có các cạnh là 30 cm x 15 cm.",
+        "B. Đặt nằm ngang với mặt đáy có các cạnh là 50 cm x 30 cm.",
+        "C. Đặt nằm ngang với mặt đáy có các cạnh là 50 cm x 15 cm.",
+        "D. Không có cách nào thỏa mãn."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Thể tích của khối sắt là: V = 50.35.15 = 22500 cm 3 = 225.10 -4 m 3 Trọng lượng của khối sắt là: P = 10.D.V = 10.7800.225.10 -4 = 1755 N Diện tích mặt bị ép là: p = F S ⇒ S = F p = P p = 1755 39000 = 0 , 045 m 2 Khi đặt đứng khối sắt, với mặt đáy có các cạnh có kích thước là 30 cm x 15 cm thì diện tích mặt bị ép: S đ = 30.15 = 450 cm 3 = 0,045 m 2 Ta thấy S = S đ Vậy người ta phải đặt đứng khối sắt để áp suất của nó gây lên mặt sàn là 39000 N/m 2"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Áp lực là:",
+      "options": [
+        "A. Lực ép có phương vuông góc với mặt bị ép.",
+        "B. Lực ép có phương song song với mặt bị ép.",
+        "C. Lực ép có phương tạo với mặt bị ép một góc bất kì.",
+        "D. Lực ép có phương trùng với mặt bị ép."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Áp lực là lực ép có phương vuông góc với mặt bị ép"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Công thức nào sau đây là công thức tính áp suất?",
+      "options": [
+        "A. p = F S",
+        "B. p = F.S .",
+        "C. p = P S",
+        "D. p = P.S ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là : A Công thức tính áp suất p = F S . Trong đó: F là độ lớn áp lực (N) S là diện tích mặt bị ép (m 2 ) p là áp suất chất lỏng (Pa)"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Đơn vị nào không phải đơn vị đo của áp suất là:",
+      "options": [
+        "A. Pa (Pascan) .",
+        "B. kg/m 3 .",
+        "C. mmHg (milimét thủy ngân).",
+        "D. atm (atmôtphe)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là : B Công thức tính áp suất p = F S . Đơn vị kg/m 3 là đơn vị của khối lượng riêng."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Đơn vị của áp lực là:",
+      "options": [
+        "A. N/m 2 .",
+        "B. Pa.",
+        "C. N.",
+        "D. N/cm 2 ."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Đơn vị của áp lực là Niutơn (N)"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Khi nhúng một khối lập phương vào nước, mặt nào của khối lập phương chịu áp lực lớn nhất của nước?",
+      "options": [
+        "A. Áp lực như nhau ở cả 6 mặt.",
+        "B. Mặt trên",
+        "C. Mặt dưới",
+        "D. Các mặt bên"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Áp suất chất lỏng phụ thuộc vào độ sâu của điểm ta xét, ở mặt dưới của khối lập phương sẽ tương ứng với vị trí có độ sâu lớn nhất so với các điểm khác của khối lập phương. Nên áp suất ở mặt dưới là lớn nhất, diện tích các mặt khối lập phương như nhau nên áp lực ở mặt dưới lớn nhất."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-toan-10-chan-troi-sang-tao-khai-niem-vecto-c",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-toan-10-chan-troi-s",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Toán 10 chân trời sáng tạo Khái niệm vectơ có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Nếu A B → = A C → thì",
+      "options": [
+        "A. Tam giác ABC là tam giác cân;",
+        "B. Tam giác ABC là tam giác đều;",
+        "C. A là trung điểm của đoạn thẳng BC;",
+        "D. Điểm B trùng với điểm C."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải Đáp án đúng là: D A B → = A C → ⇒ AB = AC và hai vectơ A B → và A C → cùng phương. Do đó: A, B, C là ba điểm thẳng hàng và B, C nằm cùng phía so với A. Mà AB = AC nên B ≡ C."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho tam giác ABC, có thể xác định được bao nhiêu vectơ khác vectơ-không có điểm đầu và điểm cuối là các đỉnh A, B, C?",
+      "options": [
+        "A. 2",
+        "B. 6",
+        "C. 9",
+        "D. 12"
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải Đáp án đúng là: B Vectơ-không là vectơ có điểm đầu và điểm cuối trùng nhau. Vectơ khác vectơ-không là vectơ có điểm đầu khác điểm cuối. Các vectơ khác vectơ-không có điểm đầu và điểm cuối là các đỉnh A, B, C là: A B → , B A → , B C → , C B → , C A → , A C → . Do đó có 6 vectơ thỏa mãn yêu cầu bài toán."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho hai vectơ không cùng phương a → và b → . Mệnh đề nào sau đây đúng?",
+      "options": [
+        "A. Không có vectơ nào cùng phương với cả hai vectơ a → và b → ;",
+        "B. Có vô số vectơ cùng phương với cả hai vectơ a → và b → ;",
+        "C. Có một vectơ cùng phương với cả hai vectơ a → và b → , đó là 0 → ;",
+        "D. Cả A, B, C đều sai."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là: C Vì 0 → cùng phương với mọi vectơ nên có một vectơ cùng phương với cả hai vectơ a → và b → đó là 0 → ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hình lục giác đều ABCDEF tâm O. Số các vectơ khác vectơ-không, cùng phương với O B → , có điểm đầu và điểm cuối đều là các đỉnh của lục giác là :",
+      "options": [
+        "A. 4",
+        "B. 6",
+        "C. 8",
+        "D. 10"
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải Đáp án đúng là: B Các vectơ cùng phương với O B → nếu chúng có giá song song hoặc trùng nhau. Do đó các vectơ cùng phương với O B → có điểm đầu và cuối là các đỉnh của lục giác là: B E → , E B → , D C → , C D → , F A → , A F → . Do đó có 6 vectơ thỏa mãn yêu cầu bài toán."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hình vuông ABCD, khẳng định nào sau đây là đúng?",
+      "options": [
+        "A. A B → = B C →",
+        "B. A B → = C D →",
+        "C. A C → = B D →",
+        "D. A D → = C B →"
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải Đáp án đúng là: D Các cặp vectơ ở đáp án A, B, C không cùng hướng nên ta loại 3 đáp án này. Vì ABCD là hình vuông nên A D = C B ⇔ A D → = C B → . Do đó ta chọn đáp án D."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho A B → và một điểm C. Có bao nhiêu điểm D thỏa mãn A B → = C D →",
+      "options": [
+        "A. 1",
+        "B. 2",
+        "C. 0",
+        "D. Vô số."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A Có một và chỉ một điểm D thỏa mãn A B → = C D → ."
+    }
+  ]
+}

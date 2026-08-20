@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-15-cau-trac-nghiem-tin-hoc-10-canh-dieu-kieu-du-lieu-xau-ki-tu-",
+  "sourceId": "vietjack:2-15-cau-trac-nghiem-tin-hoc-10-canh-die",
+  "grade": "l10",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.15 câu Trắc nghiệm Tin học 10 Cánh diều Kiểu dữ liệu xâu kí tự - Xử lí xâu kí tự có đáp án (Phần 2)",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Xâu kí tự trong Python là:",
+      "options": [
+        "A. Một kí tự",
+        "B. Một dãy các số",
+        "C. Một dãy các kí tự",
+        "D. Một giá trị bất kì."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Một xâu ký tự là một dãy các kí tự."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Xâu rỗng là xâu:",
+      "options": [
+        "A. có duy nhất một phần tử.",
+        "B. không có phần tử nào.",
+        "C. có độ dài vô hạn.",
+        "D. viết theo chiều thuận và chiều ngược giống nhau."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Xâu rỗng là xâu không có phần tử nào."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cách nào không dùng để biểu diễn xâu kí tự?",
+      "options": [
+        "A. Đặt xâu trong cặp dấu nháy đơn.",
+        "B. Đặt xâu trong cặp dấu nháy kép.",
+        "C. Đặt xâu trong ba cặp dấu nháy kép.",
+        "D. Ghi như bình thường không có gì đặc biệt."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Trong Python, xâu kí tự được đặt trong cặp nháy đơn (hoặc nháy kép) hoặc có thể đặt trong ba cặp dấu nháy kép. Lưu ý: Xâu trên nhiều dòng được đặt trong cặp ba nháy đơn hoặc 3 nháy kép."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Độ dài của xâu được tính thông qua lệnh:",
+      "options": [
+        "A. len()",
+        "B. range()",
+        "C. append()",
+        "D. for"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Hàm len() để đếm số ký tự trong 1 xâu."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho chương trình sau: y = “Trúc xin trúc mọc sân đình” x1 = “sân đình” x2 = “bờ ao” print(y.replace(x1,x2)) Kết quả của chương trình trên là:",
+      "options": [
+        "A. Trúc xinh trúc mọc sân đình",
+        "B. Trúc xinh trúc mọc sân đình bờ ao",
+        "C. Trúc xinh trúc mọc bờ ao",
+        "D. Trúc xinh trúc mọc bờ ao sân đình"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho đoạn code sau: Kết quả của đoạn lệnh trên là gì?",
+      "options": [
+        "A. 1",
+        "B. 2",
+        "C. 3",
+        "D. yes"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Hàm y.find(x) trả về số nguyên xác định vị trí đầu tiên trong xâu y mà từ đó xâu x xuất hiện như một xâu con của xâu y."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-11-ket-noi-tri-thuc-bai-20-co-dap-an",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-11-ket-noi-",
+  "grade": "l11",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 11 Kết nối tri thức Bài 20 có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Trường nào trong bảng \"bannhac\" được thiết lập làm khóa chính?",
+      "options": [
+        "A. idNhacsi",
+        "B. tenBannhac",
+        "C. idBannhac",
+        "D. tenNhacsi"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Khóa chính trong bảng \"bannhac\" được thiết lập là idBannhac vì nó là trường duy nhất để phân biệt mỗi bản ghi và có giá trị tự động tăng (AUTO_INCREMENT)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Khi khai báo khóa ngoài cho bảng \"bannhac\", trường nào được chọn làm khóa ngoài?",
+      "options": [
+        "A. idBannhac",
+        "B. tenBannhac",
+        "C. idNhacsi",
+        "D. idBanthuam"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Trường idNhacsi trong bảng \"bannhac\" được khai báo là khóa ngoài vì nó tham chiếu đến trường idNhacsi trong bảng \"nhacsi\"."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Khi khai báo khóa ngoài cho idNhacsi, bảng tham chiếu nào được chọn?",
+      "options": [
+        "A. bannhac",
+        "B. nhacsi",
+        "C. banthuam",
+        "D. casi"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Bảng tham chiếu cho trường idNhacsi trong bảng \"bannhac\" là bảng \"nhacsi\", nơi idNhacsi là khóa chính."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Khi khai báo khóa ngoài, kiểu dữ liệu của trường idNhacsi trong bảng \"bannhac\" nên là gì?",
+      "options": [
+        "A. VARCHAR",
+        "B. TEXT",
+        "C. INT",
+        "D. FLOAT"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Trường idNhacsi là khóa ngoài và cần có cùng kiểu dữ liệu với trường idNhacsi trong bảng \"nhacsi\", tức là INT."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Khi khai báo cặp trường (tenBannhac, idNhacsi) không được trùng lặp giá trị, loại khóa nào được sử dụng?",
+      "options": [
+        "A. PRIMARY",
+        "B. UNIQUE",
+        "C. FOREIGN KEY",
+        "D. INDEX"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Để đảm bảo giá trị của cặp trường (tenBannhac, idNhacsi) không trùng lặp, ta sử dụng khóa UNIQUE."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Khi tạo bảng \"bannhac\", để thêm một trường mới vào bảng, bạn sử dụng thao tác nào?",
+      "options": [
+        "A. Nhấn Ctrl+Alt+Del",
+        "B. Nhấn Ctrl+Insert",
+        "C. Nhấn Ctrl+Delete",
+        "D. Nhấn Alt+Insert"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Thao tác Ctrl+Insert hoặc nhấp chuột phải để chọn \"Add column\" được dùng để thêm một trường mới vào bảng."
+    }
+  ]
+}

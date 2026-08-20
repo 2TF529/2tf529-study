@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-12-canh-dieu-lam-quen-voi-ngon-ngu-d",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-12-canh-die",
+  "grade": "l12",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 12 Cánh diều Làm quen với ngôn ngữ đánh dấu siêu văn bản có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Câu 1: Ngôn ngữ đánh dấu siêu văn bản (HTML) được sử dụng chủ yếu để làm gì?",
+      "options": [
+        "A. Tạo bảng tính",
+        "B. Tạo trang web",
+        "C. Lập trình ứng dụng",
+        "D. Xử lý dữ liệu"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: HTML (HyperText Markup Language) là ngôn ngữ chuyên dụng để tạo trang web."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Trong HTML, dấu “/” trong thẻ có ý nghĩa gì?",
+      "options": [
+        "A. Đánh dấu phần tử bị lỗi",
+        "B. Kết thúc thẻ",
+        "C. Bắt đầu thẻ",
+        "D. Chỉ thị kiểu chữ"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Dấu “/” được sử dụng để đánh dấu kết thúc của một thẻ trong HTML."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Tên thẻ HTML có phân biệt chữ hoa và chữ thường không?",
+      "options": [
+        "A. Có phân biệt",
+        "B. Không phân biệt",
+        "C. Chỉ phân biệt trong các trình duyệt khác nhau",
+        "D. Phân biệt trong các phiên bản khác nhau"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Tên thẻ HTML không phân biệt chữ hoa và chữ thường, mặc dù thường được viết chữ thường."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Phần tử nào được sử dụng để xác định phần đầu của một tài liệu HTML?",
+      "options": [
+        "A. &lt;body&gt;",
+        "B. &lt;footer&gt;",
+        "C. &lt;head&gt;",
+        "D. &lt;header&gt;"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Phần đầu của tài liệu HTML được xác định bởi phần tử &lt;head&gt; và &lt;/head&gt;."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Thẻ nào trong phần đầu của tài liệu HTML dùng để khai báo tiêu đề của trang web?",
+      "options": [
+        "A. &lt;title&gt;",
+        "B. &lt;header&gt;",
+        "C. &lt;footer&gt;",
+        "D. &lt;meta&gt;"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Thẻ &lt;title&gt; được sử dụng để khai báo tiêu đề của trang web."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Phần nào của tài liệu HTML chứa nội dung sẽ hiển thị trên màn hình của trình duyệt web?",
+      "options": [
+        "A. Phần đầu",
+        "B. Phần chân",
+        "C. Phần thân",
+        "D. Phần meta"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Phần thân của tài liệu HTML, được xác định bởi &lt;body&gt; và &lt;/body&gt;, chứa nội dung hiển thị trên màn hình."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-2-bo-10-de-thi-cuoi-ki-2-toan-11-canh-dieu-cau-truc-moi-co-dap-an",
+  "sourceId": "vietjack:2-bo-10-de-thi-cuoi-ki-2-toan-11-canh-di",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "cuoiki2",
+  "year": 2026,
+  "title": "2.Bộ 10 đề thi cuối kì 2 Toán 11 Cánh diều cấu trúc mới có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Phần 1. Câu trắc nghiệm nhiều phương án chọn. Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh chỉ chọn một phương án đúng nhất. Rút gọn biểu thức \\[P = {x^{\\frac{1}{3}}}.\\sqrt[6]{x}\\] với \\[x > 0\\].",
+      "options": [
+        "A. \\[P = \\sqrt x \\].",
+        "B. \\[P = {x^{\\frac{1}{8}}}\\].",
+        "C. \\[P = {x^{\\frac{2}{9}}}\\].",
+        "D. \\[P = {x^2}\\]."
+      ],
+      "answer": "A",
+      "note": "Với \\[x > 0\\], ta có \\[P = {x^{\\frac{1}{3}}}.{x^{\\frac{1}{6}}}\\]\\[ = {x^{\\frac{1}{3} + \\frac{1}{6}}}\\]\\[ = {x^{\\frac{1}{2}}}\\]\\[ = \\sqrt x \\]."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Hàm số \\(y = {\\log _5}\\left( {4x - {x^2}} \\right)\\) có tập xác định là",
+      "options": [
+        "A. \\(D = \\left( {0;\\,4} \\right)\\).",
+        "B. \\(D = \\mathbb{R}\\).",
+        "C. \\(D = \\left( { - \\infty ;\\,0} \\right) \\cup \\left( {4;\\, + \\infty } \\right)\\) .",
+        "D. \\(D = \\left( {0;\\, + \\infty } \\right)\\) ."
+      ],
+      "answer": "A",
+      "note": "Điều kiện: \\(4x - {x^2} > 0 \\Leftrightarrow 0 < x < 4\\). Vậy: Tập xác định là \\(D = \\left( {0;\\,4} \\right)\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho hình lập phương \\(ABCD.A'B'C'D'\\). Góc giữa hai đường thẳng \\(BA'\\) và \\(CD\\) bằng:",
+      "options": [
+        "A. \\(45^\\circ \\).",
+        "B. \\(60^\\circ \\).",
+        "C. \\(30^\\circ \\).",
+        "D. \\(90^\\circ \\)."
+      ],
+      "answer": "A",
+      "note": "Có \\[CD{\\rm{//}}AB \\Rightarrow \\left( {BA',CD} \\right) = \\left( {BA',BA} \\right) = \\widehat {ABA'} = 45^\\circ \\] (do \\(ABB'A'\\) là hình vuông)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hình chóp \\[S.ABC\\] có \\[SA \\bot \\left( {ABC} \\right)\\]; tam giác ABC đều cạnh \\[a\\] và \\[SA = a\\] (tham khảo hình vẽ bên). Tìm góc giữa đường thẳng \\(SC\\)và mặt phẳng \\[\\left( {ABC} \\right)\\].",
+      "options": [
+        "A. \\[{60^{\\rm{o}}}\\].",
+        "B. \\[{45^{\\rm{o}}}\\].",
+        "C. \\[{135^{\\rm{o}}}\\].",
+        "D. \\[{90^{\\rm{o}}}\\]."
+      ],
+      "answer": "B",
+      "note": "Góc giữa đường thẳng \\(SC\\)và mặt phẳng \\[\\left( {ABC} \\right)\\] là góc \\(\\widehat {SCA}\\). Tam giác \\(SAC\\) vuông cân tại \\(A\\) nên góc \\(\\widehat {SCA} = 45^\\circ \\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hình lập phương\\(ABCD.A'BC'D'\\). Tính góc giữa mặt phẳng\\(\\left( {ABCD} \\right)\\) và \\(\\left( {ACC'A'} \\right)\\).",
+      "options": [
+        "A. \\(45^\\circ \\).",
+        "B. \\(60^\\circ \\).",
+        "C. \\(30^\\circ \\).",
+        "D. \\(90^\\circ \\)."
+      ],
+      "answer": "D",
+      "note": "Do \\[AA' \\bot \\left( {ABCD} \\right) \\Rightarrow \\left( {ACC'A'} \\right) \\bot \\left( {ABCD} \\right)\\] ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho hình chóp \\(S.ABCD\\) có đáy là hình bình hành, cạnh bên \\(SA\\) vuông góc với đáy. Biết khoảng cách từ \\(A\\) đến \\(\\left( {SBD} \\right)\\) bằng \\(\\frac{{6a}}{7}\\). Tính khoảng cách từ \\(C\\) đến mặt phẳng \\(\\left( {SBD} \\right)\\)?",
+      "options": [
+        "A. \\(\\frac{{12a}}{7}\\).",
+        "B. \\(\\frac{{3a}}{7}\\).",
+        "C. \\(\\frac{{4a}}{7}\\).",
+        "D. \\(\\frac{{6a}}{7}\\)."
+      ],
+      "answer": "D",
+      "note": "Do \\(ABCD\\) là hình bình hành\\( \\Rightarrow AC \\cap BD = O\\) là trung điểm của \\(AC\\) và \\(BD\\)\\( \\Rightarrow d\\left( {C,\\left( {SBD} \\right)} \\right) = d\\left( {A,\\left( {SBD} \\right)} \\right) = \\frac{{6a}}{7}\\)."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Cho khối tứ diện \\(ABCD\\) có \\(AB\\), \\[AC\\], \\[AD\\] đôi một vuông góc và \\(AB = AC = 2a\\), \\(AD = 3a\\). Thể tích \\(V\\) của khối tứ diện đó là:",
+      "options": [
+        "A. \\(V = {a^3}.\\)",
+        "B. \\(V = 3{a^3}.\\)",
+        "C. \\(V = 2{a^3}.\\)",
+        "D. \\(V = 4{a^3}.\\)"
+      ],
+      "answer": "C",
+      "note": "Áp dụng công thức thể tích của tam diện vuông ta có: \\[V = \\frac{1}{6}AB.AC.AD = \\frac{1}{6}.2a.2a.3a = 2{a^3}\\]."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Một hộp đựng 4 viên bi xanh, 3 viên bi đỏ, 2 viên bi vàng. Chọn ngẫu nhiên 2 viên bi. Tính xác suất 2 viên bi được chọn cùng màu là:",
+      "options": [
+        "A. \\(P(X) = \\frac{5}{{18}}\\).",
+        "B. \\(P(X) = \\frac{5}{8}\\).",
+        "C. \\(P(X) = \\frac{7}{{18}}\\).",
+        "D. \\(P(X) = \\frac{7}{8}\\)."
+      ],
+      "answer": "A",
+      "note": "Gọi \\(A\\) là biến cố \"Chọn được 2 viên bi xanh\"; \\(B\\) là biến cố \"Chọn được 2 viên bi đỏ\", \\(C\\) là biến cố \"Chọn được 2 viên bi vàng\" và \\(X\\) là biến cố \"Chọn được 2 viên bi cùng màu\". Ta có: \\(X = A \\cup B \\cup C\\) và các biến cố \\(A,B,C\\) đôi một xung khắc. Do đó, ta có: \\(P(X) = P(A) + P(B) + P(C) = \\frac{{C_4^2}}{{C_9^2}} + \\frac{{C_3^2}}{{C_9^2}} + \\frac{{C_2^2}}{{C_9^2}} = \\frac{1}{6} + \\frac{1}{{12}} + \\frac{1}{{36}} = \\frac{5}{{18}}\\). Chọn A."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-20-cau-trac-nghiem-toan-10-chan-troi-sang-tao-tap-hop-co-dap-an",
+  "sourceId": "vietjack:2-20-cau-trac-nghiem-toan-10-chan-troi-s",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.20 câu Trắc nghiệm Toán 10 chân trời sáng tạo Tập hợp có đáp án (Phần 2)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Kí hiệu nào sau đây là để chỉ 5 là số tự nhiên?",
+      "options": [
+        "A. 5 ⊂ ℕ;",
+        "B. 5 ∈ ℕ;",
+        "C. 5 ∉ ℕ;",
+        "D. 5 = ℕ."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải Đáp án đúng là: B Để chỉ 5 là phần tử của tập hợp ℕ (tập hợp số tự nhiên). Ta viết 5 ∈ ℕ (đọc là 5 thuộc tập hợp số tự nhiên). Do đó ta chọn phương án B."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Kí hiệu nào sau đây là để chỉ 3 không phải là số hữu tỉ?",
+      "options": [
+        "A. 3 ⁢ ≠ ⁢ Q ;",
+        "B. 3 ⊄ Q ;",
+        "C. 3 ⁢ ⁢ ∉ ⁢ Q ;",
+        "D. Kí hiệu khác."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là: C Để chỉ 3 không phải là phần tử của tập hợp số hữu tỉ ℚ. Ta viết 3 ⁢ ⁢ ∉ Q (đọc là 3 không thuộc tập hợp số hữu tỉ). Do đó ta chọn phương án C."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho tập hợp A. Trong các mệnh đề sau, mệnh đề nào viết sai?",
+      "options": [
+        "A. A ∈ ∅ ;",
+        "B. ∅ ⊂ A;",
+        "C. A ⊂ A;",
+        "D. ∅ ⊂ ∅ ."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A Phương án A sai vì A là tập hợp, ∅ là tập rỗng. Mà kí hiệu giữa hai tập hợp ta không dùng “ ∈ ”. Phương án B và D đúng vì tập rỗng là tập con của mọi tập hợp. Phương án C đúng vì mọi tập hợp đều có tập con là chính nó. Vậy ta chọn phương án A."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hai tập hợp M và N. Hình nào sau đây minh họa M là tập con của N?",
+      "options": [
+        "A. Phương án A",
+        "B. Phương án B",
+        "C. Phương án C",
+        "D. Phương án D"
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là: C Theo đề, ta có quan hệ bao hàm: M là tập con của N hay M ⊂ N. Nên khi vẽ biểu đồ Ven, ta sẽ vẽ đường cong kín biểu diễn tập hợp M nằm gọn trong đường cong kín biểu diễn tập hợp N. Ta thấy chỉ có biểu đồ ở phương án C thỏa mãn yêu cầu. Do đó ta chọn phương án C."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho tập hợp A = {x ∈ ℝ | –3 < x < 1}. Tập A là tập nào sau đây?",
+      "options": [
+        "A. {–3; 1};",
+        "B. [–3; 1];",
+        "C. [–3; 1);",
+        "D. (–3; 1)."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải Đáp án đúng là: D Ta thấy A là một tập con của tập số thực ℝ. Do đó ta có thể dùng kí hiệu đoạn, khoảng, nửa khoảng để biểu diễn tập hợp A. Ta thấy tập hợp A có dạng: {x ∈ ℝ | a < x < b}, với a = –3; b = 1. Do đó ta có thể sử dụng kí hiệu khoảng (a; b) để biểu diễn tập hợp A. Vậy ta có biểu diễn tập hợp A như sau: A = (–3; 1). Ta chọn phương án D."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Hình vẽ nào sau đây (phần không bị gạch) minh họa cho tập hợp (1; 4]?",
+      "options": [
+        "A. Phương án A",
+        "B. Phương án B",
+        "C. Phương án C",
+        "D. Phương án D"
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A Tập hợp (1; 4] là tập hợp gồm các số thực sao cho 1 < x ≤ 4. Tập hợp (1; 4] có dạng nửa khoảng (a; b], với a = 1, b = 4. Do đó khi biểu diễn tập hợp (1; 4] trên trục số, ta thu được hình vẽ: Vậy ta chọn phương án A."
+    }
+  ]
+}

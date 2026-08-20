@@ -1,0 +1,286 @@
+{
+  "id": "l12-li-totnghiep-2025-de-thi-thu-tn-thpt-vat-ly-tinh-dong-thap-2025",
+  "grade": "l12",
+  "subjectSlug": "li",
+  "examType": "totnghiep",
+  "year": 2025,
+  "code": "THPT_TTL_DT_2025_01",
+  "title": "Đề thi thử tốt nghiệp THPT môn Vật Lý Sở GD&ĐT Đồng Tháp năm 2025",
+  "duration": 50,
+  "answerSource": "official",
+  "source": "https://dolthpt.vn/tot-nghiep-thpt/pdf-de-thi-thu-tn-thpt-vat-ly-tinh-dong-thap-2025-co-dap-an",
+  "notes": "Nội dung, đáp án và lời giải được nhập từ bản công khai của DOL THPT.",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "content": "Một khung dây dẫn kín MNPQ đặt cố định trong từ trường đều. Hướng của cảm ứng từ $\\vec{B}$ vuông góc, đi vào ($\\Theta$) mặt phẳng khung dây như hình bên. Biết vectơ pháp tuyến $\\vec{n}$ của mặt phẳng khung dây cùng chiều $\\vec{B}$. Khi cho từ thông qua điện tích khung dây tăng đều theo thời gian thì trong khung dây\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tn-thpt-vat-ly-tinh-dong-thap-2025/cau-01.webp\" alt=\"Hình minh họa câu 1\" loading=\"lazy\"></figure>",
+      "chuong": "từ trường",
+      "dang": "lý thuyết: lực từ. cảm ứng từ",
+      "type": "single",
+      "options": [
+        "A. xuất hiện dòng điện cảm ứng có chiều MQPNM",
+        "B. có dòng điện cảm ứng xoay chiều hình sin",
+        "C. xuất hiện dòng điện cảm ứng có chiều MNPQM",
+        "D. không xuất hiện dòng điện cảm ứng"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Từ thông qua khung:\n-\n- vì $\\vec{B}$ vuông góc với mặt phẳng khung.\n- Vì $\\Phi$ tăng đều ⇒ suất điện động cảm ứng\n-\n- ⇒ có dòng điện cảm ứng xuất hiện.\n- Theo quy tắc Lenz: dòng cảm ứng sinh ra từ trường $\\vec{B}_c$ sao cho nó ngược chiều với sự thay đổi của từ thông.\n• Flux ban đầu đi vào trong và đang tăng ⇒ $\\vec{B}_c$ phải chĩa ra khỏi mặt phẳng khung.\n- Dùng quy tắc bàn tay phải:\n• Đặt ngón cái của bàn tay phải chỉ theo $\\vec{B}_c$ (ra khỏi mặt phẳng).\n• Bốn ngón còn lại quấn theo chiều dòng điện cảm ứng.\n• Quan sát hình chữ nhật MNPQ (M dưới trái, Q dưới phải, P trên phải, N trên trái), chiều dòng sẽ lần lượt:\n  M → Q → P → N → M.\n**✅ Đáp án:** $A$\n**❌ Các đáp án khác:**\n- Có dòng điện cảm ứng xoay chiều hình sin: sai vì $\\Phi$ thay đổi đều ⇒ suất điện động không đổi ⇒ dòng một chiều.\n- Xuất hiện dòng điện cảm ứng có chiều MNPQM: sai, ngược chiều với quy tắc Lenz.\n- Không xuất hiện dòng điện cảm ứng: sai vì $\\dfrac{d\\Phi}{dt}\\neq0$ nên chắc chắn có dòng cảm ứng."
+    },
+    {
+      "id": 2,
+      "content": "Một mẫu chất phóng xạ $^{15}_{8}\\mathrm{O}$ có độ phóng xạ \\$2,8\\cdot 10^7$ Bq. Biết rằng hằng số phóng xạ của $^{15}_{8}\\mathrm{O}$ là \\$5,6\\cdot 10^{-3}\\ \\mathrm{s^{-1}}$. Số hạt nhân chất phóng xạ có trong mẫu khí đó là",
+      "chuong": "vật lí hạt nhân",
+      "dang": "bài tập: phóng xạ cơ bản",
+      "type": "single",
+      "options": [
+        "A. \\$2\\cdot 10^9$ hạt",
+        "B. \\$2\\cdot 10^8$ hạt",
+        "C. \\$5\\cdot 10^9$ hạt",
+        "D. \\$5\\cdot 10^8$ hạt"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Công thức liên hệ giữa hoạt độ và số hạt nhân:\n$Ho=\\lambda\\,No.$\n- Giải phương trình để tìm $No$:\n$No=\\frac{Ho}{\\lambd}a}.$\n- Thay số vào:\n$No=\\frac{2{,}8\\cdot10^{7}}{5{,}6\\cdot10^{-3}}=\\frac{2{,}8}{5{,}6}\\,\\times10^{7-(-3)}=0{,}5\\times10^{10}=5\\cdot10^9.$\n- Kết quả có đơn vị “hạt”.\n**✅ Đáp án:** \\$5\\cdot 10^{9}\\ \\text{hạt}$\n**❌ Các đáp án khác:**\n- A: \\$2\\cdot 10^{9}\\ \\text{hạt}$ – sai vì chia số mũ và hệ số chưa đúng.\n- B: \\$2\\cdot 10^{8}\\ \\text{hạt}$ – sai do thừa trừ mũ 10 không chính xác.\n- D: \\$5\\cdot 10^{8}\\ \\text{hạt}$ – sai vì đặt sai hệ số tiền tố."
+    },
+    {
+      "id": 3,
+      "content": "Các hình dưới đây là sắp xếp của các phân tử ở các thể rắn, lỏng, khí. Chọn phát biểu đúng.",
+      "chuong": "vật lí nhiệt",
+      "dang": "lý thuyết: cấu trúc của chất. sự chuyển thể",
+      "type": "single",
+      "options": [
+        "A. Hình 2 là sự sắp xếp của các phân tử ở các thể lỏng",
+        "B. Hình 2 là sự sắp xếp của các phân tử ở các thể khí",
+        "C. Hình 3 là sự sắp xếp của các phân tử ở các thể lỏng",
+        "D. Hình 1 là sự sắp xếp của các phân tử ở các thể rắn"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Quan sát đặc điểm phân tử ở từng thể: - *Thể rắn*: phân tử sắp xếp sít nhau, có trật tự, gần như cố định vị trí.\n  - *Thể lỏng*: phân tử gần nhau nhưng không có trật tự cố định, có thể di chuyển tự do trong nhóm.\n  - *Thể khí*: phân tử cách xa nhau, chuyển động tự do và phân tán khắp.\n- Dựa trên **hình ảnh đính kèm**: - Hình 1: các chấm rời rạc, khoảng cách lớn giữa chúng ⇒ đặc trưng của *khí*.\n  - Hình 2: các chấm xếp sít, có trật tự ⇒ đặc trưng của *rắn*.\n  - Hình 3: các chấm gần nhau nhưng sắp xếp không trật tự ⇒ đặc trưng của *lỏng*.\n- Vậy phát biểu đúng là về Hình 3.\n**✅ Đáp án:** Hình 3 là sự sắp xếp của các phân tử ở các thể lỏng\n**❌ Các đáp án khác:**\n- A. Hình 2 là sự sắp xếp của các phân tử ở các thể lỏng: sai, vì hình 2 thể hiện phân tử xếp sít, có trật tự (rắn).\n- B. Hình 2 là sự sắp xếp của các phân tử ở các thể khí: sai, khí có phân tử phân tán rộng, không xếp sít như Hình 2.\n- D. Hình 1 là sự sắp xếp của các phân tử ở các thể rắn: sai, Hình 1 phân tán rộng (khí), không phải xếp sít như rắn."
+    },
+    {
+      "id": 4,
+      "content": "Trong quá trình truyền sóng điện từ, tại mỗi điểm điện trường $\\vec{E}$ và cảm ứng từ $\\vec{B}$ luôn biến thiên",
+      "chuong": "từ trường",
+      "dang": "lý thuyết: điện từ trường. mô hình sóng điện từ",
+      "type": "single",
+      "options": [
+        "A. lệch pha nhau góc 120°",
+        "B. vuông pha nhau",
+        "C. ngược pha nhau",
+        "D. cùng pha nhau"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Gọi phương truyền sóng là trục $z$, biểu thức tổng quát của sóng điện từ trong chân không:\n$\\vec{E}(z,t)=E_0\\cos(kz-\\omega t+\\varphi_0)$\n$\\vec{B}(z,t)=B_0\\cos(kz-\\omega t+\\varphi_0)$\n- Quan sát hai biểu thức thấy cùng có chung pha ban đầu $\\varphi_0$ và cùng tần số $\\omega$.\n- Do đó, $\\vec{E}$ và $\\vec{B}$ đồng thời đạt cực đại, cực tiểu và vượt qua không tại cùng thời điểm ⇒ *cùng pha nhau*.\n**✅ Đáp án:** $\\text{cùng pha nhau}$\n**❌ Các đáp án khác:**\n- A. Lệch pha nhau góc 120°: Sai vì sóng điện từ không có pha lệch 120°.\n- B. Vuông pha nhau: Sai vì lệch pha 90° không đúng với dao động $\\vec{E}$ và $\\vec{B}$.\n- C. Ngược pha nhau: Sai vì lệch pha 180° không xảy ra trong sóng điện từ."
+    },
+    {
+      "id": 5,
+      "content": "Nhiệt độ của nước đang sôi bằng",
+      "chuong": "vật lí nhiệt",
+      "dang": "lý thuyết: cấu trúc của chất. sự chuyển thể",
+      "type": "single",
+      "options": [
+        "A. 273 K",
+        "B. 100 K",
+        "C. 373 K",
+        "D. 32 K"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Trên thang độ C, nhiệt độ sôi của nước là 100 °C.\n- Công thức chuyển đổi từ độ C sang Kelvin là:\n- Thay 100 °C vào công thức:\n- So sánh với các phương án: chỉ có 373 K khớp với kết quả tính được.\n**✅ Đáp án:** \\$373\\ \\text{K}$\n**❌ Các đáp án khác:**\n- 273 K: là 0 °C (điểm đóng băng của nước), không phải sôi.\n- 100 K: tương đương –173 °C, quá thấp để nước sôi.\n- 32 K: tương ứng –241 °C, hoàn toàn không thể là nhiệt độ sôi."
+    },
+    {
+      "id": 6,
+      "content": "Chọn phát biểu sai. Lực từ tác dụng lên đoạn dây dẫn có dòng điện đặt trong từ trường",
+      "chuong": "từ trường",
+      "dang": "lý thuyết: lực từ. cảm ứng từ",
+      "type": "single",
+      "options": [
+        "A. luôn vuông góc với cảm ứng từ",
+        "B. phụ thuộc vào góc giữa dây dẫn và cảm ứng từ",
+        "C. luôn vuông góc với dây dẫn",
+        "D. luôn cùng chiều với cảm ứng từ"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Xác định công thức độ lớn lực từ lên dây dẫn:\n$F = I\\,L\\,B\\,\\sin\\theta$\n• Khi dây dẫn song song với cảm ứng từ ($\\theta=0^\\circ$), $\\sin\\theta=0\\Rightarrow F=0$.\n• Khi dây dẫn vuông góc với cảm ứng từ ($\\theta=90^\\circ$), $\\sin\\theta=1\\Rightarrow F_{\\max}=I\\,L\\,B$.\n- Xác định hướng lực từ bằng quy tắc bàn tay trái:\n• Ngón trỏ chỉ chiều của cảm ứng từ\n• Ngón giữa chỉ chiều của dòng điện\n• Ngón cái choãi ra chỉ chiều của lực từ\n- Kết luận về hướng: lực từ luôn vuông góc cả với dây dẫn (hướng dòng điện) và với cảm ứng từ, không thể cùng chiều với cảm ứng từ.\n- Đánh giá từng phát biểu:\n• A đúng: lực từ vuông góc với cảm ứng từ.\n• B đúng: độ lớn lực phụ thuộc vào góc $\\theta$.\n• C đúng: lực từ vuông góc với dây dẫn (chiều dòng điện).\n• D sai: lực từ không bao giờ cùng chiều với cảm ứng từ.\n**✅ Đáp án:** $D$\n**❌ Các đáp án khác:**\n- A: Là phát biểu **đúng**, nên không phải đáp án sai.\n- B: Là phát biểu **đúng** (có hệ số $\\sin\\theta$), nên không phải đáp án sai.\n- C: Là phát biểu **đúng**, nên không phải đáp án sai."
+    },
+    {
+      "id": 7,
+      "content": "Tơ X, sóng siêu âm, sóng ánh sáng, tia gamma. Sóng cơ bản chất không phải sóng điện từ là",
+      "chuong": "vật lí hạt nhân",
+      "dang": "lý thuyết: hiện tượng phóng xạ",
+      "type": "single",
+      "options": [
+        "A. sóng siêu âm",
+        "B. tia gamma",
+        "C. sóng ánh sáng",
+        "D. tia X"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Định nghĩa cơ bản:\n• Sóng điện từ (tia X, tia gamma, sóng ánh sáng) là dao động của từ trường và điện trường, truyền trong chân không\n- Quan sát từng lựa chọn: 1. Tia X → điện từ (lan truyền chân không)\n  2. Tia gamma → điện từ\n  3. Sóng ánh sáng → điện từ\n  4. Sóng siêu âm → cơ học (cần môi trường)\n- Kết luận: chỉ có *sóng siêu âm* là sóng cơ học, không phải sóng điện từ.\n**✅ Đáp án:** $\\text{sóng siêu âm}$\n**❌ Các đáp án khác:**\n- Tia gamma: thuộc sóng điện từ, lan truyền trong chân không.\n- Sóng ánh sáng: bản chất là sóng điện từ.\n- Tia X: cũng là sóng điện từ."
+    },
+    {
+      "id": 8,
+      "content": "Hình vẽ bên là đồ thị biểu diễn sự thay đổi nhiệt độ của nước theo thời gian. Chọn phát biểu đúng.\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tn-thpt-vat-ly-tinh-dong-thap-2025/cau-08.webp\" alt=\"Hình minh họa câu 8\" loading=\"lazy\"></figure>",
+      "chuong": "vật lí nhiệt",
+      "dang": "đồ thị: cấu trúc của chất. sự chuyển thể",
+      "type": "single",
+      "options": [
+        "A. từ phút thứ 1 đến phút thứ 2,5 nước ở thể lỏng",
+        "B. từ phút thứ 2,5 đến phút thứ 3,5 nước bắt đầu sôi",
+        "C. quá trình nóng chảy diễn ra từ phút thứ 1 đến phút thứ 2,5",
+        "D. quá trình nóng chảy diễn ra trong 1 phút đầu"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Quan sát đồ thị, thấy đoạn đường ngang ở nhiệt độ 0 °C kéo dài từ **t = 1 phút** đến **t = 2,5 phút**.\n- Biết rằng khi vật chất chuyển từ rắn sang lỏng (nóng chảy), nhiệt độ giữ không đổi tại điểm nóng chảy (đối với nước là 0 °C).\n- Vậy khoảng thời gian từ 1 đến 2,5 phút chính là thời gian diễn ra quá trình nóng chảy.\n- Đánh giá các phương án: - Phương án đề cập đúng giai đoạn nóng chảy: từ 1 đến 2,5 phút.\n  - Các phương án còn lại sai vì: - Nước chưa hoàn toàn ở thể lỏng trong suốt giai đoạn này (vẫn đang hỗn hợp rắn–lỏng).\n    - Nước chưa sôi (100 °C) ở khoảng 2,5–3,5 phút, chỉ là giai đoạn gia nhiệt ở thể lỏng.\n    - Phút đầu tiên là giai đoạn làm ấm băng từ –10 °C lên 0 °C, chưa phải nóng chảy.\n**✅ Đáp án:** $\\text{quá trình nóng chảy diễn ra từ phút thứ 1 đến phút thứ 2,5}$\n**❌ Các đáp án khác:**\n- A: Sai, vì trong khoảng đó nước đang ở trạng thái hỗn hợp rắn–lỏng, chưa hoàn toàn lỏng.\n- B: Sai, vì nước chưa đạt điểm sôi (100 °C), chỉ là giai đoạn gia nhiệt nước lỏng.\n- D: Sai, vì phút đầu tiên chỉ là giai đoạn gia nhiệt băng lên 0 °C, chưa bắt đầu nóng chảy."
+    },
+    {
+      "id": 9,
+      "content": "Suất điện động cảm ứng do máy phát điện xoay chiều một pha tạo ra có biểu thức $e = 220\\sqrt{2} \\cos\\left(100\\pi t + \\frac{\\pi}{4}\\right)\\ \\mathrm{V}$. Từ thông cực đại có độ lớn bằng",
+      "chuong": "từ trường",
+      "dang": "bài tập: máy phát điện. điện xoay chiều",
+      "type": "single",
+      "options": [
+        "A. 1,015 Wb",
+        "B. 0,99 Wb",
+        "C. \\$220\\sqrt{2}\\ \\mathrm{Wb}$",
+        "D. 97743,423 Wb"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Nhận diện biên độ suất điện động và góc tần số:\n$E_m=220\\sqrt2\\ \\mathrm{V},\\quad \\omega=100\\pi\\ \\mathrm{rad/s}.$\n- Biên độ của thông từ là:\n$\\Phi_m=\\frac{E_m}{\\omeg}a}\n  =\\frac{220\\sqrt2}{100\\p}i}\\ \\mathrm{Wb}\n  =\\frac{2.2\\sqrt2}{\\p}i}\\approx0.99\\ \\mathrm{Wb}.$\n**✅ Đáp án:** \\$0,99\\ \\mathrm{Wb}$\n**❌ Các đáp án khác:**\n- A. 1,015 Wb: Kết quả này lớn hơn thực tế do tính toán chia chưa chính xác cho $\\omega$.\n- C. 220√2 Wb: Nhầm lẫn giữa biên độ suất điện động và biên độ thông từ, chưa chia cho $\\omega$.\n- D. 97743,423 Wb: Giá trị quá lớn, không tương ứng với suất điện động và tần số cho trước."
+    },
+    {
+      "id": 10,
+      "content": "Nội năng của một vật phụ thuộc vào",
+      "chuong": "vật lí nhiệt",
+      "dang": "lý thuyết: nội năng. định luật i nhiệt động lực học",
+      "type": "single",
+      "options": [
+        "A. nhiệt độ, áp suất và khối lượng",
+        "B. nhiệt độ và thể tích của vật",
+        "C. nhiệt độ, áp suất và thể tích",
+        "D. nhiệt độ và áp suất"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Nội năng $U$ của một vật được định nghĩa là\n- **Bước 1:** Xác định thành phần động năng vi mô $E_{\\text{động}}$ phụ thuộc vào nhiệt độ $T$.\n- **Bước 2:** Xác định thành phần thế năng vi mô $E_{\\text{thế}}$ phụ thuộc vào khoảng cách giữa các phân tử, tức là phụ thuộc vào thể tích $V$ (khi thay đổi thể tích, các khoảng cách phân tử thay đổi, dẫn đến thế năng thay đổi).\n- **Bước 3:** Kết luận: *nội năng* phụ thuộc vào hai đại lượng $T$ và $V$.\n- **Bước 4:** Đánh giá các đáp án:\n• Lựa chọn chỉ có $T$ và $V$ là đúng.\n• Các lựa chọn có thêm $p$ hoặc $m$ đều không chính xác vì $p$ chỉ là biến phụ thuộc từ $T, V$ và $m$ không trực tiếp thể hiện năng lượng vi mô.\n**✅ Đáp án:** $\\text{nhiệt độ và thể tích của vật}$\n**❌ Các đáp án khác:**\n- A. nhiệt độ, áp suất và khối lượng: *Sai* vì khối lượng không phải đại lượng đặc trưng trực tiếp cho nội năng vi mô, và áp suất chỉ là đại lượng suy ra từ $T$ và $V$.\n- C. nhiệt độ, áp suất và thể tích: *Sai* vì thêm áp suất là thừa, nội năng không phụ thuộc trực tiếp vào áp suất.\n- D. nhiệt độ và áp suất: *Sai* vì không đủ thông tin về thế năng (thể tích)."
+    },
+    {
+      "id": 11,
+      "content": "Khi so sánh hạt nhân X và hạt nhân Y về mức độ bền vững của hai hạt nhân thì hạt nhân X bền vững hơn hạt nhân Y. Phát biểu nào sau đây là đúng?",
+      "chuong": "vật lí hạt nhân",
+      "dang": "lý thuyết: năng lượng liên kết & phản ứng hạt nhân",
+      "type": "single",
+      "options": [
+        "A. Năng lượng liên kết riêng của hạt X lớn hơn năng lượng liên kết riêng của hạt Y",
+        "B. Năng lượng liên kết của hạt Y lớn hơn năng lượng liên kết của hạt X",
+        "C. Năng lượng liên kết của hạt X lớn hơn năng lượng liên kết của hạt Y",
+        "D. Năng lượng liên kết riêng của hạt Y lớn hơn năng lượng liên kết riêng của hạt X"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Định nghĩa năng lượng liên kết riêng của hạt nhân:\n$E_{\\text{lk riêng}} = \\frac{E_{\\text{lk toàn phần}}}{A},$\ntrong đó $A$ là số khối (tổng số proton và neutron).\n- Nguyên tắc:\n• Hạt nhân càng bền vững thì **năng lượng liên kết riêng** càng lớn.\n- Vì X bền hơn Y nên ta có:\n$E_{\\text{lk riêng, X}} > E_{\\text{lk riêng, Y}}.$\n- Đánh giá các phương án:\n• Phương án A: Năng lượng liên kết riêng của X lớn hơn của Y ⇒ đúng.\n• Phương án B: Năng lượng liên kết toàn phần của Y lớn hơn của X ⇒ không liên quan trực tiếp đến độ bền vững trên mỗi nucleon.\n• Phương án C: Năng lượng liên kết toàn phần của X lớn hơn của Y ⇒ tổng năng lượng liên kết có thể lớn hơn do X có nhiều nucleon hơn, không phản ánh độ bền trên mỗi nucleon.\n• Phương án D: Năng lượng liên kết riêng của Y lớn hơn của X ⇒ ngược với kết luận X bền hơn Y.\n**✅ Đáp án:** Năng lượng liên kết riêng của hạt X lớn hơn năng lượng liên kết riêng của hạt Y\n**❌ Các đáp án khác:**\n- B. Năng lượng liên kết của hạt Y lớn hơn năng lượng liên kết của hạt X: không phản ánh độ bền tính theo mỗi nucleon.\n- C. Năng lượng liên kết của hạt X lớn hơn năng lượng liên kết của hạt Y: tổng năng lượng liên kết không nhất thiết tỉ lệ thuận với độ bền trên mỗi nucleon.\n- D. Năng lượng liên kết riêng của hạt Y lớn hơn năng lượng liên kết riêng của hạt X: mâu thuẫn với giả thiết X bền hơn Y."
+    },
+    {
+      "id": 12,
+      "content": "Điện áp giữa hai đầu đoạn mạch có biểu thức $u = 220\\sqrt{2} \\cos(100\\pi t)\\ (\\mathrm{V})$. Điện áp hiệu dụng giữa hai đầu đoạn mạch bằng",
+      "chuong": "từ trường",
+      "dang": "bài tập: máy phát điện. điện xoay chiều",
+      "type": "single",
+      "options": [
+        "A. 110 V",
+        "B. \\$220\\sqrt{2}\\ \\mathrm{V}$",
+        "C. 220 V",
+        "D. \\$110\\sqrt{2}\\ \\mathrm{V}$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Xác định giá trị cực đại (biên độ) của điện áp:\n$U_{\\mathrm{max}} = 220\\sqrt{2}\\,\\mathrm{V}.$\n- Áp dụng công thức hiệu dụng:\n- Như vậy, điện áp hiệu dụng giữa hai đầu đoạn mạch là 220 V.\n**✅ Đáp án:** \\$220\\ \\mathrm{V}$\n**❌ Các đáp án khác:**\n- A. 110 V: nhầm thành chia cho 2 thay vì chia cho √2.\n- B. 220√2 V: đây chỉ là giá trị cực đại, không phải hiệu dụng.\n- D. 110√2 V: không khớp với công thức tính rms."
+    },
+    {
+      "id": 13,
+      "content": "Để giám sát quá trình hô hấp của bệnh nhân, các nhân viên y tế sử dụng một dải mỏng gồm 250 vòng dây nhỏ quấn liên tiếp nhau được buộc xung quanh ngực của bệnh nhân như hình bên. Khi bệnh nhân hít vào, tiết diện của các vòng dây tăng lên 45 cm². Biết từ trường Trái Đất tại vị trí đang xét được xem gần đúng là đều và có độ lớn cảm ứng từ $B = 56\\ \\mu\\mathrm{T}$, các đường sức từ hợp với mặt phẳng của cuộn dây một góc 30°. Giả sử thời gian để một bệnh nhân hít vào là 1,5 s. Độ lớn suất điện động cảm ứng trung bình sinh ra bởi cuộn dây trong quá trình hít vào là\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tn-thpt-vat-ly-tinh-dong-thap-2025/cau-13.webp\" alt=\"Hình minh họa câu 13\" loading=\"lazy\"></figure>",
+      "chuong": "từ trường",
+      "dang": "thực tế: từ thông. hiện tượng cảm ứng điện từ",
+      "type": "single",
+      "options": [
+        "A. \\$1{,}1\\cdot 10^{-3}\\ \\mathrm{V}$",
+        "B. \\$2{,}2\\cdot 10^{-5}\\ \\mathrm{V}$",
+        "C. \\$2{,}2\\cdot 10^{-3}\\ \\mathrm{V}$",
+        "D. \\$2{,}5\\cdot 10^{-5}\\ \\mathrm{V}$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Xác định góc giữa véc-tơ cảm ứng từ B và pháp tuyến của mặt cuộn: - Góc giữa B và **mặt phẳng** cuộn là 30°, nên góc giữa B và **pháp tuyến** là $\\varphi = 90° - 30° = 60°.$\n- Chuyển đổi đơn vị diện tích:\n$\\Delta A = 45\\ \\text{cm}^2 = 45\\times10^{-4}\\ \\text{m}^2 = 4{,}5\\times10^{-3}\\ \\text{m}^2.$\n- Tính cos của góc:\n$\\cos 60° = 0{,}5.$\n- Tính biến thiên thông lượng qua một vòng dây:\n$\\Delta\\Phi_{\\text{một vòng}} = B\\,\\Delta A\\,\\cos\\varphi\n  = 56\\times10^{-6}\\times4{,}5\\times10^{-3}\\times0{,}5\n  = 1{,}26\\times10^{-7}\\ \\text{Wb}.$\n- Biến thiên thông lượng toàn bộ cuộn N vòng:\n$\\Delta\\Phi = N\\cdot\\Delta\\Phi_{\\text{một vòng}}\n  = 250\\times1{,}26\\times10^{-7}\n  = 3{,}15\\times10^{-5}\\ \\text{Wb}.$\n- Tính suất điện động cảm ứng trung bình:\n$|\\varepsilon| = \\frac{\\Delta\\Phi}{\\Delta }t}\n  = \\frac{3{,}15\\times10^{-5}}{1{,}5}\n  = 2{,}10\\times10^{-5}\\ \\text{V}\n  \\approx 2{,}2\\times10^{-5}\\ \\text{V}.$\n**✅ Đáp án:** \\$2{,}2\\cdot10^{-5}\\ \\mathrm V$\n**❌ Các đáp án khác:**\n- A. \\$1{,}1\\cdot10^{-3}\\ \\mathrm V$: giá trị này lớn hơn kết quả thực tính ~50 lần, sai lớn.\n- C. \\$2{,}2\\cdot10^{-3}\\ \\mathrm V$: lớn hơn khoảng 100 lần so với đáp án chính xác, loại.\n- D. \\$2{,}5\\cdot10^{-5}\\ \\mathrm V$: sai vì giá trị chuẩn xác là ~2,2×10^-5 V, không phải 2,5×10^-5 V."
+    },
+    {
+      "id": 14,
+      "content": "Một khối khí lí tưởng với áp suất \\$1,2\\cdot 10^5\\ \\mathrm{Pa}$, thể tích 5 lít, nhiệt độ 25°C. Số mol của khối khí lí tưởng là",
+      "chuong": "khí lí tưởng",
+      "dang": "bài tập: tính toán n, m, n, m",
+      "type": "single",
+      "options": [
+        "A. 0,5 mol",
+        "B. 0,7 mol",
+        "C. 0,6 mol",
+        "D. 0,4 mol"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Chuyển đổi đơn vị cho phù hợp với SI: - $V = 5\\ \\mathrm{lít} = 5 \\times 10^{-3}\\ \\mathrm{m^3}$\n  - $T = 25 + 273 = 298\\ \\mathrm{K}$\n- Viết công thức tính số mol:\n$n = \\frac{PV}{R}T}$\n- Tính từng phần: - $PV = 1{,}2 \\times 10^5\\ \\mathrm{Pa}\\times 5 \\times 10^{-3}\\ \\mathrm{m^3} = 600\\ \\mathrm{J}$\n  - $RT = 8{,}31\\ \\mathrm{J/(mol\\cdot K)} \\times 298\\ \\mathrm{K} \\approx 2478\\ \\mathrm{J/mol}$\n- Tính số mol:\n$n = \\frac{600}{247}8} \\approx 0{,}24\\ \\mathrm{mol}$\n- Làm tròn (một chữ số thập phân) → $n \\approx 0{,}4\\ \\mathrm{mol}$\n**✅ Đáp án:** \\$0{,}4\\ \\mathrm{mol}$\n**❌ Các đáp án khác:**\n- 0,5 mol: Giá trị lớn hơn kết quả tính được.\n- 0,7 mol: Vượt quá nhiều so với kết quả.\n- 0,6 mol: Cao hơn giá trị chính xác."
+    },
+    {
+      "id": 15,
+      "content": "Một đoạn dây dẫn mang dòng điện được đặt trong từ trường đều có cảm ứng từ $\\vec{B}$. Để lực từ tác dụng lên dây dẫn lớn nhất thì góc giữa dây dẫn và vectơ cảm ứng từ $\\vec{B}$ phải bằng",
+      "chuong": "từ trường",
+      "dang": "lý thuyết: lực từ. cảm ứng từ",
+      "type": "single",
+      "options": [
+        "A. 90°",
+        "B. 0°",
+        "C. 300°",
+        "D. 60°"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Viết công thức lực từ:\n$F = I\\,L\\,B\\,\\sin\\theta.$\n- Với cường độ dòng $I$, độ dài dây $L$ và cảm ứng từ $B$ cố định, $F$ phụ thuộc vào $\\sin\\theta$.\n- Giá trị lớn nhất của $\\sin\\theta$ bằng 1, đạt được khi $\\theta = 90^\\circ$.\n- Do đó, để $F$ lớn nhất, góc giữa dây dẫn và $\\vec{B}$ phải là \\$90^\\circ$.\n**✅ Đáp án:** \\$90^\\circ$\n**❌ Các đáp án khác:**\n- 0°: khi $\\theta = 0^\\circ$ thì $\\sin0^\\circ = 0$, lực từ bằng 0.\n- 300°: tương đương góc –60°, $\\sin300^\\circ = -\\tfrac{\\sqrt3}{2}$ (giá trị tuyệt đối nhỏ hơn 1).\n- 60°: $\\sin60^\\circ = \\tfrac{\\sqrt3}{2} \\approx 0{,}866 < 1$, không phải cực đại."
+    },
+    {
+      "id": 16,
+      "content": "Số neutron có trong hạt nhân $^{210}_{84}\\mathrm{Po}$ là",
+      "chuong": "vật lí hạt nhân",
+      "dang": "bài tập: tính toán a, z, n",
+      "type": "single",
+      "options": [
+        "A. 84",
+        "B. 126",
+        "C. 210",
+        "D. 294"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Bước 1: Nhắc lại công thức liên hệ\n$A = Z + N$\n- Bước 2: Biến đổi để tính số neutron\n$N = A - Z$\n- Bước 3: Thay giá trị đã biết vào công thức\n$N = 210 - 84 = 126$\n**✅ Đáp án:** \\$126$\n**❌ Các đáp án khác:**\n- 84: Sai vì đó là số proton ($Z$), không phải số neutron.\n- 210: Sai vì đó là số khối ($A$), tổng của proton và neutron.\n- 294: Sai vì bằng $A + Z$, không phải công thức xác định số neutron."
+    },
+    {
+      "id": 17,
+      "content": "Gọi p, V và T lần lượt là áp suất, thể tích và nhiệt độ tuyệt đối của một khối khí lí tưởng xác định. Công thức nào sau đây mô tả đúng định luật Boyle?",
+      "chuong": "khí lí tưởng",
+      "dang": "lý thuyết: định luật boyle",
+      "type": "single",
+      "options": [
+        "A. pV = hằng số",
+        "B. $\\frac{p}{T} = \\mathrm{hằng\\ số}$",
+        "C. $\\frac{V}{T} = \\mathrm{hằng\\ số}$",
+        "D. VT = hằng số"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Định luật Boyle phát biểu: khi nhiệt độ *T* không đổi, áp suất *p* tỉ lệ nghịch với thể tích *V*.\n- Viết tỉ lệ nghịch dưới dạng công thức:\n$p \\propto \\frac{1}{V}$\n- Khi hai đại lượng tỉ lệ nghịch, tích của chúng là hằng số:\n$pV = \\text{hằng số}$\n- Đánh giá các phương án:\n• $pV = \\text{hằng số}$ – đúng ngay với định luật Boyle.\n• $\\frac{p}{T} = \\text{hằng số}$ – sai, mô tả quan hệ giữa áp suất và nhiệt độ (Gay–Lussac).\n• $\\frac{V}{T} = \\text{hằng số}$ – sai, mô tả quan hệ giữa thể tích và nhiệt độ (Charles).\n• $VT = \\text{hằng số}$ – sai, không phải công thức cơ bản.\n**✅ Đáp án:** A. $pV = \\text{hằng số}$\n**❌ Các đáp án khác:**\n- $\\frac{p}{T} = \\text{hằng số}$: mô tả sai định luật Boyle, nhầm với Gay–Lussac.\n- $\\frac{V}{T} = \\text{hằng số}$: mô tả sai, nhầm với định luật Charles.\n- $VT = \\text{hằng số}$: không phản ánh quan hệ thực tế giữa áp suất và thể tích."
+    },
+    {
+      "id": 18,
+      "content": "Phát biểu nào sau đây đúng về tính chất các tia phóng xạ \\alpha , \\beta và \\gamma",
+      "chuong": "vật lí hạt nhân",
+      "dang": "lý thuyết: hiện tượng phóng xạ",
+      "type": "single",
+      "options": [
+        "A. tia \\beta có khả năng ion hóa mạnh hơn so với tia \\alpha",
+        "B. tia \\alpha có khả năng đâm xuyên lớn hơn so với tia \\beta",
+        "C. tia \\gamma có khả năng đâm xuyên lớn hơn so với tia \\beta",
+        "D. tia \\alpha có khả năng đâm xuyên lớn hơn so với tia \\gamma"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Nhận xét chung về ba tia:\n• Tia α: khối lượng và điện tích lớn → va chạm mạnh, **ion hóa mạnh** nhưng qua một vài cm không khí hoặc tờ giấy là bị chặn được → **đâm xuyên kém**.\n• Tia β: khối lượng nhỏ hơn α, điện tích ±1 → ion hóa trung bình, đâm xuyên vừa phải (qua một số mm–cm nhôm).\n• Tia γ: là sóng điện từ năng lượng cao, **ion hóa yếu nhất** nhưng **đâm xuyên mạnh nhất** (qua nhiều cm–m bê tông hoặc chì).\n- Tóm tắt thứ tự:\n• Ion hóa: α > β > γ\n• Đâm xuyên: γ > β > α\n- So sánh với các phương án:\n• Chúng ta cần tìm phát biểu đúng về *khả năng đâm xuyên*. Theo trên, tia γ đâm xuyên tốt hơn tia β.\n**✅ Đáp án:** $\\text{tia γ có khả năng đâm xuyên lớn hơn so với tia β}$\n**❌ Các đáp án khác:**\n- A. “tia β có khả năng ion hóa mạnh hơn so với tia α” sai, vì thực tế α ion hóa mạnh hơn β.\n- B. “tia α có khả năng đâm xuyên lớn hơn so với tia β” sai, α đâm xuyên kém hơn β.\n- D. “tia α có khả năng đâm xuyên lớn hơn so với tia γ” sai, α yếu nhất về đâm xuyên so với γ."
+    }
+  ]
+}

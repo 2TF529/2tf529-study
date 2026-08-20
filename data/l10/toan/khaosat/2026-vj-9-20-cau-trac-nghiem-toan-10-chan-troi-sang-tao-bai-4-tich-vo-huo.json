@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-9-20-cau-trac-nghiem-toan-10-chan-troi-sang-tao-bai-4-tich-vo-huo",
+  "sourceId": "vietjack:9-20-cau-trac-nghiem-toan-10-chan-troi-s",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "9.20 câu trắc nghiệm Toán 10 Chân trời sáng tạo Bài 4. Tích vô hướng của hai vectơ (Đúng sai - trả lời ngắn) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Phần I. Trắc nghiệm nhiều phương án lựa chọn Cho \\(\\Delta ABC\\) đều cạnh \\(a\\) . Giá trị của tích vô hướng \\(\\overrightarrow {AB\\,} \\cdot \\overrightarrow {AC\\,} \\) là",
+      "options": [
+        "A. \\(2a\\).",
+        "B. \\(\\frac{1}{2}{a^2}\\).",
+        "C. \\({a^2}\\).",
+        "D. \\( - \\frac{1}{2}{a^2}\\)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có \\(\\overrightarrow {AB\\,} \\cdot \\overrightarrow {AC\\,} \\)\\( = \\left| {\\overrightarrow {AB\\,} } \\right| \\cdot \\left| {\\overrightarrow {AC\\,} } \\right| \\cdot \\cos \\left( {\\overrightarrow {AB\\,} ,\\overrightarrow {AC\\,} } \\right)\\)\\[ = AB \\cdot AC \\cdot \\cos \\widehat {BAC}\\]\\[ = a \\cdot a \\cdot \\cos 60^\\circ \\]\\[ = \\frac{1}{2}{a^2}\\]."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hình vuông \\(ABCD\\) có độ dài cạnh bằng \\(2\\) . Tính \\(\\overrightarrow {AB} \\cdot \\overrightarrow {AD} \\) .",
+      "options": [
+        "A. \\(\\overrightarrow {AB} \\cdot \\overrightarrow {AD} = 0\\) .",
+        "B. \\(\\overrightarrow {AB} \\cdot \\overrightarrow {AD} = 4\\) .",
+        "C. \\(\\overrightarrow {AB} \\cdot \\overrightarrow {AD} = \\overrightarrow 0 \\) .",
+        "D. \\(\\overrightarrow {AB} \\cdot \\overrightarrow {AD} = - 4\\) ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Vì \\(ABCD\\) là hình vuông nên \\(AB \\bot AD\\) do đó \\(\\overrightarrow {AB} \\cdot \\overrightarrow {AD} = 0\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho tam giác đều \\(ABC\\) . Tính góc \\(\\left( {\\overrightarrow {AB} ,\\;\\overrightarrow {BC} } \\right)\\) .",
+      "options": [
+        "A. A . \\(120^\\circ \\) .",
+        "B. \\(60^\\circ \\) .",
+        "C. \\(30^\\circ \\) .",
+        "D. \\(150^\\circ \\) ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Dựng vectơ \\[\\overrightarrow {AA'} = \\overrightarrow {BC} \\] khi đó ta có \\(\\left( {\\overrightarrow {AB} ,\\;\\overrightarrow {BC} } \\right) = \\left( {\\overrightarrow {AB} ,\\;\\overrightarrow {AA'} } \\right) = \\widehat {BAA'}\\). Vì \\[\\overrightarrow {AA'} = \\overrightarrow {BC} \\Rightarrow BC{\\rm{//}}AA' \\Rightarrow \\widehat {CAA'} = \\widehat {ACB} = \\widehat {BAC}\\;\\; = 60^\\circ \\]. Do đó \\(\\left( {\\overrightarrow {AB} ,\\;\\overrightarrow {BC} } \\right) = \\left( {\\overrightarrow {AB} ,\\;\\overrightarrow {AA'} } \\right) = \\widehat {BAA'} = \\widehat {BAC}\\; + \\widehat {CAA'}\\; = 60^\\circ + 60^\\circ = 120^\\circ \\)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: C ho tam giác \\(ABC\\) có \\(AB = 2\\) cm, \\(BC = 4\\) cm, \\(CA = 5\\) cm. Tính \\(\\overrightarrow {CA} \\cdot \\overrightarrow {CB} \\) .",
+      "options": [
+        "A. \\(\\overrightarrow {CA} \\cdot \\overrightarrow {CB} = 37\\) .",
+        "B. \\(\\overrightarrow {CA} \\cdot \\overrightarrow {CB} = \\frac{{37}}{2}\\) .",
+        "C. \\(\\overrightarrow {CA} \\cdot \\overrightarrow {CB} = \\frac{{37}}{{20}}\\) .",
+        "D. \\(\\overrightarrow {CA} \\cdot \\overrightarrow {CB} = - \\frac{{37}}{2}\\) ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có \\[\\left( {\\overrightarrow {CA} ,\\overrightarrow {CB} } \\right) = \\widehat {ACB}\\]. Áp dụng định lí côsin cho tam giác \\(ABC\\) có \\(\\cos \\widehat {ACB} = \\frac{{A{C^2} + B{C^2} - A{B^2}}}{{2AC \\cdot BC}}\\) \\( = \\frac{{{5^2} + {4^2} - {2^2}}}{{2 \\cdot 5 \\cdot 4}} = \\frac{{37}}{{40}}\\). Do đó \\(\\overrightarrow {CA} \\cdot \\overrightarrow {CB} = \\left| {\\overrightarrow {CA} } \\right| \\cdot \\left| {\\overrightarrow {CB} } \\right|\\cos \\left( {\\overrightarrow {CA} ,\\overrightarrow {CB} } \\right)\\)\\( = CA \\cdot CB \\cdot \\cos \\widehat {ACB}\\)\\( = 5 \\cdot 4 \\cdot \\frac{{37}}{{40}} = \\frac{{37}}{2}\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hai vectơ \\(\\overrightarrow a \\) và \\(\\overrightarrow b \\) thỏa mãn \\(\\left| {\\overrightarrow a } \\right| = 3\\) , \\(\\left| {\\overrightarrow b } \\right| = 2\\) và \\(\\overrightarrow a \\cdot \\overrightarrow b = - 3\\) . Xác định số đo góc \\(\\alpha \\) giữa hai vectơ \\(\\overrightarrow a \\) và \\(\\overrightarrow b \\) .",
+      "options": [
+        "A. \\(\\alpha = 30 \\circ \\) .",
+        "B. \\(\\alpha = 45 \\circ \\) .",
+        "C. \\(\\alpha = 60 \\circ \\) .",
+        "D. \\(\\alpha = 120 \\circ \\) ."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Ta có \\(\\cos \\alpha = \\frac{{\\overrightarrow a \\cdot \\overrightarrow b }}{{\\left| {\\overrightarrow a } \\right| \\cdot \\left| {\\overrightarrow b } \\right|}} = \\frac{{ - 3}}{{3 \\cdot 2}} = - \\frac{1}{2} \\Rightarrow \\alpha = 120 \\circ \\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Một người dùng một lực \\(\\overrightarrow F \\) có độ lớn là 90 N làm một vật dịch chuyển một đoạn 100 m. Biết lực \\(\\overrightarrow F \\) hợp với hướng dịch chuyển một góc \\(60^\\circ \\) . Tính công sinh bởi lực \\(\\overrightarrow F \\) .",
+      "options": [
+        "A. \\(5400\\,\\,{\\rm{(J)}}\\) .",
+        "B. \\(4500\\,\\,{\\rm{(J)}}\\) .",
+        "C. \\(1500\\,\\,{\\rm{(J)}}\\) .",
+        "D. \\(450\\,{\\rm{(J)}}\\) ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Công sinh bởi lực \\(\\vec F\\) được tính bằng công thức \\(A = \\overrightarrow F \\cdot \\overrightarrow d = \\left| {\\overrightarrow F } \\right| \\cdot \\left| {\\overrightarrow d } \\right|{\\rm{cos}}\\left( {\\overrightarrow F ,\\overrightarrow d } \\right) = 90 \\cdot 100 \\cdot {\\rm{cos}}60^\\circ = 4500\\,\\,\\left( {\\rm{J}} \\right)\\). Vậy công sinh bởi lực \\(\\vec F\\) có độ lớn bằng 4500 (J)."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Cho hình thang vuông \\(ABCD\\) có đáy lớn \\(AB = 4a\\) , đáy nhỏ \\(CD = 2a\\) , đường cao \\(AD = 3a\\) . Tính \\(\\overrightarrow {DA} \\cdot \\overrightarrow {BC} \\) .",
+      "options": [
+        "A. A . \\( - 9{a^2}\\) .",
+        "B. \\(15{a^2}\\) .",
+        "C. \\(0\\) .",
+        "D. \\(9{a^2}\\)"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Vì hình thang vuông \\(ABCD\\) có đường cao là \\(AD\\) nên \\(AD \\bot AB\\) và \\(AD \\bot DC\\). Suy ra \\(\\overrightarrow {DA} \\cdot \\overrightarrow {BA} = 0\\) và \\(\\overrightarrow {DA} \\cdot \\overrightarrow {DC} = 0\\). Khi đó, \\(\\overrightarrow {DA} \\cdot \\overrightarrow {BC} = \\overrightarrow {DA} \\cdot \\left( {\\overrightarrow {BA} + \\overrightarrow {AD} + \\overrightarrow {DC} } \\right) = \\overrightarrow {DA} \\cdot \\overrightarrow {AD} = - {\\overrightarrow {AD} ^2} = - {\\left| {\\overrightarrow {AD} } \\right|^2} = - 9{a^2}\\)."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho tam giác \\(ABC\\) có \\[BC = a,\\,{\\rm{ }}CA = b,{\\rm{ }}AB = c\\] . Tính \\(P = \\left( {\\overrightarrow {AB} + \\overrightarrow {AC} } \\right) \\cdot \\overrightarrow {BC} \\) .",
+      "options": [
+        "A. A . \\(P = {b^2} - {c^2}\\) .",
+        "B. \\(P = \\frac{{{c^2} + {b^2}}}{2}\\) .",
+        "C. \\(P = \\frac{{{c^2} + {b^2} + {a^2}}}{3}\\) .",
+        "D. \\(P = \\frac{{{c^2} + {b^2} - {a^2}}}{2}\\) ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có \\(P = \\left( {\\overrightarrow {AB} + \\overrightarrow {AC} } \\right) \\cdot \\overrightarrow {BC} \\)\\[ = \\left( {\\overrightarrow {AC} + \\overrightarrow {AB} } \\right) \\cdot \\left( {\\overrightarrow {AC} - \\overrightarrow {AB} } \\right) = {\\overrightarrow {AC} ^2} - {\\overrightarrow {AB} ^2} = A{C^2} - A{B^2} = {b^2} - {c^2}\\]."
+    }
+  ]
+}

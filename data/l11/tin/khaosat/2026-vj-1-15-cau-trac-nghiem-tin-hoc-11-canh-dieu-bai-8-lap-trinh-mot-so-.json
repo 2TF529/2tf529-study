@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-11-canh-dieu-bai-8-lap-trinh-mot-so-",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-11-canh-die",
+  "grade": "l11",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 11 Cánh diều Bài 8: Lập trình một số thuật toán sắp xếp có đáp án",
+  "duration": 50,
+  "answerSource": "partial",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Thuật toán sắp xếp nào được gọi là sắp xếp tại chỗ?",
+      "options": [
+        "A. Sắp xếp nổi bọt",
+        "B. Sắp xếp chèn tuyến tính",
+        "C. Sắp xếp nhanh (Quick Sort)",
+        "D. Tất cả các thuật toán trên"
+      ],
+      "answer": "D",
+      "note": "Đáp án: D Giải thích: Tất cả các thuật toán nêu trên đều có thể được thực hiện theo cách sắp xếp tại chỗ, tức là không sử dụng một mảng khác để lưu trữ kết quả, mà chỉ thay đổi vị trí của các phần tử trong mảng ban đầu."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Mục đích của thuật toán sắp xếp nổi bọt là gì?",
+      "options": [
+        "A. Tìm kiếm phần tử lớn nhất trong dãy",
+        "B. Loại bỏ các nghịch thể trong dãy số",
+        "C. Đếm số phần tử trong dãy",
+        "D. Tăng kích thước mảng"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Thuật toán sắp xếp nổi bọt (Bubble Sort) làm việc bằng cách so sánh và đổi chỗ các cặp phần tử liền kề để loại bỏ nghịch thể cho đến khi dãy được sắp xếp đúng thứ tự."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trong thuật toán sắp xếp chèn tuyến tính, khi nào thì dãy con được coi là có thứ tự?",
+      "options": [
+        "A. Khi dãy con có một phần tử",
+        "B. Khi dãy con có ít nhất hai phần tử",
+        "C. Khi dãy con đã được sắp xếp hoàn toàn",
+        "D. Khi dãy con không có phần tử nào"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Dãy con có một phần tử luôn được coi là có thứ tự, vì không có phần tử nào khác để so sánh"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Trong thuật toán sắp xếp nổi bọt, điều gì sẽ xảy ra nếu trong một vòng lặp không có bất kỳ lần đổi chỗ nào?",
+      "options": [
+        "A. Thuật toán tiếp tục chạy mãi mãi",
+        "B. Thuật toán dừng lại vì dãy đã được sắp xếp",
+        "C. Thuật toán quay lại vòng lặp trước đó",
+        "D. Thuật toán chỉ sắp xếp một phần của dãy"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Nếu không có bất kỳ lần đổi chỗ nào trong một vòng lặp, điều đó có nghĩa là dãy đã được sắp xếp và thuật toán sẽ dừng lại."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Thuật toán nào sau đây không phải là một thuật toán sắp xếp?",
+      "options": [
+        "A. Sắp xếp nổi bọt",
+        "B. Sắp xếp chèn tuyến tính",
+        "C. Sắp xếp chọn (Selection Sort)",
+        "D. Tìm kiếm tuần tự (Linear Search"
+      ],
+      "answer": "D",
+      "note": "Đáp án: D Giải thích: Tìm kiếm tuần tự là một phương pháp tìm kiếm phần tử trong mảng, không phải là một thuật toán sắp xếp."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong thuật toán sắp xếp chèn tuyến tính, phần tử nào sẽ được chèn vào dãy đã được sắp xếp?",
+      "options": [
+        "A. Phần tử nhỏ nhất",
+        "B. Phần tử lớn nhất",
+        "C. Phần tử tại vị trí đầu tiên của dãy",
+        "D. Phần tử hiện tại mà đang được xem xét"
+      ],
+      "answer": null,
+      "note": "Đáp án: D Giải thích: Trong thuật toán sắp xếp chèn tuyến tính, phần tử đang được xem xét sẽ được chèn vào vị trí thích hợp trong dãy đã được sắp xếp."
+    }
+  ]
+}

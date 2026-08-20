@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-3-20-cau-trac-nghiem-toan-10-canh-dieu-bai-5-hai-dang-phuong-trin",
+  "sourceId": "vietjack:3-20-cau-trac-nghiem-toan-10-canh-dieu-b",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.20 câu Trắc nghiệm Toán 10 Cánh diều Bài 5. Hai dạng phương trình quy về phương trình bậc hai (Đúng-sai, trả lời ngắn) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Số nào dưới đây là nghiệm của phương trình \\(\\sqrt {2{x^2} + x + 3} = \\sqrt {{x^2} + 2x + 5} \\)?",
+      "options": [
+        "A. \\(x = 2.\\)",
+        "B. \\(x = - 3.\\)",
+        "C. \\(x = - 2.\\)",
+        "D. \\(x = 1.\\)"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Bình phương hai vế phương trình đã cho ta được \\[2{x^2} + x + 3 = {x^2} + 2x + 5\\] \\[ \\Rightarrow {x^2} - x - 2 = 0\\]\\[ \\Rightarrow \\left[ \\begin{array}{l}x = - 1\\\\x = 2\\end{array} \\right.\\]. Thử lại, ta thấy cả hai giá trị trên đều lại nghiệm của phương trình đã cho. Đối chiếu các phương án đã cho, ta có \\(x = 2\\) là nghiệm của phương trình đã cho."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Số nghiệm của phương trình \\(\\sqrt {{x^2} - 4x - 7} = \\sqrt { - {x^2} + 6x - 7} \\) là",
+      "options": [
+        "A. \\(2\\).",
+        "B. \\(1\\).",
+        "C. \\(0\\).",
+        "D. \\(3\\)."
+      ],
+      "answer": "C",
+      "note": "\\(\\sqrt {{x^2} - 4x - 7} = \\sqrt { - {x^2} + 6x - 7} \\Rightarrow {x^2} - 4x - 7 = - {x^2} + 6x - 7 \\Rightarrow 2{x^2} - 10x = 0 \\Rightarrow \\left[ \\begin{array}{l}x = 0\\\\x = 5\\end{array} \\right.\\). Thử lại, ta thấy \\(x = 0,x = 5\\) đều không thỏa nên phương trình vô nghiệm."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Số nghiệm của phương trình \\[\\sqrt {3{x^2} - 4x - 1} = \\sqrt {2{x^2} - 4x + 3} \\] là:",
+      "options": [
+        "A. 2.",
+        "B. 3.",
+        "C. 0.",
+        "D. 1."
+      ],
+      "answer": "A",
+      "note": "Ta có \\[\\sqrt {3{x^2} - 4x - 1} = \\sqrt {2{x^2} - 4x + 3} \\Rightarrow {x^2} - 4 = 0 \\Rightarrow \\left[ \\begin{array}{l}x = 2\\\\x = - 2\\end{array} \\right.\\]. Thử lại, ta thấy cả hai giá trị trên đều là nghiệm của phương trình đã cho."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Tập nghiệm của phương trình \\[\\sqrt {{x^2} - 2x - 4} = \\sqrt {2 - x} \\] là",
+      "options": [
+        "A. \\[\\left\\{ {3; - 2} \\right\\}\\].",
+        "B. \\[\\left\\{ 3 \\right\\}\\].",
+        "C. \\[\\left\\{ { - 2} \\right\\}\\].",
+        "D. \\[\\left\\{ {3;2} \\right\\}\\]."
+      ],
+      "answer": "C",
+      "note": "Ta có \\[\\sqrt {{x^2} - 2x - 4} = \\sqrt {2 - x} \\Rightarrow {x^2} - 2x - 4 = 2 - x \\Rightarrow {x^2} - x - 6 = 0 \\Rightarrow \\left[ \\begin{array}{l}x = 3\\\\x = - 2\\end{array} \\right.\\]. Thử lại ta thấy chỉ có \\(x = - 2\\) là nghiệm của phương trình đã cho. Vậy tập nghiệm của phương trình \\[\\sqrt {{x^2} - 2x - 4} = \\sqrt {2 - x} \\] là \\[S = \\left\\{ { - 2} \\right\\}\\]."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Phương trình \\(\\sqrt { - {x^2} + 4x} = 2x - 2\\) có nghiệm là",
+      "options": [
+        "A. \\(x = \\frac{2}{5};\\,x = 2\\).",
+        "B. \\(x \\in \\emptyset \\).",
+        "C. \\(x = 2\\).",
+        "D. \\(x = 1\\)."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có \\(\\sqrt { - {x^2} + 4x} = 2x - 2 \\Leftrightarrow \\left\\{ \\begin{array}{l}2x - 2 \\ge 0\\\\ - {x^2} + 4x = {\\left( {2x - 2} \\right)^2}\\end{array} \\right. \\Leftrightarrow \\left\\{ \\begin{array}{l}x \\ge 1\\\\ - 5{x^2} + 12x - 4 = 0\\end{array} \\right. \\Leftrightarrow x = 2\\). Vậy \\(x = 2\\) là nghiệm của phương trình."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Số nghiệm của phương trình \\(\\sqrt {4 - 3{x^2}} = 2x - 1\\) là:",
+      "options": [
+        "A. \\(0.\\)",
+        "B. \\(1.\\)",
+        "C. \\(2.\\)",
+        "D. \\(3.\\)"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có \\(\\sqrt {4 - 3{x^2}} = 2x - 1 \\Leftrightarrow \\left\\{ \\begin{array}{l}2x - 1 \\ge 0\\\\4 - 3{x^2} = 4{x^2} - 4x + 1\\end{array} \\right. \\Leftrightarrow \\left\\{ \\begin{array}{l}x \\ge \\frac{1}{2}\\\\\\left[ \\begin{array}{l}x = 1\\\\x = \\frac{{ - 3}}{7}\\end{array} \\right.\\end{array} \\right. \\Rightarrow x = 1\\). Vậy phương trình có 1 nghiệm."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Số nghiệm của phương trình sau \\[x - \\sqrt {2{x^2} - 3x + 1} = 1\\] là:",
+      "options": [
+        "A. \\(0\\).",
+        "B. \\(1\\).",
+        "C. \\(2\\).",
+        "D. \\(3\\)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có \\[x - \\sqrt {2{x^2} - 3x + 1} = 1\\] \\[ \\Leftrightarrow \\sqrt {2{x^2} - 3x + 1} = x - 1 \\Leftrightarrow \\left\\{ \\begin{array}{l}x - 1 \\ge 0\\\\2{x^2} - 3x + 1 = {\\left( {x - 1} \\right)^2}\\end{array} \\right. \\Leftrightarrow \\left\\{ \\begin{array}{l}x \\ge 1\\\\{x^2} - x = 0\\end{array} \\right. \\Leftrightarrow x = 1\\]. Vậy số nghiệm của phương trình là \\[1\\]."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Tập nghiệm của phương trình \\(\\sqrt {2{x^2} + 4x - 1} = x + 1\\) là",
+      "options": [
+        "A. \\(S = \\left\\{ { - 1 + \\sqrt 3 ; - 1 - \\sqrt 3 } \\right\\}.\\)",
+        "B. \\(S = \\left\\{ { - 1 + \\sqrt 3 } \\right\\}.\\)",
+        "C. \\(S = \\left\\{ { - 1 - \\sqrt 3 } \\right\\}.\\)",
+        "D. \\(S = \\emptyset .\\)"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có \\(\\sqrt {2{x^2} + 4x - 1} = x + 1 \\Leftrightarrow \\left\\{ \\begin{array}{l}x + 1 \\ge 0\\\\2{x^2} + 4x - 1 = {\\left( {x + 1} \\right)^2}\\end{array} \\right.\\) \\( \\Leftrightarrow \\left\\{ \\begin{array}{l}x \\ge - 1\\\\{x^2} + 2x - 2 = 0\\end{array} \\right. \\Leftrightarrow \\left\\{ \\begin{array}{l}x \\ge - 1\\\\x = - 1 \\pm \\sqrt 3 \\end{array} \\right. \\Rightarrow x = - 1 + \\sqrt 3 \\)."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-toan-9-chan-troi-sang-tao-bai-1-khong-gian-m",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-toan-9-chan-troi-sa",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu trắc nghiệm Toán 9 Chân trời sáng tạo Bài 1. Không gian mẫu và biến cố có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: I. Nhận biết Phát biểu đúng nhất trong các phát biểu sau là",
+      "options": [
+        "A. Tập hợp tất cả các kết quả có thể xảy ra của một phép thử được gọi là không gian mẫu của phép thử đó.",
+        "B. Tập hợp tất cả các kết quả không thể xảy ra của một phép thử được gọi là không gian mẫu của phép thử đó.",
+        "C. Tập hợp các kết quả có thể xảy ra của một phép thử với khả năng xuất hiện như nhau được gọi là không gian mẫu của phép thử đó.",
+        "D. Tập hợp tất cả các kết quả không thể xảy ra của một phép thử với khả năng xuất hiện như nhau được gọi là không gian mẫu của phép thử đó."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Tập hợp các kết quả có thể xảy ra của một phép thử được gọi là không gian mẫu của phép thử đó."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Ký hiệu không gian mẫu của phép thử là",
+      "options": [
+        "A. \\(\\alpha \\).",
+        "B. \\(\\beta \\).",
+        "C. .",
+        "D. \\(\\Omega \\)."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Không gian mẫu của phép thử được ký hiệu là \\(\\Omega \\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trong các thí nghiệm sau, thí nghiệm nào không phải là phép thử ngẫu nhiên?",
+      "options": [
+        "A. Gieo đồng xu xem đồng xu đó xuất hiện mặt ngửa hay mặt sấp.",
+        "B. Gieo hai đồng xu và xem có mấy đồng tiền lật ngửa.",
+        "C. Chọn bất kì 1 học sinh trong lớp và xem là nam hay nữ.",
+        "D. Bỏ hai viên bi xanh và ba viên bi đỏ trong một chiếc hộp, sau đó lấy từng viên một để đếm xem có tất cả bao nhiêu viên bi."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Theo định nghĩa, ta có phép thử ngẫu nhiên là những phép thử mà ta không thể đoán trước kết quả của nó, mặc dù đã biết được tập hợp tất cả các kết quả của phép thử đó. Đáp án D không phải là phép thử vì ta biết chắc chắn kết quả chỉ có thể là một số cụ thể số bi xanh và số bi đỏ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Gieo một con xúc xắc cân đối và đồng chất. Không gian mẫu của phép thử có số phần tử là",
+      "options": [
+        "A. 3.",
+        "B. 4.",
+        "C. 5.",
+        "D. 6."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Không gian mẫu của phép thử là \\[\\Omega = \\left\\{ {1\\,;\\,\\,2\\,;\\,\\,3\\,;\\,\\,4\\,;\\,\\,5\\,;\\,\\,6} \\right\\}\\]. Vậy không gian mẫu của phép thử có 6 phần tử."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Bạn An lấy ngẫu nhiên một số tự nhiên có 1 chữ số. Số phần tử của không gian mẫu của phép thử là",
+      "options": [
+        "A. 4.",
+        "B. 8.",
+        "C. 9.",
+        "D. 10."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Không gian mẫu của phép thử là \\[\\Omega = \\left\\{ {0\\,;\\,\\,1\\,;\\,\\,2\\,;\\,\\,3\\,;\\,\\,4\\,;\\,\\,5\\,;\\,\\,6\\,;\\,\\,7\\,;\\,\\,8\\,;\\,\\,9} \\right\\}\\]. Vậy không gian mẫu của phép thử có 10 phần tử."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: II. Thông hiểu Mỗi đồng xu có 2 mặt sấp (S) và ngửa (N). Gieo ngẫu nhiên 2 đồng xu thì không gian mẫu của phép thử có số phần tử là",
+      "options": [
+        "A. 2.",
+        "B. 4.",
+        "C. 6.",
+        "D. 10."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Bảng kết quả có thể xảy ra của phép thử gieo 2 đồng xu: Đồng xu thứ nhất Đồng xu thứ hai N S N NN SN S NS SS Không gian mẫu của phép thử là \\(\\Omega = \\left\\{ {{\\rm{SS}}\\,{\\rm{;}}\\,\\,{\\rm{SN}}\\,{\\rm{;}}\\,\\,{\\rm{NS}}\\,{\\rm{;}}\\,\\,{\\rm{NN}}} \\right\\}\\). Vậy không gian mẫu của phép thử có 4 phần tử."
+    }
+  ]
+}

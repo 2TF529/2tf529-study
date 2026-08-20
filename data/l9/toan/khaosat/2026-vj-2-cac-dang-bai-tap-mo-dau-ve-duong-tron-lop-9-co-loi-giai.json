@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-2-cac-dang-bai-tap-mo-dau-ve-duong-tron-lop-9-co-loi-giai",
+  "sourceId": "vietjack:2-cac-dang-bai-tap-mo-dau-ve-duong-tron-",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.Các dạng bài tập Mở đầu về đường tròn lớp 9 (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho đường tròn (O; R) và điểm M bất kì, biết rằng OM = R. Chọn khẳng định đúng trong các khẳng định dưới đây?",
+      "options": [
+        "A. Điểm M nằm ngoài đường tròn.",
+        "B. Điểm M nằm trên đường tròn.",
+        "C. Điểm M nằm trong đường tròn.",
+        "D. Điểm M không thuộc đường tròn."
+      ],
+      "answer": "B",
+      "note": "Do OM = R nên điểm M nằm trên đường tròn."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho đường tròn (O; R) và điểm M bất kì, biết rằng OM > R. Chọn khẳng định đúng.",
+      "options": [
+        "A. Điểm M nằm ngoài đường tròn.",
+        "B. Điểm M nằm trên đường tròn.",
+        "C. Điểm M nằm trong đường tròn.",
+        "D. Điểm M không thuộc đường tròn."
+      ],
+      "answer": "A",
+      "note": "Vì OM > R nên M nằm bên ngoài đường tròn."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Xác định tâm và bán kính của đường tròn đi qua cả bốn đỉnh của hình vuông ABCD.",
+      "options": [
+        "A. Tâm là giao điểm A và bán kính R = \\(a\\sqrt 2 \\).",
+        "B. Tâm là giao điểm của hai đường chéo và bán kính R = \\(a\\sqrt 2 \\).",
+        "C. Tâm là giao điểm của hai đường chéo và bán kính R = \\(\\frac{{a\\sqrt 2 }}{2}\\).",
+        "D. Tâm là điểm B và bán kính R = \\(\\frac{{a\\sqrt 2 }}{2}\\)."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Gọi O là giao điểm hai đường chéo của hình vuông ABCD. Khi đó theo tính chất của hình vuông, ta có: OA = OB = OC = OD nên O là tâm đường tròn đi qua bốn đỉnh của hình vuông ABCD, với bán kính R = OA = \\(\\frac{{AC}}{2}\\). Xét tam giác ABC vuông cân tại B ta có: AC 2 = AB 2 + BC 2 Suy ra AC = \\(a\\sqrt 2 \\) hay R = \\(\\frac{{a\\sqrt 2 }}{2}\\)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Tâm của đường tròn ngoại tiếp tam giác vuông là:",
+      "options": [
+        "A. Trung điểm cạnh huyền.",
+        "B. Trung điểm cạnh góc vuông lớn hơn.",
+        "C. Giao ba đường cao.",
+        "D. Giao ba đường trung tuyến."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Trong tam giác vuông trung điểm cạnh huyền là tâm đường tròn ngoại tiếp tam giác đó."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho tam giác ABC có các đường cao BD, CE. Biết rằng bốn điểm B, E, D, C cùng nằm trên một đường tròn. Chỉ rõ tâm và bán kính của đường tròn đó.",
+      "options": [
+        "A. Tâm là trong tâm của tam giác ABC và bán kính R = \\(\\frac{2}{3}AI\\) với I là trung điểm của BC.",
+        "B. Tâm là trung điểm AB và bán kính là R = \\(\\frac{{AB}}{2}\\).",
+        "C. Tâm là giao điểm của BD và EC, bán kính là R = \\(\\frac{{BD}}{2}\\).",
+        "D. Tâm là trung điểm của BC và bán kính là R = \\(\\frac{{BC}}{2}\\)."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Gọi I là trung điểm của BC. Xét tam giác BEC vuông tại E có EI = IB = IC = \\(\\frac{{BC}}{2}\\) (vì EI là đường trung tuyến ứng với cạnh huyền). Xét tma giác BCD vuông tại D có DI = IB = IC = \\(\\frac{{BC}}{2}\\) (vì DI là đường trung tuyến ứng với cạnh huyền) Từ đó ta có: ID = IE = IB = IC = \\(\\frac{{BC}}{2}\\) nên I là tâm đường tròn ngoại tiếp tứ giác DEBC và bán kính R = \\(\\frac{{BC}}{2}\\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho tam giác ABC có các đường cao BD, CE. Chọn khẳng định đúng",
+      "options": [
+        "A. Bốn điểm B, E, D, C cùng nằm trên một đường tròn.",
+        "B. Năm điểm A, B, E, D, C cùng nằm trên một đường tròn.",
+        "C. Cả A, B đều sai.",
+        "D. Cả A, B đều đúng."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Gọi I là trung điểm của BC. Xét tam giác BEC vuông tại E có EI = IB = IC = \\(\\frac{{BC}}{2}\\) (vì EI là đường trung tuyến ứng với cạnh huyền). Xét tam giác BDC vuông tại D có DI = IB = IC = \\(\\frac{{BC}}{2}\\) (vì DI là đường trung tuyến ứng với cạnh huyền). Từ đó ta có: ID = IE = IB = IC = \\(\\frac{{BC}}{2}\\) nên bốn điểm B, E, D, C nằm trên một đường tròn có bán kính R = \\(\\frac{{BC}}{2}\\). Ta thấy IA > ID nên điểm A không thuộc đường tròn trên."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Trên mặt phẳng tọa độ Oxy, xác định vị trí tương đối của A(−1; −1) và đường tròn tâm là gốc tọa độ O, bán kính R = 2.",
+      "options": [
+        "A. Điểm A nằm ngoài đường tròn.",
+        "B. Điểm A nằm trên đường tròn.",
+        "C. Điểm A nằm trong đường tròn.",
+        "D. Không kết luận được."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có: OA = \\(\\sqrt {{{\\left( { - 1 - 0} \\right)}^2} + {{\\left( { - 1 - 0} \\right)}^2}} = \\sqrt 2 = 2\\) = R nên A nằm trong đường tròn tâm O bán kính R = 2."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Trên mặt phẳng tọa độ Oxy, xác định vị trí tương đối của điểm A(−3; −4) và đường tròn là gốc tọa độ O, bán kính R = 3.",
+      "options": [
+        "A. Điểm A nằm ngoài đường tròn.",
+        "B. Điểm A nằm trên đường tròn.",
+        "C. Điểm A nằm trong đường tròn.",
+        "D. Không kết luận được."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có: OA = \\(\\sqrt {{{\\left( { - 3 - 0} \\right)}^2} + {{\\left( { - 4 - 0} \\right)}^2}} = \\sqrt {25} = 5 > 3 = R\\) nên A nằm ngoài đường tròn tâm O bán kính R = 3."
+    }
+  ]
+}

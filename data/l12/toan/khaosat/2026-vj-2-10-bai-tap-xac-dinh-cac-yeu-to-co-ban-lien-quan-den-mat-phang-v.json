@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-10-bai-tap-xac-dinh-cac-yeu-to-co-ban-lien-quan-den-mat-phang-v",
+  "sourceId": "vietjack:2-10-bai-tap-xac-dinh-cac-yeu-to-co-ban-",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.10 bài tập Xác định các yếu tố cơ bản liên quan đến mặt phẳng (vectơ pháp tuyến, điểm thuộc, không thuộc mặt phẳng) có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho mặt phẳng (P): 2x – 3z – 1 = 0. Khi đó (P) có một vectơ pháp tuyến là:",
+      "options": [
+        "A. \\(\\overrightarrow n = \\left( {2; - 3;0} \\right)\\);",
+        "B. \\(\\overrightarrow n = \\left( {2; - 3;1} \\right)\\);",
+        "C. \\(\\overrightarrow n = \\left( {2;0; - 3} \\right)\\);",
+        "D. \\(\\overrightarrow n = \\left( {2; - 3; - 1} \\right)\\)."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Mặt phẳng (P) có một vectơ pháp tuyến là \\(\\overrightarrow n = \\left( {2;0; - 3} \\right)\\)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Trong không gian với hệ trục tọa độ Oxyz. Tìm một vectơ pháp tuyến của mặt phẳng (Oxy).",
+      "options": [
+        "A. \\(\\overrightarrow n = \\left( {1;1;0} \\right)\\);",
+        "B. \\(\\overrightarrow i = \\left( {1;0;0} \\right)\\);",
+        "C. \\(\\overrightarrow j = \\left( {0;1;0} \\right)\\);",
+        "D. \\(\\overrightarrow k = \\left( {0;0;1} \\right)\\)."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Mặt phẳng (Oxy) có phương trình z = 0. Do đó mặt phẳng (Oxy) có một vectơ pháp tuyến là \\(\\overrightarrow k = \\left( {0;0;1} \\right)\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trong không gian với hệ trục tọa độ Oxyz, cho mặt phẳng (α): x – 3y – 2z – 6 = 0. Vectơ nào không phải là vectơ pháp tuyến của (α).",
+      "options": [
+        "A. \\(\\overrightarrow n = \\left( {1; - 3; - 2} \\right)\\);",
+        "B. \\(\\overrightarrow n = \\left( { - 1;3;2} \\right)\\);",
+        "C. \\(\\overrightarrow n = \\left( {1;3;2} \\right)\\);",
+        "D. \\(\\overrightarrow n = \\left( { - 2;6;4} \\right)\\)."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Vectơ \\(\\overrightarrow n = \\left( {1;3;2} \\right)\\) không là vectơ pháp tuyến của (α)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Trong không gian với hệ tọa độ Oxyz, mặt phẳng \\(\\left( \\alpha \\right):\\frac{x}{2} + \\frac{y}{1} + \\frac{z}{3} = 1\\). Chỉ ra một vectơ pháp tuyến của (α).",
+      "options": [
+        "A. \\(\\overrightarrow n = \\left( {3;6;2} \\right)\\);",
+        "B. \\(\\overrightarrow n = \\left( {2;1;3} \\right)\\);",
+        "C. \\(\\overrightarrow n = \\left( {3; - 6;2} \\right)\\);",
+        "D. \\(\\overrightarrow n = \\left( { - 2; - 1; - 3} \\right)\\)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A \\(\\left( \\alpha \\right):\\frac{x}{2} + \\frac{y}{1} + \\frac{z}{3} = 1\\)\\( \\Leftrightarrow 3x + 6y + 2z - 6 = 0\\). Suy ra \\(\\overrightarrow n = \\left( {3;6;2} \\right)\\) là một vectơ pháp tuyến của mặt phẳng (α)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Trong không gian với hệ tọa độ Oxyz, mặt phẳng (α) vuông góc với trục tung có một vectơ pháp tuyến là",
+      "options": [
+        "A. \\(\\overrightarrow n = \\left( {0; - 8;0} \\right)\\);",
+        "B. \\(\\overrightarrow n = \\left( { - 1;0;4} \\right)\\);",
+        "C. \\(\\overrightarrow i = \\left( {1;0;0} \\right)\\);",
+        "D. \\(\\overrightarrow k = \\left( {0;0;1} \\right)\\)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Mặt phẳng (α) vuông góc với trục tung nên nhận \\(\\overrightarrow j = \\left( {0;1;0} \\right)\\) làm vectơ pháp tuyến nên \\(\\overrightarrow n = \\left( {0; - 8;0} \\right) = - 8\\overrightarrow j \\) nên \\(\\overrightarrow n = \\left( {0; - 8;0} \\right)\\) là một vectơ pháp tuyến của mặt phẳng (α)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong không gian Oxyz, điểm M(3; 4; −2) thuộc mặt phẳng nào dưới đây?",
+      "options": [
+        "A. x + y + z + 5 = 0;",
+        "B. x – 1 = 0;",
+        "C. z – 2 = 0;",
+        "D. x + y – 7 = 0."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Thay tọa độ điểm M vào phương trình mặt phẳng ở câu D, ta được: 3 + 4 – 7 = 0. Vậy điểm M thuộc mặt phẳng x + y – 7 = 0."
+    }
+  ]
+}

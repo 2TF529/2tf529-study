@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-20-cau-trac-nghiem-toan-10-canh-dieu-hoan-vi-chinh-hop-co-dap-a",
+  "sourceId": "vietjack:2-20-cau-trac-nghiem-toan-10-canh-dieu-h",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.20 câu Trắc nghiệm Toán 10 Cánh diều Hoán vị. Chỉnh hợp có đáp án (Phần 2)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho tập A có n phần tử (n ∈ ℕ, n ≥ 2), k là số nguyên thỏa mãn 1 ≤ k ≤ n. Số các chỉnh hợp chập k của n phần tử trên là:",
+      "options": [
+        "A. n.k;",
+        "B. n.(n – 1).(n – 2)…(n – k + 1);",
+        "C. \\(\\frac{n}{k}\\);",
+        "D. \\(\\frac{k}{n}\\)."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải Đáp án đúng là: B Ta kí hiệu \\(A_n^k\\) là số các chỉnh hợp chập k của n phần tử ( 1 ≤ k ≤ n) . Ta có: \\(A_n^k = n\\left( {n - 1} \\right)...\\left( {n - k + 1} \\right)\\)"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Số các hoán vị của n phần tử là:",
+      "options": [
+        "A. n;",
+        "B. n + 1;",
+        "C. n – 1;",
+        "D. n!."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải Đáp án đúng là: D Số các hoán vị của n phần tử là n!."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Số cách sắp xếp 6 bạn học sinh thành một hàng dọc là:",
+      "options": [
+        "A. 6 cách;",
+        "B. 12 cách;",
+        "C. 720 cách;",
+        "D. 18 cách."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là: C Mỗi cách xếp thứ tự vào hàng của 6 học sinh là một hoán vị của 6 học sinh Vậy số cách sắp xếp là: 6! = 6 . 5. 4 . 3. 2. 1 = 720 cách xếp."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho ba số 5; 6; 7, có thể lập được bao nhiêu số có ba chữ số sao cho ba chữ số đó khác nhau.",
+      "options": [
+        "A. 4;",
+        "B. 6;",
+        "C. 2;",
+        "D. 10."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải Đáp án đúng là: B Mỗi cách sắp xếp vị trí ba số ban đầu cho ta một số tự nhiên có ba chữ số đôi một khác nhau. Vậy số số lập được là: 3! = 6 cách."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Có bao nhiêu cách xếp 18 thí sinh vào 18 bàn sao cho mỗi bàn chỉ có một thí sinh.",
+      "options": [
+        "A. 18;",
+        "B. 13;",
+        "C. 18 2 ;",
+        "D. 18!."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải Đáp án đúng là: D Mỗi cách xếp thứ tự học sinh vào bàn của 18 học sinh là một hoán vị của 18 học sinh. Vậy số cách sắp xếp là: 18!"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Một lớp học có 45 học sinh. Giáo viên cần chọn ra một bạn làm lớp trưởng và một bạn làm bí thư. Hỏi giáo viên có bao nhiêu cách chọn?",
+      "options": [
+        "A. 1 980;",
+        "B. 1 890;",
+        "C. 1 540;",
+        "D. 1 450."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A Mỗi cách chọn lớp trưởng và bí thư của giáo viên là một chỉnh hợp chập 2 của 45. Do đó, có \\(A_{45}^2\\) = 1 980 (cách chọn)."
+    }
+  ]
+}

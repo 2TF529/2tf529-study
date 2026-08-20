@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-15-cau-trac-nghiem-tin-hoc-10-canh-dieu-so-hoa-van-ban-co-dap-a",
+  "sourceId": "vietjack:2-15-cau-trac-nghiem-tin-hoc-10-canh-die",
+  "grade": "l10",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.15 câu Trắc nghiệm Tin học 10 Cánh diều Số hóa văn bản có đáp án (Phần 2)",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Mã ASCII là",
+      "options": [
+        "A. Mã chuẩn của Mỹ chứa các mã nhị phân để trao đổi thông tin.",
+        "B. Mã chuẩn chứa các ký tự đặc biệt dùng cho tất cả các ngôn ngữ.",
+        "C. Mã nhị phân chứa 1024 kí tự tiếng Việt.",
+        "D. Một dãy 16 bit chứa các kí tự điều khiển."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A ASCII là viết tắt của American Standard Code for Information Interchange dùng để trao đổi thông tin."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Quá trình chuyển một kí tự thành mã nhị phân có mấy bước?",
+      "options": [
+        "A. 1 bước",
+        "B. 2 bước",
+        "C. 3 bước",
+        "D. 4 bước"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Bước 1. Cho tương ứng mỗi ký tự với 1 mã ký tự duy nhất Bước 2. Chuyển từ mã ký tự thành dãy bit để máy tính xử lý được"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Theo tiêu chuẩn Việt Nam đã thống nhất dùng bảng mã kí tự nào?",
+      "options": [
+        "A. Unicode",
+        "B. TCVN3",
+        "C. VNIWindows",
+        "D. Time New Romans"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Unicode là bộ mã chuẩn quốc tế, dùng cho tất cả các ngôn ngữ khác nhau trên thế giới."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Bảng mã ASCII mở rộng là",
+      "options": [
+        "A. Mã chuẩn chứa các mã nhị phân có độ dài 8 bit để trao đổi thông tin.",
+        "B. Mã chuẩn chứa các ký tự đặc biệt dùng cho tất cả các ngôn ngữ.",
+        "C. Mã chuẩn chứa các mã nhị phân có độ dài 7 bit để trao đổi thông tin.",
+        "D. Mã chuẩn UTF-8 chứa các mã nhị phân để trao đổi thông tin."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Bảng mã ASCII mở rộng sử dụng mã nhị phân dài 8 bit, có thể biểu diễn 256 ký tự khác nhau để trao đổi thông tin."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Bảng mã Unicode là",
+      "options": [
+        "A. Bảng mã ASCII mở rộng chứa 256 kí tự.",
+        "B. Bảng mã chứa các cả kí tự đặc biệt dùng cho tất cả các ngôn ngữ khác.",
+        "C. Dùng để chuyển kí tự thành một dãy bit.",
+        "D. Dùng để biểu diễn các kí tự có kiểu dáng, màu sắc và thông tin định dạng khác."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Unicode là bảng mã chuẩn quốc tế nên dùng được cho tất cả các ngôn ngữ khác nhau trên thế giới."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Bảng mã Unicode thực hiện ở bước nào trong quá trình chuyển một kí tự thành mã nhị phân?",
+      "options": [
+        "A. Bước 1: Cho tương ứng một ký tự với một mã ký tự duy nhất",
+        "B. Bước 2: Chuyển mã ký tự thành một dãy bit để máy tính xử lý",
+        "C. Bước 3: Thực hiện sau khi đưa vào quá trình chuyển kí tự thành mã nhị phân",
+        "D. Có thể diễn ra ở bước bất kì"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ý tưởng của Unicode là gán 1 điểm mã duy nhất cho mỗi ký tự, ký hiệu, biểu tượng."
+    }
+  ]
+}

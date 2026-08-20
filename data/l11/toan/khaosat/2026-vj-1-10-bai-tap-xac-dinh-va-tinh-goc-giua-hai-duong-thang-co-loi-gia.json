@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-10-bai-tap-xac-dinh-va-tinh-goc-giua-hai-duong-thang-co-loi-gia",
+  "sourceId": "vietjack:1-10-bai-tap-xac-dinh-va-tinh-goc-giua-h",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.10 Bài tập Xác định và tính góc giữa hai đường thẳng (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho hình hộp ABCD.A'B'C'D'. Giả sử tam giác AB'C và A'DC' đều có 3 góc nhọn. Góc giữa hai đường thẳng AC và A'D là góc nào sau đây?",
+      "options": [
+        "A. B D B ' ^",
+        "B. A B ' C ^",
+        "C. D B ' B ^",
+        "D. D A ' C ' ^"
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Ta có: AC // A'C' (do ABCD.A'B'C'D') là hình hộp. Do đó, (AC, A'D) = (A'C', A'D) = D A ' C ' ^ (do giả thiết tam giác DA'C' nhọn)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho tứ diện đều ABCD có tất cả các cạnh bằng nhau. Số đo góc giữa hai đường thẳng CD và AB là",
+      "options": [
+        "A. 30 °",
+        "B. 45 °",
+        "C. 60 °",
+        "D. 90 °"
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Gọi H là tâm đường tròn ngoại tiếp tam giác BCD Do đó, AH vuông góc với (BCD). ABCD là tứ diện đều tất cả các cạnh bằng nhau nên tam giác BCD đều. Gọi E là trung điểm của CD ⇒ BE vuông góc với CD. Do AH vuông góc với (BCD) nên AH vuông góc với CD. Ta có: C D ⊥ B E C D ⊥ A H ⇒ C D ⊥ A B E ⇒ C D ⊥ A B ⇒ A B , C D = 90 ° ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho tứ diện đều ABCD, M là trung điểm của BC. Khi đó cos(AB, DM) bằng:",
+      "options": [
+        "A. 3 6",
+        "B. 2 2",
+        "C. 3 2",
+        "D. 1 2"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Không mất tính tổng quát, giả sử tứ diện ABCD có cạnh bằng a. Gọi H là tâm đường tròn ngoại tiếp tam giác BCD nên AH vuông góc với (BCD). Gọi E là trung điểm AC, ta có: ME // AB ⇒ (AB, DM) = (ME, MD) Ta có: cos(AB, DM) = cos(ME, MD) = cos M E → , M D → = co s E M D ^ Do các mặt của tứ diện đều là tam giác đều, từ đó ta dễ dàng tính được độ dài các cạnh của tam giác MED: ME = a 2 ; ED = MD = a 3 2 . Xét tam giác MED, ta có: cos E M D ^ = M E 2 + M D 2 − E D 2 2 M E . M D = a 2 2 + a 3 2 2 − a 3 2 2 2. a 2 . a 3 2 = 3 6 . Từ đó cos A B , D M = 3 6 = 3 6 ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hình chóp S.ABCD có đáy là hình vuông ABCD cạnh bằng a và các cạnh bên đều bằng a. Gọi M và N lần lượt là trung điểm của AD và SD. Số đo của góc (MN, SC) bằng",
+      "options": [
+        "A. 30 °",
+        "B. 45 °",
+        "C. 60 °",
+        "D. 90 °"
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Gọi O là tâm của hình vuông ABCD, do đó, O là tâm đường tròn ngoại tiếp của hình vuông ABCD (1) Ta có: SA = SB = SC = SD nên S nằm trên trục của đường tròn ngoại tiếp hình vuông ABCD (2). Từ (1) và (2) ta có: SO vuông góc với (ABCD). Từ giả thiết ta có: MN song song với SA (do MN là đường trung bình của tam giác SAD) ⇒ (MN, SC) = (SA, SC) Xét tam giác SAC có: SA 2 + SC 2 = a 2 + a 2 = 2a 2 AC 2 = AD 2 + DC 2 = 2a 2 Suy ra SA 2 + SC 2 = AC 2 . Do đó, tam giác SAC vuông tại S nên SA vuông góc với SC. Vậy (MN, SC) = (SA, SC) = 90°."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hình chóp S.ABCD có tất cả các cạnh đều bằng a. Gọi I và J lần lượt là trung điểm của SC và BC. Số đo của góc (IJ, CD) bằng:",
+      "options": [
+        "A. 30 °",
+        "B. 45 °",
+        "C. 60 °",
+        "D. 90 °"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Gọi O là tâm của hình vuông ABCD Do đó, O là tâm của đường tròn ngoại tiếp của hình vuông ABCD (1) Ta có: SA = SB = SC = SD nên S nằm trên trục của đường tròn ngoại tiếp hình vuông ABCD (2) Từ (1) và (2) ⇒ SO vuông góc với (ABCD) Ta lại có: IJ // SB (do IJ là đường trung bình của tam giác SAB) ⇒ (IJ, CD) = (SB, AB) Mặt khác, ta lại có tam giác SAB đều, do đó S B A ^ = 60 ° ⇒ (IJ, CD) = (SB, AB) = 60 ° ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho tứ diện ABCD có AB = CD. Gọi I, J, E, F lần lượt là trung điểm của AC, BC, BD, AD. Góc giữa (IE, JF) bằng",
+      "options": [
+        "A. 30 °",
+        "B. 45 °",
+        "C. 60 °",
+        "D. 90 °"
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Do I, J, E, F lần lượt là trung điểm của AC, BC, BD, AD. Do đó IJ là đường trung bình của tam giác ABC, EF là đường trung bình của tam giác ABD, JE là đường trung bình của tam giác BCD, IF là đường trung bình của tam giác ACD. Từ đó, ta có: IJ // EF // AB JE // IF // CD Do đó, tứ giác IJEF là hình bình hành Mặt khác: AB = CD ⇒ IJ = 1 2 AB = J E = 1 2 C D Do đó, ABCD là hình thoi. Do đó, IE vuông góc với JF (tính chất hai đường chéo của hình thoi) ⇒ I E , J F = 90 ° ."
+    }
+  ]
+}

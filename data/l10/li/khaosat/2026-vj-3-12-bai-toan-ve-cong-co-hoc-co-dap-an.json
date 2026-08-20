@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-3-12-bai-toan-ve-cong-co-hoc-co-dap-an",
+  "sourceId": "vietjack:3-12-bai-toan-ve-cong-co-hoc-co-dap-an",
+  "grade": "l10",
+  "subjectSlug": "li",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.12 Bài toán về công cơ học có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Một người y tá đẩy bệnh nhân nặng 87 kg trên chiếc xe băng ca nặng 18 kg làm cho bệnh nhân và xe băng ca chuyển động thẳng trên mặt sàn nằm ngang với gia tốc không đổi là 0,55 m/s 2 . Bỏ qua ma sát giữa bánh xe và mặt sàn. Công mà y tá đã thực hiện khi bệnh nhân và xe băng ca chuyển động được 1,9 m.",
+      "options": [
+        "A. 10,97 J.",
+        "B. 1097 J.",
+        "C. 109,7 J.",
+        "D. 109,7 kJ."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là C Độ lớn lực đẩy của y tá: F = ma = (87 + 18).0,55 = 57,75 N. Công mà y tá đã thực hiện: A = F.s = 57,75.1,9 = 109,7 J."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Một chiếc đàn piano có khối lượng 380 kg được giữ cho trượt đều xuống một đoạn dốc dài 2,9 m, nghiêng một góc 10 0 so với phương ngang. Biết lực do người tác dụng có phương song song với mặt phẳng nghiêng như hình vẽ. Bỏ qua mọi ma sát. Lấy g = 9,8 m/s 2 . Hãy xác định công của lực do người tác dụng lên đàn piano.",
+      "options": [
+        "A. 1875,33 J.",
+        "B. -1875,33 J.",
+        "C. 187533 J.",
+        "D. -187533 J."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là B Theo định luật II Newton: F → + N → + P → = 0 → Chiếu lên Ox: F = P . sin α Chiếu lên Oy: N = P . cos α Lực do người tác dụng lên đàn piano: F = m . g . sin α = 380.9 , 8. sin 10 0 = 646 , 67 N Công do người đàn ông thực hiện: A F → = F . d . cos β = 646 , 67.2 , 9. cos 180 0 = − 1875 , 33 J"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho một máy bay lên thẳng có khối lượng 5.10 3 kg sau thời gian 2 phút máy bay lên được độ cao là 1440 m. Lấy g = 10 m/s 2 . Tính công của động cơ trong khi chuyển động thẳng đều",
+      "options": [
+        "A. 70.10 6 J.",
+        "B. 82.10 6 J.",
+        "C. 62.10 6 J.",
+        "D. 72.10 6 J."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Ta có công của động cơ: A = F.h Vì máy bay chuyển động đi lên thẳng đều nên F = P = mg = 5.10 3 .10 = 5.10 4 (N) → A = F.h = 5.10 4 .1440 = 72.10 6 (J)"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho một vật có khối lượng 8 kg rơi tự do. Tính công của trọng lực trong giây thứ tư. Lấy g = 10 m/s 2 .",
+      "options": [
+        "A. 3800 (J).",
+        "B. 2800 (J).",
+        "C. 4800 (J).",
+        "D. 6800 (J)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Vật rơi tự do trong 3s đã đi được: h 3 = 1 2 g t 3 2 = 1 2 .10.3 2 = 45 m Trong 4s đã đi được: h 4 = 1 2 g t 4 2 = 1 2 .10.4 2 = 80 m Vậy trong giây thứ tư đã đi được: s = h 4 – h 3 = 80 − 45 = 35(m) Công của trọng lực trong giây thứ tư là: A = P.s = mgs = 8.10.35 = 2800 (J)"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Một người nhấc một vật lên đều có khối lượng 6 kg lên độ cao 1 m rồi mang vật đó đi ngang được một độ dời 30 m. Công tổng cộng mà người đó là:",
+      "options": [
+        "A. 1860 J.",
+        "B. 1800 J.",
+        "C. 160 J.",
+        "D. 60 J."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là : D Chọn chiều dương hướng lên. Lực mà người này tác dụng lên vật để nhấc vật lên cao và mang vật đi ngang đều thực hiện công. Quá trình di chuyển này được chia làm 2 giai đoạn - Giai đoạn 1: nâng vật lên độ cao 1 m, lực thực hiện công có độ lớn bằng trọng lượng của vật. Nên A 1 = F . s . cos α = P . s . cos α = m . g . s . cos 0 o = 60 J - Giai đoạn 2: nâng vật đi đều theo phương ngang nên lực tác dụng có phương vuông góc với độ dịch chuyển. Nên A 2 = 0 Tổng công thực hiện: A = A 1 + A 2 = 60 J."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Một vật có khối lượng 2 kg rơi tự do từ độ cao 10 m so với mặt đất. Bỏ qua sức cản không khí. Lấy g = 9,8 m/s 2 . Trong thời gian 1,2 s kể từ lúc bắt đầu thả vật, trọng lực thực hiện một công bằng :",
+      "options": [
+        "A. 0 J.",
+        "B. 69,15 J.",
+        "C. 138,3 J.",
+        "D. 196 J."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là : C Thời gian vật rơi hết độ cao 10 m từ khi bắt đầu thả vật là: t = 2 h g = 2.10 9 , 8 ≈ 1 , 43 s Vậy trong khoảng thời gian 1,2 s, vật vẫn đang rơi và trọng lực vẫn sinh công. Độ dịch chuyển mà vật có được trong thời gian 1,2 s kể từ lúc bắt đầu thả là: d = 1 2 g . t 2 Công của trọng lực: A = F . s = P . d = m . g . 1 2 g . t 2 = 2.9 , 8. 1 2 .9 , 8.1 , 2 2 = 138 , 3 J"
+    }
+  ]
+}

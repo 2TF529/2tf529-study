@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-4-10-bai-tap-su-dung-y-nghia-cua-cac-so-do-xu-the-trung-tam-cua-m",
+  "sourceId": "vietjack:4-10-bai-tap-su-dung-y-nghia-cua-cac-so-",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "4.10 Bài tập Sử dụng ý nghĩa của các số đo xu thế trung tâm của mẫu số liệu để nhận xét về mẫu (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Số lượng học sinh tham gia vệ sinh của hai lớp 10A và 10B từ thứ hai đến thứ sáu được thống kê trong bảng dưới đây: Thứ hai Thứ ba Thứ tư Thứ năm Thứ sáu 10A 30 25 35 37 22 10B 39 35 20 22 30 Sử dụng số trung bình, so sánh số lượng học sinh tham gia vệ sinh từ thứ hai đến thứ sáu của hai lớp 10A và 10B. Ta thấy",
+      "options": [
+        "A. 10A > 10B;",
+        "B. 10A < 10B;",
+        "C. 10A = 10B;",
+        "D. Không so sánh được."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A. Trung bình số học sinh tham gia vệ sinh từ thứ hai đến thứ sáu của lớp 10A là: x 1 ¯ = 30 + 25 + 35 + 37 + 22 5 = 29 , 8 Trung bình số học sinh tham gia vệ sinh từ thứ hai đến thứ sáu của lớp 10B là x 2 ¯ = 39 + 35 + 20 + 22 + 30 5 = 29 , 2 . Ta thấy x 1 > x 2 , do đó số lượng học sinh tham gia vệ sinh từ thứ hai đến thứ sáu của lớp 10A nhiều hơn lớp 10B. Vậy 10A > 10B."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Số lượng học sinh tham gia vệ sinh của hai lớp 10A và 10B từ thứ hai đến thứ sáu được thống kê trong bảng dưới đây: Thứ hai Thứ ba Thứ tư Thứ năm Thứ sáu 10A 30 25 35 37 22 10B 39 35 20 22 30 Sử dụng số trung vị, so sánh số lượng học sinh tham gia vệ sinh từ thứ hai đến thứ sáu của hai lớp 10A và 10B. Ta thấy",
+      "options": [
+        "A. 10A > 10B;",
+        "B. 10A < 10B;",
+        "C. 10A = 10B;",
+        "D. Không so sánh được."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải: Đáp án đúng là: C. * Sắp xếp số lượng học sinh tham gia vệ sinh từ thứ hai đến thứ sáu của lớp 10A theo thứ tự không giảm ta có: 22; 25; 30; 35; 37. Vì cỡ mẫu của mẫu số liệu trên là n = 5 nên trung vị là số liệu thứ 3. Vậy M e1 = 30. * Sắp xếp số lượng học sinh tham gia vệ sinh từ thứ hai đến thứ sáu của lớp 10B theo thứ tự không giảm ta có: 20; 22; 30; 35; 39. Vì cỡ mẫu của mẫu số liệu trên là n = 5 nên trung vị là số liệu thứ 3. Vậy M e2 = 30. Vì M e1 = M e2 nên số lượng học sinh tham gia về sinh từ thứ hai đến thứ sáu của hai lớp 10A và 10B bằng nhau. Vậy 10A = 10B."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Số lượng học sinh đăng kí học các môn thể thao của lớp 10A được thống kê bằng bảng sau: Tên Cầu lông Bơi Bóng đá Bóng bàn Cờ vua Số lượng 10 12 15 7 20 Sử dụng mốt, môn thể thao nào có số lượng học sinh đăng kí nhiều nhất?",
+      "options": [
+        "A. Cầu lông;",
+        "B. Bơi;",
+        "C. Bóng đá;",
+        "D. Cờ vua."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải: Đáp án đúng là: D. Ta thấy số lượng đăng kí môn cờ vua là 20 lớn hơn số lượng học sinh đăng kí các môn thể thao khác nên môn cờ vua là môn thể thao có nhiều bạn đăng kí nhất."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Một cửa hàng có 2 lô hàng. Số lượng các lô hàng bán được trong 5 ngày đầu tháng được thống kê bằng bảng sau: Ngày 1 Ngày 2 Ngày 3 Ngày 4 Ngày 5 Lô 1 20 25 29 35 22 Lô 2 34 42 21 20 17 Sử dụng số trung bình hãy cho biết lô hàng nào bán được tốt trong 5 ngày.",
+      "options": [
+        "A. Lô 1 bán tốt hơn lô 2;",
+        "B. Lô 2 bán tốt hơn lô 1;",
+        "C. Lô 1 và lô 2 bán được như nhau;",
+        "D. Không so sánh được."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải: Đáp án đúng là: B. Trung bình số lượng hàng lô 1 bán được trong 5 ngày là: x 1 ¯ = 20 + 25 + 29 + 35 + 22 5 = 26 , 2 . Trung bình số lượng hàng lô 2 bán được trong 5 ngày là x 2 ¯ = 34 + 42 + 21 + 20 + 17 5 = 26 , 8 . Ta thấy x 1 < x 2 , do đó số lượng hàng lô 2 bán được trong 5 ngày tốt hơn lô 1."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Một cửa hàng có 2 lô hàng. Số lượng các lô hàng bán được trong 5 ngày đầu tháng được thống kê bằng bảng sau: Ngày 1 Ngày 2 Ngày 3 Ngày 4 Ngày 5 Lô 1 20 25 29 35 22 Lô 2 34 42 21 20 17 Sử dụng số trung vị hãy cho biết số lượng hàng lô nào bán được tốt hơn trong 5 ngày.",
+      "options": [
+        "A. Lô 1 bán tốt hơn lô 2;",
+        "B. Lô 2 bán tốt hơn lô 1;",
+        "C. Lô 1 và lô 2 bán được như nhau;",
+        "D. Không so sánh được."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A. * Sắp xếp số liệu của mẫu ở lô 1 theo thứ tự không giảm ta có: 20; 22; 25; 29; 35. Vì cỡ mẫu của mẫu số liệu trên là n = 5 nên trung vị là số liệu thứ 3. Vậy M e1 = 25. * Sắp xếp số liệu của mẫu ở lô 2 theo thứ tự không giảm ta có: 17; 20; 21; 34; 42. Vì cỡ mẫu của mẫu số liệu trên là n = 5 nên trung vị là số liệu thứ 3. Vậy M e2 = 21. Vì M e1 > M e2 nên số lượng hàng lô 1 bán tốt hơn lô 2."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho mẫu số liệu sau: 6; 1; 3; 10; 15; 20; 3; 9; 11; 17. Nhận xét nào sau đây là đúng?",
+      "options": [
+        "A. Mật độ số liệu ở bên trái Q 2 cao hơn ở bên phải Q 2 ;",
+        "B. Mật độ số liệu ở bên trái Q 2 thấp hơn ở bên phải Q 2 ;",
+        "C. Mật độ số liệu ở hai bên Q 2 bằng nhau;",
+        "D. Không so sánh được mật độ số liệu hai bên Q 2 ."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải: Đáp án đúng là: B. Sắp xếp mẫu số liệu trên theo thứ tự không giảm ta có: 1; 3; 3; 6; 9; 10; 11; 15; 17; 20. Vì cỡ mẫu là n = 10 nên giá trị tứ phân vị thứ hai của mẫu số liệu trên là trung bình cộng của giá trị thứ 5 và thứ 6. Do đó, Q 2 = 9 + 10 2 = 9 , 5 . + Giá trị tứ phân vị thứ nhất là trung vị của mẫu: 1; 3; 3; 6; 9. Do đó Q 1 = 3. + Giá trị tứ phân vị thứ hai là trung vị của mẫu: 10; 11; 15; 17; 20. Do đó Q 3 = 15. Ta thấy khoảng cách giữa Q 1 và Q 2 lớn hơn khoảng cách giữa Q 2 và Q 3 nên mật độ số liệu ở bên trái Q 2 thấp hơn ở bên phải Q 2 ."
+    }
+  ]
+}

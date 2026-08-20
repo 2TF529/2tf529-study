@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-12-chan-troi-sang-tao-bai-f3-co-dap-",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-12-chan-tro",
+  "grade": "l12",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 12 Chân trời sáng tạo Bài F3 có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Thẻ nào trong HTML được sử dụng để định nghĩa một bảng?",
+      "options": [
+        "A. &lt;table&gt;",
+        "B. &lt;tr&gt;",
+        "C. &lt;th&gt;",
+        "D. &lt;td&gt;"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Thẻ &lt;table&gt; trong HTML được sử dụng để định nghĩa một bảng, bao gồm các hàng và cột chứa dữ liệu."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Thẻ nào được sử dụng để định nghĩa một hàng trong bảng HTML?",
+      "options": [
+        "A. &lt;table&gt;",
+        "B. &lt;tr&gt;",
+        "C. &lt;th&gt;",
+        "D. &lt;td&gt;"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Thẻ &lt;tr&gt; trong HTML được sử dụng để định nghĩa một hàng trong bảng, trong đó các ô được đặt bằng thẻ &lt;th&gt; hoặc &lt;td&gt;."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Thẻ nào được sử dụng để định nghĩa một ô tiêu đề trong bảng HTML?",
+      "options": [
+        "A. &lt;table&gt;",
+        "B. &lt;tr&gt;",
+        "C. &lt;th&gt;",
+        "D. &lt;td&gt;"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Thẻ &lt;th&gt; trong HTML được sử dụng để định nghĩa một ô tiêu đề trong bảng, thường hiển thị nội dung dưới dạng chữ đậm và căn gi ữa."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Thẻ &lt;td&gt; trong HTML được sử dụng để làm gì?",
+      "options": [
+        "A. Định nghĩa bảng",
+        "B. Định nghĩa hàng trong bảng",
+        "C. Định nghĩa ô tiêu đề",
+        "D. Định nghĩa các ô dữ liệu"
+      ],
+      "answer": "D",
+      "note": "Đáp án: D Giải thích: Thẻ &lt;td&gt; trong HTML được sử dụng để định nghĩa các ô dữ liệu trong bảng, nơi chứa thông tin cụ thể trong một hàng."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Thẻ nào được sử dụng để nhúng một trang web khác vào trang web hiện tại?",
+      "options": [
+        "A. &lt;iframe&gt;",
+        "B. &lt;table&gt;",
+        "C. &lt;div&gt;",
+        "D. &lt;embed&gt;"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Thẻ &lt;iframe&gt; được sử dụng để nhúng một trang web khác vào trong trang web hiện tại, cho phép hiển thị nội dung từ một nguồn khác trong một khung trên trang."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Thuộc tính nào trong thẻ &lt;iframe&gt; chỉ định đường dẫn của trang web được nhúng?",
+      "options": [
+        "A. width",
+        "B. height",
+        "C. src",
+        "D. align"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Thuộc tính src trong thẻ &lt;iframe&gt; chỉ định đường dẫn của trang web hoặc tài liệu được nhúng vào trang web hiện tại."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-1-bo-10-de-thi-cuoi-ki-1-toan-12-nam-2025-2026-ha-noi-co-dap-an",
+  "sourceId": "vietjack:1-bo-10-de-thi-cuoi-ki-1-toan-12-nam-202",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "cuoiki1",
+  "year": 2026,
+  "title": "1.Bộ 10 đề thi cuối kì 1 Toán 12 năm 2025-2026 Hà Nội (có đáp án)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh chỉ chọn một phương án. Cho hàm số \\(y = f\\left( x \\right)\\) có bảng biến thiên như hình bên dưới. Mệnh đề nào sau đây đúng?",
+      "options": [
+        "A. Hàm số đạt cực đại tại \\(x = 0\\).",
+        "B. Hàm số đạt cực tiểu tại \\(x = 1\\).",
+        "C. Hàm số không có cực trị.",
+        "D. Hàm số đạt cực đại tại \\(x = 3\\)."
+      ],
+      "answer": "A",
+      "note": "Dựa vào bảng biến thiên, ta thấy đạo hàm \\(f'\\left( x \\right)\\) đổi dấu từ dương \\(\\left( + \\right)\\) sang âm \\(\\left( - \\right)\\) khi qua điểm \\(x = 0\\). Do đó, hàm số đạt cực đại tại điểm \\(x = 0\\) và giá trị cực đại của hàm số là . Đạo hàm \\(f'\\left( x \\right)\\) đổi dấu từ âm \\(\\left( - \\right)\\) sang dương \\(\\left( + \\right)\\) khi qua điểm \\(x = 2\\), nên hàm số đạt cực tiểu tại điểm \\(x = 2\\) và giá trị cực tiểu là \\({y_{CT}} = f\\left( 2 \\right) = 1\\). Vậy mệnh đề đúng là A. Chọn A."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hàm số \\(y = f\\left( x \\right)\\) xác định trên \\(\\mathbb{R}\\) và có \\(f'\\left( x \\right) = \\left( {{e^x} - 1} \\right)\\left( {{x^2} - x} \\right)\\), \\(\\forall x \\in \\mathbb{R}\\). Số điểm cực trị của hàm số \\(y = f\\left( x \\right)\\) là:",
+      "options": [
+        "A. 1.",
+        "B. 0.",
+        "C. 3.",
+        "D. 2."
+      ],
+      "answer": "A",
+      "note": "Xét phương trình đạo hàm: \\(f'\\left( x \\right) = 0 \\Leftrightarrow \\left( {{e^x} - 1} \\right)\\left( {{x^2} - x} \\right) = 0\\)\\( \\Leftrightarrow \\left[ {\\begin{array}{*{20}{c}}{{e^x} - 1 = 0}\\\\{{x^2} - x = 0}\\end{array}} \\right. \\Leftrightarrow \\left[ {\\begin{array}{*{20}{c}}{x = 0}\\\\{x = 0}\\\\{x = 1}\\end{array}} \\right.\\). Ta thấy \\(x = 0\\) là nghiệm kép (xuất hiện 2 lần từ cả hai nhân tử), do đó qua điểm \\(x = 0\\) thì \\(f'\\left( x \\right)\\) không đổi dấu. Nghiệm \\(x = 1\\) là nghiệm đơn, nên qua điểm \\(x = 1\\) thì \\(f'\\left( x \\right)\\) đổi dấu. Vậy hàm số chỉ có 1 điểm cực trị tại \\(x = 1\\). Chọn A."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trong không gian với một hệ trục toạ độ cho trước (đơn vị đo lấy theo kilômét), ra đa phát hiện một chiếc máy bay di chuyển với vận tốc và hướng không đổi từ điểm \\(A\\left( {800;500;7} \\right)\\) đến điểm \\(B\\left( {940;550;8} \\right)\\) trong 10 phút. Nếu máy bay tiếp tục giữ nguyên vận tốc và hướng bay thì toạ độ của máy bay sau 5 phút tiếp theo là",
+      "options": [
+        "A. \\(\\left( {105;2965;10} \\right)\\).",
+        "B. \\(\\left( {1010;575;8} \\right)\\).",
+        "C. \\(\\left( {1010;575;8,5} \\right)\\).",
+        "D. \\(\\left( {1245;2056;735} \\right)\\)."
+      ],
+      "answer": "C",
+      "note": "Vectơ dịch chuyển của máy bay trong 10 phút đầu tiên từ \\(A\\) đến \\(B\\) là: \\(\\overrightarrow {AB} = \\left( {940 - 800;550 - 500;8 - 7} \\right) = \\left( {140;50;1} \\right)\\). Vì máy bay giữ nguyên vận tốc và hướng bay, nên trong 5 phút tiếp theo (bằng \\(\\frac{1}{2}\\) thời gian ban đầu), vectơ dịch chuyển từ vị trí \\(B\\) đến vị trí mới \\(C\\) sẽ bằng một nửa vectơ \\(\\overrightarrow {AB} \\): \\(\\overrightarrow {BC} = \\frac{1}{2}\\overrightarrow {AB} = \\left( {\\frac{{140}}{2};\\frac{{50}}{2};\\frac{1}{2}} \\right) = \\left( {70;25;0,5} \\right)\\). Toạ độ của máy bay sau 5 phút tiếp theo là tọa độ của điểm \\(C\\): \\(\\left\\{ {\\begin{array}{*{20}{c}}{{x_C} = {x_B} + 70 = 940 + 70 = 1010}\\\\{{y_C} = {y_B} + 25 = 550 + 25 = 575}\\\\{{z_C} = {z_B} + 0,5 = 8 + 0,5 = 8,5}\\end{array}} \\right.\\). Do đó \\(C\\left( {1010;575;8,5} \\right)\\). Chọn C."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Người ta thống kê tốc độ của một số xe ôtô di chuyển qua một trạm kiểm soát trên đường cao tốc trong một khoảng thời gian ở bảng sau. Tốc độ (km/h) \\(\\left[ {75;80} \\right)\\) \\(\\left[ {80;85} \\right)\\) \\(\\left[ {85;90} \\right)\\) \\(\\left[ {90;95} \\right)\\) \\(\\left[ {95;100} \\right)\\) Số xe 15 22 28 34 19 Khoảng biến thiên của mẫu số liệu ghép nhóm trên là:",
+      "options": [
+        "A. \\(25{\\rm{\\;km/h}}\\).",
+        "B. \\(5{\\rm{\\;km/h}}\\).",
+        "C. \\(100{\\rm{\\;km/h}}\\).",
+        "D. \\(75{\\rm{\\;km/h}}\\)."
+      ],
+      "answer": "A",
+      "note": "Khoảng biến thiên của mẫu số liệu ghép nhóm bằng hiệu số giữa đầu mút phải của nhóm cuối cùng và đầu mút trái của nhóm đầu tiên. Đầu mút trái của nhóm đầu tiên \\(\\left[ {75;80} \\right)\\) là \\({x_{{\\rm{min}}}} = 75\\). Đầu mút phải của nhóm cuối cùng \\(\\left[ {95;100} \\right)\\) là \\({x_{{\\rm{max}}}} = 100\\). Khoảng biến thiên \\(R\\) là: \\(R = {x_{{\\rm{max}}}} - {x_{{\\rm{min}}}} = 100 - 75 = 25{\\rm{\\;km/h}}\\). Chọn A."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho tứ diện đều \\(ABCD\\) có các cạnh bằng \\(2a\\). Tích vô hướng \\(\\overrightarrow {AD} \\cdot \\overrightarrow {DC} \\) bằng:",
+      "options": [
+        "A. \\(2{a^2}\\).",
+        "B. \\( - 2{a^2}\\).",
+        "C. \\({a^2}\\).",
+        "D. \\( - {a^2}\\)."
+      ],
+      "answer": "B",
+      "note": "Ta có tam giác \\(ADC\\) là tam giác đều cạnh \\(2a\\) (do \\(ABCD\\) là tứ diện đều). Do đó, \\(\\widehat {ADC} = 60^\\circ \\). Góc giữa hai vectơ \\(\\overrightarrow {AD} \\) và \\(\\overrightarrow {DC} \\) được xác định bằng cách đổi hướng vectơ: \\(\\left( {\\overrightarrow {AD} ,\\overrightarrow {DC} } \\right) = 180^\\circ - \\widehat {ADC} = 180^\\circ - 60^\\circ = 120^\\circ \\). Tích vô hướng của hai vectơ: \\(\\overrightarrow {AD} \\cdot \\overrightarrow {DC} = AD \\cdot DC \\cdot \\cos \\left( {\\overrightarrow {AD} ,\\overrightarrow {DC} } \\right) = 2a \\cdot 2a \\cdot \\cos 120^\\circ = 4{a^2} \\cdot \\left( { - \\frac{1}{2}} \\right) = - 2{a^2}\\). Chọn B."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Đường tiệm cận xiên của đồ thị hàm số \\(y = \\frac{{{x^2} + 4}}{x}\\) là:",
+      "options": [
+        "A. \\(y = x + 1\\).",
+        "B. \\(y = - x - 1\\).",
+        "C. \\(y = x\\).",
+        "D. \\(y = - x\\)."
+      ],
+      "answer": "C",
+      "note": "Thực hiện phép chia tử cho mẫu của hàm số: \\(y = \\frac{{{x^2} + 4}}{x} = x + \\frac{4}{x}\\). Ta có: \\(\\mathop {\\lim }\\limits_{x \\to \\pm \\infty } \\left[ {y - x} \\right] = \\mathop {\\lim }\\limits_{x \\to \\pm \\infty } \\frac{4}{x} = 0\\). Do đó, đường thẳng \\(y = x\\) là đường tiệm cận xiên của đồ thị hàm số. Chọn C."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Cho hàm số \\(y = f\\left( x \\right)\\) liên tục trên \\(\\left[ { - 2;4} \\right]\\) và có đồ thị như hình vẽ bên dưới. Giá trị nhỏ nhất của hàm số đã cho trên đoạn \\(\\left[ { - 2;4} \\right]\\) là:",
+      "options": [
+        "A. 0.",
+        "B. 7.",
+        "C. 4.",
+        "D. −4."
+      ],
+      "answer": "D",
+      "note": "Quan sát đồ thị hàm số trên đoạn \\(\\left[ { - 2;4} \\right]\\), ta thấy: Điểm thấp nhất của đồ thị trên đoạn này là điểm có tọa độ \\(\\left( {4; - 4} \\right)\\). Do đó, giá trị nhỏ nhất của hàm số trên đoạn \\(\\left[ { - 2;4} \\right]\\) là \\(\\mathop {\\min }\\limits_{\\left[ { - 2;4} \\right]} f\\left( x \\right) = - 4\\). Chọn D."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Trong không gian \\(Oxyz\\), cho hai điểm \\(A\\left( {1;1; - 2} \\right)\\) và \\(B\\left( {2;2;1} \\right)\\). Vectơ \\(\\overrightarrow {AB} \\) có tọa độ là:",
+      "options": [
+        "A. \\(\\left( {3;3; - 1} \\right)\\).",
+        "B. \\(\\left( {1;1;3} \\right)\\).",
+        "C. \\(\\left( {3;1;1} \\right)\\).",
+        "D. \\(\\left( { - 1; - 1; - 3} \\right)\\)."
+      ],
+      "answer": "B",
+      "note": "Tọa độ của vectơ \\(\\overrightarrow {AB} \\) được tính theo công thức: \\(\\overrightarrow {AB} = \\left( {{x_B} - {x_A};{y_B} - {y_A};{z_B} - {z_A}} \\right) = \\left( {2 - 1;2 - 1;1 - \\left( { - 2} \\right)} \\right) = \\left( {1;1;3} \\right)\\). Chọn B."
+    }
+  ]
+}

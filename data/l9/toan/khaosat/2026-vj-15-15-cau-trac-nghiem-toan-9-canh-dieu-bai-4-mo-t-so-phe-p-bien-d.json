@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-15-15-cau-trac-nghiem-toan-9-canh-dieu-bai-4-mo-t-so-phe-p-bien-d",
+  "sourceId": "vietjack:15-15-cau-trac-nghiem-toan-9-canh-dieu-b",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "15.15 câu Trắc nghiệm Toán 9 Cánh diều Bài 4. Một số phép biến đổi căn thức bậc hai của biểu thức đại số có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Khử mẫu biểu thức \\(\\sqrt {\\frac{3}{7}} \\) ta được",
+      "options": [
+        "A. \\(\\frac{3}{7}\\) .",
+        "B. \\(\\frac{{3\\sqrt 7 }}{7}\\) .",
+        "C. \\(\\frac{3}{{\\sqrt 7 }}\\) .",
+        "D. \\(\\frac{{\\sqrt {21} }}{7}\\) ."
+      ],
+      "answer": "D",
+      "note": "Chọn D Ta có \\[\\sqrt {\\frac{3}{7}} = \\frac{{\\sqrt 3 }}{{\\sqrt 7 }} = \\frac{{\\sqrt 3 .\\sqrt 7 }}{{\\sqrt 7 .\\sqrt 7 }} = \\frac{{\\sqrt {27} }}{7}\\]."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Đưa thừa số ra ngoài dấu căn của \\(\\sqrt {96} \\) , ta được",
+      "options": [
+        "A. \\(4\\sqrt 6 \\) .",
+        "B. \\(3\\sqrt 8 \\) .",
+        "C. \\(5\\sqrt 6 \\) .",
+        "D. \\(3\\sqrt {10} \\) ."
+      ],
+      "answer": "A",
+      "note": "Chọn A Ta có \\(\\sqrt {96} = \\sqrt {16 \\cdot 6} = \\sqrt {16} \\cdot \\sqrt 6 = 4\\sqrt 6 \\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Đưa thừa số vào trong dấu căn của \\(3\\sqrt {11} \\) ta được",
+      "options": [
+        "A. \\(\\sqrt {33} \\) .",
+        "B. \\(\\sqrt {99} \\) .",
+        "C. \\(\\sqrt {22} \\) .",
+        "D. \\(\\sqrt {14} \\) ."
+      ],
+      "answer": "B",
+      "note": "Chọn B Ta có \\[3\\sqrt {11} = \\sqrt {{3^2}.11} = \\sqrt {9.11} = \\sqrt {99} \\]."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho biểu thức \\(A < 0,\\,\\,B \\ge 0\\) , khẳng định nào sau đây đúng?",
+      "options": [
+        "A. \\(\\sqrt {{A^2}B} = A\\sqrt B \\) .",
+        "B. \\(\\sqrt {{A^2}B} = - A\\sqrt B \\) .",
+        "C. \\(\\sqrt {{A^2}B} = - B\\sqrt A \\) .",
+        "D. \\(\\sqrt {{A^2}B} = B\\sqrt A \\) ."
+      ],
+      "answer": "B",
+      "note": "Chọn B Ta có \\(\\sqrt {{A^2}B} = \\sqrt {{A^2}} .\\sqrt B = \\left| A \\right|\\sqrt B = - A\\sqrt B \\) (do \\(A < 0\\))."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Chọn phát biểu sai trong các phát biểu sau:",
+      "options": [
+        "A. Nếu \\(a\\) là một số dương và \\(b\\) là một số không âm thì \\(\\sqrt {{a^2}b} = a\\sqrt b \\) .",
+        "B. Nếu \\(a\\) và \\(b\\) là hai số không âm thì \\(\\sqrt {{a^2}b} = a\\sqrt b \\) .",
+        "C. Nếu hai số \\(a,b\\) không âm thì \\(a\\sqrt b = - \\sqrt {{a^2}b} \\) .",
+        "D. Với các biểu thức \\(A,B\\) và \\(B > 0\\) , ta có: \\(\\frac{A}{{\\sqrt B }} = \\frac{{A\\sqrt B }}{B}\\) ."
+      ],
+      "answer": "C",
+      "note": "Chọn C Với hai số \\(a,b\\) không âm thì \\(a\\sqrt b = \\sqrt {{a^2}b} \\) nên khẳng định C là khẳng định sai."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Giá trị của biểu thức \\(\\sqrt {200\\sqrt 3 - 100} \\) là",
+      "options": [
+        "A. \\(100\\sqrt {\\sqrt 3 - 1} \\) .",
+        "B. \\(10\\sqrt {2\\sqrt 3 - 1} \\) .",
+        "C. \\(100\\sqrt {\\sqrt 3 + 1} \\) .",
+        "D. \\(10\\sqrt {2\\sqrt 3 + 1} \\) ."
+      ],
+      "answer": "B",
+      "note": "Chọn B Ta có \\(\\sqrt {200\\sqrt 3 - 100} \\)\\( = \\sqrt {100.2\\sqrt 3 - 100} \\)\\( = \\sqrt {100.\\left( {2\\sqrt 3 - 1} \\right)} \\) \\( = \\sqrt {100} .\\sqrt {2\\sqrt 3 - 1} \\)\\( = 10\\sqrt {2\\sqrt 3 - 1} \\)."
+    }
+  ]
+}

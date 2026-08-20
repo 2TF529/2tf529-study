@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-9-20-cau-trac-nghiem-toan-12-canh-dieu-bai-2-cong-thuc-xac-suat-t",
+  "sourceId": "vietjack:9-20-cau-trac-nghiem-toan-12-canh-dieu-b",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "9.20 câu trắc nghiệm Toán 12 Cánh diều Bài 2. Công thức xác suất toàn phần. Công thức Bayes (Đúng sai - Trả lời ngắn) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: TRẮC NGHIỆM NHIỀU LỰA CHỌN Cho hai biến cố A và B bất kì, với \\(0 < P\\left( A \\right) < 1\\). Khẳng định nào sau đây là đúng?",
+      "options": [
+        "A. \\(P\\left( B \\right) = P\\left( A \\right).P\\left( {B|A} \\right) + P\\left( A \\right).P\\left( {B|\\overline A } \\right)\\).",
+        "B. \\[P\\left( B \\right) = P\\left( A \\right).P\\left( {B|A} \\right) + P\\left( {\\overline A } \\right).P\\left( {B|\\overline A } \\right)\\].",
+        "C. \\(P\\left( B \\right) = P\\left( A \\right).P\\left( {B|A} \\right) - P\\left( {\\overline A } \\right).P\\left( {B|\\overline A } \\right)\\).",
+        "D. \\(P\\left( B \\right) = P\\left( A \\right).P\\left( {A|B} \\right) + P\\left( A \\right).P\\left( {B|\\overline A } \\right)\\)."
+      ],
+      "answer": "B",
+      "note": "\\[P\\left( B \\right) = P\\left( A \\right).P\\left( {B|A} \\right) + P\\left( {\\overline A } \\right).P\\left( {B|\\overline A } \\right)\\]."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hai biến cố A và B, với \\[P\\left( B \\right) = 0,4;P\\left( {A|B} \\right) = 0,5;P\\left( {A|\\overline B } \\right) = 0,3\\]. Tính \\(P\\left( A \\right)\\).",
+      "options": [
+        "A. 0,38.",
+        "B. 0,2.",
+        "C. 0,12.",
+        "D. 0,8."
+      ],
+      "answer": "A",
+      "note": "\\(P\\left( A \\right) = P\\left( B \\right).P\\left( {A|B} \\right) + P\\left( {\\overline B } \\right).P\\left( {A|\\overline B } \\right)\\)\\( = 0,4.0,5 + 0,6.0,3 = 0,38\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho hai biến cố A, B thỏa mãn \\(P\\left( A \\right) = 0,4;P\\left( B \\right) = 0,3;P\\left( {A|B} \\right) = 0,25\\). Tính \\(P\\left( {B|A} \\right)\\).",
+      "options": [
+        "A. 0,1875.",
+        "B. 0,48.",
+        "C. 0,33.",
+        "D. 0,95."
+      ],
+      "answer": "A",
+      "note": "\\(P\\left( {B|A} \\right) = \\frac{{P\\left( B \\right).P\\left( {A|B} \\right)}}{{P\\left( A \\right)}} = \\frac{{0,3.0,25}}{{0,4}} = 0,1875\\)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hai biến cố A và B. Biết \\(P\\left( {A|B} \\right) = 0,08;P\\left( {\\overline A |\\overline B } \\right) = 0,63,P\\left( B \\right) = 0,03\\). Khi đó xác suất xảy ra biến cố A là bao nhiêu?",
+      "options": [
+        "A. 0,112.",
+        "B. 0,5231",
+        "C. 0,3613.",
+        "D. 0,063."
+      ],
+      "answer": "C",
+      "note": "Ta có \\(P\\left( {A|\\overline B } \\right) = 1 - P\\left( {\\overline A |\\overline B } \\right) = 1 - 0,63 = 0,37\\). Khi đó \\(P\\left( A \\right) = P\\left( B \\right).P\\left( {A|B} \\right) + P\\left( {\\overline B } \\right).P\\left( {A|\\overline B } \\right)\\)\\( = 0,03.0,08 + 0,97.0,37 = 0,3613\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hai biến cố A và B. Biết rằng \\(P\\left( B \\right) = 0,8;P\\left( {A|B} \\right) = 0,7;P\\left( {A|\\overline B } \\right) = 0,45\\). Tính \\(P\\left( {B|A} \\right)\\).",
+      "options": [
+        "A. 0,25.",
+        "B. 0,65.",
+        "C. \\(\\frac{{56}}{{65}}\\).",
+        "D. 0,5."
+      ],
+      "answer": "C",
+      "note": "\\(P\\left( {B|A} \\right) = \\frac{{P\\left( B \\right).P\\left( {A|B} \\right)}}{{P\\left( A \\right)}} = \\frac{{0,8.0,7}}{{0,65}} = \\frac{{56}}{{65}}\\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Tỉ lệ người dân đã tiêm vắc xin phòng bệnh A ở một địa phương là 65%. Trong số những người đã tiêm phòng, tỉ lệ mắc bệnh A là 5% còn trong số những người chưa tiêm, tỉ lệ mắc bệnh A là 17%. Gặp ngẫu nhiên một người ở địa phương đó. Xác suất người đó mắc bệnh A là",
+      "options": [
+        "A. 0,0325.",
+        "B. 0,018.",
+        "C. 0,092.",
+        "D. 0,0525."
+      ],
+      "answer": "C",
+      "note": "Gọi A là biến cố “Người đó đã tiêm vắc xin phòng bệnh A”; B là biến cố “Người đó mắc bệnh A”. Theo đề ta có \\(P\\left( A \\right) = 0,65;P\\left( {\\overline A } \\right) = 0,35;P\\left( {B|A} \\right) = 0,05;P\\left( {B|\\overline A } \\right) = 0,17\\). Xác suất người đó mắc bệnh A là \\(P\\left( B \\right) = P\\left( A \\right).P\\left( {B|A} \\right) + P\\left( {\\overline A } \\right).P\\left( {B|\\overline A } \\right)\\) \\( = 0,65.0,05 + 0,35.0,17 = 0,092\\)."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Một lô hàng có tỉ lệ sản phẩm tốt là 80%. Trước khi đưa ra thị trường người ta sử dụng một thiết bị kiểm tra chất lượng để loại sản phẩm xấu. Thiết bị kiểm tra nhận biết đúng sản phẩm tốt với xác suất 0,95 và nhận đúng sản phẩn xấu với xác suất là 0,99. Tỷ lệ sản phẩm được đưa ra thị trường là",
+      "options": [
+        "A. 080%.",
+        "B. 81,2%.",
+        "C. 76,2%.",
+        "D. 75%."
+      ],
+      "answer": "C",
+      "note": "Gọi A là biến cố “Sản phẩm là sản phẩm tốt”; B là biến cố “Sản phẩm được đưa ra thị trường”. Theo đề ta có \\(P\\left( A \\right) = 0,8;P\\left( {\\overline A } \\right) = 0,2;P\\left( {B|A} \\right) = 0,95;P\\left( {\\overline B |\\overline A } \\right) = 0,99\\). Ta có \\(P\\left( {B|\\overline A } \\right) = 1 - P\\left( {\\overline B |\\overline A } \\right) = 1 - 0,99 = 0,01\\). Khi đó \\(P\\left( B \\right) = P\\left( A \\right).P\\left( {B|A} \\right) + P\\left( {\\overline A } \\right).P\\left( {B|\\overline A } \\right)\\)\\( = 0,8.0,95 + 0,2.0,01 = 0,762 = 76,2\\% \\)."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Được biết có 5% đàn ông bị mù màu và 0,25% phụ nữ bị mù màu. Giả sử số đàn ông bằng số phụ nữ. Chọn ngẫu nhiên một người bị mù màu. Xác suất để người được chọn là đàn ông bằng bao nhiêu?",
+      "options": [
+        "A. \\(\\frac{{20}}{{23}}\\).",
+        "B. \\(\\frac{{19}}{{21}}\\).",
+        "C. \\(\\frac{{19}}{{23}}\\).",
+        "D. \\(\\frac{{20}}{{21}}\\)."
+      ],
+      "answer": "D",
+      "note": "Gọi A là biến cố “người được chọn là đàn ông”; B là biến cố “người được chọn bị mù màu”. Theo đề có \\(P\\left( A \\right) = P\\left( {\\overline A } \\right) = 0,5\\); \\(P\\left( {B|A} \\right) = 0,05;P\\left( {B|\\overline A } \\right) = 0,0025\\). Khi đó \\(P\\left( B \\right) = P\\left( A \\right).P\\left( {B|A} \\right) + P\\left( {\\overline A } \\right).P\\left( {B|\\overline A } \\right)\\)\\( = 0,5.0,05 + 0,5.0,0025 = 0,02625\\). Khi đó \\(P\\left( {A|B} \\right) = \\frac{{P\\left( A \\right).P\\left( {B|A} \\right)}}{{P\\left( B \\right)}} = \\frac{{0,5.0,05}}{{0,02625}} = \\frac{{20}}{{21}}\\)."
+    }
+  ]
+}

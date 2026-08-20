@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-10-ket-noi-tri-thuc-bai-25-co-dap-an",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-10-ket-noi-",
+  "grade": "l10",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu trắc nghiệm Tin học 10 Kết nối tri thức Bài 25 có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Sử dụng lệnh nào để tìm vị trí của một xâu con trong xâu khác không?",
+      "options": [
+        "A. test().",
+        "B. in().",
+        "C. find().",
+        "D. split()."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Lệnh find() trả về vị trí của xâu con trong xâu mẹ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Phát biểu nào chưa chính xác khi nói về toán tử in?",
+      "options": [
+        "A. Biểu thức kiểm tra xâu 1 nằm trong xâu 2 là: &lt;xâu 1&gt; in &lt;xâu 2&gt;",
+        "B. Toán tử in trả về giá trị True nếu xâu 1 nằm trong xâu 2.",
+        "C. Toán tử in trả về giá trị False nếu xâu 1 không nằm trong xâu 2.",
+        "D. Toán tử in là toán tử duy nhất giải quyết được bài toán kiểm tra xâu có nằm trong xâu không."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Toán tử in thường được dùng, nhưng không phải toán tử duy nhất để giải quyết được bài toán kiểm tra xâu có nằm trong xâu không."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Kết quả của các câu lệnh sau là gì? s = \"12 34 56 ab cd de \" print(s. find(\" \")) print(s.find(\"12\")) print(s. find(\"34\"))",
+      "options": [
+        "A. 2, 0, 3.",
+        "B. 2, 1, 3.",
+        "C. 3, 5, 2.",
+        "D. 1, 4, 5."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Vị trí đầu tiên của các xâu “ ”, “12”, “34” là: 2, 0, 3."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Phát biểu nào sau đây là đúng khi nói về các phương thức trong python?",
+      "options": [
+        "A. Python có một lệnh đặc biệt dành riêng cho xâu kí tự.",
+        "B. Cú pháp của lệnh find là: &lt;xâu mẹ&gt;. Find(&lt;xâu con&gt;).",
+        "C. Lệnh find sẽ tìm vị trí đầu tiên của xâu con trong xâu mẹ.",
+        "D. Câu lệnh find có một cú pháp duy nhất."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Lệnh find sẽ tìm vị trí đầu tiên của xâu con trong xâu mẹ. Python có một số lệnh đặc biệt dành riêng cho xâu kí tự. Cú pháp của lệnh find là: &lt;xâu mẹ&gt;. find(&lt;xâu con&gt;). Câu lệnh find có nhiều hơn 1 cú pháp."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: ệnh sau trả lại giá trị gì? >> “abcdabcd”. find(“cd”) >> “abcdabcd”. find(“cd”, 4)",
+      "options": [
+        "A. 2, 6.",
+        "B. 3, 3.",
+        "C. 2, 2.",
+        "D. 2, 7."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A &lt;xâu mẹ&gt;. find(&lt;xâu con&gt;, start): tìm vị trí xâu con bắt đầu từ vị trí start. &lt;xâu mẹ&gt;. find(&lt;xâu con&gt;): tìm vị trí xâu con bắt đầu từ vị trí đầu tiên."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Lệnh nào sau đây dùng để tách xâu:",
+      "options": [
+        "A. split()",
+        "B. join()",
+        "C. remove()",
+        "D. copy()."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Lệnh split() tách một xâu thành các từ và đưa vào một danh sách. Kí tự tách dùng để phân tách các từ mặc định là dấu cách."
+    }
+  ]
+}

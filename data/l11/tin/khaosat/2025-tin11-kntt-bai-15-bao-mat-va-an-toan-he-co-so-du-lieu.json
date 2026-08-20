@@ -1,0 +1,137 @@
+{
+  "id": "l11-tin-khaosat-2025-tin11-kntt-bai-15-bao-mat-va-an-toan-he-co-so-du-lieu",
+  "grade": "l11",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2025,
+  "code": "Bài 15: Bảo mật và an toàn hệ cơ sở dữ liệu",
+  "title": "TIN11 - KNTT-Bài 15: Bảo mật và an toàn hệ cơ sở dữ liệu",
+  "duration": 15,
+  "answerSource": "official",
+  "sourceId": "hochanh:4457",
+  "passages": {
+    "p1": "App không chấm điểm câu hỏi này!\nBạn lựa chọn đạt / không đạt để tự chấm."
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án.\nTrong mô hình phân quyền bảo mật cơ sở dữ liệu, nhóm người dùng nào có quyền thêm dữ liệu mới nhưng không có quyền sửa hoặc xóa dữ liệu cũ?",
+      "options": [
+        "A. Nhóm khách (guest)",
+        "B. Nhóm quản trị viên (admin)",
+        "C. Nhóm người dùng thường (regular user)",
+        "D. Nhóm người dùng có quyền nhập dữ liệu (moderator)"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Để bảo vệ cơ sở dữ liệu khỏi sự tấn công qua mạng, biện pháp nào dưới đây là cần thiết?",
+      "options": [
+        "A. Sử dụng mật khẩu mạnh cho tài khoản người dùng",
+        "B. Thực hiện sao lưu dữ liệu định kỳ",
+        "C. Giám sát truy cập và ghi lại nhật ký (log file)",
+        "D. Cả A, B và C"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Sự cố nào sau đây có thể xảy ra và gây mất an toàn cho dữ liệu trong cơ sở dữ liệu?",
+      "options": [
+        "A. Thiết bị lưu trữ bị hư hỏng do quá tuổi thọ",
+        "B. Mất nguồn điện đột ngột",
+        "C. Lỗi phần mềm quản trị cơ sở dữ liệu",
+        "D. Cả A, B và C"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Khi xây dựng chính sách bảo mật cơ sở dữ liệu, yếu tố nào dưới đây là quan trọng nhất?",
+      "options": [
+        "A. Quyền hạn người dùng",
+        "B. Ý thức trách nhiệm của người dùng đối với tài khoản của mình",
+        "C. Kế hoạch xử lý sự cố",
+        "D. Tất cả các yếu tố trên đều quan trọng"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Tại sao việc sao lưu dữ liệu định kỳ lại quan trọng trong bảo vệ an toàn cơ sở dữ liệu?",
+      "options": [
+        "A. Giúp đảm bảo quyền truy cập hợp pháp cho người dùng",
+        "B. Giúp khôi phục dữ liệu khi có sự cố hỏng hóc thiết bị",
+        "C. Đảm bảo các tài khoản người dùng không bị mất",
+        "D. Ngăn chặn các cuộc tấn công qua mạng"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Giải pháp nào giúp đảm bảo dữ liệu không bị mất khi thiết bị lưu trữ bị hỏng?",
+      "options": [
+        "A. Chỉ sử dụng thiết bị mới",
+        "B. Sao lưu định kỳ và sử dụng thiết bị lưu trữ bảo vệ dữ liệu",
+        "C. Đặt mật khẩu cho thiết bị lưu trữ",
+        "D. Sử dụng hệ điều hành an toàn"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Khi phát hiện ra sự cố mất an toàn trong cơ sở dữ liệu, hành động đầu tiên cần thực hiện là gì?",
+      "options": [
+        "A. Tắt ngay hệ thống để ngăn chặn thêm thiệt hại",
+        "B. Thực hiện kiểm tra nhật ký truy cập (log file)",
+        "C. Liên hệ với người dùng có liên quan",
+        "D. Thông báo cho quản trị viên hệ thống"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Quyền nào dưới đây được giới hạn cho người dùng nhóm khách (guest)?",
+      "options": [
+        "A. Quyền thêm bản ghi mới",
+        "B. Quyền sửa bản ghi đã có",
+        "C. Quyền xóa bản ghi",
+        "D. Quyền tìm kiếm và xem dữ liệu"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "content": "Để ngăn ngừa mất dữ liệu do hư hỏng thiết bị lưu trữ, giải pháp nào là hiệu quả nhất?",
+      "options": [
+        "A. Sử dụng phần mềm diệt virus",
+        "B. Quản lý tuổi thọ thiết bị và sao lưu dữ liệu định kỳ",
+        "C. Hạn chế quyền truy cập vào thiết bị lưu trữ",
+        "D. Tăng cường bảo mật mạng"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "content": "Trong trường hợp cơ sở dữ liệu bị tấn công qua mạng, biện pháp nào là cần thiết để giảm thiểu thiệt hại?",
+      "options": [
+        "A. Cắt kết nối mạng ngay lập tức",
+        "B. Cập nhật phần mềm bảo mật",
+        "C. Khôi phục dữ liệu từ bản sao lưu gần nhất",
+        "D. Cả A và C"
+      ],
+      "answer": "D"
+    }
+  ]
+}

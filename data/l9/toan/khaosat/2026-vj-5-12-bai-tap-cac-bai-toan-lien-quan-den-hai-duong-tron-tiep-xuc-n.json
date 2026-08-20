@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-5-12-bai-tap-cac-bai-toan-lien-quan-den-hai-duong-tron-tiep-xuc-n",
+  "sourceId": "vietjack:5-12-bai-tap-cac-bai-toan-lien-quan-den-",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "5.12 bài tập Các bài toán liên quan đến hai đường tròn tiếp xúc nhau, cắt nhau và không cắt nhau có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho đoạn OO ' và điểm A nằm trên đoạn OO ' sao cho OA = 2O ' A. Đường tròn (O) bán kính OA và đường tròn (O ' ) bán kính O ' A. Dây AD của đường tròn lớn cắt đường tròn nhỏ tại C. Khi đó:",
+      "options": [
+        "A. OD ∕∕ O ' C.",
+        "B. \\(\\frac{{AD}}{{AC}} = \\frac{1}{2}\\).",
+        "C. \\(\\frac{{AD}}{{AC}} = 3\\).",
+        "D. AD = AC."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Xét đường tròn (O ' ) và (O) có O ' A = \\(\\frac{1}{2}\\)OA nên \\(\\frac{{AO}}{{AO'}} = 2\\). Xét ∆O ' AC cân tại O ' và ∆OAD cân tại D có \\(\\widehat {OAD} = \\widehat {O'AD}\\) (đối đỉnh) nên \\(\\widehat {OAD} = \\widehat {O'CA}\\). Suy ra \\(\\widehat {OAD} = \\widehat {O'AD}\\). Suy ra ∆OAD ∽ ∆O ' AD (g.g) suy ra \\(\\frac{{AD}}{{AC}} = \\frac{{AO}}{{AO'}} = 2\\). Lại có \\(\\widehat {OAD} = \\widehat {O'CA}\\) mà hai góc ở vị trí so le trong nên OD ∕∕ O ' C."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hai đường tròn (O; R) và (O ' ; r) ở ngoài nhau. Gọi MN là tiếp tuyến chung ngoài, EF là tiếp tuyến chung trong (M và E thuộc (O), N và F thuộc (O ' ). Tính bán kính của đường tròn (O) khi OO ' = 10 cm, MN = 8 cm và EF = 6 cm.",
+      "options": [
+        "A. 7 cm.",
+        "B. 1 cm.",
+        "C. 17 cm.",
+        "D. \\(\\frac{7}{2}\\) cm."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Kẻ O ' H ⊥ OM và OK ⊥ O ' F. Ta có: OH = R – r; O ' K = R + r. Mà OH 2 = O ' O 2 – MN 2 ; O ' K 2 = O ' O 2 – EF 2 = 64. Suy ra OH = 6 và O ' K = 8. Suy ra R – r = 6 và R + r = 8. Thay R = r + 6 vào R + r = 8 được 2r + 6 = 8 suy ra r = 1. Do đó R = 7 cm. Vậy chọn A."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho hai đường tròn (O; R) và (O ' ; r) ở ngoài nhau. Gọi MN là tiếp tuyến chung ngoài, EF là tiếp tuyến chung trong (M và E thuộc (O), N và F thuộc (O ' ). Tính bán kính của đường tròn (O ' ) khi OO ' = 13 cm, MN = 12 cm và EF = 5 cm.",
+      "options": [
+        "A. 7 cm.",
+        "B. 1 cm.",
+        "C. \\(\\frac{{17}}{2}\\) cm.",
+        "D. \\(\\frac{7}{2}\\) cm."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Kẻ O ' H ⊥ OM và OK ⊥ O ' F. Ta có: OH = R – r; O ' K = R + r. Mà OH 2 = O ' O 2 – MN 2 = 25; O ' K 2 = O ' O 2 – EF 2 = 144. Suy ra OH = 5 và O ' K = 12. Suy ra R – r = 5 và R + r = 12. Thay R = r + 5 vào R + r = 12 được 2r + 5 = 12 suy ra r = \\(\\frac{7}{2}\\). Do đó R = \\(\\frac{{17}}{2}\\) cm. Vậy chọn D."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hai đường tròn (O) và (O ' ) tiếp xúc ngoài tại A. Kẻ tiếp tuyến chung ngoài MN với M ∈ (O) và N ∈ (O ' ). Gọi P là điểm đối xứng với M qua OO ' , Q là điểm đối xứng với N qua OO ' . Khi đó, MN + QP bằng",
+      "options": [
+        "A. MP + NQ.",
+        "B. MQ + NP.",
+        "C. 2MP.",
+        "D. d. OP + PQ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Vì P đối xứng với M qua OO ' , Q là điểm đối xứng với N qua OO ' nên MN = QP; P ∈ (O) và Q ∈ (O ' ). Mà MP ⊥ OO ' ; NQ ⊥ OO ' nên MP ∕∕ NQ mà \\(\\widehat {NMP} = \\widehat {QPM}\\) (do \\(\\widehat {OMN} = \\widehat {OPQ};\\widehat {OMP} = \\widehat {OPM}\\)). Nên MNPQ là hình thang cân. Có MN là tiếp tuysn chung nên MN ⊥ OM (tính chất) nên \\(\\widehat {OMN}\\) = 90 ° hay \\(\\widehat {OMP} + \\widehat {PMN} = 90^\\circ \\). Ta có: OM = OP = R nên ∆OMP cân tại O. Suy ra \\(\\widehat {OPM} = \\widehat {OMP}\\). Lại có MNPQ là hình thang cân nên \\(\\widehat {PMN} = \\widehat {QPM}\\). Từ đây suy ra \\(\\widehat {QPM} + \\widehat {QPM} = 90^\\circ \\). Suy ra QP ⊥ OP tại P. Kẻ tiếp tuyến chung tại A cắt NM tại E và PQ tại F. Trong đường tròn (O), theo tính chất hai tiếp tuyến cắt nhau, ta có: EM = EA và FP = FA. Trong đường tròn (O ' ), theo tính chất hai tiếp tuyến bằng nhau ta có: EN = EA và FQ = FA. Suy ra EM = EA = EN = \\(\\frac{1}{2}MN\\). FP = FA = FQ = \\(\\frac{1}{2}PQ\\). Suy ra MN + PQ = 2EA + 2FA = 2(EA + FA) = 2EF. Vì EF là đường trung bình của hình thang MNPQ nên EF = \\(\\frac{{MP + NQ}}{2}\\) hay MP + NQ = 2EF. Do đó, MN + PQ = MP + NQ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hai đường tròn (O) và (O ' ) tiếp xúc ngoài tại A. Kẻ tiếp tuyến chung ngoài MN với M ∈ (O) ; N ∈ (O ' ). Gọi P là điểm đối xứng với M qua OO ' ; Q là điểm đối xứng với N qua OO ' . Khi đó, tứ giác MNQP là hình gì?",
+      "options": [
+        "A. Hình thang cân.",
+        "B. Hình thang.",
+        "C. Hình thang vuông.",
+        "D. Hình bình hành."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Vì P đối xứng với M qua OO ' , Q là điểm đối xứng với N qua OO ' nên MN = QP; P ∈ (O) và Q ∈ (O ' ). Mà MP ⊥ OO ' ; NQ ⊥ OO ' nên MP ∕∕ NQ mà \\(\\widehat {NMP} = \\widehat {QPM}\\) (do \\(\\widehat {OMN} = \\widehat {OPQ};\\widehat {OMP} = \\widehat {OPM}\\)). Nên MNPQ là hình thang cân."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho hai đường tròn (O) và (O ' ) cắt nhau tại A, B trong đó O ' ∈ (O). Kẻ đường kính O ' C của đường tròn (O). Chọn khẳng định sai?",
+      "options": [
+        "A. AC = CB.",
+        "B. \\(\\widehat {CBO'} = 90^\\circ \\).",
+        "C. CA, CB là hai tiếp tuyến của (O ' ).",
+        "D. CA, CB là hai cát tuyến của (O ' )."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Xét đường tròn (O) có O ' C là đường kính, suy ra \\(\\widehat {CBO'} = \\widehat {CAO'}\\) hay CB ⊥ O ' B tại B và AC ⊥ AO ' tại A. Do đó, AC và BC là hai tiếp tuyến của (O ' ) nên AC = BC (tính chất hai tiếp tuyến bằng nhau). Do đó, A, B, C đúng. Vậy chọn D."
+    }
+  ]
+}

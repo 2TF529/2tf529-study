@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-11-canh-dieu-bai-6-tao-bao-cao-don-g",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-11-canh-die",
+  "grade": "l11",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 11 Cánh diều Bài 6: Tạo báo cáo đơn giản đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Đâu là chức năng chính của báo cáo trong hệ quản trị cơ sở dữ liệu?",
+      "options": [
+        "A. Để người dùng sửa đổi dữ liệu",
+        "B. Để kết xuất thông tin phục vụ yêu cầu quản lý",
+        "C. Để tạo ra biểu mẫu cho người dùng",
+        "D. Để lưu trữ dữ liệu vĩnh viễn"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Báo cáo được sử dụng để kết xuất thông tin phục vụ yêu cầu quản lý, không cho phép người xem sửa đổi dữ liệu."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Báo cáo nào sau đây không hiển thị tất cả các bản ghi đã chọn?",
+      "options": [
+        "A. Báo cáo chi tiết",
+        "B. Báo cáo tóm tắt",
+        "C. Báo cáo phân tích",
+        "D. Báo cáo tổng hợp"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Báo cáo tóm tắt chỉ trình bày số liệu tổng hợp mà không liệt kê tất cả các bản ghi."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trong quy trình tạo báo cáo, bước nào là bước đầu tiên?",
+      "options": [
+        "A. Chọn nguồn dữ liệu cho báo cáo",
+        "B. Nhập tên báo cáo",
+        "C. Gộp nhóm dữ liệu",
+        "D. Chọn các trường dữ liệu cần báo cáo"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Bước đầu tiên trong quy trình tạo báo cáo là chọn nguồn dữ liệu (bảng hoặc truy vấn)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Truy vấn chuẩn bị dữ liệu cần thiết cho báo cáo phải được thiết kế như thế nào?",
+      "options": [
+        "A. Sắp xếp dữ liệu theo thứ tự ngẫu nhiên",
+        "B. Sắp xếp dữ liệu theo yêu cầu của báo cáo",
+        "C. Không cần thiết kế truy vấn trước",
+        "D. Chỉ cần chọn tất cả các trường trong bảng"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Truy vấn cần được sắp xếp theo yêu cầu của báo cáo để đảm bảo thông tin được trình bày một cách hợp lý."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Chức năng của Report Wizard trong Access là gì?",
+      "options": [
+        "A. Tạo báo cáo tự động không cần lựa chọn",
+        "B. Hỗ trợ tạo báo cáo với tùy chọn và tùy chỉnh",
+        "C. Ghi lưu các báo cáo đã tạo",
+        "D. Xóa báo cáo không cần thiết"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Report Wizard hỗ trợ người dùng trong việc tạo báo cáo và cho phép lựa chọn tùy biến theo yêu cầu."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Khi nào thì cần sử dụng nhóm trong báo cáo?",
+      "options": [
+        "A. Khi chỉ cần hiển thị tất cả các bản ghi",
+        "B. Khi cần tổng hợp số liệu theo từng nhóm bản ghi",
+        "C. Khi không cần phân loại dữ liệu",
+        "D. Khi không có yêu cầu nào đặc biệt"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Gộp nhóm giúp tóm tắt dữ liệu, hiển thị tổng con cho mỗi nhóm bản ghi."
+    }
+  ]
+}

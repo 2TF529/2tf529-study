@@ -1,0 +1,90 @@
+{
+  "id": "2026-vj-6-19-cau-trac-nghiem-toan-11-canh-dieu-cap-so-nhan-co-dap-an",
+  "sourceId": "vietjack:6-19-cau-trac-nghiem-toan-11-canh-dieu-c",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "6.19 câu trắc nghiệm Toán 11 Cánh diều Cấp số nhân có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho cấp số nhân (u n ) thỏa mãn \\(\\left\\{ {\\begin{array}{*{20}{c}}{{{\\rm{u}}_{\\rm{4}}} - {{\\rm{u}}_{\\rm{2}}}{\\rm{ = 36}}}\\\\{{{\\rm{u}}_{\\rm{5}}} - {{\\rm{u}}_{\\rm{3}}}{\\rm{ = 72}}}\\end{array}} \\right.\\). Chọn khẳng định đúng?",
+      "options": [
+        "A. \\(\\left\\{ {\\begin{array}{*{20}{c}}{q\\,\\,{\\rm{ = 2}}}\\\\{{{\\rm{u}}_1}{\\rm{ = 4}}}\\end{array}} \\right.\\)",
+        "B. \\(\\left\\{ {\\begin{array}{*{20}{c}}{q\\,\\,{\\rm{ = 2}}}\\\\{{{\\rm{u}}_1}{\\rm{ = 6}}}\\end{array}} \\right.\\)",
+        "C. \\(\\left\\{ {\\begin{array}{*{20}{c}}{q\\,\\,{\\rm{ = 2}}}\\\\{{{\\rm{u}}_1}{\\rm{ = 9}}}\\end{array}} \\right.\\)",
+        "D. \\(\\left\\{ {\\begin{array}{*{20}{c}}{q\\,\\,{\\rm{ = 3}}}\\\\{{{\\rm{u}}_1}{\\rm{ = 9}}}\\end{array}} \\right.\\)"
+      ],
+      "answer": "B",
+      "note": "\\(\\left\\{ {\\begin{array}{*{20}{c}}{{\\rm{36 = }}{{\\rm{u}}_{\\rm{4}}} - {{\\rm{u}}_{\\rm{2}}}{\\rm{ = }}{{\\rm{u}}_{\\rm{1}}}{\\rm{q}}\\left( {{{\\rm{q}}^{\\rm{2}}} - {\\rm{1}}} \\right)}\\\\{{\\rm{72 = }}{{\\rm{u}}_{\\rm{5}}} - {{\\rm{u}}_{\\rm{3}}}{\\rm{ = }}{{\\rm{u}}_{\\rm{1}}}{{\\rm{q}}^{\\rm{2}}}\\left( {{{\\rm{q}}^{\\rm{2}}} - {\\rm{1}}} \\right){\\rm{ = }}\\left[ {{{\\rm{u}}_{\\rm{1}}}{\\rm{q}}\\left( {{{\\rm{q}}^{\\rm{2}}} - {\\rm{1}}} \\right)} \\right]{\\rm{q = 36q}}}\\end{array}} \\right. \\Rightarrow \\left\\{ {\\begin{array}{*{20}{c}}{q\\,\\,{\\rm{ = 2}}}\\\\{{{\\rm{u}}_1}{\\rm{ = 6}}}\\end{array}} \\right.\\) Đáp án cần chọn là: B"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Trong các dãy số u n cho bởi số hạng tổng quất u n sau dãy số nào là một cấp số nhân?",
+      "options": [
+        "A. \\[{{\\rm{u}}_{\\rm{n}}}{\\rm{ = 7}} - {\\rm{3n}}\\]",
+        "B. \\[{{\\rm{u}}_{\\rm{n}}}{\\rm{ = 7}} - {{\\rm{3}}^{\\rm{n}}}\\]",
+        "C. \\[{{\\rm{u}}_{\\rm{n}}}{\\rm{ = }}\\frac{{\\rm{7}}}{{{\\rm{3n}}}}\\]",
+        "D. \\[{{\\rm{u}}_{\\rm{n}}}{\\rm{ = 7}}{\\rm{.}}{{\\rm{3}}^{\\rm{n}}}\\]"
+      ],
+      "answer": "D",
+      "note": "Nhận thấy dãy \\[{{\\rm{u}}_{\\rm{n}}}{\\rm{ = 7}}{\\rm{.}}{{\\rm{3}}^{\\rm{n}}}\\]là cấp số nhân có\\(\\left\\{ {\\begin{array}{*{20}{c}}{{{\\rm{u}}_{\\rm{1}}}{\\rm{ = 21}}}\\\\{{\\rm{q = 3}}}\\end{array}} \\right.\\) Đáp án cần chọn là: D"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Một cấp số nhân có 6 số hạng với công bội bằng 2 và tổng số các số hạng bằng 189. Tìm số hạng cuối u 6 của cấp số nhân đã cho.",
+      "options": [
+        "A. 32",
+        "B. 104",
+        "C. 48",
+        "D. 96"
+      ],
+      "answer": "D",
+      "note": "\\(\\left\\{ {\\begin{array}{*{20}{c}}{{\\rm{q = 2}}}\\\\{{{\\rm{S}}_{\\rm{6}}}{\\rm{ = 189 = }}{{\\rm{u}}_{\\rm{1}}}{\\rm{.}}\\frac{{{\\rm{1}} - {{\\rm{q}}^{\\rm{6}}}}}{{{\\rm{1}} - {\\rm{q}}}}}\\end{array}} \\right. \\Rightarrow \\left\\{ {\\begin{array}{*{20}{c}}{{\\rm{q = 2}}}\\\\{{{\\rm{u}}_{\\rm{1}}}{\\rm{ = 3}}}\\\\{{{\\rm{u}}_{\\rm{6}}}{\\rm{ = 96}}}\\end{array}} \\right.\\) Đáp án cần chọn là: D"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho dãy (u n ) được xác định như sau \\(\\left\\{ {\\begin{array}{*{20}{c}}{{u_1} = 2}\\\\{{{\\rm{u}}_{{\\rm{n + 1}}}}{\\rm{ + 4}}{{\\rm{u}}_{\\rm{n}}}{\\rm{ = 4}} - {\\rm{5n}}\\left( {n \\ge 1} \\right)}\\end{array}} \\right.\\) Tính tổng \\[{\\rm{S = }}{{\\rm{u}}_{{\\rm{2018}}}} - {\\rm{2}}{{\\rm{u}}_{{\\rm{2017}}}}\\]A. \\[{\\rm{S = 2016}} - {\\rm{3}}{\\rm{.}}{{\\rm{4}}^{{\\rm{2018}}}}\\]",
+      "options": [
+        "A. \\[{\\rm{S = 2016 + 3}}{\\rm{.}}{{\\rm{4}}^{{\\rm{2018}}}}\\]",
+        "B. \\[{\\rm{S = 2015 + 3}}{\\rm{.}}{{\\rm{4}}^{{\\rm{2017}}}}\\]",
+        "C. \\[{\\rm{S = 2015}} - {\\rm{3}}{\\rm{.}}{{\\rm{4}}^{{\\rm{2017}}}}\\]"
+      ],
+      "answer": "C",
+      "note": "Đặt:\\[{{\\rm{u}}_{\\rm{n}}}{\\rm{ = }}{{\\rm{v}}_{\\rm{n}}} - {\\rm{n}} \\Rightarrow {{\\rm{v}}_{\\rm{1}}}{\\rm{ = }}{{\\rm{u}}_{\\rm{1}}}{\\rm{ + 1}}\\] \\[{{\\rm{v}}_{{\\rm{n + 1}}}} - {\\rm{(n + 1) = }} - {\\rm{4(}}{{\\rm{v}}_{\\rm{n}}} - {\\rm{n) + 5}}\\]vì \\[\\left( {{{\\rm{u}}_{{\\rm{n + 1}}}}{\\rm{ = 4}}{{\\rm{u}}_{\\rm{n}}} - {\\rm{4 + 5n}}} \\right) \\Rightarrow {{\\rm{v}}_{{\\rm{n + 1}}}}{\\rm{ = }} - {\\rm{4}}{{\\rm{v}}_{\\rm{n}}}{\\rm{ + 5}}\\] Đặt: \\[{{\\rm{v}}_{\\rm{n}}}{\\rm{ = }}{{\\rm{y}}_{\\rm{n}}}{\\rm{ + 1}} \\Rightarrow {{\\rm{y}}_{\\rm{1}}}{\\rm{ = 2}}\\] \\[{{\\rm{y}}_{{\\rm{n + 1}}}}{\\rm{ + 1 = }} - {\\rm{4(}}{{\\rm{y}}_{\\rm{n}}}{\\rm{ + 1) + 5}}\\]vì \\[\\left( {{{\\rm{v}}_{{\\rm{n + 1}}}}{\\rm{ = }} - {\\rm{4}}{{\\rm{v}}_{\\rm{n}}}{\\rm{ + 5}}} \\right) \\Rightarrow {{\\rm{y}}_{{\\rm{n + 1}}}}{\\rm{ = }} - {\\rm{4}}{{\\rm{y}}_{\\rm{n}}}\\] \\[ \\Rightarrow {{\\rm{y}}_{\\rm{n}}}{\\rm{ = 2}}{\\rm{.}}{\\left( { - {\\rm{4}}} \\right)^{{\\rm{n}} - {\\rm{1}}}}{\\rm{ = }}{\\left( { - {\\rm{1}}} \\right)^{{\\rm{n}} - {\\rm{1}}}}{\\rm{.}}{{\\rm{2}}^{{\\rm{2n}} - {\\rm{1}}}} \\Rightarrow {{\\rm{u}}_{\\rm{n}}}{\\rm{ = }}{{\\rm{y}}_{\\rm{n}}} - {\\rm{n + 1 = }}{\\left( { - {\\rm{1}}} \\right)^{{\\rm{n}} - {\\rm{1}}}}{\\rm{.}}{{\\rm{2}}^{{\\rm{2n}} - {\\rm{1}}}} - {\\rm{n + 1}}\\] \\[ \\Rightarrow {\\rm{S = }}{{\\rm{u}}_{{\\rm{2018}}}} - {\\rm{2}}{{\\rm{u}}_{{\\rm{2017}}}}{\\rm{ = 2015}} - {\\rm{3}}{\\rm{.}}{{\\rm{4}}^{{\\rm{2017}}}}\\] Đáp án cần chọn là: D"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Một cấp số nhân có ba số hạng là a, b, c (theo thứ tự đó) trong đó các số hạng và công bội q đều khác 0. Mệnh đề nào sau đây là đúng?",
+      "options": [
+        "A. \\[\\frac{{\\rm{1}}}{{{{\\rm{a}}^{\\rm{2}}}}}{\\rm{ = }}\\frac{{\\rm{1}}}{{{\\rm{bc}}}}\\]",
+        "B. \\[\\frac{{\\rm{1}}}{{{{\\rm{b}}^{\\rm{2}}}}}{\\rm{ = }}\\frac{{\\rm{1}}}{{{\\rm{ac}}}}\\]",
+        "C. \\[\\frac{{\\rm{1}}}{{{{\\rm{c}}^{\\rm{2}}}}}{\\rm{ = }}\\frac{{\\rm{1}}}{{{\\rm{ab}}}}\\]",
+        "D. \\[\\frac{{\\rm{1}}}{{\\rm{a}}}{\\rm{ + }}\\frac{{\\rm{1}}}{{\\rm{b}}}{\\rm{ = }}\\frac{{\\rm{2}}}{{\\rm{c}}}\\]"
+      ],
+      "answer": "B",
+      "note": "Ta có: \\[{\\rm{ac = }}{{\\rm{b}}^{\\rm{2}}} \\Rightarrow \\frac{{\\rm{1}}}{{{{\\rm{b}}^{\\rm{2}}}}}{\\rm{ = }}\\frac{{\\rm{1}}}{{{\\rm{ac}}}}\\] Đáp án cần chọn là: B"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Tính tổng cấp số nhân lùi vô hạn\\[{\\rm{S = 1 + }}\\frac{{\\rm{1}}}{{\\rm{2}}}{\\rm{ + }}\\frac{{\\rm{1}}}{{{\\rm{ }}{{\\rm{2}}^{\\rm{2}}}}}{\\rm{ + }}...{\\rm{ + }}\\frac{{\\rm{1}}}{{{{\\rm{2}}^{\\rm{n}}}}}{\\rm{ + }}...\\]",
+      "options": [
+        "A. \\[{{\\rm{2}}^{\\rm{n}}} - 1\\]",
+        "B. \\[\\frac{1}{2}.\\frac{{\\frac{1}{{{2^{\\rm{n}}}}} - 1}}{{\\frac{1}{2} - 1}}\\]",
+        "C. 2",
+        "D. 4"
+      ],
+      "answer": "C",
+      "note": "Đây là cấp số nhân lùi vô hạn có\\[{{\\rm{u}}_{\\rm{1}}}{\\rm{ = 1; q = }}\\frac{{\\rm{1}}}{{\\rm{2}}}\\] Khi đó \\[{\\rm{S = }}\\frac{{{{\\rm{u}}_{\\rm{1}}}}}{{{\\rm{1}} - {\\rm{q}}}}{\\rm{ = }}\\frac{{\\rm{1}}}{{{\\rm{1}} - \\frac{{\\rm{1}}}{{\\rm{2}}}}}{\\rm{ = 2}}\\]Đáp án cần chọn là: C"
+    }
+  ]
+}

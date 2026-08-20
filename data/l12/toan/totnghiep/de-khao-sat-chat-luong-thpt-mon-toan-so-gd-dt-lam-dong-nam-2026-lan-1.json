@@ -1,0 +1,196 @@
+{
+  "id": "l12-toan-totnghiep-2026-de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-lam-dong-nam-2026-lan-1",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "code": "THPT_TKT_2026_LĐ_01",
+  "title": "Đề khảo sát chất lượng THPT môn Toán Sở GD&ĐT Lâm Đồng năm 2026 - Lần 1",
+  "duration": 90,
+  "answerSource": "official",
+  "source": "https://dolthpt.vn/tot-nghiep-thpt/pdf-de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-lam-dong-nam-2026-lan-1-co-dap-an",
+  "notes": "Nội dung, đáp án và lời giải được nhập từ bản công khai của DOL THPT.",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "content": "Nghiệm của phương trình \\$2^{x+4}=4$ là",
+      "chuong": "hàm số mũ và hàm số lôgarit",
+      "dang": "phương trình mũ",
+      "type": "single",
+      "options": [
+        "A. $x=2$.",
+        "B. $x=-2$.",
+        "C. $x=-1$.",
+        "D. $x=1$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Phương trình cần giải: \\$2^{x+4}=4$.\n❓ **Hiểu câu hỏi:**\n- Dạng: Phương trình mũ. Đưa hai vế về cùng cơ số \\$2$ rồi so sánh số mũ.\n🔎 **Hướng dẫn cách làm:**\n- Vì \\$4=2^2$ nên \\$2^{x+4}=2^2$.\n- Cùng cơ số \\$2>0,2\\ne1$ nên $x+4=2$, suy ra $x=-2$.\n✅ **Đáp án:** Chọn B."
+    },
+    {
+      "id": 2,
+      "content": "Cho hàm số $y=f(x)$ liên tục trên $\\mathbb{R}$. Gọi $S$ là diện tích hình phẳng giới hạn bởi các đường $y=f(x)$, $y=0$, $x=-1$ và $x=5$ (hình minh họa). Mệnh đề nào sau đây đúng?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-lam-dong-nam-2026-lan-1/cau-02.webp\" alt=\"Hình minh họa đồ thị $y=f(x)$: phần diện tích từ $-1$ đến \\$1$ nằm phía trên trục hoành, phần từ \\$1$ đến \\$5$ nằm phía dưới trục hoành.\" loading=\"lazy\"></figure>",
+      "chuong": "nguyên hàm và tích phân",
+      "dang": "ứng dụng tích phân để tính diện tích hình phẳng",
+      "type": "single",
+      "options": [
+        "A. $S=-\\int_{-1}^{1}f(x)dx-\\int_1^5 f(x)dx$.",
+        "B. $S=-\\int_{-1}^{1}f(x)dx+\\int_1^5 f(x)dx$.",
+        "C. $S=\\int_{-1}^{1}f(x)dx-\\int_1^5 f(x)dx$.",
+        "D. $S=\\int_{-1}^{1}f(x)dx+\\int_1^5 f(x)dx$."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Từ hình vẽ: $f(x)\\geq0$ trên $[-1;1]$ và $f(x)\\leq0$ trên $[1;5]$.\n❓ **Hiểu câu hỏi:**\n- Dạng: Ứng dụng tích phân để tính diện tích hình phẳng. Diện tích với trục hoành là $\\int |f(x)|dx$, nên tách theo khoảng đổi dấu.\n🔎 **Hướng dẫn cách làm:**\n- Trên $[-1;1]$, vì $f(x)\\geq0$ nên phần diện tích bằng $\\int_{-1}^{1}f(x)dx$.\n- Trên $[1;5]$, vì $f(x)\\leq0$ nên $|f(x)|=-f(x)$ và phần diện tích bằng $-\\int_{1}^{5}f(x)dx$.\n- Cộng hai phần diện tích theo công thức $S=\\int |f(x)|dx$ suy ra $S=\\int_{-1}^{1}f(x)dx-\\int_{1}^{5}f(x)dx$.\n✅ **Đáp án:** Chọn C."
+    },
+    {
+      "id": 3,
+      "content": "Cho cấp số nhân $(u_n)$ có $u_1=2$ và $u_2=6$. Công bội $q$ của cấp số nhân là",
+      "chuong": "dãy số. cấp số cộng và cấp số nhân",
+      "dang": "định nghĩa cấp số nhân",
+      "type": "single",
+      "options": [
+        "A. $q=2$.",
+        "B. $q=3$.",
+        "C. $q=4$.",
+        "D. $q=12$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cấp số nhân có $u_1=2$, $u_2=6$.\n❓ **Hiểu câu hỏi:**\n- Dạng: Định nghĩa cấp số nhân. Dùng hệ thức hai số hạng liên tiếp $u_2=u_1q$.\n🔎 **Hướng dẫn cách làm:**\n- Ta có $q=\\dfrac{u_2}{u_1}=\\dfrac{6}{2}=3$.\n✅ **Đáp án:** Chọn B."
+    },
+    {
+      "id": 4,
+      "content": "Trong không gian với hệ tọa độ $Oxyz$, cho mặt cầu $(S):(x-1)^2+(y+2)^2+(z+1)^2=9$. Tâm $I$ của mặt cầu $(S)$ có tọa độ là",
+      "chuong": "phương pháp tọa độ trong không gian",
+      "dang": "phương trình mặt cầu",
+      "type": "single",
+      "options": [
+        "A. $I(1;-2;1)$.",
+        "B. $I(-1;2;1)$.",
+        "C. $I(1;-2;-1)$.",
+        "D. $I(1;2;-1)$."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Mặt cầu có phương trình $(x-1)^2+(y+2)^2+(z+1)^2=9$.\n❓ **Hiểu câu hỏi:**\n- Dạng: Phương trình mặt cầu. So sánh với dạng chuẩn $(x-a)^2+(y-b)^2+(z-c)^2=R^2$.\n🔎 **Hướng dẫn cách làm:**\n- Từ phương trình, $a=1$, $b=-2$, $c=-1$ nên tâm là $I(1;-2;-1)$.\n✅ **Đáp án:** Chọn C."
+    },
+    {
+      "id": 5,
+      "content": "Cho hàm số $y=f(x)$ có bảng biến thiên như hình bên. Hàm số đã cho nghịch biến trên khoảng nào dưới đây?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-lam-dong-nam-2026-lan-1/cau-05.webp\" alt=\"Bảng biến thiên: $y'<0$ trên $(-\\infty;0)$, $y'>0$ trên $(0;1)$ và $y'<0$ trên $(1;+\\infty)$.\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "tính đơn điệu của hàm số",
+      "type": "single",
+      "options": [
+        "A. $(-\\infty;0)$.",
+        "B. $(0;+\\infty)$.",
+        "C. $(0;1)$.",
+        "D. $(-\\infty;1)$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Bảng biến thiên cho $y'<0$ trên $(-\\infty;0)$ và $(1;+\\infty)$.\n❓ **Hiểu câu hỏi:**\n- Dạng: Tính đơn điệu của hàm số. Hàm số nghịch biến trên khoảng mà đạo hàm âm.\n🔎 **Hướng dẫn cách làm:**\n- Trong các phương án, $(-\\infty;0)$ là khoảng hoàn toàn nằm trong vùng $y'<0$.\n- Vì vậy hàm số nghịch biến trên $(-\\infty;0)$.\n✅ **Đáp án:** Chọn A."
+    },
+    {
+      "id": 6,
+      "content": "Cho hình chóp $S.ABC$ có đáy $ABC$ là tam giác đều cạnh $a$. Biết $SA\\perp(ABC)$ và $SA=a\\sqrt{3}$. Thể tích khối chóp $S.ABC$ bằng",
+      "chuong": "quan hệ vuông góc trong không gian",
+      "dang": "thể tích",
+      "type": "single",
+      "options": [
+        "A. $\\dfrac{a^3}{4}$.",
+        "B. $\\dfrac{a}{4}$.",
+        "C. $\\dfrac{3a^3}{4}$.",
+        "D. $\\dfrac{a^3}{2}$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Đáy $ABC$ là tam giác đều cạnh $a$; $SA\\perp(ABC)$ và $SA=a\\sqrt3$.\n❓ **Hiểu câu hỏi:**\n- Dạng: Thể tích. Dùng $V=\\dfrac13 S_{\\text{đáy}}h$ và diện tích tam giác đều.\n🔎 **Hướng dẫn cách làm:**\n- Chiều cao khối chóp là $h=SA=a\\sqrt3$.\n- Diện tích đáy $S_{ABC}=\\dfrac{a^2\\sqrt3}{4}$.\n- Suy ra $V=\\dfrac13\\cdot\\dfrac{a^2\\sqrt3}{4}\\cdot a\\sqrt3=\\dfrac{a^3}{4}$.\n✅ **Đáp án:** Chọn A."
+    },
+    {
+      "id": 7,
+      "content": "Trong không gian với hệ tọa độ $Oxyz$, cho mặt phẳng $(P):4x-y-2z+5=0$. Vectơ nào sau đây là một vectơ pháp tuyến của mặt phẳng $(P)$?",
+      "chuong": "phương pháp tọa độ trong không gian",
+      "dang": "vectơ pháp tuyến và cặp vectơ chỉ phương của mặt phẳng",
+      "type": "single",
+      "options": [
+        "A. $\\vec n_4=(-4;-1;2)$.",
+        "B. $\\vec n_3=(4;1;-2)$.",
+        "C. $\\vec n_1=(4;-2;-1)$.",
+        "D. $\\vec n_2=(4;-1;-2)$."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Mặt phẳng $(P):4x-y-2z+5=0$.\n❓ **Hiểu câu hỏi:**\n- Dạng: Vectơ pháp tuyến và cặp vectơ chỉ phương của mặt phẳng. Với mặt phẳng $Ax+By+Cz+D=0$, một vectơ pháp tuyến là $(A;B;C)$.\n🔎 **Hướng dẫn cách làm:**\n- Bộ hệ số của $x,y,z$ là $(4;-1;-2)$, nên một vectơ pháp tuyến là $\\vec n=(4;-1;-2)$.\n✅ **Đáp án:** Chọn D."
+    },
+    {
+      "id": 8,
+      "content": "Họ nguyên hàm của hàm số $f(x)=e^x$ là",
+      "chuong": "nguyên hàm và tích phân",
+      "dang": "nguyên hàm của một hàm số",
+      "type": "single",
+      "options": [
+        "A. $\\dfrac{e^{x+1}}{x+1}+C$.",
+        "B. $e^x+C$.",
+        "C. $\\dfrac{1}{e^x}+C$.",
+        "D. $\\dfrac{1}{x}+C$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số cần tìm họ nguyên hàm là $f(x)=e^x$.\n❓ **Hiểu câu hỏi:**\n- Dạng: Nguyên hàm của một hàm số. Dùng công thức nguyên hàm cơ bản $\\int e^x dx=e^x+C$.\n🔎 **Hướng dẫn cách làm:**\n- Áp dụng trực tiếp, họ nguyên hàm là $e^x+C$.\n✅ **Đáp án:** Chọn B."
+    },
+    {
+      "id": 9,
+      "content": "Thống kê thời gian hoàn thành một bài tập (đơn vị: phút) của một số học sinh thu được bảng tần số ghép nhóm. Thời gian trung bình (phút) để hoàn thành bài tập của các em học sinh là\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-lam-dong-nam-2026-lan-1/cau-09.webp\" alt=\"Bảng tần số ghép nhóm với các lớp $[0;4),[4;8),[8;12),[12;16),[16;20)$ và tần số \\$2,4,7,4,3$.\" loading=\"lazy\"></figure>",
+      "chuong": "các số đặc trưng đo xu thế trung tâm của mẫu số liệu ghép nhóm",
+      "dang": "số trung bình của mẫu số liệu ghép nhóm",
+      "type": "single",
+      "options": [
+        "A. \\$12{,}5$.",
+        "B. \\$10{,}4$.",
+        "C. \\$7$.",
+        "D. \\$11{,}3$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Các giá trị đại diện của các nhóm $[0;4),[4;8),[8;12),[12;16),[16;20)$ là \\$2,6,10,14,18$.\n❓ **Hiểu câu hỏi:**\n- Dạng: Số trung bình của mẫu số liệu ghép nhóm. Số trung bình mẫu ghép nhóm là trung bình có trọng số theo tần số.\n🔎 **Hướng dẫn cách làm:**\n- Tổng tần số là \\$2+4+7+4+3=20$.\n- Số trung bình bằng $\\dfrac{2\\cdot2+6\\cdot4+10\\cdot7+14\\cdot4+18\\cdot3}{20}=10{,}4$.\n✅ **Đáp án:** Chọn B."
+    },
+    {
+      "id": 10,
+      "content": "Số cách chọn \\$5$ học sinh từ \\$35$ học sinh của lớp 11A để tham gia hoạt động tiếp sức mùa thi là",
+      "chuong": "đại số tổ hợp",
+      "dang": "tổ hợp",
+      "type": "single",
+      "options": [
+        "A. $C^5_{35}$.",
+        "B. \\$5^5$.",
+        "C. $A^5_{35}$.",
+        "D. \\$5!$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cần chọn \\$5$ học sinh từ \\$35$ học sinh, không xét thứ tự.\n❓ **Hiểu câu hỏi:**\n- Dạng: Tổ hợp. Bài toán chọn nhóm không xét thứ tự nên dùng tổ hợp $C^k_n$.\n🔎 **Hướng dẫn cách làm:**\n- Mỗi nhóm \\$5$ học sinh được tính một lần vì thứ tự chọn không làm thay đổi nhóm.\n- Thay $n=35$, $k=5$ vào công thức tổ hợp, số cách chọn là $C^5_{35}$.\n✅ **Đáp án:** Chọn A."
+    },
+    {
+      "id": 11,
+      "content": "Trong không gian với hệ tọa độ $Oxyz$, cho hai vectơ $\\vec u$ và $\\vec v$ thỏa mãn $|\\vec u|=5$, $|\\vec v|=8$ và $(\\vec u,\\vec v)=120^\\circ$. Phát biểu nào sau đây là đúng?",
+      "chuong": "vectơ và hệ trục tọa độ trong không gian",
+      "dang": "tích vô hướng của hai vectơ trong không gian",
+      "type": "single",
+      "options": [
+        "A. $\\vec u\\cdot\\vec v=-20\\sqrt{3}$.",
+        "B. $\\vec u\\cdot\\vec v=20$.",
+        "C. $\\vec u\\cdot\\vec v=40$.",
+        "D. $\\vec u\\cdot\\vec v=-20$."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- $|\\vec u|=5$, $|\\vec v|=8$ và góc giữa hai vectơ là \\$120^\\circ$.\n❓ **Hiểu câu hỏi:**\n- Dạng: Tích vô hướng của hai vectơ trong không gian. Dùng công thức $\\vec u\\cdot\\vec v=|\\vec u||\\vec v|\\cos(\\vec u,\\vec v)$.\n🔎 **Hướng dẫn cách làm:**\n- Ta có $\\vec u\\cdot\\vec v=5\\cdot8\\cdot\\cos120^\\circ=40\\cdot\\left(-\\dfrac12\\right)=-20$.\n✅ **Đáp án:** Chọn D."
+    },
+    {
+      "id": 12,
+      "content": "Cho hình chóp $S.ABC$ có đáy $ABC$ là tam giác vuông tại $B$, cạnh bên $SA$ vuông góc với mặt đáy. Biết $SA=AB$. Góc giữa đường thẳng $SB$ và mặt phẳng đáy bằng\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-lam-dong-nam-2026-lan-1/cau-12.webp\" alt=\"Hình chóp $S.ABC$ có $SA$ vuông góc với mặt phẳng đáy; góc cần xét là góc giữa $SB$ và hình chiếu $AB$ trên đáy.\" loading=\"lazy\"></figure>",
+      "chuong": "quan hệ vuông góc trong không gian",
+      "dang": "góc giữa đường thẳng và mặt phẳng",
+      "type": "single",
+      "options": [
+        "A. \\$45^\\circ$.",
+        "B. \\$90^\\circ$.",
+        "C. \\$30^\\circ$.",
+        "D. \\$60^\\circ$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- $SA\\perp(ABC)$ và $SA=AB$.\n❓ **Hiểu câu hỏi:**\n- Dạng: Góc giữa đường thẳng và mặt phẳng. Góc giữa đường thẳng và mặt phẳng bằng góc giữa đường thẳng đó với hình chiếu của nó trên mặt phẳng.\n🔎 **Hướng dẫn cách làm:**\n- Hình chiếu của $S$ lên đáy là $A$, nên hình chiếu của $SB$ lên đáy là $AB$.\n- Góc cần tìm là $\\widehat{SBA}$ trong tam giác vuông $SAB$.\n- Vì $SA=AB$ nên tam giác $SAB$ vuông cân tại $A$, do đó $\\widehat{SBA}=45^\\circ$.\n✅ **Đáp án:** Chọn A."
+    }
+  ]
+}

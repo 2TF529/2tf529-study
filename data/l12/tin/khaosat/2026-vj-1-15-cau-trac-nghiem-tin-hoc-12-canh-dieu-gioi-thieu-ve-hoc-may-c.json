@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-12-canh-dieu-gioi-thieu-ve-hoc-may-c",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-12-canh-die",
+  "grade": "l12",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 12 Cánh diều Giới thiệu về học máy có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Học máy là nhánh của trí tuệ nhân tạo (AI) giúp máy tính làm gì?",
+      "options": [
+        "A. Tự động phát hiện mối quan hệ trong dữ liệu.",
+        "B. Xây dựng hệ điều hành mới.",
+        "C. Tạo ra các phần mềm diệt virus.",
+        "D. Quản lý cơ sở dữ liệu."
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Học máy giúp máy tính học từ dữ liệu để tự động phát hiện mối quan hệ và mẫu trong dữ liệu, điều này làm nổi bật khả năng học từ dữ liệu mà không cần lập trình chi tiết."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Trong quy trình học máy, bước nào là bước đầu tiên?",
+      "options": [
+        "A. Chuẩn bị dữ liệu.",
+        "B. Đánh giá mô hình.",
+        "C. Thu thập dữ liệu.",
+        "D. Triển khai ứng dụng mô hình."
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Bước đầu tiên trong quy trình học máy là thu thập dữ liệu từ nhiều nguồn khác nhau để có dữ liệu thô cần thiết cho các bước tiếp theo."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Mô hình học máy được tạo ra từ gì?",
+      "options": [
+        "A. Thuật toán học máy.",
+        "B. Dữ liệu huấn luyện.",
+        "C. Các ứng dụng phần mềm.",
+        "D. Hệ điều hành."
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Mô hình học máy được tạo ra từ thuật toán học máy và được huấn luyện bằng dữ liệu huấn luyện."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Trong học có giám sát, dữ liệu huấn luyện bao gồm gì?",
+      "options": [
+        "A. Các mẫu dữ liệu được gán với nhãn đầu ra tương ứng.",
+        "B. Các dữ liệu không có nhãn.",
+        "C. Dữ liệu chỉ chứa thuộc tính đặc trưng.",
+        "D. Dữ liệu không cần chuẩn bị trước."
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Trong học có giám sát, dữ liệu huấn luyện bao gồm các mẫu dữ liệu có nhãn đầu ra tương ứng, giúp máy tính học cách dự đoán nhãn cho dữ liệu mới."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Bài toán phân loại nào dưới đây là ví dụ điển hình trong học máy?",
+      "options": [
+        "A. Phân loại thư rác.",
+        "B. Phân cụm dữ liệu khách hàng.",
+        "C. Phân tích thị trường chứng khoán.",
+        "D. Dự đoán giá cổ phiếu."
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Phân loại thư rác là một ví dụ điển hình của bài toán phân loại, nơi các email được gán nhãn \"spam\" hoặc \"no spam\" dựa trên các thuộc tính đặc trưng của chúng."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong bài toán phân cụm, dữ liệu huấn luyện có đặc điểm gì?",
+      "options": [
+        "A. Không có nhãn.",
+        "B. Được gán nhãn với đầu ra cụ thể.",
+        "C. Chỉ chứa các thuộc tính đặc trưng của đối tượng.",
+        "D. Dữ liệu được chuẩn bị trước và có cấu trúc."
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Trong bài toán phân cụm, dữ liệu huấn luyện không có nhãn và chỉ chứa các thuộc tính đặc trưng của đối tượng để nhóm các mẫu dữ liệu thành các cụm dựa trên sự tương tự."
+    }
+  ]
+}

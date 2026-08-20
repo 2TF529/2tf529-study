@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-3-bo-6-de-thi-cuoi-ki-2-tin-hoc-10-ket-noi-tri-thuc-co-dap-an",
+  "sourceId": "vietjack:3-bo-6-de-thi-cuoi-ki-2-tin-hoc-10-ket-n",
+  "grade": "l10",
+  "subjectSlug": "tin",
+  "examType": "cuoiki2",
+  "year": 2026,
+  "title": "3.Bộ 6 đề thi cuối kì 2 Tin học 10 Kết nối tri thức có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Chọn phát biểu sai:",
+      "options": [
+        "A. Lệnh duyệt kí tự của xâu theo từng kí tự của xâu s. Biến ch sẽ được gán lần lượt các kí tự của xâu s từ đầu đến cuối.",
+        "B. Lệnh duyệt kí tự của xâu theo chỉ số: biến i lần lượt chạy theo chỉ số của xâu kí tự, từ 0 đến len(s) – 1. Kí tự tại chỉ số là s[i].",
+        "C. Không thể duyệt các kí tự của xâu bằng lệnh for tương tự như với danh sách.",
+        "D. S1 in S2 trả lại giá trị True nếu S1 là xâu con của S2."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là C"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Nếu S = \"1234567890\" thì S[1:5] là gì?",
+      "options": [
+        "A. \"0123\".",
+        "B. \"12345\".",
+        "C. \"01234\".",
+        "D. \"23456\"."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là D"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Các lệnh sau sẽ phát sinh lỗi ngoại lệ nào? >>> s = abc >>> s[10]",
+      "options": [
+        "A. TypeError.",
+        "B. SyntaxError.",
+        "C. IndexError.",
+        "D. NameError."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là C"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Chương trình in ra giá trị của a, b là bao nhiêu? >>> a, b = 0, 1 >>> def f(a, b): a = a * b b = b // 2 return a + b >>>f(2,5) >>>print(a.b)",
+      "options": [
+        "A. 2 5.",
+        "B. 10 2.",
+        "C. 10 1.",
+        "D. 0 1."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là D"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Xác định mã lỗi của câu lệnh sau: >>> A = list(12)",
+      "options": [
+        "A. Không có lỗi.",
+        "B. TypeError.",
+        "C. ValueError.",
+        "D. NameError."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là B"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Lệnh nào để duyệt từng phần tử của danh sách?",
+      "options": [
+        "A. if.",
+        "B. for kết hợp với lệnh range().",
+        "C. if – while.",
+        "D. for."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là B"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Chọn phát biểu sai trong các phát biểu sau:",
+      "options": [
+        "A. Tất cả các biến trong hàm đều có tính cục bộ.",
+        "B. Các biến bên trong hàm không có hiệu lực ở bên ngoài hàm.",
+        "C. Chương trình chính có thể sử dụng biến cục bộ bên trong hàm.",
+        "D. Biến bên trong hàm có thể trùng tên với biến đã khai bao trước đó bên ngoài hàm."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là C"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Lệnh sau trả lại giá trị gì?",
+      "options": [
+        "A. 8.",
+        "B. 5.",
+        "C. 7.",
+        "D. 6."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là C"
+    }
+  ]
+}

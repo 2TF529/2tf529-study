@@ -1,0 +1,196 @@
+{
+  "id": "l12-toan-totnghiep-2026-de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-hung-yen-nam-2026-lan-3",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "code": "THPT_TKT_2026_HY_03",
+  "title": "Đề khảo sát chất lượng THPT môn Toán Sở GD&ĐT Hưng Yên năm 2026 - Lần 3",
+  "duration": 90,
+  "answerSource": "official",
+  "source": "https://dolthpt.vn/tot-nghiep-thpt/pdf-de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-hung-yen-nam-2026-lan-3-co-dap-an",
+  "notes": "Nội dung, đáp án và lời giải được nhập từ bản công khai của DOL THPT.",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "content": "Khẳng định nào sau đây là đúng?",
+      "chuong": "nguyên hàm và tích phân",
+      "dang": "nguyên hàm của một số hàm số thường gặp",
+      "type": "single",
+      "options": [
+        "A. $\\int (x-3)\\,dx=\\dfrac12x^2-3x+C$",
+        "B. $\\int (x-3)\\,dx=\\dfrac12x^2+3x+C$",
+        "C. $\\int (x-3)\\,dx=x^2-3x+C$",
+        "D. $\\int (x-3)\\,dx=x^2-3x^2+C$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Trong không gian $Oxyz$, có ba điểm: - $A(2;1;-1)$\n  - $B(3;0;1)$\n  - $C(2;-1;3)$\n- Mặt cầu:\n$x^2+y^2+z^2-4x+2y-4z+5=0$\n- Xét điểm $M(x;y;z)$ di động trên mặt cầu $(S)$.\n- Mệnh đề cần kiểm tra là: **A. Điểm **$M(x;y;z)$** di động trên mặt cầu **$(S)$**. Giá trị lớn nhất của biểu thức **$P=MA^2+2MB^2-MC^2$** bằng **$26+8\\sqrt{14}$**.**\n❓ **Hiểu câu hỏi:**\n- Ta cần xác định mệnh đề trên là **đúng** hay **sai**.\n- Muốn làm được, ta cần: - Viết lại phương trình mặt cầu để tìm *tâm* và *bán kính*.\n  - Biến đổi biểu thức\n$P=MA^2+2MB^2-MC^2$\nvề dạng phụ thuộc vào tọa độ điểm $M$.\n  - Dùng tính chất: với điểm $M$ chạy trên mặt cầu, biểu thức bậc nhất theo tọa độ của $M$ sẽ đạt giá trị lớn nhất khi vectơ $\\overrightarrow{IM}$ cùng hướng với một vectơ cố định.\n🔎 **Hướng dẫn cách làm:**\n- Trước hết, đưa phương trình mặt cầu về dạng chuẩn bằng cách hoàn thành bình phương:\n$\nx^2-4x+y^2+2y+z^2-4z+5=0\n$\n$\n(x-2)^2-4+(y+1)^2-1+(z-2)^2-4+5=0\n$\n$\n(x-2)^2+(y+1)^2+(z-2)^2=4\n$\n- Vậy mặt cầu $(S)$ có: - tâm $I(2;-1;2)$\n  - bán kính $R=2$.\n- Gọi $M(x;y;z)$. Ta tính các bình phương khoảng cách:\n$\nMA^2=(x-2)^2+(y-1)^2+(z+1)^2\n$\n$\nMB^2=(x-3)^2+y^2+(z-1)^2\n$\n$\nMC^2=(x-2)^2+(y+1)^2+(z-3)^2\n$\n- Khi đó:\n$\nP=MA^2+2MB^2-MC^2\n$\nTa khai triển từng phần:\n$\nMA^2=x^2+y^2+z^2-4x-2y+2z+6\n$\n$\n2MB^2=2x^2+2y^2+2z^2-12x-4z+20\n$\n$\nMC^2=x^2+y^2+z^2-4x+2y-6z+14\n$\n- Suy ra:\n$\nP=(x^2+y^2+z^2-4x-2y+2z+6)+(2x^2+2y^2+2z^2-12x-4z+20)-(x^2+y^2+z^2-4x+2y-6z+14)\n$\nRút gọn:\n$\nP=2x^2+2y^2+2z^2-12x-4y+4z+12\n$\n- Vì $M$ thuộc mặt cầu $(S)$ nên:\n$\nx^2+y^2+z^2-4x+2y-4z+5=0\n$\nhay\n$\nx^2+y^2+z^2=4x-2y+4z-5\n$\n- Thay vào biểu thức $P$:\n$\nP=2(4x-2y+4z-5)-12x-4y+4z+12\n$\n$\nP=8x-4y+8z-10-12x-4y+4z+12\n$\n$\nP=-4x-8y+12z+2\n$\n- Như vậy, ta cần tìm giá trị lớn nhất của biểu thức:\n$\nP=-4x-8y+12z+2\n$\nvới $M(x;y;z)$ thuộc mặt cầu tâm $I(2;-1;2)$, bán kính \\$2$.\n- Viết theo vectơ:\n$\nP=2+\\left[(-4,-8,12)\\cdot(x,y,z)\\right]\n$\nTa tách:\n$\n(x,y,z)=(2,-1,2)+\\overrightarrow{IM}\n$\nnên\n$\nP=2+(-4,-8,12)\\cdot(2,-1,2)+(-4,-8,12)\\cdot\\overrightarrow{IM}\n$\n- Tính phần hằng:\n$\n(-4)\\cdot 2+(-8)\\cdot(-1)+12\\cdot 2=-8+8+24=24\n$\nnên\n$\nP=26+(-4,-8,12)\\cdot\\overrightarrow{IM}\n$\n- Do $M$ chạy trên mặt cầu bán kính \\$2$ nên:\n$\n|\\overrightarrow{IM}|=2\n$\nTheo bất đẳng thức Cauchy:\n$\n(-4,-8,12)\\cdot\\overrightarrow{IM}\\le |(-4,-8,12)|\\cdot |\\overrightarrow{IM}|\n$\nvới\n$\n|(-4,-8,12)|=\\sqrt{(-4)^2+(-8)^2+12^2}=\\sqrt{16+64+144}=\\sqrt{224}=4\\sqrt{14}\n$\nDo đó:\n$\n(-4,-8,12)\\cdot\\overrightarrow{IM}\\le 4\\sqrt{14}\\cdot 2=8\\sqrt{14}\n$\n- Suy ra:\n$\nP_{\\max}=26+8\\sqrt{14}\n$\n- Giá trị lớn nhất đúng bằng số đã cho trong mệnh đề.\n✅ **Đáp án:** Đúng"
+    },
+    {
+      "id": 2,
+      "content": "Giá trị nhỏ nhất của hàm số $f(x)=-2x^3+3x^2+1$ trên đoạn $[-1;1]$ bằng",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "cách tìm giá trị lớn nhất và giá trị nhỏ nhất của hàm số trên một đoạn",
+      "type": "single",
+      "options": [
+        "A. \\$1$",
+        "B. \\$2$",
+        "C. \\$0$",
+        "D. $-1$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n❓ **Hiểu câu hỏi:**\n- Cần xác định đáp án đúng bằng cách nhận diện công thức hoặc tính nhanh đại lượng trong đề.\n📃 **Thông tin đề bài cho:**\n- Hàm số $f(x)=-2x^3+3x^2+1$ trên đoạn $[-1;1]$.\n🔎 **Hướng dẫn cách làm:**\n- $f'(x)=-6x^2+6x=6x(1-x)$.\n- Các điểm cần xét: $x=-1,0,1$.\n- $f(-1)=6,\\ f(0)=1,\\ f(1)=2$.\n- Giá trị nhỏ nhất là \\$1$.\n✅ **Đáp án:** Chọn A."
+    },
+    {
+      "id": 3,
+      "content": "Hình phẳng giới hạn bởi đồ thị hàm số $y=-x^2+2x$ và trục $Ox$ có diện tích bằng",
+      "chuong": "nguyên hàm và tích phân",
+      "dang": "ứng dụng tích phân để tính diện tích hình phẳng",
+      "type": "single",
+      "options": [
+        "A. $\\dfrac23$",
+        "B. $\\dfrac{20}{3}$",
+        "C. $\\dfrac43$",
+        "D. $\\dfrac83$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n❓ **Hiểu câu hỏi:**\n- Cần xác định đáp án đúng bằng cách nhận diện công thức hoặc tính nhanh đại lượng trong đề.\n📃 **Thông tin đề bài cho:**\n- Đồ thị $y=-x^2+2x$ cắt trục $Ox$ tại $x=0$ và $x=2$.\n🔎 **Hướng dẫn cách làm:**\n- Trên đoạn $[0;2]$, $-x^2+2x\\ge0$.\n- Diện tích là $S=\\int_0^2(-x^2+2x)\\,dx=\\left[-\\dfrac{x^3}{3}+x^2\\right]_0^2=\\dfrac43$.\n✅ **Đáp án:** Chọn C."
+    },
+    {
+      "id": 4,
+      "content": "Trong không gian $Oxyz$, cho hai điểm $A(1;2;3)$ và $B(-2;1;5)$. Phương trình mặt cầu tâm $A$ bán kính $AB$ là",
+      "chuong": "phương pháp tọa độ trong không gian",
+      "dang": "phương trình mặt cầu",
+      "type": "single",
+      "options": [
+        "A. $(x-1)^2+(y-2)^2+(z-3)^2=28$",
+        "B. $(x+1)^2+(y+2)^2+(z+3)^2=14$",
+        "C. $(x+1)^2+(y+2)^2+(z+3)^2=28$",
+        "D. $(x-1)^2+(y-2)^2+(z-3)^2=14$"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n❓ **Hiểu câu hỏi:**\n- Cần xác định đáp án đúng bằng cách nhận diện công thức hoặc tính nhanh đại lượng trong đề.\n📃 **Thông tin đề bài cho:**\n- Mặt cầu có tâm $A(1;2;3)$ và bán kính $AB$.\n🔎 **Hướng dẫn cách làm:**\n- $AB^2=(-2-1)^2+(1-2)^2+(5-3)^2=9+1+4=14$.\n- Phương trình mặt cầu là $(x-1)^2+(y-2)^2+(z-3)^2=14$.\n✅ **Đáp án:** Chọn D."
+    },
+    {
+      "id": 5,
+      "content": "Cho hai biến cố $A,B$ thỏa mãn $P(A)=0{,}6,\\ P(B)=0{,}3,\\ P(B|A)=0{,}2$. Khi đó $P(A|B)$ bằng",
+      "chuong": "xác suất có điều kiện",
+      "dang": "xác suất có điều kiện",
+      "type": "single",
+      "options": [
+        "A. \\$0{,}4$",
+        "B. \\$0{,}25$",
+        "C. \\$0{,}5$",
+        "D. \\$0{,}45$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n❓ **Hiểu câu hỏi:**\n- Cần xác định đáp án đúng bằng cách nhận diện công thức hoặc tính nhanh đại lượng trong đề.\n📃 **Thông tin đề bài cho:**\n- $P(A)=0{,}6, P(B)=0{,}3, P(B|A)=0{,}2$.\n🔎 **Hướng dẫn cách làm:**\n- $P(A\\cap B)=P(B|A)P(A)=0{,}2\\cdot0{,}6=0{,}12$.\n- $P(A|B)=\\dfrac{P(A\\cap B)}{P(B)}=\\dfrac{0{,}12}{0{,}3}=0{,}4$.\n✅ **Đáp án:** Chọn A."
+    },
+    {
+      "id": 6,
+      "content": "Cho cấp số cộng $(u_n)$ có $u_2=2,\\ u_3=6$. Công sai của cấp số cộng đã cho bằng",
+      "chuong": "dãy số. cấp số cộng và cấp số nhân",
+      "dang": "định nghĩa cấp số cộng",
+      "type": "single",
+      "options": [
+        "A. \\$3$",
+        "B. \\$4$",
+        "C. $-3$",
+        "D. $-4$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Trong không gian $Oxyz$, có ba điểm: - $A(2;1;-1)$\n  - $B(3;0;1)$\n  - $C(2;-1;3)$\n- Mặt cầu:\n$x^2+y^2+z^2-4x+2y-4z+5=0$\n- Xét điểm $M(x;y;z)$ di động trên mặt cầu $(S)$.\n- Mệnh đề cần kiểm tra là: **A. Điểm **$M(x;y;z)$** di động trên mặt cầu **$(S)$**. Giá trị lớn nhất của biểu thức **$P=MA^2+2MB^2-MC^2$** bằng **$26+8\\sqrt{14}$**.**\n❓ **Hiểu câu hỏi:**\n- Ta cần xác định mệnh đề trên là **đúng** hay **sai**.\n- Muốn làm được, ta cần: - Viết lại phương trình mặt cầu để tìm *tâm* và *bán kính*.\n  - Biến đổi biểu thức\n$P=MA^2+2MB^2-MC^2$\nvề dạng phụ thuộc vào tọa độ điểm $M$.\n  - Dùng tính chất: với điểm $M$ chạy trên mặt cầu, biểu thức bậc nhất theo tọa độ của $M$ sẽ đạt giá trị lớn nhất khi vectơ $\\overrightarrow{IM}$ cùng hướng với một vectơ cố định.\n🔎 **Hướng dẫn cách làm:**\n- Trước hết, đưa phương trình mặt cầu về dạng chuẩn bằng cách hoàn thành bình phương:\n$\nx^2-4x+y^2+2y+z^2-4z+5=0\n$\n$\n(x-2)^2-4+(y+1)^2-1+(z-2)^2-4+5=0\n$\n$\n(x-2)^2+(y+1)^2+(z-2)^2=4\n$\n- Vậy mặt cầu $(S)$ có: - tâm $I(2;-1;2)$\n  - bán kính $R=2$.\n- Gọi $M(x;y;z)$. Ta tính các bình phương khoảng cách:\n$\nMA^2=(x-2)^2+(y-1)^2+(z+1)^2\n$\n$\nMB^2=(x-3)^2+y^2+(z-1)^2\n$\n$\nMC^2=(x-2)^2+(y+1)^2+(z-3)^2\n$\n- Khi đó:\n$\nP=MA^2+2MB^2-MC^2\n$\nTa khai triển từng phần:\n$\nMA^2=x^2+y^2+z^2-4x-2y+2z+6\n$\n$\n2MB^2=2x^2+2y^2+2z^2-12x-4z+20\n$\n$\nMC^2=x^2+y^2+z^2-4x+2y-6z+14\n$\n- Suy ra:\n$\nP=(x^2+y^2+z^2-4x-2y+2z+6)+(2x^2+2y^2+2z^2-12x-4z+20)-(x^2+y^2+z^2-4x+2y-6z+14)\n$\nRút gọn:\n$\nP=2x^2+2y^2+2z^2-12x-4y+4z+12\n$\n- Vì $M$ thuộc mặt cầu $(S)$ nên:\n$\nx^2+y^2+z^2-4x+2y-4z+5=0\n$\nhay\n$\nx^2+y^2+z^2=4x-2y+4z-5\n$\n- Thay vào biểu thức $P$:\n$\nP=2(4x-2y+4z-5)-12x-4y+4z+12\n$\n$\nP=8x-4y+8z-10-12x-4y+4z+12\n$\n$\nP=-4x-8y+12z+2\n$\n- Như vậy, ta cần tìm giá trị lớn nhất của biểu thức:\n$\nP=-4x-8y+12z+2\n$\nvới $M(x;y;z)$ thuộc mặt cầu tâm $I(2;-1;2)$, bán kính \\$2$.\n- Viết theo vectơ:\n$\nP=2+\\left[(-4,-8,12)\\cdot(x,y,z)\\right]\n$\nTa tách:\n$\n(x,y,z)=(2,-1,2)+\\overrightarrow{IM}\n$\nnên\n$\nP=2+(-4,-8,12)\\cdot(2,-1,2)+(-4,-8,12)\\cdot\\overrightarrow{IM}\n$\n- Tính phần hằng:\n$\n(-4)\\cdot 2+(-8)\\cdot(-1)+12\\cdot 2=-8+8+24=24\n$\nnên\n$\nP=26+(-4,-8,12)\\cdot\\overrightarrow{IM}\n$\n- Do $M$ chạy trên mặt cầu bán kính \\$2$ nên:\n$\n|\\overrightarrow{IM}|=2\n$\nTheo bất đẳng thức Cauchy:\n$\n(-4,-8,12)\\cdot\\overrightarrow{IM}\\le |(-4,-8,12)|\\cdot |\\overrightarrow{IM}|\n$\nvới\n$\n|(-4,-8,12)|=\\sqrt{(-4)^2+(-8)^2+12^2}=\\sqrt{16+64+144}=\\sqrt{224}=4\\sqrt{14}\n$\nDo đó:\n$\n(-4,-8,12)\\cdot\\overrightarrow{IM}\\le 4\\sqrt{14}\\cdot 2=8\\sqrt{14}\n$\n- Suy ra:\n$\nP_{\\max}=26+8\\sqrt{14}\n$\n- Giá trị lớn nhất đúng bằng số đã cho trong mệnh đề.\n✅ **Đáp án:** Đúng"
+    },
+    {
+      "id": 7,
+      "content": "Trong không gian $Oxyz$, cho đường thẳng $d:\\dfrac{x+1}{2}=\\dfrac{y-2}{-1}=\\dfrac{z+3}{2}$. Vectơ nào dưới đây là một vectơ chỉ phương của $d$?",
+      "chuong": "phương pháp tọa độ trong không gian",
+      "dang": "phương trình đường thẳng",
+      "type": "single",
+      "options": [
+        "A. $\\vec u_3=(2;-1;2)$",
+        "B. $\\vec u_2=(-2;-1;2)$",
+        "C. $\\vec u_4=(-1;2;-3)$",
+        "D. $\\vec u_1=(1;-2;3)$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n❓ **Hiểu câu hỏi:**\n- Cần xác định đáp án đúng bằng cách nhận diện công thức hoặc tính nhanh đại lượng trong đề.\n📃 **Thông tin đề bài cho:**\n- Đường thẳng ở dạng chính tắc.\n🔎 **Hướng dẫn cách làm:**\n- Với dạng $\\dfrac{x-x_0}{a}=\\dfrac{y-y_0}{b}=\\dfrac{z-z_0}{c}$, vectơ chỉ phương là $(a;b;c)$.\n- Do đó vectơ chỉ phương là $(2;-1;2)$.\n✅ **Đáp án:** Chọn A."
+    },
+    {
+      "id": 8,
+      "content": "Cho hình lăng trụ đều $ABC.A'B'C'$ có tất cả các cạnh bằng \\$4\\,cm$. Thể tích của khối lăng trụ đã cho bằng\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-hung-yen-nam-2026-lan-3/cau-08.webp\" alt=\"Hình minh họa câu 8\" loading=\"lazy\"></figure>",
+      "chuong": "quan hệ vuông góc trong không gian",
+      "dang": "thể tích",
+      "type": "single",
+      "options": [
+        "A. \\$32\\sqrt{3}\\,cm^3$",
+        "B. \\$16\\sqrt{3}\\,cm^3$",
+        "C. \\$24\\sqrt{3}\\,cm^3$",
+        "D. \\$8\\sqrt{3}\\,cm^3$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n❓ **Hiểu câu hỏi:**\n- Cần xác định đáp án đúng bằng cách nhận diện công thức hoặc tính nhanh đại lượng trong đề.\n📃 **Thông tin đề bài cho:**\n- Lăng trụ tam giác đều có cạnh đáy \\$4$ và chiều cao \\$4$.\n🔎 **Hướng dẫn cách làm:**\n- Diện tích đáy tam giác đều là $S=\\dfrac{4^2\\sqrt3}{4}=4\\sqrt3$.\n- Thể tích $V=S\\cdot h=4\\sqrt3\\cdot4=16\\sqrt3\\,cm^3$.\n✅ **Đáp án:** Chọn B."
+    },
+    {
+      "id": 9,
+      "content": "Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình vuông và $SA\\perp(ABCD)$. Đường thẳng nào sau đây là hình chiếu của $SC$ trên mặt phẳng $(SAB)$?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-hung-yen-nam-2026-lan-3/cau-09.webp\" alt=\"Hình minh họa câu 9\" loading=\"lazy\"></figure>",
+      "chuong": "quan hệ vuông góc trong không gian",
+      "dang": "phép chiếu vuông góc",
+      "type": "single",
+      "options": [
+        "A. $AB$",
+        "B. $SA$",
+        "C. $SB$",
+        "D. $BC$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n❓ **Hiểu câu hỏi:**\n- Cần xác định đáp án đúng bằng cách nhận diện công thức hoặc tính nhanh đại lượng trong đề.\n📃 **Thông tin đề bài cho:**\n- Mặt phẳng $(SAB)$ chứa $SA$ và $AB$.\n- Trong hình vuông, điểm $C$ chiếu vuông góc lên $(SAB)$ tại $B$.\n🔎 **Hướng dẫn cách làm:**\n- Điểm $S$ đã nằm trên mặt phẳng $(SAB)$.\n- Điểm $C$ chiếu xuống $B$.\n- Vì vậy hình chiếu của đường thẳng $SC$ là đường thẳng $SB$.\n✅ **Đáp án:** Chọn C."
+    },
+    {
+      "id": 10,
+      "content": "Bảng số liệu ghép nhóm về cân nặng của một loại cá trước khi thả xuống hồ có các nhóm. Khoảng tứ phân vị của mẫu số liệu ghép nhóm trên, làm tròn đến hàng phần trăm, là\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-hung-yen-nam-2026-lan-3/cau-10.webp\" alt=\"Hình minh họa câu 10\" loading=\"lazy\"></figure>",
+      "chuong": "các số đặc trưng đo mức độ phân tán cho mẫu số liệu ghép nhóm",
+      "dang": "khoảng tứ phân vị",
+      "type": "single",
+      "options": [
+        "A. \\$0{,}12$",
+        "B. \\$0{,}13$",
+        "C. \\$0{,}14$",
+        "D. \\$0{,}11$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n❓ **Hiểu câu hỏi:**\n- Cần xác định đáp án đúng bằng cách nhận diện công thức hoặc tính nhanh đại lượng trong đề.\n📃 **Thông tin đề bài cho:**\n- Tổng số quan sát $n=80$.\n- Các lớp có độ rộng $h=0{,}1$.\n🔎 **Hướng dẫn cách làm:**\n- $Q_1$ nằm ở vị trí $n/4=20$ trong lớp $[1{,}3;1{,}4)$: $Q_1=1{,}3+\\dfrac{20-14}{40}\\cdot0{,}1=1{,}315$.\n- $Q_3$ nằm ở vị trí \\$3n/4=60$ trong lớp $[1{,}4;1{,}5)$: $Q_3=1{,}4+\\dfrac{60-54}{13}\\cdot0{,}1\\approx1{,}44615$.\n- $Q_3-Q_1\\approx0{,}13115$, làm tròn được \\$0{,}13$.\n✅ **Đáp án:** Chọn B."
+    },
+    {
+      "id": 11,
+      "content": "Cho hàm số $y=f(x)$ có bảng biến thiên như hình. Điểm cực tiểu của hàm số đã cho là\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-hung-yen-nam-2026-lan-3/cau-11.webp\" alt=\"Hình minh họa câu 11\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "cực trị của hàm số",
+      "type": "single",
+      "options": [
+        "A. $x=4$",
+        "B. $x=1$",
+        "C. $x=0$",
+        "D. $x=2$"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n❓ **Hiểu câu hỏi:**\n- Cần xác định đáp án đúng bằng cách nhận diện công thức hoặc tính nhanh đại lượng trong đề.\n📃 **Thông tin đề bài cho:**\n- Bảng biến thiên cho thấy hàm số giảm đến $x=2$ rồi tăng sau $x=2$.\n🔎 **Hướng dẫn cách làm:**\n- Khi hàm số đổi chiều từ giảm sang tăng tại $x=2$, hàm số đạt cực tiểu tại đó.\n- Vậy điểm cực tiểu ứng với hoành độ $x=2$.\n✅ **Đáp án:** Chọn D."
+    },
+    {
+      "id": 12,
+      "content": "Tập nghiệm của bất phương trình $\\log_2(3x)\\ge3$ là",
+      "chuong": "hàm số mũ và hàm số lôgarit",
+      "dang": "bất phương trình lôgarit",
+      "type": "single",
+      "options": [
+        "A. $[2;+\\infty)$",
+        "B. $\\left(0;\\dfrac83\\right]$",
+        "C. $\\left(-\\infty;\\dfrac83\\right]$",
+        "D. $\\left[\\dfrac83;+\\infty\\right)$"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n❓ **Hiểu câu hỏi:**\n- Cần xác định đáp án đúng bằng cách nhận diện công thức hoặc tính nhanh đại lượng trong đề.\n📃 **Thông tin đề bài cho:**\n- Điều kiện xác định: $x>0$.\n🔎 **Hướng dẫn cách làm:**\n- Vì cơ số \\$2>1$ nên $\\log_2(3x)\\ge3\\Leftrightarrow 3x\\ge2^3=8$.\n- Suy ra $x\\ge\\dfrac83$.\n✅ **Đáp án:** Chọn D."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-2-bo-10-de-thi-cuoi-ki-2-toan-10-ket-noi-tri-thuc-cau-truc-moi-co",
+  "sourceId": "vietjack:2-bo-10-de-thi-cuoi-ki-2-toan-10-ket-noi",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "cuoiki2",
+  "year": 2026,
+  "title": "2.Bộ 10 đề thi cuối kì 2 Toán 10 Kết nối tri thức cấu trúc mới có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Tập xác định của hàm số \\(y = \\frac{1}{{\\sqrt {x - 1} }}\\) là",
+      "options": [
+        "A. \\(D = \\left[ {1; + \\infty } \\right)\\).",
+        "B. \\(D = \\left( {1; + \\infty } \\right)\\).",
+        "C. \\(D = \\mathbb{R}\\backslash \\left\\{ 1 \\right\\}\\).",
+        "D. \\(D = \\left( { - \\infty ;\\,1} \\right)\\)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là B Biểu thức \\(\\frac{1}{{\\sqrt {x - 1} }}\\) có nghĩa khi \\(x - 1 > 0 \\Leftrightarrow x > 1\\). Vậy tập xác định của hàm số \\(y = \\frac{1}{{\\sqrt {x - 1} }}\\) là \\(D = \\left( {1; + \\infty } \\right)\\)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hàm số \\(f\\left( x \\right) = a{x^2} + bx + c\\) có bảng xét dấu như hình dưới đây. Tìm khẳng định đúng?",
+      "options": [
+        "A. \\(f\\left( x \\right) < 0,\\forall x \\in \\mathbb{R}\\).",
+        "B. \\(f\\left( x \\right) = 0,\\forall x \\in \\mathbb{R}\\).",
+        "C. \\(f\\left( x \\right) \\le 0,\\forall x \\in \\mathbb{R}\\).",
+        "D. \\(f\\left( x \\right) > 0,\\forall x \\in \\mathbb{R}\\)."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là D Từ bảng xét dấu ta thấy \\(f\\left( x \\right) > 0,\\forall x \\in \\mathbb{R}\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Tập nghiệm của phương trình \\(\\sqrt {{x^2} - x + 1} = \\sqrt {{x^2} + 2x + 4} \\) là",
+      "options": [
+        "A. \\(S = \\left\\{ 1 \\right\\}\\).",
+        "B. \\(S = \\left\\{ { - 1} \\right\\}\\).",
+        "C. \\(S = \\left\\{ 0 \\right\\}\\).",
+        "D. \\(S = \\emptyset \\)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là B Ta có: \\(\\sqrt {{x^2} - x + 1} = \\sqrt {{x^2} + 2x + 4} \\)\\( \\Leftrightarrow {x^2} - x + 1 = {x^2} + 2x + 4\\)\\( \\Leftrightarrow 3x = - 3\\)\\( \\Leftrightarrow x = - 1\\). Vậy tập nghiệm của phương trình là \\(S = \\left\\{ { - 1} \\right\\}\\)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Trong mặt phẳng tọa độ \\(Oxy\\), đường thẳng \\(\\Delta :2x - y + 2024 = 0\\) có một véc tơ pháp tuyến là",
+      "options": [
+        "A. \\(\\overrightarrow n = \\left( {1;2} \\right)\\).",
+        "B. \\(\\overrightarrow n = \\left( {4; - 2} \\right)\\).",
+        "C. \\(\\overrightarrow n = \\left( {2;1} \\right)\\).",
+        "D. \\(\\overrightarrow n = \\left( { - 2; - 1} \\right)\\)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là B Đường thẳng \\(\\Delta :2x - y + 2024 = 0\\) có một véc tơ pháp tuyến là \\(\\overrightarrow n = \\left( {4; - 2} \\right)\\)"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Phương trình nào sau đây là phương trình của một đường tròn?",
+      "options": [
+        "A. \\[{x^2} + {y^2} - 2x - 8y + 20 = 0\\].",
+        "B. \\[4{x^2} + {y^2} - 10x - 6y - 2 = 0\\].",
+        "C. \\[{x^2} + {y^2} - 4x + 6y - 12 = 0\\].",
+        "D. \\[{x^2} + 2{y^2} - 4x - 8y + 1 = 0\\]."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là C Phương án A: \\[{x^2} + {y^2} - 2x - 8y + 20 = 0 \\Leftrightarrow {\\left( {x - 1} \\right)^2} + {\\left( {y - 4} \\right)^2} = - 3\\] (loại). Phương án B và D loại vì hệ số của \\({x^2}\\) và \\({y^2}\\) không bằng nhau. Phương án C: \\[{x^2} + {y^2} - 4x + 6y - 12 = 0 \\Leftrightarrow {\\left( {x - 2} \\right)^2} + {\\left( {y + 3} \\right)^2} = 25\\] (nhận)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Đường Elip \\[\\frac{{{x^2}}}{{25}} + \\frac{{{y^2}}}{4} = 1\\] có độ dài trục lớn bằng",
+      "options": [
+        "A. 8.",
+        "B. 10.",
+        "C. 2.",
+        "D. 12."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là B Ta có \\({a^2} = 25 \\Rightarrow a = 5\\). Vậy trục lớn có độ dài là \\(2a = 10\\)."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Có \\(5\\) bạn nam và \\(3\\) bạn nữ. Hỏi có bao nhiêu cách xếp các bạn vào một hàng ngang?",
+      "options": [
+        "A. \\[15\\].",
+        "B. \\[8\\].",
+        "C. \\[8!\\].",
+        "D. \\[7!\\]."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là C Xếp \\(8\\) bạn vào \\(8\\) vị trí của một hàng ngang có: \\(8!\\) cách."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Tâm đi từ nhà của mình đến nhà Huyền, cùng Huyền đi đến nhà Linh chơi. Biết từ nhà Tâm đến nhà Huyền có \\(5\\) con đường đi. Từ nhà Huyền đến nhà Linh có \\(7\\) con đường đi. Hỏi có bao nhiêu cách để Tâm đi đến nhà Linh mà phải đi qua nhà Huyền?",
+      "options": [
+        "A. \\[12\\].",
+        "B. \\[35\\].",
+        "C. \\[20\\].",
+        "D. \\[25\\]."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là B Từ nhà Tâm đến nhà Huyền có \\(5\\) cách. Từ nhà Huyền đến nhà Linh có \\(7\\) cách. Theo quy tắc nhân, ta có: \\(5.7 = 35\\) cách."
+    }
+  ]
+}

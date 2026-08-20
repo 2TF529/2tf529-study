@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cautrac-nghiem-toan-10-chan-troi-sang-tao-nhi-thuc-newton-co",
+  "sourceId": "vietjack:1-15-cautrac-nghiem-toan-10-chan-troi-sa",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câuTrắc nghiệm Toán 10 chân trời sáng tạo Nhị thức Newton có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Trong khai triển nhị thức (a + 2) 2n + 1 (n \\( \\in \\) ℕ) . Có tất cả 6 số hạng. Vậy n bằng",
+      "options": [
+        "A. 17;",
+        "B. 11;",
+        "C. 10;",
+        "D. 5."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Ta có trong khai triển (a + b) n có n + 1 số hạng Trong khai triển (a + 2) 2n + 1 (n \\( \\in \\) ℕ) có tất cả 6 số hạng nên ta có 2n + 1 = 5 Vậy n = 2."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Tổng số mũ của a và b trong mỗi hạng tử khi khai triển biểu thức (2a + b) 4 bằng",
+      "options": [
+        "A. 4;",
+        "B. 5;",
+        "C. 3;",
+        "D. 6."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có tổng số mũ của a, b trong mỗi hạng tử khi khai triển (a + b) n luôn bằng n Vậy tổng số mũ của a và b trong mỗi hạng tử khi khai triển biểu thức (a + b) 4 bằng 4"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Biểu thức \\[C_5^2\\] (5x) 3 (- 6y 2 ) 2 là một số hạng trong khai triển nhị thức nào dưới đây",
+      "options": [
+        "A. (5x – 6y) 2 ;",
+        "B. (5x – 6y 2 ) 3 ;",
+        "C. (5x – 6y 2 ) 4 ;",
+        "D. (5x – 6y 2 ) 5 ."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Vì trong khai tiển (a + b) n thì trong mỗi số hạng tổng số mũ của a và b luôn bằng n Do đó, thay a = 5x, b = - 6y 2 thì tổng số mũ của a và b bằng 5. Đáp án D đúng"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Số hạng tử trong khai triển (x – 2y) 4 bằng",
+      "options": [
+        "A. 8;",
+        "B. 6;",
+        "C. 5;",
+        "D. 7."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có trong khai triển (a + b) n có n + 1 hạng tử Vậy trong khai triển (2x + y) 4 có 5 hạng tử"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Hệ số của x 3 trong khai triển của (3 – 2x) 5 là",
+      "options": [
+        "A. 4608;",
+        "B. 720;",
+        "C. – 720",
+        "D. – 4608."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có công thức số hạng tổng quát trong khai triển (a + b) n là \\(C_n^k\\) a n – k .b k (k ≤ n) Thay a = 3, b = –2x vào trong công thức ta có \\(C_5^k\\) 3 5 – k .(– 2x) k = (– 2) k \\(C_5^k\\) 3 5 – k .(x) k Vì tìm hệ số của x 3 nên ta có x k = x 3 \\( \\Rightarrow \\) k = 3 Hệ số của x 7 trong khai triển là ( – 2) 3 \\(C_5^3\\) .3 2 = – 720."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Hệ số của x 3 trong khai triển 3x 3 + (1 + x) 5 bằng",
+      "options": [
+        "A. 13;",
+        "B. 10;",
+        "C. 7;",
+        "D. 15."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có công thức số hạng tổng quát trong khai triển (a + b) n là \\(C_n^k\\) a n – k .b k (k ≤ n) Thay a = 1, b = x vào trong công thức ta có \\(C_5^k\\) 1 5 – k .(x) k = \\(C_5^k\\) 1 5 – k .(x) k Vì tìm hệ số của x 3 nên ta có x k = x 3 \\( \\Rightarrow \\) k = 3 Hệ số của x 5 trong khai triển (1 + x) 5 là \\(C_5^3\\) .1 2 = 10. Hệ số của x 5 trong khai triển là: 10 + 3 = 13"
+    }
+  ]
+}

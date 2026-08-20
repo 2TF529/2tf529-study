@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-cac-dang-bai-tap-quy-tac-dem-lop-10-co-loi-giai",
+  "sourceId": "vietjack:2-cac-dang-bai-tap-quy-tac-dem-lop-10-co",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.Các dạng bài tập Quy tắc đếm lớp 10 (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho hai tập hợp A = {30; 33; 35; 39} và B = {72; 77; 81; 83; 87}. Cả hai tập hợp trên có bao nhiêu phần tử ?",
+      "options": [
+        "A. 4;",
+        "B. 5;",
+        "C. 7;",
+        "D. 9."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Ta thấy tập hợp A có 4 phần tử, tập hợp B có 5 phần tử. Theo quy tắc cộng, số phần tử của cả 2 tập hợp trên là: 4 + 5 = 9 (phần tử)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Tập hợp A gồm các số có 1 chữ số chia hết cho 2, tập hợp B gồm các số nguyên tố có 1 chữ số. Cả hai tập hợp trên có bao nhiêu phần tử?",
+      "options": [
+        "A. 5;",
+        "B. 7;",
+        "C. 9;",
+        "D. 11."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Các phần tử của tập hợp A là 0, 2, 4, 6, 8 nên tập hợp A có 5 phần tử. Các phần tử của tập hợp B là 2, 3, 5, 7 nên tập hợp B có 4 phần tử. Theo quy tắc cộng, số phần tử của cả 2 tập hợp trên là: 5 + 4 = 9 (phần tử)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Tập hợp A gồm các số có chẵn có 3 chữ số, tập hợp B gồm các số có 2 chữ số chia hết cho 5. Cả hai tập hợp trên có bao nhiêu phần tử?",
+      "options": [
+        "A. 450;",
+        "B. 456;",
+        "C. 468;",
+        "D. 475."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Số các số chẵn có 3 chữ số là 998 − 100 2 + 1 = 450 (số). Vậy tập hợp A có 450 phần tử. Số các số chẵn có 2 chữ số chia hết cho 5 là 95 − 10 5 + 1 = 18 (số). Vậy tập hợp B có 18 phần tử. Vậy cả hai tập hợp trên có 450 + 18 = 468 (phần tử)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Trong các số tự nhiên từ 1 đến 50 có bao nhiêu số chia hết cho 2 hoặc 3?",
+      "options": [
+        "A. 41;",
+        "B. 39;",
+        "C. 35;",
+        "D. 33."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Các số có 2 chữ số chia hết cho 2 trong các số từ 1 đến 50 là 2, 4, 6, …, 50 nên số các số chia hết cho 2 trong các số từ 1 đến 50 là 50 − 2 2 + 1 = 25 (số). Các số có 2 chữ số chia hết cho 3 trong các số từ 1 đến 50 là 3, 6, 9, …, 48 nên số các số chia hết cho 3 trong các số từ 1 đến 50 là 48 − 3 3 + 1 = 16 (số). Các số có 2 chữ số chia hết cho 6 trong các số từ 1 đến 50 là 6, 12, 18, …, 48 nên số các số chia hết cho 6 trong các số từ 1 đến 50 là 48 − 6 6 + 1 = 8 (số). Vậy số các số chia hết cho 2 hoặc 3 trong các số từ 1 đến 50 là: 25 + 16 – 8 = 33 (số)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Từ các chữ số 1, 3, 5, 7, 9 có thể lập được bao nhiêu số có 3 chữ số ?",
+      "options": [
+        "A. 125;",
+        "B. 100;",
+        "C. 150;",
+        "D. 120."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Số cách chọn chữ số hàng trăm là 5 cách chọn. Số cách chọn chữ số hàng chục là 5 cách chọn. Số cách chọn chữ số hàng đơn vị là 5 cách chọn. Theo quy tắc nhân, số các số tự nhiên có 3 chữ số có thể lập được từ 5 chữ số trên là 5 . 5 . 5 = 125 (số)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Từ các chữ số 1, 3, 5, 7, 9 có thể lập được bao nhiêu số tự nhiên có 3 chữ số khác nhau?",
+      "options": [
+        "A. 50;",
+        "B. 60;",
+        "C. 70;",
+        "D. 80."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Số cách chọn chữ số hàng trăm là 5 cách chọn. Số cách chọn chữ số hàng chục là 4 cách chọn. Số cách chọn chữ số hàng đơn vị là 3 cách chọn. Theo quy tắc nhân, số các số tự nhiên có 3 chữ số khác nhau có thể lập được từ 5 chữ số trên là 5 . 4 . 3 = 60 (số)."
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "id": "l12-toan-totnghiep-2026-de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-cao-bang-nam-2026-lan-1",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "code": "THPT_TKT_2026_CB_01",
+  "title": "Đề khảo sát chất lượng THPT môn Toán Sở GD&ĐT Cao Bằng năm 2026 - Lần 1",
+  "duration": 90,
+  "answerSource": "official",
+  "source": "https://dolthpt.vn/tot-nghiep-thpt/pdf-de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-cao-bang-nam-2026-lan-1-co-dap-an",
+  "notes": "Nội dung, đáp án và lời giải được nhập từ bản công khai của DOL THPT.",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "content": "Cho hàm số $y=f(x)$ có đạo hàm $f'(x)=(x+1)(2x-5)^2$ với mọi $x\\in\\mathbb{R}$. Hàm số đã cho nghịch biến trên khoảng nào?",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "tính đơn điệu của hàm số",
+      "type": "single",
+      "options": [
+        "A. $(-1;+\\infty)$.",
+        "B. $(-3;1)$.",
+        "C. $\\left(-1;\\dfrac{5}{2}\\right)$.",
+        "D. $(-\\infty;-1)$."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số có đạo hàm $f'(x)=(x+1)(2x-5)^2$ với mọi $x\\in\\mathbb{R}$.\n- Cần tìm khoảng nghịch biến của hàm số.\n❓ **Hiểu câu hỏi:**\n- Hàm số nghịch biến khi $f'(x)<0$.\n- Vì $\\left(2x-5\\right)^2\\ge 0$ với mọi $x$ nên dấu của $f'(x)$ phụ thuộc vào dấu của $x+1$.\n🔎 **Hướng dẫn cách làm:**\n- Ta có $f'(x)=(x+1)(2x-5)^2$.\n- Vì $\\left(2x-5\\right)^2\\ge 0$ nên $f'(x)<0\\Leftrightarrow x+1<0$.\n- Từ đó suy ra $x<-1$.\n- Vậy hàm số nghịch biến trên khoảng $(-\\infty;-1)$.\n✅ **Đáp án:** Chọn D. $(-\\infty;-1)$"
+    },
+    {
+      "id": 2,
+      "content": "Cho hình lập phương $ABCD.A'B'C'D'$. Phát biểu nào sau đây là đúng?",
+      "chuong": "quan hệ vuông góc trong không gian",
+      "dang": "điều kiện hai mặt phẳng vuông góc",
+      "type": "single",
+      "options": [
+        "A. $(ACC'A')\\perp(BDD'B')$.",
+        "B. $(A'BC)\\perp(A'B'C'D')$.",
+        "C. $(ABCD)\\perp(A'B'C'D')$.",
+        "D. $(A'BC)\\perp(ABCD)$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cho hình lập phương $ABCD.A'B'C'D'$.\n- Cần chọn phát biểu đúng trong \\$4$ mệnh đề đã cho.\n❓ **Hiểu câu hỏi:**\n- Ta cần xét quan hệ vuông góc giữa các mặt phẳng trong hình lập phương.\n- Với hình lập phương, có thể dùng tính chất các mặt bên vuông góc với đáy và các đường chéo của hình vuông đáy.\n🔎 **Hướng dẫn cách làm:**\n- Xét mệnh đề $\\left(ACC'A'\\right)$ và $\\left(BDD'B'\\right)$.\n- Mặt phẳng $\\left(ACC'A'\\right)$ chứa đường chéo $AC$ của đáy và cạnh bên $AA'$.\n- Mặt phẳng $\\left(BDD'B'\\right)$ chứa đường chéo $BD$ của đáy và cạnh bên $BB'$.\n- Trong hình vuông $ABCD$, hai đường chéo vuông góc nên $AC \\perp BD$.\n- Lại có $AA' \\parallel BB'$, và hai mặt phẳng này đều là các mặt phẳng “đứng” dựng trên hai đường chéo vuông góc của đáy, nên suy ra $\\left(ACC'A'\\right)\\perp\\left(BDD'B'\\right)$.\n- Mệnh đề $\\left(ABCD\\right)\\perp\\left(A'B'C'D'\\right)$ sai vì hai mặt phẳng này song song.\n- Hai mệnh đề còn lại cũng sai vì mặt phẳng $\\left(A'BC\\right)$ không vuông góc với đáy cũng không vuông góc với mặt phẳng $\\left(A'B'C'D'\\right)$.\n✅ **Đáp án:** Chọn A. $\\left(ACC'A'\\right)\\perp\\left(BDD'B'\\right)$"
+    },
+    {
+      "id": 3,
+      "content": "Trong không gian với hệ tọa độ $Oxyz$, cho đường thẳng $\\Delta$ vuông góc với mặt phẳng $(\\alpha)$ có phương trình $x+2z+3=0$. Một vectơ chỉ phương của đường thẳng $\\Delta$ là",
+      "chuong": "phương pháp tọa độ trong không gian",
+      "dang": "vectơ pháp tuyến và cặp vectơ chỉ phương của mặt phẳng",
+      "type": "single",
+      "options": [
+        "A. $\\vec a=(2;-1;0)$.",
+        "B. $\\vec a=(2;0;-1)$.",
+        "C. $\\vec a=(1;0;2)$.",
+        "D. $\\vec a=(1;2;3)$."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Đường thẳng $\\Delta$ vuông góc với mặt phẳng $(\\alpha)$.\n- Mặt phẳng $(\\alpha)$ có phương trình $x+2z+3=0$.\n- Cần tìm một vectơ chỉ phương của $\\Delta$.\n❓ **Hiểu câu hỏi:**\n- Nếu một đường thẳng vuông góc với một mặt phẳng thì vectơ chỉ phương của đường thẳng đó song song với vectơ pháp tuyến của mặt phẳng.\n- Vectơ pháp tuyến của mặt phẳng được lấy từ các hệ số của $x,y,z$ trong phương trình mặt phẳng.\n🔎 **Hướng dẫn cách làm:**\n- Phương trình mặt phẳng là $x+0y+2z+3=0$.\n- Do đó một vectơ pháp tuyến của mặt phẳng là $\\vec n=(1;0;2)$.\n- Vì $\\Delta\\perp(\\alpha)$ nên một vectơ chỉ phương của $\\Delta$ có thể chọn là $\\vec a=(1;0;2)$.\n✅ **Đáp án:** Chọn C. $\\vec a=(1;0;2)$"
+    },
+    {
+      "id": 4,
+      "content": "Cho hình chóp $S.ABC$ có $SA\\perp(ABC)$, tam giác $ABC$ vuông cân tại $B$ và $SA=AB=a\\sqrt{2}$. Góc giữa đường thẳng $SB$ và mặt phẳng $(ABC)$ bằng",
+      "chuong": "quan hệ vuông góc trong không gian",
+      "dang": "góc giữa đường thẳng và mặt phẳng",
+      "type": "single",
+      "options": [
+        "A. \\$90^\\circ$.",
+        "B. \\$45^\\circ$.",
+        "C. \\$30^\\circ$.",
+        "D. \\$60^\\circ$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hình chóp $S.ABC$ có $SA\\perp(ABC)$.\n- Tam giác $ABC$ vuông cân tại $B$.\n- $SA=AB=a\\sqrt{2}$.\n- Cần tìm góc giữa đường thẳng $SB$ và mặt phẳng $(ABC)$.\n❓ **Hiểu câu hỏi:**\n- Góc giữa một đường thẳng và một mặt phẳng là góc giữa đường thẳng đó và hình chiếu vuông góc của nó lên mặt phẳng.\n- Vì $SA\\perp(ABC)$ nên hình chiếu của $S$ lên đáy là $A$, do đó hình chiếu của $SB$ lên đáy là $AB$.\n🔎 **Hướng dẫn cách làm:**\n- Xét tam giác $SAB$, ta có $SA\\perp AB$ nên tam giác $SAB$ vuông tại $A$.\n- Lại có $SA=AB=a\\sqrt{2}$ nên tam giác $SAB$ là tam giác vuông cân tại $A$.\n- Vì thế $\\widehat{SBA}=45^\\circ$.\n- Đây chính là góc giữa đường thẳng $SB$ và mặt phẳng $(ABC)$.\n✅ **Đáp án:** Chọn B. \\$45^\\circ$"
+    },
+    {
+      "id": 5,
+      "content": "Tập nghiệm của bất phương trình $\\log_4(x+1)\\ge 2$ là",
+      "chuong": "hàm số mũ và hàm số lôgarit",
+      "dang": "bất phương trình lôgarit",
+      "type": "single",
+      "options": [
+        "A. $(-1;15)$.",
+        "B. $(-1;15]$.",
+        "C. $[15;+\\infty)$.",
+        "D. $(15;+\\infty)$."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cần giải bất phương trình $\\log_4(x+1)\\ge 2$.\n❓ **Hiểu câu hỏi:**\n- Bất phương trình lôgarit cần xét điều kiện xác định trước.\n- Vì cơ số \\$4>1$ nên hàm $\\log_4 t$ đồng biến, ta có thể bỏ lôgarit mà giữ nguyên chiều bất phương trình.\n🔎 **Hướng dẫn cách làm:**\n- Điều kiện xác định là $x+1>0\\Leftrightarrow x>-1$.\n- Từ $\\log_4(x+1)\\ge 2$ suy ra $x+1\\ge 4^2=16$.\n- Do đó $x\\ge 15$.\n- Kết hợp với điều kiện, tập nghiệm là $[15;+\\infty)$.\n✅ **Đáp án:** Chọn C. $[15;+\\infty)$"
+    },
+    {
+      "id": 6,
+      "content": "Trong mặt phẳng với hệ tọa độ $Oxy$, cho hình phẳng $(H)$ giới hạn bởi các đường $y=x^2+3$, $y=0$, $x=0$, $x=2$. Gọi $V$ là thể tích khối tròn xoay được tạo thành khi quay $(H)$ xung quanh trục $Ox$. Mệnh đề nào sau đây đúng?",
+      "chuong": "nguyên hàm và tích phân",
+      "dang": "ứng dụng tích phân để tính thể tích vật thể",
+      "type": "single",
+      "options": [
+        "A. $V=\\pi\\int_0^2 (x^2+3)^2\\,dx$.",
+        "B. $V=\\pi\\int_0^2 (x^2+3)\\,dx$.",
+        "C. $V=\\int_0^2 (x^2+3)\\,dx$.",
+        "D. $V=\\int_0^2 (x^2+3)^2\\,dx$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hình phẳng $(H)$ được giới hạn bởi các đường $y=x^2+3$, $y=0$, $x=0$, $x=2$.\n- Quay $(H)$ quanh trục $Ox$.\n- Cần chọn công thức đúng để tính thể tích khối tròn xoay.\n❓ **Hiểu câu hỏi:**\n- Khi quay quanh trục $Ox$, bán kính tiết diện tròn tại vị trí $x$ là $y=x^2+3$.\n- Thể tích khối tròn xoay được tính bởi công thức $V=\\pi\\int_a^b \\left[f(x)\\right]^2\\,dx$.\n🔎 **Hướng dẫn cách làm:**\n- Ở đây $f(x)=x^2+3$, cận từ \\$0$ đến \\$2$.\n- Vì vậy thể tích cần tính là $V=\\pi\\int_0^2 (x^2+3)^2\\,dx$.\n- Đây là công thức đúng theo phương pháp hình đĩa tròn.\n✅ **Đáp án:** Chọn A. $V=\\pi\\int_0^2 (x^2+3)^2\\,dx$"
+    },
+    {
+      "id": 7,
+      "content": "Họ nguyên hàm của hàm số $f(x)=2026^x$ là",
+      "chuong": "nguyên hàm và tích phân",
+      "dang": "nguyên hàm của một số hàm số thường gặp",
+      "type": "single",
+      "options": [
+        "A. $\\dfrac{2026^{x+1}}{\\ln 2026}+C$.",
+        "B. $\\dfrac{2026^x}{\\ln 2026}+C$.",
+        "C. \\$2026^{x+1}+C$.",
+        "D. \\$2026^x+C$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cần tìm họ nguyên hàm của hàm số $f(x)=2026^x$.\n❓ **Hiểu câu hỏi:**\n- Ta dùng công thức nguyên hàm cơ bản của hàm mũ.\n- Với $a>0$ và $a\\ne 1$, ta có $\\int a^x\\,dx=\\dfrac{a^x}{\\ln a}+C$.\n🔎 **Hướng dẫn cách làm:**\n- Ở đây $a=2026$ nên $\\int 2026^x\\,dx=\\dfrac{2026^x}{\\ln 2026}+C$.\n- So sánh với các phương án đã cho, ta chọn được đáp án đúng.\n✅ **Đáp án:** Chọn B. $\\dfrac{2026^x}{\\ln 2026}+C$"
+    },
+    {
+      "id": 8,
+      "content": "Tổng các nghiệm của phương trình $\\left(\\dfrac{2}{3}\\right)^{x^2-3x}=\\dfrac{9}{4}$ là",
+      "chuong": "hàm số mũ và hàm số lôgarit",
+      "dang": "phương trình mũ",
+      "type": "single",
+      "options": [
+        "A. \\$0$.",
+        "B. \\$2$.",
+        "C. \\$3$.",
+        "D. \\$1$."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cần tính tổng các nghiệm của phương trình $\\left(\\dfrac{2}{3}\\right)^{x^2-3x}=\\dfrac{9}{4}$.\n❓ **Hiểu câu hỏi:**\n- Ta đưa vế phải về cùng cơ số $\\dfrac{2}{3}$.\n- Sau đó so sánh số mũ để giải phương trình bậc hai.\n🔎 **Hướng dẫn cách làm:**\n- Ta có $\\dfrac{9}{4}=\\left(\\dfrac{3}{2}\\right)^2=\\left(\\dfrac{2}{3}\\right)^{-2}$.\n- Do đó $\\left(\\dfrac{2}{3}\\right)^{x^2-3x}=\\left(\\dfrac{2}{3}\\right)^{-2}$.\n- Suy ra $x^2-3x=-2\\Leftrightarrow x^2-3x+2=0$.\n- Phân tích được $x^2-3x+2=(x-1)(x-2)=0$ nên $x=1$ hoặc $x=2$.\n- Tổng các nghiệm là \\$1+2=3$.\n✅ **Đáp án:** Chọn C. \\$3$"
+    },
+    {
+      "id": 9,
+      "content": "Cho hình hộp $ABCD.A'B'C'D'$. Vectơ $\\vec{u}=\\overrightarrow{A'A}+\\overrightarrow{A'B'}+\\overrightarrow{A'D'}$ bằng vectơ nào dưới đây?",
+      "chuong": "vectơ và hệ trục tọa độ trong không gian",
+      "dang": "tổng và hiệu của hai vectơ trong không gian",
+      "type": "single",
+      "options": [
+        "A. $\\overrightarrow{CA'}$.",
+        "B. $\\overrightarrow{C'A}$.",
+        "C. $\\overrightarrow{A'C}$.",
+        "D. $\\overrightarrow{AC'}$."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cho hình hộp $ABCD.A'B'C'D'$.\n- Cần tính $\\vec u=\\overrightarrow{A'A}+\\overrightarrow{A'B'}+\\overrightarrow{A'D'}$.\n❓ **Hiểu câu hỏi:**\n- Trong hình hộp, các vectơ cạnh xuất phát từ cùng một đỉnh có thể cộng lại để được vectơ đường chéo không gian.\n- Ta cộng ba vectơ cùng gốc tại $A'$.\n🔎 **Hướng dẫn cách làm:**\n- Từ đỉnh $A'$, ba vectơ $\\overrightarrow{A'A},\\overrightarrow{A'B'},\\overrightarrow{A'D'}$ lần lượt đi theo ba phương cạnh của hình hộp.\n- Khi cộng ba vectơ này, ta đi từ $A'$ đến đỉnh đối diện là $C$.\n- Vì vậy $\\overrightarrow{A'A}+\\overrightarrow{A'B'}+\\overrightarrow{A'D'}=\\overrightarrow{A'C}$.\n✅ **Đáp án:** Chọn C. $\\overrightarrow{A'C}$"
+    },
+    {
+      "id": 10,
+      "content": "Tập nghiệm của phương trình $\\cos 2x=1$ là",
+      "chuong": "hàm số lượng giác và phương trình lượng giác",
+      "dang": "phương trình cosx=m",
+      "type": "single",
+      "options": [
+        "A. $\\left\\{\\dfrac{\\pi}{2}+k2\\pi\\mid k\\in\\mathbb{Z}\\right\\}$.",
+        "B. $\\left\\{k\\pi\\mid k\\in\\mathbb{Z}\\right\\}$.",
+        "C. $\\left\\{k2\\pi\\mid k\\in\\mathbb{Z}\\right\\}$.",
+        "D. $\\left\\{\\dfrac{\\pi}{4}+k\\pi\\mid k\\in\\mathbb{Z}\\right\\}$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cần giải phương trình $\\cos 2x=1$.\n❓ **Hiểu câu hỏi:**\n- Đây là phương trình lượng giác cơ bản.\n- Ta dùng công thức $\\cos t=1\\Leftrightarrow t=2k\\pi$ với $k\\in\\mathbb{Z}$.\n🔎 **Hướng dẫn cách làm:**\n- Từ $\\cos 2x=1$ suy ra \\$2x=2k\\pi$ với $k\\in\\mathbb{Z}$.\n- Chia hai vế cho \\$2$, ta được $x=k\\pi$.\n- Vậy tập nghiệm của phương trình là $\\left\\{k\\pi\\mid k\\in\\mathbb{Z}\\right\\}$.\n✅ **Đáp án:** Chọn B. $\\left\\{k\\pi\\mid k\\in\\mathbb{Z}\\right\\}$"
+    },
+    {
+      "id": 11,
+      "content": "Khảo sát thời gian tập thể dục của một số học sinh khối \\$11$ thu được mẫu số liệu ghép nhóm như bảng sau. Nhóm chứa tứ phân vị thứ ba của mẫu số liệu ghép nhóm trên là\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-cao-bang-nam-2026-lan-1/cau-11.webp\" alt=\"Hình minh họa câu 11\" loading=\"lazy\"></figure>",
+      "chuong": "các số đặc trưng đo mức độ phân tán cho mẫu số liệu ghép nhóm",
+      "dang": "khoảng tứ phân vị",
+      "type": "single",
+      "options": [
+        "A. $[40;60)$.",
+        "B. $[20;40)$.",
+        "C. $[60;80)$.",
+        "D. $[80;100)$."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Mẫu số liệu ghép nhóm có các lớp $[0;20),[20;40),[40;60),[60;80),[80;100)$.\n- Tần số tương ứng là \\$5,9,12,10,6$.\n- Cần tìm nhóm chứa tứ phân vị thứ ba $Q_3$.\n❓ **Hiểu câu hỏi:**\n- Tứ phân vị thứ ba ứng với vị trí khoảng $\\dfrac{3N}{4}$ trong mẫu.\n- Ta cộng dồn tần số để xem vị trí đó rơi vào nhóm nào.\n🔎 **Hướng dẫn cách làm:**\n- Tổng số học sinh là $N=5+9+12+10+6=42$.\n- Vị trí của $Q_3$ là $\\dfrac{3N}{4}=\\dfrac{3\\cdot 42}{4}=31{,}5$.\n- Tần số tích lũy lần lượt là \\$5,14,26,36,42$.\n- Vì \\$31{,}5$ nằm giữa \\$26$ và \\$36$ nên $Q_3$ thuộc nhóm thứ tư.\n- Nhóm đó là $[60;80)$.\n✅ **Đáp án:** Chọn C. $[60;80)$"
+    },
+    {
+      "id": 12,
+      "content": "Cho cấp số nhân $(u_n)$ với $u_1=2$ và công bội $q=3$. Giá trị của $u_4$ bằng",
+      "chuong": "dãy số. cấp số cộng và cấp số nhân",
+      "dang": "số hạng tổng quát của cấp số nhân",
+      "type": "single",
+      "options": [
+        "A. \\$162$.",
+        "B. \\$24$.",
+        "C. \\$48$.",
+        "D. \\$54$."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cấp số nhân $(u_n)$ có $u_1=2$ và công bội $q=3$.\n- Cần tính $u_4$.\n❓ **Hiểu câu hỏi:**\n- Với cấp số nhân, số hạng tổng quát là $u_n=u_1q^{n-1}$.\n- Chỉ cần thay $n=4$ vào công thức.\n🔎 **Hướng dẫn cách làm:**\n- Ta có $u_4=u_1q^3$.\n- Thay số vào được $u_4=2\\cdot 3^3$.\n- Tính ra $u_4=2\\cdot 27=54$.\n✅ **Đáp án:** Chọn D. \\$54$"
+    }
+  ]
+}

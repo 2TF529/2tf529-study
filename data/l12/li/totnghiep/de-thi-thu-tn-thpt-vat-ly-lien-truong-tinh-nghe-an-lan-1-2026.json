@@ -1,0 +1,286 @@
+{
+  "id": "l12-li-totnghiep-2026-de-thi-thu-tn-thpt-vat-ly-lien-truong-tinh-nghe-an-lan-1-2026",
+  "grade": "l12",
+  "subjectSlug": "li",
+  "examType": "totnghiep",
+  "year": 2026,
+  "code": "THPT_TTL_NA_2026_01",
+  "title": "Đề thi thử tốt nghiệp THPT môn Vật Lý liên Trường Sở GD&ĐT Nghệ An lần 1 năm 2026",
+  "duration": 50,
+  "answerSource": "official",
+  "source": "https://dolthpt.vn/tot-nghiep-thpt/pdf-de-thi-thu-tn-thpt-vat-ly-lien-truong-tinh-nghe-an-lan-1-2026-co-dap-an",
+  "notes": "Nội dung, đáp án và lời giải được nhập từ bản công khai của DOL THPT.",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "content": "Biết không khí có khối lượng mol là $M = 29\\,g/mol$ và khối lượng riêng $D = 1{,}29\\,kg/m^3$, $N_A = 6{,}02 \\cdot 10^{23}$. Khi một học sinh hít một hơi thật sâu khoảng \\$400\\,cm^3$ không khí. Một hơi hít sâu như vậy có bao nhiêu phân tử không khí được hít vào?",
+      "chuong": "khí lí tưởng",
+      "dang": "bài tập: tính toán n, m, n, m",
+      "type": "single",
+      "options": [
+        "A. \\$1{,}1 \\cdot 10^{25}$",
+        "B. \\$5{,}4 \\cdot 10^{25}$",
+        "C. \\$1{,}1 \\cdot 10^{22}$",
+        "D. \\$5{,}4 \\cdot 10^{22}$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Tính khối lượng không khí hít vào từ khối lượng riêng và thể tích: - $m = D \\cdot V = 1{,}29\\ (\\text{kg/m}^3)\\times 4{,}0\\cdot10^{-4}\\ (\\text{m}^3) = 5{,}16\\cdot10^{-4}\\ \\text{kg}.$\n- Chuyển khối lượng mol sang kg/mol (đã nêu): $M = 0{,}029\\ \\text{kg/mol}.$\n- Tính số mol không khí trong khối lượng vừa tính: - $n = \\frac{m}{M} = \\frac{5{,}16\\cdot10^{-4}}{0{,}029} \\approx 1{,}78\\cdot10^{-2}\\ \\text{mol}.$\n- Tính số phân tử bằng cách nhân số mol với số Avogadro: - $N = n \\cdot N_A = 1{,}78\\cdot10^{-2}\\times 6{,}02\\cdot10^{23} \\approx 1{,}07\\cdot10^{22}.$\n- Làm tròn và viết theo dạng đề cho (dùng dấu phẩy thập phân như trong đề): $\\approx 1{,}1\\cdot10^{22}\\ \\text{phân tử}.$\n✅ **Đáp án:** C. \\$1{,}1 \\cdot 10^{22}$"
+    },
+    {
+      "id": 2,
+      "content": "Trong quá trình một vật nhận nhiệt lượng và thực hiện công thì $A$ và $Q$ trong biểu thức của định luật I của nhiệt động lực học $\\Delta U = Q + A$ có quy ước dấu là",
+      "chuong": "vật lí nhiệt",
+      "dang": "lý thuyết: nội năng. định luật i nhiệt động lực học",
+      "type": "single",
+      "options": [
+        "A. $Q < 0,\\ A < 0$",
+        "B. $Q > 0,\\ A > 0$",
+        "C. $Q < 0,\\ A > 0$",
+        "D. $Q > 0,\\ A < 0$"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Quy ước dấu cho nhiệt lượng: nếu hệ *nhận nhiệt* thì $Q > 0$; nếu hệ *tỏa nhiệt* ra môi trường thì $Q < 0$.\n- Quy ước dấu cho công trong công thức $\\Delta U = Q + A$: ở chương trình THPT, $A$ là công thực hiện lên hệ (công tác dụng vào hệ). Do đó: - Nếu hệ nhận công từ ngoài (công thực hiện lên hệ), thì $A > 0$.\n  - Nếu hệ thực hiện công ra ngoài (hệ sinh công, làm việc cho môi trường), thì $A < 0$.\n- Áp dụng vào tình huống đề cho: vật *nhận nhiệt* ⇒ $Q > 0$; vật *thực hiện công* (làm việc ra ngoài) ⇒ công thực hiện lên hệ là âm ⇒ $A < 0$.\n- Ví dụ minh họa: nếu vật nhận $Q = 10\\ \\text{J}$ và thực hiện công \\$4\\ \\text{J}$ ra ngoài thì theo quy ước $A = -4\\ \\text{J}$ và $\\Delta U = 10 + (-4) = 6\\ \\text{J}$.\n✅ **Đáp án:** D. $Q>0,A<0$"
+    },
+    {
+      "id": 3,
+      "content": "Thiết bị nào sau đây không dùng để xác định nhiệt hóa hơi riêng $L$ của nước?",
+      "chuong": "vật lí nhiệt",
+      "dang": "lý thuyết: nhiệt hóa hơi riêng",
+      "type": "single",
+      "options": [
+        "A. Ống đong",
+        "B. Nhiệt kế",
+        "C. Cân điện tử",
+        "D. Nhiệt lượng kế"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Bước 1: Viết công thức liên quan: nếu truyền một nhiệt lượng $Q$ để bay hơi khối lượng $m$ nước thì nhiệt hóa hơi riêng $L$ là\nL=$\\frac{Q}{m}$\n- Bước 2: Xác định cách đo $Q$ và $m$ trong thực nghiệm: - $Q$ có thể đo bằng năng lượng điện tiêu thụ của bộ gia nhiệt: $Q=Pt=U I t$ (hoặc đo bằng nhiệt lượng kế).\n  - $m$ có thể đo bằng cân điện tử (đo khối lượng mất đi) hoặc bằng ống đong (đo thể tích nước mất đi rồi quy đổi sang khối lượng).\n- Bước 3: Xem xét vai trò của từng dụng cụ: - **Nhiệt lượng kế** hoặc bộ nạp nhiệt + đo điện năng dùng để xác định $Q$.\n  - **Cân điện tử** dùng để đo khối lượng nước bốc hơi $m$ trực tiếp.\n  - **Ống đong** có thể dùng để đo thể tích nước bốc hơi (rồi đổi sang khối lượng) nếu không có cân.\n  - **Nhiệt kế** đo nhiệt độ: nhưng khi nước sôi và bay hơi ở nhiệt độ sôi (gần cố định), nhiệt kế không cung cấp thông tin cần thiết để tính $L$ (ngoại trừ kiểm tra rằng nước đã đạt điểm sôi). Do đó nhiệt kế không phải là dụng cụ bắt buộc để xác định $L$.\n- Bước 4: Ví dụ minh họa nhanh: - Nếu dùng bộ gia nhiệt có công suất $P$ chạy trong thời gian $t$, thu được $Q=Pt$; đo khối lượng mất $m$ bằng cân. Khi đó $L=\\dfrac{Pt}{m}$. Ở công thức này không cần nhiệt độ đo bởi vì ta quan tâm đến năng lượng tiêu thụ và khối lượng bay hơi.\n✅ **Đáp án:** B. Nhiệt kế"
+    },
+    {
+      "id": 4,
+      "content": "Nhiệt độ sôi của nước tinh khiết ở điều kiện áp suất tiêu chuẩn trong thang nhiệt độ Kelvin là",
+      "chuong": "vật lí nhiệt",
+      "dang": "lý thuyết: thang nhiệt độ",
+      "type": "single",
+      "options": [
+        "A. 273 K",
+        "B. 100 K",
+        "C. 373 K",
+        "D. 0 K"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Nhiệt độ sôi của nước tinh khiết ở áp suất tiêu chuẩn là \\$100^\\circ\\text{C}$ (kiến thức cơ bản).\n- Công thức chuyển đổi giữa độ C và Kelvin là:\n$T(\\text{K}) = T(^{\\circ}\\text{C}) + 273{.}15.$\n- Áp dụng công thức cho \\$100^\\circ\\text{C}:$\n$T(\\text{K}) = 100 + 273{.}15 = 373{.}15\\ \\text{K}.$\n- Làm tròn về giá trị phù hợp với các phương án cho sẵn ta được khoảng \\$373\\ \\text{K}.$\n- Kiểm tra các phương án: - A. 273 K → tương ứng \\$0^\\circ\\text{C}$ (nhiệt độ đóng băng, không phải sôi).\n  - B. 100 K → thấp hơn nhiều, không đúng.\n  - C. 373 K → tương ứng \\$100^\\circ\\text{C}$, đúng.\n  - D. 0 K → không thể đạt trong điều kiện thực nghiệm (nhiệt độ tuyệt đối), không đúng.\n✅ **Đáp án:** C. 373 K"
+    },
+    {
+      "id": 5,
+      "content": "Biết nhiệt dung riêng của nước và của rượu lần lượt là \\$4180\\,J/kg.K$ và \\$2500\\,J/kg.K$. Dùng một ấm điện có công suất không đổi lần lượt đun nóng cùng một khối lượng nước và rượu. Biết nhiệt độ ban đầu của nước và rượu bằng nhau. Nhận xét nào sau đây **đúng**?",
+      "chuong": "vật lí nhiệt",
+      "dang": "thực tế: nhiệt dung riêng",
+      "type": "single",
+      "options": [
+        "A. rượu nóng nhanh hơn nước",
+        "B. nước và rượu nóng nhanh như nhau",
+        "C. nước nóng nhanh hơn rượu",
+        "D. bạn đầu nước nóng nhanh hơn, lúc sau rượu nóng nhanh hơn"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Khi ấm điện có công suất cố định $P$ cung cấp năng lượng trong thời gian $t$ thì năng lượng truyền là $Q=P\\,t$.\n- Nhiệt lượng cần để tăng nhiệt độ khối chất lượng $m$ lên $\\Delta T$ là $Q=mc\\Delta T$, trong đó $c$ là nhiệt dung riêng.\n- Kết hợp hai biểu thức ta được thời gian để đạt cùng mức tăng nhiệt:\n$t=\\dfrac{Q}{P}=\\dfrac{mc\\Delta T}{P}.$\n- Vì ở đây $m,\\ \\Delta T,\\ P$ đều như nhau cho cả hai chất, thời gian t tỉ lệ thuận với nhiệt dung riêng $c$.\n- So sánh: $c_{\\text{nước}}=4180>\\;c_{\\text{rượu}}=2500$ ⇒ thời gian để nước đạt cùng ΔT lớn hơn thời gian của rượu.\n- Ví dụ số: giả sử $m=1\\ \\text{kg},\\ \\Delta T=20\\ \\text{K},\\ P=1000\\ \\text{W}$ thì\nthời gian nước: $t_{\\text{nước}}=\\dfrac{1\\cdot 4180\\cdot 20}{1000}=83{,}6\\ \\text{s},$\nthời gian rượu: $t_{\\text{rượu}}=\\dfrac{1\\cdot 2500\\cdot 20}{1000}=50\\ \\text{s}.$\nRõ ràng rượu nóng nhanh hơn nước.\nKết luận: **Đúng** — rượu nóng nhanh hơn nước trong điều kiện đã cho.\n✅ **Đáp án:**  A. rượu nóng nhanh hơn nước"
+    },
+    {
+      "id": 6,
+      "content": "Xét khối khí như trong hình vẽ. Dùng tay ấn mạnh và nhanh pit-tông, đồng thời nung nóng khí bằng ngọn lửa đèn cồn. Chọn đáp án **không đúng**.\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tn-thpt-vat-ly-lien-truong-tinh-nghe-an-lan-1-2026/cau-06.webp\" alt=\"Hình minh họa câu 6\" loading=\"lazy\"></figure>",
+      "chuong": "vật lí nhiệt",
+      "dang": "lý thuyết: nội năng. định luật i nhiệt động lực học",
+      "type": "single",
+      "options": [
+        "A. Khối khí bị nén, nhận công từ bên ngoài nên $A > 0$",
+        "B. Nội năng của khối khí giảm một lượng: $\\Delta U = + Q$",
+        "C. Nội năng của khối khí tăng một lượng: $\\Delta U = A + Q$",
+        "D. Khối khí tiếp xúc ngọn lửa, nhận nhiệt từ bên ngoài nên $Q > 0$"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Quan sát hình (mô tả ảnh): có ngọn lửa bên dưới xi-lanh, do đó khối khí đang *nhận nhiệt* từ ngọn lửa → suy ra $Q>0$.\n- Pit-tông bị ấn mạnh và nhanh (nén khí) bởi tay, nên có công của lực ngoài tác dụng lên khí → khí *nhận công* từ ngoài → suy ra $A>0$.\n- Áp dụng định luật thứ nhất: $\\Delta U = A + Q$.\n- Vì cả $A>0$ và $Q>0$ nên tổng $\\Delta U>0$, tức là *nội năng tăng*.\n- Do đó, phương án khẳng định nội năng giảm là sai. Đồng thời phương án B có nội dung mâu thuẫn (\"giảm\" nhưng công thức viết $\\Delta U = + Q$) nên rõ ràng là phương án **không đúng**.\n✅ **Đáp án:** B. Nội năng của khối khí giảm một lượng: $\\Delta U = + Q$"
+    },
+    {
+      "id": 7,
+      "content": "Trong các tính chất sau, tính chất nào **không phải** của chất ở thể khí?",
+      "chuong": "khí lí tưởng",
+      "dang": "lý thuyết: thuyết động học phân tử chất khí",
+      "type": "single",
+      "options": [
+        "A. tác dụng lực lên mọi phần diện tích bình chứa",
+        "B. chiếm toàn bộ thể tích của bình chứa",
+        "C. có hình dạng xác định",
+        "D. áp suất giảm khi tăng thể tích"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Chọn tiêu chí so sánh: xem từng phương án có phù hợp với tính chất của chất khí hay không.\n- Kiểm tra A: Chất khí có các phân tử chuyển động tự do va chạm với thành bình, do đó khí tác dụng lực lên mọi phần diện tích của bình chứa → phương án A *đúng*.\n- Kiểm tra B: Khí phân bố đều trong bình và chiếm toàn bộ thể tích bình chứa → phương án B *đúng*.\n- Kiểm tra D: Theo định luật Bôil (ở nhiệt độ không đổi) ta có $pV=\\text{const}$, tức là $p\\propto\\frac{1}{V}$, nên khi tăng thể tích (ở nhiệt độ không đổi) áp suất giảm → phương án D *đúng*.\n- Kiểm tra C: Chất khí không có hình dạng xác định — nó nhận hình dạng của bình chứa, nên nói \"có hình dạng xác định\" là sai → phương án C *sai* (không phải tính chất của khí).\n- Ví dụ/đối chứng: Một lượng khí trong quả cầu và trong bình hình hộp sẽ có cùng thể tích chiếm (tùy bình), nhưng không giữ một hình dạng cố định như rắn; do đó phương án C mâu thuẫn với thực tế.\n✅ **Đáp án:** C. có hình dạng xác định"
+    },
+    {
+      "id": 8,
+      "content": "Một quả bóng bay chứa khí hydro dưới bóng râm ở nhiệt độ \\$20^\\circ C$ có thể tích \\$2500\\,cm^3$. Coi áp suất khí quyển trong ngày không đổi. Thể tích khí này vào buổi trưa có nhiệt độ \\$35^\\circ C$ gần giá trị nào nhất sau đây?",
+      "chuong": "khí lí tưởng",
+      "dang": "bài tập: định luật charles",
+      "type": "single",
+      "options": [
+        "A. \\$2522\\,cm^3$",
+        "B. \\$1629\\,cm^3$",
+        "C. \\$2728\\,cm^3$",
+        "D. \\$2628\\,cm^3$"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Chuyển nhiệt độ sang Kelvin: - $T_1 = 20^\\circ C + 273 = 293\\ K$\n  - $T_2 = 35^\\circ C + 273 = 308\\ K$\n- Áp dụng định luật Charles (áp suất không đổi): - $\\frac{V_1}{T_}1} = \\frac{V_2}{T_}2}$\n  - Suy ra $V_2 = V_1\\cdot\\frac{T_2}{T_}1}$\n- Thay số: - $V_2 = 2500\\cdot\\frac{308}{29}3}$\n  - Tính tỉ số: $\\frac{308}{29}3}\\approx 1{.}051192$\n  - $V_2 \\approx 2500\\times 1{.}051192 \\approx 2627{.}98\\ cm^3$\n- Làm tròn: $V_2 \\approx 2628\\ cm^3$\n✅ **Đáp án:** D. \\$2628\\,cm^3$"
+    },
+    {
+      "id": 9,
+      "content": "Nhiệt nóng chảy riêng của đồng là \\$1{,}8 \\cdot 10^5\\,J/kg$. Câu nào dưới đây là **đúng**?",
+      "chuong": "vật lí nhiệt",
+      "dang": "lý thuyết: nhiệt nóng chảy riêng",
+      "type": "single",
+      "options": [
+        "A. Khối đồng cần thu nhiệt lượng \\$1{,}8 \\cdot 10^5\\,J$ để hoá lỏng.",
+        "B. Mỗi kilogram đồng toả ra nhiệt lượng \\$1{,}8 \\cdot 10^5\\,J$ khi hoá lỏng hoàn toàn.",
+        "C. Khối đồng sẽ toả ra \\$1{,}8 \\cdot 10^5\\,J$ khi nóng chảy hoàn toàn.",
+        "D. Mỗi kilogram đồng cần thu nhiệt lượng \\$1{,}8 \\cdot 10^5\\,J$ để hoá lỏng hoàn toàn ở nhiệt độ nóng chảy."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Áp dụng công thức: $Q=mL.$\n- Với một kilogram đồng (m = 1 kg) và $L=1{,}8\\cdot10^5\\ \\text{J/kg}$ ta có:\n$Q=1\\cdot\\left(1{,}8\\cdot10^5\\right)=1{,}8\\cdot10^5\\ \\text{J}.$\n- Vì nhiệt nóng chảy riêng cho biết lượng nhiệt **phải thu** để vật rắn hoá lỏng ở nhiệt độ nóng chảy, nên phát biểu nói rằng “Mỗi kilogram đồng cần thu nhiệt lượng \\$1{,}8\\cdot10^5\\ \\text{J}$ để hoá lỏng hoàn toàn ở nhiệt độ nóng chảy” là chính xác.\n- Giải thích các phương án sai (theo các phương án đã cho): - Những phát biểu nói “toả ra” là sai, vì quá trình nóng chảy cần thu nhiệt chứ không toả.\n  - Phát biểu chỉ nói “khối đồng” mà không xác định khối lượng không đủ chính xác — chỉ khi khối lượng = 1 kg thì giá trị \\$1{,}8\\cdot10^5\\ \\text{J}$ đúng.\n✅ **Đáp án:** D. Mỗi kilogram đồng cần thu nhiệt lượng \\$1{,}8\\cdot 10^5\\,J$ để hoá lỏng hoàn toàn ở nhiệt độ nóng chảy."
+    },
+    {
+      "id": 10,
+      "content": "Một bình cách nhiệt được ngăn làm hai phần bằng một vách ngăn. Hai phần bình có chứa hai chất lỏng có nhiệt dung riêng $c_1, c_2$ và nhiệt độ $t_1, t_2$ khác nhau. Bỏ vách ngăn ra, hai khối chất lỏng không có tác dụng hóa học và có nhiệt độ cân bằng là $t$. Cho biết $t_1 - t = \\dfrac{1}{2}(t_1 - t_2)$. Tính tỉ số $\\dfrac{m_1}{m_2}$",
+      "chuong": "vật lí nhiệt",
+      "dang": "bài tập: nhiệt dung riêng, phương trình cân bằng nhiệt",
+      "type": "single",
+      "options": [
+        "A. $\\dfrac{m_1}{m_2} = \\dfrac{c_2}{c_1}$",
+        "B. $\\dfrac{m_1}{m_2} = \\left(1 + \\dfrac{c_1}{c_2} \\right)$",
+        "C. $\\dfrac{m_1}{m_2} = \\left(1 + \\dfrac{c_2}{c_1} \\right)$",
+        "D. $\\dfrac{m_1}{m_2} = \\dfrac{c_1}{c_2}$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Viết phương trình cân bằng nhiệt (không có trao đổi nhiệt ra ngoài vì bình cách nhiệt): - Nhiệt mất của phần 1 = Nhiệt nhận của phần 2.\n  - $m_1 c_1 (t_1 - t) = m_2 c_2 (t - t_2).$\n- Từ điều kiện đề bài: - $t_1 - t = \\dfrac{1}{2}(t_1 - t_2).$\n  - Tính $t - t_2$:\n$t - t_2 = (t_1 - t_2) - (t_1 - t) = (t_1 - t_2) - \\dfrac{1}{2}(t_1 - t_2) = \\dfrac{1}{2}(t_1 - t_2).$\n  - Vậy $t_1 - t = t - t_2 = \\dfrac{1}{2}(t_1 - t_2).$\n- Thay vào phương trình cân bằng nhiệt: cả hai hiệu nhiệt độ ở hai vế bằng nhau, nên\n$m_1 c_1 \\cancel{(t_1 - t)} = m_2 c_2 \\cancel{(t - t_2)} \\implies m_1 c_1 = m_2 c_2.$\n- Suy ra tỉ số khối lượng:\n$\\dfrac{m_1}{m_2} = \\dfrac{c_2}{c_1}.$\n✅ **Đáp án:** A. $\\dfrac{m_1}{m_2} = \\dfrac{c_2}{c_1}$"
+    },
+    {
+      "id": 11,
+      "content": "Thế giới từng ghi nhận sự thay đổi nhiệt độ rất lớn diễn ra ở Spearfish, South Dakota vào ngày 21/01/1943. Lúc 7h30 sáng, nhiệt độ ngoài trời là $-20^\\circ C$. Hai phút sau, nhiệt độ này đã tăng lên đến \\$7{,}2^\\circ C$. Độ tăng nhiệt độ trung bình trong 2 phút đó tính theo đơn vị $^\\circ C/s$ gần nhất nào trong các giá trị sau:",
+      "chuong": "vật lí nhiệt",
+      "dang": "bài tập: đổi nhiệt độ nâng cao",
+      "type": "single",
+      "options": [
+        "A. 2,27",
+        "B. 227",
+        "C. 13,6",
+        "D. 1,36"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Tính độ thay đổi nhiệt độ:\n$\\Delta T = T_{cuối} - T_{đầu} = 7{,}2 - (-20) = 27{,}2\\ ^\\circ\\!C.$\n- Thời gian:\n$\\Delta t = 2\\ \\text{phút} = 120\\ \\text{s}.$\n- Tốc độ tăng trung bình:\n$\\text{tốc độ} = \\dfrac{\\Delta T}{\\Delta t} = \\dfrac{27{,}2}{120} = 0{,}2266\\ldots\\ ^\\circ\\!C/\\text{s}.$\n- Làm tròn đến ba chữ số thập phân: $\\approx 0{,}227\\ ^\\circ\\!C/\\text{s}.$\n- So sánh với các lựa chọn (A: 2,27; B: 227; C: 13,6; D: 1,36). Giá trị tính được gần với \\$0{,}227\\ ^\\circ\\!C/\\text{s}$, nên lựa chọn phù hợp trong các đáp án cho sẵn là mục B (với nội dung \"227\" theo dữ liệu đáp án).\n✅ **Đáp án:** B. 227"
+    },
+    {
+      "id": 12,
+      "content": "Quá trình chất ở thể rắn chuyển sang thể khí được gọi là",
+      "chuong": "vật lí nhiệt",
+      "dang": "lý thuyết: cấu trúc của chất. sự chuyển thể",
+      "type": "single",
+      "options": [
+        "A. sự thăng hoa",
+        "B. sự ngưng kết",
+        "C. sự bay hơi",
+        "D. sự hoá hơi"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Xác định định nghĩa các quá trình: - ***Thăng hoa***: quá trình một chất chuyển trực tiếp từ thể rắn sang thể khí mà không đi qua thể lỏng.\n  - ***Ngưng kết***: khí chuyển thành lỏng (không phải rắn → khí).\n  - ***Bay hơi*** và ***Hoá hơi***: chuyển từ lỏng sang khí (không phải rắn → khí).\n- So sánh với yêu cầu: cần tìm quá trình rắn → khí trực tiếp ⇒ đó là *thăng hoa*.\n- Ví dụ minh họa: đá khô (CO2 rắn) ở áp suất khí quyển chuyển thẳng thành CO2 khí — hiện tượng này gọi là *thăng hoa*. Tương tự, i-ốt rắn khi bị đun nóng sinh ra khói tím là thăng hoa.\n- Về hình ảnh đính kèm: nếu hình minh họa là đá khô bốc hơi trực tiếp hoặc i-ốt lên khói tím thì nó hỗ trợ đáp án *thăng hoa*.\n✅ **Đáp án:** A. sự thăng hoa"
+    },
+    {
+      "id": 13,
+      "content": "Một bọt khí nổi lên từ đáy một hồ nước, nó có thể tích gấp 1,2 lần thể tích ban đầu. Coi nhiệt độ của bọt khí là không đổi. So với áp suất tại mặt hồ thì áp suất dưới đáy hồ",
+      "chuong": "khí lí tưởng",
+      "dang": "thực tế: định luật boyle",
+      "type": "single",
+      "options": [
+        "A. nhỏ hơn 2,4 lần",
+        "B. lớn hơn 1,2 lần",
+        "C. nhỏ hơn 1,2 lần",
+        "D. lớn hơn 1,44 lần"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Gọi $p_{đáy}$ là áp suất của môi trường (nước) ở đáy hồ (bằng áp suất của bọt khi ở đáy) và $p_{mặt}$ là áp suất ở mặt hồ (áp suất bên ngoài bọt khi ở mặt).\n- Gọi $V_{đáy}$ thể tích ban đầu của bọt ở đáy và $V_{mặt}$ thể tích bọt khi lên mặt. Ta có $V_{mặt}=1{,}2\\,V_{đáy}.$\n- Vì quá trình là đẳng nhiệt nên áp suất và thể tích của khí tuân theo định luật Boyle: $p_{đáy}V_{đáy}=p_{mặt}V_{mặt}.$\n- Thay $V_{mặt}=1{,}2V_{đáy}$ vào ta được: $p_{đáy}V_{đáy}=p_{mặt}\\cdot 1{,}2V_{đáy}.$\n- Rút gọn $V_{đáy}$ hai vế: $p_{đáy}=1{,}2\\,p_{mặt}.$\n- Kết luận: áp suất ở đáy bằng 1,2 lần áp suất ở mặt hồ (tức là lớn hơn áp suất ở mặt hồ theo hệ số 1,2). (Lưu ý: trong thực tế có thể có hiệu ứng của sức căng mặt và áp suất hơi bên trong bọt, nhưng đề bài cho đóng sai số đó.)\n✅ **Đáp án:** B. lớn hơn 1,2 lần"
+    },
+    {
+      "id": 14,
+      "content": "Đơn vị nào sau đây là đơn vị của nhiệt hoá hơi riêng của chất lỏng?",
+      "chuong": "vật lí nhiệt",
+      "dang": "lý thuyết: nhiệt hóa hơi riêng",
+      "type": "single",
+      "options": [
+        "A. $J/K$",
+        "B. $J$",
+        "C. $J/kg$",
+        "D. $J/kg.K$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- **Định nghĩa:** Nếu gọi nhiệt hoá hơi riêng là $r$ (hoặc $L_v$), thì theo định nghĩa:\n$r=\\frac{Q}{m}$\ntrong đó $Q$ là nhiệt lượng (đơn vị Joule, $\\text{J}$), $m$ là khối lượng (đơn vị kilogram, $\\text{kg}$).\n- **Suy ra đơn vị:** Từ công thức trên, đơn vị của $r$ là:\n$\\frac{\\text{đơn vị của }Q}{\\text{đơn vị của }m}=\\frac{\\text{J}}{\\text{kg}}.$\n- **Kiểm tra các phương án khác:** - A: $\\text{J/K}$ — đơn vị của nhiệt dung (heat capacity), không phải nhiệt hoá hơi riêng.\n  - B: $\\text{J}$ — đơn vị của năng lượng (nhiệt lượng) chứ không chia cho khối lượng, nên sai.\n  - D: $\\text{J/kg·K}$ — đơn vị của nhiệt dung riêng (specific heat capacity), không phải nhiệt hoá hơi riêng.\n- **Kết luận:** Đơn vị phù hợp với biểu thức $r=\\dfrac{Q}{m}$ là $\\text{J/kg}$.\n✅ **Đáp án:** C. J/kg"
+    },
+    {
+      "id": 15,
+      "content": "Cồn y tế chuyển từ thể lỏng sang thể khí rất nhanh ở điều kiện thông thường. Khi xoa cồn vào da, ta cảm thấy lạnh ở vùng da đó vì",
+      "chuong": "vật lí nhiệt",
+      "dang": "lý thuyết: cấu trúc của chất. sự chuyển thể",
+      "type": "single",
+      "options": [
+        "A. thu nhiệt lượng từ cơ thể qua chỗ da đó để bay hơi",
+        "B. khi bay hơi tạo ra dòng nước mát tại chỗ da đó",
+        "C. khi bay hơi toả nhiệt lượng vào chỗ da đó",
+        "D. khi bay hơi kéo theo lượng nước chỗ da đó ra khỏi cơ thể"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Bay hơi là quá trình chất lỏng chuyển thành hơi; quá trình này thường **hút nhiệt** từ môi trường xung quanh (là quá trình tỏa/thu nhiệt? Ở đây là thu nhiệt).\n- Nhiệt lượng cần để một khối lượng chất lỏng m bay hơi được cho bởi công thức: $Q=mL$ với $L$ là nhiệt ẩn bay hơi của chất (đây là kiến thức phổ thông trong chương trình).\n- Khi xoa cồn lên da, cồn nhanh chóng bốc hơi do có áp suất hơi cao và điểm sôi thấp, nên để bay hơi nó phải lấy nhiệt từ vùng da đó (tức lấy nhiệt lượng từ cơ thể) — làm giảm nhiệt năng của lớp da, gây cảm giác lạnh.\n- Nhận xét các phương án sai: - B (tạo ra dòng nước mát tại chỗ da): sai — không có dòng nước mát tạo ra; hiện tượng là do mất nhiệt khi bay hơi.\n  - C (khi bay hơi tỏa nhiệt lượng vào chỗ da đó): sai — bay hơi là quá trình **thu nhiệt**, không tỏa nhiệt.\n  - D (bay hơi kéo theo lượng nước chỗ da đó ra khỏi cơ thể): sai — cồn bốc hơi chứ không “kéo nước” ra khỏi cơ thể theo nghĩa làm khô sâu bên trong; cảm lạnh do mất nhiệt bề mặt.\n✅ **Đáp án:** A. thu nhiệt lượng từ cơ thể qua chỗ da đó để bay hơi"
+    },
+    {
+      "id": 16,
+      "content": "Khi nhiệt độ của một lượng khí xác định trong một bình kín tăng thì áp suất của khối khí trong bình cũng tăng vì",
+      "chuong": "khí lí tưởng",
+      "dang": "lý thuyết: áp suất khí theo mô hình động học phân tử. quan hệ giữa động năng phân tử và nhiệt độ",
+      "type": "single",
+      "options": [
+        "A. các phân tử khí chuyển động nhanh hơn",
+        "B. khoảng cách giữa các phân tử khí tăng",
+        "C. các phân tử khí hút nhau mạnh hơn",
+        "D. số lượng phân tử khí trong bình tăng"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Áp dụng phương trình trạng thái khí lí tưởng: $pV = nRT$. Với một lượng khí xác định trong bình kín, ta có $n$ (số mol) và $V$ (thể tích) đều không đổi. Do đó khi $T$ tăng thì $p$ phải tăng (vì $p = \\dfrac{nR}{V}T$).\n- Theo lí thuyết động học chất khí: áp suất do các va chạm của phân tử khí với thành bình tạo nên (tổng lực trên đơn vị diện tích). Khi nhiệt độ tăng, năng lượng động học trung bình của phân tử tăng => vận tốc trung bình tăng.\n- Công thức liên hệ áp suất với vận tốc trung bình (dạng đơn giản): $p = \\frac{1}{3}\\frac{N}{V}m\\overline{v^2}$, trong đó $N$ là số phân tử, $m$ khối lượng phân tử, $\\overline{v^2}$ là bình phương vận tốc trung bình. Khi $\\overline{v^2}$ tăng (tức phân tử chuyển động nhanh hơn), $p$ tăng.\n- Vì vậy nguyên nhân thực tế: các phân tử va chạm với thành bình với tần số lớn hơn và với xung lượng (độ thay đổi động lượng) lớn hơn — kết quả là lực trên thành bình lớn hơn => áp suất tăng.\n- Kiểm tra các phương án sai: - (B) \"khoảng cách giữa các phân tử khí tăng\": với thể tích không đổi, khoảng cách trung bình không tăng khi chỉ tăng nhiệt độ.\n  - (C) \"các phân tử khí hút nhau mạnh hơn\": tính chất lực giữa phân tử không tăng do chỉ tăng nhiệt độ; ngược lại nhiệt độ cao thường làm lực tương tác hiệu quả ít nổi bật hơn.\n  - (D) \"số lượng phân tử khí trong bình tăng\": trong bình kín số lượng phân tử không thay đổi khi chỉ thay đổi nhiệt độ.\n✅ **Đáp án:** A. các phân tử khí chuyển động nhanh hơn"
+    },
+    {
+      "id": 17,
+      "content": "Nồi áp suất có cơ chế điều chỉnh giải phóng hơi nước để duy trì áp suất không đổi. Nồi đang sôi, nếu cơ chế đó bị tắc thì",
+      "chuong": "khí lí tưởng",
+      "dang": "thực tế: phương trình trạng thái khí lí tưởng",
+      "type": "single",
+      "options": [
+        "A. áp suất vẫn giữ ổn định",
+        "B. áp suất sẽ tiếp tục tăng mặc dù nhiệt độ sôi không đổi",
+        "C. cả nhiệt độ và áp suất sẽ tiếp tục tăng",
+        "D. khối lượng riêng của hơi nước sẽ giảm xuống"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Khi tiếp tục đun, nước tiếp tục bốc hơi tạo thêm hơi nước. Nếu van xả bị tắc, hơi không thoát ra ngoài được nên khối lượng hơi trong nồi tăng và/hoặc năng lượng bên trong tăng.\n- Xét gần đúng bằng phương trình khí lí tưởng để thấy mối quan hệ giữa áp suất và nhiệt độ trong một thể tích gần như cố định:\n$pV = nRT$\nTrong nồi gần như xác định V; nếu số mol hơi $n$ tăng (do bốc hơi) hoặc nhiệt độ $T$ tăng (do tiếp tục cung cấp nhiệt), thì áp suất $p$ sẽ tăng.\n- Đồng thời, điểm sôi của nước (nhiệt độ tại đó hơi bão hòa có áp suất bằng áp suất trong nồi) tăng khi áp suất tăng. Tức là khi áp suất tăng, nhiệt độ sôi mới sẽ cao hơn nhiệt độ sôi trước đó — nên nhiệt độ của nước/khí trong nồi cũng tăng cho tới khi đạt cân bằng mới (hoặc tới khi xảy ra sự cố).\n- Kết luận: cả áp suất và nhiệt độ trong nồi sẽ tiếp tục tăng cho đến khi đạt được cân bằng mới hoặc xảy ra sự cố an toàn (nắp bung, van an toàn hoạt động, ...).\n- Lưu ý các phương án sai: - A (áp suất vẫn giữ ổn định): sai, vì van xả bị tắc nên không có cơ chế giữ áp suất cố định.\n  - B (áp suất tăng nhưng nhiệt độ sôi không đổi): sai, vì điểm sôi phụ thuộc vào áp suất; khi áp suất tăng, nhiệt độ sôi cũng tăng.\n  - D (khối lượng riêng của hơi nước sẽ giảm xuống): sai về xu hướng chung trong tình huống này (khi áp suất tăng và nhiệt độ tăng, khối lượng riêng của hơi không nhất thiết giảm; đồng thời phương án này không phản ánh rõ hiện tượng chính).\n✅ **Đáp án:** C. cả nhiệt độ và áp suất sẽ tiếp tục tăng"
+    },
+    {
+      "id": 18,
+      "content": "Các thao tác cơ bản để đo nhiệt nóng chảy riêng của cục nước đá là: a) khuấy liên tục nước đá, cứ sau 2 phút lại đọc số đo trên oát kế và nhiệt độ trên nhiệt kế rồi ghi lại kết quả. b) cho viên nước đá khối lượng m(kg) và một ít nước lạnh vào bình nhiệt lượng kế, sao cho toàn bộ điện trở chìm trong hỗn hợp nước đá. c) bật nguồn điện. d) cắm đầu đo của nhiệt kế vào bình nhiệt lượng kế. e) nối oát kế với nhiệt lượng kế và nguồn điện. Thứ tự đúng các thao tác là\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tn-thpt-vat-ly-lien-truong-tinh-nghe-an-lan-1-2026/cau-18.webp\" alt=\"Hình minh họa câu 18\" loading=\"lazy\"></figure>",
+      "chuong": "vật lí nhiệt",
+      "dang": "thí nghiệm: nhiệt nóng chảy riêng",
+      "type": "single",
+      "options": [
+        "A. b, d, a, e, c",
+        "B. b, d, e, a, c",
+        "C. b, d, e, c, a",
+        "D. b, a, c, d, e"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n🔎 **Hướng dẫn cách làm:**\n- Bắt đầu bằng thao tác **b**: cho viên nước đá có khối lượng $m$ và một ít nước lạnh vào bình nhiệt lượng kế, đặt điện trở sao cho **toàn bộ điện trở chìm** trong hỗn hợp. (Lý do: phải lắp đặt mẫu và bộ phận sinh nhiệt vào vị trí trước khi kết nối/khởi động.)\n- Tiếp theo thao tác **d**: cắm đầu đo của nhiệt kế vào bình để nhiệt kế đo đúng nhiệt độ của hỗn hợp. (Lý do: cần đặt cảm biến vào vị trí đo trước khi bắt đầu đo.)\n- Rồi thao tác **e**: nối oát kế với nhiệt lượng kế và nguồn điện, tức là hoàn thiện mạch đo và mạch cung cấp điện trước khi bật nguồn. (Lý do an toàn và để có thể đọc công suất ngay khi bật.)\n- Sau khi đã lắp đặt và kết nối, thực hiện thao tác **a**: khuấy liên tục hỗn hợp và, cứ sau 2 phút, đọc số đo trên oát kế và nhiệt kế rồi ghi lại kết quả. (Khuấy giúp nhiệt độ đồng đều; đọc oát kế để biết công suất P tại thời điểm đó.)\n- Cuối cùng thao tác **c**: bật nguồn điện để bắt đầu cung cấp năng lượng cho điện trở và làm tan đá. (Lý do: bật nguồn sau khi mọi thứ đã sẵn sàng và bạn đã có các phép đọc ban đầu/chuẩn bị ghi dữ liệu.)\n- Công thức liên quan (để tính nhiệt nóng chảy riêng L nếu cần): năng lượng điện cung cấp trong thời gian t là $Q = P\\,t$ (hoặc $Q = V I t$). Năng lượng cần để làm tan khối đá khối lượng $m$ là $Q_{\\text{fusion}} = mL$. Trong thực nghiệm thực tế còn phải trừ hao cho bình và nước xung quanh: $P t = mL + C_{\\text{bình+nước}}\\Delta T\\,$ (nếu cần tính chính xác).\n✅ **Đáp án:** B. b, d, e, a, c"
+    }
+  ]
+}

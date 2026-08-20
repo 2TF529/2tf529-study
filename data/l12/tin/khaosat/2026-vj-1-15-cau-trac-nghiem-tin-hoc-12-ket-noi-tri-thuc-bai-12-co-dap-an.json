@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-12-ket-noi-tri-thuc-bai-12-co-dap-an",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-12-ket-noi-",
+  "grade": "l12",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 12 Kết nối tri thức Bài 12 có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Câu 1: Thẻ nào được sử dụng để tạo biểu mẫu trên web?",
+      "options": [
+        "A. &lt;input&gt;",
+        "B. &lt;label&gt;",
+        "C. &lt;form&gt;",
+        "D. &lt;select&gt;"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Thẻ &lt;form&gt; được sử dụng để tạo biểu mẫu trên web. Đây là thẻ bao bọc các phần tử của biểu mẫu và quản lý việc gửi dữ liệu."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Thuộc tính nào của thẻ &lt;input&gt; được sử dụng để xác định loại dữ liệu mà phần tử input chứa?",
+      "options": [
+        "A. id",
+        "B. name",
+        "C. type",
+        "D. value"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Thuộc tính type của thẻ &lt;input&gt; xác định loại dữ liệu mà phần tử input chứa, chẳng hạn như text, number, date, v.v."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Thẻ nào được sử dụng để nhóm các phần tử có liên quan trong biểu mẫu?",
+      "options": [
+        "A. &lt;fieldset&gt;",
+        "B. &lt;legend&gt;",
+        "C. &lt;label&gt;",
+        "D. &lt;select&gt;"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Thẻ &lt;fieldset&gt; được sử dụng để nhóm các phần tử liên quan trong biểu mẫu và tạo ra một khung bao quanh các phần tử đó."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Thẻ &lt;label&gt; thường được sử dụng để:",
+      "options": [
+        "A. Nhập dữ liệu",
+        "B. Nhóm phần tử",
+        "C. Định nghĩa nhãn cho phần tử input",
+        "D. ) Hiển thị các lựa chọn"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Thẻ &lt;label&gt; định nghĩa nhãn cho phần tử input và có thể được nhấp chuột để đưa con trỏ vào vùng của phần tử input tương ứng."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Để tạo một danh sách thả xuống cho phép người dùng chọn một trong các lựa chọn, thẻ nào được sử dụng?",
+      "options": [
+        "A. &lt;input&gt;",
+        "B. &lt;label&gt;",
+        "C. &lt;select&gt;",
+        "D. &lt;textarea&gt;"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Thẻ &lt;select&gt; được sử dụng để tạo danh sách thả xuống với nhiều lựa chọn cho người dùng chọn."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Khi sử dụng thẻ &lt;input&gt; với type=\"radio\", mục đích của nó là để:",
+      "options": [
+        "A. Cho phép chọn nhiều tùy chọn",
+        "B. Cho phép chọn một tùy chọn duy nhất trong một nhóm",
+        "C. Nhập dữ liệu dạng chữ",
+        "D. Nhập dữ liệu dạng số"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Thẻ &lt;input&gt; với type=\"radio\" cho phép người dùng chọn một tùy chọn duy nhất trong một nhóm các tùy chọn."
+    }
+  ]
+}

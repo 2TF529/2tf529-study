@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-9-20-cau-trac-nghiem-toan-12-chan-troi-sang-tao-bai-1-xac-suat-co",
+  "sourceId": "vietjack:9-20-cau-trac-nghiem-toan-12-chan-troi-s",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "9.20 câu trắc nghiệm Toán 12 Chân trời sáng tạo Bài 1. Xác suất có điều kiện (Đúng sai - Trả lời ngắn) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: TRẮC NGHIỆM NHIỀU LỰA CHỌN Cho hai biến cố A và B là hai biến cố độc lập, với \\(P\\left( A \\right) = 0,2024,P\\left( B \\right) = 0,2025\\) . Tính \\(P\\left( {A|B} \\right)\\) .",
+      "options": [
+        "A. 0,2024.",
+        "B. 0,7976.",
+        "C. 0,7975.",
+        "D. 0,2025."
+      ],
+      "answer": "A",
+      "note": "Chọn A \\(P\\left( {A|B} \\right) = \\frac{{P\\left( {AB} \\right)}}{{P\\left( B \\right)}} = \\frac{{P\\left( A \\right).P\\left( B \\right)}}{{P\\left( B \\right)}} = P\\left( A \\right) = 0,2024\\)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hai biến cố A, B là hai biến cố độc lập với \\(P\\left( A \\right) = 0,2025,P\\left( B \\right) = 0,2026\\) . Tính \\(P\\left( {B|\\overline A } \\right)\\) .",
+      "options": [
+        "A. 0,2026.",
+        "B. 0,2025.",
+        "C. 0,7974.",
+        "D. 0,7975."
+      ],
+      "answer": "A",
+      "note": "Chọn A Vì A, B là hai biến cố độc lập nên \\(\\overline A \\), B cũng là hai biến cố độc lập . \\(P\\left( {B|\\overline A } \\right) = \\frac{{P\\left( {B\\overline A } \\right)}}{{P\\left( {\\overline A } \\right)}} = \\frac{{P\\left( B \\right).P\\left( {\\overline A } \\right)}}{{P\\left( {\\overline A } \\right)}} = P\\left( B \\right) = 0,2026\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Một hộp kín có 10 thẻ màu đỏ và 15 thẻ màu xanh. Lấy ngẫu nhiên lần lượt 2 thẻ, không trả lại. Xác suất để lần thứ hai lấy được thẻ màu xanh, biết rằng lần thứ nhất đã lấy được thẻ màu đỏ.",
+      "options": [
+        "A. \\(\\frac{3}{5}\\) .",
+        "B. \\(\\frac{5}{{12}}\\) .",
+        "C. \\(\\frac{7}{{12}}\\) .",
+        "D. \\(\\frac{{15}}{{24}}\\) ."
+      ],
+      "answer": "D",
+      "note": "Chọn D Gọi A là biến cố “Lần thứ nhất lấy được thẻ màu đỏ”; B là biến cố “Lần thứ hai lấy được thẻ màu xanh”. Khi đó \\(P\\left( {B|A} \\right) = \\frac{{15}}{{24}}\\)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hai biến cố A, B với \\[P\\left( B \\right) = 0,6;P\\left( {A|B} \\right) = 0,7;P\\left( {A|\\overline B } \\right) = 0,4\\] . Khi đó P(A) bằng.",
+      "options": [
+        "A. 0,7.",
+        "B. 0,4.",
+        "C. 0,58.",
+        "D. 0,52."
+      ],
+      "answer": "C",
+      "note": "Chọn C Vì \\(P\\left( B \\right) = 0,6 \\Rightarrow P\\left( {\\overline B } \\right) = 0,4\\). Có \\(P\\left( {AB} \\right) = P\\left( B \\right).P\\left( {A|B} \\right) = 0,6.0,7 = 0,42\\). Tương tự \\(P\\left( {A\\overline B } \\right) = P\\left( {\\overline B } \\right).P\\left( {A|\\overline B } \\right) = 0,4.0,4 = 0,16\\). Có \\(A = AB \\cup A\\overline B \\) và \\(AB \\cap A\\overline B = \\emptyset \\) nên \\(P\\left( A \\right) = P\\left( {AB} \\right) + P\\left( {A\\overline B } \\right) = 0,42 + 0,16 = 0,58\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Gieo lần lượt hai con xúc xắc cân đối và đồng chất. Tính xác suất để tổng số chấm xuất hiện trên hai con xúc xắc bằng 6. Biết rằng con xúc xắc thứ nhất xuất hiện mặt 4 chấm.",
+      "options": [
+        "A. \\(\\frac{2}{6}\\) .",
+        "B. \\(\\frac{1}{2}\\) .",
+        "C. \\(\\frac{1}{6}\\) .",
+        "D. \\(\\frac{5}{6}\\) ."
+      ],
+      "answer": "C",
+      "note": "Chọn C Gọi A là biến cố “Con xúc xắc thứ nhất xuất hiện mặt 4 chấm”; B là biến cố “Tổng số chấm xuất hiện trên hai con xúc xắc bằng 6”. Suy ra \\(P\\left( {B|A} \\right) = \\frac{1}{6}\\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong hộp có 3 viên bi màu trắng và 7 viên bi màu đỏ. Lấy lần lượt mỗi lần một viên theo cách lấy không trả lại. Xác suất để viên bi lấy lần thứ hai là màu đỏ nếu biết rằng viên bi lấy lần thứ nhất cũng là màu đỏ là",
+      "options": [
+        "A. \\(\\frac{2}{3}\\) .",
+        "B. \\(\\frac{2}{7}\\) .",
+        "C. \\(\\frac{1}{5}\\) .",
+        "D. \\(\\frac{1}{7}\\) ."
+      ],
+      "answer": "A",
+      "note": "Chọn A Gọi A là biến cố “Lần thứ nhất lấy được viên bi màu đỏ”; B là biến cố “Lần thứ hai lấy được viên bi màu đỏ”. Suy ra \\(P\\left( {B|A} \\right) = \\frac{6}{9} = \\frac{2}{3}\\)."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Trong hộp có 3 viên bi màu trắng và 7 viên bi màu đỏ. Lấy lần lượt mỗi lần một viên theo cách lấy không trả lại. Xác suất để viên bi lấy lần thứ hai là màu đỏ nếu biết rằng viên bi lấy lần thứ nhất là màu trắng.",
+      "options": [
+        "A. \\(\\frac{2}{3}\\) .",
+        "B. \\(\\frac{1}{3}\\) .",
+        "C. \\(\\frac{7}{9}\\) .",
+        "D. \\(\\frac{5}{9}\\) ."
+      ],
+      "answer": "C",
+      "note": "Chọn C Gọi A là biến cố “Lần thứ nhất lấy được viên bi màu trắng”; B là biến cố “Lần thứ hai lấy được viên bi màu đỏ”. Suy ra \\(P\\left( {B|A} \\right) = \\frac{7}{9}\\)."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Trong một kì thi, có 60% học sinh đã làm đúng bài toán đầu tiên và 40% học sinh đã làm đúng bài toán thứ hai. Biết rằng có 20% học sinh làm đúng cả hai bài toán. Xác suất để một học sinh làm đúng bài toán thứ hai biết rằng học sinh đó đã làm đúng bài toán đầu tiên là bao nhiêu?",
+      "options": [
+        "A. \\(0,5\\) .",
+        "B. \\(0,333\\) .",
+        "C. \\(0,2\\) .",
+        "D. \\(0,667\\) ."
+      ],
+      "answer": "B",
+      "note": "Chọn B Gọi A là biến cố “Học sinh đó làm đúng bài toán đầu tiên”; B là biến cố “Học sinh đó làm đúng bài toán thứ hai”. Suy ra \\(P\\left( {B|A} \\right) = \\frac{{P\\left( {AB} \\right)}}{{P\\left( A \\right)}} = \\frac{{0,2}}{{0,6}} \\approx 0,333\\)."
+    }
+  ]
+}

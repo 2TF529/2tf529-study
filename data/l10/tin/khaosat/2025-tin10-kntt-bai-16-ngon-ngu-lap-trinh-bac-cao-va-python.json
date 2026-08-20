@@ -1,0 +1,195 @@
+{
+  "id": "l10-tin-khaosat-2025-tin10-kntt-bai-16-ngon-ngu-lap-trinh-bac-cao-va-python",
+  "grade": "l10",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2025,
+  "code": "Bài 16: Ngôn ngữ lập trình bậc cao và Python",
+  "title": "TIN10 - KNTT-Bài 16: Ngôn ngữ lập trình bậc cao và Python",
+  "duration": 15,
+  "answerSource": "official",
+  "sourceId": "hochanh:5978",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Ai đã phát triển Ngôn ngữ lập trình Python?",
+      "options": [
+        "A. Wick van Rossum .",
+        "B. Rasmus Lerdorf .",
+        "C. Guido van Rossum .",
+        "D. Niene Stom ."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Ngôn ngữ Python được ra mắt lần đầu vào năm nào?",
+      "options": [
+        "A. 1995 .",
+        "B. 1972 .",
+        "C. 1981 .",
+        "D. 19 91."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Ngôn ngữ nào gần với ngôn ngữ tự nhiên nhất?",
+      "options": [
+        "A. Ngôn ngữ bậc cao.",
+        "B. Ngôn ngữ máy.",
+        "C. Hợp ngữ.",
+        "D. Cả ba phương án đều sai."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Ngôn ngữ nào sau đây không phải ngôn ngữ bậc cao?",
+      "options": [
+        "A. C /C++.",
+        "B. Assembly .",
+        "C. Python .",
+        "D. Java."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Phần mở rộng nào sau đây là đúng của tệp Python?",
+      "options": [
+        "A. python .",
+        "B. pl .",
+        "C. py.",
+        "D. p ."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Giá trị của biểu thức Python sau sẽ là bao nhiêu?\n4 + 15 / 5",
+      "options": [
+        "A. 7.",
+        "B. 2.",
+        "C. 4.",
+        "D. 1."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Điều nào sau đây được sử dụng để xác định một khối mã trong ngôn ngữ Python?",
+      "options": [
+        "A. Thụt lề.",
+        "B. Nháy “ ” .",
+        "C. Dấu ngoặc ( ) .",
+        "D. Dấu ngoặc [ ] ."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Thứ tự thực hiện các phép tính trong Python ở đáp án nào đúng?",
+      "options": [
+        "A. /, -, +, *.",
+        "B. (*, /), (+, -).",
+        "C. Từ trái sang phải.",
+        "D. (+, -), (*, /)."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "content": "Giá trị của biểu thức Python sau sẽ là bao nhiêu?\n6 – 6 / 2 + 4 * 5 – 6 / 2",
+      "options": [
+        "A. 17.",
+        "B. 20.",
+        "C. 18.",
+        "D. 19."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "content": "Câu lệnh sau bị lỗi ở đâu?\n>>> 3 + * 5",
+      "options": [
+        "A. 3 .",
+        "B. + hoặc *.",
+        "C. *.",
+        "D. Không có lỗi."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 11,
+      "type": "single",
+      "content": "Để kết thúc một phiên làm việc trong python, ta có thể?",
+      "options": [
+        "A. Nháy dấu X góc bên phải màn hình.",
+        "B. Gõ câu lệnh quit() rồi ấn Enter",
+        "C. Sử dụng câu lệnh Exit.",
+        "D. Cả ba cách làm trên đều đúng."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 12,
+      "type": "single",
+      "content": "Output của lệnh sau là:\nprint(1+ 2 + 3+ 4)",
+      "options": [
+        "A. 10 .",
+        "B. 15 .",
+        "C. 1 + 2 + 3 + 4 .",
+        "D. 1 + 2 + 3 ."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 13,
+      "type": "single",
+      "content": "Phát biểu nào sau đây sai khi nói về python?",
+      "options": [
+        "A. Python là ngôn ngữ lập trình bậc cao.",
+        "B. Python có mã nguồn mở thu hút được nhiều nhà khoa học cùng phát triển.",
+        "C. Python có các lệnh phức tạp nên không phổ biến trong giáo dục.",
+        "D. Python có các câu lệnh khá gần ngôn ngữ tự nhiên."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 14,
+      "type": "single",
+      "content": "Chọn phát biểu đúng khi nói về môi trường lập trình Python?",
+      "options": [
+        "A. Chế độ soạn thảo có dấu nhắc.",
+        "B. Ngoài chế độ gõ lệnh trực tiếp và soạn thảo còn có các chế độ khác",
+        "C. Chế độ gõ lệnh trực tiếp thích hợp cho việc tính toán và kiểm tra nhanh các lệnh",
+        "D. Chế độ gõ lệnh trực tiếp có con trỏ soạn thảo."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 15,
+      "type": "single",
+      "content": "Dùng câu lệnh print và kí tự nào để viết được đoạn văn xuống dòng giữa xâu?",
+      "options": [
+        "A. Cặp dấu nháy đơn.",
+        "B. Cặp ba dấu nháy kép.",
+        "C. Cặp dấu nháy kép.",
+        "D. Không thể thực hiện được."
+      ],
+      "answer": "B"
+    }
+  ]
+}

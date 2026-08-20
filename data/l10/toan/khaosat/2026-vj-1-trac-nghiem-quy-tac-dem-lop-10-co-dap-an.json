@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-trac-nghiem-quy-tac-dem-lop-10-co-dap-an",
+  "sourceId": "vietjack:1-trac-nghiem-quy-tac-dem-lop-10-co-dap-",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.Trắc nghiệm Quy tắc đếm lớp 10 (có đáp án)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Bạn An muốn mua một cây bút mực và một cây bút chì. Các cây bút mực có 8 màu khác nhau, các cây bút chì cũng có 8 màu khác nhau. Như vậy bạn An có bao nhiêu cách chọn.",
+      "options": [
+        "A. 64;",
+        "B. 16;",
+        "C. 32;",
+        "D. 20 ."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A Việc bạn An mua một cây bút mực và một cây bút chì được chia làm hai công đoạn như sau: Công đoạn 1, chọn cây bút mực: có 8 cách; Công đoạn 2, chọn cây bút chì: có 8 cách. Theo quy tắc nhân, số cách mua một cây bút mực và một cây bút chì là: 8.8 = 64 (cách )."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Một người vào cửa hàng ăn, người đó chọn thực đơn gồm 1 món ăn trong 5 món, 1 loại quả tráng miệng trong 5 loại quả tráng miệng và 1 nước uống trong 3 loại nước uống. Có bao nhiêu cách chọn thực đơn.",
+      "options": [
+        "A. 25;",
+        "B. 75;",
+        "C. 100;",
+        "D. 15."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải Đáp án đúng là: B Việc ngườn chọn thực đơn được chia làm 3 công đoạn: Công đoạn 1. Chọn món ăn: có 5 cách chọn. Công đoạn 2. Ứng với món ăn được chọn, số cách chọn quả tráng miệng là: có 5 cách chọn. Công đoạn 3. Ứng với món ăn và quả đã chọn, số cách chọn nước uống: có 3 cách chọn. Theo quy tắc nhân, số cách chọn thực đơn là: 5.5.3 = 75 (cách chọn)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho các số 1, 5, 6, 7 có thể lập được bao nhiêu số tự nhiên có 4 chữ số với các chữ số đôi một khác nhau từ các số trên.",
+      "options": [
+        "A. 12;",
+        "B. 24;",
+        "C. 64;",
+        "D. 256."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải Đáp án đúng là: B Gọi số tự nhiên có 4 chữ số cần tìm là: a b c d ¯ (a ≠ 0) khi đó: Công đoạn 1. Chọn số a có 4 cách chọn (điều kiện a ≠ 0 nên a có thể chọn một trong các số 1, 5, 6, 7). Công đoạn 2. Chọn số b có 3 cách chọn (vì các chữ số đôi một khác nhau nên b ≠ a, vậy b không được chọn lại số a đã chọn). Công đoạn 3. Chọn số c có 2 cách chọn (vì các chữ số đôi một khác nhau nên c ≠ a, c ≠ b, vậy c không được chọn lại các số a, b đã chọn). Công đoạn 4. Chọn số d có 1 cách chọn (vì các chữ số đôi một khác nhau nên d ≠ a, d ≠ b, d ≠ c, vậy d không được chọn lại các số a, b, c đã chọn). Vậy áp dụng quy tắc nhân ta có số các số tự nhiên có 4 chữ số đôi một khác nhau có thể lập từ các số trên là: 4.3.2.1 = 24 (số)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho các chữ số 2, 3, 4, 5, 6, 7 số các số tự nhiên chẵn có 3 chữ số lập thành từ các chữ số đã cho là:",
+      "options": [
+        "A. 36;",
+        "B. 18;",
+        "C. 256;",
+        "D. 108;"
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải Đáp án đúng là: D Gọi số tự nhiên có 3 chữ số cần tìm là: a b c ¯ (a ≠ 0; a, b, c ∈ {2; 3; 4; 5; 6; 7}) khi đó: Công đoạn 1. Chọn chữ số c có 3 cách chọn ( vì a b c ¯ là số chẵn nên c chỉ có thể chọn một trong các số 2, 4, 6). Công đoạn 2. Chọn chữ số a có 6 cách chọn (vì a được chọn tuỳ ý nên a có thể chọn một trong 6 số 2, 3, 4, 5, 6, 7). Công đoạn 3. Chọn số b có 6 cách chọn (vì b được chọn tuỳ ý nên b có thể chọn một trong 6 số 2, 3, 4, 5, 6, 7). Vậy áp dụng quy tắc nhân, số các số tự nhiên chẵn có 3 chữ số là được lập từ các số trên là: 6.6.3 = 108 (số)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Từ các chữ số 0; 1; 2; 3; 4; 5; 6 có thể lập được bao nhiêu số tự nhiên chẵn có ba chữ số?",
+      "options": [
+        "A. 210;",
+        "B. 105;",
+        "C. 168;",
+        "D. 145."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là: C Gọi số có ba chữ số cần tìm là a b c ¯ , với a ≠ 0; a, b, c ∈ {0; 1; 2; 3; 4; 5; 6}. Công đoạn 1. Chọn số c có 4 cách chọn (vì số a b c ¯ là số chẵn nên c có thể chọn một trong 4 số là 0; 2; 4; 6) Công đoạn 2, chọn số a có 6 cách chọn (vì a ≠ 0 nên a có thể chọn một trong 6 số là 1; 2; 3; 4; 5; 6) Công đoạn 3, chọn số b có 7 cách chọn(vì b chọn tuỳ ý nên b có thể chọn một trong 7 số là 0; 1; 2; 3; 4; 5; 6) Tổng kết, số các số tự nhiên chẵn có 3 chữ số lập từ các số trên là: 4.6.7 = 168 (số)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Bạn Dũng có 8 quyển truyện tranh khác nhau và 7 quyển tiểu thuyết khác nhau. Bạn Dũng có bao nhiêu cách chọn ra một quyển sách để đọc vào cuối tuần.",
+      "options": [
+        "A. 8;",
+        "B. 7;",
+        "C. 56;",
+        "D. 15."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải Đáp án đúng là: D Để bạn Dũng chọn một quyển sách để đọc vào cuối tuần có hai phương án sau: Phương án 1. Quyển sách được chọn là truyện tranh, có 8 cách chọn. Phương án 2. Quyển sách được chọn là tiểu thuyết, có 7 cách chọn. Vậy theo quy tắc cộng, số cách bạn Dũng chọn một quyển sách để đọc vào cuối tuần là 8 + 7 = 15 (cách)."
+    }
+  ]
+}

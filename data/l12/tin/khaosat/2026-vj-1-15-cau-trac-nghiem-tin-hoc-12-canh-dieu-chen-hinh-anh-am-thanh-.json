@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-12-canh-dieu-chen-hinh-anh-am-thanh-",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-12-canh-die",
+  "grade": "l12",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 12 Cánh diều Chèn hình ảnh, âm thanh, video và sử dụng khung có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Câu 1: Thẻ nào được sử dụng để chèn hình ảnh vào trang web?",
+      "options": [
+        "A. &lt;img&gt;",
+        "B. &lt;audio&gt;",
+        "C. &lt;video&gt;",
+        "D. <iframe"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Thẻ &lt;img&gt; được dùng để chèn hình ảnh vào trang web. Các thẻ khác dùng để chèn âm thanh, video, hoặc nhúng tài nguyên từ trang web khác."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Thuộc tính nào của thẻ &lt;img&gt; xác định tên tệp ảnh?",
+      "options": [
+        "A. alt",
+        "B. width",
+        "C. height",
+        "D. src"
+      ],
+      "answer": "D",
+      "note": "Đáp án: D Giải thích: Thuộc tính src của thẻ &lt;img&gt; xác định tên tệp ảnh và có thể bao gồm cả đường dẫn đến tệp ảnh."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Thẻ nào được sử dụng để chèn âm thanh vào trang web?",
+      "options": [
+        "A. &lt;img&gt;",
+        "B. &lt;audio&gt;",
+        "C. &lt;video&gt;",
+        "D. &lt;iframe&gt;"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Thẻ &lt;audio&gt; được dùng để chèn âm thanh vào trang web. Các thẻ khác được dùng để chèn hình ảnh, video, hoặc nhúng nội dung từ trang web khác."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Thuộc tính nào của thẻ &lt;audio&gt; dùng để hiển thị bảng điều khiển âm thanh trên trình duyệt?",
+      "options": [
+        "A. src",
+        "B. controls",
+        "C. autoplay",
+        "D. loop"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Thuộc tính controls của thẻ &lt;audio&gt; hiển thị bảng điều khiển để người dùng có thể tương tác với âm thanh."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Thẻ nào được sử dụng để chèn video vào trang web?",
+      "options": [
+        "A. &lt;img&gt;",
+        "B. &lt;audio&gt;",
+        "C. &lt;video&gt;",
+        "D. &lt;iframe&gt;"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Thẻ &lt;video&gt; được dùng để chèn video vào trang web. Các thẻ khác dùng để chèn hình ảnh, âm thanh, hoặc nhúng nội dung từ trang web khác."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Thuộc tính nào của thẻ &lt;video&gt; cho phép hiển thị bảng điều khiển video trên trình duyệt?",
+      "options": [
+        "A. src",
+        "B. controls",
+        "C. autoplay",
+        "D. loop"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Thuộc tính controls của thẻ &lt;video&gt; hiển thị bảng điều khiển để người dùng có thể tương tác với video."
+    }
+  ]
+}

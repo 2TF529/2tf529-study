@@ -1,0 +1,78 @@
+{
+  "id": "2026-vj-2-10-bai-tap-nhan-biet-goc-phang-cua-goc-nhi-dien-va-tinh-goc-pha",
+  "sourceId": "vietjack:2-10-bai-tap-nhan-biet-goc-phang-cua-goc",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.10 Bài tập Nhận biết góc phẳng của góc nhị diện và tính góc phẳng nhị diện (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho hình chóp S.ABCD có đáy ABCD là hình vuông, cạnh bên SA vuông góc với mặt phẳng đáy. Góc phẳng nhị diện [S, BC, A] là",
+      "options": [
+        "A. S B A ^",
+        "B. S C A ^",
+        "C. A S C ^",
+        "D. A S B ^"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Vì SA ^ (ABCD) ⇒ SA ^ BC. Ta có: B C ⊥ A B B C ⊥ S A ⇒ B C ⊥ S A B ⇒ B C ⊥ S B . Khi đó: S B C ∩ A B C = B C S B ⊥ B C A B ⊥ B C ⇒ S , B C , A = S B A ^ ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hình chóp S.ABC có SA ^ (ABC), đáy ABC là tam giác đều cạnh a và S A = 3 a 2 . Tính số đo góc phẳng nhị diện [S, BC, A].",
+      "options": [
+        "A. 60 ° ;",
+        "B. 90 ° ;",
+        "C. 30 ° ;",
+        "D. 45 ° ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Gọi I là trung điểm BC ⇒ AI ^ BC (vì ABC là tam giác đều ) (1). Vì SA ^ (ABC) ⇒ SA ^ BC (2). Từ (1) và (2) ⇒ BC ^ (SAI) ⇒ BC ^ SI. Khi đó: S B C ∩ A B C = B C S I ⊥ B C A I ⊥ B C ⇒ S , B C , A = S I A ^ . Mà D ABC đều cạnh a nên A I = a 3 2 . Xét D SAI vuông tại A , ta có: tan S I A ^ = S A A I = 3 ⇒ S I A ^ = 60 ° ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho hình chóp tứ giác đều S.ABCD có cạnh đáy bằng a, chiều cao hình chóp bằng a 2 3 . Số đo của góc phẳng nhị diện [S, BC, A] bằng",
+      "options": [
+        "A. 60 ° ;",
+        "B. 75 ° ;",
+        "C. 30 ° ;",
+        "D. 45 ° ."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Gọi O là tâm của hình vuông ABCD và I là trung điểm của BC. Suy ra OI ^ BC. Vì S.ABCD là hình chóp tứ giác đều nên SO ^ (ABCD) và S O = a 2 3 . Và SC = SB nên tam giác SBC cân tại S ⇒ SI ^ BC. Ta có: S O = a 2 3 ⇒ S , B C , A = S I O ^ . Ta có: OI là đường trung bình tam giác ABC nên ⇒ S , B C , A = S I O ^ . Xét D SIO vuông tại O, ta có: tan S I O ^ = S O O I = 3 3 ⇒ S I O ^ = 30 ° . Vậy số đo góc phẳng nhị diện [S, BC, A] bằng 30 ° ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho tứ diện OABC có OA, OB, OC đôi một vuông góc nhau và O B = O C = a 6 , OA = a . Tính số đo của góc phẳng nhị diện [O, BC, A].",
+      "options": [
+        "A. 60 ° ;",
+        "B. 30 ° ;",
+        "C. 45 ° ;",
+        "D. 90 ° ."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải: Đáp án đúng là: B Gọi I là trung điểm của BC. Vì D OBC vuông cân tại O ⇒ OI ^ BC (1). Vì OA ^ OB và OA ^ OC nên OA ^ (OBC) ⇒ OA ^ BC (2). Từ (1) và (2), suy ra BC ^ (AOI) ⇒ BC ^ AI Khi đó : O B C ∩ A B C = B C B C ⊥ A I B C ⊥ O I ⇒ O , B C , A = O I A ^ . Và O I = 1 2 B C = 1 2 O B 2 + O C 2 = a 3 . Xét D OAI vuông tại O, ta có : O I = 1 2 B C = 1 2 O B 2 + O C 2 = a 3 . Vậy [O, BC, A] = 30 ° ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho hình chóp S.ABCD có đáy ABCD là hình chữ nhật, AB = 2a, AD = a, D SAD đều và nằm trong mặt phẳng vuông góc với mặt đáy. Gọi j là góc phẳng nhị diện [S, BC, A]. Khẳng định nào sau đây là đúng ?",
+      "options": [
+        "A. j = 60 ° ;",
+        "B. tan φ = 3 4 ;",
+        "C. j = 30 ° ;",
+        "D. tan φ = 3 4 ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Gọi H, K lần lượt là trung điểm của AD, BC. Vì D SAD đều nên SH ^ AD mà (SAD) ^ (ABCD) ⇒ SH ^ (ABCD) ⇒ SH ^ BC. Lại có HK ^ BC nên BC ^ (SHK) ⇒ BC ^ SK. Ta có: S B C ∩ A B C = B C H K ⊥ B C S K ⊥ B C ⇒ S , B C , A = S K H ^ = φ . Vì D SAD đều cạnh a nên S H = a 3 2 và HK = AB = 2a Xét D SHK vuông tại H , ta có: tan φ = tan S K H ^ = S H H K = 3 4 ."
+    }
+  ]
+}

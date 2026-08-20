@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-3-10-bai-tap-bai-toan-thuc-tien-gan-voi-phep-tinh-logarit-co-loi-",
+  "sourceId": "vietjack:3-10-bai-tap-bai-toan-thuc-tien-gan-voi-",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.10 Bài tập Bài toán thực tiễn gắn với phép tính lôgarit (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Biết rằng khi độ cao tăng lên, áp suất không khí sẽ giảm và công thức tính áp suất dựa trên độ cao là a = 15 500(5 – logp), trong đó a là độ cao so với mực nước biển (tính bằng mét) và p là áp suất không khí (tính bằng pascal). Á p suất không khí ở đỉnh Everest có độ cao 8 850 m so với mực nước biển là bao nhiêu?",
+      "options": [
+        "A. 26 855,44 p a scal;",
+        "B. 26 855,4 5 p a scal;",
+        "C. 2 8 855,44 p a scal;",
+        "D. 2 8 855,4 5 p a scal."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có đỉnh Everest có độ cao 8 850 m so với mực nước biển nên a = 8 850. Khi đó : 15 500(5 – log p) = 8 850 ⇔ log p = 1 373 310 ⇔ p = 10 1 373 310 ≈ 26 855 , 44. Vậy áp suất không khí ở đỉnh Everest xấp xỉ 26 855,44 p a scal ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Bác An gửi tiết kiệm ngân hàng 100 triệu đồng kì hạn 12 tháng, với lãi suất không đổi là 6% một năm. Khi đó sau n năm gửi thì tổng số tiền bác An thu được (cả vốn lẫn lãi) cho bởi công thức sau: A = 100 . (1 + 0,06) n (triệu đồng). Hỏi sau ít nhất bao nhiêu năm, tổng số tiền bác An thu được không dưới 150 triệu đồng?",
+      "options": [
+        "A. 5 năm;",
+        "B. 6 năm;",
+        "C. 7 năm;",
+        "D. 8 năm."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có: A = 100 . (1 + 0,06) n = 100 . 1,06 n . Với A = 150, ta có: 100 . 1,06 n = 150 hay 1,06 n = 1,5, tức là n = log 1,06 1,5 ≈ 6,96. Vì gửi tiết kiệm kì hạn 12 tháng (tức là 1 năm) nên n phải là số nguyên. Do đó ta chọn n = 7. Vậy sau ít nhất 7 năm thì bác An nhận được số tiền ít nhất là 150 triệu đồng."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Tốc độ của gió S (dặm/giờ) gần tâm của một con lốc xoáy được tính bởi công thức S = 93logd + 65, trong đó d (dặm) là quãng đường cơn lốc xoáy đó di chuyển được. Tính quãng đường cơn lốc xoáy đã di chuyển được, biết tốc độ của gió ở gần tâm bằng 140 dặm/giờ (làm tròn kết quả đến hàng phần mười).",
+      "options": [
+        "A. 6,5 dặm;",
+        "B. 6,4 dặm;",
+        "C. 6,3 dặm;",
+        "D. 6,1 dặm."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có: S = 93logd + 65, trong đó d (dặm) là quãng đường cơn lốc xoáy đó di chuyển được. Với S = 140 (dặm/giờ) suy ra: 93logd + 65 = 140 ⇒ log d = 75 93 ⇒ d = 10 75 93 ≈ 6 , 4 (dặm). Vậy khi tốc độ của gió ở gần tâm bằng 140 dặm/giờ thì cơn lốc xoáy di chuyển được quãng đường gần bằng 6,4 dặm."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Độ pH của một dung dịch được tính theo công thức pH = –log x, trong đó x là nồng độ ion H + của dung dịch đó tính bằng mol/L. Biết rằng độ pH của dung dịch A lớn hơn độ pH của dung dịch B là 0,7. Dung dịch B có nồng độ ion H + gấp bao nhiêu lần nồng độ ion H + của dung dịch A?",
+      "options": [
+        "A. 3;",
+        "B. 4;",
+        "C. 5;",
+        "D. 6."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có: pH A = – log x A ; pH B = – log x B Khi đó pH A – pH B = –logx A + logx B = log x B x A Do đó log x B x A = 0 , 7 ⇔ x B x A = 10 0 , 7 ≈ 5 (lần). Vậy dung dịch B có nồng độ ion H + gấp 5 lần nồng độ ion H + của dung dịch A."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Với nước biển có nồng độ muối 30%, nhiệt độ T ( o C) của nước biển được tính bởi công thức T = 7,9ln(1,0245 – d) + 61,84, ở đó d (g/cm 3 ) là khối lượng riêng của nước biển. Biết vùng biển khơi mặt ở một khu vực có nồng độ muối 30% và nhiệt độ là 8 ° C. Tính khối lượng riêng của nước biển ở vùng biển đó (làm tròn kết quả đến hàng phần chục nghìn).",
+      "options": [
+        "A. 1,0234 (g/cm 3 );",
+        "B. 1,0235 (g/cm 3 );",
+        "C. 1,0324 (g/cm 3 );",
+        "D. 1,0325 (g/cm 3 )."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Do vùng biển khơi mặt ở một khu vực có nồng độ muối 30% và nhiệt độ là 8 o C nên ta có T = 8. Suy ra: 7,9ln(1,0245 – d) + 61,84 = 8 ⇒ ln 1 , 0245 − d = − 2 692 395 ⇒ 1 , 0245 − d = e − 2 692 395 ⇒ d = 1 , 0245 − e − 2 692 395 ≈ 1 , 0234. Vậy khối lượng riêng của nước biển ở vùng biển đó là d ≈ 1,0234 (g/cm 3 )."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Một người gửi tiết kiệm 100 triệu đồng vào ngân hàng theo thể thức lãi kép kì hạn 6 tháng với lãi suất 8% một năm. Giả sử lãi suất không thay đổi. Hỏi sau bao lâu người đó nhận được ít nhất 120 triệu đồng? A. 31 tháng; B. 30 tháng; C. 32 tháng; D. 28 tháng.",
+      "options": [
+        "A. 31 tháng;",
+        "B. 30 tháng;",
+        "C. 32 tháng;",
+        "D. 28 tháng."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Vì lãi suất 8% một năm nên lãi suất kì hạn 6 tháng sẽ là r = 4% = 0,04. Thay P = 100; r = 0,04 và A = 120 vào công thức A = P(1 + r) N , ta được: 120 = 100(1 + 0,04) N ⇔ 1,2 = 1,04 N ⇔ N = log 1,04 1,2 ≈ 4,65. Vì gửi tiết kiệm kì hạn 6 tháng nên N phải là số nguyên. Do đó ta chọn N = 5 . Vậy sau 5 k ì gửi tiết kiệm kì hạn 6 tháng, tức là sau 30 tháng, người đó sẽ nhận được ít nhất 120 triệu đồng."
+    }
+  ]
+}

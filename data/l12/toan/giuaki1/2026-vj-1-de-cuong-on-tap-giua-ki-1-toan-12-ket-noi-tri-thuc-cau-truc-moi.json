@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-de-cuong-on-tap-giua-ki-1-toan-12-ket-noi-tri-thuc-cau-truc-moi",
+  "sourceId": "vietjack:1-de-cuong-on-tap-giua-ki-1-toan-12-ket-",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "giuaki1",
+  "year": 2026,
+  "title": "1.Đề cương ôn tập giữa kì 1 Toán 12 Kết nối tri thức cấu trúc mới (có tự luận) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Phần I. Câu trắc nghiệm nhiều phương án lựa chọn. Mỗi câu chỉ chọn một phương án. Tìm khoảng đồng biến của hàm số: \\[y = - {x^4} + 4{x^2} - 3\\] .",
+      "options": [
+        "A. \\((0; + \\infty )\\) .",
+        "B. \\(( - \\infty ;0)\\) .",
+        "C. \\(( - \\infty ; - \\sqrt 2 )\\) và \\((0;\\sqrt 2 )\\) .",
+        "D. \\((\\sqrt 2 ; + \\infty )\\) ."
+      ],
+      "answer": "C",
+      "note": "Hàm số đã cho xác định trên \\[{\\rm{D}} = \\mathbb{R}\\] . Có \\[y' = - 4{x^3} + 8x\\] . Cho \\[y' = 0 \\Leftrightarrow - 4{x^3} + 8x = 0 \\Leftrightarrow 4x( - {x^2} + 2) = 0 \\Leftrightarrow \\left[ \\begin{array}{l}4x = 0\\\\ - {x^2} + 2 = 0\\end{array} \\right. \\Leftrightarrow \\left[ \\begin{array}{l}x = 0\\\\{x^2} = 2\\end{array} \\right. \\Leftrightarrow \\left[ \\begin{array}{l}x = 0\\\\x = \\pm \\sqrt 2 \\end{array} \\right.\\] . Bảng biến thiên : Dựa vào bảng biến thiên, hàm số đồng biến trên: \\[\\left( { - \\infty ; - \\sqrt 2 } \\right)\\] và \\[\\left( {0;\\sqrt 2 } \\right)\\] . Chọn C."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Tìm khoảng nghịch biến của hàm số: \\[y = \\frac{{3 - 2x}}{{x + 7}}\\] .",
+      "options": [
+        "A. \\(( - \\infty ;7)\\) .",
+        "B. \\(( - \\infty ; + \\infty )\\) .",
+        "C. \\(( - \\infty ; - 7)\\) và \\(( - 7; + \\infty )\\) .",
+        "D. \\(( - 10; + \\infty )\\)"
+      ],
+      "answer": "C",
+      "note": "Hàm số đã cho xác định và liên tục trên: \\[{\\rm{D}} = \\mathbb{R}\\backslash \\left\\{ { - 7} \\right\\}\\] . Tính \\[y' = \\frac{{\\left( { - 2} \\right).7 - 1.3}}{{{{\\left( {x + 7} \\right)}^2}}} = \\frac{{ - 17}}{{{{\\left( {x + 7} \\right)}^2}}} < 0,\\forall x \\in {\\rm{D}} = \\mathbb{R}\\backslash \\left\\{ { - 7} \\right\\}\\] . Bảng biến thiên: Hàm số đã cho luôn nghịch biến trên: \\[\\left( { - \\infty ; - 7} \\right)\\] và \\[\\left( { - 7; + \\infty } \\right)\\] . Chọn C ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Hàm số \\(y = \\sqrt {2x - {x^2}} \\) nghịch biến trên khoảng nào.",
+      "options": [
+        "A. \\(\\left( {0;1} \\right)\\) .",
+        "B. \\(\\left( { - \\infty ;1} \\right)\\) .",
+        "C. \\(\\left( {1;2} \\right)\\) .",
+        "D. \\(\\left( {1; + \\infty } \\right)\\) ."
+      ],
+      "answer": "C",
+      "note": "Tập xác định \\(D = \\left[ {0;2} \\right]\\) . Ta có \\(y' = \\frac{{1 - x}}{{\\sqrt {2x - {x^2}} }}\\) ; \\(y' = 0 \\Leftrightarrow x = 1\\) . Bảng biến thiên: Vậy hàm số nghịch biến trên khoảng \\(\\left( {1;2} \\right)\\) . Chọn C ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Hàm số nào sau đây đồng biến trên \\(\\mathbb{R}\\) ?",
+      "options": [
+        "A. \\[y = \\frac{{x - 1}}{{x + 2}}\\] .",
+        "B. \\[y = {x^3} + 4{x^2} + 3x--1\\] .",
+        "C. \\[y = {x^4}--2{x^2}--1\\] .",
+        "D. \\[y = \\frac{1}{3}{x^3} - \\frac{1}{2}{x^2} + 3x + 1\\] ."
+      ],
+      "answer": "D",
+      "note": "Hàm số \\[y = \\frac{1}{3}{x^3} - \\frac{1}{2}{x^2} + 3x + 1\\] có \\(y' = {x^2} - x + 3 = {\\left( {x - \\frac{1}{2}} \\right)^2} + \\frac{{11}}{4} > 0,\\,\\forall x \\in \\mathbb{R}\\) . Chọn D ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho các hàm số sau: \\(\\left( I \\right):y = - {x^3} + 3{x^2} - 3x + 1;\\left( {II} \\right):y = \\sin x - 2x;\\)\\(\\left( {III} \\right):y = - \\sqrt {{x^3} + 2} ;\\left( {IV} \\right):y = \\frac{{x - 2}}{{1 - x}}\\) . Hỏi hàm số nào nghịch biến trên toàn trục số?",
+      "options": [
+        "A. (I), (II).",
+        "B. (I), (II) và (III).",
+        "C. (I), (II) và (IV).",
+        "D. (II), (III)."
+      ],
+      "answer": "A",
+      "note": "(I): \\(y' = - 3{x^2} + 6x - 3 = - 3{\\left( {x - 1} \\right)^2} \\le 0,\\forall x \\in \\mathbb{R}\\) . (II): \\(y' = \\cos x - 2 < 0,\\forall x \\in \\mathbb{R}\\) . (III): \\(y' = - \\frac{{3{x^2}}}{{2\\sqrt {{x^3} + 2} }} \\le 0,\\forall x \\in \\left( { - \\sqrt[3]{2}; + \\infty } \\right)\\) . (IV ): \\(y' = - \\frac{1}{{{{\\left( {1 - x} \\right)}^2}}} < 0,\\forall x \\ne 1\\) . Chọn A ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho hàm số \\[y = f\\left( x \\right)\\] xác định và liên tục trên R và có đồ thị là đường cong trong hình vẽ bên. Hỏi điểm cực tiểu của đồ thị hàm số \\[y = f\\left( x \\right)\\] là điểm nào?",
+      "options": [
+        "A. \\[x = - 2.\\]",
+        "B. \\[y = - 2.\\]",
+        "C. \\[M\\left( {0; - 2} \\right).\\]",
+        "D. \\[N\\left( {2\\,;2} \\right).\\]"
+      ],
+      "answer": "C",
+      "note": "Dựa hình vẽ ta thấy điểm \\(M\\left( {0; - 2} \\right)\\) là điểm cực tiểu của đồ thị hàm số. Chọn C ."
+    }
+  ]
+}

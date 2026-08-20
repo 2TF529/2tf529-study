@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-12-canh-dieu-mo-hinh-hop-bo-cuc-tran",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-12-canh-die",
+  "grade": "l12",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 12 Cánh diều Mô hình hộp, bố cục trang web có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Câu 1: Mô hình hộp trong CSS bao gồm các vùng nào?",
+      "options": [
+        "A. Vùng nội dung, vùng đệm, vùng đường viền, vùng lề",
+        "B. Vùng đầu trang, vùng nội dung, vùng chân trang",
+        "C. Vùng tiêu đề, vùng nội dung, vùng footer, vùng menu",
+        "D. Vùng hiển thị, vùng cấu hình, vùng màu nền"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Mô hình hộp trong CSS bao gồm các vùng nội dung (content), đệm (padding), đường viền (border), và lề (margin). Các vùng này giúp định hình cách phần tử được trình bày trên trang."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Thuộc tính CSS nào được sử dụng để thay đổi kiểu hiển thị của phần tử thành hiển thị theo dòng?",
+      "options": [
+        "A. display: block;",
+        "B. display: inline;",
+        "C. display: flex;",
+        "D. display: grid;"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Để thay đổi kiểu hiển thị của phần tử thành hiển thị theo dòng, bạn sử dụng thuộc tính CSS display: inline;. Phần tử sẽ hiển thị trên cùng một dòng với các phần tử khác."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cú pháp nào đúng để khai báo một phần tử hiển thị theo khối trong CSS?",
+      "options": [
+        "A. display: inline;",
+        "B. display: block;",
+        "C. display: list-item;",
+        "D. display: none;"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Để thiết lập kiểu hiển thị của phần tử theo khối, bạn sử dụng thuộc tính display: block;. Phần tử sẽ chiếm toàn bộ chiều rộng của dòng và bắt đầu từ một dòng mới."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Đâu là phần tử HTML thường được hiển thị theo khối?",
+      "options": [
+        "A. &lt;img&gt;",
+        "B. &lt;a&gt;",
+        "C. &lt;p&gt;",
+        "D. &lt;span&gt;"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Phần tử &lt;p&gt; (paragraph) thường được hiển thị theo khối. Các phần tử hiển thị theo khối như &lt;h1&gt;, &lt;p&gt;, và &lt;div&gt; thường bắt đầu từ một dòng mới và chiếm toàn bộ chiều rộng của dòng"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Phần nào trong bố cục trang web cung cấp thông tin như logo và tiêu đề trang web?",
+      "options": [
+        "A. Phần đầu trang (header)",
+        "B. Thanh điều hướng (navigation menu)",
+        "C. Phần nội dung (content)",
+        "D. Phần chân trang (footer)"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Phần đầu trang (header) của một trang web thường chứa thông tin như logo, tiêu đề trang web, và có thể cả các liên kết điều hướng chính."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Khi sử dụng mô hình hộp trong CSS, đâu là khu vực nằm giữa vùng nội dung và vùng đường viền?",
+      "options": [
+        "A. Vùng đệm (padding)",
+        "B. Vùng lề (margin)",
+        "C. Vùng tiêu đề (header)",
+        "D. Vùng chân trang (footer)"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Vùng đệm (padding) nằm giữa vùng nội dung và vùng đường viền trong mô hình hộp, và giúp tạo khoảng cách giữa nội dung và đường viền của phần tử."
+    }
+  ]
+}

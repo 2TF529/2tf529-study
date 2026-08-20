@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-9-10-bai-tap-vi-tri-tuong-doi-giua-hai-mat-phang-co-loi-giai",
+  "sourceId": "vietjack:9-10-bai-tap-vi-tri-tuong-doi-giua-hai-m",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "9.10 bài tập Vị trí tương đối giữa hai mặt phẳng có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Trong không gian Oxyz, cho mặt phẳng (P): 2x + y – 2z + 4 = 0. Mặt phẳng nào sau đây vuông góc với (P)?",
+      "options": [
+        "A. 2x + y – 2z + 5 = 0;",
+        "B. x + 2y + 2z – 5 = 0;",
+        "C. x + 3y – z + 1 = 0;",
+        "D. x + y + z – 6 = 0."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Mặt phẳng (P) có vectơ pháp tuyến là \\(\\overrightarrow n = \\left( {2;1; - 2} \\right)\\). Mặt phẳng x + 2y + 2z – 5 = 0 có vectơ pháp tuyến \\(\\overrightarrow {{n_1}} = \\left( {1;2;2} \\right)\\). Vì \\(\\overrightarrow n .\\overrightarrow {{n_1}} = 0\\) nên hai mặt phẳng này vuông góc với nhau."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Trong không gian Oxyz cho hai mặt phẳng (P): 2x – 3y + z – 4 = 0; (Q): 5x – 3y – 2z – 7 = 0. Vị trí tương đối của (P) và (Q) là:",
+      "options": [
+        "A. Cắt nhưng không vuông góc;",
+        "B. Vuông góc;",
+        "C. Trùng nhau;",
+        "D. Song song."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có \\(\\overrightarrow {{n_1}} = \\left( {2; - 3;1} \\right),\\overrightarrow {{n_2}} = \\left( {5; - 3; - 2} \\right)\\) lần lượt là vectơ pháp tuyến của mặt phẳng (P) và (Q). Ta thấy \\(\\overrightarrow {{n_1}} \\ne k\\overrightarrow {{n_2}} \\left( {k \\ne 0} \\right)\\) suy ra hai vectơ \\(\\overrightarrow {{n_1}} ,\\overrightarrow {{n_2}} \\) không cùng phương hay (P) cắt (Q). Mặt khác \\(\\overrightarrow {{n_1}} .\\overrightarrow {{n_2}} = 17 \\ne 0\\). Do đó (P) cắt (Q) nhưng không vuông góc."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trong không gian Oxyz, điều kiện của m để hai mặt phẳng (P): 2x + 2y – z = 0 và (Q): x + y + mz + 1 = 0 cắt nhau là",
+      "options": [
+        "A. \\(m = - \\frac{1}{2}\\);",
+        "B. \\(m \\ne - \\frac{1}{2}\\);",
+        "C. \\(m \\ne \\frac{1}{2}\\);",
+        "D. m ≠ −1."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B (P), (Q) có vectơ pháp tuyến lần lượt là \\(\\overrightarrow {{n_1}} = \\left( {2;2; - 1} \\right),\\overrightarrow {{n_2}} = \\left( {1;1;m} \\right)\\). (P) cắt (Q) khi và chỉ khi hai vectơ pháp tuyến không cùng phương nghĩa là \\(\\overrightarrow {{n_1}} \\ne k\\overrightarrow {{n_2}} \\left( {k \\ne 0} \\right)\\) \\( \\Leftrightarrow \\left( {2;2; - 1} \\right) \\ne k\\left( {1;1;m} \\right) \\Leftrightarrow m \\ne - \\frac{1}{2}\\)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Trong không gian Oxyz, cho hai mặt phẳng (P): x + (m + 1)y – 2z + m = 0 và (Q): 2x – y + 3 = 0, với m là tham số thực. Để (P) và (Q) vuông góc với nhau thì giá trị thực của m bằng bao nhiêu?",
+      "options": [
+        "A. m = −1;",
+        "B. m −5;",
+        "C. m = 1;",
+        "D. m = 3."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Mặt phẳng (P) có vectơ pháp tuyến \\(\\overrightarrow {{n_1}} = \\left( {1;m + 1; - 2} \\right)\\) và mặt phẳng (Q) có vectơ pháp tuyến \\(\\overrightarrow {{n_2}} = \\left( {2; - 1;0} \\right)\\). Để (P) (Q) \\(\\overrightarrow {{n_1}} .\\overrightarrow {{n_2}} = 0\\) \\( \\Leftrightarrow 2 - m - 1 + 0 = 0 \\Leftrightarrow m = 1\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Trong không gian Oxyz, cho hai mặt phẳng (α): x – 2y − 2z – 3 = 0; (β): 2x − 4y + (m – 1)z – 6 = 0 (m là tham số thực). Tìm m để (α) và (β) song song với nhau.",
+      "options": [
+        "A. m = −1;",
+        "B. m = 0;",
+        "C. m = 1;",
+        "D. Không tồn tại m."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Để (α) và (β) song song với nhau thì \\(\\frac{2}{1} = \\frac{{ - 4}}{{ - 2}} = \\frac{{m - 1}}{{ - 2}} \\ne \\frac{{ - 6}}{{ - 3}}\\), suy ra không tồn tại m."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong không gian Oxyz, cho hai mặt phẳng (P): 3x – 5y + 2z + 1 = 0 và (Q): 9x + (m – 11)y + (m 2 – 10)z – 4 = 0. Tìm m để mặt phẳng (P) song song với mặt phẳng (Q).",
+      "options": [
+        "A. m = 0;",
+        "B. m = 4;",
+        "C. m = ±4;",
+        "D. m = −4."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D (P) //(Q) khi và chỉ khi \\(\\frac{9}{3} = \\frac{{m - 11}}{{ - 5}} = \\frac{{{m^2} - 10}}{2} \\Leftrightarrow m = - 4\\)."
+    }
+  ]
+}

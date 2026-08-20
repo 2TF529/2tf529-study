@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-de-thi-cuoi-ki-2-tin-hoc-11-nam-2024-2025-so-nam-dinh-co-dap-an",
+  "sourceId": "vietjack:de-thi-cuoi-ki-2-tin-hoc-11-nam-2024-202",
+  "grade": "l11",
+  "subjectSlug": "tin",
+  "examType": "cuoiki2",
+  "year": 2026,
+  "title": "Đề thi cuối kì 2 Tin học 11 năm 2024-2025 Sở Nam Định có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 24. Mỗi câu hỏi thi sinh chỉ chọn một phương án. Cho cơ sở dữ liệu Quản lí học sinh có 2 bảng Hocsinh và Lophoc . Bảng Hocsinh (MaHS, HoTen, Gioitinh, MaLop), trong đó trường MaHS là khóa chính. Bảng Lop hoc (MaLop, TenLop, GVCN ); trong đó trường MaLop là khoá chính. Bảng Hocsinh được liên kết với bảng Lophoc. Phương án nào sau đây là khóa ngoài của bảng Hocsinh ?",
+      "options": [
+        "A. {GVCN}.",
+        "B. {MaHS}.",
+        "C. {MaLop}.",
+        "D. {HoTen}."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là C."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Thuật ngữ “bản ghi” dùng trong cơ sở dữ liệu quan hệ là để chỉ đối tượng nào sau đây?",
+      "options": [
+        "A. hàng.",
+        "B. khoá.",
+        "C. cột.",
+        "D. bảng."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là A."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Khi chạy các phần mềm nặng như đồ họa 3D hoặc chơi game, máy tính của bạn Nam bị phản hồi chậm (giật, lag). Đâu là giải pháp nâng cấp phần cứng phù hợp nhất để cải thiện khả năng xử lý của máy?",
+      "options": [
+        "A. Nâng cấp CPU có tốc độ xử lý và số nhân cao hơn.",
+        "B. Giảm dung lượng ổ đĩa cứng.",
+        "C. Nâng cấp màn hình có độ phân giải cao hơn.",
+        "D. Thay bàn phím mới có độ nhạy tốt hơn."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là A."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Khi sử dụng phần mềm mã nguồn mở, người dùng không được phép",
+      "options": [
+        "A. chia sẻ phần mềm cho người khác cùng sử dụng.",
+        "B. bán phần mềm như của riêng mình mà không ghi nguồn gốc.",
+        "C. cập nhật và cải tiến tính năng của phần mềm.",
+        "D. xem và chỉnh sửa mã nguồn theo cá nhân người sử dụng."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là B."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho bảng CASI trong cơ sở dữ liệu Quản lí nhạc như sau: Sid TenCS CS01 Minh Anh CS02 Lê Dung CS03 Tân Nhàn CS04 Hà Anh Phương án nào sau đây là truy vấn SQL tìm thông tin về ca sĩ có mã số (Sid) là CS02?",
+      "options": [
+        "A. SELECT Sid, TenCS FROM CASI ON Sid = 'CS02';",
+        "B. SELECT Sid, TenCS FROM CASI ORDER Sid = 'CS02';",
+        "C. SELECT Sid, TenCS FROM CASI BY Sid: 'CS02';",
+        "D. SELECT Sid, TenCS FROM CASI WHERE Sid = 'CS02';"
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là D."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Em mới quen được một bạn trên mạng, bạn đó muốn nhờ em chia sẻ giúp bạn một video có hình ảnh phản cảm. Em chọn cách nào sau đây để phù hợp với quy tắc ứng xử trên mạng xã hội?",
+      "options": [
+        "A. Không chia sẻ công khai, chỉ chia sẻ trong những nhóm kín.",
+        "B. Gửi cho từng người trong danh sách bạn bè của em.",
+        "C. Sẵn sàng chia sẻ công khai giúp bạn trên các trang mạng xã hội.",
+        "D. Không chia sẻ và nói với bạn không nên làm vậy."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là D."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Trong cơ sở dữ liệu quan hệ, mỗi cột trong bảng được gọi là",
+      "options": [
+        "A. khóa.",
+        "B. trường.",
+        "C. khoá chính.",
+        "D. bản ghi."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là B."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Các công việc thêm, sửa, xoá dữ liệu của bảng được gọi là",
+      "options": [
+        "A. khai thác thông tin.",
+        "B. truy cập dữ liệu.",
+        "C. cập nhật dữ liệu.",
+        "D. truy xuất dữ liệu."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là C."
+    }
+  ]
+}

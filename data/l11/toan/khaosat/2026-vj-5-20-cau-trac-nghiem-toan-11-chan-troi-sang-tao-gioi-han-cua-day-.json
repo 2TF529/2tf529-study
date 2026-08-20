@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-5-20-cau-trac-nghiem-toan-11-chan-troi-sang-tao-gioi-han-cua-day-",
+  "sourceId": "vietjack:5-20-cau-trac-nghiem-toan-11-chan-troi-s",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "5.20 câu trắc nghiệm Toán 11 Chân trời sáng tạo Giới hạn của dãy số có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Kết quả của giới hạn \\[\\mathop {{\\rm{lim}}}\\limits_{} \\left( {\\frac{{{\\rm{sin5n}}}}{{{\\rm{3n}}}} - {\\rm{2}}} \\right)\\] bằng:",
+      "options": [
+        "A. −2",
+        "B. 3",
+        "C. 0",
+        "D. \\[\\frac{5}{3}\\]"
+      ],
+      "answer": "A",
+      "note": "Ta có \\[{\\rm{0}} \\le \\left| {\\frac{{{\\rm{sin5n}}}}{{{\\rm{3n}}}}} \\right| \\le \\frac{{\\rm{1}}}{{\\rm{n}}}\\] mà \\[\\lim \\frac{1}{{\\rm{n}}} = 0\\] Nên theo nguyên lý kẹp có: \\[{\\mathop{\\rm li}\\nolimits} {\\rm{m}}\\,\\frac{{{\\rm{sin5n}}}}{{{\\rm{3n}}}}{\\rm{ = 0}}\\] do đó \\[\\mathop {\\lim }\\limits_{} \\left( {\\frac{{{\\rm{sin5n}}}}{{{\\rm{3n}}}} - 2} \\right) = - 2\\] Đáp án cần chọn là: A"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Kết quả của giới hạn \\[\\lim \\frac{{\\sqrt[{\\rm{3}}]{{\\rm{n}}}{\\rm{ + 1}}}}{{\\sqrt[{\\rm{3}}]{{{\\rm{n + 8}}}}}}\\] bằng:",
+      "options": [
+        "A. \\(\\frac{1}{2}\\)",
+        "B. 1",
+        "C. \\[\\frac{1}{8}\\]",
+        "D. \\[{\\rm{ + }}\\infty \\]"
+      ],
+      "answer": "B",
+      "note": "Ta có \\[{\\mathop{\\rm li}\\nolimits} {\\rm{m}}\\frac{{\\sqrt[{\\rm{3}}]{{\\rm{n}}}{\\rm{ + 1}}}}{{\\sqrt[{\\rm{3}}]{{{\\rm{n + 8}}}}}}{\\rm{ = lim}}\\frac{{{\\rm{1 + }}\\frac{{\\rm{1}}}{{\\sqrt[{\\rm{3}}]{{\\rm{n}}}}}}}{{\\sqrt[{\\rm{3}}]{{{\\rm{1 + }}\\frac{{\\rm{8}}}{{\\rm{n}}}}}}}{\\rm{ = }}\\frac{{\\rm{1}}}{{\\sqrt[{\\rm{3}}]{{\\rm{1}}}}}{\\rm{ = 1}}\\] Đáp án cần chọn là: B"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Kết quả của giới hạn \\[{\\mathop{\\rm li}\\nolimits} {\\rm{m}}\\frac{{{{\\rm{3}}^{\\rm{n}}} - {\\rm{2}}{\\rm{.}}{{\\rm{5}}^{{\\rm{n + 1}}}}}}{{{{\\rm{2}}^{{\\rm{n + 1}}}}{\\rm{ + }}{{\\rm{5}}^{\\rm{n}}}}}\\] bằng:",
+      "options": [
+        "A. −15",
+        "B. −10",
+        "C. 10",
+        "D. 15"
+      ],
+      "answer": "B",
+      "note": "\\[{\\rm{lim}}\\frac{{{{\\rm{3}}^{\\rm{n}}} - {\\rm{2}}{\\rm{.}}{{\\rm{5}}^{{\\rm{n + 1}}}}}}{{{{\\rm{2}}^{{\\rm{n + 1}}}}{\\rm{ + }}{{\\rm{5}}^{\\rm{n}}}}}{\\rm{ = lim}}\\frac{{{{\\left( {\\frac{{\\rm{3}}}{{\\rm{5}}}} \\right)}^{\\rm{n}}} - {\\rm{10}}}}{{{\\rm{2}}{\\rm{.}}{{\\left( {\\frac{{\\rm{2}}}{{\\rm{5}}}} \\right)}^{\\rm{n}}}{\\rm{ + 1}}}}{\\rm{ = }}\\frac{{ - {\\rm{10}}}}{{\\rm{1}}}{\\rm{ = }} - {\\rm{10}}\\] Đáp án cần chọn là: B"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hai dãy (u n ) và (v n ) có \\[{{\\rm{u}}_{\\rm{n}}}{\\rm{ = }}\\frac{{\\rm{1}}}{{\\rm{n}}}\\] và \\[{{\\rm{v}}_{\\rm{n}}}{\\rm{ = }}\\frac{{{{\\left( { - {\\rm{1}}} \\right)}^{\\rm{n}}}}}{{\\rm{n}}}\\]. Biết rằng \\[\\left| {\\frac{{{{\\left( { - {\\rm{1}}} \\right)}^{\\rm{n}}}}}{{\\rm{n}}}} \\right| \\le \\frac{{\\rm{1}}}{{\\rm{n}}}\\]. Chọn kết luận không đúng",
+      "options": [
+        "A. \\[{\\rm{lim}}{{\\rm{u}}_{\\rm{n}}}{\\rm{ = 0}}\\]",
+        "B. Không tồn tại giá trị \\[\\lim {{\\rm{v}}_{\\rm{n}}}\\]",
+        "C. \\[{\\mathop{\\rm li}\\nolimits} {\\rm{m}}{{\\rm{v}}_{\\rm{n}}}{\\rm{ = 0}}\\]",
+        "D. \\[\\lim {{\\rm{u}}_{\\rm{n}}} - {\\mathop{\\rm l}\\nolimits} {\\rm{im}}{{\\rm{v}}_{\\rm{n}}}{\\rm{ = 0}}\\]"
+      ],
+      "answer": "B",
+      "note": "Dễ thấy \\[{\\mathop{\\rm l}\\nolimits} {\\rm{im}}{{\\rm{u}}_{\\rm{n}}}{\\rm{ = 0}}\\] nên A đúng Do \\[\\left| {\\frac{{{{\\left( { - 1} \\right)}^{\\rm{n}}}}}{{\\rm{n}}}} \\right| \\le \\frac{{\\rm{1}}}{{\\rm{n}}}\\] và \\[{\\rm{lim}}\\frac{{\\rm{1}}}{{\\rm{n}}}{\\rm{ = 0}}\\] Theo nguyên lý kẹp suy ra, \\[{\\rm{lim}}{{\\rm{v}}_{\\rm{n}}}{\\rm{ = 0}}\\] Đáp án cần chọn là: B"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Kết quả của giới hạn \\[{\\rm{lim}}\\frac{{\\sqrt {{\\rm{2n + 3}}} }}{{\\sqrt {{\\rm{2n}}} {\\rm{ + 5}}}}\\] bằng:",
+      "options": [
+        "A. \\[\\frac{5}{2}\\]",
+        "B. \\[\\frac{5}{7}\\]",
+        "C. \\( + \\infty \\)",
+        "D. 1"
+      ],
+      "answer": "B",
+      "note": "Ta có \\[{\\rm{lim}}\\frac{{\\sqrt {{\\rm{2n + 3}}} }}{{\\sqrt {{\\rm{2n}}} {\\rm{ + 5}}}}{\\rm{ = lim}}\\frac{{\\sqrt {{\\rm{2 + }}\\frac{{\\rm{3}}}{{\\rm{n}}}} }}{{\\sqrt {\\rm{2}} {\\rm{ + }}\\frac{{\\rm{5}}}{{\\sqrt {\\rm{n}} }}}}{\\rm{ = }}\\frac{{\\sqrt {\\rm{2}} }}{{\\sqrt {\\rm{2}} }}{\\rm{ = 1}}\\]Đáp án cần chọn là: B"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Kết quả của giới hạn \\[\\lim \\sqrt {{{2.3}^{\\rm{n}}} - {\\rm{n}} + 2} \\] bằng:",
+      "options": [
+        "A. 0",
+        "B. 2",
+        "C. 3",
+        "D. \\[ + \\infty \\]"
+      ],
+      "answer": "D",
+      "note": "Ta có \\[{\\rm{C}}_{\\rm{n}}^{\\rm{2}}{\\rm{ < }}{{\\rm{2}}^{\\rm{n}}}\\] Khi \\[{\\rm{n}} \\to \\infty \\Rightarrow {2^{\\rm{n}}} < {3^{\\rm{n}}}\\] do đó \\[{\\rm{C}}_{\\rm{n}}^{\\rm{2}}{\\rm{ < }}{{\\rm{3}}^{\\rm{n}}} \\Rightarrow \\frac{{{\\rm{n}}\\left( {{\\rm{n}} - {\\rm{1}}} \\right)}}{{\\rm{2}}}{\\rm{ < }}{{\\rm{3}}^{\\rm{n}}}\\] Ta có \\[{\\rm{lim}}\\sqrt {{\\rm{2}}{\\rm{.}}{{\\rm{3}}^{\\rm{n}}} - {\\rm{n + 2}}} {\\rm{ = lim}}\\sqrt {{{\\rm{3}}^{\\rm{n}}}} \\sqrt {{\\rm{2}} - \\frac{{\\rm{n}}}{{{{\\rm{3}}^{\\rm{n}}}}}{\\rm{ + 2}}{\\rm{.}}\\frac{{\\rm{1}}}{{{{\\rm{3}}^{\\rm{n}}}}}} \\] \\(\\left\\{ {\\begin{array}{*{20}{c}}{{\\rm{lim}}\\sqrt {{{\\rm{3}}^{\\rm{n}}}} {\\rm{ = + }}\\infty }\\\\{{\\rm{0}} \\le \\frac{{\\rm{n}}}{{{{\\rm{3}}^{\\rm{n}}}}} \\le \\frac{{\\rm{n}}}{{{\\rm{C}}_{\\rm{n}}^{\\rm{2}}}} = \\frac{{\\rm{n}}}{{\\frac{{{\\rm{n}}\\left( {{\\rm{n}} - 1} \\right)}}{2}}}}\\\\{{\\rm{lim}}\\frac{{\\rm{1}}}{{{{\\rm{3}}^{\\rm{n}}}}}{\\rm{ = 0}}}\\end{array}} \\right. = \\frac{2}{{{\\rm{n}} - 1}} \\to 0 \\Rightarrow {\\rm{lim}}\\frac{{\\rm{n}}}{{{{\\rm{3}}^{\\rm{n}}}}}{\\rm{ = 0}} \\Rightarrow \\left\\{ {\\begin{array}{*{20}{c}}{{\\rm{lim}}\\sqrt {{{\\rm{3}}^{\\rm{n}}}} {\\rm{ = + }}\\infty }\\\\{{\\rm{lim}}\\sqrt {{\\rm{2}} - \\frac{{\\rm{n}}}{{{{\\rm{3}}^{\\rm{n}}}}} + 2 + \\frac{{\\rm{1}}}{{{{\\rm{3}}^{\\rm{n}}}}}} {\\rm{ = }}\\sqrt 2 > 0}\\end{array}} \\right.\\) \\[ \\Rightarrow \\lim \\sqrt {{{2.3}^{\\rm{n}}} - {\\rm{n}} + 2} = + \\infty \\] Đáp án cần chọn là: D"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Kết quả của giới hạn \\[\\lim \\left( {5 - \\frac{{{\\rm{ncos2n}}}}{{{{\\rm{n}}^{\\rm{2}}}{\\rm{ + 1}}}}} \\right)\\] bằng:",
+      "options": [
+        "A. 4",
+        "B. \\[\\frac{1}{4}\\]",
+        "C. 5",
+        "D. −4"
+      ],
+      "answer": "C",
+      "note": "Ta có\\[0 \\le \\left| {\\frac{{{\\rm{ncos2n}}}}{{{{\\rm{n}}^{\\rm{2}}}{\\rm{ + 1}}}}} \\right| \\le \\frac{{\\rm{n}}}{{{{\\rm{n}}^{\\rm{2}}}{\\rm{ + 1}}}} \\le \\frac{{\\rm{1}}}{{\\rm{n}}} \\to 0\\] Theo nguyên lý kẹp ta có: \\[\\lim \\frac{{{\\rm{ncos2n}}}}{{{{\\rm{n}}^{\\rm{2}}}{\\rm{ + 1}}}} = 0\\] Suy ra \\[\\lim \\left( {5 - \\frac{{{\\rm{ncos2n}}}}{{{{\\rm{n}}^{\\rm{2}}}{\\rm{ + 1}}}}} \\right) = 5\\] Đáp án cần chọn là: C"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Chọn khẳng định đung",
+      "options": [
+        "A. \\[\\lim {{\\rm{u}}_{\\rm{n}}}{\\rm{ = 0}}\\] nếu \\[\\left| {{{\\rm{u}}_{\\rm{n}}}} \\right|\\]có thể nhỏ hơn môt số dương bé tùy ý, kể từ một số hạng nào đó trở đi",
+        "B. \\[\\lim {{\\rm{u}}_{\\rm{n}}}{\\rm{ = 0}}\\]nếu \\[\\left| {{{\\rm{u}}_{\\rm{n}}}} \\right|\\]có thể lớn hơn môt số dương bé tùy ý, kể từ một số hạng nào đó trở đi",
+        "C. \\[\\lim {{\\rm{u}}_{\\rm{n}}}{\\rm{ = 0}}\\]nếu u n có thể nhỏ hơn môt số dương bé tùy ý, kể từ một số hạng nào đó trở đi",
+        "D. \\[\\lim {{\\rm{u}}_{\\rm{n}}}{\\rm{ = 0}}\\]nếu u n có thể lớn hơn môt số dương bé tùy ý, kể từ một số hạng nào đó trở đi"
+      ],
+      "answer": "A",
+      "note": "Định nghĩa 1\\[\\lim {{\\rm{u}}_{\\rm{n}}}{\\rm{ = 0}}\\]nếu \\[\\left| {{{\\rm{u}}_{\\rm{n}}}} \\right|\\]có thể nhỏ hơn môt số dương bé tùy ý, kể từ một số hạng nào đó trở đi Đáp án cần chọn là: A"
+    }
+  ]
+}

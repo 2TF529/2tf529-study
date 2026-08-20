@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-10-bai-tap-ap-dung-cong-thuc-cong-cong-thuc-nhan-doi-co-loi-gia",
+  "sourceId": "vietjack:1-10-bai-tap-ap-dung-cong-thuc-cong-cong",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.10 Bài tập Áp dụng công thức cộng, công thức nhân đôi (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Biểu thức sinxcosy – cosxsiny bằng",
+      "options": [
+        "A. cos(x – y);",
+        "B. cos(x + y);",
+        "C. sin(x – y);",
+        "D. sin(y – x)."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải: Đáp án đúng là: C Áp dụng công thức cộng lượng giác, ta có: sinxcosy – cosxsiny = sin(x − y)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Biểu thức sin a + b sin a − b bằng biểu thức nào sau đây?",
+      "options": [
+        "A. sin a + b sin a − b = sin a + sin b sin a − sin b ;",
+        "B. sin a + b sin a − b = sin a − sin b sin a + sin b ;",
+        "C. sin a + b sin a − b = tan a + tan b tan a − tan b ;",
+        "D. sin a + b sin a − b = cot a + cot b cot a − cot b ."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải: Đáp án đúng là: C Có sin a + b sin a − b = sin a cos b + cos a sin b sin a cos b − cos a sin b = sin a cos b cos a cos b + cos a sin b cos a cos b sin a cos b cos a cos b − cos a sin b cos a cos b = sin a cos a + sin b cos b sin a cos a − sin b cos b = tan a + tan b tan a − tan b"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho hai góc a , b thỏa mãn \\(\\sin \\alpha = \\frac{5}{{13}},\\left( {\\frac{\\pi }{2} < \\alpha < \\pi } \\right)\\) và \\(cos\\beta = \\frac{3}{5},\\left( {0 < \\beta < \\frac{\\pi }{2}} \\right)\\) . Tính giá trị của cos( a − b ).",
+      "options": [
+        "A. \\(\\frac{{16}}{{65}}\\) ;",
+        "B. \\( - \\frac{{18}}{{65}}\\) ;",
+        "C. \\(\\frac{{18}}{{65}}\\) ;",
+        "D. \\( - \\frac{{16}}{{65}}\\) ."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải: Đáp án đúng là: D Có sin 2 a + cos 2 a = 1 mà \\(\\sin \\alpha = \\frac{5}{{13}}\\) nên \\(co{s^2}\\alpha = \\frac{{144}}{{169}}\\) . Vì \\(\\frac{\\pi }{2} < \\alpha < \\pi \\) nên cos a < 0. Do đó \\(cos\\alpha = - \\frac{{12}}{{13}}\\) . Có sin 2 b + cos 2 b = 1 mà \\(cos\\beta = \\frac{3}{5}\\) nên \\({\\sin ^2}\\beta = \\frac{{16}}{{25}}\\) . Vì \\(0 < \\beta < \\frac{\\pi }{2}\\) nên sin b > 0. Do đó \\(\\sin \\beta = \\frac{4}{5}\\) . Áp dụng công thức cộng lượng giác cos( a − b ) = cos a× cos b + sin a× sin b = \\( - \\frac{{12}}{{13}} \\cdot \\frac{3}{5} + \\frac{5}{{13}} \\cdot \\frac{4}{5} = - \\frac{{16}}{{65}}\\) ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Rút gọn biểu thức sin(a − 17 ° )cos(a + 13 ° ) − sin(a + 13 ° )cos(a − 17 ° ) ta được",
+      "options": [
+        "A. sin2a;",
+        "B. cos2a;",
+        "C. − 1 2 ;",
+        "D. 1 2 ."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải: Đáp án đúng là: C Ta có: sin(a − 17 ° )cos(a + 13 ° ) − sin(a + 13 ° )cos(a − 17 ° ) = sin[(a − 17 ° ) − (a + 13 ° )] = sin (−30 ° ) = − 1 2 ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho x, y là các góc nhọn, \\(\\cot x = \\frac{4}{3}\\) ; cot y = 7. Tổng x + y bằng",
+      "options": [
+        "A. \\(\\frac{\\pi }{3}\\) ;",
+        "B. \\(\\frac{\\pi }{4}\\) ;",
+        "C. \\(\\frac{\\pi }{6}\\) ;",
+        "D. \\(\\frac{{2\\pi }}{3}\\) ."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải: Đáp án đúng là: B Vì \\(\\cot x = \\frac{4}{3}\\) ; cot y = 7 nên \\(\\tan x = \\frac{3}{4}\\) ; \\(\\tan y = \\frac{1}{7}\\) . Có \\(\\tan (x + y)\\,\\, = \\,\\,\\frac{{\\tan x + \\tan y}}{{1 - \\tan x \\cdot \\tan y}}\\)\\( = \\,\\,\\frac{{\\frac{3}{4} + \\frac{1}{7}}}{{1 - \\frac{3}{4} \\cdot \\frac{1}{7}}} = 1\\) \\( \\Rightarrow x + y = \\frac{\\pi }{4}\\) ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Đẳng thức nào không đúng với mọi x?",
+      "options": [
+        "A. c o s 2 3 x = 1 + c o s 6 x 2 ;",
+        "B. cos2x = 1 – 2sin 2 x;",
+        "C. sin2x = 2sinxcosx;",
+        "D. sin 2 2 x = 1 + c o s 4 x 2 ."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải: Đáp án đúng là: D sin 2 2 x = 1 − c o s 4 x 2 ."
+    }
+  ]
+}

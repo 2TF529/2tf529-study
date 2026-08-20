@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-12-canh-dieu-thuc-hanh-phan-tich-du-",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-12-canh-die",
+  "grade": "l12",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 12 Cánh diều Thực hành phân tích dữ liệu có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Khi xác định kì hạn vay dựa trên số tiền trả góp hằng tháng và lãi suất, ta cần phải sử dụng hàm nào trong Excel?",
+      "options": [
+        "A. SUM",
+        "B. VLOOKUP",
+        "C. PMT",
+        "D. AVERAGE"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Hàm PMT trong Excel được sử dụng để tính khoản thanh toán định kì cho khoản vay dựa trên lãi suất hàng tháng, số tiền vay và kì hạn vay."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Trong hàm PMT, tham số nper đại diện cho điều gì?",
+      "options": [
+        "A. Lãi suất hàng tháng",
+        "B. Số tiền vay",
+        "C. Số kỳ hạn vay (số tháng)",
+        "D. Số tiền thanh toán cuối cùng"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Tham số nper trong hàm PMT biểu thị số kỳ hạn vay, tức là tổng số tháng phải trả góp."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Công cụ nào trong Excel được sử dụng để tạo và quản lý các kịch bản khác nhau trong phân tích dữ liệu?",
+      "options": [
+        "A. Data Table",
+        "B. Goal Seek",
+        "C. Scenario Manager",
+        "D. Solver"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Scenario Manager là công cụ trong Excel cho phép tạo và quản lý nhiều kịch bản khác nhau để phân tích và so sánh các kết quả có thể xảy ra."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Công cụ nào giúp tìm giá trị đầu vào cần thiết để đạt được mục tiêu cụ thể?",
+      "options": [
+        "A. Data Table",
+        "B. Goal Seek",
+        "C. Scenario Manager",
+        "D. Forecast Sheet"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Goal Seek là công cụ trong Excel dùng để tìm giá trị đầu vào cần thiết nhằm đạt được một mục tiêu đầu ra xác định."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Trong nhiệm vụ dự báo dựa trên chuỗi thời gian, tham số nào không được điều chỉnh để xem ảnh hưởng đến kết quả dự báo?",
+      "options": [
+        "A. Forecast Start",
+        "B. Forecast End",
+        "C. Confidence Interval",
+        "D. Data Labels"
+      ],
+      "answer": "D",
+      "note": "Đáp án: D Giải thích: Data Labels (nhãn dữ liệu) không phải là một tham số dự báo mà chỉ là tùy chọn hiển thị trên đồ thị. Các tham số dự báo bao gồm Forecast Start, Forecast End và Confidence Interval."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Công cụ nào trong Excel được sử dụng để tạo dự báo dựa trên dữ liệu chuỗi thời gian?",
+      "options": [
+        "A. PivotTable",
+        "B. Data Analysis",
+        "C. Forecast Sheet",
+        "D. Chart"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Forecast Sheet là công cụ trong Excel dùng để tạo dự báo dữ liệu tương lai dựa trên dữ liệu chuỗi thời gian hiện có."
+    }
+  ]
+}

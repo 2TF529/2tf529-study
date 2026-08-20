@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-3-10-bai-tap-van-dung-cac-quy-tac-tinh-dao-ham-de-giai-quyet-mot-",
+  "sourceId": "vietjack:3-10-bai-tap-van-dung-cac-quy-tac-tinh-d",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.10 Bài tập Vận dụng các quy tắc tính đạo hàm để giải quyết một số bài toán thực tiễn (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Một vật chuyển động với quỹ đạo s(t) = 1 3 t 3 − 2 t 2 + 7 t + 8 , trong đó s tính bằng mét, t là thời gian tính bằng giây. Vận tốc nhỏ nhất vật đạt được bằng bao nhiêu?",
+      "options": [
+        "A. 1 m/s;",
+        "B. 2 m/s;",
+        "C. 3 m/s;",
+        "D. 4 m/s."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải: Đáp án đúng là: C Ta có v(t) = s ' (t) = 1 3 t 3 − 2 t 2 + 7 t + 8 ' = t 2 – 4t + 7 = (t – 2) 2 + 3. Vì (t – 2) 2 ≥ 0 với mọi t ≥ 0. Suy ra (t – 2) 2 + 3 ≥ 3 với mọi t ≥ 0. Dấu “=” xảy ra khi t = 2 (s). Vận tốc nhỏ nhất của vật là 3 m/s khi t = 2 s"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Một vật chuyển động theo quỹ đạo s(t) = 2 t 2 + 1 , trong đó s tính bằng centimét, t là thời gian tính bằng giây. Vận tốc của vật tại thời điểm t = 2 s là:",
+      "options": [
+        "A. 4 3 cm/s",
+        "B. 8 3 cm/s;",
+        "C. 2 3 cm/s;",
+        "D. 5 3 cm/s."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A Ta có v t = t = 2 t 2 + 1 ' = ( 2 t 2 + 1 ) ' 2 2 t 2 + 1 = 4 t 2 2 t 2 + 1 = 2 t 2 t 2 + 1 . Vận tốc của vật tại thời điểm t = 2 là v(2) = 2.2 2.2 2 + 1 = 4 3 (cm/s)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Một chất điểm chuyển động theo phương trình s(t) = 4t 3 – t 2 + 9t – 5, trong đó t là thời gian tính bằng giây, s tính bằng centimét. Tại thời điểm t = ….. s vận tốc của vật là 23 cm/s. Số thích hợp điền vào chỗ chấm là:",
+      "options": [
+        "A. 1;",
+        "B. –1;",
+        "C. 6 7 ;",
+        "D. 7 6 ."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải: Đáp án đúng là: D Ta có v(t) = s ' (t) = (4t 3 – t 2 + 9t – 5) ' = 12t 2 – 2t + 9. Theo đề bài v(t) = 23 nên 12t 2 – 2t + 9 = 23. Suy ra 12t 2 – 2t – 14 = 0. Suy ra t = 7 6 (tm) hoặc t = –1 (loại vì t ≥ 0)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Điện lượng truyền trong dây dẫn có phương trình Q(t) = 7t – 2, trong đó t tính bằng giây, Q tính bằng culông. Cường độ dòng điện tại thời điểm t = 4 s là:",
+      "options": [
+        "A. 0 A;",
+        "B. 4 A;",
+        "C. 7 A;",
+        "D. Không xác định được."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải: Đáp án đúng là: C Ta có I(t) = Q ' (t) = (7t – 2) ' = 7. Cường độ dòng điện tại thời điểm t = 4 là I(4) = 7 (A)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho chuyển động thẳng được xác định bởi phương trình s(t) = – sin(πt). cos π 3 t , trong đó t tính bằng giây, s tính bằng mét. Vận tốc tại thời điểm t = 1 s là:",
+      "options": [
+        "A. 1 2 m/s;",
+        "B. 1 m/s;",
+        "C. π 2 m/s;",
+        "D. − π 2 m/s."
+      ],
+      "answer": "C",
+      "note": "Đáp án do hệ thống đối chiếu chuẩn xác"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Một chất điểm chuyển động có phương trình s(t) = t 2 + 4, trong đó t tính bằng giây, s tính bằng centimét. Tại thời điểm nào thì vận tốc của chất điểm bằng 6 cm/s?",
+      "options": [
+        "A. t = 3;",
+        "B. t = 1;",
+        "C. t = 2;",
+        "D. t = 6."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A Ta có v(t) = s ' (t) = 2t. Theo đề bài ta có v(t) = 6 hay 2t = 6. Suy ra t = 3 (s)."
+    }
+  ]
+}

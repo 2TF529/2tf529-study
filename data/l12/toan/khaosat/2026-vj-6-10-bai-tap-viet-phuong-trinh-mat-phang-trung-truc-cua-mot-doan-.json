@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-6-10-bai-tap-viet-phuong-trinh-mat-phang-trung-truc-cua-mot-doan-",
+  "sourceId": "vietjack:6-10-bai-tap-viet-phuong-trinh-mat-phang",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "6.10 bài tập Viết phương trình mặt phẳng trung trực của một đoạn thẳng có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Trong không gian Oxyz, cho điểm A(1; 1; 1) và B(1; 3; −5). Viết phương trình mặt phẳng trung trực của đoạn AB.",
+      "options": [
+        "A. y – 2z + 2 = 0;",
+        "B. y – 3z + 4 = 0;",
+        "C. y – 2z – 6 = 0;",
+        "D. y – 3z – 8 = 0."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Tọa độ trung điểm M của đoạn AB là M(1; 2; −2). Mặt phẳng trung trực của đoạn AB đi qua M và có vectơ pháp tuyến \\(\\overrightarrow {AB} = \\left( {0;2; - 6} \\right)\\) có phương trình 2y – 6z – 16 = 0 hay y – 3z – 8 = 0."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Trong không gian Oxyz, cho điểm M(2; 0; 1). Gọi A, B lần lượt là hình chiếu của M trên trục Ox và trên (Oyz). Viết phương trình mặt trung trực của đoạn AB.",
+      "options": [
+        "A. 4x – 2z – 3 = 0;",
+        "B. 4x – 2y – 3 = 0;",
+        "C. 4x – 2z + 3 = 0;",
+        "D. 4x + 2z + 3 = 0."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Theo đề ta có A(2; 0; 0), B(0; 0; 1). Gọi I là trung điểm AB. Ta có \\(I\\left( {1;0;\\frac{1}{2}} \\right)\\). Mặt phẳng trung trực đoạn AB đi qua I và nhận \\(\\overrightarrow {BA} = \\left( {2;0; - 1} \\right)\\) làm vectơ pháp tuyến nên có phương trình \\(2\\left( {x - 1} \\right) - \\left( {z - \\frac{1}{2}} \\right) = 0\\) 4x – 2z – 3 = 0."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trong không gian Oxyz, cho điểm A(−2; 2; 6). Viết phương trình mặt phẳng trung trực (P) của đoạn thẳng OA.",
+      "options": [
+        "A. x – y – 3z + 11 = 0;",
+        "B. x – y – 3z + 9 = 0;",
+        "C. – x + y + 3z + 22 = 0;",
+        "D. x – y – 3z = 0."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có \\(\\overrightarrow {OA} = \\left( { - 2;2;6} \\right)\\). Mặt phẳng (P) nhận vectơ \\(\\overrightarrow n = \\left( {1; - 1; - 3} \\right)\\) làm vectơ pháp tuyến và đi qua I(−1; 1; 3) trung điểm của OA nên có phương trình x – y – 3z + 11 = 0."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Trong không gian Oxyz, cho hai điểm M(2; −1; 2) và N(2; 1; 4). Viết phương trình mặt phẳng trung trực của đoạn thẳng MN.",
+      "options": [
+        "A. 3x + y – 1 = 0;",
+        "B. y + z – 3 = 0;",
+        "C. x – 3y – 1 = 0;",
+        "D. 2x + y – 2z = 0."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Trung điểm I của đoạn MN có tọa độ I(2; 0; 3) và \\(\\overrightarrow {MN} = \\left( {0;2;2} \\right)\\). Mặt phẳng trung trực của đoạn thẳng MN đi qua I và có vectơ pháp tuyến \\(\\overrightarrow n = \\left( {0;1;1} \\right)\\) có phương trình là y + z – 3 = 0."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Trong không gian Oxyz, cho điểm M(2; 0; 1). Gọi N là hình chiếu của M trên mặt phẳng (Oxy). Viết phương trình mặt phẳng trung trực của đoạn MN.",
+      "options": [
+        "A. 2z – 1 = 0;",
+        "B. 2z + 1 = 0;",
+        "C. z – 1 = 0;",
+        "D. 2z – 3 = 0."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Theo đề ta có N(2; 0; 0). Gọi I là trung điểm MN nên I có tọa độ \\(I\\left( {2;0;\\frac{1}{2}} \\right)\\). Mặt phẳng trung trực đoạn MN đi qua I và nhận \\(\\overrightarrow {MN} = \\left( {0;0; - 1} \\right)\\) làm vectơ pháp tuyến nên có phương trình \\( - z + \\frac{1}{2} = 0\\) 2z – 1 = 0."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong không gian Oxyz, cho hai điểm A(3; 2; −1) và B(−5; 4; 1). Điểm nào sau đây thuộc mặt phẳng trung trực của đoạn AB.",
+      "options": [
+        "A. E(−8; 2; 2);",
+        "B. F(0; −3; 4);",
+        "C. G(0; 0; 7);",
+        "D. H(−2; 6; 0)."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có \\(\\overrightarrow {AB} = \\left( { - 8;2;2} \\right)\\) và I(−1; 3; 0) là trung điểm của đoạn AB. Phương trình mặt phẳng trung trực của AB đi qua I(−1; 3; 0) và nhận \\(\\overrightarrow {AB} = \\left( { - 8;2;2} \\right)\\) làm vectơ pháp tuyến có phương trình là −8(x + 1) + 2(y – 3) + 2z = 0 4x – y – z + 7 = 0. Thay tọa độ điểm G vào phương trình mặt phẳng ta được −7 + 7 = 0 (luôn đúng)."
+    }
+  ]
+}

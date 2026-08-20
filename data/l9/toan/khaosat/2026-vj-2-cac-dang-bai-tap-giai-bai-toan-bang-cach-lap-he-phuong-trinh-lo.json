@@ -1,0 +1,104 @@
+{
+  "id": "2026-vj-2-cac-dang-bai-tap-giai-bai-toan-bang-cach-lap-he-phuong-trinh-lo",
+  "sourceId": "vietjack:2-cac-dang-bai-tap-giai-bai-toan-bang-ca",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.Các dạng bài tập Giải bài toán bằng cách lập hệ phương trình lớp 9 (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Một ca nô chạy trên sông trong 8 giờ xuôi dòng được 81 km và ngược dòng 105 km. Một lần khác, ca nô chạy trên sông trong 4 giờ xuôi dòng 54 km và ngược dòng 42 km. Vận tốc riêng của ca nô là (Biết vận tốc riêng của ca nô và vận tốc dòng nước không đổi).",
+      "options": [
+        "A. 3 km/h.",
+        "B. 24 km/h.",
+        "C. 27 km/h.",
+        "D. 21 km/h."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Gọi x, y lần lượt là vận tốc riêng của ca nô và vận tốc của dòng nước (x, y > 0, km/h). Do đó, vận tốc xuôi dòng của ca nô là x + y (km/h) và vận tốc ngược dòng của ca nô là x – y (km/h). Ca nô chạy trên sông trong 8 giờ xuôi dòng được 81 km và ngược dòng 105 km nên ta có phương trình \\(\\frac{{81}}{{x + y}} + \\frac{{105}}{{x - y}} = 8\\) (1) Ca nô chạy trên sông trong 4 giờ xuôi dòng được 54 km và ngược dòng 42 km nên ta có phương trình: \\(\\frac{{54}}{{x + y}} + \\frac{{42}}{{x - y}} = 4\\) (2). Từ (1) và (2) ta có hệ phương trình: \\(\\left\\{ \\begin{array}{l}\\frac{{81}}{{x + y}} + \\frac{{105}}{{x - y}} = 8\\\\\\frac{{54}}{{x + y}} + \\frac{{42}}{{x - y}} = 4\\end{array} \\right.\\) Đặt \\(\\left\\{ \\begin{array}{l}\\frac{1}{{x + y}} = a\\\\\\frac{1}{{x - y}} = b\\end{array} \\right.\\) ta có: \\(\\left\\{ \\begin{array}{l}81a + 105b = 8\\\\54a + 42b = 4\\end{array} \\right.\\) . Giải hệ phương trình \\(\\left\\{ \\begin{array}{l}81a + 105b = 8\\\\54a + 42b = 4\\end{array} \\right.\\), ta có: \\(\\left\\{ \\begin{array}{l}2\\left( {81a + 105b} \\right) = 2.8\\\\3\\left( {54a + 42b} \\right) = 4.3\\end{array} \\right.\\) ta được \\(\\left\\{ \\begin{array}{l}162a + 210b = 16\\\\162a + 126b = 12\\end{array} \\right.\\). Thực hiện trừ theo vế hai phương trình của hệ, ta được: 84b = 4 hay b = \\(\\frac{1}{{21}}\\). Với b = \\(\\frac{1}{{21}}\\) suy ra a = \\(\\frac{1}{{27}}\\). Từ đây suy ra \\(\\left\\{ \\begin{array}{l}\\frac{1}{{x + y}} = \\frac{1}{{27}}\\\\\\frac{1}{{x - y}} = \\frac{1}{{21}}\\end{array} \\right.\\) hay \\(\\left\\{ \\begin{array}{l}x + y = 27\\\\x - y = 21\\end{array} \\right.\\) suy ra x = 24, y = 3 (thỏa mãn). Vậy vận tốc riêng của ca nô là 24 km/h."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Một ô tô đi từ A đến B với vận tốc dự định trong một thời gian dự định. Nếu ô tô tăng vận tốc thêm 3 km/h thì thời gian rút ngắn được 2 giờ so với dự định. Nếu ô tô giảm vận tốc đi 3 km/h thì thời gian tăng hơn 3 giờ so với dự định. Độ dài quãng đường AB là",
+      "options": [
+        "A. 12 km.",
+        "B. 15 km.",
+        "C. 18 km",
+        "D. 180 km."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Gội vận tốc ban đầu là x ( x > 3, km/h), thời gian chạy dự định là y (y > 2, h). Độ dài của quãng đường AB là xy (km). Nếu ô tô tăng vận tốc 3 km/h thì rút ngắn 2 giờ so với dự định nên ta có phương trình: (x + 3)(y – 2) = xy (1) Nếu ô tô giảm vận tốc 3 km/h thì thời gian tăng 3 giờ so với dự định nên ta có phương trình: (x – 3)(y + 3) = xy (2) Từ (1) và (2) ta có hệ phương trình: \\(\\left\\{ \\begin{array}{l}(x + 3)(y - 2) = xy\\\\(x - 3)(y + 3) = xy\\end{array} \\right.\\) hay \\(\\left\\{ \\begin{array}{l}3y - 2x = 6\\\\3x - 3y = 9\\end{array} \\right.\\). • Giải hệ phương trình \\(\\left\\{ \\begin{array}{l}3y - 2x = 6\\\\3x - 3y = 9\\end{array} \\right.\\) . Cộng theo vế hai phương trình của hệ, ta có: x = 15 (thỏa mãn). Với x = 15 thì y = 12 (thỏa mãn). Vậy độ dài quãng đường AB là: 15.12 = 180 (km)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Một xe máy đi từ A đến B trong thời gian đã định. Nếu đi với vận tốc 45 km/h sẽ tới B chậm mất nửa giờ. Nếu đi với vận tốc 60 km/h thì sẽ đến B sớm 45 phút. Tính quãng đường AB và thời gian dự định.",
+      "options": [
+        "A. 4,5 km.",
+        "B. 225 km.",
+        "C. 22,5 km.",
+        "D. 27,5 km."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Đổi 45 phút = \\(\\frac{3}{4}\\) giờ. Gọi quãng đường AB là x (x > 0, km) và thời gian dự định đi từ A đến B là y (y > 0, giờ). Nếu đi với vận tốc 45 km/h sẽ tới B chậm nửa giờ, do đó ta có phương trình: x = 45.\\(\\left( {y + \\frac{1}{2}} \\right)\\) hay x – 45y = \\(\\frac{{45}}{2}\\) (1) Nếu đi với vận tốc 60 km/h sẽ tới B sớm hơn 45 phút, do đó ta có phương trình: x = 60.\\(\\left( {y - \\frac{3}{4}} \\right)\\) hay x – 60y = −45 (2) Từ (1) và (2) ta có hệ phương trình \\(\\left\\{ \\begin{array}{l}x - 45y = \\frac{{45}}{2}\\\\x - 60y = - 45\\end{array} \\right.\\). Giải hệ phương trình, ta trừ theo vế hai phương trình của hệ, ta được: 15y = \\(\\frac{{135}}{2}\\), suy ra y = 4,5 (thỏa mãn). Thay y = 4,5 vào phương trình x – 45y = \\(\\frac{{45}}{2}\\) được x = 225 (thỏa mãn). Vậy quãng đường AB dài 225 km và thời gian dự định đi từ A đến B hết 4,5 giờ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Một ô tô và một xe máy ở hai địa điểm A và B cách nhau 180 km, khởi hành cùng một lúc đi ngược chiều nhau và gặp nhau sau 2 giờ. Biết vận tốc của ô tô lớn hơn vận tốc của xe máy là 10 km/h. Vận tốc của ô tô là:",
+      "options": [
+        "A. 50 km/h.",
+        "B. 40 km/h.",
+        "C. 50 km.",
+        "D. 90 km/h."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Gọi x, y lần lượt là vận tốc của ô tô và xe máy (x > y > 0, km/h). Theo đề, hai xe đi ngược chiều và gặp nhau sau 2 giờ nên ta có: 2x + 2y = 180 hay x + y = 90 (1). Vận tốc ô tô lớn hơn vận tốc xe máy 10 km/h nên ta có: x – y = 10 (2). Từ (1) và (2) ta có hệ phương trình \\(\\left\\{ \\begin{array}{l}x + y = 90\\\\x - y = 10\\end{array} \\right.\\). • Giải hệ phương trình \\(\\left\\{ \\begin{array}{l}x + y = 90\\\\x - y = 10\\end{array} \\right.\\). Cộng theo vế hai phương trình của hệ, ta được 2x = 100 hay x = 50 (thỏa mãn). Với x = 50 thì y = 40 (thỏa mãn). Vậy vận tốc của ô tô là 50 km/h."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Một khách du lịch đi trên ô tô 4 giờ, sau đó đi tiếp bằng tàu hỏa trong 7 giờ được quãng đường 640 km. Biết rằng mỗi giờ tàu hỏa đi nhanh hơn ô tô 5 km, hỏi vận tốc của tàu hỏa là bảo nhiêu?",
+      "options": [
+        "A. 40 km/h.",
+        "B. 50 km/h.",
+        "C. 60 km/h.",
+        "D. 65 km/h."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Gọi vận tốc của tàu hỏa và ô tô lần lượt là x, y (km/h, x > y > 0; x > 5). Vì khách du lịch đi trên ô tô 4 giờ, sau đó đi tiếp bằng tàu hỏa trong 7 giờ được 640 km nên ta có phương trình: 7x + 4y = 640 (1). Mỗi giờ tàu hỏa đi nhanh hơn ô tô 5 km nên ta có phương trình x – y = 5 (2). Từ (1) và (2) ta có hệ phương trình: \\(\\left\\{ \\begin{array}{l}7x + 4y = 640\\\\x - y = 5\\end{array} \\right.\\). Từ phương trình x – y = 5 ta được x = 5 + y. Thay x = 5 + y vào phương trình 7x + 4y = 640, ta được: 7(5 + y) + 4y = 640 11y + 35 = 640 11y = 605 y = 55 (thỏa mãn). Suy ra x = 5 + 55 = 60 (thỏa mãn). Vậy vận tốc của tàu hỏa là 60 km/h."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 7: Một người đi xe đạp từ địa điểm A đến địa điểm B trong một thời gian đã định với tốc độ không đổi. Nếu người đó tăng tốc độ lên 3 km/h thì đến B sớm hơn dự định 1 giờ. Nếu người đó giảm tốc độ 2 km/h thì đến B muộn hơn dự định 1 giờ. Độ dài quãng đường AB là",
+      "options": [
+        "A. 5 km.",
+        "B. 12 km.",
+        "C. 60 km.",
+        "D. 17 km."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Gọi vận tốc và thời gian người đó đi quãng đường AB lần lượt là x, y (x > 2, y > 1). Độ dài quãng đường AB là xy (km). Theo đề, nếu người đó tăng tốc độ 3 km/h thì đến sớm hơn 1 giờ nên ta có phương trình: (x + 3)(y – 1) = xy (1) Nếu người đó giảm tốc độ 2 km/h thì đến muộn hơn 1 giờ nên ta có phương trình: (x – 2)(y + 1) = xy (2) Từ (1) và (2) ta có hệ phương trình \\(\\left\\{ \\begin{array}{l}\\left( {x + 3} \\right)\\left( {y - 1} \\right) = xy\\\\\\left( {x - 2} \\right)\\left( {y + 1} \\right) = xy\\end{array} \\right.\\) hay \\(\\left\\{ \\begin{array}{l}3y - x = 3\\\\x - 2y = 2\\end{array} \\right.\\). • Giải hệ phương trình \\(\\left\\{ \\begin{array}{l}3y - x = 3\\\\x - 2y = 2\\end{array} \\right.\\). Cộng theo vế hai phương trình của hệ, ta được y = 5 (thỏa mãn). Khi đó, x = 12 (thỏa mãn). Do đó, độ dài quãng đường AB là: 5.12 = 60 (km)."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 8: Một ô tô đi từ A đến B với một vận tốc xác định và trong một thời gian đã định. Nếu vận tốc của ô tô giảm 10 km/h thì thời gian tăng 45 phút. Nếu vận tốc của ô tô tăng 10 km/h thì thời gian giảm 30 phút. Vận tốc đã định của ô tô là:",
+      "options": [
+        "A. 50 km/h.",
+        "B. 60 km/h.",
+        "C. 30km/h.",
+        "D. 40 km/h."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Đổi 30 phút = \\(\\frac{1}{2}\\) giờ; 45 phút = \\(\\frac{3}{4}\\) giờ. Gọi vận tốc dự định của ô tô là x (km/h) và thời gian dự định của ô tô là y (giờ). Điều kiện: x > 10; y > \\(\\frac{1}{2}\\). Quãng đường AB là: xy (km). Nếu ô tô giảm vận tốc 10 km/h thì thời gian tăng 45 phút nên ta có phương trình: (x – 10) \\(\\left( {y + \\frac{3}{4}} \\right)\\) = xy hay xy + \\(\\frac{3}{4}\\)x – 10y – \\(\\frac{{15}}{2}\\) = xy, suy ra 3x – 40y = 30 (1) Nếu ô tô tăng vận tốc 10 km/h thì thời gian giảm 30 phút nên ta có phương trình: (x + 10) \\(\\left( {y - \\frac{1}{2}} \\right)\\) = xy hay xy – \\(\\frac{1}{2}\\)x +10y – 5 = xy, suy ra −x + 20y = 10 (2) Từ (1) và (2) ta có hệ phương trình \\(\\left\\{ \\begin{array}{l}3x - 40y = 30\\\\ - x + 20y = 10\\end{array} \\right.\\). Thế x = 20y – 10 vào phương trình thứ nhất, ta được: 3(20y – 10) – 40y = 30 hay 20y = 60, suy ra y = 3 (thỏa mãn). Thay y = 3 vào x = 20y – 10, suy ra x = 50 (thỏa mãn). Vậy vận tốc đã định của ô tô là 50 km/h."
+    }
+  ]
+}

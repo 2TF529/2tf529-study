@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-12-bai-tap-ve-dinh-luat-bao-toan-dong-luong-co-dap-an",
+  "sourceId": "vietjack:1-12-bai-tap-ve-dinh-luat-bao-toan-dong-",
+  "grade": "l10",
+  "subjectSlug": "li",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.12 Bài tập về định luật bảo toàn động lượng có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Một xe ô tô có khối lượng m 1 = 5 tấn chuyển động thẳng với vận tốc v 1 = 4 m / s , đến tông và dính vào một xe gắn máy đang đứng yên có khối lượng m 2 = 250 k g . Tính vận tốc của các xe? (Chọn đáp án gần đúng nhất)",
+      "options": [
+        "A. 3,2 m/s.",
+        "B. 3,4 m/s.",
+        "C. 3,6 m/s.",
+        "D. 3,8 m/s."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là D Xem hệ hai xe là hệ cô lập, hai xe va chạm mềm. Động lượng của hệ trước va chạm: m 1 v 1 → + m 2 v 2 → = m 1 v 1 → Động lượng của hệ sau va chạm: ( m 1 + m 2 ) . v → v 1 → cùng phương với vận tốc v → Áp dụng định luật bảo toàn động lượng, ta có: m 1 v 1 = m 1 + m 2 . v ⇒ v = m 1 v 1 m 1 + m 2 = 5000.4 5000 + 250 = 80 21 ≈ 3 , 8 m / s"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Một khẩu đại bác có khối lượng 4 tấn (không tính khối lượng đạn), bắn đi một viên đạn theo phương ngang có khối lượng 10 kg với vận tốc 400 m/s. Coi như lúc đầu, hệ đại bác và đạn đứng yên. Tốc độ giật lùi của đại bác ngay sau đó bằng",
+      "options": [
+        "A. 3 m/s.",
+        "B. 2 m/s.",
+        "C. 4 m/s.",
+        "D. 1 m/s."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Ngay khi bắn, hệ (súng + đạn) là một hệ kín nên động lượng của hệ không đổi. Chọn chiều dương là chiều chuyển động giật lùi của súng 0 → = m s v s → + m đ v đ → ⇒ v s → = − m đ v đ → m s ⇒ v s = − 10. − 400 4000 = 1 m / s"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Một viên đạn đang bay với vận tốc 10 m/s thì nổ thành hai mảnh. Mảnh thứ nhất, chiếm 60% khối lượng của viên đạn và tiếp tục bay theo hướng cũ với vận tốc 25 m/s. Tốc độ và hướng chuyển động của mảnh thứ hai là:",
+      "options": [
+        "A. 12,5 m/s; theo hướng viên đạn ban đầu.",
+        "B. 12,5 m/s; ngược hướng viên đạn ban đầu.",
+        "C. 6,25 m/s; theo hướng viên đạn ban đầu.",
+        "D. 6,25 m/s; ngược hướng viên đạn ban đầu."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Gọi m; m 1 lần lượt là khối lượng của viên đạn và mảnh thứ nhất, khi đó m 1 = 0,6m Hệ viên đạn (hai mảnh đạn) ngay khi nổ là một hệ kín nên động lượng của hệ được bảo toàn: m v → = m 1 v 1 → + m − m 1 v 2 → Do v 1 → ↑ ↑ v → ⇒ v 2 = m v − m 1 v 1 m − m 1 = 10 − 25.0 , 6 m 1 − 0 , 6 m = − 12 , 5 m / s Dấu “-“ chứng tỏ mảnh đạn thứ hai sẽ chuyển động ngược chiều chuyển động ban đầu của viên đạn và mảnh đạn thứ nhất."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Một vật 0,6 kg chuyển động với vận tốc 5 m/s không ma sát trên mặt phẳng nằm ngang thì va chạm vào vật thứ hai có khối lượng 200 g đang đứng yên. Sau va chạm, hai vật dính làm một. Tìm vận tốc của hai vật sau va chạm?",
+      "options": [
+        "A. 3 m/s.",
+        "B. 3,75 m/s.",
+        "C. 4 m/s.",
+        "D. 4,75 m/s."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Đây là bài toán va chạm mềm. Động lượng trước va chạm của hệ vật là: p t = m 1 v 1 Động lượng lúc sau va chạm của hệ vật là: p s = m 1 + m 2 v 2 Áp dụng định luật bảo toàn động lượng, ta có: p t = p s ⇔ m 1 v 1 = m 1 + m 2 v 2 ⇔ v 2 = m 1 v 1 m 1 + m 2 = 0 , 6.5 0 , 6 + 0 , 2 = 3 , 75 m / s"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Nếu một xe đẩy va chạm hoàn toàn mềm với một xe đẩy đứng yên có khối lượng gấp đôi, thì chúng sẽ di chuyển bằng",
+      "options": [
+        "A. một nửa vận tốc ban đầu.",
+        "B. một phần ba vận tốc ban đầu.",
+        "C. gấp đôi vận tốc ban đầu.",
+        "D. gấp ba lần vận tốc ban đầu."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có biểu thức vận tốc của vật sau va chạm mềm: v = m 1 v 1 + m 2 v 2 m 1 + m 2 = m 1 . v 1 + 0 m 1 + 2 m 1 = v 1 3"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Nếu tổng động năng và tổng động lượng của hệ gồm hai vật bằng không sau va chạm thì va chạm giữa hai vật là:",
+      "options": [
+        "A. hoàn toàn đàn hồi.",
+        "B. hoàn toàn mềm.",
+        "C. bảo toàn.",
+        "D. không được bảo toàn."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Nếu tổng động năng và tổng động lượng của hệ gồm hai vật bằng không sau va chạm thì va chạm giữa hai vật là: hoàn toàn mềm, sau va chạm hệ 2 vật đứng yên tại chỗ."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-2-bo-6-de-thi-cuoi-ki-2-tin-hoc-10-canh-dieu-co-dap-an",
+  "sourceId": "vietjack:2-bo-6-de-thi-cuoi-ki-2-tin-hoc-10-canh-",
+  "grade": "l10",
+  "subjectSlug": "tin",
+  "examType": "cuoiki2",
+  "year": 2026,
+  "title": "2.Bộ 6 đề thi cuối kì 2 Tin học 10 Cánh diều có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Hàm UCLN(m,n) để tính ước chung lớn nhất của 2 số nguyên không âm m và n. Trong chương trình có lệnh gọi hàm >>>UCLN(36, 12), vậy các giá trị (m,n) trong câu lệnh def UCLN(m,n) gọi là",
+      "options": [
+        "A. Hằng",
+        "B. Tham số",
+        "C. Đối số",
+        "D. Biến"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là B"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Để cho ra kết quả là số lần xuất hiện của xâu con trong xâu mẹ, ta sử dụng hàm nào sau đây?",
+      "options": [
+        "A. &lt;tên biến xâu&gt;.count(&lt;xâu hoặc ký tự cần tìm&gt;)",
+        "B. &lt;tên biến xâu&gt;.lower(&lt;xâu hoặc ký tự cần tìm&gt;)",
+        "C. &lt;tên biến xâu&gt;.find(&lt;xâu hoặc ký tự cần tìm&gt;)",
+        "D. &lt;tên biến xâu&gt;.upper(&lt;xâu hoặc ký tự cần tìm&gt;)"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là A"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Kết quả của đoạn chương trình sau: i = 1 while i <= 100: if i % 2 == 0: print(i) i = i + 1",
+      "options": [
+        "A. In ra màn hình các số chẵn từ 1 đến 100",
+        "B. In ra các số từ 1 đến 100",
+        "C. In ra các số từ 1 đến 99",
+        "D. In ra các số lẻ từ 1 đến 100"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là A"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho xâu a = ‘Chúc các em thi tốt!’ Kết quả của lệnh len(a) là:",
+      "options": [
+        "A. 29",
+        "B. 5",
+        "C. 28",
+        "D. 21"
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là D"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Từ khóa nào dùng để khai báo hàm người dùng tự định nghĩa",
+      "options": [
+        "A. print",
+        "B. def",
+        "C. return",
+        "D. dec"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là B"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho đoạn chương trình sau: a=6 s=0 while (a>0): s=s+a a=a-1 Giá trị của s khi thực hiện đoạn chương trình trên bằng bao nhiêu?",
+      "options": [
+        "A. 20",
+        "B. 6",
+        "C. 5",
+        "D. 21"
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là D"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Xâu kí tự trong Python là:",
+      "options": [
+        "A. Một kí tự",
+        "B. Một giá trị bất kì.",
+        "C. Một dãy các kí tự",
+        "D. Một dãy các số"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là C"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Khi sử dụng hàm có sẵn (trong một thư viện) ta cần:",
+      "options": [
+        "A. Gọi hàm có sẵn thực hiện mà không cần xây dựng lại hàm đó.",
+        "B. Phải xây dựng lại hàm đó.",
+        "C. Phải khai báo và xây dựng lại.",
+        "D. Phải khai báo hàm trước khi gọi."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là A"
+    }
+  ]
+}

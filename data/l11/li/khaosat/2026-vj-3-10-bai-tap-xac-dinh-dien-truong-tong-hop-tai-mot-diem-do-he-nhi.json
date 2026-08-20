@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-3-10-bai-tap-xac-dinh-dien-truong-tong-hop-tai-mot-diem-do-he-nhi",
+  "sourceId": "vietjack:3-10-bai-tap-xac-dinh-dien-truong-tong-h",
+  "grade": "l11",
+  "subjectSlug": "li",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.10 Bài tập Xác định điện trường tổng hợp tại một điểm do hệ nhiều điện tích điểm gây ra (có lời giải)",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho 2 điện tích điểm q 1 = 5.10 -9 C; q 2 = 5.10 -9 C lần lượt đặt tại 2 điểm A, B cách nhau 10 cm trong chân không. Xác định cường độ điện trường tại điểm M nằm tại trung điểm của AB ?",
+      "options": [
+        "A. 9000 V/m hướng về phía điện tích dương.",
+        "B. 9000 V/m hướng về phía điện tích âm.",
+        "C. bằng 0",
+        "D. 9000 V/m hướng vuông góc với đường nối hai điện tích."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là B E 1 = E 2 = k Q r 2 = 4500 V/m E 1 → ↑ ↑ E 2 → nên E = E 1 + E 2 = 9000 V/m"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Tại một điểm có 2 cường độ điện trường thành phần vuông góc với nhau và có độ lớn là 6000 V/m và 8000V/m. Độ lớn cường độ điện trường tổng hợp là",
+      "options": [
+        "A. 10000 V/m.",
+        "B. 7000 V/m.",
+        "C. 5000 V/m.",
+        "D. 6000 V/m."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là A Do 2 vecto cường độ điện trường thành phần vuông góc với nhau nên E = E 1 2 + E 2 2 = 6000 + 2 8000 2 = 10000 V/m"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Tại hai điểm A, B cách nhau 15cm, trong không khí có hai điện tích q 1 = - 12.10 -6 C, q 2 = 3.10 -6 C. Xác định độ lớn cường độ điện trường do hai điện tích này gây ra tại điểm C. Biết AC = 20cm, BC = 5cm?",
+      "options": [
+        "A. 8100 kV/m.",
+        "B. 3125 kV/m.",
+        "C. 3351 kV/m.",
+        "D. 6519 kV/m."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là A Vì AC = AB + BC nên ba điểm thẳng hàng theo đúng thứ tự A, B, C. E = k Q r 2 E 1 = 9.10 9 . 12.10 − 6 0 , 2 2 = 27.10 5 E 2 = 91.0 9 . 3.10 − 6 0 , 05 2 = 108.10 5 ⇒ E → = E → 1 + E → 2 ⇒ E = E 2 − E 1 = 81.10 5 V / m"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Tai hai điểm A và B cách nhau 5 cm trong chân không có hai điện tích điểm q 1 = +16.10 -8 C và q 2 = −9.10 -8 C . Tính độ lớn cường độ điện trường tổng hợp tại điểm C cách A và cách B lần lượt là 4 cm và 3 cm.",
+      "options": [
+        "A. 1273 kV/m.",
+        "B. 1444 kV/m.",
+        "C. 1288 kV/m.",
+        "D. 1285 kV/m."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là A E = k Q r 2 E 1 = 9.10 9 . 16.10 − 8 0 , 04 2 = 9.10 5 E 2 = 9.10 9 . 9.10 − 8 0 , 03 2 = 9.10 5 ⇒ E = E 1 2 + E 2 2 = 1273.10 3 V / m"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Tai hai điểm A và B cách nhau 8 cm trong chân không có hai điện tích điểm q 1 = q 2 = 16.10 -8 C . Xác định độ lớn cường độ điện trường do hai điện tích này gây ra tại điểm C biết AC = BC = 8 cm.",
+      "options": [
+        "A. 450 kV/m.",
+        "B. 225 kV/m.",
+        "C. 351 kV/m.",
+        "D. 285 kV/m."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là C E = k Q r 2 ⇒ E 1 = E 2 = 9.10 9 . 16.10 − 8 0 , 08 2 = 2 , 25.10 5 E → = E → 1 + E → 2 ⇒ E = E 1 cos α + E 1 cos α → cos α = H C A C = 39 8 E = 351.10 3 V / m"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Tại hai điểm A và B cách nhau 10 cm trong không khí có đặt hai điện tích q 1 = 16.10 -8 C và q 2 = 9.10 -8 C. Xác định độ lớn cường độ điện trường do hai điện tích này gây ra tại điểm C biết AC = 6 cm và BC = 9 cm.",
+      "options": [
+        "A. 450 kV/m.",
+        "B. 225 kV/m.",
+        "C. 331 kV/m.",
+        "D. 427 kV/m."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là D cos φ = A C 2 + B C 2 − A B 2 2 A C . B C = 17 108 E = k Q r 2 E 1 = 9.10 9 . 16.10 − 8 0 , 06 2 = 4.10 5 E 2 = 9.10 9 . 9.10 − 8 0 , 09 2 = 10 5 E → = E → 1 + E → 2 ⇒ E 2 = E 1 2 + E 2 2 + 2 E 1 E 2 cos φ ⇒ E = 4 , 273.10 5 V / m"
+    }
+  ]
+}

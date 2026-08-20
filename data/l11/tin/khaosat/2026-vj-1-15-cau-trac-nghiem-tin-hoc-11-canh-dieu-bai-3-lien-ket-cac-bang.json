@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-11-canh-dieu-bai-3-lien-ket-cac-bang",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-11-canh-die",
+  "grade": "l11",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 11 Cánh diều Bài 3: Liên kết các bảng trong cơ sở dữ liệu có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Liên kết giữa hai bảng trong cơ sở dữ liệu nhằm mục đích gì?",
+      "options": [
+        "A. Kết nối dữ liệu giữa các trường khác nhau",
+        "B. Tạo mối quan hệ giữa các bảng để đảm bảo toàn vẹn dữ liệu",
+        "C. Tạo ra các trường khoá ngoại",
+        "D. Tạo ra các bản sao của bảng"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Liên kết giữa hai bảng nhằm tạo mối quan hệ để nối các trường dữ liệu giữa các bảng và đảm bảo toàn vẹn dữ liệu. Các lựa chọn khác không hoàn toàn chính xác."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Loại phép nối nào chỉ lấy các bản ghi nếu các giá trị trường được kết nối trùng khớp?",
+      "options": [
+        "A. Nối ngoài trái",
+        "B. Nối ngoài phải",
+        "C. Nối trong",
+        "D. Không có loại nối nào"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Phép nối trong (Inner Join) chỉ lấy các bản ghi nếu các giá trị trường được kết nối trùng khớp."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trong một phép nối ngoài trái, hệ thống sẽ làm gì?",
+      "options": [
+        "A. Chỉ nối các bản ghi của bảng bên trái",
+        "B. Lấy tất cả các bản ghi của bảng bên phải",
+        "C. Lấy tất cả các bản ghi của bảng bên trái, và chỉ nối với các bản ghi khớp của bảng bên phải",
+        "D. Chỉ nối các bản ghi của bảng bên phải"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Trong phép nối ngoài trái (Left Outer Join), hệ thống lấy tất cả các bản ghi của bảng bên trái và chỉ nối với các bản ghi khớp của bảng bên phải."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cách tạo mối quan hệ giữa hai bảng là gì?",
+      "options": [
+        "A. Kéo và thả từ trường khoá chính của bảng mẹ vào trường khoá ngoài của bảng con",
+        "B. Kéo và thả từ trường khoá ngoài của bảng con vào trường khoá chính của bảng mẹ",
+        "C. Chọn trường khoá chính từ cả hai bảng",
+        "D. Chọn trường bất kỳ từ hai bảng"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Để tạo mối quan hệ, bạn cần kéo và thả từ trường khoá ngoài của bảng con vào trường khoá chính của bảng mẹ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Lựa chọn nào sau đây đảm bảo toàn vẹn tham chiếu?",
+      "options": [
+        "A. Bật chức năng Lookup Wizard",
+        "B. Đánh dấu hộp kiểm Enforce Referential Integrity",
+        "C. Đặt khoá chính cho cả hai bảng",
+        "D. Không cần thiết lập gì"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Để đảm bảo toàn vẹn tham chiếu giữa hai bảng, bạn phải đánh dấu hộp kiểm Enforce Referential Integrity khi tạo mối quan hệ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cột dữ liệu từ tra cứu giúp người dùng làm gì?",
+      "options": [
+        "A. Tạo dữ liệu mới từ bảng khác",
+        "B. Tự động sắp xếp các bản ghi",
+        "C. Lựa chọn dữ liệu từ danh sách có sẵn thay vì phải nhập liệu",
+        "D. Kết nối hai bảng với nhau"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Cột dữ liệu từ tra cứu giúp người dùng chọn mục dữ liệu từ danh sách thả xuống, giúp nhập liệu nhanh hơn và giảm lỗi."
+    }
+  ]
+}

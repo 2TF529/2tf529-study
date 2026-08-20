@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-11-ket-noi-tri-thuc-bai-28-co-dap-an",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-11-ket-noi-",
+  "grade": "l11",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 11 Kết nối tri thức Bài 28 có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Mô đun nào thực hiện việc đọc dữ liệu từ tệp vào chương trình trong quá trình thiết kế chương trình theo mô đun?",
+      "options": [
+        "A. GhiDL",
+        "B. NhapDL",
+        "C. Sapxep",
+        "D. XuLyDL"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: NhapDL là mô đun dùng để đọc dữ liệu từ tệp và đưa vào hai mảng chứa mặt hàng và doanh số."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Công việc nào sau đây thuộc nhóm \"Công việc nâng cấp một mô đun cũ\"?",
+      "options": [
+        "A. Tạo báo cáo mới ghi doanh số bán trung bình trong ngày",
+        "B. Thay đổi số lượng mặt hàng có doanh số cao nhất trong báo cáo",
+        "C. Nhập thêm mặt hàng và doanh số mới vào tệp dữ liệu",
+        "D. Thực hiện báo cáo riêng cho khách hàng"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Thay đổi số lượng mặt hàng yêu cầu cập nhật mô đun GhiDL để đưa thêm hoặc bớt dữ liệu ra báo cáo, không cần thiết kế mới."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Khi sắp xếp các mặt hàng theo thứ tự doanh số, mô đun nào sẽ thực hiện chức năng này?",
+      "options": [
+        "A. NhapDL",
+        "B. GhiDL",
+        "C. Sapxep",
+        "D. InBaoCao"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Mô đun Sapxep thực hiện sắp xếp mảng theo thứ tự doanh số, giúp xác định các mặt hàng bán cao nhất và thấp nhất."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Nếu cần tìm mặt hàng có doanh số xấp xỉ một giá trị K, công việc này thuộc nhóm nào?",
+      "options": [
+        "A. Công việc mới hoàn toàn",
+        "B. Công việc nâng cấp một mô đun cũ",
+        "C. Công việc không liên quan đến thuật toán và lập trình",
+        "D. Không thuộc nhóm nào"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Việc tìm mặt hàng có doanh số gần với K là một chức năng hoàn toàn mới, yêu cầu xây dựng một mô đun mới để thực hiện."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: : Phương pháp thiết kế chương trình theo mô đun có ưu điểm nào sau đây?",
+      "options": [
+        "A. Làm chương trình ngắn gọn, dễ hiểu hơn",
+        "B. Giảm khả năng tái sử dụng các phần của chương trình",
+        "C. Hạn chế khả năng làm việc nhóm",
+        "D. Giảm tính linh hoạt khi chỉnh sửa chương trình"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Thiết kế theo mô đun giúp chia nhỏ chương trình, làm cho chương trình ngắn gọn, dễ hiểu và dễ bảo trì hơn."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: : Mô đun nào sau đây có nhiệm vụ đưa dữ liệu ra báo cáo cuối ngày?",
+      "options": [
+        "A. NhapDL",
+        "B. GhiDL",
+        "C. Sapxep",
+        "D. XuLyDL"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Mô đun GhiDL đưa dữ liệu ra tệp báo cáo theo yêu cầu, bao gồm các mặt hàng có doanh số cao nhất và thấp nhất."
+    }
+  ]
+}

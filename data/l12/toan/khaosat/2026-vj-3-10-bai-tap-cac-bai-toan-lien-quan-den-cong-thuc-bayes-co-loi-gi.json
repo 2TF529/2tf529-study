@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-3-10-bai-tap-cac-bai-toan-lien-quan-den-cong-thuc-bayes-co-loi-gi",
+  "sourceId": "vietjack:3-10-bai-tap-cac-bai-toan-lien-quan-den-",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.10 bài tập Các bài toán liên quan đến công thức Bayes có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Nếu hai biến cố A, B thỏa mãn P(A) = 0,3; P(B) = 0,6 và P(A|B) = 0,4 thì P(B|A) bằng",
+      "options": [
+        "A. 0,5;",
+        "B. 0,6;",
+        "C. 0,8;",
+        "D. 0,2."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Theo công thức Bayes, ta có \\(P\\left( {B|A} \\right) = \\frac{{P\\left( B \\right).P\\left( {A|B} \\right)}}{{P\\left( A \\right)}} = \\frac{{0,6.0,4}}{{0,3}} = 0,8\\)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hai biến cố A và B, với P(A) = 0,2; P(B|A) = 0,7; \\(P\\left( {B|\\overline A } \\right) = 0,15\\). Tính P(A|B).",
+      "options": [
+        "A. \\(\\frac{7}{{13}}\\);",
+        "B. \\(\\frac{6}{{13}}\\);",
+        "C. \\(\\frac{4}{{13}}\\);",
+        "D. \\(\\frac{9}{{13}}\\)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Có P(A) = 0,2 \\( \\Rightarrow P\\left( {\\overline A } \\right) = 0,8\\). Ta có \\(P\\left( B \\right) = P\\left( A \\right).P\\left( {B|A} \\right) + P\\left( {\\overline A } \\right).P\\left( {B|\\overline A } \\right) = 0,2.0,7 + 0,8.0,15 = 0,26\\). Theo công thức Bayes \\(P\\left( {A|B} \\right) = \\frac{{P\\left( A \\right).P\\left( {B|A} \\right)}}{{P\\left( B \\right)}} = \\frac{{0,2.0,7}}{{0,26}} = \\frac{7}{{13}}\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Người ta điều tra thấy ở một địa phương nọ có 3% tài xế sử dụng điện thoại di động khi lái xe. Người ta nhận thấy khi tài xế lái xe gây ra tai nạn thì có 21% là do tài xế sử dụng điện thoại. Hỏi việc sử dụng điện thoại di động khi lái xe làm tăng xác suất gây tai nạn lên bao nhiêu lần?",
+      "options": [
+        "A. 3;",
+        "B. 7;",
+        "C. 5;",
+        "D. 6."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Gọi A là biến cố “Tài xế sử dụng điện thoại di động khi lái xe”, B là biến cố “Tài xế lái xe gây tai nạn”. Khi đó P(A) = 3% = 0,03; P(A|B) = 21% = 0,21. Theo công thức Bayes: \\(P\\left( {B|A} \\right) = \\frac{{P\\left( B \\right).P\\left( {A|B} \\right)}}{{P\\left( A \\right)}}\\)\\( \\Rightarrow \\frac{{P\\left( {B|A} \\right)}}{{P\\left( B \\right)}} = \\frac{{P\\left( {A|B} \\right)}}{{P\\left( A \\right)}} = \\frac{{0,21}}{{0,03}} = 7\\). Vậy việc sử dụng điện thoại di động khi lái xe làm tăng xác suất gây tai nạn lên 7 lần."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Có hai hộp đựng các viên bi. Hộp thứ nhất đựng 5 bi đỏ và 3 bi vàng, hộp thứ hai đựng 4 bi đỏ và 2 bi vàng. Đầu tiên lấy ngẫu nhiên một bi từ hộp thứ nhất bỏ sang hộp thứ hai, sau đó lấy ngẫu nhiên một bi từ hộp thứ hai. Tìm xác suất để lần thứ nhất lấy được bi đỏ biết rằng khi lấy bi từ hộp thứ hai thì thu được bi đỏ.",
+      "options": [
+        "A. \\(\\frac{{15}}{{28}}\\);",
+        "B. \\(\\frac{{17}}{{28}}\\);",
+        "C. \\(\\frac{{25}}{{37}}\\);",
+        "D. \\(\\frac{{27}}{{34}}\\)."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Gọi biến cố A: “Lấy bi đỏ từ hộp thứ nhất bỏ sang hộp thứ hai”; Biến cố B: “Lấy được bi đỏ từ hộp thứ hai”. Ta có \\(P\\left( A \\right) = \\frac{5}{8};P\\left( {B|A} \\right) = \\frac{5}{7};P\\left( {\\overline A } \\right) = \\frac{3}{8};P\\left( {B|\\overline A } \\right) = \\frac{4}{7}\\). Có \\(P\\left( B \\right) = P\\left( A \\right).P\\left( {B|A} \\right) + P\\left( {\\overline A } \\right).P\\left( {B|\\overline A } \\right) = \\frac{5}{8}.\\frac{5}{7} + \\frac{3}{8}.\\frac{4}{7} = \\frac{{37}}{{56}}\\). Vì vậy \\(P\\left( {A|B} \\right) = \\frac{{\\frac{5}{8}.\\frac{5}{7}}}{{\\frac{{37}}{{56}}}} = \\frac{{25}}{{37}}\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Một bệnh viên có hai phòng khám X và Y với khả năng lựa chọn của bệnh nhân là như nhau. Tỉ lệ bệnh nhân nam có ở phòng X và phòng Y lần lượt là 60% và 40%. Một người bệnh được chọn ngẫu nhiên từ hai phòng khám và biết người này là nam, xác suất để người bệnh đến từ phòng khám X là",
+      "options": [
+        "A. 0,6;",
+        "B. 0,5;",
+        "C. 0,4;",
+        "D. 0,3."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Biến cố A: “Bệnh nhân đến từ phòng khám X”; biến cố B: “Bệnh nhân là nam”. Ta có P(A) = 0,5; P(B|A) = 0,6; \\(P\\left( {\\overline A } \\right) = 0,5;P\\left( {B|\\overline A } \\right) = 0,4\\). Khi đó \\(P\\left( B \\right) = P\\left( A \\right).P\\left( {B|A} \\right) + P\\left( {\\overline A } \\right).P\\left( {B|\\overline A } \\right) = 0,5.0,6 + 0,5.0,4 = 0,5\\). Xác suất cần tính: \\(P\\left( {A|B} \\right) = \\frac{{P\\left( A \\right).P\\left( {B|A} \\right)}}{{P\\left( B \\right)}} = \\frac{{0,5.0,6}}{{0,5}} = 0,6\\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trường Phan Đình Phùng có 20% học sinh tham gia câu lạc bộ thể thao, trong số học sinh đó có 85% học sinh biết chơi bóng đá. Ngoài ra, có 10% số học sinh không tham gia câu lạc bộ thể thao cũng biết chơi bóng đá. Chọn ngẫu nhiên 1 học sinh của trường. Giả sử học sinh đó biết chơi bóng đá. Tính xác suất chọn được học sinh thuộc câu lạc bộ thể thao?",
+      "options": [
+        "A. 0,8;",
+        "B. 0,25;",
+        "C. 0,86;",
+        "D. 0,68."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Biến cố A: “Chọn được học sinh thuộc câu lạc bộ thể thao”; Biến cố B: “Chọn được học sinh biết chơi bóng đá”. Theo đề ta có P(A) = 0,2; \\(P\\left( {\\overline A } \\right) = 0,8\\); P(B|A) = 0,85; \\(P\\left( {B|\\overline A } \\right) = 0,1\\). Theo công thức xác suất toàn phần, ta có: \\(P\\left( B \\right) = P\\left( A \\right).P\\left( {B|A} \\right) + P\\left( {\\overline A } \\right).P\\left( {B|\\overline A } \\right) = 0,2.0,85 + 0,8.0,1 = 0,25\\). Theo công thức Bayes, ta có \\(P\\left( {A|B} \\right) = \\frac{{P\\left( A \\right).P\\left( {B|A} \\right)}}{{P\\left( B \\right)}} = \\frac{{0,2.0,85}}{{0,25}} = 0,68\\)."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-1-bo-10-de-thi-cuoi-ki-1-toan-10-nam-2025-2026-ho-chi-minh-co-dap",
+  "sourceId": "vietjack:1-bo-10-de-thi-cuoi-ki-1-toan-10-nam-202",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "cuoiki1",
+  "year": 2026,
+  "title": "1.Bộ 10 đề thi cuối kì 1 Toán 10 năm 2025-2026 Hồ Chí Minh (có đáp án)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Thí sinh trả lời từ câu 1 đến câu 16. Mỗi câu hỏi thí sinh chỉ chọn một phương án. Cho hai lực \\({\\vec F_1}\\) , \\({\\vec F_2}\\) cùng tác động vào vật đúng tại điểm \\(O\\) , biết hai lực \\({\\vec F_1}\\) , \\({\\vec F_2}\\) đều có cường độ \\(60{\\rm{\\;N}}\\) và hợp với nhau một góc \\(60^\\circ \\) . Hỏi vật đó phải chịu một lực tổng hợp có cường độ là bao nhiêu?",
+      "options": [
+        "A. \\(120\\) .",
+        "B. \\(60\\sqrt 3 \\) .",
+        "C. \\(30\\sqrt 3 \\) .",
+        "D. \\(30\\) ."
+      ],
+      "answer": "B",
+      "note": "Lực tổng hợp tác dụng vào vật là \\(\\vec F = {\\vec F_1} + {\\vec F_2}\\) . Bình phương vô hướng hai vế: \\({\\vec F^2} = {\\left( {{{\\vec F}_1} + {{\\vec F}_2}} \\right)^2} = \\vec F_1^2 + \\vec F_2^2 + 2{\\vec F_1} \\cdot {\\vec F_2}\\) . Suy ra \\(\\left| {\\vec F} \\right|{^2} = \\left| {{{\\vec F}_1}} \\right|{^2} + \\left| {{{\\vec F}_2}} \\right|{^2} + 2\\left| {{{\\vec F}_1}} \\right|\\left| {{{\\vec F}_2}} \\right|\\cos \\left( {{{\\vec F}_1},{{\\vec F}_2}} \\right)\\) . Thay số \\(\\left| {{{\\vec F}_1}} \\right| = 60\\) , \\(\\left| {{{\\vec F}_2}} \\right| = 60\\) , \\(\\left( {{{\\vec F}_1},{{\\vec F}_2}} \\right) = 60^\\circ \\) : \\(\\left| {\\vec F} \\right|{^2} = {60^2} + {60^2} + 2 \\cdot 60 \\cdot 60 \\cdot \\cos 60^\\circ = 3600 + 3600 + 7200 \\cdot \\frac{1}{2} = 10800\\) . Vậy \\(\\left| {\\vec F} \\right| = \\sqrt {10800} = 60\\sqrt 3 {\\rm{\\;N}}\\) . Chọn B"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho số gần đúng \\(a = 213516\\) với độ chính xác \\(d = 2000\\) . Hãy viết số quy tròn của số \\(a\\) .",
+      "options": [
+        "A. \\(214000\\) .",
+        "B. \\(213516\\) .",
+        "C. \\(200000\\) .",
+        "D. \\(210000\\) ."
+      ],
+      "answer": "D",
+      "note": "Độ chính xác \\(d = 2000\\) có hàng lớn nhất là hàng nghìn. Do đó, ta quy tròn số \\(a = 213516\\) đến hàng chục nghìn. Chữ số ở hàng chục nghìn là \\(1\\) , chữ số ngay sau nó (hàng nghìn) là \\(3 < 5\\) , nên giữ nguyên chữ số hàng chục nghìn và thay các chữ số sau nó bằng số \\(0\\) . Số quy tròn của \\(a\\) là \\(210000\\) . Chọn D"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho tập hợp \\(A = \\left\\{ {1;2;3} \\right\\}\\) , \\(B = \\left\\{ {1;3} \\right\\}\\) . Khẳng định nào đúng?",
+      "options": [
+        "A. \\(B \\subset A\\) .",
+        "B. \\(A \\cap B = \\emptyset \\) .",
+        "C. \\(A = B\\) .",
+        "D. \\(A \\subset B\\) ."
+      ],
+      "answer": "A",
+      "note": "Mọi phần tử của tập hợp \\(B\\) ( \\(1\\) và \\(3\\) ) đều thuộc tập hợp \\(A\\) , do đó \\(B \\subset A\\) . Chọn A"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Điểm thi môn Toán lớp 10A của một Trường trung học phổ thông được trình bày ở bảng phân bố tần số sau: Điểm thi 5 6 7 8 9 10 Tần số \\(7\\) \\(5\\) \\(10\\) \\(12\\) \\(4\\) \\(2\\) Trong các giá trị dưới đây, giá trị nào gần nhất với phương sai của bảng phân bố tần số trên?",
+      "options": [
+        "A. \\(1,94\\) .",
+        "B. \\(0,94\\) .",
+        "C. \\(2,94\\) .",
+        "D. \\(3,94\\) ."
+      ],
+      "answer": "A",
+      "note": "Tổng số học sinh (cỡ mẫu): \\(n = 7 + 5 + 10 + 12 + 4 + 2 = 40\\) . Số trung bình cộng: \\(\\bar x = \\frac{{5 \\cdot 7 + 6 \\cdot 5 + 7 \\cdot 10 + 8 \\cdot 12 + 9 \\cdot 4 + 10 \\cdot 2}}{{40}} = \\frac{{35 + 30 + 70 + 96 + 36 + 20}}{{40}} = \\frac{{287}}{{40}} = 7,175\\) . Phương sai \\({s^2}\\) : \\({s^2} = \\frac{1}{{40}}\\left[ {7{{\\left( {5 - 7,175} \\right)}^2} + 5{{\\left( {6 - 7,175} \\right)}^2} + 10{{\\left( {7 - 7,175} \\right)}^2} + 12{{\\left( {8 - 7,175} \\right)}^2} + 4{{\\left( {9 - 7,175} \\right)}^2} + 2{{\\left( {10 - 7,175} \\right)}^2}} \\right]\\)\\( \\approx 1,94\\) . Chọn A"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Trong trận chung kết World Cup 2022, Lionel Messi đã có cơ hội thực hiện cú sút phạt trực tiếp trước khung thành đội Pháp. Các cầu thủ Pháp lập thành hàng rào chắn cách điểm đá phạt \\(10{\\rm{\\;m}}\\) và cầu thủ cao nhất trong hàng rào là \\(2{\\rm{\\;m}}\\) . Giả định rằng quỹ đạo quả bóng sau khi Messi thực hiện cú sút là một parabol và nó đạt được chiều cao lớn nhất là \\(4{\\rm{\\;m}}\\) sau khi rời chân Messi \\(16{\\rm{\\;m}}\\) theo phương ngang. Hỏi cú đá phạt này của Messi có độ cao tại vị trí hàng rào chắn là gần bằng?",
+      "options": [
+        "A. \\(3,89\\) .",
+        "B. \\(4,56\\) .",
+        "C. \\(4,33\\) .",
+        "D. \\(3,44\\) ."
+      ],
+      "answer": "D",
+      "note": "Chọn hệ trục tọa độ \\(Oxy\\) sao cho gốc tọa độ \\(O\\left( {0;0} \\right)\\) tại vị trí quả bóng rời chân Messi. Trục \\(Ox\\) theo phương ngang. Trục \\(Oy\\) theo phương thẳng đứng. Quỹ đạo là một parabol \\(\\left( P \\right):y = a{x^2} + bx + c\\) . Quả bóng bắt đầu tại gốc tọa độ \\(O\\left( {0;0} \\right) \\in \\left( P \\right) \\Rightarrow c = 0\\) . Đỉnh của parabol là điểm \\(I\\left( {16;4} \\right)\\) : Đỉnh thuộc \\(\\left( P \\right) \\Rightarrow 4 = a \\cdot {16^2} + b \\cdot 16 \\Rightarrow 256a + 16b = 4\\) . Tọa độ hoành độ đỉnh \\({x_I} = - \\frac{b}{{2a}} = 16 \\Rightarrow b = - 32a\\) . Thay \\(b = - 32a\\) vào phương trình: \\(256a + 16\\left( { - 32a} \\right) = 4 \\Rightarrow - 256a = 4 \\Rightarrow a = - \\frac{1}{{64}}\\) . Suy ra \\(b = - 32 \\cdot \\left( { - \\frac{1}{{64}}} \\right) = \\frac{1}{2}\\) . Do đó, phương trình parabol là: \\(y = - \\frac{1}{{64}}{x^2} + \\frac{1}{2}x\\) . Hàng rào chắn cách điểm đá phạt \\(10{\\rm{\\;m}}\\) , ứng với \\(x = 10\\) . Độ cao của quả bóng tại vị trí hàng rào là: \\(y\\left( {10} \\right) = - \\frac{1}{{64}}{\\left( {10} \\right)^2} + \\frac{1}{2}\\left( {10} \\right) = - \\frac{{100}}{{64}} + 5 = - 1,5625 + 5 = 3,4375 \\approx 3,44{\\rm{\\;m}}\\) . Chọn D"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Quan sát biểu đồ sau và cho biết trong giai đoạn 2016 – 2025 năm nào có tổng giá trị xuất khẩu và nhập khẩu cao nhất?",
+      "options": [
+        "A. Năm 2024.",
+        "B. Năm 2020.",
+        "C. Năm 2025 (9 tháng).",
+        "D. Năm 2022."
+      ],
+      "answer": "C",
+      "note": "Tính tổng giá trị xuất khẩu và nhập khẩu cho từng mốc thời gian: 2016 : \\(27,8 + 18,5 = 46,3\\) 2018 : \\(38,6 + 29,4 = 68,0\\) 2020 : \\(64,0 + 44,6 = 108,6\\) 2022 : \\(81,9 + 55,5 = 137,4\\) 2023 : \\(88,0 + 57,3 = 145,3\\) 2024 : \\(107,1 + 72,6 = 179,7\\) 2025 (9 tháng) : \\(110,0 + 77,5 = 187,5\\) Giá trị \\(187,5\\) tỷ USD là cao nhất trong các mốc thống kê. Ngoài ra, không cần tính toán, ta thấy cột mốc năm 2025 (9 tháng) cao nhất nên có thể chọn ngay đáp án C. Chọn C"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Cho hai tập hợp \\(A = \\left\\{ { - 7;1;5;7} \\right\\}\\) , \\(B = \\left\\{ { - 3;5;7;13} \\right\\}\\) . Tìm tập hợp \\(A \\cap B\\) .",
+      "options": [
+        "A. \\(\\left\\{ {13} \\right\\}\\) .",
+        "B. \\(\\left\\{ { - 7;1} \\right\\}\\) .",
+        "C. \\(\\left\\{ { - 7; - 3;1;5;7;13} \\right\\}\\) .",
+        "D. \\(\\left\\{ {5;7} \\right\\}\\) ."
+      ],
+      "answer": "D",
+      "note": "Tập hợp \\(A \\cap B\\) gồm các phần tử thuộc cả \\(A\\) và \\(B\\) . Các phần tử chung của \\(A\\) và \\(B\\) là \\(5\\) và \\(7\\) . Do đó, \\(A \\cap B = \\left\\{ {5;7} \\right\\}\\) . Chọn D"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho tam giác \\(ABC\\) có \\(AC = 6\\) , \\(AB = 8\\) và \\(\\widehat A = 60^\\circ \\) . Kết quả nào trong các kết quả sau là độ dài của cạnh \\(BC\\) ?",
+      "options": [
+        "A. \\(2\\sqrt {52} \\) .",
+        "B. \\(2\\sqrt {13} \\) .",
+        "C. \\(\\sqrt {13} \\) .",
+        "D. \\(52\\) ."
+      ],
+      "answer": "B",
+      "note": "Áp dụng định lý côsin trong tam giác \\(ABC\\) : \\(B{C^2} = A{B^2} + A{C^2} - 2 \\cdot AB \\cdot AC \\cdot \\cos A\\) \\(B{C^2} = {8^2} + {6^2} - 2 \\cdot 8 \\cdot 6 \\cdot \\cos 60^\\circ = 64 + 36 - 96 \\cdot \\frac{1}{2} = 100 - 48 = 52\\) \\(BC = \\sqrt {52} = 2\\sqrt {13} \\) . Chọn B"
+    }
+  ]
+}

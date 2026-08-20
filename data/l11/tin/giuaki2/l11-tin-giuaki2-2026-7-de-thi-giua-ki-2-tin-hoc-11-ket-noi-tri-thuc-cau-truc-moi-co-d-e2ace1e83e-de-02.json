@@ -1,0 +1,368 @@
+{
+  "id": "l11-tin-giuaki2-2026-7-de-thi-giua-ki-2-tin-hoc-11-ket-noi-tri-thuc-cau-truc-moi-co-d-e2ace1e83e-de-02",
+  "grade": "l11",
+  "subjectSlug": "tin",
+  "examType": "giuaki2",
+  "year": 2026,
+  "code": "Đề 02",
+  "title": "7+ Đề thi Giữa kì 2 Tin học 11 Kết nối tri thức (cấu trúc mới, có đáp án) - Đề 02",
+  "duration": 45,
+  "answerSource": "partial",
+  "sourceUrl": "https://www.vietjack.com/de-kiem-tra-lop-11/de-thi-tin-hoc-11-giua-ki-2-ket-noi-tri-thuc.jsp",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 1.&lt;/strong&gt; MySQL là gì?",
+      "options": [
+        "A. Một ngôn ngữ lập trình.",
+        "B. Một hệ quản trị cơ sở dữ liệu.",
+        "C. Một framework phát triển ứng dụng web.",
+        "D. Một phần mềm biên dịch mã nguồn mở."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 2. &lt;/strong&gt;Để thiết lập kết nối với cơ sở dữ liệu MySQL trong HeidiSQL, bạn cần cung cấp thông tin gì?",
+      "options": [
+        "A. Tên máy chủ (host), tên người dùng (username), mật khẩu (password).",
+        "B. Tên cơ sở dữ liệu (database name), tên bảng (table name), trường dữ liệu (field name).",
+        "C. Tên file cấu hình (configuration file name), đường dẫn file cấu hình.",
+        "D. Tên máy chủ (host), tên bảng (table name)."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 3. &lt;/strong&gt;Cần gõ câu truy vấn nào trong cửa sổ lệnh của MySQL để đọc được toàn bộ thông tin bảng bangdiem trong CSDL hocsinh?",
+      "options": [
+        "A. INSERT * FROM hocsinh.bangdiem;",
+        "B. DELETE hocsinh FROM bangdiem;",
+        "C. UPDATE hocsinh;",
+        "D. SELECT * FROM hocsinh.bangdiem;"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 4. &lt;/strong&gt;Để thêm thông tin ngày sinh của các nhạc sĩ, ca sĩ vào CSDL, bạn cần?",
+      "options": [
+        "A. Cần thay đổi cấu trúc CSDL bằng cách thêm một bảng mới để lưu trữ thông tin này.",
+        "B. Thêm một trường mới vào bảng \"nhacsi\" và bảng \"casi\" để lưu trữ thông tin ngày sinh.",
+        "C. Cần xóa bỏ cấu trúc CSDL và thay bằng cấu trúc khác.",
+        "D. Đáp án khác."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 5. &lt;/strong&gt;Để thực hiện mô hình quản lí danh sách tên quận/huyện của các tỉnh thành phố em phải xác định mối quan hệ giữa?",
+      "options": [
+        "A. Tỉnh thành phố và Quận/Huyện.",
+        "B. Tỉnh và Thị trấn.",
+        "C. Tỉnh và thị xã.",
+        "D. Huyện và thị trấn."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 6. &lt;/strong&gt;Để thực hiện mô hình quản lí danh sách tên quận/huyện của các tỉnh thành phố, trong bảng Quận/Huyện thì MaTinhThanhPho sẽ là?",
+      "options": [
+        "A. Khóa chính.",
+        "B. Khóa ngoại tham chiếu tới bảng Quận/Huyện.",
+        "C. Khóa ngoai tham chiếu tới bảng Tỉnh thành phố.",
+        "D. Đáp án khác."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 7. &lt;/strong&gt;Việc đầu tiên để làm việc với một CSDL là?",
+      "options": [
+        "A. Thu thập.",
+        "B. Xử lý.",
+        "C. Tạo lập.",
+        "D. Cả ba đáp án trên đều đúng."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 8. &lt;/strong&gt;Chọn cách sai khi khởi động phàn mềm HeidiSQL?",
+      "options": [
+        "A. Kích đúp chuột trái vào biểu tượng của phần mềm HeidiSQL trên màn hình nền.",
+        "B. Kích đúp chuột phải vào biểu tượng của phần mềm HeidiSQL trên màn hình nền.",
+        "C. Kích chuột trái vào biểu tượng của phần mềm HeidiSQL trên màn hình nền, nháy chuột phải rồi chọn Open.",
+        "D. -> start tìm đến phần mềm HeidiSQL -> kích chuột trái vào tên phần mềm."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 9. &lt;/strong&gt;Chọn phương án đúng khi chọn khóa chính cho bảng?",
+      "options": [
+        "A. Phải tạo tất cả các cột xong mới khai báo khóa chính cho bảng.",
+        "B. Sau khi lưu bảng xong mới được khai báo khóa chính.",
+        "C. Có thể khai báo khóa chính ngay sau khi tạo xong cột làm khóa chính của bảng.",
+        "D. Chọn khóa chính trước khi tạo các cột của bảng."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 10. &lt;/strong&gt;Kiểu dữ liệu cho cột tên thành phố (tenthanhpho) trong CSDl quản lí tỉnh, thành phố là kiểu nào?",
+      "options": [
+        "A. INT.",
+        "B. VARCHAR.",
+        "C. FLOAT.",
+        "D. DECIMAL."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 11,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 11. &lt;/strong&gt;Khoá ngoài có tác dụng?",
+      "options": [
+        "A. Thể hiện dữ liệu chính.",
+        "B. Liên kết các dữ liệu trong bảng với nhau.",
+        "C. Liên kết dữ liệu giữa các bảng.",
+        "D. Cả ba đáp án trên đều đúng."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 12,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 12. &lt;/strong&gt;Trong CSDL &lt;strong&gt;ho_so_hs&lt;/strong&gt; để thêm bảng ta nháy chuột phải vào tên CSDL rồi chọn mục nào? Em hãy chọn đáp án đúng trong các mục đánh dấu 1, 2, 3 , 4 trong hình bên:",
+      "options": [
+        "A. 1.",
+        "B. 2.",
+        "C. 3.",
+        "D. 4."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 13,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 13. &lt;/strong&gt;Xét CSDL quản lý Điểm.\nEm hãy cho biết đâu là đáp án đúng nhất khi xác định khoá ngoài trong bảng BANG_DIEM là trường nào?",
+      "options": [
+        "A. Ma_hoc_sinh; Ma_mon_hoc.",
+        "B. Ma_mon_hoc.",
+        "C. Ma_hoc_sinh.",
+        "D. Diem_so."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 14,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 14. &lt;/strong&gt;Trong CSDL m&lt;strong&gt;usic &lt;/strong&gt;ở bảng &lt;strong&gt;ban_thu_am &lt;/strong&gt;trong thẻ Indexes đang được hiết lập như hình dưới đây, em hãy quan sát hình và cho biết để xoá bỏ hết cùng lúc các thiết lập khoá trong thẻ Indexes ta nháy chuột vào nút nào?",
+      "options": [
+        "A. Nháy nút Add.",
+        "B. Nháy nút Remove.",
+        "C. Nháy nút Clear.",
+        "D. Nháy nút Up."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 15,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 15. &lt;/strong&gt;Để lấy ra danh sách dữ liệu thỏa mãn một yêu cầu nào đó ta thực hiện?",
+      "options": [
+        "A. Các thao tác tạo bộ lọc.",
+        "B. Các thao tác xóa.",
+        "C. Các thao tác sắp xếp.",
+        "D. Đáo án khác."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 16,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 16. &lt;/strong&gt;Có thể nhập câu truy vấn SQL để?",
+      "options": [
+        "A. Sắp xếp dữ liệu một cách linh hoạt hơn.",
+        "B. Xóa dự liệu nhanh hơn.",
+        "C. Truy xuất dữ liệu một cách linh hoạt hơn.",
+        "D. Cả ba đáp án trên đều sai."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 17,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 17. &lt;/strong&gt;Cặp dấu [ ] dùng để?",
+      "options": [
+        "A. Biểu thị nội dung bên ngoài nó là một lựa chọn có thể dùng hoặc không dùng.",
+        "B. Biểu thị nội dung bên trong nó là một lựa chọn có thể dùng hoặc không dùng.",
+        "C. Biểu thị nội dung bên trong nó là một lựa chọn bắt buộc dùng.",
+        "D. Đáp án khác."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 18,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 18. &lt;/strong&gt;Muốn truy xuất tất cả các dòng dữ liệu từ bảng \"casi\" ta dùng ?",
+      "options": [
+        "A. SELECT * FROM casi WHERE tencasi LIKE '%Hoa%';",
+        "B. SELECT * FROM casi WHERE idcasi = 1;",
+        "C. SELECT * FROM casi;",
+        "D. SELECT * FROM casi WHERE tencasi LIKE 'N%';"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 19,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 19. &lt;/strong&gt;Câu 1. Khi nhập dữ liệu cho bảng có khóa ngoài, dữ liệu của khóa ngoài đó phải là dữ liệu liên kết đến loại khóa nào trong bảng tham chiếu khác",
+      "options": [
+        "A. Khóa chính.",
+        "B. Khóa ngoài.",
+        "C. Khóa cấm trùng lặp giá trị.",
+        "D. Khóa thường."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 20,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 20. &lt;/strong&gt;Hệ QTCSDL có chức năng ngăn chặn lỗi nào sau đây trong quá trình nhập dữ liệu cho bảng?",
+      "options": [
+        "A. Có thể ngăn chặn được tất cả các lỗi.",
+        "B. Có thể ngăn chặn được các lỗi như nhập sai, lỗi chính tả.",
+        "C. Có thể ngăn chặn được các lỗi logic đã được khai báo",
+        "D. Không ngăn chặn được lỗi nào trong quá trình nhập dữ liệu."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 21,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 21&lt;/strong&gt;. Khi nhận ra sai sót trong việc nhập dữ liệu cho khóa ngoài ta sửa chữa bằng cách nào sau đây:",
+      "options": [
+        "A. Nháy đúp chuột vào trường khóa ngoài bị sai và gõ các kí tự cần sửa.",
+        "B. Nháy đúp chuột vào trường khóa ngoài bị sai và chọn lại.",
+        "C. Không sửa được vì để đảm bảo tính nhất quán của dữ liệu.",
+        "D. Sửa trong bảng dữ liệu mà khóa ngoài đó liên kết với khóa chính."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 22,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 22.&lt;/strong&gt; Khi Bảng bannhac có dữ liệu với trường idNhacsi tham chiếu đến trường idNhacsi của bảng nhacsi thì ta không thể?",
+      "options": [
+        "A. Tùy tiện xóa các dòng của bảng nhacsi.",
+        "B. Tùy tiện thay đổi dữ liệu trong bảng nhacsi.",
+        "C. Tùy tiện thêm dữ liệu vào bảng nhacsi.",
+        "D. Đáp án khác."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 23,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 23.&lt;/strong&gt; Để truy vấn được nhiều hơn hai bảng theo liên kết khóa ngoài ta dùng cách nào sau đây:",
+      "options": [
+        "A. Lặp lại mệnh đề SELECT.",
+        "B. Lặp lại mệnh đề JOIN.",
+        "C. Lặp lại mệnh đề ODER BY.",
+        "D. Lặp lại mệnh đề WHERE."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 24,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 24.&lt;/strong&gt; Phát biểu nào sau đây là đúng khi truy xuất dữ liệu qua liên kết các bảng?",
+      "options": [
+        "A. Để truy xuất dữ liệu qua liên kết các bảng ta chọn thẻ truy vấn và nhập câu lệnh truy vấn và nhấn vào biểu tượng F4.",
+        "B. Chỉ có thể truy xuất dữ liệu từ 2 bảng.",
+        "C. Truy vấn dữ liệu có thể thực hiện chức năng tổng hợp thông tin từ nhiều bảng và lọc ra danh sách thỏa mãn yêu cầu nào đó.",
+        "D. Để liên kết bảng A và bảng B  câu lệnh mệnh đề JOIN được viết như sau:"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 25,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 25.&lt;/strong&gt; Để lấy ra danh sách các bản nhạc gồm tenBannhac, tenNhacsi từ 2 bảng bannhac và nhacsi, trong phần mềm HeidiSQL ta chọn thẻ:",
+      "options": [
+        "A. Truy vấn.",
+        "B. Tìm kiếm.",
+        "C. Chỉnh sửa.",
+        "D. Tập tin."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 26,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 26.&lt;/strong&gt; Chính sách an toàn dữ liệu phải bao gồm?",
+      "options": [
+        "A. Những quy định về ý thức đối với những người vận hành hệ thống.",
+        "B. Những quy định về trách nhiệm đối với những người vận hành hệ thống.",
+        "C. Cả hai đáp án trên đều đúng.",
+        "D. Cả hai đáp án trên đều sai."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 27,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 27.&lt;/strong&gt; Thực hiện Cấu hình tính năng sao lưu dữ liệu dự phòng dể?",
+      "options": [
+        "A. Đảm bảo tính nhanh chóng, đúng đắn và đầy đủ của quy trình phục hồi dữ liệu.",
+        "B. Đảm bảo tính thường xuyên, đúng đắn và đầy đủ của quá trình sao lưu dữ liệu.",
+        "C. Đáp ứng đúng yêu cầu của tổ chức và đảm bảo tính an toàn của dữ liệu.",
+        "D. Đáp án khác."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 28,
+      "type": "single",
+      "content": "&lt;strong&gt;Câu 28.&lt;/strong&gt; Bạn có thể chọn các tùy chọn sao lưu dữ liệu ở trong cửa sổ nào?",
+      "options": [
+        "A. \"File\".",
+        "B. \"New Session\".",
+        "C. \"Export Database\".",
+        "D. \"Select All\"."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 29,
+      "type": "short_answer",
+      "content": "&lt;strong&gt;Câu 1.&lt;/strong&gt; (1 điểm) Hãy chỉ ra quan hệ tham chiếu giữa khóa ngoài và khóa chính của CSDL Quản lý Sách.",
+      "answer": null
+    },
+    {
+      "id": 30,
+      "type": "short_answer",
+      "content": "&lt;strong&gt;Câu 2.&lt;/strong&gt; (1 điểm) Xác định kiểu dữ liệu cho từng trường của các bảng.",
+      "answer": null
+    },
+    {
+      "id": 31,
+      "type": "short_answer",
+      "content": "&lt;strong&gt;Câu 3.&lt;/strong&gt; (1 điểm) Tạo truy vấn để lập danh sách gồm tên sách, tên tác giả, tên nhà xuất bản.\n……………………… &lt;strong&gt;&lt;em&gt;Hết&lt;/em&gt;&lt;/strong&gt; ………………………",
+      "answer": null
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "id": "l12-toan-totnghiep-2026-de-khao-sat-chat-luong-thpt-mon-toan-so-gddt-thai-nguyen-nam-2026-lan-2",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "code": "THPT_TKT_2026_TN_02",
+  "title": "Đề khảo sát chất lượng THPT môn Toán Sở GD&ĐT Thái Nguyên năm 2026 - Lần 2",
+  "duration": 90,
+  "answerSource": "official",
+  "source": "https://dolthpt.vn/de-khao-sat-chat-luong-thpt-mon-toan-so-gddt-thai-nguyen-nam-2026-lan-2-co-dap-an",
+  "notes": "Nội dung, đáp án và lời giải được nhập từ bản công khai của DOL THPT.",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "content": "Cho hình lập phương $ABCD.A'B'C'D'$ (tham khảo hình vẽ). Góc giữa hai vectơ $\\overrightarrow{A'B'}$ và $\\overrightarrow{CA}$ bằng\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gddt-thai-nguyen-nam-2026-lan-2/cau-01.webp\" alt=\"Hình minh họa câu 1\" loading=\"lazy\"></figure>",
+      "chuong": "vectơ và hệ trục tọa độ trong không gian",
+      "dang": "tích vô hướng của hai vectơ trong không gian",
+      "type": "single",
+      "options": [
+        "A. \\$135^\\circ$.",
+        "B. \\$90^\\circ$.",
+        "C. \\$45^\\circ$.",
+        "D. \\$180^\\circ$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hình lập phương $ABCD.A'B'C'D'$ cạnh bằng $a$.\n- Cần tính góc giữa $\\overrightarrow{A'B'}$ và $\\overrightarrow{CA}$.\n❓ **Hiểu câu hỏi:**\n- Góc giữa hai vectơ $\\vec u, \\vec v$ tính bằng $\\cos\\alpha=\\dfrac{\\vec u\\cdot\\vec v}{|\\vec u||\\vec v|}$.\n- Đặt hệ tọa độ với $A=(0;0;0), B=(1;0;0), C=(1;1;0), D=(0;1;0), A'=(0;0;1), B'=(1;0;1)$.\n🔎 **Hướng dẫn cách làm:**\n- Ta có $\\overrightarrow{A'B'}=(1;0;0)$ và $\\overrightarrow{CA}=A-C=(-1;-1;0)$.\n- Tích vô hướng $\\overrightarrow{A'B'}\\cdot\\overrightarrow{CA}=1\\cdot(-1)+0+0=-1$; độ dài $|\\overrightarrow{A'B'}|=1, |\\overrightarrow{CA}|=\\sqrt{2}$.\n- Suy ra $\\cos\\alpha=\\dfrac{-1}{\\sqrt{2}}=-\\dfrac{\\sqrt{2}}{2}$, vậy $\\alpha=135^\\circ$.\n✅ **Đáp án:** Chọn A. \\$135^\\circ$."
+    },
+    {
+      "id": 2,
+      "content": "Tập nghiệm của bất phương trình $\\log_3(x+1)\\le 2$ là",
+      "chuong": "hàm số mũ và hàm số lôgarit",
+      "dang": "bất phương trình lôgarit",
+      "type": "single",
+      "options": [
+        "A. $(1;9)$.",
+        "B. $(-1;8]$.",
+        "C. $(-1;7]$.",
+        "D. $(-\\infty;8]$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Bất phương trình $\\log_3(x+1)\\le 2$.\n❓ **Hiểu câu hỏi:**\n- Điều kiện xác định $x+1>0$.\n- Cơ số \\$3>1$ nên hàm log đồng biến: $\\log_3 u\\le 2\\Leftrightarrow u\\le 3^2=9$.\n🔎 **Hướng dẫn cách làm:**\n- ĐKXĐ cho $x>-1$.\n- Bất phương trình tương đương $x+1\\le 9\\Leftrightarrow x\\le 8$.\n- Kết hợp được $-1<x\\le 8$, tức $x\\in(-1;8]$.\n✅ **Đáp án:** Chọn B. $(-1;8]$."
+    },
+    {
+      "id": 3,
+      "content": "Trong không gian với hệ tọa độ $Oxyz$, phương trình của mặt phẳng $(Q)$ đi qua điểm $B(-4;-4;8)$ và nhận vectơ $\\vec n=(-1;6;2)$ làm vectơ pháp tuyến là",
+      "chuong": "phương pháp tọa độ trong không gian",
+      "dang": "lập phương trình tổng quát của mặt phẳng",
+      "type": "single",
+      "options": [
+        "A. $-x+6y+2z+4=0$.",
+        "B. $-x+6y+2z-4=0$.",
+        "C. $-x+6y+2z+9=0$.",
+        "D. $-4x-4y+8z+4=0$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- $(Q)$ qua $B(-4;-4;8)$, vectơ pháp tuyến $\\vec n=(-1;6;2)$.\n❓ **Hiểu câu hỏi:**\n- Phương trình mặt phẳng qua $M_0(x_0;y_0;z_0)$ với VTPT $(A;B;C)$: $A(x-x_0)+B(y-y_0)+C(z-z_0)=0$.\n🔎 **Hướng dẫn cách làm:**\n- Thay số: $-1(x+4)+6(y+4)+2(z-8)=0$.\n- Khai triển: $-x-4+6y+24+2z-16=0$.\n- Rút gọn được $-x+6y+2z+4=0$.\n✅ **Đáp án:** Chọn A. $-x+6y+2z+4=0$."
+    },
+    {
+      "id": 4,
+      "content": "Đường tiệm cận ngang của đồ thị hàm số $y=\\dfrac{2x-1}{x-1}$ có phương trình là",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "đường tiệm cận ngang",
+      "type": "single",
+      "options": [
+        "A. $y=1$.",
+        "B. $y=2$.",
+        "C. $x=-1$.",
+        "D. $x=1$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số $y=\\dfrac{2x-1}{x-1}$.\n❓ **Hiểu câu hỏi:**\n- Tiệm cận ngang $y=L$ với $L=\\lim_{x\\to\\pm\\infty} f(x)$.\n- Phân thức bậc tử bằng bậc mẫu thì giới hạn là tỉ số hai hệ số bậc cao nhất.\n🔎 **Hướng dẫn cách làm:**\n- Ta có $\\lim_{x\\to\\pm\\infty}\\dfrac{2x-1}{x-1}=\\dfrac{2}{1}=2$.\n- Vậy đường tiệm cận ngang là $y=2$.\n✅ **Đáp án:** Chọn B. $y=2$."
+    },
+    {
+      "id": 5,
+      "content": "Cho khối lăng trụ đứng $ABC.A'B'C'$ có $AA'=4$, $AB=2$, $AC=3$ và tam giác $ABC$ vuông tại $A$. Thể tích của khối lăng trụ đã cho bằng",
+      "chuong": "quan hệ vuông góc trong không gian",
+      "dang": "thể tích",
+      "type": "single",
+      "options": [
+        "A. \\$12$.",
+        "B. \\$8$.",
+        "C. \\$24$.",
+        "D. \\$6$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Lăng trụ đứng $ABC.A'B'C'$ với $AA'=4$ là chiều cao; tam giác $ABC$ vuông tại $A$ với $AB=2, AC=3$.\n❓ **Hiểu câu hỏi:**\n- Thể tích lăng trụ: $V=S_{\\text{đáy}}\\cdot h$.\n- Diện tích tam giác vuông tại $A$: $S_{ABC}=\\dfrac{1}{2}AB\\cdot AC$.\n🔎 **Hướng dẫn cách làm:**\n- Diện tích đáy $S_{ABC}=\\dfrac{1}{2}\\cdot 2\\cdot 3=3$.\n- Thể tích $V=3\\cdot 4=12$.\n✅ **Đáp án:** Chọn A. \\$12$."
+    },
+    {
+      "id": 6,
+      "content": "Cho mẫu số liệu ghép nhóm về khoảng tuổi và số người. Mốt (làm tròn đến hàng phần trăm) của mẫu số liệu ghép nhóm đã cho bằng\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gddt-thai-nguyen-nam-2026-lan-2/cau-06.webp\" alt=\"Hình minh họa câu 6\" loading=\"lazy\"></figure>",
+      "chuong": "các số đặc trưng đo xu thế trung tâm của mẫu số liệu ghép nhóm",
+      "dang": "mốt của mẫu số liệu ghép nhóm",
+      "type": "single",
+      "options": [
+        "A. \\$25{,}85$.",
+        "B. \\$29{,}14$.",
+        "C. \\$24{,}59$.",
+        "D. \\$26{,}17$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Các nhóm và tần số tương ứng: 35; 21; 15; 28; 8; 28.\n- Độ rộng mỗi nhóm $h=10$.\n❓ **Hiểu câu hỏi:**\n- Công thức mốt: $M_o=L+\\dfrac{f_m-f_{m-1}}{(f_m-f_{m-1})+(f_m-f_{m+1})}\\cdot h$, với $L$ là đầu nhóm có tần số lớn nhất.\n🔎 **Hướng dẫn cách làm:**\n- Nhóm có tần số lớn nhất là $[22;32)$ với $f_m=35$, $L=22$.\n- Vì là nhóm đầu nên $f_{m-1}=0$; $f_{m+1}=21$.\n- $M_o=22+\\dfrac{35-0}{(35-0)+(35-21)}\\cdot 10=22+\\dfrac{35}{49}\\cdot 10=22+\\dfrac{50}{7}\\approx 29{,}14$.\n✅ **Đáp án:** Chọn B. \\$29{,}14$."
+    },
+    {
+      "id": 7,
+      "content": "Họ nguyên hàm của hàm số $f(x)=e^x+x$ là",
+      "chuong": "nguyên hàm và tích phân",
+      "dang": "nguyên hàm của một số hàm số thường gặp",
+      "type": "single",
+      "options": [
+        "A. $e^x+x^2+C$.",
+        "B. $e^x+\\dfrac{1}{2}x^2+C$.",
+        "C. $\\dfrac{1}{x+1}e^x+\\dfrac{1}{2}x^2+C$.",
+        "D. $e^x+1+C$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Tìm họ nguyên hàm của $f(x)=e^x+x$.\n❓ **Hiểu câu hỏi:**\n- Sử dụng các công thức cơ bản: $\\int e^x\\,dx=e^x+C$ và $\\int x\\,dx=\\dfrac{x^2}{2}+C$.\n- Tính chất tuyến tính: nguyên hàm của tổng = tổng nguyên hàm.\n🔎 **Hướng dẫn cách làm:**\n- Áp dụng: $\\int(e^x+x)\\,dx=\\int e^x\\,dx+\\int x\\,dx=e^x+\\dfrac{x^2}{2}+C$.\n✅ **Đáp án:** Chọn B. $e^x+\\dfrac{1}{2}x^2+C$."
+    },
+    {
+      "id": 8,
+      "content": "Phương trình \\$2\\sin x-1=0$ có tập nghiệm là",
+      "chuong": "hàm số lượng giác và phương trình lượng giác",
+      "dang": "phương trình sinx=m",
+      "type": "single",
+      "options": [
+        "A. $S=\\left\\{\\dfrac{\\pi}{3}+k2\\pi;\\dfrac{2\\pi}{3}+k2\\pi\\mid k\\in\\mathbb{Z}\\right\\}$.",
+        "B. $S=\\left\\{\\dfrac{\\pi}{6}+k2\\pi;\\dfrac{5\\pi}{6}+k2\\pi\\mid k\\in\\mathbb{Z}\\right\\}$.",
+        "C. $S=\\left\\{\\dfrac{\\pi}{6}+k2\\pi\\mid k\\in\\mathbb{Z}\\right\\}$.",
+        "D. $S=\\left\\{\\dfrac{\\pi}{6}+k2\\pi;-\\dfrac{\\pi}{6}+k2\\pi\\mid k\\in\\mathbb{Z}\\right\\}$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Phương trình \\$2\\sin x-1=0$.\n❓ **Hiểu câu hỏi:**\n- Đưa về dạng $\\sin x=m$ rồi áp công thức nghiệm: $\\sin x=\\sin\\alpha\\Leftrightarrow x=\\alpha+k2\\pi$ hoặc $x=\\pi-\\alpha+k2\\pi$.\n🔎 **Hướng dẫn cách làm:**\n- Từ phương trình suy ra $\\sin x=\\dfrac{1}{2}=\\sin\\dfrac{\\pi}{6}$.\n- Họ nghiệm thứ nhất $x=\\dfrac{\\pi}{6}+k2\\pi$; họ thứ hai $x=\\pi-\\dfrac{\\pi}{6}+k2\\pi=\\dfrac{5\\pi}{6}+k2\\pi$.\n✅ **Đáp án:** Chọn B."
+    },
+    {
+      "id": 9,
+      "content": "Trong mặt phẳng với hệ tọa độ $Oxy$, diện tích $S$ của hình phẳng giới hạn bởi đồ thị của hàm số $y=x-2$, trục hoành và hai đường thẳng $x=1, x=3$ được xác định bằng công thức",
+      "chuong": "nguyên hàm và tích phân",
+      "dang": "ứng dụng tích phân để tính diện tích hình phẳng",
+      "type": "single",
+      "options": [
+        "A. $S=\\pi\\displaystyle\\int_{1}^{3}(x-2)^2\\,dx$.",
+        "B. $S=\\pi\\displaystyle\\int_{1}^{3}|x-2|\\,dx$.",
+        "C. $S=\\left|\\displaystyle\\int_{1}^{3}(x-2)\\,dx\\right|$.",
+        "D. $S=\\displaystyle\\int_{1}^{3}|x-2|\\,dx$."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hình phẳng giới hạn bởi đồ thị $y=x-2$, trục hoành và hai đường thẳng $x=1, x=3$.\n❓ **Hiểu câu hỏi:**\n- Công thức diện tích: $S=\\displaystyle\\int_{a}^{b}|f(x)|\\,dx$.\n- Cần dấu trị tuyệt đối vì $f(x)=x-2$ đổi dấu trên $[1;3]$ (đổi dấu tại $x=2$).\n🔎 **Hướng dẫn cách làm:**\n- Trên $[1;2]$: $x-2<0$; trên $[2;3]$: $x-2>0$ nên phải dùng $|x-2|$.\n- Vậy $S=\\displaystyle\\int_{1}^{3}|x-2|\\,dx$.\n✅ **Đáp án:** Chọn D. $S=\\displaystyle\\int_{1}^{3}|x-2|\\,dx$."
+    },
+    {
+      "id": 10,
+      "content": "Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình bình hành (tham khảo hình vẽ). Đường thẳng $AD$ song song với mặt phẳng nào sau đây?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gddt-thai-nguyen-nam-2026-lan-2/cau-10.webp\" alt=\"Hình minh họa câu 10\" loading=\"lazy\"></figure>",
+      "chuong": "quan hệ song song trong không gian",
+      "dang": "đường thẳng song song với mặt phẳng",
+      "type": "single",
+      "options": [
+        "A. $(SCD)$.",
+        "B. $(SAC)$.",
+        "C. $(SBD)$.",
+        "D. $(SBC)$."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hình chóp $S.ABCD$, đáy $ABCD$ là hình bình hành.\n- Cần tìm mặt phẳng song song với $AD$.\n❓ **Hiểu câu hỏi:**\n- Dấu hiệu: nếu $d$ song song với một đường thẳng nằm trong $(P)$ và $d\\not\\subset(P)$ thì $d\\parallel(P)$.\n- Loại các mặt chứa $A$ hoặc $D$ vì đường thẳng $AD$ nằm trong mặt đó.\n🔎 **Hướng dẫn cách làm:**\n- Vì $ABCD$ là hình bình hành nên $AD\\parallel BC$.\n- $BC\\subset(SBC)$ và $AD\\not\\subset(SBC)$, suy ra $AD\\parallel(SBC)$.\n✅ **Đáp án:** Chọn D. $(SBC)$."
+    },
+    {
+      "id": 11,
+      "content": "Cho cấp số nhân $(u_n)$ với $u_1=3$ và $u_2=6$. Số hạng $u_4$ của cấp số nhân đã cho bằng",
+      "chuong": "dãy số. cấp số cộng và cấp số nhân",
+      "dang": "số hạng tổng quát của cấp số nhân",
+      "type": "single",
+      "options": [
+        "A. \\$48$.",
+        "B. \\$18$.",
+        "C. \\$21$.",
+        "D. \\$24$."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cấp số nhân $(u_n)$ với $u_1=3$ và $u_2=6$.\n❓ **Hiểu câu hỏi:**\n- Công bội $q=\\dfrac{u_2}{u_1}$.\n- Số hạng tổng quát $u_n=u_1\\cdot q^{n-1}$.\n🔎 **Hướng dẫn cách làm:**\n- Tính $q=\\dfrac{6}{3}=2$.\n- Suy ra $u_4=u_1\\cdot q^3=3\\cdot 2^3=3\\cdot 8=24$.\n✅ **Đáp án:** Chọn D. \\$24$."
+    },
+    {
+      "id": 12,
+      "content": "Trong không gian với hệ tọa độ $Oxyz$, cho hai điểm $C(-4;4;1)$ và $N(2;5;4)$. Tọa độ vectơ $\\overrightarrow{CN}$ là",
+      "chuong": "vectơ và hệ trục tọa độ trong không gian",
+      "dang": "tọa độ của điểm, tọa độ của vectơ trong không gian",
+      "type": "single",
+      "options": [
+        "A. $(-8;20;4)$.",
+        "B. $(-6;-1;-3)$.",
+        "C. $(-2;9;5)$.",
+        "D. $(6;1;3)$."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cho hai điểm $C(-4;4;1)$ và $N(2;5;4)$.\n❓ **Hiểu câu hỏi:**\n- Công thức tọa độ vectơ: $\\overrightarrow{CN}=(x_N-x_C;\\,y_N-y_C;\\,z_N-z_C)$.\n🔎 **Hướng dẫn cách làm:**\n- Thay số: $\\overrightarrow{CN}=(2-(-4);\\,5-4;\\,4-1)=(6;1;3)$.\n✅ **Đáp án:** Chọn D. $(6;1;3)$."
+    }
+  ]
+}

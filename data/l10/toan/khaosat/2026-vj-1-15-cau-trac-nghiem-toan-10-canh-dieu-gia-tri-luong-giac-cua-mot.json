@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-toan-10-canh-dieu-gia-tri-luong-giac-cua-mot",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-toan-10-canh-dieu-g",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Toán 10 Cánh Diều Giá trị lượng giác của một góc từ 0 độ đến 180 độ . Định lý cosin và sin trong tam giác có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Tam giác ABC có A B = 5 , B C = 7 , C A = 8 . Số đo góc A ^ bằng:",
+      "options": [
+        "A. 30 ° ;",
+        "B. 45 ° ;",
+        "C. 60 ° ;",
+        "D. 90 ° ;"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Theo định lí hàm cosin, ta có : cos A ^ = A B 2 + A C 2 − B C 2 2 A B . A C = 5 2 + 8 2 − 7 2 2.5.8 = 1 2 . Do đó, A ^ = 60 ° ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Tam giác ABC có A B = 2 , A C = 1 và A ^ = 60 ° . Tính độ dài cạnh BC.",
+      "options": [
+        "A. BC = 1;",
+        "B. BC = 2;",
+        "C. BC = 2 ;",
+        "D. BC = 3"
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Theo định lí hàm cosin, ta có : B C 2 = A B 2 + A C 2 − 2 A B . A C . cos A ^ = 2 2 + 1 2 − 2.2.1. cos 60 ° = 3 ⇒ B C = 3 ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Tam giác ABC có đoạn thẳng nối trung điểm của AB và BC bằng 3, cạnh AB = 9 và A C B ^ = 60 ° . Tính độ dài cạnh cạnh BC.",
+      "options": [
+        "A. B C = 3 + 3 6 ;",
+        "B. B C = 3 6 − 3 ;",
+        "C. B C = 3 7",
+        "D. B C = 3 + 3 33 2 ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Gọi M, N lần lượt là trung điểm của AB, BC . ⇒ MN là đường trung bình của Δ A B C . ⇒ M N = 1 2 A C . Mà MN = 3 , suy ra AC = 6 . Theo định lí hàm cosin, ta có : A B 2 = A C 2 + B C 2 − 2. A C . B C . cos A C B ^ ⇔ 9 2 = 6 2 + B C 2 − 2.6. B C . cos 60 ° ⇔ B C 2 - 6.BC - 45 = 0 ⇔ BC = 3 + 3 6"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Tam giác ABC có A B = 2 , A C = 3 và C ^ = 45 ° . Tính độ dài cạnh BC .",
+      "options": [
+        "A. B C = 5 ;",
+        "B. B C = 6 + 2 2 ;",
+        "C. B C = 6 - 2 2 ;",
+        "D. B C = 6 ;"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Theo định lí hàm cosin, ta có : A B 2 = A C 2 + B C 2 − 2. A C . B C . cos C ^ ⇒ 2 2 = 3 2 + B C 2 − 2. 3 . B C . cos 45 ° ⇔ B C 2 - 6 .BC + 1 = 0 ⇒ B C = 6 + 2 2 ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Tam giác ABC có B ^ = 60 ° , C ^ = 45 ° và AB = 5 . Tính độ dài cạnh AC .",
+      "options": [
+        "A. A C = 5 6 2 ;",
+        "B. A C = 5 3 ;",
+        "C. A C = 5 2 ;",
+        "D. A C = 10."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Theo định lí hàm sin, ta có : A B sin C ^ = A C sin B ^ ⇔ 5 sin 45 ° = A C sin 60 ° ⇒ A C = 5 6 2 ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho hình thoi ABCD cạnh bằng 1cm và có B A D ^ = 60 ° . Tính độ dài AC.",
+      "options": [
+        "A. A C = 3 ;",
+        "B. A C = 2 ;",
+        "C. A C = 2 3 ;",
+        "D. A C = 2"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Do ABCD là hình thoi, có B A D ^ = 60 ° ⇒ A B C ^ = 120 ° . Theo định lí hàm cosin, ta có : A C 2 = A B 2 + B C 2 − 2. A B . B C . cos A B C ^ ⇒ 1 2 + 1 2 − 2.1.1. cos 120 ° = 3 ⇒ A C = 3"
+    }
+  ]
+}

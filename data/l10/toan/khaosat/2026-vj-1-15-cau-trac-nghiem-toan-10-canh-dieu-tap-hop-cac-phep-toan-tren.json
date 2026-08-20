@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-toan-10-canh-dieu-tap-hop-cac-phep-toan-tren",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-toan-10-canh-dieu-t",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Toán 10 Cánh Diều Tập hợp. Các phép toán trên tập hợp có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Xác định tập hợp B = { x ∈ ℤ | − 2 ≤ x < 3 } bằng cách liệt kê các phần tử.",
+      "options": [
+        "A. B = {–2; –1; 1; 2};",
+        "B. B = {0; 1; 2};",
+        "C. B = {–2; –1; 0; 1; 2}",
+        "D. B = {–1; 0; 1; 2} ."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Các số nguyên lớn hơn hoặc bằng 2 và nhỏ hơn 3 gồm –2; –1; 0; 1; 2. Do đó: B = {–2; –1; 0; 1; 2}."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho A = {x ∈ ℕ | x ≤ 5 }. Tập A là tập hợp nào trong các tập sau:",
+      "options": [
+        "A. {1; 2; 3; 4; 5};",
+        "B. {0; 1; 2; 3; 4};",
+        "C. {0; 1; 2; 3; 4; 5};",
+        "D. D . {1; 2; 3; 4}."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Các số tự nhiên nhỏ hơn hoặc bằng 5 gồm: 0; 1; 2; 3; 4; 5 nên tập A = {0; 1; 2; 3; 4; 5}."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Hình vẽ dưới đây biểu diễn tập hợp nào?",
+      "options": [
+        "A. (–3; 2);",
+        "B. [–3; 2);",
+        "C. [–3; 2];",
+        "D. (–3; 2] ."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Hình vẽ biểu diễn tập hợp ( –3;2]"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho tập hợp A ¹ Æ . Trong các mệnh đề sau, mệnh đề nào SAI?",
+      "options": [
+        "A. A ∩ A = A ;",
+        "B. A ∩ Æ = A ;",
+        "C. A \\ A = Æ ;",
+        "D. A ∪ Æ = A ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Vì A ∩ Æ = Æ"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Trong các đáp án dưới đây, cách viết khác của tập D = { x ∈ ℝ | x ≠ − 3 } là",
+      "options": [
+        "A. ℝ \\ { − 3 } ;",
+        "B. (–3; +∞) ;",
+        "C. (−∞; −3) ;",
+        "D. {−3} ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Tập D = { x ∈ ℝ | x ≠ − 3 } = ℝ \\ { − 3 }"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Sử dụng các kí hiệu đoạn, khoảng, nửa khoảng để viết tập hợp A = { x ∈ ℝ | − 3 ≤ x ≤ 5 } .",
+      "options": [
+        "A. [–3; 5);",
+        "B. [–3; 5];",
+        "C. (–3; 5);",
+        "D. (–3; 5] ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có A = { x ∈ ℝ | − 3 ≤ x ≤ 5 } = [ − 3; 5]."
+    }
+  ]
+}

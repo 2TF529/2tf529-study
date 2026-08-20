@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-20-cau-trac-nghiem-toan-10-canh-dieu-bai-tap-cuoi-chuong-4-co-d",
+  "sourceId": "vietjack:2-20-cau-trac-nghiem-toan-10-canh-dieu-b",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.20 câu Trắc nghiệm Toán 10 Cánh diều Bài tập cuối chương 4 có đáp án (Phần 2)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho góc x thoả 0° < x < 90°. Mệnh đề nào sau đây là sai?",
+      "options": [
+        "A. cos x < 0;",
+        "B. sin x > 0;",
+        "C. tan x > 0;",
+        "D. cot x > 0."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Vì 0° < x < 90° nên sin x > 0, cos x > 0, tan x > 0, cot x > 0. Suy ra cos x < 0 sai."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho α và β là hai góc khác nhau và bù nhau, trong các đẳng thức sau đây đẳng thức nào sai?",
+      "options": [
+        "A. sin α = sin β;",
+        "B. cos α = – cos β;",
+        "C. tan α = – tan β;",
+        "D. cot α = cot β."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Áp dụng mối liên hệ hai góc bù nhau, ta có: sin α = sin β; cos α = – cos β; tan α = – tan β; cot α = – cot β. Vậy đáp án A, B, C đúng và đáp án D sai."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho tam giác ABC có BC = a, CA = b, AB = c, S là diện tích của tam giác ABC. Mệnh đề nào sau đây là sai?",
+      "options": [
+        "A. S = 1 2 b c . sin A ;",
+        "B. S = 1 2 a c . sin B ;",
+        "C. S = 1 2 a b . sin B ;",
+        "D. S = 1 2 a b . sin C ."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Diện tích S của tam giác ABC là:"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho ba điểm A, B, C. Vectơ a → = B C → + A B → là vectơ nào sau đây?",
+      "options": [
+        "A. C A → ;",
+        "B. C B → ;",
+        "C. A C → ;",
+        "D. 0 → ."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Điền vào chỗ trống : “Vectơ không là vectơ có điểm đầu và điểm cuối … , kí hiệu là 0 → ”.",
+      "options": [
+        "A. Cách đều;",
+        "B. Trùng nhau;",
+        "C. Cùng phương;",
+        "D. Bằng nhau."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Vectơ không là vectơ có điểm đầu và điểm cuối trùng nhau, kí hiệu là 0 → ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho tam giác ABC vuông tại A, M là trung điểm BC. Khẳng định nào sau đây đúng?",
+      "options": [
+        "A. A M → = M B → = M C → ;",
+        "B. M B → = M C → ;",
+        "C. M B → = − M C → ;",
+        "D. A M → = B C → 2 ."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Vì M là trung điểm của BC nên M B → + M C → = 0 → ⇔ M B → = − M C → . Vậy đáp án C đúng."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-trac-nghiem-nang-luong-dien-va-cong-suat-dien-lop-11-co-dap-an",
+  "sourceId": "vietjack:1-trac-nghiem-nang-luong-dien-va-cong-su",
+  "grade": "l11",
+  "subjectSlug": "li",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.Trắc nghiệm Năng lượng điện và công suất điện lớp 11 (có đáp án)",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Một bếp điện có ghi 220V - 1500 W. Điện năng tiêu thụ khi sử dụng bếp trong thời gian 30 phút là",
+      "options": [
+        "A. 22.10 6 J.",
+        "B. 1500 kJ.",
+        "C. 750 kJ.",
+        "D. 2,7.10 6 J."
+      ],
+      "answer": "D",
+      "note": "Đổi 30 phút = 1800 s Áp dụng công thức A = P . t = 1500.1800 = 2700000 J = 2,7.10 6 J Đáp án đúng là D"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Để trang trí người ta dùng các bóng đèn 12V – 6W mắc nối tiếp với mạng điện có hiệu điện thế U = 120V. Để các đèn sáng bình thường thì số bóng đèn phải sử dụng là",
+      "options": [
+        "A. 2 bóng.",
+        "B. 10 bóng.",
+        "C. 20 bóng.",
+        "D. 40 bóng."
+      ],
+      "answer": "B",
+      "note": "Để các đèn sáng bình thường thì hiệu điện thế trên hai đầu mỗi đèn là 12 V Vậy cần mắc nối tiếp N đèn sao cho hiệu điện thế hai đầu mạch là 120 V, U trên mỗi đèn là 12 V. Ta có N = 120 : 12 = 10 bóng đèn. Đáp án đúng là B."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Một đoạn mạch có hiệu điện thế hai đầu không đổi. Khi chỉnh điện trở của nguồn là 100 Ω thì công suất của mạch là 20 W. Khi chỉnh điện trở của mạch là 50Ω thì công suất của mạch là",
+      "options": [
+        "A. 10 W.",
+        "B. 5 W.",
+        "C. 40 W.",
+        "D. 80 W."
+      ],
+      "answer": "C",
+      "note": "Đáp án do hệ thống đối chiếu chuẩn xác"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho một mạch điện có điện trở không đổi. Khi dòng điện trong mạch là 2 A thì công suất tiêu thụ của mạch là 100 W. Khi dòng điện trong mạch là 4 A thì công suất tiêu thụ của mạch là",
+      "options": [
+        "A. 25 W.",
+        "B. 50 W.",
+        "C. 200 W.",
+        "D. 400 W."
+      ],
+      "answer": "D",
+      "note": "Từ định luật Ôm cho đoạn mạch I = U R ⇒ U = I.R Áp dụng công thức P = U.I = I2.R Khi I = I1 = 2 A thì P1 = U.I1 = I12.R =22.R = 100 W ⇒ R = 25 Ω Khi I = I2 = 4A thì P 2 = U . I 2 = I 2 2 . R = 4 2 .25 = 400 W Đáp án đúng là D"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Công suất định mức của các dụng cụ điện là",
+      "options": [
+        "A. công suất lớn nhất mà dụng cụ đó có thể đạt được.",
+        "B. công suất tối thiểu mà dụng cụ đó có thể đạt được.",
+        "C. công suất đạt được khi nó hoạt động bình thường.",
+        "D. công suất trung bình của dụng cụ đó."
+      ],
+      "answer": "C",
+      "note": "Công suất định mức là công suất đạt được khi nó hoạt động bình thường. Đáp án đúng là C."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Công thức tính công suất điện của một đoạn mạch là",
+      "options": [
+        "A. P = It",
+        "B. P = EIt",
+        "C. P = EI",
+        "D. P = UI"
+      ],
+      "answer": "D",
+      "note": "Công thức công suất điện của một đoạn mạch là P = UI. Đáp án đúng là D."
+    }
+  ]
+}

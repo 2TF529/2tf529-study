@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-15-cau-trac-nghiem-tin-hoc-10-canh-dieu-kieu-du-lieu-danh-sach-",
+  "sourceId": "vietjack:2-15-cau-trac-nghiem-tin-hoc-10-canh-die",
+  "grade": "l10",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.15 câu Trắc nghiệm Tin học 10 Cánh diều Kiểu dữ liệu danh sách - Xử lí danh sách có đáp án (Phần 2)",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Trong Python, phát biểu nào sau đây về list là đúng nhất?",
+      "options": [
+        "A. Là dãy các giá trị.",
+        "B. Là dãy hữu hạn các giá trị.",
+        "C. Là dãy hữu hạn các giá trị cùng kiểu.",
+        "D. Là dãy hữu hạn các giá trị không cùng kiểu."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A List là dãy các giá trị có thể có các kiểu khác nhau."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Vị trí của các phần tử trong list được xác định thông qua chỉ số. Phát biểu nào sau đây về chỉ số của các phần tử trong list là đúng?",
+      "options": [
+        "A. Chỉ số bắt đầu từ 0 theo chiều từ trái sang phải.",
+        "B. Chỉ số bắt đầu từ 0 theo chiều từ phải sang trái.",
+        "C. Chỉ số bắt đầu từ một giá trị nguyên do người lập trình quy định, theo chiều từ trái sang phải.",
+        "D. Chỉ số bắt đầu từ -1 theo chiều từ trái sang phải"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Vị trí của các phần tử trong danh sách tính bắt đầu từ 0."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Chọn phương án đúng nhất: Để khởi tạo một list, ta có thể:",
+      "options": [
+        "A. Dùng phép gán.",
+        "B. Dùng lệnh for gán giá trị trong khoảng cho trước.",
+        "C. Nhập từ bàn phím.",
+        "D. Cả ba cách trên."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Để khởi tạo một list, ta có thể áp dụng 1 trong 3 cách sau: - Dùng phép gán. - Dùng lệnh for gán giá trị trong khoảng cho trước. - Nhập từ bàn phím."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Chọn phát biểu đúng?",
+      "options": [
+        "A. Python chỉ cung cấp các phép toán xử lý danh sách.",
+        "B. Python chỉ cung cấp các hàm bổ sung, xóa, chèn, sắp xếp để xử lý danh sách.",
+        "C. Python không cho phép duyệt từng phần tử của danh sách theo thứ tự lưu trữ.",
+        "D. Python cung cấp nhiều thao tác hữu dụng trên list."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Python cung cấp nhiều thao tác hữu dụng trên list như thêm, bớt các phần tử, sắp xếp danh sách."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Quan sát các lệnh sau, lệnh nào đúng khi khởi tạo dữ liệu danh sách Ds?",
+      "options": [
+        "A. Ds==[]",
+        "B. Ds=[1.5, 2, 3, “9”, “10”]",
+        "C. Ds=={3, 4, 5, 6, 7}",
+        "D. [1, 2, 3, 4, 5]=Ds"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Khởi tạo danh sách có thể theo cú pháp sau: &lt;tên danh sách &gt; = [&lt;v1&gt;, &lt;v2&gt;, …, &lt;vn&gt;]"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Biểu thức điều kiện nào sau đây biểu thị phần tử thứ i của list A nằm trong khoảng (-3, 9)?",
+      "options": [
+        "A. (A[i] > -3) or (A[i] < 9)",
+        "B. (A[i] &lt; -3) and (A[i] &gt; 9)",
+        "C. (-3 <= A[i] <= 9)",
+        "D. (A[i] > -3) and (A[i] <9)"
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D A[i] phải thỏa mãn cả 2 điều kiện >-3 và <9 nên phải sử dụng toán tử and."
+    }
+  ]
+}

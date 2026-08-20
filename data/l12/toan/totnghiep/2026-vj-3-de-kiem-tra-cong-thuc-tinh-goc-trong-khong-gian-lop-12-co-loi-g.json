@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-3-de-kiem-tra-cong-thuc-tinh-goc-trong-khong-gian-lop-12-co-loi-g",
+  "sourceId": "vietjack:3-de-kiem-tra-cong-thuc-tinh-goc-trong-k",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "title": "3.Đề kiểm tra Công thức tính góc trong không gian lớp 12 (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Trong không gian \\[Oxyz\\], cosin của góc giữa hai mặt phẳng \\[\\left( P \\right):x + 2y - 2z + 1 = 0\\] và \\[\\left( Q \\right):x + y + z - 1 = 0\\] bằng",
+      "options": [
+        "A. \\[\\frac{{\\sqrt 3 }}{3}\\].",
+        "B. \\[\\frac{{\\sqrt 3 }}{9}\\].",
+        "C. \\[ - \\frac{{\\sqrt 3 }}{9}\\].",
+        "D. \\[ - \\frac{{\\sqrt 3 }}{3}\\]."
+      ],
+      "answer": "B",
+      "note": "Hai mặt phẳng \\[\\left( P \\right),\\,\\left( Q \\right)\\] có các véctơ pháp tuyến là \\[\\overrightarrow {{n_P}} = \\left( {1;\\,2;\\, - 2} \\right)\\] và \\[\\overrightarrow {{n_Q}} = \\left( {1;\\,1;\\,1} \\right)\\]. Ta có: \\[\\cos \\left( {\\left( P \\right),\\left( Q \\right)} \\right) = \\left| {\\cos \\left( {\\overrightarrow {{n_P}} ,\\overrightarrow {{n_Q}} } \\right)} \\right| = \\frac{{\\left| {1.1 + 2.1 - 2.1} \\right|}}{{\\sqrt {{1^2} + {2^2} + {{\\left( { - 2} \\right)}^2}} .\\sqrt {{1^2} + {1^2} + {1^2}} }} = \\frac{{\\sqrt 3 }}{9}\\]."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Trong hệ tọa độ \\(\\left( {Oxyz} \\right)\\). Gọi \\(\\varphi \\) là góc giữa mặt phẳng \\(\\left( {Oxz} \\right)\\) và mặt phẳng \\(\\left( \\alpha \\right):x + y - 10z + 2025 = 0\\). Khi đó \\(cos\\varphi \\) là:",
+      "options": [
+        "A. \\(0\\).",
+        "B. \\(\\frac{1}{{\\sqrt {102} }}\\).",
+        "C. \\(\\frac{1}{{10}}\\).",
+        "D. \\(\\frac{1}{{\\sqrt {120} }}\\)."
+      ],
+      "answer": "B",
+      "note": "Ta có mặt phẳng \\(\\left( {Oxz} \\right)\\) có véctơ pháp tuyến là \\({\\overrightarrow n _1} = \\left( {0;1;0} \\right)\\), mặt phẳng \\(\\left( \\alpha \\right):x + y - 10z + 2025 = 0\\) có véctơ pháp tuyến là \\({\\overrightarrow n _2} = \\left( {1;1; - 10} \\right)\\). Gọi \\(\\varphi \\) là góc giữa hai mặt phẳng thì \\(cos\\varphi = \\frac{{\\left| {{{\\overrightarrow n }_1}.{{\\overrightarrow n }_2}} \\right|}}{{\\left| {{{\\overrightarrow n }_1}} \\right|\\left| {{{\\overrightarrow n }_2}} \\right|}} = \\frac{1}{{\\sqrt {102} }}\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trong không gian \\[Oxyz\\], góc giữa trục \\[Oz\\] và đường thẳng \\[\\Delta :\\frac{{x - 2}}{2} = \\frac{{y + 1}}{1} = \\frac{{z + 2}}{{ - 2}}\\] bằng (kết quả làm tròn đến độ)",
+      "options": [
+        "A. \\[30^\\circ \\].",
+        "B. \\[48^\\circ \\].",
+        "C. \\[60^\\circ \\].",
+        "D. \\[132^\\circ \\]"
+      ],
+      "answer": "B",
+      "note": "Trục \\[Oz\\] có véctơ chỉ phương là \\[\\overrightarrow j = \\left( {0;\\,0;\\,1} \\right)\\]; đường thẳng \\[\\Delta \\] có véctơ chỉ phương là \\[\\overrightarrow u = \\left( {2;\\,1;\\, - 2} \\right)\\]; Ta có: \\[\\cos \\left( {\\Delta ,\\,Oz} \\right) = \\left| {\\cos \\left( {\\overrightarrow u ,\\overrightarrow j } \\right)} \\right| = \\frac{{\\left| {2.0 + 1.0 - 2.1} \\right|}}{{\\sqrt {{2^2} + {1^2} + {{\\left( { - 2} \\right)}^2}} .\\sqrt {{0^2} + {0^2} + {1^2}} }} = \\frac{2}{3}\\]. Nên \\[\\left( {\\Delta ,\\,Oz} \\right) \\approx 48^\\circ \\]."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Trong hệ tọa độ \\(\\left( {Oxyz} \\right)\\). Gọi \\(\\varphi \\) là góc giữa đường thẳng chứa \\(Ox\\) và mặt phẳng \\(\\left( \\alpha \\right):x + y + 12 = 0\\). Khi đó \\(\\varphi \\) bằng:",
+      "options": [
+        "A. \\({45^0}\\).",
+        "B. \\({30^0}\\).",
+        "C. \\({60^0}\\).",
+        "D. \\({90^0}\\)."
+      ],
+      "answer": "A",
+      "note": "Ta có đường thẳng chứa \\(Ox\\) có véctơ chỉ phương là \\(\\overrightarrow u = \\left( {1;0;0} \\right)\\), mặt phẳng \\(\\left( \\alpha \\right):x + y + 12 = 0\\) có véctơ pháp tuyến là \\(\\overrightarrow n = \\left( {1;1;0} \\right)\\). Gọi \\(\\varphi \\) là góc giữa đường và mặt thì \\(sin\\varphi = \\frac{{\\left| {\\overrightarrow u .\\overrightarrow n } \\right|}}{{\\left| {\\overrightarrow u } \\right|\\left| {\\overrightarrow n } \\right|}} = \\frac{1}{{\\sqrt 2 }} \\Rightarrow \\varphi = {45^0}\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Trong không gian \\[Oxyz\\], góc giữa hai mặt phẳng \\[\\left( P \\right):x + 2y - 3z + 5 = 0\\] và \\[\\left( Q \\right):2x + y - 3z - 1 = 0\\] bằng (kết quả làm tròn đến độ)",
+      "options": [
+        "A. \\[20^\\circ \\].",
+        "B. \\[22^\\circ \\].",
+        "C. \\[25^\\circ \\].",
+        "D. \\[27^\\circ \\]"
+      ],
+      "answer": "C",
+      "note": "Hai mặt phẳng \\[\\left( P \\right),\\,\\left( Q \\right)\\] có các véctơ pháp tuyến là \\[\\overrightarrow {{n_P}} = \\left( {1;\\,2;\\, - 3} \\right)\\] và \\[\\overrightarrow {{n_Q}} = \\left( {2;\\,1;\\, - 3} \\right)\\]. Ta có: \\[\\cos \\left( {\\left( P \\right),\\left( Q \\right)} \\right) = \\left| {\\cos \\left( {\\overrightarrow {{n_P}} ,\\overrightarrow {{n_Q}} } \\right)} \\right| = \\frac{{\\left| {1.2 + 2.1 - 3.\\left( { - 3} \\right)} \\right|}}{{\\sqrt {{1^2} + {2^2} + {{\\left( { - 3} \\right)}^2}} .\\sqrt {{2^2} + {1^2} + {{\\left( { - 3} \\right)}^2}} }} = \\frac{{13}}{{14}}\\]. Nên \\[\\left( {\\left( P \\right),\\left( Q \\right)} \\right) \\approx 22^\\circ \\]."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong hệ tọa độ \\(\\left( {Oxyz} \\right)\\), cho hai đường thẳng \\({\\Delta _1}:\\left\\{ \\begin{array}{l}x = - 2 + t\\\\y = - 4 + 2t\\\\z = - 1 + 2t\\end{array} \\right.\\) và \\({\\Delta _2}:\\left\\{ \\begin{array}{l}x = 2 - 2m\\\\y = 2 - 2m\\\\z = 3 + m\\end{array} \\right.\\). Gọi \\(\\varphi \\) là góc giữa hai đường thẳng. Tính \\[{\\rm{cos}}\\varphi \\]?",
+      "options": [
+        "A. \\(\\frac{5}{6}\\).",
+        "B. \\(\\frac{1}{9}\\).",
+        "C. \\(\\frac{{\\sqrt 3 }}{2}\\).",
+        "D. \\(\\frac{4}{9}\\)."
+      ],
+      "answer": "D",
+      "note": "Ta có đường \\({\\Delta _1}:\\left\\{ \\begin{array}{l}x = - 2 + t\\\\y = - 4 + 2t\\\\z = - 1 + 2t\\end{array} \\right.\\) có véctơ chỉ phương là \\(\\overrightarrow {{u_1}} = \\left( {1;2;2} \\right)\\), đường \\({\\Delta _2}:\\left\\{ \\begin{array}{l}x = 2 - 2m\\\\y = 2 - 2m\\\\z = 3 + m\\end{array} \\right.\\) có véctơ chỉ phương là \\(\\overrightarrow {{u_2}} = \\left( { - 2; - 2;1} \\right)\\). Ta có \\(cos\\varphi = \\frac{{\\left| {{{\\overrightarrow u }_1}.{{\\overrightarrow u }_2}} \\right|}}{{\\left| {{{\\overrightarrow u }_1}} \\right|\\left| {{{\\overrightarrow u }_2}} \\right|}} = \\frac{4}{9}\\)."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Trong không gian \\[Oxyz\\], góc giữa đường thẳng \\[\\Delta :\\left\\{ \\begin{array}{l}x = 1 + 2t\\\\y = 3 - t\\\\z = 2 + 3t\\end{array} \\right.\\] và mặt phẳng \\[\\left( P \\right):x - y - 2z + 4 = 0\\] bằng (kết quả làm tròn đến độ)",
+      "options": [
+        "A. \\[161^\\circ \\].",
+        "B. \\[109^\\circ \\].",
+        "C. \\[71^\\circ \\].",
+        "D. \\[19^\\circ \\]."
+      ],
+      "answer": "D",
+      "note": "Đường thẳng \\[\\Delta \\] có véctơ chỉ phương là \\[\\overrightarrow u = \\left( {2;\\, - 1;\\,3} \\right)\\]; Mặt phẳng \\[\\left( P \\right)\\] có véctơ pháp tuyến là \\[\\overrightarrow n = \\left( {1;\\, - 1;\\, - 2} \\right)\\]. Ta có: \\[\\sin \\left( {\\Delta ,\\,\\left( P \\right)} \\right) = \\left| {cos\\left( {\\overrightarrow u ,\\overrightarrow n } \\right)} \\right| = \\frac{{\\left| {2.1 - 1.\\left( { - 1} \\right) + 3.\\left( { - 2} \\right)} \\right|}}{{\\sqrt {{2^2} + {{\\left( { - 1} \\right)}^2} + {3^2}} .\\sqrt {{1^2} + {{\\left( { - 1} \\right)}^2} + {{\\left( { - 2} \\right)}^2}} }} = \\frac{{\\sqrt {21} }}{{14}}\\]. Nên \\[\\left( {\\Delta ,\\,\\left( P \\right)} \\right) \\approx 19^\\circ \\]."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Trong hệ tọa độ \\(\\left( {Oxyz} \\right)\\), cho hai đường thẳng \\({\\Delta _1}:\\frac{{x - 1}}{1} = \\frac{{y - 2}}{2} = \\frac{{z - 3}}{1}\\) và \\({\\Delta _2}:\\left\\{ \\begin{array}{l}x = 1 + t\\\\y = 2 + t\\\\z = 3 + 2t\\end{array} \\right.\\). Gọi \\(\\varphi \\) là góc giữa hai đường thẳng. Tính \\[{\\rm{cos}}\\varphi \\]?",
+      "options": [
+        "A. \\(\\frac{5}{6}\\).",
+        "B. \\(\\frac{1}{2}\\).",
+        "C. \\(\\frac{{\\sqrt 3 }}{2}\\).",
+        "D. \\(\\frac{1}{6}\\)."
+      ],
+      "answer": "A",
+      "note": "Ta có đường \\({\\Delta _1}:\\frac{{x - 1}}{1} = \\frac{{y - 2}}{2} = \\frac{{z - 3}}{1}\\) có véctơ chỉ phương là \\(\\overrightarrow {{u_1}} = \\left( {1;2;1} \\right)\\), đường \\({\\Delta _2}:\\left\\{ \\begin{array}{l}x = 1 + t\\\\y = 2 + t\\\\z = 3 + 2t\\end{array} \\right.\\) có véctơ chỉ phương là \\(\\overrightarrow {{u_2}} = \\left( {1;1;2} \\right)\\). Ta có \\(cos\\varphi = \\frac{{\\left| {{{\\overrightarrow u }_1}.{{\\overrightarrow u }_2}} \\right|}}{{\\left| {{{\\overrightarrow u }_1}} \\right|\\left| {{{\\overrightarrow u }_2}} \\right|}} = \\frac{5}{6}\\)."
+    }
+  ]
+}

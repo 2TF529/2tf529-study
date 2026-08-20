@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-3-10-bai-tap-ap-dung-cong-thuc-bien-doi-tong-thanh-tich-co-loi-gi",
+  "sourceId": "vietjack:3-10-bai-tap-ap-dung-cong-thuc-bien-doi-",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.10 Bài tập Áp dụng công thức biến đổi tổng thành tích (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Trong các hệ thức sau, hệ thức nào sai?",
+      "options": [
+        "A. sin10° + sin11° + sin15° + sin16° = 4sin13°cos2°30'cos0°30';",
+        "B. sin a + sin 2 a + sin 3 a + sin 4 a = 4 sin a sin 5 a 2 c o s a 2 ;",
+        "C. c o s a + c o s 2 a + c o s 3 a + c o s 4 a = 4 c o s a c o s 5 a 2 c o s a 2 ;",
+        "D. 1 + sin a + cos a + tan a = 2 2 cos 2 a 2 sin a + π 4 cos a ."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải: Đáp án đúng là: B Xét đáp án A Có sin10 ° + sin11 ° + sin15 ° + sin16 ° = (sin10 ° + sin16 ° ) + (sin11 ° + sin15 ° ) = 2sin13 ° cos3 ° + 2sin13 ° cos2 ° = 2sin13 ° (cos3 ° + cos2 ° ) = 2sin13 ° × 2cos2 ° 30'cos0 ° 30' = 4sin13 ° cos2 ° 30'cos0 ° 30'. Vậy đáp án A đúng Xét đáp án B sina + sin2a + sin3a + sin4a = (sina + sin4a) + (sin2a + sin3a) = 2 sin 5 a 2 c o s 3 a 2 + 2 sin 5 a 2 c o s a 2 = 2 sin 5 a 2 c o s 3 a 2 + c o s a 2 = 2 sin 5 a 2 ⋅ 2 cos a c o s a 2 = 4 sin 5 a 2 cos a c o s a 2 . Vậy đáp án B sai Xét đáp án C cosa + cos2a + cos3a + cos4a = (cosa + cos4a) + (cos2a + cos3a) = 2 cos 5 a 2 c o s 3 a 2 + 2 cos 5 a 2 cos a 2 = 2 cos 5 a 2 c o s 3 a 2 + cos a 2 = 2 cos 5 a 2 2 cos a cos a 2 = 4 cos 5 a 2 cos a cos a 2 . Vậy đáp án C đúng Xét đáp án D 1 + sina + cosa + tana = 1 + sin a + cos a + sin a cos a = c osa + sin a cos a + cos 2 a + sin a cos a = c osa + sin a + cos a sin a + cos a cos a = 1 + cos a sin a + cos a cos a = 2 1 + cos a 2 2 sin a + 2 2 cos a cos a = 2 2 cos 2 a 2 sin a c o s π 4 + cos a sin π 4 cos a = 2 2 cos 2 a 2 sin a + π 4 cos a . Vậy đáp án D đúng."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Viết biểu thức sin70 ° − sin20 ° + sin50 ° dưới dạng tích ta được kết quả là",
+      "options": [
+        "A. 4cos10 ° cos35 ° cos65 ° ;",
+        "B. 2cos10 ° cos35 ° cos65 ° ;",
+        "C. 4cos10 ° sin35 ° cos65 ° ;",
+        "D. 2cos10 ° sin35 ° cos65 ° ."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A sin70 ° − sin20 ° + sin50 ° = (sin70 ° − sin20 ° ) + sin50 ° = 2cos45 ° sin25 ° + 2sin25 ° cos25 ° = 2sin25 ° (cos45 ° + cos25 ° ) = 2sin25 ° (2cos35 ° cos10 ° ) = 4sin25 ° cos35 ° cos10 ° = 4cos65 ° cos35 ° cos10 ° ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Viết biểu thức cosa – cos5a dưới dạng tích ta được kết quả",
+      "options": [
+        "A. 2sin6acos4a;",
+        "B. 2sin3acos2a;",
+        "C. 2sin3asin2a;",
+        "D. −2sin3asin2a."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải: Đáp án đúng là: C cosa – cos5a = − 2 sin a + 5 a 2 sin a − 5 a 2 = − 2 sin 3 a sin − 2 a = 2 sin 3 a sin 2 a ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Biến đổi thành tích biểu thức sin 7 α − sin 5 α sin 7 α + sin 5 α ta được",
+      "options": [
+        "A. tan5 α tan α ;",
+        "B. cos α sin α ;",
+        "C. cos2 α sin3 α ;",
+        "D. cot6 α tan α ."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải: Đáp án đúng là: D sin 7 α − sin 5 α sin 7 α + sin 5 α = 2 cos 7 α + 5 α 2 sin 7 α − 5 α 2 2 sin 7 α + 5 α 2 cos 7 α − 5 α 2 = 2 cos 6 α sin α 2 sin 6 α cos α = cot6 α tan α ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Biết tan x = 1 3 . Tính giá trị của biểu thức I = c o s 5 x + c o s 3 x sin 5 x − sin 3 x",
+      "options": [
+        "A. I = 1 3 ;",
+        "B. I = - 1 3 ;",
+        "C. I = 3;",
+        "D. I = −3."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải: Đáp án đúng là: C I = c o s 5 x + c o s 3 x sin 5 x − sin 3 x = 2 c o s 5 x + 3 x 2 c o s 5 x − 3 x 2 2 c o s 5 x + 3 x 2 sin 5 x − 3 x 2 = 2 c o s 4 x cos x 2 c o s 4 x sin x = cot x = 1 tan x = 3 ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Rút gọn biểu thức \\(cos\\left( {x + \\frac{\\pi }{4}} \\right) - cos\\left( {x - \\frac{\\pi }{4}} \\right)\\) ta được",
+      "options": [
+        "A. \\[\\sqrt 2 {\\rm{sinx}}\\] ;",
+        "B. \\[ - \\sqrt 2 {\\rm{sinx}}\\] ;",
+        "C. \\[\\sqrt 2 {\\rm{cosx}}\\] ;",
+        "D. \\[ - \\sqrt 2 {\\rm{cosx}}\\] ."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải: Đáp án đúng là: B \\(cos\\left( {x + \\frac{\\pi }{4}} \\right) - cos\\left( {x - \\frac{\\pi }{4}} \\right)\\)\\( = - 2\\sin \\frac{{\\left( {x + \\frac{\\pi }{4}} \\right) + \\left( {x - \\frac{\\pi }{4}} \\right)}}{2}\\sin \\frac{{\\left( {x + \\frac{\\pi }{4}} \\right) - \\left( {x - \\frac{\\pi }{4}} \\right)}}{2}\\) \\( = - 2\\sin x\\sin \\frac{\\pi }{4}\\)\\( = - \\sqrt 2 \\sin x\\) ."
+    }
+  ]
+}

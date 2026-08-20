@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-2-de-kiem-tra-bai-tap-cuoi-chuong-6-lop-12-co-loi-giai",
+  "sourceId": "vietjack:2-de-kiem-tra-bai-tap-cuoi-chuong-6-lop-",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.Đề kiểm tra Bài tập cuối chương 6 lớp 12 (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho hai biến cố \\(A\\) và \\(B\\) bất kì với \\(P(B) > 0\\). Khẳng định nào dưới đây đúng?",
+      "options": [
+        "A. \\[P\\left( {A|B} \\right) = \\frac{{P(A \\cap B)}}{{P(A)}}\\].",
+        "B. \\[P\\left( {A|B} \\right) = \\frac{{P(A)}}{{P(A \\cap B)}}\\].",
+        "C. \\[P\\left( {A|B} \\right) = \\frac{{P(B)}}{{P(A \\cap B)}}\\].",
+        "D. \\[P\\left( {A|B} \\right) = \\frac{{P(A \\cap B)}}{{P(B)}}\\]."
+      ],
+      "answer": "D",
+      "note": "Với hai biến cố \\(A\\) và \\(B\\) bất kì với \\(P(B) > 0\\). Ta có\\[P\\left( {A|B} \\right) = \\frac{{P(A \\cap B)}}{{P(B)}}\\]."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hai biến cố \\[A\\] và \\[B\\]. Chọn mệnh đề đúng?",
+      "options": [
+        "A. \\[P\\left( {A \\cap B} \\right) = P\\left( B \\right).P\\left( {B|A} \\right)\\].",
+        "B. \\[P\\left( {A|B} \\right) = P\\left( {A|\\bar B} \\right)\\].",
+        "C. \\[P\\left( B \\right) = P\\left( {B|\\bar A} \\right)\\].",
+        "D. \\[P\\left( {A \\cap B} \\right) = P\\left( A \\right).P\\left( {B|A} \\right)\\]."
+      ],
+      "answer": "D",
+      "note": "Ta có: \\[P\\left( {A \\cap B} \\right) = P\\left( A \\right).P\\left( {B|A} \\right) = P\\left( B \\right).P\\left( {A|B} \\right)\\]."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho hai biến cố \\[A\\] và \\[B\\], công thức tính xác suất toàn phần là",
+      "options": [
+        "A. \\[P\\left( A \\right) = P\\left( B \\right).P\\left( {A|\\overline B } \\right) + P\\left( {\\bar B} \\right).P\\left( {A|B} \\right)\\].",
+        "B. \\[P\\left( B \\right) = P\\left( A \\right).P\\left( {A|\\overline B } \\right) + P\\left( {\\overline A } \\right).P\\left( {A|B} \\right)\\].",
+        "C. \\[P\\left( A \\right) = P\\left( B \\right).P\\left( {A|B} \\right) + P\\left( {\\bar B} \\right).P\\left( {A|\\bar B} \\right)\\].",
+        "D. \\[P\\left( B \\right) = P\\left( {\\overline A } \\right).P\\left( {A|\\overline B } \\right) + P\\left( A \\right).P\\left( {A|B} \\right)\\]."
+      ],
+      "answer": "C",
+      "note": "Ta có: \\[P\\left( A \\right) = P\\left( B \\right).P\\left( {A|B} \\right) + P\\left( {\\bar B} \\right).P\\left( {A|\\bar B} \\right)\\]"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hai biến cố \\[A\\] và \\[B\\]là hai biến cố ngẫu nhiên mà\\(P(A) > 0\\),\\(P(B) > 0\\), công thức Bayes là",
+      "options": [
+        "A. \\[P\\left( {B|A} \\right) = \\frac{{P\\left( B \\right).P\\left( {A|B} \\right)}}{{P\\left( A \\right)}}\\].",
+        "B. \\[P\\left( {B|A} \\right) = \\frac{{P\\left( A \\right).P\\left( {A|B} \\right)}}{{P\\left( B \\right)}}\\].",
+        "C. \\[P\\left( {B|A} \\right) = \\frac{{P\\left( B \\right).P\\left( {B|A} \\right)}}{{P\\left( A \\right)}}\\].",
+        "D. \\[P\\left( {B|A} \\right) = \\frac{{P\\left( A \\right).P\\left( {B|A} \\right)}}{{P\\left( B \\right)}}\\]."
+      ],
+      "answer": "A",
+      "note": "Ta có: \\[P\\left( {B|A} \\right) = \\frac{{P\\left( B \\right).P\\left( {A|B} \\right)}}{{P\\left( A \\right)}}\\]."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hai biến cố \\(A,\\,B\\) có \\({\\rm{P}}(B) = 0,8;{\\rm{P}}(A \\cap B) = 0,1\\). Kết quả của xác suất sau \\({\\rm{P}}(A\\mid B)\\) bằng bao nhiêu?",
+      "options": [
+        "A. \\(\\frac{1}{6}\\).",
+        "B. \\(\\frac{3}{7}\\).",
+        "C. \\(\\frac{3}{5}\\).",
+        "D. \\(\\frac{1}{8}\\)."
+      ],
+      "answer": "D",
+      "note": "Ta có: \\({\\rm{P}}(A \\cap B) = P\\left( B \\right).{\\rm{P}}(A\\mid B) \\Leftrightarrow {\\rm{P}}(A\\mid B) = \\frac{{{\\rm{P}}(A \\cap B)}}{{{\\rm{P}}(B)}} = \\frac{{0,1}}{{0,8}} = \\frac{1}{8}.\\)"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho hai biến cố \\(A,\\,B\\) có \\({\\rm{P}}(A) = \\frac{7}{{15}};{\\rm{P}}(AB) = \\frac{{23}}{{145}}\\). Kết quả của xác suất sau \\[{\\rm{P}}(B\\mid A)\\] bằng bao nhiêu?",
+      "options": [
+        "A. \\(\\frac{{69}}{{203}}\\).",
+        "B. \\(\\frac{{19}}{{135}}\\).",
+        "C. \\(\\frac{9}{{23}}\\).",
+        "D. \\(\\frac{{41}}{{105}}\\)."
+      ],
+      "answer": "A",
+      "note": "Ta có: \\[{\\rm{P}}(AB) = P\\left( A \\right).{\\rm{P}}(B\\mid A) \\Leftrightarrow {\\rm{P}}(B\\mid A) = \\frac{{{\\rm{P}}(AB)}}{{{\\rm{P}}(A)}} = \\frac{{23}}{{145}}:\\frac{7}{{15}} = \\frac{{69}}{{203}}.\\]"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Một trường trung học phổ thông có 600 học sinh, trong đó có 245 học sinh nam và 355 học sinh nữ. Tổng kết học kỳ I, có 170 học sinh đạt danh hiệu học sinh giỏi, trong đó có 80 học sinh nam và 90 học sinh nữ. Chọn ra ngẫu nhiên một học sinh trong số 600 học sinh đó. Tính xác suất để học sinh được chọn có danh hiệu học sinh giỏi và là nam (làm tròn kết quả đến hàng phần trăm).",
+      "options": [
+        "A. \\(\\frac{5}{{19}}\\).",
+        "B. \\(\\frac{{12}}{{31}}\\).",
+        "C. \\(\\frac{{11}}{{45}}\\).",
+        "D. \\(\\frac{{16}}{{49}}\\)."
+      ],
+      "answer": "D",
+      "note": "Xét hai biến cố sau: A: \"Học sinh được chọn ra đạt điểm giỏi\"; \\(B\\): \"Học sinh được chọn ra là học sinh nam\". Khi đó, xác suất để học sinh được chọn ra đạt danh hiệu học sinh giỏi và là nam, chính là xác suất của \\(A\\) với điểu kiện \\(B\\). \\({\\rm{P}}(A \\cap B) = \\frac{{80}}{{600}} = \\frac{2}{{15}}{\\rm{. }}\\) Do có 245 học sinh nam nên \\({\\rm{P}}(B) = \\frac{{245}}{{600}} = \\frac{{49}}{{120}}\\). Vì thế, ta có; \\({\\rm{P}}(A\\mid B) = \\frac{{{\\rm{P}}(A \\cap B)}}{{{\\rm{P}}(B)}} = \\frac{{\\frac{2}{{15}}}}{{\\frac{{49}}{{120}}}} = \\frac{{16}}{{49}}.\\) Vậy xác suất để học sinh được chọn ra đạt danh hiệu học sinh giỏi và là nam bằng \\(\\frac{{16}}{{49}}\\)."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Trong một hộp kín có 10 viên bi vàng và 6 viên bi đỏ, các viên bi có cùng kích thước và khối lượng. Bạn Phong lấy ngẫu nhiên một viên bi từ trong hộp, không trả lại. Sau đó bạn Trung lấy ngẫu nhiên một trong 15 viên bi còn lại. Tính xác suất để Phong lấy được viên bi đỏ và Trung lấy được viên bi vàng.",
+      "options": [
+        "A. \\(\\frac{3}{{17}}\\).",
+        "B. \\(\\frac{1}{2}\\).",
+        "C. \\(\\frac{1}{4}\\).",
+        "D. \\(\\frac{2}{5}\\)."
+      ],
+      "answer": "C",
+      "note": "Gọi \\(A\\) là biến cố: \"Bạn Phong lấy được viên bi đỏ \"; \\(B\\) là biến cố: \"Bạn Trung lấy được viên bi vàng \". Vì \\(n\\left( A \\right) = 6\\) nên \\(P\\left( A \\right) = \\frac{6}{{16}} = \\frac{3}{8}\\). Nếu \\(A\\) xảy ra tức là bạn Phong lấy được viên bi đỏ thì trong hộp có \\(15\\) viên bi với 10 viên bi vàng. Vậy \\(P\\left( {B\\mid A} \\right) = \\frac{{10}}{{15}} = \\frac{2}{3}\\). Theo công thức nhân xác suất: \\(P\\left( {AB} \\right) = P\\left( A \\right) \\cdot P\\left( {B\\mid A} \\right) = \\frac{3}{8} \\cdot \\frac{2}{3} = \\frac{1}{4}\\). Vậy xác suất để Phong lấy được viên bi đỏ và Trung lấy được viên bi vàng bằng \\(\\frac{1}{4}.\\)"
+    }
+  ]
+}

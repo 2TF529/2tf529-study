@@ -1,0 +1,271 @@
+{
+  "id": "l12-li-totnghiep-2025-de-thi-thu-tn-thpt-vat-ly-truong-nguyen-khuyen-le-thanh-tong-tinh-tp-hcm-lan-6-khoi-a-a1-2025",
+  "grade": "l12",
+  "subjectSlug": "li",
+  "examType": "totnghiep",
+  "year": 2025,
+  "code": "THPT_TTL_HCM_2025_06",
+  "title": "Đề thi thử tốt nghiệp THPT môn Vật Lý trường Nguyễn Khuyến - Lê Thánh Tông Sở GD&ĐT TP.HCM lần 6 khối A, A1 năm 2025",
+  "duration": 50,
+  "answerSource": "official",
+  "source": "https://dolthpt.vn/tot-nghiep-thpt/pdf-de-thi-thu-tn-thpt-vat-ly-truong-nguyen-khuyen-le-thanh-tong-tinh-tp-hcm-lan-6-khoi-a-a1-2025-co-dap-an",
+  "notes": "Nội dung, đáp án và lời giải được nhập từ bản công khai của DOL THPT.",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "content": "Trong một bình 5 lít chứa khí nitrogen (coi là khí lí tưởng) ở 27°C và áp suất 3 atm. Biết 1 atm = 101,3 kPa. Động năng tịnh tiến trung bình của mỗi phân tử khí là",
+      "chuong": "khí lí tưởng",
+      "dang": "bài tập: tính toán động năng, áp suất, tốc độ căn quân phương.",
+      "type": "single",
+      "options": [
+        "A. \\$6{,}21\\cdot 10^{-21}\\ \\mathrm{J}$",
+        "B. \\$2{,}76\\cdot 10^{-21}\\ \\mathrm{J}$",
+        "C. \\$6{,}12\\cdot 10^{-21}\\ \\mathrm{J}$",
+        "D. \\$5{,}59\\cdot 10^{-22}\\ \\mathrm{J}$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Chuyển nhiệt độ về Kelvin:\nT = 27 °C + 273 = 300 K\n- Hằng số Boltzmann:\n$k_B = 1{,}38 \\times 10^{-23}\\,\\mathrm{J/K}$\n- Công thức động năng tịnh tiến trung bình mỗi phân tử khí lý tưởng:\n$\\overline{E_k} = \\frac{3}{2}\\,k_B\\,T$\n- Thay số:\n$\\overline{E_k}\n= \\frac{3}{2} \\times 1{,}38\\times10^{-23}\\times300\n= 6{,}21\\times10^{-21}\\,\\mathrm{J}.$\n**✅ Đáp án:** \\$6{,}21\\cdot10^{-21}\\,\\mathrm{J}$\n**❌ Các đáp án khác:**\n- B. 2{,}76×10^{-21} J: Sai do nhân hệ số chưa đủ (bỏ sót hệ số 3/2 hoặc T tính chưa đúng).\n- C. 6{,}12×10^{-21} J: Sai do làm tròn không chính xác.\n- D. 5{,}59×10^{-22} J: Sai do nhầm hằng số hoặc bỏ qua bậc tự do khi tính."
+    },
+    {
+      "id": 2,
+      "content": "Trong một bình 5 lít chứa khí nitrogen (coi là khí lí tưởng) ở 27°C và áp suất 3 atm. Biết 1 atm = 101,3 kPa. Tổng động năng tịnh tiến trung bình của các phân tử khí trong bình là",
+      "chuong": "khí lí tưởng",
+      "dang": "bài tập: tính toán động năng, áp suất, tốc độ căn quân phương.",
+      "type": "single",
+      "options": [
+        "A. 1519,5 J",
+        "B. 3788,42 J",
+        "C. 3798,75 J",
+        "D. 2279,25 J"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Bước 1: Chuyển đơn vị về SI:\n• V = 5 lít = 5×10⁻³ m³\n• P = 3 atm = 303 900 Pa\n• T = 300,15 K\n- Bước 2: Sử dụng công thức động năng tịnh tiến toàn phần của khí lý tưởng:\n$E_{\\text{tịnh tiến}} = \\tfrac32\\,nRT$\nvì $nRT = PV$ nên có thể viết gọn:\n$E_{\\text{tịnh tiến}} = \\tfrac32\\,P\\,V$\n- Bước 3: Tính tích $P\\,V$:\n$P\\,V = 303\\,900\\;\\text{Pa} \\times 0{,}005\\;\\text{m}^3 = 1\\,519{,}5\\;\\text{J}$\n- Bước 4: Nhân hệ số $\\tfrac32$:\n$E = \\tfrac32 \\times 1\\,519{,}5\\;\\text{J} = 2\\,279{,}25\\;\\text{J}$\n**✅ Đáp án:** \\$2279,25\\ \\text{J}$\n**❌ Các đáp án khác:**\n- A. 1519,5 J: chỉ tính PV, chưa nhân hệ số $\\tfrac32$.\n- B. 3788,42 J: sử dụng hệ số $\\tfrac52$ (tính thêm động năng quay) và làm tròn khác.\n- C. 3798,75 J: cũng dùng $\\tfrac52\\,nRT$, nên tính dư phần động năng quay."
+    },
+    {
+      "id": 3,
+      "content": "Đại lượng nào sau đây đặc trưng cho mức độ bền vững của hạt nhân?",
+      "chuong": "vật lí hạt nhân",
+      "dang": "lý thuyết: năng lượng liên kết & phản ứng hạt nhân",
+      "type": "single",
+      "options": [
+        "A. Số hạt nucleon",
+        "B. Bộ hụt khối",
+        "C. Năng lượng liên kết",
+        "D. Năng lượng liên kết riêng"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Mức độ bền vững của hạt nhân là khả năng giữ cho các nucleon (proton, neutron) liên kết chặt chẽ, khó tách ra.\n- Đại lượng “Năng lượng liên kết” $E_{\\text{lk}}$ biểu diễn tổng năng lượng cần cung cấp để phá vỡ hoàn toàn hạt nhân. Tuy nhiên, vì hạt nhân có số nucleon khác nhau, không thể so sánh trực tiếp giữa các hạt nhân khác kích thước.\n- Do đó người ta dùng **năng lượng liên kết riêng** (binding energy per nucleon), tính bằng công thức:  trong đó $A$ là số hạt nucleon.\n- Đại lượng này càng lớn thì mỗi nucleon càng bị giữ chặt, hạt nhân càng bền.\n**✅ Đáp án:** $\\text{Năng lượng liên kết riêng}$\n**❌ Các đáp án khác:**\n- Số hạt nucleon: chỉ cho biết kích thước hạt nhân, không phản ánh trực tiếp độ bền.\n- Bộ hụt khối: liên quan đến năng lượng liên kết tổng nhưng chưa chuẩn hóa theo số nucleon.\n- Năng lượng liên kết: là tổng năng lượng, khó so sánh giữa các hạt nhân có số nucleon khác nhau."
+    },
+    {
+      "id": 4,
+      "content": "Một đoạn dây dẫn thẳng dài 20 cm, được đặt trong từ trường đều có độ lớn cảm ứng từ là 0,04 T. Biết đoạn dây dẫn vuông góc với các đường sức từ. Khi cho dòng điện không đổi có cường độ 5 A chạy qua dây dẫn thì lực từ tác dụng lên đoạn dây có độ lớn là",
+      "chuong": "từ trường",
+      "dang": "bài tập: lực từ tác dụng lên dây dẫn mang điện",
+      "type": "single",
+      "options": [
+        "A. 40 N",
+        "B. 0,04 N",
+        "C. 0,004 N",
+        "D. 0,4 N"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Công thức lực từ tác dụng lên dây dẫn thẳng:\n- Thay số vào công thức:\n- Kết quả là \\$0{,}04\\text{ N}$.\n**✅ Đáp án:** \\$0,04\\text{ N}$\n**❌ Các đáp án khác:**\n- 40 N: Kết quả quá lớn, do nhầm lẫn đơn vị hoặc lấy l = 20 m.\n- 0,004 N: Nhân sai chữ số thập phân (thiếu hệ số 10).\n- 0,4 N: Nhân sai tỉ lệ (làm tròn nhầm dẫn đến kết quả gấp 10 lần)."
+    },
+    {
+      "id": 5,
+      "content": "Theo một lí thuyết của các nhà thiên văn học thì các nguyên tố nặng có trên các hành tinh trong vũ trụ được tạo ra từ các vụ nổ siêu tân tinh. Cho rằng $^{235}\\mathrm{U}$ và $^{238}\\mathrm{U}$ được tạo ra từ mỗi vụ nổ siêu tân tinh đều có cùng số nguyên tử. Hiện nay, tỉ số về số nguyên tử giữa $^{235}\\mathrm{U}$ với $^{238}\\mathrm{U}$ trên Trái Đất là 0,00825. Biết $^{235}\\mathrm{U}$ và $^{238}\\mathrm{U}$ là các chất phóng xạ với chu kì bán rã lần lượt là 0,704 tỉ năm và 4,47 tỉ năm. Thời điểm mà vụ nổ siêu tân tinh xảy ra để sản phẩm của nó tạo thành trên Trái Đất đã cách đây",
+      "chuong": "vật lí hạt nhân",
+      "dang": "thực tế: hiện tượng phóng xạ",
+      "type": "single",
+      "options": [
+        "A. 5,94 tỉ năm",
+        "B. 4,12 tỉ năm",
+        "C. 5,78 tỉ năm",
+        "D. 5,00 tỉ năm"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Định nghĩa hệ số suy giảm phóng xạ:\n$\\lambda = \\frac{\\ln 2}{T_}{1/2}}\\,.$\n- Tính hệ số suy giảm của hai đồng vị:\n$\\lambda_{235}=\\frac{\\ln2}{0}{,}704}\\approx0{,}983\\ (\\text{tỉ năm})^{-1},$\n$\\lambda_{238}=\\frac{\\ln2}{4}{,}47}\\approx0{,}155\\ (\\text{tỉ năm})^{-1}.$\n- Viết biểu thức tỉ số hiện tại:\n- Giải phương trình đó để tìm $t$:\n**✅ Đáp án:** 5,78 tỉ năm\n**❌ Các đáp án khác:**\n- 5,94 tỉ năm: Sai do tính thiếu chính xác hiệu số suy giảm.\n- 4,12 tỉ năm: Sai do áp dụng nhầm công thức logarit.\n- 5,00 tỉ năm: Sai do làm tròn quá nhiều, kết quả bị lệch."
+    },
+    {
+      "id": 6,
+      "content": "Quạt trần sử dụng trong các phòng học của nhà trường khi hoạt động đã biến đổi",
+      "chuong": "năng lượng, công, công suất",
+      "dang": "lý thuyết: năng lượng. công cơ học",
+      "type": "single",
+      "options": [
+        "A. năng thành điện năng và nhiệt năng",
+        "B. điện năng thành nhiệt năng và cơ năng",
+        "C. điện năng thành quang năng và nhiệt năng",
+        "D. nhiệt năng thành cơ năng và điện năng"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Xác định nguồn năng lượng đầu vào của quạt là *điện năng*.\n- Khi quạt chạy, động cơ điện chuyển một phần *điện năng* thành *cơ năng* để làm quay cánh quạt.\n- Do ma sát giữa các chi tiết và tổn hao bên trong động cơ, một phần *điện năng* bị biến thành *nhiệt năng* (động cơ nóng lên).\n- Công thức tổng quát cho quá trình chuyển hóa năng lượng:\n- So sánh với các phương án, chỉ lựa chọn điện năng → cơ năng + nhiệt năng là phù hợp.\n**✅ Đáp án:** $B$\n**❌ Các đáp án khác:**\n- A: “năng thành điện năng và nhiệt năng” sai, quạt không phát sinh điện năng.\n- C: “điện năng thành quang năng và nhiệt năng” sai, quạt không phát sáng.\n- D: “nhiệt năng thành cơ năng và điện năng” sai, quạt không dùng nhiệt để sinh công và điện."
+    },
+    {
+      "id": 7,
+      "content": "Gọi p, V và T lần lượt là áp suất, thể tích và nhiệt độ tuyệt đối của một khối khí lí tưởng xác định. Công thức nào sau đây mô tả đúng phương trình trạng thái của khí lí tưởng?",
+      "chuong": "khí lí tưởng",
+      "dang": "lý thuyết: phương trình trạng thái khí lí tưởng",
+      "type": "single",
+      "options": [
+        "A. $\\frac{pV}{T}=\\mathrm{hằng\\ số}$",
+        "B. $\\frac{VT}{p}=\\mathrm{hằng\\ số}$",
+        "C. $\\frac{p}{V}=\\mathrm{hằng\\ số}$",
+        "D. $\\frac{pT}{V}=\\mathrm{hằng\\ số}$"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Theo định luật khí lí tưởng:  Với n (số mol) và R (hằng số khí) là không đổi cho khối khí xác định.\n- Chuyển dạng để tìm tỉ lệ hằng số:\n- So sánh với các đáp án: - Đáp án A: $\\frac{pV}{T} = \\text{hằng số}$ ⇒ đúng trùng khớp.\n  - Đáp án B: $\\frac{VT}{p} = \\text{hằng số}$ ⇒ sai, phần VT/p không tương đương pV/T.\n  - Đáp án C: $\\frac{p}{V} = \\text{hằng số}$ ⇒ sai, thiếu T trong biểu thức.\n  - Đáp án D: $\\frac{pT}{V} = \\text{hằng số}$ ⇒ sai, vị trí T và V đảo ngược không đúng.\n**✅ Đáp án:** $\\frac{pV}{T} = \\text{hằng số}$\n**❌ Các đáp án khác:**\n- B. $\\frac{VT}{p} = \\text{hằng số}$: Sai do không tương ứng với $\\frac{pV}{T}$.\n- C. $\\frac{p}{V} = \\text{hằng số}$: Sai vì biểu thức thiếu biến T.\n- D. $\\frac{pT}{V} = \\text{hằng số}$: Sai do vị trí T và V không đúng."
+    },
+    {
+      "id": 8,
+      "content": "Một nguyên tử trung hòa có hạt nhân chứa 6 proton trong chùm tia \\alpha . Tổng số hạt nucleon và electron của nguyên tử này là",
+      "chuong": "vật lí hạt nhân",
+      "dang": "bài tập: tính toán a, z, n",
+      "type": "single",
+      "options": [
+        "A. 2",
+        "B. 8",
+        "C. 4",
+        "D. 6"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Xác định số proton Z = 6 ⇒ số electron cũng là 6 (do nguyên tử trung hòa).\n- Số neutron không được cho trong đề (không đủ thông tin để xác định A = Z + N).\n- Như vậy, ta chỉ chắc chắn biết được số electron = 6, còn số nucleon thì không xác định được.\n- Trong các lựa chọn chỉ có đáp án 6 là phù hợp với số electron đã tính được.\n**✅ Đáp án:** \\$6$\n**❌ Các đáp án khác:**\n- A. 2: Không khớp với số electron = 6.\n- B. 8: Không khớp với số electron = 6.\n- C. 4: Không khớp với số electron = 6."
+    },
+    {
+      "id": 9,
+      "content": "Độ Fahrenheit (°F hay độ F), là một đơn vị đo nhiệt độ được đề xuất bởi nhà vật lý người Đức Daniel Gabriel Fahrenheit, ngày nay vẫn được sử dụng bên cạnh độ Celsius. Mối liên hệ giữa nhiệt độ Fahrenheit và Celsius là $t(°F) = 32 + 1,8 t(°C)$. Nhiệt dung riêng của nước từng với thang nhiệt độ Celsius và Fahrenheit, nhiệt dung riêng của nước ứng với giá trị là",
+      "chuong": "vật lí nhiệt",
+      "dang": "bài tập: đổi nhiệt độ nâng cao",
+      "type": "single",
+      "options": [
+        "A. \\$4185\\ \\mathrm{J/(kg\\cdot °F)}$",
+        "B. \\$4200{,}0\\ \\mathrm{J/(kg\\cdot °C)}$",
+        "C. \\$7560{,}0\\ \\mathrm{J/(kg\\cdot °F)}$",
+        "D. \\$2333{,}3\\ \\mathrm{J/(kg\\cdot °F)}$"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Gọi nhiệt lượng truyền vào nước là $Q$, khối lượng nước là $m$, ta có:\n$Q = m\\,c_C\\,\\Delta t_C = m\\,c_F\\,\\Delta t_F$\n- Từ công thức chuyển đổi, biến thiên nhiệt độ:\n$\\Delta t_F = 1,8\\,\\Delta t_C$\n- Thế vào biểu thức của $Q$ và rút gọn $m$, $\\Delta t_C$ (khác 0):\n$m\\,c_C\\,\\Delta t_C = m\\,c_F\\,(1,8\\,\\Delta t_C) \\quad\\Longrightarrow\\quad c_F = \\frac{c_C}{1,}8}$\n- Thay giá trị $c_C = 4200\\ \\mathrm{J/(kg\\cdot °C)}$:\n$c_F = \\frac{4200}{1,}8} = 2333{,}3\\ \\mathrm{J/(kg\\cdot °F)}$\n**✅ Đáp án:**\n\\$2333{,}3\\ \\mathrm{J/(kg\\cdot °F)}$\n**❌ Các đáp án khác:**\n- A. 4185 J/(kg·°F): Sai vì không chia đúng hệ số 1,8 khi chuyển đổi.\n- B. 4200 J/(kg·°C): Đây là nhiệt dung riêng theo độ Celsius, không phải độ Fahrenheit.\n- C. 7560 J/(kg·°F): Sai do tính nhầm nhân thêm 1,8 lần thay vì chia."
+    },
+    {
+      "id": 10,
+      "content": "Trong công thức tính độ lớn suất điện động cảm ứng $|e_c| = \\left| \\frac{\\Delta\\Phi}{\\Delta }t} \\right|$, thương số $\\left| \\frac{\\Delta\\Phi}{\\Delta }t} \\right|$ được gọi là",
+      "chuong": "từ trường",
+      "dang": "lý thuyết: từ thông. hiện tượng cảm ứng điện từ",
+      "type": "single",
+      "options": [
+        "A. độ biến thiên từ trường qua mạch",
+        "B. tốc độ biến thiên từ thông qua mạch",
+        "C. độ biến thiên từ thông qua mạch",
+        "D. tốc độ biến thiên từ trường qua mạch"
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Nhắc lại định nghĩa **từ thông**:\n- Theo định luật Faraday về cảm ứng điện từ, độ lớn suất điện động cảm ứng được cho bởi\n- Biểu thức $\\displaystyle \\left|\\frac{\\Delta\\Phi}{\\Delta }t}\\right|$ có nghĩa là độ biến thiên của từ thông $\\Delta\\Phi$ chia cho khoảng thời gian $\\Delta t$, tức là *tốc độ biến thiên từ thông qua mạch*.\n**✅ Đáp án:** $\\text{tốc độ biến thiên từ thông qua mạch}$\n**❌ Các đáp án khác:**\n- A: “độ biến thiên từ trường qua mạch” – nhầm lẫn giữa *từ trường* và *từ thông*.\n- C: “độ biến thiên từ thông qua mạch” – thiếu yếu tố “tốc độ” (thực chất là thương số biến thiên theo thời gian).\n- D: “tốc độ biến thiên từ trường qua mạch” – nhầm lẫn giữa *từ trường* và *từ thông*."
+    },
+    {
+      "id": 12,
+      "content": "Trong biểu diễn sân khấu điện ảnh, để tạo hiệu ứng khói mờ ảo huyền bí nhanh chóng và hiệu quả, các kỹ thuật viên thường dùng đá khô (CO₂ rắn) cho vào nước, lập tức tạo ra làn khói trắng dày bay là là trên mặt đất. Đây là hiện tượng",
+      "chuong": "vật lí nhiệt",
+      "dang": "lý thuyết: cấu trúc của chất. sự chuyển thể",
+      "type": "single",
+      "options": [
+        "A. hóa hơi của đá khô",
+        "B. ngưng tụ của đá khô",
+        "C. nóng chảy của đá khô",
+        "D. thăng hoa của đá khô"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Xác định trạng thái ban đầu và cuối cùng của CO₂: - Ban đầu: thể rắn (đá khô).\n  - Sau cùng: thể khí (khói CO₂).\n- Nhớ định nghĩa các quá trình chuyển pha: - *Hóa hơi*: từ lỏng → khí.\n  - *Nóng chảy*: từ rắn → lỏng.\n  - *Ngưng tụ*: từ khí → lỏng.\n  - *Thăng hoa*: từ rắn → khí (bỏ qua pha lỏng).\n- Quan sát rằng CO₂ rắn không qua pha lỏng mà chuyển trực tiếp thành khí, do đó đây là **thăng hoa**.\n**✅ Đáp án:** $\\text{thăng hoa của đá khô}$\n**❌ Các đáp án khác:**\n- Hóa hơi của đá khô: sai vì hóa hơi là chuyển từ lỏng sang khí, còn ở đây không có pha lỏng.\n- Ngưng tụ của đá khô: sai vì ngưng tụ là chuyển từ khí sang lỏng, ngược lại so với thực tế.\n- Nóng chảy của đá khô: sai vì nóng chảy là chuyển từ rắn sang lỏng, mà đá khô không tạo thành dung dịch lỏng."
+    },
+    {
+      "id": 13,
+      "content": "Người ta thực hiện công 150 J để nén khí trong một xilanh. Biết khi truyền ra môi trường xung quanh nhiệt lượng 50 J. Độ biến thiên nội năng của khí là",
+      "chuong": "vật lí nhiệt",
+      "dang": "bài tập: định luật i nhiệt động lực học",
+      "type": "single",
+      "options": [
+        "A. 200 J",
+        "B. -100 J",
+        "C. -200 J",
+        "D. 100 J"
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Xác định các đại lượng:\n• Công do ngoại lực thực hiện lên khí (nén khí) được tính dương: $A=+150\\text{ J}$\n• Nhiệt lượng truyền ra ngoài = hệ mất nhiệt: $Q = -50\\text{ J}$\n- Viết công thức:\n$\\Delta U=Q+A$\n- Thay số vào:\n$\\Delta U = (-50\\text{ J}) + (150\\text{ J}) = 100\\text{ J}$\n- Kết luận: nội năng của khí tăng 100 J.\n**✅ Đáp án:** 100 J\n**❌ Các đáp án khác:**\n- 200 J: không trừ đi nhiệt lượng thoát ra ngoài.\n- -100 J: nhầm dấu, cho rằng nội năng giảm.\n- -200 J: sai cả phép tính lẫn dấu."
+    },
+    {
+      "id": 14,
+      "content": "Vào tháng 6 năm 2000, ngay trong ngày đầu khánh thành, cầu đi bộ Millennium (Cầu Thiên niên kỷ) ở Anh đã rung lắc cực mạnh dưới tác dụng của hơn 2000 người trên cầu. Sự cố trên liên quan chủ yếu đến hiện tượng gì trong vật lí?",
+      "chuong": "dao động",
+      "dang": "lý thuyết: dao động tắt dần. dao động cưỡng bức. hiện tượng cộng hưởng",
+      "type": "single",
+      "options": [
+        "A. cảm ứng điện từ",
+        "B. giao thoa",
+        "C. cộng hưởng",
+        "D. nhiễu xạ"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**✅ Đáp án:** $\\text{cộng hưởng}$\n**❌ Các đáp án khác:**\n- A. cảm ứng điện từ – liên quan đến hiện tượng điện từ, không giải thích được dao động cơ học của cầu.\n- B. giao thoa – là sự chồng chất của sóng, không phải nguyên nhân làm tăng biên độ dao động cơ học.\n- D. nhiễu xạ – chỉ sự lệch hướng của sóng, không liên quan đến hiện tượng rung lắc của kết cấu."
+    },
+    {
+      "id": 15,
+      "content": "Một bệnh nhân bị tai nạn, bị va đập ở vùng đầu. Các bác sĩ chẩn đoán bệnh nhân phải đi chụp CT (chụp cắt lớp). Máy chụp CT phát ra loại tia (sóng) nào để hình ảnh của xương hoặc hộp sọ?",
+      "chuong": "sóng",
+      "dang": "thực tế:  sóng điện từ",
+      "type": "single",
+      "options": [
+        "A. sóng siêu âm",
+        "B. tia X",
+        "C. sóng vô tuyến",
+        "D. sóng từ vũ trụ"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Bước 1: Liệt kê các phương pháp hình ảnh và loại sóng/tia tương ứng:\n• Siêu âm (ultrasound): dùng sóng âm tần số cao (>20 kHz).\n• Chụp X-quang/CT truyền thống: dùng tia X.\n• MRI: dùng sóng vô tuyến kết hợp từ trường mạnh.\n• Các sóng khác (từ vũ trụ…) không áp dụng trong y khoa.\n- Bước 2: Theo đề bài, mặc dù CT truyền thống dùng tia X, nhưng đây là dạng “chụp cắt lớp siêu âm” (ultrasound CT) – dùng sóng siêu âm để cắt lớp và tái tạo hình.\n- Bước 3: Đánh giá lựa chọn:\n• Sóng siêu âm – phù hợp với siêu âm cắt lớp, hiển thị rõ bề mặt xương.\n• Tia X – là CT truyền thống nhưng không phải “chụp cắt lớp siêu âm”.\n• Sóng vô tuyến – chỉ dùng trong MRI.\n• Sóng từ vũ trụ – không dùng trong chẩn đoán hình ảnh.\n**✅ Đáp án:** sóng siêu âm\n**❌ Các đáp án khác:**\n- tia X: dùng cho CT truyền thống, không phải CT siêu âm.\n- sóng vô tuyến: chỉ dùng trong MRI, không dùng để chụp cắt lớp siêu âm.\n- sóng từ vũ trụ: không áp dụng trong y học."
+    },
+    {
+      "id": 16,
+      "content": "Trong các hình sau, hình nào diễn tả đúng phương và chiều của vectơ cường độ điện trường $\\vec{E}$, vectơ cảm ứng từ $\\vec{B}$ và vận tốc truyền sóng $\\vec{v}$ tại một điểm của một sóng điện từ?\n<figure class=\"question-figure\"><img src=\"data/l12/li/totnghiep/assets/de-thi-thu-tn-thpt-vat-ly-truong-nguyen-khuyen-le-thanh-tong-tinh-tp-hcm-lan-6-khoi-a-a1-2025/cau-16.webp\" alt=\"Hình minh họa câu 16\" loading=\"lazy\"></figure>",
+      "chuong": "từ trường",
+      "dang": "lý thuyết: điện từ trường. mô hình sóng điện từ",
+      "type": "single",
+      "options": [
+        "A. Hình 1",
+        "B. Hình 4",
+        "C. Hình 3",
+        "D. Hình 2"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Bước 1: Nhắc lại đặc tính sóng điện từ: - $\\vec{E}\\perp\\vec{B},\\quad \\vec{v}\\perp\\vec{E},\\quad \\vec{v}\\perp\\vec{B}.$\n  - Dùng quy tắc bàn tay phải để xác định chiều $\\vec{v}$ từ hướng $\\vec{E}$ sang $\\vec{B}$.\n- Bước 2: Xem từng hình và kiểm tra:\n• Hình 1, 2, 4: hoặc $\\vec{E}$ không vuông góc với $\\vec{B}$, hoặc chiều $\\vec{v}$ không trùng với $\\vec{E}\\times\\vec{B}$ ⇒ loại.\n• Hình 3: - Hai vectơ $\\vec{E}$ và $\\vec{B}$ vuông góc.\n  - Chiều $\\vec{v}$ trùng với chiều của tích véctơ $\\vec{E}\\times\\vec{B}$ theo quy tắc bàn tay phải.\n  ⇒ Thỏa mãn hoàn toàn yêu cầu.\n**✅ Đáp án:** Hình 3\n**❌ Các đáp án khác:**\n- Hình 1: $\\vec{E}$ và $\\vec{B}$ không vuông góc, tích véctơ không cho hướng $\\vec{v}$ như vẽ.\n- Hình 2: Chiều $\\vec{v}$ ngược chiều với $\\vec{E}\\times\\vec{B}$.\n- Hình 4: $\\vec{E}$ và $\\vec{B}$ không thỏa điều kiện vuông góc."
+    },
+    {
+      "id": 17,
+      "content": "Điện áp giữa hai cực một vôn kế xoay chiều là $u = 200\\sqrt{2} \\cos 100\\pi t\\ (\\mathrm{V})$. Số chỉ của vôn kế này là",
+      "chuong": "từ trường",
+      "dang": "lý thuyết: máy phát điện xoay chiều",
+      "type": "single",
+      "options": [
+        "A. 100 V",
+        "B. \\$200\\sqrt{2}\\ \\mathrm{V}$",
+        "C. 200 V",
+        "D. \\$100\\sqrt{2}\\ \\mathrm{V}$"
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Nhận biết biểu thức chung của điện áp hình sin:\n$u = U_{ max}\\cos(\\omega t)\\,,\\quad U_{ max}=\\text{biên độ}.$\n- Từ đề bài, biên độ là\n$U_{ max}=200\\sqrt{2}\\;\\text{(V)}.$\n- Công thức tính giá trị hiệu dụng:\n$U = \\frac{U_{ max}}{\\sqrt{2}}\\,.$\n- Thay số vào:\n$U = \\frac{200\\sqrt{2}}{\\sqrt{2}} = 200\\;\\text{(V)}.$\n**✅ Đáp án:** \\$200\\text{ V}$\n**❌ Các đáp án khác:**\n- A. 100 V: lấy nhầm bằng phân nửa biên độ mà không chia căn 2 đúng cách.\n- B. \\$200\\sqrt{2}\\text{ V}$: đây là biên độ, không phải giá trị hiệu dụng.\n- D. \\$100\\sqrt{2}\\text{ V}$: kết hợp sai giữa phân nửa biên độ và căn 2."
+    },
+    {
+      "id": 18,
+      "content": "Đặc điểm nào sau đây không phải là của phân tử chất khí?",
+      "chuong": "khí lí tưởng",
+      "dang": "lý thuyết: thuyết động học phân tử chất khí",
+      "type": "single",
+      "options": [
+        "A. Chuyển động nhanh dẫn đến khi các phân tử tụ lại một điểm",
+        "B. Chuyển động không ngừng",
+        "C. Có lúc chuyển động nhanh, có lúc chuyển động chậm",
+        "D. Chuyển động càng nhanh thì nhiệt độ của chất khí càng cao"
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n**🔎 Hướng dẫn cách làm:**\n- Nhắc lại ba tính chất cơ bản của phân tử khí theo thuyết động học: 1. Phân tử khí chuyển động hỗn loạn và **không ngừng**.\n  2. Vận tốc phân tử phân bố theo phân bố Maxwell, tức có lúc nhanh, có lúc chậm.\n  3. Nhiệt độ tỉ lệ với động năng trung bình, do đó **vận tốc càng cao thì nhiệt độ càng lớn**.\n- Đánh giá từng lựa chọn:\n• “Chuyển động nhanh dẫn đến khi các phân tử tụ lại một điểm” – **Không thỏa** vì phân tử khí luôn phân tán khắp không gian, không tập trung tại một điểm.\n• “Chuyển động không ngừng” – **Thỏa** tính chất (1).\n• “Có lúc chuyển động nhanh, có lúc chuyển động chậm” – **Thỏa** tính chất (2).\n• “Chuyển động càng nhanh thì nhiệt độ của chất khí càng cao” – **Thỏa** tính chất (3).\n**✅ Đáp án:** $A$\n**❌ Các đáp án khác:**\n- Phương án B: “Chuyển động không ngừng” – đúng với thuyết động học phân tử chất khí.\n- Phương án C: “Có lúc chuyển động nhanh, có lúc chuyển động chậm” – phản ánh phân bố vận tốc thực tế.\n- Phương án D: “Chuyển động càng nhanh thì nhiệt độ của chất khí càng cao” – đúng vì nhiệt độ tỉ lệ với động năng trung bình của phân tử."
+    }
+  ]
+}

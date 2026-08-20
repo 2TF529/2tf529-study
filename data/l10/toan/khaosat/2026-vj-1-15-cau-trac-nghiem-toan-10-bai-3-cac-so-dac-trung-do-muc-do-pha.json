@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-toan-10-bai-3-cac-so-dac-trung-do-muc-do-pha",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-toan-10-bai-3-cac-s",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Toán 10 Bài 3. Các số đặc trưng đo mức độ phân tán cho mẫu số liệu không ghép nhóm có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Điều tra về số học sinh của một trường THPT như sau: Khối lớp 10 11 12 Số học sinh 1120 1075 900 Khoảng biến thiên của mẫu số liệu trên là.",
+      "options": [
+        "A. 220;",
+        "B. 45;",
+        "C. 175;",
+        "D. 3095."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A Giá trị lớn nhất của mẫu số liệu là 1120 và giá trị nhỏ nhất của mẫu số liệu là 900. Vậy khoảng biến thiên: R = 1120 – 900 = 220."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Năng suất lúa hè thu (tạ/ha) năm 1998 của 31 tỉnh thành ở Việt Nam được thống kê trong bảng sau: Năng suất lúa (tạ/ha) 25 30 35 40 45 Tần số 4 7 9 6 5 Hãy tính khoảng biến thiên của mẫu số liệu trên.",
+      "options": [
+        "A. 40;",
+        "B. 20;",
+        "C. 61;",
+        "D. 1."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải Đáp án đúng là: B Theo bảng số liệu trên ta có: Giá trị lớn nhất của số liệu là 45; giá trị nhỏ nhất của số liệu là 25. Khoảng biến thiên : R = 45 – 25 = 20."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Tìm khoảng tứ phân vị của mẫu số liệu sau: 200 240 220 210 225 235 225 270 250 280.",
+      "options": [
+        "A. 80;",
+        "B. 20;",
+        "C. 30;",
+        "D. 10."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là: C Mẫu số liệu trên được sắp xếp theo thứ tự tăng dần như sau: 200 210 220 225 225 235 240 250 270 280 Trung vị của mẫu số liệu trên là: \\(\\frac{{225 + 235}}{2}\\) = 230 ⇒ Q 2 = 230 Nửa dãy phía dưới số 230 (nghĩa là những số nhỏ hơn 230) gồm: 200 210 220 225 225 có trung vị là 220 ⇒ Q 1 = 220 Nửa dãy phía trên số 230 ( nghĩa là những số lớn hơn 230) gồm: 235 240 250 270 280 có trung vị là 250 ⇒ Q 3 = 250 Do đó, tứ phân vị của mẫu số liệu: Q 1 = 220; Q 2 = 230; Q 3 = 250 Vậy khoảng tứ phân vị của mẫu số liệu là: ∆ Q = Q 3 – Q 1 = 250 – 220 = 30."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Tiến hành đo huyết áp của 8 người ta thu được kết quả sau: 77 105 117 84 96 72 105 124 Hãy tìm khoảng tứ phân vị của mẫu số liệu trên.",
+      "options": [
+        "A. 10;",
+        "B. 20;",
+        "C. 10,5;",
+        "D. 30,5."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải Đáp án đúng là: D Mẫu số liệu trên được sắp xếp theo thứ tự tăng dần như sau: 72 77 84 96 105 105 117 124 Trung vị của mẫu số liệu trên là: \\(\\frac{{96 + 105}}{2}\\) = 100,5 ⇒ Q 2 = 100,5 Nửa dãy phía dưới số 100,5 ( nghĩa là những số nhỏ hơn 100,5) gồm: 72 77 84 96 có trung vị là \\(\\frac{{77 + 84}}{2}\\) = 80,5 ⇒ Q 1 = 80,5 Nửa dãy phía trên số 100,5 ( nghĩa là những số lớn hơn 100,5) gồm: 105 105 117 124 có trung vị là \\(\\frac{{105 + 117}}{2}\\) =111 ⇒ Q 3 = 111 Do đó, tứ phân vị của mẫu số liệu: Q 1 = 80,5 ; Q 2 = 100,5; Q 3 = 111 Vậy khoảng tứ phân vị của mẫu số liệu là: ∆ Q = Q 3 - Q 1 = 111 – 80,5 = 30,5"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Nếu đơn vị của số liệu là hm thì đơn vị của phương sai là",
+      "options": [
+        "A. m 2 ;",
+        "B. ha;",
+        "C. m 3 ;",
+        "D. hm."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải Đáp án đúng là: B Nếu đơn vị của số liệu là hm thì đơn vị của phương sai là hm 2 Mà 1 hm 2 = 1 ha"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Chọn khẳng định sai trong các khẳng định sau:",
+      "options": [
+        "A. Phương sai luôn là một số không âm;",
+        "B. Phương sai là bình phương của độ lệch chuẩn;",
+        "C. Phương sai càng lớn thì độ phân tán so với số trung bình cộng càng lớn;",
+        "D. Phương sai luôn lớn hơn độ lệch chuẩn."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải Đáp án đúng là: D Phương sai là s 2 và độ lệch chuẩn s = \\(\\sqrt {{s^2}} \\) nhưng không thể khẳng định phương sai lớn hơn độ lệch chuẩn"
+    }
+  ]
+}

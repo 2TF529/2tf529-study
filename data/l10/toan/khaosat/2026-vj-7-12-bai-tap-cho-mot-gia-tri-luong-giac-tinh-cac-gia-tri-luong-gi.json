@@ -1,0 +1,65 @@
+{
+  "id": "2026-vj-7-12-bai-tap-cho-mot-gia-tri-luong-giac-tinh-cac-gia-tri-luong-gi",
+  "sourceId": "vietjack:7-12-bai-tap-cho-mot-gia-tri-luong-giac-",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "7.12 Bài tập Cho một giá trị lượng giác, tính các giá trị lượng giác còn lại hoặc tính giá trị của biểu thức (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 3: Cho góc α (0° < α < 180°) với \\(\\cos \\alpha = \\frac{1}{3}\\). Giá trị của sinα bằng:",
+      "options": [
+        "A. 0;",
+        "B. \\(\\frac{{\\sqrt 2 }}{3}\\);",
+        "C. \\(\\frac{{2\\sqrt 2 }}{3}\\);",
+        "D. \\(\\sqrt 3 \\)."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải: Đáp án đúng là: C. Vì 0° < α < 180° nên sinα > 0. Lại có sin 2 α + cos 2 α = 1 Suy ra \\(\\sin \\alpha = \\sqrt {1 - {{\\cos }^2}\\alpha } = \\sqrt {1 - {{\\left( {\\frac{1}{3}} \\right)}^2}} = \\frac{{2\\sqrt 2 }}{3}\\)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 4: Cho góc α thỏa mãn \\(\\sin \\alpha = \\frac{{12}}{{13}}\\) và 90° < α < 180°. Tính cosα.",
+      "options": [
+        "A. \\(\\cos \\alpha = \\frac{2}{{13}}\\);",
+        "B. \\(\\cos \\alpha = \\frac{5}{{13}}\\);",
+        "C. \\(\\cos \\alpha = - \\frac{5}{{13}}\\);",
+        "D. \\(\\cos \\alpha = - \\frac{2}{{13}}\\)."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải: Đáp án đúng là: C. Vì 90° < α < 180° nên cosα < 0. Do đó \\[cos\\alpha = - \\sqrt {1 - {{\\sin }^2}\\alpha } = - \\sqrt {1 - {{\\left( {\\frac{{12}}{{13}}} \\right)}^2}} = - \\sqrt {\\frac{{25}}{{169}}} = - \\frac{5}{{13}}\\]."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 5: Cho góc α với 0° < α < 180°. Tính giá trị của cosα, biết \\(\\tan \\alpha = - 2\\sqrt 2 \\) .",
+      "options": [
+        "A. \\( - \\frac{1}{3}\\);",
+        "B. \\(\\frac{{2\\sqrt 2 }}{3}\\);",
+        "C. \\(\\frac{1}{3}\\);",
+        "D. \\(\\frac{{\\sqrt 2 }}{3}\\)."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A. Ta có \\({\\tan ^2}\\alpha + 1 = \\frac{1}{{{{\\cos }^2}\\alpha }}\\) \\( \\Rightarrow {\\cos ^2}\\alpha = \\frac{1}{{{{\\tan }^2}\\alpha + 1}} = \\frac{1}{{{{\\left( { - 2\\sqrt 2 } \\right)}^2} + 1}} = \\frac{1}{9}\\)\\( \\Rightarrow \\cos \\alpha = \\pm \\frac{1}{3}\\) . Vì 0° < α < 180° ⇒ sinα > 0 mà \\(\\tan \\alpha = - 2\\sqrt 2 \\)< 0 nên cosα < 0. Do đó \\(\\cos \\alpha = - \\frac{1}{3}\\)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 6: Cho góc α (0° < α < 180°) với \\(\\cot \\alpha = - \\sqrt 2 \\). Tìm mệnh đề sai trong các mệnh đề sau:",
+      "options": [
+        "A. \\(\\sin \\alpha = \\frac{1}{{\\sqrt 3 }}\\);",
+        "B. \\(\\cos \\alpha = \\frac{{\\sqrt 6 }}{3}\\);",
+        "C. \\(\\cos \\alpha = - \\frac{{\\sqrt 6 }}{3}\\);",
+        "D. \\(\\tan \\alpha = - \\frac{{\\sqrt 2 }}{2}\\)."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải: Đáp án đúng là: B. Vì \\(\\cot \\alpha = - \\sqrt 2 \\) nên \\(\\tan \\alpha = \\frac{1}{{\\cot \\alpha }} = - \\frac{{\\sqrt 2 }}{2}\\), do đó D đúng. Do 0° < α < 180° nên sin α > 0. Ta có: \\[{\\cot ^2}\\alpha + 1 = \\frac{1}{{{{\\sin }^2}\\alpha }}\\] \\( \\Rightarrow {\\sin ^2}\\alpha = \\frac{1}{{{{\\cot }^2}\\alpha + 1}} = \\frac{1}{{{{\\left( { - \\sqrt 2 } \\right)}^2} + 1}} = \\frac{1}{3}\\) \\( \\Rightarrow \\sin \\alpha = \\frac{1}{{\\sqrt 3 }}\\) nên A đúng. Lại có: \\[\\cot \\alpha = \\frac{{\\cos \\alpha }}{{\\sin \\alpha }} \\Rightarrow \\cos \\alpha = \\cot \\alpha .\\sin \\alpha = - \\sqrt 2 .\\frac{1}{{\\sqrt 3 }} = - \\frac{{\\sqrt 6 }}{3}\\]. Do đó B sai, C đúng."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-11-ket-noi-tri-thuc-bai-11-co-dap-an",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-11-ket-noi-",
+  "grade": "l11",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 11 Kết nối tri thức Bài 11 có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Cơ sở dữ liệu (CSDL) là gì?",
+      "options": [
+        "A. Một tập hợp các bảng tính trong Excel.",
+        "B. Một tập hợp các tệp văn bản trong máy tính.",
+        "C. Một tập hợp dữ liệu có liên quan, được lưu trữ có tổ chức trên máy tính.",
+        "D. Một bộ sưu tập hình ảnh và video."
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: CSDL là một tập hợp dữ liệu có liên quan với nhau, được lưu trữ có tổ chức trên hệ thống máy tính để dễ dàng quản lý và truy xuất thông tin. Các phương án A, B, D không chính xác vì không đúng định nghĩa của CSDL."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Tính chất nào sau đây là tính chất quan trọng của CSDL?",
+      "options": [
+        "A. Tính dư thừa dữ liệu.",
+        "B. Tính toàn vẹn dữ liệu.",
+        "C. Tính phụ thuộc phần mềm.",
+        "D. Tính lưu trữ trên giấy"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Tính toàn vẹn dữ liệu đảm bảo rằng dữ liệu lưu trữ phải chính xác và không bị sai lệch. CSDL cần hạn chế sự dư thừa dữ liệu (phương án A) và không phụ thuộc vào phần mềm (phương án C). Việc lưu trữ trên giấy không liên quan đến CSDL (phương án D)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Khi thiết kế CSDL, việc đảm bảo tính không dư thừa có nghĩa là:",
+      "options": [
+        "A. Giảm thiểu số lượng người dùng truy cập dữ liệu.",
+        "B. Hạn chế việc lưu trữ các dữ liệu lặp lại.",
+        "C. Tăng cường sự phụ thuộc vào phần mềm.",
+        "D. Lưu trữ tất cả dữ liệu ở cùng một nơi."
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Tính không dư thừa có nghĩa là hạn chế lưu trữ dữ liệu lặp lại để tránh gây ra sự dư thừa và không nhất quán dữ liệu."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Hệ thống nào dưới đây thường sử dụng CSDL để quản lý dữ liệu?",
+      "options": [
+        "A. Quản lý hồ sơ khách hàng của ngân hàng.",
+        "B. Viết nhật ký cá nhân.",
+        "C. Lưu trữ tài liệu văn bản trên ổ đĩa cứng.",
+        "D. Tạo bảng tính đơn giản trong Excel."
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Ngân hàng sử dụng CSDL để quản lý thông tin khách hàng như số tài khoản, giao dịch, và số dư tài khoản. Các phương án B, C, D không liên quan đến việc sử dụng CSDL chuyên nghiệp."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Tính độc lập dữ liệu trong CSDL là gì?",
+      "options": [
+        "A. Khả năng phần mềm không cần cập nhật khi thay đổi dữ liệu.",
+        "B. Khả năng dữ liệu không phụ thuộc vào bất kỳ phần mềm nào.",
+        "C. Dữ liệu có thể được lưu trữ trên nhiều hệ thống khác nhau.",
+        "D. Dữ liệu chỉ có thể được truy cập từ một chương trình duy nhất. Đâu là ví dụ về CSDL trong thực tế?"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Tính độc lập dữ liệu có nghĩa là phần mềm không cần phải thay đổi khi cấu trúc dữ liệu được điều chỉnh, giúp giảm thiểu công sức bảo trì phần mềm."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Đâu là ví dụ về CSDL trong thực tế?",
+      "options": [
+        "A. Một tập hợp các video được lưu trữ trên ổ cứng.",
+        "B. Hệ thống quản lý điểm số của học sinh trong trường.",
+        "C. Một bảng tính Excel chứa danh sách hàng hóa.",
+        "D. Một tài liệu văn bản được lưu trên máy tính."
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Hệ thống quản lý điểm số là một ví dụ điển hình về việc sử dụng CSDL để tổ chức và truy xuất dữ liệu. Các phương án khác không đại diện cho hệ thống CSDL."
+    }
+  ]
+}

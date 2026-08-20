@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-5-12-bai-tap-mot-so-bai-toan-thuc-te-lien-quan-den-khai-can-bac-h",
+  "sourceId": "vietjack:5-12-bai-tap-mot-so-bai-toan-thuc-te-lie",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "5.12 bài tập Một số bài toán thực tế liên quan đến khai căn bậc hai có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Khi một quả bóng rổ được thả xuống, nó sẽ nảy trở lại, nhưng do tiêu hao năng lượng nên nó không đạt được chiều cao như lúc bắt đầu. Hệ số phục hồi của quả bóng được tính theo công thức \\({C_R} = \\sqrt {\\frac{h}{H}} \\), trong đó H là độ cao mà quả bóng được thả rơi, h là độ cao quả bóng bật lại. Một quả bóng rơi từ độ cao 3,24 m và bật lại độ cao 2,25 m. Viết hệ số phục hồi của quả bóng đó dưới dạng phân số?",
+      "options": [
+        "A. C R = \\(\\frac{5}{6}\\).",
+        "B. C R = \\(\\frac{5}{4}\\).",
+        "C. C R = \\(\\frac{6}{5}\\).",
+        "D. C R = \\(\\frac{5}{2}\\)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Thay H = 3,24 m và h = 2,25 m ta được: \\({C_R} = \\sqrt {\\frac{{2,25}}{{3,24}}} = \\sqrt {\\frac{{225}}{{324}}} = \\frac{{\\sqrt {225} }}{{\\sqrt {324} }} = \\frac{{15}}{{18}} = \\frac{5}{6}\\). Vậy C R = \\(\\frac{5}{6}\\)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Trong vật lí, ta có định luật Joule, Lenz để tính nhiệt lượng tỏa ra ở dây dẫn khi có dòng điện chạy qua: Q = I 2 Rt. Trong đó: Q là nhiệt lượng tỏa ra trên dây dẫn tính theo Jun (J); I là cường độ dòng điện chạy trong dậy dẫn tính theo Ampe (A); R là điện trở dây dẫn tính theo Ohm (\\(\\Omega \\)); t là thời gian dòng điện chạy qua dây dẫn tính theo giây. Áp dụng công thức trên để giải bài toán sau: Mỗi bếp điện khi hoạt động bình thường có điện trở R = 80 \\(\\Omega \\). Tính cường độ dòng điện chạy trong dây dẫn, biết nhiệt lượng mà dây dẫn tỏa ra trong 1 giây là 500 J.",
+      "options": [
+        "A. 2,5 A.",
+        "B. 5 A.",
+        "C. 2 A.",
+        "D. 25 A."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Theo đề bài, ta có: R = 80 (\\(\\Omega \\)), t = 1 (s) và Q = 500 (J). Áp dụng công thức Q = I 2 Rt, suy ra 500 = I 2 .80.1 Suy ra I 2 = \\(\\frac{{500}}{{80}} = \\frac{{25}}{4}\\). Do đó, I = \\(\\sqrt {\\frac{{25}}{4}} = \\frac{{\\sqrt {25} }}{{\\sqrt 4 }} = \\frac{5}{2} = 2,5\\) (A) (do I > 0). Vậy cường độ dòng điện chạy trong dây dẫn là 2,5 A."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Tốc độ chạy gần đúng của một ô tô ngay trước khi đạp phanh được tính theo công thức v = \\(\\sqrt {2\\lambda gd} \\), trong đó v (m/s) là tốc độ của ô tô, d (m) là chiều dài của vết trượt dài tính từ thời điểm đạp phanh cho đến khi ô tô dừng lại trên đường \\(\\lambda \\) là hệ số cản lăn của mặt đường g = 9,8 m/s 2 . Nếu một chiếc ô tô để lại vết trượt dài khoảng 20 m trên đường nhựa thì tốc độ của ô tô trước khi đạp phanh là khoảng bao nhiêu mét trên giây (làm tròn kết quả đến hàng đơn vị)? Biết rằng hệ số cản lăn của đường nhựa \\(\\lambda \\) = 0,7.",
+      "options": [
+        "A. 17 m/s.",
+        "B. 16 m/s.",
+        "C. 15 m/s.",
+        "D. 14 m/s."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Theo đề, ta có: \\(\\lambda \\) = 0,7; d = 20 (m); g = 9,8 m/s 2 . Do tốc độ của ô tô trước khi đạp phanh là v = \\(\\sqrt {2\\lambda gd} = \\sqrt {2.0,7.9,8.20} = \\sqrt {274,4} \\approx 17\\) (m/s). Vậy tốc độ của ô tô trước khi đạp phanh là khoảng 17 m/s."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Vận tốc m/s của một vật đang bay được cho bởi công thức v = \\(\\sqrt {\\frac{{2E}}{m}} \\), trong đó E là động năng của vật (Tính bằng Joule, kí hiệu là J) và m (kg) là khối lượng của vật. tính vận tốc bay của một vật khi biết vật đó có khối lượng 2,5 kg và động năng 281,25 J.",
+      "options": [
+        "A. 15 m/s.",
+        "B. 14 m/s.",
+        "C. 13 m/s.",
+        "D. 12 m/s."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Vận tốc bay của một vật có khối lượng 2,5 kg và động năng bằng 281,25 J là: \\(v = \\sqrt {\\frac{{2E}}{m}} = \\sqrt {\\frac{{2.281,25}}{{2.5}}} = \\sqrt {\\frac{{562,5}}{{2,5}}} = \\sqrt {\\frac{{5625}}{{25}}} = \\frac{{\\sqrt {5625} }}{{\\sqrt {25} }} = \\frac{{75}}{5} = 15\\) (m/s). Vậy vận tốc bay của vật là 15 m/s."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Công suất P(W), hiệu điện thế U (V), điện trở R(\\(\\Omega \\)) trong đoạn mạch một chiều liên hệ với nhau theo công thức U = \\(\\sqrt {PR} \\). Nếu công suất tăng gấp 8 lần, điện trở giảm 2 lần thì tỉ số giữa hiệu điện thế lúc đó và hiệu điện thế ban đầu bằng bao nhiêu?",
+      "options": [
+        "A. 2.",
+        "B. 1.",
+        "C. 4.",
+        "D. 0,5."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Gọi công suất ban đầu là P 1 (W), điện trở ban đầu là R 1 (\\(\\Omega \\)) và hiệu điện thế ban đầu là U 1 (V). Khi đó \\({U_1} = \\sqrt {{P_1}{R_1}} \\). Nếu công suất tăng gấp 8 lần thì công suất lúc này là P 2 = 6P 1 . Nếu điện trở giảm đi 2 lần thì điện trở lúc này là R 2 = 0,5R 1 . Khi đó, \\({U_2} = \\sqrt {{P_2}{R_2}} = \\sqrt {8{P_1}\\frac{{{R_1}}}{2}} = \\sqrt {4{P_1}{R_1}} \\). Do đó, \\(\\frac{{{U_2}}}{{{U_1}}} = \\frac{{\\sqrt {4{P_1}{R_1}} }}{{\\sqrt {{P_1}{R_1}} }} = \\frac{{2\\sqrt {{P_1}{R_1}} }}{{\\sqrt {{P_1}{R_1}} }} = 2\\). Vậy tỉ số giữa hiệu điện thế lúc sau và hiệu điện thế ban đầu bằng 2."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Biết rằng hình tam giác và hình chữ nhật ở hình vẽ có diện tích bằng nhau. Tính chiều rộng x của hình chữ nhật.",
+      "options": [
+        "A. 3 cm.",
+        "B. 6 cm.",
+        "C. 5 cm.",
+        "D. \\(6\\sqrt 6 \\) cm."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Diện tích hình tam giác là: \\(\\frac{1}{2}.\\sqrt {32} .\\sqrt {27} = \\frac{1}{2}.\\sqrt {32.27} = \\frac{1}{2}\\sqrt {16.2.9.3} = \\frac{1}{2}.4.3.\\sqrt 6 = 6\\sqrt 6 \\) (cm 2 ). Vì hình tam giác và hình chữ nhật có diện tích bằng nhau nên diện tích hình chữ nhật bằng \\(6\\sqrt 6 \\) cm 2 . Chiều rộng của hình chữ nhật đó là: \\(\\frac{{6\\sqrt 6 }}{{\\sqrt {24} }} = \\frac{{6\\sqrt 6 }}{{2\\sqrt 6 }} = 3\\) (cm). Vậy chiều rộng x của hình chữ nhật là 3 cm."
+    }
+  ]
+}

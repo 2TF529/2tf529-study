@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-5-10-bai-tap-mot-so-bai-toan-tong-hop-ve-tu-giac-noi-tiep-co-loi-",
+  "sourceId": "vietjack:5-10-bai-tap-mot-so-bai-toan-tong-hop-ve",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "5.10 bài tập Một số bài toán tổng hợp về tứ giác nội tiếp có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho hình bình hành. Đường tròn đi qua ba đỉnh cắt đường thẳng tại P. Khi đó",
+      "options": [
+        "A. ABCP là hình thang cân.",
+        "B. AP = AD.",
+        "C. AP = BC.",
+        "D. Cả A, B, C đều đúng."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Do tứ giác ABCP nội tiếp (vì có 4 đỉnh cùng thuộc đường tròn) và \\[\\widehat {BAP},\\widehat {BCP}\\] là các góc đối nên \\[\\widehat {BAP} + \\widehat {BCP} = 180^\\circ \\] (1) Do ABCD là hình bình hành nên CD // AB suy ra \\[\\widehat {ABC} + \\widehat {BCP} = 180^\\circ \\] (2) Từ (1) và (2) ta nhận được \\[\\widehat {BAP} = \\widehat {ABC}\\]. Mặt khác CP // AB nên ABCP là hình thang cân. Do đó, đáp án A đúng. Từ đó, ta suy ra AP = BC (3). Do đó, đáp án C đúng. Do BC = AD (vì ABCD là hình bình hành) (4) Từ (3), (4) có AP = AD. Vậy cả ba đáp án A, B, C đều đúng."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho tam giác ABC cân tại A có \\[\\widehat {BAC} = 120^\\circ \\], trên nửa mặt phẳng bờ BC không chứa đỉnh A, lấy D sao cho BCD là tam giác đều. Khi đó",
+      "options": [
+        "A. Tam giác ACD cân.",
+        "B. ABCD nội tiếp.",
+        "C. ABDC là hình thang.",
+        "D. ABDC là hình vuông."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có tam giác BCD là tam giác đều nên \\[\\widehat {BCD} = 60^\\circ \\] (1). Mặt khác ∆ABC là tam giác cân tại A có \\[\\widehat {BAC} = 120^\\circ \\] hơn nữa tổng ba góc trong một tam giác bằng 180° nên ta có: \\[\\left\\{ \\begin{array}{l}\\widehat {ACB} = \\widehat {ABC}\\\\\\widehat {ABC} + \\widehat {ACB} + \\widehat {BAC} = 180^\\circ \\end{array} \\right.\\], suy ra \\[\\widehat {BCA} = 30^\\circ \\] (2) Từ (1) và (2) suy ra \\[\\widehat {DCA} = \\widehat {DCB} + \\widehat {BCD} = 60^\\circ + 30^\\circ = 90^\\circ \\]. Tương tự ta chứng minh được \\[\\widehat {DBA} = 90^\\circ \\]. Do đó, ∆ACD vuông tại C nên A, C, D thuộc đường tròn đường kính AD. (3) ∆ABD vuông tại B nên A, B, D thuộc đường tròn đường kính AD. (4) Từ (3) và (4) suy ra bốn điểm A, B, C, D cùng thuộc một đường tròn. Vậy tứ giác ABDC là tứ giác nội tiếp."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho nửa (O) đường kính AB. Lấy M ∈ OA (M ≠ O, A). Qua M vẽ đường thẳng d vuông góc với AB. Trên d lấy N sao cho ON > R. Nối NB cắt (O) tại C. Kẻ tiếp tuyến NE với (O) (E là tiếp điểm, E và A cùng thuộc nửa mặt phẳng bờ d). Có H là giao điểm của AC với d và F là giao điểm của HE với đường tròn (O)). Chọn khẳng định sai trong các khẳng định sau:",
+      "options": [
+        "A. Bốn điểm O, E, M, N cùng thuộc một đường tròn.",
+        "B. NE 2 = NC.NB.",
+        "C. \\[\\widehat {NEH} = \\widehat {NME}\\].",
+        "D. \\[\\widehat {NFO} < 90^\\circ \\]."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D • Nhận thấy \\[\\widehat {NEO} = \\widehat {NMO} = 90^\\circ \\] nên N, E, M, O cùng thuộc một đường tròn đường kính NO hay tứ giác NEMO nội tiếp. Do đó, đáp án A đúng. • Ta có . Do đó, ∆NEC ᔕ ∆NBE (g.g) Suy ra \\[\\frac{{NE}}{{NB}} = \\frac{{NC}}{{NE}}\\] nên NB.NC = NE 2 . Do đó, ý b đúng. • Từ đó suy ra ∆NEH ᔕ ∆NME (c.g.c) Suy ra \\[\\widehat {NEH} = \\widehat {EMN}\\]. Do đó, ý c đúng. • Ta có \\[\\widehat {NME} = \\widehat {EON}\\] (tứ giác NEMO nội tiếp đường tròn) nên \\[\\widehat {NEH} = \\widehat {NOE}\\]. Mà góc ENO phụ với góc EON nên góc EON cũng phụ với góc NEH. Suy ra \\[EH \\bot NO\\]. Suy ra ∆OEF cân có ON là phân giác. Xét ∆OEN và ∆OFN có: \\[\\widehat {NOE} = \\widehat {NOF}\\] (co ON là phân giác góc EOF). ON chung (gt) OE = OF = R (gt) Do đó, ∆OEN = ∆OFN (c.g.c) Suy ra \\[\\widehat {NEO} = \\widehat {NFO} = 90^\\circ \\] (hai góc tương ứng) Do đó phương án D sai."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho tam giác ABC vuông ở A. Trên cạnh AC lấy điểm M và vẽ đường tròn đường kính MC. Kẻ BM cắt đường tròn tại D. Đường thẳng DA cắt đường tròn tại S. Chọn đáp án sai trong các đáp án sau:",
+      "options": [
+        "A. Tứ giác ABCD nội tiếp.",
+        "B. \\[\\widehat {ABD} = \\widehat {ACD}\\].",
+        "C. CA là phân giác của góc SCB.",
+        "D. Tứ giác ABCS nội tiếp."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D • Ta có \\[\\widehat {MDC}\\] là góc nội tiếp chắn nửa đường tròn đường kính MC nên \\[\\widehat {MDC} = 90^\\circ \\] (tính chất góc nội tiếp chắn nửa đường tròn) Xét ∆BAC vuông tại A nên A, B, C thuộc đường tròn đường kính BC. Xét ∆BDC vuông tại D nên D, B, C thuộc đường tròn đường kính BC. Suy ra bốn điểm A, B, C, D cùng thuộc một đường tròn hay tứ giác A, B, C, D nội tiếp. • Xét tứ giác ABCD là tứ giác nội tiếp nên \\[\\widehat {ABD} = \\widehat {ACD}\\] (cùng nhìn đoạn AD). Do đó, phương án B đúng. Xét đường tròn đường kính MC ta có 4 điểm M, C, D, S cùng thuộc đường tròn nên tứ giác MCSD là tứ giác nội tiếp. Suy ra \\[\\widehat {MDA} = \\widehat {SCM}\\] (góc ngoài tại 1 đỉnh bằng góc trong tại đỉnh đối diện) (1) Vì tứ giác ABCD nội tiếp (cmt) nên \\[\\widehat {ACB} = \\widehat {ADB}\\] (cùng nhìn đoạn AB) (2) Từ (1) và (2) suy ra \\[\\widehat {BCA} = \\widehat {ACS}\\] \\[\\left( { = \\widehat {ADB}} \\right)\\] Hay CA là phân giác của \\[\\widehat {SCB}\\]. Do đó, ý C đúng. • Giả sử tứ giác ABCS là tứ giác nội tiếp thì \\[\\widehat {ASB} = \\widehat {BCA}\\] (hai góc cùng nhìn đoạn AB) Mà \\[\\widehat {BCA} = \\widehat {BDA}\\]; \\[\\widehat {BDA} \\ne \\widehat {BSA}\\] (xét trong đường tròn đường kính CM). Suy ra \\[\\widehat {BCA} \\ne \\widehat {BSA}\\], do đó tứ giác ABCS không nội tiếp. Do đó, ý D sai."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho tam giác ABC cân tại A có \\[\\widehat {BAC} = 130^\\circ \\]. Trên nửa mặt phẳng bờ BC không chứa đỉnh A, kẻ Bx ⊥ BA, Cx ⊥ CA. Chọn đáp án sai trong các đáp án dưới đây.",
+      "options": [
+        "A. Tam giac BCD cân.",
+        "B. ABDC nội tiếp.",
+        "C. ABDC là hình thoi.",
+        "D. \\[\\widehat {BDC} = 50^\\circ \\]."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Theo đề, ta có: \\[\\widehat {DBA} = \\widehat {ACD} = 90^\\circ \\] nên chứng minh được bốn điểm A, B, C, D cùng thuộc một đường tròn đường kính AD. Suy ra tứ giác ABDC nội tiếp. Lại có ∆ABC cân tại A có \\[\\widehat {BAC} = 130^\\circ \\] nên \\[\\widehat {ABC} = \\widehat {BCA} = \\frac{{180^\\circ - 130^\\circ }}{2} = 25^\\circ \\]. Ta có: \\[\\widehat {BDC} + \\widehat {ABC} = 90^\\circ \\] nên \\[\\widehat {BDC} = 90^\\circ - 25^\\circ = 65^\\circ \\]. Từ đó suy ra tam giác BCD cân tại D nên đáp án A đúng. Xét tứ giác ABDC nội tiếp nên \\[\\widehat {BAC} + \\widehat {BDC} = 180^\\circ \\], suy ra \\[\\widehat {BDC} = 180^\\circ - \\widehat {BAC} = 50^\\circ \\] nên D đúng. Ta chưa đủ điều kiện để suy ra tứ giác ABDC là hình thoi."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho đường tròn (O) đường kính AB. Gọi H là điểm nằm giữa O và B. Kẻ dây CD vuông góc với A tại H. Trên cung nhỏ AC lấy điểm E, kẻ CK ⊥ AE tại K. Đường thẳng DE cắt CK tại F. Tam giác ACF là",
+      "options": [
+        "A. Tam giác cân tại F.",
+        "B. Tam giác cân tại C.",
+        "C. Tam giác cân tại A.",
+        "D. Tam giác đều."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Xét (O) có \\[\\widehat {EAC} = \\widehat {ADC}\\] (hai góc nội tiếp cùng chắn một cung. Ta có ∆AKC vuông tại K nên A, K, C thuộc đường tròn đường kính AC (1). ∆AHC vuống tại H nên A, H, C thuộc đường tròn đường kính AC (2) Từ (1) và (2) suy ra A, H, C, K cùng thuộc một đường tròn hay tứ giác AHCK nội tiếp. Xét tứ giác nội tiếp AHCK có \\[\\widehat {KAC} = \\widehat {KHC}\\] nên \\[\\widehat {EDC} = \\widehat {KHC}\\left( { = \\widehat {KAC}} \\right)\\] mà hai góc ở vị trí đồng vị nên KH // ED. Xét tam giác CFD có KH // ED mà H là trung điểm của DC (do AB ⊥ DC) nên K là trung điểm của CF. Xét tam giác ACF có AK vừa là đường trung tuyến vừa là đường cao nên ∆ACF cân tại A."
+    }
+  ]
+}

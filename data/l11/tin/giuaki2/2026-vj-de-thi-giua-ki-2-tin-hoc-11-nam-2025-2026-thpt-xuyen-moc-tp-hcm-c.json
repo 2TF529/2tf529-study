@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-de-thi-giua-ki-2-tin-hoc-11-nam-2025-2026-thpt-xuyen-moc-tp-hcm-c",
+  "sourceId": "vietjack:de-thi-giua-ki-2-tin-hoc-11-nam-2025-202",
+  "grade": "l11",
+  "subjectSlug": "tin",
+  "examType": "giuaki2",
+  "year": 2026,
+  "title": "Đề thi giữa kì 2 Tin học 11 năm 2025-2026 THPT Xuyên Mộc (TP.HCM) có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Mỗi câu học sinh chỉ chọn 1 phương án. Kiểu dữ liệu nào thường được dùng cho trường chứa thông tin về \"Ngày mượn sách\" trong Access?",
+      "options": [
+        "A. Short Text.",
+        "B. Number.",
+        "C. Yes/No.",
+        "D. Date/Time."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là D."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Trong bảng \"Quản lý sách\", hãy chọn trường phù hợp nhất để làm khóa chính trong danh sách sau:",
+      "options": [
+        "A. Tên sách.",
+        "B. Mã số sách",
+        "C. Năm xuất bản.",
+        "D. Tên tác giả."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là B."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Khóa chính (Primary Key) của một bảng là một hoặc nhiều trường có đặc điểm gì?",
+      "options": [
+        "A. Luôn phải có kiểu dữ liệu là số nguyên dương.",
+        "B. Giúp phân biệt duy nhất các bản ghi trong bảng.",
+        "C. Có độ dài lớn nhất trong tất cả các trường.",
+        "D. Chứa các giá trị giống nhau ở mọi bản ghi."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là B."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Khi thiết lập liên kết giữa hai bảng, điều kiện tiên quyết về kiểu dữ liệu của hai trường liên kết là gì?",
+      "options": [
+        "A. Không cần quan tâm đến kiểu dữ liệu của các trường.",
+        "B. Phải cùng kiểu dữ liệu (trừ một số ngoại lệ tương thích).",
+        "C. Trường khóa chính phải là kiểu số, khóa ngoài kiểu chữ.",
+        "D. Phải là kiểu Short Text cho cả hai trường."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là B."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Phát biểu nào sau đây đúng khi nói về sự khác biệt giữa CSDL và hệ quản trị CSDL?",
+      "options": [
+        "A. CSDL là phần mềm dùng để tạo lập các bảng dữ liệu.",
+        "B. Hệ quản trị CSDL là tập hợp các dữ liệu có liên quan.",
+        "C. CSDL là nơi lưu trữ, hệ quản trị CSDL là công cụ điều khiển.",
+        "D. Hệ quản trị CSDL và CSDL là hai tên gọi của một phần mềm."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là C."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Khẳng định nào sau đây nêu đúng về nhu cầu dẫn đến sự ra đời của các hệ CSDL?",
+      "options": [
+        "A. Do các loại máy tính cá nhân không còn đủ bộ nhớ để lưu trữ văn bản.",
+        "B. Do nhu cầu tăng tốc độ xử lý các phép toán số học phức tạp hiện nay.",
+        "C. Do nhu cầu thay thế hoàn toàn con người trong việc ra quyết định.",
+        "D. Do nhu cầu lưu trữ dữ liệu ngày càng lớn và cần chia sẻ dùng chung."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là D."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Trong cấu trúc của một bảng dữ liệu, mỗi hàng ghi thông tin về một đối tượng cụ thể được gọi là gì?",
+      "options": [
+        "A. Tên bảng (Table Name).",
+        "B. Kiểu dữ liệu (Data Type).",
+        "C. Trường (Field).",
+        "D. Bản ghi (Record)."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là D."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Trong các công việc thường gặp của bài toán quản lý, việc bổ sung thêm một hồ sơ mới vào danh sách thuộc nhóm công việc nào?",
+      "options": [
+        "A. Lưu trữ hồ sơ.",
+        "B. Khai thác thông tin.",
+        "C. Thu thập dữ liệu.",
+        "D. Cập nhật dữ liệu."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là D."
+    }
+  ]
+}

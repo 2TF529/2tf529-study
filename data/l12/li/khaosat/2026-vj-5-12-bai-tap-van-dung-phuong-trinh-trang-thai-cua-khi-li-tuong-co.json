@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-5-12-bai-tap-van-dung-phuong-trinh-trang-thai-cua-khi-li-tuong-co",
+  "sourceId": "vietjack:5-12-bai-tap-van-dung-phuong-trinh-trang",
+  "grade": "l12",
+  "subjectSlug": "li",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "5.12 Bài tập Vận dụng phương trình trạng thái của khí lí tưởng (có lời giải)",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Trong xi lanh của một động cơ đốt trong hỗn hợp khí ở áp suất 1 atm, nhiệt độ 47 °C, có thể tích 40 dm 3 . Nén hỗn hợp khí đến thể tích 5 dm 3 , áp suất 15 atm. Tính nhiệt độ của khí sau khi nén.",
+      "options": [
+        "A. 327 K.",
+        "B. 600 o C.",
+        "C. 327 o C.",
+        "D. 320K."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là C • Trạng thái đầu: \\({{\\rm{p}}_1} = 1\\,{\\rm{atm}};{{\\rm{V}}_1} = 40\\,{\\rm{d}}{{\\rm{m}}^3};{{\\rm{T}}_1} = 47 + 273 = 320\\;{\\rm{K}}\\) • Trạng thái cuối: \\({{\\rm{p}}_2} = 15\\,{\\rm{atm}};{{\\rm{V}}_2} = 5\\,{\\rm{d}}{{\\rm{m}}^3};{{\\rm{T}}_2} = \\) ? Ta có: \\(\\frac{{{p_1}{V_1}}}{{{T_1}}} = \\frac{{{p_2}{V_2}}}{{{T_2}}} \\Rightarrow {T_2} = \\frac{{{p_2}{V_2}}}{{{p_1}{V_1}}}{T_1} = \\frac{{15.5}}{{1.40}} \\cdot 320 = 600\\;{\\rm{K}}\\) hay t 2 = 327 ° C"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Trước khi nén, hỗn hợp khí trong xilanh của một động cơ có áp suất 0,8 atm; nhiệt độ 50 °C. Sau khi nén, thể tích giảm 5 lần, áp suất là 8 atm. Tìm nhiệt độ khí sau khi nén.",
+      "options": [
+        "A. 373 o C.",
+        "B. 646 o C.",
+        "C. 323 K.",
+        "D. 373 K."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là A • Trạng thái đầu: \\({{\\rm{p}}_1} = 0,8\\) atm; \\({{\\rm{V}}_1};{{\\rm{T}}_1} = 50 + 273 = 323\\;{\\rm{K}}\\) • Trạng thái cuối: \\({{\\rm{p}}_2} = 8\\) atm; \\({{\\rm{V}}_2} = \\frac{{{V_1}}}{5};{{\\rm{T}}_2} = \\) ? Ta có: \\(\\frac{{{p_1}{V_1}}}{{{T_1}}} = \\frac{{{p_2}{V_2}}}{{{T_2}}} \\Rightarrow {T_2} = \\frac{{{p_2}{V_2}}}{{{p_1}{V_1}}}{T_1} = \\frac{8}{{0,8}} \\cdot \\frac{1}{5} \\cdot 323 = 646\\;{\\rm{K}}\\) hay t 2 = 373 ° C"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Một lượng khí nitrogen có thể tích giảm từ \\(21{\\rm{d}}{{\\rm{m}}^3}\\) xuống \\(14{\\rm{d}}{{\\rm{m}}^3}\\) thì áp suất tăng từ \\(80,0{\\rm{kPa}}\\) đến \\(160,0{\\rm{kPa}}\\) và có nhiệt độ là \\(300,0\\;{\\rm{K}}.\\) Nhiệt độ ban đầu là bao nhiêu?",
+      "options": [
+        "A. 300 o C.",
+        "B. 300K.",
+        "C. 225 o C.",
+        "D. 225K."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là D Áp dụng công thức \\(\\frac{{{p_1}{V_1}}}{{{T_1}}} = \\frac{{{p_2}{V_2}}}{{{T_2}}}.\\) Thay số: \\({p_1} = 80{\\rm{kPa}};{p_2} = 160{\\rm{kPa}};{V_1} = 21{\\rm{d}}{{\\rm{m}}^3};{V_2} = 14{\\rm{d}}{{\\rm{m}}^3};{T_2} = 300\\;{\\rm{K}}\\), ta được \\({T_1} = 225\\;{\\rm{K}}.\\)"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Phương trình trạng thái của khí lý tưởng liên hệ giữa",
+      "options": [
+        "A. Áp suất, thể tích và nhiệt độ của khí.",
+        "B. Khối lượng, thể tích và nhiệt độ của khí.",
+        "C. Áp suất, nhiệt độ và số mol của khí.",
+        "D. Khối lượng, áp suất và số mol của khí."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là A."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Tính khối lượng riêng của không khí ở nhiệt độ 80°C và có áp suất 2,5.10 5 Pa. Biết khối lượng riêng của không khí ở 0°C là l,29 kg/m 3 , và áp suất l,01.10 5 Pa.",
+      "options": [
+        "A. 2,47 kg/dm 3 .",
+        "B. 2,47 kg/m 3 .",
+        "C. 24,7 kg/m 3 .",
+        "D. 2,47 g/m 3 ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là B Áp dụng công thức: \\(\\frac{{{p_1}{V_1}}}{{{T_1}}} = \\frac{{{p_2}{V_2}}}{{{T_2}}} \\Rightarrow {V_2} = \\frac{{{T_2}{p_1}{V_1}}}{{{T_1}{p_2}}}\\) mà \\(V = \\frac{m}{\\rho }\\) \\( \\Rightarrow \\frac{m}{{{\\rho _2}}} = \\frac{{{T_2}.{p_1}m}}{{{\\rho _1}{T_1}.{p_2}}} \\Rightarrow {\\rho _2} = \\frac{{{\\rho _1}{T_1}{p_2}}}{{{T_2}{p_1}}}\\) \\( \\Rightarrow \\rho = \\frac{{1,29.273.2,{{5.10}^5}}}{{353.1,{{01.10}^5}}} = 2,47kg\\)/m 3"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong xilanh của một động cơ đốt trong có 2 dm 3 hỗn hợp khí dưới áp suất 1,5 atm và nhiệt độ 47°C. Pit tông nén xuống làm cho thể tích của hỗn hợp khí chỉ còn 0,2 dm 3 và áp suất tăng lên 21 atm. Tính nhiệt độ của hỗn hợp khí nén.",
+      "options": [
+        "A. 273 K.",
+        "B. 448 o C.",
+        "C. 175 K.",
+        "D. 175 o C."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là D Áp dụng công thức: \\(\\frac{{{p_1}{V_1}}}{{{T_1}}} = \\frac{{{p_2}{V_2}}}{{{T_2}}} \\Rightarrow {T_2} = \\frac{{{p_2}{V_2}.{T_1}}}{{{p_1}{V_1}}} = \\frac{{21.0,2\\left( {273 + 47} \\right)}}{{1,5.2}} = 448K\\) + Mà \\({T_2} = 273 + {t_2} \\Rightarrow {t_2} = {175^0}C\\)"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "2026-vj-5-11-cau-trac-nghiem-toan-12-canh-dieu-bai-1-nguyen-ham-co-dap-an",
+  "sourceId": "vietjack:5-11-cau-trac-nghiem-toan-12-canh-dieu-b",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "5.11 câu trắc nghiệm Toán 12 Cánh diều Bài 1: Nguyên hàm có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hai hàm số \\(f\\left( x \\right)\\), \\(g\\left( x \\right)\\) là hàm số liên tục, có \\[F\\left( x \\right)\\], \\[G\\left( x \\right)\\] lần lượt là nguyên hàm của \\(f\\left( x \\right)\\), \\(g\\left( x \\right)\\). Xét các mệnh đề sau: \\(\\left( I \\right)\\). \\(F\\left( x \\right) + G\\left( x \\right)\\) là một nguyên hàm của \\(f\\left( x \\right) + g\\left( x \\right)\\). \\(\\left( {II} \\right)\\). \\(k.F\\left( x \\right)\\) là một nguyên hàm của \\(k.f\\left( x \\right)\\) với \\(k \\in {\\mathbb{R}^*}\\). \\(\\left( {III} \\right)\\). \\(F\\left( x \\right).G\\left( x \\right)\\) là một nguyên hàm của \\(f\\left( x \\right).g\\left( x \\right)\\). Các mệnh đề đúng là",
+      "options": [
+        "A. \\(\\left( I \\right)\\) và \\(\\left( {II} \\right)\\).",
+        "B. Cả \\(3\\) mệnh đề",
+        "C. \\(\\left( I \\right)\\) và \\(\\left( {III} \\right)\\).",
+        "D. \\(\\left( {II} \\right)\\) và \\(\\left( {III} \\right)\\)."
+      ],
+      "answer": "A",
+      "note": "Chọn đáp án A Theo tính chất nguyên hàm thì \\(\\left( I \\right)\\) và \\(\\left( {II} \\right)\\) là đúng, \\(\\left( {III} \\right)\\) sai."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho \\(\\int {f\\left( x \\right){\\rm{d}}x} = {F_1}\\left( x \\right)\\), \\(\\int {g\\left( x \\right){\\rm{d}}x} = {F_2}\\left( x \\right)\\). Tính \\[I = \\int {\\left[ {2g\\left( x \\right) - f\\left( x \\right)} \\right]{\\rm{d}}x} \\].",
+      "options": [
+        "A. \\(2{F_1}\\left( x \\right) - {F_2}\\left( x \\right) + C\\).",
+        "B. \\({F_2}\\left( x \\right) - {F_1}\\left( x \\right) + C\\).",
+        "C. \\(2{F_2}\\left( x \\right) - {F_1}\\left( x \\right) + C\\).",
+        "D. \\(\\left| {{F_1}\\left( x \\right) + {F_2}\\left( x \\right)} \\right| + C\\)."
+      ],
+      "answer": "C",
+      "note": "Chọn đáp án C Do \\[I = \\int {\\left[ {2g\\left( x \\right) - f\\left( x \\right)} \\right]{\\rm{d}}x} = 2\\int {g\\left( x \\right)} {\\rm{d}}x - \\int {f\\left( x \\right)} {\\rm{d}}x = 2{F_2}\\left( x \\right) - {F_1}\\left( x \\right) + C\\]."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hàm số \\[f\\left( x \\right) = \\left\\{ \\begin{array}{l}2x - 1{\\kern 1pt} {\\kern 1pt} {\\kern 1pt} {\\kern 1pt} {\\kern 1pt} & {\\rm{khi}}{\\kern 1pt} {\\kern 1pt} {\\kern 1pt} x \\ge 1\\\\3{x^2} - 2{\\kern 1pt} {\\kern 1pt} {\\kern 1pt} & {\\rm{khi}}{\\kern 1pt} {\\kern 1pt} x < 1\\end{array} \\right.\\], giả sử \\[F\\] là nguyên hàm của \\[f\\] trên \\[\\mathbb{R}\\] thỏa mãn \\[F\\left( 0 \\right) = 2\\].Giá trị của \\[F\\left( { - 1} \\right) + 2F\\left( 2 \\right)\\] bằng.",
+      "options": [
+        "A. \\(9\\).",
+        "B. \\(15\\).",
+        "C. \\(11\\).",
+        "D. \\(6\\)."
+      ],
+      "answer": "A",
+      "note": "Chọn đáp án A Ta có: \\[\\int {\\left( {2x - 1} \\right){\\rm{d}}x = {x^2} - x + {c_1}} \\]; \\[\\int {\\left( {3{x^2} - 2} \\right){\\rm{d}}x} = {x^3} - 2x + {c_2}\\] Suy ra \\[F\\left( x \\right) = \\int {f\\left( x \\right){\\rm{d}}x = } \\left\\{ \\begin{array}{l}{x^2} - x + {C_1}{\\kern 1pt} {\\kern 1pt} {\\kern 1pt} {\\kern 1pt} & {\\rm{khi}}{\\kern 1pt} {\\kern 1pt} {\\kern 1pt} x \\ge 1\\\\{x^3} - 2x + {C_2}{\\kern 1pt} {\\kern 1pt} {\\kern 1pt} {\\kern 1pt} & {\\rm{khi}}{\\kern 1pt} {\\kern 1pt} {\\kern 1pt} x < 1\\end{array} \\right.\\] Mà ta có \\[F\\left( 0 \\right) = 2 \\Rightarrow {C_2} = 2\\] Mặt khác hàm số \\[F\\] là nguyên hàm của \\[f\\] trên \\[\\mathbb{R}\\] nên \\[y = F\\left( x \\right)\\] liên tục tại \\[x = 1\\] Suy ra \\[\\mathop {\\lim }\\limits_{x \\to {1^ + }} F\\left( x \\right) = \\mathop {\\lim }\\limits_{x \\to {1^ - }} F\\left( x \\right) \\Rightarrow {C_1} = 1\\]. Khi đó ta có: \\[F\\left( x \\right) = \\left\\{ \\begin{array}{l}{x^2} - x + 1{\\kern 1pt} {\\kern 1pt} {\\kern 1pt} {\\kern 1pt} & {\\rm{khi}}{\\kern 1pt} {\\kern 1pt} {\\kern 1pt} x \\ge 1\\\\{x^3} - 2x + 2{\\kern 1pt} {\\kern 1pt} {\\kern 1pt} {\\kern 1pt} & {\\rm{khi}}{\\kern 1pt} {\\kern 1pt} {\\kern 1pt} x < 1\\end{array} \\right.\\] suy ra \\[\\left\\{ \\begin{array}{l}F\\left( { - 1} \\right) = 3\\\\F\\left( 2 \\right) = 3\\end{array} \\right..\\] Vậy \\[F\\left( { - 1} \\right) + 2F\\left( 2 \\right) = 9\\]."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hàm số \\(BC = a\\). Giả sử \\(F\\) là nguyên hàm của hàm số \\(n(A) = C_4^3\\) trên \\(P(A) = \\frac{{n(A)}}{{n(\\Omega )}} = \\frac{1}{{30}}\\) thỏa mãn \\(F(0) = 2\\). Giá trị của \\(F( - 1) + 2F(2)\\) bằng",
+      "options": [
+        "A. 23.",
+        "B. 11.",
+        "C. 10",
+        "D. 21."
+      ],
+      "answer": "D",
+      "note": "Chọn đáp án D Khi \\(x \\ge 1\\) thì \\(F(x) = \\int f (x)dx = \\int {(2x + 3)} dx = {x^2} + 3x + {C_1}\\) Khi \\(x < 1\\) thì \\(F(x) = \\int f (x)dx = \\int {\\left( {3{x^2} + 2} \\right)} dx = {x^3} + 2x + {C_2}\\) Theo giả thiết \\(F(0) = 2 \\Rightarrow {C_2} = 2\\) Ta có \\(\\mathop {\\lim }\\limits_{x \\to {1^ + }} f(x) = \\mathop {\\lim }\\limits_{x \\to {1^ - }} f(x) = f(1) = 5\\) nên hàm số \\(f(x)\\) liên tục tại \\(x = 1\\). Suy ra hàm số \\(f(x)\\) liên tục trên \\(\\mathbb{R}\\). Do đó hàm số \\(F(x)\\) liên tục trên \\(\\mathbb{R} \\Rightarrow \\mathop {\\lim }\\limits_{x \\to {1^ + }} F(x) = \\mathop {\\lim }\\limits_{x \\to {1^ - }} F(x) \\Rightarrow {C_1} + 4 = {C_2} + 3 \\Rightarrow {C_1} = 1\\) Vậy \\(F( - 1) + 2F(2) = - 3 + {C_2} + 2\\left( {10 + {C_1}} \\right) = 21\\)"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho hàm số \\[f\\left( x \\right) = \\left\\{ \\begin{array}{l}2x + 2\\,\\,\\,\\,\\,\\,\\,khi\\,\\,\\,x \\ge 1\\\\3{x^2} + 1\\,\\,\\,\\,\\,khi\\,\\,\\,x < 1\\end{array} \\right.\\]. Giả sử \\[F\\] là nguyên hàm của \\[f\\] trên \\[\\mathbb{R}\\] thỏa mãn \\[F\\left( 0 \\right) = 2\\]. Giá trị của \\[F\\left( { - 1} \\right) + 2F\\left( 2 \\right)\\] bằng",
+      "options": [
+        "A. \\(18\\).",
+        "B. \\(20\\).",
+        "C. \\(9\\).",
+        "D. \\(24\\)."
+      ],
+      "answer": "A",
+      "note": "Chọn đáp án A \\[F\\] là nguyên hàm của \\[f\\] trên \\[\\mathbb{R}\\] nên \\[F\\left( x \\right) = \\left\\{ \\begin{array}{l}{x^2} + 2x + {C_1}\\,\\,\\,\\,\\,\\,khi\\,\\,\\,x \\ge 1\\\\{x^3} + x + {C_2}\\,\\,\\,\\,\\,\\,\\,\\,khi\\,\\,\\,x < 1\\end{array} \\right.\\]. Ta có: \\[F\\left( 0 \\right) = 2 \\Rightarrow {C_2} = 2\\]. \\(\\left( 1 \\right)\\) Do \\[F\\] liên tục tại \\[x = 1\\] nên \\[\\mathop {\\lim }\\limits_{x \\to {1^ + }} F\\left( x \\right) = \\mathop {\\lim }\\limits_{x \\to {1^ - }} F\\left( x \\right) = F\\left( 1 \\right)\\] \\[ \\Leftrightarrow {C_1} + 3 = {C_2} + 2\\mathop \\Leftrightarrow \\limits^{\\left( 1 \\right)} {C_1} + 3 = 4 \\Leftrightarrow {C_1} = 1\\]. Do đó \\[F\\left( x \\right) = \\left\\{ \\begin{array}{l}{x^2} + 2x + 1\\,\\,\\,\\,\\,\\,khi\\,\\,\\,x \\ge 1\\\\{x^3} + x + 2\\,\\,\\,\\,\\,\\,\\,\\,khi\\,\\,\\,x < 1\\end{array} \\right.\\]. Suy ra \\[F\\left( { - 1} \\right) + 2F\\left( 2 \\right) = 18\\]."
+    }
+  ]
+}

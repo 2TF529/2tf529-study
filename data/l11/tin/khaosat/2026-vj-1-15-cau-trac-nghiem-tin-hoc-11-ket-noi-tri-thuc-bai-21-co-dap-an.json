@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-11-ket-noi-tri-thuc-bai-21-co-dap-an",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-11-ket-noi-",
+  "grade": "l11",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 11 Kết nối tri thức Bài 21 có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Chọn thao tác nào để thêm dữ liệu mới vào bảng trong HeidiSQL?",
+      "options": [
+        "A. Nhấn phím Delete",
+        "B. Nhấn phím Insert",
+        "C. Nhấn phím Ctrl + S",
+        "D. Nhấn phím Alt + Enter"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Trong HeidiSQL, bạn có thể nhấn phím \"Insert\" để thêm một hàng dữ liệu mới vào bảng. Phím \"Delete\" để xóa dòng, và các phím khác không liên quan đến việc thêm dữ liệu."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Khi chỉnh sửa dữ liệu trong bảng, để sửa nội dung của một ô dữ liệu, ta thực hiện thao tác nào?",
+      "options": [
+        "A. Nhấn đôi chuột vào ô cần sửa",
+        "B. Chọn ô rồi nhấn phím Delete",
+        "C. Chọn ô rồi nhấn phím Ctrl + Enter",
+        "D. Chọn ô rồi nhấn phím F"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Để chỉnh sửa dữ liệu trong một ô, bạn cần nhấp đúp vào ô đó để có thể nhập lại giá trị."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trong HeidiSQL, tổ hợp phím nào được sử dụng để xóa các dòng dữ liệu đã chọn?",
+      "options": [
+        "A. Ctrl + Delete",
+        "B. Shift + Delete",
+        "C. Alt + Delete",
+        "D. Ctrl + Shift"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Tổ hợp phím \"Ctrl + Delete\" được sử dụng để xóa các dòng dữ liệu đã chọn trong HeidiSQL"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Để sắp xếp dữ liệu trong bảng theo thứ tự giảm dần của một trường (column), ta thực hiện thao tác nào?",
+      "options": [
+        "A. Nhấp chuột phải vào tiêu đề cột và chọn \"Sort Descending\"",
+        "B. Nhấn đôi chuột vào tiêu đề cột",
+        "C. Nhấn chuột vào tiêu đề cột, sau đó chọn biểu tượng tam giác",
+        "D. Nhấp chuột vào tiêu đề cột"
+      ],
+      "answer": "D",
+      "note": "Đáp án: D Giải thích: Nhấp chuột vào tiêu đề của cột sẽ tự động sắp xếp dữ liệu trong bảng theo thứ tự tăng dần hoặc giảm dần, tùy theo lần nhấp."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu lệnh SQL nào dùng để lấy tất cả các trường trong bảng \"nhacsi\"?",
+      "options": [
+        "A. SELECT * FROM nhacsi",
+        "B. SELECT idNhacsi, tenNhacsi FROM nhacsi",
+        "C. SELECT nhacsi.* FROM nhacsi",
+        "D. SELECT * FROM nhacsi WHERE idNhacsi > 0"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Câu lệnh SELECT * FROM nhacsi sẽ lấy tất cả các trường trong bảng \"nhacsi\". Ký tự \"*\" đại diện cho tất cả các trường"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Để tìm kiếm các bản ghi có tên nhạc sĩ bắt đầu bằng chữ \"P\", câu lệnh SQL nào là đúng?",
+      "options": [
+        "A. SELECT * FROM nhacsi WHERE tenNhacsi = 'P%'",
+        "B. SELECT * FROM nhacsi WHERE tenNhacsi LIKE 'P%'",
+        "C. SELECT * FROM nhacsi WHERE tenNhacsi LIKE '%P%'",
+        "D. SELECT * FROM nhacsi WHERE tenNhacsi LIKE '%P'"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Sử dụng từ khóa LIKE và ký tự phần trăm (%) để tìm kiếm các bản ghi có tên bắt đầu bằng chữ \"P\""
+    }
+  ]
+}

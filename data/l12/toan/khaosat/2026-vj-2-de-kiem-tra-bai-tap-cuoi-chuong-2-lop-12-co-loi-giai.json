@@ -1,0 +1,104 @@
+{
+  "id": "2026-vj-2-de-kiem-tra-bai-tap-cuoi-chuong-2-lop-12-co-loi-giai",
+  "sourceId": "vietjack:2-de-kiem-tra-bai-tap-cuoi-chuong-2-lop-",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.Đề kiểm tra Bài tập cuối chương 2 lớp 12 (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho tứ diện \\[ABCD\\] . Gọi \\[G\\] là trọng tâm tam giác \\[BCD\\] và điểm \\[M\\] thuộc cạnh \\[AB\\] sao cho \\[AM = 2BM\\] . Đẳng thức nào sau đây là đúng?",
+      "options": [
+        "A. \\(\\overrightarrow {MG} = \\overrightarrow {AB} + \\overrightarrow {AC} + \\overrightarrow {AD} \\) .",
+        "B. \\(\\overrightarrow {MG} = \\frac{1}{3}\\overrightarrow {AB} - \\frac{1}{3}\\overrightarrow {AC} - \\frac{1}{3}\\overrightarrow {AD} \\) .",
+        "C. \\(\\overrightarrow {MG} = - \\frac{1}{3}\\overrightarrow {AB} + \\frac{1}{3}\\overrightarrow {AC} + \\frac{1}{3}\\overrightarrow {AD} \\) .",
+        "D. \\(\\overrightarrow {MG} = \\frac{4}{3}\\overrightarrow {AB} - \\frac{1}{3}\\overrightarrow {AC} - \\frac{1}{3}\\overrightarrow {AD} \\) ."
+      ],
+      "answer": "C",
+      "note": "Ta có \\[M\\] thuộc cạnh \\[AB\\] và \\[AM = 2BM\\] nên \\[\\overrightarrow {AM} = \\frac{2}{3}\\overrightarrow {AB} \\]. Do \\[G\\] là trọng tâm tam giác \\[BCD\\] nên \\[3\\overrightarrow {AG} = \\overrightarrow {AB} + \\overrightarrow {AC} + \\overrightarrow {AD} \\] hay \\[\\overrightarrow {AG} = \\frac{1}{3}\\left( {\\overrightarrow {AB} + \\overrightarrow {AC} + \\overrightarrow {AD} } \\right)\\]. Mà \\[\\overrightarrow {MG} = \\overrightarrow {AG} - \\overrightarrow {AM} \\] nên \\[\\overrightarrow {MG} = \\frac{1}{3}\\left( {\\overrightarrow {AB} + \\overrightarrow {AC} + \\overrightarrow {AD} } \\right) - \\frac{2}{3}\\overrightarrow {AB} = - \\frac{1}{3}\\overrightarrow {AB} + \\frac{1}{3}\\overrightarrow {AC} + \\frac{1}{3}\\overrightarrow {AD} \\]."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hình lập phương \\[ABCD.EFGH\\] . Hãy xác định góc giữa cặp vectơ \\(\\overrightarrow {AB} \\) và \\(\\overrightarrow {EG} \\) ?",
+      "options": [
+        "A. \\({60^0}\\) .",
+        "B. \\[{45^0}\\] .",
+        "C. \\[{90^0}\\] .",
+        "D. \\[{120^0}\\] ."
+      ],
+      "answer": "B",
+      "note": "Ta có: \\(EG{\\rm{//}}AC\\) (do \\(ACGE\\) là hình chữ nhật) \\[ \\Rightarrow \\left( {\\overrightarrow {AB} ,\\overrightarrow {EG} } \\right) = \\left( {\\overrightarrow {AB} ,\\overrightarrow {AC} } \\right) = \\widehat {BAC} = 45^\\circ \\]"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trong không gian với hệ tọa độ \\[Oxyz\\] , cho điểm \\(A\\left( {2;3; - 2} \\right)\\) . Gọi \\({A_1}\\) là hình chiếu vuông góc của điểm \\(A\\) lên mặt phẳng \\(\\left( {Oyz} \\right)\\) . Khi đó tọa độ của điểm \\({A_1}\\) là",
+      "options": [
+        "A. \\(\\left( {2;3;0} \\right)\\) .",
+        "B. \\(\\left( {2;0;0} \\right)\\) .",
+        "C. \\(\\left( { - 2;3; - 2} \\right)\\) .",
+        "D. D . \\(\\left( {0;3; - 2} \\right)\\) ."
+      ],
+      "answer": "D",
+      "note": "Tọa độ hình chiếu vuông góc của điểm \\(A\\) lên mặt phẳng \\(\\left( {Oyz} \\right)\\) là \\({A_1}\\left( {0;3; - 2} \\right)\\)"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Trong không gian với hệ tọa độ Oxyz, cho vectơ \\[\\overrightarrow a = \\left( {2;\\frac{1}{3}; - 5} \\right)\\] và điểm \\(M\\left( {2;3;4} \\right)\\). Tọa độ điểm \\(N\\) thỏa mãn \\(\\overrightarrow {MN} = \\vec a\\) là:",
+      "options": [
+        "A. \\(\\left( {2;\\frac{5}{3}; - \\frac{1}{2}} \\right)\\) .",
+        "B. \\(\\left( {0;\\frac{8}{3};9} \\right)\\) .",
+        "C. \\(\\left( {4;\\frac{{10}}{3}; - 1} \\right)\\) .",
+        "D. \\[\\left( {0; - \\frac{8}{3}; - 9} \\right)\\] ."
+      ],
+      "answer": "C",
+      "note": "Gọi tọa độ điểm \\(N\\) là \\(\\left( {{x_N};{y_N};{z_N}} \\right)\\), ta có: \\(\\overrightarrow {MN} = \\left( {{x_N} - 2;{y_N} - 3;{z_N} - 4} \\right)\\). Ta có: \\(\\overrightarrow {MN} = \\vec a \\Leftrightarrow \\left\\{ \\begin{array}{l}{x_N} - 2 = 2\\\\{y_N} - 3 = \\frac{1}{3}\\\\{z_N} - 4 = - 5\\end{array} \\right. \\Leftrightarrow \\left\\{ \\begin{array}{l}{x_N} = 2 + 2\\\\{y_N} = \\frac{1}{3} + 3\\\\{z_N} = - 5 + 4\\end{array} \\right. \\Leftrightarrow \\left\\{ \\begin{array}{l}{x_N} = 4\\\\{y_N} = \\frac{{10}}{3}\\\\{z_N} = - 1\\end{array} \\right.\\). Vậy \\(N\\left( {4;\\frac{{10}}{3}; - 1} \\right)\\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong không gian với hệ toạ độ Oxyz , cho điểm \\(M\\left( {4;1; - 2} \\right)\\) và vectơ \\(\\overrightarrow u = \\left( {4; - 2;6} \\right).\\) Tìm toạ độ điểm \\(N\\) biết rằng \\(\\overrightarrow {MN} = - \\frac{1}{2}\\overrightarrow u \\) .",
+      "options": [
+        "A. \\(\\left( {3;3;3} \\right)\\) .",
+        "B. \\(\\left( {3; - 3;3} \\right)\\) .",
+        "C. \\(\\left( { - 3;3;3} \\right)\\) .",
+        "D. \\(\\left( { - 3; - 3;3} \\right)\\) ."
+      ],
+      "answer": "C",
+      "note": "Ta có: \\( - \\frac{1}{2}\\overrightarrow u = \\left( { - 2;1; - 3} \\right)\\). Gọi \\(N\\left( {x;\\,y;\\,z} \\right)\\). Ta có \\(\\overrightarrow {MN} = \\left( {x - 4;y - 1;z + 2} \\right)\\). Khi đó \\(\\overrightarrow {MN} = - \\frac{1}{2}\\overrightarrow u \\Leftrightarrow \\left\\{ \\begin{array}{l}x - 4 = - 2\\\\y - 1 = 1\\\\z + 2 = - 3\\end{array} \\right. \\Leftrightarrow \\left\\{ \\begin{array}{l}x = 2\\\\y = 2\\\\z = - 5\\end{array} \\right.\\). Vậy \\(N\\left( {2;\\,2;\\, - 5} \\right)\\)."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Trong không gian với hệ tọa độ Oxyz , cho hai điểm \\(A\\left( {2; - 1;4} \\right),B\\left( {5;3; - 8} \\right)\\) . Độ dài của vectơ \\(\\overrightarrow {AB} \\) là",
+      "options": [
+        "A. \\(5\\) .",
+        "B. \\(8\\) .",
+        "C. \\(9\\) .",
+        "D. \\(13\\) ."
+      ],
+      "answer": "D",
+      "note": "Có \\(\\overrightarrow {AB} = \\left( {3;4; - 12} \\right)\\). Độ dài của vectơ \\(\\overrightarrow {AB} \\) là: \\(\\left| {\\overrightarrow {AB} } \\right| = \\sqrt {{3^2} + {4^2} + {{\\left( { - 12} \\right)}^2}} = 13\\)."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Trong không gian với hệ tọa độ Oxyz , c ho hai vectơ \\(\\overrightarrow a = \\left( {1;\\, - 2;\\, - 3} \\right)\\) , \\(\\overrightarrow b = \\left( { - 2;\\,m - 1;\\,2} \\right)\\) . Tìm tham số \\(m\\) để vectơ \\(\\overrightarrow a \\) vuông góc với vectơ \\(\\overrightarrow b \\)",
+      "options": [
+        "A. \\(m = - 3\\) .",
+        "B. \\(m = 1\\) .",
+        "C. \\(m = 5\\) .",
+        "D. \\(m = 0\\) ."
+      ],
+      "answer": "A",
+      "note": "Ta có: \\[\\overrightarrow a \\bot \\overrightarrow b \\Leftrightarrow \\overrightarrow a .\\overrightarrow b = 0 \\Leftrightarrow 1 \\cdot \\left( { - 2} \\right) + \\left( { - 2} \\right) \\cdot \\left( {m - 1} \\right) + \\left( { - 3} \\right) \\cdot 2 = 0\\]\\[ \\Leftrightarrow - 2 - 2m + 2 - 6 = 0\\]\\[ \\Leftrightarrow m = - 3\\]."
+    }
+  ]
+}

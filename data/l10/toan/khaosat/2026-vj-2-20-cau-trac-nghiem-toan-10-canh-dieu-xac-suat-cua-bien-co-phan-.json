@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-20-cau-trac-nghiem-toan-10-canh-dieu-xac-suat-cua-bien-co-phan-",
+  "sourceId": "vietjack:2-20-cau-trac-nghiem-toan-10-canh-dieu-x",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.20 câu Trắc nghiệm Toán 10 Cánh diều Xác suất của biến cố (Phần 2) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho biến cố A có biến cố đối \\(\\overline A \\) . Khẳng định nào sau đây là đúng ?",
+      "options": [
+        "A. 0 ≤ P(A) hoặc P(A) ≥ 1 ;",
+        "B. P( \\(\\overline A \\) ) = 1 – P(A) ;",
+        "C. 0 ≤ P( \\(\\overline A \\) ) hoặc P( \\(\\overline A \\) ) ≥ 1 ;",
+        "D. P(A) = P( \\(\\overline A \\) )."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải Đáp án đúng là: B Cho biến cố A có biến cố đối \\(\\overline A \\) . Ta có: P( \\(\\overline A \\) ) = 1 – P(A). Và 0 ≤ P(A), P( \\(\\overline A \\) ) ≤ 1."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Một hộp có 3 chiếc thẻ cùng loại, mỗi thẻ được ghi một trong các số 1, 2, 3. Rút ngẫu nhiên một chiếc thẻ từ trong hộp. Không gian mẫu của phép thử đó là:",
+      "options": [
+        "A. {1; 2; 3};",
+        "B. {1; 2};",
+        "C. {1};",
+        "D. {1; 3}."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A Không gian mẫu của phép thử trên là: Ω = {1; 2; 3}."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Một hộp có 1 viên bi xanh, 1 viên bi đỏ, 1 viên bi vàng. Chọn ngẫu nhiên 2 viên bi trong hộp (sau khi chọn mỗi viên lại thả lại vào hộp). Không gian mẫu là:",
+      "options": [
+        "A. {XĐ; XV; ĐX; ĐV; VX; VĐ};",
+        "B. {XX; XĐ; XV; ĐX; ĐV; VX; VĐ};",
+        "C. {XĐ; XV; ĐX; ĐV; VX; VĐ; XX; VV; ĐĐ};",
+        "D. {XĐ; XV}."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là: C Gọi X, Đ, V lần lượt là kí hiệu cho các viên bi màu xanh, màu đỏ, màu vàng. Ta có không gian mẫu của phép thử trên là: Ω = {XĐ; XV; ĐX; ĐV; VX; VĐ; XX; VV; ĐĐ}."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Gieo 1 con xúc xắc 1 lần. Biến cố A: “Số chấm xuất hiện nhỏ hơn 4”. Vậy A = ?",
+      "options": [
+        "A. {1; 2; 3};",
+        "B. {1; 2; 3; 4; 5};",
+        "C. {5; 6};",
+        "D. {1; 2; 3}."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải: Đáp án đúng là: D Gọi a là số chấm xuất hiện trên con xúc xắc, các kết quả thuận lợi với biến cố A sẽ có: 1 ≤ a < 4. Vậy A = {1; 2; 3}."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Một hộp có 1 viên bi xanh, 1 viên bi đỏ, 1 viên bi tím. Chọn ngẫu nhiên 2 viên bi trong hộp (sau khi chọn mỗi viên lại thả lại vào hộp). Biến cố A: “2 viên bi chọn được có cùng màu”. Vậy A = ?",
+      "options": [
+        "A. {ĐĐ; TT};",
+        "B. {XT; TX};",
+        "C. {XĐ; ĐX; TX};",
+        "D. {XX; ĐĐ; TT}."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải: Đáp án đúng là: D. Gọi X, Đ, T lần lượt là kí hiệu cho các viên bi màu xanh, màu đỏ, màu tím. Các kết quả thuận lợi cho biến cố A là: XX; ĐĐ, TT. Do đó, A = {XX; ĐĐ; TT}."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Một hộp có 1 viên bi xanh, 1 viên bi đỏ, 1 viên bi vàng. Chọn ngẫu nhiên 2 viên bi trong hộp (sau khi chọn mỗi viên lại thả lại vào hộp). Biến cố A: “2 viên bi chọn được có cùng màu”. Vậy biến cố đối \\(\\overline A \\) = ?",
+      "options": [
+        "A. {XĐ; XV; ĐX; ĐV; VX; VĐ; XX; VV; ĐĐ};",
+        "B. {XĐ; XX};",
+        "C. {XX; ĐĐ; VV};",
+        "D. {XĐ; XV; ĐX; ĐV; VX; VĐ}."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải: Đáp án đúng là: D Gọi X, Đ, V lần lượt là kí hiệu cho các viên bi màu xanh, màu đỏ, màu vàng. Các kết quả thuận lợi cho biến cố A là: XX; ĐĐ; VV. Biến cố A: “2 viên bi chọn được có cùng màu” nên biến cố \\(\\overline A \\) : “2 viên bi chọn được không cùng màu”. Do đó, \\(\\overline A \\) = {XĐ; XV; ĐX; ĐV; VX; VĐ}."
+    }
+  ]
+}

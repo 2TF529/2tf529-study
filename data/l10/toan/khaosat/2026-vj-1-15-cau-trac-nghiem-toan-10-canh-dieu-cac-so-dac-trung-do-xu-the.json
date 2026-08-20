@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-toan-10-canh-dieu-cac-so-dac-trung-do-xu-the",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-toan-10-canh-dieu-c",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Toán 10 Cánh Diều Các số đặc trưng đo xu thế trung tâm cho mẫu số liệu không ghép nhóm có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Điểm thi học kì của một học sinh như sau: 4 6 7 2 10 9 3 5 8 7 3 8 Tính số trung bình cộng của mẫu số liệu trên.",
+      "options": [
+        "A. 6;",
+        "B. 7;",
+        "C. 8;",
+        "D. 9."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A Số trung bình cộng của mẫu số liệu trên là: \\[\\overline x \\] = \\(\\frac{{4 + 6 + 7 + 2 + 10 + 9 + 3 + 5 + 8 + 7 + 3 + 8}}{{12}} = \\frac{{72}}{{12}}\\) = 6."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Người ta thống kê cân nặng của 10 học sinh theo thứ tự tăng dần. Số trung vị của mẫu số liệu trên là:",
+      "options": [
+        "A. Khối lượng của học sinh thứ 5;",
+        "B. Khối lượng của học sinh thứ 6;",
+        "C. Không tìm được trung vị;",
+        "D. Số trung bình cộng khối lượng của học sinh thứ 5 và thứ 6."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải Đáp án đúng là: D Mẫu số liệu trên có 10 số (là số chẵn) nên trung vị là số trung bình cộng của hai số liệu đứng ở vị trí thứ \\(\\frac{{10}}{2}\\) = 5 và \\(\\frac{{10}}{2}\\) +1 = 6. Nghĩa là trung vị của dãy số liệu trên là số trung bình cộng khối lượng của học sinh thứ 5 và thứ 6."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trung tâm kiểm soát bệnh tật thành phố Đà Nẵng công bố số lượng ca nhiễm dương tính tính từ 12 giờ ngày 17/08 đến 12h ngày 18/08/2021 tại các quận Sơn Trà, Thanh Khê, Liên Chiểu, Cẩm Lệ, Hải Châu, Ngũ Hành Sơn và huyện Hoà Vang lần lượt như sau: 17; 24; 7; 23; 39; 19; 5. Tìm trung vị của mẫu số liệu trên.",
+      "options": [
+        "A. 5;",
+        "B. 17;",
+        "C. 19;",
+        "D. 24."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là: C Sắp xếp các số liệu của mẫu trên theo thứ tự không giảm : 5; 7; 17; 19; 23; 24; 39 Mẫu số liệu trên có 7 số nên trung vị là số liệu đứng ở vị trí \\(\\frac{{7 + 1}}{2}\\) = 4 Vậy M e = 19."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Tìm tứ phân vị của mẫu số liệu sau: 200 240 220 210 225 235 225 270 250 280.",
+      "options": [
+        "A. Q 1 = 210; Q 2 = 230; Q 3 = 250 ;",
+        "B. Q 1 = 220; Q 2 = 230; Q 3 = 250 ;",
+        "C. Q 1 = 220; Q 2 = 230; Q 3 = 280 ;",
+        "D. Q 1 = 200; Q 2 = 250; Q 3 = 280 ."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải Đáp án đúng là: B Mẫu số liệu trên được sắp xếp theo thứ tự tăng dần như sau: 200 210 220 225 225 235 240 250 270 280 Trung vị của mẫu số liệu trên là: \\(\\frac{{225 + 235}}{2}\\) = 230 ⇒ Q 2 = 230 Nửa dãy phía dưới số 230 ( nghĩa là những số nhỏ hơn 230) gồm: 200 210 220 225 225 có trung vị là 220 ⇒ Q 1 = 220. Nửa dãy phía trên số 230 ( nghĩa là những số lớn hơn 230) gồm: 235 240 250 270 280 có trung vị là 250 ⇒ Q 3 = 250. Vậy tứ phân vị của mẫu số liệu: Q 1 = 220; Q 2 = 230; Q 3 = 250."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Số liệu xuất hiện nhiều nhất trong mẫu số liệu được gọi là:",
+      "options": [
+        "A. Số trung bình cộng;",
+        "B. Trung vị;",
+        "C. Tứ phân vị;",
+        "D. Mốt."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải Đáp án đúng là: D Số liệu xuất hiện nhiều nhất trong dãy số liệu được gọi là mốt kí hiệu là M 0 ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Điều tra về số con của 40 hộ gia đình trong một tổ dân phố, với mẫu số liệu như sau: 2 4 3 2 0 2 2 3 5 1 1 1 4 2 5 2 2 3 4 1 3 2 2 0 1 0 3 2 5 6 2 0 1 1 3 0 1 2 3 5 Hãy tìm mốt của mẫu số liệu trên.",
+      "options": [
+        "A. 1;",
+        "B. 2;",
+        "C. 3;",
+        "D. 0."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải Đáp án đúng là: B Số con của 40 hộ gia đình được thống kê trong bảng tần số sau: Số con 0 1 2 3 4 5 6 Tần số 5 8 12 7 3 4 1 Số lượng gia đình có 2 con là 12 gia đình ( số lượng nhiều nhất trong bảng) nên M 0 = 2"
+    }
+  ]
+}

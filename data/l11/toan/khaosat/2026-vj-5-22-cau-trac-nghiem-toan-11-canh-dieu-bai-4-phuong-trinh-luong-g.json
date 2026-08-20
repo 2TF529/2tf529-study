@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-5-22-cau-trac-nghiem-toan-11-canh-dieu-bai-4-phuong-trinh-luong-g",
+  "sourceId": "vietjack:5-22-cau-trac-nghiem-toan-11-canh-dieu-b",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "5.22 câu Trắc nghiệm Toán 11 Cánh diều Bài 4. Phương trình lượng giác cơ bản (Đúng-sai, trả lời ngắn) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: TRẮC NGHIỆM NHIỀU LỰA CHỌN Nghiệm của phương trình \\(\\sin 2x = 1\\) là",
+      "options": [
+        "A. \\(x = \\frac{\\pi }{2} + k2\\pi \\,\\,\\left( {k \\in \\mathbb{Z}} \\right)\\).",
+        "B. \\(x = \\frac{\\pi }{4} + k\\pi \\,\\,\\left( {k \\in \\mathbb{Z}} \\right)\\).",
+        "C. \\(x = \\frac{\\pi }{4} + k2\\pi \\,\\,\\left( {k \\in \\mathbb{Z}} \\right)\\).",
+        "D. \\(x = \\frac{{k\\pi }}{2}\\,\\,\\left( {k \\in \\mathbb{Z}} \\right)\\)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có: \\(\\sin 2x = 1\\)\\( \\Leftrightarrow 2x = \\frac{\\pi }{2} + k2\\pi \\)\\( \\Leftrightarrow x = \\frac{\\pi }{4} + k\\pi \\,\\,\\left( {k \\in \\mathbb{Z}} \\right)\\)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Tìm tất cả các giá trị thực của tham số \\[m\\] để phương trình \\[\\sin x = m\\] có nghiệm.",
+      "options": [
+        "A. \\(m \\le 1\\).",
+        "B. \\(m \\ge - 1\\).",
+        "C. \\( - 1 \\le m \\le 1\\).",
+        "D. \\(m \\le - 1\\)."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Với mọi \\[x \\in \\mathbb{R}\\], ta luôn có \\[ - 1 \\le \\sin x \\le 1\\]. Do đó, phương trình \\[\\sin x = m\\] có nghiệm khi và chỉ khi \\( - 1 \\le m \\le 1\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Nghiệm của phương trình \\[\\cot x + \\sqrt 3 \\; = {\\rm{ }}0\\] là:",
+      "options": [
+        "A. \\(x = \\frac{\\pi }{3} + k2\\pi \\,\\,\\left( {k \\in \\mathbb{Z}} \\right)\\).",
+        "B. \\(x = \\frac{\\pi }{6} + k\\pi \\,\\,\\left( {k \\in \\mathbb{Z}} \\right)\\).",
+        "C. \\(x = - \\frac{\\pi }{6} + k\\pi \\,\\,\\left( {k \\in \\mathbb{Z}} \\right)\\).",
+        "D. \\(x = - \\frac{\\pi }{3} + k\\pi \\,\\,\\left( {k \\in \\mathbb{Z}} \\right)\\)."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C \\[\\cot x + \\sqrt 3 \\; = {\\rm{ }}0\\]\\( \\Leftrightarrow \\cot x = - \\sqrt 3 \\Leftrightarrow x = - \\frac{\\pi }{6} + k\\pi \\left( {k \\in \\mathbb{Z}} \\right)\\)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Tập nghiệm của phương trình \\[\\sin 2x = \\sin x\\] là",
+      "options": [
+        "A. \\[S = \\left\\{ {k2{\\rm{\\pi }};\\frac{{\\rm{\\pi }}}{3} + k2{\\rm{\\pi }}\\left| {k \\in \\mathbb{Z}} \\right.} \\right\\}\\].",
+        "B. \\[S = \\left\\{ {k2{\\rm{\\pi }};\\frac{{\\rm{\\pi }}}{3} + \\frac{{k2{\\rm{\\pi }}}}{3}\\left| {k \\in \\mathbb{Z}} \\right.} \\right\\}\\].",
+        "C. \\[S = \\left\\{ {k2{\\rm{\\pi }}; - \\frac{{\\rm{\\pi }}}{3} + k2{\\rm{\\pi }}\\left| {k \\in \\mathbb{Z}} \\right.} \\right\\}\\].",
+        "D. \\[S = \\left\\{ {k2{\\rm{\\pi }};{\\rm{\\pi }} + k2{\\rm{\\pi }}\\left| {k \\in \\mathbb{Z}} \\right.} \\right\\}\\]."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có \\[\\sin 2x = \\sin x\\]\\[ \\Leftrightarrow \\left[ \\begin{array}{l}2x = x + k2{\\rm{\\pi }}\\\\2x = {\\rm{\\pi }} - x + k2{\\rm{\\pi }}\\end{array} \\right.\\]\\[ \\Leftrightarrow \\left[ \\begin{array}{l}x = k2{\\rm{\\pi }}\\\\x = \\frac{{\\rm{\\pi }}}{3} + \\frac{{k2{\\rm{\\pi }}}}{3}\\end{array} \\right.\\] \\[\\left( {k \\in \\mathbb{Z}} \\right)\\]."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Phương trình \\(\\sin 2x = \\cos x\\) có nghiệm là",
+      "options": [
+        "A. \\(\\left[ \\begin{array}{l}x = \\frac{\\pi }{6} + \\frac{{k\\pi }}{3}\\\\x = \\frac{\\pi }{2} + k2\\pi \\end{array} \\right.\\left( {k \\in \\mathbb{Z}} \\right)\\).",
+        "B. \\(\\left[ \\begin{array}{l}x = \\frac{\\pi }{6} + \\frac{{k\\pi }}{3}\\\\x = \\frac{\\pi }{3} + k2\\pi \\end{array} \\right.\\left( {k \\in \\mathbb{Z}} \\right)\\).",
+        "C. \\(\\left[ \\begin{array}{l}x = \\frac{\\pi }{6} + k2\\pi \\\\x = \\frac{\\pi }{2} + k2\\pi \\end{array} \\right.\\left( {k \\in \\mathbb{Z}} \\right)\\).",
+        "D. \\(\\left[ \\begin{array}{l}x = \\frac{\\pi }{6} + \\frac{{k2\\pi }}{3}\\\\x = \\frac{\\pi }{2} + k2\\pi \\end{array} \\right.\\left( {k \\in \\mathbb{Z}} \\right)\\)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A \\(\\sin 2x = \\cos x \\Leftrightarrow \\sin 2x = \\sin \\left( {\\frac{\\pi }{2} - x} \\right) \\Leftrightarrow \\left[ \\begin{array}{l}x = \\frac{\\pi }{6} + \\frac{{k\\pi }}{3}\\\\x = \\frac{\\pi }{2} + k2\\pi \\end{array} \\right.\\left( {k \\in \\mathbb{Z}} \\right)\\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Giải phương trình \\(\\sqrt {\\rm{3}} \\tan 2x - 3 = 0\\).",
+      "options": [
+        "A. \\(x = \\frac{\\pi }{3} + k\\frac{\\pi }{2}\\,\\,\\left( {k \\in \\mathbb{Z}} \\right)\\).",
+        "B. \\(x = \\frac{\\pi }{3} + k\\pi \\,\\,\\left( {k \\in \\mathbb{Z}} \\right)\\).",
+        "C. \\(x = \\frac{\\pi }{6} + k\\frac{\\pi }{2}\\,\\,\\left( {k \\in \\mathbb{Z}} \\right)\\).",
+        "D. \\(x = \\frac{\\pi }{6} + k\\pi \\,\\,\\left( {k \\in \\mathbb{Z}} \\right)\\)."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C \\(\\sqrt {\\rm{3}} \\tan 2x - 3 = 0 \\Leftrightarrow \\tan 2x = \\sqrt 3 \\)\\( \\Leftrightarrow 2x = \\frac{\\pi }{3} + k\\pi \\)\\( \\Leftrightarrow x = \\frac{\\pi }{6} + k\\frac{\\pi }{2}\\left( {k \\in \\mathbb{Z}} \\right)\\)."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Phương trình lượng giác \\(3\\cot \\,x - \\sqrt 3 = 0\\) có nghiệm là:",
+      "options": [
+        "A. \\[x = \\frac{\\pi }{6} + k\\pi \\,\\,\\left( {k \\in \\mathbb{Z}} \\right)\\].",
+        "B. \\[x = \\frac{\\pi }{3} + k\\pi \\,\\,\\left( {k \\in \\mathbb{Z}} \\right)\\].",
+        "C. \\[x = \\frac{\\pi }{3} + k2\\pi \\,\\,\\left( {k \\in \\mathbb{Z}} \\right)\\].",
+        "D. Vô nghiệm."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có \\(3\\cot x - \\sqrt 3 = 0 \\Leftrightarrow \\cot x = \\frac{{\\sqrt 3 }}{3} \\Leftrightarrow \\cot x = \\cot \\left( {\\frac{\\pi }{3}} \\right) \\Leftrightarrow x = \\frac{\\pi }{3} + k\\pi ,\\)\\(\\left( {k \\in \\mathbb{Z}} \\right).\\)"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Phương trình lượng giác \\(\\cos 3x = \\cos 12^\\circ \\) có nghiệm là",
+      "options": [
+        "A. \\[x = \\pm \\frac{\\pi }{{15}} + k2\\pi \\,\\,\\left( {k \\in \\mathbb{Z}} \\right)\\].",
+        "B. \\[x = \\pm \\frac{\\pi }{{45}} + \\frac{{k2\\pi }}{3}\\,\\,\\left( {k \\in \\mathbb{Z}} \\right)\\].",
+        "C. \\[x = \\frac{{ - \\pi }}{{45}} + \\frac{{k2\\pi }}{3}\\,\\,\\left( {k \\in \\mathbb{Z}} \\right)\\].",
+        "D. \\[x = \\frac{\\pi }{{45}} + \\frac{{k2\\pi }}{3}\\,\\,\\left( {k \\in \\mathbb{Z}} \\right)\\]."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B \\(\\cos 3x = \\cos 12^\\circ \\)\\( \\Leftrightarrow \\cos 3x = \\cos \\frac{\\pi }{{15}}\\) \\( \\Leftrightarrow 3x = \\pm \\frac{\\pi }{{15}} + k2\\pi \\,\\,\\left( {k \\in \\mathbb{Z}} \\right)\\) \\( \\Leftrightarrow x = \\pm \\frac{\\pi }{{45}} + \\frac{{k2\\pi }}{3}\\,\\,\\left( {k \\in \\mathbb{Z}} \\right)\\)."
+    }
+  ]
+}

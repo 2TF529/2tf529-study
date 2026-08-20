@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-1-bo-5-de-thi-giua-ki-toan-10-ket-noi-tri-thuc-cau-truc-moi-co-tu",
+  "sourceId": "vietjack:1-bo-5-de-thi-giua-ki-toan-10-ket-noi-tr",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.Bộ 5 đề thi giữa kì Toán 10 Kết nối tri thức cấu trúc mới (có tự luận) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho mệnh đề A : “ ∃ n ∈ ℕ : 3 n + 1 là số lẻ”, mệnh đề phủ định của mệnh đề A là:",
+      "options": [
+        "A. A ¯ : “ ∀ n ∈ ℕ : 3 n + 1 là số lẻ”.",
+        "B. A ¯ : “ ∀ n ∈ ℕ : 3 n + 1 là số chẵn”.",
+        "C. A ¯ : “ ∃ n ∈ ℕ : 3 n + 1 là số lẻ”.",
+        "D. A ¯ : “ ∃ n ∈ ℕ : 3 n + 1 là số chẵn”."
+      ],
+      "answer": "B",
+      "note": "Ta có phủ định của mệnh đề \\[A\\] là A ¯ = “ ∀ n ∈ ℕ : 3 n + 1 . là số chẵn” . Chọn B ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hai tập hợp \\(A = \\left\\{ {1;2;3} \\right\\}\\) và \\(B = \\left\\{ {1;2} \\right\\}.\\) Khẳng định nào sau đây là đúng?",
+      "options": [
+        "A. \\(B \\subset A.\\)",
+        "B. \\(A \\subset B.\\)",
+        "C. \\(A = B.\\)",
+        "D. \\(A \\in B.\\)"
+      ],
+      "answer": "A",
+      "note": "Với \\(A = \\left\\{ {1;2;3} \\right\\}\\) và \\(B = \\left\\{ {1;2} \\right\\},\\) ta có \\(B \\subset A.\\) Chọn A."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho \\(A = \\left[ { - 5;\\,\\,1} \\right]\\) và \\(B = \\left( { - 3;\\,\\,2} \\right)\\) . Tập hợp \\(A \\cup B\\) chứa bao nhiêu số nguyên âm?",
+      "options": [
+        "A. \\(7\\) .",
+        "B. \\(6\\) .",
+        "C. \\(4\\) .",
+        "D. \\(5\\) ."
+      ],
+      "answer": "D",
+      "note": "Ta có \\(A \\cup B = \\left[ { - 5;\\,2} \\right)\\), tập hợp này chứa các số nguyên âm là \\( - 5\\); \\( - 4\\); \\( - 3\\); \\( - 2\\); \\( - 1\\). Chọn D."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho bất phương trình \\(2x + y > 6\\) . Khẳng định nào sau đây là đúng ?",
+      "options": [
+        "A. Bất phương trình đã cho có nghiệm duy nhất.",
+        "B. Bất phương trình đã cho vô nghiệm.",
+        "C. Bất phương trình đã cho có vô số nghiệm.",
+        "D. Bất phương trình đã cho có tập nghiệm là \\(\\left[ {3; + \\infty } \\right)\\) ."
+      ],
+      "answer": "C",
+      "note": "Bất phương trình đã cho là bất phương trình bậc nhất hai ẩn nên bất phương trình này có vô số nghiệm. Chọn C"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Hệ bất phương trình nào sau đây là hệ bất phương trình bậc nhất hai ẩn?",
+      "options": [
+        "A. \\(\\left\\{ \\begin{array}{l}x + y > 1\\\\2x - y < 2\\end{array} \\right..\\)",
+        "B. \\(\\left\\{ \\begin{array}{l}{x^2} + y > 1\\\\2x - y < 2\\end{array} \\right..\\)",
+        "C. \\(\\left\\{ \\begin{array}{l}x + y > 1\\\\2{x^2} - y < 2\\end{array} \\right..\\)",
+        "D. \\(\\left\\{ \\begin{array}{l}x + {y^2} > 1\\\\2x - y < 2\\end{array} \\right..\\)"
+      ],
+      "answer": "A",
+      "note": "Hệ \\(\\left\\{ \\begin{array}{l}x + y > 1\\\\2x - y < 2\\end{array} \\right.\\) là hệ bất phương trình bậc nhất hai ẩn. Chọn A."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cặp số \\(\\left( {x;y} \\right)\\) nào dưới đây là một nghiệm của hệ bất phương trình \\(\\left\\{ {\\begin{array}{*{20}{c}}{x + y > 2}\\\\{ - 2x + y \\le 7}\\end{array}} \\right.\\) ?",
+      "options": [
+        "A. \\(\\left( { - 1;12} \\right)\\) .",
+        "B. \\(\\left( { - 5; - 2} \\right)\\) .",
+        "C. \\(\\left( {2; - 5} \\right)\\) .",
+        "D. \\(\\left( {4; - 1} \\right)\\) ."
+      ],
+      "answer": "D",
+      "note": "- Xét cặp số \\(\\left( { - 1;12} \\right)\\), ta thấy không thỏa hệ \\(\\left\\{ {\\begin{array}{*{20}{c}}{x + y > 2}\\\\{ - 2x + y \\le 7}\\end{array}} \\right.\\). - Xét cặp số \\(\\left( { - 5; - 2} \\right)\\), ta thấy không thỏa hệ \\(\\left\\{ {\\begin{array}{*{20}{c}}{x + y > 2}\\\\{ - 2x + y \\le 7}\\end{array}} \\right.\\). - Xét cặp số \\(\\left( {2; - 5} \\right)\\), ta thấy không thỏa hệ \\(\\left\\{ {\\begin{array}{*{20}{c}}{x + y > 2}\\\\{ - 2x + y \\le 7}\\end{array}} \\right.\\). - Xét cặp số \\(\\left( {4; - 1} \\right)\\), ta thấy thỏa hệ \\(\\left\\{ {\\begin{array}{*{20}{c}}{x + y > 2}\\\\{ - 2x + y \\le 7}\\end{array}} \\right.\\). Chọn D"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Cho góc \\(\\alpha \\) là góc tù. Khẳng định nào sau đây là đúng?",
+      "options": [
+        "A. \\(\\tan \\alpha < 0\\) .",
+        "B. \\(\\sin \\alpha < 0\\) .",
+        "C. \\(\\cos \\alpha > 0\\) .",
+        "D. \\(\\cot \\alpha > 0\\) ."
+      ],
+      "answer": "A",
+      "note": "Ta có góc \\(\\alpha \\) là góc tù, nên \\(90^\\circ < \\alpha < {\\rm{1}}80^\\circ \\Rightarrow \\left\\{ \\begin{array}{l}\\sin \\alpha > {\\rm{0}}\\\\\\cos \\alpha < {\\rm{0}}\\\\{\\rm{tan}}\\alpha < {\\rm{0}}\\\\\\cot \\alpha < {\\rm{0}}\\end{array} \\right..\\) Chọn A."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Trong các đẳng thức sau đây, đẳng thức nào đúng ?",
+      "options": [
+        "A. \\(\\sin \\left( {180^\\circ - \\alpha } \\right) = - \\sin \\alpha \\) .",
+        "B. \\(\\cos \\left( {180^\\circ - \\alpha } \\right) = \\cos \\alpha \\) .",
+        "C. \\(\\tan \\left( {180^\\circ - \\alpha } \\right) = \\tan \\alpha \\) .",
+        "D. \\(\\cot \\left( {180^\\circ - \\alpha } \\right) = - \\cot \\alpha \\) ."
+      ],
+      "answer": "D",
+      "note": "Theo lý thuyết ta có, \\(\\cot \\left( {180^\\circ - \\alpha } \\right) = - \\cot \\alpha \\). Chọn D."
+    }
+  ]
+}

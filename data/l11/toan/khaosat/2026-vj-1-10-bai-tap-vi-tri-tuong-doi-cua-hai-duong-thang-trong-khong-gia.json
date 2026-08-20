@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-10-bai-tap-vi-tri-tuong-doi-cua-hai-duong-thang-trong-khong-gia",
+  "sourceId": "vietjack:1-10-bai-tap-vi-tri-tuong-doi-cua-hai-du",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.10 Bài tập Vị trí tương đối của hai đường thẳng trong không gian (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Hai đường thẳng đồng phẳng thì có thể",
+      "options": [
+        "A. Cắt nhau;",
+        "B. Trùng nhau;",
+        "C. Song song;",
+        "D. Cả ba đáp án trên."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Hai đường thẳng cùng nằm trên một mặt phẳng thì có thể trùng nhau, cắt nhau hoặc song song với nhau."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Khẳng định sai trong các khẳng định sau là",
+      "options": [
+        "A. Hai đường thẳng chéo nhau thì không có điểm chung;",
+        "B. Hai đường thẳng không có điểm chung thì chéo nhau;",
+        "C. Hai đường thẳng phân biệt không cắt nhau và không song song thì chéo nhau;",
+        "D. Hai đường thẳng phân biệt không chéo nhau hoặc cắt nhau thì song song."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Hai đường thẳng không có điểm chung thì có thể song song với nhau (nếu chúng đồng phẳng) hoặc chéo nhau (khi chúng không đồng phẳng). V ậ y đáp án đúng là B."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Hai đường thẳng song song là hai đường thẳng",
+      "options": [
+        "A. Không có điểm chung;",
+        "B. Có một điểm chung;",
+        "C. Đồng phẳng và không có điểm chung;",
+        "D. Không đồng phẳng và không có điểm chung."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Hai đường thẳng song song là hai đường thẳng không có điểm chung và đồng phẳng. Nếu chúng không có điểm chung và không đồng phẳng thì chúng chéo nhau. Vậy đáp án đúng là C."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Hai đường thẳng cùng song song với một đường thẳng thứ ba thì chúng",
+      "options": [
+        "A. Chéo nhau;",
+        "B. Trùng nhau;",
+        "C. Song song với nhau;",
+        "D. Song song với nhau hoặc trùng nhau."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Hai đường thẳng cùng song song với một đường thẳng thứ ba thì chúng có thể trùng nhau hoặc song song với nhau. Vậy đáp án đúng là D."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Điểm phân biệt giữa hai đường thẳng song song và hai đường thẳng chéo nhau là",
+      "options": [
+        "A. Không có điểm chung và có điểm chung;",
+        "B. Không cắt nhau và cắt nhau;",
+        "C. Đồng phẳng và không đồng phẳng;",
+        "D. Chỉ là hai cách gọi khác nhau của hai đường thẳng song song."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Hai đường thẳng song song và hai đường thẳng chéo nhau đều không có điểm chung giữa hai đường thẳng. Nhưng hai đường thẳng song song thì đồng phẳng với nhau, còn hai đường thẳng chéo nhau thì không đồng phẳng với nhau."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong không gian có 3 đường thẳng a, b và c chéo nhau từng đôi một. Số đường thẳng có thể cắt cả 3 đường thẳng này là",
+      "options": [
+        "A. 1;",
+        "B. 2;",
+        "C. 0;",
+        "D. Vô số."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Gọi A là một điểm bất kỳ nằm trên đường thẳng a. Giả sử d là đường thẳng đi qua A và cắt cả hai đường thẳng b và c. Khi đó d ∈ A , b và d ∈ A , c hay d = A , b ∩ A , c với d là giao tuyến của hai mặt phẳng (A, b) và (A, c). Với mỗi điểm A bất kỳ ta được 1 đường thẳng d tương ứng. Có thể chọn vô số điểm A như vậy nên có vô số đường thẳng thỏa mãn yêu cầu đề bài."
+    }
+  ]
+}

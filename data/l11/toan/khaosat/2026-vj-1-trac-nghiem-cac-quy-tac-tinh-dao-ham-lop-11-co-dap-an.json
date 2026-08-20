@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-1-trac-nghiem-cac-quy-tac-tinh-dao-ham-lop-11-co-dap-an",
+  "sourceId": "vietjack:1-trac-nghiem-cac-quy-tac-tinh-dao-ham-l",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.Trắc nghiệm Các quy tắc tính đạo hàm lớp 11 (có đáp án)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: TRẮC NGHIỆM NHIỀU LỰA CHỌN Đạo hàm của hàm số \\(y = {x^4} - 4{x^2} - 3\\) là",
+      "options": [
+        "A. \\(y' = - 4{x^3} + 8x\\) .",
+        "B. \\(y' = 4{x^2} - 8x\\).",
+        "C. \\(y' = 4{x^3} - 8x\\).",
+        "D. \\(y' = - 4{x^2} + 8x\\) ."
+      ],
+      "answer": "C",
+      "note": "C \\(y' = {\\left( {{x^4} - 4{x^3} - 3} \\right)^\\prime } = 4{x^3} - 8x\\) ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Tính đạo hàm của hàm số \\(y = \\frac{{2x}}{{x - 1}}\\)",
+      "options": [
+        "A. \\(y' = \\frac{2}{{{{\\left( {x - 1} \\right)}^2}}}\\) .",
+        "B. \\(y' = \\frac{2}{{\\left( {x - 1} \\right)}}\\).",
+        "C. \\(y' = \\frac{{ - 2}}{{{{\\left( {x - 1} \\right)}^2}}}\\).",
+        "D. \\(y' = \\frac{{ - 2}}{{\\left( {x - 1} \\right)}}\\)."
+      ],
+      "answer": "C",
+      "note": "C \\(y = \\frac{{2x}}{{x - 1}} \\Rightarrow y' = \\frac{{ - 2}}{{{{\\left( {x - 1} \\right)}^2}}}\\) ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Tính đạo hàm của hàm số \\[y = \\sqrt x + x\\] tại điểm \\[{x_0} = 4\\] là:",
+      "options": [
+        "A. \\[y'\\left( 4 \\right) = \\frac{9}{2}\\] .",
+        "B. \\[y'\\left( 4 \\right) = 6\\].",
+        "C. \\[y'\\left( 4 \\right) = \\frac{3}{2}\\].",
+        "D. \\[y'\\left( 4 \\right) = \\frac{5}{4}\\]."
+      ],
+      "answer": "D",
+      "note": "D Ta có \\[y' = \\frac{1}{{2\\sqrt x }} + 1\\]\\[ \\Rightarrow y'\\left( 4 \\right) = \\frac{1}{{2\\sqrt 4 }} + 1 = \\frac{5}{4}.\\]"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Đạo hàm của hàm số \\[y = 5\\sin x - 3\\cos x\\] tại \\[{x_0} = \\frac{\\pi }{2}\\] là:",
+      "options": [
+        "A. \\[y'\\left( {\\frac{\\pi }{2}} \\right) = 3\\] .",
+        "B. \\[y'\\left( {\\frac{\\pi }{2}} \\right) = 5\\] .",
+        "C. \\[y'\\left( {\\frac{\\pi }{2}} \\right) = - 3\\] .",
+        "D. \\[y'\\left( {\\frac{\\pi }{2}} \\right) = - 5\\] ."
+      ],
+      "answer": "A",
+      "note": "A Ta có: \\[y' = 5\\cos x + 3\\sin x\\]\\[ \\Rightarrow y'\\left( {\\frac{\\pi }{2}} \\right) = 3\\] ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Tính đạo hàm của hàm số \\(y = \\sin 2x - \\cos x\\)",
+      "options": [
+        "A. \\(y' = 2\\cos x + \\sin x\\) .",
+        "B. \\(y' = \\cos 2x + \\sin x\\) .",
+        "C. \\(y' = 2\\cos 2x + \\sin x\\) .",
+        "D. \\(y' = 2\\cos x - \\sin x\\) ."
+      ],
+      "answer": "C",
+      "note": "C \\(y = \\sin 2x - \\cos x \\Rightarrow y' = 2\\cos 2x + \\sin x\\) ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Đạo hàm của hàm số \\(f\\left( x \\right) = {\\sin ^2}x\\) là:",
+      "options": [
+        "A. \\(f'\\left( x \\right) = 2\\sin x\\) .",
+        "B. \\(f'\\left( x \\right) = 2\\cos x\\) .",
+        "C. \\(f'\\left( x \\right) = - \\sin \\left( {2x} \\right)\\) .",
+        "D. \\(f'\\left( x \\right) = \\sin \\left( {2x} \\right)\\) ."
+      ],
+      "answer": "D",
+      "note": "D \\(f'\\left( x \\right) = 2\\sin x.{\\left( {\\sin x} \\right)^\\prime } = 2\\sin x.\\cos x = \\sin 2x\\) ."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Tìm đạo hàm của hàm số \\[y = {\\rm{log}}\\,x\\] .",
+      "options": [
+        "A. \\(y' = \\frac{{\\ln 10}}{x}\\)",
+        "B. \\(y' = \\frac{1}{{x\\ln 10}}\\)",
+        "C. \\(y' = \\frac{1}{{10\\ln x}}\\)",
+        "D. \\(y' = \\frac{1}{x}\\)"
+      ],
+      "answer": "B",
+      "note": "B Áp dụng công thức \\({\\left( {{{\\log }_a}x} \\right)^\\prime } = \\frac{1}{{x\\ln a}}\\) , ta được \\[y' = \\frac{1}{{x{\\rm{ln}}\\,10}}\\] ."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Hàm số \\(y = {2^{{x^2} - x}}\\) có đạo hàm là",
+      "options": [
+        "A. \\({2^{{x^2} - x}}.\\ln 2\\) .",
+        "B. \\((2x - 1){.2^{{x^2} - x}}.\\ln 2\\) .",
+        "C. \\(({x^2} - x){.2^{{x^2} - x - 1}}\\) .",
+        "D. \\((2x - 1){.2^{{x^2} - x}}\\) ."
+      ],
+      "answer": "B",
+      "note": "B Ta có \\(y' = ({x^2} - x)'{.2^{{x^2} - x}}.\\ln 2 = (2x - 1){.2^{{x^2} - x}}.\\ln 2\\) ."
+    }
+  ]
+}

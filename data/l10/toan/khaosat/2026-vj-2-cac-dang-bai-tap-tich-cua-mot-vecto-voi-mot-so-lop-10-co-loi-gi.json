@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-cac-dang-bai-tap-tich-cua-mot-vecto-voi-mot-so-lop-10-co-loi-gi",
+  "sourceId": "vietjack:2-cac-dang-bai-tap-tich-cua-mot-vecto-vo",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.Các dạng bài tập Tích của một vecto với một số lớp 10 (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho tam giác đều ABC cạnh 4. Vectơ − 1 2 B C → có độ dài là.",
+      "options": [
+        "A. 2",
+        "B. 4",
+        "C. 3",
+        "D. 6"
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A. Do tam giác ABC đều cạnh 4 nên: AB = AC = BC = 4 ⇒ B C → = B C = 4 Ta có: − 1 2 B C → = − 1 2 . B C → = 1 2 .4 = 2 ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hình vuông ABCD tâm O cạnh 3. Ta có 1 2 A C → + 1 2 D B → = ?",
+      "options": [
+        "A. 2",
+        "B. 4",
+        "C. 3",
+        "D. 6"
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải: Đáp án đúng là: C. Do O là tâm của hình vuông ABCD nên O là trung điểm của AC và BD nên ta có: 1 2 A C → = A O → ; 1 2 D B → = O B → . ⇒ 1 2 A C → + 1 2 D B → = A O → + O B → = A B → ⇒ 1 2 A C → + 1 2 D B → = A B → = A B = 3 ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho hình thoi ABCD cạnh 5 và A B C ^ = 60 o . Tính: 2 A B → + 2 A D → .",
+      "options": [
+        "A. 10;",
+        "B. 5 3 2 ;",
+        "C. 5;",
+        "D. 5 3 ."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A. Ta có: 2 A B → + 2 A D → = 2 A B → + A D → = 2 A C → (áp dụng quy tắc hình bình hành) Xét tam giác ABC có: A B C ^ = 60 o AB = BC (do ABCD là hình thoi) Do đó, tam giác ABC là tam giác đều ⇒ AC = AB = BC = 5 Vậy 2 A B → + 2 A D → = 2 A C → = 2 A C → = 2. A C = 2.5 = 10 ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hình thoi ABCD cạnh 5 và A B C ^ = 60 o . Tính: 2 A B → − 2 A D → .",
+      "options": [
+        "A. 10;",
+        "B. 5 3 2 ;",
+        "C. 5;",
+        "D. 10 3 ."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải: Đáp án đúng là: D. Ta có: 2 A B → − 2 A D → = 2 A B → − A D → = 2 D B → (hiệu hai vectơ). Gọi O là giao hai đường chéo của hình thoi, khi đó O là trung điểm của AC và BD. Hơn nữa hai đường chéo này vuông góc với nhau tại O. Xét tam giác ABC có: A B C ^ = 60 o AB = BC (do ABCD là hình thoi) Do đó, tam giác ABC là tam giác đều ⇒ AC = AB = BC = 5 ⇒ A O = 1 2 A C = 1 2 .5 = 2 , 5 Xét tam giác AOB vuông tại O, theo định lí Pytahgore ta có: A B 2 = A O 2 + B O 2 ⇒ B O 2 = A B 2 − A O 2 = 5 2 − 2 , 5 2 = 18 , 75 ⇒ B O = 5 3 2 ⇒ B D = 2 B O = 2. 5 3 2 = 5 3 Vậy 2 A B → − 2 A D → = 2 D B → = 2 D B → = 2 D B = 2.5 3 = 10 3 ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hình chữ nhật ABCD tâm O có AB = 4, AD = 3. Tính độ dài vectơ 1 2 D B → .",
+      "options": [
+        "A. 5",
+        "B. 2,5",
+        "C. 1,5",
+        "D. 2"
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải: Đáp án đúng là: B. Xét tam giác ABD vuông tại A (do ABCD là hình chữ nhật) Áp dụng định lí Pythagore ta có: BD 2 = AB 2 + AD 2 = 4 2 + 3 2 = 25 ⇔ BD = 5 Có: 1 2 D B → = 1 2 D B → = 1 2 D B = 1 2 .5 = 2 , 5 ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho tam giác đều ABC cạnh a. Điểm M là trung điểm BC. Tính: 1 2 C B → + M A → .",
+      "options": [
+        "A. a;",
+        "B. 3a;",
+        "C. 2a;",
+        "D. 4a."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A. Do M là trung điểm của BC nên ta có: 1 2 C B → = C M → Do đó, ta có: 1 2 C B → + M A → = C M → + M A → = C A → Vậy 1 2 C B → + M A → = C A → = C A = a ."
+    }
+  ]
+}

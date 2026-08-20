@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-3-de-kiem-tra-thuc-hanh-tinh-xac-suat-theo-dinh-nghia-co-dien-lop",
+  "sourceId": "vietjack:3-de-kiem-tra-thuc-hanh-tinh-xac-suat-th",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.Đề kiểm tra Thực hành tính xác suất theo định nghĩa cổ điển lớp 10 (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Một đội gồm 5 nam và 8 nữ. Lập một nhóm gồm 4 người hát tốp ca, tính xác suất để trong 4 người được chọn có ít nhất 3 nữ.",
+      "options": [
+        "A. \\[\\frac{{70}}{{143}}.\\]",
+        "B. \\[\\frac{{73}}{{143}}.\\]",
+        "C. \\[\\frac{{56}}{{143}}.\\]",
+        "D. \\[\\frac{{87}}{{143}}.\\"
+      ],
+      "answer": "A",
+      "note": "Chọn A Không gian mẫu là chọn tùy ý \\(4\\) người từ \\(13\\) người. Suy ra số phần tử của không gian mẫu là \\[\\left| \\Omega \\right| = C_{13}^4 = 715\\]. Gọi \\(A\\) là biến cố \\(''\\)4 người được chọn có ít nhất 3 nữ\\(''\\). Ta có hai trường hợp thuận lợi cho biến cố \\(A\\) như sau: ● TH1: Chọn 3 nữ và 1 nam, có \\[C_8^3C_5^1\\] cách. ● TH2: Chọn cả 4 nữ, có \\[C_8^4\\] cách. Suy ra số phần tử của biến cố \\(A\\) là \\[\\left| {{\\Omega _A}} \\right| = C_8^3C_5^1 + C_8^4 = 350\\]. Vậy xác suất cần tính \\[P\\left( A \\right) = \\frac{{\\left| {{\\Omega _A}} \\right|}}{{\\left| \\Omega \\right|}} = \\frac{{350}}{{715}} = \\frac{{70}}{{143}}\\]."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho tập hợp \\(A = \\left\\{ {{\\rm{2; 3; 4; 5; 6; 7; 8}}} \\right\\}\\). Gọi \\(S\\) là tập hợp các số tự nhiên có \\(4\\) chữ số đôi một khác nhau được lập thành từ các chữ số của tập \\(A\\). Chọn ngẫu nhiên một số từ \\(S\\), tính xác suất để số được chọn mà trong mỗi số luôn luôn có mặt hai chữ số chẵn và hai chữ số lẻ.",
+      "options": [
+        "A. \\[\\frac{1}{5}.\\]",
+        "B. \\[\\frac{3}{{35}}.\\]",
+        "C. \\[\\frac{{17}}{{35}}.\\]",
+        "D. \\[\\frac{{18}}{{35}}.\\]"
+      ],
+      "answer": "D",
+      "note": "Chọn D Số phần tử của tập \\(S\\) là \\(A_7^4 = 840.\\) Không gian mẫu là chọn ngẫu nhiên \\(1\\) số từ tập \\(S\\). Suy ra số phần tử của không gian mẫu là \\[\\left| \\Omega \\right| = C_{840}^1 = 840.\\] Gọi \\[X\\] là biến cố \\[''\\]Số được chọn luôn luôn có mặt hai chữ số chẵn và hai chữ số lẻ\\(''\\). ● Số cách chọn hai chữ số chẵn từ bốn chữ số \\[{\\rm{2}};{\\rm{ 4}};{\\rm{ 6}};{\\rm{ 8}}\\] là \\[C_4^2 = 6\\] cách. ● Số cách chọn hai chữ số lẻ từ ba chữ số \\[{\\rm{3}};{\\rm{ 5}};{\\rm{ 7}}\\] là \\[C_3^2 = 3\\] cách. ● Từ bốn chữ số được chọn ta lập số có bốn chữ số khác nhau, số cách lập tương ứng với một hoán vị của \\(4\\) phần tử nên có \\(4!\\) cách. Suy ra số phần tử của biến cố \\(X\\) là \\[\\left| {{\\Omega _X}} \\right| = C_4^2.C_3^2.4! = 432.\\] Vậy xác suất cần tính \\[P\\left( X \\right) = \\frac{{\\left| {{\\Omega _X}} \\right|}}{{\\left| \\Omega \\right|}} = \\frac{{432}}{{840}} = \\frac{{18}}{{35}}.\\]"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Gọi \\[S\\] là tập hợp các số tự nhiên có \\(3\\) chữ số đôi một khác nhau được lập thành từ các chữ số \\[{\\rm{1; 2; 3; 4; 6}}\\]. Chọn ngẫu nhiên một số từ \\[S\\], tính xác xuất để số được chọn chia hết cho \\(3\\).",
+      "options": [
+        "A. \\[\\frac{1}{{10}}.\\]",
+        "B. \\[\\frac{3}{5}.\\]",
+        "C. \\[\\frac{2}{5}.\\]",
+        "D. \\[\\frac{1}{{15}}.\\]"
+      ],
+      "answer": "C",
+      "note": "Chọn C Số phần tử của \\[S\\] là \\[A_5^3 = 60\\]. Không gian mẫu là chọn ngẫu nhiên \\(1\\) số từ tập \\(S\\). Suy ra số phần tử của không gian mẫu là \\[\\left| \\Omega \\right| = C_{60}^1 = 60.\\] Gọi \\(A\\) là biến cố \\(''\\)Số được chọn chia hết cho \\(3\\)\\(''\\). Từ \\(5\\) chữ số đã cho ta có \\(4\\) bộ gồm ba chữ số có tổng chia hết cho \\(3\\) là \\[\\left( {1;{\\rm{ }}2;{\\rm{ }}3} \\right)\\], \\[\\left( {1;{\\rm{ }}2;{\\rm{ }}6} \\right)\\], \\[\\left( {2;{\\rm{ }}3;{\\rm{ }}4} \\right)\\] và \\[\\left( {2;{\\rm{ }}4;{\\rm{ }}6} \\right)\\]. Mỗi bộ ba chữ số này ta lập được \\(3! = 6\\) số thuộc tập hợp \\[S\\]. Suy ra số phần tử của biến cố \\(A\\) là \\[\\left| {{\\Omega _A}} \\right| = 6.4 = 24\\]. Vậy xác suất cần tính \\[P\\left( A \\right) = \\frac{{\\left| {{\\Omega _A}} \\right|}}{{\\left| \\Omega \\right|}} = \\frac{{24}}{{60}} = \\frac{2}{5}.\\]"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Có \\(20\\) tấm thẻ được đánh số từ \\(1\\) đến \\(20\\). Chọn ngẫu nhiên ra \\(8\\) tấm thẻ, tính xác suất để có \\(3\\) tấm thẻ mang số lẻ, \\(5\\) tấm thẻ mang số chẵn trong đó chỉ có đúng \\(1\\) tấm thẻ mang số chia hết cho \\(10\\).",
+      "options": [
+        "A. \\(\\frac{{560}}{{4199}}.\\)",
+        "B. \\[\\frac{4}{{15}}.\\]",
+        "C. \\[\\frac{{11}}{{15}}.\\]",
+        "D. \\(\\frac{{3639}}{{4199}}.\\)"
+      ],
+      "answer": "A",
+      "note": "Chọn A Không gian mẫu là cách chọn \\(8\\) tấm thể trong \\(20\\) tấm thẻ. Suy ra số phần tử của không mẫu là \\(\\left| \\Omega \\right| = C_{20}^8 = 25970\\). Gọi \\(A\\) là biến cố \\(''\\)\\(3\\) tấm thẻ mang số lẻ, \\(5\\) tấm thẻ mang số chẵn trong đó chỉ có đúng \\(1\\) tấm thẻ mang số chia hết cho \\(10\\)\\(''\\). Để tìm số phần tử của \\(A\\) ta làm như sau: ● Đầu tiên chọn \\(3\\) tấm thẻ trong \\(10\\) tấm thẻ mang số lẻ, có \\(C_{10}^3\\) cách. ● Tiếp theo chọn \\(4\\) tấm thẻ trong \\(8\\) tấm thẻ mang số chẵn (không chia hết cho \\(10\\)), có \\(C_8^4\\) cách. ● Sau cùng ta chọn \\(1\\) trong \\(2\\) tấm thẻ mang số chia hết cho \\(10\\), có \\(C_2^1\\) cách. Suy ra số phần tử của biến cố \\(A\\) là \\(\\left| {{\\Omega _A}} \\right| = C_{10}^3.C_8^4.C_2^1 = 16800\\). Vậy xác suất cần tính \\(P\\left( A \\right) = \\frac{{\\left| {{\\Omega _A}} \\right|}}{{\\left| \\Omega \\right|}} = \\frac{{C_{10}^3.C_8^4.C_2^1}}{{C_{20}^8}} = \\frac{{560}}{{4199}}\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Gọi \\(S\\) là tập hợp các số tự nhiên có hai chữ số. Chọn ngẫu nhiên đồng thời hai số từ tập hợp \\(S\\). Tính xác suất để hai số được chọn có chữ số hàng đơn vị giống nhau.",
+      "options": [
+        "A. \\[\\frac{8}{{89}}.\\]",
+        "B. \\[\\frac{{81}}{{89}}.\\]",
+        "C. \\[\\frac{{36}}{{89}}.\\]",
+        "D. \\[\\frac{{53}}{{89}}.\\]"
+      ],
+      "answer": "A",
+      "note": "Chọn A Số phần tử của tập \\(S\\) là \\(9.10 = 90\\). Không gian mẫu là chọn ngẫu nhiên \\(2\\) số từ tập \\(S\\). Suy ra số phần tử của không gian mẫu là \\[\\left| \\Omega \\right| = C_{90}^2 = 4005\\]. Gọi \\[X\\] là biến cố \\[''\\]Số được chọn có chữ số hàng đơn vị giống nhau\\(''\\). Ta mô tả không gian của biến cố \\(X\\) nhưu sau: ● Có \\(10\\) cách chọn chữ số hàng đơn vị (chọn từ các chữ số \\(\\left\\{ {0;{\\rm{ }}1;{\\rm{ }}2;{\\rm{ }}3;...;{\\rm{ }}9} \\right\\}\\)). ● Có \\(C_9^2\\) cách chọn hai chữ số hàng chục (chọn từ các chữ số \\(\\left\\{ {1;{\\rm{ }}2;{\\rm{ }}3;...;{\\rm{ }}9} \\right\\}\\)). Suy ra số phần tử của biến cố \\(X\\) là \\[\\left| {{\\Omega _X}} \\right| = 10.C_9^2 = 360\\]. Vậy xác suất cần tính \\[P\\left( X \\right) = \\frac{{\\left| {{\\Omega _X}} \\right|}}{{\\left| \\Omega \\right|}} = \\frac{{360}}{{4005}} = \\frac{8}{{89}}.\\]"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Giải bóng chuyền VTV Cup gồm \\(9\\) đội bóng tham dự, trong đó có \\(6\\) đội nước ngoài và \\(3\\) đội của Việt Nam. Ban tổ chức cho bốc thăm ngẫu nhiên để chia thành \\(3\\) bảng \\(A,{\\rm{ }}B,{\\rm{ }}C\\) và mỗi bảng có \\(3\\)đội. Tính xác suất để \\(3\\) đội bóng của Việt Nam ở \\(3\\) bảng khác nhau.",
+      "options": [
+        "A. \\[\\frac{3}{{56}}.\\]",
+        "B. \\[\\frac{{19}}{{28}}.\\]",
+        "C. \\[\\frac{9}{{28}}.\\]",
+        "D. \\[\\frac{{53}}{{56}}.\\]"
+      ],
+      "answer": "C",
+      "note": "Chọn C Không gian mẫu là số cách chia tùy ý \\(9\\) đội thành \\(3\\) bảng. Suy ra số phần tử của không gian mẫu là \\[\\left| \\Omega \\right| = C_9^3.C_6^3.C_3^3\\]. Gọi \\(X\\) là biến cố \\(''\\)\\(3\\) đội bóng của Việt Nam ở \\(3\\) bảng khác nhau\\(''\\). ● Bước 1. Xếp \\(3\\) đội Việt Nam ở \\(3\\) bảng khác nhau nên có \\[3!\\] cách. ● Bước 2. Xếp \\(6\\) đội còn lại vào \\(3\\) bảng \\[A,{\\rm{ }}B,{\\rm{ }}C\\] này có \\[C_6^2.C_4^2.C_2^2\\] cách. Suy ra số phần tử của biến cố \\(X\\) là \\[\\left| {{\\Omega _X}} \\right| = 3!.C_6^2.C_4^2.C_2^2\\]. Vậy xác suất cần tính \\[P\\left( X \\right) = \\frac{{\\left| {{\\Omega _X}} \\right|}}{{\\left| \\Omega \\right|}} = \\frac{{3!.C_6^2.C_4^2.C_2^2}}{{C_9^3.C_6^3.C_3^3}} = \\frac{{540}}{{1680}} = \\frac{9}{{28}}\\]."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Trong giải cầu lông kỷ niệm ngày truyền thống học sinh sinh viên có 8 người tham gia trong đó có hai bạn Việt và Nam. Các vận động viên được chia làm hai bảng \\(A\\) và \\(B\\), mỗi bảng gồm 4 người. Giả sử việc chia bảng thực hiện bằng cách bốc thăm ngẫu nhiên, tính xác suất để cả \\(2\\) bạn Việt và Nam nằm chung \\(1\\) bảng đấu.",
+      "options": [
+        "A. \\[\\frac{6}{7}.\\]",
+        "B. \\[\\frac{5}{7}.\\]",
+        "C. \\[\\frac{4}{7}.\\]",
+        "D. \\[\\frac{3}{7}.\\]"
+      ],
+      "answer": "D",
+      "note": "Chọn D Không gian mẫu là số cách chia tùy ý \\(8\\) người thành \\(2\\) bảng. Suy ra số phần tử của không gian mẫu là \\[\\left| \\Omega \\right| = C_8^4.C_4^4\\]. Gọi \\(X\\) là biến cố \\(''\\)\\(2\\) bạn Việt và Nam nằm chung \\(1\\) bảng đấu\\(''\\). ● Bước 1. Xếp \\(2\\) bạn Việt và Nam nằm chung \\(1\\) bảng đấu nên có \\(C_2^1\\) cách. ● Bước 2. Xếp \\(6\\) bạn còn lại vào \\(2\\) bảng \\[A,{\\rm{ }}B\\] cho đủ mỗi bảng là \\(4\\) bạn thì có \\[C_6^2.C_4^4\\] cách. Suy ra số phần tử của biến cố \\(X\\) là \\[\\left| {{\\Omega _X}} \\right| = C_2^1.C_6^2.C_4^4\\]. Vậy xác suất cần tính \\[P\\left( X \\right) = \\frac{{\\left| {{\\Omega _X}} \\right|}}{{\\left| \\Omega \\right|}} = \\frac{{C_8^4.C_4^4}}{{C_2^1.C_6^2.C_4^4}} = \\frac{3}{7}\\]."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Một bộ đề thi toán học sinh giỏi lớp \\(12\\) mà mỗi đề gồm \\(5\\) câu được chọn từ \\(15\\) câu dễ, \\(10\\) câu trung bình và \\(5\\) câu khó. Một đề thi được gọi là\\(''\\)Tốt\\(''\\) nếu trong đề thi có cả ba câu dễ, trung bình và khó, đồng thời số câu dễ không ít hơn \\(2\\). Lấy ngẫu nhiên một đề thi trong bộ đề trên. Tìm xác suất để đề thi lấy ra là một đề thi \\(''\\)Tốt\\(''\\).",
+      "options": [
+        "A. \\[\\frac{{941}}{{1566}}.\\]",
+        "B. \\[\\frac{2}{5}.\\]",
+        "C. \\[\\frac{4}{5}.\\]",
+        "D. \\[\\frac{{625}}{{1566}}.\\"
+      ],
+      "answer": "D",
+      "note": "Chọn D Số phần tử của không gian mẫu là \\[\\left| \\Omega \\right| = C_{30}^5 = 142506\\]. Gọi \\[A\\] là biến cố \\(''\\)Đề thi lấy ra là một đề thi \\(''\\)Tốt\\(''\\)\\(''\\). Vì trong một đề thi \\(''\\)Tốt\\(''\\) có cả ba câu dễ, trung bình và khó, đồng thời số câu dễ không ít hơn 2 nên ta có các trường hợp sau đây thuận lợi cho biến cố \\[A\\]. ● Đề thi gồm 3 câu dễ, 1 câu trung bình và 1 câu khó: có \\[C_{15}^3C_{10}^1C_5^1\\] đề. ● Đề thi gồm 2 câu dễ, 2 câu trung bình và 1 câu khó: có \\[C_{15}^3C_{10}^1C_5^1\\] đề. ● Đề thi gồm 2 câu dễ, 1 câu trung bình và 2 câu khó: có \\[C_{15}^2C_{10}^1C_5^2\\] đề. Suy ra số phần tử của biến cố \\(A\\) là \\[\\left| {{\\Omega _A}} \\right| = C_{15}^3C_{10}^1C_5^1 + C_{15}^3C_{10}^1C_5^1 + C_{15}^2C_{10}^1C_5^2 = 56875\\]. Vậy xác suất cần tính \\[P\\left( A \\right) = \\frac{{\\left| {{\\Omega _A}} \\right|}}{{\\left| \\Omega \\right|}} = \\frac{{56875}}{{142506}} = \\frac{{625}}{{1566}}\\]."
+    }
+  ]
+}

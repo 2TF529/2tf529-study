@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-1-22-cau-trac-nghiem-toan-11-chan-troi-sang-tao-bai-tap-cuoi-chuo",
+  "sourceId": "vietjack:1-22-cau-trac-nghiem-toan-11-chan-troi-s",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.22 câu trắc nghiệm Toán 11 Chân trời sáng tạo Bài tập cuối chương 3 (Đúng sai - Trả lời ngắn) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: TRẮC NGHIỆM NHIỀU LỰA CHỌN Cho hai dãy (u n ) và (v n ) thỏa mãn \\(\\lim {u_n} = \\sqrt 3 \\) và limv n = 2. Giá trị của \\(\\lim \\frac{{{u_n}}}{{{v_n}}}\\) bằng",
+      "options": [
+        "A. \\(2\\sqrt 3 \\) .",
+        "B. \\(\\frac{{\\sqrt 3 }}{2}\\) .",
+        "C. \\(2 + \\sqrt 3 \\) .",
+        "D. \\( - 2 + \\sqrt 3 \\) ."
+      ],
+      "answer": "B",
+      "note": "B \\(\\lim \\frac{{{u_n}}}{{{v_n}}} = \\frac{{\\sqrt 3 }}{2}\\)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Tính giới hạn \\(I = \\lim \\left( {\\sqrt {{n^2} + 2n + 3} - n} \\right)\\) .",
+      "options": [
+        "A. 1.",
+        "B. 0.",
+        "C. 2.",
+        "D. 3."
+      ],
+      "answer": "A",
+      "note": "A \\(I = \\lim \\left( {\\sqrt {{n^2} + 2n + 3} - n} \\right)\\)\\( = \\lim \\frac{{2n + 3}}{{\\sqrt {{n^2} + 2n + 3} + n}}\\)\\( = \\lim \\frac{{2 + \\frac{3}{n}}}{{\\sqrt {1 + \\frac{2}{n} + \\frac{3}{{{n^2}}}} + 1}} = 1\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Tính \\(\\lim \\left( {3 + 2n + {n^3}} \\right)\\) .",
+      "options": [
+        "A. −∞.",
+        "B. +∞.",
+        "C. 1.",
+        "D. −1."
+      ],
+      "answer": "B",
+      "note": "B Ta có \\(\\lim \\left( {3 + 2n + {n^3}} \\right)\\)\\(\\lim \\left[ {{n^3}\\left( {\\frac{3}{{{n^3}}} + \\frac{2}{{{n^2}}} + 1} \\right)} \\right] = + \\infty \\)vì \\(\\left\\{ \\begin{array}{l}\\lim {n^3} = + \\infty \\\\\\lim \\left( {\\frac{3}{{{n^3}}} + \\frac{2}{{{n^2}}} + 1} \\right) = 1 > 0\\end{array} \\right.\\)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Số thập phân vô hạn tuần hoàn 0,17232323… được biểu diễn bởi phân số?",
+      "options": [
+        "A. \\(\\frac{{1706}}{{9900}}\\) .",
+        "B. \\(\\frac{{153}}{{990}}\\) .",
+        "C. \\(\\frac{{164}}{{990}}\\) .",
+        "D. \\(\\frac{{853}}{{4950}}\\) ."
+      ],
+      "answer": "D",
+      "note": "D Ta có \\(0,17232323... = 0,17 + 23\\left( {\\frac{1}{{{{10}^4}}} + \\frac{1}{{{{10}^6}}} + ...} \\right) = \\frac{{17}}{{100}} + 23.\\frac{1}{{{{10}^4}}}.\\frac{1}{{1 - \\frac{1}{{100}}}} = \\frac{{17}}{{100}} + \\frac{{23}}{{9900}} = \\frac{{853}}{{4950}}\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho \\(\\mathop {\\lim }\\limits_{x \\to 3} f\\left( x \\right) = - 2\\) . Giá trị \\(\\mathop {\\lim }\\limits_{x \\to 3} \\left[ {f\\left( x \\right) + 4x - 1} \\right]\\) bằng",
+      "options": [
+        "A. 5.",
+        "B. 6.",
+        "C. −11.",
+        "D. 9."
+      ],
+      "answer": "D",
+      "note": "D \\(\\mathop {\\lim }\\limits_{x \\to 3} \\left[ {f\\left( x \\right) + 4x - 1} \\right]\\)\\( = \\mathop {\\lim }\\limits_{x \\to 3} f\\left( x \\right) + \\mathop {\\lim }\\limits_{x \\to 3} \\left( {4x - 1} \\right) = - 2 + 4.3 - 1 = 9\\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Tính \\(\\mathop {\\lim }\\limits_{x \\to 4} \\frac{{{x^2} - 16}}{{x - 4}}\\) .",
+      "options": [
+        "A. 7 .",
+        "B. 8.",
+        "C. 5.",
+        "D. 6."
+      ],
+      "answer": "B",
+      "note": "B \\(\\mathop {\\lim }\\limits_{x \\to 4} \\frac{{{x^2} - 16}}{{x - 4}}\\)\\[ = \\mathop {\\lim }\\limits_{x \\to 4} \\frac{{\\left( {x - 4} \\right)\\left( {x + 4} \\right)}}{{x - 4}} = \\mathop {\\lim }\\limits_{x \\to 4} \\left( {x + 4} \\right) = 8\\]."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Tính giới hạn \\(I = \\mathop {\\lim }\\limits_{x \\to - \\infty } \\frac{{3x - 2}}{{2x + 1}}\\) .",
+      "options": [
+        "A. −2.",
+        "B. \\( - \\frac{3}{2}\\) .",
+        "C. 2.",
+        "D. \\(\\frac{3}{2}\\) ."
+      ],
+      "answer": "D",
+      "note": "D \\(I = \\mathop {\\lim }\\limits_{x \\to - \\infty } \\frac{{3x - 2}}{{2x + 1}}\\)\\( = \\mathop {\\lim }\\limits_{x \\to - \\infty } \\frac{{x\\left( {3 - \\frac{2}{x}} \\right)}}{{x\\left( {2 + \\frac{1}{x}} \\right)}} = \\frac{3}{2}\\)."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho \\(f\\left( x \\right) = \\left\\{ \\begin{array}{l}\\sqrt {x - 2} + 3\\;\\;khi\\;x \\ge 2\\\\ax - 1\\;\\;\\;\\;\\;\\;\\;\\;\\;khi\\;x < 2\\end{array} \\right.\\) và \\(\\mathop {\\lim }\\limits_{x \\to 2} f\\left( x \\right)\\) tồn tại. Tính a.",
+      "options": [
+        "A. 1.",
+        "B. \\( - 2\\) .",
+        "C. 3.",
+        "D. 2."
+      ],
+      "answer": "D",
+      "note": "D Ta có \\(\\mathop {\\lim }\\limits_{x \\to {2^ + }} f\\left( x \\right) = \\mathop {\\lim }\\limits_{x \\to {2^ + }} \\left( {\\sqrt {x - 2} + 3} \\right) = 3\\); \\(\\mathop {\\lim }\\limits_{x \\to {2^ - }} f\\left( x \\right) = \\mathop {\\lim }\\limits_{x \\to {2^ - }} \\left( {ax - 1} \\right) = 2a - 1\\). Vì \\(\\mathop {\\lim }\\limits_{x \\to 2} f\\left( x \\right)\\) tồn tại nên \\(\\mathop {\\lim }\\limits_{x \\to {2^ + }} f\\left( x \\right) = \\mathop {\\lim }\\limits_{x \\to {2^ - }} f\\left( x \\right)\\) Û 2a – 1 = 3 Û a = 2."
+    }
+  ]
+}

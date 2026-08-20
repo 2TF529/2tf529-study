@@ -1,0 +1,78 @@
+{
+  "id": "2026-vj-3-12-bai-toan-do-thi-van-toc-thoi-gian-cua-chuyen-dong-thang-bien",
+  "sourceId": "vietjack:3-12-bai-toan-do-thi-van-toc-thoi-gian-c",
+  "grade": "l10",
+  "subjectSlug": "li",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.12 Bài toán đồ thị vận tốc - thời gian của chuyển động thẳng biến đổi đều có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Một quả bóng bàn được bắn ra theo phương ngang với vận tốc đầu bằng không đến va chạm vào tường và bật lại trong khoảng thời gian rất ngắn. Hình dưới là đồ thị (v – t) mô tả chuyển động của quả bóng trong 20 s đầu tiên. Tính quãng đường mà quả bóng bay được sau 20 s kể từ lúc bắt đầu chuyển động.",
+      "options": [
+        "A. 37,5 m.",
+        "B. 75 m.",
+        "C. 112,5 m.",
+        "D. 150 m."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là C Quãng đường mà quả bóng bay được sau 20 s kể từ lúc bắt đầu chuyển động được tính bằng diện tích của phần đồ thị được tô màu xanh. s = s 1 + s 2 = 1 2 .5.15 + 1 2 .15.10 = 37 , 5 + 75 = 112 , 5 m"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Hình dưới là đồ thị vận tốc - thời gian của một chiếc xe chuyển động thẳng. Trường hợp nào sau đây là đúng?",
+      "options": [
+        "A. Trong khoảng thời gian từ 2 s đến 5 s xe đứng yên.",
+        "B. Xe trở về vị trí ban đầu lúc t = 9 s.",
+        "C. Trong 4 s cuối, xe giảm tốc với gia tốc 12 m/s 2 .",
+        "D. Trong 2 s đầu tiên, xe tăng tốc với gia tốc 6 m/s 2 ."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D A – Trong khoảng thời gian từ 2 s đến 5 s xe chuyển động với vận tốc không đổi là 12 m/s. B – Tại thời điểm t = 9 s, vận tốc của xe là 0 m/s. C – Trong 4 s cuối, gia tốc của xe là: a = Δ v Δ t = 0 − 12 9 − 5 = − 12 4 = − 3 m/s 2 Có nghĩa là, trong 4 s cuối vận tốc của xe giảm dần, gia tốc của xe lúc đó có độ lớn là 3 m/s 2 . D. Trong 2 s đầu, gia tốc của xe là: a = Δ v Δ t = 12 − 0 2 − 0 = 12 2 = 6 m/s 2 ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 4: Nhận xét nào sau đây là sai khi nói về tính chất chuyển động của xe máy.",
+      "options": [
+        "A. Trong khoảng thời gian từ 0 đến 10 s: xe chuyển động thẳng nhanh dần đều.",
+        "B. Trong khoảng thời gian từ 10 đến 15 s: xe chuyển động thẳng đều.",
+        "C. Trong khoảng thời gian từ 15 đến 30 s: xe chuyển động thẳng chậm dần đều.",
+        "D. Trong khoảng thời gian từ 0 đến 30 s: xe chuyển động thẳng đều."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là D Trong khoảng thời gian từ 0 đến 10 s: xe chuyển động thẳng nhanh dần đều. Trong khoảng thời gian từ 10 đến 15 s: xe chuyển động thẳng đều. Trong khoảng thời gian từ 15 đến 30 s: xe chuyển động thẳng chậm dần đều."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 5: X ác định gia tốc của xe máy trong 10 s đầu tiên.",
+      "options": [
+        "A. 0 m/s 2 .",
+        "B. 3 m/s.",
+        "C. 3 m/s 2 .",
+        "D. -3 m/s 2 ."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là C Trong 10 s đầu tiên, gia tốc: a = Δ v Δ t = 30 − 0 10 − 0 = 3 m / s 2"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 6: Từ đồ thị vận tốc – thời gian, tính quãng đường mà người này đã đi được sau 30 s kể từ lúc bắt đầu chuyển động.",
+      "options": [
+        "A. 150 m.",
+        "B. 525 m.",
+        "C. 30 m.",
+        "D. 245 m."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là B Quãng đường đi được trong 30 s bằng diện tích giới hạn phía dưới đồ thị, chính là diện tích của hình thang được tô màu xanh. s = 5 + 30 .30 2 = 525 m ."
+    }
+  ]
+}

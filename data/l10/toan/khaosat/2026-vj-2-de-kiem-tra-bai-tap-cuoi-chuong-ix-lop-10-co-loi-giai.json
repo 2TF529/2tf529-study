@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-2-de-kiem-tra-bai-tap-cuoi-chuong-ix-lop-10-co-loi-giai",
+  "sourceId": "vietjack:2-de-kiem-tra-bai-tap-cuoi-chuong-ix-lop",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.Đề kiểm tra Bài tập cuối chương IX lớp 10 (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Một nhóm gồm 6 học sinh nam và 4 học sinh nữ. Chọn ngẫu nhiên đồng thời 3 học sinh trong nhóm đó. Xác suất để trong 3 học sinh được chọn luôn có học sinh nữ bằng",
+      "options": [
+        "A. \\(\\frac{1}{3}\\).",
+        "B. \\(\\frac{5}{6}\\).",
+        "C. \\(\\frac{2}{3}\\).",
+        "D. \\(\\frac{1}{6}\\)."
+      ],
+      "answer": "B",
+      "note": "Số phần từ của không gian mẫu \\[n\\left( \\Omega \\right) = C_{10}^3 = 120\\]. Gọi \\[A\\] là biến cố sao cho 3 học sinh được chọn có học sinh nữ, \\[ \\Rightarrow \\overline A \\] là biến cố sao cho 3 học sinh được chọn không có học sinh nữ \\[ \\Rightarrow n\\left( {\\overline A } \\right) = C_6^3\\]\\[ = 20\\]. Vậy xác suất cần tìm \\[P\\left( A \\right) = \\]\\[1 - P\\left( {\\overline A } \\right) = \\]\\[1 - \\frac{{n\\left( {\\overline A } \\right)}}{{n\\left( \\Omega \\right)}}\\]\\[ = \\frac{5}{6}\\]."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Gieo một con súc sắc cân đối đồng chất hai lần. Tính số phần tử của biến cố \\(A\\): “Cả hai lần gieo có tổng số chấm bằng \\(9\\)”?",
+      "options": [
+        "A. \\(3\\).",
+        "B. \\(4\\).",
+        "C. \\(2\\).",
+        "D. \\(5\\)."
+      ],
+      "answer": "B",
+      "note": "Mô tả biến cố \\(A = \\left\\{ {\\left( {3;6} \\right),\\left( {4;5} \\right),\\;\\left( {5;4} \\right),\\left( {6;3} \\right)} \\right\\}\\). Vậy số phần tử của biến cố \\(A\\) bằng \\(4\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Một hộp chứa 20 thẻ được đánh số từ 1 đến 20. Lấy ngẫu nhiên 1 thẻ từ hộp đó. Tính xác suất thẻ lấy được ghi số lẻ và chia hết cho 3.",
+      "options": [
+        "A. \\[0,3\\].",
+        "B. \\[0,5\\].",
+        "C. \\[0,2\\].",
+        "D. \\[0,15\\]."
+      ],
+      "answer": "D",
+      "note": "Ta có: \\[n\\left( \\Omega \\right) = C_{20}^1 = 20\\]. Gọi \\[A\\] là biến cố lấy được một tấm thẻ ghi số lẻ và chia hết cho 3\\[ \\Rightarrow A = \\left\\{ {3;9;15} \\right\\}\\]. Do đó \\[n\\left( A \\right) = 3\\]\\[ \\Rightarrow P\\left( A \\right) = \\frac{3}{{20}} = 0,15\\]."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Gieo một con súc xắc cân đối và đồng chất hai lần. Xác suất để ít nhất một lần xuất hiện mặt sáu chấm là:",
+      "options": [
+        "A. \\(\\frac{8}{{36}}\\).",
+        "B. \\(\\frac{{12}}{{36}}\\).",
+        "C. \\(\\frac{{11}}{{36}}\\).",
+        "D. \\(\\frac{6}{{36}}\\)."
+      ],
+      "answer": "C",
+      "note": "\\[n\\left( \\Omega \\right) = 6.6 = 36\\]. Gọi \\[A\\] là biến cố:”ít nhất một lần xuất hiện mặt sáu chấm”. Khi đó biến cố \\[\\overline A \\]:”không có lần nào xuất hiện mặt sáu chấm”. Ta có \\[n\\left( {\\overline A } \\right) = 5.5 = 25\\]. Vậy \\[P(A) = 1 - P\\left( {\\overline A } \\right) = 1 - \\frac{{25}}{{36}} = \\frac{{11}}{{36}}\\]."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho đa giác đều 32 cạnh. Gọi \\(S\\) là tập hợp các tứ giác tạo thành có 4 đỉnh lấy từ các đỉnh của đa giác đều. Chọn ngẫu nhiên một phần tử của \\(S\\). Xác suất để chọn được một hình chữ nhật là",
+      "options": [
+        "A. \\(\\frac{1}{{385}}\\).",
+        "B. \\(\\frac{1}{{261}}\\).",
+        "C. \\(\\frac{3}{{899}}\\).",
+        "D. \\(\\frac{1}{{341}}\\)."
+      ],
+      "answer": "C",
+      "note": "Số phần tử của không gian mẫu là số cách chọn 4 đỉnh trong 32 đỉnh để tạo thành tứ giác, ta có: \\(\\left| \\Omega \\right| = C_{32}^4\\). Gọi \\(A\\) là biến cố \"chọn được hình chữ nhật\". Để chọn được hình chữ nhật cần chọn 2 trong 16 đường chéo đi qua tâm của đa giác, do đó số phần tử của \\(A\\) là \\(C_{16}^2\\). Xác suất biến cố \\(A\\) là \\(P\\left( A \\right) = \\frac{{C_{16}^2}}{{C_{32}^4}} = \\frac{3}{{899}}\\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Một hộp đựng \\[9\\] thẻ được đánh số từ \\[1\\] đến \\[9\\]. Rút ngẫu nhiên hai thẻ và nhân hai số trên hai thẻ lại với nhau. Tính xác suất để kết quả thu được là một số chẵn.",
+      "options": [
+        "A. \\[\\frac{5}{{18}}\\].",
+        "B. \\[\\frac{1}{6}\\].",
+        "C. \\[\\frac{8}{9}\\].",
+        "D. \\[\\frac{{13}}{{18}}\\]."
+      ],
+      "answer": "D",
+      "note": "Số phần tử của không gian mẫu là \\[n\\left( \\Omega \\right) = C_9^2 = 36\\]. Gọi \\[A\\] là biến cố “tích hai số ghi trên thẻ là số chẵn”, suy ra \\[\\overline A \\] là biến cố “tích hai số ghi trên thẻ là số lẻ”\\[ \\Rightarrow n\\left( {\\overline A } \\right) = C_5^2 = 10\\]. Vậy xác suất cần tìm là \\[P\\left( A \\right) = 1 - P\\left( {\\overline A } \\right) = 1 - \\frac{{n\\left( {\\overline A } \\right)}}{{n\\left( \\Omega \\right)}} = \\frac{{13}}{{18}}\\]."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Gieo ngẫu nhiên đồng thời bốn đồng xu. Tính xác xuất để ít nhất hai đồng xu lật ngửa?",
+      "options": [
+        "A. \\(\\frac{{11}}{{15}}.\\)",
+        "B. \\(\\frac{{10}}{9}.\\)",
+        "C. \\(\\frac{{11}}{{12}}.\\)",
+        "D. \\(\\frac{{11}}{{16}}.\\)"
+      ],
+      "answer": "D",
+      "note": "Số phần tử không gian mẫu \\(n\\left( \\Omega \\right) = 2.2.2.2 = 16.\\) Gọi \\(A\\) là biến cố: “Có nhiều nhất một đồng xu lật ngửa”. Khi đó, ta có hai trường hợp Trường hợp 1. Không có đồng xu nào lật ngửa \\( \\Rightarrow \\) có một kết quả. Trường hợp 2. Có một đồng xu lật ngửa \\( \\Rightarrow \\) có bốn kết quả. Vậy xác suất để ít nhất hai đồng xu lật ngửa là \\(P = 1 - P\\left( A \\right) = 1 - \\frac{{1 + 4}}{{16}} = \\frac{{11}}{{16}}.\\)"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Một hộp đèn có 12 bóng, trong đó có 4 bóng hỏng. Lấy ngẫu nhiên 3 bóng. Tính xác suất để trong 3 bóng có ít nhất 1 bóng hỏng.",
+      "options": [
+        "A. \\(\\frac{{40}}{{51}}\\).",
+        "B. \\(\\frac{{55}}{{112}}\\).",
+        "C. \\(\\frac{{41}}{{55}}\\).",
+        "D. \\(\\frac{3}{7}\\)."
+      ],
+      "answer": "C",
+      "note": "Gọi B là biến cố “Trong 3 bóng lấy ra đều là bóng tốt”. Ta có: \\(n\\left( {{\\Omega _B}} \\right) = C_8^3 = \\frac{{8!}}{{3!.5!}} = 56\\) Gọi C là biến cố “Trong 3 bóng lấy ra có ít nhất 1 bóng hỏng” khi đó \\(C = \\overline B \\). \\(P\\left( C \\right) = P\\left( {\\overline B } \\right) = 1 - P\\left( B \\right) = 1 - \\frac{{56}}{{220}} = \\frac{{41}}{{55}}\\)"
+    }
+  ]
+}

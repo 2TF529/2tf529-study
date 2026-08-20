@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-12-bai-tap-vie-t-nghie-m-va-bie-u-die-n-hi-nh-ho-c-ca-c-nghie-m",
+  "sourceId": "vietjack:2-12-bai-tap-vie-t-nghie-m-va-bie-u-die-",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.12 bài tập Viết nghiệm và biểu diễn hình học các nghiệm của phương trình bậc nhất hai ẩn có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Nghiệm tổng quát của phương trình 2x + y = 5 là",
+      "options": [
+        "A. \\(S = \\left\\{ {\\left( {x;2x + 5} \\right)|x \\in \\mathbb{R}} \\right\\}.\\)",
+        "B. \\(S = \\left\\{ {\\left( {x;2x - 5} \\right)|x \\in \\mathbb{R}} \\right\\}.\\)",
+        "C. \\(S = \\left\\{ {\\left( {x;5 - 2x} \\right)|x \\in \\mathbb{R}} \\right\\}.\\)",
+        "D. \\(S = \\left\\{ {\\left( {x;\\frac{{5 - x}}{2}} \\right)|x \\in \\mathbb{R}} \\right\\}.\\)"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có: 2x + y = 5 suy ra y = 5 – 2x. Do đó, nghiệm tổng quát của phương trình 2x + y = 5 là \\(S = \\left\\{ {\\left( {x;5 - 2x} \\right)|x \\in \\mathbb{R}} \\right\\}.\\)"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Nghiệm tổng quát của phương trình 3x + 0y = 2 là",
+      "options": [
+        "A. \\(\\left\\{ \\begin{array}{l}x = \\frac{2}{3}\\\\y \\in \\mathbb{R}.\\end{array} \\right.\\)",
+        "B. \\(\\left\\{ \\begin{array}{l}x \\in \\mathbb{R}\\\\y = \\frac{2}{3}.\\end{array} \\right.\\)",
+        "C. \\(\\left\\{ \\begin{array}{l}x \\in \\mathbb{R}\\\\y = - \\frac{2}{3}.\\end{array} \\right.\\)",
+        "D. \\(\\left\\{ \\begin{array}{l}x = - \\frac{2}{3}\\\\y \\in \\mathbb{R}.\\end{array} \\right.\\)"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có: 3x + 0y = 2 suy ra 3x = 2 hay x = \\(\\frac{2}{3}\\). Do đó, nghiệm tổng quát của phương trình 3x + 0y = 2 là \\(\\left\\{ \\begin{array}{l}x = \\frac{2}{3}\\\\y \\in \\mathbb{R}.\\end{array} \\right.\\)"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Phương trình nào dưới đây có đường thẳng biểu diễn nghiệm song song với trục tung?",
+      "options": [
+        "A. 2x – 3y = 4.",
+        "B. 0x + y = 5.",
+        "C. x – 3y = 4.",
+        "D. 4x – 0y = 7."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Phương trình có đường thẳng biểu diễn nghiệm song song với trục tung thì hệ số a ≠ 0 và b = 0. Do đó, phương trình 4x – 0y = 7 thỏa mãn yêu cầu bài toán."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Phương trình nào dưới đây có đường thẳng biểu diễn nghiệm song song với trục hoành?",
+      "options": [
+        "A. x + y = 2.",
+        "B. x + 0y = 3.",
+        "C. 0x – y = 6.",
+        "D. 2x + 3y = 5."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Phương trình có đường thẳng biểu diễn nghiệm song song với trục hoành thì hệ số a = 0 và b ≠ 0. Do đó, phương trình 0x – y = 6 thỏa mãn yêu cầu bài toán."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Phương trình nào dưới đây có đường thẳng biểu diễn nghiệm là y = 2x – 5?",
+      "options": [
+        "A. y – 2x = 5.",
+        "B. 2x – y = 5.",
+        "C. 2x + y = 5.",
+        "D. 2x – y = −5."
+      ],
+      "answer": "B",
+      "note": "Đáp án đung là: B Xét phương trình 2x – y = 5, suy ra y = 2x – 5. Mỗi cặp số (x; 2x – 5) với x ∈ ℝ là nghiệm của phương trình 2x – y = 5. Mỗi nghiệm này là tọa độ của điểm thuộc đường thẳng y = 2x – 5. Vậy chọn đáp án B."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Hình nào dưới đây biểu diễn tất cả các nghiệm của phương trình 2x – 3y = 5?",
+      "options": [
+        "A. Phương án A",
+        "B. Phương án B",
+        "C. Phương án C",
+        "D. Phương án D"
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A Ta có: 2x – 3y = 5 suy ra \\(y = \\frac{2}{3}x - \\frac{5}{3}.\\) Do đó, tất cả các nghiệm của phương trình 2x – 3y = 5 được biểu diễn trên đường thẳng \\(y = \\frac{2}{3}x - \\frac{5}{3}.\\) • Xét đường thẳng \\(y = \\frac{2}{3}x - \\frac{5}{3}.\\) Cho x = 1 thì y = −1, do đó đường thẳng đi qua điểm có tọa độ (1; −1). Cho x = 4 thì y = 1, do đó đường thẳng đi qua điểm có tọa độ (4; 1). Vậy ta chọn đáp án A."
+    }
+  ]
+}

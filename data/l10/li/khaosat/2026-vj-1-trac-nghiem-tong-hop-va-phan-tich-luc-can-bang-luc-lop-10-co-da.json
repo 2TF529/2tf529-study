@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-trac-nghiem-tong-hop-va-phan-tich-luc-can-bang-luc-lop-10-co-da",
+  "sourceId": "vietjack:1-trac-nghiem-tong-hop-va-phan-tich-luc-",
+  "grade": "l10",
+  "subjectSlug": "li",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.Trắc nghiệm Tổng hợp và phân tích lực. Cân bằng lực lớp 10 (có đáp án)",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Gọi F 1 , F 2 là độ lớn của hai lực thành phần, F là độ lớn hợp lực của chúng. Câu nào sau đây là đúng ?",
+      "options": [
+        "A. F không bao giờ nhỏ hơn cả F 1 và F 2 .",
+        "B. F không bao giờ bằng F 1 hoặc F 2 .",
+        "C. F luôn luôn lớn hơn cả F 1 v F 2 .",
+        "D. Trong mọi trường hợp: \\[\\left| {{F_1} - {F_2}} \\right| \\le F \\le \\left| {{F_1} + {F_2}} \\right|\\] ."
+      ],
+      "answer": "D",
+      "note": "A, B, C - Sai. D - đúng."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Lực tổng hợp của hai lực đồng quy có độ lớn lớn nhất khi hai lực thành phần",
+      "options": [
+        "A. Cùng phương, cùng chiều.",
+        "B. Cùng phương, ngược chiều.",
+        "C. Vuông góc với nhau.",
+        "D. Hợp với nhau một góc khác không."
+      ],
+      "answer": "A",
+      "note": "A - đúng vì khi hai lực cùng phương, cùng chiều thì lực tổng hợp có độ lớn \\[{\\rm{F = }}{{\\rm{F}}_{\\rm{1}}}{\\rm{ + }}{{\\rm{F}}_{\\rm{2}}}\\]."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Độ lớn của hợp lực hai lực đồng quy hợp với nhau góc α là:",
+      "options": [
+        "A. \\({{\\rm{F}}^{\\rm{2}}}{\\rm{ = }}{{\\rm{F}}_{\\rm{1}}}^{\\rm{2}}{\\rm{ + F}}_{\\rm{2}}^{\\rm{2}}{\\rm{ + 2}}{{\\rm{F}}_{\\rm{1}}}{{\\rm{F}}_{\\rm{2}}}.\\cos \\alpha \\).",
+        "B. \\({F^2} = {F_1}^2 + F_2^2 - 2{F_1}{F_2}.\\cos \\alpha \\).",
+        "C. \\(F\\, = {F_1} + {F_2} - 2{F_1}{F_2}.\\cos \\alpha \\).",
+        "D. \\(F_{}^2 = {\\rm{ }}{F_1}^2 + F_2^2 - 2{F_1}{F_2}\\)."
+      ],
+      "answer": "A",
+      "note": "A - đúng vì theo quy tắc hình bình hành khi tổng hợp hai lực đồng quy ta có: \\({{\\rm{F}}^{\\rm{2}}}{\\rm{ = }}{{\\rm{F}}_{\\rm{1}}}^{\\rm{2}}{\\rm{ + F}}_{\\rm{2}}^{\\rm{2}}{\\rm{ + 2}}{{\\rm{F}}_{\\rm{1}}}{{\\rm{F}}_{\\rm{2}}}.\\cos \\alpha \\)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Có hai lực đồng qui có độ lớn bằng 9 N và 12 N. Trong số các giá trị sau đây, giá trị nào có thể là độ lớn của hợp lực?",
+      "options": [
+        "A. 25 N.",
+        "B. 15 N .",
+        "C. 2 N.",
+        "D. 1 N."
+      ],
+      "answer": "B",
+      "note": "B - đúng vì \\[\\left| {{F_1} - {F_2}} \\right| \\le F \\le \\left| {{F_1} + {F_2}} \\right| \\Rightarrow \\left| {12 - 9} \\right| \\le F \\le \\left| {12 + 9} \\right| \\Rightarrow 3 \\le F \\le 21\\]."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Có hai lực đồng quy \\[\\overrightarrow {{F_1}} \\] và \\[\\overrightarrow {{F_2}} \\]. Gọi \\[\\alpha \\] là góc hợp bởi \\[\\overrightarrow {{F_1}} \\] và \\[\\overrightarrow {{F_2}} \\] và \\[\\overrightarrow F = \\overrightarrow {{F_1}} + \\overrightarrow {{F_2}} \\]. Nếu \\[F = {F_1} + {F_2}\\] thì :",
+      "options": [
+        "A. \\[\\alpha = {\\rm{ }}{0^0}\\].",
+        "B. \\[\\alpha = {\\rm{ 9}}{0^0}\\].",
+        "C. \\[\\alpha = {\\rm{ }}{180^0}\\].",
+        "D. \\[0 < a < {\\rm{ }}{90^0}\\]. </>"
+      ],
+      "answer": "B",
+      "note": "B - đúng vì trường hợp này độ lớn lực tổng hợp bằng tổng hai lực thành phần nên \\[\\overrightarrow {{F_1}} \\] và \\[\\overrightarrow {{F_2}} \\] là hai lực cùng phương, cùng chiều. Suy ra góc xen giữa hai lực bằng 0 0 ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Có hai lực đồng quy \\[\\overrightarrow {{F_1}} \\] và \\[\\overrightarrow {{F_2}} \\]. Gọi \\[\\alpha \\] là góc hợp bởi \\[\\overrightarrow {{F_1}} \\] và \\[\\overrightarrow {{F_2}} \\] và \\[\\overrightarrow F = \\overrightarrow {{F_1}} + \\overrightarrow {{F_2}} \\]. Nếu \\[F = {F_1} - {F_2}\\] thì :",
+      "options": [
+        "A. \\[\\alpha = {\\rm{ }}{0^0}\\].",
+        "B. \\[\\alpha = {\\rm{ 9}}{0^0}\\].",
+        "C. \\[\\alpha = {\\rm{ }}{180^0}\\].",
+        "D. \\[0 < a < {\\rm{ }}{90^0}\\]. </>"
+      ],
+      "answer": "C",
+      "note": "C - đúng vì trường hợp này độ lớn lực tổng hợp bằng hiệu hai lực thành phần nên \\[\\overrightarrow {{F_1}} \\] và \\[\\overrightarrow {{F_2}} \\] là hai lực cùng phương, ngược chiều. Suy ra góc xen giữa hai lực bằng 180 0 ."
+    }
+  ]
+}

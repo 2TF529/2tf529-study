@@ -1,0 +1,104 @@
+{
+  "id": "2026-vj-2-cac-dang-bai-tap-nguyen-ham-lop-12-co-loi-giai",
+  "sourceId": "vietjack:2-cac-dang-bai-tap-nguyen-ham-lop-12-co-",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.Các dạng bài tập Nguyên hàm lớp 12 (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho hàm số f(x) = 3x 2 + 2x. Trong các hàm số dưới đây, hàm số nào là một nguyên hàm của f(x) trên ℝ.",
+      "options": [
+        "A. F 1 (x) = x 3 + x 2 – 4;",
+        "B. \\({F_2}\\left( x \\right) = \\frac{{{x^3}}}{3} + \\frac{{{x^2}}}{2}\\);",
+        "C. F 3 (x) = x 3 − x 2 + 1;",
+        "D. F 4 (x) = 3x 3 + x 2 ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Vì F 1 '(x) = 3x 2 + 2x = f(x). Do đó F 1 (x) = x 3 + x 2 – 4 là một nguyên hàm của f(x) = 3x 2 + 2x trên ℝ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hàm số \\(f\\left( x \\right) = x - \\frac{1}{{\\sqrt x }}\\). Trong các hàm số dưới đây, hàm số nào là một nguyên hàm của hàm số f(x) trên (0; +∞).",
+      "options": [
+        "A. \\({F_1}\\left( x \\right) = \\frac{{{x^2}}}{2} + \\sqrt x \\);",
+        "B. \\({F_2}\\left( x \\right) = \\frac{{{x^2}}}{2} - \\sqrt x \\);",
+        "C. \\({F_3}\\left( x \\right) = \\frac{{{x^2}}}{2} + 2\\sqrt x \\);",
+        "D. \\({F_4}\\left( x \\right) = \\frac{{{x^2}}}{2} - 2\\sqrt x \\)."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Có \\({F'_4}\\left( x \\right) = x - \\frac{1}{{\\sqrt x }} = f\\left( x \\right)\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho hàm số \\(f\\left( x \\right) = 3 + \\frac{1}{x}\\). Trong các hàm số dưới đây, hàm số nào là một nguyên hàm của f(x) trên (0; +∞).",
+      "options": [
+        "A. \\({F_1}\\left( x \\right) = 3x - \\frac{1}{{{x^2}}}\\);",
+        "B. \\({F_2}\\left( x \\right) = 3x + \\ln x\\);",
+        "C. \\({F_3}\\left( x \\right) = 3x + \\frac{1}{{{x^2}}}\\);",
+        "D. F 4 (x) = 3x – lnx."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Có \\({F'_2}\\left( x \\right) = 3 + \\frac{1}{x} = f\\left( x \\right)\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hàm số F(x) là một nguyên hàm của hàm số f(x) xác định trên khoảng K. Mệnh đề nào dưới đây sai ?",
+      "options": [
+        "A. F(x) = f'(x);",
+        "B. F'(x) = f(x);",
+        "C. \\({\\left( {\\int {f\\left( x \\right)dx} } \\right)^\\prime } = F'\\left( x \\right)\\);",
+        "D. \\(\\int {f\\left( x \\right)dx} = F\\left( x \\right) + C\\)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Theo định nghĩa suy ra A sai."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho \\(\\int {f\\left( x \\right)dx} = {F_1}\\left( x \\right),\\int {g\\left( x \\right)dx} = {F_2}\\left( x \\right)\\). Tính \\(I = \\int {\\left[ {2g\\left( x \\right) - f\\left( x \\right)} \\right]} dx\\).",
+      "options": [
+        "A. 2F 1 (x) – F 2 (x) + C;",
+        "B. F 2 (x) – F 1 (x) + C;",
+        "C. 2F 2 (x) – F 1 (x) + C;",
+        "D. |F 1 (x) + F 2 (x)| + C."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C \\(I = \\int {\\left[ {2g\\left( x \\right) - f\\left( x \\right)} \\right]} dx\\)\\( = 2\\int {g\\left( x \\right)} dx - \\int {f\\left( x \\right)} dx = 2{F_2}\\left( x \\right) - {F_1}(x) + C\\)."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Khẳng định nào sau đây sai ?",
+      "options": [
+        "A. \\(\\int {\\left[ {f\\left( x \\right) + g\\left( x \\right)} \\right]} dx = \\int {f\\left( x \\right)dx} + \\int {g\\left( x \\right)dx} \\);",
+        "B. \\(\\int {\\left[ {f\\left( x \\right) - g\\left( x \\right)} \\right]} dx = \\int {f\\left( x \\right)dx} - \\int {g\\left( x \\right)dx} \\);",
+        "C. \\(\\int {kf\\left( x \\right)dx} = k\\int {f\\left( x \\right)dx} ,\\forall k \\in \\mathbb{R}\\);",
+        "D. \\(\\int {kf\\left( x \\right)dx} = k\\int {f\\left( x \\right)dx} ,\\forall k \\in \\mathbb{R},k \\ne 0\\)."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C \\(\\int {kf\\left( x \\right)dx} = k\\int {f\\left( x \\right)dx} ,\\forall k \\in \\mathbb{R},k \\ne 0\\) nên đáp án C sai."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho hàm số y = f(x) liên tục trên ℝ. Số nguyên hàm của hàm số f(x) là",
+      "options": [
+        "A. Vô số;",
+        "B. 0;",
+        "C. 2;",
+        "D. 1."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Hàm số y = f(x) liên tục trên ℝ thì có vô số nguyên hàm trên ℝ."
+    }
+  ]
+}

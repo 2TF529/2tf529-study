@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-2-cac-dang-bai-tap-giai-bai-toan-bang-cach-lap-phuong-trinh-lop-9",
+  "sourceId": "vietjack:2-cac-dang-bai-tap-giai-bai-toan-bang-ca",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.Các dạng bài tập Giải bài toán bằng cách lập phương trình lớp 9 (có đáp án)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Một trong hai số chẵn nguyên dương liên tiếp có tổng bình phương bằng 244 là",
+      "options": [
+        "A. 12.",
+        "B. 14.",
+        "C. 16.",
+        "D. 18."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Gọi số chẵn thứ nhất là x (x ∈ ℕ*). Khi đó, số chẵn thứ hai liền sau là x + 2. Tổng bình phương của hai số trên là x 2 + (x + 2) 2 . Vì tổng bình phương của hai số bằng 244 nên ta có phương trình: x 2 + (x + 2) 2 = 244 x 2 + x 2 + 4x + 4 – 244 = 0 2x 2 + 4x – 240 = 0 x 2 + 2x – 120 = 0 Phương trình trên có ∆' = 1 2 – 1.(–120) = 121 > 0 và \\(\\sqrt {\\Delta '} = \\sqrt {121} = 11.\\) Do đó phương trình trên có hai nghiệm phân biệt là: \\({x_1} = \\frac{{ - 1 - 11}}{1} = - 12\\) (không thỏa mãn); \\({x_2} = \\frac{{ - 1 + 11}}{1} = 10\\) (thỏa mãn). Với x = 10, ta có số chẵn thứ nhất là 10 và số chẵn thứ hai là 12. Vậy ta chọn phương án A."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Một số tự nhiên có ba chữ số với tổng các chữ số là 12, chữ số hàng chục là 3. Nếu bỏ đi chữ số hàng trăm thì ta được số mới có hai lần bình phương của tích của các chữ số lớn hơn số ban đầu 15 đơn vị. Thương của số tự nhiên ban đầu với 5 là",
+      "options": [
+        "A. 17.",
+        "B. 18.",
+        "C. 78.",
+        "D. 87."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Tổng của chữ số hàng trăm và hàng đơn vị là 12 – 3 = 9. Gọi chữ số hàng trăm của số cần tìm là x (x ∈ ℕ, 0 < x ≤ 9). Chữ số hàng đơn vị của số cần tìm là 9 – x. Số tự nhiên cần tìm là: \\(\\overline {x3\\left( {9 - x} \\right)} = 100x + 30 + \\left( {9 - x} \\right) = 99{\\rm{x}} + 39.\\) Nếu bỏ chữ số hàng trăm thì ta được số mới là: \\(\\overline {3\\left( {9 - x} \\right)} .\\) Tích của các chữ số của số mới là: 3.(9 – x) = 27 – 3x. Theo bài, số mới có hai lần bình phương của tích của các chữ số lớn hơn số ban đầu 15 đơn vị, nên ta có phương trình: 2(27 – 3x) 2 = 99x + 39 + 15 2.(729 – 162x + 9x 2 ) = 99x + 54 18x 2 – 423x + 1404 = 0 2x 2 – 47x + 156 = 0 Phương trình trên có ∆ = (–47) 2 – 4.2.156 = 961 > 0 và \\(\\sqrt \\Delta = \\sqrt {961} = 31.\\) Do đó, phương trình có hai nghiệm phân biệtlà: \\({x_1} = \\frac{{47 - 31}}{{2 \\cdot 2}} = 4\\) (thỏa mãn); \\({x_2} = \\frac{{47 + 31}}{{2 \\cdot 2}} = \\frac{{39}}{2}\\) (không thỏa mãn). Với x = 4, ta có số tự nhiên ban đầu là 435. Vậy thương của số tự nhiên ban đầu với 5 là 435 : 5 = 87."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Một tam giác vuông có độ dài hai cạnh góc vuông hơn kém nhau 2 cm. Biết diện tích tam giác vuông đó là 31,5 cm 2 . Độ dài cạnh góc vuông nhỏ là",
+      "options": [
+        "A. 7 cm.",
+        "B. 9 cm.",
+        "C. 11 cm.",
+        "D. 13 cm."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Gọi độ dài cạnh góc vuông nhỏ là x (cm) (x > 0). Khi đó, độ dài cạnh góc vuông lớn là x + 2 (cm). Diện tích của tam giác vuông đó là: \\(\\frac{1}{2}x\\left( {x + 2} \\right) = \\frac{1}{2}{x^2} + x\\) (cm 2 ). Vì diện tích của tam giác vuông là 31,5 cm 2 , nên ta có phương trình: \\[\\frac{1}{2}{x^2} + x = 31,5\\] x 2 + 2x – 63 = 0. Phương trình trên có: ∆' = 1 2 – 1.(–63) = 64 > 0 và \\(\\sqrt {\\Delta '} = \\sqrt {64} = 8.\\) Do đó, phương trình đã cho có hai nghiệm phân biệt là: \\({x_1} = \\frac{{ - 1 - 8}}{1} = - 9\\) (loại); \\({x_2} = \\frac{{ - 1 + 8}}{1} = 7\\) (thỏa mãn). Vậy độ dài cạnh góc vuông nhỏ là 7 cm."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Một mảnh đất hình chữ nhật có diện tích 720 m 2 , nếu tăng chiều dài 6 m và giảm chiều rộng 4 m thì diện tích của mảnh đất không đổi. Chiều dài ban đầu của mảnh đất đó là",
+      "options": [
+        "A. 20 m.",
+        "B. 24 m.",
+        "C. 30 m.",
+        "D. 36 m."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Gọi chiều dài ban đầu của mảnh đất là x (m) (x > 0). Chiều rộng ban đầu của mảnh đất là \\[\\frac{{720}}{x}\\] (m). Chiều dài của mảnh đất nếu tăng thêm 6 m là: x + 6 (m). Chiều rộng của mảnh đất nếu giảm đi 4 m là: \\[\\frac{{720}}{x} - 4\\] (m). Diện tích của mảnh đất sau khi thay đổi kích thước là: \\[\\left( {x + 6} \\right)\\left( {\\frac{{720}}{x} - 4} \\right)\\] (m 2 ). Theo bài, nếu tăng chiều dài 6 m và giảm chiều rộng 4 m thì diện tích của mảnh đất không đổi nên ta có phương trình: \\[\\left( {x + 6} \\right)\\left( {\\frac{{720}}{x} - 4} \\right) = 720\\] Giải phương trình: \\[\\left( {x + 6} \\right)\\left( {\\frac{{720}}{x} - 4} \\right) = 720\\] \\(720 - 4x + \\frac{{4320}}{x} - 24 = 720\\) 4x 2 + 24x – 4320 = 0 x 2 + 6x – 1080 = 0. Phương trình trên có ∆' = 3 2 – 1.(–1080) = 1089 > 0 và \\(\\sqrt {\\Delta '} = \\sqrt {1089} = 33.\\) Do đó phương trình trên có hai nghiệm phân biệt là: \\({x_1} = \\frac{{ - 3 - 33}}{1} = - 36\\) (không thỏa mãn); \\({x_2} = \\frac{{ - 3 + 33}}{1} = 30\\) (thỏa mãn). Vậy chiều dài mảnh đất là 30 m."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Hai đội thợ quét sơn một ngôi nhà. Nếu họ cùng làm thì trong 4 ngày xong việc. Nếu họ làm riêng thì đội I hoàn thành công việc nhanh hơn đội II là 6 ngày. Thời gian đội I làm một mình xong việc là",
+      "options": [
+        "A. 6 giờ.",
+        "B. 10 giờ.",
+        "C. 11 giờ.",
+        "D. 12 giờ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Gọi thời gian đội I làm một mình xong công việc là x (ngày) (x > 4). Thời gian đội II làm một mình xong công việc là x + 6 (ngày). Trong 1 ngày, đội I làm một mình được \\(\\frac{1}{x}\\) (công việc), đội II làm một mình được \\(\\frac{1}{{x + 6}}\\) (công việc). Như vậy, trong 1 ngày, hai đội cùng làm được \\(\\frac{1}{x} + \\frac{1}{{x + 6}}\\) (công việc). Theo bài, hai đội cùng làm thì trong 4 ngày xong việc nên trong 1 ngày, hai đội cùng làm được \\(\\frac{1}{4}\\) (công việc). Ta có phương trình: \\(\\frac{1}{x} + \\frac{1}{{x + 6}} = \\frac{1}{4}.\\) Giải phương trình: \\(\\frac{1}{x} + \\frac{1}{{x + 6}} = \\frac{1}{4}\\) \\(\\frac{{x + 6 + x}}{{x\\left( {x + 6} \\right)}} = \\frac{1}{4}\\) \\(\\frac{{2x + 6}}{{x\\left( {x + 6} \\right)}} = \\frac{1}{4}\\) x(x + 6) = 4.(2x + 6) x 2 + 6x – 8x – 24 = 0 x 2 – 2x – 24 = 0. Phương trình trên có ∆' = (–1) 2 – 1.(–24) = 25 > 0 và \\(\\sqrt {\\Delta '} = \\sqrt {25} = 5.\\) Do đó phương trình trên có: \\({x_1} = \\frac{{1 - 5}}{1} = - 4\\) (không thỏa mãn); \\({x_2} = \\frac{{1 + 5}}{1} = 6\\) (thỏa mãn). Vậy đội I làm một mình xong công việc trong 6 giờ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Một nhóm thợ thủ công lên kế hoạch làm 1200 chiếc đèn lồng cho dịp lễ Trung Thu. Trong 12 ngày đầu họ làm đúng theo kế hoạch. Những ngày còn lại do có thêm người làm cùng nên mỗi ngày họ đã làm vượt mức 20 chiếc và hoàn thành kế hoạch sớm 2 ngày. Theo kế hoạch, mỗi ngày nhóm thợ phải làm bao nhiêu chiếc đèn lồng?",
+      "options": [
+        "A. 40 chiếc.",
+        "B. 60 chiếc.",
+        "C. 100 chiếc.",
+        "D. 200 chiếc."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Gọi số đèn lồng nhóm thợ phải làm mỗi ngày theo kế hoạch là x (đèn) (x > 0). Theo kế hoạch, nhóm thợ cần làm hết 1200 chiếc đèn trong \\(\\frac{{1200}}{x}\\) (ngày). Trong 12 ngày làm theo kế hoạch, nhóm thợ làm được 12x (đèn). Số đèn còn lại sau 12 ngày đó là 1200 – 12x (đèn). Sau khi có thêm người, mỗi ngày nhóm thợ làm được x + 20 (đèn). Thời gian làm số đèn còn lại là \\(\\frac{{1200 - 12x}}{{x + 20}}\\) (ngày). Theo bài, nhóm thợ hoàn thành kế hoạch sớm 2 ngày nên ta có phương trình: \\(\\frac{{1200}}{x} = 12 + \\frac{{1200 - 12x}}{{x + 20}} + 2.\\) Giải phương trình: \\(\\frac{{1200}}{x} = 12 + \\frac{{1200 - 12x}}{{x + 20}} + 2\\) \\[\\frac{{1200}}{x} - \\frac{{1200 - 12x}}{{x + 20}} = 14\\] \\[\\frac{{1200\\left( {x + 20} \\right) - x\\left( {1200 - 12x} \\right)}}{{x\\left( {x + 20} \\right)}} = 14\\] \\[\\frac{{12{x^2} + 2\\,\\,4000}}{{x\\left( {x + 20} \\right)}} = 14\\] 12x 2 + 24 000 = 14x(x + 20) 12x 2 + 24 000 = 14x 2 + 280x 2x 2 + 280x – 24 000 = 0 x 2 + 140x – 12 000 = 0. Phương trình trên có ∆' = 70 2 – 1.(–12 000) = 16 900 > 0 và \\(\\sqrt {\\Delta '} = \\sqrt {16\\,\\,900} = 130.\\) Do đó phương trình trên có hai nghiệm phân biệt là: \\({x_1} = \\frac{{ - 70 - 130}}{1} = - 200\\) (không thỏa mãn); \\({x_2} = \\frac{{ - 70 + 130}}{1} = 60\\) (thỏa mãn). Vậy theo kế hoạch thì mỗi ngày nhóm thộ phải làm 60 chiếc đèn lồng."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Hai bến sông cách nhau 15 km. Thời gian một ca nô xuôi dòng từ bến A đến bến B, tại bến B nghỉ 20 phút rồi ngược dòng từ bến B trở về bến A tổng cộng là 3 giờ. Biết vận tốc của dòng nước là 3 km/h, vận tốc của ca nô khi nước xuôi dòng là",
+      "options": [
+        "A. 12 km/h.",
+        "B. 13 km/h.",
+        "C. 14 km/h.",
+        "D. 15 km/h."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Đổi 20 phút \\[ = \\frac{1}{3}\\] giờ. Gọi vận tốc của ca nô khi nước yên lặng là x (km/h) (x > 3). Vận tốc ca nô lúc xuôi dòng là: x + 3 (km/h). Vận tốc của ca nô lúc ngược dòng là: x – 3 (km/h). Thời gian ca nô xuôi dòng từ A đến B là \\[\\frac{{15}}{{x + 3}}\\] (giờ). Thời gian ca nô ngược dòng từ B về A là \\[\\frac{{15}}{{x - 3}}\\] (giờ). Theo bài, thời gian một ca nô xuôi dòng từ bến A đến bến B, tại bến B nghỉ 20 phút rồi ngược dòng từ bến B trở về bến A tổng cộng là 3 giờ nên ta có phương trình: \\[\\frac{{15}}{{x + 3}} + \\frac{{15}}{{x - 3}} + \\frac{1}{3} = 3.\\] Giải phương trình: \\[\\frac{{15}}{{x + 3}} + \\frac{{15}}{{x - 3}} + \\frac{1}{3} = 3\\] \\[\\frac{{15}}{{x + 3}} + \\frac{{15}}{{x - 3}} = \\frac{8}{3}\\] \\[\\frac{1}{{x + 3}} + \\frac{1}{{x - 3}} = \\frac{8}{{45}}\\] \\[\\frac{{x - 3 + x + 3}}{{\\left( {x + 3} \\right)\\left( {x - 3} \\right)}} = \\frac{8}{{45}}\\] \\[\\frac{{2x}}{{{x^2} - 9}} = \\frac{8}{{45}}\\] 8(x 2 – 9) = 45.2x 4x 2 – 45x – 36 = 0. Phương trình trên có ∆ = (–45) 2 – 4.4.(–36) = 2601 > 0 và \\(\\sqrt \\Delta = \\sqrt {2601} = 51.\\) Do đó phương trình trên có hai nghiệm phân biệt là: \\({x_1} = \\frac{{45 - 51}}{{2 \\cdot 4}} = - 0,75\\) (không thỏa mãn); \\({x_1} = \\frac{{45 + 51}}{{2 \\cdot 4}} = 12\\) (thỏa mãn). Khi đó, vận tốc của ca nô khi nước yên lặng là 12 km/h nên vận tốc của ca nô khi xuôi dòng là: 12 + 3 = 15 (km/h). Vậy ta chọn phương án D."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Quãng đường AB dài 100 km. Cùng một lúc một xe máy khởi hành từ A đi về B và một xe ô tô khởi hành từ B đi về A. Sau khi hai xe gặp nhau, xe máy đi 1 giờ 30 phút nữa mới đến B. Biết vận tốc hai xe không thay đổi trên suốt quãng đường và vận tốc xe máy kém vận tốc xe ô tô là 20 km/h. Vận tốc của ô tô là",
+      "options": [
+        "A. 40 km/h.",
+        "B. 50 km/h.",
+        "C. 60 km/h.",
+        "D. 70 km/h."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Gọi vận tốc xe máy là x (km/h) (x > 0). Khi đó, vận tốc xe ô tô là x + 20 (km/h). Sau khi hai xe gặp nhau (gọi là điểm C), xe máy đi 1 giờ 30 phút (tức 1,5 giờ) nữa mới đến B nên quãng đường từ C đến B là: 1,5x (km). Thời gian xe ô tô đi từ lúc khởi hành từ B đến C là: \\(\\frac{{1,5x}}{{x + 20}}\\) (giờ). Do đó, quãng đường từ A đến C là: 100 – 1,5x (km), nên thời gian xe máy đi từ lúc khởi hành từ A đến C là: \\(\\frac{{100 - 1,5x}}{x}\\) (giờ). Vì hai xe cùng xuất phát và cùng gặp nhau nên ta có phương trình: \\(\\frac{{100 - 1,5x}}{x} = \\frac{{1,5x}}{{x + 20}}.\\) Giải phương trình: \\(\\frac{{100 - 1,5x}}{x} = \\frac{{1,5x}}{{x + 20}}\\) (100 – 1,5x)(x + 20) = x.1,5x 100x + 2 000 – 1,5x 2 – 30x = 1,5x 2 3x 2 – 70x – 2 000 = 0 Phương trình trên có ∆' = (–35) 2 – 3.(–2 000) = 7225 > 0 và \\(\\sqrt {\\Delta '} = \\sqrt {7255} = 85.\\) Do đó phương trình trên có hai nghiệm phân biệt là: \\({x_1} = \\frac{{35 - 85}}{3} = - \\frac{{50}}{3}\\) (không thỏa mãn); \\({x_2} = \\frac{{35 + 85}}{3} = 40\\) (thỏa mãn). Vậy vận tốc của xe máy là 40 km/h; vận tốc của xe ô tô là 40 + 20 = 60 (km/h)."
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "2026-vj-1-10-bai-tap-nhan-dang-ham-so-mu-va-ham-so-logarit-co-loi-giai",
+  "sourceId": "vietjack:1-10-bai-tap-nhan-dang-ham-so-mu-va-ham-",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.10 Bài tập Nhận dạng hàm số mũ và hàm số lôgarit (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Phát biểu nào sau đây là đúng?",
+      "options": [
+        "A. Hàm số lôgarit cơ số a là hàm số được viết dưới dạng y = log a x (x > 0; x ≠ 1);",
+        "B. Hàm số lôgarit cơ số a là hàm số được viết dưới dạng y = log x a (a > 0; a ≠ 1);",
+        "C. Hàm số lôgarit cơ số a là hàm số được viết dưới dạng y = log x a (x > 0; x ≠ 1);",
+        "D. Hàm số lôgarit cơ số a là hàm số được viết dưới dạng y = log a x (a > 0; a ≠ 1)."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Áp dụng định nghĩa: Hàm số lôgarit cơ số a là hàm số được viết dưới dạng y = log a x (a > 0; a ≠ 1). Vậy đáp án cần chọn là: D"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Phát biểu nào sau đây là đúng?",
+      "options": [
+        "A. Hàm số mũ với cơ số a được viết dưới dạng y = a x với a ≠ 1;",
+        "B. Hàm số mũ với cơ số a được viết dưới dạng y = a x với x ≠ 1;",
+        "C. Hàm số mũ với cơ số a được viết dưới dạng y = x a với x > 0, x ≠ 1;",
+        "D. Hàm số mũ với cơ số a được viết dưới dạng y = a x với a > 0, a ≠ 1."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Áp dụng định nghĩa: Hàm số mũ với cơ số a được viết dưới dạng y = a x với a > 0, a ≠ 1. Vậy đáp án cần chọn là: D"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Hàm số lôgarit y = log 2 − 2 x có cơ số là: A. 2; B. 4; C. ; D. .",
+      "options": [
+        "A. 2",
+        "B. 4",
+        "C. 1 2",
+        "D. 1 4"
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Ta có: y = log 2 − 2 x = log 1 4 x Do đó, hàm số đã cho là hàm số lôgarit với cơ số 1 4 ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Xác định cơ số của hàm số mũ y = 8 x 3 .",
+      "options": [
+        "A. 8",
+        "B. 1 8",
+        "C. 1 8 3",
+        "D. 8 3"
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Ta có: y = 8 x 3 = 8 1 3 x = 8 3 x . Vậy cơ số của hàm số mũ y = 8 x 3 là 8 3 ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Nhận xét nào sau đây là đúng?",
+      "options": [
+        "A. Hàm số mũ y = 2 − x có cơ số là 2 ;",
+        "B. Hàm số mũ y = 2 − x có cơ số là 2;",
+        "C. Hàm số mũ y = 2 − x có cơ số là 1 2 ;",
+        "D. Hàm số mũ y = 2 − x có cơ số là 1 2 ."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có: y = 2 − x = 2 − 1 x = 1 2 x Vậy hàm số mũ y = 2 − x có cơ số là 1 2 ."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-10-bai-tap-su-dung-tinh-chat-cua-logarit-de-bien-doi-rut-gon-ca",
+  "sourceId": "vietjack:2-10-bai-tap-su-dung-tinh-chat-cua-logar",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.10 Bài tập Sử dụng tính chất của lôgarit để biển đổi, rút gọn các biểu thức chứa biến (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho a > 0, a ≠ 2. Giá trị của log a 2 a 2 4 bằng:",
+      "options": [
+        "A. 1 2 ;",
+        "B. 2",
+        "C. - 1 2 ;",
+        "D. -2"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Với a > 0, a ≠ 2 ta có: log a 2 a 2 4 = log a 2 a 2 2 2 = log a 2 a 2 2 = 2."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Nếu log 4 a = 16 thì log 4 a bằng:",
+      "options": [
+        "A. 32;",
+        "B. 256;",
+        "C. 8;",
+        "D. 4."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Với a > 0 ta có: log 4 a = log 4 a 2 = 2 log 4 a = 2.16 = 32."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho các số thực a, b > 1. Mệnh đề nào sau đây là mệnh đề đúng ?",
+      "options": [
+        "A. log a a b = log b a;",
+        "B. log a a b = log a b;",
+        "C. log a a b = 1 + log a b ;",
+        "D. log a a b = 1 – log a b."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Ta có: log a a b = log a a – log a b = 1 – log a b."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Nếu log a b = 2, log a c = 3, thì log a (b 2 c 3 ) bằng:",
+      "options": [
+        "A. 108;",
+        "B. 13;",
+        "C. 31;",
+        "D. 36."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Với a > 0, b > 0, c > 0, a ≠ 1 ta có: log a (b 2 c 3 ) = log a b 2 + log a c 3 = 2log a b + 3log a c = 2.2 + 3.3 = 13."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho a > 0, b > 0. Mệnh đề đúng là:",
+      "options": [
+        "A. log 2 2 a 3 b = 1 + 3log 2 a – log 2 b;",
+        "B. log 2 2 a 3 b = 1 + log 2 a – log 2 b;",
+        "C. log 2 2 a 3 b = 1 + 3log 2 a + log 2 b;",
+        "D. log 2 2 a 3 b = 1 + log 2 a + log 2 b ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Với a > 0, b > 0 ta có: log 2 2 a 3 b = log 2 2a 3 – log 2 b = log 2 2 + log 2 a 3 – log 2 b = 1 + 3log 2 a – log 2 b."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Nếu log a b = 5 thì log a 2 b a b 2 bằng:",
+      "options": [
+        "A. 11 7 ;",
+        "B. 1;",
+        "C. 4;",
+        "D. 26 7 ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Với a > 0, b > 0, a ≠ 1 và log a b = 5 thì log a 2 b a b 2 = log a a b 2 log a a 2 b = log a a + log a b 2 log a a 2 + log a b = 1 + 2 log a b 2 + l o g a b = 1 + 2.5 2 + 5 = 11 7 ."
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "id": "2026-vj-2-bo-10-de-thi-giua-ki-2-toan-10-ket-noi-tri-thuc-co-dap-an",
+  "sourceId": "vietjack:2-bo-10-de-thi-giua-ki-2-toan-10-ket-noi",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "giuaki2",
+  "year": 2026,
+  "title": "2.Bộ 10 đề thi giữa kì 2 Toán 10 Kết nối tri thức có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Trong các bảng sau, bảng nào có giá trị \\(y\\) là hàm số của giá trị \\(x\\) ?",
+      "options": [
+        "A. \\(x\\) 1 2 3 4 3 \\(y\\) 23 35 2 34 1",
+        "B. \\(x\\) 1 2 3 2 5 \\(y\\) 23 35 24 13 15",
+        "C. \\(x\\) 1 2 3 4 13 \\(y\\) 23 35 2 34 34",
+        "D. \\(x\\) 1 2 3 2 1 \\(y\\) 23 35 2 24 45"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C \\(x\\) 1 2 3 4 13 \\(y\\) 23 35 2 34 34 Dựa vào bảng trên ta thấy, ứng với một giá trị của \\(x\\) chỉ có duy nhất một giá trị của \\(y\\) tương ứng. Như vậy giá trị \\(y\\) là hàm số của giá trị \\(x\\)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho bảng giá trị như sau biểu thị một hàm số \\(y = ax + b\\). \\(x\\) 1 2 3 4 5 \\(y\\) – 2 1 4 7 10 Công thức hàm số đó là",
+      "options": [
+        "A. \\(y = - 2x\\);",
+        "B. \\(y = x - 3\\);",
+        "C. \\(y = 3x + 5\\);",
+        "D. \\(y = 3x - 5\\)."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Khi \\(x = 1\\) thì \\(y = - 2\\), do đó, ta có: \\(a \\cdot 1 + b = - 2\\). Khi \\(x = 2\\) thì \\(y = 1\\), do đó, ta có: \\(a \\cdot 2 + b = 1\\). Vậy ta có hệ phương trình: \\(\\left\\{ \\begin{array}{l}a + b = - 2\\\\2a + b = 1\\end{array} \\right. \\Leftrightarrow \\left\\{ \\begin{array}{l}a = 3\\\\b = - 5\\end{array} \\right.\\). Do đó có hàm số: \\(y = 3x - 5\\). Thay lần lượt các giá trị \\(x = 3,\\,x = 4,\\,\\,x = 5\\) vào công thức hàm số trên ta thấy đều tìm được giá trị \\(y\\) tương ứng thỏa mãn bảng đã cho. Vậy công thức hàm số cần tìm là: \\(y = 3x - 5\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho đồ thị hàm số \\(y = f\\left( x \\right)\\) như hình dưới. Khẳng định nào sau đây là đúng ?",
+      "options": [
+        "A. Hàm số \\(y = f\\left( x \\right)\\) đồng biến trên khoảng \\(\\left( {2;3} \\right)\\);",
+        "B. Hàm số \\(y = f\\left( x \\right)\\) nghịch biến trên khoảng \\(\\left( { - \\infty ;2} \\right)\\);",
+        "C. Hàm số \\(y = f\\left( x \\right)\\) nghịch biến trên khoảng \\(\\left( {3;4} \\right)\\);",
+        "D. Hàm số \\(y = f\\left( x \\right)\\) đồng biến trên khoảng \\(\\left( {4; + \\infty } \\right)\\)."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Từ hình vẽ, ta thấy trong khoảng \\(\\left( {4; + \\infty } \\right)\\), đồ thị hàm số \\(y = f\\left( x \\right)\\) đi lên từ trái sang phải. Do đó, hàm số \\(y = f\\left( x \\right)\\) đồng biến trên khoảng \\(\\left( {4; + \\infty } \\right)\\)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Tập xác định của hàm số \\(y = \\frac{3}{{4x - 2}}\\) là",
+      "options": [
+        "A. \\(\\left[ {2; + \\infty } \\right)\\);",
+        "B. \\(\\left[ {\\frac{1}{2}; + \\infty } \\right)\\);",
+        "C. \\(\\mathbb{R}\\backslash \\left\\{ 2 \\right\\}\\);",
+        "D. \\(\\mathbb{R}\\backslash \\left\\{ {\\frac{1}{2}} \\right\\}\\)."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Biếu thức \\(\\frac{3}{{4x - 2}}\\) có nghĩa khi \\(4x - 2 \\ne 0 \\Leftrightarrow x \\ne \\frac{1}{2}\\). Vậy tập xác định của hàm số \\(y = \\frac{3}{{4x - 2}}\\) là: \\(D = \\mathbb{R}\\backslash \\left\\{ {\\frac{1}{2}} \\right\\}\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hàm số \\(y = 4{x^5} - 5\\), giá trị của hàm số tại \\(x = 2\\) là",
+      "options": [
+        "A. 123;",
+        "B. 124;",
+        "C. 126;",
+        "D. 127."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Thay \\(x = 2\\) vào hàm số \\(y = 4{x^5} - 5\\) ta có: \\(y = 4 \\cdot {2^5} - 5 = 123\\) Vậy giá trị của hàm số tại \\(x = 2\\) là: \\(y = 123\\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho các hàm số sau, hàm số nào là hàm số bậc hai ?",
+      "options": [
+        "A. \\(y = 5x + 12\\);",
+        "B. \\(y = {x^2} - 4x + 1\\);",
+        "C. \\(y = 15\\);",
+        "D. \\(y = {x^3} - {x^2}\\)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Hàm số bậc hai được cho bởi công thức: \\(y = a{x^2} + bx + c\\left( {a \\ne 0} \\right)\\). Do đó, \\(y = {x^2} - 4x + 1\\) là hàm số bậc hai."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Đồ thị hàm số bậc hai\\(y = 3{x^2} + 6x - 4\\) có trục đối xứng là",
+      "options": [
+        "A. \\(x = - 1\\);",
+        "B. \\(x = 1\\);",
+        "C. \\(y = - 1\\);",
+        "D. \\(y = 1\\)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có: \\( - \\frac{b}{{2a}} = - \\frac{6}{{2 \\cdot 3}} = - 1\\). Đồ thị hàm số bậc hai\\(y = 3{x^2} + 6x - 4\\) có trục đối xứng là: \\(x = - 1\\)."
+    }
+  ]
+}

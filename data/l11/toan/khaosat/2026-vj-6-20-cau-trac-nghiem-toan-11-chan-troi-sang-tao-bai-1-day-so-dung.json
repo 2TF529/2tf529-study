@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-6-20-cau-trac-nghiem-toan-11-chan-troi-sang-tao-bai-1-day-so-dung",
+  "sourceId": "vietjack:6-20-cau-trac-nghiem-toan-11-chan-troi-s",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "6.20 câu trắc nghiệm Toán 11 Chân trời sáng tạo Bài 1. Dãy số (Đúng sai - Trả lời ngắn) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: TRẮC NGHIỆM NHIỀU LỰA CHỌN Cho dãy số (u n ) được xác định như sau: \\[{{\\rm{u}}_{\\rm{1}}}{\\rm{ = 1}}\\] và \\[{{\\rm{u}}_{{\\rm{n + 1}}}}{\\rm{ = 3}} - {{\\rm{u}}_{\\rm{n}}}\\] với \\[{\\rm{n}} \\ge 1.\\] Số hạng u 2 bằng",
+      "options": [
+        "A. – 1.",
+        "B. 1.",
+        "C. 2.",
+        "D. – 2."
+      ],
+      "answer": "C",
+      "note": "C \\[{{\\rm{u}}_{\\rm{2}}}{\\rm{ = 3}} - {{\\rm{u}}_{\\rm{1}}}{\\rm{ = 3}} - {\\rm{1 = 2}}\\]."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Mệnh đề nào sau đây sai ?",
+      "options": [
+        "A. Dãy số tăng là dãy số bị chặn dưới.",
+        "B. Không phải mọi dãy số đều tăng hoặc giảm.",
+        "C. Dãy số giảm là dãy số bị chặn trên.",
+        "D. Dãy số bị chặn là dãy số không tăng, cũng không giảm."
+      ],
+      "answer": "D",
+      "note": "D Với dãy số (u n ) ta có: Xét đáp án A. Nếu (u n ) là dãy số tăng thì ta có \\[{{\\rm{u}}_{\\rm{n}}} \\ge {{\\rm{u}}_{\\rm{1}}},\\forall {\\rm{n}} \\in {\\mathbb{N}^ * }\\]. Vậy dãy số bị chặn dưới. Vậy A đúng. Xét đáp án B. Xét dãy số (u n ) có \\[{{\\rm{u}}_{\\rm{n}}}{\\rm{ = }}{\\left( { - {\\rm{1}}} \\right)^{\\rm{n}}}\\]. Ta có: \\[{{\\rm{u}}_{{\\rm{1 }}}}{\\rm{ = }}{\\left( { - {\\rm{1}}} \\right)^{\\rm{1}}}{\\rm{ = }} - {\\rm{1; }}{{\\rm{u}}_{\\rm{2}}}{\\rm{ = }}{\\left( { - {\\rm{1}}} \\right)^{\\rm{2}}}{\\rm{ = 1; }}{{\\rm{u}}_{\\rm{3}}}{\\rm{ = }}{\\left( { - {\\rm{1}}} \\right)^{\\rm{3}}}{\\rm{ = }} - {\\rm{1}}\\] Do đó dãy số không tăng không giảm. Vậy B đúng. Xét đáp án C. Nếu (u n ) là dãy số giảm thì ta có \\[{{\\rm{u}}_{\\rm{n}}} \\le {{\\rm{u}}_{\\rm{1}}},\\forall {\\rm{n}} \\in {\\mathbb{N}^ * }\\] Vậy dãy số bị chặn trên. Vậy C đúng. Xét đáp án D. Xét dãy số (u n ) có \\[{{\\rm{u}}_{{\\rm{n }}}}{\\rm{ = }}\\frac{{\\rm{1}}}{{{\\rm{n + 1}}}}\\] là dãy số tăng, bị chặn trên bởi 1 và bị chặn dưới bởi 0."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho dãy số (u n ) . Khẳng định nào sau đây đúng ?",
+      "options": [
+        "A. Nếu tồn tại số M > 0 sao cho \\[\\left| {{{\\rm{u}}_{\\rm{n}}}} \\right| \\le {\\rm{M, }}\\forall {\\rm{n}} \\in {\\mathbb{N}^ * }\\] thì (u n ) là dãy số bị chặn.",
+        "B. Nếu tồn tại cặp số M, m và tồn tại giá trị n sao cho \\[m \\le {u_n} \\le M\\] thì (u n ) là dãy số bị chặn.",
+        "C. Nếu tồn tại số m sao cho \\[{{\\rm{u}}_{\\rm{n}}} \\ge {\\rm{m}},\\forall {\\rm{n}} \\in {\\mathbb{N}^ * }\\] thì (u n ) là dãy số bị chặn.",
+        "D. Nếu tồn tại số M sao cho \\[{{\\rm{u}}_{\\rm{n}}} \\le {\\rm{M}},\\forall {\\rm{n}} \\in {\\mathbb{N}^ * }\\] thì (u n ) là dãy số bị chặn."
+      ],
+      "answer": "A",
+      "note": "A Nếu tồn tại số M > 0 sao cho \\[\\left| {{{\\rm{u}}_{\\rm{n}}}} \\right| \\le {\\rm{M, }}\\forall {\\rm{n}} \\in {\\mathbb{N}^ * } \\Leftrightarrow - {\\rm{M}} \\le {{\\rm{u}}_{\\rm{n}}} \\le {\\rm{M}},\\forall {\\rm{n}} \\in {\\mathbb{N}^ * }\\] Vậy (u n ) là dãy số bị chặn."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho dãy số (u n ) xác định bởi công thức \\[{{\\rm{u}}_{\\rm{n}}}{\\rm{ = }}\\frac{{\\rm{n}}}{{{\\rm{n + 1}}}}\\] với \\[{\\rm{n}} \\ge 1\\] . Số hạng thứ 10 của dãy số là:",
+      "options": [
+        "A. \\[\\frac{9}{{10}}\\] .",
+        "B. \\[\\frac{{10}}{{11}}\\] .",
+        "C. \\[\\frac{{11}}{{10}}\\] .",
+        "D. \\[\\frac{{10}}{9}\\] ."
+      ],
+      "answer": "B",
+      "note": "B \\[{{\\rm{u}}_{{\\rm{10}}}}{\\rm{ = }}\\frac{{{\\rm{10}}}}{{{\\rm{10 + 1}}}}{\\rm{ = }}\\frac{{{\\rm{10}}}}{{{\\rm{11}}}}\\]."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho dãy số (u n ) xác định bởi công thức \\(\\left\\{ {\\begin{array}{*{20}{c}}{{{\\rm{u}}_{{\\rm{1 }}}}{\\rm{ = 1}}}\\\\{{{\\rm{u}}_{{\\rm{n + 1}}}}{\\rm{ = 10}}{{\\rm{u}}_{\\rm{n}}} - {\\rm{9n}}}\\end{array}} \\right.\\) với \\[{\\rm{n}} \\ge 1\\] . Ba số hạng đầu của dãy số là:",
+      "options": [
+        "A. 1; −8; −107 .",
+        "B. 1; 1; −8 .",
+        "C. 1; 1; 8 .",
+        "D. 1; 8; 107 ."
+      ],
+      "answer": "B",
+      "note": "B \\[{u_1} = 1;{\\rm{ }}{u_2} = 10{u_1} - 9.1 = 10.1 - 9.1 = 1;{u_3} = 10{u_2} - 9.2 = 10.1 - 9.2 = - 8\\]."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho dãy số (u n ) xác định bởi công thức \\[{{\\rm{u}}_{{\\rm{n }}}}{\\rm{ = }}\\frac{{{\\rm{n}} - {\\rm{1}}}}{{{\\rm{2n + 1}}}}\\] . Dãy số (u n ) là:",
+      "options": [
+        "A. Dãy số tăng.",
+        "B. Dãy số giảm.",
+        "C. Dãy số không tăng không giảm.",
+        "D. Dãy số vừa tăng vừa giảm."
+      ],
+      "answer": "A",
+      "note": "A Ta có: \\[{{\\rm{u}}_{{\\rm{n + 1}}}}{\\rm{ = }}\\frac{{\\left( {{\\rm{n + 1}}} \\right) - {\\rm{1}}}}{{{\\rm{2}}\\left( {{\\rm{n + 1}}} \\right){\\rm{ + 1}}}}{\\rm{ = }}\\frac{{{\\rm{n + 1}} - {\\rm{1}}}}{{{\\rm{2n + 2 + 1}}}}{\\rm{ = }}\\frac{{\\rm{n}}}{{{\\rm{2n + 3}}}}\\] Xét hiệu: \\[{{\\rm{u}}_{{\\rm{n + 1}}}} - {{\\rm{u}}_{\\rm{n}}}{\\rm{ = }}\\frac{{\\rm{n}}}{{{\\rm{2n + 3}}}} - \\frac{{{\\rm{n}} - {\\rm{1}}}}{{{\\rm{2n + 1}}}}{\\rm{ = }}\\frac{{{\\rm{n}}\\left( {{\\rm{2n + 1}}} \\right) - \\left( {{\\rm{n}} - {\\rm{1}}} \\right)\\left( {{\\rm{2n + 3}}} \\right)}}{{\\left( {{\\rm{2n + 3}}} \\right)\\left( {{\\rm{2n + 1}}} \\right)}}\\] \\[{\\rm{ = }}\\frac{{\\left( {{\\rm{2}}{{\\rm{n}}^{\\rm{2}}}{\\rm{ + n}}} \\right) - \\left( {{\\rm{2}}{{\\rm{n}}^{\\rm{2}}} - {\\rm{2n + 3n}} - {\\rm{3}}} \\right)}}{{\\left( {{\\rm{2n + 3}}} \\right)\\left( {{\\rm{2n + 1}}} \\right)}}\\] \\[{\\rm{ = }}\\frac{{{\\rm{2}}{{\\rm{n}}^{\\rm{2}}}{\\rm{ + n}} - {\\rm{2}}{{\\rm{n}}^{\\rm{2}}}{\\rm{ + 2n}} - {\\rm{3n + 3}}}}{{\\left( {{\\rm{2n + 3}}} \\right)\\left( {{\\rm{2n + 1}}} \\right)}}{\\rm{ = }}\\frac{{\\rm{3}}}{{\\left( {{\\rm{2n + 3}}} \\right)\\left( {{\\rm{2n + 1}}} \\right)}}{\\rm{ > 0,}}\\forall {\\rm{n}} \\in {\\mathbb{N}^ * }\\] Vậy \\[{{\\rm{u}}_{{\\rm{n + 1}}}} - {{\\rm{u}}_{\\rm{n}}}{\\rm{ > 0}} \\Leftrightarrow {{\\rm{u}}_{{\\rm{n + 1 }}}}{\\rm{ > }}{{\\rm{u}}_{\\rm{n}}}\\] . Vậy dãy số (u n ) là dãy số tăng."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Trong các dãy số \\[\\left( {{{\\rm{u}}_{\\rm{n}}}} \\right)\\] cho bởi số hạng tổng quát u n sau, dãy số nào bị chặn trên:",
+      "options": [
+        "A. \\[{{\\rm{u}}_{\\rm{n}}}{\\rm{ = }}{{\\rm{2}}^{\\rm{n}}}\\] .",
+        "B. \\[{{\\rm{u}}_{\\rm{n}}}{\\rm{ = }}{{\\rm{n}}^{\\rm{2}}}\\] .",
+        "C. \\[{{\\rm{u}}_{\\rm{n}}}{\\rm{ = }}\\sqrt {{\\rm{n + 1}}} \\] .",
+        "D. \\[{{\\rm{u}}_{\\rm{n}}}{\\rm{ = }}\\frac{{\\rm{1}}}{{\\rm{n}}}\\] ."
+      ],
+      "answer": "D",
+      "note": "D Với \\[{{\\rm{u}}_{\\rm{n}}}{\\rm{ = }}\\frac{{\\rm{1}}}{{\\rm{n}}}\\] ta có: \\[{\\rm{n}} \\ge 1 \\Leftrightarrow \\frac{{\\rm{1}}}{{\\rm{n}}} \\le 1\\] Vậy (u n ) bị chặn trên."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho dãy số có các số hạng đầu là: 5; 10; 15; 20; 25; … Số hạng tổng quát của dãy số này là:",
+      "options": [
+        "A. \\[{{\\rm{u}}_{{\\rm{n }}}}{\\rm{ = 5}}\\left( {{\\rm{n}} - {\\rm{1}}} \\right)\\] .",
+        "B. \\[{{\\rm{u}}_{{\\rm{n }}}}{\\rm{ = 5n}}\\] .",
+        "C. \\[{{\\rm{u}}_{{\\rm{n }}}}{\\rm{ = 5 + n}}\\] .",
+        "D. \\[{{\\rm{u}}_{{\\rm{n }}}}{\\rm{ = 5}}{\\rm{.n + 1}}\\] ."
+      ],
+      "answer": "B",
+      "note": "B \\[{{\\rm{u}}_{{\\rm{1 }}}}{\\rm{ = 5 = 5}}{\\rm{.1; }}{{\\rm{u}}_{{\\rm{2 }}}}{\\rm{ = 10 = 5}}{\\rm{.2; }}{{\\rm{u}}_{{\\rm{3 }}}}{\\rm{ = 15 = 5}}{\\rm{.3; }}{{\\rm{u}}_{{\\rm{4 }}}}{\\rm{ = 20 = 5}}{\\rm{.4; }}{{\\rm{u}}_{{\\rm{5 }}}}{\\rm{ = 25 = 5}}{\\rm{.5}}\\] Vậy \\[{{\\rm{u}}_{{\\rm{n }}}}{\\rm{ = 5n}}\\] ."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-9-20-cau-trac-nghiem-toan-12-chan-troi-sang-tao-bai-2-cong-thuc-x",
+  "sourceId": "vietjack:9-20-cau-trac-nghiem-toan-12-chan-troi-s",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "9.20 câu trắc nghiệm Toán 12 Chân trời sáng tạo Bài 2. Công thức xác suất toàn phần và công thức Bayes (Đúng sai - Trả lời ngắn) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: TRẮC NGHIỆM NHIỀU LỰA CHỌN Cho hai biến cố A, B thỏa mãn P(A) = 0,3; P(B) = 0,2 và \\(P\\left( {A|B} \\right) = 0,15\\). Khi đó \\(P\\left( {B|A} \\right)\\)bằng",
+      "options": [
+        "A. 0,1.",
+        "B. 0,4.",
+        "C. 0,225.",
+        "D. 0,009."
+      ],
+      "answer": "A",
+      "note": "Chọn A \\(P\\left( {B|A} \\right) = \\frac{{P\\left( B \\right).P\\left( {A|B} \\right)}}{{P\\left( A \\right)}} = \\frac{{0,2.0,15}}{{0,3}} = 0,1\\)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho \\(P\\left( A \\right) = 0,35;P\\left( {B|A} \\right) = 0,4;P\\left( {B|\\overline A } \\right) = 0,3\\) . Giá trị của \\(P\\left( {A|B} \\right)\\) là",
+      "options": [
+        "A. \\(\\frac{1}{2}\\) .",
+        "B. \\(\\frac{8}{{13}}\\) .",
+        "C. \\(\\frac{1}{4}\\) .",
+        "D. \\(\\frac{{28}}{{67}}\\) ."
+      ],
+      "answer": "D",
+      "note": "Chọn D \\(P\\left( {A|B} \\right) = \\frac{{P\\left( A \\right).P\\left( {B|A} \\right)}}{{P\\left( A \\right).P\\left( {B|A} \\right) + P\\left( {\\overline A } \\right).P\\left( {B|\\overline A } \\right)}}\\)\\( = \\frac{{0,35.0,4}}{{0,35.0,4 + 0,65.0,3}} = \\frac{{28}}{{67}}\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho sơ đồ hình cây như hình. Tính P(B).",
+      "options": [
+        "A. 0,2.",
+        "B. 0,1.",
+        "C. 0,13.",
+        "D. 0,8."
+      ],
+      "answer": "C",
+      "note": "Chọn C \\(P\\left( B \\right) = 0,3.0,2 + 0,7.0,1 = 0,13\\)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Một nhà máy có hai phân xưởng I và II. Phân xưởng I sản xuất 40% số sản phẩm và phân xưởng II sản xuất 60% số sản phẩm. Tỉ lệ sản phẩm bị lỗi của phân xưởng I là 2% và của phân xưởng II là 1%. Kiểm tra ngẫu nhiên 1 sản phẩm của nhà máy và xác suất để sản phẩm đó bị lỗi là",
+      "options": [
+        "A. 0,02.",
+        "B. 0,6.",
+        "C. 0,014.",
+        "D. 0,01."
+      ],
+      "answer": "C",
+      "note": "Chọn C Gọi A là biến cố “Sản phẩm đó thuộc phân xưởng I”; B là biến cố “Sản phẩm đó bị lỗi”. Ta có \\(P\\left( A \\right) = 0,4;P\\left( {\\overline A } \\right) = 0,6;P\\left( {B|A} \\right) = 0,02;P\\left( {B|\\overline A } \\right) = 0,01\\). Khi đó \\(P\\left( B \\right) = P\\left( A \\right).P\\left( {B|A} \\right) + P\\left( {\\overline A } \\right).P\\left( {B|\\overline A } \\right)\\)\\( = 0,4.0,02 + 0,6.0,01 = 0,014\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Một bệnh viên có hai phòng khám là phòng A và phòng B với khả năng lựa chọn của bệnh nhân là như nhau. Tỉ lệ bệnh nhân nam có ở phòng A và phòng B lần lượt là 60% và 40%. Một người bệnh được chọn ngẫu nhiên từ hai phòng khám. Tính xác suất để người bệnh được chọn là nam.",
+      "options": [
+        "A. 0,6.",
+        "B. 0,5.",
+        "C. 0,4.",
+        "D. 0,3."
+      ],
+      "answer": "B",
+      "note": "Chọn B Gọi A là biến cố “Bệnh nhân được chọn ở phòng A”; B là biến cố “Bệnh nhân được chọn là nam”. Ta có \\(P\\left( A \\right) = P\\left( {\\overline A } \\right) = \\frac{1}{2};P\\left( {B|A} \\right) = 0,6;P\\left( {B|\\overline A } \\right) = 0,4\\). Khi đó \\(P\\left( B \\right) = P\\left( A \\right).P\\left( {B|A} \\right) + P\\left( {\\overline A } \\right).P\\left( {B|\\overline A } \\right)\\)\\( = \\frac{1}{2}.0,6 + \\frac{1}{2}.0,4 = 0,5\\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho A, B là hai biến cố. Biết P(B) = 0,2. Nếu B không xảy ra thì tỉ lệ A xảy ra là 2%. Nếu B xảy ra thì tỉ lệ A xảy ra 4%. Xác suất của biến cố A là bao nhiêu?",
+      "options": [
+        "A. 0,018.",
+        "B. 0,036.",
+        "C. 0,028.",
+        "D. 0,024."
+      ],
+      "answer": "D",
+      "note": "Chọn D Ta có \\(P\\left( B \\right) = 0,2 \\Rightarrow P\\left( {\\overline B } \\right) = 0,8;P\\left( {A|\\overline B } \\right) = 0,02;P\\left( {A|B} \\right) = 0,04\\). Khi đó \\(P\\left( A \\right) = P\\left( B \\right).P\\left( {A|B} \\right) + P\\left( {\\overline B } \\right).P\\left( {A|\\overline B } \\right)\\)\\( = 0,2.0,04 + 0,8.0,02 = 0,024\\)."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Có hai máy sản xuất ly nhựa, trong đó máy I sản xuất 60%, máy II sản xuất 40% ly nhựa. Tỉ lệ ly nhựa bị hư của các máy lần lượt là 0,5% và 0,8%. Chọn ngẫu nhiên 1 ly nhựa để kiểm tra. Tính xác suất để chọn được ly nhựa hư do máy I sản xuất.",
+      "options": [
+        "A. 0,6.",
+        "B. 0,005.",
+        "C. 0,003.",
+        "D. 0,0062."
+      ],
+      "answer": "C",
+      "note": "Chọn C Gọi A là biến cố “Ly nhựa đó do máy I sản xuất”; B là biến cố “Ly nhựa đó bị hư”. Ta có \\(P\\left( A \\right) = 0,6;P\\left( {\\overline A } \\right) = 0,4;P\\left( {B|A} \\right) = 0,005;P\\left( {B|\\overline A } \\right) = 0,008\\). Khi đó \\(P\\left( {AB} \\right) = P\\left( A \\right).P\\left( {B|A} \\right) = 0,6.0,005 = 0,003\\)."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Có hai chiếc hộp đựng 30 chiếc bút chì có hình dáng, kích thước giống nhau. Sau khi thống kê nhận được bảng số liệu về màu sắc và số lượng bút như sau: Lấy ngẫu nhiên một chiếc bút từ hộp I bỏ sang hộp II. Sau đó, lấy ngẫu nhiên một chiếc bút từ hộp II. Xác suất để chiếc bút lấy ra từ hộp II có màu xanh là",
+      "options": [
+        "A. \\(\\frac{3}{4}\\) .",
+        "B. \\(\\frac{1}{4}\\) .",
+        "C. \\(\\frac{6}{{11}}\\) .",
+        "D. \\(\\frac{{23}}{{44}}\\) ."
+      ],
+      "answer": "D",
+      "note": "Chọn D Gọi A là biến cố “Chiếc bút lấy từ hộp I bỏ sang hộp II là màu xanh”; B là biến cố “Chiếc bút lấy ra từ hộp II có màu xanh”. Theo đề ta có \\(P\\left( A \\right) = \\frac{{15}}{{20}} = \\frac{3}{4} \\Rightarrow P\\left( {\\overline A } \\right) = \\frac{1}{4}\\); \\(P\\left( {B|A} \\right) = \\frac{6}{{11}};P\\left( {B|\\overline A } \\right) = \\frac{5}{{11}}\\). Khi đó \\(P\\left( B \\right) = P\\left( A \\right).P\\left( {B|A} \\right) + P\\left( {\\overline A } \\right).P\\left( {B|\\overline A } \\right)\\)\\( = \\frac{3}{4}.\\frac{6}{{11}} + \\frac{1}{4}.\\frac{5}{{11}} = \\frac{{23}}{{44}}\\)."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-3-10-bai-tap-van-dung-dinh-nghia-dao-ham-vao-giai-quyet-mot-so-ba",
+  "sourceId": "vietjack:3-10-bai-tap-van-dung-dinh-nghia-dao-ham",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.10 Bài tập Vận dụng định nghĩa đạo hàm vào giải quyết một số bài toán thực tiễn (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Một vật rơi tự do với phương trình chuyển động s = 1 2 gt 2 , trong đó g = 9,8 m/s 2 và t tính bằng giây. Vận tốc của vật tại thời điểm t = 7 là",
+      "options": [
+        "A. 66,8 m/s;",
+        "B. 88,6 m/s;",
+        "C. 68,6 m/s;",
+        "D. 86,6 m/s."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải: Đáp án đúng là: C Vận tốc của vật tại thời điểm t = 7 là: v(7) = s ' (7) = lim t → 7 1 2 ⋅ 9 , 8 t 2 − 1 2 ⋅ 9 , 8 ⋅ 7 2 t − 7 = lim t → 7 4 , 9 t − 7 t + 7 t − 7 = lim t → 7 4 , 9 t + 7 = 68 , 6 . Vậy vận tốc của vật tại thời điểm t = 7 là 68,6 m/s."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho chuyển động thẳng xác định bởi phương trình s(t) = t 3 – t 2 + 2t + 5, trong đó t tính bằng giây, và s tính bằng mét. Vận tốc của chuyển động tại thời điểm t = 3 là:",
+      "options": [
+        "A. 23 m/s;",
+        "B. 32 m/s;",
+        "C. 23 cm/s;",
+        "D. 32 cm/s."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A Vận tốc của vật tại thời điểm t = 3 là: v(3) = s ' (3) = lim t → 3 t 3 − t 2 + 2 t + 5 − 29 t − 3 = lim t → 3 t 3 − t 2 + 2 t − 24 t − 3 = lim t → 3 (t 2 + 2 t + 8 ) = 23 . Vậy vận tốc của vật tại thời điểm t = 3 là 23 m/s."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Chi phí sản xuất x mét vải là C(x) = 1200 + 12x – 0,1x 2 . Ta gọi chi phí biên là chi phí gia tăng để sản xuất thêm một mét vải từ x mét vải lên x + 1 mét vải. Khi đó hàm chi phí biên C ' (x) là:",
+      "options": [
+        "A. 12 + 0,2x;",
+        "B. 0,2x – 12;",
+        "C. –12 – 0,2x;",
+        "D. 12 – 0,2x."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải: Đáp án đúng là: D Ta có: C'(x 0 ) = lim x → x 0 1200 + 12 x − 0 , 1 x 2 − 1200 − 12 x 0 + 0 , 1 x 0 x − x 0 = lim x → x 0 12 ( x − x 0 ) − 0 , 1 ( x 2 − x 0 ) x − x 0 = lim x → x 0 12 − 0 , 1 ( x + x 0 ) = 12 – 0,2x 0 . Vậy C ' (x) = 12 – 0,2x."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho biết điện lượng trong một dây dẫn theo thời gian biểu thị bởi hàm số Q = 5t + 3 (t tính bằng giây, Q tính bằng culông). Tính cường độ của dòng điện trong dây dẫn tại t = 8.",
+      "options": [
+        "A. 4 A;",
+        "B. 5 A;",
+        "C. 6 A;",
+        "D. 8 A."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải: Đáp án đúng là: B Cường độ của dòng điện trong dây dẫn tại t = 8 là I(8) = Q ' (8) = lim t → 8 5 t + 3 − 43 t − 8 = lim t → 8 5 t − 8 t − 8 = lim t → 8 5 = 5 . Vậy I(8) = 5 A."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Một vật được phóng theo phương thẳng đứng lên trên từ mặt đất với vận tốc ban đầu là 19,6 m/s thì độ cao h của nó (tính bằng mét) sau t giây được cho bởi công thức h = 19,6t – 4,9t 2 . Vận tốc của vật khi nó chạm đất là",
+      "options": [
+        "A. 9,6 m/s ;",
+        "B. – 9,6 m/s ;",
+        "C. – 19,6 m/s ;",
+        "D. 19,6 m/s ."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải: Đáp án đúng là: C + Đặt h = f(t) = 19,6t – 4,9t 2 . Với x 0 bất kì, ta có: 0 ) = lim t → t 0 19 , 6 t − 4 , 9 t 2 − 19 , 6 t 0 + 4 , 9 t 0 2 t − t 0 = lim t → t 0 − 4 , 9 t 2 − t 0 2 + 19 , 6 t − t 0 t − t 0 = lim t → t 0 − 4 , 9 t − 4 , 9 t 0 + 19 , 6 = − 9 , 8 t 0 + 19 , 6 . Vậy hàm số h = 19,6t – 4,9t 2 có đạo hàm là hàm số h ' = –9,8t + 19,6. Khi vật chạm đất thì h = 0, tức là 19,6t – 4,9t 2 = 0, tức là t = 0 hoặc t = 4. Khi t = 4, vận tốc của vật khi nó chạm đất là v(4) = h ' (4) = –9,8 ∙ 4 + 19,6 = –19,6 (m/s)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho chuyển động thẳng có phương trình s(t) = 1 3 t 3 − 4 t 2 + 20 t − 13 , trong đó s tính bằng centimét, t tính bằng giây. Vận tốc nhỏ nhất của chuyển động là:",
+      "options": [
+        "A. 4 cm/s;",
+        "B. 3,5 cm/s;",
+        "C. 2 cm/s;",
+        "D. 1,8 cm/s."
+      ],
+      "answer": "A",
+      "note": "Đáp án do hệ thống đối chiếu chuẩn xác"
+    }
+  ]
+}

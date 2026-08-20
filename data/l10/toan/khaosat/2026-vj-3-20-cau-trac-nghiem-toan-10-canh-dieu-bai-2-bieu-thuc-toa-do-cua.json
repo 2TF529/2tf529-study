@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-3-20-cau-trac-nghiem-toan-10-canh-dieu-bai-2-bieu-thuc-toa-do-cua",
+  "sourceId": "vietjack:3-20-cau-trac-nghiem-toan-10-canh-dieu-b",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.20 câu trắc nghiệm Toán 10 Cánh diều Bài 2. Biểu thức tọa độ của các phép toán vectơ (Đúng sai - trả lời ngắn) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho \\(\\overrightarrow a = \\left( { - 4;1} \\right)\\) và \\(\\overrightarrow b = \\left( { - 3; - 2} \\right)\\). Tọa độ \\(\\overrightarrow c = \\overrightarrow a + 2\\overrightarrow b \\) là",
+      "options": [
+        "A. \\(\\overrightarrow c = \\left( {12; - 2} \\right)\\).",
+        "B. \\(\\overrightarrow c = \\left( { - 10; - 3} \\right)\\).",
+        "C. \\(\\overrightarrow c = \\left( { - 1;3} \\right)\\).",
+        "D. \\(\\overrightarrow c = \\left( {1; - 3} \\right)\\)."
+      ],
+      "answer": "B",
+      "note": "\\(\\overrightarrow c = \\overrightarrow a + 2\\overrightarrow b = \\left( { - 4 + 2 \\cdot \\left( { - 3} \\right);1 + 2 \\cdot \\left( { - 2} \\right)} \\right) = \\left( { - 10; - 3} \\right)\\) . Chọn B ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Trong mặt phẳng tọa độ \\(Oxy\\), cho \\(ABCD\\) là hình bình hành biết \\(B\\left( {1;3} \\right),D\\left( { - 3;5} \\right)\\). Tọa độ tâm \\(O\\) của hình bình hành là",
+      "options": [
+        "A. \\(O\\left( { - 2;1} \\right)\\).",
+        "B. \\(O\\left( { - 1;4} \\right)\\).",
+        "C. \\(O\\left( { - 2;8} \\right)\\).",
+        "D. \\(O\\left( { - 4;2} \\right)\\)."
+      ],
+      "answer": "B",
+      "note": "Do \\(ABCD\\) là hình bình hành nên \\(O\\) là trung điểm của \\(BD\\) . Do đó \\(O\\left( { - 1;4} \\right)\\) . Chọn B ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trong mặt phẳng tọa độ \\(Oxy\\), cho \\(\\overrightarrow a = \\left( {1; - 2} \\right),\\overrightarrow b = \\left( { - 2; - 6} \\right)\\). Góc giữa hai vectơ \\(\\overrightarrow a \\) và \\(\\overrightarrow b \\) bằng",
+      "options": [
+        "A. \\(45^\\circ \\) .",
+        "B. \\(135^\\circ \\) .",
+        "C. C . \\(60^\\circ \\).",
+        "D. \\(30^\\circ \\) ."
+      ],
+      "answer": "A",
+      "note": "Ta có \\(\\cos \\left( {\\overrightarrow a ,\\overrightarrow b } \\right) = \\frac{{\\overrightarrow a \\cdot \\overrightarrow b }}{{\\left| {\\overrightarrow a } \\right| \\cdot \\left| {\\overrightarrow b } \\right|}}\\)\\( = \\frac{{1 \\cdot \\left( { - 2} \\right) + \\left( { - 2} \\right) \\cdot \\left( { - 6} \\right)}}{{\\sqrt {{1^2} + {{\\left( { - 2} \\right)}^2}} \\cdot \\sqrt {{{\\left( { - 2} \\right)}^2} + {{\\left( { - 6} \\right)}^2}} }} = \\frac{{\\sqrt 2 }}{2} \\Rightarrow \\left( {\\overrightarrow a ,\\overrightarrow b } \\right) = 45^\\circ \\) . Chọn A ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Trong mặt phẳng tọa độ \\(Oxy\\), biết \\(\\overrightarrow u = 7\\overrightarrow i - 2\\overrightarrow j \\). Độ dài vectơ \\(\\overrightarrow u \\) là",
+      "options": [
+        "A. \\(\\sqrt {53} \\).",
+        "B. \\(3\\sqrt 5 \\).",
+        "C. \\(\\sqrt 5 \\).",
+        "D. \\(3\\)."
+      ],
+      "answer": "A",
+      "note": "\\(\\overrightarrow u = 7\\overrightarrow i - 2\\overrightarrow j \\)\\( \\Rightarrow \\overrightarrow u = \\left( {7; - 2} \\right)\\) . Khi đó \\(\\left| {\\overrightarrow u } \\right| = \\sqrt {{7^2} + {{\\left( { - 2} \\right)}^2}} = \\sqrt {53} \\) . Chọn A ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Trong mặt phẳng tọa độ \\(Oxy\\), cho ba điểm \\(A\\left( {2;1} \\right),B\\left( {2;5} \\right),C\\left( { - 3;2} \\right)\\). Tính tích vô hướng \\(\\overrightarrow {AB} \\cdot \\overrightarrow {AC} .\\)",
+      "options": [
+        "A. \\(\\overrightarrow {AB} \\cdot \\overrightarrow {AC} = 4\\).",
+        "B. \\(\\overrightarrow {AB} \\cdot \\overrightarrow {AC} = - 1\\).",
+        "C. \\(\\overrightarrow {AB} \\cdot \\overrightarrow {AC} = - 4\\).",
+        "D. \\(\\overrightarrow {AB} \\cdot \\overrightarrow {AC} = - 26\\)."
+      ],
+      "answer": "A",
+      "note": "Ta có \\(\\overrightarrow {AB} = \\left( {0;4} \\right),\\overrightarrow {AC} = \\left( { - 5;1} \\right)\\) . Khi đó \\(\\overrightarrow {AB} \\cdot \\overrightarrow {AC} = 0 \\cdot \\left( { - 5} \\right) + 4 \\cdot 1 = 4\\) . Chọn A ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho tam giác \\(ABC\\) có \\(A\\left( {2;3} \\right),B\\left( {1; - 3} \\right),C\\left( {0;6} \\right)\\), \\(G\\) là trọng tâm tam giác \\(ABC\\). Khi đó:",
+      "options": [
+        "A. \\(\\overrightarrow {AG} = \\left( { - 1; - 1} \\right)\\).",
+        "B. \\(\\overrightarrow {AG} = \\left( {1;2} \\right)\\).",
+        "C. \\(\\overrightarrow {AG} = \\left( { - 1;2} \\right)\\).",
+        "D. \\(\\overrightarrow {AG} = \\left( {1;3} \\right)\\)."
+      ],
+      "answer": "A",
+      "note": "Vì \\(G\\) là trọng tâm t am giác \\(ABC\\) nên \\(G\\left( {1;2} \\right)\\) . Khi đó \\(\\overrightarrow {AG} = \\left( { - 1; - 1} \\right)\\) . Chọn A ."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Cho điểm \\(A\\left( {3;5} \\right),B\\left( {1;1} \\right)\\) . Điểm \\(M\\) thỏa mãn \\(\\overrightarrow {MA} + \\overrightarrow {MB} = \\overrightarrow 0 \\) thì \\(M\\) có tung độ bằng",
+      "options": [
+        "A. \\(5\\) .",
+        "B. \\(3\\) .",
+        "C. \\( - 2\\) .",
+        "D. \\(1\\) ."
+      ],
+      "answer": "B",
+      "note": "Gọi \\(M\\left( {x;y} \\right)\\) . Ta có \\(\\overrightarrow {MA} = \\left( {3 - x;5 - y} \\right);\\overrightarrow {MB} = \\left( {1 - x;1 - y} \\right)\\) . \\(\\overrightarrow {MA} + \\overrightarrow {MB} = \\overrightarrow 0 \\)\\( \\Leftrightarrow \\overrightarrow {MA} = - \\overrightarrow {MB} \\)\\( \\Leftrightarrow \\left\\{ \\begin{array}{l}3 - x = - \\left( {1 - x} \\right)\\\\5 - y = - \\left( {1 - y} \\right)\\end{array} \\right.\\)\\( \\Leftrightarrow \\left\\{ \\begin{array}{l}x = 2\\\\y = 3\\end{array} \\right.\\) . Tung độ của điểm \\(M\\) bằng 3. Chọn B ."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Trong mặt phẳng tọa độ \\(Oxy\\), cho điểm \\(A\\left( {2;5} \\right),B\\left( {1;1} \\right),C\\left( {3;3} \\right)\\). Tìm tọa độ điểm \\(E\\) sao cho \\(\\overrightarrow {AE} = 3\\overrightarrow {AB} - 2\\overrightarrow {AC} \\).",
+      "options": [
+        "A. \\(\\left( {3; - 3} \\right)\\).",
+        "B. \\(\\left( { - 3;3} \\right)\\).",
+        "C. \\(\\left( { - 3; - 3} \\right)\\).",
+        "D. \\(\\left( { - 2; - 3} \\right)\\)."
+      ],
+      "answer": "C",
+      "note": "Ta có \\(\\overrightarrow {AB} = \\left( { - 1; - 4} \\right),\\overrightarrow {AC} = \\left( {1; - 2} \\right)\\). Khi đó \\(3\\overrightarrow {AB} - 2\\overrightarrow {AC} = \\left( { - 5; - 8} \\right)\\). Gọi \\(E\\left( {x;y} \\right)\\). Ta có \\(\\overrightarrow {AE} = \\left( {x - 2;y - 5} \\right)\\). Vì \\(\\overrightarrow {AE} = 3\\overrightarrow {AB} - 2\\overrightarrow {AC} \\) nên \\(\\left\\{ \\begin{array}{l}x - 2 = - 5\\\\y - 5 = - 8\\end{array} \\right.\\)\\( \\Leftrightarrow \\left\\{ \\begin{array}{l}x = - 3\\\\y = - 3\\end{array} \\right. \\Rightarrow E\\left( { - 3; - 3} \\right)\\). Chọn C."
+    }
+  ]
+}

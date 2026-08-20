@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-2-cac-dang-bai-tap-xac-suat-cua-bien-co-lien-quan-toi-phep-thu-lo",
+  "sourceId": "vietjack:2-cac-dang-bai-tap-xac-suat-cua-bien-co-",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.Các dạng bài tập Xác suất của biến cố liên quan tới phép thử lớp 9 (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Một hộp đựng 25 tấm thẻ được ghi số 1; 2; …; 25. Bạn Hà rút ngẫu nhiên một tấm thẻ từ hộp sao cho tấm thẻ ghi số nguyên tố. Khi đó, số kết quả thuận lợi cho biến cố trên là",
+      "options": [
+        "A. 9.",
+        "B. 10.",
+        "C. 11.",
+        "D. 12."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Số các kết quả có thể xảy ra khi bạn Hà rút ngẫu nhiên một tâm thẻ từ hộp là Ω = {1; 2; 3; ….; 25}, do đó không gian mẫu có 25 phần tử. Các kết quả thuận lợi cho biến cố “Bạn Hà rút được thẻ ghi số nguyên tố” là: {2; 3; 5; 7; 9; 11; 13; 17; 19; 23}. Do đó, số phần tử của kết quả thuận lợi là 10."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Trong tập hợp số chẵn S = {0; 2; 4; …; 2020}. Chọn ngẫu nhiên trong tập hợp đó một số sao cho số được chọn không chia hết cho 4. Khi đó, số kết quả thuận lợi của biến cố trên là",
+      "options": [
+        "A. 1011.",
+        "B. 505.",
+        "C. 506.",
+        "D. 508."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Không gian mẫu của phép thử là: Ω = {0; 2; 4; …; 2020}. Do đó, không gian mẫu có số phần tử là: (2020 – 0) : 2 + 1 = 1011 (phần tử). Các kết quả thuận lợi cho biến cố “Số được chọn không chia hết cho 4” là: {2; 6; 10; …; 2018}. Suy ra số kết quả thuận lợi của biến cố là: (2018 – 2) : 4 + 1 = 505 (phần tử)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Chọn ngẫu nhiên một số tự nhiên có 2 chữ số và chia hết cho 5. Khi đó kết quả thuận lợi của biến cố là bao nhiêu?",
+      "options": [
+        "A. 17.",
+        "B. 18.",
+        "C. 19.",
+        "D. 20."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Không gian mẫu của phép thử trên là: Ω = {10; 11; 12;…; 99}. Suy ra số phần tử của không gian mẫu là: (99 – 10) : 1 + 1 = 90 (phần tử). Kết quả thuận lợi cho biến cố “Số được chọn là số chia hết cho 5” là: {10; 15; 20; ….; 95}. Suy ra số kết quả có thể xảy ra là: (95 – 10) : 5 + 1 = 18."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Gieo đồng thời hai viên xúc xắc cân đối và đồng chất sao cho tổng số chấm trên hai mặt nhỏ hơn hoặc bằng 5. Khi đó, số kết quả thuận lợi cho biến cố là",
+      "options": [
+        "A. 36.",
+        "B. 40.",
+        "C. 10.",
+        "D. 20."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Số phần tử của không gian mẫu là: Ω = 6.6 = 36 (phần tử). Ta có bảng sau: Xúc xắc 1 Xúc xắc 2 1 2 3 4 5 6 1 (1; 1) (1; 2) (1; 3) (1; 4) (1; 5) (1; 6) 2 (2; 1) (2; 2) (2; 3) (2; 4) (2; 5) (2; 6) 3 (3; 1) (3; 2) (3; 3) (3; 4) (3; 5) (3; 6) 4 (4; 1) (4; 2) (4; 3) (4; 4) (4; 5) (4; 6) 5 (5; 1) (5; 2) (5; 3) (5; 4) (5; 5) (5; 6) 6 (6; 1) (6; 2) (6; 3) (6; 4) (6; 5) (6; 6) Từ bảng trên, nhận thấy số kết quả thuận lợi của biến cố “tổng số chấm xuất hiện trên hai mặt xúc xắc nhỏ hơn bằng 5” là 10."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Lớp 9A có 40 học sinh, trong đó có 6 học sinh cận thị. Chọn ngẫu nhiên một học sinh của lớp. Kết quả thuận lợi cho biến cố “Học sinh đó không bị cận thị” là",
+      "options": [
+        "A. 40.",
+        "B. 6.",
+        "C. 34.",
+        "D. 24."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Số kết quả thuận lợi cho biến cố “Học sinh được chọn không bị cận thị” là: 40 – 6 = 34 (học sinh)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Một túi đựng các viên bi có cùng khối lượng và cùng kích thước. Trong đó, có 3 viên bi màu đỏ, 4 viên bi màu xanh, 2 viên bi màu vàng. Lấy ngẫu nhiên một viên bi trong túi sao cho lấy được viên bi khác màu đỏ. Khi đó có bao nhiêu kết quả thuận lợi cho biến cố?",
+      "options": [
+        "A. 6.",
+        "B. 7.",
+        "C. 8.",
+        "D. 9."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có, số phần tử không gian mẫu là 3 + 4 + 2 = 9 (phần tử). Số kết quả thuận lợi của biến cố “Lấy được viên bi khác màu đỏ” là 4 + 2 = 6."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Có hai hộp, hộp thứ nhất có 1 quả cầu trắng, 1 quả cầu xanh, hộp thứ hai có 1 quả cầu vàng, 1 quả cầu xanh, 1 quả cầu đen. Chọn ngẫu nhiên từ mỗi hộp một quả cầu để được 2 quả cầu. Số kết quả thuận lợi cho biến cố “Hai quả cầu lấy được có ít nhất một màu xanh” là",
+      "options": [
+        "A. 3.",
+        "B. 5.",
+        "C. 2.",
+        "D. 4."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Ta có bảng sau: Hộp 1 Hộp 2 Trắng (T) Xanh (X) Vàng (V) (V; T) (V; X) Xanh (X) (X; T) (X; X) Đen (Đ) (Đ; T) (Đ; X) Từ bảng trên, ta có kết quả thuận lợi cho biến cố “Hai quả cầu lấy được có ít nhất một màu xanh” là: (V; X); (X; T); (X; X); (Đ; X). Do đó có 4 kết quả thuận lợi."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Từ các chữ số 0; 1; 2; 3, An ghép thành các số có hai chữ số đôi một khác nhau và chọn ngẫu nhiên một số ghép được. Kết quả thuận lợi cho biến cố “Số được chọn là số chẵn” là",
+      "options": [
+        "A. 9.",
+        "B. 8.",
+        "C. 5.",
+        "D. 6."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Số phần tử không gian mẫu là: Ω = {10; 12; 13; 20; 21; 23; 30; 31; 32}. Do đó, không gian mẫu có 9 phần tử. Kết quả thuận lợi cho biến cố “Số được chọn là số chẵn” là {10; 12; 20; 30; 32}. Do đó có 5 kết quả thuận lợi cho biến cố trên."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-2-bo-10-de-thi-cuoi-ki-1-toan-12-chan-troi-sang-tao-co-dap-an",
+  "sourceId": "vietjack:2-bo-10-de-thi-cuoi-ki-1-toan-12-chan-tr",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "cuoiki1",
+  "year": 2026,
+  "title": "2.Bộ 10 đề thi cuối kì 1 Toán 12 Chân trời sáng tạo có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Đồ thị của hàm số nào dưới đây có dạng như đường cong trong hình bên?",
+      "options": [
+        "A. y = x 3 − 2024 x .",
+        "B. y = − x 3 + 3 x .",
+        "C. y = x 3 − 3 x 2 + 2024 .",
+        "D. y = − x 3 + 3 x 2 − 2 ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Đường cong có dạng của đồ thị hàm số bậc 3 với hệ số a > 0 và đi qua gốc tọa độ O nên chỉ có hàm số y = x 3 − 2024 x thỏa mãn yêu cầu bài toán."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Đ ồ thị hàm số y = x + 1 x 2 + x − 2 có bao nhiêu đường tiệm cận đứng?",
+      "options": [
+        "A. 1.",
+        "B. 3.",
+        "C. 2.",
+        "D. 4."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Hàm số có tập xác định là D = ℝ \\ − 2 ; 1 . lim x → 1 + y = lim x → 1 + x + 1 x 2 + x − 2 = + ∞ và lim x → 1 − y = lim x → 1 − x + 1 x 2 + x − 2 = − ∞ nên đường thẳng x = 1 là tiệm cận đứng của đồ thị hàm số. lim x → − 2 + y = lim x → − 2 + x + 1 x 2 + x − 2 = + ∞ và lim x → − 2 − y = lim x → − 2 − x + 1 x 2 + x − 2 = − ∞ nên đường thẳng x = - 2 là tiệm cận đứng của đồ thị hàm số. Vậy đồ thị hàm số có tiệm cận đứng."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Giá trị lớn nhất của hàm số f x = x + 4 x trên − 4 ; 0 là",
+      "options": [
+        "A. -4.",
+        "B. 4.",
+        "C. -5.",
+        "D. 5."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có f ' x = 1 − 4 x 2 ; f ' x = 0 ⇔ x = 2 hoặc x = -2 . Bảng biến thiên của hàm số đã cho trên khoảng − 4 ; 0 : Từ bảng biến thiên, ta thấy max − 4 ; 0 f x = f − 2 = − 4 ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hàm số y = x 2 + a x + b có đồ thị là đường cong trong hình vẽ bên. Giá trị của T = a+ b bằng",
+      "options": [
+        "A. T = 0 .",
+        "B. T = - 2 .",
+        "C. T = - 1 .",
+        "D. T = 2 ."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Từ đồ thị, ta thấy đồ thị hàm số có tiệm cận đứng x = 1 . Vì đồ thị hàm số có tiệm cận đứng x = 1 ta có b = − 1 . Đồ thị đi qua gốc toạ độ nên ta có: a = 0 Vậy T = a + b = − 1"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hình lập phương A B C D . A ' B ' C ' D ' . Hai vectơ nào có giá cùng nằm trong mặt phẳng (ABCD) .",
+      "options": [
+        "A. D D ' → , A C → .",
+        "B. A D ' → , A D →",
+        "C. A D ' → , A C → .",
+        "D. D . A C → , A D → ."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Hai vectơ A C → , A D → có giá cùng nằm trong mặt phẳng (ABCD) ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong không gian Oxyz , cho biểu diễn của vectơ a → qua các vectơ đơn vị là a → = 2 i → + k → − 3 j → . Tọa độ của vectơ a → là",
+      "options": [
+        "A. 2 ; − 3 ; 1 .",
+        "B. 1 ; − 3 ; 2 .",
+        "C. 2 ; 1 ; − 3 .",
+        "D. 1 ; 2 ; − 3 ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có: a → = 2 i → + k → − 3 j → = 2 i → − 3 j → + 1. k → ⇒ a → = 2 ; − 3 ; 1"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Trong không gian với hệ toạ độ Oxyz , cho điểm M 4 ; 1 ; − 2 và vectơ u → = 4 ; − 2 ; 6 . Tìm toạ độ điểm N biết rằng M N → = − 1 2 u → .",
+      "options": [
+        "A. 2 ; 2 ; 5 .",
+        "B. 2 ; - 2 ; 5 .",
+        "C. 2 ; 2 ; − 5 .",
+        "D. - 2 ; - 2 ; 5 ."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có: − 1 2 u → = − 2 ; 1 ; − 3 . Gọi N x ; y ; z . Ta có M N → = x − 4 ; y − 1 ; z + 2 . Khi đó M N → = − 1 2 u → ⇔ x − 4 = − 2 y − 1 = 1 z + 2 = − 3 ⇔ x = 2 y = 2 z = − 5 . Vậy N 2 ; 2 ; − 5 ."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Cho tứ diện ABCD . Gọi G là trọng tâm tam giác BCD và điểm M thuộc cạnh AB sao cho A M = 2 B M . Đẳng thức nào sau đây là đúng?",
+      "options": [
+        "A. M G → = A B → + A C → + A D → .",
+        "B. M G → = 1 3 A B → − 1 3 A C → − 1 3 A D → .",
+        "C. M G → = − 1 3 A B → + 1 3 A C → + 1 3 A D → .",
+        "D. M G → = 4 3 A B → − 1 3 A C → − 1 3 A D → ."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có M thuộc cạnh AB và A M = 2 B M nên A M → = 2 3 A B → . Do G là trọng tâm tam giác BCD nên 3 A G → = A B → + A C → + A D → hay A G → = 1 3 A B → + A C → + A D → . Mà M G → = A G → − A M → nên M G → = 1 3 A B → + A C → + A D → − 2 3 A B → = − 1 3 A B → + 1 3 A C → + 1 3 A D → ."
+    }
+  ]
+}

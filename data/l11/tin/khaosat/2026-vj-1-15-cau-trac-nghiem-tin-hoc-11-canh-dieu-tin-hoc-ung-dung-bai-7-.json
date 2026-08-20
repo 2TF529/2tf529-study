@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-11-canh-dieu-tin-hoc-ung-dung-bai-7-",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-11-canh-die",
+  "grade": "l11",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 11 Cánh diều Tin học ứng dụng Bài 7: Các loại kiến trúc của hệ cơ sở dữ liệu có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Kiến trúc nào dưới đây là kiến trúc phổ biến của hệ CSDL tập trung?",
+      "options": [
+        "A. Kiến trúc 1 tầng",
+        "B. Kiến trúc 2 tầng",
+        "C. Kiến trúc 3 tầng",
+        "D. Tất cả các đáp án trên"
+      ],
+      "answer": "D",
+      "note": "Đáp án: D Giải thích: Tất cả các kiến trúc này đều thuộc hệ CSDL tập trung, bao gồm 1 tầng, 2 tầng và 3 tầng."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Đặc điểm nào sau đây không đúng với hệ CSDL phân tán?",
+      "options": [
+        "A. Dữ liệu được lưu trữ trên nhiều máy tính khác nhau",
+        "B. Mỗi trạm có thể xử lý ứng dụng cục bộ",
+        "C. Tất cả dữ liệu đều được lưu trữ tại một máy tính duy nhất",
+        "D. Có khả năng thực hiện ứng dụng toàn cục"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Hệ CSDL phân tán không lưu trữ tất cả dữ liệu tại một máy tính mà phân tán trên nhiều máy tính."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Điều nào sau đây là ưu điểm của hệ CSDL tập trung?",
+      "options": [
+        "A. Khó khăn trong việc quản lý dữ liệu",
+        "B. Dễ dàng trong việc truy cập và điều phối dữ liệu",
+        "C. Tính tin cậy thấp",
+        "D. Không có ứng dụng cục bộ"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Hệ CSDL tập trung cho phép truy cập và điều phối dữ liệu một cách dễ dàng hơn nhờ vào việc lưu trữ tất cả dữ liệu trên một máy tính duy nhất"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Hệ CSDL nào dưới đây được gọi là hệ CSDL phân tán?",
+      "options": [
+        "A. Hệ thống bán vé máy bay với một máy chủ duy nhất",
+        "B. Ngân hàng có nhiều chi nhánh với dữ liệu lưu trữ tại từng chi nhánh",
+        "C. Hệ thống quản lý sinh viên tại một trường học",
+        "D. Hệ thống đặt hàng trực tuyến với một cơ sở dữ liệu duy nhất"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Hệ CSDL phân tán cho phép các chi nhánh lưu trữ dữ liệu riêng và tham gia vào các ứng dụng toàn cục"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Kiến trúc nào là kiến trúc đơn giản nhất trong hệ CSDL?",
+      "options": [
+        "A. Kiến trúc 1 tầng",
+        "B. Kiến trúc 2 tầng",
+        "C. Kiến trúc 3 tầng",
+        "D. Kiến trúc khách - chủ"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Kiến trúc 1 tầng là kiến trúc đơn giản nhất khi toàn bộ CSDL được lưu trữ và khai thác tại một máy tính duy nhất."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Đâu là nhược điểm của hệ CSDL phân tán?",
+      "options": [
+        "A. Chi phí cao hơn",
+        "B. Tính sẵn sàng của dữ liệu cao hơn",
+        "C. Khả năng mở rộng linh hoạt",
+        "D. Khó khăn trong việc đảm bảo tính nhất quán dữ liệu"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Hệ CSDL phân tán thường có chi phí cao hơn do tính phức tạp trong việc quản lý và bảo trì hệ thống."
+    }
+  ]
+}

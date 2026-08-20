@@ -1,0 +1,78 @@
+{
+  "id": "2026-vj-9-10-bai-tap-do-phong-xa-co-loi-giai",
+  "sourceId": "vietjack:9-10-bai-tap-do-phong-xa-co-loi-giai",
+  "grade": "l12",
+  "subjectSlug": "li",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "9.10 bài tập Độ phóng xạ (có lời giải)",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho biết chu kì bán rã của Ra224 là 3,7 (ngày), số Avôgađro là 6,02.10 23 . Một nguồn phóng xạ Ra có khối lượng 35,84 (pg) thì độ phóng xạ là",
+      "options": [
+        "A. 3,7 (Ci).",
+        "B. 5,6 (Ci).",
+        "C. 3,5 (Ci).",
+        "D. 5,4 (Ci)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là B \\({H_0} = \\frac{{\\ln 2}}{T}.\\frac{{{m_0}}}{{{A_{me}}}}{N_A} = \\frac{{\\ln 2}}{{3,7.86400}}.\\frac{{35,{{84.10}^{ - 6}}}}{{224}}.6,{023.10^{23}}.\\frac{{1Ci}}{{3,{{7.10}^{10}}}} \\approx 5,6\\left( {Ci} \\right)\\)"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cm 244 là một nguyên tố phóng xạ với hằng số phóng xạ 1,21.10 − 9 s − 1 . Ban đầu một mẫu có độ phóng bằng 104 phân rã/s, thì độ phóng xạ sau 3650 ngày là",
+      "options": [
+        "A. 0,68 (Bq).",
+        "B. 2,21.10 (Bq).",
+        "C. 6,83.10 3 (Bq).",
+        "D. 6,83.10 2 (Bq)."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là C \\(H = {H_0}{e^{ - \\lambda t}} = {10^4}.{e^{ - 1,{{21.10}^{ - 9}}.3650.86400}} \\approx 6,{83.10^3}\\left( {Bq} \\right).\\)"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Chất phóng xạ \\(_{27}^{60}Co\\) có chu kì bán rã 5,33 (năm) (xem 1 năm = 365 ngày), một đồng vị khác \\(_{27}^{59}Co\\) không có tính phóng xạ. Một loại côban tự nhiên là hỗn hợp của hai đồng vị Co60 và Co59 với tỉ lệ khối lượng tương ứng là 1:49. Biết số Avôgađrô 6,023.10 23 . Độ phóng xạ ban đầu của 15 (g) hỗn hợp là",
+      "options": [
+        "A. 274 (Ci).",
+        "B. 275 (Ci).",
+        "C. 336 (Ci).",
+        "D. 97,4 (Ci)."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là C \\({H_0} = \\frac{{\\ln 2}}{T}\\frac{{m\\left( a \\right).{a_1}\\% }}{{{A_1}}}{N_A}\\) \\({H_0} = \\frac{{\\ln 2}}{{5,33.365.86400}}\\frac{{12\\left( g \\right).2\\% }}{{60}}.6,{023.10^{23}}\\left( {Bq} \\right)x\\frac{{1Ci}}{{3,{{7.10}^{10}}}} \\approx 336\\left( {Ci} \\right).\\)"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Một khối phóng xạ có độ phóng xạ ban đâu H 0 , gồm 2 chât phóng xạ có số hạt nhân ban đầu bằng nhau. Chu kì bán rã của chúng lần lượt là T 1 = 2 h và T 2 = 3 h. Sau 6 h, độ phóng xạ của khối chất còn lại là",
+      "options": [
+        "A. 7H 0 /40.",
+        "B. 3H 0 /16.",
+        "C. 9H 0 /40.",
+        "D. 5H 0 /16."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là A \\({H_0} = \\frac{{\\ln 2}}{{{T_1}}}{N_0} + \\frac{{\\ln 2}}{{{T_2}}}{N_0} \\Rightarrow {N_0}\\ln 2 = \\frac{6}{5}{H_0}\\) \\( \\Rightarrow H = \\frac{{\\ln 2}}{{{T_1}}}{N_0}{e^{ - \\frac{{\\ln 2}}{{{T_1}}}t}} + \\frac{{\\ln 2}}{{{T_2}}}{N_0}{e^{ - \\frac{{\\ln 2}}{{{T_2}}}t}} = \\frac{{7{H_0}}}{{40}}.\\) Chú ý: H 0 = Δ N 0 Δ t 0 H = Δ N Δ t → H = H 0 e ln 2 T t Δ N Δ t = Δ N 0 Δ t 0 . e − ln 2 T t"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Một mẫu phóng xạ Si31 ban đầu trong 5 phút có 196 nguyên tử bị phân rã, nhưng sau đó 5,2 giờ (kể từ t = 0) cùng trong 5 phút chỉ có 49 nguyên tử bị phân rã. Chu kỳ bán rã của Si31 là",
+      "options": [
+        "A. 2,6 giờ.",
+        "B. 3,3 giờ.",
+        "C. 4,8 giờ.",
+        "D. 5,2 giờ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là A \\(\\frac{{\\Delta N}}{{\\Delta t}} = \\frac{{\\Delta {N_0}}}{{\\Delta {t_0}}}.{e^{ - \\frac{{\\ln 2}}{T}t}} \\Rightarrow \\frac{{49}}{5} = \\frac{{196}}{5}{e^{ - \\frac{{\\ln 2}}{T}t}} \\Rightarrow T \\approx 2,6\\left( h \\right).\\)"
+    }
+  ]
+}

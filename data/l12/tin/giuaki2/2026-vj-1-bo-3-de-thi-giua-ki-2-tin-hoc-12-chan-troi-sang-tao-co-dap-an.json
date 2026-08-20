@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-1-bo-3-de-thi-giua-ki-2-tin-hoc-12-chan-troi-sang-tao-co-dap-an",
+  "sourceId": "vietjack:1-bo-3-de-thi-giua-ki-2-tin-hoc-12-chan-",
+  "grade": "l12",
+  "subjectSlug": "tin",
+  "examType": "giuaki2",
+  "year": 2026,
+  "title": "1.Bộ 3 đề thi giữa kì 2 Tin học 12 Chân trời sáng tạo có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Nếu một phần tử có CSS là {width: 300px; padding: 10px; border: 2px solid black;}, chiều rộng thực tế hiển thị trên trang là bao nhiêu?",
+      "options": [
+        "A. 300px.",
+        "B. 320px.",
+        "C. 324px.",
+        "D. 330px."
+      ],
+      "answer": "C",
+      "note": "Chọn C 300px + 10px padding trái + 10px padding phải + 2px border trái + 2px border phải = 324px"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Đoạn mã &lt;ul&gt;&lt;li&gt;A&lt;/li&gt;&lt;li style=\"list-style-type: none;\" &gt;B&lt;/li&gt; &lt;li&gt;C&lt;/li&gt; &lt;/ul&gt; sẽ hiển thị như thế nào?",
+      "options": [
+        "A. Cả 3 mục đều có dấu đầu dòng.",
+        "B. Chỉ mục B không có dấu đầu dòng.",
+        "C. Chỉ mục A và C không có dấu đầu dòng.",
+        "D. Không mục nào có dấu đầu dòng."
+      ],
+      "answer": "B",
+      "note": "Chọn B Ưu tiên áp dụng CSS nội tuyến"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trong biểu mẫu &lt;form&gt;&lt;input type=\"checkbox\" name=\"hobby\" value=\"1\"&gt; &lt;input type=\"checkbox\" name=\"hobby\" value=\"2\"&gt;&lt;/form&gt;, nếu chọn cả hai ô, dữ liệu gửi đi sẽ là gì?",
+      "options": [
+        "A. hobby=1.",
+        "B. hobby=2.",
+        "C. hobby=1&hobby=2.",
+        "D. Không gửi được dữ liệu."
+      ],
+      "answer": "C",
+      "note": "Chọn C"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Một phần tử có CSS {position: relative; top: 20px; left: 30px;} sẽ dịch chuyển như thế nào so với vị trí ban đầu?",
+      "options": [
+        "A. Xuống 20px, sang trái 30px.",
+        "B. Xuống 20px, sang phải 30px.",
+        "C. Lên 20px, sang phải 30px.",
+        "D. Không dịch chuyển."
+      ],
+      "answer": "B",
+      "note": "Chọn B Hiểu cách position: relative hoạt động"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Nếu &lt;body&gt; có thẻ &lt;p&gt; bên trong có ch thước chữ của &lt;p&gt; là bao nhiêu pixel?",
+      "options": [
+        "A. 10px.",
+        "B. 20px.",
+        "C. 25px.",
+        "D. 30px."
+      ],
+      "answer": "B",
+      "note": "Chọn B"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Đoạn mã &lt;a href=\"#\"&gt;Click&lt;/a&gt; khi nhấp vào sẽ làm gì",
+      "options": [
+        "A. Tải lại trang hiện tại.",
+        "B. Mở trang mới trắng.",
+        "C. Không làm gì ngoài nhảy lên đầu trang.",
+        "D. Báo lỗi."
+      ],
+      "answer": "C",
+      "note": "Chọn C"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Trong CSS, nếu một phần tử có giá trị các thuộc tính {display: inline; width: 100px;}, điều gì sẽ xảy ra?",
+      "options": [
+        "A. Phần tử có chiều rộng 100px và nằm ngang.",
+        "B. Thuộc tính width bị bỏ qua.",
+        "C. Phần tử chuyển thành block.",
+        "D. Phần tử bị ẩn."
+      ],
+      "answer": "B",
+      "note": "Chọn B Phần tử loại inline không áp dụng thuộc tính width."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Thẻ &lt;table&gt; trong HTML dùng để làm gì?",
+      "options": [
+        "A. Tạo bảng.",
+        "B. Tạo biểu mẫu.",
+        "C. Chèn hình ảnh.",
+        "D. Định dạng văn bản."
+      ],
+      "answer": "A",
+      "note": "Chọn A"
+    }
+  ]
+}

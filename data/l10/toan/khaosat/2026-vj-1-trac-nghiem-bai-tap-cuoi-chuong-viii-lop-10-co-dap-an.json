@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-1-trac-nghiem-bai-tap-cuoi-chuong-viii-lop-10-co-dap-an",
+  "sourceId": "vietjack:1-trac-nghiem-bai-tap-cuoi-chuong-viii-l",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.Trắc nghiệm Bài tập cuối chương VIII lớp 10 (có đáp án)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho các số 0; 1; 2; 3; 4; 5; 6 có thể lập được bao nhiêu số tự nhiên lẻ gồm 4 chữ số đôi một khác nhau",
+      "options": [
+        "A. 300;",
+        "B. 261;",
+        "C. 235;",
+        "D. 679."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A Gọi số cần lập a b c d ¯ , a ≠ 0. Công đoạn 1, chọn số d có 3 cách chọn (Vì a b c d ¯ là số lẻ nên d chỉ có thể chọn một trong 3 số 1; 3; 5). Công đoạn 2, chọn số a có 5 cách chọn (Vì a ≠ 0; a ≠ d nên a không được chọn số 0 và số d đã chọn). Công đoạn 3, chọn số b có 5 cách chọn (Vì b ≠ a; b ≠ d nên b không được chọn lại số a, d đã chọn). Công đoạn 4, chọn số c có 4 cách chọn (Vì c ≠ a; c ≠ b; c ≠ d nên c không được chọn lại số a, b, d đã chọn) . Tổng kết, áp dụng quy tắc nhân ta có số các số tự nhiên lẻ gồm 4 chữ số đôi một khác nhau là: 3.5.5.4 = 300."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho các số 1; 2; 3; 4; 5; 6; 7; 8 có thể lập được bao nhiêu số tự nhiên lẻ gồm 5 chữ số đôi một khác nhau sao các số này lẻ không chia hết cho 5.",
+      "options": [
+        "A. 5120;",
+        "B. 3523;",
+        "C. 2520;",
+        "D. 3145."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là: C Gọi số cần lập a b c d e ¯ , a ≠ 0; a, b, c, d, e ∈ {1; 2; 3; 4; 5; 6; 7; 8}. Công đoạn 1, chọn số e có 3 cách chọn (Vì a b c d e ¯ là số lẻ và không chia hết cho 5 nên e chỉ có thể chọn một trong 3 số 1; 3; 7). Công đoạn 2, chọn số a có 7 cách chọn (Vì a ≠ 0;a ≠ e nên a không được chọn số e đã chọn). Công đoạn 3, chọn số b có 6 cách chọn (Vì b ≠ a; b ≠ e nên b không được chọn lại số a, e đã chọn). Công đoạn 4, chọn số c có 5 cách chọn (Vì c ≠ a; c ≠ b; c ≠ e nên c không được chọn lại số a, b, e đã chọn) . Công đoạn 5, chọn số d có 4 cách chọn (Vì d ≠ a; d ≠ b; d ≠ c; d ≠ e nên d không được chọn lại số a, b, c, e đã chọn) . Vậy áp dụng quy tắc nhân ta có số các số tự nhiên gồm 5 chữ số đôi một khác nhau sao các số này lẻ không chia hết cho 5 là: 3.7.6.5.4 = 2520 (số)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Có 10 quả cầu đỏ được đánh số từ 1 đến 10, 7 quả cầu xanh được đánh số từ 1 đến 7 và 8 quả cầu vàng được đánh số từ 1 đến 8. Hỏi có bao nhiêu cách lấy ra 3 quả cầu khác màu và khác số.",
+      "options": [
+        "A. 392;",
+        "B. 1023;",
+        "C. 3014;",
+        "D. 391."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A Ta chọn các quả cầu theo trình tự sau: Công đoạn 1. Chọn quả cầu xanh: 7 cách chọn (Vì cầu xanh được chọn tuỳ ý từ 1 đến 7). Công đoạn 2, Chọn quả cầu vàng: có 7 cách chọn (Vì số đánh trên cầu vàng không được chọn lại số đã đánh trên quả cầu xanh đã chọn). Công đoạn 3, Chọn quả cầu đỏ: có 8 cách chọn (Vì số trên quả cầu đỏ chọn không được chọn lại các số mà quả cầu xanh và quả cầu vàng đã chọn). Vậy số cách lấy ra 3 quả cầu khác màu và khác số là 7.7.8 = 392 cách chọn."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Với n là số tự nhiên thỏa mãn C n − 4 n − 6 + n A n 2 = 454 , hệ số của số hạng chứa x 4 trong khai triển nhị thức 2 x − x 3 n ( với x ≠ 0 ) bằng",
+      "options": [
+        "A. 1972;",
+        "B. 786;",
+        "C. 1692;",
+        "D. – 1792."
+      ],
+      "answer": "D",
+      "note": "Đáp án do hệ thống đối chiếu chuẩn xác"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Lớp 10A có 20 học sinh nam và 25 học sinh nữ. Thầy giáo có bao nhiêu cách chọn ra hai học sinh để thi đấu cầu lông đôi nam nữ.",
+      "options": [
+        "A. 20;",
+        "B. 25;",
+        "C. 45;",
+        "D. 500."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải Đáp án đúng là: D Vì thi đấu cầu lông đôi nam, nữ nên thầy giáo phải chọn 1 nam và 1 nữ Công đoạn 1, chọn học sinh nam có 20 cách Công đoạn 2, chọn học sinh nữ có 25 cách Vậy áp dụng quy tắc nhân có 20.25 = 500 (cách chọn)"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong khai triển nhị thức (x + 2y) 5 có bao nhiêu số hạng",
+      "options": [
+        "A. 4;",
+        "B. 5;",
+        "C. 6;",
+        "D. 7."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là: C Trong khai triển nhị thức (a + b) n có n + 1 số hạng Vậy trong khai triển nhị thức (x + 2y) 5 có 5 + 1 = 6 số hạng"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Lớp 10A có 20 học sinh nữ và 15 học sinh nam. Thầy giáo có bao nhiêu cách chọn ra một học sinh tham gia đội xung kích của trường",
+      "options": [
+        "A. 20;",
+        "B. 15;",
+        "C. 35;",
+        "D. 300."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là: C Vì chọn ra một học sinh bất kỳ nên thầy giáo có thể chọn học sinh nam hoặc học sinh nữ. Công đoạn 1, chọn học sinh nữ có 20 cách Công đoạn 2, chọn học sinh nam có 15 cách Tổng kết, áp dụng quy tắc cộng có 20 + 15 = 35 (cách chọn)"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Có bao nhiêu cách xếp 8 người ngồi vào một bàn tròn",
+      "options": [
+        "A. 8!;",
+        "B. 8 8 ;",
+        "C. 7!;",
+        "D. 8 7 ."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là: C Vì xếp 8 người ngồi vào bàn tròn nên vị trí xếp người đầu tiên là như nhau có 1 cách xếp. Xếp 7 người còn lại vào 7 vị trí nên có 7! cách xếp. Tổng kết, xếp 8 người ngồi vào một bàn tròn có 1.7! = 7! (cách xếp)"
+    }
+  ]
+}

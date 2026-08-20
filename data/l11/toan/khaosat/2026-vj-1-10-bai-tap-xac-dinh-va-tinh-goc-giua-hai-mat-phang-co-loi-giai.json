@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-10-bai-tap-xac-dinh-va-tinh-goc-giua-hai-mat-phang-co-loi-giai",
+  "sourceId": "vietjack:1-10-bai-tap-xac-dinh-va-tinh-goc-giua-h",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.10 Bài tập Xác định và tính góc giữa hai mặt phẳng (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho hình chóp S.ABCD với đáy ABCD là hình vuông có cạnh 2a, S A = a 6 và vuông góc với đáy. Góc giữa (SBD) và (ABCD) bằng",
+      "options": [
+        "A. 90°;",
+        "B. 30°;",
+        "C. 45°;",
+        "D. 60°."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Gọi O là giao điểm của AC và BD. Suy ra O là trung điểm của AC và BD. Vì ABCD là hình vuông nên AO ^ BD. Mà SA ^ (ABCD) nên SA ^ BD. Lại có AO ^ BD nên BD ^ (SAC) ⇒ BD ^ SO. Do đó góc giữa (SBD) và (ABCD) bằng S O A ^ . Xét ∆ABC vuông tại B, có A C = A B 2 + B C 2 = 2 a 2 . Mà O là trung điểm AC nên A O = A C 2 = a 2 . Xét ∆SAO vuông tại A, tan S O A ^ = S A A O = a 6 a 2 = 3 ⇒ S O A ^ = 60 ° ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hình chóp S.ABC có đáy ABC là tam giác vuông tại A , A B C ^ = 60 ° , tam giác SBC là tam giác đều có cạnh 2a và nằm trong mặt phẳng vuông góc với đáy. Tính tan của góc giữa hai mặt phẳng (SAC) và (ABC).",
+      "options": [
+        "A. 3",
+        "B. 2 3",
+        "C. 3 6",
+        "D. 1 2"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Gọi M là trung điểm của BC. Vì ∆SBC đều nên SM ^ BC, S M = 2 a 3 2 = a 3 . Ta có (SBC) ^ (ABC) và SM ^ BC ⇒ SM ^ (ABC) ⇒ SM ^ AC. Gọi N là trung điểm của AC ⇒ MN // AB mà AB ^ AC suy ra MN ^ AC. Ta có SM ^ AC và MN ^ AC ⇒ AC ^ (SMN) ⇒ AC ^ SN . Do đó góc giữa hai mặt phẳng (SAC) và (ABC) bằng S N M ^ . Xét ∆ABC vuông tại A, có AB = BC∙cos60° = a. Vì MN là đường trung bình của ∆ABC nên M N = A B 2 = a 2 . Xét ∆SMN vuông tại M, tan S N M ^ = S M M N = 2 3 ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho hình chóp S.ABCD có đáy ABCD là hình vuông tâm O , cạnh a . Đường thẳng SO vuông góc với mặt phẳng đáy (ABCD) và S O = a 3 2 . Tính góc giữa hai mặt phẳng (SBC) và (ABCD).",
+      "options": [
+        "A. 30°;",
+        "B. 45°",
+        "C. 60°;",
+        "D. 90°."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Vì SO ^ (ABCD) nên SO ^ BC. Gọi M là trung điểm của BC ⇒ OM ^ BC. Vì SO ^ BC và OM ^ BC nên BC ^ (SOM) ⇒ BC ^ SM. Do đó góc giữa hai mặt phẳng (SBC) và (ABCD) bằng S M O ^ . Vì OM là đường trung bình của ∆ABC nên O M = A B 2 = a 2 . Xét ∆SOM vuông tại O, có tan S M O ^ = S O O M = 3 ⇒ S M O ^ = 60 °"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hình chóp S.ABC có đáy ABC là tam giác vuông tại B , AB = 2, B C = 2 3 , cạnh bên S A = 3 2 và vuông góc với mặt đáy (ABC). Gọi M là trung điểm AB , tính tan của góc giữa hai mặt phẳng (SMC) và mặt đáy (ABC).",
+      "options": [
+        "A. 4 13",
+        "B. 13 4",
+        "C. 1",
+        "D. 2 2"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Vì SA ^ (ABC) nên SA ^ CM. Kẻ AH ^ CM tại H. Vì SA ^ CM và AH ^ CM nên CM ^ (SAH) ⇒ CM ^ SH Do đó góc giữa hai mặt phẳng (SMC) và mặt đáy (ABC) bằng . Vì M là trung điểm của AB nên B M = A B 2 = 1 . Xét ∆CBM vuông tại B, có C M = B M 2 + B C 2 = 1 2 + 2 3 2 = 13 . Ta có S ∆ABC ­ = 2S ∆CMA nên 1 2 A B . B C = 2. 1 2 A H . C M ⇒ 2 3 = A H . 13 ⇒ A H = 2 3 13 . Xét ∆SAH vuông tại A, tan S H A ^ = S A A H = 13 4 ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hình chóp S.ABC có tam giác ABC vuông cân tại B, AB = BC = a, S A = a 3 , SA ^ (ABC). Góc giữa hai mặt phẳng (SBC) và (ABC) là",
+      "options": [
+        "A. 45°;",
+        "B. 60°;",
+        "C. 90°;",
+        "D. 30°."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Vì SA ^ (ABC) nên SA ^ BC mà AB ^ BC (do tam giác ABC vuông cân tại B) nên BC ^ (SAB) ⇒ BC ^ SB. Do đó góc giữa hai mặt phẳng (SBC) và (ABC) là S B A ^ . Xét ∆SAB vuông tại A, tan S B A ^ = S A A B = a 3 a = 3 ⇒ S B A ^ = 60 ° ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho hình chóp S.ABCD có đáy ABCD là hình thang vuông tại A, D, AB là đáy lớn và tam giác ABC là cân tại C , AC = a . Các mặt phẳng (SAB) và (SAC) cùng vuông góc với đáy, cạnh bên S C = a 3 và tạo với mặt phẳng (SAB) một góc bằng 30°. Góc giữa hai mặt phẳng (SAB) và (SAC) bằng",
+      "options": [
+        "A. 30°;",
+        "B. 60°;",
+        "C. 90°;",
+        "D. 45°."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Vì S A B ⊥ A B C D S A C ⊥ A B C D S A B ∩ S A C = S A ⇒ S A ⊥ A B C D . Kẻ CK ^ AB tại K. Vì SA ^ (ABCD) nên SA ^ CK mà CK ^ AB nên CK ^ (SAB). Do đó hình chiếu của SC lên mặt phẳng (SAB) là SK. Do đó . Xét ∆SCK vuông tại K, có CK = SC.sin30 ° = a 3 2 . Vì tam giác ABC cân tại C mà C K = a 3 2 nên tam giác ABC đều. Vì SA ^ (ABCD) nên SA ^ AC, SA ^ AB. Do đó góc giữa hai mặt phẳng (SAB) và (SAC) bằng B A C ^ = 60 ° ."
+    }
+  ]
+}

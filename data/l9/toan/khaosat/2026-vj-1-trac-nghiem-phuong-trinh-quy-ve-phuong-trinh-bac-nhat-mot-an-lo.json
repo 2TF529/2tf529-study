@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-trac-nghiem-phuong-trinh-quy-ve-phuong-trinh-bac-nhat-mot-an-lo",
+  "sourceId": "vietjack:1-trac-nghiem-phuong-trinh-quy-ve-phuong",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.Trắc nghiệm Phương trình quy về phương trình bậc nhất một ẩn lớp 9 (có đáp án)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: I. Nhận biết Phương trình nào sau đây là phương trình tích?",
+      "options": [
+        "A. \\(x + 5 = x - 3\\).",
+        "B. \\(\\left( {x + 5} \\right)\\left( {x - 3} \\right) = 1\\).",
+        "C. \\(\\left( {x + 5} \\right)\\left( {x - 3} \\right) = 0\\).",
+        "D. \\(\\left( {x + 5} \\right)\\left( {x - 3} \\right) \\ne 0\\)."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Phương trình tích là \\(\\left( {x + 5} \\right)\\left( {x - 3} \\right) = 0\\)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Phương trình \\(3\\left( {x - 5} \\right) - 2x\\left( {5 - x} \\right) = 0\\) biến đổi về phương trình tích có dạng là",
+      "options": [
+        "A. \\(\\left( {x - 5} \\right)\\left( {3 - 2x} \\right) = 0\\).",
+        "B. \\(\\left( {x - 5} \\right)\\left( {2x - 3} \\right) = 0\\).",
+        "C. \\(\\left( {x - 5} \\right)\\left( {3 + 2x} \\right) = 0\\).",
+        "D. \\(\\left( {5 - x} \\right)\\left( {3 - 2x} \\right) = 0\\)."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có: \\(3\\left( {x - 5} \\right) - 2x\\left( {5 - x} \\right) = 0\\) \\(3\\left( {x - 5} \\right) + 2x\\left( {x - 5} \\right) = 0\\) \\[\\left( {x - 5} \\right)\\left( {3 + 2x} \\right) = 0\\]. Vậy ta chọn phương án C."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Phương trình nào dưới đây là phương trình chứa ẩn ở mẫu?",
+      "options": [
+        "A. \\(\\frac{{2x}}{3} - 4 = 0\\).",
+        "B. \\(\\frac{{x + 1}}{{2x}} + 3 = 0\\).",
+        "C. \\[\\frac{{x + 1}}{2} = \\frac{{x + 3}}{4}\\].",
+        "D. \\(\\frac{{x - 1}}{2} = 0\\)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Phương trình chứa ẩn ở mẫu là \\(\\frac{{x + 1}}{{2x}} + 3 = 0\\)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Điều kiện xác định của phương trình \\(\\frac{{x + 1}}{{x - 6}} + 3x = \\frac{{x - 5}}{{{x^2} + 6}}\\) là",
+      "options": [
+        "A. \\(x \\ne - 6\\).",
+        "B. \\(x \\ne 6\\).",
+        "C. \\(x \\ne 6\\) và \\[x \\ne 0\\].",
+        "D. \\(x \\ne 6\\) và \\(x \\ne - 6\\)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Điều kiện xác định của phương trình là: \\(x - 6 \\ne 0\\) (do \\({x^2} + 6 > 0\\) với mọi \\(x \\in \\mathbb{R})\\) hay \\(x \\ne 6\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Mẫu thức chung đơn giản nhất khi quy đồng mẫu thức hai vế của phương trình \\(\\frac{{x + 3}}{{x - 3}} + \\frac{{2x - 1}}{{3 - x}} = 5\\) là",
+      "options": [
+        "A. \\({\\left( {x - 3} \\right)^2}\\).",
+        "B. \\(\\left( {x - 3} \\right)\\left( {3 - x} \\right)\\).",
+        "C. \\(x - 3\\).",
+        "D. \\(5\\left( {x - 3} \\right)\\)."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta viết phương trình \\(\\frac{{x + 3}}{{x - 3}} + \\frac{{2x - 1}}{{3 - x}} = 5\\) thành \\(\\frac{{x + 3}}{{x - 3}} - \\frac{{2x - 1}}{{x - 3}} = 5\\) Do đó mẫu chung đơn giản nhất khi quy đồng mẫu thức hai vế của phương trình đó là \\(x - 3\\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Gọi \\(S\\) là tập hợp tất cả các nghiệm của phương trình \\[ - 4\\left( {x - 5} \\right)\\left( {9 - 3x} \\right) = 0\\]. Khẳng định nào sau đây là đúng?",
+      "options": [
+        "A. \\[S = \\left\\{ { - 5;3} \\right\\}.\\]",
+        "B. \\[S = \\left\\{ {5; - 3} \\right\\}.\\]",
+        "C. \\[S = \\left\\{ { - 5; - 3} \\right\\}.\\]",
+        "D. \\[S = \\left\\{ {5;3} \\right\\}.\\]"
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Giải phương trình: \\[ - 4\\left( {x - 5} \\right)\\left( {9 - 3x} \\right) = 0\\] \\[\\left( {x - 5} \\right)\\left( {9 - 3x} \\right) = 0.\\] \\[x - 5 = 0\\] hoặc \\[9 - 3x = 0\\] \\[x = 5\\] hoặc \\[x = 3.\\] Như vậy, các nghiệm của phương trình đã cho là \\[x = 5;\\] \\[x = 3.\\] Khi đó tập hợp tất cả các nghiệm của phương trình đã cho là \\[S = \\left\\{ {5;\\,\\,3} \\right\\}.\\] Vậy ta chọn phương án D."
+    }
+  ]
+}

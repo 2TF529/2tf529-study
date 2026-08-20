@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-10-bai-tap-nhan-biet-chung-minh-day-so-la-mot-cap-so-nhan-co-lo",
+  "sourceId": "vietjack:1-10-bai-tap-nhan-biet-chung-minh-day-so",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.10 Bài tập Nhận biết, chứng minh dãy số là một cấp số nhân (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Trong các dãy số dưới đây, dãy số nào là một cấp số nhân?",
+      "options": [
+        "A. n + 1 2 n + 1",
+        "B. u n = 2n + 10;",
+        "C. \\(\\left\\{ \\begin{array}{l}{u_1} = 3\\\\{u_{n + 1}} = \\frac{9}{{{u_n}}}\\end{array} \\right.\\) ;",
+        "D. \\(\\left\\{ \\begin{array}{l}{u_1} = 3\\\\{u_{n + 1}} = {u_n} + 6\\end{array} \\right.\\) ."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Xét dãy số (u n ): \\(\\left\\{ \\begin{array}{l}{u_1} = 3\\\\{u_{n + 1}} = \\frac{9}{{{u_n}}}\\end{array} \\right.\\) ta có: \\[\\frac{{{u_{n + 1}}}}{{{u_n}}} = \\frac{9}{{{u_n}}}:\\frac{9}{{{u_{n - 1}}}} = \\frac{{{u_{n - 1}}}}{{{u_n}}} \\Rightarrow {{\\rm{u}}_{{\\rm{n}} + 1}} = {{\\rm{u}}_{{\\rm{n}} - 1}}{\\rm{ }}\\forall n \\ge 2.{\\rm{ }}\\] Do đó có: u 1 = u 3 = u 5 = … = u 2n+ 1 = ... (1) Và u 2 = u 4 = u 6 = ... = u 2n = ... (2) Theo đề bài có \\[{{\\rm{u}}_1} = 3 \\Rightarrow {u_2} = \\frac{9}{{{u_1}}} = 3 \\,\\, \\left( 3 \\right)\\] Từ (1), (2) ,(3) suy ra u 1 = u 2 = u 3 =...= u 2n = u 2n+ 1 =.... Vậy (u n ) là cấp số nhân với công bội q = 1."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Trong các dãy số dưới đây, dãy số nào là cấp số nhân?",
+      "options": [
+        "A. \\({u_n} = \\frac{{10}}{{{8^n}}};\\)",
+        "B. u n = 8 n ;",
+        "C. u n = 2n + 3;",
+        "D. u n = n 3 – 1."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có: \\[{u_{n + 1}} = \\frac{{10}}{{{8^{n + 1}}}}\\] Xét tỉ số: \\[\\frac{{{u_{n + 1}}}}{{{u_n}}} = \\frac{{10}}{{{8^{n + 1}}}}:\\frac{{10}}{{{8^n}}} = \\frac{1}{8}\\] (không đổi) Do đó, dãy số (u n ) là cấp số nhân với \\[q = \\frac{1}{8}\\] ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho các dãy số (1): –31; –34; –37; –40; … ; (2): 1; 3; 5; 7; 9; … ; (3): 1; 4; 9; 16; 25; … (4): –2; 2; –2; 2; –2; … . Dãy số nào là một cấp số nhân?",
+      "options": [
+        "A. 1;",
+        "B. 2;",
+        "C. 3;",
+        "D. 4."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Ta có: u 2 = u 1 .(–1); u 3 = u 2 .(–1); u 4 = u 3 .(–1); … Do đó, dãy số (4) là một cấp số nhân có q = –1."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho các dãy số như dưới đây, dãy số nào là cấp số nhân?",
+      "options": [
+        "A. \\({u_n} = {\\left( { - \\frac{1}{5}} \\right)^{n + 10}}\\) ;",
+        "B. u n = n 5 + 1;",
+        "C. u n = 10 + 9n;",
+        "D. u n = n(n + 10)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có: \\({u_{n + 1}} = {\\left( { - \\frac{1}{5}} \\right)^{n + 1 + 10}} = {\\left( {\\frac{{ - 1}}{5}} \\right)^{n + 11}}\\) Xét tỉ số: \\(\\frac{{{u_{n + 1}}}}{{{u_n}}} = {\\left( { - \\frac{1}{5}} \\right)^{n + 11}}:{\\left( { - \\frac{1}{5}} \\right)^{n + 10}} = \\frac{{ - 1}}{5}{\\rm{ }}\\) (không đổi) Do đó, dãy số (u n ) là cấp số nhân."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho các dãy số: v n = 10n + 10; \\({u_n} = \\frac{{{2^n}}}{{{{( - 3)}^{2 - n}}}}\\) ; t n = n.2n; w n = 5 –n . Trong các dãy số này, có bao nhiêu dãy số là cấp số nhân?",
+      "options": [
+        "A. 1;",
+        "B. 2;",
+        "C. 3;",
+        "D. 4."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B • Xét dãy số u n , ta có: \\({u_{n + 1}} = \\frac{{{2^{n + 1}}}}{{{{\\left( { - 3} \\right)}^{2 - (n + 1)}}}} = \\frac{{{2^{n + 1}}}}{{{{\\left( { - 3} \\right)}^{1 - n}}}}\\) ⇒ \\(\\frac{{{u_{n + 1}}}}{{{u_n}}} = \\frac{{{2^{n + 1}}}}{{{{\\left( { - 3} \\right)}^{1 - n}}}}:\\frac{{{2^n}}}{{{{\\left( { - 3} \\right)}^{2 - n}}}} = - 6\\) (không đổi) Do đó, dãy (u n ) là cấp số nhân. • Xét dãy số w n = 5 –n , ta có: w n + 1 = 5 – n – 1 ⇒ w n+1 = 5 –1 .w n ⇒ (w n ) là cấp số nhân."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho dãy số (u n ) được xác định bởi \\(\\left\\{ {\\begin{array}{*{20}{c}}{{u_1} = 2}\\\\{{u_{n + 1}} = 4{u_n} + 9}\\end{array}} \\right.\\) . Dãy số nào dưới đây là một cấp số nhân?",
+      "options": [
+        "A. v n = u n + 3;",
+        "B. v n = u n ;",
+        "C. v n = u n + 4;",
+        "D. v n = u n + 1;"
+      ],
+      "answer": "A",
+      "note": "Ta có: v n = u n + 3 ( 1) nên v n + 1 = u n + 1 + 3 (2). Theo đề bài: u n + 1 = 4u n + 9 ⇒ u n + 1 + 3 = 4u n + 9 + 3 = 4(u n + 3) (3) Thay (1) và (2) vào (3) được: v n + 1 = 4v n ∀ n ≥ 1 \\( \\Rightarrow \\frac{{{v_{n + 1}}}}{{{v_n}}} = 4\\) (không đổi). Vậy (v n ) là cấp số nhân với công bội q = 4 và số hạng đầu v 1 = u 1 + 3 = 5."
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "2026-vj-10-12-bai-tap-tinh-tuoi-cua-thien-the-mau-co-vat-co-loi-giai",
+  "sourceId": "vietjack:10-12-bai-tap-tinh-tuoi-cua-thien-the-ma",
+  "grade": "l12",
+  "subjectSlug": "li",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "10.12 bài tập Tính tuổi của thiên thể, mẫu cổ vật (có lời giải)",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 4: Một mẫu quặng Uran tự nhiên gồm U235 với hàm lượng 0,72% và phần còn lại là U238. Hãy xác định hàm lượng của U235 và thời kì Trái Đất được tạo thành cách đây 4,5 (tỉ năm). Cho biết chu kì bán rã của các đồng vị U235 và U238 lần lượt là 0,704 (tỉ năm) và 4,46 (tỉ năm).",
+      "options": [
+        "A. 22%.",
+        "B. 24%.",
+        "C. 23%.",
+        "D. 25%."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là C \\(\\left\\{ \\begin{array}{l}{m_1} = {m_{10}}{e^{ - \\frac{{\\ln 2}}{{{T_1}}}t}}\\\\{m_2} = {m_{20}}{e^{ - \\frac{{\\ln 2}}{{{T_2}}}t}}\\end{array} \\right. \\Rightarrow \\frac{{{m_1}}}{{{m_2}}} = \\frac{{{m_{10}}}}{{{m_{20}}}}{e^{t\\ln 2\\left( {\\frac{1}{{{T_2}}} - \\frac{1}{{{T_1}}}} \\right)}} \\Rightarrow \\frac{{{m_{10}}}}{{{m_{20}}}} = \\frac{{{m_1}}}{{{m_2}}}{e^{ - t\\ln 2\\left( {\\frac{1}{{{T_2}}} - \\frac{1}{{{T_1}}}} \\right)}}\\) \\( \\Rightarrow \\frac{{{m_{10}}}}{{{m_{20}}}} = \\frac{{0,72}}{{99,28}}{e^{ - 4,5\\ln 2\\left( {\\frac{1}{{4,46}} - \\frac{1}{{0,704}}} \\right)}} \\approx 0,333 \\Rightarrow \\% {m_{10}} = \\frac{{0,303}}{{1,303}} = 23\\% .\\)"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 5: Hạt nhân urani \\(_{92}^{238}U\\) sau một chuỗi phân rã, biến đổi thành hạt nhân chì \\(_{82}^{206}Pb\\) . Trong quá trình đó, chu kỉ bán rã của \\(_{92}^{238}U\\) biến đổi thành hạt nhân chì là 4,47.10 9 năm. Một khối đá được phát hiện có chứa 1,188.10 20 hạt nhân \\(_{92}^{238}U\\) và 6,239.10 18 hạt nhân \\(_{82}^{206}Pb\\). Giả sử khối đá lúc mới hình thành không chứa chì và tất cả lượng chì có mặt trong đó đều là sản phẩm phân rã của \\(_{92}^{238}U\\). Tuổi của khối đá khi được phát hiện là",
+      "options": [
+        "A. 3,3.10 8 năm.",
+        "B. 6,3.10 9 năm.",
+        "C. 3,5.10 7 năm.",
+        "D. 2,5.10 6 năm."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là A \\[\\frac{{{N_{con}}}}{{{N_{me}}}} = \\left( {{e^{\\frac{{\\ln 2}}{T}t}} - 1} \\right) \\Rightarrow \\frac{{6,{{239.10}^{18}}}}{{1,{{88.10}^{20}}}} = {e^{\\frac{{\\ln 2}}{{4,{{47.10}^9}}}t}} - 1 \\Rightarrow t = 3,{3.10^8}\\] (năm)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 6: Đồng vị U238 sau một loạt phóng xạ α và β biến thành chì theo phương trình sau:\\(U238 \\to 8\\alpha + 6{\\beta ^ - } + Pb206\\). Chu kì bán rã của quá trình đó là 4,6 (tỉ năm). Giả sử có một loại đá chỉ chứa U238, không chứa chì. Nếu hiện nay tỉ lệ các khối lượng của Uran và chì trong đá ấy là 37 thì tuổi của đá ấy là bao nhiêu?",
+      "options": [
+        "A. 0,1 tỉ năm.",
+        "B. 0,2 tỉ năm.",
+        "C. 0,3 tỉ năm.",
+        "D. 0,4 tỉ năm."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là B \\[\\frac{{{m_{con}}}}{{{m_{me}}}} = \\frac{{{A_{con}}}}{{{A_{me}}}}\\left( {{e^{\\frac{{\\ln 2}}{T}}} - 1} \\right) \\ Rightarrow \\frac{1}{{37}} = \\frac{{206}}{{238}}\\left( {{e^{\\frac{{\\ln 2}}{{4,6}}}} - 1} \\right) \\Rightarrow t \\approx 0,2\\] (tỉ năm)."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-9-chan-troi-sang-tao-bai-7a-co-dap-an",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-9-chan-troi-san",
+  "grade": "l9",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu trắc nghiệm Tin 9 Chân trời sáng tạo Bài 7a có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Hàm COUNTIF được sử dụng để làm gì?",
+      "options": [
+        "A. Đếm các ô trống trong một vùng dữ liệu.",
+        "B. Đếm các ô có dữ liệu thỏa mãn một điều kiện cụ thể.",
+        "C. Cộng tất cả các số trong một vùng dữ liệu.",
+        "D. Sắp xếp dữ liệu trong một bảng tính."
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Hàm COUNTIF được sử dụng để đếm số lượng ô thỏa mãn một điều kiện xác định trong một vùng dữ liệu."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Công thức =COUNTIF(A1:A10,\"Lương cứng\") sẽ thực hiện điều gì?",
+      "options": [
+        "A. Đếm các ô trống trong vùng A1:A10.",
+        "B. Đếm các ô chứa từ \"Lương cứng\" trong vùng A1:A10.",
+        "C. Đếm các ô có giá trị lớn hơn \"Lương cứng\".",
+        "D. Không thực hiện được vì sai cú pháp."
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Công thức này đếm số ô trong vùng A1:A10 có nội dung là \"Lương cứng\"."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Khi sử dụng COUNTIF(D1:D20,\">5000\"), công thức này sẽ:",
+      "options": [
+        "A. Đếm các ô có giá trị nhỏ hơn 5000 trong vùng D1:D20.",
+        "B. Đếm các ô chứa chữ \"5000\" trong vùng D1:D20.",
+        "C. Đếm các ô có giá trị lớn hơn 5000 trong vùng D1:D20.",
+        "D. Đếm tổng giá trị của các ô trong vùng D1:D20."
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Điều kiện \">5000\" yêu cầu hàm đếm các ô có giá trị lớn hơn 5000."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Trong công thức COUNTIF(A1:A10, \"Bạch đàn*\"), dấu * có nghĩa là gì?",
+      "options": [
+        "A. Đại diện cho một ký tự bất kỳ.",
+        "B. Đại diện cho một chuỗi ký tự bất kỳ.",
+        "C. Là ký hiệu để bỏ qua các ô trống.",
+        "D. Đại diện cho giá trị lớn nhất trong vùng."
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Dấu * trong COUNTIF đại diện cho một chuỗi ký tự bất kỳ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Công thức nào dưới đây đếm số ô trong vùng C3:C12 có nội dung bắt đầu bằng \"Tiền gửi\"?",
+      "options": [
+        "A. =COUNTIF(C3:C12, \"Tiền gửi*\")",
+        "B. =COUNTIF(C3:C12, \"*Tiền gửi\")",
+        "C. =COUNTIF(C3:C12, \"Tiền gửi\")",
+        "D. =COUNTIF(C3:C12, \"*Tiền gửi*\")"
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: Điều kiện \"Tiền gửi*\" yêu cầu dữ liệu trong ô phải bắt đầu bằng \"Tiền gửi\" và có thể có chuỗi ký tự khác sau đó."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Để đếm số lần xuất hiện của các giá trị trong một vùng mà không phân biệt chữ hoa hay thường, hàm COUNTIF:",
+      "options": [
+        "A. Không phân biệt chữ hoa, chữ thường.",
+        "B. Phân biệt chữ hoa, chữ thường.",
+        "C. Yêu cầu bổ sung điều kiện cụ thể.",
+        "D. Không áp dụng được cho dữ liệu chữ."
+      ],
+      "answer": "A",
+      "note": "Đáp án: A Giải thích: COUNTIF không phân biệt chữ hoa hay chữ thường khi so sánh dữ liệu."
+    }
+  ]
+}

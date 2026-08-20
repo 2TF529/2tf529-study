@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-2-de-on-luyen-toan-chuong-8-mot-so-yeu-to-thong-ke-xac-suat-va-ly",
+  "sourceId": "vietjack:2-de-on-luyen-toan-chuong-8-mot-so-yeu-t",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "title": "2.Đề ôn luyện Toán Chương 8. Một số yếu tố thống kê, xác suất và lý thuyết đồ thị (đề số 2)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Một mẫu số liệu ghép nhóm có độ lệch chuẩn bằng 3 thì có phương sai bằng:",
+      "options": [
+        "A. \\({s^2} = 3\\) .",
+        "B. \\({s^2} = 6\\) .",
+        "C. \\({s^2} = 9\\) .",
+        "D. \\({s^2} = \\sqrt 3 \\) ."
+      ],
+      "answer": "C",
+      "note": "Mẫu số liệu ghép nhóm có độ lệch chuẩn bằng 3 thì có phương sai bằng \\({3^2} = 9\\) . Chọn C ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho bảng thống kê doanh số bán hàng của 100 nhân viên ở một trung tâm thương mại trong một tuần như sau: Doanh số (triệu đồng) \\(\\left[ {20\\,;\\,30} \\right)\\) \\(\\left[ {30\\,;\\,40} \\right)\\) \\(\\left[ {40\\,;\\,50} \\right)\\) \\(\\left[ {50\\,;\\,60} \\right)\\) \\(\\left[ {60\\,;\\,70} \\right)\\) \\(\\left[ {70\\,;\\,80} \\right)\\) Số nhân viên 25 20 20 15 14 6 Trung tâm thương mại dự định chọn 25% số nhân viên có doanh số bán hàng cao nhất để trao thưởng. Theo mẫu số liệu trên, trung tâm thương mại nên khen thưởng các nhân viên có doanh số bán hàng ít nhất là bao nhiêu triệu đồng ( kết quả làm tròn đến hàng phần chục )?",
+      "options": [
+        "A. 30,0 triệu đồng.",
+        "B. 42,5 triệu đồng .",
+        "C. 56,7 triệu đồng.",
+        "D. 53,7 triệu đồng ."
+      ],
+      "answer": "C",
+      "note": "Ta có bảng tần số ghép nhóm bao gồm tần số tích lũy của mẫu số liệu đã cho như sau: Doanh số (triệu đồng) \\(\\left[ {20\\,;\\,30} \\right)\\) \\(\\left[ {30\\,;\\,40} \\right)\\) \\(\\left[ {40\\,;\\,50} \\right)\\) \\(\\left[ {50\\,;\\,60} \\right)\\) \\(\\left[ {60\\,;\\,70} \\right)\\) \\(\\left[ {70\\,;\\,80} \\right)\\) Số nhân viên 25 20 20 15 14 6 Tần số tích lũy 25 45 65 80 94 100 Với \\(n = 100 \\Rightarrow \\frac{{3n}}{4} = 75\\) . Nhóm chứa tứ phân vị thứ ba là \\(\\left[ {50;60} \\right)\\) . Ta có \\({Q_3} = 50 + \\frac{{75 - 65}}{{15}} \\cdot 10 = \\frac{{170}}{3} \\approx 56,7\\) . Vậy với 25% số nhân viên có doanh số bán hàng cao nhất để trao thưởng thì trung tâm thương mại nên khen thưởng các nhân viên có doanh số bán hàng ít nhất là 56,7 triệu đồng. Chọn C ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Khảo sát trọng lượng của một số quả mít được trồng trong một nông trường ta có mẫu số liệu sau: Cân nặng (kg) \\(\\left[ {4;6} \\right)\\) \\(\\left[ {6;8} \\right)\\) \\(\\left[ {8;10} \\right)\\) \\(\\left[ {10;12} \\right)\\) \\(\\left[ {12;14} \\right)\\) Số quả mít 6 12 19 9 4 Tìm độ lệch tiêu chuẩn của mẫu số liệu trên (kết quả làm tròn đến hàng phần trăm).",
+      "options": [
+        "A. \\(2,19\\) .",
+        "B. \\(8,72\\) .",
+        "C. \\(4,80\\) .",
+        "D. \\(2,20\\) ."
+      ],
+      "answer": "A",
+      "note": "Cỡ mẫu: \\(n = 6 + 12 + 19 + 9 + 4 = 50\\) . Ta có bảng sau: Cân nặng (kg) \\(\\left[ {4;6} \\right)\\) \\(\\left[ {6;8} \\right)\\) \\(\\left[ {8;10} \\right)\\) \\(\\left[ {10;12} \\right)\\) \\(\\left[ {12;14} \\right)\\) Giá trị đại diện 5 7 9 11 13 Số quả mít 6 12 19 9 4 Trọng lượng trung bình: \\(\\overline x = \\frac{{6 \\cdot 5 + 12 \\cdot 7 + 19 \\cdot 9 + 9 \\cdot 11 + 4 \\cdot 13}}{{50}} = 8,72\\) . Phương sai của mẫu số liệu là: \\({s^2} = \\frac{1}{{50}}\\left( {6 \\cdot {5^2} + 12 \\cdot {7^2} + 19 \\cdot {9^2} + 9 \\cdot {{11}^2} + 4 \\cdot {{13}^2}} \\right) - {\\left( {8,72} \\right)^2} = 4,8016\\) . Độ lệch chuẩn của mẫu số liệu là: \\(s = \\sqrt {{s^2}} = \\sqrt {4,8016} \\approx 2,19\\) . Chọn A ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Thời gian (đơn vị: phút) truy cập Internet mỗi buổi tối của một số học sinh được cho trong bảng sau: Thời gian (phút) \\(\\left[ {9,5;12,5} \\right)\\) \\(\\left[ {12,5;15,5} \\right)\\) \\(\\left[ {15,5;18,5} \\right)\\) \\(\\left[ {18,5;21,5} \\right)\\) \\(\\left[ {21,5;24,5} \\right)\\) Số học sinh 3 12 15 24 2 Khoảng tứ phân vị của mẫu số liệu trên là",
+      "options": [
+        "A. 10,75.",
+        "B. 4,75.",
+        "C. 4,63.",
+        "D. 4,38"
+      ],
+      "answer": "B",
+      "note": "Ta có \\(n = 3 + 12 + 15 + 24 + 2 = 56\\) . Khi đó \\(\\frac{n}{4} = 14,\\frac{{3n}}{4} = 42\\) . Do đó nhóm \\(\\left[ {12,5;15,5} \\right)\\) chứa tứ phân vị thứ nhất, nhóm \\(\\left[ {18,5;21,5} \\right)\\) chứa tứ phân vị thứ ba. Tứ phân vị thứ nhất là \\({Q_1} = 12,5 + \\frac{{14 - 3}}{{12}}\\left( {15,5 - 12,5} \\right) = 15,25\\) . Tứ phân vị thứ ba là \\({Q_3} = 18,5 + \\frac{{42 - \\left( {3 + 12 + 15} \\right)}}{{24}} \\cdot \\left( {21,5 - 18,5} \\right) = 20\\) . Vậy khoảng tứ phân vị là \\({\\rm{\\Delta }}Q = {Q_3} - {Q_1} = 20 - 15,25 = 4,75\\) . Chọn B ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Bảng thống kê dưới đây cho biết thu nhập bình quân đầu người/tháng của người dân Hà Nội (tính theo triệu đồng) trong giai đoạn từ năm 2018 đến năm 2024: Năm 2018 2019 2020 2021 2022 2023 2024 Thu nhập (triệu đồng/ tháng) 5,901 6,403 6,203 6,002 6,423 6,869 7,546 Mẫu số liệu thống kê trên có khoảng biến thiên bằng bao nhiêu (tính theo triệu đồng)?",
+      "options": [
+        "A. 2,660.",
+        "B. 1,645.",
+        "C. 0,867.",
+        "D. 2,290"
+      ],
+      "answer": "B",
+      "note": "Khoảng biến thiên của mẫu số liệu là \\(R = 7,546 - 5,901 = 1,645\\) . Chọn B ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Tìm hiểu thời gian hoàn thành một bài tập (đơn vị: phút) của một nhóm học sinh thu được kết quả sau: Thời gian (phút) \\(\\left[ {0;4} \\right)\\) \\(\\left[ {4;8} \\right)\\) \\(\\left[ {8;12} \\right)\\) \\(\\left[ {12;16} \\right)\\) \\(\\left[ {16;20} \\right)\\) Số học sinh \\(2\\) \\(4\\) \\(7\\) \\(4\\) \\(3\\) Thời gian trung bình (phút) để hoàn thành bài tập của các em học sinh là",
+      "options": [
+        "A. \\(10,4\\) .",
+        "B. \\(7\\) .",
+        "C. \\(11,3\\) .",
+        "D. \\(12,5\\) ."
+      ],
+      "answer": "A",
+      "note": "Ta có bảng sau: Thời gian (phút) \\(\\left[ {0;4} \\right)\\) \\(\\left[ {4;8} \\right)\\) \\(\\left[ {8;12} \\right)\\) \\(\\left[ {12;16} \\right)\\) \\(\\left[ {16;20} \\right)\\) Số học sinh \\(2\\) \\(4\\) \\(7\\) \\(4\\) \\(3\\) Giá trị đại diện \\(2\\) \\(6\\) \\(10\\) \\(14\\) \\(18\\) Thời gian trung bình để hoàn thành bài tập của các em học sinh là \\(\\frac{{2 \\cdot 2 + 4 \\cdot 6 + 7 \\cdot 10 + 4 \\cdot 14 + 3 \\cdot 18}}{{20}} = \\frac{{52}}{5} = 10,4\\) (phút). Chọn A ."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Bảng số liệu ghép nhóm về chiều cao đo được (đơn vị: cm) của 30 học sinh nam lớp 12A2 đầu năm học 2024 – 2025 của một trường THPT được cho như sau: Chiều cao \\(\\left[ {150;155} \\right)\\) \\(\\left[ {155;160} \\right)\\) \\(\\left[ {160;165} \\right)\\) \\(\\left[ {165;170} \\right)\\) \\(\\left[ {170;175} \\right)\\) Tần số 3 7 10 7 3 Độ lệch chuẩn của mẫu số liệu ghép nhóm trên là",
+      "options": [
+        "A. \\(\\frac{{\\sqrt {285} }}{3}\\) .",
+        "B. \\(\\frac{{\\sqrt {287} }}{3}\\) .",
+        "C. \\(4\\sqrt 2 \\) .",
+        "D. \\(\\sqrt {71} \\) ."
+      ],
+      "answer": "A",
+      "note": "Ta có bảng sau: Chiều cao \\(\\left[ {150;155} \\right)\\) \\(\\left[ {155;160} \\right)\\) \\(\\left[ {160;165} \\right)\\) \\(\\left[ {165;170} \\right)\\) \\(\\left[ {170;175} \\right)\\) Giá trị đại diện 152,5 157,5 162,5 167,5 172,5 Tần số 3 7 10 7 3 Số trung bình của mẫu số liệu ghép nhóm là \\(\\bar x = \\frac{{3 \\cdot 152,5 + 7 \\cdot 157,5 + 10 \\cdot 162,5 + 7 \\cdot 167,5 + 3 \\cdot 172,5}}{{30}} = 162,5\\) . Phương sai của mẫu số liệu ghép nhóm là \\[{s^2} = \\frac{{3 \\cdot {{10}^2} + 7 \\cdot {5^2} + 10 \\cdot {0^2} + 7 \\cdot {5^2} + 5 \\cdot {{10}^2}}}{{30}} = \\frac{{95}}{3}\\] . Độ lệch chuẩn của mẫu số liệu ghép nhóm là \\(s = \\sqrt {\\frac{{95}}{3}} = \\frac{{\\sqrt {285} }}{3}\\) . Chọn A ."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Khảo sát thời gian tập thể dục của họ sinh khối 12 tại một trường THPT thu được mẫu số liệu ghép nhóm sau đây Thời gian (phút) \\[\\left[ {0;20} \\right)\\] \\[\\left[ {20;40} \\right)\\] \\[\\left[ {40;60} \\right)\\] \\[\\left[ {60;80} \\right)\\] \\[\\left[ {80;100} \\right)\\] Số học sinh 5 9 12 10 6 Nhóm chứa tứ phân vị thứ nhất của mẫu số liệu trên là",
+      "options": [
+        "A. \\[\\left[ {40;60} \\right)\\] .",
+        "B. \\[\\left[ {60;80} \\right)\\] .",
+        "C. \\[\\left[ {20;40} \\right)\\] .",
+        "D. \\[\\left[ {80;100} \\right)\\] ."
+      ],
+      "answer": "C",
+      "note": "Ta có \\[\\frac{n}{4} = \\frac{{42}}{4} = \\frac{{21}}{2} = 10,5\\] nên tứ phân vị thứ nhất thuộc nhóm \\[\\left[ {20;40} \\right)\\] . Chọn C ."
+    }
+  ]
+}

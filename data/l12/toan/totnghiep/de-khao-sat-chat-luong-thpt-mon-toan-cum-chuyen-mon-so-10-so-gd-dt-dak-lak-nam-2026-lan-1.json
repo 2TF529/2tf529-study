@@ -1,0 +1,196 @@
+{
+  "id": "l12-toan-totnghiep-2026-de-khao-sat-chat-luong-thpt-mon-toan-cum-chuyen-mon-so-10-so-gd-dt-dak-lak-nam-2026-lan-1",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "code": "THPT_TKT_2026_ĐLK_02",
+  "title": "Đề khảo sát chất lượng THPT môn Toán Cụm chuyên môn Số 10 Sở GD&ĐT Đắk Lắk năm 2026 - Lần 1",
+  "duration": 90,
+  "answerSource": "official",
+  "source": "https://dolthpt.vn/tot-nghiep-thpt/pdf-de-khao-sat-chat-luong-thpt-mon-toan-cum-chuyen-mon-so-10-so-gd-dt-dak-lak-nam-2026-lan-1-co-dap-an",
+  "notes": "Nội dung, đáp án và lời giải được nhập từ bản công khai của DOL THPT.",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "content": "Tập nghiệm $S$ của phương trình $\\log_2(x-3)=\\log_2(2x-1)$ là",
+      "chuong": "hàm số mũ và hàm số lôgarit",
+      "dang": "phương trình lôgarit",
+      "type": "single",
+      "options": [
+        "A. $S=\\{2\\}$.",
+        "B. $S=\\varnothing$.",
+        "C. $S=\\{-2\\}$.",
+        "D. $S=\\{0\\}$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Phương trình cần giải là $\\log_2(x-3)=\\log_2(2x-1)$.\n- Điều kiện xác định là $x>3$.\n❓ **Hiểu câu hỏi:**\n- Hai lôgarit cùng cơ số và cùng xác định thì hai biểu thức trong lôgarit bằng nhau.\n🔎 **Hướng dẫn cách làm:**\n- Ta có $x-3=2x-1$ nên $x=-2$.\n- Giá trị $x=-2$ không thỏa mãn điều kiện $x>3$.\n- Suy ra phương trình vô nghiệm, tức $S=\\varnothing$.\n✅ **Đáp án:** Chọn B. $S=\\varnothing$."
+    },
+    {
+      "id": 2,
+      "content": "Tiệm cận đứng của đồ thị hàm số $y=\\dfrac{3x+6}{x-2}$ là đường thẳng",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "đường tiệm cận đứng",
+      "type": "single",
+      "options": [
+        "A. $x=-2$.",
+        "B. $x=-3$.",
+        "C. $x=3$.",
+        "D. $x=2$."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số đã cho là $y=\\dfrac{3x+6}{x-2}$.\n❓ **Hiểu câu hỏi:**\n- Tiệm cận đứng của phân thức hữu tỉ thường xuất hiện tại nghiệm của mẫu số không làm tử số bằng \\$0$.\n🔎 **Hướng dẫn cách làm:**\n- Ta có mẫu số $x-2=0$ khi $x=2$.\n- Tại $x=2$, tử số bằng \\$3\\cdot2+6=12\\neq0$.\n- Vậy đồ thị có tiệm cận đứng là $x=2$.\n✅ **Đáp án:** Chọn D. $x=2$."
+    },
+    {
+      "id": 3,
+      "content": "Trong không gian $Oxyz$, cho $A(1;0;1)$ và vectơ $\\overrightarrow{AC}=(0;6;1)$. Điểm $C$ nào sau đây thỏa mãn điều kiện?",
+      "chuong": "vectơ và hệ trục tọa độ trong không gian",
+      "dang": "tọa độ của điểm, tọa độ của vectơ trong không gian",
+      "type": "single",
+      "options": [
+        "A. $C(1;6;0)$.",
+        "B. $C(1;6;2)$.",
+        "C. $C(-1;6;-1)$.",
+        "D. $C(-1;-6;-2)$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Điểm $A(1;0;1)$ và $\\overrightarrow{AC}=(0;6;1)$.\n❓ **Hiểu câu hỏi:**\n- Nếu $C(x;y;z)$ thì $\\overrightarrow{AC}=(x-1;y-0;z-1)$.\n🔎 **Hướng dẫn cách làm:**\n- Ta có hệ $x-1=0$, $y=6$, $z-1=1$.\n- Suy ra $x=1$, $y=6$, $z=2$.\n- Vậy $C(1;6;2)$.\n✅ **Đáp án:** Chọn B. $C(1;6;2)$."
+    },
+    {
+      "id": 4,
+      "content": "Gieo một con xúc xắc một lần. Gọi $A$ là biến cố xuất hiện mặt \\$2$ chấm, $B$ là biến cố xuất hiện mặt chẵn. Xác suất $P(A|B)$ là",
+      "chuong": "xác suất có điều kiện",
+      "dang": "xác suất có điều kiện",
+      "type": "single",
+      "options": [
+        "A. $\\dfrac{1}{3}$.",
+        "B. $\\dfrac{2}{3}$.",
+        "C. $\\dfrac{1}{2}$.",
+        "D. $\\dfrac{1}{6}$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Biến cố $A$ là xuất hiện mặt \\$2$ chấm.\n- Biến cố $B$ là xuất hiện mặt chẵn, gồm $\\{2,4,6\\}$.\n❓ **Hiểu câu hỏi:**\n- Cần tính xác suất có điều kiện $P(A|B)$.\n🔎 **Hướng dẫn cách làm:**\n- Trong điều kiện $B$ đã xảy ra, không gian xét chỉ còn \\$3$ kết quả là \\$2,4,6$.\n- Biến cố $A$ tương ứng duy nhất với kết quả \\$2$.\n- Do đó $P(A|B)=\\dfrac{1}{3}$.\n✅ **Đáp án:** Chọn A. $\\dfrac{1}{3}$."
+    },
+    {
+      "id": 5,
+      "content": "Diện tích hình phẳng được gạch chéo, giới hạn bởi hai đồ thị $y=x^2-2x-2$ và $y=-x^2+2$ trên đoạn giao nhau, bằng\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-cum-chuyen-mon-so-10-so-gd-dt-dak-lak-nam-2026-lan-1/cau-05.webp\" alt=\"Hình minh họa câu 5\" loading=\"lazy\"></figure>",
+      "chuong": "nguyên hàm và tích phân",
+      "dang": "ứng dụng tích phân để tính diện tích hình phẳng",
+      "type": "single",
+      "options": [
+        "A. $\\int_{-1}^{2}(2x^2-2x-4)dx$.",
+        "B. $\\int_{-1}^{2}(-2x^2+2x+4)dx$.",
+        "C. $\\int_{-1}^{2}(-2x^2-2x+4)dx$.",
+        "D. $\\int_{-1}^{2}(-2x^2-2x-4)dx$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hai đường cong là $y=x^2-2x-2$ và $y=-x^2+2$.\n- Hai đồ thị cắt nhau tại $x=-1$ và $x=2$.\n❓ **Hiểu câu hỏi:**\n- Diện tích hình phẳng bằng tích phân của hàm phía trên trừ hàm phía dưới.\n🔎 **Hướng dẫn cách làm:**\n- Trên đoạn $[-1;2]$, đồ thị $y=-x^2+2$ nằm phía trên vì tại $x=0$ có giá trị \\$2$.\n- Hiệu hai hàm là $(-x^2+2)-(x^2-2x-2)=-2x^2+2x+4$.\n- Vậy diện tích là $\\int_{-1}^{2}(-2x^2+2x+4)dx$.\n✅ **Đáp án:** Chọn B. $\\int_{-1}^{2}(-2x^2+2x+4)dx$."
+    },
+    {
+      "id": 6,
+      "content": "Trong không gian $Oxyz$, cho mặt phẳng $(P)$ có phương trình $x+y-\\dfrac{z}{2}=1$. Một vectơ pháp tuyến của mặt phẳng là",
+      "chuong": "phương pháp tọa độ trong không gian",
+      "dang": "vectơ pháp tuyến và cặp vectơ chỉ phương của mặt phẳng",
+      "type": "single",
+      "options": [
+        "A. $\\vec n=(1;1;2)$.",
+        "B. $\\vec n=(2;2;1)$.",
+        "C. $\\vec n=(2;2;-1)$.",
+        "D. $\\vec n=(1;1;-2)$."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Mặt phẳng $(P)$ có phương trình $x+y-\\dfrac{z}{2}=1$.\n❓ **Hiểu câu hỏi:**\n- Đưa phương trình về dạng tổng quát để đọc vectơ pháp tuyến.\n🔎 **Hướng dẫn cách làm:**\n- Nhân hai vế với \\$2$ được \\$2x+2y-z=2$.\n- Vectơ pháp tuyến có tọa độ là bộ hệ số của $x,y,z$.\n- Suy ra một vectơ pháp tuyến là $\\vec n=(2;2;-1)$.\n✅ **Đáp án:** Chọn C. $\\vec n=(2;2;-1)$."
+    },
+    {
+      "id": 7,
+      "content": "Họ nguyên hàm của hàm số $f(x)=2026^x$ là",
+      "chuong": "nguyên hàm và tích phân",
+      "dang": "nguyên hàm của một số hàm số thường gặp",
+      "type": "single",
+      "options": [
+        "A. $\\dfrac{2026^x}{\\ln 2026}+C$.",
+        "B. $\\dfrac{2026^{x+1}}{\\ln 2026}+C$.",
+        "C. \\$2026^x+C$.",
+        "D. \\$2026^{x+1}+C$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số cần tìm nguyên hàm là $f(x)=2026^x$.\n❓ **Hiểu câu hỏi:**\n- Dùng công thức $\\int a^x dx=\\dfrac{a^x}{\\ln a}+C$ với $a>0$, $a\\neq1$.\n🔎 **Hướng dẫn cách làm:**\n- Với $a=2026$, ta có $\\int 2026^x dx=\\dfrac{2026^x}{\\ln 2026}+C$.\n- Công thức này phù hợp vì \\$2026>0$ và \\$2026\\neq1$.\n- Vậy họ nguyên hàm là $\\dfrac{2026^x}{\\ln 2026}+C$.\n✅ **Đáp án:** Chọn A. $\\dfrac{2026^x}{\\ln 2026}+C$."
+    },
+    {
+      "id": 8,
+      "content": "Cho cấp số nhân $(u_n)$ có $u_1=-3$, $q=\\dfrac{2}{3}$. Số hạng $u_5$ của cấp số nhân bằng",
+      "chuong": "dãy số. cấp số cộng và cấp số nhân",
+      "dang": "số hạng tổng quát của cấp số nhân",
+      "type": "single",
+      "options": [
+        "A. $u_5=-\\dfrac{16}{27}$.",
+        "B. $u_5=-\\dfrac{27}{16}$.",
+        "C. $u_5=\\dfrac{16}{27}$.",
+        "D. $u_5=\\dfrac{27}{16}$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cấp số nhân có $u_1=-3$ và công bội $q=\\dfrac{2}{3}$.\n❓ **Hiểu câu hỏi:**\n- Số hạng tổng quát là $u_n=u_1q^{n-1}$.\n🔎 **Hướng dẫn cách làm:**\n- Ta có $u_5=u_1q^4=-3\\left(\\dfrac{2}{3}\\right)^4$.\n- Suy ra $u_5=-3\\cdot\\dfrac{16}{81}=-\\dfrac{16}{27}$.\n- Vậy số hạng cần tìm là $-\\dfrac{16}{27}$.\n✅ **Đáp án:** Chọn A. $u_5=-\\dfrac{16}{27}$."
+    },
+    {
+      "id": 9,
+      "content": "Một hãng xe ôtô thống kê số lần gặp sự cố về động cơ của \\$100$ chiếc xe sau \\$2$ năm sử dụng . Khoảng tứ phân vị của mẫu số liệu ghép nhóm là\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-cum-chuyen-mon-so-10-so-gd-dt-dak-lak-nam-2026-lan-1/cau-09.webp\" alt=\"Hình minh họa câu 9\" loading=\"lazy\"></figure>",
+      "chuong": "các số đặc trưng đo mức độ phân tán cho mẫu số liệu ghép nhóm",
+      "dang": "khoảng tứ phân vị",
+      "type": "single",
+      "options": [
+        "A. \\$3{,}52$.",
+        "B. \\$2{,}53$.",
+        "C. \\$5{,}32$.",
+        "D. \\$5{,}23$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cỡ mẫu là $n=100$.\n- Các tần số theo nhóm là \\$17,33,25,20,5$.\n❓ **Hiểu câu hỏi:**\n- Khoảng tứ phân vị là $\\Delta_Q=Q_3-Q_1$.\n🔎 **Hướng dẫn cách làm:**\n- Vị trí $Q_1$ thuộc lớp $[2{,}5;4{,}5)$ nên $Q_1=2{,}5+\\dfrac{25-17}{33}\\cdot2\\approx2{,}98$.\n- Vị trí $Q_3$ nằm giữa cuối lớp $[4{,}5;6{,}5)$ và đầu lớp $[6{,}5;8{,}5)$ nên lấy xấp xỉ $Q_3=6{,}5$.\n- Suy ra $\\Delta_Q=6{,}5-2{,}98\\approx3{,}52$.\n✅ **Đáp án:** Chọn A. \\$3{,}52$."
+    },
+    {
+      "id": 10,
+      "content": "Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình bình hành. Đặt $\\overrightarrow{SA}=\\vec a$, $\\overrightarrow{SB}=\\vec b$, $\\overrightarrow{SC}=\\vec c$, $\\overrightarrow{SD}=\\vec d$. Khẳng định nào dưới đây đúng?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-cum-chuyen-mon-so-10-so-gd-dt-dak-lak-nam-2026-lan-1/cau-10.webp\" alt=\"Hình minh họa câu 10\" loading=\"lazy\"></figure>",
+      "chuong": "vectơ và hệ trục tọa độ trong không gian",
+      "dang": "tổng và hiệu của hai vectơ trong không gian",
+      "type": "single",
+      "options": [
+        "A. $\\vec a+\\vec b+\\vec c+\\vec d=\\vec0$.",
+        "B. $\\vec a+\\vec c=\\vec b+\\vec d$.",
+        "C. $\\vec a+\\vec b=\\vec c+\\vec d$.",
+        "D. $\\vec a+\\vec d=\\vec b+\\vec c$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Đáy $ABCD$ là hình bình hành.\n- Các vectơ có chung điểm đầu $S$.\n❓ **Hiểu câu hỏi:**\n- Trong hình bình hành, hai đường chéo có cùng trung điểm.\n🔎 **Hướng dẫn cách làm:**\n- Gọi $O$ là tâm hình bình hành $ABCD$.\n- Vì $O$ là trung điểm của $AC$ và $BD$ nên $\\overrightarrow{SA}+\\overrightarrow{SC}=2\\overrightarrow{SO}$ và $\\overrightarrow{SB}+\\overrightarrow{SD}=2\\overrightarrow{SO}$.\n- Suy ra $\\vec a+\\vec c=\\vec b+\\vec d$.\n✅ **Đáp án:** Chọn B. $\\vec a+\\vec c=\\vec b+\\vec d$."
+    },
+    {
+      "id": 11,
+      "content": "Tập nghiệm của phương trình $\\sin\\dfrac{x}{2}=1$ là",
+      "chuong": "hàm số lượng giác và phương trình lượng giác",
+      "dang": "phương trình sinx=m",
+      "type": "single",
+      "options": [
+        "A. $S=\\{\\pi+2k\\pi\\mid k\\in\\mathbb{Z}\\}$.",
+        "B. $S=\\left\\{\\dfrac{\\pi}{2}+2k\\pi\\mid k\\in\\mathbb{Z}\\right\\}$.",
+        "C. $S=\\{\\pi+4k\\pi\\mid k\\in\\mathbb{Z}\\}$.",
+        "D. $S=\\{2k\\pi\\mid k\\in\\mathbb{Z}\\}$."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Phương trình là $\\sin\\dfrac{x}{2}=1$.\n❓ **Hiểu câu hỏi:**\n- Ta dùng nghiệm cơ bản $\\sin t=1\\Leftrightarrow t=\\dfrac{\\pi}{2}+2k\\pi$.\n🔎 **Hướng dẫn cách làm:**\n- Đặt $t=\\dfrac{x}{2}$, ta có $\\dfrac{x}{2}=\\dfrac{\\pi}{2}+2k\\pi$.\n- Nhân hai vế với \\$2$ được $x=\\pi+4k\\pi$.\n- Vậy tập nghiệm là $S=\\{\\pi+4k\\pi\\mid k\\in\\mathbb{Z}\\}$.\n✅ **Đáp án:** Chọn C. $S=\\{\\pi+4k\\pi\\mid k\\in\\mathbb{Z}\\}$."
+    },
+    {
+      "id": 12,
+      "content": "Cho hàm số $f(x)=ax^3+bx^2+cx+d$ có đồ thị như hình vẽ. Giá trị lớn nhất của hàm số đã cho trên đoạn $[-3;3]$ bằng\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-cum-chuyen-mon-so-10-so-gd-dt-dak-lak-nam-2026-lan-1/cau-12.webp\" alt=\"Hình minh họa câu 12\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "cách tìm giá trị lớn nhất và giá trị nhỏ nhất của hàm số trên một đoạn",
+      "type": "single",
+      "options": [
+        "A. $f(2)$.",
+        "B. $f(-1)$.",
+        "C. $f(3)$.",
+        "D. $f(-3)$."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Đồ thị hàm số được xét trên đoạn $[-3;3]$.\n- Các giá trị cần so sánh là tại các điểm đặc biệt và hai đầu mút.\n❓ **Hiểu câu hỏi:**\n- Dựa vào độ cao của đồ thị, giá trị lớn nhất là điểm có tung độ cao nhất trên đoạn.\n🔎 **Hướng dẫn cách làm:**\n- Quan sát đồ thị, điểm tại $x=-3$ có tung độ cao nhất trong các điểm được xét.\n- Các điểm cực trị bên trong đoạn và đầu mút $x=3$ đều có tung độ thấp hơn.\n- Vậy giá trị lớn nhất trên đoạn là $f(-3)$.\n✅ **Đáp án:** Chọn D. $f(-3)$."
+    }
+  ]
+}

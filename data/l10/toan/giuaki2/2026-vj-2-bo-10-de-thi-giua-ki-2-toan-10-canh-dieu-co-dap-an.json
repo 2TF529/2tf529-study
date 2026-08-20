@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-2-bo-10-de-thi-giua-ki-2-toan-10-canh-dieu-co-dap-an",
+  "sourceId": "vietjack:2-bo-10-de-thi-giua-ki-2-toan-10-canh-di",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "giuaki2",
+  "year": 2026,
+  "title": "2.Bộ 10 đề thi giữa kì 2 Toán 10 Cánh diều có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Nếu một công việc được hoàn thành bởi một trong ba hành động. Nếu hành động thứ nhất có \\(m\\) cách thực hiện, hành động thứ hai có \\(n\\) cách thực hiện, hành động thứ ba có \\(k\\) cách thực hiện (các cách thực hiện của ba hành động là khác nhau đôi một) thì số cách hoàn thành công việc đó là",
+      "options": [
+        "A. \\(mnk\\);",
+        "B. \\(m + n + k\\);",
+        "C. 1;",
+        "D. \\(mn + k\\)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Vì ba hành động là rời nhau nên theo quy tắc cộng ta có số cách để hoàn thành công việc đó là \\(m + n + k\\) (cách)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Nếu một công việc được hoàn thành bởi ba hành động liên tiếp. Nếu hành động thứ nhất có \\(m\\) cách thực hiện, ứng với mỗi cách thực hiện hành động thứ nhất, có \\(n\\) cách thực hiện hành động thứ hai, ứng với mỗi cách thực hiện hành động thứ nhất và mỗi cách thực hiện hành động số hai, có \\(k\\) cách thực hiện hành động số ba thì số cách hoàn thành công việc đó là",
+      "options": [
+        "A. \\(mnk\\);",
+        "B. \\(m + n + k\\);",
+        "C. 1;",
+        "D. \\(mn + k\\)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Vì ba hành động liên tiếp nên theo quy tắc nhân cộng ta có số cách để hoàn thành công việc đó là \\(mnk\\) (cách)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trên bàn có 8 cây bút chì khác nhau, 6 cây bút bi khác nhau và 10 cuốn tập khác nhau. Một học sinh muốn chọn một đồ vật duy nhất là một cây bút chì hoặc một cây bút bi hoặc một cuốn tập thì số cách chọn là",
+      "options": [
+        "A. 480;",
+        "B. 24;",
+        "C. 48;",
+        "D. 60."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Việc chọn một đồ vật duy nhất được chia thành 3 phương án: Phương án 1: Chọn một cây bút chì thì sẽ có 8 cách. Phương án 2: Chọn một cây bút bi thì sẽ có 6 cách. Phương án 3: Chọn một cuốn tập thì sẽ có 10 cách. Theo quy tắc cộng, ta có \\[8 + 6 + 10 = 24\\]cách chọn."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Từ các chữ số \\[3;{\\rm{ 4}};{\\rm{ 6}};{\\rm{ 7}};{\\rm{ 8}};{\\rm{ 9}}\\] có thể lập được bao nhiêu chữ số tự nhiên bé hơn 100?",
+      "options": [
+        "A. 36;",
+        "B. 62;",
+        "C. 55;",
+        "D. 42."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Các số bé hơn 100 chính là các số có một chữ số và hai chữ số được hình thành từ tập \\[A = \\left\\{ {3;{\\rm{ 4}};{\\rm{ 6}};{\\rm{ 7}};{\\rm{ 8}};{\\rm{ 9}}} \\right\\}.\\] Từ tập \\[A\\] có thể lập được 6 số có một chữ số. Gọi số có hai chữ số có dạng \\[\\overline {ab} \\] với \\[\\left( {a,b} \\right) \\in A.\\] Trong đó: \\[a\\] có \\[6\\] cách chọn (vì \\(a\\) có thể chọn một trong các số \\[3;{\\rm{ 4}};{\\rm{ 6}};{\\rm{ 7}};{\\rm{ 8}};{\\rm{ 9}}\\]); \\[b\\] có \\[6\\] cách chọn (vì \\(b\\) có thể chọn một trong các số \\[3;{\\rm{ 4}};{\\rm{ 6}};{\\rm{ 7}};{\\rm{ 8}};{\\rm{ 9}}\\]). Như vậy, ta có \\[6.6 = 36\\] số có hai chữ số. Vậy, từ \\[A\\] có thể lập được \\[36 + 6 = 42\\] số tự nhiên bé hơn \\[100\\]."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho tập \\(A\\) có \\(n\\) phần tử \\(\\left( {n \\in \\mathbb{N},\\,\\,n \\ge 2} \\right)\\), \\(k\\) là số nguyên thỏa mãn \\(1 \\le k \\le n\\). Mỗi chỉnh hợp chập \\(k\\) của \\(n\\) phần tử đã cho là",
+      "options": [
+        "A. Một kết quả của sự sắp xếp thứ tự \\(n\\) phần tử của tập hợp \\(A\\);",
+        "B. Tất cả các kết quả của việc lấy \\(k\\) phần tử từ \\(n\\) phần tử của tập hợp \\(A\\) và sắp xếp chúng theo một thứ tự nào đó;",
+        "C. Một kết quả của việc lấy \\(k\\) phần tử từ \\(n\\) phần tử của tập hợp \\(A\\) và sắp xếp chúng theo một thứ tự nào đó;",
+        "D. Một số được tính bằng \\(n\\left( {n - 1} \\right)...\\left( {n - k + 1} \\right)\\)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Tập \\(A\\) có \\(n\\) phần tử \\(\\left( {n \\in \\mathbb{N},\\,\\,n \\ge 2} \\right)\\), \\(k\\) là số nguyên thỏa mãn \\(1 \\le k \\le n\\). Mỗi chỉnh hợp chập \\(k\\) của \\(n\\) phần tử đã cho là một kết quả của việc lấy \\(k\\) phần tử từ \\(n\\) phần tử của tập hợp \\(A\\) và sắp xếp chúng theo một thứ tự nào đó."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Số các hoán vị của 5 phần tử là",
+      "options": [
+        "A. 5;",
+        "B. \\(A_5^1\\);",
+        "C. 10;",
+        "D. 5!."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Số các hoán vị của 5 phần tử là 5!."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Cho \\(k,\\,\\,n\\) là các số nguyên dương, \\(k \\le n\\). Trong các phát biểu sau, phát biểu nào sai?",
+      "options": [
+        "A. \\[A_n^k = n\\left( {n - 1} \\right)....\\left( {n - k + 1} \\right)\\];",
+        "B. \\({P_n} = n\\left( {n - 1} \\right)...2.1\\);",
+        "C. \\({P_n} = n!\\);",
+        "D. \\(A_n^k = \\frac{{n!}}{{k!}}\\)."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Ta có: \\[A_n^k = n\\left( {n - 1} \\right)....\\left( {n - k + 1} \\right) = \\frac{{n!}}{{\\left( {n - k} \\right)!}} \\ne \\frac{{n!}}{{k!}}\\], do đó đáp án D sai."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Có bao nhiêu cách xếp 5 người ngồi vào một dãy ghế gồm có 6 chiếc ghế, biết mỗi người ngồi vào một ghế?",
+      "options": [
+        "A. 30;",
+        "B. 11;",
+        "C. 38;",
+        "D. 720."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Xếp 5 người ngồi vào một dãy ghế gồm có 6 chiếc ghế (mỗi người ngồi vào một ghế) thì có số cách xếp chính bằng số các chỉnh hợp chập 5 của 6 phần tử và bằng \\(A_6^5 = 720\\) (cách)."
+    }
+  ]
+}

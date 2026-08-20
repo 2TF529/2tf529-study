@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-1-bai-tap-on-tap-toan-11-chan-troi-sang-tao-chuong-6-co-dap-an",
+  "sourceId": "vietjack:1-bai-tap-on-tap-toan-11-chan-troi-sang-",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.Bài tập ôn tập Toán 11 Chân trời sáng tạo Chương 6 có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: A. Trắc nghiệm Dạng 1. Trắc nghiệm nhiều phương án lựa chọn Mỗi câu hỏi thí sinh chỉ chọn một phương án. Đồ thị bên dưới của hàm số nào sau đây?",
+      "options": [
+        "A. \\(y = {\\log _5}x\\).",
+        "B. \\(y = {\\log _{15}}x\\).",
+        "C. \\(y = {\\log _{10}}x\\).",
+        "D. \\(y = {\\log _{\\frac{1}{5}}}x\\)."
+      ],
+      "answer": "A",
+      "note": "Đồ thị hàm số có dạng \\(y = {\\log _a}x\\) với \\(a > 1\\). Đồ thị hàm số đi qua điểm \\(\\left( {5;1} \\right)\\) nên \\(a = 5\\). Vậy \\(y = {\\log _5}x\\). Chọn A."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Đồ thị bên dưới của hàm số nào sau đây?",
+      "options": [
+        "A. \\(y = {8^x}\\).",
+        "B. \\(y = {16^x}\\).",
+        "C. \\(y = {\\left( {\\frac{1}{4}} \\right)^x}\\).",
+        "D. \\(y = {4^x}\\)."
+      ],
+      "answer": "A",
+      "note": "Đồ thị có dạng \\(y = {a^x}\\) với \\(a > 1\\). Đồ thị hàm số đi qua điểm \\(\\left( {1;8} \\right)\\). Suy ra \\(a = 8\\). Vậy \\(y = {8^x}\\). Chọn A."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Nghiệm của phương trình \\({4^x} = \\frac{1}{8}\\) là",
+      "options": [
+        "A. \\(x = - 4\\).",
+        "B. \\(x = - 2\\).",
+        "C. \\(x = 2\\).",
+        "D. \\(x = - \\frac{3}{2}\\)."
+      ],
+      "answer": "D",
+      "note": "Ta có \\({4^x} = \\frac{1}{8}\\)\\( \\Leftrightarrow {2^{2x}} = {2^{ - 3}}\\)\\( \\Leftrightarrow 2x = - 3 \\Leftrightarrow x = - \\frac{3}{2}\\). Chọn D."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho \\(a\\) là số thực dương khác 1 và \\(M,N\\) là số thực dương, \\(\\alpha \\) là số thực tùy ý. Khẳng định nào sau đây sai?",
+      "options": [
+        "A. \\({\\log _a}{M^\\alpha } = \\alpha {\\log _a}M\\).",
+        "B. \\({\\log _a}\\frac{M}{N} = {\\log _a}M - {\\log _a}N\\).",
+        "C. \\({a^{{{\\log }_a}M}} = M\\).",
+        "D. \\({\\log _a}\\left( {MN} \\right) = {\\log _a}M \\cdot {\\log _a}N\\)."
+      ],
+      "answer": "D",
+      "note": "\\({\\log _a}\\left( {MN} \\right) = {\\log _a}M + {\\log _a}N\\). Chọn D."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Đưa về dạng lũy thừa biểu thức \\(P = a\\sqrt a \\) với \\(a > 0\\).",
+      "options": [
+        "A. \\(P = {a^{\\frac{1}{2}}}\\).",
+        "B. \\(P = {a^{\\frac{3}{2}}}\\).",
+        "C. \\(P = {a^{\\frac{2}{3}}}\\).",
+        "D. \\(P = {a^2}\\)."
+      ],
+      "answer": "B",
+      "note": "\\(P = a\\sqrt a = a \\cdot {a^{\\frac{1}{2}}} = {a^{\\frac{3}{2}}}\\). Chọn B."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Tính giá trị biểu thức \\(P = \\log 200 - \\log 2\\).",
+      "options": [
+        "A. \\(P = - 1\\).",
+        "B. \\(P = 0\\).",
+        "C. \\(P = 2\\).",
+        "D. \\(P = 1\\)."
+      ],
+      "answer": "C",
+      "note": "\\(P = \\log 200 - \\log 2\\)\\( = \\log 2 + \\log {10^2} - \\log 2\\)\\( = 2\\). Chọn C."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Cho \\({\\log _2}3 = a;{\\log _2}5 = b\\). Tính \\({\\log _{15}}4\\) theo \\(a,b\\).",
+      "options": [
+        "A. \\({\\log _{15}}4 = \\frac{{a + b}}{2}\\).",
+        "B. \\({\\log _{15}}4 = \\frac{2}{{a - b}}\\).",
+        "C. \\({\\log _{15}}4 = \\frac{{a - b}}{2}\\).",
+        "D. \\({\\log _{15}}4 = \\frac{2}{{a + b}}\\)."
+      ],
+      "answer": "D",
+      "note": "Ta có \\({\\log _{15}}4 = 2{\\log _{15}}2 = \\frac{2}{{{{\\log }_2}15}} = \\frac{2}{{{{\\log }_2}3 + {{\\log }_2}5}} = \\frac{2}{{a + b}}\\). Chọn D."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Rút gọn biểu thức \\(P = {\\log _3}\\left( {{x^3} + x} \\right) - {\\log _3}\\left( {{x^2} + 1} \\right)\\) với \\(x > 0\\).",
+      "options": [
+        "A. \\(P = {\\log _3}\\frac{1}{x}\\).",
+        "B. \\(P = {\\log _3}x\\).",
+        "C. \\(P = 1\\).",
+        "D. \\(P = {\\log _3}\\left( {{x^2} + 1} \\right)\\)."
+      ],
+      "answer": "B",
+      "note": "Ta có \\(P = {\\log _3}\\left( {{x^3} + x} \\right) - {\\log _3}\\left( {{x^2} + 1} \\right)\\)\\( = {\\log _3}\\frac{{{x^3} + x}}{{{x^2} + 1}} = {\\log _3}\\frac{{x\\left( {{x^2} + 1} \\right)}}{{{x^2} + 1}} = {\\log _3}x\\). Chọn B."
+    }
+  ]
+}

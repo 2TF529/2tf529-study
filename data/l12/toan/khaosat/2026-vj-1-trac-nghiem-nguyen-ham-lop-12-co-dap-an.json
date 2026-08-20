@@ -1,0 +1,104 @@
+{
+  "id": "2026-vj-1-trac-nghiem-nguyen-ham-lop-12-co-dap-an",
+  "sourceId": "vietjack:1-trac-nghiem-nguyen-ham-lop-12-co-dap-a",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.Trắc nghiệm Nguyên hàm lớp 12 (có đáp án)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho \\[\\int {f\\left( x \\right)dx = } F\\left( x \\right),{\\rm{ }}\\int {g\\left( x \\right)dx = G\\left( x \\right)} \\]. Khi đó, \\[I = \\int {\\left[ {2g\\left( x \\right) - f\\left( x \\right)} \\right]dx} \\] bằng",
+      "options": [
+        "A. \\[2F\\left( x \\right) + G\\left( x \\right).\\]",
+        "B. \\[2F\\left( x \\right) - G\\left( x \\right).\\]",
+        "C. \\[2G\\left( x \\right) - F\\left( x \\right).\\]",
+        "D. \\[F\\left( x \\right) - 2G\\left( x \\right).\\]"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có: \\[I = \\int {\\left[ {2g\\left( x \\right) - f\\left( x \\right)} \\right]dx} \\] \\[I = \\int {2g\\left( x \\right)dx} - \\int {f\\left( x \\right)dx} \\] \\[I = 2\\int {g\\left( x \\right)dx} - \\int {f\\left( x \\right)dx} \\] \\[I = 2G\\left( x \\right) - F\\left( x \\right)\\]"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: \\[\\int {{x^5}dx} \\] bằng",
+      "options": [
+        "A. \\[5{x^4} +C.\\]",
+        "B. \\[\\frac{{{x^6}}}{6} + C.\\]",
+        "C. \\[{x^4} + C.\\]",
+        "D. \\[ - \\frac{{{x^6}}}{6} + C.\\]"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có: \\[\\int {{x^5}dx} = \\frac{{{x^6}}}{6} + C\\]."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Nguyên hàm của hàm số \\[f\\left( x \\right) = \\cos x\\] bằng",
+      "options": [
+        "A. \\[\\int {\\cos xdx = \\sin x + C.} \\]",
+        "B. \\[\\int {\\cos xdx = \\frac{{\\sin x}}{2} + C.} \\]",
+        "C. \\[\\int {\\cos xdx = - \\sin x + C.} \\]",
+        "D. \\[\\int {\\cos xdx = \\frac{{{{\\cos }^2}x}}{2} + C.} \\]"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có: \\[\\int {\\cos xdx = \\sin x + C.} \\]"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hai hàm số \\[f\\left( x \\right),g\\left( x \\right)\\] là hàm số liên tục, có \\[F\\left( x \\right),G\\left( x \\right)\\] lần lượt là nguyên hàm của \\[f\\left( x \\right),g\\left( x \\right)\\]. Xét các mệnh đề sau: (I). \\[F\\left( x \\right) + G\\left( x \\right)\\] là một nguyên hàm của \\[f\\left( x \\right) + g\\left( x \\right).\\] (II). \\[kF\\left( x \\right)\\] là một nguyên hàm của \\[kf\\left( x \\right)\\] với \\[k \\ne 0.\\] (III). \\[F\\left( x \\right).G\\left( x \\right)\\] là một nguyên hàm của \\[f\\left( x \\right).g\\left( x \\right)\\]. Các mệnh đề đúng là",
+      "options": [
+        "A. (I) và (II).",
+        "B. (II) và (III).",
+        "C. (I) và (III).",
+        "D. Cả ba mệnh đề."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: II. Thông hiểu Nguyên hàm của hàm số \\[f\\left( x \\right) = \\cos 3x\\] bằng",
+      "options": [
+        "A. \\[\\int {\\cos 3xdx = 3\\sin 3x + C.} \\]",
+        "B. \\[\\int {\\cos 3xdx = \\frac{{\\sin 3x}}{3} + C.} \\]",
+        "C. \\[\\int {\\cos 3xdx = - 3\\sin 3x + C.} \\]",
+        "D. \\[\\int {\\cos 3xdx = - \\frac{{\\sin 3x}}{3} + C.} \\]"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có công thức \\[\\int {\\cos \\left( {ax + b} \\right)dx = \\frac{1}{a}\\sin \\left( {ax + b} \\right) + C} \\]. Do đó \\[\\int {\\cos 3xdx = \\frac{{\\sin 3x}}{3} + C.} \\]"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Nguyên hàm của hàm số \\[f\\left( x \\right) = {x^2} - 3x + \\frac{1}{x}\\] là",
+      "options": [
+        "A. \\[2x - 3 - \\frac{1}{{{x^2}}} + C.\\]",
+        "B. \\[\\frac{{{x^3}}}{3} - \\frac{3}{2}{x^2} + \\ln \\left| x \\right| + C.\\]",
+        "C. \\[\\frac{{{x^3}}}{3} + \\frac{3}{2}{x^2} + \\ln x + C.\\]",
+        "D. \\[\\frac{{{x^3}}}{3} - \\frac{3}{2}{x^2} + \\ln x + C.\\]"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có: \\[\\int {f\\left( x \\right)} dx = \\int {\\left( {{x^2} - 3x + \\frac{1}{x}} \\right)} dx\\] \\[ = \\int {{x^2}dx - \\int {3xdx + \\int {\\frac{1}{x}dx} } } \\] \\[ = \\frac{{{x^3}}}{3} - \\frac{3}{2}{x^2} + \\ln \\left| x \\right| + C.\\]"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Hàm số \\[F\\left( x \\right) = 2\\sin x - 3\\cos x + 1\\] là một nguyên hàm của hàm số nào sau đây?",
+      "options": [
+        "A. \\[f\\left( x \\right) = 2\\sin x - 3\\cos x.\\]",
+        "B. \\[f\\left( x \\right) = - 2\\cos x + 3\\sin x.\\]",
+        "C. \\[f\\left( x \\right) = 2\\cos x + 3\\sin x.\\]",
+        "D. \\[f\\left( x \\right) = - 2\\cos x - 3\\sin x.\\]"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có: \\[f\\left( x \\right) = F'\\left( x \\right) = {\\left( {2\\sin x - 3\\cos x + 1} \\right)^\\prime }\\]\\[ = 2\\cos x + 3\\sin x.\\] Vậy \\[F\\left( x \\right) = 2\\sin x - 3\\cos x + 1\\] là một nguyên hàm của hàm số \\[f\\left( x \\right) = 2\\cos x + 3\\sin x.\\]"
+    }
+  ]
+}

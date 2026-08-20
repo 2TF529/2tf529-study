@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-12-canh-dieu-tao-bieu-mau-co-dap-an",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-12-canh-die",
+  "grade": "l12",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 12 Cánh diều Tạo biểu mẫu có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Câu 1: Trong biểu mẫu trên trang web, điều khiển nào thường được sử dụng để người dùng nhập ký tự văn bản?",
+      "options": [
+        "A. &lt;input type=\"checkbox\"&gt;",
+        "B. &lt;input type=\"radio\"&gt;",
+        "C. &lt;input type=\"text\"&gt;",
+        "D. &lt;input type=\"submit\"&gt;"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Điều khiển &lt;input type=\"text\"&gt; được sử dụng để nhập xâu ký tự, thường là văn bản."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Điều khiển nào trên biểu mẫu cho phép người dùng chọn nhiều mục cùng một lúc?",
+      "options": [
+        "A. Nút chọn (radio button)",
+        "B. Ô văn bản (text box)",
+        "C. Hộp kiểm (checkbox)",
+        "D. Nút gửi (submit button)"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Hộp kiểm (checkbox) cho phép người dùng chọn nhiều mục cùng một lúc, trong khi nút chọn chỉ cho phép chọn một mục."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Thuộc tính nào của điều khiển &lt;input type=\"text\"&gt; giúp nhận diện dữ liệu gửi từ biểu mẫu về máy chủ?",
+      "options": [
+        "A. type",
+        "B. value",
+        "C. name",
+        "D. placeholder"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Thuộc tính name của điều khiển giúp xác định và xử lý dữ liệu gửi từ biểu mẫu về máy chủ web."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Điều khiển nào được sử dụng để gửi dữ liệu từ biểu mẫu về máy chủ web?",
+      "options": [
+        "A. &lt;input type=\"text\"&gt;",
+        "B. &lt;input type=\"radio\"&gt;",
+        "C. &lt;input type=\"checkbox\"&gt;",
+        "D. &lt;input type=\"submit\"&gt;"
+      ],
+      "answer": "D",
+      "note": "Đáp án: D Giải thích: Nút submit (&lt;input type=\"submit&gt;) được sử dụng để gửi dữ liệu từ biểu mẫu đến máy chủ web để xử lý."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Điều nào sau đây không phải là một phần của biểu mẫu trên trang web?",
+      "options": [
+        "A. Ô văn bản",
+        "B. Nút chọn",
+        "C. Hộp kiểm",
+        "D. Tiêu đề trang"
+      ],
+      "answer": "D",
+      "note": "Đáp án: D Giải thích: Tiêu đề trang không phải là một phần của biểu mẫu; nó là một phần của giao diện trang web nhưng không liên quan đến việc nhập dữ liệu."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Khi sử dụng các nút chọn (radio button), thuộc tính nào phải giống nhau để đảm bảo người dùng chỉ chọn được một mục?",
+      "options": [
+        "A. value",
+        "B. type",
+        "C. name",
+        "D. id"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Thuộc tính name phải giống nhau cho tất cả các nút chọn để đảm bảo chỉ có thể chọn một mục trong nhóm."
+    }
+  ]
+}

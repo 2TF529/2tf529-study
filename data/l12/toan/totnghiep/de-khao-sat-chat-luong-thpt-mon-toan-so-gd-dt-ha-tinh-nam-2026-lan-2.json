@@ -1,0 +1,196 @@
+{
+  "id": "l12-toan-totnghiep-2026-de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-ha-tinh-nam-2026-lan-2",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "code": "THPT_TKT_2026_HT_02",
+  "title": "Đề khảo sát chất lượng THPT môn Toán Sở GD&ĐT Hà Tĩnh năm 2026 - Lần 2",
+  "duration": 90,
+  "answerSource": "official",
+  "source": "https://dolthpt.vn/tot-nghiep-thpt/pdf-de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-ha-tinh-nam-2026-lan-2-co-dap-an",
+  "notes": "Nội dung, đáp án và lời giải được nhập từ bản công khai của DOL THPT.",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "content": "Cho cấp số nhân $(u_n)$ có $u_1=3$ và công bội $q=2$. Số hạng $u_3$ của cấp số nhân đã cho bằng",
+      "chuong": "dãy số. cấp số cộng và cấp số nhân",
+      "dang": "số hạng tổng quát của cấp số nhân",
+      "type": "single",
+      "options": [
+        "A. \\$5$.",
+        "B. \\$18$.",
+        "C. \\$24$.",
+        "D. \\$12$."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cấp số nhân có $u_1=3$ và công bội $q=2$.\n- Cần tìm số hạng $u_3$.\n❓ **Hiểu câu hỏi:**\n- Câu thuộc dạng số hạng tổng quát của cấp số nhân, nên dùng công thức $u_n=u_1q^{n-1}$.\n🔎 **Hướng dẫn cách làm:**\n- Ta có $u_3=u_1q^{3-1}$ vì số hạng thứ $n$ của cấp số nhân được tính theo công thức tổng quát.\n- Thay $u_1=3$, $q=2$ được $u_3=3\\cdot2^2=12$.\n✅ **Đáp án:** Chọn D. $u_3=12$."
+    },
+    {
+      "id": 2,
+      "content": "Đạo hàm của hàm số $y=4^x$ là",
+      "chuong": "đạo hàm",
+      "dang": "đạo hàm của hàm số mũ và hàm số lôgarit",
+      "type": "single",
+      "options": [
+        "A. $y\\prime=4^x\\ln x$.",
+        "B. $y\\prime=4^x$.",
+        "C. $y\\prime=4^x\\ln4$.",
+        "D. $y\\prime=x\\cdot4^{x-1}$."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số cần lấy đạo hàm là $y=4^x$.\n❓ **Hiểu câu hỏi:**\n- Câu thuộc dạng đạo hàm của hàm số mũ, nên dùng công thức $(a^x)'=a^x\\ln a$ với $a>0, a\\ne1$.\n🔎 **Hướng dẫn cách làm:**\n- Áp dụng công thức với $a=4$ ta có $y'=(4^x)'=4^x\\ln4$.\n✅ **Đáp án:** Chọn C."
+    },
+    {
+      "id": 3,
+      "content": "Trong không gian $Oxyz$, cho mặt cầu $(S)$ có tâm $I(0;2;1)$ và bán kính $R=5$. Phương trình của $(S)$ là",
+      "chuong": "phương pháp tọa độ trong không gian",
+      "dang": "phương trình mặt cầu",
+      "type": "single",
+      "options": [
+        "A. $x^2+(y+2)^2+(z+1)^2=5$.",
+        "B. $x^2+(y-2)^2+(z-1)^2=25$.",
+        "C. $x^2+(y-2)^2+(z-1)^2=5$.",
+        "D. $x^2+(y+2)^2+(z+1)^2=25$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Mặt cầu có tâm $I(0;2;1)$ và bán kính $R=5$.\n❓ **Hiểu câu hỏi:**\n- Câu thuộc dạng phương trình mặt cầu, nên dùng công thức $(x-a)^2+(y-b)^2+(z-c)^2=R^2$ với tâm $I(a;b;c)$.\n🔎 **Hướng dẫn cách làm:**\n- Thay $a=0,b=2,c=1,R=5$ vào công thức phương trình mặt cầu.\n- Sau khi thay các giá trị của tâm và bán kính, phương trình là $x^2+(y-2)^2+(z-1)^2=25$.\n✅ **Đáp án:** Chọn B."
+    },
+    {
+      "id": 4,
+      "content": "Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình bình hành tâm $O$, $M$ là trung điểm $SA$ (xem hình dưới đây). Phát biểu nào sau đây là đúng?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-ha-tinh-nam-2026-lan-2/cau-04.webp\" alt=\"Hình minh họa câu 4\" loading=\"lazy\"></figure>",
+      "chuong": "quan hệ song song trong không gian",
+      "dang": "đường thẳng song song với mặt phẳng",
+      "type": "single",
+      "options": [
+        "A. $OM\\parallel(SAB)$.",
+        "B. $OM\\parallel(SAD)$.",
+        "C. $OM\\parallel(SBC)$.",
+        "D. $OM\\parallel(SBD)$."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Đáy $ABCD$ là hình bình hành tâm $O$ nên $O$ là trung điểm của đường chéo $AC$.\n- $M$ là trung điểm của $SA$.\n❓ **Hiểu câu hỏi:**\n- Câu thuộc dạng đường thẳng song song với mặt phẳng, nên chứng minh một đường thẳng song song với một đường nằm trong mặt phẳng đó.\n🔎 **Hướng dẫn cách làm:**\n- Xét tam giác $SAC$, điểm $M$ là trung điểm $SA$ và $O$ là trung điểm $AC$.\n- Theo định lý đường trung bình trong tam giác, $MO\\parallel SC$.\n- Đường thẳng $SC$ nằm trong mặt phẳng $(SBC)$, nên $OM\\parallel (SBC)$.\n✅ **Đáp án:** Chọn C."
+    },
+    {
+      "id": 5,
+      "content": "Phương trình $\\tan x=1$ có tất cả các nghiệm là",
+      "chuong": "hàm số lượng giác và phương trình lượng giác",
+      "dang": "phương trình tanx=m",
+      "type": "single",
+      "options": [
+        "A. $\\dfrac{\\pi}{4}+k\\pi\\ (k\\in\\mathbb{Z})$.",
+        "B. $-\\dfrac{\\pi}{4}+k\\pi\\ (k\\in\\mathbb{Z})$.",
+        "C. $-\\dfrac{\\pi}{4}+2k\\pi\\ (k\\in\\mathbb{Z})$.",
+        "D. $\\dfrac{\\pi}{4}+2k\\pi\\ (k\\in\\mathbb{Z})$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Phương trình cần giải là $\\tan x=1$.\n❓ **Hiểu câu hỏi:**\n- Câu thuộc dạng phương trình $\\tan x=m$, nên tìm nghiệm cơ bản rồi cộng chu kì $\\pi$ của hàm tang.\n🔎 **Hướng dẫn cách làm:**\n- Vì $\\tan \\dfrac{\\pi}{4}=1$ nên nghiệm cơ bản là $x=\\dfrac{\\pi}{4}$.\n- Hàm $\\tan x$ có chu kì $\\pi$, do đó nghiệm tổng quát là $x=\\dfrac{\\pi}{4}+k\\pi,\\ k\\in\\mathbb Z$.\n✅ **Đáp án:** Chọn A."
+    },
+    {
+      "id": 6,
+      "content": "Cho hình hộp $ABCD.A'B'C'D'$ (xem hình dưới đây). Phát biểu nào sau đây là sai?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-ha-tinh-nam-2026-lan-2/cau-06.webp\" alt=\"Hình minh họa câu 6\" loading=\"lazy\"></figure>",
+      "chuong": "quan hệ song song trong không gian",
+      "dang": "hình lăng trụ và hình hộp",
+      "type": "single",
+      "options": [
+        "A. $\\overrightarrow{AB\\prime}+\\overrightarrow{CB}=\\overrightarrow{AC\\prime}$.",
+        "B. $\\overrightarrow{CC\\prime}=\\overrightarrow{AA\\prime}$.",
+        "C. $\\overrightarrow{AB}+\\overrightarrow{AD}+\\overrightarrow{AA\\prime}=\\overrightarrow{AC\\prime}$.",
+        "D. $\\overrightarrow{AB}+\\overrightarrow{AD}=\\overrightarrow{AC}$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Trong hình hộp, đặt $\\overrightarrow{AB}=\\vec u$, $\\overrightarrow{AD}=\\vec v$, $\\overrightarrow{AA'}=\\vec w$.\n- Cần tìm phát biểu sai về các đẳng thức vectơ.\n❓ **Hiểu câu hỏi:**\n- Câu thuộc dạng vectơ trong hình hộp, nên biểu diễn các vectơ qua ba vectơ cạnh xuất phát từ $A$.\n🔎 **Hướng dẫn cách làm:**\n- Ta có $\\overrightarrow{AB'}=\\vec u+\\vec w$ và $\\overrightarrow{CB}=\\overrightarrow{B}-\\overrightarrow{C}=-\\vec v$.\n- Vì vậy $\\overrightarrow{AB'}+\\overrightarrow{CB}=\\vec u-\\vec v+\\vec w$, trong khi $\\overrightarrow{AC'}=\\vec u+\\vec v+\\vec w$.\n- Hai vectơ trên không bằng nhau, nên phát biểu A là phát biểu sai; các đẳng thức còn lại là các hệ thức cạnh chuẩn của hình hộp.\n✅ **Đáp án:** Chọn A."
+    },
+    {
+      "id": 7,
+      "content": "Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình vuông cạnh bằng \\$3$, cạnh bên $SA$ vuông góc với mặt phẳng đáy và $SA=2$. Thể tích khối chóp $S.ABCD$ bằng",
+      "chuong": "quan hệ vuông góc trong không gian",
+      "dang": "thể tích",
+      "type": "single",
+      "options": [
+        "A. \\$18$.",
+        "B. \\$6$.",
+        "C. \\$4$.",
+        "D. \\$12$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Đáy là hình vuông cạnh \\$3$ nên diện tích đáy là \\$3^2=9$.\n- $SA\\perp (ABCD)$ và $SA=2$ nên chiều cao khối chóp là \\$2$.\n❓ **Hiểu câu hỏi:**\n- Câu thuộc dạng tính thể tích khối chóp, nên dùng công thức $V=\\dfrac13S_{\\text{đáy}}h$.\n🔎 **Hướng dẫn cách làm:**\n- Diện tích đáy là $S_{ABCD}=3^2=9$.\n- Chiều cao tương ứng với đáy là $h=SA=2$ vì $SA$ vuông góc với mặt phẳng đáy.\n- Áp dụng công thức thể tích, $V=\\dfrac13\\cdot9\\cdot2=6$.\n✅ **Đáp án:** Chọn B."
+    },
+    {
+      "id": 8,
+      "content": "Trong không gian $Oxyz$, cho mặt phẳng $(P):3x+y+z+2=0$. Một vectơ pháp tuyến của $(P)$ là",
+      "chuong": "phương pháp tọa độ trong không gian",
+      "dang": "vectơ pháp tuyến và cặp vectơ chỉ phương của mặt phẳng",
+      "type": "single",
+      "options": [
+        "A. $\\vec n=(1;1;2)$.",
+        "B. $\\vec n=(3;1;2)$.",
+        "C. $\\vec n=(3;1;1)$.",
+        "D. $\\vec n=(3;-1;-1)$."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Mặt phẳng có phương trình $(P):3x+y+z+2=0$.\n❓ **Hiểu câu hỏi:**\n- Câu thuộc dạng vectơ pháp tuyến của mặt phẳng, nên lấy các hệ số của $x,y,z$ trong phương trình tổng quát.\n🔎 **Hướng dẫn cách làm:**\n- Với mặt phẳng $Ax+By+Cz+D=0$, một vectơ pháp tuyến là $\\vec n=(A;B;C)$.\n- Ở đây $A=3,B=1,C=1$, nên $\\vec n=(3;1;1)$.\n✅ **Đáp án:** Chọn C."
+    },
+    {
+      "id": 9,
+      "content": "Nghiệm của phương trình $\\log_3(x-1)=2$ là",
+      "chuong": "hàm số mũ và hàm số lôgarit",
+      "dang": "phương trình lôgarit",
+      "type": "single",
+      "options": [
+        "A. \\$10$.",
+        "B. \\$8$.",
+        "C. \\$7$.",
+        "D. \\$9$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Phương trình cần giải là $\\log_3(x-1)=2$.\n❓ **Hiểu câu hỏi:**\n- Câu thuộc dạng phương trình lôgarit, nên đổi về dạng mũ sau khi xét điều kiện $x-1>0$.\n🔎 **Hướng dẫn cách làm:**\n- Điều kiện xác định là $x>1$; theo định nghĩa lôgarit, $\\log_3(x-1)=2\\Leftrightarrow x-1=3^2=9$.\n- Suy ra $x=10$ và giá trị này thỏa mãn điều kiện.\n✅ **Đáp án:** Chọn A."
+    },
+    {
+      "id": 10,
+      "content": "Thống kê điểm trung bình môn Toán của các học sinh lớp 12A được cho ở bảng sau:\nPhương sai của mẫu số liệu trên bằng\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-ha-tinh-nam-2026-lan-2/cau-10.webp\" alt=\"Hình minh họa câu 10\" loading=\"lazy\"></figure>",
+      "chuong": "các số đặc trưng đo mức độ phân tán cho mẫu số liệu ghép nhóm",
+      "dang": "phương sai và độ lệch chuẩn",
+      "type": "single",
+      "options": [
+        "A. \\$0,7$.",
+        "B. \\$0,15$.",
+        "C. \\$6$.",
+        "D. \\$8,5$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Các nhóm điểm là $[6;7),[7;8),[8;9),[9;10)$ với tần số lần lượt \\$2,8,18,12$.\n- Dùng giá trị đại diện các nhóm là \\$6{,}5;7{,}5;8{,}5;9{,}5$.\n❓ **Hiểu câu hỏi:**\n- Câu thuộc dạng phương sai của mẫu số liệu ghép nhóm, nên tính trung bình cộng rồi lấy trung bình các bình phương độ lệch.\n🔎 **Hướng dẫn cách làm:**\n- Trung bình mẫu là $\\overline x=\\dfrac{2\\cdot6{,}5+8\\cdot7{,}5+18\\cdot8{,}5+12\\cdot9{,}5}{40}=8{,}5$.\n- Các độ lệch so với $\\overline x$ là $-2,-1,0,1$ tương ứng với bốn nhóm.\n- Phương sai là $s^2=\\dfrac{2\\cdot(-2)^2+8\\cdot(-1)^2+18\\cdot0^2+12\\cdot1^2}{40}=0{,}7$.\n✅ **Đáp án:** Chọn A."
+    },
+    {
+      "id": 11,
+      "content": "Cho hàm số $y=\\dfrac{ax+b}{cx+d}$ ($a,b,c,d\\in\\mathbb{R}$ và $c\\neq0$) có đồ thị như hình vẽ. Tiệm cận đứng của đồ thị hàm số đã cho có phương trình là\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-ha-tinh-nam-2026-lan-2/cau-11.webp\" alt=\"Hình minh họa câu 11\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "đường tiệm cận đứng",
+      "type": "single",
+      "options": [
+        "A. $x=-1$.",
+        "B. $y=1$.",
+        "C. $x=1$.",
+        "D. $y=-1$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Đồ thị có một đường tiệm cận đứng được vẽ song song trục $Oy$.\n- Trên hình, đường tiệm cận đứng đi qua vị trí $x=-1$ trên trục hoành.\n❓ **Hiểu câu hỏi:**\n- Câu thuộc dạng đọc tiệm cận đứng từ đồ thị, nên xác định hoành độ của đường thẳng đứng mà đồ thị tiến lại gần.\n🔎 **Hướng dẫn cách làm:**\n- Đường thẳng đứng mà hai nhánh đồ thị tiến gần đến có phương trình $x=-1$.\n- Vì tiệm cận đứng luôn có dạng $x=a$, nên phương trình cần chọn là $x=-1$.\n✅ **Đáp án:** Chọn A."
+    },
+    {
+      "id": 12,
+      "content": "Cho hàm số $f(x)$ có bảng biến thiên như sau:\nHàm số đã cho nghịch biến trên khoảng nào sau đây?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-ha-tinh-nam-2026-lan-2/cau-12.webp\" alt=\"Hình minh họa câu 12\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "tính đơn điệu của hàm số",
+      "type": "single",
+      "options": [
+        "A. $(-\\infty;1)$.",
+        "B. $(3;+\\infty)$.",
+        "C. $(-3;+\\infty)$.",
+        "D. $(-1;3)$."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Bảng biến thiên cho dấu $f'(x)$: dương trên $(-\\infty;-1)$, âm trên $(-1;3)$, dương trên $(3;+\\infty)$.\n❓ **Hiểu câu hỏi:**\n- Câu thuộc dạng tính đơn điệu từ bảng biến thiên, nên hàm số nghịch biến trên khoảng mà $f'(x)<0$.\n🔎 **Hướng dẫn cách làm:**\n- Từ bảng, $f'(x)<0$ trên khoảng $(-1;3)$.\n- Vì đạo hàm âm trên khoảng đó, hàm số nghịch biến trên $(-1;3)$.\n✅ **Đáp án:** Chọn D."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-2-cac-dang-bai-tap-phuong-trinh-bat-phuong-trinh-mu-va-logarit-lo",
+  "sourceId": "vietjack:2-cac-dang-bai-tap-phuong-trinh-bat-phuo",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.Các dạng bài tập Phương trình, bất phương trình mũ và lôgarit lớp 11 (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Phương trình 4 x = 2 có nghiệm là:",
+      "options": [
+        "A. x = 2;",
+        "B. x = – 2;",
+        "C. x = 1 2 ;",
+        "D. x = − 1 2 ."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C 4 x = 2 Û x = log 4 2 Û x = 1 2 . Vậy phương trình đã cho có nghiệm duy nhất x = 1 2 ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Phương trình 7 1 x = 10 có nghiệm là:",
+      "options": [
+        "A. x = log7;",
+        "B. x = log 7 10;",
+        "C. x = log 7 5;",
+        "D. x = log 5 7."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A 7 1 x = 10 Û 1 x = log 7 10 Û x = log 10 7 = log7. Vậy phương trình đã cho có nghiệm duy nhất x = log7."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Phương trình 4 x − 2 = 4 16 x có nghiệm là:",
+      "options": [
+        "A. x = 0;",
+        "B. x = – 1;",
+        "C. x = 2;",
+        "D. x = 1."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Đưa vế phải về cơ số 4, ta có 4 16 x = 4 1 − 2x . Từ đó phương trình trở thành 4 x-2 = 4 1-2x ⇔ x – 2 = 1 – 2x ⇔ x = 1. Vậy phương trình đã cho có nghiệm duy nhất x = 1."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Tập nghiệm của phương trình 2 x 2 − x+ 4 = 16 là:",
+      "options": [
+        "A. {–1; 0};",
+        "B. {0; 1};",
+        "C. {1};",
+        "D. ∅ ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Û x 2 – x + 4 = log 2 16 Û x 2 – x + 4 = 4. Tức x 2 – x = 0 ⇔ x = 0 hoặc x = 1. Vậy tập nghiệm của phương trình đã cho là S = {0; 1}."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Số nghiệm của phương trình 3 x 2 + 5 x − 6 = 1 là:",
+      "options": [
+        "A. 1;",
+        "B. 2;",
+        "C. 0;",
+        "D. Vô số nghiệm."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải: Đáp án đúng là: B 3 x 2 + 5 x − 6 = 1 Û x 2 + 5x – 6 = log 3 1 Û x 2 + 5x – 6 = 0. ⇔ (x – 1)(x + 6) = 0 ⇔ x = 1 hoặc x = – 6. Vậy phương trình đã cho có 2 nghiệm."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Phương trình 2 2 x − 1 − 1 16 = 0 có nghiệm là:",
+      "options": [
+        "A. x = 0;",
+        "B. x = – 1;",
+        "C. x = − 3 2 ;",
+        "D. x = 1 2 ."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Phương trình 1 5 4 x + 9 = 5 x − 2 có nghiệm là:",
+      "options": [
+        "A. x = 7 5",
+        "B. x = 5 7",
+        "C. x = − 5 7",
+        "D. x = − 7 5"
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Đưa vế trái về cơ số 5, ta có 1 5 4 x + 9 = 5 -4x − 9 . Từ đó phương trình trở thành 5 -4x-9 = 5 x-2 ⇔ – 4x – 9 = x – 2 ⇔ x = − 7 5 Vậy phương trình đã cho có nghiệm duy nhất x = − 7 5 ."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Tổng các nghiệm của phương trình 3 x 2 + 8 x = 9 8 là:",
+      "options": [
+        "A. 4;",
+        "B. 7;",
+        "C. 0;",
+        "D. − 8."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Đưa vế phải về cơ số 3, ta có 9 8 = 3 16 . Từ đó phương trình trở thành ⇔ x 2 + 8x = 16 ⇔ x = − 4 + 4 2 hoặc x = − 4 − 4 2 . Tổng các nghiệm của phương trình là − 8."
+    }
+  ]
+}

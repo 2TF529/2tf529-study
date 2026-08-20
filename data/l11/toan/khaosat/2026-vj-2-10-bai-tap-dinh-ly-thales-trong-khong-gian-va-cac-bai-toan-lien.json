@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-10-bai-tap-dinh-ly-thales-trong-khong-gian-va-cac-bai-toan-lien",
+  "sourceId": "vietjack:2-10-bai-tap-dinh-ly-thales-trong-khong-",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.10 Bài tập Định lý Thalès trong không gian và các bài toán liên quan (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho hai đường thẳng d và d’ chéo nhau và các điểm A, B, C trên d, các điểm A’, B’, C’ trên d’ sao cho A B A ' B ' = B C B ' C ' = A C A ' C ' . Khi đó các đường thẳng AA’, BB’, CC’",
+      "options": [
+        "A. Đôi một cắt nhau;",
+        "B. Trùng nhau;",
+        "C. AA’ song song BB’ và cắt CC’ ;",
+        "D. Song song với nhau."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Theo định lý Thalès đảo ta có ba đường thẳng trên song song với nhau."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hình chóp S.ABC. Gọi D, E, F lần lượt là trung điểm của SB, SA, SC. Vị trí tương đối của (DEF) và (ABC) là",
+      "options": [
+        "A. Song song;",
+        "B. Trùng nhau;",
+        "C. Cắt nhau;",
+        "D. Không xác định được."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Vì D, E, F lần lượt là trung điểm của SA, SB, SC nên ta có S D S B = S E S A = S F S C = 1 2 , suy ra (DEF) // (ABC) (định lý Thal è s đảo)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho hình chóp S.ABC, mặt phẳng (P) song song với (ABC) đi qua trọng tâm G của tam giác SAB và cắt SC tại H. Tỷ lệ S H S C bằng",
+      "options": [
+        "A. 1 2",
+        "B. 1 3",
+        "C. 2 3",
+        "D. 1"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Gọi M là trung điểm AB. G là trọng tâm tam giác SAB nên S G S M = 2 3 . Mặt phẳng (P) song song (ABC) và cắt SM tại G, SC tại H nên S G S M = S H S C = 2 3 (định lý Thal è s)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Hai hình vuông ABCD và ABEF nằm trong hai mặt phẳng phân biệt. Trên các đường chéo AC và BF lần lượt lấy hai điểm M và N sao cho AM = BN. Vị trí tương đối của MN và (CDFE) là",
+      "options": [
+        "A. Cắt nhau;",
+        "B. Song song;",
+        "C. MN nằm trên (CDFE);",
+        "D. Không đủ điều kiện xác định."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hình bình hành ABCD và một điểm S không nằm trên (ABCD, E và F là hai điểm trên SA; SB sao cho: S E S A = S F S B = 1 3 . Vị trí tương đối giữa EF và (ABCD) là",
+      "options": [
+        "A. EF nằm trên (ABCD);",
+        "B. EF cắt (ABCD);",
+        "C. EF song song (ABCD);",
+        "D. EF và (ABCD) chéo nhau"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Theo định lí Thalès, ta có: S E S A = S F S B = 1 3 nên EF song song với AB (định lý Thalès) . Mà AB nằm trong mặt phẳng (ABCD) nên: EF // (ABCD) ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho tứ diện ABCD. G là trọng tâm của tam giác ABD; M nằm trên AB sao cho AM = 2MB. Vị trí tương đối của MG và (BCD) là",
+      "options": [
+        "A. MG nằm trên (BCD);",
+        "B. MG cắt (BCD);",
+        "C. MG song song (BCD);",
+        "D. MG và (BCD) chéo nhau."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Gọi P là trung điểm của BD . Vì G là trọng tâm tam giác ABD nên A G A P = 2 3 (1) Điểm M nằm trên AB thỏa mãn: AM = 2MB nên A M A B = 2 3 (2) Từ (1) và (2) suy ra: A G A P = A M A B ⇒ MG // BD (định lí Thalès đảo) . Mặt khác BD nằm trong mặt phẳng (BCD) suy ra GQ // mp(BCD) ."
+    }
+  ]
+}

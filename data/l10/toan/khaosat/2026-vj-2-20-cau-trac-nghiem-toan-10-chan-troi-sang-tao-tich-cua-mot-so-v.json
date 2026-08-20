@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-20-cau-trac-nghiem-toan-10-chan-troi-sang-tao-tich-cua-mot-so-v",
+  "sourceId": "vietjack:2-20-cau-trac-nghiem-toan-10-chan-troi-s",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.20 câu Trắc nghiệm Toán 10 chân trời sáng tạo Tích của một số với một vectơ có đáp án (Phần 2)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Điền vào chỗ trống: Tích của một số k với một vectơ khác vectơ-không là ….",
+      "options": [
+        "A. một số;",
+        "B. một vectơ;",
+        "C. một độ dài;",
+        "D. vectơ-không."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Tích của một số k với một vectơ khác vectơ-không là một vectơ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Tích của số k với vectơ a → là vectơ k a → có mối quan hệ như thế nào với a → ?",
+      "options": [
+        "A. ngược hướng;",
+        "B. cùng hướng;",
+        "C. vuông góc;",
+        "D. cùng phương."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Tích của số k với vectơ a → là vectơ k a → ngược hướng với a → nếu k < 0, cùng hướng với a → nếu k > 0. Do đó vectơ k a → cùng phương với vectơ a → . Ta chọn phương án D."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Ba điểm phân biệt A, B, C thẳng hàng khi và chỉ khi có số k khác 0 thỏa mãn:",
+      "options": [
+        "A. A B → = k A C → ;",
+        "B. AB = kBC;",
+        "C. A B → = A C → ;",
+        "D. A B → + A C → = k ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ba điểm phân biệt A, B, C thẳng hàng khi và chỉ khi có số k khác 0 thỏa mãn A B → = k A C → . Vậy ta chọn phương án A."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho ba điểm A, B, C phân biệt, B là trung điểm của AC. Khi đó:",
+      "options": [
+        "A. A C → = 2 A B → ;",
+        "B. A B → = 2 A C → ;",
+        "C. C A → = 2 A B → ;",
+        "D. A C → = 2 C B → ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A A, B, C thẳng hàng thì suy ra A B → cùng phương với A C → . B là trung điểm của AC nên AC = 2AB. Do đó A C → = 2 A B → ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho MN = a, NP = 2a. Tính 3 M N → + 2 N P → .",
+      "options": [
+        "A. 3 M N → + 2 N P → = 7 a ;",
+        "B. 3 M N → + 2 N P → = 5 a ;",
+        "C. 3 M N → + 2 N P → = 3 a ;",
+        "D. 3 M N → + 2 N P → = 10 a ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có 3 M N → + 2 N P → = 3 M N → + 2 N P → = 3. a + 2.2 a = 7 a ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho 3 điểm M, N, P sao cho M N → = − 3 N P → . Chọn khẳng định đúng:",
+      "options": [
+        "A. M, N, P thẳng hàng;",
+        "B. MN = 3NP;",
+        "C. Điểm P nằm giữa hai điểm M và N;",
+        "D. Cả A, B, C đều đúng."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Ta có: • M N → = − 3 N P → suy ra M, N, P thẳng hàng, do đó phương án A đúng. • M N → = − 3 N P → suy ra MN = 3NP, do đó phương án B đúng. • M N → = − 3 N P → nên M N → , N P → ngược hướng. Do đó điểm P nằm giữa hai điểm M và N nên phương án C đúng. Vậy ta chọn phương án D."
+    }
+  ]
+}

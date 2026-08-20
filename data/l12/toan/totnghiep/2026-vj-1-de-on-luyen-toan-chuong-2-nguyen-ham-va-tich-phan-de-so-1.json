@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-1-de-on-luyen-toan-chuong-2-nguyen-ham-va-tich-phan-de-so-1",
+  "sourceId": "vietjack:1-de-on-luyen-toan-chuong-2-nguyen-ham-v",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "title": "1.Đề ôn luyện Toán Chương 2. Nguyên hàm và tích phân (đề số 1)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Nguyên hàm \\(F\\left( x \\right)\\) của hàm số \\(f\\left( x \\right) = 2\\sin x - \\cos x\\) thỏa mãn \\(F\\left( {\\frac{\\pi }{3}} \\right) = - \\frac{{\\sqrt 3 }}{2}\\) là",
+      "options": [
+        "A. \\(F\\left( x \\right) = 2\\cos x - \\sin x - 1\\) .",
+        "B. \\(F\\left( x \\right) = 2\\cos x + \\sin x - 1 - \\sqrt 3 \\) .",
+        "C. \\(F\\left( x \\right) = - 2\\cos x - \\sin x + 1\\)",
+        "D. \\(F\\left( x \\right) = - 2\\cos x - \\sin x - 1\\) ."
+      ],
+      "answer": "C",
+      "note": "Ta có \\(F\\left( x \\right) = \\int {\\left( {2\\sin x - \\cos x} \\right){\\rm{d}}x} = - 2\\cos x - \\sin x + C\\) . \\(F\\left( {\\frac{\\pi }{3}} \\right) = - 2\\cos \\frac{\\pi }{3} - \\sin \\frac{\\pi }{3} + C = - \\frac{{\\sqrt 3 }}{2} \\Rightarrow C = 1\\) . Vậy \\(F\\left( x \\right) = - 2\\cos x - \\sin x + 1\\) . Chọn C ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Họ các nguyên hàm của hàm số \\(f\\left( x \\right) = {{\\rm{e}}^{3x}} + 1\\) là",
+      "options": [
+        "A. \\[3{{\\rm{e}}^{3x}} + C\\] .",
+        "B. \\[\\frac{1}{3}{{\\rm{e}}^{3x}} + C\\] .",
+        "C. \\[3{{\\rm{e}}^{3x}} + x + C\\] .",
+        "D. \\[\\frac{1}{3}{{\\rm{e}}^{3x}} + x + C\\] ."
+      ],
+      "answer": "D",
+      "note": "Ta có \\(\\int {f\\left( x \\right){\\rm{d}}x} = \\int {\\left( {{{\\rm{e}}^{3x}}{\\rm{ + 1}}} \\right){\\rm{d}}x} = \\int {{{\\rm{e}}^{3x}}{\\rm{d}}x} + \\int {{\\rm{d}}x} = \\frac{1}{3}{{\\rm{e}}^{3x}} + x + C.\\) Chọn D ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho hàm số \\(y = f\\left( x \\right)\\) xác định trên \\(\\mathbb{R}\\) thỏa mãn \\(f'\\left( x \\right) = {x^2} - 2x - 3\\) và \\(f\\left( 0 \\right) = 1\\) . Khi đó \\(f\\left( x \\right)\\) bằng",
+      "options": [
+        "A. \\[\\frac{{{x^3}}}{3} - {x^2} - 3x + 2\\] .",
+        "B. \\[\\frac{{{x^3}}}{3} - {x^2} - 3x + 3\\]",
+        "C. \\[\\frac{{{x^3}}}{3} - {x^2} - 3x + 1\\] .",
+        "D. \\[\\frac{{{x^3}}}{3} - {x^2} - 3x\\] ."
+      ],
+      "answer": "C",
+      "note": "Ta có \\[f\\left( x \\right) = \\int {f'\\left( x \\right){\\rm{d}}x} = \\int {\\left( {{x^2} - 2x - 3} \\right){\\rm{d}}x = \\frac{{{x^3}}}{3} - {x^2} - 3x + C} \\] . Mà \\(f\\left( 0 \\right) = 1 \\Rightarrow C = 1\\) . Vậy \\[f\\left( x \\right) = \\frac{{{x^3}}}{3} - {x^2} - 3x + 1\\] . Chọn C ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Nguyên hàm của hàm số \\(f\\left( x \\right) = {2^x} + x\\) là",
+      "options": [
+        "A. \\({2^x} + \\frac{{{x^2}}}{2} + C\\) .",
+        "B. \\({2^x} + {x^2} + C\\) .",
+        "C. \\(\\frac{{{2^x}}}{{\\ln 2}} + {x^2} + C\\) .",
+        "D. \\(\\frac{{{2^x}}}{{\\ln 2}} + \\frac{{{x^2}}}{2} + C\\) ."
+      ],
+      "answer": "D",
+      "note": "Ta có \\(\\int {\\left( {{2^x} + x} \\right)} \\,{\\rm{d}}x = \\frac{{{2^x}}}{{\\ln 2}} + \\frac{1}{2}{x^2} + C\\) . Chọn D ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hàm số \\(f\\left( x \\right)\\) liên tục trên đoạn \\(\\left[ {0;\\,10} \\right]\\) và \\(\\int\\limits_0^{10} {f\\left( x \\right){\\rm{d}}x = 7} \\) và \\(\\int\\limits_2^6 {f\\left( x \\right){\\rm{d}}x = 3} \\) . Tính \\(P = \\int\\limits_0^2 {f\\left( x \\right){\\rm{d}}x + \\int\\limits_6^{10} {f\\left( x \\right){\\rm{d}}x} } \\) .",
+      "options": [
+        "A. \\(P = 7\\) .",
+        "B. \\(P = - 4\\) .",
+        "C. \\(P = 4\\) .",
+        "D. \\(P = 10\\) ."
+      ],
+      "answer": "C",
+      "note": "Ta có \\(\\int\\limits_0^{10} {f\\left( x \\right){\\rm{d}}x = } \\)\\(\\int\\limits_0^2 {f\\left( x \\right){\\rm{d}}x} + \\int\\limits_2^6 {f\\left( x \\right){\\rm{d}}x} + \\int\\limits_6^{10} {f\\left( x \\right){\\rm{d}}x} \\) . Suy ra \\(P = \\int\\limits_0^2 {f\\left( x \\right){\\rm{d}}x} + \\int\\limits_6^{10} {f\\left( x \\right){\\rm{d}}x} = \\int\\limits_0^{10} {f\\left( x \\right){\\rm{d}}x} - \\int\\limits_2^6 {f\\left( x \\right){\\rm{d}}x} = 7 - 3 = 4\\) . Vậy \\(P = 4\\) . Chọn C ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Tính \\(\\int\\limits_1^3 {\\frac{{2{x^2} + 1}}{x}{\\rm{d}}x} \\) được kết quả là",
+      "options": [
+        "A. \\(8 - \\ln 3\\) .",
+        "B. \\(8 + 2\\ln 3\\) .",
+        "C. \\(8 + \\ln 3\\) .",
+        "D. \\(7 + \\ln 3\\) ."
+      ],
+      "answer": "C",
+      "note": "Ta có \\(\\int\\limits_1^3 {\\frac{{2{x^2} + 1}}{x}{\\rm{d}}x} = \\int\\limits_1^3 {\\left( {2x + \\frac{1}{x}} \\right){\\rm{d}}x = \\left( {{x^2} + \\ln \\left| x \\right|} \\right)} \\left| \\begin{array}{l}^3\\\\_1\\end{array} \\right. = \\left( {{3^2} + \\ln 3} \\right) - {1^2} = 8 + \\ln 3\\) . Chọn C ."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Tính \\(\\int\\limits_0^{\\frac{\\pi }{6}} {{\\rm{cos}}\\,x\\,{\\rm{d}}x} \\) được kết quả là",
+      "options": [
+        "A. \\( - 1\\) .",
+        "B. \\( - \\frac{1}{2}\\) .",
+        "C. \\(\\frac{1}{2}\\) .",
+        "D. \\(1\\) ."
+      ],
+      "answer": "C",
+      "note": "Ta có \\(\\int\\limits_0^{\\frac{\\pi }{6}} {{\\rm{cos}}\\,x\\,{\\rm{d}}x} = \\sin x\\left| \\begin{array}{l}^{\\frac{\\pi }{6}}\\\\_0\\end{array} \\right. = \\sin \\frac{\\pi }{6} - \\sin 0 = \\frac{1}{2}\\) . Chọn C ."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Kết quả phép tính \\(\\int\\limits_1^2 {{3^x}{\\rm{d}}x} \\) bằng",
+      "options": [
+        "A. \\(\\frac{2}{{\\ln 3}}\\) .",
+        "B. \\(6\\) .",
+        "C. \\(\\frac{{ - 6}}{{\\ln 3}}\\) .",
+        "D. \\(\\frac{6}{{\\ln 3}}\\) ."
+      ],
+      "answer": "D",
+      "note": "Ta có \\[\\int\\limits_1^2 {{3^x}{\\rm{d}}x} = \\left. {\\frac{{{3^x}}}{{\\ln 3}}} \\right|_1^2 = \\frac{9}{{\\ln 3}} - \\frac{3}{{\\ln 3}} = \\frac{6}{{\\ln 3}}\\] . Chọn D ."
+    }
+  ]
+}

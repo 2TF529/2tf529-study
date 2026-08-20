@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-trac-nghiem-luc-can-va-luc-nang-lop-10-co-dap-an",
+  "sourceId": "vietjack:1-trac-nghiem-luc-can-va-luc-nang-lop-10",
+  "grade": "l10",
+  "subjectSlug": "li",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.Trắc nghiệm Lực cản và lực nâng lớp 10 (có đáp án)",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Một vật khối lượng 2,5 kg rơi thẳng đứng từ độ cao 100 m không vận tốc đầu, sau 20s thì chạm đất. Tính lực cản của không khí (coi như không đổi) tác dụng lên vật lấy g = 10 m/s 2 .",
+      "options": [
+        "A. 23,75 N.",
+        "B. 40 N.",
+        "C. 20 N.",
+        "D. 25 N."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Chọn trục tọa độ Oy gắn với quỹ đạo rơi của vật, gốc tọa độ tại mặt đất, chiều dương hướng xuống. Phương trình chuyển động của vật: y = h − 1 2 a t 2 . Khi vật rơi chạm đất y = 0 ⇒ a = 2 h t 2 = 2.100 20 2 = 0 , 5 m / s 2 Áp dụng biểu thức định luật II Newton: P − F c = m a ⇒ F c = m g − m a = m ( g − a ) = 2 , 5 ( 10 − 0 , 5 ) = 23 , 75 N"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Một quả cầu khối lượng m = 1 kg, bán kính r = 8 cm. Tìm vận tốc rơi cực đại của quả cầu. Biết rằng lực cản của không khí có biểu thức F = kSv 2 hệ số k = 0,024",
+      "options": [
+        "A. 14,4 m/s.",
+        "B. 144 m/s.",
+        "C. 50 m/s.",
+        "D. 35 m/s."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Trong quá trình rơi vật chịu tác dụng của P → và F c → . Áp dụng biểu thức của định luật II Newton: P → + F c → = m a → . Chiếu lên trục Oy theo phương thẳng đứng, chiều dương hướng xuống: P − F c = m a ⇔ P − k S v 2 = m a Khi vật mới chuyển động, lực cản nhỏ, trong quá trình vật chuyển động, lực cản tăng dần. Vận tốc của vật đạt giá trị cực đại khi P − k S v 2 = 0 ⇒ v max = P k S = m g k π r 2 = 1.10 0 , 024. π .0 , 08 2 = 143 , 96 m / s"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Một người có thể bơi trong nước (khi nước không chảy thành dòng) với vận tốc 1,5 m/s. Người đó bơi trên một con sông, xuôi dòng từ điểm A đến điểm B sau đó bơi ngược lại từ B trở về. Biết tổng thời gian bơi là 2 phút và khoảng cách giữa A và B là 50 m. Vận tốc dòng chảy là",
+      "options": [
+        "A. 0,5 m/s",
+        "B. 1 m/s",
+        "C. 2 m/s",
+        "D. 0,75 m/s"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Gọi v là vận tốc của người đó khi nước không chảy, v n là vận tốc của dòng nước Khi người đó bơi xuôi dòng, vận tốc bơi bằng: v x = v + v n t x = A B v x = A B v + v n Khi người đó bơi ngược dòng, vận tốc bơi bằng: v n g = v − v n t n g = A B v n g = A B v − v n Tổng thời gian đã bơi là: t = t x + t n g = A B v + v n + A B v − v n = 2. A B . v v 2 − v n 2 ⇒ v n = v 2 − 2. A B . v t = 1 , 5 2 − 2.50.1 , 5 2.60 = 1 m / s"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Khinh khí cầu hoạt động dựa trên nguyên tắc nào?",
+      "options": [
+        "A. Khí nóng nhẹ hơn, chuyển động nhanh hơn khí lạnh.",
+        "B. Bay lên nhờ động cơ.",
+        "C. Dựa theo sức gió của môi trường xung quanh.",
+        "D. Cả A và C đều đúng."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Khi đốt khí bên trong nóng lên, nhẹ hơn và làm cho khí cầu bay lên. Để điều chỉnh cho khí cầu di chuyển từ nơi này đến nơi khác mới cần chú ý đến sức gió của môi trường xung quanh."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cặp lực nào không cân bằng trong các cặp lực sau đây:",
+      "options": [
+        "A. Lực của mặt nước và lực hút của Trái Đất tác dụng vào thuyền để thuyền đứng yên trên mặt nước.",
+        "B. Lực của 2 em bé kéo hai đầu sợi dây khi sợi dây đứng yên.",
+        "C. Lực mà lò xo tác dụng vào vật và lực mà vật tác dụng vào lò xo.",
+        "D. Lực nâng của sàn nhà và lực hút của trái đất tác dụng vào bàn."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Hai lực này là 2 lực trực đối, không cân bằng vì có điểm đặt khác nhau."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Gió tác dụng vào buồm một lực có:",
+      "options": [
+        "A. phương song song với mạn thuyền, cùng chiều với chiều chuyển động của thuyền.",
+        "B. phương song song với mạn thuyền, ngược chiều với chiều chuyển động của thuyền.",
+        "C. phương vuông góc với mạn thuyền, chiều từ trên xuống.",
+        "D. phương vuông góc với mạn thuyền, chiều từ dưới lên."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Gió tác dụng vào buồm một lực có phương song song với mạn thuyền, cùng chiều với chiều chuyển động của thuyền."
+    }
+  ]
+}

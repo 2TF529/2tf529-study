@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-12-bai-tap-lien-he-giua-duong-kinh-va-day-cua-duong-tron-co-loi",
+  "sourceId": "vietjack:2-12-bai-tap-lien-he-giua-duong-kinh-va-",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.12 bài tập Liên hệ giữa đường kính và dây của đường tròn có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho đường tròn (O) đường kính AB và dây CD không đi qua tâm. Khẳng định nào sau đây là đúng?",
+      "options": [
+        "A. AB > CD.",
+        "B. AB = CD.",
+        "C. AB < CD.",
+        "D. AB ≤ CD."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Trong các dây của đường tròn, dây lớn nhất là đường kính nên AB > CD."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: “Trong các dây của một đường tròn, đường kính là dây có độ dài….”. Cụm từ thích hợp điền vào chỗ trông là:",
+      "options": [
+        "A. Nhỏ nhất.",
+        "B. Lớn nhất.",
+        "C. Bằng 10 cm.",
+        "D. Bằng tổng hai dây bất kì."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Trong các dây của một đường tròn, đường kính là dây có độ dài lớn nhất."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Chọn khẳng định sai trong các khẳng định sau: AB = OA + OB = 2R.",
+      "options": [
+        "A. Đoạn thẳng nối hai điểm tùy ý của một đường tròn gọi là một dây cung của đường tròn.",
+        "B. Mỗi dây đi qua tâm là một đường kính của đường tròn.",
+        "C. Khi dây AB không là đường kính của đường tròn tâm (O; R) thì AB ≤ 2R.",
+        "D. Khi dây AB là đường kính của đường tròn tâm O bán kính R, ta có:"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Dựa vào khái niệm dây và đường kính, mối quan hệ giữa dây và đường kính có đáp án A, B, D, là đúng. Khi dây AB không là đường kính của đường tròn (O; R) thì AB < 2R."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Xét dây AB tùy ý không đi qua tâm của đường tròn (O; R). Khi đó:",
+      "options": [
+        "A. AB < R.",
+        "B. AB = R.",
+        "C. AB ≤ 2R.",
+        "D. AB < 2R."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Dây AB tùy ý không đi qua tâm nên AB < 2R."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho đường tròn (O) có hai dây AB, CD không đi qua tâm. Biết rằng khoảng cách từ tâm đến hai dây là bằng nhau. Kết luận nào sau đây là đúng?",
+      "options": [
+        "A. AB > CD.",
+        "B. AB = CD.",
+        "C. AB < CD.",
+        "D. AB ∕∕ CD."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Áp dụng định lí Pythagore vào tam giác EAO và GDO ta có: AE = \\(\\sqrt {A{O^2} - O{E^2}} = DG = \\sqrt {O{D^2} - O{G^2}} \\). Từ đây, suy ra AB = CD = 2AE = 2DG. Lưu ý: Trong một đường tròn hay dây cách đều tâm thì bằng nhau."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho đường tròn (O) có hai dây AB, CD không đi qua tâm. Biết rằng khoảng cách từ tâm đến dây AB lớn hơn khoảng cách từ tâm đến dây CD. Kết luận nào sau đây là đúng?",
+      "options": [
+        "A. AB > CD.",
+        "B. AB = CD.",
+        "C. AB < CD.",
+        "D. AB ∕∕ CD."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Áp dụng định lí Pythagore vào tam giác vuông AOE, ta có: AE = \\(\\sqrt {A{O^2} - O{E^2}} \\). Áp dụng định lí Pythagore vào tam giác vuông DOG, ta có: \\(DG = \\sqrt {O{D^2} - O{G^2}} \\). Và OE > OG; OA = OC từ đó suy ra AE < GD. Do đó, AB < CD. Lưu ý để giải toán: Trong một đường tròn, dây nào gần tâm hơn thì dây đó lớn hơn."
+    }
+  ]
+}

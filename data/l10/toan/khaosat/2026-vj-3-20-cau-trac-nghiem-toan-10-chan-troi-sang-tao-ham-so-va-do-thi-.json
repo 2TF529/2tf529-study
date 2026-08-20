@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-3-20-cau-trac-nghiem-toan-10-chan-troi-sang-tao-ham-so-va-do-thi-",
+  "sourceId": "vietjack:3-20-cau-trac-nghiem-toan-10-chan-troi-s",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.20 câu Trắc nghiệm Toán 10 chân trời sáng tạo Hàm số và đồ thị có đáp án (Phần 2)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho bảng dữ liệu sau về số sản phẩm bán được trong 7 ngày của một cửa hàng thời trang: Ngày 1 2 3 4 5 6 7 Số sản phẩm 25 35 40 30 37 50 60 Bảng dữ liệu trên có biểu thị cho ta một hàm số không? Nếu có hãy xác định tập xác định của hàm số đó.",
+      "options": [
+        "A. Bảng dữ liệu trên không cho ta một hàm số;",
+        "B. Bảng dữ liệu trên biểu thị cho ta một hàm số. Tập xác định D = {25; 35; 40; 30; 37; 50; 60};",
+        "C. Bảng dữ liệu trên biểu thị cho ta một hàm số. Tập xác định D = {1; 25; 2; 35; 3; 40; 4; 30; 5; 37; 6; 50; 7; 60};",
+        "D. Bảng dữ liệu trên biểu thị cho ta một hàm số. Tập xác định D = {1; 2; 3; 4; 5; 6; 7}."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải Đáp án đúng là: D Từ bảng dữ liệu đã cho, ta thấy ứng với mỗi thời điểm (ngày) trong bảng đều có một giá trị số lượng sản phẩm bán được duy nhất. Vì vậy bảng trên biểu thị một hàm số. Hàm số đó có tập xác định D = {1; 2; 3; 4; 5; 6; 7}. Vậy ta chọn phương án D."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho bảng dữ liệu sau thống kê về doanh thu mỗi tháng (đơn vị: triệu đồng) của một cửa hàng trong 6 tháng cuối năm 2021: Tháng 7 8 9 10 11 12 Doanh thu 30 35 28 40 50 70 Tập xác định D và tập giá trị T của hàm số cho bằng bảng trên là:",
+      "options": [
+        "A. D = {30; 35; 28; 40; 50; 70} và T = {7; 8; 9; 10; 11; 12};",
+        "B. D = {7; 8; 9; 10; 11; 12} và T = {30; 35; 28; 40; 50; 70};",
+        "C. D = {7; 8; 9; 10; 11; 12; 30; 35; 28; 40; 50; 70} và T = {7; 8; 9; 10; 11; 12};",
+        "D. D = {7; 9; 11} và T = {30; 28; 50}."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải Đáp án đúng là: B Ta thấy ứng với mỗi thời điểm (tháng) trong bảng, ta đều có một giá trị doanh thu duy nhất. Vì vậy biến số x là tháng và y là doanh thu. Do đó ta có: +) D = {7; 8; 9; 10; 11; 12}; +) T = {30; 35; 28; 40; 50; 70}. Vậy ta chọn phương án B."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho biểu đồ sau đây thể hiện tốc độ tăng của nhóm hàng điện tử, máy tính và linh kiện (đơn vị: %) của Việt Nam trong giai đoạn 2015 – 2020 (Theo số liệu của Tổng cục Thống kê): Tập giá trị của hàm số cho bằng biểu đồ trên là:",
+      "options": [
+        "A. T = {36,5%; 21,5%; 38,6%; 12,5%; 22,8% };",
+        "B. T = {2015; 2016; 2017; 2018; 2019; 2020};",
+        "C. T = {36,5%; 21,5%; 38,6%; 12,5%; 22,8%; 22,8%};",
+        "D. T = {2015; 2016; 2017; 2018; 2019; 2020; 36,5%; 21,5%; 38,6%; 12,5%; 22,8%; 22,8%}."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là: C Ta thấy ứng với mỗi thời điểm (năm) trong biểu đồ, ta đều có một giá trị tốc độ tăng duy nhất. Vì vậy biến số x là năm và y là tốc độ tăng. Do đó ta có tập giá trị T = {36,5%; 21,5%; 38,6%; 12,5%; 22,8%; 22,8%}. Phương án A sai vì không có giá trị 22,8% . Vậy ta chọn phương án C."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Biểu đồ sau đây cho biết tình hình xuất siêu (xuất khẩu trừ nhập khẩu) của nước ta giai đoạn 2017 – Sơ bộ 2021 (Theo số liệu của Tổng cục Thống kê): Biểu đồ trên có biểu thị cho ta một hàm số không? Nếu có hãy xác định tập giá trị của hàm số đó.",
+      "options": [
+        "A. Biểu đồ trên biểu thị một hàm số. Tập giá trị T = {1,9; 6,46; 10,57; 19,94; 4,08};",
+        "B. Biểu đồ trên biểu thị một hàm số. Tập giá trị T = {2017; 2018; 2019; 2020; Sơ bộ 2021};",
+        "C. Biểu đồ trên biểu thị một hàm số. Tập giá trị T = {1,9; 6,46; 10,57; 19,94; 4,08 ; 2017; 2018; 2019; 2020; Sơ bộ 2021};",
+        "D. Biểu đồ trên không biểu thị một hàm số."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A Từ biểu đồ đã cho, ta thấy ứng với mỗi thời điểm (năm) trong biểu đồ đều có một giá trị xuất siêu duy nhất. Vì vậy biểu đồ trên biểu thị một hàm số. Hàm số đó có giá trị T = {1,9; 6,46; 10,57; 19,94; 4,08}. Vậy ta chọn phương án A."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hàm số y = f(x) xác định trên K. Chọn khẳng định đúng ?",
+      "options": [
+        "A. Hàm số y = f(x) được gọi là nghịch biến trên K nếu ∀ x 1 , x 2 ∈ K, x 1 < x 2 Þ f(x 1 ) < f(x 2 );",
+        "B. Hàm số y = f(x) được gọi là đồng biến trên K nếu ∀ x 1 , x 2 ∈ K, x 1 < x 2 Þ f(x 1 ) ≤ f(x 2 );",
+        "C. Hàm số y = f(x) được gọi là đồng biến trên K nếu ∀ x 1 , x 2 ∈ K, x 1 < x Þ f(x 1 ) > f(x 2 );",
+        "D. Hàm số y = f(x) được gọi là đồng biến trên K nếu ∀ x 1 , x 2 ∈ K, x 1 < x 2 Þ f(x 1 ) < f(x 2 )."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải Đáp án đúng là: D Hàm số y = f(x) đồng biến trên K nếu ∀ x 1 , x 2 ∈ K, x 1 < x 2 Þ f(x 1 ) < f(x 2 ). Hàm số y = f(x) nghịch biến trên K nếu ∀ x 1 , x 2 ∈ K, x 1 < x 2 Þ f(x 1 ) > f(x 2 ). Vậy ta chọn phương án D."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Khi hàm số nghịch biến trên khoảng (a; b) thì đồ thị của hàm số đó có dạng:",
+      "options": [
+        "A. Đi lên từ trái sang phải;",
+        "B. Đi xuống từ trái sang phải;",
+        "C. Đi lên rồi đi xuống từ trái sang phải;",
+        "D. Đi xuống rồi đi lên từ trái sang phải."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải Đáp án đúng là: B Khi hàm số nghịch biến (giảm) trên khoảng (a; b) thì đồ thị của nó có dạng đi xuống từ trái sang phải. Do đó ta chọn phương án B."
+    }
+  ]
+}

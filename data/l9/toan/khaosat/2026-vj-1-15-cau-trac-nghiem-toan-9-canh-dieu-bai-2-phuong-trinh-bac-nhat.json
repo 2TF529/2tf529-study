@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-toan-9-canh-dieu-bai-2-phuong-trinh-bac-nhat",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-toan-9-canh-dieu-ba",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Toán 9 Cánh diều Bài 2. Phương trình bậc nhất hai ẩn. Hệ hai phương trình bậc nhất hai ẩn có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: I. Nhận biết Trong các hệ thức sau, hệ thức nào không phải là phương trình bậc nhất hai ẩn?",
+      "options": [
+        "A. \\[2x + 3y = - 5.\\]",
+        "B. \\[0x - 7y = 1.\\]",
+        "C. \\[0x + 0y = 2.\\]",
+        "D. \\[4x - 0y = 11.\\]"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Phương trình bậc nhất hai ẩn \\[x,y\\] là hệ thức dạng: \\[ax + by = c,\\] trong đó \\[a,\\,\\,b,\\,\\,c\\] là những số cho trước, \\[a \\ne 0\\] hoặc \\[b \\ne 0.\\] Ta thấy hệ thức ở phương án C có cả hai số \\[a,{\\rm{ }}b\\] đều bằng 0. Do đó hệ thức ở phương án C không phải là phương trình bậc nhất hai ẩn."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Hệ số \\[a,\\,\\,b,\\,\\,c\\] tương ứng của phương trình bậc nhất hai ẩn \\[2x - 4y = - 1\\] là",
+      "options": [
+        "A. \\[a = 2,\\,\\,b = - 4,\\,\\,c = 1.\\]",
+        "B. \\[a = 2,\\,\\,b = 4,\\,\\,c = - 1.\\]",
+        "C. \\[a = - 4,\\,\\,b = 2,\\,\\,c = - 1.\\]",
+        "D. \\[a = 2,\\,\\,b = - 4,\\,\\,c = - 1.\\]"
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Phương trình bậc nhất hai ẩn \\[x,\\,\\,y\\] là hệ thức dạng \\[ax + by = c,\\]với \\[a \\ne 0\\] hoặc \\[b \\ne 0.\\] Ở phương trình \\[2x - 4y = - 1,\\] ta có: \\[a = 2,\\,\\,b = - 4,\\,\\,c = - 1\\]. Vậy ta chọn phương án D."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cặp số \\[\\left( { - 2;3} \\right)\\] là nghiệm của phương trình nào sau đây?",
+      "options": [
+        "A. \\[2x + y = 2.\\]",
+        "B. \\[2x - y = - 7.\\]",
+        "C. \\[x - 3y = - 10.\\]",
+        "D. \\[x - y = 1.\\]"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B ⦁ Thay \\[x = - 2,y = 3\\] vào phương trình \\[2x + y = 2,\\] ta được: \\[2 \\cdot \\left( { - 2} \\right) + 3 = - 1 \\ne 2.\\] Do đó cặp số \\[\\left( { - 2;3} \\right)\\] không là nghiệm của phương trình \\[2x + y = 2.\\] ⦁ Thay \\[x = - 2,y = 3\\] vào phương trình \\[2x - y = - 7,\\] ta được: \\[2 \\cdot \\left( { - 2} \\right) - 3 = - 7\\] (đúng) Do đó cặp số \\[\\left( { - 2;3} \\right)\\] là nghiệm của phương trình \\[2x - y = - 7.\\] ⦁ Thay \\[x = - 2,y = 3\\] vào phương trình \\[x - 3y = - 10,\\] ta được: \\[ - 2 - 3 \\cdot 3 = - 11 \\ne - 10.\\] Do đó cặp số \\[\\left( { - 2;3} \\right)\\] không là nghiệm của phương trình \\[x - 3y = - 10.\\] ⦁ Thay \\[x = - 2,y = 3\\] vào phương trình \\[x - y = 1,\\] ta được: \\[ - 2 - 3 = - 5 \\ne 1.\\] Do đó cặp số \\[\\left( { - 2;3} \\right)\\] không là nghiệm của phương trình \\[x - y = 1.\\] Vậy ta chọn phương án B."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Trong các hệ phương trình sau, hệ phương trình nào là hệ phương trình bậc nhất hai ẩn?",
+      "options": [
+        "A. \\[\\left\\{ \\begin{array}{l} - x + 4y = 0\\\\3x - 2y = 10.\\end{array} \\right.\\]",
+        "B. \\[\\left\\{ \\begin{array}{l}{x^2} - 5{y^2} = 2\\\\3y = 4.\\end{array} \\right.\\]",
+        "C. \\[\\left\\{ \\begin{array}{l}0x + 0y = - 5\\\\4x - 7y = - 8.\\end{array} \\right.\\]",
+        "D. \\[\\left\\{ \\begin{array}{l}2x = - 7\\\\x + \\frac{1}{y} = 6.\\end{array} \\right.\\]"
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Hệ phương trình bậc nhất hai ẩn có dạng: \\[\\left\\{ \\begin{array}{l}ax + by = c\\\\a'x + b'y = c'\\end{array} \\right.\\,\\,\\,\\,\\,\\left( I \\right),\\] ở đó mỗi phương trình \\[ax + by = c\\] và \\[a'x + b'y = c'\\] đều là phương trình bậc nhất hai ẩn. Ta thấy chỉ có hệ phương trình ở phương án A có dạng hệ \\[\\left( I \\right).\\] Vậy ta chọn phương án A."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hệ phương trình \\[\\left\\{ \\begin{array}{l}x - y = 2\\\\ - x + 4y = 9\\end{array} \\right.,\\] cặp số nào sau đây là nghiệm của hệ phương trình đã cho?",
+      "options": [
+        "A. \\[\\left( {17; - 11} \\right).\\]",
+        "B. \\[\\left( {\\frac{{17}}{3};\\frac{{11}}{3}} \\right).\\]",
+        "C. \\[\\left( {\\frac{{11}}{3};\\frac{{17}}{3}} \\right).\\]",
+        "D. \\[\\left( { - 11;0} \\right).\\]"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B ⦁ Thay \\[x = \\frac{{17}}{3};y = \\frac{{11}}{3}\\] vào mỗi phương trình trong hệ, ta được: \\[\\frac{{17}}{3} - \\frac{{11}}{3} = 2\\] (đúng); \\[ - \\frac{{17}}{3} + 4 \\cdot \\frac{{11}}{3} = 9\\] (đúng). Do đó cặp số \\[\\left( {\\frac{{17}}{3};\\frac{{11}}{3}} \\right)\\] là nghiệm của từng phương trình trong hệ. Vì vậy cặp số \\[\\left( {\\frac{{17}}{3};\\frac{{11}}{3}} \\right)\\] là nghiệm của hệ phương trình đã cho. ⦁ Thay \\[x = 17,y = - 11\\] vào phương trình \\[x - y = 2,\\] ta được: \\[17 - \\left( { - 11} \\right) = 28 \\ne 2.\\] Suy ra cặp số \\[\\left( {17; - 11} \\right)\\] không là nghiệm của phương trình thứ nhất trong hệ. Do đó cặp số \\[\\left( {17; - 11} \\right)\\] không là nghiệm của hệ phương trình đã cho. Tương tự, thay lần lượt các cặp số \\[\\left( {\\frac{{11}}{3};\\frac{{17}}{3}} \\right)\\] và \\[\\left( { - 11;0} \\right)\\] vào hệ phương trình đã cho, ta cũng thấy rằng các cặp số này không phải là nghiệm của hệ phương trình đó. Vậy ta chọn phương án B."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: II. Thông hiểu Tất cả các nghiệm của phương trình \\[4x + 2y - 6 = 0\\] được biểu diễn bởi đường thẳng nào sau đây?",
+      "options": [
+        "A. \\[y = 2x - 3.\\]",
+        "B. \\[y = - 2x + 3.\\]",
+        "C. \\[y = 3x + 2.\\]",
+        "D. \\[y = 4x - 6.\\]"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta viết phương trình \\[4x + 2y - 6 = 0\\] thành \\[2x + y - 3 = 0,\\] tức là \\[y = - 2x + 3.\\] Mỗi nghiệm của phương trình \\[4x + 2y - 6 = 0\\] được biểu diễn bởi một điểm nằm trên đường thẳng \\[y = - 2x + 3.\\] Do đó tất cả các nghiệm của phương trình \\[4x + 2y - 6 = 0\\] được biểu diễn bởi đường thẳng \\[y = - 2x + 3.\\] Vậy ta chọn phương án B."
+    }
+  ]
+}

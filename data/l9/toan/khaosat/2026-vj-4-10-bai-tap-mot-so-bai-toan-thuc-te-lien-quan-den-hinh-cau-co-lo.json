@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-4-10-bai-tap-mot-so-bai-toan-thuc-te-lien-quan-den-hinh-cau-co-lo",
+  "sourceId": "vietjack:4-10-bai-tap-mot-so-bai-toan-thuc-te-lie",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "4.10 bài tập Một số bài toán thực tế liên quan đến hình cầu có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Bạn Nam được tặng một quả bóng đá có đường kính 24 cm (hình vẽ). Em hãy giúp bạn ấy tính xem cần bao nhiêu mét vuông da để chế tạo quả bóng, giả sử rằng diện tích các mép nối không đáng kể, lấy π = 3,14.",
+      "options": [
+        "A. 7 234,56 cm 2 .",
+        "B. 1 808,64 cm 2 .",
+        "C. 150,72 cm 2 .",
+        "D. 452,16 cm 2 ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Bán kính của quả bóng là: 24 : 2 = 12 (cm). Diện tích da cần dùng chính là tính diện tích bề mặt hình cầu. Do đó, ta có diện tích da cần dùng để chế tạo bóng là: 4.3,14.12 2 = 1 808,64 (cm 2 )."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Một quả pha lê hình cầu có diện tích mặt cầu bằng 144π cm 2 . Tính thể tích quả pha lê đó.",
+      "options": [
+        "A. 288 cm 3 .",
+        "B. 288π cm 3 .",
+        "C. 36 cm 3 .",
+        "D. 36π cm 3 ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Bán kính của quả pha lê đó là: \\[\\sqrt {144\\pi :4\\pi } \\] = 6 (cm) Thể tích của quả pha lê đó là: \\[\\frac{4}{3}\\pi {.6^3} = 288\\pi \\] (cm 3 )."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Thể tích của tháp nước đó là",
+      "options": [
+        "A. 288 m 3 .",
+        "B. 288π m 3 .",
+        "C. 36 m 3 .",
+        "D. 36π m 3 ."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Bán kính của tháp nước đó là; 6 : 2 = 3 (m). Thể tích của tháp nước đó là: \\[\\frac{4}{3}\\pi {.3^3} = 36\\pi \\] (m 3 )."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Biết rằng lượng nước đựng đầy trong bể đủ dùng cho một khu dân cư trong 5 ngày. Biết khu dân cư có 1304 người. Hỏi trong một ngày bình quân mỗi người dùng hết bao nhiêu lít nước? (lấy π = 3,14; biết 1 m 3 = 1 000 lít, kết quả làm tròn đến hàng phần trăm)",
+      "options": [
+        "A. 17,34 lít.",
+        "B. 16,87 lít.",
+        "C. 17,43 lít.",
+        "D. 16,78 lít."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có, với π = 3,14 thì thể tích của bể đó là: 3,14.36 = 113,04 (m 3 ) Đổi 113,04 m 3 = 113 040 lít. Do đó, một ngày khu dân cư đó dùng hết số nước là: 113 040 : 5 = 22 608 (lít) Suy ra một ngày bình quân mỗi người dùng hết số lít nước là: 22 608 : 1304 ≈ 17,34 (lít)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Một quả bóng rổ (loại số 7 cho nam) và một quả bóng tennis. Biết rằng diện tích bề mặt của quả bóng rổ khoảng 1 884,75 và bán kính của quả bóng rổ gấp khoảng 2 lần đường kính của quả bóng tennis. Hỏi diện tích bề mặt của quả bóng tennis đó là bao nhiêu centimet vuông? (lấy π = 3,14 và làm tròn kết quả cuối cùng đến hàng phần mười).",
+      "options": [
+        "A. 116,8 cm 2 .",
+        "B. 118 cm 2 .",
+        "C. 117,8 cm 2 .",
+        "D. 118,7 cm 2 ."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Gọi R là bán kính của quả bóng rổ (R > 0). Ta có công thức tính diện tích bề mặt của quả bóng rổ hình cầu là: S = 4πR 2 (cm 2 ). Theo bài, diện tích bề mặt của quả bóng rổ khoảng 1 884,75 cm 2 nên ta có: 4πR 2 = 1 884,75 nên R 2 = 1 884,75 : 4π = \\[\\frac{{7539}}{{16\\pi }}\\]. Suy ra R = \\[\\sqrt {\\frac{{7539}}{{16\\pi }}} = \\frac{{\\sqrt {7539\\pi } }}{{4\\pi }}\\] (cm). Vì bán kính của quả bóng rổ gấp khoảng 2 lần đường kính của quả bóng tennis nên đường kính của quả bóng tennis là: \\[\\frac{{\\sqrt {7539\\pi } }}{{4\\pi }}\\] : 2 = \\[\\frac{{\\sqrt {7539\\pi } }}{{8\\pi }}\\] (cm). Do đó, bán kính của quả bóng tennis là: \\[\\frac{{\\sqrt {7539\\pi } }}{{8\\pi }}\\] : 2 = \\[\\frac{{\\sqrt {7539\\pi } }}{{16\\pi }}\\] (cm). Suy ra diện tích bề mặt của quả bóng tennis đó là: 4π. \\[{\\left( {\\frac{{\\sqrt {7539\\pi } }}{{16\\pi }}} \\right)^2} = \\frac{{4\\pi .7539\\pi }}{{256{\\pi ^2}}} = \\frac{{7539}}{{64}} \\approx 117,8\\] (cm 2 )."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Một khối gỗ đồ chơi gồm hai khối cầu (H 1 ) và (H 2 ) tiếp xúc với nhau, lần lượt có bán kính tương ứng là r 1 , r 2 thỏa mãn r 2 = \\[\\frac{1}{2}\\]r 1 . Biết rằng thể tích của toàn bộ khối đồ chơi bằng 180π cm 3 . Tính thể tích của khối cầu (H 1 ).",
+      "options": [
+        "A. 160 cm 3 .",
+        "B. 160π cm 3 .",
+        "C. 20 cm 3 .",
+        "D. 20π cm 3 ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Thể tích khối H 1 là: \\[{V_1} = \\frac{4}{3}\\pi .r_1^3\\] (cm 3 ). Thể tích khối H 2 là: \\[{V_2} = \\frac{4}{3}\\pi .r_2^3 = \\frac{4}{3}\\pi .{\\left( {\\frac{1}{2}{r_1}} \\right)^3} = \\frac{1}{6}\\pi r_1^3\\] (cm 3 ). Mà thể tích toàn bộ khối đồ chơi bằng 180π cm 3 nên ta có: \\[\\frac{4}{3}\\pi .r_1^3 + \\frac{1}{6}\\pi r_1^3 = 180\\pi \\] hay \\[\\frac{3}{2}\\pi r_1^3 = 180\\pi \\] nên \\[r_1^3 = 120\\]. Suy ra thể tích khối cầu H 1 là: \\[{V_1} = \\frac{4}{3}\\pi .r_1^3 = \\frac{4}{3}\\pi .120 = 160\\pi \\] (cm 3 )."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-de-kiem-tra-toan-11-chan-troi-sang-tao-chuong-3-co-dap-an",
+  "sourceId": "vietjack:2-de-kiem-tra-toan-11-chan-troi-sang-tao",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.Đề kiểm tra Toán 11 Chân trời sáng tạo Chương 3 có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Khẳng định nào sau đây sai?",
+      "options": [
+        "A. \\(\\lim {\\left( {\\frac{{ - 2024}}{{2025}}} \\right)^n} = 0\\).",
+        "B. \\(\\lim {\\left( {\\sqrt 3 } \\right)^n} = + \\infty \\).",
+        "C. \\(\\lim {\\left( {\\frac{5}{3}} \\right)^n} = 0\\).",
+        "D. \\(\\lim {\\left( {\\frac{1}{3}} \\right)^n} = 0\\)."
+      ],
+      "answer": "C",
+      "note": "Ta có \\(\\lim {\\left( {\\frac{5}{3}} \\right)^n} = + \\infty \\). Chọn C."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Hàm số nào trong các hàm số dưới đây không liên tục trên ℝ?",
+      "options": [
+        "A. \\(y = \\cos x\\).",
+        "B. \\(y = \\frac{x}{{{x^2} + x + 2}}\\).",
+        "C. \\(y = \\frac{x}{{x + 1}}\\).",
+        "D. \\(y = {x^2} + 6x + 20\\)."
+      ],
+      "answer": "C",
+      "note": "Hàm số \\(y = \\frac{x}{{x + 1}}\\) liên tục trên \\(\\mathbb{R}\\backslash \\left\\{ { - 1} \\right\\}\\). Chọn C."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho hàm số \\(f\\left( x \\right)\\) xác định trên \\(\\mathbb{R}\\) liên tục tại \\(x = 1\\) và thỏa mãn \\(\\mathop {\\lim }\\limits_{x \\to 1} f\\left( x \\right) = 5\\). Khi đó \\(f\\left( 1 \\right)\\) bằng bao nhiêu?",
+      "options": [
+        "A. \\(f\\left( 1 \\right) = - 5\\).",
+        "B. \\(f\\left( 1 \\right) = 1\\).",
+        "C. \\(f\\left( 1 \\right) = - 1\\).",
+        "D. \\(f\\left( 1 \\right) = 5\\)."
+      ],
+      "answer": "D",
+      "note": "Hàm số \\(f\\left( x \\right)\\) xác định trên \\(\\mathbb{R}\\) liên tục tại \\(x = 1\\) \\( \\Leftrightarrow \\mathop {\\lim }\\limits_{x \\to 1} f\\left( x \\right) = f\\left( 1 \\right) = 5\\). Chọn D."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho \\(\\mathop {\\lim }\\limits_{x \\to 1} f\\left( x \\right) = - 3\\) và \\(\\mathop {\\lim }\\limits_{x \\to 1} g\\left( x \\right) = 5\\). Giá trị của \\(\\mathop {\\lim }\\limits_{x \\to 1} \\left[ {f\\left( x \\right) + g\\left( x \\right)} \\right]\\) bằng",
+      "options": [
+        "A. \\(8\\).",
+        "B. \\( - 8\\).",
+        "C. \\( - 15\\).",
+        "D. \\(2\\)."
+      ],
+      "answer": "D",
+      "note": "\\(\\mathop {\\lim }\\limits_{x \\to 1} \\left[ {f\\left( x \\right) + g\\left( x \\right)} \\right]\\)\\( = \\mathop {\\lim }\\limits_{x \\to 1} f\\left( x \\right) + \\mathop {\\lim }\\limits_{x \\to 1} g\\left( x \\right) = - 3 + 5 = 2\\). Chọn D."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Tính \\(\\lim \\frac{{3n + 1}}{{n + 2}}\\) bằng",
+      "options": [
+        "A. \\( - \\infty \\).",
+        "B. \\(\\frac{1}{2}\\).",
+        "C. \\( + \\infty \\).",
+        "D. \\(3\\)."
+      ],
+      "answer": "D",
+      "note": "\\(\\lim \\frac{{3n + 1}}{{n + 2}}\\)\\( = \\lim \\frac{{3 + \\frac{1}{n}}}{{1 + \\frac{2}{n}}} = 3\\). Chọn D."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Hàm số nào dưới đây gián đoạn tại điểm \\({x_0} = 1\\)?",
+      "options": [
+        "A. \\(y = \\frac{{x - 1}}{{{x^2} + 1}}\\).",
+        "B. \\(y = \\frac{{x - 1}}{{x + 1}}\\).",
+        "C. \\(y = \\frac{{x + 1}}{{x - 1}}\\).",
+        "D. \\(y = \\sqrt {x + 1} \\)."
+      ],
+      "answer": "C",
+      "note": "Hàm số \\(y = \\frac{{x + 1}}{{x - 1}}\\) không xác định tại \\(x = 1\\). Do đó hàm số \\(y = \\frac{{x + 1}}{{x - 1}}\\) gián đoạn tại điểm \\({x_0} = 1\\). Chọn C."
+    }
+  ]
+}

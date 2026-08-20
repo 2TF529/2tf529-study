@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-5-10-bai-tap-mot-so-bai-toan-thuc-te-lien-quan-den-hinh-non-co-lo",
+  "sourceId": "vietjack:5-10-bai-tap-mot-so-bai-toan-thuc-te-lie",
+  "grade": "l9",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "5.10 bài tập Một số bài toán thực tế liên quan đến hình nón có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Một chiếc nón lá có dạng hình nón với đường kính khoảng 44 cm và cao 20 cm. Hỏi diện tích xung quanh của chiếc nón đó bằng bao nhiêu centimet vuông?",
+      "options": [
+        "A. \\[44\\sqrt {221} \\pi \\] (cm 2 ),",
+        "B. \\[40\\sqrt {221} \\] (cm 2 ).",
+        "C. \\[44\\sqrt {221} \\] (cm 2 ).",
+        "D. \\[40\\sqrt {221} \\pi \\] (cm 2 )."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Bán kính đáy của chiếc nón là: r = 44 : 2 = 22 (cm). Tam giác ABC vuông tại A, theo định lý Pythagore, ta có: BC 2 = AB 2 + CA 2 = 20 2 + 22 2 suy ra BC = \\[\\sqrt {{{20}^2} + {{22}^2}} = 2\\sqrt {221} \\] (cm). Độ dài đường sinh của hình nón là \\[BC = 2\\sqrt {221} \\] cm. Diện tích xung quanh của hình nón là: S xq = πrl = π.22. \\[2\\sqrt {221} \\] = \\[44\\pi \\sqrt {221} \\] (cm 2 ) ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Người ta đổ muối thu hoạch được trên cánh đồng muối thành từng đống có dạng hình nón với chiều cao khoảng 0,9 m và đường kính đáy khoảng 1,6 m. Hỏi mỗi đống có bao nhiêu mét khối muối?",
+      "options": [
+        "A. \\[\\frac{{24\\pi }}{{25}}\\] (cm 3 ).",
+        "B. \\[\\frac{{24\\pi }}{{125}}\\] (m 3 ).",
+        "C. \\[\\frac{{24\\pi }}{5}\\] (cm 3 ).",
+        "D. \\[\\frac{{72\\pi }}{{125}}\\] (cm 3 )."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Bán kính của mỗi đống muối này là: 1,6 : 2 = 0,8 (m). Thể tích mỗi đống muối là: \\[V = \\frac{1}{3}\\pi {r^2}h = \\frac{1}{3}\\pi .{\\left( {0,8} \\right)^2}.0,9 = \\frac{{24\\pi }}{{125}}\\] (m 3 )."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Để phủ kín mặt ngoài của chiếc mũ của chú Hề như hình b cần bao nhiêu centimet vuông giấy màu? (không tính phần mép dán và không phủ giấy lên phần vành mũ, kết quả làm tròn đến hàng phần mười)",
+      "options": [
+        "A. 942,4 cm 2 .",
+        "B. 942,5 cm 2 .",
+        "C. 924, 4 cm 2 .",
+        "D. 924,5 cm 2 ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Gọi h là chiều cao, r là bán kính đáy, l là đường sinh chiếc mũ. Bán kính đáy chiếc mũ là: r = (26 – 3.2) : 2 = 10 (cm). Mặt ngoài là diện tích xung quanh của chiếc mũ (không kể phần vành). Do đó, S xq = πrl = π.10.30 ≈ 942, 5 (cm 2 )."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Hỏi thể tích phần có dạng hình nón của chiếc mũ chú hề ở hình b bằng bao nhiêu centimet khối ?(làm tròn kết quả đến hàng phần mười)",
+      "options": [
+        "A. 3961,9 (cm 3 ).",
+        "B. 2961 cm 3 .",
+        "C. 2962 cm 3 .",
+        "D. 2961,9 cm 3 ."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Chiều cao ở phần có dạng hình nón ở chiếc mũ chú hề là: h = \\[\\sqrt {{{30}^2} - {{10}^2}} = 20\\sqrt 2 \\] (cm). Thể tích phần có dạng hình nón của chiếc mũ chú hề là: V = \\[\\frac{1}{3}.\\pi {r^2}h = \\frac{1}{3}.\\pi {.10^2}.20\\sqrt 2 \\approx 2961,9\\] (cm 3 )."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Một chiếc nón có đường kính đáy bằng 28 cm và đường sinh bằng 30 cm. Tính diện tích lá dùng để làm nón, biết tỉ lệ hao hụt là 10% và lấy π = 3,14 cm 2 .",
+      "options": [
+        "A. 1 318,8 cm 2 .",
+        "B. 1 450,68 cm 2 .",
+        "C. 1 451 cm 2 .",
+        "D. 1450 cm 2 ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Vì chiếc nón hình nón có bán kính đáy R = 28 : 2 = 14 (cm). Diện tích xung quanh của hình nón là: S xq = πrl = 3,14.14.30 = 1318,8 (cm 2 ). Vậy diện tích lá dùng để làm nón là: 110%.1318,8 = 1450,68 (cm 2 )."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Một chiếc nón do một làng nghề ở Việt Nam sản xuất là hình nón có đường sinh bằng 30 cm, đường kính đáy bằng 40 cm. Người ta dùng hai lớp lá để phủ lên bề mặt xung quanh của nón. Tính diện tích lá cần dùng làm 500 chiếc nón.",
+      "options": [
+        "A. 60 000π cm 2 .",
+        "B. 600 000π cm 2 .",
+        "C. 6 000π cm 2 .",
+        "D. 300 000π cm 2 ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Bán kính đáy là: 40 : 2 = 20 (cm). Diện tích xung quanh của chiếc nón là: S xq = πrl = π.20.30 = 600π (cm 2 ). Vì người ta cần dùng hai lớp lá để phủ mặt xung quanh nón nên diện tích lá cần dùng cho một chiếc nón là: 2.600π = 1200π (cm 2 ). Vậy diện tích lá cần dùng để làm 500 chiếc nón là: 1200π.500 = 600 000π (cm 2 )."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-trac-nghiem-mo-ta-dao-dong-dieu-hoa-lop-11-co-dap-an",
+  "sourceId": "vietjack:1-trac-nghiem-mo-ta-dao-dong-dieu-hoa-lo",
+  "grade": "l11",
+  "subjectSlug": "li",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.Trắc nghiệm Mô tả dao động điều hòa lớp 11 (có đáp án)",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Một vật dao động với phương trình x = 5cos(4πt + π 6 ) cm. Tại thời điểm t = 1 s hãy xác định li độ của dao động.",
+      "options": [
+        "A. 2,5 cm.",
+        "B. 5 cm.",
+        "C. 2,5 3 cm.",
+        "D. 2,5 2 cm."
+      ],
+      "answer": "C",
+      "note": "Tại t = 1 s ta có ωt + φ = 4π + π 6 rad ⇒ x = 5cos(4π + + π 6 5 cos π 6 = 5. 3 2 = 2,5 3 cm Đáp án đúng là C"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Pha của dao động được dùng để xác định",
+      "options": [
+        "A. trạng thái dao động.",
+        "B. biên độ dao động.",
+        "C. chu kì dao động.",
+        "D. tần số dao động."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là A"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Một vật dao động điều hòa trên quỹ đạo dài 6cm. Biết cứ 2s vật thực hiện được một dao động, tại thời điểm ban đầu vật đang ở vị trí biên dương. Xác định phương trình dao động của vật.",
+      "options": [
+        "A. x = 3cos(πt + π) cm.",
+        "B. x = 3cos(πt) cm.",
+        "C. x = 6cos(πt + π) cm.",
+        "D. x = 6cos(πt) cm."
+      ],
+      "answer": "B",
+      "note": "Phương trình dao động của vật có dạng: x = Acos(ωt + φ) cm. Trong đó: - A = L 2 = 3 cm - T = 2s ⇒ ω = 2 π T = π (rad/s) - Tại t = 0s vật đang ở vị trí biên dương Þ A c o s φ = A v = 0 ⇒ c o s φ = 1 s i n φ = 0 ⇒ φ = 0 r a d Đáp án đúng là B"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Phương trình vận tốc của vật là: v = Aωcos(ωt). Phát biểu nào sau đây là đúng?",
+      "options": [
+        "A. Gốc thời gian lúc vật có li độ x = -A",
+        "B. Gốc thời gian lúc vật có li độ x = A",
+        "C. Gốc thời gian lúc vật đi qua VTCB theo chiều dương.",
+        "D. Cả A và B đều đúng."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là C"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Một vật dao động điều hòa với biên độ bằng 4 cm. Khi pha của dao động bằng π 3 thì li độ của vật bằng:",
+      "options": [
+        "A. 2 cm.",
+        "B. 4 cm.",
+        "C. - 2 cm.",
+        "D. - 4 cm."
+      ],
+      "answer": "A",
+      "note": "Biên độ: A = 4 cm. Pha dao động: ω t + φ = π 3 Thay vào phương trình dao động: x = A cos ω t + φ = 4 cos π 3 = 2 c m . Đáp án đúng là A."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Một vật dao động điều hòa với tần số góc bằng 2 π r a d / s trên quỹ đạo dài 8 cm. Biết pha ban đầu của dao động là π 3 r a d . Li độ của vật ở thời điểm t = 0,25 s kể từ lúc bắt đầu dao động có giá trị bằng:",
+      "options": [
+        "A. − 2 3 c m .",
+        "B. 2 3 c m .",
+        "C. 4 3 c m .",
+        "D. − 4 3 c m ."
+      ],
+      "answer": "A",
+      "note": "Biên độ dao động: A = L 2 = 4 c m . Thay vào phương trình dao động: x = A cos ω t + φ = 4 cos 2 π .0,25 + π 3 = − 2 3 c m . Đáp án đúng là A"
+    }
+  ]
+}

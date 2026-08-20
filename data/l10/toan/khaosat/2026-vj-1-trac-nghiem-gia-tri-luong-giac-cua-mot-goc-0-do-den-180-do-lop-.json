@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-trac-nghiem-gia-tri-luong-giac-cua-mot-goc-0-do-den-180-do-lop-",
+  "sourceId": "vietjack:1-trac-nghiem-gia-tri-luong-giac-cua-mot",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.Trắc nghiệm Giá trị lượng giác của một góc 0 độ đến 180 độ lớp 10 (có đáp án)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Giá trị của tan(180°) bằng",
+      "options": [
+        "A. 1;",
+        "B. 0;",
+        "C. – 1;",
+        "D. Không xác định."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có tan(180°) = \\[\\frac{{\\sin (180^\\circ )}}{{\\cos (180^\\circ )}} = \\frac{0}{{ - 1}} = 0\\] ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho 90° < α < 180°. Kết luận nào sau đây đúng",
+      "options": [
+        "A. sin(α) > 0; cos(α) > 0;",
+        "B. sin(α) > 0; cos(α) < 0;",
+        "C. sin(α) < 0; cos(α) > 0;",
+        "D. sin(α) < 0; cos(α) < 0."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Vì 90° < α < 180° (Góc phần tư thứ 2) nên sin(α) > 0; cos(α) < 0."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho 0° < α < 90°. Kết luận nào sau đây đúng",
+      "options": [
+        "A. tan(α) > 0; cot(α) > 0;",
+        "B. tan(α) < 0; cot(α) < 0;",
+        "C. tan(α) > 0; cot(α) < 0;",
+        "D. tan(α) < 0; cot(α) > 0."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Vì 0° < α < 90° (Góc phần tư thứ 1) nên tan(α) > 0; cot(α) > 0."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Trong các đẳng thức sau, đẳng thức nào đúng?",
+      "options": [
+        "A. sin(180° – α) = – cos α;",
+        "B. sin(180° – α) = – sin α;",
+        "C. sin(180° – α) = sin α;",
+        "D. sin(180° – α) = cos α."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Đối với 2 góc bù nhau α và 180° – α ta có sin(180° – α) = sin α; cos(180° – α) = – cos α; tan(180° – α) = – tan α (α ≠ 90°); cot(180° – α) = – cot α (0 < α < 180°);"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho \\[\\cos \\alpha = - \\frac{4}{5}\\] và góc α thỏa mãn 9 0° < α < 180° . Khi đó.",
+      "options": [
+        "A. \\[\\cot \\alpha = \\frac{4}{3}\\] ;",
+        "B. \\[\\sin \\alpha = \\frac{3}{5}\\] ;",
+        "C. \\[\\tan \\alpha = \\frac{4}{5}\\] .",
+        "D. \\[\\sin \\alpha = - \\frac{3}{5}\\] ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có sin 2 α + cos 2 α = 1 ⇔ sin 2 α = 1 – cos 2 α = 1 – \\({\\left( { - \\frac{4}{5}} \\right)^2}\\) = 1 – \\(\\frac{{16}}{{25}}\\) = \\(\\frac{9}{{25}}.\\) ⇔ \\(\\left[ \\begin{array}{l}\\sin \\alpha = \\frac{3}{5}\\\\\\sin \\alpha = - \\frac{3}{5}\\end{array} \\right.\\) Vì 9 0° < α < 180° nên sinα > 0. Do đó \\(\\sin \\alpha = \\frac{3}{5}\\) ⇒ tan α = \\(\\frac{{\\sin \\alpha }}{{cos\\alpha }} = - \\frac{3}{4}\\) , cot α = \\(\\frac{{co{\\mathop{\\rm s}\\nolimits} \\alpha }}{{\\sin \\alpha }} = - \\frac{4}{3}\\) . Vậy đáp án đúng là B."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Giá trị của biểu thức \\(M = \\frac{{{{\\tan }^2}30^\\circ + {{\\sin }^2}60^\\circ - {{\\cos }^2}45^\\circ }}{{{{\\cot }^2}120^\\circ + {{\\cos }^2}150^\\circ }}\\) bằng:",
+      "options": [
+        "A. \\(\\frac{2}{7}\\) ;",
+        "B. \\(\\frac{1}{7}\\) ;",
+        "C. \\(\\frac{{5 - \\sqrt 6 }}{{6 + \\sqrt 3 }}\\) ;",
+        "D. \\(\\frac{7}{{13}}\\) ."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Ta có: \\[M = \\frac{{{{\\tan }^2}30^\\circ + {{\\sin }^2}60^\\circ - {{\\cos }^2}45^\\circ }}{{{{\\cot }^2}120^\\circ + {{\\cos }^2}150^\\circ }}\\] \\[ = \\frac{{{{\\tan }^2}30^\\circ + {{\\sin }^2}60^\\circ - {{\\cos }^2}45^\\circ }}{{{{\\left( { - \\tan 60^\\circ } \\right)}^2} + {{\\left( { - \\sin 30^\\circ } \\right)}^2}}}\\] \\[ = \\frac{{{{\\left( {\\frac{{\\sqrt 3 }}{3}} \\right)}^2} + {{\\left( {\\frac{{\\sqrt 3 }}{2}} \\right)}^2} - {{\\left( {\\frac{{\\sqrt 2 }}{2}} \\right)}^2}}}{{{{\\left( { - \\frac{{\\sqrt 3 }}{3}} \\right)}^2} + {{\\left( { - \\frac{{\\sqrt 3 }}{2}} \\right)}^2}}}\\] \\[ = \\frac{7}{{13}}\\] ."
+    }
+  ]
+}

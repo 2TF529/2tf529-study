@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-3-20-cau-trac-nghiem-toan-12-canh-dieu-bai-2-phuong-sai-do-lech-c",
+  "sourceId": "vietjack:3-20-cau-trac-nghiem-toan-12-canh-dieu-b",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.20 câu trắc nghiệm Toán 12 Cánh diều Bài 2. Phương sai, độ lệch chuẩn của mẫu số liệu ghép nhóm (Đúng sai - Trả lời ngắn) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Đo chiều cao (tính bằng\\[cm\\]) của \\[500\\] học sinh trong một trường THPT ta thu được kết quả như sau: Độ lệch chuẩn của mẫu số liệu trên là:",
+      "options": [
+        "A. \\(s = 161,4\\).",
+        "B. \\(s = 14,48\\).",
+        "C. \\(s = 8,2\\).",
+        "D. \\(s = 3,85\\)."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng: D Ta có bảng sau Ta có chiều cao trung bình: \\[\\overline x = \\frac{1}{{500}}\\left( {152.25 + 156.50 + 160.200 + 164.175 + 168.50} \\right) = 161,4\\] Phương sai của mẫu số liệu: \\[{s^2}\\,\\, = \\frac{1}{{500}}\\left[ \\begin{array}{l}25{\\left( {152 - 161,4} \\right)^2} + 50{\\left( {156 - 161,4} \\right)^2} + 200{\\left( {160 - 161,4} \\right)^2}\\\\ + 175{\\left( {164 - 161,4} \\right)^2} + 50{\\left( {168 - 161,4} \\right)^2}\\end{array} \\right] = 14,84\\]. \\( \\Rightarrow \\) Độ lệch chuẩn: \\[s = \\sqrt {14,48} \\approx 3,85\\]."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Bảng dưới đây thống kê cân nặng của 45 học sinh lớp 10 tại một trường THPT của Thành phố Hà Nội. Khi đó độ lệch chuẩn của mẫu số liệu ghép nhóm trên là",
+      "options": [
+        "A. \\(1,15\\).",
+        "B. \\(5,39\\).",
+        "C. \\(2,15\\).",
+        "D. \\(3,25\\)."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng: B Ta có: Số trung bình của mẫu số liệu ghép nhóm là: \\[\\overline x = \\frac{{8.42 + 12.46 + 8.50 + 10.54 + 7.58}}{{45}} \\approx 49,64\\] Phương sai của mẫu số liệu ghép nhóm là: \\(\\begin{array}{l}{S^2} = \\frac{1}{{45}}\\left[ {8.{{\\left( {42 - 49,64} \\right)}^2} + 12.{{\\left( {46 - 49,64} \\right)}^2} + 8.{{\\left( {50 - 49,64} \\right)}^2} + 10.{{\\left( {54 - 49,64} \\right)}^2} + 7.{{\\left( {58 - 49,64} \\right)}^2}} \\right]\\,\\\\\\,\\,\\,\\,\\,\\, \\approx 29,03\\end{array}\\) Độ lệch chuẩn của mẫu số liệu ghép nhóm là: \\(S = \\sqrt {{S^2}} \\approx \\sqrt {29,03} \\approx 5,39\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Tính phương sai của mẫu số liệu ghép nhóm cho trong bảng dưới đây.",
+      "options": [
+        "A. \\(114,59\\).",
+        "B. \\(115,57\\).",
+        "C. \\(114,57\\).",
+        "D. \\(116,57\\)."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng: C Ta có: Số trung bình của mẫu số liệu ghép nhóm là: \\[\\overline x = \\frac{{7.65 + 15.75 + 8.85 + 12.95}}{{42}} \\approx 80,95\\] Phương sai của mẫu số liệu ghép nhóm là: \\({S^2} = \\frac{1}{{42}}\\left[ {7.{{\\left( {65 - 80,95} \\right)}^2} + 15.{{\\left( {75 - 80,95} \\right)}^2} + 8.{{\\left( {85 - 80,95} \\right)}^2} + 12.{{\\left( {95 - 80,95} \\right)}^2}} \\right] \\approx 114,57\\)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Tuổi các học viên của một lớp tiếng Anh buổi tối ở một trung tâm ghi lại trong bảng tần số ghép lớp sau Tính số trung bình.",
+      "options": [
+        "A. 26,2.",
+        "B. 27,3.",
+        "C. 28,4.",
+        "D. 29,5."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng: A Giá trị trung bình \\(\\overline x = \\frac{{17,5.10 + 22,5.12 + 27,5.14 + 32,5.9 + 37,5.5}}{{50}} = 26,2\\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Thời gian truy cập Internet mỗi buổi tối (đơn vị: phút) của một số học sinh được thống kê ở bảng sau: Phương sai của mẫu số liệu trên là:",
+      "options": [
+        "A. \\({s^2} \\approx 4,87\\).",
+        "B. \\({s^2} \\approx 2,87\\).",
+        "C. \\({s^2} \\approx 1,87\\).",
+        "D. \\({s^2} \\approx 3,87\\)."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng: D Ta viết lại bảng ở đề bài như sau: Số trung bình cộng của mẫu số liệu ghép nhóm biểu thị số phút truy cập internet mỗi buổi tối của một số học sinh là: \\[\\overline x = \\frac{{3.11,5 + 12.13,5 + 15.15,5 + 24.17,5 + 2.19,5}}{{56}} \\approx 15,86\\](phút) Vậy phương sai của mẫu số liệu ghép nhóm biểu thị số phút truy cập internet mỗi buổi tối của một số học sinh là: \\[{s^2} = \\frac{1}{{56}}\\left[ \\begin{array}{l}3.{\\left( {11,5 - 15,86} \\right)^2} + 12.{(13,5 - 15,86)^2} + 15.{\\left( {15,5 - 15,86} \\right)^2}\\\\ + 24.{\\left( {17,5 - 15,86} \\right)^2} + 2.{\\left( {19,5 - 15,86} \\right)^2}\\end{array} \\right] \\approx 3,87\\]."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Ghi lại tốc độ (đơn vị: km/h) trong 200 lần giao bóng của một vận động viên môn quần vợt cho kết quả như bảng sau: Độ lệch chuẩn của mẫu số liệu trên là:",
+      "options": [
+        "A. \\(s \\approx 6,77\\).",
+        "B. \\(s \\approx 8,77\\).",
+        "C. \\(s \\approx 6,78\\).",
+        "D. \\(s \\approx 7,78\\)."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng: D Ta có bảng thống kê sau: Số trung bình cộng của mẫu số liệu ghép nhóm biểu thị tốc độ giao bóng trong 200 lần của một vận động viên môn quần vợt là: \\[\\overline x = \\frac{{18.152,5 + 28.157,5 + 35.162,5 + 43.167,5 + 41.172,5 + 35.177,5}}{{200}} = 166,65\\] Phương sai của mẫu số liệu ghép nhóm biểu thị tốc độ giao bóng trong 200 lần của một vận động viên môn quần vợt là: \\[\\begin{array}{l}{s^2} = \\frac{1}{{200}}[18.{\\left( {152,5 - 166,65} \\right)^2} + 28.{\\left( {157,5 - 166,65} \\right)^2} + 35.{\\left( {162,5 - 166,65} \\right)^2}\\\\\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\, + \\,43.{\\left( {167,5 - 166,65} \\right)^2} + 41.{\\left( {172,5 - 166,65} \\right)^2} + 35.{\\left( {177,5 - 166,65} \\right)^2}]\\\\ = \\frac{{12105,5}}{{200}} \\approx 60,53\\end{array}\\] Vậy độ lệch chuẩn của mẫu số liệu ghép nhóm biểu thị tốc độ giao bóng trong 200 lần của một vận động viên môn quần vợt là: \\[s \\approx \\sqrt {60,53} \\approx 7,78\\]."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Phương sai, độ lệch chuẩn của mẫu số liệu ghép nhóm được dùng để đo ….. của mẫu số liệu ghép nhóm xung quanh số trung bình của mẫu số liệu đó.",
+      "options": [
+        "A. Giá trị trung bình.",
+        "B. Giá trị lớn nhất.",
+        "C. Giá trị nhỏ nhất.",
+        "D. Mức độ phân tán."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng: D Phương sai (độ lệch chuẩn) của mẫu số liệu ghép nhóm xấp xỉ phương sai (độ lệch chuẩn) của mẫu số liệu gốc và được dùng để đo mức độ phân tán của mẫu số liệu ghép nhóm đó."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Để đo mức độ phân tán về nhiệt độ không khí trung bình các tháng của năm 2023 tại Hà Nội, đại lượng thích hợp là",
+      "options": [
+        "A. Số trung bình.",
+        "B. Số trung vị.",
+        "C. Phương sai.",
+        "D. Mốt."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng: C Đại lượng đo mức độ phân tán của mẫu số liệu là phương sai."
+    }
+  ]
+}

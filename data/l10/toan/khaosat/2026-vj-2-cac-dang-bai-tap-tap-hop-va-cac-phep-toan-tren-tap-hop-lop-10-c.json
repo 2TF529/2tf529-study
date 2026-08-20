@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-2-cac-dang-bai-tap-tap-hop-va-cac-phep-toan-tren-tap-hop-lop-10-c",
+  "sourceId": "vietjack:2-cac-dang-bai-tap-tap-hop-va-cac-phep-t",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.Các dạng bài tập Tập hợp và các phép toán trên tập hợp lớp 10 (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho tập hợp A là các nghiệm của phương trình x 2 – 6x + 5 = 0. Viết tập hợp trên dưới dạng liệt kê các phần tử.",
+      "options": [
+        "A. A = {2 ; 3};",
+        "B. A = {1 ; 5};",
+        "C. A = {4 ; 6};",
+        "D. A = {2 ; 4}."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B. Ta có x 2 – 6x + 5 = 0 ⇔ x = 1 hoặc x = 5. Do đó tập hợp A gồm hai phần tử là 1 và 5. Vậy A = {1 ; 5}."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho tập hợp B gồm các số tự nhiên bé hơn 20 và chia hết cho 4. Viết tập hợp trên dưới dạng chỉ ra tính chất đặc trưng cho các phần tử của tập hợp đó.",
+      "options": [
+        "A. B = {x ∈ ℤ | x ≤ 20 và x ⁝ 4};",
+        "B. B = {x ∈ ℤ | x < 20 và x ⁝ 4};",
+        "C. B = {x ∈ ℕ | x ≤ 20 và x ⁝ 4};",
+        "D. B = {x ∈ ℕ | x < 20 và x ⁝ 4}."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D. Ta có: + Tập hợp B gồm các số tự nhiên nên x ∈ ℕ. + Tập hợp B gồm các số tự nhiên bé hơn 20 và chia hết cho 4 nên x < 20 và x ⁝ 4. Do đó tập hợp trên được viết dưới dạng chỉ ra tính chất đặc trưng cho các phần tử của tập hợp đó như sau: B = {x ∈ ℕ | x < 20 và x ⋮ 4}."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho tập hợp C = {1; 2; 3; 4; 5; 6; 7; 8; 9; 10}. Tìm một tính chất đặc trưng xác định các phần tử của tập hợp trên.",
+      "options": [
+        "A. C = {x ∈ ℕ | x < 10};",
+        "B. C = {x ∈ ℕ | x ≤ 10};",
+        "C. C = {x ∈ ℕ* | x ≤ 10};",
+        "D. C = {x ∈ ℕ* | x < 10}."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C. Ta thấy C là tập hợp các số tự nhiên lớn hơn 1 nên x ∈ ℕ*. Ta lại có C là tập hợp các số tự nhiên từ 1 đến 10 nên x ≤ 10. Do đó tập hợp trên được viết dưới dạng chỉ ra tính chất đặc trưng cho các phần tử của tập hợp đó như sau: C = {x ∈ ℕ* | x ≤ 10}."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho tập hợp D = {x ∈ ℕ* | x(x – 2)(x – 3) = 0}. Viết lại tập hợp D dưới dạng liệt kê các phần tử của tập hợp đó.",
+      "options": [
+        "A. D = {0; 1; 2};",
+        "B. D = {2; 3};",
+        "C. D = {0; 2; 3};",
+        "D. D = {1; 2}."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B. Ta có: x(x – 2)(x – 3) = 0 ⇔ x = 0 x = 2 x = 3 . Vì x ∈ ℕ* nên ta loại nghiệm x = 0. Do đó tập hợp D gồm 2 phần tử là 2 và 3. Vậy D = {2; 3}."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho tập hợp E = {x ∈ ℕ | x là ước chung của 20 và 30}. Tập hợp E gồm những phần tử nào?",
+      "options": [
+        "A. E = {1; 2; 5; 10};",
+        "B. E = {1; 3; 5; 10};",
+        "C. E = {1; 3; 5; 7};",
+        "D. E = {1; 4; 5; 9}."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A. Ta có: + Các ước là số tự nhiên của 20 là: 1; 2; 4; 5; 10; 20. + Các ước là số tự nhiên của 30 là: 1; 2; 3; 5; 6; 10; 15; 30. Do đó các ước chung là số tự nhiên của 20 và 30 là 1; 2; 5; 10. Vậy E = {1; 2; 5; 10}."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho tập hợp A = {x ∈ ℤ | (x 2 – 4)(x 2 – 4x + 3) = 0}. Viết tập hợp A dưới dạng liệt kê các phần tử ta được:",
+      "options": [
+        "A. A = {2; 3; 4; 5};",
+        "B. A = {1; 2; 3; 4};",
+        "C. A = { – 2; 1; 2; 3};",
+        "D. A = { – 1; – 2; 2; 3}."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C. Ta có (x 2 – 4)(x 2 – 4x + 3) = 0 ⇔ ⟺ x 2 – 4 = 0 x 2 – 4 x + 3 = 0 ⇔ x = 2 x = − 2 x = 1 x = 3 . Do đó tập hợp A gồm 4 phần tử là 2; – 2; 1; 3. Vậy A = {– 2; 1; 2; 3}."
+    }
+  ]
+}

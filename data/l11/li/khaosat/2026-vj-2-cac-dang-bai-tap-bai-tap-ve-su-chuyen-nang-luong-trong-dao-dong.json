@@ -1,0 +1,52 @@
+{
+  "id": "2026-vj-2-cac-dang-bai-tap-bai-tap-ve-su-chuyen-nang-luong-trong-dao-dong",
+  "sourceId": "vietjack:2-cac-dang-bai-tap-bai-tap-ve-su-chuyen-",
+  "grade": "l11",
+  "subjectSlug": "li",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "2.Các dạng bài tập Bài tập về sự chuyển năng lượng trong dao động điều hòa lớp 11 (có lời giải)",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 4: Một vật có khối lượng 100g dao động điều hoà có đồ thị động năng như hình vẽ. Tại thời điểm t = 0 vật có gia tốc âm, lấy \\({\\pi ^2} = 10\\).",
+      "options": [
+        "A. a. Động năng cực đại của vật có giá trị \\({80.10^{ - 3}}mJ\\)",
+        "B. b. Tại thời điểm ban đầu, W t = 4W đ",
+        "C. c. Cơ năng của vật có giá trị \\({320.10^{ - 3}}mJ\\)",
+        "D. d. Tần số góc của dao động \\(\\omega = \\frac{{10\\pi }}{3}rad/s\\)"
+      ],
+      "answer": "D",
+      "note": "a) Sai. Từ đồ thị \\({W_{d\\max }} = {320.10^{ - 3}}J\\) b) Sai. \\({W_t} = W - {W_d} = 320 - 80 = 240mJ \\to \\frac{{{W_t}}}{{{W_d}}} = \\frac{{240}}{{80}} = 3\\) c) Sai. \\({W_{d\\max }} = {320.10^{ - 3}}J = W\\) d) Đúng. Từ đồ thị, ban đầu vật \\({W_d} = \\frac{1}{3}{W_t} \\to x = \\frac{A}{{\\sqrt {\\frac{1}{3} + 1} }} = \\frac{{A\\sqrt 3 }}{2}\\) và đi theo chiều dương (W đ giảm) Mặt khác, ta xác định được góc quét từ 0 -> 0,35s => \\(\\Delta \\varphi = \\frac{\\pi }{6} + \\pi = \\frac{{7\\pi }}{6}\\) \\(\\omega = \\frac{{\\Delta \\varphi }}{{\\Delta t}} = \\frac{{7\\pi }}{{6.0,35}} = \\frac{{10\\pi }}{3}\\left( {rad/s} \\right)\\)"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 5: Hai chất Hai chất điểm có khối lượng lần lượt là m 1 , m 2 dao động điều hòa cùng phương cùng tần số. Đồ thị biểu diễn động năng của m 1 và thế năng của m 2 theo li độ như hình vẽ.",
+      "options": [
+        "A. a. Hai vật dao động với cùng biên độ",
+        "B. b. Năng lượng dao động của hai vật là bằng nhau",
+        "C. c. Trong một chu kì, có 2 thời điểm động năng vật 1 bằng với thế năng vật 2",
+        "D. d. \\(\\frac{{{A_1}}}{{{A_2}}} = \\frac{2}{3}\\)"
+      ],
+      "answer": "D",
+      "note": "a) Sai. A 1 = 4 ô, A 2 = 6 ô . b) Đúng. W 1 = W 2 = 4 ô . c) Sai. Từ đồ thị, nửa chu kì có 2 thời điểm W đ = W t => 1chu kì sẽ có 4 thời điểm W đ = W t . d) Đúng. \\(\\frac{{{A_1}}}{{{A_2}}} = \\frac{2}{3}\\) ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 6: Cho đồ thị vận tốc – thời gian của một con lắc đơn dao động như Hình c.c. Biết rằng khối lượng của vật treo vào sợi dây là 0,2 kg. Hình 3.3. Đồ thị vận tốc – thời gian",
+      "options": [
+        "A. a. Từ đồ thị ta có: \\(\\omega = \\frac{{5\\pi }}{3}(rad/s)\\)",
+        "B. b. Phương trình vận tốc: \\(v = 0,35\\cos \\left( {\\frac{{5\\pi }}{3}t} \\right)\\left( {m/s} \\right)\\)",
+        "C. c. Cơ năng của vật: W = \\(4,{9.10^{ - 3}}J\\).",
+        "D. d. Tại thời điểm 0,4s thế năng của vật: \\[{W_t} = 9,{1875.10^{ - 3}}J\\]"
+      ],
+      "answer": "D",
+      "note": "a) Đúng. Từ đồ thị ta thấy T = 1,2s => \\(\\omega = \\frac{{2\\pi }}{T} = \\frac{{5\\pi }}{3}rad/s\\) b) Đúng. |v max | = 0,35 m/s c) Sai. \\(W = \\frac{1}{2}m{v_{\\max }}^2 = \\frac{1}{2}.0,2.0,{35^2} = 0.01225J\\) d) Đúng. Tại t = 0,4s => v = -0,175m/s \\({W_t} = W - {W_d} = \\frac{1}{2}m\\left( {{v_{\\max }}^2 - {v^2}} \\right) = 9,{1875.10^{ - 3}}J\\)"
+    }
+  ]
+}

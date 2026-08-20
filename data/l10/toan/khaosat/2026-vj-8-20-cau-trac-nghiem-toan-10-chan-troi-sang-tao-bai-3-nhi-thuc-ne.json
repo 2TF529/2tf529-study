@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-8-20-cau-trac-nghiem-toan-10-chan-troi-sang-tao-bai-3-nhi-thuc-ne",
+  "sourceId": "vietjack:8-20-cau-trac-nghiem-toan-10-chan-troi-s",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "8.20 câu trắc nghiệm Toán 10 Chân trời sáng tạo Bài 3. Nhị thức Newton (Đúng sai - Trả lời ngắn) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Tìm hệ số của \\({a^3}{b^2}\\) trong khải triển \\({\\left( {a + 2b} \\right)^5}\\) .",
+      "options": [
+        "A. \\(160\\) .",
+        "B. \\(80\\) .",
+        "C. \\(20\\) .",
+        "D. \\(40\\) ."
+      ],
+      "answer": "D",
+      "note": "\\({\\left( {a + 2b} \\right)^5} = {a^5} + 5 \\cdot {a^4} \\cdot \\left( {2b} \\right) + 10{a^3} \\cdot {\\left( {2b} \\right)^2} + 10{a^2} \\cdot {\\left( {2b} \\right)^3} + 5a \\cdot {\\left( {2b} \\right)^4} + {\\left( {2b} \\right)^5}\\) . Vậy hệ số của \\({a^3}{b^2}\\) là \\(10 \\cdot 4 = 40\\) . Chọn D ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Khai triển nhị thức \\({\\left( {2{x^2} - \\frac{1}{2}} \\right)^5}\\) , ta được số hạng chứa \\({x^6}\\) là",
+      "options": [
+        "A. \\( - \\frac{5}{8}\\) .",
+        "B. \\(20{x^6}\\) .",
+        "C. \\( - 20\\) .",
+        "D. \\(\\frac{5}{8}{x^6}\\) ."
+      ],
+      "answer": "B",
+      "note": "Ta có \\({\\left( {2{x^2} - \\frac{1}{2}} \\right)^5} = {\\left( {2{x^2}} \\right)^5} + 5 \\cdot {\\left( {2{x^2}} \\right)^4} \\cdot \\left( { - \\frac{1}{2}} \\right) + 10 \\cdot {\\left( {2{x^2}} \\right)^3} \\cdot {\\left( { - \\frac{1}{2}} \\right)^2} + 10 \\cdot {\\left( {2{x^2}} \\right)^2} \\cdot {\\left( { - \\frac{1}{2}} \\right)^3} + 5 \\cdot \\left( {2{x^2}} \\right) \\cdot {\\left( { - \\frac{1}{2}} \\right)^4} + {\\left( { - \\frac{1}{2}} \\right)^5}\\) \\[ = 32{x^{10}} - 40{x^8} + 20{x^6} - 5{x^4} + \\frac{5}{8}{x^2} - \\frac{1}{{32}}\\] . Số hạng chứa \\({x^6}\\) trong khai triển là \\(20{x^6}\\) . Chọn B ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Khai triển Newton biểu thức \\(P\\left( x \\right) = {\\left( {2 - 3x} \\right)^4} = {a_4}{x^4} + {a_3}{x^3} + {a_2}{x^2} + {a_1}x + {a_0}\\) . Tính \\(S = {a_0} + {a_1} + {a_2} + {a_3} + {a_4}\\) .",
+      "options": [
+        "A. \\(9\\) .",
+        "B. \\(6\\) .",
+        "C. \\(3\\) .",
+        "D. \\(1\\) ."
+      ],
+      "answer": "D",
+      "note": "Thay \\(x = 1\\) vào biểu thức ta được \\[P\\left( 1 \\right) = {\\left( {2 - 3 \\cdot 1} \\right)^4} = {a_4} + {a_3} + {a_2} + {a_1} + {a_0} = 1\\] . Vậy \\(S = 1\\) . Chọn D ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Biết \\({\\left( {1 + \\sqrt[3]{2}} \\right)^4} = {a_0} + {a_1}\\sqrt[3]{2} + {a_2}\\sqrt[3]{4}\\) . Tính \\({a_1}{a_2}\\) .",
+      "options": [
+        "A. \\(24\\) .",
+        "B. \\(8\\) .",
+        "C. \\(54\\) .",
+        "D. \\(36\\) ."
+      ],
+      "answer": "D",
+      "note": "\\({\\left( {1 + \\sqrt[3]{2}} \\right)^4} = 1 + 4 \\cdot \\sqrt[3]{2} + 6 \\cdot {\\left( {\\sqrt[3]{2}} \\right)^2} + 4 \\cdot {\\left( {\\sqrt[3]{2}} \\right)^3} + {\\left( {\\sqrt[3]{2}} \\right)^4}\\)\\( = 9 + 6 \\cdot \\sqrt[3]{2} + 6 \\cdot \\sqrt[3]{4}\\) . Suy ra \\({a_1} = {a_2} = 6 \\Rightarrow {a_1}{a_2} = 36\\) . Chọn D ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Tìm số hạng chứa \\({x^2}\\) trong khai triển nhị thức Newton của \\(P\\left( x \\right) = 4{x^2} + x{\\left( {x - 2} \\right)^4}\\) .",
+      "options": [
+        "A. \\(28{x^2}\\) .",
+        "B. \\( - 28{x^2}\\) .",
+        "C. \\( - 24{x^2}\\) .",
+        "D. \\(24{x^2}\\) ."
+      ],
+      "answer": "B",
+      "note": "Số hạng chứa \\(x\\) trong khai triển \\({\\left( {x - 2} \\right)^4}\\) là \\(4x \\cdot {\\left( { - 2} \\right)^3} = - 32x\\) . Suy ra số hạng chứa \\({x^2}\\) trong khai triển \\(x{\\left( {x - 2} \\right)^4}\\) là \\( - 32{x^2}\\) . Do đó số hạng chứa \\({x^2}\\) trong khai triển nhị thức Newton của \\(P\\left( x \\right) = 4{x^2} + x{\\left( {x - 2} \\right)^4}\\) là \\(4{x^2} - 32{x^2} = - 28{x^2}\\) . Chọn B ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Tổng tất cả các hệ số của các số hạng trong khai triển \\({\\left( {2 + x} \\right)^5}\\) thành đa thức bằng",
+      "options": [
+        "A. \\(1\\) .",
+        "B. \\(243\\) .",
+        "C. \\(234\\) .",
+        "D. \\( - 1\\) ."
+      ],
+      "answer": "B",
+      "note": "Ta có \\({\\left( {2 + x} \\right)^5} = {2^5} + 5 \\cdot {2^4} \\cdot x + 10 \\cdot {2^3} \\cdot {x^2} + 10 \\cdot {2^2} \\cdot {x^3} + 5 \\cdot 2 \\cdot {x^4} + {x^5}\\) \\( = 32 + 80x + 80{x^2} + 40{x^3} + 10{x^4} + {x^5}\\) . Tổng các hệ số là \\(32 + 80 + 80 + 40 + 10 + 1 = 243\\) . Chọn B ."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Khai triển của biểu thức \\({\\left( {x - 1} \\right)^4}\\) là",
+      "options": [
+        "A. \\({\\left( {x - 1} \\right)^4} = {x^4} + 4{x^3} + 6{x^2} + 4x + 1\\) .",
+        "B. \\({\\left( {x - 1} \\right)^4} = {x^4} - 4{x^3} + 6{x^2} - 4x + 1\\) .",
+        "C. \\({\\left( {x - 1} \\right)^4} = {x^4} - 4{x^3} - 6{x^2} - 4x - 1\\) .",
+        "D. \\({\\left( {x - 1} \\right)^4} = {x^4} + 4{x^3} - 6{x^2} + 4x - 1\\) ."
+      ],
+      "answer": "B",
+      "note": "\\({\\left( {x - 1} \\right)^4} = {x^4} - 4{x^3} + 6{x^2} - 4x + 1\\) . Chọn B ."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Khai triển nhị thức \\({\\left( {x + 1} \\right)^5}\\) có bao nhiêu số hạng?",
+      "options": [
+        "A. \\(6\\) .",
+        "B. \\(8\\) .",
+        "C. \\(7\\) .",
+        "D. \\(5\\) ."
+      ],
+      "answer": "A",
+      "note": "Khai triển nhị thức \\({\\left( {x + 1} \\right)^5}\\) có 6 số hạng. Chọn A ."
+    }
+  ]
+}

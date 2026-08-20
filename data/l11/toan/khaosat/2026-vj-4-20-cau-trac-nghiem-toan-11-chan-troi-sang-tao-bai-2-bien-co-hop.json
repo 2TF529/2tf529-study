@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-4-20-cau-trac-nghiem-toan-11-chan-troi-sang-tao-bai-2-bien-co-hop",
+  "sourceId": "vietjack:4-20-cau-trac-nghiem-toan-11-chan-troi-s",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "4.20 câu trắc nghiệm Toán 11 Chân trời sáng tạo Bài 2. Biến cố hợp và quy tắc cộng xác suất (Đúng sai - Trả lời ngắn) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: TRẮC NGHIỆM NHIỀU LỰA CHỌN Hai biến cố A và B xung khắc thỏa mãn \\(P\\left( A \\right) = \\frac{1}{3};P\\left( B \\right) = \\frac{1}{2}\\) . Xác suất của biến cố P(A È B) bằng",
+      "options": [
+        "A. 1.",
+        "B. \\(\\frac{1}{6}\\) .",
+        "C. \\(\\frac{1}{8}\\) .",
+        "D. \\(\\frac{5}{6}\\) ."
+      ],
+      "answer": "D",
+      "note": "D Ta có \\(P\\left( {A \\cup B} \\right) = P\\left( A \\right) + P\\left( B \\right) = \\frac{1}{3} + \\frac{1}{2} = \\frac{5}{6}\\)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Chọn ngẫu nhiên một số tự nhiên từ 1 đến 20. Xét các biến cố A: “Số được chọn chia hết cho 3”; B: “Số được chọn chia hết cho 4”. Khi đó biến cố A È B là",
+      "options": [
+        "A. {3; 4; 12}.",
+        "B. {3; 4; 6; 8; 9; 12;15; 16; 18; 20}.",
+        "C. {12}.",
+        "D. {3; 6; 9; 12; 15; 18}."
+      ],
+      "answer": "B",
+      "note": "B A È B: “Số được chọnchia hết cho 3 hoặc chia hết cho 4”. Do đó A È B = {3; 4; 6; 8; 9; 12;15; 16; 18; 20}."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Một hộp có 6 bi xanh, 4 bi đỏ, 5 bi vàng. Lấy ngẫu nhiên từ hộp 1 viên bi. Tính xác suất lấy được một viên bi màu đỏ hoặc màu vàng.",
+      "options": [
+        "A. \\(\\frac{7}{{15}}\\) .",
+        "B. \\(\\frac{1}{3}\\) .",
+        "C. \\(\\frac{1}{{15}}\\) .",
+        "D. \\(\\frac{3}{5}\\) ."
+      ],
+      "answer": "D",
+      "note": "D Gọi A là biến cố “Lấy được một viên bi đỏ”. Khi đó \\(P\\left( A \\right) = \\frac{4}{{15}}\\). Gọi B là biến cố “Lấy được một viên bi vàng”. Khi đó \\(P\\left( B \\right) = \\frac{5}{{15}} = \\frac{1}{3}\\). Biến cố A È B: “Lấy được một viên bi màu đỏ hoặc màu vàng”. Vì A và B là các biến cố xung khắc nên \\(P\\left( {A \\cup B} \\right) = P\\left( A \\right) + P\\left( B \\right) = \\frac{4}{{15}} + \\frac{1}{3} = \\frac{3}{5}\\)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho A và B là hai biến cố thỏa mãn P(A) = 0,4; P(B) = 0,5 và P(A È B) = 0,6. Tính xác suất của biến cố AB.",
+      "options": [
+        "A. 0,2.",
+        "B. 0,3.",
+        "C. 0,4.",
+        "D. 0,65."
+      ],
+      "answer": "B",
+      "note": "B Ta có P(A È B) = P(A) + P(B) – P(AB) Þ P(AB) = P(A) + P(B) – P(A È B) = 0,4 + 0,5 – 0,6 = 0,3."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho A và B là hai biến cố xung khắc. Biết \\(P\\left( A \\right) = \\frac{1}{4},P\\left( {A \\cup B} \\right) = \\frac{1}{2}\\) . Tính P(B).",
+      "options": [
+        "A. \\(\\frac{1}{8}\\) .",
+        "B. \\(\\frac{1}{4}\\) .",
+        "C. \\(\\frac{1}{3}\\) .",
+        "D. \\(\\frac{3}{4}\\) ."
+      ],
+      "answer": "B",
+      "note": "B Vì A và B là hai biến cố xung khắc nên P(A È B) = P(A) + P(B). Suy ra \\(P\\left( B \\right) = P\\left( {A \\cup B} \\right) - P\\left( A \\right) = \\frac{1}{2} - \\frac{1}{4} = \\frac{1}{4}\\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Theo thống kê, lớp 11A có 70% số bạn thích môn bóng đá, 50% số bạn thích môn bóng rổ và 30% số bạn thích cả hai môn. Tính tỉ lệ học sinh không thích cả hai môn bóng đá và bóng rổ của lớp 11A.",
+      "options": [
+        "A. 20%.",
+        "B. 25%.",
+        "C. 15%.",
+        "D. 10%."
+      ],
+      "answer": "D",
+      "note": "D Gọi A là biến cố “Học sinh thích bóng đá của lớp”; B là biến cố “Học sinh thích bóng rổ của lớp”. Khi đó P(A) = 0,7; P(B) = 0,5; P(AB) = 0,3. Tỉ lệ học sinh thích một trong hai môn là P(A È B) = P(A) + P(B) – P(AB) = 0,7 + 0,5 – 0,3 = 0,9. Tỉ lệ học sinh không thích cả hai môn bóng đá và bóng rổ là: \\(P\\left( {\\overline {A \\cup B} } \\right) = 1 - P\\left( {A \\cup B} \\right) = 1 - 0,9 = 0,1\\) = 10%."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Một hộp đựng 5 quả cầu màu xanh và 3 quả cầu màu đỏ có cùng kích thước và khối lượng. Chọn ngẫu nhiên hai quả cầu trong hộp. Tính xác suất để chọn được hai quả cầu có cùng màu.",
+      "options": [
+        "A. \\(\\frac{{10}}{{28}}\\) .",
+        "B. \\(\\frac{3}{{28}}\\) .",
+        "C. \\(\\frac{{13}}{{28}}\\) .",
+        "D. \\(\\frac{1}{2}\\) ."
+      ],
+      "answer": "C",
+      "note": "C Gọi A là biến cố “Chọn được cả hai quả cầu màu xanh”; B là biến cố “Chọn được cả hai quả cầu màu đỏ”. Biến cố C: “Hai quả cầu có cùng mầu”. Khi đó C = A È B. Do A và B là hai biến cố xung khắc nên P(C) = P(A) + P(B). Theo đề ta có \\(P\\left( A \\right) = \\frac{{C_5^2}}{{C_8^2}} = \\frac{{10}}{{28}}\\); \\(P\\left( B \\right) = \\frac{{C_3^2}}{{C_8^2}} = \\frac{3}{{28}}\\). Do đó \\(P\\left( C \\right) = P\\left( A \\right) + P\\left( B \\right) = \\frac{{10}}{{28}} + \\frac{3}{{28}} = \\frac{{13}}{{28}}\\)."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Lớp 11A trường THPT X có 25 học sinh nam và 20 học sinh nữ. Chọn ngẫu nhiên đồng thời hai bạn từ lớp này để tham dự cuộc họp của trường. Tính xác suất chọn được hai bạn có cùng giới tính để đi dự cuộc họp.",
+      "options": [
+        "A. \\(\\frac{{19}}{{99}}\\) .",
+        "B. \\(\\frac{{10}}{{33}}\\) .",
+        "C. \\(\\frac{{49}}{{99}}\\) .",
+        "D. \\(\\frac{{29}}{{99}}\\) ."
+      ],
+      "answer": "C",
+      "note": "C Gọi A là biến cố “Chọn được hai bạn nam”; B là biến cố “Chọn được hai bạn nữ”. Theo đề ta có \\(P\\left( A \\right) = \\frac{{C_{25}^2}}{{C_{45}^2}} = \\frac{{10}}{{33}}\\); \\(P\\left( B \\right) = \\frac{{C_{20}^2}}{{C_{45}^2}} = \\frac{{19}}{{99}}\\). Do A và B là hai biến cố xung khắc nên \\(P\\left( {A \\cup B} \\right) = P\\left( A \\right) + P\\left( B \\right) = \\frac{{10}}{{33}} + \\frac{{19}}{{99}} = \\frac{{49}}{{99}}\\)."
+    }
+  ]
+}

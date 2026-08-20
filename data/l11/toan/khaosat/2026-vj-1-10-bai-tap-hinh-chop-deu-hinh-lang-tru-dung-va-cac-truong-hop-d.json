@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-10-bai-tap-hinh-chop-deu-hinh-lang-tru-dung-va-cac-truong-hop-d",
+  "sourceId": "vietjack:1-10-bai-tap-hinh-chop-deu-hinh-lang-tru",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.10 Bài tập Hình chóp đều, hình lăng trụ đứng và các trường hợp đặc biệt (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho khối hộp chữ nhật ABCD.A'B'C'D' có đáy là hình vuông, BD = 2a, góc phẳng nhị diện [A', BD, A] bằng 30 ° . Tính độ dài cạnh AA'.",
+      "options": [
+        "A. 2 a 3 3",
+        "B. a 3",
+        "C. a 3 6",
+        "D. a 3 3"
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Gọi O là tâm của hình vuông ABCD . Vì ABCD là hình vuông nên AO ^ BD. Vì AA' ^ (ABCD) ⇒ AA' ^ BD mà AO ^ BD nên BD ^ (AOA') ⇒ BD ^ A'O. Khi đó: A ' B D ∩ A B D = B D A ' O ⊥ B D A O ⊥ B D ⇒ A ' , B D , A = A ' O A ^ = 30 ° . Vì ABCD là hình vuông nên AC = BD mà O là tâm hình vuông nên A O = A C 2 = a . Xét D A'AO vuông tại A , ta có: tan A ' O A ^ = A A ' A O ⇒ A A ' = 1 3 . a = a 3 3 ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Xét các mệnh đề sau: (1) Hình hộp là hình lăng trụ đứng. (2) Hình hộp chữ nhật là hình lăng trụ đứng. (3) Hình lập phương là hình lăng trụ đứng. (4) Hình lăng trụ tứ giác đều là lăng trụ đứng. Số mệnh đề đúng trong các mệnh đề trên là:",
+      "options": [
+        "A. 4;",
+        "B. 3 ;",
+        "C. 2 ;",
+        "D. 1 ."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Mệnh đề (1) sai. Các cạnh bên không vuông góc với mặt đáy."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho hình lăng trụ đứng ABCD.A'B'C'D' có đáy ABCD là hình vuông. Khẳng định nào sau đây đúng ?",
+      "options": [
+        "A. (AB'C) ^ (B'BD);",
+        "B. (AB'C) ^ (BA'C');",
+        "C. (AB'C) ^ (D'BC);",
+        "D. (AB'C) ^ (D'AB)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Vì BB' ^ (ABCD) ⇒ BB' ^ AC (1). Do ABCD là hình vuông nên BD ^ AC (2). Từ (1) và (2), suy ra AC ^ (BB'D) mà AC Ì (AB'C) nên (AB'C) ^ (BB'D)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hình lập phương ABCD.A'B'C'D' cạnh a. Cắt hình lập phương bởi mặt phẳng trung trực của AC'. Diện tích của thiết diện là :",
+      "options": [
+        "A. 3 3 a 2 2",
+        "B. 3 a 2 4",
+        "C. 3 3 a 2 4",
+        "D. 3 a 2 16"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Gọi M là trung điểm BC, khi đó M A = M C ' = a 2 + a 2 2 = a 5 2 nên M thuộc mặt phẳng trung trực của AC'. Tương tự ta cũng có các điểm N, P, Q, R, S lần lượt là trung điểm DC, DD', D'A', A'B', B'B và cũng thuộc mặt phẳng trung trực. Vậy thiết diện cần tìm là lục giác đều MNPQRS. Có M N = a 2 4 + a 2 4 = a 2 2 . Do đó diện tích của lục giác đều bằng 6. a 2 2 2 . 3 4 = 3 3 4 a 2"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho hình lăng trụ lục giác đều ABCDEF.A'B'C'D'E'F' có cạnh bên bằng a và ADD'A' là hình vuông. Cạnh đáy của lăng trụ bằng:",
+      "options": [
+        "A. a;",
+        "B. 2 a 2",
+        "C. 3 a 3",
+        "D. a 2"
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Tổng số đo các góc của hình lục giác là 720 ° . Vì ABCDEF là hình lục giác đều nên mỗi góc của hình lục giác đều ABCDEF là 120 ° ⇒ F A B ^ = 120 ° . Vì ABCDEF là hình lục giác đều nên ta suy ra: AD là tia phân giác của góc F A B ^ và E D C ^ . ⇒ F A D ^ = F A B ^ 2 = 60 ° Tam giác AFD vuông tại F có F A D ^ = 60 ° và AD = a ta suy ra: cos F A D ^ = A F A D ⇒ A F = A D . cos F A D ^ = a . cos 60 ° = a . 1 2 = a 2 ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho hình lăng trụ tứ giác đều ABCD.A'B'C'D' có cạnh đáy bằng a, góc giữa hai mặt phẳng (ABCD) và (ABC') có số đo bằng 60 ° . Cạnh bên của hình lăng trụ bằng:",
+      "options": [
+        "A. 3a",
+        "B. a 3",
+        "C. 2a",
+        "D. a 2"
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Ta có: (ABCD) Ç (ABC') = AB. Vì BB' ^ (ABCD) ⇒ BB' ^ AB mà AB ^ BC ⇒ AB ^ (BB'C'C) ⇒ AB ^ BC'. Do đó góc giữa hai mặt phẳng (ABCD) và (ABC') bằng góc giữa hai đường thẳng BC và BC'. Mà (BC, BC') = C B C ' ^ = 60 ° . Xét D CBC' vuông tại C, có tan C B C ' ^ = C C ' C B ⇒ C C ' = C B . tan C B C ' ^ = a . tan 60 ° = a 3 ."
+    }
+  ]
+}

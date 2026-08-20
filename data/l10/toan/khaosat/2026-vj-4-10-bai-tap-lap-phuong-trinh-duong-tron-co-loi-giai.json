@@ -1,0 +1,78 @@
+{
+  "id": "2026-vj-4-10-bai-tap-lap-phuong-trinh-duong-tron-co-loi-giai",
+  "sourceId": "vietjack:4-10-bai-tap-lap-phuong-trinh-duong-tron",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "4.10 Bài tập Lập phương trình đường tròn (có lời giải)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Đường tròn tâm I(3; –7), bán kính R = 3 có phương trình là",
+      "options": [
+        "A. (x + 3) 2 + (y – 7) 2 = 9 ;",
+        "B. (x – 3) 2 + (y – 7) 2 = 9 ;",
+        "C. (x – 3) 2 + (y + 7) 2 = 9 ;",
+        "D. (x + 3) 2 + (y + 7) 2 = 9 ."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải: Đáp án đúng là: C Đường tròn tâm I(3; –7), bán kính R = 3 có phương trình là (x – 3) 2 + (y + 7) 2 = 9."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Trong mặt phẳng tọa độ Oxy, cho A( – 1; 4), B(5; –2). Phương trình đường tròn đường kính AB là",
+      "options": [
+        "A. (x – 3) 2 + (y – 2) 2 = 20 ;",
+        "B. (x – 4) 2 + (y – 2) 2 = 29 ;",
+        "C. (x – 2) 2 + (y – 1) 2 = 72 ;",
+        "D. (x – 2) 2 + (y – 1) 2 = 18 ."
+      ],
+      "answer": "D",
+      "note": "Hướng dẫn giải: Đáp án đúng là: D Gọi I là trung điểm của AB. Khi đó I(2; 1). Suy ra I A → = − 3 ; − 3 nên I A = − 3 2 + − 3 2 = 3 2 . Đường tròn đường kính AB có tâm I(2; 1), bán kính R = IA = 3 2 . Do đó phương trình đường tròn đường kính AB là (x – 2) 2 + (y – 1) 2 = 18 ."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Đường tròn đi qua 3 điểm A(1; 7), B( – 2; 6) và C(5; – 1) có phương trình là",
+      "options": [
+        "A. x 2 + y 2 – 2x – 4y – 20 = 0 ;",
+        "B. x 2 + y 2 + 2x + 4y – 20 = 0 ;",
+        "C. x 2 + y 2 – 2x + 4y – 20 = 0 ;",
+        "D. x 2 + y 2 + 2x – 4y – 20 = 0 ."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải: Đáp án đúng là: A Gọi phương trình đường tròn (C) có dạng x 2 + y 2 – 2ax – 2by + c = 0 (với a 2 + b 2 – c > 0). Đường tròn (C) đi qua ba điểm A, B, C nên ta có hệ phương trình: 1 + 49 − 2 a − 14 b + c = 0 4 + 36 + 4 a − 12 b + c = 0 25 + 1 − 10 a + 2 b + c = 0 ⇔ 2 a + 14 b − c = 50 4 a − 12 b + c = − 40 10 a − 2 b − c = 26 ⇔ a = 1 b = 2 c = − 20 (thỏa mãn điều kiện). Vậy phương trình đường tròn cần tìm là: x 2 + y 2 – 2x – 4y – 20 = 0."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Trong mặt phẳng tọa độ Oxy, cho đường tròn (C 1 ) : x 2 + y 2 – 2x – 4y – 5 = 0 và điểm A(3; 4). Phương trình đường tròn (C) có tâm là tâm của đường tròn (C 1 ) và đi qua điểm A là",
+      "options": [
+        "A. (x – 1) 2 + (y – 2) 2 = 10 ;",
+        "B. (x – 1) 2 + (y – 2) 2 = 8 ;",
+        "C. (x + 1) 2 + (y + 2) 2 = 8 ;",
+        "D. (x + 1) 2 + (y + 2) 2 = 10."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải: Đáp án đúng là: B Đường tròn (C 1 ) có tâm I(1; 2) nên đường tròn (C) có tâm là I(1; 2). Với I(1; 2) và A(3; 4), ta có I A → = 2 ; 2 nên I A = 2 2 + 2 2 = 2 2 . Đường tròn (C) đi qua điểm A(3; 4) nên bán kính đường tròn là R = IA = 2 2 . Vậy phương trình đường tròn cần tìm là (x – 1) 2 + (y – 2) 2 = 8."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong mặt phẳng tọa độ Oxy, cho đường thẳng Δ: x – 2y + 3 = 0. Phương trình đường tròn có tâm I(3; –2) và tiếp xúc với Δ là",
+      "options": [
+        "A. (x + 3) 2 + (y – 2) 2 = 20;",
+        "B. (x – 3) 2 + (y + 2) 2 = 20;",
+        "C. (x + 3) 2 + (y – 2) 2 = 10;",
+        "D. (x + 3) 2 + (y – 2) 2 = 10."
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải: Đáp án đúng là: B Do đường tròn cần tìm tiếp xúc với đường thẳng Δ nên bán kính đường tròn chính là khoảng cách từ tâm I(3; –2) đến Δ: x – 2y + 3 = 0 và bằng: R = d I , Δ = 3 − 2 ⋅ − 2 + 3 1 2 + − 2 2 = 10 5 = 2 5 . Vậy phương trình đường tròn cần tìm là (x – 3) 2 + (y + 2) 2 = 20."
+    }
+  ]
+}

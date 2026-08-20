@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-1-bai-tap-on-tap-toan-10-ket-noi-tri-thuc-chuong-8-co-dap-an",
+  "sourceId": "vietjack:1-bai-tap-on-tap-toan-10-ket-noi-tri-thu",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.Bài tập ôn tập Toán 10 Kết nối tri thức Chương 8 có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: A. Trắc nghiệm Dạng 1. Trắc nghiệm nhiều phương án lựa chọn Mỗi câu hỏi thí sinh chỉ chọn một phương án. Trong một trường THPT, khối 10 có 280 học sinh nam và 325 học sinh nữ. Nhà trường cần chọn một học sinh ở khối 10 đi dự hội thảo khoa học. Hỏi nhà trường có bao nhiêu cách chọn?",
+      "options": [
+        "A. \\(325\\).",
+        "B. \\(280\\).",
+        "C. \\(605\\).",
+        "D. \\(45\\)."
+      ],
+      "answer": "C",
+      "note": "Lời giải Số cách chọn một học sinh đi dự hội thảo khoa học là \\(280 + 325 = 605\\). Chọn C."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Trong khai triển nhị thức Newton của \\({\\left( {a + b} \\right)^4}\\) có bao nhiêu số hạng?",
+      "options": [
+        "A. \\(5\\).",
+        "B. \\(4\\).",
+        "C. \\(3\\).",
+        "D. \\(6\\)."
+      ],
+      "answer": "A",
+      "note": "Lời giải Trong khai triển nhị thức Newton của \\({\\left( {a + b} \\right)^4}\\) có 5 số hạng. Chọn A."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Khai triển theo công thức nhị thức Newton \\({\\left( {x - y} \\right)^4}\\) ta được",
+      "options": [
+        "A. \\({x^4} - 4{x^3}y + 6{x^2}{y^2} - 4x{y^3} - {y^4}\\).",
+        "B. \\({x^4} + 4{x^3}y + 6{x^2}{y^2} - 4x{y^3} + {y^4}\\).",
+        "C. \\({x^4} - 4{x^3}y - 6{x^2}{y^2} - 4x{y^3} + {y^4}\\).",
+        "D. \\({x^4} - 4{x^3}y + 6{x^2}{y^2} - 4x{y^3} + {y^4}\\)."
+      ],
+      "answer": "D",
+      "note": "Lời giải \\({\\left( {x - y} \\right)^4} = {x^4} - 4{x^3}y + 6{x^2}{y^2} - 4x{y^3} + {y^4}\\). Chọn D."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Trong khai triển nhị thức Newton của \\({\\left( {2x - 3} \\right)^{a + 1}}\\) có 6 số hạng. Khi đó \\(a\\) bằng",
+      "options": [
+        "A. \\(6\\).",
+        "B. \\(7\\).",
+        "C. \\(5\\)",
+        "D. \\(4\\)."
+      ],
+      "answer": "D",
+      "note": "Lời giải Trong khai triển nhị thức Newton của \\({\\left( {2x - 3} \\right)^{a + 1}}\\) có 6 số hạng thì \\(a + 1 = 5 \\Leftrightarrow a = 4\\). Chọn D."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Một lớp học có 40 học sinh gồm 25 nam và 15 nữ. Chọn 3 học sinh để tham gia vệ sinh công cộng toàn trường. Hỏi có bao nhiêu cách chọn như trên?",
+      "options": [
+        "A. \\(59280\\).",
+        "B. \\(455\\).",
+        "C. \\(9880\\).",
+        "D. \\(2300\\)."
+      ],
+      "answer": "C",
+      "note": "Lời giải Số cách chọn 3 học sinh để tham gia vệ sinh công cộng toàn trường là \\(C_{40}^3 = 9880\\). Chọn C."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trên giá sách có 5 quyển sách Toán khác nhau, 3 quyển sách Vật lí khác nhau và 6 quyển sách Tiếng Anh khác nhau. Hỏi có bao nhiêu cách chọn hai quyển sách khác bộ môn?",
+      "options": [
+        "A. \\(28\\)cách.",
+        "B. \\(63\\) cách.",
+        "C. \\(91\\) cách.",
+        "D. \\(90\\) cách."
+      ],
+      "answer": "B",
+      "note": "Lời giải Số cách chọn hai quyển sách khác bộ môn là \\(C_5^1 \\cdot C_3^1 + C_5^1 \\cdot C_6^1 + C_3^1 \\cdot C_6^1 = 63\\)cách. Chọn B."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Tìm hệ số của \\({x^4}\\) trong khai triển của biểu thức \\({\\left( {2 + 3x} \\right)^5}\\).",
+      "options": [
+        "A. \\(162\\).",
+        "B. \\(810\\).",
+        "C. \\(3125\\).",
+        "D. \\(7776\\)."
+      ],
+      "answer": "B",
+      "note": "Lời giải Hệ số của \\({x^4}\\) trong khai triển của biểu thức \\({\\left( {2 + 3x} \\right)^5}\\) là \\(C_5^4 \\cdot 2 \\cdot {3^4} = 810\\). Chọn B."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Tính tổng các hệ số trong khai triển biểu thức \\({\\left( {1 - 5x} \\right)^4}\\).",
+      "options": [
+        "A. \\( - 1\\).",
+        "B. \\( - 256\\).",
+        "C. \\(256\\).",
+        "D. \\(1\\)."
+      ],
+      "answer": "C",
+      "note": "Lời giải Ta có \\({\\left( {1 - 5x} \\right)^4} = 1 + 4 \\cdot 1 \\cdot \\left( { - 5x} \\right) + 6 \\cdot 1 \\cdot {\\left( { - 5x} \\right)^2} + 4 \\cdot 1 \\cdot {\\left( { - 5x} \\right)^3} + {\\left( { - 5x} \\right)^4}\\)\\( = 1 - 20x + 150{x^2} - 500{x^3} + 625{x^4}\\). Tổng các hệ số là \\(1 - 20 + 150 - 500 + 625 = 256\\). Chọn C."
+    }
+  ]
+}

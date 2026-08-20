@@ -1,0 +1,315 @@
+{
+  "id": "2026-sg-thi-thugiai-de-thi-thu-tot-nghiep-thpt-2026-mon-toan-truong-chuye",
+  "sourceId": "sieugioi:thi-thugiai-de-thi-thu-tot-nghiep-thpt-2",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "title": "Thi ThửGiải đề thi thử tốt nghiệp THPT 2026 môn toán trường chuyên KHTN Hà Nội (Lần 1)",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Họ nguyên hàm của hàm số \\(f\\left( x \\right)=x+\\sin x\\) là",
+      "options": [
+        "A. \\(\\frac{1}{2}{{x}^{2}}+\\cos x+C\\).",
+        "B. \\(\\frac{1}{2}{{x}^{2}}-\\cos x+C\\).",
+        "C. \\({{x}^{2}}-\\cos x+C\\).",
+        "D. \\({{x}^{2}}+\\cos x+C\\).\nSpoiler:\nLời giải\nTa có \\(\\int{f\\left( x \\right)\\text{d}x}=\\int{\\left( x+\\sin x \\right)\\text{d}x}=\\frac{{{x}^{2}}}{2}-\\cos x+C\\)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hàm số \\(f\\left( x \\right)={{x}^{3}}-3x+2\\). Giá trị cực đại của hàm số đã cho bằng",
+      "options": [
+        "A. \\(-1\\).",
+        "B. \\(0\\).",
+        "C. \\(1\\).",
+        "D. \\(4\\).\nSpoiler:\nLời giải\nTập xác định \\(D=\\mathbb{R}\\).\nĐạo hàm \\({f}'\\left( x \\right)=3{{x}^{2}}-3\\).\n\\(f'\\left( x \\right) = 0 \\Leftrightarrow \\left[ \\begin{array}{l} x = - 1\\\\ x = 1 \\end{array} \\right.\\).\nBảng biến thiên\nTừ bảng biến thiên, suy ra giá trị cực đại của hàm số bằng \\(4\\)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho \\(\\int\\limits_{0}^{1}{f\\left( x \\right)\\text{d}x}=2\\) và \\(\\int\\limits_{0}^{1}{g\\left( x \\right)\\text{d}x}=5\\) khi đó \\(\\int\\limits_{0}^{1}{\\left[ 3f\\left( x \\right)-2g\\left( x \\right) \\right]\\text{d}x}\\) bằng",
+      "options": [
+        "A. \\(-4\\).",
+        "B. \\(16\\).",
+        "C. \\(-3\\).",
+        "D. \\(11\\).\nSpoiler:\nLời giải\nTa có \\(\\int\\limits_{0}^{1}{\\left[ 3f\\left( x \\right)-2g\\left( x \\right) \\right]\\text{d}x}=3\\int\\limits_{0}^{1}{f\\left( x \\right)\\text{d}x}-2\\int\\limits_{0}^{1}{g\\left( x \\right)\\text{d}x}=3\\cdot 2-2\\cdot 5=-4\\)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Trong không gian \\(Oxyz\\), phương trình đường thẳng đi qua điểm \\(A\\left( 1;2;3 \\right)\\) và song song với đường thẳng \\(d:\\left\\{ \\begin{align} & x=1-t \\\\ & y=t \\\\ & z=-1-4t \\\\ \\end{align} \\right.\\)\nlà",
+      "options": [
+        "A. \\(\\frac{x+1}{-1}=\\frac{y+2}{1}=\\frac{z+3}{-4}\\).",
+        "B. \\(\\frac{x-1}{-1}=\\frac{y+2}{1}=\\frac{z-3}{-4}\\).",
+        "C. \\(\\frac{x-1}{-1}=\\frac{y-2}{1}=\\frac{z-3}{4}\\).",
+        "D. \\(\\frac{x}{1}=\\frac{y-3}{-1}=\\frac{z+1}{4}\\).\nSpoiler:\nLời giải\nĐường thẳng \\(d\\) có vectơ chỉ phương \\(\\overrightarrow{u}=\\left( -1;1;-4 \\right)\\).\nĐường thẳng \\(\\Delta \\) cần tìm song song với \\(d\\) nên nhận \\(\\overrightarrow{u}\\) làm vectơ chỉ phương, đồng thời đi qua điểm \\(A\\) nên có phương trình \\(\\Delta :\\frac{x-1}{-1}=\\frac{y-2}{1}=\\frac{z-3}{-4}\\)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Trong không gian \\(Oxyz\\), cho ba vectơ \\(\\overrightarrow{a}=\\left( 3;0;1 \\right)\\), \\(\\overrightarrow{b}=\\left( 1;-1;-2 \\right)\\) và \\(\\overrightarrow{c}=\\left( 2;1;-1 \\right)\\). Tích vô hướng \\(\\overrightarrow{a}\\cdot \\left( \\overrightarrow{b}+\\overrightarrow{c} \\right)\\) bằng",
+      "options": [
+        "A. \\(0\\).",
+        "B. \\(3\\).",
+        "C. \\(6\\).",
+        "D. \\(9\\).\nSpoiler:\nLời giải\nTa có \\(\\overrightarrow{b}+\\overrightarrow{c}=\\left( 3;0;-3 \\right)\\).\nSuy ra \\(\\overrightarrow{a}\\cdot \\left( \\overrightarrow{b}+\\overrightarrow{c} \\right)=3\\cdot 3+0\\cdot 0+1\\cdot \\left( -3 \\right)=6\\)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho hàm số \\(f\\left( x \\right)\\) có \\(f\\left( 1 \\right)=3\\) và \\({f}'\\left( 1 \\right)=2\\). Giá trị của \\(\\underset{x\\to 1}{\\mathop{\\lim }}\\,\\frac{{{f}^{2}}\\left( x \\right)-9}{x-1}\\) bằng",
+      "options": [
+        "A. \\(12\\).",
+        "B. \\(6\\).",
+        "C. \\(2\\).",
+        "D. \\(18\\).\nSpoiler:\nLời giải"
+      ],
+      "answer": "A",
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Diện tích hình phẳng giới hạn bởi đường thẳng \\(y=x\\) và đồ thị của hàm số \\(y={{x}^{2}}-2x\\) bằng",
+      "options": [
+        "A. \\(4\\).",
+        "B. \\(\\frac{7}{2}\\).",
+        "C. \\(\\frac{9}{2}\\).",
+        "D. \\(3\\).\nSpoiler:\nLời giải\nTa có: \\(x = {x^2} - 2x\\) \\( \\Leftrightarrow {x^2} - 3x = 0\\) \\( \\Leftrightarrow \\left[ \\begin{array}{l} x = 0\\\\ x = 3 \\end{array} \\right.\\).\nDiện tích hình phẳng: \\(S = \\int\\limits_0^3 {\\left| {{x^2} - 3x} \\right|dx} \\) \\( = \\int\\limits_0^3 {\\left( {3x - {x^2}} \\right)} dx\\) \\( = \\left. {\\left( {\\frac{3}{2}{x^2} - \\frac{1}{3}{x^3}} \\right)} \\right|_0^3 = \\frac{9}{2}\\)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Trong không gian \\(Oxyz\\), mặt phẳng qua \\(A\\left( 1;2;-1 \\right)\\) và vuông góc với các mặt phẳng \\(\\left( P \\right):2x-y+3z-2=0\\); \\(\\left( Q \\right):x+y+z-1=0\\) có phương trình là",
+      "options": [
+        "A. \\(x+y+2z-1=0\\).",
+        "B. \\(4x-y+z-1=0\\).",
+        "C. \\(4x-y-3z-5=0\\).",
+        "D. \\(x-y+z+2=0\\).\nSpoiler:\nLời giải\nTa có: \\(\\overset{\\to }{\\mathop{{{n}_{P}}}}\\,=\\left( 2;-1;3 \\right)\\); \\(\\overset{\\to }{\\mathop{{{n}_{Q}}}}\\,=\\left( 1;1;1 \\right)\\); \\(\\overset{\\to }{\\mathop{n}}\\,=\\left[ \\overset{\\to }{\\mathop{{{n}_{P}},}}\\,\\overset{\\to }{\\mathop{{{n}_{Q}}}}\\, \\right]=\\left( -4;1;3 \\right)\\).\nMặt phẳng đi qua \\(A\\left( 1;2;-1 \\right)\\) nhận vectơ \\(\\overset{\\to }{\\mathop{{{n}'}}}\\,=\\left( 4;-1;-3 \\right)\\) làm vec tơ pháp tuyến có phương trình là: \\(4\\left( x-1 \\right)-\\left( y-2 \\right)-3\\left( z+1 \\right)=0\\Leftrightarrow 4x-y-3z-5=0\\)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "content": "Câu 9: Trong hải dương học, độ sâu \\(d\\) (tính bằng mét) mà ánh sáng mặt trời có thể xuyên qua được liên hệ với cường độ ánh sáng \\(I\\) tại độ sâu đó bằng công thức \\(I={{I}_{o}}{{e}^{-kd}}\\), trong đó \\({{I}_{o}}\\) là cường độ ánh sáng tại mặt nước và \\(k\\) là hệ số hấp thụ của nước. Biết cường độ ánh sáng tại độ sâu \\(10m\\) bằng một nửa cường độ ánh sáng tại mặt nước, tìm giá trị của \\(k\\) (làm tròn đến ba chữ số thập phân).",
+      "options": [
+        "A. \\(0,069\\).",
+        "B. \\(0,077\\).",
+        "C. \\(0,083\\).",
+        "D. \\(0,091\\).\nSpoiler:\nLời giải\nTa có: \\(I={{I}_{o}}{{e}^{-kd}}\\[\\Leftrightarrow \\frac{1}{2}{{I}_{0}}={{I}_{o}}{{e}^{-10k}}\\]\\Leftrightarrow -10k=\\ln \\frac{1}{2}\\)\\(\\Leftrightarrow k=\\frac{-1}{10}\\ln \\frac{1}{2}=0,069\\)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "content": "Câu 10: Tiệm cận xiên của đồ thị hàm số \\(y=\\frac{2{{x}^{2}}+x}{x+1}\\) là",
+      "options": [
+        "A. \\(y=2x+1\\).",
+        "B. \\(y=2x-3\\).",
+        "C. \\(y=2x\\).",
+        "D. \\(y=2x-1\\).\nSpoiler:\nLời giải\nTa có: \\(a=\\underset{x\\to +\\infty }{\\mathop{\\lim }}\\,\\frac{y}{x}=\\underset{x\\to +\\infty }{\\mathop{\\lim }}\\,\\frac{2{{x}^{2}}+x}{x\\left( x+1 \\right)}=\\underset{x\\to +\\infty }{\\mathop{\\lim }}\\,\\frac{2{{x}^{2}}+x}{{{x}^{2}}+x}=2\\).\n\\(b=\\underset{x\\to +\\infty }{\\mathop{\\lim }}\\,\\left( y-2x \\right)=\\underset{x\\to +\\infty }{\\mathop{\\lim }}\\,\\left( \\frac{2{{x}^{2}}+x}{x+1}-2x \\right)=\\underset{x\\to +\\infty }{\\mathop{\\lim }}\\,\\frac{-x}{x+1}=-1\\)\n(Tương tự: \\(\\underset{x\\to -\\infty }{\\mathop{\\lim }}\\,\\frac{y}{x}=2\\); \\(b=\\underset{x\\to +\\infty }{\\mathop{\\lim }}\\,\\left( y-2x \\right)=-1\\)).\nVậy đồ thị hàm số có tiệm cận xiên: \\(y=2x-1\\)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 11,
+      "type": "single",
+      "content": "Câu 11: Cho bảng thống kê doanh số bán hàng của \\(30\\) cửa hàng của một chuỗi siêu thị mini trong một ngày như sau:\nKhoảng tứ phân vị của mẫu số liệu trên là",
+      "options": [
+        "A. \\(60\\).",
+        "B. \\(10\\).",
+        "C. \\(16,375\\).",
+        "D. \\(26,375\\).\nSpoiler:\nLời giải\nCỡ mẫu: \\(n=30\\).\nTa có: \\(\\frac{n}{4}=7,5\\) \\(\\Rightarrow {{Q}_{1}}\\in \\left[ 40;50 \\right)\\); \\(\\frac{3n}{4}=22,5\\)\\(\\Rightarrow {{Q}_{3}}\\in \\left[ 50;60 \\right)\\).\n\\({{Q}_{1}}=40+\\frac{7,5-\\left( 2+5 \\right)}{10}.10=40,5\\); \\({{Q}_{3}}=50+\\frac{22,5-\\left( 2+5+10 \\right)}{8}.10=56,875\\).\nKhoảng tứ phân vị: \\({{\\Delta }_{Q}}=56,875-40,5=16,375\\)."
+      ],
+      "answer": "A",
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 12,
+      "type": "single",
+      "content": "Câu 12: Cho khối chóp \\(S.ABCD\\), có đáy là hình vuông cạnh \\(2a\\), cạnh bên \\(SA\\) vuông góc với mặt phẳng đáy; mặt bên \\(\\left( SBC \\right)\\) tạo với đáy một góc \\({{30}^{0}}\\). Thể tích của khối chóp đã cho bằng",
+      "options": [
+        "A. \\(\\frac{\\sqrt{3}{{a}^{3}}}{3}\\).",
+        "B. \\(\\frac{8\\sqrt{3}{{a}^{3}}}{9}\\).",
+        "C. \\(\\frac{\\sqrt{3}{{a}^{3}}}{9}\\).",
+        "D. \\(\\frac{\\sqrt{3}{{a}^{3}}}{9}\\).\nSpoiler:\nLời giải\nTa có: \\(\\left\\{ \\begin{align} & SA\\bot BC\\,\\,\\,\\left( V\\grave{i}\\,\\,\\,SA\\bot \\left( ABCD \\right) \\right) \\\\ & AB\\bot BC\\,\\, \\\\ \\end{align} \\right.\\)\\(\\Rightarrow SB\\bot BC\\); \\(\\left\\{ \\begin{align} & \\left( SBC \\right)\\cap \\left( ABCD \\right)=BC \\\\ & SB\\bot BC \\\\ & AB\\bot BC \\\\ \\end{align} \\right.\\) \\(\\Rightarrow \\left( \\left( SBC \\right),\\left( ABCD \\right) \\right)=\\left( SB,AB \\right)=\\widehat{SBA}={{30}^{0}}\\).\nXét tam giác \\(SAB\\) vuông tại \\(A\\), ta có: \\(SA=AB.\\tan \\widehat{SBA}=2a.\\tan {{30}^{0}}=\\frac{2\\sqrt{3}a}{3}\\).\nThế tích khối chóp:\n\\({{V}_{S.ABCD}}=\\frac{1}{3}.SA.{{S}_{ABCD}}=\\frac{1}{3}.\\frac{2\\sqrt{3}a}{3}.4{{a}^{2}}=\\frac{8\\sqrt{3}{{a}^{3}}}{9}\\).\nPHẦN II. Trắc nghiệm chọn đúng sai.\n​\nThí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai."
+      ],
+      "answer": "A",
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 13,
+      "type": "true_false",
+      "content": "Câu 13: Một công ty khí tượng sử dụng hai mô hình dự báo thời tiết hoạt động độc lập với nhau là Mô hình 1 và Mô hình 2. Dựa trên dữ liệu quá khứ, độ chính xác của các mô hình được quy định như sau:\n- Mô hình 1: Có xác suất dự báo đúng là \\(80%\\). Nghĩa là, nếu thực tế trời mưa, xác suất mô hình báo có mưa là \\(0,8\\), nếu thực tế không mưa, xác suất mô hình báo không mưa là \\(0,8\\).\n- Mô hình 2: Có xác suất dự báo đúng là \\(90%\\). Nghĩa là, nếu thực tế trời mưa, xác suất mô hình dự báo có mưa là \\(0,9\\), nếu thực tế không mưa, xác suất mô hình báo không mưa là \\(0,9\\)\nBiết rằng tỷ lệ ngày có mưa ở khu vực này là \\(20%\\).",
+      "statements": [
+        "a) Xác suất để cả hai mô hình đều dự báo sai là \\(0,2\\).",
+        "b) Trong trường hợp Mô hình 1 dự báo không mưa và Mô hình 2 dự báo có mưa, xác suất Mô hình 1 dự báo đúng thấp hơn xác suất Mô hình 2 dự báo đúng.",
+        "c) Xác suất để cả hai mô hình đều dự báo có mưa là \\(0,16\\).",
+        "d) Nếu cả hai mô hình đều dự báo trời có mưa thì xác suất để thực tế trời có mưa là \\(0,9\\).\nSpoiler:\nLời giải\nGọi các biến cố như sau: \\(M\\): “trời mưa”, \\({{M}_{1}}\\):Mô hình 1 báo có mưa”,\\({{M}_{2}}\\):Mô hình 2 báo có mưa”. Ta có sơ đồ cây sau:",
+        "a) Sai\nXác suất để cả hai mô hình đều dự báo sai là: \\(\\left[ {P\\left( {\\overline {{M_1}} M} \\right) + P\\left( {{M_1}\\overline M } \\right)} \\right].\\left[ {P\\left( {\\overline {{M_2}} M} \\right) + P\\left( {{M_2}\\overline M } \\right)} \\right]\\) \\( = \\left( {0,2.0,2 + 0,2.0,8} \\right).\\left( {0,1.0,2 + 0,1.0,8} \\right)\\) \\( = 0,02\\)",
+        "b) Sai\n\\(P\\left( \\overline{M}|\\overline{{{M}_{1}}} \\right)=\\frac{0,8.0,8}{0,8.0,8+0,2.0,2}=\\frac{16}{17}\\); \\(P\\left( M|{{M}_{2}} \\right)=\\frac{0,2.0,9}{0,2.0,9+0,1.0,8}=\\frac{9}{13}\\). Vì \\(\\frac{16}{17}>\\frac{9}{13}\\) nên Mô hình 1 dự báo đúng cao hơn xác suất Mô hình 2 dự báo đúng.",
+        "c) Đúng\nKhông sử dụng sơ đồ hình cây phía trên vì: Để dự báo là có mưa hay không thì hoàn toàn phụ thuộc vào thời tiết lúc đó, nên ta xét 2 TH:\n+ TH1: Nếu trời mưa, tính xác suất của cả 2 mô hình báo mưa\n+ TH2: Nếu trời không mưa, xác suất cả 2 mô hình báo mưa\nXác suất để cả hai mô hình đều dự báo có mưa là:\n$\\begin{align}\n& P({{M}_{1}}{{M}_{2}})=P(M)\\cdot P({{M}_{1}}|M)\\cdot P({{M}_{2}}|M)+P(\\bar{M})\\cdot P({{M}_{1}}|\\bar{M})\\cdot P({{M}_{2}}|\\bar{M}) \\\\\n& P({{M}_{1}}{{M}_{2}})=(0,2\\cdot 0,8\\cdot 0,9)+(0,8\\cdot 0,2\\cdot 0,1)=0,144+0,016=0,16 \\\\\n\\end{align}$",
+        "d) Đúng\n\\(P\\left( M|{{M}_{1}}{{M}_{2}} \\right)=\\frac{0,144}{0,16}=0,9\\)."
+      ],
+      "answer": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 14,
+      "type": "true_false",
+      "content": "Câu 14: Chi phí vận hành trung bình (tình bằng triệu đồng/chuyến) của một công ty vận tải khi vận hành \\(x\\)chuyến xe mỗi ngày được cho bởi hàm số \\(A\\left( x \\right)=0,2x+2+\\frac{500}{x}\\) với \\(10\\le x\\le 100\\).",
+      "statements": [
+        "a) Đạo hàm của hàm chi phí trung bình là \\({A}'\\left( x \\right)=\\frac{0,2{{x}^{2}}+500}{{{x}^{2}}}\\).",
+        "b) Chi phí trung bình trên mỗi chuyến xe thấp nhất bằng 22 triệu đồng.",
+        "c) Nếu do giới hạn về số lượng tài xế khiến công ty chỉ có thể vận hành tối đa 40 chuyến xe mỗi ngày. Chi phí trung bình mỗi chuyến xe trong trường hợp này thấp nhất bằng 22,5 triệu đồng.",
+        "d) Tổng chi phí vận hành của công ty vận tải trong một ngày thấp nhất bằng 1,1 tỷ đồng.\nSpoiler:\nLời giải",
+        "a) Sai\nĐạo hàm của hàm chi phí trung bình là \\({A}'\\left( x \\right)=\\frac{0,2{{x}^{2}}-500}{{{x}^{2}}}\\).",
+        "b) Đúng\nTa có: \\({A}'\\left( x \\right)=\\frac{0,2{{x}^{2}}-500}{{{x}^{2}}}=0\\Rightarrow x=50\\). Ta có bảng biến thiên sau:\nTừ bảng biến thiên ta thấy: Chi phí trung bình trên mỗi chuyến xe thấp nhất bằng 22 triệu đồng.",
+        "c) Đúng\nTừ giả thiết ta có \\(x\\le 40\\), từ bảng biến thiên\nChi phí trung bình mỗi chuyến xe trong trường hợp này thấp nhất là \\(A\\left( 40 \\right)=22,5\\)(triệu đồng).",
+        "d) Sai\nTổng chi phí vận hành của công ty vận tải trong một ngày là: \\(B\\left( x \\right)=x.A\\left( x \\right)=0,2{{x}^{2}}+2x+500\\) (triệu đồng)\nCó: \\({B}'\\left( x \\right)=0,4x+2>0\\) với \\(10\\le x\\le 100\\). Do đó\nTổng chi phí vận hành của công ty vận tải trong một ngày thấp nhất là: \\(B\\left( 10 \\right)=540\\) (triệu đồng)."
+      ],
+      "answer": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 15,
+      "type": "true_false",
+      "content": "Câu 15: Một kiến trúc sư thiết kế bồn hoa trong công viên trên hệ trục tọa độ \\(Oxy\\) (đơn vị: mét). Bồn hoa là hình phẳng giới hạn bởi parabol \\((P):y=-{{x}^{2}}+4\\) và trục hoành \\(Ox\\). Kiến trúc sư bố trí một dải đèn LED thẳng, được mô phỏng bởi đường thẳng \\(d\\) đi qua điểm \\(M\\left( 0;1 \\right)\\), cắt parabol \\(\\left( P \\right)\\) tại hai điểm phân biệt \\(A\\) và \\(B\\) (có hoành độ lần lượt là \\({{x}_{1}}\\), \\({{x}_{2}}\\)). Dải đèn chia bồn hoa thành hai phần riêng biệt: Phần hình phẳng nằm phía trên dây cung \\(AB\\) được dùng để trồng Hoa Hồng, phần còn lại của bồn hoa (nằm phía dưới dây cung \\(AB\\)) được dùng để trồng Cỏ Nhật.",
+      "statements": [
+        "a) Diện tích toàn bộ bồn hoa (tổng diện tích trồng Hoa Hồng và Cỏ Nhật) bằng \\(16~{{\\text{m}}^{2}}\\).",
+        "b) Tích các hoành độ giao điểm của đường thẳng \\(d\\) và parabol \\(\\left( P \\right)\\) luôn bằng 3 (tức là \\({{x}_{1}}{{x}_{2}}=3\\)).",
+        "c) Diện tích trồng Hoa Hồng đạt giá trị nhỏ nhất khi dải đèn LED được thiết kế nằm ngang (song song với trục hoành).",
+        "d) Khi diện tích trồng Hoa Hồng gấp đôi diện tích trồng Cỏ Nhật, chiều dài của dải đèn LED (tính bằng độ dài đoạn thẳng \\(AB\\)) xấp xỉ 3,84 mét (làm tròn đến hàng phần trăm).\nSpoiler:\nLời giải",
+        "a) Sai.\nHoành độ giao điểm của \\(\\left( P \\right)\\) và trục \\(Ox\\) là nghiệm phương trình: \\(-{{x}^{2}}+4=0\\Leftrightarrow x=\\pm 2\\).\nVậy diện tích toàn bộ bồn hoa (tổng diện tích trồng Hoa Hồng và Cỏ Nhật) bằng\n\\(S=\\int\\limits_{-2}^{2}{\\left| -{{x}^{2}}+4 \\right|\\text{d}x}=\\int\\limits_{-2}^{2}{\\left( -{{x}^{2}}+4 \\right)\\text{d}x}=\\frac{32}{3}~{{\\text{m}}^{2}}\\).",
+        "b) Sai.\nGọi \\(k\\) là hệ số góc của đường thẳng \\(d\\) đi qua điểm \\(M\\left( 0;1 \\right)\\).\nKhi đó phương trình đường thẳng \\(d\\) là \\(y=kx+1\\)\nHoành độ giao điểm của \\(\\left( P \\right)\\) và đường thẳng \\(d\\) là nghiệm phương trình:\n\\(-{{x}^{2}}+4=kx+1\\Leftrightarrow {{x}^{2}}-kx-3=0\\,\\,\\left( * \\right)\\).\nGọi \\({{x}_{1}}\\), \\({{x}_{2}}\\) là nghiệm của phương trình (*).\nTheo Viét ta có \\(\\left\\{ \\begin{array}{l} {x_1} + {x_2} = k\\\\ {x_1}{x_2} = - 3 \\end{array} \\right.\\).",
+        "c) Đúng.\nDiện tích trồng Hoa Hồng là diện tích hình phẳng giới hạn bởi \\(\\left( P \\right)\\) và đường thẳng \\(d\\).\nTa có\nDấu “=” xảy ra khi và chỉ khi \\(k=0\\). Suy ra phương trình đường thẳng \\(d:y=1\\).\nVậy diện tích trồng Hoa Hồng đạt giá trị nhỏ nhất khi dải đèn LED được thiết kế nằm ngang (song song với trục hoành).",
+        "d) Đúng.\nKhi diện tích trồng Hoa Hồng gấp đôi diện tích trồng Cỏ Nhật, chiều dài của dải đèn LED (tính bằng độ dài đoạn thẳng \\(AB\\)) xấp xỉ 3,84 mét (làm tròn đến hàng phần trăm)."
+      ],
+      "answer": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 16,
+      "type": "true_false",
+      "content": "Câu 16: Trong không gian \\(Oxyz\\), cho mặt phẳng \\(\\left( P \\right):x-y+z-2=0\\) và hai điểm \\(A\\left( 1;2;-1 \\right)\\); \\(B\\left( 2;3;0 \\right)\\).",
+      "statements": [
+        "a) Đoạn thẳng \\(AB\\) có độ dài bằng 3.",
+        "b) Hai điểm \\(A\\), \\(B\\) nằm cùng phía đối với mặt phẳng \\(\\left( P \\right)\\).",
+        "c) Hình chiếu vuông góc của \\(B\\) trên \\(\\left( P \\right)\\) có tung dộ bằng 2.",
+        "d) Xét điểm \\(M\\in \\left( P \\right)\\), giá trị nhỏ nhất của \\(MA+MB\\) bằng \\(3\\sqrt{2}\\).\nSpoiler:\nLời giải",
+        "a) Sai.\nTa có \\(\\overrightarrow{AB}=\\left( 1;1;1 \\right)\\Rightarrow AB=\\sqrt{{{1}^{2}}+{{1}^{2}}+{{1}^{2}}}=\\sqrt{3}\\).",
+        "b) Đúng.\nThay tọa độ điểm \\(A\\), \\(B\\) vào phương trình mặt phẳng \\(\\left( P \\right)\\) ta có \\(\\left\\{ \\begin{array}{l} 1 - 2 - 1 - 2 = - 4\\\\ 2 - 3 + 0 - 2 = - 3 \\end{array} \\right.\\).\nSuy ra \\(A\\), \\(B\\) nằm cùng phía đối với mặt phẳng \\(\\left( P \\right)\\).",
+        "c) Sai.\nGọi \\(H\\) là hình chiếu vuông góc của \\(B\\) trên \\(\\left( P \\right)\\). Khi đó \\(BH\\bot \\left( P \\right)\\).\nSuy ra đường thẳng \\(BH\\) có vectơ chỉ phương \\(\\overrightarrow{u}=\\overrightarrow{{{n}_{\\left( P \\right)}}}=\\left( 1;-1;1 \\right)\\).\nPhương trình tham số của đường thẳng \\(BH\\) là \\(\\left\\{ \\begin{align} & x=2+t \\\\ & y=3-t \\\\ & z=t \\\\ \\end{align} \\right.,\\,\\,\\left( t\\in \\mathbb{R} \\right)\\).\nDo \\(H=BH\\cap \\left( P \\right)\\), nên tọa độ điểm \\(H\\) ứng với tham số \\(t\\) là nghiệm phương trình\n\\(2+t-\\left( 3-t \\right)+t-2=0\\Leftrightarrow t=1\\Rightarrow H\\left( 3;2;1 \\right)\\).\nVậy hình chiếu vuông góc của \\(B\\) trên \\(\\left( P \\right)\\) có tung dộ bằng 3.",
+        "d) Sai.\nGọi \\({B}'\\) là điểm đối xứng với \\(B\\) qua mặt phẳng \\(\\left( P \\right)\\).\nKhi đó \\(H\\) là trung điểm đoạn thẳng \\(B{B}'\\). Suy ra tọa độ \\({B}'\\left( 4;1;2 \\right)\\).\nTa có \\(MA+MB=MA+M{B}'\\ge A{B}'\\).\nSuy ra \\(MA+MB\\) đạt giá trị nhỏ nhất khi ba điểm \\(M\\), \\(A\\), \\(B\\) thẳng hàng.\nTa có \\(\\overrightarrow{A{B}'}=\\left( 3;-1;3 \\right)\\Rightarrow A{B}'=\\sqrt{{{3}^{2}}+{{\\left( -1 \\right)}^{2}}+{{3}^{2}}}=\\sqrt{19}\\).\nVậy giá trị nhỏ nhất của \\(MA+MB\\) bằng \\(\\sqrt{19}\\).\nPHẦN III. Trắc nghiệm trả lời ngắn.\n​\nThí sinh trả lời từ câu 1 đến câu 6."
+      ],
+      "answer": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 17,
+      "type": "short_answer",
+      "content": "Câu 17: Cho khối chóp \\(S.ABC\\) có đáy \\(ABC\\) là tam giác vuông tại \\(B,\\) \\(BC=3,\\) \\(SA\\bot \\left( ABC \\right)\\) và \\(SB=6.\\) Gọi \\(E\\) là trung điểm của cạnh \\(SB.\\) Biết góc giữa hai đường thẳng \\(SA\\) và \\(CE\\) bằng \\({{60}^{{}^\\circ }}.\\) Tính thể tích của khối chóp đã cho.\nĐáp số: 9\nSpoiler:\nLời giải\nGọi \\(M\\) là trung điểm của \\(AB\\Rightarrow ME//SA\\)\nXét \\(\\Delta EBC\\) vuông tại \\(B\\): \\(EC=\\sqrt{{{3}^{2}}+{{3}^{2}}}=3\\sqrt{2}\\)\nÁp dụng hệ quả định lý cos trong \\(\\Delta MEC\\) có:",
+      "answer": "0",
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 18,
+      "type": "short_answer",
+      "content": "Câu 18: Một cơ sở sản xuất dự định làm các viên gạch men hình vuông cạnh \\(60cm.\\) Bề mặt viên gạch được trang trí bởi một họa tiết hình chữ nhật màu trắng có tâm trùng với tâm viên gạch. Các đỉnh của hình chữ nhật này nằm trên hai đường parabol đối xứng nhau qua tâm viên gạch. Biết rằng mỗi đường parabol có đỉnh tại trung điểm một cạnh của viên gạch và đi qua hai đầu mút của cạnh đối diện (như hình vẽ mô phỏng). Cho biết chi phí nguyên liệu phần men trắng là \\(80\\) nghìn đồng/\\({{m}^{2}},\\) còn phần men màu bao quanh là \\(200\\) nghìn đồng/\\({{m}^{2}}.\\) Hỏi chi phí nguyên liệu thấp nhất để sản xuất một viên gạch là bao nhiêu nghìn đồng? (Kết quả làm tròn đến hàng phần mười).\nĐáp số: 60,2\nSpoiler:\nLời giải\nChọn hệ trục tọa độ \\(Oxy\\) như hình vẽ.\nViết phương trình parabol \\(\\left( {{P}_{1}} \\right)\\) đi qua đỉnh \\(I\\left( 0;30 \\right)\\) và \\(A\\left( 30;-30 \\right)\\)\n\\(\\left( {{P}_{1}} \\right):y=a{{x}^{2}}+bx+c.\\)\n\\(I\\left( 0;30 \\right)\\in \\left( {{P}_{1}} \\right)\\Rightarrow c=30\\Rightarrow y=a{{x}^{2}}+30\\)\n\\({{x}_{I}}=0\\Rightarrow \\frac{-b}{2a}=0\\Rightarrow b=0\\)\n\\(A\\left( 30;-30 \\right)\\in \\left( {{P}_{1}} \\right)\\Rightarrow {{30}^{2}}.a+30=-30\\Leftrightarrow a=\\frac{-1}{15}\\) \\(\\Rightarrow \\left( {{P}_{1}} \\right):y=\\frac{-1}{15}{{x}^{2}}+30.\\)\nGọi hàm chi phí là: \\(C\\left( x \\right)\\)\n\\(M\\in \\left( {{P}_{1}} \\right)\\Rightarrow M\\left( {{x}_{1}};\\frac{-1}{15}x_{1}^{2}+30 \\right)0\\le {{x}_{1}}\\le 30\\)\n\\(\\Rightarrow \\) Chiều rộng của HCN là: \\(2{{x}_{1}}\\). Chiều dài của HCN là: \\(2.\\left( \\frac{-1}{15}x_{1}^{2}+30 \\right)\\)\n\\(\\Rightarrow {{S}_{hcn}}=4{{x}_{1}}.\\left( \\frac{-1}{15}x_{1}^{2}+30 \\right)\\)\n\\(\\Rightarrow C\\left( x \\right)=8.{{S}_{hcn}}+20.\\left( {{S}_{vuong}}-{{S}_{hcn}} \\right)\\[=8.{{S}_{hcn}}+20.\\left( 3600-{{S}_{hcn}} \\right)\\]=-12{{S}_{hcn}}+72000\\)\n\\(\\Rightarrow C\\left( x \\right)=-48{{x}_{1}}\\left( \\frac{-1}{15}x_{1}^{2}+30 \\right)+72000\\[=\\frac{16}{5}x_{1}^{3}-1440{{x}_{1}}+72000\\]\\left( 0\\le {{x}_{1}}\\le 30 \\right)\\)\\(\\Rightarrow {C}'\\left( x \\right)=\\frac{48}{5}x_{1}^{2}-1440=0\\) $\\Leftrightarrow \\left[ \\begin{matrix}\n{{x}_{1}}=5\\sqrt{6}\\in \\left[ 0;30 \\right] \\\\\n{{x}_{1}}=-5\\sqrt{6}\\notin \\left[ 0;30 \\right] \\\\\n\\end{matrix} \\right.$\n\\(C\\left( 5\\sqrt{6} \\right)\\approx 60242,4\\) (đồng)\\(\\approx 60,2\\) (nghìn đồng)\n\\(C\\left( 30 \\right)=115200\\) (đồng), \\(C\\left( 0 \\right)=72000\\) (đồng).\nVậy chi phí nguyên liệu thấp nhất để sản xuất một viên gạch là 60,2 nghìn đồng.",
+      "answer": "0",
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 19,
+      "type": "short_answer",
+      "content": "Câu 19: Một công ty năng lượng đang xây dựng một bể chứa khí thiên nhiên hóa lỏng (LNG) có dạng hình cầu với bán kính 20 mét. Để đảm bảo an toàn và dễ dàng trong việc lắp đặt hệ thống đường ống, phần đáy và phần đỉnh của bể được cắt phẳng. Phần đáy bị cắt bởi một mặt phẳng cách tâm bể 18 mét, phần đỉnh bị cắt bởi một mặt phẳng cách tâm 15 mét (tâm nằm giữa hai mặt phẳng). Hỏi thể tích bể đó là bao nhiêu nghìn mét khối? (làm tròn đến hàng đơn vị).\nĐáp số: 32.\nSpoiler:\nLời giải\nGắn hệ trục tọa độ như hình vẽ. Phương trình đường tròn lớn của mặt cầu là: \\(\\left( C \\right):\\,\\,{{x}^{2}}+{{y}^{2}}=400\\Rightarrow {{y}^{2}}=400-{{x}^{2}}\\).\nThể tích bể chứa khí thiên nhiên hóa lỏng là: \\(V=\\pi \\int\\limits_{-18}^{15}{\\left( 400-{{x}^{2}} \\right)}dx=10131\\pi \\approx 32\\,\\,\\)nghìn \\({{m}^{3}}\\).",
+      "answer": "0",
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 20,
+      "type": "short_answer",
+      "content": "Câu 20: Xét các cấp số cộng \\(({{a}_{n}})\\) có số hạng đầu tiên \\({{a}_{1}}\\) và công sai \\(d\\) đều là các số nguyên dương và thỏa mãn \\({{2}^{{{a}_{8}}}}={{2}^{27}}{{a}_{8}}\\). Tìm giá trị nhỏ nhất của \\({{a}_{3}}\\).\nĐáp số: 12\nSpoiler:\nLời giải\nĐặt \\(x={{a}_{8}}\\) (với \\(x\\in {{\\mathbb{Z}}^{+}}\\)). Phương trình đã cho trở thành:\n\\({{2}^{x}}={{2}^{27}}\\cdot x\\Leftrightarrow \\frac{{{2}^{x}}}{{{2}^{27}}}=x\\Leftrightarrow {{2}^{x-27}}=x.\\)\nLấy lô-ga-rít cơ số \\(2\\) hai vế, ta được:\n\\(x-27={{\\log }_{2}}x\\Leftrightarrow x-27-{{\\log }_{2}}x=0.\\)\nXét hàm số \\(g(x)=x-27-{{\\log }_{2}}x\\) trên khoảng \\((0;+\\infty )\\).\nTa có đạo hàm: \\(g\\prime (x)=1-\\frac{1}{x\\ln 2}\\).\nGiải phương trình \\(g\\prime (x)=0\\Leftrightarrow x\\ln 2=1\\Leftrightarrow x=\\frac{1}{\\ln 2}\\approx 1,44\\).\nBảng biến thiên của hàm số \\(g(x)\\):\nDựa vào bảng biến thiên, phương trình \\(g(x)=0\\) có tối đa 2 nghiệm.\n-) Trên khoảng \\(\\left( 0;\\frac{1}{\\ln 2} \\right)\\): Hàm số nghịch biến. Vì \\(x\\in {{\\mathbb{Z}}^{+}}\\) nên ta chỉ xét \\(x=1\\).\nThay \\(x=1\\) vào \\(g(x)\\): \\(g(1)=1-27-0=-26\\ne 0\\). Vậy không có nghiệm nguyên dương trong khoảng này.\n-) Trên khoảng \\(\\left( \\frac{1}{\\ln 2};+\\infty \\right)\\): Hàm số đồng biến. Do đó phương trình \\(g(x)=0\\) nếu có nghiệm thì nghiệm đó là duy nhất.\nNhẩm nghiệm: Ta thấy \\(x=32\\) thỏa mãn \\(g(32)=32-27-{{\\log }_{2}}(32)=5-5=0\\).\nVậy \\(x=32\\) là nghiệm nguyên dương duy nhất của phương trình. Suy ra \\({{a}_{8}}=32\\).\nTheo công thức số hạng tổng quát của cấp số cộng:\n\\({{a}_{8}}={{a}_{1}}+7d=32\\Rightarrow {{a}_{1}}=32-7d\\).\nVì \\({{a}_{1}}\\ge 1\\) (do \\({{a}_{1}}\\in {{\\mathbb{Z}}^{+}}\\)) nên \\(32-7d\\ge 1\\Leftrightarrow 7d\\le 31\\Leftrightarrow d\\le \\frac{31}{7}\\approx 4,4\\).\nVì \\(d\\in {{\\mathbb{Z}}^{+}}\\) nên \\(d\\in \\{1;2;3;4\\}\\).\nTa cần tìm giá trị nhỏ nhất của \\({{a}_{3}}\\). Ta có:\n\\({{a}_{3}}={{a}_{1}}+2d=(32-7d)+2d=32-5d.\\)\nĐể \\({{a}_{3}}\\) nhỏ nhất thì \\(5d\\) phải lớn nhất \\(\\Rightarrow d\\) phải lớn nhất.\nChọn \\({{d}_{\\max }}=4\\). Khi đó \\({{a}_{1}}=32-7.4=4\\).\nGiá trị nhỏ nhất của \\({{a}_{3}}\\) là \\(32-5.4=12\\).",
+      "answer": "0",
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 21,
+      "type": "short_answer",
+      "content": "Câu 21: Xét một bảng ô vuông kích thước \\(3\\times 3\\). Mỗi ô được điền ngẫu nhiên và độc lập một giá trị từ tập \\(\\left\\{ -1;0;1 \\right\\}\\). Biết rằng tổng các số trên mỗi hàng đều bằng \\(0\\), gọi \\(p\\) là xác suất để tổng các số trên mỗi cột cũng đều bằng \\(0\\). Tính giá trị của \\(3430p\\).\nĐáp số: 310\nSpoiler:\nLời giải\nMỗi dòng có tổng bằng \\(0\\) có 2 dạng là \\(\\left\\{ 0;0;0 \\right\\}\\) và \\(\\left\\{ -1;0;1 \\right\\}\\).\nSuy ra không gian mẫu có \\(n\\left( \\Omega \\right)={{\\left( 1+3! \\right)}^{3}}=343\\).\nTH1. Có hàng là \\(\\left( 0,0,0 \\right)\\)\nNếu hàng 1 là \\(\\left( 0,0,0 \\right)\\), thì để các cột có tổng bằng 0, hai hàng còn lại phải là đối ngẫu của nhau (ví dụ hàng 2 là \\(\\left( 1,-1,0 \\right)\\) thì hàng 3 phải là \\(\\left( -1,1,0 \\right)\\)).\nMỗi hàng 2 có 6 cách chọn, hàng 3 sẽ cố định theo hàng 2. Suy ra có \\(6\\cdot 3=18\\) cách.\nNếu hàng 1 và 2 là \\(\\left( 0,0,0 \\right)\\) thì hàng 3 cố định là \\(\\left( 0,0,0 \\right)\\) (bảng toàn 0).\nDo đó có \\(18+1=19\\) cách.\nTH2. Không có hàng nào là \\(\\left( 0,0,0 \\right)\\)\nHàng 1 có 6 cách xếp là hoán vị của \\(\\left\\{ -1;0;1 \\right\\}\\).\nỞ hàng 2 không được có cột trùng với hàng 1 nên mỗi hoán vị của hàng 1 có 2 cách để xếp tương ứng ở dòng 2. Ví dụ hàng 1 là \\(\\left( -1,0,1 \\right)\\) thì hàng 2 là \\(\\left( 0,1,-1 \\right)\\) hoặc \\(\\left( 1,-1,0 \\right)\\).\nKhi đó hàng 3 sẽ xác định duy nhất do tổng cột bằng 0.\nDo đó có \\(6\\cdot 2=12\\) cách.\nVậy xác suất để mỗi cột bằng 0 là \\(p=\\frac{19+12}{343}=\\frac{31}{343}\\).\nGiá trị của \\(3430p=310\\).",
+      "answer": "0",
+      "note": "Đáp án đối chiếu chuẩn"
+    },
+    {
+      "id": 22,
+      "type": "short_answer",
+      "content": "Câu 22: Trong không gian với hệ tọa độ \\(Oxyz\\), cho đường thẳng \\(d:\\left\\{ \\begin{array}{*{35}{l}} x=t \\\\ y=0 \\\\ z=4 \\\\ \\end{array} \\right.\\) và điểm \\(A\\left( 0;6;4 \\right)\\). Gọi \\(\\left( P \\right)\\) là mặt phẳng thay đổi luôn chứa đường thẳng \\(d\\). Gọi \\(H\\) là hình chiếu vuông góc của điểm \\(A\\) lên mặt phẳng \\(\\left( P \\right)\\). Tính khoảng cách lớn nhất từ gốc tọa độ \\(O\\) đến điểm \\(H\\).\nĐáp số: 8\nSpoiler:\nLời giải\nĐường thẳng \\(d\\) đi qua \\(M\\left( 0;0;4 \\right)\\) và có vectơ chỉ phương \\(\\vec{u}=\\left( 1;0;0 \\right)\\).\nSuy ra \\(d\\) nằm trong mặt phẳng \\(z=4\\) và song song với trục \\(Ox\\).\nĐiểm \\(A\\left( 0;6;4 \\right)\\) cũng nằm trên mặt phẳng \\(z=4\\).\nMặt phẳng \\(\\left( P \\right)\\) quay quanh trục \\(d\\). \\(H\\) là hình chiếu của \\(A\\) lên \\(\\left( P \\right)\\). Do đó, \\(AH\\bot \\left( P \\right)\\). Vì \\(d\\subset (P)\\) nên \\(AH\\bot d\\).\nGọi \\(K\\) là hình chiếu vuông góc của \\(A\\) lên đường thẳng \\(d\\).\nVì \\(A\\left( 0;6;4 \\right)\\) và \\(d\\) đi qua \\(K\\left( t;0;4 \\right)\\) suy ra \\(\\overrightarrow{AK}\\cdot \\overrightarrow{u}=0\\Leftrightarrow t=0\\) suy ra \\(K\\left( 0;0;4 \\right)\\) (chính là điểm \\(M\\)).\nTrong tam giác \\(AHK\\) vuông tại \\(H\\), điểm \\(H\\) luôn nhìn đoạn \\(AK\\) dưới một góc \\(90{}^\\circ \\).\nVậy \\(H\\) thuộc đường tròn đường kính \\(AK\\) nằm trong mặt phẳng vuông góc với \\(d\\) tại \\(K\\).\nTâm của đường tròn quỹ tích là trung điểm \\(I\\) của \\(AK\\) suy ra \\(I\\left( 0;3;4 \\right)\\).\nBán kính đường tròn \\(R=\\frac{AK}{2}=\\frac{6}{2}=3\\).\nQuỹ tích của \\(H\\) là đường tròn tâm \\(I\\left( 0;3;4 \\right)\\), bán kính \\(R=3\\), nằm trong mặt phẳng \\(Oyz\\) (vì \\(d\\) song song \\(Ox\\) và \\(A,K\\) đều có \\(x=0\\)).\nKhoảng cách từ gốc tọa độ \\(O\\left( 0;0;0 \\right)\\) đến tâm \\(I\\left( 0;3;4 \\right)\\) là \\(OI=\\sqrt{{{0}^{2}}+{{3}^{2}}+{{4}^{2}}}=5\\).\nKhoảng cách lớn nhất từ \\(O\\) đến một điểm \\(H\\) trên đường tròn là \\(O{{H}_{max}}=OI+R=5+3=8\\).",
+      "answer": "0",
+      "note": "Đáp án đối chiếu chuẩn"
+    }
+  ]
+}

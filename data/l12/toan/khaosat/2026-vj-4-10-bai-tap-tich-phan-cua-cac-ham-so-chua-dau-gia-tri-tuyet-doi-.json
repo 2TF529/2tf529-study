@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-4-10-bai-tap-tich-phan-cua-cac-ham-so-chua-dau-gia-tri-tuyet-doi-",
+  "sourceId": "vietjack:4-10-bai-tap-tich-phan-cua-cac-ham-so-ch",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "4.10 bài tập Tích phân của các hàm số chứa dấu giá trị tuyệt đối có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Tính tích phân \\(I = \\int\\limits_0^2 {\\left| {x - 1} \\right|dx} \\) bằng",
+      "options": [
+        "A. 1;",
+        "B. 2;",
+        "C. 3;",
+        "D. 4."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A \\(I = \\int\\limits_0^2 {\\left| {x - 1} \\right|dx} \\)\\( = \\int\\limits_0^1 {\\left| {x - 1} \\right|dx} + \\int\\limits_1^2 {\\left| {x - 1} \\right|dx} \\)\\( = \\int\\limits_0^1 {\\left( {1 - x} \\right)dx} + \\int\\limits_1^2 {\\left( {x - 1} \\right)dx} \\) \\( = \\left. {\\left( {x - \\frac{{{x^2}}}{2}} \\right)} \\right|_0^1 + \\left. {\\left( {\\frac{{{x^2}}}{2} - x} \\right)} \\right|_1^2 = 1\\)."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Tính tích phân \\(I = \\int\\limits_0^2 {\\left| {{x^2} - 3x + 2} \\right|dx} \\) bằng",
+      "options": [
+        "A. 4;",
+        "B. 3;",
+        "C. 2;",
+        "D. 1."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D \\(I = \\int\\limits_0^2 {\\left| {{x^2} - 3x + 2} \\right|dx} \\)\\( = \\int\\limits_0^1 {\\left( {{x^2} - 3x + 2} \\right)dx} - \\int\\limits_1^2 {\\left( {{x^2} - 3x + 2} \\right)dx} \\)\\( = \\left. {\\left( {\\frac{{{x^3}}}{3} - \\frac{{3{x^2}}}{2} + 2x} \\right)} \\right|_0^1 - \\left. {\\left( {\\frac{{{x^3}}}{3} - \\frac{{3{x^2}}}{2} + 2x} \\right)} \\right|_1^2 = \\frac{5}{6} - \\left( { - \\frac{1}{6}} \\right) = 1\\)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Tính tích phân \\(I = \\int\\limits_{\\frac{\\pi }{4}}^{\\frac{{3\\pi }}{4}} {\\left| {\\sin 2x} \\right|dx} \\) bằng",
+      "options": [
+        "A. 0;",
+        "B. 3;",
+        "C. 2;",
+        "D. 1."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D +) \\(\\frac{\\pi }{4} \\le x \\le \\frac{\\pi }{2} \\Leftrightarrow \\frac{\\pi }{2} \\le 2x \\le \\pi \\Rightarrow \\sin 2x \\ge 0\\). +) \\(\\frac{\\pi }{2} \\le x \\le \\frac{{3\\pi }}{4} \\Leftrightarrow \\pi \\le 2x \\le \\frac{{3\\pi }}{2} \\Rightarrow \\sin 2x \\le 0\\). Khi đó \\(I = \\int\\limits_{\\frac{\\pi }{4}}^{\\frac{{3\\pi }}{4}} {\\left| {\\sin 2x} \\right|dx} \\)\\( = \\int\\limits_{\\frac{\\pi }{4}}^{\\frac{\\pi }{2}} {\\sin 2xdx} - \\int\\limits_{\\frac{\\pi }{2}}^{\\frac{{3\\pi }}{4}} {\\sin 2xdx} \\)\\( = \\left. { - \\frac{1}{2}\\cos 2x} \\right|_{\\frac{\\pi }{4}}^{\\frac{\\pi }{2}} + \\left. {\\frac{1}{2}\\cos 2x} \\right|_{\\frac{\\pi }{2}}^{\\frac{{3\\pi }}{4}} = 1\\)."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Tính tích phân \\(I = \\int\\limits_{ - 1}^a {\\left| {{x^2} - x} \\right|dx} \\) ta được kết quả \\(I = \\frac{{11}}{6}\\). Khi đó",
+      "options": [
+        "A. a = 1;",
+        "B. a = 2;",
+        "C. a = 3;",
+        "D. a = 4."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Từ đáp án ta thấy a ≥ 1. \\(I = \\int\\limits_{ - 1}^a {\\left| {{x^2} - x} \\right|dx} \\)\\( = \\int\\limits_{ - 1}^0 {\\left( {{x^2} - x} \\right)dx} - \\int\\limits_0^1 {\\left( {{x^2} - x} \\right)dx} + \\int\\limits_1^a {\\left( {{x^2} - x} \\right)dx} \\) \\( = \\left. {\\left( {\\frac{{{x^3}}}{3} - \\frac{{{x^2}}}{2}} \\right)} \\right|_{ - 1}^0 - \\left. {\\left( {\\frac{{{x^3}}}{3} - \\frac{{{x^2}}}{2}} \\right)} \\right|_0^1 + \\left. {\\left( {\\frac{{{x^3}}}{3} - \\frac{{{x^2}}}{2}} \\right)} \\right|_1^a\\)\\( = \\frac{7}{6} + \\frac{{{a^3}}}{3} - \\frac{{{a^2}}}{2}\\). Theo đề có \\(\\frac{7}{6} + \\frac{{{a^3}}}{3} - \\frac{{{a^2}}}{2} = \\frac{{11}}{6}\\) 2a 3 – 3a 2 – 4 = 0 (a − 2)(2a 2 + a + 2) = 0 a = 2."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Tính tích phân \\(I = \\int\\limits_{ - 1}^1 {\\left| {{x^3} + {x^2} - x - 1} \\right|dx} \\) ta được kết quả \\(I = \\frac{a}{b}\\), khi đó tổng a + b là:",
+      "options": [
+        "A. 7;",
+        "B. 3;",
+        "C. 5;",
+        "D. 9."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Do x 3 + x 2 – x – 1 = (x – 1)(x + 1) 2 ≤ 0, ∀x [−1; 1]. Khi đó \\(I = \\int\\limits_{ - 1}^1 {\\left| {{x^3} + {x^2} - x - 1} \\right|dx} \\)\\( = - \\int\\limits_{ - 1}^1 {\\left( {{x^3} + {x^2} - x - 1} \\right)dx} = - \\left. {\\left( {\\frac{{{x^4}}}{4} + \\frac{{{x^3}}}{3} - \\frac{{{x^2}}}{2} - x} \\right)} \\right|_{ - 1}^1 = \\frac{4}{3}\\). Suy ra a = 4; b = 3. Do đó a + b = 7."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Tìm mệnh đề đúng trong các mệnh đề sau:",
+      "options": [
+        "A. \\(\\int\\limits_a^b {\\left| {f\\left( x \\right)} \\right|dx} = \\left| {\\int\\limits_a^b {f\\left( x \\right)dx} } \\right|\\);",
+        "B. \\(\\int\\limits_{ - 1}^1 {{{\\left| x \\right|}^3}dx} = \\left| {\\int\\limits_{ - 1}^1 {{x^3}dx} } \\right|\\);",
+        "C. \\(\\int\\limits_{ - 2}^3 {\\left| {{e^x}\\left( {x + 1} \\right)} \\right|dx} = \\left| {\\int\\limits_{ - 2}^3 {{e^x}\\left( {x + 1} \\right)dx} } \\right|\\);",
+        "D. \\(\\int\\limits_{ - 1}^{2018} {\\left| {{x^4} + {x^2} + 1} \\right|dx} = \\int\\limits_{ - 1}^{2018} {\\left( {{x^4} + {x^2} + 1} \\right)dx} \\)."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Vì x 4 + x 2 + 1 ≥ 0, ∀x [−1; 2018] \\( \\Rightarrow \\int\\limits_{ - 1}^{2018} {\\left| {{x^4} + {x^2} + 1} \\right|dx} = \\int\\limits_{ - 1}^{2018} {\\left( {{x^4} + {x^2} + 1} \\right)dx} \\)."
+    }
+  ]
+}

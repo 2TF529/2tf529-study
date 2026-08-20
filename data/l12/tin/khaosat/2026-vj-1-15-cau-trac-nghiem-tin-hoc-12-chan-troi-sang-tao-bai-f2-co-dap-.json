@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-12-chan-troi-sang-tao-bai-f2-co-dap-",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-12-chan-tro",
+  "grade": "l12",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 12 Chân trời sáng tạo Bài F2 có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 10. Mỗi câu hỏi thí sinh chỉ lựa chọn một phương án. Thẻ nào được sử dụng để định dạng các đề mục trong HTML?",
+      "options": [
+        "A. &lt;p&gt;",
+        "B. &lt;h1&gt; đến &lt;h6&gt;",
+        "C. &lt;div&gt;",
+        "D. &lt;span&gt;"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Thẻ &lt;h1&gt; đến &lt;h6&gt; được sử dụng để định nghĩa các đề mục trong HTML, với &lt;h1&gt; là đề mục cấp cao nhất và &lt;h6&gt; là đề mục cấp thấp nhất."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Thẻ nào không còn được hỗ trợ từ phiên bản HTML5 để định dạng phông chữ?",
+      "options": [
+        "A. &lt;style&gt;",
+        "B. &lt;link&gt;",
+        "C. &lt;font&gt;",
+        "D. &lt;script&gt;"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Thẻ &lt;font&gt; không còn được hỗ trợ từ phiên bản HTML5 để định dạng phông chữ. Định dạng phông chữ hiện nay được thực hiện thông qua CSS"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Thẻ nào trong HTML được sử dụng để tạo siêu liên kết?",
+      "options": [
+        "A. &lt;link&gt;",
+        "B. &lt;a&gt;",
+        "C. &lt;href&gt;",
+        "D. &lt;nav&gt;"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Thẻ &lt;a&gt; được sử dụng để tạo siêu liên kết trong HTML. Thuộc tính href chỉ định địa chỉ liên kết và target chỉ định nơi mở tài liệu liên kết."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Thuộc tính nào của thẻ &lt;a&gt; được sử dụng để chỉ định địa chỉ liên kết?",
+      "options": [
+        "A. target",
+        "B. link",
+        "C. href",
+        "D. src"
+      ],
+      "answer": "C",
+      "note": "Đáp án: C Giải thích: Thuộc tính href của thẻ &lt;a&gt; chỉ định địa chỉ mà liên kết sẽ trỏ đến."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Để mở liên kết trong một cửa sổ mới, ta sử dụng giá trị nào cho thuộc tính target của thẻ &lt;a&gt;?",
+      "options": [
+        "A. _self",
+        "B. _blank",
+        "C. _new",
+        "D. _window"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Giá trị _blank của thuộc tính target trong thẻ &lt;a&gt; được sử dụng để mở liên kết trong một cửa sổ hoặc tab mới."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Thẻ nào được sử dụng để tạo danh sách không có thứ tự?",
+      "options": [
+        "A. &lt;ol&gt;",
+        "B. &lt;ul&gt;",
+        "C. &lt;li&gt;",
+        "D. &lt;dl&gt;"
+      ],
+      "answer": "B",
+      "note": "Đáp án: B Giải thích: Thẻ &lt;ul&gt; được sử dụng để tạo danh sách không có thứ tự, thường được hiển thị với các dấu chấm đầu dòng."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "2026-vj-de-thi-cuoi-ki-1-toan-12-nam-2025-2026-thpt-thu-duc-tp-hcm-co-dap",
+  "sourceId": "vietjack:de-thi-cuoi-ki-1-toan-12-nam-2025-2026-t",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "cuoiki1",
+  "year": 2026,
+  "title": "Đề thi cuối kì 1 Toán 12 năm 2025-2026 THPT Thủ Đức (TP.HCM) có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh chỉ chọn một phương án. Trong không gian \\(Oxyz\\), cho hai điểm \\(A\\left( {1;1; - 2} \\right)\\) và \\(B\\left( {3; - 1;2} \\right)\\). Tọa độ của vectơ \\(\\overrightarrow {BA} \\) là",
+      "options": [
+        "A. \\(\\left( {1; - 1;2} \\right)\\).",
+        "B. \\(\\left( {2;0;0} \\right)\\).",
+        "C. \\(\\left( { - 2;2; - 4} \\right)\\).",
+        "D. \\(\\left( {2; - 2;4} \\right)\\)."
+      ],
+      "answer": "C",
+      "note": "Tọa độ của vectơ \\(\\overrightarrow {BA} \\) được xác định bằng công thức hiệu tọa độ của điểm cuối và điểm đầu: \\(\\overrightarrow {BA} = \\left( {{x_A} - {x_B};{y_A} - {y_B};{z_A} - {z_B}} \\right)\\). Thay tọa độ \\(A\\left( {1;1; - 2} \\right)\\) và \\(B\\left( {3; - 1;2} \\right)\\) vào, ta được: \\(\\overrightarrow {BA} = \\left( {1 - 3;1 - \\left( { - 1} \\right); - 2 - 2} \\right) = \\left( { - 2;2; - 4} \\right)\\). Chọn đáp án C."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hàm số \\(y = {x^3} - 3{x^2} + 2025\\), giá trị cực tiểu của hàm số là",
+      "options": [
+        "A. \\(2021\\).",
+        "B. \\(0\\).",
+        "C. \\(2025\\).",
+        "D. \\(2\\)."
+      ],
+      "answer": "A",
+      "note": "Tập xác định: \\(D = \\mathbb{R}\\). Tính đạo hàm: \\(y' = 3{x^2} - 6x\\). Tìm nghiệm của phương trình đạo hàm: \\(y' = 0 \\Leftrightarrow 3x\\left( {x - 2} \\right) = 0 \\Leftrightarrow \\left[ {\\begin{array}{*{20}{c}}{x = 0}\\\\{x = 2}\\end{array}} \\right.\\). Lập bảng biến thiên, ta thấy Tại \\(x = 0\\), đạo hàm đổi dấu từ dương sang âm nên \\(x = 0\\) là điểm cực đại của hàm số. Tại \\(x = 2\\), đạo hàm đổi dấu từ âm sang dương nên \\(x = 2\\) là điểm cực tiểu của hàm số. Tính giá trị cực tiểu: \\({y_{{\\rm{ct}}}} = y\\left( 2 \\right) = {2^3} - 3 \\cdot {2^2} + 2025 = 8 - 12 + 2025 = 2021\\). Chọn đáp án A."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Giá trị lớn nhất của hàm số \\(y = \\frac{{3x + 2}}{{x + 1}}\\) trên \\(\\left[ {0;2} \\right]\\) bằng",
+      "options": [
+        "A. \\(2\\).",
+        "B. \\(\\frac{8}{3}\\).",
+        "C. \\(\\frac{{10}}{3}\\).",
+        "D. \\(3\\)."
+      ],
+      "answer": "B",
+      "note": "Tập xác định: Hàm số liên tục trên đoạn \\(\\left[ {0;2} \\right]\\) (vì mẫu số \\(x + 1 \\ne 0\\) trên đoạn này). Tính đạo hàm: \\(y' = \\frac{{3\\left( {x + 1} \\right) - \\left( {3x + 2} \\right)}}{{{{\\left( {x + 1} \\right)}^2}}} = \\frac{1}{{{{\\left( {x + 1} \\right)}^2}}} > 0,\\quad \\forall x \\in \\left[ {0;2} \\right]\\). Do \\(y' > 0\\) trên \\(\\left[ {0;2} \\right]\\) nên hàm số đồng biến trên đoạn \\(\\left[ {0;2} \\right]\\). Do đó, giá trị lớn nhất của hàm số đạt được tại điểm \\(x = 2\\): \\(\\mathop {\\max }\\limits_{\\left[ {0;2} \\right]} y = y\\left( 2 \\right) = \\frac{{3 \\cdot 2 + 2}}{{2 + 1}} = \\frac{8}{3}\\). Chọn đáp án B."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Một công ty sản xuất một loại sản phẩm. Bộ phận tài chính của công ty đưa ra hàm giá bán là \\(p\\left( x \\right) = 400 - 2x\\), trong đó \\(p\\left( x \\right)\\) (triệu đồng) là giá bán của mỗi sản phẩm mà tại giá bán này có \\(x\\) sản phẩm được bán ra. Doanh thu của công ty nếu bán ra \\(20\\) sản phẩm là",
+      "options": [
+        "A. \\(1440\\) (triệu đồng).",
+        "B. \\(7200\\) (triệu đồng).",
+        "C. \\(360\\) (triệu đồng).",
+        "D. \\(720\\) (triệu đồng)."
+      ],
+      "answer": "B",
+      "note": "Hàm doanh thu của công ty khi bán ra \\(x\\) sản phẩm là: \\(R\\left( x \\right) = x \\cdot p\\left( x \\right) = x\\left( {400 - 2x} \\right) = 400x - 2{x^2}\\). Khi bán ra \\(x = 20\\) sản phẩm, doanh thu thu được là: \\(R\\left( {20} \\right) = 20 \\cdot \\left( {400 - 2 \\cdot 20} \\right) = 20 \\cdot 360 = 7200\\) (triệu đồng). Chọn đáp án B."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Trong một nhà kho thông minh, kỹ sư đang lập trình cho một xe tự hành (AGV) di chuyển theo một đường thẳng để vận chuyển hàng hóa từ kệ A sang kệ B. Để đảm bảo hàng hóa không bị xô lệch, xe cần tăng tốc từ từ và giảm tốc trước khi dừng hẳn. Phương trình tọa độ của xe được thiết lập theo công thức \\(x = 6{t^2} - 2{t^3}\\) (\\(x\\) tính bằng mét, \\(t\\) tính bằng giây, \\(0 \\le t \\le 2\\)). Vận tốc tức thời của xe đạt giá trị lớn nhất tại thời điểm nào?",
+      "options": [
+        "A. \\(t = 5\\).",
+        "B. \\(t = 3\\).",
+        "C. \\(t = 1\\).",
+        "D. \\(t = 2\\)."
+      ],
+      "answer": "C",
+      "note": "Phương trình vận tốc tức thời của xe là đạo hàm bậc nhất của phương trình tọa độ theo thời gian \\(t\\): \\(v\\left( t \\right) = x'\\left( t \\right) = 12t - 6{t^2},\\quad t \\in \\left[ {0;2} \\right]\\) Để tìm thời điểm vận tốc đạt giá trị lớn nhất, ta xét hàm số \\(v\\left( t \\right)\\) trên đoạn \\(\\left[ {0;2} \\right]\\): Đạo hàm của vận tốc (gia tốc): \\(v'\\left( t \\right) = 12 - 12t\\). Tìm nghiệm của đạo hàm: \\(v'\\left( t \\right) = 0 \\Leftrightarrow 12 - 12t = 0 \\Leftrightarrow t = 1 \\in \\left[ {0;2} \\right]\\). Tính giá trị tại các điểm biên và điểm cực trị: \\(v\\left( 0 \\right) = 12 \\cdot 0 - 6 \\cdot {0^2} = 0{\\rm{\\;m/s}}\\) \\(v\\left( 2 \\right) = 12 \\cdot 2 - 6 \\cdot {2^2} = 24 - 24 = 0{\\rm{\\;m/s}}\\) \\(v\\left( 1 \\right) = 12 \\cdot 1 - 6 \\cdot {1^2} = 6{\\rm{\\;m/s}}\\) Vận tốc đạt giá trị lớn nhất bằng \\(6{\\rm{\\;m/s}}\\) tại thời điểm \\(t = 1{\\rm{\\;s}}\\). Chọn đáp án C."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Tiệm cận xiên của đồ thị hàm số \\(y = \\frac{{2{x^2} + 3x - 1}}{{x + 2}}\\) có phương trình",
+      "options": [
+        "A. \\(y = 2x - 1\\).",
+        "B. \\(y = 2x + 1\\).",
+        "C. \\(y = x + 11\\).",
+        "D. \\(y = 2x\\)."
+      ],
+      "answer": "A",
+      "note": "Ta có \\(y = \\frac{{2{x^2} + 3x - 1}}{{x + 2}} = \\frac{{2x\\left( {x + 2} \\right) - \\left( {x + 2} \\right) + 1}}{{x + 2}} = 2x - 1 + \\frac{1}{{x + 2}}\\). Vì \\(\\mathop {\\lim }\\limits_{x \\to \\pm \\infty } \\left[ {y - \\left( {2x - 1} \\right)} \\right] = \\mathop {\\lim }\\limits_{x \\to \\pm \\infty } \\frac{1}{{x + 2}} = 0\\). Do đó, đường thẳng \\(y = 2x - 1\\) là đường tiệm cận xiên của đồ thị hàm số. Chọn đáp án A."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Câu 7: Đồ thị hình bên là của hàm số:",
+      "options": [
+        "A. \\(y = \\frac{{1 - 2x}}{{1 - x}}\\).",
+        "B. \\(y = \\frac{{1 - 2x}}{{x + 1}}\\).",
+        "C. \\(y = \\frac{{3 - 2{x^2}}}{{x + 1}}\\).",
+        "D. \\(y = \\frac{{2x + 1}}{{x + 1}}\\)."
+      ],
+      "answer": "A",
+      "note": "Dựa vào hình vẽ đồ thị hàm số phân thức bậc nhất trên bậc nhất có dạng \\(y = \\frac{{ax + b}}{{cx + d}}\\): Tiệm cận đứng: Đồ thị nhận đường thẳng nét đứt đứng đi qua giá trị \\(x = - 1\\) làm tiệm cận đứng \\( \\Rightarrow \\) loại đáp án A (có tiệm cận đứng \\(x = 1\\)). Tiệm cận ngang: Đồ thị nhận đường thẳng nét đứt nằm ngang đi qua giá trị \\(y = - 2\\) làm tiệm cận ngang: Xét phương án B: \\(y = \\frac{{ - 2x + 1}}{{x + 1}}\\) có tiệm cận ngang là \\(y = - 2\\). Xét phương án D: \\(y = \\frac{{2x + 1}}{{x + 1}}\\) có tiệm cận ngang là \\(y = 2\\) (Loại). Xét phương án C: Đây là hàm bậc hai trên bậc nhất, đồ thị không có dạng này (Loại). Chọn đáp án B."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Câu 8: Trong không gian \\(Oxyz\\), cho hình bình hành \\(ABCD\\) có \\(A\\left( { - 3;1;2} \\right)\\), \\(B\\left( { - 2;4; - 1} \\right)\\), \\(C\\left( {1; - 3;3} \\right)\\). Tọa độ điểm \\(D\\) là",
+      "options": [
+        "A. \\(\\left( {0; - 6;6} \\right)\\).",
+        "B. \\(\\left( {2;0;0} \\right)\\).",
+        "C. \\(\\left( { - 6;7; - 2} \\right)\\).",
+        "D. \\(\\left( { - 4;2;5} \\right)\\)."
+      ],
+      "answer": "A",
+      "note": "Vì \\(ABCD\\) là hình bình hành nên: \\(\\overrightarrow {AD} = \\overrightarrow {BC} \\). Gọi tọa độ điểm \\(D\\) là \\(\\left( {{x_D};{y_D};{z_D}} \\right)\\). Ta có: \\(\\overrightarrow {AD} = \\left( {{x_D} - \\left( { - 3} \\right);{y_D} - 1;{z_D} - 2} \\right) = \\left( {{x_D} + 3;{y_D} - 1;{z_D} - 2} \\right)\\), \\(\\overrightarrow {BC} = \\left( {1 - \\left( { - 2} \\right); - 3 - 4;3 - \\left( { - 1} \\right)} \\right) = \\left( {3; - 7;4} \\right)\\). Đồng nhất tọa độ hai vế: \\(\\left\\{ {\\begin{array}{*{20}{c}}{{x_D} + 3 = 3}\\\\{{y_D} - 1 = - 7}\\\\{{z_D} - 2 = 4}\\end{array}} \\right. \\Leftrightarrow \\left\\{ {\\begin{array}{*{20}{c}}{{x_D} = 0}\\\\{{y_D} = - 6}\\\\{{z_D} = 6}\\end{array}} \\right.\\). Vậy tọa độ điểm \\(D\\) là \\(D\\left( {0; - 6;6} \\right)\\). Chọn đáp án A."
+    }
+  ]
+}

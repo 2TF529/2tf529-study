@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-10-ket-noi-tri-thuc-bai-28-co-dap-an",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-10-ket-noi-",
+  "grade": "l10",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu trắc nghiệm Tin học 10 Kết nối tri thức Bài 28 có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: H oàn thiện (…) trong phát biểu sau: “Trong Python tất cả các biến khai báo bên trong hàm đều có tính …, không có hiệu lực ở bên … hàm”.",
+      "options": [
+        "A. địa phương, trong.",
+        "B. cục bộ, ngoài.",
+        "C. địa phương, ngoài.",
+        "D. toàn cục, ngoài."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Trong Python tất cả các biến khai báo bên trong hàm đều có tính địa phương (cục bộ), không có hiệu lực ở bên ngoài hàm."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Số phát biểu đúng trong các phát biểu sau là: 1) Tất cả các biến bên trong hàm đều có tính cục bộ. 2) Tất cả các biến bên trong hàm chỉ có tính cục bộ. 3) Biến cục bộ trong hàm nếu gọi bên ngoài hàm sẽ bị lỗi.",
+      "options": [
+        "A. 1.",
+        "B. 2.",
+        "C. 3.",
+        "D. 0."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Phát biểu đúng: 1, 3."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Chọn phát biểu sai trong các phát biểu sau:",
+      "options": [
+        "A. Chương trình chính có thể sử dụng biến cục bộ bên trong hàm.",
+        "B. Biến bên trong hàm có thể trùng tên với biến đã khai bao trước đó bên ngoài hàm.",
+        "C. Tất cả các biến trong hàm đều có tính cục bộ.",
+        "D. Các biến bên trong hàm không có hiệu lực ở bên ngoài hàm."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Chương trình chính không thể sử dụng biến cục bộ bên trong hàm."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Giá trị của x, y là bao nhiêu khi thực hiện lệnh f(1, 3) >>> x, y = 3, 4 >>> def f(x, y): x = x + y y = y + 2 return x",
+      "options": [
+        "A. 2, 3.",
+        "B. 4, 5.",
+        "C. 5, 4.",
+        "D. 3, 4."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Giá trị của biến x, y không thay đổi."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Giá trị của a, b là bao nhiêu khi thực hiện lệnh f(2, 5) >>> a, b = 0, 1 >>> def f(a, b): a = a * b b = b // 2 return a + b",
+      "options": [
+        "A. 10, 2.",
+        "B. 10, 1.",
+        "C. 2, 5.",
+        "D. 0, 1."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Giá trị của biến a, b không thay đổi."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Kết quả của chương trình này là bao nhiêu? s = \"Tôi tên là: \" def kq(name): s = s+ name print(kq(\"Long\"))",
+      "options": [
+        "A. “Tôi tên là: Long”.",
+        "B. “Long”.",
+        "C. “Tôi tên là: ”.",
+        "D. Chương trình bị lỗi."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Chương trình bị lỗi do vi phạm phạm vi sử dụng biến"
+    }
+  ]
+}

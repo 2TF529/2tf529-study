@@ -1,0 +1,196 @@
+{
+  "id": "l12-toan-totnghiep-2026-de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-quang-ninh-nam-2026-de-onl",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "totnghiep",
+  "year": 2026,
+  "code": "THPT_TKT_2026_QN_01",
+  "title": "Đề khảo sát chất lượng THPT môn Toán Sở GD&ĐT Quảng Ninh năm 2026 - Đề Onl",
+  "duration": 90,
+  "answerSource": "official",
+  "source": "https://dolthpt.vn/tot-nghiep-thpt/pdf-de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-quang-ninh-nam-2026-de-onl-co-dap-an",
+  "notes": "Nội dung, đáp án và lời giải được nhập từ bản công khai của DOL THPT.",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "content": "Trong bốn dãy số sau, có bao nhiêu dãy số lập thành một cấp số cộng?\nI) \\$10,-2,-14,-26,-38$.\nII) $\\dfrac{1}{2},\\dfrac{5}{4},2,\\dfrac{11}{4},\\dfrac{7}{2}$.\nIII) $\\sqrt{1},\\sqrt{2},\\sqrt{3},\\sqrt{4},\\sqrt{5}$.\nIV) \\$1,4,7,10,13$.",
+      "chuong": "dãy số. cấp số cộng và cấp số nhân",
+      "dang": "định nghĩa cấp số cộng",
+      "type": "single",
+      "options": [
+        "A. \\$1$.",
+        "B. \\$2$.",
+        "C. \\$3$.",
+        "D. \\$4$."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Có \\$4$ dãy số $I, II, III, IV$.\n- Cần đếm xem có bao nhiêu dãy là cấp số cộng.\n❓ **Hiểu câu hỏi:**\n- Một dãy là cấp số cộng khi hiệu của hai số liên tiếp luôn không đổi.\n- Ta sẽ kiểm tra từng dãy một.\n🔎 **Hướng dẫn cách làm:**\n- Dãy $I$ có các hiệu là $-2-10=-12$, $-14-\\left(-2\\right)=-12$, $-26-\\left(-14\\right)=-12$, $-38-\\left(-26\\right)=-12$ nên là cấp số cộng.\n- Dãy $II$ có các hiệu là $\\dfrac{5}{4}-\\dfrac{1}{2}=\\dfrac{3}{4}$, \\$2-\\dfrac{5}{4}=\\dfrac{3}{4}$, $\\dfrac{11}{4}-2=\\dfrac{3}{4}$, $\\dfrac{7}{2}-\\dfrac{11}{4}=\\dfrac{3}{4}$ nên cũng là cấp số cộng.\n- Dãy $III$ có các hiệu $\\sqrt{2}-1$, $\\sqrt{3}-\\sqrt{2}$, \\$2-\\sqrt{3}$ không bằng nhau nên không phải cấp số cộng.\n- Dãy $IV$ có các hiệu đều bằng \\$3$ nên là cấp số cộng.\n- Vậy có tất cả \\$3$ dãy là cấp số cộng.\n✅ **Đáp án:** Chọn C. \\$3$"
+    },
+    {
+      "id": 2,
+      "content": "Phương trình $\\sin x=0$ có họ nghiệm là",
+      "chuong": "hàm số lượng giác và phương trình lượng giác",
+      "dang": "phương trình sinx=m",
+      "type": "single",
+      "options": [
+        "A. $x=\\dfrac{\\pi}{2}+k2\\pi,\\ k\\in\\mathbb{Z}$.",
+        "B. $x=k2\\pi,\\ k\\in\\mathbb{Z}$.",
+        "C. $x=\\dfrac{\\pi}{2}+k\\pi,\\ k\\in\\mathbb{Z}$.",
+        "D. $x=k\\pi,\\ k\\in\\mathbb{Z}$."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Phương trình lượng giác là $\\sin x=0$.\n❓ **Hiểu câu hỏi:**\n- Đây là phương trình lượng giác cơ bản.\n- Ta dùng công thức nghiệm tổng quát của $\\sin x=0$.\n🔎 **Hướng dẫn cách làm:**\n- Ta có quy tắc quen thuộc: $\\sin x=0 \\Leftrightarrow x=k\\pi,\\ k\\in\\mathbb{Z}$.\n- So sánh với các phương án đã cho, ta thấy phương án đúng là phương án $D$.\n✅ **Đáp án:** Chọn D. $x=k\\pi,\\ k\\in\\mathbb{Z}$"
+    },
+    {
+      "id": 3,
+      "content": "Với mọi số thực dương $a$ thì $\\log_2(16a)-\\log_2 a$ bằng",
+      "chuong": "hàm số mũ và hàm số lôgarit",
+      "dang": "tính chất của lôgarit",
+      "type": "single",
+      "options": [
+        "A. $\\log_2(15a)$.",
+        "B. \\$8$.",
+        "C. \\$4$.",
+        "D. \\$4-2\\log_2 a$."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Biểu thức cần rút gọn là $\\log_2(16a)-\\log_2 a$.\n- Điều kiện đã cho là $a>0$.\n❓ **Hiểu câu hỏi:**\n- Ta cần dùng công thức trừ hai logarit cùng cơ số.\n- Sau đó đưa về logarit của một số quen thuộc.\n🔎 **Hướng dẫn cách làm:**\n- Vì $a>0$ nên biểu thức đã xác định.\n- Áp dụng công thức: $\\log_2(16a)-\\log_2 a=\\log_2\\left(\\dfrac{16a}{a}\\right)=\\log_2 16$.\n- Mà \\$16=2^4$ nên $\\log_2 16=4$.\n✅ **Đáp án:** Chọn C. \\$4$"
+    },
+    {
+      "id": 4,
+      "content": "Cho hình chóp $S.ABC$ có đáy $ABC$ là tam giác vuông tại $B$ và cạnh bên $SA$ vuông góc với đáy, biết $AB=a$, $AC=2a$, $SA=a\\sqrt{3}$. Thể tích khối chóp $S.ABC$ bằng",
+      "chuong": "quan hệ vuông góc trong không gian",
+      "dang": "thể tích",
+      "type": "single",
+      "options": [
+        "A. $\\dfrac{1}{2}a^3$.",
+        "B. $\\dfrac{3}{2}a^3$.",
+        "C. $\\dfrac{\\sqrt{3}}{3}a^3$.",
+        "D. $\\dfrac{\\sqrt{3}}{2}a^3$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hình chóp $S.ABC$ có đáy $ABC$ vuông tại $B$.\n- $SA\\perp (ABC)$, $AB=a$, $AC=2a$, $SA=a\\sqrt{3}$.\n❓ **Hiểu câu hỏi:**\n- Cần tính thể tích khối chóp.\n- Ta dùng công thức $V=\\dfrac{1}{3}S_{\\triangle ABC}\\cdot SA$.\n🔎 **Hướng dẫn cách làm:**\n- Trong tam giác vuông $ABC$, ta có $BC=\\sqrt{AC^2-AB^2}=\\sqrt{4a^2-a^2}=a\\sqrt{3}$.\n- Diện tích đáy là $S_{\\triangle ABC}=\\dfrac{1}{2}\\cdot AB\\cdot BC=\\dfrac{1}{2}\\cdot a\\cdot a\\sqrt{3}=\\dfrac{a^2\\sqrt{3}}{2}$.\n- Chiều cao của khối chóp là $SA=a\\sqrt{3}$ vì $SA\\perp (ABC)$.\n- Vậy $V=\\dfrac{1}{3}\\cdot \\dfrac{a^2\\sqrt{3}}{2}\\cdot a\\sqrt{3}=\\dfrac{1}{2}a^3$.\n✅ **Đáp án:** Chọn A. $\\dfrac{1}{2}a^3$"
+    },
+    {
+      "id": 5,
+      "content": "Cho hình chóp $S.ABCD$ có đáy là hình bình hành tâm $O$. Đẳng thức nào sau đây sai?",
+      "chuong": "vectơ và hệ trục tọa độ trong không gian",
+      "dang": "biểu thức tọa độ của phép cộng hai vectơ, phép trừ hai vectơ, phép nhân một số với một vectơ",
+      "type": "single",
+      "options": [
+        "A. $\\overrightarrow{AB}+\\overrightarrow{AD}=\\overrightarrow{AC}$.",
+        "B. $\\overrightarrow{SA}+\\overrightarrow{SB}=\\overrightarrow{SC}+\\overrightarrow{SD}$.",
+        "C. $\\overrightarrow{SA}+\\overrightarrow{SC}=2\\overrightarrow{SO}$.",
+        "D. $\\overrightarrow{SB}+\\overrightarrow{SD}=2\\overrightarrow{SO}$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Đáy $ABCD$ là hình bình hành, tâm là $O$.\n- Cần chọn đẳng thức vectơ sai.\n❓ **Hiểu câu hỏi:**\n- Ta dùng tính chất hình bình hành và tính chất trung điểm của đường chéo.\n- Đẳng thức nào không đúng với mọi hình bình hành thì đó là đáp án.\n🔎 **Hướng dẫn cách làm:**\n- Với hình bình hành, ta luôn có $\\overrightarrow{AB}+\\overrightarrow{AD}=\\overrightarrow{AC}$ nên phương án $A$ đúng.\n- Vì $O$ là trung điểm của $AC$ nên $\\overrightarrow{SA}+\\overrightarrow{SC}=2\\overrightarrow{SO}$, do đó phương án $C$ đúng.\n- Vì $O$ là trung điểm của $BD$ nên $\\overrightarrow{SB}+\\overrightarrow{SD}=2\\overrightarrow{SO}$, do đó phương án $D$ đúng.\n- Vậy chỉ còn phương án $B$ là đẳng thức sai.\n✅ **Đáp án:** Chọn B. $\\overrightarrow{SA}+\\overrightarrow{SB}=\\overrightarrow{SC}+\\overrightarrow{SD}$"
+    },
+    {
+      "id": 6,
+      "content": "Cho hàm số $y=f(x)$ xác định và liên tục trên $\\mathbb{R}\\setminus\\{-1\\}$, có bảng biến thiên như sau. Khẳng định nào sau đây là đúng?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-quang-ninh-nam-2026-de-onl/cau-06.webp\" alt=\"Hình minh họa câu 6\" loading=\"lazy\"></figure>",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "đường tiệm cận đứng",
+      "type": "single",
+      "options": [
+        "A. Đồ thị hàm số có tiệm cận đứng $y=-1$ và tiệm cận ngang $x=-2$.",
+        "B. Đồ thị hàm số có duy nhất một tiệm cận.",
+        "C. Đồ thị hàm số có ba tiệm cận.",
+        "D. Đồ thị hàm số có tiệm cận đứng $x=-1$ và tiệm cận ngang $y=-2$."
+      ],
+      "answer": "D",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số xác định trên $\\mathbb{R}\\setminus\\{-1\\}$.\n- Từ bảng biến thiên, khi $x\\to -1^-$ thì $y\\to +\\infty$, khi $x\\to -1^+$ thì $y\\to -\\infty$.\n- Khi $x\\to \\pm\\infty$ thì $y\\to -2$.\n❓ **Hiểu câu hỏi:**\n- Cần nhận ra các tiệm cận của đồ thị từ bảng biến thiên.\n- Ta dùng định nghĩa tiệm cận đứng và tiệm cận ngang.\n🔎 **Hướng dẫn cách làm:**\n- Vì khi $x\\to -1$ thì $y$ tiến ra vô cực nên đồ thị có tiệm cận đứng là $x=-1$.\n- Vì khi $x\\to \\pm\\infty$ thì $y\\to -2$ nên đồ thị có tiệm cận ngang là $y=-2$.\n- Đối chiếu với các đáp án, phương án đúng là phương án $D$.\n✅ **Đáp án:** Chọn D. Đồ thị hàm số có tiệm cận đứng $x=-1$ và tiệm cận ngang $y=-2$."
+    },
+    {
+      "id": 7,
+      "content": "Hàm số $y=f(x)=x^3-3x^2-9x+7$ có cực đại là",
+      "chuong": "ứng dụng đạo hàm để khảo sát hàm số và vẽ đồ thị hàm số",
+      "dang": "cực trị của hàm số",
+      "type": "single",
+      "options": [
+        "A. $-1$.",
+        "B. \\$12$.",
+        "C. \\$3$.",
+        "D. $-20$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số $f(x)=x^3-3x^2-9x+7$.\n❓ **Hiểu câu hỏi:**\n- Cần tìm giá trị cực đại của hàm số.\n- Ta phải tính đạo hàm rồi xét các điểm cực trị.\n🔎 **Hướng dẫn cách làm:**\n- Tính đạo hàm: $f'(x)=3x^2-6x-9=3(x-3)(x+1)$.\n- Suy ra các điểm tới hạn là $x=-1$ và $x=3$.\n- Xét dấu của $f'(x)$, ta thấy hàm số tăng rồi giảm khi đi qua $x=-1$ nên $x=-1$ là điểm cực đại.\n- Giá trị cực đại là $f(-1)=-1-3+9+7=12$.\n✅ **Đáp án:** Chọn B. \\$12$"
+    },
+    {
+      "id": 8,
+      "content": "Họ nguyên hàm của hàm số $f(x)=2025^x$ là",
+      "chuong": "nguyên hàm và tích phân",
+      "dang": "nguyên hàm của một hàm số",
+      "type": "single",
+      "options": [
+        "A. $F(x)=2025^x+C$.",
+        "B. $F(x)=\\dfrac{2025^x}{\\ln(2025)}+C$.",
+        "C. $F(x)=2025\\cdot 2024^x+C$.",
+        "D. $F(x)=2025x+C$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Hàm số cần lấy nguyên hàm là $f(x)=2025^x$.\n❓ **Hiểu câu hỏi:**\n- Đây là nguyên hàm của hàm số mũ.\n- Ta dùng công thức $\\int a^x\\,dx=\\dfrac{a^x}{\\ln a}+C$ với $a>0$, $a\\ne 1$.\n🔎 **Hướng dẫn cách làm:**\n- Áp dụng công thức trên cho $a=2025$, ta được $\\int 2025^x\\,dx=\\dfrac{2025^x}{\\ln 2025}+C$.\n- So sánh với các phương án đã cho, ta chọn phương án $B$.\n✅ **Đáp án:** Chọn B. $F(x)=\\dfrac{2025^x}{\\ln(2025)}+C$"
+    },
+    {
+      "id": 9,
+      "content": "Kết quả kiểm tra điểm môn Toán của học sinh lớp \\$12A1$ được cho bởi mẫu số liệu ghép nhóm như sau. Trung vị của mẫu số liệu ghép nhóm trên thuộc vào nhóm nào dưới đây?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/totnghiep/assets/de-khao-sat-chat-luong-thpt-mon-toan-so-gd-dt-quang-ninh-nam-2026-de-onl/cau-09.webp\" alt=\"Hình minh họa câu 9\" loading=\"lazy\"></figure>",
+      "chuong": "các số đặc trưng đo xu thế trung tâm của mẫu số liệu ghép nhóm",
+      "dang": "trung vị của mẫu số liệu ghép nhóm",
+      "type": "single",
+      "options": [
+        "A. $[6;8)$.",
+        "B. $[2;4)$.",
+        "C. $[4;6)$.",
+        "D. $[8;10)$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Mẫu số liệu ghép nhóm có các tần số \\$4, 5, 6, 25, 10$.\n- Tổng số quan sát là \\$4+5+6+25+10=50$.\n❓ **Hiểu câu hỏi:**\n- Cần xác định nhóm chứa trung vị.\n- Với \\$50$ số liệu, ta xét vị trí thứ \\$25$ và thứ \\$26$.\n🔎 **Hướng dẫn cách làm:**\n- Tính tần số tích lũy: sau nhóm $[0;2)$ là \\$4$, sau nhóm $[2;4)$ là \\$9$, sau nhóm $[4;6)$ là \\$15$, sau nhóm $[6;8)$ là \\$40$.\n- Hai vị trí thứ \\$25$ và thứ \\$26$ đều nằm trong khoảng từ \\$16$ đến \\$40$.\n- Vậy trung vị thuộc nhóm $[6;8)$.\n✅ **Đáp án:** Chọn A. $[6;8)$"
+    },
+    {
+      "id": 10,
+      "content": "Trong không gian $Oxyz$, mặt phẳng $(Oxz)$ có phương trình là",
+      "chuong": "phương pháp tọa độ trong không gian",
+      "dang": "phương trình tổng quát của mặt phẳng",
+      "type": "single",
+      "options": [
+        "A. $y=0$.",
+        "B. $z=0$.",
+        "C. $x=0$.",
+        "D. $x+y+z=0$."
+      ],
+      "answer": "A",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Cần viết phương trình mặt phẳng $(Oxz)$.\n❓ **Hiểu câu hỏi:**\n- Mặt phẳng $(Oxz)$ chứa trục $Ox$ và $Oz$.\n- Vì vậy mọi điểm trên mặt phẳng này đều có tung độ bằng \\$0$.\n🔎 **Hướng dẫn cách làm:**\n- Điểm bất kỳ trên mặt phẳng $(Oxz)$ có dạng $M(x;0;z)$.\n- Điều này cho ta phương trình mặt phẳng là $y=0$.\n✅ **Đáp án:** Chọn A. $y=0$"
+    },
+    {
+      "id": 11,
+      "content": "Trong không gian $Oxyz$, cho đường thẳng $d:\\dfrac{x-2}{1}=\\dfrac{y-1}{-2}=\\dfrac{z+1}{3}$. Điểm nào dưới đây thuộc đường thẳng $d$?",
+      "chuong": "phương pháp tọa độ trong không gian",
+      "dang": "phương trình đường thẳng",
+      "type": "single",
+      "options": [
+        "A. $Q(2;1;1)$.",
+        "B. $M(1;2;3)$.",
+        "C. $P(2;1;-1)$.",
+        "D. $N(1;-2;3)$."
+      ],
+      "answer": "C",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Đường thẳng $d$ có phương trình $\\dfrac{x-2}{1}=\\dfrac{y-1}{-2}=\\dfrac{z+1}{3}$.\n- Cần tìm điểm thuộc đường thẳng $d$.\n❓ **Hiểu câu hỏi:**\n- Ta đưa đường thẳng về dạng tham số rồi kiểm tra các điểm.\n- Điểm nào thỏa cả ba tọa độ thì thuộc $d$.\n🔎 **Hướng dẫn cách làm:**\n- Đặt giá trị chung bằng $t$, ta có $x=2+t$, $y=1-2t$, $z=-1+3t$.\n- Nếu $t=0$ thì ta được điểm $\\left(2;1;-1\\right)$.\n- Điểm này đúng là $P(2;1;-1)$.\n✅ **Đáp án:** Chọn C. $P(2;1;-1)$"
+    },
+    {
+      "id": 12,
+      "content": "Trong không gian $Oxyz$, phương trình mặt cầu $(S)$ tâm $I(-2;1;0)$ và có đường kính bằng \\$8$ là",
+      "chuong": "phương pháp tọa độ trong không gian",
+      "dang": "phương trình mặt cầu",
+      "type": "single",
+      "options": [
+        "A. $(S):(x+2)^2+(y-1)^2+z^2=8$.",
+        "B. $(S):(x+2)^2+(y-1)^2+z^2=16$.",
+        "C. $(S):(x-2)^2+(y+1)^2+z^2=64$.",
+        "D. $(S):(x+2)^2+(y-1)^2+z^2=64$."
+      ],
+      "answer": "B",
+      "explanation": "😎 Cùng DOL xem qua cách giải câu này nhé!\n📃 **Thông tin đề bài cho:**\n- Mặt cầu có tâm $I(-2;1;0)$.\n- Đường kính bằng \\$8$ nên bán kính bằng \\$4$.\n❓ **Hiểu câu hỏi:**\n- Ta dùng công thức mặt cầu tâm $I(a;b;c)$, bán kính $R$ là $\\left(x-a\\right)^2+\\left(y-b\\right)^2+\\left(z-c\\right)^2=R^2$.\n🔎 **Hướng dẫn cách làm:**\n- Thay tâm $I(-2;1;0)$ vào công thức, ta được $\\left(x+2\\right)^2+\\left(y-1\\right)^2+z^2=R^2$.\n- Vì bán kính $R=4$ nên $R^2=16$.\n- Vậy phương trình mặt cầu là $\\left(x+2\\right)^2+\\left(y-1\\right)^2+z^2=16$.\n✅ **Đáp án:** Chọn B. $(S):(x+2)^2+(y-1)^2+z^2=16$"
+    }
+  ]
+}

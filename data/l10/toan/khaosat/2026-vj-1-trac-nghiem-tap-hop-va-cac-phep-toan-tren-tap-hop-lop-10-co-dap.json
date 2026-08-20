@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-trac-nghiem-tap-hop-va-cac-phep-toan-tren-tap-hop-lop-10-co-dap",
+  "sourceId": "vietjack:1-trac-nghiem-tap-hop-va-cac-phep-toan-t",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.Trắc nghiệm Tập hợp và các phép toán trên tập hợp lớp 10 (có đáp án)",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Số tập con của tập A = {1; 2; 3} là",
+      "options": [
+        "A. 8;",
+        "B. 6;",
+        "C. 5;",
+        "D. 7 ."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Các tập con gồm {1}; {2}; {3}; {1; 2}; {1;3}; {2; 3}; {1; 2; 3}; \\(\\emptyset \\) ."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Hãy liệt kê các phần tử của tập hợp \\(X = \\,{\\rm{\\{ }}x \\in \\mathbb{R},\\,{x^2} + x + 1 = 0\\} \\)",
+      "options": [
+        "A. X = \\(\\emptyset \\) ;",
+        "B. X = {0};",
+        "C. X = 0;",
+        "D. X = { \\(\\emptyset \\) }."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Phương trình x 2 + x + 1 = 0 vô nghiệm nên tập X không có phần tử nào. Vậy tập X = \\(\\emptyset \\) ."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Số tập con có 2 phần tử của tập M = {1; 2; 3; 4; 5; 6}",
+      "options": [
+        "A. 15 ;",
+        "B. 16;",
+        "C. 18;",
+        "D. 22."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Tập con có 2 phần tử của tập M gồm: {1; 2}; {1; 3}; {1; 4}; {1; 5}; {1;6}; {2; 3}; {2; 4}; { 2; 5 }; { 2; 6 }; {3; 4 }; { 3; 5 }; { 3; 6 }; { 4; 5 }; { 4; 6 }; {5 ; 6 }. Vậy tập M có 15 tập con có 2 phần tử."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hai tập hợp A = {0; 2; 3; 5} và B = {2; 7}. Khi đó \\[{\\rm{A}} \\cap {\\rm{B}}\\]",
+      "options": [
+        "A. {2; 5};",
+        "B. {2};",
+        "C. \\[\\emptyset \\] ;",
+        "D. {0; 2; 3; 5; 7}."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Vì phần tử 2 vừa thuộc A vừa thuộc B nên \\[{\\rm{A}} \\cap {\\rm{B}} = \\left\\{ 2 \\right\\}\\] ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho A = {0; 1; 2; 3; 4}; B = {2; 3; 4; 5; 6}. Tìm tập \\(\\left( {{\\rm{A}}\\backslash {\\rm{B}}} \\right) \\cup \\left( {{\\rm{B}}\\backslash {\\rm{A}}} \\right)\\)",
+      "options": [
+        "A. {5; 6};",
+        "B. {1; 2};",
+        "C. {2; 3; 4} ;",
+        "D. {0; 1; 5; 6}."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Ta có tập hợp A\\B là tập các phần tử thuộc tập A nhưng không thuộc tập B nên \\(\\left( {{\\rm{A}}\\backslash {\\rm{B}}} \\right) = {\\rm{\\{ 0;}}\\,{\\rm{1\\} }}\\) . Tập hợp B\\A là tập các phần tử thuộc tập B nhưng không thuộc tập A nên \\(\\left( {{\\rm{B}}\\backslash {\\rm{A}}} \\right) = {\\rm{\\{ }}5;\\,6\\} \\) . \\( \\Rightarrow \\left( {{\\rm{A}}\\backslash {\\rm{B}}} \\right) \\cup \\left( {{\\rm{B}}\\backslash {\\rm{A}}} \\right) = \\left\\{ {0;\\,1;\\,5;\\,6} \\right\\}\\) ."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Số phần tử của tập hợp \\(A = {\\rm{\\{ }}{k^2} + 1|k \\in \\mathbb{Z},\\,\\left| k \\right| \\le 2\\} \\) là",
+      "options": [
+        "A. 1",
+        "B. 2",
+        "C. 3",
+        "D. 5"
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C \\(A = {\\rm{\\{ }}{k^2} + 1|k \\in \\mathbb{Z},\\,\\left| k \\right| \\le 2\\} \\) Ta có \\(k \\in \\mathbb{Z},\\,\\left| k \\right| \\le 2\\) \\[ \\Leftrightarrow \\] – 2 ≤ k ≤ 2 Ta có bảng sau: k -2 -1 0 1 2 k 2 + 1 5 2 1 2 5 Vậy tập A có 3 phần tử A = {1; 2; 5}"
+    }
+  ]
+}

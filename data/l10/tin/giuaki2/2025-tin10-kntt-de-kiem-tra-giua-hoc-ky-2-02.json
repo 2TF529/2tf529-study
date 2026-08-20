@@ -1,0 +1,328 @@
+{
+  "id": "l10-tin-giuaki2-2025-hochanh-6001",
+  "grade": "l10",
+  "subjectSlug": "tin",
+  "examType": "giuaki2",
+  "year": 2025,
+  "code": "HocHanh 6001",
+  "title": "TIN10 - KNTT- Đề kiểm tra giữa học kỳ 2 - 02",
+  "duration": 31,
+  "answerSource": "official",
+  "passages": {
+    "p1": "App không chấm điểm câu hỏi này!\nBạn lựa chọn đạt / không đạt để tự chấm."
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Cho đoạn chương trình python sau:\nTong = 0\nwhile Tong < 10:\nTong = Tong + 1\nSau khi đoạn chương trình trên được thực hiện, giá trị của tổng bằng bao nhiêu:",
+      "options": [
+        "A. 9.",
+        "B. 10.",
+        "C. 11.",
+        "D. 12."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Hoạt động nào sau đây lặp với số lần lặp chưa biết trước?",
+      "options": [
+        "A. Ngày tắm hai lần.",
+        "B. Học bài cho tới khi thuộc bài.",
+        "C. Mỗi tuần đi nhà sách một lần.",
+        "D. Ngày đánh răng hai lần."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Để khởi tạo danh sách b có 5 phần tử 1, 2, 3, 4, 5 ta dùng cú pháp:",
+      "options": [
+        "A. b = 1, 2, 3, 4, 5",
+        "B. b = (1, 2, 3, 4, 5)",
+        "C. b = [1,5]",
+        "D. b = [1, 2, 3, 4, 5]"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Để xóa 2 phần tử ở vị trí 1 và 2 trong danh sách a hiện tại ta dùng lệnh nào?",
+      "options": [
+        "A. del a[1:2]",
+        "B. del a[0:2]",
+        "C. del a[0:3]",
+        "D. del a[1:3]"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Vòng lặp nào trả về kết quả dưới đây? <figure class=\"question-figure\"><img src=\"data/l10/tin/giuaki2/assets/2025-tin10-kntt-de-kiem-tra-giua-hoc-ky-2-02/hinh-01.webp\" alt=\"Hình minh họa của câu hỏi\" loading=\"lazy\"></figure>",
+      "options": [
+        "A. for i in range(1,6):\nprint(i,i,i,i,i)",
+        "B. for i in range(1,5):\nprint(str(i)*5)",
+        "C. for i in range(1,6):\nprint(str(i)*5)",
+        "D. for i in range(0,5):\nprint(str(i)*5)"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Sau khi thực hiện các câu lệnh sau, mảng A như thế nào?\n>>> A = [1, 2, 3, 4, 5]\n>>> A. remove(2)\n>>> print(A)",
+      "options": [
+        "A. [1, 2, 3, 4].",
+        "B. [2, 3, 4, 5].",
+        "C. [1, 2, 4, 5].",
+        "D. [1, 3, 4, 5]."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Kết quả khi thực hiện chương trình sau?\n>>> A = [1, 2, 3, 5]\n>>> A.insert(2, 4)\n>>> print(A)",
+      "options": [
+        "A. 1, 2, 3, 4.",
+        "B. 1, 2, 4, 3, 5.",
+        "C. 1, 2, 3, 4, 5.",
+        "D. 1, 2, 4, 5."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "content": "Số phát biểu đúng là:\n1) Sau khi thực hiện lệnh clear(), các phần tử trả về giá trị 0.\n2) Lệnh remove trả về giá trị False nếu không có trong danh sách.\n3) remove() có tác dụng xoá một phần tử có giá trị cho trước trong list.\n4) Lệnh remove() có tác dụng xoá một phần tử ở vị trí cho trước.",
+      "options": [
+        "A. 1.",
+        "B. 2.",
+        "C. 0.",
+        "D. 3."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 11,
+      "type": "single",
+      "content": "Kết quả của chương trình sau là bao nhiêu?\n>>> s = “abcdefg”\n>>> print(s[2])",
+      "options": [
+        "A. c",
+        "B. b",
+        "C. a",
+        "D. d"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 12,
+      "type": "single",
+      "content": "Để chuyển s về xâu kí tự ta dùng hàm gì?",
+      "options": [
+        "A. length(s)",
+        "B. len(s)",
+        "C. str(s)",
+        "D. s.len()"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 13,
+      "type": "single",
+      "content": "Xâu “1234%^^%TFRESDRG” có độ dài bằng bao nhiêu?",
+      "options": [
+        "A. 16.",
+        "B. 17.",
+        "C. 18.",
+        "D. 15."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 14,
+      "type": "single",
+      "content": "Nếu S = \"1234567890\" thì S[0:4] là gì?",
+      "options": [
+        "A. \"123\"",
+        "B. \"0123\"",
+        "C. \"01234\"",
+        "D. \"1234\""
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 15,
+      "type": "single",
+      "content": "Để tạo xâu in hoa từ toàn bộ xâu hiện tại ta dùng hàm nào?",
+      "options": [
+        "A. lower()",
+        "B. len()",
+        "C. upper()",
+        "D. srt()"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 16,
+      "type": "single",
+      "content": "Để thay thế kí tự 'a' trong xâu s bằng một xâu mới rỗng ta dùng lệnh nào?",
+      "options": [
+        "A. s=s.replace('a', \"\")",
+        "B. s=s.replace('a')",
+        "C. s=replace(a, \"\")",
+        "D. s=s.replace()"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 17,
+      "type": "single",
+      "content": "Kết quả của các câu lệnh sau là gì? <figure class=\"question-figure\"><img src=\"data/l10/tin/giuaki2/assets/2025-tin10-kntt-de-kiem-tra-giua-hoc-ky-2-02/hinh-02.webp\" alt=\"Hình minh họa của câu hỏi\" loading=\"lazy\"></figure>",
+      "options": [
+        "A. 2, 6",
+        "B. 1, 3",
+        "C. 0, 4",
+        "D. 1, 4"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 18,
+      "type": "single",
+      "content": "Kết quả của các câu lệnh sau là gì?",
+      "options": [
+        "A. 'Ngôn ngữ lập trình Python'",
+        "B. ['Ngôn', 'ngữ', 'lập', 'trình', 'Python']",
+        "C. 'Ngôn', 'ngữ', 'lập', 'trình', 'Python'",
+        "D. [Ngôn, ngữ, lập, trình, Python]"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 19,
+      "type": "single",
+      "content": "Để tách một xâu thành danh sách các từ ta dùng lệnh nào?",
+      "options": [
+        "A. Lệnh join()",
+        "B. Lệnh split()",
+        "C. Lệnh len()",
+        "D. Lệnh find()"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 20,
+      "type": "single",
+      "content": "Trong định nghĩa của hàm có thể có bao nhiêu từ khóa return?",
+      "options": [
+        "A. 1",
+        "B. 2",
+        "C. 5",
+        "D. Không hạn chế"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 21,
+      "type": "single",
+      "content": "Mệnh đề nào dưới đây mô tả đúng quan hệ giữa hàm và thủ tục?",
+      "options": [
+        "A. Hàm và thủ tục là hai khái niệm hoàn toán khác nhau.",
+        "B. Hàm là thủ tục nhưng thủ tục có thể không phải là hàm.",
+        "C. Trong Python, hàm và thủ tục là hai khái niệm đồng nhất.",
+        "D. Thủ tục là hàm nhưng hàm có thể không là thủ tục."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 22,
+      "type": "single",
+      "content": "Kết quả của các câu lệnh sau là gì? <figure class=\"question-figure\"><img src=\"data/l10/tin/giuaki2/assets/2025-tin10-kntt-de-kiem-tra-giua-hoc-ky-2-02/hinh-03.webp\" alt=\"Hình minh họa của câu hỏi\" loading=\"lazy\"></figure>",
+      "options": [
+        "A. -2",
+        "B. 4",
+        "C. 2",
+        "D. 6"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 23,
+      "type": "single",
+      "content": "Cú pháp thiết lập hàm có trả lại giá trị là gì?",
+      "options": [
+        "A. def &lt; tên hàm &gt;([tham số]):\nreturn &lt; dãy giá trị trả về &gt;",
+        "B. def&lt; tên hàm &gt; ([tham số]):\n&lt; dãy các lệnh &gt;",
+        "C. def &lt; tên hàm &gt;([tham số]):\n&lt; khối lệnh &gt;\nreturn &lt; dãy giá trị trả về &gt;",
+        "D. def &lt; tên hàm &gt;: [&lt; khối lệnh &gt;]\nreturn &lt; dãy giá trị trả về &gt;"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 24,
+      "type": "single",
+      "content": "Hàm tự định nghĩa trong Python có thể có bao nhiêu tham số?",
+      "options": [
+        "A. 0",
+        "B. 1",
+        "C. 2",
+        "D. Không hạn chế"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 25,
+      "type": "single",
+      "content": "Khi gọi hàm, dữ liệu được truyền vào hàm được gọi là gì?",
+      "options": [
+        "A. Tham số",
+        "B. Hiệu số",
+        "C. Đối số",
+        "D. Hàm số"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 26,
+      "type": "single",
+      "content": "Đoạn chương trình sau sẽ in ra số nào?\n>>> def f(x, y):\nz = x + y\nreturn x*y*z\n>>> f(1, 4)",
+      "options": [
+        "A. 10",
+        "B. 18",
+        "C. 20",
+        "D. 30"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 27,
+      "type": "single",
+      "content": "Hàm f được khai báo như sau f(a, b, c). Số lượng đối số truyền vào là:",
+      "options": [
+        "A. 3.",
+        "B. 2.",
+        "C. 1.",
+        "D. 4."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 28,
+      "type": "single",
+      "content": "Phát biểu nào bị sai ?",
+      "options": [
+        "A. Một hàm khi khai báo có một tham số nhưng khi gọi hàm có thể có 2 đối số.",
+        "B. Tham số được định nghĩa khi khai báo hàm.",
+        "C. Tham số và đối số có một số điểm khác nhau.",
+        "D. Khi gọi hàm, các tham số sẽ được truyền bằng giá trị thông qua đối số của hàm."
+      ],
+      "answer": "A"
+    }
+  ]
+}

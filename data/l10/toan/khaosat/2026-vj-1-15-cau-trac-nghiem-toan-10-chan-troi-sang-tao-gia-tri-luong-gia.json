@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-toan-10-chan-troi-sang-tao-gia-tri-luong-gia",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-toan-10-chan-troi-s",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Toán 10 chân trời sáng tạo Giá trị lượng giác của một góc từ 0° đến 180° có đáp án",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho α là góc tù. Khẳng định nào sau đây là đúng ?",
+      "options": [
+        "A. sin α < 0;",
+        "B. cos α > 0;",
+        "C. tan α < 0;",
+        "D. cot α > 0."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là: C Nếu α là góc tù thì sinα > 0, cosα < 0, tanα < 0, cotα < 0. Vậy ta chọn phương án C."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hai góc α và β (0° ≤ α, β ≤ 180°) với α + β = 90°. Giá trị của biểu thức P = cosα.cosβ ‒ sinα.sinβ là:",
+      "options": [
+        "A. P = 0;",
+        "B. P = 1;",
+        "C. P = ‒ 1;",
+        "D. P = 2."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A Hai góc α và β (0° ≤ α, β ≤ 180°) là hai góc phụ nhau (do α + β = 90°) nên sinα = cosβ; cosα = sinβ. Do đó, P = cosα.cosβ – sinβ.sinα = cosα. sinα – cosα.sinα = 0. Vậy P = 0."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Trong các đẳng thức sau, đẳng thức nào đúng ?",
+      "options": [
+        "A. sin(180° – α) = ‒cos α;",
+        "B. sin(180° – α) = ‒sin α;",
+        "C. sin(180° – α) = sin α;",
+        "D. sin(180° – α) = cos α."
+      ],
+      "answer": "C",
+      "note": "Hướng dẫn giải Đáp án đúng là: C Với mọi góc α thoả mãn 0° ≤ α ≤ 180°, ta luôn có: sin(180° ‒ α) = sinα. Vậy ta chọn phương án C."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho tam giác ABC. Giá trị biểu thức sinA.cos(B + C) + cosA.sin(B + C) là:",
+      "options": [
+        "A. ‒1",
+        "B. 0",
+        "C. 1",
+        "D. 2"
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải Đáp án đúng là: B Xét tam giác ABC ta có: A ^ + B ^ + C ^ = 180 ° (định lí tổng ba góc trong tam giác) ⇒ B ^ + C ^ = 180 ° − A ^ Þ cos(B + C) = cos(180° ‒ A) = ‒cosA; Và sin(B + C) = sin(180° ‒ A)= sinA. Do đó: sinA.cos(B + C) + cosA.sin(B + C) = sinA.(‒cosA) + cosA.sinA = ‒sinA.cosA + cosA.sinA = 0 Vậy sinA.cos(B + C) + cosA.sin(B + C) = 0."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Giá trị cos135° + sin135° bằng bao nhiêu?",
+      "options": [
+        "A. 3 ;",
+        "B. 0",
+        "C. 1",
+        "D. 2"
+      ],
+      "answer": "B",
+      "note": "Hướng dẫn giải Đáp án đúng là: B Ta có: c o s 135 ° = − 2 2 ; sin 135 ° = 2 2 ; Do đó: cos135° + sin135° = − 2 2 + 2 2 = 0 Vậy cos135° + sin135° = 0."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Trong các đẳng thức sau, đẳng thức nào sai ?",
+      "options": [
+        "A. sin0° + cos0° = 0;",
+        "B. sin90° + cos90° = 1;",
+        "C. sin180° + cos180° = ‒1;",
+        "D. s i n 60 ° + c o s 60 ° = 3 + 1 2 ."
+      ],
+      "answer": "A",
+      "note": "Hướng dẫn giải Đáp án đúng là: A Ta có: +) sin0° + cos0° = 0 + 1 = 1. Do đó phương án A là mệnh đề sai. +) sin90° + cos90° = 1 + 0 = 1. Do đó phương án B là mệnh đề đúng. +) sin180° + cos180° = 0 + (‒1) = ‒1. Do đó phương án C là mệnh đề đúng. +) s i n 60 ° + c o s 60 ° = 3 2 + 1 2 = 3 + 1 2 . Do đó phương án D là mệnh đề đúng. Vậy ta chọn phương án A."
+    }
+  ]
+}

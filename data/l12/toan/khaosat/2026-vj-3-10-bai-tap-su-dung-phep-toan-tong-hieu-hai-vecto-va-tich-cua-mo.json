@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-3-10-bai-tap-su-dung-phep-toan-tong-hieu-hai-vecto-va-tich-cua-mo",
+  "sourceId": "vietjack:3-10-bai-tap-su-dung-phep-toan-tong-hieu",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "3.10 bài tập Sử dụng phép toán tổng, hiệu hai vectơ và tích của một vectơ với một số để chứng minh, phân tích các vectơ có lời giải",
+  "duration": 90,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Cho hình tứ diện ABCD có trọng tâm G. Mệnh đề nào sau đây sai ?",
+      "options": [
+        "A. \\[\\overrightarrow {GA} + \\overrightarrow {GB} + \\overrightarrow {GC} + \\overrightarrow {GD} = \\overrightarrow 0 \\];",
+        "B. \\[\\overrightarrow {OG} = \\frac{1}{4}\\left( {\\overrightarrow {OA} + \\overrightarrow {OB} + \\overrightarrow {OC} + \\overrightarrow {OD} } \\right)\\];",
+        "C. \\[\\overrightarrow {AG} = \\frac{2}{3}\\left( {\\overrightarrow {AB} + \\overrightarrow {AC} + \\overrightarrow {AD} } \\right)\\];",
+        "D. \\[\\overrightarrow {AG} = \\frac{1}{4}\\left( {\\overrightarrow {AB} + \\overrightarrow {AC} + \\overrightarrow {AD} } \\right)\\]."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Có G là trọng tâm của tứ diện ABCD nên: \\[\\overrightarrow {GA} + \\overrightarrow {GB} + \\overrightarrow {GC} + \\overrightarrow {GD} = \\overrightarrow 0 \\] \\[ \\Leftrightarrow 4\\overrightarrow {GA} + \\overrightarrow {AB} + \\overrightarrow {AC} + \\overrightarrow {AD} = \\overrightarrow 0 \\]\\[ \\Leftrightarrow \\overrightarrow {AG} = \\frac{1}{4}\\left( {\\overrightarrow {AB} + \\overrightarrow {AC} + \\overrightarrow {AD} } \\right)\\]."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Cho hình hộp ABCD.A'B'C'D'. Mệnh đề nào sau đây đúng?",
+      "options": [
+        "A. \\[\\overrightarrow {AB} + \\overrightarrow {A'D'} = \\overrightarrow {AC} \\];",
+        "B. \\[\\overrightarrow {AB} + \\overrightarrow {A'D'} = \\overrightarrow {BD} \\];",
+        "C. \\[\\overrightarrow {AB} + \\overrightarrow {A'D'} = \\overrightarrow {AC'} \\];",
+        "D. \\[\\overrightarrow {AB} + \\overrightarrow {A'D'} = \\overrightarrow {CA} \\]."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Ta có \\(\\overrightarrow {AB} + \\overrightarrow {A'D'} = \\overrightarrow {AB} + \\overrightarrow {AD} = \\overrightarrow {AC} \\) (quy tắc hình bình hành)."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Cho tứ diện ABCD. Gọi M, N lần lượt là trung điểm của AD và BC. Tổng \\(\\overrightarrow {AB} + \\overrightarrow {DC} \\) bằng",
+      "options": [
+        "A. \\[\\overrightarrow 0 \\];",
+        "B. \\[2\\overrightarrow {AD} \\];",
+        "C. \\[2\\overrightarrow {MN} \\];",
+        "D. \\[2\\overrightarrow {NM} \\]."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C Ta có : \\(\\overrightarrow {AB} + \\overrightarrow {DC} = \\overrightarrow {AM} + \\overrightarrow {MN} + \\overrightarrow {NB} + \\overrightarrow {DM} + \\overrightarrow {MN} + \\overrightarrow {NC} \\) \\( = \\left( {\\overrightarrow {AM} + \\overrightarrow {DM} } \\right) + 2\\overrightarrow {MN} + \\left( {\\overrightarrow {NB} + \\overrightarrow {NC} } \\right) = 2\\overrightarrow {MN} \\). (vì M, N lần lượt là trung điểm của AD, BC nên \\(\\overrightarrow {AM} + \\overrightarrow {DM} = \\overrightarrow 0 ;\\overrightarrow {NB} + \\overrightarrow {NC} = \\overrightarrow 0 \\))."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Cho hình lăng trụ tam giác ABC.A'B'C'. Đặt \\(\\overrightarrow {AA'} = \\overrightarrow a ;\\overrightarrow {AB} = \\overrightarrow b ;\\overrightarrow {AC} = \\overrightarrow c ;\\overrightarrow {BC} = \\overrightarrow d \\). Trong các biểu thức vectơ sau đây, biểu thức nào đúng ?",
+      "options": [
+        "A. \\[\\overrightarrow a + \\overrightarrow b + \\overrightarrow c = \\overrightarrow d \\];",
+        "B. \\[\\overrightarrow a = \\overrightarrow b + \\overrightarrow c \\];",
+        "C. \\[\\overrightarrow a + \\overrightarrow b + \\overrightarrow c + \\overrightarrow d = \\overrightarrow 0 \\];",
+        "D. \\[\\overrightarrow b - \\overrightarrow c + \\overrightarrow d = \\overrightarrow 0 \\]."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Ta thấy \\(\\overrightarrow b - \\overrightarrow c + \\overrightarrow d = \\overrightarrow {AB} - \\overrightarrow {AC} + \\overrightarrow {BC} = \\overrightarrow {CB} + \\overrightarrow {BC} = \\overrightarrow 0 \\)."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Cho tứ diện ABCD có trọng tâm G, gọi M là trung điểm AD. Khi đó:",
+      "options": [
+        "A. \\[\\overrightarrow {MG} = \\frac{1}{4}\\left( {\\overrightarrow {MA} + \\overrightarrow {MD} } \\right)\\];",
+        "B. \\[\\overrightarrow {MG} = \\frac{1}{4}\\left( {\\overrightarrow {MC} + \\overrightarrow {MB} } \\right)\\];",
+        "C. \\[\\overrightarrow {MG} = \\frac{1}{4}\\left( {\\overrightarrow {MC} + \\overrightarrow {MD} } \\right)\\];",
+        "D. \\[\\overrightarrow {MG} = \\frac{1}{4}\\left( {\\overrightarrow {MC} - \\overrightarrow {MD} } \\right)\\]."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Gọi \\(N\\) là trung điểm BC thì G chính là trung điểm của MN. Do đó ta có: \\(\\overrightarrow {MG} = \\frac{1}{2}\\overrightarrow {MN} = \\frac{1}{4}\\left( {\\overrightarrow {MB} + \\overrightarrow {MC} } \\right)\\)."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho tứ diện ABCD. Gọi M và P lần lượt là trung điểm của các cạnh AB và CD. Đặt \\(\\overrightarrow {AB} = \\overrightarrow b ;\\overrightarrow {AC} = \\overrightarrow c ;\\overrightarrow {AD} = \\overrightarrow d \\). Khẳng định nào sau đây đúng?",
+      "options": [
+        "A. \\[\\overrightarrow {MP} = \\frac{1}{2}\\left( {\\overrightarrow c + \\overrightarrow d + \\overrightarrow b } \\right)\\];",
+        "B. \\[\\overrightarrow {MP} = \\frac{1}{2}\\left( {\\overrightarrow d + \\overrightarrow b - \\overrightarrow c } \\right)\\];",
+        "C. \\[\\overrightarrow {MP} = \\frac{1}{2}\\left( {\\overrightarrow c + \\overrightarrow b - \\overrightarrow d } \\right)\\];",
+        "D. \\[\\overrightarrow {MP} = \\frac{1}{2}\\left( {\\overrightarrow c + \\overrightarrow d - \\overrightarrow b } \\right)\\]."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Vì M, P lần lượt là trung điểm AB, CD \\( \\Rightarrow \\left\\{ \\begin{array}{l}2\\overrightarrow {AM} = \\overrightarrow {AB} \\\\\\overrightarrow {AC} + \\overrightarrow {AD} = 2\\overrightarrow {AP} \\end{array} \\right.\\). Ta có \\(\\overrightarrow {MP} = \\overrightarrow {MA} + \\overrightarrow {AP} = - \\overrightarrow {AM} + \\overrightarrow {AP} = - \\frac{1}{2}\\overrightarrow {AB} + \\frac{1}{2}\\left( {\\overrightarrow {AC} + \\overrightarrow {AD} } \\right)\\) \\( = - \\frac{1}{2}\\overrightarrow b + \\frac{1}{2}\\overrightarrow c + \\frac{1}{2}\\overrightarrow d = \\frac{1}{2}\\left( {\\overrightarrow c + \\overrightarrow d - \\overrightarrow b } \\right)\\)."
+    }
+  ]
+}

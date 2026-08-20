@@ -1,0 +1,91 @@
+{
+  "id": "2026-vj-1-15-cau-trac-nghiem-tin-hoc-10-canh-dieu-kiem-thu-va-go-loi-chuo",
+  "sourceId": "vietjack:1-15-cau-trac-nghiem-tin-hoc-10-canh-die",
+  "grade": "l10",
+  "subjectSlug": "tin",
+  "examType": "khaosat",
+  "year": 2026,
+  "title": "1.15 câu Trắc nghiệm Tin học 10 Cánh diều Kiểm thử và gỡ lỗi chương trình có đáp án",
+  "duration": 50,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Câu 1: Phát biểu nào sau đây là đúng về lỗi cú pháp?",
+      "options": [
+        "A. Là lỗi câu lệnh viết không theo đúng quy định của ngôn ngữ.",
+        "B. Là lỗi xảy ra khi chương trình đang chạy, một lệnh nào đó không thể thực hiện.",
+        "C. Là lỗi mặc dù các câu lệnh viết đúng quy định của ngôn ngữ nhưng sai trong thao tác xử lí nào đó.",
+        "D. Tất cả các lỗi trên."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Lỗi cú pháp là lỗi câu lệnh viết không theo đúng quy định của ngôn ngữ. Ví dụ thiếu hay thừa ngoặc, tên biến sai quy cách…"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Câu 2: Phát biểu nào sau đây là đúng về lỗi ngoại lệ?",
+      "options": [
+        "A. Là lỗi câu lệnh viết không theo đúng quy định của ngôn ngữ.",
+        "B. Là lỗi xảy ra khi chương trình đang chạy, một lệnh nào đó không thể thực hiện.",
+        "C. Là lỗi mặc dù các câu lệnh viết đúng quy định của ngôn ngữ nhưng sai trong thao tác xử lí nào đó.",
+        "D. Tất cả các lỗi trên."
+      ],
+      "answer": "B",
+      "note": "Đáp án đúng là: B Lỗi ngoại lệ là lỗi xảy ra khi chương trình đang chạy, một lệnh nào đó không thể thực hiện. Lỗi này sẽ được hiển thị ngay trên màn hình."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Câu 3: Phát biểu nào sau đây là đúng về lỗi ngữ nghĩa?",
+      "options": [
+        "A. Là lỗi câu lệnh viết không theo đúng quy định của ngôn ngữ.",
+        "B. Là lỗi xảy ra khi chương trình đang chạy, một lệnh nào đó không thể thực hiện.",
+        "C. Là lỗi mặc dù các câu lệnh viết đúng quy định của ngôn ngữ nhưng sai trong thao tác xử lí nào đó.",
+        "D. Tất cả các lỗi trên."
+      ],
+      "answer": "C",
+      "note": "Đáp án đúng là: C lỗi ngữ nghĩa là lỗi mặc dù các câu lệnh viết đúng quy định của ngôn ngữ nhưng sai trong thao tác xử lí nào đó. Ví dụ nhầm dấu, nhầm tên biến…"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Câu 4: Công cụ Debug dùng để:",
+      "options": [
+        "A. Chạy chương trình.",
+        "B. Lưu chương trình.",
+        "C. Mở chương trình.",
+        "D. Gỡ lỗi."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Ngôn ngữ lập trình Python cung cấp công cụ Debug để gỡ lỗi ."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Câu 5: Khẳng định nào sau đây là sai ?",
+      "options": [
+        "A. Lỗi ngữ nghĩa là lỗi khó phát hiện nhất.",
+        "B. Ngôn ngữ lập trình Python cung cấp công cụ Debug để gỡ lỗi .",
+        "C. Lỗi ngoại lệ là lỗi xảy ra khi chương trình đang chạy, một lệnh nào đó không thể thực hiện. Lỗi này sẽ được hiển thị ngay trên màn hình.",
+        "D. Truy vết để tìm lỗi là một quá trình vô cùng đơn giản, không tốn thời gian."
+      ],
+      "answer": "D",
+      "note": "Đáp án đúng là: D Truy vết để tìm lỗi là một quá trình khá khó khăn và phức tạp, đôi khi mất khá nhiều thời gian."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Câu 6: Cho đoạn chương trình sau: a=int(input() print(a) Lỗi trong chương trình trên là lỗi:",
+      "options": [
+        "A. Cú pháp.",
+        "B. Ngữ nghĩa",
+        "C. Ngoại lệ",
+        "D. Tất cả các lỗi trên."
+      ],
+      "answer": "A",
+      "note": "Đáp án đúng là: A Đoạn chương trình trên sai do thiếu dấu ngoặc ở câu lệnh 1. Vì vậy đây là lỗi cú pháp."
+    }
+  ]
+}
