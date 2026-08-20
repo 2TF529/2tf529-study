@@ -1,0 +1,32 @@
+User-agent: *
+Allow: /
+Allow: /index.html
+Allow: /explore.html
+Allow: /on-tap.html
+Allow: /ung-ho.html
+Allow: /css/
+Allow: /js/
+Allow: /assets/
+
+# Không index trang cá nhân và phòng thi
+Disallow: /thi.html
+Disallow: /lich-su.html
+Disallow: /data/
+
+# Chặn bot cào data lãng phí (tốn bandwidth, tốn cache hit rate)
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+Sitemap: https://2tf529.id.vn/sitemap.xml

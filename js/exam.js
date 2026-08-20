@@ -16,17 +16,32 @@ let timerInterval = null;
 let submitted = false;
 const LANGUAGE_EXAM_TYPES = ["ielts", "toeic", "hsk", "topik", "jlpt"];
 
-function typesetMath() {
-  if (window.MathJax && window.MathJax.typesetPromise) {
-    window.MathJax.typesetPromise();
-  } else if (typeof window.loadMathJax === "function") {
-    window.loadMathJax().then(function() {
-      if (window.MathJax && window.MathJax.typesetPromise) {
-        window.MathJax.typesetPromise();
-      }
+// typesetMath — Dùng KaTeX (nhanh hơn MathJax 10x, chỉ ~150KB)
+function typesetMath(container) {
+  var el = container || document.body;
+  if (window.renderMathInElement) {
+    // KaTeX auto-render: xử lý tất cả $...$ và \(...\) và \[...\] trong element
+    renderMathInElement(el, {
+      delimiters: [
+        { left: '$$', right: '$$', display: true },
+        { left: '$',  right: '$',  display: false },
+        { left: '\\[', right: '\\]', display: true },
+        { left: '\\(', right: '\\)', display: false }
+      ],
+      throwOnError: false,        // Không crash nếu công thức sai cú pháp
+      errorColor: '#cc0000',      // Tô màu đỏ nếu lỗi
+      strict: false,
+      trust: false,
+      output: 'html'             // HTML nhanh hơn mathml
+    });
+  } else if (typeof window.loadKaTeX === 'function') {
+    // KaTeX chưa load — gọi lazy loader rồi render
+    window.loadKaTeX().then(function() {
+      if (window.renderMathInElement) typesetMath(el);
     });
   }
 }
+
 
 function isOfficialAnswer() {
   return (examData.answerSource || examMeta.answerSource || "ai") === "official";

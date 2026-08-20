@@ -3,9 +3,17 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Ủng hộ dự án</title>
+<title>Ủng hộ dự án — 2TF529</title>
+<meta name="description" content="Ủng hộ dự án 2TF529 — web thi thử miễn phí, không quảng cáo, không thu phí.">
+<meta name="robots" content="index, follow">
+<meta property="og:title" content="Ủng hộ dự án — 2TF529">
+<meta property="og:description" content="Ủng hộ giúp duy trì web thi thử miễn phí cho mọi học sinh.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://2tf529.id.vn/ung-ho.html">
+<meta name="theme-color" content="#1a56db">
 <script>(function(){var d=document.documentElement;d.setAttribute("data-theme", localStorage.getItem("theme") || (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light"));d.setAttribute("data-palette", localStorage.getItem("palette") || "9");})();</script>
-<link rel="stylesheet" href="css/style.css">
+<link rel="preload" href="css/style.css?v=20260821-1" as="style">
+<link rel="stylesheet" href="css/style.css?v=20260821-1">
 </head>
 <body>
 
@@ -59,7 +67,12 @@
   <div class="result-card" style="margin:0 auto 32px;max-width:380px;padding:28px 24px;">
     <h3 style="margin-top:0;margin-bottom:16px;color:var(--navy-800);font-size:16px;">Quét mã QR để ủng hộ</h3>
     <div style="background:#fff;padding:12px;border-radius:var(--radius);border:1px solid var(--line);display:inline-block;box-shadow:var(--shadow-sm);">
-      <img src="assets/donate-qr.png" alt="Mã QR ủng hộ dự án" style="width:240px;max-width:100%;height:auto;display:block;margin:0 auto;border-radius:4px;">
+      <picture>
+        <source srcset="assets/donate-qr.webp" type="image/webp">
+        <img src="assets/donate-qr.png" alt="Mã QR ủng hộ dự án" width="240" height="240"
+             style="width:240px;max-width:100%;height:auto;display:block;margin:0 auto;border-radius:4px;"
+             loading="lazy" decoding="async">
+      </picture>
     </div>
     <p style="margin:16px 0 0;font-size:13.5px;color:var(--ink-500);line-height:1.5;">
       Cảm ơn bạn đã đồng hành cùng dự án, dù có ủng hộ hay không.
@@ -67,12 +80,12 @@
   </div>
 </div>
 
-<script src="js/theme.js"></script>
-<script src="js/calculator.js?v=20260819-1"></script>
-<script src="js/whiteboard.js?v=20260819-1"></script>
-<script src="js/translate.js?v=20260819-1"></script>
 <script src="js/security.js?v=20260821-1"></script>
 <script src="js/shield.js?v=20260821-1"></script>
-<script src="js/sw-register.js?v=20260819-1"></script>
+<script src="js/theme.js?v=20260821-1" defer></script>
+<script src="js/calculator.js?v=20260821-1" defer></script>
+<script src="js/whiteboard.js?v=20260821-1" defer></script>
+<script src="js/translate.js?v=20260821-1" defer></script>
+<script src="js/sw-register.js?v=20260821-1" defer></script>
 </body>
 </html>

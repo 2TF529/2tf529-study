@@ -3,30 +3,49 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Làm bài thi</title>
+<title>Làm bài thi — 2TF529</title>
+<meta name="description" content="Phòng thi trực tuyến. Làm bài thi thật với đồng hồ đếm ngược, đánh dấu câu hỏi, xem kết quả ngay.">
+<meta name="robots" content="noindex, nofollow">
+<meta name="theme-color" content="#1a56db">
 <script>(function(){var d=document.documentElement;d.setAttribute("data-theme", localStorage.getItem("theme") || (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light"));d.setAttribute("data-palette", localStorage.getItem("palette") || "9");})();</script>
-<link rel="stylesheet" href="css/style.css">
+<link rel="preload" href="css/style.css?v=20260821-1" as="style">
+<link rel="preload" href="js/exam.js?v=20260821-2" as="script">
 <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
 <link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
+<link rel="stylesheet" href="css/style.css?v=20260821-1">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" as="style" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" crossorigin="anonymous">
 <script>
-  // MathJax config — thư viện được tải lười (lazy) khi cần công thức Toán / Lý / Hóa
-  window.MathJax = {
-    tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] },
-    options: { skipHtmlTags: ['script','noscript','style','textarea','pre','code'] },
-    startup: { typeset: false }
-  };
-  window.loadMathJax = function() {
-    if (window._mjLoading) return window._mjLoading;
-    window._mjLoading = new Promise(function(resolve) {
+  // KaTeX lazy loader — nhẹ hơn MathJax 90%, render nhanh hơn 10-20 lần
+  // Chỉ tải thư viện khi câu hỏi thực sự cần render công thức
+  window.loadKaTeX = function() {
+    if (window._katexLoading) return window._katexLoading;
+    window._katexLoading = new Promise(function(resolve) {
+      // Tải KaTeX core
       var s = document.createElement('script');
-      s.src = 'https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-mml-chtml.js';
+      s.src = 'https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js';
       s.crossOrigin = 'anonymous';
       s.async = true;
-      s.onload = resolve;
+      s.onload = function() {
+        // Sau đó tải plugin auto-render
+        var ar = document.createElement('script');
+        ar.src = 'https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js';
+        ar.crossOrigin = 'anonymous';
+        ar.async = true;
+        ar.onload = resolve;
+        document.head.appendChild(ar);
+      };
       document.head.appendChild(s);
     });
-    return window._mjLoading;
+    return window._katexLoading;
   };
+
+  // Khởi động KaTeX sớm khi browser rảnh (không chặn render trang)
+  if ('requestIdleCallback' in window) {
+    requestIdleCallback(function() { window.loadKaTeX(); }, { timeout: 2000 });
+  } else {
+    setTimeout(function() { window.loadKaTeX(); }, 1000);
+  }
 </script>
 </head>
 <body>
@@ -109,13 +128,13 @@
 
 <div id="result-slot"></div>
 
-<script src="js/theme.js"></script>
-<script src="js/exam.js?v=20260819-1"></script>
-<script src="js/calculator.js?v=20260819-1"></script>
-<script src="js/whiteboard.js?v=20260819-1"></script>
-<script src="js/translate.js?v=20260819-1"></script>
 <script src="js/security.js?v=20260821-1"></script>
 <script src="js/shield.js?v=20260821-1"></script>
-<script src="js/sw-register.js?v=20260819-1"></script>
+<script src="js/theme.js?v=20260821-1" defer></script>
+<script src="js/exam.js?v=20260821-2" defer></script>
+<script src="js/calculator.js?v=20260821-1" defer></script>
+<script src="js/whiteboard.js?v=20260821-1" defer></script>
+<script src="js/translate.js?v=20260821-1" defer></script>
+<script src="js/sw-register.js?v=20260821-1" defer></script>
 </body>
 </html>

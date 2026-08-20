@@ -12,31 +12,52 @@ const LANGUAGE_EXAM_TYPES = ["ielts", "toeic", "hsk", "topik", "jlpt"];
 function qs(id) { return document.getElementById(id); }
 
 async function init() {
-  const [taxRes, idxRes] = await Promise.all([
-    fetch("data/taxonomy.json?v=20260819-1"),
-    fetch("data/explore-index.json?v=" + Date.now(), { cache: "no-store" })
+  const params = new URLSearchParams(window.location.search);
+  const urlGrade = params.get("grade") || "";
+  activeGroup = params.get("group") || "";
+
+  // Chiến lược tải thông minh:
+  // - Nếu URL có ?grade=l12 → chỉ tải chunk l12 (~854KB thay vì 2MB)
+  // - Nếu không có grade filter → tải tất cả 4 chunks song song
+  const CHUNKS = ["l9", "l10", "l11", "l12"];
+  const VALID_GRADES = new Set(CHUNKS);
+
+  async function loadChunk(grade) {
+    const url = `data/chunks/explore-${grade}.json`;
+    const res = await fetch(url);
+    return res.json();
+  }
+
+  async function loadExams(grade) {
+    let raw = [];
+    if (grade && VALID_GRADES.has(grade)) {
+      // Tải 1 chunk theo grade → cực nhanh
+      raw = await loadChunk(grade);
+    } else {
+      // Không có grade → tải tất cả song song, gộp lại
+      const chunks = await Promise.all(CHUNKS.map(loadChunk));
+      raw = chunks.flat();
+    }
+    return raw.map(e => ({
+      id: e[0], grade: e[1], subjectSlug: e[2], examType: e[3], year: e[4],
+      code: e[5], title: e[6], duration: e[7], questionCount: e[8], answerSource: e[9]
+    }));
+  }
+
+  const [taxRes, exams] = await Promise.all([
+    fetch("data/taxonomy.json").then(r => r.json()),
+    loadExams(urlGrade)
   ]);
-  taxonomy = await taxRes.json();
-  const compactIndex = await idxRes.json();
-  allExams = compactIndex.map(e => ({
-    id: e[0], grade: e[1], subjectSlug: e[2], examType: e[3], year: e[4],
-    code: e[5], title: e[6], duration: e[7], questionCount: e[8], answerSource: e[9]
-  }));
+  taxonomy = taxRes;
+  allExams = exams;
 
   fillSelect("f-grade", taxonomy.grades);
-  const params = new URLSearchParams(window.location.search);
-  activeGroup = params.get("group") || "";
   const examTypeOptions = activeGroup === "ngoai-ngu"
     ? Object.fromEntries(LANGUAGE_EXAM_TYPES.map(slug => [slug, taxonomy.examTypes[slug]]))
     : taxonomy.examTypes;
 
   fillSelect("f-subject", taxonomy.subjects);
   fillSelect("f-type", examTypeOptions);
-
-  const ANSWER_PRIORITY = { official: 0, ai: 1, partial: 2, missing: 3 };
-  function getAnswerRank(source) {
-    return ANSWER_PRIORITY[source] !== undefined ? ANSWER_PRIORITY[source] : 9;
-  }
 
   // Đọc filter từ URL (?grade=l12&type=totnghiep&subject=toan&q=...)
   if (params.get("grade")) qs("f-grade").value = params.get("grade");
@@ -45,21 +66,25 @@ async function init() {
   if (params.get("answer")) qs("f-answer").value = params.get("answer");
   if (params.get("q")) qs("f-keyword").value = params.get("q");
 
-  ["f-grade", "f-subject", "f-type", "f-answer", "f-sort"].forEach(id => {
-    const el = qs(id);
-    if (el) {
-      el.addEventListener("change", () => {
-        visibleLimit = PAGE_SIZE;
-        render();
-      });
+  // Khi đổi grade filter → tải lại chunk tương ứng (không cần reload trang)
+  qs("f-grade").addEventListener("change", async () => {
+    const newGrade = qs("f-grade").value;
+    visibleLimit = PAGE_SIZE;
+    if (newGrade && VALID_GRADES.has(newGrade) && allExams[0]?.grade !== newGrade) {
+      // Nếu chuyển sang grade khác và chunk chưa được load → reload
+      qs("exam-list").innerHTML = '<div class="skeleton-card"></div><div class="skeleton-card"></div><div class="skeleton-card"></div>';
+      allExams = await loadExams(newGrade);
     }
+    render();
+  });
+
+  ["f-subject", "f-type", "f-answer", "f-sort"].forEach(id => {
+    const el = qs(id);
+    if (el) el.addEventListener("change", () => { visibleLimit = PAGE_SIZE; render(); });
   });
   qs("f-keyword").addEventListener("input", () => {
     clearTimeout(keywordTimer);
-    keywordTimer = setTimeout(() => {
-      visibleLimit = PAGE_SIZE;
-      render();
-    }, 160);
+    keywordTimer = setTimeout(() => { visibleLimit = PAGE_SIZE; render(); }, 160);
   });
 
   render();
