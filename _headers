@@ -1,47 +1,38 @@
-/* ====================================================================
-   Cloudflare Pages / Workers — Cache Headers tối ưu
-   Cập nhật: 2026-08-21
-   Chiến lược:
-     - HTML       : max-age=0 (always fresh từ CDN edge)
-     - CSS/JS      : immutable 1 năm (bust bằng ?v=...)
-     - Assets       : 30 ngày
-     - JSON đề thi  : 7 ngày cache-first, SWR 7 ngày
-     - JSON index   : 5 phút, SWR 24h
-     - sw.js        : no-cache (bắt buộc)
-     - robots/sitemap: 1 ngày
-==================================================================== */
+# ====================================================================
+# Cloudflare Pages / Workers — Cache Headers
+# ====================================================================
 
-/* ── robots.txt & sitemap ── */
+# robots.txt & sitemap
 /robots.txt
   Cache-Control: public, max-age=86400, stale-while-revalidate=86400
 
 /sitemap.xml
   Cache-Control: public, max-age=86400, stale-while-revalidate=86400
 
-/* ── Service Worker: KHÔNG cache, luôn kiểm tra mới ── */
+# Service Worker: no-cache
 /sw.js
   Cache-Control: public, max-age=0, must-revalidate
 
-/* ── HTML pages: always-fresh từ CDN ── */
+# HTML pages
 /*.html
   Cache-Control: public, max-age=0, must-revalidate
 
-/* ── CSS & JS versioned (dùng ?v=...): cache 1 năm immutable ── */
+# CSS & JS versioned
 /css/*
   Cache-Control: public, max-age=31536000, immutable
 
 /js/*
   Cache-Control: public, max-age=31536000, immutable
 
-/* ── Assets (ảnh, font, svg, ico): 30 ngày ── */
+# Assets
 /assets/*
   Cache-Control: public, max-age=2592000, stale-while-revalidate=86400
 
-/* ── Favicon ── */
+# Favicon
 /favicon.ico
   Cache-Control: public, max-age=604800, stale-while-revalidate=86400
 
-/* ── JSON index/stats: cập nhật thường — 5 phút, SWR 24h ── */
+# JSON index / stats
 /data/stats.json
   Cache-Control: public, max-age=300, stale-while-revalidate=86400
 
@@ -60,21 +51,21 @@
 /data/taxonomy.json
   Cache-Control: public, max-age=3600, stale-while-revalidate=86400
 
-/* ── JSON đề thi: ổn định — 7 ngày, SWR 7 ngày ── */
+# JSON chunks & exams
 /data/chunks/*
   Cache-Control: public, max-age=604800, stale-while-revalidate=604800
 
 /data/*
   Cache-Control: public, max-age=604800, stale-while-revalidate=604800
 
-/* ── Global: Security + Performance headers ── */
+# Global Security & Performance Headers
 /*
   X-Content-Type-Options: nosniff
   X-Frame-Options: DENY
   Referrer-Policy: strict-origin-when-cross-origin
   Permissions-Policy: camera=(), microphone=(), geolocation=()
   Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
-  Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob: https:; frame-src https://www.desmos.com; connect-src 'self' https://translate.googleapis.com; font-src 'self' data:; frame-ancestors 'none'; base-uri 'self'; form-action 'self'
+  Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net; style-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net; font-src 'self' data: https://cdn.jsdelivr.net; img-src 'self' data: blob: https:; frame-src https://www.desmos.com; connect-src 'self' https://translate.googleapis.com; frame-ancestors 'none'; base-uri 'self'; form-action 'self'
   X-DNS-Prefetch-Control: on
   Cross-Origin-Opener-Policy: same-origin
   Cross-Origin-Resource-Policy: same-origin
