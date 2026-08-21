@@ -1,0 +1,26 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+const v = '20260821-2';
+---
+
+<BaseLayout
+  title="Lịch sử làm bài — 2TF529"
+  description="Xem lại lịch sử các bài thi đã làm, điểm số, số câu đúng/sai."
+  noindex={true}
+  pageScripts={[`/js/history.js?v=${v}`]}
+  activeNav="lich-su"
+>
+  <slot slot="header-title"><h1>Giao diện thi trên máy tính</h1></slot>
+  <slot slot="header-badge"><div class="badge">LỊCH SỬ LÀM BÀI</div></slot>
+
+  <div class="container">
+    <div class="page-title">Lịch sử làm bài</div>
+
+    <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:14px;flex-wrap:wrap;gap:8px;">
+      <div class="result-count" id="history-count"></div>
+      <button class="btn secondary" id="clear-btn" style="font-size:12px;padding:6px 14px;">Xoá lịch sử</button>
+    </div>
+
+    <div class="exam-list" id="history-list"></div>
+  </div>
+</BaseLayout>

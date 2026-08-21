@@ -1,0 +1,71 @@
+# ====================================================================
+# Cloudflare Pages / Workers — Cache Headers
+# ====================================================================
+
+# robots.txt & sitemap
+/robots.txt
+  Cache-Control: public, max-age=86400, stale-while-revalidate=86400
+
+/sitemap.xml
+  Cache-Control: public, max-age=86400, stale-while-revalidate=86400
+
+# Service Worker: no-cache
+/sw.js
+  Cache-Control: public, max-age=0, must-revalidate
+
+# HTML pages
+/*.html
+  Cache-Control: public, max-age=0, must-revalidate
+
+# CSS & JS versioned
+/css/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/js/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# Assets
+/assets/*
+  Cache-Control: public, max-age=2592000, stale-while-revalidate=86400
+
+# Favicon
+/favicon.ico
+  Cache-Control: public, max-age=604800, stale-while-revalidate=86400
+
+# JSON index / stats
+/data/stats.json
+  Cache-Control: public, max-age=300, stale-while-revalidate=86400
+
+/data/id-map.json
+  Cache-Control: public, max-age=300, stale-while-revalidate=86400
+
+/data/index.json
+  Cache-Control: public, max-age=300, stale-while-revalidate=86400
+
+/data/explore-index.json
+  Cache-Control: public, max-age=300, stale-while-revalidate=86400
+
+/data/topic-index.json
+  Cache-Control: public, max-age=300, stale-while-revalidate=86400
+
+/data/taxonomy.json
+  Cache-Control: public, max-age=3600, stale-while-revalidate=86400
+
+# JSON chunks & exams
+/data/chunks/*
+  Cache-Control: public, max-age=604800, stale-while-revalidate=604800
+
+/data/*
+  Cache-Control: public, max-age=604800, stale-while-revalidate=604800
+
+# Global Security & Performance Headers
+/*
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: DENY
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=()
+  Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+  Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net; style-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net; font-src 'self' data: https://cdn.jsdelivr.net; img-src 'self' data: blob: https:; frame-src https://www.desmos.com; connect-src 'self' https://translate.googleapis.com; frame-ancestors 'none'; base-uri 'self'; form-action 'self'
+  X-DNS-Prefetch-Control: on
+  Cross-Origin-Opener-Policy: same-origin
+  Cross-Origin-Resource-Policy: same-origin

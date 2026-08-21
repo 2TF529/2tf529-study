@@ -1,0 +1,49 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+const v = '20260821-2';
+---
+
+<BaseLayout
+  title="Ủng hộ dự án — 2TF529"
+  description="Ủng hộ dự án 2TF529 — web thi thử miễn phí, không quảng cáo, không thu phí."
+  canonical="https://2tf529.id.vn/ung-ho.html"
+  ogTitle="Ủng hộ dự án — 2TF529"
+  ogDesc="Ủng hộ giúp duy trì web thi thử miễn phí cho mọi học sinh."
+  activeNav="ung-ho"
+>
+  <slot slot="header-title"><h1>Giao diện thi trên máy tính</h1></slot>
+  <slot slot="header-badge"><div class="badge">ỦNG HỘ DỰ ÁN</div></slot>
+
+  <div class="container" style="max-width:760px;">
+    <div class="page-title">Ủng hộ dự án</div>
+
+    <div class="hero-card" style="text-align:left;padding:32px 28px;margin-bottom:24px;">
+      <p style="font-size:15px;line-height:1.7;margin-top:0;color:var(--ink-900);">
+        Toàn bộ đề thi trên đây được xây dựng và duy trì hoàn toàn miễn phí, không quảng cáo, không thu phí truy cập dưới bất kỳ hình thức nào. Nếu web đã giúp ích được cho việc học của bạn, một phần ủng hộ nhỏ — dù không bắt buộc — sẽ giúp nhóm duy trì tên miền, hạ tầng lưu trữ, và có thêm thời gian để cập nhật đề mới đều đặn hơn.
+      </p>
+
+      <div class="callout" style="margin:20px 0;padding:12px 16px;background:var(--blue-50);border-radius:var(--radius-sm);font-size:13.5px;line-height:1.6;">
+        💡 Khoản ủng hộ, nếu có, được dùng cho: gia hạn tên miền hằng năm, chi phí hạ tầng khi lượng truy cập tăng lên, và kiểm tra, biên tập đề thi của nhóm.
+      </div>
+
+      <div class="callout" style="margin-bottom:0;padding:12px 16px;background:var(--card);border:1px solid var(--line);border-radius:var(--radius-sm);font-size:13.5px;line-height:1.6;">
+        🤝 Đây hoàn toàn là tự nguyện. Không ủng hộ, bạn vẫn được sử dụng đầy đủ mọi tính năng của web như bình thường — không có gì bị giới hạn hay khoá lại vì lý do này.
+      </div>
+    </div>
+
+    <div class="result-card" style="margin:0 auto 32px;max-width:380px;padding:28px 24px;">
+      <h3 style="margin-top:0;margin-bottom:16px;color:var(--navy-800);font-size:16px;">Quét mã QR để ủng hộ</h3>
+      <div style="background:#fff;padding:12px;border-radius:var(--radius);border:1px solid var(--line);display:inline-block;box-shadow:var(--shadow-sm);">
+        <picture>
+          <source srcset="/assets/donate-qr.webp" type="image/webp">
+          <img src="/assets/donate-qr.png" alt="Mã QR ủng hộ dự án" width="240" height="240"
+               style="width:240px;max-width:100%;height:auto;display:block;margin:0 auto;border-radius:4px;"
+               loading="lazy" decoding="async">
+        </picture>
+      </div>
+      <p style="margin:16px 0 0;font-size:13.5px;color:var(--ink-500);line-height:1.5;">
+        Cảm ơn bạn đã đồng hành cùng dự án, dù có ủng hộ hay không.
+      </p>
+    </div>
+  </div>
+</BaseLayout>

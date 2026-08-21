@@ -2,6 +2,7 @@
   "name": "2tf529-study-web",
   "compatibility_date": "2025-01-01",
   "assets": {
-    "directory": "."
+    // Sau khi Astro build, output nằm trong dist/
+    "directory": "./dist"
   }
 }

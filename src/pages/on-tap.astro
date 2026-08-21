@@ -1,0 +1,45 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+const v = '20260821-2';
+---
+
+<BaseLayout
+  title="Ôn tập theo dạng + chương — 2TF529"
+  description="Ôn luyện theo từng dạng bài, chương học. Tùy chọn số câu và thời gian. Miễn phí."
+  canonical="https://2tf529.id.vn/on-tap.html"
+  ogTitle="Ôn tập theo dạng + chương — 2TF529"
+  ogDesc="Ôn luyện theo từng dạng bài, chương học. Tùy chọn số câu và thời gian. Miễn phí."
+  pageScripts={[`/js/ontap.js?v=${v}`]}
+  activeNav="on-tap"
+>
+  <slot slot="header-title"><h1>Giao diện thi trên máy tính</h1></slot>
+  <slot slot="header-badge"><div class="badge">ÔN THEO DẠNG + CHƯƠNG</div></slot>
+
+  <div class="container">
+    <div class="page-title">Ôn tập theo dạng bài + chương</div>
+
+    <div class="filter-bar">
+      <select id="f-grade"><option value="">-- Khối lớp --</option></select>
+      <select id="f-subject"><option value="">-- Môn học --</option></select>
+      <select id="f-chuong" disabled><option value="">-- Chương / chủ đề --</option></select>
+    </div>
+
+    <div id="dang-chips" class="dang-chips"></div>
+
+    <div id="setup-panel" class="setup-panel" style="display:none;">
+      <div class="setup-row">
+        <label>Số câu muốn luyện</label>
+        <input type="number" id="f-count" min="1" value="20">
+        <span class="mono" id="available-count"></span>
+      </div>
+      <div class="setup-row">
+        <label>Thời gian làm bài (phút)</label>
+        <input type="number" id="f-duration" min="1" value="30">
+      </div>
+      <button class="btn" id="start-btn" style="width:100%;margin-top:14px;">Bắt đầu ôn tập</button>
+    </div>
+
+    <div id="result-count" class="result-count"></div>
+    <div id="topic-list" class="topic-list"></div>
+  </div>
+</BaseLayout>

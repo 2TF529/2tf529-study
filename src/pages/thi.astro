@@ -1,0 +1,93 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+const v = '20260821-2';
+---
+
+<BaseLayout
+  title="Làm bài thi — 2TF529"
+  description="Phòng thi trực tuyến. Làm bài thi thật với đồng hồ đếm ngược, đánh dấu câu hỏi, xem kết quả ngay."
+  noindex={true}
+  pageScripts={[`/js/exam.js?v=${v}`]}
+  activeNav={undefined}
+>
+  <slot slot="header-title"><h1 id="exam-title-header">Giao diện làm bài thi</h1></slot>
+  <slot slot="header-badge"><div class="badge" id="exam-type-badge"></div></slot>
+
+  <!-- KaTeX cho công thức Toán/Lý/Hóa -->
+  <Fragment slot="head">
+    <link rel="preload" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" as="style" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" crossorigin="anonymous">
+    <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+    <script is:inline>
+      window.loadKaTeX = function() {
+        if (window._katexLoading) return window._katexLoading;
+        window._katexLoading = new Promise(function(resolve) {
+          var s = document.createElement('script');
+          s.src = 'https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js';
+          s.crossOrigin = 'anonymous'; s.async = true;
+          s.onload = function() {
+            var ar = document.createElement('script');
+            ar.src = 'https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js';
+            ar.crossOrigin = 'anonymous'; ar.async = true;
+            ar.onload = resolve;
+            document.head.appendChild(ar);
+          };
+          document.head.appendChild(s);
+        });
+        return window._katexLoading;
+      };
+      if ('requestIdleCallback' in window) {
+        requestIdleCallback(function() { window.loadKaTeX(); }, { timeout: 2000 });
+      } else {
+        setTimeout(function() { window.loadKaTeX(); }, 1000);
+      }
+    </script>
+  </Fragment>
+
+  <div class="exam-topbar">
+    <div class="candidate-info">
+      <span class="status-dot"></span>Đang kết nối &nbsp;|&nbsp;
+      Thí sinh: <b>Khách (không cần đăng nhập)</b> &nbsp;|&nbsp;
+      Môn thi: <b id="candidate-subject">-</b>
+    </div>
+    <div class="timer-box">
+      <span class="timer-label">Thời gian còn lại</span>
+      <span class="timer" id="timer">--:--</span>
+    </div>
+  </div>
+  <div class="progress-track"><div class="progress-fill" id="progress-fill"></div></div>
+
+  <div id="exam-loading" class="container"><p>Đang tải đề thi...</p></div>
+
+  <div id="exam-body" class="exam-body" style="display:none;">
+    <div class="question-panel">
+      <div id="passage-slot"></div>
+      <div class="question-head">
+        <div class="qnum" id="question-number"></div>
+        <button class="btn secondary" id="flag-btn" style="font-size:12px;padding:6px 12px;">Đánh dấu câu hỏi</button>
+      </div>
+      <div class="question-content" id="question-content"></div>
+      <div id="question-answer-area"></div>
+      <div class="nav-row">
+        <button class="btn secondary" id="prev-btn">&larr; Câu trước</button>
+        <button class="btn" id="next-btn">Câu tiếp &rarr;</button>
+      </div>
+    </div>
+
+    <div class="side-panel">
+      <div class="side-title">Danh sách câu hỏi <span class="count" id="answered-count"></span></div>
+      <div class="qgrid" id="qgrid"></div>
+      <div class="legend">
+        <div><span class="dot" style="background:var(--green-600);"></span>Đã trả lời</div>
+        <div><span class="dot" style="background:var(--blue-500);"></span>Đang xem</div>
+        <div><span class="dot" style="background:var(--white);border:1px solid var(--line);box-shadow:0 0 0 2px var(--amber-600) inset;"></span>Đã đánh dấu</div>
+        <div><span class="dot" style="background:var(--white);border:1px solid var(--line);"></span>Chưa trả lời</div>
+      </div>
+      <div class="submit-bar">
+        <button class="btn" id="submit-btn">Nộp bài</button>
+      </div>
+    </div>
+  </div>
+
+  <div id="result-slot"></div>
+</BaseLayout>

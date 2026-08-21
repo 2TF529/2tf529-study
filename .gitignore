@@ -5,6 +5,11 @@ __pycache__/
 .ruff_cache/
 .cache/
 node_modules/
+dist/
+.astro/
+
+# public/data là junction trỏ đến data/ — không cần git track riêng
+public/data
 
 # Temporary downloads and crawler/recovery workspaces
 .drive_inbox_*/
