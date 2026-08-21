@@ -1,6 +1,11 @@
 {
+  "$schema": "./node_modules/wrangler/config-schema.json",
   "name": "2tf529-study-web",
   "compatibility_date": "2025-01-01",
+  "build": {
+    // Cloudflare đang gọi thẳng `wrangler deploy`, vì vậy cần build Astro trước.
+    "command": "npm run build"
+  },
   "assets": {
     // Sau khi Astro build, output nằm trong dist/
     "directory": "./dist"
