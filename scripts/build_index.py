@@ -52,7 +52,8 @@ def find_exam_files():
     files = []
     for dirpath, dirnames, filenames in os.walk(DATA_DIR):
         # Bỏ qua thư mục mẫu - không phải đề thật
-        dirnames[:] = [d for d in dirnames if d != "_template"]
+        # `_template` và `chunks` chứa schema/index sinh tự động, không phải đề thi.
+        dirnames[:] = [d for d in dirnames if d not in {"_template", "chunks"}]
         for fn in filenames:
             if not fn.endswith(".json"):
                 continue

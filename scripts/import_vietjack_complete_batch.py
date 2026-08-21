@@ -247,7 +247,16 @@ def parse_questions(prompt_blocks: list[Tag], solution_blocks: list[Tag], base_u
         if len(BeautifulSoup(content, "html.parser").get_text(" ", strip=True)) < 3 and "[[VJIMG:" not in content:
             return None
         if options:
-            if len(options) != 4 or len({BeautifulSoup(x, "html.parser").get_text(" ", strip=True) for x in options}) != 4:
+            normalized_options = {
+                re.sub(
+                    r"^\s*[A-D]\s*[.)]\s*",
+                    "",
+                    BeautifulSoup(x, "html.parser").get_text(" ", strip=True),
+                    flags=re.I,
+                ).strip().casefold()
+                for x in options
+            }
+            if len(options) != 4 or len(normalized_options) != 4:
                 return None
             prompt_folded = fold(BeautifulSoup(content, "html.parser").get_text(" ", strip=True))
             if "dung hoac sai" in prompt_folded or "moi y a" in prompt_folded:
@@ -490,7 +499,13 @@ def save_exam(title: str, meta, number: int, questions, source_url: str, fingerp
                                for x in q["statements"]]
             if any(not x for x in q["statements"]):
                 return None
-    answered = sum(q.get("answer") not in (None, "") for q in questions)
+    def has_answer(question) -> bool:
+        answer = question.get("answer")
+        if question.get("type") == "true_false":
+            return isinstance(answer, list) and len(answer) == len(question.get("statements", [])) and bool(answer)
+        return answer not in (None, "")
+
+    answered = sum(has_answer(q) for q in questions)
     answer_source = "official" if answered == len(questions) else ("partial" if answered else "missing")
     duration_match = re.search(r"Thời gian làm bài\s*:?\s*(\d{2,3})\s*phút", fold(title), re.I)
     duration = int(duration_match.group(1)) if duration_match else (90 if subject in {"toan", "van"} else 45)
