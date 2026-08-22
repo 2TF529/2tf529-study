@@ -49,7 +49,7 @@
     {
       "id": 6,
       "type": "short_answer",
-      "content": "<strong>6 trang 109 SGK Toán 11 tập 1</strong>\n\nCho tam giác vuông ABC vuông tại A, có AB = h và góc B bằng $\\alpha $ (H.5.3). Từ A kẻ $A{A_1} \\bot BC$, từ ${A_1}$ kẻ ${A_1}{A_2} \\bot AC$, sau đó lại kẻ ${A_2}{A_3} \\bot BC$. Tiếp tục quá trình trên, ta được đường gấp khúc vô hạn $A{A_1}{A_2}{A_3} \\ldots $. Tính độ dài đường gấp khúc này theo h và $\\alpha $.\n\n\n\n\n<figure class=\"question-figure\"><img src=\"data/l11/toan/khaosat/assets/l11-toan-khaosat-2026-bai-15-gioi-han-cua-day-so-756/hinh-01.webp\" alt=\"Hình minh họa\" loading=\"lazy\"></figure>",
+      "content": "<strong>6 trang 109 SGK Toán 11 tập 1</strong>\n\nCho tam giác vuông ABC vuông tại A, có AB = h và góc B bằng $\\alpha $ (H.5.3). Từ A kẻ $A{A_1} \\bot BC$, từ ${A_1}$ kẻ ${A_1}{A_2} \\bot AC$, sau đó lại kẻ ${A_2}{A_3} \\bot BC$. Tiếp tục quá trình trên, ta được đường gấp khúc vô hạn $A{A_1}{A_2}{A_3} \\ldots $. Tính độ dài đường gấp khúc này theo h và $\\alpha $.\n\n\n\n\n<figure class=\"question-figure\"><img src=\"https://cdn.jsdelivr.net/gh/2TF529/2tf529-assets@main/l11/toan/khaosat/assets/l11-toan-khaosat-2026-bai-15-gioi-han-cua-day-so-756/hinh-01.webp\" alt=\"Hình minh họa\" loading=\"lazy\"></figure>",
       "answer": null,
       "explanation": "​\nĐộ dài đường gấp khúc tạo thành cấp số nhân với số hạng tổng quát là:\n\n${u_n} = \\sin\\alpha \\times h \\times {\\left( {\\sin\\alpha } \\right)^{n - 1}}$.\n\nĐộ dài đường gập khúc: $A{A_1} + {A_2}{A_3} + \\ldots $.\n\nĐây là tổng cấp số nhân lùi vô hạn với ${u_1} = \\sin\\alpha \\times h$, $q = \\sin\\alpha $.\n\nNên $A{A_1} + {A_2}{A_3} + \\ldots = \\frac{{\\sin\\alpha \\times h}}{{1 - \\sin\\alpha }}$."
     }
