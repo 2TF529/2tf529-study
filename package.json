@@ -7,7 +7,10 @@
     "build": "astro build && node scripts/copy-data-to-dist.mjs",
     "deploy": "wrangler deploy",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "upload-r2": "node scripts/upload-webp-to-r2.mjs",
+    "rewrite-urls": "node scripts/rewrite-image-urls.mjs",
+    "setup-assets": "node scripts/setup-github-assets.mjs"
   },
   "dependencies": {
     "astro": "^4.16.0"
@@ -16,6 +19,7 @@
     "node": ">=18.0.0"
   },
   "devDependencies": {
+    "@aws-sdk/client-s3": "^3.1116.0",
     "wrangler": "^4.125.0"
   }
 }

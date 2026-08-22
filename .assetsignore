@@ -6,3 +6,6 @@ scripts/**
 __pycache__/**
 .vscode/**
 scratch/**
+# Ảnh WebP đã chuyển sang Cloudflare R2 — không upload vào Workers assets
+data/**/assets/**
+data/**/assets/
