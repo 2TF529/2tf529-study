@@ -1,0 +1,57 @@
+{
+  "id": "l11-toan-khaosat-2026-bai-13-hai-mat-phang-song-song-754",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "code": "Đề 01",
+  "title": "Bài 13. Hai mặt phẳng song song",
+  "duration": 90,
+  "answerSource": "missing",
+  "sourceUrl": "https://sieugioi.com/docs/threads/bai-13-hai-mat-phang-song-song.754/",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "type": "short_answer",
+      "content": "<strong>22 trang 94 SGK Toán 11 tập 1</strong>\n\nCho hình lăng trụ tam giác ABC.A’B’C’. Gọi M, N, P lần lượt là trung điểm của các cạnh AA’, BB’, CC’. Chứng minh rằng mặt phẳng (MNP) song song với mặt phẳng (ABC).",
+      "answer": null,
+      "explanation": "[[SGIMG:25:https://sieugioi.com/docs/attachments/1784020202292-png.6046/]]\n\n\nTa có: ABB'A' là hình bình hành, M, N là trung điểm của AA', BB' nên MN // AB (đường trung bình) suy ra MN // (ABC).\n\nTương tự, ta có NP // BC suy ra NP// (ABC).\n\nMặt phẳng (MNP) chứa hai đường thẳng cắt nhau MN, NP và MN, NP song song với mp(ABC) suy ra (MNP) // (ABC)."
+    },
+    {
+      "id": 2,
+      "type": "short_answer",
+      "content": "<strong>23 trang 94 SGK Toán 11 tập 1</strong>\n\nCho hình thang ABCD có hai đáy AB và CD. Qua các điểm A, D lần lượt vẽ các đường thẳng m, n song song với nhau và không nằm trong mặt phẳng (ABCD). Chứng minh rằng mp(B, m) và mp(C, n) song song với nhau.",
+      "answer": null,
+      "explanation": "[[SGIMG:26:https://sieugioi.com/docs/attachments/1784020215950-png.6047/]]\n\n\nTa có: m // n suy ra m // (C, n).\n\nCó: AB // CD (do ABCD là hình thang) suy ra AB // (C, n).\n\nMặt phẳng (B, m) chứa hai đường thẳng cắt nhau m và AB song song với mp(C, n) suy ra (B, m) // (C, n)."
+    },
+    {
+      "id": 3,
+      "type": "short_answer",
+      "content": "<strong>24 trang 94 SGK Toán 11 tập 1</strong>\n\nCho hình tứ diện SABC. Trên cạnh SA lấy các điểm ${A_1},{A_2}$ sao cho $A{A_1} = {A_1}{A_2} = {A_2}S$. Gọi (P) và (Q) là hai mặt phẳng song song với mặt phẳng (ABC) và lần lượt đi qua ${A_1},{A_2}$. Mặt phẳng (P) cắt các cạnh SB, SC lần lượt tại ${B_1},{C_1}$. Mặt phẳng (Q) cắt các cạnh SB, SC lần lượt tại ${B_2},{C_2}$. Chứng minh $B{B_1} = {B_1}{B_2} = {B_2}S$ và $C{C_1} = {C_1}{C_2} = {C_2}S$.",
+      "answer": null,
+      "explanation": "[[SGIMG:27:https://sieugioi.com/docs/attachments/1784020250280-png.6048/]]\n\n\nÁp dụng định lí Thales cho ba mặt phẳng (ABC), (P), (Q) và hai cát tuyến SA, SC ta có:\n\n$\\frac{{{C_2}S}}{{{A_2}S}} = \\frac{{{C_1}{C_2}}}{{{A_1}{A_{2}}}} = \\frac{{C{C_1}}}{{A{A_1}}}$ mà $A{A_1} = {A_1}{A_2} = {A_2}S$.\n\nSuy ra $C{C_1} = {C_1}{C_2} = {C_2}S$.\n\nÁp dụng định lí Thales cho ba mặt phẳng (ABC), (P), (Q) và hai cát tuyến SA, SB ta có:\n\n$\\frac{{{B_2}S}}{{{A_2}S}} = \\frac{{{B_1}{B_2}}}{{{A_1}{A_2}}} = \\frac{{B{B_1}}}{{A{A_1}}}$ mà $A{A_1} = A{A_2} = {A_2}S$.\n\nSuy ra $B{B_1} = {B_1}{B_2} = {B_2}S$."
+    },
+    {
+      "id": 4,
+      "type": "short_answer",
+      "content": "<strong>25 trang 94 SGK Toán 11 tập 1</strong>\n\nCho hình lăng trụ tứ giác ABCD. A’B’C’D’. Một mặt phẳng song song với mặt phẳng (A’B’C’D’) cắt các cạnh bên của hình lăng trụ lần lượt tại A”, B”, C”, D”. Hỏi hình tạo bởi các điểm A, B, C, D, A”, B”, C”, D” là hình gì?",
+      "answer": null,
+      "explanation": "[[SGIMG:28:https://sieugioi.com/docs/attachments/1784020274510-png.6049/]]\n\n\nVì các cạnh bên của hình lăng trụ ABCD.A'B'C'D' đôi một song song nên AA\", BB\", CC\" đôi một song song.\n\nMặt phẳng (ABCD) song song với (A\"B\"C\"D\") (do cùng song song với (A'B'C'D')) nên ABCD.A\"B\"C\"D\" là hình lăng trụ tứ giác."
+    },
+    {
+      "id": 5,
+      "type": "short_answer",
+      "content": "<strong>26 trang 94 SGK Toán 11 tập 1</strong>\n\nCho hình lăng trụ tam giác ABC.A’B’C’. Gọi G và G’ lần lượt là trọng tâm của hai tam giác ABC và A’B’C’.\n\na) Chứng minh rằng tứ giác AGG’A’ là hình bình hành.\n\nb) Chứng minh rằng AGC.A’G’C’ là hình lăng trụ.",
+      "answer": null,
+      "explanation": "[[SGIMG:29:https://sieugioi.com/docs/attachments/1784020316802-png.6050/]]\n\n\na) Ta có ABC.A'B'C' là hình lăng trụ nên $\\Delta ABC = \\Delta A'B'C'$ suy ra AG = A'G'.\n\nLại có (ABC) // (A'B'C'), giao tuyến của mp(AGG'A') với (ABC) và (A'B'C') lần lượt là AG, A'G' suy ra AG // A'G'.\n\nNhư vậy , tứ giác AGG'A' có AG = A'G', AG // A'G' là hình bình hành.\n\nb) AGG'A' là hình bình hành suy ta AA' // GG'.\n\nLại có AA' // CC' (do ABC.A'B'C' là hình lăng trụ).\n\nMặt phẳng (AGC) // (A'G'C') suy ra AGC.A'G'C' là hình lăng trụ."
+    },
+    {
+      "id": 6,
+      "type": "short_answer",
+      "content": "<strong>28 trang 94 SGK Toán 11 tập 1</strong>\n\nCầu thang xương cá là dạng cầu thang có hình dáng tương tự như những đốt xương cá, thường có những bậc thang với khoảng mở lớn, tạo được sự nhẹ nhàng và thoáng đãng cho không gian sống. Trong Hình 4.55, phần mép của mỗi bậc thang, nằm trên tường song song với nhau. Hãy giải thích tại sao.\n\n\n\n\n<figure class=\"question-figure\"><img src=\"data/l11/toan/khaosat/assets/l11-toan-khaosat-2026-bai-13-hai-mat-phang-song-song-754/hinh-01.webp\" alt=\"Hình minh họa\" loading=\"lazy\"></figure>",
+      "answer": null,
+      "explanation": "​\nCác mặt của bậc thang đều song song với mặt sàn nên chúng đôi một song song với nhau.\n\nMặt phẳng tường cắt các mặt bậc thang tại các mép nằm trên bờ tường nên chúng song song với nhau."
+    }
+  ]
+}

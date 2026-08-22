@@ -1,0 +1,175 @@
+{
+  "id": "l11-toan-khaosat-2026-bai-tap-cuoi-chuong-v-gioi-han-ham-so-lien-tuc-1185",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "code": "Đề 01",
+  "title": "Bài tập cuối chương V: Giới hạn.Hàm số liên tục",
+  "duration": 90,
+  "answerSource": "missing",
+  "sourceUrl": "https://sieugioi.com/docs/threads/bai-tap-cuoi-chuong-v-gioi-han-ham-so-lien-tuc.1185/",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "<strong>18 trang 123 SGK Toán 11 tập 1</strong>\n\nCho dãy số $\\left( {{u_n}} \\right)$ với ${u_n} = \\sqrt {{n^2} + 1} - \\sqrt n $. Mệnh đề đúng là",
+      "options": [
+        "A. $\\mathop {\\lim }\\limits_{n \\to + \\infty } {u_n} = - \\infty $",
+        "B. $\\mathop {\\lim }\\limits_{n \\to + \\infty } {u_n} = 1$",
+        "C. $\\mathop {\\lim }\\limits_{n \\to + \\infty } {u_n} = + \\infty $",
+        "D. $\\mathop {\\lim }\\limits_{n \\to + \\infty } {u_n} = 0$"
+      ],
+      "answer": null,
+      "explanation": "​\nĐáp án: C"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "<strong>19 trang 123 SGK Toán 11 tập 1</strong>\n\nCho ${u_n} = \\frac{{2 + {2^2} + \\ldots + {2^n}}}{{{2^n}}}$. Giới hạn của dãy số $\\left( {{u_n}} \\right)$ bằng",
+      "options": [
+        "A. 1",
+        "B. 2",
+        "C. -1",
+        "D. 0"
+      ],
+      "answer": null,
+      "explanation": "​\nTa có: $2 + {2^2} + ... + {2^n}$ là tổng của n số hạng đầu của cấp số nhân với số hạng đầu là ${u_1} = 2$, $q = 2$.\n\nDo đó, $2 + {2^2} + ... + {2^n} = \\frac{{2.(1 - {2^n})}}{{1 - 2}} = - 2(1 - {2^n})$.\n\nKhi đó, ${u_n} = \\frac{{2 + {2^2} + ... + {2^n}}}{{{2^n}}} = \\frac{{ - 2(1 - {2^n})}}{{{2^n}}} = \\frac{{{2^n} - 1}}{{{2^{n - 1}}}} = 2 - \\frac{1}{{{2^{n - 1}}}}$.\n\nVậy $\\mathop {\\lim }\\limits_{n \\to + \\infty } {u_n} = \\mathop {\\lim }\\limits_{n \\to + \\infty } \\left( {2 - \\frac{1}{{{2^{n - 1}}}}} \\right) = 2$.\n\nĐáp án: B."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "<strong>20 trang 123 SGK Toán 11 tập 1</strong>\n\nCho cấp số nhân lùi vô hạn $\\left( {{u_n}} \\right)$ với ${u_n} = \\frac{2}{{{3^n}}}$. Tổng của cấp số nhân này bằng",
+      "options": [
+        "A. 3",
+        "B. 2",
+        "C. 1",
+        "D. 6"
+      ],
+      "answer": null,
+      "explanation": "​\n${u_n} = \\frac{2}{{{3^n}}}$ có ${u_1} = \\frac{2}{3}$, $q = \\frac{1}{3}$.\n\n$S = \\frac{{{u_1}}}{{1 - q}} = \\frac{{\\frac{2}{3}}}{{1 - \\frac{1}{3}}} = 1$.\n\nĐáp án: C"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "<strong>21 trang 123 SGK Toán 11 tập 1</strong>\n\nCho hàm số $f\\left( x \\right) = \\sqrt {x + 1} - \\sqrt {x + 2} $. Mệnh đề đúng là",
+      "options": [
+        "A. $\\mathop {\\lim }\\limits_{x \\to + \\infty } f\\left( x \\right) = - \\infty $",
+        "B. $\\mathop {\\lim }\\limits_{x \\to + \\infty } f\\left( x \\right) = 0$",
+        "C. $\\mathop {\\lim }\\limits_{x \\to + \\infty } f\\left( x \\right) = - 1$",
+        "D. $\\mathop {\\lim }\\limits_{x \\to + \\infty } f\\left( x \\right) = - \\frac{1}{2}$"
+      ],
+      "answer": null,
+      "explanation": "​\nTa có:\n\n$\\mathop {\\lim }\\limits_{x \\to {\\rm{\\;}} + \\infty } \\left( {\\sqrt {x + 1} {\\rm{\\;}} - \\sqrt {x + 2} } \\right) = \\mathop {\\lim }\\limits_{x \\to {\\rm{\\;}} + \\infty } \\frac{{\\left( {\\sqrt {x + 1} {\\rm{\\;}} - \\sqrt {x + 2} } \\right)\\left( {\\sqrt {x + 1} + \\sqrt {x + 2} } \\right)}}{{\\sqrt {x + 1} {\\rm{\\;}} + \\sqrt {x + 2} }} = \\mathop {\\lim }\\limits_{x \\to {\\rm{\\;}} + \\infty } \\frac{{x + 1 - x - 2}}{{\\sqrt {x + 1} {\\rm{\\;}} + \\sqrt {x + 2} }} = \\mathop {\\lim }\\limits_{x \\to {\\rm{\\;}} + \\infty } \\frac{{ - 1}}{{\\sqrt {x + 1} {\\rm{\\;}} + \\sqrt {x + 2} }} = \\mathop {\\lim }\\limits_{x \\to {\\rm{\\;}} + \\infty } \\frac{{ - 1}}{{x\\sqrt {1 + \\frac{1}{x}} {\\rm{\\;}} + x\\sqrt {1 + \\frac{2}{x}} }} = \\mathop {\\lim }\\limits_{x \\to {\\rm{\\;}} + \\infty } \\frac{{\\frac{{ - 1}}{x}}}{{\\sqrt {1 + \\frac{1}{x}} {\\rm{\\;}} + \\sqrt {1 + \\frac{2}{x}} }} = \\frac{0}{2} = 0$.\n\nĐáp án: B."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "<strong>22 trang 123 SGK Toán 11 tập 1</strong>\n\nCho hàm số $f\\left( x \\right) = \\frac{{x - {x^2}}}{{\\left| x \\right|}}$. Khi đó $\\mathop {\\lim }\\limits_{x \\to + {0^ + }} f\\left( x \\right)$ bằng",
+      "options": [
+        "A. 0",
+        "B. 1",
+        "C. $ + \\infty $",
+        "D. -1"
+      ],
+      "answer": null,
+      "explanation": "​\nVì $x \\to {0^ + }$ nên x &gt; 0, suy ra $\\left| x \\right| = x$.\n\n$\\mathop {\\lim }\\limits_{x \\to {0^ + }} f(x) = \\mathop {\\lim }\\limits_{x \\to {0^ + }} \\frac{{x - {x^2}}}{{\\left| x \\right|}} = \\mathop {\\lim }\\limits_{x \\to {0^ + }} \\frac{{x\\left( {1 - x} \\right)}}{x}= \\mathop {\\lim }\\limits_{x \\to {0^ + }} (1 - x) = 1 - 0 = 1$.\n\nĐáp án: B"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "<strong>23 trang 123 SGK Toán 11 tập 1</strong>\n\nCho hàm số $f\\left( x \\right) = \\frac{{x + 1}}{{\\left| {x + 1} \\right|}}$. Hàm só $f\\left( x \\right)$ liên tục trên",
+      "options": [
+        "A. $\\left( { - \\infty ;\\; + \\infty } \\right)$",
+        "B. $\\left( { - \\infty ;\\; - 1} \\right]$",
+        "C. $\\left( { - \\infty ;\\; - 1} \\right) \\cup \\left( { - 1;\\; + \\infty } \\right)$",
+        "D. $\\left[ { - 1;\\; + \\infty } \\right)$"
+      ],
+      "answer": null,
+      "explanation": "​\nĐáp án: C."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "<strong>24 trang 123 SGK Toán 11 tập 1</strong>\n\nCho hàm số $\\left\\{ \\begin{array}{l}\\frac{{{x^2} + x - 2}}{{x - 1}},x \\ne 1\\\\a,x = 1\\end{array} \\right.$. Hàm số $f\\left( x \\right)$ liên tục tại $x = 1$ khi",
+      "options": [
+        "A. $a = 0$",
+        "B. $a = 3$",
+        "C. $a = - 1$",
+        "D. $a = 1$"
+      ],
+      "answer": null,
+      "explanation": "​\n$\\mathop {\\lim }\\limits_{x \\to 1} \\frac{{{x^2} + x - 2}}{{x - 1}} = \\mathop {\\lim }\\limits_{x \\to 1} \\left( {x + 2} \\right) = 3$.\n\nĐể $f\\left( x \\right)$ liên tục tại $x = 1$ thì $\\mathop {\\lim }\\limits_{x \\to 1} \\left( a \\right) = f\\left( 1 \\right)$.\n\nSuy ra $a = 3$.\n\nĐáp án: B"
+    },
+    {
+      "id": 8,
+      "type": "short_answer",
+      "content": "<strong>25 trang 124 SGK Toán 11 tập 1</strong>\n\nCho dãy số $\\left( {{u_n}} \\right)$ có tính chất $\\left| {{u_n} - 1} \\right| &lt; \\frac{2}{n}$. Có kết luận gì về giới hạn của dãy số này?",
+      "answer": null,
+      "explanation": "​\n$\\left| {{u_n} - 1} \\right| &lt; \\frac{2}{n}$.\n\n$ - \\frac{2}{n} &lt; {u_n} - 1 &lt; \\frac{2}{n}$.\n\n$ - \\frac{2}{n} + 1 &lt; {u_n} &lt; \\frac{2}{n} + 1$.\n\n$\\lim \\left( { - \\frac{2}{n} + 1} \\right) = 1$; $\\lim \\left( {\\frac{2}{n} + 1} \\right) = 1$.\n\n$ \\Rightarrow \\lim {u_n} = 1$."
+    },
+    {
+      "id": 9,
+      "type": "short_answer",
+      "content": "<strong>26 trang 124 SGK Toán 11 tập 1</strong>\n\nTìm giới hạn của các dãy số sau:\n\na) ${u_n} = \\frac{{{n^2}}}{{3{n^2} + 7n - 2}}$;\n\nb) ${v_n} = \\mathop \\sum \\limits_{k = 0}^n \\frac{{{3^k} + {5^k}}}{{{6^k}}}$;\n\nc) ${w_n} = \\frac{{\\sin n}}{{4n}}$.",
+      "answer": null,
+      "explanation": "​\na) $\\lim {u_n} = \\lim \\frac{{{n^2}}}{{3{n^2} + 7n - 2}} = \\lim \\left( {\\frac{1}{{3 + \\frac{7}{n} - \\frac{2}{{{n^2}}}}}} \\right) = \\frac{1}{3}$.\n\nb) ${v_n} = \\mathop \\sum \\limits_{k = 0}^n \\frac{{{3^k} + {5^k}}}{{{6^k}}} = \\frac{{{3^0} + {5^0}}}{{{6^0}}} + \\frac{{{3^1} + {5^1}}}{{{6^1}}} + ... + \\frac{{{3^n} + {5^n}}}{{{6^n}}}= \\frac{{{3^0}}}{{{6^0}}} + \\frac{{{5^0}}}{{{6^0}}} + \\frac{{{3^1}}}{{{6^1}}} + \\frac{{{5^1}}}{{{6^1}}} + ... + \\frac{{{3^n}}}{{{6^n}}} + \\frac{{{5^n}}}{{{6^n}}}= \\left[ {\\left( {\\frac{{{3^0}}}{{{6^0}}} + \\frac{{{3^1}}}{{{6^1}}} + ... + \\frac{{{3^n}}}{{{6^n}}}} \\right)} \\right] + \\left[ {\\left( {\\frac{{{5^0}}}{{{6^0}}} + \\frac{{{5^1}}}{{{6^1}}} + ... + \\frac{{{5^n}}}{{{6^n}}}} \\right)} \\right]$.\n\nVì $\\frac{{{3^0}}}{{{6^0}}};\\frac{{{3^1}}}{{{6^1}}};...;\\frac{{{3^n}}}{{{6^n}}}$ là cấp số nhân có $\\left( {n + 1} \\right)$ số hạng với ${u_1} = \\frac{{{3^0}}}{{{6^0}}} = 1$, $q = \\frac{3}{6} = \\frac{1}{2}$. Do đó:\n\n$\\frac{{{3^0}}}{{{6^0}}} + \\frac{{{3^1}}}{{{6^1}}} + ... + \\frac{{{3^n}}}{{{6^n}}}= 1.\\frac{{1 - {{\\left( {\\frac{1}{2}} \\right)}^{n + 1}}}}{{1 - \\frac{1}{2}}} = 2 - 2.{\\left( {\\frac{1}{2}} \\right)^{n + 1}}= 2 - {\\left( {\\frac{1}{2}} \\right)^n}$.\n\nVì $\\frac{{{5^0}}}{{{6^0}}};\\frac{{{5^1}}}{{{6^1}}};...;\\frac{{{5^n}}}{{{6^n}}}$ là cấp số nhân có $\\left( {n + 1} \\right)$ số hạng với ${u_1} = \\frac{{{5^0}}}{{{6^0}}} = 1$, $q = \\frac{5}{6}$. Do đó:\n\n$\\frac{{{5^0}}}{{{6^0}}} + \\frac{{{5^1}}}{{{6^1}}} + ... + \\frac{{{5^n}}}{{{6^n}}} = 1.\\frac{{1 - {{\\left( {\\frac{5}{6}} \\right)}^{n + 1}}}}{{1 - \\frac{5}{6}}}= 6 - 6.{\\left( {\\frac{5}{6}} \\right)^{n + 1}} = 6 - 5.{\\left( {\\frac{5}{6}} \\right)^n}$.\n\nVậy ${v_n} = 2 - {\\left( {\\frac{1}{2}} \\right)^n} + 6 - 5.{\\left( {\\frac{5}{6}} \\right)^n}$.\n\n$= 8 - {\\left( {\\frac{1}{2}} \\right)^n} - 5.{\\left( {\\frac{5}{6}} \\right)^n}$.\n\nDo đó, $\\mathop {\\lim }\\limits_{n \\to + \\infty } {v_n} = \\mathop {\\lim }\\limits_{n \\to + \\infty } \\left[ {8 - {{\\left( {\\frac{1}{2}} \\right)}^n} - 5.{{\\left( {\\frac{5}{6}} \\right)}^n}} \\right] = 8$.\n\nc) Ta có:\n\n$0 \\le \\left| {\\sin n} \\right| \\le 1 \\Leftrightarrow 0 \\le \\left| {\\frac{{\\sin n}}{{4n}}} \\right| \\le \\frac{1}{{4n}}$.\n\nMà $\\mathop {\\lim }\\limits_{n \\to + \\infty } \\frac{1}{{4n}} = 0$ nên theo nguyên lý kẹp $\\mathop {\\lim }\\limits_{n \\to + \\infty } \\left| {\\frac{{\\sin n}}{{4n}}} \\right| = 0$."
+    },
+    {
+      "id": 10,
+      "type": "short_answer",
+      "content": "<strong>27 trang 124 SGK Toán 11 tập 1</strong>\n\nViết các số thập phân vô hạn tuần hoàn sau đây dưới dạng phân số.\n\na) $1,\\left( {01} \\right)$\n\nb) $5,\\left( {132} \\right)$",
+      "answer": null,
+      "explanation": "​\na) Ta có: $1.\\left( {01} \\right) = 1 + 0.01 + 0.0001 + 0.000001 + \\ldots = 1 + 1 \\times {10^{ - 2}} + 1 \\times {10^{ - 4}} + \\times {10^{ - 6}} + \\ldots 1 \\times {10^{ - 2}} + 1 \\times {10^{ - 4}} + \\times {10^{ - 6}} + \\ldots $ đây là tổng cấp số nhân lùi vô hạn với ${u_1} = 1 \\times {10^{ - 2}},\\;q = {10^{ - 2}}$.\n\nNên $1.\\left( {01} \\right) = \\frac{{{u_1}}}{{1 - q}} = \\frac{1}{{1 - {{10}^{ - 2}}}} = \\frac{{100}}{{99}}$.\n\nb) Ta có: $5.\\left( {132} \\right) = 5 + 0.132 + 0.000132 + 0.000000132 + \\ldots = 5 + 132 \\times {10^{ - 3}} + 132 \\times {10^{ - 6}} + 132 \\times {10^{ - 9}} + \\ldots 132 \\times {10^{ - 3}} + 132 \\times {10^{ - 6}} + 132 \\times {10^{ - 9}} + \\ldots $ đây là tổng của cấp số nhân lùi vô hạn với ${u_1} = 132 \\times {10^{ - 3}},\\;q = {10^{ - 3}}$.\n\nNên $5.\\left( {132} \\right) = 5 + \\frac{{{u_1}}}{{1 - q}} = 5+ \\frac{{132 \\times {{10}^{ - 3}}}}{{1 - {{10}^{ - 3}}}} = \\frac{{1709}}{{333}}$."
+    },
+    {
+      "id": 11,
+      "type": "true_false",
+      "content": "<strong>28 trang 124 SGK Toán 11 tập 1</strong>\n\nTính các giới hạn sau:",
+      "statements": [
+        "a) $\\mathop {{\\rm{lim}}}\\limits_{x \\to 7} \\frac{{\\sqrt {x + 2} - 3}}{{x - 7}}$;",
+        "b) $\\mathop {{\\rm{lim}}}\\limits_{x \\to 1} \\frac{{{x^3} - 1}}{{{x^2} - 1}}$;",
+        "c) $\\mathop {{\\rm{lim}}}\\limits_{x \\to 1} \\frac{{2 - x}}{{{{\\left( {1 - x} \\right)}^2}}}$;",
+        "d) $\\mathop {{\\rm{lim}}}\\limits_{x \\to - \\infty } \\frac{{x + 2}}{{\\sqrt {4{x^2} + 1} }}$."
+      ],
+      "answer": [],
+      "explanation": "​\na) $\\mathop {\\lim }\\limits_{x \\to 7} \\frac{{\\sqrt {x + 2} - 3}}{{x - 7}} = \\mathop {\\lim }\\limits_{x \\to 7} \\frac{1}{{\\sqrt {x + 2} + 3}} = \\frac{1}{6}$.\n\nb) $\\mathop {\\lim }\\limits_{x \\to 1} \\frac{{{x^3} - 1}}{{{x^2} - 1}} = \\mathop {\\lim }\\limits_{x \\to 1} \\frac{{{x^2} + x + 1}}{{x + 1}} = \\frac{3}{2}$.\n\nc) $\\mathop {\\lim }\\limits_{x \\to 1} \\frac{{2 - x}}{{{{\\left( {1 - x} \\right)}^2}}} = \\mathop {\\lim }\\limits_{x \\to 1} \\left[ {\\left( {2 - x} \\right)\\left( {\\frac{1}{{{{\\left( {1 - x} \\right)}^2}}}} \\right)} \\right]\\mathop {\\lim }\\limits_{x \\to 1} \\left( {2 - x} \\right) = 1$.\n\n$\\mathop {\\lim }\\limits_{x \\to 1} \\left( {\\frac{1}{{{{\\left( {1 - x} \\right)}^2}}}} \\right) = + \\infty \\Rightarrow \\mathop {\\lim }\\limits_{x \\to 1} \\frac{{2 - x}}{{{{\\left( {1 - x} \\right)}^2}}} = + \\infty $\n\nd) $\\mathop {\\lim }\\limits_{x \\to - \\infty } \\frac{{x + 2}}{{\\sqrt {4{x^2} + 1} }} = \\mathop {\\lim }\\limits_{x \\to - \\infty } \\frac{{1 + \\frac{2}{x}}}{{\\sqrt {4 + \\frac{1}{{{x^2}}}} }} = - \\frac{1}{2}$."
+    },
+    {
+      "id": 12,
+      "type": "short_answer",
+      "content": "<strong>29 trang 124 SGK Toán 11 tập 1</strong>\n\nTính các giới hạn một bên:\n\na) $\\mathop {\\lim }\\limits_{x \\to {3^ + }} \\frac{{{x^2} - 9}}{{\\left| {x - 3} \\right|}}$;\n\nb) $\\mathop {\\lim }\\limits_{x \\to {1^ - }} \\frac{x}{{\\sqrt {1 - x} }}$.",
+      "answer": null,
+      "explanation": "​\na) $x \\to {3^ + } \\Rightarrow x - 3 &gt; 0$.\n\n$\\mathop {\\lim }\\limits_{x \\to {3^ + }} \\frac{{{x^2} - 9}}{{\\left| {x - 3} \\right|}} = \\mathop {\\lim }\\limits_{x \\to {3^ + }} \\frac{{{x^2} - 9}}{{x - 3}} = \\mathop {\\lim }\\limits_{x \\to {3^ + }} \\left( {x + 3} \\right) = 6$.\n\nb) $\\mathop {\\lim }\\limits_{x \\to {1^ - }} x = 1$; $\\mathop {\\lim }\\limits_{x \\to {1^ - }} \\frac{1}{{\\sqrt {1 - x} }} = 0 $.\n\nMà $x \\to {1^ - } \\Rightarrow 1 - x &gt; 0 \\Rightarrow \\sqrt {1 - x} &gt; 0$.\n\nSuy ra $ \\mathop {\\lim }\\limits_{x \\to {1^ - }} \\frac{x}{{\\sqrt {1 - x} }} = + \\infty $.<strong>Bài 5.30 trang 124 SGK Toán 11 tập 1</strong>\n\nChứng minh rằng giới hạn $\\mathop {\\lim }\\limits_{x \\to 0} \\frac{{\\left| x \\right|}}{x}$ không tồn tại.\n\n\n<strong>Lời giải</strong>​\n$f\\left( x \\right) = \\mathop {\\lim }\\limits_{x \\to 0} \\frac{{\\left| x \\right|}}{x}$.\n\nTa lấy hai dãy của biến hội tụ về 0: $x_n^{\\left( 1 \\right)} = \\frac{1}{n}$; $x_n^{\\left( 2 \\right)} = - \\frac{1}{n}$.\n\nKhi đó: $\\lim f\\left( {x_n^{\\left( 1 \\right)}} \\right) = \\lim \\left( {\\frac{{\\frac{1}{n}}}{{\\frac{1}{n}}}} \\right) = 1$.\n\n$\\lim f\\left( {x_n^{\\left( 2 \\right)}} \\right) = \\lim \\left( {\\frac{{\\frac{1}{n}}}{{ - \\frac{1}{n}}}} \\right) = - 1$.\n\n$\\mathop {\\lim }\\limits_{x \\to + \\infty } \\left( {x_n^{\\left( 1 \\right)}} \\right) \\ne \\mathop {\\lim }\\limits_{x \\to + \\infty } \\left( {x_n^{\\left( 2 \\right)}} \\right)$.\n\nVậy không tồn tại $\\mathop {\\lim }\\limits_{x \\to 0} \\frac{{\\left| x \\right|}}{x}$."
+    },
+    {
+      "id": 13,
+      "type": "short_answer",
+      "content": "<strong>31 trang 124 SGK Toán 11 tập 1</strong>\n\nGiải thích tại sao các hàm số sau đây gián đoạn tại điểm đã cho\n\na) $f\\left( x \\right) = \\left\\{ {\\begin{array}{*{20}{c}}{\\frac{1}{x},\\;x \\ne 0}\\\\{1\\;,\\;x = 0}\\end{array}} \\right.$ gián đoạn tại $x = 0$.\n\nb) $g\\left( x \\right) = \\left\\{ {\\begin{array}{*{20}{c}}{1 + x\\;,\\;x &lt; 1}\\\\{2 - x\\;,x \\ge 1}\\end{array}} \\right.$ gián đoạn tại $x = 1$.",
+      "answer": null,
+      "explanation": "​\na) $\\mathop {\\lim }\\limits_{x \\to 0} f\\left( x \\right) = \\mathop {\\lim }\\limits_{x \\to 0} \\frac{1}{x} = + \\infty $;\n\n$f\\left( 0 \\right) = 1$.\n\nVì $f\\left( 0 \\right) \\ne \\mathop {\\lim }\\limits_{x \\to 0} f\\left( x \\right)$ suy ra hàm số gián đoạn tại $x = 0$.\n\nb) $\\mathop {\\lim }\\limits_{x \\to {1^ - }} g\\left( x \\right) = \\mathop {\\lim }\\limits_{x \\to {1^ - }} \\left( {1 + x} \\right) = 2$;\n\n$\\mathop {\\lim }\\limits_{x \\to {1^ + }} g\\left( x \\right) = \\mathop {\\lim }\\limits_{x \\to {1^ + }} \\left( {2 - x} \\right) = 1$;\n\n$\\mathop {\\lim }\\limits_{x \\to {1^ - }} g\\left( x \\right) \\ne \\mathop {\\lim }\\limits_{x \\to {1^ + }} g\\left( x \\right)$.\n\nDo đó không tồn tại $\\mathop {\\lim }\\limits_{x \\to 1} g\\left( x \\right)$.\n\nVậy hàm số gián đoạn tại $x = 1$."
+    },
+    {
+      "id": 14,
+      "type": "short_answer",
+      "content": "<strong>32 trang 124 SGK Toán 11 tập 1</strong>\n\nLực hấp dẫn tác dụng lên một đơn vị khối lượng ở khoảng cách r tính từ tâm Trái Đất là\n\n$F\\left( r \\right) = \\left\\{ {\\begin{array}{*{20}{c}}{\\frac{{GMr}}{{{R^3}}}\\;,r &lt; R}\\\\{\\frac{{GM}}{{{r^2}}}\\;,\\;r \\ge R}\\end{array}} \\right.$\n\nTrong đó M và R lần lượt là khối lượng và bán kính của Trái Đất, G là hằng số hấp dẫn. Xét tính liên tục của hàm số F(r).",
+      "answer": null,
+      "explanation": "​\nVì M và R lần lượt là khối lượng và bán kính của Trái Đất, G là hằng số hấp dẫn, do đó M, R, G đều khác 0, r là khoảng cách nên r &gt; 0.\n\nTa có: $F\\left( r \\right) = \\left\\{ {\\begin{array}{*{20}{c}}{\\frac{{GMr}}{{{R^3}}},r &lt; R}\\\\{\\frac{{GM}}{{{r^2}}},r \\ge R}\\end{array}} \\right.$.\n\nTập xác định của hàm số $F\\left( r \\right) là \\;\\left( {0; + \\infty } \\right)$.\n\n+ Với r &lt; R thì $F\\left( r \\right) = \\frac{{GMr}}{{{R^3}}}$ hay $F\\left( r \\right) = \\frac{{GM}}{{{R^3}}}.r$ là hàm đa thức nên nó liên tục trên $\\left( {0;R} \\right)$.\n\n+ Với r &gt; R thì $F\\left( r \\right) = \\frac{{GM}}{{{r^2}}}$ là hàm phân thức nên nó liên tục trên $\\left( {R; + \\infty } \\right)$.\n\n+ Tại r = R, ta có $F\\left( r \\right) = \\frac{{GM}}{{{R^2}}}$.\n\n$\\mathop {\\lim }\\limits_{r \\to {R^ + }} F\\left( r \\right) = \\mathop {\\lim }\\limits_{r \\to {R^ + }} \\frac{{GM}}{{{r^2}}} = \\frac{{GM}}{{{r^2}}}$;\n\n$\\mathop {\\lim }\\limits_{r \\to {R^ - }} F\\left( r \\right) = \\mathop {\\lim }\\limits_{r \\to {R^ - }} \\frac{{GMr}}{{{R^3}}} = \\frac{{GMR}}{{{R^3}}} = \\frac{{GM}}{{{R^2}}}$.\n\nDo đó, $\\mathop {\\lim }\\limits_{r \\to {R^ + }} F\\left( r \\right) = \\mathop {\\lim }\\limits_{r \\to {R^ - }} F\\left( r \\right) = \\frac{{GM}}{{{R^2}}}$ nên $\\mathop {\\lim }\\limits_{r \\to R} F\\left( r \\right) = \\frac{{GM}}{{{R^2}}} = F\\left( r \\right)$.\n\nSuy ra hàm số $F\\left( r \\right)$ liên tục tại r = R.\n\nVậy hàm số liên tục trên $\\left( {0; + \\infty } \\right)$."
+    },
+    {
+      "id": 15,
+      "type": "short_answer",
+      "content": "<strong>33 trang 124 SGK Toán 11 tập 1</strong>\n\nTìm tập xác định của các hàm số sau và giải thích tại sao các hàm này liên tục trên các khoảng xác định của chúng\n\na) $f\\left( x \\right) = \\frac{{\\cos x}}{{{x^2} + 5x + 6}}$;\n\nb) $g\\left( x \\right) = \\frac{{x - 2}}{{\\sin x}}$.",
+      "answer": null,
+      "explanation": "​\na) Biểu thức có nghĩa khi $x^2 + 5x + 6 \\neq 0 \\Leftrightarrow (x + 2)(x + 3) \\neq 0 \\Leftrightarrow \\begin{cases} x \\neq -2 \\\\ x \\neq -3 \\end{cases}$.\n\nDo đó, tập xác định của hàm số f(x) là $\\mathbb{R} \\setminus \\{-3; -2\\} = (-\\infty; -3) \\cup (-3; -2) \\cup (-2; +\\infty)$.\n\nSuy ra hàm số f(x) xác định trên các khoảng $(-\\infty; -3)$, $(-3; -2)$ và $(-2; +\\infty)$. Trên các khoảng này, tử thức (hàm lượng giác) và mẫu thức (hàm đa thức) là các hàm số liên tục. Vậy hàm số $f(x) = \\frac{\\cos x}{x^2 + 5x + 6}$ liên tục trên các khoảng xác định của chúng.\n\nb) Biểu thức $\\frac{x-2}{\\sin x}$ có nghĩa khi $\\sin x \\neq 0 \\Leftrightarrow x \\neq k\\pi, k \\in \\mathbb{Z}$.\n\nDo đó, tập xác định của hàm số g(x) là $\\mathbb{R} \\setminus \\{k\\pi \\mid k \\in \\mathbb{Z}\\}$. Hay hàm số g(x) xác định trên các khoảng $(k\\pi; (k + 1)\\pi)$ với $k \\in \\mathbb{Z}$.\n\nTrên các khoảng xác định của hàm số g(x), tử thức $x - 2$ (hàm đa thức) và mẫu thức $\\sin x$ (hàm lượng giác) là các hàm số liên tục.\n\nVậy hàm số $g(x) = \\frac{x-2}{\\sin x}$ liên tục trên các khoảng xác định của chúng."
+    },
+    {
+      "id": 16,
+      "type": "short_answer",
+      "content": "<strong>34 trang 124 SGK Toán 11 tập 1</strong>\n\nTìm các giá trị của <em>a</em> để hàm số $f\\left( x \\right) = \\left\\{ {\\begin{array}{*{20}{c}}{x + 1\\;,x \\le a}\\\\{{x^2},\\;a &gt; a}\\end{array}} \\right.$ liên tục trên $\\mathbb{R}$.",
+      "answer": null,
+      "explanation": "​\nTa có:\n\n$\\mathop {\\lim }\\limits_{x \\to {a^ - }} f\\left( x \\right) = \\mathop {\\lim }\\limits_{x \\to {a^ - }} \\left( {x + 1} \\right) = a + 1$;\n\n$\\mathop {\\lim }\\limits_{x \\to {a^ + }} f\\left( x \\right) = \\mathop {\\lim }\\limits_{x \\to {a^ + }} {x^2} = {a^2}$.\n\nHàm số liên tục trên $\\mathbb{R}$ khi:\n\n$\\mathop {\\lim }\\limits_{x \\to {a^ - }} f\\left( x \\right) = \\mathop {\\lim }\\limits_{x \\to {a^ + }} f\\left( x \\right) \\Leftrightarrow a + 1 = {a^2} \\Leftrightarrow {a^2} - a - 1 = 0 \\Leftrightarrow a = \\frac{{1 + \\sqrt 5 }}{2}$, $a = \\frac{{\\left( {1 - \\sqrt 5 } \\right)}}{2}$."
+    }
+  ]
+}

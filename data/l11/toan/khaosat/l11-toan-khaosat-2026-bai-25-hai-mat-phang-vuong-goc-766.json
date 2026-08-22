@@ -1,0 +1,50 @@
+{
+  "id": "l11-toan-khaosat-2026-bai-25-hai-mat-phang-vuong-goc-766",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "code": "Đề 01",
+  "title": "Bài 25. Hai mặt phẳng vuông góc",
+  "duration": 90,
+  "answerSource": "missing",
+  "sourceUrl": "https://sieugioi.com/docs/threads/bai-25-hai-mat-phang-vuong-goc.766/",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "type": "short_answer",
+      "content": "<strong>17 trang 53 SGK Toán 11 tập 2</strong>\n\nCho hình lập phương ABCD.A'B'C'D' có cạnh bằng a.\n\na) Tính độ dài đường chéo của hình lập phương.\n\nb) Chứng minh rằng (ACC′A′) $ \\bot $ (BDD′B′).\n\nc) Gọi O là tâm của hình vuông ABCD. Chứng minh rằng $\\widehat {COC'}$ là một góc phẳng của góc nhị diện [C, BD, C']. Tính (gần đúng) số đo của các góc nhị diện [C, BD, C'], [A, BD, C'].",
+      "answer": null,
+      "explanation": "[[SGIMG:25:https://sieugioi.com/docs/attachments/1784098894766-png.6137/]]\n\n\na) Xét tam giác ABC vuông tại B có\n\n$A{C^2} = A{B^2} + B{C^2} = {a^2} + {a^2} = 2{a^2} \\Rightarrow AC = a\\sqrt 2 $\n\nXét tam giác AA’C vuông tại A có\n\n$A'{C^2} = A{A'^2} + A{C^2} = {a^2} + {\\left( {a\\sqrt 2 } \\right)^2} = 3{a^2} \\Rightarrow A'C = a\\sqrt 3 $\n\nVậy độ dài đường chéo hình lập phương bằng $a\\sqrt 3 $\n\nb) Ta có $\\begin{array}{l}BD \\bot AC,BD \\bot AA' \\Rightarrow BD \\bot \\left( {ACC'A'} \\right);BD \\subset \\left( {BDD'B'} \\right)\\\\ \\Rightarrow \\left( {ACC'A'} \\right) \\bot \\left( {BDD'B'} \\right)\\end{array}$\n\nc) Ta có $C'O \\bot BD\\left( {BD \\bot \\left( {ACC'A'} \\right)} \\right),CO \\bot BD \\Rightarrow \\left[ {C,BD,C'} \\right] = \\left( {CO,C'O} \\right) = \\widehat {COC'}OC = \\frac{{AC}}{2} = \\frac{{a\\sqrt 2 }}{2}$\n\nXét tam giác COC’ vuông tại C có\n\n$\\tan \\widehat {COC'} = \\frac{{CC'}}{{OC}} = \\frac{a}{{\\frac{{a\\sqrt 2 }}{2}}} = \\sqrt 2 \\Rightarrow \\widehat {COC'} = \\arctan \\sqrt 2 $\n\nTa có $C'O \\bot BD\\left( {BD \\bot \\left( {ACC'A'} \\right)} \\right),AO \\bot BD \\Rightarrow \\left[ {A,BD,C'} \\right] = \\left( {AO,C'O} \\right) = \\widehat {AOC'}\\widehat {AOC'} = {180^0} - \\widehat {COC'} \\approx 125,{26^0}$"
+    },
+    {
+      "id": 2,
+      "type": "short_answer",
+      "content": "<strong>18 trang 53 SGK Toán 11 tập 2</strong>\n\nCho hình hộp chữ nhật ABCD.A'B'C'D'.\n\na) Chứng minh rằng (BDD′B′) $ \\bot $ (ABCD).\n\nb) Xác định hình chiếu của AC′ trên mặt phẳng (ABCD).\n\nc) Cho AB = a, BC = b, CC′ = c. Tính AC′.",
+      "answer": null,
+      "explanation": "[[SGIMG:26:https://sieugioi.com/docs/attachments/1784098911600-png.6138/]]\n\n\na) Ta có $BB' \\bot \\left( {ABCD} \\right);BB' \\subset \\left( {BDD'B'} \\right) \\Rightarrow \\left( {BDD'B'} \\right) \\bot \\left( {ABCD} \\right)$.\n\nb) A là hình chiếu của A trên (ABCD).\n\nC là hình chiếu của C’ trên (ABCD) do $CC' \\bot \\left( {ABCD} \\right)$.\n\n$ \\Rightarrow $ AC là hình chiếu của AC’ trên (ABCD).\n\nc) Xét tam giác ABC vuông tại B có:\n\n$A{C^2} = A{B^2} + B{C^2} = {a^2} + {b^2} $.\n\nXét tam giác AC’C vuông tại C có:\n\n$A{C'^2} = C{C'^2} + A{C^2} = {c^2} + {a^2} + {b^2} \\Rightarrow A'C = \\sqrt {{a^2} + {b^2} + {c^2}} $."
+    },
+    {
+      "id": 3,
+      "type": "short_answer",
+      "content": "<strong>19 trang 53 SGK Toán 11 tập 2</strong>\n\nCho hình chóp đều S.ABC, đáy có cạnh bằng a, cạnh bên bằng b.\n\na) Tính sin của góc tạo bởi cạnh bên và mặt đáy.\n\nb) Tính tang của góc giữa mặt phẳng chứa mặt đáy và mặt phẳng chứa mặt bên.",
+      "answer": null,
+      "explanation": "[[SGIMG:27:https://sieugioi.com/docs/attachments/1784098931633-png.6139/]]\n\n\nVì hình chóp S.ABC đều, gọi G là hình chiếu của S trên (ABC) nên G là tâm của đáy ABC là tam giác đều do đó G cũng là trọng tâm hay trực tâm của tam giác ABC.\n\nGọi AG cắt BC tại D. Khi đó, D là trung điểm của BC và $AD \\bot BC$.\n\na) Ta có A là hình chiếu của A trên (ABC), G là hình chiếu của S trên (ABC) $ \\Rightarrow $ AG là hình chiếu của SA trên (ABC).\n\n$ \\Rightarrow \\left( {SA,\\left( {ABC} \\right)} \\right) = \\left( {SA,AG} \\right) = \\widehat {SAG}$.\n\nTam giác ABC đều cạnh a nên $AD = \\frac{{a\\sqrt 3 }}{2}$.\n\nMà G là trọng tâm nên $AG = \\frac{2}{3}AD = \\frac{{a\\sqrt 3 }}{3}$.\n\nXét tam giác SAG vuông tại G có:\n\n+) $SG = \\sqrt {S{A^2} - A{G^2}} = \\sqrt {{b^2} - {{\\left( {\\frac{{a\\sqrt 3 }}{3}} \\right)}^2}} = \\sqrt {{b^2} - \\frac{{{a^2}}}{3}} $.\n\n+) $\\sin \\widehat {SAG} = \\frac{{SG}}{{SA}} = \\sqrt {{b^2} - \\frac{{{a^2}}}{3}} :b = \\sqrt {1 - \\frac{{{a^2}}}{{3{b^2}}}} $.\n\nb) Ta có:\n\n$\\left. \\begin{array}{l}SG \\bot (ABC) \\Rightarrow SG \\bot BC\\\\AD \\bot BC\\end{array} \\right\\} \\Rightarrow BC \\bot (SAD) \\Rightarrow BC \\bot SD$.\n\nMặt khác, $AD \\bot BC$ và $\\left( {SBC} \\right) \\cap \\left( {ABC} \\right) = BC$ nên:\n\n$\\left( {\\left( {SBC} \\right),\\left( {ABC} \\right)} \\right) = \\left( {AD,SD} \\right) = \\widehat {SDA}$.\n\nMà G là trọng tâm nên $GD = \\frac{1}{3}AD = \\frac{{a\\sqrt 3 }}{6}$.\n\nXét tam giác SGD vuông tại G có:\n\n$\\tan \\widehat {SGD} = \\frac{{SG}}{{GD}} = \\sqrt {{b^2} - \\frac{{{a^2}}}{3}} :\\frac{{a\\sqrt 3 }}{6} = \\frac{6}{{a\\sqrt 3 }}.\\sqrt {{b^2} - \\frac{{{a^2}}}{3}} $."
+    },
+    {
+      "id": 4,
+      "type": "short_answer",
+      "content": "<strong>20 trang 53 SGK Toán 11 tập 2</strong>\n\nHai mái nhà trong Hình 7.72 là hai hình chữ nhật. Giả sử AB = 4,8 m; OA = 2,8 m; OB = 4 m.\n\n\n\n<figure class=\"question-figure\"><img src=\"data/l11/toan/khaosat/assets/l11-toan-khaosat-2026-bai-25-hai-mat-phang-vuong-goc-766/hinh-01.webp\" alt=\"Hình minh họa\" loading=\"lazy\"></figure>\n\n\n\na) Tính (gần đúng) số đo của góc nhị diện tạo bởi hai nửa mặt phẳng tương ứng chứa hai mái nhà.\n\nb) Chứng minh rằng mặt phẳng (OAB) vuông góc với mặt đất phẳng.\n\n<em>Lưu ý</em>: Đường giao giữa hai mái (đường nóc) song song với mặt đất.\n\nc) Điểm A ở độ cao (so với mặt đất) hơn điểm B là 0,5 m. Tính (gần đúng) góc giữa mái nhà (chứa OB) so với mặt đất.",
+      "answer": null,
+      "explanation": "[[SGIMG:29:https://sieugioi.com/docs/attachments/1784098967498-png.6141/]]\n\n\na) Vì hai mái nhà trong Hình 7.72 là hai hình chữ nhật nên góc nhị diện tạo bởi hai nửa mặt phẳng tương ứng chứa hai mái nhà là góc giữa hai đường thẳng OA và OB.\n\nXét tam giác OAB có:\n\n$\\cos \\widehat {AOB} = \\frac{{O{A^2} + O{B^2} - A{B^2}}}{{2OA.OB}} = \\frac{{2,{8^2} + {4^2} - 4,{8^2}}}{{2.2,8.4}} = \\frac{1}{{28}}\\Rightarrow \\widehat {AOB} \\approx {88^o}$.\n\nb) (OAB) vuông góc với đường nóc nhà, đường nóc nhà song song với mặt phẳng đất nên (OAB) vuông góc với mặt đất phẳng đất.\n\nc) Đường thẳng qua B song song với mặt đất cắt đường thẳng qua A vuông góc với mặt đất tại H. Ta có:\n\n$\\sin \\widehat {ABH} = \\frac{{0,5}}{{4,8}} \\Rightarrow \\widehat {ABH} \\approx {6^o}$;\n\n$\\cos \\widehat {OBA} = \\frac{{13}}{{16}} \\Rightarrow \\widehat {OBA} \\approx {36^o}$.\n\nDo đó $\\widehat {OBH} = \\widehat {ABH} + \\widehat {OBA} \\approx {42^o}$.\n\nVậy góc giữa mái nhà (chứa OB) so với mặt đất khoảng $42^o$."
+    },
+    {
+      "id": 5,
+      "type": "short_answer",
+      "content": "<strong>21 trang 53 SGK Toán 11 tập 2</strong>\n\nĐộ dốc của mái nhà, mặt sân, con đường thẳng là tang của góc tạo bởi mái nhà mặt sân, con đường thẳng đó với mặt phẳng nằm ngang. Độ dốc của đường thẳng dành cho người khuyết tật được quy định là không quá $\\frac{1}{{12}}$. Hỏi theo đó, góc tạo bởi đường dành cho người khuyết tật và mặt phẳng nằm ngang không vượt quá bao nhiêu độ? (Làm tròn kết quả đến chữ số thập phân thứ hai).",
+      "answer": null,
+      "explanation": "​\nGiả sử góc tạo bởi đường thẳng dành cho người khuyết tật và mặt phẳng nằm ngang là α\n\nVì độ dốc của đường thẳng dành cho người khuyết tật được quy định là không quá $\\frac{1}{{12}}$nên ta có\n\n$\\tan \\alpha \\le \\frac{1}{{12}} \\Rightarrow \\alpha \\le 4,{76^0}$\n\nVậy góc tạo bởi đường dành cho người khuyết tật và mặt phẳng nằm ngang không vượt quá 4,76$^{0}$"
+    }
+  ]
+}

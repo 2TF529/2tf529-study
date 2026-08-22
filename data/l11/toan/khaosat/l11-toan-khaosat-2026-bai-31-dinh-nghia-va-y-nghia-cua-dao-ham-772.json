@@ -1,0 +1,56 @@
+{
+  "id": "l11-toan-khaosat-2026-bai-31-dinh-nghia-va-y-nghia-cua-dao-ham-772",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "code": "Đề 01",
+  "title": "Bài 31. Định nghĩa và ý nghĩa của đạo hàm",
+  "duration": 90,
+  "answerSource": "missing",
+  "sourceUrl": "https://sieugioi.com/docs/threads/bai-31-dinh-nghia-va-y-nghia-cua-dao-ham.772/",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "type": "short_answer",
+      "content": "<strong>1 trang 86 SGK Toán 11 tập 2 - Kết nối tri thức</strong>\n\nTính (bằng định nghĩa) đạo hàm của các hàm số sau:\n\na) $y = {x^2} - x$ tại ${x_0} = 1;$\n\nb) $y = - {x^3}$ tại ${x_0} = - 1.$",
+      "answer": null,
+      "explanation": "​\na) $f'\\left( 1 \\right) = \\mathop {\\lim }\\limits_{x \\to 1} \\frac{{f\\left( x \\right) - f\\left( 1 \\right)}}{{x - 1}} = \\mathop {\\lim }\\limits_{x \\to 1} \\frac{{{x^2} - x}}{{x - 1}} = \\mathop {\\lim }\\limits_{x \\to 1} \\frac{{x\\left( {x - 1} \\right)}}{{x - 1}} = \\mathop {\\lim }\\limits_{x \\to 1} x = 1$\n\nVậy $f'\\left( 1 \\right) = 1$\n\nb) $f'\\left( { - 1} \\right) = \\mathop {\\lim }\\limits_{x \\to - 1} \\frac{{f\\left( x \\right) - f\\left( { - 1} \\right)}}{{x + 1}} = \\mathop {\\lim }\\limits_{x \\to - 1} \\frac{{ - {x^3} - 1}}{{x + 1}} = \\mathop {\\lim }\\limits_{x \\to - 1} \\frac{{ - \\left( {x + 1} \\right)\\left( {{x^2} - x + 1} \\right)}}{{x + 1}} = \\mathop {\\lim }\\limits_{x \\to - 1} \\left( {{x^2} - x + 1} \\right) = 3$\n\nVậy $f'\\left( { - 1} \\right) =- 3$"
+    },
+    {
+      "id": 2,
+      "type": "short_answer",
+      "content": "<strong>2 trang 86 SGK Toán 11 tập 2 - Kết nối tri thức</strong>\n\nSử dụng định nghĩa, tìm đạo hàm của các hàm số sau:\n\na) $y = k{x^2} + c$ (với k, c là các hằng số);\n\nb) $y = {x^3}.$",
+      "answer": null,
+      "explanation": "​\na) Với ${x_0}$ bất kì, ta có:\n\n$f'\\left( {{x_0}} \\right) = \\mathop {\\lim }\\limits_{x \\to {x_0}} \\frac{{f\\left( x \\right) - f\\left( {{x_0}} \\right)}}{{x - {x_0}}} = \\mathop {\\lim }\\limits_{x \\to {x_0}} \\frac{{k{x^2} + c - \\left( {kx_0^2 + c} \\right)}}{{x - {x_0}}}\\\\ = \\mathop {\\lim }\\limits_{x \\to {x_0}} \\frac{{k\\left( {{x^2} - x_0^2} \\right)}}{{x - {x_0}}} = \\mathop {\\lim }\\limits_{x \\to {x_0}} \\frac{{k\\left( {x - {x_0}} \\right)\\left( {x + {x_0}} \\right)}}{{x - {x_0}}} = \\mathop {\\lim }\\limits_{x \\to {x_0}} \\left[ {k\\left( {x + {x_0}} \\right)} \\right] = 2k{x_0}$\n\nVậy hàm số $y = k{x^2} + c$ có đạo hàm là hàm số $y' = 2kx$\n\nb) Với ${x_0}$ bất kì, ta có:\n\n$f'\\left( {{x_0}} \\right) = \\mathop {\\lim }\\limits_{x \\to {x_0}} \\frac{{f\\left( x \\right) - f\\left( {{x_0}} \\right)}}{{x - {x_0}}} = \\mathop {\\lim }\\limits_{x \\to {x_0}} \\frac{{{x^3} - x_0^3}}{{x - {x_0}}}\\\\ = \\mathop {\\lim }\\limits_{x \\to {x_0}} \\frac{{\\left( {x - {x_0}} \\right)\\left( {{x^2} + x{x_0} + x_0^2} \\right)}}{{x - {x_0}}} = \\mathop {\\lim }\\limits_{x \\to {x_0}} \\left( {{x^2} + x{x_0} + x_0^2} \\right) = 3x_0^2$\n\nVậy hàm số $y = {x^3}$ có đạo hàm là hàm số $y' = 3{x^2}$"
+    },
+    {
+      "id": 3,
+      "type": "short_answer",
+      "content": "<strong>3 trang 86 SGK Toán 11 tập 2 - Kết nối tri thức</strong>\n\nĐề bài\n\nViết phương trình tiếp tuyến của parabol $y = - {x^2} + 4x,$ biết:\n\na) Tiếp điểm có hoành độ ${x_0} = 1$;\n\nb) Tiếp điểm có tung độ ${y_0} = 0$.",
+      "answer": null,
+      "explanation": "​\nVới ${x_0}$ bất kì, ta có:\n\n$f'\\left( {{x_0}} \\right) = \\mathop {\\lim }\\limits_{x \\to {x_0}} \\frac{{f\\left( x \\right) - f\\left( {{x_0}} \\right)}}{{x - {x_0}}} = \\mathop {\\lim }\\limits_{x \\to {x_0}} \\frac{{ - {x^2} + 4x + x_0^2 - 4{x_0}}}{{x - {x_0}}} = \\mathop {\\lim }\\limits_{x \\to {x_0}} \\frac{{ - \\left( {{x^2} - x_0^2} \\right) + 4\\left( {x - {x_0}} \\right)}}{{x - {x_0}}}= \\mathop {\\lim }\\limits_{x \\to {x_0}} \\frac{{\\left( {x - {x_0}} \\right)\\left( { - x - {x_0} + 4} \\right)}}{{x - {x_0}}} = \\mathop {\\lim }\\limits_{x \\to {x_0}} \\left( { - x - {x_0} + 4} \\right)= - 2{x_0} + 4$.\n\nVậy hàm số $y = - {x^2} + 4x$ có đạo hàm là hàm số $y' = - 2x + 4$.\n\na) Ta có:\n\n$f'\\left( 1 \\right) = - 2.1 + 4 = 2$;\n\n$f\\left( 1 \\right) = 3$.\n\nPhương trình tiếp tuyến cần tìm là:\n\n$y - 3 = 2\\left( {x - 1} \\right)$ hay $y = 2x + 1$\n\nb) Ta có ${y_0} = 0$ nên $ - x_0^2 + 4{x_0} = 0 \\Leftrightarrow \\left[ \\begin{array}{l}{x_0} = 0\\\\{x_0} = 4\\end{array} \\right.$\n\n+) ${x_0} = 0,{y_0} = 0$ nên $y'\\left( 0 \\right) = 4$.\n\nPhương trình tiếp tuyến cần tìm là $y = 4x$.\n\n+) ${x_0} = 4,{y_0} = 0$ nên $y'\\left( 4 \\right) = - 4$.\n\nPhương trình tiếp tuyến cần tìm là:\n\n$y = - 4\\left( {x - 4} \\right)$ hay $y = - 4x + 16$."
+    },
+    {
+      "id": 4,
+      "type": "short_answer",
+      "content": "<strong>4 trang 86 SGK Toán 11 tập 2 - Kết nối tri thức</strong>\n\nMột vật được phóng theo phương thẳng đứng lên trên từ mặt đất với vận tốc ban đầu là 19,6 m/s thì độ cao h của nó (tính bằng mét) sau t giây được cho bởi công thức $h = 19,6t - 4,9{t^2}.$ Tìm vận tốc của vật khi nó chạm đất.",
+      "answer": null,
+      "explanation": "​\nVới ${x_0}$ bất kì, ta có:\n\n$f'\\left( {{t_0}} \\right) = \\mathop {\\lim }\\limits_{t \\to {t_0}} \\frac{{f\\left( x \\right) - f\\left( {{x_0}} \\right)}}{{t - {t_0}}} = \\mathop {\\lim }\\limits_{x \\to {x_0}} \\frac{{19,6t - 4,9{t^2} - 19,6{t_0} + 4,9t_0^2}}{{t - {t_0}}}\\\\ = \\mathop {\\lim }\\limits_{t \\to {t_0}} \\frac{{ - 4,9\\left( {{t^2} - t_0^2} \\right) + 19,6\\left( {t - {t_0}} \\right)}}{{t - {t_0}}} = \\mathop {\\lim }\\limits_{t \\to {t_0}} \\frac{{\\left( {t - {t_0}} \\right)\\left( { - 4,9t - 4,9{t_0} + 19,6} \\right)}}{{t - {t_0}}}\\\\ = \\mathop {\\lim }\\limits_{t \\to {t_0}} \\left( { - 4,9t - 4,9{t_0} + 19,6} \\right) = - 9,8{t_0} + 19,6$\n\nVậy hàm số $h = 19,6t - 4,9{t^2}$ có đạo hàm là hàm số $h' = - 9,8{t_0} + 19,6$\n\nĐộ cao của vật khi nó chạm đất thỏa mãn $19,6t - 4,9{t^2} = 0 \\Leftrightarrow \\left[ \\begin{array}{l}t = 0\\\\t = 4\\end{array} \\right.$\n\nKhi t = 4, vận tốc của vật khi nó chạm đất là $ - 9,8.4 + 19,6 = - 19,6$ (m/s)\n\nVậy vận tốc của vật khi nó chạm đất là -19,6 m/s."
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "content": "<strong>5 trang 86 SGK Toán 11 tập 2 - Kết nối tri thức</strong>\n\nMột kĩ sư thiết kế một đường ray tàu lượn, mà mặt cắt của nó gồm một cung đường cong có dạng parabol (H.9.6a), đoạn dốc lên ${L_1}$ và đoạn dốc xuống ${L_2}$ là những phần đường thẳng có hệ số góc lần lượt là 0,5 và –0,75. Để tàu lượn chạy êm và không bị đổi hướng đột ngột, ${L_1}$ và ${L_2}$ phải là những tiếp tuyến của cung parabol tại các điểm chuyển tiếp P và Q (H.9.6b). Giả sử gốc toạ độ đặt tại P và phương trình của parabol là $y = a{x^2} + bx + c,$ trong đó x tính bằng mét.\n\n\n\n\n<figure class=\"question-figure\"><img src=\"data/l11/toan/khaosat/assets/l11-toan-khaosat-2026-bai-31-dinh-nghia-va-y-nghia-cua-dao-ham-772/hinh-01.webp\" alt=\"Hình minh họa\" loading=\"lazy\"></figure>",
+      "statements": [
+        "a) Tìm c.",
+        "b) Tính y'(0) và tìm b.",
+        "c) Giả sử khoảng cách theo phương ngang giữa P và Q là 40 m. Tìm a.",
+        "d) Tìm chênh lệch độ cao giữa hai điểm chuyển tiếp P và Q."
+      ],
+      "answer": [],
+      "explanation": "​\na) Vì gốc toạ độ đặt tại P nên P(0;0) do đó ta có c = y(0) = 0\n\nb) $y' = 2ax + b \\Rightarrow y'\\left( 0 \\right) = b$\n\nMà L1 là phương trình tiếp tuyến tại P có hệ số góc 0,5 nên $y'\\left( 0 \\right) = 0,5 \\Rightarrow b = 0,5$\n\nc) L2 là phương trình tiếp tuyến tại Q có hệ số góc – 0,75 nên $y'\\left( {{x_Q}} \\right) = 2a{x_Q} + 0,5 = - 0,75$\n\nVì khoảng cách theo phương ngang giữa P và Q là 40 m nên ${x_Q} - {x_P} = {x_Q} = 40 \\Rightarrow 2a.40 + 0,5 = - 0,75 \\Rightarrow a = \\frac{{ - 1}}{{64}}$\n\nd) ${y_Q} = \\frac{{ - 1}}{{64}}{.40^2} + 0,5.40 = - 5$\n\nVậy chênh lệch độ cao giữa hai điểm chuyển tiếp P và Q là $\\left| {{y_P} - {y_Q}} \\right| = 5$"
+    }
+  ]
+}

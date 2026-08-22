@@ -1,0 +1,50 @@
+{
+  "id": "l11-toan-khaosat-2026-bai-33-dao-ham-cap-hai-774",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "code": "Đề 01",
+  "title": "Bài 33. Đạo hàm cấp hai",
+  "duration": 90,
+  "answerSource": "missing",
+  "sourceUrl": "https://sieugioi.com/docs/threads/bai-33-dao-ham-cap-hai.774/",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "type": "short_answer",
+      "content": "<strong>13 trang 96 SGK Toán 11 tập 2 - Kết nối tri thức</strong>\n\nCho hàm số $f\\left( x \\right) = {x^2}{e^x}$. Tính $f''\\left( 0 \\right)$.",
+      "answer": null,
+      "explanation": "​\nTa có $f'\\left( x \\right) = 2x{e^x} + {x^2}{e^x} \\Rightarrow f''\\left( x \\right) = 2\\left( {{e^x} + x{e^x}} \\right) + 2x{e^x} + {x^2}{e^x} = 2{e^x} + 4x{e^x} + {x^2}{e^x}$.\n\nVậy $f''\\left( 0 \\right) = 2$."
+    },
+    {
+      "id": 2,
+      "type": "short_answer",
+      "content": "<strong>14 trang 96 SGK Toán 11 tập 2 - Kết nối tri thức</strong>\n\nTính đạo hàm cấp hai của các hàm số sau:\n\na) $y = \\ln \\left( {x + 1} \\right)$;\n\nb) $y = \\tan 2x$.",
+      "answer": null,
+      "explanation": "​\na) $y' = \\frac{1}{{x + 1}}\\Rightarrow y'' = \\frac{{ - 1}}{{{{\\left( {x + 1} \\right)}^2}}}$.\n\nb) $y' = \\frac{2}{{{{\\cos }^2}2x}} \\Rightarrow y'' = \\frac{{ - 2.{{\\left( {{{\\cos }^2}2x} \\right)}^,}}}{{{{\\cos }^4}2x}} = \\frac{{ - 2.2\\cos 2x.{{\\left( {\\cos 2x} \\right)}^,}}}{{{{\\cos }^4}2x}} = \\frac{{4.2\\sin 2x}}{{{{\\cos }^3}2x}}= \\frac{{8\\sin 2x}}{{{{\\cos }^3}2x}}$."
+    },
+    {
+      "id": 3,
+      "type": "short_answer",
+      "content": "<strong>15 trang 96 SGK Toán 11 tập 2 - Kết nối tri thức</strong>\n\nCho hàm số $P\\left( x \\right) = a{x^2} + bx + 3$ (a, b là hằng số). Tìm a, b biết $P'\\left( 1 \\right) = 0$ và $P''\\left( 1 \\right) = - 2.$",
+      "answer": null,
+      "explanation": "​\nTa có $P'\\left( x \\right) = 2ax + b \\Rightarrow P''\\left( x \\right) = 2a \\Rightarrow \\left\\{ \\begin{array}{l}P'\\left( 1 \\right) = 2a + b = 0\\\\P''\\left( 1 \\right) = 2a = - 2\\end{array} \\right. \\Rightarrow \\left\\{ \\begin{array}{l}a = - 1\\\\b = 2\\end{array} \\right.$"
+    },
+    {
+      "id": 4,
+      "type": "short_answer",
+      "content": "<strong>16 trang 96 SGK Toán 11 tập 2 - Kết nối tri thức</strong>\n\nCho hàm số $f\\left( x \\right) = 2{\\sin ^2}\\left( {x + \\frac{\\pi }{4}} \\right).$ Chứng minh rằng $\\left| {f''\\left( x \\right)} \\right| \\le 4$ với mọi x.",
+      "answer": null,
+      "explanation": "​\nTa có $f'\\left( x \\right) = 2.2\\sin \\left( {x + \\frac{\\pi }{4}} \\right).{\\left[ {\\sin \\left( {x + \\frac{\\pi }{4}} \\right)} \\right]^,} = 4\\sin \\left( {x + \\frac{\\pi }{4}} \\right)\\cos \\left( {x + \\frac{\\pi }{4}} \\right) = 2\\sin \\left( {2x + \\frac{\\pi }{2}} \\right) \\Rightarrow f''\\left( x \\right) = 2.2\\cos \\left( {2x + \\frac{\\pi }{2}} \\right) = 4\\cos \\left( {2x + \\frac{\\pi }{2}} \\right)$\n\nMặt khác $ - 1 \\le \\cos \\left( {2x + \\frac{\\pi }{2}} \\right) \\le 1 \\Leftrightarrow - 4 \\le f''\\left( x \\right) \\le 4$\n\nVậy $\\left| {f''\\left( x \\right)} \\right| \\le 4$ với mọi x."
+    },
+    {
+      "id": 5,
+      "type": "short_answer",
+      "content": "<strong>17 trang 96 SGK Toán 11 tập 2 - Kết nối tri thức</strong>\n\nPhương trình chuyển động của một hạt được cho bởi $s\\left( t \\right) = 10 + 0,5\\sin \\left( {2\\pi t + \\frac{\\pi }{5}} \\right),$ trong đó s tính bằng centimét và t tính bằng giây. Tính gia tốc của hạt tại thời điểm t = 5 giây (làm tròn kết quả đến chữ số thập phân thứ nhất).",
+      "answer": null,
+      "explanation": "​\nVận tốc tại thời điểm t là $v\\left( t \\right) = s'\\left( t \\right) = 0,5.2\\pi \\cos \\left( {2\\pi t + \\frac{\\pi }{5}} \\right) = \\pi \\cos \\left( {2\\pi t + \\frac{\\pi }{5}} \\right)$\n\nGia tốc tức thời của vật tại thời điểm t là $a\\left( t \\right) = v'\\left( t \\right) = - \\pi .2\\pi \\sin \\left( {2\\pi t + \\frac{\\pi }{5}} \\right) = - 2{\\pi ^2}\\sin \\left( {2\\pi t + \\frac{\\pi }{5}} \\right)$\n\nTại thời điểm t = 5 giây, gia tốc của vật là $a\\left( 5 \\right) = - 2{\\pi ^2}\\sin \\left( {2\\pi .5 + \\frac{\\pi }{5}} \\right) \\approx - 11,6$(cm/s2)"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "l11-toan-khaosat-2026-bai-26-khoang-cach-767",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "code": "Đề 01",
+  "title": "Bài 26. Khoảng cách",
+  "duration": 90,
+  "answerSource": "missing",
+  "sourceUrl": "https://sieugioi.com/docs/threads/bai-26-khoang-cach.767/",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "type": "short_answer",
+      "content": "<strong>23 trang 59 SGK Toán 11 tập 2</strong>\n\nCho hình hộp chữ nhật ABCD.A'B'C'D' có AA' = a, AB = b, BC = c.\n\na) Tính khoảng cách giữa CC' và (BB'D'D).\n\nb) Xác định đường vuông góc chung và tính khoảng cách giữa AC và B'D'.",
+      "answer": null,
+      "explanation": "[[SGIMG:18:https://sieugioi.com/docs/attachments/1784099958942-png.6155/]]\n\n\na) Trong (ABCD) kẻ $CE \\bot BD$\n\nMà $CE \\bot BB'\\left( {BB' \\bot \\left( {ABCD} \\right)} \\right) \\Rightarrow CE \\bot \\left( {BB'D'D} \\right)$\n\nTa có CC’ // BB’ $ \\Rightarrow $ CC’ // (BB’D’D) $ \\Rightarrow $ d(CC’, (BB’D’D)) = d(C, (BB’D’D)) = CE\n\nXét tam giác BCD vuông tại C có\n\n$\\frac{1}{{C{E^2}}} = \\frac{1}{{B{C^2}}} + \\frac{1}{{C{D^2}}} = \\frac{1}{{{c^2}}} + \\frac{1}{{{b^2}}} = \\frac{{{b^2} + {c^2}}}{{{c^2}{b^2}}} \\Rightarrow CE = \\frac{{bc}}{{\\sqrt {{b^2} + {c^2}} }}$\n\nb) $AC \\subset \\left( {ABCD} \\right),B'D' \\subset \\left( {A'B'C'D'} \\right),\\left( {ABCD} \\right)//\\left( {A'B'C'D'} \\right) \\Rightarrow d\\left( {AC,B'D'} \\right) = d\\left( {\\left( {ABCD} \\right),\\left( {A'B'C'D'} \\right)} \\right) = BB' = a$"
+    },
+    {
+      "id": 2,
+      "type": "short_answer",
+      "content": "<strong>24 trang 59 SGK Toán 11 tập 2</strong>\n\nCho tứ diện ABCD có các cạnh đều bằng a. Gọi M, N tương ứng là trung điểm của các cạnh AB, CD. Chứng minh rằng:\n\na) MN là đường vuông góc chung của AB và CD.\n\nb) Các cặp cạnh đối diện trong tứ diện ABCD đều vuông góc với nhau.",
+      "answer": null,
+      "explanation": "[[SGIMG:19:https://sieugioi.com/docs/attachments/1784100027425-png.6156/]]\n\n\na) Ta có $\\left. \\begin{array}{l}BN \\bot CD\\\\AG \\bot CD\\end{array} \\right\\} \\Rightarrow CD \\bot \\left( {ABN} \\right) \\Rightarrow CD \\bot MN$ (1)\n\nVì BN, AN lần lượt là 2 đường trung tuyến của 2 tam giác đều cạnh a nên BN = AN.\n\nDo đó tam giác ABN cân tại N mà M là trung điểm AB $ \\Rightarrow AB \\bot MN$ (2)\n\nTừ (1) và (2) suy ra MN là đường vuông góc chung của AB và CD.\n\nb) Ta có $\\left. \\begin{array}{l}CD \\bot \\left( {ABN} \\right)\\\\AB \\subset \\left( {ABN} \\right)\\end{array} \\right\\} \\Rightarrow CD \\bot AB$.\n\nChứng minh tương tự ta được $BC \\bot AD$, $BD \\bot AC$.\n\nVậy các cặp cạnh đối diện trong tứ diện ABCD đều vuông góc với nhau."
+    },
+    {
+      "id": 3,
+      "type": "short_answer",
+      "content": "<strong>25 trang 59 SGK Toán 11 tập 2</strong>\n\nCho hình lập phương ABCD.A'B'C'D' có cạnh a.\n\na) Chứng minh rằng hai mặt phẳng (D'AC) và (BC'A') song song với nhau và DB' vuông góc với hai mặt phẳng đó.\n\nb) Xác định các giao điểm E, F của DB' với (D'AC), (BC'A'). Tính d((D'AC), (BC'A')).",
+      "answer": null,
+      "explanation": "[[SGIMG:20:https://sieugioi.com/docs/attachments/1784100157906-png.6157/]]\n\n\na) AC // A’C’, D’C // A’B $ \\Rightarrow $ (D'AC) // (BC'A')\n\nTa có $AC \\bot BD,AC \\bot BB' \\Rightarrow AC \\bot \\left( {BDB'} \\right);B'D \\subset \\left( {BDB'} \\right) \\Rightarrow AC \\bot B'D$\n\nMà AC // A’C’ $ \\Rightarrow B'D \\bot A'C'$\n\nTa có $AB' \\bot A'B,AD \\bot A'B \\Rightarrow A'B \\bot \\left( {AB'D} \\right);B'D \\subset \\left( {AB'D} \\right) \\Rightarrow A'B \\bot B'D$\n\nMà A’B // D’C $ \\Rightarrow B'D \\bot D'C$\n\nTa có $B'D \\bot AC,B'D \\bot D'C \\Rightarrow B'D \\bot \\left( {D'AC} \\right)B'D \\bot A'C',B'D \\bot A'B \\Rightarrow B'D \\bot \\left( {BA'C'} \\right)$\n\nb) Gọi $AC \\cap BD = \\left\\{ O \\right\\},A'C' \\cap B'D' = \\left\\{ {O'} \\right\\}$\n\nTrong (BB’D’D) nối $D'O \\cap B'D = \\left\\{ E \\right\\},BO' \\cap B'D = \\left\\{ F \\right\\}$\n\nVì (D'AC) // (BC'A') nên d((D'AC), (BC'A')) = d(E, (BC'A')) = EF do $B'D \\bot \\left( {BA'C'} \\right)\\left. \\begin{array}{l}B'D \\bot BO'\\left( {B'D \\bot \\left( {BA'C'} \\right)} \\right)\\\\B'D \\bot OD'\\left( {B'D \\bot \\left( {D'AC} \\right)} \\right)\\end{array} \\right\\} \\Rightarrow BO'//OD'$\n\nÁp dụng định lí Talet có $\\frac{{DE}}{{EF}} = \\frac{{DO}}{{BO}} = 1 \\Rightarrow DE = EF$ và $\\frac{{B'F}}{{EF}} = \\frac{{B'O'}}{{O'D'}} = 1 \\Rightarrow B'F = EF \\Rightarrow EF = \\frac{{B'D}}{3}$\n\nXét tam giác ABD vuông tại A có $BD = \\sqrt {A{B^2} + A{D^2}} = \\sqrt {{a^2} + {a^2}} = a\\sqrt 2 $\n\nXét tam giác BB’D vuông tại B có $B'D = \\sqrt {B{{B'}^2} + B{D^2}} = \\sqrt {{a^2} + {{\\left( {a\\sqrt 2 } \\right)}^2}} = a\\sqrt 3 \\Rightarrow EF = \\frac{{a\\sqrt 3 }}{3}$\n\nVậy $d\\left( {\\left( {D'AC} \\right),{\\rm{ }}\\left( {BC'A'} \\right)} \\right) = \\frac{{a\\sqrt 3 }}{3}$"
+    },
+    {
+      "id": 4,
+      "type": "short_answer",
+      "content": "<strong>26 trang 59 SGK Toán 11 tập 2</strong>\n\nGiá đỡ ba chân ở Hình 7.90 đang được mở sao cho ba gốc chân cách đều nhau một khoảng cách bằng 110 cm. Tính chiều cao của giá đỡ, biết các chân của giá đỡ dài 129 cm.\n\n\n\n\n<figure class=\"question-figure\"><img src=\"data/l11/toan/khaosat/assets/l11-toan-khaosat-2026-bai-26-khoang-cach-767/hinh-01.webp\" alt=\"Hình minh họa\" loading=\"lazy\"></figure>",
+      "answer": null,
+      "explanation": "​\nGiá đỡ ba chân ở Hình 7.90 đang được mở sao cho ba gốc chân cách đều nhau một khoảng cách bằng 110 cm nên hình chiếu của đỉnh là tâm của đáy mà đáy là tam giác đều do đó tâm là trọng tâm.\n\nVì đáy là tam giác đều cạnh 110 cm nên chiều cao của đáy bằng $110.\\frac{{\\sqrt 3 }}{2} = 55\\sqrt 3 \\left( {cm} \\right)$\n\nKhoảng cách từ gốc chân đến tâm là $\\frac{2}{3}.55\\sqrt 3 = \\frac{{110\\sqrt 3 }}{3}\\left( {cm} \\right)$\n\nChiều cao giá đỡ là $\\sqrt {{{129}^2} - {{\\left( {\\frac{{110\\sqrt 3 }}{3}} \\right)}^2}} = \\sqrt {\\frac{{37823}}{3}} \\approx 112,28\\left( {cm} \\right)$"
+    },
+    {
+      "id": 5,
+      "type": "short_answer",
+      "content": "<strong>27 trang 59 SGK Toán 11 tập 2</strong>\n\nMột bể nước có đáy thuộc mặt phẳng nằm ngang. Trong trường hợp này, độ sâu của bể là khoảng cách giữa mặt nước và đáy bể. Giải thích vì sao để đo độ sâu của bể, ta có thể thả quả dọi chạm đáy bể và đo chiều dài của đoạn dây dọi nằm trong bề nước.",
+      "answer": null,
+      "explanation": "​\nKhi bể nước có đáy thuộc mặt phẳng nằm ngang, thì mặt nước nằm trong mặt phẳng song song với đáy. Vì vậy, để đo độ sâu của bể, ta có thể đo khoảng cách từ mặt nước đến đáy bể.\n\nKhi thả quả dọi vào bể nước, nó sẽ chìm dưới mặt nước và chạm đến đáy bể. Khi kéo quả dọi lên, ta sẽ thấy một đoạn dây dọi nằm trong bể nước và một đoạn dây dọi ở ngoài bể nước. Đoạn dây dọi nằm trong bể nước có độ dài bằng khoảng cách từ mặt nước đến chỗ quả dọi chạm đáy bể. Do đó, để đo độ sâu của bể, ta chỉ cần đo độ dài của đoạn dây dọi nằm trong bể nước.\n\nCông thức để tính độ sâu của bể nước sẽ là:\n\nĐộ sâu bể = chiều dài của đoạn dây dọi nằm trong bể nước."
+    }
+  ]
+}

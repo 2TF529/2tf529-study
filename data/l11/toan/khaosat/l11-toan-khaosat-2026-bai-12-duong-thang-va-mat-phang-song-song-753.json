@@ -1,0 +1,61 @@
+{
+  "id": "l11-toan-khaosat-2026-bai-12-duong-thang-va-mat-phang-song-song-753",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "code": "Đề 01",
+  "title": "Bài 12. Đường thẳng và mặt phẳng song song",
+  "duration": 90,
+  "answerSource": "partial",
+  "sourceUrl": "https://sieugioi.com/docs/threads/bai-12-duong-thang-va-mat-phang-song-song.753/",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "content": "<strong>16 trang 87 SGK Toán 11 tập 1</strong>\n\nTrong không gian, cho hai đường thẳng phân biệt a, b và mặt phẳng (P). Những mệnh đề nào sau đây là đúng?",
+      "statements": [
+        "a) Nếu a và (P) có điểm chung thì a không song song với (P).",
+        "b) Nếu a và (P) có điểm chung thì a và (P) cắt nhau.",
+        "c) Nếu a song song với b và b nằm trong (P) thì a song song với (P).",
+        "d) Nếu a và b song song với (P) thì a song song với b."
+      ],
+      "answer": [
+        "D",
+        "S",
+        "S",
+        "S"
+      ],
+      "explanation": "​\na) Đúng.\n\nb) Sai. a có thể thuộc mp(P) nếu có nhiều hơn 1 điểm chung.\n\nc) Sai. Vì a có thể thuộc (P). Để mệnh đề đúng phải thêm điều kiện a không thuộc (P).\n\nd) Sai. Vì khi a và b có thể cắt nhau hoặc chéo nhau."
+    },
+    {
+      "id": 2,
+      "type": "short_answer",
+      "content": "<strong>17 trang 87 SGK Toán 11 tập 1</strong>\n\nCho tam giác ABC và ABD không cùng nằm trong một mặt phẳng. Gọi M, N lần lượt là trung điểm của các cạnh AC, AD\n\na) Đường thẳng AM có song song với mặt phẳng (BCD) hay không? Hãy giải thích tại sao.\n\nb) Đường thẳng MN có song song với mặt phẳng (BCD) hay không? Hãy giải thích tại sao.",
+      "answer": null,
+      "explanation": "[[SGIMG:10:https://sieugioi.com/docs/attachments/1784016201939-png.6023/]]\n\n\na) Ta có AM cắt (BCD) tại C suy ra AM không song song với (BCD).\n\nb) M, N là trung điểm của AC, AD nên MN là đường trung bình của tam giác ACD suy ra MN // CD.\n\nMà CD thuộc (BCD) nên MN // mp(BCD)."
+    },
+    {
+      "id": 3,
+      "type": "short_answer",
+      "content": "<strong>18 trang 87 SGK Toán 11 tập 1</strong>\n\nCho tứ diện ABCD. Gọi M, N lần lượt là trung điểm của hai cạnh BC, CD. Chứng minh rằng đường thẳng BD song song với mặt phẳng (AMN).",
+      "answer": null,
+      "explanation": "[[SGIMG:11:https://sieugioi.com/docs/attachments/1784016216260-png.6024/]]\n\n\nM, N là trung điểm của BC, CD, suy ra MN // BD.\n\nTa có: $\\left\\{ \\begin{array}{l}BD \\not\\subset (AMN)\\\\MN \\subset (AMN)\\\\BD//MN\\end{array} \\right. \\Rightarrow BD//(AMN)$."
+    },
+    {
+      "id": 4,
+      "type": "short_answer",
+      "content": "<strong>19 trang 87 SGK Toán 11 tập 1</strong>\n\nCho hình chóp S.ABCD có đáy là hình thang (AB // CD). Gọi E là một điểm nằm giữa S và A. Gọi (P) là mặt phẳng qua E và song song với hai đường thẳng AB, AD. Xác định giao tuyến của (P) và các mặt bên của hình chóp. Hình tạo bởi các giao tuyến là hình gì?",
+      "answer": null,
+      "explanation": "[[SGIMG:12:https://sieugioi.com/docs/attachments/1784016239040-png.6025/]]\n\n\n+) Mặt phẳng (SAB) chứa đường thẳng AB song song với mặt phẳng (P) nên mặt phẳng (SAB) cắt mặt phẳng (P) theo giao tuyến song song với AB. Vẽ EF // AB (F thuộc SB) thì EF là giao tuyến của (P) và (SAB).\n\n+) Mặt phẳng (SAD) chứa đường thẳng AD song song với mặt phẳng (P) nên mặt phẳng (SAD) cắt mặt phẳng (P) theo giao tuyến song song với AD. Vẽ EG // AD (G thuộc SD) thì EG là giao tuyến của (P) và (SAD).\n\n+) Trong mặt phẳng (SCD), qua G vẽ đường thẳng song song với CD cắt SC tại H.\n\nTa có: GH // CD và CD // AB nên GH // AB, do đó GH nằm trong mặt phẳng (P).\n\nVì G thuộc SD nên G thuộc mặt phẳng (SCD) và H thuộc SC nên H thuộc mặt phẳng (SCD), do đó GH nằm trong mặt phẳng (SCD).\n\nVậy GH là giao tuyến của (P) và (SCD).\n\n+) Nối H với F, ta có H thuộc SC nên H thuộc mặt phẳng (SBC). Vì F thuộc SB nên F thuộc mặt phẳng (SBC). Do đó, HF nằm trong mặt phẳng (SBC).\n\nLại có H và F đều thuộc (P) nên HF nằm trong mặt phẳng (P).\n\nVậy HF là giao tuyến của (P) và (SBC).\n\n+) Ta có: EF // AB và GH // AB nên EF // GH, do vậy tứ giác EFHG là hình thang."
+    },
+    {
+      "id": 5,
+      "type": "short_answer",
+      "content": "<strong>20 trang 87 SGK Toán 11 tập 1</strong>\n\nBạn Nam quan sát thấy dù cửa ra vào được mở ở vị trí nào thì mép trên của cửa luôn song song với một mặt phẳng cố định. Hãy cho biết đó là mặt phẳng nào và giải thích tại sao.\n\n\n\n\n<figure class=\"question-figure\"><img src=\"data/l11/toan/khaosat/assets/l11-toan-khaosat-2026-bai-12-duong-thang-va-mat-phang-song-song-753/hinh-01.webp\" alt=\"Hình minh họa\" loading=\"lazy\"></figure>",
+      "answer": null,
+      "explanation": "​\nTa có: Mép trên của cửa luôn song song với mép dưới của cửa.\n\nVà khi cửa được mở ra , dù được mở ở vị trí nào thì mép dưới của cửa cũng thuộc mặt sàn. Vì vậy mép trên của cửa luôn song song với mặt phẳng sàn cố định."
+    }
+  ]
+}

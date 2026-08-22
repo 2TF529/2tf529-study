@@ -1,0 +1,161 @@
+{
+  "id": "l11-toan-khaosat-2026-bai-tap-cuoi-chuong-vi-ham-so-mu-va-ham-so-logarit-1186",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "code": "Đề 01",
+  "title": "Bài tập cuối chương VI: Hàm số mũ và hàm số lôgarit",
+  "duration": 90,
+  "answerSource": "missing",
+  "sourceUrl": "https://sieugioi.com/docs/threads/bai-tap-cuoi-chuong-vi-ham-so-mu-va-ham-so-logarit.1186/",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "<strong>27 trang 25 SGK Toán 11 tập 2</strong>\n\nCho hai số thực dương x, y và hai số thực $\\alpha ,\\beta $ tuỳ ý. Khẳng định nào sau đây là <strong>sai</strong>?",
+      "options": [
+        "A. ${x^\\alpha } \\cdot {x^\\beta } = {x^{\\alpha + \\beta }}$.",
+        "B. ${x^\\alpha } \\cdot {y^\\beta } = {(xy)^{\\alpha + \\beta }}$.",
+        "C. ${\\left( {{x^\\alpha }} \\right)^\\beta } = {x^{\\alpha \\cdot \\beta }}$.",
+        "D. ${(xy)^\\alpha } = {x^\\alpha } \\cdot {y^\\alpha }$."
+      ],
+      "answer": null,
+      "explanation": "​\nĐáp án B."
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "<strong>28 trang 25 SGK Toán 11 tập 2</strong>\n\nRút gọn biểu thức $\\sqrt {x\\sqrt {x\\sqrt x } } :{x^{\\frac{5}{8}}}(x &gt; 0)$ ta được",
+      "options": [
+        "A. $\\sqrt[4]{x}$.",
+        "B. $\\sqrt x $.",
+        "C. $\\sqrt[3]{x}$.",
+        "D. $\\sqrt[5]{x}$."
+      ],
+      "answer": null,
+      "explanation": "​\n$\\sqrt {x\\sqrt {x\\sqrt x } } :{x^{\\frac{5}{8}}} = \\sqrt {x\\sqrt {x.{x^{\\frac{1}{2}}}} } :{x^{\\frac{5}{8}}} = \\sqrt {x\\sqrt {{x^{\\frac{3}{2}}}} } :{x^{\\frac{5}{8}}} = \\sqrt {x.{{\\left( {{x^{\\frac{3}{2}}}} \\right)}^{\\frac{1}{2}}}} :{x^{\\frac{5}{8}}} = \\sqrt {x.{x^{\\frac{3}{4}}}} :{x^{\\frac{5}{8}}} = \\sqrt {{x^{\\frac{7}{4}}}} :{x^{\\frac{5}{8}}} = {\\left( {{x^{\\frac{7}{4}}}} \\right)^{\\frac{1}{2}}}:{x^{\\frac{5}{8}}} = {x^{\\frac{7}{8}}}:{x^{\\frac{5}{8}}} = {x^{\\frac{1}{4}}} = \\sqrt[4]{x}$.\n\nĐáp án A."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "<strong>29 trang 25 SGK Toán 11 tập 2</strong>\n\nCho hai số thực dương a, b với $a \\ne 1$. Khẳng định nào sau đây là <strong>đúng</strong>?",
+      "options": [
+        "A. ${\\log _a}\\left( {{a^3}{b^2}} \\right) = 3 + {\\log _a}b$.",
+        "B. ${\\log _a}\\left( {{a^3}{b^2}} \\right) = 3 + 2{\\log _a}b$.",
+        "C. ${\\log _a}\\left( {{a^3}{b^2}} \\right) = \\frac{3}{2} + {\\log _a}b$.",
+        "D. ${\\log _a}\\left( {{a^3}{b^2}} \\right) = \\frac{1}{3} + \\frac{1}{2}{\\log _a}b$."
+      ],
+      "answer": null,
+      "explanation": "​\n${\\log _a}({a^3}{b^2}) = {\\log _a}{a^3} + {\\log _a}{b^2} = 3 + {\\log _a}{b^2}$.\n\nĐáp án: B."
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "<strong>30 trang 25 SGK Toán 11 tập 2</strong>\n\nCho bốn số thực dương a, b, x, y với $a,b \\ne 1$. Khẳng định nào sau đây là <strong>sai</strong>?",
+      "options": [
+        "A. ${\\log _a}(xy) = {\\log _a}x + {\\log _a}y$.",
+        "B. ${\\log _a}\\frac{x}{y} = {\\log _a}x - {\\log _a}y$.",
+        "C. ${\\log _a}\\frac{1}{x} = \\frac{1}{{{{\\log }_a}x}}$.",
+        "D. ${\\log _a}b \\cdot {\\log _b}x = {\\log _a}x$."
+      ],
+      "answer": null,
+      "explanation": "​\nĐáp án C."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "<strong>31 trang 25 SGK Toán 11 tập 2</strong>\n\nĐặt ${\\log _2}5 = a$, ${\\log _3}5 = b$. Khi đó, ${\\log _6}5$ tính theo $a$ và $b$ bằng",
+      "options": [
+        "A. $\\frac{{ab}}{{a + b}}$.",
+        "B. $\\frac{1}{{a + b}}$.",
+        "C. ${a^2} + {b^2}$.",
+        "D. $a + b$."
+      ],
+      "answer": null,
+      "explanation": "​\n${\\log _6}5 = \\frac{1}{{{{\\log }_5}6}} = \\frac{1}{{{{\\log }_5}2 + {{\\log }_5}3}} = \\frac{1}{{\\frac{1}{{{{\\log }_2}5}} + \\frac{1}{{{{\\log }_3}5}}}} = \\frac{1}{{\\frac{1}{a} + \\frac{1}{b}}}= \\frac{1}{{\\frac{{a + b}}{{ab}}}}= \\frac{{ab}}{{a + b}}$.\n\nĐáp án A."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "<strong>32 trang 25 SGK Toán 11 tập 2</strong>\n\nCho hàm số $y = {2^x}$. Khẳng định nào sau đây là <strong>sai</strong>?",
+      "options": [
+        "A. Tập xác định của hàm số là $\\mathbb{R}$.",
+        "B. Tập giá trị của hàm số là $(0; + \\infty )$.",
+        "C. Đồ thị của hàm số cắt trục Ox tại đúng một điểm.",
+        "D. Hàm số đồng biến trên tập xác định của nó."
+      ],
+      "answer": null,
+      "explanation": "​\nĐồ thị hàm số mũ không cắt trục Ox.\n\nĐáp án C."
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "<strong>33 trang 25 SGK Toán 11 tập 2</strong>\n\nHàm số nào sau đây đồng biến trên tập xác định của nó?",
+      "options": [
+        "A. $y = {\\log _{0,5}}x$.",
+        "B. $y = {{\\rm{e}}^{ - x}}$.",
+        "C. $y = {\\left( {\\frac{1}{3}} \\right)^x}$.",
+        "D. $y = \\ln x$."
+      ],
+      "answer": null,
+      "explanation": "​\nHàm số mũ và hàm số logarit đồng biến trên tập xác định của nó khi cơ số lớn hơn 1.\n\nChỉ có hàm số y = lnx thỏa mãn với e &gt; 1.\n\nĐáp án D."
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "<strong>34 trang 25 SGK Toán 11 tập 2</strong>\n\nCho đồ thị ba hàm số $y = {\\log _a}x,y = {\\log _b}x$ và $y = {\\log _c}x$ như hình bên. Mệnh đề nào sau đây là <strong>đúng</strong>?\n\n\n\n\n\n<figure class=\"question-figure\"><img src=\"data/l11/toan/khaosat/assets/l11-toan-khaosat-2026-bai-tap-cuoi-chuong-vi-ham-so-mu-va-ham-so-logarit-1186/hinh-01.webp\" alt=\"Hình minh họa\" loading=\"lazy\"></figure>",
+      "options": [
+        "A. $a &gt; b &gt; c$.",
+        "B. $b &gt; a &gt; c$.",
+        "C. $a &gt; c &gt; b$.",
+        "D. $b &gt; c &gt; a$."
+      ],
+      "answer": null,
+      "explanation": "​\nHàm số $y = {\\log _c}x$ nghịch biến nên $0 &lt; c &lt; 1$.\n\nHàm số $y = {\\log _a}x$; $y = {\\log _b}x$ đồng biến nên $a,b &gt; 1$.\n\nVới x &gt; 1 ta có:\n\n${\\log _a}x &gt; {\\log _b}x \\Leftrightarrow \\frac{1}{{{{\\log }_x}a}} &gt; \\frac{1}{{{{\\log }_x}b}} \\Leftrightarrow {\\log _x}a &lt; {\\log _x}b \\Leftrightarrow a &lt; b$.\n\nVậy c &lt; a &lt; b.\n\n<strong>Đáp án B</strong>"
+    },
+    {
+      "id": 9,
+      "type": "short_answer",
+      "content": "<strong>35 trang 25 SGK Toán 11 tập 2</strong>\n\nCho $0 &lt; a \\ne 1$. Tính giá trị của biểu thức $B = {\\log _a}\\left( {\\frac{{{a^2} \\cdot \\sqrt[3]{a} \\cdot \\sqrt[5]{{{a^4}}}}}{{\\sqrt[4]{a}}}} \\right) + {a^{2{{\\log }_a}\\frac{{\\sqrt {105} }}{{30}}}}$.",
+      "answer": null,
+      "explanation": "​\n$B = {\\log _a}\\left( {\\frac{{{a^2} \\cdot \\sqrt[3]{a} \\cdot \\sqrt[5]{{{a^4}}}}}{{\\sqrt[4]{a}}}} \\right) + {a^{2{{\\log }_a}\\frac{{\\sqrt {105} }}{{30}}}} = {\\log _a}\\frac{{{a^2}.{a^{\\frac{1}{3}}}.{a^{\\frac{4}{5}}}}}{{{a^{\\frac{1}{4}}}}} + {a^{{{\\log }_a}{{\\left( {\\frac{{\\sqrt {105} }}{{30}}} \\right)}^2}}} = {\\log _a}\\frac{{{a^{\\frac{{47}}{{15}}}}}}{{{a^{\\frac{1}{4}}}}} + {a^{{{\\log }_a}\\frac{7}{{60}}}} = {\\log _a}{a^{\\frac{{173}}{{60}}}} + \\frac{7}{60} = \\frac{{173}}{{60}} + \\frac{7}{60} = 3$."
+    },
+    {
+      "id": 10,
+      "type": "short_answer",
+      "content": "<strong>36 trang 25 SGK Toán 11 tập 2</strong>\n\nGiải các phương trình sau:\n\na) ${3^{1 - 2x}} = {4^x}$;\n\nb) ${\\log _3}(x + 1) + {\\log _3}(x + 4) = 2$.",
+      "answer": null,
+      "explanation": "​\na) ${3^{1 - 2x}} = {4^x}$ (lấy lôgarit cơ số 3 hai vế)\n\n$\\Leftrightarrow {\\log _3}{3^{1 - 2x}} = {\\log _3}{4^x}\\Leftrightarrow 1 - 2x = x{\\log _3}4\\Leftrightarrow x{\\log _3}4 + 2x = 1\\Leftrightarrow x\\left( {{{\\log }_3}4 + 2} \\right) = 1\\Leftrightarrow x = \\frac{1}{{{{\\log }_3}4 + 2}} = \\frac{1}{{{{\\log }_3}4 + {{\\log }_3}9}} = \\frac{1}{{{{\\log }_3}36}} = {\\log _{36}}3$.\n\nVậy phương trình có nghiệm $x = {\\log _{36}}3$.\n\nb) ${\\log _3}(x + 1) + {\\log _3}(x + 4) = 2$ (ĐK: <em>x</em> &gt; -1)\n\n$\\Leftrightarrow {\\log _3}\\left[ {(x + 1)\\left( {x + 4} \\right)} \\right] = 2\\Leftrightarrow (x + 1)\\left( {x + 4} \\right) = {3^2}\\Leftrightarrow {x^2} + 5x + 4 - 9 = 0\\Leftrightarrow {x^2} + 5x - 5 = 0\\Leftrightarrow \\left[ \\begin{array}{l}x = \\frac{{ - 5 + 3\\sqrt 5 }}{2}\\left( {TM} \\right)\\\\x = \\frac{{ - 5 - 3\\sqrt 5 }}{2}\\left( {KTM} \\right)\\end{array} \\right.$\n\nVậy phương trình có nghiệm $x = \\frac{{ - 5 + 3\\sqrt 5 }}{2}$."
+    },
+    {
+      "id": 11,
+      "type": "short_answer",
+      "content": "<strong>37 trang 26 SGK Toán 11 tập 2</strong>\n\nTìm tập xác định của các hàm số sau:\n\na) $y = \\sqrt {{4^x} - {2^{x + 1}}} $;\n\nb) $y = \\ln (1 - \\ln x)$.",
+      "answer": null,
+      "explanation": "​\na) Điều kiện để hàm số $y = \\sqrt {{4^x} - {2^{x + 1}}} $ có nghĩa là\n\n${4^x} - {2^{x + 1}} \\ge 0\\Leftrightarrow {2^{2x}} - {2.2^x} \\ge 0\\Leftrightarrow {2^x}\\left( {{2^x} - 2} \\right) \\ge 0\\Leftrightarrow {2^x} - 2 \\ge 0$ (vì ${2^x} &gt; 0$)\n\n$\\Leftrightarrow {2^x} \\ge 2\\Leftrightarrow x \\ge 1$.\n\nVậy tập xác định của hàm số $y = \\sqrt {{4^x} - {2^{x + 1}}} $ là $\\left[ {1; + \\infty } \\right)$.\n\nb) Điều kiện để hàm số $y = \\ln (1 - \\ln x)$ có nghĩa là\n\n$\\left\\{ \\begin{array}{l}x &gt; 0\\\\1 - \\ln x &gt; 0\\end{array} \\right. \\Leftrightarrow \\left\\{ \\begin{array}{l}x &gt; 0\\\\\\ln x &lt; 1\\end{array} \\right. \\Leftrightarrow \\left\\{ \\begin{array}{l}x &gt; 0\\\\x &lt; e\\end{array} \\right. \\Leftrightarrow 0 &lt; x &lt; e$.\n\nVậy tập xác định của hàm số $y = \\ln (1 - \\ln x)$ là $\\left( {0;e} \\right)$."
+    },
+    {
+      "id": 12,
+      "type": "short_answer",
+      "content": "<strong>38 trang 26 SGK Toán 11 tập 2</strong>\n\nLạm phát là sự tăng mức giá chung một cách liên tục của hàng hoá và dịch vụ theo thời gian, tức là sự mất giá trị của một loại tiền tệ nào đó. Chẳng hạn, nếu lạm phát là $5\\% $ một năm thì sức mua của 1 triệu đồng sau một năm chỉ còn là 950 nghìn đồng (vì đã giảm mất $5\\% $ của 1 triệu đồng, tức là 50000 đồng). Nói chung, nếu tỉ lệ lạm phát trung bình là $r\\% $ một năm thì tổng số tiền $P$ ban đầu, sau $n$ năm số tiền đó chỉ còn giá trị là\n\n\n$A = P \\cdot {\\left( {1 - \\frac{r}{{100}}} \\right)^n}$.​\na) Nếu tỉ lệ lạm phát 8% một năm thì sức mua của 100 triệu đồng sau hai năm sẽ còn lại bao nhiêu?\n\nb) Nếu sức mua của 100 triệu đồng sau hai năm chỉ còn là 90 triệu đồng thì tỉ lệ lạm phát trung bình của hai năm đó là bao nhiêu?\n\nc) Nếu tỉ lệ lạm phát là 5% một năm thì sau bao nhiêu năm sức mua của số tiền ban đầu chỉ còn lại một nửa?",
+      "answer": null,
+      "explanation": "​\na) Nếu tỉ lệ lạm phát 8% một năm thì sức mua của 100 triệu đồng sau hai năm sẽ còn lại:\n\n$A = 100 \\cdot {\\left( {1 - \\frac{8}{{100}}} \\right)^2} = 84,64$ (triệu đồng).\n\nb) Nếu sức mua của 100 triệu đồng sau hai năm chỉ còn là 90 triệu đồng thì:\n\n$90 = 100 \\cdot {\\left( {1 - \\frac{r}{{100}}} \\right)^2} \\Leftrightarrow {\\left( {1 - \\frac{r}{{100}}} \\right)^2} = 0,9 \\Leftrightarrow 1 - \\frac{r}{{100}} = \\sqrt {0,9} \\Leftrightarrow r \\approx 5,13$.\n\nVậy nếu sức mua của 100 triệu đồng sau hai năm chỉ còn là 90 triệu đồng thì tỉ lệ lạm phát trung bình của hai năm đó là khoảng 5,13%.\n\nc) Nếu tỉ lệ lạm phát là 5% một năm và sức mua của số tiền ban đầu chỉ còn lại một nửa ta có:\n\n$\\frac{P}{2} = P \\cdot {\\left( {1 - \\frac{5}{{100}}} \\right)^n} \\Leftrightarrow {\\left( {\\frac{{19}}{{20}}} \\right)^n} = \\frac{1}{2} \\Leftrightarrow n = {\\log _{\\frac{{19}}{{20}}}}\\frac{1}{2} \\approx 13,51$.\n\nVậy nếu tỉ lệ lạm phát là 5% một năm thì sau 14 năm sức mua của số tiền ban đầu chỉ còn lại một nửa."
+    },
+    {
+      "id": 13,
+      "type": "short_answer",
+      "content": "<strong>39 trang 26 SGK Toán 11 tập 2</strong>\n\nGiả sử quá trình nuôi cấy vi khuẩn tuân theo quy luật tăng trưởng tự do. Khi đó, nếu gọi ${N_0}$ là số lượng vi khuẩn ban đầu và $N(t)$ là số lượng vi khuẩn sau $t$ giờ thì ta có: $N(t) = {N_0}{e^{rt}}$\n\ntrong đó $r$ là tỉ lệ tăng trưởng vi khuẩn mỗi giờ.\n\nGiả sử ban đầu có 500 con vi khuẩn và sau 1 giờ tăng lên 800 con. Hỏi:\n\na) Sau 5 giờ thì số lượng vi khuẩn là khoảng bao nhiêu con?\n\nb) Sau bao lâu thì số lượng vi khuẩn ban đầu sẽ tăng lên gấp đôi?",
+      "answer": null,
+      "explanation": "​\nBan đầu có 500 con vi khuẩn và sau 1 giờ tăng lên 800 con ta có:\n\n$800 = 500{e^r} \\Leftrightarrow {e^r} = 1,6 \\Leftrightarrow r = \\ln 1,6$.\n\na) Sau 5 giờ thì số lượng vi khuẩn là:\n\n$N(5) = 500.{e^{5.\\ln 1,6}} = 5242,88$ (con).\n\nb) Số lượng vi khuẩn ban đầu sẽ tăng lên gấp đôi nên ta có:\n\n$2{N_0} = {N_0}{e^{t.\\ln 1,6}} \\Leftrightarrow {e^{t.\\ln 1,6}} = 2 \\Leftrightarrow t.\\ln 1,6 = \\ln 2 \\Leftrightarrow t \\approx 1,47$.\n\nVậy sau khoảng 1,47 giờ thì số lượng vi khuẩn ban đầu sẽ tăng lên gấp đôi."
+    },
+    {
+      "id": 14,
+      "type": "short_answer",
+      "content": "<strong>40 trang 26 SGK Toán 11 tập 2</strong>\n\nVào năm 1938, nhà vật lí Frank Benford đã đưa ra một phương pháp để xác định xem một bộ số đã được chọn ngẫu nhiên hay đã được chọn theo cách thủ công. Nếu bộ số này không được chọn ngẫu nhiên thì công thức Benford sau sẽ được dùng ước tính xác suất $P$ để chữ số d là chữ số đầu tiên của bộ số đó: $P = \\log \\frac{{d + 1}}{d}$. (Theo F. Benford, The Law of Anomalous Numbers, <em>Proc. Am. Philos. Soc</em>. 78 (1938), $551 - 572)$.\n\nChẳng hạn, xác suất để chữ số đầu tiên là 9 bằng khoảng $4,6\\% $ (thay $d = 9$ trong công thức Benford để tính $P$ ).\n\na) Viết công thức tìm chữ số $d$ nếu cho trước xác suất $P$.\n\nb) Tìm chữ số có xác suất bằng $9,7\\% $ được chọn.\n\nc) Tính xác suất để chữ số đầu tiên là 1.",
+      "answer": null,
+      "explanation": "​\na) $P = \\log \\frac{{d + 1}}{d} \\Leftrightarrow \\frac{{d + 1}}{d} = {10^P} \\Leftrightarrow 1 + \\frac{1}{d} = {10^P} \\Leftrightarrow \\frac{1}{d} = {10^P} - 1 \\Leftrightarrow d = \\frac{1}{{{{10}^P} - 1}}$.\n\nb) Chữ số có xác suất bằng $9,7\\% $ nên ta có P = 9,7%. Từ ý a suy ra:\n\n$d = \\frac{1}{{{{10}^{9,7\\% }} - 1}} \\approx 4$.\n\nVậy chữ số 4 có xác suất bằng $9,7\\% $ được chọn.\n\nc) Xác suất để chữ số đầu tiên là 1:\n\n$P = \\log \\frac{{1 + 1}}{1} \\approx 0,3$."
+    }
+  ]
+}

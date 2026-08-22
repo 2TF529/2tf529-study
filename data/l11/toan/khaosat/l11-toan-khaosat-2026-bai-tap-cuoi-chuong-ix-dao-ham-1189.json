@@ -1,0 +1,155 @@
+{
+  "id": "l11-toan-khaosat-2026-bai-tap-cuoi-chuong-ix-dao-ham-1189",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "code": "Đề 01",
+  "title": "Bài tập cuối chương IX: Đạo hàm",
+  "duration": 90,
+  "answerSource": "missing",
+  "sourceUrl": "https://sieugioi.com/docs/threads/bai-tap-cuoi-chuong-ix-dao-ham.1189/",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "<strong>18 trang 97 SGK Toán 11 tập 2</strong>\n\nVới u, v là các hàm số hợp theo biến x, quy tắc đạo hàm nào sau đây là đúng?",
+      "options": [
+        "A. $(u + v)' = u' - v'$.",
+        "B. $(uv)' = u'v + uv'$.",
+        "C. ${\\left( {\\frac{1}{v}} \\right)^,} = - \\frac{1}{{{v^2}}}$.",
+        "D. ${\\left( {\\frac{u}{v}} \\right)^,} = \\frac{{u'v + uv'}}{{{v^2}}}$."
+      ],
+      "answer": null,
+      "explanation": "​\nĐáp án B"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "<strong>19 trang 97 SGK Toán 11 tập 2</strong>\n\nCho hàm số $f(x) = {x^2} + {\\sin ^3}x$. Khi đó $f'\\left( {\\frac{\\pi }{2}} \\right)$ bằng",
+      "options": [
+        "A. $\\pi $.",
+        "B. $2\\pi $.",
+        "C. $\\pi + 3$.",
+        "D. $\\pi - 3$."
+      ],
+      "answer": null,
+      "explanation": "​\n$\\begin{array}{l}f(x) = {x^2} + {\\sin ^3}x\\\\f'(x) = 2x + 3{\\sin ^2}x.(\\sin )' = 2x + 3{\\sin ^2}x.\\cos x\\\\f'\\left( {\\frac{\\pi }{2}} \\right) = 2\\frac{\\pi }{2} + 3{\\sin ^2}\\frac{\\pi }{2}.\\cos \\frac{\\pi }{2} = \\pi \\end{array}$\n\nĐáp án A."
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "<strong>20 trang 97 SGK Toán 11 tập 2</strong>\n\nCho hàm số $f(x) = \\frac{1}{3}{x^3} - {x^2} - 3x + 1$. Tập nghiệm của bất phương trình $f'(x) \\le 0$ là",
+      "options": [
+        "A. [1 ; 3].",
+        "B. $[ - 1;3]$.",
+        "C. $[ - 3;1]$.",
+        "D. $[ - 3; - 1]$"
+      ],
+      "answer": null,
+      "explanation": "​\nTa có $f'(x) = {x^2} - 2x - 3f'(x) \\le 0 \\Leftrightarrow {x^2} - 2x - 3 \\le 0 \\Leftrightarrow - 1 \\le x \\le 3$\n\nĐáp án B"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "<strong>21 trang 97 SGK Toán 11 tập 2</strong>\n\nCho hàm số $f(x) = \\sqrt {4 + 3u(x)} $ với $u(1) = 7,u'(1) = 10$. Khi đó $f'(1)$ bằng",
+      "options": [
+        "A. 1.",
+        "B. 6 .",
+        "C. 3 .",
+        "D. -3 ."
+      ],
+      "answer": null,
+      "explanation": "​\nTa có $f'(x) = \\frac{{3u'\\left( x \\right)}}{{2\\sqrt {4 + 3u(x)} }}$\n\nNên $f'(1) = \\frac{{3u'\\left( 1 \\right)}}{{2\\sqrt {4 + 3u(1)} }} = \\frac{{3.10}}{{2\\sqrt {4 + 3.7} }} = 3$\n\nĐáp án C"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "<strong>22 trang 97 SGK Toán 11 tập 2</strong>\n\nCho hàm số $f(x) = {x^2}{e^{ - 2x}}$. Tập nghiệm của phương trình $f'(x) = 0$ là",
+      "options": [
+        "A. $\\{ 0;1\\} $.",
+        "B. $\\{ - 1;0\\} $.",
+        "C. $\\{ 0\\} $.",
+        "D. $\\{ 1\\} $."
+      ],
+      "answer": null,
+      "explanation": "​\nTa có $f'(x) = 2x{e^{ - 2x}} - 2{x^2}{e^{ - 2x}}\\begin{array}{l}f'(x) = 0 \\Leftrightarrow 2x{e^{ - 2x}} - 2{x^2}{e^{ - 2x}} = 0\\\\ \\Leftrightarrow 2x{e^{ - 2x}}\\left( {1 - x} \\right) = 0\\\\ \\Leftrightarrow \\left[ \\begin{array}{l}x = 0\\\\x = 1\\end{array} \\right.\\end{array}$\n\nĐáp án A"
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "content": "<strong>25 trang 97 SGK Toán 11 tập 2</strong>\n\nTính đạo hàm của các hàm số sau:",
+      "statements": [
+        "a) $y = {\\left( {\\frac{{2x - 1}}{{x + 2}}} \\right)^5}$",
+        "b) $y = \\frac{{2x}}{{{x^2} + 1}}$;",
+        "c) $y = {e^x}{\\sin ^2}x$;",
+        "d) $y = \\log (x + \\sqrt x )$."
+      ],
+      "answer": [],
+      "explanation": "​\na) $y' = 5{\\left( {\\frac{{2x - 1}}{{x + 2}}} \\right)^4}{\\left( {\\frac{{2x - 1}}{{x + 2}}} \\right)^,} = 5{\\left( {\\frac{{2x - 1}}{{x + 2}}} \\right)^4}.\\frac{{2\\left( {x + 2} \\right) - \\left( {2x - 1} \\right)}}{{{{\\left( {x + 2} \\right)}^2}}}\\\\ = 5{\\left( {\\frac{{2x - 1}}{{x + 2}}} \\right)^4}.\\frac{5}{{{{\\left( {x + 2} \\right)}^2}}} = \\frac{{25{{\\left( {2x - 1} \\right)}^4}}}{{{{\\left( {x + 2} \\right)}^6}}}$\n\nb) $y' = \\frac{{\\left( {2x} \\right)'\\left( {{x^2} + 1} \\right) - 2x\\left( {{x^2} + 1} \\right)'}}{{{{\\left( {{x^2} + 1} \\right)}^2}}} = \\frac{{2{x^2} + 2 - 4{x^2}}}{{{{\\left( {{x^2} + 1} \\right)}^2}}} = \\frac{{ - 2{x^2} + 2}}{{{{\\left( {{x^2} + 1} \\right)}^2}}}$;\n\nc) $y' = \\left( {{e^x}} \\right)'{\\sin ^2}x + {e^x}\\left( {{{\\sin }^2}x} \\right)' = {e^x}{\\sin ^2}x + {e^x}.2\\sin x.\\cos x = {e^x}{\\sin ^2}x + {e^x}\\sin 2x$;\n\nd) $y' = {\\left[ {\\log \\left( {x + \\sqrt x } \\right)} \\right]^,} = \\frac{{\\left( {x + \\sqrt x } \\right)'}}{{\\left( {x + \\sqrt x } \\right)\\ln 10}} = \\frac{{1 + \\frac{1}{{2\\sqrt x }}}}{{\\left( {x + \\sqrt x } \\right)\\ln 10}} = \\frac{{2\\sqrt x + 1}}{{2\\sqrt x \\left( {x + \\sqrt x } \\right)\\ln 10}}$"
+    },
+    {
+      "id": 7,
+      "type": "short_answer",
+      "content": "<strong>26 trang 98 SGK Toán 11 tập 2</strong>\n\nXét hàm số luỹ thừa $y = {x^\\alpha }$ với $\\alpha $ là số thực.\n\na) Tìm tập xác định của hàm số đã cho.\n\nb) Bằng cách viết $y = {x^\\alpha } = {e^{\\alpha \\ln x}}$, tính đạo hàm của hàm số đã cho.",
+      "answer": null,
+      "explanation": "​\na) Hàm số luỹ thừa $y = {x^\\alpha }$ với $\\alpha $ là số thực có tập xác định khác nhau, tùy theo $\\alpha $:\n\n- Nếu $\\alpha $ nguyên dương thì tập xác định là $\\mathbb{R}$\n\n- Nếu $\\alpha $ nguyên âm hoặc $\\alpha = 0$ thì tập xác định là $\\mathbb{R}\\backslash \\left\\{ 0 \\right\\}$\n\n- Nếu $\\alpha $ không nguyên thì tập xác định là $\\left( {0; + \\infty } \\right)$\n\nb) $y' = {\\left( {{x^\\alpha }} \\right)^,} = {\\left( {{e^{\\alpha \\ln x}}} \\right)^,} = {\\left( {\\alpha \\ln x} \\right)^,}{e^{\\alpha \\ln x}} = \\frac{\\alpha }{x}{e^{\\alpha \\ln x}} = \\frac{\\alpha }{x}.{x^\\alpha } = \\alpha {x^{\\alpha - 1}}$"
+    },
+    {
+      "id": 8,
+      "type": "short_answer",
+      "content": "<strong>27 trang 98 SGK Toán 11 tập 2</strong>\n\nCho hàm số $f(x) = \\sqrt {3x + 1} $. Đặt $g(x) = f(1) + 4\\left( {{x^2} - 1} \\right)f'(1)$. Tính $g(2)$.",
+      "answer": null,
+      "explanation": "​\nTa có $f'(x) = \\frac{3}{{2\\sqrt {3x + 1} }}$.\n\nDo đó $f\\left( 1 \\right) = 2,f'\\left( 1 \\right) = \\frac{3}{4}$.\n\nVậy $g(2) = f(1) + 4\\left( {{2^2} - 1} \\right)f'(1)= 2 + 12.\\frac{3}{4} = 11$."
+    },
+    {
+      "id": 9,
+      "type": "short_answer",
+      "content": "<strong>28 trang 98 SGK Toán 11 tập 2</strong>\n\nCho hàm số $f(x) = \\frac{{x + 1}}{{x - 1}}$. Tính $f''(0)$.",
+      "answer": null,
+      "explanation": "​\n$f'(x) = \\left( {\\frac{{x + 1}}{{x - 1}}} \\right)' = \\frac{{\\left( {x + 1} \\right)'\\left( {x - 1} \\right) - \\left( {x + 1} \\right)\\left( {x - 1} \\right)'}}{{{{\\left( {x - 1} \\right)}^2}}} = \\frac{{1.\\left( {x - 1} \\right) - \\left( {x + 1} \\right).1}}{{{{\\left( {x - 1} \\right)}^2}}} = \\frac{{x - 1 - x - 1}}{{{{\\left( {x - 1} \\right)}^2}}} = \\frac{{ - 2}}{{{{\\left( {x - 1} \\right)}^2}}}$.\n\n$f''(x) = \\left[ {\\frac{{ - 2}}{{{{\\left( {x - 1} \\right)}^2}}}} \\right]' = \\frac{{\\left( { - 2} \\right)'{{\\left( {x - 1} \\right)}^2} - \\left( { - 2} \\right)\\left[ {{{\\left( {x - 1} \\right)}^2}} \\right]'}}{{{{\\left[ {{{\\left( {x - 1} \\right)}^2}} \\right]}^2}}} = \\frac{{0 - \\left( { - 2} \\right).2\\left( {x - 1} \\right)}}{{{{\\left( {x - 1} \\right)}^4}}} = \\frac{{4\\left( {x - 1} \\right)}}{{{{\\left( {x - 1} \\right)}^4}}} = \\frac{4}{{{{\\left( {x - 1} \\right)}^3}}}$.\n\n$f''(0) = \\frac{4}{{{{\\left( {0 - 1} \\right)}^3}}} = - 4$."
+    },
+    {
+      "id": 10,
+      "type": "short_answer",
+      "content": "<strong>29 trang 98 SGK Toán 11 tập 2</strong>\n\nCho hàm số $f(x)$ thoả mãn $f(1) = 2$ và $f'(x) = {x^2}f(x)$ với mọi $x$. Tính $f''(1)$.",
+      "answer": null,
+      "explanation": "​\n$f''(x) = \\left[ {{x^2}f(x)} \\right]' = ({x^2})'f(x) + {x^2}f'(x) = 2xf(x) + {x^2}f'(x)$.\n\nTheo đề bài: $f(1) = 2$.\n\nTa có: $f'(1) = {1^2}.f(1) = 1.2 = 2$.\n\nVậy $f''(1) = 2.1.f(1) + {1^2}.f'(1) = 2.1.2 + {1^2}.2 = 6$."
+    },
+    {
+      "id": 11,
+      "type": "short_answer",
+      "content": "<strong>30 trang 98 SGK Toán 11 tập 2</strong>\n\nViết phương trình tiếp tuyến của đồ thị hàm số $y = {x^3} + 3{x^2} - 1$ tại điểm có hoành độ bằng 1.",
+      "answer": null,
+      "explanation": "​\nTa có $y' = 3{x^2} + 6x\\Rightarrow y'\\left( 1 \\right) =3{1^2} + 6.1= 9$.\n\nMặt khác $f\\left( 1 \\right) = {1^3} + 3.{1^2} - 1= 3$.\n\nPhương trình tiếp tuyến cần tìm là:\n\n$y - 3 = 9\\left( {x - 1} \\right)$ hay $y = 9x - 6$."
+    },
+    {
+      "id": 12,
+      "type": "short_answer",
+      "content": "<strong>31 trang 98 SGK Toán 11 tập 2</strong>\n\nĐồ thị của hàm số $y = \\frac{a}{x}$ (a là hằng số dương) là một đường hypebol. Chứng minh rằng tiếp tuyến tại một điểm bất kì của đường hypebol đó tạo với các trục toạ độ một tam giác có diện tích không đổi.",
+      "answer": null,
+      "explanation": "​\nTa có $y' = \\frac{{ - a}}{{{x^2}}}$.\n\nPhương trình tiếp tuyến của hypebol tại điểm có hoành độ ${x_0}$ là:\n\n\n$y - \\frac{a}{{{x_0}}} = \\frac{{ - a}}{{x_0^2}}\\left( {x - {x_0}} \\right)$ hay $y = \\frac{{ - a}}{{x_0^2}}x + \\frac{{2a}}{{{x_0}}}$.​\nGọi phương trình tiếp tuyến cắt hai trục tọa độ lần lượt tại $A$, $B \\Rightarrow A\\left( {0;\\frac{{2a}}{{{x_0}}}} \\right)$, $B\\left( {2{x_0};0} \\right)$.\n\nDo đó diện tích tam OAB bằng $\\frac{1}{2}.OA.OB = \\frac{1}{2}\\left| {\\frac{{2a}}{{{x_0}}}.2{x_0}} \\right| = 2a$ (là một hằng số).\n\nVậy tiếp tuyến tại một điểm bất kì của đường hypebol đó tạo với các trục toạ độ một tam giác có diện tích không đổi."
+    },
+    {
+      "id": 13,
+      "type": "short_answer",
+      "content": "<strong>32 trang 98 SGK Toán 11 tập 2</strong>\n\nHình 9.10 biểu diễn đồ thị của ba hàm số. Hàm số thứ nhất là hàm vị trí của một chiếc ô tô, hàm số thứ hai biểu thị vận tốc và hàm số thứ ba biểu thị gia tốc của ô tô đó. Hãy xác định đồ thị của mỗi hàm số này và giải thích.\n\n\n\n\n\n<figure class=\"question-figure\"><img src=\"data/l11/toan/khaosat/assets/l11-toan-khaosat-2026-bai-tap-cuoi-chuong-ix-dao-ham-1189/hinh-01.webp\" alt=\"Hình minh họa\" loading=\"lazy\"></figure>",
+      "answer": null,
+      "explanation": "​\nHàm số c luôn đồng biến, tức là đạo hàm của nó phải luôn không âm, do đó hàm số b là đạo hàm của hàm số c; hàm số b đồng biến trên khoảng mà hàm số a dương và nghịch biến trên khoảng mà hàm số a âm, do đó hàm số a là đạo hàm của hàm số b.\n\nVậy hàm số a là hàm gia tốc, hàm số b là hàm vận tốc và hàm số c là hàm vị trí của ô tô."
+    },
+    {
+      "id": 14,
+      "type": "true_false",
+      "content": "<strong>33 trang 98 SGK Toán 11 tập 2</strong>\n\nVị trí của một vật chuyển động thẳng được cho bởi phương trình: $s = f(t) = {t^3} - 6{t^2} + 9t$, trong đó t tính bằng giây và s tính bằng mét.",
+      "statements": [
+        "a) Tính vận tốc của vật tại các thời điểm t = 2 giây và t = 4 giây.",
+        "b) Tại những thời điểm nào vật đứng yên?",
+        "c) Tìm gia tốc của vật tại thời điểm t = 4 giây.",
+        "d) Tính tổng quãng đường vật đi được trong 5 giây đầu tiên.\n\ne) Trong 5 giây đầu tiên, khi nào vật tăng tốc, khi nào vật giảm tốc?"
+      ],
+      "answer": [],
+      "explanation": "​\na) Ta có $v\\left( t \\right) = s'\\left( t \\right) = 3{t^2} - 12t + 9$\n\nVận tốc của vật tại thời điểm t = 2 giây là $v\\left( 2 \\right) = {3.2^2} - 12.2 + 9 = - 3$(m/s)\n\nVận tốc của vật tại thời điểm t = 4 giây là $v\\left( 4 \\right) = {3.4^2} - 12.4 + 9 = 9$(m/s)\n\nb) Khi vật đứng yên ta có: $v\\left( t \\right) = 0 \\Leftrightarrow 3{t^2} - 12t + 9 = 0 \\Leftrightarrow \\left[ \\begin{array}{l}t = 3\\\\t = 1\\end{array} \\right.$\n\nc) Ta có $a\\left( t \\right) = s''\\left( t \\right) = 6t - 12$\n\nGia tốc của vật tại thời điểm t = 4 giây là $a\\left( 4 \\right) = 6.4 - 12 = 12\\left( {m/{s^2}} \\right)$\n\nd) Ta có khi t = 1 hoặc t = 3 thì vật đứng yên\n\nDo đó ta cần tính riêng rẽ quãng đường vật đi được trong từng khoảng thời gian $\\left[ {0;1} \\right],\\left[ {1;3} \\right],\\left[ {3;5} \\right].$\n\nTừ thời điểm t = 0 giây đến thời điểm t = 1 giây, vật đi được quãng đường là: $\\left| {f\\left( 1 \\right) - f\\left( 0 \\right)} \\right| = \\left| {4 - 0} \\right| = 4m$\n\nTừ thời điểm t = 1 giây đến thời điểm t = 3 giây, vật đi được quãng đường là: $\\left| {f\\left( 3 \\right) - f\\left( 1 \\right)} \\right| = \\left| {0 - 4} \\right| = 4m$\n\nTừ thời điểm t = 3 giây đến thời điểm t = 5 giây, vật đi được quãng đường là: $\\left| {f\\left( 5 \\right) - f\\left( 3 \\right)} \\right| = \\left| {20 - 0} \\right| = 20m$\n\nTổng quãng đường vật đi được trong 5 giây đầu tiên là 4 + 4 + 20 = 28m\n\ne) Xét $a\\left( t \\right) = 0 \\Leftrightarrow t = 2.$\n\nVới $t \\in \\left[ {0;2} \\right)$ thì gia tốc âm, tức là vật giảm tốc.\n\nVới $t \\in \\left( {2;5} \\right]$ thì gia tốc dương, tức là vật tăng tốc."
+    }
+  ]
+}

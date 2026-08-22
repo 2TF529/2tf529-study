@@ -4,7 +4,7 @@
   "description": "Web thi thử trực tuyến 2TF529 — 9.600+ đề thi, JAMstack trên Cloudflare Pages",
   "scripts": {
     "dev": "astro dev",
-    "build": "astro build",
+    "build": "astro build && node scripts/copy-data-to-dist.mjs",
     "deploy": "wrangler deploy",
     "preview": "astro preview",
     "astro": "astro"

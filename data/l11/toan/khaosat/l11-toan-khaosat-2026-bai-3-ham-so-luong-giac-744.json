@@ -1,0 +1,56 @@
+{
+  "id": "l11-toan-khaosat-2026-bai-3-ham-so-luong-giac-744",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "code": "Đề 01",
+  "title": "Bài 3. Hàm số lượng giác",
+  "duration": 90,
+  "answerSource": "missing",
+  "sourceUrl": "https://sieugioi.com/docs/threads/bai-3-ham-so-luong-giac.744/",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "type": "short_answer",
+      "content": "<strong>14 trang 30 SGK Toán 11 tập 1</strong>\n\nTìm tập xác định của các hàm số sau:\n\na) $y = \\frac{{1 - \\cos x}}{{\\sin x}}$;\n\nb) $y = \\sqrt {\\frac{{1 + \\cos x}}{{2 - \\cos x}}} $.",
+      "answer": null,
+      "explanation": "​\na) Biểu thức $\\frac{{1 - \\cos x}}{{\\sin x}}$ có nghĩa khi $\\sin x \\ne 0$, tức là $x \\ne k\\pi \\left( {k \\in \\mathbb{Z}} \\right)$.\n\nVậy tập xác định của hàm số đã cho là $\\mathbb{R}/{\\rm{\\{ }}k\\pi {\\rm{|}}k \\in \\mathbb{Z}\\}$.\n\nb) Biểu thức $\\sqrt {\\frac{{1 + \\cos x}}{{2 - \\cos x}}} $ có nghĩa khi $\\left\\{ {\\begin{array}{*{20}{c}}{\\frac{{1 + \\cos x}}{{2 - \\cos x}} \\ge 0}\\\\{2 - \\cos x \\ne 0}\\end{array}} \\right.$\n\nVì $ - 1 \\le \\cos x \\le 1 ,\\forall x \\in \\mathbb{R}$.\n\nVậy tập xác định của hàm số là $D = \\mathbb{R}$."
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "content": "<strong>15 trang 30 SGK Toán 11 tập 1</strong>\n\nXét tính chẵn lẻ của các hàm số sau:",
+      "statements": [
+        "a) $y = \\sin 2x + \\tan 2x$;",
+        "b) $y = \\cos x + {\\sin ^2}x$;",
+        "c) $y = \\sin x\\cos 2x$;",
+        "d) $y = \\sin x + \\cos x$."
+      ],
+      "answer": [],
+      "explanation": "​\na) Hàm số $y = \\sin 2x + \\tan 2x$ có nghĩa khi $\\tan 2x$ có nghĩa.\n\n$\\cos 2x \\ne 0 \\Leftrightarrow 2x \\ne \\frac{\\pi }{2} \\Leftrightarrow x \\ne \\frac{\\pi }{4} + \\frac{{k\\pi }}{2}$.\n\nVây tập xác định của hàm số là $D = \\mathbb{R}\\;\\backslash \\left\\{ {\\frac{\\pi }{4} + \\frac{{k\\pi }}{2}} \\right\\}$.\n\nDo đó, nếu x thuộc tập xác định D thì –x cũng thuộc tập xác định D.\n\nTa có: $f\\left( { - x} \\right) = \\sin \\left( { - 2x} \\right) + \\tan \\left( { - 2x} \\right)= - \\sin 2x - \\tan 2x = - \\left( {\\sin 2x + \\tan 2x} \\right) = - f\\left( x \\right),\\;\\forall x \\in D$.\n\nVậy $y = \\sin 2x + \\tan 2x$ là hàm số lẻ.\n\nb) Tập xác định của hàm số là $D = \\mathbb{R}$.\n\nDo đó, nếu x thuộc tập xác định D thì –x cũng thuộc tập xác định D.\n\nTa có: $f\\left( { - x} \\right) = \\cos \\left( { - x} \\right) + {\\sin ^2}\\left( { - x} \\right) = \\cos x + {\\sin ^2}x = f\\left( x \\right),\\;\\forall x \\in D$.\n\nVậy $y = \\cos x + {\\sin ^2}x$ là hàm số chẵn.\n\nc) Tập xác định của hàm số là $D = \\mathbb{R}$.\n\nDo đó, nếu x thuộc tập xác định D thì –x cũng thuộc tập xác định D.\n\nTa có: $f\\left( { - x} \\right) = \\sin \\left( { - x} \\right)\\cos \\left( { - 2x} \\right) = - \\sin x.\\cos 2x = - f\\left( x \\right),\\;\\forall x \\in D$.\n\nVậy $y = \\sin x\\cos 2x$ là hàm số lẻ.\n\nd) Tập xác định của hàm số là $D = \\mathbb{R}$.\n\nDo đó, nếu x thuộc tập xác định D thì –x cũng thuộc tập xác định D.\n\nTa có: $f\\left( { - x} \\right) = \\sin \\left( { - x} \\right) + \\cos \\left( { - x} \\right)= - \\sin x + \\cos x \\ne \\pm f\\left( x \\right),\\;\\forall x \\in D$.\n\nVậy $y = \\sin x + \\cos x$ không là hàm số chẵn cũng không là hàm số lẻ."
+    },
+    {
+      "id": 3,
+      "type": "short_answer",
+      "content": "<strong>16 trang 30 SGK Toán 11 tập 1</strong>\n\nTìm tập giá trị của các hàm số sau:\n\na) $y = 2\\sin \\left( {x - \\frac{\\pi }{4}} \\right) - 1$;\n\nb) $y = \\sqrt {1 + \\cos x} - 2$;",
+      "answer": null,
+      "explanation": "​\na) Tập xác định của hàm số là $D = \\mathbb{R}$.\n\nVì $ - 1 \\le \\sin \\left( {x - \\frac{\\pi }{4}} \\right) \\le 1 \\Rightarrow - 2 \\le 2\\sin \\left( {x - \\frac{\\pi }{4}} \\right) \\le 2\\Rightarrow - 2 - 1 \\le 2\\sin \\left( {x - \\frac{\\pi }{4}} \\right) - 1 \\le 2 - 1 \\Rightarrow - 3 \\le 2\\sin \\left( {x - \\frac{\\pi }{4}} \\right) - 1 \\le 1$.\n\nVây tập giá trị của hàm số $y = 2\\sin \\left( {x - \\frac{\\pi }{4}} \\right) - 1$ là $T = \\left[ { - 3;1} \\right]$.\n\nb) Tập xác định của hàm số là $D = \\mathbb{R}$.\n\nVì $ - 1 \\le \\cos x \\le 1 \\Rightarrow 0 \\le 1 + \\cos x \\le 2 \\Rightarrow 0 \\le \\sqrt {1 + \\cos x} \\le \\sqrt 2 \\Rightarrow - 2 \\le \\sqrt {1 + \\cos x} - 2 \\le \\sqrt 2 - 2$.\n\nVậy tập giá trị của hàm số $y = \\sqrt {1 + \\cos x} - 2$ là $T = \\left[ { - 2;\\sqrt 2 - 2} \\right]$."
+    },
+    {
+      "id": 4,
+      "type": "short_answer",
+      "content": "<strong>17 trang 30 SGK Toán 11 tập 1</strong>\n\nTừ đồ thị của hàm số $y = \\tan x$, hãy tìm các giá trị x sao cho $\\tan x = 0$.",
+      "answer": null,
+      "explanation": "​\nTừ đồ thị hàm số $y = \\tan x$, ta có:\n\n\n\n[[SGIMG:10:https://sieugioi.com/docs/attachments/1783999642210-png.5966/]]\n\n\n\n$\\tan x= 0\\Leftrightarrow x = k\\pi ,\\;k \\in \\mathbb{Z}$."
+    },
+    {
+      "id": 5,
+      "type": "short_answer",
+      "content": "<strong>18 trang 30 SGK Toán 11 tập 1</strong>\n\nGiả sử khi một cơn sóng biến đi qua một cái cọc ở ngoài khơi, chiều cao của nước được mô hình hóa bởi hàm số $h\\left( t \\right) = 90\\cos \\left( {\\frac{\\pi }{{10}}t} \\right)$, trong đó h(t) là độ cao tính bằng centimet trên mực nước biển trung bình tại thời điểm t giây.\n\na) Tìm chu kì của sóng.\n\nb) Tìm chiều cao của sóng, tức là khoảng cách theo phương thẳng đứng giữa đáy và đỉnh của sóng.",
+      "answer": null,
+      "explanation": "​\na) Chu kỳ của sóng $T = \\frac{{2\\pi }}{\\omega } = \\frac{{2\\pi }}{{\\frac{\\pi }{{10}}}} = 20$ (s).\n\nb) Vì $ - 1 \\le \\cos \\left( {\\frac{\\pi }{{10}}t} \\right) \\le 1\\Rightarrow - 90 \\le 90\\cos \\left( {\\frac{\\pi }{{10}}t} \\right) \\le 90$.\n\nVậy chiều cao của sóng theo phương thẳng đứng là: $90 + 90 = 180$ (cm)."
+    }
+  ]
+}

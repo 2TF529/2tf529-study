@@ -1,0 +1,68 @@
+{
+  "id": "l11-toan-khaosat-2026-bai-14-phep-chieu-song-song-755",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "code": "Đề 01",
+  "title": "Bài 14. Phép chiếu song song",
+  "duration": 90,
+  "answerSource": "partial",
+  "sourceUrl": "https://sieugioi.com/docs/threads/bai-14-phep-chieu-song-song.755/",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "content": "<strong>29 trang 100 SGK Toán 11 tập 1</strong>\n\nNhững mệnh đề nào trong các mệnh đề sau đây là đúng?",
+      "statements": [
+        "a) Phép chiếu song song biến đoạn thẳng thành đoạn thẳng.",
+        "b) Phép chiếu song song biến hai đường thẳng song song thành hai đường thẳng cắt nhau.",
+        "c) Phép chiếu song song biến tam giác đều thành tam giác cân.",
+        "d) Phép chiếu song song biến hình vuông thành hình bình hành."
+      ],
+      "answer": [
+        "D",
+        "S",
+        "S",
+        "D"
+      ],
+      "explanation": "​\na) Đúng.\n\nb) Sai. Phép chiếu song song biến hai đường thẳng song song thành hai đường thẳng song song hoặc trung nhau.\n\nc) Sai. Phép chiếu song song biến tam giác đều thành tam giác.\n\nd) Đúng."
+    },
+    {
+      "id": 2,
+      "type": "short_answer",
+      "content": "<strong>30 trang 100 SGK Toán 11 tập 1</strong>\n\nNếu tam giác A’B’C’ là hình chiếu của tam giác ABC qua một phép chiếu song song thì tam giác ABC có phải là hình chiếu của tam giác A’B’C’ qua một phép chiếu song song hay không? Giải thích vì sao.",
+      "answer": null,
+      "explanation": "[[SGIMG:13:https://sieugioi.com/docs/attachments/1784021614393-png.6061/]]\n\n\nNếu tam giác A′B′C′ là hình chiếu của tam giác ABC theo phương d thì tam giác ABC là hình chiếu của tam giác A′B′C′ vì tam giác ABC là tập hợp tất cả các hình chiếu của các điểm thuộc A'B'C' qua phép chiếu song song theo phương d."
+    },
+    {
+      "id": 3,
+      "type": "short_answer",
+      "content": "<strong>31 trang 100 SGK Toán 11 tập 1</strong>\n\nPhép chiếu song song biến tam giác ABC thành tam giác A’B’C’. Chứng minh rằng phép chiếu đó biến trọng tâm của tam giác ABC thành trọng tâm của tam giác A’B’C’.",
+      "answer": null,
+      "explanation": "[[SGIMG:14:https://sieugioi.com/docs/attachments/1784021649087-png.6062/]]\n\n\nVì K là trung điểm BC nên B, K, C thẳng hàng theo thứ tự đó và BK = KC. Do vậy B', K', C' thẳng hàng theo thứ tự đó và B'K' = K'C', tức K' là trung điểm B'C'.\n\nVì G là trọng tâm tam giác ABC nên A, G, K thẳng hàng theo thứ tự đó và AG = 2GK. Do vậy A, G', K' thẳng hàng theo thứ tự đó và A'G' = 2G'K', tức G là trọng tâm tam giác A'B'C'."
+    },
+    {
+      "id": 4,
+      "type": "short_answer",
+      "content": "<strong>32 trang 100 SGK Toán 11 tập 1</strong>\n\nHình 4.65 có thể là hình biểu diễn của một hình lục giác đều hay không? Vì sao?\n\n\n\n<figure class=\"question-figure\"><img src=\"data/l11/toan/khaosat/assets/l11-toan-khaosat-2026-bai-14-phep-chieu-song-song-755/hinh-01.webp\" alt=\"Hình minh họa\" loading=\"lazy\"></figure>",
+      "answer": null,
+      "explanation": "​\n+) Xét hình lục giác đều MNPQRS có tâm O.\n\n\n\n[[SGIMG:16:https://sieugioi.com/docs/attachments/1784021713540-png.6064/]]\n\n\n\nTa nhận thấy:\n\n- Tứ giác OSMN là hình thoi;\n\n- Các điểm P, Q, R lần lượt là các điểm đối xứng của các điểm S, M, N qua tâm O.\n\nTừ đó suy ra các vẽ hình biểu diễn của hình lục giác đều MNPQRS như sau:\n\n- Vẽ hình bình hành O'S'M'N' biểu diễn cho hình thoi OSMN;\n\n- Lấy các điểm P', Q', R' lần lượt là các điểm đối xứng của các điểm S', M', N' qua O', ta được hình biểu diễn M'N'P'Q'R'S' của hình lục giác đều MNPQRS.\n\n\n\n[[SGIMG:17:https://sieugioi.com/docs/attachments/1784021723516-png.6065/]]\n\n\n\n+) Gọi I là giao điểm các đường chéo AD, BE và CF trong hình lục giác ABCDEF ở Hình 4.65.\n\n\n\n[[SGIMG:18:https://sieugioi.com/docs/attachments/1784021736973-png.6066/]]\n\n\n\nKhi đó nếu ABCDEF là hình biểu diễn của hình lục giác đều thì phải thỏa mãn hai điều kiện:\n\n- Tứ giác IFAB là hình bình hành (1);\n\n- D, E, F lần lượt là các điểm đối xứng của các điểm A, B, C qua I (2).\n\nTừ hình vẽ ta thấy điều kiện (2) thỏa mãn nhưng điều kiện (1) không thỏa mãn. Vậy Hình 4.65 không thể là hình biểu diễn của một hình lục giác đều."
+    },
+    {
+      "id": 5,
+      "type": "short_answer",
+      "content": "<strong>33 trang 100 SGK Toán 11 tập 1</strong>\n\nVẽ hình biểu diễn của hình chóp S.ABCD có đáy ABCD là hình thang, AB song song với CD và AB = 2 cm, CD = 6 cm.",
+      "answer": null,
+      "explanation": "​\nHình chóp S.ABCD có các mặt bên là hình tam giác nên hình biểu diễn của nó cũng các mặt bên là hình tam giác\n\nHình thang ABCD có AB // CD và AB = 2 cm, CD = 6 cm nên hình biểu diễn của ABCD là một hình thang có đáy CD gấp ba đáy BC.\n\nTừ đó, ta vẽ được hình biểu diễn của S.ABCD.\n\n\n\n[[SGIMG:19:https://sieugioi.com/docs/attachments/1784021767065-png.6067/]]"
+    },
+    {
+      "id": 6,
+      "type": "short_answer",
+      "content": "<strong>34 trang 100 SGK Toán 11 tập 1</strong>\n\nTrong hình bên, AB và CD là bóng của hai thanh chắn của một chiếc thang dưới ánh mặt trời. Hãy giải thích tại sao AB song song với CD.\n\n\n\n<figure class=\"question-figure\"><img src=\"data/l11/toan/khaosat/assets/l11-toan-khaosat-2026-bai-14-phep-chieu-song-song-755/hinh-02.webp\" alt=\"Hình minh họa\" loading=\"lazy\"></figure>",
+      "answer": null,
+      "explanation": "​\nVì các thanh chắn của chiếc thang song song với với nhau nên hình chiếu của chúng cũng song song với nhau."
+    }
+  ]
+}

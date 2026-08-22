@@ -1,0 +1,50 @@
+{
+  "id": "l11-toan-khaosat-2026-bai-29-cong-thuc-cong-xac-suat-770",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "code": "Đề 01",
+  "title": "Bài 29. Công thức cộng xác suất",
+  "duration": 90,
+  "answerSource": "missing",
+  "sourceUrl": "https://sieugioi.com/docs/threads/bai-29-cong-thuc-cong-xac-suat.770/",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "type": "short_answer",
+      "content": "<strong>6 trang 75 SGK Toán 11 tập 2</strong>\n\nMột hộp đựng 8 viên bi màu xanh và 6 viên bi màu đỏ, có cùng kích thước và khối lượng. Bạn Sơn lấy ngẫu nhiên một viên bi từ hộp (lấy xong không trả lại vào hộp). Tiếp đó đến lượt bạn Tùng lấy ngẫu nhiên một viên bi từ hộp đó. Tính xác suất để bạn Tùng lấy được viên bi màu xanh.",
+      "answer": null,
+      "explanation": "​\nTa có tổng 14 viên bi, Sơn có 14 cách chọn 1 viên. Sau khi Sơn chọn, Tùng sẽ chọn 1 trong 13 viên bi còn lại.\n\nTa có số cách chọn một viên bi trong hộp là 14.13 = 182.\n\nA: “Sơn lấy màu xanh, Tùng lấy màu xanh”.\n\nCông đoạn 1: Sơn lấy màu xanh có 8 cách (vì có 8 viên xanh).\n\nCông đoạn 2: Tùng lấy màu xanh có 7 cách vì Sơn lấy xong không trả lại vào hộp.\n\nTheo quy tắc nhân, tập A có 8.7 = 56 (phần tử).\n\n$ \\Rightarrow P\\left( A \\right) = \\frac{{56}}{{182}} = \\frac{4}{{13}}$.\n\nB: “Sơn lấy màu đỏ, Tùng lấy màu xanh”.\n\nCông đoạn 1: Sơn lấy màu đỏ có 6 cách (vì có 6 viên đỏ).\n\nCông đoạn 2: Tùng lấy màu xanh có 8 cách (vì có 8 viên xanh).\n\nTheo quy tắc nhân, tập B có 6.8 = 48 (phần tử).\n\n$ \\Rightarrow P\\left( B \\right) = \\frac{{48}}{{182}} = \\frac{{24}}{{91}}$.\n\nC: “Bạn Tùng lấy được viên bi màu xanh” nên $C = A \\cup B$.\n\nA và B là hai biến cố xung khắc (không thể đồng thời xảy ra) nên ta có:\n\n$ P\\left( C \\right) = P\\left( A \\right) + P\\left( B \\right) = \\frac{4}{{13}} + \\frac{{24}}{{91}} = \\frac{4}{7}$.\n\nVậy xác suất để bạn Tùng lấy được viên bi màu xanh là $\\frac{4}{7}$."
+    },
+    {
+      "id": 2,
+      "type": "short_answer",
+      "content": "<strong>7 trang 75 SGK Toán 11 tập 2</strong>\n\nLớp 11A của một trường có 40 học sinh, trong đó có 14 bạn thích nhạc cổ điển, 13 bạn thích nhạc trẻ và 5 bạn thích cả nhạc cổ điển và nhạc trẻ. Chọn ngẫu nhiên một bạn trong lớp. Tính xác suất để:\n\na) Bạn đó thích nhạc cổ điển hoặc nhạc trẻ.\n\nb) Bạn đó không thích cả nhạc cổ điển và nhạc trẻ.",
+      "answer": null,
+      "explanation": "​\nGọi A là biến cố “Bạn đó thích nhạc cổ điển”, B là biến cố “Bạn đó thích nhạc trẻ”, C là biến cố “Bạn đó không thích cả nhạc cổ điển và nhạc trẻ”.\n\na) Xác suất bạn đó thích nhạc cổ điển là:\n\n$P\\left( A \\right) = \\frac{{14}}{{40}} = \\frac{7}{{20}}$.\n\nXác suất bạn đó thích nhạc trẻ là:\n\n$P\\left( B \\right) = \\frac{{13}}{{40}}$.\n\nXác suất bạn đó thích cả nhạc cổ điển và nhạc trẻ là:\n\n$P\\left( AB \\right) = \\frac{5}{{40}} = \\frac{1}{8}$.\n\nXác suất bạn đó thích nhạc cổ điển hoặc nhạc trẻ là\n\n$P\\left( {A \\cup B} \\right) = P\\left( A \\right) + P\\left( B \\right) - P\\left( {AB} \\right) = \\frac{7}{{20}} + \\frac{{13}}{{40}} - \\frac{1}{8} = \\frac{{11}}{{20}}$.\n\nb) C là biến cố “Bạn đó không thích cả nhạc cổ điển và nhạc trẻ” nên ${\\overline C }$ là biến cố \"Bạn đó thích nhạc cổ điển hoặc nhạc trẻ, suy ra $ P\\left( C \\right) = P\\left( {A \\cup B} \\right)$.\n\nXác suất để bạn đó không thích cả nhạc cổ điển và nhạc trẻ là:\n\n$P\\left( C \\right) = 1 - P\\left( {\\overline C } \\right) = 1 - P\\left( {A \\cup B} \\right) = 1 - \\frac{{11}}{{20}} = \\frac{9}{{20}}$."
+    },
+    {
+      "id": 3,
+      "type": "short_answer",
+      "content": "<strong>8 trang 75 SGK Toán 11 tập 2</strong>\n\nMột khu phố có 50 hộ gia đình nuôi chó hoặc nuôi mèo, trong đó có 18 hộ nuôi chó, 16 hộ nuôi mèo và 7 hộ nuôi cả chó và mèo. Chọn ngẫu nhiên một hộ trong khu phố trên. Tính xác suất để:\n\na) Hộ đó nuôi chó hoặc nuôi mèo;\n\nb) Hộ đó không nuôi cả chó và mèo.",
+      "answer": null,
+      "explanation": "​\nGọi A là biến cố “Hộ đó nuôi chó”, B là biến cố “Hộ đó nuôi mèo”, C là biến cố “Hộ đó không nuôi cả chó và mèo”.\n\na) Xác suất hộ đó nuôi chó là $P\\left( A \\right) = \\frac{{18}}{{50}} = \\frac{9}{{25}}$.\n\nXác suất hộ đó nuôi mèo là $P\\left( B \\right) = \\frac{{16}}{{50}} = \\frac{8}{{25}}$.\n\nXác suất hộ đó nuôi cả chó và mèo là $P\\left( AB \\right) = \\frac{7}{{50}}$.\n\nXác suất để hộ đó nuôi chó hoặc nuôi mèo là:\n\n$P\\left( {A \\cup B} \\right) = P\\left( A \\right) + P\\left( B \\right) - P\\left( {AB} \\right)= \\frac{9}{{25}} + \\frac{8}{{25}} - \\frac{7}{{50}} = \\frac{{27}}{{50}}$.\n\nb) Biến cố \"Hộ đó nuôi chó hoặc nuôi mèo\" là biến cố đối của biến cố \"Hộ đó không nuôi cả chó và mèo\".\n\n$P(C) = 1 - P(A \\cup B) = 1 - \\frac{{27}}{{50}} = \\frac{{23}}{{50}}$."
+    },
+    {
+      "id": 4,
+      "type": "short_answer",
+      "content": "<strong>9 trang 75 SGK Toán 11 tập 2</strong>\n\nMột nhà xuất bản phát hành hai cuốn sách A và B. Thống kê cho thấy có 50% người mua sách A; 70% người mua sách B; 30% người mua cả sách A và sách B. Chọn ngẫu nhiên một người mua. Tính xác suất để:\n\na) Người mua đó mua ít nhất một trong hai sách A hoặc B.\n\nb) Người mua đó không mua cả sách A và sách B.",
+      "answer": null,
+      "explanation": "​\na) Gọi A là biến cố “Người mua sách A”; B là biến cố “Người mua sách B”; E là biến cố “Người đó không mua cả sách A và sách B”.\n\nKhi đó $\\overline E $ là biến cố “Người đó mua sách A hoặc sách B”.\n\nTa có $\\overline E = A \\cup B$.\n\n$P\\left( {\\overline E } \\right) = P\\left( {A \\cup B} \\right) = P\\left( A \\right) + P\\left( B \\right) - P\\left( {AB} \\right) = 50\\% + 70\\% - 30\\% = 90\\% $.\n\nVậy xác suất để người mua đó mua ít nhất một trong hai sách A hoặc B là $90\\% $.\n\nb) Ta có $P\\left( E \\right) = 1 - P\\left( {\\overline E } \\right) = 1 - 90\\% = 10\\% $.\n\nVậy xác suất để người mua đó không mua cả sách A và sách B là 10%.\n\n*Lưu ý: Có thể viết xác suất dưới dạng số thập phân: 10% = 0,1; 90% = 0,9;..."
+    },
+    {
+      "id": 5,
+      "type": "short_answer",
+      "content": "<strong>10 trang 75 SGK Toán 11 tập 2</strong>\n\nTại các trường trung học phổ thông của một tỉnh, thống kê cho thấy có 63% giáo viên môn Toán tham khảo bộ sách giáo khoa A, 56% giáo viên môn Toán tham khảo bộ sách giáo khoa B và 28,5% giáo viên môn Toán tham khảo cả hai bộ sách giáo khoa A và B. Tính tỉ lệ giáo viên môn Toán các trường trung học phổ thông của tỉnh đó không tham khảo cả hai bộ sách giáo khoa A và B.",
+      "answer": null,
+      "explanation": "​\nGọi A là biến cố “Giáo viên môn Toán tham khảo bộ sách giáo khoa A”; B là biến cố “Giáo viên môn Toán tham khảo bộ sách giáo khoa B”; E là biến cố “Giáo viên môn Toán không tham khảo cả hai bộ sách giáo khoa A và B”.\n\nKhi đó $\\overline E $ là biến cố “Giáo viên môn Toán tham khảo bộ sách giáo khoa A hoặc B”.\n\nTa có $\\overline E = A \\cup B.\\begin{array}{l}P\\left( {\\overline E } \\right) = P\\left( {A \\cup B} \\right) = P\\left( A \\right) + P\\left( B \\right) - P\\left( {AB} \\right) = 63\\% + 56\\% - 28,5\\% = 90,5\\% \\\\ \\Rightarrow P\\left( E \\right) = 1 - P\\left( {\\overline E } \\right) = 1 - 90,5\\% = 9,5\\% \\end{array}$\n\nVậy tỉ lệ giáo viên môn Toán các trường trung học phổ thông của tỉnh đó không tham khảo cả hai bộ sách giáo khoa A và B là 9,5%."
+    }
+  ]
+}

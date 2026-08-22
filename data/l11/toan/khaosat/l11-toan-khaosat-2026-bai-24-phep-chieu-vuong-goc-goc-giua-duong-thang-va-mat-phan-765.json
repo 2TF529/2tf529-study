@@ -1,0 +1,50 @@
+{
+  "id": "l11-toan-khaosat-2026-bai-24-phep-chieu-vuong-goc-goc-giua-duong-thang-va-mat-phan-765",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "code": "Đề 01",
+  "title": "Bài 24. Phép chiếu vuông góc. Góc giữa đường thẳng và mặt phẳng",
+  "duration": 90,
+  "answerSource": "missing",
+  "sourceUrl": "https://sieugioi.com/docs/threads/bai-24-phep-chieu-vuong-goc-goc-giua-duong-thang-va-mat-phang.765/",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "type": "short_answer",
+      "content": "<strong>11 trang 42 SGK Toán 11 tập 2</strong>\n\nCho hình chóp S.ABCD có đáy là hình vuông ABCD cạnh a, SA $ \\bot $ (ABCD) và $SA = a\\sqrt 2 $.\n\na) Tính góc giữa SC và mặt phẳng (ABCD).\n\nb) Tính góc giữa BD và mặt phẳng (SAC).\n\nc) Tìm hình chiếu của SB trên mặt phẳng (SAC).",
+      "answer": null,
+      "explanation": "[[SGIMG:9:https://sieugioi.com/docs/attachments/1784087350578-png.6119/]]\n\n\na) A là hình chiếu của S trên (ABCD) (vì $SA \\bot \\left( {ABCD} \\right)$); C là hình chiếu của C trên (ABCD).\n\n$ \\Rightarrow $ AC là hình chiếu của SC trên (ABCD).\n\n$ \\Rightarrow \\left( {SC,\\left( {ABCD} \\right)} \\right) = \\left( {SC,AC} \\right) = \\widehat {SCA}$.\n\nXét tam giác ABC vuông tại B có:\n\n$A{C^2} = A{B^2} + B{C^2} = 2{a^2} \\Rightarrow AC = a\\sqrt 2 $.\n\nXét tam giác SAC vuông tại A có:\n\n$\\tan \\widehat {SCA} = \\frac{{SA}}{{AC}} = \\frac{{a\\sqrt 2 }}{{a\\sqrt 2 }} = 1 $.\n\n$\\Rightarrow \\widehat {SCA} = {45^o}$.\n\nVậy $\\left( {SC,\\left( {ABCD} \\right)} \\right) = {45^o}$.\n\nb) Vì ABCD là hình vuông nên $AC \\bot BD$.\n\nMặt khác, $SA \\bot \\left( {ABCD} \\right) \\Rightarrow SA \\bot BD$.\n\n$\\left. {\\begin{array}{*{20}{l}}{AC \\bot BD}\\\\{SA \\bot BD}\\\\{AC \\cap SA = \\left\\{ A \\right\\}}\\end{array}} \\right\\} \\Rightarrow BD \\bot \\left( {SAC} \\right)$.\n\nVậy $\\left( {BD,\\left( {SAC} \\right)} \\right) = {90^o}$.\n\nc) Gọi $AC \\cap BD = \\left\\{ O \\right\\}$, mà $BD \\bot \\left( {SAC} \\right)$ (cmt).\n\n$ \\Rightarrow $ O là hình chiếu của B trên (SAC).\n\nMặt khác, S là hình chiếu của S trên (SAC).\n\n$ \\Rightarrow $ SO là hình chiếu của SB trên (SAC)."
+    },
+    {
+      "id": 2,
+      "type": "short_answer",
+      "content": "<strong>12 trang 42 SGK Toán 11 tập 2</strong>\n\nCho hình chóp S.ABC có SA $ \\bot $ (ABC), Tam giác ABC vuông tại B, SA = AB = BC = a.\n\na) Xác định hình chiếu của A trên mặt phẳng (SBC).\n\nb) Tính góc giữa SC và mặt phẳng (ABC).",
+      "answer": null,
+      "explanation": "[[SGIMG:10:https://sieugioi.com/docs/attachments/1784087377896-png.6120/]]\n\n\na) Trong (SAB) kẻ $AD \\bot SB$ tại D.\n\nVì $SA \\bot (ABCD) \\Rightarrow SA \\bot BC$.\n\nTa có:\n\n$\\left\\{ \\begin{array}{l}BC \\bot AB\\\\BC \\bot SA\\\\AB,SA \\subset (SAB)\\\\AB \\cap SA\\end{array} \\right. \\Rightarrow BC \\bot (SAB) \\Rightarrow BC \\bot AD$.\n\nTa có:\n\n$\\left\\{ \\begin{array}{l}AD \\bot BC\\\\AD \\bot SB\\\\BC,SB \\subset (SBC)\\\\BC \\cap SB\\end{array} \\right. \\Rightarrow AD \\bot (SBC)$.\n\nSuy ra D là hình chiếu của A trên (SBC).\n\nb) A là hình chiếu của S trên (ABC) $\\left( {SA \\bot \\left( {ABC} \\right)} \\right)$.\n\nC là hình chiếu của C trên (ABC).\n\n$ \\Rightarrow $ AC là hình chiếu của SC trên (ABC).\n\n$ \\Rightarrow \\left( {SC,\\left( {ABC} \\right)} \\right) = \\left( {SC,AC} \\right) = \\widehat {SCA}$.\n\nXét tam giác ABC vuông tại B có:\n\n$A{C^2} = A{B^2} + B{C^2} = 2{a^2} \\Rightarrow AC = a\\sqrt 2 $.\n\nXét tam giác SAC vuông tại A có:\n\n$\\tan \\widehat {SCA} = \\frac{{SA}}{{AC}} = \\frac{a}{{a\\sqrt 2 }} = \\frac{1}{{\\sqrt 2 }} \\Rightarrow \\widehat {SCA} = \\arctan \\frac{1}{{\\sqrt 2 }}$.\n\nVậy $\\left( {SC,\\left( {ABCD} \\right)} \\right) = \\arctan \\frac{1}{{\\sqrt 2 }}$."
+    },
+    {
+      "id": 3,
+      "type": "short_answer",
+      "content": "<strong>13 trang 43 SGK Toán 11 tập 2</strong>\n\nCho điểm S nằm ngoài mặt phẳng (P), có hình chiếu H trên (P). Với mỗi điểm M bất kì (không trùng H) trên mặt phẳng (P), ta gọi đoạn thẳng SM là đường xiên, đoạn thẳng HM là hình chiếu trên (P) của đường xiên đó. Chứng minh rằng:\n\na) Hai đường xiên SM và SM' bằng nhau khi và chỉ khi hai hình chiếu HM và HM' tương ứng của chúng bằng nhau;\n\nb) Đường xiên SM lớn hơn đường xiên SM' nếu hình chiếu HM lớn hơn hình chiếu HM'.",
+      "answer": null,
+      "explanation": "[[SGIMG:11:https://sieugioi.com/docs/attachments/1784087502261-png.6121/]]\n\n\na)\n\n+) Giả sử SM = SM’\n\nXét tam giác SHM vuông tại H có\n\n$S{M^2} = S{H^2} + M{H^2}$ (định lí Pytago)\n\nXét tam giác SHM’ vuông tại H có\n\n$S{M'^2} = S{H^2} + M'{H^2}$ (định lí Pytago)\n\nMà SM = SM’ nên MH = MH’\n\n+) Giả sử HM = HM’\n\nXét tam giác SHM vuông tại H có\n\n$S{M^2} = S{H^2} + M{H^2}$ (định lí Pytago)\n\nXét tam giác SHM’ vuông tại H có\n\n$S{M'^2} = S{H^2} + M'{H^2}$ (định lí Pytago)\n\nMà HM = HM’ nên SM = SM’\n\nb) $MH &gt; M'H \\Leftrightarrow M{H^2} &gt; M'{H^2}\\Leftrightarrow M{H^2} + S{H^2} &gt; M'{H^2} + S{H^2}\\Leftrightarrow S{M^2} &gt; S{{M'}^2} \\Leftrightarrow SM &gt; SM'$"
+    },
+    {
+      "id": 4,
+      "type": "short_answer",
+      "content": "<strong>14 trang 43 SGK Toán 11 tập 2</strong>\n\nTrong một khoảng thời gian đầu kể từ khi cất cánh, máy bay bay theo một đường thẳng. Góc cất cánh của nó là góc giữa đường thẳng đó và mặt phẳng nằm ngang nơi cất cánh. Hai máy bay cất cánh và bay thẳng với cùng độ lớn vận tốc trong 5 phút đầu, với các góc cất cánh lần lượt là ${10^0},{15^0}.$ Hỏi sau 1 phút kể từ khi cất cánh, máy bay nào ở độ cao so với mặt đất (phẳng, nằm ngang) lớn hơn?\n\nChú ý. Độ cao của máy bay so với mặt đất là khoảng cách từ máy bay (coi là một điểm) đến hình chiếu của nó trên mặt đất.",
+      "answer": null,
+      "explanation": "​\nSau 1 phút cả 2 máy bay bay được quãng đường dài $1.v = v$\n\nÁp dụng công thức tính độ cao của máy bay so với mặt đất, ta tính được độ cao của hai máy bay 1 và 2 như sau:\n\nĐộ cao của máy bay 1: ${h_1} = v.\\sin {10^0} \\approx 0,17v$\n\nĐộ cao của máy bay 2: ${h_2} = v.\\sin {15^0} \\approx 0,26v$\n\nDo đó, ta thấy rằng độ cao của máy bay 2 lớn hơn độ cao của máy bay 1. Vì vậy, máy bay 2 ở độ cao so với mặt đất lớn hơn sau 1 phút kể từ khi cất cánh."
+    },
+    {
+      "id": 5,
+      "type": "short_answer",
+      "content": "<strong>15 trang 43 SGK Toán 11 tập 2</strong>\n\nHãy nêu cách đo góc giữa đường thẳng chứa tia sáng mặt trời và mặt phẳng nằm ngang tại một vị trí và một thời điểm.\n\nChú ý. Góc giữa đường thẳng chứa tia sáng mặt trời lúc giữa trưa với mặt phẳng nằm ngang tại vị trí đó được gọi là góc Mặt Trời. Giữa trưa là thời điểm ban ngày mà tâm Mặt Trời thuộc mặt phẳng chứa kinh tuyến đi qua điểm đang xét. Góc Mặt Trời ảnh hưởng tới sự hấp thụ nhiệt từ Mặt Trời của Trái Đất, tạo nên các mùa trong năm trên Trái Đất.",
+      "answer": null,
+      "explanation": "​\nĐể đo góc giữa đường thẳng chứa tia sáng mặt trời và mặt phẳng nằm ngang tại một vị trí và một thời điểm cụ thể, ta cần sử dụng một thiết bị đo góc, thường được gọi là gnomon.\n\nCách thực hiện đo góc Mặt Trời như sau:\n\nChọn một vị trí cố định trên mặt đất và đặt gnomon vào vị trí đó sao cho nó đứng thẳng đứng và vuông góc với mặt đất.\n\nĐợi cho đến khi đến thời điểm giữa trưa, khi tia sáng Mặt Trời đứng thẳng trên vị trí của bạn. Bạn có thể biết được thời điểm này thông qua các trang web hoặc ứng dụng dựa trên vị trí của bạn.\n\nXác định bóng của gnomon trên mặt phẳng ngang và vẽ một đường thẳng từ đỉnh của gnomon đến đỉnh của bóng.\n\nSử dụng thiết bị đo góc để đo góc giữa đường thẳng này và mặt phẳng ngang. Đó chính là góc Mặt Trời tại vị trí và thời điểm đó."
+    }
+  ]
+}

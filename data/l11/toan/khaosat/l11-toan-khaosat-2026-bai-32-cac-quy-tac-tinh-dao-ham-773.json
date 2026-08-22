@@ -1,0 +1,70 @@
+{
+  "id": "l11-toan-khaosat-2026-bai-32-cac-quy-tac-tinh-dao-ham-773",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "code": "Đề 01",
+  "title": "Bài 32. Các quy tắc tính đạo hàm",
+  "duration": 90,
+  "answerSource": "missing",
+  "sourceUrl": "https://sieugioi.com/docs/threads/bai-32-cac-quy-tac-tinh-dao-ham.773/",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "type": "short_answer",
+      "content": "6 trang 94 SGK Toán 11 tập 2 - Kết nối tri thức\n\nTính đạo hàm của các hàm số sau:\n\na) $y = {x^3} - 3{x^2} + 2x + 1;$\n\nb) $y = {x^2} - 4\\sqrt x + 3.$",
+      "answer": null,
+      "explanation": "​\na) $y' = 3{x^{3 - 1}} - 3.2{x^{2 - 1}} + 2.1{x^{1 - 1}} = 3{x^2} - 6x + 2$\n\nb) $y' = 2{x^{2 - 1}} - \\left[ {4'\\sqrt x + 4\\left( {\\sqrt x } \\right)'} \\right] = 2x - 4\\frac{1}{{2\\sqrt x }} = 2x - \\frac{2}{{\\sqrt x }}$"
+    },
+    {
+      "id": 2,
+      "type": "short_answer",
+      "content": "7 trang 94 SGK Toán 11 tập 2 - Kết nối tri thức\n\nTính đạo hàm của các hàm số sau:\n\na) $y = \\frac{{2x - 1}}{{x + 2}};$\n\nb) $y = \\frac{{2x}}{{{x^2} + 1}}.$",
+      "answer": null,
+      "explanation": "​\na) $y' = \\frac{{\\left( {2x - 1} \\right)'\\left( {x + 2} \\right) - \\left( {2x - 1} \\right)\\left( {x + 2} \\right)'}}{{{{\\left( {x + 2} \\right)}^2}}} = \\frac{{2\\left( {x + 2} \\right) - 2x + 1}}{{{{\\left( {x + 2} \\right)}^2}}} = \\frac{5}{{{{\\left( {x + 2} \\right)}^2}}}$\n\nb) $y = \\frac{{\\left( {2x} \\right)'\\left( {{x^2} + 1} \\right) - 2x\\left( {{x^2} + 1} \\right)'}}{{{{\\left( {{x^2} + 1} \\right)}^2}}} = \\frac{{2\\left( {{x^2} + 1} \\right) - 2x.2x}}{{{{\\left( {{x^2} + 1} \\right)}^2}}} = \\frac{{ - 2{x^2} + 2}}{{{{\\left( {{x^2} + 1} \\right)}^2}}}$"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "content": "8 trang 94 SGK Toán 11 tập 2 - Kết nối tri thức\n\nTính đạo hàm của các hàm số sau:",
+      "statements": [
+        "a) $y = x{\\sin ^2}x$;",
+        "b) $y = {\\cos ^2}x + \\sin 2x$;",
+        "c) $y = \\sin 3x - 3\\sin x$;",
+        "d) $y = \\tan x + \\cot x$."
+      ],
+      "answer": [],
+      "explanation": "​\na) $y' = x'{\\sin ^2}x + x\\left( {{{\\sin }^2}x} \\right)' = {\\sin ^2}x + x.2\\sin x.\\left( {\\sin x} \\right)'= {\\sin ^2}x + x.2\\sin x.\\cos x= {\\sin ^2}x + x\\sin 2x$.\n\nb) $y' = \\left( {{{\\cos }^2}x} \\right)' + \\left( {\\sin 2x} \\right)' = 2\\cos x.\\left( {\\cos x} \\right)' + \\left( {2x} \\right)'\\cos 2x= - 2\\cos x.\\sin x + 2\\cos 2x= - \\sin 2x + 2\\cos 2x$.\n\nc) $y' = \\left( {\\sin 3x} \\right)' - \\left( {3\\sin x} \\right)' = 3.\\cos 3x - 3\\cos x$.\n\nd) $y' = \\left( {\\tan x} \\right)' + \\left( {\\cot x} \\right)' = \\frac{1}{{{{\\cos }^2}x}} - \\frac{1}{{{{\\sin }^2}x}}$."
+    },
+    {
+      "id": 4,
+      "type": "short_answer",
+      "content": "9 trang 94 SGK Toán 11 tập 2 - Kết nối tri thức\n\nTính đạo hàm của các hàm số sau:\n\na) $y = {2^{3x - {x^2}}};$\n\nb) $y = {\\log _3}\\left( {4x + 1} \\right).$",
+      "answer": null,
+      "explanation": "​\na) $y' = \\left( {{2^{3x - {x^2}}}} \\right)' = \\left( {3x - {x^2}} \\right)'{.2^{3x - {x^2}}}.\\ln 2 = \\left( {3 - 2x} \\right){2^{3x - {x^2}}}.\\ln 2$\n\nb) $y' = {\\log _3}\\left( {4x + 1} \\right) = \\frac{{\\left( {4x + 1} \\right)'}}{{\\left( {4x + 1} \\right)\\ln 3}} = \\frac{4}{{\\left( {4x + 1} \\right)\\ln 3}}$"
+    },
+    {
+      "id": 5,
+      "type": "short_answer",
+      "content": "10 trang 94 SGK Toán 11 tập 2 - Kết nối tri thức\n\nCho hàm số $f\\left( x \\right) = 2{\\sin ^2}\\left( {3x - \\frac{\\pi }{4}} \\right)$. Chứng minh rằng $\\left| {f'\\left( x \\right)} \\right| \\le 6$ với mọi x.",
+      "answer": null,
+      "explanation": "​\nTa có: $f'\\left( x \\right) = 4\\sin \\left( {3x - \\frac{\\pi }{4}} \\right).\\left[ {\\sin \\left( {3x - \\frac{\\pi }{4}} \\right)} \\right]' = 4\\sin \\left( {3x - \\frac{\\pi }{4}} \\right)\\left( {3x - \\frac{\\pi }{4}} \\right)'\\cos \\left( {3x - \\frac{\\pi }{4}} \\right)= 12\\cos \\left( {3x - \\frac{\\pi }{4}} \\right)\\sin \\left( {3x - \\frac{\\pi }{4}} \\right) = 6\\sin \\left( {6x - \\frac{\\pi }{2}} \\right)$.\n\nVì $ - 1 \\le \\sin \\left( {6x - \\frac{\\pi }{2}} \\right) \\le 1\\Leftrightarrow - 6 \\le 6\\sin \\left( {6x - \\frac{\\pi }{2}} \\right) \\le 6 \\Leftrightarrow - 6 \\le f'\\left( x \\right) \\le 6$.\n\nVậy $\\left| {f'\\left( x \\right)} \\right| \\le 6$ với mọi x."
+    },
+    {
+      "id": 6,
+      "type": "short_answer",
+      "content": "11 trang 94 SGK Toán 11 tập 2 - Kết nối tri thức\n\nMột vật chuyển động rơi tự do có phương trình $h\\left( t \\right) = 100 - 4,9{t^2},$ ở độ cao h so với mặt đất tính bằng mét và thời gian t tính bằng giây. Tính vận tốc của vật:\n\na) Tại thời điểm t = 5 giây;\n\nb) Khi vật chạm đất.",
+      "answer": null,
+      "explanation": "​\nTa có $v\\left( t \\right) = h'\\left( t \\right) = - 9,8t$\n\na) $v\\left( 5 \\right) = - 9,8.5 = - 49$\n\nVậy vận tốc của vật tại thời điểm t = 5 giây là 49 m/s.\n\nb) Khi vật chạm đất $h\\left( t \\right) = 100 - 4,9{t^2} = 0 \\Leftrightarrow t = \\frac{{10\\sqrt {10} }}{7}v\\left( {\\frac{{10\\sqrt {10} }}{7}} \\right) = - 9,8.\\frac{{10\\sqrt {10} }}{7} = - 14\\sqrt {10} $\n\nVậy vận tốc của vật khi vật chạm đất là $14\\sqrt {10} $ m/s."
+    },
+    {
+      "id": 7,
+      "type": "short_answer",
+      "content": "12 trang 94 SGK Toán 11 tập 2 - Kết nối tri thức\n\nChuyển động của một hạt trên một dây rung được cho bởi $s\\left( t \\right) = 12 + 0,5\\sin \\left( {4\\pi t} \\right),$ trong đó s tính bằng centimét và t tính bằng giây. Tính vận tốc của hạt sau t giây. Vận tốc cực đại của hạt là bao nhiêu?",
+      "answer": null,
+      "explanation": "​\nTa có $v\\left( t \\right) = s'\\left( t \\right) = 0,5.\\left( {4\\pi t} \\right)'\\cos \\left( {4\\pi t} \\right) = 2\\pi \\cos \\left( {4\\pi t} \\right)$\n\nVì $ - 1 \\le \\cos \\left( {4\\pi t} \\right) \\le 1 \\Leftrightarrow - 2\\pi \\le 2\\pi \\cos \\left( {4\\pi t} \\right) \\le 2\\pi \\Leftrightarrow - 2\\pi \\le v\\left( t \\right) \\le 2\\pi $\n\nDo đó vận tốc cực đại của hạt là $2\\pi $ cm/s."
+    }
+  ]
+}

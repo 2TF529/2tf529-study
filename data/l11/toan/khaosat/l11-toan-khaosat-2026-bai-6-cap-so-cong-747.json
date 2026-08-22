@@ -1,0 +1,70 @@
+{
+  "id": "l11-toan-khaosat-2026-bai-6-cap-so-cong-747",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "code": "Đề 01",
+  "title": "Bài 6. Cấp số cộng",
+  "duration": 90,
+  "answerSource": "missing",
+  "sourceUrl": "https://sieugioi.com/docs/threads/bai-6-cap-so-cong.747/",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "type": "short_answer",
+      "content": "<strong>8 trang 51 SGK Toán 11 tập 1</strong>\n\nXác định công sai, số hạng thứ 5, số hạng tổng quát và số hạng thứ 100 của mỗi cấp số cộng sau:\n\na) 4, 9, 14, 19,...;\n\nb) 1, -1, -3, -5,...",
+      "answer": null,
+      "explanation": "​\na) Cấp số cộng có: ${u_1} = 4$, công sai $d = 9 - 4 = 5$.\n\nSố hạng tổng quát của dãy số là:\n\n${u_n} = 4 + 5\\left( {n - 1} \\right) = 5n- 1$.\n\nSố hạng thứ 5: ${u_5} = 5.5- 1 = 24$.\n\nSố hạng thứ 100: ${u_{100}} = 5.100- 1 = 499$.\n\nb) Cấp số cộng có: ${u_1} = 1$, công sai $d = - 1 - 1 = - 2$.\n\nSố hạng tổng quát của dãy số là:\n\n${u_n} = 1 + \\left( { - 2} \\right)\\left( {n - 1} \\right) = -2n+3$.\n\nSố hạng thứ 5: ${u_5} = (-2).5+3 = - 7$.\n\nSố hạng thứ 100: ${u_{100}} = (-2).100+3 = - 197$."
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "content": "<strong>9 trang 51 SGK Toán 11 tập 1</strong>\n\nViết năm số hạng đầu của mỗi dãy số $\\left( {{u_n}} \\right)$ sau và xét xem nó có phải là cấp số cộng không. Nếu dãy số đó là cấp số cộng, hãy tìm công sai<em> d</em> và viết số hạng tổng quát của nó dưới dạng ${u_n} = {u_1} + \\left( {n - 1} \\right)d$",
+      "statements": [
+        "a) ${u_n} = 3 + 5n$;",
+        "b) ${u_n} = 6n - 4$;",
+        "c) ${u_1} = 2,\\;{u_n} = {u_{n - 1}} + n$;",
+        "d) ${u_1} = 2,\\;{u_n} = {u_{n - 1}} + 3$."
+      ],
+      "answer": [],
+      "explanation": "​\na) ${u_1} = 8;\\;\\;{u_2} = 13;\\;\\;{u_3} = 18;\\;\\;{u_4} = 23;\\;\\;{u_5} = 28$.\n\nTa có: ${u_n} - {u_{n - 1}} = 3 + 5n - \\left[ {3 + 5\\left( {n - 1} \\right)} \\right] = 5,\\;\\forall n \\ge 2$.\n\nVậy dãy số $\\left( {{u_n}} \\right)$ là cấp số cộng với ${u_1} = 8$ và công sai $d = 5$.\n\nSố hạng tổng quát: ${u_n} = 8 + 5\\left( {n - 1} \\right)$.\n\nb) ${u_1} = 2;\\;\\;{u_2} = 8;\\;\\;{u_3} = 14;\\;\\;{u_4} = 20;\\;\\;{u_5} = 26$.\n\nTa có: ${u_n} - {u_{n - 1}} = 6n - 4 - \\left[ {6\\left( {n - 1} \\right) - 4} \\right] = 6,\\;\\forall n \\ge 2$.\n\nVậy dãy số $\\left( {{u_n}} \\right)$ là cấp số cộng với ${u_1} = 2$ và công sai $d = 6$.\n\nSố hạng tổng quát: ${u_n} = 2 + 6\\left( {n - 1} \\right)$.\n\nc) ${u_1} = 2;\\;\\;{u_2} = 4;\\;\\;{u_3} = 7;\\;\\;{u_4} = 11;\\;\\;{u_5} = 16$\n\nTa có: ${u_n} - {u_{n - 1}} = n,\\;$ n biến động.\n\nSuy ra đây không phải là cấp số cộng.\n\nd) ${u_1} = 2;\\;\\;{u_2} = 5;\\;\\;{u_3} = 8;\\;\\;{u_4} = 11;\\;\\;{u_5} = 14$\n\nTa có: ${u_n} - {u_{n - 1}} = 3$.\n\nVậy dãy số $\\left( {{u_n}} \\right)$ là cấp số cộng với ${u_1} = 2$ và công sai $d = 3$.\n\nSố hạng tổng quát: ${u_n} = 2 + 3\\left( {n - 1} \\right),\\;\\forall n \\ge 2$."
+    },
+    {
+      "id": 3,
+      "type": "short_answer",
+      "content": "<strong>10 trang 51 SGK Toán 11 tập 1</strong>\n\nMột cấp số cộng có số hạng thứ 5 bằng 18 và số hạng thứ 12 bằng 32. Tìm số hạng thứ 50 của cấp số cộng này.",
+      "answer": null,
+      "explanation": "​\nSố hạng tổng quát của cấp số cộng: ${u_n} = {u_1} + \\left( {n - 1} \\right)d$.\n\nTa có:\n\n$\\left\\{ \\begin{array}{l}{u_5} = {u_1} + 4d = 18\\\\{u_{12}} = {u_1} + 11d = 32\\end{array} \\right. \\Leftrightarrow \\left\\{ \\begin{array}{l}{u_1} = 10\\\\d = 2\\end{array} \\right. \\Rightarrow {u_n} = 10 + 2\\left( {n - 1} \\right) = 2n + 8$.\n\nSố hạng thứ 50: ${u_{50}} = 2.50 + 8 = 108$."
+    },
+    {
+      "id": 4,
+      "type": "short_answer",
+      "content": "<strong>11 trang 51 SGK Toán 11 tập 1</strong>\n\nMột cấp số cộng cố số hạng đầu bằng 5 và công sai bằng 2. Hỏi phải lấy tổng của bao nhiêu số hạng đầu của cấp số cộng này để có tổng bằng 2700?",
+      "answer": null,
+      "explanation": "​\n${S_n} = \\frac{n}{2}\\left[ {2 \\times 5 + \\left( {n - 1} \\right) \\times 2} \\right] = 2700 \\Leftrightarrow \\frac{n}{2}\\left( {8 + 2n} \\right) = 2700 \\Leftrightarrow {n^2} + 4n - 2700 = 0 \\Leftrightarrow \\left[ \\begin{array}{l}n = - 54\\,\\,(L)\\\\n = 50\\,\\,(TM)\\end{array} \\right.$\n\nVậy phải lấy tổng 50 số hạng đầu."
+    },
+    {
+      "id": 5,
+      "type": "short_answer",
+      "content": "<strong>12 trang 51 SGK Toán 11 tập 1</strong>\n\nGiá của một chiếc xe ô tô lúc mới mua là 680 triệu đồng. Cứ sau mỗi năm sử dụng, giá của chiếc xe ô tô giảm 55 triệu đồng. Tính giá trị còn lại của chiếc xe sau 5 năm sử dụng.",
+      "answer": null,
+      "explanation": "​\nTa có: ${u_1} = 680$, $d = - 55 $.\n\nGiá của chiếc xe sau 1 năm là: ${u_2} = 680 - 55$.\n\nGiá của chiếc xe sau 2 năm là: ${u_3} = 680 - 2.55$.\n\n...\n\nGiá của chiếc xe sau n năm là: ${u_{n+1}} = {u_1} + nd= 680 + n.(-55)$.\n\nVậy sau 5 năm sử dụng giá của chiếc xe là: ${u_6} = 680 - 5.55 = 405$ (triệu đồng)."
+    },
+    {
+      "id": 6,
+      "type": "short_answer",
+      "content": "<strong>13 trang 51 SGK Toán 11 tập 1</strong>\n\nMột kiến trúc sư thiết kế một hội trường với 15 ghế ngồi ở hàng thứ nhất, 18 ghế ngồi ở hàng thứ hai, 21 ghế ngồi ở hàng thứ ba và cứ như vậy (số ghế ở hàng sau nhiều hơn 3 ghế so với số ghế ở hàng liền trước nó). Nếu muốn hội trường đó có sức chứa ít nhất 870 ghế ngồi thì kiến trúc sư đó phải thiết kế tối thiểu bao nhiêu hàng ghế?",
+      "answer": null,
+      "explanation": "​\nTa có: ${u_1} = 15$, $d = 3$.\n\n${S_n} = \\frac{n}{2}\\left[ {2 \\times 15 + \\left( {n - 1} \\right) \\times 3} \\right] = 870\\Leftrightarrow \\frac{n}{2}\\left( {27 + 3n} \\right) = 870\\Leftrightarrow 3{n^2} + 27n - 1740 = 0\\Leftrightarrow \\left[ \\begin{array}{l}n = 20\\\\n = - 29(L)\\end{array} \\right.$.\n\nVậy cần phải thiết kế 20 hàng ghế."
+    },
+    {
+      "id": 7,
+      "type": "short_answer",
+      "content": "<strong>14 trang 51 SGK Toán 11 tập 1</strong>\n\nVào năm 2020, dân số của một thành phố là khoảng 1,2 triệu người. Giả sử mỗi năm, dân số của thành phố này tăng thêm khoảng 30 nghìn người. Hãy ước tính dân số của thành phố này vào năm 2030.",
+      "answer": null,
+      "explanation": "​\nĐổi 1,2 triệu người = 1200 nghìn người.\n\nTa có: ${u_1} = 1200$, $d = 30$.\n\nDân số sau n năm là: ${u_n} = 1200 + 30\\left( {n - 1} \\right)$\n\nVậy dân số của năm 2030 tức $n = 1$ là:\n\n${u_{11}} = 1200 + 30\\left( {11 - 1} \\right) = 1500$ (nghìn người) hay 1,5 triệu người."
+    }
+  ]
+}

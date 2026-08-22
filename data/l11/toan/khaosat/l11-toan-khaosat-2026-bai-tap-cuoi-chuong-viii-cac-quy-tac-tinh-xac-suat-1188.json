@@ -1,0 +1,114 @@
+{
+  "id": "l11-toan-khaosat-2026-bai-tap-cuoi-chuong-viii-cac-quy-tac-tinh-xac-suat-1188",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "code": "Đề 01",
+  "title": "Bài tập cuối chương VIII. Các quy tắc tính xác suất",
+  "duration": 90,
+  "answerSource": "missing",
+  "sourceUrl": "https://sieugioi.com/docs/threads/bai-tap-cuoi-chuong-viii-cac-quy-tac-tinh-xac-suat.1188/",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "<strong>16 trang 79 SGK Toán 11 tập 2</strong>\n\nMột hộp đựng 20 tấm thẻ cùng loại được đánh số từ 1 đến 20. Rút ngẫu nhiên một tấm thẻ trong hộp. Gọi A là biến cố \"Rút được tấm thẻ ghi số chẵn lớn hơn 9\"; B là biến cố \"Rút được tấm thẻ ghi số không nhỏ hơn 8 và không lớn hơn 15\".\n\nSố phần tử của $A \\cup B$ là",
+      "options": [
+        "A. 11.",
+        "B. 10.",
+        "C. 12.",
+        "D. 13."
+      ],
+      "answer": null,
+      "explanation": "​\nA = {10; 12; 14; 16; 18; 20}\n\nB = {8; 9; 10; 11; 12; 13; 14; 15}\n\nVậy $A \\cup B$ = {8; 9; 10; 11; 12; 13; 14; 15; 16; 18; 20}\n\nĐáp án A"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "<strong>17 trang 79 SGK Toán 11 tập 2</strong>\n\nMột hộp đựng 20 tấm thẻ cùng loại được đánh số từ 1 đến 20. Rút ngẫu nhiên một tấm thẻ trong hộp. Gọi A là biến cố \"Rút được tấm thẻ ghi số chẵn lớn hơn 9\"; B là biến cố \"Rút được tấm thẻ ghi số không nhỏ hơn 8 và không lớn hơn 15\".\n\nSố phần tử của AB là",
+      "options": [
+        "A. 5.",
+        "B. 6.",
+        "C. 3.",
+        "D. 4."
+      ],
+      "answer": null,
+      "explanation": "​\nA = {10; 12; 14; 16; 18; 20}\n\nB = {8; 9; 10; 11; 12; 13; 14; 15}\n\nVậy AB = {10; 12; 14}\n\nĐáp án C"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "<strong>18 trang 79 SGK Toán 11 tập 2</strong>\n\nTại một hội thảo quốc tế có 50 nhà khoa học, trong đó có 31 người thành thạo tiếng Anh, 21 người thành thạo tiếng Pháp và 5 người thành thạo cả tiếng Anh và tiếng Pháp. Chọn ngẫu nhiên một người trong hội thảo.\n\nXác suất để người được chọn thành thạo ít nhất một trong hai thứ tiếng Anh hoặc Pháp là",
+      "options": [
+        "A. $\\frac{{47}}{{50}}.$",
+        "B. $\\frac{{37}}{{50}}.$",
+        "C. $\\frac{{39}}{{50}}.$",
+        "D. $\\frac{{41}}{{50}}.$"
+      ],
+      "answer": null,
+      "explanation": "​\nGọi A là biến cố “Người thành thạo tiếng Anh”; B là biến cố “Người thành thạo tiếng Pháp”.\n\nKhi đó $P\\left( A \\right) = \\frac{{31}}{{50}},P\\left( B \\right) = \\frac{{21}}{{50}},P\\left( {AB} \\right) = \\frac{5}{{50}} = \\frac{1}{{10}}$\n\nTa có $P\\left( {A \\cup B} \\right) = P\\left( A \\right) + P\\left( B \\right) - P\\left( {AB} \\right) = \\frac{{31}}{{50}} + \\frac{{21}}{{50}} - \\frac{1}{{10}} = \\frac{{47}}{{50}}$\n\nVậy xác suất để người được chọn thành thạo ít nhất một trong hai thứ tiếng Anh hoặc Pháp là $\\frac{{47}}{{50}}.$\n\nĐáp án A"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "<strong>19 trang 79 SGK Toán 11 tập 2</strong>\n\nTại một hội thảo quốc tế có 50 nhà khoa học, trong đó có 31 người thành thạo tiếng Anh, 21 người thành thạo tiếng Pháp và 5 người thành thạo cả tiếng Anh và tiếng Pháp. Chọn ngẫu nhiên một người trong hội thảo.\n\nXác suất để người được chọn không thành thạo cả hai thứ tiếng Anh hay Pháp là",
+      "options": [
+        "A. $\\frac{7}{{50}}.$",
+        "B. $\\frac{3}{{50}}.$",
+        "C. $\\frac{9}{{50}}.$",
+        "D. $\\frac{{11}}{{50}}.$"
+      ],
+      "answer": null,
+      "explanation": "​\nGọi E là biến cố “Người không thành thạo cả hai thứ tiếng Anh hay Pháp”.\n\nKhi đó $\\overline E $ là biến cố “Người thành thạo tiếng Anh hoặc Pháp”.\n\nTa có $\\overline E = A \\cup B. \\Rightarrow P\\left( E \\right) = 1 - P\\left( {\\overline E } \\right) = 1 - P\\left( {A \\cup B} \\right) = 1 - \\frac{{47}}{{50}} = \\frac{3}{{50}}$\n\nVậy xác suất để người được chọn không thành thạo cả hai thứ tiếng Anh hay Pháp là $\\frac{3}{{50}}.$\n\nĐáp án B.\n\n<em>Sử dụng dữ kiện sau để trả lời các câu hỏi trong các Bài 8.20, 8.21.</em>\n\nMột lớp có 40 học sinh, trong đó có 23 học sinh thích bóng chuyền,18 học sinh thích bóng rổ, 26 học sinh thích bóng chuyền hoặc bóng rổ hoặc cả hai. Chọn ngẫu nhiên một học sinh trong lớp."
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "<strong>20 trang 79 SGK Toán 11 tập 2</strong>\n\nMột lớp có 40 học sinh, trong đó có 23 học sinh thích bóng chuyền, 18 học sinh thích bóng rổ, 26 học sinh thích bóng chuyền hoặc bóng rổ hoặc cả hai. Chọn ngẫu nhiên một học sinh trong lớp.\n\nXác suất để chọn được học sinh không thích cả bóng chuyền và bóng rổ là",
+      "options": [
+        "A. $\\frac{{9}}{{20}}.$",
+        "B. $\\frac{{7}}{{20}}.$",
+        "C. $\\frac{{19}}{{40}}.$",
+        "D. $\\frac{{21}}{{40}}.$"
+      ],
+      "answer": null,
+      "explanation": "​\nSố học sinh thích cả bóng chuyền và bóng rổ là: 23 + 18 – 26 = 15 (học sinh)\n\nGọi A là biến cố “Học sinh thích bóng chuyền”; B là biến cố “Học sinh thích bóng rổ”; E là biến cố “Học sinh không thích cả bóng chuyền và bóng rổ”.\n\nKhi đó $\\overline E $ là biến cố “Học sinh thích bóng chuyền hoặc bóng rổ”.\n\nTa có $\\overline E = A \\cup B.P\\left( A \\right) = \\frac{{23}}{{40}},P\\left( B \\right) = \\frac{{18}}{{40}} = \\frac{9}{{20}},P\\left( {AB} \\right) = \\frac{{15}}{{40}} = \\frac{3}{8}\\begin{array}{l}P\\left( {\\overline E } \\right) = P\\left( {A \\cup B} \\right) = P\\left( A \\right) + P\\left( B \\right) - P\\left( {AB} \\right) = \\frac{{23}}{{40}} + \\frac{9}{{20}} - \\frac{3}{8} = \\frac{{13}}{{20}}\\\\ \\Rightarrow P\\left( E \\right) = 1 - P\\left( {\\overline E } \\right) = 1 - \\frac{{13}}{{20}} = \\frac{7}{{20}}\\end{array}$\n\nVậy xác suất để chọn được học sinh không thích cả bóng chuyền và bóng rổ là $\\frac{7}{{20}}$.\n\nĐáp án B."
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "<strong>21 trang 79 SGK Toán 11 tập 2</strong>\n\nMột lớp có 40 học sinh, trong đó có 23 học sinh thích bóng chuyền, 18 học sinh thích bóng rổ, 26 học sinh thích bóng chuyền hoặc bóng rổ hoặc cả hai. Chọn ngẫu nhiên một học sinh trong lớp.\n\nXác suất để chọn được học sinh thích bóng chuyền và không thích bóng rổ là",
+      "options": [
+        "A. $\\frac{7}{{40}}.$",
+        "B. $\\frac{9}{{40}}.$",
+        "C. $\\frac{1}{{5}}.$",
+        "D. $\\frac{{11}}{{40}}.$"
+      ],
+      "answer": null,
+      "explanation": "​\nSố học sinh thích cả bóng chuyền và bóng rổ là: 23 + 18 – 26 = 15 (học sinh)\n\nSố học sinh thích bóng chuyền và không thích bóng rổ là 23 – 15 = 8 (học sinh)\n\nVậy xác suất để chọn được học sinh thích bóng chuyền và không thích bóng rổ là $\\frac{8}{{40}} = \\frac{1}{5}$\n\nĐáp án C"
+    },
+    {
+      "id": 7,
+      "type": "short_answer",
+      "content": "<strong>23 trang 80 SGK Toán 11 tập 2</strong>\n\nMột đoàn khách du lịch gồm 31 người, trong đó có 7 người đến từ Hà Nội, 5 người đến từ Hải Phòng. Chọn ngẫu nhiên một người trong đoàn. Tính xác suất để người đó đến từ Hà Nội hoặc đến từ Hải Phòng.",
+      "answer": null,
+      "explanation": "​\nSố cách chọn một người trong đoàn là: 31.\n\nSố người đến từ Hà Nội hoặc đến từ Hải Phòng là: 7 + 5=12.\n\nVậy xác suất để người đó đến từ Hà Nội hoặc đến từ Hải Phòng là $\\frac{{12}}{{31}}$"
+    },
+    {
+      "id": 8,
+      "type": "short_answer",
+      "content": "<strong>24 trang 80 SGK Toán 11 tập 2</strong>\n\nGieo một con xúc xắc cân đối, đồng chất liên tiếp hai lần. Xét các biến cố sau:\n\nA: “Ở lần gieo thứ nhất, số chấm xuất hiện trên con xúc xắc là 1”;\n\nB: “Ở lần gieo thứ hai, số chấm xuất hiện trên con xúc xắc là 2”\n\nC: “Tổng số chấm xuất hiện trên con xúc xắc ở hai lần gieo là 8”\n\nD: “Tổng số chấm xuất hiện trên con xúc xắc ở hai lần gieo là 7”.\n\nChứng tỏ rằng các cặp biến cố A và C; B và C, C và D không độc lập.",
+      "answer": null,
+      "explanation": "​\nKhông gian mẫu là tập hợp số chấm xuất hiện khi gieo con xúc xắc hai lần liên tiếp khi đó $n\\left( \\Omega \\right) = 6.6 = 36$\n\nA = {(1; 1); (1; 2); (1; 3); (1; 4); (1; 5); (1; 6)} $ \\Rightarrow P\\left( A \\right) = \\frac{6}{{36}} = \\frac{1}{6}$\n\nB = {(1; 2); (2; 2); (3; 2); (4; 2); (5; 2); (6; 2)} $ \\Rightarrow P\\left( B \\right) = \\frac{6}{{36}} = \\frac{1}{6}$\n\nC = {(2; 6); (3; 5); (4; 4); (5; 3); (6; 2)} $ \\Rightarrow P\\left( C \\right) = \\frac{5}{{36}}$\n\nD = {(1; 6); (2; 5); (3; 4); (4; 3); (5; 2); (6; 1)} $ \\Rightarrow P\\left( D \\right) = \\frac{6}{{36}} = \\frac{1}{6}$\n\nDo đó\n\n$P\\left( A \\right).P\\left( C \\right) = \\frac{1}{6}.\\frac{5}{{36}} = \\frac{5}{{216}};P\\left( B \\right).P\\left( C \\right) = \\frac{1}{6}.\\frac{5}{{36}} = \\frac{5}{{216}};P\\left( C \\right).P\\left( D \\right) = \\frac{5}{{36}}.\\frac{1}{6} = \\frac{5}{{216}}$\n\nMặt khác\n\nAC = $\\emptyset \\Rightarrow P\\left( {AC} \\right) = 0$\n\nBC = {(6; 2)} $ \\Rightarrow P\\left( {BC} \\right) = \\frac{1}{{36}}$\n\nCD = $\\emptyset \\Rightarrow P\\left( {CD} \\right) = 0$\n\nKhi đó $P\\left( {AC} \\right) \\ne P\\left( A \\right).P\\left( C \\right);P\\left( {BC} \\right) \\ne P\\left( B \\right).P\\left( C \\right);P\\left( {CD} \\right) \\ne P\\left( C \\right).P\\left( D \\right)$\n\nVậy các cặp biến cố A và C; B và C, C và D không độc lập."
+    },
+    {
+      "id": 9,
+      "type": "short_answer",
+      "content": "<strong>25 trang 80 SGK Toán 11 tập 2</strong>\n\nHai chuyến bay của hai hãng hàng không X và Y, hoạt động độc lập với nhau. Xác suất để chuyến bay của hãng X và hãng Y khởi hành đúng giờ tương ứng là 0,92 và 0,98.\n\nDùng sơ đồ hình cây, tính xác suất để:\n\na) Cả hai chuyến bay khởi hành đúng giờ.\n\nb) Chỉ có duy nhất một trong hai chuyến bay khởi hành đúng giờ.\n\nc) Có ít nhất một trong hai chuyến bay khởi hành đúng giờ.",
+      "answer": null,
+      "explanation": "​\nGọi biến cố A: “Chuyến bay của hãng X khởi hành đúng giờ”, biến cố B: “Chuyến bay của hãng Y khởi hành đúng giờ”.\n\nTa dùng sơ đồ hình cây để mô tả như sau:\n\n\n\n\n[[SGIMG:1:https://sieugioi.com/docs/attachments/1783993947484-png.5943/]]\n\n\n\nTheo sơ đồ hình cây, ta có:\n\na) $P\\left( {AB} \\right) = 0,92.0,98 = 0,9016$.\n\nb) $P\\left( {A\\overline B \\cup \\overline A B} \\right) = 0,92.0,02 + 0,08.0,98 = 0,0968$.\n\nc) $P\\left( {\\overline A \\overline B } \\right) = 0,08.0,02 = 0,0016$.\n\n$P\\left( {A \\cup B} \\right) = 1 - P\\left( {\\overline A \\overline B } \\right) = 1 - 0,0016 = 0,9984$."
+    }
+  ]
+}

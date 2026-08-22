@@ -1,0 +1,62 @@
+{
+  "id": "l11-toan-khaosat-2026-bai-21-phuong-trinh-bat-phuong-trinh-mu-va-logarit-762",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "code": "Đề 01",
+  "title": "Bài 21. Phương trình, bất phương trình mũ và lôgarit",
+  "duration": 90,
+  "answerSource": "missing",
+  "sourceUrl": "https://sieugioi.com/docs/threads/bai-21-phuong-trinh-bat-phuong-trinh-mu-va-logarit.762/",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "content": "<strong>21 trang 24 SGK Toán 11 tập 2</strong>\n\nGiải các phương trình sau:",
+      "statements": [
+        "a) $\\log \\left( {x + 1} \\right) = 2$;",
+        "b) $2{\\log _4}x + {\\log _2}\\left( {x - 3} \\right) = 2$;",
+        "c) $\\ln x + \\ln \\left( {x - 1} \\right) = \\ln 4x$;",
+        "d) ${\\log _3}\\left( {{x^2} - 3x + 2} \\right) = {\\log _3}\\left( {2x - 4} \\right)$."
+      ],
+      "answer": [],
+      "explanation": "​\na) $\\log \\left( {x + 1} \\right) = 2$ (ĐK: x &gt; -1)\n\n$ \\Leftrightarrow x + 1 = {10^2}\\Leftrightarrow x = 99$\n\nVậy phương trình có nghiệm x = 99.\n\nb) $2{\\log _4}x + {\\log _2}\\left( {x - 3} \\right) = 2$ (ĐK: x &gt; 3)\n\n$ \\Leftrightarrow 2{\\log _{{2^2}}}x + {\\log _2}\\left( {x - 3} \\right) = 2 \\Leftrightarrow \\frac{1}{2}.2{\\log _{{2}}}x + {\\log _2}\\left( {x - 3} \\right) = 2\\Leftrightarrow {\\log _2}x + {\\log _2}\\left( {x - 3} \\right) = 2\\Leftrightarrow {\\log _2}\\left[ {x\\left( {x - 3} \\right)} \\right] = 2\\Leftrightarrow x\\left( {x - 3} \\right) = {2^2}\\Leftrightarrow {x^2} - 3x - 4 = 0\\Leftrightarrow \\left[ \\begin{array}{l}x = - 1\\left( {KTM} \\right)\\\\x = 4\\left( {TM} \\right)\\end{array} \\right.$\n\nVậy phương trình có nghiệm x = 4.\n\nc) $\\ln x + \\ln \\left( {x - 1} \\right) = \\ln 4x$ (ĐK: x &gt; 1)\n\n$\\Leftrightarrow \\ln \\left[ {x\\left( {x - 1} \\right)} \\right] = \\ln 4x\\Leftrightarrow x\\left( {x - 1} \\right) = 4x\\Leftrightarrow {x^2} - x - 4x = 0\\Leftrightarrow {x^2} - 5x = 0\\Leftrightarrow \\left[ \\begin{array}{l}x = 0\\left( {KTM} \\right)\\\\x = 5\\left( {TM} \\right)\\end{array} \\right.$\n\nVậy phương trình có nghiệm x = 5.\n\nd) ${\\log _3}\\left( {{x^2} - 3x + 2} \\right) = {\\log _3}\\left( {2x - 4} \\right)$ (ĐK: x &gt; 2)\n\n$\\Leftrightarrow {x^2} - 3x + 2 = 2x - 4\\Leftrightarrow {x^2} - 5x + 6 = 0\\Leftrightarrow \\left[ \\begin{array}{l}x = 2\\left( {KTM} \\right)\\\\x = 3\\left( {TM} \\right)\\end{array} \\right.$\n\nVậy phương trình có nghiệm x = 3."
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "content": "<strong>22 trang 24 SGK Toán 11 tập 2</strong>\n\nGiải các bất phương trình sau:",
+      "statements": [
+        "a) $0,{1^{2 - x}} &gt; 0,{1^{4 + 2x}}$;",
+        "b) ${2.5^{2x + 1}} \\le 3$;",
+        "c) ${\\log _3}\\left( {x + 7} \\right) \\ge - 1$;",
+        "d) ${\\log _{0,5}}\\left( {x + 7} \\right) \\ge {\\log _{0,5}}\\left( {2x - 1} \\right)$."
+      ],
+      "answer": [],
+      "explanation": "​\na) $0,{1^{2 - x}} &gt; 0,{1^{4 + 2x}} \\Leftrightarrow 2 - x &lt; 4 + 2x $ (vì 0 &lt; 0,1 &lt; 1)\n\n$\\Leftrightarrow 3x &gt; - 2\\Leftrightarrow x &gt; \\frac{{ - 2}}{3}$.\n\nb) ${2.5^{2x + 1}} \\le 3 \\Leftrightarrow {5^{2x + 1}} \\le \\frac{3}{2}\\Leftrightarrow 2x + 1 \\le {\\log _5}\\frac{3}{2} \\Leftrightarrow 2x \\le {\\log _5}\\frac{3}{2} - 1\\Leftrightarrow x \\le \\frac{1}{2}\\left( {{{\\log }_5}\\frac{3}{2} - 1} \\right) = \\frac{1}{2}.{\\log _5}\\frac{3}{{10}} = {\\log _5}\\frac{{\\sqrt {30} }}{{10}}$.\n\nc) ${\\log _3}\\left( {x + 7} \\right) \\ge - 1$ (ĐK: x &gt; -7)\n\n$ \\Leftrightarrow x + 7 \\ge {3^{ - 1}}\\Leftrightarrow x + 7 \\ge \\frac{1}{3} \\Leftrightarrow x \\ge \\frac{{ - 20}}{3}$.\n\nKết hợp điều kiện ta có $x \\ge \\frac{{ - 20}}{3}$.\n\nd) ${\\log _{0,5}}\\left( {x + 7} \\right) \\ge {\\log _{0,5}}\\left( {2x - 1} \\right)$ (ĐK: $x &gt; \\frac{1}{2}$)\n\n$\\Leftrightarrow x + 7 \\le 2x - 1$ (vì 0 &lt; 0,5 &lt; 1)\n\n$\\Leftrightarrow x \\ge 8$.\n\nKết hợp điều kiện ta có $x \\ge 8$."
+    },
+    {
+      "id": 3,
+      "type": "short_answer",
+      "content": "<strong>23 trang 24 SGK Toán 11 tập 2</strong>\n\nBác Minh gửi tiết kiệm 500 triệu đồng ở một ngân hàng với lãi suất không đổi 7,5% một năm theo thể thức lãi kép kì hạn 12 tháng. Tổng số tiền bác Minh thu được (cả vốn lẫn lãi) sau n năm là:\n\n\n$A = 500.{\\left( {1 + 0,075} \\right)^n}$ (triệu đồng).​\nTính thời gian tối thiểu gửi tiết kiệm để bác Minh thu được ít nhất 800 triệu đồng (cả vốn lẫn lãi).",
+      "answer": null,
+      "explanation": "​\nĐể bác Minh thu được ít nhất 800 triệu đồng (cả vốn lẫn lãi) thì:\n\n$A = 500.{\\left( {1 + 0,075} \\right)^n} \\ge 800\\Leftrightarrow 1,{075^n} \\ge 1,6\\Leftrightarrow n \\ge {\\log _{1,075}}1,6 \\approx 6,5$.\n\nVậy bác Minh cần tối thiểu 7 năm để thu được ít nhất 800 triệu đồng (cả vốn lẫn lãi).<strong>Bài 6.24 trang 24 SGK Toán 11 tập 2 - Kết nối tri thức</strong>\n\nSố lượng vi khuẩn ban đầu trong một mẻ nuôi cấy là 500 con. Người ta lấy một mẫu vi khuẩn trong mẻ nuôi cấy đó, đếm số lượng vi khuẩn và thấy rằng tỉ lệ tăng trưởng vi khuẩn là 40% mỗi giờ. Khi đó số lượng vi khuẩn N(t) sau t giờ nuôi cấy được ước tính bằng công thức sau:\n\n\n$N\\left( t \\right) = 500{e^{0,4t}}$.​\nHỏi sau bao nhiêu giờ nuôi cấy, số lượng vi khuẩn vượt mức 80 000 con?\n\n\n<strong>Lời giải</strong>​\nSố lượng vi khuẩn vượt mức 80 000 con khi:\n\n$N\\left( t \\right) = 500{e^{0,4t}} &gt; 80\\,000 \\Leftrightarrow {e^{0,4t}} &gt; 160\\Leftrightarrow 0,4t &gt; \\ln 160 \\Leftrightarrow t &gt; 12,68793454$.\n\nVậy sau 13 giờ nuôi cấy, số lượng vi khuẩn vượt mức 80 000 con."
+    },
+    {
+      "id": 4,
+      "type": "short_answer",
+      "content": "<strong>25 trang 24 SGK Toán 11 tập 2</strong>\n\nGiả sử nhiệt độ $T\\left( {^oC} \\right)$ của một vật giảm dần theo thời gian cho bởi công thức: $T = 25 + 70{e^{ - 0,5t}}$, trong đó thời gian t được tính bằng phút.\n\na) Tìm nhiệt độ ban đầu của vật.\n\nb) Sau bao lâu nhiệt độ của vật còn lại ${30^o}C$?",
+      "answer": null,
+      "explanation": "​\na) Nhiệt độ ban đầu của vật là khi t = 0:\n\n${T_0} = 25 + 70{e^{ - 0,5.0}} = 95$.\n\nb) Nhiệt độ của vật còn lại ${30^o}C$ nên\n\n$T = 25 + 70{e^{ - 0,5t}} = 30\\Leftrightarrow {e^{ - 0,5t}} = \\frac{1}{{14}} \\Leftrightarrow - 0,5t = \\ln \\frac{1}{{14}} \\Leftrightarrow t = 5,278114659$.\n\nVậy sau 6 phút nhiệt độ của vật còn lại ${30^o}C$."
+    },
+    {
+      "id": 5,
+      "type": "short_answer",
+      "content": "<strong>26 trang 24 SGK Toán 11 tập 2</strong>\n\nTính nồng độ ion hydrogen (tính bằng mol/lít) của một dung dịch có độ pH là 8.",
+      "answer": null,
+      "explanation": "​\nĐộ pH của một dung dịch được tính bằng công thức:\n\npH = −log$_{10}$[H+]\n\n⇒ [H+] = 10$^{ - pH}$.\n\nDo đó, nồng độ ion hydrogen của dung dịch có độ pH = 8 là:\n\n[H+] = 10$^{- 8 }$(mol/lít).\n\nVậy, nồng độ ion hydrogen của dung dịch là 10$^{-8}$ mol/lít."
+    }
+  ]
+}

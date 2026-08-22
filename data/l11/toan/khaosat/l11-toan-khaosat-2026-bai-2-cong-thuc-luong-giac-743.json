@@ -1,0 +1,50 @@
+{
+  "id": "l11-toan-khaosat-2026-bai-2-cong-thuc-luong-giac-743",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "code": "Đề 01",
+  "title": "Bài 2. Công thức lượng giác",
+  "duration": 90,
+  "answerSource": "missing",
+  "sourceUrl": "https://sieugioi.com/docs/threads/bai-2-cong-thuc-luong-giac.743/",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "type": "short_answer",
+      "content": "<strong>7 trang 21 SGK Toán 11 tập 1</strong>\n\nSử dụng ${15^0} = {45^0} - {30^0}$, hãy tính các giá trị lượng giác của góc ${15^0}$.",
+      "answer": null,
+      "explanation": "​\n$\\cos {15^0} = \\cos \\left( {{{45}^0} - {{30}^0}} \\right)= \\cos {45^0}\\cos {30^0} + \\sin {45^0}\\sin {30^0}= \\frac{{\\sqrt 2 }}{2}.\\frac{{\\sqrt 3 }}{2} + \\frac{{\\sqrt 2 }}{2}.\\frac{1}{2} = \\frac{{\\sqrt 6 + \\sqrt 2 }}{4}$.\n\n$\\sin {15^0} = \\sin \\left( {{{45}^0} - {{30}^0}} \\right) = \\sin {45^0}\\cos {30^0} - \\cos {45^0}\\sin {30^0} = \\frac{{\\sqrt 2 }}{2}.\\frac{{\\sqrt 3 }}{2} - \\frac{{\\sqrt 2 }}{2}.\\frac{1}{2} = \\frac{{\\sqrt 6 - \\sqrt 2 }}{4}$.\n\n$\\tan {15^0} = \\tan \\left( {{{45}^0} - {{30}^0}} \\right) = \\frac{{\\tan {{45}^0} - \\tan {{30}^0}}}{{1 + \\tan {{45}^0}\\tan {{30}^0}}} = \\frac{{1 - \\frac{{\\sqrt 3 }}{3}}}{{1 + \\frac{{\\sqrt 3 }}{3}}} = 2 - \\sqrt 3 $.\n\n$\\cot {15^0} = \\frac{1}{{\\tan {{15}^0}}} = \\frac{1}{{2 - \\sqrt 3 }}$."
+    },
+    {
+      "id": 2,
+      "type": "short_answer",
+      "content": "<strong>10 trang 21 SGK Toán 11 tập 1</strong>\n\nTính giá trị của các biểu thức sau:\n\na) $A = \\frac{{\\sin \\frac{\\pi }{{15}}\\cos \\frac{\\pi }{{10}} + \\sin \\frac{\\pi }{{10}}\\cos \\frac{\\pi }{{15}}}}{{\\cos \\frac{{2\\pi }}{{15}}\\cos \\frac{\\pi }{5} - \\sin \\frac{{2\\pi }}{{15}}\\sin \\frac{\\pi }{5}}}$;\n\nb) $B = \\sin \\frac{\\pi }{{32}}\\cos \\frac{\\pi }{{32}}\\cos \\frac{\\pi }{{16}}\\cos \\frac{\\pi }{8}$.",
+      "answer": null,
+      "explanation": "​\na) $A = \\frac{{\\sin \\frac{\\pi }{{15}}\\cos \\frac{\\pi }{{10}} + \\sin \\frac{\\pi }{{10}}\\cos \\frac{\\pi }{{15}}}}{{\\cos \\frac{{2\\pi }}{{15}}\\cos \\frac{\\pi }{5} - \\sin \\frac{{2\\pi }}{{15}}\\sin \\frac{\\pi }{5}}}= \\frac{{\\sin \\left( {\\frac{\\pi }{{15}} + \\frac{\\pi }{{10}}} \\right)}}{{\\cos \\left( {\\frac{{2\\pi }}{{15}} + \\frac{\\pi }{5}} \\right)}} = \\frac{{\\sin \\frac{\\pi }{6}}}{{\\cos \\frac{\\pi }{3}}} = 1$.\n\nb) $B = \\sin \\frac{\\pi }{{32}}\\cos \\frac{\\pi }{{32}}\\cos \\frac{\\pi }{{16}}\\cos \\frac{\\pi }{8} = \\frac{1}{2}\\sin \\frac{\\pi }{{16}}.\\cos \\frac{\\pi }{{16}}.\\cos \\frac{\\pi }{8}= \\frac{1}{4}\\sin \\frac{\\pi }{8}.\\cos \\frac{\\pi }{8}= \\frac{1}{8}\\sin \\frac{\\pi }{4} = \\frac{1}{8}.\\frac{{\\sqrt 2 }}{2} = \\frac{{\\sqrt 2 }}{{16}}$."
+    },
+    {
+      "id": 3,
+      "type": "short_answer",
+      "content": "<strong>11 trang 21 SGK Toán 11 tập 1</strong>\n\nChứng minh đẳng thức sau:\n\n$\\sin \\left( {a + b} \\right)\\sin \\left( {a - b} \\right)= {\\sin ^2}a - {\\sin ^2}b = {\\cos ^2}b - {\\cos ^2}a$.",
+      "answer": null,
+      "explanation": "​\n+) $\\sin \\left( {a + b} \\right)\\sin \\left( {a - b} \\right)= \\left( {\\sin a\\cos b + \\cos a\\sin b} \\right).\\left( {\\sin a\\cos b - \\cos a\\sin b} \\right) = {\\left( {\\sin a\\cos b} \\right)^2} - {\\left( {\\cos a\\sin b} \\right)^2}= {\\sin ^2}a\\left( {1 - {{\\sin }^2}b} \\right) - \\left( {1 - {{\\sin }^2}a} \\right){\\sin ^2}b = {\\sin ^2}a - {\\sin ^2}a{\\sin ^2}b - {\\sin ^2}b + {\\sin ^2}a{\\sin ^2}b= {\\sin ^2}a - {\\sin ^2}b $ (đpcm).\n\n+) $\\sin \\left( {a + b} \\right)\\sin \\left( {a - b} \\right)= \\left( {\\sin a\\cos b + \\cos a\\sin b} \\right).\\left( {\\sin a\\cos b - \\cos a\\sin b} \\right) = {\\left( {\\sin a\\cos b} \\right)^2} - {\\left( {\\cos a\\sin b} \\right)^2}= {\\cos ^2}b\\left( {1 - {{\\cos }^2}a} \\right) - {\\cos ^2}a\\left( {1 - {{\\cos }^2}b} \\right) = {\\cos ^2}b - {\\cos ^2}a{\\cos ^2}b - {\\cos ^2}a + {\\cos ^2}a{\\cos ^2}b= {\\cos ^2}b - {\\cos ^2}a$ (đpcm)."
+    },
+    {
+      "id": 4,
+      "type": "short_answer",
+      "content": "<strong>12 trang 21 SGK Toán 11 tập 1</strong>\n\nCho tam giác ABC có $\\widehat B = {75^o}$; $\\widehat C = {45^o}$ và $a = BC = 12$ cm.\n\na) Sử dụng công thức $S = \\frac{1}{2}ab.\\sin C$ và định lí sin, hãy chứng minh diện tích của tam giác ABC cho bởi công thức $S = \\frac{{{a^2}\\sin B\\sin C}}{{2\\sin A}}$\n\nb) Sử dụng kết quả ở câu a và công thức biến đổi tích thành tổng, hãy tính diện tích S của tam giác ABC.",
+      "answer": null,
+      "explanation": "​\na) Theo định lý sin:\n\n$\\frac{a}{{\\sin A}} = \\frac{b}{{\\sin B}} \\Rightarrow b = \\frac{{a.\\sin B}}{{\\sin A}}$.\n\nThay vào $S = \\frac{1}{2}ab.\\sin C$, ta có:\n\n$S = \\frac{1}{2}ab.\\sin C = \\frac{1}{2}a.\\frac{{a.\\sin B}}{{\\sin A}}.sin C = \\frac{{{a^2}\\sin B\\sin C}}{{2\\sin A}}$ (đpcm).\n\nb) Ta có: $\\widehat A + \\widehat B + \\widehat C = {180^o}\\Rightarrow \\widehat A = {180^o} - {75^o} - {45^o} = {60^o}$.\n\n$S = \\frac{{{a^2}\\sin B\\sin C}}{{2\\sin A}} = \\frac{{{{12}^2}.\\sin {{75}^o}.\\sin {{45}^0}}}{{2.\\sin {{60}^0}}} = \\frac{{144.\\frac{1}{2}.\\left( {\\cos {{30}^o} - \\cos {{120}^o}} \\right)}}{{2.\\frac{{\\sqrt 3 }}{2}}}= \\frac{{72.(\\frac{{\\sqrt 3 }}{2}-\\frac{{-1 }}{2}})}{{\\sqrt 3 }} = 36+12\\sqrt 3 $."
+    },
+    {
+      "id": 5,
+      "type": "short_answer",
+      "content": "<strong>13 trang 21 SGK Toán 11 tập 1</strong>\n\nTrong Vật lí, phương trình tổng quát của một vật dao động điều hòa cho bởi công thức $x\\left( t \\right) = A.\\cos \\left( {\\omega t + \\varphi } \\right),\\;$trong đó t là thời điểm (tính bằng giây), x(t) là li độ của vật tại thời điểm t, A là biên độ dao động (A &gt; 0) và $\\varphi \\in \\left[ { - \\pi ;\\pi } \\right]$ là pha ban đầu của dao động.\n\nXét hai dao động điều hòa có phương trình:\n\n${x_1}\\left( t \\right) = 2.\\cos \\left( {\\frac{\\pi }{3}t + \\frac{\\pi }{6}} \\right)\\left( {cm} \\right)$.\n\n${x_2}\\left( t \\right) = 2.\\cos \\left( {\\frac{\\pi }{3}t - \\frac{\\pi }{3}} \\right)\\left( {cm} \\right)$.\n\nTìm dao động tổng hợp $x\\left( t \\right) = {x_1}\\left( t \\right) + {x_2}\\left( t \\right)$ và sử dụng công thức biến đổi tổng thành tích để tìm biên độ và pha ban đầu của dao động tổng hợp này.",
+      "answer": null,
+      "explanation": "​\nTa có: $x\\left( t \\right) = {x_1}\\left( t \\right) + {x_2}\\left( t \\right) = 2\\left[ {\\cos \\left( {\\frac{\\pi }{3}t + \\frac{\\pi }{6}} \\right) + \\cos \\left( {\\frac{\\pi }{3}t - \\frac{\\pi }{3}} \\right)} \\right]$.\n\n$2\\left[ {\\cos \\left( {\\frac{{\\frac{\\pi }{3}t + \\frac{\\pi }{6} + \\frac{\\pi }{3}t - \\frac{\\pi }{3}}}{2}} \\right).\\cos \\left( {\\frac{{\\frac{\\pi }{3}t + \\frac{\\pi }{6} - \\frac{\\pi }{3}t + \\frac{\\pi }{3}}}{2}} \\right)} \\right] = 2\\left[2. {\\cos \\left( {\\frac{\\pi }{3}t - \\frac{\\pi }{{12}}} \\right).\\cos \\frac{\\pi }{4}} \\right]= 2\\sqrt 2 \\cos \\left( {\\frac{\\pi }{3}t - \\frac{\\pi }{{12}}} \\right)$.\n\nVậy biên độ là $2\\sqrt 2 $, pha ban đầu $ - \\frac{\\pi }{{12}}$."
+    }
+  ]
+}

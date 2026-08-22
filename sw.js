@@ -7,7 +7,7 @@
      - JSON đề thi: Cache-first, cực nhanh sau lần đầu
      - External (CDN, translate, desmos): Bỏ qua — không can thiệp
 */
-const CACHE = 'stu-static-v24';
+const CACHE = 'stu-static-v25';
 
 // Files được precache lúc SW install — shell tối thiểu để app chạy offline
 const PRECACHE = [
@@ -123,15 +123,16 @@ self.addEventListener('fetch', (event) => {
     return;
   }
 
-  // JSON index (stats, id-map, explore-index...) → SWR
+  // JSON index thay đổi sau mỗi lần thêm đề → network-first.
+  // Không trả bản cũ trước vì id-map cũ có thể trỏ tới file đã đổi.
   if (isIndexData(path)) {
-    event.respondWith(staleWhileRevalidate(req));
+    event.respondWith(networkFirst(req));
     return;
   }
 
-  // JSON đề thi → cache-first (ổn định, 7 ngày TTL)
+  // JSON đề thi → network-first, chỉ dùng cache khi thực sự offline.
   if (path.includes('/data/')) {
-    event.respondWith(cacheFirst(req));
+    event.respondWith(networkFirst(req));
     return;
   }
 

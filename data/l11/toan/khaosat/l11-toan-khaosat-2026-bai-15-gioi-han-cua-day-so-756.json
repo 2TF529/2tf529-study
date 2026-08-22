@@ -1,0 +1,57 @@
+{
+  "id": "l11-toan-khaosat-2026-bai-15-gioi-han-cua-day-so-756",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "code": "Đề 01",
+  "title": "Bài 15. Giới hạn của dãy số",
+  "duration": 90,
+  "answerSource": "missing",
+  "sourceUrl": "https://sieugioi.com/docs/threads/bai-15-gioi-han-cua-day-so.756/",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "type": "short_answer",
+      "content": "<strong>1 trang 109 SGK Toán 11 tập 1</strong>\n\nTìm các giới hạn sau:\n\na) $\\mathop {\\lim}\\limits_{n \\to + \\infty } \\frac{{{n^2} + n + 1}}{{2{n^2} + 1}}$;\n\nb) $\\mathop {\\lim}\\limits_{n \\to + \\infty } \\left( {\\sqrt {{n^2} + 2n} - n} \\right)$.",
+      "answer": null,
+      "explanation": "​\na) $\\mathop {\\lim }\\limits_{n \\to + \\infty } \\frac{{{n^2} + n + 1}}{{2{n^2} + 1}} = \\mathop {\\lim }\\limits_{n \\to + \\infty } \\frac{{1 + \\frac{1}{n} + \\frac{1}{{{n^2}}}}}{{2 + \\frac{1}{{{n^2}}}}} = \\frac{1}{2}$.\n\nb) $\\mathop {\\lim }\\limits_{n \\to + \\infty } (\\sqrt {{n^2} + 2n} - n) = \\mathop {\\lim }\\limits_{n \\to + \\infty } \\frac{{2n}}{{\\sqrt {{n^2} + 2n} + n}}= \\mathop {\\lim }\\limits_{n \\to + \\infty } \\frac{2}{{\\sqrt {1 + \\frac{2}{n}} + 1}} = 1$."
+    },
+    {
+      "id": 2,
+      "type": "short_answer",
+      "content": "<strong>2 trang 109 SGK Toán 11 tập 1</strong>\n\nCho hai dãy số không âm $\\left( {{u_n}} \\right)$ và $\\left( {{v_n}} \\right)$ với $\\mathop {\\lim}\\limits_{n \\to + \\infty } {u_n} = 2$ và $\\mathop {\\lim}\\limits_{n \\to + \\infty } {v_n} = 3$. Tìm các giới hạn sau:\n\na) $\\mathop {\\lim}\\limits_{n \\to + \\infty } \\frac{{u_n^2}}{{{v_n} - {u_n}}}$;\n\nb) $\\mathop {\\lim}\\limits_{n \\to + \\infty } \\sqrt {{u_n} + 2{v_n}} $.",
+      "answer": null,
+      "explanation": "​\na) $\\mathop {\\lim}\\limits_{n \\to + \\infty }\\frac{{u_n^2}}{{{v_n} - {u_n}}} = \\mathop {\\lim}\\limits_{n \\to + \\infty }\\frac{{{{\\left( {{u_n}} \\right)}^2}}}{{{v_n} - {u_n}}} = \\frac{{{2^2}}}{{3 - 2}} = 4$.\n\nb) $\\mathop {\\lim}\\limits_{n \\to + \\infty }\\left( {{u_n} + 2{v_n}} \\right) =\\mathop {\\lim}\\limits_{n \\to + \\infty } ({u_n} + 2{v_n}) = 2 + 2 . 3 = 8 $.\n\n$\\Rightarrow \\mathop {\\lim}\\limits_{n \\to + \\infty }\\sqrt {{u_n} + 2{v_n}} = \\sqrt 8 $."
+    },
+    {
+      "id": 3,
+      "type": "short_answer",
+      "content": "<strong>3 trang 109 SGK Toán 11 tập 1</strong>\n\nTìm giới hạn của các dãy số cho bởi\n\na) ${u_n} = \\frac{{{n^2} + 1}}{{2n - 1}}$;\n\nb) ${v_n} = \\sqrt {2{n^2} + 1} - n$.",
+      "answer": null,
+      "explanation": "​\na) $\\lim {u_n} = \\lim \\frac{{{n^2} + 1}}{{2n - 1}} = \\lim \\frac{{1 + \\frac{1}{{{n^2}}}}}{{\\frac{2}{n} - \\frac{1}{{{n^2}}}}}$.\n\nTa có: $\\lim \\left( {1 + \\frac{1}{{{n^2}}}} \\right) = 1$, $\\lim \\left( {\\frac{2}{n} - \\frac{1}{{{n^2}}}} \\right) = 0$.\n\nSuy ra ${u_n} = + \\infty $.\n\nb) $\\lim {v_n} = \\lim \\left( {\\sqrt {2{n^2} + 1} - n} \\right) = \\lim \\frac{{2{n^2} + 1 - {n^2}}}{{\\sqrt {2{n^2} + 1} + n}} = \\lim \\frac{{{n^2} + 1}}{{{n^2}\\left( {\\sqrt {\\frac{2}{{{n^2}}} + \\frac{1}{{{n^4}}}} + \\frac{1}{n}} \\right)}} = \\lim \\frac{{1 + \\frac{1}{{{n^2}}}}}{{\\sqrt {\\frac{2}{{{n^2}}} + \\frac{1}{{{n^4}}}} + \\frac{1}{n}}} = + \\infty $."
+    },
+    {
+      "id": 4,
+      "type": "short_answer",
+      "content": "<strong>4 trang 109 SGK Toán 11 tập 1</strong>\n\nViết các số thập phân vô hạn tuần hoàn sau đây dưới dạng phân số\n\na) 1, (12) = 1, 121212…;\n\nb) 3, (102) = 3, 102102102…",
+      "answer": null,
+      "explanation": "​\na) $1,12121212 \\ldots = 1 + 0.12 + 0.0012 + 0.000012 + \\ldots 1 + 12 . {10^{ - 2}} + 12 . {10^{ - 4}} + 12 . {10^{ - 6}} + \\ldots 12 . {10^{ - 2}} + 12 . {10^{ - 4}} + 12 . {10^{ - 6}} + \\ldots $là tổng cấp số nhân lùi vô hạn có ${u_1} = 12 . {10^{ - 2}}$, $q = {10^{ - 2}}$ nên\n\n$1,121212 \\ldots = 1 + \\frac{{{u_1}}}{{1 - q}} = 1 + \\frac{{12 . {{10}^{ - 2}}}}{{1 - {{10}^{ - 2}}}} = \\frac{{37}}{{33}}$.\n\nb) $3,102102102 \\ldots = 3 + 0.102 + 0.000102 + \\ldots = 3 + 102 . {10^{ - 3}} + 102 . {10^{ - 6}} + \\ldots 102 . {10^{ - 3}} + 102 . {10^{ - 6}} + 102 . {10^{ - 9}} + \\ldots $ là tổng cấp số nhân lùi vô hạn có ${u_1} = 102 . {10^{ - 3}}$, $q = {10^{ - 3}}$ nên\n\n$3,102102102 \\ldots = 3 + \\frac{{{u_1}}}{{1 - q}} = 3 + \\frac{{\\left( {102 . {{10}^{ - 3}}} \\right)}}{{1 - {{10}^{ - 3}}}} = \\frac{{1033}}{{333}}$."
+    },
+    {
+      "id": 5,
+      "type": "short_answer",
+      "content": "<strong>5 trang 109 SGK Toán 11 tập 1</strong>\n\nMột bệnh nhân hàng ngày phải uống một viên thuốc 150 mg. Sau ngày đầu, trước mỗi lần uống, hàm lượng thuốc cũ trong cơ thể vẫn còn 5%. Tính lượng thuốc có trong cơ thể sau khi uống viên thuốc của ngày thứ 5. Ước tính lượng thuốc trong cơ thể nếu bệnh nhân sử dụng thuốc trong một thời gian dài.",
+      "answer": null,
+      "explanation": "​\nTa có:\n\n${u_1} = 150{u_2} = 5\\% .150 + 150 = 150.\\left( {1 + 0,05} \\right) = 150.1,05 = 1,05.{u_1}{u_3} = 5\\% .1,05.{u_1} + {u_1} = {u_1}\\left( {1,0525} \\right){u_4} = 5\\% .1,0525.{u_1} + {u_1} = {u_1}.1,052625{u_5} = 5\\% .1,052625.{u_1} + {u_1} = {u_1}.1,05263125 = 157,895\\Rightarrow {u_n} = {u_1}.\\left( {0,{{05}^{n - 1}} + 0,{{05}^{n - 2}} + ... + 0,05 + 1} \\right)$.\n\nNhận thấy $0,{05^{n - 1}};0,{05^{n - 2}};...;0,05;1$ lập thành cấp số nhân lùi vô hạn với số hạng đầu là $0,{05^{n - 1}}$ và công bội là 0,05.\n\n$ \\Rightarrow {S_n} = \\frac{{0,{{05}^{n - 1}}}}{{1 - 0,05}} = 0,{05^{n - 2}}$."
+    },
+    {
+      "id": 6,
+      "type": "short_answer",
+      "content": "<strong>6 trang 109 SGK Toán 11 tập 1</strong>\n\nCho tam giác vuông ABC vuông tại A, có AB = h và góc B bằng $\\alpha $ (H.5.3). Từ A kẻ $A{A_1} \\bot BC$, từ ${A_1}$ kẻ ${A_1}{A_2} \\bot AC$, sau đó lại kẻ ${A_2}{A_3} \\bot BC$. Tiếp tục quá trình trên, ta được đường gấp khúc vô hạn $A{A_1}{A_2}{A_3} \\ldots $. Tính độ dài đường gấp khúc này theo h và $\\alpha $.\n\n\n\n\n<figure class=\"question-figure\"><img src=\"data/l11/toan/khaosat/assets/l11-toan-khaosat-2026-bai-15-gioi-han-cua-day-so-756/hinh-01.webp\" alt=\"Hình minh họa\" loading=\"lazy\"></figure>",
+      "answer": null,
+      "explanation": "​\nĐộ dài đường gấp khúc tạo thành cấp số nhân với số hạng tổng quát là:\n\n${u_n} = \\sin\\alpha \\times h \\times {\\left( {\\sin\\alpha } \\right)^{n - 1}}$.\n\nĐộ dài đường gập khúc: $A{A_1} + {A_2}{A_3} + \\ldots $.\n\nĐây là tổng cấp số nhân lùi vô hạn với ${u_1} = \\sin\\alpha \\times h$, $q = \\sin\\alpha $.\n\nNên $A{A_1} + {A_2}{A_3} + \\ldots = \\frac{{\\sin\\alpha \\times h}}{{1 - \\sin\\alpha }}$."
+    }
+  ]
+}

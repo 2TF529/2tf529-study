@@ -1,0 +1,70 @@
+{
+  "id": "l11-toan-khaosat-2026-bai-7-cap-so-nhan-748",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "code": "Đề 01",
+  "title": "Bài 7. Cấp số nhân",
+  "duration": 90,
+  "answerSource": "missing",
+  "sourceUrl": "https://sieugioi.com/docs/threads/bai-7-cap-so-nhan.748/",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "type": "short_answer",
+      "content": "<strong>15 trang 55 SGK Toán 11 tập 1</strong>\n\nXác định công bội, số hạng thứ 5, số hạng tổng quát và số hạng thứ 100 của mỗi cấp số nhân sau:\n\na) 1, 4, 16, ...\n\nb) $2, - \\frac{1}{2},\\frac{1}{8},\\; $...",
+      "answer": null,
+      "explanation": "​\na) Cấp số nhân có ${u_1} = 1$, $q = 4$.\n\nSố hạng tổng quát: ${u_n} = {4^{n - 1}}$.\n\nSố hạng thứ 5: ${u_5} = {4^{5 - 1}} = 256$.\n\nSố hạng thứ 100: ${u_{100}} = {4^{100 - 1}} = {4^{99}}$.\n\nb) Cấp số nhân có ${u_1} = 2$, $q = - \\frac{1}{4}$.\n\nSố hạng tổng quát: ${u_n} = 2 . {\\left( { - \\frac{1}{4}} \\right)^{n - 1}}$.\n\nSố hạng thứ 5: ${u_5} = 2 . {\\left( { - \\frac{1}{4}} \\right)^{5 - 1}} = \\frac{1}{{128}}$.\n\nSố hạng thứ 100: ${u_{100}} = 2 . {\\left( { - \\frac{1}{4}} \\right)^{100 - 1}} = \\frac{ -1}{{2^{197}}}$."
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "content": "<strong>16 trang 55 SGK Toán 11 tập 1</strong>\n\nViết năm số hạng đầu của mỗi dãy số $\\left( {{u_n}} \\right)$ sau và xem nó có phải là cấp số nhân không. Nếu nó là cấp số nhân, hãy tìm công bội <em>q</em> và viết công thức số hạng tổng quát của nó dưới dạng ${u_n} = {u_1}.{q^{n - 1}}$.",
+      "statements": [
+        "a) ${u_n} = 5n$;",
+        "b) ${u_n} = {5^n}$;",
+        "c) ${u_1} = 1$, ${u_n} = n.{u_{n - 1}}$;",
+        "d) ${u_1} = 1$, ${u_n} = 5.{u_{n - 1}}$."
+      ],
+      "answer": [],
+      "explanation": "​\na) ${u_1} = 5,\\;{u_2} = 10,\\;{u_3} = 15,\\;{u_4} = 20,\\;{u_5} = 25$.\n\nTa có: $\\frac{{{u_n}}}{{{u_{n - 1}}}} = \\frac{{5n}}{{5n - 1}} $phụ thuộc vào n.\n\nSuy ra dãy số $\\left( {{u_n}} \\right)$ không phải là cấp số nhân.\n\nb) ${u_1} = 5,\\;{u_2} = 25,\\;{u_3} = 125,\\;{u_4} = 625,\\;{u_5} = 3125$.\n\nTa có: $\\frac{{{u_n}}}{{{u_{n - 1}}}} = \\frac{{{5^n}}}{{{5^{n - 1}}}} = 5,\\;\\forall n \\ge 2$.\n\nDo đó dãy số $\\left( {{u_n}} \\right)$ là cấp số nhân với công bội $q = 5$.\n\nSố hạng tổng quát: ${u_n} = 5 \\times {5^{n - 1}}= 5^{n}$.\n\nc) ${u_1} = 1,\\;{u_2} = 2,\\;{u_3} = 6,\\;{u_4} = 24,\\;{u_5} = 120$.\n\ncó: $\\frac{{{u_n}}}{{{u_{n - 1}}}} = n$ phụ thuộc vào n, $\\forall n \\in {N^*}$.\n\nSuy ra dãy số $\\left( {{u_n}} \\right)$ không phải là cấp số nhân.\n\nd) ${u_1} = 1,\\;{u_2} = 5,\\;{u_3} = 25,\\;{u_4} = 125,\\;{u_5} = 625$.\n\nTa có: $\\frac{{{u_n}}}{{{u_{n - 1}}}} = 5,\\;\\forall n \\ge 2$.\n\nDo đó dãy số $\\left( {{u_n}} \\right)$ là cấp số nhân với công bội $q = 5$.\n\nSố hạng tổng quát: ${u_n} = {5^{n - 1}}$."
+    },
+    {
+      "id": 3,
+      "type": "short_answer",
+      "content": "<strong>17 trang 55 SGK Toán 11 tập 1</strong>\n\nMột cấp số nhân có số hạng thứ 6 bằng 96 và số hạng thứ 3 bằng 12. Tìm số hạng thứ 50 của cấp số nhân này.",
+      "answer": null,
+      "explanation": "​\nSố hạng tổng quát của cấp số nhân: ${u_n} = {u_1} \\times {q^{n - 1}}$.\n\nTa có: $\\left\\{ \\begin{array}{l}{u_6} = {u_1}{q^5} = 96\\\\{u_3} = {u_1}{q^2} = 12\\end{array} \\right. \\Leftrightarrow \\left\\{ \\begin{array}{l}{u_1}{q^2}.{q^3} = 96\\\\{u_1}{q^2} = 12\\end{array} \\right.$.\n\n$ \\Leftrightarrow \\left\\{ \\begin{array}{l}12.{q^3} = 96\\\\{u_1}{q^2} = 12\\end{array} \\right. \\Leftrightarrow \\left\\{ \\begin{array}{l}q = 2\\\\{u_1} = 3\\end{array} \\right. \\Rightarrow {u_n} = 3 \\times {2^{n - 1}}$.\n\nSố hạng thứ 50: ${u_{50}} = 3 \\times {2^{50 - 1}} = 3 \\times {2^{49}}$."
+    },
+    {
+      "id": 4,
+      "type": "short_answer",
+      "content": "<strong>18 trang 55 SGK Toán 11 tập 1</strong>\n\nMột cấp số nhân có số hạng đầu bằng 5 và công bội bằng 2. Hỏi phải lấy tổng của bao nhiêu số hạng đầu của cấp số nhân này để có tổng bằng 5115?",
+      "answer": null,
+      "explanation": "​\n${S_n} = \\frac{{5\\left( {1 - {2^n}} \\right)}}{{1 - 2}} = - 5 + 5 .{2^n}\\Leftrightarrow 5115 = - 5 + {5.2^n}\\Leftrightarrow {2^n} = 1024\\Rightarrow n = 10$.\n\nVậy phải lấy tổng 10 số hạng đầu."
+    },
+    {
+      "id": 5,
+      "type": "short_answer",
+      "content": "<strong>19 trang 55 SGK Toán 11 tập 1</strong>\n\nMột công ty xây dựng mua một chiếc máy ủi với giá 3 tỉ đồng. Cứ sau mỗi năm sử dụng, giá trị của chiếc máy ủi này lại giảm 20% so với giá trị của nó trong năm liền trước đó. Tìm giá trị còn lại của chiếc máy ủi đó sau 5 năm sử dụng.",
+      "answer": null,
+      "explanation": "​\nTa có: ${u_0} = 3$, $q = 1- 0,2 = 0,8$.\n\nGiá trị của máy ủi sau 1 năm là:\n\n${u_1} = 3.0,8 = 2,4$.\n\nGiá trị của máy ủi sau n năm là:\n\n${u_n} = {u_1}.q^{n-1} = 2,4 . {0,8^{n - 1}}$.\n\nVậy sau 5 năm sử dụng giá trị của máy ủi là:\n\n${u_5} = 2,4 .{0,8^{5 - 1}} = 0,98304$ (tỉ đồng) = 983 040 000 (đồng)."
+    },
+    {
+      "id": 6,
+      "type": "short_answer",
+      "content": "<strong>20 trang 55 SGK Toán 11 tập 1</strong>\n\nVào năm 2020, dân số của một quốc gia là khoảng 97 triệu người và tốc độ tăng trưởng dân số là 0,91%. Nếu tốc độ tăng trưởng dân số này được giữ nguyên hằng năm, hãy ước tính dân số của quốc gia đó vào năm 2030.",
+      "answer": null,
+      "explanation": "​\nDân số của quốc gia lập thành cấp số nhân với số hạng đầu ${u_1} = 97$, công bội $q = 1 + 0,91\\% = 1,0091$.\n\nDân số sau 1 năm là ${u_2} = {u_1}.1,0091$, sau 2 năm là ${u_3}= {u_1}.1,0091^2$,...\n\nDân số sau $n - 1$ năm là: ${u_{n}} = 97 .{1,0091^{n - 1}}$.\n\nDân số của quốc gia năm 2030 tức sau 10 năm là:\n\n${u_{11}} = 97 .{1.0091^{10}} = 106,197$ (triệu người)."
+    },
+    {
+      "id": 7,
+      "type": "short_answer",
+      "content": "<strong>21 trang 55 SGK Toán 11 tập 1</strong>\n\nMột loại thuốc được dùng mỗi ngày một lần. Lúc đầu nồng độ thuốc trong máu của bệnh nhân tăng nhanh, nhưng mỗi liều kế tiếp có tác dụng ít hơn liều trước đó. Lượng thuốc trong máu ở ngày thứ nhất là 50 mg, và mỗi ngày sau đó giảm chỉ còn một nửa so với ngày kề trước đó. Tính tổng lượng thuốc (tính bằng mg) trong máu của bệnh nhân sau khi dùng thuốc 10 ngày liên tiếp.",
+      "answer": null,
+      "explanation": "​\nTa có: ${u_1} = 50$, $q = 0,5$.\n\nTổng lượng thuốc trong máu sau khi dùng 10 ngày liên tiếp là:\n\n${S_n} = \\frac{{50\\left[ {1 - {{\\left( {0,5} \\right)}^{10}}} \\right]}}{{1 - 0,5}} = 99,902$ (mg)."
+    }
+  ]
+}

@@ -114,14 +114,14 @@ async function init() {
       let filePath = params.get("file");
       if (!filePath) {
         try {
-          const mapRes = await fetch("data/id-map.json");
+          const mapRes = await fetch("data/id-map.json", { cache: "no-store" });
           const idMap = await mapRes.json();
           filePath = idMap[examId];
         } catch (e) {}
       }
 
       if (!filePath) {
-        const indexRes = await fetch("data/index.json");
+        const indexRes = await fetch("data/index.json", { cache: "no-store" });
         const indexList = await indexRes.json();
         examMeta = indexList.find(e => e.id === examId);
         if (examMeta) filePath = examMeta.file;
@@ -132,7 +132,7 @@ async function init() {
         return;
       }
 
-      const dataRes = await fetch(filePath);
+      const dataRes = await fetch(filePath, { cache: "no-store" });
       if (!dataRes.ok) {
         throw new Error(`HTTP ${dataRes.status} khi tải ${filePath}`);
       }

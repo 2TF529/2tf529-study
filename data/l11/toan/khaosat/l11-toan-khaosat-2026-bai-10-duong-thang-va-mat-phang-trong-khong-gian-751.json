@@ -1,0 +1,57 @@
+{
+  "id": "l11-toan-khaosat-2026-bai-10-duong-thang-va-mat-phang-trong-khong-gian-751",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "code": "Đề 01",
+  "title": "Bài 10. Đường thẳng và mặt phẳng trong không gian",
+  "duration": 90,
+  "answerSource": "missing",
+  "sourceUrl": "https://sieugioi.com/docs/threads/bai-10-duong-thang-va-mat-phang-trong-khong-gian.751/",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "type": "short_answer",
+      "content": "<strong>2 trang 77 SGK Toán 11 tập 1</strong>\n\nCho tam giác ABC và điểm S không thuộc mặt phẳng (ABC). Lấy D, E là các điểm lần lượt thuộc các cạnh SA, SB và D, E khác S.\n\na) Đường thẳng DE có nằm trong mặt phẳng (SAB) không?\n\nb) Giả sử DE cắt AB tại F. Chứng minh rằng F là điểm chung của hai mặt phẳng (SAB) và (CDE).",
+      "answer": null,
+      "explanation": "[[SGIMG:18:https://sieugioi.com/docs/attachments/1784014495773-png.5995/]]\n\n\na) D thuộc SA, mà SA thuộc (SAB) nên D thuộc (SAB).\n\nE thuộc SB, mà SB thuộc (SAB) nên E thuộc (SAB).\n\nVậy đường thẳng DE nằm trong mặt phẳng (SAB).\n\nb) F thuộc AB suy ra F nằm trong (SAB).\n\nF thuộc DE suy ra F nằm trong (CDE).\n\nDo đó, F là điểm chung của hai mặt phẳng (SAB) và (CDE)."
+    },
+    {
+      "id": 2,
+      "type": "short_answer",
+      "content": "<strong>4 trang 77 SGK Toán 11 tập 1</strong>\n\nCho hình chóp tứ giác S.ABCD và M là một điểm thuộc cạnh SC (M khác S, C). Giả sử hai đường thẳng AB và CD cắt nhau tại N. Chứng minh rằng đường thẳng MN là giao tuyến của hai mặt phẳng (ABM) và (SCD).",
+      "answer": null,
+      "explanation": "[[SGIMG:19:https://sieugioi.com/docs/attachments/1784014557171-png.5996/]]\n\n\nTa có N thuộc đường thẳng AB , mà AB nằm trong mặt phẳng (ABM) nên N cũng nằm trong mp(ABM).\n\nM và N đều nằm trong mặt phẳng (ABM) nên MN nằm trong mp(ABM) (1)\n\nM thuộc SC suy ra M nằm trong mp(SCD), N thuộc đường thẳng CD nên N nằm trong mp(SCD).\n\nDo đó, MN nằm trong mp(SCD) (2)\n\nTừ (1) và (2) suy ra MN là giao tuyến của hai mp(ABM) và (SCD)."
+    },
+    {
+      "id": 3,
+      "type": "short_answer",
+      "content": "<strong>5 trang 77 SGK Toán 11 tập 1</strong>\n\nCho hình chóp tứ giác S.ABCD và lấy một điểm E thuộc cạnh SA của hình chóp (E khác S, A).Trong mặt phẳng (ABCD) vẽ một đường thằng d cắt các cạnh CB, CD lần lượt tại M, N và cắt các tia AB, AD lần lượt tại P, Q.\n\na) Xác định giao điểm của mp (E,d) với các cạnh SB, SD của hình chóp.\n\nb) Xác định giao tuyến của mp (E,d) với các mặt của hình chóp.",
+      "answer": null,
+      "explanation": "[[SGIMG:20:https://sieugioi.com/docs/attachments/1784014598885-png.5997/]]\n\n\na) +) Vì E thuộc cạnh SA nên E thuộc mặt phẳng (SAB). Vì P thuộc đường thẳng AB nên P thuộc mặt phẳng (SAB). Như vậy, các điểm S, A, B, E, P cùng thuộc mặt phẳng (SAB).\n\nTrong tam giác SAB, đường thẳng EP cắt cạnh SB tại một điểm H. Do P thuộc đường thẳng d nên EP nằm trong mp(E, d) và H thuộc EP, do đó H thuộc mp(E, d). Vậy H là giao điểm của đường thẳng SB và mp(E, d).\n\n+) Vì E thuộc cạnh SA nên E thuộc mặt phẳng (SAD). Vì Q thuộc đường thẳng AD nên Q thuộc mặt phẳng (SAD). Như vậy, các điểm S, A, D, E, Q cùng thuộc mặt phẳng (SAD).\n\nTrong tam giác SAD, đường thẳng EQ cắt cạnh SD tại một điểm I. Do Q thuộc đường thẳng d nên EQ nằm trong mp(E, d) và I thuộc EQ, do đó I thuộc mp(E, d). Vậy I là giao điểm của đường thẳng SD và mp(E, d).\n\nb)\n\n+) Đường thẳng d cắt các cạnh CB, CD lần lượt tại M, N, do đó M, N thuộc d, mà d nằm trong mp(E, d) nên đường thẳng MN cũng nằm trong mp(E, d). Ta lại có, M thuộc CB nằm trong mặt phẳng (ABCD) nên M thuộc mặt phẳng (ABCD), tương tự N thuộc CD nằm trong mặt phẳng (ABCD) nên N thuộc mặt phẳng (ABCD), do đó đường thẳng MN nằm trong mặt phẳng (ABCD). Vậy MN là giao tuyến của hai mặt phẳng (ABCD) và mp(E, d).\n\n+) Vì H thuộc SB nằm trong mặt phẳng (SAB) nên H thuộc mặt phẳng (SAB), lại có E thuộc mặt phẳng (SAB), do đó EH nằm trong mặt phẳng (SAB). Vì E thuộc mp(E, d) và H thuộc mp(E, d) nên EH nằm trong mp(E, d). Vậy EH là giao tuyến của hai mặt phẳng (SAB) và mp(E, d).\n\n+) Vì I thuộc SD nằm trong mặt phẳng (SAD) nên I thuộc mặt phẳng (SAD), lại có E thuộc mặt phẳng (SAD), do đó EI nằm trong mặt phẳng (SAD). Vì E thuộc mp(E, d) và I thuộc mp(E, d) nên EI nằm trong mp(E, d). Vậy EI là giao tuyến của hai mặt phẳng (SAD) và mp(E, d).\n\n+) Vì H thuộc SB nên H thuộc mặt phẳng (SBC), vì M thuộc BC nên M thuộc mặt phẳng (SBC), do đó HM nằm trong mặt phẳng (SBC). Lại có M thuộc d nên M thuộc mp(E, d) và H thuộc mp(E, d) nên HM nằm trong mp(E, d). Vậy HM là giao tuyến của hai mặt phẳng (SBC) và mp(E, d).\n\n+) Vì I thuộc SD nên I thuộc mặt phẳng (SCD), vì N thuộc CD nên N thuộc mặt phẳng (SCD), do đó IN nằm trong mặt phẳng (SCD). Lại có N thuộc d nên N thuộc mp(E, d) và I thuộc mp(E, d) nên IN nằm trong mp(E, d). Vậy IN là giao tuyến của hai mặt phẳng (SCD) và mp(E, d)."
+    },
+    {
+      "id": 4,
+      "type": "short_answer",
+      "content": "<strong>6 trang 77 SGK Toán 11 tập 1</strong>\n\nCho hình tứ diện ABCD. Trên các cạnh AC, BC, BD lần lượt lấy các điểm M, N, P sao cho AM = CM, BN = CN, BP = 2DP.\n\na) Xác định giao điểm của đường thẳng CD và mặt phẳng (MNP).\n\nb) Xác định giao tuyến của hai mặt phẳng (ACD) và (MNP).",
+      "answer": null,
+      "explanation": "[[SGIMG:21:https://sieugioi.com/docs/attachments/1784014667070-png.5998/]]\n\n\na) Trong tam giác BCD, N thuộc cạnh BC thỏa mãn BN = CN hay N là trung điểm của BC và P thuộc cạnh BD sao cho BP = 2DP. Khi đó, đường thẳng NP cắt CD tại một điểm E. Vì E thuộc NP nằm trong mặt phẳng (MNP) nên E thuộc mặt phẳng (MNP). Vậy E là giao điểm của đường thẳng CD và mặt phẳng (MNP).\n\nb) Vì M thuộc cạnh AC nên M thuộc mặt phẳng (ACD), vì E thuộc CD nên E thuộc mặt phẳng (ACD), do đó đường thẳng ME nằm trong mặt phẳng (ACD).\n\nVì E thuộc mặt phẳng (MNP) và M thuộc mặt phẳng (MNP) nên ME nằm trong mặt phẳng (MNP).\n\nVậy ME là giao tuyến của hai mặt phẳng (ACD) và (MNP)."
+    },
+    {
+      "id": 5,
+      "type": "short_answer",
+      "content": "<strong>7 trang 77 SGK Toán 11 tập 1</strong>\n\nTại các nhà hàng, khách sạn, nhân viên phục vụ bàn thường xuyên phải bưng bê nhiều khay, đĩa đồ ăn khác nhau. Một trong những nguyên tắc nhân viên cần nhớ là khay phải được bưng bằng ít nhất 3 ngón tay. Hãy giải thích tại sao?\n\n\n\n<figure class=\"question-figure\"><img src=\"data/l11/toan/khaosat/assets/l11-toan-khaosat-2026-bai-10-duong-thang-va-mat-phang-trong-khong-gian-751/hinh-01.webp\" alt=\"Hình minh họa\" loading=\"lazy\"></figure>",
+      "answer": null,
+      "explanation": "​\nViệc bưng ít nhất 3 ngón tay sẽ tạo thành mặt phẳng cố định chứa mặt khay giúp cố định khay trong quá trình di chuyển."
+    },
+    {
+      "id": 6,
+      "type": "short_answer",
+      "content": "<strong>8 trang 77 SGK Toán 11 tập 1</strong>\n\nBàn cắt giấy là một dụng cụ được sử dụng thường xuyên ở các cửa hàng photo – copy. Bàn cắt giấy gồm hai phần chính: phần bàn hình chữ nhật có chia kích thước giấy và phần dao cắt có một đầu được cố định vào bàn. Hãy giải thích tại sao khi sử dụng bàn cắt giấy thì các đường cắt luôn là đường thẳng.\n\n\n\n<figure class=\"question-figure\"><img src=\"data/l11/toan/khaosat/assets/l11-toan-khaosat-2026-bai-10-duong-thang-va-mat-phang-trong-khong-gian-751/hinh-02.webp\" alt=\"Hình minh họa\" loading=\"lazy\"></figure>",
+      "answer": null,
+      "explanation": "​\nTa có: mặt phẳng chứa phần bàn và mặt phẳng chứa dao cắt, đường cắt chính là giao tuyến của hai mặt phẳng đó.\n\nGiao tuyến của hai mặt phẳng là một đường thẳng nên đường cắt luôn là đường thẳng."
+    }
+  ]
+}

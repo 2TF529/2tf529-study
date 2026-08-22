@@ -1,0 +1,64 @@
+{
+  "id": "l11-toan-khaosat-2026-bai-16-gioi-han-cua-ham-so-757",
+  "grade": "l11",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "code": "Đề 01",
+  "title": "Bài 16. Giới hạn của hàm số",
+  "duration": 90,
+  "answerSource": "missing",
+  "sourceUrl": "https://sieugioi.com/docs/threads/bai-16-gioi-han-cua-ham-so.757/",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "type": "short_answer",
+      "content": "<strong>7 trang 118 SGK Toán 11 tập 1</strong>\n\nCho hai hàm số $f\\left( x \\right) = \\frac{{{x^2} - 1}}{{x - 1}}$ và g(x) = x + 1. Khẳng định nào sau đây là đúng?\n\na) f(x) = g(x);\n\nb) $\\mathop {\\lim }\\limits_{x \\to 1} f\\left( x \\right) = \\mathop {\\lim }\\limits_{x \\to 1} g\\left( x \\right)$.\n\n<strong>Video hướng dẫn giải\n\nPhương pháp giải - Xem chi tiết</strong>\n\na) Kiểm tra xem ĐKXĐ của 2 hàm số có giống nhau không.\n\nb) Tính giới hạn của hai hàm số.",
+      "answer": null,
+      "explanation": "​\na) Biểu thức f(x) có nghĩa khi $x - 1 \\ne 0 \\Leftrightarrow x \\ne 1$.\n\nTa có: $f\\left( x \\right) = \\frac{{{x^2} - 1}}{{x - 1}} = \\frac{{\\left( {x - 1} \\right)\\left( {x + 1} \\right)}}{{x - 1}} = x + 1$, với mọi x ≠ 1.\n\nBiểu thức g(x) = x + 1 có nghĩa với mọi x.\n\nDo đó, điều kiện xác định của hai hàm số f(x) và g(x) khác nhau, vậy khẳng định a) là sai.\n\nb) Ta có:\n\n$\\mathop {\\lim }\\limits_{x \\to 1} f\\left( x \\right) = \\mathop {\\lim }\\limits_{x \\to 1} \\frac{{{x^2} - 1}}{{x - 1}} = \\mathop {\\lim }\\limits_{x \\to 1} \\left( {x + 1} \\right) = 1 + 1 = 2$;\n\n$\\mathop {\\lim }\\limits_{x \\to 1} g(x) = \\mathop {\\lim }\\limits_{x \\to 1} (x + 1) = 1 + 1 = 2$.\n\nVậy $\\mathop {\\lim }\\limits_{x \\to 1} f\\left( x \\right) = \\mathop {\\lim }\\limits_{x \\to 1} g\\left( x \\right)$ nên khẳng định b) là đúng.\n\n$\\mathop {\\lim }\\limits_{x \\to 1} g(x) = \\mathop {\\lim }\\limits_{x \\to 1} (x + 1) = 1 + 1 = 2$."
+    },
+    {
+      "id": 2,
+      "type": "short_answer",
+      "content": "<strong>8 trang 118 SGK Toán 11 tập 1</strong>\n\nTính các giới hạn sau:\n\na) $\\mathop {{\\rm{lim}}}\\limits_{x \\to 0} \\frac{{{{\\left( {x + 2} \\right)}^2} - 4}}{x}$;\n\nb) $\\mathop {{\\rm{lim}}}\\limits_{x \\to 0} \\frac{{\\sqrt {{x^2} + 9} - 3}}{{{x^2}}}$.",
+      "answer": null,
+      "explanation": "​\na) $\\mathop {\\lim }\\limits_{x \\to 0} \\frac{{{{\\left( {x + 2} \\right)}^2} - 4}}{x} = \\mathop {\\lim }\\limits_{x \\to 0} \\frac{{{x^2} + 4x}}{x} = \\mathop {\\lim }\\limits_{x \\to 0} \\left( {x + 4} \\right) = 4$.\n\nb) $\\mathop {\\lim }\\limits_{x \\to 0} \\frac{{\\sqrt {{x^2} + 9} - 3}}{{{x^2}}} = \\mathop {\\lim }\\limits_{x \\to 0} \\frac{1}{{\\sqrt {{x^2} + 9} + 3}} = \\frac{1}{6}$."
+    },
+    {
+      "id": 3,
+      "type": "short_answer",
+      "content": "<strong>9 trang 118 SGK Toán 11 tập 1</strong>\n\nCho hàm số $H(t) = \\left\\{ \\begin{array}{l}0,t &lt; 0\\\\1,t \\ge 0\\end{array} \\right.$ (hàm Heaviside, thường được dùng để mô tả việc chuyển trạng thái tắt/mở của dòng điện tại thời điểm t = 0).\n\nTính $\\mathop {{\\rm{lim}}}\\limits_{t \\to {0^ + }} H\\left( t \\right)$ và $\\mathop {{\\rm{lim}}}\\limits_{t \\to 0^-} \\;H\\left( t \\right)$.",
+      "answer": null,
+      "explanation": "​\n$\\mathop {\\lim }\\limits_{t \\to {0^ + }} H\\left( t \\right) =\\mathop {\\lim }\\limits_{t \\to {0^ + }} 1= 1$.\n\n$\\mathop {\\lim }\\limits_{t \\to {0 }} H\\left( t \\right) = \\mathop {\\lim }\\limits_{t \\to {0^-}} 0=0$."
+    },
+    {
+      "id": 4,
+      "type": "short_answer",
+      "content": "<strong>10 trang 118 SGK Toán 11 tập 1</strong>\n\nTính các giới hạn một bên:\n\na) $\\mathop {{\\rm{lim}}}\\limits_{x \\to {1^ + }} \\frac{{x - 2}}{{x - 1}}$;\n\nb) $\\mathop {{\\rm{lim}}}\\limits_{x \\to {4^ - }} \\frac{{{x^2} - x + 1}}{{4 - x}}$.",
+      "answer": null,
+      "explanation": "​\na) $\\mathop {\\lim }\\limits_{t \\to {1^ + }} \\left( {x - 2} \\right) = - 1 &lt; 0\\mathop {\\lim }\\limits_{t \\to {1^ + }} \\left( {x - 1} \\right) &gt; 0 \\Rightarrow \\mathop {\\lim }\\limits_{t \\to {1^ + }} \\frac{{x - 2}}{{x - 1}} = - \\infty $.\n\nb) $\\mathop {\\lim }\\limits_{t \\to {4^ - }} \\left( {{x^2} - x + 1} \\right) = 13 &gt; 0\\mathop {\\lim }\\limits_{t \\to {4^ - }} \\left( {4 - x} \\right) &gt; 0 \\Rightarrow \\mathop {\\lim }\\limits_{t \\to {4^ - }} \\frac{{{x^2} - x + 1}}{{4 - x}} = + \\infty$."
+    },
+    {
+      "id": 5,
+      "type": "short_answer",
+      "content": "<strong>11 trang 118 SGK Toán 11 tập 1</strong>\n\nCho hàm số $g\\left( x \\right) = \\frac{{{x^2} - 5x + 6}}{{\\left| {x - 2} \\right|}}$.\n\nTìm $\\mathop {{\\rm{lim}}}\\limits_{x \\to {2^ + }} g\\left( x \\right)$ và $\\mathop {{\\rm{lim}}}\\limits_{x \\to {2^ - }} g\\left( x \\right)$.",
+      "answer": null,
+      "explanation": "​\nKhi $x \\to {2^ - } \\Rightarrow \\left| {x - 2} \\right| = 2 - x$.\n\nTa có:\n\n$\\mathop {\\lim }\\limits_{x \\to {2^ - }} \\frac{{{x^2} - 5x + 6}}{{\\left| {x - 2} \\right|}} = \\mathop {\\lim }\\limits_{x \\to {2^ - }} \\frac{{{x^2} - 5x + 6}}{{2 - x}}= \\mathop {\\lim }\\limits_{x \\to {2^ - }} \\frac{{\\left( {x - 2} \\right)\\left( {x - 3} \\right)}}{{ - \\left( {x - 2} \\right)}}= \\mathop {\\lim }\\limits_{x \\to {2^ - }} \\left[ { - \\left( {x - 3} \\right)} \\right] = 3 - 2 = 1$.\n\nKhi $x \\to {2^ + } \\Rightarrow \\left| {x - 2} \\right| = x - 2$.\n\nTa có:\n\n$\\mathop {\\lim }\\limits_{x \\to {2^ + }} \\frac{{{x^2} - 5x + 6}}{{\\left| {x - 2} \\right|}} = \\mathop {\\lim }\\limits_{x \\to {2^ + }} \\frac{{{x^2} - 5x + 6}}{{x - 2}} = \\mathop {\\lim }\\limits_{x \\to {2^ + }} \\frac{{\\left( {x - 2} \\right)\\left( {x - 3} \\right)}}{{x - 2}} = \\mathop {\\lim }\\limits_{x \\to {2^ - }} \\left( {x - 3} \\right)= 2 - 3 = - 1$."
+    },
+    {
+      "id": 6,
+      "type": "short_answer",
+      "content": "<strong>12 trang 118 SGK Toán 11 tập 1</strong>\n\nTính các giới hạn sau:\n\na) $\\mathop {{\\rm{lim}}}\\limits_{x \\to + \\infty } \\frac{{1 - 2x}}{{\\sqrt {{x^2} + 1} }}$;\n\nb) $\\mathop {{\\rm{lim}}}\\limits_{x \\to + \\infty } \\left( {\\sqrt {{x^2} + x + 2} - x} \\right)$.",
+      "answer": null,
+      "explanation": "​\nVì $x \\to + \\infty $ nên $x &gt; 0$, suy ra $\\left| x \\right| = x$.\n\na) $\\mathop {\\lim }\\limits_{x \\to + \\infty } \\frac{{1 - 2x}}{{\\sqrt {{x^2} + 1} }} = \\mathop {\\lim }\\limits_{x \\to + \\infty } \\frac{{x\\left( {\\frac{1}{x} - 2} \\right)}}{{\\sqrt {{x^2}\\left( {1 + \\frac{1}{{{x^2}}}} \\right)} }}= \\mathop {\\lim }\\limits_{x \\to + \\infty } \\frac{{x\\left( {\\frac{1}{x} - 2} \\right)}}{{\\left| x \\right|\\sqrt {\\left( {1 + \\frac{1}{{{x^2}}}} \\right)} }} = \\mathop {\\lim }\\limits_{x \\to + \\infty } \\frac{{x\\left( {\\frac{1}{x} - 2} \\right)}}{{x\\sqrt {1 + \\frac{1}{{{x^2}}}} }}= \\mathop {\\lim }\\limits_{x \\to + \\infty } \\frac{{\\frac{1}{x} - 2}}{{\\sqrt {1 + \\frac{1}{{{x^2}}}} }} = \\frac{{0 - 2}}{{\\sqrt {1 + 0} }} = - 2$.\n\nb) $\\mathop {\\lim }\\limits_{x \\to + \\infty } \\left( {\\sqrt {{x^2} + x + 2} - x} \\right) = \\mathop {\\lim }\\limits_{x \\to + \\infty } \\frac{{\\left( {\\sqrt {{x^2} + x + 2} - x} \\right)\\left( {\\sqrt {{x^2} + x + 2} + x} \\right)}}{{\\sqrt {{x^2} + x + 2} + x}} = \\mathop {\\lim }\\limits_{x \\to + \\infty } \\frac{{\\left( {{x^2} + x + 2} \\right) - {x^2}}}{{\\sqrt {{x^2} + x + 2} + x}}= \\mathop {\\lim }\\limits_{x \\to + \\infty } \\frac{{x + 2}}{{\\sqrt {{x^2} + x + 2} + x}}= \\mathop {\\lim }\\limits_{x \\to + \\infty } \\frac{{x\\left( {1 + \\frac{2}{x}} \\right)}}{{\\sqrt {{x^2}\\left( {1 + \\frac{1}{x} + \\frac{2}{{{x^2}}}} \\right)} + x}} = \\mathop {\\lim }\\limits_{x \\to + \\infty } \\frac{{x\\left( {1 + \\frac{2}{x}} \\right)}}{{\\left| x \\right|\\sqrt {1 + \\frac{1}{x} + \\frac{2}{{{x^2}}}} + x}} = \\mathop {\\lim }\\limits_{x \\to + \\infty } \\frac{{x\\left( {1 + \\frac{2}{x}} \\right)}}{{x\\sqrt {1 + \\frac{1}{x} + \\frac{2}{{{x^2}}}} + x}} = \\mathop {\\lim }\\limits_{x \\to + \\infty } \\frac{{x\\left( {1 + \\frac{2}{x}} \\right)}}{{x\\left[ {\\sqrt {1 + \\frac{1}{x} + \\frac{2}{{{x^2}}}} + 1} \\right]}} = \\mathop {\\lim }\\limits_{x \\to + \\infty } \\frac{{1 + \\frac{2}{x}}}{{\\sqrt {1 + \\frac{1}{x} + \\frac{2}{{{x^2}}}} + 1}}= \\frac{{1 + 0}}{{\\sqrt {1 + 0 + 0} + 1}} = \\frac{1}{2}$."
+    },
+    {
+      "id": 7,
+      "type": "short_answer",
+      "content": "<strong>13 trang 118 SGK Toán 11 tập 1</strong>\n\nCho hàm số $f\\left( x \\right) = \\frac{2}{{\\left( {x - 1} \\right)\\left( {x - 2} \\right)}}$.\n\nTìm $\\mathop {{\\rm{lim}}}\\limits_{x \\to {2^ + }} f\\left( x \\right)$ và $\\mathop {{\\rm{lim}}}\\limits_{x \\to {2^ - }} f\\left( x \\right)$.",
+      "answer": null,
+      "explanation": "​\nKhi $x \\to {2^ + } \\Rightarrow \\left( {x - 1} \\right)\\left( {x - 2} \\right) &gt; 0 \\Rightarrow \\mathop {\\lim }\\limits_{x \\to {2^ + }} \\frac{2}{{\\left( {x - 1} \\right)\\left( {x - 2} \\right)}} = + \\infty $.\n\nKhi $x \\to {2^ - } \\Rightarrow \\left( {x - 1} \\right)\\left( {x - 2} \\right) &lt; 0 \\Rightarrow \\mathop {\\lim }\\limits_{x \\to {2^ - }} \\frac{2}{{\\left( {x - 1} \\right)\\left( {x - 2} \\right)}} = - \\infty $."
+    }
+  ]
+}

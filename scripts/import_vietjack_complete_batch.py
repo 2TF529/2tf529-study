@@ -416,9 +416,13 @@ def parse_page(url: str):
     return [(title, meta, n, qs) for n, qs in exams], links
 
 
-def existing_fingerprints():
-    source_urls = set()
-    fingerprints = set()
+def title_key(value: str) -> str:
+    """Duplicate policy: only normalized exam titles are compared."""
+    return fold(clean_space(value))
+
+
+def existing_titles():
+    titles = set()
     for path in DATA.rglob("*.json"):
         if path.name in {"index.json", "taxonomy.json", "topic-index.json", "stats.json", "explore-index.json", "id-map.json", "de-mau.json"}:
             continue
@@ -428,10 +432,9 @@ def existing_fingerprints():
             continue
         if not isinstance(data, dict) or not isinstance(data.get("questions"), list):
             continue
-        if data.get("sourceUrl"):
-            source_urls.add(data["sourceUrl"])
-        fingerprints.add(exam_fingerprint(data["questions"]))
-    return source_urls, fingerprints
+        if data.get("title"):
+            titles.add(title_key(str(data["title"])))
+    return titles
 
 
 def exam_fingerprint(questions) -> str:
@@ -470,14 +473,14 @@ def materialize_images(value: str, url: str, asset_dir: Path, public_dir: str, i
     return value
 
 
-def save_exam(title: str, meta, number: int, questions, source_url: str, fingerprints: set[str]):
+def save_exam(title: str, meta, number: int, questions, source_url: str, titles: set[str]):
     grade, subject, exam_type, year = meta
-    fingerprint = exam_fingerprint(questions)
-    if fingerprint in fingerprints:
-        return None
     page_key = hashlib.sha256(source_url.encode()).hexdigest()[:10]
     base_title = re.sub(r"\s*\(\s*\d+\s*đề\s*\)\s*$", "", title, flags=re.I).strip()
     final_title = f"{base_title} - Đề {number:02d}"
+    normalized_title = title_key(final_title)
+    if normalized_title in titles:
+        return None
     exam_id = f"{grade}-{subject}-{exam_type}-{year}-{slugify(base_title, 64)}-{page_key}-de-{number:02d}"
     out_dir = DATA / grade / subject / exam_type
     out_file = out_dir / f"{exam_id}.json"
@@ -524,7 +527,7 @@ def save_exam(title: str, meta, number: int, questions, source_url: str, fingerp
     }
     out_dir.mkdir(parents=True, exist_ok=True)
     out_file.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    fingerprints.add(fingerprint)
+    titles.add(normalized_title)
     return out_file
 
 
@@ -535,12 +538,12 @@ def main() -> int:
     parser.add_argument("--max-pages", type=int, default=2000)
     parser.add_argument("--dry-run", action="store_true")
     args = parser.parse_args()
-    source_urls, fingerprints = existing_fingerprints()
+    titles = existing_titles()
     queue = discover()
     seen = set()
     imported = 0
     examined = 0
-    print(f"Discovered {len(queue)} VietJack candidate pages; existing exams: {len(fingerprints)}")
+    print(f"Discovered {len(queue)} VietJack candidate pages; existing titles: {len(titles)}")
     while queue and imported < args.target and examined < args.max_pages:
         batch = []
         while queue and len(batch) < args.workers * 2 and examined + len(batch) < args.max_pages:
@@ -566,7 +569,7 @@ def main() -> int:
                     imported += 1
                     print(f"DRY {imported}: {title} / Đề {number} ({len(questions)} câu)")
                     continue
-                path = save_exam(title, meta, number, questions, url, fingerprints)
+                path = save_exam(title, meta, number, questions, url, titles)
                 if path:
                     imported += 1
                     print(f"CREATED {imported}/{args.target}: {path.relative_to(ROOT)} ({len(questions)} câu)", flush=True)
