@@ -1,0 +1,164 @@
+{
+  "id": "2026-toan10-map-study-bai-kiem-tra-bai-2-tap-hop-va-cac-phep-toan",
+  "sourceId": "local:map-study-toan10-bai2-tap-hop",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "code": "MAP-B2",
+  "title": "Toán 10 - Bài kiểm tra Bài 2: Tập hợp và các phép toán trên tập hợp - MAP Study",
+  "duration": 20,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "chuong": "Tập hợp và các phép toán trên tập hợp",
+      "dang": "Kí hiệu tập hợp",
+      "content": "Kí hiệu nào sau đây dùng để viết đúng mệnh đề “3 là số tự nhiên”?",
+      "options": ["A. $3\\subset\\mathbb{N}$.", "B. $3\\in\\mathbb{N}$.", "C. $3<\\mathbb{N}$.", "D. $3\\le\\mathbb{N}$."],
+      "answer": "B"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "chuong": "Tập hợp và các phép toán trên tập hợp",
+      "dang": "Tập con",
+      "content": "Cho $A$ là một tập hợp. Trong các mệnh đề sau, mệnh đề nào sai?",
+      "options": ["A. $A\\in A$.", "B. $\\varnothing\\subset A$.", "C. $A\\subset A$.", "D. $\\varnothing\\subset\\varnothing$."],
+      "answer": "A"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "chuong": "Tập hợp và các phép toán trên tập hợp",
+      "dang": "Liệt kê phần tử của tập hợp",
+      "content": "Cho tập hợp $A=\\{x+1\\mid x\\in\\mathbb{N},\\ x\\le5\\}$. Tập hợp $A$ là:",
+      "options": [
+        "A. $A=\\{1;2;3;4;5\\}$.",
+        "B. $A=\\{0;1;2;3;4;5;6\\}$.",
+        "C. $A=\\{0;1;2;3;4;5\\}$.",
+        "D. $A=\\{1;2;3;4;5;6\\}$."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "chuong": "Tập hợp và các phép toán trên tập hợp",
+      "dang": "Tập hợp rỗng",
+      "content": "Trong các tập hợp sau, tập hợp nào là tập hợp rỗng?",
+      "options": [
+        "A. $A=\\{x\\in\\mathbb{Z}\\mid |x|<1\\}$.",
+        "B. $B=\\{x\\in\\mathbb{Z}\\mid 6x^2-7x+1=0\\}$.",
+        "C. $C=\\{x\\in\\mathbb{Q}\\mid x^2-4x+2=0\\}$.",
+        "D. $D=\\{x\\in\\mathbb{R}\\mid x^2-4x+3=0\\}$."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "chuong": "Tập hợp và các phép toán trên tập hợp",
+      "dang": "Tính chất đặc trưng của tập hợp",
+      "content": "Tính chất đặc trưng của tập hợp $X=\\{-3;-2;-1;0;1;2;3\\}$ là:",
+      "options": [
+        "A. $\\{x\\in\\mathbb{Z}\\mid |x|\\le3\\}$.",
+        "B. $\\{x\\in\\mathbb{N}\\mid |x|\\le3\\}$.",
+        "C. $\\{x\\in\\mathbb{R}\\mid |x|\\le3\\}$.",
+        "D. $\\{x\\in\\mathbb{N}\\mid -3\\le x\\le3\\}$."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "chuong": "Tập hợp và các phép toán trên tập hợp",
+      "dang": "Số tập con",
+      "content": "Cho tập $X=\\{2;3;4;5\\}$. Hỏi tập $X$ có bao nhiêu tập hợp con?",
+      "options": ["A. 16.", "B. 6.", "C. 8.", "D. 9."],
+      "answer": "A"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "chuong": "Tập hợp và các phép toán trên tập hợp",
+      "dang": "Số tập con",
+      "content": "Cho tập hợp $A=\\{1;2;3;4\\}$. Tập hợp $A$ có tất cả bao nhiêu tập con có đúng 3 phần tử?",
+      "options": ["A. 3.", "B. 16.", "C. 4.", "D. 5."],
+      "answer": "C"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "chuong": "Tập hợp và các phép toán trên tập hợp",
+      "dang": "Tập con",
+      "content": "Trong các mệnh đề sau đây, mệnh đề nào sai?",
+      "options": ["A. $A\\subset A$.", "B. $\\varnothing\\subset A$.", "C. $A\\in\\varnothing$.", "D. $\\varnothing\\subset\\varnothing$."],
+      "answer": "C"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "chuong": "Tập hợp và các phép toán trên tập hợp",
+      "dang": "Giao của hai tập hợp",
+      "content": "Cho hai tập hợp $A=\\{-7;0;5;7\\}$, $B=\\{-3;5;7;13\\}$. Khi đó tập $A\\cap B$ là:",
+      "options": ["A. $\\{5;7\\}$.", "B. $\\{-7;-3;0;5;7;13\\}$.", "C. $\\{-7;0\\}$.", "D. $\\{13\\}$."],
+      "answer": "A"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "chuong": "Tập hợp và các phép toán trên tập hợp",
+      "dang": "Hợp của hai tập hợp",
+      "content": "Cho hai tập hợp $A=\\{-7;0;5;7\\}$, $B=\\{-3;5;7;8\\}$. Khi đó tập $A\\cup B$ là:",
+      "options": ["A. $\\{5;7\\}$.", "B. $\\{-7;-3;0;5;7;8\\}$.", "C. $\\{-7;0\\}$.", "D. $\\{8\\}$."],
+      "answer": "B"
+    },
+    {
+      "id": 11,
+      "type": "single",
+      "chuong": "Tập hợp và các phép toán trên tập hợp",
+      "dang": "Hiệu của hai tập hợp",
+      "content": "Cho hai tập hợp $A=\\{-4;-2;5;6\\}$, $B=\\{-3;5;7;8\\}$. Khi đó tập $A\\setminus B$ là:",
+      "options": ["A. $\\{-3;7;8\\}$.", "B. $\\{-4;-2;6\\}$.", "C. $\\{5\\}$.", "D. $\\{-2;6;7;8\\}$."],
+      "answer": "B"
+    },
+    {
+      "id": 12,
+      "type": "single",
+      "chuong": "Tập hợp và các phép toán trên tập hợp",
+      "dang": "Phần bù của tập hợp",
+      "content": "Cho hai tập hợp $A=\\{1;2;4;6\\}$, $B=\\{1;2;3;4;5;6;7;8\\}$. Khi đó tập $C_BA$ là:",
+      "options": ["A. $\\{1;2;4;6\\}$.", "B. $\\{4;6\\}$.", "C. $\\{3;5;7;8\\}$.", "D. $\\{2;6;7;8\\}$."],
+      "answer": "C"
+    },
+    {
+      "id": 13,
+      "type": "single",
+      "chuong": "Tập hợp và các phép toán trên tập hợp",
+      "dang": "Hai tập hợp bằng nhau",
+      "content": "Cho $A=\\{1;3\\}$, $B=\\{0;1;3\\}$, $C=\\{x\\in\\mathbb{R}\\mid x^2-4x+3=0\\}$. Mệnh đề đúng là:",
+      "options": ["A. $A=B$.", "B. $A=C$.", "C. $B=C$.", "D. $A=B=C$."],
+      "answer": "B"
+    },
+    {
+      "id": 14,
+      "type": "single",
+      "chuong": "Tập hợp và các phép toán trên tập hợp",
+      "dang": "Số phần tử của tập hợp",
+      "content": "Cho tập hợp $X=\\{x\\in\\mathbb{N}\\mid 3x-5<x\\}$. Tìm $n(X)$.",
+      "options": ["A. $n(X)=1$.", "B. $n(X)=2$.", "C. $n(X)=3$.", "D. $n(X)=0$."],
+      "answer": "C"
+    },
+    {
+      "id": 15,
+      "type": "single",
+      "chuong": "Tập hợp và các phép toán trên tập hợp",
+      "dang": "Số tập con",
+      "content": "Trong các tập hợp sau, tập nào có đúng một tập hợp con?",
+      "options": ["A. $\\varnothing$.", "B. $\\{1\\}$.", "C. $\\{0\\}$.", "D. $\\{\\varnothing;\\{1\\}\\}$."],
+      "answer": "A"
+    }
+  ]
+}

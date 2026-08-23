@@ -1,0 +1,572 @@
+{
+  "id": "l12-tong-hop-vact-2026-empire-tam-thuc-bac-hai-de-so-1-019e8df9",
+  "grade": "l12",
+  "subjectSlug": "tong-hop",
+  "examType": "vact",
+  "year": 2026,
+  "code": "Empire 019E8DF9",
+  "title": "TAM THỨC BẬC HAI - ĐỀ SỐ 1",
+  "duration": 120,
+  "answerSource": "missing",
+  "notes": "Chưa có đáp án trong dữ liệu nguồn; hệ thống không chấm điểm đề này.",
+  "sourceId": "empire:019e8df94f377f9e960bd57beefa437d",
+  "sourceUrl": "https://empire-catalog-sync.vercel.app/thi.html?id=019e8df94f377f9e960bd57beefa437d",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "<p> Khẳng định nào sau đây\n<strong>đúng</strong>?</p>",
+      "options": [
+        "A. $f\\left( x \\right) = {x^3} - 3{x^2} + 2$ là tam\nthức bậc hai.",
+        "B. $f\\left( x \\right) = - {x^2} + 4x - 3$\nlà tam thức bậc hai.",
+        "C. $f\\left( x \\right) = \\frac{1}{{{x^2}}} + 2x - 1$ là tam thức bậc hai.",
+        "D. $f\\left( x \\right) = 5x + 7$ là tam thức bậc\nhai."
+      ],
+      "answer": null
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "<p> Cho tam thức <strong>$f\\left( x \\right) = a{x^2} + bx + c\\quad \\left( {a \\ne 0} \\right)$</strong>,\n<strong>$\\Delta = {b^2} - 4ac$</strong>. Ta có <strong>$f\\left( x \\right) \\ge 0$</strong> với <strong>$\\forall x \\in \\mathbb{R}$</strong> khi:</p>",
+      "options": [
+        "A. $\\left\\{ {\\begin{array}{*{20}{l}}{a &gt; 0}\\\\{\\Delta \\le 0}\\end{array}} \\right.$.",
+        "B. $\\left\\{ {\\begin{array}{*{20}{l}}{a &gt; 0}\\\\{\\Delta \\ge 0}\\end{array}} \\right.$.",
+        "C. $\\left\\{ {\\begin{array}{*{20}{l}}{a &lt; 0}\\\\{\\Delta \\le 0}\\end{array}} \\right.$.",
+        "D. $\\left\\{ {\\begin{array}{*{20}{l}}{a &gt; 0}\\\\{\\Delta &lt; 0}\\end{array}} \\right.$."
+      ],
+      "answer": null
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "<p> Cho tam thức bậc hai\n<strong>$f\\left( x \\right) = a{x^2} + bx + c\\quad \\left( {a \\ne 0} \\right)$</strong>. Mệnh đề nào sau đây đúng?</p>",
+      "options": [
+        "A. Nếu $\\Delta &lt; 0$ thì\n$f\\left( x \\right)$ luôn cùng dấu với hệ số\n$a$, với mọi $x \\in \\mathbb{R}$.",
+        "B. Nếu $\\Delta &lt; 0$ thì\n$f\\left( x \\right)$ luôn trái dấu với hệ số\n$a$, với mọi $x \\in \\mathbb{R}$.",
+        "C. Nếu $\\Delta &gt; 0$ thì\n$f\\left( x \\right)$ luôn cùng dấu với hệ số\n$a$, với mọi $x \\in \\mathbb{R}$.",
+        "D. Nếu $\\Delta = 0$ thì\n$f\\left( x \\right)$ luôn trái dấu với hệ số\n$a$, với mọi $x \\ne - \\frac{b}{{2a}}$."
+      ],
+      "answer": null
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "<p> Cho tam thức bậc hai\n<strong>$f\\left( x \\right) = a{x^2} + bx + c\\quad \\left( {a \\ne 0} \\right)$</strong> và <strong>$\\Delta = {b^2} - 4ac$</strong>. Cho\nbiết dấu của <strong>$\\Delta$</strong> khi <strong>$f\\left( x \\right)$</strong> luôn cùng dấu với hệ số <strong>$a$</strong> với\nmọi <strong>$x \\ne - \\frac{b}{{2a}}$</strong> và <strong>$f\\left( { - \\frac{b}{{2a}}} \\right) = 0$</strong>.</p>",
+      "options": [
+        "A. $\\Delta &lt; 0$.",
+        "B. $\\Delta = 0$.",
+        "C. $\\Delta &gt; 0$.",
+        "D. $\\Delta \\ge 0$."
+      ],
+      "answer": null
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "<p> Cho tam thức bậc hai\n<strong>$f\\left( x \\right) = 3{x^2} - 12x + 12$</strong>. Trong các\nmệnh đề sau, mệnh đề nào đúng?</p>",
+      "options": [
+        "A. $f\\left( x \\right) &gt; 0$ với mọi $x \\in \\mathbb{R}$.",
+        "B. $f\\left( x \\right) &lt; 0$ với mọi $x \\in \\mathbb{R}$.",
+        "C. $f\\left( x \\right) \\le 0$ với mọi $x \\in \\mathbb{R}$.",
+        "D. $f\\left( x \\right) \\ge 0$ với mọi\n$x \\in \\mathbb{R}$."
+      ],
+      "answer": null
+    },
+    {
+      "id": 6,
+      "type": "short_answer",
+      "content": "<p> Cho các tam thức sau\nđây:</p>\n<p>a) <strong>$- {x^2} + 4x - 4$</strong>.</p>\n<p>b)<strong>$- 2{x^2} + 3x - 5$</strong>.</p>\n<p>c) <strong>${x^2} - x + 1$</strong>.</p>\n<p>d)<strong>$- {x^2} + 5x - 6$</strong>.</p>\n<p>Có bao nhiêu tam thức luôn âm với mọi giá trị của\n<strong>$x$</strong>?</p>",
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "<p> Cho tam thức bậc hai\n<strong>$f\\left( x \\right) = 4{x^2} + 4x + 1$</strong>. Trong các mệnh\nđề sau, mệnh đề nào đúng?</p>",
+      "options": [
+        "A. $f\\left( x \\right) \\le 0$ với mọi $x \\in \\mathbb{R}$.",
+        "B. $f\\left( x \\right) &gt; 0$ với mọi $x \\in \\mathbb{R}$.",
+        "C. $f\\left( x \\right) \\ge 0$ với mọi\n$x \\in \\mathbb{R}$.",
+        "D. $f\\left( x \\right) &lt; 0$ với mọi $x \\in \\mathbb{R}$."
+      ],
+      "answer": null
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "<p> Tập nghiệm của bất phương trình\n<strong>${x^2} - 36 &lt; 0$</strong> là:</p>",
+      "options": [
+        "A. $S = \\left( { - 6;6} \\right)$.",
+        "B. $x &gt; \\pm 6$.",
+        "C. $- 6 &lt; x &lt; 6$.",
+        "D. $S = \\left( { - \\infty ; - 6} \\right) \\cup \\left( {6; + \\infty } \\right)$."
+      ],
+      "answer": null
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "content": "<p> Cho tam thức <strong>$f\\left( x \\right) = - {x^2} + 6x - 9$</strong>. Khẳng định nào sau đây là\nđúng?</p>",
+      "options": [
+        "A. $f\\left( x \\right) &gt; 0$ với mọi $x \\in \\mathbb{R}$.",
+        "B. $f\\left( x \\right) \\le 0$ với mọi\n$x \\in \\mathbb{R}$.",
+        "C. $f\\left( x \\right) = 0$ vô nghiệm.",
+        "D. $f\\left( x \\right) &lt; 0$ khi $x &gt; 3$."
+      ],
+      "answer": null
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "content": "<p> Tìm tập nghiệm\n<strong>$S$</strong> của bất phương trình <strong>${x^2} - 9 &gt; 0$</strong>.</p>",
+      "options": [
+        "A. $S = \\left( { - \\infty ; - 3} \\right) \\cup \\left( {3; + \\infty } \\right)$.",
+        "B. $S = \\left( { - 3;3} \\right)$.",
+        "C. $S = \\left( { - \\infty ; - 3] \\cup [3; + \\infty } \\right)$.",
+        "D. $S = \\left( { - \\infty ;0} \\right) \\cup \\left( {9; + \\infty } \\right)$."
+      ],
+      "answer": null
+    },
+    {
+      "id": 11,
+      "type": "short_answer",
+      "content": "<p> Số nghiệm nguyên của bất\nphương trình <strong>${x^2} - 4x - 6 \\le 0$</strong> là</p>",
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": 12,
+      "type": "single",
+      "content": "<p> Tập nghiệm của bất phương trình:\n<strong>${x^2} + 4 &gt; 4x$</strong> là</p>",
+      "options": [
+        "A. $\\left( {2; + \\infty } \\right)$.",
+        "B. $\\mathbb{R} \\setminus \\{ 2\\}$.",
+        "C. $\\mathbb{R}$.",
+        "D. $\\left( { - \\infty ;2} \\right)$."
+      ],
+      "answer": null
+    },
+    {
+      "id": 13,
+      "type": "single",
+      "content": "<p> Cho tam thức bậc hai\n<strong>$f\\left( x \\right) = 2{x^2} + 3$</strong>. Mệnh đề nào sau đây\nđúng?</p>",
+      "options": [
+        "A. $f\\left( x \\right) &gt; 0 \\Leftrightarrow x \\in \\left( { - \\infty ; + \\infty } \\right)$.",
+        "B. $f\\left( x \\right) = 0 \\Leftrightarrow x = - \\frac{3}{2}$.",
+        "C. $f\\left( x \\right) &lt; 0 \\Leftrightarrow x \\in \\left( { - \\infty ;0} \\right)$.",
+        "D. $f\\left( x \\right) &gt; 0 \\Leftrightarrow x \\in \\left( {0; + \\infty } \\right)$."
+      ],
+      "answer": null
+    },
+    {
+      "id": 14,
+      "type": "single",
+      "content": "<p> Bất phương trình <strong>$- {x^2} + 4x + 5 &gt; 0$</strong> có tập nghiệm là <strong>$x \\in \\left( {a;b} \\right)$</strong> Tính <strong>$a + b$</strong></p>",
+      "options": [
+        "A. $\\left( { - \\infty ; - 1} \\right) \\cup \\left( {5; + \\infty } \\right)$.",
+        "B. $\\left( { - 1;5} \\right)$.",
+        "C. $[ - 1;5]$.",
+        "D. $\\left( { - 5;1} \\right)$."
+      ],
+      "answer": null
+    },
+    {
+      "id": 15,
+      "type": "single",
+      "content": "<p> Bất phương trình <strong>$- {x^2} + 6x - 8 &gt; 0$</strong> có tập nghiệm là</p>",
+      "options": [
+        "A. $\\left( { - \\infty ;2} \\right) \\cup \\left( {4; + \\infty } \\right)$.",
+        "B. $[2;4]$.",
+        "C. $\\left( {2;4} \\right)$.",
+        "D. $\\left( { - 4; - 2} \\right)$."
+      ],
+      "answer": null
+    },
+    {
+      "id": 16,
+      "type": "single",
+      "content": "<p> Cho tam thức bậc hai\n<strong>$f\\left( x \\right) = - {x^2} + x + 6$</strong>. Tìm tất cả các\ngiá trị của <strong>$x$</strong> để <strong>$f\\left( x \\right) \\ge 0$</strong>.</p>",
+      "options": [
+        "A. $x \\in \\left( { - \\infty ; - 2] \\cup [3; + \\infty } \\right)$.",
+        "B. $x \\in [ - 2;3]$.",
+        "C. $x \\in \\left( { - 2;3} \\right)$.",
+        "D. $x \\in [ - 3;2]$."
+      ],
+      "answer": null
+    },
+    {
+      "id": 17,
+      "type": "single",
+      "content": "<p> Gọi <strong>$S$</strong> là tập\nnghiệm của bất phương trình <strong>${x^2} - 5x + 4 \\ge 0$</strong>.\nTrong các tập hợp sau, tập nào <strong>không</strong> là tập con của\n<strong>$S$</strong>?</p>",
+      "options": [
+        "A. $( - \\infty ;0]$.",
+        "B. $[5; + \\infty )$.",
+        "C. $[2; + \\infty )$.",
+        "D. $( - \\infty ; - 2]$."
+      ],
+      "answer": null
+    },
+    {
+      "id": 18,
+      "type": "single",
+      "content": "<p> Bất phương trình <strong>$\\left( {x - 2} \\right)\\left( {{x^2} - 7x + 10} \\right) \\ge 0$</strong> có tập\nnghiệm <strong>$S$</strong> là:</p>",
+      "options": [
+        "A. $S = [5; + \\infty ) \\cup \\{ 2\\}$.",
+        "B. $S = [5; + \\infty )$.",
+        "C. $S = \\left( { - \\infty ;2] \\cup [5; + \\infty } \\right)$.",
+        "D. $S = \\left( {5; + \\infty } \\right)$."
+      ],
+      "answer": null
+    },
+    {
+      "id": 19,
+      "type": "short_answer",
+      "content": "<p> Có bao nhiêu số tự nhiên\nthoả mãn bất phương trình <strong>$x\\left( {x - 2} \\right) \\ge 2\\left( {{x^2} - 4} \\right)$</strong>.</p>",
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": 20,
+      "type": "single",
+      "content": "<p> Biểu thức <strong>$\\left( {2{x^2} - 7x + 3} \\right)\\left( {5 - 2x} \\right)$</strong> dương khi và chỉ\nkhi</p>",
+      "options": [
+        "A. $x \\in \\left( { - \\infty ;\\frac{1}{2}} \\right) \\cup \\left( {\\frac{5}{2};3} \\right)$.",
+        "B. $x \\in \\left( {\\frac{1}{2};\\frac{5}{2}} \\right) \\cup \\left( {3; + \\infty } \\right)$.",
+        "C. $x \\in \\left( {\\frac{1}{2};3} \\right)$.",
+        "D. $x \\in \\left( { - \\infty ;\\frac{5}{2}} \\right)$."
+      ],
+      "answer": null
+    },
+    {
+      "id": 21,
+      "type": "single",
+      "content": "<p> Tập nghiệm của bất phương trình\n<strong>${x^4} - 13{x^2} + 36 &lt; 0$</strong> là:</p>",
+      "options": [
+        "A. $\\left( { - 3; - 2} \\right)$.",
+        "B. $\\left( {2;3} \\right)$.",
+        "C. $\\left( { - 3; - 2} \\right) \\cup \\left( {2;3} \\right)$.",
+        "D. $\\left( { - \\infty ; - 3} \\right) \\cup \\left( { - 2;2} \\right) \\cup \\left( {3; + \\infty } \\right)$."
+      ],
+      "answer": null
+    },
+    {
+      "id": 22,
+      "type": "single",
+      "content": "<p> Biểu thức <strong>$\\left( {9 - {x^2}} \\right)\\left( {{x^2} - x - 2} \\right)\\left( {{x^2} + x + 1} \\right)$</strong> âm khi</p>",
+      "options": [
+        "A. $x \\in \\left( { - 3; - 1} \\right) \\cup \\left( {2;3} \\right)$.",
+        "B. $x \\in \\left( { - \\infty ; - 3} \\right) \\cup \\left( { - 1;2} \\right) \\cup \\left( {3; + \\infty } \\right)$.",
+        "C. $x \\in \\left( { - 1;2} \\right)$.",
+        "D. $x \\in \\left( { - \\infty ; - 3} \\right) \\cup \\left( {3; + \\infty } \\right)$."
+      ],
+      "answer": null
+    },
+    {
+      "id": 23,
+      "type": "single",
+      "content": "<p> Tập nghiệm của bất phương trình\n<strong>${x^3} - 2{x^2} - 5x + 6 \\le 0$</strong> là:</p>",
+      "options": [
+        "A. $x \\in [ - 2;1] \\cup [3; + \\infty )$.",
+        "B. $x \\in ( - \\infty ; - 2] \\cup [1;3]$.",
+        "C. $x \\in \\left( { - \\infty ; - 2} \\right) \\cup \\left( {1;3} \\right)$.",
+        "D. $x \\in [ - 2;3]$."
+      ],
+      "answer": null
+    },
+    {
+      "id": 24,
+      "type": "single",
+      "content": "<p> Cho biểu thức <strong>$f\\left( x \\right) = \\frac{{3x - 6}}{{{x^2} - 5x}}$</strong>. Tập hợp tất cả các\ngiá trị của <strong>$x$</strong> thỏa mãn <strong>$f\\left( x \\right)$</strong> không dương là</p>",
+      "options": [
+        "A. $x \\in (0;2] \\cup (5; + \\infty )$.",
+        "B. $x \\in \\left( { - \\infty ;0] \\cup [2;5} \\right)$.",
+        "C. $x \\in ( - \\infty ;0) \\cup [2;5)$.",
+        "D. $x \\in \\left( { - \\infty ;0} \\right) \\cup \\left( {2;5} \\right)$."
+      ],
+      "answer": null
+    },
+    {
+      "id": 25,
+      "type": "single",
+      "content": "<p> Tìm tập nghiệm của bất phương\ntrình <strong>$\\frac{{{x^2} - 5x + 6}}{{x - 4}} \\le 0$</strong>.</p>",
+      "options": [
+        "A. $T = ( - \\infty ;2] \\cup [3;4]$.",
+        "B. $T = \\left( { - \\infty ;2} \\right) \\cup \\left( {3;4} \\right)$.",
+        "C. $T = \\left( { - \\infty ;2] \\cup [3;4} \\right)$.",
+        "D. $T = (2;3] \\cup (4; + \\infty )$."
+      ],
+      "answer": null
+    },
+    {
+      "id": 26,
+      "type": "single",
+      "content": "<p> Tập nghiệm của bất phương trình\n<strong>$\\frac{{{x^2} - 6x + 5}}{{{x^2} - 9}} \\le 0$</strong>\nlà</p>",
+      "options": [
+        "A. $S = [ - 3;1] \\cup [3;5]$.",
+        "B. $S = \\left( { - 3;1} \\right) \\cup \\left( {3;5} \\right)$.",
+        "C. $S = ( - 3;1] \\cup (3;5]$.",
+        "D. $S = ( - \\infty ; - 3) \\cup [1;3) \\cup [5; + \\infty )$."
+      ],
+      "answer": null
+    },
+    {
+      "id": 27,
+      "type": "single",
+      "content": "<p> Gọi <strong>$S$</strong> là tập\nnghiệm của bất phương trình <strong>$\\frac{{{x^2} - 2x + 5}}{{{x^2} - 1}} \\ge 1$</strong>. Khi đó <strong>$S \\cap \\left( {0;4} \\right)$</strong> là tập nào sau đây?</p>",
+      "options": [
+        "A. $(1;3]$.",
+        "B. $\\left( {1;4} \\right)$.",
+        "C. $\\left( {0;1} \\right)$.",
+        "D. $\\emptyset$."
+      ],
+      "answer": null
+    },
+    {
+      "id": 28,
+      "type": "single",
+      "content": "<p> Tập nghiệm của hệ bất phương trình\n<strong>$\\left\\{ {\\begin{array}{*{20}{l}}{x - \\frac{1}{3} \\ge \\frac{x}{3} + 1}\\\\{{x^2} - 5x + 4 \\le 0}\\end{array}} \\right.$</strong>\nlà</p>",
+      "options": [
+        "A. $S = [2;4]$.",
+        "B. $\\left( { - \\infty ;1] \\cup [4; + \\infty } \\right)$.",
+        "C. $S = [1;4]$.",
+        "D. $\\left( { - \\infty ;2] \\cup [4; + \\infty } \\right)$."
+      ],
+      "answer": null
+    },
+    {
+      "id": 29,
+      "type": "short_answer",
+      "content": "<p> Tập nghiệm của hệ bất\nphương trình <strong>$\\left\\{ {\\begin{array}{*{20}{l}}{3x - 1 &lt; 2x + 4}\\\\{{{\\left( {x - 1} \\right)}^2} &lt; {x^2} + 5}\\end{array}} \\right.$</strong> có dạng <strong>$S = \\left( {a;b} \\right)$</strong>. Tính tổng <strong>$a + b$</strong></p>",
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": 30,
+      "type": "short_answer",
+      "content": "<p> Hệ bất phương trình\n<strong>$\\left\\{ {\\begin{array}{*{20}{l}}{{x^2} - 9 &lt; 0}\\\\{\\left( {x + 2} \\right)\\left( {{x^2} - 4x + 3} \\right) \\ge 0}\\end{array}} \\right.$</strong> có số nghiệm nguyên là</p>",
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": 31,
+      "type": "single",
+      "content": "<p> Tập xác định của hàm số\n<strong>$y = \\sqrt { - {x^2} + 4x + 5}$</strong> là:</p>",
+      "options": [
+        "A. $\\left( { - 1;5} \\right)$.",
+        "B. $[ - 1;5]$.",
+        "C. $\\left( { - \\infty ; - 1] \\cup [5; + \\infty } \\right)$.",
+        "D. $\\left( { - \\infty ; - 1} \\right) \\cup \\left( {5; + \\infty } \\right)$."
+      ],
+      "answer": null
+    },
+    {
+      "id": 32,
+      "type": "single",
+      "content": "<p> Tập xác định của hàm số\n<strong>$y = \\sqrt {{x^2} - 6x + 8}$</strong> là:</p>",
+      "options": [
+        "A. $[2;4]$.",
+        "B. $\\left( { - \\infty ;2} \\right) \\cup \\left( {4; + \\infty } \\right)$.",
+        "C. $\\left( { - \\infty ;2] \\cup [4; + \\infty } \\right)$.",
+        "D. $\\left( {2;4} \\right)$."
+      ],
+      "answer": null
+    },
+    {
+      "id": 33,
+      "type": "single",
+      "content": "<p> Tìm tập xác định của hàm số\n<strong>$y = \\sqrt {3{x^2} - 10x + 3}$</strong>.</p>",
+      "options": [
+        "A. $D = \\left( { - \\infty ;\\frac{1}{3}} \\right] \\cup \\left[ {3; + \\infty } \\right)$.",
+        "B. $D = \\left[ {\\frac{1}{3};3} \\right]$.",
+        "C. $D = \\left( { - \\infty ;\\frac{1}{3}} \\right) \\cup \\left( {3; + \\infty } \\right)$.",
+        "D. $D = \\left( {\\frac{1}{3};3} \\right)$."
+      ],
+      "answer": null
+    },
+    {
+      "id": 34,
+      "type": "single",
+      "content": "<p> Hàm số <strong>$y = \\frac{{x + 5}}{{\\sqrt {{x^2} - 8} + x - 4}}$</strong> có tập xác định là:</p>",
+      "options": [
+        "A. $\\left( { - \\infty ; - 2\\sqrt 2 ] \\cup [2\\sqrt 2 ; + \\infty } \\right)$.",
+        "B. $\\left( { - \\infty ; - 2\\sqrt 2 ] \\cup [2\\sqrt 2 ; + \\infty } \\right) \\setminus \\{ 3\\}$.",
+        "C. $\\left( { - \\infty ; - 2\\sqrt 2 } \\right) \\cup \\left( {2\\sqrt 2 ; + \\infty } \\right) \\setminus \\{ 3\\}$.",
+        "D. $\\mathbb{R} \\setminus \\{ 3\\}$."
+      ],
+      "answer": null
+    },
+    {
+      "id": 35,
+      "type": "single",
+      "content": "<p> Tập nghiệm của bất phương trình\n<strong>${x^2} - 4x + \\frac{1}{{\\sqrt {x + 2} }} \\ge 5 + \\frac{1}{{\\sqrt {x + 2} }}$</strong> là</p>",
+      "options": [
+        "A. $\\left( { - 2; - 1] \\cup [5; + \\infty } \\right)$.",
+        "B. $\\left( { - \\infty ; - 1] \\cup [5; + \\infty } \\right)$.",
+        "C. $[ - 2; - 1] \\cup [5; + \\infty )$.",
+        "D. $( - 2;5]$."
+      ],
+      "answer": null
+    },
+    {
+      "id": 36,
+      "type": "single",
+      "content": "<p> Tìm tập xác định của hàm số\n<strong>$y = \\sqrt {{x^2} - 3x} + \\frac{1}{{\\sqrt {16 - {x^2}} }}$</strong>?</p>",
+      "options": [
+        "A. $D = \\left( { - 4;0] \\cup [3;4} \\right)$.",
+        "B. $D = [ - 4;0] \\cup [3;4]$.",
+        "C. $D = \\left( { - 4;4} \\right)$.",
+        "D. $D = \\left( { - \\infty ;0] \\cup [3; + \\infty } \\right)$."
+      ],
+      "answer": null
+    },
+    {
+      "id": 37,
+      "type": "short_answer",
+      "content": "<p> Tập xác định của hàm số\n<strong>$y = \\sqrt {x - 1 + 2\\sqrt {x - 2} } + \\sqrt {10 - {x^2} - 2\\sqrt {9 - {x^2}} }$</strong> có dạng <strong>$[a;b]$</strong>. Tìm\n<strong>$a + b$</strong>.</p>",
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": 38,
+      "type": "single",
+      "content": "<p> Tìm tập nghiệm của hệ bất phương\ntrình <strong>$\\left\\{ {\\begin{array}{*{20}{l}}{{x^2} - 5x + 6 &gt; 0}\\\\{\\left( {x + 3} \\right)\\left( {x - 6} \\right) &lt; 0}\\end{array}} \\right.$</strong></p>",
+      "options": [
+        "A. $\\left( { - 3;6} \\right)$.",
+        "B. $\\left( { - 3;2} \\right) \\cup \\left( {3;6} \\right)$.",
+        "C. $\\left( {2;3} \\right)$.",
+        "D. $\\left( {3;6} \\right)$."
+      ],
+      "answer": null
+    },
+    {
+      "id": 39,
+      "type": "single",
+      "content": "<p> Một quả bóng được ném thẳng đứng\nlên trên từ độ cao <strong>$2{\\rm{ m}}$</strong> so với mặt đất. Biết\nphương trình chuyển động của quả bóng là <strong>$h\\left( t \\right) = - 5{t^2} + 20t + 2$</strong>, trong đó <strong>$h\\left( t \\right)$</strong> là độ cao (tính bằng mét) và <strong>$t$</strong>\nlà thời gian (tính bằng giây, <strong>$t \\ge 0$</strong>). Trong\nkhoảng thời gian nào thì quả bóng đạt độ cao từ <strong>$17{\\rm{ m}}$</strong> trở lên so với mặt đất?</p>",
+      "options": [
+        "A. Từ giây thứ $1$ đến giây thứ\n$4$.",
+        "B. Từ giây thứ $2$ đến giây thứ\n$3$.",
+        "C. Từ giây thứ $1$ đến\ngiây thứ $3$.",
+        "D. Ngay tại giây thứ $2$."
+      ],
+      "answer": null
+    },
+    {
+      "id": 40,
+      "type": "short_answer",
+      "content": "<p> Bác An có <strong>$20{\\rm{ m}}$</strong> lưới B40 và muốn dùng toàn bộ số lưới này để rào một mảnh\nvườn hình chữ nhật. Bác An tính toán rằng mảnh vườn này cần có diện tích\n<strong>$S$</strong> tối thiểu là <strong>$16{\\rm{ }}{{\\rm{m}}^2}$</strong> để trồng đủ rau, nhưng phải nhỏ hơn\n<strong>$24{\\rm{ }}{{\\rm{m}}^2}$</strong> để dành không gian cho lối\nđi xung quanh. Gọi <strong>$x$</strong> (mét) là độ dài một cạnh của\nmảnh vườn (<strong>$0 &lt; x &lt; 10$</strong>). Tìm giá trị lớn nhất\ncủa <strong>$x$</strong> thỏa mãn yêu cầu của bác An.</p>",
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": 41,
+      "type": "single",
+      "content": "<p> Tìm tất cả các giá trị của tham số\n<strong>$m$</strong> để phương trình <strong>${x^2} - 2mx + 9 = 0$</strong> có nghiệm</p>",
+      "options": [
+        "A. $- 3 \\le m \\le 3$.",
+        "B. $m \\le - 3$ hay $m \\ge 3$.",
+        "C. $- 9 \\le m \\le 9$.",
+        "D. $m \\le - 9$ hay $m \\ge 9$."
+      ],
+      "answer": null
+    },
+    {
+      "id": 42,
+      "type": "single",
+      "content": "<p> Tìm <strong>$m$</strong> để\nphương trình <strong>${x^2} - 2\\left( {m + 2} \\right)x + {m^2} + 7 = 0$</strong> có hai nghiệm phân biệt</p>",
+      "options": [
+        "A. $m &gt; \\frac{3}{4}$.",
+        "B. $m \\ge \\frac{3}{4}$.",
+        "C. $m &lt; \\frac{3}{4}$.",
+        "D. $m \\le \\frac{3}{4}$."
+      ],
+      "answer": null
+    },
+    {
+      "id": 43,
+      "type": "short_answer",
+      "content": "<p> Có bao nhiêu giá trị nguyên\ncủa tham số <strong>$m$</strong> để phương trình <strong>${x^2} - 2mx + 5m = 0$</strong> vô nghiệm?</p>",
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": 44,
+      "type": "single",
+      "content": "<p> Giá trị nào của\n<strong>$m$</strong> thì phương trình <strong>$\\left( {m - 2} \\right){x^2} + \\left( {m + 1} \\right)x - m = 0\\quad \\left( 1 \\right)$</strong> có hai nghiệm phân biệt?</p>",
+      "options": [
+        "A. $m \\in \\left( { - \\infty ;\\frac{1}{5}} \\right) \\cup \\left( {1; + \\infty } \\right) \\setminus \\{ 2\\}$.",
+        "B. $m \\in \\left( { - \\infty ;\\frac{1}{5}} \\right) \\cup \\left( {1; + \\infty } \\right)$.",
+        "C. $m \\in \\left( {\\frac{1}{5};1} \\right) \\setminus \\{ 2\\}$.",
+        "D. $m \\in \\mathbb{R} \\setminus \\{ 2\\}$."
+      ],
+      "answer": null
+    },
+    {
+      "id": 45,
+      "type": "single",
+      "content": "<p> Phương trình <strong>$\\left( {{m^2} - 9} \\right){x^2} + 2\\left( {m - 3} \\right)x + 2 = 0$</strong>\nvô nghiệm khi và chỉ khi</p>",
+      "options": [
+        "A. $m \\ge 3$.",
+        "B. $\\left[ {\\begin{array}{*{20}{l}}{m \\ge 3}\\\\{m &lt; - 9}\\end{array}} \\right.$.",
+        "C. $\\left[ {\\begin{array}{*{20}{l}}{m &gt; 3}\\\\{m \\le - 9}\\end{array}} \\right.$.",
+        "D. $m = \\pm 3$."
+      ],
+      "answer": null
+    },
+    {
+      "id": 46,
+      "type": "single",
+      "content": "<p> Tìm tất cả các giá trị của tham số\n<strong>$m$</strong> để phương trình <strong>$\\left( {m - 2} \\right){x^2} + 5x + {m^2} + 4m + 4 = 0$</strong> có hai nghiệm trái\ndấu.</p>",
+      "options": [
+        "A. $\\left\\{ {\\begin{array}{*{20}{l}}{m &lt; 2}\\\\{m \\ne - 2}\\end{array}} \\right.$.",
+        "B. $m &lt; 2$.",
+        "C. $m \\ne - 2$.",
+        "D. $\\left\\{ {\\begin{array}{*{20}{l}}{m \\ne 2}\\\\{m \\ne - 2}\\end{array}} \\right.$."
+      ],
+      "answer": null
+    },
+    {
+      "id": 47,
+      "type": "single",
+      "content": "<p> Các giá trị <strong>$m$</strong>\nđể tam thức <strong>$f\\left( x \\right) = {x^2} - \\left( {m - 1} \\right)x + m + 2$</strong> đổi dấu 2 lần là</p>",
+      "options": [
+        "A. $m &lt; - 1$ hoặc $m &gt; 7$.",
+        "B. $- 1 &lt; m &lt; 7$.",
+        "C. $m \\le - 1$ hoặc $m \\ge 7$.",
+        "D. $- 1 \\le m \\le 7$."
+      ],
+      "answer": null
+    },
+    {
+      "id": 48,
+      "type": "short_answer",
+      "content": "<p> Cho bất phương trình\n<strong>$\\left\\{ \\begin{array}{l}{x^2} + 4x + 3 \\ge 0\\\\2{x^2} - x - 10 \\le 0\\\\2{x^2} - 5x + 3 &gt; 0\\end{array} \\right.$</strong> có tập\nnghiệm <strong>$x \\in \\left[ {a;b} \\right]$</strong>. Tính <strong>$a + 2b$</strong></p>",
+      "options": [],
+      "answer": null
+    },
+    {
+      "id": 49,
+      "type": "single",
+      "content": "<p> Cho phương trình <strong>$\\left( {m - 1} \\right){x^2} + 2\\left( {m + 1} \\right)x + m - 3 = 0\\quad \\left( 1 \\right)$</strong>. Với giá trị nào của <strong>$m$</strong> thì\n<strong>$\\left( 1 \\right)$</strong> có 2 nghiệm\n<strong>${x_1},{x_2}$</strong> thỏa <strong>${x_1} &lt; 1 &lt; {x_2}$</strong>?</p>",
+      "options": [
+        "A. $m &gt; 1$.",
+        "B. $m &lt; - 2$.",
+        "C. $m &gt; - 2$.",
+        "D. $m &lt; 1$."
+      ],
+      "answer": null
+    },
+    {
+      "id": 50,
+      "type": "single",
+      "content": "<p> Xác định <strong>$m$</strong> để\nphương trình <strong>$m{x^3} - 3{x^2} + 6x - 8m = 0$</strong> có ba\nnghiệm phân biệt lớn hơn 1.</p>",
+      "options": [
+        "A. $\\frac{3}{7} &lt; m &lt; \\frac{1}{2}$.",
+        "B. $- \\frac{3}{2} &lt; m &lt; \\frac{1}{2}$.",
+        "C. $m &gt; \\frac{3}{7}$.",
+        "D. $0 &lt; m &lt; \\frac{1}{2}$."
+      ],
+      "answer": null
+    }
+  ]
+}

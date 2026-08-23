@@ -1,0 +1,211 @@
+{
+  "id": "2026-toan10-map-study-bai-tu-luyen-bai-2-tap-hop-va-cac-phep-toan",
+  "sourceId": "local:map-study-toan10-tu-luyen-bai2-tap-hop",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "code": "MAP-TL-B2",
+  "title": "Toán 10 - Bài tập tự luyện Bài 2: Tập hợp và các phép toán cơ bản - MAP Study",
+  "duration": 40,
+  "answerSource": "official",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "chuong": "Tập hợp và các phép toán trên tập hợp",
+      "dang": "Tập hợp rỗng",
+      "content": "Cho tập hợp $A=\\{x\\in\\mathbb{R}\\mid x^2+x+1=0\\}$. Các phần tử của tập $A$ là:",
+      "options": ["A. $A=0$.", "B. $A=\\{0\\}$.", "C. $A=\\varnothing$.", "D. $A=\\{\\varnothing\\}$."],
+      "answer": "C"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "chuong": "Tập hợp và các phép toán trên tập hợp",
+      "dang": "Liệt kê phần tử của tập hợp",
+      "content": "Cho tập hợp $A=\\{x\\in\\mathbb{R}\\mid (x^2-1)(x^2+2)=0\\}$. Các phần tử của tập $A$ là:",
+      "options": ["A. $A=\\{-1;1\\}$.", "B. $A=\\{-\\sqrt2;-1;1;\\sqrt2\\}$.", "C. $A=\\{-1\\}$.", "D. $A=\\{1\\}$."],
+      "answer": "A"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "chuong": "Tập hợp và các phép toán trên tập hợp",
+      "dang": "Tập con",
+      "content": "Cho hai tập hợp $A=\\{0;2\\}$ và $B=\\{0;1;2;3;4\\}$. Có bao nhiêu tập hợp $X$ thỏa mãn $A\\subset X\\subset B$?",
+      "options": ["A. 2.", "B. 4.", "C. 6.", "D. 8."],
+      "answer": "D"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "chuong": "Tập hợp và các phép toán trên tập hợp",
+      "dang": "Liệt kê phần tử của tập hợp",
+      "content": "Tổng tất cả các phần tử của tập hợp $A=\\{x\\in\\mathbb{Z}\\mid |2x+1|<6\\}$ bằng:",
+      "options": ["A. $-1$.", "B. 0.", "C. 3.", "D. $-3$."],
+      "answer": "D"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "chuong": "Tập hợp và các phép toán trên tập hợp",
+      "dang": "Giao của nhiều tập hợp",
+      "content": "Cho $A=\\{x\\in\\mathbb{R}\\mid x^2-4x+3=0\\}$, $B=\\{x\\in\\mathbb{Z}\\mid -3<2x<4\\}$, $C=\\{x\\in\\mathbb{N}\\mid x^5-x^4=0\\}$. Khi đó $A\\cap B\\cap C$ là:",
+      "options": ["A. $\\{1\\}$.", "B. $\\{1;3\\}$.", "C. $\\{0;3\\}$.", "D. $\\{0;1\\}$."],
+      "answer": "A"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "chuong": "Tập hợp và các phép toán trên tập hợp",
+      "dang": "Quan hệ bao hàm",
+      "content": "Cho hai tập hợp $M,N$ thỏa mãn $M\\subset N$. Mệnh đề nào sau đây đúng?",
+      "options": ["A. $M\\cap N=N$.", "B. $M\\setminus N=N$.", "C. $M\\cap N=M$.", "D. $M\\setminus N=M$."],
+      "answer": "C"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "chuong": "Tập hợp và các phép toán trên tập hợp",
+      "dang": "Hai tập hợp bằng nhau",
+      "content": "Cho $X=\\{n\\in\\mathbb{N}^*\\mid n$ là bội của 4 và 6$\\}$, $Y=\\{n\\in\\mathbb{N}^*\\mid n$ là bội của 12$\\}$. Mệnh đề nào sau đây sai?",
+      "options": ["A. $Y\\subset X$.", "B. $X\\subset Y$.", "C. $\\exists n:\\ n\\in X$ và $n\\notin Y$.", "D. $X=Y$."],
+      "answer": "C"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "chuong": "Tập hợp và các phép toán trên tập hợp",
+      "dang": "Phần bù của tập hợp",
+      "content": "Cho tập hợp $A=\\{x\\in\\mathbb{N}^*\\mid 3x-2>10\\}$. Khi đó:",
+      "options": ["A. $C_{\\mathbb N}A=\\{1;2;3;4\\}$.", "B. $C_{\\mathbb N}A=\\{0;1;2;3;4\\}$.", "C. $C_{\\mathbb N}A=\\{1;2;3\\}$.", "D. $C_{\\mathbb N}A=\\{1;2;4\\}$."],
+      "answer": "B"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "chuong": "Tập hợp và các phép toán trên tập hợp",
+      "dang": "Quan hệ bao hàm",
+      "content": "Cho ba tập hợp $E,F,G$ thỏa mãn $E\\subset F$, $F\\subset G$ và $G\\subset K$. Khẳng định nào sau đây đúng?",
+      "options": ["A. $G\\subset E$.", "B. $K\\subset G$.", "C. $E=F=G$.", "D. $E\\subset K$."],
+      "answer": "D"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "chuong": "Tập hợp và các phép toán trên tập hợp",
+      "dang": "Số tập con",
+      "content": "Trong các tập sau đây, tập hợp nào có đúng hai tập hợp con?",
+      "options": ["A. $\\{x;y\\}$.", "B. $\\{x\\}$.", "C. $\\{\\varnothing;x\\}$.", "D. $\\{\\varnothing;x;y\\}$."],
+      "answer": "B"
+    },
+    {
+      "id": 11,
+      "type": "single",
+      "chuong": "Tập hợp và các phép toán trên tập hợp",
+      "dang": "Hai tập hợp bằng nhau",
+      "content": "Khẳng định nào sau đây sai?",
+      "options": [
+        "A. $A=\\{1;3\\}$, $B=\\{x\\in\\mathbb{R}\\mid(x-1)(x-3)=0\\}$ thì $A=B$.",
+        "B. $A=\\{1;3;5;7;9\\}$, $B=\\{n\\in\\mathbb{N}\\mid n=2k+1,\\ k\\in\\mathbb{Z},\\ 0\\le k\\le4\\}$ thì $A=B$.",
+        "C. $A=\\{-1;2\\}$, $B=\\{x\\in\\mathbb{R}\\mid x^2-2x-3=0\\}$ thì $A=B$.",
+        "D. $A=\\varnothing$, $B=\\{x\\in\\mathbb{R}\\mid x^2+x+1=0\\}$ thì $A=B$."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 12,
+      "type": "single",
+      "chuong": "Tập hợp và các phép toán trên tập hợp",
+      "dang": "Giao và hợp của tập hợp",
+      "content": "Cho $A=\\{x\\in\\mathbb{Z}\\mid x^2<\\dfrac{15}{2}\\}$, $B=\\{0;1;3\\}$, $C=\\{x\\in\\mathbb{R}\\mid(2x-3)(x^2-4)=0\\}$. Khi đó $A\\cap(B\\cup C)$ là:",
+      "options": ["A. $\\{0;1;2\\}$.", "B. $\\{-2;0;1;2\\}$.", "C. $\\{-2;\\frac12;1;2\\}$.", "D. $\\{3;\\frac12;1;2\\}$."],
+      "answer": "B"
+    },
+    {
+      "id": 13,
+      "type": "true_false",
+      "chuong": "Tập hợp và các phép toán trên tập hợp",
+      "dang": "Số phần tử của tập hợp",
+      "content": "Cho $A$ là tập các số nguyên tố nhỏ hơn 11; $B=\\{x\\in\\mathbb{R}\\mid3x^2-4x+1=0\\}$; $C=\\{x\\in\\mathbb{N}\\mid(x^2-5x+6)(2x+1)=0\\}$; $D=\\{x\\in\\mathbb{Z}\\mid|x+1|<3\\}$. Các khẳng định sau đúng hay sai?",
+      "statements": ["a) Tập hợp $A$ có 4 phần tử.", "b) Tập hợp $B$ có 3 phần tử.", "c) Tập hợp $C$ có 3 phần tử.", "d) Tập hợp $D$ có 3 phần tử."],
+      "answer": ["D", "S", "S", "S"]
+    },
+    {
+      "id": 14,
+      "type": "true_false",
+      "chuong": "Tập hợp và các phép toán trên tập hợp",
+      "dang": "Quan hệ tập hợp",
+      "content": "Cho $A=\\{x\\in\\mathbb{R}\\mid(2x-x^2)(2x^2-3x+1)=0\\}$, $B=\\{n\\in\\mathbb{N}\\mid3<n^2<30\\}$. Các khẳng định sau đúng hay sai?",
+      "statements": ["a) Tập hợp $B$ có 5 phần tử.", "b) $A=\\{0;2;-\\frac12\\}$.", "c) Số phần tử của tập $A\\setminus B$ là 3.", "d) Số tập $X$ thỏa mãn $(A\\setminus B)\\subset X\\subset A$ là 3."],
+      "answer": ["S", "S", "D", "S"]
+    },
+    {
+      "id": 15,
+      "type": "true_false",
+      "chuong": "Tập hợp và các phép toán trên tập hợp",
+      "dang": "Các phép toán trên tập hợp",
+      "content": "Cho $A=\\{0;1;2;3;4;5;a;c\\}$ và $B=\\{-2;1;3;4;6;a;b;c\\}$. Các khẳng định sau đúng hay sai?",
+      "statements": ["a) $A\\cup B=\\{-2;0;1;2;6;a;b;c\\}$.", "b) $A\\cap B=\\{1;3;4;a;c\\}$.", "c) $A\\setminus B=\\{0;2;5\\}$.", "d) $B\\setminus A=\\{6;b\\}$."],
+      "answer": ["S", "D", "D", "S"]
+    },
+    {
+      "id": 16,
+      "type": "true_false",
+      "chuong": "Tập hợp và các phép toán trên tập hợp",
+      "dang": "Các phép toán trên tập hợp",
+      "content": "Cho $A=\\{-6;-2;-1;2\\}$, $B=\\{0;1;2;3;4\\}$, $C=\\{-3;-1;1;3;5;7;9\\}$. Các khẳng định sau đúng hay sai?",
+      "statements": ["a) $C\\setminus A=[-3;9]$.", "b) Tập hợp $(B\\cap C)\\setminus A$ có 3 phần tử.", "c) $B\\setminus C=\\varnothing$.", "d) Trong tập hợp $(A\\cup B)\\setminus(B\\setminus C)$ có hai số tự nhiên."],
+      "answer": ["S", "S", "S", "D"]
+    },
+    {
+      "id": 17,
+      "type": "short_answer",
+      "chuong": "Tập hợp và các phép toán trên tập hợp",
+      "dang": "Phần bù của tập hợp",
+      "content": "Cho $X=\\{0;1;2;3;4;5\\}$ và $A=\\{0;2;4\\}$. Xác định số phần tử của phần bù của $A$ trong $X$.",
+      "answer": "3"
+    },
+    {
+      "id": 18,
+      "type": "short_answer",
+      "chuong": "Tập hợp và các phép toán trên tập hợp",
+      "dang": "Số tập con",
+      "content": "Số tập con của tập hợp $A=\\{x\\in\\mathbb{R}\\mid3(x^2+x)^2-2x^2-2x=0\\}$ là bao nhiêu?",
+      "answer": "16"
+    },
+    {
+      "id": 19,
+      "type": "short_answer",
+      "chuong": "Tập hợp và các phép toán trên tập hợp",
+      "dang": "Hiệu của hai tập hợp",
+      "content": "Cho $A$ là tập hợp tất cả các nghiệm của phương trình $x^2-4x+3=0$; $B$ là tập hợp các số nguyên có giá trị tuyệt đối nhỏ hơn 4. Xác định số phần tử của $A\\setminus B$.",
+      "answer": "0"
+    },
+    {
+      "id": 20,
+      "type": "short_answer",
+      "chuong": "Tập hợp và các phép toán trên tập hợp",
+      "dang": "Hợp của hai tập hợp",
+      "content": "Cho $A=\\{x\\in\\mathbb{N}\\mid x<20,\\ x$ chia hết cho 3$\\}$ và $B=\\{x\\in\\mathbb{R}\\mid x^2-5x=0\\}$. Tập hợp $A\\cup B$ có bao nhiêu phần tử?",
+      "answer": "8"
+    },
+    {
+      "id": 21,
+      "type": "short_answer",
+      "chuong": "Tập hợp và các phép toán trên tập hợp",
+      "dang": "Tập con và hiệu của tập hợp",
+      "content": "Cho $X=\\{3;-4;5\\}$ có hai tập con $A$ và $B$ (số phần tử của $B$ ít hơn số phần tử của $A$). Có bao nhiêu cặp $(A;B)$ mà $\\{3;-4\\}\\cup(A\\setminus B)=X$?",
+      "answer": "11"
+    },
+    {
+      "id": 22,
+      "type": "short_answer",
+      "chuong": "Tập hợp và các phép toán trên tập hợp",
+      "dang": "Tập con",
+      "content": "Cho $A=\\{n\\in\\mathbb{N}\\mid n$ là ước của 2$\\}$; $B=\\{x\\in\\mathbb{R}\\mid(x^2-1)(x-2)(x-4)=0\\}$. Tìm tất cả các tập hợp $X$ sao cho $A\\subset X\\subset B$.",
+      "answer": "$X\\in\\{\\{1;2\\},\\{-1;1;2\\},\\{1;2;4\\},\\{-1;1;2;4\\}\\}$"
+    }
+  ]
+}

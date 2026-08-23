@@ -18,6 +18,7 @@ import sys
 import threading
 import unicodedata
 from concurrent.futures import ThreadPoolExecutor
+from datetime import date
 from pathlib import Path
 from urllib.parse import urljoin, urlparse, urldefrag
 
@@ -39,7 +40,7 @@ QUESTION_RE = re.compile(r"^Câu\s*(\d+)\s*[:.)-]\s*(.*)$", re.I)
 OPTION_RE = re.compile(r"^\s*([A-D])\s*[.)]\s*(.+)$", re.I | re.S)
 EXAM_MARKER_RE = re.compile(r"^\(?\s*Đề\s*(?:số)?\s*(\d+)\s*\)?$", re.I)
 ANSWER_HEADING_RE = re.compile(r"^(?:ĐÁP\s*ÁN|HƯỚNG\s*DẪN\s*GIẢI|LỜI\s*GIẢI)", re.I)
-YEAR_RE = re.compile(r"\b(202[5-9]|20[3-9]\d)\b")
+YEAR_RE = re.compile(r"\b(20\d{2})\b")
 FORMULA_RE = re.compile(
     r"(?<![\w$])([A-Za-z0-9()+\-=.,]*"
     r"(?:_\{[^{}]+\}|\^\{[^{}]+\})"
@@ -336,7 +337,10 @@ def detect_meta(title: str, url: str, page_text: str):
     years = [int(x) for x in YEAR_RE.findall(title)]
     if not any(y >= 2025 for y in years):
         years = [int(x) for x in YEAR_RE.findall(page_text[:4000])]
-    year = max((y for y in years if y >= 2025), default=None)
+    # Reject numbers that merely look like future years (for example an
+    # exercise value such as 2050). Only currently publishable exam years are
+    # valid metadata.
+    year = max((y for y in years if 2025 <= y <= date.today().year), default=None)
     if year is None:
         return None
     return grade, subject, exam_type, year

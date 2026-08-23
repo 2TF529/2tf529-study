@@ -1,0 +1,617 @@
+{
+  "id": "l12-tong-hop-vact-2026-empire-phat-trien-de-chinh-thuc-theo-muc-do-cau-64-019e2fa1",
+  "grade": "l12",
+  "subjectSlug": "tong-hop",
+  "examType": "vact",
+  "year": 2026,
+  "code": "Empire 019E2FA1",
+  "title": "PHÁT TRIỂN ĐỀ CHÍNH THỨC THEO MỨC ĐỘ CÂU 64",
+  "duration": 195,
+  "answerSource": "missing",
+  "notes": "Chưa có đáp án trong dữ liệu nguồn; hệ thống không chấm điểm đề này.",
+  "sourceId": "empire:019e2fa197da726b84d94368b1662e51",
+  "sourceUrl": "https://empire-catalog-sync.vercel.app/thi.html?id=019e2fa197da726b84d94368b1662e51",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "[MỨC 1] Trong một đồ thị $G$, tổng bậc của tất cả các đỉnh bằng $20$. Số cạnh của đồ thị $G$ là:",
+      "options": [
+        "A. $10$",
+        "B. $20$",
+        "C. $40$",
+        "D. $5$"
+      ],
+      "answer": null
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "[MỨC 1] Đồ thị đầy đủ $K_{ 5 }$ (mỗi đỉnh đều có cạnh nối với tất cả các đỉnh còn lại) có bao nhiêu cạnh?",
+      "options": [
+        "A. $5$",
+        "B. $10$",
+        "C. $15$",
+        "D. $20$"
+      ],
+      "answer": null
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "[MỨC 1] Một cây (đồ thị liên thông không có chu trình) có $15$ đỉnh. Số cạnh của cây này là:",
+      "options": [
+        "A. $15$",
+        "B. $16$",
+        "C. $14$",
+        "D. $13$"
+      ],
+      "answer": null
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "[MỨC 1] Có $6$ người trong một phòng. Mỗi người bắt tay với chính xác $1$ người khác. Số cái bắt tay đã diễn ra là:",
+      "options": [
+        "A. $6$",
+        "B. $3$",
+        "C. $12$",
+        "D. $15$"
+      ],
+      "answer": null
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "[MỨC 1] Đồ thị $G$ có $4$ đỉnh, bậc của các đỉnh lần lượt là $2,2,3,3$. Số cạnh của đồ thị $G$ là:",
+      "options": [
+        "A. $10$",
+        "B. $5$",
+        "C. $6$",
+        "D. $4$"
+      ],
+      "answer": null
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "[MỨC 1] Trong lý thuyết đồ thị, một đỉnh có bậc chẵn được gọi là đỉnh chẵn, đỉnh có bậc lẻ được gọi là đỉnh lẻ. Số lượng đỉnh lẻ trong bất kỳ đồ thị vô hướng nào luôn là một số:",
+      "options": [
+        "A. Lẻ",
+        "B. Chẵn",
+        "C. Nguyên tố",
+        "D. Tùy ý"
+      ],
+      "answer": null
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "[MỨC 1] Chu trình Euler là chu trình đi qua mỗi cạnh của đồ thị đúng một lần. Điều kiện cần và đủ để một đồ thị liên thông có chu trình Euler là tất cả các đỉnh của đồ thị đều phải có bậc:",
+      "options": [
+        "A. Lẻ",
+        "B. Chẵn",
+        "C. Bằng nhau",
+        "D. Lớn hơn $2$"
+      ],
+      "answer": null
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "[MỨC 1] Một mạng máy tính gồm $8$ máy, mỗi máy được kết nối cáp trực tiếp với đúng $3$ máy khác. Số đường cáp mạng có trong hệ thống là:",
+      "options": [
+        "A. $24$",
+        "B. $12$",
+        "C. $16$",
+        "D. $8$"
+      ],
+      "answer": null
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "content": "[MỨC 1] Đồ thị vòng $C_{ 6 }$ có $6$ đỉnh sắp xếp thành một vòng khép kín. Số cạnh của đồ thị này là:",
+      "options": [
+        "A. $5$",
+        "B. $6$",
+        "C. $7$",
+        "D. $12$"
+      ],
+      "answer": null
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "content": "[MỨC 1] Một đồ thị có $5$ đỉnh. Số cạnh tối đa mà đồ thị này có thể có (không có cạnh khuyên và cạnh kép) là:",
+      "options": [
+        "A. $5$",
+        "B. $10$",
+        "C. $15$",
+        "D. $20$"
+      ],
+      "answer": null
+    },
+    {
+      "id": 11,
+      "type": "single",
+      "content": "[MỨC 1] Đồ thị phân thủy (bipartite graph) $K_{ 2,3 }$ có tập đỉnh được chia thành hai tập chứa $2$ đỉnh và $3$ đỉnh. Số cạnh của đồ thị này là:",
+      "options": [
+        "A. $5$",
+        "B. $6$",
+        "C. $10$",
+        "D. $12$"
+      ],
+      "answer": null
+    },
+    {
+      "id": 12,
+      "type": "single",
+      "content": "[MỨC 1] Một đồ thị liên thông có $10$ cạnh và $6$ đỉnh. Số lượng cạnh cần loại bỏ ít nhất để đồ thị trở thành một cây là:",
+      "options": [
+        "A. $4$",
+        "B. $5$",
+        "C. $6$",
+        "D. $3$"
+      ],
+      "answer": null
+    },
+    {
+      "id": 13,
+      "type": "single",
+      "content": "[MỨC 1] Đồ thị $G$ có $7$ đỉnh. Nếu $G$ là một cây, tổng bậc của tất cả các đỉnh trong $G$ là:",
+      "options": [
+        "A. $12$",
+        "B. $14$",
+        "C. $6$",
+        "D. $7$"
+      ],
+      "answer": null
+    },
+    {
+      "id": 14,
+      "type": "single",
+      "content": "[MỨC 1] Nếu một đồ thị vô hướng có $15$ cạnh và mỗi đỉnh đều có bậc là $3$, thì số đỉnh của đồ thị là:",
+      "options": [
+        "A. $5$",
+        "B. $10$",
+        "C. $15$",
+        "D. $20$"
+      ],
+      "answer": null
+    },
+    {
+      "id": 15,
+      "type": "single",
+      "content": "[MỨC 1] Khẳng định nào sau đây là sai khi nói về cây (tree) trong lý thuyết đồ thị?",
+      "options": [
+        "A. Cây là đồ thị liên thông.",
+        "B. Cây không có chu trình.",
+        "C. Cây có $n$ đỉnh thì có $n$ cạnh.",
+        "D. Thêm một cạnh bất kỳ vào cây sẽ tạo ra một chu trình."
+      ],
+      "answer": null
+    },
+    {
+      "id": 16,
+      "type": "single",
+      "content": "[MỨC 1] Trong một giải bóng đá có $4$ đội tham gia, mỗi đội đấu vòng tròn một lượt với các đội còn lại. Tổng số trận đấu là:",
+      "options": [
+        "A. $4$",
+        "B. $6$",
+        "C. $8$",
+        "D. $12$"
+      ],
+      "answer": null
+    },
+    {
+      "id": 17,
+      "type": "single",
+      "content": "[MỨC 1] Một mạng lưới giao thông có $5$ nút giao, được mô phỏng bằng đồ thị hình sao $S_{ 5 }$ (một đỉnh trung tâm nối với $4$ đỉnh còn lại). Số đường nối trong mạng lưới này là:",
+      "options": [
+        "A. $4$",
+        "B. $5$",
+        "C. $10$",
+        "D. $8$"
+      ],
+      "answer": null
+    },
+    {
+      "id": 18,
+      "type": "single",
+      "content": "[MỨC 1] Đường đi Euler là đường đi qua mỗi cạnh của đồ thị đúng một lần. Điều kiện để đồ thị liên thông có đường đi Euler (nhưng không có chu trình Euler) là số đỉnh bậc lẻ phải bằng:",
+      "options": [
+        "A. $0$",
+        "B. $1$",
+        "C. $2$",
+        "D. $3$"
+      ],
+      "answer": null
+    },
+    {
+      "id": 19,
+      "type": "single",
+      "content": "[MỨC 1] Đồ thị nào sau đây chắc chắn có chu trình Euler?",
+      "options": [
+        "A. Cây có $5$ đỉnh",
+        "B. Đồ thị vòng $C_{ 4 }$",
+        "C. Đồ thị phân thủy $K_{ 2,3 }$",
+        "D. Đồ thị đầy đủ $K_{ 4 }$"
+      ],
+      "answer": null
+    },
+    {
+      "id": 20,
+      "type": "single",
+      "content": "[MỨC 1] Tổng số bậc của các đỉnh trong một đồ thị phân thủy $K_{ 3,4 }$ là:",
+      "options": [
+        "A. $7$",
+        "B. $12$",
+        "C. $24$",
+        "D. $14$"
+      ],
+      "answer": null
+    },
+    {
+      "id": 21,
+      "type": "single",
+      "content": "[MỨC 2] Định lý Euler cho đồ thị phẳng liên thông phát biểu rằng $V-E+F=2$, trong đó $V$ là số đỉnh, $E$ là số cạnh, và $F$ là số miền (kể cả miền ngoài cùng). Một đồ thị phẳng có $6$ đỉnh và $8$ cạnh sẽ chia mặt phẳng thành bao nhiêu miền?",
+      "options": [
+        "A. $3$",
+        "B. $4$",
+        "C. $5$",
+        "D. $6$"
+      ],
+      "answer": null
+    },
+    {
+      "id": 22,
+      "type": "single",
+      "content": "[MỨC 2] Một bản đồ được vẽ trên mặt phẳng tạo thành một đồ thị phẳng liên thông có $10$ miền và $15$ đường biên (cạnh). Bản đồ này có bao nhiêu giao điểm (đỉnh)?",
+      "options": [
+        "A. $5$",
+        "B. $7$",
+        "C. $23$",
+        "D. $27$"
+      ],
+      "answer": null
+    },
+    {
+      "id": 23,
+      "type": "single",
+      "content": "[MỨC 2] Một khối đa diện đều (mỗi mặt là một đa giác, mỗi đỉnh có cùng số cạnh đi qua) có $8$ đỉnh và $6$ mặt. Số cạnh của khối đa diện này là:",
+      "options": [
+        "A. $10$",
+        "B. $12$",
+        "C. $14$",
+        "D. $16$"
+      ],
+      "answer": null
+    },
+    {
+      "id": 24,
+      "type": "single",
+      "content": "[MỨC 2] Một đồ thị có $10$ đỉnh, trong đó có $4$ đỉnh bậc $3$ và $6$ đỉnh bậc $4$. Số cạnh của đồ thị này là:",
+      "options": [
+        "A. $12$",
+        "B. $18$",
+        "C. $36$",
+        "D. $24$"
+      ],
+      "answer": null
+    },
+    {
+      "id": 25,
+      "type": "single",
+      "content": "[MỨC 2] Đồ thị đầy đủ $K_{ n }$ có chu trình Euler khi và chỉ khi $n$ là một số:",
+      "options": [
+        "A. Chẵn",
+        "B. Lẻ",
+        "C. Nguyên tố",
+        "D. Chính phương"
+      ],
+      "answer": null
+    },
+    {
+      "id": 26,
+      "type": "single",
+      "content": "[MỨC 2] Sắc số (chromatic number) của một đồ thị là số màu ít nhất cần dùng để tô các đỉnh sao cho không có hai đỉnh nào liền kề cùng màu. Sắc số của đồ thị vòng $C_{ 4 }$ là:",
+      "options": [
+        "A. $2$",
+        "B. $3$",
+        "C. $4$",
+        "D. $1$"
+      ],
+      "answer": null
+    },
+    {
+      "id": 27,
+      "type": "single",
+      "content": "[MỨC 2] Sắc số của đồ thị vòng $C_{ 5 }$ là:",
+      "options": [
+        "A. $2$",
+        "B. $3$",
+        "C. $4$",
+        "D. $5$"
+      ],
+      "answer": null
+    },
+    {
+      "id": 28,
+      "type": "single",
+      "content": "[MỨC 2] Sắc số của đồ thị đầy đủ $K_{ 5 }$ là:",
+      "options": [
+        "A. $3$",
+        "B. $4$",
+        "C. $5$",
+        "D. $2$"
+      ],
+      "answer": null
+    },
+    {
+      "id": 29,
+      "type": "single",
+      "content": "[MỨC 2] Một đồ thị phân thủy $K_{ m,n }$ luôn có sắc số bằng:",
+      "options": [
+        "A. $min(m,n)$",
+        "B. $2$",
+        "C. $max(m,n)$",
+        "D. $m+n$"
+      ],
+      "answer": null
+    },
+    {
+      "id": 30,
+      "type": "single",
+      "content": "[MỨC 2] Số lượng cạnh của một đồ thị là $21$. Nếu đồ thị này là một đồ thị đầy đủ $K_{ n }$, giá trị của $n$ là:",
+      "options": [
+        "A. $6$",
+        "B. $7$",
+        "C. $8$",
+        "D. $9$"
+      ],
+      "answer": null
+    },
+    {
+      "id": 31,
+      "type": "single",
+      "content": "[MỨC 2] Chu trình Hamilton là chu trình đi qua tất cả các đỉnh của đồ thị, mỗi đỉnh đúng một lần. Đồ thị nào sau đây chắc chắn KHÔNG có chu trình Hamilton?",
+      "options": [
+        "A. Đồ thị đầy đủ $K_{ 5 }$",
+        "B. Đồ thị vòng $C_{ 6 }$",
+        "C. Cây có $4$ đỉnh",
+        "D. Đồ thị phân thủy $K_{ 3,3 }$"
+      ],
+      "answer": null
+    },
+    {
+      "id": 32,
+      "type": "single",
+      "content": "[MỨC 2] Tại một buổi tiệc có $5$ cặp vợ chồng. Mỗi người đều bắt tay với một số người khác, nhưng không ai bắt tay với vợ/chồng của mình. Nếu coi đây là một đồ thị, bậc lớn nhất có thể của một đỉnh là:",
+      "options": [
+        "A. $10$",
+        "B. $9$",
+        "C. $8$",
+        "D. $4$"
+      ],
+      "answer": null
+    },
+    {
+      "id": 33,
+      "type": "single",
+      "content": "[MỨC 2] Có $5$ thành phố được kết nối bởi các tuyến đường bay một chiều. Nếu giữa hai thành phố bất kỳ luôn có chính xác một chuyến bay một chiều nối chúng, tổng số tuyến đường bay là:",
+      "options": [
+        "A. $5$",
+        "B. $10$",
+        "C. $20$",
+        "D. $25$"
+      ],
+      "answer": null
+    },
+    {
+      "id": 34,
+      "type": "single",
+      "content": "[MỨC 2] Rừng (forest) là một đồ thị vô hướng không có chu trình (mỗi thành phần liên thông là một cây). Nếu một khu rừng có $10$ đỉnh và $3$ thành phần liên thông, số cạnh của khu rừng đó là:",
+      "options": [
+        "A. $7$",
+        "B. $8$",
+        "C. $9$",
+        "D. $10$"
+      ],
+      "answer": null
+    },
+    {
+      "id": 35,
+      "type": "single",
+      "content": "[MỨC 2] Một đồ thị phẳng liên thông có tất cả các miền (kể cả miền ngoài) đều được giới hạn bởi chính xác $3$ cạnh. Mối liên hệ giữa số cạnh $E$ và số miền $F$ là:",
+      "options": [
+        "A. $2E=3F$",
+        "B. $3E=2F$",
+        "C. $E=3F$",
+        "D. $E=F+2$"
+      ],
+      "answer": null
+    },
+    {
+      "id": 36,
+      "type": "single",
+      "content": "[MỨC 2] Áp dụng phương trình từ câu trước ($3F=2E$) và công thức Euler ($V-E+F=2$), số cạnh $E$ của một đồ thị phẳng mà mỗi miền đều là tam giác có thể biểu diễn theo số đỉnh $V$ là:",
+      "options": [
+        "A. $E=3V-6$",
+        "B. $E=2V-4$",
+        "C. $E=V-2$",
+        "D. $E=3V+6$"
+      ],
+      "answer": null
+    },
+    {
+      "id": 37,
+      "type": "single",
+      "content": "[MỨC 2] Nếu một đồ thị vô hướng liên thông có $n$ đỉnh và $n$ cạnh, thì đồ thị đó chắc chắn chứa chính xác bao nhiêu chu trình?",
+      "options": [
+        "A. $0$",
+        "B. $1$",
+        "C. $2$",
+        "D. $n-1$"
+      ],
+      "answer": null
+    },
+    {
+      "id": 38,
+      "type": "single",
+      "content": "[MỨC 3] Bài toán tô màu bản đồ (Định lý Bốn Màu) khẳng định rằng mọi bản đồ trên mặt phẳng đều có thể được tô bằng tối đa $4$ màu sao cho hai quốc gia có chung đường biên giới không cùng màu. Điều này tương đương với việc sắc số của một đồ thị phẳng bất kỳ luôn:",
+      "options": [
+        "A. Bằng $4$",
+        "B. Nhỏ hơn hoặc bằng $4$",
+        "C. Lớn hơn $4$",
+        "D. Bằng $5$"
+      ],
+      "answer": null
+    },
+    {
+      "id": 39,
+      "type": "single",
+      "content": "[MỨC 3] Một giải đấu eSports có $10$ đội. Mỗi đội thi đấu đúng $1$ trận với mỗi đội khác. Trong mỗi trận không có kết quả hòa (thắng hoặc thua). Trạng thái giải đấu được mô hình hóa bằng đồ thị có hướng. Tổng số \"bậc ra\" (số trận thắng) của tất cả các đỉnh bằng:",
+      "options": [
+        "A. $10$",
+        "B. $20$",
+        "C. $45$",
+        "D. $90$"
+      ],
+      "answer": null
+    },
+    {
+      "id": 40,
+      "type": "single",
+      "content": "[MỨC 3] Đồ thị Petersen là một đồ thị nổi tiếng có $10$ đỉnh và $15$ cạnh. Mọi đỉnh của đồ thị Petersen đều có cùng một bậc $k$. Giá trị của $k$ là:",
+      "options": [
+        "A. $2$",
+        "B. $3$",
+        "C. $4$",
+        "D. $5$"
+      ],
+      "answer": null
+    },
+    {
+      "id": 41,
+      "type": "single",
+      "content": "[MỨC 3] Có $6$ sinh viên A, B, C, D, E, F cần thi các môn. Một số sinh viên thi chung môn dẫn đến xung đột lịch thi: (A,B), (A,C), (B,C), (B,D), (D,E), (E,F), (D,F). Cần ít nhất bao nhiêu kíp thi để không ai bị trùng lịch? (Bài toán sắc số).",
+      "options": [
+        "A. $2$",
+        "B. $3$",
+        "C. $4$",
+        "D. $5$"
+      ],
+      "answer": null
+    },
+    {
+      "id": 42,
+      "type": "single",
+      "content": "[MỨC 3] Một mạng lưới xã hội có $100$ người. Khẳng định nào sau đây chắc chắn đúng?",
+      "options": [
+        "A. Luôn có ít nhất hai người có cùng số lượng bạn bè trong mạng lưới này.",
+        "B. Mọi người đều có số bạn bè là số lẻ.",
+        "C. Luôn tồn tại ít nhất một người có $100$ người bạn.",
+        "D. Có đúng một người không có bạn bè trong mạng lưới."
+      ],
+      "answer": null
+    },
+    {
+      "id": 43,
+      "type": "single",
+      "content": "[MỨC 3] Đồ thị phân thủy đầy đủ $K_{ 3,3 }$ (mô hình bài toán 3 nhà 3 giếng) có tính phẳng không?",
+      "options": [
+        "A. Có, nó có thể vẽ trên mặt phẳng không cắt nhau",
+        "B. Không, sắc số của nó lớn hơn $4$",
+        "C. Không, nó chứa chu trình Euler",
+        "D. Không, vì nó vi phạm bất đẳng thức đồ thị phẳng cho đồ thị không có tam giác."
+      ],
+      "answer": null
+    },
+    {
+      "id": 44,
+      "type": "single",
+      "content": "[MỨC 3] Có $8$ máy tính. Máy A bị nhiễm virus. Virus này mỗi phút lây sang đúng một máy tính chưa bị nhiễm thông qua một kết nối mạng. Hình thái lây nhiễm theo thời gian tạo thành một cấu trúc đồ thị gì?",
+      "options": [
+        "A. Đồ thị đầy đủ",
+        "B. Chu trình",
+        "C. Cây (đồ thị phân nhánh)",
+        "D. Lưới phẳng"
+      ],
+      "answer": null
+    },
+    {
+      "id": 45,
+      "type": "single",
+      "content": "[MỨC 3] Giả sử một đồ thị phẳng có $6$ đỉnh, tất cả đều có bậc bằng $4$. Số lượng miền mà đồ thị này chia mặt phẳng ra là bao nhiêu?",
+      "options": [
+        "A. $6$",
+        "B. $8$",
+        "C. $10$",
+        "D. $12$"
+      ],
+      "answer": null
+    },
+    {
+      "id": 46,
+      "type": "single",
+      "content": "[MỨC 3] Trong lý thuyết trò chơi, một giải đấu vòng tròn (tournament) được biểu diễn bằng đồ thị có hướng. Nếu một giải đấu có $n$ đội, số cách phân bổ kết quả thắng/thua cho toàn bộ giải đấu là:",
+      "options": [
+        "A. $n ^ { 2 }$",
+        "B. n!",
+        "C. $2 ^ { n(n-1)/2 }$",
+        "D. $2 ^ { n }$"
+      ],
+      "answer": null
+    },
+    {
+      "id": 47,
+      "type": "single",
+      "content": "[MỨC 3] Đồ thị $n$-khối lập phương (Hypercube graph) $Q_{ n }$ có các đỉnh là các chuỗi nhị phân độ dài $n$. Hai đỉnh nối với nhau nếu chúng khác nhau đúng $1$ bit. Số lượng đỉnh và số lượng cạnh của $Q_{ 3 }$ lần lượt là:",
+      "options": [
+        "A. $8$ và $12$",
+        "B. $6$ và $8$",
+        "C. $8$ và $8$",
+        "D. $9$ và $12$"
+      ],
+      "answer": null
+    },
+    {
+      "id": 48,
+      "type": "single",
+      "content": "[MỨC 3] Trong bài toán TSP (Người chào hàng), mục tiêu là tìm chu trình Hamilton có trọng số nhỏ nhất. Bất đẳng thức tam giác là một tính chất giúp các thuật toán xấp xỉ hoạt động hiệu quả. Nội dung của bất đẳng thức tam giác trên đồ thị trọng số là:",
+      "options": [
+        "A. Khoảng cách trực tiếp giữa hai đỉnh luôn lớn hơn khoảng cách đi qua đỉnh trung gian",
+        "B. Khoảng cách trực tiếp giữa hai đỉnh luôn không lớn hơn tổng khoảng cách đi qua một đỉnh trung gian bất kỳ",
+        "C. Đồ thị phải là đồ thị phẳng",
+        "D. Mọi chu trình đều có $3$ cạnh"
+      ],
+      "answer": null
+    },
+    {
+      "id": 49,
+      "type": "single",
+      "content": "[MỨC 3] Một đồ thị vô hướng $G$ có $V$ đỉnh. \"Phần bù\" của đồ thị $G$ (ký hiệu là $\\bar G$) là đồ thị có cùng tập đỉnh với $G$, trong đó hai đỉnh kề nhau trong $\\bar G$ khi và chỉ khi chúng không kề nhau trong $G$. Nếu $G$ có $5$ đỉnh và $4$ cạnh, số cạnh của $\\bar G$ là:",
+      "options": [
+        "A. $4$",
+        "B. $5$",
+        "C. $6$",
+        "D. $10$"
+      ],
+      "answer": null
+    },
+    {
+      "id": 50,
+      "type": "single",
+      "content": "[MỨC 3] Có một công ty gồm $4$ bộ phận. Mỗi bộ phận cần gửi đại diện tham gia $3$ cuộc họp ban chỉ đạo khác nhau. Mỗi cuộc họp có đúng $2$ đại diện từ $2$ bộ phận khác nhau tham gia. Hỏi có tổng cộng bao nhiêu cuộc họp?",
+      "options": [
+        "A. $6$",
+        "B. $4$",
+        "C. $8$",
+        "D. $12$"
+      ],
+      "answer": null
+    }
+  ]
+}
