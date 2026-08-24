@@ -36,6 +36,19 @@
   --font-mono:Consolas,Monaco,monospace;
 }
 
+/* Chế độ sáng thật sự: khai báo tường minh để mọi trang và công cụ dùng chung. */
+[data-theme="light"]{
+  color-scheme:light;
+  --paper:#f5f7fb;
+  --white:#ffffff;
+  --ink-900:#172033;
+  --ink-500:#667085;
+  --line:#dce3ee;
+  --bg:#f5f7fb;
+  --surface:#ffffff;
+  --surface2:#eef3f9;
+}
+
 /* ===== Bảng màu 2 - Xanh lá · cam đất ===== */
 [data-palette="2"]{
   --navy-950:#123526;
@@ -155,6 +168,10 @@
 
 /* ===== Chế độ tối - nền trung tính ấm dùng chung ===== */
 [data-theme="dark"]{
+  color-scheme:dark;
+  --bg:#171510;
+  --surface:#211e17;
+  --surface2:#2b271e;
   --paper:#171510;
   --white:#211e17;
   --ink-900:#f1ece0;
@@ -1569,3 +1586,14 @@ table.code-compare pre{margin:0;font-family:var(--font-mono);white-space:pre-wra
 .oauth-auth-btn:hover{transform:translateY(-1px);filter:brightness(1.08)}
 .oauth-auth-btn.discord{background:#5865f2}
 .oauth-auth-btn.github{background:#24292f}
+.password-field{position:relative;display:block;width:100%}.account-form .password-field input{padding-right:48px}.password-toggle{position:absolute;top:50%;right:5px;display:grid;place-items:center;width:38px;height:34px;padding:0;border:0;border-radius:9px;background:transparent;color:#756b5f;cursor:pointer;transform:translateY(-50%)}.password-toggle:hover,.password-toggle:focus-visible{background:rgba(53,93,121,.1);color:#274c68;outline:none}.password-toggle svg{width:20px;height:20px;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}.password-toggle.is-visible{color:#1f5d85;background:rgba(53,93,121,.12)}
+
+/* Persistent member shell: keeps the post-login dashboard navigation visible. */
+.member-sidebar{position:fixed;inset:0 auto 0 0;z-index:120;width:230px;padding:16px 12px;display:flex;flex-direction:column;background:#111827;border-right:1px solid rgba(255,255,255,.08);color:#eef2ff}.member-brand,.member-identity{display:flex;align-items:center;gap:11px;padding:10px;text-decoration:none;color:#eef2ff}.member-brand>span,.member-identity>span{display:grid;place-items:center;width:38px;height:38px;flex:none;border-radius:11px;background:linear-gradient(135deg,#3567b5,#5795f6);color:#fff;font-weight:900;font-size:12px}.member-brand b,.member-identity b{display:block;font-size:14px}.member-brand small,.member-identity small{display:block;margin-top:2px;color:#8b94a9;font-size:11px}.member-identity{margin:12px 0;border-block:1px solid rgba(255,255,255,.07)}.member-identity>span{border-radius:50%}.member-links{display:grid;gap:4px}.member-links a,.member-logout{display:flex;align-items:center;gap:11px;width:100%;padding:11px 12px;border:0;border-radius:10px;background:transparent;color:#9aa3b7;text-decoration:none;font:600 13px var(--font-sans);cursor:pointer}.member-links a:hover,.member-links a.active{background:rgba(79,142,247,.14);color:#68a0ff}.member-links span,.member-logout span{width:21px;text-align:center}.member-logout{margin-top:auto;color:#f87171}.member-logout:hover{background:rgba(239,68,68,.1)}html.member-mode body{padding-left:230px}html.member-mode .site-header,html.member-mode .top-nav{display:none}
+[data-theme="light"] .member-sidebar{background:#fff;border-right-color:#dce3ee;color:#172033;box-shadow:8px 0 28px rgba(30,64,175,.06)}
+[data-theme="light"] .member-brand,[data-theme="light"] .member-identity{color:#172033}
+[data-theme="light"] .member-brand small,[data-theme="light"] .member-identity small{color:#667085}
+[data-theme="light"] .member-identity{border-block-color:#e4e9f1}
+[data-theme="light"] .member-links a,[data-theme="light"] .member-logout{color:#667085}
+[data-theme="light"] .member-links a:hover,[data-theme="light"] .member-links a.active{background:#eaf1ff;color:#2559c2}
+@media(max-width:850px){.member-sidebar{inset:auto 0 0 0;width:auto;height:64px;padding:6px 8px;flex-direction:row;align-items:center;border:0;border-top:1px solid rgba(255,255,255,.1)}.member-brand,.member-identity,.member-logout{display:none}.member-links{width:100%;display:grid;grid-template-columns:repeat(5,1fr);gap:2px}.member-links a{display:grid;place-items:center;gap:1px;padding:5px 2px;font-size:10px}.member-links a span{font-size:17px}.member-links a b{font-size:9px}html.member-mode body{padding-left:0;padding-bottom:68px}}

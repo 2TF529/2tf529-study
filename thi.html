@@ -1,140 +1,32 @@
-<!DOCTYPE html>
-<html lang="vi">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Làm bài thi — 2TF529</title>
-<meta name="description" content="Phòng thi trực tuyến. Làm bài thi thật với đồng hồ đếm ngược, đánh dấu câu hỏi, xem kết quả ngay.">
-<meta name="robots" content="noindex, nofollow">
-<meta name="theme-color" content="#1a56db">
-<script>(function(){var d=document.documentElement;d.setAttribute("data-theme", localStorage.getItem("theme") || (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light"));d.setAttribute("data-palette", localStorage.getItem("palette") || "9");})();</script>
-<link rel="preload" href="css/style.css?v=20260821-1" as="style">
-<link rel="preload" href="js/exam.js?v=20260821-2" as="script">
-<link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
-<link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
-<link rel="stylesheet" href="css/style.css?v=20260821-1">
-<link rel="preload" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" as="style" crossorigin="anonymous">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" crossorigin="anonymous">
-<script>
-  // KaTeX lazy loader — nhẹ hơn MathJax 90%, render nhanh hơn 10-20 lần
-  // Chỉ tải thư viện khi câu hỏi thực sự cần render công thức
-  window.loadKaTeX = function() {
-    if (window._katexLoading) return window._katexLoading;
-    window._katexLoading = new Promise(function(resolve) {
-      // Tải KaTeX core
-      var s = document.createElement('script');
-      s.src = 'https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js';
-      s.crossOrigin = 'anonymous';
-      s.async = true;
-      s.onload = function() {
-        // Sau đó tải plugin auto-render
-        var ar = document.createElement('script');
-        ar.src = 'https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js';
-        ar.crossOrigin = 'anonymous';
-        ar.async = true;
-        ar.onload = resolve;
-        document.head.appendChild(ar);
+<!DOCTYPE html><html lang="vi"> <head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Làm bài thi — 2TF529</title><meta name="description" content="Phòng thi trực tuyến. Làm bài thi thật với đồng hồ đếm ngược, đánh dấu câu hỏi, xem kết quả ngay."><meta name="robots" content="noindex, nofollow"><meta property="og:title" content="Làm bài thi — 2TF529"><meta property="og:description" content="Phòng thi trực tuyến. Làm bài thi thật với đồng hồ đếm ngược, đánh dấu câu hỏi, xem kết quả ngay."><meta property="og:type" content="website"><meta name="theme-color" content="#1a56db"><!-- Khởi tạo theme đồng bộ (chống flash) --><script>
+  (function(){
+    var d = document.documentElement;
+    d.setAttribute('data-theme', localStorage.getItem('theme') || (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'));
+    d.setAttribute('data-palette', localStorage.getItem('palette') || '9');
+  })();
+</script><!-- Preload CSS + theme.js --><link rel="preload" href="/css/style.css?v=20260824-18" as="style"><link rel="preload" href="/js/theme.js?v=20260824-18" as="script"><!-- Preload data JSONs cần thiết cho trang này --><!-- DNS prefetch cho external --><link rel="dns-prefetch" href="https://cdn.jsdelivr.net"><link rel="dns-prefetch" href="https://translate.googleapis.com"><link rel="stylesheet" href="/css/style.css?v=20260824-18"><style>[hidden]{display:none!important}</style><!-- Slot cho head extras (KaTeX, MathJax config, v.v.) --> <link rel="preload" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" as="style" crossorigin="anonymous"> <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" crossorigin="anonymous"> <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin> <script>
+      window.loadKaTeX = function() {
+        if (window._katexLoading) return window._katexLoading;
+        window._katexLoading = new Promise(function(resolve) {
+          var s = document.createElement('script');
+          s.src = 'https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js';
+          s.crossOrigin = 'anonymous'; s.async = true;
+          s.onload = function() {
+            var ar = document.createElement('script');
+            ar.src = 'https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js';
+            ar.crossOrigin = 'anonymous'; ar.async = true;
+            ar.onload = resolve;
+            document.head.appendChild(ar);
+          };
+          document.head.appendChild(s);
+        });
+        return window._katexLoading;
       };
-      document.head.appendChild(s);
-    });
-    return window._katexLoading;
-  };
-
-  // Khởi động KaTeX sớm khi browser rảnh (không chặn render trang)
-  if ('requestIdleCallback' in window) {
-    requestIdleCallback(function() { window.loadKaTeX(); }, { timeout: 2000 });
-  } else {
-    setTimeout(function() { window.loadKaTeX(); }, 1000);
-  }
-</script>
-</head>
-<body>
-
-<header class="site-header">
-  <h1 id="exam-title-header">Giao diện làm bài thi</h1>
-  <div class="badge" id="exam-type-badge"></div>
-</header>
-<nav class="top-nav">
-  <button class="hamburger" id="hamburger-btn" aria-label="Menu">☰</button>
-  <div class="nav-links">
-    <a href="index.html" class="nav-link">Trang chủ</a>
-    <a href="explore.html" class="nav-link">Tìm đề thi</a>
-    <a href="on-tap.html" class="nav-link">Ôn theo dạng</a>
-    <a href="lich-su.html" class="nav-link">Lịch sử</a>
-    <a href="ung-ho.html" class="nav-link">Ủng hộ</a>
-  </div>
-  <div class="nav-controls">
-    <select id="palette-select" class="palette-select" aria-label="Chọn tông màu">
-      <option value="1">🔵 Xanh dương - be ấm</option>
-      <option value="2">🟢 Xanh lá - cam đất</option>
-      <option value="3">🟣 Tím - hồng pastel</option>
-      <option value="4">🔷 Navy dịu + màu môn học</option>
-      <option value="5">🌊 Đại dương cyan</option>
-      <option value="6">🌸 Hoa anh đào</option>
-      <option value="7">🔥 Lửa ấm</option>
-      <option value="8">🌿 Rừng xanh</option>
-      <option value="9">🖤 Monochrome</option>
-      <option value="10">☕ Cà phê vintage</option>
-    </select>
-    <button class="theme-toggle" id="theme-toggle" aria-label="Chuyển giao diện">🌙</button>
-  </div>
-</nav>
-
-<div class="exam-topbar">
-  <div class="candidate-info">
-    <span class="status-dot"></span>Đang kết nối &nbsp;|&nbsp;
-    Thí sinh: <b>Khách (không cần đăng nhập)</b> &nbsp;|&nbsp;
-    Môn thi: <b id="candidate-subject">-</b>
-  </div>
-  <div class="timer-box">
-    <span class="timer-label">Thời gian còn lại</span>
-    <span class="timer" id="timer">--:--</span>
-  </div>
-</div>
-<div class="progress-track"><div class="progress-fill" id="progress-fill"></div></div>
-
-
-<div id="exam-loading" class="container"><p>Đang tải đề thi...</p></div>
-
-<div id="exam-body" class="exam-body" style="display:none;">
-  <div class="question-panel">
-    <div id="passage-slot"></div>
-    <div class="question-head">
-      <div class="qnum" id="question-number"></div>
-      <button class="btn secondary" id="flag-btn" style="font-size:12px;padding:6px 12px;">Đánh dấu câu hỏi</button>
-    </div>
-    <div class="question-content" id="question-content"></div>
-    <div id="question-answer-area"></div>
-    <div class="nav-row">
-      <button class="btn secondary" id="prev-btn">&larr; Câu trước</button>
-      <button class="btn" id="next-btn">Câu tiếp &rarr;</button>
-    </div>
-  </div>
-
-  <div class="side-panel">
-    <div class="side-title">Danh sách câu hỏi <span class="count" id="answered-count"></span></div>
-    <div class="qgrid" id="qgrid"></div>
-    <div class="legend">
-      <div><span class="dot" style="background:var(--green-600);"></span>Đã trả lời</div>
-      <div><span class="dot" style="background:var(--blue-500);"></span>Đang xem</div>
-      <div><span class="dot" style="background:var(--white);border:1px solid var(--line);box-shadow:0 0 0 2px var(--amber-600) inset;"></span>Đã đánh dấu</div>
-      <div><span class="dot" style="background:var(--white);border:1px solid var(--line);"></span>Chưa trả lời</div>
-    </div>
-    <div class="submit-bar">
-      <button class="btn" id="submit-btn">Nộp bài</button>
-    </div>
-  </div>
-</div>
-
-<div id="result-slot"></div>
-
-<script src="js/security.js?v=20260821-1"></script>
-<script src="js/shield.js?v=20260821-1"></script>
-<script src="js/theme.js?v=20260821-1" defer></script>
-<script src="js/exam.js?v=20260821-2" defer></script>
-<script src="js/calculator.js?v=20260821-1" defer></script>
-<script src="js/whiteboard.js?v=20260821-1" defer></script>
-<script src="js/translate.js?v=20260821-1" defer></script>
-<script src="js/sw-register.js?v=20260821-1" defer></script>
-</body>
-</html>
+      if ('requestIdleCallback' in window) {
+        requestIdleCallback(function() { window.loadKaTeX(); }, { timeout: 2000 });
+      } else {
+        setTimeout(function() { window.loadKaTeX(); }, 1000);
+      }
+    </script> </head> <body> <aside id="member-sidebar" class="member-sidebar" hidden aria-label="Điều hướng thành viên"> <a href="/dashboard.html" class="member-brand"><span>2TF</span><div><b>2TF529</b><small>Sổ tay luyện thi</small></div></a> <div class="member-identity"><span id="member-avatar">2T</span><div><b id="member-name">Thành viên</b><small id="member-year">Đang học tập</small></div></div> <nav class="member-links"> <a href="/dashboard.html"><span>🏠</span><b>Dashboard</b></a> <a href="/explore.html" class=""><span>📚</span><b>Tìm đề</b></a> <a href="/on-tap.html" class=""><span>✏️</span><b>Ôn tập</b></a> <a href="/lich-su.html" class=""><span>📋</span><b>Lịch sử</b></a> <a href="/tai-khoan.html"><span>👤</span><b>Hồ sơ</b></a> </nav> <button id="member-logout" class="member-logout" type="button"><span>🚪</span><b>Đăng xuất</b></button> </aside> <header class="site-header"> <h1 id="exam-title-header">Giao diện làm bài thi</h1> <div class="badge" id="exam-type-badge"></div> </header> <nav class="top-nav"> <button class="hamburger" id="hamburger-btn" aria-label="Menu">☰</button> <div class="nav-links"> <a href="/index.html" class="nav-link">Trang chủ</a> <a href="/explore.html" class="nav-link">Tìm đề thi</a> <a href="/on-tap.html" class="nav-link">Ôn theo dạng</a> <a href="/lich-su.html" class="nav-link">Lịch sử</a> <a href="/ung-ho.html" class="nav-link">Ủng hộ</a> <a id="account-nav-link" href="/tai-khoan.html" class="nav-link account-nav-link">Tài khoản</a> </div> <div class="nav-controls"> <select id="palette-select" class="palette-select" aria-label="Chọn tông màu"> <option value="1">🔵 Xanh dương - be ấm</option> <option value="2">🟢 Xanh lá - cam đất</option> <option value="3">🟣 Tím - hồng pastel</option> <option value="4">🔷 Navy dịu + màu môn học</option> <option value="5">🌊 Đại dương cyan</option> <option value="6">🌸 Hoa anh đào</option> <option value="7">🔥 Lửa ấm</option> <option value="8">🌿 Rừng xanh</option> <option value="9">🖤 Monochrome</option> <option value="10">☕ Cà phê vintage</option> </select> <button class="theme-toggle" id="theme-toggle" aria-label="Chuyển giao diện">🌙</button> </div> </nav> <!-- Content chính của từng trang -->      <div class="exam-topbar"> <div class="candidate-info"> <span class="status-dot"></span>Đang kết nối &nbsp;|&nbsp;
+      Thí sinh: <b>Khách (không cần đăng nhập)</b> &nbsp;|&nbsp;
+      Môn thi: <b id="candidate-subject">-</b> </div> <div class="timer-box"> <span class="timer-label">Thời gian còn lại</span> <span class="timer" id="timer">--:--</span> </div> </div> <div class="progress-track"><div class="progress-fill" id="progress-fill"></div></div> <div id="exam-loading" class="container"><p>Đang tải đề thi...</p></div> <div id="exam-body" class="exam-body" style="display:none;"> <div class="question-panel"> <div id="passage-slot"></div> <div class="question-head"> <div class="qnum" id="question-number"></div> <button class="btn secondary" id="flag-btn" style="font-size:12px;padding:6px 12px;">Đánh dấu câu hỏi</button> </div> <div class="question-content" id="question-content"></div> <div id="question-answer-area"></div> <div class="nav-row"> <button class="btn secondary" id="prev-btn">&larr; Câu trước</button> <button class="btn" id="next-btn">Câu tiếp &rarr;</button> </div> </div> <div class="side-panel"> <div class="side-title">Danh sách câu hỏi <span class="count" id="answered-count"></span></div> <div class="qgrid" id="qgrid"></div> <div class="legend"> <div><span class="dot" style="background:var(--green-600);"></span>Đã trả lời</div> <div><span class="dot" style="background:var(--blue-500);"></span>Đang xem</div> <div><span class="dot" style="background:var(--white);border:1px solid var(--line);box-shadow:0 0 0 2px var(--amber-600) inset;"></span>Đã đánh dấu</div> <div><span class="dot" style="background:var(--white);border:1px solid var(--line);"></span>Chưa trả lời</div> </div> <div class="submit-bar"> <button class="btn" id="submit-btn">Nộp bài</button> </div> </div> </div> <div id="result-slot"></div>  <!-- Security: load sớm, không defer --> <script src="/js/security.js?v=20260824-18"></script> <script src="/js/shield.js?v=20260824-18"></script> <!-- Core: theme + supabase + sw-register (defer) --> <script src="/js/theme.js?v=20260824-18" defer></script> <script src="/js/supabase.js?v=20260824-18" defer></script> <script src="/js/sw-register.js?v=20260824-18" defer></script> <!-- Floating tools (defer) --> <script src="/js/calculator.js?v=20260824-18" defer></script> <script src="/js/whiteboard.js?v=20260824-18" defer></script> <script src="/js/periodic-table.js?v=20260824-18" defer></script> <script src="/js/translate.js?v=20260824-18" defer></script> <!-- Page-specific scripts --> <script src="/js/exam.js?v=20260821-2" defer></script> </body> </html>

@@ -20,6 +20,37 @@ function updateThemeToggleIcon() {
 }
 
 document.addEventListener("DOMContentLoaded", function () {
+  // Giữ khung dashboard khi thành viên đi sang Tìm đề / Ôn tập / Lịch sử.
+  var memberSidebar = document.getElementById("member-sidebar");
+  if (memberSidebar && !window.location.pathname.endsWith("thi.html")) {
+    try {
+      var memberSession = JSON.parse(localStorage.getItem("sb_session") || "null");
+      var sessionAlive = memberSession && memberSession.user &&
+        (!memberSession.expires_at || memberSession.expires_at > Date.now() / 1000);
+      if (sessionAlive) {
+        var memberMeta = memberSession.user.user_metadata || {};
+        var memberDisplayName = memberMeta.username || memberMeta.full_name || memberMeta.name ||
+          (memberSession.user.email || "Thành viên").split("@")[0];
+        var memberName = document.getElementById("member-name");
+        var memberYear = document.getElementById("member-year");
+        var memberAvatar = document.getElementById("member-avatar");
+        if (memberName) memberName.textContent = memberDisplayName;
+        if (memberYear) memberYear.textContent = memberMeta.graduation_year ? "Thi " + memberMeta.graduation_year : "Đang học tập";
+        if (memberAvatar) memberAvatar.textContent = memberDisplayName.split(/\s+/).filter(Boolean).slice(-2).map(function (x) { return x[0]; }).join("").toUpperCase();
+        memberSidebar.hidden = false;
+        memberSidebar.setAttribute("aria-hidden", "false");
+        document.documentElement.classList.add("member-mode");
+      }
+    } catch (e) { /* Session hỏng: giữ giao diện công khai. */ }
+  }
+
+  var memberLogout = document.getElementById("member-logout");
+  if (memberLogout) memberLogout.addEventListener("click", async function () {
+    if (window.supabase && window.supabase.logout) await window.supabase.logout();
+    else localStorage.removeItem("sb_session");
+    window.location.replace("/tai-khoan.html");
+  });
+
   var navLinks = document.querySelector(".top-nav .nav-links");
   if (navLinks && !document.getElementById("account-nav-link")) {
     var accountLink = document.createElement("a");

@@ -253,11 +253,16 @@ function updateAuthUI() {
 
 // ── Khởi tạo ─────────────────────────────────────────────────────────────────
 
-async function initSupabase() {
-  // Xử lý redirect callback từ Discord/GitHub OAuth
-  await handleAuthCallback();
-  // Cập nhật UI
-  updateAuthUI();
+let supabaseInitPromise = null;
+function initSupabase() {
+  if (!supabaseInitPromise) {
+    supabaseInitPromise = (async () => {
+      // Xử lý redirect callback từ Discord/GitHub OAuth đúng một lần.
+      await handleAuthCallback();
+      updateAuthUI();
+    })();
+  }
+  return supabaseInitPromise;
 }
 
 // Export toàn cục để các file khác dùng

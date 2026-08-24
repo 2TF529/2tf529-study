@@ -1,5 +1,5 @@
 /* Service Worker — 2TF529
-   Phiên bản: v26 (2026-08-24)
+   Phiên bản: v31 (2026-08-24)
    Chiến lược cache:
      - HTML: Network-first (luôn fresh), fallback cache khi offline
      - CSS/JS: Cache-first (versioned immutable), cực nhanh từ lần 2
@@ -7,7 +7,7 @@
      - JSON đề thi: Cache-first, cực nhanh sau lần đầu
      - External (CDN, translate, desmos): Bỏ qua — không can thiệp
 */
-const CACHE = 'stu-static-v26';
+const CACHE = 'stu-static-v39';
 
 // Files được precache lúc SW install — shell tối thiểu để app chạy offline
 const PRECACHE = [
@@ -19,22 +19,25 @@ const PRECACHE = [
   './lich-su.html',
   './ung-ho.html',
   './tai-khoan.html',
-  './css/style.css?v=20260824-3',
-  './js/theme.js?v=20260824-3',
+  './dashboard.html',
+  './css/style.css?v=20260824-12',
+  './js/theme.js?v=20260824-12',
   './js/home.js?v=20260821-1',
   './js/explore.js?v=20260821-2',
   './js/ontap.js?v=20260821-1',
   './js/exam.js?v=20260821-2',
   './js/history.js?v=20260821-1',
-  './js/calculator.js?v=20260821-1',
-  './js/whiteboard.js?v=20260821-1',
-  './js/translate.js?v=20260821-1',
-  './js/sw-register.js?v=20260821-1',
-  './js/security.js?v=20260821-1',
-  './js/shield.js?v=20260821-1',
-  './js/supabase.js?v=20260824-3',
-  './js/account.js?v=20260824-3',
+  './js/calculator.js?v=20260824-12',
+  './js/whiteboard.js?v=20260824-12',
+  './js/periodic-table.js?v=20260824-18',
+  './js/translate.js?v=20260824-12',
+  './js/sw-register.js?v=20260824-12',
+  './js/security.js?v=20260824-12',
+  './js/shield.js?v=20260824-12',
+  './js/supabase.js?v=20260824-12',
+  './js/account.js?v=20260824-16',
   './data/taxonomy.json',
+  './data/random-study-links.txt',
   './data/stats.json',
   './data/id-map.json',
   './data/chunks/explore-l12.json',  // Khối 12 (phổ biến nhất - 4010 đề)

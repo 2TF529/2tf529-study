@@ -28,7 +28,7 @@ const {
   activeNav,
 } = Astro.props;
 
-const v = '20260824-3'; // version bust cho CSS/JS
+const v = '20260824-18'; // version bust cho CSS/JS
 ---
 
 <!DOCTYPE html>
@@ -77,6 +77,19 @@ const v = '20260824-3'; // version bust cho CSS/JS
 <slot name="head" />
 </head>
 <body>
+
+<aside id="member-sidebar" class="member-sidebar" hidden aria-label="Điều hướng thành viên">
+  <a href="/dashboard.html" class="member-brand"><span>2TF</span><div><b>2TF529</b><small>Sổ tay luyện thi</small></div></a>
+  <div class="member-identity"><span id="member-avatar">2T</span><div><b id="member-name">Thành viên</b><small id="member-year">Đang học tập</small></div></div>
+  <nav class="member-links">
+    <a href="/dashboard.html"><span>🏠</span><b>Dashboard</b></a>
+    <a href="/explore.html" class={activeNav === 'explore' ? 'active' : ''}><span>📚</span><b>Tìm đề</b></a>
+    <a href="/on-tap.html" class={activeNav === 'on-tap' ? 'active' : ''}><span>✏️</span><b>Ôn tập</b></a>
+    <a href="/lich-su.html" class={activeNav === 'lich-su' ? 'active' : ''}><span>📋</span><b>Lịch sử</b></a>
+    <a href="/tai-khoan.html"><span>👤</span><b>Hồ sơ</b></a>
+  </nav>
+  <button id="member-logout" class="member-logout" type="button"><span>🚪</span><b>Đăng xuất</b></button>
+</aside>
 
 <header class="site-header">
   <slot name="header-title">
@@ -129,6 +142,7 @@ const v = '20260824-3'; // version bust cho CSS/JS
 <!-- Floating tools (defer) -->
 <script is:inline src={`/js/calculator.js?v=${v}`} defer></script>
 <script is:inline src={`/js/whiteboard.js?v=${v}`} defer></script>
+<script is:inline src={`/js/periodic-table.js?v=${v}`} defer></script>
 <script is:inline src={`/js/translate.js?v=${v}`} defer></script>
 
 <!-- Page-specific scripts -->

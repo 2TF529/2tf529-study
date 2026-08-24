@@ -1,0 +1,301 @@
+<!DOCTYPE html><html lang="vi" data-astro-cid-3nssi2tu> <head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Dashboard — 2TF529</title><meta name="robots" content="noindex,nofollow"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet"><script>
+    (function(){
+      var d = document.documentElement;
+      d.setAttribute('data-theme', localStorage.getItem('theme') || (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'));
+    })();
+  </script><link rel="stylesheet" href="/assets/dashboard.V8Qs2Bv0.css"></head> <body data-astro-cid-3nssi2tu> <div class="loader" id="loader" data-astro-cid-3nssi2tu><div class="spinner" data-astro-cid-3nssi2tu></div></div> <div class="toast" id="toast" data-astro-cid-3nssi2tu></div> <div class="sb-overlay" id="sb-overlay" data-astro-cid-3nssi2tu></div> <!-- SIDEBAR --> <aside class="sidebar" id="sidebar" data-astro-cid-3nssi2tu> <a href="/dashboard.html" class="sb-logo" data-astro-cid-3nssi2tu> <div class="sb-logo-mark" data-astro-cid-3nssi2tu>2TF</div> <div data-astro-cid-3nssi2tu><b data-astro-cid-3nssi2tu>2TF529</b><small data-astro-cid-3nssi2tu>Sổ tay luyện thi</small></div> </a> <div class="sb-user" data-astro-cid-3nssi2tu> <div class="sb-avatar" id="sb-av" data-astro-cid-3nssi2tu><span id="sb-init" data-astro-cid-3nssi2tu>2T</span><img id="sb-av-img" alt="" hidden data-astro-cid-3nssi2tu></div> <div data-astro-cid-3nssi2tu> <div class="sb-uname" id="sb-name" data-astro-cid-3nssi2tu>Đang tải...</div> <div class="sb-usub" id="sb-sub" data-astro-cid-3nssi2tu>—</div> </div> </div> <nav class="sb-nav" data-astro-cid-3nssi2tu> <span class="sb-section" data-astro-cid-3nssi2tu>Menu chính</span> <a href="/dashboard.html" class="sb-link active" data-astro-cid-3nssi2tu><span class="ni" data-astro-cid-3nssi2tu>🏠</span> Trang chủ</a> <a href="/explore.html" class="sb-link" data-astro-cid-3nssi2tu><span class="ni" data-astro-cid-3nssi2tu>📚</span> Tìm đề thi</a> <a href="/on-tap.html" class="sb-link" data-astro-cid-3nssi2tu><span class="ni" data-astro-cid-3nssi2tu>✏️</span> Ôn theo dạng</a> <a href="/lich-su.html" class="sb-link" data-astro-cid-3nssi2tu><span class="ni" data-astro-cid-3nssi2tu>📋</span> Lịch sử làm bài</a> <span class="sb-section" style="margin-top:8px;" data-astro-cid-3nssi2tu>Cá nhân</span> <a href="/tai-khoan.html" class="sb-link" data-astro-cid-3nssi2tu><span class="ni" data-astro-cid-3nssi2tu>👤</span> Hồ sơ của tôi</a> <a href="/ung-ho.html" class="sb-link" data-astro-cid-3nssi2tu><span class="ni" data-astro-cid-3nssi2tu>💙</span> Ủng hộ 2TF</a> </nav> <div class="sb-bottom" data-astro-cid-3nssi2tu> <button class="sb-logout" id="dash-logout" data-astro-cid-3nssi2tu><span data-astro-cid-3nssi2tu>🚪</span> Đăng xuất</button> </div> </aside> <!-- MAIN --> <div class="main" data-astro-cid-3nssi2tu> <header class="topbar" data-astro-cid-3nssi2tu> <div class="topbar-l" data-astro-cid-3nssi2tu> <button class="hbtn" id="hbtn" aria-label="Menu" data-astro-cid-3nssi2tu>☰</button> <div data-astro-cid-3nssi2tu> <div class="topbar-title" data-astro-cid-3nssi2tu>Dashboard</div> <div class="topbar-sub" id="topbar-date" data-astro-cid-3nssi2tu></div> </div> </div> <div class="topbar-r" data-astro-cid-3nssi2tu> <button class="topbar-btn" id="theme-toggle-db" title="Đổi theme" data-astro-cid-3nssi2tu>🌙</button> <a href="/tai-khoan.html" class="topbar-profile" data-astro-cid-3nssi2tu>⚙ Hồ sơ</a> </div> </header> <div class="content" data-astro-cid-3nssi2tu> <!-- Hero --> <div class="hero" id="hero" data-astro-cid-3nssi2tu> <div class="hero-text" data-astro-cid-3nssi2tu> <div class="hero-greet" id="greet-time" data-astro-cid-3nssi2tu>Chào buổi sáng ☀️</div> <div class="hero-name" id="hero-name" data-astro-cid-3nssi2tu>Bạn ơi 👋</div> <div class="hero-goal" data-astro-cid-3nssi2tu>Mục tiêu: <span class="goal-chip" id="hero-goal" data-astro-cid-3nssi2tu>Chưa đặt nguyện vọng</span></div> </div> <div class="hero-streak" data-astro-cid-3nssi2tu> <div class="streak-fire" data-astro-cid-3nssi2tu>🔥</div> <div class="streak-num" id="streak-n" data-astro-cid-3nssi2tu>0</div> <div class="streak-lbl" data-astro-cid-3nssi2tu>Ngày học liên tiếp</div> </div> </div> <!-- Stats row --> <div class="stats" data-astro-cid-3nssi2tu> <div class="stat blue" data-astro-cid-3nssi2tu> <div class="stat-hd" data-astro-cid-3nssi2tu><span class="stat-lbl" data-astro-cid-3nssi2tu>Đề đã làm</span><span class="stat-ico" data-astro-cid-3nssi2tu>📝</span></div> <div class="stat-val" id="ds-exams" data-astro-cid-3nssi2tu>0</div> <div class="stat-sub" data-astro-cid-3nssi2tu>Tổng số lượt hoàn thành</div> </div> <div class="stat green" data-astro-cid-3nssi2tu> <div class="stat-hd" data-astro-cid-3nssi2tu><span class="stat-lbl" data-astro-cid-3nssi2tu>Ngày học</span><span class="stat-ico" data-astro-cid-3nssi2tu>📅</span></div> <div class="stat-val" id="ds-days" data-astro-cid-3nssi2tu>0</div> <div class="stat-sub" data-astro-cid-3nssi2tu>Số ngày có hoạt động</div> </div> <div class="stat amber" data-astro-cid-3nssi2tu> <div class="stat-hd" data-astro-cid-3nssi2tu><span class="stat-lbl" data-astro-cid-3nssi2tu>Điểm TB</span><span class="stat-ico" data-astro-cid-3nssi2tu>⭐</span></div> <div class="stat-val" id="ds-score" data-astro-cid-3nssi2tu>—</div> <div class="stat-sub" data-astro-cid-3nssi2tu>Trên thang điểm 10</div> </div> <button class="stat random-study-stat" id="random-study" type="button" data-astro-cid-3nssi2tu> <div class="stat-hd" data-astro-cid-3nssi2tu><span class="stat-lbl" data-astro-cid-3nssi2tu>Chọn giúp tôi</span><span class="stat-ico" data-astro-cid-3nssi2tu>✨</span></div> <div class="stat-val" data-astro-cid-3nssi2tu>Nếu bạn không biết học gì</div> <div class="stat-sub" id="random-study-count" aria-live="polite" data-astro-cid-3nssi2tu>Đang đếm danh sách…</div> </button> </div> <!-- Quick start --> <div class="stitle" data-astro-cid-3nssi2tu>🚀 Bắt đầu học ngay</div> <div class="qgrid" data-astro-cid-3nssi2tu> <a href="/explore.html?grade=l12&type=totnghiep" class="qcard" style="--qa:#4f8ef7" data-astro-cid-3nssi2tu> <div class="qcard-ico" data-astro-cid-3nssi2tu>🎓</div> <div class="qcard-title" data-astro-cid-3nssi2tu>Thi Tốt nghiệp THPT</div> <div class="qcard-desc" data-astro-cid-3nssi2tu>Đề thi giống giao diện Bộ Giáo dục, có đáp án chuẩn chính thức.</div> <div class="qcard-arrow" data-astro-cid-3nssi2tu>Luyện ngay →</div> </a> <a href="/explore.html?grade=l12" class="qcard" style="--qa:#22c55e" data-astro-cid-3nssi2tu> <div class="qcard-ico" data-astro-cid-3nssi2tu>📘</div> <div class="qcard-title" data-astro-cid-3nssi2tu>Đề Khối 12</div> <div class="qcard-desc" data-astro-cid-3nssi2tu>Toàn bộ đề thi khối 12 từ các tỉnh và trường trên cả nước.</div> <div class="qcard-arrow" data-astro-cid-3nssi2tu>Xem đề →</div> </a> <a href="/on-tap.html" class="qcard" style="--qa:#f59e0b" data-astro-cid-3nssi2tu> <div class="qcard-ico" data-astro-cid-3nssi2tu>✏️</div> <div class="qcard-title" data-astro-cid-3nssi2tu>Ôn theo dạng bài</div> <div class="qcard-desc" data-astro-cid-3nssi2tu>Chọn chủ đề, dạng bài để ôn tập có chọn lọc và hiệu quả hơn.</div> <div class="qcard-arrow" data-astro-cid-3nssi2tu>Ôn tập →</div> </a> <a href="/explore.html?subject=tong-hop" class="qcard" style="--qa:#a855f7" data-astro-cid-3nssi2tu> <div class="qcard-ico" data-astro-cid-3nssi2tu>🧠</div> <div class="qcard-title" data-astro-cid-3nssi2tu>Đánh giá Năng lực</div> <div class="qcard-desc" data-astro-cid-3nssi2tu>TSA · V-ACT · V-SAT · HSA · BCA · QĐA và các kỳ thi đặc biệt.</div> <div class="qcard-arrow" data-astro-cid-3nssi2tu>Xem thêm →</div> </a> <a href="/explore.html?type=hsg" class="qcard" style="--qa:#ef4444" data-astro-cid-3nssi2tu> <div class="qcard-ico" data-astro-cid-3nssi2tu>🏅</div> <div class="qcard-title" data-astro-cid-3nssi2tu>Học sinh Giỏi</div> <div class="qcard-desc" data-astro-cid-3nssi2tu>Đề thi HSG các cấp — tỉnh, quốc gia. Luyện thêm để vượt trội.</div> <div class="qcard-arrow" data-astro-cid-3nssi2tu>Chinh phục →</div> </a> <a href="/explore.html?group=ngoai-ngu" class="qcard" style="--qa:#0ea5e9" data-astro-cid-3nssi2tu> <div class="qcard-ico" data-astro-cid-3nssi2tu>🌐</div> <div class="qcard-title" data-astro-cid-3nssi2tu>Ngoại ngữ</div> <div class="qcard-desc" data-astro-cid-3nssi2tu>IELTS · TOEIC · HSK · TOPIK · JLPT · VSTEP · APTIS đầy đủ.</div> <div class="qcard-arrow" data-astro-cid-3nssi2tu>Học ngoại ngữ →</div> </a> </div> <!-- Dashboard grid --> <div class="dgrid" data-astro-cid-3nssi2tu> <!-- Lịch học --> <div class="panel" data-astro-cid-3nssi2tu> <div class="panel-hd" data-astro-cid-3nssi2tu> <div class="panel-hd-t" data-astro-cid-3nssi2tu>📆 Lịch học tháng này</div> <div class="calendar-nav" data-astro-cid-3nssi2tu><button type="button" id="calendar-prev" aria-label="Tháng trước" data-astro-cid-3nssi2tu>‹</button><span id="calendar-month" data-astro-cid-3nssi2tu></span><button type="button" id="calendar-next" aria-label="Tháng sau" data-astro-cid-3nssi2tu>›</button></div> </div> <div class="calendar-wrap" data-astro-cid-3nssi2tu> <div class="calendar-shell" data-astro-cid-3nssi2tu> <div class="calendar-main" data-astro-cid-3nssi2tu> <div class="month-calendar" id="month-calendar" data-astro-cid-3nssi2tu></div> <div class="cal-note" data-astro-cid-3nssi2tu>Ngày có hoàn thành bài luyện tập</div> </div> <aside class="calendar-agenda" data-astro-cid-3nssi2tu> <div class="agenda-title" id="agenda-title" data-astro-cid-3nssi2tu>Hoạt động hôm nay</div> <div class="agenda-list" id="agenda-list" data-astro-cid-3nssi2tu></div> </aside> </div> </div> </div> <!-- Right column --> <div style="display:flex;flex-direction:column;gap:20px;" data-astro-cid-3nssi2tu> <!-- Recent history --> <div class="panel" data-astro-cid-3nssi2tu> <div class="panel-hd" data-astro-cid-3nssi2tu> <div class="panel-hd-t" data-astro-cid-3nssi2tu>📋 Làm bài gần đây</div> <a href="/lich-su.html" class="panel-hd-a" data-astro-cid-3nssi2tu>Xem tất cả →</a> </div> <div class="panel-body" id="dash-hist" data-astro-cid-3nssi2tu> <div class="pempty" data-astro-cid-3nssi2tu>Đang tải...</div> </div> </div> <!-- System stats --> <div class="panel" data-astro-cid-3nssi2tu> <div class="panel-hd" data-astro-cid-3nssi2tu><div class="panel-hd-t" data-astro-cid-3nssi2tu>🌐 Hệ thống 2TF529</div></div> <div class="panel-body" style="padding:16px 20px;" data-astro-cid-3nssi2tu> <div id="sys-stats" class="sys-stat" style="color:var(--text2);font-size:13.5px;line-height:2.2;" data-astro-cid-3nssi2tu>Đang tải...</div> </div> </div> <!-- Community --> <div class="panel" data-astro-cid-3nssi2tu> <div class="panel-hd" data-astro-cid-3nssi2tu><div class="panel-hd-t" data-astro-cid-3nssi2tu>📣 Cộng đồng</div></div> <div class="panel-body" style="padding:10px;" data-astro-cid-3nssi2tu> <a href="https://t.me/ttfshool" target="_blank" rel="noopener" class="qcard" style="--qa:#0ea5e9;padding:14px;margin-bottom:8px;" data-astro-cid-3nssi2tu> <div style="display:flex;align-items:center;gap:10px;" data-astro-cid-3nssi2tu> <span style="font-size:22px;" data-astro-cid-3nssi2tu>✈️</span> <div data-astro-cid-3nssi2tu><div class="qcard-title" style="font-size:13px;" data-astro-cid-3nssi2tu>Nhóm Telegram</div><div class="qcard-desc" style="font-size:11.5px;" data-astro-cid-3nssi2tu>t.me/ttfshool</div></div> </div> </a> <a href="https://discord.gg/WS4VdsYxtQ" target="_blank" rel="noopener" class="qcard" style="--qa:#5865f2;padding:14px;" data-astro-cid-3nssi2tu> <div style="display:flex;align-items:center;gap:10px;" data-astro-cid-3nssi2tu> <span style="font-size:22px;" data-astro-cid-3nssi2tu>🎮</span> <div data-astro-cid-3nssi2tu><div class="qcard-title" style="font-size:13px;" data-astro-cid-3nssi2tu>Nhóm Discord</div><div class="qcard-desc" style="font-size:11.5px;" data-astro-cid-3nssi2tu>discord.gg/WS4VdsYxtQ</div></div> </div> </a> </div> </div> </div> </div> <section class="honor" id="bang-vinh-danh" data-astro-cid-3nssi2tu> <div class="stitle" data-astro-cid-3nssi2tu>🏆 Bảng Vinh Danh</div> <div class="leader-grid" data-astro-cid-3nssi2tu> <article class="leader-card" style="--leader:#2563eb" data-astro-cid-3nssi2tu> <div class="leader-title" data-astro-cid-3nssi2tu>⛏️ Top Cày Cuốc</div> <div class="leader-list" id="leader-diligent" data-astro-cid-3nssi2tu></div> </article> <article class="leader-card" style="--leader:#ef4444" data-astro-cid-3nssi2tu> <div class="leader-title" data-astro-cid-3nssi2tu>🔥 Top Giữ Lửa</div> <div class="leader-list" id="leader-streak" data-astro-cid-3nssi2tu></div> </article> </div> </section> </div> </div> <script src="/js/security.js?v=20260824-18"></script> <script src="/js/shield.js?v=20260824-18"></script> <script src="/js/supabase.js?v=20260824-18" defer></script> <script src="/js/sw-register.js?v=20260824-18" defer></script> <script src="/js/calculator.js?v=20260824-18" defer></script> <script src="/js/whiteboard.js?v=20260824-18" defer></script> <script src="/js/periodic-table.js?v=20260824-18" defer></script> <script>
+(function () {
+  const $ = id => document.getElementById(id);
+  let _tt;
+  let calendarOffset = 0;
+  let calendarHistory = [];
+  let selectedCalendarKey = '';
+  let randomStudyLinks = [];
+
+  function toast(txt, type='s') {
+    const el = $('toast');
+    el.textContent = txt;
+    el.className = `toast ${type} show`;
+    clearTimeout(_tt);
+    _tt = setTimeout(() => el.classList.remove('show'), 3200);
+  }
+
+  function initials(name) {
+    return (name||'2TF').split(/\s+/).filter(Boolean).slice(-2).map(x=>x[0]).join('').toUpperCase();
+  }
+
+  function greeting() {
+    const h = new Date().getHours();
+    if (h < 6)  return 'Thức khuya học bài rồi 🌙';
+    if (h < 12) return 'Chào buổi sáng ☀️';
+    if (h < 18) return 'Chào buổi chiều 🌤';
+    return 'Chào buổi tối 🌆';
+  }
+
+  function fmtDate(iso) {
+    return new Date(iso).toLocaleDateString('vi-VN', {day:'2-digit',month:'2-digit',year:'numeric'});
+  }
+
+  function localDateKey(value) {
+    const d = value instanceof Date ? value : new Date(value);
+    if (Number.isNaN(d.getTime())) return '';
+    return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`;
+  }
+
+  function scoreClass(s) {
+    if (typeof s !== 'number') return 'd';
+    return s >= 8 ? 'g' : s >= 5 ? 'o' : 'b';
+  }
+
+  function computeStats() {
+    let hist = [];
+    try { hist = JSON.parse(localStorage.getItem('examHistory')||'[]'); } catch {}
+    const days = [...new Set(hist.map(x=>localDateKey(x.date)).filter(Boolean))].sort().reverse();
+    let streak = 0;
+    const cur = new Date(); cur.setHours(0,0,0,0);
+    if (days[0]) {
+      const latest = new Date(days[0]+'T00:00:00');
+      if ((cur-latest)/86400000 <= 1) {
+        if (latest < cur) cur.setDate(cur.getDate()-1);
+        const set = new Set(days);
+        while (set.has(localDateKey(cur))) { streak++; cur.setDate(cur.getDate()-1); }
+      }
+    }
+    const scored = hist.filter(x=>typeof x.score==='number');
+    return {
+      hist,
+      days: days.length,
+      streak,
+      avg: scored.length ? (scored.reduce((s,x)=>s+x.score,0)/scored.length).toFixed(1) : '—'
+    };
+  }
+
+  function renderAgenda(hist,key) {
+    const items = hist.filter(item=>localDateKey(item.date)===key);
+    const date = key ? new Date(`${key}T12:00:00`) : new Date();
+    $('agenda-title').textContent = `Hoạt động ${date.toLocaleDateString('vi-VN',{day:'2-digit',month:'2-digit'})}`;
+    if (!items.length) {
+      $('agenda-list').innerHTML = '<div class="agenda-empty">Chưa có hoạt động học tập trong ngày này.</div>';
+      return;
+    }
+    const esc = value => { const d=document.createElement('div'); d.textContent=value||''; return d.innerHTML; };
+    $('agenda-list').innerHTML = items.slice(0,6).map(item=>`<div class="agenda-item"><b>${esc(item.title||'Đề thi')}</b><span>${typeof item.score==='number'?`${item.score.toFixed(1)} điểm`:'Đã hoàn thành'}</span></div>`).join('');
+  }
+
+  function renderMonthCalendar(hist) {
+    const now = new Date();
+    const view = new Date(now.getFullYear(),now.getMonth()+calendarOffset,1);
+    const nextView = new Date(view.getFullYear(),view.getMonth()+1,1);
+    const counts = hist.reduce((map,item) => {
+      const key = localDateKey(item.date);
+      if (key) map.set(key,(map.get(key)||0)+1);
+      return map;
+    }, new Map());
+    const firstLabel = view.toLocaleDateString('vi-VN',{month:'long'});
+    const secondLabel = nextView.toLocaleDateString('vi-VN',{month:'long'});
+    $('calendar-month').textContent = view.getFullYear()===nextView.getFullYear()
+      ? `${firstLabel} – ${secondLabel}, ${view.getFullYear()}`
+      : `${firstLabel} ${view.getFullYear()} – ${secondLabel} ${nextView.getFullYear()}`;
+    const visiblePrefixes = [view,nextView].map(date=>`${date.getFullYear()}-${String(date.getMonth()+1).padStart(2,'0')}`);
+    if (!visiblePrefixes.some(prefix=>selectedCalendarKey.startsWith(prefix))) {
+      selectedCalendarKey = calendarOffset===0 ? localDateKey(now) : `${visiblePrefixes[0]}-01`;
+    }
+    const root = $('month-calendar');
+    root.textContent = '';
+    [view,nextView].forEach(monthDate=>{
+      const year = monthDate.getFullYear();
+      const month = monthDate.getMonth();
+      const block = document.createElement('section');
+      block.className = 'calendar-month-block';
+      const title = document.createElement('h3');
+      title.className = 'calendar-month-title';
+      title.textContent = monthDate.toLocaleDateString('vi-VN',{month:'long',year:'numeric'});
+      const weekdays = document.createElement('div');
+      weekdays.className = 'calendar-weekdays';
+      weekdays.innerHTML = '<span>T2</span><span>T3</span><span>T4</span><span>T5</span><span>T6</span><span>T7</span><span>CN</span>';
+      const grid = document.createElement('div');
+      grid.className = 'calendar-grid';
+      const offset = (new Date(year,month,1).getDay()+6)%7;
+      const total = new Date(year,month+1,0).getDate();
+      for (let i=0;i<offset;i++) {
+        const empty = document.createElement('span');
+        empty.className = 'cal-day empty';
+        grid.appendChild(empty);
+      }
+      for (let day=1;day<=total;day++) {
+        const key = localDateKey(new Date(year,month,day));
+        const count = counts.get(key)||0;
+        const el = document.createElement('button');
+        el.type = 'button';
+        el.className = `cal-day${count?' active':''}${key===localDateKey(now)?' today':''}${key===selectedCalendarKey?' selected':''}`;
+        el.title = count ? `${day}/${month+1}: ${count} bài đã làm` : `${day}/${month+1}: chưa có hoạt động`;
+        el.setAttribute('aria-label',el.title);
+        el.innerHTML = `<span class="cal-num">${day}</span>${count?`<span class="cal-count">${count}</span>`:''}`;
+        el.addEventListener('click',()=>{ selectedCalendarKey=key; renderMonthCalendar(hist); });
+        grid.appendChild(el);
+      }
+      block.append(title,weekdays,grid);
+      root.appendChild(block);
+    });
+    renderAgenda(hist,selectedCalendarKey);
+  }
+
+  function renderHistory(hist) {
+    const el = $('dash-hist');
+    if (!hist.length) {
+      el.innerHTML = `<div class="pempty">Bạn chưa làm đề nào.<br><a href="/explore.html">Tìm đề để bắt đầu →</a></div>`;
+      return;
+    }
+    const esc = v => { const d=document.createElement('div'); d.textContent=v||''; return d.innerHTML; };
+    el.innerHTML = hist.slice(0,4).map(h => {
+      const sc = typeof h.score==='number' ? h.score.toFixed(1) : 'Đã làm';
+      const cls = scoreClass(h.score);
+      return `<a href="/thi.html?id=${encodeURIComponent(h.examId||'')}" class="hrow">
+        <div style="min-width:0"><div class="hrow-t">${esc(h.title||'Đề thi')}</div><div class="hrow-d">${fmtDate(h.date)}</div></div>
+        <div class="hscore ${cls}">${sc}</div>
+      </a>`;
+    }).join('');
+  }
+
+  function renderLeaderboards(name, avatarUrl, hist, streak) {
+    const esc = value => { const d=document.createElement('div'); d.textContent=value||''; return d.innerHTML; };
+    const escAttr = value => String(value||'').replace(/[&"<>]/g,ch=>({'&':'&amp;','"':'&quot;','<':'&lt;','>':'&gt;'}[ch]));
+    const avatar = avatarUrl ? `<img src="${escAttr(avatarUrl)}" alt="">` : esc(initials(name));
+    const row = value => `<div class="leader-row"><span class="leader-rank">1</span><span class="leader-avatar">${avatar}</span><span class="leader-name">${esc(name)}</span><span class="leader-value">${value}</span></div>`;
+    $('leader-diligent').innerHTML = hist.length ? row(`${hist.length} đề`) : '<div class="leader-empty">Hoàn thành đề đầu tiên để bắt đầu hành trình cày cuốc.</div>';
+    $('leader-streak').innerHTML = streak ? row(`${streak} ngày 🔥`) : '<div class="leader-empty">Học liên tiếp mỗi ngày để bắt đầu chuỗi giữ lửa.</div>';
+  }
+
+  function parseRandomStudyLinks(text) {
+    const source = text.split(/\r?\n/).slice(4)
+      .map(line=>line.trim())
+      .filter(line=>line && !line.startsWith('#'))
+      .map(line=>line.match(/https?:\/\/\S+/i)?.[0] || '')
+      .map(url=>url.replace(/[),.;]+$/,''));
+    return [...new Set(source.filter(Boolean).filter(url=>{
+      try { return ['http:','https:'].includes(new URL(url,location.origin).protocol); }
+      catch { return false; }
+    }))];
+  }
+
+  async function loadRandomStudyLinks(force=false) {
+    if (randomStudyLinks.length && !force) return randomStudyLinks;
+    const response = await fetch('/data/random-study-links.txt',{cache:'no-store'});
+    if (!response.ok) throw new Error('Không tải được danh sách');
+    randomStudyLinks = parseRandomStudyLinks(await response.text());
+    $('random-study-count').textContent = `Random 1 trong ${randomStudyLinks.length.toLocaleString('vi-VN')}`;
+    return randomStudyLinks;
+  }
+
+  async function openRandomStudy() {
+    const button = $('random-study');
+    button.disabled = true;
+    const tab = window.open('about:blank','_blank');
+    if (!tab) {
+      toast('Trình duyệt đang chặn tab mới. Hãy cho phép cửa sổ bật lên.','e');
+      button.disabled = false;
+      return;
+    }
+    tab.opener = null;
+    try {
+      const links = await loadRandomStudyLinks(true);
+      if (!links.length) { tab.close(); toast('Bạn chưa thêm link vào data/random-study-links.txt','e'); return; }
+      const chosen = links[Math.floor(Math.random()*links.length)];
+      tab.location.replace(chosen);
+    } catch { tab.close(); toast('Danh sách gợi ý học chưa sẵn sàng.','e'); }
+    finally { button.disabled = false; }
+  }
+
+  async function loadSysStats() {
+    try {
+      const r = await fetch('/data/stats.json', {cache:'no-store'});
+      const s = await r.json();
+      $('sys-stats').innerHTML =
+        `<b>${s.examCount}</b> đề thi<br><b>${s.questionCount}</b> câu hỏi<br><b>${s.subjectCount}</b> môn học`;
+    } catch {
+      $('sys-stats').textContent = 'Không tải được số liệu.';
+    }
+  }
+
+  function init() {
+    const user = window.supabase?.getUser?.();
+    if (!user) { window.location.replace('/tai-khoan.html'); return; }
+
+    // Ẩn loader
+    const loader = $('loader');
+    loader.classList.add('gone');
+    setTimeout(() => loader.style.display = 'none', 500);
+
+    // User info
+    const meta = user.user_metadata || {};
+    const name = meta.username || meta.full_name || meta.name || user.email?.split('@')[0] || 'Bạn';
+    const year = meta.graduation_year ? `Thi ${meta.graduation_year}` : 'Chưa chọn năm thi';
+    const goal = meta.first_choice || 'Chưa đặt nguyện vọng';
+    const avatarUrl = localStorage.getItem('account_avatar') || meta.avatar_url || '';
+
+    $('sb-init').textContent = initials(name);
+    $('sb-name').textContent = name;
+    $('sb-sub').textContent = year;
+    if (avatarUrl) { $('sb-av-img').src = avatarUrl; $('sb-av-img').hidden = false; }
+
+    $('greet-time').textContent = greeting();
+    $('hero-name').textContent = name + ' 👋';
+    $('hero-goal').textContent = goal;
+
+    const cover = localStorage.getItem('account_cover');
+    if (cover) {
+      const hero = $('hero');
+      hero.style.backgroundImage = `linear-gradient(135deg,rgba(9,18,32,.88) 0%,rgba(9,18,32,.5) 100%),url(${cover})`;
+      hero.style.backgroundSize = 'cover';
+      hero.style.backgroundPosition = 'center';
+    }
+
+    $('topbar-date').textContent = new Date().toLocaleDateString('vi-VN', {weekday:'long',day:'2-digit',month:'long',year:'numeric'});
+
+    const { hist, days, streak, avg } = computeStats();
+    $('ds-exams').textContent = hist.length;
+    $('ds-days').textContent = days;
+    $('ds-score').textContent = avg;
+    $('streak-n').textContent = streak;
+
+    renderHistory(hist);
+    calendarHistory = hist;
+    selectedCalendarKey = localDateKey(new Date());
+    renderMonthCalendar(hist);
+    renderLeaderboards(name, avatarUrl, hist, streak);
+    loadSysStats();
+    loadRandomStudyLinks().catch(()=>$('random-study-count').textContent='Random chưa sẵn sàng');
+    $('random-study').addEventListener('click',openRandomStudy);
+
+    $('calendar-prev').addEventListener('click',()=>{ calendarOffset--; selectedCalendarKey=''; renderMonthCalendar(calendarHistory); });
+    $('calendar-next').addEventListener('click',()=>{ calendarOffset++; selectedCalendarKey=''; renderMonthCalendar(calendarHistory); });
+
+    // Logout
+    $('dash-logout').addEventListener('click', async () => {
+      await window.supabase.logout();
+      window.location.replace('/tai-khoan.html');
+    });
+
+    // Mobile sidebar
+    const sidebar = $('sidebar');
+    const overlay = $('sb-overlay');
+    $('hbtn').addEventListener('click', () => { sidebar.classList.toggle('open'); overlay.classList.toggle('open'); });
+    overlay.addEventListener('click', () => { sidebar.classList.remove('open'); overlay.classList.remove('open'); });
+
+    // Theme toggle
+    const themeBtn = $('theme-toggle-db');
+    const updateIcon = () => {
+      themeBtn.textContent = document.documentElement.getAttribute('data-theme') === 'dark' ? '☀️' : '🌙';
+    };
+    updateIcon();
+    themeBtn.addEventListener('click', () => {
+      const next = document.documentElement.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+      document.documentElement.setAttribute('data-theme', next);
+      localStorage.setItem('theme', next);
+      updateIcon();
+    });
+  }
+
+  document.addEventListener('DOMContentLoaded', () => setTimeout(init, 120));
+})();
+</script> </body> </html>

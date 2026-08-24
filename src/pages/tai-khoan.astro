@@ -1,50 +1,434 @@
 ---
-import BaseLayout from '../layouts/BaseLayout.astro';
-const v = '20260824-3';
+// tai-khoan.astro — Trang đăng nhập / tạo tài khoản (standalone, không dùng BaseLayout)
+const v = '20260824-19';
 ---
-<BaseLayout title="Tài khoản học tập — 2TF529" description="Đăng nhập và xem hành trình luyện thi của bạn." noindex={true} pageScripts={[`/js/account.js?v=${v}`]} activeNav="tai-khoan">
-  <slot slot="header-title"><h1>HỒ SƠ HỌC TẬP</h1></slot>
-  <slot slot="header-badge"><div class="badge">2TF MEMBER</div></slot>
-  <main class="account-page">
-    <div id="account-message" class="account-message" hidden></div>
-    <section id="auth-screen" class="auth-screen">
-      <div class="book-auth">
-        <aside id="book-cover-preview" class="book-cover-panel">
-          <div class="cover-noise"></div><span class="cover-kicker">2TF STUDY JOURNAL</span>
-          <div class="cover-copy"><span class="cover-mark">✦</span><h2>Mỗi ngày một trang.<br>Mỗi đề một bước tiến.</h2><p>Lưu hành trình học và mục tiêu đại học của riêng bạn.</p></div>
-          <label class="upload-cover-btn">＋ Thêm ảnh bìa<input id="cover-input" type="file" accept="image/*" hidden></label>
-        </aside>
-        <div class="book-rings" aria-hidden="true">{Array.from({length: 9}).map(() => <i></i>)}</div>
-        <section class="book-form-panel">
-          <div class="auth-brand"><span>2TF</span><div><b>Sổ tay luyện thi</b><small>Học đều, tiến xa</small></div></div>
-          <div class="auth-tabs"><button type="button" class="active" data-auth-tab="login">Đăng nhập</button><button type="button" data-auth-tab="register">Tạo tài khoản</button></div>
-          <form id="login-form" class="account-form">
-            <label>Tên đăng nhập hoặc Gmail<input id="login-identifier" autocomplete="username" required placeholder="Tên của bạn hoặc name@gmail.com"></label>
-            <label>Mật khẩu<input id="login-password" type="password" autocomplete="current-password" minlength="6" required placeholder="••••••••"></label>
-            <button class="account-primary" type="submit">Mở sổ của tôi</button>
-            <div class="oauth-actions" aria-label="Đăng nhập bằng mạng xã hội">
-              <button class="oauth-auth-btn discord" data-oauth-provider="discord" type="button"><span aria-hidden="true">◉</span> Discord</button>
-              <button class="oauth-auth-btn github" data-oauth-provider="github" type="button"><span aria-hidden="true">◆</span> GitHub</button>
-            </div>
-            <p class="auth-note">Tên đăng nhập dùng trên thiết bị đã đăng ký; Gmail dùng được trên mọi thiết bị.</p>
-          </form>
-          <form id="register-form" class="account-form" hidden>
-            <div class="account-form-grid"><label>Tên của bạn<input id="register-name" autocomplete="name" maxlength="40" required placeholder="Nguyễn Hải Nam"></label><label>Năm thi tốt nghiệp<input id="register-year" type="number" min="2026" max="2040" required placeholder="2027"></label></div>
-            <label>Gmail<input id="register-email" type="email" autocomplete="email" required placeholder="name@gmail.com"></label>
-            <label>Mật khẩu<input id="register-password" type="password" autocomplete="new-password" minlength="6" required placeholder="Ít nhất 6 ký tự"></label>
-            <label>Nguyện vọng 1 của bạn<input id="register-choice" maxlength="120" required placeholder="Ví dụ: Đại học Bách khoa Hà Nội — CNTT"></label>
-            <button class="account-primary" type="submit">Tạo hành trình học</button>
-          </form>
-        </section>
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Tài khoản học tập — 2TF529</title>
+  <meta name="description" content="Đăng nhập và xem hành trình luyện thi của bạn.">
+  <meta name="robots" content="noindex,nofollow">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Lora:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+  <script is:inline>
+    (function(){
+      var d = document.documentElement;
+      d.setAttribute('data-theme', localStorage.getItem('theme') || (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'));
+      d.setAttribute('data-palette', localStorage.getItem('palette') || '9');
+    })();
+  </script>
+  <link rel="stylesheet" href={`/css/style.css?v=${v}`}>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; }
+    [hidden] { display: none !important; }
+
+    /* ── Page shell ── */
+    body { margin: 0; font-family: 'Inter', sans-serif; background: #0e0a05; }
+
+    .account-page {
+      min-height: 100vh;
+      display: flex; align-items: center; justify-content: center;
+      padding: 24px 16px;
+      background:
+        radial-gradient(ellipse 70% 60% at 20% 50%, rgba(60,35,10,.55) 0%, transparent 100%),
+        radial-gradient(ellipse 60% 50% at 80% 20%, rgba(15,40,90,.5) 0%, transparent 100%),
+        #0e0a05;
+    }
+    html[data-theme="light"] body { background:#edf2f8; }
+    html[data-theme="light"] .account-page {
+      background:radial-gradient(ellipse 65% 55% at 18% 30%,rgba(96,165,250,.18),transparent 100%),radial-gradient(ellipse 55% 45% at 82% 18%,rgba(251,191,36,.12),transparent 100%),#edf2f8;
+    }
+
+    /* ── Toast ── */
+    .account-message {
+      position: fixed; top: 16px; left: 50%;
+      transform: translateX(-50%) translateY(-80px);
+      z-index: 9999; max-width: 520px; width: calc(100% - 32px);
+      padding: 13px 20px; border-radius: 14px;
+      font-size: 14px; font-weight: 600; text-align: center;
+      transition: transform .35s cubic-bezier(.34,1.56,.64,1), opacity .25s;
+      opacity: 0; pointer-events: none;
+    }
+    .account-message:not([hidden]) { transform: translateX(-50%) translateY(0); opacity: 1; pointer-events: auto; }
+    .account-message.error   { background: rgba(185,28,28,.92); color: #fff; }
+    .account-message.success { background: rgba(21,128,61,.92); color: #fff; }
+
+    /* ══════════════════════════════
+       BOOK
+    ══════════════════════════════ */
+    .book {
+      display: flex; align-items: stretch;
+      border-radius: 4px 20px 20px 4px;
+      max-width: 900px; width: 100%;
+      box-shadow:
+        -16px 0 48px rgba(0,0,0,.7),
+        0 28px 72px rgba(0,0,0,.75),
+        0 0 0 1px rgba(0,0,0,.5);
+    }
+
+    /* ── LEFT: Bìa sách ── */
+    .cover {
+      flex: 0 0 360px;
+      min-height: 620px;
+      border-radius: 4px 0 0 4px;
+      background:
+        linear-gradient(160deg, rgba(9,18,32,.05) 0%, rgba(9,18,32,.78) 100%),
+        #0d1b2e;
+      background-size: cover;
+      background-position: center;
+      position: relative;
+      display: flex; flex-direction: column;
+      justify-content: space-between;
+      padding: 32px 36px;
+      overflow: hidden;
+    }
+    /* Curve shadow on right edge of cover */
+    .cover::after {
+      content: ''; position: absolute; inset: 0;
+      background: linear-gradient(to right, transparent 85%, rgba(0,0,0,.4) 100%);
+      pointer-events: none;
+    }
+    /* Paper noise */
+    .cover-noise {
+      position: absolute; inset: 0; pointer-events: none; z-index: 0;
+      opacity: .04;
+      background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+    }
+    .cover-kicker {
+      font-size: 9.5px; font-weight: 800; letter-spacing: 3.5px;
+      text-transform: uppercase; color: rgba(255,255,255,.38);
+      position: relative; z-index: 1;
+    }
+    .cover-body { position: relative; z-index: 1; }
+    .cover-star {
+      display: block; font-size: 30px; color: #f5c842;
+      margin-bottom: 16px;
+      filter: drop-shadow(0 0 10px rgba(245,200,66,.55));
+      animation: twinkle 3.5s ease-in-out infinite;
+    }
+    @keyframes twinkle {
+      0%,100% { transform: scale(1) rotate(0deg); opacity: 1; }
+      50%      { transform: scale(1.12) rotate(6deg); opacity: .75; }
+    }
+    .cover-title {
+      font-family: 'Lora', Georgia, serif;
+      font-size: 27px; font-weight: 600; font-style: italic;
+      color: #fff; line-height: 1.38; margin: 0 0 14px;
+      text-shadow: 0 2px 16px rgba(0,0,0,.55);
+    }
+    .cover-sub {
+      font-size: 13.5px; color: rgba(255,255,255,.52); line-height: 1.7; margin: 0;
+    }
+    .upload-cover-btn {
+      position: relative; z-index: 1;
+      display: inline-flex; align-items: center; gap: 7px;
+      padding: 9px 18px;
+      background: rgba(255,255,255,.1); border: 1.5px solid rgba(255,255,255,.16);
+      border-radius: 50px; color: rgba(255,255,255,.72);
+      font-size: 12.5px; font-weight: 600; cursor: pointer;
+      transition: background .2s, transform .2s; width: fit-content;
+      backdrop-filter: blur(6px);
+    }
+    .upload-cover-btn:hover { background: rgba(255,255,255,.18); transform: translateY(-1px); }
+    .upload-cover-btn input { display: none; }
+
+    /* ── SPINE: Gáy sách ── */
+    .spine {
+      flex: 0 0 30px;
+      background: linear-gradient(180deg, #3e2b0d 0%, #271c07 45%, #3e2b0d 100%);
+      display: flex; flex-direction: column;
+      align-items: center; justify-content: space-evenly;
+      padding: 22px 0;
+      position: relative; z-index: 2;
+      box-shadow:
+        inset 2px 0 6px rgba(255,200,100,.06),
+        inset -2px 0 10px rgba(0,0,0,.5);
+    }
+    .spine-ring {
+      width: 22px; height: 13px; border-radius: 50%;
+      border: 2.5px solid #6b4a1a;
+      background: linear-gradient(135deg, #4a3012, #271c07);
+      box-shadow: 0 0 0 1px rgba(255,200,100,.07), inset 0 1px 3px rgba(0,0,0,.6);
+    }
+
+    /* ── RIGHT: Trang giấy ── */
+    .page {
+      flex: 1; min-width: 0;
+      border-radius: 0 20px 20px 0;
+      background-color: #faf5e8;
+      background-image:
+        /* Ruled lines */
+        repeating-linear-gradient(
+          to bottom,
+          transparent 0px, transparent 31px,
+          rgba(170,148,100,.2) 31px, rgba(170,148,100,.2) 32px
+        ),
+        /* Red margin line */
+        linear-gradient(
+          to right,
+          transparent 56px,
+          rgba(210,90,80,.15) 56px, rgba(210,90,80,.15) 57.5px,
+          transparent 57.5px
+        );
+      padding: 36px 40px 40px 40px;
+      display: flex; flex-direction: column;
+      overflow-y: auto;
+      /* Left shadow (page gutter) */
+      box-shadow: inset 8px 0 20px rgba(0,0,0,.1);
+      position: relative;
+    }
+    /* Page curl bottom-right */
+    .page::after {
+      content: ''; position: absolute; bottom: 0; right: 0;
+      width: 44px; height: 44px;
+      background: linear-gradient(225deg, #ede5d0 50%, #faf5e8 50%);
+      border-radius: 20px 0 20px 0;
+      box-shadow: -2px -2px 6px rgba(0,0,0,.1);
+      pointer-events: none;
+    }
+
+    /* Brand */
+    .page-brand {
+      display: flex; align-items: center; gap: 12px; margin-bottom: 28px;
+    }
+    .brand-icon {
+      width: 42px; height: 42px; flex-shrink: 0;
+      background: linear-gradient(135deg, #1d4ed8, #3b82f6);
+      border-radius: 10px; display: grid; place-items: center;
+      font-size: 13px; font-weight: 900; color: #fff; letter-spacing: -.5px;
+      box-shadow: 0 3px 10px rgba(59,130,246,.32);
+    }
+    .brand-name { font-size: 15.5px; font-weight: 800; color: #1c1710; display: block; }
+    .brand-sub  { font-size: 11.5px; color: #9b886b; display: block; margin-top: 1px; }
+
+    /* Tabs */
+    .auth-tabs {
+      display: flex; border-bottom: 2px solid #e5d9be; margin-bottom: 24px;
+    }
+    .auth-tabs button {
+      flex: 1; padding: 9px 0;
+      background: transparent; border: none;
+      font-family: 'Inter', sans-serif; font-size: 14px; font-weight: 600;
+      color: #a89570; cursor: pointer;
+      position: relative; transition: color .2s;
+    }
+    .auth-tabs button::after {
+      content: ''; position: absolute; bottom: -2px; left: 0; right: 0;
+      height: 2px; background: #1d4ed8; border-radius: 2px;
+      opacity: 0; transition: opacity .2s;
+    }
+    .auth-tabs button.active { color: #1c1710; font-weight: 700; }
+    .auth-tabs button.active::after { opacity: 1; }
+
+    /* Account form */
+    .account-form { display: flex; flex-direction: column; gap: 15px; }
+    .account-form label {
+      display: flex; flex-direction: column; gap: 5px;
+      font-size: 10.5px; font-weight: 800;
+      color: #8b7655; letter-spacing: .6px; text-transform: uppercase;
+    }
+    .account-form input {
+      background: rgba(255,255,255,.75); border: 1.5px solid #d8cbaf;
+      border-radius: 10px; padding: 11px 15px;
+      color: #1c1710; font-size: 14px;
+      font-family: 'Inter', sans-serif; font-weight: 500;
+      transition: border-color .2s, box-shadow .2s, background .2s;
+      outline: none; width: 100%;
+      box-shadow: inset 0 1px 3px rgba(0,0,0,.05);
+    }
+    .account-form input::placeholder { color: #c5b493; font-weight: 400; }
+    .account-form input:focus {
+      border-color: #3b82f6; background: #fff;
+      box-shadow: 0 0 0 3px rgba(59,130,246,.12), inset 0 1px 2px rgba(0,0,0,.03);
+    }
+    .account-form-grid { display: grid; grid-template-columns: 1fr 90px; gap: 12px; }
+
+    /* Primary button */
+    .account-primary {
+      width: 100%; padding: 12px;
+      background: linear-gradient(135deg, #1d4ed8, #3b82f6);
+      border: none; border-radius: 12px;
+      color: #fff; font-size: 14.5px; font-weight: 700;
+      font-family: 'Inter', sans-serif; cursor: pointer;
+      transition: transform .18s, box-shadow .18s, filter .18s;
+      box-shadow: 0 4px 16px rgba(59,130,246,.4); margin-top: 4px;
+    }
+    .account-primary:hover:not(:disabled) {
+      transform: translateY(-2px); filter: brightness(1.07);
+      box-shadow: 0 8px 24px rgba(59,130,246,.45);
+    }
+    .account-primary:active:not(:disabled) { transform: translateY(0); }
+    .account-primary:disabled { opacity: .55; cursor: not-allowed; }
+
+    /* Auth note */
+    .auth-note { font-size: 11.5px; color: #a89570; text-align: center; line-height: 1.7; margin-top: 2px; }
+
+    /* OAuth */
+    .oauth-divider {
+      display: flex; align-items: center; gap: 12px;
+      color: #c5b493; font-size: 11.5px; margin: 2px 0;
+    }
+    .oauth-divider::before, .oauth-divider::after { content: ''; flex: 1; height: 1px; background: #e5d9be; }
+    .oauth-actions { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+    .oauth-auth-btn {
+      display: flex; align-items: center; justify-content: center; gap: 8px;
+      border: 0; border-radius: 10px; padding: 11px 14px;
+      color: #fff; font-weight: 700; font-size: 13px; cursor: pointer;
+      transition: transform .16s, filter .16s; font-family: 'Inter', sans-serif;
+    }
+    .oauth-auth-btn:hover { transform: translateY(-1px); filter: brightness(1.08); }
+    .oauth-auth-btn.discord { background: #5865f2; }
+    .oauth-auth-btn.github  { background: #24292f; }
+
+    /* Password toggle */
+    .password-field { position: relative; display: block; width: 100%; }
+    .account-form .password-field input { padding-right: 46px; }
+    .password-toggle {
+      position: absolute; top: 50%; right: 5px; transform: translateY(-50%);
+      width: 36px; height: 32px; border: 0; border-radius: 8px;
+      background: transparent; color: #c5b493; cursor: pointer;
+      display: grid; place-items: center; transition: background .15s, color .15s;
+    }
+    .password-toggle:hover { background: rgba(0,0,0,.06); color: #8b7655; }
+    .password-toggle svg { width: 18px; height: 18px; fill: none; stroke: currentColor; stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round; }
+    .password-toggle.is-visible { color: #1d4ed8; }
+
+    /* ── Responsive ── */
+    @media (max-width: 780px) {
+      .book { flex-direction: column; max-width: 440px; border-radius: 16px; }
+      .cover { flex: none; min-height: 200px; padding: 24px 28px; border-radius: 16px 16px 0 0; }
+      .cover::after { display: none; }
+      .spine { flex-direction: row; flex: none; height: 26px; padding: 0 16px; border-radius: 0; }
+      .spine-ring { width: 13px; height: 22px; }
+      .page { border-radius: 0 0 16px 16px; padding: 28px 24px; }
+      .page::after { display: none; }
+    }
+    @media (max-width: 440px) {
+      .account-form-grid { grid-template-columns: 1fr; }
+      .page { padding: 20px 16px; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Toast -->
+  <div id="account-message" class="account-message" hidden></div>
+
+  <!-- ═══════════════════════════════════════
+       AUTH SCREEN
+  ═══════════════════════════════════════════ -->
+  <div class="account-page">
+  <section id="auth-screen">
+    <div class="book">
+
+      <!-- LEFT: Bìa sách -->
+      <aside id="book-cover-preview" class="cover">
+        <div class="cover-noise"></div>
+        <span class="cover-kicker">2TF Study Journal</span>
+        <div class="cover-body">
+          <span class="cover-star">✦</span>
+          <h2 class="cover-title">Mỗi ngày một trang.<br>Mỗi đề một bước tiến.</h2>
+          <p class="cover-sub">Lưu hành trình học và mục tiêu đại học của riêng bạn.</p>
+        </div>
+        <label class="upload-cover-btn">
+          <span>＋</span> Thêm ảnh bìa
+          <input id="cover-input" type="file" accept="image/*">
+        </label>
+      </aside>
+
+      <!-- SPINE: Gáy sách -->
+      <div class="spine" aria-hidden="true">
+        {Array.from({length: 9}).map(() => <div class="spine-ring"></div>)}
       </div>
-    </section>
-    <section id="profile-screen" class="profile-screen" hidden>
-      <div id="profile-hero" class="profile-hero">
-        <div class="profile-identity"><div class="profile-avatar"><span id="avatar-initials">2T</span><img id="profile-avatar-img" alt="Ảnh đại diện" hidden><label title="Thêm ảnh đại diện">＋<input id="avatar-input" type="file" accept="image/*" hidden></label></div><div><span class="profile-welcome">Chào mừng trở lại</span><h2 id="profile-name"></h2><p><span id="profile-year"></span> · <span id="profile-goal"></span></p></div></div>
-        <div class="profile-actions"><label class="profile-cover-action">🖼 Đổi ảnh bìa<input id="profile-cover-input" type="file" accept="image/*" hidden></label><button id="account-logout" class="profile-logout">Đăng xuất</button></div>
-      </div>
-      <div class="account-stat-grid"><article><span>Đề đã làm</span><strong id="stat-exams">0</strong><small>Tổng số lượt hoàn thành</small></article><article><span>Ngày học</span><strong id="stat-days">0</strong><small>Số ngày có hoạt động</small></article><article><span>Chuỗi học</span><strong><span id="stat-streak">0</span> ngày</strong><small>Giữ nhịp mỗi ngày</small></article><article><span>Điểm trung bình</span><strong id="stat-score">—</strong><small>Trên thang điểm 10</small></article><article class="ranking-card"><span>Xếp hạng</span><strong>Đang cập nhật</strong><small>Sẽ mở khi có bảng xếp hạng cộng đồng</small></article></div>
-      <div class="account-dashboard-grid"><section class="account-panel"><div class="account-panel-head"><div><span>Hoạt động gần đây</span><h3>Những đề bạn vừa làm</h3></div><a href="/lich-su.html">Xem tất cả →</a></div><div id="recent-account-history"></div></section><section class="account-panel"><div class="account-panel-head"><div><span>Hồ sơ mục tiêu</span><h3>Thông tin của bạn</h3></div></div><form id="profile-form" class="account-form compact"><label>Tên hiển thị<input id="profile-name-input" required maxlength="40"></label><label>Năm thi tốt nghiệp<input id="profile-year-input" type="number" min="2026" max="2040"></label><label>Nguyện vọng 1<input id="profile-choice-input" maxlength="120"></label><label>Gmail<input id="profile-email" disabled></label><button class="account-primary" type="submit">Lưu thay đổi</button></form></section></div>
-    </section>
-  </main>
-</BaseLayout>
+
+      <!-- RIGHT: Trang giấy -->
+      <section class="page">
+        <div class="page-brand">
+          <div class="brand-icon">2TF</div>
+          <div>
+            <span class="brand-name">Sổ tay luyện thi</span>
+            <span class="brand-sub">Học đều, tiến xa</span>
+          </div>
+        </div>
+
+        <div class="auth-tabs">
+          <button type="button" class="active" data-auth-tab="login">Đăng nhập</button>
+          <button type="button" data-auth-tab="register">Tạo tài khoản</button>
+        </div>
+
+        <!-- Đăng nhập -->
+        <form id="login-form" class="account-form">
+          <label>
+            Tên đăng nhập hoặc Gmail
+            <input id="login-identifier" autocomplete="username" required
+                   placeholder="Tên của bạn hoặc name@gmail.com">
+          </label>
+          <label>
+            Mật khẩu
+            <input id="login-password" type="password" autocomplete="current-password"
+                   minlength="6" required placeholder="••••••••">
+          </label>
+          <button class="account-primary" type="submit">Mở sổ của tôi</button>
+          <div class="oauth-divider">hoặc đăng nhập bằng</div>
+          <div class="oauth-actions">
+            <button class="oauth-auth-btn discord" data-oauth-provider="discord" type="button">
+              <span>◉</span> Discord
+            </button>
+            <button class="oauth-auth-btn github" data-oauth-provider="github" type="button">
+              <span>◆</span> GitHub
+            </button>
+          </div>
+          <p class="auth-note">
+            Tên đăng nhập chỉ dùng trên thiết bị đã đăng ký.<br>
+            Gmail dùng được trên mọi thiết bị.
+          </p>
+        </form>
+
+        <!-- Tạo tài khoản -->
+        <form id="register-form" class="account-form" hidden>
+          <div class="account-form-grid">
+            <label>
+              Tên của bạn
+              <input id="register-name" autocomplete="name" maxlength="40"
+                     required placeholder="Nguyễn Văn A">
+            </label>
+            <label>
+              Năm TN
+              <input id="register-year" type="number" min="2025" max="2040"
+                     required placeholder="2027">
+            </label>
+          </div>
+          <label>
+            Gmail
+            <input id="register-email" type="email" autocomplete="email"
+                   required placeholder="name@gmail.com">
+          </label>
+          <label>
+            Mật khẩu
+            <input id="register-password" type="password" autocomplete="new-password"
+                   minlength="6" required placeholder="Ít nhất 6 ký tự">
+          </label>
+          <label>
+            Nguyện vọng 1 của bạn
+            <input id="register-choice" maxlength="120" required
+                   placeholder="Trường Đại Học 2TF SCHOOL - LTL">
+          </label>
+          <button class="account-primary" type="submit">Tạo hành trình học</button>
+        </form>
+      </section>
+
+    </div>
+  </section>
+  </div>
+
+  <script is:inline src={`/js/security.js?v=${v}`}></script>
+  <script is:inline src={`/js/shield.js?v=${v}`}></script>
+  <script is:inline src={`/js/theme.js?v=${v}`} defer></script>
+  <script is:inline src={`/js/supabase.js?v=${v}`} defer></script>
+  <script is:inline src={`/js/account.js?v=${v}`} defer></script>
+  <script is:inline src={`/js/sw-register.js?v=${v}`} defer></script>
+</body>
+</html>
