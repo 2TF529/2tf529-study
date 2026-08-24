@@ -432,7 +432,8 @@ function doSubmit(auto) {
 
   try {
     const history = JSON.parse(localStorage.getItem("examHistory") || "[]");
-    history.unshift({
+    const completedAt = new Date();
+    const entry = {
       examId: (examMeta && examMeta.id) || examData.id,
       title: examData.title,
       grade: (examMeta && examMeta.grade) || examData.grade,
@@ -443,10 +444,39 @@ function doSubmit(auto) {
       totalQuestions: total,
       answeredCount: answeredCount,
       answerSource: missingAnswer ? "missing" : (partialAnswer ? "partial" : (isOfficialAnswer() ? "official" : "ai")),
-      date: new Date().toISOString()
-    });
-    if (history.length > 50) history.length = 50;
+      date: completedAt.toISOString()
+    };
+
+    let stats;
+    try { stats = JSON.parse(localStorage.getItem("examStats") || "null"); } catch { stats = null; }
+    if (!stats || stats.version !== 1) {
+      const previousScores = history.filter(item => typeof item.score === "number");
+      const previousDays = history.map(item => {
+        const d = new Date(item.date);
+        return Number.isNaN(d.getTime()) ? "" : `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`;
+      }).filter(Boolean);
+      stats = {
+        version: 1,
+        totalCompleted: history.length,
+        scoredCount: previousScores.length,
+        scoreSum: previousScores.reduce((sum, item) => sum + item.score, 0),
+        activityDates: [...new Set(previousDays)]
+      };
+    }
+
+    stats.totalCompleted = Math.max(Number(stats.totalCompleted) || 0, history.length) + 1;
+    if (typeof entry.score === "number") {
+      stats.scoredCount = (Number(stats.scoredCount) || 0) + 1;
+      stats.scoreSum = (Number(stats.scoreSum) || 0) + entry.score;
+    }
+    const activityDate = `${completedAt.getFullYear()}-${String(completedAt.getMonth() + 1).padStart(2, "0")}-${String(completedAt.getDate()).padStart(2, "0")}`;
+    stats.activityDates = Array.isArray(stats.activityDates) ? stats.activityDates : [];
+    if (!stats.activityDates.includes(activityDate)) stats.activityDates.push(activityDate);
+
+    history.unshift(entry);
+    if (history.length > 200) history.length = 200;
     localStorage.setItem("examHistory", JSON.stringify(history));
+    localStorage.setItem("examStats", JSON.stringify(stats));
 
     if (window.supabase && typeof window.supabase.saveExamResult === 'function') {
       window.supabase.saveExamResult({

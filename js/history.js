@@ -112,6 +112,7 @@ function clearHistory() {
   if (!confirm("Xoá toàn bộ lịch sử làm bài? Hành động này không thể hoàn tác.")) return;
   try {
     localStorage.removeItem("examHistory");
+    localStorage.removeItem("examStats");
   } catch (e) {}
   render();
 }

@@ -1,6 +1,6 @@
 ---
 // dashboard.astro — Trang dashboard sau khi đăng nhập
-const v = '20260824-21';
+const v = '20260824-22';
 ---
 <!DOCTYPE html>
 <html lang="vi">
@@ -534,7 +534,10 @@ const v = '20260824-21';
   function computeStats() {
     let hist = [];
     try { hist = JSON.parse(localStorage.getItem('examHistory')||'[]'); } catch {}
-    const days = [...new Set(hist.map(x=>localDateKey(x.date)).filter(Boolean))].sort().reverse();
+    let stats = null;
+    try { stats = JSON.parse(localStorage.getItem('examStats')||'null'); } catch {}
+    const storedDays = Array.isArray(stats?.activityDates) ? stats.activityDates : [];
+    const days = [...new Set([...storedDays,...hist.map(x=>localDateKey(x.date))].filter(Boolean))].sort().reverse();
     let streak = 0;
     const cur = new Date(); cur.setHours(0,0,0,0);
     if (days[0]) {
@@ -546,11 +549,15 @@ const v = '20260824-21';
       }
     }
     const scored = hist.filter(x=>typeof x.score==='number');
+    const total = Math.max(Number(stats?.totalCompleted)||0,hist.length);
+    const scoredCount = Number(stats?.scoredCount)||0;
+    const scoreSum = Number(stats?.scoreSum)||0;
     return {
       hist,
+      total,
       days: days.length,
       streak,
-      avg: scored.length ? (scored.reduce((s,x)=>s+x.score,0)/scored.length).toFixed(1) : '—'
+      avg: scoredCount ? (scoreSum/scoredCount).toFixed(1) : (scored.length ? (scored.reduce((s,x)=>s+x.score,0)/scored.length).toFixed(1) : '—')
     };
   }
 
@@ -641,12 +648,12 @@ const v = '20260824-21';
     }).join('');
   }
 
-  function renderLeaderboards(name, avatarUrl, hist, streak) {
+  function renderLeaderboards(name, avatarUrl, total, streak) {
     const esc = value => { const d=document.createElement('div'); d.textContent=value||''; return d.innerHTML; };
     const escAttr = value => String(value||'').replace(/[&"<>]/g,ch=>({'&':'&amp;','"':'&quot;','<':'&lt;','>':'&gt;'}[ch]));
     const avatar = avatarUrl ? `<img src="${escAttr(avatarUrl)}" alt="">` : esc(initials(name));
     const row = value => `<div class="leader-row"><span class="leader-rank">1</span><span class="leader-avatar">${avatar}</span><span class="leader-name">${esc(name)}</span><span class="leader-value">${value}</span></div>`;
-    $('leader-diligent').innerHTML = hist.length ? row(`${hist.length} đề`) : '<div class="leader-empty">Hoàn thành đề đầu tiên để bắt đầu hành trình cày cuốc.</div>';
+    $('leader-diligent').innerHTML = total ? row(`${total} đề`) : '<div class="leader-empty">Hoàn thành đề đầu tiên để bắt đầu hành trình cày cuốc.</div>';
     $('leader-streak').innerHTML = streak ? row(`${streak} ngày 🔥`) : '<div class="leader-empty">Học liên tiếp mỗi ngày để bắt đầu chuỗi giữ lửa.</div>';
   }
 
@@ -736,8 +743,8 @@ const v = '20260824-21';
 
     $('topbar-date').textContent = new Date().toLocaleDateString('vi-VN', {weekday:'long',day:'2-digit',month:'long',year:'numeric'});
 
-    const { hist, days, streak, avg } = computeStats();
-    $('ds-exams').textContent = hist.length;
+    const { hist, total, days, streak, avg } = computeStats();
+    $('ds-exams').textContent = total;
     $('ds-days').textContent = days;
     $('ds-score').textContent = avg;
     $('streak-n').textContent = streak;
@@ -746,7 +753,7 @@ const v = '20260824-21';
     calendarHistory = hist;
     selectedCalendarKey = localDateKey(new Date());
     renderMonthCalendar(hist);
-    renderLeaderboards(name, avatarUrl, hist, streak);
+    renderLeaderboards(name, avatarUrl, total, streak);
     loadSysStats();
     loadRandomStudyLinks().catch(()=>$('random-study-count').textContent='Random chưa sẵn sàng');
     $('random-study').addEventListener('click',openRandomStudy);
