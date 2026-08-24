@@ -25,6 +25,13 @@ quarantine/
 *.part
 *.crdownload
 
+# Anh WebP da upload len Cloudflare R2 — khong can push len GitHub
+data/**/*.webp
+data/**/*.jpg
+data/**/*.jpeg
+data/**/*.png
+data/**/assets/
+
 # Local secrets
 .env
 .env.*
