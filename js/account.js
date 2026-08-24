@@ -4,13 +4,21 @@
     cover: localStorage.getItem('account_cover') || '',
     avatar: localStorage.getItem('account_avatar') || ''
   };
+  let messageTimer = 0;
 
   /* ── Toast ── */
   function message(text, type = '', autoHide = true) {
     const box = $('account-message');
+    window.clearTimeout(messageTimer);
     box.textContent = text;
     box.className = `account-message ${type}`;
     box.hidden = !text;
+    if (text && autoHide) {
+      messageTimer = window.setTimeout(() => {
+        box.hidden = true;
+        box.textContent = '';
+      }, type === 'error' ? 6000 : 3500);
+    }
   }
 
   /* ── Busy state ── */

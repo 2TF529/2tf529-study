@@ -11,6 +11,10 @@
 (function () {
   'use strict';
 
+  // Không chặn DevTools, phím tắt, chuột phải hoặc console.
+  // Những biện pháp này dễ nhận nhầm và làm giảm trải nghiệm nhưng không bảo vệ được mã phía client.
+  return;
+
   // Trang tài khoản cần bàn phím, trình quản lý mật khẩu và các luồng OAuth hoạt động
   // bình thường. Không áp dụng lớp chống DevTools tại đây để tránh nhận nhầm và che form.
   if (/\/(tai-khoan)(?:\.html)?\/?$/i.test(window.location.pathname)) return;
