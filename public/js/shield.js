@@ -11,6 +11,10 @@
 (function () {
   'use strict';
 
+  // Trang tài khoản cần bàn phím, trình quản lý mật khẩu và các luồng OAuth hoạt động
+  // bình thường. Không áp dụng lớp chống DevTools tại đây để tránh nhận nhầm và che form.
+  if (/\/(tai-khoan)(?:\.html)?\/?$/i.test(window.location.pathname)) return;
+
   // ===== 1. Chặn phím tắt mở DevTools =====
   document.addEventListener('keydown', function (e) {
     // Whitelist: Ctrl+C, Ctrl+V, Ctrl+A, Ctrl+X, Ctrl+Z, Ctrl+Y

@@ -14,7 +14,23 @@ async function supabaseFetch(path, options = {}) {
     'Authorization': session ? `Bearer ${session.access_token}` : `Bearer ${SUPABASE_ANON_KEY}`,
     ...options.headers,
   };
-  const res = await fetch(`${SUPABASE_URL}${path}`, { ...options, headers });
+  const controller = new AbortController();
+  const timeoutId = setTimeout(() => controller.abort(), 15000);
+  let res;
+  try {
+    res = await fetch(`${SUPABASE_URL}${path}`, {
+      ...options,
+      headers,
+      signal: options.signal || controller.signal,
+    });
+  } catch (error) {
+    if (error?.name === 'AbortError') {
+      throw new Error('Không thể kết nối máy chủ đăng nhập. Yêu cầu đã quá thời gian, vui lòng thử lại.');
+    }
+    throw new Error('Không thể kết nối máy chủ đăng nhập. Hãy kiểm tra mạng rồi thử lại.');
+  } finally {
+    clearTimeout(timeoutId);
+  }
   if (!res.ok) {
     const err = await res.text();
     throw new Error(`Supabase error ${res.status}: ${err}`);

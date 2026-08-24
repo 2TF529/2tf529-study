@@ -417,6 +417,7 @@ def run_with_browser_fetch(fetch_batch, batch_size: int = 4, include_vstep: bool
             jobs.append(("aptis", item, f"/api/proxy/exams/aptis/runtime/exams/by-slug/{item['slug']}"))
 
     created, failed, pending = [], [], []
+    rate_limited = False
 
     def consume(kind, item, raw):
         try:
@@ -443,7 +444,11 @@ def run_with_browser_fetch(fetch_batch, batch_size: int = 4, include_vstep: bool
                 raise ValueError("số phản hồi không khớp số request")
             for (kind, item, _), raw in zip(batch, payloads):
                 if isinstance(raw, dict) and raw.get("__error"):
-                    raise RuntimeError(f"{item['slug']}: {raw['__error']}")
+                    if "429" in str(raw["__error"]):
+                        rate_limited = True
+                        continue
+                    failed.append({"kind": kind, "slug": item.get("slug"), "error": str(raw["__error"])})
+                    continue
                 path = CACHE / kind / f"{slugify(item['slug'])}.json"
                 path.parent.mkdir(parents=True, exist_ok=True)
                 path.write_text(json.dumps(raw, ensure_ascii=False), encoding="utf-8")
@@ -454,6 +459,9 @@ def run_with_browser_fetch(fetch_batch, batch_size: int = 4, include_vstep: bool
                 try:
                     raw = fetch_batch([(kind, item["slug"], endpoint)])[0]
                     if isinstance(raw, dict) and raw.get("__error"):
+                        if "429" in str(raw["__error"]):
+                            rate_limited = True
+                            break
                         raise RuntimeError(raw["__error"])
                     path = CACHE / kind / f"{slugify(item['slug'])}.json"
                     path.parent.mkdir(parents=True, exist_ok=True)
@@ -461,11 +469,26 @@ def run_with_browser_fetch(fetch_batch, batch_size: int = 4, include_vstep: bool
                     consume(kind, item, raw)
                 except Exception as inner:
                     failed.append({"kind": kind, "slug": item.get("slug"), "error": str(inner)})
+        if rate_limited:
+            print(
+                "Nguồn đã đạt giới hạn xem bài chữa trong giờ; "
+                "đã lưu checkpoint và dừng an toàn.",
+                flush=True,
+            )
+            break
         done = min(start + batch_size, len(pending))
         if done % 40 == 0 or done == len(pending):
             print(f"Đã tải {done}/{len(pending)} mới — tổng tạo {len(created)}, lỗi {len(failed)}", flush=True)
 
-    report = {"catalogVstep": len(vstep_catalog), "catalogAptis": len(aptis_catalog), "created": len(created), "failed": failed}
+    processed = len(created) + len(failed)
+    report = {
+        "catalogVstep": len(vstep_catalog),
+        "catalogAptis": len(aptis_catalog),
+        "created": len(created),
+        "failed": failed,
+        "rateLimited": rate_limited,
+        "remaining": max(0, len(jobs) - processed),
+    }
     (CACHE / "report.json").write_text(json.dumps(report, ensure_ascii=False, indent=2), encoding="utf-8")
     print(json.dumps(report, ensure_ascii=False))
     return report
