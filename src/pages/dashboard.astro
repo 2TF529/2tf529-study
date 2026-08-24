@@ -1,6 +1,6 @@
 ---
 // dashboard.astro — Trang dashboard sau khi đăng nhập
-const v = '20260824-22';
+const v = '20260825-23';
 ---
 <!DOCTYPE html>
 <html lang="vi">
@@ -754,6 +754,29 @@ const v = '20260824-22';
     selectedCalendarKey = localDateKey(new Date());
     renderMonthCalendar(hist);
     renderLeaderboards(name, avatarUrl, total, streak);
+
+    // Cloud là nguồn thống kê chính; localStorage chỉ là dự phòng khi mất mạng.
+    window.supabase?.fetchUserStats?.().then(cloud => {
+      if (!cloud) return;
+      const cloudBaseTotal = Number(cloud.completed_exams) || 0;
+      const adminBonus = Number(cloud.admin_exam_bonus) || 0;
+      const displayTotal = Math.max(total, cloudBaseTotal) + adminBonus;
+      const displayDays = Math.max(days, Number(cloud.active_days) || 0);
+      const hasOverride = cloud.admin_streak_override !== null && cloud.admin_streak_override !== undefined;
+      const displayStreak = hasOverride
+        ? Math.max(0, Number(cloud.admin_streak_override) || 0)
+        : Math.max(streak, Number(cloud.current_streak) || 0);
+      const cloudScoredCount = Number(cloud.scored_count) || 0;
+      const displayAvg = cloudScoredCount
+        ? ((Number(cloud.score_sum) || 0) / cloudScoredCount).toFixed(1)
+        : avg;
+
+      $('ds-exams').textContent = Math.max(0, displayTotal);
+      $('ds-days').textContent = displayDays;
+      $('ds-score').textContent = displayAvg;
+      $('streak-n').textContent = displayStreak;
+      renderLeaderboards(name, avatarUrl, Math.max(0, displayTotal), displayStreak);
+    }).catch(() => {});
     loadSysStats();
     loadRandomStudyLinks().catch(()=>$('random-study-count').textContent='Random chưa sẵn sàng');
     $('random-study').addEventListener('click',openRandomStudy);

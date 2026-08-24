@@ -241,6 +241,23 @@ async function fetchCloudHistory(limit = 100) {
   }
 }
 
+// Lấy thống kê tổng hợp của tài khoản hiện tại. RLS chỉ cho user đọc dòng của chính mình.
+async function fetchUserStats() {
+  const user = getUser();
+  if (!user) return null;
+
+  try {
+    const rows = await supabaseFetch(
+      `/rest/v1/user_stats?user_id=eq.${encodeURIComponent(user.id)}` +
+      '&select=completed_exams,active_days,current_streak,longest_streak,last_study_date,score_sum,scored_count,admin_exam_bonus,admin_streak_override&limit=1'
+    );
+    return Array.isArray(rows) ? (rows[0] || null) : null;
+  } catch (e) {
+    console.warn('Không lấy được thống kê cloud:', e.message);
+    return null;
+  }
+}
+
 // ── Cập nhật UI hiển thị trạng thái đăng nhập ────────────────────────────────
 
 function updateAuthUI() {
@@ -289,6 +306,7 @@ window.supabase = {
   logout,
   saveExamResult,
   fetchCloudHistory,
+  fetchUserStats,
   signUpWithPassword,
   signInWithPassword,
   updateProfile,

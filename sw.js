@@ -7,7 +7,7 @@
      - JSON đề thi: Cache-first, cực nhanh sau lần đầu
      - External (CDN, translate, desmos): Bỏ qua — không can thiệp
 */
-const CACHE = 'stu-static-v42';
+const CACHE = 'stu-static-v43';
 
 // Files được precache lúc SW install — shell tối thiểu để app chạy offline
 const PRECACHE = [
@@ -34,7 +34,7 @@ const PRECACHE = [
   './js/sw-register.js?v=20260824-12',
   './js/security.js?v=20260824-12',
   './js/shield.js?v=20260824-21',
-  './js/supabase.js?v=20260824-20',
+  './js/supabase.js?v=20260825-23',
   './js/account.js?v=20260824-21',
   './data/taxonomy.json',
   './data/random-study-links.txt',
