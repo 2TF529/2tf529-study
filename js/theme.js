@@ -20,6 +20,22 @@ function updateThemeToggleIcon() {
 }
 
 document.addEventListener("DOMContentLoaded", function () {
+  var navLinks = document.querySelector(".top-nav .nav-links");
+  if (navLinks && !document.getElementById("account-nav-link")) {
+    var accountLink = document.createElement("a");
+    accountLink.id = "account-nav-link";
+    accountLink.href = "tai-khoan.html";
+    accountLink.className = "nav-link account-nav-link";
+    try {
+      var session = JSON.parse(localStorage.getItem("sb_session") || "null");
+      var meta = session && session.user && session.user.user_metadata;
+      accountLink.textContent = meta && (meta.username || meta.full_name)
+        ? "👤 " + (meta.username || meta.full_name)
+        : "Tài khoản";
+    } catch (e) { accountLink.textContent = "Tài khoản"; }
+    navLinks.appendChild(accountLink);
+  }
+
   var btn = document.getElementById("theme-toggle");
   if (btn) btn.addEventListener("click", toggleTheme);
   updateThemeToggleIcon();
@@ -35,7 +51,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
   // ===== Hamburger Menu Toggle =====
   var hamburgerBtn = document.getElementById("hamburger-btn");
-  var navLinks = document.querySelector(".top-nav .nav-links");
+  navLinks = document.querySelector(".top-nav .nav-links");
   if (hamburgerBtn && navLinks) {
     hamburgerBtn.addEventListener("click", function (e) {
       e.stopPropagation();

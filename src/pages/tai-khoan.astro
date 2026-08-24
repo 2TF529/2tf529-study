@@ -1,0 +1,50 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+const v = '20260824-3';
+---
+<BaseLayout title="Tài khoản học tập — 2TF529" description="Đăng nhập và xem hành trình luyện thi của bạn." noindex={true} pageScripts={[`/js/account.js?v=${v}`]} activeNav="tai-khoan">
+  <slot slot="header-title"><h1>HỒ SƠ HỌC TẬP</h1></slot>
+  <slot slot="header-badge"><div class="badge">2TF MEMBER</div></slot>
+  <main class="account-page">
+    <div id="account-message" class="account-message" hidden></div>
+    <section id="auth-screen" class="auth-screen">
+      <div class="book-auth">
+        <aside id="book-cover-preview" class="book-cover-panel">
+          <div class="cover-noise"></div><span class="cover-kicker">2TF STUDY JOURNAL</span>
+          <div class="cover-copy"><span class="cover-mark">✦</span><h2>Mỗi ngày một trang.<br>Mỗi đề một bước tiến.</h2><p>Lưu hành trình học và mục tiêu đại học của riêng bạn.</p></div>
+          <label class="upload-cover-btn">＋ Thêm ảnh bìa<input id="cover-input" type="file" accept="image/*" hidden></label>
+        </aside>
+        <div class="book-rings" aria-hidden="true">{Array.from({length: 9}).map(() => <i></i>)}</div>
+        <section class="book-form-panel">
+          <div class="auth-brand"><span>2TF</span><div><b>Sổ tay luyện thi</b><small>Học đều, tiến xa</small></div></div>
+          <div class="auth-tabs"><button type="button" class="active" data-auth-tab="login">Đăng nhập</button><button type="button" data-auth-tab="register">Tạo tài khoản</button></div>
+          <form id="login-form" class="account-form">
+            <label>Tên đăng nhập hoặc Gmail<input id="login-identifier" autocomplete="username" required placeholder="Tên của bạn hoặc name@gmail.com"></label>
+            <label>Mật khẩu<input id="login-password" type="password" autocomplete="current-password" minlength="6" required placeholder="••••••••"></label>
+            <button class="account-primary" type="submit">Mở sổ của tôi</button>
+            <div class="oauth-actions" aria-label="Đăng nhập bằng mạng xã hội">
+              <button class="oauth-auth-btn discord" data-oauth-provider="discord" type="button"><span aria-hidden="true">◉</span> Discord</button>
+              <button class="oauth-auth-btn github" data-oauth-provider="github" type="button"><span aria-hidden="true">◆</span> GitHub</button>
+            </div>
+            <p class="auth-note">Tên đăng nhập dùng trên thiết bị đã đăng ký; Gmail dùng được trên mọi thiết bị.</p>
+          </form>
+          <form id="register-form" class="account-form" hidden>
+            <div class="account-form-grid"><label>Tên của bạn<input id="register-name" autocomplete="name" maxlength="40" required placeholder="Nguyễn Hải Nam"></label><label>Năm thi tốt nghiệp<input id="register-year" type="number" min="2026" max="2040" required placeholder="2027"></label></div>
+            <label>Gmail<input id="register-email" type="email" autocomplete="email" required placeholder="name@gmail.com"></label>
+            <label>Mật khẩu<input id="register-password" type="password" autocomplete="new-password" minlength="6" required placeholder="Ít nhất 6 ký tự"></label>
+            <label>Nguyện vọng 1 của bạn<input id="register-choice" maxlength="120" required placeholder="Ví dụ: Đại học Bách khoa Hà Nội — CNTT"></label>
+            <button class="account-primary" type="submit">Tạo hành trình học</button>
+          </form>
+        </section>
+      </div>
+    </section>
+    <section id="profile-screen" class="profile-screen" hidden>
+      <div id="profile-hero" class="profile-hero">
+        <div class="profile-identity"><div class="profile-avatar"><span id="avatar-initials">2T</span><img id="profile-avatar-img" alt="Ảnh đại diện" hidden><label title="Thêm ảnh đại diện">＋<input id="avatar-input" type="file" accept="image/*" hidden></label></div><div><span class="profile-welcome">Chào mừng trở lại</span><h2 id="profile-name"></h2><p><span id="profile-year"></span> · <span id="profile-goal"></span></p></div></div>
+        <div class="profile-actions"><label class="profile-cover-action">🖼 Đổi ảnh bìa<input id="profile-cover-input" type="file" accept="image/*" hidden></label><button id="account-logout" class="profile-logout">Đăng xuất</button></div>
+      </div>
+      <div class="account-stat-grid"><article><span>Đề đã làm</span><strong id="stat-exams">0</strong><small>Tổng số lượt hoàn thành</small></article><article><span>Ngày học</span><strong id="stat-days">0</strong><small>Số ngày có hoạt động</small></article><article><span>Chuỗi học</span><strong><span id="stat-streak">0</span> ngày</strong><small>Giữ nhịp mỗi ngày</small></article><article><span>Điểm trung bình</span><strong id="stat-score">—</strong><small>Trên thang điểm 10</small></article><article class="ranking-card"><span>Xếp hạng</span><strong>Đang cập nhật</strong><small>Sẽ mở khi có bảng xếp hạng cộng đồng</small></article></div>
+      <div class="account-dashboard-grid"><section class="account-panel"><div class="account-panel-head"><div><span>Hoạt động gần đây</span><h3>Những đề bạn vừa làm</h3></div><a href="/lich-su.html">Xem tất cả →</a></div><div id="recent-account-history"></div></section><section class="account-panel"><div class="account-panel-head"><div><span>Hồ sơ mục tiêu</span><h3>Thông tin của bạn</h3></div></div><form id="profile-form" class="account-form compact"><label>Tên hiển thị<input id="profile-name-input" required maxlength="40"></label><label>Năm thi tốt nghiệp<input id="profile-year-input" type="number" min="2026" max="2040"></label><label>Nguyện vọng 1<input id="profile-choice-input" maxlength="120"></label><label>Gmail<input id="profile-email" disabled></label><button class="account-primary" type="submit">Lưu thay đổi</button></form></section></div>
+    </section>
+  </main>
+</BaseLayout>

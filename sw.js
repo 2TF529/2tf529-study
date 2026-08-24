@@ -1,5 +1,5 @@
 /* Service Worker — 2TF529
-   Phiên bản: v23 (2026-08-21)
+   Phiên bản: v26 (2026-08-24)
    Chiến lược cache:
      - HTML: Network-first (luôn fresh), fallback cache khi offline
      - CSS/JS: Cache-first (versioned immutable), cực nhanh từ lần 2
@@ -7,7 +7,7 @@
      - JSON đề thi: Cache-first, cực nhanh sau lần đầu
      - External (CDN, translate, desmos): Bỏ qua — không can thiệp
 */
-const CACHE = 'stu-static-v25';
+const CACHE = 'stu-static-v26';
 
 // Files được precache lúc SW install — shell tối thiểu để app chạy offline
 const PRECACHE = [
@@ -18,8 +18,9 @@ const PRECACHE = [
   './thi.html',
   './lich-su.html',
   './ung-ho.html',
-  './css/style.css?v=20260821-1',
-  './js/theme.js?v=20260821-1',
+  './tai-khoan.html',
+  './css/style.css?v=20260824-3',
+  './js/theme.js?v=20260824-3',
   './js/home.js?v=20260821-1',
   './js/explore.js?v=20260821-2',
   './js/ontap.js?v=20260821-1',
@@ -31,6 +32,8 @@ const PRECACHE = [
   './js/sw-register.js?v=20260821-1',
   './js/security.js?v=20260821-1',
   './js/shield.js?v=20260821-1',
+  './js/supabase.js?v=20260824-3',
+  './js/account.js?v=20260824-3',
   './data/taxonomy.json',
   './data/stats.json',
   './data/id-map.json',
@@ -117,9 +120,11 @@ self.addEventListener('fetch', (event) => {
   // SW tự cập nhật — không cache
   if (path.endsWith('sw.js')) return;
 
-  // CSS/JS versioned → cache-first (cực nhanh)
+  // Khi phát triển trên máy: luôn lấy CSS/JS mới để tránh giao diện cũ do cache.
+  // Production chỉ cache-first khi URL có version; file không version dùng network-first.
   if (/\.(css|js)(\?.*)?$/.test(path)) {
-    event.respondWith(cacheFirst(req));
+    const isLocal = ['localhost', '127.0.0.1'].includes(url.hostname);
+    event.respondWith((isLocal || !url.searchParams.has('v')) ? networkFirst(req) : cacheFirst(req));
     return;
   }
 
