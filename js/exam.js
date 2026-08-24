@@ -14,7 +14,7 @@ let flagged = new Set();
 let timeLeft = 0;
 let timerInterval = null;
 let submitted = false;
-const LANGUAGE_EXAM_TYPES = ["ielts", "toeic", "hsk", "topik", "jlpt"];
+const LANGUAGE_EXAM_TYPES = ["ielts", "toeic", "hsk", "topik", "jlpt", "vstep", "aptis"];
 
 // typesetMath — Dùng KaTeX (nhanh hơn MathJax 10x, chỉ ~150KB)
 function typesetMath(container) {
@@ -326,10 +326,11 @@ function renderQuestion(idx) {
     area.appendChild(tableWrap);
 
   } else if (q.type === "short_answer") {
-    const input = document.createElement("input");
-    input.type = "text";
-    input.className = "short-answer-input";
-    input.placeholder = "Nhập đáp án...";
+    const input = document.createElement(q.responseMode === "long" ? "textarea" : "input");
+    if (input.tagName === "INPUT") input.type = "text";
+    input.className = q.responseMode === "long" ? "long-answer-input" : "short-answer-input";
+    input.placeholder = q.responseMode === "long" ? "Nhập câu trả lời của bạn..." : "Nhập đáp án...";
+    if (q.responseMode === "long") input.rows = 9;
     input.value = answers[q.id] || "";
     input.addEventListener("input", () => {
       answers[q.id] = input.value;

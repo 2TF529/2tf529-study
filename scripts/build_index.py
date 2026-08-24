@@ -35,7 +35,7 @@ ID_RE = re.compile(r"^[a-z0-9\-]+$")
 STRUCTURED_ID_RE = re.compile(
     r"^(l(?:9|10|11|12))-([a-z0-9-]+?)-"
     r"(totnghiep|tuyensinh10|giuaki1|cuoiki1|giuaki2|cuoiki2|khaosat|hsg|"
-    r"qda|tsa|vact|vsat|hsa|bca|ielts|toeic|hsk|topik|jlpt)-"
+    r"qda|tsa|vact|vsat|hsa|bca|ielts|toeic|hsk|topik|jlpt|vstep|aptis)-"
 )
 PLACEHOLDER_TAIL = "Chọn phương án trả lời đúng nhất cho câu hỏi trong đề thi."
 PLACEHOLDER_OPTIONS = [

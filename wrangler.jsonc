@@ -1,13 +1,20 @@
 {
-  "$schema": "./node_modules/wrangler/config-schema.json",
-  "name": "2tf529-study-web",
-  "compatibility_date": "2025-01-01",
-  "build": {
-    // Cloudflare đang gọi thẳng `wrangler deploy`, vì vậy cần build Astro trước.
-    "command": "npm run build"
-  },
-  "assets": {
-    // Sau khi Astro build, output nằm trong dist/
-    "directory": "./dist"
-  }
+	"$schema": "./node_modules/wrangler/config-schema.json",
+	"name": "2tf529-study-web",
+	"compatibility_date": "2025-01-01",
+	"build": {
+		// Cloudflare đang gọi thẳng `wrangler deploy`, vì vậy cần build Astro trước.
+		"command": "npm run build"
+	},
+	"assets": {
+		// Sau khi Astro build, output nằm trong dist/
+		"directory": "./dist"
+	},
+	"d1_databases": [
+		{
+			"binding": "_2tf529_db",
+			"database_name": "2tf529_db",
+			"database_id": "17a5b351-e0d0-47b3-8687-73c723be1323"
+		}
+	]
 }

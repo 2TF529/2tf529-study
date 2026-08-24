@@ -1,23 +1,5 @@
-/**
- * upload-webp-to-r2.mjs
- *
- * Upload toàn bộ ảnh WebP từ data/**/assets/ lên Cloudflare R2.
- * Sử dụng S3-compatible API của R2 thông qua @aws-sdk/client-s3.
- *
- * Cách dùng:
- *   node scripts/upload-webp-to-r2.mjs
- *
- * Biến môi trường cần thiết (đặt trong .env hoặc export trước khi chạy):
- *   R2_ACCOUNT_ID     - Cloudflare Account ID (tìm ở dash.cloudflare.com)
- *   R2_ACCESS_KEY_ID  - R2 API token Access Key ID
- *   R2_SECRET_KEY     - R2 API token Secret Key
- *   R2_BUCKET_NAME    - Tên bucket R2 (vd: 2tf529-assets)
- *
- * Để lấy R2 credentials:
- *   1. Vào dash.cloudflare.com → R2 → Manage R2 API Tokens
- *   2. Create API Token với quyền Object Read & Write
- *   3. Copy Access Key ID và Secret Access Key
- */
+// upload-webp-to-r2.mjs
+// Upload anh WebP len Cloudflare R2
 
 import { S3Client, PutObjectCommand, HeadObjectCommand } from '@aws-sdk/client-s3';
 import { readFile, readdir, stat } from 'node:fs/promises';

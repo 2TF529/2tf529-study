@@ -7,7 +7,7 @@ let visibleLimit = 40;
 const PAGE_SIZE = 40;
 let keywordTimer = null;
 
-const LANGUAGE_EXAM_TYPES = ["ielts", "toeic", "hsk", "topik", "jlpt"];
+const LANGUAGE_EXAM_TYPES = ["ielts", "toeic", "hsk", "topik", "jlpt", "vstep", "aptis"];
 
 function qs(id) { return document.getElementById(id); }
 

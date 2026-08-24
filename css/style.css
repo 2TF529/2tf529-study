@@ -814,6 +814,18 @@ table.code-compare pre{margin:0;font-family:var(--font-mono);white-space:pre-wra
   font-family:var(--font-mono);
 }
 .short-answer-input:focus{border-color:var(--blue-500);}
+.long-answer-input{
+  width:100%;
+  min-height:180px;
+  resize:vertical;
+  padding:12px 14px;
+  border:1px solid var(--line);
+  border-radius:var(--radius-sm);
+  font:15px/1.55 var(--font-sans);
+  background:var(--white);
+  color:var(--ink-900);
+}
+.long-answer-input:focus{border-color:var(--blue-500);outline:none;}
 .nav-row{display:flex;justify-content:space-between;margin-top:22px;}
 
 /* ===== Sidebar nav grid ===== */
