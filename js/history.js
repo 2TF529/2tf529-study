@@ -116,6 +116,69 @@ function clearHistory() {
   render();
 }
 
+function updateAuthUI() {
+  const user = window.supabase?.getUser();
+  const loggedOutBox = qs("auth-logged-out");
+  const loginBtn = qs("auth-login-btn");
+  const loggedInBox = qs("auth-logged-in");
+  const userName = qs("auth-user-name");
+  const userAvatar = qs("auth-user-avatar");
+
+  if (user) {
+    if (loggedOutBox) loggedOutBox.style.display = "none";
+    if (loginBtn) loginBtn.style.display = "none";
+    if (loggedInBox) loggedInBox.style.display = "flex";
+    if (userName) userName.textContent = user.user_metadata?.full_name || user.email || "Học sinh";
+    if (userAvatar && user.user_metadata?.avatar_url) {
+      userAvatar.src = user.user_metadata.avatar_url;
+      userAvatar.style.display = "block";
+    }
+  } else {
+    if (loggedOutBox) loggedOutBox.style.display = "flex";
+    if (loginBtn) loginBtn.style.display = "inline-flex";
+    if (loggedInBox) loggedInBox.style.display = "none";
+  }
+}
+
+async function syncCloudHistory() {
+  if (!window.supabase || !window.supabase.getUser()) return;
+  try {
+    const cloudList = await window.supabase.fetchCloudHistory(50);
+    if (!cloudList || cloudList.length === 0) return;
+
+    const localList = loadHistory();
+    const localMap = new Map();
+    localList.forEach(item => localMap.set(item.examId + '_' + (item.date ? item.date.slice(0, 16) : ''), item));
+
+    cloudList.forEach(c => {
+      const key = c.exam_id + '_' + (c.created_at ? c.created_at.slice(0, 16) : '');
+      if (!localMap.has(key)) {
+        localList.push({
+          examId: c.exam_id,
+          title: c.exam_name || c.exam_id,
+          grade: c.grade || "",
+          subjectSlug: c.subject_slug || "",
+          isPractice: c.is_practice || false,
+          score: c.score,
+          correctCount: c.correct,
+          totalQuestions: c.total,
+          answeredCount: c.total,
+          answerSource: "official",
+          date: c.created_at,
+          isCloud: true
+        });
+      }
+    });
+
+    localList.sort((a, b) => new Date(b.date || 0) - new Date(a.date || 0));
+    if (localList.length > 50) localList.length = 50;
+    localStorage.setItem("examHistory", JSON.stringify(localList));
+    render();
+  } catch (e) {
+    console.warn("Lỗi sync lịch sử cloud:", e);
+  }
+}
+
 async function init() {
   try {
     const res = await fetch("data/taxonomy.json");
@@ -123,8 +186,29 @@ async function init() {
   } catch (e) {
     taxonomy = { grades: {}, subjects: {}, examTypes: {} };
   }
+  
   qs("clear-btn").addEventListener("click", clearHistory);
+
+  const loginBtn = qs("auth-login-btn");
+  if (loginBtn) {
+    loginBtn.addEventListener("click", () => {
+      if (window.supabase) window.supabase.loginWithGoogle();
+    });
+  }
+
+  const logoutBtn = qs("auth-logout-btn");
+  if (logoutBtn) {
+    logoutBtn.addEventListener("click", () => {
+      if (window.supabase) {
+        window.supabase.logout();
+        updateAuthUI();
+      }
+    });
+  }
+
+  updateAuthUI();
   render();
+  await syncCloudHistory();
 }
 
 init();

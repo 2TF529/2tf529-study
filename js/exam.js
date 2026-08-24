@@ -447,6 +447,20 @@ function doSubmit(auto) {
     });
     if (history.length > 50) history.length = 50;
     localStorage.setItem("examHistory", JSON.stringify(history));
+
+    if (window.supabase && typeof window.supabase.saveExamResult === 'function') {
+      window.supabase.saveExamResult({
+        examId: (examMeta && examMeta.id) || examData.id,
+        examName: examData.title,
+        subjectSlug: (examMeta && examMeta.subjectSlug) || examData.subjectSlug,
+        grade: (examMeta && examMeta.grade) || examData.grade,
+        score: missingAnswer ? null : Math.round(scoreOn10 * 100) / 100,
+        total: total,
+        correct: missingAnswer ? null : details.filter(d => d.correct).length,
+        durationSeconds: examData.duration ? (examData.duration * 60 - timeLeft) : 0,
+        isPractice: isPractice,
+      });
+    }
   } catch (e) {
     console.warn("Lỗi khi lưu lịch sử làm bài:", e);
   }
