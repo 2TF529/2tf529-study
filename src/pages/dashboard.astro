@@ -1,6 +1,6 @@
 ---
 // dashboard.astro — Trang dashboard sau khi đăng nhập
-const v = '20260825-23';
+const v = '20260825-24';
 ---
 <!DOCTYPE html>
 <html lang="vi">
@@ -708,7 +708,8 @@ const v = '20260825-23';
     }
   }
 
-  function init() {
+  async function init() {
+    await window.supabase?.initSupabase?.();
     const user = window.supabase?.getUser?.();
     if (!user) { window.location.replace('/tai-khoan.html'); return; }
 
@@ -810,7 +811,7 @@ const v = '20260825-23';
     });
   }
 
-  document.addEventListener('DOMContentLoaded', () => setTimeout(init, 120));
+  document.addEventListener('DOMContentLoaded', init);
 })();
 </script>
 </body>

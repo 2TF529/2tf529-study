@@ -7,11 +7,14 @@ const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBh
 // ── Gọi Supabase REST API trực tiếp (không cần cài SDK nặng) ──────────────────
 
 async function supabaseFetch(path, options = {}) {
+  const isPublicAuthRequest = path.startsWith('/auth/v1/signup') || path.startsWith('/auth/v1/token');
+  if (!isPublicAuthRequest) await refreshSessionIfNeeded();
   const session = getSession();
+  const sessionIsValid = !isPublicAuthRequest && session && (!session.expires_at || Date.now() / 1000 < session.expires_at - 5);
   const headers = {
     'Content-Type': 'application/json',
     'apikey': SUPABASE_ANON_KEY,
-    'Authorization': session ? `Bearer ${session.access_token}` : `Bearer ${SUPABASE_ANON_KEY}`,
+    'Authorization': sessionIsValid ? `Bearer ${session.access_token}` : `Bearer ${SUPABASE_ANON_KEY}`,
     ...options.headers,
   };
   const controller = new AbortController();
@@ -54,13 +57,47 @@ function getSession() {
     const raw = localStorage.getItem('sb_session');
     if (!raw) return null;
     const session = JSON.parse(raw);
-    // Kiểm tra token còn hạn không (expires_at là Unix timestamp giây)
-    if (session.expires_at && Date.now() / 1000 > session.expires_at - 60) {
-      localStorage.removeItem('sb_session');
-      return null;
-    }
+    // Giữ refresh_token khi access_token hết hạn; initSupabase sẽ tự làm mới phiên.
     return session;
   } catch { return null; }
+}
+
+let sessionRefreshPromise = null;
+async function refreshSessionIfNeeded(force = false) {
+  const session = getSession();
+  if (!session) return null;
+  const stillValid = !session.expires_at || Date.now() / 1000 < session.expires_at - 60;
+  if (!force && stillValid) return session;
+  if (!session.refresh_token) {
+    saveSession(null);
+    return null;
+  }
+  if (sessionRefreshPromise) return sessionRefreshPromise;
+
+  sessionRefreshPromise = (async () => {
+    try {
+      const response = await fetch(`${SUPABASE_URL}/auth/v1/token?grant_type=refresh_token`, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          'apikey': SUPABASE_ANON_KEY,
+          'Authorization': `Bearer ${SUPABASE_ANON_KEY}`,
+        },
+        body: JSON.stringify({ refresh_token: session.refresh_token }),
+      });
+      if (!response.ok) {
+        if (response.status === 400 || response.status === 401) saveSession(null);
+        throw new Error(`Không thể làm mới phiên (${response.status}).`);
+      }
+      const payload = await response.json();
+      payload.expires_at = Math.floor(Date.now() / 1000) + (payload.expires_in || 3600);
+      saveSession(payload);
+      return payload;
+    } finally {
+      sessionRefreshPromise = null;
+    }
+  })();
+  return sessionRefreshPromise;
 }
 
 function getUser() {
@@ -87,7 +124,8 @@ function resolveLoginEmail(identifier) {
 }
 
 async function signUpWithPassword({ username, email, password, graduationYear, firstChoice }) {
-  const payload = await supabaseFetch('/auth/v1/signup', {
+  const redirectTo = `${window.location.origin}/tai-khoan.html`;
+  const payload = await supabaseFetch(`/auth/v1/signup?redirect_to=${encodeURIComponent(redirectTo)}`, {
     method: 'POST',
     body: JSON.stringify({
       email: email.trim().toLowerCase(),
@@ -292,6 +330,7 @@ function initSupabase() {
     supabaseInitPromise = (async () => {
       // Xử lý redirect callback từ Discord/GitHub OAuth đúng một lần.
       await handleAuthCallback();
+      await refreshSessionIfNeeded().catch(() => null);
       updateAuthUI();
     })();
   }

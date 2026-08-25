@@ -40,6 +40,8 @@
       if (code === 'email_address_invalid') return 'Địa chỉ Gmail chưa hợp lệ. Vui lòng kiểm tra và sửa lại.';
       if (code === 'email_exists' || code === 'user_already_exists') return 'Gmail này đã được đăng ký. Hãy chuyển sang đăng nhập.';
       if (code === 'invalid_credentials') return 'Thông tin đăng nhập hoặc mật khẩu chưa đúng.';
+      if (code === 'email_not_confirmed') return 'Gmail chưa được xác minh. Hãy mở email xác nhận rồi đăng nhập lại.';
+      if (code === 'over_email_send_rate_limit') return 'Bạn vừa yêu cầu gửi email. Hãy đợi khoảng một phút rồi thử lại.';
       if (code === 'weak_password') return 'Mật khẩu chưa đủ mạnh. Hãy dùng ít nhất 6 ký tự.';
       text = payload.msg || payload.message || payload.error_description || text;
     } catch {}
@@ -151,7 +153,7 @@
           $('login-password').value
         );
         message('Đăng nhập thành công! Đang chuyển…', 'success');
-        setTimeout(() => window.location.replace('/dashboard.html'), 400);
+        window.location.replace('/dashboard.html');
       } catch (err) {
         message(friendlyAuthError(err), 'error');
       } finally { setBusy(form, false); }
@@ -172,10 +174,10 @@
         });
         if (result?.access_token) {
           message('Đã tạo tài khoản! Đang chuyển…', 'success');
-          setTimeout(() => window.location.replace('/dashboard.html'), 400);
+          window.location.replace('/dashboard.html');
         } else {
           switchMode('login');
-          message('Đã tạo tài khoản. Hãy kiểm tra Gmail để xác nhận rồi đăng nhập.', 'success');
+          message('Đã tạo tài khoản. Hãy kiểm tra cả Hộp thư đến và Spam để xác minh Gmail rồi đăng nhập.', 'success');
         }
       } catch (err) {
         message(friendlyAuthError(err), 'error');
