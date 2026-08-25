@@ -1,6 +1,6 @@
 ---
 // dashboard.astro — Trang dashboard sau khi đăng nhập
-const v = '20260825-24';
+const v = '20260825-25';
 ---
 <!DOCTYPE html>
 <html lang="vi">
@@ -222,6 +222,9 @@ const v = '20260825-24';
     .leader-list :global(.leader-row) { display:grid; grid-template-columns:28px 34px minmax(0,1fr) auto; gap:9px; align-items:center; padding:7px 0; }
     .leader-list :global(.leader-rank) { width:25px; height:25px; display:grid; place-items:center; border-radius:50%; background:var(--surface2); color:var(--text2); font-size:11px; font-weight:900; }
     .leader-list :global(.leader-row:first-child .leader-rank) { background:#fbbf24; color:#5b3700; }
+    .leader-list :global(.leader-row:nth-child(2) .leader-rank) { background:#cbd5e1; color:#334155; }
+    .leader-list :global(.leader-row:nth-child(3) .leader-rank) { background:#d97706; color:#fff7ed; }
+    .leader-list :global(.leader-row.is-me) { margin-inline:-8px; padding-inline:8px; border-radius:10px; background:color-mix(in srgb,var(--leader,var(--accent)) 8%,transparent); }
     .leader-list :global(.leader-avatar) { width:32px; height:32px; display:grid; place-items:center; border-radius:50%; color:#fff; background:linear-gradient(135deg,#2563eb,#7c3aed); font-size:11px; font-weight:900; overflow:hidden; }
     .leader-list :global(.leader-avatar img) { width:100%; height:100%; object-fit:cover; }
     .leader-list :global(.leader-name) { min-width:0; color:var(--text); font-size:12.5px; font-weight:750; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
@@ -648,13 +651,36 @@ const v = '20260825-24';
     }).join('');
   }
 
-  function renderLeaderboards(name, avatarUrl, total, streak) {
+  function renderLeaderboards(rows, currentUser, fallback) {
     const esc = value => { const d=document.createElement('div'); d.textContent=value||''; return d.innerHTML; };
     const escAttr = value => String(value||'').replace(/[&"<>]/g,ch=>({'&':'&amp;','"':'&quot;','<':'&lt;','>':'&gt;'}[ch]));
-    const avatar = avatarUrl ? `<img src="${escAttr(avatarUrl)}" alt="">` : esc(initials(name));
-    const row = value => `<div class="leader-row"><span class="leader-rank">1</span><span class="leader-avatar">${avatar}</span><span class="leader-name">${esc(name)}</span><span class="leader-value">${value}</span></div>`;
-    $('leader-diligent').innerHTML = total ? row(`${total} đề`) : '<div class="leader-empty">Hoàn thành đề đầu tiên để bắt đầu hành trình cày cuốc.</div>';
-    $('leader-streak').innerHTML = streak ? row(`${streak} ngày 🔥`) : '<div class="leader-empty">Học liên tiếp mỗi ngày để bắt đầu chuỗi giữ lửa.</div>';
+    const safeRows = Array.isArray(rows) ? rows : [];
+    const source = safeRows.length ? safeRows : (fallback ? [{
+      user_id: currentUser?.id,
+      display_name: fallback.name,
+      avatar_url: fallback.avatarUrl,
+      total_exams: fallback.total,
+      streak: fallback.streak,
+    }] : []);
+    const makeRow = (item, rank, value) => {
+      const name = item.display_name || 'Thành viên';
+      const avatarUrl = item.avatar_url || '';
+      const avatar = avatarUrl ? `<img src="${escAttr(avatarUrl)}" alt="" loading="lazy">` : esc(initials(name));
+      const mine = currentUser?.id && item.user_id === currentUser.id ? ' is-me' : '';
+      return `<div class="leader-row${mine}"><span class="leader-rank">${rank}</span><span class="leader-avatar">${avatar}</span><span class="leader-name">${esc(name)}</span><span class="leader-value">${value}</span></div>`;
+    };
+    const diligent = [...source]
+      .sort((a,b)=>(Number(b.total_exams)||0)-(Number(a.total_exams)||0) || String(a.display_name||'').localeCompare(String(b.display_name||''),'vi'))
+      .slice(0,10);
+    const keepingFire = [...source]
+      .sort((a,b)=>(Number(b.streak)||0)-(Number(a.streak)||0) || (Number(b.total_exams)||0)-(Number(a.total_exams)||0))
+      .slice(0,10);
+    $('leader-diligent').innerHTML = diligent.length
+      ? diligent.map((item,index)=>makeRow(item,index+1,`${Math.max(0,Number(item.total_exams)||0)} đề`)).join('')
+      : '<div class="leader-empty">Chưa có dữ liệu xếp hạng.</div>';
+    $('leader-streak').innerHTML = keepingFire.length
+      ? keepingFire.map((item,index)=>makeRow(item,index+1,`${Math.max(0,Number(item.streak)||0)} ngày 🔥`)).join('')
+      : '<div class="leader-empty">Chưa có dữ liệu xếp hạng.</div>';
   }
 
   function parseRandomStudyLinks(text) {
@@ -754,7 +780,7 @@ const v = '20260825-24';
     calendarHistory = hist;
     selectedCalendarKey = localDateKey(new Date());
     renderMonthCalendar(hist);
-    renderLeaderboards(name, avatarUrl, total, streak);
+    renderLeaderboards([], user, {name, avatarUrl, total, streak});
 
     // Cloud là nguồn thống kê chính; localStorage chỉ là dự phòng khi mất mạng.
     window.supabase?.fetchUserStats?.().then(cloud => {
@@ -776,7 +802,9 @@ const v = '20260825-24';
       $('ds-days').textContent = displayDays;
       $('ds-score').textContent = displayAvg;
       $('streak-n').textContent = displayStreak;
-      renderLeaderboards(name, avatarUrl, Math.max(0, displayTotal), displayStreak);
+    }).catch(() => {});
+    window.supabase?.fetchGlobalLeaderboard?.(10).then(rows => {
+      if (rows?.length) renderLeaderboards(rows, user);
     }).catch(() => {});
     loadSysStats();
     loadRandomStudyLinks().catch(()=>$('random-study-count').textContent='Random chưa sẵn sàng');

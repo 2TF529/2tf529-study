@@ -296,6 +296,25 @@ async function fetchUserStats() {
   }
 }
 
+// Bảng xếp hạng toàn hệ thống. RPC chỉ trả các trường công khai cần để hiển thị,
+// thay vì nới RLS cho trình duyệt đọc trực tiếp auth.users/user_stats.
+async function fetchGlobalLeaderboard(limit = 10) {
+  const user = getUser();
+  if (!user) return [];
+
+  const limitCount = Math.min(20, Math.max(1, Number(limit) || 10));
+  try {
+    const rows = await supabaseFetch('/rest/v1/rpc/get_global_leaderboard', {
+      method: 'POST',
+      body: JSON.stringify({ limit_count: limitCount }),
+    });
+    return Array.isArray(rows) ? rows : [];
+  } catch (e) {
+    console.warn('Khong lay duoc bang xep hang toan he thong:', e.message);
+    return [];
+  }
+}
+
 // ── Cập nhật UI hiển thị trạng thái đăng nhập ────────────────────────────────
 
 function updateAuthUI() {
@@ -346,6 +365,7 @@ window.supabase = {
   saveExamResult,
   fetchCloudHistory,
   fetchUserStats,
+  fetchGlobalLeaderboard,
   signUpWithPassword,
   signInWithPassword,
   updateProfile,
