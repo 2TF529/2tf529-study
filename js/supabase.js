@@ -174,6 +174,31 @@ async function updateProfile(data) {
   return user;
 }
 
+async function uploadProfileImage(blob, kind = 'avatar') {
+  const session = await refreshSessionIfNeeded();
+  const user = session?.user || getUser();
+  if (!session?.access_token || !user) throw new Error('Bạn chưa đăng nhập.');
+  if (!(blob instanceof Blob)) throw new Error('File ảnh không hợp lệ.');
+  if (!['avatar', 'cover', 'background'].includes(kind)) throw new Error('Loại ảnh không hợp lệ.');
+
+  const objectPath = `${user.id}/${kind}.webp`;
+  const response = await fetch(`${SUPABASE_URL}/storage/v1/object/profile-images/${objectPath}`, {
+    method: 'POST',
+    headers: {
+      'apikey': SUPABASE_ANON_KEY,
+      'Authorization': `Bearer ${session.access_token}`,
+      'Content-Type': 'image/webp',
+      'x-upsert': 'true',
+    },
+    body: blob,
+  });
+  if (!response.ok) {
+    const detail = await response.text();
+    throw new Error(`Không tải được ảnh lên máy chủ (${response.status}): ${detail}`);
+  }
+  return `${SUPABASE_URL}/storage/v1/object/public/profile-images/${objectPath}?v=${Date.now()}`;
+}
+
 // ── Auth: Đăng nhập OAuth ─────────────────────────────────────────────────────
 
 async function loginWithOAuth(provider) {
@@ -285,14 +310,22 @@ async function fetchUserStats() {
   if (!user) return null;
 
   try {
-    const rows = await supabaseFetch(
-      `/rest/v1/user_stats?user_id=eq.${encodeURIComponent(user.id)}` +
-      '&select=completed_exams,active_days,current_streak,longest_streak,last_study_date,score_sum,scored_count,admin_exam_bonus,admin_streak_override&limit=1'
-    );
+    const rows = await supabaseFetch('/rest/v1/rpc/get_my_user_stats', {
+      method: 'POST',
+      body: '{}',
+    });
     return Array.isArray(rows) ? (rows[0] || null) : null;
   } catch (e) {
-    console.warn('Không lấy được thống kê cloud:', e.message);
-    return null;
+    try {
+      const rows = await supabaseFetch(
+        `/rest/v1/user_stats?user_id=eq.${encodeURIComponent(user.id)}` +
+        '&select=completed_exams,active_days,current_streak,longest_streak,last_study_date,score_sum,scored_count,admin_exam_bonus,admin_streak_override,admin_score_override&limit=1'
+      );
+      return Array.isArray(rows) ? (rows[0] || null) : null;
+    } catch (fallbackError) {
+      console.warn('Khong lay duoc thong ke cloud:', fallbackError.message);
+      return null;
+    }
   }
 }
 
@@ -369,6 +402,7 @@ window.supabase = {
   signUpWithPassword,
   signInWithPassword,
   updateProfile,
+  uploadProfileImage,
   updateAuthUI,
   initSupabase,
 };

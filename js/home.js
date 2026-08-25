@@ -23,3 +23,63 @@ async function loadStats() {
 }
 
 loadStats();
+
+// Thông báo dịch vụ dành riêng cho khách chưa đăng nhập.
+// Chỉ hiện một lần trong mỗi tab và tự đóng sau 2 phút.
+function initGuestServicesNotice() {
+  const dismissedKey = "guest-services-notice-dismissed";
+  try {
+    if (sessionStorage.getItem(dismissedKey) === "1") return;
+  } catch (_) {
+    // Trình duyệt chặn sessionStorage vẫn có thể hiển thị thông báo bình thường.
+  }
+
+  if (window.supabase?.getSession?.()) return;
+
+  const notice = document.createElement("aside");
+  notice.className = "guest-services-notice";
+  notice.setAttribute("role", "dialog");
+  notice.setAttribute("aria-modal", "false");
+  notice.setAttribute("aria-labelledby", "guest-services-title");
+  notice.innerHTML = `
+    <button class="guest-services-close" type="button" aria-label="Đóng thông báo">×</button>
+    <div class="guest-services-heading">
+      <span class="guest-services-icon" aria-hidden="true">🎁</span>
+      <div>
+        <span class="guest-services-eyebrow">Dành cho thành viên</span>
+        <h2 id="guest-services-title">Đăng nhập để dùng thêm dịch vụ miễn phí</h2>
+      </div>
+    </div>
+    <ul class="guest-services-list">
+      <li><span aria-hidden="true">👤</span><span><b>Tài khoản:</b> đăng nhập để mở thêm nhiều dịch vụ miễn phí.</span></li>
+      <li><span aria-hidden="true">✈️</span><span><b>Telegram:</b> nhóm tài liệu chính của cộng đồng.</span></li>
+      <li><span aria-hidden="true">🎮</span><span><b>Discord:</b> có khóa học, tài liệu đại học, HOBO và không gian giao lưu, trao đổi.</span></li>
+    </ul>
+    <div class="guest-services-actions">
+      <a class="guest-services-primary" href="/tai-khoan.html">Mở phần Tài khoản</a>
+      <span>Thông báo tự đóng sau 2 phút</span>
+    </div>
+  `;
+
+  let closeTimer;
+  const handleEscape = (event) => {
+    if (event.key === "Escape" && notice.isConnected) closeNotice();
+  };
+  const closeNotice = () => {
+    if (!notice.isConnected) return;
+    clearTimeout(closeTimer);
+    document.removeEventListener("keydown", handleEscape);
+    notice.classList.add("is-closing");
+    try { sessionStorage.setItem(dismissedKey, "1"); } catch (_) {}
+    window.setTimeout(() => notice.remove(), 220);
+  };
+
+  notice.querySelector(".guest-services-close")?.addEventListener("click", closeNotice);
+  document.addEventListener("keydown", handleEscape);
+
+  document.body.appendChild(notice);
+  requestAnimationFrame(() => notice.classList.add("is-visible"));
+  closeTimer = window.setTimeout(closeNotice, 120000);
+}
+
+initGuestServicesNotice();

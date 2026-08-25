@@ -248,8 +248,14 @@ def convert_exam(meta: dict, raw_questions: list[dict]) -> dict | None:
             if not option:
                 return None
             options.append(f"{letter}. {option}")
+        # A few otherwise complete source sets contain a malformed question where
+        # two choices are byte-for-byte identical.  Drop only that question so it
+        # cannot make the generated exam fail project validation.
+        option_texts = [item.split(". ", 1)[-1].casefold() for item in options]
+        if len(set(option_texts)) != 4:
+            continue
         questions.append({
-            "id": number,
+            "id": len(questions) + 1,
             "type": "single",
             "content": content,
             "options": options,
