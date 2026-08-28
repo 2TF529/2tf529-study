@@ -1,0 +1,224 @@
+{
+  "id": "2026-toan10-test-bien-co-xac-suat-co-dap-an",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "code": "Test 01",
+  "title": "Toán 10 - Test biến cố và xác suất theo định nghĩa cổ điển - Có đáp án",
+  "duration": 25,
+  "answerSource": "official",
+  "passages": {},
+  "questions": [
+    {
+      "type": "single",
+      "chuong": "Xác suất",
+      "dang": "Định nghĩa cổ điển của xác suất",
+      "content": "Cho biến cố $A$ với không gian mẫu $\\Omega$. Xác suất của biến cố $A$ là",
+      "options": [
+        "A. $\\dfrac{n(\\Omega)}{n(A)}$",
+        "B. $1-\\dfrac{n(A)}{n(\\Omega)}$",
+        "C. $\\dfrac{n(A)}{n(\\Omega)}$",
+        "D. $n(\\Omega)-n(A)$"
+      ],
+      "answer": "A",
+      "id": 1
+    },
+    {
+      "type": "single",
+      "chuong": "Xác suất",
+      "dang": "Định nghĩa cổ điển của xác suất",
+      "content": "Gieo một con xúc xắc cân đối. Xác suất để mặt có số chấm chẵn xuất hiện là",
+      "options": [
+        "A. $0{,}2$",
+        "B. $0{,}3$",
+        "C. $0{,}4$",
+        "D. $0{,}5$"
+      ],
+      "answer": "D",
+      "id": 2
+    },
+    {
+      "type": "single",
+      "chuong": "Xác suất",
+      "dang": "Mô tả không gian mẫu",
+      "content": "Gieo một con xúc xắc hai lần. Số kết quả thuận lợi cho biến cố tổng số chấm của hai lần gieo bằng $8$ là",
+      "options": [
+        "A. $12$",
+        "B. $6$",
+        "C. $10$",
+        "D. $5$"
+      ],
+      "answer": "D",
+      "id": 3
+    },
+    {
+      "type": "single",
+      "chuong": "Xác suất",
+      "dang": "Xác suất chọn vật",
+      "content": "Một hộp chứa $11$ quả cầu, gồm $5$ quả xanh và $6$ quả đỏ. Lấy ngẫu nhiên lần lượt $2$ quả không hoàn lại. Xác suất để cả hai lần đều lấy được quả xanh là",
+      "options": [
+        "A. $\\dfrac{1}{11}$",
+        "B. $\\dfrac{9}{55}$",
+        "C. $\\dfrac{2}{11}$",
+        "D. $\\dfrac{4}{11}$"
+      ],
+      "answer": "C",
+      "id": 4
+    },
+    {
+      "type": "single",
+      "chuong": "Xác suất",
+      "dang": "Xác suất chọn vật",
+      "content": "Một hộp chứa $3$ quả cầu trắng và $2$ quả cầu đen. Lấy ngẫu nhiên đồng thời hai quả. Xác suất lấy được cả hai quả trắng là",
+      "options": [
+        "A. $\\dfrac{2}{10}$",
+        "B. $\\dfrac{5}{10}$",
+        "C. $\\dfrac{4}{10}$",
+        "D. $\\dfrac{3}{10}$"
+      ],
+      "answer": "D",
+      "id": 5
+    },
+    {
+      "type": "single",
+      "chuong": "Xác suất",
+      "dang": "Mô tả không gian mẫu",
+      "content": "Một con xúc xắc cân đối có sáu mặt ghi lần lượt các số $3,4,5,6,7,8$. Gieo một lần. Số phần tử của không gian mẫu là",
+      "options": [
+        "A. $5$",
+        "B. $6$",
+        "C. $8$",
+        "D. $3$"
+      ],
+      "answer": "B",
+      "id": 6
+    },
+    {
+      "type": "single",
+      "chuong": "Xác suất",
+      "dang": "Xác suất chọn người",
+      "content": "Một lớp có $20$ học sinh nam và $15$ học sinh nữ. Chọn ngẫu nhiên $3$ học sinh. Xác suất để ba học sinh được chọn cùng giới tính là",
+      "options": [
+        "A. $\\dfrac{90}{119}$",
+        "B. $\\dfrac{29}{119}$",
+        "C. $\\dfrac{80}{119}$",
+        "D. $\\dfrac{39}{119}$"
+      ],
+      "answer": "B",
+      "id": 7
+    },
+    {
+      "type": "single",
+      "chuong": "Xác suất",
+      "dang": "Định nghĩa cổ điển của xác suất",
+      "content": "Một lớp có $35$ học sinh, trong đó có $5$ học sinh tên Linh. Giáo viên gọi ngẫu nhiên một học sinh lên bảng. Xác suất gọi đúng một học sinh tên Linh là",
+      "options": [
+        "A. $\\dfrac{1}{175}$",
+        "B. $\\dfrac{1}{7}$",
+        "C. $\\dfrac{1}{35}$",
+        "D. $\\dfrac{1}{5}$"
+      ],
+      "answer": "B",
+      "id": 8
+    },
+    {
+      "type": "single",
+      "chuong": "Xác suất",
+      "dang": "Xác suất chọn vật",
+      "content": "Một hộp chứa $11$ quả cầu gồm $5$ quả xanh và $6$ quả đỏ. Chọn ngẫu nhiên đồng thời $2$ quả. Xác suất để hai quả cùng màu là",
+      "options": [
+        "A. $\\dfrac{8}{11}$",
+        "B. $\\dfrac{5}{22}$",
+        "C. $\\dfrac{6}{11}$",
+        "D. $\\dfrac{5}{11}$"
+      ],
+      "answer": "D",
+      "id": 9
+    },
+    {
+      "type": "single",
+      "chuong": "Quy tắc đếm",
+      "dang": "Quy tắc nhân",
+      "content": "Một tổ có $6$ học sinh nữ và $8$ học sinh nam. Số cách chọn một cặp gồm một học sinh nam và một học sinh nữ là",
+      "options": [
+        "A. $28$",
+        "B. $48$",
+        "C. $14$",
+        "D. $8$"
+      ],
+      "answer": "B",
+      "id": 10
+    },
+    {
+      "type": "single",
+      "chuong": "Xác suất",
+      "dang": "Xác suất chọn vật",
+      "content": "Trên giá có $4$ sách Toán, $3$ sách Vật lí và $2$ sách Hóa học. Lấy ngẫu nhiên $3$ quyển. Xác suất để cả ba đều là sách Toán là",
+      "options": [
+        "A. $\\dfrac{2}{7}$",
+        "B. $\\dfrac{1}{21}$",
+        "C. $\\dfrac{37}{42}$",
+        "D. $\\dfrac{5}{42}$"
+      ],
+      "answer": "B",
+      "id": 11
+    },
+    {
+      "type": "single",
+      "chuong": "Xác suất",
+      "dang": "Xác suất chọn người",
+      "content": "Một lớp có $20$ nam sinh và $15$ nữ sinh. Chọn ngẫu nhiên $4$ học sinh. Xác suất để nhóm được chọn có cả nam và nữ là",
+      "options": [
+        "A. $\\dfrac{4615}{5236}$",
+        "B. $\\dfrac{4651}{5236}$",
+        "C. $\\dfrac{4615}{5263}$",
+        "D. $\\dfrac{4610}{5236}$"
+      ],
+      "answer": "A",
+      "id": 12
+    },
+    {
+      "type": "single",
+      "chuong": "Xác suất",
+      "dang": "Xác suất chọn vật",
+      "content": "Một hộp có $5$ viên bi xanh, $4$ viên bi đỏ và $2$ viên bi vàng. Lấy ngẫu nhiên đồng thời hai viên. Xác suất lấy được hai viên cùng màu là",
+      "options": [
+        "A. $\\dfrac{7}{55}$",
+        "B. $\\dfrac{16}{55}$",
+        "C. $\\dfrac{2}{11}$",
+        "D. $\\dfrac{17}{55}$"
+      ],
+      "answer": "D",
+      "id": 13
+    },
+    {
+      "type": "single",
+      "chuong": "Xác suất",
+      "dang": "Định nghĩa cổ điển của xác suất",
+      "content": "Gieo một con xúc xắc cân đối. Xác suất xuất hiện mặt có số chấm chia hết cho $3$ là",
+      "options": [
+        "A. $\\dfrac{2}{3}$",
+        "B. $\\dfrac{1}{2}$",
+        "C. $\\dfrac{1}{3}$",
+        "D. $\\dfrac{1}{6}$"
+      ],
+      "answer": "C",
+      "id": 14
+    },
+    {
+      "type": "single",
+      "chuong": "Xác suất",
+      "dang": "Xác suất chọn vật",
+      "content": "Một hộp chứa $5$ quả cầu mang số lẻ và $6$ quả cầu mang số chẵn. Lấy ngẫu nhiên $2$ quả rồi nhân hai số ghi trên chúng. Xác suất để tích là số lẻ là",
+      "options": [
+        "A. $\\dfrac{6}{11}$",
+        "B. $\\dfrac{2}{11}$",
+        "C. $\\dfrac{1}{3}$",
+        "D. $\\dfrac{3}{11}$"
+      ],
+      "answer": "B",
+      "id": 15
+    }
+  ]
+}

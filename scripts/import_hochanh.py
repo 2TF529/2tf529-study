@@ -197,6 +197,17 @@ def remove_option_letter(value: str, letter: str) -> str:
     return re.sub(rf"^\s*{letter}\s*[.):-]\s*", "", value, flags=re.IGNORECASE).strip()
 
 
+def remove_inline_source_note(value: str) -> str:
+    """Remove publisher URL notes that are not part of the exam question."""
+    value = re.sub(
+        r"\s*\((?:Source\s*:\s*)?(?:https?://|www\.)[^)]*\)",
+        "",
+        value,
+        flags=re.IGNORECASE,
+    )
+    return compact_text(value)
+
+
 def infer_exam_type(title: str, grade: int) -> str:
     plain = slugify(title)
     if "hoc-sinh-gioi" in plain or re.search(r"(^|-)hsg($|-)", plain):
@@ -242,6 +253,7 @@ def convert_exam(meta: dict, raw_questions: list[dict]) -> dict | None:
         if not prompt:
             return None
         content = f"{context}\n\n{prompt}".strip() if context else prompt
+        content = remove_inline_source_note(content)
         options = []
         for letter, key in zip("ABCD", ("choice_a", "choice_b", "choice_c", "choice_d")):
             option = remove_option_letter(html_to_text(raw.get(key)), letter)

@@ -50,6 +50,10 @@ const s3 = new S3Client({
 
 // ── Tìm tất cả file WebP trong data/ ─────────────────────────────────────────
 const dataDir = resolve(process.cwd(), 'data');
+const prefixArgIndex = process.argv.indexOf('--prefix');
+const uploadPrefix = prefixArgIndex >= 0
+  ? (process.argv[prefixArgIndex + 1] ?? '').replace(/\\/g, '/').replace(/^\/+|\/+$/g, '')
+  : '';
 
 async function* walkWebp(dir) {
   for (const entry of await readdir(dir, { withFileTypes: true })) {
@@ -88,7 +92,10 @@ console.log(`🚀 Bắt đầu upload WebP lên R2 bucket: ${BUCKET_NAME}`);
 console.log(`📁 Source: ${dataDir}\n`);
 
 const files = [];
-for await (const f of walkWebp(dataDir)) files.push(f);
+for await (const f of walkWebp(dataDir)) {
+  const rel = relative(dataDir, f).replace(/\\/g, '/');
+  if (!uploadPrefix || rel.startsWith(uploadPrefix)) files.push(f);
+}
 
 console.log(`📊 Tìm thấy ${files.length} file WebP\n`);
 

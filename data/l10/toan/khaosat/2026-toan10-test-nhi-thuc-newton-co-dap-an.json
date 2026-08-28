@@ -1,0 +1,224 @@
+{
+  "id": "2026-toan10-test-nhi-thuc-newton-co-dap-an",
+  "grade": "l10",
+  "subjectSlug": "toan",
+  "examType": "khaosat",
+  "year": 2026,
+  "code": "Test 03",
+  "title": "Toán 10 - Test nhị thức Newton - Có đáp án",
+  "duration": 25,
+  "answerSource": "official",
+  "passages": {},
+  "questions": [
+    {
+      "type": "single",
+      "chuong": "Nhị thức Newton",
+      "dang": "Số số hạng",
+      "content": "Khai triển $(x+1)^{2022}$ có bao nhiêu số hạng?",
+      "options": [
+        "A. $2022$",
+        "B. $2023$",
+        "C. $2021$",
+        "D. $2024$"
+      ],
+      "answer": "B",
+      "id": 1
+    },
+    {
+      "type": "single",
+      "chuong": "Nhị thức Newton",
+      "dang": "Tìm hệ số",
+      "content": "Hệ số của $x^3$ trong khai triển $(2x+1)^5$ là",
+      "options": [
+        "A. $-80$",
+        "B. $10$",
+        "C. $40$",
+        "D. $80$"
+      ],
+      "answer": "D",
+      "id": 2
+    },
+    {
+      "type": "single",
+      "chuong": "Nhị thức Newton",
+      "dang": "Số số hạng",
+      "content": "Khai triển $(x+1)^n$, với $n\\in\\mathbb{N}^*$, có $18$ số hạng. Giá trị của $n$ là",
+      "options": [
+        "A. $16$",
+        "B. $17$",
+        "C. $15$",
+        "D. $14$"
+      ],
+      "answer": "B",
+      "id": 3
+    },
+    {
+      "type": "single",
+      "chuong": "Nhị thức Newton",
+      "dang": "Số hạng tổng quát",
+      "content": "Số hạng tổng quát trong khai triển $(a+b)^4$ là",
+      "options": [
+        "A. $C_5^{k-1}a^{4-k}b^k$",
+        "B. $C_4^ka^{4-k}b^k$",
+        "C. $C_5^{k+1}a^{4-k}b^{k+1}$",
+        "D. $C_4^ka^{4-k}b^{4-k}$"
+      ],
+      "answer": "B",
+      "id": 4
+    },
+    {
+      "type": "single",
+      "chuong": "Nhị thức Newton",
+      "dang": "Số hạng tổng quát",
+      "content": "Số hạng tổng quát trong khai triển $(2x-3)^4$ là",
+      "options": [
+        "A. $C_4^k(2x)^{4-k}3^k$",
+        "B. $C_4^k(2x)^{4-k}(-3)^k$",
+        "C. $C_4^k(2x)^{4-k}3^{4-k}$",
+        "D. $C_4^k(2x)^k(-3)^{4-k}$"
+      ],
+      "answer": "B",
+      "id": 5
+    },
+    {
+      "type": "single",
+      "chuong": "Nhị thức Newton",
+      "dang": "Tổng hệ số",
+      "content": "Tổng các hệ số trong khai triển $(2x-3)^4$ bằng",
+      "options": [
+        "A. $1$",
+        "B. $-1$",
+        "C. $81$",
+        "D. $-81$"
+      ],
+      "answer": "A",
+      "id": 6
+    },
+    {
+      "type": "single",
+      "chuong": "Nhị thức Newton",
+      "dang": "Tìm số hạng",
+      "content": "Số hạng chứa $x^2$ trong khai triển $P(x)=x^4+(x-2)^4$ là",
+      "options": [
+        "A. $28x^2$",
+        "B. $-28x^2$",
+        "C. $-24x^2$",
+        "D. $24x^2$"
+      ],
+      "answer": "B",
+      "id": 7
+    },
+    {
+      "type": "single",
+      "chuong": "Nhị thức Newton",
+      "dang": "Khai triển nhị thức",
+      "content": "Khai triển của $(3x+4)^5$ là",
+      "options": [
+        "A. $1620x^5+4320x^4+5760x^3+3840x^2+1024$",
+        "B. $243x^5+405x^4+4320x^3+5760x^2+3840x+1024$",
+        "C. $243x^5-1620x^4+4320x^3-5760x^2+3840x-1024$",
+        "D. $243x^5+1620x^4+4320x^3+5760x^2+3840x+1024$"
+      ],
+      "answer": "D",
+      "id": 8
+    },
+    {
+      "type": "single",
+      "chuong": "Nhị thức Newton",
+      "dang": "Ứng dụng thực tế",
+      "content": "Dân số một tỉnh năm $2022$ khoảng $2$ triệu người, tăng $1{,}5\\%$ mỗi năm. Dân số năm $2027$ xấp xỉ",
+      "options": [
+        "A. $2.154.568$ người",
+        "B. $3.400.000$ người",
+        "C. $3.300.000$ người",
+        "D. $2.400.000$ người"
+      ],
+      "answer": "A",
+      "id": 9
+    },
+    {
+      "type": "single",
+      "chuong": "Nhị thức Newton",
+      "dang": "Tổng hệ số",
+      "content": "Tổng $T=C_n^0+C_n^1+\\cdots+C_n^n$ bằng",
+      "options": [
+        "A. $2^{n+1}$",
+        "B. $2^{n-1}$",
+        "C. $2^n$",
+        "D. $0$"
+      ],
+      "answer": "C",
+      "id": 10
+    },
+    {
+      "type": "single",
+      "chuong": "Nhị thức Newton",
+      "dang": "Tổng hệ số",
+      "content": "Cho $n$ nguyên dương thỏa mãn $C_n^1+C_n^2+\\cdots+C_n^n=4095$. Giá trị của $n$ là",
+      "options": [
+        "A. $14$",
+        "B. $16$",
+        "C. $13$",
+        "D. $12$"
+      ],
+      "answer": "D",
+      "id": 11
+    },
+    {
+      "type": "single",
+      "chuong": "Nhị thức Newton",
+      "dang": "Tính gần đúng",
+      "content": "Dùng ba số hạng đầu trong khai triển để tính gần đúng $(1{,}02)^4$. Kết quả là",
+      "options": [
+        "A. $1{,}08$",
+        "B. $1{,}0824$",
+        "C. $1{,}08243$",
+        "D. $1{,}082432$"
+      ],
+      "answer": "B",
+      "id": 12
+    },
+    {
+      "type": "single",
+      "chuong": "Nhị thức Newton",
+      "dang": "Tính gần đúng",
+      "content": "Dùng ba số hạng đầu trong khai triển để tính gần đúng $(2{,}03)^5$. Kết quả là",
+      "options": [
+        "A. $34{,}473$",
+        "B. $34{,}47$",
+        "C. $34{,}47308$",
+        "D. $34{,}473088$"
+      ],
+      "answer": "A",
+      "id": 13
+    },
+    {
+      "type": "single",
+      "chuong": "Nhị thức Newton",
+      "dang": "Tính gần đúng",
+      "content": "Dùng bốn số hạng đầu trong khai triển để tính gần đúng $(1{,}03)^5$. Kết quả là",
+      "options": [
+        "A. $1{,}15$",
+        "B. $1{,}1592$",
+        "C. $1{,}159274$",
+        "D. $1{,}15927407$"
+      ],
+      "answer": "C",
+      "id": 14
+    },
+    {
+      "type": "single",
+      "chuong": "Nhị thức Newton",
+      "dang": "Tính gần đúng",
+      "content": "Dùng bốn số hạng đầu trong khai triển để tính gần đúng $(4{,}0002)^5$. Kết quả là",
+      "options": [
+        "A. $1024{,}25$",
+        "B. $1024{,}256026$",
+        "C. $1024{,}25602$",
+        "D. $1024{,}256$"
+      ],
+      "answer": "B",
+      "id": 15
+    }
+  ]
+}

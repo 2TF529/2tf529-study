@@ -1,0 +1,764 @@
+{
+  "id": "l12-toan-vact-2026-empire-chu-de-6-nen-tang-ve-tiem-can-cua-do-thi-ham-so-de-so-2",
+  "grade": "l12",
+  "subjectSlug": "toan",
+  "examType": "vact",
+  "year": 2026,
+  "code": "Đề 6",
+  "title": "CHỦ ĐỀ 6. NỀN TẢNG VỀ TIỆM CẬN CỦA ĐỒ THỊ HÀM SỐ - ĐỀ SỐ 2",
+  "duration": 60,
+  "answerSource": "partial",
+  "sourceId": "empire-docx:CHỦ ĐỀ 6. NỀN TẢNG VỀ TIỆM CẬN CỦA ĐỒ TH - 35FD0DBA",
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "content": "Cho hàm số $f(x)$ có bảng biến thiên như sau\n<figure class=\"question-figure\"><img src=\"data/l12/toan/vact/assets/2026-empire-chu-de-6-nen-tang-ve-tiem-can-cua-do-thi-ham-so-de-so-2/hinh-d4b71e1a15a3.webp\" alt=\"Hình minh họa của câu hỏi\" loading=\"lazy\"></figure>\nSố tiệm cận đứng của đồ thị hàm số đã cho là",
+      "options": [
+        "A. $3$.",
+        "B. $1$.",
+        "C. $2$.",
+        "D. $0$."
+      ],
+      "answer": "B",
+      "explanation": "Quan sát bảng biến thiên ta có $\\mathop {\\lim }\\limits_{x \\to {0^ - }} y = - \\infty$ nên đồ thị hàm số có tiệm cận đứng $x = 0$.",
+      "chuong": "CHỦ ĐỀ 6. NỀN TẢNG VỀ TIỆM CẬN CỦA ĐỒ THỊ HÀM SỐ",
+      "dang": "Trắc nghiệm luyện tập"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "content": "Cho hàm số $$y = f\\left( x \\right)$$ xác định và liên tục trên $$\\left( { - \\infty ;0} \\right)$$ và $$\\left( {0; + \\infty } \\right)$$ có bảng biến thiên như hình vẽ. Mệnh đề nào sau đây đúng?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/vact/assets/2026-empire-chu-de-6-nen-tang-ve-tiem-can-cua-do-thi-ham-so-de-so-2/hinh-a853233a560d.webp\" alt=\"Hình minh họa của câu hỏi\" loading=\"lazy\"></figure>",
+      "options": [
+        "A. Đường thẳng $$x = 2$$ là tiệm cận đứng của đồ thị hàm số.",
+        "B. Đồ thị hàm số có hai đường tiệm cận ngang.",
+        "C. Đồ thị hàm số có hai đường tiệm cận.",
+        "D. Đồ thị hàm số chỉ có một đường tiệm cận."
+      ],
+      "answer": "C",
+      "explanation": "Vì $$\\mathop {\\lim }\\limits_{x \\to - \\infty } y = 2$$ nên $$y = 2$$ là tiệm cận ngang của đồ thị hàm số.\nVì $$\\mathop {\\lim }\\limits_{x \\to {0^ \\pm }} y = \\pm \\infty$$ nên $$x = 0$$ là tiệm cận đứng của đồ thị hàm số.\nVậy đồ thị hàm số có $2$ đường tiệm cận.",
+      "chuong": "CHỦ ĐỀ 6. NỀN TẢNG VỀ TIỆM CẬN CỦA ĐỒ THỊ HÀM SỐ",
+      "dang": "Trắc nghiệm luyện tập"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "content": "Cho hàm số $y = f\\left( x \\right)$ có bảng biến thiên như sau\n<figure class=\"question-figure\"><img src=\"data/l12/toan/vact/assets/2026-empire-chu-de-6-nen-tang-ve-tiem-can-cua-do-thi-ham-so-de-so-2/hinh-2007cf19cea0.webp\" alt=\"Hình minh họa của câu hỏi\" loading=\"lazy\"></figure>\nTổng số tiệm cận ngang và tiệm cận đứng của đồ thị hàm số đã cho là",
+      "options": [
+        "A. $$1$$.",
+        "B. $$3$$.",
+        "C. $$4$$.",
+        "D. $$2$$."
+      ],
+      "answer": "D",
+      "explanation": "Ta có $$\\mathop {\\lim }\\limits_{x \\to - \\infty } \\,y = 2$$ nên đồ thị hàm số có tiệm cận ngang là $y = 2$ và $$\\mathop {\\lim }\\limits_{x \\to {0^ + }} \\,y = + \\infty$$ nên đồ thị hàm số tiệm cận đứng là $x = 0$.",
+      "chuong": "CHỦ ĐỀ 6. NỀN TẢNG VỀ TIỆM CẬN CỦA ĐỒ THỊ HÀM SỐ",
+      "dang": "Trắc nghiệm luyện tập"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "content": "Cho hàm số$y = f\\left( x \\right)$có bảng biến thiên như sau:\n<figure class=\"question-figure\"><img src=\"data/l12/toan/vact/assets/2026-empire-chu-de-6-nen-tang-ve-tiem-can-cua-do-thi-ham-so-de-so-2/hinh-f8743b6bcd0c.webp\" alt=\"Hình minh họa của câu hỏi\" loading=\"lazy\"></figure>\nMệnh đề nào sau đây đúng?",
+      "options": [
+        "A. Đồ thị hàm số có $2$ đường tiệm cận ngang.",
+        "B. Đồ thị hàm số có đường tiệm cận ngang $y = 4$.",
+        "C. Đồ thị hàm số không có tiệm cận đứng.",
+        "D. Đồ thị hàm số có đường tiệm cận đứng $x = 0$."
+      ],
+      "answer": "C",
+      "explanation": "Từ BBT của hàm số ta có:\n$\\mathop {\\lim }\\limits_{x \\to \\pm \\infty } f\\left( x \\right) = \\pm \\infty \\Rightarrow$ Đồ thị hàm số đã cho không có tiệm cận ngang.\n$\\mathop {\\lim }\\limits_{x \\to x_0^ \\pm } f\\left( x \\right) = f\\left( {{x_0}} \\right)\\forall x \\in \\mathbb{R} \\Rightarrow$ Đồ thị hàm số đã cho không có tiệm cận đứng.\nVậy đồ thị hàm số đã cho không có tiệm cận đứng và tiệm cận ngang.",
+      "chuong": "CHỦ ĐỀ 6. NỀN TẢNG VỀ TIỆM CẬN CỦA ĐỒ THỊ HÀM SỐ",
+      "dang": "Trắc nghiệm luyện tập"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "content": "Cho hàm số $y = f(x)$ xác định trên $$\\mathbb{R}\\backslash {\\rm{\\{ }} - 1{\\rm{\\} }}$$, liên tục trên mỗi khoảng xác định và có bảng biến thiên như hình sau:\n<figure class=\"question-figure\"><img src=\"data/l12/toan/vact/assets/2026-empire-chu-de-6-nen-tang-ve-tiem-can-cua-do-thi-ham-so-de-so-2/hinh-b090e54efa05.webp\" alt=\"Hình minh họa của câu hỏi\" loading=\"lazy\"></figure>\nHỏi đồ thị hàm số có tất cả bao nhiêu đường tiệm cận đứng và tiệm cận ngang?",
+      "options": [
+        "A. $1$.",
+        "B. $0$.",
+        "C. $3$.",
+        "D. $2$."
+      ],
+      "answer": "C",
+      "explanation": "Từ bảng biến thiên $\\Rightarrow \\mathop {\\lim }\\limits_{x \\to - {1^ + }} y = - \\infty \\Rightarrow x = - 1$ là tiệm cận đứng.\n$\\mathop {\\lim }\\limits_{x \\to - \\infty } y = 2 \\Rightarrow y = 2$ là tiệm cận ngang.\n$\\mathop {\\lim }\\limits_{x \\to + \\infty } y = - 1 \\Rightarrow y = - 1$ là tiệm cận ngang.\nĐồ thị hàm số có tất cả 3 đường tiệm cận.",
+      "chuong": "CHỦ ĐỀ 6. NỀN TẢNG VỀ TIỆM CẬN CỦA ĐỒ THỊ HÀM SỐ",
+      "dang": "Trắc nghiệm luyện tập"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "content": "Cho hàm số $y = f\\left( x \\right)$ xác định và liên tục trên $\\mathbb{R}\\backslash \\left\\{ { - 1} \\right\\}$, có bảng biến thiên như sau.\n<figure class=\"question-figure\"><img src=\"data/l12/toan/vact/assets/2026-empire-chu-de-6-nen-tang-ve-tiem-can-cua-do-thi-ham-so-de-so-2/hinh-344da52f3af4.webp\" alt=\"Hình minh họa của câu hỏi\" loading=\"lazy\"></figure>\nKhẳng định nào sau đây là đúng?",
+      "options": [
+        "A. Đồ thị hàm số có tiệm cận đứng $y = - 1$ và tiệm cận ngang $x = - 2$.",
+        "B. Đồ thị hàm số có duy nhất một tiệm cận.",
+        "C. Đồ thị hàm số có ba tiệm cận.",
+        "D. Đồ thị hàm số có tiệm cận đứng $x = - 1$ và tiệm cận ngang $y = - 2$."
+      ],
+      "answer": "D",
+      "explanation": "Từ bảng biến thiên ta có:\n$\\mathop {\\lim }\\limits_{x \\to \\pm \\infty } y = - 2 \\Rightarrow$ Đồ thị hàm số có tiệm cận ngang $y = - 2$.\n$\\mathop {\\lim }\\limits_{x \\to - {1^ \\mp }} y = \\pm \\infty \\Rightarrow$đồ thị hàm số có tiệm cận đứng $x = - 1$.",
+      "chuong": "CHỦ ĐỀ 6. NỀN TẢNG VỀ TIỆM CẬN CỦA ĐỒ THỊ HÀM SỐ",
+      "dang": "Trắc nghiệm luyện tập"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "content": "Cho hàm số $y = f\\left( x \\right)$ có đồ thị như hình vẽ. Đường thẳng nào sau đây là tiệm cận ngang của đồ thị hàm số đã cho\n<figure class=\"question-figure\"><img src=\"data/l12/toan/vact/assets/2026-empire-chu-de-6-nen-tang-ve-tiem-can-cua-do-thi-ham-so-de-so-2/hinh-49deab73ab59.webp\" alt=\"Hình minh họa của câu hỏi\" loading=\"lazy\"></figure>",
+      "options": [
+        "A. $x = 1$.",
+        "B. $x = - 1$.",
+        "C. $y = 1$.",
+        "D. $y = - 1$."
+      ],
+      "answer": "D",
+      "explanation": "Đồ thị hàm số có tiệm cận ngang là đường $y = - 1$.",
+      "chuong": "CHỦ ĐỀ 6. NỀN TẢNG VỀ TIỆM CẬN CỦA ĐỒ THỊ HÀM SỐ",
+      "dang": "Trắc nghiệm luyện tập"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "content": "Cho hàm số $y = \\frac{{ax + b}}{{cx + d}}$ $\\left( {c \\ne 0} \\right.$, $\\left. {ad - bc \\ne 0} \\right)$ có đồ thị như hình vẽ bên. Tiệm cận ngang của đồ thị hàm số là:\n<figure class=\"question-figure\"><img src=\"data/l12/toan/vact/assets/2026-empire-chu-de-6-nen-tang-ve-tiem-can-cua-do-thi-ham-so-de-so-2/hinh-a6498f9d93d8.webp\" alt=\"Hình minh họa của câu hỏi\" loading=\"lazy\"></figure>",
+      "options": [
+        "A. $x = - 1$.",
+        "B. $y = \\frac{1}{2}$.",
+        "C. $y = - 1$.",
+        "D. $x = \\frac{1}{2}$."
+      ],
+      "answer": "B",
+      "explanation": "Từ hình vẽ suy ra tiệm cận ngang của đồ thị hàm số là: $y = \\frac{1}{2}$.",
+      "chuong": "CHỦ ĐỀ 6. NỀN TẢNG VỀ TIỆM CẬN CỦA ĐỒ THỊ HÀM SỐ",
+      "dang": "Trắc nghiệm luyện tập"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "content": "Cho hàm số $y = f\\left( x \\right)$ có đồ thị như hình vẽ\n<figure class=\"question-figure\"><img src=\"data/l12/toan/vact/assets/2026-empire-chu-de-6-nen-tang-ve-tiem-can-cua-do-thi-ham-so-de-so-2/hinh-039b29cce314.webp\" alt=\"Hình minh họa của câu hỏi\" loading=\"lazy\"></figure>\nĐồ thị hàm số đã cho có bao nhiêu đường tiệm cận?",
+      "options": [
+        "A. $4$.",
+        "B. $1$.",
+        "C. $3$.",
+        "D. $2$."
+      ],
+      "answer": "D",
+      "explanation": "Căn cứ vào đồ thị ta có đồ thị hàm số đã cho có 2 đường tiệm cận suy ra đáp án\nD.",
+      "chuong": "CHỦ ĐỀ 6. NỀN TẢNG VỀ TIỆM CẬN CỦA ĐỒ THỊ HÀM SỐ",
+      "dang": "Trắc nghiệm luyện tập"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "content": "Cho hàm số $y = f\\left( x \\right)$ có bảng biến thiên như hình vẽ dưới đây.\n<figure class=\"question-figure\"><img src=\"data/l12/toan/vact/assets/2026-empire-chu-de-6-nen-tang-ve-tiem-can-cua-do-thi-ham-so-de-so-2/hinh-a2ab04b17cc2.webp\" alt=\"Hình minh họa của câu hỏi\" loading=\"lazy\"></figure>\nĐồ thị hàm số $y = f\\left( x \\right)$ có bao nhiêu đường tiệm cận?",
+      "options": [
+        "A. 3.",
+        "B. 2.",
+        "C. 1.",
+        "D. 4."
+      ],
+      "answer": "A",
+      "explanation": "Ta có: $\\mathop {\\lim }\\limits_{x \\to - \\infty } f\\left( x \\right) = - 1$; $\\mathop {\\lim }\\limits_{x \\to + \\infty } f\\left( x \\right) = 2$; $\\mathop {\\lim }\\limits_{x \\to {1^ \\pm }} f\\left( x \\right) = \\pm \\infty$.\nVậy đồ thị hàm số có $3$ đường tiệm cận.",
+      "chuong": "CHỦ ĐỀ 6. NỀN TẢNG VỀ TIỆM CẬN CỦA ĐỒ THỊ HÀM SỐ",
+      "dang": "Trắc nghiệm luyện tập"
+    },
+    {
+      "id": 11,
+      "type": "single",
+      "content": "Cho hàm số $$f\\left( x \\right)$$ xác định trên $$\\left( { - \\infty ;0} \\right)\\backslash \\left\\{ { - 2} \\right\\}$$ và có bảng biến thiên bên dưới. Đồ thị hàm số đã cho có tổng số đường tiệm cận ngang và tiệm cận đứng là\n<figure class=\"question-figure\"><img src=\"data/l12/toan/vact/assets/2026-empire-chu-de-6-nen-tang-ve-tiem-can-cua-do-thi-ham-so-de-so-2/hinh-cb38d88fdced.webp\" alt=\"Hình minh họa của câu hỏi\" loading=\"lazy\"></figure>",
+      "options": [
+        "A. $$1$$.",
+        "B. $$3$$.",
+        "C. $$0$$.",
+        "D. $$2$$."
+      ],
+      "answer": "A",
+      "explanation": "Đồ thị hàm số đã cho không có đường tiệm cận ngang và có một tiệm cận đứng là $$x = - 2$$.",
+      "chuong": "CHỦ ĐỀ 6. NỀN TẢNG VỀ TIỆM CẬN CỦA ĐỒ THỊ HÀM SỐ",
+      "dang": "Trắc nghiệm luyện tập"
+    },
+    {
+      "id": 12,
+      "type": "single",
+      "content": "Cho hàm số $y = \\frac{{ax + b}}{{cx + d}}{\\rm{ }}\\left( {c \\ne 0,{\\rm{ }}ad - bc \\ne 0} \\right)$ có đồ thị như hình vẽ bên. Tiệm cận đứng của đồ thị hàm số là:\n<figure class=\"question-figure\"><img src=\"data/l12/toan/vact/assets/2026-empire-chu-de-6-nen-tang-ve-tiem-can-cua-do-thi-ham-so-de-so-2/hinh-a0ac057cebc7.webp\" alt=\"Hình minh họa của câu hỏi\" loading=\"lazy\"></figure>",
+      "options": [
+        "A. $x = - 1$.",
+        "B. $y = - 1$.",
+        "C. $x = 1$.",
+        "D. $y = 1$."
+      ],
+      "answer": "C",
+      "explanation": "Đồ thị hàm số có đường tiệm cận đứng $$x = 1$$.",
+      "chuong": "CHỦ ĐỀ 6. NỀN TẢNG VỀ TIỆM CẬN CỦA ĐỒ THỊ HÀM SỐ",
+      "dang": "Trắc nghiệm luyện tập"
+    },
+    {
+      "id": 13,
+      "type": "single",
+      "content": "Cho hàm số $$y = \\frac{{a{x^2} + bx + c}}{x}$$, $$\\left( {ac \\ne 0} \\right)$$ có đồ thị như hình vẽ. Đường tiệm cận xiên của đồ thị hàm số đã cho là đường thẳng có phương trình\n<figure class=\"question-figure\"><img src=\"data/l12/toan/vact/assets/2026-empire-chu-de-6-nen-tang-ve-tiem-can-cua-do-thi-ham-so-de-so-2/hinh-644698d27610.webp\" alt=\"Hình minh họa của câu hỏi\" loading=\"lazy\"></figure>",
+      "options": [
+        "A. $$y = x$$.",
+        "B. $$y = - x$$.",
+        "C. $$x = 0$$.",
+        "D. $$y = 2x$$."
+      ],
+      "answer": "B",
+      "explanation": "Ta có: $$y' = a - \\frac{c}{{{x^2}}}$$. Nên:\n$$\\left\\{ \\begin{array}{l}y'\\left( 2 \\right) = 0\\\\y\\left( 2 \\right) = - 4\\\\y\\left( { - 2} \\right) = 4\\end{array} \\right. \\Leftrightarrow \\left\\{ \\begin{array}{l}4a - c = 0\\\\\\frac{{4a + 2b + c}}{2} = - 4\\\\\\frac{{4a - 2b + c}}{{ - 2}} = 4\\end{array} \\right. \\Leftrightarrow \\left\\{ \\begin{array}{l}4a - c = 0\\\\4a + 2b + c = - 8\\\\4a - 2b + c = - 8.\\end{array} \\right. \\Leftrightarrow \\left\\{ \\begin{array}{l}a = - 1\\\\b = 0\\\\c = - 4\\end{array} \\right. \\Rightarrow y = \\frac{{ - {x^2} - 4}}{x} = - x - \\frac{4}{x}$$\nSuy ra phương trình đường tiệm cận xiên $$y = - x$$.",
+      "chuong": "CHỦ ĐỀ 6. NỀN TẢNG VỀ TIỆM CẬN CỦA ĐỒ THỊ HÀM SỐ",
+      "dang": "Trắc nghiệm luyện tập"
+    },
+    {
+      "id": 14,
+      "type": "single",
+      "content": "Tiệm cận đứng của đồ thị hàm số $y = \\frac{{3x + 6}}{{x - 2}}$ là đường thẳng",
+      "options": [
+        "A. $x = 3$.",
+        "B. $x = - 2$.",
+        "C. $x = - 3$.",
+        "D. $x = 2$."
+      ],
+      "answer": "D",
+      "explanation": "Ta có$\\mathop {\\lim }\\limits_{x \\to {2^ + }} \\frac{{3x + 6}}{{x - 2}} = + \\infty$, $\\mathop {\\lim }\\limits_{x \\to {2^ - }} \\frac{{3x + 6}}{{x - 2}} = - \\infty$ nên đường thẳng $x = 2$là tiệm cận đứng.",
+      "chuong": "CHỦ ĐỀ 6. NỀN TẢNG VỀ TIỆM CẬN CỦA ĐỒ THỊ HÀM SỐ",
+      "dang": "Trắc nghiệm luyện tập"
+    },
+    {
+      "id": 15,
+      "type": "single",
+      "content": "Tiệm cận ngang của đồ thị hàm số $f\\left( x \\right) = \\frac{{1 - 4x}}{{2x - 1}}$ là đường thẳng có phương trình là",
+      "options": [
+        "A. $y = 2$.",
+        "B. $y = 4$.",
+        "C. $y = \\frac{1}{2}$.",
+        "D. $y = - 2$."
+      ],
+      "answer": "D",
+      "explanation": "$\\mathop {\\lim }\\limits_{x \\to \\pm \\infty } \\frac{{1 - 4x}}{{2x - 1}} = - 2$ nên tiệm cận ngang của đồ thị hàm số là $y = - 2$.",
+      "chuong": "CHỦ ĐỀ 6. NỀN TẢNG VỀ TIỆM CẬN CỦA ĐỒ THỊ HÀM SỐ",
+      "dang": "Trắc nghiệm luyện tập"
+    },
+    {
+      "id": 16,
+      "type": "single",
+      "content": "Đồ thị của hàm số $y = \\frac{{x + 3}}{{x - 1}}$ có đường tiệm cận đứng là?",
+      "options": [
+        "A. $y = 1$.",
+        "B. $x = 1$.",
+        "C. $x = - 1$.",
+        "D. $x = - 3$."
+      ],
+      "answer": "B",
+      "explanation": "Đồ thị của hàm số $y = \\frac{{x + 3}}{{x - 1}}$ có đường tiệm cận đứng là $x = 1$.",
+      "chuong": "CHỦ ĐỀ 6. NỀN TẢNG VỀ TIỆM CẬN CỦA ĐỒ THỊ HÀM SỐ",
+      "dang": "Trắc nghiệm luyện tập"
+    },
+    {
+      "id": 17,
+      "type": "single",
+      "content": "Phương trình đường tiệm cận đứng của đồ thị hàm số $y = \\frac{{2x + 2}}{{x - 1}}$ là",
+      "options": [
+        "A. $$x = 1$$.",
+        "B. $$x = 2$$.",
+        "C. $$x = - 1$$.",
+        "D. $$x = - 2$$."
+      ],
+      "answer": "A",
+      "explanation": "Ta có $$\\mathop {\\lim }\\limits_{x \\to {1^ + }} y = \\mathop {\\lim }\\limits_{x \\to {1^ + }} \\frac{{2x + 2}}{{x - 1}} = + \\infty$$ và $$\\mathop {\\lim }\\limits_{x \\to {1^ - }} y = \\mathop {\\lim }\\limits_{x \\to {1^ - }} \\frac{{2x + 2}}{{x - 1}} = - \\infty$$ nên đường thẳng $x = 1$ là tiệm cận đứng của đồ thị hàm số.",
+      "chuong": "CHỦ ĐỀ 6. NỀN TẢNG VỀ TIỆM CẬN CỦA ĐỒ THỊ HÀM SỐ",
+      "dang": "Trắc nghiệm luyện tập"
+    },
+    {
+      "id": 18,
+      "type": "single",
+      "content": "Tiệm cận đứng của đồ thị hàm số $y = \\frac{{2x - 1}}{{x + 2}}$ là đường thẳng có phương trình",
+      "options": [
+        "A. $x = \\frac{1}{2}$.",
+        "B. $y = 2$.",
+        "C. $x = - 2$.",
+        "D. $$y = - 2$$."
+      ],
+      "answer": "C",
+      "explanation": "Tiệm cận đứng của đồ thị hàm số là đường thẳng có phương trình $x = - 2$.",
+      "chuong": "CHỦ ĐỀ 6. NỀN TẢNG VỀ TIỆM CẬN CỦA ĐỒ THỊ HÀM SỐ",
+      "dang": "Trắc nghiệm luyện tập"
+    },
+    {
+      "id": 19,
+      "type": "single",
+      "content": "Tiệm cận đứng của đồ thị hàm số $$y = \\frac{{3x + 2}}{{x - 2}}$$ là đường thẳng có phương trình",
+      "options": [
+        "A. $x = - 1$.",
+        "B. $x = - 2$.",
+        "C. $x = 2$.",
+        "D. $x = 3$."
+      ],
+      "answer": "C",
+      "explanation": "Ta có $$\\mathop {\\lim }\\limits_{x \\to {2^ \\pm }} \\frac{{3x + 2}}{{x - 2}} = \\pm \\infty \\Rightarrow$$ Đồ thị hàm số có đường tiệm cận đứng là $$x = 2$$.",
+      "chuong": "CHỦ ĐỀ 6. NỀN TẢNG VỀ TIỆM CẬN CỦA ĐỒ THỊ HÀM SỐ",
+      "dang": "Trắc nghiệm luyện tập"
+    },
+    {
+      "id": 20,
+      "type": "single",
+      "content": "Đường tiệm cận đứng của đồ thị hàm số $y = \\frac{{{x^2} + x - 2}}{{x - 2}}$ là:",
+      "options": [
+        "A. $x = 2$.",
+        "B. $x = - 2$.",
+        "C. $y = - 2$.",
+        "D. $y = 2$."
+      ],
+      "answer": "A",
+      "explanation": "Tập xác định: $D = \\mathbb{R}\\backslash \\left\\{ 2 \\right\\}$ và $\\mathop {\\lim }\\limits_{x \\to {2^ + }} \\frac{{{x^2} + x - 2}}{{x - 2}} = + \\infty \\Rightarrow$TCĐ: $x = 2$.",
+      "chuong": "CHỦ ĐỀ 6. NỀN TẢNG VỀ TIỆM CẬN CỦA ĐỒ THỊ HÀM SỐ",
+      "dang": "Trắc nghiệm luyện tập"
+    },
+    {
+      "id": 21,
+      "type": "single",
+      "content": "Tổng số đường tiệm cận đứng và tiệm cận ngang của đồ thị hàm số $y = \\frac{{x - 2}}{{{x^2} - 4}}$ là:",
+      "options": [
+        "A. $$2$$.",
+        "B. $$3$$.",
+        "C. $$1$$.",
+        "D. $$0$$."
+      ],
+      "answer": null,
+      "chuong": "CHỦ ĐỀ 6. NỀN TẢNG VỀ TIỆM CẬN CỦA ĐỒ THỊ HÀM SỐ",
+      "dang": "Trắc nghiệm luyện tập"
+    },
+    {
+      "id": 22,
+      "type": "single",
+      "content": "Cho hàm số $y = \\frac{{x + 1}}{{x_{}^2 - 2x - 3}}$. Tổng số tiệm cận đứng và tiệm cận ngang của đồ thị hàm số đã cho là",
+      "options": [
+        "A. $2$.",
+        "B. $4$.",
+        "C. $3$.",
+        "D. $1$."
+      ],
+      "answer": "A",
+      "explanation": "Tập xác định $D = \\mathbb{R}\\backslash \\left\\{ { - 1;\\,3} \\right\\}$.\nKhi đó $y = \\frac{{x + 1}}{{x_{}^2 - 2x - 3}} = \\frac{{x + 1}}{{\\left( {x + 1} \\right)\\left( {x - 3} \\right)}} = \\frac{1}{{x - 3}}$.\nVì$\\mathop {\\lim }\\limits_{x \\to \\pm \\infty } y = \\mathop {\\lim }\\limits_{x \\to \\pm \\infty } \\frac{1}{{x - 3}} = 0$ nên đường thẳng $y = 0$ là tiệm cận ngang của đồ thị hàm số.\nVì $\\mathop {\\lim }\\limits_{x \\to {3^ \\pm }} y = \\mathop {\\lim }\\limits_{x \\to {3^ \\pm }} \\frac{1}{{x - 3}} = \\pm \\infty$ nên đường thẳng $x = 3$ là tiệm cận đứng của đồ thị hàm số.\nVậy tổng số tiệm cận đứng và tiệm cận ngang của đồ thị hàm số đã cho là $2$.",
+      "chuong": "CHỦ ĐỀ 6. NỀN TẢNG VỀ TIỆM CẬN CỦA ĐỒ THỊ HÀM SỐ",
+      "dang": "Trắc nghiệm luyện tập"
+    },
+    {
+      "id": 23,
+      "type": "single",
+      "content": "Cho hàm số $y = \\frac{{2{x^2} - 3x - 1}}{{x - 2}}$. Tiệm cận xiên của đồ thì hàm số là đường thẳng:",
+      "options": [
+        "A. $y = 2x - 1$.",
+        "B. $y = 2x + 1$.",
+        "C. $y = 2x - 3$.",
+        "D. $y = 2x + 3$."
+      ],
+      "answer": "B",
+      "explanation": "Ta có: $y = 2x + 1 + \\frac{1}{{x - 2}} \\Rightarrow \\mathop {\\lim }\\limits_{x \\to \\pm \\infty } \\left[ {y - \\left( {2x + 1} \\right)} \\right] = \\mathop {\\lim }\\limits_{x \\to \\pm \\infty } \\frac{{ + 1}}{{x - 2}} = 0$\n$\\Rightarrow$ Tiệm cận xiên của đồ thị hàm số là đường thẳng có phương trình $y = 2x + 1$.",
+      "chuong": "CHỦ ĐỀ 6. NỀN TẢNG VỀ TIỆM CẬN CỦA ĐỒ THỊ HÀM SỐ",
+      "dang": "Trắc nghiệm luyện tập"
+    },
+    {
+      "id": 24,
+      "type": "single",
+      "content": "Biết rằng đồ thị hàm số $y = \\frac{{{x^2} - 2x + 2}}{{x - 3}}$ có tiện cận xiên là đường thẳng $y = ax + b$. Tính giá trị của ${a^2} + 2b$.",
+      "options": [
+        "A. $4$.",
+        "B. $2$.",
+        "C. $5$.",
+        "D. $3$."
+      ],
+      "answer": "D",
+      "explanation": "Ta có: $y = x + 1 + \\frac{5}{{x - 3}} \\Rightarrow \\mathop {\\lim }\\limits_{x \\to \\pm \\infty } \\left[ {y - \\left( {x + 1} \\right)} \\right] = \\mathop {\\lim }\\limits_{x \\to \\pm \\infty } \\frac{5}{{x - 3}} = 0$\n$\\Rightarrow$ Tiệm cận xiên của đồ thị hàm số là đường thẳng $y = x + 1$, do đó ${a^2} + 2b = 3$.",
+      "chuong": "CHỦ ĐỀ 6. NỀN TẢNG VỀ TIỆM CẬN CỦA ĐỒ THỊ HÀM SỐ",
+      "dang": "Trắc nghiệm luyện tập"
+    },
+    {
+      "id": 25,
+      "type": "single",
+      "content": "Xác định toạ độ giao điểm của đường tiệm cận đứng và đường tiệm cận xiên của đồ thị hàm số $y = \\frac{{2{x^2} - 3x + 2}}{{x - 1}}$",
+      "options": [
+        "A. $$\\left(1;2\\right).$$",
+        "B. $\\left( {1;\\,1} \\right)$.",
+        "C. $\\left( {1;\\, - 1} \\right)$.",
+        "D. $\\left( {1;\\,0} \\right)$."
+      ],
+      "answer": "B",
+      "explanation": "Ta có: $y = 2x - 1 + \\frac{1}{{x - 1}}$ nên đồ thị hàm số có tiệm cận đứng là đường thẳng $x = 1$ và đường tiệm cận xiên là đường thẳng $2x - 1$.\nXét hệ phương trình $\\left\\{ \\begin{array}{l}x = 1\\\\y = 2x - 1\\end{array} \\right. \\Leftrightarrow \\left\\{ \\begin{array}{l}x = 1\\\\y = 1\\end{array} \\right.$ nên giao điểm của hai đường tiệm cận là có tọa độ là $\\left( {1;1} \\right)$",
+      "chuong": "CHỦ ĐỀ 6. NỀN TẢNG VỀ TIỆM CẬN CỦA ĐỒ THỊ HÀM SỐ",
+      "dang": "Trắc nghiệm luyện tập"
+    },
+    {
+      "id": 26,
+      "type": "single",
+      "content": "Đường tiệm cận xiên của đồ thị hàm số $y = \\frac{{2{x^2} - x + 2}}{{x + 1}}$ có phương trình là",
+      "options": [
+        "A. $y = 2x - 3$.",
+        "B. $y = 2x + 3$.",
+        "C. $y = x + 1$.",
+        "D. $y = 2x - 1$."
+      ],
+      "answer": "A",
+      "explanation": "Ta có: $y = 2x - 3 + \\frac{5}{{x + 1}} \\Rightarrow \\mathop {\\lim }\\limits_{x \\to \\pm \\infty } \\left[ {y - \\left( {2x - 3} \\right)} \\right] = \\mathop {\\lim }\\limits_{x \\to \\pm \\infty } \\frac{5}{{x + 1}} = 0$.\nSuy ra đường thẳng $y = 2x - 3$ là tiệm cận xiên của đồ thị hàm số đã cho.",
+      "chuong": "CHỦ ĐỀ 6. NỀN TẢNG VỀ TIỆM CẬN CỦA ĐỒ THỊ HÀM SỐ",
+      "dang": "Trắc nghiệm luyện tập"
+    },
+    {
+      "id": 27,
+      "type": "single",
+      "content": "Cho hàm số $y = \\frac{{x + 1}}{{{x^2} - 3x - 4}}$. Tổng số tiệm cận đứng và tiệm cận ngang của đồ thị hàm số đã cho là",
+      "options": [
+        "A. $2$.",
+        "B. $4$.",
+        "C. $3$.",
+        "D. $1$."
+      ],
+      "answer": "A",
+      "explanation": "Tập xác định $D = \\mathbb{R}\\backslash \\left\\{ { - 1;4} \\right\\}$.\n$y = \\frac{{x + 1}}{{{x^2} - 3x - 4}} = \\frac{{x + 1}}{{\\left( {x + 1} \\right)\\left( {x - 4} \\right)}} = \\frac{1}{{x - 4}}$.\nVì$\\mathop {\\lim }\\limits_{x \\to + \\infty } y = \\mathop {\\lim }\\limits_{x \\to + \\infty } \\frac{1}{{x - 4}} = 0$ và $\\mathop {\\lim }\\limits_{x \\to - \\infty } y = \\mathop {\\lim }\\limits_{x \\to - \\infty } \\frac{1}{{x - 4}} = 0$ nên đường thẳng $y = 0$ là tiệm cận ngang của đồ thị hàm số.\nVì $\\mathop {\\lim }\\limits_{x \\to 4_{}^ + } y = \\mathop {\\lim }\\limits_{x \\to 4_{}^ + } \\frac{1}{{x - 4}} = + \\infty$ và $\\mathop {\\lim }\\limits_{x \\to 4_{}^ - } y = \\mathop {\\lim }\\limits_{x \\to 4_{}^ - } \\frac{1}{{x - 4}} = - \\infty$ nên đường thẳng $x = 4$ là tiệm cận đứng của đồ thị hàm số.\nVậy tổng số tiệm cận đứng và tiệm cận ngang của đồ thị hàm số đã cho là $2$.",
+      "chuong": "CHỦ ĐỀ 6. NỀN TẢNG VỀ TIỆM CẬN CỦA ĐỒ THỊ HÀM SỐ",
+      "dang": "Trắc nghiệm luyện tập"
+    },
+    {
+      "id": 28,
+      "type": "single",
+      "content": "Tổng số đường tiệm cận đứng và tiệm cận ngang của đồ thị hàm số $y = \\frac{{{x^2} - 3x + 2}}{{4 - {x^2}}}$",
+      "options": [
+        "A. $4$.",
+        "B. 2.",
+        "C. 1.",
+        "D. 3."
+      ],
+      "answer": "B",
+      "explanation": "Tập xác định: $D = \\mathbb{R}\\backslash \\left\\{ { \\pm 2} \\right\\}$\nKhi đó $y = \\frac{{{x^2} - 3x + 2}}{{4 - {x^2}}} = \\frac{{\\left( {x - 2} \\right)\\left( {x - 1} \\right)}}{{\\left( {2 - x} \\right)\\left( {2 + x} \\right)}} = \\frac{{1 - x}}{{x + 2}}$\n$\\mathop {\\lim }\\limits_{x \\to - {2^ \\pm }} y = \\mathop {\\lim }\\limits_{x \\to - {2^ \\pm }} \\frac{{1 - x}}{{2 + x}} = \\pm \\infty$ suy ra đường thẳng $x = - 2$ là tiệm cận đứng.\n$\\mathop {\\lim }\\limits_{x \\to \\pm \\infty } y = \\mathop {\\lim }\\limits_{x \\to \\pm \\infty } \\frac{{1 - x}}{{2 + x}} = - 1$ suy ra đường thẳng $y = - 1$là tiệm cận ngang.\nVậy tổng số tiệm cận đứng và tiệm cận ngang là $2$.",
+      "chuong": "CHỦ ĐỀ 6. NỀN TẢNG VỀ TIỆM CẬN CỦA ĐỒ THỊ HÀM SỐ",
+      "dang": "Trắc nghiệm luyện tập"
+    },
+    {
+      "id": 29,
+      "type": "single",
+      "content": "Tìm số đường tiệm cận đứng của đồ thị hàm số$$y = \\frac{{{x^2} - 3x - 4}}{{{x^2} - 16}}$$.",
+      "options": [
+        "A. $0$.",
+        "B. $3$.",
+        "C. $2$.",
+        "D. $1$."
+      ],
+      "answer": "D",
+      "explanation": "Tập xác định $D = \\mathbb{R}\\backslash \\left\\{ { \\pm 4} \\right\\}$\nKhi đó: $$y = \\frac{{{x^2} - 3x - 4}}{{{x^2} - 16}} = \\frac{{\\left( {x + 1} \\right)\\left( {x - 4} \\right)}}{{\\left( {x + 4} \\right)\\left( {x - 4} \\right)}} = \\frac{{x + 1}}{{x + 4}}$$.\nTa có:$$\\mathop {\\lim }\\limits_{x \\to - {4^ \\pm }} y = \\mathop {\\lim }\\limits_{x \\to - {4^ \\pm }} \\frac{{x + 1}}{{x + 4}} = \\pm \\infty \\Rightarrow x = - 4$$ là tiệm cận đứng của đồ thị.\nTa có:$$\\mathop {\\lim }\\limits_{x \\to 4 \\pm } y = \\mathop {\\lim }\\limits_{x \\to 4 \\pm } \\frac{{x + 1}}{{x + 4}} = \\frac{5}{8} \\Rightarrow x = 4$$ không là tiệm cận đứng của đồ thị.\nVậy đồ thị có $1$ tiệm cận đứng.",
+      "chuong": "CHỦ ĐỀ 6. NỀN TẢNG VỀ TIỆM CẬN CỦA ĐỒ THỊ HÀM SỐ",
+      "dang": "Trắc nghiệm luyện tập"
+    },
+    {
+      "id": 30,
+      "type": "single",
+      "content": "Tổng số đường tiệm cận đứng và tiệm cận ngang của đồ thị hàm số $$y = \\frac{{\\left( {x - 2} \\right)\\sqrt {x - 1} }}{{{x^2} - 1}}$$ bằng",
+      "options": [
+        "A. $$3$$.",
+        "B. $$2$$.",
+        "C. $$0$$.",
+        "D. $$1$$."
+      ],
+      "answer": null,
+      "chuong": "CHỦ ĐỀ 6. NỀN TẢNG VỀ TIỆM CẬN CỦA ĐỒ THỊ HÀM SỐ",
+      "dang": "Trắc nghiệm luyện tập"
+    },
+    {
+      "id": 31,
+      "type": "single",
+      "content": "Số đường tiệm cận đứng của đồ thị hàm số $y = \\frac{{{x^2} - \\left| x \\right| - 2}}{{{x^2} - 2x - 8}}$ là",
+      "options": [
+        "A. $1$.",
+        "B. $2$.",
+        "C. $3$.",
+        "D. $4$."
+      ],
+      "answer": "A",
+      "explanation": "Tập xác định: $D = \\mathbb{R}\\backslash \\left\\{ { - 2;4} \\right\\}$.\nTa có: $y = \\frac{{{x^2} - \\left| x \\right| - 2}}{{{x^2} - 2x - 8}}$ $\\Leftrightarrow y = \\left\\{ \\begin{array}{l}\\frac{{{x^2} - x - 2}}{{{x^2} - 2x - 8}}\\,\\,\\,\\,{\\rm{khi }}x \\ge 0\\\\\\frac{{{x^2} + x - 2}}{{{x^2} - 2x - 8}}\\,\\,\\,\\,{\\rm{khi }}x < 0\\end{array} \\right.$ $\\Leftrightarrow y = \\left\\{ \\begin{array}{l}\\frac{{\\left( {x - 2} \\right)\\left( {x + 1} \\right)}}{{\\left( {x + 2} \\right)\\left( {x - 4} \\right)}}\\,\\,\\,\\,{\\rm{khi }}x \\ge 0\\\\\\frac{{\\left( {x + 2} \\right)\\left( {x - 1} \\right)}}{{\\left( {x + 2} \\right)\\left( {x - 4} \\right)}}\\,\\,\\,\\,{\\rm{khi }}x < 0\\end{array} \\right.$\nTa có: $\\mathop {\\lim }\\limits_{x \\to {4^ \\pm }} y = \\mathop {\\lim }\\limits_{x \\to {4^ \\pm }} \\frac{{{x^2} - \\left| x \\right| - 2}}{{{x^2} - 2x - 8}} = \\mathop {\\lim }\\limits_{x \\to {4^ \\pm }} \\frac{{\\left( {x - 2} \\right)\\left( {x + 1} \\right)}}{{\\left( {x + 2} \\right)\\left( {x - 4} \\right)}}\\, = \\pm \\infty$\n$\\Rightarrow x = 4$ là tiệm cận đứng của đồ thị hàm số.\nTa có: $\\mathop {\\lim }\\limits_{x \\to - 2} y = \\mathop {\\lim }\\limits_{x \\to - 2} \\frac{{{x^2} - \\left| x \\right| - 2}}{{{x^2} - 2x - 8}} = \\mathop {\\lim }\\limits_{x \\to - 2} \\frac{{\\left( {x + 2} \\right)\\left( {x - 1} \\right)}}{{\\left( {x + 2} \\right)\\left( {x - 4} \\right)}}\\, = \\frac{1}{2}$$\\Rightarrow x = - 2$ không là tiệm cận đứng của đồ thị hàm số.\nVậy đồ thị hàm số có $1$ tiệm cận đứng.",
+      "chuong": "CHỦ ĐỀ 6. NỀN TẢNG VỀ TIỆM CẬN CỦA ĐỒ THỊ HÀM SỐ",
+      "dang": "Trắc nghiệm luyện tập"
+    },
+    {
+      "id": 32,
+      "type": "single",
+      "content": "Số tiệm cận đứng của đồ thị hàm số $y = \\frac{{\\sqrt {x + 9} - 3}}{{{x^2} + x}}$ là",
+      "options": [
+        "A. $$3$$.",
+        "B. $$2$$.",
+        "C. $$0$$.",
+        "D. $1$."
+      ],
+      "answer": "D",
+      "explanation": "Tập xác định $D = \\left[ { - 9\\,;\\,\\, + \\infty } \\right){\\rm{\\backslash }}\\left\\{ {0\\,;\\, - 1} \\right\\}$.\nKhi đó: $y = \\frac{{\\left( {\\sqrt {x + 9} - 3} \\right)\\left( {\\sqrt {x + 9} + 3} \\right)}}{{x\\left( {x + 1} \\right)\\left( {\\sqrt {x + 9} + 3} \\right)}} = \\frac{{x + 9 - 9}}{{x\\left( {x + 1} \\right)\\left( {\\sqrt {x + 9} + 3} \\right)}} = \\frac{1}{{\\left( {x + 1} \\right)\\left( {\\sqrt {x + 9} + 3} \\right)}}$\nTa có: $\\mathop {\\lim }\\limits_{x \\to 0} \\frac{1}{{\\left( {x + 1} \\right)\\left( {\\sqrt {x + 9} + 3} \\right)}} = \\frac{1}{6}$$\\Rightarrow$$x = 0$ không là tiệm cận đứng của đồ thị hàm số.\nVà $$\\mathop {\\lim }\\limits_{x \\to - {1^ \\pm }} \\frac{1}{{\\left( {x + 1} \\right)\\left( {\\sqrt {x + 9} + 3} \\right)}} = \\pm \\infty$$$\\Rightarrow x = - 1$ là tiệm cận đứng của đồ thị hàm số.",
+      "chuong": "CHỦ ĐỀ 6. NỀN TẢNG VỀ TIỆM CẬN CỦA ĐỒ THỊ HÀM SỐ",
+      "dang": "Trắc nghiệm luyện tập"
+    },
+    {
+      "id": 33,
+      "type": "single",
+      "content": "Số đường tiệm cận của đồ thị hàm số $y = \\frac{{\\sqrt {{x^2} - 4} }}{{{x^2} - 1}}$ là",
+      "options": [
+        "A. $1$.",
+        "B. $2$.",
+        "C. $3$.",
+        "D. $4$."
+      ],
+      "answer": "A",
+      "explanation": "Điều kiện: $\\left\\{ \\begin{array}{l}{x^2} - 4 \\ge 0\\\\{x^2} - 1 \\ne 0\\end{array} \\right. \\Leftrightarrow \\left\\{ \\begin{array}{l}\\left[ \\begin{array}{l}x \\le - 2\\\\x \\ge 2\\end{array} \\right.\\\\x \\ne \\pm 1\\end{array} \\right. \\Rightarrow$ Tập xác định: $D = \\left( { - \\infty ; - 2} \\right] \\cup \\left[ {2; + \\infty } \\right)$.\nĐồ thị hàm số không có tiệm cận đứng.\nTa có: $\\mathop {\\lim }\\limits_{x \\to + \\infty } y = \\mathop {\\lim }\\limits_{x \\to \\pm \\infty } \\frac{{\\sqrt {{x^2} - 4} }}{{{x^2} - 1}} = \\mathop {\\lim }\\limits_{x \\to \\pm \\infty } \\frac{{\\left| x \\right|\\sqrt {1 - \\frac{4}{{{x^2}}}} }}{{{x^2} - 1}} = \\mathop {\\lim }\\limits_{x \\to \\pm \\infty } \\frac{{x\\sqrt {1 - \\frac{4}{{{x^2}}}} }}{{{x^2} - 1}} = 0$\nĐồ thị hàm số có một đường tiệm cận ngang $y = 0$.",
+      "chuong": "CHỦ ĐỀ 6. NỀN TẢNG VỀ TIỆM CẬN CỦA ĐỒ THỊ HÀM SỐ",
+      "dang": "Trắc nghiệm luyện tập"
+    },
+    {
+      "id": 34,
+      "type": "single",
+      "content": "Tổng số các đường tiệm cận đứng và tiệm cận ngang của đồ thị hàm số $y = \\frac{{\\sqrt {9 - {x^2}} - 2}}{{{x^2} - 5}}$ là",
+      "options": [
+        "A. $4$.",
+        "B. $3$.",
+        "C. $2$.",
+        "D. $0$."
+      ],
+      "answer": "D",
+      "explanation": "Điều kiện: $\\left\\{ \\begin{array}{l}9 - {x^2} \\ge 0\\\\{x^2} - 5 \\ne 0\\end{array} \\right. \\Leftrightarrow \\left\\{ \\begin{array}{l} - 3 \\le x \\le 3\\\\x \\ne \\pm \\sqrt 5 \\end{array} \\right. \\Rightarrow$ Tập xác định $D = \\left[ { - 3;3} \\right]\\backslash \\left\\{ { \\pm \\sqrt 5 } \\right\\}$.\nKhi đó: $y = \\frac{{\\sqrt {9 - {x^2}} - 2}}{{{x^2} - 5}} = \\frac{{\\left( {9 - {x^2}} \\right) - 4}}{{\\left( {{x^2} - 5} \\right)\\left( {\\sqrt {9 - {x^2}} + 2} \\right)}} = \\frac{{ - 1}}{{\\sqrt {9 - {x^2}} + 2}}$\nTa có: $\\mathop {\\lim }\\limits_{x \\to \\pm {{\\sqrt 5 }^ \\pm }} y = \\mathop {\\lim }\\limits_{x \\to \\pm {{\\sqrt 5 }^ \\pm }} \\frac{{ - 1}}{{\\sqrt {9 - {x^2}} + 2}} = \\frac{{ - 1}}{4}$.\nDo đó đồ thị hàm số không có tiệm cận đứng.\nVì tập xác định là $D = \\left[ { - 3;3} \\right]\\backslash \\left\\{ { \\pm 5} \\right\\}$ nên không tồn tại giới hạn $\\mathop {\\lim }\\limits_{x \\to \\pm \\infty } y$\nDo đó đồ thị hàm số không có đường tiệm cận ngang.\nVậy đồ thị hàm số đã cho không có đường tiệm cận đứng và ngang.",
+      "chuong": "CHỦ ĐỀ 6. NỀN TẢNG VỀ TIỆM CẬN CỦA ĐỒ THỊ HÀM SỐ",
+      "dang": "Trắc nghiệm luyện tập"
+    },
+    {
+      "id": 35,
+      "type": "single",
+      "content": "Tổng số đường tiệm cận đứng và tiệm cận ngang của đồ thị hàm số $y = \\frac{{x + \\sqrt {{x^2} + 1} }}{{x + 1}}$ là",
+      "options": [
+        "A. $$1$$.",
+        "B. $$3$$.",
+        "C. $$2$$.",
+        "D. $$0$$."
+      ],
+      "answer": "B",
+      "explanation": "Tập xác định: $D = \\mathbb{R}\\backslash \\left\\{ { - 1} \\right\\}$.\nTa có: $\\mathop {\\lim }\\limits_{x \\to - {1^ \\pm }} y = \\mathop {\\lim }\\limits_{x \\to - {1^ \\pm }} \\frac{{x + \\sqrt {{x^2} + 1} }}{{x + 1}} = \\pm \\infty$\nDo đó đồ thị hàm số nhận đường thẳng $x = - 1$làm đường tiệm cận đứng.\nLại có: $\\mathop {\\lim }\\limits_{x \\to - \\infty } y = \\mathop {\\lim }\\limits_{x \\to - \\infty } \\frac{{x + \\sqrt {{x^2} + 1} }}{{x + 1}} = 0$; $\\mathop {\\lim }\\limits_{x \\to + \\infty } y = \\mathop {\\lim }\\limits_{x \\to + \\infty } \\frac{{x + \\sqrt {{x^2} + 1} }}{{x + 1}} = 2$.\nDo đồ thị hàm số nhận đường thẳng $y = 0$ và đường thẳng $y = 2$ làm hai đường tiệm cận ngang.",
+      "chuong": "CHỦ ĐỀ 6. NỀN TẢNG VỀ TIỆM CẬN CỦA ĐỒ THỊ HÀM SỐ",
+      "dang": "Trắc nghiệm luyện tập"
+    },
+    {
+      "id": 36,
+      "type": "single",
+      "content": "Tiệm cận đứng của đồ thị hàm số $y = \\frac{{x + \\sqrt {4{x^2} - 3} }}{{2x + 3}}$ là",
+      "options": [
+        "A. $x = 0$.",
+        "B. $x = \\frac{3}{2}$.",
+        "C. $x = 2$.",
+        "D. $x = - \\frac{3}{2}$."
+      ],
+      "answer": "D",
+      "explanation": "TXĐ: $D = \\left( { - \\infty ; - \\frac{{\\sqrt 3 }}{2}} \\right] \\cup \\left[ {\\frac{{\\sqrt 3 }}{2}; + \\infty } \\right)\\backslash \\left\\{ { - \\frac{3}{2}} \\right\\}$.\nLại có: $\\mathop {\\lim }\\limits_{x \\to - {{\\frac{3}{2}}^ \\pm }} y = \\pm \\infty \\Rightarrow x = - \\frac{3}{2}$ là tiệm cận đứng của đồ thị hàm số.",
+      "chuong": "CHỦ ĐỀ 6. NỀN TẢNG VỀ TIỆM CẬN CỦA ĐỒ THỊ HÀM SỐ",
+      "dang": "Trắc nghiệm luyện tập"
+    },
+    {
+      "id": 37,
+      "type": "single",
+      "content": "Số đường tiệm cận của đồ thị hàm số $y = x + \\sqrt {{x^2} + 1}$ là",
+      "options": [
+        "A. $$1$$.",
+        "B. $$2$$.",
+        "C. $$3$$.",
+        "D. $$4$$."
+      ],
+      "answer": "B",
+      "explanation": "TXĐ: $D = \\mathbb{R}$\nTa có: $\\mathop {\\lim }\\limits_{x \\to + \\infty } \\frac{y}{x} = \\mathop {\\lim }\\limits_{x \\to + \\infty } \\frac{{x + \\sqrt {{x^2} + 1} }}{x} = 2$.\n$\\mathop {\\lim }\\limits_{x \\to \\pm \\infty } \\left( {y - 2x} \\right) = \\mathop {\\lim }\\limits_{x \\to \\pm \\infty } \\left( {x + \\sqrt {{x^2} + 1} - 2x} \\right) = \\mathop {\\lim }\\limits_{x \\to \\pm \\infty } \\left( {\\sqrt {{x^2} + 1} - x} \\right) = \\mathop {\\lim }\\limits_{x \\to \\pm \\infty } \\frac{1}{{\\sqrt {{x^2} + 1} + x}} = 0$\nVậy $y = 2x$ là tiệm cận xiên của đồ thị hàm số.\nTa có: $\\mathop {\\lim }\\limits_{x \\to - \\infty } y = \\mathop {\\lim }\\limits_{x \\to - \\infty } \\left( {x + \\sqrt {{x^2} + 1} } \\right) = \\mathop {\\lim }\\limits_{x \\to - \\infty } \\frac{1}{{\\sqrt {{x^2} + 1} - x}} = 0$.\nVậy $y = 0$ là tiệm cận ngang của đồ thị hàm số.\nDo đó đồ thị hàm số có $2$ đường tiệm cận.",
+      "chuong": "CHỦ ĐỀ 6. NỀN TẢNG VỀ TIỆM CẬN CỦA ĐỒ THỊ HÀM SỐ",
+      "dang": "Trắc nghiệm luyện tập"
+    },
+    {
+      "id": 38,
+      "type": "single",
+      "content": "Tính giới hạn $\\mathop {\\lim }\\limits_{x \\to + \\infty } \\ln \\left( {\\frac{{{e^x} + 2}}{{{e^x} - 3}}} \\right)$.",
+      "options": [
+        "A. $4$.",
+        "B. $3$.",
+        "C. $1$.",
+        "D. $0$."
+      ],
+      "answer": "D",
+      "explanation": "Ta có: $\\mathop {\\lim }\\limits_{x \\to + \\infty } \\frac{{{e^x} + 2}}{{{e^x} - 3}} = \\mathop {\\lim }\\limits_{x \\to + \\infty } \\frac{{1 + \\frac{2}{{{e^x}}}}}{{1 - \\frac{3}{{{e^x}}}}} = 1$.\n$\\ln (1) = 0$",
+      "chuong": "CHỦ ĐỀ 6. NỀN TẢNG VỀ TIỆM CẬN CỦA ĐỒ THỊ HÀM SỐ",
+      "dang": "Trắc nghiệm luyện tập"
+    },
+    {
+      "id": 39,
+      "type": "single",
+      "content": "Tính giới hạn $\\mathop {\\lim }\\limits_{x \\to + \\infty } \\ln \\left( {\\frac{{4{e^x} + 3}}{{{e^x} - 1}}} \\right)$.",
+      "options": [
+        "A. $\\ln 4$.",
+        "B. $3$.",
+        "C. $1$.",
+        "D. $0$."
+      ],
+      "answer": "A",
+      "explanation": "Biểu thức xác định khi ${e^x} - 1 > 0$, tức là $x > 0$.\nTa có: $\\mathop {\\lim }\\limits_{x \\to + \\infty } \\frac{{4{e^x} + 3}}{{{e^x} - 1}} = \\mathop {\\lim }\\limits_{x \\to + \\infty } \\frac{{4 + \\frac{3}{{{e^x}}}}}{{1 - \\frac{1}{{{e^x}}}}} = 4$.\nSuy ra giới hạn bằng $\\ln 4$.",
+      "chuong": "CHỦ ĐỀ 6. NỀN TẢNG VỀ TIỆM CẬN CỦA ĐỒ THỊ HÀM SỐ",
+      "dang": "Trắc nghiệm luyện tập"
+    },
+    {
+      "id": 40,
+      "type": "single",
+      "content": "Tính giới hạn $\\mathop {\\lim }\\limits_{x \\to + \\infty } \\ln \\left( {\\frac{{1 - {e^x}}}{{{e^x} + 2}}} \\right)$.",
+      "options": [
+        "A. Không tồn tại.",
+        "B. $3$.",
+        "C. $1$.",
+        "D. $0$."
+      ],
+      "answer": "A",
+      "explanation": "Điểu kiện xác định: $$\\frac{{1 - {e^x}}}{{{e^x} + 2}} > 0 \\Leftrightarrow 1 - {e^x} > 0 \\Leftrightarrow x < 0$$.\nDo đó không tồn tại $\\mathop {\\lim }\\limits_{x \\to + \\infty } \\ln \\left( {\\frac{{1 - {e^x}}}{{{e^x} + 2}}} \\right)$.",
+      "chuong": "CHỦ ĐỀ 6. NỀN TẢNG VỀ TIỆM CẬN CỦA ĐỒ THỊ HÀM SỐ",
+      "dang": "Trắc nghiệm luyện tập"
+    },
+    {
+      "id": 41,
+      "type": "single",
+      "content": "Tính giới hạn $\\mathop {\\lim }\\limits_{x \\to + \\infty } {\\log _5}\\left( {\\frac{{7{e^x} - 2}}{{2{e^x} + 6}}} \\right)$.",
+      "options": [
+        "A. ${\\log _5}\\frac{7}{2}$.",
+        "B. ${\\log _5}\\frac{2}{7}$.",
+        "C. $1$.",
+        "D. $0$."
+      ],
+      "answer": "A",
+      "explanation": "Ta có: $\\mathop {\\lim }\\limits_{x \\to + \\infty } \\frac{{7{e^x} - 2}}{{2{e^x} + 6}} = \\mathop {\\lim }\\limits_{x \\to + \\infty } \\frac{{7 - \\frac{2}{{{e^x}}}}}{{2 + \\frac{6}{{{e^x}}}}} = \\frac{7}{2} \\Rightarrow \\mathop {\\lim }\\limits_{x \\to + \\infty } {\\log _5}\\left( {\\frac{{7{e^x} - 2}}{{2{e^x} + 6}}} \\right) = {\\log _5}\\frac{7}{2}$.",
+      "chuong": "CHỦ ĐỀ 6. NỀN TẢNG VỀ TIỆM CẬN CỦA ĐỒ THỊ HÀM SỐ",
+      "dang": "Trắc nghiệm luyện tập"
+    },
+    {
+      "id": 42,
+      "type": "single",
+      "content": "Giá trị $m$ để tiệm cận đứng của đồ thị hàm số $y = \\frac{{2x + 2m - 1}}{{x + m}}$ đi qua điểm $M\\left( {3;1} \\right)$ là",
+      "options": [
+        "A. $m = - 3$.",
+        "B. $m = - 1$.",
+        "C. $m = 2$.",
+        "D. $m = 3$."
+      ],
+      "answer": "A",
+      "explanation": "Tiệm cận đứng của đồ thị hàm số đi qua điểm $M\\left( {3;1} \\right)$ nên đồ thị hàm có tiệm cận đứng là $x = 3$\nSuy ra $x + m = 0$ có nghiệm là $3$ do vậy $3 + m = 0 \\Leftrightarrow m = - 3$.\nThử lại, với $m = - 3 \\Rightarrow y = \\frac{{2x - 7}}{{x - 3}}$ có $\\mathop {\\lim }\\limits_{x \\to {3^ \\pm }} y = \\mathop {\\lim }\\limits_{x \\to {3^ \\pm }} \\frac{{2x - 7}}{{x - 3}} = \\mp \\infty$.\nVậy $m = - 3$.",
+      "chuong": "CHỦ ĐỀ 6. NỀN TẢNG VỀ TIỆM CẬN CỦA ĐỒ THỊ HÀM SỐ",
+      "dang": "Trắc nghiệm luyện tập"
+    },
+    {
+      "id": 43,
+      "type": "single",
+      "content": "Tìm tất cả các giá trị của tham số $m$ để đồ thị hàm số $y = \\frac{{2x + 4}}{{x - m}}$ có tiệm cận đứng?",
+      "options": [
+        "A. $m > - 2$.",
+        "B. $m = - 2$.",
+        "C. $m < - 2$.",
+        "D. $m \\ne - 2$."
+      ],
+      "answer": "D",
+      "explanation": "Để $$x = m$$ là tiệm cận đứng của đồ thị hàm số $$y = \\frac{{u\\left( x \\right)}}{{v\\left( x \\right)}} = \\frac{{2x + 4}}{{x - m}}$$ thì $$\\left\\{ \\begin{array}{l}v\\left( m \\right) = 0\\\\u\\left( m \\right) \\ne 0\\end{array} \\right.$$\n$$\\Leftrightarrow \\left\\{ \\begin{array}{l}m - m = 0\\\\2m + 4 \\ne 0\\end{array} \\right. \\Leftrightarrow \\left\\{ \\begin{array}{l}0 = 0\\\\m \\ne - 2\\end{array} \\right. \\Rightarrow m \\ne - 2$$",
+      "chuong": "CHỦ ĐỀ 6. NỀN TẢNG VỀ TIỆM CẬN CỦA ĐỒ THỊ HÀM SỐ",
+      "dang": "Trắc nghiệm luyện tập"
+    },
+    {
+      "id": 44,
+      "type": "single",
+      "content": "Số các giá trị nguyên của tham số $m$ thuộc $\\left[ { - 2025\\,;\\,2025} \\right]$ để đồ thị hàm số $y = \\frac{{2x + 4}}{{x - m}}$ có tiệm cận đứng nằm bên trái trục tung là",
+      "options": [
+        "A. $$2020$$.",
+        "B. $$2025$$.",
+        "C. $$2024$$.",
+        "D. $$4042$$."
+      ],
+      "answer": "C",
+      "explanation": "Đồ thị hàm số $y = \\frac{{2x + 4}}{{x - m}}$ có tiệm cận đứng là đường thẳng $x = m$ nằm bên trái trục tung thì cần thỏa mãn đồng thời $2$ điều kiện:\nCó $$2024$$ giá trị của $m$ thoả mãn yêu cầu bài toán.",
+      "chuong": "CHỦ ĐỀ 6. NỀN TẢNG VỀ TIỆM CẬN CỦA ĐỒ THỊ HÀM SỐ",
+      "dang": "Trắc nghiệm luyện tập"
+    },
+    {
+      "id": 45,
+      "type": "single",
+      "content": "Cho đường cong $$\\left( C \\right):\\,y = \\frac{{x + a}}{{x - 1}}$$. Biết điểm $M$ thuộc $$\\left( C \\right)$$. Tính tổng các giá trị của tham số $a$ để tiếp tuyến của $$\\left( C \\right)$$ tại $M$ tạo với hai đường tiệm cận của $$\\left( C \\right)$$ một tam giác có diện tích bằng $3\\sqrt 2 + 2$.",
+      "options": [
+        "A. $3\\sqrt 2 - 2$.",
+        "B. $6$.",
+        "C. $- 2$.",
+        "D. $\\frac{{3\\sqrt 2 - 4}}{2}$."
+      ],
+      "answer": "C",
+      "explanation": "Tập xác định: $D = \\mathbb{R}\\backslash \\left\\{ 1 \\right\\}$\n$\\left( C \\right)$ có tiệm cận đứng $$x = 1$$ và tiệm cận ngang $$y = 1$$.\nTa có: $f'\\left( x \\right) = \\frac{{ - 1 - a}}{{{{\\left( {x - 1} \\right)}^2}}}$\nPhương trình tiếp tuyến $d$ của $$\\left( C \\right)$$ tại $M\\left( {{x_0};f\\left( {{x_0}} \\right)} \\right)$ là: $\\,y = \\frac{{ - 1 - a}}{{{{\\left( {{x_0} - 1} \\right)}^2}}}\\left( {x - {x_0}} \\right) + \\frac{{{x_0} + a}}{{{x_0} - 1}}$\nGiao điểm của $d$ với tiệm cận đứng: $A\\left( {1;\\frac{{{x_0} + 2a + 1}}{{{x_0} - 1}}} \\right)$\nGiao điểm của $d$ với tiệm cận ngang: $B\\left( {2{x_0} - 1;1} \\right)$\nGiao hai đường tiệm cận của$$\\left( C \\right)$$ là $I\\left( {1;1} \\right)$. Khi đó: $IA = \\left| {\\frac{{2a + 2}}{{{x_0} - 1}}} \\right|$; $IB = 2\\left| {{x_0} - 1} \\right|$.\nTa có: ${S_{IAB}} = \\frac{1}{2}IA.IB$$= \\left| {2a + 2} \\right|$$= 3\\sqrt 2 + 2$$\\Leftrightarrow \\left[ \\begin{array}{l}a = \\frac{{3\\sqrt 2 }}{2}\\\\a = \\frac{{ - 3\\sqrt 2 - 4}}{2}\\end{array} \\right.$\nVậy tổng các giá trị của $a$ là $- 2$.",
+      "chuong": "CHỦ ĐỀ 6. NỀN TẢNG VỀ TIỆM CẬN CỦA ĐỒ THỊ HÀM SỐ",
+      "dang": "Trắc nghiệm luyện tập"
+    },
+    {
+      "id": 46,
+      "type": "single",
+      "content": "Cho hàm số $y = \\frac{{{x^2} + \\left( {m - 1} \\right)x + {m^2} - 2m + 1}}{{1 - x}}$ (1) với $m$ là tham số thực. Tìm các giá trị của $m$ để đường tiệm cận xiên của đồ thị hàm số (1) tạo với hai trục tọa độ một tam giác có diện tích bằng $\\frac{1}{2}$.",
+      "options": [
+        "A. $m = \\pm 2$.",
+        "B. $m = \\pm 3$.",
+        "C. $m = \\pm 4$.",
+        "D. $m = \\pm 1$."
+      ],
+      "answer": "D",
+      "explanation": "Tập xác định: ${\\rm{D}} = \\mathbb{R}\\backslash {\\rm{\\{ }}1\\} .$ Ta có $y = \\frac{{{x^2} + \\left( {m - 1} \\right)x + {m^2} - 2m + 1}}{{1 - x}} = - x - m + \\frac{{{m^2} - m + 1}}{{1 - x}}$\nĐể đồ thị hàm số có tiệm cận xiên thì ${m^2} - m - 1 \\ne 0 \\Leftrightarrow m \\ne \\frac{{1 \\pm \\sqrt 5 }}{2}$\nĐồ thị hàm số có tiệm cận xiên là $\\Delta :y = - x - m$.\nTiệm cận xiên cắt hai trục tọa độ tại hai điểm $A\\left( {0; - m} \\right)$ và $B\\left( { - m;0} \\right)$.\nDiện tích tam giác $OAB$ là $S = \\frac{1}{2}OA.OB = \\frac{1}{2}\\left| {{y_A}} \\right|.\\left| {{y_B}} \\right| = \\frac{1}{2}{m^2}$.\nTheo giả thiết $S = \\frac{1}{2} \\Leftrightarrow {m^2} = 1 \\Leftrightarrow m = \\pm 1$ (TMĐK).\nVậy giá trị $m$ cần tìm là $$m = \\pm 1$$.",
+      "chuong": "CHỦ ĐỀ 6. NỀN TẢNG VỀ TIỆM CẬN CỦA ĐỒ THỊ HÀM SỐ",
+      "dang": "Trắc nghiệm luyện tập"
+    },
+    {
+      "id": 47,
+      "type": "single",
+      "content": "Tìm tổng tất cả các giá trị của tham số thực $$m$$ để đồ thị hàm số $$y = \\frac{{x - 1}}{{x - m}}$$ có hai đường tiệm cận tạo với hai trục tọa độ một hình chữ nhật có diện tích bằng $$5.$$",
+      "options": [
+        "A. $$2$$.",
+        "B. $$4$$.",
+        "C. $$0$$.",
+        "D. $$5$$."
+      ],
+      "answer": "C",
+      "explanation": "Để hàm số có tiệm cận đứng thì $m \\ne 1$\nXét hàm nhất biến $$y = \\frac{{x - 1}}{{x - m}}$$có tiệm cận đứng $$x = m$$ và tiệm cận ngang $$y = 1.$$\nĐể hai đường tiệm cận tạo với hai trục tọa độ một hình chữ nhật có diện tích bằng $$5$$\nkhi và chỉ khi: $$\\left| m \\right|.1 = 5 \\Leftrightarrow \\left[ \\begin{array}{l}m = 5\\\\m = - 5\\end{array} \\right.$$ (TMĐK)\nVậy có hai giá trị $$m$$ thỏa mãn và tổng chúng bằng $$0$$.",
+      "chuong": "CHỦ ĐỀ 6. NỀN TẢNG VỀ TIỆM CẬN CỦA ĐỒ THỊ HÀM SỐ",
+      "dang": "Trắc nghiệm luyện tập"
+    },
+    {
+      "id": 48,
+      "type": "single",
+      "content": "Cho hàm đa thức bậc bốn $$y = f\\left( x \\right)$$ có đồ thị là đường cong hình bên. Đồ thị hàm số $$g\\left( x \\right) = \\frac{{x{{\\left( {x - 1} \\right)}^2}\\left( {x + 1} \\right)}}{{f\\left( x \\right) + 2}}$$ có tổng tất cả bao nhiêu đường tiệm cận đứng và tiệm cận ngang?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/vact/assets/2026-empire-chu-de-6-nen-tang-ve-tiem-can-cua-do-thi-ham-so-de-so-2/hinh-fee7e1bbaed1.webp\" alt=\"Hình minh họa của câu hỏi\" loading=\"lazy\"></figure>",
+      "options": [
+        "A. $$2$$.",
+        "B. $$4$$.",
+        "C. $$1$$.",
+        "D. $$0$$."
+      ],
+      "answer": "A",
+      "explanation": "Ta có $$g\\left( x \\right) = \\frac{{x{{\\left( {x - 1} \\right)}^2}\\left( {x + 1} \\right)}}{{f\\left( x \\right) + 2}} = \\frac{{x{{\\left( {x - 1} \\right)}^2}\\left( {x + 1} \\right)}}{{2{{\\left( {x - 1} \\right)}^2}{{\\left( {x + 1} \\right)}^2}}} = \\frac{x}{{2(x + 1)}}$$.\nTa thấy: $$\\mathop {\\lim }\\limits_{x \\to + \\infty } g\\left( x \\right) = \\mathop {\\lim }\\limits_{x \\to - \\infty } g\\left( x \\right) = 1$$ $$\\Rightarrow$$$$y = g\\left( x \\right)$$ có một tiệm cận ngang là $$y = \\frac{1}{2}$$.\n$$\\mathop {\\lim }\\limits_{x \\to - {1^ + }} g\\left( x \\right) = - \\infty ,\\,\\,\\mathop {\\lim }\\limits_{x \\to - {1^ - }} g\\left( x \\right) = + \\infty \\Rightarrow$$ $$y = g\\left( x \\right)$$ có một tiệm cận đứng là $$x = - 1$$.\nVậy $$g\\left( x \\right)$$ có hai đường tiệm cận.",
+      "chuong": "CHỦ ĐỀ 6. NỀN TẢNG VỀ TIỆM CẬN CỦA ĐỒ THỊ HÀM SỐ",
+      "dang": "Trắc nghiệm luyện tập"
+    },
+    {
+      "id": 49,
+      "type": "single",
+      "content": "Cho hàm số bậc năm $$y = f\\left( x \\right)$$ liên tục trên $$\\mathbb{R}$$ và có đồ thị như hình vẽ. Đồ thị hàm số $$g\\left( x \\right) = \\frac{{\\sqrt x }}{{{f^2}\\left( x \\right) + f\\left( x \\right) - 2}}$$ có bao nhiêu đường tiệm cận đứng?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/vact/assets/2026-empire-chu-de-6-nen-tang-ve-tiem-can-cua-do-thi-ham-so-de-so-2/hinh-148b150f39fd.webp\" alt=\"Hình minh họa của câu hỏi\" loading=\"lazy\"></figure>",
+      "options": [
+        "A. $$2$$.",
+        "B. $$4$$.",
+        "C. $$1$$.",
+        "D. $$0$$."
+      ],
+      "answer": "A",
+      "explanation": "<figure class=\"question-figure\"><img src=\"data/l12/toan/vact/assets/2026-empire-chu-de-6-nen-tang-ve-tiem-can-cua-do-thi-ham-so-de-so-2/hinh-a6e2697c4563.webp\" alt=\"Hình minh họa của câu hỏi\" loading=\"lazy\"></figure>\nTa có: $$g\\left( x \\right) = \\frac{{\\sqrt x }}{{\\left[ {f\\left( x \\right) - 1} \\right]\\left[ {f\\left( x \\right) - \\left( { - 2} \\right)} \\right]}}$$\nTừ đồ thị, ta minh họa $g\\left( x \\right)$ như sau:\n$$g\\left( x \\right) = \\frac{{\\sqrt x }}{{{{\\left( {x + 2} \\right)}^2}\\left( {x - 3,5} \\right){{\\left( {x - 2} \\right)}^2}\\left( {x + 3,5} \\right)}}$$ mà $$x \\ge 0$$.",
+      "chuong": "CHỦ ĐỀ 6. NỀN TẢNG VỀ TIỆM CẬN CỦA ĐỒ THỊ HÀM SỐ",
+      "dang": "Trắc nghiệm luyện tập"
+    },
+    {
+      "id": 50,
+      "type": "single",
+      "content": "Cho hàm số bậc ba $$y = f\\left( x \\right)$$ có đồ thị như hình vẽ. Đồ thị hàm số $$g\\left( x \\right) = \\frac{{\\sqrt {10x + 9} + \\sqrt {5 - 2x} }}{{8{f^2}\\left( x \\right) - 13f\\left( x \\right)}}$$ có bao nhiêu đường tiệm cận đứng?\n<figure class=\"question-figure\"><img src=\"data/l12/toan/vact/assets/2026-empire-chu-de-6-nen-tang-ve-tiem-can-cua-do-thi-ham-so-de-so-2/hinh-3fa7b3440862.webp\" alt=\"Hình minh họa của câu hỏi\" loading=\"lazy\"></figure>",
+      "options": [
+        "A. $$1.$$",
+        "B. $$2.$$",
+        "C. $$3.$$",
+        "D. $$4.$$"
+      ],
+      "answer": "B",
+      "explanation": "<figure class=\"question-figure\"><img src=\"data/l12/toan/vact/assets/2026-empire-chu-de-6-nen-tang-ve-tiem-can-cua-do-thi-ham-so-de-so-2/hinh-316d782e7202.webp\" alt=\"Hình minh họa của câu hỏi\" loading=\"lazy\"></figure>\nĐiều kiện để căn thức có nghĩa là: $$\\left\\{ \\begin{array}{l}10x + 9 \\ge 0\\\\5 - 2x \\ge 0\\end{array} \\right. \\Leftrightarrow - \\frac{9}{{10}} \\le x \\le \\frac{5}{2}.$$\nTừ đồ thị của hàm số $$f\\left( x \\right),$$ ta tìm được $$f\\left( x \\right) = {x^3} - 3{x^2} + 5.$$\n$$f\\left( x \\right) \\ne 0,{\\rm{ }}\\forall x \\in \\left[ { - \\frac{9}{{10}};\\frac{5}{2}} \\right].$$\nVậy đồ thị hàm số đã cho có $2$ tiệm cận đứng.",
+      "chuong": "CHỦ ĐỀ 6. NỀN TẢNG VỀ TIỆM CẬN CỦA ĐỒ THỊ HÀM SỐ",
+      "dang": "Trắc nghiệm luyện tập"
+    }
+  ],
+  "notes": "Nguồn có 48/50 đáp án chính thức; các câu còn lại được giữ ở trạng thái chưa có đáp án."
+}

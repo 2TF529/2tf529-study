@@ -344,7 +344,10 @@ def main() -> int:
         title_guard = set() if args.force else known
         futures = [executor.submit(convert_one, row, title_guard, TARGET) for row in candidates]
         for index, future in enumerate(as_completed(futures), 1):
-            result = future.result()
+            try:
+                result = future.result()
+            except Exception as exc:
+                result = {"status": "rejected", "id": "unknown", "reason": str(exc)}
             results.append(result)
             detail = result.get("path") or result.get("reason") or result.get("title", "")
             print(f"[{index}/{len(futures)}] {result['status'].upper()}: {detail}")
