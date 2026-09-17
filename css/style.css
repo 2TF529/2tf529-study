@@ -1,4 +1,4 @@
-:root{
+﻿:root{
   /* ===== Nền trung tính (ấm, dịu mắt) - dùng chung cho mọi bảng màu ở chế độ sáng ===== */
   --paper:#faf6ee;
   --white:#fffdf9;
@@ -32,7 +32,7 @@
   --shadow-lg:0 12px 32px rgba(30,25,10,.13);
 
   /* ===== Font ===== */
-  --font-body:"Segoe UI",Arial,sans-serif;
+  --font-body:"Inter","Segoe UI",Arial,sans-serif;
   --font-mono:Consolas,Monaco,monospace;
 }
 
@@ -240,6 +240,13 @@
 [data-theme="dark"] .question-figure img{background:#f4f4f4;}
 [data-theme="dark"] .choice-btn,[data-theme="dark"] .ontap-banner{background:var(--navy-800);}
 [data-theme="dark"] .timer{box-shadow:inset 0 0 0 1px rgba(255,255,255,.12);}
+/* ===== Dark mode: fix invisible text & input styling ===== */
+[data-theme="dark"] .score-ring::before{background:var(--surface2,#2b271e);}
+[data-theme="dark"] .options label{background:rgba(255,255,255,.04);color:var(--ink-900);}
+[data-theme="dark"] .options label:hover{background:var(--blue-50);}
+[data-theme="dark"] .options label:has(input:checked){background:var(--blue-50);}
+[data-theme="dark"] input[type="text"],[data-theme="dark"] input[type="number"],[data-theme="dark"] textarea,[data-theme="dark"] select{background:var(--surface2,#2b271e);color:var(--ink-900);border-color:var(--line);}
+[data-theme="dark"] .short-answer-input,[data-theme="dark"] .long-answer-input{background:var(--surface2,#2b271e);color:var(--ink-900);border:1px solid var(--line);border-radius:var(--radius-sm);padding:10px 12px;}
 
 *{box-sizing:border-box;}
 html{-webkit-text-size-adjust:100%;}
@@ -920,7 +927,7 @@ table.code-compare pre{margin:0;font-family:var(--font-mono);white-space:pre-wra
   text-align:center;
   box-shadow:var(--shadow-lg);
 }
-.result-card h2{color:var(--navy-800);margin-top:0;font-size:18px;}
+.result-card h2{color:var(--ink-900);margin-top:0;font-size:18px;}
 .score-ring{
   width:150px;height:150px;
   margin:20px auto 8px;
@@ -943,7 +950,7 @@ table.code-compare pre{margin:0;font-family:var(--font-mono);white-space:pre-wra
   font-family:var(--font-mono);
   font-weight:700;
   font-size:28px;
-  color:var(--navy-800);
+  color:var(--ink-900);
 }
 .score-ring .score-num small{display:block;font-size:12px;font-weight:600;color:var(--ink-500);}
 .result-sub{color:var(--ink-500);font-size:13px;margin-top:4px;}
