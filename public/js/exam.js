@@ -44,15 +44,15 @@ function typesetMath(container) {
 
 
 function isOfficialAnswer() {
-  return (examData.answerSource || examMeta.answerSource || "ai") === "official";
+  return getAnswerAvailability() === "official";
 }
 
 function isMissingAnswer() {
-  return (examData.answerSource || examMeta.answerSource || "ai") === "missing";
+  return getAnswerAvailability() === "missing";
 }
 
 function isPartialAnswer() {
-  return (examData.answerSource || examMeta.answerSource || "ai") === "partial";
+  return getAnswerAvailability() === "partial";
 }
 
 // Runtime Answer Obfuscation & Memory Protection
@@ -349,6 +349,17 @@ function renderQuestion(idx) {
     idx === examData.questions.length - 1 ? "Câu cuối" : "Câu tiếp →";
 }
 
+// Imported exams sometimes declare a full answer key although only part of it
+// has been recovered. Never count an unkeyed question as an incorrect answer.
+function getAnswerAvailability() {
+  const declared = (examData && examData.answerSource) || (examMeta && examMeta.answerSource) || "ai";
+  const questions = (examData && Array.isArray(examData.questions)) ? examData.questions : [];
+  const keyedCount = questions.filter(hasQuestionAnswer).length;
+  if (declared === "missing" || keyedCount === 0) return "missing";
+  if (declared === "partial" || keyedCount < questions.length) return "partial";
+  return declared;
+}
+
 // Bấm vào hình vẽ/đồ thị trong câu hỏi để phóng to xem cho rõ
 function setupImageZoom() {
   document.querySelectorAll(".question-figure img, .passage-box img").forEach(img => {
@@ -416,7 +427,7 @@ function doSubmit(auto) {
   const total = examData.questions.length;
   const missingAnswer = isMissingAnswer();
   const partialAnswer = isPartialAnswer();
-  const gradableTotal = partialAnswer ? examData.questions.filter(hasQuestionAnswer).length : total;
+  const gradableTotal = examData.questions.filter(hasQuestionAnswer).length;
   let sumScore = 0;
   const details = examData.questions.map((q, idx) => {
     if (missingAnswer || (partialAnswer && !hasQuestionAnswer(q))) {
@@ -443,7 +454,7 @@ function doSubmit(auto) {
       correctCount: missingAnswer ? null : details.filter(d => d.correct).length,
       totalQuestions: total,
       answeredCount: answeredCount,
-      answerSource: missingAnswer ? "missing" : (partialAnswer ? "partial" : (isOfficialAnswer() ? "official" : "ai")),
+      answerSource: getAnswerAvailability(),
       date: completedAt.toISOString()
     };
 
